@@ -1,0 +1,86 @@
+# öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-03-06T16:00:00+01:00
+- Ende: 2023-03-06T20:05:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21240
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21240
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00308910.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wahl eines Beigeordneten
+- TOP 2: Fragestunde
+- TOP 2.1: Fehlender Räumungsbeschlusses/richterlichen Anordnung bezüglich der Räumung Osterholz - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Fehlender Räumungsbeschlusses/richterlichen Anordnung bezüglich der Räumung Osterholz - Entgegennahme ohne Beschluss
+- TOP 2.2: Landschaftsplan Wuppertal West - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Landschaftsplan Wuppertal-West - Entgegennahme ohne Beschluss
+- TOP 2.3: Gemeinnützigkeit BuGa-Gesellschaft - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Gemeinnützigkeit BuGa-Gesellschaft - Entgegennahme ohne Beschluss
+- TOP 2.4: Preisgestaltung und Ausbau Fernwärme - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Preisgestaltung und Ausbau Fernwärme - Entgegennahme ohne Beschluss
+- TOP 2.5: Sachstand Schulbaumaßnahmen - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Sachstand Schulbaumaßnahmen - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Planung einer Pilotanlage für die Wiederverwertung und -aufbereitung von Kunststoffen (Kryo-Recycling)
+- TOP 4: Anträge
+- TOP 4.1: Umgestaltung des Redepultes im Ratssaal - ungeändert beschlossen
+- TOP 4.2: Haushaltsantrag AGFW - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3: Ranger für Waldschutz und Sicherheit - ungeändert beschlossen
+- TOP 4.4: Prüfung des Verkaufs der ehemaligen Zoofestsäle - zur Vorberatung verwiesen
+- TOP 4.5: Prüfauftrag Zukünftige öffentliche Nutzung der Zoo-Säle - zur Vorberatung verwiesen
+- TOP 4.6: Änderung der Hauptsatzung § 2 der Stadt Wuppertal - Siegel, Wappen und Flagge - abgelehnt
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Handlungsprogramm Nachhaltigkeit und Klimaschutz - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Auskömmliche Finanzierung des ÖPNV - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Immobilien- und Standortgemeinschaft (ISG) Poststraße - ungeändert beschlossen
+- TOP 6.2: Dienstanweisungen des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 6.3: 8. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen (GeschO) - ungeändert beschlossen
+- TOP 6.4: Entgeltordnung des von der Heydt-Museums - ungeändert beschlossen
+- TOP 6.5: 17. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2023 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2021 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 8.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2022 bis 31.12.2023 für das Altenheim Vogelsangstraße - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss und Lagebericht 2020 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsaussschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2020 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1223 - August-Jung-Weg / östlich Hosfelds Katernberg - - ungeändert beschlossen
+- TOP 9.2: Moschee an der Gathe, Zielbeschluss - ungeändert beschlossen
+- TOP 9.2.1: Ergänzungsantrag zu TOP Moschee an der Gathe, Zielbeschluss (VO/1658/23) - Antrag der Fraktionen von CDU, SPD und FDP vom 22.02.2023 / 1-Neuf. - ungeändert beschlossen
+- TOP 9.2.2: Änderungsantrag – Moschee an der Gathe, Zielbeschluss mit der Beschlussvorlage VO/1658/23 - abgelehnt
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gremientätigkeiten von Herrn Oberbürgermeister Prof. Dr. Uwe Schneidewind - Entgegennahme ohne Beschluss
+- TOP 11.2: Errichtung der offenen Ganztagsgrundschule Gewerbeschulstraße - ungeändert beschlossen
+- TOP 11.3: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2023/2024 - ungeändert beschlossen
+- TOP 11.4: Fortschreibung des Wuppertaler Nahverkehrsplans - Festlegung der weiteren Ausrichtung des Plans - ungeändert beschlossen
+- TOP 11.5: Quartalsbericht IV/2022 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.6: Wiederaufbauplan Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.7: Smart-City-Strategie - vertagen
+- TOP 11.8: Sachstandsbericht Klimaschutz und Klimafolgenanpassung - Entgegennahme ohne Beschluss
+- TOP 11.9: Städtisches Förderprogramm "Energieeffizientes Zuhause" - ungeändert beschlossen
+- TOP 11.10: Aufstellung der Arbeitsprogramme für die Teilnahme am European Energy Award (EEA) und European Climate Adaption Award (ECA) - ungeändert beschlossen
+- TOP 11.11: Auslobung eines Wuppertaler Heimat-Preises für die Jahre 2023 bis 2027 - ungeändert beschlossen
+- TOP 11.12: Beitritt zum CIVITAS CONNECT e. V. - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neuwahl der Arbeitnehmervertreter für den Aufsichtsrat der AWG - ungeändert beschlossen
+- TOP 12.2: Bundesgartenschau Wuppertal 2031 gGmbH - Besetzung des Aufsichtsrates und Bestellung der Geschäftsführung der Gesellschaft - vertagen
+- TOP 12.3: 42. ordentliche Hauptversammlung des Deutschen Städtetages vom 23. bis 25. Mai 2023 in Köln - geändert beschlossen
+- TOP 12.4: Bestellung eines stellvertretenden Mitgliedes des Klimabeirates - ungeändert beschlossen
+- TOP 12.5: Neubesetzung des Aufsichtsrates der BEG Entsorgungsgesellschaft mbH - geändert beschlossen
+- TOP 12.6: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.9: Umbesetzung im Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.10: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.11: Umbesetzung im Planungsbeirat Forensik - ungeändert beschlossen
