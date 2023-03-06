@@ -1,0 +1,93 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-03-06T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446538
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446538
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Hohes Verkehrsaufkommen in der Esswurmstraße
+- TOP 2.2.: Tempolimit 30 in Schäftlarnstraße
+- TOP 2.3.: Meindlstraße Frontalparken abschaffen
+- TOP 2.4.: Bauvorhaben Plinganserstraße 55
+- TOP 2.5.: Verfugung des Kopfsteinpflasters in der Oberländerstraße
+- TOP 2.6.: Schließung einer Einfahrt an der Hans-Preißinger-Straße
+- TOP 2.7.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung in München
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Bauvorhaben Fallstraße 38
+- TOP 4.2.2.: Bauvorhaben Wackersberger Straße 49
+- TOP 4.2.3.: Baumfällung Fallstraße 34
+- TOP 4.2.4.: Erbbaurechtsvergabe einer städtischen Immobilie
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München am 23.01.2023
+- TOP 4.3.3.: Gefahrenbaumfällung Greinerberg 15-15a
+- TOP 4.3.4.: Bestellung städtischer Leistungen zur Umwandlung von Parkplätzen zu Baumstandorten in der Oberländerstraße in Sendling
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: REWE-Grundstück in städtische Hand! [SPD-Fraktion]
+- TOP 4.4.2.: Das Sendlinger Naturdenkmal wieder als Denkmal herrichten! [SPD-Fraktion]
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung Aberlestraße, Alramstraße, Danklstraße 110 kV-Leitung - Verlängerung
+- TOP 5.3.2.: Ertüchtigung der Südseite des Mittleren Rings für gegenläufigen Radverkehr zwischen Tunnelausfahrt Brudermühlstraße und Passauerstraße
+- TOP 5.3.3.: Verparkung durch Wohnmobile in der Durchfahrt Flössergasse trotz Parkverbot Antwortg
+- TOP 5.3.4.: Terminierung Umbau Fahrrad- und Fußwege in der Pfeuferstraße
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung Bavariastraße/ Querung Lindwurmstraße - Alramstraße 110 kV-Leitung
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Alte Utting GmbH “Kunterbuntes Ferienprogramm und meer … vom 24.02.2023 – 31.12.2023“ 4.075,00 € / AZ: 0262.0-6-0411
+- TOP 6.1.2.: Antrag auf städtische Leistungen für runde Tischtennis-Platte
+- TOP 6.1.3.: (E) Stadtbezirksbudget ars musica e.V. “ars musica goes back in time 1923 – die Revue runnin wild vom 21.04.2023 – 23.04.2023“ 4.000,00 € / AZ: 0262.0-6-0412
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Himmelfahrtskirche Bericht zur 15. Sendlinger Orgelnacht
+- TOP 6.3.2.: Himmelfahrtskirche Bericht zum Münchner Orgelsommer
+- TOP 6.3.3.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose Dezember 2022
+- TOP 7.3.2.: Fachstelle MoNa Nachtspaziergänge
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.8.: Baustelle Sendlinger Loch
+- TOP 2.9.: Sauberkeit des U-Bahnhofs Harras
+- TOP 2.10.: Verschmutzung des Bodens durch Spucke
+- TOP 5.2.1.: Sommertreff Mütterzentrum Sendling am Dietramszellerplatz vom 02.05. bis 29.09.2023
+- TOP 5.2.2.: Zeitlich beschränktes einseitiges Halteverbot in der Sackgasse Schöttlstraße
+- TOP 4.3.5.: Eilentscheidung: Bebauungsplan Nr. 2177 Implerstraße/Poccistraße Sicherung U-Bahnhaltestelle U9 - Beteiligung der Öffentlichkeit
+- TOP 2.11.: Beschwerde über Demonstration am Harras
+- TOP 5.3.6.: U9-Entlastungsspange: Grundlagenermittlung für die Vorplanung - Vermessungsarbeiten im Stadtgebiet
+- TOP 6.2.1.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen
