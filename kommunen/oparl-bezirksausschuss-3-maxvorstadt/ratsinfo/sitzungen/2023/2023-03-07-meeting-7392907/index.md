@@ -1,0 +1,164 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7392907
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7392907
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: WC U-Bahn Josephsplatz
+- TOP 6.2.: Zwischennachricht Antrag "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 6.3.: Antrag Grüne vom 26.09.2022 Leerstand in der Maxvorstadt: Nutzung ARRI Gebäude in der Türkenstraße
+- TOP 6.4.: Antrag Grüne vom 26.09.2022 Klimaschutz in der Maxvorstadt – Frühzeitige Information von Bauherrinnen und Bauherren zu ökologischen Verbesserungen bei Baumaßnahmen
+- TOP 6.5.: Sitzbänke auf der Grünfläche an der Schelling-, Luisen- und der Zieblandstrasse alsbald reinigen und auf der kleineren Grünfläche an der Schelling-/Luisenstrasse einen Hundetütenspender aufstellen
+- TOP 6.6.: Leerstand Mehrfamilienhaus Schellingstr. 124 Ausverkauf der Maxvorstadt verhindern – Wohnungsleerstand kontrollieren und die Zweckentfremdung verhindern und ahnden
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baumfällungen in der Seidlstraße
+- TOP 1.1.2.: Zwei Baumfällungen Karlstraße und vier Fällungen Seidlstraße
+- TOP 1.1.3.: Türkenstraße 94
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag der Grünen Fraktion zur Förderung von Superblocks in der Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 4-5
+- TOP 2.1.2.: WEB-Listen der LBK: KW 3-6
+- TOP 2.1.3.: Augustenstr. 45 Neubau Rückgebäude
+- TOP 2.1.4.: Amalienstr. 53 Nutzungsänderung Gastronomie
+- TOP 2.1.5.: Schellingstr. 45 Nutzungsänderung: Bar mit Gastraumerweiterung zu Vergnügungsstätte mit Livemusik (DJ)
+- TOP 2.1.6.: Türkenstr. 52 Neubau einer Wohnanlage
+- TOP 2.1.7.: Augustenstr. 37 Nutzungsänderung im Erdgeschoss von Verkaufsfläche zu Gaststätte
+- TOP 2.1.8.: TEKTUR Freiflächengestaltungsplan, Heßstraße 14
+- TOP 2.2: Budgetantrag
+- TOP 2.2.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Blutenburgstraße e.V. Umweltbildung für die vierten Klassen im April 2023 450,00 Euro, Az.: 0262.0-3-0448
+- TOP 2.3: BV Empfehlung
+- TOP 2.3.1.: (E) Lampen am Verbindungsweg zwischen Ludwigstraße und Kaulbachstraße zwischen 22 – 6 Uhr ausschalten
+- TOP 2.3.2.: (E) Instandsetzung Grünanlage an der Augustenstraße nach Baumaßnahme
+- TOP 2.3.3.: (E) Größere Müllbehälter und häufigere Leerung an Hotspots im Univiertel
+- TOP 2.3.4.: (E) Mehr Grün für die Maxvorstadt – Straßenbäume für München
+- TOP 2.4: Anhörung
+- TOP 2.4.1.: Planfeststellungsverfahren &#039;Neubau Hauptbahnhof Empfangsgebäude PFA 2&#039;
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Veterinärstraße 13
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 4.1.: Anfrage Baumkübel 2024
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Antwort LBK auf Stellungnahme BA zur Heßstraße 49
+- TOP 5.2.: Antwort LBK auf Anfrage an den BA 3 wegen Fassadengestaltung in der Neureuther Straße 16
+- TOP 5.3.: Bescheid zu Fällungsantrag vom 19.12.2022 auf dem Grundstück Seidlstr. 15
+- TOP 5.4.: Positionspapier der Initiative JustizzentrumErhalten
+- TOP 5.5.: Bescheid Karlsstr. 6
+- TOP 5.6.: Bescheid zur Baugenehmigung Zieblandstr. 5
+- TOP 5.7.: Bescheid zur Baugenehmigung Nymphenburger Straße 67
+- TOP 5.8.: BA 1 – Banner für den Englischen Garten
+- TOP 5.9.: Bescheid zu Baumfällung Kreittmayerstr. 15
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Unzulässige Nutzung Gehweg - Schellingstraße 27
+- TOP 1.1.2.: Arcis-/Adalbertstr. - Gefährdung durch Werstoffcontainer
+- TOP 1.1.3.: Antrag auf Fahrradabstellplätze vor dem Tum Sprachenzentrum in der Richard-Wagner-Str. 3.
+- TOP 1.1.4.: Demonstrationsstreckenführung in München
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Restgehwegbreiten bei Freischankflächen
+- TOP 1.2.2.: entfällt
+- TOP 1.2.3.: Enzis für die Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Entwurf verkehrsrechtliche Anordnung: Demarkierung Schutzstreifen in der Georgenstraße sowie Anbringung einer Piktogrammkette "Fahrrad"
+- TOP 2.1.2.: Anhörung, verkehrsrechtliche Anordnung Türkenstraße
+- TOP 2.1.3.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Barer-/ Theresienstr.
+- TOP 2.1.4.: Schackstr. 2, Anpassung allg. Behindertenstellplatz und Einrichtung zusätzlicher Stellplatz
+- TOP 2.1.5.: Rottmannstr. 21, Einrichtung einer Hol- und Bringzone für KiTa Björnbären e.V
+- TOP 2.1.6.: (E) Änderung der Anliefer- und Auslieferzeiten der Gorillas in der Lothstraße
+- TOP 2.1.7.: (E) Verstärkte Kontrollen und Sanktionierung von Falschparkern (2. Reihe) abends in der Türkenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Reduzierung der Lärmbelästigung ausgehend von Veranstaltungen und Versammlungen am Königsplatz
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Gaststätte "Andiamo", Görresstr. 41 - Antrag auf eine Freischankfläche in Parkständen
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung: Königsplatz (Bez.3) - Gedenkveranstaltung "München liest aus verbrannten Büchern" am 10.05.2023
+- TOP 2.4.2.: Oskar-von-Miller-Ring 1/ Ecke Brienner Str. 16 | Anhörung § 29 StVO für "Tag des Bayeri-schen Bieres 2023" am 24.04.2023
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Weiterentwicklung des MVV-Gemeinschaftstarifs MVV-Tickets für Jugendliche bezahlbar machen BA-Antrags-Nr. 14-20/B 03188 des Bezirksausschusses des Stadtbezirkes 03 -- Maxvorstadt vom 10.01.2017
+- TOP 3.2.: Versetzung Fahrradstellplätze in Georgenstraße 93
+- TOP 3.3.: SWM Baumaßnahme FW-Projekt - BV Kaulbachstraße (Aktualisierung Bauende)
+- TOP 3.4.: Schulwegsicherheit Adamstraße, BA3
+- TOP 3.5.: (U) Sachstandsbericht 2022 zum Altstadt-Radlring und Radentscheid Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung ab 2023 ff. aus der Nahmobilitätspauschale
+- TOP 3.6.: SWM Baumaßnahme Fernkälte-Projekt - BV Oskar-von-Miller-Ring - BA 03 (Maxvorstadt)
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Fachbasis Maxvorstadt - Nachbarschaftstreff Arnulfstraße Infotag "Housing first - eine Chance für München" am 27.03.2023 700,00 Euro, Az.: 0262.0-3-0249
+- TOP 2.2.: Errichtung von Räumen für eine Offene Einrichtung für Kinder und Jugendliche bis 14 Jahren und einen Nachbarschaftstreff Erika-Mann-Straße 3. Stadtbezirk Maxvorstadt 1. Genehmigung des Nutzerbedarfsprogramms 2. Projektauftrag 3. Fortschreibung des Mehrjahresinvestitionsprogramms 2022-2026
+- TOP 2.3.: (E) Tischtennisplatten am Rudi-Hierl-Platz
+- TOP 2.4.: Anhörung: Bezirksübergreifender Antrag CultureClouds e.V. (ehem. Spielen in der Stadt e.V.); - Zirkus Pumpernudl, städt. Grünanlagen, 31.3.-2.7.2023
+- TOP 2.5.: (E) Spielplatz Tengstraße – Untergrund für Seilbahn aufschütten
+- TOP 2.6.: Medizinkonzept der München- Klinik
+- TOP 2.7.: Maßmannpark-Entscheidung des BA
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Ein Kulturprojektraum für die Maxvorstadt – Vernetzung der freien Szene mit den etablierten Häusern unterstützen.
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Katholische Kirchenstiftung St. Joseph Konzert am 26.03.2023 1.000,00 Euro, Az.: 0262.0-3-0444
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Trafohäuschen Nordfriedhof" Gestaltung des Trafohäuschens Nordfriedhof ab 01.03.2023 2.500,00 Euro, Az.: 0262.0-3-0443
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Behördenorchester e.V. Vorbereitung für ein Konzert vom 31.03. - 02.04.2023 4.280,00 Euro, Az.: 0262.0-3-0244
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "PUNCHLINES" PUNCHLINES Stand-up-Comedy am 11.03.2023 1.970,00 Euro, Az.: 0262.0-3-0446
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Münchner Wände für Streetart Made in Munich
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.2.2.: Türkenstr. 76: Aufstellen einer neuen Verkaufseinrichtung (Postkartenständer)
+- TOP 2.2.3.: Türkenstr. 76: Aufstellen einer Sitzgelegenheit
+- TOP 2.2.4.: (E) Zweites Flutlicht am Bolzplatz Josephsplatz
+- TOP 2.8.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Inklusion in Bewegung vom 22. - 25.05.2023 3.540,00 Euro, Az.: 0262.0-3-0451
+- TOP 4.1.: Errichtung von Räumen für eine Offene Einrichtung für Kinder und Ju-gendliche bis 14 Jahren und einen Nachbarschaftstreff Erika-Mann-Straße 3. Stadtbezirk Maxvorstadt 1. Genehmigung des Nutzerbedarfsprogramms 2. Pro-jektauftrag 3. Fortschreibung des Mehrjahresinvestitionsprogramms 2022-2026 Eilentscheidung der BA-Vorsitzenden vom 23.02.2023: Zustimmung zur Vorlage
+- TOP 2.2.5.: Anhörung Antrag auf Erweiterung der Fahrradabstellfläche, Schleißheimer Str. 106
+- TOP 5.10.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 5.11.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VII" 2023 - 2028 Nachhaltiges und zukunftsfähiges Wohnen Änderung des Mehrjahresinvestitionsprogramms2023 - 2028; Finanzierung
+- TOP 5.12.: ÖPNV Bauprogramme a) Sachstandsbericht zum 1. ÖPNV Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. ÖPNV Bauprogramms Planungsleistungen für das 2. ÖPNV Bauprogramm
+- TOP 2.3.2.: Gaststätte "Lo Spuntino", Hiltenspergerstr. 8 – Parkplatzfreischankfläche
+- TOP 2.3.3.: Gaststätte "Lo Spuntino", Hiltenspergerstr. 8 - seitliche Ausdehnung
+- TOP 5.13.: IAA 2023 – Weiteres Vorgehen Blue Lane
+- TOP 1.2.2.: Biologische Vielfalt im Stadtviertel stärken! Die offenen Baumgruben in der Georgenstraße mit insektenfreundlicher Blumenmischung ansäen und mit einem ausreichenden Parkschutz ein-hegen
+- TOP 2.3.4.: Gaststätte "Max Emanuel", Adalbertstr. 33 - Parkplatzfreischankfläche
+- TOP 2.2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Schwindschule Umweltbildung für die 4. Klassen, FTG, Deutschklassen vom 31.01. - 31.07.2023 900,00 Euro, Az.: 0262.0-3-0449
+- TOP 2.2.6.: (E) Öffentliche Toiletten in der Maxvorstadt
+- TOP 2.1.8.: verkehrsrechtliche Anordnung Georgenstraße, BA 03 Maxvorstadt, BA 04 Schwabing-West
+- TOP 1.2.: Neuregelung der Bürger*innensprechstunde des BA 3
+- TOP 1.1.4.: Abholzen von Bäumen an der Schleißheimer Str. 34
+- TOP 3.2.2.: Barer Straße 29
+- TOP 3.: Aktuelle Sachstandsberichte
