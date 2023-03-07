@@ -1,0 +1,68 @@
+# 21. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-07T16:05:00+01:00
+- Ende: 2023-03-07T18:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27344
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27344
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Begleitende Kommunikation der Verkehrsversuche - zurückgestellt
+- TOP 1.2: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.2.1: Ergänzungsantrag zu TOP 1.2 – Antrag der FDP-Fraktion „Beschleunigung ÖPNV-Netzentwicklung“ (AN/0027/2023) - zurückgestellt
+- TOP 1.2.2: Änderungsantrag zu AN/0027/2023 Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.3: Maßnahmen gegen illegale Autorennen – Alfred-Schütte-Allee endlich sichern - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungsbeschluss für die Umgestaltung der Neusser Straße zwischen Niehler Kirchweg und Kempener Straße - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag der FDP-Fraktion zu TOP 3.2 - endgültig abgelehnt
+- TOP 3.1.2: Änderungsantrag zu TOP 3.1 - Planungsbeschluss für die Umgestaltung der Neusser Straße - 3169/2022 - ungeändert beschlossen
+- TOP 3.2: Verwendung von Stellplatzablösemitteln zur Förderung des Radverkehrs - ungeändert beschlossen
+- TOP 3.2.1: Änderungsantrag zur Beschlussvorlage 3784/2022: Verwendung von Stell-platzablösemitteln zur Förderung des Radverkehrs; hier: Mehrkosten für einen Bike Tower an der Haltestelle Weiden-West (TOP 3.2) - endgültig abgelehnt
+- TOP 3.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG – Ergänzung der Fortschreibung für die Jahre 2023 bis 2027 um die Erneuerung der Straßenentwässerung in der Christian-Sünner-Straße - ungeändert beschlossen
+- TOP 3.4: On-Demand-Angebot KVB-Isi - ohne Votum in nachfolgende Gremien
+- TOP 3.4.1: On-Demand-Angebot KVB-Isi - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 4.2: Baubeschluss für den Ersatzneubau der Brücke Frankfurter Straße (B 8) über die B 55a - mit Änderungen empfohlen
+- TOP 4.3: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 4.3.1: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.4: 286. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Öffentliche E-Bike Ladepunkte - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Anfrage zu Verkehrsversuchen - Sache ist erledigt
+- TOP 5.2.1.1: Anfrage zu Verkehrsversuchen - zurückgestellt
+- TOP 5.2.2: Ampelanlagen Mülheimer Hafen - zurückgestellt
+- TOP 5.2.3: Kosten der Mobilitätsgarantie - Sache ist erledigt
+- TOP 5.2.4: Sachstand Ertüchtigung der Friedrich-Ebert-Straße/ Kreuzung L300 - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Parkdruck in Köln - Sache ist erledigt
+- TOP 6.2: Erneuerung der Neusser Landstraße in Worringen - Sache ist erledigt
+- TOP 6.3: Ausbau der S-Bahn-Strecke S16 im Rahmen des Bebauungsplanungen des Deutzer Hafens - Sache ist erledigt
+- TOP 6.4: Gespräche mit E-Scooter - Anbietern - zurückgestellt
+- TOP 6.5: E-Lade-Möglichkeiten in Parkhäusern und Tiefgaragen - Sache ist erledigt
+- TOP 6.6: Beantwortung der Anfrage "Umsetzung Lärmaktionsplans" (AN/1434/2022) - zurückgestellt
+- TOP 6.7: Ausbau Park+Ride und Bike+Ride - Sache ist erledigt
+- TOP 6.8: Emissionsärmerer Wirtschaftsverkehr – Frachtgüter auch innerstädtisch auf die Schiene - zurückgestellt
+- TOP 6.9: Mobilitätswende 2030: Herausforderungen für die KVB - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Mehrkosten für den Abbruch und Ersatzneubau Kragplatte am Altstadtufer - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Liste der Großbauprojekte - Beantwortung von Anregungen und Nachfragen aus den beteiligten Gremien - Kenntnis genommen
+- TOP 7.2.2: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 7.2.3: Gesamtinstandsetzung Mülheimer Brücke – Bauphase II in 2024 - Kenntnis genommen
+- TOP 7.2.4: Regionales P+R-Konzept für go.Rheinland (ehemals NVR) - Kenntnis genommen
+- TOP 7.2.5: Einführung von PBN-Verfahren (Performance Based Navigation) am Flughafen Köln-Bonn - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Köln Katalog - Typologien für kompakte, nachhaltige und lebenswerte Quartiere - Sache ist erledigt
