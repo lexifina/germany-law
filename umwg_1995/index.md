@@ -55,6 +55,7 @@ der Barabfindung](0030.md)
 - [§ 33 Anderweitige Veräußerung](0033.md)
 - [§ 34 Gerichtliche Nachprüfung der Abfindung](0034.md)
 - [§ 35 Bezeichnung unbekannter Aktionäre; Ruhen des Stimmrechts](0035.md)
+- [§ 35a Interessenausgleich und Betriebsübergang](0035a.md)
 
 #### Dritter Abschnitt Verschmelzung durch Neugründung
 
@@ -130,6 +131,8 @@ mit beschränkter Haftung
 - [§ 70 Geltendmachung eines Schadenersatzanspruchs](0070.md)
 - [§ 71 Bestellung eines Treuhänders](0071.md)
 - [§ 72 Umtausch von Aktien](0072.md)
+- [§ 72a Gewährung zusätzlicher Aktien](0072a.md)
+- [§ 72b Kapitalerhöhung zur Gewährung zusätzlicher Aktien](0072b.md)
 
 ##### Zweiter Unterabschnitt Verschmelzung durch Neugründung
 
@@ -226,22 +229,6 @@ Vermögen eines Alleingesellschafters
 - [§ 121 Anzuwendende Vorschriften](0121.md)
 - [§ 122 Eintragung in das Handelsregister](0122.md)
 
-#### Zehnter Abschnitt Grenzüberschreitende Verschmelzung
-
-- [§ 122a Grenzüberschreitende Verschmelzung](0122a.md)
-- [§ 122b Verschmelzungsfähige Gesellschaften](0122b.md)
-- [§ 122c Verschmelzungsplan](0122c.md)
-- [§ 122d Bekanntmachung des Verschmelzungsplans](0122d.md)
-- [§ 122e Verschmelzungsbericht](0122e.md)
-- [§ 122f Verschmelzungsprüfung](0122f.md)
-- [§ 122g Zustimmung der Anteilsinhaber](0122g.md)
-- [§ 122h Verbesserung des Umtauschverhältnisses](0122h.md)
-- [§ 122i Abfindungsangebot im Verschmelzungsplan](0122i.md)
-- [§ 122j Schutz der Gläubiger der übertragenden Gesellschaft](0122j.md)
-- [§ 122k Verschmelzungsbescheinigung](0122k.md)
-- [§ 122l Eintragung der grenzüberschreitenden Verschmelzung](0122l.md)
-- [§ 122m Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0122m.md)
-
 ## Drittes Buch Spaltung
 
 
@@ -262,7 +249,8 @@ Vermögen eines Alleingesellschafters
 - [§ 129 Anmeldung der Spaltung](0129.md)
 - [§ 130 Eintragung der Spaltung](0130.md)
 - [§ 131 Wirkungen der Eintragung](0131.md)
-- [§ 132 (weggefallen)](0132.md)
+- [§ 132 Kündigungsschutzrecht](0132.md)
+- [§ 132a Mitbestimmungsbeibehaltung](0132a.md)
 - [§ 133 Schutz der Gläubiger und der Inhaber von Sonderrechten](0133.md)
 - [§ 134 Schutz der Gläubiger in besonderen Fällen](0134.md)
 
@@ -287,6 +275,7 @@ und Kommanditgesellschaften auf Aktien
 
 - [§ 141 Ausschluss der Spaltung](0141.md)
 - [§ 142 Spaltung mit Kapitalerhöhung, Spaltungsbericht](0142.md)
+- [§ 142a Verpflichtungen nach § 72a](0142a.md)
 - [§ 143 Verhältniswahrende Spaltung zur Neugründung](0143.md)
 - [§ 144 Gründungsbericht und Gründungsprüfung](0144.md)
 - [§ 145 Herabsetzung des Grundkapitals](0145.md)
@@ -435,10 +424,10 @@ oder Versicherungsvereine auf Gegenseitigkeit
 
 - [§ 190 Allgemeiner Anwendungsbereich](0190.md)
 - [§ 191 Einbezogene Rechtsträger](0191.md)
-- [§ 192 Umwandlungsbericht](0192.md)
-- [§ 193 Umwandlungsbeschluß](0193.md)
-- [§ 194 Inhalt des Umwandlungsbeschlusses](0194.md)
-- [§ 195 Befristung und Ausschluß von Klagen gegen den Umwandlungsbeschluß](0195.md)
+- [§ 192 Formwechselbericht](0192.md)
+- [§ 193 Formwechselbeschluss](0193.md)
+- [§ 194 Inhalt des Formwechselbeschlusses](0194.md)
+- [§ 195 Befristung und Ausschluß von Klagen gegen den Formwechselbeschluss](0195.md)
 - [§ 196 Verbesserung des Beteiligungsverhältnisses](0196.md)
 - [§ 197 Anzuwendende Gründungsvorschriften](0197.md)
 - [§ 198 Anmeldung des Formwechsels](0198.md)
@@ -455,7 +444,7 @@ Rechtsträgers](0205.md)
 - [§ 208 Inhalt des Anspruchs auf Barabfindung und Prüfung
 der Barabfindung](0208.md)
 - [§ 209 Annahme des Angebots](0209.md)
-- [§ 210 Ausschluß von Klagen gegen den Umwandlungsbeschluß](0210.md)
+- [§ 210 Ausschluß von Klagen gegen den Formwechselbeschluss](0210.md)
 - [§ 211 Anderweitige Veräußerung](0211.md)
 - [§ 212 Gerichtliche Nachprüfung der Abfindung](0212.md)
 - [§ 213 Unbekannte Aktionäre](0213.md)
@@ -469,10 +458,10 @@ der Barabfindung](0208.md)
 ##### Erster Unterabschnitt Formwechsel von Personenhandelsgesellschaften
 
 - [§ 214 Möglichkeit des Formwechsels](0214.md)
-- [§ 215 Umwandlungsbericht](0215.md)
+- [§ 215 Formwechselbericht](0215.md)
 - [§ 216 Unterrichtung der Gesellschafter](0216.md)
 - [§ 217 Beschluß der Gesellschafterversammlung](0217.md)
-- [§ 218 Inhalt des Umwandlungsbeschlusses](0218.md)
+- [§ 218 Inhalt des Formwechselbeschlusses](0218.md)
 - [§ 219 Rechtsstellung als Gründer](0219.md)
 - [§ 220 Kapitalschutz](0220.md)
 - [§ 221 Beitritt persönlich haftender Gesellschafter](0221.md)
@@ -485,8 +474,7 @@ Haftung](0224.md)
 ##### Zweiter Unterabschnitt Formwechsel von Partnerschaftsgesellschaften
 
 - [§ 225a Möglichkeit des Formwechsels](0225a.md)
-- [§ 225b Umwandlungsbericht und
-Unterrichtung der Partner](0225b.md)
+- [§ 225b Formwechselbericht und Unterrichtung der Partner](0225b.md)
 - [§ 225c Anzuwendende Vorschriften](0225c.md)
 
 #### Zweiter Abschnitt Formwechsel von Kapitalgesellschaften
@@ -505,7 +493,7 @@ Unterrichtung der Partner](0225b.md)
 - [§ 231 Mitteilung des Abfindungsangebots](0231.md)
 - [§ 232 Durchführung der Versammlung der Anteilsinhaber](0232.md)
 - [§ 233 Beschluß der Versammlung der Anteilsinhaber](0233.md)
-- [§ 234 Inhalt des Umwandlungsbeschlusses](0234.md)
+- [§ 234 Inhalt des Formwechselbeschlusses](0234.md)
 - [§ 235 Anmeldung des Formwechsels](0235.md)
 - [§ 236 Wirkungen des Formwechsels](0236.md)
 - [§ 237 Fortdauer und zeitliche Begrenzung der persönlichen
@@ -519,12 +507,13 @@ Rechtsform
 - [§ 240 Beschluß der Versammlung der Anteilsinhaber](0240.md)
 - [§ 241 Zustimmungserfordernisse beim Formwechsel einer Gesellschaft mit beschränkter Haftung](0241.md)
 - [§ 242 Zustimmungserfordernis beim Formwechsel einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien](0242.md)
-- [§ 243 Inhalt des Umwandlungsbeschlusses](0243.md)
-- [§ 244 Niederschrift über den Umwandlungsbeschluß, Gesellschaftsvertrag](0244.md)
+- [§ 243 Inhalt des Formwechselbeschlusses](0243.md)
+- [§ 244 Niederschrift über den Formwechselbeschluss, Gesellschaftsvertrag](0244.md)
 - [§ 245 Rechtsstellung als Gründer; Kapitalschutz](0245.md)
 - [§ 246 Anmeldung des Formwechsels](0246.md)
 - [§ 247 Wirkungen des Formwechsels](0247.md)
 - [§ 248 Umtausch der Anteile](0248.md)
+- [§ 248a Gewährung zusätzlicher Aktien](0248a.md)
 - [§ 249 Gläubigerschutz](0249.md)
 - [§ 250 Nicht anzuwendende Vorschriften](0250.md)
 
@@ -532,7 +521,7 @@ Rechtsform
 
 - [§ 251 Vorbereitung und Durchführung der Versammlung der Anteilsinhaber](0251.md)
 - [§ 252 Beschluß der Versammlung der Anteilsinhaber](0252.md)
-- [§ 253 Inhalt des Umwandlungsbeschlusses](0253.md)
+- [§ 253 Inhalt des Formwechselbeschlusses](0253.md)
 - [§ 254 Anmeldung des Formwechsels](0254.md)
 - [§ 255 Wirkungen des Formwechsels](0255.md)
 - [§ 256 Geschäftsguthaben, Benachrichtigung der Mitglieder](0256.md)
@@ -545,7 +534,7 @@ Rechtsform
 - [§ 260 Vorbereitung der Generalversammlung](0260.md)
 - [§ 261 Durchführung der Generalversammlung](0261.md)
 - [§ 262 Beschluß der Generalversammlung](0262.md)
-- [§ 263 Inhalt des Umwandlungsbeschlusses](0263.md)
+- [§ 263 Inhalt des Formwechselbeschlusses](0263.md)
 - [§ 264 Kapitalschutz](0264.md)
 - [§ 265 Anmeldung des Formwechsels](0265.md)
 - [§ 266 Wirkungen des Formwechsels](0266.md)
@@ -567,7 +556,7 @@ Rechtsform
 - [§ 273 Möglichkeit des Formwechsels](0273.md)
 - [§ 274 Vorbereitung und Durchführung der Mitgliederversammlung](0274.md)
 - [§ 275 Beschluß der Mitgliederversammlung](0275.md)
-- [§ 276 Inhalt des Umwandlungsbeschlusses](0276.md)
+- [§ 276 Inhalt des Formwechselbeschlusses](0276.md)
 - [§ 277 Kapitalschutz](0277.md)
 - [§ 278 Anmeldung des Formwechsels](0278.md)
 - [§ 279 (weggefallen)](0279.md)
@@ -580,7 +569,7 @@ von Aktien, Hauptversammlungsbeschlüsse](0281.md)
 
 - [§ 283 Vorbereitung und Durchführung der Mitgliederversammlung](0283.md)
 - [§ 284 Beschluß der Mitgliederversammlung](0284.md)
-- [§ 285 Inhalt des Umwandlungsbeschlusses](0285.md)
+- [§ 285 Inhalt des Formwechselbeschlusses](0285.md)
 - [§ 286 Anmeldung des Formwechsels](0286.md)
 - [§ 287 (weggefallen)](0287.md)
 - [§ 288 Wirkungen des Formwechsels](0288.md)
@@ -592,7 +581,7 @@ von Aktien, Hauptversammlungsbeschlüsse](0281.md)
 - [§ 291 Möglichkeit des Formwechsels](0291.md)
 - [§ 292 Vorbereitung und Durchführung der Versammlung der obersten Vertretung](0292.md)
 - [§ 293 Beschluß der obersten Vertretung](0293.md)
-- [§ 294 Inhalt des Umwandlungsbeschlusses](0294.md)
+- [§ 294 Inhalt des Formwechselbeschlusses](0294.md)
 - [§ 295 Kapitalschutz](0295.md)
 - [§ 296 Anmeldung des Formwechsels](0296.md)
 - [§ 297 (weggefallen)](0297.md)
@@ -608,24 +597,72 @@ Aktien, Hauptversammlungsbeschlüsse](0299.md)
 - [§ 302 Anzuwendende Vorschriften](0302.md)
 - [§ 303 Kapitalschutz, Zustimmungserfordernisse](0303.md)
 - [§ 304 Wirksamwerden des Formwechsels](0304.md)
-- [(XXXX) §§ 305 bis 312 (weggefallen)](xxxx-305-bis-312.md)
 
-## Sechstes Buch Strafvorschriften und Zwangsgelder
+## Sechstes Buch Grenzüberschreitende Umwandlung
 
-- [§ 313 Unrichtige Darstellung](0313.md)
-- [§ 314 Verletzung der Berichtspflicht](0314.md)
-- [§ 314a Falsche Angaben](0314a.md)
-- [§ 315 Verletzung der Geheimhaltungspflicht](0315.md)
-- [§ 316 Zwangsgelder](0316.md)
 
-## Siebentes Buch Übergangs- und Schlußvorschriften
+### Erster Teil Grenzüberschreitende Verschmelzung
 
-- [§ 317 Umwandlung alter juristischer Personen](0317.md)
-- [§ 318 Eingeleitete Umwandlungen. Umstellung auf den Euro](0318.md)
-- [§ 319 Enthaftung bei Altverbindlichkeiten](0319.md)
-- [§ 320 Aufhebung des Umwandlungsgesetzes 1969](0320.md)
-- [§ 321 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz](0321.md)
-- [§ 322 Gemeinsamer Betrieb](0322.md)
-- [§ 323 Kündigungsrechtliche Stellung](0323.md)
-- [§ 324 Rechte und Pflichten bei Betriebsübergang](0324.md)
-- [§ 325 Mitbestimmungsbeibehaltung](0325.md)
+- [§ 305 Grenzüberschreitende Verschmelzung](0305.md)
+- [§ 306 Verschmelzungsfähige Gesellschaften](0306.md)
+- [§ 307 Verschmelzungsplan](0307.md)
+- [§ 308 Bekanntmachung des Verschmelzungsplans](0308.md)
+- [§ 309 Verschmelzungsbericht](0309.md)
+- [§ 310 Zugänglichmachung des Verschmelzungsberichts](0310.md)
+- [§ 311 Verschmelzungsprüfung](0311.md)
+- [§ 312 Zustimmung der Anteilsinhaber](0312.md)
+
+## Siebentes Buch Strafvorschriften und Zwangsgelder
+
+- [§ 313 Barabfindung](0313.md)
+- [§ 314 Schutz der Gläubiger der übertragenden Gesellschaft](0314.md)
+- [§ 315 Anmeldung der Verschmelzung](0315.md)
+- [§ 316 Verschmelzungsbescheinigung](0316.md)
+
+## Achtes Buch Übergangs- und Schlußvorschriften
+
+- [§ 317 Informationen des Registergerichts](0317.md)
+- [§ 318 Eintragung der grenzüberschreitenden Hereinverschmelzung](0318.md)
+- [§ 319 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0319.md)
+
+### Zweiter Teil Grenzüberschreitende Spaltung
+
+- [§ 320 Grenzüberschreitende Spaltung](0320.md)
+- [§ 321 Spaltungsfähige Gesellschaften](0321.md)
+- [§ 322 Spaltungsplan](0322.md)
+- [§ 323 Bekanntmachung des Spaltungsplans](0323.md)
+- [§ 324 Spaltungsbericht](0324.md)
+- [§ 325 Spaltungsprüfung](0325.md)
+- [§ 326 Zustimmung der Anteilsinhaber](0326.md)
+- [§ 327 Barabfindung](0327.md)
+- [§ 328 Schutz der Gläubiger der übertragenden Gesellschaft](0328.md)
+- [§ 329 Anmeldung und Spaltungsbescheinigung](0329.md)
+- [§ 330 Eintragung der grenzüberschreitenden Hinausspaltung](0330.md)
+- [§ 331 Eintragung der neuen Gesellschaft](0331.md)
+- [§ 332 Spaltung zur Aufnahme](0332.md)
+
+### Dritter Teil Grenzüberschreitender Formwechsel
+
+- [§ 333 Grenzüberschreitender Formwechsel](0333.md)
+- [§ 334 Formwechselfähige Gesellschaften](0334.md)
+- [§ 335 Formwechselplan](0335.md)
+- [§ 336 Bekanntmachung des Formwechselplans](0336.md)
+- [§ 337 Formwechselbericht](0337.md)
+- [§ 338 Formwechselprüfung](0338.md)
+- [§ 339 Zustimmung der Anteilsinhaber](0339.md)
+- [§ 340 Barabfindung](0340.md)
+- [§ 341 Gläubigerschutz](0341.md)
+- [§ 342 Anmeldung des Formwechsels](0342.md)
+- [§ 343 Formwechselbescheinigung](0343.md)
+- [§ 344 Informationen des Registergerichts](0344.md)
+- [§ 345 Eintragung des grenzüberschreitenden Hereinformwechsels](0345.md)
+- [§ 346 Unrichtige Darstellung](0346.md)
+- [§ 347 Verletzung der Berichtspflicht](0347.md)
+- [§ 348 Falsche Angaben](0348.md)
+- [§ 349 Verletzung der Geheimhaltungspflicht](0349.md)
+- [§ 350 Zwangsgelder](0350.md)
+- [§ 351 Umwandlung alter juristischer Personen](0351.md)
+- [§ 352 Eingeleitete Umwandlungen. Umstellung auf den Euro](0352.md)
+- [§ 353 Enthaftung bei Altverbindlichkeiten](0353.md)
+- [§ 354 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz](0354.md)
+- [§ 355 Übergangsvorschrift zum Gesetz zur Umsetzung der Umwandlungsrichtlinie und zur Änderung weiterer Gesetze](0355.md)

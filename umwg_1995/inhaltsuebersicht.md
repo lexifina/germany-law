@@ -6,7 +6,7 @@
 |  |  |  |  |  |
 | Erster Teil | Allgemeine Vorschriften | §§ 2 bis 38 |
 | Erster Abschnitt | Möglichkeit der Verschmelzung | §§ 2 und 3 |
-| Zweiter Abschnitt | Verschmelzung durch Aufnahme | §§ 4 bis 35 |
+| Zweiter Abschnitt | Verschmelzung durch Aufnahme | §§ 4 bis 35a |
 | Dritter Abschnitt | Verschmelzung durch Neugründung | §§ 36 bis 38 |
 |  |  |  |  |  |
 | Zweiter Teil | Besondere Vorschriften | §§ 39 bis 122 |
@@ -19,7 +19,7 @@
 | Zweiter Unterabschnitt | Verschmelzung durch Neugründung | §§ 56 bis 59 |
 |  |  |  |  |  |
 | Dritter Abschnitt | Verschmelzung unter Beteiligung von Aktiengesellschaften | §§ 60 bis 77 |
-| Erster Unterabschnitt | Verschmelzung durch Aufnahme | §§ 60 bis 72 |
+| Erster Unterabschnitt | Verschmelzung durch Aufnahme | §§ 60 bis 72b |
 | Zweiter Unterabschnitt | Verschmelzung durch Neugründung | §§ 73 bis 77 |
 |  |  |  |  |  |
 | Vierter Abschnitt | Verschmelzung unter Beteiligung von Kommanditgesellschaften auf Aktien | § 78 |
@@ -40,7 +40,7 @@
 |  |  |  |  |  |
 | Neunter Abschnitt | Verschmelzung von Kapitalgesellschaften mit dem Vermögen eines Alleingesellschafters | §§ 120 bis 122 |
 |  |  |  |  |  |
-| Zehnter Abschnitt | Grenzüberschreitende Verschmelzung | §§ 122a bis 122m |
+| Zehnter Abschnitt | (weggefallen) |  |
 |  |
 | Drittes Buch | Spaltung | §§ 123 bis 173 |
 |  |  |  |  |  |
@@ -116,6 +116,13 @@
 | Sechster Abschnitt | Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts | §§ 301 bis 304 |
 | (weggefallen) |  | §§ 305 bis 312 |
 |  |
-| Sechstes Buch | Strafvorschriften und Zwangsgelder | §§ 313 bis 316 |
+| Sechstes Buch | Grenzüberschreitende Umwandlung | §§ 305 bis 345 |
+| Erster Teil | Grenzüberschreitende Verschmelzung | §§ 305 bis 319 |
+|  |  |  |
+| Zweiter Teil | Grenzüberschreitende Spaltung | §§ 320 bis 332 |
+|  |  |  |
+| Dritter Teil | Grenzüberschreitender Formwechsel | §§ 333 bis 345 |
+|  |  |  |  |  |
+| Siebentes Buch | Strafvorschriften und Zwangsgelder | §§ 346 bis 350 |
 |  |
-| Siebentes Buch | Übergangs- und Schlussvorschriften | §§ 317 bis 325 |
+| Achtes Buch | Übergangs- und Schlussvorschriften | §§ 351 bis 355 |
