@@ -1046,10 +1046,3 @@ Beförderungsmitteln](0452c.md)
 
 - [§ 618 Einstweilige Verfügung eines Bergers](0618.md)
 - [§ 619 Zustellungen an den Kapitän oder Schiffer](0619.md)
-
-### Neunter Abschnitt (weggefallen)
-
-
-### Elfter Abschnitt (weggefallen)
-
-- [Anlage (weggefallen)](anlage.md)
