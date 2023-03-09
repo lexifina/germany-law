@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-09T14:06:00+01:00
+- Ende: 2023-03-09T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24451
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24451
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 09.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478274.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 09.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478274.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 09.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478274.pdf
+
+## Tagesordnung
+
+- TOP 1: Würdigung des 1-jährigen Bestehens der Städtepartnerschaft mit Czernowitz
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 17.11.2022 (SI-RAT/007/2022) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Verkehrsunfall auf dem Zebrastreifen Niederrheinstraße am 02.03.2023 - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: 448 Mitarbeitende der Stadtverwaltung, die sich am 02. März an Warnstreikaktionen beteiligten - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Feuermeldung in einer Obdachlosenunterkunft, keine Verletzten am 3. März 2023 - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: aggressive und respektlose Widerstandshandlungen bei einer Personenkontrolle - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Seniorenrat und Verbesserung der frühzeitigeren Beteiligung an politischen Entscheidungen - beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: signifikant viel mehr Bäume im Stadtgebiet, insbesondere im Bereich der Innenstadt und dem Lastring, dem Geltungsbereich der Umweltzone - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion DIE LINKE: Kurzstreckenflüge vom und zum Flughafen Düsseldorf - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Daten zur Bedeutung des Executive Terminals am Flughafen Düsseldorf - beantwortet
+- TOP 5.5: Anfrage der AfD-Ratsfraktion: Zu Kosten und zur Abschiebung von abgelehnten bzw. geduldeten Asylbewerbern in Düsseldorf - beantwortet
+- TOP 5.6: Anfrage der FDP-Ratsfraktion: Fußverkehrsbeauftragter/ Fußverkehrsbeauftragte - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion DIE LINKE: Förderbewilligungen für Sozialprojekte in 2023 - beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Lemmer: Tiere und Tierarten, die im Stadtgebiet von Düsseldorf leben - schriftlich beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Lemmer: Land- und Forstwirtschaft in Düsseldorf - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Krüger: barrierefreier Ratssaal - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Krüger: Rotbuchen-Baumfällung Leostraße 98, 40547 Düsseldorf - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Born: Zeitlich begrenzte Arbeitsverträge in städtischer Verwaltung und Tochterfirmen - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 11: Bericht zur Energieversorgung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 12: Bericht nach § 6 der KommunalhaushaltsrechtsanwendungsVO Ukraine-Schutzsuchendenaufnahme zur finanziellen Lage - zur Kenntnis genommen
+- TOP 13: Einkünfte aus Nebentätigkeiten im Jahr 2022 für Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 14: Bestellung stimmberechtigter Delegierter zur Teilnahme an der 42. ordentlichen Hauptversammlung des Deutschen Städtetages in Köln - einstimmig beschlossen
+- TOP 15: Änderung der Richtlinie "Klimafreundliches Wohnen und Arbeiten in Düsseldorf" bezüglich der Förderung von technischen Anlagen zur Nutzung der Solarenergie - mehrheitlich beschlossen
+- TOP 15.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage HFA/006/2023 - mehrheitlich abgelehnt
+- TOP 15.2: mündlicher Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage HFA/006/2023 - zurückgezogen
+- TOP 16: Überarbeitung der Beteiligungsrichtlinien der Landeshauptstadt Düsseldorf (LHD) und des Public Corporate Governance Kodex für die Beteiligungen der LHD (Düsseldorfer Kodex) - mehrheitlich beschlossen
+- TOP 16.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage HFA/051/2022 - mehrheitlich beschlossen
+- TOP 17: Barrierefreier Umbau der Bushaltestellen "Unterrath-S" Steige 4-7 - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage OVA/014/2023
+- TOP 18: Umbau des Kreuzungsbereiches Hütten- / Gustav-Poensgen- / Kirchfeldstraße - einstimmig beschlossen
+- TOP 19: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - mehrheitlich beschlossen
+- TOP 20: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt Garath 2.0" - Sanierung Lehrschwimmbad Stettiner Str.; weitere Ergänzung des Ratsbeschlusses vom 22.03.2018 - einstimmig beschlossen
+- TOP 21: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an den städtischen Gymnasien - einstimmig beschlossen
+- TOP 22: Besetzung der Ausschüsse durch den Jugendrat - einstimmig beschlossen
+- TOP 23: Nachwahl eines Schulausschussmitgliedes in das Kuratorium der Volkshochschule - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: Anträge
+- TOP 25.1: Antrag der Ratsfraktionen von Die PARTEI-Klima-Fraktion und DIE LINKE: Angebot schafft Nachfrage – Das Executive Terminal des Düsseldorfer Flughafens passt nicht zu den Klimazielen der Landeshauptstadt - mehrheitlich beschlossen
+- TOP 25.2: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Verlängerung des Gaslaternenmoratoriums - abweichend beschlossen
+- TOP 25.3: Antrag der AfD-Ratsfraktion: Erfassung und Veröffentlichung aller Still-/Wickelorte in Düsseldorf. Analog und digital/online, sowie Angebot einer entsprechenden Nutzer App plus einmalige Förderung von Still-/Wickelorten - mehrheitlich abgelehnt
+- TOP 25.4: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Cradle-To-Cradle-Prinzip für alle Neubauten der Stadt verankern - zurückgezogen
+- TOP 25.4.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/077/2023
+- TOP 25.5: Antrag der FDP-Ratsfraktion: Grundsteuerhebesätze für 2025 aufkommensneutral - Wohnen darf nicht teurer werden - mehrheitlich abgelehnt
+- TOP 25.6: Antrag der SPD-Ratsfraktion: Einberufung und Reaktivierung des Beirats zur Errichtung von Wohnheimen für Auszubildende - verwiesen
+- TOP 25.7: Antrag der Ratsfraktion DIE LINKE: Entscheidungsgrundlagen für eine Anpassung der Quotierung des Handlungskonzepts Wohnungsmarkt schaffen - mehrheitlich abgelehnt
