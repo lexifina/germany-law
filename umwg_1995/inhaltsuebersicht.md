@@ -114,7 +114,6 @@
 | Fünfter Abschnitt | Formwechsel von Versicherungsvereinen auf Gegenseitigkeit | §§ 291 bis 300 |
 |  |  |  |  |  |
 | Sechster Abschnitt | Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts | §§ 301 bis 304 |
-| (weggefallen) |  | §§ 305 bis 312 |
 |  |
 | Sechstes Buch | Grenzüberschreitende Umwandlung | §§ 305 bis 345 |
 | Erster Teil | Grenzüberschreitende Verschmelzung | §§ 305 bis 319 |

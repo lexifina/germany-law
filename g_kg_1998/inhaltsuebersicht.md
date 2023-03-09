@@ -20,7 +20,7 @@
 |  | Werkverkehr |
 |  | § 9 | Erlaubnis- und Versicherungsfreiheit |
 | 4. | Abschnitt |
-|  | Bundesamt für Güterverkehr |
+|  | Bundesamt für Logistik und Mobilität |
 |  | § 10 | Organisation |
 |  | § 11 | Aufgaben |
 |  | § 12 | Befugnisse |

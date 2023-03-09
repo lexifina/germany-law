@@ -24,7 +24,7 @@
 
 - [§ 9 Erlaubnis- und Versicherungsfreiheit](0009.md)
 
-## 4. Abschnitt Bundesamt für Güterverkehr
+## 4. Abschnitt Bundesamt für Logistik und Mobilität
 
 - [§ 10 Organisation](0010.md)
 - [§ 11 Aufgaben](0011.md)

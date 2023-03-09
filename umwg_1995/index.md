@@ -611,16 +611,10 @@ Aktien, Hauptversammlungsbeschlüsse](0299.md)
 - [§ 310 Zugänglichmachung des Verschmelzungsberichts](0310.md)
 - [§ 311 Verschmelzungsprüfung](0311.md)
 - [§ 312 Zustimmung der Anteilsinhaber](0312.md)
-
-## Siebentes Buch Strafvorschriften und Zwangsgelder
-
 - [§ 313 Barabfindung](0313.md)
 - [§ 314 Schutz der Gläubiger der übertragenden Gesellschaft](0314.md)
 - [§ 315 Anmeldung der Verschmelzung](0315.md)
 - [§ 316 Verschmelzungsbescheinigung](0316.md)
-
-## Achtes Buch Übergangs- und Schlußvorschriften
-
 - [§ 317 Informationen des Registergerichts](0317.md)
 - [§ 318 Eintragung der grenzüberschreitenden Hereinverschmelzung](0318.md)
 - [§ 319 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union](0319.md)
@@ -656,11 +650,17 @@ Aktien, Hauptversammlungsbeschlüsse](0299.md)
 - [§ 343 Formwechselbescheinigung](0343.md)
 - [§ 344 Informationen des Registergerichts](0344.md)
 - [§ 345 Eintragung des grenzüberschreitenden Hereinformwechsels](0345.md)
+
+## Siebentes Buch Strafvorschriften und Zwangsgelder
+
 - [§ 346 Unrichtige Darstellung](0346.md)
 - [§ 347 Verletzung der Berichtspflicht](0347.md)
 - [§ 348 Falsche Angaben](0348.md)
 - [§ 349 Verletzung der Geheimhaltungspflicht](0349.md)
 - [§ 350 Zwangsgelder](0350.md)
+
+## Achtes Buch Übergangs- und Schlußvorschriften
+
 - [§ 351 Umwandlung alter juristischer Personen](0351.md)
 - [§ 352 Eingeleitete Umwandlungen. Umstellung auf den Euro](0352.md)
 - [§ 353 Enthaftung bei Altverbindlichkeiten](0353.md)

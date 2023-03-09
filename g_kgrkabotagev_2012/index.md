@@ -6,7 +6,7 @@
 
 - [§ 1 Erteilung und Entziehung der Gemeinschaftslizenz](0001.md)
 - [§ 2 Änderungsmitteilung und Urkundenänderung](0002.md)
-- [§ 3 Zuständigkeiten des Bundesamtes für Güterverkehr (Bundesamt)](0003.md)
+- [§ 3 Zuständigkeiten des Bundesamtes für Logistik und Mobilität (Bundesamt)](0003.md)
 
 ## 2. Abschnitt Grenzüberschreitender Güterkraftverkehr mit CEMT-Genehmigungen und CEMT-Umzugsgenehmigungen
 

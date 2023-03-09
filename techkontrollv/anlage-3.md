@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
+# Anlage 3 (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Logistik und Mobilität über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
 
 | Berichterstattendes Land: .......... | Bundespolizei/Zollverwaltung: .......... |
 | Zulassungsstaat: .......... | Zeitraum: von .......... bis .......... |

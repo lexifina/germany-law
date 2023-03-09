@@ -6,7 +6,7 @@
 - [§ 3a Knotenpunkte](0003a.md)
 - [§ 4 Mautentrichtung und Mauterstattung](0004.md)
 - [§ 4a Europäischer elektronischer Mautdienst](0004a.md)
-- [§ 4b Bundesamt für Güterverkehr](0004b.md)
+- [§ 4b Bundesamt für Logistik und Mobilität](0004b.md)
 - [§ 4c Zulassungsverfahren](0004c.md)
 - [§ 4d Prüfvereinbarung und Prüfverfahren](0004d.md)
 - [§ 4e Beschränkte Zulassung und Pilotbetrieb](0004e.md)

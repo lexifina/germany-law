@@ -6,7 +6,7 @@
 ## Abschnitt 1 Allgemeine Bestimmungen
 
 - [§ 1 Zuständiges Hauptzollamt](0001.md)
-- [§ 2 Mitwirkung des Bundesamtes für Güterverkehr](0002.md)
+- [§ 2 Mitwirkung des Bundesamtes für Logistik und Mobilität](0002.md)
 
 ## Abschnitt 2 Inländische Fahrzeuge
 

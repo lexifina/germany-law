@@ -11,10 +11,9 @@
 - [§ 8 Informationen unter den Mitgliedstaaten](0008.md)
 - [§ 9 Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten](0009.md)
 - [§ 10 Berichtswesen](0010.md)
-- [§ 11 Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei
-und der Zollverwaltung](0011.md)
+- [§ 11 Kontrollen des Bundesamtes für Logistik und Mobilität, der Bundespolizei und der Zollverwaltung](0011.md)
 - [§ 12 Inkrafttreten](0012.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (weggefallen)](anlage-1.md)
 - [Anlage 2 (weggefallen)](anlage-2.md)
-- [Anlage 3 (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln](anlage-3.md)
+- [Anlage 3 (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Logistik und Mobilität über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln](anlage-3.md)
