@@ -1,0 +1,1 @@
+Im konstruktiven Ringen um gemeinsame Positionen für Kinder, Jugendliche und junge Erwachsene bringen wir ihre Anliegen und Bedürfnisse in die Öffentlichkeit, leihen ihnen unsere Stimme und bauen damit weiter an einer Gesellschaft, die Zukunft hat.

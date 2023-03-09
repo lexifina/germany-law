@@ -1,0 +1,1 @@
+In der gelebten Vielfalt der Jugendorganisationen und damit der in ihnen zusammengeschlossenen Kinder, Jugendlichen und jungen Erwachsenen bringen wir zum Ausdruck, dass ein Miteinander gelingt, in dem Respekt, Akzeptanz und Achtsamkeit Ausdruck unserer gemeinsamen Werte sind.

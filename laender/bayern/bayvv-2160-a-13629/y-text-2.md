@@ -1,0 +1,1 @@
+Jugendverbände, Jugendgruppen, Schul- und Hochschulgemeinschaften des Landes Bayern schließen sich aus freiem Willen zum Bayerischen Jugendring zusammen, um in Einmütigkeit alle gemeinsamen Aufgaben der Jugendarbeit durchzuführen.

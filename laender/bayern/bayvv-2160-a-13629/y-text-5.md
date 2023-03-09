@@ -1,0 +1,1 @@
+Als verantwortliche Mitglieder der dem Bayerischen Jugendring angeschlossenen Gruppen, Verbände, Schul- und Hochschulgemeinschaften verpflichten wir uns, die Jugend im Geist der Freiheit und der Demokratie zu erziehen.
