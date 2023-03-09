@@ -1,0 +1,79 @@
+# 17. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-09T17:00:00+01:00
+- Ende: 2023-03-09T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27744
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27744
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Situation Parkplatz gegenüber Ostheimer Str. 125, Köln-Vingst (Az.: 02-1600-126-22) und Errichtung einer Einfahrtblockade für LKW Vingster Markt - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.1 Bürgereingabe gem. § 24 GO, betr.: Situation Parkplatz gegenüber Ostheimer Str. 125, Köln-Vingst (Az.: 02-1600-126-22) und Errichtung einer Einfahrtblockade für LKW Vingster Markt (Az.: 02-1600-155-22) - Kenntnis genommen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Trinkwasserbrunnen Grünzug Westerwaldstraße", AZ.: 217/22 - Kenntnis genommen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Eiler Str. nach Abschluss der Baumaßnahme BAB 3 (Az.: 02-1600-129-22) - geändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO - Benennung einer Grünfläche an der Westerwaldstraße in Köln-Humboldt/Gremberg Az.199/22 B - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe gemäß § 24 GO - Bolzplatz Waldbadviertel in Köln-Ostheim - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Verbesserung der Situation an der Einmündung der Karl-Schüssler-Straße in die Rösrather Straße/ Antrag der SPD-Fraktion vom 23.02.2023 - ungeändert beschlossen
+- TOP 7.2: Einrichtung von Fahrradstraßen rund um die Kalker Post/ Antrag der Fraktion Bündnis 90/Die Grünen - endgültig zurückgezogen
+- TOP 7.3: Reitwege Merheimer Heide/ Antrag der CDU-Fraktion vom 23.02.2023 - ungeändert beschlossen
+- TOP 7.4: Einheitliche Absicherung der Baumscheiben auf der Germaniastr. in Köln-Höhenberg vor unerlaubtem Parken/ Antrag der SPD-Fraktion vom 23.03.2023 - ungeändert beschlossen
+- TOP 7.5: Weg frei in der Wiersbergstraße!/Antrag der Fraktion Bündnis 90/Die Grünen vom 23.02.2023 - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die LINKE. vom 07.03.2023 zum Antrag der Fraktion B90 (AN/0296/2023) "Legales Gehwegparken aufheben" - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion vom 08.03.2023 zum Antrag der Fraktion B90 (AN0296/2023) "Weg frei in der Wiersbergstraße!" - zurückgestellt
+- TOP 7.6: Öffnungszeiten Parkgarage Bürgeramt/Antrag der CDU-Fraktion vom 23.02.2023 - ungeändert beschlossen
+- TOP 7.7: Spielcontainer nur auf PKW-Parkflächen positionieren/Antrag der Fraktion Bündnis 90/Die Grünen vpm 23.02.2023 - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für die Einrichtung einer Fahrradstraße auf der Thumbstraße, Markt und Kapitelstraße zwischen Kasernenstraße und Kalk-Mülheimer Straße in Kalk. - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen, Fraktion Die LINKe und Bezirksvertreter Kruedener (Die Partei) zu TOP 8.1.1 "Baubeschluss für die Einrichtung einer Fahrradstraße ..." - Kenntnis genommen
+- TOP 8.1.2: Projektanträge im Rahmen des dritten Antragsdurchlaufs des Verfügungsfonds für das "Soziale-Stadt-Gebiet Ostheim und Neubrück" - ungeändert beschlossen
+- TOP 8.1.3: Projektanträge im Rahmen des zehnten Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Humboldt/Gremberg und Kalk" - ungeändert beschlossen
+- TOP 8.1.4: Genehmigung der Dringlichkeitsentscheidung vom 23.02.2023 "Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG – Ergänzung der Fortschreibung für die Jahre 2023 bis 2027 um die Erneuerung der Straßenentwässerung in der Christian-Sünner-Straße" - ungeändert beschlossen
+- TOP 8.1.5: Vergabe der bezirksorientierten Mittel für die Jahre 2023/2024 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-FrSatzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - Kenntnis genommen
+- TOP 8.2.2: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2023 - ungeändert beschlossen
+- TOP 8.2.3: On-Demand-Angebot KVB-Isi - geändert beschlossen
+- TOP 8.2.4: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der Fraktion Die LINKE. vom 24.11.2022 (TOP 9.2.7. AN/2093/2022) "Bolzplatz Georgestraße in Köln-Neubrück" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer mündl. Anfrage aus aktuellem Anlass von Bezirksvertreter Müller (CDU) zu TOP 7.8 Sitzung 03.12.2020 (AN/1420/2020) Antrag der SPD-Fraktion + TOP 9.3.4 Sitzung 24.11.2022 - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer Anfrage der SPD-Fraktion in der Sitzung der BV-Kalk vom 26.01.2023 (TOP 9.2.2 AN/0084/2023) "Bau- und Sanierungsmaßnahmen der KVB in Rath/Heumar" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung/ Sachstand einer Anfarge der CDU-Fraktion in der Sitzung der BV-Kalk vom 19.05.2022 (TOP 9.2.2, AN/1035/2022) "Instandsetzung der Abgrenzung des Bachbetts in der Abshofstraße" - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer mündlichen Anfrage in der Sitzung der BV-Kalk am 26.01.2023 (TOP 10.2.11) "Einfluss einer Gesamtschule Neubrück auf Nachverdichtungsbedarfe an Gymnasien im Sj. 23/24" - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer Mündlichen Anfrage der Fraktion Bündnis 90/Die Grüneen in der Sitzung der Bezirksvertretung Kalk am 25.08.2022 (TOP 9.3.2) "Zustand Gebäude in der Zechenstraße 2" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage SPD-Fraktion vom 02.03.2023/ P+R-Anlage Königsforst; Potenzialermittlung für eine Erweiterung
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen vom 23.02.2023/ Spielhallen und Wettbüros im Stadtbezirk Kalk
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 09.03.2023 ( AN/0297/2023) "Wettbüros in Kalk"
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen vom 24.02.2023/ Grünflächenausgleich bei der Bebauung Steinmetzstraße im Stadtteil Kalk
+- TOP 9.2.4: Anfrage der Fraktion Bündnis 90/Die Grünen vom 24.03.2023/ Analyse von Bebauungsabsichten und Steuerung durch die Verwaltung
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 10.2.2: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 10.2.3: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.4: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 10.2.5: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 10.2.6: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.7: Mitteilung Förderprogramm "Dritte Orte" - Vierte Genehmigung für die Förderphase 2022 ff. - Kenntnis genommen
+- TOP 10.2.8: Mietvertrag und Umbau Drogenkonsumraum Kalk - Kenntnis genommen
+- TOP 10.2.9: Neue Bushaltestellen in der Schweden-Siedlung Vingst und im Servatiusviertel Ostheim - Kenntnis genommen
+- TOP 10.2.10: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 10.2.11: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
