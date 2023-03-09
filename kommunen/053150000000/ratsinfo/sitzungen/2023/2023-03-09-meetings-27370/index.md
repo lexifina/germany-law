@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-09T16:00:00+01:00
+- Ende: 2023-03-09T17:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27370
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27370
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Solaranlagen auf Denkmälern" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung der Anfrage (AN/0151/2023) betr.: "Solaranlagen auf Denkmälern" - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Diversität auf städtischen Immobilien / Flächen" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktion Die Linke. betr.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - zurückgestellt
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betr.: "Einsatz von Pferden im Karneval" - zurückgestellt
+- TOP 1.5: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Begrünung straßenseitiger Fassaden im öffentlichen Raum" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion betr.: "Keine SF6-Gase in der Kölner Energiewende!" - ungeändert beschlossen
+- TOP 2.1.1: Stellungnahme zum Änderungsantrag der FDP-Fraktion betr: "Keine SF6-Gase in der Kölner Energiewende!" - Kenntnis genommen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - zurückgestellt
+- TOP 4.1.2: Köln Katalog – Typologien für kompakte, nachhaltige und lebenswerte Quartiere - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.1.3: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.1.4: ISEK Porz-Mitte - Gestaltung Parkanlage Glashüttenstraße - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Fortführung des Kölner Stadttauben-Modells - endgültig zurückgezogen
+- TOP 4.2.2: Ersatzbeschaffung von 4 Stück knickgelenkter Geräteträger inkl. Mulchmähwerk für den Bereich Straßenbegleitgrün - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Bericht aus der Geschäftsstelle Kooperatives Baulandmodell - Kenntnis genommen
+- TOP 7.2: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 7.3: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - zurückgestellt
+- TOP 7.4: Stadtklima-/Stadtverschönerungsprogramm 2022 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.5: Sachstandsbericht zu AN/1014/2022 Anlage von Kleingewässern - Kenntnis genommen
+- TOP 7.6: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Ehrengräber" - Kenntnis genommen
+- TOP 7.7: Gründung des Forums "Unternehmen engagiert in Köln" und Marktplatz "Gute Geschäfte fürs Klima!" - Kenntnis genommen
+- TOP 7.8: Holzkohlegrillanlagen - Betriebe in der Weidengasse - Einbau Abluftreinigungsanlagen - Kenntnis genommen
+- TOP 7.9: Beantwortung der Anfrage "Umsetzung Lärmaktionsplans" (AN/1434/2022) - Kenntnis genommen
+- TOP 7.10: Einführung von PBN-Verfahren (Performance Based Navigation) am Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 1. März 2023 - zurückgestellt
+- TOP 7.12: Bauverzögerungen beim Umbau und Erweiterung vom Haus des Waldes am Gut Leidenhausen - zurückgestellt
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung der Mündlichen Anfrage des Ausschusses für Klima, Umwelt und Grün vom 29.09.2022 betr: "Deutzer Hafen-Nachhaltigkeitshandbuch" (2507/2022, TOP 7.6 - AKUG 29.09.2022) - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Beantwortung der Mündlichen Anfrage der Fraktionen Volt und Die Linke. betr.: "Dekarbonisierung bei der RheinEnergie AG und im Stadtwerke-Konzern" (TOP 7.9 - AKUG 26.01.2023) - Kenntnis genommen
+- TOP 8.5: Beantwortung der mündlichen Nachfrage der Fraktion Die Linke. betr. "Freiluft-Eishockey-Spiele“ und „Eislaufen für jedermann“ im Rhein-Energie-Stadion - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
