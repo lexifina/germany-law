@@ -1,0 +1,84 @@
+# 18. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-09T16:00:00+01:00
+- Ende: 2023-03-09T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27680
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27680
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfragestunde
+- TOP 1.2: Aktuelle Stunde
+- TOP 1.2.1: Zukünftige Nutzung und Bebauung des ehemaligen Areals der Oberfinanzdirektion Köln, Riehler Platz 2 sowie der ehemaligen Generalzolldirektion, Wörthstr. 1-3, 50668 Köln, Antrag Bezirksbürgermeister - ungeändert beschlossen
+- TOP 1.2.2: Aktuelle Stunde: Restriktionen für das Volksfest in Deutz, Antrag Grüne - ungeändert beschlossen
+- TOP 1.3: Vortrag zu aktuellem Thema
+- TOP 1.3.1: Fachvortrag über das Konzept EM 2024 in der Altstadt
+- TOP 1.3.2: Aktuelle Situation der Alten Feuerwache – Bericht des Vorstandes - ungeändert beschlossen
+- TOP 1.3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Beschluss zur Umsetzung eines Verkehrskonzepts für die Venloer Straße im Abschnitt zwischen Kamekestraße und Hans-Böckler-Platz im Zusammenhang mit der Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Hans-Böckler-Platz im Rahmen der B - geändert beschlossen
+- TOP 3.1.1: AÄ zu 3328/2022, Beschluss zur Umsetzung eines Verkehrskonzepts für die Venloer Straße im Abschnitt zwischen Kamekestraße u. Hans-Böckler-Platz im Zusammenhang mit der Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Hans-Böckler-Platz - ungeändert beschlossen
+- TOP 3.2: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ungeändert beschlossen
+- TOP 3.3: Planung und Realisierung der Möblierung des Offenbachplatzes - ungeändert beschlossen
+- TOP 3.4: Genehmigung Dringlichkeitsentscheidung: Kostenfortschreibung Neubau eines Brunnens am Neumarkt - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 3.5: 286. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.6: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2023 - ungeändert beschlossen
+- TOP 3.7: On-Demand-Angebot KVB-Isi - ungeändert beschlossen
+- TOP 3.8: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradrampe Severinsbrücke (Az.: 02-1600-122-22) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO NRW bezüglich der Öffnung eines Weges über die Messedächer für die Öffentlichkeit (Az 205/22 B) - zurückgestellt
+- TOP 4.3: Bürgereingabe nach §24 GO - "Umzäunung Hundefreilauffläche Volksgarten / Vorgebirgsstr." (209/22 B) - Alternative beschlossen
+- TOP 4.4: Bürgereingabe nach § 24 Gemeindeordnung Az. 111/22 Rubensstraße - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe nach § 24 GO - Fußgängerzone Eigelstein - zurückgestellt
+- TOP 4.6: "Raser und Poser" Alfred-Schütte-Allee - endgültig zurückgezogen
+- TOP 4.6.1: Bürgereingabe nach § 24 GO "Raser und Poser" Alfred-Schütte-Allee (Az.196/22) - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Mehr umsteigefreie Busverbindungen zum Hauptbahnhof, Antrag FDP - geändert beschlossen
+- TOP 5.1.2: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Bauliche Trennung und Markierung Fleischmengergasse, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.2: Verbesserung der Situation für Anwohnende, Handel und Gewerbe im Eigelsteinviertel, Antrag CDU - zurückgestellt
+- TOP 5.2.3: Barrierefreiheit MesseCity, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.4: Einrichtung eines Zebrastreifens in Regenbogen-Farben, Antrag FDP - zurückgestellt
+- TOP 5.2.5: Zentralbibliothek erhalten, gem. Antrag Die Linke, B90/Die Grünen, SPD, CDU, Die Partei und KlimaFreunde - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Regeln für Gehwegbreiten, gem. Anfrage Die Linke und KlimaFreund - zurückgestellt
+- TOP 6.1.3: Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins, Anfrage Grüne - zurückgestellt
+- TOP 6.1.4: Beschwerdelage Schaafenstraße, Anfrage Die Linke - Sache ist erledigt
+- TOP 6.1.4.1: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates der Fraktion Die Linke in der Bezirksvertretung Innenstadt - Kenntnis genommen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2.3: Baumaßnahme Venloer Wall, Anfrage Die Linke - zurückgestellt
+- TOP 6.2.4: Platanen am Hansaring | Ausstehendes Gutachten, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 9.2: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 9.3: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 9.4: Neuer Schulstandort Friedrich-Karl-Straße - verzögerte Errichtung - Kenntnis genommen
+- TOP 9.5: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 9.6: Projektentwicklung "Colonius Nord" in Köln Neustadt-Nord - Kenntnis genommen
+- TOP 9.7: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 9.8: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - Kenntnis genommen
+- TOP 9.9: Mitteilung Förderprogramm "Dritte Orte" - Vierte Genehmigung für die Förderphase 2022 ff. - Kenntnis genommen
+- TOP 9.10: Sachstandsbericht - Kenntnis genommen
+- TOP 9.11: Überlegungen zur Zusammenführung der beiden Weiterbildungskollegs Gereonsmühlengasse (Abendgymnasium und Abendrealschule) und Dagobertstraße (Abendrealschule) zu Sicherung des bestehenden Angebotes an den aktuellen Schulstandorten - Kenntnis genommen
+- TOP 9.12: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 9.13: Holzkohlegrillanlagen - Betriebe in der Weidengasse - Einbau Abluftreinigungsanlagen - Kenntnis genommen
+- TOP 9.14: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf 694333/02 (alt 69433/02), Arbeitstitel: „Hochpunkt Siegburger Straße“ in Köln-Deutz - Kenntnis genommen
+- TOP 9.15: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 9.16: Vorabinfo zu: Aufhebung des Beschluss über die Aufstellung einer Sozi-alen Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet Neustadt Süd-West in der Kölner Innenstadt, 0541/2023
