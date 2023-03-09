@@ -51,5 +51,4 @@ gewerblichen Straßen-Personenverkehrs
 - [§ 28 Übermittlungsregelung](0028.md)
 - [§ 29 Veröffentlichung](0029.md)
 - [§ 30 Verordnungsermächtigung](0030.md)
-- [§ 31 Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten](0031.md)
+- [§ 31 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten](0031.md)
