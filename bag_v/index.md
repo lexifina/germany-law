@@ -1,4 +1,4 @@
-# Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr
+# Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Logistik und Mobilität
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Befugnisübertragung](0001.md)
