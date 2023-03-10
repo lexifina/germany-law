@@ -1,0 +1,73 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-10T16:00:00+01:00
+- Ende: 2023-03-10T19:23:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23749
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23749
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Sitzung 10.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477882.pdf
+- Ergebnisprotokoll: BV9 Sitzung 10.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477882.pdf
+- Wortprotokoll: BV9 Sitzung 10.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00477882.pdf
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 24.02.2023 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 27.01.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Nikolausstraße 81 - Genehmigung zur Beseitigung eines Wohnhauses im Geltungsbereich einer Erhaltungssatzung - einstimmig beschlossen
+- TOP 5.2: Benrather Märkte im Jahre 2023 - abweichend beschlossen
+- TOP 5.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - einstimmig beschlossen
+- TOP 5.5: Schöne Aussicht / Benrodestraße 133 bis 137 – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Bebauungsplan-Vorentwurf Nr. 09/015 - Nördlich Werstener Straße - Empfehlung einstimmig beschlossen
+- TOP 5.9: Eindeichung Himmelgeist Bereich 1 (Schließung der Deichlücke in der Ortslage Himmelgeist, 1. Bereich - Schlossmeierhof) (W-0020000000) - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 5.10: Eindeichung Himmelgeist Bereich 2 (Schließung der Deichlücke in der Ortslage Himmelgeist, 2. Bereich - Direkte Ortslage (Hochwasserschutzmaßnahme)) (W-0021000000) - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Silcherstraße, Grünstreifen - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 8.3: Urdenbacher Allee, Überholverbot von einspurigen Fahrzeugen - Antrag der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 8.4: Temporeduzierung Koblenzer Straße - Interfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Förderverein der Theodor-Heuss-Schule - Zirkusprojekt Zapp-Zarap - einstimmig beschlossen
+- TOP 9.2: Allgemeiner Bürgerverein Urdenbach e.V. - Kauf von drei Pavillions - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Fuß- und Radwege Itter-Himmelgeist - Nachtrag zur Informationsvorlage vom 09.12.2022; BV9/262/2022 - zur Kenntnis genommen
+- TOP 10.2: Bänke für Toleranz und Sichtbarkeit - zur Kenntnis genommen
+- TOP 10.3: "Smiley"-Anzeigen auf der Straße Am Schönenkamp - Beschluss der Bezirksvertretung 9 vom 06.05.2022; BV9/099/2022 - zur Kenntnis genommen
+- TOP 10.4: Kiss-and-Ride-Zone Himmelgeister Grundschule - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/239/2022 - zur Kenntnis genommen
+- TOP 10.5: Nutzung stillgelegter IDR-Gleistrassen, Quartiersentwicklung Benrodestraße/ Marbacher Straße - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/233/2022 - zur Kenntnis genommen
+- TOP 10.6: Am Trippelsberg - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/155/2022 - zur Kenntnis genommen
+- TOP 10.7: Wegeverbindung Hassels-Eller unter A46 - Beschluss der Bezirksvertretung 9 vom 06.05.2022; BV9/103/2022 - zur Kenntnis genommen
+- TOP 10.8: Ickerswarder Straße- Querungshilfen - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/236/2022 - zur Kenntnis genommen
+- TOP 10.9: Umgestaltung der Kreuzungen Ickerswarder Straße/ Münchener Straße und Itterstraße / Münchener Straße - Beschluss der Bezirksvertretung vom 26.082022; BV9/138/2022 - zur Kenntnis genommen
+- TOP 10.10: Tempo 30 Südallee/Kammerrathsfeldstraße/Tübinger Straße - Nachtrag zur Informationsvorlage vom 06.05.2022; BV9/084/2022 - zur Kenntnis genommen
+- TOP 10.11: Sanierung Münchener Straße - Beschluss der Bezirksvertretung 9 vom 27.01.2023; BV9/021/2023 - zur Kenntnis genommen
+- TOP 10.12: Maßnahmen zur Verkehrsverbesserung an den aufeinanderfolgenden Kreuzungen; BV9/123/2022 - Beantwortung der Prüfaufträge und Fragen aus der Sitzung der BV9 am 23.09.2022; BV9/245/2022 - zur Kenntnis genommen
+- TOP 10.13: Bevorrechtigung für den die Bahlenstraße querenden Rad- und Fußverkehr - Nachtrag zur Informationsvorlage vom 09.12.2022; BV9/280/2022 - zur Kenntnis genommen
+- TOP 10.14: Quartiersgarage Telleringstraße - Beschluss der Bezirksvertretung vom 04.11.2022; BV9/237/2022 - zur Kenntnis genommen
