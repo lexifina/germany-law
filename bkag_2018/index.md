@@ -53,6 +53,8 @@
 - [§ 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund](0031.md)
 - [§ 32 Unterrichtung der Zentralstelle](0032.md)
 - [§ 33 Ausschreibungen bei der Zusammenarbeit im internationalen Bereich](0033.md)
+- [§ 33a Schengener Informationssystem (SIS)](0033a.md)
+- [§ 33b Auf das SIS zugriffsberechtigte Stellen](0033b.md)
 
 ## Abschnitt 4 Befugnisse im Rahmen der Strafverfolgung
 
