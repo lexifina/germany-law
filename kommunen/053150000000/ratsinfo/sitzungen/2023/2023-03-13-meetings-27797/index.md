@@ -1,0 +1,102 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-13T17:00:00+01:00
+- Ende: 2023-03-13T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27797
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27797
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Illegales Parken im Stadtgarten Mülheim
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO Aktenzeichen 165/22, betr.: Abbau der Skatefläche auf dem Spielplatz Am Faulbach - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Gesicherte Querungsmöglichkeit der Herler Straße in Höhe der KVB-Haltestelle Herler Straße (Az.: 02-1600-173-22) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Fahrradabstellmöglichkeiten Heidelberger Str. (Az.: 02-1600-133-22) - geändert beschlossen
+- TOP 2.4: Bürgereingabe nach § 24 GO– „Hochwasser- und Starkregenschutz in Dünnwald / Höhenhaus“ Aktenzeichen 161/22 B - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Vandalismus an den KVB-Leihrädern - Kenntnis genommen
+- TOP 7.1.2: Anfrage "Die Linke" vom 19.01.2023: Sport- und Schwimmvereine in Zeiten der Energiekrise - Kenntnis genommen
+- TOP 7.1.3: Sanktionierung des illegalen Gehwegparkens - Kenntnis genommen
+- TOP 7.1.4: Schwammstadt Mülheim - Örtliche Versickerung; Beantwortung Anfrage der Fraktion DIE LINKE vom 19.01.2023 - Kenntnis genommen
+- TOP 7.1.5: Blitzerbilanz im SB Mülheim - Kenntnis genommen
+- TOP 7.1.6: Anfrage der Fraktionen CDU, FDP, Bündnis90/Die Grünen und SPD in der Bezirksvertretung Mülheim zum Hochwasser- und Überflutungsschutz in Dünnwald hier: Beantwortung der Fragen durch die StEB Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Digitale Netzabdeckung im SB Mülheim - Kenntnis genommen
+- TOP 7.2.2: Windgenerator- Anlagen Köln - Kenntnis genommen
+- TOP 7.2.3: Auenweg - bewohnter Sperrmüll - Kenntnis genommen
+- TOP 7.2.4: Wasserwerkstraße / Heidestraße - Kenntnis genommen
+- TOP 7.2.5: Ein Jahr Soziale Erhaltungssatzung Mülheim Süd-West - Kenntnis genommen
+- TOP 7.2.5.1: Beantwortung der Anfrage AN/0361/2023 der Fraktion DIE LINKE in der Bezirksvertretung Mülheim - Kenntnis genommen
+- TOP 7.2.6: Hilfe für Schülerinnen und Schüler mit psychischen Problemen - Kenntnis genommen
+- TOP 7.2.7: „Schulstraßen“ im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.8: Warum setzt die Stadt Köln Maßnahmen zum Gesundheitsschutz der Kölner Bürger*innen nur mit Zwang um? - Kenntnis genommen
+- TOP 7.2.9: Gestohlene Einkaufswagen im SB Mülheim - Kenntnis genommen
+- TOP 7.2.9.1: AN/0431/2023, Gestohlene Einkaufswagen im SB Mülheim - Kenntnis genommen
+- TOP 7.2.10: Einrichtung eines Trinkbrunnens an der TreffArena im Stadtteil Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.10.1: Einrichtung eines Trinkwasserbrunnens an der TreffArena im Stadtteil Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.11: Landstromversorgung der in Mülheim anlegenden Schiffe - Kenntnis genommen
+- TOP 7.2.11.1: Landstromversorgung der in Mülheim anlegenden Schiffe - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Die Kliniken der Stadt Köln gGmbH vor Privatisierung schützen - geändert beschlossen
+- TOP 8.1.2: Kalkberg an privaten Investor verkaufen - endgültig abgelehnt
+- TOP 8.1.3: Bahnhofvorplatz Köln-Mülheim aufwerten ! - ungeändert beschlossen
+- TOP 8.1.4: Mülheimer Stadtgarten vor Wildparker*innen schützen! - ungeändert beschlossen
+- TOP 8.1.5: Treibgut im Bereich des Rad-und Gehweges am Stammheimer Ufer - endgültig abgelehnt
+- TOP 8.1.6: Überprüfung von Barrierefreiheit bzw. Verkehrssicherheit der steinernen Pfosten am Übergang zwischen Ali-Kurt-Weg und dem Stammheimer Ufer - ungeändert beschlossen
+- TOP 8.1.7: Ersetzen der zwei schmalen Radaufstellflächen durch eine aufgeweitete Radaufstellfläche an der Kreuzung Roggendorfstraße / B8 in Köln- Flittard - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Mülheim gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.1.2: Benennung eines Weges im Bebauungsplan Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.1.3: Container Wuppertaler Straße 15 - ungeändert beschlossen
+- TOP 9.1.4: Baubeschluss für den Ausbau der Ladeinfrastruktur für Elektro-Busse im Stadtgebiet an der Haltestelle Birkenweg im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ungeändert beschlossen
+- TOP 9.2.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, Gemarkung Dünnwald, Flur 61, Flurstück 1941 - Baubeschluss - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 71504/05 Arbeitstitel: Von-Ketteler-Straße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.4: 286. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.5: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Euroforum Nord und Euroforum West' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.5.1: Ergänzungsantrag zu Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Euroforum Nord und Euroforum West' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.6: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Deutz-Areal' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.6.1: Ergänzungsantrag zu Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Deutz-Areal' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.7: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Lindgens-Areal' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.7.1: Ergänzungsantrag zu Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Lindgens-Areal' in Köln-Mülheim - zurückgestellt
+- TOP 9.2.8: On-Demand-Angebot KVB-Isi - geändert beschlossen
+- TOP 9.2.9: Kapazitätserweiterungen auf den Linien 4, 13 und 18
+- TOP 9.2.10: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Sperrung Knochenbergsweg am Kurtekotten
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode - Kenntnis genommen
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke – Bauphase II in 2024 - Kenntnis genommen
+- TOP 10.2.3.2: Gesamtinstandsetzung Mülheimer Brücke – Temporäre Gehwegumlegung an der Mülheimer Freiheit - Kenntnis genommen
+- TOP 10.2.4: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 10.2.5: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 10.2.6: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.7: „Aktionstag Senior*innen“ am 25. März 2023 - Kenntnis genommen
+- TOP 10.2.8: Austausch von Verkehrsschildern Merheimer Heide - Kenntnis genommen
+- TOP 10.2.9: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 10.2.10: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 10.2.11: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zur Bürgereingabe - " Parkverbot Vorgarten", AZ.: 220/22 B - Kenntnis genommen
+- TOP 10.2.13: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim - Kenntnis genommen
+- TOP 10.2.14: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 10.2.15: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
