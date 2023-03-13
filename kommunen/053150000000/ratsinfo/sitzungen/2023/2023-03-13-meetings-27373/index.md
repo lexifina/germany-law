@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-13T17:00:00+01:00
+- Ende: 2023-03-13T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27373
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27373
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Gender Award - Kommune mit Zukunft 2023 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2022 des Büros für Europa und Internationales - Kenntnis genommen
+- TOP 2.2: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ungeändert beschlossen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage der AfD-Fraktion betreffend "Statistiken der Feuerwehr Köln" - Kenntnis genommen
+- TOP 3.2: Bantwortung einer Anfrage (AN/1723/2022) der FDP-Fraktion betreffend "Kreis der anspruchsberechtigten Wohngeldempfänger steigt deutlich – wie gut ist die Stadt Köln vorbereitet?" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 4.2: LSBTI-Aktionsplan: erste Zwischenbilanz - Kenntnis genommen
+- TOP 4.3: Sponsoringrichtlinie - zurückgestellt
+- TOP 4.4: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - Kenntnis genommen
+- TOP 4.5: Stadt Köln integriert automatischen Übersetzer auf stadt.koeln - Kenntnis genommen
+- TOP 4.6: Jahresreporting der digitalen Kanäle für die externe Kommunikation - Kenntnis genommen
+- TOP 4.7: Sprachen in Köln - Kenntnis genommen
+- TOP 4.8: Bilanz Karneval 2023 - Kenntnis genommen
+- TOP 4.9: Nachhaltigkeitsbericht der Stadt Köln 2022 - Kenntnis genommen
+- TOP 4.10: Zweiter Controllingbericht zum ersten Gleichstellungsplan 2019 - 2023 - zurückgestellt
+- TOP 4.11: Stellungnahme zum Antrag der SPD unter 8.1 betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP 4.12: Sachstand Erarbeitung Status Quo-Bericht Sauberkeit und Erarbeitung Masterplan Sauberkeit - Kenntnis genommen
+- TOP 4.13: Sachstand Erarbeitung Masterplan Sicherheit - Kenntnis genommen
+- TOP 4.14: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 13. März 2023 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Synergieeffekte zum Schutz der Mitarbeiterinnen und Mitarbeiter nutzen" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage (AN/0017/2023) der FDP-Fraktion betreffend "Nutzung von Synergieeffekten zum Schutz der Mitarbeiterinnen und Mitarbeiter" - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Kostenentwicklung externe Beauftragungen" - Sache ist erledigt
+- TOP 6.3: Anfrage der FDP-Fraktion betreffend "Konsequenzen sexueller Belästigung" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage (AN/0199/2023) der FDP-Fraktion betreffend "Konsequenzen sexueller Belästigung" AN/0199/2023 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: mündliche Anfrage eines Sachkundigen Einwohners der SPD-Fraktion betreffend "anonymisiertes Bewerbungsverfahren"
+- TOP 7.2: mündliche Anfrage eines Sachkundigen Einwohners der StadtAG Queerpolitik betreffend "ColognePride 2024"
+- TOP 7.3: mündliche Anfrage der AfD-Fraktion betreffend "Drogenräume der Stadt Köln"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP 8.2: Antrag der Fraktionen Bündnis 90/Grünen, CDU, Volt betreffend "Böllerverbotszone Silvester 2023/2024" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion betreffend "Der Deutzer Kirmes eine Zukunft geben – Verwaltung muss Ermessensspielräume zugunsten der Schausteller*innen und Gäste der Kirmes nutzen" - geändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Teilnahme der Stadt Köln am Projekt „Kommunen gegen Extremismus“ - ungeändert beschlossen
+- TOP 10.2: 16. Satzung zur Änderung der Satzung der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Dienstleistungsvertrag mit dem Universitätsklinikum Bonn - ungeändert beschlossen
+- TOP 10.4: Umsetzung einer Maßnahme des Kulturentwicklungsplans: Einrichtung einer Koordinationsstelle Nachhaltigkeit in der Kultur - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
