@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-13T16:00:00+01:00
+- Ende: 2023-03-13T16:43:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27702
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27702
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem § 24 GO -"Lärmschutz Peter-von-Fliesteden-Str."; Aktenzeichen 194/22 S - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Fahrradparkhaus Weiden-West - zurückgestellt
+- TOP 7.2.2: Wild abgelegter (Sperr-)Müll im Bezirk Lindenthal - zurückgestellt
+- TOP 7.2.3: Landgrafenstraße - zurückgestellt
+- TOP 7.2.4: Nächtliche Geschwindigkeitsüberschreitungen an der Aachener Straße - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Kriterien für barrierefreie Bushaltestellen - ungeändert beschlossen
+- TOP 8.1.2: Baulicher Zustand Alter Militärring - ungeändert beschlossen
+- TOP 8.1.3: Fahrradstellplätze Elisabeth-von Thüringen-Gym. und Schiller-Gym. - ungeändert beschlossen
+- TOP 8.1.4: Turnhallen Elisabeth-von-Thüringen-Gymnasium und Schiller-Gymnasium - ungeändert beschlossen
+- TOP 8.1.5: Photovoltaik auf der neuen Halle des Jugendzentrums „Alte Schule" in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.6: Projektliste für das Rahmenplanungsgebiet Braunsfeld/Müngersdorf/Ehrenfeld - ungeändert beschlossen
+- TOP 8.1.7: Aufstellung eines Schaukasten auf dem Denkmalplatz an der Ecke Hauptstraße/Zum Neuen Kreuz - endgültig zurückgezogen
+- TOP 8.1.8: Fahrradparken auf dem Sülzgürtel - geändert beschlossen
+- TOP 8.1.9: Leitfaden für die Anmietung durch Rechtsextreme - endgültig zurückgezogen
+- TOP 8.1.10: Zeitnahes Fortsetzen der Arbeiten durch die Rheinenergie in der Belvederestraße - geändert beschlossen
+- TOP 8.1.11: Interimsschulstandort für die LVR-Anna-Freud-Schule - geändert beschlossen
+- TOP 8.1.12: Genehmigung von Außengastronomie an der Dürener Straße - ungeändert beschlossen
+- TOP 8.1.13: Freies Parken für das Handwerk, den Apotheken- und Pflegedienst - endgültig abgelehnt
+- TOP 8.1.14: Erhaltungssatzung Müngersdorf Beteiligung Bezirksvertretung - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Namensgebung des Städtischen Gymnasiums Aachener Straße 774-750, 50933 Köln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Friedrich-Engels-Straße in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.2: 286. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: 241. Änderung des Flächennutzungsplanes, "Alsdorfer Straße" in Köln- Ehrenfeld/ -Braunsfeld - ungeändert beschlossen
+- TOP 9.2.4: Aufhebung des gebundenen Ganztags an der auslaufend schließenden Ernst-Simons-Realschule, Alter Militärring 96, 50933 Köln-Müngersdorf - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Dauerhafte Sperrung der Spielfläche auf dem Auerbachplatz für Fahrzeuge - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung der Verwaltung zur Stellungnahme des LVR zum Ehrenfelder Kugelgasbehälter - Kenntnis genommen
+- TOP 11.3.2: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 11.3.3: Temporäre Fahrplananpassungen beim Stadtbahnangebot der KVB AG - Kenntnis genommen
+- TOP 11.3.4: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 11.3.5: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 11.3.6: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 11.3.7: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 11.3.8: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 11.3.9: Durchführung einer europaweiten Markterkundung zur Realisierung eines Frischezentrums, Verlängerung der Rückmeldefrist - Kenntnis genommen
+- TOP 11.3.10: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 11.3.11: Benennung eines Weges nach Helmut Lüssem in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3.12: Freies Parken für das Handwerk, den Apotheken- und Pflegedienst - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
