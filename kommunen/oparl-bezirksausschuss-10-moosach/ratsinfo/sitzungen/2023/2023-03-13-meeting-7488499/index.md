@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488499
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488499
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Sorgende Hausgemeinschaften - Wohnen in Gemeinschaft für Münchnerinnen und Münchner über 55 Jahre (hier: Hanauer Straße) (-> Planung Vorstellung des Projektes im BA)
+- TOP 2.2.: Begrünung der Sackgasse Siegmund-Schacky-Str. 52-64 und Entsiegelung des Garagenhofes
+- TOP 2.3.: Verbesserung der Verkehrzeichenregelung in der Quedlinburger Straße
+- TOP 2.4.: Nachpflanzung nach Baumfällungen in der städtischen Parkanlage Am Kapuzinerhölzl
+- TOP 2.5.: Lärmschutzwand an der Dachauer Straße 293 entlang dem Kleingartenverein NW3
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Leidinger Platz 1
+- TOP 3.3.1.2.: Pelkovenstr. 47
+- TOP 3.3.1.3.: Ottobeurer Str. 13
+- TOP 3.3.1.4.: Haylerstr. 32
+- TOP 3.3.1.5.: Dresdner Str. 5
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: WC-Anlage im Rondell Großbeerenstraße/ Bunzlauer Straße am Moosacher Bahnhof seit 2020 geschlossen - Wird das ein Dauerzustand?
+- TOP 4.1.2.: Fassadenbegrünung für das technische Betriebszentrum der LH München in der Schragenhofstr. 6
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V., Kreisgruppe München Ökologische Aufwertung der Ausgleichsfläche in den Kirschen 2.077,50 € / Az. 0262.0-10-0320
+- TOP 5.2.: (E) Stadtbezirksbudget DIE LINIE 1 – Kulturverein München-Moosach e.V. Theaterprojekt „Die Kochshow“ vom 10.02. - 31.05.2023 3.400,00 € / Az. 0262.0-10-0324
+- TOP 5.3.: (E) Stadtbezirksbudget Leocor gGmbH / Klimainitiative München Klimatreff der Klimainitiative München vom 12.04. - 12.12.2023 2.848,88 € / Az. 0262.0-10-0325
+- TOP 6.: Anhörungen
+- TOP 6.1.: Austausch einer Lichtsignalanlage (LSA) am Knotenpunkt Hanauer Straße/ Triebstraße
+- TOP 6.2.: Rückbau des Radweges in der Naumburger Straße (zwischen Görlitzer - und Dresdner Straße) gem. Stadtratsbeschluss (Sitzungsvorlage Nr. 14-20/ V 03312)
+- TOP 6.3.: Erinnerungsverfahren (§ 6.1 AufgrO): Radwegsanierungen 1. Naumburger Straße (zwischen Görlitzer - und Dresdner Straße) -> siehe TOP 6.2 2. Georg-Brauchle-Ring 29 (zwischen Mirjam-David-Straße und AWM) 3. Allacher Str. 37 (zwischen Skagerrak- und Sickingerstraße)
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: St.-Martins-Platz „Moosacher Maifest“ vom 26.04.-01.05.2023 - hier: Festzelt
+- TOP 6.5.: Veranstaltung in städtischen Grünanlagen: Am Hartmannshofer Bächl „Kunstprojekt „Der Fahrende Raum“ vom 04.05.-14.08.2023
+- TOP 6.6.: Veranstaltung in städtischen Grünanlagen: Karl-Lipp-Straße "Familiennachmittag" am 05.05.2023
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Änderung der Vorfahrtsregelung in der Netzerstrasse nach Verlegung der Buslinie 51, Aufhebung der Bushaltestellen [BA-Antrag Nr. 20-26/B 04770; im Nachgang zum Fahrplanwechsel wird Bushaltestelle aufgehoben, wieder Einführung Rechts-vor-Links-Regelung; Vormerkung für Aufbau Ladeinfrastruktur.]
+- TOP 7.2.: Künstlerische Zwischennutzung der leerstehenden Kioske im Zwischengeschoss der U-Bahn-Stationen "Westfriedhof" (Ausgang Richtung Baldurstraße) und "Moosach Bahnhof" (Ausgang Richtung Strassenbahnen) [BA-Antrag Nr. 20-26/B 04768; U-Bahnhof Westfriedhof wird in Kürze vermarktet und steht Zwischennutzung nicht zur Verfügung; U-Bahnhof Moosach erhält bald eine Künstlerausstellung über 6-12 Monate.]
+- TOP 7.3.: Anfrage: Fernwärmeausbau im 10. Stadtbezirk - Moosach [BA-Antrag Nr. 20-26/B04640; ab 2023 Einleitung einer ersten Grobplanung eines möglichen Leitungsnetzes. Dann Entwicklung der Machbarkeit, Kosten und zeitlicher Ablauf.]
+- TOP 7.4.: Anfrage: Öffnung und Renaturierung des Reigersbaches [BA-Antrag Nr. 20-26/B03924; Zusage Aufnahme in das Bachrenaturierungsprogramm und Machbarkeitsuntersuchung.]
+- TOP 7.5.: Aufstellung eines Mülleimers an der Pelkovenstraße, Ecke Riesstraße [BA-Antrag Nr. 20-26/B04979; in der Riesstraße wurde bereits 1 Abfallbehälter, und bei Bedarf wird weiterer Abfallbehälter montiert.]
+- TOP 7.6.: Keine Abschaltung der Bedarfsampel für Fußgänger Allacher Straße/ Ecke Ambossstraße [BA-Antrag Nr. 20-26/B03504; die Lichtsignalanlage wird künftig auch nachts und am Wochenende in Betrieb gehalten werden.]
+- TOP 7.7.: Gefährliche Verkehrssituation am Kindergarten und Kinderkrippe Dillinger Str. 14 und 15 [Schreiben BA10 vom 08.02.2023; Ablehnung Einrichtung von Kurzparkplätzen in der Lauinger Straße (zu weit von Kita entfernt). Aber Veranlassung Verlängerung Kita-Anfahrtszone auf Höhe Dillinger Str. 13.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Bebauungsplan mit Grünordnung Nr. 2165 Bingener Straße (westlich), Thorner Straße (östlich), zwischen Rangierbahnhof München-Nord und Torgauer Straße sowie Triebstraße Botanikum A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes B) Beschluss zum weiteren Vorgehen Stadtbezirk 10 Moosach
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: Dresdner Str. 1
+- TOP 8.3.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 8.4.: Vergabe von Gutachter*innenleistungen für die Machbarkeitsstudie der Tramverlängerung von Moosach nach Dachau Vergabebeschluss Aktueller Sachstand zum Projekt und Abschluss einer Vereinbarung über die Durchführung einer Machbarkeitsstudie
+- TOP 8.5.: IAA 2023 – Weiteres Vorgehen Blue Lane
+- TOP 8.6.: Mehrjahresinvestitionsprogramm (MIP) 2022 - 2026 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.7.: (U) Partizipation 2.0 reloaded
+- TOP 8.8.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2020-2021
+- TOP 8.9.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 8.10.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 8.11.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 8.12.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: Meggendorferstraße - nicht-öffentlich -
+- TOP 5.4.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-10-0326
+- TOP 5.5.: N_ Entscheidung gemäß OB-Vollmacht: Sondernutzungserlaubnis; Erweiterung einer bestehenden Freischankfläche: Pelkovenstr. 42
+- TOP 4.: Anträge
