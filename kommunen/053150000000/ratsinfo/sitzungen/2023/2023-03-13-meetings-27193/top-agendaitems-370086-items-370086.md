@@ -1,0 +1,7 @@
+# TOP -: TOP B Antrag auf Durchführung einer Aktuellen Stunde: Logistikkonzept zum Abriss und Neubau des Bezirksrathauses Rodenkirchen
+
+- Sitzung: Sitzung der Bezirksvertretung Rodenkirchen (2023-03-13)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/370086
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/171806
