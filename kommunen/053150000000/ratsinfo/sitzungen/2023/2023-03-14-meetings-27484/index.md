@@ -1,0 +1,76 @@
+# 16. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-14T16:49:00+01:00
+- Ende: 2023-03-14T19:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27484
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27484
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Einrichtung einer Planungsgruppe Kulturbauten - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: AchtBrücken GmbH - Betriebskostenzuschüsse für die Jahre 2025-2027 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU & Volt - ungeändert beschlossen
+- TOP 4.2: Bestellung neuer Mitglieder der Jury zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 4.3: Freigabe von Finanzmitteln aus der Verteilung der Kulturförderabgabe 2023/2024 – Institutionelle Förderung - ungeändert beschlossen
+- TOP 4.4: Freigabe von Finanzmitteln der Kulturförderung für 2023ff für das Literaturhaus Köln e.V. und Gewährung von institutioneller Förderung - ungeändert beschlossen
+- TOP 4.5: Freigabe von Finanzmitteln der Kulturförderung für 2023ff – institutionelle Förderung - ungeändert beschlossen
+- TOP 4.6: Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/2024 - „Fonds Festivals“ - ungeändert beschlossen
+- TOP 4.7: Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/2024 - „Darstellende Kunst (inkl. Tanz) Freie Szene" - ungeändert beschlossen
+- TOP 4.8: Vergabe der Fördermittel 2023 in den Schwerpunkten „Produktionen und Sonderprojekte" und „Cologne Music Export" - ungeändert beschlossen
+- TOP 4.9: Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/2024 - „Förderung Projekte Kreativwirtschaft" - ungeändert beschlossen
+- TOP 4.10: Mittelfreigabe Mietzuschuss an Förderverein Lern- und Gedenkort Jawne e.V. - ungeändert beschlossen
+- TOP 4.11: Freigabe Mittel Open Air 2023 - ungeändert beschlossen
+- TOP 4.12: Freigabe Kulturförderabgabe, Zuschuss für das Erweiterungs- und Entlastungsbauprojekt Sachsenturm für den Gemeinnützigen Bauverein Sachsenturm e.V. - ungeändert beschlossen
+- TOP 4.13: Freigabe Kulturförderabgabe, Zuschuss für das Erweiterung- und Entlastungsbausprojekt Sachsenturm für die Blauen Funken - ungeändert beschlossen
+- TOP 4.14: Beschlussvorlage Fonds Kulturelle Bildung - Juryempfehlungen - ungeändert beschlossen
+- TOP 4.15: Umsetzung einer Maßnahme des Kulturentwicklungsplans: Einrichtung einer Koordinationsstelle Nachhaltigkeit in der Kultur - ungeändert beschlossen
+- TOP 4.16: Umsetzung einer Maßnahme des Kulturentwicklungsplans: Barcamp zur Nachhaltigkeit in der Kultur - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Kölnisches Stadtmuseum - Sonderausstellungen 2023 - geändert beschlossen
+- TOP -: Änderungsantrag der Bündnispartner Bündnis90/Die Grünen, CDU, Volt - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung zweier Elfenbeinreliefs aus süddeutschem Privatbesitz an das Museum Schnütgen - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung "Energetische Ertüchtigung denkmalgeschützter Bauten" - Kenntnis genommen
+- TOP 8.2: Geschäftsbericht 2020/2021 Kulturamt - Kenntnis genommen
+- TOP 8.3: Vorstellung des Spielplans 2023/2024 der Puppenspiele - Kenntnis genommen
+- TOP 8.4: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 8.5: Digitalstrategie der Museen, hier: Information zur Ausstattung der Museen mit WLAN und Publikums-WLAN - zurückgestellt
+- TOP 8.6: Projekt „sichtbar machen. Kommunikation im und über den Holocaust", hier: Projektabschlussbericht - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 21. Februar 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 10. März 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen: Optimierung der musealen Depots, Fortschreibung - Kenntnis genommen
+- TOP -: Optimierung der musealen Depots, Fortschreibung: Grundlagenermittlung und Mengengerüst - Kenntnis genommen
+- TOP 10.2: Beantwortung einer schriftlichen Anfrage AN/10173/2023 zur Mittelvergabe der Kulturentwicklungsplanung (KEP) - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der Fraktion GUT Köln: Hochbunker Körnerstraße - Kenntnis genommen
+- TOP 10.5: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU und Bündnis90/Die Grünen: Erinnerung an das SA-Lager Hochkreuz - Kenntnis genommen
+- TOP 10.6: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion: Heizkosten in städtischen Museen - Kenntnis genommen
+- TOP 10.7: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion: Wie sicher sind unsere Kunstwerke? - Kenntnis genommen
+- TOP 10.8: Beantwortung einer mündlichen Anfrage der Fraktion der CDU: Denkmalpflegeplan - Kenntnis genommen
+- TOP 10.9: Reparatur der Marmorbodenplatten in der Eingangshalle des Spanischen Baus vom Rathaus - Anfrage von SE Stodden (CDU) aus der Sitzung vom 31.01.2023 - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktion der FDP: Sachstand Hallen Kalk 76 und 77 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.2: Schriftliche Anfrage der Fraktion der SPD: Findungsprozess Intendanz am Schauspiel Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.3: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Energiefonds Kultur - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.4: Schriftliche Anfrage der Fraktion Die Linke: würdiges Gedenken am Ort des ehemaligen SA-Lagers Hochkreuz - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.5: Schriftliche Anfrage der Fraktion Bündnis90/Die Grünen & Volt: Versicherungskonstrukt bei Wertsteigerung von Kunstwerken und Gemälden - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Frau von Bülow (Bündnis90/Die Grünen) bittet um einen aktuellen Sachstandsbericht: Cumulus Konzept
+- TOP 12.2: Mündliche Anfrage der Fraktion der SPD: Kulturmarketing zur Vorlage (3440/2022)
+- TOP 12.3: Mündliche Anfrage der Fraktion der FPD: Sanitäranlagennutzung im Museum Ludwig
+- TOP 12.4: Mündliche Anfrage GUT Köln: Leitfaden für die Priorisierung von Großbauprojekten
+- TOP 12.5: Mündliche Anfrage der Fraktion der AfD: Gedenkstätte SA-Lager „Am Hochkreuz“
