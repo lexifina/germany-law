@@ -1,0 +1,95 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2023-03-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7487532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7487532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative „Hänsel & Gretel Abenteuer GmbH“ KreaKtive Bewegungsmotivation Grundschulkinder vom 17.04. bis 24.07.23 540,00 Euro; Az. 0262.0-24-0439
+- TOP 2.2.: (E) Stadtbezirksbudget Blaskapelle Feldmoching e.V. Anmietung eines Toilettencontainers für die Veranstaltung Feldmochinger Dorfabend am 08.07.2023 1.881,39 Euro; Az. 0262.0-24-0446
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 30.10. bis 03.11.2023 6.357,00 Euro; Az. 0262.0-24-0450
+- TOP 2.4.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München-Feldmoching Erwerb von Fußball- und Triathlontrikots für die Jungen- und Mädchenmannschaften 2.599,04 Euro; Az. 0262.0-24-0444
+- TOP 2.5.: (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Anschaffung von Wasserspendern für die Cafeteria des ASZ Hasenbergl 1.365,79 Euro; Az. 0262.0-24-0451
+- TOP 2.6.: (E) Stadtbezirksbudget Euro-Trainings-Centre e.V. Föderung der Teilnahme an einer Ferienfahrt vom 29.05 bis 02.06.23 und vom 31.07. bis 04.08.23 1.650,00 Euro; Az. 0262.0-24-0441
+- TOP 2.7.: (E) Stadtbezirksbudget Euro-Trainings-Centre e.V. Sebstverteidigungskurs „Nicht mit mir“ vom 09.10. bis 28.10.2023 1.460,00 Euro; Az. 0262.0-24-0440
+- TOP 2.8.: (E) Stadtbezirksbudget DLRG Wasserrettungsstation am Fasaneriesee, Ortsverband München-Mitte e.V. Anschaffung eines Unterwasserscanners „AquaEye“ 8.597,00 Euro; Az. 0262.0-24-0447
+- TOP 2.9.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Toni-Pfülf-Straße Osternester 2023 für die Grundschulkinder 255,00 Euro; Az. 0262.0-24-0449
+- TOP 2.10.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München (April bis November 2023) 9.300,00 Euro; Az. 0262.0-24-0452
+- TOP 2.11.: (E) Stadtbezirksbudget HuVTV Edelweiß-Stamm München-Lerchenau e.V. Erneuerung des Weiß- und Schwarzzeugs für die Festtracht der Vereinsdeandln vom 01.03.2023 bis 05.05.2023 7.718,00 Euro; Az. 0262.0-24-0443
+- TOP 2.12.: (E) Stadtbezirksbudget HuVTV Edelweiß-Stamm München-Lerchenau e.V. Erstellen eines neuen Maibaumes für den Ortsteil Lerchenau vom 15.04. bis 05.05.2023 4.300,00 Euro; Az. 0262.0-24-0445
+- TOP 2.13.: (E) Stadtbezirksbudget Initiative „Tiere nebenan“ Schulkunstprojekt „Was krabbelt, flattert, bellt und faucht – Tiere nebenan“ vom 01.04.23 bis 30.06.23 6.859,00 Euro; Az. 0262.0-24-0448
+- TOP 2.14.: (E) Reduzierung der Öffnungszeiten des Kioskes an der Weitlstr. 115 auf das ortsübliche Maß
+- TOP 3.1.: Sicherer Schulweg: Versetzen des Wartebereiches der Bushaltestelle "MAN-Siedlung" an der Nordseite der Karlsfelder Straße nach Norden und Ausstattung mit einem Wartehäuschen
+- TOP 3.2.: Sicherer Schulweg: Abrückung der Bushaltestelle "MAN-Siedlung" auf der Südseite der Karlsfelder Straße nach Süden
+- TOP 3.3.: Sicherer Schulweg: Schaffung einer sicheren Querung der Karlsfelder Straße an der Bushaltestelle "Siedlung Ludwigsfeld"
+- TOP 3.4.: Einrichtung einer Bedarfsampel zur Querung der Straße Am Blütenanger/ Höhe Pappelallee
+- TOP 4.: Die Bürger*innen haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen)
+- TOP 5.1.1.: Josef-Frankl-Str. 23
+- TOP 5.1.2.: Gundermannstraße - Haus 1
+- TOP 5.1.3.: Gundermannstraße - Haus 2
+- TOP 5.1.4.: Gundermannstraße - Haus 3
+- TOP 5.1.5.: Schleißheimer Str. 501 (a) Gebäude und b) Baumfällungen)
+- TOP 5.1.6.: Waldmeisterstr. 19c
+- TOP 5.1.7.: Bocksdornstr. 19
+- TOP 5.1.8.: Waldvögeleinstr. 10
+- TOP 5.1.9.: Lerchenauer Str. 255
+- TOP 5.1.10.: Ebereschenstr. 22
+- TOP 5.1.11.: Auf den Schrederwiesen 37 (-> Wiedervorlage aus Sitzung am 14.02.2023)
+- TOP 5.1.12.: Kohlröschenstr. 13 (Baumfällungen-Baumschutz)
+- TOP 5.1.13.: Weißdornstr. 6 (Baumfällungen-Baumschutz)
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.2.1.: Veranstaltung in städtischen Grünanlagen: Dülferanger "Kraichgauer Puppentheater" vom 27.4.-07.5.2023
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Sorgende Hausgemeinschaften - Wohnen in Gemeinschaft für Münchnerinnen und Münchner über 55 Jahre (hier: Hochmuttinger Straße) (-> Planung Vorstellung Projekt im BA)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Einseitiges Setzen von zwei Sperrpfosten auf dem mittleren Grünstreifen in der Schleißheimer Straße Höhe Harpprechtstraße (Ostseite des Mittelstreifens)
+- TOP -: Sonstige Unterrichtungen
+- TOP 2.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Veranstaltung in einer städtischen Grünanlage: Dülferanger "Remo´s Maskottchen Circus" vom 17. bis 27.03.2023
+- TOP 3.: Erhöhung der Verkehrssicherheit in der Lechenstraße (OB-Entscheidung zu Bürgerversammlungsempfehlung Nr. 20-26/ E 00479)
+- TOP 4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Absolutes Haltverbot in der Ferchenbachstraße (Südseite, östlich Auf den Schrederwiesen) 2. Absolutes Haltverbot für der Zufahrt Schleißheimer Str. 445
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 5.: IAA 2023 – Weiteres Vorgehen Blue Lane
+- TOP 6.: (U) Bebauungsplan mit Grünordnung Nr. 2138 „Lerchenauer Straße“ Ponkratzstraße (südlich), Lerchenstraße (westlich), Müllritterstraße (westlich), Drudhardstraße (westlich), Lerchenauer Straße (östlich), Josef-Zintl-Straße (östlich) Neubau der Verkehrsflächen U-1803, U-1804, U-1805, U-1806, U-1807, U-1808, U-1809, U-1810, U-1811, U-1812, U-1813, U-1814, U-1815 und U-1817 sowie Anpassung von Teilbereichen der Lerchenauer Straße, Georg-Zech-Allee und Lerchenstraße im 24. Stadtbezirk Feldmoching-Hasenbergl Verkehrsführung und Raumaufteilung
+- TOP 7.: Vergabe von Gutachter*innenleistungen für die Machbarkeitsstudie der Tramverlängerung von Moosach nach Dachau Vergabebeschluss Aktueller Sachstand zum Projekt und Abschluss einer Vereinbarung über die Durchführung einer Machbarkeitsstudie
+- TOP 8.: A) Bebauungsplan mit Grünordnung Nr. 2108a Raheinstraße (südlich und westlich), Ratoldstraße (westlich), Lerchenstraße (nördlich), Bahnlinie München-Regensburg (östlich), (Teilverdrängung der Bebauungspläne Nrn. 36c, 825 und 1119) - Satzungsbeschluss - B) Ausführungen zur Umsetzung des Verkehrskonzeptes, insbesondere nicht-ursächliche Kosten Ausbau Dülferstraße Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 9.: (U) Partizipation 2.0 reloaded
+- TOP 10.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 11.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 12.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzende*r
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
+- TOP 5.1.14.: N_ Glockenbecherstr. 25
+- TOP 5.1.15.: N_ Frankaustr. 18
+- TOP 5.1.16.: N_ Hardenstr. 2m
+- TOP 5.2.2.: N_ Veranstaltung in städtischen Grünanlagen: Goldschmiedplatz 2 Flohmarktveranstaltungen des Bewohnerstammtisches Hasenbergl-Nord am 06.05. und 01.07.2023
+- TOP 3.5.: N_ Ausbau der Geothermie im 24. Stadtbezirk auf dem Gebiet des ehemaligen Virginiadepots an der Schleißheimer Straße auf dem Gebiet des ehemaligen Fußballplatzes der ehem. Kronprinz-Rupprecht-Kaserne
+- TOP 3.6.: N_ Grundstück der ehemaligen Seewirtschaft am Lerchenauer See: Möglichkeiten einer sinnvollen Zwischennutzung bis zu einer Bebauung
+- TOP 3.7.: N_ Forderung an die GWG, das im Zuge der Sanierung „soziale Stadt“ 2001 abgebaute Denkmal „Familie im Wind“ in der Wohnanlage Wintersteinstraße am alten Platz wieder aufzustellen
+- TOP 3.8.: N_ Forderung an die Deutsche Post, die in der Siedlung am Lerchenauer See geschlossene Postfiliale möglichst schnell wieder zu eröffnen
+- TOP 5.2.3.: N_ Veranstaltung in städtischen Grünanlagen: Dülferanger; „Circus Sorrento“ vom 02. - 11.06.2023
+- TOP 5.2.4.: N_ Veranstaltung in städtischen Grünanlagen: Zirkuswiese Weitlstr, 125; „Zirkus Nordini“ vom 31.07. - 05.08.2023
+- TOP 5.2.5.: N_ Veranstaltung in städtischen Grünanlagen: Fasaneriesee Süd-Westufer; „Floßbau und Floßfahrt im Rahmen des Münchner Familienpases“ am 23.04. und 08.10.2023
+- TOP 5.2.6.: N_ Veranstaltung in städtischen Grünanlagen: Regattasee; „Traditionelles An- und Abfischen“ am 01.04. und 14.10.2023
+- TOP 5.1.17.: N_ Frauenschuhstraße (Frauenschuhstr./Trollblumenstr.)
+- TOP 3.9.: N_ Festlegung eines Schulsprengels für die Kinder der geplanten Flüchtlingsunterkunft an der Gundermannstraße
+- TOP 5.2.7.: N_ Veranstaltung in städt. Grünanlagen: Skatepark Fasanerie, Feldmochinger Str. 325; Skatemobil am 20.05.2023 u.v.m.
+- TOP 3.: Anträge
