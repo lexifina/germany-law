@@ -1,0 +1,167 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323469
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323469
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 14.02.2023
+- TOP 1.3.2.: Benennung eines stellvertretenden Vorsitzenden des UA Stadtplanung und Bauordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Gewerbegebietsmanagement Steinhausen, Bericht über den Workshop am 19.01.2023 im Colab - Vorstellung durch Vertreter*innen des Referats für Stadtplanung und Bauordnung, Mobilitätsreferats und Referat für Arbeit und Wirtschaft -
+- TOP 2.2.2.: Bahnausbau Region München: Netzergänzende Maßnahme im Stadtbezirk Bogenhausen - Vorstellung durch Vertreter*innen der DB -
+- TOP 2.2.3.: Gewerbeband Steinhausen Vogelweideplatz (östlich), Bundesautobahn 94 (BAB 94) (südlich), Bahngleisanlagen (nördlich, westlich) Entwicklungsperspektive - Rahmenplanung Steinhausen - Verkehrsuntersuchung; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.4.: Vorstellung des Planungsstands zu „MUC East“ – Gewerbegebiet Steinhausen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.2.5.: Entwicklungsmaßnahme Münchner Nordosten Blickachsen Visualisierung Wettbewerbsergebnis; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.6.: Neubau der Straßenbahnstrecke Tram Nordtangente Planfeststellungsabschnitt 3 Cosimastraße – S-Bahnhof Johanneskirchen Planfeststellungsverfahren nach § 28 PBefG mit integrierter Umweltverträglichkeitsprüfung; Anhörung des Referats für Stadtplanung und Bauordnung - neue Mail vom 28.02.2023 -
+- TOP 2.2.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.10.: Verschiedenes, Termine
+- TOP -: Baumfällungen lt. Plan
+- TOP 1.: Grimmelshausenstr. 5 - ÄNDERUNGSANTRAG zu 1.2-2021-24051-31 - Neubau eines Gebäudes (10 WE) - mit Mobilitätskonzept
+- TOP 2.: Vandalenstr. 6: Neubau eines Einfamilienhauses mit 2 Garagen
+- TOP 3.: Pienzenauerstr. 128 - Erweiterung eines zweigeschossigen Reihenendhauses
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Erhöhung der Verkehrssicherheit für den Radverkehr in der Mauerkircherstraße; Anhörung des Mobilitätsreferats (vertagt aus der Sitzung 02/23)
+- TOP 2.3.2.: Standortplanungen E-Lastenradsystem; Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Sichere Umstiegsmöglichkeit an der Tram St. Emmeram ermöglichen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.4.: Musenbergstr. 8, 14 - 16: Ungenehmigte Nutzungen Containerabstellplatz und Autohandel; Anliegen aus der Bürgerschaft
+- TOP 2.3.5.: Verkehrsberuhigung der Johanneskirchner Straße zwischen der Oberföhringer Grundschule und des Hauses für Kinder in der Else-Lasker-Schüler-Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Fehlender kombinierter Rad- und Fußübergang an der Kreuzung Vogelweideplatz/Prinzregetenstraße/Vogelweidestraße in Fahrrichtung Norden (Lücke); Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Verschiedene Verkehrsthemen (S-Bahnhof Daglfing, Bahnübergänge, Ausbau Radwege etc.); Anliegen aus der Bürgerschaft
+- TOP 2.3.8.: Suche nach Fahrrad-Abstellflächen an der Ismaninger Str. 136 sowie gegenüber der Wehrlestraße 8; Bürgeranliegen
+- TOP 2.3.9.: Verbesserung der Tiefgaragen Ausfahrtsituation Zwischen Flensburgerstr. 79 und 81; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.11.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Blütenring e.V. Blütenring Theatertag 2023 Commedia im Park vom 16. - 18.06.2023 und 23. - 25.06.2023 3.800,00 € / Az.: 0262.0-13-0354
+- TOP 2.4.2.: (E) Stadtbezirksbudget Tretlager e.V. München Anpassung der Vereinsstrecke und Schaffung einer besseren Infrastruktur und Gemeinschaftsfläche für die Mitglieder und Gäste vom 23.03. - 31.12.2023 7.200,00 € / Az. 0262.0-13-0355
+- TOP 2.4.3.: (E) Stadtbezirksbudget Schützengesellschaft Gemütlichkeit Daglfing e.V. Maibaum Daglfing 2023 vom 22.04. - 07.05.2023 8.900,00 € / Az. 0262.0-13-0356
+- TOP 2.4.4.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-13-0357
+- TOP 2.4.5.: Antrag auf einen Elektroanschluss am Maria-Nindl-Platz für den Wochenmarkt; Anliegen aus der Bürgerschaft (Bestellung städt. Leistung)
+- TOP 2.4.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.7.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Biotopentwicklungsfläche B-Plan 2151 am Salzsenderweg - Vorstellung durch Vertreter*innen des Baureferats -
+- TOP 2.6.2.: (E) Summton im Wohnhaus in der Masurenstraße
+- TOP 2.6.3.: Eichhörnchen schützen durch kostengünstige, einfache Maßnahmen
+- TOP 2.6.4.: Errichten von Sanitäranlagen in den Krautgärten zwischen Apenrader Str. und Glücksburger Str. BV-Empfehlung 20-26 / E 00911 - Beschlussentwurf - Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.6.5.: Widerspruch gegen Aufstellung von Glascontainer/Altglascontainer vor der Ruth-Drexel-Straße 130, auf dem Baugrundstück der Grund-Idee bzw. vor Grundstücksgrenze; Anliegen aus der Bürgerschaft
+- TOP 2.6.6.: Baumfällung im Hof des alten Bauernhauses in der Schnorr von Carolsfeld Straße; Anliegen aus der Bürgerschaft
+- TOP 2.6.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.8.: Verschiedenes, Termine
+- TOP -: Baumfällungen (Anhörungen)
+- TOP 1.: Gotthelfstr. 4
+- TOP 2.: Freischützstr. 82
+- TOP 3.: Delpstr. 10
+- TOP 4.: Schimmelweg 7a
+- TOP 5.: Kolbergerstr.
+- TOP 6.: Freischützstr. 92
+- TOP 7.: Eggenfeldener Str.
+- TOP 8.: Donaustr. 22
+- TOP 9.: Oberföhringer Str. 196
+- TOP 10.: Neckarstr. 14
+- TOP 11.: Pienzenauerstr. 103 (vertagt in der Februar-Sitzung)
+- TOP 12.: Elektrastr. 5
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: (E) Zusammenstellung einer Übersicht von Vereinen, Sport- und Freizeitgruppen im Bezirk
+- TOP 2.7.2.: Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine - Beschlussentwurf für den Sozialausschuss am 16.03.2023; Anhörung des Sozialreferats
+- TOP 2.7.3.: Bezirksübergreifender Antrag von CultureClouds e.V. - Zirkus Pumpernudl in städt. Grünanlagen vom 31.03.2023 - 02.07.2023; Frist zur Anhörung: 13.03.2023
+- TOP 2.7.4.: Circus Sorento von 04.05. – 14.05.2023 (Aufbau ab 03.05.2023, Abbau bis 15.05.2023) auf dem Bichlhofweg; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.5.: An der Cosimastraße/Englschalkinger Straße: Gastspielanfrage der Kraichgauer Puppenbühne; Anhörung des Kommunalreferats
+- TOP 2.7.6.: Erhalt der Dienstbarkeit für die Aufbahrungsräume am Friedhof St. Lorenz in Oberföhring; hier: Antrag zur Bestellung einer städtischen Leistung des BA 13 aus der Sitzung am 13.12.2022; Schreiben des Direktoriums (vertagt in der Sitzung 02/23)
+- TOP 2.7.7.: Erhalt der Dienstbarkeit für die Aufbahrungsräume am Friedhof St. Lorenz in Oberförhring; Antrag der CSU-Fraktion
+- TOP 2.7.8.: Sommerfest im 13. Stadtbezirk am 08.07.2023 - veranstaltet durch REGSAM - Beteiligung des BA 13? -
+- TOP 2.7.9.: Raumkostenübernahme für das Vorläuferprojekt des BRK; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.7.10.: Unterstützung der Kinderkrippe Klausenburg e.V. BA-Antrag 20-26 / B 04373 - erneutes Schreiben der Kinderkrippe -
+- TOP 2.7.11.: Auswertung Demokratiemobil
+- TOP 2.7.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.14.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Umgestaltung des Parks zwischen Neher- und Nigerstraße als attraktiver Außenbereich für Jugendliche - betrifft auch das Gebiet des BA 13 -
+- TOP 6.2.: Friedrich-Eckart-Str. (gegenüber der Bernatzkistr.): Fehlende Bordsteinabsenkung
+- TOP 6.3.: Zugang zur Einrichtung „Die INSEL“
+- TOP 6.4.: Winterquartiere für Igel
+- TOP 6.5.: Querungshilfe in der Weltenburger Straße/ Ecke Revaler Straße schon jetzt deutlich sichtbar machen
+- TOP 6.6.: Behandlungskosten für Wildtiere und verwilderte Haustiere
+- TOP 6.7.: Brodersenstraße 4-10: Erhöhte Fußgänger-Gefährdung; Anliegen aus der Bürgerschaft
+- TOP 6.8.: Informationen zur Funktionsweise und Optimierung der MVG-App
+- TOP 6.9.: Antwortschreiben zu BV-Anfragen: - Lärmbelästigung durch die Sportanlage der Ruth-Drexel-Schule - Vor- und Nachteile des Fahrradschnellwegs durch die Denninger Straße (neues Antwortschreiben zur Stellungnahme des BA 13)
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Verwendungsnachweise: - Kunst am Bau...zaun - GMU e. V. - SG "Gem. Daglfing" - Verein für Stadtteilkultur im Münchner Nordosten
+- TOP 7.2: Baureferat
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Verbindungsweg zwischen Stegmühlstraße und Glücksburger Straße (nördlich städt. Steinlager, südlich Baumschule) - Durchfahrtbeschränkung für Kfz (Z. 260) mit Zusatz „landwirtschaftlicher Verkehr frei“ - Vorfahrtregelungen
+- TOP 7.3.2.: Meistersingerstraße (zw. Tannhäuserpl. und Stolzingstr.): Absolutes Haltverbot (einseitig mit Versatz)
+- TOP 7.3.3.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 7.3.4.: Gebelestr. 2 - Pflegezufahrt Schulgelände (Südseite ggü. Hs.Nr. 13): Absolutes Haltverbot mit zeitlicher Beschränkung
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung eines Gaststättengewerbes: - "Il Gusto“, Schank- und Speisewirtschaft, Ostpreußenstr. 12
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Umwidmung von 2 VZÄ Plotterzentrum zu 2 VZÄ SB Datenerfassung / Digitalisierung
+- TOP 7.7.2.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 7.7.3.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 7.7.4.: Urbanes Gärtnern in München StR-Anträge
+- TOP 7.7.5.: Flemingstr. 136
+- TOP 7.7.6.: Gotenstr. 3
+- TOP 7.7.7.: Krenklstr. 30: Neubau 3er zusammenhängender Einfamilienhäuser mit einem Carport und einem Doppelhaus mit einem Doppelparker - Abdruck der Baugenehmigung
+- TOP 7.7.8.: Ortnitstr. 25: Errichtung eines Mehrfamilienhauses mit 3 (WE) und Tiefgarage - Abdruck der Baugenehmigung
+- TOP 7.7.9.: Ismaninger Str. 154
+- TOP 7.7.10.: Steubstr.
+- TOP 7.7.11.: Kolbergerstr.
+- TOP 7.7.12.: Pienzenauerstr. 2
+- TOP 7.7.13.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 7.7.14.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 7.7.15.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 7.7.16.: A) Bebauungsplan mit Grünordnung Nr. 2183 Marienburger Straße (östlich), Memeler Straße (nördlich), Bahnstrecke Nr. 5560 (westlich) - Eckdaten- und Aufstellungsbeschluss - B) Durchführung eines städtebaulichen und landschaftsplanerischen Planungswettbewerbs C) Weiteres Vorgehen Stadtbezirk 13 Bogenhausen
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Partizipation 2.0 reloaded
+- TOP 7.9.2.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose zum Stand Dezember 2022
+- TOP 7.9.3.: Vollzug der Zweckentfremdungssatzung: - Ennemoserstr. 8
+- TOP 7.9.4.: (U) Platz da für Mädchen* und junge Frauen* - Sicherheitsgefühl stärken „Platz da für Mädchen* und junge Frauen*“ Antrag Nr. 20-26 / A 03295 ... 3. Stadtbezirk Maxvorstadt 6. Stadtbezirk Sendling 7. Stadtbezirk Sendling-Westpark 10. Stadtbezirk Moosach 13. Stadtbezirk Bogenhausen 15. Stadtbezirk Trudering-Riem 17. Stadtbezirk Obergiesing–Fasangarten 20. Stadtbezirk Hadern 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.12.1.: (U) SEM Nordost – Arbeitsplätze nur für den örtlichen Bedarf Empfehlung Nr. 20-26 / E 00939 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 20.10.2022
+- TOP 7.12.2.: Weiterentwicklung des MVV-Gemeinschaftstarifs MVV-Tickets für Jugendliche bezahlbar machen BA-Antrags-Nr. 14-20/B 03188 des Bezirksausschusses des Stadtbezirkes 03 -- Maxvorstadt vom 10.01.2017
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.7.: Tucheler-Heide-Str. 1 - Neubau eines Mehrfamilienhauses (3 WE) mit Doppelparker (2 St.) und Carport (Az.: 1.2-2022-20501-31); Frist 03.04.2023, Fristverlängerung nicht möglich
+- TOP 2.2.8.: Tucheler-Heide-Str. 1 - Neubau eines Einfamilienhauses mit Garage (Az.: 1.2-2022-20509-31); Frist 03.04.2023, Fristverlängerung nicht möglich
+- TOP 4.: Tucheler-Heide-Str. 1 - Neubau eines Mehrfamilienhauses (3 WE) mit Doppelparker (2 St.) und Carport (Az.: 1.2-2022-20501-31); Frist 03.04.2023, Fristverlängerung nicht möglich
+- TOP 5.: Tucheler-Heide-Str. 1 - Neubau eines Einfamilienhauses mit Garage (Az.: 1.2-2022-20509-31); Frist 03.04.2023, Fristverlängerung nicht möglich
+- TOP 2.7.12.: Veranstaltung auf Privatgrund und öffentlichem Grund: Tag der offenen Tür der Freiwilligen Feuerwehr Oberföhring am 06.05.2023 in der Muspillistr.; Anhörung des KVR
