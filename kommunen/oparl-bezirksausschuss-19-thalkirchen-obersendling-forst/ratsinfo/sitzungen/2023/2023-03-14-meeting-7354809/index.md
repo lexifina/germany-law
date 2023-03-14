@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-03-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7354809
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7354809
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 07.02.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Nahversorgung Neuforstenried: Ergebnisse und weiteres Vorgehen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Guter Hirte St. Gabriel München gGmbH: Ausstattung Kinderkrippe vom 01.04.2023 bis 31.03.2024 640,00 € / AZ: 0262.0-19-0449
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling: Klavierkonzert am Nachmittag vom 15.03.2023 bis 14.03.2024 375,00 € / AZ: 0262.0-19-0448
+- TOP 3.4.: (E) Stadtbezirksbudget mobil und sicher e.V.: Sozialraumkarte vom 31.03.2023 bis 31.09.2023 5.800,00 € / Az.: 0262.0-19-0451
+- TOP 3.5.: Veranstaltung am 25.03.2023 im Bürgersaal
+- TOP 3.6.: Themenwoche Wald: 18.04. bis 25.04.2023: BA-Veranstaltung am 22.04.2023
+- TOP 3.7.: (E) Stadtbezirksbudget Initiative „Kulturspaziergang": Kulturspaziergang Obersendling am 22.07.2023 11.737,00 € / AZ: 0262.0-19-0452
+- TOP 3.8.: (E) Stadtbezirksbudget foolpool GbR: Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München vom 01.04.2023 bis 30.11.2023 9.300,00 € / AZ: 0262.0-19-0454
+- TOP 3.9.: (E) Stadtbezirksbudget Evangelischer Sozialdienst e.V. - ASZ Fürstenried: Umbau des Werkraumes zu einem Multifunktionsraum AZ: 0262.0-19-0453 / 3.234,06 €
+- TOP 3.10.: - NACHTRAG - (E) Stadtbezirksbudget Klima Café im Bürgertreff treff+tee e.V.: Radl-Vorrangkarte-to-go für den BA 19 vom 01.04.2023 bis 31.12.2023 988,65 € / AZ: 0262.0-19-0447
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Immissionsschutzrechtliche Genehmigung: Errichtung und Inbetriebnahme eines 4. Schmelzofens in der Gießerei Kistlerhofstraße 124
+- TOP 4.4.: - NACHTRAG - (A) Temporäre Baustelleneinrichtungsfläche vor der Conwentzbrücke
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Einfärbung des Radweges und Sicherung des Überganges für Fußgänger*innen an der Fraunbergstraße
+- TOP 5.2.: (A) Fußwegverbindung Filchnerstraße
+- TOP 5.3.: (Antrag) Sperrung der Gmunder Straße für Durchgangsverkehr
+- TOP 5.4.: (Antrag) Verbesserung der Parksituation Kreuzung Boschetsrieder Straße / Drygalski-Allee (angrenzend an Christel-Küpper-Platz)
+- TOP 5.5.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Gefahrenzeichenbeschilderung Bertelestraße
+- TOP 5.6.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Eingeschränktes Haltverbot Goldbergstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Spindlerstraße 17
+- TOP 6.2.2: Baierbrunner Straße 54
+- TOP 6.2.3: Nesselwanger Straße 5
+- TOP 6.2.4: - abgesetzt -
+- TOP 6.2.5: Hofbrunnstraße 93
+- TOP 6.2.6: Buchhierlstraße 23
+- TOP 6.2.7: Herterichstraße Flurnummer 350/3
+- TOP 6.2.8: Appenzeller Straße 119
+- TOP 6.2.9: Krennerweg 11a
+- TOP 6.2.10: Buchauerstraße 33 (VB)
+- TOP 6.2.11: Maxhofstraße 23 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Sanierungsarbeiten im Pavillon der Grundschule an der Baierbrunner Straße wegen Schimmelbefall während der Unterrichtszeit
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Denkmalgeschütze Dorfkerne über eine App kennenlernen
+- TOP 8.2.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee 31.03. bis 30.06.2023
+- TOP 8.3.: (A) Veranstaltung: Konzert in der Tierparkstraße am 01.04.2023
+- TOP 8.4.: (Antrag) Historische Gleisanlage in Kulturgeschichtspfad aufnehmen
+- TOP 8.5.: - NACHTRAG - (A) Veranstaltung: Flohmarkt Grünanlage Boschetsrieder Park am 06.05.2023
+- TOP 9: Verschiedenes
+- TOP 6.2.12: - NACHTRAG - Isarwinkel 4-16
+- TOP 3.11.: - NACHTRAG - (E) Stadtbezirksbudget Omaha Film GmbH: Jugendmedienprojekt und Podiumsdiskussion vom 21.04.2023 bis 23.04.2023 2.925,00 Euro; Az. 0262.0-19-0456
+- TOP 5.7.: - NACHTRAG - (A) Errichtung E-Ladesäule: Allgäuer Straße 40
+- TOP 2.4.: Komplette Sanierung des Bads Forstenrieder Park
+- TOP 3.12.: - NACHTRAG - (E) Stadtbezirksbudget Condrobs e.V.: Sonnenschirme und Stühle für den sozialen Gastrobetrieb VIVA CLARA von Mai bis September 2023 4.809,75 € / Az.: 0262.0-19-0455
+- TOP 8.6.: - NACHTRAG - (A) Veranstaltung: Spielaktionen für Kinder und Jugendliche Schweizer Platz vom 29.06. bis 03.07.2023
