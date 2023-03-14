@@ -1,0 +1,83 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352302
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352302
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Fahrradsituation in der Schießstättstraße / Umwandlung von Ladenflächen in Büroräume
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ganghoferstraße 27a - 29a
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Übersicht der Unterkünfte für Geflüchtete und Wohnungslose in München
+- TOP 7.3.2.: Weltspieltag auf der Schwanthalerhöhe
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltungen CultureClouds e.V. - Zirkus Pumpernudl, städt. Grünanlagen, 31.03.-02.07.2023
+- TOP 8.2.2.: Blade-Night 2023 ab 08.05.2023; Start/Ziel Am Bavariapark
+- TOP 8.3: Unterrichtungen
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Ridlerstraße 75
+- TOP 9.2.2.: Baumfällung Tulbeckstraße 27 - 29
+- TOP 9.2.3.: Baumfällung Gollierstraße 54 - 56
+- TOP 9.2.4.: Standortplanung E-Lastenradsystem
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Zebrastreifen an der Fußgängerüberquerung Schießstättstraße; Antwortschreiben
+- TOP 9.3.2.: Leitfaden Parklets 2023
+- TOP 9.3.3.: Erfahrungsbericht Oktoberfest 2022
+- TOP 9.3.4.: Fällung von Gefahrenbäumen im öffentlichen Raum; u.a. Baumfällungen Schnaderböckstraße
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Mischwald e.V. “Mosfet Stadt Verstärken vom 16.03.2023 – 16.04.2023“ 2.025,00 € / AZ: 0262.0-8-0342
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative „Zeitgenössische Kunstausstellung“ “Was gehört uns?“ Zeitgenössische Kunstausstellung vom 10.03.2023 – 19.03.2023 3.200,00 € / AZ: 0262.0-8-0340
+- TOP 10.1.3.: (E) Stadtbezirksbudget Unite Cultures Initiative e.V. Sidewalk Cultures Festival vom 28. - 30.07.2023 4.810,00 € / Az.: 0262.0-8-0344
+- TOP 10.1.4.: (E) Stadtbezirksbudget Strandkorb. Laden für neue Perspektiven. Konzert und Text: „Die Schwabinger Gisela kommt ins Westend“ am 13.07.2023 538,00 € / AZ: 0262.0-8-0343
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Mobiler Mädchentreff für den Bahndeckel
+- TOP 11.2.: AKIM-Einsatz in der Schwanthalerstraße und Parkstraße prüfen
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.3.: Tischtennisturnier am Platz Am Bavariapark am 24.06.2023, Ersatztermin 01.07.2023
+- TOP 8.2.4.: Schallplattenflohmarkt am Platz Am Bavariapark am 24.06.2023, Ersatztermin 01.07.2023
+- TOP 8.3.1.: Öffentliches Treffen zur Vorbereitung der Kunst und Kulturtage 2023; Arbeitskreis „Westend hat ein Gesicht“
+- TOP 12.3.1.: Informationsschreiben BA 01/2023: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen; Aufhebung der Maskenempfehlung
+- TOP 6.3.3.: Planfeststellungsverfahren 2te S-Bahnstammstrecke
+- TOP 7.3.3.: Kita-Versorgungssituation im Stadtbezirk 8
+- TOP 9.1.1.: (E) Verkehrsregelung zur Wiesn in der Gollierstraße Empfehlung Nr. 20-26 / E 00522 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.2.5.: Sanierung Fahrbahnbelag Trappentreustr 23-25
+- TOP 11.3.: Info-Kampagne zur Begrünung des 8. Stadtbezirks
+- TOP 12.3.2.: Informationsschreiben BA 02/2023: Grundsätzliches zur Abrechnung von Aufwandsentschädigungen; Bereitstellung der Jahresfinanzmeldung
+- TOP 9.2.6.: Sanierung Fahrbahnbelag Fäustlestraße 2 - 14
+- TOP 8.2.5.: Informationsveranstaltung 175 Jahre Deutsche Marine, Platz Am Bavariapark am 14.06.2023
+- TOP 9.2.7.: Baumfällung Schießstättstraße 30
+- TOP 8.2.6.: Sammelgenehmigung Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2023
+- TOP 8.2.7.: Temporäre Kunstaktion "Schneckenbeet" am Bavariapark vom 15.04.-15.09.2023
