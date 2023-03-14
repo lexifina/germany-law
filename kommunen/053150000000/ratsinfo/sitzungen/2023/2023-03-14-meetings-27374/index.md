@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-14T14:05:00+01:00
+- Ende: 2023-03-14T15:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27374
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27374
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gem. § 75 SGB VIII; hier: "Afina - Assoziation Für Interkulturelle und Nachbarschaftliche Arbeit e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung von Kindertagespflegepersonen - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Kontingenterhöhungen für Verbundfamilienzentren im Kindergartenjahr 2022/23 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: ISEK Porz-Mitte - Gestaltung Parkanlage Glashüttenstraße - geändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Konzept zur Weiterentwicklung der Städtepartnerschaftsarbeit der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Wahl eines stellvertretenden beratenden JHA-Mitglieds, hier: KIDsmiling e.V. - ungeändert beschlossen
+- TOP 4.3: Anregung der Bezirksvertretung Kalk zur Bereitstellung von FFP2/OP-Masken und Corona-Test-Kits für alle sozialen Kinder-, Jugend- und Sozialeinrichtungen im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 4.4: Mitgliederwechsel im Jugendhilfeausschuss, hier: Bund der Deutschen Katholischen Jugend - BDKJ, Stadtverband Köln - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Livestream attraktiver gestalten - geändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Beantwortung der Anfrage AN/0183/2023 "Schutz und Angebote für Kinder und Jugendliche im Karneval" - Kenntnis genommen
+- TOP 6.1.2: Beantwortung der Anfrage AN/2203/2022 "Städtepartnerschaften und Jugendaustausch" - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Situation der Kindertagesbetreuung in Köln - zurückgestellt
+- TOP 6.2.2: Stand der Umsetzung des Onlinezugangsgesetzes (OZG) in der Kommune - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Nachfrage zu AN/1685/2022 Sachstand Kostenheranziehung für Pflege- und Heimkinder - Kenntnis genommen
+- TOP 7.1.2: Beantwortung mündlicher Nachfragen des JAEB zu TOP 7.2.1 und TOP 7.2.2 aus der JHA Sitzung am 31.01.2023 - Kenntnis genommen
+- TOP 7.1.3: Beantwortung der mündlichen Anfragen der Sitzung des Jugendhilfeausschusses vom 31.01.2023 - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer Anfrage zur Einrichtung bilingualer Kitas (AN/0256/2023) - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer mündlichen Anfrage aus dem JHA vom 31.01.2023 zu TOP 8.3.1, Jahresbericht 2021 – Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 2. Halbjahr 2022 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Update zum Begleitgremium zum Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 8.4.2: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 8.5.2: LSBTI-Aktionsplan: erste Zwischenbilanz - Kenntnis genommen
+- TOP 8.5.3: „Mixed-Kampagne" zu den Themen „Gewalt an Männern" und „Aufklärung für Jungen im Bereich Sexualität, Konfliktverhalten, Grenzwahrnehmung" - Kenntnis genommen
+- TOP 8.5.4: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 8.5.5: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - Kenntnis genommen
+- TOP 8.5.6: Jugend hackt 2022 in Köln - Kenntnis genommen
+- TOP 8.5.7: Abschlussbericht und Handlungsempfehlungen zur wissenschaftlichen Begleitung der Umsetzung des Drogenhilfekonzeptes 2022 - zurückgestellt
