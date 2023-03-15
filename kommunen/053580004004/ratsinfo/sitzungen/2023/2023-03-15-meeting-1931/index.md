@@ -1,0 +1,61 @@
+# Gemeinderat (25. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2023-03-15T18:03:00+01:00
+- Ende: 2023-03-15T21:05:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZeFdlisiNjanjYBEWEGFyY
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1931
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUB80H8wj-MM77beNJi4mHQdNyWgz1dIhL2a1jALNPK4/Bekanntmachung_Gemeinderat_15.03.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTetKAbQ3NjaG9tJKEsBt4cwdCrXg90MayiCQlcLDPMi/Oeffentliche_Niederschrift_Gemeinderat_15.03.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Verabschiedungen
+- TOP 1.1: Verabschiedung des ehemaligen Bezirksdienstbeamten der Polizeidienststelle Aldenhoven
+- TOP 1.2: Verabschiedung eines ausgeschiedenen Ratsmitgliedes - Zur Kenntnis genommen
+- TOP 2.: Einführung und Verpflichtung eines neuen Ratsmitgliedes - Zur Kenntnis genommen
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 5.: Neubesetzung von Ausschüssen
+- TOP 5.1: Neubesetzung des Bauverwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Neubesetzung von Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Neubesetzung von Gremien
+- TOP 6.1: Entsendung eines/r Delegierten zur Verbandsversammlung des Wasserverbandes Eifel-Rur - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Beschluss über die Empfehlungen des Sozial- und Kulturausschusses
+- TOP 7.1: Aktuelle Situation „Aldenhovener Tisch“ - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 8.1: Fortführung des Verfahrens zur Aufstellung des Bebauungsplans 85 S - Businesspark Alsdorf - Norderweiterung - 21 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.2: Antrag der SPD-Fraktion hier: Übernahme eines Teilgrundstückes „Im Hühnerkamp“ durch die Gemeinde Aldenhoven - Für den Antrag der SPD-Fraktion (gemäß Variante A des Beschlussvorschlags aus der Sitzungsvorlage) gibt es die folgenden Stimmen:11 Ja-Stimme(n), 13 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 9.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 9.1: Gebührenanpassung Grubenentleerung 2023 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.2: Änderungen zum Haushaltsentwurf 2023 - Ohne Abstimmung
+- TOP 10.: Finanzen, Haushalt
+- TOP 10.1: Ermächtigungsübertragungen des Jahres 2022 nach 2023 nach § 22 KomHVO - Einstimmig, 0 Enthaltung(en)
+- TOP 10.2: Erneuerung Warmwassererzeugung im Sportheim Schleiden, hier Kostensteigerung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.3: Beschluss der Haushaltssatzung 2023 mit ihren Anlagen - Abgesetzt
+- TOP 10.4: Stellenplan für das Jahr 2023 - Einstimmig, 0 Enthaltung(en)Sitzungsunterbrechung von 19:40 Uhr bis 19:55 Uhr zwecks Stoßlüftung des Sitzungssaals.
+- TOP 11.: Bürgerzentrum Aldenhoven – Vergabeverfahren Analyse Nutzungskonzept und Gebäudebestandserfassung - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Sachstandbericht Einzelhandelskonzept für die Gemeinde Aldenhoven - 20 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Beschluss über die Empfehlungen des Schulausschusses
+- TOP 2.1: Elternbefragung zur Schulwahl beim Wechsel von der Grundschule zur weiterführenden Schule - Einstimmig, 1 Enthaltung(en)
+- TOP 3.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 3.1: Erneuerung von Kompressoren in der Pumpstation Engelsdorf, hier Auftragsvergabe. - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Berichte aus den Gremien
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Abschluss eines Mietvertrages über eine Fläche auf dem Friedhofsparkplatz Siersdorf zur Errichtung einer Post- / Packstation durch die Deutsche Post Immobilien GmbH - 22 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.2: Grunderwerb von landwirtschaftlichen Parzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Mitteilung des Bürgermeisters gemäß Korruptionsbekämpfungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
