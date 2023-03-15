@@ -1,0 +1,8 @@
+# TOP 2: Bericht "Beschulung der neu zugewanderten Schüler*innen, u.a. aus der Ukraine"
+
+- Sitzung: Ausschuss für Schule und Bildung (2023-03-15)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/153473
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/33205
