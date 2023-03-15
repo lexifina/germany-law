@@ -1,0 +1,165 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-03-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7380852
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7380852
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokoll der Sitzung vom 15.02.2023
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Luftqualität Rosenheimer Straße
+- TOP 5.2.: Brunnen und Spazierweg wieder herstellen
+- TOP 5.3.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern
+- TOP 5.4.: Zusätzliche Sportmöglichkeiten in Au-Haidhausen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Bürgerversammlung Haidhausen: Einladung der Bundespolizei Antwort Direktorium zur Anfrage des BA 5
+- TOP 6.2.2.: Infoblatt März 2023
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-5-0449 vertagt in der Sitzung am 15.02.2023
+- TOP II.2.: (E) Stadtbezirksbudget Galerie arToxin Donhärl & Düren GbR “It will be perfect, when I‘m gone.“ Ausstellung 03.03.2023 – 31.03.2023 für die Veranstaltung am 17.03.2023 885,00 € / Az.: 0262.0-5-0452
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Isarbaumköpfe“ Vier Isarbaumköpfe zwischen Müller´schen Volksbad und Kabelsteg vom 15.03. - 20.10.2023 4.800,00 € / Az. 0262.0-5-0450
+- TOP II.4.: (E) Stadtbezirksbudget Münchner Heldentheater e.V. DIE TELL nach Friedrich Schiller vom 21.09. - 07.03.2023 6.500,00 € / Az.: 0262.0-5-0453
+- TOP II.5.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-5-0455
+- TOP II.6.: Nutzung der Räume im Unionsbräu Antwort GWG zur Nachfrage des BA 5 -> dazu: Bürgeranliegen vom 19.02.2023
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Caritas Alten- und Service Zentrum Au Führung im Bayerischen Nationalmuseum am 15.03.2023 72,00 € / Az.: 0262.0-5-0451
+- TOP 1.2.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München-Freising e.V. Fachbereich Integration/Alveni Ferienaktion mit den Bewohner*innen der Gemeinschaftsunterkunft Pariserstraße vom 05.-07.06.2023 2.600,00 €/ Az. 0262.0-5-0454
+- TOP 1.3.: N - zu TOP 2: Detailauskunft
+- TOP 2.: Anhörungen
+- TOP 2.1.: Angebot "Nachtspaziergänge" durch das Sozialreferat; hier: Nachfrage zur möglichen Teilnahme von Institutionen, Personen, Ämter etc.
+- TOP 2.2.: Es brennt; Missstände an den Grundschulen Schreiben BA 17 Obergiesing-Fasangarten mit der Bitte um Unterstützung aller BAs
+- TOP 2.3.: N - Skateboard Mobil und KURSE High Five im Zeitraum vom 17.04-26.10.2023 auf der Postwiese
+- TOP 2.4.: N - Sammelgenehmigung Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt von März bis November 2023 auf dem Bordeauxplatz und Spielplatz Flurstr. 34
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Partizipation 2.0 reloaded
+- TOP 3.2.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose Dezember 2022
+- TOP 3.3.: Ganztagsbetreuung Grundschulkinder mit Bibliothek für die Untere Au
+- TOP 3.4.: Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich, Sitzungsvorlage Nr. 20-26 / V 07561 hier: Jugendtreff Au Antwort Sozialreferat zum Schreiben des BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beleuchtung Schachplatz in Höhe Eduard-Schmid-Str. 7
+- TOP 4.2.: Erneuerung der Schachfiguren am Schachplatz in Höhe Eduard-Schmid-Str. 11
+- TOP 4.3.: Beschwerden wegen des Basketballplatzes an der Reichenbachbrücke
+- TOP 4.4.: Öffentliche Hundetoiletten; nochmalige Nachfrage
+- TOP 4.5.: Gespräch Glockenbachwerkstatt, Pfadfinder, finanzielle Unterstützung
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Anbieteroffene Paketboxen für Au-Haidhausen (fraktionsübergreifender BA-Antrag) vertagt in der Sitzung am 15.02.2023 -> dazu: voraussichtliche Teilnahme des Mobilitätsreferates u.a.
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Sandikci Art", Humboldtstr. 5
+- TOP 1.3.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund:"Sahan Supermarkt", Leuchtenbergring 5
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nutzungsanfrage "Stoffmarkt Holland" am 05.11.2023 am Mariahilfplatz
+- TOP 2.2.: Partnerschaftstreff im Hypopark – Elsässer Str. am 20.05.2023
+- TOP 2.3.: Blade-Night 2023 ab 08.05.2023
+- TOP 2.4.: Maibaumaufstellung am Wiener Platz am 30.04.2023
+- TOP 2.5.: N - Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 06.05.2023 sowie 16.09.2023
+- TOP 2.6.: N - ASZ-Sommerfest auf dem Gehweg Wolfgangstr. 18 am 20.07.2023
+- TOP 2.7.: N - Partnerschaftsfest auf dem Bordeauxplatz am 27.05.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 3.2.: Stadtsparkasse München – Die Bank unserer Stadt? hier: Antwort Oberbürgermeister zum Schreiben des BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: N - Antrag auf Parklet in der Drächslstraße 12
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 34 - Nutzungsänderung - Umbau einer Arbeiterunterkunft zu einem Hotel und Errichtung einer Dachgaube - ÄNDERUNGSÄNTRAG zu 1.1-2011-13381-21 - hier: Änderung der Freiflächen im Innenhof
+- TOP 2.2.: Franziskaner Str. 14 - Quartier Haidhausen, Franziskaner Str. 14, UG-1 mit UG-3 und Restflächen EG, Brandschutznachweis mit Nutzungsänderung einer Arztpraxis zu Büroräumen und von zwei Kellerräumen zu Aufenthaltsräumen (Franziskanerstr. 14 / Rablstr. 24 - 26)
+- TOP 2.3.: Breisacher Str. 5: Dachausbau (3 WE), Abbruch eines Bestandsdaches sowie Ersatzneubau Dach mit verändertem Profil
+- TOP 2.4.: Albanistr. 6: DG-Ausbau mit Gauben, Dachgarten und Lift, Umbau von Nebenräumen im Keller zu einer Wohnung, Nutzungsänderung von Arztpraxen im EG und im 2. OG zu Büro, Errichtung von Balkonanlagen
+- TOP 2.5.: Balanstr. 33: Nutzungsänderung - KG: Bäckerei in Lagerflächen mit Büro, EG: Ladenwohnungen in Büroflächen und Ladenfläche mit Nebenflächen, 1.OG: Zusammenlegen von 2 Wohnungen, DG: Neuaufteilung der 2 Wohnungen, Einbau von Bädern in allen Wohnungen
+- TOP 2.6.: Nockherstr. 5 - Instandsetzung Wohnhaus, Restaurierung und Neubau Rückgebäudes (Anpassung)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Rückantwort der LBK zu Anforderung von Bauvorhaben durch den BA 5
+- TOP 3.2.: Umgang mit dem Gebäude Elsässer Str. 30 im Besitz der Landeshauptstadt München bzw. der Stiftung für Sozialwaisen Antwortschreiben des OB und der Antragsteller
+- TOP 3.3.: Bauliche Änderungen (Ausgang zur Freischankfläche) im ASZ Haidhausen in der Wolfgangstr. 18
+- TOP 3.4.: Instandsetzung Treppenanlage und Einbau einer zusätzlichen Fahrtreppe an der S-Bahn Haltestelle Rosenheimer Platz, Plangenehmigungsbescheid des Eisenbahn-Bundesamtes
+- TOP 3.5.: Baugenehmigung Regerstr. 52 Antwort der LBK zur Stellungnahme BA 5
+- TOP 3.6.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 3.7.: Konkretisierung der Konzeption „Freiraum M 2030“ Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 StR-Anträge
+- TOP 3.8.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 3.9.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Leerstand Wiener Platz
+- TOP VI.: UA Mobilität
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung durch aqt zu den im Rahmen des Forschungsprojektes MCube aqt geplanten Maßnahmen für den Zeitraum von Mai bis einschließlich Oktober 2023 und die Rückmeldungen der Bürger:innenstimmen N -> dazu: Entscheidung über die Sommerinterventionen in der südlichen Au gemäß Sitzungsvorlage Nr. 20-26 / V 06329
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Mobilitätsanalyse an einer Grundschule sowie an einer weiterführenden Schule in Au-Haidhausen Empfehlung Nr. 20-26 / E 00641 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 01.05.2022
+- TOP 1.2.: Einsteinstraße / Braystraße: Signalisierte Fußgängerquerung, Projektplanung
+- TOP 2.: Anhörungen
+- TOP 2.1.: Neubau einer Lichtsignalanlage am Standort Einstein-/ Braystraße
+- TOP 2.2.: Entscheidungsvorschlag zur künftigen Raumaufteilung Martin-Luther-Straße und Giesinger Berg (Stadtbezirk 5, 17 und 18), Anhörungsfrist 20.03.2023
+- TOP 2.3.: Grillparzerstraße, Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Balanstr. 8, gegenüber
+- TOP 2.5.: Temporäre Mobilitätsangebote im 5. Stadtbezirk
+- TOP 2.6.: Standortplanungen E-Lastenradsystem Vorabstellungnahme durch den Vorsitzenden
+- TOP 2.7.: Einsatz von TOPO-Boxen als städtische Leistung
+- TOP 2.8.: N - Ortstermin Rosenheimer Straße 8.3.2023, 8.00 Uhr
+- TOP 2.9.: N - Gestaltung Genoveva-Schauer-Platz (Ortstermin)
+- TOP 2.10.: N - Ortstermin Ostbahnhof (bzgl. Fußgänger-Unterführung zum Werksviertel)
+- TOP 2.11.: N - Container Spicherenstraße
+- TOP 2.12.: N - Terminfindung Jahresgespräch MOR
+- TOP 2.13.: N - Steinstr. 30-55: Radwegrückbau
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Haltestellenoptimierung am Haidenauplatz vorziehen
+- TOP 3.2.: Maßnahmen gegen das Beparken von Geh- und Radwegen in der Grillparzerstraße
+- TOP 3.3.: Versetzung des Mülleimers am Rosenheimer Platz / Weißenburger Straße
+- TOP 3.4.: Maßnahmen zur Verkehrssicherheit der Schüler*innen des Pestalozzi-Gymnasiums
+- TOP 3.5.: Fahrradpaketstation am Gasteig Antwort Gasteig zum Schreiben des BA 5
+- TOP 3.6.: Fußgängerzone Steinstraße / Genoveva-Schauer-Platz Antwort Oberbürgermeister zum Schreiben des BA 5
+- TOP 3.7.: Verkehrsrechtliche Anordnungen: - Ohlmüllerstr. 44 und Nockherstr. 2 wegen Legung einer Fernwärmeleitung vom 13.03.-19.05.2023 - Regerstr. / Welfenstraße wegen Neubau Haltestelle und Straßenbau vom 22.02.-30.06.2023, hier: Änderung Verkehrszeichenplan - Regerstr. bis Wörthstr. wegen Gleisbau und Fernwärmeverlegung vom 22.02.-11.06.2023, hier: Änderung Verkehrszeichenplan
+- TOP 3.8.: Forderungen zur Verbesserung der Schulwegsicherheit an der Ernst-Reuter-Grundschule hier: Dialogdisplay in der Einsteinstraße Antwort Mobilitätsreferat zum Schreiben des BA 5
+- TOP 3.9.: Ortstermin mit dem Baureferat am 29.03.2023 zu folgenden Themen: 1. Weitere Sitzgelegenheiten am Weißenburger Platz aufzustellen: baugleiche Sitzgruppen in ähnlicher Weise rund um den Platz anzubringen, die für den Weihnachtsmarkt abmontiert werden können. 2. Fehlende Sitzmöglichkeiten am Weißenburger mit Flexibilität zur Anpassung an verschiedene Anforderungen: einzeln oder in Gruppen, Schatten oder Sonne,.... 3. Fahrradkarussel
+- TOP 3.10.: Parken von Wohnmobilen im Parkbereich Kirchenstrasse Antwort KVR zu einem Bürgeranliegen
+- TOP 3.11.: Baustellenplanung Regerstraße; Mitteilung MVG
+- TOP 3.12.: MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Optimierung der Lieferantenzufahrt bei Edeka in der Entenbachstraße
+- TOP 4.2.: Ladezone Sedan-/Metzstraße
+- TOP 4.3.: Verkehrsspiegel/Sicherheitsspiegel, Ausfahrt Kirchenstraße 10a
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nockherstr. 36: Fällung einer Akazie
+- TOP 2.2.: Gaisbergstr. 5: Fällung einer Birke
+- TOP 2.3.: Balanstr. 43: Fällung einer Buche
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Wolfgangstr. 5; Gefahrenbaumfällung; Bescheid vom 07.02.2023
+- TOP 3.2.: Orleansstr. 34, Gefahrenbaumfällung; Bescheid vom 27.02.2023
+- TOP 3.3.: Mariahilfstr. 16; Fällgenehmigung; Bescheid vom 09.02.2023
+- TOP 3.4.: Schneckenburgerstr. 33, Fällgenehmigung; Bescheid vom 17.02.2023
+- TOP 3.5.: Baumfällung in der Wolfgangstraße beim ASZ Antwort Baureferat zur Nachfrage des BA 5
+- TOP 3.6.: Baumentwicklungskonzept Antwort Baureferat zum Schreiben des BA 5
+- TOP 3.7.: Bessere Kennzeichnung der Grillverbotszone im Bereich zwischen: Cornelius und Wittelsbacherbrücke hier: Zwischenmitteilung vom 31.01.2023
+- TOP 3.8.: Taubenhaus am Orleansplatz Antwort Referat für Klima- und Umweltschutz zum Schreiben des BA 5
+- TOP 4.: Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 17.04.2023, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 17.04.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Wirtschaft, 18.04.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 19.04.2023, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 19.04.2023, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 20.04.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 26.04.2023, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 11.04.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Budget für eigene Veranstaltungen: Au-Haidhauser Johannisnacht am 23.06.2023, zusätzlicher Zuschuss i.H.v. 2.500 €
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 5.5: Verkehrsprobleme im Unterführungsbereich Rosenheimer Straße - UA Soziales, TOP 1.3: Detailauskunft zu TOP 1.2 - UA Soziales, TOP 2.3: Skateboard Mobil und KURSE High Five im Zeitraum vom 17.04-26.10.2023 auf der Postwiese - UA Soziales, TOP 2.4: Sammelgenehmigung Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt von März bis November 2023 auf dem Bordeauxplatz und Spielplatz Flurstr. 34 - UA Wirtschaft, TOP 2.5: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 06.05.2023 sowie 16.09.2023 - UA Wirtschaft, TOP 2.6: ASZ-Sommerfest auf dem Gehweg Wolfgangstr. 18 am 20.07.2023 - UA Wirtschaft, TOP 2.7: Partnerschaftsfest auf dem Bordeauxplatz am 27.05.2023 - UA Wirtschaft, TOP 4.1: Antrag auf Parklet in der Drächslstraße 12 - UA Mobilität, zu TOP 0.1: Entscheidung über die Sommerinterventionen in der südlichen Au - UA Mobilität, TOP 2.8: Ortstermin Rosenheimer Straße 8.3.2023, 8.00 Uhr - UA Mobilität, TOP 2.9: Gestaltung Genoveva-Schauer-Platz (Ortstermin) - UA Mobilität, TOP 2.10: Ortstermin Ostbahnhof (bzgl. Fußgänger-Unterführung zum Werksviertel) - UA Mobilität, TOP 2.11: Container Spicherenstraße - UA Mobilität, TOP 2.12: Terminfindung Jahresgespräch MOR - UA Mobilität, TOP 2.13: Steinstr. 30-55: Radwegrückbau - UA Klima, TOP 1.1: Stadtbezirksbudget Nachbarschaftsgärten Haidhausen e.V. - UA Klima, TOP 1.2: Detailauskunft zu TOP 1.1
+- TOP 5.5.: N - Verkehrsprobleme im Unterführungsbereich Rosenheimer Straße: Gefahren eliminieren, Gehweg verbreitern, Busse beschleunigen, Verkehrsfluss optimieren
+- TOP 1.2.: N - Detailauskunft zu TOP 1.1
+- TOP 1.1.: (E) Stadtbezirksbudget Nachbarschaftsgärten Haidhausen e.V. Anfangsinvestition für 7 Hochbeete 1.770,00 Euro, Az.: 0262.0-5-0459
