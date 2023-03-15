@@ -1,0 +1,54 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-15T17:00:00+01:00
+- Ende: 2023-03-15T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23991
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23991
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478724.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478724.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00478724.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der gemeinsamen Sondersitzung des Ordnungs- und Verkehrsausschusses und der Bezirksvertretung 1 vom 17.08.2022 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 26.10.2022 - einstimmig beschlossen
+- TOP 3.3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 11.01.2023 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Mindestpreise und –tarife für Taxi-/Mietwagengewerbe -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.2: Aus der Ukraine geflüchtete Menschen mit mitgebrachten Fahrzeugen -Anfrage der Ratsgruppe Tierschutz/Freie Wähler- - zur Kenntnis genommen
+- TOP 4.3: Ordnung, Sicherheit und Ordnung an, in und um Rheinbahnhaltestellen -Anfrage der Ratsgruppe Tierschutz/Freie Wähler - zur Kenntnis genommen
+- TOP 4.4: Sachstand Knotenpunkt Torfbruchstraße/Dreherstraße -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.5: Verkehrssicherheit in der Gartenstadt -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.6: Barrierefreiheit der Taxis in Düsseldorf -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.7: Stand der Implementierung von vorausschauender Wartung bei der Rheinbahn -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.8: Nutzbarkeit der Fußwege und Radwege der Karl-Geusen-Straße -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
+- TOP 4.9: Störungen des Betriebsablaufs bei der Rheinbahn -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
+- TOP 4.10: Sachstand Düsseldorfer Rheinbrücken -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Grünpfeil: Einsatzmöglichkeiten für weitere Relationen schaffen -Antrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - einstimmig beschlossen
+- TOP 5.2: Errichtung eines besonderen Bahnkörpers auf der Kaiserswerther Straße -Antrag der Ratsfraktion Bündnis 90/Die Grünen- - vertagt
+- TOP 5.3: Navigationsdaten für die Verkehrssicherheit nutzen -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 5.4: Grenzmarkierungen/Sperrflächen/Zickzacklinien an Bushaltestellen in Düsseldorf systematisch erneuern, um Barrierefreiheit und Komfort für Fahrgäste zu erhöhen -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: U79 - Beschaffung von Fahrzeugen -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 8: Verkehrsbericht 2022 - Jährliche Verkehrsunfallbilanz des Polizeipräsidiums Düsseldorf - zur Kenntnis genommen
+- TOP 9: Audit Familiengerechte Kommune - Sachstandsbericht für das Erhaltungszertifikat 2022 mit dem Schwerpunkt Digitalisierung - zur Kenntnis genommen
+- TOP 10: "Landpartie Grafenberg" auf der Galopprennbahn im Jahre 2023 - einstimmig beschlossen
+- TOP 11: Umbenennung Stadtbahnhaltestelle Victoriaplatz/Klever Straße in ERGO-Platz/Klever Straße - zur Kenntnis genommen
+- TOP 12: Förderprojekt Multi-Mo-DUS, 1. Sachstandsbericht - zur Kenntnis genommen
+- TOP 13: Controlling-Bericht über die Baumaßnahmen des Amtes für Brücken-, Tunnel- und Stadtbahnbau 2. Halbjahr 2022 - zur Kenntnis genommen
+- TOP 14: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement - 2. Halbjahr 2022 - - zur Kenntnis genommen
+- TOP 15: Mitgliedschaft der Landeshauptstadt in der Radregion Rheinland (RRR) - einstimmig beschlossen
+- TOP 16: Carlsplatz – Optimierung der Nahmobilität und Steigerung der Aufenthaltsqualität - mehrheitlich beschlossen
+- TOP 17: Verkehrsberuhigung rund um den Stiftsplatz - vertagt
+- TOP 18: Strategie zum Parkraummanagement - zur Kenntnis genommen
