@@ -82,7 +82,6 @@
 |  | Sechster Abschnitt |
 |  | Einschränkung von Leistungsberechtigung und -umfang |
 | § 39 | Vermutung der Bedarfsdeckung |
-| § 39a | (weggefallen) |
 |  |
 |  | Siebter Abschnitt |
 |  | Verordnungsermächtigung |
