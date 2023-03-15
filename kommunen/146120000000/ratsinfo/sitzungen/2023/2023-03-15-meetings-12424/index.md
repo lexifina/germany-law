@@ -1,0 +1,65 @@
+# 55. Sitzung des Ausschusses für Wirtschaftsförderung
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-03-15T16:00:00+01:00
+- Ende: 2023-03-15T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/12
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12424
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12424
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_WF_2023_03_15_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00669479.pdf
+
+## Tagesordnung
+
+- TOP -: Bereich Zentrales Vergabebüro
+- TOP 1: Beschlussvorlagen zu Vergaben für Einkäufe und Dienstleistungen
+- TOP 1.1: Vergabenummer: 2022-4012-00047 Unterhalts-, Grund- und Glasreinigung 135. Grundschule Amalie-Dietrich-Platz 10, 01169 Dresden - Zustimmung
+- TOP 1.2: Vergabenummer: 2022-4012-00048 Unterhalts- und Grundreinigung BSZ für Technik, Gerokstraße 22, 01307 Dresden - Zustimmung
+- TOP 1.3: Vergabenummer: 2022-4012-00049 Schülerbeförderung zu verschiedenen Schulen mit dem Förderschwerpunkt geistige Entwicklung für die Landeshauptstadt Dresden, Los 1 bis Los 4 - Zustimmung
+- TOP 1.4: Vergabenummer: 2022-4012-00050 Schülerbeförderung zum Förderzentrum Prof. Dr. Rainer Fetscher Dresden mit dem Förderschwerpunkt körperliche und motorische Entwicklung für die Landeshauptstadt Dresden, Los 1 bis Los 3 - Zustimmung
+- TOP 1.5: Vergabenummer: 2023-4012-00002 Schülerbeförderung zum Förderzentrum "Schule im Albertpark" Dresden mit dem Förderschwerpunkt Sprache für die Landeshauptstadt Dresden, Los 1 bis Los 3 - Zustimmung
+- TOP 1.6: Vergabenummer: 2023-4012-00004 Schülerbeförderung zum Förderzentrum "Johann-Friedrich-Jencke" Dresden mit dem Förderschwerpunkt Hören für die Landeshauptstadt Dresden, Los 1 bis Los 2 - Zustimmung
+- TOP 1.7: Vergabenummer: 2022-1042-00083 Rahmenvereinbarung für den Kauf und die Lieferung von Elektrogeräten für Asylunterkünfte der Landeshauptstadt Dresden - Zustimmung
+- TOP 1.8: Vergabenummer: 2022-1042-00084 Rahmenvereinbarung für den Kauf und die Lieferung von Mobiliar für Asylunterkünfte der Landeshauptstadt Dresden - Zustimmung
+- TOP 1.9: Vergabenummer: 2022-1042-00100 Rahmenvereinbarung zur Beförderung und Zustellung von Wahlbenachrichtigungen in der Landeshauptstadt Dresden - Vertagung
+- TOP 1.10: Vergabenummer: 2022-1042-00109 Betreibung Übergangswohnheim Gustav-Hartmann-Str. 4 in 01279 Dresden für die Unterbringung von besonderen Bedarfsgruppen, insbesondere Personen nach dem AsylbLG - Vertagung
+- TOP 1.11: Vergabenummer: 2022-1042-00095 Rahmenvereinbarung für die Bereitstellung von fabrikneuen Fahrrädern im Wege des Leasings (Teilamortisierungsleasing) zur dienstlichen und privaten Nutzung einschließlich Versicherungs-, Schulungs- und Serviceleistung - Zustimmung
+- TOP 1.12: Vergabenummer: 2022-3751-00004 Fertigung und Lieferung von einem Abrollbehälter Lüfter (AB-Lüfter) nach DIN 14505 - Zustimmung
+- TOP 1.13: Vergabenummer: 2022-3751-00005 Ausbau und Lieferung von Mannschaftstransportwagen (MTW) nach Richtlinie Feuerwehrförderung - RLFw Sachsen - Zustimmung
+- TOP 1.14: Vergabenummer: 2022-56-00028 Rahmenvereinbarung zur Lieferung von Abfallbeuteln und Abfallsäcken aus Kunststoff im Speziellen Polyethylen für das Städtische Klinikum Dresden - Zustimmung
+- TOP 2: Beschlussvorlagen zu Bauvergaben
+- TOP 2.1: Vergabenummer: 2022-401-00159 Ersatzneubau Einfeldsporthalle, Schule zur Lernförderung - Albert Schweitzer, Georg-Palitzsch-Straße 42, 01239 Dresden, Fachlos 503 Freianlagen - Zustimmung
+- TOP 2.2: Vergabenummer: 2022-401-00132 Schulstandort Freiberger Straße - BSZ, Freiberger Straße 36, 01159 Dresden, Fachlos 03 Baustelleneinrichtung - Zustimmung mit Änderung
+- TOP 2.3: Vergabenummer: 2022-401-00127 Sanierung und Erweiterung des BSZ für Wirtschaft "Prof. Dr. Zeigner", Melanchthonstraße 9, 01099 Dresden, Fachlos 66 Tischlerarbeiten TO1 - Zustimmung
+- TOP 2.4: Vergabenummer: 2022-401-00142 Gymnasium Cotta, Modernisierung und Umbau Schulgebäude - TO2, Cossebauder Straße 35, 01157 Dresden, Fachlos 21.1 Bodenbelagsarbeiten - Zustimmung
+- TOP 2.5: Vergabenummer: 2022-401-00153 Ersatzneubau Einfeldsporthalle, Schule zur Lernförderung - Albert Schweitzer, Georg-Palitzsch-Str. - Zustimmung
+- TOP 2.6: Vergabenummer: 2022-6615-00072 01099 Dresden, Bautzner Straße von Prießnitzstraße bis Stolpener Straße einschließlich Brücke über die Prießnitz B0122, Los 1 - Straßen-, Ingenieur-, Gleis- und Tiefbau - Zustimmung
+- TOP 2.7: Vergabenummer: 2022-6615-00076 01159 Dresden, B0030 Brücke über die Weißeritz im Zuge der Fröbelstraße, Los Instandsetzung des Fahrbahnübergangs, des querfesten Lagers und der Asphaltdecke im Zuge der Kreuzungen - Zustimmung
+- TOP 2.8: Vergabenummer: 2022-6615-00077 01307 Dresden, B-Plan 79 Johannstadt-Nord Planstraße zwischen Käthe-Kollwitz-Ufer und Florian-Geyer-Straße - Zustimmung
+- TOP 2.9: Vergabenummer: 2022-6615-00027 2. Nachtrag zu Promenadenring Ost, 1. BA, Los 1 Straßenbau - Zustimmung
+- TOP 2.10: Vergabenummer: 2022-65-00193 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, Los 18 - Rohr- und Kanalreinigung (LB 606 Rohr- und Kanalreinigungsarbeiten) - Zustimmung
+- TOP 2.11: Vergabenummer: 2022-65-00194 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, Los 19 - Trockenbauarbeiten (LB 640 Trockenbauarbeiten) - Zustimmung
+- TOP 2.12: Vergabenummer: 2022-65-00195 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, Los 20 - Landschaftsbau (LB 620 Landschaftsbauarbeiten) - Zustimmung
+- TOP 2.13: Vergabenummer: 2022-65-00196 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, Los 21 - Sonnenschutzanlagen (LB 712 Sonnenschutzanlagen) - Zustimmung
+- TOP 2.14: Vergabenummer: 2022-65-00197 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, Los 13 Elektroarbeiten (LB 682 Elektroinstallationsarbeiten) - Zustimmung
+- TOP 2.15: Vergabenummer: 2022-65-00201 Rahmenvereinbarung für regelmäßig wiederkehrende Instandhaltungsarbeiten - 2023 - 2025, Stadtgebiet Dresden, FL 12 - Sanitär- und Heizungstechnik (LB 621 Heizanlagen, LB 681 Gas-, Wasser- und Entwässerungsarbeiten) - Zustimmung
+- TOP 2.16: Vergabenummer: 2022-65-00216 Neues Rathaus Dresden, Durchführung vorgezogener Sanierungsleistungen zur Gewährleistung der Verkehrssicherheit bei Weiternutzung bis 2026 (MB II), Dr.-Külz-Ring 19, 01067 Dresden, Fachlos 46 Aufzugsanlage Hof E 3. BA - Zustimmung
+- TOP 2.17: Vergabenummer: 2022-65-00220 Neubau Stadtteilhaus Johannstadt, Pfeifferhannsstraße, 01307 Dresden, FL 03 Spezialtiefbau - Zustimmung
+- TOP 2.18: Vergabenummer: 2022-65-00203 Neues Rathaus Dresden, Durchführung vorgezogener Sanierungsleistungen zur Gewährleistung der Verkehrssicherheit bei Weiternutzung bis 2026 (MB II), Dr.-Külz-Ring 19, 01067 Dresden, Fachlos 313 Gerüstarbeiten 3. BA - Zustimmung
+- TOP 2.19: Vergabenummer: 2022-65-00207 Neues Rathaus Dresden, Durchführung vorgezogener Sanierungsleistungen zur Gewährleistung der Verkehrssicherheit bei Weiternutzung bis 2026 (MB II), Dr.-Külz-Ring 19, 01067 DD, FL 364 Dachdecker / Dachklempner 3. BA/1 - Zustimmung
+- TOP 2.20: Vergabenummer: 2022-65-00208 Neues Rathaus Dresden, Durchführung vorgezogener Sanierungsleistungen zur Gewährleistung der Verkehrssicherheit bei Weiternutzung bis 2026 (MB II), Dr.-Külz-Ring 19, 01067 DD, FL 365 Dachdecker und Dachklempner 3. BA/2 - Zustimmung
+- TOP 2.21: Vergabenummer: 2022-65-00213 Umbau und Erweiterung Kulturzentrum SCHEUNE, Alaunstr. 36-40, 01099 Dresden, Fachlos 10 Bauhauptleistung - Zustimmung
+- TOP 2.22: Vergabenummer: 2022-GB111-00121 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29 in 01259 Dresden, Fachlos 29 Starkstrom - Zustimmung
+- TOP 2.23: Vergabenummer: 2022-GB111-00123 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29 in 01259 Dresden, Fachlos 15 Trockenbau - Zustimmung
+- TOP 2.24: Vergabenummer: 2022-GB111-00125 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29 in 01259 Dresden, Fachlos 33 Lüftung - Zustimmung
+- TOP 2.25: Vergabenummer: 2022-GB111-00126 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29 in 01259 Dresden, Fachlos 34 Sanitär - Zustimmung
+- TOP 2.26: Vergabenummer: 2022-GB111-00130 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29, 01259 Dresden, Fachlos 11 Fassadenarbeiten - Zustimmung
+- TOP 2.27: Vergabenummer: 2022-GB111-00133 Neubau Schule zur Lernförderung Außenstelle BALD, Neudobritzer Weg, 01237 Dresden, Los 403 - Lüftungsanlagen - Zustimmung
+- TOP 2.28: Vergabenummer: 2022-GB111-00136 92. Grundschule - Gesamtsanierung, Großzschachwitzer Straße 29, 01259 Dresden, Fachlos 07 Tischler - Fenster und Außentüren - Zustimmung
+- TOP 3.2: Offene Beschlussvorlagen
+- TOP -: Bereich Wirtschaftsförderung
+- TOP 5: Dresdner Striezelmarkt 2023 – Festlegung der Anbietergruppen und der Verteilerschlüssel - Zustimmung
+- TOP 6: Neue Marktformen erproben - Vertagung durch Einreicher
+- TOP 7: Auswertung des Striezelmarktes 2022 - Sachstandsbericht - Vertagung
