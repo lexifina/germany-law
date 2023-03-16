@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-16T17:02:00+01:00
+- Ende: 2023-03-16T19:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26924
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26924
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Beschilderung zur Schulwegsicherung Schulpfad und Schenkspfad in Poll (Az.: 02-1600-185-22) - zurückgestellt
+- TOP 2.2: Bürgereingabe nach § 24 GO– „Fuß- und Fahrradbrücke zwischen Sürth und Zündorf“ Aktenzeichen 149/22 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Fuß- und Fahrradbrücke zwischen Sürth und Zündorf" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Fuß- und Fahrradbrücke zwischen Sürth und Zündorf" - geändert beschlossen
+- TOP 2.3: Bürgereingabe nach § 24 GO "Raser und Poser" Alfred-Schütte-Allee (Az.196/22) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Raser und Poser Alfred-Schütte-Allee" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Raser und Poser - Alfred-Schütte-Allee“ - Sache ist erledigt
+- TOP -: "Raser und Poser" Alfred-Schütte-Allee - Sache ist erledigt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Benennung von Planstraßen im Baugebiet Poller Damm - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/die Grünen "Benennung von Planstraßen im Baugebiet Poller Damm" - zurückgestellt
+- TOP 6.2: Benennung der Planstraßen im Baugebiet Fuchskaule in Köln-Porz-Elsdorf - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Benennung von Planstraßen im Baugebiet Fuchskaule" - zurückgestellt
+- TOP 6.3: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2023 - ungeändert beschlossen
+- TOP 6.4: ISEK Porz-Mitte - Gestaltung Parkanlage Glashüttenstraße - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - ungeändert empfohlen
+- TOP 7.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss zum Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 71356/02, Arbeitstitel "An der Mühle" in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 7.3: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2023 - ungeändert empfohlen
+- TOP 7.4: On-Demand-Angebot KVB-Isi - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "On-demand-Angebot KVB Isi" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "On-Demand-Angebot KVB-Isi" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Märkte am Autokino Porz erhalten – rechtliche Rahmenbedingungen anpassen - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Parkverbot Alte Apotheke, Straßenquerung" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion "Verunreinigungen durch „Wilden Müll“ im Leonorenweg stoppen – sauberen Weg zur städtischen Kindertagesstätte und zum Familienzentrum Leonorenweg 50 sicherstellen" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen SPD und DIE LINKE/Die PARTEI "Sicherer Verkehr an der Kita „Kleine Riesen“ Frankfurter Str. 77" - ungeändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Markt in Ensen erhalten!" - geändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Fußgängerübergang Gilgaustraße / Kölner Straße sicherer gestalten" - ungeändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fußgängerweg an der Haltestelle Zündorf Kirche barrierefrei gestalten" - ungeändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Sperrflächen im Bereich der Straßenbiegung Martin-Luther-Str. /Duisburger Str./ Düsseldorfer Str. in 51145 Köln" - zurückgestellt
+- TOP 8.11: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Baumschutz/ Verkehrssicherung Wahner Straße von Zündorf nach Wahn" - ungeändert beschlossen
+- TOP 8.12: Dringlichkeitsantrag der SPD-Fraktion "Keine Reduzierung des Schulbaus im Stadtbezirk Porz" - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Lehrschwimmbecken in Porz-Ensen, Beantwortung der Anfrage AN/0265/2021 - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Lehrschwimmbecken in Porz-Ensen" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der Fraktionen CDU und Bündnis90/Die Grünen vom 31.01.2023 - Kenntnis genommen
+- TOP -: Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen"Erinnerung an das SA-Lager Hochkreuz" - Sache ist erledigt
+- TOP 9.1.3: Anfrage der SPD Fraktion zur Sitzung der Bezirksvertretung Porz am 10.12.2019 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion: Kita- und Schulplätze in Zündorf und Langel - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Parkraumsituation auf der Guntherstraße, Wahnheide" - Kenntnis genommen
+- TOP -: Parkraumsituation auf der Guntherstraße, Wahnheide - Sache ist erledigt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Situation Samstagsmarkt auf dem Marktplatz in Ensen" - zurückgestellt
+- TOP 9.2.3: Anfrage der CDU-Fraktion "Verkehrsoptimierungen in Porz Urbach - Auf dem Stallberg" - zurückgestellt
+- TOP 9.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Rheinspange A553 - 6. Politischer Begleitkreis am 08.02.2023 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 10.2.2: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.3: Sachstand zur Turnhalle an der Gemeinschaftsgrundschule Hauptstraße 432, 51143 Köln - Kenntnis genommen
+- TOP 10.2.4: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.5: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 10.2.6: Mitteilung Förderprogramm "Dritte Orte" - Vierte Genehmigung für die Förderphase 2022 ff. - Kenntnis genommen
+- TOP 10.2.7: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 10.2.8: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf 694333/02 (alt 69433/02), Arbeitstitel: „Hochpunkt Siegburger Straße“ in Köln-Deutz - Kenntnis genommen
+- TOP 10.2.9: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 10.2.10: Schließung des Marktes freitags in Porz-Mitte/An der Sparkasse - Kenntnis genommen
+- TOP 10.2.11: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.12: Jecke Fröhjohrszigg - Vergnüglicher Nachmittag für Senior*innen im Rathaussaal Porz am 05.04. und 12.04.2023 - Kenntnis genommen
+- TOP 10.2.13: Stellungnahme zum - Antrag der SPD-Fraktion „Neubau einer Kindertagesstätte in Langel" - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
