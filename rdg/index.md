@@ -21,8 +21,8 @@
 
 - [§ 10 Rechtsdienstleistungen aufgrund besonderer Sachkunde](0010.md)
 - [§ 11 Besondere Sachkunde, Berufsbezeichnungen](0011.md)
-- [§ 12 Registrierungsvoraussetzungen](0012.md)
-- [§ 13 Registrierungsverfahren](0013.md)
+- [§ 12 Registrierungsvoraussetzungen; Verordnungsermächtigung](0012.md)
+- [§ 13 Registrierungsverfahren; Verordnungsermächtigung](0013.md)
 - [§ 13a Darlegungs- und Informationspflichten bei Inkassodienstleistungen gegenüber Privatpersonen](0013a.md)
 - [§ 13b Darlegungs- und Informationspflichten bei Inkassodienstleistungen für Verbraucher](0013b.md)
 - [§ 13c Vergütungsvereinbarungen für Inkassodienstleistungen und Rechtsdienstleistungen in einem ausländischen Recht](0013c.md)
@@ -39,11 +39,11 @@
 
 ## Teil 4 Rechtsdienstleistungsregister
 
-- [§ 16 Inhalt des Rechtsdienstleistungsregisters](0016.md)
-- [§ 17 Löschung von Veröffentlichungen](0017.md)
+- [§ 16 Inhalt des Rechtsdienstleistungsregisters; Verordnungsermächtigung](0016.md)
+- [§ 17 Löschung von Veröffentlichungen; Verordnungsermächtigung](0017.md)
 
 ## Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 
-- [§ 18 Umgang mit personenbezogenen Daten](0018.md)
+- [§ 18 Umgang mit personenbezogenen Daten; Verordnungsermächtigung](0018.md)
 - [§ 19 Zuständigkeit und Übertragung von Befugnissen](0019.md)
 - [§ 20 Bußgeldvorschriften](0020.md)

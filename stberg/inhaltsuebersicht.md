@@ -109,7 +109,7 @@ Steuerberatungsgesellschaft
 | § 55 | Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler |
 | § 55a | Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften |
 | § 55b | Geschäftsführungsorgane; Aufsichtsorgane |
-| § 55c | Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen |
+| § 55c | (weggefallen) |
 | § 55d | Vertretung vor Gerichten und Behörden |
 | § 55e | Berufliche Niederlassung der Berufsausübungsgesellschaft |
 | § 55f | Berufshaftpflichtversicherung |

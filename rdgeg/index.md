@@ -6,4 +6,4 @@
 - [§ 4 Vergütung](0004.md)
 - [§ 5 Diplom-Juristen aus dem Beitrittsgebiet](0005.md)
 - [§ 6 Schutz der Berufsbezeichnung](0006.md)
-- [§ 7 Übergangsvorschrift zu § 13 Absatz 2 des Rechtsdienstleistungsgesetzes](0007.md)
+- [§ 7 Übergangsvorschrift zur Änderung der Zuständigkeit im Rechtsdienstleistungsgesetz](0007.md)

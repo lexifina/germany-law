@@ -133,7 +133,7 @@ Voraussetzungen
 - [§ 55 Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler](0055.md)
 - [§ 55a Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften](0055a.md)
 - [§ 55b Geschäftsführungsorgane; Aufsichtsorgane](0055b.md)
-- [§ 55c Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen](0055c.md)
+- [§ 55c (weggefallen)](0055c.md)
 - [§ 55d Vertretung vor Gerichten und Behörden](0055d.md)
 - [§ 55e Berufliche Niederlassung der Berufsausübungsgesellschaft](0055e.md)
 - [§ 55f Berufshaftpflichtversicherung](0055f.md)
