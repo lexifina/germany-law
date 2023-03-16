@@ -1,0 +1,87 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-03-16T17:00:00+01:00
+- Ende: 2023-03-16T20:24:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4859
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4859
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Namensaufruf der Bezirksverordneten - erledigt
+- TOP 2: Geltung der Geschäftsordnung der BVV Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung I - in der BVV abgelehnt
+- TOP 3.2: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung II - in der BVV abgelehnt
+- TOP 3.3: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung III - in der BVV abgelehnt
+- TOP 3.4: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung IV - in der BVV abgelehnt
+- TOP 3.5: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung V - in der BVV abgelehnt
+- TOP 3.6: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung VI - in der BVV abgelehnt
+- TOP 4: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 4.1: Vorzeitige Beendigung von Mandaten als Bürgerdeputierte in Ausschüssen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Vorzeitige Beendigung von Mandaten als stellvertretende Bürgerdeputierte in Ausschüssen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Vorzeitige Beendigung von Mandaten als ehrenamtliche Mitglieder des Milieuschutzbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Rücktritt eines Mitgliedes des Vorstandes der BVV Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Sachliche Kontinuität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Bezirkliche Strategie gegen religiöses Mobbing und konfrontative Religionsbekundungen - gegenstandslos
+- TOP 5.2: Neukölln braucht das Wasserwerk Johannisthal – Neukölln mit genügend Wasser versorgen und das Grundwasser im Blumenviertel absenken! - gegenstandslos
+- TOP 5.3: Notfallrettung für das Gesundheitsamt Neukölln - gegenstandslos
+- TOP 5.4: Öffentliche Still- und Wickelmöglichkeiten für Väter und Mütter - gegenstandslos
+- TOP 5.5: Failed District Neukölln. Brandschutz an Schulen und Kitas sicherstellen - gegenstandslos
+- TOP 5.6: Keine Fahrräder auf Autoparkplätzen - gegenstandslos
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Anzahl der Mitglieder im Vorstand der BVV Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Anzahl der Mitglieder des Ältestenrates in der BVV Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Benennung der Mitglieder des Ältestenrates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Anpassung von Ausschüssen gem. § 9 Abs. 1 und 2 Bezirksverwaltungsgesetz - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Geschäftliches - (offen)
+- TOP 9.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Veränderungssperre 8-113/37 für das Grundstück Zeitzer Straße 6 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-113 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Entschließungen - (offen)
+- TOP 11.1: Solidarität mit den Erdbebenopfern in der Türkei und in Syrien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen - (offen)
+- TOP 12.1: Gedenktafel für Leo Jogiches - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Alt-Buckow Einbahnstraße für Fahrräder in beide Richtungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Verkehrsberuhigung in der Handwerker-Siedlung sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 13.1: 25 Jahre nach dem Mauerfall - DDR-Unrecht in Schulen wirkungsvoll vermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Deutschkurse der VHS - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Mehr Parkbänke am Fennpfuhl - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Arbeit der Schulen in der Pandemie nicht zusätzlich erschweren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: „ALBA macht Schule“ sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Barrierefreiheit für Menschen mit einer Sehbehinderung oder Sehverlust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Kita "Elif und Emil 3" - Kinder und Erzieher schützen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Stelle der Neuköllner Nachhaltigkeitsbeauftragten verstetigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Ampel Buckower Damm vor Britzer Garten Nutzer*innenfreundlich schalten - Schulwegsicherheit erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Pilotprojekt zur Rekommunalisierung der Schulreinigung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Mittelstreifen zu Blühstreifen an der Marienfelder Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: „Missoir" - ein dringendes Bedürfnis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Fairtrade-Town: Mittelbeantragung zur Weiterführung der Fair-Trade-Arbeiten im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.14: Bebauungsplan 8-86ba „Juliusstraße 9“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Veränderungssperre XIV-185cbb/36 für das Grundstück Juliusstraße 58 / Britzkestraße 10 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185cbb - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.16: Lastenräder in der Gropiusstadt ausleihen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Neuköllner Seniorenfreizeitstätten baulich in Schuss halten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.18: Behindertenfreizeitstätte Alt-Buckow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.19: Bebauungsplan 8-73a („Harzer Straße / Geyer-Werke“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Regelmäßige Sperrmüll-Kieztage einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Mehr Transparenz für die Trägerversammlung des Jobcenter Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Unabhängige Sozialberatung Neukölln verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Bebauungsplan 8-52bba („Dörferblick - Gärtnereien“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Bebauungsplan XIV-132-1 („Juchaczweg / Zadekstraße“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 14.1: Erinnerungs- und Gedenkkultur in Neukölln - beantwortet
+- TOP 14.2: Datenschutzvergehen durch Stadträtin Blumenthal - schriftlich beantwortet
+- TOP 14.3: Studie belegt Unsinnigkeit der Shisha-Bar-Razzien: Zukunft der Gewerbeüberwachung in Neukölln - beantwortet
+- TOP 14.4: Solidarität mit dem Saharauischen Befreiungskampf – saharauische Fahne vor dem Neuköllner Rathaus hissen - in der BVV zurückgezogen
+- TOP 14.5: Ein Platz für Inge Meysel - in der BVV abgelehnt
+- TOP 14.6: Verbundeinsätze weiterhin mit dem Ordnungsamt Neukölln durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Bürger entlasten: keine Parkgebühren in Neukölln! - in der BVV abgelehnt
+- TOP 14.8: Pförtner- und Wachdienst im Rathaus stärken – Verantwortung gegenüber Mitarbeitenden - ohne Änderungen in der BVV beschlossen
