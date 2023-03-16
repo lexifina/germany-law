@@ -1,0 +1,32 @@
+# Luftqualitätsdaten SmartAQnet
+
+- Herausgeber: Karlsruhe Institute of Technology, Institut für Telematik, Forschungsgruppe TECO
+- Datum: 2023-03-16 (Katalogangabe issued/modified)
+- Kennung: umwelt-info-govdata-6ab318ac-77de-4a18-a92e-9c7e78b1cfb6
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/luftqualitatsdaten-smartaqnet2cbd4
+- Quelle: GovData (CKAN-API), Datensatz 69009590-2c20-433a-aeb8-753baba4db84
+- Ressource: Webseite https://doi.org/10.14644/DUST2021.001 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Webseite https://dx.doi.org/10.35097/540 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Textdokument https://api.smartaq.net/v1.0/ http://publications.europa.eu/resource/authority/file-type/TXT
+
+---
+
+Im mFUND geförderten Projekt SmartAQnet wurde von 04/2017 - 09/2020 ein Luftqualitätsmessnetz im Raum Augsburg aufgebaut. Das Projekt verfolgte den Ansatz sowohl selbst Daten zu nehmen als auch Daten aus externen Quellen zu integrieren.
+Die Daten beinhalten Luftqualitätsdaten angefangen bei bürgerbetriebenen Ultra-Low-Cost Sensoren über ein Netz aus Mid-Cost Sensoren der Fa Grimm bis hin zu hochpräzisen Referenzstationen.
+Die Daten liegen im OGC-SensorThings Standard vor (eine detaillierte API Dokumentation findet sich z.B. unter https://developers.sensorup.com/docs/) und sind über die REST-API frei zugänglich. Ein Dashboard zum browsen der Datenbank über eine grafische Schnittstelle ist zudem unter https://www.smartaq.net/en/dashboard/#/home verfügbar.
+Der Datensatz beinhaltet insbesondere:
+- ca. 60 bürgerbetriebene SDS011 Sensoren
+- 9 SDS011 Sensoren, die mobil auf Fahrradrouten eingesetzt wurden
+- ca. 50 EDM80 im Projekt entwickelte mid-cost Geräte der Fa. Grimm
+- 6 EDM164 der Fa. Grimm
+- 3 Ceilometer
+- 1 SODAR-RASS
+- 1 Messcontainer mit einer Vielzahl an Geräten
+- 5 Meteorologische Stationen
+- 3 Drohnen (Höhenprofile)
+Die Datenbank umfasste bei Projektende 09/2020 über 220 mio. Observations und vergrößert sich durch weiterlaufende Messungen konstant weiter.
+Disclaimer:
+Bitte beachten:
+Die Bewertung der Luftqualität erfolgt nach der EU-Luftqualitätsrichtlinie 2008/50/EG, die in Deutschland im Wesentlichen mit der 39. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Luftqualitätsstandards und Emissionshöchstmengen - 39. BImSchV) in nationales Recht umgesetzt wurde. Die hier heruntergeladenen Messdaten können nicht zur Bewertung der Luftqualität gemäß 39. BImSchV herangezogen werden.
+The data provided on this website has been collected for research purposes within the SmartAQnet research project funded by the Federal Ministry of Transport and Digital Infrastructure (BMVI) (funding code: 19F2003). Please note that since the data was collected automatically by various systems and for the most part not validated, the disclaimer of warranty and limitation of liability associated with the user license (see Legal Disclosures) must be observed. In particular, we would like to explicitly point out principle-related errors and inaccuracies in the data, since, for example, the sensors used were partly operated by laypersons, deliberately outside the specifications of the manufacturers or were not subjected to calibration. Therefore, data contained should not be regarded as "measurements" in the usual sense. We also do not exclude the possibility of errors when importing external measurements or metadata. In case of doubt, refer directly to the referenced source (that may be explicitly suitable for other purposes). In particular, this data collection in itself is not suitable for monitoring or evaluating the quality of outdoor air at the referenced locations.
