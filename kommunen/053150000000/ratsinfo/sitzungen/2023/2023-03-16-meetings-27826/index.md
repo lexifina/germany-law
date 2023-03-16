@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-16T17:00:00+01:00
+- Ende: 2023-03-16T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27826
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27826
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Stockender Fortschritt zum Bau des Mehrgenerationenhaus in Köln-Lindweiler - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Schulplatzmangel im Bezirk Chorweiler
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Messungen zu einer evtl. PCB- und Asbestbelastung in der Heinrich-Böll-Gesamtschule
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.2: Absicherung des Brückeendes Toni-Welter-Straße / Volkhovener-Weg
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.3: Sicherheit der Brücken auf der Fritz-Wacker-Straße
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.4: Menstruationsartikel an Schulen im Bezirk
+- TOP -: Beantwortung einer Anfrage - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Berichtswesen Beschlüsse der Gremien
+- TOP 7.2.2: Gefährdung durch Vertrocknete Bäume an Gleisanlagen der deutschen Bahn
+- TOP 7.2.3: Vernachlässigte Häuser der ZBVV in Chorweiler und Seeberg
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Unterstützung des Strukturwandels für Betriebe im Kölner Norden
+- TOP 7.3.2: Nutzung öffentlicher Flächen im Stadtbezirk Chorweiler
+- TOP 7.3.3: Insel im Pescher See
+- TOP 7.3.4: Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.3.5: Sachstand Blumenbergsweg
+- TOP 7.3.6: Installierung eines Wasser- und Stromanschlusses auf dem Platz in Auweiler
+- TOP 7.3.7: Fahrrawege im Stadtbezirks Chorweiler
+- TOP 7.3.8: Raser auf der Brücke Mercatorstr/ Zubringer nach Pesch
+- TOP 7.3.9: Schulversorgung in den Stadtteilen Worringen und Roggendorf/Thenhoven
+- TOP 7.3.10: Alte Neusser Landstrasse 273 „Haus Worringen“ und zugehörige Liegenschaften in der Elkemannstrasse.
+- TOP 7.3.11: Einrichtung eines Grillplatzes bzw. einer Grillhütte in Köln-Langel
+- TOP 7.3.12: Fehlende Lehrmittel an weiterführenden Schulen im Bezirk Chorweiler
+- TOP 7.3.13: Veranstaltungsprogramm 2022 Fühlinger See
+- TOP 7.3.14: Streichung von Buslinien der KVB durch Krankheitsfälle
+- TOP 7.3.15: Regenerative Energie-Erzeugung im Bezirk Chorweiler
+- TOP 7.3.16: Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.3.17: Energiesicherheit für Fernwärme im Bezirk Chorweiler
+- TOP 7.3.18: Kataster für Ausgleichsflächen
+- TOP 7.3.19: Vermeidung von Strom- und Gassperren im Stadtbezirk Chorweiler
+- TOP 7.3.20: Dächer des Einkaufszentrums Heimersdorf
+- TOP 7.3.21: Parkgelände Volkhoven/Weiler
+- TOP 7.3.22: Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Einrichtung einer Einbahnstraße Mohlenweg in Köln-Langel - ungeändert beschlossen
+- TOP 8.2.2: Gemeinsamer Antrag zur Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP -: Änderungsantrag - On-Demand Angebot KVB-Isi - geändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Großprojekt Köln-Kreuzfeld - geändert beschlossen
+- TOP -: Änderungsantrag - ungeändert beschlossen
+- TOP 9.2.2: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - geändert beschlossen
+- TOP 9.2.3: On-Demand-Angebot KVB-Isi - endgültig abgelehnt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mitteilung Förderprogramm "Dritte Orte" - Vierte Genehmigung für die Förderphase 2022 ff. - Kenntnis genommen
+- TOP 10.2.2: Strategie Klimaneutrales Köln - Kenntnis genommen
+- TOP 10.2.3: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 10.2.4: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.5: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 10.2.6: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.7: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 10.2.8: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 10.2.9: Nahversorgung in Köln-Merkenich – Planungsstand für einen Lebensmittelmarkt (kleinflächiger Nahversorger) auf dem städtischen Grundstück Causemannstraße 29-31 - Kenntnis genommen
+- TOP 10.2.10: Fühlinger See Veranstaltungsplanung 2023 / Rückblick 2022 - Kenntnis genommen
+- TOP 10.2.11: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion, AN/0171/2023 - Kenntnis genommen
+- TOP 10.2.12: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.13: Sanierung und Neubau der Turnhalle an der Gesamtschule Chorweiler - Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Schule und Weiterbildung vom 21.11.2022 - Kenntnis genommen
+- TOP 10.2.14: Sachstand Teil-Projekt aus dem IHK Lindweiler - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
