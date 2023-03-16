@@ -1,0 +1,92 @@
+# 19. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-16T17:30:00+01:00
+- Ende: 2023-03-16T21:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27057
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27057
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Umgestaltung des Johannes-Giesberts-Parks - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage 3611/2022 zum Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung/Verkehrskonzept Graseggerstraße (Az.: 02-1600-168-22) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Paul-Humburg-Straße, Köln-Nippes (Az.: 02-1600-159-22) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Einrichten von Bewohnerparken in der Schwerinstraße (Az.: 02-1600-09-23) - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Sanierung Heimersdorfer Straße (Az.: 02-1600-181-22) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Abriss Riehler Kiosk Stammheimer Straße - Kenntnis genommen
+- TOP -: Abriss Riehler Kiosk Stammheimer Straße - Kenntnis genommen
+- TOP 7.1.3: Akute Gefährdungssituation GGS Halfengasse nähe KVB-Straße, Merkenicher Straße 313 - zurückgestellt
+- TOP 7.1.4: Neu gepflanzte Bäume im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Neu gepflanzte Bäume im Stadtbezirk Nippes - AN/2267/2022 - Kenntnis genommen
+- TOP 7.1.5: Planung Altleiningenweg - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Qualitätssicherung an Schulen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.2: Schulplatzsituation an weiterführenden Schulen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.2.3: Probleme mit Müll, Ratten und Gestank an der Friedrich-Karl-Straße in Mauenheim - Kenntnis genommen
+- TOP -: Probleme mit Müll, Ratten und Gestank an der Friedrich-Karl-Straße in Mauenheim - Kenntnis genommen
+- TOP 7.2.4: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.2.5: Niehler Straße – Errichtung von LSA - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gestaltung des Platzes an der Kreuzung Merheimer Straße, Schmiedegasse und Jesuitengasse - ungeändert beschlossen
+- TOP 8.1.2: Wendespur Mauenheimer Gürtel - geändert beschlossen
+- TOP 8.1.3: Beschlusskontrolle - ungeändert beschlossen
+- TOP 8.1.4: Radwegführung Mauenheimer Gürtel/Kempener Straße - endgültig zurückgezogen
+- TOP 8.1.5: BOM-Mittel für den Logowettbewerb - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für die Verbesserung der Radverkehrsführung an der Bushaltestelle Nippes S-Bahn mit der Änderung der Einmündungsbereiche Lämmerstraße und Escher Straße - zurückgestellt
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an den Nippeser Boule Club e.V. - ungeändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an KUMBIG e.V. - ungeändert beschlossen
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an den Bürgerverein Bilderstöckchen e.V. - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an St. Engelbertus-Schützenbruderschaft - 1 - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an St. Engelbertus-Schützenbruderschaft - 2 - endgültig abgelehnt
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an Helen Brecht - geändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an KLuG e.V. - geändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an Lisa Alice Klosterkötter - geändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an das disdance project gUG - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: On-Demand-Angebot KVB-Isi - geändert beschlossen
+- TOP -: On-Demand-Angebot KVB-Isi - ungeändert beschlossen
+- TOP 9.2.2: 286. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP -: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP 9.2.4: Beschluss über die Aufstellung eines Bebauungsplans Arbeitstitel: Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.5: Kölner Rennverein 1897 e. V. - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sofortmaßnahmen Radverkehr Kempener Straße - zurückgestellt
+- TOP 10.2.2: Eine faire Ampelschaltung für den Fuß- und Radverkehr an der Kreuzung Simon-Meister-Straße/Kempener Straße und Tempo 30 auf der Kempener Straße - zurückgestellt
+- TOP 10.2.3: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 10.2.4: Neuer Schulstandort Friedrich-Karl-Straße - verzögerte Errichtung - Kenntnis genommen
+- TOP 10.2.5: Mitteilung über Verteilung der Mittel Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2023" - Kenntnis genommen
+- TOP 10.2.7: Neue Sportförderrichtlinie - Kenntnis genommen
+- TOP 10.2.8: Förderprogramm "Im Veedel gegen Corona" - Kenntnis genommen
+- TOP 10.2.9: Mitteilung Förderprogramm "Dritte Orte" - Vierte Genehmigung für die Förderphase 2022 ff. - Kenntnis genommen
+- TOP 10.2.10: Gesamtinstandsetzung Mülheimer Brücke – Bauphase II in 2024 - Kenntnis genommen
+- TOP 10.2.11: Sachstand zum Beschluss „Neues Gartenlabor am Merheimer Platz“ (0870/2022 vom 28.04.2022; AN/1430/2022, BV Nippes - Kenntnis genommen
+- TOP 10.2.12: Anfrage zu Verkehrsversuchen - Kenntnis genommen
+- TOP 10.2.13: Ampelschaltung Kempener Straße/Simon-Meister-Straße - Kenntnis genommen
+- TOP 10.2.14: Fachtag „Misch MIT! – Kinder- und Jugendbeteiligung in Köln“ - Kenntnis genommen
+- TOP 10.2.15: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion, AN/0171/2023 - Kenntnis genommen
+- TOP 10.2.16: Trennung Haltestellen Geldernstraße/Parkgürtel - Kenntnis genommen
+- TOP 10.2.17: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
