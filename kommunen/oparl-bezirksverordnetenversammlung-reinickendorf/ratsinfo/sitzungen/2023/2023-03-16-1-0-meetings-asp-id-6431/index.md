@@ -1,0 +1,61 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-03-16T17:00:00+01:00
+- Ende: 2023-03-16T18:57:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6431
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6431
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=436917
+
+## Tagesordnung
+
+- TOP 1: Konstituierung durch die amtierende BVV-Vorsteherin - (offen)
+- TOP 2: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 3: Mitteilungen/Aktuelles - (offen)
+- TOP 4: Dringlichkeiten und Festsetzung der Tagesordnung - erledigt
+- TOP 4.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 18. Sitzung der BVV am 16.03.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 18. Sitzung der BVV vom 16.03.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Status und Rechte von Gruppen in der BVV - überwiesen
+- TOP 5: Einwohnerfragestunde - (offen)
+- TOP 5.1: Androhung einer Klage seitens der Gemeinde Glienicke - beantwortet
+- TOP 5.2: Überquerung der Residenzstraße und Emmentaler Straße - beantwortet
+- TOP 5.3: Wegfall Parkplätze bis 2025 - beantwortet
+- TOP 5.4: Die Heidekrautbahn - beantwortet
+- TOP 5.5: Vorhaben Fahrradstraße in der Schildower Straße - beantwortet
+- TOP 5.6: Sternhäuser - beantwortet
+- TOP 6: Sachliche Kontinuität - ohne Änderungen in der BVV beschlossen
+- TOP 7: Beschlussfassung über Wochentag und Stunde der Sitzung der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 8: Bestätigung der Sitzungstermine der BVV für das Jahr 2023 (siehe Anlage) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Abwahl der Vorstandsmitglieder für die neue Sitzverteilung aufgrund der veränderten Stärke- und Mehrheitsverhältnisse durch die Wiederholungswahl vom 12.02.2023 - vertagt
+- TOP 10: Wahl der Bezirksverordnetenvorsteherin / des Bezirksverordnetenvorstehers - vertagt
+- TOP 10.1: Zusammensetzung des BVV-Vorstandes - ohne Änderungen in der BVV beschlossen
+- TOP 11: Wahl der stellvertretenden Bezirksverordnetenvorsteherin / des stellvertretenden Bezirksverordnetenvorstehers - vertagt
+- TOP 12: Wahl der vier Schriftführerinnen / der vier Schriftführer - vertagt
+- TOP 13: Wahl der weiteren Mitglieder des Vorstandes der Bezirksverordnetenversammlung - vertagt
+- TOP 14: Auflösung der Ausschüsse in der Reinickendorfer Bezirksverordnetenversammlung im Nachgang der Wiederholungswahlen vom 12.02.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 14.1: Kontinuität der gebildeten Ausschüsse - erledigt
+- TOP 14.2: Zusammensetzung des Ausschusses für Geschäftsordnung und Bürgerbeteiligung - erledigt
+- TOP 14.3: Bildung des Sondermittelausschusses - in der BVV zurückgezogen
+- TOP 14.4: Beteiligung von Gruppen im Vorstand der BVV - in der BVV zurückgezogen
+- TOP 15: Beschlussfassung über die Bildung des Ältestenrates - ohne Änderungen in der BVV beschlossen
+- TOP 15.1: Zusammensetzung des Ältestenrates - ohne Änderungen in der BVV beschlossen
+- TOP 16: Feststellungen - (offen)
+- TOP 16.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - in der BVV zurückgezogen
+- TOP 16.3: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.4: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.5: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.6: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.7: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 16.8: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Beschlussfassung - (offen)
+- TOP 17.1: Wahl eines Patientenfürsprechenden für die Caritas-Klinik Dominikus im Bezirk Reinickendorf - gewählt
+- TOP 17.2: Anmeldung für das Investitionsprogramm 2023 bis 2027 - vertagt
+- TOP 18: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 18.1: Bewilligung von Sondermitteln der BVV für das Jahr 2023 - Zeltlagerplatz e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 18.2: Bewilligung von Sondermitteln der BVV für das Jahr 2023 - Bildung und Gesellschaft e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 18.3: Bewilligung von Sondermitteln der BVV für das Jahr 2023 - Royal Rangers Christliche Pfadfinder Stamm 100 - ohne Änderungen in der BVV beschlossen
