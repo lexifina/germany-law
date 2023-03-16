@@ -1,0 +1,81 @@
+# 18. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-16T15:07:00+01:00
+- Ende: 2023-03-16T19:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27375
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27375
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Baubeschluss für den Neubau von Verschlusseinrichtungen für den Hochwasserschutz - Mündliche Anfragen - Kenntnis genommen
+- TOP 1.2: Beantwortung einer Anfrage zum Energiekonzept Deutzer Hafen von der Fraktion DIE LINKE (AN/0207/2023 - zurückgestellt
+- TOP 1.3: Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt (0471/2022) - Mündliche Anfragen aus der Sitzung des Stadtentwicklungsausschusses am 02.02.2023 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Energiekonzept für den Deutzer Hafen - zurückgestellt
+- TOP 2.2: RSV Rath Heumar - zurückgestellt
+- TOP 2.3: Einladung zum Fachgespräch Umsetzungsmodell Kreuzfeld - Einladungspolicy - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Märkte am Autokino Porz erhalten – rechtliche Rahmenbedingungen anpassen - endgültig abgelehnt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Höhenentwicklungskonzept für die Innere Stadt Köln - geändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - zurückgestellt
+- TOP 5.1.1: Erstellung eines SEVESO-III-Gutachten für den Kölner Norden - zurückgestellt
+- TOP 5.2: Planung und Realisierung der Möblierung des Offenbachplatzes - ungeändert empfohlen
+- TOP 5.2.1: Präsentation zur Planung und Realisierung der Möblierung des Offenbachplatzes - Kenntnis genommen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 6.1.1: Präsentation betreffend "StadtBahn Süd" - Kenntnis genommen
+- TOP 6.1.2: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Masterplan Stadtgrün - geändert beschlossen
+- TOP 6.2.1: Änderungsantrag zu 2279/2022 Masterplan Stadtgrün - Grünflächen rechtssicher schützen - abgelehnt (in der Vorberatung)
+- TOP 6.2.2: Änderungsantrag zum Masterplan Stadtgrün (2279/2022) – TOP 6.2 - abgelehnt (in der Vorberatung)
+- TOP 6.2.3: Änderungsantrag zur Vorlage Masterplan Stadtgrün - 2279/2022 - ungeändert empfohlen
+- TOP 6.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss zum Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 71356/02, Arbeitstitel "An der Mühle" in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 6.4: 241. Änderung des Flächennutzungsplanes, "Alsdorfer Straße" in Köln- Ehrenfeld/ -Braunsfeld - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 71504/05 Arbeitstitel: Von-Ketteler-Straße in Köln-Höhenhaus - ungeändert empfohlen
+- TOP 6.6: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Deutz-Areal' in Köln-Mülheim - ungeändert empfohlen
+- TOP 6.7: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Euroforum Nord und Euroforum West' in Köln-Mülheim - ungeändert empfohlen
+- TOP 6.8: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Lindgens-Areal' in Köln-Mülheim - ungeändert empfohlen
+- TOP 6.9: Beteiligung am Gottfried Böhm Stipendium - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Venloer Straße / Nördlich Arnoldshof in Köln-Bocklemünd/Mengenich - geändert beschlossen
+- TOP 10.3: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Großprojekt Köln-Kreuzfeld - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag zu 4144/2022 Bedarfsfeststellung für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das städtische Großprojekt Köln-Kreuzfeld - Sache ist erledigt
+- TOP 10.3.2: Änderungsantrag zu TOP 10.3. "Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das städtebauliche Großprojekt Köln-Kreuzfeld" - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Widdersdorfer Straße 158 und 188a in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.4.1: Änderungsantrag zu DS 4286/2022 - Beschluss über die Einleitung eines Bebauungs-planverfahrens (vorhabenbezogener Bebauungsplan). Arbeitstitel: Widdersdorfer Straße 158 und 188a in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Friedrich-Engels-Straße in Köln-Sülz - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Aufstellung eines Bebauungsplans Arbeitstitel: Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 11.1.1: Präsentation betreffend "Umsetzung Stadtentwicklungskonzept Wohnen - Kenntnis genommen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf 694333/02 (alt 69433/02), Arbeitstitel: „Hochpunkt Siegburger Straße“ in Köln-Deutz - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Bericht aus der Geschäftsstelle Kooperatives Baulandmodell - Kenntnis genommen
+- TOP 18.2: Umbenennung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender in Stadtarbeitsgemeinschaft Queerpolitik - Kenntnis genommen
+- TOP 18.3: Projektentwicklung "Colonius Nord" in Köln Neustadt-Nord - Kenntnis genommen
+- TOP 18.4: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2022 - Kenntnis genommen
+- TOP 18.5: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel - Kenntnis genommen
+- TOP 18.6: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 18.7: Umsetzung Stadtstrategie „Kölner Perspektiven 2030+": Neue Schlüsselprojekte benannt - Kenntnis genommen
+- TOP 18.7.1: Präsentation betreffend "Umsetzung - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
