@@ -171,7 +171,7 @@ Die Stoffgruppendefinitionen der Nummern 1 bis 7 schließen alle denkbaren gelad
   |  |
   Die Grundstruktur Δ⁹,¹⁰-Ergolen kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R1 bis R4) substituiert sein:
   a) R1:
-    Wasserstoff, Alkyl- (bis C8), Cycloalkylmethyl- (Ringgröße C3 bis C6), Cycloalkylethyl- (Ringgröße C3 bis C6), Cycloalkylpropyl- (Ringgröße C3 bis C6), Alkylcarbonyl (bis C10)-Cycloalkylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylmethylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylethylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylpropylcarbonyl- (Ringgröße C3 bis C6), Benzylcarbonylgruppen.
+    Wasserstoff, Alkyl- (bis C8), Cycloalkylmethyl- (Ringgröße C3 bis C6), Cycloalkylethyl- (Ringgröße C3 bis C6), Cycloalkylpropyl- (Ringgröße C3 bis C6), Alkylcarbonyl- (bis C10), Cycloalkylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylmethylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylethylcarbonyl- (Ringgröße C3 bis C6), Cycloalkylpropylcarbonyl- (Ringgröße C3 bis C6), Benzylcarbonylgruppen.
   b) R2:
     Wasserstoff, Alkyl- (bis C4), Allyl- und Prop-2-in-1-ylgruppen.
   c) R3 und R4:
