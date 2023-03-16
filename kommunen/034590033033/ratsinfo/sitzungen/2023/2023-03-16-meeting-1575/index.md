@@ -1,0 +1,60 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2023-03-16T17:30:00+01:00
+- Ende: 2023-03-16T18:49:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZau2W8cuj_-j0us0WwrnfDo
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1575
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrZF1Snjwm67Ftl6ehgkV9uHHl592lU27qFIQH5O01G/Bekanntmachung_Rat_16.03.2023.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYQJJZbdM-C4aVT2CFnYm1EHxYhecDHa1Z_qFomZY5lU/Oeffentliches_Beschlussprotokoll_Rat_16.03.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 15.12.2022
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Seniorenbeiratswahl am 15.03.2023
+- TOP 3.2: Beginn Breitbandausbau der Telkos im Baulos 11
+- TOP 3.3: Eilantrag der Gewerkschaft ver.di gegen die Zulassung eines verkaufsoffenen Sonntags am 19. März 2023
+- TOP 3.4: Aktueller Stand zum Gewerbegebiet "Schwarzer See"
+- TOP 3.5: Wohnpark "Schützenwiese" in Hollage: Öffnung der Fiesteler Straße für den Durchgangsverkehr
+- TOP 3.6: Wahl der Jugendschöffen für die Geschäftsjahre 2024 bis 2028
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Antrag der Fraktion Bündnis 90 / Die Grünen auf Umgestaltung und Umnutzung der Fiesteler Straße, der Waldstraße und der Hollager Straße als Fahrradstraße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Antrag der Fraktion Bündnis 90 / Die Grünen auf Fortführung des Radweges an der Hollager Straße bis zur Straße Zum Sportplatz und Umgestaltung des Kreuzungspunktes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.3: Antrag der Fraktion Bündnis 90 / Die Grünen auf Gewährung eines Zuschusses an das Deutsche Rote Kreuz - Ortsverein Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Schulangelegenheiten
+- TOP 5.1: Öffentlich-rechtliche Vereinbarung mit dem Landkreis Osnabrück über den Schulsachkostenzuschuss gem. § 118 NSchG für das Jahr 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Kapazitätsausweitung für die Mensa der Katharinaschule durch Neubau oder Erweiterung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sportangelegenheiten
+- TOP 6.1: Änderung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Vereine und Bürgerengagement
+- TOP 7.1: Antrag des BürgerBus Wallenhorst-Wersen e.V. auf Erhöhung des jährlichen Betriebskostenzuschusses - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Antrag des BürgerBus Wallenhorst e.V. auf Gewährung eines Zuschusses zum Kauf eines neuen Fahrzeugs - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 8.1: Wahl einer Vertreterin bzw. eines Vertreters der Gemeinde Wallenhorst als Beisitzerin bzw. Beisitzer im Schöffenwahlausschuss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Vorschlagsliste zur Wahl der Schöffinnen und Schöffen für die Geschäftsjahre 2024 bis 2028 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Liegenschaften
+- TOP 9.1: Kriterien für die Vergabe von Grundstücken für die Mehrfamilienhausbebauung in den Baugebieten „Westlich Stadtweg“ in Rulle und „Zwischen Ziegeleistraße und Fiesteler Straße“ in Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Umwelt- und Energieangelegenheiten
+- TOP 10.1: Förderprogramm der Gemeinde Wallenhorst für Zuschüsse zur Umsetzung von Umwelt- und Klimaschutzmaßnahmen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 11.1: Freiflächen-Photovoltaikanlagen (FF-PVA) – aktueller Sachstand und Grundsatzbeschluss zum weiteren Vorgehen im Gemeindegebiet - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Fahrradabstellbügel am Rathaus
+- TOP 12.2: Baustelle an der Kreuzung Am Haupthügel/Haster Berg und Sperrung der Kreuzung Wellenkamp/Kreuzweg aufgrund von Krötenwanderung
+- TOP 12.3: Müllentsorgung am Porta-Kreisel/Auffahrt zur B 68
+- TOP 12.4: Beschluss des Verwaltungsgerichts Osnabrück zur Zulassung eines verkaufsoffenen Sonntags am 19. März 2023
+- TOP 12.5: Verweisungsbeschluss des DRK-Antrags in einen anderen Ausschuss
+- TOP 12.6: Schulbusausfälle in Rulle
+- TOP 12.7: Grundstückssituation im Baugebiet "Westlich Stadtweg"
+- TOP 12.8: Defekte Beleuchtung an der Haselandhalle
+- TOP 12.9: Ausbauprogramm für die Unterhaltung von Straßen
+- TOP 12.10: "Mitlaufendes Licht" im Rathaus
+- TOP 12.11: Ausbau des Radschnellweges am Stichkanal
+- TOP 12.12: Zustand der nördlichen Außenwand des Rathauses
