@@ -1,0 +1,86 @@
+# 15. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-03-16T16:30:00+01:00
+- Ende: 2023-03-16T19:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6697
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6697
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=396841
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Vorgänge im Zusammenhang mit der Wahlwiederholung - (offen)
+- TOP 3.1: Bestätigung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Sachliche Kontinuität der IX. Wahlperiode - Fortführung sich im Geschäftsgang befindlicher Vorgänge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Zusammensetzung des Vorstandes - erledigt
+- TOP 3.4: Änderung der Zusammensetzung des Ältestenrates - vertagt
+- TOP 3.5: Aufhebung von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Ausschussbildung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Wahl der Kiezpatinnen und Kiezpaten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Bürgerfragestunde - beantwortet
+- TOP 7: Personelles / Wahlen - (offen)
+- TOP 7.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wahl eines Bürgerdeputierten für den Jugendhilfeausschuss - vertagt
+- TOP 7.3: Wahl von 7 Vertrauenspersonen als Beisitzer /-innen im Schöffenwahlausschuss - gewählt
+- TOP 7.4: Vorschlagsliste für die Wahl der ehrenamtlichen Schöffinnen und Schöffen für die Amtsperiode 2024-2028 - vertagt
+- TOP 7.5: Wahl eines Bürgerdeputierten für den Ausschuss für Partizipation und Integration - gewählt
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Mitteilungen des Vorstehers Nr. IX-13 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 9.1: Zwischenberichte - (offen)
+- TOP 9.1.1: Weitere Querungsmöglichkeit auf der Neuen Krugallee errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.2: Aktions- und Maßnahmeplan zur gleichberechtigten Teilhabe von Menschen mit Behinderung in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.3: Radverkehrsverbindung zwischen Rahnsdorf und Wilhelmshagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.4: Alternative Verkehrs- und Parkkonzepte für das Spreeparkgelände prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.5: Rudower Straße fahrradfreundlich gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.6: Behindertengerechter Umbau der Kreuzung Buntzelstraße / Waltersdorfer Straße / Schulzendorfer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.7: ABC als Kulturstandort erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.8: Plexiglasscheiben in BVG-Wartehäuschen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.9: Kiezkassen angemessen bewerben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.10: Neuer Bahnhof an der Ringbahn: S-Bahnhof Kiefholzstraße planen und umsetzen und Alt-Treptow und Plänterwald besser erschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.11: Mehr Kita- und Grundschulplätze für Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.12: Verlängerung der Buslinie 365 entlang der Straße An der Wuhlheide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.1.13: Öffentlichkeitsarbeit des Bezirksamtes bedarfsorientierter gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Schlussberichte - (offen)
+- TOP 9.2.1: Gedenken an ehemalige jüdische Eigentümer der "Hasselwerder-Villa" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.2: Eindämmung der Ambrosia-Gefahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.3: Benennung der neu angelegten Erschließungsstraße Richtung Spree sowie der Haltestelle "Schnellerstr. 135" nach Hans Otto Obrikat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.4: Beteiligung der Seniorenvertretung an der Etablierung der Stelle zur Seniorengesundheitskoordination - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.5: Ärztewegweiser aktualisieren und wieder auflegen – gedruckt und online - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.6: Lichtzeichenanlage Kreuzung Fürstenwalder Allee / Fahlenbergstraße prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.7: Gedenktafel für Ernst Reuter in der Siedlung Elsengrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.8: Gedenktafel für die Opfer des Brotaufruhrs am 6. April 1945 in Rahnsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.9: Beleuchtung der Einmündung Rabindranath-Tagore-Straße in das Adlergestell - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.10: Linienverkehr mit dem Schiff - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.11: Sondermittel für den Verein "Schutzhülle e. V." (SM 21-07) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.12: Keramik-Zirkel der Volkshochschule sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.13: Booksharing in Treptow-Köpenick: Mehr Bücherschränke für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.14: S-Bahnhof Grünau: Briefkasten wieder in Betrieb nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.15: Dauerhafte Geschwindigkeitsüberwachung Am Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2.16: Ausweitung des Angebotes rein pflanzlicher Speisen auf Veranstaltungen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Planreifeerklärung für eine Teilfläche des Bebauungsplans 9-7 ("Spreepark") - überwiesen
+- TOP 10.2: Anmeldung zum Investitionsprogramm 2023 bis 2027 - überwiesen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Heidelberger Straße: ein (un)sicherer Weg zur Kita - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Deutschförderkurse für Kinder auch in Treptow-Köpenick - überwiesen
+- TOP 11.3: Sportanlage Wendenschloßstraße 182 - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sichere Querung in der Fürstenwalder Allee auf Höhe "Am Schonungsberg" schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Angsträume verhindern – Wege im Goldmannpark beleuchten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Beschilderung für getrennten Rad- und Gehweg auf der Bundesstraße 96a - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Vorfahrt für den Radverkehr – den grünen Pfeil für den Radverkehr auch in Treptow-Köpenick einführen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Berufung des Beauftragten für Menschen mit Behinderung gem. § 28 (1) Landesgleichberechtigungsgesetz (LGBG) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Konstituierung des bezirklichen Beirates für Partizipation und Integration nach § 19 (1) PartMigG vom 05.07.2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Umgestaltung Bölschestraße – Bürgerbeteiligung ernst nehmen und Geschäftsstraße erhalten - überwiesen
+- TOP 13.2: Ausreichend Fahrradstellplätze am Bahnhof Köpenick - überwiesen
+- TOP 13.3: Realisierung und Abschluss Landschaftsplan XVI-L-2 "Vollkropfwiesen" - überwiesen
+- TOP 14: Große Anfragen - (offen)
