@@ -282,7 +282,7 @@ Inhaltsübersicht
 | 190 | Radiosynoviorthese (RSO) durch Bestrahlung | 49,98 |
 | 191 | Bestrahlungstherapie mittels Linearbeschleuniger, Ausarbeitung eines Therapieplans | 15,24 |
 | 192 | Bestrahlungstherapie mittels Linearbeschleuniger (kuratives Protokoll, ohne Planungs- oder Kontroll-CT), pro Bestrahlung | 146,28 |
-| 193 | Bestrahlungstherapie mittels Linearbeschleuniger (palliatives Protokoll, ohne Planungs- oder Kontroll-CT), pro Bestrahlung | 23,51 |
+| 193 | Bestrahlungstherapie mittels Linearbeschleuniger (palliatives Protokoll, ohne Planungs- oder Kontroll-CT), pro Bestrahlung | 219,42 |
 | 194 | Bestrahlungstherapie mittels Linearbeschleuniger (palliatives Protokoll bei Osteosarkom oder Arthrose, ohne Planungs- oder Kontroll-CT), pro Bestrahlung | 292,56 |
 | 195 | Stoßwellentherapie, radial | 97,52 |
 | 196 | Stoßwellentherapie, fokussiert | 182,85 |
