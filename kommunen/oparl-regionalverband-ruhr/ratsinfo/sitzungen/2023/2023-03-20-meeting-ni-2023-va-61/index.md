@@ -1,0 +1,76 @@
+# 9. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2023-03-20T10:00:00+01:00
+- Ende: 2023-03-20T10:55:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-61
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-61
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-61
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-61
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm 'Kommunaler Straßenbau 2023' - Unterrichtung und Beschlussfassung
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: 7. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicher Teil - auf dem Gebiet der Stadt Hamm Veranlassung der Bekanntmachung
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.1.1: Antwort auf die Anfrage der Fraktion Die Linke Berücksichtigung des Abgrabungsmonitoring des Geologischen Dienstes von Nordrhein-Westfalen zum 01.01.2022 im Entwurf des Regionalplans Ruhr im Rahmen der 3. Offenlage bei der Ermittlung des Versorgungszeitraumes
+- TOP 7.1.2: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Sachstand bei den Regionalen Kooperationsstandorten
+- TOP 7.1.3: Antwort auf die Anfrage der CDU-Fraktion Sachstand Kiesflächen 3. Offenlage des Regionalplans Ruhr
+- TOP 7.2: Mitteilungen
+- TOP 7.2.1: Zwischenstand Vermarktungskonzept
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftsvertrag nach Aufhebung des Betrauungsaktes
+- TOP 8.2: Angelegenheiten der Abfallwirtschaft metropoleruhr GmbH (AmG) - Einstellung des Geschäftsbetriebes / Auflösung der Gesellschaft
+- TOP 8.3: Angelegenheiten der Revierpark Wischlingen GmbH - Neustrukturierung der Zusammenarbeit/ Sachstandsbericht zur Kündigung des Gesellschaftsvertrages
+- TOP 8.4: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre mbH (FSG GmbH) - Zusätzliche Mittelbe-reitstellung zur Finanzierung der Sanierung der Zufahrtsstraße zur K10
+- TOP 8.5: Angelegenheiten der Ruhr Tourismus GmbH - Eigenanteile Förderprojekte EFRE 2023 - 2027
+- TOP 8.6: Angelegenheiten der Business Metropole Ruhr GmbH - Eigenanteile Förderprojekte EFRE 2023 - 2027
+- TOP 8.7: Angelegenheiten der Kultur Ruhr GmbH - Verlängerung der Nebenabrede zum Gesellschaftsvertrag der Kultur Ruhr GmbH für den Zeitraum 2024-2026
+- TOP 8.8: Angelegenheiten der ecce GmbH - Änderung des Gesellschaftsvertrages
+- TOP 8.9: Standortmarketingkampagne Transformation, Innovation und Forschung als Treiber des Imagewandels der Region Die Metropole Ruhr setzt ihre erfolgreiche Kampagnenkommunikation fort und geht in die nächste Phase
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Wanderlandschaft Metropole Ruhr: Sachstand Fördermittelakquise
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Einstellung des Projektes Schiffsparade/KulturKanal
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Bestellung der weiteren stellvertretenden Schriftführung für den Verbandsausschuss in der 14. Wahlperiode
+- TOP 16.2: Bestellung der weiteren stellvertretenden Schriftführung für die Verbandsversammlung in der 14. Wahlperiode
+- TOP 16.3: Regionale Großformate 2030+
+- TOP 16.4: Integriertes regionales Entwicklungskonzept Metropole Ruhr
+- TOP 16.5: Angelegenheiten der Business Metropole Ruhr GmbH (BMR) Bestellung eines zweiten Mitgliedes des Gesellschafters BMR in den Aufsichtsrat der ruhr:HUB GmbH
+- TOP 16.6: Haushaltssanierungsplan 2023
+- TOP 16.7: Ermächtigungsübertragungen gem. § 22 KomHVO NRW
+- TOP 16.8: Bekanntgabe der in der Zeit vom 01.11.2022 - 31.12.2022 für das Haushalts-jahr 2022 genehmigten Haushaltsüberschreitungen
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage des Einzelmitgliedes Auswirkungen der Änderungen im Umsatzsteuerrecht ab 01.01.2023
+- TOP 18.1.2: Antwort auf die Anfrage der CDU-Fraktion Strategieprozess FMR GmbH
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
