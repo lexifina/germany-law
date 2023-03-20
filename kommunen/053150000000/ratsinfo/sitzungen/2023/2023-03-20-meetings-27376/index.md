@@ -1,0 +1,62 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-03-20T14:30:00+01:00
+- Ende: 2023-03-20T16:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27376
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27376
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Sponsoringrichtlinie - zurückgestellt
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.01.2023 - Kenntnis genommen
+- TOP 2.4: Ausgangslage und Sachstand zur Ausgabe eines Green Bond - Kenntnis genommen
+- TOP 2.5: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 2.6: Sanierung der RDA-Schächte - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - Kenntnis genommen
+- TOP 6.2.2: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim - Kenntnis genommen
+- TOP 6.3: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW - Kenntnis genommen
+- TOP 6.4: Geschäftsanweisung für das Finanzwesen der Stadt Köln (GAFin) - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: ISEK Porz-Mitte - Gestaltung Parkanlage Glashüttenstraße - geändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von 4 Stück knickgelenkter Geräteträger inkl. Mulchmähwerk für den Bereich Straßenbegleitgrün - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, Gemarkung Dünnwald, Flur 61, Flurstück 1941 - Baubeschluss - geändert beschlossen
+- TOP 10.2: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - zurückgestellt
+- TOP 10.3: Baubeschluss für den Ersatzneubau der Brücke Frankfurter Straße (B 8) über die B 55a - geändert beschlossen
+- TOP 10.4: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 10.5: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - zurückgestellt
+- TOP 10.6: StadtBahn Süd - Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 10.7: AchtBrücken GmbH - Betriebskostenzuschüsse für die Jahre 2025-2027 - geändert beschlossen
+- TOP 10.8: Anregung der Bezirksvertretung Kalk zur Bereitstellung von FFP2/OP-Masken und Corona-Test-Kits für alle sozialen Kinder-, Jugend- und Sozialeinrichtungen im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.9: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - verwiesen in nachfolgende Gremien
+- TOP 10.10: KölnBusiness Wirtschaftsförderungs-GmbH; Änderung des Gesellschaftsvertrages - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 10.11: Freigabe von Mitteln aus dem politischen Veränderungsnachweis zum Haushaltsjahr 2023/2024 "EDELGARD schützt" - ungeändert beschlossen
+- TOP 10.12: Dienstleistungsvertrag mit dem Universitätsklinikum Bonn - ungeändert beschlossen
+- TOP 10.13: Eintrittspreise für Veranstaltungen der Bühnen Köln (Oper, Schauspiel, Tanzgastspiele) für die Spielzeit 2023/24 - ungeändert beschlossen
+- TOP 10.14: Freigabe Kulturförderabgabe, Zuschuss für das Erweiterungs- und Entlastungsbauprojekt Sachsenturm für den Gemeinnützigen Bauverein Sachsenturm e.V. - ungeändert beschlossen
+- TOP 10.15: Freigabe Kulturförderabgabe, Zuschuss für das Erweiterung- und Entlastungsbausprojekt Sachsenturm für die Blauen Funken - ungeändert beschlossen
+- TOP 10.16: Beteiligung am Gottfried Böhm Stipendium - ungeändert beschlossen
+- TOP 10.17: Implementierung eines Cash Pools - ungeändert beschlossen
+- TOP 10.18: Erwerb einer Beteiligung an der PD - Berater der öffentlichen Hand GmbH - ungeändert beschlossen
+- TOP 10.19: Umsetzung einer Maßnahme des Kulturentwicklungsplans: Barcamp zur Nachhaltigkeit in der Kultur - ungeändert beschlossen
+- TOP 10.20: Umsetzung einer Maßnahme des Kulturentwicklungsplans: Einrichtung einer Koordinationsstelle Nachhaltigkeit in der Kultur - ungeändert beschlossen
+- TOP 10.21: Finanzierung von Auffangstationen: Umweltbildungszentrum Heideportal Gut Leidenhausen e.V., Schutzgemeinschaft Deutscher Wald Köln e.V. - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
