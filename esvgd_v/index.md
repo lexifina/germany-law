@@ -1,0 +1,16 @@
+# Verordnung zur Datenübermittlung zum Zweck der Ausführung der Vollzugsvorkehrungen nach § 12 Absatz 1 des Ernährungssicherstellungs- und -vorsorgegesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zweck und Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Zur Datenübermittlung verpflichtete Behörden](0003.md)
+- [§ 4 Zur Datenanforderung berechtigte Behörden](0004.md)
+- [§ 5 Übermittlung von nach der Tierische Lebensmittel-Hygieneverordnung erhobenen und gespeicherten Daten](0005.md)
+- [§ 6 Übermittlung von nach der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene erhobenen und gespeicherten Daten](0006.md)
+- [§ 7 Übermittlung von nach der Viehverkehrsverordnung erhobenen und gespeicherten Daten](0007.md)
+- [§ 8 Übermittlung von nach der Marktordnungswaren-Meldeverordnung erhobenen und gespeicherten Daten](0008.md)
+- [§ 9 Übermittlung von nach der InVeKoS-Verordnung erhobenen und gespeicherten Daten](0009.md)
+- [§ 10 Art und Form der Datenübermittlung](0010.md)
+- [§ 11 Datenschutz und Datensicherheit](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
+- [Schlussformel](schlussformel.md)
