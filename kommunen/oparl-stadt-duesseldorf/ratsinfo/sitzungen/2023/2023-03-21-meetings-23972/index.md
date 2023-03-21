@@ -1,0 +1,64 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-21T17:00:00+01:00
+- Ende: 2023-03-21T22:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23972
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23972
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479412.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479412.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479412.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Bestellung beratendes Mitglied Jugendrat - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Genehmigung der Niederschrift
+- TOP 4.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 13.12.2022 - einstimmig beschlossen
+- TOP 4.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 17.01.2023 - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 5.2: Kommunale Sozialberichterstattung Düsseldorf. Lebenssituation Kinder, Jugendliche und Familien – Monitoring 2015 bis 2020 - zur Kenntnis genommen
+- TOP 5.3: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an den städtischen Gymnasien - Empfehlung einstimmig beschlossen
+- TOP 5.4: Strategie zum Parkraummanagement - Empfehlung abweichend beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Flächennutzungsplanänderung Nr. 88 und Bebauungsplan-Vorentwurf Nr. 03/006 - Südlich Auf'm Tetelberg - mehrheitlich beschlossen
+- TOP 6.2: Hochbaulicher Wettbewerb Nr. 03/042 - Witzelstraße/Mecumstraße - abweichend beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - abweichend beschlossen
+- TOP 7.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Radunfälle im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Fahrradfreundlicher Ausbau des nordwestlichen und zentralen Bereiches der Kreuzung Witzelstr./Moorenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 8.1.5: Überprüfung der Möglichkeiten zur Verkehrsüberwachung an den Kreuzungen Südring/Fleher Straße und Südring/Volmerswerther Straße (Anfrage Herr van Bilsen - BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.6: Fahrradpiktogramme auf der Volmerswerther Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.7: Unterstützung der Brause am bisherigen Standort (Anfrage SPD - Fraktion) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Kölner Straße (Anfrage SPD - Fraktion) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Aufstellung von Taubenschlägen (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Schulwegsicherung Kreuzung Witzelstr./Moorenstraße und Schloßmannstr./Stümpelstraße - zur Kenntnis genommen
+- TOP 10.2: Bolzplätze - zur Kenntnis genommen
+- TOP 10.3: Barrierefreien Ausbau der Haltestelle Karolingerplatz zusammen mit einer autofreien Brunnenstraße, Barrierefreier Haltestelle Kopernikusstraße und Sanierung der Brunnenstraße und Himmelgeister Straße denken - zur Kenntnis genommen
+- TOP 10.4: Erste Fahrradzone Düsseldorfs im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 10.5: Änderung eines Halteverbots in eine Feuerwehrzufahrt - zur Kenntnis genommen
+- TOP 10.6: Bunte Bänke für Toleranz und Sichtbarkeit - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
