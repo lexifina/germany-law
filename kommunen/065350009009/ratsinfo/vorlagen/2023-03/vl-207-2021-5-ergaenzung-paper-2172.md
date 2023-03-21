@@ -1,0 +1,25 @@
+# Widerspruch des Stadtverordneten Eckhard Hisserich gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-207/2021 5. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-03-21
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZX5GFXQx6DUWUSkB5EHeWiU
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2172
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Widerspruch des Stadtverordneten Eckhard Hisserich gegen die Wahl des Stadtverordnetenvorstehers in der Sitzung der Stadtverordnetenversammlung am 29.04.2021) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRs09M_0AboZrxN1VVJIqVaXdtGoZh7j-1JR477ZBP3m/Beschlussvorlage_VL-207-2021_5._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (E-Mail HSGB - Ulrike Adrian 07.03.2023) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQfZPyhxOHCakZAxpIR8QjWTKqjDSNjbNQ3JzU1neUNI/E-Mail_HSGB_-_Ulrike_Adrian_07.03.2023.pdf
+- Anlage: Beschlussvorlage (E-Mail HSGB - Ulrike Adrian 07.03.2023) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZULdgOJ_kxHYzRW9ydQEa-TPCc7m9AnbUX8egiZO4Pay/E-Mail_HSGB_-_Ulrike_Adrian_07.03.2023.pdf
+- Anlage: Beschlussvorlage (FAX VG Gießen an StVVorsteher - Verwaltungsstreitverfahren 8 K 127-22.GI  -Urteil) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW-aOacREokqBKpPlUziC-sfgCmEKuPqUCFegDH1goxc/FAX_VG_Giessen_an_StVVorsteher_-_Verwaltungsstreitverfahren_8_K_127-22.GI__-Urteil.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/827 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/814 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/842 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/843 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/853 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/861 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/884 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/968 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1046 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1092 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-1
