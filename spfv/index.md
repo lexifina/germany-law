@@ -16,7 +16,7 @@
 - [§ 14 Ruhen der Fahrerlaubnis](0014.md)
 - [§ 15 Sicherstellung von Befähigungszeugnissen](0015.md)
 - [§ 16 Zuständige Stellen](0016.md)
-- [§ 17 Verzeichnis](0017.md)
+- [§ 17 Datenverarbeitung](0017.md)
 - [§ 18 Ordnungswidrigkeiten](0018.md)
 - [Anlage 1 (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein](anlage-1.md)
 - [Anlage 2 (zu § 7 Absatz 2 Nummer 4 und § 10 Absatz 1 Satz 2)Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)](anlage-2.md)

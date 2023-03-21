@@ -11,7 +11,7 @@
 | TEIL II |
 |  | Verfahren |
 |  | 7. Abschnitt: | Allgemeine Verfahrensvorschriften | §§ 54 bis 67a |
-| 8. Abschnitt: | Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen | §§ 68 bis 80b |
+| 8. Abschnitt: | Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen | §§ 68 bis 80c |
 | 9. Abschnitt: | Verfahren im ersten Rechtszug | §§ 81 bis 106 |
 | 10. Abschnitt: | Urteile und andere Entscheidungen | §§ 107 bis 122 |
 | 11. Abschnitt: | Einstweilige Anordnung | § 123 |
