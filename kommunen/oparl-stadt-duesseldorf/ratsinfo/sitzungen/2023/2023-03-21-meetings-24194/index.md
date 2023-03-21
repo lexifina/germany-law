@@ -1,0 +1,65 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-21T16:00:00+01:00
+- Ende: 2023-03-21T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24194
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24194
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479366.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479366.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479366.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 3: Städtebaulicher Wettbewerb Nr. 02/021 - Eduard-Schloemann-Straße - Empfehlung abweichend beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (ListeB) - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 6: Geschwindigkeitsmessung an der Ecke Rethelstraße / Schumannstraße - Antrag der Fraktion Bündnis 90/DieGrünen - einstimmig beschlossen
+- TOP 7: Bezirksbezogene Haushaltsmittel für die Aktion Blumenoasen von Pro Düsseldorf - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 8: Bezirksbezogene Haushaltsmittel für Blumenkübel auf der Birkenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Finanzierung von 45 Blumenkübeln für das Jahr 2023 aus bezirksbezogenenHaushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10: Finanzielle Unterstützung für die Ausstellung „Wir sind das Flugzeug der Götter“.Dorotheenheim“ im Stadtmuseum in Höhe von EUR 2.500,00 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 11: Haltestelle der 706 an der Lindemannstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 12: Sachstandsbericht zum geplanten verkehrssicheren Umbau der Straßenbahnhaltestelle Lindemannstraße der Linie 706 (insbesondere auf der Dorotheenstraße in Fahrtrichtung Norden) - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 13: Vorstellung der amtlichen Kriminalstatistik 2022 für den Stadtbezirk 2 - Antrag der SPD-Fraktion - zurückgezogen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: leerstehender früherer Brauereiausschank Im Tönnchen, Wetterstrasse 2/Ecke Lindenstrasse - Anfrage der CDU-Fraktion
+- TOP 19: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion
+- TOP 20: Treppenabgang Moschee - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Erneuerung des Brückengeländers entlang der Düssel an der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 24: Umsetzbarkeit einer Geschwindigkeitsbegrenzung auf 30 km/h für die gesamte Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 29: Konzept „Stadtterassen“ des Zukunftsnetzes Mobilität NRW - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Baustelle Schillerplatz - Unterirdischer Bau einer Fernwärme – Pumpstation - Anfrage der CDU-Fraktion - beantwortet
+- TOP 32: Knöllchenfalle auf der Luise-Rainer-Straße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 34: Hansa-Platz-Verbot von Hunden auf der Spielwiese - Beschluss der Bezirksvertretung 2, Vorlage BV2/009/2023 - zur Kenntnis genommen
+- TOP 35: Buddel-Löcher im Hundeauslaufplatz Hanielpark - Beschluss der Bezirksvertretung 2, Vorlage BV2/ - zur Kenntnis genommen
+- TOP 36: Strategie zum Parkraummanagement - Empfehlung mehrheitlich abgelehnt
+- TOP 37: Identifizierung weiterer Standorte für Neu- und Ersatzpflanzungen von Stadtbäumen im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/150/2022 - zur Kenntnis genommen
+- TOP 38: Fahrradweg durch das Restaurant "Sattgrün" - Beschluss der Bezirksvertretung 2, Vorlage BV2/200/2021 - zur Kenntnis genommen
+- TOP 39: Aufstellung von 3-4 Sitzbänken vor der Arbeitsagentur an der Grafenberger Allee 300 - Beschluss der Bezirksvertretung 2, Vorlage BV2/005/2023 - zur Kenntnis genommen
+- TOP 40: Schilder Kinderstadtteilkarten - Beschluss der Bezirksvertretung 2, Vorlage BV2/028/2023 - zur Kenntnis genommen
+- TOP 41: Verkehrsberuhigter Bereich Eduard-Schloemann-Str. ab Haus Nr. 47 - Beschluss der Bezirksvertretung 2, Vorlage BV2/032/2023 - zur Kenntnis genommen
+- TOP 42: Liegebänke Schillerplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/029/2023 - zur Kenntnis genommen
+- TOP 43: Radweg Humboldtstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/244/2021 - zur Kenntnis genommen
