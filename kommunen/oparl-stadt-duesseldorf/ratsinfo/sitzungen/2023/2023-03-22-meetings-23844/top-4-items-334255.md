@@ -1,0 +1,8 @@
+# TOP 4: Städtebaulicher Wettbewerb Nr. 02/021 - Eduard-Schloemann-Straße
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (2023-03-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/334255
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/121768
