@@ -23,6 +23,7 @@
 - [§ 19 Sonderurlaub aus dienstlichen Anlässen](0019.md)
 - [§ 20 Sonderurlaub aus medizinischen Anlässen](0020.md)
 - [§ 21 Sonderurlaub aus persönlichen Anlässen](0021.md)
+- [§ 21a Sonderurlaub bei Mitaufnahme oder ganztägiger Begleitung bei stationärer Krankenhausbehandlung](0021a.md)
 - [§ 22 Sonderurlaub in anderen Fällen](0022.md)
 - [§ 23 Verfahren](0023.md)
 - [§ 24 Widerruf](0024.md)
