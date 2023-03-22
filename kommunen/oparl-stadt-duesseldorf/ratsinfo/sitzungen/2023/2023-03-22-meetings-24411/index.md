@@ -1,0 +1,52 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-22T15:00:00+01:00
+- Ende: 2023-03-22T18:18:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24411
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24411
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung 22.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479125.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung 22.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479125.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung 22.03.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00479125.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/001/2023 vom 25.01.2023 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/002/2023 vom 22.02.2023 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Einzelhandel an der Heerdter Landstraße und an der Wiesenstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7: Toiletten-/WC-Nutzungsmöglichkeiten im Nahversorgungszentrum Willstätterstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8: Zugeparkten Gehweg auf der Oberkasseler Straße für Bürger:innen freihalten, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 9: Verkehrsfluss erhöhen - Unfallgefahren minimieren, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 10: Mitglieder- und Flächenentwicklung in den linksrheinischen Sportvereinen, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 11: Planungskonzept Luegallee angefordert und angekündigt - Wie geht es weiter?, Anfrage der FDP-Fraktion
+- TOP 12: Baugrundstück Hansaallee 242, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Fällung einer Rotbuche an der Leostraße 98 ohne Genehmigung, Anfrage der SPD-Fraktion
+- TOP 14: Schließung der Anschlussstelle B7, Benediktusstraße - zur Kenntnis genommen
+- TOP 15: Natur- und sozialverträgliche Lösungen zur Ausübung des Freizeitradsports für den Bereich Dirtbike – Änderung der Örtlichkeit - zur Kenntnis genommen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2023 Liste A) Schulen SAP-Konten 2121101/1000/52415400 Bauunterhaltungsmittel 2023 - einstimmig beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2023 (Liste B) - einstimmig beschlossen
+- TOP 18: Illegale Fällung einer Rotbuche auf dem Grundstück Leostraße 98, Ausgleichsmaßnahmen für den Klima- und Artenschutz, Überfraktioneller Antrag - abweichend beschlossen
+- TOP 19: Sichtbarkeit erhöhen - Gefahren für Verkehrsteilnehmer reduzieren, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 20: Verlängerung der Tempo 30 Zone auf der Löricker Straße – Mehr Sicherheit für Kinder, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 21: Unterstützung der Arbeitsgemeinschaften des Albert-Einstein-Gymnasiums und des Comenius-Gymnasiums zum Gedenken der Opfer der Shoah und Aufstellen eines Erinnerungszeichens zum sogenannten Judenhaus in der Teutonenstraße 9 in Oberkassel, - abweichend beschlossen
+- TOP 22: Flächen für Photovoltaik-Anlagen für die Stromgewinnung ohne CO2-Ausstoß, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 23: Ausbau eines Parkleitsystems für das linksrheinische Düsseldorf, Antrag der SPD-Fraktion und Bezirksvertreter Alexander Schmitt - zurückgezogen
+- TOP 24: Blühende Büsche vor unansehnliche Wände pflanzen - zur Kenntnis genommen
+- TOP 25: Verkehrsplanung / Pendlerströme sinnvoll lenken - das linksrheinische Düsseldorf entlasten - zur Kenntnis genommen
+- TOP 26: Halteverbotsregelung am Kaiser-Friedrich-Ring - zur Kenntnis genommen
+- TOP 27: Kurzzeitparken vor dem RKM 740 auf der Pariser Straße einrichten - zur Kenntnis genommen
+- TOP 28: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 29: Beteiligungskonzept -Testphase Luegallee, Tempo 30 und Radfahrstreifen - Empfehlung mehrheitlich beschlossen
+- TOP 30: Strategie zum Parkraummanagement - Empfehlung mehrheitlich beschlossen
+- TOP 31: Rechtsgültigkeit des Ratsbeschlusses 5277//, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 32: Pflanzung von weiteren blühenden Büschen und/oder Sträuchern gegenüber der Kreuzung Drusustraße/Düsseldorfer Straße - zur Kenntnis genommen
+- TOP 33: Beleuchtung Baustelle Heerdter Landstraße - zur Kenntnis genommen
+- TOP 34: Mobilitätsstationen für das Linksrheinische - zur Kenntnis genommen
+- TOP 35: Trinkwasserspender für alle Schulen im linksrheinischen Düsseldorf - zur Kenntnis genommen
