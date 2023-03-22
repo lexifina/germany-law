@@ -1,0 +1,54 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-03-22T16:08:00+01:00
+- Ende: 2023-03-22T19:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12898
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12898
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00526087.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Änderung der Richtlinien zur Förderung der internationalen Beziehungen der Stadt Münster - einstimmig beschlossen
+- TOP 3: Grundsatzbeschluss zum Maßnahmenprogramm des Amtes für Mobilität und Tiefbau - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: European Climate Adaptation Award (eca) - Klimaanpassungspolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 5: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig geändert beschlossen
+- TOP 6: Digitale Stadt Münster - Bericht zur Gigabitkoordination für die Stadt Münster - zur Kenntnis genommen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 14.05.2023, Sonntag, den 05.05.2024 und Sonntag, den 18.05.2025 in Münster-Hiltrup - ohne Beschlussfassung geschoben
+- TOP 8: Erwerb eines Genossenschaftsanteils - mitgliedschaftliche Beteiligung an der Einkaufs- und Vergabegenossenschaft KoPart e.G. - einstimmig beschlossen
+- TOP 9: Änderung des Gesellschaftsvertrages der Tarifgemeinschaft Münsterland - Ruhr-Lippe GmbH aufgrund der Stammkapitalerhöhung - einstimmig beschlossen
+- TOP 10: Zwischenbericht Haushalt 2022 -Ukraine- 4. Quartal - zur Kenntnis genommen
+- TOP 11: Entwurf der Stellungnahme der Stadt Münster zur Planänderung im Planfeststellungsverfahren für die Reaktivierung der SPNV WLE-Strecke Sendenhorst-Münster, Strecke 9213 von Bahn-km 14,370 bis Bahn-km 35,531 - einstimmig beschlossen
+- TOP 12: Innenstadt stärken: Integriertes städtebauliches Entwicklungskonzept Münster-Innenstadt (2023) - ohne Beschlussfassung geschoben
+- TOP 13: Bürgerumfrage 2021 - Methodik und zentrale Ergebnisse - ohne Beschlussfassung geschoben
+- TOP 14: Betreuung und Leerung der städtischen Parkscheinautomaten (PSA) und Parkuhren (PU) - einstimmig beschlossen
+- TOP 15: Starkregen- und Hochwasserrisikomanagement Stadt Münster - Veröffentlichung - einstimmig beschlossen
+- TOP 16: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu Viertel - Erster Sachstandsbericht - ohne Beschlussfassung geschoben
+- TOP 17: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße - ohne Beschlussfassung geschoben
+- TOP 17.1: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße
+- TOP 18: Errichtungsbeschluss: Neubau einer 4-Gruppen-Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf [Westfälische Bauindustrie GmbH] - einstimmig beschlossen
+- TOP 19: Trägervergabe für die Kindertageseinrichtung an der Gumprichstraße (Oxford-Quartier) im Stadtteil Gievenbeck, Bezirk West - einstimmig beschlossen
+- TOP 20: Trägervergabe für die Kindertageseinrichtung am Norfolkweg (York-Quartier) im Stadtteil Gremmendorf, Bezirk Südost - einstimmig beschlossen
+- TOP 21: Verzicht auf Elternbeiträge bei Einschränkungen der Betreuung in Kindertageseinrichtungen und offenen Ganztagsschulen, Erhöhung der Elternbeiträge für schulische Betreuungsangebote, Anpassung der Elternbeitragssatzung - ohne Beschlussfassung geschoben
+- TOP 22: Erweiterter Grundsatzbeschluss zur Erweiterung des Ratsgymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der 4-Zügigkeit - einstimmig beschlossen
+- TOP 23: Umsetzung von zwei Schulbauvorhaben durch die Bauwerke Münster GmbH - Melanchthonschule und Pascal-Gymnasium - ohne Beschlussfassung geschoben
+- TOP 24: Verlagerung des Ruderverein Münster von 1882 e. V. in den Stadthafen 1 mit kommunaler Sportförderung - einstimmig beschlossen
+- TOP 25: Stand und Entwicklung der Pflegeausbildung in Münster - zur Kenntnis genommen
+- TOP 26: Münster - assistenzhundfreundliche Stadt - einstimmig beschlossen
+- TOP 27: Städtische Baugrundstücke in dem Baugebiet "Amelsbüren – Nordwestlich Am Dornbusch" - ohne Beschlussfassung geschoben
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk West
+- TOP 28.1.1: 121. Änderung FNP - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 634 - Beschluss zur Aufstellung
+- TOP 28.2: Stadtbezirk Südost
+- TOP 28.2.1: Entwicklung Quartier Theodor-Scheiwe-Straße - 130. Änderung FNP - Bebauungsplan 642 - einstimmig beschlossen
+- TOP 28.3: Stadtbezirk Ost
+- TOP 28.3.1: Bebauungsplan Nr. 633 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 29: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 30: Verschiedenes
