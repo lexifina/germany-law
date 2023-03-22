@@ -1,0 +1,106 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2023-03-22T17:00:00+01:00
+- Ende: 2023-03-22T22:20:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7119
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7119
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=418724
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Zusatz Tagesordnungspunkt - erledigt
+- TOP 3.1: Antrag auf Abwahl des Bezirksverordnetenvorstehers - in der BVV abgelehnt
+- TOP 3.2: Bestätigung des Vorstands der BVV Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Vorlagen des Vorstehers - erledigt
+- TOP 4.1: Besetzung eines beratenden Mitglieds im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Unerledigte Beschlüsse aus der XX. und XXI. WP der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XXI. Wahlperiode - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.3: Besetzung einer/s Bürgerdeputierten als beratendes Mitglied und in Vertretung im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Besetzung eines beratenden Mitglieds im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 9 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Benennung von beratenden Mitgliedern im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 6 AG KJHG - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte/r bzw. als stellvertretende/r Bürgerdeputierte/r gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Zusammensetzung des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Wahl eines stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 5.1: Mehr Sicherheit vor den Schulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Anbringen fester Blitzer vor den Schulen im Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: je eine Priorität pro Fraktion - erledigt
+- TOP 6.1: Ekelort Schultoilette: Schulreinigung in Tempelhof-Schöneberg - wann wird ein angemessener Standard realisiert? - beantwortet
+- TOP 6.2: Ausgleichsabgabe für genehmigte Baumfällungen - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Investitionsplanung 2023 bis 2027 - überwiesen
+- TOP 7.2: Aufstellung einer Vorschlagsliste zur Wahl der ehrenamtlichen Richter_innen am Oberverwaltungsgericht Berlin-Brandenburg 2023 - vertagt
+- TOP 7.3: Aufstellung einer Vorschlagsliste für Schöffinnen und Schöffen für die Amtszeit 2024 bis 2028 - vertagt
+- TOP 8: Protokollgenehmigung - erledigt
+- TOP 9: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Bürgerbeteiligung bei temporären Sommerstraßen - vertagt
+- TOP 10.2: Beschlusslage zur baulichen Sicherung von Radwegen endlich umsetzen! - überwiesen
+- TOP 10.3: Wahl von stellvertretenden Bürgerdeputierten - vertagt
+- TOP 10.4: Kein Wegfall von P+R-Parkplätzen am Standort Alt-Mariendorf - überwiesen
+- TOP 10.5: Self-Service-Terminals in den Bürgerämtern von Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Zweite Chance für ein mobiles Bürgeramt in Marienfelde - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Außenstelle(n) für das Standesamt Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Ziel- und Servicevereinbarungen transparent machen - vertagt
+- TOP 10.9: Naturdenkmal Kaisereiche pflegen – Blumentopf endlich abräumen - vertagt
+- TOP 10.10: Treppenlifte für Rollstühle, Kinderwagen und mobilitätseingeschränkte Personen am S-Bahnhof Marienfelde - vertagt
+- TOP 11: Große Anfragen - im Ausschuss abgelehnt
+- TOP 11.1: Elf Millionen Investitionsmittel sind für den Bezirk durch nicht durchgeführte Baumaßnahmen verloren, welche Investitionsmaßnahmen fallen als Folge ganz weg und welche verschleppen sich im Zeitablauf? - schriftlich beantwortet
+- TOP 11.2: Antirassismus im Bezirk - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - vertagt
+- TOP 12.1: Abstellmöglichkeiten für Lastenfahrräder - vertagt
+- TOP 12.2: Frauengesundheitsbericht für Tempelhof-Schöneberg fortschreiben - vertagt
+- TOP 12.3: Boelckestraße – Interessen aller Verkehrsteilnehmer abwägen - vertagt
+- TOP 12.4: Unterstützung von sozial – ökologischen Projekten mit gemeinnützigem Charakter - vertagt
+- TOP 12.5: Sport verbindet die Menschen über Grenzen und Kulturen – Städtepartnerschaften auch - vertagt
+- TOP 12.6: Durch Ausbildungsumlage, bezirkliche Ausbildungsbetriebe entlasten und die Anzahl der betrieblichen Ausbildungsplätze erhöhen - vertagt
+- TOP 12.7: Mehr Repräsentanz von Städtepartnerschaften - vertagt
+- TOP 12.8: Queere Jugendarbeit in Tempelhof-Schöneberg endlich ausbauen - vertagt
+- TOP 12.9: Bauprojekt Beyrodtstraße: Moratorium zur Baumfällung – Wege zur einvernehmlichen Planung öffnen - vertagt
+- TOP 12.10: Wohngeld-Antrag plus, bei zu erwartender Zahlung, Vorschuss gewährleisten - vertagt
+- TOP 12.11: Motorisierte Paket- und sonstige Lieferdienste weg vom Gehweg bringen - vertagt
+- TOP 12.12: Raum für Volkshochschulkurse schaffen - vertagt
+- TOP 12.13: Gesetzliche Absicherung von Mieterbeiräten bei landeseigenen Wohnungsunternehmen – Mitbestimmung ernst nehmen - vertagt
+- TOP 12.14: Tempelhof-Schöneberg als Modellbezirk für vorbildliche Schulreinigung - vertagt
+- TOP 12.15: Lesbisches Wirken sichtbar machen: Gedenktafel zu Ehren vor Elsa Conrad und Amalie Rothaug - vertagt
+- TOP 12.16: Veränderung des Standortes für die Fahrbibliothek in Friedenau von der Hauptstraße auf den Breslauer Platz - vertagt
+- TOP 12.17: Ein Kiezwald für Neu-Tempelhof – Aufforstung und Aufwertung des Kleinen Bäumerparks - vertagt
+- TOP 12.18: Märkte in den Fokus nehmen - vertagt
+- TOP 12.19: Bezirklichen Katastrophenschutz vorrangig verbessern - vertagt
+- TOP 12.20: Nach 110 Jahren: Schrader-Breymann ehren - vertagt
+- TOP 12.21: Mobilitätsangebote schaffen – ein Netz von Jelbi-Punkten für Tempelhof-Schöneberg einrichten - vertagt
+- TOP 12.22: Täterort angemessen markieren – Mahnort am ehem. Standort der Ofenfabrik Kori entwickeln - vertagt
+- TOP 12.23: N wie Nathan: Infotafel für den Grazer Platz - vertagt
+- TOP 12.24: Das Kino im Rathaus Schöneberg wieder nutzbar machen - vertagt
+- TOP 13: Mitteilungen zur Kenntnisnahme - vertagt
+- TOP 13.1: Öffentliche Toiletten angemessen ausschildern und Sichtschutz ergänzen - vertagt
+- TOP 13.2: Natur und Kultur: Wiederherstellung der Freilichtbühne Marienhöhe prüfen - vertagt
+- TOP 13.3: Hundeauslaufplätze in Tempelhof-Schöneberg - vertagt
+- TOP 13.4: Bahnhof Südkreuz nicht von wichtiger ICE-Verbindung abkoppeln! - vertagt
+- TOP 13.5: Mariendorfer Grünfläche im Gedenken an Familie Lewissohn benennen - vertagt
+- TOP 13.6: Tempelhof-Schöneberg braucht einen digitalen Regenbogen - vertagt
+- TOP 13.7: Toleranter und weltoffener Arbeitgeber Verwaltung – zeig Dich! - vertagt
+- TOP 13.8: Öffentliche Toiletten an der Apostel-Paulus-Kirche fördern - vertagt
+- TOP 13.9: Die Haut vergisst nie – UV-Protektion auf Spielplätzen sicherstellen - vertagt
+- TOP 13.10: Wohngeldbeantragung in Tempelhof-Schöneberg - vertagt
+- TOP 13.11: Benennung der gesamten Grünfläche an der Gleditschstraße nach Ursula Mamlok - vertagt
+- TOP 13.12: Medienkompetenz entwickeln - Media.MakerSpace einrichten - vertagt
+- TOP 13.13: Platz für kostenfreie Außenfreizeitsportstätten - vertagt
+- TOP 13.14: Fahrradabstellprogramm weiterführen <span style="color: #888a85" title="Zusatzinfo">( )</span> - vertagt
+- TOP 13.15: Baumkonzept für den Bezirk Tempelhof-Schöneberg erstellen - vertagt
+- TOP 13.16: Informationen zum Thema Energiesparen und Energiekrise - vertagt
+- TOP 13.17: Fahrzeiten der Buslinie X83 bis nach Lichtenrade erweitern - vertagt
+- TOP 13.18: Ist ja klar: Parkvignetten gibt es auch für Klinikbeschäftigte - vertagt
+- TOP 13.19: Sanierungsfahrplan - Überarbeitung gemäß Vorgaben des Rechnungshofes und neuer Vorlage von SenUMVK - vertagt
+- TOP 13.20: Bebauungsplan 7-103 für die Grundstücke Schichauweg 58-64 und Teilflächen der Flurstücke 2/28 und 224 der Flur 2 im Bezirk Tempelhof-Schöneberg, Ortsteil Marienfelde - vertagt
+- TOP 13.21: Erweiterung des Geltungsbereiches des vorhabenbezogenen Bebauungsplans 7-85 VE im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - vertagt
+- TOP 13.22: Mobiles Arbeiten dauerhaft im Bezirk ermöglichen - vertagt
+- TOP 13.23: Auch 2023 eine Sommerstraße für Tempelhof-Schöneberg einrichten - vertagt
+- TOP 14: Termin der nächsten Sitzung - erledigt
