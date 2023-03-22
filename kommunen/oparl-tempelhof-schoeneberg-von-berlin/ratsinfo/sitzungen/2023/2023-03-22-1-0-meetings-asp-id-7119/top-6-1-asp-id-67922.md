@@ -1,0 +1,8 @@
+# TOP 6.1: Ekelort Schultoilette: Schulreinigung in Tempelhof-Schöneberg - wann wird ein angemessener Standard realisiert?
+
+- Sitzung: 16. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin (2023-03-22)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=67922
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=67922
