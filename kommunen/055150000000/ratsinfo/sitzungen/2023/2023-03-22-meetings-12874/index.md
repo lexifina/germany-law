@@ -1,0 +1,80 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-03-22T16:22:00+01:00
+- Ende: 2023-03-22T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12874
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12874
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00526336.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Aufhebung der Radwegebenutzungspflicht - Zeitplan der Stadt Münster
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Erstellung eines Informationssystems zum herkunftssprachlichen Unterricht - verwiesen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 9.1: Erhöhung des pädagogischen Budgets des Jugendrates - verwiesen
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 10.1: Berücksichtigung der Belange von Menschen mit Behinderung bei der Umgestaltung des Domplatzes - verwiesen
+- TOP 11: European Climate Adaptation Award (eca) - Klimaanpassungspolitisches Arbeitsprogramm - mehrheitlich beschlossen
+- TOP 12: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig geändert beschlossen
+- TOP 13: Digitale Stadt Münster - Bericht zur Gigabitkoordination für die Stadt Münster - zur Kenntnis genommen
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 14.05.2023, Sonntag, den 05.05.2024 und Sonntag, den 18.05.2025 in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 15: Erwerb eines Genossenschaftsanteils - mitgliedschaftliche Beteiligung an der Einkaufs- und Vergabegenossenschaft KoPart e.G. - einstimmig beschlossen
+- TOP 16: Änderung des Gesellschaftsvertrages der Tarifgemeinschaft Münsterland - Ruhr-Lippe GmbH aufgrund der Stammkapitalerhöhung und Aufnahme eines neuen Gesellschafters - einstimmig beschlossen
+- TOP 17: Zwischenbericht Haushalt 2022 -Ukraine- 4. Quartal - zur Kenntnis genommen
+- TOP 18: Entwurf der Stellungnahme der Stadt Münster zur Planänderung im Planfeststellungsverfahren für die Reaktivierung der SPNV WLE-Strecke Sendenhorst-Münster, Strecke 9213 von Bahn-km 14,370 bis Bahn-km 35,531 - einstimmig beschlossen
+- TOP 19: Innenstadt stärken: Integriertes städtebauliches Entwicklungskonzept Münster-Innenstadt (2023) - mehrheitlich geändert beschlossen
+- TOP 20: Bürgerumfrage 2021 - Methodik und zentrale Ergebnisse - einstimmig geändert beschlossen
+- TOP 21: Betreuung und Leerung der städtischen Parkscheinautomaten (PSA) und Parkuhren (PU) - mehrheitlich beschlossen
+- TOP 22: Starkregen- und Hochwasserrisikomanagement Stadt Münster - Veröffentlichung - einstimmig beschlossen
+- TOP 23: Vollzug der Sozialen Erhaltungssatzung Hafen-, Hansa-, Herz-Jesu Viertel - Erster Sachstandsbericht - zur Kenntnis genommen
+- TOP 24: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße - einstimmig geändert beschlossen
+- TOP 24.1: Sudmühlenstraße - Planung der DB Netze zur Aufhebung der Bahnübergänge Sudmühlenstraße und Mariendorfer Straße
+- TOP 25: Errichtungsbeschluss: Neubau einer 4-Gruppen-Kindertageseinrichtung im York-Quartier im Stadtteil Gremmendorf [Westfälische Bauindustrie GmbH] - mehrheitlich beschlossen
+- TOP 26: Trägervergabe für die Kindertageseinrichtung an der Gumprichstraße (Oxford-Quartier) im Stadtteil Gievenbeck, Bezirk West - mehrheitlich beschlossen
+- TOP 27: Trägervergabe für die Kindertageseinrichtung am Norfolkweg (York-Quartier) im Stadtteil Gremmendorf, Bezirk Südost - mehrheitlich beschlossen
+- TOP 28: Verzicht auf Elternbeiträge bei Einschränkungen der Betreuung in Kindertageseinrichtungen und offenen Ganztagsschulen, Erhöhung der Elternbeiträge für schulische Betreuungsangebote, Anpassung der Elternbeitragssatzung - mehrheitlich geändert beschlossen
+- TOP 29: Erweiterter Grundsatzbeschluss zur Erweiterung des Ratsgymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der 4-Zügigkeit - einstimmig beschlossen
+- TOP 30: Umsetzung von zwei Schulbauvorhaben durch die Bauwerke Münster GmbH - Melanchthonschule und Pascal-Gymnasium - einstimmig geändert beschlossen
+- TOP 31: Verlagerung des Ruderverein Münster von 1882 e. V. in den Stadthafen 1 mit kommunaler Sportförderung - einstimmig beschlossen
+- TOP 32: Stand und Entwicklung der Pflegeausbildung in Münster - zur Kenntnis genommen
+- TOP 33: Münster - assistenzhundfreundliche Stadt - einstimmig beschlossen
+- TOP 34: Maßnahmenprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2020/2021 - zur Kenntnis genommen
+- TOP 35: Städtische Baugrundstücke in dem Baugebiet "Amelsbüren – Nordwestlich Am Dornbusch" - mehrheitlich beschlossen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Münster-West
+- TOP 36.1.1: 121. Änderung FNP - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 634 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 36.2: Stadtbezirk Münster-Südost
+- TOP 36.2.1: Entwicklung Quartier Theodor-Scheiwe-Straße - 130. Änderung FNP - Bebauungsplan 642 - einstimmig beschlossen
+- TOP 36.3: Stadtbezirk Münster-Ost
+- TOP 36.3.1: Bebauungsplan Nr. 633 - Beschluss zur Aufstellung - mehrheitlich geändert beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 37.1: Ein System, das passt – eine neue Software für die Kita-Platzvergabe - mehrheitlich geändert beschlossen
+- TOP 37.2: Ausschreibung der Stelle des/der Beigeordneten für das Dezernat Wohnungsversorgung, Immobilien und Nachhaltigkeit - einstimmig beschlossen
+- TOP 37.3: Einführung eines Münster-Abos (29 €-Ticket) - mehrheitlich beschlossen
+- TOP 37.4: Jugendhilfe und Fachkräfte – Kommunales Maßnahmenpaket I:Verbesserung der Situation in der Kindertagesbetreuung - mehrheitlich beschlossen
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 38.1: Eine Familien-App für Münster - gebündelt, digital und interaktiv - verwiesen
+- TOP 38.2: Personalausweise für Obdach- und Wohnungslose - verwiesen
+- TOP 38.3: Menschen-zentrierte Stadtentwicklung - verwiesen
+- TOP 38.4: Den Weg zur Klimaneutralität 2030 mit einem Klimabudgetplan konsequent ausgestalten und verfolgen - verwiesen
+- TOP 38.5: Finanzbudget und CO2-Budget ganzheitlich denken – Münster macht sich auf den Weg zum Klimahaushalt - verwiesen
+- TOP 38.6: Quartiere aufwerten – Parkflächen, Quartiersparkhäuser und -garagen realisieren - verwiesen
+- TOP 39: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 39.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 40: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 41: Bestellung einer Stellvertretung des Stadtheimatpflegers - mehrheitlich beschlossen
+- TOP 42: Verschiedenes
