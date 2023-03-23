@@ -1,0 +1,81 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-03-23T18:30:00+01:00
+- Ende: 2023-03-23T22:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3114
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3114
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung Nr. 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00138660.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung Nr. 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00138660.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung Nr. 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00138660.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Polizeiliche Kriminalstatistik sowie Verkehrsunfallstatistik, hier: Vortrag der Kreispolizeibehörde
+- TOP 3: Halbjahresbericht über wichtige Gesellschafterbeschlüsse und Vorgänge in beteiligten Unternehmen 2022 1. Halbjahr - Kenntnisnahme
+- TOP 4: Hallenbad Neukirchen
+- TOP 5: Aufhebung der Satzung über die Erhebung einer Wettbürosteuer - einstimmig beschlossen
+- TOP 6: Umbesetzung im Jugendhilfeausschuss - einstimmig beschlossen
+- TOP 7: Änderung der Hauptsatzung - Kostenübernahmevereinbarungen - mehrheitlich beschlossen
+- TOP 8: Klimaschutzmanagement - einstimmig beschlossen
+- TOP 9: Bürgerfreundlichere Abholung des Reisepasses ermöglichen (Antrag Nr.:02/2023)
+- TOP 10: Prozessuntersuchung für den Fachdienst 61.1 Bauordnung / Bauaufsicht der Stadt Grevenbroich - Kenntnisnahme
+- TOP 11: Sachstandsbericht Sanierungsplan zum 31.12.2022 - Kenntnisnahme
+- TOP 12: Beratungspunkte Ausschüsse
+- TOP 12.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 12.1.1: G 233 ern. Aufstellung und Satzungsbeschluss - einstimmig beschlossen
+- TOP 12.1.2: G 236 Tankstelle Kolpingstraße Aufstellung - einstimmig beschlossen
+- TOP 12.1.3: 42. FNP Änd. Interkommunales Gewerbegebiet Energiestraße Aufstellung - mehrheitlich beschlossen
+- TOP 12.1.4: Projektstudie LEP-Fläche - Kenntnisnahme
+- TOP 12.1.5: Antrag auf Änderung des Regionalplanes - mehrheitlich beschlossen
+- TOP 12.1.6: K 38 Wohnbebauung Stifterstraße - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 13: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 13.1: Haushaltsentwurf 2023 - Nutzung von Büroräumen unter Homeoffice-Bedingungen (Anfrage Nr.:87/2022) - Kenntnisnahme
+- TOP 13.2: Status der interkommunalen Zusammenarbeit (Anfrage Nr.:92/2022) - Kenntnisnahme
+- TOP 13.3: Hat sich die Versteigerung von Fundsachen im Internet bewährt? (Anfrage Nr. 04/2023) - Kenntnisnahme
+- TOP 13.4: Beantwortung der Anfragen zu "Bekanntmachung über- und außerplanmäßiger Mittelbereitbestellung im November und Dezember 2022 - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: Anträge der SPD-Fraktion
+- TOP 14.1.1: Schaffung von Trinkwasserbrunnen an weiterführenden Schulen in Grevenbroich (Antrag Nr.:17/2023) - einstimmig beschlossen
+- TOP 14.2: Anträge der CDU-Fraktion
+- TOP 14.2.1: Einführung einer Informations-App in städtischen Kitas (Antrag Nr.:30/2023) - einstimmig beschlossen
+- TOP 14.2.2: Die leerstehenden Räumlichkeiten im Bahnhofsgebäude anmieten um hierhin Streetworker unterzubringen (Antrag Nr.:32/2023) - einstimmig beschlossen
+- TOP 14.2.3: Tankstelle Kolpingstraße, Südstadt (Antrag Nr.:31/2023) - einstimmig beschlossen
+- TOP 14.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 14.4: Anträge der FDP-Fraktion
+- TOP 14.4.1: Flexibilisierte Betreuungszeiten in der OGS ermöglichen-Konzept zum OGS-Platz-Sharing entwickeln (Antrag Nr.:10/2023) - einstimmig beschlossen
+- TOP 14.4.2: Faktenbasierte Entscheidungen zum Hallenbad Neukirchen ermöglichen (Antrag Nr.:11/2023)
+- TOP 14.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 14.5.1: Prüfauftrag Jugendbeteiligung (Antrag Nr.:12/2023) - einstimmig beschlossen
+- TOP 14.5.2: Prüfauftrag KEP-Ladezonen (Antrag Nr.:13/2023) - einstimmig beschlossen
+- TOP 14.6: Anträge der UWG-Fraktion
+- TOP 15: Gemeinschaftsanträge
+- TOP 15.1: Digitale Teilnahme an Ausschussitzungen (Antrag Nr.:21/2023) - einstimmig beschlossen
+- TOP 15.2: Weiterleitung Mittel für Schulsozialarbeit (Antrag Nr.:22/2023) - einstimmig beschlossen
+- TOP 15.3: Schulwegplanung 2023/24 (Antrag Nr.:19/2023) - einstimmig beschlossen
+- TOP 15.4: Potenzialanalyse für den Wirtschaftsstandort Grevenbroich (Antrag Nr::15/2023) - einstimmig beschlossen
+- TOP 15.5: Sicheres Grevenbroich-Weiterentwicklung des Ordnungs- und Servicedienstes (Antrag Nr.:16/2023) - einstimmig beschlossen
+- TOP 15.6: Teilnahme am Förderprogramm "Fahrradparkhäuser an Bahnhöfen" prüfen (Antrag Nr.:18/2023) - einstimmig beschlossen
+- TOP 15.7: Kriterien für die Vergabe von Grundstücken (Antrag Nr.:20/2023) - einstimmig beschlossen
+- TOP 16: Schriftliche Anfragen
+- TOP 16.1: Anfragen der SPD-Fraktion
+- TOP 16.1.1: Öffentlicher Nahverkehr und Schülerspezialverkehr in Grevenbroich (Anfrage Nr.:14/2023) - einstimmig beschlossen
+- TOP 16.2: Anfragen der CDU-Fraktion
+- TOP 16.2.1: Parksituation Dechant-Schütz-Straße (Anfrage Nr.:24/2023) - einstimmig beschlossen
+- TOP 16.2.2: Konzept Kita Naturgruppen (Anfrage Nr.:25/2023) - einstimmig beschlossen
+- TOP 16.2.3: Umgestaltung Karl-Oberbach-Straße (Anfrage Nr.:28/2023) - einstimmig beschlossen
+- TOP 16.2.4: Gutachten zu den Standorten der Jugendparks (Anfrage Nr.:26/2023) - einstimmig beschlossen
+- TOP 16.2.5: Theoretische Führerscheinprüfung wieder in Grevenbroich ermöglichen (Anfrage Nr.:27/2023) - einstimmig beschlossen
+- TOP 16.2.6: Verwendung der Landesmittel des "Stärkungspakt NRW-gemeinsam gegen Armut"(Anfrage Nr.:29/2023) - einstimmig beschlossen
+- TOP 16.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 16.3.1: Verteilung von Sportmitteln in Grevenbroich (Anfrage Nr.:23/2023) - einstimmig beschlossen
+- TOP 16.4: Anfragen der FDP-Fraktion
+- TOP 16.4.1: Hat Bürgermeister Krützen in Krisenzeiten doch wieder Lust, unsere Stadt als "Bundeshauptstadt der Energie" zu positionieren? (Anfrage Nr.:09/2023) - Kenntnisnahme
+- TOP 16.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 16.6: Anfragen der UWG-Fraktion
+- TOP 17: Mitteilungen des Bürgermeisters
