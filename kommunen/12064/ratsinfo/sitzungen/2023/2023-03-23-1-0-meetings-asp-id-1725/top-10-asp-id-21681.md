@@ -1,0 +1,6 @@
+# TOP 10: Bericht zum Stand der laufenden Bauvorhaben uns Straßenbauvorhaben des Landkreises Märkisch-Oderland
+
+- Sitzung: 21. Sitzung des Ausschusses für Bau (2023-03-23)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=21681
