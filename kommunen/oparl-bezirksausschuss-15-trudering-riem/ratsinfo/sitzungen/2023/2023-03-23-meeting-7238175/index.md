@@ -1,0 +1,194 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-03-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung vom 16.02.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Bürgerzentrum Trudering e.V. „Anschaffung einer Hybrid-Anlage zur Übertragung von Sitzungen/Meetings“ 36.440,00 € / Az. 0262.0-15-0445
+- TOP 2.1.2.: (E) Stadtbezirksbudget Initiative „Der kleine Prinz“ Der kleine Prinz – Tanzstück für Kinder vom 25.11.2022 – 01.03.2023 4.000,00 € / Az. 0262.0-15-0454
+- TOP 2.1.3.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-15-0462
+- TOP 2.1.4.: (E) Stadtbezirksbudget TSV Trudering e.V. Stabhochsprunganlage 14.624,26 € / Az.: 0262.0-15-0464
+- TOP 2.1.5.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München von April bis November 2023 9.300,00 € / Az.: 0262.0-15-0466
+- TOP 2.1.6.: (E) Stadtbezirksbudget Pfarrbüro St. Florian Materialbeschaffung/-erneuerung vom 01.04.2023 – 14.05.2023 2.925,35 € / Az.: 0262.0-15-0467
+- TOP 2.1.7.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-West Anschaffung eines Ortungsgerätes "Aquaeye" 7.200,00 Euro, Az.: 0262.0-15-0469
+- TOP 2.1.8.: (E) Stadtbezirksbudget Truderinger Burschenverein 1895 e.V. Lager-/Verkaufsanhänger 13.375,00 € / Az.: 0262.0-15-0470
+- TOP 2.1.9.: (E) Stadtbezirksbudget Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V. Finanzielle Unterstützung für den Festtag anlässlich des 100-jährigen Bestehens am 14.05.2023 10.835,00 € / Az.: 0262.0-15-0465
+- TOP 2.1.10.: Flohmarkt auf öffentlichem Verkehrsgrund: Platz der Menschenrechte am 29.04.2023 (Ersatztermin: 06.05.2023) des Familienzentrum Messestadt Riem e.V.
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) + (U) Sperrfläche und Haltverbote vor der Grundschule Lehrer-Götz-Weg Empfehlung Nr. 20-26 / E 00956 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Willy-Brandt-Allee 26: Durchfahrt von Autos vor der Haustür mit Pollern verhindern
+- TOP 3.2.2.: Bajuwarenstraße: Aufhebung der Geschwindigkeitsbeschränkung auf Tempo 30
+- TOP 3.2.3.: Friedenspromenade: Anbringung eines Fußgängerüberwegs an jeder Querstraße
+- TOP 3.2.4.: Erika-Cremer-Straße: Bitte um Entlastung der Parkplatzsituation
+- TOP 3.2.5.: Josef-Brückl-Straße: Beschränkung der Fahrgeschwindigkeit auf 10 km/h
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Straßtrudering: Pflanzung von mehr Bäumen auf der verkehrsberuhigten Fläche
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: SC Arcadia: Hilfe bei der Erhaltung des Trainings- und Spielbetriebs
+- TOP 3.5.2.: Messestadt Riem: Einrichtung eines Fitnessstudios
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.3.1.: Neugestaltung und Sanierung der städtischen Grundstücke im Ortszentrum Trudering an der Truderinger Straße 288 und 290 sowie Bajuwarenstraße 138
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Hip-Hop Festival „Rolling Loud“ auf dem Messegelände vom 7. bis 9. Juli 2023 Freikartenkontingent für Jugendliche aus Trudering, Riem und der Messestadt
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.6.1.: Schwammstadt – was bedeutet das konkret für die neuen Großquartiere in Trudering-Riem?
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Zwischenbilanz des Experiments Kopfbau
+- TOP 4.7.2.: Durchführung der Stadtteilwochen 2024
+- TOP 4.7.3.: Vogel- und Artenschutz in Neubaugebieten des Stadtbezirk 15
+- TOP 4.7.4.: Sozial – Mit Sicherheit: Antragspaket für Prävention und Bekämpfung von Jugendkriminalität
+- TOP 4.7.5.: Verstoßen die maßlosen aber von der LBK genehmigten Baumfällungen in der Sperberstraße 42 gegen das Rücksichtnahmegebot gegenüber der Natur?
+- TOP 4.7.6.: Bitte an den Deutschen Städtetag: Erhalt von Baumstandorten in §34-Gebieten
+- TOP 4.7.7.: Kindermuseum in die Messestadt
+- TOP 4.7.8.: Pilotprojekt: Papillon Briefkästen gegen Kindsmissbrauch
+- TOP 4.7.9.: Ein Platz der Menschenrechte für alle - Aufenthaltsqualität durch Sanierung und Neugestaltung erhöhen
+- TOP 4.7.10.: Inklusion konkret: Alternativen für die Zwei-Faktor-Authentifizierung statt App-Monokultur!
+- TOP 4.7.11.: Baugenehmigungen an Nachbarn wirklich zustellen!
+- TOP 4.7.12.: Entsiegelung und Begrünung der „Grünfläche“ zwischen Berufsschule und Förderzentrum in der Astrid-Lindgren-Straße
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Prüfung der digitalen Teilnahmemöglichkeiten für BA-Sitzungen und Bürgerversammlungen BV-Anfrage Nr. 20-26 / Q 00214
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Gute Bewegungsmöglichkeiten für alle Menschen / Inklusion im öffentlichen Raum stärken Teil 1: Sitzbänke mit Aussparungen für RollstuhlfahrerInnen installieren bzw. umgestalten
+- TOP 5.2.2.: Beschleunigte Wiedereinführung eines Kombitickets für Messe und MVV und Neueinführung eines Kombitickets für Konzerte auf dem Messefreigelände
+- TOP 5.2.3.: Birkhahnweg: Ergebnisse einer Geschwindigkeitsmessung
+- TOP 5.2.4.: Am Hochacker: Bau eines Bürgersteiges für Schulkinder und Parkbeschränkungen für Nicht-Anlieger - Übernahme Antrag BV als Bürgeranliegen -
+- TOP 5.2.5.: Daseinsvorsorge für alle ernst nehmen - private MVV-Verkaufsstelle im Ortszentrum Trudering reaktivieren!
+- TOP 5.2.6.: Einführung Tempo 30 Am Mitterfeld
+- TOP 5.2.7.: Nach dem Umbau des Ortszentrums: Wegweiser zu den P+R-Standorten an der B304 überprüfen
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Fassadengestaltung Schulcampus
+- TOP 5.5.2.: Bildung in und mit der Natur! – Ein Waldklassenzimmer für Trudering-Riem
+- TOP 5.5.3.: Fitnessstudio für Kinder
+- TOP 5.5.4.: Einheitliche Suche von Blutspende-/Blutplasmaspendeterminen im Stadtbezirk
+- TOP 5.5.5.: Trudering-Riem: Suche nach einer Fläche für einen Indoor-Skatepark
+- TOP 5.5.6.: Umwandlung der Mittagsbetreuungen an Grundschulen in den Offenen Ganztag
+- TOP 5.5.7.: Ganztagsbetreuung in Grundschulen
+- TOP 5.5.8.: Zwei Basketballkörbe für jede Schule
+- TOP 5.5.9.: Größere Sportplätze
+- TOP 5.5.10.: Eilantrag zur weiterhin bestehenden Notsituation im Hort des Hauses für Kinder in der Feldbergstr. 89, Trudering Nicht besetzbare Hortplätze wegen Personalmangels Fehlende Betreuungsplätze für Truderinger Grundschulkinder DRINGEND
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Notrufsäulen Badesee Riem
+- TOP 5.6.2.: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens € 3000,- BA-Antrag 20-26 / B 03806 des BA 11 Milbertshofen - Am Hart
+- TOP 5.6.3.: Bayerischen Sicherheitswacht im 15. Stadtbezirk; Prüfung einer Kompetenzerweiterung für die Grünanlagenaufsicht.
+- TOP 5.6.4.: Trudering-Riem: Einsatz von wasserdurchlässigen Betonplatten auf Fuß- und Radwegen
+- TOP 5.6.5.: Antrag zum Bürgerschreiben zur Energiegewinnung aus Biogasanlagen
+- TOP 5.6.6.: Riemer See: Vereinfachter Zugang zum Wasser
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung in städtischen Grünanlagen: Vatertags-Fußballturnier am 18.05.2023 in der Grünanlage Graf-Spee-Platz
+- TOP 7.1.2.: Riemer Park und Schwablhofstraße: Skate Mobil und Kurse von High Five e.V. im Zeitraum: 17.04 - 26.10.2023
+- TOP 7.1.3.: Bezirksübergreifender Antrag: CultureClouds e.V. - Tanz. Die Invasion vom 04.05. - 28.10.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Standortvorschläge für E-Lastenradsysteme
+- TOP 7.2.2.: Bajuwarenstraße (zwischen Zehntfeld- und Wasserburger Land-/Kreillerstraße): Aufhebung der Radwegbenutzungspflicht
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: SEM Nordost für 10.000 Menschen: Anhörung zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Huchenstr. 49 - Abbruch und Neubau eines Mehrfamilienhauses (3-4 WE) mit Garagen - VORBESCHEID
+- TOP 7.4.2.: Schneebergstr. 12 - Neubau eines Dreispänners mit versenkbaren Parker und eines Einfamilienhauses mit Carport
+- TOP 7.4.3.: Iltisstr. 67 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage - Hier: Haus B - ÄNDERUNGSANTRAG zu 1.2-2022-5763-32 - Hier: Einfamilienhaus wird zu einem Doppelhaus (DHH 1 + DHH 2)
+- TOP 7.4.4.: Wasserburger Landstr. 265 - Errichtung eines Arbeiterwohnheims mit Wohnung des Eigentümers und Tiefgarage - ÄNDERUNGSANTRAG zu 1.1-2022-4479-32 - jetzt: Erschließung einer genehmigten Tiefgarage über Abfahrtsrampe
+- TOP 7.4.5.: Dresselstr. 14 - Neubau 2er Mehrfamilienhäuser mit Tiefgarage
+- TOP 7.4.6.: Usambarastr. 11 - Nutzungsänderung zu einer erlaubnisfreien Gaststätte ohne alkoholischen Ausschank
+- TOP 7.4.7.: Schwarzenkopfstr. 20 - Abbruch der baulichen Anlagen sowie Neubau eines Mehrfamilienhauses mit Parklift und Stellplatzmöglichkeiten
+- TOP 7.4.8.: Tangastr. 21 - Abriß Bestand und Neubau eines Einfamilienhauses mit Doppelgarage - ÄNDERUNGSANTRAG zu 1.23-2022-14966-32
+- TOP 7.4.9.: Zehntfeldstr. 225 - ÄNDERUNGSANTRAG zu 1.23-2023-705-32 - Neubau einer Doppelhaushälfte mit Garage - Hier: Haus 1
+- TOP 7.4.10.: Zehntfeldstr. 225 - ÄNDERUNGSANTRAG zu 1.23-2023-708-32 - Neubau einer Doppelhaushälfte mit Garage - Hier: Haus 2
+- TOP 7.4.11.: Zehntfeldstr. 225 - ÄNDERUNGSANTRAG zu 1.23-2023-710-32 - Neubau einer Doppelhaushälfte mit Garage - Hier: Haus 3
+- TOP 7.4.12.: Zehntfeldstr. 225 - ÄNDERUNGSANTRAG zu 1.23-2023-712-32 - Neubau einer Doppelhaushälfte mit Garage - Hier: Haus 4
+- TOP 7.4.13.: Ernastr. 14 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 7.4.14.: Bajuwarenstr. 46 - Neubau eines Mehrfamilienhauses mit 8 WE und 1 Duplexgarage und eines Unterflurmehrparkers mit 6 Stellplätzen
+- TOP 7.4.15.: Schatzbogen 29 - Neubau einer gewerblichen Einrichtung mit Tiefgarage in zwei Varianten - VORBESCHEID
+- TOP 7.4.16.: Otto-Lederer-Weg 50 - Neubau eines Doppelhauses mit Duplexgarage und ein Einfamilienhaus mit einer Garage
+- TOP 7.4.17.: Fauststr. - Neubau zweier Mehrfamilienhäuser (je 6 WE) mit Tiefgarage (12 Stpl.)
+- TOP 7.4.18.: Wasserburger Landstr. 31 - Neubau einer Wohnanlage mit ca. 40 Wohneinheiten und Tiefgarage (ca. 40 Stpl.) - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Dar-es-Salaam-Str. 10 Dresselstr. 14 Dukatenweg 4a Ernastr. 14 Günderodestr. 36 Häherweg 3 Mattseestr. 2 Max-Beckmann-Str. 10 Schatzbogen 29 Schwarzenkopfstr. 20 Solalindenstr. 84 Sulzer-Belchen-Weg 7 Taku-Fort-Str. 25 Tangastr. 21 Teuchertstr. 31 Von-Gravenreuth-Str. 20 Wachtelweg 26 Xaver-Weismor-Str. 2e
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Gespräch mit Kulturreferent Biebl zum Kinder- und Jugendmuseum
+- TOP 9.1.3.: Bebauungsplan Nr. 2187 Straßenbau mit Verlängerung des Rappenwegs bis zur Gemeindegrenze Haar - Aufstellungsbeschluss - Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Info-/Austauschbedarf des BA15 mit der Deutschen Bahn
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Unveränderte Fortführung des Gaststättenbetriebs: a) Willy-Brandt-Platz 5 b) Riemer Straße 347
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Arbeiten im Straßenraum: a) Paul-Wassermann-Str. 1-3 b) Riemer Str. 227-229 und ggü. 340-346 c) Von-Erckert-Str. 23
+- TOP 10.2.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Am Mitterfeld b) Bajuwarenstraße c) Willy-Brandt-Allee
+- TOP 10.2.3.: Informationen zum Aufstellen von Dialogschildern
+- TOP 10.2.4.: Protokoll des Ortstermins am 01.03.23 am Schulzentrum Astrid-Lindgren-Straße
+- TOP 10.2.5.: (U) MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 10.2.6.: Gescheitertes Verkehrskonzept während der bauma StR-Anfrage 20-26 / F 00576
+- TOP 10.2.7.: Bebauungsplan Nr. 2187 Straßenbau mit Verlängerung des Rappenwegs bis zur Gemeindegrenze Haar, Ortsteil Gronsdorf Rappenweg (östlich, nördlich), Heimgartenstraße, Gemeinde Haar, Ortsteil Gronsdorf (westlich) Bahnlinie München - Rosenheim (nördlich) (Teiländerung des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1728) - Aufstellungsbeschluss - Stadtbezirk 15 - Trudering-Riem
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 10.3.2.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 10.3.3.: Münchner Nordosten: Termin mit Verkehrsgutachtern
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Jagdhornstr. 8 b) Kreillerstr. 170 c) Marmolatastr. 2 / Hermann-Schaller-Str. 2 d) Wasserburger Landstr. 265 e) Linnenbrüggerstr. 25
+- TOP 10.4.2.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose
+- TOP 10.5.2.: Protokoll der Projektgruppe „Respekt hat viele Gesichter“ vom 19.01.2023
+- TOP 10.5.3.: Trudering-Riem: Gynäkologische und geburtshilfliche Versorgung in München sicherstellen
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Urbanes Gärtnern in München StR-Anträge
+- TOP 10.6.2.: Baumentfernungen an Straßen und in öffentlichen Grünflächen a) Grünanlage Batschkastraße b) Straßenbegleitgrün Corinthstraße / Zehntfeldstraße
+- TOP 1.3.1.: (N) Beschädigungen an Gebäuden entlang Ortskern Trudering verhindern
+- TOP 4.3.2.: (N) Beschädigungen an Gebäuden entlang Ortskern Trudering verhindern
+- TOP 1.3.7.: (N) Protokoll zum Vorbereitungstermin für die Teilnahme am Bürgerfest am 6. Mai 2023
+- TOP 9.2.2.: (N) Protokoll zum Vorbereitungstermin für die Teilnahme am Bürgerfest am 6. Mai 2023
+- TOP 1.3.4.: (N) Feldbergstraße 95 / Wasserburger Landstraße 32, Truderinger Festplatz: „Rio Artistik - Artistik-Musical-Theater“ am 08. - 16.04.2023
+- TOP 1.3.5.: (N) Truderinger Straße 316 – 321: „Bürgerfest – Tag der Städtebauförderung" am 06.05.2023
+- TOP 7.1.4.: (N) Feldbergstraße 95 / Wasserburger Landstraße 32, Truderinger Festplatz: „Rio Artistik - Artistik-Musical-Theater“ am 08. - 16.04.2023
+- TOP 7.1.5.: (N) Truderinger Straße 316 – 321: „Bürgerfest – Tag der Städtebauförderung" am 06.05.2023
+- TOP 4.7.13.: (N) GU Stolzhofstraße – Bitte um sofortige Schadensbehebung und bessere Ausstattung
+- TOP 1.3.2.: (N) GU Stolzhofstraße – Bitte um sofortige Schadensbehebung und bessere Ausstattung
+- TOP 1.3.3.: (N) Umgehungsstraße Kirchtrudering jetzt provisorisch herstellen
+- TOP 1.3.6.: (N) Rappenweg 102 - Errichtung einer Mobilen Betonmischanlage, befristet bis 31.12.2028
+- TOP 4.7.14.: (N) Umgehungsstraße Kirchtrudering jetzt provisorisch herstellen
+- TOP 7.4.19.: (N) Rappenweg 102 - Errichtung einer Mobilen Betonmischanlage, befristet bis 31.12.2028
+- TOP 1.3.8.: (N) Brenner Nordzulauf: Zusammenfassung und Unterlagen zum Strukturierungsgespräch Parlamentarische Befassung Ausbauabschnitt vom 28.02.23
+- TOP 9.2.3.: (N) Brenner Nordzulauf: Zusammenfassung und Unterlagen zum Strukturierungsgespräch Parlamentarische Befassung Ausbauabschnitt vom 28.02.23
