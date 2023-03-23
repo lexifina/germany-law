@@ -1,0 +1,128 @@
+# 17. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-03-23T17:00:00+01:00
+- Ende: 2023-03-23T22:10:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5280
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5280
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=360531
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Geschlechtergerechtes Lichtenberg – Was tut der Bezirk zur Förderung von Geschlechtergerechtigkeit und Gleichstellung? - vertagt
+- TOP 4.2: Bebauungsplanverfahren 11-125 Wohnsiedlung Ilsestraße - vertagt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlvorschlag zur Berufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Vorhabenbezogener Bebauungsplan 11-126 VE – Planreife; Arbeitstitel: Sewanstraße 259 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Hybride Ausschusssitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Videostream der BVV im Internet mit Sprungmarken anbieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Kein Schulessen wegwerfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Weitere Flächen für das Sportforum schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Planung zur schrittweisen Nachnutzung des HTW-Geländes konkretisieren - mit echter Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Parkraum mitentwickeln - Quartiersgarage in Planung einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Verkehrssicherheit neu denken - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Zielvereinbarung für Bäume in Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Hundefreilauffläche hinter dem Ringcenter schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Umweltengagement anerkennen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Fahrradstraße in Alt-Hohenschönhausen mit Verkehrsberuhigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Erhaltungssatzungen überprüfen und modernisieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Zukunftsort für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Hand in Hand: Neue Kitaplätze und weitere soziale Infrastruktur - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Für eine bessere Akustik im Ratssaal - Ausschussräume barrierearm gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Lichtenberger Kindertagesstättenentwicklungsplan 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Schüler*innen können mitgestalten - Förderung und Transparenz von Beteiligungsmöglichkeiten an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Lichtenberger Apotheken stärken - überwiesen
+- TOP 5.22: Verkehrsberuhigung für den Kiez um die Charlottenstraße - überwiesen
+- TOP 5.23: Stadtplanung und Milieuschutz personell stärken - überwiesen
+- TOP 5.24: Bessere finanzielle Ausstattung für den Bereich "Aufsuchende Lichtenberger Sozialberatung" - überwiesen
+- TOP 5.25: Gedenkfeier für einsam verstorbene Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Kultursommer verstetigen - überwiesen
+- TOP 5.27: Kurse für Gebärdensprache an der VHS Lichtenberg - überwiesen
+- TOP 5.28: Lärmschutzwände Hauffstraße - überwiesen
+- TOP 5.29: Taubenschlag/Taubenschläge für Lichtenberg - überwiesen
+- TOP 5.30: Kinder-BVV auch in dieser Wahlperiode - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.31: Bedarfsgerechte stationäre Versorgung von Kindern und Jugendlichen mit geistiger Behinderung sowie psychisch erkrankter Menschen im Evangelischen Krankenhaus Königin Elisabeth Herzberge stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.32: Kinder- und Jugendbeteiligung bei Auswahlverfahren "Kunst am Bau" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.33: Politische Bildungsarbeit zu den U18-Wahlen stärken und sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.34: Tempo 30 in der Herzbergstraße zwischen Möllendorffstraße und Vulkanstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.35: Öffentliche Informationsveranstaltung zum steigenden Verkehrsaufkommen im Dorf Wartenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.36: Mobilitätsstationen in Wohnquartieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.37: Straßenentwässerung in der Marie-Elisabeth-von-Humboldt-Straße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.38: Bäume am Paul-und-Paula-Ufer in der Rummelsburger Bucht ausreichend versorgen und neu aufforsten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.39: Verkehrssicherheit an der Kreuzung Ribnitzer Straße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.40: Verlässliche Perspektive für das Dong-Xuan-Center, seine Gewerbemieter und weitere Gewerbebetriebe im Gewerbegebiet Herzbergstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.41: Radinfrastruktur in der Waldowallee schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.42: Für eine gemeinwohlorientierte Wohnungspolitik: Dauerhaft belegungsgebundenen Wohnraum schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.43: Treffpunkte und Begegnungsorte (Pavillons) für Jugendliche in Neu-Hohenschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.44: Streckenbezogene Temporeduzierung zum Schutz vor Lärm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.45: Verlängerung der Tram 18 nach Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Schnelle Lösung für Radfahrende auf der Gehrenseebrücke! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.47: Rettung für die Suchtberatung Hohenschönhausen / Stiftung SPI - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.48: Fahrradsituation am Bahnhof Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.49: Öffentliche Ladestation für E-Autos - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.50: Verkehrsberuhigung im Bereich Kyllburger Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.51: Hecke am Tramgleis Landsberger Allee/ Zechliner Straße zurückschneiden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.52: Kartbahnbetrieb in Lichtenberg sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.53: Mehr Fahrradbügel auf der Lincolnstraße aufstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.54: Fußgängerüberweg in der Rüdigerstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.55: Öffentlichen Raum stärken: Abgebaute Bänke in der Ribnitzer Straße/Zingster Straße ersetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.56: Soziale Infrastruktur sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.57: Sportgeräte auf dem Gelände neben der KIEZSPINNE instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.58: Öffentliche Grünanlage Sewanstraße 44-54 / Michiganseestraße 1-5 entsiegeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.59: Verkehrssicherheit in der Lückstraße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.60: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für das Gelände zwischen Allendorfer Weg, Rhinstraße, Landsberger Allee und Ferdinand-Schultze-Straße im Bezirk Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.61: Bebauungsplan 11-180B - frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs.1 BauGB; Arbeitstitel: Vulkanstraße / Herzbergstraße nördlich - überwiesen
+- TOP 5.62: Vorhabenbezogener Bebauungsplan 11-126 VE – öffentliche Auslegung, erneute eingeschränkte Behördenbeteiligung, Durchführungsvertrag, Anzeigeverfahren; Arbeitstitel: Sewanstraße 259 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.63: Bebauungsplan XXII-43b - Einstellung; Arbeitstitel: Orankestraße 98-100, Konrad-Wolf-Straße 24-27 und Roedernstraße 1-3 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.64: Bebauungsplan 11-9b – Einstellung; Arbeitstitel: Konrad-Wolf-Straße 45/46 - überwiesen
+- TOP 5.65: Bezirkliche Projekte zur Umsetzung des Nachbarschaftsprogrammes (Integrationsfonds) 2022/2023 - überwiesen
+- TOP 5.66: Fortsetzung der partnerschaftlichen Zusammenarbeit mit Hoan-Kiem (Vietnam) und Abschluss der Städtepartnerschaftsvereinbarung 2022 – 2025 - überwiesen
+- TOP 5.67: Fortsetzung der partnerschaftlichen Zusammenarbeit mit dem Bezirk Bialoleka von Warschau und Abschluss der Städtepartnerschaftsvereinbarung 2023 – 2024 - überwiesen
+- TOP 5.68: Abberufungen Mitglieder im Lichtenberger Frauenbeirat - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 7.1: Lebensqualität am Nöldnerplatz verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Nachwahl eines Bezirksverordneten zum Mitglied in den Krankenhausbeiräten Königin Elisabeth Herzberge und Sana Klinikum - gewählt
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Freie Schulträger stärker unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wassersport und Schwimmunterricht sichern - Eine Schnellbauschwimmhalle für Lichtenberg und Hohenschönhausen - überwiesen
+- TOP 9.3: Schutz unserer Muttersprache - gendergerechte Sprache abschaffen - in der BVV abgelehnt
+- TOP 9.4: Bezirkliche Wohnungsbörse für obdachlose Menschen - mit Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Attraktivität der Kinder- und Jugendfreizeiteinrichtungen in Lichtenberg steigern - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 11.1: Ausschüsse der IX. Wahlperiode nach der vollständigen Wiederholungswahl vom 12.02.2023 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Rahmenplan für den Norden Hohenschönhausens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Queeres Beratungszentrum in Lichtenberg einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Informationen und Hilfsangebote in verschiedenen Sprachen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bezirkliche Position in Stadtentwicklungspläne einbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Einschulungsbereiche in Hohenschönhausen anpassen - Schulweg dadurch sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Die Gesundheit von Kindern im Kita-Alter mit einem Kindergesundheitsgipfel in den Fokus rücken - überwiesen
+- TOP 13.2: Gesunde Wohn- und Arbeitsverhältnisse im Quartier Gehrensee-/Wollenberger Straße gem. B-Plan 11-165 - in der BVV abgelehnt
+- TOP 13.3: Städtepartnerschaften regelmäßig prüfen - überwiesen
+- TOP 13.4: Schulwegsicherheit an der Hauptstraße verbessern - vertagt
+- TOP 13.5: Safe Spaces in Lichtenberg schaffen - vertagt
+- TOP 13.6: Beratung für Opfer rechter Gewalt - vertagt
+- TOP 13.7: Schluss mit unproportionaler Verteilung von Asylbewerbern in Berliner Bezirken - Zuweisungs-Moratorium für Lichtenberg - vertagt
+- TOP 13.8: Keine Ausgrenzung von Fraktionen und Parteien - Arbeitsgruppen demokratisch zusammensetzen - vertagt
+- TOP 13.9: Wohnungsbaupotenziale im Rahmen von B-Planverfahren an verbindlich zugesagte Ressourcen für Schulen und Kitas knüpfen - vertagt
+- TOP 13.10: Resolution - Ausschreitungen, Randale und Gewalt zum Jahreswechsel 2022/2023 - vertagt
+- TOP 13.11: Schüler*innenHaushalte im Doppelhaushalt 2024/25 - vertagt
+- TOP 13.12: VHS-Kochkurse für die pflanzliche Ernährung - vertagt
+- TOP 13.13: Kein Aquarium für Lichtenberg! - vertagt
+- TOP 13.14: Baumfällungen durch die Deutsche Bahn regulieren - vertagt
+- TOP 14: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 14.1: Bebauungsplan 11-158 - Behördenbeteiligung; Arbeitstitel: Zwieseler Straße/Nord - vertagt
+- TOP 15: Geschäftliche Mitteilungen des Vorstandes - erledigt
