@@ -1,0 +1,17 @@
+# Transparenzregistereinsichtnahmeverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Einsichtnahme in das Transparenzregister](0001.md)
+- [§ 2 Registrierung im Transparenzregister, Registrierungsdaten und Nutzer](0002.md)
+- [§ 3 Identitätsnachweis bei Registrierung oder Einsichtnahme](0003.md)
+- [§ 4 Pflicht zur Mitteilung bei Änderung der Registrierungsdaten](0004.md)
+- [§ 5 Antrag auf Einsichtnahme](0005.md)
+- [§ 6 Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden, Gerichte und Stellen nach § 2 Absatz 4 des Geldwäschegesetzes](0006.md)
+- [§ 7 Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete](0007.md)
+- [§ 8 Datenfernübertragung](0008.md)
+- [§ 9 Protokollierung der Einsichtnahme](0009.md)
+- [§ 10 Verarbeitung von Daten zur Gebührenabrechnung](0010.md)
+- [§ 11 Antrag auf Beschränkung der Einsichtnahme](0011.md)
+- [§ 12 Identitätsnachweis bei Stellung des Antrags auf Beschränkung der Einsichtnahme](0012.md)
+- [§ 13 Beschränkung der Einsichtnahme](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
