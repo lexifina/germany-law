@@ -26,12 +26,12 @@
 | – in der Republik Korea: | Byeonhosa, Lawyer |
 | – in Malaysia: | Peguambela&Peguamcara,Advocate and Solicitor |
 | – in Marokko: | Mohamin |
-| – in Mazedonien: | Advokat |
 | – in Mexiko: | Abogado |
 | – in Moldau: | Avocat |
 | – in Namibia: | Legal Practitioner, Advocate,Attorney |
 | – in Neuseeland: | Barrister, Solicitor |
 | – in Nigeria: | Legal Practitioner |
+| – in Nordmazedonien: | Advokat |
 | – in Pakistan: | Wakeel, Advocate |
 | – in Panama: | Abogado |
 | – in Peru: | Abogado |
