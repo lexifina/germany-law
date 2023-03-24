@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-24T14:00:00+01:00
+- Ende: 2023-03-24T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24384
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24384
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die gemeinsame Sitzung des Ordnungs- und Verkehrsausschusses und der Bezirksvertretung 1 vom 17.08.2022 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 24.02.2023 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Lagedarstellung der Polizeiinspektion Mitte - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Strategie zum Parkraummanagement - Empfehlung mehrheitlich abgelehnt
+- TOP 4.4: Fortführung Umsetzung stationsbasierter Sharing-Angebote in der Innenstadt (Ausbaustufe III) - abweichend beschlossen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.6: Beteiligungsformat zu MobilitätStationen im Förderprojekt Multi-Mo-DUS - zur Kenntnis genommen
+- TOP 5: Anfragen
+- TOP 5.1: Zukunft des Musikpavillons der früher am Carschhaus stand - Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 5.2: Platz an der Mariensäule - Anfrage der FDP-Fraktion - schriftlich beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anträge
+- TOP 6.1: Erneuerung der nördlichen Seite der Liesegangstraße hinter dem Galeria-Warenhaus - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 6.2: Aufwertung des Liesegang-Denkmals und des Standortes - überfraktioneller Antrag - abweichend beschlossen
+- TOP 6.3: Verbesserung der Fußgängerführung auf dem Worringer Platz - überfraktioneller Antrag - zurückgezogen
+- TOP 6.4: Ladezone am Carlsplatz - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 6.5: Veranstaltungen im Glashaus auf dem Worringer Platz - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Umgestaltung des Platzes vor der St. Adolphus-Kirche (Kaiserwerther Straße); Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/010/2023 - zur Kenntnis genommen
+- TOP 7.2: Nächtliche Ruhestörung im Gebiet der Rather Straße 23c-25; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/023/2023 - zur Kenntnis genommen
+- TOP 7.3: Banner für das Goethe-Museum; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/025/2023 - zur Kenntnis genommen
+- TOP 7.4: Reinigungsplan für die Immermannstraße; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/029/2023 - zur Kenntnis genommen
+- TOP 7.5: Verkehrssicherheit Wege im Berty-Albrecht-Park; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/022/2023 - zur Kenntnis genommen
+- TOP 7.6: Verbreiterung des Fußweges Oststraße 57-63; Beschluss der Bezirksvertretung 1 vom 04.03.2022; BV1/051/2022 - zur Kenntnis genommen
+- TOP 7.7: Spielplätze im Maurice-Ravel-Park; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/021/2023 - zur Kenntnis genommen
+- TOP 7.8: Größere Mülleimer auf der Immermannstraße; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/030/2023 - zur Kenntnis genommen
+- TOP 8: Verfügungsmittel der Bezirksvertretung 1
+- TOP 8.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Ballspielverein 04 e.V. - einstimmig beschlossen
+- TOP 8.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Motahedan Düsseldorf/The Iranian Coalition of Düsseldorf - mehrheitlich beschlossen
+- TOP 8.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Gedok A46 e.V. - einstimmig beschlossen
+- TOP 8.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an den Förderverein der Max-Schule - einstimmig beschlossen
