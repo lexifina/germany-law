@@ -68,7 +68,7 @@ Steuersachen](0006.md)
 - [§ 21 Aufzeichnungspflicht](0021.md)
 - [§ 22 Geschäftsprüfung](0022.md)
 - [§ 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen](0023.md)
-- [§ 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer](0024.md)
+- [§ 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11](0024.md)
 - [§ 25 Haftungsausschluss, Haftpflichtversicherung](0025.md)
 - [§ 26 Allgemeine Pflichten der Lohnsteuerhilfevereine](0026.md)
 
