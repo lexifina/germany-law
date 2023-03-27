@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (17. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2023-03-27T17:00:00+02:00
+- Ende: 2023-03-27T20:07:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWi5Zcce3LM3odXil-N8bI4
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2610
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmWQeWQfT-lwO8HEusvutmfNR3pMg-gcp3VNQwmcJ3T/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXlL1U25dC3sLc1MBJ52vQZMA3bzwwPjuhvfH_3zd641/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Bestellung von Schriftführerinnen - Einstimmig
+- TOP 5: Ergebnis Organisationsuntersuchung 2021-2022 - Einstimmig
+- TOP 6: 16. Änderung der Hauptsatzung der Stadt Rheda-Wiedenbrück vom 09.11.1999 - 40 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Aufhebung der Wettbürosteuersatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 8: 15. Änderung der Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück - 36 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 9: Beteiligungsbericht 2020 nach § 117 GO NRW - Einstimmig
+- TOP 10: Kenntnisnahme der Übertragung von Ermächtigungen nach § 22 KomHVO NRW - Kenntnisnahme
+- TOP 11: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 120102 Breitbandausbau 2. Call - Einstimmig
+- TOP 12: Finanzcontrolling - Managementberichte in 2023 - Kenntnisnahme
+- TOP 13: Freigabe Zuschuss an das Museum Wiedenbrücker Schule - Absetzung bei 39 Ja-Stimmen, 2 Nein-Stimmen, 1 Enthaltung
+- TOP 14: Förderprogramm „Aktiv für Klimaschutz in Rheda-Wiedenbrück“ - Einstimmig
+- TOP 15: EAW: Sanierung und Erweiterung des alten Betriebsgebäudes - 41 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 16: Betrieb Bauhof: Halterhaftung und resultierende Pflichten - Stellenplananpassung - Einstimmig
+- TOP 17: 100. Änderung des Flächennutzungsplanes Bebauungsplan Nr. 426"Waldsiedlung-Ost a) Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligungen gem. § 3 Abs. 1 Baugesetzbuch und der Beteiligung der Behörden gem. § 4 Abs. 1 Bauge- setzbuch sowie der öffentlichen Auslegung (Offenlage) gem. § 3 Abs. 2 Baugesetzbuch und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch b) Feststellungsbeschluss 100. Änderung des Flächennutzungsplanes c) Satzungsbeschluss Bebauungsplan Nr. 426 „Waldsiedlung-Ost“ - Einstimmig
+- TOP 18: 91. Änderung des Flächennutzungsplans „Am großen Moor“ a) Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligungen gem. § 3 Abs. 1 Baugesetzbuch und der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB sowie der öffentlichen Auslegung (Offenlage) gem. § 3 Abs. 2 BauGB und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB b) Feststellungsbeschluss 91. Änderung des Flächennutzungsplanes - Einstimmig
+- TOP 19: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 20: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 21: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 22: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 23: Erklärung von Ausschließungsgründen
+- TOP 23.1: Antrag der Fraktion move zum Grundstückserwerb Dianalust - 5 Ja-Stimme(n), 35 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 24: Vertragsangelegenheiten - 36 Ja-Stimme(n), 2 Nein-Stimme(n), 5 Enthaltung(en)
+- TOP 25: Schöffenwahl 2023 - Aufstellung der Vorschlagsliste von Vertrauenspersonen zur Bildung des Schöffenwahlausschusses für den Amtsgerichtsbezirk Rheda-Wiedenbrück - Einstimmig
+- TOP 26: Schenkungsangelegenheit - 41 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 27: EAW: Finanzierungskonzept Klärschlammkooperation OWL - Einstimmig
+- TOP 28: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2021 - Einstimmig
+- TOP 29: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2023-2027 - 41 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 30: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 31: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 32: Dringende Anfragen und Anregungen
