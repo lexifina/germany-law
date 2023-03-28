@@ -1,0 +1,8 @@
+# TOP 5.1: Haushaltsüberschreitung Haushaltsjahr 2023; 1.6406.9590 - Gemeindestraßen - Fischerg., Kaiserstr., Königsplatz, Luitpoldstr., Fußgängerzone, Baunebenkosten: Tiefbau,Neugestaltung der Innenstadtstraßen; Wettbewerb
+
+- Sitzung: Sitzung des Haupt-, Finanz- und Kulturausschusses (2023-03-28)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/31504
+- Ergebnis: beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/consultations/11570
