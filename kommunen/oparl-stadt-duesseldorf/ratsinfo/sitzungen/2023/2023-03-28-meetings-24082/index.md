@@ -1,0 +1,59 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-28T17:00:00+02:00
+- Ende: 2023-03-28T20:00:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24082
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24082
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00480293.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00480293.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00480293.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Integriertes städtebauliches Entwicklungskonzept (ISEK) Garath 2.0 - vertagt
+- TOP 4.4: Strategie zum Parkraummanagement - Empfehlung abweichend beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Spielmannszug Blau-Weiß Düsseldorf-Garath 1973 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: "Sonnenradfest" - 2023 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Sondersitzung der Bezirksvertretung 10 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den SkFM Düsseldorf e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Bezirklicher Bauunterhalt 2023 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2023 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Forstverwaltung Schlosshof Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Versiegelte Flächen im Einzugsgebiet des Pumpwerks Urdenbacher Acker - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Personelle Ausstattung an den Schulen im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.6: Besondere Hilfen für die Schulen im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Abenteuerspielplatz Garath - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.9: Sachstand des Vorgangs Ankauf und die Aufstellung des Kunstwerkes „Wächter“ von Anatol Herzberg, Beschluss der BV 10 vom 29.09.2022 - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Beseitigung der Müllhalden Thomas-Dehler-Straße 1-5 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Bearbeitung Grünordnungsplan II für den Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.3: Einladung Amt für Umwelt- und Verbraucherschutz zum Thema Klimaanalyse 2000 und Planungshinweiskarten - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.4: Sachstand Planung und Umsetzung Radschnellweg - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Anlage von Pflanzbeeten in der Dresdener Straße 50 - 58 - Informationsvorlage zum Beschluss BV10/199/2021 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.2: Grünfläche zwischen Frankfurter und Rostocker Straße - Informationsvorlage zum Beschluss BV 10/007/2023 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 8.3: Umlaufschranke Emil-Barth-Straße - Informationsvorlage zum Beschluss BV10/019/2023 vom28.02.2023 - - zur Kenntnis genommen
+- TOP 8.4: Dynamisches Fahrgastinformationssystem am S-Bahnhof Hellerhof - Informationsvorlage zum Beschluss BV10/021/2023 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
