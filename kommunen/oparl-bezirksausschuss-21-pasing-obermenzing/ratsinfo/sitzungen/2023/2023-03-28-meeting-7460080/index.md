@@ -1,0 +1,151 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2023-03-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7460080
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7460080
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Anbringung eines Verkehrsspiegels am Kreuzungspunkt Rebhuhnweg / Menzinger Straße; Spielplatz / Fußballplatz am Immermannplatz (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.2.: Sachstand bzgl. geplanter Sperrung Donizettiweg (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.3.: Gehwegparken in der Ebenböckstraße zwischen Bäckerstraße und Georg-Habel-Straße (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.4.: Wertstoffinsel Paosostraße; Einrichtung eines eingeschränkten Haltverbots (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.5.: Warum gibt es kein Kino in Pasing? (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.6.: Verkehrsführung Paosostraße (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.7.: Verkehrssituation Haberlandstraße (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.8.: Fahrradverkehr Unterführung Offenbachstraße (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.9.: "Renaturierung" Donizettiweg; Reifenschlitzer, Anhängerfriedhof (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.10.: Bezirkssportanlage / unbedingter Erhalt der Menzinger Erdbeerenwiese (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 2.2.11.: Wiederherstellung der Gehwegflächen mit Betongehwegplatten in der Mendelssohnstraße; Straßenreinigung im Stadtteil
+- TOP 2.2.12.: Baummaßnahme Am Krautgarten 17
+- TOP 2.2.13.: Parkplatzsituation Institutstraße, Hillernstraße und Steinerweg / Einführung Parklizenzbereich
+- TOP 2.2.14.: Parkprobleme im Österreicherviertel durch abgestellte Fahrzeuge einer Autovermietung
+- TOP 2.2.15.: Verkehrssituation Pasinger Marienplatz; Linienverkehr
+- TOP 2.2.16.: Bushaltestelle 130, Veldener Straße von Pasing kommen
+- TOP 2.2.17.: S-Bahnhof Obermenzing als Müllhalde
+- TOP 2.2.18.: Auslage von Steuerformularen in den Rathäusern und Bürgerbüros
+- TOP 2.2.19.: Belange im Münchner Westen: Straßen- und (Rad)-wegverschmutzung; Neubaugebiet Dreillingsweg; Wasserentnahme durch Brauerei
+- TOP 2.2.20.: Einfriedungen: Straßenseitige Zäune blickdicht mit Kunststoffstreifen und über 1.50 m Höhe
+- TOP 2.2.21.: Baumfällungen und Entfernung von Gebüschen
+- TOP 2.2.22.: Zusätzliche Bänke am Sonnensandwegerl zwischen Paosostraße und Maria-Eich-Straße
+- TOP 2.2.23.: Kunstprojekt in Obermenzing / Siedlung Neulustheim
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Heerstr. 21: 1 Fichte
+- TOP 3.1.2.: Longinusstr. 11: 1 Spitzahorn
+- TOP 3.1.3.: Bergsonstr. 47: Baumbestandsplan
+- TOP 3.1.4.: Apfelkammerstr. 6: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.5.: Fasanenstr. 6: Freiflächengestaltungsplan
+- TOP 3.1.6.: Aubinger Straße: Freiflächengestaltungsplan
+- TOP 3.1.7.: Prangerlstr. 1: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.8.: Suessenguthstr. 8: Baumbestandsplan
+- TOP 3.1.9.: Böcksteiner Str. 35b: 1 Fichte
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 4.1.: Protokoll Gespräch mit der DB am 09.03.23 (Uhr am Pasinger Bahnhofsplatz)
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Bauseweinallee
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Theater "Viel Lärm um Nichts" Gesprächsformat "Obacht, Menschen! +2" am 26.03.2023 2.635,00 Euro, Az.: 0262.0-21-0378 (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 10.2.: (E) Stadtbezirksbudget Hidalgo gGmbH Street Art Song im Rahmen des Kunstlied-Festivals HIDALGO am 02.09.2023 1.500,00 Euro, Az.: 0262.0-21-0370 (Vertagung aus der BA-Sitzung vom 07.03.23)
+- TOP 10.3.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-21-0381
+- TOP 10.4.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-West Anschaffung eines Ortungsgerätes "Aquaeye" 2.400,00 Euro, Az.: 0262.0-21-0383
+- TOP 10.5.: (E) Stadtbezirksbudget Gebirgstrachtenerhaltungsverein D&#039;Würmtaler Stamm e.V. München-Pasing Maibaumfest 2023 am 01.05.2023 5.113,75 Euro, Az.: 0262.0-21-0384
+- TOP 11.: Anhörungen
+- TOP 11.1.: Aufhebung der Radwegbenutzungspflicht in der Planegger Straße zwischen Weinbergerstraße und Ortsende München; verkehrsrechtliche Anordnung
+- TOP 11.2.: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung, Landschaftspark West und städtische Baumschule; Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 14.06.23
+- TOP 11.3.: Veranstaltung auf öffentlichem Verkehrsgrund, in Grünanlagen und auf Privatgrund; Blutenburglauf am 23.07.23
+- TOP 11.4.: Bergsonstr. 47: Neubau eines Doppelhauses mit Wintergarten und Garage
+- TOP 11.5.: Apfelkammerstr. 6: Neubau eines Mehrfamilienhauses mit Doppelparkergaragen
+- TOP 11.6.: Fasanenstr. 6: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 11.7.: Aubinger Straße: Neubau eines Lagers / Bürogebäudes
+- TOP 11.8.: Prangerlstr. 1: Neubau eines Mehrfamilienhauses (5 WE) und 2 Garagen
+- TOP 11.9.: Tanz. Die Invasion - 4.5 - 28.10.2023; 28.09. - 30.09.23 Freiflächen am Kuvert-Fabrik Spielplatz, ggü. Josef-Felder-Str. 25 (Nähe Pasing Arcaden)
+- TOP 11.10.: Suessenguthstr. 8: Neubau einer Doppelhaushälfte
+- TOP 11.11.: Bodenseestr. 84: 1 Digital-Board-Wandanlage (10,5m²), Standbilder im 10 Sek.-Takt
+- TOP 11.12.: Landsberger Str. 476: 1 Digital Board Wandanlage (15 m² / Standbilder im 10 Sek.-Takt)
+- TOP 11.13.: Verdistr. 123: 1 Digital Board Wandanlage (10,5 m², 1-seitig freistehend / Standbilder im 10 Sek.-Takt)
+- TOP 11.14.: Erinnerungsverfahren Ufersanierung An der Würm; Zuweg zwischen Betzenweg und Dorfstraße
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: Interfraktioneller Antrag: Verlegung von Parkplätzen von der Promenade
+- TOP 12.2.: Interfraktioneller Antrag: Genehmigung eines Standplatzes für den Offenen Bücherschrank im Neubaugebiet Paul-Gerhardt-Allee im Bereich der neu geplanten Mobilitätsstation
+- TOP 12.3.: CSU, Anfrage: Sachstand Bahnüberquerung Brunhamstraße
+- TOP 12.4.: SPD, Antrag: Photovoltaik auf dem Pasinger Rathaus
+- TOP 12.5.: SPD, Antrag: Verbesserung der Parkplatzsituation in der Spiegelstr. 1
+- TOP 13.: Unterrichtungen
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Vollversammlung vom 01.02.23: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 14.2.: Sportausschuss vom 08.02.23: (U) Errichtung eines Actionsportzentrums an der Erna-Eckstein-Straße im 21. Stadtbezirk Pasing-Obermenzing 1. Bauabschnitt, Sanierung Eggenfabrik Projektkosten 12.210.000 Euro (prognostizierte Ausführungskosten) davon Ersteinrichtungskosten 60.000 Euro Ausführungsgenehmigung
+- TOP 14.3.: Vollversammlung vom 01.03.23: Urbanes Gärtnern in München StR-Anträge
+- TOP 14.4.: Ausschuss für Stadtplanung und Bauordnung vom 08.03.23: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 14.5.: Ausschuss für Stadtplanung und Bauordnung vom 08.03.23: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 14.6.: Ausschuss für Stadtplanung und Bauordnung vom 08.03.23: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Stadtbezirksbudget; Verwendungsnachweise für die Aktionen - Neustart Pasinger Vorwiesn; ARGE der Pasinger Vereine - 100 Jahre Burschenverein Obermenzing; Burschenverein Obermenzing e.V. - Tanz. Die Invasion 29.09. - 01.10.22, Zirkus Pumpernudl 21.04.-23.04.22; Culture Clouds e.V. - Anschaffung von Übungspuppen; Freunde der Freiwilligen Feuerwehr Obermenzing e.V. - Street Art Song; HIDALGO gGmbH - Krippenspiel; Himmelfahrtskirche Pasing - Kasperltheater "Die Weihnachtswunschlaterne"; Elternbeirat Kindergarten Richard-Riemerschmid-Allee - Demenzfreundlicher Garten; Wohlbedacht e.V. - Ersatz defekte Heizungsanlage; D`Würmtaler Menzing e.V.
+- TOP 15.1.1.2.: Stadtbezirksbudget; Antrag Pasinger Fabrik bzgl. Demokratie-Woche
+- TOP 15.1.1.3.: Informationsschreiben BA 01/2023: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen
+- TOP 15.1.1.4.: Informationsschreiben BA 02/2023: Grundsätzliches zur Abrechnung von Aufwandsentschädigungen; Bereitstellung der Jahresfinanzmeldung
+- TOP 15.1.1.5.: Öffentlichkeitsbeteiligungskonzept der LHM; Besprechung am 21.03.23
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Baumpflanzung an der Kreuzung Bodenseestraße - Lortzingstraße
+- TOP 15.1.2.2.: Bürgerinformation zu U-Bahn-Baumaßnahmen
+- TOP 15.1.2.3.: Uferbefestigung Würm
+- TOP 15.1.2.4.: Erinnerungsverfahren Lortzingstraße
+- TOP 15.1.2.5.: Neubau der Lichtsignalanlage Dorf- / Pippingerstraße
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: Verbesserung des Verkehrs im Münchner Westen
+- TOP 15.1.3.2.: Einrichtung einer Querungsstelle über die Lortzingstraße in Höhe der Bushaltestelle Scapinellistraße
+- TOP 15.1.3.3.: Sanierung der Tiefgarage Fischer-von-Erlach-Straße; Parksituation
+- TOP 15.1.3.4.: Kaspar-Kerll-Straße; Raser und Lkw
+- TOP 15.1.3.5.: Arbeiten im Straßenraum; Paosostr. 77, Umsetzung Wasserleitung – Vollsperre, Terminverschiebung auf 03.04. - 26.05.23
+- TOP 15.1.3.6.: Standortbegehung Ladesäulen am 30.03.2023
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Vollzug der Baumschutzverordnung - Adelsbergstr. 13 - Paul-Hösch-Str. 16 - Schlehbuschstr. 28 - Sedelhofstr. 11 - Sanderplatz 13 - August-Exter-Str. 36 - Blumenauer Str. 69 - Am Krautgarten 17 - August-Exter-Str. 26 - Stücklenstr. 4
+- TOP 15.1.4.2.: "Wohnen ohne Lärm", Zuschussprogramm für Lärmschutzmaßnahmen an Wohngebäuden an lauten Straßen
+- TOP 15.1.5.: Kommunalreferat
+- TOP 15.1.5.1.: Freiwerdende Räume des ASZ Bäckerstraße – Stärkung der Volkshochschule Pasing
+- TOP 15.1.5.2.: Wertstoffcontainerstandorte; Übersicht über Entleerungen
+- TOP 15.1.6.: Sozialreferat
+- TOP 15.1.6.1.: Nachtspaziergänge (Vertagung aus der BA-Sitzung am 07.03.23)
+- TOP 15.1.7.: Referat für Arbeit und Wirtschaft, SWM, MVG
+- TOP 15.1.7.1.: Baumaßnahmen der SWM; Stromprojekt Oldenbourgstraße
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: DB: Bahnhof Pasing; Beschriftung und Beleuchtung
+- TOP 15.2.2.: DB: Eisenbahnübergang Paosostraße km 10,074 Strecke 5504 / 5540, Anwohnerinfo Immissionsschutz
+- TOP 15.2.3.: Schreiben BA 17 Obergiesing-Fasangarten: "Es brennt; Missstände an den Grundschulen"
+- TOP 15.2.4.: Schreiben Regierung von Oberbayern vom 12.03.23: Antwort auf Schreiben der Bewohner*innen der Gemeinschaftsunterkunft Landsberger Str. 412
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 2.2.24.: (N) - Donizettiweg - Lkw-Anhängerfriedhof
+- TOP 2.2.25.: (N) - Förderung von Krippen und Kitas
+- TOP 2.2.26.: (N) - Parken im Bereich Tiefgarageneinfahrt Ernsbergerstr. 5 a
+- TOP 2.2.27.: (N) - Baustelle Otto-Engl-Platz / Weinbergerstraße
+- TOP 11.15.: (N) - Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2023 - 2027
+- TOP 15.1.2.6.: (N) - Uhr Pasinger Bahnhof
+- TOP 15.1.7.2.: (N) - Baumaßnahmen der SWM; Stromprojekt Pläntschweg
+- TOP 11.16.: (N) - Spiegelstr. 7; Nachtrag in die Denkmalliste
+- TOP 2.2.28.: (N) - Wettergeschützte Unterstände und sympathische Treffmöglichkeiten für Jugendliche / alle Menschen
+- TOP 2.2.29.: (N) - Fußgänger-Ampel Pippinger Straße / Dorfstraße / Breiter Weg
+- TOP 15.1.3.7.: (N) - Neubau Lichtsignalanlage Dorfstraße / Pippinger Straße, Behinderung des Baubeginns
+- TOP 16.1.1.: - BA-Sitzung 02.05.23, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 13.06.23, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.1.2.: - Bürgerversammlung Bezirksteil Obermenzing, 25.04.23, 19.00 Uhr, Aula Grandlschule, Grandlstr. 5
