@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-28T17:00:00+02:00
+- Ende: 2023-03-28T19:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24420
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24420
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Ergänzungsantrag zur Vorlage "Sofortmaßnahmen am Angermunder Baggersee für die Sommersaison 2022 (BV5/071/2022)" - einstimmig beschlossen
+- TOP 6: Bezirkssportanlage Angermund - Umbau Kunststoffspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 7: Strategie zum Parkraummanagement - Empfehlung mehrheitlich beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 8: Maßnahmen zur nachhaltigen Verkehrssicherheit ,,Am Mühlenacker" - beantwortet
+- TOP 9: Änderung der Zufahrtsregelung vom Heinrich-Walbröhl-Weg auf die Duisburger Landstraße - beantwortet
+- TOP 10: Fahrbahnmarkierung bei rechts-vor-links-Vorfahrt und Geschwindigkeitskontrolle auf der Kittelbachstraße - beantwortet
+- TOP 11: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? - vertagt
+- TOP 12: Geschwindigkeitsmessung Kreuzung Nagelsweg/Neusser Weg - beantwortet
+- TOP 13: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - vertagt
+- TOP 14: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg - vertagt
+- TOP 15: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 16: Wäre die Beteiligung der Bezirksvertretung 5 beim Neubau des zweiten Untergeschosses Am Mühlenkamp 15 erforderlich gewesen? - beantwortet
+- TOP 17: Bau von Ladestationen in autofreien Zonen - vertagt
+- TOP 18: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? Erneute Anfrage zu den Kreuzungsbereichen Mühlenacker/Klosekamp und Wittgatt/Fritz-Köhler-Weg - vertagt
+- TOP -: Neue Anfragen
+- TOP 19: Bebauungsplan 05/009 "Kalkumer Höfe" - Sachstand und Notwendigkeit - vertagt
+- TOP 20: Gefährdung der Öffentlichkeit durch die Ruine am Ritterskamp - Wann kommt die Grünfläche und der Spielplatz? - beantwortet
+- TOP 21: Open-Air-Gelände auf dem Messeparkplatz P1 - beantwortet
+- TOP 22: Wann gibt es endlich einen gut sortierten und angebotsstarken Supermarkt in Kaiserswerth? - beantwortet
+- TOP 23: Aufforstung Wittlaer Bockum nach dem Verlust von 8130 qm Wald Airport City West - beantwortet
+- TOP 24: Standort Plattbodenschiff - beantwortet
+- TOP -: Anträge
+- TOP 25: Ruine Am Ritterskamp als Sofortmaßnahme vor unbefugtem Betreten sichern - einstimmig beschlossen
+- TOP 26: Schilder Kinderstadtteilkarten - mehrheitlich abgelehnt
+- TOP 27: Jahresempfang der Bezirksvertretung 5 - mehrheitlich abgelehnt
+- TOP 28: Flughafen Düsseldorf: BV 5 bittet den Rat der Landeshauptstadt Düsseldorf: Keine Beschlüsse "für die Galerie" - Menschen im Düsseldorfer Norden ernst nehmen - mehrheitlich beschlossen
+- TOP 29: Verlängerung der Öffnungszeiten der Stadtteilbücherei Kaiserswerth - zurückgezogen
+- TOP 30: Bunte Bänke für Sichtbarkeit und Toleranz - einstimmig beschlossen
+- TOP -: Informationsvorlage
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Verschiedenes
