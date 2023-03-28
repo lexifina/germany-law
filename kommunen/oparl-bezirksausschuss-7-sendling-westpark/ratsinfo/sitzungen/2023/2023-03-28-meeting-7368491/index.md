@@ -1,0 +1,161 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-03-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368491
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368491
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Basketballkorb am Aduni Spielplatz
+- TOP 6.2.: Fahrbahnabsenkung Martin-Behaim-Str.
+- TOP 6.3.: Umbau Treppe Zielstattstraße/Steinerstraße
+- TOP 6.4.: Bauliche Veränderung einer Verkehrsinsel am Luise-Kiesselbach-Platz
+- TOP 6.5.: Parken Rudolf-Camerer-Straße
+- TOP 6.6.: Steinboller Grünfläche Wessobrunner Straße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Webpräsenz des Münchner Seniorenbeirats barrierefrei gestalten Empfehlung Nr. 20-26 / E 00973 ....................
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Projektplanung Distlhofweg
+- TOP 9.2.: Bauprojekt Passauer_Johann_Clanze_Straße
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl, Tanz.Die.Invasion, Stadt.Oase 2023 8.562,00 Euro, Az.: 0262.0-7-0373
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Yoga – Workshop für die Grundschulklassen vom 01.03.2023 – 31.12.2023“ 4.680,00 € / AZ: 0262.0-7-0410
+- TOP 10.3.: (E) Stadtbezirksbudget foolpool GbR “Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München vom 01.04.2023 – 30.11.2023“ 9.300,00 € / AZ: 0262.0-7-0415
+- TOP 10.4.: (E) Stadtbezirksbudget Klimainitiative München / Lecocor gGmbH “Klimatreff der Klimainitiative München vom 14.04.2023 – 15.12.2023“ 2.840,00 € / AZ: 0262.0-7-0414
+- TOP 10.5.: (E) Stadtbezirksbudget Initiativgruppe „Sojus“ Aktiv, gemeinsam Natur und Kultur erleben. Unterstützung im Alltag. 5.000,00 Euro; Az. 0262.0-7-0416
+- TOP 11.: Anträge
+- TOP 11.1.: Trinkwasserbrunnen Partnachplatz
+- TOP 11.2.: Staßenbegleitgrün Zillertal_Kössenerstr._soziale und ökologische Umnutzung
+- TOP 11.3.: öffentliche Toiletten für kleine Stadtparks
+- TOP 11.4.: Strengere Regeln für das Abstellen von E-Tretrollern
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Beschlussvorlage für die Auswahl des Caterings für den BA-Empfang7
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Bezirksübergreifender Antrag CultureClouds e.V.-Tanz. Die Invasion
+- TOP 16.2.: Nachtrag: Luise-Kiesselbach-Platz, MitmachZirkus, Zirkus Roberto
+- TOP 16.3.: Nachtrag: Luise-Kiesselbach-Platz, Tanz um den Maibaum
+- TOP 16.4.: Nachtrag: Luise-Kiesselbach-Platz, Sommerfest des Maibaumverein
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Nachtrag: Westpark, große Wiese West, Tanzen im Park
+- TOP 17.2.: Nachtrag: Westpark, kleine Zirkuswiese, Ars Musica Soundcheck
+- TOP 18.: Baureferat
+- TOP 18.1.: Johann-Clanze-Str_Umplanung
+- TOP 18.2.: Beantragung einer städtischen Leistung: Trampolin am Spielplatz Marbachstraße
+- TOP 18.3.: Beantragung einer städtischen Leistung: Outdoor-Kicker
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Antrag auf städtische Leistung Schaukästen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Baumfällung Kürnbergstr.
+- TOP 33.2.: Gehweg am U-Bahn-Abgang Westpark / Krottenkopfstraße
+- TOP 33.3.: Winterdienst Radwege
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Fristverlängerung BA-Schaukästen
+- TOP 35.2.: Schaukästen im 7. Stadtbezirk Sendling-Westpark
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Veranstaltung findet nicht statt_kleine Zirkuswiese, Circus Sorento
+- TOP 37.2.: Versammlungsanzeige Christenverfolgung
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 39.2.: Anfrage des BA7 zum Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zwischennachricht Reduzierung des Ausweichverkehrs in der Garmischer Straße an der Tunneloberfläche
+- TOP 40.2.: Zwischennachricht Verkehrszahlen für ausgewählte Tempo 30-Bereiche
+- TOP 40.3.: Zwischennachricht Neuprofilierung der Murnauer Straße
+- TOP 40.4.: Zwischennachricht Ausweichrouten des Pendlerverkehrs in Sendling-Westpark
+- TOP 40.5.: Behindertenparkplatz innerhalb des öffentlichen Parkplatzes in Höhe Siegenburgerstr.
+- TOP 40.6.: HöglwörtherStr. südl Wertstoffcontainer
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Fernpaßschule Besuch der Bürgermeisterin und Soziale Herausforderungen in Sendling-Westpark
+- TOP 43.: Referat für Gesundheit
+- TOP 43.1.: Bessere medizinische Versorgung für den Stadtbezirk Sendling-Westpark
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Taubenproblem Unterführung Albert-Roßhaupter-Straße
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Jahresempfang des BA 7 und Information über den Baubeginn zu Erweiterung unserer Einrichtung
+- TOP 47.2.: Behindertenfahrzeug Oetztaler/Drachenseestraße
+- TOP 47.3.: Nachtrag: Flyer Trinkwasser-Projekt Ohlstadter Straße
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Baumentfernungen
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Bescheid eigene Veranstaltung
+- TOP 51.2.: Infoschreiben Aufhebung Maskenempfehlung
+- TOP 51.3.: Aufwandsentschädigung Finanzmeldung BA
+- TOP 51.4.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Nepalpagode, buddhistische Meditationen
+- TOP 53.2.: Bescheid, Westpark, Westparklauf
+- TOP 53.3.: Bescheid, Westpark, Mollsee, 40 Jahre Hafenanlage Westpark
+- TOP 53.4.: Bescheid, Westpark, Theatron, Open-Air Gottesdienst der Baptisten
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Konrad-Peutinger Str-Feuerwehr Zufahrt
+- TOP 56.2.: Baustelleneinrichtung Sappelstraße
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Sorgende Hausgemeinschaft_Wohnen über 55 Jahre
+- TOP 62.2.: Zweckentfremdung Ehrwalder Str.
+- TOP 62.3.: Unterrichtung Erhaltungssatzung
+- TOP 62.4.: Zweckentfremdung_Andreas-Vöst-Str.
+- TOP 62.5.: (U) Interims-Jugendtreff Sendling-Westpark Zustimmung zur Planung und vorläufigen Genehmigung des Nutzerbedarfsprogramms des Interims-Jugendtreffs Sendling-Westpark Zustimmung zum Betrieb der Einrichtung 7. Stadtbezirk – Sendling-Westpark
+- TOP 62.6.: Unterrichtung Zweckentfremdung_Wessobrunner Str.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Es brennt Missstände an den Grundschulen
+- TOP 63.2.: Green City-Projekte in Sendling-Westpark
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abstimmung Mobilfunkstandort M-Sendling
+- TOP 6.7.: Nachtrag: Unterstützung BSC Sendling 1918 München
+- TOP 9.3.: Nachtrag: Parkscheinautomaten-Standorte
+- TOP 12.1.: Nachtrag: 12.04 UA SuK Familienpässe
+- TOP 16.5.: Nachtrag: Partnachplatz, Fahrradssicherheitscheck am 11.04.2023
+- TOP 25.1.: Albert-Roßhaupter-Straße- Tempo 30 aus lärmschutzgründen
+- TOP 63.3.: Nachtrag: Einladung zum Runden Tisch Kinder- und Jugendbeteiligung am 18.4.2023
