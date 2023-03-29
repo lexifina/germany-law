@@ -1,0 +1,6 @@
+# TOP 5: Tagesordnungspunkte für den öffentlichen Teil des Kreistages am 29.03.2023
+
+- Sitzung: 27. Sitzung des Kreisausschusses (2023-03-29)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=21791
