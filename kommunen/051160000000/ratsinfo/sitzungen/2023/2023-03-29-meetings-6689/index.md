@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-03-29T15:00:00+02:00
+- Ende: 2023-03-29T18:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6689
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6689
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00218200.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00218200.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00218200.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 16. Sitzung des Rates vom 15.02.2023 - öffentlicher Teil -
+- TOP 2: Änderung von Hauptsatzung und Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in der Stadt Mönchengladbach (Rats-TV) - Einstimmiger Beschluss
+- TOP 2.1: Änderungsantrag zu Vorlage 2199/X "Änderung von Hauptsatzung und Geschäftsordnung ... (Rats-TV)"; hier: §5a (2) Hauptsatzung / Übertragungsmedien und Untertitel - Antrag der Ratsfraktion DIE LINKE vom 27.03.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 2.2: Änderungsantrag zu Vorlage 2199/X "Änderung von Hauptsatzung und Geschäftsordnung ... (Rats-TV)" hier: §12 Hauptsatzung / Öffnung für Anträge von Außerhalb - Antrag der Ratsfraktion DIE LINKE vom 27.03.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 3: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2022 bis 31.12.2022 - Kenntnisnahme
+- TOP 4: Heimat-Preis der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: Aufstellung von Nebentätigkeiten des Oberbürgermeisters gemäß § 8 Korruptionsbekämpfungsgesetz - Kenntnisnahme
+- TOP 6: Sachstandsbericht zum Rathaus der Zukunft mg+ | Strategisches Raumkonzept (HSP 2012-0139) - Kenntnisnahme
+- TOP 6.1: Tischvorlage zu TOP 6 „Sachstandsbericht zum Rathaus der Zukunft mg+“; hier: Antrag der CDU-Ratsfraktion vom 27.03.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Finanzbericht gem. Kommunalhaushaltsrechtsanwendungsverordnung Ukraine-Schutzsuchendenaufnahme - Kenntnisnahme
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2022 (5. Nachweisung) - Kenntnisnahme
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 10: Personalbericht 2022 - Kenntnisnahme
+- TOP 11: Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach für das Jahr 2023 - Mit Stimmenmehrheit beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach am 11. Juni 2023 im Zusammenhang mit der Veranstaltung "Kappesfest" - Mit Stimmenmehrheit beschlossen
+- TOP 12.1: Sonntagsöffnung anlässlich des Kappesfestes Rheindahlen vom 09. bis 11.06.2023 - Vom Antragsteller zurückgezogen
+- TOP 13: Rahmenplan "Offener Ganztag und schulische Betreuung im Primarbereich" - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 14: Gemeinschaftsgrundschule Waisenhausstraße - Mit Stimmenmehrheit beschlossen
+- TOP 15: Leistungsvereinbarung mit dem SkF über Adoptionsvermittlung - Einstimmiger Beschluss
+- TOP 16: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Mönchengladbach und dem Kreis Viersen über die Wahrnehmung der kommunalisierten Aufgaben der Versorgungsverwaltung – Elterngeld (BEEG) sowie Schwerbehindertenrecht (SGB IX) - Einstimmiger Beschluss
+- TOP 17: Zuschussgewährung für das Angebot "Beratung älterer Menschen mit Migrationshinergrund" - Mit Stimmenmehrheit beschlossen
+- TOP 18: Entsendung von sachkundigen Einwohner*innen - Einstimmiger Beschluss
+- TOP 19: 236. Änderung des FNP ("Stationsweg / Hamerweg") - abschließende Beschlussfassung - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 785/N ("Stationsweg / Hamerweg") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 21: Nachwahlen im Beirat der Unteren Naturschutzbehörde der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Erweiterung des Naturparks Schwalm – Nette auf dem Gebiet der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 23: Delegiertenwahl für Niersverbandsversammlung - Einstimmiger Beschluss
+- TOP 24: Neuwahl des Verbandsrates des Niersverbandes - Einstimmiger Beschluss
+- TOP 25: Nutzung und Umgang mit gewerblicher Verleihung von E-Scootern im öffentlichen Raum - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 26: Überarbeitung der Kanalbenutzungs-Gebührensatzung für Abwasser und Regenwasser - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 26.1: Antrag zu Beratungsvorlage Nr. 2164/X: Überarbeitung der Kanalbenutzungs-Gebührensatzung für Abwasser und Regenwasser, hier die Regenwassernutzung - Ohne Abstimmung
+- TOP 27: Umsetzung städtischer Ferienfreizeit; hier: gemeinsamer Fraktionsantrag SPD, GRÜNE und FDP - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 28: Wohnungsbauoffensive Mönchengladbach; hier: gemeinsamer Fraktionsantrag von SPD, GRÜNE und FDP vom 02.03.2023 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 29: Einrichtung einer zentralen Koordinierungsstelle für Stromausfall-Ereignisse im Stadtgebiet; hier: Antrag der CDU-Ratsfraktion vom 17.03.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 20.03.2023 - Einstimmiger Beschluss
+- TOP 31: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 20.03.2023 - Einstimmiger Beschluss
+- TOP 32: Anfragen und Mitteilungen
+- TOP 32.1: Anfrage von RH Baues (CDU) zum BIS
