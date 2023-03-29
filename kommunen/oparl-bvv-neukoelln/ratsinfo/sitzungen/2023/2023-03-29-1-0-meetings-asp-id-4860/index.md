@@ -1,0 +1,91 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-03-29T17:00:00+02:00
+- Ende: 2023-03-29T22:01:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4860
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4860
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Besseres Wartezeitmanagement im Sozialamt - beantwortet
+- TOP 1.2: Lärm im Schillerkiez - beantwortet
+- TOP 1.3: Wohngeld - schriftlich beantwortet
+- TOP 1.4: Wohngeld - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Solidarität mit den Beschäftigten im öffentlichen Dienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung von Mandaten als Bürgerdeputierte in Ausschüssen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Nachrücken von stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Vorschlagsliste für die Wahl der Schöffen für die Jahre 2024 bis 2028 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorschlagsliste für die Wahl zu ehrenamtlichen Richterinnen und Richtern beim Verwaltungsgericht Berlin - Amtsperiode ab 1. Januar 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Vorschlagsliste für die Wahl zu ehrenamtlichen Richterinnen und Richtern beim Oberverwaltungsgericht Berlin-Brandenburg - Amtsperiode ab 19. August 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Prioritätenlisten Städtebauförderung 2023 Fördergebiete Karl-Marx-Straße/Sonnenallee und Schillerpromenade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Priorisierung und Anmeldung von Bauprojekten in Quartiersmanagement Gebieten für eine Förderung aus dem Programm Sozialer Zusammenhalt für das Programmjahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl der Vertrauenspersonen für den beim Amtsgericht Tiergarten zu bildenden Ausschuss gemäß § 40 des Gerichtsverfassungsgesetzes - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Verantwortung für Datenschutzvergehen im Bezirksamt - beantwortet
+- TOP 8.2: Nutzung der ehemaligen Baubaracke Aronsstraße - beantwortet
+- TOP 8.3: Kann Objektschutz "Anton-Schmaus-Haus" wirklich beendet werden? - beantwortet
+- TOP 8.4: Lehnt das Bezirksamt finanzielle Förderung des Bundes für den Ganztagsausbau ab? - beantwortet
+- TOP 8.5: Tankstelle an der Sonnenallee / Ecke Hobrechtstraße - beantwortet
+- TOP 8.6: Winterspaß im Eisstadion Neukölln 2023 - beantwortet
+- TOP 8.7: Ausschreibung für Kinder- und Jugendprojekte der Stiftung Motiviert Neukölln - schriftlich beantwortet
+- TOP 8.8: Bezirksamt Neukölln: Zertifizierter "Fahrradfreundlicher Arbeitgeber"? - schriftlich beantwortet
+- TOP 8.9: Iftarfest des Bezirksamts ohne Moscheegemeinden aus Neukölln? - schriftlich beantwortet
+- TOP 8.10: Busspur Britzer Damm - schriftlich beantwortet
+- TOP 8.11: Erster Mai in Neukölln - schriftlich beantwortet
+- TOP 8.12: Städtebaulicher Vertrag mit BUWOG/VONOVIA - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Fahrradbügel U-Bahnhof Johannisthaler Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Muva auch für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Heller Asphalt für den Klimaschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Rücknahme der Reinigungsklasse in der Prierosser Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Tempo 30 am Dammweg sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2023 bis 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Kita-Belegungsrechte für benachteiligte Kinder sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kita-Frühstück für Alle - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Umbenennung Jahn-Sporthalle - in der BVV abgelehnt
+- TOP 12.5: Ausreichend Musikinstrumente - Neuanschaffung und Reparatur sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Beauftragtenstelle für queeres Leben schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Organisierte Kriminalität mit Zivilgesellschaft bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Menschenwürdiges Wohnen. Zwangsverwaltung jetzt! - in der BVV abgelehnt
+- TOP 12.9: B-Plan Emmauskirchhof - West - Ausschussberatung vor öffentlicher Auslegung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bauprojekt an der Ziegrastraße - sozial-ökologisch bauen und Neuköllner Gewerbe fördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Campus-Bibliothek für alle - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Wetzlar-Schule - Erneuerung Probengebäude für Musik- und Instrumentalunterricht - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Zukunftswerkstatt Kultur Neukölln - in der BVV abgelehnt
+- TOP 12.14: Busspur Waltersdorfer Chaussee - in der BVV abgelehnt
+- TOP 12.15: Gefährliche Parkhausausfahrt an der Christoph-Ruden-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Verkehrssituation im Bereich des Wohnparks St. Marien (Mariendorfer Weg) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Der „Leitfaden Obdachlosigkeit“ des Bezirksamtes Neukölln ist ein zivilisatorisches Armutszeugnis - beantwortet
+- TOP 13.2: Volksfeste und Traditionen erhalten – Sachstand Maientage 2023 - beantwortet
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Grünflächen und sozialen Wohnungsbau sichern - überwiesen
+- TOP 15.2: Glasower Straße 44-47 - Illegale Sondernutzung unterbinden - überwiesen
+- TOP 15.3: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung I - vertagt
+- TOP 15.4: ParkYourBike auch in Neukölln - überwiesen
+- TOP 15.5: Zusätzliche Mittel für die Gedenkkultur bereitstellen - überwiesen
+- TOP 15.6: Neukölln als fahrradfreundlichen Arbeitgeber zertifizieren - überwiesen
+- TOP 15.7: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung II - vertagt
+- TOP 15.8: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung III - vertagt
+- TOP 15.9: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung IV - vertagt
+- TOP 15.10: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung V - vertagt
+- TOP 15.11: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung VI - vertagt
