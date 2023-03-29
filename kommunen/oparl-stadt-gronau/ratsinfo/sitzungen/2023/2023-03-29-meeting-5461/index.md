@@ -1,0 +1,53 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-03-29T18:00:00+02:00
+- Ende: 2023-03-29T21:32:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfDkNL891Ab7bySQuSC0IyM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5461
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW9R0tEP0iqivcXbfcpp3-jFEgl6h-K5Cej9aUmZr9_3/Bekanntmachung_Rat_29.03.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXmEt9AeqFsnLZxTXvutCp3GXmUv_pL8nMohe9NFsAVo/Oeffentliche_Niederschrift_Rat_29.03.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 15.02.2023
+- TOP 3.: Bild-, Film- und Tonaufnahmen in Ratssitzungen; 8. Änderungssatzung zur Hauptsatzung der Stadt Gronau - 36 Jastimmen, 5 Neinstimmen, 2 Enthaltungen
+- TOP 4.: Antrag der Kampfsportvereine Shotokan Karate e.V., Budo Mugen Gronau e.V. und Mudo Gronau e.V. auf Vergrößerung des Multifunktionsraumes an den Sporthallen Epe - Einstimmig, 0 Enthaltungen
+- TOP 5.: Jahresabschluss 2021 und 2022 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 1. Kenntnisnahme des Abschlussergebnisses 2. Beschluss über die Behandlung des Liquidationserlöses - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2021 und Liquidationsabschluss 2022 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2021 und Liquidationsabschluss 2022 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 8.: Abschließende Beratung des Gesamtbudgets 2023 Verabschiedung der Haushaltssatzung
+- TOP 8.1: Abschließende Beratung des Gesamtbudgets 2023 Verabschiedung der Haushaltssatzung - 39 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Fortschreibung des Brandschutzbedarfsplans der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 10.: Höchstrichterliches Urteil des Bundesverwaltungsgerichts zur Erhebung einer Wettbürosteuer vom 20.09.2022 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jugendhilfeplanung - Betreuungsplätze für Kinder in Kindertageseinrichtungen und Kindertagespflege, Teil I Bedarfsplanung 2023 bis 2026 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Vorstellung Planungskonzept Neubau Kita Luise - Einstimmig, 0 Enthaltungen
+- TOP 13.: Beteiligungsbericht 2020 der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 14.: "Heimat.Zukunft.Nordrhein-Westfalen. Wir fördern, was Menschen verbindet." Auslobung des "Heimatpreises" für die Jahre 2023-2027 - 24 Jastimmen, 17 Neinstimmen, 2 Enthaltungen
+- TOP 15.: Antrag der Fraktion pro:Bürgerschaft vom 21.11.2022; Standorterhaltung der ZBU und des Wertstoffhofes - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 173 "Nordwestlich der Brookstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: 107. Änderung des Flächennutzungsplans der Stadt Gronau Vorhabenbezogener Bebauungsplan "PV-Freiflächenanlage Epe, Kottiger Hook/Schlammannweg", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5 Planbeschluss (Änderung Flächennutzungsplan) 6. Satzungsbeschluss (Bebauungsplan) - 41 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Vorhabenbezogener Bebauungsplan "Wohnanlage Stichweg Alstätter Straße", Stadtteil Gronau (beschleunigtes Verfahren nach § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 3 Enthaltungen
+- TOP 19.: Spechtholtshook Genehmigung des Ausbauprogramms - Einstimmig, 4 Enthaltungen
+- TOP 20.: Fördermaßnahmen - 30 Jastimmen, 11 Neinstimmen, 2 Enthaltungen
+- TOP 21.: Einführung eines standardisierten Verfahrens zur Prüfung von Beschlussvorlagen auf Klimaauswirkungen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 22.03.2023)
+- TOP 23.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreter:innen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 24.: Nebentätigkeiten des Bürgermeisters für das Jahr 2022
+- TOP 25.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 25.1: Geschäftsführung der Wirtschaftsförderung (Mitteilung vom AR-Vors. RM Buss)
+- TOP 25.2: Industrie- und Gewerbeschau (Mitteilung vom AR-Vors. RM Buss)
+- TOP 26.: Mitteilungen der Verwaltung
+- TOP 27.: Anfragen
+- TOP 27.1: Beteiligungsverfahren Wasserspeicher (Anfrage von RM Buchholz)
+- TOP 27.2: Stadtmodell (Anfrage von RM Bohn)
+- TOP 27.3: Grundschulanmeldungen (Anfrage von RM Schwartze)
+- TOP 27.4: Befragung an Bekenntnisgrundschulen zu möglicher Umwandlung (Anfrage von RM Bohn)
+- TOP 27.5: Reinigung Lindenallee (Anfrage von RM Dzietko)
+- TOP 27.6: Übermittagsbetreuung (Anfrage von RM von Borczyskowski)
