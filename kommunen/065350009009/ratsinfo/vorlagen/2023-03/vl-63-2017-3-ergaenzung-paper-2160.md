@@ -1,0 +1,21 @@
+# Teilnahme am Kommunalen Energieeffizienz-Netzwerk mit dem Zweckverband Oberhessische Versorgungsbetriebe (ZOV) als Netzwerkträger
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-63/2017 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-03-29
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZWXy8V8XKBd-kYUl24vEP0Y
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2160
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Teilnahme am Kommunalen Energieeffizienz-Netzwerk mit dem Zweckverband Oberhessische Versorgungsbetriebe (ZOV) als Netzwerkträger ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaiRb3pxewVtNVxi3z4Rji_An_poBX36rs0gdVfPE2aG/Beschlussvorlage_VL-63-2017_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.63) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZx3hQJCj8pPIf5J6JyD426heYqZOSzivioMAs745mPq/Dr-Nr.63.pdf
+- Anlage: Beschlussvorlage (Dr-Nr.63-Anlage1) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUmyFDsKxuxlvUEtcG68zty2O-9GHZQfauz-1sNx7PwD/Dr-Nr.63-Anlage1.pdf
+- Anlage: Beschlussvorlage (Dr. Nr. 63-Anlage2) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfiEm-LSlc2ALlGFP09etAUIRRuP4S-3IAe84f5QwC-a/Dr._Nr._63-Anlage2.pdf
+- Anlage: Beschlussvorlage (KENO Auszüge Monitoring-Bericht) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ1vLKrN3lU9mS7Td2HJFYl0K7OCWxz2ia8-M_IzQOz4/KENO_Auszuege_Monitoring-Bericht.pdf
+- Anlage: Beschlussvorlage (KENO AV Tost Sachstandsbericht) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVvo2kpYz8tig798NzpfzcwM-GGRCGwJRXtNbJbnEE5x/KENO_AV_Tost_Sachstandsbericht.pdf
+- Anlage: Beschlussvorlage (Sachstandbericht für HFA am 28.11.2022) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXZQiATgmYj8GVBzxP1ROnba61wBqNmoY-Z5LYfMv1BP/Sachstandbericht_fuer_HFA_am_28.11.2022.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/739 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1038 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1080 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1089 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-18
