@@ -1,0 +1,79 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-03-29T17:07:00+02:00
+- Ende: 2023-03-29T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24103
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24103
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tischvorlage http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00481076.pdf
+- Ergebnisprotokoll: Tischvorlage http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00481076.pdf
+- Wortprotokoll: Tischvorlage http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00481076.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 9. November 2022 - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 25. Januar 2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - vertagt
+- TOP 5: Zulassung eines Mitglieds des Behindertenrates gemäß § 58 Absatz 3 Gemeindeordnung des Landes NRW (GO NRW) in die Bezirksvertretung 6 - einstimmig beschlossen
+- TOP 6: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 7: Integriertes städtebauliches Entwicklungskonzept (ISEK) Rath/Mörsenbroich - Empfehlung einstimmig beschlossen
+- TOP 8: Optimierung Buslinienführung Airport City - einstimmig beschlossen
+- TOP 9: Strategie zum Parkraummanagement - mehrheitlich abgelehnt
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 10: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Anfrage anlässlich der Presseberichterstattung zur Parkregelung Am Röttchen - schriftlich beantwortet
+- TOP 12: Anfrage von Florian Ries (Fraktion Bündnis 90/Die Grünen): Ausstehendes Prüfungsergebnis einer Verkehrsberuhigung auf dem Cloppenburger Weg - zurückgezogen
+- TOP 13: Anfrage der FDP-Fraktion: Kosten für die Bearbeitung von Anfragen und Anträgen - schriftlich beantwortet
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg
+- TOP 17: Anfrage der SPD-Fraktion: Tempo 30 in sensiblen Bereichen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 20: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen
+- TOP -: Anfragen
+- TOP 21: Anfrage der FDP-Fraktion: Abholzung eines Waldes wegen des Bauvorhabens Airport-City und Ausgleichspflanzungen - schriftlich beantwortet
+- TOP 22: Anfrage der Fraktion BÜ90/Die Grünen: Fehlende Begrünung am Rather Kreuzweg? - Parkplatz vor dem Bunker
+- TOP 23: Anfrage der Fraktion BÜ90/Die Grünen: Industriedenkmäler und klimafreundliche Weiternutzung von Gebäudebestand auf dem Röhrenwerkgelände
+- TOP 24: Anfrage der SPD-Fraktion: Bushaltestelle Eckenerstraße Steig 4 - Busse Richtung Westen
+- TOP 25: Anfrage der CDU-Fraktion: Risikobewertung zum Unterhalt/Betrieb von E-Fahrzeugen - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 26: Antrag der FDP-Fraktion: Freigabe von Parkflächen - zurückgezogen
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Mehr Sicherheit auf dem Schulweg: Zebrastreifen in der Gartenstadt Reitzenstein, Zur alten Kaserne - zurückgezogen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Mehr Platz für Bewegung: Bolzplatz am Einbrunger Weg in Lichtenbroich - zurückgezogen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Neugestaltung Borbecker Straße unter der Brücke Kürtenstraße - Planung einer Skateranlage - zurückgezogen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Antrag der SPD-Fraktion: Bushaltestelle Eckenerstraße - abweichend beschlossen
+- TOP 35: Antrag der Fraktion BÜ90/Die Grünen: Tauschen und Verschenken - Einrichtung eines offenen Bücherschrankes in Oberrath - abweichend beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 37: Umgestaltung Kinderspielplatz Cloppenburger Weg - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeshluss - einstimmig beschlossen
+- TOP 38: Krönerweg Abschnitt BSA Unterrath bis An der Golzheimer Heide - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - abweichend beschlossen
+- TOP 39: Rüdigerstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - abweichend beschlossen
+- TOP 40: Festsetzung eines Spezialmarktes (Green World Tour 2023) am 10. und 11.06.2023 auf dem Schützenplatz am Rather Broich - einstimmig beschlossen
+- TOP 41: Zuschussvergabe 2023 Antrag der St. Bruno Schule - einstimmig beschlossen
+- TOP 42: Zuschussvergabe 2023 Antrag der Gesellschaft St. Stephanus Mörsenbroich 1823 - Jubiläumsfeier 200 Jahre Gesellschaft St. Stephanus Mörsenbroich - einstimmig beschlossen
+- TOP 43: Restmittel der Zuschussvergabe 2021/2022 - St. Seb. Schützenbruderschaft e.V. D-Unterrath - Vorlage BV6/053/2022 - einstimmig beschlossen
+- TOP 44: Bauunterhaltungsmittel Teil a Schulen - Umgestaltungen von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 45: Bauunterhaltungsmittel 2023 Teil B "sonstige Gebäude" - Projekt Blumenkästen und -kübel im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 46: Bauunterhaltungsmittel 2023 Teil B "sonstige städtische Einrichtungen" - Verkehrszählungen in der Westfalenstraße/Ecke Rotdornstraße - einstimmig beschlossen
+- TOP 47: Bereitstellung von Mitteln für den kommenden Jahresempfang der Bezirksvertretung 6 - einstimmig beschlossen
+- TOP 48: Bauunterhaltungsmittel 2023 - Teil C - Optische Aufwertung der S-Bahnbrücke Haltepunkt Rath-Mitte - einstimmig beschlossen
+- TOP 49: Bauunterhaltungsmittel 2023 - Teil C - Förderung Dritter - Budget "ökologische Maßnahmen" - einstimmig beschlossen
+- TOP 50: Bauunterhaltungsmittel 2023 - Teil D - Verfügungsmittel - Budget "kulturelle Maßnahmen" - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 51: vorläufige Mittelbereitstellungen 2023 für den Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 52: Versiegelung im Stadtbezirk 6 - Vorlage BV6/170/2021 - zur Kenntnis genommen
+- TOP 53: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 54: Vorlage OVA/014/2023 - Ausführungs- und Finanzierungsbeschluss Barrierefreier Umbau der Bushaltestellen "Unterrath-S" Steige 4-7 - zur Kenntnis genommen
+- TOP 55: Genehmigung der Niederschrift - öffentlicher Teil - vom 15.02.2023 der gemeinsamen Sondersitzung vom Ausschuss für Planung und Stadtentwicklung und der Bezirksvertretung 6 - einstimmig beschlossen
+- TOP 56: Bauunterhaltungsmittel 2023 Teil B "sonstige städt. Gebäude"Erweiterung des Projektes: Umgestaltung KSP Cloppenburger Weg - Vorlage BV6/016/2023 - einstimmig beschlossen
