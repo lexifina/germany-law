@@ -1,0 +1,99 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-03-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7252975
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7252975
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokollentwurf der Sitzung vom 28.02.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 28.02.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Straßenbenennung im 14. Stadtbezirk Berg am Laim Bahnbogen
+- TOP 2.2.: Baumkirchner Straße 4: Aufstellung von neuen Verkaufseinrichtung auf öffentlichen Grund; Beschluss des BA
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Josef-Ritz-Weg 17 - ÄNDERUNGSANTRAG zu 1.2-2022-18879-32 - Dachgeschossneubau und Nutzungsänderung von Speicher zu 6 Wohneinheiten
+- TOP 3.1.2.: Blombergstr. 21 - Neubau eines Mehrfamilienhauses und Neubau eines Einfamilienhauses mit gemeinsamer Tiefgarage
+- TOP 3.1.3.: Eisdiele am Grünen Markt im Winter einer sinnvollen Nutzung zuführen; Antrag der SPD-Fraktion
+- TOP 3.1.4.: Kreillerstraße: Installation von Mülleimern; Anliegen aus Bürgerschaft
+- TOP 3.1.5.: Verschmutzung der Parkbank an der Kreuzung Hachinger-Bach-Straße/ Michaeliburgstraße; Anliegen aus der Bürgerschaft
+- TOP 3.1.6.: Fassadenbegrünung bei der Umsetzung des Bebauungsplans 2127; Antrag der CSU-Fraktion
+- TOP 3.1.7.: Behandlung des WA 1 „Truderinger Acker“ in der Stadtgestaltungskommission; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Standortplanungen für E-Lastenradsysteme; Frist zur Anhörung: 30.03.2023
+- TOP 3.2.2.: Verbesserung der Ampelanlage an Kreuzung Leuchtenbergring/Ampfingstrasse/Berg-am-Laim-Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Friedenstraße 28: Rückbau Parkbucht zur Grünfläche; Anhörung des Baureferats
+- TOP 3.2.4.: Gemeinsamer Prüfantrag der BAs 14, 16, 05; Rosenheimer Straße
+- TOP 3.2.5.: Sankt-Veit-Straße (Westseite zwischen Kreiller- und Josephsburgstraße): Markierung eines Schutzstreifens - Anhörung des Mobilitätsreferats; Frist bis 21.04.2023 -
+- TOP 3.2.6.: Planung für den Aus und Umbau der Truderinger Str zwischen Schwanhildenweg und Roßsteinstr- BA einbeziehen!; Antrag der CSU-Fraktion
+- TOP 3.2.7.: Einrichtung einer Fahrradstraße: Hachinger-Bach-Straße; Antrag der SPD-Fraktion
+- TOP 3.2.8.: Hansjakobstraße - eine Straße mit historisch schwer belastetem Namen in Berg am Laim; Antrag der GRÜNEN-Fraktion
+- TOP 3.2.9.: Gewerbeband Steinhausen Vogelweideplatz (östlich), Bundesautobahn 94 (BAB 94) (südlich), Bahngleisanlagen (nördlich, westlich) Entwicklungsperspektive - Rahmenplanung Steinhausen - Verkehrsuntersuchung; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Michaeligymnasium: Anfrage zum Stand der Renovierung
+- TOP 3.3.2.: Baumkirchner Str. 22-26, Grüner Markt - Maifeier am 01.05.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget democraticArts gGmbH democraticArts-Seminar, Workshops, -Jugendteam vom 01.03. - 31.12.2023 9.787,82 € / Az. 0262.0-14-0352
+- TOP 3.5.2.: (E) Stadtbezirksbudget Isarlust e.V. Kulturlieferdienst vom 06.02. - 31.12.2023 4.760,00 € / Az. 0262.0-14-0350
+- TOP 3.5.3.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0.14-0356
+- TOP 3.5.4.: (E) Stadtbezirksbudget Blaues Kreuz Diakoniewerk mGmbH Anschaffung einer Spülmaschine für die Beratungsstelle 375,00 Euro, Az.: 0262.0-14-0355
+- TOP 3.5.5.: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ Ausgleichende Deutschförderung im Schuljahr 2023/24 vom 02.03.2023 – 29.02.2024 1.600,00 € / Az. 0262.0-14-0353
+- TOP 3.5.6.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e.V. Maifeier mit Maibaumaufstellen am 01.05.2023 3.375,00 € / Az. 0262.0-14-0354
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Josef-Ritz-Weg 17 - ÄNDERUNGSANTRAG zu 1.2-2022-18879-32 - Dachgeschossneubau und Nutzungsänderung von Speicher zu 6 Wohneinheiten
+- TOP 3.6.2.: Blombergstr. 21 - Neubau eines Mehrfamilienhauses und Neubau eines Einfamilienhauses mit gemeinsamer Tiefgarage
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Klimaanpassung vor Ort IV: Baumstandortvorschläge des Bezirksausschusses: Welche wurden/werden gepflanzt und wann?
+- TOP 4.1.2.: Vollzug der Zweckentfremdungssatzung: - Hans-Jakob-Str. 90-98 - Guffertstr. 16 - Gratlspitzstr. 14 - Blombergstr. 18
+- TOP 4.1.3.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 4.1.4.: Klimaanpassung vor Ort III: Dachbegrünung und Photovoltaikanlagen im Einklang – Änderung der Gestaltungs- und Begrünungssatzung
+- TOP 4.1.5.: Versetzung von Hundepollern im Behrpark
+- TOP 4.1.6.: Raben- und Rattenpopulation im Behrpark; Antwortschreiben des Gesundheitsreferats
+- TOP 4.1.7.: Umbau der Grünanlage an der Echardinger Straße / Delikte rund um den Edeka an der Bad-Schachener-Straße
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Hermann-Weinhauser-Str.: Einrichtung einer Schulbushaltestelle - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.2.: Gerlosstr.: Einrichtung einer Anfahrtszone eines absoluten Haltverbots für den Hol- und Bringverkehr (Grundschule St.-Veit-Straße) - Unterrichtung des Mobilitätsreferats -
+- TOP 4.2.3.: Staudacherstr. 10: Absolutes Haltverbot Westseite
+- TOP 4.2.4.: Michaelibad: Stand des Aufzugausbaus an der U-Bahnstation
+- TOP 4.2.5.: Erweiterung des Parklizenzbereichs in der Hansjakobstraße
+- TOP 4.2.6.: Erfassung und Nachverfolgung der verfügbaren Parkplätze im öffentlichen Straßenraum
+- TOP 4.2.7.: Parkraumbewirtschaftung - Prüfung der Erweiterung des geplanten Parklizenzgebietes
+- TOP 4.2.8.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 4.2.9.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 4.2.10.: (U) Städtebauförderungsprogramme "Zukunft Stadtgrün" und "Sozialer Zusammenhalt" Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ Öffentliche Grünfläche am Campus Ost im 14. Stadtbezirk Berg am Laim Ausführungsgenehmigung
+- TOP 4.2.11.: Anfrage bzgl. eines Gesamtkonzepts für die Verbesserung der Verkehrsströmungen im Bereich Truderinger Straße / Roßsteinstraße
+- TOP 4.2.12.: MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Zeitplan für die Grundschule an der St.-Veit-Straße 46
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise a) ESV München-Ost e.V. hier: Fit im Echardinger Park 2022 vom 01.05. - 30.09.2022 b) Bürgerkreis Berg am Laim e.V. hier: Große Herbstausstellung der Künstlergilde 11. - 20.11.2022 c) Kürgerkreis Berg am Laim e.V. hier: Straßenfest Baumkirchner Straße am 11.09.2022 d) Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. hier: Anschaffung einer Nebelmaschine zur Simulation von Brandrauch e) Kreisjugendring München-Stadt hier: Demokratie im Einsatz - Demokratiemobil München am 27. - 28.10.2022
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 4.6.2.: Kastanie in der Gammelsdorferstraße; Anliegen aus der Bürgerschaft
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.3.3.: Temporäre Kunstaktion "Raumveränderer Portraitprojekt" vom 10.05.2023 -13.06.2023 in der Neumarkter Str. /Baumkirchner Str. /Leuchtenbergring, Anhörung des Kreisverwaltungsreferats
