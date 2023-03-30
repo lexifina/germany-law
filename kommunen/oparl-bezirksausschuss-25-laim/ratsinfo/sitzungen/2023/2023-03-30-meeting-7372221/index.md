@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-03-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372221
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372221
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Leerstand und Verfall eines Denkmals in Laim - Stöberlstraße
+- TOP 1.2.2.: Erhaltenswerte Bereiche in Stadtteil Laim
+- TOP 1.2.3.: Geplante Baumaßnahme Stroblstraße/Camerloherstraße Fl.Nr. 171/3
+- TOP 2: Anträge
+- TOP 2.1.: Fraktion die Grünen: Nachhaltige Lösungen - Hochklappbare Gehwege
+- TOP 2.2.: Fraktion Die Grünen: Bebauungsplan Nr. A 1894 - Sicherung Gemeindebedarfsflächen
+- TOP 2.3.: UA Kultur: Tafel Fürstenrieder Schule
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Historischer Verein Laim e.V. Alte Heimat - einst und jetzt vom 14.06. - 22.07.2023 975,00 Euro, Az.: 0262.0-25-0291
+- TOP 3.2.: (E) + (U) Transparenz schaffen in den Tagesordnungen der Bezirksausschusssitzungen des Bezirksausschusses 25, im RIS die entsprechenden Anlagen öffentlich einstellen
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 27.02.23: Anhörung Flohmärkte 2023 Die Bärchen e.V. am Weißenfelderplatz am 14.05. und 10.09.2023 (Ersatztermine: 21.05. und 17.09.2023)
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 20.02.23: Veranstaltungen des Familienzentrum auf dem Hogenbergplatz 1. 29.04. und 14.10.2023 Familienflohmärkte (Ersatztermine: 27.05. und 21.10.2023); 2. 9./10.05. und 23./24.05.2023 Basteltage; 3. 13.09. -15.09. und 18.09. - 22.09.2023 Basteltage;
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 02.03.23: Anhörung Flohmarkt Klötzchen e.V. Von-der-Pfordten-Str. am 22.04.23
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 08.03.23: Familien-Flohmarkt Laimer Strolche auf dem Hogenbergplatz am 17.06.23 (Ersatz 01.07.23)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 13.03.23: Veranstaltungsliste Tanz.Die.Invasion vom 04.05.-28.10.23, CultureClouds e.V.
+- TOP 4.7.: Schreiben Baureferat vom 13.02.23: Sanierung der Skateranlage im Bereich des Spielplatzes an der Von-der-Pfordten-Straße/Valpichlerstraße
+- TOP 4.8.: (E) Sanierung der Skateranlage im Bereich des Spielplatzes an der Von-der-Pfordten-Straße / Valpichlerstraße Empfehlung Nr. 14-20 / E 03076 der Bürgerversammlung des Stadtbezirkes 25 Laim am 19.11.2019
+- TOP 4.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.02.23: Camerloherstr., Fl.Nr. 171/3, Gemarkung Laim Bauvorhaben Eckgrundstück Camerloherstraße / Stroblstraße Empfehlung Nr. 20-26/E 00885 der Bürgerversammlung des Stadtbezirkes 25 Laim am 18.10.22
+- TOP 4.10.: (E) Bauvorhaben Eckgrundstück Camerloherstraße / Stroblstraße Empfehlung Nr. 20-26 / E 00885 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 18.10.2022
+- TOP 4.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.03.23: Perspektive München Langfristige Siedlungsentwicklung Landschaftspark West und städtische Baumschule
+- TOP 4.12.: Schreiben Mobilitätsreferat vom 07.03.23: Anhörung geplante Beschilderungsergänzung Stegener Weg
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Schreiben Baureferat vom 01.03.23: Erinnerungsverfahren Donnersbergerbrücke Bushaltestelle Fahrbahn
+- TOP 5.2.: Schreiben Baureferat vom 01.03.23: Erinnerungsverfahren Friedenheimer Brücke Bushaltestellen
+- TOP 5.3.: Landsberger Str. 200, Frist 31.03.23 Neubebauung Quartier Landsberger Str. 200-216 / VORBESCHEID
+- TOP 5.4.: Inderstorferstr. 78, Frist 06.04.23 Ersatzbau für ein best. Wohngebäude mit Einzelgarage
+- TOP 5.5.: Eringerstr. 42, Frist 06.04.23 Umbau und Anbau eines Einfamilienhauses
+- TOP 5.6.: Baudererstr. 20, Frist 06.04.23 Sanierung und Erweiterung einer Doppelhaushälfte
+- TOP 5.7.: Agricolastr. 111, Frist 06.04.23 An- und Umbau eines Wohnhauses
+- TOP 5.8.: Agnes-Bernauer-Str. 51, Frist 06.04.23 Nutzungsänderung: Gastronomie in sozial kulturelles Mischkonzept mit Ausstellungen, Werkstatt und Studios / Ateliers befristet bis 2. Quartal 2024
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 02.03.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Mobilitätsreferat vom 13.02.23: Attraktive Nord-Süd-Radwegverbindung im Münchner-Westen BA-Antrag Nr. 02295 vom 06.05.21 Hier: Zwischennachricht
+- TOP 8.2.: Schreiben Mobilitätsreferat vom 15.02.23: Gehwegparken, BV-Anfrage Nr. Q 00191 vom 18.10.22
+- TOP 8.3.: Schreiben Mobilitätsreferat vom 20.02.23: Kurzparkzone Perhamerstraße, westlich Fürstenrieder Straße
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 17.02.23: Vollsperre Laimer Unterführung vom 13.03.23 bis 22.05.23
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 01.03.23: Entschärfung Situation Radweg Agnes-Bernauer-Str./Ecke Fürstenrieder Str.
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 23.02.23: Anwohnerparkplätze in der Siglstraße BA-Anfrage Q 00189
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 23.02.23: Bewältigung ruhender Verkehr und Falschparker in Wohngebieten Laim (Ziffer 1 des Antrags) BV-Empf. Nr. 00880 vom 18.10.22 Hier: Zwischennachricht
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 22.02.23: Einführung Parkraummanagement mit Parklizenzen im Bezirk Laim bis zum 31.12.2023 BV-Empf. Nr. 00881 vom 18.10.22 Hier: Zwischennachricht
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.12.22: Hochhausstudie Hier: Eilentscheidung
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.02.23: Fällungsantrag Rilkestr. 15
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.02.23: Neuburgerstr. 8
+- TOP 8.12.: Bautenliste 13.02.-19.02.23: A) Erstantragsverfahren 1. Hogenbergstr. 3 2. Agricolastr. 111 3. Agnes-Bernauer-Str. 51 4. Neuburgerstr. 8 6. Friedenheimer Str. 68 7. Gotthardstr. 4
+- TOP 8.13.: Bautenliste 20.02.-26.02.23: A) Erstantragsverfahren 1. Baudererstr. 20
+- TOP 8.14.: Bautenliste 27.02.23-05.03.23: A) Erstantragsverfahren 1. Camerloherstr. 72 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Reutterstr. 84a
+- TOP 8.15.: Bautenliste 06.03.23-12.03.23: A) Änderungsverfahren zu genehmigten Bauvorhaben: 1. Dichtlstr. 8
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.03.23: Fällungsantrag Vosslerstr. 10
+- TOP 8.17.: Schreiben Baureferat vom 10.02.23: Photovoltaik auf öffentlichen Gebäuden BA-Antrag Nr. 04809 Hier: Fristverlängerung
+- TOP 8.18.: Schreiben Baureferat vom 07.02.23: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP 8.19.: Schreiben Baureferat vom 01.03.23: Beschilderung des Stadtbezirkes Laim ergänzen
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 20.02.23: Erstellung der Vorschlagsliste für die Wahl der ehrenamtlichen Schöff*innen für die Amtsperiode 2024-2028
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 13.03.23: Geschwindigkeitsüberwachung Tempo 30
+- TOP 8.22.: Schreiben BA 17 Obergiesing-Fasangarten vom 27.02.23: Es brennt; Missstände an den Münchner Grundschulen
+- TOP 8.23.: Schreiben SWM vom 20.02.23: Bauarbeiten BU Laim 13.03.21.05.23
+- TOP 8.24.: Schreiben SWM vom 27.02.23: Baumaßnahmen
+- TOP 8.25.: Schreiben SWM vom 09.03.23: Flyer Strom-Projekt Zschokkestraße 36
+- TOP 8.26.: Schreiben SWM vom 13.03.23: Baumaßnahmen
+- TOP 8.27.: Schreiben foolpool vom 14.02.23: Dank
+- TOP 8.28.: Schreiben Hidalgo vom 19.01.23: Verwendungsnachweis und Kurzbericht
+- TOP 8.29.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.23: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.23: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.23: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.23: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 8.33.: Beschluss der Vollversammlung vom 01.03.23: MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 8.34.: Beschluss der Vollversammlung vom 01.02.23: (U) Mobilitätsstrategie 2035 Einstieg in die Teilstrategie Wirtschaftsverkehr – Urbane Logistik
+- TOP 8.35.: Beschluss der Vollversammlung vom 27.04.22: Analoge und digitale Öffentlichkeitsbeteiligung in der Landeshauptstadt München; Vorstellung des Externen-Konzepts für die systematische Weiterentwicklung;
+- TOP 8.36.: Beschluss der Vollversammlung vom 01.03.23: Urbanes Gärtnern in München StR-Anträge
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Verkehrsüberwachung Kreuzung Guido-Schneble-Straße / Aindorferstraße (Weitergabe an PI 41)
+- TOP 9.2.: Klarheit bei aufgehobener Ausfahrt vor Lautensackstr. 6 (Weitergabe an Mobilitätsreferat und PI 41)
+- TOP 9.3.: Anfrage wegen Einrichtung einer Sperrfläche (Weitergabe an Mobilitätsreferat)
+- TOP 9.4.: Anfrage Tempo 30 im Stadtbezirk 25 (Antwortschreiben an Bürger)
+- TOP 1.2: Bürgerpost an den BA
