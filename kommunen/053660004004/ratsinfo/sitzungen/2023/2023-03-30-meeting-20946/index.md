@@ -1,0 +1,65 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-03-30T18:00:00+02:00
+- Ende: 2023-03-30T21:11:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf4_88yQDxHgBdsSdPIn6_0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20946
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaBfOPZLNZ77YUyx75ItATDS9PSnTt5z8gRCiTZZ8k7Z/Bekanntmachung_Rat_30.03.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUym3F8QXejdJKPLmbyPi0NVqCfXYCRKxhDRnNwNQT0-/Oeffentliche_Niederschrift_Rat_30.03.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 07.02.2023 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Neubesetzung von Ausschüssen hier: Antrag der SPD-Fraktion vom 22.02.2023 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit. 
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Geschäftsordnung für den Rat der Stadt Bad Münstereifel und seine Ausschüsse hier: Neufassung - Einstimmiger Beschluss:
+- TOP 7.: Gestaltung und Instandsetzung vom Hochwasser beschädigter Straßen und Nebenanlagen in Iversheim; hier: Vorstellung und Beschluss der Freiraumgestaltung/Nebenanlagen - Beschluss s. RD-NR. 887-XI/Z-3.
+- TOP -: Gestaltung und Instandsetzung vom Hochwasser beschädigter Straßen und Nebenanlagen in Iversheim; hier: Vorstellung und Beschluss der Freiraumgestaltung/Nebenanlagen - Beschluss s. RD-Nr. 887-XI/Z-3.
+- TOP -: Gestaltung und Instandsetzung vom Hochwasser beschädigter Straßen und Nebenanlagen in Iversheim; hier: Vorstellung und Beschluss der Freiraumgestaltung/Nebenanlagen nach Ergänzungen/Vorstellungen aus der Bürgerinformationsveranstaltung vom 23.03.2023 - Einstimmiger Beschluss:
+- TOP 8.: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich hier: Vorstellung und Beschluss der Planunterlagen zur Gestaltung der Freianlagen, der Brücken im Bereich Bachstraße/Münstereifeler Straße sowie die Wegegestaltung im Floting - Beschluss s. RD-Nr. 592-XI/Z-5.
+- TOP -: Wiederherstellung und Instandsetzung vom Hochwasser beschädigter Straßen in Arloff/Kirspenich hier: Vorstellung und Beschluss der Planunterlagen zur Gestaltung der Freianlagen, der Brücken im Bereich Bachstraße/Münstereifeler Straße sowie die Wegegestaltung im Floting nach Ergänzungen/Vorstellungen aus der Bürgerinformationsveranstaltung vom 23.03.2023 - Einstimmiger Beschluss:
+- TOP 9.: Vorstellung der hochwasserschutzrelevanten Retentionsräume im Erfteinzugsgebiet durch den Erftverband - Beschluss s. RD-Nr. 1005-XI/Z-1.
+- TOP -: Vorstellung der hochwasserschutzrelevanten Retentionsräume im Erfteinzugsgebiet durch den Erftverband hier: Präsentationsunterlagen - Einstimmiger Beschluss:
+- TOP 10.: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt Hier: Antrag der FDP-Fraktion vom 23.08.2022 - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt Hier: Antrag der CDU-Fraktion vom 24.08.2022 - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept hier: Antrag der SPD-Fraktion vom 27.02.2023 - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept; Anregungen und Beschwerden nach § 24 Gemeindeordnung NRW - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept; Anregungen und Beschwerden nach § 24 Gemeindeordnung NRW - Beschluss s. RD-Nr. 791-XI/Z-10.
+- TOP -: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Verkehrs-, Beschilderungs- und Parkraumkonzept - Mehrheitlicher Beschluss mit 23 Ja- und 7 Nein-Stimmen.
+- TOP 11.: Verbot von Schottergärten hier: Antrag nach § 24 Gemeindeordnung - Einstimmiger Beschluss bei 4 Enthaltungen:
+- TOP 12.: Flächenmonitoring für weitere Windkraftanlagen hier: Antrag der CDU-Fraktion vom 18.01.2023 - Beschluss s. RD-Nr. 950-XI/Z-1.
+- TOP -: Flächenmonitoring für weitere Windkraftanlagen hier: Ausführungen der Verwaltung zum Antrag der CDU-Fraktion vom 18.01.2023 sowie Informationen zu den Änderungen der aktuellen gesetzlichen Rahmenbedingungen bezüglich Windenergie - Einstimmiger Beschluss:
+- TOP 13.: Prüfauftrag Flächenphotovoltaik hier: Antrag der CDU-Fraktion vom 18.01.2022 - Beschluss s. RD-Nr. 947-XI/Z-1.
+- TOP -: Prüfauftrag Flächenphotovoltaik hier: Ausführungen der Verwaltung zum Antrag der CDU-Fraktion vom 18.01.2022 sowie In-formationen zu den Änderungen der aktuellen gesetzlichen Rahmenbedingungen bezüglich Photovoltaik - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 14.: Neubau Außenbecken eifelbad hier: die im Haushalt 2023 angemeldeten Mehrkosten - Mehrheitlicher Beschluss mit 23 Ja-Stimmen, 1 Nein-Stimme und 6 Enthaltungen:
+- TOP 15.: Erneuter Prüfantrag über PV-Anlagen auf städt. Immobilien hier: Antrag der CDU-Fraktion vom 18.01.2023 - Beschluss s. RD-Nr. 949-XI/Z-1.
+- TOP -: Erneuter Prüfantrag über PV-Anlagen auf städt. Immobilien hier: Empfehlungsbeschluss des Ausschusses für Umwelt-, Tourismus und Mobilität - Einstimmiger Beschluss:
+- TOP 16.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Stadtgebiet Bad Münstereifel 2023 - Mehrheitlicher Beschluss mit 23 Ja- und 4 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 17.: Betrieb und Einrichtung von Notfallmeldestellen und Leuchttürmen - Einstimmiger Beschluss:
+- TOP 18.: Erlass der Haushaltssatzung für das Haushaltsjahr 2023 mit den gesetzlichen Anlagen hier: Erneute Beschlussfassung - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 19.: Anfragen und Mitteilungen
+- TOP 19.1: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 19.2: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand
+- TOP 19.3: EU-Umgebungslärmrichtlinie - 4. Runde der Lärmaktionsplanung hier: Sachstand und weiteres Vorgehen
+- TOP 19.4: Ergebniszusammenfassung der nach dem Hochwasserereignis durchgeführten Bürgerworkshops und Darstellung der gewonnenen Erkenntnisse in einer interaktiver, öffentlich zugänglicher Karte
+- TOP 19.5: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Prüfantrag Kosten- und Nutzenstruktur des eifelbades hier: Antrag der CDU-Fraktion vom 18.01.2023 - Einstimmiger Beschluss:
+- TOP -: Prüfantrag Kosten- und Nutzenstruktur des eifelbades hier: Antrag der CDU-Fraktion vom 18.01.2023 - Beschluss s. 948-XI/Z-1.
+- TOP 2.: EU-Umgebungslärmrichtlinie - 4. Runde der Lärmaktionsplanung hier: Auftragserteilung - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Sachstand Rettungswache
+- TOP 3.2: Ratssitzung am 03.05.2023 hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
