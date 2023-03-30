@@ -1,0 +1,7 @@
+# TOP 3.: Jahresabschluss 2022 Ermächtigungsübertragungen
+
+- Sitzung: Haupt- und Finanzausschuss (12. Sitzung) (2023-03-30)
+- Körperschaft: Gemeinde Langenberg
+- Öffentlich: ja
+- OParl: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/agendaitem/5772
+- Beratung: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/consultation/1997
