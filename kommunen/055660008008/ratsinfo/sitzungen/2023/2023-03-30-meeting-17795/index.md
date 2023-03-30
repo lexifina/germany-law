@@ -1,0 +1,57 @@
+# Rat (144. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-03-30T18:00:00+02:00
+- Ende: 2023-03-30T19:58:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeun2IvRtDroPUbGytTFhrc
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17795
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe9FgJrFhZpXnEIVENpli1q62-NqADOLjL2D6DSNUSO6/Bekanntmachung_Rat_30.03.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSHlFuEdoo-kdedukwNqEi831w0UQgg5Us5ydBN1Kx1/Oeffentliche_Niederschrift_Rat_30.03.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 15.12.2022
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Bildung und Besetzung von Gremien
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 4.1.1: Umbesetzung von Gremien - Einstimmig
+- TOP 4.2: Bestellung von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 5.: Aktueller Stand und weitere Teilnahme am Programm "Engagierte Stadt" - Einstimmig
+- TOP 6.: Finanzangelegenheiten
+- TOP 6.1: Dienstanweisung für die Finanzbuchhaltung und zum Forderungsmanagement der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 6.2: Aufhebung der Wettbürosteuersatzung - Einstimmig
+- TOP 6.3: Ermächtigungsübertragungen 2022 nach 2023 gem. § 22 KomHVO für das Abwasserwerk der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 6.4: Ermächtigungsübertragungen 2022 nach 2023 gem. § 22 KomHVO - Zur Kenntnis genommen
+- TOP 6.5: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 7.: Etat / Budget
+- TOP 7.1: Zukunft der Galerie Münsterland; Antrag des Vereins Galerie Münsterland e.V. vom 14.09.2022 - 22 Ja-Stimme(n), 19 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.2: Gewährung eines einmaligen Zuschusses zur Jubiläumsausstellung des Emsdettener Kunstverein e.V. - Einstimmig
+- TOP 8.: Sukzessive Rekommunalisierung der Gebäudereinigung - 23 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- oder Feiertagen im Gebiet der Stadt Emsdetten vom 19. Dezember 2018 - 35 Ja-Stimme(n), 5 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 10.: Bebauungspläne
+- TOP 10.1: Bebauungsplan Nr. 43 "Franz-Mülder-Straße / Moorbrückenstraße", Teil A - Satzungsbeschluss - Einstimmig
+- TOP 11.: Allgemeine Stadtentwicklungsplanung
+- TOP 11.1: Antrag auf Mitgliedschaft in der Arbeitsgemeinschaft fußgänger- und fahrradfreundlicher Städte, Gemeinden und Kreise in NRW - 36 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Verkehrsangelegenheiten
+- TOP 12.1: Tempo 30 in der Innenstadt - Beitritt zum Aktionsbündnis - 24 Ja-Stimme(n), 17 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.2: Sachstandsbericht zum Planfeststellungsverfahren zur K53n - Zur Kenntnis genommen
+- TOP 13.: Planung von Hochbauvorhaben
+- TOP 13.1: Umbau, Sanierung und Erweiterung der Kardinal-von-Galen-Schule/ Raumprogramm - Einstimmig
+- TOP 13.2: Neubau einer Sporthalle an der Kardinal-von-Galen-Schule - Raumprogramm - Einstimmig
+- TOP 14.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (2022-2027) - Änderungsbericht 2023 - Einstimmig
+- TOP 15.: Allgemeine Umweltangelegenheiten
+- TOP 15.1: Photovoltaik-Freiflächenanlagen: Leitlinie und Kriterien für Emsdetten - Einstimmig
+- TOP 15.2: Rezertifizierung im European Energy Award 2023 und Ziel der treibhausgasneutralen Stadtverwaltung Emsdetten bis spätestens 2040 - 39 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 16.: Energieautarke und treibhausgasneutrale Kläranlage Emsdetten-Austum - Einstimmig
+- TOP 17.: Schulangelegenheiten
+- TOP 17.1: Zustimmung zur Einrichtung des Gemeinsamen Lernens an Emsdettener Grundschulen gem. § 20 Abs. 5 SchulG NRW - Einstimmig
+- TOP 18.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 18.1: Die gesamtgesellschaftliche Entwicklung im Bereich der Kindertagesbetreuung und ihre Auswirkung auf die Jugendhilfeplanung in Emsdetten - Einstimmig
+- TOP 18.2: Bedarfsmeldung Kindertagesbetreuung 2023/2024 - Einstimmig
+- TOP 19.: Verschiedenes
