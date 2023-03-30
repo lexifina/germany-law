@@ -1,0 +1,51 @@
+# 16. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-03-30T16:30:00+02:00
+- Ende: 2023-03-30T19:37:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6699
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6699
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=397041
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters siehe TOP 14 - im Ausschuss abgelehnt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Vorschlagsliste für die Wahl der ehrenamtlichen Schöffinnen und Schöffen für die Amtsperiode 2024-2028 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorschlagsliste für die Wahl von ehrenamtlichen Richterinnen und Richtern für das Oberverwaltungsgericht Berlin-Brandenburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Wahl eines Bürgerdeputierten und einer stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtentwicklung, Bauen und Umwelt- und Naturschutz (B) - gewählt
+- TOP 6.4: Wahl eines Bürgerdeputierten und eines stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtentwicklung, Bauen und Umwelt- und Naturschutz (B) - gewählt
+- TOP 6.5: Wahl eines Bürgerdeputierten für den Jugendhilfeausschuss - vertagt
+- TOP 7: Vorstand - (offen)
+- TOP 7.1: Vorsteherin / Vorsteher - (offen)
+- TOP 7.1.1: Abwahl des Bezirksverordnetenvorstehers - in der BVV abgelehnt
+- TOP 7.1.2: Wahl der Vorsteherin / des Vorstehers - zurückgezogen
+- TOP 7.2: Abwahl des stv. Bezirksverordnetenvorstehers - in der BVV abgelehnt
+- TOP 7.3: Abwahl der Schriftführerin der BVV - in der BVV abgelehnt
+- TOP 7.4: Abwahl eines stellv. Schriftführers der BVV - gegenstandslos
+- TOP 7.5: Abwahl eines weiteren stellv. Schriftführers der BVV - in der BVV abgelehnt
+- TOP 7.6: Wahl eines /-r weiteren stellv. Schriftführers / Schriftführerin - vertagt
+- TOP 8: Bezirksamt - (offen)
+- TOP 8.1: Wahl des Bezirksbürgermeisters - gewählt
+- TOP 9: Mündliche Anfragen - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sondermittel für den "Förderverein Wassersporthandicaps e. V." (SM 23-06) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für die "Kulturelle Arbeitsgemeinschaft Oberschöneweide (KAOS) e. V." (SM 23-07) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für Brigitte Denecke, Sibylle Meister und Gisela Gräning (SM 23-08) - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sondermittel für den Verein "Partner Treptow-Köpenick e. V." (SM 23-10) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Änderung der Zusammensetzung des Ältestenrates - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Widerstand der christlichen Kirchen in Köpenick im Nationalsozialismus und in der "Köpenicker Blutwoche" erforschen - überwiesen
+- TOP 12.3: Bildung weiterer Ausschüsse / Fortbestand des Ausschusses für Eingaben und Beschwerden - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Änderung § 12 der Geschäftsordnung - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 14: Informationen des Bezirksbürgermeisters - erledigt
