@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Nomborn (2023-03-30)
+- Körperschaft: Ortsgemeinde Nomborn
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2023-19OGR-39%7CMAnoe%7C2
