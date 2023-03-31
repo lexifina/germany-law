@@ -1,4 +1,4 @@
 # Zehnte Verordnung des Sächsischen Staatsministeriums der Finanzen über die Bestimmung der Verwaltungsgebühren und Auslagen (Zehntes Sächsisches Kostenverzeichnis – 10. SächsKVZ)
 Vom 16. August 2021
-Rechtsbereinigt mit Stand vom 1. Januar 2023
+Rechtsbereinigt mit Stand vom 31. März 2023
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 3 Absatz 3, § 4 Absatz 2 bis 4, § 5, § 11 Absatz 1 Nummer 17 sowie § 13 Absatz 2, 3 und 5 Satz 2 des Sächsischen Verwaltungskostengesetzes vom 5. April 2019 (SächsGVBl. S. 245) verordnet das Staatsministerium der Finanzen im Einvernehmen mit der Staatskanzlei, dem Staatsministerium des Innern, dem Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung, dem Staatsministerium für Kultus, dem Staatsministerium für Wissenschaft, Kultur und Tourismus, dem Staatsministerium für Wirtschaft, Arbeit und Verkehr, dem Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt, dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft sowie dem Staatsministerium für Regionalentwicklung:
