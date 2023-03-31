@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund der §§ 51 und 52 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 4. Januar 2023 (BGBl. I Nr. 5) geändert worden ist, in Verbindung mit § 41 Absatz 1 des Bremischen Wassergesetzes vom 12. April 2011 (Brem.GBl. S. 262 - 2180-a-1), das zuletzt durch Artikel 6 Nummer 5 des Gesetzes vom 24. November 2020 (Brem.GBl. S. 1486) geändert worden ist, wird verordnet:
