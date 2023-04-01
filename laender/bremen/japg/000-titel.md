@@ -1,1 +1,1 @@
-# Bremisches Gesetz über die Juristenausbildung und die erste juristische Prüfung (JAPG) vom 20. Mai 2003
+# Bremisches Gesetz über die Juristenausbildung und die erste juristische Prüfung (JAPG) vom 28. Februar 2023
