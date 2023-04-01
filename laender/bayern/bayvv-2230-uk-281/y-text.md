@@ -1,0 +1,1 @@
+Im Vollzug des Art. 78 Abs. 3 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) erlässt das Bayerische Staatsministerium für Unterricht und Kultus folgende Richtlinien für die Schulberatung in Bayern:

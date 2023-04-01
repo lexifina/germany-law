@@ -1,0 +1,1 @@
+In der folgenden Bekanntmachung sind Schulleiterinnen und Schulleiter, Schulpsychologinnen und Schulpsychologen sowie Schülerinnen und Schüler angesprochen. Im Text ist einfach von „Schulleitern“, „Schulpsychologen“ und „Schülern“ die Rede.
