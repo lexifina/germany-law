@@ -1,0 +1,104 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-04-03T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446628
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446628
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: E-Scooter auf Gehwegen abgestellt und Radweg-Parker
+- TOP 2.2.: Straßenüberquerung unter der Bahnbrücke der S-Bahn-Station Harras
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Böllerverbot im Flaucher
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Anhörung zum Wertstoffcontainerstandort
+- TOP 4.2.2.: Mehrjahresinvestitionsprogramm Fortschreibung 2023 bis 2027
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Anfrage des Bezirksausschusses bezüglich Denkmalschutz eines Hauses an der Zechstraße/ Fallstraße
+- TOP 4.3.3.: Dreck im Viertel Antwort
+- TOP 4.3.4.: Gotzinger Platz Interimsboulebahn
+- TOP 4.3.5.: Gasteig München GmbH Begrünte und klimaneutrale Isarphilharmonie Erhaltung des Kreativquartiers HP 8 Antwort
+- TOP 4.3.6.: Baustelleneinrichtung in der Plinganserstraße
+- TOP 4.3.7.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 4.3.8.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 4.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Neue Sitzbank auf der Grünfläche Dietramszellerstraße bei Einmündung Schäftlarnstraße [Seniorenvertretung]
+- TOP 4.4.2.: Sendlinger Müll-Hang – endlich entmüllen! [SPD]
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Einladung Preisverleihung Nachbarschaftspreis Sicherung bezahlbarer Mietwohnungen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Kontrolle der Falschparker in der Plinganserstraße
+- TOP 5.1.2.: (E) + (U) Einrichtung einer Lieferzone für Lastkraftwagen in der Urbanstraße 1-5 Empfehlung Nr. 20-26 / E 00426 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 12.10.2021
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung Radlkoferstraße Weitere Sanierung
+- TOP 5.3.2.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box in der Valleystraße vor den Schulen am Gotzinger Platz – Bestellung einer städtischen Leistung
+- TOP 5.3.3.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box vor der Schule an der Implerstraße – Bestellung einer städtischen Leistung
+- TOP 5.3.4.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box vor der Grundschule an der Pfeuferstraße - Bestellung einer Städtischen Leistung
+- TOP 5.3.5.: SWM Baumaßnahmen
+- TOP 5.3.6.: Antrag auf die Erweiterung der Fußgängerampel an der Grundschule Pfeuferstraße
+- TOP 5.3.7.: Verkehrsrechtliche Anordnung Brudermühlstraße Verlegung einer 110kV-Leitung
+- TOP 5.3.8.: Erfahrungsbericht Oktoberfest 2022
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Umgestaltung der Alramstraße [SPD + Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturprogramm auf der Braunauer Eisenbahnbrücke „Die grüne Brücke“ vom 01.05. bis 31.12.2023 10.000,00 Euro; Az. 0262.0-6-0417
+- TOP 6.1.2.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor „A River Happening“ im Mai und November 2023 5.000,00 € / Az.: 0262.0-6-0416
+- TOP 6.1.3.: (E) Stadtbezirksbudget Comicstadt München e.V. “Ausstellung im Rahmen des Comicfestivals München in der Stadtbibliothek im HP8 vom 08.06.2023 -11.06.2023“ 4.000,00 € / AZ: 0262.0-6-0413
+- TOP 6.1.4.: (E) Stadtbezirksbudget Elterninitiative Igelchen e.V. “Einrichtung eines Parklets in der Schöttlstraße vom 01.04.2023 – 30.10.2023“ AZ: 0262.0-6-0414 / 930,00 €
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine Planung und Neueröffnung an den Standorten • Frobenstraße • Glücksburger Straße • Gundermannstraße West • Max-Lebsche-Platz • Mirabellenweg • Neuherbergstraße 24 • Schatzbogen 29 • Stummerstraße/Servetstraße Verlängerung bestehender Unterkünfte für Geflüchtete an den Standorten • Aschauer Straße 34 • Centa-Hafenbrädl-Straße 50 • Meindlstraße 14a Planungsänderung am Standort Bodersenstraße 34 Dependance des Alten- und Service-Zentrums (ASZ) Kleinhadern-Blumenau am Max-Lebsche-Platz 6. Stadtbezirk – Sendling 11. Stadtbezirk – Milbertshofen-Am Hart 13. Stadtbezirk – Bogenhausen 15. Stadtbezirk – Trudering-Riem 16. Stadtbezirk – Ramersdorf-Perlach 20. Stadtbezirk – Hadern 22. Stadtbezirk – Aubing-Lochhausen-Langwied 23. Stadtbezirk – Allach-Untermenzing 24. Stadtbezirk – Feldmoching-Hasenbergl
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Städtische Grünanlage am Bahndeckel als Haltepunkt des Mobilen Mädchen*treffs [SPD + Die Grünen]
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Il Gelato Italiano
+- TOP 8.3.2.: Unveränderte Fortführung Sonnenstüberl 2
+- TOP 8.3.3.: Unveränderte Fortführung Riviera
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Grundsätzliches zur Abrechnung von Aufwandsentschädigungen; Bereitstellung der Jahresfinanzmeldung
+- TOP 9.3.2.: Durchführung des Sitzungsbetriebs bei den Bezirksausschüssen; hier Aufhebung der Maskenempfehlung
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.3.: Verkehrsführung in der Bruderhofstraße
+- TOP 2.4.: Müll auf dem Baugrundstück Alram- Ecke Aberlestraße
+- TOP 2.5.: Taubenschlag für die Oberländerstraße
+- TOP 2.6.: Anliegen bezüglich den Neuhofener Anlagen
+- TOP 2.7.: Verlegte Bushaltestelle 134, Neuhofen
+- TOP 5.2.1.: Tempo 30 in der Albert-Roßhaupter-Straße im Abschnitt zwischen Am Harras und dem Knoten Hansastraße und Passauerstraße aus lärmschutzgründen
+- TOP 5.2.2.: Veranstaltung Ferienfreizeit "Die Surfskate Bande" im Zeitraum 10.04.-01.11.2023
+- TOP 5.2.3.: Nachbarschaftsflohmarkt am Gotzinger Platz am 13.05.2023
+- TOP 6.1.5.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. “2. Intern. Orgelwochen + Orgelmatineen vom 29.04.2023 – 08.07.2023“ 5.450,00 € / AZ: 0262.0-6-0418
+- TOP 6.1.6.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. “Orgelsoireen vom 22.09.2023 – 15.10.2023“ 2.050,00 € / AZ: 0262.0-6-0419
+- TOP 6.2.1.: Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen
