@@ -1,0 +1,21 @@
+# Politische Partizipation von Menschen mit Behinderungen durchHinzuziehung der Mitglieder der Arbeitsgemeinschaft Behindertenhilfe; auch Ratsantrag 128/18 der SPD – Fraktion, „Beteiligung von Vertreterinnen und Vertretern der Menschen mit Behinderung in den Fachausschüssen“
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 56/0223/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2023-04-04
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=25960
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=25960
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=494901&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4714 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4947 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4982 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5100 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=106
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4873 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=108
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5118 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=108
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5093 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4972 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5123 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5136 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=2
