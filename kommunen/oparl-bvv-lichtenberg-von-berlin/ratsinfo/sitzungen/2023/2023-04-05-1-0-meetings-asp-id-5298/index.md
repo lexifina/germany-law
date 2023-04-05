@@ -1,0 +1,56 @@
+# 1. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-04-05T19:00:00+02:00
+- Ende: 2023-04-05T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5298
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5298
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=361853
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Wahl des Ausschussvorstandes - erledigt
+- TOP 3: Bestätigung der Tagesordnung - erledigt
+- TOP 4: Bestätigung der Protokolle vom Dezember 2022 und Januar 2023 - erledigt
+- TOP 5: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 6: Bericht des Bezirksamtes - erledigt
+- TOP 7: Überwiesene Drucksachen - erledigt
+- TOP 7.1: BiBo-Bike für Lichtenberg (ff) - vertagt
+- TOP 7.2: Diversity-Management Lichtenbergs ausweiten (ff) - vertagt
+- TOP 7.3: Digitale Sprachkurse schaffen - Volkshochschule unterstützen (ff) - vertagt
+- TOP 7.4: Projekt kostenlose Menstruationsartikel ausweiten (ff) - vertagt
+- TOP 7.5: Bürgerhaushalt ausweiten (ff) - im Ausschuss zurückgezogen
+- TOP 7.6: Nutzerzentrierte Öffentlichkeitsarbeit (allein beratend) - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 7.7: Sicherung der Kleingartenanlage "Langes Höhe" (ff) - vertagt
+- TOP 7.8: Fahrradbügel an Kreuzungen aufstellen (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.9: Pflege und Entwicklungsplan für das LSG Wartenberger und Falkenberger Feldflur (ff) - vertagt
+- TOP 7.10: Aufstellen von Fahrradbügeln auf Sperrflächen (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.11: Einzugsbereiche Grundschulen grafisch darstellen (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.12: Programmplanung Nachhaltige Erneuerung (ehem. Stadtumbau Ost) - Vornotierung Programmjahr 2023 (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.13: Kitaforum zum Thema "Mittagessen" mit Lichtenberger Kitas gegen Kostensteigerung im Essenpreis - Entlastung von Familien in schweren Zeiten (ff) - vertagt
+- TOP 7.14: Mehr Öffentlichkeit für den Friedhof Falkenberg und Grabstätte von Marie Elisabeth von Humboldt (ff) - vertagt
+- TOP 7.15: Tage der offenen Tür im Bezirksamt (allein beratend) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.16: Zugang zum Friedhof Falkenberg barrierefrei gestalten (ff) - vertagt
+- TOP 7.17: Denkmale auf dem Städtischen Friedhof Gotlindestraße erhalten (ff) - vertagt
+- TOP 7.18: Personalbedarfe in Lichtenberger Sozialämtern besser feststellen - vertagt
+- TOP 7.19: Informationsstele zu Ehren August César Sandinos (ff) - vertagt
+- TOP 7.20: Ermittlung des Bedarfs von Dienstfahrrädern und Lastenrädern an Lichtenberger Schulen (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.21: Photovoltaik auf öffentlichen Gebäuden ausbauen (ff) - im Ausschuss abgelehnt
+- TOP 7.22: Wasserverbrauch in Sportanlagen reduzieren - Regenwasser besser nutzen (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.23: Ausbau Seniorenbegegnungsstätten (Angebote am Wochenende erweitern) (ff) - vertagt
+- TOP 7.24: Längerer Erfahrungszeitraum für Gewaltpräventionsarbeit durch Maneo in Lichtenberg (ff) - vertagt
+- TOP 7.25: Modellprojekt Familienzentrum an Grundschule (ff) - vertagt
+- TOP 7.26: Struktur zur Umsetzung von Gender Mainstreaming im Bezirksamt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Sondermittelanträge - (offen)
+- TOP 8.1: BVV-Sondermittel für den 26. Hohenschönhausener Gartenlauf des KGV Falkenhöhe-Nord - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.2: BVV-Sondermittel für den Wunschbaum 2023 - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.3: BVV-Sondermittel für die Einrichtung eines Dusch- und Umkleidebereiches für Damen und Mädchen - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.4: BVV-Sondermittel für die Deutsche Volleyballmeisterschaft U16w - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.5: BVV-Sondermittel für die 20. Alternative Europa Meisterschaft (aem) in Zürich und den 20. Geburtstag der bunte-liga-berlin e.V. - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.6: BVV-Sondermittel für Schaumstoffbanden im U8- und U10 Trainings- und Spielbetrieb - ohne Änderungen im Ausschuss beschlossen
+- TOP 9: Sonstiges - erledigt
