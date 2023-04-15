@@ -1,0 +1,3 @@
+# Verordnung des Staatsministeriums des Innern über die Fraktionsfinanzierung in Gemeinden und Landkreisen (Sächsische Fraktionsfinanzierungsverordnung – SächsFraktfinVO)
+Vom 27. März 2023
+Auf Grund des § 127 Absatz 1 Nummer 9a der Sächsischen Gemeindeordnung in der Fassung der Bekanntmachung vom 9. März 2018 (SächsGVBl. S. 62), der durch Artikel 17 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, und des § 68 Absatz 1 Nummer 6a der Sächsischen Landkreisordnung in der Fassung der Bekanntmachung vom 9. März 2018 (SächsGVBl. S. 99), der durch Artikel 2 des Gesetzes vom 9. Februar 2022 (SächsGVBl. S. 134) geändert worden ist, verordnet das Staatsministerium des Innern:
