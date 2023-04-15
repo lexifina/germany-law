@@ -94,7 +94,7 @@ m)
 n)
 § 81 Abs. 4 Satz 1 und 2, § 126 Abs. 1 Satz 1, § 135 Abs. 1 Satz 2, Abs. 2 Satz 2, § 140 Abs. 1 Satz 3 und § 148 Abs. 2 Satz 4 Halbsatz 1 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), die zuletzt durch Artikel 12 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3796) geändert worden ist, in Verbindung mit § 1 Nr. 23 ZustÜVOJu,
 o)
-§ 134 Satz 2 und § 141 Satz 2 der Grundbuchordnung in Verbindung mit § 93 Satz 1, § 96 Abs. 3 Satz 3 und § 101 Satz 1 der Verordnung zur Durchführung der Grundbuchordnung (Grundbuchverfügung – GBV) in der Fassung der Bekanntmachung vom 24. Januar 1995 (BGBl. I S. 114), die zuletzt durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3719, 3721) geändert worden ist, in Verbindung mit § 1 Nr. 24ZustÜVOJu,
+§ 134 Satz 2 und § 141 Satz 2 der Grundbuchordnung in Verbindung mit § 93 Satz 1, § 96 Abs. 3 Satz 3 und § 101 Satz 1 der Verordnung zur Durchführung der Grundbuchordnung (Grundbuchverfügung – GBV) in der Fassung der Bekanntmachung vom 24. Januar 1995 (BGBl. I S. 114), die zuletzt durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3719, 3721) geändert worden ist, in Verbindung mit § 1 Nr. 24 ZustÜVOJu,
 p)
 § 5 Abs. 4 Satz 2 und 3 der Insolvenzordnung (InsO) vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533, 3537) geändert worden ist, in Verbindung mit § 1 Nr. 26 ZustÜVOJu.
 Dresden, den 23. April 2014
