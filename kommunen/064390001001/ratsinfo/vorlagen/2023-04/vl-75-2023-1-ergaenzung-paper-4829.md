@@ -1,0 +1,27 @@
+# Arrondierungsflächen in der Gemeinde Aarbergen
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-75/2023 1. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2023-04-18
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaiJf8vSv4fOggH4LnMGKYE
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/4829
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Arrondierungsflächen in der Gemeinde Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUmucr15Dj6sowdVq5eiO-76Pm0ZIXwfjfidA0jD8dX3/Beschlussvorlage_Ausschuss_HFA_VL-75-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Stellungnahme Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYEGrfzz1dfgtQf4Gk9Vk4QlXd8ymO4qY73Vwub3y9uI/Stellungnahme_Kettenbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Karte Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSQfleoVf1famzlCGNscjaeiJsob0x8iVEEWrNlYU3IC/Karte_Kettenbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Auswertung und Einschätzung Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUzICbWx5JxPLvqMnTyqBqtNpYBEgfzN-nTg19U8q9Xk/Auswertung_und_Einschaetzung_Kettenbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Stellungnahme Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZase1ntNyaFaXTMGA7W3-uzz4u2Llqu9JWkWZIFURfiy/Stellungnahme_Michelbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Karte Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa4kllEHCw57k_rdBCUEFvskujhChFOMjZrglEmF9sgl/Karte_Michelbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Auswertung und Einschätzung Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWylwEBIyJpgNZoWKKZOkj_W_uRRjF3Wwc6Pf6-0-83M/Auswertung_und_Einschaetzung_Michelbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Stellungnahme Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV08K28EFTceBG5hmx_Gx8Kinak1Df9YE7JaCQns7mRa/Stellungnahme_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Karte Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQGrYQ8GX8qImeDSHbaqMqmpjwvOzJ7zEukdbA8emYqn/Karte_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Auswertung und Einschätzung Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWnMNyBVbfNPsj3LMNkxDB8GuUp_IuwKz3YStqgZvCGW/Auswertung_und_Einschaetzung_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Karte Panrod) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW4sPdpnUO8Z02R5mABslBzSImFY-yhxtEmXNVpkpSYp/Karte_Panrod.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Auswertung und Einschätzung Panrod) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbDNljpkvbDGdh-k3RSFF7-L-1WMhrDSJK2tJBD5UFw2/Auswertung_und_Einschaetzung_Panrod.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Stellungnahme Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawhmcKyXET2V6lx5Jh68bPojtoMH5PcgyMPZV6TKNJy/Stellungnahme_Daisbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Karte Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZyu2Lbj4OF-rC1L0DDmjBK4til2lVD7zthKMybSXgJ/Karte_Daisbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Auswertung und Einschätzung Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_iUa-yaYZ8APVxNbuyFHnAvWCESW-icemvrlQli0q5/Auswertung_und_Einschaetzung_Daisbach.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Übersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPqsRnfr0ztvB-VB1ukho9w7STeDMd7PdlEySK4H3CA/Uebersicht.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1763 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-25
