@@ -1,0 +1,8 @@
+# TOP -: Ergänzungsantrag zu TOP 6.4 - Antrag zur Einrichtung einer Projektpartnerschaft mit einer türkischen/syrischen Stadt aus dem Erdbebengebiet
+
+- Sitzung: Sitzung des Integrationsrates (2023-04-18)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/373443
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/173357
