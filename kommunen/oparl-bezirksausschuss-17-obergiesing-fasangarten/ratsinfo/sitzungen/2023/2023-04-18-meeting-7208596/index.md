@@ -1,0 +1,178 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2023-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7208596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7208596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Nachmittagsbetreuung im Sprengel Weißenseeschule (FF: UA FSA)
+- TOP 2.1.2.2.: Dauerparkende Anhänger ab Ständlerstraße bis Kreuzung Fasangarten (FF: UA MuV)
+- TOP 2.1.2.3.: Antrag Einbahnstraße Traunsteiner Straße; Anliegen aus der Bürgerschaft vom 18.03.2023 (FF: UA MuV)
+- TOP 2.1.2.4.: Überdenken des zeitweiligen Halteverbots in der Ständlerstraße / Schwanseestr. 85 (FF: UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Fasangartenstr. 136
+- TOP 3.10.2.: Perlacher Str. 28
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Behindertenstellplätze Ostfriedhof; Antrag des Behindertenbeirats der LHM mit der Bitte um Unterstützung durch den BA 17 (FF: UA MuV)
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) FABI - Paritätische Familienbildungsstätte München e.V. Elterninformation, Spiel- und Bastelangebot bei „Sommer im Park“ am 23.06.2023 270,00 € / Az.: 0262.0-17-0378
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA FSA) Lebenshilfe München e.V. Inklusives Familenfest am 17.06.2023 2.060,00 € / Az.: 0262.0-17-0379
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Kultur) foolpool GbR Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München vom 19. April bis November 2023 9.300,00 € / Az.: 0262.0-17-0381
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Kultur) Initiative Erzählkünstlerin Von Schäferstündchen und Heldentaten; Die besten Stories aus dem Mittelalter am 28.04.2023 654,00 € / Az.: 0262.0-17-0382
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verwendungsnachweis "Freezing in Giesing 2022"
+- TOP 5.4.2.: Verwendungsnachweis "Culture Clouds e.V."
+- TOP 5.4.3.: Verwendungsnachweis "Wir kommen wieder"
+- TOP 5.4.4.: Verwendungsnachweis "Street Art Song"
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.2.1.: (E) Anwesen Aignerstraße 14; Leerstand/Sanierung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Bebauungsplan mit Grünordnung Nr. 2169 Deisenhofener Straße (nördlich), Untersbergstraße (östlich), Warngauer Straße (südlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1803 und Nr. 234a)
+- TOP 6.1.3.2.: Stadelheimer Str. 24 - Friedhof Perlacher Forst - Umstrukturierung Sozialräume Betriebsgebäude sowie Nutzungsänderung Wohngebäude zu Verwaltungsnutzung und Aufstellung Interimsbauwerk
+- TOP 6.1.3.3.: Stadelheimer Str. 23 - Nutzungsänderung einer Ladeneinheit in 2 Wohneinheiten
+- TOP 6.1.3.4.: Holtzendorffstr. 3 - Abbruch des Bestands und Neubau einer Doppelhaushälfte mit Einliegerwohnung im DG
+- TOP 6.1.3.5.: Maurerstr. 12 - Abbruch des Bestands und Neubau einer Doppelhaushälfte mit Einliegerwohnung im DG und Doppelgarage
+- TOP 6.1.3.6.: Perlacher Str. 3 - Errichtung einer Mietwohnanlagemit 4 Gebäuden (ca. 82 WE) und gemeinsamer Tiefgarage - VORBESCHEID (Perlacher Str. 3 / Raintaler Str. / Tegernseer Landstr. 101); vertagt in der Sitzung vom 14.03.2023 (betrifft auch Baumschutz)
+- TOP 6.1.3.7.: Weinbauernstr. 9 - Neubau eines sechsgeschossigen Hospizgebäudes mit einem Untergeschoss und Tiefgarage - VORBESCHEID
+- TOP 6.1.3.8.: Münchberger Str. 33 - Neubau eines Einfamilienhauses mit Garage - (betrifft auch Baumschutz)
+- TOP 6.1.3.9.: Minnewitstr. 25 - Neubau dreier Wohngebäude mit einer Mittelgarage und einem Gemeinschaftsraum (Minnewitstr. 25-27 / Pennstr.)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA hier: Chiemgaustr.
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA hier: Deisenhofener Str.
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA hier: Perlacherstr.
+- TOP 6.1.4.4.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA hier: Scharfreiterstraße
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" Unterrichtung nach Art. 16 des Katalogs der Fälle der Bezirksausschüsse hier: Werinherstr.
+- TOP 6.1.4.6.: Vollzug der Erhaltungssatzung Trauchberg- / Forggenseestraße; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Fockensteinstraße; Unterrichtung vom 08.03.2023
+- TOP 6.1.4.7.: Vollzug der Erhaltungssatzung Scharfreiterplatz; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Schwanseestraße; Unterrichtung vom 08.03.2023
+- TOP 6.1.4.8.: Sektoraler Bebauungsplan Nr. 2188 Boschetsrieder Straße (südlich), Aidenbachstraße (westlich), ehemaliges Industriegleis (nördlich), Geisenhausenerstraße (östlich) - Aufstellungsbeschluss - Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP 6.1.4.9.: Listen der BV im 17. Stadtbezirk, KW 9 - 27.02.23 bis 05.03.23, KW 10 - 06.03.23 bis 12.03.23, KW 11 - 13.03.23 bis 19.03.23
+- TOP 6.1.4.10.: Vollzug der Erhaltungssatzung „Tegernseer Landstraße“; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Werinherstr.; Unterrichtung vom 29.03.2023
+- TOP 6.1.4.11.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Däumlingstraße; Unterrichtung vom 29.03.2023
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Es brennt; Missstände an den Grundschulen Rückmeldung BA 5 Au-Haidhausen zum Schreiben BA 17
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Spakoo: 23 02326 MT209; Arzberger Str. 3-19 ; Gehbahnwiederherstellung in Kunststeinplatten sowie Fahrbahnsanierung durch Asphaltverlegung; Frist: 28.04.2023
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Projekt Neugestaltung Tegernseer Platz
+- TOP 6.3.4.2.: Spureinfädelung Chiemgaustraße / Tegernseer Landstraße
+- TOP 6.3.4.3.: Antrag zum Bau einer Fahrradabstellanlage in der Hohenwaldeckstr.
+- TOP 6.3.4.4.: Arbeiten im Straßenraum Auguste-Kent-Platz mit Cincinnatisstr. und Marklandstr. Neubau eines Kreisverkehrs und Neubau einer Bushaltestelle
+- TOP 6.3.4.5.: Änderung bzw. Ergänzung der verkehrsaufsichtlichen Erlaubnis vom 20.01.2022 Balansttr. 42-60
+- TOP 6.3.4.6.: Ampelanlage Martin-Luther-Straße Ecke Weinbauernstrasse
+- TOP 6.3.4.7.: Änderung der Ampelschaltung für mehr Sicherheit von Fußgängern und Radfahrern an Kreuzung Candid-/Tegernseer Landstraße
+- TOP 6.3.4.8.: Rücksichtsloses Parken Ecke Perlacherstraße / Raintalerstraße
+- TOP 6.3.4.9.: Perlacher Straße, Bauminsel, absolutes Haltverbot; Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO; Unterrichtung des MOR
+- TOP 6.3.4.10.: St.-Martin-Straße und Zugspitzstraße; absolute Haltverbote nach Umbau Platzfläche „Giesinger Zugspitzplätzchen“; Vormerkung und verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO; Unterrichtung des MOR
+- TOP 6.3.4.11.: Zukünftige Beschilderung der Fahrradabstellanlagen/Abstellanlagen für Lastenräder; Unterrichtung des MOR vom 24.03.2023
+- TOP 6.3.4.12.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 6.3.4.13.: Hochgefährlicher Weg am Giesinger Berg - BA 17 zur Kenntnis -
+- TOP 6.3.4.14.: Trixi-Spiegel Lincolnstr. / Tegernseer Landstr.
+- TOP 6.3.4.15.: Arbeiten im Straßenraum Stadelheimer Straße zwischen Warthofstraße und Traunsteiner Straße, verkehrsrechtliche Anordnung vom 24.04.-30.06.2023
+- TOP 6.3.4.16.: Arbeiten im Straßenraum Traunsteiner Str. 55-63, Seite Sachranger Straße, verkehrsrechtliche Erlaubnis von 31.03.-28.04.2023
+- TOP 6.3.4.17.: Änderung bzw. Ergänzung der verkehrsaufsichtlichen Erlaubnis vom 23.12.2022 Severinstraße
+- TOP 6.3.4.18.: Raintaler Straße zwischen Wirtstraße und Tegernseer Landstraße, Spixstraße südlich Kreuzungsbereich Perlacherstraße/Herzogstandstraße, Wirtstraße; Erweiterung der Tempo 30-Zone Nr. 211; Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO; Unterrichtung des MOR
+- TOP 6.3.4.19.: Mobilitätspunkte im Stadtbezirk 17; Unterrichtung des MOR
+- TOP 6.3.4.20.: Informationsschreiben für Anwohner bei Änderungen der Verkehrsführung
+- TOP 6.3.4.21.: Antrag Nr. 3108 des BA 17; Vermeidung von Schleichverkehr Feldmüllersiedlung
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Baumpflanzung im Bereich der Zugspitzstraße
+- TOP 6.4.4.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; nachträgliche Unterrichtung des Baureferates-Gartenbau vom 19.01.2023 über entfernte Gefahrenbäume
+- TOP 6.4.4.3.: Neupflanzung Zugspitzplätzchen - geeignete Baumart
+- TOP 6.4.4.4.: Unterrichtung des Baureferates-Gartenbau vom 09.03.2023 über bevorstehende Entfernungen von Gefahrenbäumen in der Tegernseer Landstr. 125
+- TOP 6.4.4.5.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV); Oberviechtacher Str. 38; Bescheid vo 22.03.2023
+- TOP 6.4.4.6.: Abfeuern von Bollerschüssen; Antwortschreiben des KVR vom 27.03.2023 zu einem Anliegen aus der Bürgerschaft
+- TOP 6.4.4.7.: BV Deisenhofener Str. 63 (Versicherungskammer Bayern) – Überprüfung Strauchrodung und Baumfällung
+- TOP 6.4.4.8.: Lichtverschmutzung des neuen Toilettenhauses am Walchenseeplatz
+- TOP 6.4.4.9.: Abschlussbericht zur Prozessbegleitung Giesinger Grünspitz 2022, Förderung durch „Bürger*innen gestalten ihre Stadt“
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Giesinger Bahnhofsplatz; Spielaktionen für Kinder und Jugendliche von CultureClouds e.V. - Tanz. Die Invasion vom 01.06.23 bis 03.06.23 und 26.10.23 bis 28.10.23 Frist zur Stellungnahme bis spätestens 17.04.2023
+- TOP 6.5.3.2.: Veranstaltung innerhalb einer städtischen Grünanlage; Hier: Giesinger Kirchplatzfest, Ichostr. 1; Zuleitung des KVR mit der Bitte um Stellungnahme bis 12.05.2023
+- TOP 6.5.3.3.: Veranstaltung innerhalb einer städt. Grünanlage/Spielplatz am St Martins Platz – Kinderflohmarkt am 12.05.2023; Frist: 28.04.2023
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Erweiterung einer bestehenden Freischankfläche für "Cafe Violin", Martin-Luther-Str. 26
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrag-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 05.12.2022 Änderung der BA-Satzung; Anhörung des Direktoriums
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2023 bis 2027
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
