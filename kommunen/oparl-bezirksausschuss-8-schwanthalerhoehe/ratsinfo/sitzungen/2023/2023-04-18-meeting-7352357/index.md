@@ -1,0 +1,83 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352357
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352357
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Konflikte zwischen Radfahrern und Fußgängern im Angelika-Lex-Weg
+- TOP 4.2.: Engpass in der Schwanthalerstr. zwischen der Parkstr. und der Schießstättstr.
+- TOP 4.3.: Zeitlich eingeschränktes Parken gegen Umsatzrückgang in der Heimeranstr. / Bergmannstr.
+- TOP 4.4.: Blumenoffensive auf den öffentlichen Grünflächen im Viertel sowie Nachnutzung für die Asphaltstockbahn am Georg-Freundorfer-Platz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Schnaderböckstraße 6
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 5; Biergarten
+- TOP 6.2.2.: Bauvorhaben Gollierstraße 4
+- TOP 6.2.3.: Bauvorhaben August-Kühn-Straße 2 - 8
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.2.: Meldelisten Bauvorhaben
+- TOP 6.3.3.: Anwesen Theresienhöhe 16; Bestellung Erbbaurecht für soziale Nutzungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Einladung zur Mission Inklusion am Montag, den 08.05.2023 von 17.00 - 20.00 Uhr
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung am Georg-Freundorfer-Platz; Spielfest zum Weltspieltag: "Hier spielen wir!" am 28.05.2023
+- TOP 8.2.2.: Veranstaltung Am Bavariapark; Information zur temporären Installation des Kunstprojektes "Schneckengarten" am 21.06.2023 und 27.07.2023
+- TOP 8.2.3.: Informationsveranstaltung zur Verkehrssicherheit in der Bergmannstraße am 01.07.2023
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Temporäre Kunstaktion "The Broken Pitcher" im Bavariapark, 30.06., 07.07., 14.07. und 21.07.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Verkehrsregelung zur Wiesn in der Gollierstraße Empfehlung Nr. 20-26 / E 00522 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.1.2.: (E) + (U) Hackerbrücke: Einführung eines Überholverbotes von einspurigen Fahrzeugen (Fahrrad) für mehrspurige Fahrzeuge (KFZ) Empfehlung Nr. 20-26 / E 00524 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Straßenbauarbeiten Bushaltestelle Donnersbergerbrücke
+- TOP 9.2.2.: Aufhebung der Lieferzone in der Bergmannstraße 47 (ehemalige Postfiliale)
+- TOP 9.2.3.: Straßenbauarbeiten an den Parkbuchten in der Westend- und Trappentreustraße
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Lizenzgebiet Schwanthalerhöhe; Änderung der Parkregeln
+- TOP 9.3.2.: Lizenzgebiet Theresienhöhe; Änderung der Parkregeln
+- TOP 9.3.3.: Erweiterung der Umweltzone inkl. Dieselfahrverbot; verkehrsrechtliche Anordnung der Beschilderung
+- TOP 9.3.4.: Umwandlung von zwei Kfz-Parkplätzen vor dem Anwesen Schwanthalerstraße 125 in Fahrradstellplätze; BA-Antrag 14-20 / B 07227
+- TOP 9.3.5.: Protokoll des Nachtspaziergangs im Bezirk Schwanthalerhöhe
+- TOP 9.3.6.: Zukünftige Beschilderung der Fahrradabstellanlagen / Abstellanlagen für Lastenräder
+- TOP 9.3.7.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.8.: Straßensanierungsmaßnahme Fäustlestr. 2-14
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget foolpool GbR “Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München vom 01.04.2023 – 30.11.2023“ 9.300,00 € / AZ: 0262.0-8-0345
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Info-Kampagne zur Begrünung des 8. Stadtbezirks
+- TOP 11.2.: Umgestaltung Fäustlestraße: Mehr Grün, mehr Charme, mehr Aufenthaltsqualität
+- TOP 11.3.: Graffiti-Projekt Feuerwache 3
+- TOP 11.4.: Partizipation für Kinder aktiv gestalten - Durchführung einer Kindereinwohnerversammlung
+- TOP 11.5.: Boule-Anlage am Gollierplatz
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen
+- TOP 12.2.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2023 bis 2027
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
