@@ -1,0 +1,80 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-04-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7354863
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7354863
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 14.03.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.1.1: Änderung der Stadtbezirksbudget-Richtlinien vom 01.10.2021
+- TOP 3.2.: (E) Stadtbezirksbudget Klima Cafe im Bürgertreff treff+tee e.V.: Radl-Vorrangkarte-to-go für den BA 19 vom 01.04.2023 bis 31.12.2023 988,65 € / AZ: 0262.0-19-0447
+- TOP 3.3.: (E) Stadtbezirksbudget Jugendzentrum Treibhaus (schule.beruf e.V.): Gagen zur Förderung der lokalen Newcomer-Szene; Termine am 28.04., 26.05., 29.09., 20.10., 17.11., 15.12.2023 1.517,50 € / AZ: 0262.0-19-0457
+- TOP 3.4.: (A) Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2023 bis 2027
+- TOP 3.5.: (Antrag) Bestellung städtischer Leistungen: Hundekotbeutelspender
+- TOP 3.6.: (E) Stadtbezirksbudget AG Theater und Tanz der Königswieser Grundschule: Der Herr der Diebe vom 26.06. bis 30.06.2023 3.296,90 € / AZ: 0262.0-19-0458
+- TOP 3.7.: (E) Stadtbezirksbudget TSV Forstenried München e.V.: CO²-Footprint des TSV Forstenried vom 01.06. bis 31.10.2023 1.998,40 € / AZ: 0262.0-19-0459
+- TOP 3.8.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried: Geschlechterrollen/Diversity: Mädchen-/Jungenprojekt für die 6. Klassen vom 01.06.2023 bis 01.08.2023“ 656,25 € / AZ: 0262.0-19-0460
+- TOP 3.9.: (E) Stadtbezirksbudget Maibaumverein Solln e.V. “Tanz um den Maibaum am 01.05.2023 – wie seit 30 Jahren“ 1.040,00 € / AZ: 0262.0-19-0462
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Wertstoffcontainer Fürstenried Ost
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (U) Verkehrsrechtliche Anordnung: Anordnung der Beschilderung zur Erweiterung der Umweltzone inklusive Dieselfahrverbot
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Aufhebung absolutes Haltverbot Bertelestraße an der Nordseite zwischen Sollner Straße und Melchiorstraße
+- TOP 5.4.: (U) Verkehrsrechtliche Anordnung: Einrichtung absolutes Haltverbot gegenüber Schulbushaltestelle Malmedystraße
+- TOP 5.5.: (U) Verkehrsrechtliche Anordnung: Einrichtung absolute Haltverbote Gulbranssonstraße Südseite zur Gewährleistung eines reibungslosen Ablaufs des Linienverkehrs der Buslinie 63
+- TOP 5.6.: (A) Entscheidungsvorschlag zur künftigen Raumaufteilung der Boschetsrieder Straße zwischen Aidenbachstraße und Plinganser-/Wolfratshauser Straße (Stadtbezirk 19); Sitzungsvorlage Nr. 20-26 / V 06750
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Eingeschränktes Haltverbot Zielstattstraße
+- TOP 5.8.: (BV) Verlängerung der Grünphase an der Ampel für Fußgänger*innen Kreuzung Drygalski-Allee / Boschetsrieder Straße
+- TOP 5.9.: (Antrag) Fahrradparkhäuser am S-Bahnhof Solln
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Münsinger Straße 14
+- TOP 6.2.2: Kistlerhofstraße 70 (VB)
+- TOP 6.2.3: Schuchstraße 18
+- TOP 6.2.4: Alfred-Kubin-Weg 46
+- TOP 6.2.5: Stäblistraße 33a
+- TOP 6.2.6: Drygalski-Allee 29
+- TOP 6.2.7: Faustnerweg 3
+- TOP 6.2.8: Heilmaierstraße 10 (VB)
+- TOP 6.2.9: Herterichstraße 57
+- TOP 6.2.10: Rietschelstraße 4 (T)
+- TOP 6.3.: (U) Sektoraler Bebauungsplan Nr. 2188 Boschetsrieder Straße (südlich), Aidenbachstraße (westlich), ehemaliges Industriegleis (nördlich), Geisenhausenerstraße (östlich) - Aufstellungsbeschluss - Sitzungsvorlage Nr. 20-26 / V 09331
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Konzert am Ratzingerplatz am 17.06.2023
+- TOP 8.3.: (A) Veranstaltung: Straßenfest Leuthener Straße und Roßbacher Weg am 24.06.2023
+- TOP 8.4.: (U) Gaststättenfortführung: Emil-Geis-Straße
+- TOP 8.5.: Dorffest Forstenried am 09. und 10. September 2023
+- TOP 8.6.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 29.05. bis 11.06.2023
+- TOP 8.7.: (U) Veranstaltung: Fahrradsicherheitscheck Thalkirchner Platz am 07.04.2023 und Schweizer Platz am 28.04.2023
+- TOP 8.8.: (A) Veranstaltung: Jahrestagung Grünanlage Miesingstraße/Schmiedberg/Kirchweg am 07.05.2023
+- TOP 8.9.: (A) Satzungsänderung: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen (Antrag BA 6 - Sendling)
+- TOP 8.10.: (A) Veranstaltung: Kulturveranstaltungen Tierparkstraße vom 06.05. bis 28.06.2023
+- TOP 8.11.: Jahresempfang Bezirksausschuss 19
+- TOP 8.12.: - NACHTRAG - (U) Gaststättenfortführung: Gmunder Straße
+- TOP 8.13.: - NACHTRAG - (U) Gaststättenfortführung: Forstenrieder Allee
+- TOP 8.14.: - NACHTRAG - (A) Veranstaltung: Erinnerungszeichen in der Maria-Einsiedel-Str. 4 am 24.05.2023
+- TOP 9: Verschiedenes
