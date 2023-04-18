@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Görgeshausen (2023-04-18)
+- Körperschaft: Ortsgemeinde Görgeshausen
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2023-07OGR-47%7CMAnoe%7C2
