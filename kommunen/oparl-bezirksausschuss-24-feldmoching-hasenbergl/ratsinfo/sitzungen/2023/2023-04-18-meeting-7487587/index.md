@@ -1,0 +1,85 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2023-04-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7487587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7487587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-Nord Anschaffung eines „Aquaeye“, Sonar zum Lokalisieren von Ertrunkenen - Feldmochinger See 7.200,00 Euro; Az. 0262.0-24-0454
+- TOP 2.2.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-Lerchenau Anschaffung eines „Aquaeye“, Sonar zum Lokalisieren von Ertrunkenen - Lerchenauer See 7.200,00 Euro; Az. 0262.0-24-0453
+- TOP 2.3.: (E) Stadtbezirksbudget SC Lerchenauer See Erneuerung von 2 Spielerkabinen am Spielfeldrand als Schutzfunktion 8.137,07 Euro; Az. 0262.0-24-0455
+- TOP 3.: Anträge
+- TOP 3.1.: Umsetzung von Fahrradabstellanlagen am Bahnhof Feldmoching mit Fördermitteln des BMDV
+- TOP 3.2.: Errichtung eines Fahrradparkhauses am Bahnhof Feldmoching und Beantragung Fördermittel des Bundes
+- TOP 3.3.: Grünflächen erhalten - Auswirkungen auf den Stadtbezirk 24
+- TOP 3.4.: Strompreis für Wärmepumpen günstiger gestalten als Strompreise für alle anderen Tarife
+- TOP 3.5.: Ausstehende Anträge und Anfragen aus dem BA 24 und von den Bürgerversammlungen im 24. Stadtbezirk
+- TOP 3.6.: Planung des Sport-Campus auf dem Lerchenauer Feld - hier: Wünsche der dort vertretenen Sportvereine und des BA24
+- TOP 3.7.: Verbesserung der Parksituation im Hasenbergl mit Lösungsansätzen
+- TOP 3.8.: N_ Mehr demokratische Teilhabe: Bürgerbegehren auf Stadtbezirksebene einführen!
+- TOP 3.9.: N_ Verbesserung des Personalmangels der BA-Geschäftsstellen
+- TOP 4.: Die Bürger*innen haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (inkl. Baumfällungen)
+- TOP 5.1.1.: Augustin-Rösch-Str. 23
+- TOP 5.1.2.: Karlsfelder Str. 5
+- TOP 5.1.3.: Lerchenauer Str. 285
+- TOP 5.1.4.: Ludwig-Gramminger-Str. 4
+- TOP 5.1.5.: Moosglöckchenweg 10
+- TOP 5.1.6.: Ponkratzstr. 26
+- TOP 5.1.7.: Dülferstr. 48
+- TOP 5.1.8.: Herbergstr. 5
+- TOP 5.1.9.: Detmoldstr. 28
+- TOP 5.1.10.: Udalrichstr. 17a
+- TOP 5.2.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichem Grund
+- TOP 5.2.1.: Sondernutzung des Dülferangers für Veranstaltungen - hier: Beratung über die geplanten Veranstaltungen in ihrer Häufigkeit
+- TOP 5.2.2.: Veranstaltung in städtischer Grünanlage: Weitlstr. 125 Aktion "Bänke" am 07.05.2023
+- TOP 5.2.3.: Veranstaltung in diversen städtischen Grünanlagen: u.a. Lerchenauer See und Abenteuerspielplatz ABIX "Fit im Park" im Zeitraum 01.05. bis 30.09.2023
+- TOP 5.2.4.: N_ Veranstaltung auf öffentl. Verkehrsgrund und auf Privatgrund: „Straßenfest Fasanerie“ am 15.07.2023
+- TOP 5.2.5.: N_ Veranstaltung auf öffentl. Verkehrsgrund: Walter-Sedlmayr-Platz „Spielefest des KJR“ am 21.07.2023
+- TOP 5.2.6.: N_ Veranstaltung auf öffentl. Verkehrsgrund, Grünanlage und Privatgrund: „Feldgottesdienst mit Prozession und Pfarrfest“ am 18.06.2023
+- TOP 5.3.: Sonstige Anhörungen
+- TOP 5.3.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Leuschnerstraße; Einrichtung einer Schulbushaltestelle
+- TOP 5.3.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Südseite Ponkratzstraße (westl. Kreuzung zur Lerchenauer Straße östl. der Hs-Nr: 65); Gefahrenzeichen Radfahrer
+- TOP 5.3.3.: Angebot der Gebietsbetreuung im 24. Stadtbezirk: Vortrag für Bürger*innen über das "Schwarzhölzl"
+- TOP 5.3.4.: Bebauungsplan mit Grünordnung Nr. 2143 (Eggarten-Siedlung) sowie Änderung des Flächennutzungsplanes (FNP)
+- TOP 5.3.5.: Planfeststellungsverfahren (1. Tektur): A99 - Sanierung Allacher Tunnel
+- TOP 5.3.6.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2023 bis 2027; hier: Selektion für den 24. Stadtbezirk
+- TOP 5.3.7.: Änderung der BA-Satzung (Antrag BA6): Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP -: Antwortschreiben
+- TOP 1.: Behindertengerechte Absenkung von Fußwegbordsteinen an Süd- und Nordseite östlich der Johann-Emmer-Straße/ Dülferstraße
+- TOP 2.: Verbesserung der Sicherheit der Schulpavillonanlage an der Einmündung Franz-Fackler-Straße/ Max-Wönner-Straße/ Lassallestraße
+- TOP 3.: Einrichtung von jeweils mindestens zwei weiteren E-Ladestationen im Hasenbergl, Ludwigsfeld und am Lerchenauer See
+- TOP 4.: Schulwegsicherheit im Bereich Lerchenauer Straße/ Ponkratzstraße; nochmalige Prüfung der vorgeschlagenen Maßnahmen
+- TOP 5.: Für den 24. Stadtbezirk soll ein Streetworker in Vollzeit eingesetzt werden
+- TOP 6.: Ersatzpflanzungen für gefällte Bäume an der Grünanlage Ecke Herberg-/Paul-Preuß-Straße bzw. entlang der Herbergstraße
+- TOP 7.: Einrichtung eines absoluten Haltverbots von der Ecke Schroppenwiesenstraße / Auf den Schrederwiesen (Ablehnung Bürgeranliegen)
+- TOP 8.: Sanierung der Feldmochinger Straße (Antwort auf Bürgeranliegen)
+- TOP -: Sonstige Unterrichtungen
+- TOP 9.: Zukünftige Beschilderung der Fahrradabstellanlagen/ Abstellanlagen für Lastenräder
+- TOP 10.: Verkehrsrechtliche Anordnung nach § 45 StVO: Toni-Pfülf-Straße; Haltverbote in diversen Bereichen
+- TOP 11.: Vorabstellungnahmen Vorsitzender gemäß § 29 Abs. 1 BA-Satzung: Veranstaltungen in städtischen Grünanlagen/ Skateparks 1. Traditionelles "Persisches Fest" am Fasaneriesee am 02.04.2023 2. Ferienfreizeit "Die Surfskate Bande" u.a. im Skatepark Fasanerie im Zeitraum 10.04. bis 01.11.2023
+- TOP -: Sitzungsvorlagen/Beschlüsse Stadtrat
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 14.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 15.: (U) Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine Planung und Neueröffnung an den Standorten • Frobenstraße • Glücksburger Straße • Gundermannstraße West • Max-Lebsche-Platz • Mirabellenweg • Neuherbergstraße 24 • Schatzbogen 29 • Stummerstraße/Servetstraße Verlängerung bestehender Unterkünfte für Geflüchtete an den Standorten • Aschauer Straße 34 • Centa-Hafenbrädl-Straße 50 • Meindlstraße 14a Planungsänderung am Standort Bodersenstraße 34 Dependance des Alten- und Service-Zentrums (ASZ) Kleinhadern-Blumenau am Max-Lebsche-Platz 6. Stadtbezirk – Sendling 11. Stadtbezirk – Milbertshofen-Am Hart 13. Stadtbezirk – Bogenhausen 15. Stadtbezirk – Trudering-Riem 16. Stadtbezirk – Ramersdorf-Perlach 20. Stadtbezirk – Hadern 22. Stadtbezirk – Aubing-Lochhausen-Langwied 23. Stadtbezirk – Allach-Untermenzing 24. Stadtbezirk – Feldmoching-Hasenbergl
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Bauleitplanung, Verkehr
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 7.4: Unterausschuss Bau, Klima-, Umwelt-, Baum-, Denkmalschutz
+- TOP 7.5: BA-Vorsitzende*r
+- TOP 7.6: Beauftragte des BA 24
+- TOP 7.7: Sonstige Berichte
+- TOP 8.: Verschiedenes / Termine
