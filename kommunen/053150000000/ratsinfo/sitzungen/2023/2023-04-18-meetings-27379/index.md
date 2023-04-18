@@ -1,0 +1,54 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-04-18T15:00:00+02:00
+- Ende: 2023-04-18T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27379
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27379
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zu WLAN am Wohnheim für Geflüchtete Poller Holzweg - Kenntnis genommen
+- TOP -: Anfrage zu W-LAN am Wohnheim für Geflüchtete Poller Holzweg - Kenntnis genommen
+- TOP 3.2: Anfrage: Aktueller Stand DOMID und Halle 71 - zurückgestellt
+- TOP 3.3: Anfrage Schnelle Bearbeitung von Visaverfahren nach der Erdbebenkatastrophe in der Türkei und in Syrien - Kenntnis genommen
+- TOP -: "Schnelle Bearbeitung von Visaverfahren nach der Erdbebenkatastrophe in der Türkei und in Syrien; Beantwortung einer Anfrage der SPD-Liste und SPD-Fraktion (AN/0310/2023) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur städtischen Antidiskriminierungsrichtlinie - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Evaluation der Veranstaltungsreihe zu diversen Gesundheitsthemen durch den Caritasverband der Stadt Köln e.V. (September bis Dezember 2022) - Kenntnis genommen
+- TOP 5.2: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 5.3: Update zum Begleitgremium zum Kinder- und Jugendförderplan der Stadt Köln 2021-2025 - Kenntnis genommen
+- TOP 5.4: Jahresbericht Auszugsmanagement für den Zeitraum 01.01.-31.12.2022 - Kenntnis genommen
+- TOP 5.5: Mitteilung über die Beantwortung einer Anfrage zur Weiterführung des Projekts Brückenbauer* - Kenntnis genommen
+- TOP 5.6: Geschäftsbericht Wohnen in Köln 2020/2021 - Fakten, Zahlen und Ergebnisse 2020/2021; Ausblick - Kenntnis genommen
+- TOP 5.7: Welcome-Point Cologne (WPC) am Breslauer Platz / Hauptbahnhof - Kenntnis genommen
+- TOP 5.8: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2022 - Kenntnis genommen
+- TOP 5.9: Anerkennung als Träger der freien Jugendhilfe; hier: Afina - Assoziation Für Interkulturelle und Nachbarschaftliche Arbeit e.V. - Kenntnis genommen
+- TOP 5.10: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 5.11: Leitbild für kulturelle Teilhabe und Vielfalt: Informationen zum dialogischen Verfahren - Kenntnis genommen
+- TOP 5.12: Gleichbehandlung von Geflüchteten - Umsetzung des Beschlusses des Hauptausschusses vom 11.07.2022 - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Einrichtung und Begleitung eines Netzwerkes ‚Städtische Mitarbeitende mit internationaler Familiengeschichte‘ - geändert beschlossen
+- TOP 6.2: Antrag zur Einrichtung eines Mentoring Programms für städtische Mitarbeitende mit internationaler Familiengeschichte - geändert beschlossen
+- TOP 6.3: Antrag zur Einrichtung einer Koordinationsstelle Erdbeben Türkei/Syrien - ungeändert beschlossen
+- TOP 6.4: Antrag zur Einrichtung einer Projektpartnerschaft mit einer türkischen/syrischen Stadt aus dem Erdbebengebiet - Alternative beschlossen
+- TOP -: Ergänzungsantrag zu TOP 6.4 - Antrag zur Einrichtung einer Projektpartnerschaft mit einer türkischen/syrischen Stadt aus dem Erdbebengebiet - ungeändert beschlossen
+- TOP 6.5: Antrag zur Verabschiedung einer Resolution zur Novellierung des Staatsangehörigkeitsgesetzes - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Freigabe und Verteilung der über den politischen Veränderungsnachweis bereitgestellten 80.000 € für die Maßnahme „Interkulturelle Öffnung der Verwaltung (externe Beratung)“ - ungeändert beschlossen
+- TOP 8.2: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - ungeändert beschlossen
+- TOP 8.3: Verlängerung der Anmietung des Standortes Ringstr. 38-44 in 50996 Köln-Rodenkirchen zur Unterbringung von Geflüchteten - ungeändert beschlossen
+- TOP 8.4: Freigabe und Beauftragung von Mitteln des politischen Veränderungsnachweises zum Haushalt 2023/2024 für einen einmaligen Mietkostenzuschuss an den Träger Blau-Gelbes Kreuz e.V. - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
