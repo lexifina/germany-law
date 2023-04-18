@@ -1,0 +1,162 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7392994
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7392994
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Öffentliche Toiletten am Königsplatz
+- TOP 6.2.: Höhlenmalerei in der Maxvorstadt
+- TOP 6.3.: Keine weiteren Grün- und Aufenthaltsflächen für die IAA
+- TOP 6.4.: Toilettenwagen im Umfeld des Hauptbahnhofs
+- TOP 6.5.: Klimakonzept bei Bauvorhaben fordern.
+- TOP 6.6.: Auskunft über den aktuellen Stand der Bearbeitung von Leerstands-Meldungen
+- TOP 6.7.: Baulücke in der Erika-Mann-Straße für Streetart zur Verfügung stellen
+- TOP 6.8.: Trafohaus am Spielplatz Alter Nördlicher Friedhof gestalten
+- TOP 6.9.: Professionelle Gestaltung der Mauer um das Gelände der Schwindschule
+- TOP 6.10.: Baustellenmanagement Linprunstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Gestaltungsvorschlag für Gabelsbergerstraße
+- TOP 1.1.2.: Türkenstraße 94 (vertagt aus 03/23)
+- TOP 1.1.3.: Beschluss des Bauausschusses vom 7.3. 23
+- TOP 1.1.4.: Baumschutz Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Baumfällungen auf dem Grundstück Augustenstraße 87 bis 89
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 7-12
+- TOP 2.1.2.: WEB-Listen der LBK: KW 7-12
+- TOP 2.1.3.: Maximiliansplatz, Werbevitrine
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Schwindschule Umweltbildung für die 4. Klassen, FTG, Deutschklassen vom 31.01. - 31.07.2023 900,00 Euro, Az.: 0262.0-3-0449
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative "Stammtisch" Münchner Mieter*innen Stammtisch am 20.04.2023 300,00 Euro, Az.: 0262.0-3-0458
+- TOP 2.2.3.: (E) Stadtbezirksbudget Urbanes Wohnen e.V. München, Natur-Kultur-Werkstatt Veranstaltung "Zukunft des Justizzentrums" vom 10.04. - 30.08.2023 2.000,00 Euro, Az.: 0262.0-3-0454
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Barer Str. 29
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Antwort UNB auf BA-Stellungnahme zum Fällungsantrag Veterinärstr. 13
+- TOP 5.2.: Bescheid Türkenstraße 52-54
+- TOP 5.3.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 5.4.: Schönfeldstr. 14, Baugenehmigung
+- TOP 5.5.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 5.6.: Erlass von Erhaltungssatzungen für das gesamte Stadtgebiet (Punkt 1 des Antrags)
+- TOP 5.7.: Urbanes Gärtnern in München StR-Anträge
+- TOP 5.8.: (U) Fünf Plätze attraktiv neu gestalten A) Platz an der Barer Straße / Ecke Nordendstraße B) Lorettoplatz
+- TOP 5.9.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 5.10.: (U) Grün- und Freiflächenversorgung in der Bebauungsplanung - Orientierungswerte
+- TOP 5.11.: Konkretisierung der Konzeption „Freiraum M 2030“ Schlüsselprojekt Freiraumquartierskonzept Innenstadt 1 StR-Anträge
+- TOP 5.12.: Baugenehmigung, Schleißheimer Str
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Mehr Sicherheit für Radfahrende in der Theresienstraße zwischen Ludwig- und Barer Straße Bürger*innenanliegen vom 03.03.2023
+- TOP 1.1.2.: Widerrechtliches Fahrradfahren auf Gehsteig Augustenstraße Bürger*innenanliegen vom 27.02.2023
+- TOP 1.1.3.: Tempo 30 im Abschnitt Dachauer Straße 87-155 Bürger*innenanliegen vom 15.03.2023
+- TOP 1.1.4.: Rad- & Gehweg Maxvorstadt
+- TOP 1.1.5.: Fahrradständer Neureuther Straße 10
+- TOP 1.1.6.: Ladestationen Theresienstraße & Baustelle
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Bearbeitung des Antrags zur Beschleunigung der Buslinie 153
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Verkehrsrechtliche Anordnung Nymphenburger Straße, Haltverbot Z 283
+- TOP 2.1.2.: Hiltenspergerstraße, Eckes Görresstraße, 3. Stadtbezirk, HV für AWM
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Versetzung der Wertstoffinsel Heßstraße I 21.04.2023
+- TOP 2.2.2.: (E) Polizeiliche Maßnahmen gegen Sachbeschädigungen durch Grafittis
+- TOP 2.2.3.: BA-Antrag Nr. 20-26 / B 04816 des BA 06 vom 05.12.2022 "Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen / Anhörungsschreiben mit der Bitte um Stellungnahme
+- TOP 2.2.4.: Verlängerungsantrag bis 01.05.2024, Sondernutzungserlaubnis für die Kunstaktion "Autoeater" am Stachus auf dem Gehweg östlich des Justizpalastes
+- TOP 2.2.5.: Anhörung (Stadtbezirk 17,3,11,4, 23) Sondernutzung auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG; Fahrradsicherheitscheck am 02., 08., 16., 24., 31.05.2023, Anhörungsfrist: 28.04.2023
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Gaststätte "Lo Spuntino", Hiltenspergerstr. 8 – Änderung der Freischankfläche
+- TOP 2.3.2.: Gabelsbergerstr. 97, Gaststätte: "Casa Nostra"; Erweiterung einer bestehenden Freischankfläche (Schanigarten)
+- TOP 2.3.3.: Gaststätte „Ginger & Gray’s“ Heßstr. 74: Genehmigung einer Freischankfläche
+- TOP 2.3.4.: Gaststätte „Ginger & Gray’s“ Heßstr. 74: Antrag auf Freischankfläche in Parkständen (Schanigarten)
+- TOP 2.3.5.: Ladengeschäft/Erlaubnisfreie Gaststätte „Drinkerei“, Augustenstraße 76: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.3.6.: Ladengeschäft mit Ausschank „The Blue Heron“, Zieblandstraße 2: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.3.7.: Ladengeschäft mit Ausschank "Rosa & Grün", Barer Straße 82: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Hamburger Fischmarkt vom 18.-29.05.2023 auf dem Wittelsbacherplatz I 21.04.2023
+- TOP 2.4.2.: Tanz.Die Invasion vom 11.-13.05.2023 auf dem Josephsplatz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 2.5.1.: Ortstermin Fahrradstellplätze Grete-Mosheim-Straße 4.
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Errichtung Tempo 30 in der Schleißheimer Str. Höhe HsNr. 118 zur Kenntnisnahme
+- TOP 3.2.: 8. Fortschreibung des Luftreinhalteplans
+- TOP 3.3.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 3.4.: SWM Baumaßnahme Strom-Projekt - BV Karlstraße Strom-Projekt Kaulbachstraße 49
+- TOP 3.5.: Abdruck Verlängerungsgenehmigung Kaulbachstr. zwischen Veterinärstr. und Schackstr.
+- TOP 3.6.: Anordnung zur von der Tann Straße für die Demontage der Verkehrszeichen
+- TOP 3.7.: Planfeststellungsverfahren 2. Stammstrecke PFA 1 - 6. Planänderung
+- TOP 3.8.: Arbeiten im Straßenraum, Tunnelsanierung, Altstadtringtunnel, Oskar-von-Miller Ring
+- TOP 3.9.: Information über Vermessungsarbeiten als Grundlage zur Vorplanung U-Bahnlinie U9
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Dachauer Straße 98 Zirkusprojekt "Circus ZappZarap" vom 17. - 22.07.2023 6.105,00 Euro, Az.: 0262.0-3-0453
+- TOP 2.2.: Anhörung zum Mehrjahresinvestitionsprogramm Fortschreibung für die Jahre 2023-202
+- TOP 2.3.: (E) Stadtbezirksbudget Refugee Law Clinic Munich e.V. Ausbildungsvorträge für neue und bereits aktive Berater:innen vom 14. - 16.04.2023 750,00 Euro, Az.: 0262.0-3-0456
+- TOP 2.4.: Anhörung: Bezirksübergreifender Antrag CultureClouds e.V. - Tanz. Die Invasion
+- TOP 2.5.: (E) Stadtbezirksbudget Elternbeirat der Schwindschule Wandgestaltung vom 14.03. - 01.06.2023 4.926,60 Euro, Az.: 0262.0-3-0447
+- TOP 2.6.: (E) Stadtbezirksbudget Bellevue di Monaco eG "Giro di Monaco - Run für Peace" - Stadtlauf auf dem Münchner Altstadtring am 30.04.2023 3.542,63 Euro, Az.: 0262.0-3-0461
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Es brennt; Missstände an den Grundschulen BA 17 Obergiesing - Fasangarten
+- TOP 4.3.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2022 - 2026 Einzelplan 4 / Jugendamtsbereich
+- TOP 4.4.: (U) Partizipation 2.0 reloaded
+- TOP 4.5.: AKIM Bericht 1. Jahreshälfte 2023
+- TOP 4.6.: Sammelgenehmigung Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2023
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-3-0452
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Frühlingsessen" Frühlingsessen - Dimensionen der Geschmacklosigkeit vom 16.03. - 20.04.2023 5.644,58 Euro, Az.: 0262.0-3-0455
+- TOP 2.3.: entfällt
+- TOP 2.4.: entfällt
+- TOP 2.5.: (E) Stadtbezirksbudget vox nova e.V. Veranstaltung "Über Wasser" vom 06.05. - 18.06.2023 1.000,00 Euro, Az.: 0262.0-3-0457
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative "Global Sounds" Global Sounds für das Kunstareal-Fest 2023 vom 13. - 16.07.2023 3.279,10 Euro, Az.: 0262.0-3-0460
+- TOP 2.7.: Schaukasten am Bürgerbüro Ecke Schellingstraße
+- TOP 2.8.: (E) Stadtbezirksbudget Allgemeiner Deutscher Fahrradclub Bayern e.V. Kulturprogramm zur Radsternfahrt: Bühne Königsplatz am 23.04.2023 3.500,00 Euro, Az.: 0262.0-3-0459
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Unterausschussbesetzung und Vertreter*innen
+- TOP 1.2.: Planungsstand Kinder- und Bürger*innenfest 2023
+- TOP 1.3.: Hybridsitzung
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
