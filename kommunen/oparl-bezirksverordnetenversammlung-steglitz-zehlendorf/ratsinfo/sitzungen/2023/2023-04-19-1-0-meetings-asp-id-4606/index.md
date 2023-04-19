@@ -1,0 +1,60 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-04-19T17:00:00+02:00
+- Ende: 2023-04-19T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4606
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4606
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Radfahren in der Brauerstraße - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Brückenerneuerung SÜ Steglitzer Damm am S-Bahnhof Südende - beantwortet
+- TOP 4.2: Einbürgerung in Steglitz-Zehlendorf - beantwortet
+- TOP 4.3: 70. Jahrestag des Aufstandes vom 17. Juni - beantwortet
+- TOP 4.4: Bekannte Drogenkonsumentenorte im Bezirk - beantwortet
+- TOP 4.5: Fertigstellung der Sanierung Hildburghauser Straße? - schriftlich beantwortet
+- TOP 4.6: Steglitz-Zehlendorf als Gastgeber der EURO 2024 - schriftlich beantwortet
+- TOP 4.7: Ist ein sinnvolles Ergebnis des "Leitlinienprozess Steglitz-Zehlendorf" zur Bürgerbeteiligung zu erwarten? - schriftlich beantwortet
+- TOP 4.8: Warum muss der Senat die Barrierefreiheit im Bezirk prüfen? - schriftlich beantwortet
+- TOP 4.9: Was passiert mit dem beliebten Café Anneliese? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Zugriff Ausschussvorsitze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Mülleimer auf dem Weg am Teltowkanal zwischen Krahmerstraße und Birkbuschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Mehr Mülleimer am Teltowkanalweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Anträge - erledigt
+- TOP 6.1.1: Zusammensetzung der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 7.1: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 7,2 Millionen € für den Bezirk - überwiesen
+- TOP 7.2: Bessere Erschließung für den Lichterfelder Ring - überwiesen
+- TOP 7.3: Anmeldungen zum Investitionsprogramm 2023 bis 2027 - überwiesen
+- TOP 7.4: Fahrrad-Stellplätze Lichterfelde-Ost - überwiesen
+- TOP 7.5: Solidarität mit Charkiw vor Ort - überwiesen
+- TOP 7.6: Straßensanierung und Schulwegsicherung - überwiesen
+- TOP 7.7: Verkehrssicherheit in der Birkbuschstraße - überwiesen
+- TOP 7.8: Umsetzung des Beschlusses Nr. 134/VI S-Bahnausgang Postplatz - überwiesen
+- TOP 7.9: Sicherung der Querungen zur Nord-Grundschule - überwiesen
+- TOP 7.10: Hinzuziehung der Beauftragten für Menschen mit Behinderungen bei der Genehmigung von Jelbi-Standorten - überwiesen
+- TOP 7.11: Wildpflanzen aus der Bezirksgärtnerei Charlottenburg-Wilmersdorf nutzen - überwiesen
+- TOP 7.12: Den Eugen-Gerstenmaier-Platz mit neuem Leben nach den Bauarbeiten erfüllen - überwiesen
+- TOP 7.13: Ampel Dahlemer Weg/Jänickestraße - überwiesen
+- TOP 7.14: Hundespielplatz in Zehlendorf-Süd - überwiesen
+- TOP 7.15: Zusätzliche Parkbank auf dem Spielplatz am Charkiw-Park - überwiesen
+- TOP 7.16: Stellplätze für Mieter mit Behinderung - überwiesen
+- TOP 7.17: Katastrophenschutzinformationen zugänglich - überwiesen
+- TOP 7.18: Öffnungszeiten Postfilialen an Sonnabenden sicherstellen - überwiesen
+- TOP 7.19: Pizzamülleimer - großräumige Mülleimer als Pilotprojekt an Müllbrennpunkten - überwiesen
+- TOP 7.20: Papierlose Buchung in Bibliotheken umsetzen - überwiesen
+- TOP 7.21: PKB-Mittel auch für Erzieherinnen und Erzieher - überwiesen
