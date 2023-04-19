@@ -1,0 +1,100 @@
+# 1. (konstituierende) Sitzung des Ausschusses für Straßen, Grünflächen und Ordnungsangelegenheiten (B)
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-04-19T18:00:00+02:00
+- Ende: 2023-04-19T20:30:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=144
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6890
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6890
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konstituierung - erledigt
+- TOP 2: Wahl der/des Ausschussvorsitzenden Vorschlagsrecht: CDU-Fraktion - gewählt
+- TOP 3: Wahl der/des stellv. Ausschussvorsitzenden Vorschlagsrecht: Fraktion B'90Grüne - gewählt
+- TOP 4: Wahl der Schriftführerin / des Schriftführers - gewählt
+- TOP 5: Tagesordnung und Festlegung der Protokollführung - erledigt
+- TOP 6: Protokollkontrolle (3. Sitzung [Hr. Franke], 15. Sitzung [Fr. Bock]) - (offen)
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Überweisungen aus der BVV - (offen)
+- TOP 8.1: Überweisungen - Vorlagen des Bezirksamtes - (offen)
+- TOP 8.1.1: Anmeldung zum Investitionsprogramm 2023 bis 2027 - vertagt
+- TOP 8.1.2: Kommunale Nachhaltigkeitsstrategie Treptow-Köpenick - erledigt
+- TOP 8.2: Überweisungen - Anträge - (offen)
+- TOP 8.2.1: Ausreichend Fahrradstellplätze am Bahnhof Köpenick - mit Änderungen im Ausschuss beschlossen
+- TOP 8.2.2: Pkw-Stellplätze an der Köpenicker Landstraße erhalten – Mobilität gewährleisten - im Ausschuss abgelehnt
+- TOP 8.2.3: Sport im Park - vertagt
+- TOP 8.2.4: Künstliche Intelligenz gegen Vermüllung nutzen - vertagt
+- TOP 8.2.5: Pkw-Stellplätze in der Bölschestraße erhalten – örtliche Gewerbestruktur schützen - vertagt
+- TOP 8.2.6: Einmündung Siriusstraße sicherer gestalten - vertagt
+- TOP 8.2.7: Nicht genehmigte Plakate von Gebrauchtwagenhändlern konsequent beseitigen und ahnden, Kommunikation mit den Bürgern verbessern - im Ausschuss abgelehnt
+- TOP 8.2.8: Einrichtung einer Bedarfsampel an der Kreuzung Baumschulenstraße Ecke Glanzstraße - vertagt
+- TOP 8.2.9: Bewusstsein für Einsatz- und Ordnungskräfte in der Bevölkerung stärken - im Ausschuss abgelehnt
+- TOP 8.2.10: Querungshilfe für Fußgänger Kiefholzstraße / Puderstraße - vertagt
+- TOP 8.2.11: Heinrich-Reinhardt-Platz und Georg-Süßenguth-Platz in Baumschulenweg - vertagt
+- TOP 8.2.12: Gefahren an den Kreuzungen des Mauerwegs entschärfen - vertagt
+- TOP 8.2.13: Elcknerplatz für Fußgänger sicher machen - vertagt
+- TOP 8.2.14: Ein regelmäßiger Wochenmarkt für Johannisthal - vertagt
+- TOP 8.2.15: Radwegeplanung auf dem Sterndamm anregen - vertagt
+- TOP 8.2.16: Spreepark ökologisch und sozial gestalten - vertagt
+- TOP 8.2.17: Sicherheit am Spielplatz in der Karl-Pokern-Straße in Friedrichshagen erhöhen - vertagt
+- TOP 8.2.18: Zeitweiliger Ausschuss "Alternative Wohnprojekte" - vertagt
+- TOP 8.2.19: Benennung eines Wegs in der Wuhlheide nach Hildegard Schneider - vertagt
+- TOP 8.2.20: Spielplätze für die Zukunft hitzebeständig umgestalten - vertagt
+- TOP 8.2.21: Schild für den Platz "An der Kirche" in Baumschulenweg - vertagt
+- TOP 8.2.22: Errichtung von Gedenkstelen zur Berliner Kolonialausstellung im Treptower Park - vertagt
+- TOP 8.2.23: Sitzbänke an der Wildbienenwiese in Rahnsdorf instand setzen oder durch neue Bänke ersetzen! - vertagt
+- TOP 8.2.24: Straßenbeschilderung in der Altstadt Köpenick - vertagt
+- TOP 8.2.25: Wartehäuschen-Aufstellung an der südlichen Seite der Rudower Chaussee - vertagt
+- TOP 8.2.26: Sinnvoll ausgerichtete Parkbänke auf dem Spielplatz der Griechischen Allee in Oberschöneweide - vertagt
+- TOP 8.2.27: Anwohnerparken Griechischer Platz Oberschöneweide - vertagt
+- TOP 8.2.28: Abfallbehälter Ecke Genovevastraße / Däumlingsweg einrichten - vertagt
+- TOP 8.2.29: Fußgängerüberweg Kosmosviertel Altglienicke - vertagt
+- TOP 8.2.30: Gefährliche Ampelschaltung - vertagt
+- TOP 8.2.31: Herrichtung eines Weges für Fußgänger und Radverkehr zur Unterquerung der Stelling-Janitzky-Brücke - vertagt
+- TOP 8.2.32: Schulwegsicherheit endlich grundlegend und ganzheitlich verbessern - vertagt
+- TOP 8.2.33: Bau einer Radverkehrsanlage in der Rummelsburger Landstraße - vertagt
+- TOP 8.2.34: Einrichtung einer Fußgängerampel an der Kreuzung Michael-Brückner-Straße Ecke Britzer Straße / Fennstraße - vertagt
+- TOP 8.2.35: Sicherstellung des Marktbetriebs am S-Bahn- und zukünftigen Regionalbahnhof Köpenick - vertagt
+- TOP 8.2.36: Tempo-30-Bereich auf der Treskowallee deutlicher kenntlich machen - vertagt
+- TOP 8.2.37: Mehr Erholungsräume und Treffpunkte im Stadtraum durch Parklets - vertagt
+- TOP 8.2.38: Fläche vom "Blütenmosaik" im Landschaftspark Johannisthal sinnvoller nutzen - vertagt
+- TOP 8.2.39: Herrichtung eines asphaltierten Weges für Fußgänger und Radverkehr am Weg am Kleingarten - vertagt
+- TOP 8.2.40: Sanierung der Godbersenstraße in Schmöckwitz - vertagt
+- TOP 8.2.41: Baumpatenschaften stärker fördern - vertagt
+- TOP 8.2.42: Tempo 30 auf dem Adlergestell in Schmöckwitz ausweiten - vertagt
+- TOP 8.2.43: Verkehrssicherheit auf der Forsthausallee erhöhen - vertagt
+- TOP 8.2.44: Selbstverpflichtung: Ein Baum für einen Baum. Baumdefizit abbauen und Grünerhalt zur Voraussetzung von bezirklichen Fällungen machen - vertagt
+- TOP 8.2.45: Straßenzustandsbericht für Treptow-Köpenick - vertagt
+- TOP 8.2.46: Schilder im Landschaftspark Johannisthal / Adlershof instand setzen - vertagt
+- TOP 8.2.47: Fußgängerschutzweg Segelfliegerdamm Ecke Köpenicker Straße - vertagt
+- TOP 8.2.48: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen - vertagt
+- TOP 8.2.49: Aus Hochwasserkatastrophen lernen: Entsiegelungskonzept für Treptow-Köpenick - vertagt
+- TOP 8.2.50: Befestigung der Seitenstreifen zum Zwecke des Parkens in der Odernheimer Straße - vertagt
+- TOP 8.2.51: Diskriminierungsfreier Dresscode in der Plansche - vertagt
+- TOP 8.2.52: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten - vertagt
+- TOP 8.2.53: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - vertagt
+- TOP 8.2.54: Kreuzungen in Alt-Treptow sicherer machen - vertagt
+- TOP 8.3: Überweisungen - Schlussberichte des BA - (offen)
+- TOP 8.3.1: Hundegärten für Treptow-Köpenick - vertagt
+- TOP 8.3.2: Verlängerung der Grünphase für Fußgänger /-innen und Radfahrende an der Ampelanlage Oberspreestraße / Spindlersfelder Straße (Brücke) - vertagt
+- TOP 8.3.3: Gleisüberfahrt auf dem Adlergestell in Schmöckwitz - vertagt
+- TOP 8.3.4: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - vertagt
+- TOP 8.3.5: Tausch- und Sperrmüllmärkte in Treptow-Köpenick ermöglichen - vertagt
+- TOP 8.3.6: Lösung für den Radweg auf dem Hegemeisterweg in Rahnsdorf endlich herbeiführen - vertagt
+- TOP 8.3.7: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - vertagt
+- TOP 8.3.8: Sanierung Radweg Müggelheimer Straße zwischen Wendenschloßstraße und dem Köllnischen Platz - vertagt
+- TOP 8.3.9: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 8.3.10: Riviera und Gesellschaftshaus als Ort für Kultur und Gastronomie mit öffentlicher Zugänglichkeit zum Wasser sichern! - vertagt
+- TOP 8.4: Überweisungen - Zuarbeiten (Stellungnahmen) ausstehend - (offen)
+- TOP 8.4.1: Umgestaltung Bölschestraße – Bürgerbeteiligung ernst nehmen und Geschäftsstraße erhalten - vertagt
+- TOP 8.4.2: Nutzung von Grünanlagen für Angebote und Maßnahmen der Jugendarbeit und Jugendsozialarbeit - vertagt
+- TOP 8.4.3: Behindertenparkplätze transparent machen - vertagt
+- TOP 8.4.4: Eichhörnchenbrücke - vertagt
+- TOP 8.4.5: Ehrenhain auf dem Friedhof Adlershof würdig gestalten - vertagt
+- TOP 8.4.6: Busspur Bahnhof Schöneweide vor Kreuzung einsetzen - vertagt
+- TOP 8.4.7: Sanierung des Straßenraums um den Dorfanger in Müggelheim - vertagt
+- TOP 9: Verschiedenes - erledigt
