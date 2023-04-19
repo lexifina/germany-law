@@ -1,0 +1,7 @@
+# TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 29. Sitzung des Kreistages Märkisch-Oderland (2023-04-19)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=21886
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
