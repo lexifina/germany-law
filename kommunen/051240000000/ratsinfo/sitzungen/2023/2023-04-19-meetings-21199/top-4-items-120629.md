@@ -1,0 +1,8 @@
+# TOP 4: Bürgerantrag gemäß § 24 GO NRW - Beschwerde bzgl. der Drucksache VO/0704/20
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Vohwinkel (2023-04-19)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/120629
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/56120
