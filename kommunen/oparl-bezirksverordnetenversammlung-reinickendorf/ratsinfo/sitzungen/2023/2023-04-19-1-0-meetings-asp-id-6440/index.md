@@ -1,0 +1,149 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-04-19T17:00:00+02:00
+- Ende: 2023-04-19T22:08:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6440
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6440
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=437788
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Wahl des Bezirksbürgermeisters / der Bezirksbürgermeisterin - (offen)
+- TOP 4: Wahl des stellvertretenden Bezirksbürgermeister / der stellvertretenden Bezirksbürgermeisterin - (offen)
+- TOP 5: Einwohnerfragestunde - (offen)
+- TOP 5.1: Ehrenamtliches Engagement - unterschiedlich honoriert und WERTgeschätzt - beantwortet
+- TOP 5.2: Solaranlagen auf den Dächern von öffentlichen Gebäuden - beantwortet
+- TOP 5.3: Barrierefreie Umgestaltung des Paracelsus-Bades - beantwortet
+- TOP 5.4: Tierschutz vor der Wahl und - nach der Wahl... Sind Haus- und Familientiere bald nur noch Luxusartikel? - beantwortet
+- TOP 6: Bestätigung der aktuellen Mitglieder des Vorstandes der BVV - (offen)
+- TOP 7: Wahl der stellvertretenden Bezirksverordnetenvorsteherin / des stellvertretenden Bezirksverordnetenvorstehers - (offen)
+- TOP 8: Wahl der weiteren Schriftführerinnen/Schriftführer des Vorstandes der Bezirksverordnetenversammlung - (offen)
+- TOP 9: Konsensliste - (offen)
+- TOP 9.1: Konsensliste für die 19. Sitzung der BVV am 19.04.2023 - erledigt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Neuwahl von Mitgliedern des Widerspruchsbeirates nach dem SGB IX und SGB XII für das Bezirksamt Reinickendorf - gewählt
+- TOP 10.2: Aufstellen der Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Amtsperiode vom 19.08.2023 bis 18.08.2028 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Aufstellen der Vorschlagslisten für die Wahl der Schöffinnen / Schöffen für das Amtsgericht Tiergarten und das Landgericht Berlin für die Geschäftsjahre 2024 bis 2028 - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Aufstellen der Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter für das Verwaltungsgericht Berlin für die Amtsperiode vom 01.01.2024 bis 31.12.2028 - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - gewählt
+- TOP 10.6: Reinickendorf - Fair Trade Town - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Benennung von Mitgliedern der Bezirksverordnetenversammlung Reinickendorf für den bezirklichen Beirat am Vivantes Humboldt-Klinikum - gewählt
+- TOP 11: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 11.1: Rechtssicheres Vorgehen gegen illegal aufgestellte Altkleider Container auf privatem Grund (Beschlussempfehlung) - vertagt
+- TOP 11.2: Erstellung einer Dunkelfeldstudie (Beschlussempfehlung) - vertagt
+- TOP 11.3: Stärkung von nichtdeutschen Erstsprachen (Muttersprachen) in der Kita (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 11.4: Geruchsbelästigung durch Ginkgo-Bäume in der Berliner Straße in Tegel beenden (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.5: Die Beete der Greenwichpromenade sanieren - ein Aushängeschild Reinickendorfs erhalten (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 11.6: Ein Masterplan für das KaBoN-Gelände (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 11.7: Präventionsarbeit zu Suchtmitteln und Konsum in Reinickendorf (Große Anfrage) - vertagt
+- TOP 11.8: Stand Großer Verkehrsprojekte in Reinickendorf (Große Anfrage) - vertagt
+- TOP 11.9: Kinder- und Jugendschutz in Reinickendorf (Gro0e Anfrage) - vertagt
+- TOP 11.10: Runder Tisch zur Elisabeth-Aue, Reinickendorf vor weiterer Verkehrsbelastung schützen (Beschlussempfehlung) - vertagt
+- TOP 11.11: Katastrophenschutz in Reinickendorf sicherstellen (Beschlussempfehlung) - vertagt
+- TOP 11.12: Ersuchen: Einrichtung der Personalstelle einer/-s Beauftragten für Gute Arbeit in Reinickendorf im Jahr 2023 (Beschlussempfehlung) - vertagt
+- TOP 11.13: Milieuschutzgebiet in Reinickendorf-Ost zügig ausweiten! (Beschlussempfehlung) - überwiesen
+- TOP 11.14: Einsetzung eines temporären Ausschusses "Sauberes Reinickendorf" (Beschlussempfehlung) - vertagt
+- TOP 11.15: Radweg in der Humboldtstraße sanieren (Beschlussempfehlung) - vertagt
+- TOP 11.16: Verbesserung der Deutschkenntnisse in Reinickendorfer Kindergärten (Beschlussempfehlung) - vertagt
+- TOP 11.17: Runden Tisch zu B-Plan 12-63/ Grundstück "Altes Wasserwerk Tegel" einberufen! (Beschlussempfehlung) - überwiesen
+- TOP 11.18: Umbenennung der Walderseestraße (Beschlussempfehlung) - vertagt
+- TOP 11.19: Anmeldung für das Investitionsprogramm 2023 bis 2027 (Vorlage zur Beschlussfassung) - überwiesen
+- TOP 12: Feststellungen - (offen)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Fahrradabstellplätze im Bereich Tegel-City - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Fahrradparkplätze für E-Bikes einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Veranstaltungen mit fairem Angebot - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Mobile Schadstoffsammlung in Reinickendorf ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Mediation für Cite Guynemer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Ehemaligen Pferdestall der Feuerwache Hermsdorf erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Remise Feuerwehr-Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Mehr E-Ladesäulen für Reinickendorf! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Pflegeeinrichtung und seniorengerechte Wohnungen auf dem KBoN-Gelände gemeinsam entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Schwerpunktkontrollen gegen LGBTIQ*-feindliche Propaganda - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Verkehrssicherheit in Tegelort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Verkehrssicherheit für Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Historische Informationsstele Franz Neumann - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: Berlin Bird würdig präsentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: i2030 für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.16: Öffentliche Toilette auf dem Falkenplatz in Konradshöhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Mittel für dezentrale Kulturarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: City-Toilettenschlüssel für den allgemeinen Ordnungsdienst (AOD) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.19: Bessere Sichtbarkeit für das Bürgeramt Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Sperrmülltag in Reinickendorf dauerhaft etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Instandsetzung Radweg Alt-Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Nachnutzung TXL -Bedarfe für den organisierten Sport I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Nachnutzung TXL -Bedarfe für den organisierten Sport II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Klimaschutz in sozialer Verantwortung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Bartoszewski-Ausstellung nach Reinickendorf holen und im Rathaus ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: Reinickendorf ins Netzwerk Frauengesundheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Aufnahme in das Vorrangnetz des Radverkehrs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.28: Photovoltaik für das Paracelsus-Bad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Bundesprogramm "Zukunftspaket für Bewegung, Kultur und Gesundheit" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.30: Jahresbericht der Patientenfürsprecherin im Vivantes Humboldt-Klinikum (Bereich Psychiatrie) für das Jahr 2022 - überwiesen
+- TOP 13.31: Änderung des Geltungsbereiches des Bebauungsplanentwurfs 12-49a für die Grundstücke Quickborner Straße 192 D, 192 E-F (teilweise) und 192 G - überwiesen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Aktionsplan Sauberes Reinickendorf - vertagt
+- TOP 15: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 15.1: Öffnung des geplanten Schulcampus ins Schumacher-Quartier - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Schul- und Sportstättensanierungsprogramm transparent entscheiden - mit Änderungen in der BVV beschlossen
+- TOP 15.3: Kostenlose Menstruationsartikel in Schulen und anderen öffentlichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Städtepartnerschaft mit Polen - mit Änderungen in der BVV beschlossen
+- TOP 15.5: 60. Jahre Städtepartnerschaft zwischen Reinickendorf und Vogelsbergkreis - mit Änderungen in der BVV beschlossen
+- TOP 15.6: LSBTIQ-Fahnen im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen - mit Änderungen in der BVV beschlossen
+- TOP 15.8: Stadtteilbibliothek Reinickendorf-West als "open-space"-Projekt mit Leuchtturmfunktion - ohne Änderungen in der BVV beschlossen
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Bildung von Ausschüssen und Zuordnung der Sitzungstage - ohne Änderungen in der BVV beschlossen
+- TOP 17: Ersuchen - (offen)
+- TOP 17.1: Notwasserbrunnen für die Cité Foch - überwiesen
+- TOP 17.2: Erneutes Flohmarktchaos verhindern - überwiesen
+- TOP 17.3: Mehr Platz für Schüler*innen und Fußgänger*innen vor der Benjamin-Franklin-Oberschule - überwiesen
+- TOP 17.4: Ruhe zum Arbeiten und Lesen in Bibliotheken - überwiesen
+- TOP 17.5: Informationssteele Max-Beckmann-Platz herrichten - überwiesen
+- TOP 17.6: Darstellung der Bezirksverordnetenversammlung auf den Infotafeln im Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: PV auf das Rathausdach - überwiesen
+- TOP 17.8: Namensgebungsprozess für den Waidmannsluster Bahnhofsvorplatz - überwiesen
+- TOP 17.9: Sicheres Radfahren auf der Bernauer Straße in Tegel - überwiesen
+- TOP 17.10: Bepflanzung Blumenkübel - ohne Änderungen in der BVV beschlossen
+- TOP 17.11: Parkraumbewirtschaftung in Alt-Tegel - überwiesen
+- TOP 17.12: Schwimmen lehren, Leben retten - Mehr Schwimmunterricht ermöglichen - überwiesen
+- TOP 17.13: Instandsetzung und Reinigung der historischen Laternen an der Greenwichpromenade in Tegel - überwiesen
+- TOP 17.14: Reinickendorfer Müllsammelwettbewerb für die Reinickendorfer Schulen ausloben - überwiesen
+- TOP 17.15: Gedenkstelle für Herbert Bauer erneuern - überwiesen
+- TOP 17.16: Krankenhausbeirat in der Vitanas Klinik für Geriatrie Märkisches Viertel gründen - überwiesen
+- TOP 17.17: Fenster des Schulgebäudes der Max-Beckmann-Schule - überwiesen
+- TOP 17.18: Fahrradbügel für mehr Verkehrssicherheit in Alt-Wittenau - überwiesen
+- TOP 17.19: Gedenkstele für den Reinickendorfer Maler Max Grunwald - überwiesen
+- TOP 17.20: Regenwasser statt Trinkwasser - überwiesen
+- TOP 17.21: Neuer Spielplatz für den Meller Bogen - überwiesen
+- TOP 17.22: Nächtliches Tempolimit in der Heiligenseestraße komplettieren - überwiesen
+- TOP 17.23: Parkplatz an der Sportanlage Königshorster Straße 15 - überwiesen
+- TOP 17.24: Fußweg in der Glienicker Straße herstellen - überwiesen
+- TOP 17.25: Baumaßnahme Schmitzweg - überwiesen
+- TOP 17.26: Poller für Versickerungsbecken vervollständigen - überwiesen
+- TOP 17.27: Rote Bank "Gewalt gegen Frauen und Mädchen" aufstellen - überwiesen
+- TOP 17.28: Sportorientierte Jugendsozialarbeit - überwiesen
+- TOP 17.29: Toilette für Menschen mit komplexer Behinderung in Reinickendorf einrichten - überwiesen
+- TOP 17.30: Fahrradstraße in der Schulzendorfer Straße - überwiesen
+- TOP 18: Empfehlungen - (offen)
+- TOP 18.1: 10-Minuten-Takt für den Bus 322 - überwiesen
+- TOP 18.2: Mehr ÖPNV in Heiligensee - überwiesen
+- TOP 18.3: Mehr Verkehrssicherheit für die Kinder und Eltern der Kita NEMO sowie für Anwohnerinnen und Anwohner - überwiesen
+- TOP 18.4: Erhalt des Bolzplatzes in Konradshöhe - überwiesen
+- TOP 18.5: Option für weitere 200 Doppeldecker von Alexander Dennis London nutzen - überwiesen
+- TOP 18.6: Endlich durchstarten, Verlängerung der U8 und Anbindung des Tegel Nachfolgequartiers an die U-Bahn - überwiesen
+- TOP 18.7: Paracelsus-Bad bedarfsgerecht weiterentwickeln - überwiesen
+- TOP 18.8: Ärztlichen Bereitschaftsdienst der Kassenärztlichen Vereinigung an allen Rettungsstellen der Krankenhäuser etablieren - überwiesen
+- TOP 18.9: Zweitzugang am S-Bahnhof Frohnau - überwiesen
+- TOP 18.10: Verkehrsinfarkt verhindern - Roedernallee als leistungsfähige Bundesstraße erhalten - überwiesen
+- TOP 18.11: Kita-Sozialarbeit zur Prävention von Gewalt - überwiesen
+- TOP 18.12: Ausbau Väter- und Männerarbeit - überwiesen
+- TOP 18.13: Ausweitung der Betriebsstunden in der Servicestelle Berliner Straße in Tegel - überwiesen
+- TOP 18.14: Beschilderung der neuen Anlage der Berliner Wasserbetriebe an der Bernauer Straße im OT Saatwinkel - überwiesen
