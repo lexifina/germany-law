@@ -1,0 +1,80 @@
+# 18. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-04-20T17:00:00+02:00
+- Ende: 2023-04-20T21:35:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5301
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5301
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=362374
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Beratung für Opfer rechter Gewalt - vertagt
+- TOP 4.2: Nachwahl einer/s Bürgerdeputierten für den Jugendhilfeausschuss der Wahlperiode 2021-2026 - zurückgezogen
+- TOP 4.3: Baumfällungen durch die Deutsche Bahn regulieren - zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlvorschlag zur Berufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten für die restliche IX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten für die restliche IX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Schulwegsicherheit an der Hauptstraße verbessern - überwiesen
+- TOP 5.8: VHS-Kochkurse für die pflanzliche Ernährung - überwiesen
+- TOP 5.9: Vorschläge zum Bürgerhaushalt; Hier: Beschlussempfehlungen des Begleitgremiums I. Quartal 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: SG Blau-Weiss jetzt auch in blau-weiß! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Fahrradbügel an Kreuzungen aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Aufstellen von Fahrradbügeln auf Sperrflächen - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Einzugsbereiche Grundschulen grafisch darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Programmplanung Nachhaltige Erneuerung (ehem. Stadtumbau Ost) - Vornotierung Programmjahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Tage der offenen Tür im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Ermittlung des Bedarfs von Dienstfahrrädern und Lastenrädern an Lichtenberger Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Photovoltaik auf öffentlichen Gebäuden ausbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Wasserverbrauch in Sportanlagen reduzieren - Regenwasser besser nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: BVV-Sondermittel für den 26. Hohenschönhausener Gartenlauf des KGV Falkenhöhe-Nord - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: BVV-Sondermittel für den Wunschbaum 2023 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.21: BVV-Sondermittel für die Einrichtung eines Dusch- und Umkleidebereiches für Damen und Mädchen - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: BVV-Sondermittel für die Deutsche Volleyballmeisterschaft U16w - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: BVV-Sondermittel für die 20. Alternative Europa Meisterschaft (aem) in Zürich und den 20. Geburtstag der bunte-liga-berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: BVV-Sondermittel für Schaumstoffbanden im U8- und U10 Trainings- und Spielbetrieb - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Straßenentwässerung auf der Neuwieder Straße/Marksburgstraße/Köpenicker Allee - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Mobiles Bürgeramt in Karlshorst: Auch drinnen warten muss möglich sein - überwiesen
+- TOP 5.27: Geschwindigkeitsbegrenzung für einfahrende Trams am S-Bahnhof Karlshorst - überwiesen
+- TOP 5.28: Schaffung einer Clearingstelle / Sozialberatungsstelle im Jobcenter Lichtenberg - überwiesen
+- TOP 5.29: Digitalisierung voranbringen - überwiesen
+- TOP 5.30: Verstärkte Kontrollen des Halteverbots vor dem Ärztezentrum in der Möllendorffstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Sanierungsfahrplan für Jugendfreizeiteinrichtungen in freier Trägerschaft in Mietobjekten auf landeseigenen Grundstücken - überwiesen
+- TOP 5.32: Rekommunalisierung der Schulreinigung projektbasiert und strukturiert vorbereiten - überwiesen
+- TOP 5.33: Städtebauliche Ordnung an der Gehrenseestraße aktiv einfordern - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahlen zum Bezirksamt - gewählt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Geschlechtergerechtes Lichtenberg – Was tut der Bezirk zur Förderung von Geschlechtergerechtigkeit und Gleichstellung? - erledigt
+- TOP 10: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 10.1: Wohnungsbaupotenziale im Rahmen von B-Planverfahren an verbindlich zugesagte Ressourcen für Schulen und Kitas knüpfen - überwiesen
+- TOP 10.2: Schüler*innenHaushalte im Doppelhaushalt 2024/25 - überwiesen
+- TOP 10.3: Schluss mit unproportionaler Verteilung von Asylbewerbern in Berliner Bezirken - Zuweisungs-Moratorium für Lichtenberg - in der BVV abgelehnt
+- TOP 10.4: Keine Ausgrenzung von Fraktionen und Parteien - Arbeitsgruppen demokratisch zusammensetzen - in der BVV abgelehnt
+- TOP 10.5: Safe Spaces in Lichtenberg schaffen - überwiesen
+- TOP 10.6: Kein Aquarium für Lichtenberg! - in der BVV zurückgezogen
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Bürgerdienstleistungen verbessern - überwiesen
+- TOP 11.2: Schulcontainer für die Adam-Ries-Schule - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Bahnhofvorplatz Lichtenberg in der Investitionsplanung berücksichtigen - überwiesen
+- TOP 11.4: Resolution - Ausschreitungen, Randale und Gewalt zum Jahreswechsel 2022/2023 - in der BVV abgelehnt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) (s. TOP 5.6) - (offen)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Parkdruck in der Sewanstraße nehmen - Gespräche führen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Bebauung Ilsehöfe - in der BVV zurückgezogen
+- TOP 15: Geschäftliche Mitteilungen und Vorlagen des Vorstandes - erledigt
