@@ -1,0 +1,78 @@
+# 49. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-04-20T16:00:00+02:00
+- Ende: 2023-04-20T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12476
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12476
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00677431.pdf
+
+## Tagesordnung
+
+- TOP 1: Berichts des Oberbürgermeisters - erledigt
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 3: Fragerunde (2 Runden) - erledigt
+- TOP 3.1: Priorität bei der Abarbeitung offener Wohngeldanträge - erledigt
+- TOP 3.2: Zukünftige Betreibung des Erlebnisbads Elbamare - erledigt
+- TOP 3.3: Ausschreibungen von Führungspositionen in der Landeshauptstadt Dresden - erledigt
+- TOP 3.4: Masterplan Prohlis - erledigt
+- TOP 3.5: LEO - erledigt
+- TOP 3.6: Plan B - Unterbringung von geflüchteten Menschen - erledigt
+- TOP 3.7: Unterbringung von Flüchtlingen und Asylbewerbern im Landgasthof Marsdorf - erledigt
+- TOP 3.8: Kriminalität Prager Straße - erledigt
+- TOP 3.9: Fehlende Transparenz des Oberbürgermeisters bei den Vonovia-Verhandlungen - erledigt
+- TOP 3.10: Mietlaufzeiten für Container - erledigt
+- TOP 3.11: Erfüllung des gesetzlichen Bildungsauftrags in Dresdner Kitas - erledigt
+- TOP 3.12: Wohngeld - erledigt
+- TOP 3.13: Stand der Umsetzung Antrag A0333/22 "Ein Toilettenkonzept für Dresden" - erledigt
+- TOP 3.14: Finanzierungsmöglichkeiten für das Projekt Nachtschlichter - erledigt
+- TOP 3.15: Repräsentative Beleuchtung in der Landeshauptstadt - erledigt
+- TOP 3.16: Verkehrspolitik bis 2030 - erledigt
+- TOP 4: Umbesetzung des Beirates für Menschen mit Behinderungen - Zustimmung
+- TOP 5: Umbesetzung im Aufsichtsrat der DREWAG - Stadtwerke Dresden GmbH - Ablehnung
+- TOP 6: Umbesetzung im Aufsichtsrat der Dresdner Verkehrsbetriebe AG - Ablehnung
+- TOP 7: Besetzung des Aufsichtsrates der SachsenEnergie AG - Ablehnung
+- TOP 8: Besetzung des Aufsichtsrates der Messe Dresden GmbH - Ablehnung
+- TOP 9: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - gewählt
+- TOP 10: Umbesetzung im Aufsichtsrat der WiD Wohnen in Dresden GmbH & Co. KG - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 11: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 12: Begründung einer „Gemeinsamen Solidaritätspartnerschaft der Städte Dresden, Stuttgart und Straßburg“ mit Chmelnyzkyj, Ukraine - Zustimmung mit Ergänzung
+- TOP 13: Eigenbetrieb Heinrich-Schütz-Konservatorium: Fortschreibung der Schulkonzeption der städtischen Musikschule für die Jahre 2023 - 2028 - Zustimmung
+- TOP 14: Eintrittspreise des tjg. theater junge generation im Sommertheater, Spielstätte Zoo Dresden - Zustimmung
+- TOP 15: Veränderungssperre für den Bebauungsplan Nr. 3061, Dresden-Friedrichstadt Nr. 12, Waltherstraße/Friedrichstraße - Zustimmung
+- TOP 16: Bebauungsplan Nr. 398.B, Dresden-Reick/Strehlen, Wissenschaftsstandort Dresden-Ost, Teilbereich 1.B - Zustimmung
+- TOP 17: Änderung der "Dresdner Richtlinie zur sozialen Mietwohnraumförderung" vom 7. September 2017 - Zustimmung
+- TOP 18: Neubau der Schwimmhalle Dresden Klotzsche umsetzen - Betrieb aller Bäder dauerhaft sichern - Vertagung nach 22 Uhr
+- TOP 19: Bäderkonzept: Versprechen erfüllen – Die ganze Stadt im Blick - Vertagung nach 22 Uhr
+- TOP 20: Schwimmhalle Klotzsche für den Dresdner Norden unverzichtbar - Vertagung nach 22 Uhr
+- TOP 21: Eilantrag: Neubau der Schwimmhalle Klotzsche retten - Vertagung nach 22 Uhr
+- TOP 22: Zehn Jahre Bäder GmbH – Evaluierung und Perspektiven der Bäder in Dresden - Vertagung nach 22 Uhr
+- TOP 23: E-Petition Das Schwimmen im Norden darf nicht sterben! (Ersatzneubau Schwimmhalle Klotzsche) - Vertagung nach 22 Uhr
+- TOP 24: Vertagungen aus der Sitzung vom 23./24.03.2023 - erledigt
+- TOP 24.1: Aktualisierung und regelmäßige Berichterstattung zum Sanierungs- und Entwicklungskonzept Dresdner Sportstätten (SANEKO) - Vertagung nach 22 Uhr
+- TOP 24.2: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 24.3: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - Vertagung nach 22 Uhr
+- TOP 24.4: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung nach 22 Uhr
+- TOP 24.5: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 24.6: Fahrradstraße am Kleinzschachwitzer Ufer - Vertagung nach 22 Uhr
+- TOP 24.7: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 24.8: Neubenennung von Straßen, hier Benennung einer Straße im Bebauungsplan Nr. 3027 A, Dres-den-Altstadt I Nr. 52, Ferdinandplatz/ Verwaltungszentrum in "Gebrüder-Arnhold-Platz" - Vertagung durch Einreicher
+- TOP 24.9: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 22 Uhr
+- TOP 24.10: Photovoltaik bei städtischen Gebäuden rasch ausbauen - Vertagung nach 22 Uhr
+- TOP 24.11: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung
+- TOP 25: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Vertagung
+- TOP 26: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung von SchüleRaustauschen (FFRL SchüleRaustausch) - Zustimmung
+- TOP 27: Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung von Städtepartnerschaften (FFRL Städtepartnerschaften) - Zustimmung
+- TOP 28: Konzept zur Umsetzung der Istanbul-Konvention in der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 29: Pillnitzer Straße in Schönfeld-Weißig zwischen Hauptstraße und Weißiger Straße - Zustimmung
+- TOP 30: Dauerhafte Sicherung einer Grünverbindung zwischen Dresdner Heide und Elbwiesen - Erwerb der Waldflächen am Holunderweg in der Dresdner Neustadt - Ablehnung
+- TOP 31: E-Petition „Erwerb des Grundstückes und Wiederaufforstung des Waldstückes am Holunderweg" - Ablehnung
+- TOP 32: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung durch Einreicher
+- TOP 33: Gute Fachkräfte für den Eigenbetrieb Kita durch faire Arbeitsverträge – Abschaffung der 32-Plus-Arbeitsverträge (sog. Flex-Verträge) - punktweise Zustimmung
+- TOP 34: Ukrainische Schutzsuchende unterstützen – Die Landeshauptstadt Dresden muss handeln - Zustimmung mit Änderung
+- TOP 35: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung
+- TOP 36: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 22 Uhr
