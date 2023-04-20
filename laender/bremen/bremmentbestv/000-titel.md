@@ -1,0 +1,1 @@
+# Bremische Verordnung zur Bestimmung tätigkeitsspezifischer Mindestentgelte im Sinne des Bremischen Tariftreue- und Vergabegesetzes (Bremische Mindestentgeltbestimmungsverordnung – BremMEntBestV) vom 28. März 2023
