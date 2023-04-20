@@ -1,0 +1,70 @@
+# Rat Hinweis: Die Sitzung beginnt zunächst mit dem nichtöffentlichen Teil; der öffentliche Teil der Sitzung schließt sich ab 14:30 Uhr an.
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-04-20T14:00:00+02:00
+- Ende: 2023-04-20T19:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24452
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24452
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 20.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00482276.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 20.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00482276.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 20.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00482276.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 02.02.2023(SI-RAT/001/2023) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Brand am 15. April in Lierenfeld - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Messerstecherei auf der Osterkirmes – Sicherheit auf Düsseldorfer Familienfesten - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der FDP-Ratsfraktion: Eckpunktepapier des Bundesministeriums für Gesundheit „Modellversuch Cannabis“ - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Entschlammungsmaßnahmen am / im / um den Kö-Graben im Bereich des Tritonenbrunnens und den dort lebenden Tieren - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Wahlen zum Integrationsrat 2014, 2020 und 2025 - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Folgen der Corona-Pandemie und den damit einhergehenden Einschränkungen für Düsseldorfer Bürger - beantwortet
+- TOP 4.3: Anfrage der FDP-Ratsfraktion: Verlängerung der Frist zur Geltendmachung von Erschließungsbeiträgen - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion DIE LINKE: Lebensgefährliche CO-Pipeline verhindern - schriftlich beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Einlage von Grundstücken in das Vermögen der SWD - schriftlich beantwortet
+- TOP 4.6: Anfrage der SPD-Ratsfraktion: Atelierkündigungen in Bilk - schriftlich beantwortet
+- TOP 4.7: Anfrage der SPD-Ratsfraktion: Wie geht es mit Karstadt auf der Schadowstraße weiter? - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Regeln für Verträge mit Werbe- und Sponsoring-Partnern der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Lemmer: Sauberkeit in Düsseldorf, hier am Beispiel der Theodor-Heuss-Brücke - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Lemmer: Vorschlagsliste der Schöffenwahl 2024 bis 2028 und den Gefahren von Unterwanderungen - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Born: Leiharbeit und Werkverträge in städtischer Verwaltung und bei Tochterfirmen - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Kraljic: Erforderliche Schulungsmaßnahmen des OSD nach dem Vorbild der Polizei Bayern. Begleitung der Streifen von Polizei und OSD durch Genesungspeers. - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Jörres: Drohender Verkehrsinfarkt /Zustand Düsseldorfer Rheinbrücken, insbesondere Süd- und Theodor-Heuss-Brücke - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Opelt: Trotz schlechter Haushaltslage weiter unbegrenzte Aufnahme von Flüchtlingen - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 9: Restitution eines Gemäldes - einstimmig beschlossen
+- TOP 10: Aufsichtsrat der Düsseldorf Marketing GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 11: Aufsichtsrat der Düsseldorf Tourismus GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 12: Einführung der Wertstofftonne in Düsseldorf zum 1.1.2025 - einstimmig beschlossen
+- TOP 12.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage AÖE/018/2023 - mehrheitlich abgelehnt
+- TOP 13: Durchführungsvertrag nach § 12 Baugesetzbuch (BauGB) vom 09.12.2020 zum Vorhabenbezogenen Bebauungsplan Nr. 04/014 - Wickrather Straße - einstimmig beschlossen
+- TOP 14: Bebauungsplan-Entwurf Nr. 08/002 - Nördlich Gerresheimer Landstraße - mehrheitlich beschlossen
+- TOP 15: Bestellung und Abberufung von Prüferinnen - einstimmig beschlossen
+- TOP 16: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt Ersatzneubau Lore-Lorentz-Schule, Schlossallee 14 - einstimmig beschlossen
+- TOP 17: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Ersatzneubau der Gemeinschaftsgrundschule Vennhauser Allee 160-162“ - einstimmig beschlossen
+- TOP 18: Aufsichtsrat der Klärschlammverwertung Buchenhofen GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Flughafen Düsseldorf: BV 5 bittet den Rat der Landeshauptstadt Düsseldorf: Keine Beschlüsse "für die Galerie" - Menschen im Düsseldorfer Norden ernst nehmen - zur Kenntnis genommen
+- TOP 21: Anträge
+- TOP 21.1: Antrag der FDP-Ratsfraktion: Demenzdorf für Düsseldorf! Wie können wir es gemeinsam verwirklichen? - verwiesen
+- TOP 21.1.1: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/106/2023 - verwiesen
+- TOP 21.2: Antrag der Ratsfraktion DIE LINKE: Die Beschäftigten sind es wert – angemessener Tarifabschluss für den Öffentlichen Dienst - mehrheitlich abgelehnt
+- TOP 21.3: Antrag der SPD-Ratsfraktion: Verbesserung der Hygienestandards in den Sanitäranlagen bzw. Toiletten Düsseldorfer Schulen - verwiesen
+- TOP 21.3.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/120/2023 - verwiesen
+- TOP 21.3.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/120/2023 - verwiesen
+- TOP 21.4: Antrag der SPD-Ratsfraktion: Denkmalschutz und Energiewende - verwiesen
+- TOP 21.5: Antrag der Ratsfraktion DIE LINKE: Einführung einer Reichtumsberichterstattung - mehrheitlich abgelehnt
+- TOP 21.5.1: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/133/2023
+- TOP 21.6: Antrag der Ratsfraktion DIE LINKE: Energieberatung für Haushalte mit potentiell hohem Energieverbrauch - mehrheitlich abgelehnt
+- TOP 21.7: Antrag des AfD-Ratsfraktion: Umgehender Rückbau notwendig: Arabische Straßenschilder verfehlen ihren Zweck und wirken desintegrierend bzw. spaltend - mehrheitlich abgelehnt
+- TOP 21.8: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Exponentielles Wachstum gegen Rassismus - mehrheitlich abgelehnt
+- TOP 22: Veranstaltergemeinschaft Lokaler Rundfunk Düsseldorf e.V. -Ersatzbestellung- - einstimmig beschlossen
