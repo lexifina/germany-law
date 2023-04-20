@@ -1,0 +1,6 @@
+# TOP 8.: Vorlagen des Ausschusses für Stadtplanung und Infrastruktur
+
+- Sitzung: Rat (2. Sitzung) (2023-04-20)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/32894
