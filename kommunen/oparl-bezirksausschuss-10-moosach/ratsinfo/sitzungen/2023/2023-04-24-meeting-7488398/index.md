@@ -1,0 +1,82 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-04-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488398
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488398
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Sorgende Hausgemeinschaften - Wohnen in Gemeinschaft für Münchnerinnen und Münchner über 55 Jahre
+- TOP 2.2.: Gemeinsame Begehung der Wohnblöcke in der Karlingerstraße und Baubergerstraße
+- TOP 2.3.: Kennzeichnung eines Rad- und Fußweges entlang der Zufahrt zum Postsportverein Moosach
+- TOP 2.4.: Verkehrsberuhigung und Reduzieren der Unfallgefahr in der Sickinger Straße
+- TOP 2.5.: Gefahrenstelle im Einfahrtsbereich Hannoverstraße/ Donauwörther Straße; Sichtbehinderung durch geparkte Fahrzeuge
+- TOP 2.6.: Einrichtung einer Kurzparkzone im Bereich der Dessauerstr. 13-15
+- TOP 2.7.: N_ Parkplatzproblem Franz-Fihl-Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Holledauer Straße (40 Reihenhäuser)
+- TOP 3.3.1.2.: Holledauer Straße (44 Reihenhäuser)
+- TOP 3.3.1.3.: Weidmannstr. 11
+- TOP 3.3.1.4.: Gneisenaustr. 15
+- TOP 3.3.1.5.: Thürmerstr. 4
+- TOP 3.3.1.6.: Hanauer Str. 64 (EG und 1. UG)
+- TOP 3.3.1.7.: Hanauer Str. 64 (2. UG)
+- TOP 3.3.1.8.: Riesstr. 4
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Pflanzung einer "Baum-Allee-Reihe" an der Dachauer Straße (gegenüber Borstei, auf dem Grünstreifen an den Schrebergärten)
+- TOP 4.1.2.: Grundstücksbegrenzung zum NW 18 in der Manzostraße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Leocor gGmbH / Klimainitiative München Klimatreff der Klimainitiative München vom 12.04. - 12.12.2023 2.848,88 € / Az. 0262.0-10-0325
+- TOP 5.2.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlingerstraße Jubiläumsfeier Nachbarschaftstreff Karlingerstraße am 13.07.2023 1.470,00 € / Az.: 0262.0-10-0327
+- TOP 5.3.: (E) Stadtbezirksbudget Edin Malesak Pflegezentrum Moosach Arche Noris gGmbH Senioren besuchen Museen vom 01.06. - 30.11.2023 750,00 € / Az.: 0262.0-10-0328
+- TOP 5.4.: (E) Stadtbezirksbudget AG Buhlstrasse e.V. Sommerferienprogramm für Moosacher Kinder und Jugendlichen vom 31.08 – 08.09.2023 6.000,00 € / Az.: 0262.0-10-0329
+- TOP 5.5.: (E) + (U) Einrichtung eines absoluten Haltverbotes im Einmündungsbereich Gerastraße/Fodermayrstraße Empfehlung Nr. 20-26 / E 01004 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 08.11.2022
+- TOP 5.6.: (E) + (U) 1. Ummarkierung der Fahrstreifen der Fahrbahn Gröbenzeller Straße; 2. Einrichtung Haltverbot (ca. 1.5 Fahrzeuglängen) in der Moosburger Straße/ Ecke Eggmühler Straße (in Fahrtrichtung Dachauer Straße Empfehlung Nr. 20-26 / E 01009 der Bürgerversammlung des Stadtbezirkes Nr. 10- Moosach am 08.11.2022
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung (Antrag BA6): "Marktveranstaltung" als Entscheidungsrecht in Katalog der BA-Satzung aufnehmen
+- TOP 6.2.: Bebauungsplan mit Grünordnung Nr. 2143 (Eggarten-Siedlung) sowie Änderung des Flächennutzungsplanes (FNP)
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2023 bis 2027; hier: Selektion für den 10. Stadtbezirk
+- TOP 6.4.: Sammelgenehmigung von Spielaktionen auf öffentlichen Grünflächen; hier: Überblick der Angebote
+- TOP 6.5.: Veranstaltung auf öffentl. Verkehrsgrund und städt. Privatgrund: St.-Martins-Platz "Moosacher Dorffest" am 15.07.2023
+- TOP 6.6.: Veranstaltung in städtischen Grünanlagen: Bingener-/Ecke Triebstraße "Kinder- und Jugendbeteiligung" am 25.05.2023
+- TOP 6.7.: Veranstaltung in städtischen Grünanlagen: Am Hartmannshofer Bächl "Spielfest" am 23.06.2023
+- TOP 6.8.: Bettfedernreinigung auf städt. Grund: Ecke Allacher Straße/ Waldhornstraße vom 03.05. bis 10.05.2023 und 06.09. bis 13.09.2023
+- TOP 6.9.: Verkauf einer städt. Immobilie: Baubergerstraße - nicht-öffentlich -
+- TOP 6.10.: Zweckentfremdung von Wohnraum durch Nutzungsänderung (geplant): - nicht-öffentlich - Haldenbergerstraße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Haltverbot an der Ausfahrt der Tiefgarage der Grundschule Amphionpark [BA-Antrag Nr. 20-26/B 04903; Ablehnung, da breit genug dimensioniert.]
+- TOP 7.2.: Anfrage: Zustand der Straßengullys und der sich darunter befindenden Kanalisation an der Kreuzung Walter-Flex-Straße / Dietrichstraße in Moosach. Warum kommt es bei Starkregen zu massiven Überschwemmungen im Kreuzungsbereich? [BA-Antrag Nr. 20-26/B 04904; Erweiterung der Entwässerungsanlagen um zusätzliche Gullys geplant.]
+- TOP 7.3.: Anfrage: Wird die Olympia-Pressestadt in die Feierlichkeiten zu "50 jahre Olympische Sommerspiele in München 2022" einbezogen? [BA-Antrag Nr. 20-26/B 01500; Beteiligung war bei diversen Veranstaltungen sichergestellt.]
+- TOP 7.4.: Ladezone Einzelhandel auf Fuß- und Radweg am Memminger Platz [BV-Anfrage Nr. 20-26/Q 00218; die privat angebrachte Beschilderung wurde wieder entfernt.]
+- TOP 7.5.: Prüfung einer Sicherheitsanlage für Fußgänger*innen zur Überquerung der Pelkovenstraße in Höhe Moosacher St.-Martins-Platz / Dresdner Straße [Schreiben BA10 vom 21.09.2022; Aufnahme in Antragsliste; Bewertung 2023 ist noch offen.]
+- TOP 7.6.: Einsatz von TOPO-Boxen als städt. Leistung: Allacher Straße [Schreiben BA10 vom 25.07.2022; Allacher Straße ist für eine Erhebung ungeeignet aufgrund der zwei Fahrbahnen je Richtung.]
+- TOP 7.7.: Sitzbank vor Anwesen Pelkovenstr. 50-52 [Schreiben BA10 vom 16.10.2019; Bank wurde am 28.03.2023 aufgestellt.]
+- TOP 7.8.: Nachpflanzungen nach Baumfällungen in der städt. Parkanlage Am Kapuzinerhölzl [Schreiben BA10 vom 17.03.2023; voraussichtlich Herbst 2023 werden 3 klimageeignete Hochstammbäume nachgepflanzt.]
+- TOP 7.9.: Fehlende Tempo-30 Bereiche an der Grenze Nymphenburg Moosach [Schreiben BA9 vom 31.01.2023; aufgrund rechtlicher Voraussetzungen Änderungen der Regelgeschwindigkeiten nicht möglich.]
+- TOP 7.10.: Parksituation um das Schulzentrum Moosach [Schreiben BA10 vom 20.12.2022 an Schulleitungen; keine Öffnung des Lehrerparkplatzes für die Öffentlichkeit im Sinne der Anwohner.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Genehmigung neuer Standort des Bücherschranks Moosach 2 /Borstei
+- TOP 8.2.: unveränderte Fortführung eines Gaststättenbetriebes: Pelkovenstr. 42
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Rückbau Haltverbotsbereich in der Templestraße (vormals Bücherbushaltestelle) und Einrichtung einer Bücherbushaltestelle in der Welzenbachstraße (Höhe Hsnr.12);
+- TOP 8.4.: Künftige Beschilderung Fahrradabstellanlagen/ Abstellanlagen für Lastenräder
+- TOP 8.5.: Flyer Fernwärmeprojekt FW-Erschließung Moosach (Erweiterung des Fernwärmenetzes in diversen Straßenzügen
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: MINGA - Münchens automatisierter Nahverkehr mit Ridepooling, Solobus und Bus-Platoons Teilnahme der Landeshauptstadt München am Förderprojekt MINGA der Förderrichtlinie „Autonomes und vernetztes Fahren in öffentlichen Verkehren“ (BMDV): Finanzierung Eigenanteil, Personaleinrichtung und Vergaben
+- TOP 8.8.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
