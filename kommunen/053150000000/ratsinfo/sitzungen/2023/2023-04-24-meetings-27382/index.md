@@ -1,0 +1,53 @@
+# 17. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-04-24T15:05:00+02:00
+- Ende: 2023-04-24T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27382
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27382
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP -: B. Präsentation zur modellhaften Öffnung von Schulhöfen als Spiel-, Sport- und Bewegungsräume für Kinder, Jugendliche und Erwachsene - Sache ist erledigt
+- TOP -: C. Präsentation zur Mittagsverpflegung in Kölner Schulen - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 23.02.2023 betreffend Verwendung Immobilie Volkhovener Weg 209-211 - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 11.04.2023 AN/0288/2023 Beantwortung einer Anfrage der FDP-Fraktion: Volkhovener Weg 209-211 (AN/0288/2023) - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion SPD vom 01.03.2023 betreffend Missstände KGS Gutnickstraße - zurückgestellt
+- TOP 4.3: Anfrage der Fraktion SPD vom 01.03.2023 betreffend Beantragung von Leistungen aus dem Bildungs- und Teilhabepaket - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 19.04.2023 Anfrage AN/0373/2023 Beantragung von Leistungen aus dem Bildungs- und Teilhabepaket - Kenntnis genommen
+- TOP 4.4: Anfrage der Fraktion Die Fraktion vom 07.03.2023 betreffend Ende der Kreidezeit: Verbleib der ausgemusterten Schultafeln - zurückgestellt
+- TOP 4.5: Anfrage der Fraktion SPD vom 29.03.2023 betreffend Anmeldesituation an weiterführenden Schulen - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 18.04.2023 Anfrage AN/0587/2023 Anmeldesituation an weiterführenden Schulen - Kenntnis genommen
+- TOP 4.6: Anfrage der Fraktion Bündnis 90 / Die Grünen, CDU und Volt vom 05.04.2023 betreffend Beförderung von Inklusionskindern - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Die Linke vom 16.11.2022 betreffend "Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 28.02.2023 Anfrage AN/2064/2022 Kooperation zwischen LVR und Stadt Köln zur Realisierung inklusiver Bildung - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit dem Bau der Grundschule Friedenstraße, Köln-Porz - ungeändert beschlossen
+- TOP 6.2: Errichtung des Bildungsgangs "Fachoberschule Klasse 11 und 12 - Fahrzeugtechnik (Elektromobilität)" Fachrichtung Technik im Schwerpunkt Metalltechnik am NAOB (BK 18) zum Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 6.3: Schulrechtliche Änderung des Bildungsgangs "Fachschule für Technik - Fachrichtung Fahrzeugtechnik" durch die Schwerpunkt Elektromobilität des Nicolaus-August-Otto-Berufskollegs (BK 18) zum Schuljahr 2023/24 in die Tagesform - ungeändert beschlossen
+- TOP 6.4: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 6.5: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche mindestens einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung einer Gesamtschule für den Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - mündliche Nachfrage aus dem Ausschuss für Soziales, Seniorinnen und Senioren vom 02.03.2023 - Kenntnis genommen
+- TOP 8.2: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 8.3: Nationaler Preis - Bildung für nachhaltige Entwicklung: Die Volkshochschule Köln wurde ausgezeichnet - Kenntnis genommen
+- TOP 8.4: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2022 - Kenntnis genommen
+- TOP 8.5: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 8.6: Anmeldeverfahren für weiterführende Schulen in Köln - Kenntnis genommen
+- TOP 8.7: Erfolgreicher VHS-Projektantrag: „IQ NRW West: gemeinsam durchstarten“ - Kenntnis genommen
+- TOP 8.8: Jahresbericht 2022 des Amts für Weiterbildung / Volkshochschule liegt vor - Kenntnis genommen
+- TOP 8.9: Konzept der Elternberatungsstelle Inklusion in der Regionalen Bildungslandschaft - Kenntnis genommen
+- TOP 8.10: Ergebnisse Antragsrunde Fonds Kulturelle Bildung 2023 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
