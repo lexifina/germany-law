@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-04-25T17:00:00+02:00
+- Ende: 2023-04-25T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24421
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24421
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung vom 28. Februar 2023 - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung vom 28. März 2023 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Geothermie Rhein, Wärme aus Tiefengeothermie für die Fernwärme in Düsseldorf und Duisburg - zur Kenntnis genommen
+- TOP 9: Stadtbahn U81 - 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Durchführung einer erweiterten Alternativenuntersuchung der Rheinbrücke - Empfehlung einstimmig beschlossen
+- TOP 10: Neubenennung des Platzes vor dem ehemaligen Marienkrankenhaus Kaiserswerth in Marienplatz - einstimmig beschlossen
+- TOP 11: Zuschuss an den Verein Tennisgemeinschaft Nord Düsseldorf e.V. - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 (Liste B), diverse Kita-Einrichtungen - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 (Liste B), Blumenoasen im Stadtbezirk 5 und Kinderspielplatz Hoppengarten - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 14: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? - vertagt
+- TOP 15: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - vertagt
+- TOP 16: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg - vertagt
+- TOP 17: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 18: Bau von Ladestationen in autofreien Zonen - beantwortet
+- TOP 19: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? Erneute Anfrage zu den Kreuzungsbereichen Mühlenacker/Klosekamp und Wittgatt/Fritz-Köhler-Weg - vertagt
+- TOP 20: Bebauungsplan 05/009 "Kalkumer Höfe" - Sachstand und Notwendigkeit - beantwortet
+- TOP -: Neue Anfragen
+- TOP 21: Warum wird der Ortskern Angermund von der Stadtverwaltung seit 5 Jahren sträflichst vernachlässigt? - vertagt
+- TOP 22: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 23: Kulturförderung auch in Kaiserswerth - Nutzung des Pumpenhauses (Herbert-Eulenberg-Weg 8) für kulturelle Zwecke ermöglichen - beantwortet
+- TOP 24: Warum wird der Sicherheitsdienst am Kaiserswerther Deich rund um den "Anker" und der Kaiserswerther Basilika nicht von den Streetworkern des Projekts "Sicherheit in der Innenstadt (SIDI)" unterstützt? - beantwortet
+- TOP 25: Tempo 30-Beschilderung vor Kindergärten und Schulen - vertagt
+- TOP 26: Lichtsignalanlage Niederrheinstraße/Leuchtenberger Kirchweg - vertagt
+- TOP 27: Defekter Straßenbelag Niederrheinstraße und Arnheimer Straße - beantwortet
+- TOP 28: Welche Folgen haben die Neubaugebiete im Stadtbezirk für die Wassergewinnung? - vertagt
+- TOP 29: Ungeordnete Bebauung auf dem Grundstück Leuchtenberger Kirchweg 71 und 71a zum Nachteil der Allgemeinheit? - beantwortet
+- TOP -: Anträge
+- TOP 30: Instandsetzung des Weges zwischen der Straße "Angerbenden" über den Brückenschlag bis hin zur Straße "Alte Gasse" - einstimmig beschlossen
+- TOP 31: Verbesserung der Sichtbarkeit / Mülltonnenaufstellfläche auf der Bahnhofstraße, Einmündung Drosselweg - einstimmig beschlossen
+- TOP 32: Vorschläge für Standorte zur Installation von Trinkwasserbrunnen im Stadtbezirk 5 - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 33: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 34: Verschiedenes
+- TOP 35: Gastronomische Nutzung der Mittelinsel unverzüglich ermöglichen - Der Kaiserswerther Markt muss ein attraktiver Aufenthaltsort bleiben! - einstimmig beschlossen
