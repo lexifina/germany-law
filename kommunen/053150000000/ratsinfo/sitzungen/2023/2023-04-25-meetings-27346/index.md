@@ -1,0 +1,83 @@
+# 24. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-04-25T16:10:00+02:00
+- Ende: 2023-04-25T18:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27346
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27346
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Begleitende Kommunikation der Verkehrsversuche - endgültig zurückgezogen
+- TOP 1.1.1: Begleitende Kommunikation der Verkehrsversuche vom 23.01.2023 - Kenntnis genommen
+- TOP 1.2: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.2.1: Ergänzungsantrag zu TOP 1.2 – Antrag der FDP-Fraktion „Beschleunigung ÖPNV-Netzentwicklung“ (AN/0027/2023) - zurückgestellt
+- TOP 1.2.2: Änderungsantrag zu AN/0027/2023 Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.2.3: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.3: Maßnahmen gegen illegale Autorennen – Alfred-Schütte-Allee endlich sichern - endgültig zurückgezogen
+- TOP 1.4: Untersagung des Abstellens von elektrischen Tret-Rollern und Mietfahrrädern auf den Bürgersteigen - endgültig abgelehnt
+- TOP 1.5: Tempo 30 auf der B9 in Worringen einrichten - zurückgestellt
+- TOP 1.6: Faire Preise für öffentliches Parken in Köln: Soziale Aspekte und Klimaschutz miteinbeziehen - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Bürgereingabe nach § 24 GO "Raser und Poser" Alfred-Schütte-Allee (Az.196/22) - geändert beschlossen
+- TOP 2.2: Umgestaltung der Vorgebirgstraße in Zollstock auf dem Abschnitt zwischen „Am Vorgebirgstor„ und „Raderthalgürtel“ durch Umwandlung der rechten Fahrspur in eine Radverkehrsanlage/Schutzstreifen - ohne Votum in nachfolgende Gremien
+- TOP 2.2.1: Änderungsantrag zu TOP 2.2 "Umgestaltung der Vorgebirgstraße" - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 2.3: Fahrplanwechsel 2023 - Einrichtung einer TaxiBus-Linie in Klettenberg - mit Änderungen empfohlen
+- TOP 2.3.1: Ergänzungsantrag zur Beschlussvorlage 0811/2023: Fahrplanwechsel 2023 - Einrichtung einer TaxiBus-Linie in Klettenberg - ungeändert empfohlen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Beschluss einer Trasse für die RadPendlerRoute 2 (Bergisch Gladbach – Köln) - geändert beschlossen
+- TOP 3.2: On-Demand-Angebot KVB-Isi - zurückgestellt
+- TOP 3.2.1: On-Demand-Angebot KVB-Isi - endgültig abgelehnt
+- TOP 3.3: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - ohne Votum in nachfolgende Gremien
+- TOP 3.4: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - zurückgestellt
+- TOP 4.2: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - mit Änderungen empfohlen
+- TOP 4.2.1: Ergänzungsantrag zur Beschlussvorlage 2751/2022: Kapazitätserweiterungen auf den Linien 4, 13 und 18; Baubeschluss für den Ausbau der Bahnsteige der Haltestellen der Bauphase 2 auf eine Nutzlänge von 60 m - ungeändert empfohlen
+- TOP 4.3: Planung und Realisierung der Möblierung des Offenbachplatzes - ungeändert empfohlen
+- TOP 4.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - zurückgestellt
+- TOP 4.5: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Sachstand Ertüchtigung der Friedrich-Ebert-Straße/ Kreuzung L300 - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Zugeparkte Gehwege nicht weiter tolerieren – Bremer Urteil richtungsweisend auch für Köln - zurückgestellt
+- TOP 5.2.2: Bestehende Buslinien-Planung - Sache ist erledigt
+- TOP 5.2.3: Parkplätze in Köln - Sache ist erledigt
+- TOP 5.2.4: Güterverkehr auf der Schiene - rechtliche Grundlagen - zurückgestellt
+- TOP 5.2.5: Immer noch kein Umbau am Bahnhof Süd - Sache ist erledigt
+- TOP 5.2.6: Natürliche Gleiskörper – womit spritzt die KVB? - Sache ist erledigt
+- TOP 5.2.7: Haftet der Anti-Haft-Lack? - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Beantwortung der Anfrage "Umsetzung Lärmaktionsplans" (AN/1434/2022) - Sache ist erledigt
+- TOP 6.2: Anfrage zu Verkehrsversuchen - Sache ist erledigt
+- TOP 6.3: Gespräche mit E-Scooter - Anbietern - Sache ist erledigt
+- TOP 6.4: Emissionsärmerer Wirtschaftsverkehr – Frachtgüter auch innerstädtisch auf die Schiene - Sache ist erledigt
+- TOP 6.5: Ampelanlagen Mülheimer Hafen - Sache ist erledigt
+- TOP 6.6: Routen für den Schwerlastverkehr - Sache ist erledigt
+- TOP 6.7: Kosten der Mobilitätsgarantie - Sache ist erledigt
+- TOP 6.8: Öffentliche E-Bike Ladepunkte - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Einführung von PBN-Verfahren (Performance Based Navigation) am Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 7.2.2: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 7.2.3: Stadtradeln 2023 - Kenntnis genommen
+- TOP 7.2.4: Baumaßnahme Umgestaltung der nördlichen Domumgebung Verlegung des Baubeginns nach die EM 2024 - Kenntnis genommen
+- TOP 7.2.5: Kraftfahrzeuge in Köln 2022 - Kenntnis genommen
+- TOP 7.2.6: Rheinpendel - Vorlage der technischen Machbarkeitsstudie - zurückgestellt
+- TOP 7.2.7: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 7.2.8: Aufbau eines stadtweiten Netzes von Mobilstationen - hier: Zwischenbericht Raumbuch Mobilstationen - Kenntnis genommen
+- TOP 7.2.9: Temporäre Reduzierung im Busangebot der KVB - Kenntnis genommen
+- TOP 7.2.10: Projektfortschritt „NEUmarkt – temporäre Maßnahmen zur Aufwertung des Neumarkts“ - Kenntnis genommen
+- TOP 7.2.11: Sachstandsbericht zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 7.2.12: Kalker Hauptstraße - Fachgespräch - zurückgestellt
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Absperrbaken auf der Trankgasse
+- TOP 8.2: Luftreinhalteplan
