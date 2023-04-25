@@ -1,0 +1,85 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-04-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253033
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253033
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 29.03.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 29.03.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: barrierefreier Ausbau der Haltesstelle Ampfingstr. (Westseite); Beschluss des Bezirksausschusses 14
+- TOP 2.2.: Antrag auf eine Freischankfläche, Josephsburgstr. 25; Beschluss des Bezirksausschusses 14
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Truderinger Str. - Neubau einer Wohnanlage (201 WE) sowie einer Kindertagesstätte und Tiefgarage
+- TOP 3.1.2.: Beschlussentwurf für die Freilegung des Hachinger Bachs; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 05.05.2023
+- TOP 3.1.3.: Neubaumaßnahme Plankensteinstr. 8; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Fuß- und Radverkehrssicherheit an der Kreuzung Innsbrucker Ring, Grafinger Str. und Schlüsselbergstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Im Einfahrtbereich wird der Kunststeinplattenbelag durch Asphalt ersetzt, Ludwig-Jung-Str. (Aschheimerstr. 30)
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Behrpark - "Kunst im Behrpark mit Serenade im Rosengarten" vom 19.05. bis 21.05.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Single-Sitzgelegenheiten zum Kräfte schöpfen; Anhörung des Baureferats
+- TOP 3.4.2.: Aufstellung einer orangenen Bank, Kein Platz für Gewalt gegen Frauen, Antrag der FDP Fraktion
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2022 bis 2026; Anhörung der Stadtkrämmerei
+- TOP 3.5.2.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrag-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 05.12.2022 Änderung der BA-Satzung; Anhörung des Direktoriums
+- TOP 3.5.3.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0.14-0356 - vertagt aus der Sitzung 03/23 -
+- TOP 3.5.4.: (E) Stadtbezirksbudget C.O.N. SONANZA e.V. - Chor-Orchester-Netzwerk in Deutschland “Das große Tor von Kiev“ vom 22.04. - 15.12.2023 15.000,00 € / Az.: 0262.0-14-0358
+- TOP 3.5.5.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Kunst im Behrpark mit Serenade im Rosengarten vom 19. - 21.05.2023 656,10 € / Az.: 0262.0-14-0359
+- TOP 3.5.6.: (E) Stadtbezirksbudget Pepe Arts Freeman Festival 2023 vom 27.-29.05.2023 4.500,00 € / Az. 0262.0-14-0357
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Risserkogelstr. 6
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Urbanes Gärtnern in München StR-Anträge
+- TOP 4.1.2.: Informationen bezüglich verschiedener Grünanlagen im Stadtteil 14
+- TOP 4.1.3.: Umbau der Grünanlage an der Echardinger Straße / Delikte rund um den Edeka an der Bad-Schachener-Straße - Antwortschreiben -
+- TOP 4.1.4.: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Zweckentfremdung, St.-Veit-Str. 87: Anhörung des Sozialreferats
+- TOP 4.2.2.: Eigene Stellplätze für Lastenfahrräder, Fahrräder mit Anhänger und Dreiräder ausweisen - Antwortschreiben -
+- TOP 4.2.3.: 8. Fortschreibung des Luftreinhalteplans, Erweiterung der Umweltzone inkl. Dieselfahrverbot; verkehrsrechtliche Anordnung der Beschilderung
+- TOP 4.2.4.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 4.2.5.: Zukünftige Beschilderung der Fahrradabstellanlagen/Abstellanlagen für Lastenräder
+- TOP 4.2.6.: Umsetzung Halteverbot und Kurzparken, Josephsburgstr. 25
+- TOP 4.2.7.: Hinweisbeschilderung zur öffentlichen Tiefgarage, Hanne-Hiob-Str.
+- TOP 4.2.8.: (U) Keine Mieterhöhungen in den nächsten zehn Jahren in München und Umland und Strom- und Heizkosten einfrieren
+- TOP 4.2.9.: BA-Antrag Nr. 20-26 / B 00988 "E-Fahrrad ÖPNV Kombination unterstützen", beantragt Fristverlängerung bis zum 31.12.2023
+- TOP 4.2.10.: Nicht mehr genutzte KfZ-Spur auf der Berg-am-Laim-Straße vor dem Haidenauplatz als Radweg nutzen - Antwortschreiben -
+- TOP 4.2.11.: BA-Antrag Nr. 20-26 / B 02384 "Hochhausstudie: An örtliche Gegebenheiten anpassen", beantragt Fristverlängerung bis zum 30.09.2023
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Beleuchtung von Jugendspieleinrichtungen, Beleuchtete Skateanlagen in den Abendstunden: Pilotprojekt Im Gefilde
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Anpassung des Bolzplatzes an der Kreillerstraße 21 an die Bedürfnisse der Jugendlichen - siehe TOP 4.4.2 -
+- TOP 4.4.2.: Rückmeldung zur Nachfrage bezüglich Aufenthaltscontainer am Bolzplatz an der Kreillerstr./Virgilstr. (siehe BA-Antrag 20-26 / B 03053)
+- TOP 4.4.3.: (U) Partizipation 2.0 reloaded
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweis: HILDALGO gGMbH hier: Street Art Song
+- TOP 4.5.2.: Öffentlichkeitsbeteiligungskonzept der LHM mit Stadtratsfraktionen und Bezirksausschüssen am 21.03.2023 - Protokoll -
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
