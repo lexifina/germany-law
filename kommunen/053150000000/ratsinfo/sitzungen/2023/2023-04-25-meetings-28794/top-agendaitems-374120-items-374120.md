@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu Top 1.1, Niederflur Stadtbahnfahrzeug (Arbeitstitel NF12) Hier: nicht gegebene Barrierefreiheit im Modell Stand 28.07.2022
+
+- Sitzung: 1. Gemeinsame Sondersitzung des Ausschusses für Soziales, Seniorinnen und Senioren und des Verkehrsausschusses (2023-04-25)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/374120
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/173611
