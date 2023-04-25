@@ -1,0 +1,150 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368591
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368591
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 6.1.: Nicht funktionierende Müllabfuhr
+- TOP 6.2.: Sauberkeit im Westpark
+- TOP 6.3.: Anfrage Fernwärme
+- TOP 6.4.: Bewohnte Wohnwagen/PKW in der Siegenburger und Rüdesheimer Straße
+- TOP 6.5.: Nachtrag: Kulturzentrum Edelsbergstraße
+- TOP 6.6.: Nachtrag:Alb-Roßhaupter-Str.
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) LKW-Fahrverbot für die Murnauer Straße nördliche Richtung Empfehlung Nr. 20-26 / E 00989 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 27.10.2022
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Floßbau – Workshop für die 4. Klasse vom 01.03.2023 – 31.10.2023“ 500,00 € / AZ: 0262.0-7-0411
+- TOP 10.2.: (E) Stadtbezirksbudget Maibaumverein Sendling – Westpark e.V. “Maibaum – Aufstellung am Luise – Kiesselbach – Platz am 01.05.2023“ 1.500,00 € / AZ: 0262.0-7-0417
+- TOP 10.3.: (E) Stadtbezirksbudget Initiativgruppe „Sojus“ Aktiv, gemeinsam Natur und Kultur erleben. Unterstützung im Alltag. 5.000,00 Euro; Az. 0262.0-7-0416
+- TOP 11.: Anträge
+- TOP 11.1.: Überprüfung von Altkleidercontainer
+- TOP 11.2.: Entsiegelung und Begrünung Rattenberger / Heiterwangerstra
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1.: 12.01 UA Bau, Stadtplanung und Umwelt 12.04 UA Soziales und Kultur 12.05 UA Mobilität und Wirtschaft 12.06 UA Parks und Grünanlagen
+- TOP 12.2.: 12.04 Antrag Heimwegtelefon
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1.: Heimwegtelefon
+- TOP 13.2.: 13.01a Statusanfrage zu Zufahrtsrampe A95 Markomannenstr.
+- TOP 13.3.: 13.01b BA-Antrag E-Ladestationen
+- TOP 13.4.: 13.01c Protokoll Vorstandssitzung
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Ohlstadter Str
+- TOP 15.2.: Bauvorhaben Wessobrunner Str
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Partnachplatz
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Theatron, Shakespeares Theatre e.V.-mehrere Termine im Juli
+- TOP 17.2.: Westpark, große Zirkuswiese, Zirkuslust Lab vom 05.06. - 09.06.2023
+- TOP 17.3.: Westpark, Westteil, Teamstaffel-Lauf am 25.05.2023
+- TOP 17.4.: Westpark, Asienensemble, Seebühne, Veskah-Fest am 20.05.2023
+- TOP 17.5.: Westpark, Ostseite bei Mollsee, Trommelaktion für Inklusion am 05.05.2023
+- TOP 17.6.: Westpark, Seebühne, Musikalisches Weinfest (Mai und September)
+- TOP 17.7.: Westpark, Bereich Rosengarten, Veranstaltung der PI 15 im Rahmen von 40 Jahre Westpark am 23.07.2023
+- TOP 17.8.: Nachtrag: Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 17.9.: Nachtrag: Westpark, 264 Charity Run
+- TOP 18.: Baureferat
+- TOP 18.1.: Erinnerungsverfahren Rüdesheimer Str
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Anfrage wegen Austausch einer Lichtsignalanlage-Standort Endelhauser-/Westendstr
+- TOP 25.2.: Anfrage wegen Austausch und Überplanung einer Lichtsignalanlage-Standort Westend-/Fachnerstr.
+- TOP 25.3.: Radwegbenutzungspflicht in der Passauerstraße
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: Mehrjahresinvestitionen
+- TOP 33.: Baureferat
+- TOP 33.1.: Gestaltung Distlhofweg nach Abschluss der Bauarbeiten Hier: Grünfläche östlich des Distlhofwegs
+- TOP 33.2.: Trinkwasserbrunnen am Partnachplatz
+- TOP 33.3.: Verbesserung der Wasserqualität der Seen im Westpark
+- TOP 33.4.: Beleuchtung Gerty-Spies-Str.
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Mehr Sicherheit für den Radverkehr in der Waldfriedhofstraße im Bereich zwischen Schongauer und Fürstenrieder Straße
+- TOP 40.2.: Südparkallee_Aufhebung Benutzungspflicht
+- TOP 40.3.: Parklizenzgebiete Sendling-Westpark
+- TOP 40.4.: Spielplatz Zirler Platz
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Brummton an verschiedenen Adressen in Sendling-Westpark
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Bauvorhaben Edelsbergstr
+- TOP 45.2.: Baumfällung Ostmarkstr.
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: (U) Ersatzneubau der Kreuzhofbrücken BW 40/45 und BW 40/46 im 7. Stadtbezirk Sendling - Westpark, im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und im 20. Stadtbezirk Hadern Vorprojektgenehmigung
+- TOP 49.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Webexmeeting zum Öffentlichkeitsbeteiligungskonzept der LHM mit Stadtratsfraktionen und Bezirksausschüssen
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Organspendelauf
+- TOP 53.2.: Versammlungsanzeigen Kulturlieferdienst
+- TOP 53.3.: Bescheid, Westpark, große Zirkuswiese, Circus Leopoldin
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Zukünftige Beschilderung der Fahrradabstellanlagen-Abstellanlagen für Lastenräder
+- TOP 56.2.: Erweiterung der Umweltzone inkl. Dieselfahrverbot; verkehrsrechtliche Anordnung der Beschilderung
+- TOP 56.3.: Preßburger Str.-Vollsperre
+- TOP 56.4.: Pfaffenwinkel
+- TOP 56.5.: Martin-Behaim-Str-keineWendemöglichkeit
+- TOP 56.6.: Sappelstraße-Vollsperre
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung Zweckentfremdung-Halmstr
+- TOP 62.2.: Unterrichtung Zweckentfremdung-Billrothstr
+- TOP 62.3.: Präsentationen Informationsveranstaltung der Sozialreferentin
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Bericht AKIM
+- TOP 63.2.: Flyer Strom-Projekt-Mittenwalder Straße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Mobilfunk Standorte
