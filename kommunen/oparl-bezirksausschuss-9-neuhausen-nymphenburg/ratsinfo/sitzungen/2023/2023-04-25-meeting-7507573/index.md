@@ -1,0 +1,188 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2023-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7507573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7507573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 2.4: Wechsel in den Unterausschüssen - Fraktion DIE LINKE
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) - Erweiterung einer bestehenden Freischankfläche Suuapinga GmbH - Blutenburgstraße 93
+- TOP 3.1.2.: (N) Entscheidung über Sondernutzungserlaubnis - Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Warenauslage) Serbest Ismail Bro - Frundsbergstraße 5
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: An der Straßenlaterne befestigter Straßenspiegel - Birketweg / Wilhelm-Hale-Straße
+- TOP 3.2.2.: Tempo 30 für die Infanterix Kita in der Leonrodstraße 46
+- TOP 3.2.3.: Rad - & Fußweg Neuhausen
+- TOP 3.2.4.: Antrag Poller Rotkreuzplatz
+- TOP 3.2.5.: Parkraummanagement Lizenzgebiete "Rotkreuzplatz Nord" und "Apostelblöcke"
+- TOP 3.2.6.: Südliche Auffahrtsallee
+- TOP 3.2.7.: SPD-Fraktion: Antrag - Sitzmöglichkeiten an Haltestellen einrichten
+- TOP 3.2.8.: SPD-Fraktion: Antrag - Ausschilderungen auf S-Bahnhof Donnersbergerbrücke installieren
+- TOP 3.2.9.: Grünen-Fraktion: Antrag - Bewirtschaftung des Parkplatzes am Hirschgarten
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Erinnerungsverfahren - Fahrbahnsanierung für Busspur - Landshuter Allee 25-41 - Stellungnahmeersuchen des BAU bis zum 20.04.2023 -
+- TOP 3.3.2.: Erinnerungsverfahren Donnersbergerbrücke Bushaltestelle - Fahrbahn
+- TOP 3.3.3.: Erinnerungsverfahren Friedenheimer Brücke Bushaltestelle - Fahrbahn
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Einsatz von TOPO-Boxen als städtische Leistung BA-Antrag-Nr. 20-26 / B 04167 des Bezirksausschusses 9 vom 21.06.2022 - Rückmeldung des MOR auf das Antwortschreiben des BA vom 23.02.2023 -
+- TOP 3.4.2.: Parken vor dem Schanigarten Sappralott in der Donnersbergerstraße - Bezug: TOP 3.2.7. aus 11/2022 - Antwortschreiben des MOR -
+- TOP 3.4.3.: Antrag auf Errichtung einer Kurzparkzone in der Aiblingerstraße - Bezug: TOP 3.2.12. aus 01/2023 - Antwortschreiben des MOR -
+- TOP 3.4.4.: Fehlende Tempo-30-Zone im Bereich - Kreuzung Menzinger Straße / Wintrichring und am - Übergang Nederlinger Straße / Baldurstraße - Bezug: TOP 3.2.10. aus 01/2023 - Antwortschreiben des MOR -
+- TOP 3.4.5.: Antrag auf einen Zebrastreifen an der Ecke Triva- / Heideckstraße beim Lokal "Dalmacija" - Bezug: TOP 3.2.11. aus 01/2023 - Antwortschreiben des MOR -
+- TOP 3.4.6.: Waisenhausstraße - verschiedene Tempolimits - Bezug: TOP 3.2.8. aus 03/2023 -
+- TOP 3.4.7.: W-Lan in den U-Bahnhöfen Maillingerstraße, Rotkreuzplatz, Gern und Westfriedhof
+- TOP 3.4.8.: Schulwegsicherheit an der Helmholtzschule
+- TOP 3.4.9.: Tempo 30 Leonrodstraße zwischen Landshuter Allee und Rotkreuzplatz
+- TOP 3.4.10.: Brennpunkt Rotkreuzplatz - Maronenstand - Bezug: TOP 3.2.5. aus 03/2023 - Antwortschreiben des KVR nebst Anlagen -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: 6. Planänderung im PFA 1 der 2. S-Bahn-Stammstrecke (Erkundungs- und Rettungsstollen) Bahn-km 103,280 bis 105,996 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München - Abdruck der gesamtstädtischen Stellungnahme zur Kenntnis -
+- TOP 3.5.2.: Hohenlohestraße zwischen Paschstraße und Waisenhausstraße - Arbeiten im Straßenraum - Asphaltierung des Fahrbahnbelags - Verkehrsrechtliche Anordnung des MOR vom 27.03.2023 bis 28.04.2023 zur Kenntnisnahme -
+- TOP 3.5.3.: Irnfriedstraße - Errichtung eines absoluten Halteverbots - Verkehrsrechtliche Anordnung des MOR zur Kenntnisnahme -
+- TOP 3.5.4.: Renatastraße - Errichtung eines absoluten Halteverbots - Verkehrsrechtliche Anordnung des MOR zur Kenntnisnahme -
+- TOP 3.5.5.: Pfänderstraße 2 / Heldstraße 7 Seite Pfänderstraße / Heldstraße 10 Ecke Pfänderstraße - Arbeiten im Straßenraum - Reparaturen an den Fernwärmeleitungen - Verkehrsrechtliche Anordnung des MOR vom 13.03.2023 bis 12.06.2023 zur Kenntnisnahme -
+- TOP 3.5.6.: Zukünftige Beschilderung der Fahrradabstellanlagen / Abstellanlagen für Lastenräder
+- TOP 3.5.7.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 3.5.8.: 8. Fortschreibung des Luftreinhalteplans - Erweiterung der Umweltzone inkl. Dieselfahrverbot - verkehrsrechtliche Anordnung der Beschilderung zur Kenntnisnahme
+- TOP 3.5.9.: Standortbegehung Ladesäulen am 30.03.2023 - Protokoll des MOR zur Standortbegehung mit der Bitte um Kenntnisnahme -
+- TOP 3.5.10.: Verkehrsrechtliche Anordnung - Landshuter Allee Tunnel - Mittlerer Ring Untersuchung der Bauwerkssohle und Potentialfeldmessungen - Vollsperrung beider Röhren vom 11.04.2023 - 14.04.2023 (Nachtarbeit, 3 Nächte von 22-5 h)
+- TOP 3.5.11.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) - Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund Blume2000 SE - Nymphenburger Straße 160 - Bescheid des KVR vom 03.04.2023 zur Kenntnisnahme -
+- TOP 3.5.12.: Verkehrsrechtliche Anordnung - Landshuter Allee Tunnel - Mittlerer Ring Auskühlung des Asphalts, nach Eröffnung zur Untersuchung der Bauwerkssohle und Potentialfeldmessungen - Sperrung der Fahrspuren an der Mittelwand beider Röhren sowie 3 Stellen auf dem Standstreifen am 12.04.2023
+- TOP 3.5.13.: Erinnerungsverfahren Hohenlohestraße 39-79 - Bezug: TOP 3.3.3. aus 03/2023 - Antwortschreiben des BAU -
+- TOP 3.5.14.: Verkehrsrechtliche Anordnung - Menzinger Straße zwischen Prinzenstraße und Tizianstraße Neuverlegung einer Gasleitung / Wasserleitung vom 17.04.2023 - 07.07.2023
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Ortstermin Blutenburgstraße - Sommerstraße
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.2.1.: Gestaltung Leonrodplatz Flst. 504/50
+- TOP 4.2.2.: BA 9: Antrag - Stadtquartier Am Hirschgarten - Herstellung der Grünfläche zwischen MK 8 und Backstage
+- TOP 4.2.3.: FDP-Fraktion: Antrag - Immobilienkäufe der Landeshauptstadt München - auch Angebote in Neuhausen-Nymphenburg?
+- TOP 4.2.4.: Laubenbau im Garten der Richildenstrasse 47
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Nymphenburger Straße 115 Aufstockung und Umbau eines Vordergebäudes, Neubau eines Rückgebäudes mit Tiefgarage - VORBESCHEID
+- TOP 4.3.2.: Hanfstaenglstraße 23-23 A Neubau eines FLACHDACH-Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 4.3.3.: Hanfstaenglstraße 23-23 A Neubau eines ZELTDACH-Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 4.3.4.: Nibelungenstraße 64 Abbruch Einfamilienhaus und Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 4.3.5.: Hubertusstraße 14 Neubau eines Mehrfamilienhauses mit 4 WE und Tiefgarage
+- TOP 4.3.6.: Frundsbergstraße 21 Nutzungsänderung Spitzboden: Speicher zu Wohnen sowie Errichtung eines Außenaufzugs und einer neuen Heizungsanlage
+- TOP 4.3.7.: Nymphenburger Straße 168 Nutzungsänderung einer Ladenfläche zu Flächen für Gastronomie inkl. Freischankflächen
+- TOP 4.3.8.: Sophie-Stehle-Straße 7 Errichtung eines Doppelhauses mit 2 Wohneinheiten, einer Doppelgarage und eines Tiefparkers
+- TOP 4.3.9.: Alfonsstraße 8-10 SCHULBAUOFFENSIVE Erweiterung der Grund- und Mittelschule sowie Neubau eines "Haus für Kinder" - GS: 3-zügige GS mit Ganztagsangebot, Mensa als Versammlungsstätte; MS: Verbleib im denkmalgesch. Altbau, Ergänzung e. Hausmeisterwohnung; HfK: Neubau mit 4-4-0 mit Außenfläche im EG + 1.OG; Errichtung von Freisportflächen (kl. Allwetterpl., Beachvolleyballfeld), Pausenflächen im EG und auf dem Dach GS / 1.OG - VORBESCHEID - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: gemeinsamer BA-Antrag BA 9: Neues Gestaltungskonzept zur Aufwertung des Schäringerplatzes
+- TOP 4.4.2.: Sachstand Abriss / geplanter Neubau am Leonrodplatz 2 - vertagt aus 03/2023 - Antwortschreiben der Stadtsparkasse -
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.2.: (U) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing West und im Stadtbezirk 9 Neuhausen - Nymphenburg Widmung einer Teilstrecke der Heßstraße
+- TOP 4.5.3.: Anteilige Stellungnahme des Münchner Forums zur Öffentlichkeitsbeteiligung Bebauungsplan mit Grünordnung,Nr. 2147 für das PaketPost-Areal
+- TOP 4.5.4.: TUM Projekt zum Leonrodplatz Landschaftsarchitektur
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Vorstellung Öffentliche Grünfläche Kreativpark am 19. April 2023
+- TOP 4.6.3.: Beteiligung Paketposthalle - vertagt aus 03/2023 -
+- TOP 4.6.4.: (N) Rupprechtstraße
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: Fragen zu Bäumen in der Arnulfstraße
+- TOP 5.2.2.: Aufnahme eines Wohngebiets (Helene-Weber-Allee, Gertrud-Bäumer-Straße etc.) in den regelmäßigen Reinigungsplan der Landeshauptstadt München - Rückmeldung des Bürgers auf das Antwortschreiben des Baureferats, Bezug: TOP 5.2.5. aus 02/2023 -
+- TOP 5.2.3.: Anfrage Baumrückschnitt
+- TOP 5.2.4.: Hitzeknigge - vertagt aus 02/2023 - Bezug: TOP 5.2.1. aus 02/2023 -
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Prinzenstraße 58 - Nördliche Auffahrtsallee 48 - Bandelstraße 11 - Richelstraße - Dom-Pedro-Platz 5 - Ginhardtstraße 6 - Jagdstraße 21
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Baumpflanzungen in der Romanstraße Bürgeranliegen an den BA 9 - Nachricht des MOR - vertagt aus 01/2023 - Bezug: TOP 5.4.1. aus 01/2023 -
+- TOP 5.4.2.: Fraktion der Grünen und DacG / ÖDP: Beratung zur Energiewende aktiv fördern
+- TOP 5.4.3.: Bäumen bei anhaltender Trockenheit helfen
+- TOP 5.4.4.: Ausbau Fernwärme mit Geothermie in Neuhausen-Nympenburg - vertagt aus 03/2023 -
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Neues Grünpaten-Programm
+- TOP 5.5.2.: Hochbeete im öffentlichen Raum - Wolfgang-Früchtl-Straße Bezug: TOP 5.2.2. aus 02/2023 - - hier: Genehmigungsbescheid des KVR / BI-West zur Kenntnisnahme -
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 5.6.2.: Bienen- und Schulgartenprojekt Rudolf-Diesel-Realschule - Standort Trojanostr. 15 - Bezug: TOP 5.6.2. aus 09/2020 -
+- TOP 5.6.3.: Fernwärme Nymphenburg - als WV zur Erinnerung an den Termin des BA mit dem RKU am 17.04.2023 -
+- TOP 5.6.4.: gemeinsame Sondersitzung RKU / Bezirksausschuss 9 Neuhausen-Nymphenburg - Projekt "Beratung zur Energiewende in Neuhausen-Nymphenburg aktiv fördern" am 17.04.2023
+- TOP 5.6.5.: Plane und Schild an der Gerner Brücke
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget PATHOS München e.V. Inklusiver Stadtspaziergang durch Neuhausen am 21. und 22. Juni sowie 25. bis 30. Juni 2023 (8 Führungen) 3.000,00 Euro; Az. 0262.0-9-0634
+- TOP 6.1.2.: BA 9: Antrag Budgetmittel Eigenveranstaltung Temporäre Spielstraße
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Geruchsbelästigung und Betriebszeiten der Restaurants in der Nymphenburger Straße 191 und 193 - Bezug: TOP 6.2.1. aus 04/2022 -
+- TOP 6.2.2.: Vorplatz Sommerbad Dantebad
+- TOP 6.2.3.: Besprechung eventuelle BA-Beteiligung an den Kosten für VIN
+- TOP 6.2.4.: Antrag auf Bewilligung eines Budgets in Höhe von 1.500,00 € für Eigenveranstaltungen im Rahmen der Inklusionswoche 2023
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Bericht vom Sozialempfang am 20.03.2023 im Sozialreferat
+- TOP 6.5.2.: Informationsveranstaltung der Sozialreferentin für die Bezirksausschüsse am 20.03.23 - Anschreiben der Sozialreferentin nebst Protokoll + Anlagen zur Kenntnisnahme -
+- TOP 6.5.3.: Protokoll des Nachtspaziergangs im Bezirk 9 Neuhausen-Nymphenburg am 15.02.2023 - Bezug: TOP 6.3.1. aus 12/2022 -
+- TOP 6.5.4.: Sitzungsvorlage Nr. 20-26 / V 05662 "Partizipation 2.0 reloaded" - Bezug: TOP 6.5.1. aus 03/2023 - Antwortschreiben des SOZ -
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Jugendcontainer
+- TOP 6.6.2.: Clean Projekt Neuhausen
+- TOP 6.6.3.: Berichte der Beauftragten
+- TOP 6.6.4.: Öffentlichkeitsarbeit des UA
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Initiative „Hide Out“ „Hide Out“ Bluesfest auf dem Rotkreuzplatz am 13.08.2023 (Alternativ 20.08.2023) 3.550,00 €; Az. 0262.0-9-0635
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.2.1.: SPD-Fraktion: Antrag - Straßenschilder Maria-Luiko-Straße mit Erläuterung versehen
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Grünen-Fraktion und SPD-Fraktion: Gestaltung und Beleuchtung zweite Unterführung Willi-Gebhardt-Ufer / Dachauer Straße / Landshuter Allee
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 7.6.2.: Runder Tisch Kreativlabor, Einladung des BA 9 an die Verwaltung, Termin, Beteiligte - Bezug: TOP 7.6.2. aus 03/2023 - WV für 04/2023 -
+- TOP 7.6.3.: BA-Kiosk - Konzept, Ideen, Beteiligung anderer UA - Bezug: TOP 7.6.3. aus 03/2023 - WV für 04/2023 -
+- TOP 7.6.4.: Entwurf Protokoll Besprechung Theaterfestivalgelände (Onlinetermin des BA mit dem KVR-Veranstaltungsbüro, Gartenbau und Olympiapark GmbH vom 8. März 2023)
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Erzbischöfliches Maria Ward Gymnasium Nymphenburg, P-Seminar Grünes Klassenzimmer Pavillon „Grünes Klassenzimmer“ vom 03.04. bis 31.12.2023 16.055,00 €; Az. 0262.0-9-0633
+- TOP 8.1.2.: (E) + (U) Eine Hausarztpraxis und eine Apotheke im "Hirsch-Forum" des 9. Stadtbezirks integrieren
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: Bauangelegenheiten am Käthe-Kollwitz-Gymnasium
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Antrag - Preisreduzierte Saunatage für Familien in den SWM-Bädern ab 2023
+- TOP 8.4.2.: Genehmigung zur Leitung von Sportkursen im Hirschgarten - Bürgeranliegen an den BA 9 aus 02/2023 - Antwortschreiben des BAU -
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 8.6.2.: Zugänge Hirschbergschule - Bezug: TOP 8.6.4. aus 02/2023 - Antwortschreiben des BAU -
+- TOP 8.6.3.: Hinweis auf Verschiebung Schulbauoffensive Alfonsstraße - siehe TOP 4.3.9. / Themensammlung RBS
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2023 bis 2027 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 02.05.2023 -
+- TOP 9.3.2.: Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen - Anhörungsschreiben des DIR mit Frist zur Rückmeldung bis zum 25.04.2023 -
+- TOP 9.3.3.: Anhörung Informationsveranstaltung auf öffentlichem Verkehrsgrund Tag des Ehrenamtes am 20.09.2023 auf dem Rotkreuzplatz - Stellungnahmeersuchen des KVR bis zum 11.05.2023 -
+- TOP 9.3.4.: Anhörung Veranstaltung in einer städtischen Grünanlage Tollwood Sommerfestival (Markt der Ideen) auf dem Theaterfestivalgelände vom 16.06.2023 - 16.07.2023, AUFBAU ab 04.05 - Stellungnahmeersuchen des KVR bis zum 28.04.2023 -
+- TOP 9.3.5.: Anhörung - Projekt „Drohneninszenierung“ der Tollwood GmbH für das Tollwood Sommerfestival vom 16. - 18.06.23 in München im Olympiapark - Stellungnahmeersuchen des KVR bis zum 28.04.2023 -
+- TOP 9.3.6.: (N) Anhörung Veranstaltung auf öffentlichem Verkehrsgrund Infoveranstaltung Bündnis 90/Die Grünen (Ortsverband Neuhausen-Nymphenburg) am 09.07.2023 auf dem Rotkreuzplatz - Stellungnahmeersuchen des KVR bis zum 11.05.2023 -
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Anhörung Veranstaltung in Grünanlage Eröffnungsfeier Spiellandschaft Stadt am 14.05.2023 am Wasserspielplatz im Hirschgarten - Stellungnahmeersuchen des KVR bis zum 20.04.2023 -
+- TOP 9.5.2.: Anhörung Veranstaltung im Freien auf Privatgrund in einer städtischen Grünanlage Magdalenenfest vom 08.07.2023 - 23.07.2023 im Hirschgarten - Stellungnahmeersuchen des KVR bis zum 12.04.2023 -
+- TOP 9.5.3.: Anhörung Ferienfreizeit "Die Surfskate Bande"(Stadtbezirke 06, 09, 22, 24) im Zeitraum 10.04.2023 - 01.11.2023 - Rückmeldung des KVR auf die Stellungnahme des BA -
+- TOP 9.5.4.: Protokoll zum Webexmeeting zum Öffentlichkeitsbeteiligungskonzept der LHM mit Stadtratsfraktionen und Bezirksausschüssen am 21.03.2023
+- TOP 9.5.5.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund Temporäre Spielstraße Hanebergstraße 25. Mai, 29. Juni, 27. Juli, 31. August und 28. September - Stellungnahme des BA an das KVR zur Kenntnisnahme -
+- TOP 9.6: Verschiedenes
+- TOP 10.: Nichtöffentliche Sitzung
