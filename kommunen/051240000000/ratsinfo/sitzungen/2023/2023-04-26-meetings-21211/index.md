@@ -1,0 +1,61 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-04-26T19:00:00+02:00
+- Ende: 2023-04-26T20:36:00+02:00
+- Ort: Stadtsparkasse Wuppertal - Zentrale, Sitzungsraum im 19. OG, Islandufer 15, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21211
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21211
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00311196.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00311520.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Jugendrates
+- TOP 2: Bericht des Beirates für Menschen mit Behinderung
+- TOP 3: Bürgerantrag gem. § 24 GO NRW - Fußgängerüberweg Schloßbleiche Ecke Wall - ungeändert beschlossen
+- TOP 4: Bürgerantrag gem. § 24 GO NRW - Lichtsignalanlage Kreuzung Max-Horkheimer/Fuhlrottstr - ungeändert beschlossen
+- TOP 5: Bürgerantrag gem. § 24 GO NRW - Sanierung Bahnunterführung und historische Treppenanlage Wolkenburg - Kluser Platz - ungeändert beschlossen
+- TOP 6: Bürgerantrag gem. § 24 GO NRW Einrichtung eines Haltverbots (Zeichen 283) auf der Dessauerstraße 7 bis 11 - ungeändert beschlossen
+- TOP 7: Berichterstattung zur geplanten Sanierung der Else-Lasker-Schüler-Gesamtschule durch das Gebäudemanagement
+- TOP 8: Erweiterung der Tempo-30-Zone 19 - ungeändert beschlossen
+- TOP 9: Freigaben von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Südstadt (hier: östlicher Teilbereich) - ungeändert beschlossen
+- TOP 10: Ökumenischer Gottesdienst am 29.05.2023 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 11: Veranstaltung Elberfelder Cocktail vom - ungeändert beschlossen
+- TOP 12: Volksfest in Elberfeld (Elberfelder Cocktail) - abgelehnt
+- TOP 13: Antrag auf Sondernutzung - Veranstaltung Wupperpark 2023
+- TOP 13.1: Durchführung der Veranstaltung "Luisenfest" am 04.06.2023 - geändert beschlossen
+- TOP 14: Durchführungsplan 62A Fluchtlinien für das Gebiet Kleeblatt-Bundesbahngelände-Diestelbeck-Gerstenstraße-Hospitalstraße_Weststraße-Malzstraße-Gambrinusstraße- - Offenlegungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 15: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2023 - ungeändert beschlossen
+- TOP 16: Umgestaltung Aussengelände Station Natur und Umwelt, Mehrkosten/Bauzeitenverlängerung - ungeändert beschlossen
+- TOP 17: Sicherheitskonzeption Luisenviertel - Entgegennahme ohne Beschluss
+- TOP 18: Prüfauftrag Parken auf dem Laurentiusplatz - Entgegennahme ohne Beschluss
+- TOP 19: Prüfauftrag zur Verkehrsberuhigung auf der Neumarktstraße - Entgegennahme ohne Beschluss
+- TOP 19.1: Verkehrsberuhigung Elberfeld > Fußgängerzone Neumarktstraße - Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen und Die Linke
+- TOP 20: Sachstandsbericht Schlüsselprojekte - Entgegennahme ohne Beschluss
+- TOP 21: „Einrichtung eines Taubenhauses am Döppersberg“ - Entgegennahme ohne Beschluss
+- TOP 22: Rettungswege und Parken - Maßnahmen, weiteres Vorgehen - Entgegennahme ohne Beschluss
+- TOP 23: Sachstand ISEK Elberfeld und Baustellenmanagement - 1. Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 24: Einmündung Südstraße / Islandufer - Prüfauftrag zur ÖPNV-Beschleunigung - Entgegennahme ohne Beschluss
+- TOP 25: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 26: Anträge
+- TOP 26.1: Prüfauftrag Ampelschaltung Friedrichstraße – Karlsstraße - Antrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 26.2: Zusätzlicher Parkraum für Menschen mit Behinderung - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 27: Anfragen
+- TOP 27.1: Große Anfrage der SPD-Fraktion zum Autofreien Laurentiusplatz
+- TOP 27.1.1: Antwort auf die Große Anfrage der SPD-Fraktion in der Bezirksvertretung Elberfeld zur Drehung der Fahrtrichtung im Bereich Friedrich-Ebert-Straße (VO/0957/22) - Entgegennahme ohne Beschluss
+- TOP 27.2: Darstellung der Kriterien zur Straßenklassifizierung - Große Anfrage der SPD Fraktion
+- TOP 27.2.1: Kriterien zur Straßenklassifizierung - Antwort auf Große Anfrage der SPD-Fraktion - Entgegennahme ohne Beschluss
+- TOP 27.3: Große Anfrage der SPD-Fraktion zum geplanten E-Scooter Verleih System
+- TOP 27.4: Große Anfrage der SPD-Fraktion zum Parkhaus am Kasinogarten
+- TOP 27.4.1: Parkhaus am Kasinogarten - Antwort auf die Große Anfrage der SPD-Fraktion in der Bezirksvertretung Elberfeld - Entgegennahme ohne Beschluss
+- TOP 27.5: Große Anfrage der SPD-Fraktion zu den neuen Müllbehältern auf dem Ölberg
+- TOP 28: Freie Mittel
+- TOP 28.1: Antrag der Aidshilfe Wuppertal e.V.
+- TOP 28.2: Antrag des Bürgervereins Elberfelder Südstadt - Unterstützung Freudenbergfest
+- TOP 28.3: Antrag des Unternehmer/innen für die Nordstadt e.V.
+- TOP 28.4: Antrag des Vereins der Arabischsprachigen e.V.
+- TOP 28.5: Antrag der Wasserfreunde Wuppertal 1883 e.V.
