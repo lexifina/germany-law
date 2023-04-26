@@ -1,0 +1,28 @@
+# Musikschule in Adlershof nicht komplett dezentralisieren
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Drucksache/Vorlage: VIII/0730
+- Art: Antrag
+- Datum: 2023-04-26
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6248
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/papers.asp?id=6248
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=130&id=302385
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5441 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5595 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=99
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5523 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=86
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5524 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=86
+- Beratung: Beratung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6087 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=90
+- Beratung: Beratung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6321 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=110
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6908 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=145
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5488 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5489 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5490 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5492 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5493 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5494 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5783 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=97
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6313 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=107
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6868 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=136
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6870 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=136
+- underDirectionOf: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=at&id=160
