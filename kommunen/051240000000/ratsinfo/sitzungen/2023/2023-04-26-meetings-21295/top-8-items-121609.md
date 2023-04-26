@@ -1,0 +1,8 @@
+# TOP 8: Regelung des Auflassens von (Hochzeits-)tauben in Wuppertal - Antrag der CDU-Fraktion vom 05.04.2023
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW (2023-04-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/121609
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/56540
