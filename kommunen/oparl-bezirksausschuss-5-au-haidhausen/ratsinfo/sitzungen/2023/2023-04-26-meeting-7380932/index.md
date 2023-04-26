@@ -1,0 +1,169 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7380932
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7380932
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tausch in den Unterausschüssen: Barbara O&#039;Mara wechselt vom UA Mobilität in den UA Klima Sonja Rümelin wechselt vom UA Klima in den UA Mobilität
+- TOP 1.2.: Betreuung des Schaukastens am Schwester-Eubulina-Platz
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 9: Stadtbezirksbudget J.E.W.S. - UA Mobilität, TOP 1.3: Einsatz von TOPO-Boxen als städtische Leistung: Standort Hochstraße - UA Mobilität, TOP 3.15 f: f) Genehmigung Sperrung Balanstr. 17.04. - 28.04.2023 - UA Mobilität, TOP 3.19: Benennung neue Haltestelle Tram 25 "Sternenhaus" - UA Mobilität, TOP 4.6: Michael-Huber-Weg, weiteres Bürgeranliegen
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern vertagt in der Sitzung am 15.03.2023
+- TOP 5.2.: Spartenauskunft - alle Infos aus einer Hand
+- TOP 5.3.: Gegenläufiger Radweg Berg-am-Laim-Straße - Haidenauplatz
+- TOP 5.4.: MVG-Leihradstationen in Au-Haidhausen
+- TOP 5.5.: Au für alle - Barrierefreiheit im Projektgebiet MCUBE AQT I
+- TOP 5.6.: Au für alle - Barrierefreiheit im Projektgebiet MCUBE AQT II
+- TOP 5.7.: Au für alle - Barrierefreiheit im Projektgebiet MCUBE AQT III
+- TOP 5.8.: Zugang zur Villa Stuck barrierefrei ausbauen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren bis 02.05.2023 Fortschreibung für die Jahre 2023 bis 2027
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt April 2023
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Film-Zeitreise durch Haidhausen" Workshop "Zeitreise durch Haidhausen" vom 12.06. - 28.07.2023 4.000,00 Euro, Az.: 0262.0-5-0456
+- TOP II.2.: (E) Stadtbezirksbudget Jasmine Ellis Projects gUG Reality Warping vom 07.05. - 15.07.2023 5.000,00 Euro, Az.: 0262.0-5-0457
+- TOP II.3.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor "A River Happening" von Mai - November 2023 5.000,00 Euro, Az.: 0262.0-5-0458
+- TOP II.4.: (E) Stadtbezirksbudget Isarlust e.V. Die grüne Brücke vom 01.05. - 31.12.2023 10.000,00 € / Az.: 0262.0-5-0461
+- TOP II.5.: (E) Stadtbezirksbudget Initiative „Fujiko Nakaya!“ Happy 90. Fujiko Nakaya! Mit Konzert „Film als Partitur“ am 15.05.2023 1.405,00 € / Az. 0262.0-5-0465
+- TOP II.6.: Nachträgliche Erhöhung des Zuschusses aus dem Budget für die Initiative "Tanztheater" zum Antrag: Tanztheater für jung und alt „Ode an die Dinge“ vom 28.02. - 04.03.2023 um 1.006,70 €
+- TOP II.7.: Gedenkveranstaltung Schülein; Budget für eigene Veranstaltungen in Höhe von 1.500 €
+- TOP II.8.: Gasteig: Zwischennutzung auch für Künstler aus Au-Haidhausen ermöglichen
+- TOP II.9.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Jüdisches Leben in der Au und Haidhausen: Präsentationen vor-Ort mit begehbarer Karte am 29.04., 30.04. und 07.05. 2.100,00 € / Az.: 0262.0-5-0469
+- TOP II.10.: Detailauskunft zu den TOPs 1,2 und 5
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Condrobs e.V. Freizeitmaßnahmen für den Kontaktladen off+ 1.413,00 € / Az.: 0262.0-5-0463
+- TOP 1.2.: Aufstellen einer orangen Bank im 5. Stadtbezirk (Antrag auf Bestellung einer städtischen Leistung)
+- TOP 1.3.: Detailauskunft zu TOP 1
+- TOP 2.: Anhörungen
+- TOP 2.1.: CultureClouds e.V. - Tanz. Die Invasion vom 14.-16.09.2023 auf dem Bordeauxplatz Fristverlängerung bis 27.04.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: AKIM: Bericht erste Jahreshälfte 2023
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Spielplatz-Neugestaltung Johannisplatz
+- TOP 3.4.: Barrierefreiheit und Inklusion auf den Spielplätzen im Stadtbezirk 5
+- TOP 3.5.: Jugendunterstände in Au-Haidhausen
+- TOP 3.6.: Präsentationen / Protokoll der Informationsveranstaltung der Sozialreferentin für die Bezirksausschüsse am 20.03.23
+- TOP 3.7.: Protokoll der Vorstellung des Schulbauprojekts FOS/BOS Orleansstr. 44 am 16.01.2023
+- TOP 3.8.: Geplante Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr. zum Schuljahr 2023/24; Einladung zur Besprechung am 09.05.2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Öffentliche Hundetoiletten; Vorschläge für Hundekottütenspender (Antwort zum Schreiben BA 5)
+- TOP 4.2.: Antrag Kreislaufschrank am Mariahilfplatz
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche für "Mr. Baker&#039;s Coffee House", Steinstr. 12
+- TOP 1.2.: Erweiterung einer bestehenden Freischankfläche um einen Schanigarten für "Miss Lilly&#039;s", Oefelestr. 12
+- TOP 1.3.: (E) Stadtbezirksbudget Freunde Haidhausens - Verein für Haidhausen e.V. Maibaumaufstellung 2023 vom 01.04. - 01.05.2023 5.000,00 € / Az.: 0262.0-5-0462
+- TOP 1.4.: Abhalten eines Flohmarktes am 24.06.2023 auf dem Platz vor dem Alten- und Service-Zentrum Haidhausen in der Wolfgangstr. 18
+- TOP 1.5.: Bürgerinnen und Bürger gestalten ihre Stadt - Gestaltung Mariahilfplatz; Beteiligung des BA in Höhe von 3.125,00 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrag-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 05.12.2022
+- TOP 2.2.: Zellstraßer Strand - Tauffest am 01.07.2023
+- TOP 2.3.: Strandveranstaltung an der Corneliusbrücke (Bastion), vom 01.05. bis 11.09.2023 Anhörungsfrist: 18.04.2023
+- TOP 2.4.: Infomobil „trotz ms DIE ROADSHOW 2023“ am 07.10.2023 am Weißenburger Platz
+- TOP 2.5.: Fahrgastinfo im MVG-Infoanhänger auf dem Orleansplatz im Zeitraum 22.05. bis 24.05.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Keine kommerziellen Veranstaltungen zwischen den Dulten; Antrag Einwohnerversammlung vom 25.04.2022
+- TOP 3.2.: Keine Nutzung des Mariahilfplatzes durch einen Konzertveranstalter Antrag aus der Einwohnerversammlung vom 24.05.2022
+- TOP 3.3.: Parkplatz Mariahilfplatz Antrag aus der Einwohnerversammlung vom 24.05.2022
+- TOP 3.4.: Radabstellmöglichkeiten für die Auer Dult
+- TOP 3.5.: Auer Dult familienfreundlicher machen – Sitzgelegenheiten für Kleinkinder
+- TOP 3.6.: Trattoria Giorgia, Weißenburger Str. 2 – Vergrößerung der Freischankfläche Antwort KVR zum Schreiben BA 5
+- TOP 3.7.: Änderung Termine - Blade-Night 2023 ab 08.05.2023
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rablstr. 21 - Nutzungsänderung der Gewerbeeinheit E1 (Versammlungsraum / Kantine) im EG und UG des Anwesens in 5 Wohneinheiten mit Anpassungen der Fassaden im Bereich des EG und Herstellung interner Verbindungen zwischen EG und UG; Neugestaltung der Außenanlagen; Frist 16.04.2023 (keine Fristverlängerung möglich)
+- TOP 2.2.: Ohlmüllerstr. 26 - 1.Abriß des bestehenden Rückgebäudes (marrode Bausubstanz) 2.Neubau eines Rückgebäudes EG + 1.OG + DG >mit einem Teil als Lagernutzung für Restaurant im EG, >mit Nutzungsänderung eines Teils des EG von Werkstatt zu Wohnung >und Wohnnutzungen im 1.OG und DG ( gesammt eine Wohneinheit wie bisher) - VORBESCHEID
+- TOP 2.3.: Edlingerstr. 20 - Einbau einer Gaube - ÄNDERUNGSANTRAG zu 1.2-2022-4406-21; Frist 17.04.2023 (keine Fristverlängerung möglich)
+- TOP 2.4.: Mariahilfstr. 2 - Erweiterung einer bestehenden Wohneinheit im 3.OG um Flächen im Dachspeicher und Dachspitz sowie Schaffung einer neuen WE im Dachspeicher und Dachspitz, Dachaufstockung und Neuerstellung eines Dachstuhls mit Neubau von Gauben und DFF und hofseitigen Dachverglasungen im MFH Mariahilfstrasse 2, Einbau einer Luftwärmepumpe und Neubau einer dachintegrierten PV Anlage
+- TOP 2.5.: Ohlmüllerstr. 3 - Dachsanierung und Errichtung von Dachgauben für den Einbau von 2 Wohnungen
+- TOP 2.6.: Rosenheimer Str. 5 - Gebäude BI (Bibliothek) des Kulturzentrum Gasteig Nutzungsänderung von begehbaren Dachflächen und Dachterrassen im 4.OG und 5.OG zu Kulturdachgarten mit Gastronomie - befristet auf 4 Jahre
+- TOP 2.7.: Albanistr. 12 - DG-Ausbau mit 2 zusätzlichen Wohnungen und Errichtung von Dachgauben im 1. DG und Dachterrassen im 2. DG im bestehenden Gebäude
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Wegeverbindung Maximiliansbrücke - Praterinsel, BA-Antrag 20-26 / B 01655 Antwort Baureferat zur Frage nach dem Sachstand
+- TOP 3.2.: Protokoll der Vorstellung des Schulbauprojekts FOS/BOS Orleansstr. 44 am 16.01.2023
+- TOP 3.3.: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Planungen zum Anwesen Wolfgangstr. 7
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Tempo 30 auf der Auerfeldstraße Empfehlung Nr. 20-26 / E 00619 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 24.05.2022
+- TOP 1.2.: Gemeinsamer Prüfantrag der BAs 16, 14, 05: Verkehrsprobleme im Unterführungsbereich Rosenheimer Straße: Gefahren eliminieren, Gehweg verbreitern, Busse beschleunigen, Verkehrsfluss optimieren - nochmalige Behandlung erforderlich -
+- TOP 1.3.: Einsatz von TOPO-Boxen als städtische Leistung
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ergebnis des Ortstermins mit der Deutschen Bahn zum Verbindungstunnel im Ostbahnhof am 19.04.2023
+- TOP 3.2.: Bericht vom Ortstermin Weißenburger Platz am 29.03.2023; hier: Zusätzliche Fahrradständer
+- TOP 3.3.: Parkplatzsituation Südliche Au
+- TOP 3.4.: Hochgefährlicher Weg am Giesinger Berg
+- TOP 3.5.: Zukünftige Beschilderung der Fahrradabstellanlagen/Abstellanlagen für Lastenräder
+- TOP 3.6.: Warum wird der Stadtbalkon verparkt ? (Anfrage)
+- TOP 3.7.: Kurzfristige Bereitstellung von Dialogdisplays Antwort Baureferat zu einer Anfrage vom BA 5
+- TOP 3.8.: Verkehrsberuhigter Bereich Lothringer Straße: Optisch und gestalterisch anpassen
+- TOP 3.9.: Verkehrsführung Hochstraße während der Bauarbeiten Antwort Mobilitätsreferat zu einem Bürgeranliegen
+- TOP 3.10.: Prognose des baustellenbedingten LKW-Aufkommens für das Bauvorhaben FOS/BOS Orleansstraße 44 / Protokoll der Vorstellung des Schulbauprojekts am 16.01.2023
+- TOP 3.11.: Radfahrer in den Frühlingsanlagen
+- TOP 3.12.: Radlständer für die Kirchenstraße
+- TOP 3.13.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 3.14.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung Martin-Luther-Straße und Giesinger Berg (Stadtbezirk 5, 17 und 18) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 3.15.: Verkehrsrechtliche Anordnung bzw. Erlaubnis a) Zeitänderung des Haltverbots an der Bücherbushaltestelle Mariahilfplatz 18 b) Einrichtung eines absoluten Haltverbots in der Sammtstraße c) Vollsperre Gravelottestraße vom 15.05.-23.06.2023 wegen Verlegung einer Fernwärmeleitung d) Verlängerung Verkehrsaufsichtliche Erlaubnis, DB Sanierung Brücke Balanstraße vom 02.03.-31.12.2023 e) Hochstraße, Parklizenzgebiet „Regerplatz“; Aufhebung des angeordneten Gehwegparkens, teilweise Änderung der Parkregel f) Genehmigung Sperrung Balanstr. 17.04. - 28.04.2023
+- TOP 3.16.: 8. Fortschreibung des Luftreinhalteplans - Erweiterung der Umweltzone inkl. Dieselfahrverbot; Verkehrsrechtliche Anordnung der Beschilderung
+- TOP 3.17.: Baustelle Wörthstraße bis Regerstraße, Genehmigungen
+- TOP 3.18.: Baustelle Reger-/Welfenstraße, Genehmigungen
+- TOP 3.19.: Benennung neue Haltestelle Tram 25 "Sternenhaus"
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Vorschläge für neue Radstellplätze
+- TOP 4.2.: Fahrradabstellplatz an der U-Bahn Max-Weber-Platz
+- TOP 4.3.: Schaffung von Fahrradabstellplätzen in der Metzstr. / Preysingstr.
+- TOP 4.4.: Wildparker Senftlstraße/Welfenstraße
+- TOP 4.5.: Verkürzung Park- und Autofahrzone in der Straße "Am Lilienberg"
+- TOP 4.6.: Michael-Huber-Weg - Verkehrsüberwachung, Sicherheit, Zuständigkeit -> dazu ein weiteres Bürgeranliegen
+- TOP 4.7.: Parklizenz bei immer weniger Parkplätzen / Betonpoller in der Sedan-/Metzstraße
+- TOP 4.8.: Grillparzerstraße, Tempo 30 zum sicheren Verkehr
+- TOP 4.9.: Planungen Versailler Straße / Vorplatz St. Gabriel
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Eduard-Schmid-Str. 5, Baumfällung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fällgenehmigung Nockherstr. 36-38a
+- TOP 3.2.: Bericht vom Ortstermin Weißenburger Platz am 29.03.2023; hier: Sitzgelegenheiten
+- TOP 3.3.: Mikroklimaökologisches Gutachten Hachinger Tal Teil A: Ergebnisvorstellung Teil B: Bürgerversammlungsempfehlungen und Bezirksausschussanträge
+- TOP 3.4.: Begrünung mit Rankhilfen nach Vorbild Straßburg
+- TOP 3.5.: Schulbauprojekt FOS/BOS Orleansstr. 44 Antwort Referat für Bildung und Sport zum Schreiben BA 5 bezüglich Baumfällungen dazu: Protokoll der Vorstellung des Schulbauprojekts am 16.01.2023
+- TOP 3.6.: Verbot von Lautsprechern jeglicher Art zwischen Cornelius-, Reichenbach-, Wittelsbacherbrücke Empfehlung Nr. 20-26 / E 00617 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen, Stadtbezirksteil Au am 24.05.2022 - endgültige Entscheidung durch den Oberbürgermeister -
+- TOP 3.7.: HotRods - Antrag gegen Lärmbelästigung / Veränderung der Fahrroute
+- TOP 3.8.: Einsatz von Laubbläsern bei der Strassenreinigung
+- TOP 3.9.: Zuverlässigkeit des Wertstoffmobils sicherstellen
+- TOP 3.10.: Grünanlage Flurstraße; Antwort Baureferat zu einem Bürgeranliegen aus der Sprechstunde mit dem Oberbürgermeister vertagt in der Sitzung am 25.01.2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Beschwerde über gewerbliche "Spassfahrten"
+- TOP 4.2.: Anliegen zu Containern / Recycling in Haidhausen
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 15.05.2023, 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 15.05.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Wirtschaft, 16.05.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Klima und Umwelt, 17.05.2023, 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 17.05.2023, 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 16.05. oder 17.05.2023, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. Die Sitzungen finden evtl. als Hybridsitzung statt !
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 24.05.2023, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 08.05.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 3.11.: (E) Verbot von Lautsprechern jeglicher Art zwischen Cornelius-, Reichenbach-, Wittelsbacherbrücke
