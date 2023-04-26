@@ -1,0 +1,93 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-04-26T17:00:00+02:00
+- Ende: 2023-04-26T21:29:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4861
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4861
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Coronaregeln am Standesamt Neukölln - beantwortet
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Wahl zum Bezirksbürgermeister auf Vorschlag der aus den Fraktionen der SPD und Grünen bestehenden Zählgemeinschaft - gewählt
+- TOP 4.2: Wahl zum Bezirksstadtrat und stellvertretenden Bezirksbürgermeister auf Vorschlag der Fraktion der CDU - gewählt
+- TOP 4.3: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der CDU - gegenstandslos
+- TOP 4.4: Überreichung der Ernennungsurkunden und Vereidigung der Mitglieder des Bezirksamtes - erledigt
+- TOP 4.5: Übergabe der Amtsgeschäfte - erledigt
+- TOP 4.6: Unterbrechung zur Konstituierung des Bezirksamtes - erledigt
+- TOP 4.7: Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Verurteilung der antisemitischen und israelfeindlichen Demonstrationen palästinensischer Gruppen vom 10. April 2023 in Neukölln - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Vorzeitige Beendigung von Mandaten als Bezirksverordneter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.4: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.5: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.6: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verlängerung der Veränderungssperre XIV-3-1/35 für das Grundstück Neuköllnische Allee 112, Schmalenbachstraße 7/9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-3-1 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Änderung der Zuordnung der Zugriffsrechte auf die Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Wahl - (offen)
+- TOP 8.1: Wahl einer Bürgerdeputierten in den Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - gewählt
+- TOP 8.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - gewählt
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Ordnung - gewählt
+- TOP 8.4: Wahl eines Bürgerdeputierten in den Sozialausschuss - gewählt
+- TOP 8.5: Wahl eines stellvertretenden Bürgerdeputierten in den Sozialausschuss - gewählt
+- TOP 8.6: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 8.7: Wahl einer Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 8.8: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Wirtschaft und Arbeit - gewählt
+- TOP 8.9: Wahl eines Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Bäume - beantwortet
+- TOP 9.2: 638 Wohnungen auf dem ehemaligen BLUB-Gelände - beantwortet
+- TOP 9.3: Zentralisierung der Staatsbürgerschaftsbehörde - beantwortet
+- TOP 9.4: Kontrollen im Zuge des Böllerverkaufs vor Silvester - beantwortet
+- TOP 9.5: 100 Jahre Jugendamt in Neukölln - beantwortet
+- TOP 9.6: Müllkonzept Parkweg am Neuköllner Schifffahrtskanal - beantwortet
+- TOP 9.7: Nachbarschaftscampus Dammweg - welche Bedeutung hat die sozial-ökologische Bildungsarbeit des Projekts Berlin Mondiale? - beantwortet
+- TOP 9.8: Keine Sonne über Rudow? - beantwortet
+- TOP 9.9: Projekt „Klingelzeit“ der AWO - schriftlich beantwortet
+- TOP 9.10: Ist Neukölln gut vorbereitet für einen friedlichen 1. Mai 2023? - schriftlich beantwortet
+- TOP 10: Mitteilungen - (offen)
+- TOP 10.1: 10 Jahresfeier "Willkommen in Neukölln“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Partizipative Anlaufstelle Schulgebäude - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.3: Schulspielplätze warten und sanieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 11.1: U-Bahnlinie 7 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: Umbau Fahrradstellplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.3: Kein Linksabbiegen in den Mariendorfer Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.4: Kostenfreie Nutzung der City-Toiletten in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung I - zurückgezogen
+- TOP 12.2: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung II - zurückgezogen
+- TOP 12.3: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung III - zurückgezogen
+- TOP 12.4: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung IV - zurückgezogen
+- TOP 12.5: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung V - zurückgezogen
+- TOP 12.6: Abwahl des bestehenden und Bezirksamtes und dessen Neubesetzung VI - in der BVV abgelehnt
+- TOP 13: Beschlussempfehlungen - (offen)
+- TOP 13.1: Internationale Schule mit Sprachschwerpunkt Arabisch - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Erweiterung Ganztagsgebäude Karl-Weise-Grundschule - in der BVV abgelehnt
+- TOP 13.3: Neubau Hortgebäude Karlsgarten-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Grünflächen und sozialen Wohnungsbau sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Organisation der Britzer Baumblüte - beantwortet
+- TOP 15: Große Anfragen - schriftlich - erledigt
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Fahrbahnmarkierung Lupinenweg Kornblumenring - überwiesen
+- TOP 16.2: Sitzgelegenheiten in BVG-Warteanlage am U-Bhf Rudow - überwiesen
+- TOP 16.3: Bezirksverordnetenversammlung fit machen für das 21. Jahrhundert: Archivierung der Sitzungen der BVV auf YouTube - überwiesen
+- TOP 16.4: Kabinenneubau TSV Rudow - überwiesen
+- TOP 16.5: Mehr Abfallbehälter an der Fulhamer Allee - überwiesen
+- TOP 16.6: Aufwertung des Platzes rund um den Goldenen Esel - überwiesen
+- TOP 16.7: Schulwegsicherheit Hermann-Nohl-Schule - überwiesen
+- TOP 16.8: Gustav Noske: Retter der jungen Weimarer Republik. Gedenken zum 155. Geburtstag am 9. Juli 2023 - überwiesen
