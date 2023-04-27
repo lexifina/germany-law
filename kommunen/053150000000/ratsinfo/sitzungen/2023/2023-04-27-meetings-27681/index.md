@@ -1,0 +1,75 @@
+# 19. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-04-27T16:00:00+02:00
+- Ende: 2023-04-27T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27681
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27681
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Umsetzung Stadtentwicklungskonzept Wohnen - geändert beschlossen
+- TOP 3.2: Straßenbaumkonzept Innenstadt 2. Stufe für 'Wasser muss zum Baum' - ungeändert beschlossen
+- TOP 3.3: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - ungeändert beschlossen
+- TOP 3.4: Beschluss über die Einleitung betreffend die Änderung (Teilaufhebung) des Bebauungsplans Nr. 68459/02 Arbeitstitel: ICE-Terminal in Köln-Deutz, 3. Änderung u. Aufhebung eines Aufstellungs- und eines Einleitungsbeschlusses am Standort (Ottoplatz-Ost) - ungeändert beschlossen
+- TOP 3.5: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - zurückgestellt
+- TOP 3.6: Errichtung des Bildungsgangs "Fachoberschule Klasse 11 und 12 - Fahrzeugtechnik (Elektromobilität)" Fachrichtung Technik im Schwerpunkt Metalltechnik am NAOB (BK 18) zum Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 3.7: Schulrechtliche Änderung des Bildungsgangs "Fachschule für Technik - Fachrichtung Fahrzeugtechnik" durch die Schwerpunkt Elektromobilität des Nicolaus-August-Otto-Berufskollegs (BK 18) zum Schuljahr 2023/24 in die Tagesform - ungeändert beschlossen
+- TOP 3.8: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.9: Anregung der Bezirksvertretung Innenstadt zur künftigen Nutzung und Bebauung des ehemaligen Areals der Oberfinanzdirektion Köln, Riehler Platz 2 sowie der ehemaligen Generalzolldirektion, Wörthstr. 1-3, 50668 Köln - Alternative beschlossen
+- TOP 3.10: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2023 Teil 1 - ungeändert beschlossen
+- TOP 3.11: Finanzierung der Umsetzung eines Kunst- und Kulturprogramms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Fahrradrampe Severinsbrücke (Az.: 02-1600-122-22) - geändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO NRW bezüglich der Öffnung eines Weges über die Messedächer für die Öffentlichkeit (Az 205/22 B) - geändert beschlossen
+- TOP 4.3: Bürgereingabe nach § 24 GO - Fußgängerzone Eigelstein - geändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Parken in Deutz (Az.: 02-1600-31-22) - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Flusswärmepumpe für den Deutzer Hafen (202/2022 B) - geändert beschlossen
+- TOP 4.6: Bürgereingabe Förderverein Historischer Park Deutz - Az. 215/22 B - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.1.2: Verbesserung der Situation für Anwohnende, Handel und Gewerbe im Eigelsteinviertel, Antrag CDU - endgültig abgelehnt
+- TOP 5.1.3: Einrichtung eines Zebrastreifens in Regenbogen-Farben, Antrag FDP - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Fahrradparken, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke und Die Partei - ungeändert beschlossen
+- TOP 5.2.2: Waffenverbotszone Ebertplatz, Antrag CDU - endgültig abgelehnt
+- TOP 5.2.3: Spaziergänge zum Meinungsaustausch auf der Deutzer Freiheit - Informationen über den aktuellen Stand des Projektes und offener Meinungsaustausch, gem Antrag B90/Die Grünen, Die Linke und Die Partei - geändert beschlossen
+- TOP 5.2.4: Maßnahmen Chlodwigplatz, Gem. Antrag B90/Die Grünen, SPD, Die Linke und Die Partei - geändert beschlossen
+- TOP 5.2.5: Sondernutzungserlaubnis für das Aufstellung des Mahnmals "Dieser Schmerz betrifft uns alle", gem. Antrag B90/Die Grünen, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.6: Errichtung eines Brennpunkt-WC am Neumarkt/ Umfeld Apostelnkirche, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Regeln für Gehwegbreiten, gem. Anfrage Die Linke und KlimaFreund - zurückgestellt
+- TOP 6.1.2.1: Beantwortung - Regeln für Gehwegbreiten - zurückgestellt
+- TOP 6.1.3: Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins, Anfrage Grüne - zurückgestellt
+- TOP 6.1.4: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.5: Baumaßnahme Venloer Wall, Anfrage Die Linke
+- TOP 6.1.5.1: Beantwortung - Baumaßnahme Venloer Wall - zur Anfrage der Fraktion DieLinke, AN/0293/2023
+- TOP 6.1.6: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel, Anfrage Grüne - zurückgestellt
+- TOP 6.2.2: Anfrage Verkehrsmaßnahmen Belgisches Viertel, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2.3: Neue Stadtmöbel auf der Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel
+- TOP 9.2: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe
+- TOP 9.3: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022
+- TOP 9.4: Baumaßnahme Umgestaltung der nördlichen Domumgebung Verlegung des Baubeginns nach die EM 2024
+- TOP 9.5: Sachstandsbericht zum Änderungsantrag AN/2693/2021 und Beantwortung der Anfrage des Finanzausschusses aus der Sitzung vom 13.06.2022 zur Vorlage 1844/2022
+- TOP 9.6: Welcome-Point Cologne (WPC) am Breslauer Platz / Hauptbahnhof
+- TOP 9.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Treppenabgang vom Roncalliplatz zur Hafenstraße/Durchgang zum Kurt-Hackenberg-Platz
+- TOP 9.8: Sachstandsbericht
+- TOP 9.9: Temporäre Reduzierung im Busangebot der KVB
+- TOP 9.10: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“
+- TOP 9.11: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“
