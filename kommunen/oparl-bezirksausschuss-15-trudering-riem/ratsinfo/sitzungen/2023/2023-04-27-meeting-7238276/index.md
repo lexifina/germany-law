@@ -1,0 +1,200 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-04-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238276
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238276
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwurf der Sitzung vom 23.03.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 1.3.1.: (N) Friedenspromenade: a) Sanierung der Querungen des 2-Richtungs-Fuß-Radwegs zwischen Truderinger Gymnasium und Florastraße b) Verbesserung der Markierung der Fahrradstraße zwischen Am Hochacker und Truderinger Gymnasium
+- TOP 1.3.2.: (N) Willy-Brandt-Platz: Umgestaltungswünsche unter dem Aspekt der Sicherheit
+- TOP 1.3.3.: (N) Anfrage zum Bauvorhaben in der Truderinger Str. 225
+- TOP 1.3.4.: (N) Verkehrsgutachten Münchner Nordosten (SEM): Vorstellung und Diskussion
+- TOP 1.3.5.: (N) Bericht zum Infotermin Radentscheidsmaßnahme Truderinger Straße
+- TOP 1.3.6.: (N) Ergebnisse des Workshops „Erarbeitung von Kernforderungen für den Planungsabschnitt der betroffenen Kommunen entlang des Brennernordzulaufs zwischen Grafing und Trudering“
+- TOP 1.3.7.: (N) Bericht zum MVG-Infotermin zu den Vorplanungen für die Trassierung der Tram- Verlängerung Berg am Laim-Daglfing
+- TOP 1.3.8.: (N) Daglfinger und Truderinger Kurve (DTK): Material zur virtuellen Informationsveranstaltung zum Hüllgraben
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: Einführung einer Bezuschussungsobergrenze aus dem Stadtbezirksbudget für a) einmalige Veranstaltungen in Höhe von 2.000,00 € b) Anschaffungen und langfristigere Veranstaltungen in Höhe von 5.000,00 €
+- TOP 2.1.2.: (E) Stadtbezirksbudget TSV Trudering e.V. Stabhochsprunganlage 14.624,26 € / Az.: 0262.0-15-0464
+- TOP 2.1.3.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-West Anschaffung eines Ortungsgerätes "Aquaeye" 7.200,00 Euro, Az.: 0262.0-15-0469
+- TOP 2.1.4.: (E) Stadtbezirksbudget vox nova e.V. Über Wasser vom 06.05. - 18.06.2023 1.000,00 € / Az.: 0262.0-15-0471
+- TOP 2.1.5.: (E) Stadtbezirksbudget TSV Maccabi München e.V. Sportfest am 01.05.2023 4.030,00 € / Az.: 0262.0-15-0474
+- TOP 2.1.6.: (E) Stadtbezirksbudget Waldkindergarten Trudering e.V. 3 Tagesfahrt Bauernhof vom 10. - 12.05.2023 1.493,00 € / Az.: 0262.0-15-0475
+- TOP 2.1.7.: (E) Stadtbezirksbudget Initiative "Fassadengestaltung" Fassadengestaltung des ehemaligen Truderinger Rathaus vom 24.03. - 24.04.2023 3.970,00 € / Az.: 0262.0-15-0473
+- TOP 2.1.8.: (E) Stadtbezirksbudget FC Dreistern Neutrudering e.V. Anschaffung von Fußbällen 2.143,90 € / Az. 0262.0-15-0472
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) + (U) Bessere Kenntlichmachung der St.-Augustinus-Str. als Tempo 30 Empfehlung Nr. 20-26 / E 00954 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.1.1.: Kultivierung des Truderinger Wappens
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Freilegung des Hachinger Bachs
+- TOP 3.2.2.: (N) Friedenspromenade: a) Sanierung der Querungen des 2-Richtungs-Fuß-Radwegs zwischen Truderinger Gymnasium und Florastraße b) Verbesserung der Markierung der Fahrradstraße zwischen Am Hochacker und Truderinger Gymnasium
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Truderinger Ortskern: Ungepflegte Bepflanzung rund um die Bäume sowie Bitte um Unterstützung für die Aufstellung von Pflanztrögen
+- TOP 3.3.2.: Truderinger Ortskern: Hohe Bordsteinkante an der Kreuzung Schmuckerweg / Hafelhofweg
+- TOP 3.3.3.: (N) Willy-Brandt-Platz: Umgestaltungswünsche unter dem Aspekt der Sicherheit
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: Nachverdichtung auf dem Grundstück Truchthari-Anger 12 durch erfolgte Realteilung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Messestadt Riem: Einrichtung eines Fitnessstudios
+- TOP 3.5.2.: SC Arcadia: Beteiligung am neuen Sportcampus in der Messestadt
+- TOP 3.5.3.: Suche nach Räumlichkeiten für den Snookerclub 147 e. V.
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Einkehrmöglichkeit Riemer Park, Seekiosk stets geschlossen
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.3.1.: Ein Platz der Menschenrechte für alle - Aufenthaltsqualität durch Sanierung und Neugestaltung erhöhen
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Kindermuseum in die Messestadt
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Sozial – Mit Sicherheit: Antragspaket für Prävention und Bekämpfung von Jugendkriminalität
+- TOP 4.7.2.: (N) Umgehungsstraße Kirchtrudering jetzt provisorisch herstellen
+- TOP 4.7.3.: Vergabe der Sportanlage am Schulcampus Messestadt Riem
+- TOP 4.7.4.: Tiny Forests auch in München und Trudering-Riem
+- TOP 4.7.5.: Olympia Reitanlage mit Reiterstaffel unter Denkmalschutz stellen
+- TOP 4.7.6.: Abstellmöglichkeiten für E-Roller
+- TOP 4.7.7.: Ökologisch und nachhaltig bauen in Neubaugebieten des Stadtbezirks 15
+- TOP 4.7.8.: (N) Anfrage zum Bauvorhaben in der Truderinger Str. 225
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Truderinger Wald: Aufstellung von Orientierungsschildern
+- TOP 5.2.2.: Ortstermin und Prüfantrag zur barrierefreien Fuß-Radweg-Unterführung am Lehrer-Götz-Weg
+- TOP 5.2.3.: Truderinger Straße: Weiterführung des Radweges nach Berg am Laim
+- TOP 5.2.4.: Am Mitterfeld: Erhöhung der Verkehrssicherheit zwischen Kirchtruderinger Straße und Truchthari-Anger
+- TOP 5.2.5.: Schmuckerweg: Aufstellung einer TOPO-Box
+- TOP 5.2.6.: Schneller Radweg München Ost – Haar – Ebersberg: Planung und Umsetzung im Abschnitt Rappenweg und Gronsdorf beschleunigen
+- TOP 5.2.7.: Sanierung Grünzug Bürgermeister-Keller-Straße Fortsetzung/Finalisierung der Planungen für den barrierefreien Ausbau der Unterführung Lehrer-Götz-Weg
+- TOP 5.2.8.: S-Bahn-Ausbau: Was wird das verlängerte Wendegleis in Haar für die Fahrgäste bringen?
+- TOP 5.2.9.: BA-Antrag „Seit 20 Jahren ein Geheimnis: Betriebserfahrungen einer modifizierten Fahrtreppe am Bahnhof Trudering offenlegen“ BA-Antrags-Nr. 20 - 26 / B 03141 - Rückmeldung der MVG -
+- TOP 5.2.10.: Buswartehäuschen 2.0 Turnerstraße
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Erhalt des dritten Briefkastenstandortes in den Wohngebieten der Messestadt
+- TOP 5.3.2.: Arrondierung Kirchtrudering: Gründe für die Aufhebung der Trasse 3 Bürgerversammlungsanfrage Nr. 20-26 / Q 00209
+- TOP 5.3.3.: Antwortschreiben zum Ortskern Trudering: a) Vorschläge des Gewerbe- und Eigentümerverbands Trudering e.V. b) Einrichtung eines Parkplatzes vor Haus-Nr. 296
+- TOP 5.3.4.: Arrondierung Kirchtrudering – Höhe der privaten und öffentlichen Grünflächen BV-Anfrage 20-26 / Q 00215
+- TOP 5.3.5.: PG Heltauer Str.: Negative Auswirkungen auf Trudering
+- TOP 5.3.6.: Statt Kunden enttäuschen: Münzgeldausgabe bei der SSKM-Filiale Waldtrudering konkret anbieten
+- TOP 5.3.7.: Damit die Sanierung des Ortskerns nicht unvollendet bleibt: Mehr Klarheit und Tempo bei der Entwicklung der städtischen (Filet-) Grundstücke am Bhf. Trudering und beim Truderinger Rathaus
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Fitnessstudio für Kinder
+- TOP 5.5.2.: Errichtung eines Fangzauns auf dem neu geschaffenen Streetballplatz für Jugendliche in der Messestadt
+- TOP 5.5.3.: Inklusion auf Kinderspielplätzen
+- TOP 5.5.4.: Sportförderung von Frauen und Mädchen
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Riemer See: Vereinfachter Zugang zum Wasser
+- TOP 5.6.2.: Erweiterung der Geothermieanlage in der Messestadt zur Versorgung neuer großer Baugebiete im Nahbereich der heutigen Geothermieanlage.
+- TOP 5.6.3.: Erfolgreich Wärmewende gestalten! - Warum so zögerlich bei der Geothermie-Nutzung?
+- TOP 5.6.4.: Fernwärmeversorgung für Trudering-Riem ausbauen
+- TOP 5.6.5.: Klimaschutz durch verstärkten Baumschutz in der Bayerischen Bauordnung BayBO und im Baugesetzbuch (BauGB)
+- TOP 5.6.6.: Festtagsbeleuchtung des Freigeländes der Münchner Messe
+- TOP 5.6.7.: Arrondierung Kirchtrudering / Heltauer Straße: Anschluss der angrenzenden Straßenzüge an das Fernwärmenetz
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung auf stadteigenem Grund: Festival des Circus Sorento an der Stolzhofstraße 25 vom 15.05.2023 - 28.05.2023
+- TOP 7.1.2.: Änderung der BA-Satzung: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrag Nr. 20-26 / B 04816 des Bezirksausschusses 06 Sendling vom 05.12.2022
+- TOP 7.1.3.: Mehrjahresinvestitionsprogramm: Anhörungsverfahren Fortschreibung für die Jahre 2023 bis 2027
+- TOP 7.1.4.: Veranstaltung in städtischen Grünanlagen: div. Spielbus-Veranstaltungen des Quax im Riemer Park am 07.05.2023 und 28./29.09.2023
+- TOP 7.1.5.: Veranstaltung in div. städtischen Grünanlagen: Wander-Picknick am 26.05.2023 in a) Grünanlage Friedenspromenade, zw. Ottilien- und Markgrafenstraße b) Friedrich-Creuzer-Straße / Scharfenbergerstr. 2 c) Oskar-Maria-Graf-Ring, südl. Wegeverbindung Truderinger Wald d) Im Gefilde
+- TOP 7.1.6.: Veranstaltung in städtischen Grünanlagen: Vaudeville- das Zirkus- und Varietefestival im Kopfbau (Werner-Eckert-Str.1) vom 12.05. bis 21.05.2023 (Auf- und Abbau: 08.05. bis 24.05.23)
+- TOP 7.1.7.: Veranstaltung im Freien und in einer städt. Grünanlage; Hier: Truderinger Festplatz, 4000 Personen gleichzeitig, „14. Truderinger Sonnenwendfeuer“ am 24.06.2023 (Ersatztermin: 25.06.2023)
+- TOP 7.1.8.: Veranstaltung in städtischen Grünanlagen; hier: Taufgottesdienst der Sophienkirche im Riemer Park am See am 22.07.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Anpassungen zu den Mobilitätspunkten im Stadtbezirk 15
+- TOP 7.2.2.: MVG-Leistungsprogramm 2024; Anhörung der MVG
+- TOP 7.2.3.: Schmuckerweg: Anbringung einer Gefahrenbeschilderung „Radverkehr“ (Zeichen 138 StVO)
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Schneebergstr. 12 - Neubau eines Dreispänners mit versenkbaren Parker und eines Einfamilienhauses mit Carport
+- TOP 7.4.2.: Phantasiestr. 2 - Neubau von einem Mehrstöckigen Gebäude mit Läden, Büros und Wohnungen mit Tiefgarage
+- TOP 7.4.3.: Feldbergstr. 46 - Neubau von sechs Reihenhäusern mit Duplex-Garage (6 Stpl.)
+- TOP 7.4.4.: Truderinger Str. 225 - ÄNDERUNGSANTRAG zu 1.1-2022-18704-32 - Neubau einer Ausstellungshalle mit Nutzung als Wettbüro befristet auf 5 Jahre
+- TOP 7.4.5.: Schatzbogen 29 - Neubau einer gewerblichen Einrichtung mit Tiefgarage in zwei Varianten - VORBESCHEID
+- TOP 7.4.6.: Dachsteinstr. 20 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.7.: Friedenspromenade 114 - Errichtung einer Freischankfläche mit 80,00 m² / 50 Sitzplätze
+- TOP 7.4.8.: Bürgermeister-Keller-Str. 13 - Neubau von 4 Reihenhäusern mit 2 Doppelgaragen
+- TOP 7.4.9.: Leonhardiweg 5 - Wohnhaus mit Erd- und Dachgeschoß, Größe 8,50 x 12 m - VORBESCHEID -
+- TOP 7.4.10.: Hochkönigstr. 4 - Neubau von einem Mehrfamilienhaus und einem Doppelhaus mit Tiefgarage
+- TOP 7.4.11.: Graf-zu-Castell-Str. - Teatro - Anlage zur Durchführung eines Kulturprogramms in Form einer Dinner-Variete-Show-Veranstaltung für 393 Personen / Zeltbau in Verbindung mit Containern und umlaufendem Trussing - befristet für die Spielsaison 2023/2024 und 2024/2025 (Graf-zu-Castell-Str. / Joseph-Wild-Str. / Olof-Palme-Str.)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Gutachterliche Überprüfung der Geothermiepreise: Anhörung zum Beschlussentwurf des Referats für Arbeit und Wirtschaft
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Max-Beckmann-Str. 10
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Adlerstr. 22c Barbenweg 12 Batschkastr. 19 (nachgereichte Pläne) Dachsteinstr. 20 Eigerstr. 18 Eigerstr. 39 Feldbergstr. 46 Gerstäckerstr. 77a Großfriedrichsburger Str. 7 Himalajastr. 40 Hippelstr. 16 Hippelstr. 16a Hochkönigstr. 4 Iltisstr. 57 Königsseestr. 17 (Haus 1) Königsseestr. 17 (Haus 2) Kranichweg 28 Mönchbergstr. 8 Rothuberweg 17 Schneebergstr. 12 Solalindenstr. 71d Toni-Schmid-Str. 28a Tsingtauer Str. 7
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Veranstaltung in städtischen Grünanlagen: div. Spielbus-Veranstaltungen des Quax im Riemer Park vom 04.04.203 bis 18.08.2023 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.3.: Veranstaltung in div. städtischen Grünanlagen: Fit im Park der LHM ab 01.05.2023 bis 30.09.2023 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.4.: Veranstaltung im Freien in einer Grünanlage: „Truderinger Festwoche“ am Truderinger Festplatz im Zeitraum vom 12. – 21.05.2023 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.5.: Neubau eines Bürogebäudes am Truderinger Bahnhof mit Sozialbürgerhaus, Freiwilliger Feuerwehr, MVHS, Stadtteilbibliothek und Alten- und Service-Zentrum: Vorplanungsauftrag Bau des geplanten Sozialbürgerhauses am Truderinger Bahnhof und weitere Nutzung des Gebäudes Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Protokoll des Ortstermins zur Aufstellung von zwei Bänken des Zonta Clubs „Keine Gewalt gegen Frauen“
+- TOP 9.2.2.: Konten- und Verwaltungskostenaufstellung 2022; Auszahlung der Verwaltungskostenpauschale 2023 in Höhe von EUR 4.116,-
+- TOP 9.2.3.: Gemeinsam und rücksichtsvoll unterwegs im neuen Truderinger Ortskern - Flyer
+- TOP 9.2.4.: Straßenfest Ortskern Trudering am 6. Mai 2023 - Infostand
+- TOP 9.2.5.: (N) Verkehrsgutachten Münchner Nordosten (SEM): Vorstellung und Diskussion
+- TOP 9.2.6.: (N) Bericht zum Infotermin Radentscheidsmaßnahme Truderinger Straße
+- TOP 9.2.7.: (N) Ergebnisse des Workshops „Erarbeitung von Kernforderungen für den Planungsabschnitt der betroffenen Kommunen entlang des Brennernordzulaufs zwischen Grafing und Trudering“
+- TOP 9.2.8.: (N) Bericht zum MVG-Infotermin zu den Vorplanungen für die Trassierung der Tram- Verlängerung Berg am Laim-Daglfing
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Verwendungsnachweise des Stadtbezirksbudgets
+- TOP 10.1.3.: Olympia Reitanlagen Riem: Übersicht der (Groß-)Veranstaltungen im Jahr 2023
+- TOP 10.1.4.: Protokoll der Veranstaltung zum Öffentlichkeitsbeteiligungskonzept der LHM für Bezirksausschüsse und Stadtratsfraktionen
+- TOP 10.1.5.: Stadtbezirksbudgetabrechnung 2022
+- TOP 10.1.6.: Feuerwerksanzeige am 06.05.2023 in der Graf-Lehndorff-Str. 36 (Golfanlage innerhalb der Galopprennbahn Riem), Isle of Summer Festival 2023
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 10.2.2.: Messestadt West: Entfernte Beschilderung als Fußgängerzone
+- TOP 10.2.3.: Zukünftige Beschilderung der Fahrradabstellanlagen / Abstellanlagen für Lastenräder
+- TOP 10.2.4.: Parken in der Erika-Cremer-Straße; Rückmeldung des Mobilitätsreferats auf ein Anliegen aus der Bürgerschaft
+- TOP 10.2.5.: (N) Daglfinger und Truderinger Kurve (DTK): Material zur virtuellen Informationsveranstaltung zum Hüllgraben
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Am Moosfeld: Wahl des künftigen Standortes des BRK
+- TOP 10.3.2.: Aktueller Sachstand sowie erste Projektinfo der Ostallianz
+- TOP 10.3.3.: Sanierung Platz der Menschenrechte; Rückmeldung des Baureferats
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Linnenbrüggerstraße 25 b) Marmolatastraße 2 c) Graf-Lehndorff-Straße 28 d) Schwedensteinstraße 9 e) Dualastr. 14b - 16
+- TOP 10.4.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Rothuberweg b) Teucherstraße c) Zehntfeldstraße d) Solalindenstraße e) Am Eulenhorst 89 f) Dualastr. 16 g) Dualastr. 14b
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Containerunterkünfte zur Unterbringung Geflüchteter aus der Ukraine Planung und Neueröffnung an den Standorten • Frobenstraße • Glücksburger Straße • Gundermannstraße West • Max-Lebsche-Platz • Mirabellenweg • Neuherbergstraße 24 • Schatzbogen 29 • Stummerstraße/Servetstraße Verlängerung bestehender Unterkünfte für Geflüchtete an den Standorten • Aschauer Straße 34 • Centa-Hafenbrädl-Straße 50 • Meindlstraße 14a Planungsänderung am Standort Bodersenstraße 34 Dependance des Alten- und Service-Zentrums (ASZ) Kleinhadern-Blumenau am Max-Lebsche-Platz 6. Stadtbezirk – Sendling 11. Stadtbezirk – Milbertshofen-Am Hart 13. Stadtbezirk – Bogenhausen 15. Stadtbezirk – Trudering-Riem 16. Stadtbezirk – Ramersdorf-Perlach 20. Stadtbezirk – Hadern 22. Stadtbezirk – Aubing-Lochhausen-Langwied 23. Stadtbezirk – Allach-Untermenzing 24. Stadtbezirk – Feldmoching-Hasenbergl
+- TOP 10.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5.3.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 10.5.4.: Spielplatz westlich der Stolzhofstraße - Zeitschiene; Antwort des Baureferats auf ein Anliegen aus der Bürgerschaft
+- TOP 10.6: UA Umwelt
+- TOP 10.6.2.: Beteiligung des Riemer Parks am bayerischen Streuobstpakt BV-Empfehlung Nr. 20-26 / E 00964
+- TOP 10.6.3.: AKIM-Bericht: Jahresrückblick 2022
+- TOP 10.6.4.: Waldtruderinger Forst: Aufstellung von Waldinfotafeln durch die Städtische Forstverwaltung München
+- TOP 10.6.1.: (E) Beteiligung des Riemer Parks am bayerischen Streuobstpakt
