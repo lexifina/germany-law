@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-04-28T16:00:00+02:00
+- Ende: 2023-04-28T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6405
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6405
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 28.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00184083.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 28.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00184083.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 28.04.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00184083.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 5: Änderung der Hauptsatzung § 13 Abs. 1 Aufwandsentschädigungen - mehrheitlich zugestimmt
+- TOP 6: Anpassung der Marktentgeltordnung - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 7: Ruhrstraße, Bushaltestellen "Nettestraße" und "Isarstraße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 8: Am Goldberg, Bushaltestellenpaare Emsstraße und Lahnstraße: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP 9: Südstraße, Bushaltestellenpaar Südstraße: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 10: Bebauungsplan Nr. 505 – Hammfeld, Radschnellweg – - einstimmig zugestimmt
+- TOP 11: Bebauungsplan Nr. 511 - Weissenberg, Vogelsangstraße - - Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 12: Überarbeiteter verkehrstechnischer Entwurf zum Umbau der Further Straße sowie zur Schaffung einer Gehwegverbindung entlang der Wolberostraße im Zuge der Quartiersentwicklung für das ehemalige Bauer&Schaurte Gelände - einstimmig zugestimmt
+- TOP 13: Verkehrsberuhigende Maßnahmen in den Ortseingängen Dirkes sowie die Anpassung der Ortsdurchfahrt (OD) - einstimmig zugestimmt
+- TOP 14: Projekt RheinTakt aus Düsseldorf - einstimmig zugestimmt
+- TOP 15: Grundsatzbeschluss zur Ertüchtigung von Bahnübergängen zur fußläufigen Erschließung des Kerngeländes der Landesgartenschau 2026 sowie für den Radschnellweg - einstimmig zugestimmt
+- TOP -: Inklusionsbeirat
+- TOP 16: Umbesetzung eines beratenden Mitgliedes des Inklusionsbeirats im Ausschuss für Anregungen, Beschwerden und Bürgerbeteiligung und im Ausschuss für Umwelt, Grünflächen und Klimaschutz - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 17: Änderung der Sondernutzungssatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP 18: Änderung der Gebührenordnung der Musikschule der Stadt Neuss zum 1.10.2023 - mehrheitlich zugestimmt
+- TOP 19: Änderung der Satzung der Stadt Neuss über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an den Angeboten der offenen Ganztagsgrundschulen - mehrheitlich zugestimmt
+- TOP 20: Genehmigung der Dringlichkeitsentscheidung Nummer 90: Förderung nachhaltiger Mobilität der Stadtverwaltung und des Konzerns Stadt Neuss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 21: Antrag der Fraktionen FRaktion JETZT! und UWG/Freie Wähler - Aktiv für Neuss betr.: Vorzeitige Beendigung der Maßnahme "Kostenloses Straßenbahnfahren in der Neusser Innenstadt"
+- TOP 22: Antrag der Fraktion Die PARTEI / DIE LINKE betr.: Roller Rollback 2023 - verwiesen
+- TOP 23: Antrag der Fraktion Die PARTEI / DIE LINKE betr.: Ausgaben für den Neusser Bürger Schützenverein - mehrheitlich abgelehnt
+- TOP 24: Antrag der Fraktion Linke / Tierschutz betr.: Parkausweise für soziale Dienste - verwiesen
+- TOP 24.1: Dringlichkeitsantrag der Fraktion Linke / Tierschutz betr.: Melodys Kinderparadies - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 26: Auswirkungen des Tarifabschlusses Öffentlicher Dienst für die Verwaltung - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
