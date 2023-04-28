@@ -1,0 +1,85 @@
+# 1. Sitzung Vorlagen zur Kenntnisnahme
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-04-28T15:00:00+02:00
+- Ende: 2023-04-28T15:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5281
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5281
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme des Bezirksamtes - (offen)
+- TOP 1.1: Verbesserung der Arbeitsbedingungen des bezirklichen Koordinators für die Willkommensklassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.2: Gemeinbedarfsfläche Hauptstraße 8 prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.3: Unisex-Toiletten an Lichtenberger Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.4: Trinkwasserspender mit Leitungswasseranschluss in öffentlichen Gebäuden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.5: Tag der Umweltbildung an Lichtenberger Schulen einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.6: Alternative Standorte für Drehscheibenschule im Fennpfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.7: Schulgipfel für die Schulplanungsregion 3 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8: Benennung des Bahnhofsvorplatzes (Bahnhof Lichtenberg) in Eugeniu-Botnari-Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.9: Schulgipfel für die Schulplanungsregion 1 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.10: Schulgipfel für die Schulplanungsregion 4 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.11: Schulgipfel für die Schulplanungsregion 2 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.12: Wunschbaum auch in Lichtenberg! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.13: Lichtenberger Schulen an das Glasfasernetz anschließen - vertagt
+- TOP 1.14: DigitalPakt Schule in Lichtenberg konsequent umsetzen und beschleunigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.15: Sportfläche Hauptstraße 8 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.16: Schulbau und Sportflächen an der Hauptstraße 8 und 9 ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.17: Freier Zugang zu Menstruationsartikeln in Lichtenberg - überwiesen
+- TOP 1.18: Hundesport in Lichtenberg halten! - überwiesen
+- TOP 1.19: E-Mobilität fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.20: Abriss und Neubau der Sporthalle in der Atzpodienstraße 19 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.21: Eine Sport- und Spielfläche für die Rummelsburger Bucht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.22: Schulgipfel für Obersee-Schule und benachbarte Schulen veranstalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.23: Berufung eines Klimabeirates und eines verwaltungsinternen Klimateams - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.24: Fernbushaltestelle für Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.25: Berliner Fußballclub Dynamo im Sportforum eine Perspektive geben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.26: Freizeitsportfläche für die Rummelsburger Bucht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.27: Freizeit- und Sportflächen an der Hauptstraße 8 und 9 herstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.28: Einrichtung von Hundefreilaufplätzen im Mauritius Kiez - überwiesen
+- TOP 1.29: Lokale Gastronomie unterstützen, Kiezleben fördern - Schankvorgärten in Lichtenberg einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.30: BVV Sondermittel für das Förderprogramm: MailArt-Kunstkalender 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.31: BVV Sondermittel für das Sportfest in der KiTa Pinocchio - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.32: BVV Sondermittel zur Förderung des Projekts Stadtlichter.FILMgoesMUSIC - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.33: Zisternen für Straßenbäume - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.34: Wie weiter mit dem Verwaltungsgebäude des Gesundheitsamtes? - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.35: Haltestelle am Tierpark vor Vandalismus schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.36: BVV Sondermittel für die Seniorenweihnachtsfeier 2022 des Kleingartenvereins Biesenhorst II e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.37: Schnellbauschwimmhalle für Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.38: BVV Sondermittel für das 2. Queere Sommerfest in Lichtenberg 2022 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.39: BVV Sondermittel für das 12. Apfelfest für Kinder mit Behinderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.40: Einsatz für bedarfsgerechte Finanzierung der Schulsanierungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.41: Einwohnerantrag: Platz für Menschen statt Durchgangsverkehr - überwiesen
+- TOP 1.42: Vogeltränken in Berlin-Lichtenberg - überwiesen
+- TOP 1.43: Öffentlicher Fitnessplatz und Sportgeräte - Wieder sportlich aktiv in der Küstriner Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.44: Keine Einschränkungen der Buslinie 296 durch Ferienfahrpläne - überwiesen
+- TOP 1.45: Koordinierungsstelle für Natur- und Umweltbildung Lichtenberg noch stärker unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.46: BVV Sondermittel für den Elterntreff mit Stadtteilmüttern in der Schule am Ostseekarree - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.47: Energiekostenhilfe für Sportvereine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.48: Qualifikationsanerkennung unbürokratisch gestalten: Geflüchtete Lehrkräfte und pädagogische Fachkräfte in die Kindertagesbetreuung und das Bildungssystem schneller integrieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.49: Nicht radlos werden – Mehr Prävention gegen Fahrraddiebstahl am S+U Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.50: Sicherheitsstreifen/Waldbrandschneise Biesenhorster Sand - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.51: Die Lichtenberger Schulen in der Not nicht alleine lassen - regelmäßige und qualitativ gute Reinigung sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.52: Rollsportarten in der Sportentwicklungsplanung berücksichtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.53: Ordnung und Sauberkeit an der Wallenstein- und Tannhäuser Straße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.54: Schnellerer Bau von Schulen in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.55: Sichere Querung der Ilsestraße in Höhe Rienzistraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.56: Sichere Schulwege - Verkehrskontrollen vor Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.57: Bebauungsplan 11-158 - Behördenbeteiligung; Arbeitstitel: Zwieseler Straße/Nord - überwiesen
+- TOP 1.58: Zielematrix des Lichtenberger Gesundheitsbeirates – Gesundheitsziele (Bezug: DS/0301/VIII) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.59: Sozial verantwortliche Beschaffung im Bezirksamt Lichtenberg stärken und Anwendung des Leitfadens zum nachhaltigen Einkauf in Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.60: Vergabe eines Frauen*preises des Bezirksamtes Lichtenberg anlässlich des Internationalen Frauen*tags - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.61: Zweite Ausgabe der bezirklichen Vorhabenliste zum Stand 31.12.2022 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.62: Umstellung des Fuhrparks auf eine CO2-freie Kraftfahrzeugflotte gemäß § 11 Berliner Klimaschutz- und Energiewendegesetz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.63: Städtebaulicher Rahmenplan Rosenfelder Ring / Gensinger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.64: Bebauungsplan 11-128 - Einstellung; Arbeitstitel: Nördlich Landsberger Allee/Treffurter Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.65: Vorhabenbezogener Bebauungsplan 11-187 VE - Aufstellungsbeschluss; Arbeitstitel: Nördlich Landsberger Allee/Treffurter Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.66: Bebauungsplan XVII-50aba – Öffentliche Auslegung und erneute Behördenbeteiligung; Arbeitstitel: „Gartenstadt Karlshorst IIa“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.67: Wirtschaftsbericht 2022; Bezug DS/0346/IV - überwiesen
+- TOP 1.68: Städtebauliche Rahmenpläne für die Großsiedlung Friedrichsfelde und das Quar-tier Charlottenstraße - überwiesen
+- TOP 2: Mitteilungen des Bezirksamtes zur Abarbeitung von Drucksachen - (offen)
+- TOP 2.1: BzStROrdUmVer_DS 111-IX_115-IX_120-IX_355-IX_360-IX_406-IX_455-IX_491-IX_588-IX_655-IX_0615-IX - zur Kenntnis genommen (Beratungsfolge beendet)
