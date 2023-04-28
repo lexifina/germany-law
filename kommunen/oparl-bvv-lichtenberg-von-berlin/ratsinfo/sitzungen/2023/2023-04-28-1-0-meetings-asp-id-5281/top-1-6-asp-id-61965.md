@@ -1,0 +1,8 @@
+# TOP 1.6: Alternative Standorte für Drehscheibenschule im Fennpfuhl
+
+- Sitzung: 1. Sitzung Vorlagen zur Kenntnisnahme (2023-04-28)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=61965
+- Ergebnis: mit Zwischenbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=61965
