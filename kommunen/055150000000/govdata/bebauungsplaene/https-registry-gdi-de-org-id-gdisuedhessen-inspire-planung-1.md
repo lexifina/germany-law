@@ -1,0 +1,66 @@
+# Kommunale Boden- und Raumplanung Gemeinde Münster
+
+- Herausgeber: Gemeinde Münster
+- Datum: 2023-04-28 (Katalogangabe issued/modified)
+- Kennung: https://registry.gdi-de.org/id/gdisuedhessen.inspire.planung/1ce152aa-0756-44eb-9329-450422f4ac10
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/kommunale-boden-und-raumplanung-gemeinde-munster
+- Quelle: GovData (CKAN-API), Datensatz 00d7278a-7334-46a0-9494-79e75fa46185
+- temporal_start: 1900-01-01T00:00:00
+- temporal_end: 1900-01-01T00:00:00
+- Ressource: Original Metadaten HTML https://www.geoportal.hessen.de/mapbender/php/mod_exportIso19139.php?url=https%3A%2F%2Fwww.geoportal.hessen.de%2Fmapbender%2Fphp%2Fmod_dataISOMetadata.php%3FoutputFormat%3Diso19139%26id%3D8a7bdfd2-2df3-44b9-8ebd-e4a8cd5ba5cf http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52940 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52940 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52940 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52940&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52941 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52941 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52941 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52941&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52942 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52942 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52942 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52942&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52943 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52943 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52943 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52943&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52944 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52944 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52944 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52944&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52945 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52945 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52945 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52945&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52946 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52946 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52946 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52946&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52947 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52947 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52947 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52947&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52948 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52948 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52948 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52948&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52949 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52949 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52949 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52949&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52950 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52950 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52950 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52950&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.hessen.de/mapbender/extensions/mobilemap/map.php?layerid=52951 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Geoportal-Hessen https://www.geoportal.hessen.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=52951 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.hessen.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=52951 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wms.php?layer_id=52951&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: WFS Schnittstelle https://www.geoportal.hessen.de/mapbender/php/wfs.php?FEATURETYPE_ID=5442&REQUEST=GetCapabilities&SERVICE=WFS&INSPIRE=1 http://publications.europa.eu/resource/authority/file-type/WFS_SRVC
+- Ressource: OGC API Features (REST) https://www.geoportal.hessen.de/spatial-objects/761/collections/ft1:Planung http://publications.europa.eu/resource/authority/file-type/REST
+- Ressource: Vektordownload nach EU-Standard https://www.geoportal.hessen.de/mapbender/plugins/mb_downloadFeedClient.php?url=http%3A%2F%2Flocalhost%2Fmapbender%2Fphp%2Fmod_inspireDownloadFeed.php%3Fid%3D8a7bdfd2-2df3-44b9-8ebd-e4a8cd5ba5cf%26type%3DSERVICE%26generateFrom%3Dwfs%26wfsid%3D761 http://publications.europa.eu/resource/authority/file-type/ATOM
+
+---
+
+Außenbereichssatzungen, Bebauungspläne, Erhaltungssatzungen, Flächennutzungspläne, Gestaltungssatzungen, Grünordnungspläne, Innenbereichssatzungen, Landschaftspläne, Sanierungssatzungen, Städtebauliche Entwicklungsmaßnahmen sowie Vorhaben- und Erschließungspläne inklusive Sachinformationen (siehe Pflichtenheft unter https://www.gdi-suedhessen.de/fachthemen/pflichtenhefte/). Bereitgestellt über die Plattform www.gdi-inspireumsetzer.de - Ein Service der GDI-Südhessen.
