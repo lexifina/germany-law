@@ -1,0 +1,1 @@
+Auf Grund des Art. 13 Abs. 3 des Gesetzes über das berufliche Schulwesen vom 15. Juni 1972 (GVBl. S. 189), zuletzt geändert durch Gesetz vom 15. Juli 1977 (GVBl. S. 349, ber. 1978 S. 15) erläßt das Bayerische Staatsministerium für Unterricht und Kultus folgende Verordnung:
