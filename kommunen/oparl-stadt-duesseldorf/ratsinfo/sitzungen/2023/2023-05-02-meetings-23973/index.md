@@ -1,0 +1,62 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-02T17:00:00+02:00
+- Ende: 2023-05-02T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23973
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23973
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483564.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483564.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483564.pdf
+
+## Tagesordnung
+
+- TOP 1: Gedenken an Verstorbene
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Bebauungsplan-Entwurf Nr. 03/017 - Elisabethstraße / Bachstraße - abweichend beschlossen
+- TOP 5.2: Bebauungsplan-Vorentwurf Nr. 03/044 - Moskauer Straße/TVG Neubau - mehrheitlich beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Bebauungsplan-Entwurf Nr. 03/043 - Königsallee 106 - mehrheitlich beschlossen
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Künstlerische Gestaltung einer Mauer an der Münchener Straße - zur Kenntnis genommen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2023 Stadtbezirk 3 - Liste A Schulen - mehrheitlich beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Überprüfung der Möglichkeiten zur Verkehrsüberwachung an den Kreuzungen Südring/Fleher Straße und Südring/Volmerswerther Straße (Anfrage Herr van Bilsen - BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.2: Fahrradpiktogramme auf der Volmerswerther Straße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Kölner Straße (Anfrage SPD - Fraktion) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Vermüllung Fürstenplatz (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.2: Mobilstation Bachplätzchen (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.2.3: Brunnen im Stadtbezirk (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.4: Trinkwasserbrunnen (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 9.1: Gestaltung Brunnenstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 9.2: Schlüsselräume rund um den Hauptbahnhof (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 9.3: Vierte Florabar am Lessingplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU) - einstimmig beschlossen
+- TOP 9.4: Sofort-Maßnahmen gegen die zu erwartenden Hitzewellen (Antrag SPD-Fraktion) - abweichend beschlossen
+- TOP 9.5: Schwimm‘ in Bilk 2023 (Antrag SPD-Fraktion) - abweichend beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Einbahnstraßenregelung auf der Zimmerstraße - zur Kenntnis genommen
+- TOP 10.2: Tempo 30 vor sensiblen Einrichtungen - zur Kenntnis genommen
+- TOP 10.3: Maßnahmen zur Verbesserung des Radverkehrs im Stadtbezirk - zur Kenntnis genommen
+- TOP 10.4: Einrichtung Velogleis auf der Brunnenstraße - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
