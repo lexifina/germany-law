@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-02T14:00:00+02:00
+- Ende: 2023-05-02T15:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27386
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27386
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation: Vorstellung KGCJZ und NSDOK
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Projekte zur Prävention vor sexualisierter Gewalt im Bereich der Offenen Kinder- und Jugendarbeit, Teilplan 0604 - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 4.2: Mitgliederwechsel im Jugendhilfeausschuss, hier: Evangelischer Kirchenverband Köln und Region - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Anfrage der Caritas zum OZG - Kenntnis genommen
+- TOP -: Beantwortung der Caritas-Anfrage zur OZG-Umsetzung (JHA) - Kenntnis genommen
+- TOP 6.1.2: Situation der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP -: Situation der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sachstand Einrichtung von Kinderfeuerwehren - Kenntnis genommen
+- TOP -: "Sachstand Einrichtung von Kinderfeuerwehren", Beantwortung einer Anfrage der Fraktion FDP (AN/0564/2023) - Kenntnis genommen
+- TOP 6.2.2: Kita-Elternbeiträge in Köln - zurückgestellt
+- TOP 6.2.3: Arbeitstreffen Kindertagesbetreuung - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung der Fragen zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 2. Halbjahr 2022 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Wechsel stellvertretend stimmberechtigtes JHA-Mitglied der CDU-Fraktion - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Landeszuschuss zur Abfederung der Energiepreissteigerungen für die Kindertagesbetreuung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: PKS-Jahresbericht zur Jugendkriminalität 2022 im Bereich des PP Köln (Köln + Leverkusen) - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Band 32 von "Digitale Spiele pädagogisch beurteilt" ist erschienen - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Stillfreundliche Kommune" AN/0222/2023 - Kenntnis genommen
+- TOP 8.5.2: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2022 - Kenntnis genommen
+- TOP 8.5.3: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 8.5.4: Abschlussbericht und Handlungsempfehlungen zur wissenschaftlichen Begleitung der Umsetzung des Drogenhilfekonzeptes 2022 - zurückgestellt
+- TOP 8.5.5: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 8.5.6: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 8.5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.8: Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden - mündliche Nachfrage aus dem Ausschuss für Soziales, Seniorinnen und Senioren vom 02.03.2023 - Kenntnis genommen
+- TOP 8.5.9: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 8.5.10: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 8.5.11: Konzept der Elternberatungsstelle Inklusion in der Regionalen Bildungslandschaft - Kenntnis genommen
+- TOP 8.5.12: Ergebnisse Antragsrunde Fonds Kulturelle Bildung 2023 - Kenntnis genommen
