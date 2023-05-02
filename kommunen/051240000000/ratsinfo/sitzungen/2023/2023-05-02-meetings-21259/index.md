@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-05-02T16:00:00+02:00
+- Ende: 2023-05-02T17:07:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21259
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21259
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 24.04.2023 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00310985.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00312058.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2020 des Eigenbetriebs GMW Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 1.1.1: Jahresabschluss 2020 - Entlastung des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2021/2022 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2021 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2021 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2022 der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2023 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Neubauvorhaben Klingelholl - Entgegennahme ohne Beschluss
+- TOP 3.2: QUARTALSREPORT für Q1/2023 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 3.3: Weiterentwicklung der Organisationsform des GMW - Entgegennahme ohne Beschluss
+- TOP 3.4: Gesellschaftsvertrag der Bundesgartenschau Wuppertal 2031 gGmbH - Entgegennahme ohne Beschluss
+- TOP 3.5: Abberufung eines Geschäftsführers der Bliggit GmbH - ungeändert beschlossen
+- TOP 3.6: Abberufung eines Geschäftsführers bei der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Jahresbericht 2022 zur Personal- und Organisationsentwicklung - Entgegennahme ohne Beschluss
+- TOP 5.2: Sachstandsbericht zum Umsetzungsstand des Stärkungspakts NRW - gemeinsam gegen Armut - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Fortschreibung der Planung im Projekt Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 6.2: Satzungsbeschluss 1. Änderung der „Vorkaufssatzung BUGA“ - ungeändert beschlossen
+- TOP 6.3: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.4: Zuschuss an den Wuppertaler SV als Kompensationszahlung für entstehende Mehrkosten während des umbaubedingten Wegfalls der Spielstätte im Stadion am Zoo - ungeändert beschlossen
+- TOP 6.5: Fahrbahnerneuerung Schöneberger Ufer - ungeändert beschlossen
+- TOP 6.6: „Digitalisierung der ORNV-Bevorrechtigung im Rahmen des adaptiven Verkehrsmanagements der Stadt Wuppertal (digiOEPNV)'1 - ungeändert beschlossen
+- TOP 6.7: Umgestaltung Außengelände der Station Natur und Umwelt, Mehrkosten/Bauzeitenverlängerung - ungeändert beschlossen
+- TOP 6.8: Erhalt Schulsozialarbeit in bisherigem Umfang - ungeändert beschlossen
+- TOP 6.9: Prüfung des Verkaufs der ehemaligen Zoofestsäle - abgelehnt
+- TOP 6.10: Sachstand zur erneuten Ausschreibung "Neugestaltung Werth" – Anfrage der CDU-Fraktion vom 21.04.2023 - Entgegennahme ohne Beschluss
+- TOP 6.10.1: Antwort auf Große Anfrage zum Sachstand der erneuten Ausschreibung "Neugestaltung Werth" vom 21.04.2023 - Entgegennahme ohne Beschluss
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Investitions- und Kassenkredite zum 31.03.2023 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Bereitstellung außerplanmäßiger Haushaltsmittel für einen Baukostenzuschuss zur Herrichtung eines Bibliothekstandortes am Rott, Rödiger Str. 69 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
