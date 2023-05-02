@@ -1,0 +1,70 @@
+# 17. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-02T15:41:00+02:00
+- Ende: 2023-05-02T18:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27488
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27488
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Freigabe und Vergabe der Mittel für Freie Musik aus dem polit. VN 2023/2024, Strukturförderung Freie Musik: Sondertopf musikalische Diversität - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.1 - Freigabe und Vergabe der Mittel für Freie Musik aus dem polit. VN 2023/2024, Strukturförderung Freie Musik: Sondertopf musikalische Diversität - ungeändert beschlossen
+- TOP 4.2: Austausch der Leuchtstoffröhren in der Wechselausstellung und in der Ausstellungsebene 60.00 im Museum Ludwig - ungeändert beschlossen
+- TOP 4.3: Finanzierung der Umsetzung eines Kunst- und Kulturprogramms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.3 - Finanzierung der Umsetzung eines Kunst- und Kultur-programms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals - geändert beschlossen
+- TOP 4.4: Restitution von zwei Leuchtertischen aus dem Bestand des Museum für Angewandte Kunst Köln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat 2023, 1. Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Freigabe und Vergabe der Mittel für freie Musik aus dem polit. VN 2023/2024, Strukturförderung freie Musik: Arbeits- und Recherchestipendien - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Digitalstrategie der Museen, hier: Information zur Ausstattung der Museen mit WLAN und Publikums-WLAN - Kenntnis genommen
+- TOP 8.2: Projekt „sichtbar machen. Kommunikation im und über den Holocaust", hier: Projektabschlussbericht - Kenntnis genommen
+- TOP 8.3: Leitbild für kulturelle Teilhabe und Vielfalt: Informationen zum dialogischen Verfahren - Kenntnis genommen
+- TOP 8.4: Neues Branding des NS-Dokumentationszentrums (NS-DOK) - Kenntnis genommen
+- TOP 8.5: Dünnwalder Mauspfad 341: Art Factory - Kenntnis genommen
+- TOP 8.6: Projektfortschritt NEUmarkt – Maßnahmen zur Aufwertung des Neumarkts - Kenntnis genommen
+- TOP 8.7: Referat für kulturelle Teilhabe im Kulturamt unter neuer Leitung - Zsolt Káldy hat Beratung für Kulturschaffende zu Interkultur und Inklusion übernommen - Kenntnis genommen
+- TOP 8.8: Städtische Museen für herausragende Leistungen 2022 mehrfach nominiert - Kenntnis genommen
+- TOP 8.9: Aktualisierung der Handlungsfelder und Zielebenen des Strategiekonzeptes der Stadtbibliothek - Kenntnis genommen
+- TOP 8.10: Organisation der Veranstaltungen "Tag des offenen Denkmals" - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 4. April 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Nutzung der Toilettenanlagen im Museum Ludwig - Kenntnis genommen
+- TOP 10.2: Reparatur Marmorplatten im Spanischen Bau - Kenntnis genommen
+- TOP 10.3: Sachstandsbericht zum Änderungsantrag AN/2693/2021 und Beantwortung der Anfrage des Finanzausschusses aus der Sitzung vom 13.06.2022 zur Vorlage 1844/2022 - Kenntnis genommen
+- TOP 10.4: studiobühne Köln, Sachstand Ausweichquartier - Kenntnis genommen
+- TOP 10.5: Beantwortung einer Anfrage der FDP-Fraktion: Volkhovener Weg 209-211 (AN/0288/2023) - endgültig zurückgezogen
+- TOP 10.6: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 06.02.2023: Gender Budgeting - Kenntnis genommen
+- TOP 10.7: Beantwortung der Anfrage AN/0284/2023 der FDP im Ausschuss Kunst und Kultur vom 14.03.2023 und der mündlichen Anfrage von Bündnis90/Die Grünen aus der Sitzung der BV Kalk vom 26.01.2023 - Kenntnis genommen
+- TOP 10.8: Beantwortung mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Open-Air Südbrücke - Kenntnis genommen
+- TOP 10.9: Beantwortung einer mündlichen Anfrage: Gedenkstätte SA-Lager Am Hochkreuz - Kenntnis genommen
+- TOP 10.10: Beantwortung einer mündlichen Nachfrage der Fraktion Bündnis90/Die Grünen: Sachstand Interim Zeughaus/Alte Wache - Kenntnis genommen
+- TOP 10.11: Beantwortung einer mündlichen Anfrage aus dem Stadtentwicklungsausschuss: Otto-Langen-Quartier, Sachstand - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Zentraldepot der Museen - zurückgestellt
+- TOP 11.2: Schriftliche Anfrage der Fraktion der SPD: KulturPass-Strategie in Köln - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Fraktion der SPD: Reiterstandbild Kaiser Wilhelm - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: KulturInvest
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Pfingstfest Schlosspark Stammheim
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Erhöhung Mindestlohn – Auswirkung im Kulturbereich
+- TOP 12.4: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Weinhaus Bruns
+- TOP 12.5: Mündliche Anfrage der CDU-Fraktion: Ruhender Verkehr von Wolf Vostell
+- TOP 12.6: Mündliche Anfrage der CDU-Fraktion: Bastei
+- TOP 12.7: Mündliche Anfrage der CDU-Fraktion: Haus Fühlingen
+- TOP 12.8: Mündliche Anfrage der SPD-Fraktion: Zeughaus & Alte Wache
+- TOP 12.9: Mündliche Anfrage der SPD-Fraktion: Raum 13
+- TOP 12.10: Mündliche Anfrage der SPD-Fraktion: Skulptur Leuchtturm von Lutz Fritsch
+- TOP 12.11: Tagesordnungspunkt (betrifft Privatpersonen)
