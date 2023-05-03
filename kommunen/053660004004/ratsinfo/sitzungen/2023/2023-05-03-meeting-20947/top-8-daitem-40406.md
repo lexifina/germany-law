@@ -1,0 +1,6 @@
+# TOP 8.: Mitteilung über eine Eintragung ins Goldene Buch am 16.05.2023
+
+- Sitzung: Rat (22. Sitzung) (2023-05-03)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/40406
