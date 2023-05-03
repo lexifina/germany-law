@@ -1,0 +1,56 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-03T15:00:00+02:00
+- Ende: 2023-05-03T17:05:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24412
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24412
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 03.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483808.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 03.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483808.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 03.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00483808.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Stadtbahn U81 - 2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord bis Handweiser Durchführung einer erweiterten Alternativenuntersuchung der Rheinbrücke - Empfehlung einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Baurechtliche Prüfungsergebnisse zum Verteillager Luegallee, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6: Testphase Luegallee (1) - Faktenerklärung - Verkehrszählung Luegallee 2022 - Wann? Wo? Welches Ergebnis?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 7: Sachstand Umbau Sonderburgstraße 2, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Denkmalschutz in Oberkassel, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 9: Verkehrskonzept Kaiser-Wilhelm-Ring, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 10: Testphase Luegallee (2) - Berechnung "Lärmbelastung" erklärungsbedürftig, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 11: Gastronomienutzung an der Sonderburgstraße 2, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 12: Mittagessenversorgung/ Heinrich-Heine-Grundschule am Standort Heerdter Landstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Rad- und Fußwegsperrung zwischen Krefelder Straße und Heerdter Landstraße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 14: Versorgungsmast an der Heerdter Landstraße, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 15: Denkmalschutz im Denkmalbereich Oberkassel, unterschiedliche Abwägung?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 16: Zuschuss an den TC Seestern1979 e.V - einstimmig beschlossen
+- TOP 17: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 18: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2023, Zweckbestimmung der finanziellen Mittel auf dem Sachkonto 1111114 / 1000 / 1000/ 54990400 - Betreuung der Bezirksvertretung - einstimmig beschlossen
+- TOP 19: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2023 - einstimmig beschlossen
+- TOP 20: Mehr Sicherheit für Fahrradfahrer*innen auf der Hansaallee, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 21: Bürgerliches Engagement und Spende für Trinkbrunnen ermöglichen, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 22: Was ist die beste Lösung für eine neue Nutzung des alten Comenius-Gymnasiums?, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 23: Wasserpumpe für den „Comenius"- Spielplatz, Antrag des Bezirksvertreters Alexander Schmitt - einstimmig beschlossen
+- TOP 24: Rückstau vermeiden - Linksabbiegen von der Theodor-Heuss-Brücke Richtung Oberkassel erleichtern - zur Kenntnis genommen
+- TOP 25: Aufstellen von zusätzlichen Abfallbehältern im Ökotop - zur Kenntnis genommen
+- TOP 26: Technische Erneuerung der Diagonalabsperrung im Kreuzungsbereich Pestalozzistraße/Werftstraße - Anliegersituation verbessern - zur Kenntnis genommen
+- TOP 27: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 28: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/003/2023 vom 22.03.2023 - einstimmig beschlossen
+- TOP 29: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2023 - einstimmig beschlossen
+- TOP 33: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2023 (Liste B) - einstimmig beschlossen
+- TOP 34: Flächen für die Photovoltaik-Anlagen für die Stromgewinnung ohne CO2-Ausstoß - zur Kenntnis genommen
+- TOP 35: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2023 Liste A) Schulen SAP-Konten 2121101/1000/52415400 Bauunterhaltungsmittel 2023 - einstimmig beschlossen
+- TOP 36: Anwohnerbelastung durch Besucher der Rheinkirmes wirksam senken! - zur Kenntnis genommen
+- TOP 37: Fahrradunfälle im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 38: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2023 (Liste B) - abweichend beschlossen
+- TOP 39: Erstellen eines übergreifenden Planungskonzeptes für die Luegallee und den Belsenplatz - zur Kenntnis genommen
