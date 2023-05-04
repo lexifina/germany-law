@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-04T18:00:00+02:00
+- Ende: 2023-05-04T20:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24186
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24186
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 04.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00485033.pdf
+- Ergebnisprotokoll: NachtragsTO vom 04.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00485033.pdf
+- Wortprotokoll: NachtragsTO vom 04.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00485033.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 20.04.2023 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 02.03.2023 - einstimmig beschlossen
+- TOP 4: Kriminalitäts- und Unfallstatistik im Stadtbezirk 8 - Bericht
+- TOP 5: Kulturbahnhof Eller - Bericht der Verwaltung
+- TOP 6: Flächennutzungsplanänderung Nr. 200 (Entwurf) - Jägerstraße/Festenbergstraße - Empfehlung einstimmig beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 08/005 - Jägerstraße/Festenbergstraße - Empfehlung einstimmig beschlossen
+- TOP 8: Strategie zum Parkraummanagement - mehrheitlich beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2023 - einstimmig beschlossen
+- TOP 14: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 15: Zuschüsse der Bezirksvertretung 8 im Jahre 2023 - einstimmig beschlossen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Rosmarinstraße - Auswirkungen der Sperrungen auf den Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Schulwegsicherheit GGS Bingener Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 21: Welcome-Point auf der Gumbertstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Machbarkeitsstudie für den Radweg Gubener Straße und vorläufige Einrichtung einer Zone 30 auf der Gubener Straße (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 24: Verkehrsregelung Gubener Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Aufstellung einer E-Ladesäule auf dem Taxi Stand Brinellstraße (Antrag CDU-Frakion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 26: Melchthalweg - Fahrbahninstandsetzung (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 27: Taubenabwehr EU Darmstädter Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 28: Hasseler Richtweg - verbotswidriges Parken in Kurvenbereichen (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 29: Fahrradbügel auf dem Gertrudisplatz und der Gumbertstraße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 30: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 31: Verkehrssituation Sturmstraße und Marburger Straße - zur Kenntnis genommen
+- TOP 32: Sturmstraße zwischen Sodener Weg und Dillenburger Weg - zur Kenntnis genommen
+- TOP 33: Glasfaserausbau im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Überschwemmung in Unterbach - zur Kenntnis genommen
+- TOP 35: Rathaus Eller - Vorgarten - zur Kenntnis genommen
+- TOP 36: Königsberger Straße – Radwege - zur Kenntnis genommen
+- TOP 37: Gymnasium Bernburger Straße - zur Kenntnis genommen
+- TOP 38: Verkehrsplanung An der Schützenwiese/Königsberger Straße - zur Kenntnis genommen
+- TOP 39: Anfeindungen von Personengruppen aus der russischen Föderation im Stadtbezirk 8 - zur Kenntnis genommen
