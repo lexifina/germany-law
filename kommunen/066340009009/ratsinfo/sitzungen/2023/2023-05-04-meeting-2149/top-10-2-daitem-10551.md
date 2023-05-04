@@ -1,0 +1,6 @@
+# TOP 10.2: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier "An der Mauer / Hospitalstraße" hier: Sachstandsbericht
+
+- Sitzung: Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (19. Sitzung) (2023-05-04)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/10551
