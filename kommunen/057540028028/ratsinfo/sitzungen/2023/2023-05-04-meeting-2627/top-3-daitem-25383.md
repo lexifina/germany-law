@@ -1,0 +1,6 @@
+# TOP 3: Einführung des Bürgergeldes Bericht durch die Leitung des Jobcenters
+
+- Sitzung: Ausschuss für Soziales, Migration und Sport (11. Sitzung) (2023-05-04)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/25383
