@@ -1,0 +1,68 @@
+# 19. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-04T15:07:00+02:00
+- Ende: 2023-05-04T17:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27387
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27387
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Präsentation betreffend „Proaktive Kommunikation zu den Baustellen in der Altstadt Köln“ - Kenntnis genommen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage zum Energiekonzept Deutzer Hafen von der Fraktion DIE LINKE (AN/0207/2023) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.2: Beantwortung einer mündlichen Anfrage aus dem Stadtentwicklungsausschuss: Otto-Langen-Quartier, Sachstand - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.3: Beantwortung einer Anfrage betreffend "Baubeschluss für den Neubau von vier stationären Verschlusseinrichtungen für den Hochwasserschutz von Stadtbahnanlagen in der Kölner Innenstadt (0471/2022)" - Kenntnis genommen
+- TOP 1.4: Beantwortung einer Anfrage der AfD-Fraktion betreffend RSV Rath-Heumar - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Energiekonzept für den Deutzer Hafen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: Einladung zum Fachgespräch Umsetzungsmodell Kreuzfeld - EInladungspolicy - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.3: RSV Rath Heumar - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.4: Verwendung der Ablösebeträge aus dem Kooperativen Baulandmodell - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Höhenentwicklungskonzept für die Innere Stadt Köln - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag zum Masterplan Innenstadt, hier: Höhenentwicklungskonzept für die innere Stadt - geändert beschlossen
+- TOP 4.2: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - ohne Votum in nachfolgende Gremien
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - zurückgestellt
+- TOP 5.1.1: Erstellung eines SEVESO-III-Gutachten für den Kölner Norden - zurückgestellt
+- TOP 5.2: GRÜNGÜRTEL Parkstadt Süd, hier: Planungsbeschluss Sportpionierpark - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - zurückgestellt
+- TOP 10.2: Bedarfsfeststellungsbeschluss für ein Kommunikationskonzept mit begleitender Öffentlichkeitsarbeit für das Großprojekt Köln-Kreuzfeld - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Beschluss über die Aufhebung des Aufstellungsbeschlusses für einen Bebauungsplan Arbeitstitel: Östlich Mottenkaul in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 11.2: Umsetzung Stadtentwicklungskonzept Wohnen - zurückgestellt
+- TOP 11.3: Beschluss über die Einleitung betreffend die Änderung (Teilaufhebung) des Bebauungsplans Nr. 68459/02 Arbeitstitel: ICE-Terminal in Köln-Deutz, 3. Änderung u. Aufhebung eines Aufstellungs- und eines Einleitungsbeschlusses am Standort (Ottoplatz-Ost) - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 66509/10 - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf Nummer 73456/02 Arbeitstitel: Ostmerheimer Straße 214 in Köln-Merheim - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Änderungen der Wohnraumförderung 2023 einschließlich einer Übersicht der bezugsfertigen Wohnungen 2017 bis 2022 - Kenntnis genommen
+- TOP 18.2: Geschäftsbericht Wohnen in Köln 2020/2021 - Fakten, Zahlen und Ergebnisse 2020/2021; Ausblick - Kenntnis genommen
+- TOP 18.3: Projektfortschritt NEUmarkt – Maßnahmen zur Aufwertung des Neumarkts - Kenntnis genommen
+- TOP 18.4: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 18.5: Kraftfahrzeuge in Köln 2022 - Kenntnis genommen
+- TOP 18.6: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 18.7: Umsetzung der Sozialen Erhaltungssatzung Mülheim Süd-West - Kenntnis genommen
+- TOP 18.8: Gewerbeflächenbereitstellungskonzept (GFBK); Stand 31.12.2022 - Kenntnis genommen
+- TOP 18.9: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 18.10: Erhebung der Einzelhandelsnutzungen im Kölner Stadtgebiet 2022 - Kenntnis genommen
+- TOP 18.11: Geändertes städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Volkhovener Straße" in Köln-Esch/Auweiler - Kenntnis genommen
+- TOP 18.12: Aktueller Sachstand Haus Fühlingen - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
