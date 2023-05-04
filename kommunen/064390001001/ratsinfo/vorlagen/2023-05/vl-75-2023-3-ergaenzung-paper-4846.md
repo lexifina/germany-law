@@ -1,0 +1,27 @@
+# Arrondierungsflächen in der Gemeinde Aarbergen
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-75/2023 3. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2023-05-04
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZUJCv62pLxQBJ1TgRG390S8
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/4846
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Arrondierungsflächen in der Gemeinde Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX0deBLOXSxR8h99C6fzEodDMlFV0-iG2qCWh8djFuT9/Beschlussvorlage_Gemeindevertretung_VL-75-2023_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellungnahme Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSs99v8-koPphksGpTpQE4rkgRScrhr-L1fCxxznHOyH/Stellungnahme_Kettenbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Karte Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTkNlR_JanHxTrS_m0OcOcgartdranlHignZjcmb86Nm/Karte_Kettenbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auswertung und Einschätzung Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6FxEeJtJCc-7-7uP4BQzd6xL7znG4pUZHYR2ZST_hn/Auswertung_und_Einschaetzung_Kettenbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellungnahme Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ7S3-FuquuEHH7We9tq0ukWJDyF9ML9CpATocdz1UaK/Stellungnahme_Michelbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Karte Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZURCv5WHgrPQ3ybpWaOszZyngevpmkvHgMWR26cGADCq/Karte_Michelbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auswertung und Einschätzung Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf189ZCCjsPmudvtG9fhcwRUTOCtX9Qcrr0SVd-bWyCc/Auswertung_und_Einschaetzung_Michelbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellungnahme Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdl8bYnXJQr-sv-u3s8xm55Vsrdmlp08X4772g0orbHV/Stellungnahme_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Karte Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeFpf5xZaIza9g2EdjH9S9e3sMfksx-oDS0MeoFK4aoN/Karte_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auswertung und Einschätzung Hausen über Aar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfVOwV8jv5tK7YsCzWfRQv0UWBDlYqaZGArU9abTBzkl/Auswertung_und_Einschaetzung_Hausen_ueber_Aar.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Karte Panrod) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZalgIPJ8L3KRx5GjG00ofV-bfS_Y7hPey7qhKs1bqgFQ/Karte_Panrod.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auswertung und Einschätzung Panrod) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZHtWYymgRSjeRY25HbILfu6aul7HbOjfk765a3ZhUY3/Auswertung_und_Einschaetzung_Panrod.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellungnahme Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRJee0G0QkJs3J9KdMy6JUb3auVgHSwhkBGpja1y_62H/Stellungnahme_Daisbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Karte Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRSB7t4U0aQM2EJVr7605yozCrBFN4LpppEh5gaaX2Wm/Karte_Daisbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auswertung und Einschätzung Daisbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJAKHNVx4ic9NAvJi3gHfxQwZw7Wir8ClonVDqoC1G2/Auswertung_und_Einschaetzung_Daisbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Übersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVaRZhWdhbu7m8vfaQtWfSP84tSMYO6_14ilod9o1NY4/Uebersicht.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1682 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-25
