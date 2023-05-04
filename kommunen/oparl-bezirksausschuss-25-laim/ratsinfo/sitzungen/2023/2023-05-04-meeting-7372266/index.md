@@ -1,0 +1,98 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-05-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372266
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372266
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 2: Anträge
+- TOP 2.1.: Unzulässiges Parken von Kfz im Kreuzungsbereich unterbinden
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Schrobenhausener Straße 17 Anschaffung von mobilen Spielekisten 1.891,91 Euro, Az.: 0262.0-25-0292
+- TOP 3.2.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-25-0290
+- TOP 3.3.: (E) Stadtbezirksbudget Laimer Strolche e.V. Aufenthalt auf einem Bio-Bauernhof vom 15. - 18.05.2023 2.250,00 Euro, Az.: 0262.0-25-0288
+- TOP 3.4.: (E) + (U) Verkehr rund um die Grundschule/Kindergarten/Hort in der Camerloherstraße Empfehlung Nr. 20-26 / E 00877 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 18.10.2022
+- TOP 3.5.: (E) + (U) Verbot eines dauerhaften Abstellen von Wohnmobilen in Wohngebieten im Stadtbezirk Laim Empfehlung Nr. 20-26 / E 00883 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 18.10.2022
+- TOP 3.6.: (E) + (U) Mehr Transparenz beim Stadtbezirksbudget
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 22.03.23: Anfrage wegen Austausch einer Lichtsignalanlage Endelhauser-/Westendstraße
+- TOP 4.3.: Schreiben Stadtkämmerei vom 22.03.23: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2023 bis 2027
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 29.03.23: Errichtung von absoluten Haltverboten Fachnerstraße
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 29.03.23: Austausch Lichtsignalanlage und Überplanung Westend-/Fachnerstraße
+- TOP 4.6.: Schreiben Mobilitätsreferat vom 09.03.23: Einführung Parklizenzgebiete in Laim
+- TOP 4.7.: Schreiben Direktorium vom 31.03.23: Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 11.04.23: Antrag Kreislaufschrank Am Laimer Anger
+- TOP 4.9.: Schreiben Initiative Bücherschrank vom 13.04.23: Kreislaufschrank Am Laimer Anger
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 11.04.23: Familien-Flohmarkt Topolinos e.V. am Agricolaplatz am 08.07.23
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 26.04.23: Veranstaltung des Familienzentrum im Freien in städtischer Grünanlage; hier: REGSAM-Fest am 30.6.23 auf dem Hogenbergplatz; max. 200 Besucher gleichzeitig
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 28.04.23: Veranstaltungen auf öffentlichem Straßengrund nach StVO/BayStrWG; hier: Anwohnerstraßenfest mit Flohmarkt; Steinbeispl./Endelhauserstr. am Sa 01.07.2023 (PAX 100), 10-23 Uhr
+- TOP 4.13.: Schreiben MVG vom 13.04.23: Leistungsprogramm 2024 der MVG zum Fahrplanwechsel Dezember 2023
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Widarkisstr. 9, Frist 05.05.23 Anbau an eine Doppelhaushälfte
+- TOP 5.2.: Agnes-Bernauer-Str. 92, Frist 17.05.23 Variante 1: Abbruch eines Bestandsgebäudes und Neubau eines Wohngebäudes mit drei Vollgeschossen und Staffelgeschoss, Traufhöhe 12,00 m incl. 0,60 m Attika mit Tiefgarage Variante 2: wie 1, jedoch mit Teilung des Flurstück Variante 3: Teilung des Grundstücks unter Beibehaltung des Bestandsgebäudes, Anbau von jeweils einem drei-geschossigen Baukörper mit Staffelgeschoss an den dann geteilten Bestandsgebäuden mit Grenzbebauung auf der neuen Flurstücksgrenze Traufhöhe 9,20 m incl. 0,60 m Attika - VORBESCHEID
+- TOP 5.3.: Joergstr. 78, Frist 17.05.23 Dachgeschossausbau und Sanierung eines Bestandsgebäudes sowie Neubau eines Stadthauses mit Garage - VORBESCHEID
+- TOP 6: Sonstiges
+- TOP 6.1.: Nachtspaziergang in Laim
+- TOP 6.2.: Schreiben Referat für Klima- und Umweltschutz vom 03.04.23: Öffentlichkeitsbeteiligung für den Lärmaktionsplan München - Werbematerial
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur Ortstermin vom 11.03.23
+- TOP 7.2.: Protokoll UA Kultur vom 14.03.23
+- TOP 7.3.: Protokoll UA Mobilität vom 21.03.23
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 21.03.23
+- TOP 7.5.: Protokoll UA Bau vom 23.03.23
+- TOP 7.6.: Protokoll BA-Sitzung vom 30.03.23
+- TOP 7.7.: Protokoll UA Soziales vom 17.04.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.03.23: Fällantrag Hans-Thonauer-Str. 34
+- TOP 8.2.: Bautenliste vom 13.03.-19.03.23: A) Erstantragsverfahren 1. Landsberger Str. 211 2. Widarkisstr. 9 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Högerstr. 2. Agnes-Bernauer-Str. 51 3. Eringerstr. 24
+- TOP 8.3.: Bautenliste 20.03.-26.03.23: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 151 2. Fürstenrieder Str. 56
+- TOP 8.4.: Bautenliste 03.04.-09.04.23 A) Erstantragsverfahren 1. Camerloherstr. 195 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 92 2. Joergstr. 78
+- TOP 8.5.: Bautenliste 10.04.-16.04.23: A) Erstantragsverfahren 1. Schrobenhausener Str. 21
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.04.23: Kontrolle der Ersatzpflanzungen im 25. Stadtbezirk
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.04.23: Fällungsgenehmigung Walter-Scott-Str. 2
+- TOP 8.8.: Schreiben Baureferat vom 14.03.23: Beleuchtung Gotthardstraße
+- TOP 8.9.: Schreiben Baureferat vom 16.03.23: Radeln für die Christbaumbeleuchtung am Laimer Anger
+- TOP 8.10.: Schreiben Baureferat vom 06.04.23: Spielgeräteauswechslung
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 20.03.23: Aufhebung des Taxistandplatzes in der Landsberger Str. 175
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 29.03.23: Anfrage wegen Einrichtung einer Sperrfläche
+- TOP 8.13.: Schreiben Mobilitätsrefera vom 20.03.23: 8. Fortschreibung des Luftreinhalteplans; Erweiterung der Umweltzone inkl. Dieselfahrverbot; verkehrsrechtliche Anordnung der Beschilderung
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 24.03.23: Zukünftige Beschilderung der Fahrradabstellanlagen/Abstellanlagen für Lastenräder
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 28.03.23: Kinderanliegen aus der Kindereinwohnerversammlung vom 25.11.22
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 01.03.23: Radwegsituation in der Elsenheimerstraße klar und verkehrssicher gestalten
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 31.01.23: Erhalt der Uhr am Laimer Bahnhof
+- TOP 8.18.: Schreiben Sozialreferat vom 27.03.23: Informationsveranstaltung der Sozialreferentin am 20.03.23
+- TOP 8.19.: Schreiben Sozialreferat vom 20.03.23: AKIM Bericht 1. Jahreshälfte 2023
+- TOP 8.20.: Schreiben Kommunalreferat vom 31.03.23: Standort Feuerwache Laim Landsberger Str. 332 BA-Antrag Nr. 02123 Hier: Fristverlängerung
+- TOP 8.21.: Schreiben Gleichstellungsstelle für Frauen vom 22.02.23: Protokoll des 52. Treffens vom 02.02.23
+- TOP 8.22.: Schreiben BA 21 Pasing-Obermenzing vom 17.03.23: Problematische Verkehrssituation/Verkehrsführung im Umfeld der Mitterfeldstraße im Zusammenhang mit der U-Bahn-Baustelle
+- TOP 8.23.: Schreiben Direktorium vom März/April 2023: Verwendungsnachweise
+- TOP 8.24.: Schreiben Polizeiinspektion 41 vom 22.03.23: Klarheit bei aufgehobener Ausfahrt vor Lautensackstraße 6
+- TOP 8.25.: Schreiben Polizeiinspektion 41 vom 24.03.23: Kreuzung Guido-Schneble-Straße / Aindorferstraße
+- TOP 8.26.: Schreiben Pro Bahn vom 01.05.23: MVG Leistungsprogramm 2023/24
+- TOP 8.27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.03.23: 2. Stammstrecke München - neuer Termin- und Kostenplan - weiteres Vorgehen
+- TOP 8.29.: Beschluss der Vollversammlung des Stadtrates vom 01.03.23: (U) Partizipation 2.0 reloaded
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.03.23: Konzeptioneller Mietwohnungsbau A) Einführung eines befristeten Teuerungsausgleichs B) Anpassung des Mehrjahresinvestitionsprogramms 2023-2025 C) Anträge
+- TOP 8.31.: Beschluss der Vollversammlung des Stadtrates vom 22.03.23: Sektorale Bebauungspläne zur Wohnraumversorgung nach § 9 Abs. 2d Baugesetzbuch (BauGB) – Grundsatzbeschluss zur Anwendungspraxis der Landeshauptstadt München a) Grundsätzliche Ausführungen b) Aufstellung sektoraler Bebauungspläne zur Schaffung von mehr bezahlbaren Mietwohnungen Antrag 1/2022 des Mieterbeirats der Landeshauptstadt München vom 25.07.2022
+- TOP 8.32.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 29.03.23: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 8.33.: Beschluss des Bauausschusses vom 07.03.23: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Geh- / Radweg Landsberger Str. 350 (Weitergabe an Baureferat)
+- TOP 9.2.: Parkbank in der Straubinger Straße (Weitergabe an Baureferat)
+- TOP 9.3.: U-Bahn Bau in Laim - Fernwärmeleitung (Weitergabe an SWM)
+- TOP 9.4.: Elektroaufladestationen Gotthardstraße (Weitergabe an Mobilitätsreferat)
+- TOP 9.5.: Wertstoffinsel Von-der-Pfordten-Straße (Weitergabe an AWM und Remondis)
+- TOP 9.6.: Wertstoffinsel Hogebergplatz-Valpichlerstraße (Weitergabe an AWM und Remondis)
+- TOP 9.7.: Erneute Baumfällungen in der Camerloherstraße (Weitergabe an Referat für Stadtplanung und Bauordnung)
+- TOP 9.8.: Baumaßnahme Camerloher Str. 119 (Weitergabe an Referat für Stadtplanung und Bauordnung)
+- TOP 9.9.: Radverkehrssituation Georg-Büchner-Realschule (Vertagung in UA Mobilität)
