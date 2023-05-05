@@ -1,0 +1,72 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-05T16:05:00+02:00
+- Ende: 2023-05-05T19:04:00+02:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23750
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23750
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 10.03.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Unfallstatistik und Kriminalitätsentwicklung 2022 im Stadtbezirk 9
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO „Erweiterung und Umbau der Grundschulen KGS ST Cäcilia und GGS Benrath, Erich-Müller-Str. 31 in Benrath zur Erhöhung der Zügigkeit" - Empfehlung einstimmig beschlossen
+- TOP 6.3: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für einen „Ersatzneubau der GGS Selma-Lagerlöf und der KGS Hermann-Gmeiner am Standort Schillstraße 7“ - Empfehlung einstimmig beschlossen
+- TOP 6.4: Strategie zum Parkraummanagement - Empfehlung mehrheitlich beschlossen
+- TOP 6.4.1: Strategie zum Parkraummanagement - Ergänzungsantrag zu TOP 6.4 der BV9 Sitzung am 05.05.2023 - mehrheitlich abgelehnt
+- TOP 6.5: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2023 - einstimmig beschlossen
+- TOP 6.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Grundwasserkontamination im Schlosspark Benrath - beantwortet
+- TOP 8.2: Aufstellen von Basketballkörben in Benrath und Urdenbach auf öffentlichen Flächen - vertagt
+- TOP 8.3: Bäume am Kamper Acker - beantwortet
+- TOP 8.4: Grünordnungsplan II - beantwortet
+- TOP 8.5: Hundewiese Itter - beantwortet
+- TOP 9: Anträge
+- TOP 9.1: Pop-up-Radstreifen - mehrheitlich abgelehnt
+- TOP 9.2: Zebrastreifen Auf‘m Rott - abweichend beschlossen
+- TOP 9.3: Errichtung eines Bouleplatzes im Grünzug Hassels - einstimmig beschlossen
+- TOP 9.4: Errichtung von Trinkwasserzapfstellen auf Kinderspielplätzen - einstimmig beschlossen
+- TOP 9.5: Parken an der Kappeler Straße - abweichend beschlossen
+- TOP 9.6: Erhöhung der Sicherheit für den Radverkehr auf der Hasselsstraße - mehrheitlich beschlossen
+- TOP 9.7: Radverkehr auf der Benrather Schloßallee - abweichend beschlossen
+- TOP 9.7.1: Radverkehr auf der Benrather Schloßallee - Änderungsantrag zur Vorlage BV9/094/2023 - mehrheitlich abgelehnt
+- TOP 9.8: Radverkehr Benrather Schloßallee - zurückgezogen
+- TOP 9.8.1: Radverkehr Benrather Schloßallee - Änderungsantrag zur Vorlage BV9/095/2023 - zurückgezogen
+- TOP 10: Verfügungsmittel
+- TOP 10.1: hood projects - Gruppenausstellung #actsofpostvandalism - mehrheitlich beschlossen
+- TOP 10.2: Wir in Wersten e.V. - Osterfeuer - einstimmig beschlossen
+- TOP 10.3: Wir in Wersten e.V. - Werstenrallye 2023 - einstimmig beschlossen
+- TOP 10.4: St. Sebastianus-Schützenverein e. V. Düsseldorf Holthausen - Seniorenvormittag - einstimmig beschlossen
+- TOP 10.5: LVR-Karl-Tietenberg-Schule, FS-Sehen - Ausstattung der Goalball-Mannschaft - einstimmig beschlossen
+- TOP 10.6: Wir in Wersten e.V. - Bienenlauf 2023 - einstimmig beschlossen
+- TOP 10.7: KG Düsseldorfer Räbbelche 1962 e. V. - Uniformteile 2023 - einstimmig beschlossen
+- TOP 10.8: Chorverband Düsseldorf e.V. - Kultur Zuschuss 2023 - einstimmig beschlossen
+- TOP 10.9: Seniorenrat Düsseldorf - Senioren-Aktionstag auf dem Kamper Acker 2023 - einstimmig beschlossen
+- TOP 10.10: GGS Urdenbach - Theaterprojekt "Mein Körper gehört mir" 2023 - einstimmig beschlossen
+- TOP 10.11: SG Benrath-Hassels 1910/12 e.V. - Umzäunung Beachvolleyball-Feld - einstimmig beschlossen
+- TOP 10.12: AWO Familienglobus gGmbH: Familientreff Holthausen - mehrheitlich beschlossen
+- TOP 10.13: Katholische Kirchengemeinde St. Antonius und St. Elisabeth - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Ampelschaltung Kölner Landstraße - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/133/2022 - zur Kenntnis genommen
+- TOP 11.2: Streuobstwiese Am Broichgraben - zur Kenntnis genommen
+- TOP 11.3: Verbindung zwischen „Schöne Aussicht“ und Bonner Straße - zur Kenntnis genommen
+- TOP 11.4: Durchgängiges Tempo 30 auf der Ickerswarder Straße - zur Kenntnis genommen
+- TOP 11.5: Mobilitätsstationen im Bezirk 9 - zur Kenntnis genommen
+- TOP 11.6: Ampelschaltung Werstener Kreuz - zur Kenntnis genommen
