@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-10-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.7
+- Datum: 2023-05-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.10.2021
+05.05.2023
 bis
-04.05.2023
+31.07.2023
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -240,7 +240,6 @@ Organisationsform 2-2-1-Modell Berufsausbildung in den Berufen der Berufsbereich
 
 B)
 
-
 Stundentafeln der Berufsfachschule
 
 
@@ -261,12 +260,12 @@ Berufsfachschule für Pflegehilfe
 
 B.4
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Anästhesietechnische Assistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Anästhesietechnische Assistenz
 
 
 B.5
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Diätassistenz
 
 
 B.6
@@ -276,110 +275,102 @@ Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfac
 
 B.7
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
 
 
 B.8
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Logopädie
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinische Technologie, Beruf Medizinische Technologin für Laboratoriumsanalytik oder Medizinischer Technologe für Laboratoriumsanalytik
 
 
 B.9
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Laboratoriumsassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinische Technologie, Beruf Medizinische Technologin für Radiologie oder Medizinischer Technologe für Radiologie
 
 
 B.10
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Radiologieassistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinische Technologie, Beruf Medizinische Technologin für Funktionsdiagnostik oder Medizinischer Technologe für Funktionsdiagnostik
 
 
 B.11
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Medizinisch-technischer Assistent für Funktionsdiagnostik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinische Technologie, Beruf Medizinische Technologin für Veterinärmedizin oder Medizinischer Technologe für Veterinärmedizin
 
 
 B.12
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenten, Beruf Veterinärmedizinisch-technischer Assistent
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäterinnen und Notfallsanitäter
 
 
 B.13
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Notfallsanitäter
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Operationstechnische Assistenz
 
 
 B.14
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Operationstechnische Assistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
 
 
 B.15
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Orthoptik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau oder Pflegefachmann
 
 
 B.16
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Pflegefachfrau/Pflegefachmann
-
-
-B.16a
-
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Altenpflegerin/Altenpfleger
-
-
-B.16b
-
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Gesundheits- und Kinderkrankenpflegerin/Gesundheits- und Kinderkrankenpfleger
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Altenpflegerin oder Altenpfleger
 
 
 B.17
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeut
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pflegeberufe, Beruf Gesundheits- und Kinderkrankenpflegerin oder Gesundheits- und Kinderkrankenpfleger
 
 
 B.18
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseur und medizinischer Bademeister
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Physiotherapie, Beruf Physiotherapeutin oder Physiotherapeut
 
 
 B.19
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenten
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule Physiotherapie, Beruf Masseurin und medizinische Bademeisterin oder Masseur und medizinischer Bademeister
 
 
 B.20
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologen
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenz
 
 
 B.21
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Geigenbauer
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Podologie
 
 
 B.22
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Handzuginstrumentenmacher
+Berufsfachschule für Musikinstrumentenbau, Beruf Geigenbauerin oder Geigenbauer
 
 
 B.23
 
-Berufsfachschule für Musikinstrumentenbauer, Beruf Zupfinstrumentenmacher
+Berufsfachschule für Musikinstrumentenbau, Beruf Handzuginstrumentenmacherin oder Handzuginstrumentenmacher
 
 
 B.24
 
-Berufsfachschule für Uhrmacher
+Berufsfachschule für Musikinstrumentenbau, Beruf Zupfinstrumentenmacherin oder Zupfinstrumentenmacher
 
+
+B.25
+
+Berufsfachschule für das Uhrmacherhandwerk.
 
 C)
 
 
 Stundentafeln der Fachschule
-
-(gültig ab Schuljahr 2017/2018)
 
 
 C.1
@@ -392,11 +383,6 @@ C.2
 Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
 
 
-C.2a
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2021/2022, Klassenstufe 3)
-
-
 C.3
 
 Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
@@ -404,10 +390,6 @@ Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
 C.3a
 
 Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
-
-C.3b
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2021/2022, Klassenstufe 3)
 
 C.4
 
@@ -658,184 +640,81 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Wirtschaftswissenschaft, Zu
 
 F)
 
-
-Auslaufende Stundentafeln (Schulart Fachschule)
+Auslaufende Stundentafeln
 
 
 F.1
 
-Fachbereich Gestaltung, Fachrichtung Kommunikationsdesign
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Altenpflege
 
 
 F.2
 
-Fachbereich Gestaltung, Fachrichtung Produktdesign
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Gesundheits- und Krankenpflege und Gesundheits- und Kinderkrankenpflege
 
 
 F.3
 
-Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
 
 
 F.4
 
-Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Laboratoriumsassistentin oder Medizinisch-technischer Laboratoriumsassistent
 
 
 F.5
 
-Fachbereich Technik (Rahmenstundentafel) für die Fachrichtungen Bautechnik, Chemietechnik, Feinwerktechnik, Gebäudesystemtechnik, Glastechnik, Gießereitechnik, Kältetechnik, Lebensmitteltechnik, Medizintechnik, Metallbautechnik und Umweltschutztechnik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Radiologieassistentin oder Medizinisch-technischer Radiologieassistent
 
 
 F.6
 
-Fachbereich Technik, Fachrichtung Bekleidungstechnik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Assistentin für Funktionsdiagnostik oder Medizinisch-technischer Assistent für Funktionsdiagnostik
 
 
 F.7
 
-Fachbereich Technik, Fachrichtung Bohrtechnik
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Veterinärmedizinisch-technische Assistent oder Veterinärmedizinisch-technischer Assistent
 
 
 F.8
 
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Energie- und Automatisierungstechnik
-
-
-F.9
-
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Kommunikationselektronik und Datenverarbeitungstechnik
-
-
-F.10
-
-Fachbereich Technik, Fachrichtung Elektrotechnik, Schwerpunkt Projektierung und Systemmanagement
-
-
-F.11
-
-Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Bausanierung
-
-
-F.12
-
-Fachbereich Technik, Fachrichtung Farb- und Lacktechnik, Schwerpunkt Industrielle Verfahrenstechnik
-
-
-F.13
-
-Fachbereich Technik, Fachrichtung Geologietechnik
-
-
-F.14
-
-Fachbereich Technik, Fachrichtung Sanitär-, Heizungs- und Klimatechnik
-
-
-F.15
-
-Fachbereich Technik, Fachrichtung Holztechnik
-
-
-F.16
-
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Datenbanktechnologie
-
-
-F.17
-
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Netzwerktechnologie
-
-
-F.18
-
-Fachbereich Technik, Fachrichtung Informatik, Schwerpunkt Softwaretechnologie
-
-
-F.19
-
-Fachbereich Technik, Fachrichtung Fahrzeugtechnik
-
-
-F.20
-
-Fachbereich Technik, Fachrichtung Kunststofftechnik
-
-
-F.21
-
-Fachbereich Technik, Fachrichtung Maschinentechnik
-
-
-F.22
-
-Fachbereich Technik, Fachrichtung Mechatronik
-
-
-F.23
-
-Fachbereich Technik, Fachrichtung Textiltechnik
-
-
-F.24
-
-Fachbereich Wirtschaft, Fachrichtung Betriebswirtschaft
-
-
-F.25
-
-Fachbereich Wirtschaft, Fachrichtung Hotel- und Gaststättengewerbe
-
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenz.
 
 G)
 
-
-Auslaufende Stundentafeln (Schulart Berufsfachschule)
-
+Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
 
 G.1
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Altenpflege
-
+Berufsfachschule für medizinische Dokumentation
 
 G.2
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Gesundheits- und Krankenpflege/Gesundheits- und Kinderkrankenpflege
-
-
-H)
-
-Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
-
-H.1
-
-Berufsfachschule für medizinische Dokumentation
-
-H.2
-
 Berufsfachschule für Sozialwesen
 
-H.3
+G.3
 
 Berufsfachschule für Pflegehilfe
 
-H.4
+G.4
 
 Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
 
-H.5
+G.5
 
 Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
 
-H.6
+G.6
 
 Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
 
-H.7
+G.7
 
 Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
 
-H.8
+G.8
 
 Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
 
@@ -860,17 +739,15 @@ Teil A – Berufsschule
 
 Teil B – Berufsfachschule
 
-Teil C – Fachschule (gültig ab Schuljahr 2017/2018)
+Teil C – Fachschule
 
 Teil D – Fachoberschule
 
 Teil E – Berufliches Gymnasium
 
-Teil F – Auslaufende Stundentafeln (Schulart Fachschule)
+Teil F – Auslaufende Stundentafeln
 
-Teil G – Auslaufende Stundentafeln (Schulart Berufsfachschule)
-
-Teil H – Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
+Teil G – Stundentafeln auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
 
 Verweis auf Bundesgesetze
 
@@ -882,9 +759,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Oktober 2021
+Fassung gültig ab:  5. Mai 2023
 
-Fassung gültig bis:  4. Mai 2023
+Fassung gültig bis: 31. Juli 2023
 
 Drucken/Speichern
 
@@ -911,7 +788,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.7
+https://www.revosax.sachsen.de/vorschrift/17348.8
 Stand vom
 18.11.2026
 
