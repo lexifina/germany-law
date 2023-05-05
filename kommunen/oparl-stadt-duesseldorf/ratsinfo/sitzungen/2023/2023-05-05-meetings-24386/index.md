@@ -1,0 +1,71 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-05T14:00:00+02:00
+- Ende: 2023-05-05T17:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24386
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24386
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift über die Sondersitzung der Bezirksvertretung 1 vom 13.03.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Genehmigung eines Dringlichkeitsbeschlusses - Verlängerung der Frühlingskirmes am Tonhallenufer um einen Tag im Jahre 2023 - einstimmig beschlossen
+- TOP 4.2: Städtebaulicher Wettbewerb Nr. 01/020 - Campus Golzheim - Empfehlung einstimmig beschlossen
+- TOP 4.3: Barrierfreier Ausbau der Bushaltestelle „Münsterstraße/Feuerwache“, Steige 2 + 4 und Fällung eines Straßenbaumes - mehrheitlich beschlossen
+- TOP 4.4: Laufzeiten und Öffnungszeiten der Weihnachtsmärkte in der Düsseldorfer Innenstadt für die Jahre 2023 bis 2026 - Empfehlung einstimmig beschlossen
+- TOP 4.5: Trödelmarkt auf dem Gelände des Großmarktes im 2. Halbjahr - einstimmig beschlossen
+- TOP 4.6: Sicherheit in der Düsseldorfer Innenstadt (SIDI) – Sozialpräventive Maßnahme ,,Streetwork“ - zur Kenntnis genommen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Erneuerung der Axialventilatoren im Rheinufertunnel -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 4.10: Brandschutztechnische Ertüchtigung U-Bahnhof Nordstraße -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 4.11: Veranstaltungen Burgplatz – Jahresprogramm 2023 (Nachmeldungen) - Empfehlung einstimmig beschlossen
+- TOP 4.12: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Erweiterung und Umbauten der GGS Rolandschule, Rolandstraße 40, Erhöhung der Zügigkeit um einen Zug zu einer vierzügigen Grundschule" - Empfehlung abweichend beschlossen
+- TOP 4.13: Fortführung Umsetzung stationsbasierter Sharing-Angebote in der Innenstadt (Ausbaustufe III) - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Außenbereich Kunstsammlung am Grabbeplatz - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen
+- TOP 6.1: Theatermuseum (Hofgärtnerhaus) - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6.2: Geplante Baumaßnahmen an der Gemeinschaftsgrundschule Lennéstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 6.3: Tempo 30 auf dem Kennedydamm Richtung Norden stadtauswärts - Anfrage der Fraktion BÜNDNIS90/DIE GRÜNEN - zur Kenntnis genommen
+- TOP 6.4: Ehrenhof als möglicher Standort des Fotoinstitut - Anfrage Peter Klein, Vertreter DIE LINKE - schriftlich beantwortet
+- TOP 6.5: Grüne OASE – Franklinstraße 41 (alter Standort Volkshochschule) - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.6: Zustand der Fahrbahn auf der Roßstraße - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Verkehrssicherheit im Bereich der Diagonalsperre Mauerstraße Ecke Bankstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Verkehrssicherheit Blücherstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Verkehrssicherheit Prinz-Georg-Straße Ecke Parkstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.4: Schließung der Münstertherme im Sommer - überfraktioneller Antrag - mehrheitlich abgelehnt
+- TOP 7.5: Barbarastraße 3 - Rückbau eines abgesenkten Bordsteins - überfraktioneller Antrag - zurückgezogen
+- TOP 7.6: Markierung des Radfahrstreifens auf der Kaiser- und Fischerstraße Fahrtrichtung stadtauswärts - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Begrünung Parkhaus Carlsplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.8: Einrichtung einer E-Ladestation - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.9: Umgestaltung der Wiese vor dem Vagedes-Spielplatz - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.10: Quartiersgarage mit Mobilitäts-HUB Kleverstraße /Fischerstraße / Kaiserwerther Straße - Antrag der CDU Fraktion - mehrheitlich abgelehnt
+- TOP 7.11: Wiederherstellung einer Fahrbahn Am Wehrhahn im Abschnitt zwischen Oststraße und Jacobistraße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Künftige Gestaltung der Kasernenstraße; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/056/2023 - zur Kenntnis genommen
+- TOP 8.2: Fußweg auf der Thomasstraße; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/218/2022 - zur Kenntnis genommen
+- TOP 8.3: Planungsstand untere Oststraße/Schadowstraße; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/051/2023 - zur Kenntnis genommen
+- TOP 8.4: Zebrastreifen im Kreuzungsbereich Beuthstraße / Schirmerstraße / Schinkelstraße; Beschluss der Bezirksvertretung 1 vom 01.04.2022; BV1/064/2022 - zur Kenntnis genommen
+- TOP 8.5: Schädlingsbekämpfung am Münsterplatz; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/055/2023 - zur Kenntnis genommen
+- TOP 8.6: Sicherstellung einer Fußgängerquerungsmöglichkeit auf der Kaiserswerther Straße vor der St. Adolphus-Kirche zur anderen Seite; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/009/2023 - zur Kenntnis genommen
+- TOP 8.7: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.8: Veranstaltungen im Glashaus auf dem Worringer Platz; Beschluss der Bezirksvertretung 1 vom 24.03.2023; BV1/081/2023 - zur Kenntnis genommen
+- TOP 8.9: Aufwertung des Liesegang-Denkmals und des Standortes; Beschluss der Bezirksvertretung 1 vom 24.03.2023; BV1/079/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Eine Welt Forum e.V. - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an SSC Group GmbH - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Düsseldorfer Drogenhilfe e.V. - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Alde Düsseldorfer Bürgergesellschaft von 1920 e.V. - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bankstraßenfest - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an AStA Hochschule Düsseldorf - einstimmig beschlossen
