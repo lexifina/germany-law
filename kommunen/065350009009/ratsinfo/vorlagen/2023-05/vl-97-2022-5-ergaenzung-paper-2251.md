@@ -1,0 +1,20 @@
+# Antrag der GRÜNEN-Fraktion auf Erstellung eines Entwicklungskonzeptes für die Innenstadt
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-97/2022 5. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-05-08
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbTD51J4db4dFpQucCNZj3Y
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2251
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag der GRÜNEN-Fraktion auf Erstellung eines Entwicklungskonzeptes für die Innenstadt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfTQIV3-frkTGI4HF1DxD3LIkgQ06uG7qP0aMP7ZXOxO/Beschlussvorlage_VL-97-2022_5._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag GRÜNEN-Fraktion) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXYDG4bkbZCGYjfk7V9Zt39F8aCsxltIt0bCxtyghyPn/Antrag_GRUeNEN-Fraktion.pdf
+- Anlage: Beschlussvorlage (220613_NHW_Präsentation_Homberg - Herr Schlindwein) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRGp1sSDWFZLHwTGx5u2eDBHPn7oVcE9uMVBBJAsg33w/220613_NHW_Praesentation_Homberg_-_Herr_Schlindwein.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/989 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/997 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1012 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1019 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1032 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1104 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-11
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-17
