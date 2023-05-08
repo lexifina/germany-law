@@ -1,0 +1,122 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-05-08T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Anliegen am Quartiersplatz Theresienhöhe/ Bahndeckel
+- TOP 2.2.: Verkleinerung des städtischen Hortes am Gotzinger Platz
+- TOP 2.3.: Baustellenbeleuchtung Plinganser Schule/ Dieter-Hildebrandt-Schule
+- TOP 2.4.: Kommerzielle Veranstaltungen auf der Theresienwiese
+- TOP 2.5.: Radabstellanlage Thalkirchnerstr. 101 Ecke Königsdorfer Straße
+- TOP 2.6.: Busspur und "Geisterradfahrer" Harras
+- TOP 2.7.: Nutzung der Stemmerwiese für Kindergartenfest
+- TOP 2.8.: Tauben-Fütterung in der Ecke Alram-/ Danklstraße
+- TOP 2.9.: Parksituation am Margarethenplatz
+- TOP 2.10.: Parksituation in Mittersendling/ Obersendling
+- TOP 2.11.: Straßenbegleitgrün und Insektenweide in der Implerstraße auf Höhe der Oberländerstraße
+- TOP 2.12.: Müllproblematik in der Spitzwegstraße
+- TOP 2.13.: Schäftlarnstraße Vermessung, LKW-/ und Busverkehr und Tempo-30-Zone
+- TOP 2.14.: Betreuungsbedarf nach der Schule für Alleinerziehende
+- TOP 2.15.: Umplanung Flössergasse und Neugestaltung Neuhofener Platz
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Verbesserungsvorschläge und Erweiterung des Angebotes der Freizeitsportanlage Wacker
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Öffentlichkeitsbeteiligung Bebauungsplan Nr. 2177 Kapellenweg (südlich), Gleisanlage (südwestlich und westlich), Flurstücke 10436 (Teilfläche) und 10436/3 (Teilfläche) Gemarkung München Sektion VI (nördlich), Implerstraße (östlich)
+- TOP 4.3.3.: Baumentfernung in der Grünanlage Neuhofen Nord
+- TOP 4.3.4.: Planfeststellungsbeschluss "Änderung der Eisenbahnüberführung über die Lindwurmstraße"
+- TOP 4.3.5.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 4.3.6.: Neue Sitzbank in der Karwendelstraße am Eingang des Sendlinger Friedhofes [Seniorenvertretung]
+- TOP 4.3.7.: Sitzbank an der Ecke Valley/ Danklstraße
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Kaputte Bank an der Meindlstraße
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Änderung der Parkplatzanordnung in der Flößergasse (im 6. Stadtbezirk - Sendling) Empfehlung Nr. 20-26 / E 00905 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 24.10.2022
+- TOP 5.1.2.: (E) + (U) Fahrradweg entlang der Schäftlarnstraße ausbauen Empfehlung Nr. 20-26 / E 00996 der Bürgerversammlung des 06. Stadtbezirkes Sendling am 25.10.2022
+- TOP 5.1.3.: Warenauslage in der Fallstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: MVG-Leistungsprogramm 2024: Anhörung der Bezirksausschüsse
+- TOP 5.2.2.: Konzert Sendlinger Kulturschmiede am Sendlinger Kirchplatz am 24.06.2023
+- TOP 5.2.3.: Straßenfest Sendlinger Kulturschmiede in der Daiserstaße am 29.07.2023
+- TOP 5.2.4.: Planungen des Lizenzgebietes Mittersendling & Anhörung zu verkehrsrechtlicher Anhörung im Parklizenzgebiet Karwendelstraße
+- TOP 5.2.5.: Sommerfest KiGa Flaucherfüchse Am Isarkanal/ Ecke Hans-Preißinger-Straße am 08.07.2023 (Ersatztermin: 14.07.)
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: 8. Fortschreibung des Luftreinhalteplans; Erweiterung der Umweltzone inkl. Dieselfahrverbot; verkehrsrechtliche Anordnung der Beschilderung
+- TOP 5.3.2.: Verkehrsrechtliche Anordnung Hans-Preißinger-Straße (Ostseite)in Höhe Hs.Nr.16 Bewohnerparken
+- TOP 5.3.3.: Zukünftige Beschilderung der Fahrradabstellanlagen/Abstellanlagen für Lastenräder
+- TOP 5.3.4.: Verkehrsrechtliche Anordnung Aberlestraße, Alramstraße, Danklstraße - 110 kV-Leitung - Verlängerung
+- TOP 5.3.5.: Ladesäulen für Elektroautos für Elektroautos im Bereich Wink-/ Pfeufer-/ Baumgartnerstraße
+- TOP 5.3.6.: Sommertreff Mütterzentrum Sendling am Dietramszellerplatz vom 02.05. bis 29.09.2023
+- TOP 5.3.7.: Bescheid Ferienfreizeit "Die Surfskate Bande"(Stadtbezirke 06, 09, 22, 24) im Zeitraum 10.04.-01.11.2023
+- TOP 5.3.8.: Bescheid Freibierausschank und Festumzug zum 57. Frühlingsfest auf der Theresienwiese
+- TOP 5.3.9.: Interims-Gasteig: Antrag zur Verkehrssituation
+- TOP 5.3.10.: Container auf dem Parkplatz am Gotzinger Platz für Sendlinger Künstler*innen als bezahlbare Ateliers aufstellen
+- TOP 5.3.11.: Wiederherstellung und vollständige Erweiterung des Fahrradweges in der Tumblingerstraße Sitzungsvorlage Nr. 20-26 / V 08473
+- TOP 5.3.12.: Antrag auf weitere Fahrradstellplätze vor der Grundschule Pfeuferstraße
+- TOP 5.3.13.: Erneuerung der „Fahrradstraße"-Piktogramme auf der Meindlstraße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verkehrsberuhigung und Vermeidung von Schleichverkehr in der Esswurmstraße durch Diagonalsperren [Die Grünen]
+- TOP 5.4.2.: Fahrradabstellanlagen im Bereich Schäftlarnstraße [Die Grünen]
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Isarlust e.V. Kulturprogramm auf der Braunauer Eisenbahnbrücke „Die grüne Brücke“ vom 01.05. bis 31.12.2023 10.000,00 Euro; Az. 0262.0-6-0417
+- TOP 6.1.2.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor „A River Happening“ im Mai und November 2023 5.000,00 € / Az.: 0262.0-6-0416
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Perspektivwechsel“ “Perspektivwechsel am 19.05.2023“ 450,00 € / AZ: 0262.0-6-0421
+- TOP 6.1.4.: (E) Stadtbezirksbudget Green City e.V. “Wanderbaumallee in der Oberländerstraße vom 21.06.2023 – 31.12.2023“ 2.448,75 € / AZ: 0262.0-6-0422
+- TOP 6.1.5.: (E) Stadtbezirksbudget Alten- und Service- Zentrum Sendling (Träger: AWO Kreisverband München-Stadt e.V.) “Jubiläum ASZ Sendling am 23.06.2023“ 2.375,00 € / AZ: 0262.0-6-0424
+- TOP 6.1.6.: (E) Stadtbezirksbudget animato münchner orchester e.V. “Vorbereitung für das Konzert in der Himmelfahrtskirche in Sendling am 01.07.2023“ 565,00 € / AZ: 0262.0-6-0425
+- TOP 6.1.7.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. “Fest des jüdischen Lebens am 12.05.2023“ 500,00 € / AZ: 0262.0-6-0423
+- TOP 6.1.8.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. “Sommer-Feier-Abend“ der Sendlinger Kulturschmiede in der Daiserstraße am 29.07.2023 4.610,00 € / AZ: 0262.0-6-0426
+- TOP 6.1.9.: (E) Stadtbezirksbudget Pop Up Galerie Stemmerhof “Pop Up Galerie Stemmerhof vom 01.05.2023 – 30.04.2024“ 1.819,00 € / AZ: 0262.0-6-0420
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Marktveranstaltung als Entscheidungsrecht in die BA-Satzung aufnehmen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 6.5.1.: Antrag Fest des Lebens am 12. Mai 2023 Resi-Huber-Platz
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: AKIM Bericht
+- TOP 7.3.2.: Protokoll Ran an die Stadtteil-Koffer Einführungsworkshop
+- TOP 7.3.3.: Informationsveranstaltung der Sozialreferentin für die Bezirksausschüsse am 20.03.23
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Freischankfläche Albert-Roßhaupter-Straße 3
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Einladung Ortstermine Sommerstraßen 2023 am 18.04. und 25.04.2023
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Fledermaus
+- TOP 8.3.2.: Raumanfrage für ein Blasorchester
+- TOP 8.3.3.: Unveränderte Fortführung Giesinger Stehausschank Harras
+- TOP 8.3.4.: Unveränderte Fortführung Jasmin Vietnamese Cuisine
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Sportbox für das Programm "ReStart – Sport bewegt Deutschland" [FDP & FW]
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
