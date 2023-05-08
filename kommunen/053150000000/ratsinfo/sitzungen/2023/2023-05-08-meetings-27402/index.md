@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-08T17:00:00+02:00
+- Ende: 2023-05-08T18:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27402
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27402
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage der FDP-Fraktion betreffend der Nutzung von Synergieeffekten zum Schutz der Mitarbeiterinnen und Mitarbeiter AN/0017/2023 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage betreffend "Konzept der Stadt Köln für die Einrichtung von genderneutralen Toiletten an Schulen und in städtischen Gebäuden" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage betreffend "Kostenentwicklung externe Beauftragungen 2022" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Anfrage betreffend "Durchführung des Straßenfestes zum Christopher Street Day 2024" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mündlichen Anfrage von RM Tokyürek zu "LSBTI-Aktionsplan: erste Zwischenbilanz" (Vorlage 0444/2023) - Kenntnis genommen
+- TOP 3.6: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion für die Sitzung des AVR am 08.05.2023 (AN/0789/2023) betreffend „Plätze mit besonderem Handlungsbedarf: Sachstand Container-Anlaufstelle Neumarkt“ - zurückgestellt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Kompensationszahlung für Flugreisen 2022 - Kenntnis genommen
+- TOP 4.2: Kommunalverfassungsbeschwerde und Klagen gegen Gemeindefinanzierungsgesetz - Kenntnis genommen
+- TOP 4.3: Zweiter Controllingbericht zum ersten Gleichstellungsplan 2019 - 2023 - Kenntnis genommen
+- TOP 4.4: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 4.5: Projektfortschritt NEUmarkt – Maßnahmen zur Aufwertung des Neumarkts - Kenntnis genommen
+- TOP 4.6: Disability Management und Umgang mit langzeiterkrankten Beamt*innen - Kenntnis genommen
+- TOP 4.7: Gesamtstädtisches Fördermittelmonitoring für akquirierte Fördermittel in 2022 - Kenntnis genommen
+- TOP 4.8: Status Quo-Bericht Sauberkeit - Kenntnis genommen
+- TOP 4.9: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktionen: Bündnis 90/Die Grünen, CDU und Volt betreffend "Angriffe auf Mitarbeiterinnen und Mitarbeiter der Stadt Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt in Bezug auf Angriffe auf Mitarbeiterinnen und Mitarbeiter der Stadt Köln - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Anwendungsfelder von KI in der Verwaltung" - zurückgestellt
+- TOP 6.3: Anfrage der Fraktion Die Fraktion betreffend "Werbung im Stadtraum – Stadtraum um Werbung: ein spannendes Spannungsfeld" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die FRAKTION betreffend "Werbung im Stadtraum " - Kenntnis genommen
+- TOP 6.4: Anfrage der FPD-Fraktion betreffend "An-, Ab- und Ummeldungen von Gewerbetreibenden" - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Plätze mit besonderem Handlungsbedarf: Sachstand Container-Anlaufstelle Neumarkt" - Sache ist erledigt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Stadt AG Seniorenpolitik betreffend "Öffnung der Bezirksrathäuser" - Sache ist erledigt
+- TOP 8.2: Antrag der Stadt AG Seniorenpolitik betreffend "Niederflur Stadtbahnfahrzeug (Arbeitstitel NF12) Hier: nicht gegebene Barrierefreiheit im Modell Stand 28.07.2022" - Sache ist erledigt
+- TOP 8.3: Antrag der Fraktionen: Bündnis 90/Die Grünen, CDU und Volt betreffend "Qualifizierung für Mitarbeiter*innen mit Bürger*innenkontakt" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen: Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP und Volt betreffend "Übernahme von Auszubildenen mit Behinderung" - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktionen: Bündnis 90/Die Grünen, CDU und Volt betreffend "Nachhaltige Vergabe" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Stellungnahme zum Antrag der SPD-Antrag "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion die Linke betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion betreffend "Außengastronomie –Wetterschutzelemente langfristig sichern" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis/90 Die Grünen, CDU, FDP und Volt betreffend "Wetterschutzelement Außengastronomie" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Freigabe und Verteilung der über den politischen Veränderungsnachweis bereitgestellten 80.000 € für die Maßnahme „Interkulturelle Öffnung der Verwaltung (externe Beratung)“ - geändert beschlossen
+- TOP 10.2: Änderungssatzung zur Friedhofsgebührensatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik - Öffnung aller Ämter - geändert beschlossen
+- TOP 10.4: Bedarfsfeststellung für die Europawahl 2024 - ungeändert beschlossen
+- TOP 10.5: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
