@@ -1,0 +1,93 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-05-08T16:00:00+02:00
+- Ende: 2023-05-08T17:40:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21241
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21241
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00312712.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Trinkwasserspender in Schulen und Einrichtungen - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Trinkwasserspender in Schulen und Einrichtungen - Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2.2: Trinkwasserbrunnen in Wuppertaler Bezirken - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Trinkwasserbrunnen in Wuppertaler Bezirken - Entgegennahme ohne Beschluss
+- TOP 2.3: Bezirksbezogene Freie Mittel der Bezirksvertretungen - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Bezirksbezogene Freie Mittel der Bezirksvertretungen - Entgegennahme ohne Beschluss
+- TOP 2.4: Ausstattung der „Goldenen Bänke“ am Von-der-Heydt-Platz - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Ausstattung der "Goldenen Bänke" am Von der Heydt-Platz - Entgegennahme ohne Beschluss
+- TOP 2.5: Alternativstandorte Autonomes Zentrum Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Alternativstandorte Autonomes Zentrum Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.6: Personalausstattung und Zuständigkeiten im Geschäftsbereich des Oberbürgermeisters - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Personalausstattung und Zuständigkeiten im Büro des Oberbürgermeisters - Entgegennahme ohne Beschluss
+- TOP 2.7: Auswirkungen des Tarifabschlusses im öffentlichen Dienst auf den Haushalt der Stadt - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Auswirkungen des Tarifabschlusses im öffentlichen Dienst auf den Haushalt der Stadt - Entgegennahme ohne Beschluss
+- TOP 2.8: Aktenverluste durch Hochwasserereignisse - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Aktenverluste durch Hochwasserereignisse - Entgegennahme ohne Beschluss
+- TOP 2.9: Sachstand und Schulbaukosten für die 7. Gesamtschule - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Sachstand und Schulbaukosten für die 7. Gesamtschule - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Weitergehender Verzicht auf beleuchtete Werbeanlagen betreffend EnSikuV
+- TOP 4: Anträge
+- TOP 4.1: Regelung des Auflassens von (Hochzeits-)tauben in Wuppertal - Antrag der CDU-Fraktion vom 05.04.2023 - geändert beschlossen
+- TOP 4.2: Prüfauftrag Brücke Saarbrücker Straße/Clef - zur Vorberatung verwiesen
+- TOP 4.3: Resolution Tempo 30 - zur Vorberatung verwiesen
+- TOP 4.4: Gemeinsame Resolution: Erfolgreiche Inklusion in Kindertagesstätten - ungeändert beschlossen
+- TOP 4.5: Resolution Aufhebung des Planfeststellungsverfahrens zum Ausbau der L419 - zur Vorberatung verwiesen
+- TOP 4.5.1: Stopp des Ausbaus der L 419 im momentan vorgesehenen Planfeststellungsverfahren - zur Vorberatung verwiesen
+- TOP 4.5.2: (Nur Hauptausschuss) Anregung gemäß § 24 GO NRW - Aufhebung des Ratsbeschlusses zum Ausbau der L419
+- TOP 4.5.3: (Nur Hauptausschuss) Anregung gemäß § 24 GO NRW - Aufhebung des Ratsbeschlusses zum Ausbau der L419
+- TOP 4.5.4: (Nur Hauptausschuss) Anregung gemäß § 24 GO NRW - Aufhebung des Ratsbeschlusses zum Ausbau der L419
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen am 11.06.2023 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.2: Denkmalbereichssatzung für den historischen Ortskern von Wuppertal-Cronenberg - vertagen
+- TOP 6.3: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.4: Satzungsbeschluss 1. Änderung der „Vorkaufssatzung BUGA“ - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung außerplanmäßiger Haushaltsmittel für einen Baukostenzuschuss zur Herrichtung eines Bibliothekstandortes am Rott, Rödiger Str. 69 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2020 des Eigenbetriebs GMW Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2020 - Entlastung des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 8.3: Weiterentwicklung der Organisationsform des GMW - Entgegennahme ohne Beschluss
+- TOP 8.4: Wirtschaftsplan 2023 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.5: Gesellschaftsvertrag der Bundesgartenschau Wuppertal 2031 gGmbH - Entgegennahme ohne Beschluss
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1251 - Karl-Bamler-Straße / Clausewitzstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 809 - Friedensstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung vom Hauptgebäude Realschule Vohwinkel, Blücherstr. 19, Wuppertal - ungeändert beschlossen
+- TOP 10.2: Fahrbahnerneuerung Schöneberger Ufer - ungeändert beschlossen
+- TOP 10.3: Erich-Fried-Gesamtschule, An der Blutfinke, Dachsanierung von den Modulbauten - ungeändert beschlossen
+- TOP 10.4: Neubauvorhaben Klingelholl - Entgegennahme ohne Beschluss
+- TOP 10.5: Gesamtsanierung der Realschule Leimbacher Straße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Standortverlagerung der Gemeinschaftshauptschule Wichlinghausen zum Schulstandort Dieckerhoffstr. 6, 42389 Wuppertal - ungeändert beschlossen
+- TOP 11.2: Restitution eines Kunstgegenstandes aus ehemals jüdischem Besitz - ungeändert beschlossen
+- TOP 11.3: Fortschreibung der Planung im Projekt Anmietung der ehemaligen Bundesbahndirektion - ungeändert beschlossen
+- TOP 11.4: Erhalt der Schulsozialarbeit in bisherigem Umfang - ungeändert beschlossen
+- TOP 11.5: Evaluation der Leitlinien Bürgerbeteiligung - Entgegennahme ohne Beschluss
+- TOP 11.6: Umgestaltung Außengelände der Station Natur und Umwelt, Mehrkosten/Bauzeitenverlängerung - ungeändert beschlossen
+- TOP 11.7: Sachstandsbericht Schlüsselprojekte - Entgegennahme ohne Beschluss
+- TOP 11.8: Verlagerung des Teilstandortes Röttgen von der städtischen Hauptschule Barmen-Südwest, Emilienstr. 36, Wuppertal ins Schulgebäude Gertrudenstr. 20 - ungeändert beschlossen
+- TOP 11.9: Einrichtung eines Taubenhauses am Döppersberg - geändert beschlossen
+- TOP 11.10: „Digitalisierung der ÖPNV-Bevorrechtigung im Rahmen des adaptiven Verkehrsmanagements der Stadt Wuppertal (digiOEPNV)'1 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Entsendungen in den Arbeitskreis der jungen lokalen und regionalen Mandatsträgerinnen und Mandatsträger beim Rat der Gemeinden und Regionen Europas (RGRE) - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.3: Neukonstituierung der Verbandsversammlung des Wupperverbandes - geändert beschlossen
+- TOP 12.4: Wahl der Vertrauenspersonen als Beisitzer/ innen des Schöffenwahlausschusses - geändert beschlossen
+- TOP 12.5: Bestellung des Vertreters der Stadt Wuppertal in den Aufsichtsräten der WSW GmbH, der WSW mobil und der AWG - ungeändert beschlossen
+- TOP 12.6: Besetzung des Aufsichtsrates der Bundesgartenschau Wuppertal 2031 gGmbH - geändert beschlossen
+- TOP 12.7: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.8: Gremienumbesetzung Ausschuss für Umwelt - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.10: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.11: Gremienbesetzung Ausschuss für Stadtentwicklung und Bauen und Ausschuss für Wirtschaft, Arbeit und Nachhaltigkeit - ungeändert beschlossen
