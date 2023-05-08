@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-08T16:00:00+02:00
+- Ende: 2023-05-08T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27703
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27703
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme der Schenkung "Schulhofumgestalltung EvT" durch den Förderverein - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Geschwindigkeitsüberschreitungen Aachener Straße in Köln-Lindenthal - Kenntnis genommen
+- TOP 7.1.2: Linien 7 und 1 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstand bei der Prüfung von Maßnahmen zur Verkehrsberuhigung in der Eckertstraße - zurückgestellt
+- TOP 7.2.2: Planungen für die Liegenschaft in der Bardenheuerstraße 9 - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Ergänzungsantrag zum KVB On Demand Angebot - endgültig zurückgezogen
+- TOP 8.1.1.1: Ersetzungsantrag zu 8.1.1 - ungeändert beschlossen
+- TOP 8.1.2: Überdachung Haltestelle Weiden Zentrum - endgültig zurückgezogen
+- TOP 8.1.2.1: Ersetzungsantrag 8.1.2 - ungeändert beschlossen
+- TOP 8.1.3: Querungssicherung Frechener Weg / Am Rapohl - ungeändert beschlossen
+- TOP 8.1.4: Überarbeitung Masterplan Beleuchtung im SB3 - geändert beschlossen
+- TOP 8.1.4.1: Ergänzungsantrag 8.1.4 - ungeändert beschlossen
+- TOP 8.1.5: Nutzung des leerstehenden Gebäudes in der Aachener Straße 443 in Braunsfeld als Wohn- und Begegnungsstätte - ungeändert beschlossen
+- TOP 8.1.6: Gelände der COLOGNE CARDINALS - zurückgestellt
+- TOP 8.1.7: Verkehrssicherheit Grünzug West - geändert beschlossen
+- TOP 8.1.8: Optimierung Kreuzung Kölner Straße/Egelspfad - ungeändert beschlossen
+- TOP 8.1.9: Aufstellung von Bänken im Hans-Groß-Park und im Stadtwald - geändert beschlossen
+- TOP 8.1.10: Antrag zur Aufstellung von mindestens drei weiteren Bänken im Hans-Groß-Park - geändert beschlossen
+- TOP 8.1.11: Gründung einer Ersatzschule/Gesamtschule in Lövenich - endgültig zurückgezogen
+- TOP 8.1.11.1: Ersetzungsantrag zu 8.1.11 - geändert beschlossen
+- TOP 8.1.12: Einbahnstraßenregelung in der Landgrafenstraße - zurückgestellt
+- TOP 8.1.13: Wiederherstellung einer Durchwegung von den Vitalisgärten - endgültig zurückgezogen
+- TOP 8.1.13.1: Ersetzungsantrag 8.1.13 - geändert beschlossen
+- TOP 8.1.14: Schutz Baumscheiben Mommsenstraße - ungeändert beschlossen
+- TOP 8.1.15: Fahrradnadeln „Im alten Steinbüchel“ - ungeändert beschlossen
+- TOP 8.1.16: Bänke auf dem Auerbachplatz - geändert beschlossen
+- TOP 8.1.16.1: Ergänzungsantrag zu 8.1.16 - ungeändert beschlossen
+- TOP 8.1.17: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Städtebauliches Planungskonzept „Neubau Justizzentrum in Köln-Sülz“ (Vorhabenbezogener Bebauungsplan) - Alternative beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fahrplanwechsel 2023 - Einrichtung einer TaxiBus-Linie in Klettenberg - ungeändert beschlossen
+- TOP 9.2.2: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 9.2.4: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - geändert beschlossen
+- TOP 9.2.4.1: Ersetzungsantrag zu 9.2.4 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Stellungnahme zu einem Antrag. Gemeinsamer Antrag Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, SPD-Fraktion und Lothar Müller /Die Linke AN/1851/2022 Wohnbebauung Alsdorfer Straße Braunsfeld/Ehrenfeld - Kenntnis genommen
+- TOP 11.2.2: Baulicher Zustand Alter Militärring - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 11.3.2: Gewässerunterhaltungsplan der StEB Köln für 2022 - 2024 - Kenntnis genommen
+- TOP 11.3.3: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 11.3.4: Temporäre Reduzierung im Busangebot der KVB - Kenntnis genommen
+- TOP 11.3.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Schutz unserer Kinder", AZ.: 192/22 - Kenntnis genommen
+- TOP 11.3.6: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 11.3.7: Sachstandsmitteilung zu den von der Bezirksvertretung Lindenthal priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
