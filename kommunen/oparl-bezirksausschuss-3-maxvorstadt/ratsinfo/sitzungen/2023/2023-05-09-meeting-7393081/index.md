@@ -1,0 +1,138 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393081
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393081
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Fahrradservicestationen an Radschnellwegen mitplanen
+- TOP 6.2.: Bearbeitung des Antrags zur Beschleunigung der Buslinie 153
+- TOP 6.3.: Maßnahmenpaket zur Beschleunigung der Buslinie 153 im Abschnitt Dachauer Straße - Nymphenburger Straße
+- TOP 6.4.: Verbannung von fossil betriebenen Laubbläsern
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Adalbertstraße 55 / Baum / Umbau Keller
+- TOP 1.1.2.: Schönfeldstr. 14 Bürger*innenanliegen vom 20.04.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Biodiversitätsfläche in der Maxvorstadt anlegen
+- TOP 1.2.2.: Antrag Grüne vom 02.05.2023 Sofortmaßnahmen für den Neureuther Platz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 13-15
+- TOP 2.1.2.: WEB-Listen der LBK: KW 13-15
+- TOP 2.1.3.: Königinstr. 35, Neubau einer Remise mit Wohnnutzung sowie eines Kellers – VORBESCHEID
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Urbanes Wohnen e.V. München, Natur-Kultur-Werkstatt Veranstaltung "Zukunft des Justizzentrums" vom 10.04. - 30.08.2023 2.000,00 Euro, Az.: 0262.0-3-0454
+- TOP 2.2.2.: (E) Stadtbezirksbudget Green City e.V. “Wanderbaumallee in der Oberländerstraße vom 21.06.2023 – 31.12.2023“ AZ: 0262.0-3-0467 / 2.448,75 €
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Königinstr. 35, Neubau einer Remise mit Wohnnutzung sowie eines Kellers – VORBESCHEID
+- TOP 3.2.2.: Fällungsantrag vom 12.04.2023 auf dem Grundstück Deroystr. 4
+- TOP 3.2.3.: Veterinärstr. 13, Fällungsantrag
+- TOP 3.2.4.: Augustenstr. 2, Fällungsantrag vom 25.04.2023
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Meldung Sturmschaden und Fällung eines Gefahrenbaumes, Neue Pinakothek
+- TOP 5.2.: Blutenburgstr. 1 a
+- TOP 5.3.: Bescheid Königinstr. 47
+- TOP 5.4.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 5.5.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 5.6.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 5.7.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen
+- TOP 5.8.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2002a Arnulfstraße (südlich) zwischen Querbahnsteig Starnberger Flügelbahnhof und dem nördlichen Vorplatz auf Flurstück 6856/97 Gemarkung München Sektion IV - Starnberger Flügelbahnhof - - Billigungsbeschluss - Stadtbezirk 02 – Ludwigsvorstadt-Isarvorstadt
+- TOP 5.9.: Stellungnahme des Münchner Forums: Hochhausstudie überarbeiten und Debatte um boden-politische, soziale und ökologische Fragen erweitern
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bürger*innenanliegen Schanigärten
+- TOP 1.1.2.: Augustenstr. 16, Die neuen Mieter im 5.
+- TOP 1.1.3.: Radweg Arnulfstraße entlang Augustiner Keller [Antrag für Pop Up Radweg statt Parkplätzen]
+- TOP 1.1.4.: Blockierte Gehwege durch falsch parkende Taxis
+- TOP 1.1.5.: Theresienstraße in 80333 München 30er Zone Bürger*innenanliegen vom 27.04.2023
+- TOP 1.1.6.: Maxvorstadt Schani Gärten Bürger*innenanliegen vom 29.04.2023
+- TOP 1.1.7.: Josephsplatz Bürger*innenanliegen vom 22.04.2023
+- TOP 1.1.8.: Permanente Tecno-Parties auf der südlichen Wiese vor der Alten Pinakothek Bürger*innenanliegen vom 22.04.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Restgehwegbreiten bei Freischankflächen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: MVG-Leistungsprogramm 2024: Anhörung der Bezirksausschüsse
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Änderung der Anliefer- und Auslieferzeiten der Gorillas in der Lothstraße BV Empfehlung Nr. 20-26 / E 01079 Sitzungsvorlage 20-26 / V 08820 Neuentscheidung (siehe Protokoll 03.23)
+- TOP 2.2.2.: Türkenstr. 96, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.3.: Türkenstr. 96, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Kleiderständer und Kleiderpuppe
+- TOP 2.2.4.: Königinstr. 35a, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Gabelsbergerstr. | Anhörung § 29 StVO für "6. Kunstarealfest" am 15./16.07.23 | Frist: 26.05.23
+- TOP 2.4.2.: Anhörung: Königsplatz (Bez. 3) Konzerte Mötley Crue und Def Leppard bzw. Peter Gabriel am 27./28.05.2023 - Termin: 12.05.2023
+- TOP 2.4.3.: Josephsplatz | Anhörung § 29 StVO für Weinfest CSU München-Josephsplatz am 15.07.2023 (Ersatztermin 22.07.2023) | Anhörungsfrist: 16.06.2023
+- TOP 2.4.4.: Anhörung: Königsplatz (Bez. 3) Konzerte Hubert von Goisern und KISS am 17./18.06.2023 – Termin: 02.06.2023
+- TOP 2.4.5.: Vorankündigung zur Anhörung Sport Scheck RUN_2.7.23
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: verkehrsrechtliche Anordnung Radschnellwegverbindung Phase 200 Lenbachplatz
+- TOP 3.2.: Eilentscheid: Anhörung VA öffentlicher Verkehrsgrund (Stadtbezirk 1,3,12) Zamanand / Corso Leopold am 13./14.05.2023 (Aufbau in Fußgängerbereichen ab 12.05.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 03.05.2023
+- TOP 3.3.: Verkehrsrechtliche Anordnung, Altstadtringtunnel Oberfläche, Oskar-von-Miller-Ring (Westportal), Prinzregentenstraße (Ostportal); Verkehrsrechtliche Regelung der Überfahrten für Einsatz- und Rettungsfahrzeuge
+- TOP 3.4.: Eilentscheid: BA-Anhörung zur Beschlussvorlage VV 26.04./PFA 2 Neubau Empfangsgebäude Hbf.
+- TOP 3.5.: Planfeststellung Ersatz des vorhandenen Empfangsgebäudes Hauptbahnhof durch einen Neubau, Abgabe der Gesamtstädtischen Stellungnahme Stadtbezirk 02 – Ludwigsvorstadt-Isarvorstadt Stadtbezirk 03 – Maxvorstadt
+- TOP 3.6.: Beratungsgremium Hauptbahnhof Bekanntgabe des Abschlussberichts zum Beratungsgremium Hauptbahnhof
+- TOP 3.7.: SWM Baumaßnahme Strom-Projekt Luitpoldstraße/Schützenstraße
+- TOP 3.8.: Haltestreifen Maillingerstraße und Nachfrage Radüberweg Nymphenburger Str.
+- TOP 3.9.: SWM Baumaßnahmen Strom-Projekt - BV Türkenstraße 71 und 74
+- TOP 3.10.: Stellungnahme zum Leistungsprogramm der MVG im Jahr 2024 des Arbeitskreis &#039;Attraktiver Nahverkehr&#039; (AAN) im Münchner Forum
+- TOP 3.11.: OB-Entscheidung vom 03.05.2023; Antrag auf Genehmigung einer Freischankfläche in Park-ständen (Schanigarten); Bar "Dont call Mama", Schellingstraße 45
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Auf dem Kinder- und Bürger*innenfest des BA 3 durch das Demokratiemobil politische Teilhabe ermöglichen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Zamanand gUG Zusammen Spielen, Lernen und Entdecken, Der Kinderbereich des Zamanand Festivals vom 13. - 14.05.2023 1.500,00 € / Az.: 0262.0-3-0464
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Dachauer Straße 98 Zirkusprojekt "Circus ZappZarap" vom 17. - 22.07.2023 6.105,00 Euro, Az.: 0262.0-3-0453
+- TOP 2.3.: Budget Kreisjugendring Spielhaus Sophienstraße neuer Ort
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Festival des gesprochenen Wortes" Festival des gesprochenen Wortes am 29. und 30.08.2023 3.490,00 € / Az.: 0262.0-3-0465
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Kunstpavillon" "Performative Positionen", Kunstpavillon im alten Botanischen Garten vom 23.06. - 23.07.2023 5.355,00 Euro, Az.: 0262.0-3-0462
+- TOP 2.3.: (E) Stadtbezirksbudget Empfangshalle GbR “Ausstellungsreihe DATING PROFILES vom 01.05.2023 – 31.10.2023“ 6.720,00 € / AZ: 0262.0-3-0466
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Vorstellung des Projekts ‚Open Air Silent Kino Königsplatz & Silent Festival“
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Präsentation Kunst Kioske
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Planungsstand Kinder- und Bürger*innenfest am 01.07.2023
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
