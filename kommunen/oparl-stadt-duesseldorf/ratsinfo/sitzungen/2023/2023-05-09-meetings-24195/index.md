@@ -1,0 +1,76 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-09T16:00:00+02:00
+- Ende: 2023-05-09T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24195
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24195
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00484742.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00484742.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00484742.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/002/2023 vom 28.02.2023 und SI-BV2/003/2023 vom 21.03.2023 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Kita Flinger Broich" - einstimmig beschlossen
+- TOP 5: Umgestaltung Kinderspielplatz Sohnstraße 1. Bauabschnitt - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Erweiterung der Fahrradsammelschließanlage am Hermannplatz zur MobilitätStation Hermannplatz - mehrheitlich beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste A) - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Diagonalparken Behrenstraße 62-78 - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 11: Förderung des Projektes „VICE_VERSA“ im onomato-Künstlerverein - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 12: Förderung des Projekts Vice Versa des onomato-Künstlerverein aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 13: Zuwendungsantrag für das [wa:Iwa:] Festival 2023 des kabawil e.V.- Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 14: Finanzielle Unterstützung der interkulturellen Workshop- und Festivalreihe 2023 des Vereins Kabawil aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 15: Bezirksbezogene Haushaltsmittel für die Festival-Reihe 2023 des Kabawil e. V. - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 16: Unterstützung des Kulturprogramms zum 43. Internationalen Straßenfest am 10. Juni 2023 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 17: Finanzielle Unterstützung des Kulturprogramms des 43. Internationalen Straßenfestes der Bürgerinitiative Flingern aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel für das Straßenfest der Bürgerinitiative Flingern - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 19: Förderung des Projektes „Parklife“ 2023 im Stadtbezirk 2 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 20: Förderung des Projekts "Parklife" 2023 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 21: Bezirksbezogene Haushaltsmittel für das Projekt PARKLIFE - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 22: Bezirksbezogene Haushaltsmittel für das Six Nations Hockey-Turnier des DSD - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 23: Finanzielle Unterstützung für die Ausrichtung des Six Nations Turniers durch den Deutschen Sportklub Düsseldorf e.V. - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 24: Unterstützung des DSD Düsseldorf für die Ausrichtung des Six Nations Turniers - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 25: Private Parkbuchten an der Luise-Rainer-Straße erkennbar markieren - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 26: Vorstellung der Ergebnisse von Check! und Recheck! für den Stadtbezirk 2 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 27: Verlegung Kinderwunschbriefkasten in den öffentlichen Raum - Antrag der FDP-Fraktion - zurückgezogen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Kosten und Erlöse der Anwohnerparkausweiszonen - Anfrage der CDU-Fraktion - beantwortet
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion - beantwortet
+- TOP 32: Treppenabgang Moschee - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Erneuerung des Brückengeländers entlang der Düssel an der Kühlwetterstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 36: Umsetzbarkeit einer Geschwindigkeitsbegrenzung auf 30 km/h für die gesamte Rethelstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Konzept „Stadtterassen“ des Zukunftsnetzes Mobilität NRW - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Aufstellung einer multifunktionalen Solarsitzbank am öffentlichen Bücherschrank - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN
+- TOP 47: Verschönerung der Stromverteilerkästen auf dem Dorotheenplatz - Anfrage der CDU-Fraktion
+- TOP 48: Parkmöglichkeiten für Besucher in Anwohnerparkgebieten - Anfrage der CDU-Fraktion
+- TOP 49: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion
+- TOP 50: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP -: Informationsvorlagen
+- TOP 51: Hellweg, alter Fahrradweg - Beschluss der Bezirksvertretung 2, Vorlage BV2/208/2021 - zur Kenntnis genommen
+- TOP 52: Fahrradampel Heinrichstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/095/2021 - zur Kenntnis genommen
+- TOP 53: Tempo 30 auf der Fichtenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/149/2022 - zur Kenntnis genommen
+- TOP 54: digitales Sitzungspaket weiterhin bereitstellen - Beschluss der Bezirksvertretung 2, Vorlage BV2/043/2023 - zur Kenntnis genommen
