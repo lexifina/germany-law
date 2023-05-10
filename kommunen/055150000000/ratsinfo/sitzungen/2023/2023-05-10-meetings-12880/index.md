@@ -1,0 +1,53 @@
+# 17. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-05-10T16:15:00+02:00
+- Ende: 2023-05-10T19:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12880
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12880
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00528462.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 10.1: Wohnraum für inklusive Wohnmöglichkeiten für Menschen mit Behinderung schaffen - verwiesen
+- TOP 11: Leitfaden Klimagerechte Bauleitplanung - zur Kenntnis genommen
+- TOP 12: Modellquartiere 1 und 2: Ergebnisse des Werkstattverfahrens - mehrheitlich geändert beschlossen
+- TOP 12.1: Modellquartiere 1 und 2: Ergebnisse des Werkstattverfahrens
+- TOP 13: Betrauungsakt der Stadt Münster für die eingetragene Genossenschaft Grüner Weiler eG, Auf dem Draun 2, 48149 Münster, als Erbbauberechtigte eines Grundstücks der KonvOY GmbH in dem Oxford-Areal. - einstimmig beschlossen
+- TOP 14: Innenstadt stärken: Qualifizierung von Innenstadträumen – erste Maßnahmen - einstimmig beschlossen
+- TOP 14.1: Innenstadt stärken: Qualifizierung von Innenstadträumen – erste Maßnahmen
+- TOP 15: Maßnahmenpaket zur Sicherung der außerunterrichtlichen Angebote (OGS) im Kontext des Fachkräftemangels - einstimmig beschlossen
+- TOP 16: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein Notbetreuung - mehrheitlich beschlossen
+- TOP 17: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS - einstimmig geändert beschlossen
+- TOP 18: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2021/2022 - einstimmig beschlossen
+- TOP 19: Wirtschaftsplan 2023/2024 des Theater Münster - mehrheitlich beschlossen
+- TOP 20: Einrichtung eines Schlichtungsmechanismus für das Jobcenter der Stadt Münster in Erweiterung der Ombudsstelle - einstimmig beschlossen
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Münster-Mitte
+- TOP 21.1.1: Bebauungsplan Nr. 575 - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 23: Öffentliche Sicherheit stärken - Vandalismus und Graffiti - verwiesen
+- TOP 24: Aufhebung des Grundsatzbeschlusses zur Einführung eines Bike Sharing Systems in Münster - mehrheitlich beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 25.1: Kommunale Armutsprävention weiterentwickeln - Kindergesundheit in den Fokus nehmen - verwiesen
+- TOP 25.2: Münsters Wasserversorgung der Zukunft sicher und umweltsensibel gestalten - verwiesen
+- TOP 25.3: Grünflächen: Ein Serviceversprechen für alle Stadtteile - Bänke, Bäume, Blumen – drei große B für Münsters Umwelt - verwiesen
+- TOP 26: Verantwortungsvolle Regulierung von Cannabis auf kommunaler Ebene – Modelvorhaben zur Abgabe von Cannabis entsprechend dem Programm des Bundes in Münster umsetzen - verwiesen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 28: Verschiedenes
