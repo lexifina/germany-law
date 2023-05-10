@@ -1,0 +1,66 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-10T17:00:00+02:00
+- Ende: 2023-05-10T19:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24104
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24104
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 am 29. März 2023 (wird nachgereicht) - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Plan-Nr. 06/028 - Gleisanlagen nördlich A44 / westlich Mühlenbroicher Weg - Empfehlung abweichend beschlossen
+- TOP 5: Städtebaulicher Vertrag zum Bebauungsplan Nr. 5779/033 - Gartenstadt Reitzenstein - abweichend beschlossen
+- TOP 6: Bebauungsplan-Vorentwurf Nr. 06/003 - Ludwig-Beck-Straße - zur Kenntnis genommen
+- TOP 7: Geothermie Rhein, Wärme aus Tiefengeothermie für die Fernwärme in Düsseldorf und Duisburg - zur Kenntnis genommen
+- TOP 8: Ersatzneubau der Straßenbrücke Liliencronstraße (BW 316) -Bedarfsbeschluss- - Empfehlung abweichend beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg
+- TOP 14: Anfrage der SPD-Fraktion: Tempo 30 in sensiblen Bereichen - schriftlich beantwortet
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Fehlende Begrünung am Rather Kreuzweg? - Parkplatz vor dem Bunker - schriftlich beantwortet
+- TOP 19: Anfrage der Fraktion BÜ90/Die Grünen: Industriedenkmäler und klimafreundliche Weiternutzung von Gebäudebestand auf dem Röhrenwerkgelände - schriftlich beantwortet
+- TOP 20: Anfrage der SPD-Fraktion: Bushaltestelle Eckenerstraße Steig 4 - Busse Richtung Westen
+- TOP -: Anfragen
+- TOP 21: Anfrage der Fraktion BÜ90/Die Grünen: Festsetzung im Bebauungsplan verletzt? Baumfällung Volkardeyer Weg - schriftlich beantwortet
+- TOP 22: Anfrage der Fraktion BÜ90/Die Grünen: Solaranlagen auf Parkplätzen und Parkhäusern der Stadt und der städtischen Töchter - schriftlich beantwortet
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Antrag (wurde bereits übersandt)
+- TOP 24: Antrag der Fraktion BÜ90/Die Grünen: Mehr Platz für Bewegung: Bolzplatz am Einbrunger Weg in Lichtenbroich - zurückgezogen
+- TOP -: Anträge
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Antrag der SPD-Fraktion: Gehwegabsenkungen im Stadtbezirk 6 - abweichend beschlossen
+- TOP 28: Antrag der SPD-Fraktion: Poller am Altkleidercontainer auf dem Segeberger Weg - vertagt
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Durchgängiger Radfahrstreifen Westfalenstraße - mehrheitlich abgelehnt
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Verkehrssicherheit der Haltestelle "An der Piwipp" - abweichend beschlossen
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Lücke im Bezirksradnetz schließen - Brücke Kürtenstraße - mehrheitlich abgelehnt
+- TOP 32: Antrag der CDU-Fraktion: Schaffung einer Quartiersgarage auf dem Vogelsanger Weg (Schützenplatz) - abweichend beschlossen
+- TOP 33: Antrag der CDU-Fraktion: Schaffung eines Quartierparkplatzes Ecke Kürtenstraße/Dorstener Straße - mehrheitlich beschlossen
+- TOP 34: Antrag der CDU-Fraktion und der FDP-Fraktion: Heinrichstraße Geh- und Radwegsituation - einstimmig beschlossen
+- TOP 35: Antrag der SPD-Fraktion: Bushaltestelle Eckenerstraße - zurückgezogen
+- TOP 36: Antrag der CDU-Fraktion: Änderung der Parkraumzone von II auf III - mehrheitlich beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 37: Zuschussvergabe 2023 Antrag des Bürger-Schützenverein 1925 e.V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag - einstimmig beschlossen
+- TOP 38: Zuschussvergabe 2023 Antrag des Marine-Tambour-Korps Düsseldorf-Unterrath - 75-jähriges Vereinsjubiläum - einstimmig beschlossen
+- TOP 39: Bauunterhaltungsmittel 2023 Teil B - sonstige städtische Einrichtungen - Projekt Blumenoasen und -schiffchen - einstimmig beschlossen
+- TOP 40: Bauunterhaltungsmittel 2023 Teil B - sonstige städtische Einrichtungen - "Bunte Bänke für Toleranz und Sichtbarkeit" - einstimmig beschlossen
+- TOP 41: Bauunterhaltungsmittel 2022 Teil B - sonstige städtische Einrichtungen - Antrag der JFE Ammerweg für die Pflege und Erneuerung der Hochbeete - Vorlage BV6/196/2022 - einstimmig beschlossen
+- TOP 42: Bauunterhaltungsmittel 2023 Teil A - städtische Schulen - Antrag des Fördervereins der Elsa-Brandström-Schule e.V. zum Bau eines Outdoorklassenzimmers - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 43: Regelwidriges und verkehrsgefährdendes Halten von Kfz auf der Herchenbachstraße und Eugen-Richter-Straße - Vorlage BV6/154/2022 - zur Kenntnis genommen
+- TOP 44: Errichtung von Sharing-Stationen/Mobilitätsstationen - Vorlage BV6/211/2022 - zur Kenntnis genommen
+- TOP 45: Einrichtung von Fahrradabstellplätzen im Bereich der Unterrather Straße/östlicher Klinkenplatz - Vorlage BV6/150/2022 - zur Kenntnis genommen
