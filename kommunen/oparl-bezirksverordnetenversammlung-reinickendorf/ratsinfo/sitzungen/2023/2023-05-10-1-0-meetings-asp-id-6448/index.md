@@ -1,0 +1,243 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-05-10T17:00:00+02:00
+- Ende: 2023-05-10T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6448
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6448
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=439199
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - erledigt
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 20. Sitzung der BVV am 10.05.2023 - erledigt
+- TOP 2.2: Wahl der Bürgerdeputierten der SPD-Fraktion - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 2.4: Wahl der Bürgerdeputierten der CDU-Fraktion - ohne Änderungen in der BVV beschlossen
+- TOP 2.5: Resolution anlässlich des IDAHOBIT am 17.05.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 2.6: Straßenumbenennung - Beteiligung der Anwohner bei geplanten Straßenumbenennungen - überwiesen
+- TOP 2.7: 20. Ehrenamtspreis der Reinickendorfer Bezirksverordnetenversammlung - überwiesen
+- TOP 2.8: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - überwiesen
+- TOP 2.9: Familienfreundlichere BVV - überwiesen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Höhengleiche Straßenüberführungen für Fußgängerwege - beantwortet
+- TOP 3.2: Barrierefreier Ausbau von Bushaltestellen - beantwortet
+- TOP 3.3: Unhaltbare Zustände am Schäfersee - beantwortet
+- TOP 3.4: Der Schäfersee und seine Besucher - beantwortet
+- TOP 3.5: Schulwegsicherheit in Reinickendorf - gegenstandslos
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 20. Sitzung der BVV vom 10.05.2023 - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Netzwerk Frauengesundheit Berlin - beantwortet
+- TOP 5.2: Mensabau an der Münchhausen-Grundschule - beantwortet
+- TOP 5.3: Gehwege Veitstraße - beantwortet
+- TOP 5.4: Demokratieverständnis des Bezirksamtes - beantwortet
+- TOP 5.5: Wie geht's weiter mit dem runden Tisch zum Waldseeviertel? - beantwortet
+- TOP 5.6: Konzept Heinsestraße - beantwortet
+- TOP 5.7: Stand der Stellenbesetzung im Wohnungsamt - beantwortet
+- TOP 5.8: Parken von Pendlern in Außenbezirken - beantwortet
+- TOP 5.9: Anbindung des Strandbades Tegelsee an den ÖPNV - beantwortet
+- TOP 5.10: Freigabe von Radverkehrsanlagen - schriftlich beantwortet
+- TOP 5.11: Wohnungsbaupotenziale - schriftlich beantwortet
+- TOP 5.12: Fahrradparkhaus S-Bhf Hermsdorf - schriftlich beantwortet
+- TOP 5.13: Ab ins B! - schriftlich beantwortet
+- TOP 5.14: Städtepartnerschaft - schriftlich beantwortet
+- TOP 5.15: Wohnungsbau auf dem KaBoN Gelände - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Rechtssicheres Vorgehen gegen illegal aufgestellte Altkleider Container auf privatem Grund (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.2: Erstellung einer Dunkelfeldstudie (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.3: Stärkung von nichtdeutschen Erstsprachen (Muttersprachen) in der Kita (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Die Beete der Greenwichpromenade sanieren - ein Aushängeschild Reinickendorfs erhalten (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Ein Masterplan für das KaBoN-Gelände (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Präventionsarbeit zu Suchtmitteln und Konsum in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 6.7: Stand Großer Verkehrsprojekte in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.8: Kinder- und Jugendschutz in Reinickendorf (Große Anfrage) - vertagt
+- TOP 6.9: Runder Tisch zur Elisabeth-Aue, Reinickendorf vor weiterer Verkehrsbelastung schützen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.10: Katastrophenschutz in Reinickendorf sicherstellen (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.11: Ersuchen: Einrichtung der Personalstelle einer/-s Beauftragten für Gute Arbeit in Reinickendorf im Jahr 2023 (Beschlussempfehlung) - überwiesen
+- TOP 6.12: Einsetzung eines temporären Ausschusses "Sauberes Reinickendorf" (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.13: Radweg in der Humboldtstraße sanieren (Beschlussempfehlung) - vertagt
+- TOP 6.14: Verbesserung der Deutschkenntnisse in Reinickendorfer Kindergärten (Beschlussempfehlung) - vertagt
+- TOP 6.15: Umbenennung der Walderseestraße (Beschlussempfehlung) - vertagt
+- TOP 6.16: Aktionsplan Sauberes Reinickendorf (Große Anfrage) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Grünpfeil für Radfahrerinnen und Radfahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Nachbesserung des Fotoautomaten in Raum 002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Unterbringungsmöglichkeiten für Geflüchtete ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Strandbad Tegelsee dauerhaft anfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Stromspar-Check - Stromsparhelfer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Koordinierungsstelle für Umweltbildung einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Einbürgerungsfeiern in Reinickendorf endlich wieder durchführen - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Kontaktloses Bezahlen ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Spielplatzkommission konsequent in Prozesse einbinden - überwiesen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Förderung von Präventionsangeboten für Kinder und Jugendliche - überwiesen
+- TOP 13.2: Parkour-Anlagen - überwiesen
+- TOP 13.3: CO² mindern, Straßenbäume retten - überwiesen
+- TOP 13.4: Halteverbot Regenwalder Weg/Stolpmünder Weg - überwiesen
+- TOP 13.5: Veröffentlichung bezirkseigener Energiedaten - überwiesen
+- TOP 13.6: Parkplätze im Märkischen Viertel - überwiesen
+- TOP 13.7: Mobilfunkversorgung in Heiligensee - überwiesen
+- TOP 13.8: Tagesmütter/-väter auf der Website des Bezirks verankern - überwiesen
+- TOP 13.9: Die bestehenden Fahrradwege in Alt-Heiligensee sanieren - überwiesen
+- TOP 13.10: Prävention Jugendgewalt - überwiesen
+- TOP 13.11: Safe-Space für Drogenkonsum - überwiesen
+- TOP 13.12: Parkplätze in der Veitstraße erhalten - überwiesen
+- TOP 13.13: "Frostschutzengel" in den Strukturen von Reinickendorf etablieren - überwiesen
+- TOP 13.14: Multiplikatoren für nachhaltige Entwicklung ausbilden - überwiesen
+- TOP 13.15: Klimaneutrale und umweltfreundliche Sportstätten - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Instandsetzung des Weges an der Ecke Konradshöher Straße und Heiligenseestraße - überwiesen
+- TOP 14.2: Projektförderungen in der Rollberge-Siedlung - überwiesen
+- TOP 14.3: neue Unterstellmöglichkeit für die Freiwillige Feuerwehr Wittenau - überwiesen
+- TOP 14.4: Bedürfnisanstalten auf dem Uferwanderweg zwischen Heiligensee, Konradshöhe, Tegelort - überwiesen
+- TOP 15: Wahl von zwei Schriftführern/zwei Schriftführerinnen in den Vorstand der BVV - erledigt
+- TOP 16: Offene Drucksachen aus den Ausschüssen im Hinblick auf die sachliche Kontinuität der BVV aufgrund der Wiederholungswahlen vom 12.02.2023 Die Drucksachen stehen lediglich für die erneute Überweisung in die Fachausschüsse auf der Tagesordnung, weswegen diese nicht als Ausdruck zur Verfügung gestellt werden. Bei Bedarf können die aktuellen Lebensläufe selbstständig ausgedruckt werden. - (offen)
+- TOP 16.1: Verlegung Bushaltestelle 125er / Zeltinger Platz - überwiesen
+- TOP 16.2: Asphaltierte Fußübergänge in Alt-Tegel - überwiesen
+- TOP 16.3: S-Bahnbahnhofdächer für Photovoltaikanlagen und Bienenlandschaften nutzen - überwiesen
+- TOP 16.4: Verkehrsberuhigter Geschäftsbereich Heinsestraße - überwiesen
+- TOP 16.5: Verkehrszählgeräte - überwiesen
+- TOP 16.6: Übernahme der Unterhaltung der zukünftigen Hochwasserschutzanlage im Bereich ehemaliger Mäckeritzgraben durch den Bezirk - überwiesen
+- TOP 16.7: Hochwasserschutz in den Mäckeritzwiesen - überwiesen
+- TOP 16.8: Anbindung des Schumacher Quartiers an den ÖPNV - überwiesen
+- TOP 16.9: Vorratsbauwerk für U6-Abzweig zur UTR bei Neubebauung des Einkaufszentrums Der Clou berücksichtigen - überwiesen
+- TOP 16.10: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen I - überwiesen
+- TOP 16.11: Mehr Parkmöglichkeiten für Dienstleister im Schumacher Quartier - überwiesen
+- TOP 16.12: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen II - überwiesen
+- TOP 16.13: Durchquerungsmöglichkeiten für Flughafengebiet - überwiesen
+- TOP 16.14: Rückkehr des Schrägparkens in Alt-Wittenau - überwiesen
+- TOP 16.15: mehr Mülleimer für den Zabel-Krüger-Damm - überwiesen
+- TOP 16.16: Radwanderrouten wieder einführen - überwiesen
+- TOP 16.17: Mobilität in Reinickendorf sichern, Verkehrsbelastung verringern - überwiesen
+- TOP 16.18: Temporäres Halteverbot vor der Kita Havelmäuse - überwiesen
+- TOP 16.19: Bau eines Spielplatzes im Ortsteil Lübars - überwiesen
+- TOP 16.20: Verlängerung der Heinz-Brandt-Straße zur Verkehrsentlastung des Wilhelmsruher Damms - überwiesen
+- TOP 16.21: Modernisierungsschub S-Bahnhof Alt-Reinickendorf - überwiesen
+- TOP 16.22: Hisst die Segel für 700 Jahre Tegel - Fahnenmasten in der Berliner Straße in Tegel zum Jubiläum beflaggen - in der BVV zurückgezogen
+- TOP 16.23: Warenanlieferung in Alt-Tegel neu organisieren - überwiesen
+- TOP 16.24: Moderne Ladeinfrastruktur für leichte e-Mobility - überwiesen
+- TOP 16.25: Das denkmalgeschützte Alt-Lübars umfahren! - überwiesen
+- TOP 16.26: Elektrokleinbusse für Randortsteile einsetzen - überwiesen
+- TOP 16.27: Burgfrauenstraße I - überwiesen
+- TOP 16.28: Burgfrauenstraße II - überwiesen
+- TOP 16.29: Umsteigepunkt U-Bahnhof Alt-Tegel barrierefrei umgestalten - überwiesen
+- TOP 16.30: Mehr Sauberkeit an der Großen Malche in Tegel - überwiesen
+- TOP 16.31: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - überwiesen
+- TOP 16.32: Hybrid-Oberleitungsbus zwischen Spandau und dem Schumacher Quartier - überwiesen
+- TOP 16.33: Paralleler Radweg zur Heidekrautbahn zwischen MV und Wilhelmsruh - überwiesen
+- TOP 16.34: Bericht Krebs in Berlin fortschreiben - überwiesen
+- TOP 16.35: SimRa: Sicherheit im Radverkehr - überwiesen
+- TOP 16.36: Zebrastreifen für den Waldsee-Spielplatz errichten - überwiesen
+- TOP 16.37: Projekt Laternen-Ladesäulen in Reinickendorf etablieren - überwiesen
+- TOP 16.38: Geschwindigkeitsanzeige am Waldsee reparieren - überwiesen
+- TOP 16.39: Fußgängerzone Gorkistraße - Überdachung und Sitzplätze für die Bushaltestelle Buddestraße - überwiesen
+- TOP 16.40: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße - überwiesen
+- TOP 16.41: Sichere Kitawege in Reinickendorf - überwiesen
+- TOP 16.42: Fußgängerzone Gorkistraße - Errichtung eines Bodenleitsystems für Menschen mit Sehbehinderung - überwiesen
+- TOP 16.43: Barrierefreiheit am S-Bahnhof Hermsdorf fördern - überwiesen
+- TOP 16.44: Instandsetzung und Pflege der Reinickendorfer Radwege Nr. 1 - 6 - überwiesen
+- TOP 16.45: Schul- und Kitawegsicherung am Waidmannsluster Damm - überwiesen
+- TOP 16.46: Fußgängerzone Gorkistraße - Außenbereich für die Tegeler Markthalle schaffen - überwiesen
+- TOP 16.47: Anpassung der Parkplatzkapazitäten für PKW im Bereich der Cité Foch - überwiesen
+- TOP 16.48: Ausfahrten durch gestrichelte Wartelinie an der Holzhauser Straße erleichtern - überwiesen
+- TOP 16.49: Ehrenamtliche Patientenfürsprecher auch in Pflegeheimen einsetzen - überwiesen
+- TOP 16.50: Zusätzliche Fahrradständer vor EDEKA am Falkenplatz aufstellen - überwiesen
+- TOP 16.51: Eindeutige Beschilderung für Fußgänger und Radfahrer entlang der Greenwichpromenade - überwiesen
+- TOP 16.52: Bessere Sichtbarkeit von Bikerepair-Stationen im Bezirk - überwiesen
+- TOP 16.53: BVG-Haltestellenhäuschen an der Buddestraße - überwiesen
+- TOP 16.54: Mehr PKW-Parkplätze in Reinickendorf West - überwiesen
+- TOP 16.55: Hinweisschilder zur Wahrung des Ökosystems Tegeler Fließ - überwiesen
+- TOP 16.56: BVG-Haltestelle "Marthastraße" aufwerten I - überwiesen
+- TOP 16.57: Modalfilter im Hubertusweg - überwiesen
+- TOP 16.58: BVG-Haltestelle "Marthastraße" aufwerten II - überwiesen
+- TOP 16.59: Sitzbänke für den Fellbacher Platz - überwiesen
+- TOP 16.60: Verbesserung von P+R-Angeboten im Bezirk - überwiesen
+- TOP 16.61: Haltestelle Buddestraße mit Daisyanzeiger oder einer entsprechenden Anlage versehen - überwiesen
+- TOP 16.62: Verwahrloste Telefonzellen instand setzen - überwiesen
+- TOP 16.63: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule - überwiesen
+- TOP 16.64: Rettungswegsicherung - überwiesen
+- TOP 16.65: Südliche Einfahrt zum Bahnhofsplatz in Hermsdorf für Verkehr unterbinden - überwiesen
+- TOP 16.66: Barrierefreiheit für Sehbehinderte und Senior:innen im öffentlichen Straßenland verbessern - überwiesen
+- TOP 16.67: Bolzplatz für die Kolumbus-Grundschule - überwiesen
+- TOP 16.68: Querungshilfe Bernstorffstraße - überwiesen
+- TOP 16.69: Querungshilfe Buddestraße - überwiesen
+- TOP 16.70: Sondergenehmigung für erweiterte Schankvorgärten für die Gastronomie bis 31.12.2023 verlängern - überwiesen
+- TOP 16.71: Schildower Weg in seinen historischen Zustand wieder herrichten - überwiesen
+- TOP 16.72: Beleuchtung am Schäfersee verbessern! - überwiesen
+- TOP 16.73: Tempo 30 auf der Straße Alt-Lübars ausweiten - überwiesen
+- TOP 16.74: Alternativen für Radfahrende in Hermsdorf - überwiesen
+- TOP 16.75: Schulwegsicherheit durch verkehrsberuhigende Maßnahmen erhöhen - überwiesen
+- TOP 16.76: Barrierefreiheit am Hermsdorfer Bahnhofplatz erhöhen - überwiesen
+- TOP 16.77: Beleuchtung Schramberger Straße - überwiesen
+- TOP 16.78: Förderung des Radverkehrs in der Grußdorfstraße - überwiesen
+- TOP 16.79: Sicheres Überqueren der Frohnauer Straße für Fußgängerinnen und Fußgänger Höhe Welfenallee - überwiesen
+- TOP 16.80: Barrierefreie Anbindung der neuen Wohnungen (ehemalige "Sternhäuser") im Bereich des KaBoN Geländes mit dem U- und S-Bahnhof Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 16.81: Allee zum Rathaus - überwiesen
+- TOP 16.82: Scherben vor Altglascontainern - Gefahr für Radfahrende - überwiesen
+- TOP 16.83: Verbessertes Anfahren des Busses - Haltestelle "Granatenstraße" - überwiesen
+- TOP 16.84: Verkehrssicherheit in der Straße "Am Vierrutenberg" - überwiesen
+- TOP 16.85: Reinickendorf zur "Age-friendly-City" machen! - überwiesen
+- TOP 16.86: Fußgängerfreundliche Ampelschaltung - Wilhelmsruher Damm/U8-Aufzug - überwiesen
+- TOP 16.87: Mehr Planbetten im Bereich der Gerontopsychiatrie im Dominikus Krankenhaus im nächsten Krankenhausplan einstellen - überwiesen
+- TOP 16.88: Hyperlokale Impfkampagne in Reinickendorf starten - überwiesen
+- TOP 16.89: Östlichen Eingang des Kienhorstparks wieder herrichten - überwiesen
+- TOP 16.90: Für mehr Sauberkeit - Taubenbefall am S-Bahnhof Frohnau bekämpfen - überwiesen
+- TOP 16.91: Trampelpfad in der Grünanlage am Seggeluchbecken wieder begrünen - überwiesen
+- TOP 16.92: Illegales Befahren der Grünanlagen am Dannenwalder Weg verhindern - überwiesen
+- TOP 16.93: Sicherheit für fahrradfahrende Kinder erhöhen - überwiesen
+- TOP 16.94: Mülleimer am Nordgraben für mehr Sauberkeit (wieder) installieren - überwiesen
+- TOP 16.95: Halteverbot im Abbiegebereich Brunowstraße Ecke Buddestraße in Tegel ausweiten und durch "Zick-Zack-Linie" verdeutlichen - überwiesen
+- TOP 16.96: Baumscheiben in der Berliner Straße in Tegel auffüllen und neu gestalten - überwiesen
+- TOP 16.97: Fahrradbügel auf der Frohnauer Brücke errichten - überwiesen
+- TOP 16.98: Fußgängerzone Gorkistraße - Spielangebote für Familien mit Kindern schaffen - überwiesen
+- TOP 16.99: Mehr Sicherheit am Hermsdorfer S-Bahnhof - überwiesen
+- TOP 16.100: Mehr Verkehrssicherheit am Hermsdorfer Damm - überwiesen
+- TOP 16.101: Barrierefreier Übergang zum Dorfanger und zur Dorfkirche Alt-Tegel - überwiesen
+- TOP 16.102: Fahrradständer am Fähranleger zur Insel Scharfenberg erneuern - überwiesen
+- TOP 16.103: Dialog-Displays in der Finsterwalder Straße vor der Schule "Campus Hannah Höch" - überwiesen
+- TOP 16.104: 20 Betten im stationären psychiatrischen Bereich in ambulante Plätze der Tagesklinik im Humboldt-Klinikum umwandeln - überwiesen
+- TOP 16.105: Mehr Sicherheit am Fußgängerüberweg Heinsestraße - überwiesen
+- TOP 16.106: Heidekrautbahn über den Mauerweg führen - überwiesen
+- TOP 16.107: Spielplatz im Steinbergpark erneuern - überwiesen
+- TOP 16.108: Gemeinsam gegen Blutkrebs - überwiesen
+- TOP 16.109: Skaterpark im Märkischen Viertel ausbessern - überwiesen
+- TOP 16.110: City-Trees für Reinickendorf - überwiesen
+- TOP 16.111: Gewässerschutz in Reinickendorf forcieren - überwiesen
+- TOP 16.112: Nachhaltigen Tourismus in Reinickendorf stärken - überwiesen
+- TOP 16.113: Mehr Schwimmzeiten für die öffentliche Daseinsvorsorge - überwiesen
+- TOP 16.114: Busse nach Scharfenberg für Fahrten nach Tegel nutzen - überwiesen
+- TOP 16.115: Rufbus für Reinickendorf - überwiesen
+- TOP 16.116: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (I und II) - überwiesen
+- TOP 16.117: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (III) - überwiesen
+- TOP 16.118: Jahresbericht der Patientenfürsprecherin aus dem Krankenhaus des Maßregelvollzugs (KMV) für den Zeitraum 15.06. bis 31.12.2022 - überwiesen
+- TOP 16.119: Blumenbeet am Nordgraben instandsetzen - überwiesen
+- TOP 16.120: Schulwegsicherung in Heiligensee - überwiesen
+- TOP 16.121: Fehlende Müllbehälter an den Sitzbänken im Grünstreifen der Techowpromenade - überwiesen
+- TOP 16.122: Straßenschild Möbelweg vergrößern - überwiesen
+- TOP 16.123: Busspur in der Berliner Straße in Tegel - überwiesen
+- TOP 16.124: Vermüllung hinter dem BSR-Recyclinghof beenden - überwiesen
+- TOP 16.125: Mülleimer am Nordgraben wieder aufstellen - überwiesen
+- TOP 16.126: Sitzbänke an der Bushaltestelle Otisstraße/Quäkerstraße erneuern - überwiesen
+- TOP 16.127: Verkehrssicherheit in der Waldstraße - überwiesen
+- TOP 16.128: Parkanlage in Reinickendorf-Ost zwischen S-Bahnhof Schönholz und der Kreuzung Seebeckstraße/Sommerstraße besser ausleuchten - überwiesen
+- TOP 16.129: Jahresbericht des Patientenfürsprechers aus der Caritas Klinik Dominikus für den Zeitraum 01.01. bis 31.12.2022 - überwiesen
+- TOP 16.130: Mehr Sicherheit für Fußgänger und Radfahrer - überwiesen
+- TOP 16.131: Verkehrssicherheit im Öschelbronner Weg erhöhen - überwiesen
+- TOP 16.132: Untersuchungen für Jugendliche - überwiesen
+- TOP 16.133: Kampf dem illegalen Müll in Reinickendorf - überwiesen
+- TOP 16.134: Sozialberatungen für Senior*innen ausweiten - überwiesen
+- TOP 16.135: Baustellenführungen sicherer gestalten - überwiesen
+- TOP 16.136: Knochenmark- und Organspende unterstützen - überwiesen
+- TOP 16.137: Hitzehilfe für obdachlose Menschen in Reinickendorf - überwiesen
+- TOP 16.138: Erfassung von Entsiegelungspotentialen - überwiesen
