@@ -1,0 +1,69 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2023-05-10T17:00:00+02:00
+- Ende: 2023-05-10T19:45:00+02:00
+- Ort: Rathaus
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4948
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4948
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 01.02.2023 (öffentlicher Teil)
+- TOP 4: Förderantrag auf Wiederaufbauhilfe zur Bewältigung der Folgen der Hochwasserkatastrophe im Juli 2021
+- TOP 5: Änderung der Schulart der Städtischen Katholischen Grundschule Düppelstraße in eine Gemeinschaftsgrundschule zum Schuljahr 2023/2024
+- TOP 6: Erlass einer Satzung zur Durchführung einer Befragung zur Erstellung eines qualifizierten Mietspiegels für die Stadt Aachen
+- TOP 6.1: Erlass einer Satzung zur Durchführung einer Befragung zur Erstellung eines qualifizierten Mietspiegels für die Stadt Aachen
+- TOP 7: Monheimsallee im Bereich ehem. Knappschaftsgebäude / Stadtgarten 1. Aufhebungsbeschluss A 195 -Monheimsallee- 2. Aufhebung der Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Monheimsallee/ Stadtgarten
+- TOP 8: Veränderungssperre für das Grundstück Grünenthaler Straße Gemarkung Richterich, Flur 4, Flurstück 2481 im Stadtbezirk Aachen-RichterichVerlängerung der Geltungsdauer der Veränderungssperre
+- TOP 9: Vorhabenbezogener Bebauungsplan Nr. 991 - Franzstraße / Ehemalige Schule - hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB
+- TOP 10: Vorhabenbezogener Bebauungsplan Nr. 992 - Roermonder Straße / Rütscher Straße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+- TOP 10.1: Vorhabenbezogener Bebauungsplan Nr. 992 - Roermonder Straße / Rütscher Straße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+- TOP 10.2: Vorhabenbezogener Bebauungsplan Nr. 992 - Roermonder Straße / Rütscher Straße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+- TOP 11: Wahl des Ausschusses beim Amtsgericht, der die Schöffinnen und Schöffen für die Geschäftsjahre 2024-2028 aus der Vorschlagsliste wählt und der über etwaige Einsprüche gegen die Vorschlagsliste zu entscheiden hat
+- TOP 12: Ratsantrag der SPD-Fraktion, Nr. 159/18 vom 29.06.2021 "Eine Spielplatzkommission für Aachen"
+- TOP 13: Bericht über die Prüfung des Jahresabschlusses 2021
+- TOP 14: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 14.1: Überplanmäßige MittelbereitstellungHier: Sanierung des Kunstrasenplatzes auf der Sportanlage Wolferskaul
+- TOP 14.2: Städtebaulicher Vertrag Geschwister-Scholl-StraßeBereitstellung überplanmäßiger Mittel
+- TOP 14.3: Sanierung Forsthaus Grüne Eiche
+- TOP 15: Umwandlung der bisherigen Rechtsform des NRW KULTURsekretariats in einen Zweckverband
+- TOP 16: Wege gegen das Vergessen - zwei zu veröffentlichende Erinnerungstafeln
+- TOP 17: Wege gegen das Vergessen - Korrektur zweier Texte der Erinnerungstafeln
+- TOP 18: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 18.1: Umbesetzung in Ausschüssen und anderen Gremien: Verbandsversammlung des Zweckverbands Entsorgungsregion West (ZEW)
+- TOP 18.2: Umbesetzungsantrag der SPD-Fraktion vom 09.05.2023
+- TOP 18.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 09.05.2023
+- TOP 18.4: Umbesetzungsantrag der GRÜNE-Fraktion vom 09.05.2023
+- TOP 19: Anfragen:
+- TOP 19.1: Ratsanfragen
+- TOP 19.2: Stellungnahmen der Verwaltung zu Ratsanfragen
+- TOP 20: Ratsanträge
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 22: Resolution zum Erhalt einer leistungsstarken medizinischen Versorgung vor Orthier: Tagesordnungsantrag der CDU-Fraktion vom 26.04.2023
+- TOP 23: Nachträgliche Genehmigung einer bereits im Rahmen der dritten regionalen Mobilitätskonferenz unterzeichneten Absichtserklärung (TO-Antrag der CDU-Fraktion vom 26.04.2023)
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
+- TOP 17: nicht öffentlicher Tagesordnungspunkt
+- TOP 18: nicht öffentlicher Tagesordnungspunkt
