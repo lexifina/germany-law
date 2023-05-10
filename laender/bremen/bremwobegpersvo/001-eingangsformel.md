@@ -1,2 +1,4 @@
+## Einzelansicht Seitenanfang
 # Eingangsformel
-Aufgrund des § 14 Absatz 2 des Bremischen Wohn- und Betreuungsgesetzes vom 12. Dezember 2017 (Brem.GBl. S. 730 - 2161-b-1) wird verordnet:
+Auf Grund des § 14 Absatz 3 des Bremischen Wohn- und Betreuungsgesetzes vom 13. Dezember 2022 (Brem.GBl. 2022, S. 972) wird verordnet:
+Einzelansicht Seitenanfang
