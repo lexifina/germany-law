@@ -1,0 +1,64 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-05-10T18:00:00+02:00
+- Ende: 2023-05-10T23:28:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaisVwQPppQuSeV4ZWOd7Vk
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5463
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTNN6Yn3zUWPus1TXaiUgxhR0YHDrOTZfBzIjnchn5ny/Bekanntmachung_Rat_10.05.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaNz6tTbp9uvtT5dpY9VzvEqq27882MIr02qQGdKt8K_/Oeffentliche_Niederschrift_Rat_10.05.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 29.03.2023
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Gemeinsamer Antrag der Fraktionen CDU, SPD, Bündnis90/Die Grünen und FDP vom 06.04.2023; "Quartiersentwicklung Kurt-Schumacher-Platz" - 31 Jastimmen, 11 Neinstimmen, 0 Enthaltungen
+- TOP 4.1.1: Gemeinsamer Antrag der Fraktionen CDU, SPD, Bündnis90/Die Grünen und FDP vom 06.04.2023; "Quartiersentwicklung Kurt-Schumacher-Platz"
+- TOP 4.2: Antrag der UWG-Fraktion vom 30.04.2023; "20 Jahre LAGA in Gronau und Epe-Jubiläum" - 35 Jastimmen, 1 Neinstimmen, 4 Enthaltungen
+- TOP 4.3: Antrag der UWG-Fraktion vom 30.04.2023; "Beschlusskontrolle"
+- TOP 4.3.1: Antrag der UWG-Fraktion vom 30.04.2023; "Beschlusskontrolle" - 26 Jastimmen, 14 Neinstimmen, 1 Enthaltungen
+- TOP 5.: Umsetzung des Gesundheitszentrums am Kurt-Schumacher-Platz und Teilaufhebung des Ratsbeschlusses vom 26.10.2022 (Gründung einer kommunalen Genossenschaft, TOP 6)
+- TOP 5.1: Umsetzung des Gesundheitszentrums am Kurt-Schumacher-Platz und Teilaufhebung des Ratsbeschlusses vom 26.10.2022 (Gründung einer kommunalen Genossenschaft, TOP 6) - 29 Jastimmen, 11 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Sicherstellung der ärztlichen Versorgung - Projektentwicklung Gesundheitszentrum - 30 Jastimmen, 10 Neinstimmen, 1 Enthaltungen
+- TOP 7.: Antrag der Fraktion GAL//Die Linke "Unterstützung für gehörlose und hörbehinderte Menschen" - Einstimmig, 0 Enthaltungen
+- TOP 8.: Integrationskonzept der Stadt Gronau - 3. Fortschreibung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neubau des Historischen Rathauses in der Bahnhofstrasse - 37 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 10.: 1. Änderung zur Satzung über die Abfallentsorgung in der Stadt Gronau
+- TOP 10.1: 1. Änderung zur Satzung über die Abfallentsorgung in der Stadt Gronau - 39 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Ordnungsgeldverfahren gegen Ratsmitglied Erich Schwartze - 20 Jastimmen, 16 Neinstimmen, 4 Enthaltungen
+- TOP 12.: 111. Änderung des Flächennutzungsplans der Stadt Gronau Bebauungsplan Nr. 198-II "Euregio-Quartier Teilbereich 2a", Stadtteil Gronau Aufstellungsbeschluss - 38 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 13.: Vorhabenbezogener Bebauungsplan „Hotel im baulichen Zusammenhang mit dem ehe-maligen Dinkellager am Udo-Lindenberg-Platz“, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 181 „Südliche Innenstadt“, Teilbereich I, Stadtteil Gronau (zugleich Teilaufhebung des Bebauungsplans Nr. 20 „Altstadtsanierung I“, Stadtteil Gronau) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - 9 Jastimmen, 32 Neinstimmen, 0 Enthaltungen
+- TOP 14.1: Bebauungsplan Nr. 181 „Südliche Innenstadt“, Teilbereich I, Stadtteil Gronau (zugleich Teilaufhebung des Bebauungsplans Nr. 20 „Altstadtsanierung I“, Stadtteil Gronau) Stellungnahme der Verwaltung zum Beitrag der WEG-Fraktion in der Sitzung des Ausschusses für Planen, Bauen und Denkmalschutz am 04.05.2023 Stellungnahme der Verwaltung zu den verfahrensrechtlichen Auswirkungen einer Reduzierung der maximalen Höhe für das Gebäude auf dem Kurt-Schumacher-Platz - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 15.: Bebauungsplan Nr. 301 "Westlich der Vereinsstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs.2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - 39 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 16.: Budgetbericht für das I. Quartal 2023 - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 17.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 03.05.2023) - Der Punkt wird von der Tagesordnung abgesetzt.
+- TOP 18.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertretungen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 19.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Einladung "Weiterentwicklung Regionalplan"
+- TOP 20.2: Eingang E-Mail
+- TOP 20.3: Schülerfahrkostenübernahme zum Missionsgymnasium Bardel
+- TOP 20.4: Gewerbeschau 2023
+- TOP 21.: Anfragen
+- TOP 21.1: HFA-Sitzungen (Anfrage von RM Große-Dütting)
+- TOP 21.2: Sachstand BSG-Gelände (Anfrage von RM Dr. Kuhlmann-Eckel)
+- TOP 21.3: Sachstand Lennéstraße (Anfrage von RM von Borczyskowski)
+- TOP 21.4: Sachstand Gastronomie am Driland (Anfrage von RM von Borczyskowski)
+- TOP 21.5: Sachstand Saatgutautomaten (Anfrage von RM Kernebeck)
+- TOP 21.6: Gronauer Brocken (Anfrage von RM Kernebeck)
+- TOP 21.7: Baustelle Vennstraße (Anfrage von RM Doetkotte)
+- TOP 21.8: Verfall auf dem Germania-Gelände (Anfrage von RM Doetkotte)
+- TOP 21.9: Sitzungstermine (Anfrage von RM Stenau-van Wüllen)
+- TOP 21.10: Sachstand Proberäume am PGH (Anfrage von RM Reinhoffer)
+- TOP 21.11: Europa-Plakette (Anfrage von RM Reinhoffer)
+- TOP 21.12: Sachstand Klimabäume (Anfrage von RM Buchholz)
+- TOP 21.13: Messzahlen vom Brand in Ochtrup (Anfrage von RM Buchholz)
+- TOP 21.14: Budget Bürgerbus (Anfrage von RM Krause)
