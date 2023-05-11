@@ -1,0 +1,76 @@
+# 18. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-11T17:00:00+02:00
+- Ende: 2023-05-11T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27745
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27745
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neues Mitglieds der Bezirksvertretung Kalk
+- TOP -: Besuch des Dezernenten Herrr Greitemann, Dezernat VI, Planen und Bauen
+- TOP -: Besuch der Bezirksvertretung Kalk durch den Fußverkehrsbeauftragten Nico Rathmann
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssicherung des Rad- und Fußwegs parallel zur Istanbulstraße (Az.: 02-1600-70-22) - geändert beschlossen
+- TOP -: Gem. Änderungsantrag SPD-Fraktion, CDU-Fraltion, Bündnis 90/Die Grünen, Fraktion Die LINKE. in der Bezirksvertretung Kalk vom 10.05.2023 zur Vorlage 0784/2023 "Verkehrssicherung des Rad- und Fußwegs parallel zur Istanbulstraße" - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Bereitstellung von öffentlichen Toiletten auf der Kalker Hauptstraße/ Antrag der SPD-Fraktion vom 24.04.2023 - ungeändert beschlossen
+- TOP 7.2: Spielcontainer nur auf PKW-Parkflächen positionieren/ Antrag der Fraktion Bündnis 90/Die Grünen - endgültig abgelehnt
+- TOP 7.3: Grünflächen Rösrather Str. reparieren und schützen/ Antrag der Fraktion die LINKE vom 25.04.2023 - ungeändert beschlossen
+- TOP 7.4: Vermeidung von LKW-Verkehren in Rath/Heumar bei Errichtung eines Logistikzentrums mit Geschäftsverwaltung der Firma Lidl in der Hansestraße in Köln-Porz-Gremberghoven/ Antrag der SPD-Fraktion vom 24.04.2023 - ungeändert beschlossen
+- TOP 7.5: Weg frei in der Wiersbergstraße!/ Antrag der Fraktion Bündnis 90/Die Grünen - endgültig zurückgezogen
+- TOP -: Legales Gehwegparken aufheben - Änderungsantrag zu TOP 7.5 "Weg frei in der Wiersbergstraße!"/ ÄA der Fraktion Die LINKE - endgültig zurückgezogen
+- TOP -: Weg frei in der Wiersbergstraße!/ Änderungsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 7.6: Angeordnetes Gehwegparken im Bezirk/ Antrag der Fraktion die LINKE vom 25.04.2023 - ungeändert beschlossen
+- TOP 7.7: Einrichtung der Wasserversorgung für die JugZ an der Kaiserin-Theophanu-Schule/ gem. Antrag der SPD-Fraktion und Bündnis 90/ Die Grünen vom 24.04.2023 - ungeändert beschlossen
+- TOP 7.8: Umwandlung der Fläche Heinrich-Bützler-Straße/Dillenburgerstrasse/Kapellenstrasse im Stadtteil Kalk in eine hochwertige Grünfläche/ Antrag der Fraktion Bündnis 90/Die Grünen vom 27.04.2023 - geändert beschlossen
+- TOP -: Gem. ÄA SPD-Fraktion, Bündnis 90/Die Grünen, Fraktion Die LINKE., Bezirksvertreter Kruedener (Die Partei) zu TOP 7.8 „Umwandlung der Fläche Heinrich-Bützler-Straße/Dillenburgerstrasse/Kapellenstrasse im Stadtteil Kalk in eine hochwertige Grünfläche“ - ungeändert beschlossen
+- TOP 7.9: Anregungen an den Jugendhilfeausschuss der Stadt Köln zur Personalkostenunterstützung bei den Jugendzentren (JUGZ)/ Antrag der Fraktion Bündnis 90/Die Grünen vom 27.04.2023 - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe von weiteren Teilen der bezirksorientierten Mittel für das Jahr 2023/2024 - ungeändert beschlossen
+- TOP 8.1.2: Projektanträge im Rahmen des elften und letzten Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Humboldt/Gremberg und Kalk“ - ungeändert beschlossen
+- TOP 8.1.3: Projektanträge im Rahmen des vierten Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - ungeändert beschlossen
+- TOP -: ÄA der SPD-Fraktion zur Vorlage 0551/2023 (TOP 8.2.1) in der Sitzung der BV-Kalk vom 11.05.2023 "Kliniken der Stadt Köln gGmbH: Zukunftsmodell" - endgültig abgelehnt
+- TOP 8.2.2: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - endgültig abgelehnt
+- TOP -: Gem. ÄA SPD-Fraktion, Bündnis 90/Die Grünen, Fraktion Die LINKE. zur Vorlage 3430/2023 TOP 8.2.2 in der Sitzung der BV-Kalk vom 11.05.2023 "Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße" - ungeändert beschlossen
+- TOP 8.2.3: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.4: 288. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.5: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung der BV-Kalk vom 24.11.2022 (TOP 9.2.4) "Erstellung einer barrierefreien Schräge neben der Treppe zwischen der KVB-Haltestelle Köln-Merheim und den drei Discountern" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage des Bezirksvertreters Müller(CDU-Fraktion) vom 12.03.2020 TOP 9.3.1) "Sicherung des Marienstandbilds an der Winkingerstr., Höhe Einfahrt Bahnhof Heumar in Köln - Rath/Heumar" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer mündl. Anfrage des Bezirksvertreters Müller (CDU-Fraktion) in der Sitzung der BV-Kalk vom 25.08.2022 (TOP 9.1.6) hier: Ausbauzeitpunkt Matthias-Müller-Straße und Fockerweg in Rath/Heumar - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der BV-Kalk vom 25.11.2021 (AN/2421/2021) "Öffentliche Nutzung des Areals rund um St. Joseph in Köln-Kalk" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Erfahrungen mit dem Fahrradverleihsystem im Bezirk Kalk/ Anfrage der SPD-Fraktion vom 04.05.2023 - Kenntnis genommen
+- TOP 9.2.2: Immobilie auf der Kalker Hauptstraße/ Anfrage der Fraktion Bündnis 90/Die Grünen vom 27.04.2023 - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen vom 27.04.2023 (AN/0735/2023) "Immobile auf der Kalker Hauptstraße" - Kenntnis genommen
+- TOP 9.2.3: Auswirkungen der temporären KVB-Angebotsreduzierungen im Stadtbezirk Kalk/ Anfrage der SPD-Fraktion vom 04.05.2023 - Kenntnis genommen
+- TOP 9.2.4: Projektes der KVB-Bahnlinie nach Neubrück/ Anfrage der FDP - endgültig zurückgezogen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsmitteilung zur Einrichtung eines Wochenmarktes in den Merheimer Gärten - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht Starke Veedel - Starkes Köln - Kenntnis genommen
+- TOP 10.2.3: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 10.2.4: Kalker Hauptstraße - Fachgespräch - Kenntnis genommen
+- TOP 10.2.5: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 10.2.6: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf Nummer 73456/02 Arbeitstitel: Ostmerheimer Straße 214 in Köln-Merheim - Kenntnis genommen
+- TOP 10.2.7: RSV Rath-Heumar - Kenntnis genommen
+- TOP 10.2.8: Temporäre Reduzierung im Busangebot der KVB - Kenntnis genommen
+- TOP 10.2.9: Sachstandsmitteilung zu den von der Bezirksvertretung Kalk priorisierten Straßenbaumaßnahmen - Kenntnis genommen
