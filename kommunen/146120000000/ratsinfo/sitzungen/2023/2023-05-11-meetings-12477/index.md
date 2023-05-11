@@ -1,0 +1,58 @@
+# 50. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-05-11T16:00:00+02:00
+- Ende: 2023-05-11T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12477
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12477
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00681286.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Wahl des/der Beigeordneten für den Geschäftskreis Wirtschaft, Digitales, Personal und Sicherheit - gewählt
+- TOP 4: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - Ablehnung mit Änderung
+- TOP 5: Besetzung der Aufsichtsräte der Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 6: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Neubesetzung Vorsitzende/-r des Umlegungsausschusses - erneute Beratung
+- TOP 8: Vorschlag und Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2024 bis 2028 - erneute Beratung
+- TOP 9: Ergänzungswahl und Entsendung der Vertreter/-innen der Landeshauptstadt Dresden in die Achte Verbandsversammlung des Kommunalen Sozialverbandes Sachsen (KSV) - Zustimmung
+- TOP 10: Berufung des Stiftungsrates der Stiftung Kunst & Musik für Dresden - Zustimmung
+- TOP 11: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 12: Unterbringung asylsuchender Menschen – Standorte zur Errichtung von Unterkünften in modularer Bauweise (mobile Raumeinheiten) - punktweise Zustimmung mit Änderung
+- TOP 13: Neubau und Modernisierung der Bildungsinfrastruktur in den kreisfreien Städten - Stadtbudget der Landeshauptstadt Dresden 2023/24 - Zustimmung
+- TOP 14: Neubau der Schwimmhalle Dresden Klotzsche umsetzen - Betrieb aller Bäder dauerhaft sichern - Vertagung nach 22 Uhr
+- TOP 15: Bäderkonzept: Versprechen erfüllen – Die ganze Stadt im Blick - Vertagung nach 22 Uhr
+- TOP 16: Schwimmhalle Klotzsche für den Dresdner Norden unverzichtbar - Vertagung nach 22 Uhr
+- TOP 17: Eilantrag: Neubau der Schwimmhalle Klotzsche retten - Vertagung nach 22 Uhr
+- TOP 18: E-Petition Das Schwimmen im Norden darf nicht sterben! (Ersatzneubau Schwimmhalle Klotzsche) - Vertagung nach 22 Uhr
+- TOP 19: Feststellung des Jahresabschlusses 2021 der Landeshauptstadt Dresden - Zustimmung
+- TOP 20: Zeitliche Erweiterung der Filmnächte am Elbufer - Vertagung nach 22 Uhr
+- TOP 21: Fortsetzung der Maßnahmen zur Belebung der Innenstadt im Rahmen der Sondernutzungssatzungen - Vertagung
+- TOP 22: Vertagungen aus der Sitzung vom 20.04.2023 - erledigt
+- TOP 22.1: Konzept zur Umsetzung der Istanbul-Konvention in der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 22.2: Aktualisierung und regelmäßige Berichterstattung zum Sanierungs- und Entwicklungskonzept Dresdner Sportstätten (SANEKO) - Vertagung nach 22 Uhr
+- TOP 22.3: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Vertagung nach 22 Uhr
+- TOP 22.4: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 22.5: Fahrradstraße am Kleinzschachwitzer Ufer - Vertagung nach 22 Uhr
+- TOP 22.6: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - Vertagung nach 22 Uhr
+- TOP 22.7: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 22 Uhr
+- TOP 22.8: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung durch Einreicher
+- TOP 22.9: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Vertagung durch Einreicher
+- TOP 22.10: Photovoltaik bei städtischen Gebäuden rasch ausbauen - Vertagung nach 22 Uhr
+- TOP 22.11: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 22.12: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung durch Einreicher
+- TOP 22.13: Zehn Jahre Bäder GmbH – Evaluierung und Perspektiven der Bäder in Dresden - Vertagung nach 22 Uhr
+- TOP 22.14: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung nach 22 Uhr
+- TOP 22.15: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 22 Uhr
+- TOP 23: Neufassung der Fachförderrichtlinie Innovationsförderung (FFRL InnoFörderung) - Zustimmung
+- TOP 24: Vorplanung Bodenbacher Straße zwischen Schilfweg und Suttnerstraße - Vertagung mit Verweisung
+- TOP 25: Tag der Krisenvorsorge - Notfall üben - Vertagung nach 22 Uhr
+- TOP 26: Aufhebung des Beschlusses P0091/21 "Dresden soll sicherer Hafen werden!" - Vertagung nach 22 Uhr
+- TOP 30: Übertragung der investiven Budgetreste vom Haushaltsjahr 2022 nach 2023 - erledigt
+- TOP 31: Planung und Durchführung des Schulbauvorhabens 49. Grundschule „Bernhard August von Lindenau“ | Bernhardstraße 80 in 01187 Dresden – Neubau Einfeld-Sporthalle, Sanierung Bestandssporthalle und Erneuerung Freiflächen - Zustimmung
