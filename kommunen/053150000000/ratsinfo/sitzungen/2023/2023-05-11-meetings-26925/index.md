@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-11T17:16:00+02:00
+- Ende: 2023-05-11T20:46:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26925
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26925
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Antrag Aktuelle Stunde der Fraktionen CDU und Bündnis 90/Die Grünen "Situation des Krankenhauses Porz am Rhein" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: B - Sachstand Porz Mitte
+- TOP -: C - Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Beschilderung zur Schulwegsicherung Schulpfad und Schenkspfad in Poll (Az.: 02-1600-185-22) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Planung Randbebauung Poller Marktplatz - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Benennung von Planstraßen im Baugebiet Poller Damm - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Planstraßen Poller Damm" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/die Grünen "Benennung von Planstraßen im Baugebiet Poller Damm" - endgültig zurückgezogen
+- TOP 6.2: Benennung der Planstraßen im Baugebiet Fuchskaule in Köln-Porz-Elsdorf - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Planstraßen Fuchskaule" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Benennung von Planstraßen im Baugebiet Fuchskaule" - endgültig zurückgezogen
+- TOP 6.3: Beschluss für die Generalsanierung des Feldwegs zwischen der Gilsonstraße und Frankfurter Straße in Köln Porz (Elsdorf) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Generalsanierung Feldweg Gilsonstraße" - ungeändert beschlossen
+- TOP 6.4: Vergabe von bezirksorientierten Finanzmittel gemäß § 37 GO NRW im Jahr 2023 - ungeändert beschlossen
+- TOP 6.5: Ergänzung zum Baubeschluss - Neugestaltung der Freianlagen im Innenstadtbereich Porz-Mitte, Reinigungs- und Lagerkonzept der Oberflächenmaterialien - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 7.2: Beauftragung der Kölner Schulbaugesellschaft mbH mit dem Bau der Grundschule Friedenstraße, Köln-Porz - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Bau der Grundschule Friedenstraße in Porz" - ungeändert beschlossen
+- TOP 7.3: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 7.4: Bestellung eines neuen Mitglieds für den Beirat der Forensischen Klinik Köln-Porz für die Ratsperiode 2020 bis 2025 - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion "Keine Reduzierung des Schulbaus im Stadtbezirk Porz" - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Baumscheiben entsiegeln und Bäume in der neuen Mitte Porz pflanzen" - zurückgestellt
+- TOP 8.3: Antrag der SPD-Fraktion "Halteverbote Weidenweg durchsetzen – Grünflächen sichern" - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Behelfsbrücke der Rather Straße über die A559 zwingend erforderlich" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Untersuchung von Provisorien für die SÜ Rather Straße" - endgültig abgelehnt
+- TOP 8.7: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Schnellbusliniennetz für Porz" - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verlegung/Ausbau der Haltestelle auf der Wahner Straße (An St. Marien) Richtung Wahn und Verlegung des Zebrastreifens" - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktion Bündnis 90/Die Grünen "Grüner Pfeil für Fahrräder – Bergerstr./Humboldtstr." - endgültig zurückgezogen
+- TOP 8.10: Dringlichkeitsantrag der SPD-Fraktion "Verkehrssituation vor der Betriebs- Kindertagesstätte Rewelino" - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion "Sicherer Schulweg für die Grundschüler*innen der GGS Poller" - Sache ist erledigt
+- TOP 8.12: Dringlichkeitsantrag der SPD-Fraktion "Mehr Tempo für die Linie 7 und die Rheinbrücke für den ÖPNV" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Schutzanlagen im Katastrophenfall - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: ÖPNV-Förderbescheid zur Linie 17 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "ÖPNV-Förderbescheid zur Linie 17" - Sache ist erledigt
+- TOP 9.1.3: Beleuchtung Porzer Sportstätten - Energieeinsparung - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Erneuerung der Beleuchtung der Porzer Sportstätten - Energieeinsparung" - Sache ist erledigt
+- TOP 9.1.4: Überprüfung der Notwendigkeit des nächtlichen Betriebs von Ampelanlagen - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Überprüfung der Notwendigkeit des nächtlichen Betriebs von Ampelanlagen" - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0317/2022 der CDU-Fraktion "Umgestaltung des Vorplatzes Heidestraße/Frankfurter Straße Wahn" - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Umgestaltung des Vorplatzes Heidestraße / Frankfurter Straße Wahn" - Sache ist erledigt
+- TOP 9.1.6: "E-Ladesäulen im Stadtbezirk Porz" - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Quartiersgarage für Wohngebiet Barbarastr/Artilleriestr/Magazinstr" - zurückgestellt
+- TOP 9.2.5: Anfrage der CDU-Fraktion "Verwahrlosung und Gefährdung durch ein privates Grundstück beim Bieselwald" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der BV Porz vom 25.04.23 (AN/0742/2023) betreffend „Verwahrlosung und Gefährdung durch ein privates Grundstück beim Bieselwald“ - Kenntnis genommen
+- TOP 9.2.6: Anfrage der CDU-Fraktion "Verkehrssituation auf der Sportplatzstraße in Wahnheide" - Sache ist erledigt
+- TOP -: Verkehrssituation auf der Sportplatzstraße in Wahnheide - Kenntnis genommen
+- TOP 9.2.7: Anfrage der SPD-Fraktion "Open-Air Location Südbrücke" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Open-Air-Location Südbrücke - Kenntnis genommen
+- TOP 9.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Geländer auf Hochwasserschutzmauer in Poll, Az.: 17/23 - Kenntnis genommen
+- TOP 10.2.3: Gewässerunterhaltungsplan der StEB Köln für 2022 - 2024 - Kenntnis genommen
+- TOP 10.2.4: Einfahrt Gut Leidenhausen - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung "Kölle Aktiv - Das Sportlabor" - neuer Standort des mobilen Pumptracks in Porz-Zündorf - Kenntnis genommen
+- TOP 10.2.6: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 10.2.7: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 10.2.8: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 10.2.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Wegebenennung „Jürgen-Schumann-Weg“ entlang des heutigen „Senkelsgraben“ hinter der Gernotstr. 6 in 51147 Köln, AZ 212/22 B - Kenntnis genommen
+- TOP 10.2.10: Mitteilung über die Radverkehrsführung am Rheinboulevard - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
