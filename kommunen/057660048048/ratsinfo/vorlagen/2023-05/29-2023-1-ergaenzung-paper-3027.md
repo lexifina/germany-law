@@ -1,0 +1,22 @@
+# Das Energetische Quartierskonzept (IEQK) - Grundlage für die Energiewende in Leopoldshöhe
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Drucksache/Vorlage: 29/2023 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-05-11
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaxGHdvz9RFE5IxEVDQXEVw
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3027
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Das Energetische Quartierskonzept (IEQK) - Grundlage für die Energiewende in Leopoldshöhe) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVXyeEKASQo7AxtaAxFTrnCOpDizFzAajUJNAOiUoJ1s/Beschlussvorlage_29-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (EQK Leopoldshöhe - Endbericht) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY4P04uxvf2gvJFfK-zP1ln8zlVsmwpYex9tEsMEPZGC/EQK_Leopoldshoehe_-_Endbericht.pdf
+- Anlage: Beschlussvorlage (Anlage 1_FDP_IEQK_Anregung) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQl9SsCN6cAF8WF77vJ4Uujxlsfb409okXi1KY_2wlUu/Anlage_1_FDP_IEQK_Anregung.pdf
+- Anlage: Beschlussvorlage (IEQK-Kritk_Puchert_2023-04-02.odt) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVx52zSCh9JCTKkz3-XRxKa6bsArnCjYGggZtuJgtY3z/IEQK-Kritk_Puchert_2023-04-02.odt.pdf
+- Anlage: Beschlussvorlage (Protokoll) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXLPrqHJdQYnGLgUsucicWB2b41px6mygnNw5MTA-Nsj/Protokoll.pdf
+- Anlage: Beschlussvorlage (Briefvorlage mit Logo) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBTxtFu1-G2jzg3GtgX11p9fVihOGAgjWgXy1jkGnjB/Briefvorlage_mit_Logo.pdf
+- Anlage: Beschlussvorlage (20221213_her_Energiebilanz und Wirtschaftlichkeit Brunsheide.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKWwAtmYsaswCin7VtDNfBApViYQnxrdiOpZhakki-g/20221213_her_Energiebilanz_und_Wirtschaftlichkeit_Brunsheide.ods.pdf
+- Anlage: Beschlussvorlage (20221213_her_Energiebilanz und Wirtschaftlichkeit Brunsheide.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQFUFAwWFyLOksdsrlFXgQjmnJpOYf5ZCy53dRR-Wnm6/20221213_her_Energiebilanz_und_Wirtschaftlichkeit_Brunsheide.ods.pdf
+- Anlage: Beschlussvorlage (20221125_her_Energiebilanz und Wirtschaftlichkeit Schulzentrum.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbjBFDobMGNfUGry2i8X-FmIzJiPwDUUlBMC9Yde97Ac/20221125_her_Energiebilanz_und_Wirtschaftlichkeit_Schulzentrum.ods.pdf
+- Anlage: Beschlussvorlage (20221125_her_Energiebilanz und Wirtschaftlichkeit Schulzentrum.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUEg6MRShwTIRRqgMa-MDW16FAohKEndMRXDb9svTI6N/20221125_her_Energiebilanz_und_Wirtschaftlichkeit_Schulzentrum.ods.pdf
+- Anlage: Beschlussvorlage (20221207_her_Energiebilanz und Wirtschaftlichkeit Verbund.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVuN3cbFhyfYbC10fYNTYr84ZoPDJjJHlgawu68ZGJ7Y/20221207_her_Energiebilanz_und_Wirtschaftlichkeit_Verbund.ods.pdf
+- Anlage: Beschlussvorlage (20221207_her_Energiebilanz und Wirtschaftlichkeit Verbund.ods) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaUW5-G0rNXxJtUMpvzK_CJQLf5zqUDAVGNFWtB-gpOQ/20221207_her_Energiebilanz_und_Wirtschaftlichkeit_Verbund.ods.pdf
+- Beratung:  https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3935 https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-51
