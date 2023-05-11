@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-11T17:00:00+02:00
+- Ende: 2023-05-11T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27827
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27827
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf eine Aktuelle Stunde nach § 5 GO - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Präsenz der Verwaltungsspitze in den Sitzungen der Bezirksvertretungen - hier: Dezernat II, Fr. Prof. Dr. Diemert
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Menstruationsartikel an Schulen im Bezirk
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.2: Vernachlässigte Häuser der ZBVV in Chorweiler und Seeberg
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.1.3: Streichung von Buslinien der KVB durch Krankheitsfälle
+- TOP -: Antwort der Verwaltung
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstand Vorlage 0990/2022 Städtebauliches Planungskonzept Causemannstr. / Merkenich
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.2.2: Verkehrsunfälle in Köln-Merkenich an Straßen-Kreuzungen mit der Stadtbahn Linie 12
+- TOP 7.2.3: Sachstand Baugebiet Damiansweg in Volkhoven/Weiler
+- TOP -: Antwort der Verwaltung - zurückgestellt
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anträge auf bezirksorientierte Mittel - Demokratieklausel - endgültig abgelehnt
+- TOP 8.2.2: Resolution: Demokratisches Vorbild für Köln - zurückgestellt
+- TOP 8.2.3: Schulplatznot im Bezirk bekämpfen – kurze Beine – kurze Wege - endgültig abgelehnt
+- TOP 8.2.4: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke + Lilo Heinrich und FDP zur Sitzung der Bezirksvertretung Chorweiler am 11.05.2023 - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufhebung der Straßenbezeichnung Sasser Weg in Köln - Worringen - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Aufhebung des Aufstellungsbeschlusses für einen Bebauungsplan Arbeitstitel: Östlich Mottenkaul in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 9.2.2: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West
+- TOP -: Ersetzungsantrag Förderung Schnellbus 91 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - zurückgestellt
+- TOP 10.2.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 10.2.3: Sachstand zur Baumaßnahme an der KiTa Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.4: Geändertes städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Volkhovener Straße" in Köln-Esch/Auweiler - Kenntnis genommen
+- TOP 10.2.5: Gewässerunterhaltungsplan der StEB Köln für 2022 - 2024 - Kenntnis genommen
+- TOP 10.2.6: Beantwortung einer Anfrage der FDP-Fraktion: Volkhovener Weg 209-211 (AN/0288/2023) - Kenntnis genommen
+- TOP 10.2.7: Temporäre Reduzierung im Busangebot der KVB - Kenntnis genommen
+- TOP 10.2.8: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 10.2.10: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 10.2.11: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - zurückgestellt
+- TOP 10.2.12: Aktueller Sachstand Haus Fühlingen - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Beantwortung einer mündlichen Anfrage der AfD-Fraktion in der Sitzung der Bezirksvertretung Chorweiler am 02.02.2023 (siehe TOP 11.2.3 der Niederschrift vom 02.02.2023, S. 30) betreffend "Trinkwasserbrunnen" - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: mündliche Anfrage der CDU-Fraktion betreffend Sperrung Escher See - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.2.2: mündliche Anfrage der AfD-Fraktion betreffend Mikrofonanlage in der BV Chorweiler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.3: Anfragen der Seniorenvertretung
