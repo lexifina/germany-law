@@ -1,0 +1,68 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-15T14:33:00+02:00
+- Ende: 2023-05-15T15:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27403
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27403
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung - Kenntnis genommen
+- TOP 2.3: Kommunalverfassungsbeschwerde und Klagen gegen Gemeindefinanzierungsgesetz - Kenntnis genommen
+- TOP 2.4: Bevölkerungsentwicklung in Köln 2022 - Kenntnis genommen
+- TOP 2.5: Sachstandsbericht zum Änderungsantrag AN/2693/2021 und Beantwortung der Anfrage des Finanzausschusses aus der Sitzung vom 13.06.2022 zur Vorlage 1844/2022 - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 28.02.2023 - Kenntnis genommen
+- TOP 2.7: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.03.2023 - Kenntnis genommen
+- TOP 2.8: Beantwortung der Fragen zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 2. Halbjahr 2022 - Kenntnis genommen
+- TOP 2.9: Abschlussbericht Sanierung der RDA-Schächte - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.1: Fortführung des Förderprogramms "Gleichstellung von Frauen und Männern" - ungeändert beschlossen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.3: Ermächtigungsübertragungen in das Haushaltsjahr 2023 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städitschen Zuschüssen zu Baumaßnahmen - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von acht Kolonnenfahrzeugen als E-Fahrzeuge für den Bereich Stadtgrün - ungeändert beschlossen
+- TOP 7.3: Ersatzbeschaffung von sechs Kolonnenfahrzeugen als E-Fahrzeuge für den Bereich Friedhöfe - ungeändert beschlossen
+- TOP 7.4: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - zurückgestellt
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit dem Bau der Grundschule Friedenstraße, Köln-Porz - geändert beschlossen
+- TOP 10.2: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 10.3: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - geändert beschlossen
+- TOP 10.4: KölnBusiness Wirtschaftsförderungs-GmbH; Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 10.5: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP 10.5.1: Änderungsantrag zu TOP „Kliniken der Stadt Köln gGmbH: Zukunftsmodell“ - zurückgestellt
+- TOP 10.6: Änderungssatzung zur Friedhofsgebührensatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche mindestens einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung einer Gesamtschule für den Stadtbezirk Nippes - geändert beschlossen
+- TOP 10.8: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2023/24 - ungeändert beschlossen
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.10: Fahrplanwechsel 2023 - Einrichtung einer TaxiBus-Linie in Klettenberg - geändert beschlossen
+- TOP 10.11: Verlängerung der Anmietung des Standortes Ringstr. 38-44 in 50996 Köln-Rodenkirchen zur Unterbringung von Geflüchteten - ungeändert beschlossen
+- TOP 10.12: Wirtschaftsplan 2023 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.13: Sanierung der Bühnen am Offenbachplatz, Erweiterung der Verpflichtungs- und Kreditermächtigungen - ungeändert beschlossen
+- TOP 10.14: Projekte zur Prävention vor sexualisierter Gewalt im Bereich der Offenen Kinder- und Jugendarbeit, Teilplan 0604 - ungeändert beschlossen
+- TOP 10.15: Bedarfsfeststellung für die Europawahl 2024 - ungeändert beschlossen
+- TOP 10.16: Finanzierung der Umsetzung eines Kunst- und Kulturprogramms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals - ohne Votum in nachfolgende Gremien
+- TOP 10.17: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - zurückgestellt
+- TOP 10.18: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2023/24 - zurückgestellt
+- TOP 10.19: Grundsatzbeschluss für den Neustart der Bühnen Köln am Offenbachplatz ab der Spielzeit 2024/25 - zurückgestellt
+- TOP 10.20: Bedarfsfeststellungs- und Baubeschluss für die Instandsetzung der Parkpalette Jakobstraße/Josephstraße - ungeändert beschlossen
+- TOP 10.21: Aktualisierte Bedarfsfeststellung Unterbringungsplätze für Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Bedarfsfeststellungsbeschluss über die Erarbeitung einer Klimaneutralitätsstrategie für den Bauhof des Amtes für Verkehrsmanagement - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
