@@ -1,0 +1,77 @@
+# 22. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-15T17:00:00+02:00
+- Ende: 2023-05-15T20:26:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Erdgeschoss, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27577
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27577
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Beigeordneten Andree Haack
+- TOP -: Resolution der Bezirksvertretung Ehrenfeld zum Erhalt von Betreuungsplätzen im Raum Bickendorf-Ossendorf - ungeändert beschlossen
+- TOP -: Austausch/Sachstand zum Verkehrsversuch Venloer Straße - zurückgestellt
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Franz-Kreuter-Str., Köln-Ehrenfeld (Az.: 02-1600-95-22) - geändert beschlossen
+- TOP 3.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Tempo 30 Gutenbergstraße, Köln-Ehrenfeld, Az.: 157/22 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Ampelschaltung Gürtel/Eichendorffstraße, Köln-Neuehrenfeld, Az.: 22/23 S - Kenntnis genommen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gefährliche Verkehrssituation an der Weinsbergstraße - Sache ist erledigt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.1: Linksabbiegen auf Innere Kanalstraße von der Hornstraße - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.1: Auswirkungen des eingeschränkten KVB-Fahrplans für den Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Gutachten zu kolonial belasteten Straßen in Ehrenfeld - Sache ist erledigt
+- TOP 6.7.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen zur Sitzung der Bezirksvertretung Ehrenfeld am 20.03.2023, betreffend "Gutachten zu kolonial belasteten Straßen in Ehrenfeld" - Kenntnis genommen
+- TOP 6.8: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Baumfällungen im Bezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.8.1: Beantwortung einer schriftlichen Anfrage der Bündnis 90/Die Grünen-Fraktion aus der Sitzung vom 20.03.2023 (AN/0369/2023) betreffend "Baumfällungen im Bezirk Ehrenfeld" - Kenntnis genommen
+- TOP 6.9: Anfrage der SPD-Fraktion, betr.: Stand der Planungen Baumaßnahme Rochusplatz - zurückgestellt
+- TOP 6.10: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Vogelsangerstraße zwischen Ehrenfeldgürtel und Oskar-Jäger-Straße - zurückgestellt
+- TOP 6.11: Fraktion Die Linke/DIE PARTEI, betr.: Leerstände und Zweckentfremdungen im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.11.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE / Die PARTEI aus der Bezirksvertretung 4 (AN 0476/2023) betreffend Leerstände und Zweckentfremdungen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.12: Anfrage der CDU-Fraktion, betr.: Zahl der Kinder und ihre medizinische Versorgung im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.12.1: Zahl der Kinder und ihre medizinische Versorgung im Stadtbezirk Ehrenfeld (AN/0493/2023) - Kenntnis genommen
+- TOP 6.13: Anfrage der CDU-Fraktion, betr.: Anmeldungen in den Schulen im Bezirk Ehrenfeld - zurückgestellt
+- TOP 6.14: Anfrage der CDU-Fraktion, betr.: Seniorinnen und Senioren im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP 6.14.1: Seniorinnen und Senioren im Stadtbezirk Ehrenfeld (AN/0495/2023) - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion, betr.: Sachstand „Neugestaltung der Bezirkssportanlage Everhardstraße“ - zurückgestellt
+- TOP 7.2: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 7.3: Anfrage der CDU-Fraktion, betr.: Realschule Gravenreuthstraße 10 in 50823 Köln - zurückgestellt
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Baustelle Ecke Venloer Straße und Wilhelm Mauser Straße - zurückgestellt
+- TOP 7.5: Anfrage der CDU-Fraktion, betr.: 2. Anfrage Kurdisches Islamisches Zentrum unter der Adresse Vogelsanger Str. 348 d, - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde), betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Versenkbare Altglascontainer für Ehrenfeld - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Anwohnerparken in Ehrenfeld - zurückgestellt
+- TOP 8.4: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde), betr.: Sicherere Verkehrssituation Kreuzung/ Einmündung Ossendorfer Straße/ Altenhofstraße - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Linienführung Bus 142 - zurückgestellt
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sondernutzungen für Bänke vor Ladenlokalen - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Tempo-30 Zone auf dem Erlenweg und Akazienweg - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion, betr: Beratung für private Wohnungseigentümer*innen zur Verminderung von Leerständen - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion, betr.: Anpassung der Bebauungsplanes "Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld" - zurückgestellt
+- TOP 9: Entscheidungen
+- TOP 9.1: Planungsbeschluss für die Umgestaltung des Knotenpunktes Mathias-Brüggen-Straße/Mühlenweg
+- TOP 9.2: Umsetzung 'Wasser muss zum Baum' im 2.BA Straßenbaumkonzept Ehrenfeld, Ossendorfer Str. - ungeändert beschlossen
+- TOP 9.3: Baubeschluss zur Generalsanierung der Tennisanlage BSA Bocklemünd - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: 241. Änderung des Flächennutzungsplanes, "Alsdorfer Straße" in Köln- Ehrenfeld/ -Braunsfeld - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 12.2: Umsetzungsstand zur Machbarkeitsstudie „Rückbau freilaufender Rechtsabbieger“ - Kenntnis genommen
+- TOP 12.3: Sanierte Toiletten auf dem Friedhof Melaten in Ehrenfeld - mündliche Anfrage von Bezirksvertreterin Bossinger aus der Sitzung vom 20.03.2023 - Kenntnis genommen
+- TOP 12.4: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 12.5: Sportentwicklungsplanung - Modellhafte Öffnung Schulhöfe - Kenntnis genommen
+- TOP 13: mündliche Anfragen
