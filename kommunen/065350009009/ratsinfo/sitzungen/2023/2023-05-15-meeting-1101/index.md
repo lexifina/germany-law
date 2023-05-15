@@ -1,0 +1,58 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (30. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2023-05-15T20:00:00+02:00
+- Ende: 2023-05-15T22:33:00+02:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZZYY_mHmDl4M7JYpza_iK1g
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1101
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekFIUq2Jo-DhCWMAD9Xm-7mYkvmbOiqJHlNWNwMAA6G/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_15.05.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZHysQb8vyTVwtNawHyMQPS2Xyst_TH2LqQDNIIxRDb5/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_15.05.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Antrag der GRÜNEN-Fraktion auf Vorlage der Ergebnisse der Verkehrszählung am Kreisel Homberg (Ohm) - (kein Text vorhanden)
+- TOP 5.: Antrag der GRÜNEN-Fraktion auf Erstellung eines Entwicklungskonzeptes für die Innenstadt - (kein Text vorhanden)
+- TOP 6.: Anfrage Fraktion Bürgerforum zu Ein- und Auszahlungen für die Baumaßnahme Ohmbrücke (Herren-/Pletschmühle)
+- TOP 7.: Anfrage Fraktion Bürgerforum zu Ein- und Auszahlungen für die Baumaßnahme Sanierung Burghain
+- TOP 8.: Anfrage Fraktion Bürgerforum betreffend Auflistung der befristeten Stellen bei der Stadt Homberg (Ohm)
+- TOP 9.: Anfrage Fraktion Bürgerforum betreffend Spende des Tier- und Naturschutzvereins und Umgebung e.V. an die Stadt Homberg (Ohm)
+- TOP 10.: Anfrage Fraktion Bürgerforum betreffend Einrichtung eines Jugendraums für die Jugendfeuerwehr Dannenrod
+- TOP 11.: Anfrage der GRÜNEN-Fraktion zum Kulturdenkmal Söhrnteichdamm; hier Nutzung im Rahmen des Baus der A49
+- TOP 12.: Anfrage Fraktion BÜRGERFORUM zur grundhaften Erneuerung der Ortsdurchfahrten in den Stadtteilen Ober-Ofleiden und Gontershausen (L 3073)
+- TOP 13.: Anfrage Fraktion BÜRGERFORUM betreffend Brennholzverkauf durch den Städtischen Bauhof
+- TOP 14.: Anfrage Fraktion BÜRGERFORUM betreffend Kostenzusammenstellung für die Einrichtung eines Kreisels an der L 3343
+- TOP 15.: Anfrage Fraktion BÜRGERFORUM betreffend Energieverbrauch in den öffentlichen Einrichtungen der Stadt Homberg (Ohm)
+- TOP 16.: Anfrage Fraktion BÜRGERFORUM betreffend Bewertung der Bescheide über den neuen Grundsteuermessbetrag
+- TOP 17.: Anfrage Fraktion BÜRGERFORUM betreffend Förderung und Steuerung sozialer Hilfen
+- TOP 18.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 21.03.2023
+- TOP 19.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 29.03.2023
+- TOP 20.: Haushaltsgenehmigung für das Haushaltsjahr 2023 - (kein Text vorhanden)
+- TOP 21.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung eines Raumes für die Jugendfeuerwehr im Stadtteil Dannenrod - (kein Text vorhanden)
+- TOP 22.: Genehmigung eines Grundstückskaufvertrages gemäß § 2 der Hauptsatzung der Stadt Homberg (Ohm)
+- TOP 23.: Genehmigung eines Grundstückskaufvertrages gemäß § 2 der Hauptsatzung der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 24.: Aufstellung der Vorschlagsliste für die Wahl der Schöffen für die Jahre 2024-2028 - (kein Text vorhanden)
+- TOP 25.: Bildung der Kommission zur Förderung des Tourismus der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 26.: Anpassung der Schaffensbeitragssätze für die Abwasserbeseitigung (Netz) und Wasserversorgung (Netz) nach erfolgter Rechnungsperiodenkalkulation - (kein Text vorhanden)
+- TOP 27.: Antrag Fraktion Bürgerforum betreffend IKZ-Projekt "Fördermittellotse" - (kein Text vorhanden)
+- TOP 28.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.: Antrag GRÜNEN-Fraktion auf Inanspruchnahme einer kostenlosen Haushalts- bzw. Konsolidierungsberatung - (kein Text vorhanden)
+- TOP 30.: Antrag Fraktion BÜRGERFORUM zum Abschluss eines Vergleichs in einem Rechtsstreit sowie zur Gleichbehandlung von Bürgern
+- TOP 31.: Antrag Fraktion BÜRGERFORUM zur Schaffung des Planungsrechts für das Gewerbe- und Industriegebiet "Am Roten Berg "
+- TOP 32.: Antrag SPD-Fraktion auf verkehrsberuhigende, bauliche Maßnahmen bei Sanierung der Landesstraße L 3126 (Welckerstraße) im Stadtteil Ober-Ofleiden
+- TOP 33.: Antrag Fraktion BÜRGERFORUM betreffend Bürgerversammlung gemäß § 8a HGO zur Unterbringung von Flüchtlingen in der Homberger Innenstadt
+- TOP 34.: Antrag Fraktion BÜRGERFORUM betreffend Reinigung der Straßenrinnen und Gehwege in einigen Straßenzügen durch die Bau-ARGE
+- TOP 35.: Antrag Fraktion BÜRGERFORUM betreffend Initiierung eines Bürgerbeteiligungsprozesses
+- TOP 36.: Antrag Fraktion BÜRGERFORUM betreffend Umnutzung des ehemaligen Speedwaygeländes „Auf der Bleiche“
+- TOP 37.: Antrag Fraktion BÜRGERFORUM betreffend interkommunale Zusammenarbeit mit der Stadt Stadtallendorf (Landkreis Marburg-Biedenkopf)
+- TOP 38.: Antrag Fraktion BÜRGERFORUM betreffend Bundesprogramm zur Projektförderung „digitale Zukunft“
+- TOP 39.: Antrag Fraktion BÜRGERFORUM betreffend Beschaffung der Software für das Digitale Potenzial-Flächenkataster des Landes Hessen
+- TOP 40.: Antrag GRÜNEN-Fraktion auf Erstellung eines Konzeptes für die Produktion und Nutzung erneuerbarer Energien
+- TOP 41.: Vorschlag der GRÜNEN-Fraktion auf Wahl einer weiteren Schriftführerin für die Stadtverordnetenversammlung sowie die Ausschüsse
