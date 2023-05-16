@@ -1,0 +1,163 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2023-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7385363
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7385363
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1.: Vorstellung des Fanprojekts München (inkl. Thematik Aufstellung eines mobilen Containers am Candidplatz)
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürger*innen
+- TOP 2.2: Behördenvertreter*innen
+- TOP 2.2.1.: Referat für Bildung und Sport (RBS) zur Betreuungssituation an der Rotbuchenschule (inkl. Dringlichkeitsantrag Grüne-SPD)
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Maibaumverein Menterschwaige e.V. “Aufstellung des Maibaums 25.05.2023 bzw. 27.05.2023“ 4.000,00 € / AZ: 0262.0-18-0341
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. “Begehbare Karte: Giesing / Harlaching vom 01.07.2023 -31.10.2023“ 1.800,00 € / AZ: 0262.0-18-0342
+- TOP 3.1.2.3.: (E) Stadtbezirksbudgt Kreisjugendring München-Stadt “Fromundstraßenfest am 14.07.2023“ 4.985,00 € / AZ: 0262.0-18-0340
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Isarlust e.V. Kulturprogramm auf der Braunauer Eisenbahnbrücke „Die grüne Brücke“ vom 01.05. bis 31.12.2023 10.000,00 Euro; Az. 0262.0-18-0337
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Culture Clouds e.V. “Tanz. Die Invasion vom 12.10.2023 -14.10.2023“ 2.854,00 € / AZ: 0262.0-18-0338
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Choral Katholique kongolais in der Gemeinde St. Franziskus “10-jähriges Jubiläum am 14.05.2023“ 2.961,00 € / AZ: 0262.0-18-0339
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Sommerfest der Anwohner der Grünstreifenanlage am Rondell der Steingadener Str. am 24.06.2023
+- TOP 3.2.4.2.: Sommerfest der Grundschule Rotbuchenstr./Am Hollerbusch am 30.06.2023 - mit Straßensperre und Nutzung der Grünanlage gegenüber
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Veranstaltung zur Begleitung der künstlerischen Neugestaltung des Halt 58 am 13.05.2023 am Giesinger Berg - Eilentscheidung des BA-Vorsitzenden
+- TOP 3.2.6.2.: Fit im Park der LHM - Veranstaltung in div. städtischen Grünanlagen (Stadtbezirk 4, 7, 11, 13,15, 17, 18, 22, 24); Abdruck der Ausnahmegenehmigung
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) + (U) Parkverbot in der Gabriel-Max-Straße an der Einmündung Geiselgasteigstraße Empfehlung Nr. 20-26 / E 00869 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 06.10.2022
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Unfallanalyse zum Neubau der Grundschule Klinikum Harlaching; SPD-Antrag
+- TOP 3.3.3.2.: Grüner Pfeil in der Grünwalderstrasse Ecke Langobardenstraße (am Authariplatz) soll zeitnah wieder angebracht werden!; CSU-Antrag
+- TOP 3.3.3.3.: Radweg auf Höhe Menterschwaigstraße; Bürgeranliegen
+- TOP 3.3.3.4.: Halteverbot Claude-Lorrain-Str./Sachsenstraße vom 2. Mai bis 15. August; Bürgeranliegen
+- TOP 3.3.3.5.: Tempo 30 in der Karolingerallee; Bürgeranliegen
+- TOP 3.3.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.7.: Zeitnahe Reinigung beklebter und verschmutzter Verkehrszeichen; CSU-Antrag
+- TOP 3.3.3.8.: Dringlichkeitsantrag: Schnellstmögliche Entfernung aller Verkehrszeichen 237 in der Sankt Magnus Straße; CSU-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: MVG-Leistungsprogramm 2024: Anhörung der Bezirksausschüsse
+- TOP 3.3.4.2.: Neubau einer Lichtsignalanlage (LSA) - Standort Karolingerallee/Harlachinger Straße
+- TOP 3.3.4.3.: Reichenhaller Straße: wechselseitiges Parken
+- TOP 3.3.4.4.: Reichenhaller Straße: zeitlich beschränkte Ladezone (Z. 286 StVO) für die Entsorgung des Seniorenzentrums
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Vorentwurfsplanung des Lizenzgebiets Mangfallplatz
+- TOP 3.3.5.2.: Grüner Pfeil in der Grünwalderstr./Ecke Langobardenstr. (am Authariplatz)
+- TOP 3.3.5.3.: Prüfung einer Trambahnlinie zwischen dem Klinikum Harlaching und dem Krankenhaus Neuperlach; Interfraktioneller Antrag der Grünen und der SPD
+- TOP 3.3.5.4.: Mehr Behinderten- und Kurzzeitparkplätze am Ärztehaus Harlaching sowie Behindertenparkplätze und Parkbuchten für die Bayerische Landesschule
+- TOP 3.3.5.5.: Rotfärbung der Querungen in der Seybothstraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Halteverbot in der Lorenzonistraße: Änderung des Zeitzusatzes
+- TOP 3.3.6.2.: Kurzparkzone in der Geiselgasteigstraße
+- TOP 3.3.6.3.: Kreuzungsbereich Claude-Lorrain-Str., Sachsenstr. und Untere Weidenstr.: Umbau des Kreuzungsbereichs, Aufstellung von Fahrradständern
+- TOP 3.3.6.4.: Allgemeiner Behindertenstellplatz in der Isenschmidstraße 19
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Zustand in der Harthauser Str. bzgl. Altglascontainer und Gehweg; Bürgeranliegen
+- TOP 3.4.3.2.: Anti-Littering-Projekt; Bürgeranliegen
+- TOP 3.4.3.3.: Straßenreinigung in der Rotbuchenstraße; Bürgeranliegen
+- TOP 3.4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.5.: Zeitnaher Anschluss des Stadtteils Untergiesing-Harlaching an das Fernwärmenetz der Stadtwerke München; CSU-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Berg-Isel-Str. 11 - Bozzarisstr. 35a - Harlachinger Str. 51 - Tierparkstr. 30 - Wilhelm-Kuhnert-Str. 3 - Wolkensteinstr. 4
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Reichenhallerstr. (Ecke Schorerstr.): Entsiegelung und Begrünung einer Betonfläche
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Bozzarisstr. 35a
+- TOP 3.4.6.2.: Baumfällung in der Pilgersheimer Str. 34-38
+- TOP 3.4.6.3.: Baumfällung in der Waldeckstr. 25-45
+- TOP 3.4.6.4.: Baumfällung in der Söltlstr. 2-2a
+- TOP 3.4.6.5.: Baumfällung in der Kriegerstr. 16
+- TOP 3.4.6.6.: Baumfällung in der Theodolindenstraße
+- TOP 3.4.6.7.: Nächtliche Mäharbeiten im Stadtgebiet - Ausnahmezulassung gem. 32. BImSchV
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Umgehende Behebung der aktuellen Missstände bei den Schulbuslinien 18 und 234
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Mehr Transparenz und Anwohnerbeteiligung im laufenden Genehmigungsverfahren für das "True Brew Lagerhaus"; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Beteiligung des Bezirksausschusses im Rahmen des (sektoralen) Bebauungsplans Nr. 2181 Claude-Lorrain-Straße
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Gabriel-Max-Straße 62: Neubau zweier Mehrfamilienhäuser mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Bauvorhaben am Schmorellplatz 8
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen
+- TOP 3.6.6.2.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 3.6.6.3.: "Cafe Bar Selfi" - Antrag auf unveränderte Fortführung des Gaststättenbetriebes
+- TOP 3.6.6.4.: Bauvorhaben in der Reinekestr. 28 - Vorbescheid
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
