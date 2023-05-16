@@ -1,0 +1,117 @@
+# 25. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-16T15:39:00+02:00
+- Ende: 2023-05-16T20:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26896
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26896
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vor Eintritt in die Tagesordnung: Bestellung einer weiteren stellvertretenden Schriftführerin für den Rat - ungeändert beschlossen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, Die Linke., FDP und Volt betreffend "Ostgebäude Stadthaus Deutz" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Antrag der SPD-Fraktion betreffend „Großmarkt in Raderberg/Zukunft des Frischezentrums: die Versorgung der Stadt Köln und die Existenzen vieler Großmarkthändler*innen sichern!“ - Sache ist erledigt
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke., FDP, Volt, Die FRAKTION, RM Gabriel (KLIMA FREUNDE) und RMBewerbung der Stadt Köln als Modellstadt für die Legalisierung von Cannabis vorbereiten – Jugendschutz mit Maßnahmen sicherstellen - ungeändert beschlossen
+- TOP 3.1.2: Antrag AfD-Fraktion betreffend "Die Situation der Kliniken der Stadt Köln duldet keinen weiteren Aufschub – Sanierungsfahrplan unverzüglich umsetzen!" - endgültig abgelehnt
+- TOP 3.1.3: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Pilotstrecke für autonom fahrende Verkehre" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - geändert beschlossen
+- TOP 3.1.4: Antrag der Fraktionen SPD, Die Linke. und FDP betreffend "Umsetzung der Beschlüsse des Rates, seiner Gremien sowie den Bezirksvertretungen" - endgültig zurückgezogen
+- TOP 3.1.5: Antrag der Fraktion Die FRAKTION betreffend "Cannabis Cologne" - endgültig abgelehnt
+- TOP 3.1.6: Antrag der AfD-Fraktion betreffend "Verkehrswende mit Augenmaß – KVB Vorstand in die Pflicht nehmen – Verkehrsversuche aussetzen" - endgültig abgelehnt
+- TOP 3.1.7: Antrag der SPD-Fraktion betreffend "Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.8: Antrag FDP-Fraktion betreffend "Bestandsbezogene Rücklagenbildung" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.9: Antrag der Fraktion Die FRAKTION betreffend "Anthrazit Konterrevolution - Gestaltungshandbuch mit Akzenten!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Anregung der Bezirksvertretung Innenstadt nach § 38 Geschäftsordnung des Rates und der Bezirksvertretungen - hier: Zentralbibliothek erhalten - AN/0442/2023 - ungeändert beschlossen
+- TOP 3.2.2: Anregung der Bezirksvertretung Innenstadt zur künftigen Nutzung und Bebauung des ehemaligen Areals der Oberfinanzdirektion Köln, Riehler Platz 2 sowie der ehemaligen Generalzolldirektion, Wörthstr. 1-3, 50668 Köln - Alternative beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Fraktion Die FRAKTION betreffend "Wo ist jetzt das Cradle?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 14.04.2023 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion Die Linke. betreffend "Mehr Öffentlichkeitsbeteiligung wagen: Begleitgremien im Bereich des Stadtentwicklungsausschusses" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 16.05.2023 - zurückgestellt
+- TOP 4.3: Anfrage der AfD-Fraktion betreffend "Welcome Desk - Zwischenbilanz nach einem Jahr" - zurückgestellt
+- TOP 4.4: Anfrage der FDP-Fraktion betreffend "Abmietung des Ostgebäudes vom Stadthaus Deutz, Willy-Brandt-Platz 3, 50679 Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 16.05.2023 - Kenntnis genommen
+- TOP 4.5: Anfrage der Fraktion Die FRAKTION betreffend "Geheime Geheimverwaltung der Stadt Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 15.05.2023 - Kenntnis genommen
+- TOP 4.6: Anfrage der Fraktion Die FRAKTION betreffend "Nachfrage Sachstand „Kommunikation im öffentlichen Raum“" - zurückgestellt
+- TOP 4.7: Anfrage der FDP-Fraktion betreffend "Umsetzungsstand Großmarkt" - zurückgestellt
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4.1: Anregung des Integrationsrates aus seiner Sitzung vom 18.04.2023 zur Unterstützung einer Gemeinde im Erdbebengebiet Türkei/Syrien - ungeändert beschlossen
+- TOP 5.4.2: Anregung des Integrationsrates aus seiner Sitzung vom 18.04.2023 betreffend "Errichtung einer Koordinierungsstelle Erdbeben Türkei / Syrien - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Änderungssatzung zur Friedhofsgebührensatzung der Stadt Köln - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 7.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 KomHVO
+- TOP 7.2.1: Ermächtigungsübertragungen in das Haushaltsjahr 2023 - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion - zurückgestellt
+- TOP 10.2: KölnBusiness Wirtschaftsförderungs-GmbH; Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 10.3: Verlängerung der Anmietung des Standortes Ringstr. 38-44 in 50996 Köln-Rodenkirchen zur Unterbringung von Geflüchteten - ungeändert beschlossen
+- TOP 10.4: Fahrplanwechsel 2023 - Einrichtung einer TaxiBus-Linie in Klettenberg - geändert beschlossen
+- TOP 10.5: Kapazitätserweiterungen auf den Linien 4, 13 und 18 - geändert beschlossen
+- TOP 10.6: Errichtung des Bildungsgangs "Fachoberschule Klasse 11 und 12 - Fahrzeugtechnik (Elektromobilität)" Fachrichtung Technik im Schwerpunkt Metalltechnik am NAOB (BK 18) zum Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 10.7: Beauftragung der Kölner Schulbaugesellschaft mbH mit dem Bau der Grundschule Friedenstraße, Köln-Porz - geändert beschlossen
+- TOP 10.8: Bedarfsfeststellung für die Europawahl 2024 - ungeändert beschlossen
+- TOP 10.9: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2023/24 - ungeändert beschlossen
+- TOP 10.10: Schulrechtliche Änderung des Bildungsgangs "Fachschule für Technik - Fachrichtung Fahrzeugtechnik" durch die Schwerpunkt Elektromobilität des Nicolaus-August-Otto-Berufskollegs (BK 18) zum Schuljahr 2023/24 in die Tagesform - ungeändert beschlossen
+- TOP 10.11: Korrekturen zur Fortschreibung des 2. Maßnahmenpakets für Schulbauprojekte - Neubau / Erweiterung / Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer der Beschlussvorlage 1474/2020 - ungeändert beschlossen
+- TOP 10.12: Wirtschaftsplan 2023 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.13: Sanierung der Bühnen am Offenbachplatz, Erweiterung der Verpflichtungs- und Kreditermächtigungen - ungeändert beschlossen
+- TOP 10.14: Restitution von zwei Leuchtertischen aus dem Bestand des Museum für Angewandte Kunst Köln - ungeändert beschlossen
+- TOP 10.15: Finanzierung der Umsetzung eines Kunst- und Kulturprogramms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 10.16: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche mindestens einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung einer Gesamtschule für den Stadtbezirk Nippes - geändert beschlossen
+- TOP 10.17: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 10.18: Aktualisierte Bedarfsfeststellung Unterbringungsplätze für Geflüchtete - ungeändert beschlossen
+- TOP 10.19: Verlängerung (und Reduzierung) des Personals für den Abschluss der Corona-Pandemie - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 11.1: 241. Änderung des Flächennutzungsplanes, "Alsdorfer Straße" in Köln- Ehrenfeld/ -Braunsfeld - geändert beschlossen
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss zum Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 71356/02, Arbeitstitel "An der Mühle" in Köln-Porz-Langel - zurückgestellt
+- TOP 12.2: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Deutz-Areal' in Köln-Mülheim - ungeändert beschlossen
+- TOP 12.3: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Euroforum Nord und Euroforum West' in Köln-Mülheim - ungeändert beschlossen
+- TOP 12.4: Satzung über das besondere Vorkaufsrecht nach § 25 Absatz 1 Satz 1 Nr. 2 Baugesetzbuch für das Gebiet 'Lindgens-Areal' in Köln-Mülheim - ungeändert beschlossen
+- TOP 12.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 66509/10 - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 17: Gremienbesetzungen
+- TOP 17.1: Bestellung von sachkundigen Einwohner*innen für die Ausschüsse des Rates - ungeändert beschlossen
+- TOP 17.2: Bestellung eines neuen Mitglieds für den Beirat der Forensischen Klinik Köln-Porz für die Ratsperiode 2020 bis 2025 - ungeändert beschlossen
+- TOP 17.3: Mitgliederwechsel im Jugendhilfeausschuss, hier: Evangelischer Kirchenverband Köln und Region - ungeändert beschlossen
+- TOP 17.4: Antrag der FDP-Fraktion betreffend "Benennung eines stellvertretenden Sachkundigen Bürgers im Jugendhilfeausschuss" - ungeändert beschlossen
+- TOP 17.5: Antrag von RM Gabriel (KLIMA FREUNDE) betreffend "Nachbesetzung Sachkundige*r Einwohner*in im Unterausschuss Wohnen" - ungeändert beschlossen
+- TOP 17.6: Antrag von RM Gabriel (KLIMA FREUNDE) betreffend "Nachbesetzung Sachkundige Bürgerin im Ausschuss Bürgerbeteiligung, Anregungen und Beschwerden" - ungeändert beschlossen
+- TOP 17.7: Bestellung von sachkundigen Einwohner*innen für die Ausschüsse des Rates - ungeändert beschlossen
+- TOP 17.8: Antrag der Fraktion Die FRAKTION betreffend "Bestellung einer Sachkundigen Bürgerin mit beratender Stimmen im Unterausschuss Wohnen" - ungeändert beschlossen
+- TOP 17.9: Antrag der SPD-Fraktion betreffend "Umbesetzung Stadtentwicklungsausschuss" - ungeändert beschlossen
+- TOP 17.10: Antrag der FDP-Fraktion betreffend "Benennung eines Sachkundigen Einwohners im Liegenschaftsausschuss" - ungeändert beschlossen
+- TOP 17.11: Antrag der FDP-Fraktion betreffend "Benennung eines Sachkundigen Einwohners im Bauausschuss" - ungeändert beschlossen
+- TOP 17.12: Antrag der CDU-Fraktion betreffend "TOP 17 - Gremienbesetzung" - ungeändert beschlossen
+- TOP 18: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 19: -
