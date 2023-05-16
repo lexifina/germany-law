@@ -1,0 +1,53 @@
+# Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 1/2023; Bürgerantrag vom 20.04.2023 der Anliegerinnen und Anlieger des Leinsamen-, Buchweizen-, Klee- und Flachsweges in Gronau zum geplanten Straßenendausbau
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 236/2023 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-05-16
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaBxiErdvQGtJr7qbqqOGdU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16332
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Anregungen und Beschwerden gem. § 24 GO NRW
+Eingabe Nr. 1/2023;
+Bürgerantrag vom 20.04.2023 der Anliegerinnen und Anlieger des Leinsamen-, Buchweizen-, Klee- und Flachsweges in Gronau zum geplanten Straßenendausbau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaItx3edtvSZhiFVDK0draA2RiivYWe7Yt5zL9bEfy8u/Beschlussvorlage_236-2023_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Bürgerantrag vom 20.04.2023) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb-ZKa6H0fVppVjfoh4KKQ4BsLu3cd5qKBbz9CMXUw75/Buergerantrag_vom_20.04.2023.pdf
+- Anlage: Beschlussvorlage (Auszug HFA TOP 4.1.1 236_2023 1._Ergaenzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSVo3M6fj_aaNXqlXqTX9JEVSFe8qSHwEr5B1Mi2A62v/Auszug_HFA_TOP_4.1.1_236_2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd2luMtD8-_JjHngGm1DcqGRyfKbBgaIS-aAb6nxNka_/Anlage_1.pdf
+- Anlage: Beschlussvorlage (Anlage 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcTRH5Gvh0TZR5VsSjkAB7YuyKg71kzNpbeGrfKrQVxl/Anlage_2.pdf
+- Anlage: Beschlussvorlage (Anlage 3) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfvOnCkXQcZach-BuHm_uaIYiGHab9gNkiZWdxk3Lg_d/Anlage_3.pdf
+- Anlage: Beschlussvorlage (Anlage 4) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWnRFvYjzo_HcbLwxmR18hAkJ9pDdbYcOHcE4OX56GUK/Anlage_4.pdf
+- Anlage: Beschlussvorlage (Anlage 5) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUsFyyWzgD-1WsWSs6-x511FOizBopjl_Gp1D14etOu6/Anlage_5.pdf
+- Anlage: Beschlussvorlage (Anlage 6) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXBAKYvUEcoXPflv4w61_fJA1xUSDyD_vq2JH86R-t-l/Anlage_6.pdf
+- Anlage: Beschlussvorlage (Anlage 7) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZjZ0D2PBM_iuK2IX42lZSWop0f5dCUG2rPVvs0bfnfZ/Anlage_7.pdf
+- Anlage: Beschlussvorlage (Anlage 8) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVVQ-XUNfJ4gXhFXs_4gO4IcuZ9G2Y190VohGHNoV6Vw/Anlage_8.pdf
+- Anlage: Beschlussvorlage (Anlage 9) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXeX-ooUiyv_qQIPEef15xVjkR7CpjMyYLmCoYA1Yz7H/Anlage_9.pdf
+- Anlage: Beschlussvorlage (Anlage 10) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdgQGIbXjaN6lLafh3InEyeUJq47Z2GK7tKOA8M7eyYL/Anlage_10.pdf
+- Anlage: Beschlussvorlage (Anlage 11) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRKhnJ5v88-0EniGwtlpx654DIpo659QkgwCVDCA9CXH/Anlage_11.pdf
+- Anlage: Beschlussvorlage (Anlage 12) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZagSFmQ0HWdyn9QZAzXJEvd3V6yQNLAwwXqKJJ5nlvP5/Anlage_12.pdf
+- Anlage: Beschlussvorlage (Anlage 13) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQnWQSh0Z0RkGQXwfbEjiwoTtsAvZ9YYnEQuP8-Jfr53/Anlage_13.pdf
+- Anlage: Beschlussvorlage (Anlage 14) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR4c5mcAg0X0VG1YE5sE-6Xpau-dLVgejssKf4GGb1sa/Anlage_14.pdf
+- Anlage: Beschlussvorlage (Anlage 15) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRvzfLueAv39dnDDzhMCkzrkw035TL5M6-oBctRe4Dpz/Anlage_15.pdf
+- Anlage: Beschlussvorlage (Anlage 16) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT7Kbd0vs_x2MYwME5Jilg_c7H1UsVsskQsAKKlaAjB7/Anlage_16.pdf
+- Anlage: Beschlussvorlage (Anlage 17) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTtvaBiK8LYbMjh3zIjZpGbJm0N0m9BS1cbJbFn2W-Dt/Anlage_17.pdf
+- Anlage: Beschlussvorlage (Anlage 18) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYs7dFpiQCigvDJVnTiqBKbFt_N8dsUIVK48R4-y404W/Anlage_18.pdf
+- Anlage: Beschlussvorlage (Anlage 19) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZakHoCfOpxaR-OqLikz9phyZcXhFJ7fVNj6FicxTasA/Anlage_19.pdf
+- Anlage: Beschlussvorlage (Anlage 20) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa5PlUkyu2THg23qyK-Ynd-xTUrADOfcb0be3j7erVem/Anlage_20.pdf
+- Anlage: Beschlussvorlage (Anlage 21) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZebcZHyqahUJYmZu_hG2tqLRAMor8yFT0xkRKgxR4Nfa/Anlage_21.pdf
+- Anlage: Beschlussvorlage (Anlage 22) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa9Ilso3W-lA16ofkNOU7WVudGkqgBXsuKwFo3DXqtE_/Anlage_22.pdf
+- Anlage: Beschlussvorlage (Anlage 23) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ83L4w_0QNK_3aXcJ06GkZQz--jngQxxpEQWrnZQ6Gw/Anlage_23.pdf
+- Anlage: Beschlussvorlage (Anlage 24) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTXAYelVuO4LMvoDdXZ4v-tQhiW1fXGFQEuhb_jfUbov/Anlage_24.pdf
+- Anlage: Beschlussvorlage (Anlage 25) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXCto6IpFjf4ybYJ40LRRMHPdptEJAlX4lJNPVpBUB7m/Anlage_25.pdf
+- Anlage: Beschlussvorlage (Anlage 26) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSNwVLq4S60goKn4OxLVUdTtDMYXMkbXd12XFbZHCbJ/Anlage_26.pdf
+- Anlage: Beschlussvorlage (Anlage 27) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXu9NmPTvN4NFNr0IsmZcY1Bl0K5aFzrb_DxbHCGtVcH/Anlage_27.pdf
+- Anlage: Beschlussvorlage (Anlage 28) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVcQJBCQubOhInbO8VGl7h1SxpLYixsKUj1_mBdNLM12/Anlage_28.pdf
+- Anlage: Beschlussvorlage (Anlage 29) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSssy0bgTAKZKxy0zI5gAbvwKBqU9CPbEkQ25ojHhRYV/Anlage_29.pdf
+- Anlage: Beschlussvorlage (Anlage 30) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcLeETJpAaHS55yOq0FyC4cZLadJiVL9rlPiO6uIvs5O/Anlage_30.pdf
+- Anlage: Beschlussvorlage (Anlage 31) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTUGNuJLBece4VOH3UsYxlUwvMpQ2h-hh__6RyhnzvBu/Anlage_31.pdf
+- Anlage: Beschlussvorlage (Anlage 32) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdf1T9tgake0XINVIF5WKKFlXI7VFOzaS2xco6NP9nBG/Anlage_32.pdf
+- Anlage: Beschlussvorlage (Anlage 33) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVt_HUisruyNuI_rug_rk1sL-sbHtMTEy5_bnFkTy2NI/Anlage_33.pdf
+- Anlage: Beschlussvorlage (Anlage 34) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdgUySOEMeUPgnVo7cP6Q235r5NRzIUoFp5JxET0Anla/Anlage_34.pdf
+- Anlage: Beschlussvorlage (Anlage 35) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZatguT4Jqsqd-8fF537XLGrsnaXo_l792xMqyt9zgCt3/Anlage_35.pdf
+- Anlage: Beschlussvorlage (Anlage 36) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUgVuaGGlCTf6Dwnqnh0kmat96kexidIC27elEm4-vFZ/Anlage_36.pdf
+- Anlage: Beschlussvorlage (Anlage 37) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU28G9blG5guashO5cXDyg8zlTq8OBq3MwT7LMLHH7PN/Anlage_37.pdf
+- Anlage: Beschlussvorlage (Anlage 38) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaXbaJ9BCeLV6DdZkl-RTgFXQtUmN-cCPkUiDlZoKGE_/Anlage_38.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5494 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
