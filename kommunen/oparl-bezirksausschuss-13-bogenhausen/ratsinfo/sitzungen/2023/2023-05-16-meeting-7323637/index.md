@@ -1,0 +1,151 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323637
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323637
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 25.04.2023
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Vorstellung des Bauvorhabens "Freischützstr. 46 – Neubau eines Lebensmittel­markts mit Café, Parkgarage und oberirdischen Stellplätzen – Vorbescheid"
+- TOP 2.2.2.: Feldkirchener Str. 14 - Neubau 1es Mehrfamilienhauses mit TG - VORBESCHEID
+- TOP 2.2.3.: Adalbert-Stifter-Str. 15 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 2.2.4.: Freischützstr. 46 - Neubau eines Lebensmittelmarktes mit Café, Parkgarage und oberirdischen Stellplätzen - VORBESCHEID (vertagt in der Sitzung 04/2023)
+- TOP 2.2.5.: Eggenfeldener Str. 104 - Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 2.2.6.: Cosimastr. 4 - Vergrößerung Wirtsgarten (neu: 46,95 m² / 30 Sitzplätze)
+- TOP 2.2.7.: Stefan-George-Ring 2 - MK3 - Zamilapark - Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen (Var. A), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen und Gewerbe (Var. B), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen, Gewerbe mit Einzelhandel (Var. C) - VORBESCHEID
+- TOP 2.2.8.: Westerlandanger 5 - Neubau eines Einfamilienhauses als Anbau an bestehendes Wohnhaus
+- TOP 2.2.9.: Hochstiftsweg - Neubau von Mehrfamilienhäusern (Haus 1 - 4 in WA 3) sowie von Gebäuden mit Wohnungen in Form von Wohnen zum Zweck und für Zwecke der Altenpflege mit erdgeschossigem Gewerbe (Haus 5 - 10 in MK 1) sowie einer Tiefgarage (in WA 3 + MK 1) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.2.10.: Sanierungsvorhaben "An den Winterlinden" (Freischützstr. 75 - 81 und Johanneskirchnerstr. 98 – 100); Anliegen aus der Bürgerschaft
+- TOP 2.2.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.12.: Verschiedenes, Termine
+- TOP -: Baumfällungen lt. Plan
+- TOP 1.: Newtonstr. 1 - Antrag auf Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 2.: Feldkirchener Str. 14 - Neubau 1es Mehrfamilienhauses mit TG - VORBESCHEID
+- TOP 3.: Adalbert-Stifter-Str. 15 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 4.: Eggenfeldener Str. 104 - Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 5.: Stefan-George-Ring 2 - MK3 - Zamilapark - Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen (Var. A), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen und Gewerbe (Var. B), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen, Gewerbe mit Einzelhandel (Var. C) - VORBESCHEID
+- TOP 6.: Westerlandanger 5 - Neubau eines Einfamilienhauses als Anbau an bestehendes Wohnhaus
+- TOP 7.: Hochstiftsweg - Neubau von Mehrfamilienhäusern (Haus 1 - 4 in WA 3) sowie von Gebäuden mit Wohnungen in Form von Wohnen zum Zweck und für Zwecke der Altenpflege mit erdgeschossigem Gewerbe (Haus 5 - 10 in MK 1) sowie einer Tiefgarage (in WA 3 + MK 1) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) + (U) Abknickende Vorfahrtsstraße und Halteverbot in der Knappertsbuschstraße Empfehlung Nr. 20-26 / E 00936 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 20.10.2022
+- TOP 2.3.2.: MVG-Leistungsprogramm 2024; Anhörung der MVG
+- TOP 2.3.3.: Mauerkircherstraße, Ecke Vilshofener Straße: Sicherer Übergang; Anliegen aus der Bürgerschaft
+- TOP 2.3.4.: Gefährlicher Fahrradweg in der Eggenfeldener Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.6.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Kinderhaus an der Spervogelstraße e.V. Bauernhoffahrt 2023 3.315,00 € / Az. 0262.0-13-0366 - vertagt aus der Sitzung 04/23 - Vorstellung durch Antragsteller*in
+- TOP 2.4.2.: (E) Stadtbezirksbudget Faschingsgesellschaft Feringa München-Johanneskirchen e.V. Erneuerung der Musikanlage 3.709,87 € / Az. 0262.0-13-0368
+- TOP 2.4.3.: (E) Stadtbezirksbudget foolpool GbR Das kleine VerWunderLand - Varieté vor der Haustür - aus München für München von April - November 2023 9.300,00 Euro, Az.: 0262.0-13-0357 - vertagt aus der Sitzung 03/23 und 04/23 -
+- TOP 2.4.4.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor "A River Happening" von Mai - November 2023 5.000,00 Euro, Az.: 0262.0-13-0358 - vertagt aus der Sitzung 04/23 -
+- TOP 2.4.5.: (E) Stadtbezriksbudget Elternbeirat des städtischen Hauses für Kinder Beschaffung Matschküche 2.000,00 € / Az.: 0262.0-13-0364 - vertagt aus der Sitzung 04/23 -
+- TOP 2.4.6.: (E) Stadtbezirksbudget Asociación Cultural Peruana „Chasqui“ e.V. Inti Raymi Festival München – Sonnwendtfest der Anden vom 23. - 25.06.2023 2.300,00 € / Az.: 0262.0-13-0365 - vertagt aus der Sitzung 04/23 -
+- TOP 2.4.7.: (E) Stadtbezirksbudget WiAC e.V. Anpassung/Erneuerung der IT-Infrastruktur 3.715,10 € / Az. 0262.0-13-0369
+- TOP 2.4.8.: (E) Stadtbezirksbudget SG Schützenlisl 2 Englschalking Anschaffung eines Getränkeautomaten 5.576,95 € / Az. 0262.0-13-0360 - vertagt aus der Sitzung 04/23 -
+- TOP 2.4.9.: (E) Stadtbezirksbudget Alte Musik in Bogenhausen e.V. Traditionell Innovativ – Gesprächskonzert zur Bogenhausener Künstlerkapelle am 05.05.2023 1.270,00 € / Az. 0262.0-13-0370
+- TOP 2.4.10.: SG Schützenlisl 2 Englschalking Anschaffung eines Getränkeautomaten 5.576,95 € / Az. 0262.0-13-0360 - weiteres Angebot -
+- TOP 2.4.11.: Elternbeirat des städtischen Hauses für Kinder Beschaffung Matschküche 2.000,00 € / Az.: 0262.0-13-0364 - weiteres Angebot -
+- TOP 2.4.12.: (E) Stadtbezirksbudget Initiative „Papiertheaterfestival“ 7. Münchner Papiertheaterfestival vom 19.-22.10.2023 4.000,00 € / Az. 0262.0-13-0
+- TOP 2.4.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.14.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Berufsschule zur Berufsvorbereitung am Bogenhauser Kirchplatz 3 - Vorstellung durch die stellvertretende Schulleitung, Nachbesprechung Ortstermin vom 29.03.23 -
+- TOP 2.5.2.: „Runder Tisch“ RBS und Planungsreferat zur Grundschulsituation; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.3.: Raum für die Mittagsbetreuung der Fritz-Lutz-Schule erhalten!; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.5.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.5.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: (E) Öffentliche Toiletten in der grünen Mitte im Prinz-Eugen-Park einrichten
+- TOP 2.6.2.: (E) Summton im Wohnhaus in der Masurenstraße - vertagt -
+- TOP 2.6.3.: Offene Mülleimer in Parkbereichen; Anliegen aus der Bürgerschaft
+- TOP 2.6.4.: Fernwärme, Geothermie und andere zukunftsfähige Heizsysteme für den 13. Stadtbezirk; Antrag der SPD-Fraktion
+- TOP 2.6.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.6.: Verschiedenes, Termine
+- TOP -: Baumfällungen (Anhörungen)
+- TOP 1.: Stradellastr. 6
+- TOP 2.: Hoyerweg 28
+- TOP 3.: Lamontstr. 13
+- TOP 4.: Schimmelweg 7a
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Veranstaltung in städtischen Grünanlagen (Bürgermeistergarten) hier: Kindergarten Sommerfest am 14.07.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.2.: Anhörung VA in städt. Grünanlage (Cosimastr.) hier: Kindercircus Roberto (Ohne Tiere) vom 27.10.- 05.11.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Anhörung VA in städt. Grünanlage (Cosimastr.) hier: Kindercircus Sorento (Ohne Tiere) vom 04.08.-13.08.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Anhörung VA in städt. Grünanlage (Westerlandanger) hier: Siedlungsfest am 17.06.2023; Ersatztermin 24.06.2023
+- TOP 2.7.5.: Traditionelle Wirtshauskultur erhalten; Antrag der SPD-Fraktion
+- TOP 2.7.6.: Sommerfest im 13er - Anmeldung
+- TOP 2.7.7.: Anhörung Veranstaltung auf öff. Verkehrsgund: „Straßenfest Lebenswerte Savitsstr" am 01.07.2023; Anhörung des Kreisverwaltungsreferat
+- TOP 2.7.8.: Veranstaltung in städtischen Grünanlagen; Inti Raymi Festival München" am 24.06.2023 im Schlösselgarten; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.10.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 3.2.1.: Antrag zur geplanten Lesung von Drag-Künstlern in der Stadtbibliothek Bogenhausen; Drittelantrag der CSU-Fraktion
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Grünanlage in der Jörg-Hube-Straße: Ausführung der ursprünglichen Planung und Entfernung des Containers
+- TOP 6.2.: Nachgefragt: Details zum geplanten Tram-Betriebshof im 13. Stadtbezirk
+- TOP 6.3.: Ausreichend Platz für den Radverkehr rund um den Friedensengel
+- TOP 6.4.: Trennung des gemeinsam genutzten Fußgänger-und Fahrradweges an der östlichen Seite der Bülowstraße
+- TOP 6.5.: Trennung des gemeinsam genutzten Fußgänger-und Fahrradweges an der östlichen Seite der Bülowstraße
+- TOP 6.6.: Stuntzstr. 16 - 18b: Umwandlung der letzten Senkrechtparkplätze in Längsparkpätze
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Eingegangene Verwendungsnachweise
+- TOP 7.1.2.: Brief an die Bürgermeister*innen - Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet - Schreiben des BA 1 an alle BAs
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Denninger Str. 198 -Unterrichtung-
+- TOP 7.7.2.: Denninger Str. 200
+- TOP 7.7.3.: Warthestr. 4-24
+- TOP 7.7.4.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen Anträge a) Auswirkungen der Übernahme des Bürgerbegehrens "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 Antrag-Nr. 20-26 / B 05279 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023 b) Sofortige Weiterführung des Gutachterverfahrens für das Projekt Rosenhof, Stephensonplatz / Bf. Perlach Antrag 20-26 / B 05281 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023
+- TOP 7.7.5.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 7.7.6.: (U) Errichten von Sanitäranlagen in den Krautgärten zwischen Apenrader Str. und Glücksburger Str.
+- TOP 7.7.7.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 7.7.8.: Bürgerstr. 10
+- TOP 7.7.9.: Cosimastr. 294-296
+- TOP 7.7.10.: "Neubau der Straßenbahnstrecke Tram Nordtangente Planfeststellungsabschnitt 3 Cosimastraße – S-Bahnhof Johanneskirchen" - Abdruck der städtischen Stellungnahme
+- TOP 7.7.11.: Neubau eines Schulungsgebäudes in München Steinhausen - Abdruck Plangenehmigungsbescheid
+- TOP 7.7.12.: Vollmannstr. 14
+- TOP 7.7.13.: Normannenstr. 34
+- TOP 7.7.14.: Denninger Str.194
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 7.9: Sozialreferat
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.17.1.: Stellungnahme zum Leistungsprogramm der MVG im Jahr 2024 des Arbeitskreis &#039;Attraktiver Nahverkehr&#039; (AAN) im Münchner Forum
+- TOP 7.17.2.: Die Hochhausstudie muss überarbeitet und ergänzt werden Stellungnahme des AK ‚Stadt: Gestalt und Lebensraum‘ und des ‚Jungen Forums‘ zur neuen Hochhausstudie
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
