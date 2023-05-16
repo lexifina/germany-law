@@ -1,0 +1,81 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352884
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352884
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Zeitlich eingeschränktes Parken gegen Umsatzrückgang in der Heimeranstr. / Bergmannstr.
+- TOP 4.2.: Blumenoffensive auf den öffentlichen Grünflächen im Viertel sowie Nachnutzung für die Asphaltstockbahn am Georg-Freundorfer-Platz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Westendstraße 66
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ridlerstraße 13-15
+- TOP 6.2.2.: Bauvorhaben Kiliansplatz 3
+- TOP 6.2.3.: Bauvorhaben Kazmairstraße 18
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststätten
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Erneuerung bzw. Komplettierung der Großschach-Spielfiguren am Georg-Freundorfer-Platz und am Spielplatz hinter der Kirche St. Benedikt
+- TOP 7.3.2.: Anschaffung und Reparatur von Tischtennisplatten; BA-Antrag 20-26 / B 04597
+- TOP 7.3.3.: Protokoll der Sitzung des Mieterbeirates vom 24.04.2023
+- TOP 7.3.4.: - NACHTRAG - AKIM-Einsatz in der Schwanthalerstraße und Parkstraße
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: KiKs-Festival vom 09.06.2023 - 11.06.2023 auf der Fläche Am Bavariapark und in der Alten Kongresshalle
+- TOP 8.2.2.: Straßenfest des Griechischen Hauses, Bergmannstraße 35a - 48 am 17.06.2023
+- TOP 8.2.3.: Internationales Fest am Gollierplatz am 01.07.2023
+- TOP 8.2.4.: - NACHTRAG - Veranstaltung in städtischer Grünanlage, Fest am Forum Schwanthalerhöhe, Theresienhöhe 5 am 08.07.2023
+- TOP 8.2.5.: - NACHTRAG - Tanzserenade auf der Fläche Am Bavariapark am 02.07.23 und am 16.07.23
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: - NACHTRAG - Absage Marktveranstaltung; Platz am Bavariapark von 20.05.2023 - 21.05.2023
+- TOP 8.3.2.: Tag des offenen Denkmals am 10.09.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Leistungsprogramm MVG 2024
+- TOP 9.2.2.: Aufhebung der Lieferzone in der Bergmannstraße
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Fahrradhighway entlang den Gleisen; von der Ganghoferbrücke zur Isar Empfehlung Nr. 20-26 / E 00236 vom 21.07.2021
+- TOP 9.3.2.: Errichtung eines Fußgängerüberwegs über die Ganghoferstraße auf Höhe der Anglerstraße; BV-Empfehlung 20-26 / E 00223 vom 21.07.2021
+- TOP 9.3.3.: Vollsperrung der Geroltstraße wegen Bauvorhaben
+- TOP 9.3.4.: - NACHTRAG - Schwanthalerstr. 140-148 und Holzapfelstr. 8-10; Neuverlegung einer Fernwärmeleitung - Verlängerung bis 16.06.2023
+- TOP 9.3.5.: Meldeliste SWM-Bauvorhaben
+- TOP 9.3.6.: AWM; Pilotversuch Gelbe Tonne
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative „Indie Comics“ “Narratives Netzwerk – Indie Comics in München vom 09.06.2023 – 10.06.2023“ 1.500,00 € / AZ: 0262.0-8-0346
+- TOP 10.1.2.: (E) Stadtbezirksbudget Deutscher Förderverein für die Arbeit globaler grüner Bewegungen e.V. “Klimacamp München vom 18.05.2023 – 21.05.2023“ 12.030,00 € / AZ: 0262.0-8-0348
+- TOP 10.1.3.: - NACHTRAG - (E) Stadtbezirksbudget Westendzeltlager “Westendzeltlager – Thema in diesem Jahr: Geheimakte WZL“ 450,08 € / AZ: 0262.0-8-0350
+- TOP 10.1.4.: - NACHTRAG - (E) Stadtbezirksbudget Auferstehungskirche München Westend “Westend Vibes“ (hochkarätige Jazz- und Klassik-Konzerte) vom 01.06.2023 – 31.12.2023“ 15.770,00 € / AZ: 0262.0-8-0352
+- TOP 10.1.5.: - NACHTRAG - (E) Stadtbezirksbudget D‘ Schwanthalerhöh‘ Trägerverein Kultur- und Vereinskeller Westendstraße 76 e.V. Veranstaltungen während der Kunst- und Kulturtage „Westend hat ein Gesicht 2023“ vom 17.06.2023 – 12.08.2023 8.440,00 € / AZ: 0262.0-8-0351
+- TOP 10.2: Anhörungen
+- TOP 10.2.1.: - NACHTRAG - Bestellung städtischer Leistungen; Finanzierung und Errichtung einer orangenen Bank - "Kein Platz gegen Gewalt an Frauen- Zonta says no."
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Unterstützung der Sozialpädagogischen Tagesgruppe “Kleine Wölfe” bei der Suche nach neuen Räumlichkeiten
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: - NACHTRAG - Informationsschreiben BA 03/2023; Hinweise zur Erstellung von Beschlussvorlagen für die Bezirksausschüsse / Zuleitung von Antwortschreiben an die BA-Geschäftsstellen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten Sitzung
