@@ -4,17 +4,18 @@ I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Fina
 Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes)
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
-1. | Rennwett-, Lotterie- und Sportwettensteuer | Chemnitz-Mitte | Freistaat Sachsen
-2.1 | Festsetzung und Erhebung der Spielbankabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
-2.2 | Steueraufsicht Spielbank Chemnitz Spielbank Dresden Spielbank Leipzig | Chemnitz-Mitte Dresden-Nord Leipzig II | 
-3. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 11 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) geändert worden ist | Dresden-Süd | Freistaat Sachsen
-4. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
+1. | Besteuerung von Rennwetten, Sportwetten, Lotterien, Ausspielungen, virtuellem Automatenspiel und Online-Poker | Chemnitz-Mitte | Freistaat Sachsen
+2.1 | Festsetzung und Erhebung der Spielbankabgabe und der Gewinnabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
+2.2 | Steueraufsicht Spielbanken | Leipzig II | Freistaat Sachsen
+3 | Festsetzung und Erhebung der Online-Casinospielsteuer | Leipzig II | Freistaat Sachsen
+4. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 11 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) geändert worden ist | Dresden-Süd | Freistaat Sachsen
+5. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Bautzen | Bautzen, Dresden-Nord, Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig I | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
-5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO | Dresden-Süd | Freistaat Sachsen
-6. | (gestrichen) |  | 
-7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
-8. | Betriebsprüfung
+6. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO | Dresden-Süd | Freistaat Sachsen
+7. | (gestrichen) |  | 
+8. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
+9. | Betriebsprüfung
 a) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
@@ -32,23 +33,23 @@ d) | Betriebsprüfung Versorgungsbetriebe | Chemnitz-Süd | Annaberg Chemnitz-Mi
 Dresden-Nord | Bautzen Dresden-Nord Dresden-Süd Görlitz Hoyerswerda Löbau Meißen Pirna
 Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
 e) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertragsarbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
-9. | Lohnsteuer-Außenprüfung |  | 
+10. | Lohnsteuer-Außenprüfung |  | 
 a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
 Görlitz | Görlitz Löbau
 b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
-10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
+11. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
 a) | allgemein | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau
 Dresden-Nord | Bautzen Dresden-Nord Dresden-Süd Görlitz Hoyerswerda Löbau Meißen Pirna
 Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
 b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 dieser Anlage | Chemnitz-Süd | Freistaat Sachsen
-11. | Grunderwerbsteuer | Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
+12. | Grunderwerbsteuer | Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
 Leipzig I | Eilenburg Leipzig I Leipzig II
 Löbau | Bautzen Görlitz Hoyerswerda Löbau Pirna
 Schwarzenberg | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Grimma Mittweida Oschatz Plauen Schwarzenberg Stollberg Zschopau Zwickau
-12. | Umsatzsteuer-Sonderprüfungen, Umsatzsteuer-Nachschauen und sonstige Ermittlungshandlungen im Sinne des § 88 AO zur Umsatzsteuer in länderübergreifenden und grenzüberschreitenden Fällen in Zusammenarbeit mit der Zentralen Koordinierungsstelle beim Bundeszentralamt für Steuern | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
+13. | Umsatzsteuer-Sonderprüfungen, Umsatzsteuer-Nachschauen und sonstige Ermittlungshandlungen im Sinne des § 88 AO zur Umsatzsteuer in länderübergreifenden und grenzüberschreitenden Fällen in Zusammenarbeit mit der Zentralen Koordinierungsstelle beim Bundeszentralamt für Steuern | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 II. Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen (ohne zentrale Zuständigkeiten nach Abschnitt I)
