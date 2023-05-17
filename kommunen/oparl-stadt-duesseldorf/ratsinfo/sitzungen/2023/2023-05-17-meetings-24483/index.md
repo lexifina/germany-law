@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-17T14:00:00+02:00
+- Ende: 2023-05-17T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24483
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24483
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 17.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486118.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 17.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486118.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 17.05.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486118.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 09.03.2023 (SI-RAT/002/2023) - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Großeinsatz der Polizei nach einer Schlägerei in einer Shisha-Bar in Düsseltal am 13. Mai 2023 - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsfrau Krüger: Feuerwerk am Japan-Tag und den damit verbundenen Auswirkungen auf Tiere - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: moderner, energiesparender und bezahlbarer Wohnraum bei städtischen Wohnungsbaugesellschaften - beantwortet
+- TOP 5.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: konkrete Arbeit und Hilfe in Düsseldorf für Kinder und Strafunmündige - beantwortet
+- TOP 5.3: Anfrage der SPD-Ratsfraktion: Städtischer Zuschuss für das 49-Euro-Ticket für Mitarbeitende der Stadtverwaltung - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Anmeldungen der Anzahl von Autos pro Haushalt in Düsseldorf - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Umsetzung des Ratsbeschlusses “Keine Gefängnisstrafen für Rheinbahn-Fahrten ohne gültigen Fahrschein" - beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: H2-ready und das Gasnetz - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Prognose für die Netzentgelte im Gasnetz - beantwortet
+- TOP 5.8: Anfrage der SPD-Ratsfraktion: Vorgartensatzung für Düsseldorf - beantwortet
+- TOP 5.9: Anfrage der Ratsfrau Vorspel: Die Stadt spart bei den öffentlichen Bädern - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Kraljic: Sicherheit im Kinderhospiz Düsseldorf - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Marmulla: Umsetzungsstand Handlungskonzept gegen Rechtsextremismus, Antisemitismus, Antiziganismus und Rassismus - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Born: Teilnahme der Ausländerbehörde an Abschiebungsfortbildungen - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Lehmann: Ausschöpfung von verfügbaren Dachflächen für Solarenergie - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Lemmer: China-Reise im April 2023 - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Lemmer: Veränderungen rund um das Büro des Oberbürgermeisters - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Dr. Proschmann: Nur 100% bezahlbare Wohnungen auf städtischen Grundstücken – Wie geht es bei der Elisabeth-/ Bachstraße weiter? - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 8: Bürgerbegehren gegen den Ratsbeschluss, Beschlussvorlage RAT/231/2022, vom 23.06.2022 zur Förderung des Evangelischen Kirchentages im Jahr 2027 in Höhe von 5,8 Millionen Euro - mehrheitlich beschlossen
+- TOP 9: UEFA EURO 2024 – Planungen der Landeshauptstadt Düsseldorf und deren finanzielle Auswirkungen - mehrheitlich beschlossen
+- TOP 10: Integriertes städtebauliches Entwicklungskonzept (ISEK) Garath 2.0 - einstimmig beschlossen
+- TOP 11: Integriertes städtebauliches Entwicklungskonzept (ISEK) Rath/Mörsenbroich - einstimmig beschlossen
+- TOP 12: Adlerstraße 8 – Wohnhaus, Instandsetzung der technischen Gebäudeausrüstung (TGA) - Änderungsbeschluss - - einstimmig beschlossen
+- TOP 12.1: Ergänzungsantrag der Ratsfraktionen CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage BAU/013/2023 - mehrheitlich beschlossen
+- TOP 13: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Kita Flinger Broich" - einstimmig beschlossen
+- TOP 14: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt Erweiterung der Kindertagesstätte Stürzelberger Straße 33, Stadtbezirk 4 - einstimmig beschlossen
+- TOP 15: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2022 - zur Kenntnis genommen
+- TOP 16: Entwurf des Jahresabschlusses 2022 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 17: Worringer Str. 136-140, Erweiterung des Ordnungs- und Servicedienstes (OSD) - mehrheitlich beschlossen
+- TOP 18: Ergebnis zum interdisziplinären Gestaltungswettbewerb zur Integration des Schallschutzes in den Stadtraum von Düsseldorf in Folge des Infrastrukturausbaus zum Rhein-Ruhr-Express - zur Kenntnis genommen
+- TOP 19: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 20: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 21: Strategie zum Parkraummanagement - mehrheitlich beschlossen
+- TOP 21.1: Änderungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zur Vorlage OVA/070/2023 - mehrheitlich abgelehnt
+- TOP 21.2: mündlicher Änderungsantrag der FDP-Ratsfraktion
+- TOP 22: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2019 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 23: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO „Erweiterung und Umbau der Grundschulen KGS ST Cäcilia und GGS Benrath, Erich-Müller-Str. 31 in Benrath zur Erhöhung der Zügigkeit" - einstimmig beschlossen
+- TOP 24: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für einen „Ersatzneubau der GGS Selma-Lagerlöf und der KGS Hermann-Gmeiner am Standort Schillstraße 7“ - einstimmig beschlossen
+- TOP 25: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt „Gymnasium Gerresheim, Am Poth 60 – Umbau und Erweiterung“ - mehrheitlich beschlossen
+- TOP 26: Umbesetzung des Vorstandes der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e. V." - einstimmig beschlossen
+- TOP 27: Kommission nach § 32 b Luftverkehrsgesetz - Wahl eines städtischen Vertreters - einstimmig beschlossen
+- TOP 28: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss - mehrheitlich beschlossen
+- TOP 29: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Anträge
+- TOP 30.1: Antrag der Ratsfraktion DIE LINKE: Gebührenregelung Anwohnerparken - mehrheitlich abgelehnt
+- TOP 30.2: Antrag der Ratsfraktion DIE LINKE: Angebote des Landes für ein Handlungskonzept gegen Rechtsextremismus, Antisemitismus, Antiziganismus und Rassismus nutzen - mehrheitlich abgelehnt
+- TOP 30.3: Antrag der Ratsfraktion DIE LINKE: Kreis der Düsselpassberechtigten erweitern
+- TOP 30.3.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/174/2023
+- TOP 30.3.2: mündlicher Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP 30.4: Antrag der AfD-Ratsfraktion: Verbot von Leih-Elektrorollern (E-Scooter) in Düsseldorf - mehrheitlich abgelehnt
+- TOP 30.5: Antrag der AfD-Ratsfraktion: Masterplan "Sicherheit für die Bewohner und Besucher der Düsseldorfer Innenstadt (Altstadt, Stadtmitte, Carlstadt)" - mehrheitlich abgelehnt
+- TOP 30.6: Antrag der SPD-Ratsfraktion: Keine Schließung von Düsseldorfer Bädern - mehrheitlich abgelehnt
+- TOP 30.7: Antrag der Ratsfraktion DIE LINKE: Nachtflugverbot durchsetzen! - mehrheitlich abgelehnt
+- TOP 30.8: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vorbild Amsterdam Schipol - Auch über den Wolken darf Freiheit nicht grenzenlos sein - mehrheitlich abgelehnt
+- TOP 30.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Herbst und Winter kommen gewiss - Decken und Gebührenordnung lassen auf sich warten - mehrheitlich abgelehnt
+- TOP 30.10: Antrag der SPD-Ratsfraktion: Neue Formate entwickeln: Museen kinder- und jugendgerecht gestalten - verwiesen
+- TOP 30.11: Antrag der Ratsfraktion DIE LINKE: Starter-Paket Schulmaterial für Schulanfänger:innen - zurückgezogen
+- TOP 30.12: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Entscheidung den Kommunen ermöglichen: Umwandlungsverordnung zum Schutz von Mietwohnungen
+- TOP 30.13: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Deutschlandticket als kostenloses Jobticket
+- TOP 30.13.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/196/2023
+- TOP 30.13.2: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/196/2023
+- TOP 31: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
