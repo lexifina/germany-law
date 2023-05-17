@@ -1,0 +1,79 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-05-17T18:30:00+02:00
+- Ende: 2023-05-17T19:49:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3115
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3115
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00140674.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00140674.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00140674.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter hier: Verbandsversammlung IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 4: Bestellung eines stellvertretenden Mitgliedes des Aufsichtsrates GWD - einstimmig beschlossen
+- TOP 5: Umsetzungsantrag JHA durch die Caritas Sozialdienste - einstimmig beschlossen
+- TOP 6: Besetzung der Einigungsstelle - einstimmig beschlossen
+- TOP 7: Beteiligung der Stadt Grevenbroich an dem Landesprogramm „Heimat-Förderung" - einstimmig beschlossen
+- TOP 8: Bericht über ukrainische Flüchtlinge zum 31.03.2023 - Kenntnisnahme
+- TOP 9: Aufstellung einer Vorschlagsliste für die Wahl von Hauptschöffinnen und –schöffen für das Amtsgericht Grevenbroich und das Landgericht Mönchengladbach für die Amtszeit vom 01.01.2024 bis 31.12.2028. - einstimmig beschlossen
+- TOP 10: Wahl von Schiedspersonen für die Schiedsamtsbezirke III und V - einstimmig beschlossen
+- TOP 11: Verzicht auf den hälftigen Gebührenanteil aus Schlichtungsverfahren für Schiedspersonen - einstimmig beschlossen
+- TOP 12: Einlage Bürgerenergie Hemmerden - einstimmig beschlossen
+- TOP 13: Neuauflage des NRW-Förderprogramms zur Stärkung der Innenstädte - Kenntnisnahme
+- TOP -: 1. Änderungsverordnung zur Ordnungsbehördlichen Verordnung zur Werbung in der Stadt Grevenbroich vom 16.12.2021 - von der Tagesordnung abgesetzt
+- TOP 14: Mittelbereitstellungen
+- TOP 14.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitbestellung im Jahr 2023 für den Jahresabschluss 2022 - Kenntnisnahme
+- TOP 14.2: Bekanntmachung über- und außerplanmäßiger Mittelbereitbestellung im ersten Quartal 2023 - Kenntnisnahme
+- TOP 15: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 15.1: G 46 1. vereinf. Änd. der 8 Änd. Satzungsbeschluss - einstimmig beschlossen
+- TOP 15.2: G 235 Zwischen Gerberstraße und Erft - Aufstellung - einstimmig beschlossen
+- TOP 15.3: G 236 Tankstelle Kolpingstraße Aufstellung und frühz. B.Bet. - einstimmig beschlossen
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: Theoretische Führerscheinprüfung wieder in Grevenbroich ermöglichen (Anfrage Nr.:27/2023) - Kenntnisnahme
+- TOP 16.2: Sauberkeit im innerstädtischen Raum (Antrag Nr.:84/2022) - Kenntnisnahme
+- TOP 16.3: Wie steht es um Carsharing-Angebote in der Stadt Grevenbroich? (Anfrage Nr.:01/2023) - Kenntnisnahme
+- TOP 16.4: Sicheres Grevenbroich-Weiterentwicklung des Ordnungs- und Servicedienstes (Antrag Nr.:16/2023) - mehrheitlich beschlossen
+- TOP 16.5: Verteilung von Sportmitteln in Grevenbroich (Anfrage Nr.:23/2023) - Beantwortung - Kenntnisnahme
+- TOP 17: Schriftliche Anträge
+- TOP 17.1: Anträge der SPD-Fraktion
+- TOP 17.2: Anträge der CDU-Fraktion
+- TOP 17.2.1: Anregung zur Anpassung bzw. Änderung des Bebauungsplanes K37 Schubertstraße, bezüglich des Schulhofgeländes - einstimmig beschlossen
+- TOP 17.2.2: Einrichtung eines Jugendtreffs in Kapellen - einstimmig beschlossen
+- TOP 17.2.3: Aufwertung des Kinderspielplatzes an der Rilkestraße (Kapellen) - einstimmig beschlossen
+- TOP 17.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 17.3.1: Umbesetzungen - einstimmig beschlossen
+- TOP 17.4: Anträge der FDP-Fraktion
+- TOP 17.4.1: Street-Art statt Schmierereien: Graffiti-Street-Art-Flächen identifizieren und strukturiert nutzen (Antrag Nr.:34/2023) - einstimmig beschlossen
+- TOP 17.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 17.5.1: Erarbeitung eines identitätsstiftenden Gestaltungskonzeptes für die Innenstadt - einstimmig beschlossen
+- TOP 17.5.2: Antrags-/Anfragenverfolgung - einstimmig beschlossen
+- TOP 17.6: Anträge der UWG-Fraktion
+- TOP 17.7: Gemeinschaftsanträge
+- TOP 17.7.1: Einführung des webbasierten Leerstands- und Ansiedlungsmanagements LeAn - einstimmig beschlossen
+- TOP 18: Schriftliche Anfragen
+- TOP 18.1: Anfragen der SPD-Fraktion
+- TOP 18.2: Anfragen der CDU-Fraktion
+- TOP 18.2.1: Kita Bedarfsplanung in Wevelinghoven und Langwaden - einstimmig beschlossen
+- TOP 18.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 18.3.1: Trinkwasserversorgung in Grevenbroich - einstimmig beschlossen
+- TOP 18.3.2: Blindenleitsystem Rheydter Straße / Dechant-Schütz-Straße - einstimmig beschlossen
+- TOP 18.3.3: Rheinwasser Transportleitung - einstimmig beschlossen
+- TOP 18.4: Anfragen der FDP-Fraktion
+- TOP 18.4.1: Öffentlich zugängliche Basketball-Spielflächen in der Stadt Grevenbroich (Anfrage Nr.: 33/2023) - einstimmig beschlossen
+- TOP 18.4.2: Hunde(-steuer) in Grevenbroich - einstimmig beschlossen
+- TOP 18.4.3: Leistungen nach dem Bildungs- und Teilhabepaket (Anfrage Nr. 37/2023) - einstimmig beschlossen
+- TOP 18.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 18.5.1: Die offene Turnhalle - ein Freizeitangebot für Jugendliche - einstimmig beschlossen
+- TOP 18.5.2: Müllgefäße in der Innenstadt / Fußgängerzone - einstimmig beschlossen
+- TOP 18.6: Anfragen der UWG-Fraktion
+- TOP 18.7: Gemeinschaftsanfragen
+- TOP 18.7.1: Gemeinsame Anfrage der FDP/UWG-Ratsfraktionen zur Situation der Freiwilligen Feuerwehr in Grevenbroich - einstimmig beschlossen
+- TOP 19: Mitteilungen des Bürgermeisters
