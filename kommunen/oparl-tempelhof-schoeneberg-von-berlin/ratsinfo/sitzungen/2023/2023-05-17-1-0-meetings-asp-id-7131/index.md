@@ -1,0 +1,80 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2023-05-17T17:00:00+02:00
+- Ende: 2023-05-17T21:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7131
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7131
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=421887
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Boelckestraße – Interessen aller Verkehrsteilnehmer abwägen - mit Änderungen in der BVV beschlossen
+- TOP 4.2: Scooter-Meldung einfacher und effizienter machen - mit Änderungen in der BVV beschlossen
+- TOP 4.3: Fuhrpark des Bezirksamts - beantwortet
+- TOP 4.4: Kiezblocks unter der Lupe - beantwortet
+- TOP 4.5: Bezirklichen Gefährdungsatlas im Rahmen der Korruptionsprävention fortschreiben - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Schriftführers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl eines stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Hitzeschutz ist Gesundheitsschutz – Hitzeschutzplan als Teil des Klimaanpassungsmanagements etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Pride-Flaggenhissung vor den Rathäusern - mit Änderungen in der BVV beschlossen
+- TOP 9.3: Öffentliche Toilette für das Zentrum der Großsiedlung Marienfelde - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Erscheinungsbild bei Pride-Flaggenhissung verbessern - überwiesen
+- TOP 9.5: Graffitis am Luftbrückendenkmal zeitnah entfernen - in der BVV abgelehnt
+- TOP 9.6: Stadtplatz Langenscheidtbrücke/Crellestraße aufwerten: Bänke aufstellen und Kunst sanieren - mit Änderungen in der BVV beschlossen
+- TOP 9.7: Interessenbekundung für das geplante Regenbogen-Haus - überwiesen
+- TOP 9.8: Kreuzung Friedenstraße/Mariendorfer Damm für den Fuß- und Radverkehr sicherer gestalten - vertagt
+- TOP 9.9: Eine öffentliche Toilette für den Nahariya-Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Biergarten im Naumannpark in das geplante Neubauprojekt integrieren - überwiesen
+- TOP 9.11: Just Say Yes! Trauungen im Goldenen Saal wieder ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Wildes Plakatieren beenden - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Sichere Fußgängerampel am Nahmitzer Damm/Marienfelder Allee - mit Änderungen in der BVV beschlossen
+- TOP 9.14: Historische Bedürfnisanstalt U-Bülowstraße wiederfinden und rekonstruieren - überwiesen
+- TOP 9.15: Baumkonzept - überwiesen
+- TOP 9.16: Veränderten Standort für den Markt auf dem John-F.-Kennedy-Platz prüfen - überwiesen
+- TOP 9.17: Eigener Werkhof für den Fachbereich Straßen - überwiesen
+- TOP 9.18: Fahrradbügel auch für das Bürgeramt in der Briesingstraße - mit Änderungen in der BVV beschlossen
+- TOP 9.19: Rosen für den Rosengarten - überwiesen
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Dauerbaustelle an der Gersdorfstraße Ecke Blumenweg - beantwortet
+- TOP 10.2: Aktueller Stand Schulplatzbedarf und Schulbauoffensive - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Ziel- und Servicevereinbarungen transparent machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Den Flügel von Ursula Mamlok im Goldenen Saal unterbringen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Goldener Saal wieder für Veranstaltungen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Aufarbeitung und Reinigung des Gedenkstein im Bornhagenweg - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Die Mauer muss durchsichtig werden - ohne Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Menschen mit Einschränkungen den Zugang zum Wahllokal sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Self-Service-Terminals in den Bürgerämtern von Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: CAMPUS der Generationen umsetzen - überwiesen
+- TOP 12.4: Integriertes Handlungskonzept Ressortübergreifende Gemeinschaftsinitiative (GI) Neukölln-Nord mit Germaniagarten - überwiesen
+- TOP 12.5: Kopfsteinpflasterstraßen in Lichtenrade fahrradfreundlicher gestalten - überwiesen
+- TOP 12.6: Schulsozialarbeit für Willkommensklassen ab sofort in der Friedenauer Gemeinschaftsschule etablieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.7: Tempelhof-Schöneberg feiert den Tag der lesbischen Sichtbarkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.8: Schutz für Kinder und Schüler sicherstellen - überwiesen
+- TOP 12.9: Katastrophenschutz in Tempelhof-Schöneberg transparenter machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.10: Koloniale Überbleibsel im Bezirk - überwiesen
+- TOP 12.11: Nicht weiter auf Kosten der Bezirke - Anpassung der Polizeibenutzungsgebührenordnung für die Ahndung und Umsetzung falsch abgestellter E-Scooter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.12: Zielvereinbarung zur gesamtstädtischen Steuerung der öffentlichen Bibliotheken - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
