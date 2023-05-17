@@ -1,0 +1,1 @@
+in Verbindung mit § 5 Nr. 14 der Delegationsverordnung (DelV) vom 28. Januar 2014 (GVBl. S. 22, BayRS 103-2-V), die zuletzt durch Verordnung vom 13. Oktober 2015 (GVBl. S. 384) geändert worden ist, verordnet das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten:
