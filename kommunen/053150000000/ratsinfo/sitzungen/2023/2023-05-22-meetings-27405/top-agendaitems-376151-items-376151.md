@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 6.10 – Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Rodenkirchen mit Start im Interimsgebäude Sürther Straße 191 / Eygelshovener Straße, 50996 Köln-Rodenkirchen gemäß § 81 Absatz 2 Schulgesetz Nordrhein-West
+
+- Sitzung: 18. Sitzung des Ausschusses Schule und Weiterbildung (2023-05-22)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/376151
+- Ergebnis: ungeändert empfohlen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/174529
