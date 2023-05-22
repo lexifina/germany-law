@@ -1,0 +1,6 @@
+# TOP 11: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Langenhahn (2023-05-22)
+- Körperschaft: Ortsgemeinde Langenhahn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2023-16-76%7CVerschNoe%7C2
