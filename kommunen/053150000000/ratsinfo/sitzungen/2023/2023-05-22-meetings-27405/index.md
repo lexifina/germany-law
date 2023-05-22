@@ -1,0 +1,60 @@
+# 18. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-22T15:05:00+02:00
+- Ende: 2023-05-22T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27405
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27405
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Bericht zur aktuellen Lage der Ukraine-Geflüchteten - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktion SPD vom 16.05.2023 betreffend "Schulraumkapazitäten für Worringen" - geändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Antrag der Fraktionen Bündnis 90 / Die Grünen, vom 19.04.2023 betreffend Mentale Gesundheit von Kölner Schülerinnen und Schülern - ungeändert beschlossen
+- TOP 4.2: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU, Volt vom 16.05.2023 betreffend "Mehrklassen an Grundschulen" - zurückgestellt
+- TOP 4.4: Anfrage der Fraktion CDU vom 16.05.2023 betreffend "Straftaten an Kölner Schulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 01.03.2023 betreffend "Missstände KGS Gutnickstraße" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 25.04.2023 Beantwortung einer schriftlichen Anfrage der SPD-Fraktion, AN/0372/2023, Missstände KGS Gutnickstraße 37, 50769 Köln-Roggendorf - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion Die Fraktion vom 07.03.2023 betreffend Ende der Kreidezeit: Verbleib der ausgemusterten Schultafeln - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 16.05.2023 Beantwortung einer schriftlichen Anfrage der Fraktion Die Fraktion betreffend "Ende der Kreidezeit" - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 05.04.2023 betreffend "Beförderung von Inklusionskindern" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 17.05.2023 Beförderung von Inklusionskindern - zurückgestellt
+- TOP 5.4: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Schulrechtliche Errichtung des Ausbildungsgangs "Gestalterin/Gestalter für immersive Medien" Fachbereich Gestaltung an der Georg-Simon-Ohm-Schule (BK 13) zum Schuljahr 2023/24 - ungeändert empfohlen
+- TOP 6.2: Schulrechtliche Erweiterung des Bildungsganges "FOS Polizei" Fachbereich Wirtschaft und Verwaltung am Berufskolleg an der Lindenstraße (BK 3) zum Schuljahr 2023/24 - ungeändert empfohlen
+- TOP 6.3: Einrichtung des neuen Bildungsganges "Fachpraktiker/in Küche" am Berufskolleg Ehrenfeld (BK 20) rückwirkend zum Schuljahr 2022/2023 - ungeändert empfohlen
+- TOP 6.4: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Nippes mit Start im Interimsgebäude Toni-Steingass-Park, 50733 Köln-Niehl zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 6.5: Schulrechtliche Errichtung einer Gesamtschule im Interimsgebäude Bürgerpark Nord, Escher Straße 279, 50739 Köln-Bilderstöckchen zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 6.6: Schulrechtliche Errichtung einer Gesamtschule im „Snake“-Gebäude, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 6.7: Schulrechtliche Errichtung der Gesamtschule Fitzmauricestraße in Ossendorf mit Start im Interimsgebäude „Snake“, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 6.8: Korrektur Ratsbeschluss 1141/2016 - Rücknahme der Zügigkeitserweiterung für die Königin-Luisen-Schule - ungeändert empfohlen
+- TOP 6.9: Zügigkeitserweiterung der Gemeinschaftsgrundschule Annastraße 63, 50968 Köln-Raderberg, Schulnummer 112100, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.10: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Rodenkirchen mit Start im Interimsgebäude Sürther Straße 191 / Eygelshovener Straße, 50996 Köln-Rodenkirchen gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2024/25. - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 6.10 – Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Rodenkirchen mit Start im Interimsgebäude Sürther Straße 191 / Eygelshovener Straße, 50996 Köln-Rodenkirchen gemäß § 81 Absatz 2 Schulgesetz Nordrhein-West - ungeändert empfohlen
+- TOP 6.11: Zügigkeitserweiterung der Gemeinschaftsgrundschule Geilenkircher Straße, Geilenkircher Straße 52, 50933 Köln-Braunsfeld, Schulnr. 112422, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.12: Zügigkeitserweiterung der Gemeinschaftsgrundschule Konrad-Adenauer-Schule, Martinusstraße 28, 50765 Köln-Esch/Auweiler, Schulnr. 114108, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.13: Zügigkeitserweiterung der Gemeinschaftsgrundschule Nußbaumerstraße, Nußbaumerstraße 254-256, 50825 Köln-Neuehrenfeld, Schulnr. 112471, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.14: Zügigkeitserweiterung der Katholischen Grundschule Osterather Straße, Osterather Straße 13, 50739 Köln-Bilderstöckchen, Schulnr. 111740, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.15: Zügigkeitserweiterung der Gemeinschaftsgrundschule Soldiner Straße, Soldiner Straße 68, 50767 Köln-Lindweiler, Schulnr. 185425, zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.16: Umwandlung von zwei Katholischen Grundschulen in Gemeinschaftsgrundschulen - ungeändert empfohlen
+- TOP 6.17: Einrichtung des Neubaus mit einer Dreifach- und einer Einfachturnhalle - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vereinbarung über ein Pilotprojekt zur Reinigung schadstoffbelasteter Luft in Städten - Kenntnis genommen
+- TOP 8.2: Erstes Kölner Antidiskriminierungsmonitoring - Kenntnis genommen
+- TOP 8.3: Tätigkeitsbericht 2022/2023 des Kommunalen Medienzentrums der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Anmeldeverfahren der Sekundarstufe I (Überleitungsverfahren) zum Schuljahr 2023/2024 - Kenntnis genommen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Anmeldeverfahren der Grundschulen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
