@@ -1,0 +1,66 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-05-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488450
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488450
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: (E) Mögliche Grundwasserprobleme durch die künftige Bebauung des Gebietes „Botanikum“, Feldmochinger Str. 75-79
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Parksituation Borstei
+- TOP 2.2.: Bürgersteigparken an der Bunzlauer Straße
+- TOP 2.3.: Unterstützung für Zonta Club Projekte "gegen Gewalt an Frauen" , hier: Aufstellen von orangenen Bänken
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Holledauer Straße (40 Reihenhäuser) (-> vertagt aus Sitzung am 24.04.2023)
+- TOP 3.3.1.2.: Holledauer Straße (44 Reihenhäuser) (-> vertagt aus Sitzung am 24.04.2023)
+- TOP 3.3.1.3.: Baubergerstr. 19
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Kulturelle Zwischennutzung der leerstehenden Gewerbeflächen im OEZ
+- TOP 4.1.2.: N_ Wohnen in Moosach 1 – Ungenutztes Grundstück der Stadtentwässerungswerke München; Grundstück Haylerstr. 13 – Sachstand Umsetzung Wohnbebauung
+- TOP 4.1.3.: N_ Wohnen in Moosach 2 – Sanierungsgebiet, GWG-Wohnungen; Umsetzung von Mietern
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. DIE GESCHICHTENSTUNDE – Erzählen in der Schule vom 31.05 – 31.12.2023 2.500,00 € / Az.: 0262.0-10-0330
+- TOP 5.2.: (E) Stadtbezirksbudget Diakonie München-Moosach – Migrationszentrum Moosach Ausflug für Familien mit Fluchtgeschichte zwischen dem 01.-31.09.2023 1.161,00 € / Az. 0262.0-10-0332
+- TOP 5.3.: (E) Stadtbezirksbudget Schachfreunde München e.V. Schachfestival München vom 25.05. - 07.06.2023 3.630,00 € / Az. 0262.0-10-0335
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative „Kerims Nase“ Kerims Nase vom 20.-30.06.2023 416,00 € / Az. 0262.0-10-0333
+- TOP 5.5.: (E) Stadtbezirksbudget REGSAM e.V. 25. Moosacher Stadtteilkulturtage vom 24.06. - 02.07.2023 4.430,00 € / Az. 0262.0-10-0336
+- TOP 5.6.: (E) Stadtbezirksbudget Pflegehof München e.V. Ausstattung der Wohn- und Gemeinschaftsräume 5.000,00 € / Az. 0262.0-10-0334
+- TOP 5.7.: (E) Stadtbezirksbudget Augustinum Studienheim - SchulCentrum Augustinum gGmbH Vorschul-heilpädagogische-Tagesstätte "In den Kirschen" von Juni bis Dezember 2023 30.000,00 € / Az.: 0262.0-10-0331
+- TOP 5.8.: (E) + (U) Absolutes Haltverbot in der Wilhelmshavener Straße, 80997 München Empfehlung Nr. 20-26 / E 01010 der Bürgerversammlung des Stadtbezirks 10 – Moosach am 08.11.2022
+- TOP 6.: Anhörungen
+- TOP 6.1.: Bebauungsplan mit Grünordnung Nr. 2143 (Eggarten-Siedlung) sowie Änderung des Flächennutzungsplanes (FNP) (-> vertagt aus Sitzung am 24.04.2023)
+- TOP 6.2.: "Beschlussentwurf: Sanierung mit Erweiterung bzw. Neubau inklusive Außenanlagen - Kinder- und Jugendtreff "Mooskito"....
+- TOP 6.3.: Leistungsprogramm 2024 zum Fahrplanwechsel Dezember 2023
+- TOP 6.4.: Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet (Schreiben BA1 an BM*innen)
+- TOP 6.5.: Veranstaltungen in städt. Grünanlagen: 1. Am Hartmannshofer Bächl u.a.O.: "Sommerfest der Arche München" am 06.07.2023 2. Welzenbachstr. 8-12/Nanga-Parbat-Str.: "Spielwiese" am 28.06.2023
+- TOP 6.6.: N_ Sondernutzung auf öffentlichem Verkehrsgrund: Dachauer Str. 270b „Summer in the City“ - Informationsstand und Aktionsfläche vom 26.-30.06.2023 (i.R. der Moosacher Stadtteilkulturtage)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Errichtung von Schließfächern am Moosacher Bahnhof [BA-Antrag Nr. 20-26/B 04769; Ablehnung, da Reiseverkehsaufkommen zu gering, keine geeigneten Aufstellflächen.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Anbringen von Hinweisschildern "Radfahrer kreuzt von links und rechts" an diversen Einmündungsbereichen der Dachauer Straße
+- TOP 8.2.: unveränderte Fortführung eines Gaststättenbetriebes: 1. Baubergerstr. 19 2. Bunzlauer Str. 25
+- TOP 8.3.: Stellungnahme des Münchner Forums: Die Hochhausstudie muss überarbeitet und ergänzt werden; (-> siehe Sitzungsvorlage Nr. 20-26/V 08279, TOP 8.4)
+- TOP 8.4.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 8.5.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 8.6.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.7.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 8.8.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen Anträge a) Auswirkungen der Übernahme des Bürgerbegehrens "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 Antrag-Nr. 20-26 / B 05279 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023 b) Sofortige Weiterführung des Gutachterverfahrens für das Projekt Rosenhof, Stephensonplatz / Bf. Perlach Antrag 20-26 / B 05281 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023
+- TOP 8.9.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 8.10.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Pelkovenstraße 2. Leidinger Platz
