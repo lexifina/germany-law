@@ -1,0 +1,51 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-23T15:00:00+02:00
+- Ende: 2023-05-23T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27408
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27408
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Anfrage zur städtischen Antidiskriminierungsrichtlinie
+- TOP -: Beantwortung einer Anfrage zur städtischen Antidiskriminierungsrichtlinie - Kenntnis genommen
+- TOP 3.2: Anfrage: Aktueller Stand DOMID und Halle 71
+- TOP 4: Aktuelle Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 4.1: Nachfrage zur Beantwortung der Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln
+- TOP 4.2: Anfrage zur Mitteilung „Jahresbericht Auszugsmanagement für den Zeitraum 01.01.-31.12.2022“
+- TOP 4.3: Verteilung Rassismus kritischer Projektmittel
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion (AN/0639/2023) betreffend „Verwendung rassismuskritischer Projektmittel“ - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.4: Wie weit ist die Stadt mit der Umsetzung des Beschlusses Initiative „Respekt! Gegen Rassismus, Antisemitismus und Antiziganismus"?
+- TOP 5: Mitteilungen
+- TOP 5.1: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 5.2: Gleichbehandlung von Geflüchteten - Umsetzung des Beschlusses des Hauptausschusses vom 11.07.2022 - Kenntnis genommen
+- TOP 5.3: Erster Kölner Antidiskriminierungsmonitoring - Kenntnis genommen
+- TOP 5.4: Jahresbericht "Willkommen und Ankommen in Köln" 2022 - Kenntnis genommen
+- TOP 5.5: Arbeitsmarkt Köln - Rückblick 2022, bisherige Entwicklung und Ausblick 2023: Trotz Krise neuer Beschäftigungsrekord am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 5.6: "Guter Lebensabend NRW" - Veröffentlichung des im Rahmen der Projektlaufzeit vom 01.04.2021-31.12.2022 erarbeiteten Handlungskonzeptes - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.7: Sachstand zur "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 5.8: Mitteilung zum Beschluss zur Vorlage 'Freigabe und Verteilung der über den politischen Veränderungsnachweis bereitgestellten 80.000 € für die Maßnahme "Interkulturelle Öffnung der Verwaltung (externe Beratung)"' - Kenntnis genommen
+- TOP 5.9: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. 24, 50765 Köln-Blumenberg - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Schwerpunktsetzung der Arbeit im Integrationsrat in der 2. Hälfte der aktuellen Wahlperiode - zurückgestellt
+- TOP 6.2: Antrag zur Entsendung von Sachkundigen Einwohner*innen des Integrationsrates in die Ratsausschüsse - Umbesetzungen - ungeändert beschlossen
+- TOP 6.3: Antrag zur Besetzung Co-Direktion im Rautenstrauch-Joest-Museum - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Shahrzad e.V. - ungeändert beschlossen
+- TOP 8.2: Förderung des Kölner Flüchtlingsrates e.V. - ungeändert beschlossen
+- TOP 8.3: Integrationsbudget 2023 - Mittelverteilung zur Realisierung einer mehrsprachigen Veranstaltungsreihe zu Gesundheitsthemen für Senior*innen mit internationaler Familiengeschichte durch die Interkulturellen Zentren der Stadt Köln - ungeändert beschlossen
+- TOP 8.4: Verteilung der Mittel zur Förderung eines neuen Interkulturellen Zentrums (Shahrzad e.V.) für das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
