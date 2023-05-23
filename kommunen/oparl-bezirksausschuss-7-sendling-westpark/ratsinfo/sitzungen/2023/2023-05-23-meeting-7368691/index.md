@@ -1,0 +1,191 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-05-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368691
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368691
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: drei Vorschläge
+- TOP 6.2.: Westpark: Mollsee
+- TOP 6.3.: Mangelnde Sicht für Radfahrer Garmischer Str./Krüner Str.
+- TOP 6.4.: Nachtrag:Bürgerschreiben Sting Illustrated
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Wahl einer neuen Gleichstellungsbeauftragten
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Maßnahmen zur Verkehrssicherheit in der Ehrwalder Straße Empfehlung Nr. 20-26 / E 00994 der Bürgerversammlung des Stadtbezirkes 07 – Sendling- Westpark am 27.10.2022
+- TOP 8.2.: (E) Westpark: Seebühne und japanischen Garten wieder für alle Bürger*innen öffnen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Sommerstraße Innerkoflerstraße
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur “Mädchen an den Ball! Mädchenfußball im Bezirk 7 vom 01.07.2023 – 31.12.2023“ 4.140,00 € / AZ: 0262.0-7-0419
+- TOP 10.2.: (E) Stadtbezirksbudget Baugenossenschaft Kriegersiedlung eG Kinderfest am 21.07.2023 467,50 Euro, Az.: 0262.0-7-0420
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Gilmstraße 46 “Mit mach Circus in München – Westpark vom 03.07.2023 – 08.07.2023" 4.500,00 € / AZ: 0262.0-7-0421
+- TOP 10.4.: (E) Stadtbezirksbudget Die Murmeltiere e.V. “Rollos für den Gruppenraum“ 2.250,00 € / AZ: 0262.0-7-0422
+- TOP 10.5.: (E) Stadtbezirksbudget Elterninitiative Grundschule Werdenfelsstraße e.V. “Feier zum 20-jährigen Jubiläum der Elterninitiative am 12.05.2023" 1.469,35 € / AZ: 0262.0-7-0418
+- TOP 11.: Anträge
+- TOP 11.1.: Antrag Taktverdichtung 63er Bus
+- TOP 11.2.: Fürstenrieder Str Gymnasien
+- TOP 11.3.: Antrag Einhornallee
+- TOP 11.4.: A95-Geschwindigkeitskontrolle
+- TOP 11.5.: Tempo 30 in der Hansastr - Am Westpark
+- TOP 11.6.: Tempo 30 in der Fürstenrieder Straße in Höhe der Andreas-Vöst-Straße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung UA B-S-U
+- TOP 12.1.2.: Protokoll Unterausschuss Bau-Stadtplanung-Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.2.1.: Antrag Sanierung Bolzplatz Gilmstraße
+- TOP 12.3: Haushalt
+- TOP 12.3.1.: Einladung
+- TOP 12.3.2.: Protokoll HHA
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung
+- TOP 12.4.2.: Protokoll_SuK
+- TOP 12.4.3.: Antrag Familienzentrum
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.5.1.: UA MuW 2023-05 Einladung
+- TOP 12.5.2.: UA MuW Protokoll
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Telefonnotiz Schulhoföffnung Werdenfelsschule- mit Anmerkungen
+- TOP 13.1.2.: Bericht Bürgersprechstunde in SWP von OB Reiter.
+- TOP 13.1.3.: Vorl. Protokoll Besprechung Geschwindigkeitskontrollen A95
+- TOP 13.1.4.: Bericht aus der Vorstandssitzung - Catering für BA-Empfang
+- TOP 13.1.5.: Vorstellung Sommerstrße Innerkoflerstr
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.5.1.: Bericht Gleichstellungsbeauftragte 2023-05
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.7.1.: Bericht Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Werdenfelsstraße
+- TOP 15.2.: Bauvorhaben Luise-Kieselbach-Platz
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Veranstaltung auf öffentlichem Verkehrsgrund, Straßenfest, Johann-Houis-Straße
+- TOP 16.2.: Nachtrag: Anhörung, Südpark bis Schönstatt-Zentrum, Herterichstraße
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Seebühne, Sting Illustrated am 26.08.2023
+- TOP 17.2.: Westpark, Rundhäuser, Märchenerzählungen im August
+- TOP 17.3.: Westpark, Seebühne, Kinderkonzert ServusKids
+- TOP 17.4.: Westpark, Westsee, 40 Jahre Westpark, Schiffmodellbauer
+- TOP 17.5.: Westpark, Große Wiese West, Bayerische Woche der Geodäsie
+- TOP 17.6.: Nachtrag: Westpark, Eingangsrondell Reulandstraße, Nachbarschaftsfest
+- TOP 17.7.: Nachtrag: Westpark, Seebühne, Sonderveranstaltung Visionkultür
+- TOP 17.8.: Westpark, Wasserspielplatz, Sommerferienprogramm des Feierwerk e.V.
+- TOP 17.9.: Anhörung, Westpark, Große Wiese West, Opferfest
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Mainburger Str Behindertenparkplatz
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: MVG-Leistungsprogramm 2024
+- TOP 33.: Baureferat
+- TOP 33.1.: Beleuchtungsanlage im Bereich des Parkplatzes an der Siegenburger Straße
+- TOP 33.2.: Antwort Westpark Bürgersprechstunde
+- TOP 33.3.: Status Kulturbürgerhaus Sendling-Westpark - Laim
+- TOP 33.4.: Barrierefreie Querungen im Fuß- und Radverkehr - Markomannenstr. - Südparkallee
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Sanierung der Grund- und Mittelschule an der Fernpaßstraße
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Schwärzen von Daten in Versammlungsanzeigen
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Rudolf-Camerer-Straße-Feuerwehr Halteverbot
+- TOP 40.2.: Fahrradzone in der südlichen Werdenfelsstraße
+- TOP 40.3.: Fahrradzone im Bereich der Ortlerstraße
+- TOP 40.4.: Grüner Pfeil für Radfahrer
+- TOP 40.5.: Neue E-Busse werden auf den Linien 51 und 151 eingesetzt
+- TOP 40.6.: Radlstadtplan
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Fristverlaengerung Bildungslokal
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Antwort Fragen RKU
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: (U) München-Stift und Palliativ-Medizin - Zuständigkeit der städtischen Referate ändern Empfehlung Nr. 20-26 / E 00975 ...........................
+- TOP 46.2.: Aktualisierter Stand_Information des BA 7 zum Leichtbauhallenstandort in der Hansastr.
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Mittagsinsel
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Tanz um den Maibaum, Luise-Kiesselbach-Platz
+- TOP 53.2.: Bescheid, Luise-Kiesselbach-Platz, Kinder mitmach Zirkus Roberto
+- TOP 53.3.: Sommerfest auf dem Luise-Kiesselbach-Platz
+- TOP 53.4.: Bescheid, Westpark, Bereich Rosengarten, Veranstaltung der PI 15 zu 40 Jahre Westpark
+- TOP 53.5.: Bescheid, Westpark, Seebühne, musikalisches Weinfest
+- TOP 53.6.: Bescheid, Westpark, große und kleine Zirkuswiese, Zirkuslust Lab
+- TOP 53.7.: Bescheid, Westpark, ggü. Mollsee, Trommelaktion für Inklusion
+- TOP 53.8.: Bescheid, Westpark, kleine Zirkuswiese, ars musica soundcheck
+- TOP 53.9.: Bescheid, Westpark, Tanzen im Park, von Mai bis September immer freitags
+- TOP 53.10.: Ausnahmegenehmigung Veranstaltung in div. städtischen Grünanlagen-Fit im Park
+- TOP 53.11.: Bescheid, Westpark, Seebühne und Asienemsemble
+- TOP 53.12.: Bescheid, Feierwerk, Hansastr, Kaizoku, Cosplay Party
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Ohlstadter Str.-Vollsperre
+- TOP 56.2.: Höglwörther Str-PKW Parken
+- TOP 56.3.: Kürnbergstr.-Radverkehr frei
+- TOP 56.4.: Rüdesheimer Straße / Tübinger Straße: Haltverbot und Entfall PKW-Parken
+- TOP 56.5.: Sommershooting
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 59.1.: Elektrofahrdienst im Waldfriedhof
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: nächtliche Mäharbeiten im gesamten Stadtgebie
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
