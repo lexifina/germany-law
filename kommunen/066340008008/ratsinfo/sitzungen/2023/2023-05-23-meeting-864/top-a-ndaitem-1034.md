@@ -1,0 +1,6 @@
+# TOP a: des Vorsitzenden
+
+- Sitzung: Gemeindevertretung der Gemeinde Guxhagen (22. Sitzung) (2023-05-23)
+- Körperschaft: Gemeinde Guxhagen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/guxhagen/webservice/oparl/v1.1/body/1/agendaitem/1034
