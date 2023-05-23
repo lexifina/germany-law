@@ -1,0 +1,106 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-05-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253091
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253091
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.1.: Nachtrag TOP 3.3.5: Runder Tisch zur geplanten Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr.; Anhörung des Referats für Bildung und Sport
+- TOP 1.1.2.: Nachtrag TOP 3.3.6: Grünanlage an der St.-Veit-Str. "Kinderfest des Bezirksausschusses 14 - Berg am Laim" am 24.06.2023, Frist: 02.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 1.1.3.: Nachtrag TOP 3.2.11: Installation des Schildes „Verkehrszeichen 356 Verkehrshelfer“ an der Josephsburgstr. an der Kreuzung zur St.-Veit-Str.; Anliegen aus der Bürgerschaft
+- TOP 1.1.4.: Nachtrag TOP 3.3.7: „Kasperle Theater" an der Grünanlage an der St.-Veit-Str. vom 22.06.2023 bis 02.07.2023, Frist bis zum 16.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 25.04.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 25.04.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Antrag auf eine Freischankfläche, Berg-am-Laim-Str. 73; Beschluss des Bezirksausschusses 14
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Truderinger Str. - Neubau einer Wohnanlage (201 WE) sowie einer Kindertagesstätte und Tiefgarage - TEILBAUGENEHMIGUNG: Baugrube
+- TOP 3.1.2.: Installation von Mülleimern an der Streitfeldstr. Ecke Riedgaustr.; Anliegen aus der Bürgerschaft
+- TOP 3.1.3.: Am Kartoffelgarten 16 - Revitalisierung eines Bürogebäudes samt KITA, Einzelhandel, Schank- und Speisewirtschaften, Wohnungen und unterirdischem Batteriespeicher
+- TOP 3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.5.: Kreillerstr. 20 - Neubau eines Wohngebäudes (57 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.1.6.: St.-Veit-Str. 4 - Errichtung eines Holzhybridbaus mit Wohnungen, Kita und Einzelhandel (St.-Veit-Str. 4 / Truderinger Str. 136) - VORBESCHEID
+- TOP 3.1.7.: Isareckstr. 34 - Eingeschossige Aufstockung eines Wohnblocks und Neubau eines Wohngebäudes in einer Baulücke (Isareckstr. 34-36 / Dornbergstr. 7-13 / Ulrichsbergstr.) - VORBESCHEID
+- TOP 3.1.8.: Umgestaltung der Grünflächen an der Michaeliburgstr. /Ecke St.-Michael-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.1.9.: Freilegung des Hachinger Baches entlang der Truderinger Str. in einem natürlichen und offenen Flussbett mit Bäumen statt des geplanten übergitterten Betontroges und gefällter Baumreihe; Antrag der Fraktion FREIE WÄHLER/ÖDP
+- TOP 3.1.10.: Versetzung eines Mülleimers in der Schlüsselbergstr. 18; Anliegen aus der Bürgerschaft
+- TOP 3.1.11.: Reinigung und Neugestaltung der Fußgänger- und Fahrradunterführung zwischen Echardinger Grünstreifen und Erdinger Park; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: MVG-Leistungsprogramm 2024; Anhörung der MVG
+- TOP 3.2.2.: Aufhebung der Benutzungspflicht in der Else-Rosenfeld-Str.; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Einrichtung eines Tempolimits mit 30 km/h in der St.-Veit-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Verkehrssituation in der Krumbadstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Handhabung gegen Extreme Mietsteigerungen; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Aufhebung der Radwegbenutzungspflicht in der St.-Michael-Straße; Anhörung des Mobilitätsreferats
+- TOP 3.2.7.: Änderung der Ampelschaltphase an der B304 Ecke Baumkirchner Str. zur Überquerung der Berg-am-Laim-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.8.: Gemeinsames Rad(vorrang)-Netz-Hearing mit den BA 13, 14, 15 und 16
+- TOP 3.2.9.: Gemeinsames Rad(vorrang)-Netz-Hearing, Antrag der Fraktion DIE GRÜNEN - siehe TOP 3.2.8 -
+- TOP 3.2.10.: Verkehrssituation an der Sonnenwendjochstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.11.: Installation des Schildes „Verkehrszeichen 356 Verkehrshelfer“ an der Josephsburgstr. an der Kreuzung zur St.-Veit-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Durchführung von verschiedenen Maßnahmen für die Sommerstraße in der Hermann-Weinhauser-Str. durch die Landeshauptstadt München; Antrag der Fraktion Die Linke
+- TOP 3.3.2.: Gottesdienste im Ostpark am 24.06.2023 und in der Echardinger Kapelle am 02.07.2023, Frist bis zum 02.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.3.: Johannifeuer am 24.06.2023 an der Grünanlage bei der St.-Veit-Straße im Anschluss an das Kinderfest, Frist bis zum 13.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.4.: Verbesserung des Windschutzes und Reparaturarbeiten der Tischtennisplatten am Spielplatz Schwanhildenweg/Hüllgraben; Antrag der Fraktion Die Linke
+- TOP 3.3.5.: Runder Tisch zur geplanten Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr.; Anhörung des Referats für Bildung und Sport
+- TOP 3.3.6.: Grünanlage an der St.-Veit-Str. "Kinderfest des Bezirksausschusses 14 - Berg am Laim" am 24.06.2023, Frist: 02.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.7.: „Kasperle Theater" an der Grünanlage an der St.-Veit-Str. vom 22.06.2023 bis 02.07.2023, Frist bis zum 16.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Kollektivis e.V. Metamorphose 03.06.-03.07.2023 6.005,00 € / Az. 0262.0-14-0360
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Am Kartoffelgarten 16 - Revitalisierung eines Bürogebäudes samt KITA, Einzelhandel, Schank- und Speisewirtschaften, Wohnungen und unterirdischem Batteriespeicher
+- TOP 3.6.2.: Kreillerstr. 20 - Neubau eines Wohngebäudes (57 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.6.3.: Annabrunner Str. 20
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 4.1.2.: Parksituation Baumkirchner Straße/Kreillerstraße - Poller aufstellen - Antwortschreiben -
+- TOP 4.1.3.: Entsiegelung des ehemaligen Fahrradwegs Hansjakobstraße - Antwortschreiben -
+- TOP 4.1.4.: Geothermie Michaelibad
+- TOP 4.1.5.: Leistungsbilanzen des 14. Stadtbezirks für das zurückliegende Jahr bezüglich der Grün- und Freiflächenprojekte von der HA Gartenbau
+- TOP 4.1.6.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen Anträge a) Auswirkungen der Übernahme des Bürgerbegehrens "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 Antrag-Nr. 20-26 / B 05279 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023 b) Sofortige Weiterführung des Gutachterverfahrens für das Projekt Rosenhof, Stephensonplatz / Bf. Perlach Antrag 20-26 / B 05281 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023
+- TOP 4.1.7.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Mehr Wohnraum im Werksviertel: Folgen für die Planung der Infrastruktur? - Antwortschreiben -
+- TOP 4.2.2.: Tempo 30 Beschilderung in der Sonnwendjochstraße - Antwortschreiben -
+- TOP 4.2.3.: Verkehrssituation im Verbindungsstück zwischen Ampfingstraße und Mittlerer Ring ordnen - Antwortschreiben -
+- TOP 4.2.4.: Überdachung U-Bahnstation Michaelibad, Ausgang Ecke St.-Michael-Straße/Bad-Schachener-Straße - Antwortschreiben -
+- TOP 4.2.5.: Verkehr in der Grafinger Straße - Antwortschreiben -
+- TOP 4.2.6.: Aufhebung eines persönlichen Behindertenstellplatzes
+- TOP 4.2.7.: Verkehrssituation an der Hermann-Weinhauser-Str. und Neumarkter Str. - Antwortschreiben -
+- TOP 4.2.8.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 4.3.2.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 4.4.2.: Zustimmung zur Durchführung der "Spielaktion vom 07.06. – 08.06.2023 am Piusplatz"; der Vorsitzende des BA 14 gab im Rahmen von § 20 Abs. 1 Satz 2 Bezirksausschuss-Satzung Stellungnahme ab
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweis: Isarlust e.V. hier: Kulturlieferdienst
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Risserkogelstr. 6
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
