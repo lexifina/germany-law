@@ -1,0 +1,72 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-05-23T17:00:00+02:00
+- Ende: 2023-05-23T20:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23837
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23837
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486711.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486711.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00486711.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 09.05.2023 eingegangene Fragen - zurückgezogen
+- TOP 1.1: Verpflichtung eines Mitgliedes der Bezirksvertretung 7
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28.03.2023 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Mehr Sicherheit für Radfahrende auf der Benderstraße - Beschluss aus der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 4.9.1: Mehr Sicherheit für Radfahrende auf der Benderstraße - Ergänzungsantrag (interfraktionell) zur Verwaltungsvorlage - - einstimmig beschlossen
+- TOP 4.10: Zuschuss an den Düsseldorfer Sport-Club 1899 e.V. - einstimmig beschlossen
+- TOP 4.11: Zuschuss an den Düsseldorfer Turnverein von 1847 e.V. - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2023) - einstimmig beschlossen
+- TOP 4.13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.14: Bewässerung des Stadtgrüns - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Schützenplatz Gerresheim – Nachhaltige Stromentnahme für Veranstaltungen und Einrichtung von E-Ladesäulen - interfraktioneller Antrag - - abweichend beschlossen
+- TOP 5.5: Parken im Kreuzungsbereich Pfeifferstraße/Truchseßstraße - Antrag der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - einstimmig beschlossen
+- TOP 5.6: Rotschaltung der Ampelanlage Heyestr./Dörpfeldstr. - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.7: Bedarfsbeschluss Torfbruchstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.8: Fehlende Information zum Zustand der Pappeln Zweibrückenstraße - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.9: Information zum weiteren Vorgehen Am Wallgraben - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Verbreiterung Gehweg Bergische Landstraße / Blanckertzstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Umgestaltung Grünfläche Torfbruchstraße / Büdingenstraße / Nachtigallstraße - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 6.3: Ausbau der Torfbruchstraße zwischen Dreherstraße und Pöhlenweg - Anfrage der CDU-Fraktion - - zurückgezogen
+- TOP 7: Anfragen
+- TOP 7.1: Hallesche Straße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.2: Verkauf der Fläche neben dem Waldfriedhof an der Quadenhofstraße - Anfrage der Fraktionen Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: GAT Bergische Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.2: Verkehrsberuhigte Zone Peckhausweg - Informationsvorlage zum Beschluss der BV 7 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 8.3: Parkplatz am Haupteingang des Friedhofs an der Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.4: Gräulinger Straße Parkregelung für Pflegedienste - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.5: Einbahnstraße Pilgerweg - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 8.6: Tempo 30 Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
+- TOP 8.7: Fahrradständer an der Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.8: Abstellmöglichkeiten für Fahrräder in der Dörpfeldstraße - Informationsvorlagen zum Beschluss der BV 7 vom 27.09.2022 - - zur Kenntnis genommen
+- TOP 8.9: Verkehrsbelastung der Rennbahn-/Fahneburgstraße - Informationsvorlage zum Beschluss der BV 7 vom 28.01.2020 - - zur Kenntnis genommen
+- TOP 8.10: Anpassung der Parkgebührenordnung für zeitlich begrenzte Parkvorgänge - Informationsvorlage zum Beschluss der BV 7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 8.11: Parken im Kreuzungsbereich Friedrich-Wilhelm-Straße/Gudastraße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.12: Geländer an den Stufen zwischen Gerricusplatz und Alter Markt - Informationsvorlage zum Beschluss der BV 7 vom 27.09.2022 - - zur Kenntnis genommen
+- TOP 8.13: Josef-Neuberger-Straße als Einbahnstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.03.2021 - - zur Kenntnis genommen
+- TOP 8.14: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.15: Planung Bezirkssportanlage auf dem ehemaligen Lager 61, Nach den Mauresköthen - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
