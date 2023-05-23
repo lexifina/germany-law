@@ -1,0 +1,6 @@
+# TOP 6: Sonstiges
+
+- Sitzung: 5. öffentliche Sitzung des Beirates Porz Mitte (2023-05-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/373919
