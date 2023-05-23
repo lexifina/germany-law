@@ -1,0 +1,74 @@
+# 25. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-23T16:05:00+02:00
+- Ende: 2023-05-23T18:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27348
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27348
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.1.1: Änderungsantrag zu AN/0027/2023 Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.1.2: Ergänzungsantrag zu TOP 1.2 – Antrag der FDP-Fraktion „Beschleunigung ÖPNV-Netzentwicklung“ (AN/0027/2023) - zurückgestellt
+- TOP 1.1.3: Beschleunigung der ÖPNV-Netzentwicklung - zurückgestellt
+- TOP 1.2: Tempo 30 auf der B9 in Worringen einrichten - geändert beschlossen
+- TOP 1.2.1: Tempo 30 auf B9 in Worringen - Kenntnis genommen
+- TOP 1.3: Faire Preise für öffentliches Parken in Köln: Soziale Aspekte und Klimaschutz miteinbeziehen - endgültig zurückgezogen
+- TOP 1.4: Erforderliche Nachbesserungen in der Trankgasse - geändert beschlossen
+- TOP 1.4.1: Änderungsantrag zu Top 1.4, Erforderliche Nachbesserungen in der Trankgasse - ungeändert beschlossen
+- TOP 1.5: Zufahrtsregelungen für Reisebusse - ungeändert beschlossen
+- TOP 1.6: Fahrplanänderung im Kölner Westen und Norden - Umsetzung von Hpl.-Begleitbeschlüssen - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Umgestaltung der Vorgebirgstraße in Zollstock auf dem Abschnitt zwischen „Am Vorgbirgstor" und „Raderthalgürtel“ durch Umwandlung der rechten Fahrspur in eine Radverkehrsanlage/Schutzstreifen - zurückgestellt
+- TOP 2.1.1: Änderungsantrag zu TOP 2.2 "Umgestaltung der Vorgebirgstraße" - zurückgestellt
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: On-Demand-Angebot KVB-Isi - ungeändert beschlossen
+- TOP 3.2: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zu Top 3.2, Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - geändert beschlossen
+- TOP 3.3: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - ungeändert beschlossen
+- TOP 3.4: Bedarfsfeststellungs- und Baubeschluss für die Instandsetzung der Parkpalette Jakobstraße/Josephstraße - im ersten Durchgang verwiesen
+- TOP 3.5: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - ohne Votum in nachfolgende Gremien
+- TOP 3.6: Bedarfsfeststellungsbeschluss über die Erarbeitung einer Klimaneutralitätsstrategie für den Bauhof des Amtes für Verkehrsmanagement - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - mit Änderungen empfohlen
+- TOP 4.2: 287. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - Sache ist erledigt
+- TOP 4.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - ohne Votum in nachfolgende Gremien
+- TOP 4.4: 288. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Neubewertung des Projektes am Waidmarkt - Einstellung der Planungen für einen unterirdischen Kulturort (K3) und Perspektiven der weiteren städtebaulichen und kulturellen Entwicklung. - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Planungs- und Bedarfsfeststellungsbeschluss für die Vergabe der weiteren externen Ingenieur- und Dienstleistungen (HOAI, Leistungsphasen 1 bis 9) zur Realisierung der Maßnahme „Vierspuriger Ausbau der Frankfurter Straße zwischen der Theodor-Heuss-Str - endgültig zurückgezogen
+- TOP 4.7: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - im ersten Durchgang verwiesen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Zugeparkte Gehwege nicht weiter tolerieren – Bremer Urteil richtungsweisend auch für Köln - zurückgestellt
+- TOP 5.1.2: Sachstand Ertüchtigung der Friedrich-Ebert-Straße/ Kreuzung L300 - zurückgestellt
+- TOP 5.1.3: Güterverkehr auf der Schiene - rechtliche Grundlagen - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: 25.332 ausgefallene KVB-Fahrten in 2022 sind viel zu viele - zurückgestellt
+- TOP 5.2.2: Umsetzung Verkehrsversuch Venloer Straße (Phase 3) - zurückgestellt
+- TOP 5.2.3: Sanierung Gulliver-Tunnel und Trankgasse - zurückgestellt
+- TOP 5.2.4: Blindenleitlinien in Köln - zurückgestellt
+- TOP 5.2.5: Personalbedarf ÖPNV-Netzentwicklung, Mobilitätswende - zurückgestellt
+- TOP 5.2.6: Gefährliches Überholen von Radfahrenden - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Haftet der Anti-Haft-Lack? - Sache ist erledigt
+- TOP 6.2: Umbau am Bahnhof-Süd - Sache ist erledigt
+- TOP 6.3: Beantwortung der Anfrage der Fraktionen von Bündnis 90/Die Grünen und Volt vom 19.04.2023 - Sache ist erledigt
+- TOP 6.4: Bestehende Buslinienplanung - Sache ist erledigt
+- TOP 6.5: Beantwortung einer schriftlichen Anfrage der Fraktion Die Fraktion aus der Sitzung des Verkehrsausschusses vom 25.04.2023 (AN/0668/2023) betreffend "Natürliche Gleiskörper - womit spritzt die KVB?" - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Rheinpendel - Vorlage der technischen Machbarkeitsstudie - zurückgestellt
+- TOP 7.2.2: Kalker Hauptstraße - Fachgespräch - Kenntnis genommen
+- TOP 7.2.3: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.2.4: Zentrale Ergebnisse der Mobilitätsbefragung 2022 - Kenntnis genommen
+- TOP 7.2.5: Herstellung einer signalisierten Querungsmöglichkeit über die Mercatorstraße und Wegeverbindung mit Anschluss an die Elbeallee in Köln-Chorweiler - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Petition Fehlende Ampelschaltzeiten am Gymnasium Aachener Straße, Müngersdorf - zur weiteren Bearbeitung in die Verwaltung überwiesen
