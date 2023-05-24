@@ -1,0 +1,111 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-05-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7378816
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7378816
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget LIFE – Das Jugendzentrum am Ackermannbogen/CVJM München e.V. Aktivferien am Ackermannbogen vom 30.05. - 02.06.2023 5.071,95 € / Az.: 0262.0-4-0448
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Bauvorhaben Düsseldorfer Straße 10
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Georgenstr. 130: Umbau und Umnutzung einer Gaststätte zu Wohnzwecken, Zusammenlegung von Einheit 1 (Gaststätte, Erdgeschoss) mit Einheit 5 (Wohnung, 1. Obergeschoss)
+- TOP 2.2.: Tektur Hohenzollernstr. 54: Umbau / Ausbau DG Vorder-/Rückgebäude mit 1 Gaube und 2 Loggien, Wiederanbau von 4 Balkonen an Mittel-/Rückgebäude, Anbau Fluchtleiter mit Podesten an Mittelgebäude und Instandsetzung Fassaden
+- TOP 2.3.: Tektur Kathi-Kobus-Str. 22: Neubau einer Wohnanlage mit zweigeschossiger Tiefgarage - mit Mobilitätskonzept (Kathi-Kobus-Str. 22 + 24 / Theo-Prosel-Weg 11 + 13)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: (E) + (U) Beschwerden gegen Gorillas-Warenlager in der Angererstraße
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 3.2.2.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Protokoll der Sitzung des Mieterbeirats vom 24.04.2023 mit Präsentation zu Aufgaben und Angeboten des Amtes für Wohnen und Migration
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Fahrrad-Piktogramme auf der Fahrbahn der Karl-Theodor-Straße
+- TOP 1.2.: Bürgerin: Falschparker im Parklizenzgebiet Winzerer-/Hildeboldstraße (mit Antwort der Kommunalen Verkehrsüberwachung)
+- TOP 1.3.: Parkplatznot in der Agnesstraße zwischen Arcis- und Isabellastraße: Aufhebung der Kurzparkzone vor der ehemaligen Post (vertagt aus 04/2023)
+- TOP 1.4.: Bürgerin: Verkehrssituation Kreuzung Mainzer Straße/Rheinstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Künftige Raumaufteilung in der Rheinstraße (Anhörung zur Beschlussvorlage für den Mobilitätsausschuss des Stadtrats, vertagt aus 04/23 – Fristverlängerung nicht möglich, daher Eilentscheid nach der UA-Sitzung nötig)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Halteverbote im Umkreis der Baustelle Schleißheimer Str. 93 (Antwort des Mobilitätsreferats auf BA-Schreiben vom 27.04.2023)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Rümannstr. 5: Antrag auf Fällung einer Schwarzpappel
+- TOP 2.1.2.: Kraepelinstr. 55: Antrag auf Fällung eines Ahorn; ungenehmigte Fällung einer Fichte?
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Neue Standortvorschläge für eine öffentliche Toilette im Bereich Hohenzollernplatz?
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Überarbeitung des Beleuchtungskonzeptes Petuelpark (Zwischennachricht des Baureferats Gartenbau)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 3.3.2.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmegenehmigung für Mülleinsammlung ab 5.30 Uhr im Bereich Winzerer-/Hildeboldstraße vom 18.04. bis 05.06.2023 wegen Fahrbahnsanierung
+- TOP 3.4.2.: Ausnahmegenehmigung für nächtliche Mäharbeiten des Straßenbegleitgrüns (u.a. Ackermannstraße und Petuelring)
+- TOP 3.4.3.: Ausnahmegenehmigung für nächtliches Einrichten einer Baustelleneinrichtungsfläche in der ggü. Nordendstr. 46-48 am 08./09.05.2023
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "offene Bühne" offene Bühne vom 24.06. - 09.12.2023 2.200,00 € / Az.: 0262.0-4-0449
+- TOP 2.1.2.: (E) Stadtbezirksbudget Kunstzentrat e.V. Ic Ice Festival vom 13. - 15.07.2023 6.469,00 Euro, Az.: 0262.0-4-0451
+- TOP 2.1.3.: (E) Stadtbezirksbudget Netzwerk Münchner TheatertexterInnen e.V. Lesung am 23.05.2023 1.500,00 Euro, Az.: 0262.0-4-0450
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative "Forschungsprojekt" Lärmen, Lösen, Zerschmettern - Ein tänzerisches Forschungsprojekt vom 01.06. - 31.12.2023 3.800,00 Euro, Az.: 0262.0-4-0447
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Anträge Freischankflächen (Genehmigung, Erweiterung, Parkplatz-Freischankflächen) a) „Julius Brantner Brothandwerk“, Nordendstr. 23: Genehmigung einer Freischankfläche b) Lebensmittel „Mini Taste“, Belgradstr. 45, Genehmigung einer Kleinstfreischankfläche c) „YOISUSHI“, Georgenstr. 62: Genehmigung einer Parkplatz-Freischankfläche d) „Forza Napoli“, Kurfürstenplatz 5: Genehmigung einer Freischankfläche
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Agnesstraßenfest am 17.06.2023
+- TOP 2.3.2.: Informationsveranstaltung „Vielfalt im Stadtviertel“ am 21.06.2023 auf dem Hohenzollernplatz
+- TOP 2.3.3.: Quartierflohmarkt Ackermannbogen am 01.07.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Aufnahme Kontrapunkt gGmbH (d.halle/RepairCafe) in die Regelförderung (Antwort der Sozialreferentin auf BA-Schreiben vom 16.02.2023)
+- TOP 3.1.2.: Thujenhecke vor der Pizzeria Kölner Platz 7 (Antwort des Baureferats Gartenbau auf BA-Anfrage vom 02.05.2023)
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Gründung eines Nachbarschaftsviertels in Schwabing nach dem Modell „Superblock“ am 06.05.2023 auf dem Viktoriaplatz
+- TOP 3.5.2.: Genehmigungsbescheid für Fahrradsicherheitscheck am 24.05.2023 auf dem Bayernplatz
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G.2.: Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet (Schreiben des BA 1 Altstadt-Lehel an den Oberbürgermeister und die Bürgermeisterinnen)
+- TOP H: Termine
