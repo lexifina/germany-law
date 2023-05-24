@@ -1,0 +1,6 @@
+# TOP 1.2.1: Sachstandsbericht zur Wasserversorgung vom 16.05.2023
+
+- Sitzung: Gemeindevertretung (16. Sitzung) (2023-05-24)
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/agendaitem/1435
