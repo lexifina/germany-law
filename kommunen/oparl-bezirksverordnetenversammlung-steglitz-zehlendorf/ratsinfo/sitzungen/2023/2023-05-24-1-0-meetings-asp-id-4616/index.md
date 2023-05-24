@@ -1,0 +1,99 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-05-24T17:00:00+02:00
+- Ende: 2023-05-24T22:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4616
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4616
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Einwohneranträge - erledigt
+- TOP 3.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 3.1.1: Radfahren in der Brauerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Gedenken an die Niederschlagung des „Volksaufstandes 17. Juni 1953“ vor 70 Jahren - beantwortet
+- TOP 4.2: Netzwerk der Wärme in Steglitz-Zehlendorf - beantwortet
+- TOP 4.3: Unterstützung des Ehrenamts - beantwortet
+- TOP 4.4: Vier-Tage-Woche im Bezirksamt - beantwortet
+- TOP 4.5: Beschädigungen an der Spiegelwand am Hermann-Ehlers-Platz - schriftlich beantwortet
+- TOP 4.6: Immer wieder: Steglitzer Kreisel - vertagt
+- TOP 4.7: Prozessrisiko für den Bezirk durch Verwaltungspraxis im Bereich Wassersport - vertagt
+- TOP 4.8: Wohnraumbündnis! Wie ist der aktuelle Stand - vertagt
+- TOP 4.9: Aktualisierte Fassung der Schulwegpläne - schriftlich beantwortet
+- TOP 4.10: Wo bleibt die Alt-Berliner Wasserpumpe in Zehlendorf-Mitte? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Sondermittel der BVV für den Ruderclub am Wannsee e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Sondermittel der BVV für den Potsdamer Yacht Club e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Sondermittel der BVV für die Galerie Wannsee Contemporary - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Sondermittel der BVV für den Schenk doch mal ein Lächeln e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Bebauungsplan 6-24 (Fischerhüttenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.19: Wochenmarkt Teltower Damm/Anhaltinerstraße erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Vattenfall Windbaum als Pilotprojekt - in der BVV abgelehnt
+- TOP 5.21: Baumfällung durch Baumaßnahmen – Information und Erfassung - in der BVV abgelehnt
+- TOP 5.22: Mobile Beratung für psychisch beeinträchtigte Geflüchtete – dringender denn je! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Sicheres Kinderspiel am Karlplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.24: Liegenschaften für Ladeinfrastruktur mit dem FlächenTOOL melden und bei Privatpersonen und Investoren bekannt machen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.25: Ein queeres Jugendzentrum für den Süd-Westen Berlins und starke queere Jugendarbeit für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.26: Ehrenamtskarte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.27: Energiewende im Bezirk: Photovoltaikanlage auf dem Dach der Schweizerhof-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Photovoltaikanlagen auf den Dächern bezirklicher Senioren-/ Bürgertreffs - überwiesen
+- TOP 6.2: Aufstellung von Sitzbänken am Rathaus Zehlendorf - überwiesen
+- TOP 6.3: Straßenbäume Rendtorffstraße - überwiesen
+- TOP 6.4: Verlängerung Linie 218 von Pfaueninsel nach Moorlake - überwiesen
+- TOP 6.5: Asyl für Meerjungfrauen - überwiesen
+- TOP 6.6: Schulweg Dessauerstraße - überwiesen
+- TOP 6.7: Schulwegsicherheit Dunant-Grundschule - überwiesen
+- TOP 6.8: Schulwegsicherheit Grundschule am Karpfenteich - überwiesen
+- TOP 6.9: Brücke Steglitzer Damm - überwiesen
+- TOP 6.10: Durchwegung der Liegenschaften des Bundesarchivs - überwiesen
+- TOP 6.11: Standards für Inklusive Sportanlagen - überwiesen
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Leitfaden für die Temporären Spielstraßen bekannt machen - überwiesen
+- TOP 6.14: Ein regelmäßiger Frauengesundheitsbericht für Steglitz-Zehlendorf - überwiesen
+- TOP 6.15: Konstituierung des Klimaschutzbeirates initiieren - überwiesen
+- TOP 6.16: Mit Straßenbenennungen an Kriegsgefangene in Lichterfelde-Süd erinnern - überwiesen
+- TOP 6.17: Umfahrung Zehlendorfer Schönow-Kiez prüfen - überwiesen
+- TOP 6.18: Abibälle im Bürgersaal wieder ermöglichen - überwiesen
+- TOP 6.19: Umweltschutz: Schlangenbader Tunnel wieder öffnen – bis neues Verkehrskonzept umgesetzt ist - überwiesen
+- TOP 6.20: Bürger*innensteige in Lichterfelde-West von Autos befreien - überwiesen
+- TOP 6.21: Fahrgäste der BVG nicht im Regen und auch nicht im Sonnenschein stehen lassen - überwiesen
+- TOP 6.22: Keine Ehre für Kurt von Schleicher - überwiesen
+- TOP 6.23: Entsiegelungskataster für Steglitz-Zehlendorf - überwiesen
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 7.1: Soforthilfemaßnahme für Einzelhandel am Hindenburgdamm veranlassen - überwiesen
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahlvorschläge - erledigt
+- TOP 8.1.1: Wahl eines Bezirksstadtrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.2: Würdigung des aus dem Amt scheidenden Bezirksstadtrats Michael Karnetzki - erledigt
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Quo vadis, kostenlose Mieter*innenberatung in Steglitz-Zehlendorf? - beantwortet
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Drohende katastrophale Situation am S-Bahnhof Zehlendorf verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Mio. € für den Bezirk und Erfordernis eines Nachtragshaushaltes für den Bezirk wegen "politischer Entscheidung" der Bezirksbürgermeisterin gegen die Vorgaben der Senatsfinanzverwaltung - überwiesen
+- TOP 10.3: Schutz Kleingewässer Steglitz-Zehlendorf insbesondere Waldsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Beschluss endlich umsetzen - Gedenkstele für den Theater- und Kinopionier Karl Wolffsohn - in der BVV zurückgezogen
+- TOP 10.5: Die BVV Steglitz-Zehlendorf korrigiert ihre Abrissentscheidung bezüglich des Mäusebunkers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Resolution: Für ein solidarisches Steglitz-Zehlendorf – Gegen vorsätzliche Gefährdung von Menschenleben - in der BVV abgelehnt
+- TOP 10.7: Solidarität mit Charkiw vor Ort - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Ressourcen schonen – unsinnige Papierverschwendung stoppen! - in der BVV abgelehnt
