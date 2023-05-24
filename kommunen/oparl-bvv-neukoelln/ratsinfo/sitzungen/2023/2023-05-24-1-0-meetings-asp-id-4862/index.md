@@ -1,0 +1,93 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-05-24T17:00:00+02:00
+- Ende: 2023-05-24T22:24:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4862
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4862
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Drogenpolitik in Neukölln - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Hassbotschaften gegen Mitarbeiter des Bezirksamts - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Ombudsperson für die ehrenamtliche Schlichtungsstelle Jobcenter Berlin Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der CDU - gewählt
+- TOP 7.2: Wahl zur/m Bezirksverordnetenvorsteher/in - gewählt
+- TOP 7.3: Wahl zur/m stellvertretenden Bezirksverordnetenvorsteher/in - gewählt
+- TOP 7.4: Wahl der Beisitzer/innen in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 7.5: Wahl eines Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 7.6: Wahl einer Bürgerdeputierten in den Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - gewählt
+- TOP 7.7: Nachwahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Der 03. Mai 2023 in der Evangelischen Schule Neukölln - beantwortet
+- TOP 8.2: Sachstand altes C&A-Gebäude - beantwortet
+- TOP 8.3: Besetzung der Schlichtungsstelle (Ombudsstelle) gem. §15a Bürgergeldgesetz - beantwortet
+- TOP 8.4: Wird der Hermannplatz der Immobilienspekulation geopfert? - beantwortet
+- TOP 8.5: Drogenschwerpunkt Reuterkiez/Sasarsteig - beantwortet
+- TOP 8.6: Bürgeramt Alt-Buckow - beantwortet
+- TOP 8.7: Sind Neuköllner Schulen im Sinne des Brandschutzes überbelegt? - beantwortet
+- TOP 8.8: Ist die erneuerte Fahrbahnmarkierung/Querungshilfe in der Krokusstraße ein Schildbürgerstreich? - beantwortet
+- TOP 8.9: Klimaschutz in Neukölln: Wann nimmt der Klimaschutzbeauftragte seine Arbeit auf? - beantwortet
+- TOP 8.10: Fehlbesetzung im Gesndheitsamt? - beantwortet
+- TOP 8.11: Mangelnde Sicherheit für Fahrer*innen an der Baustelle Hermannstraße/ Flughafenstraße - beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Mehr Abfallbehälter an der Fulhamer Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: QM in der Gropiusstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Kein Querparken auf der Grünfläche im Truseweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Fair-Trade-Town Zertifizierung nachhaltig sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Sperrmüll-Lastenräder in die fLotte integrieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Einsatzmöglichkeiten von Elektrowärmepumpen prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.6: Bürger*innenhaushalt der Bezirke im Landesbeteiligungshaushalt berücksichtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.7: Elektronische Bürger*innenterminals für den Bezirk Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: B-Plan Emmauskirchhof - West - Ausschussberatung vor öffentlicher Auslegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Umgestaltung des Jahn-Denkmals - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Verweis in §26 Abs. 6 GO der BVV streichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Regelung des Beitritts zu Drucksachen anderer Fraktionen - in der BVV abgelehnt
+- TOP 12.4: Verweis unter §7 Abs. 5 der Geschäftsordnung korrigieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Bezirksverordnetenversammlung fit machen für das 21. Jahrhundert: Archivierung der Sitzungen der BVV auf YouTube - in der BVV abgelehnt
+- TOP 12.6: Diskriminierungsschutz an Neuköllner Schulen stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Mehr Sauberkeit in der Franz-Körner-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Glasower Straße 44-47 - Illegale Sondernutzung unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Umsetzung Lärmgutachten Schillerkiez: Fortsetzung Grundlagenermittlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Umsetzung Lärmgutachten Schillerkiez: Kommunikation - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Neukölln als fahrradfreundlichen Arbeitgeber zertifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Antidiskriminierungsbeauftragte an Neuköllner Schulen - überwiesen
+- TOP 12.13: Lieferparken in der Herrfurthstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: ParkYourBike auch in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Fahrbahnmarkierung Lupinenweg Kornblumenring - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Sitzgelegenheiten in BVG-Warteanlage am U-Bhf Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Schulwegsicherheit Hermann-Nohl-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Verstetigung der QM-Gebiete - beantwortet
+- TOP 13.2: „Verstetigung“ der QM-Gebiete - werden die Kieze alleine gelassen? - beantwortet
+- TOP 13.3: Ordnungsamt schränkt Kunst- und Meinungsfreiheit auf Palästina-Fest am 13.05.2023 ein? - beantwortet
+- TOP 13.4: Drogenschwerpunkt Reuterkiez: Versagt das Bezirksamt? - beantwortet
+- TOP 13.5: Dumping-Ausschreibung statt sauberer Schulen durch die Rekommunalisierung der Schulreinigung? - beantwortet
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: 100 Jahre Jugendamt angemessen feiern - überwiesen
+- TOP 15.2: Gesundheitskollektiv weiterhin fördern - überwiesen
+- TOP 15.3: "Verstetigung" darf kein Ende sein - Projekte erhalten, Regelfinanzierung tut not! - überwiesen
+- TOP 15.4: S- + U-Bahn Neukölln: Barrierefreie Warteschlangen benötigen unsere Hilfe - überwiesen
+- TOP 15.5: Straßenbahn zum Hermannplatz weiterverfolgen - überwiesen
+- TOP 15.6: Neukölln als Modellregion für die Cannabis-Legalisierung - überwiesen
+- TOP 15.7: Jährlicher Bericht der Bezirksbeauftragten für Partizipation und Integration - überwiesen
+- TOP 15.8: Radabstellmöglichkeiten rund um die "Jungfernmühle" in der Gropiusstadt - überwiesen
+- TOP 15.9: City-Toilette U Johannisthaler Chaussee / Grünzug - überwiesen
+- TOP 15.10: Zwischennutzung der Hertzbergstraße 9-10 ermöglichen - überwiesen
