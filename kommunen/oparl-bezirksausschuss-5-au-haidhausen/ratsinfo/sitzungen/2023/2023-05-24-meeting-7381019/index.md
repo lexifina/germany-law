@@ -1,0 +1,177 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-05-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7381019
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7381019
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Wahl der/des Vorsitzenden im UA Planung
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: UA – Wirtschaft; Top 1.4 Genehmigung einer Freischankfläche Wörthstr. 5 UA – Mobilität; Top 2.2. Vorschläge der MVG zum Orleansplatz
+- TOP 2.2.: UA - Wirtschaft; Top 1.5 Erweiterung einer Freischankfläche Metzstr. 37
+- TOP 2.3.: UA - Mobilität; Top 3.17 Verkehrsrechtliche Anordnung; Arbeiten an Fernwärmehausanschluss, Wörthstr. 34 Seite Pariser Straße
+- TOP 2.4.: UA – Mobilität: Top 2.3 Paket-Pilot Standort Kolumbusplatz UA - Mobilität; Top 2.4 Anhörungsverfahren für das Mcube Aqt Auftaktfestival am 17.06.2023, Kolumbusstr. 1-32
+- TOP 2.5.: UA - Soziales; Top 5.1 Geplante Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr. - Stellungnahme BA 5
+- TOP 2.6.: UA - Kultur, Top 10 Gasteig Raummiete, Anfrage Konzert/Übungsraum UA - Kultur, Top 11 Vorstellung „Jüdisch-Palästinensische Dialoggruppe“ UA - Kultur, Top 12 Info „Ortstermin Gasteig“
+- TOP 2.7.: UA - Mobilität, Top 4.13 Ampelschaltung an der Haltestelle Grillparzerstraße in Richtung Norden
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Wörth-/Milchstraße: Trambahngleise ergänzen; Antrag der SPD-Fraktion
+- TOP 5.2.: Gehweghochbeete: Flexible Größen zulassen; Antrag der SPD-Fraktion
+- TOP 5.3.: Aufenthaltsqulität in der Au verbessern durch Errichtung Tischen und Bänken an geeigneten Stellen; Antrag der Fraktion DIE LINKE
+- TOP 5.4.: Fahrradstellplätze für das Franzosenviertel; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.5.: ANFRAGE: Einnahmen und Ausgaben aus Bewirtschaftung des Mariahilfplatzes auflisten; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.6.: ANFRAGE: Zuständigkeiten für die Bewirtschaftung des Mariahilfplatzes; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.7.: Wiederherstellung der Wiese an der Lorettokapelle; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Brief an die Bürgermeister*innen - Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet Schreiben BA 1 Altstadt-Lehel mit der Bitte um Unterstützung aller BAs
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt Mai 2023
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Vorstellung des Projektes Metamorphose durch Kollektivis e.V. im Unterausschuss (Kreative Neugestaltung der Fußgängerunterführung zwischen Orleans- und Friedenstraße)
+- TOP II.2.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor "A River Happening" von Mai - November 2023 5.000,00 Euro, Az.: 0262.0-5-0458 vertagt in der Sitzung am 26.04.2023
+- TOP II.3.: (E) Stadtbezirksbudget Wir in Giesing e.V. Sommerprogramm Giesing vom 28.07. - 09.09.2023 4.500,00 € / Az. 0262.0-5-0466
+- TOP II.4.: (E) Stadtbezirksbudget FOTODOKS e.V. FOTODOKS Festival 2023 „Future Perfect“ vom 12.07. - 20.08.2023 1.989,73 € / Az. 0262.0-5-0471
+- TOP II.5.: (E) Stadtbezirksbudget Diakonie München und Oberbayern e.V., Hilfe im Alter GmbH, ASZ Haidhausen Sommerfest am 20.07.2023 1.310,00 € / Az. 0262.0-5-0475
+- TOP II.6.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Fest des jüdischen Lebens am 22.07.2023 500,00 € / Az. 0262.0-5-0472
+- TOP II.7.: (E) Stadtbezirksbudget Pepe Arts Freeman Festival vom 27.-29.05.2023 1.500,00 € / Az. 0262.0-5-0474
+- TOP II.8.: (E) Stadtbezirksbudget Kollektivis e.v. Metamorphose 03.06.-03.07.2023 7.005,00 € / Az. 0262.0-5-0476
+- TOP II.9.: (E) Stadtbezirksbudget ASZ Untergiesing Sommerfest auf dem Kolumbusplatz am 29.06.2023 2.171,45 € / Az. 0262.0-5-0473
+- TOP II.10.: Gasteig Raummiete, Anfrage Konzert/Übungsraum
+- TOP II.11.: Vorstellung „Jüdisch-Palästinensische Dialoggruppe“
+- TOP II.12.: Info „Ortstermin Gasteig“
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung des Sternenhauses auf dem ehem. Paulaner Gelände durch die Nicolaidis YoungWings Stiftung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Verein zur Förderung von Eigenarbeit e.V. Kleidertausch am 15.05.2023 1.463,68 € / Az.: 0262.0-0470
+- TOP 1.2.: (E) Stadtbezirksbudget Curatorium Altern gestalten gGmbH Silberfilm München vom 01.06. - 10.12.2023 1.533,12 € / Az. 0262.0-5-0467
+- TOP 1.3.: Stadtbezirksbudget - Aufstellen einer orangenen Bank
+- TOP 1.4.: (E) Stadtbezirksbudget AGKJ Au/Haidhausen Ernährungs- und Bewegungsprojekt am 02.07.2023 815,00 € / Az. 0262.0-5-0477
+- TOP 1.5.: Detailauskunft zu 1.2
+- TOP 1.6.: Detailauskunft zu Punkt II.1.1 Stadtbezirksbudget; Kleidertausch
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zahl der Schüler*innen und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den staatlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2022/2023
+- TOP 3.2.: Beantragung von Sirenen für den Stadtbezirk 5
+- TOP 3.3.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 3.4.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 3.5.: Übersicht Unterkünfte Geflüchtete und Wohnungslose Dezember 2022; Schreiben der Sozialreferentin vom 02.05.2023
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag auf weitere Babyschaukeln und ein kleines Klettergerüst am Spielplatz Maximilianeum
+- TOP 4.2.: summertour mit dem BzJR Oberbayern, Station Wittelsbacherbrücke, Anfang August 23
+- TOP 4.3.: Zustand des Bolzplatzes an der Johanniskirche
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Geplante Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr. - Stellungnahme BA 5
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Kollektivis e.V. Parklet und Stadtterasse am Breisässer Platz vom 01.04. - 31.11.2023 3.410,00 € / Az.: 0262.0-5-0468
+- TOP 1.2.: (E) Stadtbezirksbudget Bellevue di Monaco eG Stadtlauf „Giro di Monaco - Run for Peace“ am 30.04.2023 4.309,78 € / Az. 0262.0-5-0464
+- TOP 1.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 09.04.2018; hier: Erweiterung einer bestehenden Freischankfläche Johannisplatz 1
+- TOP 1.4.: Evtl. Nachtrag; Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 09.04.2018; hier: Antrag einer Freischankfläche Wörthstr. 5
+- TOP 1.5.: Evtl. Nachtrag; Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeistes vom 09.04.2018; Erweiterung einer bestehenden Freischankfläche Metzstr. 37
+- TOP 1.6.: Evtl. Nachtrag; Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 09.04.2018; hier: Baugenehmigung für eine Freischankfläche Preysingstr. 69
+- TOP 2.: Anhörungen
+- TOP 2.1.: "Ratschen und Boulen am Bordeauxplatz, Mitreden, Mitspielen" am 17.06.2023
+- TOP 2.2.: Orleansplatz -Spezialmarkt Freundschaftstreffen der Biergartenfreunde im Zeitraum 03.06. bis zum 18.06.2023, Fristverlängerung bis 25.05.2023
+- TOP 2.3.: Fest des jüdischen Lebens in der Ruhestraße am 22.07.2023
+- TOP 2.4.: Johannisplatz - Haidhauser Kultursonntag am 02.07.2023 von 14-22 Uhr (Frist bis 10.06.2023)
+- TOP 2.5.: Anhörungsverfahren für ASZ-Sommerfest auf dem Gehweg, Kolumbusplatz sowie Kolumbusstr. 33 am 29.06.2023 | Bez. 05 | Frist bis 30.05.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Vollzug der städt. Grünanlagensatzung; Bestätigung mit Anordnung Ausnahmegenehmigung hier: Friends-und Partnerschaftsfest am Bordeauxplatz am 27.05.2023
+- TOP 3.2.: Vollzug der städt. Grünanlagensatzung; Ausnahmegenehmigung hier: MVG Infoanhänger zur Fahrgastinformation am Orleansplatz vom 22.05. - 24.05.2023
+- TOP 3.3.: Vollzug der städt. Grünanlagensatzung; Ausnahmegenehmigung hier: Tauffest Isarstrand - Zellstraßenrand am Muffartbiergarten am 01.07.2023
+- TOP 3.4.: Leerstand Wiener Platz Antwort Markthallen München zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schneckenburgerstr. 7 - Versetzen eines Kunstwerkes "Gelber Turm" vor dem Gebäude 555 (das Kunstwerk ist Bestandsteil eines Gesamtkunstwerkes in Einheit mit dem Kunstwerk in Blau und dem flächigen Bodenkunstwerk, die Kunstobjekte sollen in einer Blickachse stehen) (Schneckenburgerstr. 7 / Trogerstr. 28)
+- TOP 2.2.: Preysingstr. 6 - Dachausbau mit zwei Wohnungen, Anbau eines Aufzugs und Errichtung einer Notleiteranlage - ÄNDERUNGSANTRAG zu 1.2-2022-9485-21; Frist 17.05.2023 - Fristverlängerung nicht möglich
+- TOP 2.3.: Maria-Theresia-Str. 4 - Neubau eines Wohnhauses mit 7 Wohneinheiten und Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2018-22889-21 - Jetzt: 6 Wohneinheiten; Frist 17.05.2023 - Fristverlängerung nicht möglich
+- TOP 2.4.: Pariser Str. 31 - Nutzungsänderung des Laden A zu Gastronomie
+- TOP 2.5.: Rosenheimer Str. 111 - DG- und Speicherausbau, Anbau eines Außenaufzugs an ein Mehrfamilienhaus - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.6.: Kirchenstr. 88 - Nutzungsänderung: Lager zu Büro, Abbruch und Neu- und Ausbau DG zu Wohnungen
+- TOP 2.7.: Elsässer Str. 16 - Errichtung einer öffentlichen, freistehenden WC-Anlage am Standort München, Hypopark
+- TOP 2.8.: Bereiteranger 12 - Ersatzneubau von 6 Balkonen anstelle vorhandener Balkone
+- TOP 2.9.: Untere Johannisstr. 3 - Anbau zweier Balkone
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen
+- TOP 3.2.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 3.3.: Stellungnahme des Münchner Forums zur Hochhausstudie
+- TOP 3.4.: Fragen zum städtischen Vorkaufsrecht
+- TOP 3.5.: Planungen zum Anwesen Wolfgangstr. 7
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: MVG-Leistungsprogramm 2024; Anhörung der MVG
+- TOP 2.2.: Vorschläge der MVG zum Orleansplatz
+- TOP 2.3.: Paket-Pilot Standort Kolumbusplatz
+- TOP 2.4.: Evtl. Nachtrag; Anhörungsverfahren für das MCube Aqt, Auftaktveranstaltung am 17.06.2023, Kolumbusstr. 1-32 Frist: 02.06.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Parkverbote aufgrund von Baustellen in der Einsteinstraße und Umgebung
+- TOP 3.2.: 2. S-Bahn Stammstrecke, Verbindungstunnel unter dem Ostbahnhof
+- TOP 3.3.: Dialogdisplays für die Orleansstraße
+- TOP 3.4.: Bessere Ausschilderung des Isarradweges
+- TOP 3.5.: Fuß- und Radwegbrücke Haidenauplatz - Zwischennachricht -
+- TOP 3.6.: Verschlechterung der Situation in der Welfenstraße durch den Gorillas-Laden Antwort Baureferat zum Schreiben BA 5
+- TOP 3.7.: Ampelschaltung Tram-Haltestelle Einsteinstraße
+- TOP 3.8.: Präsentation Fußgängerzone Weißenburger Straße, Sondertermin mit dem UA Mobilität am 25.04.2023
+- TOP 3.9.: Verkehrsrechtliche Anordnungen a) Nockherstr. 1-5 und Taubenstr. 4, Verlegung einer Brunnenleitung vom 22.05.-23.06.2023 b) Zellstraße, Bewohnerbevorrechtigung im Parklizenzgebiet „Franzosenviertel“ c) Regerstr. bis Wörthstr., Gleisbau und Fernwärmeverlegung, Änderung Verkehrszeichenplan vom 27.04.-11.06.2023 d) Regerstr. / Welfenstr., Neubau Haltestelle und Straßenbau, Änderung Verkehrszeichenplan vom 14.04.-30.06.2023
+- TOP 3.10.: Verkehrsrechtlichen Anordnung; Arbeiten im Straßenraum Johannisplatz
+- TOP 3.11.: Wildparker Senftlstraße/Welfenstraße
+- TOP 3.12.: Verkehrsrechtliche Anordnung; Arbeiten im Straßenraum Nockherstr. 2 und Ohlmüllerstr. 44 Legung einer Fernwärmeleitung
+- TOP 3.13.: Verkehrsrechtliche Anordnung; Arbeiten im Straßenraum Regerplatz bis Wörthstraße
+- TOP 3.14.: Verlängerung bis 02.06.2023 Legung Fernwärmeleitung Ohlmüllerstr. 44 und Nockherstr. 2-4
+- TOP 3.15.: Einrichtung einer Schulbushaltestelle in der Hermann-Weinhauser-Straße für den Schülerverkehr zum ESV München-Ost e.V. Sportzentrum Änderung (Verlängerung des HV-Bereichs) und der Zeitdauer am Zusatzzeichen des HV Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 3.16.: Spielplatzerweiterung in der Schneckenburgerstraße
+- TOP 3.17.: Verkehrsrechtliche Anordnung; Arbeiten im Straßenraum Arbeiten an Fernwärmehausanschluss; Wörthstr. 34 Seite Pariser Straße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Installation eines Dialogdisplays und einer Topo-Box in der Welfenstraße sowie Neubewertung der Streckenführung der Buslinien X30/58+68
+- TOP 4.2.: Verkehrssicherheit Pestalozzi-Gymnasium: Dialogdisplay in der Schweigerstraße und zusätzlicher Fahrradstellplatz
+- TOP 4.3.: Raum für Fahrräder Gravelottestr. 7
+- TOP 4.4.: Beschwerde über Umwandlung des Stellplatzes Rosenheimer Str. 69
+- TOP 4.5.: Plädoyer für die "Sommerstraße" in der Kolumbusstraße
+- TOP 4.6.: 2.Stammstrecke Ostbahnhof, Fußgängertunnel
+- TOP 4.7.: Verkehrsberuhigter Bereich Lothringer Straße: Optisch und gestalterisch anpassen
+- TOP 4.8.: Bürgeranliegen; Verkehrsführung Hochstraße / obere Au
+- TOP 4.9.: Bürgeranliegen; Parklets in der Drächslstraße
+- TOP 4.10.: Bürgeranliegen; Unterführung Rosenhaimer Str.
+- TOP 4.11.: Bürgeranliegen; Fahrradweg auf Franzikanerstr. zwischen Rosenheimer Platz und Rablstr.
+- TOP 4.12.: Verkehrsrechtliche Anordnung; Arbeiten im Straßenraum Regerplatz bis Wörthstraße
+- TOP 4.13.: Ampelschaltung an der Haltestelle Grillparzerstraße in Richtung Norden
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Mehr Sitzgelegenheiten am Weißenburger Platz hier: Ergebnis Ortstermin vom 29.03.2023, Bestellung einer städtischen Leistung
+- TOP 2.: Anhörungen
+- TOP 2.1.: Breisacher Str. 9a; Fällung 1 Acer saccarinum
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ausnahmegenehmigung für nächtliche Mäharbeiten des Straßenbegleitgrüns in der Rosenheimer Straße
+- TOP 3.2.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV) Fällungsantrag vom 20.03.2023 auf dem Grundstück Risserkogelstr. 6
+- TOP 3.3.: Mariahilfstr. 16; Fällgenehmigung Antwort Planungsreferat zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Regelmäßigere Reinigung des Fußwegs hinter dem Tassiloplatz
+- TOP 4.2.: Bürgeranliegen; Straßenkehrmaschinen und Reinigungsarbeiten am Pariser Platz
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 15.05.2023 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 Raum 0.4.09 UA Mobilität, 15.05.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 16.05.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 17.05.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 17.05.2023 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 16.05.2023 um 20.00 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Nächste BA-Sitzung am 24.06.2023 Nächste Vorstandsitzung am 13.06.2023
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
