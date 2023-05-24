@@ -1,0 +1,7 @@
+# TOP II.3.: (E) Stadtbezirksbudget Wir in Giesing e.V. Sommerprogramm Giesing vom 28.07. - 09.09.2023 4.500,00 € / Az. 0262.0-5-0466
+
+- Sitzung: BA 05 - Vollgremium (2023-05-24)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1050267
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1050267
