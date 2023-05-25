@@ -1,0 +1,157 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-05-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238375
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238375
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwurf der Sitzung vom 27.04.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 1.3.1.: (N) Willy-Brandt-Platz: Umgestaltungspläne unter Berücksichtigung der Bedarfsmitteilung von STARKSTARK e.V.
+- TOP 1.3.2.: (N) Veranstaltung im Freien auf Privatgrund und in einer städtischen Grünanlage: „Oldtimertreffen und Sommerfest“ Förderverein Festring Trudering e.V. auf dem Truderinger Festplatz am 01.07.2023
+- TOP 1.3.3.: (N) Veranstaltung im Freien in einer städtischen Grünanlage: „Zirkusprojekt Grundschule Markgrafenstraße“ des Elternbeirats Grundschule an der Markgrafenstraße vom 20.-21.07.2023 am Truderinger Festplatz
+- TOP 1.3.4.: (N) Veranstaltung auf öffentlichem Verkehrsgrund und in städtischer Grünanlage: Geschlossene Rad-Gruppenfahrt im Verband im Riemer Park am 17.06.2023
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget TSV Trudering e.V. Stabhochsprunganlage 14.624,26 € / Az.: 0262.0-15-0464
+- TOP 2.1.2.: (E) Stadtbezirksbudget BRK Wasserwacht OG München-West Anschaffung eines Ortungsgerätes "Aquaeye" 7.200,00 Euro, Az.: 0262.0-15-0469
+- TOP 2.1.3.: (E) Stadtbezirksbudget Truderinger Musikverein e.V. 50-jähriges Jubiläum am 21.05.2023 5.983,31 € / Az. 0262.0-15-0476
+- TOP 2.1.4.: (E) Stadtbezirksbudget Nityaa Arts Centre Natya Fest 2023 am 27.05.2023 4.625,00 € / Az. 0262.0-15-0478
+- TOP 2.1.5.: (E) Stadtbezirksbudget Initiative „Konzerte Messestadt“ Vier Konzerte für die Messestädter:innen in 2023 4.530,00 € / Az. 0262.0-15-0480
+- TOP 2.1.6.: (E) Stadtbezirksbudget animato münchner orchester e.V. Vorbereitung für das Konzert in der Kulturetage Riem vom 23.-25.06.2023 1.229,00 € / Az. 0262.0-15-0477
+- TOP 2.1.7.: (E) Stadtbezirksbudget SOS-Kinderdorf München, Kinder- und Familientreff Messestadt Ost Interkulturelles Maifest am 24.05.2023 675,00 € / Az. 0262.0-15-0479
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: (N) Willy-Brandt-Platz: Umgestaltungspläne unter Berücksichtigung der Bedarfsmitteilung von STARKSTARK e.V.
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: Jagdhornstraße: Gedanken zur Bebauung des Grundstücks
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Messestadt Riem: Einrichtung eines Fitnessstudios
+- TOP 3.5.2.: Thomas-Hauser-Straße / Xaver-Weismor-Straße: Umbau des Asphaltfußballplatzes in einen Kunstrasenplatz
+- TOP 3.5.3.: Turnerschule: Erweiterung des Angebots von Betreuungsplätzen für die (Vorschul-)kinder der Turnerschule
+- TOP 3.5.4.: Fehlende Plätze für die Nachmittagsbetreuung an Grundschulen am Beispiel der Grundschule am Lehrer-Götz-Weg
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Reduzierung der Lichtverschmutzung bei Neubauprojekten
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.3.1.: Ein Platz der Menschenrechte für alle - Aufenthaltsqualität durch Sanierung und Neugestaltung erhöhen
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Sozial – Mit Sicherheit: Antragspaket für Prävention und Bekämpfung von Jugendkriminalität
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.6.1.: Tiny Forests auch in München und Trudering-Riem
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Lärmschutz für die Anwohner der A94 in Riem
+- TOP 4.7.2.: Optimierung der Rücklauftemperatur in der Geothermie Riem
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: BA-Mitgliedern den Zugang zum neuen städtischen Online-Telefonbuch ermöglichen
+- TOP 5.1.2.: Inklusion konkret: Alternativen für die Zwei-Faktor-Authentifizierung statt App-Monokultur!
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Am Hochacker: Bau eines Bürgersteiges für Schulkinder und Parkbeschränkungen für Nicht-Anlieger - Übernahme Antrag BV als Bürgeranliegen -
+- TOP 5.2.2.: Buswartehäuschen 2.0 Turnerstraße
+- TOP 5.2.3.: MVG-Abstands- und Hygienekonzept: Sitzplatzangebot auf U-Bahnsteigen anpassen
+- TOP 5.2.4.: Beschleunigte Wiedereinführung eines Kombitickets für Messe und MVV und Neueinführung eines Kombitickets für Konzerte auf dem Messefreigelände
+- TOP 5.2.5.: Dialogdisplays im 15. Stadtbezirk
+- TOP 5.2.6.: Radverkehr stärken – ein 2. UG für das Sozialbürgerhaus planen
+- TOP 5.2.7.: Huchenstraße: Ausbau des Endstücks zu einem Verkehrsberuhigten Bereich
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Willy-Brandt-Platz: Umgestaltungspläne und Nutzung der Veranstaltungsfläche
+- TOP 5.3.2.: Pflanzung von mehr Bäumen auf der verkehrsberuhigten Fläche Straßtrudering
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Fitnessstudio für Kinder
+- TOP 5.5.2.: Zweiten Kunstrasenplatz endlich herstellen (Messestadt, südlich des Kindergartens Innere Mission West)
+- TOP 5.5.3.: Spielplätze verbessern. Bürgerwünsche umsetzen.
+- TOP 5.5.4.: Hip-Hop Festival „Rolling Loud“ auf dem Messegelände vom 7. bis 9. Juli 2023 Freikartenkontingent für Jugendliche aus Trudering, Riem und der Messestadt
+- TOP 5.5.5.: Durchführung der Stadtteilwochen 2024
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Plastikfreie Wochenmärkte im 15. Stadtbezirk
+- TOP 5.6.2.: Notrufsäulen Badesee Riem
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest “Sommerfest mit Saskia Weishaupt“ auf dem Platz der Menschenrechte am 02.07.2023
+- TOP 7.1.2.: Veranstaltung auf öffentlichem Verkehrsgrund / in einer städt. Grünanlage: Gesundheitstag in der Messestadt vom GSR BildungsLokalRiem auf dem Platz der Menschenrechte und im Riemer Park am 14.07.2023
+- TOP 7.1.3.: Veranstaltung auf öffentlichem Verkehrsgrund: Tag der 1. Hilfe am 01.07.2023 auf dem Willy-Brandt-Platz
+- TOP 7.1.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Flower Power Pop-Up Garten der Landesgartenschau Kirchheim am 15./16.09.2023 (Ersatztermin: 21/22.09.2023) auf dem Willy-Brandt-Platz
+- TOP 7.1.5.: Veranstaltung im Freien auf Privatgrund sowie zum Teil auf öffentlichen Grund: Festival Rolling Loud 2023 im Zeitraum 07.07. bis 09.07.2023 auf der Sonderfreifläche der Messe München Riem mit 70.000 Pax
+- TOP 7.1.6.: (N) Veranstaltung im Freien auf Privatgrund und in einer städtischen Grünanlage: „Oldtimertreffen und Sommerfest“ Förderverein Festring Trudering e.V. auf dem Truderinger Festplatz am 01.07.2023
+- TOP 7.1.7.: (N) Veranstaltung im Freien in einer städtischen Grünanlage: „Zirkusprojekt Grundschule Markgrafenstraße“ des Elternbeirats Grundschule an der Markgrafenstraße vom 20.-21.07.2023 am Truderinger Festplatz
+- TOP 7.1.8.: (N) Veranstaltung auf öffentlichem Verkehrsgrund und in städtischer Grünanlage: Geschlossene Rad-Gruppenfahrt im Verband im Riemer Park am 17.06.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: MVG-Leistungsprogramm 2024; Anhörung der MVG
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Schatzbogen 29 - Neubau einer gewerblichen Einrichtung mit Tiefgarage in zwei Varianten - VORBESCHEID
+- TOP 7.4.2.: Groschenweg 26 - Wohnbebauung mit Tiefgarage - VORBESCHEID (3 Var.)
+- TOP 7.4.3.: Feldbergstr. 46 - ÄNDERUNGSANTRAG zu 1.2-2023-4847-32 - Neubau von sechs Reihenhäusern mit Duplex-Garage (6 Stpl.)
+- TOP 7.4.4.: Wasserburger Landstr. 72 - Neubau eines MFH mit 14 WE und einer Tiefgarage mit 14 Pkw-Stellplätzen
+- TOP 7.4.5.: Königsseestr. 44 - Neubau eines Vierfamilienhauses mit Garage - ÄNDERUNGSANTRAG zu 1.2-2022-3423-32
+- TOP 7.4.6.: Mondseestr. 10 - Umbau und Nutzungsänderung eines Bürogebäudes in ein Mehrfamilienhaus (3 WE) mit 4 Garagen
+- TOP 7.4.7.: Reiherweg 7 - Neubau eines MFH mit sechs barrierefreien Wohneinheiten und sieben Tiefgaragen Stellplätzen
+- TOP 7.4.8.: Riemer Str. 349 - Neubau eines Wohngebäudes mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2022-3608-32
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Runder Tisch zur geplanten Zusammenlegung der Mittelschulen Wörthstraße und Weilerstraße: Bitte um Stellungnahme der betroffenen Stadtbezirke
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Schwedensteinstr.27 Xaver-Weismor-Str.2 e
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Gerstäckerstr. 56 Groschenweg 26 Grundelstr. 5 Kirtaweg 40 Rotkehlchenweg 2 Teuchertstr. 30 Vogesenstr. 16 Waldschulstr. 4c Wasserburger Landstr. 72
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Bericht vom Straßenfest am 06.Mai 2023: Aktivitäten des BA 15
+- TOP 9.2.2.: 5. Bauabschnitt: Protokoll der Infoveranstaltung am 10.05.2023
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Versammlungsanzeigen und Drehgenehmigungen
+- TOP 10.1.2.: Am Moosfeld: Unveränderte Fortsetzung des Gaststättenbetriebs
+- TOP 10.1.3.: Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet Schreiben des BA 1 Altstadt-Lehel an den Oberbürgermeister
+- TOP 10.1.4.: Verwendungsnachweise des Stadtbezirksbudgets
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnungen gem. § 45 StVO a) Spieljochstraße b) Am Moosfeld c) Bajuwarenstraße d) Gutenbrunner Weg e) Aitelstraße, Flußaalweg f) Schmuckerweg
+- TOP 10.2.2.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 10.2.3.: Zehnfeldstraße / Heinrich-Wieland-Straße: Aktueller Planungsstand zur Einrichtung einer Ampelanlage
+- TOP 10.2.4.: Bahnprojekt Truderinger Kurve; Ersatzliegenschaft für die Kfz-Verwahrstelle des Polizeipräsidiums München
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen Anträge a) Auswirkungen der Übernahme des Bürgerbegehrens "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 Antrag-Nr. 20-26 / B 05279 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023 b) Sofortige Weiterführung des Gutachterverfahrens für das Projekt Rosenhof, Stephensonplatz / Bf. Perlach Antrag 20-26 / B 05281 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023
+- TOP 10.3.2.: 1. Vorstandssitzung der OstAllianz
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 10.4.2.: Baugenehmigung zur Fußgängerbrücke über die A94 barrierefrei mit befristeter Standzeit vom 11.11.2022 bis 25.08.2023 für die OpenAir Konzerte 2023 Hier: Verlängerung der Standzeit
+- TOP 10.4.3.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Königsseestraße b) Bürgermeister-Keller-Straße c) Taku-Fort-Straße d) Bajuwarenstraße e) Ernastraße
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 10.5.2.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 10.5.3.: Messestadt Ost: Präsentation und Vorstellung des Projekts Kunstkiosk
+- TOP 10.5.4.: Präsentation zum Belegungskonzept der Münchner Schulsporthallen: Infoveranstaltung vom 18.04.2023
+- TOP 10.5.5.: Schulschwimmbad im Schulcampus Messestadt-Riem: Ansprechpartner für Vereine
+- TOP 10.5.6.: Dokumentation zum Einsatz des Kinder-Aktions-Koffers in Trudering-Riem im Jahr 2019
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Systemfestlegung Leichtverpackungen Pilotversuch 2024-2026
+- TOP 10.6.2.: Ausnahmegenehmigung gem. BlmSchG: Mäharbeiten des Straßenbegleitgrüns
