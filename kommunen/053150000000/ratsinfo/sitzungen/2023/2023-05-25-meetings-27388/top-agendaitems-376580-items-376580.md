@@ -1,0 +1,8 @@
+# TOP -: ÄA zu TOP Ö 4.1.5 / Bestandsaufnahme und Strategie zur Integrierten Klimafolgenanpassung
+
+- Sitzung: Sitzung des Ausschusses Klima, Umwelt und Grün (2023-05-25)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/376580
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/174745
