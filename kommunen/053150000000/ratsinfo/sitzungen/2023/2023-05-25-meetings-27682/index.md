@@ -1,0 +1,83 @@
+# 20. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-25T16:02:00+02:00
+- Ende: 2023-05-25T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27682
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27682
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - geändert beschlossen
+- TOP 3.2: Genehmigung Dringlichkeitsentscheidung - Finanzierung der Umsetzung eines Kunst- und Kulturprogramms auf dem Neumarkt als Teilprojekt der gesamtstädtischen Initiative zur Aufwertung des Neumarkt-Areals - ungeändert beschlossen
+- TOP 3.3: Neubewertung des Projektes am Waidmarkt - Einstellung der Planungen für einen unterirdischen Kulturort (K3) und Perspektiven der weiteren städtebaulichen und kulturellen Entwicklung. - ungeändert beschlossen
+- TOP 3.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 67453/23 Arbeitstitel: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.5: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert beschlossen
+- TOP 3.6: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert beschlossen
+- TOP 3.7: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert beschlossen
+- TOP 3.8: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert beschlossen
+- TOP 3.9: Vergabe Stadtklima- und Stadtverschönerungsmittel 2023 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.9.1: Änderungsantrag: Stadtklima- und Stadtverschönerungsmittel, gem. Änderungsantrag KlimaFreunde, SPD, Die Linke und Die Partei - geändert beschlossen
+- TOP 3.10: 288. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.11: Rheinufer Trankgassenwerft - Sperrung zwischen Bastei und Zoobrücke - ungeändert beschlossen
+- TOP 3.12: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 3.13: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept Innenstadt (1. Zyklus) - ungeändert beschlossen
+- TOP 3.14: Korrektur Ratsbeschluss 1141/2016 - Rücknahme der Zügigkeitserweiterung für die Königin-Luisen-Schule - ungeändert beschlossen
+- TOP 3.15: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - zurückgestellt
+- TOP 3.16: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung, hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 3.17: Errichtung eines "Offenen Bücherschrankes - ungeändert beschlossen
+- TOP 3.18: Erweiterung Tempo-30-Zone Unter Krahnenbäumen - ungeändert beschlossen
+- TOP 3.19: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2023 - ungeändert beschlossen
+- TOP 3.20: Sammelbeschluss zu den Satzungen über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln bezüglich der Kölner Ringstraßen mit Ihren Plätzen und Seitenstraßen - ungeändert beschlossen
+- TOP 3.21: Bedarfsfeststellungs- und Baubeschluss für die Instandsetzung der Parkpalette Jakobstraße/Josephstraße - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Anzahl Happy Toilet erhöhen, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Behindertenparkplatz vor der Alten Feuerwache, Antrag Die Linke - geändert beschlossen
+- TOP 5.2.3: Ablehnung der Nutzung des Rheinparks als Fan Zone zur EM 2024, gem. Antrag Grüne, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.4: Renovierung Bänke Lichhof, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.5: Abstellzone für E-Roller auf dem Auenweg, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.6: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW – Jugendvertreter*innen in der Bezirksvertretung Innenstadt, gem. Antrag Grüne, SPD, Die Linke, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.7: Austausch der Toilette am Ytzak Rabin Platz, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.8: Autofreies Portal vor der Evangelischen Trinitatiskirche, gem. Antrag Grüne, CDU, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.9: Der eine Millionste Gastarbeiter erreicht Deutz, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.10: Planungsvorgaben Linden- und Lützowstraße, gem. Antrag Grüne, SPD, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.11: Gemeinsamer Dringlichkeitsantrag zur Mitteilung 1582/2023 "Weiteres Vorgehen Verkehrsversuch Deutzer Freiheit" - endgültig abgelehnt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - zurückgestellt
+- TOP 6.1.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße Maternusstraße - zurückgestellt
+- TOP 6.1.2: Regeln für Gehwegbreiten, gem. Anfrage Die Linke und KlimaFreund - Sache ist erledigt
+- TOP 6.1.2.1: Regeln für Gehwegbreiten - Kenntnis genommen
+- TOP 6.1.3: Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins, Anfrage Grüne - Sache ist erledigt
+- TOP 6.1.3.1: Anfrage der Grüne Fraktion BV1, der Fraktion die Linke, Klimafreunde und die Partei für die BV Innenstadt betreffend "Ersatzfreiheitsstrafen aufgrund des Fahrens ohne Fahrscheins" AN/2205/2022 - Kenntnis genommen
+- TOP 6.1.4: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.5: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.6: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.7: Anfrage Verkehrsmaßnahmen Belgisches Viertel, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.8: Neue Stadtmöbel auf der Deutzer Freiheit, Anfrage CDU - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Projektfortschritt NEUmarkt – Maßnahmen zur Aufwertung des Neumarkts
+- TOP 9.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Umwandlung der Fleischmengergasse in eine Fahrradstraße, Az.: 216/22 B
+- TOP 9.3: Vereinbarung über ein Pilotprojekt zur Reinigung schadstoffbelasteter Luft in Städten
+- TOP 9.4: Sachstandsmitteilung zu den von der Bezirksvertretung Innenstadt priorisierten Straßenbaumaßnahmen
+- TOP 9.5: Mitteilung zur Bürgereingabe "Shared Space-Fläche Rudolfplatz", AZ.: 176/22
+- TOP 9.6: Werkstattverfahren Büro- und Geschäftshaus Heumarkt 55/ Ecke Gürzenichstraße, Köln Innenstadt
+- TOP 9.7: Sachstandsbericht
+- TOP 9.8: Weiteres Vorgehen Verkehrsversuch Deutzer Freiheit
+- TOP 10: Bericht aus den Veedelsbeiräten
