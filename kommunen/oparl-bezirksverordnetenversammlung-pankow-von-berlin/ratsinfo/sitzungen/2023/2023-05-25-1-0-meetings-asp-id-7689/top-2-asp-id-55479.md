@@ -1,0 +1,7 @@
+# TOP 2: Protokollkontrolle vom 23.03.2023 und 27.04.2023
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Kinder- und Jugendhilfeausschusses (2023-05-25)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=55479
+- Ergebnis: erledigt
