@@ -1,0 +1,7 @@
+# TOP 5.: Integriertes städtebauliches Entwicklungskonzept (ISEK)
+
+- Sitzung: Hochbau- und Planungsausschuss (20. Sitzung) (2023-05-25)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15315
+- Beratung: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4396
