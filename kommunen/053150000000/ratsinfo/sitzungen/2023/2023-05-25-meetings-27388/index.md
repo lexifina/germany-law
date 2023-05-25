@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-25T16:05:00+02:00
+- Ende: 2023-05-25T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Vortrag der AVG zum Weiterbetrieb der Deponie Vereinigte Ville
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - zurückgestellt
+- TOP 1.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke. aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 26.01.2023 (AN/0135/2023) betr.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - zurückgestellt
+- TOP 1.2: Anfrage der Fraktion Die Fraktion betr.: "Bauauftragnehmer:innen diverser Maßnahmen auf Kölner Grünflächen" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktionen Bündnnis 90/Die Grünen, CDU und Volt betr.: "Wilde Müllablagerungen rund um Kleingartenanlagen" - zurückgestellt
+- TOP 1.4: Anfrage des Einzelmandatsträger GUT Köln betr.: "Klimaneutraler städtischer Fuhrpark" - zurückgestellt
+- TOP 1.5: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Bürgerpark Kalk" - Kenntnis genommen
+- TOP 1.5.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion zur Sitzung des Ausschuss Klima, Umwelt und Grün vom 25.05.2023 (AN/1030/2023) betreffend "Bürgerpark Kalk" - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Fraktion betr.: "Salz. Baum. Tod. - Schluss mit Bäume salzen!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.2: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Klimabildung für Erwachsene" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Beschlussvorlage 0333/2023 „Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Maarhäuserweg / Hansestraße i - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.1.2: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote 2023 - Sportboxen - ungeändert empfohlen
+- TOP 4.1.3: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - mit Änderungen empfohlen
+- TOP -: ÄA zu TOP Ö 4.1.3 Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - ungeändert empfohlen
+- TOP 4.1.4: Verlängerung des Förderprogramms "GRÜN hoch 3 Dächer | Fassaden | Höfe" und Erhöhung des Fördervolumens - mit Änderungen empfohlen
+- TOP 4.1.5: Bestandsaufnahme und Strategie zur Integrierten Klimafolgenanpassung - zurückgestellt
+- TOP -: ÄA zu TOP Ö 4.1.5 / Bestandsaufnahme und Strategie zur Integrierten Klimafolgenanpassung - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.2: Vereinbarung über ein Pilotprojekt zur Reinigung schadstoffbelasteter Luft in Städten - Kenntnis genommen
+- TOP 7.3: Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 7.4: Sachstandsbericht "Hallo Nachbar, danke schön" - Kenntnis genommen
+- TOP 7.5: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 7.6: Ausbau der Photovoltaikanlagen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der Stadtarbeitsgemeinschaft Behindertenpolitik betr.: "Nutzbarkeit der Uni-Wiese für die Bürger*innen im Rahmen des Gemeingebrauchs" (TOP 9.7 - AKUG 09.03.2023) - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Nachfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung des Ausschusses Klima, Umwelt und Grün vom 27.04.2022 (AN/0419/2023 / 1204/2023) betr.: "Einsatz von Pferden im Karneval" - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 09.03.2023, betreffend "Nutzung der Stromtankstellen an den Anlegern im Uferbereich Innenstadt/Deutz" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Mündliche Anfrage der Fraktion Die Linke. betr.: "Anleinpflicht für Hunde im Naturschutzgebiet Königsforst" - Kenntnis genommen
+- TOP 9.2: Mündliche Anfrage der FDP-Fraktion betr.: "Einsatz von Pferden im Kölner Karneval" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfrage der Fraktion Die Fraktion betr.: "Fördergelder für die Müllfalle Rheinkrake" - zurückgestellt
