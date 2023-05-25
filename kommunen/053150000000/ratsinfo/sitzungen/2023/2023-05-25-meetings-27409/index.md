@@ -1,0 +1,73 @@
+# 18. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-05-25T15:30:00+02:00
+- Ende: 2023-05-25T17:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27409
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27409
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Mehr Inklusionstaxis für Köln - ungeändert beschlossen
+- TOP -: OMZ: Anschlussperspektiven sichern - ungeändert beschlossen
+- TOP -: A Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Liga der Wohlfahrtsverbände - zurückgestellt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - zurückgestellt
+- TOP -: TOP 4.1: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - zurückgestellt
+- TOP 4.2: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Shahrzad e.V. - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. 24, 50765 Köln-Blumenberg - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - ungeändert empfohlen
+- TOP 6.2: Förderung des Kölner Flüchtlingsrates e.V. - ungeändert empfohlen
+- TOP 6.3: Verlängerung (und Reduzierung) des Personals für die medizinische Versorgung der Geflüchteten aus der Ukraine - ungeändert empfohlen
+- TOP 7: Wohnen
+- TOP 7.1: Geschäftsbericht Wohnen in Köln 2020/2021 - Fakten, Zahlen und Ergebnisse 2020/2021; Ausblick - Kenntnis genommen
+- TOP 7.2: Neuer Kölner Mietspiegel (April 2023) - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Jahresbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage des Sachkundigen Einwohners Intveen (Behindertenvertretung) zur Barrierefreiheit öffentlicher Toiletten vom 22.02.2023 - zurückgestellt
+- TOP -: Barrierefreiheit öffentlicher Toiletten - zurückgestellt
+- TOP 10.1.2: Anfrage: Stand der Umsetzung des Onlinezugangsgesetzes (OZG) in der Kommune - Sache ist erledigt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.3: Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - zurückgestellt
+- TOP 10.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung einer schriftlichen Anfrage der SVK (AN 0623/2023) betreffend Leistungen nach dem SGBXII - Kenntnis genommen
+- TOP 10.1.5: Mündliche Anfrage von Frau von Bülow, Fraktion Bündnis 90/Die Grünen zum Abschlussbericht der dritten Förderphase des Kompetenzzentrums Frau und Beruf Region Köln, TOP 2.1 der Sitzung des Wirtschaftsausschuss vom 20.04.23, Session-Nr. 0723/2023 - Kenntnis genommen
+- TOP 10.2: Beantragung von Leistungen aus dem Bildungs- und Teilhabepaket - Kenntnis genommen
+- TOP 10.3: Aktuelle Anfragen und Beantwortungen
+- TOP 10.3.1: Beantwortung der Anfrage der SPD-Fraktion "Köln als Modellregion für die Abgabe von Cannabis an Erwachsene" AN/0672/2023 - Kenntnis genommen
+- TOP 10.3.2: Kölner Verhütungsmittelfonds - zurückgestellt
+- TOP 10.3.3: Umsetzungsstand Einfache und Leichte Sprache - Sache ist erledigt
+- TOP -: Umsetzungsstand Einfache und Leichte Sprache - Kenntnis genommen
+- TOP 10.3.4: Chancenaufenthaltsrecht: Wie können das Jobcenter und andere Behörden Geflüchtete unterstützen? - zurückgestellt
+- TOP 10.3.5: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2022 - Kenntnis genommen
+- TOP 12.2: Mitteilung zur Bürgereingabe "QR-Code für Parkausweis für Behinderte, Parkplatzsicherung mit Pollern", AZ.: 203/22 - Kenntnis genommen
+- TOP 12.3: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 12.4: Stand der Erweiterung der Öffnungszeiten des Drogenkonsumraums im Gesundheitsamt - Kenntnis genommen
+- TOP 12.5: Erster Kölner Antidiskriminierungsmonitoring - Kenntnis genommen
+- TOP 12.6: Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 12.7: Jahresbericht "Willkommen und Ankommen in Köln" 2022 - Kenntnis genommen
+- TOP 12.8: Arbeitsmarkt Köln - Rückblick 2022, bisherige Entwicklung und Ausblick 2023: Trotz Krise neuer Beschäftigungsrekord am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 12.9: "Guter Lebensabend NRW" - Veröffentlichung des im Rahmen der Projektlaufzeit vom 01.04.2021-31.12.2022 erarbeiteten Handlungskonzeptes - zurückgestellt
+- TOP 12.10: Einmalige Einschulungsbeihilfe für Schulanfänger*innen zum Schuljahr 2023/2024 - Kenntnis genommen
+- TOP 12.11: Sachstand zur "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 12.12: Verlängerung (und Reduzierung) des Personals für den Abschluss der Corona-Pandemie - Kenntnis genommen
+- TOP 12.13: Erweiterung der Zielgruppen des Kommunalen Integrationsmanagements (KIM) - zurückgestellt
