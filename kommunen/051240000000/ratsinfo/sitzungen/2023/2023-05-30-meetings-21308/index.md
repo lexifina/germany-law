@@ -1,0 +1,59 @@
+# öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-05-30T16:07:00+02:00
+- Ende: 2023-05-30T18:51:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21308
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21308
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand: 23.05.2023 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00313329.pdf
+
+## Tagesordnung
+
+- TOP 1: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 2: Neuplanung - Aufstellung von Radabstellanlagen entlang der Heckinghauser Straße - geändert beschlossen
+- TOP 3: Beschlussdrucksache zu VO/0857/22 - Verbesserung der Verkehrssicherheit für den Radverkehr in der Westkotter Straße - ungeändert beschlossen
+- TOP 4: Bericht zur Drucksache VO/01512/21 - Hatzfelder Straße - Radverkehr - Entgegennahme ohne Beschluss
+- TOP 5: Radabstellanlage Höhne Höhe Hausnummer 22 - ungeändert beschlossen
+- TOP 6: Radabstellanlage Südstr. 56 - ungeändert beschlossen
+- TOP 7: Fuß- u. Radwegeführung Übergang am Ortseingang Cronenberg (Höhe Solinger Straße Hausnummer 76) - ungeändert beschlossen
+- TOP 8: Sachstand Nahverkehrsplan - Entgegennahme ohne Beschluss
+- TOP 9: Einmündung Südstraße / Islandufer - Prüfauftrag zur ÖPNV-Beschleunigung - Entgegennahme ohne Beschluss
+- TOP 10: Verlängerung der Bushaltestelle Cronenberg/Rathaus in Fahrtrichtung Sudberg - ungeändert beschlossen
+- TOP 11: Dr.-Werner-Jackstädt-Weg Gehwegausbau zwischen Zugang Deutscher Ring und Benrather Straße - ungeändert beschlossen
+- TOP 12: Leitplanke entlang der Lüttringhauser Straße - geändert beschlossen
+- TOP 13: Blinklicht An den Friedhöfen / Lüttringhauser Straße - geändert beschlossen
+- TOP 14: Installation einer Geschwindigkeitsmessanlage in der Lüttringhauser Straße - abgelehnt
+- TOP 15: Beschlussdrucksache zu VO/0266/22 - Sonnborn sicherer machen - ungeändert beschlossen
+- TOP 16: Resolution Tempo 30 - abgelehnt
+- TOP 16.1: Resolution Tempo 30 - ungeändert beschlossen
+- TOP 17: Am Stadtbahnhof - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 18: Bahnstraße - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 19: Heckinghauser Straße - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 20: Hofkamp - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 21: Loher Straße - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 22: Nützenberger Straße - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 23: Tannenbergstraße - Tempo 30 aus Lärmschutzgründen - vertagen
+- TOP 24: Brücke Saarbrücker Straße/Clef - vertagen
+- TOP 25: Überprüfung und Aktualisierung der Straßenhierarchie in Wuppertal - abgelehnt
+- TOP 26: Machbarkeitsstudie Wuppertalbahn - zur Beratung und Entscheidung verwiesen
+- TOP 27: Sondernutzung Außengastronomie Erholungstraße zwischen Herzogstraße und Neumarktstraße - ungeändert beschlossen
+- TOP 28: Antrag auf Erteilung einer Sondernutzungserlaubnis für außengastronomische Zwecke auf öffentlicher Parkfläche vor der Anschrift Lüttringhauser Str. 1 - ungeändert beschlossen
+- TOP 29: Aktuelle Anmeldezahlen Elektrofahrzeuge - Entgegennahme ohne Beschluss
+- TOP 30: Entwicklung des PKW-Verkehrsaufkommens zwischen 2020 und 2023 - vertagen
+- TOP 30.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Entwicklung des PKW-Verkehrsaufkommens zwischen 2020 und 2023 - vertagen
+- TOP 31: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - vertagen
+- TOP 32: Erweiterung des CarSharing Angebotes im Stadtgebiet - Free-Floating - Entgegennahme ohne Beschluss
+- TOP 33: Nachhaltigkeitsstrategie für Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 34: Resolution Aufhebung des Planfeststellungsverfahrens zum Ausbau der L419 - abgelehnt
+- TOP 34.1: Stopp des Ausbaus der L 419 im momentan vorgesehenen Planfeststellungsverfahren - abgelehnt
+- TOP 34.2: Anregung gemäß § 24 GO NRW - Aufhebung des Ratsbeschlusses zum Ausbau der L419 - abgelehnt
+- TOP 35: Anregung gemäß § 24 GO NRW - Lichtsignalanlage Kreuzung Max-Horkheimer/Fuhlrottstraße - ungeändert beschlossen
+- TOP 36: Anregung gemäß § 24 GO NRW - Einrichtung eines Haltverbots (Zeichen 283) auf der Dessauerstraße 7 bis 11 - ungeändert beschlossen
+- TOP 37: Anregung gemäß § 24 GO NRW - Sanierung Bahnunterführung und historische Treppenanlage Wolkenburg - Kluser Platz - ungeändert beschlossen
+- TOP 38: Anregung gemäß § 24 GO NRW - Gehweg In der Beek - ungeändert beschlossen
+- TOP 39: Anregung gemäß § 24 GO NRW - Haltverbot in der Fußgängerzone und Kabelbrücke - ungeändert beschlossen
+- TOP 40: Anregung gemäß § 24 GO NRW - Bürgerantrag zur Rücknahme des Gehwegparkens in der Freiligrathstraße 10-18 - ungeändert beschlossen
