@@ -1,0 +1,3 @@
+# Zivile Alarmplanung für Krisensituationen (Spannungs- und Verteidigungsfall etc.); Richtlinie für die Zivile Alarmplanung (ZAPRL)
+
+Die ZAPRL ist in Niedersachsen in der jeweils aktuellen Fassung anzuwenden. Die von den Alarmmaßnahmen nach Teil B betroffenen Ressorts haben einen Alarmkalender durch eine schriftlich beauftragte Bearbeiterin oder einen schriftlich beauftragten Bearbeiter zentral in ihren Häusern zu führen und setzen die Alarmplanung im eigenen Geschäftsbereich (und ggf. im kommunalen Bereich) in eigener sachlicher Zuständigkeit um. Der Alarmierungsplan mit den ggf. enthaltenen Erreichbarkeiten der alarmkalenderführenden Stellen im Geschäftsbereich ist der Zentralen Stelle vorzulegen.
