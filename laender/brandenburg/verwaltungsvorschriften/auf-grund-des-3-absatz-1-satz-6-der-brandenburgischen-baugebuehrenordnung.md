@@ -1,30 +1,28 @@
 # Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung
 
 - Herausgeber: Land Brandenburg
-- Datum: 2022-06-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2022
+- Datum: 2023-06-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2023
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Baupreisindexzahl für 2022
+Baupreisindexzahl für 2023
 
-vom 28. April 2022
+vom 4. April 2023
 
-(ABl./22, [Nr. 19], S.505)
+(ABl./23, [Nr. 16], S.399)
 
-Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch die Verordnung vom 12. Mai 2021 (GVBl. II
+Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch die Verordnung vom 12. Mai 2021 (GVBl. II Nr. 50) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
 
-Nr. 50) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
-
-Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,231.
+Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,415.
 
 Die sich daraus ergebenden fortgeschriebenen anrechen­baren Bauwerte werden in der nachstehenden Tabelle veröffentlicht.
 
 Tabelle der anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt
 
-gültig ab 1. Juni 2022
+gültig ab 1. Juni 2023
 
 | 
 
@@ -39,13 +37,11 @@ Gebäudeart
 | 
 
 
-anrechenbare
-
-Bauwerte
+Anrechenbare Bauwerte
 
 in Euro/m³
 
-2022
+2023
 
 | 
 
@@ -60,7 +56,7 @@ Wohngebäude
 | 
 
 
-150
+173
 
 | 
 
@@ -75,7 +71,7 @@ Wochenendhäuser
 | 
 
 
-132
+151
 
 | 
 
@@ -90,7 +86,7 @@ Büro- und Verwaltungsgebäude, Banken und Arztpraxen
 | 
 
 
-203
+233
 
 | 
 
@@ -105,7 +101,7 @@ Schulen
 | 
 
 
-192
+221
 
 | 
 
@@ -120,7 +116,7 @@ Kindertageseinrichtungen
 | 
 
 
-172
+198
 
 | 
 
@@ -135,7 +131,7 @@ Hotels, Pensionen, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, San
 | 
 
 
-172
+198
 
 | 
 
@@ -150,7 +146,7 @@ Hotels, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, Sanatorien üb
 | 
 
 
-201
+231
 
 | 
 
@@ -165,7 +161,7 @@ Krankenhäuser
 | 
 
 
-224
+258
 
 | 
 
@@ -180,7 +176,7 @@ Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 
 | 
 
 
-172
+198
 
 | 
 
@@ -195,7 +191,7 @@ Hallenbäder
 | 
 
 
-186
+214
 
 | 
 
@@ -205,7 +201,7 @@ Hallenbäder
 | 
 
 
-eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaft­liche Betriebsgebäude, soweit nicht nach Nummer 19
+eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19
 
 | 
 
@@ -234,7 +230,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-84
+96
 
 | 
 
@@ -247,7 +243,7 @@ Bauart schwer1)
 | 
 
 
-74
+85
 
 | 
 
@@ -260,7 +256,7 @@ sonstige Bauart
 | 
 
 
-63
+72
 
 | 
 
@@ -286,7 +282,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-74
+85
 
 | 
 
@@ -299,7 +295,7 @@ Bauart schwer1)
 | 
 
 
-63
+72
 
 | 
 
@@ -312,7 +308,7 @@ sonstige Bauart
 | 
 
 
-52
+59
 
 | 
 
@@ -338,7 +334,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-63
+72
 
 | 
 
@@ -351,7 +347,7 @@ Bauart schwer1)
 | 
 
 
-52
+59
 
 | 
 
@@ -364,7 +360,7 @@ sonstige Bauart
 | 
 
 
-41
+47
 
 | 
 
@@ -390,7 +386,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-52
+59
 
 | 
 
@@ -403,7 +399,7 @@ Bauart schwer1)
 | 
 
 
-41
+47
 
 | 
 
@@ -416,7 +412,7 @@ sonstige Bauart
 | 
 
 
-30
+34
 
 | 
 
@@ -431,7 +427,7 @@ andere eingeschossige Verkaufsstätten, Sportstätten
 | 
 
 
-113
+130
 
 | 
 
@@ -446,7 +442,7 @@ andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude
 | 
 
 
-101
+116
 
 | 
 
@@ -461,7 +457,7 @@ mehrgeschossige Verkaufsstätten
 | 
 
 
-154
+177
 
 | 
 
@@ -476,7 +472,7 @@ mehrgeschossige Fabrik-, Werkstatt- und Lagergebäude
 | 
 
 
-133
+153
 
 | 
 
@@ -491,7 +487,7 @@ eingeschossige Garagen, ausgenommen offene Kleingaragen
 | 
 
 
-111
+127
 
 | 
 
@@ -506,7 +502,7 @@ mehrgeschossige Mittel- und Großgaragen
 | 
 
 
-133
+153
 
 | 
 
@@ -521,7 +517,7 @@ Tiefgaragen
 | 
 
 
-206
+236
 
 | 
 
@@ -536,7 +532,7 @@ Schuppen, Kaltställe, Nebengebäude für Abstellräume, offene Feldscheunen, of
 | 
 
 
-53
+61
 
 | 
 
@@ -559,12 +555,12 @@ Gewächshäuser
 | 
 
 
-bis 1 500 m3 Brutto-Rauminhalt
+bis 1 500 m3 Brutto-Rauminhalt
 
 | 
 
 
-41
+47
 
 | 
 
@@ -574,14 +570,36 @@ bis 1 500 m3 Brutto-Rauminhalt
 | 
 
 
-der 1 500 m3 übersteigende Brutto-Rauminhalt
+der 1 500 m3 übersteigende Brutto-Rauminhalt
 
 | 
 
 
-22
+25
 
-Zuschlag für Hallenbereiche mit Kranbahnen     60 €/m².
+| 
+
+
+| 
+
+
+| 
+
+
+| 
+
+
+-
+
+| 
+
+
+Zuschlag für Hallenbereiche mit Kranbahnen
+
+| 
+
+
+69 €/m².
 
 1) Gebäude mit Tragwerken, die überwiegend in Massivbauart oder schwerem Stahlbau errichtet werden
 
