@@ -1,0 +1,62 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-01T18:00:00+02:00
+- Ende: 2023-06-01T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24187
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24187
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488570.pdf
+- Ergebnisprotokoll: NachtragsTO vom 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488570.pdf
+- Wortprotokoll: NachtragsTO vom 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488570.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 17.05.2023 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 04.05.2023 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Konzept Beleuchtung Unterführungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Vennhauser Allee (Stichstraße vor Haus Nr. 276) - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8: Reichenbacher Weg – Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 9: Umgestaltung Kinderspielplatz Dellestraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 10: Spezialmarkt „Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2023 - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2023 - einstimmig beschlossen
+- TOP 13: Radweg Reisholzer Straße stadteinwärts (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Papiercontainer Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: politisch motivierte Kriminalität im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 16: Paketstation Eller Süd S (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Radhauptnetz im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Haltverbot in Höhe Gerresheimer Landstraße 167 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 19: Altpapier- und Glascontainer Kreuzungsbereich Sturmstraße/Dillenburger Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Altkleidercontainer am Neusalzer Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 21: Kinderspielplatz Friedrich-Engels-Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 22: Fahrradstraßen Reichenbacher Weg und Kamper Weg (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 23: Verbindung für Fahrradfahrer im Bereich der Kleingärten Kissinger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Gebäude Gumbertstraße 172 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Tempo 30 in Unterbach (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 26: Verkehrssituation Bebelstraße und Lassallestraße - zur Kenntnis genommen
+- TOP 27: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Geschwindigkeitsmessung Kamper Weg - zur Kenntnis genommen
+- TOP 29: Melchthalweg - zur Kenntnis genommen
+- TOP 30: Rosmarinstraße - Auswirkungen der Sperrungen auf den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: GGS Arnstadter Weg - zur Kenntnis genommen
+- TOP 32: Barrierefreies Eller - zur Kenntnis genommen
+- TOP 33: Unterbacher See - Situation Parkraum - zur Kenntnis genommen
+- TOP 34: Darmstädter Straße - Eisenbahnunterführung / Taubenabwehr - zur Kenntnis genommen
+- TOP 35: Verkehrsversuch Alt-Eller - zur Kenntnis genommen
+- TOP 36: Gertrudisplatz / Gumbertstraße - Fahrradbügel - zur Kenntnis genommen
+- TOP 37: Brinellstraße – Ladesäule seitlich des Taxistandes - zur Kenntnis genommen
+- TOP 38: Kreuzung Gerresheimer Landstraße / Am Strasserfeld - zur Kenntnis genommen
+- TOP 39: Ersatzneubau der Gemeinschaftsgrundschule Vennhauser Allee 160-162 - zur Kenntnis genommen
+- TOP 40: Containerstandort Darmstädter Straße 2 - zur Kenntnis genommen
+- TOP 41: Unterfluranlage Gerresheimer Landstraße / Im Hochfeld - zur Kenntnis genommen
+- TOP 42: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Gumbertstraße - zur Kenntnis genommen
+- TOP 44: Vennhauser Allee - zur Kenntnis genommen
+- TOP 45: Radverkehrssituation Rothenbergstraße / Vennhauser Allee / Glashüttenstraße - zur Kenntnis genommen
