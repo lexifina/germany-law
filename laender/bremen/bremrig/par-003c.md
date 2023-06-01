@@ -1,7 +1,0 @@
-# § 3c Teilzeitbeschäftigung
-(1) Richterinnen und Richtern ist auf Antrag Teilzeitbeschäftigung bis zur Hälfte des regelmäßigen Dienstes und bis zur jeweils beantragten Dauer zu bewilligen.
-(2) Einem Antrag nach Absatz 1 darf nur entsprochen werden, wenn
-1. das Aufgabengebiet des richterlichen Amtes Teilzeitbeschäftigung zulässt,
-2. zwingende dienstliche Gründe nicht entgegenstehen und
-3. die Richterin oder der Richter zugleich zustimmt, mit Beginn oder bei Änderung der Teilzeitbeschäftigung und beim Übergang zur Vollzeitbeschäftigung auch in einem anderen Richteramt desselben Gerichtszweiges verwendet zu werden.
-Während der Teilzeitbeschäftigung darf die Richterin oder der Richter entgeltliche Nebentätigkeiten außerhalb des Richterverhältnisses nur in dem Umfang ausüben, der auch bei vollzeitbeschäftigten Richterinnen oder Richtern zulässig ist. Wird diese Verpflichtung schuldhaft verletzt, ist die Bewilligung zu widerrufen. Die oder der Dienstvorgesetzte darf abweichend von Satz 2 Nebentätigkeiten genehmigen, soweit dies mit dem Richterverhältnis vereinbar ist.
