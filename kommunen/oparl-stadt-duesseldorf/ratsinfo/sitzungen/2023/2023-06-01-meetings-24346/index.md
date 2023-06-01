@@ -1,0 +1,53 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-01T15:04:00+02:00
+- Ende: 2023-06-01T17:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24346
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24346
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Tagesordnung Kulturausschuss 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488106.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Tagesordnung Kulturausschuss 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488106.pdf
+- Wortprotokoll: 1. Nachtrag zur Tagesordnung Kulturausschuss 01.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488106.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Eine ganze Oper aus der Kiste - In einer Schulstunde diverse Aspekte des Musiktheaters - zur Kenntnis genommen
+- TOP 3.2: Anfrage der Ratsfraktion AfD: Finanzierung des zakk sowie Unterstützung durch die Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 3.3: Anfrage der Ratsfraktionen CDU und BÜNDNIS 90/DIE GRÜNEN: Nachnutzung von Flächen am Bertha-von-Suttner-Platz 1-3 - zur Kenntnis genommen
+- TOP 3.4: Anfrage der Ratsfraktionen BÜNDNIS 90/DIE GRÜNEN: „Ay Shay“ von Manuel Graf am Bertha-von-Suttner-Platz - zur Kenntnis genommen
+- TOP 3.5: Anfrage der Ratsfraktion DIE LINKE: Sachstand Kellerbühne in der Jahnstraße 3 - zur Kenntnis genommen
+- TOP 3.6: Anfrage Ratsfraktion DIE LINKE: Sachstand Masterplan Kulturbauten - zur Kenntnis genommen
+- TOP 4: Anträge
+- TOP 4.1: Antrag der Ratsfraktionen CDU und BÜNDNIS 90/DIE GRÜNEN: Deutsches Fotoinstitut - die nächsten Schritte - passieren lassen
+- TOP 4.2: Antrag der SPD-Ratsfraktion: Neue Formate entwickeln: Museen kinder- und jugendgerecht gestalten - zurückgestellt
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Zusammenführung der Volkshochschule in der Yorckstr. 19-21 - passieren lassen
+- TOP 5.2: Sonderprojekte städtischer Kulturinstitute: Aufhebung des Sperrvermerks und Vorstellung eines Verfahrens zur Durchführung - abweichend beschlossen
+- TOP 5.3: Beirat Tanz und Theater - Sitzung am 03.05.2023: Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 5.4: Zwischennutzung der Freien Szene der darstellenden Künste am Bertha-von Suttner-Platz 1-3 - zur Kenntnis genommen
+- TOP 5.5: Kunst am Bau Wettbewerb am Franz-Jürgens-Berufskolleg - Auftragsvergabe - zurückgezogen
+- TOP 5.6: Kunst am Bau Wettbewerb Thomas-Edison-Schule - Auftragsvergabe - einstimmig beschlossen
+- TOP 5.7: Lantz´scher Skulpturenpark - Kuratorisches Konzept 2024
+- TOP 5.8: Offenes Wettbewerbsverfahren "stadt.raum.experimente" zum Stichtag 15.10.2022 - Sachstand zur Realisierung - einstimmig beschlossen
+- TOP 5.9: Übertragung des Gebäudeunterhalts und der Instandhaltung sowie des Betriebs für die Gebäude – Gutshof Schlosspark Benrath – auf die Stiftung Schloss und Park Benrath - Empfehlung einstimmig beschlossen
+- TOP 5.10: Gründung der unselbstständigen Gaul-Stiftung - passieren lassen
+- TOP 5.11: Gründung der selbstständigen Johanna Ey Stiftung - Empfehlung einstimmig beschlossen
+- TOP 5.12: Bedarfsbeschluss - Sanierung Pflegebereich Aquazoo - Empfehlung einstimmig beschlossen
+- TOP 5.13: Gastprofessur an der Robert Schumann Hochschule Düsseldorf - passieren lassen
+- TOP 6: Ausstellungsprogramme Kulturinstitute - 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.1: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.2: Filmmuseum - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.3: Heinrich-Heine-Institut - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.4: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.5: Theatermuseum & Dumont-Lindemann-Archiv - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.6: HETJENS Deutsches Keramikmuseum - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.7: SchifffahrtMuseum - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 6.8: Goethe-Museum / Anton-und-Katharina-Kippenberg-Stiftung - Ausstellungsprogramm 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 7: Verschiedenes - zur Kenntnis genommen
