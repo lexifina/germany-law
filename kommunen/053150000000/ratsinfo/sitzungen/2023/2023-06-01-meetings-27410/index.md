@@ -1,0 +1,85 @@
+# 20. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-01T15:04:00+02:00
+- Ende: 2023-06-01T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27410
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27410
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage zum Energiekonzept Deutzer Hafen von der Fraktion DIE LINKE (AN/0207/2023 - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage aus dem Stadtentwicklungsausschuss: Otto-Langen-Quartier, Sachstand - Kenntnis genommen
+- TOP 1.3: Anfrage der SPD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 02.02.2023 betreffend "Altlasten im Lindgens-Areal" - Kenntnis genommen
+- TOP 1.4: RSV Rath-Heumar - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5: Beantwortung einer Anfrage der SDP-Fraktion betreffend "Verwendung der Ablösebeträge aus dem Kooperativen Baulandmodell (AN/0762/2023) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.6: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion (AN/0484/2023) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.7: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses am 04.05.2023 zum Sachstand Otto-Langen-Quartier - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Energiekonzept für den Deutzer Hafen - Kenntnis genommen
+- TOP 2.2: Einladung zum Fachgespräch Umsetzungsmodell Kreuzfeld - EInladungspolicy - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.3: RSV Rath Heumar - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.4: Anfrage der SPD-Fraktion betreffend "Verwendung der Ablösebeträge aus dem Kooperativen Baulandmodell" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.5: Sachstand StEK Wohnen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.6: Entwicklung des Geländes Ehrenfeldgürtel 125 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anträge
+- TOP 3.1: Anthrazit Konterrevolution - Gestaltungshandbuch mit Akzenten! - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - zurückgestellt
+- TOP 5.1.1: Erstellung eines SEVESO-III-Gutachten für den Kölner Norden - zurückgestellt
+- TOP 5.1.2: Änderungsantrag zu Top 5.1 (3115/2022): Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden (Vorlagen-Nummer AN/0648/2022) - zurückgestellt
+- TOP 5.2: Bedarfsfeststellungs- und Mittelfreigabebeschluss zum Stadtentwicklungskonzept Wirtschaft - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Neubewertung des Projektes am Waidmarkt - Einstellung der Planungen für einen unterirdischen Kulturort (K3) und Perspektiven der weiteren städtebaulichen und kulturellen Entwicklung. - ohne Votum in nachfolgende Gremien
+- TOP -: Präsentation der Verwaltung - Kenntnis genommen
+- TOP 6.2: Grundsatzbeschluss Umsetzungsmodell Kreuzfeld / Vorzugsvariante - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Hochpunkt im Lindgens-Areal, Verzicht auf ein Qualifizierungsverfahren - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - zurückgestellt
+- TOP 10.1.1: Änderungsantrag zur Beschlussvorlage 0333/2023 „Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Maarhäuserweg / Hansestraße i - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Stüttgenweg in Köln-Lindenthal - ungeändert beschlossen
+- TOP 10.3: Neubau Justizzentrum Köln in Köln-Sülz; hier: Festlegung des BNB-Standards auf Silber - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Thyssen - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel Campus M - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - zurückgestellt
+- TOP 10.6: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) „Neubau Justizzentrum Köln in Köln-Sülz“ - geändert beschlossen
+- TOP 10.6.1: Änderungsantrag zu Top 10.6 (1161/2023): - ungeändert beschlossen
+- TOP 10.7: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Aachener Straße 240-244 in Köln Lindenthal - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Umsetzung Stadtentwicklungskonzept Wohnen - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 67453/23 Arbeitstitel: Westlich Unter Goldschmied (Laurenz-Carré) in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 12.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - zurückgestellt
+- TOP 12.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - zurückgestellt
+- TOP 12.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - zurückgestellt
+- TOP 12.5: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - zurückgestellt
+- TOP 12.6: Sammelbeschluss zu den Satzungen über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln bezüglich der Kölner Ringstraßen mit Ihren Plätzen und Seitenstraßen - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Änderung des Bebauungsplanes Nummer 63459/04 mit dem Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - geändert beschlossen
+- TOP 13.2: Änderung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes mit dem Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - geändert beschlossen
+- TOP 13.2.1: Änderungsantrag zu Top 13.2 (0464/2023): Änderung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes mit dem Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Beschluss über die Einleitung eines Teilaufhebungsverfahrens des Bebauungsplanes Nr. 60499/03 Arbeitstitel: Schulbau Görlinger Zentrum in Köln-Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf Nummer 66389/03, Arbeitstitel: Rondorf Nord-West in Köln-Rondorf - Kenntnis genommen
+- TOP 17.2: Offenlage Bebauungsplan-Entwurf 76403/02 Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: 226. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2, Köln-Rodenkirchen - Kenntnis genommen
+- TOP 18.2: Werkstattverfahren Büro- und Geschäftshaus Heumarkt 55/ Ecke Gürzenichstraße, Köln Innenstadt - Kenntnis genommen
+- TOP 18.3: Vorhabenbezogener Bebauungsplan "Am Bilderstöckchen" in Köln-Bilderstöckchen, hier: Sachstandsinformation zur Empfehlung des Gestaltungsbeirates - Kenntnis genommen
+- TOP 18.4: Neuer Kölner Mietspiegel (April 2023) - Kenntnis genommen
+- TOP 18.5: Sachstandsinformation zur Durchführung des hochbaulich-freiraumplanerischen Realisierungswettbewerbes nach RPB zum Neubau des Justizzentrums Köln in Köln-Sülz - Kenntnis genommen
+- TOP 18.6: Veranstaltungsreihe Kölner Perspektiven: Stadt mit Bestand - Kenntnis genommen
+- TOP 18.7: Kölner Statistische Nachrichten 3/2023 – Auswertung der Bautätigkeitsstatistik 2022 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
