@@ -1,0 +1,2 @@
+# § 3a Übergangsregelung zum Anbindegebot
+Für Bauleitplanungen, deren Aufstellungsbeschluss gemäß § 2 Abs. 1 vor dem 14. Dezember 2021 gefasst wurde oder deren Beteiligungsverfahren gemäß § 4 Abs. 1 des Baugesetzbuches zu diesem Zeitpunkt bereits abgeschlossen ist, gilt das Ziel 3.3 aus der Anlage der Verordnung über das Landesentwicklungsprogramm Bayern (LEP) in der am 31. Mai 2023 geltenden Fassung fort.

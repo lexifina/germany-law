@@ -1,0 +1,1 @@
+Auf Grund von Art. 20 Abs. 2 des Bayerischen Landesplanungsgesetzes (BayLplG) vom 25. Juni 2012 (GVBl S. 254, BayRS 230-1-W) in Verbindung mit Art. 14 Abs. 6 Satz 2 und Art. 35 Abs. 2 Satz 3 BayLplG erlässt die Bayerische Staatsregierung mit Zustimmung des Bayerischen Landtags folgende Verordnung:
