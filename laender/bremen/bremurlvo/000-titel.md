@@ -1,1 +1,1 @@
-# Verordnung über den Urlaub für bremische Beamte und Richter (Bremische Urlaubsverordnung - BremUrlVO) in der Fassung vom 27. Juni 1979
+# Verordnung über den Urlaub für bremische Beamtinnen und Beamte sowie Richterinnen und Richter (Bremische Urlaubsverordnung - BremUrlVO) vom 2. Mai 2023
