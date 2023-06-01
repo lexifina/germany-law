@@ -1,8 +1,8 @@
 # VwV Notardienstordnung Vollzitat: VwV Notardienstordnung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-09-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19463.2
+- Datum: 2023-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19463.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.09.2022
+01.06.2023
 bis
-31.05.2023
+31.12.2025
 
 VwV Notardienstordnung
 
@@ -74,24 +74,51 @@ sowie der Dienstleisterinnen und Dienstleister
 Die Verpflichtung nach den §§ 26 oder 26a BNotO hat auch zu erfolgen, wenn zwischen denselben Personen bereits früher ein Beschäftigungs- oder ein sonstiges Vertragsverhältnis bestanden hat oder Beschäftigte oder Dienstleisterinnen oder Dienstleister einer anderen Notarin oder eines anderen Notars übernommen worden sind.
 
 § 5
-Bezeichnung der Beteiligten bei der Beurkundung
+Bezeichnung der Beteiligten in Urkunden
 
 
-(1) Bei der Bezeichnung natürlicher Personen sind der Vorname oder die Vornamen, der Familienname, das Geburtsdatum, der Wohnort und die Anschrift anzugeben. Weicht der zur Zeit der Beurkundung geführte Familienname von dem Geburtsnamen ab, ist auch der Geburtsname anzugeben. Von der Angabe der Anschrift ist abzusehen, wenn dies in besonders gelagerten Ausnahmefällen zum Schutz gefährdeter Beteiligter oder ihrer Haushaltsangehörigen erforderlich ist. In Vertretungsfällen kann anstelle des Wohnortes und der Anschrift angegeben werden:
+(1) Bei der Bezeichnung natürlicher Personen sind der Vorname oder die Vornamen, der Familienname, das Geburtsdatum, der Wohnort und die Anschrift anzugeben.
+
+Weicht der zur Zeit der Beurkundung geführte Familienname von dem Geburtsnamen ab, ist auch der Geburtsname anzugeben.
+
+Von der Angabe der Anschrift ist abzusehen, wenn dies in besonders gelagerten Ausnahmefällen zum Schutz gefährdeter Beteiligter oder ihrer Haushaltsangehörigen erforderlich ist.
+
+Von der Angabe der Anschrift kann abgesehen werden, wenn die Urkunde zur Übermittlung an das Handelsregister oder
+
+ein ähnliches Register bestimmt ist und Zweifel sowie Verwechslungen ausgeschlossen sind.
+
+Bei natürlichen Personen, die geschäftlich oder dienstlich auftreten, kann anstelle von deren Wohnort und Anschrift deren Geschäfts- oder Dienstanschrift
+
+einschließlich des Ortes angegeben werden.
+
+(2) Bei der Bezeichnung Beteiligter, die keine natürlichen Personen sind, sind der Name oder die Firma, die Rechtsform, eine Dienst- oder Geschäftsanschrift und gegebenenfalls ein davon abweichender Sitz anzugeben. Sind Beteiligte in einem Register eingetragen, sind auch die registerführende Stelle und die Registernummer anzugeben.
+
+
+§ 5a
+Elektronische Übermittlung in Registersachen
+
+
+Werden Dokumente elektronisch in öffentlich beglaubigter Form an das Handelsregister oder ein ähnliches Register übermittelt,
+
+sollen folgende Angaben nicht aufgenommen oder unkenntlich gemacht werden:
 
 
 1.
 
-bei Vertreterinnen und Vertretern von juristischen Personen des öffentlichen und des Privatrechts die Dienst- oder Geschäftsanschrift der vertretenen Person;
+Wohnanschriften,
 
 
 2.
 
-bei Mitarbeiterinnen und Mitarbeitern der Notarin oder des Notars die Anschrift der Geschäftsstelle der Notarin oder des Notars.
+Seriennummern von Ausweisdokumenten und
 
 
-(2) Bei der Bezeichnung Beteiligter, die keine natürlichen Personen sind, sind der Name oder die Firma, die Rechtsform, eine Dienst- oder Geschäftsanschrift und gegebenenfalls ein davon abweichender Sitz anzugeben. Sind Beteiligte in einem Register eingetragen, sind auch die registerführende Stelle und die Registernummer anzugeben.
+3.
 
+Kontoverbindungen.
+
+
+Dies gilt nicht, wenn die übermittelnde Stelle den Entwurf des Dokuments nicht gefertigt hat.
 
 § 6
 Einhaltung von Mitwirkungsverboten
@@ -664,7 +691,7 @@ Abschnitt 8
 (2) § 8 Satz 1 und 2 ist erst ab dem 1. Januar 2023 anzuwenden.
 
 
-(3) Für Verwahrungsmassen, die nach den vor dem 1. Januar 2022 geltenden Bestimmungen geführt werden (§ 76 Absatz 3 Satz 1 und 2 BeurkG), kann abweichend von § 9 eine eigenständige Übersicht über die Verwahrungsgeschäfte eingereicht werden, die sich nach § 25 Absatz 2 und 3 sowie dem Muster 8 der Dienstordnung für Notarinnen und Notare in der bis zum 31. Dezember 2021 geltenden Fassung richtet. Als maßgeblicher Zeitpunkt der dort aufzuführenden Beträge kann auch die Wertstellung zum 31. Dezember des betreffenden Kalenderjahres zugrunde gelegt werden, wenn dies in der Übersicht kenntlich gemacht ist.
+(3) Für Verwahrungsmassen, die nach den vor dem 1. Januar 2022 geltenden Bestimmungen geführt werden (§ 75 Absatz 3 Satz 1  und 2 BeurkG), kann abweichend von § 9 eine eigenständige Übersicht über die Verwahrungsgeschäfte eingereicht werden, die sich nach § 25 Absatz 2 und 3 sowie dem Muster 8 der Dienstordnung für Notarinnen und Notare in der bis zum 31. Dezember 2021 geltenden Fassung richtet. Als maßgeblicher Zeitpunkt der dort aufzuführenden Beträge kann auch die Wertstellung zum 31. Dezember des betreffenden Kalenderjahres zugrunde gelegt werden, wenn dies in der Übersicht kenntlich gemacht ist.
 
 § 21
 Inkrafttreten
@@ -689,9 +716,9 @@ Fsn-Nr.: 302-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. September 2022
+Fassung gültig ab:  1. Juni 2023
 
-Fassung gültig bis: 31. Mai 2023
+Fassung gültig bis: 31. Dezember 2025
 
 Drucken/Speichern
 
@@ -718,7 +745,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19463.2
+https://www.revosax.sachsen.de/vorschrift/19463.3
 Stand vom
 18.11.2026
 
