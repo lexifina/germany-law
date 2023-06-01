@@ -1,0 +1,1 @@
+Auf Grund des § 201a Satz 1 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das zuletzt durch Art. 2 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1353) geändert worden ist, verordnet die Bayerische Staatsregierung:
