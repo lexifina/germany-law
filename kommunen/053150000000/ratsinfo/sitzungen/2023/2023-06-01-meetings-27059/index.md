@@ -1,0 +1,82 @@
+# 22. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-01T17:30:00+02:00
+- Ende: 2023-06-01T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27059
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27059
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung/Verkehrskonzept Graseggerstraße (Az.: 02-1600-168-22) - geändert beschlossen
+- TOP -: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung/Verkehrskonzept Graseggerstraße (Az.: 02-1600-168-22) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Paul-Humburg-Straße, Köln-Nippes (Az.: 02-1600-159-22) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Akute Gefährdungssituation GGS Halfengasse nähe KVB-Straße, Merkenicher Straße 313 - zurückgestellt
+- TOP 7.1.3: Planung Altleiningenweg - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.1.4: Qualitätssicherung an Schulen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Qualitätssicherung an Schulen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.5: Schulplatzsituation an weiterführenden Schulen im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.6: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.7: Niehler Straße – Errichtung von LSA - zurückgestellt
+- TOP 7.1.8: Beschilderung St.-Agatha-Krankenhaus in Niehl - zurückgestellt
+- TOP 7.1.9: Sachstand Umgestaltung der Merheimer Straße - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Basketballfeld an der Haltestelle Amsterdamer Straße/Gürtel - Kenntnis genommen
+- TOP 7.2.2: Fußweg in Alt-Niehl - zurückgestellt
+- TOP 7.2.3: Nachfrage zu Bauarbeiten Ecke Blücherstraße/Niehler Straße - zurückgestellt
+- TOP 7.2.4: Namibiastraße -- kein Parken gegenüber von Einzelgaragen - zurückgestellt
+- TOP 7.2.5: Löschgruppe Longerich der Freiwilligen Feuerwehr Köln - zurückgestellt
+- TOP -: "Löschgruppe Longerich der Freiwilligen Feuerwehr Köln", Beantwortung einer Anfrage der SPD-Fraktion (Vorlagen-Nr. 1119/2023) - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Barrierefreiheit auf einem Teilstück der Niehler Straße herstellen - ungeändert beschlossen
+- TOP 8.1.2: Verbesserung der Verkehrssicherheit auf der Longericher Straße - ungeändert beschlossen
+- TOP 8.1.3: Jugendliche im Bezirk empowern – Youth Lead the Change - geändert beschlossen
+- TOP -: Jugendliche im Bezirk empowern – Youth Lead the Change - ungeändert beschlossen
+- TOP 8.1.4: Zoo und Flora sicher verbinden – Niveaugleichheit auf der Stammheimer Straße - ungeändert beschlossen
+- TOP 8.1.5: Verkehrsberuhigung Rotterdamer Straße - ungeändert beschlossen
+- TOP 8.1.6: Sofortmaßnahmen zur Herstellung der Verkehrssicherheit auf der Kempener Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Öffentlichkeitsbeteiligung zur Umgestaltung des Rondells Altleiningenweg zusammen mit der nördlich angrenzenden Platzfläche - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an die OT Werkstattstraße - ungeändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an Promo Guinee Afrika e.V. - ungeändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an Wipe a Tear e.V. - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an evangelisch gGmbH - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an die Sportjugend und Stadtsportbund Köln e.V. - ungeändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an Über den Tellerrand kochen Köln e.V. - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - geändert beschlossen
+- TOP -: Änderungsantrag zu 0427/2023 (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.2: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Nippes mit Start im Interimsgebäude Toni-Steingass-Park, 50733 Köln-Niehl zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.3: Schulrechtliche Errichtung einer Gesamtschule im Interimsgebäude Bürgerpark Nord, Escher Straße 279, 50739 Köln-Bilderstöckchen zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.4: Zügigkeitserweiterung der Katholischen Grundschule Osterather Straße, Osterather Straße 13, 50739 Köln-Bilderstöckchen, Schulnr. 111740, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 9.2.5: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 9.2.6: 288. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Verkehrssicherheit Heckhofweg für Radfahrende und zu Fuß Gehende - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zu den von der Bezirksvertretung Nippes priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.3: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 10.2.4: Vorhabenbezogener Bebauungsplan "Am Bilderstöckchen" in Köln-Bilderstöckchen, hier: Sachstandsinformation zur Empfehlung des Gestaltungsbeirates - Kenntnis genommen
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Dringlichkeitsantrag von FDP, GUT und Klima Freunden betreffend die provisorische Barrierefreiheit an der Haltestelle Slabystraße der Linie 18 (AN/1444/2021) - Kenntnis genommen
+- TOP 10.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.8: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
