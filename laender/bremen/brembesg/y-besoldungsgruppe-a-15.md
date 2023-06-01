@@ -4,14 +4,14 @@ Abteilungsdirektorin beim Landesinstitut für Schule1), Abteilungsdirektor beim 
 Akademische Direktorin, Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 - als Lektorin oder als Lektor an einer Hochschule -
-Direktorin, Direktor
+Direktorin, Direktor2) 3)
 Direktorin im pädagogischen Verwaltungsdienst, Direktor im pädagogischen Verwaltungsdienst
 Direktorstellvertreterin des Landesinstituts für Schule6), Direktorstellvertreter des Landesinstituts für Schule6)
 Fachdirektorin beim Landesinstitut für Schule, Fachdirektor beim Landesinstitut für Schule
 Hauptkustodin, Hauptkustos
 Leiterin des Medienzentrums Bremerhaven, Leiter des Medienzentrums Bremerhaven
 Leiterin der Pädagogischen Arbeitsstelle, Leiter der Pädagogischen Arbeitsstelle
-- am Lehrerfortbildungsinstitut bei der Stadtgemeinde Bremerhaven -
+- für Schulentwicklung und Fortbildung der Stadtgemeinde Bremerhaven -
 Oberschulrätin8), Oberschulrat8)
 Ortsamtsleiterin5) 9), Ortsamtsleiter5) 9)
 Rektorin, Rektor
@@ -32,6 +32,8 @@ eines voll ausgebauten Gymnasiums oder einer voll ausgebauten Oberschule mit bis
 Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6.
 1) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält als ärztliche Referats- oder Dezernatsleitung einer zugeordneten Dienststelle einer obersten Landesbehörde eine Amtszulage nach Anlage 6.
+3) Erhält als ärztliche Abteilungsleitung im Gesundheitsamt Bremerhaven eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.

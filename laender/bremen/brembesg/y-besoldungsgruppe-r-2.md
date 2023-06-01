@@ -7,6 +7,8 @@ Direktorin des Sozialgerichts1), Direktor des Sozialgerichts1)
 Oberstaatsanwältin, Oberstaatsanwalt
 - als Abteilungsleiterin oder als Abteilungsleiter bei der Staatsanwaltschaft beim Landgericht2) -
 - als Dezernentin oder als Dezernent bei der Staatsanwaltschaft beim Hanseatischen Oberlandesgericht3) -
+- als Leiterin der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen oder als Leiter der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen9) -
+- als ständige Vertreterin der Leitung der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen oder als ständiger Vertreter der Leitung der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen10) -
 Richterin am Amtsgericht, Richter am Amtsgericht
 - als weitere aufsichtsführende Richterin4) oder als weiterer aufsichtsführender Richter4) -
 - als die ständige Vertretung der Direktorin oder des Direktors des Amtsgerichts Bremen-Blumenthal5) -
@@ -42,3 +44,5 @@ Fußnoten
 7) Als die ständige Vertretung der Präsidentin oder des Präsidenten des Landgerichts; erhält eine Amtszulage nach Anlage 6.
 8) Als die ständige Vertretung der Präsidentin oder des Präsidenten des Verwaltungsgerichts; erhält eine Amtszulage nach Anlage 6.
 8) Als die ständige Vertretung der Präsidentin oder des Präsidenten des Verwaltungsgerichts; erhält eine Amtszulage nach Anlage 6.
+9) Erhält eine Amtszulage nach Anlage 6, soweit acht und mehr Staatsanwaltsplanstellen in der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen ausgebracht sind.
+10) Soweit acht und mehr Staatsanwaltsplanstellen in der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen ausgebracht sind.
