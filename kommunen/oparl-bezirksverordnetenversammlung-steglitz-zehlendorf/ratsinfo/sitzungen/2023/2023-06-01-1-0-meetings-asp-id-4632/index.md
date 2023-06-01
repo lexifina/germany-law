@@ -1,0 +1,51 @@
+# 12. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-06-01T17:30:00+02:00
+- Ende: 2023-06-01T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4632
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4632
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Wahl stellvertretender Ausschussvorsitz - erledigt
+- TOP 3: Genehmigung des Protokolls vom 27.04.2023 - erledigt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Anträge - erledigt
+- TOP 5.1: Radweg Attilastraße von Sieversbrücke bis S-Bahnhof Attilastraße - vertagt
+- TOP 5.2: Radweg Kaiser-Wilhelm-Straße von Sieversbrücke bis Paul-Schneider-Straße - vertagt
+- TOP 5.3: Spielstraße für die Kinder der Giesensdorfer Grundschule - vertagt
+- TOP 5.4: Pilotprojekt Schloßstraße an verkaufsoffenen Sonntagen autofrei - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.5: Gefährliche Fahrspurverschwenkung Clayallee - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.6: Halteverbot Clayallee im Bereich der unzulässigen Busspur - vertagt
+- TOP 5.7: Projekt SimRa - Sicherheit im Radverkehr fördern - vertagt
+- TOP 5.8: Radweg in der Leo-Baeck-Straße erhalten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.9: Einbahnstraße für „Am Sandwerder“ - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.10: Reparaturstationen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.11: Schlaglochmeldung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.12: Städtepartnerschaften sichtbar machen - vertagt
+- TOP 5.13: Bussonderstreifen Teltower Damm - vertagt
+- TOP 5.14: Sichere Fahrradbügel vor jeder Jugendfreizeiteinrichtung in Steglitz-Zehlendorf - mit Änderungen im Ausschuss beschlossen
+- TOP 5.15: Zebrastreifen Teltower Damm/Sonnenhaus - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.16: Unter den Eichen: Schnellere Busse, weniger Stau – der Umwelt zu liebe - im Ausschuss abgelehnt
+- TOP 5.17: Tempo 30 Garystraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.18: Bessere Erschließung für den Lichterfelder Ring - vertagt
+- TOP 5.19: Fahrrad-Stellplätze Lichterfelde-Ost - vertagt
+- TOP 5.20: Straßensanierung und Schulwegsicherung - vertagt
+- TOP 5.21: Sicherung der Querungen zur Nord-Grundschule - vertagt
+- TOP 5.22: Hinzuziehung der Beauftragten für Menschen mit Behinderungen bei der Genehmigung von Jelbi-Standorten - vertagt
+- TOP 5.23: Den Eugen-Gerstenmaier-Platz mit neuem Leben nach den Bauarbeiten erfüllen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.24: Ampel Dahlemer Weg/Jänickestraße - vertagt
+- TOP 5.25: Verlängerung Linie 218 von Pfaueninsel nach Moorlake - vertagt
+- TOP 5.26: Schulweg Dessauerstraße - vertagt
+- TOP 5.27: Schulwegsicherheit Dunant-Grundschule - vertagt
+- TOP 5.28: Schulwegsicherheit Grundschule am Karpfenteich - vertagt
+- TOP 5.29: Leitfaden für die Temporären Spielstraßen bekannt machen - vertagt
+- TOP 5.30: Bürger*innensteige in Lichterfelde-West von Autos befreien - vertagt
+- TOP 5.31: Fahrgäste der BVG nicht im Regen und auch nicht im Sonnenschein stehen lassen - vertagt
+- TOP 6: Verschiedenes - erledigt
