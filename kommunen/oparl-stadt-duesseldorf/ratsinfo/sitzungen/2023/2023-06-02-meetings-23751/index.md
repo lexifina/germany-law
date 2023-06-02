@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-02T16:05:00+02:00
+- Ende: 2023-06-02T17:35:00+02:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23751
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23751
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 05.05.2023 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Neuwahl einer Schiedsperson - zurückgezogen
+- TOP 5.2: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an städtischen Grundschulen - Empfehlung einstimmig beschlossen
+- TOP 5.3: Karl-Hohmann-Straße - Erneuerung Öffentliche Beleuchtung; Rückbau Gas (nicht denkmalwert) und Neubau Strom - mehrheitlich beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Am Bärenkamp - Ausbau Gehweg vor Haus-Nr. 15/17 - vertagt
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B+C - beschlossen
+- TOP 5.8: Maßnahmen zur Förderung des Radverkehrs auf der Benrather Schlossallee während der Baumaßnahmen am Benrather Schlossufer - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Sanierung Radweg Grünzug Hassels - Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: GGS Südallee - Zirkusprojekt "Zirkus Zapp Zarap" - einstimmig beschlossen
+- TOP 9.2: Benrather Kulturkreis - Kinderprosa 2023 - einstimmig beschlossen
+- TOP 9.3: Benrather Kulturkreis - Benrather Rundgang incl. "Eine gute Stunde Kultur" - einstimmig beschlossen
+- TOP 9.4: Verkehrswacht Düsseldorf e.V. - Verkehrssicherheitstag im Rahmen der Europäischen Mobilitätswoche 2023 - einstimmig beschlossen
+- TOP 9.5: St. Sebastianus Reiterkorps Düsseldorf-Wersten e.V. - Werstener Reitertag 2023 - einstimmig beschlossen
+- TOP 9.6: Verein für Gesundheitsprävention der Grundschulen am Rheindorfer Weg - abschließbare Toilettenpapierspender für die Marienschule 2023 - einstimmig beschlossen
+- TOP 9.7: Kreis der Düsseldorfer Muslime - KDDM - Cup Familiensommerfest 2023 - mehrheitlich beschlossen
+- TOP 9.8: Bürgerhaus Reisholz - Paulinenpark-Fest 2023 - einstimmig beschlossen
+- TOP 9.9: Initiativkreis "Jugend in Benrath" e.V. - Haus Spilles Open Air 2023 - einstimmig beschlossen
+- TOP 9.10: Gemeinschaftshauptschule Benrath - Sichtschutz zur Nachbarschule - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Parksituation Kölner Landstraße Höhe Nr. 261 - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/235/2022 - zur Kenntnis genommen
+- TOP 10.2: M3-Halt Kaldenberger Straße - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/022/2023 - zur Kenntnis genommen
+- TOP 10.3: Fußgängerampel an der Bushaltestelle Sportpark Niederheid auf der Paul-Thomas-Straße - Beschluss der Bezirksvertretung 9 vom 26.08.2022; BV9/164/2022 - zur Kenntnis genommen
+- TOP 10.4: Einrichtung einer Vorfahrtsregelung für die Burscheider Straße an der Kreuzung Burscheider Straße / Opladener Straße - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/046/2023 - zur Kenntnis genommen
+- TOP 10.5: Tempo 30 auf der Kappeler Straße - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/040/2023 - zur Kenntnis genommen
+- TOP 10.6: Beschlusskontrolle der Bezirksvertretung 9 - 1.Halbjahr 2023 - zur Kenntnis genommen
