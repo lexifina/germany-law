@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-05T17:00:00+02:00
+- Ende: 2023-06-05T17:46:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27412
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27412
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Girls´ and Boys´ Day 2023 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion für die Sitzung des AVR am 08.05.2023 (AN/0789/2023) betreffend „Plätze mit besonderem Handlungsbedarf: Sachstand Container-Anlaufstelle Neumarkt“ - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündl. Anfrage Wanderbäume - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Erster Kölner Antidiskriminierungsmonitoring - Kenntnis genommen
+- TOP 4.2: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 4.3: Keine Vergabe von städtischen Räumen für extremistische Zwecke - Kenntnis genommen
+- TOP 4.4: Erweiterung der Zielgruppen des Kommunalen Integrationsmanagements (KIM) - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, Volt betreffend "Anwendungsfelder von KI in der Verwaltung" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0708/2023 betreffend "Anwendungsfelder von KI in der Verwaltung" - Kenntnis genommen
+- TOP 6.2: Anfrage der FDP-Fraktion betreffend "An-, Ab- und Ummeldungen von Gewerbetreibenden" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion betreffend "An-, Ab- und Ummeldungen von Gewerbetreibenden" - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Parkplätze von Mitarbeitenden" - zurückgestellt
+- TOP 6.4: Anfrage der Volt-Fraktion betreffend "Klageverfahren in Bezug auf Kita- und Schulplatzvergabe" - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Sachstand Umsetzung der EU-Whistleblower-Richtlinie in Köln" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "EM-Fan Village öffentlicher Raum"
+- TOP 7.2: Mündliche Anfrage der Volt Fraktion betreffend "Steuer für Einwegverpackung"
+- TOP 7.3: Mündliche Anfrage eines Sachkundigen Einwohners betreffend "barrierefreie Fahrzeuge bei Taxi- und Mietwagenbetrieben"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Stellungnahme zum Antrag der SPD-Antrag "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion die Linke betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2023 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Förderung des Kölner Flüchtlingsrates e.V. - ungeändert beschlossen
+- TOP 10.2: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - ungeändert beschlossen
+- TOP 10.4: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 10.5: Zuschuss zum Deutschlandticket als JobTicket - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
