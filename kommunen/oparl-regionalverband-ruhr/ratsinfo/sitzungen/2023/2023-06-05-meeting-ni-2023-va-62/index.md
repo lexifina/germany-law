@@ -1,0 +1,80 @@
+# 10. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2023-06-05T10:05:00+02:00
+- Ende: 2023-06-05T11:45:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-62
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-62
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-62
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-62
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP 2.1: 
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Verzicht auf Erörterung der Stellungnahmen zum RP Ruhr
+- TOP 4.1.1: Anfrage Die Grünen Erörterungstermin im Verfahren des RP Ruhr
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.1.1: Antwort auf die Anfrage der AfD-Fraktion Flächen für die Windenergie
+- TOP 7.1.2: Antwort auf die Anfrage der CDU-Fraktion Sachstand zum Begleitantrag Sachlicher Teilplan Regionale Kooperationsstandorte
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der Abfallwirtschaft metropoleruhr GmbH (AmG) - Einstellung des Geschäftsbetriebes / Auflösung der Gesellschaft
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Ruhrwind Herten GmbH
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2022
+- TOP 8.4: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Jahresabschluss zum 31.12.2022
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Kündigung des Gesellschaftsvertrages
+- TOP 8.6: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH (TER) Bürgschaftsübernahme für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten) für die Ersatzinvestition der Gleiserneuerung zwischen km 62,37 und 64,07 der Strecke Hattingen - Wengern-Ost
+- TOP 8.7: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2022
+- TOP 8.8: Umsetzung des Strompreisbremsegesetzes (StromPBG) sowie des Gesetzes zur Einführung von Preisbremsen für leitungsgebundenes Erdgas und Wärme (EWPBG)
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Wasserwerk Volmarstein in Wetter und Hagen; Gemeinsame Absichtserklärung der Stadt Wetter, der AVU und des Regionalverbandes Ruhr (Letter of Intent)
+- TOP 11.2: Ausbau der Erneuerbaren Energien auf RVR Liegenschaften
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 13.1: Weiterführung Bildungsberichterstattung Ruhr
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Bauprojekt Greifvogelauffangstation: Neubau einer Greifvogel- und Eulenauffangstation am Hof Punsmann, Dorsten-Lembeck.
+- TOP 14.2: Leitlinien zur Verpachtung und Bewirtschaftung der RVR-eigenen landwirtschaftlichen Flächen
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2023 durch das Ministerium für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen (MHKBD NRW)
+- TOP 16.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.3: Entwurf des Jahresabschlusses zum 31.12.2022
+- TOP 16.4: Benennung der Mitglieder des Artistic Board der Manifesta 16 Ruhr gGmbH (M16 Ruhr)
+- TOP 16.5: Bekanntgabe der in der Zeit vom 01.01.2023 - 31.03.2023 für das Haushaltsjahr 2023 genehmigten Haushaltsüberschreitungen
+- TOP 16.6: Dringlichkeitsentscheidung Überplanmäßige Mittelbereitstellung für das Projekt 'Parkplatzabkopplung Revierpark Wischlingen' (I-9140139)
+- TOP 16.7: Beschluss über die Behandlung des Jahresfehlbetrages 2021
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Investitionsbedarfe und Sachkosten der Bäderlandschaft der RVR-Familie
+- TOP 18.1.2: Antwort auf die Anfrage der CDU-Fraktion Sachstand GPA-Gutachten zur Bündelung von Aufgaben auf regionaler Ebene
+- TOP 18.1.3: Antwort auf die Anfrage der CDU-Fraktion Wasserwerk Volmarstein in Wetter und Hagen; Gemeinsame Absichtserklärung der Stadt Wetter, der AVU und des Regionalverbandes Ruhr
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: Nachfrage der Fraktion DIE LINKE zur Antwort der Verwaltung (Drucksache Nr. 14/0945-1) Berücksichtigung des Abgrabungsmonitorings des Geologischen Dienstes NRW zum 01.01.2022 im Entwurf des Regionalplans Ruhr im Rahmen der 3. Offenlage
