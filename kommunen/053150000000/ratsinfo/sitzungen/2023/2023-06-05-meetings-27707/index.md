@@ -1,0 +1,81 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-05T16:00:00+02:00
+- Ende: 2023-06-05T19:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27707
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27707
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Beigeordneten Voigtsberger und Vorstellung Planungen EM 2024
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Überfahrt für den Radverkehr in Weiden - ungeändert beschlossen
+- TOP 8.1.2: Anbringen von Abfallbehältern auf der Leichtensternstraße - ungeändert beschlossen
+- TOP 8.1.3: Unterbindung des Durchgangsverkehrs an der Leichtensternstraße - ungeändert beschlossen
+- TOP 8.1.4: Pflanzung von Straßenbäumen in der Hillerstraße - ungeändert beschlossen
+- TOP 8.1.5: Gestaltung der Grünfläche Bahnstraße/Eichendorffstraße - ungeändert beschlossen
+- TOP 8.1.6: Erweiterung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 8.1.7: Beseitung einer Gefahrenquelle an der Ecke Aachener Straße / Pfitznerstraße - geändert beschlossen
+- TOP 8.1.8: Entwidmung der K6 - ungeändert beschlossen
+- TOP 8.1.9: Vogelsanger Weg - ungeändert beschlossen
+- TOP 8.1.10: Aufhebung der Sperrung der Schafgasse in Köln-Lövenich - ungeändert beschlossen
+- TOP 8.1.11: Fitnessbereich Stadtwald - geändert beschlossen
+- TOP 8.1.12: Tiefgarage Pauliplatz - ungeändert beschlossen
+- TOP 8.1.13: Einrichtung von „Schulstraßen“ - geändert beschlossen
+- TOP 8.1.13.1: Ergänzungsantrag zu 8.1.13 - ungeändert beschlossen
+- TOP 8.1.14: Im Buschfelde, Widdersdorf: Alternierendes Parken, Piktogramme - geändert beschlossen
+- TOP 8.1.15: Turnhalle Wendelinstraße - geändert beschlossen
+- TOP 8.1.16: Widdersdorfer Landstraße: Einrichtung eines Fahrradschutzstreifens - ungeändert beschlossen
+- TOP 8.1.17: Gelände Cologne Cardinals - geändert beschlossen
+- TOP 8.1.18: Verbesserung des separaten Rad- und Fußweges in Weiden-Süd - ungeändert beschlossen
+- TOP 8.1.19: Besserer Schutz für Kinder auf der Mommsenstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept Lindenthal (1. Zyklus) - ungeändert beschlossen
+- TOP 9.1.2: Baugesuch Belvederestraße 41 / Herrigergasse 2 im Gebiet der Erhaltungsatzung „Köln-Müngersdorf Kernbereich - zurückgestellt
+- TOP 9.1.3: -geschoben nach 11.3.7-
+- TOP 9.1.4: Bestellung einer stellvertretenden Schriftführerin für die Wahlperiode 2020 - 2025 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel Campus M - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - zurückgestellt
+- TOP 9.2.2: 288. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 9.2.4: Neubau Justizzentrum Köln in Köln-Sülz; hier: Festlegung des BNB-Standards auf Silber - ungeändert beschlossen
+- TOP 9.2.5: Zügigkeitserweiterung der Gemeinschaftsgrundschule Geilenkircher Straße, Geilenkircher Straße 52, 50933 Köln-Braunsfeld, Schulnr. 112422, zum Schuljahr 2024/25 - geändert beschlossen
+- TOP 9.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Stüttgenweg in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2.7: Änderung des Bebauungsplanes Nummer 63459/04 mit dem Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - geändert beschlossen
+- TOP 9.2.7.1: Ergänzungsantrag zu 9.2.7 - geändert beschlossen
+- TOP 9.2.8: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - zurückgestellt
+- TOP 9.2.9: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Aachener Straße 240-244 in Köln Lindenthal - ungeändert beschlossen
+- TOP 9.2.10: Einrichtung des Neubaus mit einer Dreifach- und einer Einfachturnhalle - ungeändert beschlossen
+- TOP 9.2.11: Sportentwicklungsplanung - Baubeschluss Sportlabor im Sportpark Müngersdorf - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht 2022 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2022 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Frischezentrum / Ergebnis der Markterkundung - Kenntnis genommen
+- TOP 11.3.2: Sachstandsbericht zur Schulhofentsiegelung an der Gemeinschaftsgrundschule Wendelinstraße 64, 50933 Köln - Kenntnis genommen
+- TOP 11.3.3: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 11.3.4: Sachstandsinformation zur Durchführung des hochbaulich-freiraumplanerischen Realisierungswettbewerbes nach RPB zum Neubau des Justizzentrums Köln in Köln-Sülz - Kenntnis genommen
+- TOP 11.3.5: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2023“– Sundaach aktiv, Start Sommerprogramm und Lauftreff - Kenntnis genommen
+- TOP 11.3.6: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 11.3.7: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus„ - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
