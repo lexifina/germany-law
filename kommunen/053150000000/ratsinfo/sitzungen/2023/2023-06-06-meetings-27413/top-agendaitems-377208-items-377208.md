@@ -1,0 +1,8 @@
+# TOP -: Kindertagesbetreuungssituation in Merkenich
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2023-06-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/377208
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/174925
