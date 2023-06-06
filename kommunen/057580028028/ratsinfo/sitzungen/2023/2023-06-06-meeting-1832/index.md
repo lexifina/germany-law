@@ -1,0 +1,52 @@
+# Gemeinderat (17. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2023-06-06T19:00:00+02:00
+- Ende: 2023-06-06T20:10:00+02:00
+- Ort: Haus des Gastes, Pemberville Platz 1, 32289 Rödinghausen, Raum 12 - Großer Saal
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe8JDwAIP-tC2qpyBnl4BS0
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1832
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUyudyGNUTvYQV78ZZeoyV649NcK-piEZY3iRbJSOncB/Bekanntmachung_Gemeinderat_06.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU51JCSBt2iVED8vcF1438Z-8wDXtv-V7tUgaXc5jomo/Oeffentliche_Niederschrift_Gemeinderat_06.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Gemeinsame Erklärung zum vom Bundesverkehrsministerium und der DB Netz AG geplanten Neubau einer ICE-Trasse zwischen Bielefeld und Hannover - Beratungsergebnis:26 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeCDU6017SPD1111B90/Grüne66FDP22Bürgermeister101Summe26127
+- TOP 4.: Bericht des Kämmerers nach § 6 Abs. 1 der KommunalhaushaltsrechtsanwendungsVO UA-Schutzsuchendenaufnahme zum Stichtag 30.03.2023
+- TOP 5.: Jahresabschluss 2022 – Übersicht der Ermächtigungsübertragungen nach § 22 Kommunalhaushaltsverordnung Nordrhein-Westfalen (KomHVO NRW) - Beratungsergebnis:Einstimmig
+- TOP 6.: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung von Brandverhütungsschauen in der Gemeinde Rödinghausen durch die Brandschutzdienststelle des Kreises Herford - Beratungsergebnis:Einstimmig
+- TOP 7.: Neufassung der Richtlinie über die Gewährung von Zuschüssen für die Errichtung von Solar- und Speicheranlagen in der Gemeinde Rödinghausen (Förderrichtlinie „Sonnenenergie für die Sonnenseite“)
+- TOP 7.1: Neufassung der Richtlinie über die Gewährung von Zuschüssen für die Errichtung von Solar- und Speicheranlagen in der Gemeinde Rödinghausen (Förderrichtlinie „Sonnenenergie für die Sonnenseite“) - Beratungsergebnis:25 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD1111CDU77B90/Grüne66FDP22Bürgermeister11Summe250227
+- TOP 8.: Erlass einer Innenbereichssatzung „Nördlich Bruchstraße“ als Einbeziehungssatzung gem. § 34 Abs. 4 S. 1 Nr. 3 BauGB im vereinfachten Verfahren gem. § 13 BauGB -Offenlegungsbeschluss- - Beratungsergebnis:Einstimmig
+- TOP 9.: Erweiterung der Innenbereichssatzung „Bahnstraße“ als Einbeziehungssatzung gem. § 34 Abs. 4 Satz 1 Nr. 3 BauGB im vereinfachten Verfahren gem. § 13 BauGB -Aufstellungsbeschluss- - Beratungsergebnis:Einstimmig
+- TOP 10.: Antrag der Fraktion Bündnis90/Die Grünen -Grünflächen statt Schottergärten- - Beratungsergebnis:6 Ja-Stimme(n), 21 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD1111CDU77B90/Grüne66FDP22Bürgermeister11Summe621027
+- TOP 11.: Antrag der Fraktion Bündnis90/Die Grünen -Photovoltaik in Bebauungsplänen- - Beratungsergebnis:6 Ja-Stimme(n), 21 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD1111CDU77B90/Grüne66FDP22Bürgermeister11Summe621027
+- TOP 12.: Mitteilungen der Verwaltung
+- TOP 12.1: Glasfaserausbau
+- TOP 12.2: Digitalisierung
+- TOP 12.3: Kindergartenplätze
+- TOP 12.4: Spielplatzkonzept
+- TOP 12.5: Deutschlandticket für Schülerinnen und Schüler
+- TOP 13.: Anfragen von Ratsmitgliedern
+- TOP 13.1: Ratsmitglied Andreas Schäfer
+- TOP 13.2: Ratsmitglied Andreas Schäfer
+- TOP 13.3: Ratsmitglied Andreas Schäfer
+- TOP 13.4: Ratsmitglied Jan Rollman
+- TOP 13.5: Ratsmitglied Andrea Haack
+- TOP 13.6: Ratsmitglied Andrea Haack
+- TOP 13.7: Ratsmitglied Reinhard Uthoff
+- TOP 13.8: Ratsmitglied Bernd Sacher
+- TOP 13.9: Ratsmitglied Diana Heinrich
+- TOP 13.10: Ratsmitglied Thomas Heisel
+- TOP 13.11: Ratsmitglied Thomas Heisel
+- TOP 13.12: Ratsmitglied Jens U. Garlichs
+- TOP 13.13: Ratsmitglied Reinhard Uthoff
+- TOP 13.14: Ratsmitglied Dirk Blank
+- TOP 13.15: Ratsmitglied Andre Poerting
+- TOP 13.16: Ratsmitglied Thomas Lübeck
