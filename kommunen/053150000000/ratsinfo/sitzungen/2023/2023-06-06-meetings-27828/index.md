@@ -1,0 +1,68 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-06T17:00:00+02:00
+- Ende: 2023-06-06T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27828
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27828
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Aktuelle Stunde zum Thema: Endlose Vernachlässigung der Schulen im Bezirk Chorweiler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Vernachlässigte Häuser der ZBVV in Chorweiler und Seeberg - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage (BV): Sachstand Baugebiet Damiansweg in Volkhoven/Weiler (AN/0805/2023) - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage (BV): Städtebauliches Planungskonzept Causemannstr. / Merkenich (AN/0802/2023) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Schließung des Freibades in Esch durch die Stadt Köln - endgültig zurückgezogen
+- TOP 7.2.2: Nahversorgung in Köln-Merkenich
+- TOP 7.2.3: Poller an der Zufahrt zum Blackfoot Beach
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Resolution: Demokratisches Vorbild für Köln - zurückgestellt
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.4: Dringlichkeitsantrag: Schulbaunotstand im Stadtbezirk Chorweiler - geändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Integriertes Handlungskonzept Lindweiler - ungeändert beschlossen
+- TOP 9.1.2: Aufhebung der Straßenbezeichnung Sasser Weg in Köln - Worringen - zurückgestellt
+- TOP 9.1.3: Einbeziehung eins Weges in den Senfweg in Köln-Worringen - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Zügigkeitserweiterung der Gemeinschaftsgrundschule Konrad-Adenauer-Schule, Martinusstraße 28, 50765 Köln-Esch/Auweiler, Schulnr. 114108, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 9.2.2: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.3: Zügigkeitserweiterung der Gemeinschaftsgrundschule Soldiner Straße, Soldiner Straße 68, 50767 Köln-Lindweiler, Schulnr. 185425, zum Schuljahr 2024/25 - geändert beschlossen
+- TOP 9.2.4: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 9.2.5: Grundsatzbeschluss Umsetzungsmodell Kreuzfeld / Vorzugsvariante - zurückgestellt
+- TOP 9.2.6: Errichtung eines Erweiterungsbaus in modularer Bauweise mit Naturwissenschaftsräumen und Rückbau der Naturwissenschaftsräume im Bestand für das Heinrich-Mann-Gymnasium, Fühlinger Weg 4, 50765 Köln-Volkhoven - Baubeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht 2022 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2022 - Kenntnis genommen
+- TOP 10.2.2: Jahresbericht "Willkommen und Ankommen in Köln" 2022 - Kenntnis genommen
+- TOP 10.2.3: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 10.2.4: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2022 - Kenntnis genommen
+- TOP 10.2.5: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - zurückgestellt
+- TOP 10.2.6: Herstellung einer signalisierten Querungsmöglichkeit über die Mercatorstraße und Wegeverbindung mit Anschluss an die Elbeallee in Köln-Chorweiler - zurückgestellt
+- TOP 10.2.7: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. 24, 50765 Köln-Blumenberg - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 10.2.8: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2023“– Sundaach aktiv, Start Sommerprogramm und Lauftreff - Kenntnis genommen
+- TOP 10.2.9: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 10.2.10: Kindertagesbetreuungssituation in Merkenich - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
