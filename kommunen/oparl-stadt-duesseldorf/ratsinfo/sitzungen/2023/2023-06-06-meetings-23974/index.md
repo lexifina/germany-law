@@ -1,0 +1,65 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-06T17:00:00+02:00
+- Ende: 2023-06-06T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23974
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23974
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488215.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488215.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00488215.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 21.03.2023 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 02.05.2023 - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 5.2: Kinderkonferenz Oberbilk (mdl. Bericht Jugendamt) - zur Kenntnis genommen
+- TOP 5.3: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an städtischen Grundschulen - einstimmig beschlossen
+- TOP 5.4: Erweiterung der Bike + Ride Sammelanlage am Aachener Platz zur MobilitätStation Aachener Platz - einstimmig beschlossen
+- TOP 5.5: Himmelgeister Straße Abschnitt Kopernikusstraße und Am Steinberg - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 5.6: Gerberstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 7.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Überprüfung der Möglichkeiten zur Verkehrsüberwachung an den Kreuzungen Südring/Fleher Straße und Südring/Volmerswerther Straße (Anfrage Herr van Bilsen - BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Vermüllung Fürstenplatz (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.4: Mobilstation Bachplätzchen (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.4: Zukünftige Nutzung der Flurstücke an der Eduard-Schulte-Straße/Merowingerstraße, Flurstück 696 sowie Christophstraße zwischen Hausnummer 76/80, Flurstück - zur Kenntnis genommen
+- TOP 8.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.6: Universitätsstraße (Anfrage SPD-Fraktion) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Vorstellung der Ergebnisse von Check´D und ReCheck´D für den Stadtbezirk 3 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 9.2: Karolingerstraße zur Fahrradstraße machen (Antrag SPD-Fraktion) - abweichend beschlossen
+- TOP 9.3: Sachstandsbericht zur Erarbeitung von Sozialen Erhaltungssatzungen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Überbrückungsnutzung der drei Florabars im Jahr 2023 bis Fertigstellung der neuen Räumlichkeiten durch externe Anbieter - zur Kenntnis genommen
+- TOP 10.2: Auffindbarkeit Mobilstation Kirchplatz erhöhen - zur Kenntnis genommen
+- TOP 10.3: Austausch der LED-Beleuchtung am Aachener Platz von LED 4000 Kelvin in LED 3000 Kelvin dimmbar - zur Kenntnis genommen
+- TOP 10.4: Sofortmaßnahmen gegen die zu erwartenden Hitzewellen - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
