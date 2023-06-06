@@ -1,0 +1,82 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-06T16:00:00+02:00
+- Ende: 2023-06-06T19:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24196
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24196
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00487709.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00487709.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00487709.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/004/2023 vom 09.05.2023 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Umgestaltung Kinderspielplatz Sohnstraße 2. Bauabschnitt - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Erneuerung öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte
+- TOP 8.1: Porschestraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8.2: Junkersstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8.3: Rosmarinstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8.4: Gaußstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8.5: Schwabstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 8.6: Bruchstraße im Abschnitt Hellweg bis Schwabstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP -: Anträge
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Wiederaufstellung der zweiten Bank am Zooparkeingang - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 11: Fahrradständer am Eingang zum Zoopark - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 12: Aufstellung von Fahrradständern in der Wülfrather Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 13: Bankquadrat am Zooparkeingang in Regenbogenfarben anstreichen "Bunte Bänke für Toleranz und Sichtbarkeit“ - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 14: Bezirksbezogene Haushaltsmittel – Antrag der HiSKO e.V -. Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel für den HISKO e. V. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 16: Zuwendung an den Verein Hisko e. V. aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 17: Unterstützung für den BBK Düsseldorf e. V. zur Durchführung der Projekt-/Seminarreihe im zweiten Halbjahr 2023 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 18: Zuwendungsantrag Projekt-/Seminarreihe des BBK Kunstforums Düsseldorf - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 19: Bezirksbezogene Haushaltsmittel für Seminare des BBK - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 20: Bezirksbezogene Haushaltsmittel für den Onomato Künstlerverein - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 21: Druck des Katalogs: TEXT UND BILD, wir sehen, was wir lesen, und wir lesen, was wir sehen der Montagsgruppe im onomato-künstlerverein - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 22: Zuschussantrag Straßenfest Wülfrather-/Wetterstraße am 26. August 2023 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel für das Wetterfest - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 24: Vorstellung der geplanten Hochhäuser am Mörsenbroicher Ei - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 25: Ampelschaltung Kreuzung Dorotheenstraße/Lindemannstraße/Grafenberger Allee - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 26: Zoopark Düsseldorf - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 27: Evaluation des Verkehrsversuchs am Höherweg/Ecke Albertstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 28: Bahnunterführung Wetterstraße - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 29: Stellplätze Carsharing - Antrag der FDP-Fraktion - mehrheitlich abgelehnt
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Aufstellung einer multifunktionalen Solarsitzbank am öffentlichen Bücherschrank - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN
+- TOP 40: Verschönerung der Stromverteilerkästen auf dem Dorotheenplatz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 41: Parkmöglichkeiten für Besucher in Anwohnerparkgebieten - Anfrage der CDU-Fraktion - beantwortet
+- TOP 42: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion
+- TOP 43: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 44: Baustelle Rethelstraße 73-77 - Anfrage der FDP-Fraktion
+- TOP 45: Verkehrssicherheit an der Kreuzung Metro-Straße/Walter-Eucken-Straße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN
+- TOP 46: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Erfahrungswerte Anwohnerparken - Anfrage der CDU-Fraktion - beantwortet
+- TOP -: Informationsvorlagen
+- TOP 50: Nördliche Düssel - Hochwasserschutz Altenbergstraße (W-0016000000) - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 51: Querungshilfe Graf-Recke-Straße - einstimmig beschlossen
+- TOP 52: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53: Hecke als Sichtschutz im öffentlichen Straßenbegleitgrün vor dem DRK-Seniorenzentrum Grafenberger Allee - Beschluss der Bezirkssvertretung 2, Vorlage BV2/016/2023 - zur Kenntnis genommen
+- TOP 54: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - vertagt
