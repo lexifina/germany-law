@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) (2023-06-06)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2023-B2-116%7Czt_6%7C2
