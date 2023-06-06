@@ -1,0 +1,69 @@
+# 18. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-06T15:32:00+02:00
+- Ende: 2023-06-06T17:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27492
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27492
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - endgültig zurückgezogen
+- TOP 4.2: Neubewertung des Projektes am Waidmarkt - Einstellung der Planungen für einen unterirdischen Kulturort (K3) und Perspektiven der weiteren städtebaulichen und kulturellen Entwicklung. - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Änderung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes mit dem Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 4.4: Umwandlung der Rechtsform des NRW KULTURsekretariats in einen Zweckverband - ungeändert beschlossen
+- TOP 4.5: Zwischennutzung Ebertplatz 2023 - Freigabe von Mitteln aus der Kulturförderabgabe und anderweitige Verwendung von Transfermitteln - ungeändert beschlossen
+- TOP 4.6: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Barcamp Good Practices - ungeändert beschlossen
+- TOP 4.7: Literaturnacht Köln – Flexibilisierung in der Verwendung der Förderung für die Literaturszene Köln e.V. - ungeändert beschlossen
+- TOP 4.8: Errichtung einer Interims-Ausstellung im Praetorium - ungeändert beschlossen
+- TOP 4.9: Mittelfreigabe für PopkulturKöln e.V. (Proberaumzentrum Delmenhorster Straße 20) - ungeändert beschlossen
+- TOP 4.10: Freigabe von Finanzmitteln aus der Verteilung der Kulturförderabgabe 2023/2024 Sparte Musik: Concerto Köln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung einer Skulpturengruppe Hl. Anna Selbdritt, Köln um 1500, aus rheinischem Privatbesitz an das Museum Schnütgen - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverbandes Rheinland für 2024 - Kenntnis genommen
+- TOP 8.2: Regelmäßige Unterrichtung des Ausschusses für Kunst und Kultur über die Führung der Denkmalliste der Stadt Köln, Zeitraum vom 01.01.2021 – 31.12.2022 - Kenntnis genommen
+- TOP 8.3: Sachstandsbericht 2022/23 der Kulturentwicklungsplanung - Kenntnis genommen
+- TOP 8.4: Erstellung Open Air Konzept - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 23. Mai 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 23. Mai 2023 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 20. April 2023 - Kenntnis genommen
+- TOP -: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 25. Mai 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt: Chancengleichheit in Kunst und Kultur - Kenntnis genommen
+- TOP 10.2: Beantwortung der schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, Volt: Versicherungskonstrukt bei Wertsteigerung von Kunstwerken und Gemälden - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 02.05.2023: Sachstandsbericht Sonderausstellungen Kölnisches Stadtmuseum - Kenntnis genommen
+- TOP 10.8: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 02.05.23 betreffend "Ruhender Verkehr von Wolf Vostell" - Kenntnis genommen
+- TOP 10.9: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen: Erhöhung Mindestlohn - Auswirkung im Kulturbereich - Kenntnis genommen
+- TOP 10.10: Beantwortung einer mündlichen Anfrage aus dem Ausschuss für Kunst und Kultur am 02.05.2023: Mittelverwendung städtischer Denkmäler - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Zentraldepot der Museen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: KulturPass-Strategie in Köln - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Reiterstandbild Kaiser Wilhelm - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der FDP-Fraktion: Besucherzahlen der Städtischen Museen - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage der FDP-Fraktion - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Kunst von Lutz Fritsch im Rheinauhafen
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen und der CDU-Fraktion: Kunstbeirat
+- TOP 12.3: Mündliche Anfrage der SPD-Fraktion: kostenfreier Eintritt in das Belgische Haus
+- TOP 12.4: Mündliche Anfrage der SPD-Fraktion: Besetzung der Leitung Kölnisches Stadtmuseum
+- TOP 12.5: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Runder Tisch Hallen Kalk
+- TOP 12.6: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Planungsgruppe Kulturbauten
