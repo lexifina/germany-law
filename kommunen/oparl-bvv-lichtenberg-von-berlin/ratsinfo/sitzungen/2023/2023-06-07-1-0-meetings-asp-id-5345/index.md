@@ -1,0 +1,52 @@
+# 3. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-06-07T19:00:00+02:00
+- Ende: 2023-06-07T21:55:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5345
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5345
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=366839
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls vom 03.05.2023 - erledigt
+- TOP 3: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 4: Jahresabschluss 2022 und Ergebnis Kosten-Leistungs-Rechnung - erledigt
+- TOP 5: Bericht des Bezirksamtes - erledigt
+- TOP 6: Vorstellung der Investitionsplanung (zusammen mit DS/0708/IX) - erledigt
+- TOP 6.1: Anmeldung zur Investitionsplanung 2023 – 2027 (ff) - vertagt
+- TOP 7: Überwiesene Drucksachen - (offen)
+- TOP 7.1: BiBo-Bike für Lichtenberg (ff) - vertagt
+- TOP 7.2: Diversity-Management Lichtenbergs ausweiten (ff) - vertagt
+- TOP 7.3: Digitale Sprachkurse schaffen - Volkshochschule unterstützen (ff) - vertagt
+- TOP 7.4: Pflege und Entwicklungsplan für das LSG Wartenberger und Falkenberger Feldflur (ff) - vertagt
+- TOP 7.5: Safe Spaces in Lichtenberg schaffen (ff) - vertagt
+- TOP 7.6: Mehr Öffentlichkeit für den Friedhof Falkenberg und Grabstätte von Marie Elisabeth von Humboldt (ff) - ohne Änderungen im Ausschuss beschlossen
+- TOP 7.7: Zugang zum Friedhof Falkenberg barrierefrei gestalten (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.8: Denkmale auf dem Städtischen Friedhof Gotlindestraße erhalten (ff) - vertagt
+- TOP 7.9: Personalbedarfe in Lichtenberger Sozialämtern besser feststellen - vertagt
+- TOP 7.10: Informationsstele zu Ehren August César Sandinos (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.11: Ausbau Seniorenbegegnungsstätten (Angebote am Wochenende erweitern) (ff) - vertagt
+- TOP 7.12: Stadtplanung und Milieuschutz personell stärken (ff) - vertagt
+- TOP 7.13: Längerer Erfahrungszeitraum für Gewaltpräventionsarbeit durch Maneo in Lichtenberg (ff) - vertagt
+- TOP 7.14: Bessere finanzielle Ausstattung für den Bereich "Aufsuchende Lichtenberger Sozialberatung" (ff) - vertagt
+- TOP 7.15: Modellprojekt Familienzentrum an Grundschule (ff) - vertagt
+- TOP 7.16: Schüler*innenHaushalte im Doppelhaushalt 2024/25 (ff) - vertagt
+- TOP 7.17: Kultursommer verstetigen (ff) - vertagt
+- TOP 7.18: Bürgerdienstleistungen verbessern (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.19: Mobiles Bürgeramt in Karlshorst: Auch drinnen warten muss möglich sein (ff) - vertagt
+- TOP 7.20: Bahnhofvorplatz Lichtenberg in der Investitionsplanung berücksichtigen (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.21: Schaffung einer Clearingstelle / Sozialberatungsstelle im Jobcenter Lichtenberg (ff) - vertagt
+- TOP 7.22: Digitalisierung voranbringen (allein beratend) - vertagt
+- TOP 7.23: Sanierungsfahrplan für Jugendfreizeiteinrichtungen in freier Trägerschaft in Mietobjekten auf landeseigenen Grundstücken (ff) - vertagt
+- TOP 7.24: Rekommunalisierung der Schulreinigung projektbasiert und strukturiert vorbereiten (ff) - vertagt
+- TOP 7.25: Klimafreundlich unterwegs - Elektrofahrzeuge für das Bezirksamt - vertagt
+- TOP 8: Anträge Sondermittel - (offen)
+- TOP 8.1: BVV-Sondermittel zur Förderung des Projekts Stadtlichter 2023 - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.2: BVV-Sondermittel für das Tanzfestival TRIPTYCH – was uns bewegt - am 5./6.10.2023 im Kulturhus Karlshorst - ohne Änderungen im Ausschuss beschlossen
+- TOP 9: Sonstiges - erledigt
