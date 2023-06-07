@@ -1,0 +1,58 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2023-06-07T17:00:00+02:00
+- Ende: 2023-06-07T20:00:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4949
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4949
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 01.03.2023 (öffentlicher Teil)
+- TOP 4: Namensänderung der städtischen Gemeinschaftsgrundschule Michaelsbergstraße - vertagt
+- TOP 5: Auslagerung der Kita Boxgraben in die Schule Kronenberg – Beschluss zur überplanmäßigen Mittelbereitstellung zwecks Herrichtung des Auslagerungsstandortes - ungeändert beschlossen
+- TOP 6: Satzung der Stadt Aachen über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) hier: 5. Änderungssatzung - ungeändert beschlossen
+- TOP 7: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) hier: 7. Änderungssatzung - ungeändert beschlossen
+- TOP 8: Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Förder- und Betreuungsangeboten in der Primarstufe der Schulen der Stadt Aachen (Offene Ganztagsschulen), hier: 8. Änderungssatzung - ungeändert beschlossen
+- TOP 9: Einrichtung von zwei halben Stellen für Erzieher*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 10: Resolution "A544: Jetzt Alternativen ermöglichen!" hier: Antrag der CDU-Fraktion vom 16.05.2023 - geändert beschlossen
+- TOP 11: Ratsantrag Nr. 186/18 der CDU-Fraktion im Rat der Stadt Aachen Task Force „Aggressives Betteln und provokantes Verhalten“ vom 25.08.2021 - ungeändert beschlossen
+- TOP 12: Beitritt der Stadt Aachen zum Europäischen Forum für urbane Sicherheit (EFUS) und dem Deutsch-Europäischem Forum für urbane Sicherheit e.V. (DEFUS) zum nächstmöglichen Zeitpunkt - ungeändert beschlossen
+- TOP 13: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2022 in das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 14: Försterstraße - Umgestaltung nach Regionetz MaßnahmeBereitstellung überplanmäßiger Mittel und Ausführungsbeschluss - ungeändert beschlossen
+- TOP 15: Gemeinsame Resolution der NRW-Aufgabenträger für eine nachhaltige Finanzierung des Nahverkehrs - ungeändert beschlossen
+- TOP 16: Änderung des vorhabenbezogenen Bebauungsplans Nr. 998 - Vaalser Straße / Neuenhofer Weg -hier- Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB- Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB- Empfehlung zum Satzungsbeschluss - ungeändert beschlossen
+- TOP 17: Gedenkprojekt „10 + 1 Bäume für die Opfer des NSU“ - ungeändert beschlossen
+- TOP 18: Verlegung von Stolpersteinen – Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 19.1: Umbesetzungsantrag der Fraktion DIE Zukunft vom 01.06.2023 - ungeändert beschlossen
+- TOP 19.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 02.06.2023 - ungeändert beschlossen
+- TOP 19.3: Umbesetzungsantrag der SPD-Fraktion vom 07.06.2023 - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 23: 26. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen Hier: notwendige Anpassung der Gebührensätze für die Jahre 2019 bis 2022 - ungeändert beschlossen
+- TOP 24: Klärung der Grundlage für den Eingriff in den Straßenraum der Rottstraße - Antrag zur Tagesordnung der CDU-Ratsfraktion - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
