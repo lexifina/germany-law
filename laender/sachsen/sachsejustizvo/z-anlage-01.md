@@ -42,3 +42,4 @@ Nummer | Gericht
 38. | Amtsgericht Döbeln
 39. | Amtsgericht Marienberg
 40. | Sächsisches Finanzgericht
+41. | Sozialgericht Leipzig
