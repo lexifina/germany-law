@@ -1,0 +1,121 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-06-12T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446773
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446773
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Verschmutzung in der Hans-Klein-Straße; Wertstoffcontainerstandort
+- TOP 2.2.: Wiederherstellung des Straßenbegleitgrüns nach Bauvorhaben im Bereich der Implerstraße 29 Umwandlung von Kfz-Stellplätzen zu einer Radabstellanlage im Bereich der Implerstraße 23
+- TOP 2.3.: Parkplatzrückgang in Sendling
+- TOP 2.4.: Bienen-Biotop in der Impler- und Valleystr.
+- TOP 2.5.: Anbringung eines Abfalleimers an den Bänken gegenüber dem Klenze-Gymnasium
+- TOP 2.6.: Bewerbung "Sendling blüht auf"; essbare Wildpflanzen
+- TOP 2.7.: Zustand des Fahrradwegs zwischen Daiserstraße bis Sendlinger Tor
+- TOP 2.8.: Sperrpfosten Max-Hirschberg-Weg
+- TOP 2.9.: Verkehrssicherheit Fuß-Radwegunterführung Margaretenstr; fehlender Zaun zu den Bahngleisen
+- TOP 2.10.: Umwandlung von Kfz-Stellplätzen in Fahrradparkplätze in der Thalkirchner Str. 103
+- TOP 2.11.: Unüberlegte Anordnung von Radständern im Umfeld von U-Bahnhaltestellen, am Südbad sowie an Apotheken
+- TOP 2.12.: Gefährdung des Zugverkehrs durch Gegenstände auf dem Gleis und Beschmutzung des Bodens, Wildpinkel und mit E-Roller herumfahren im Osten des Quartiersplatz Theresienhöhe
+- TOP 2.13.: Rabenangriff in den Neuhofener Anlagen
+- TOP 2.14.: Fahrradstellplätze in der Lindenschmitstraße
+- TOP 2.15.: Radweg-Unterbrechung mit Gefahrenpotential in der Plinganserstraße
+- TOP 2.16.: Schulweg zur Plinganserschule vom 7. Stadtbezirk
+- TOP 2.17.: Kein Platz für Gewalt gegen Frauen - Projektunterstützung
+- TOP 2.18.: Verschönerung des Herzog-Ernst-Platzes
+- TOP 2.19.: HP8 - Verkehrssituation
+- TOP 2.20.: Fahrradabstellplätze in der Oberländer Straße/ Ecke Gotzinger Straße
+- TOP 2.21.: Problemlage wegen Wertstoffinsel an der S-Bahn Mittersendling
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Alramstraße 29
+- TOP 4.2.2.: Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2023", geplant für den 04.07.2023, zur Stellungnahme
+- TOP 4.2.3.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen Anhörung der Bezirksausschüsse
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: Protokoll der Sitzung des Mieterbeirates vom 24.04.2023
+- TOP 4.3.3.: Öffentlichkeitsbeteiligung Bebauungsplan mit Grünordnung Nr. 2182 Am Isarkanal (westlich), Tierparkstraße (nördlich), Schäftlarnstraße (östlich) (Änderung des rechtsverbindlichen Bebauungsplans Nr. 756)
+- TOP 4.3.4.: Prüfung der Denkmaleigenschaften des Gebäudes an der Bruderhofstraße 43 und Schäftlarnstraße 92
+- TOP 4.3.5.: Abriss der Wohnanlage an der Fallstraße/ Zechstraße ablehnen Empfehlung Nr. 20-26 / E 00999 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022 Sitzungsvorlage Nr. 20-26 / V 08478
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Die Stadt München kauft das Mehrfamilienhaus Valleystraße 42! [SPD]
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Verkaufseinrichtung an der Valleystraße 28
+- TOP 5.1.2.: Flaucher Genehmigung des fliegendes Handels
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Umrüstung einer Werbeanlage in der Schäftlarnstraße
+- TOP 5.2.2.: Sommerfest KiGa Flaucherfüchse in den Isarauen am Flaucher (Wiese neben Spielplatz) am 08.07.2023 (Ersatztermin: 14.07.)
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Verkehrsplanerische Ausgestaltung der Hans-Preißinger-Straße im Bereich Gasteig HP8 - Zwischennachricht
+- TOP 5.3.2.: Verlängerung der Baustelleneinrichtung Hans-Klein-Str. / Johannes-Timm-Str. / Pfeuferstr.
+- TOP 5.3.3.: Umgestaltung der Leipartstraße - Zwischennachricht
+- TOP 5.3.4.: Meldeliste SWM-Baumaßnahmen
+- TOP 5.3.5.: Neuer Wertstoffcontainerstandort Lipowskystr.
+- TOP 5.3.6.: Ausnahmegenehmigung für eine Veranstaltung auf den Neuhofener Anlagen
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Wackersberger Straße; Grünstreifen Instand setzen und befestigen Wackersberger-/Esswurmstraße; Eingrenzung einer Parkbucht entsiegeln und Bepflanzung wiederherstellen
+- TOP 5.4.2.: Erneuerung der Sitzgelegenheiten auf dem Herzog-Ernst-Platz
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget VCP Sendling–Stamm im Verband Christlicher Pfadfinderinnen und Pfadfinder Bayern Eine Jurte für den VCP Sendling 500,00 € / AZ: 0262.0-6-0428
+- TOP 6.1.2.: (E) Stadtbezirksbudget Inititaive „Embassy of Arcadia“ “Embassy of Arcadia vom 13.07.2023 – 22.09.2023“ 4.499,40 € / AZ: 0262.0-6-0429
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Parklet“ “Parklet Thalkirchner Ecke Kochelseestraße vom 29.04.2023 – 31.10.2023“ 895,00 € / AZ: 0262.0-6-0430
+- TOP 6.1.4.: (E) Stadtbezirksbudget Kunst in Sendling e.V. “Sommerausstellung Stemmerhof, Kunst in Sendling am 25.06.2023“ 978,00 € / AZ: 0262.0-6-0433
+- TOP 6.1.5.: (E) Stadtbezirksbudget Isarlust e.V. Kulturprogramm auf der Braunauer Eisenbahnbrücke „Die grüne Brücke“ vom 01.05. bis 31.12.2023 10.000,00 Euro; Az. 0262.0-6-0417
+- TOP 6.1.6.: Lass uns mal ran! Kinder-Aktions-Koffer
+- TOP 6.1.7.: (E) Stadtbezirksbudget Initiative „city bodies“ “city_bodies/beweg_die_stadt vom 01.09.2023 – 31.10.2023 2.625,00 € / AZ: 0262.0-6-0432
+- TOP 6.1.8.: (E) Stadtbezirksbudget H-Team e.V. “Multimedia-System für kostenlose Informationsveranstaltungen für Sendlinger Bürger“ 3.633,99 € / AZ: 0262.0-6-0431
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Schul- und Kitabauoffensive – Sachstandsbericht 2023
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Medizinkonzept der München Klinik
+- TOP 7.3.2.: Öffnen der Sportanlage Gaißacher Straße
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Instandsetzung des Trampolins am Implerplatz und Aufwertung des Pavillons
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Schlägerei in Sendling/ Gewaltbereite Fußballfans
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Entscheidung über die Einrichtung einer Sommerstraße gemäß Sitzungsvorlagen Nr. 20-26 / V 00438 und Nr. 20-26 / V 05706 in der Schöttlstraße zwischen Leipartstraße und Fallstraße – temporäre Einrichtung eines verkehrsberuhigten Bereichs vom 27.06.2023 bis 31.08.2023
+- TOP 8.1.2.: Schanigarten in der Gotzinger Straße 48
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Gaststätte Adler, Ganghoferstraße 86b
+- TOP 8.3.2.: Unveränderte Fortführung Cafe Violet II; Thalkirchner Str. 131
+- TOP 8.3.3.: Unveränderte Fortführung Cafe Violet I; Thalkirchner Str. 131
+- TOP 8.3.4.: Unveränderte Fortführung Gaststätte Brückenstüberl; Ganghoferstraße 74
+- TOP 8.3.5.: Auswahl Sommerstraßen 2023
+- TOP 8.3.6.: RosaParkt - Der neue mobile Treff für Mädchen* und junge Frauen* in Sendling
+- TOP 8.3.7.: Städtische Grünanlage am Bahndeckel als Haltepunkt des Mobilen Mädchen*treffs
+- TOP 8.3.8.: Änderung des Genehmigungsverfahrens für Schanigärten
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Oktoberfest 2023: Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Hinweise zur Erstellung von Beschlussvorlagen für die Bezirksausschüsse/ Zuleitung von Antwortschreiben an die BA-Geschäftsstellen Information an die Fachreferate
+- TOP 9.3.2.: Einhaltung der Anhörungsfristen Information an die Fachreferate
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
