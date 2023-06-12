@@ -1,0 +1,7 @@
+# TOP 7: Mitteilungen der Verwaltung
+
+- Sitzung: 17. öffentliche Sitzung des Ausschusses für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit (2023-06-12)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=45349
+- Ergebnis: erledigt
