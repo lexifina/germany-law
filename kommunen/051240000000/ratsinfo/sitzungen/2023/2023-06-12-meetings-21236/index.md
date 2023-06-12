@@ -1,0 +1,101 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-06-12T16:03:00+02:00
+- Ende: 2023-06-12T16:24:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21236
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21236
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00314236.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00315038.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Wahl eines Beigeordneten (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Wohnbau- bzw. Gewerbepotenzialflächen
+- TOP 2.1.1: Wohnbau- bzw. Gewerbepotenzialflächen - Antwort auf die Große Anfrage der Stadtverordneten Rajaa Rafrafi
+- TOP 2.2: Hol mich! App
+- TOP 2.2.1: Hol mich! App
+- TOP 2.3: Seveso III Richtlinie
+- TOP 2.3.1: Seveso-III-Richtlinie
+- TOP 2.4: Wärmewende
+- TOP 2.4.1: Antwort auf Große Anfrage der Fraktion DIE LINKE zur Wärmewende
+- TOP 2.5: Umsetzung der Denkmalbereichssatzung
+- TOP 2.5.1: Umsetzung der Denkmalbereichssatzung
+- TOP 2.6: Baumschutzsatzung der Stadt Wuppertal – Beschlussfassungen der Bezirksvertretungen
+- TOP 2.6.1: Baumschutzsatzung der Stadt Wuppertal – Beschlussfassungen der Bezirksvertretungen Große Anfrage der SPD-Fraktion vom 31.05.2023
+- TOP 2.7: Auskömmliche Bezahlung von Honorarkräften in der Bergischen Musikschule
+- TOP 2.7.1: Auskömmliche Bezahlung von Honorarkräften in der Bergischen Musikschule - Antwort
+- TOP 2.8: Ladeinfrastrukturkonzept für E-Mobilität
+- TOP 2.8.1: Ladeinfrastrukturkonzept für E-Mobilität
+- TOP 2.9: Wärmeplan für Wuppertal
+- TOP 2.10: Bearbeitungsdauer Antrag auf Akteneinsicht, Umsetzung von Ratsbeschlüssen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Ausweichquartier RS Leimbach - ungeändert beschlossen
+- TOP 3.2: Anregung gemäß § 24 GO NRW - Parktickets für Sitzungen - vertagen
+- TOP 4: Anträge
+- TOP 4.1: Mehr Grün in Bebauungsplänen - abgelehnt
+- TOP 4.2: Überprüfung und Aktualisierung der Straßenhierarchie in Wuppertal - abgelehnt
+- TOP 4.3: Tag des Blaulichts an Wuppertaler Schulen - ungeändert beschlossen
+- TOP 4.4: Flächenpotentiale entwickeln - ungeändert beschlossen
+- TOP 4.5: Innenstadtentwicklung Elberfeld - ungeändert beschlossen
+- TOP 4.6: Resolution zur „Münsteraner Erklärung“ des Städte- und Gemeindebundes NRW - ungeändert beschlossen
+- TOP 4.6.1: Ersetzungsantrag zu VO/0569/23, Resolution zu „Münsteraner Erklärung, Aufnahme neuankommender Personen in den Städten und Gemeinden von Nordrhein-Westfalen vom 11. Mai 2023“ - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.7: Resolution - Folgefinanzierung für IT-Betreuung an Schulen sicherstellen - ungeändert beschlossen
+- TOP 4.8: Städtische Kofinanzierung des Lern- und Gedenkorts Kemna - ungeändert beschlossen
+- TOP 4.9: Gemeinsame Resolution: Belastungsausgleich aus repräsentativen Daten ermitteln - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution Aufhebung des Planfeststellungsverfahrens zum Ausbau der L419 - abgelehnt
+- TOP 5.1.1: Stopp des Ausbaus der L 419 im momentan vorgesehenen Planfeststellungsverfahren - abgelehnt
+- TOP 5.1.2: Anregungen gemäß § 24 GO NRW - Aufhebung des Ratsbeschlusses zum Ausbau der L419 (nur Hauptausschuss) - abgelehnt
+- TOP 5.2: Prüfauftrag Zukünftige öffentliche Nutzung der Zoo-Säle - abgelehnt
+- TOP 5.2.1: Prüfung des Verkaufs der ehemaligen Zoofestsäle - abgelehnt
+- TOP 5.2.2: Antrag zur Tagesordnung der Fraktionen von SPD, CDU und FDP vom 18.04.2023 zu den Anträgen VO/0015/23 „Prüfung des Verkaufs der ehemaligen Zoofestsäle“ (Freie Wähler/WfW) und VO/0005/23 „Prüfauftrag Zukünftige öffentliche Nutzung" (DIE LINKE) - abgelehnt
+- TOP 5.2.3: Ehemalige Zoofestsäle: Nutzung per Erbbaurecht prüfen - ungeändert beschlossen
+- TOP 5.3: Resolution Tempo 30 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.3.1: Resolution Tempo 30 - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Erste Satzung zur Änderung der Satzung des Seniorenbeirates - ungeändert beschlossen
+- TOP 6.2: Denkmalbereichssatzung für den historischen Ortskern von Wuppertal-Cronenberg - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2021 - ungeändert beschlossen
+- TOP 7.2: Feststellung des Jahresabschlusses 2021 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2022 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Betriebsleitung ESW Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau eines Gerätehauses für die Freiwillige Feuerwehr Cronenberg - Grundsatzbeschluss - ungeändert beschlossen
+- TOP 10.2: Neubau einer Gemeinsamen integrierten Leitstelle der Städte Solingen und Wuppertal - Grundsatzbeschluss - ungeändert beschlossen
+- TOP 10.3: 7. Gesamtschule – Beschluss zum weiteren Verfahren - ungeändert beschlossen
+- TOP 10.4: Beschluss für Teilleistungen der Gesamtsanierung des Ganztagsgymnasiums Johannes Rau - ungeändert beschlossen
+- TOP 10.5: Grundschule Peterstraße und Förderschule Bartholomäusstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gutachten für eine Grundschulentwicklungsplanung der Stadt Wuppertal - geändert beschlossen
+- TOP 11.2: Nachhaltigkeitsstrategie für Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.2.1: Nachhaltigkeitsstrategie für Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.3: Zuschüsse zur Förderung der Jugendverbandsarbeit 2023
+- TOP 11.4: Stadtentwässerung - Maßnahmenkatalog 2024/Katalogentwurf 2025 - ungeändert beschlossen
+- TOP 11.5: Verlängerung des Teilstandortes für das Städtische Gymnasium Bayreuther Straße im Schulgebäude Hufschmiedstraße 5 - ungeändert beschlossen
+- TOP 11.6: Quartalsbericht I/2023 zum Handlungsprogramm Gewerbeflächen - ungeändert beschlossen
+- TOP 11.7: Richtlinien über die Förderung in Kindertagespflege und über die Festsetzung der Höhe der Geldleistung für Kindertagespflegepersonen nach § 23 SGB VIII - ungeändert beschlossen
+- TOP 11.8: Verlängerung der Mietverträge der Unterkünfte für Geflüchtete in der Gräfrather Str. 124 sowie am Heidter Berg 30a zum Erhalt von Kapazitäten zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 11.9: Weiterführung der Kriterien zur Bewilligung von Landesmitteln zur Flexibilisierung der Betreuungszeiten gemäß § 48 KiBiz - ungeändert beschlossen
+- TOP 11.10: Diversity Konzept 2023-2026 für die Stadtverwaltung Wuppertal - ungeändert beschlossen
+- TOP 11.11: Einführung des Deutschlandtickets als Schülerticket für das Schuljahr 2023/24 - ungeändert beschlossen
+- TOP 11.12: Betriebskostenzuschüsse 2023 an die Träger der offenen Kinder- und Jugendarbeit
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Berufung eines beratenden Mitgliedes in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Abberufung und Bestellung eines Mítglieds im Aufsichtsrat der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 12.3: Gremienumbesetzung Ausschuss für Wirtschaft, Arbeit und Nachhaltigkeit - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung Ausschuss für Kultur - ungeändert beschlossen
+- TOP 12.5: Bestellung des Vertreters der Stadt Wuppertal in der Verbandsversammlung des Verkehrsverbundes Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 12.6: Gremienumbesetzung Jugendhilfeausschuss
+- TOP 12.7: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.8: Aufstellung der Vorschlagsliste zur Wahl der Schöffinnen und Schöffen des Landgerichtsbezirks Wuppertal für die Wahlzeit 01.01.2024 - 31.12.2028 - ungeändert beschlossen
