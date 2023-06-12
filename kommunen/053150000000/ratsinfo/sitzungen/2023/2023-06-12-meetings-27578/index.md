@@ -1,0 +1,77 @@
+# 23. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-12T17:00:00+02:00
+- Ende: 2023-06-12T20:05:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Nebeneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27578
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27578
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße - zurückgestellt
+- TOP -: Austausch mit Herrn Beigeordneten Markus Greitemann (ab ca. 17:30 Uhr)
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Stand der Planungen Baumaßnahme Rochusplatz - Sache ist erledigt
+- TOP 6.4.1: Beantwortung einer Anfrage betr.: Stand der Planungen Baumaßnahme Rochusplatz - Kenntnis genommen
+- TOP 6.5: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Vogelsangerstraße zwischen Ehrenfeldgürtel und Oskar-Jäger-Straße - zurückgestellt
+- TOP 6.6: Anfrage der CDU-Fraktion, betr.: Anmeldungen in den Schulen im Bezirk Ehrenfeld - zurückgestellt
+- TOP 6.7: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion, betr.: Sachstand „Neugestaltung der Bezirkssportanlage Everhardstraße“ - zurückgestellt
+- TOP 6.8: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.9: Anfrage der CDU-Fraktion, betr.: Realschule Gravenreuthstraße 10 in 50823 Köln - Sache ist erledigt
+- TOP 6.9.1: Beantwortung einer Anfrage der CDU-Fraktion zur Bezirksvertretung Ehrenfeld (AN/0810/2023) betreffend Geschwister-Scholl-Realschule Gravenreuthstraße 10, 50823 Köln - Kenntnis genommen
+- TOP 6.10: Anfrage der CDU-Fraktion, betr.: Baustelle Ecke Venloer Straße und Wilhelm Mauser Straße - Sache ist erledigt
+- TOP 6.11: Anfrage der CDU-Fraktion, betr.: 2. Anfrage Kurdisches Islamisches Zentrum unter der Adresse Vogelsanger Str. 348 d,
+- TOP -: Die Beantwortung erfolgt im nichtöffentlichen Teil unter TOP 20.1
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Anfrage der CDU-Fraktion, betr.: Erstellung der Straße „Teichrohrsängerweg “ in Köln Vogelsang - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr: Konzeptvergabe Alpenerstraße 4-6/Artilleriewagenhalle - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Linienführung Bus 142 - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Anpassung der Bebauungsplanes "Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld" - geändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Einrichten einer Feuerwerkverbotszone im Görlinger Zentrum in Bocklemünd - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Antrag von Elke Schroeder (KLIMA FREUNDE), betr.: Einrichtung Bewohnerparken im Bezirk Ehrenfeld - zurückgestellt
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Einrichten einer Alkohol - und Drogenverbotszone im Görlinger Zentrum in - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.6: Antrag der CDU-Fraktion, betr.: Einrichten eines Fußgänger:innenüberweges im Görlinger Zentrum in Köln Bocklemünd - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Zweite Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2023 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Zügigkeitserweiterung der Gemeinschaftsgrundschule Nußbaumerstraße, Nußbaumerstraße 254-256, 50825 Köln-Neuehrenfeld, Schulnr. 112471, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.2: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - zurückgestellt
+- TOP 10.3: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - ungeändert beschlossen
+- TOP 10.4: Schulrechtliche Errichtung einer Gesamtschule im „Snake“-Gebäude, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.5: Schulrechtliche Errichtung der Gesamtschule Fitzmauricestraße in Ossendorf mit Start im Interimsgebäude „Snake“, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.6: Änderung des Bebauungsplanes Nummer 63459/04 mit dem Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.6 - Sache ist erledigt
+- TOP 10.7: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Thyssen - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.7 - geändert beschlossen
+- TOP 10.8: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel Campus M - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - zurückgestellt
+- TOP 10.9: Beschluss über die Einleitung eines Teilaufhebungsverfahrens des Bebauungsplanes Nr. 60499/03 Arbeitstitel: Schulbau Görlinger Zentrum in Köln-Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion zu TOP 10.9 - endgültig zurückgezogen
+- TOP 10.10: Änderung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes mit dem Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.10 - Sache ist erledigt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 12.2: Flächenbericht 2022 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2022 - Kenntnis genommen
+- TOP 12.3: Sachstandsmitteilung zu den von der Bezirksvertretung Ehrenfeld priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 12.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2023“– Sundaach aktiv, Start Sommerprogramm und Lauftreff - Kenntnis genommen
+- TOP 12.5: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 12.6: Geschwindigkeitsüberwachung auf der Butzweilerhofallee - Kenntnis genommen
+- TOP 12.7: Masterplan Stadtgrün - Start der Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 13: mündliche Anfragen
