@@ -1,0 +1,91 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-12T14:30:00+02:00
+- Ende: 2023-06-12T15:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27414
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27414
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Gesamtstädtisches Fördermittelmonitoring für akquirierte Fördermittel in 2022 - Kenntnis genommen
+- TOP 2.3: Sachstand zur "Informationskampagne Wohngeld" - Kenntnis genommen
+- TOP 2.4: "Guter Lebensabend NRW" - Veröffentlichung des im Rahmen der Projektlaufzeit vom 01.04.2021-31.12.2022 erarbeiteten Handlungskonzeptes - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.04.2023 - Kenntnis genommen
+- TOP 2.6: Einführung eines Sachkundenachweises für die Vertreter in kommunalen Unternehmen gemäß § 113 Absatz 6 GO NRW - Kenntnis genommen
+- TOP 2.7: Auswirkungen der Steuerschätzung aus Mai 2023 - Kenntnis genommen
+- TOP 2.8: Urteil des Bundesverwaltungsgerichts zum Thema „kommunale Verpackungssteuer“ - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Städtische Beteiligungsgesellschaften als Akteure städtischen Klimaschutzes - zurückgestellt
+- TOP 4.1.1: Beantwortung einer Anfrage der Fraktion Die Linke betreffend städtische Beteiligungsgesellschaften als Akteure städtischen Klimaschutzes (AN/0894/2023) - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2020/21 gemäß § 83 Abs. 1 u. § 85 Abs. 1 GO NRW in Verbindung mit der Haushaltssatzung 2020 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. 24, 50765 Köln-Blumenberg - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss zur Generalsanierung der Tennisanlage BSA Bocklemünd - ungeändert beschlossen
+- TOP 7.2: Mittelfreigabe für PopkulturKöln e.V. (Proberaumzentrum Delmenhorster Straße 20) - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilpan 1715 - Guilleaume-Stiftung St. Antoniusheim hier: Sanierung Kita Kalkarer Straße - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Kliniken der Stadt Köln gGmbH: Zukunftsmodell - ohne Votum in nachfolgende Gremien
+- TOP 10.1.1: Änderungsantrag zu TOP „Kliniken der Stadt Köln gGmbH: Zukunftsmodell“ - ohne Votum in nachfolgende Gremien
+- TOP 10.1.2: Beantwortung einer mündlichen Anfrage von RM Bernd Petelkau aus der Sitzung des Finanzausschusses vom 15.05.2023 betreffend die Kliniken der Stadt Köln gGmbH: Zukunftsmodell (0551/2023) - Kenntnis genommen
+- TOP 10.2: Satzung zum Schutz des Baumbestandes innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs der Bebauungspläne im Gebiet der Stadt Köln (Baumschutzsatzung) vom 01. August 2011, hier: Neufassung der Satzung - geändert beschlossen
+- TOP 10.3: Erweiterter Planungsbeschluss für den Ersatzneubau der Brücke Am Tannenhof, Stadtbahnhaltestelle Michaelshoven in Köln-Rodenkirchen - geändert beschlossen
+- TOP 10.4: Zügigkeitserweiterung der Gemeinschaftsgrundschule Konrad-Adenauer-Schule, Martinusstraße 28, 50765 Köln-Esch/Auweiler, Schulnr. 114108, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.5: Zügigkeitserweiterung der Gemeinschaftsgrundschule Nußbaumerstraße, Nußbaumerstraße 254-256, 50825 Köln-Neuehrenfeld, Schulnr. 112471, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.6: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Nippes mit Start im Interimsgebäude Toni-Steingass-Park, 50733 Köln-Niehl zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.7: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Rodenkirchen mit Start im Interimsgebäude Sürther Straße 191 / Eygelshovener Straße, 50996 Köln-Rodenkirchen gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2024/25. - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Schulrechtliche Errichtung einer Gesamtschule im Interimsgebäude Bürgerpark Nord, Escher Straße 279, 50739 Köln-Bilderstöckchen zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.9: Schulrechtliche Errichtung einer Gesamtschule im „Snake“-Gebäude, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.10: Schulrechtliche Errichtung der Gesamtschule Fitzmauricestraße in Ossendorf mit Start im Interimsgebäude „Snake“, Am Wassermann 40, 50829 Köln-Vogelsang zum Schuljahr 2024/25 gemäß § 81 Abs. 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.11: Zügigkeitserweiterung der Gemeinschaftsgrundschule Annastraße 63, 50968 Köln-Raderberg, Schulnummer 112100, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.12: Zügigkeitserweiterung der Katholischen Grundschule Osterather Straße, Osterather Straße 13, 50739 Köln-Bilderstöckchen, Schulnr. 111740, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.13: Zügigkeitserweiterung der Gemeinschaftsgrundschule Soldiner Straße, Soldiner Straße 68, 50767 Köln-Lindweiler, Schulnr. 185425, zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 10.14: Zügigkeitserweiterung der Gemeinschaftsgrundschule Geilenkircher Straße, Geilenkircher Straße 52, 50933 Köln-Braunsfeld, Schulnr. 112422, zum Schuljahr 2024/25 - ohne Votum in nachfolgende Gremien
+- TOP 10.15: Einrichtung des Neubaus mit einer Dreifach- und einer Einfachturnhalle - ungeändert beschlossen
+- TOP 10.16: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - ungeändert beschlossen
+- TOP 10.17: Projektauswahlgremium "un:box cologne" - ungeändert beschlossen
+- TOP 10.18: Verlängerung des Förderprogramms "GRÜN hoch 3 Dächer | Fassaden | Höfe" und Erhöhung des Fördervolumens - geändert beschlossen
+- TOP 10.19: Bestandsaufnahme und Strategie zur Integrierten Klimafolgenanpassung - ohne Votum in nachfolgende Gremien
+- TOP 10.20: Bedarfsfeststellungsbeschluss über die Erarbeitung einer Klimaneutralitätsstrategie für den Bauhof des Amtes für Verkehrsmanagement - ungeändert beschlossen
+- TOP 10.21: Vergabe Stadtklima- und Stadtverschönerungsmittel 2023 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 10.22: Stadtklima-Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 10.23: Neubewertung des Projektes am Waidmarkt - Einstellung der Planungen für einen unterirdischen Kulturort (K3) und Perspektiven der weiteren städtebaulichen und kulturellen Entwicklung. - ohne Votum in nachfolgende Gremien
+- TOP 10.24: Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - ungeändert beschlossen
+- TOP 10.24.1: Präventionsatlas als Status-quo Analyse: Begleitende Mitteilung zur Vorlage 0514/2023 Masterplan Kommunale Sicherheit: Sachstand, weiteres Vorgehen und Bedarfsfeststellung - Kenntnis genommen
+- TOP 10.25: Umwandlung der Rechtsform des NRW KULTURsekretariats in einen Zweckverband - ungeändert beschlossen
+- TOP 10.26: Integrationsbudget 2023 - Mittelverteilung zur Realisierung einer mehrsprachigen Veranstaltungsreihe zu Gesundheitsthemen für Senior*innen mit internationaler Familiengeschichte durch die Interkulturellen Zentren der Stadt Köln - ungeändert beschlossen
+- TOP 10.27: Verlängerung (und Reduzierung) des Personals für die medizinische Versorgung der Geflüchteten aus der Ukraine - ungeändert beschlossen
+- TOP 10.28: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2023/24 - ohne Votum in nachfolgende Gremien
+- TOP 10.29: Grundsatzbeschluss für den Neustart der Bühnen Köln am Offenbachplatz ab der Spielzeit 2024/25 - ohne Votum in nachfolgende Gremien
+- TOP 10.30: Grundsatzbeschluss Umsetzungsmodell Kreuzfeld / Vorzugsvariante - ohne Votum in nachfolgende Gremien
+- TOP 10.31: Feststellung des Jahresabschlusses zum 31.08.2021 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.32: Aufwertung Neumarkt - Arbeitspaket 1 „Mobilität“ - ohne Votum in nachfolgende Gremien
+- TOP 10.33: Institutionelle Förderung des Vereins EIT Culture & Creativity e. V. für die Haushaltsjahre 2023-2030 - ungeändert beschlossen
+- TOP 10.34: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln), Jahresabschluss 2022 - ungeändert beschlossen
+- TOP 10.35: Umsetzung von Maßnahmen aus der Kulturentwicklungsplanung: Barcamp Good Practices - ungeändert beschlossen
+- TOP 10.36: Literaturnacht Köln – Flexibilisierung in der Verwendung der Förderung für die Literaturszene Köln e.V. - ungeändert beschlossen
+- TOP 10.37: Errichtung einer Interims-Ausstellung im Praetorium - ungeändert beschlossen
+- TOP 10.38: Wirtschaftsplan 2023 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.39: Streetwork für die Umgebung Neumarkt/ Drogenkonsumraum - ohne Votum in nachfolgende Gremien
+- TOP 10.40: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2022 - ungeändert beschlossen
+- TOP 10.41: Zuschuss zum Deutschlandticket als JobTicket - ungeändert beschlossen
+- TOP 10.42: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2021 - zurückgestellt
+- TOP 10.43: Errichtung eines Erweiterungsbaus in modularer Bauweise mit Naturwissenschaftsräumen und Rückbau der Naturwissenschaftsräume im Bestand für das Heinrich-Mann-Gymnasium, Fühlinger Weg 4, 50765 Köln-Volkhoven - Baubeschluss - ungeändert beschlossen
+- TOP 10.44: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.45: SBK Sozial-Betriebe Köln gemeinnützige GmbH: Erneute Betrauung - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
