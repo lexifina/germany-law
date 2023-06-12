@@ -1,0 +1,10 @@
+# TOP 20.1: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 18. Änderung - Satzungsbeschluss
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (126. Sitzung) (2023-06-12)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65327
+- Ergebnis: Einstimmig
+- Beratung: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/40601
+- Beschluss (Datei): Beschlusstext (Bebauungsplan Nr. 17 A "Industriegebiet Süd", 18. Änderung
+- Satzungsbeschluss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS9aUJN57BY6pqoB1Y5UaCxx5VjO6tMbaZ-m9HyIYHca/Beschlusstext_69-2023_-oeffentlich-_Haupt--_Finanz-_und_Steuerungsausschuss_12.06.2023.pdf
