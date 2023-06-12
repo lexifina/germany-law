@@ -1,0 +1,58 @@
+# Haupt-, Finanz- und Steuerungsausschuss (126. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-06-12T18:00:00+02:00
+- Ende: 2023-06-12T20:45:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYlXKAFKTdhpe6ChfUKgeUA
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17804
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-_g_sCv1Nd_5ETnrnNi4QLEeeunv2GOmYklgMwXFXN/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_12.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZecIKfuZpDvX_UbSH6SBRqNBAyRhuyeqvsIWKC9rVSb3/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_12.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 23.03.2023
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Managementbericht zum 30.04.2023 - Einstimmig
+- TOP 4.: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 5.: Betriebsabrechnung Straßenreinigung und Winterdienst 2022 - Zur Kenntnis genommen
+- TOP 6.: Betriebsabrechnung Abfallwirtschaft 2022 - Zur Kenntnis genommen
+- TOP 7.: Tarifabschluss TVöD und Auswirkungen für die Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 8.: Beitritt zur regio iT Beteiligungsgenossenschaft - Einstimmig
+- TOP 9.: Zuschuss zur Beschaffung eines Notstromaggregates durch den MHD für das Gebäude Amtmann-Schipper Str. 99 in Emsdetten - Ohne Abstimmung
+- TOP 10.: Zielbildungsverfahren in politischen Ausschüssen
+- TOP 10.1: Zukunftsprozess Emsdetten_2038: Beschluss über strategische Ausrichtung - Einstimmig
+- TOP 11.: Fortschreibung des Handlungskonzeptes Wohnen für Emsdetten und Umgang mit der Einordnung Emsdettens als „Kommune mit einem angespannten Wohnungsmarkt“ - 4 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Klimaneutraler Konzern Stadt Emsdetten 2038 - Einstimmig
+- TOP 13.: Erweiterung und Sanierung der EMS-HALLE: Entwurfsplanung 2. BA mit Bauablaufplanung - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Erweiterung der Feuer- und Rettungswache - Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 15.: Hof Deitmar III – Anpassung Entwurfsplanung (Änderung Übergangsbereich EMS-HALLE) - Einstimmig
+- TOP 16.: Modernisierung der Straßenbeleuchtung - weiteres Vorgehen - 12 Ja-Stimme(n), 0 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 17.: Verkehrsangelegenheiten
+- TOP 17.1: Einführung von Tempo 30 auf dem Brookweg - Einstimmig
+- TOP 18.: Regionalplanung
+- TOP 18.1: Änderung des Regionalplans Münsterland Anpassung an den Landesentwicklungsplan Nordrhein-Westfalen (LEP NRW) und den Bundesraumordnungsplan für den Hochwasserschutz (BRPH) - Vorbereitung der Stellungnahme der Stadt Emsdetten zum Regionalplanentwurf - Einstimmig
+- TOP 19.: Freiflächen Stroetmanns Gelände - Festlegung des Planungsgebietes - Einstimmig
+- TOP 20.: Bebauungsplan
+- TOP 20.1: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 18. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 20.2: Bebauungsplan Nr. 82 "Hembergen-Hilgenbrink", 2. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 20.3: Bebauungsplan Nr. 8 H "Schulstraße", 5. Änderung und 1. Ergänzung - Satzungsbeschluss - Einstimmig
+- TOP 21.: Allgemeine Stadtentwicklungsplanung
+- TOP 21.1: I. Maßnahmenprogramm 2024 bis 2027 zum Integrierten Mobilitätskonzept - Einstimmig
+- TOP 22.: Verleihung des Heimatpreises der Stadt Emsdetten für 2023 und die Folgejahre - Einstimmig
+- TOP 23.: Aktualisierung der Benutzungs- und Gebührenordnung der Stadtbibliothek Emsdetten - Einstimmig
+- TOP 24.: Sportangelegenheiten
+- TOP 24.1: Sporthallenkonzeption für die Stadt Emsdetten - Einstimmig
+- TOP 24.2: Aktualisierung der Richtlinien zur Förderung des Sports in der Stadt Emsdetten - Einstimmig
+- TOP 24.3: Antrag der RC Car Freunde Emsdetten e.V. vom 28.02.2023 - Einstimmig
+- TOP 25.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 25.1: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) inkl. Änderung der Anlage 1 „Beitragstabelle“ zum 01.08.2024 - Abgesetzt
+- TOP 25.2: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) inkl. Änderung der Anlage 1 „Beitragstabelle“ zum 01.08.2024 - Ohne Abstimmung
+- TOP 25.3: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztags-schule (Elternbeitragssatzung) Hier: Änderung der Anlage 2 Richtlinien zur Förderung der Kindertagespflege zum 01.08.2023 - Einstimmig
+- TOP 25.4: Alltagshelferprogramm für Emsdettener Kindertageseinrichtungen - Einstimmig
+- TOP 25.5: Kindertageseinrichtung Kinderland am Baubetriebshof - Einstimmig
+- TOP 26.: Verschiedenes
