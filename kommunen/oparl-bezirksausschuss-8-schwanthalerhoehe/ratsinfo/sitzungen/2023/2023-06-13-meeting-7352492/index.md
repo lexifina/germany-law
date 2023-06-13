@@ -1,0 +1,96 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352492
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352492
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Veranstaltungen im Stadtbezirk; Bladenight
+- TOP 4.2.: Attacke von Rabenvögeln nahe Bavariapark
+- TOP 4.3.: - NACHTRAG - Schaffung von Stellplätzen für Lastenräder im Bereich Parkstraße 4 durch Umwandlung eines Kfz-Parkplatzes
+- TOP 4.4.: - NACHTRAG - Neuer Rasen für die Sportplatzfläche Kazmairwiese
+- TOP 4.5.: - NACHTRAG - Fahrradstellplätze Schießstättstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: - NACHTRAG - Freischankfläche Bergmannstraße 50
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Schanigärten; keine Baugenehmigungspflicht auch über 40m²
+- TOP 6.3.4.: - NACHTRAG - Vorstellung neue Teamleitung Referat für Stadtplanung und Bauordnung - Stadtplanung Mitte
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Schul- und Kitabauoffensive; Sachstandsbericht 2023
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Mobiler Mädchentreff für den Bahndeckel
+- TOP 7.3.2.: Vorstellung "Über den Tellerrand kochen München e.V."
+- TOP 7.3.3.: Sachstand beim Schulbauprojekt auf dem MK2-Gelände
+- TOP 7.3.4.: - NACHTRAG - Entwendete Bänke im Bereich der Bergmannstraße 29
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Gottesdienst am Schneckenplatz am 23.07.2023
+- TOP 8.2.2.: Spielaktion von CultureClouds in der Schnaderböckstraße von 26.07.2023 - 28.07.2023
+- TOP 8.2.3.: 12tes Gollierstraßenfest am 12.08.2023
+- TOP 8.2.4.: Inklusive Familienbörse 2023 auf der Fläche Am Bavariapark und in der Alten Kongresshalle am 23.06.2023
+- TOP 8.2.5.: Veranstaltung "Universe on Tour" auf der Fläche Am Bavariapark vom 05.07.2023 bis 09.07.2023
+- TOP 8.2.6.: Abschlussveranstaltung Ernährungswerkstatt am Georg-Freundorfer-Platz am 25.07.2023
+- TOP 8.2.7.: Sidewalk Cultures Festival auf dem Georg-Freundorfer-Platz vom 28.07.2023 bis 30.07.2023
+- TOP 8.2.8.: Sommerfest Ligsalzstraße am 22.07.2023
+- TOP 8.2.9.: Straßenfest "West and Hell", Westendstraße 15 - 21 am 22.07.2023
+- TOP 8.2.10.: - NACHTRAG - Veranstaltung 25 Jahre buntkicktgut auf der Fläche Am Bavariapark und in der Alten Kongresshalle am 01.07. und 02.07.2023
+- TOP 8.2.11.: - NACHTRAG - Eröffnung Mobilitätspunkte auf dem Georg-Freundorfer-Platz am 17.06.2023
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Graffiti-Projekt Feuerwache 3, Heimeranstraße 10
+- TOP 8.3.2.: Zukunft der Veranstaltungsreihe "Blade Night"
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Nach Bus-Spur-Ertüchtigung in der Trappentreustraße: Ersatzpflanzung für Baumfällungen
+- TOP 9.1.2.: (E) + (U) Anordnung von Tempo 30 auf der Ganghoferstraße Empfehlung Nr. 20-26 / E 00235 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 21.07.2021
+- TOP 9.1.2.1: - NACHTRAG - Anordnung von Tempo 30 in der Ganghoferstraße; BV-Empfehlung Nr. E00235 Stellungnahme des Mobilitätsreferates
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Astallerstraße 15
+- TOP 9.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Westendstraße 119
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sachstand Neupflanzung nach Fällaktion im der Schnaderböckstraße
+- TOP 9.3.2.: Auswahl Sommerstraßen 2023
+- TOP 9.3.3.: Sitzbänke Am Bavariapark / am Deutschen Verkehrszentrum
+- TOP 9.3.4.: Fernwärmebauvorhaben Astallerstr. 7-9; Vollsperrung
+- TOP 9.3.5.: Engpass in der Schwanthalerstraße zwischen der Parkstraße und der Schießstättstraße
+- TOP 9.3.6.: Einrichtung von drei Fahrradzonen in der Schwanthalerhöhe
+- TOP 9.3.7.: Sachstand Müllentsorgung Hackerbrücke (Glasscherben)
+- TOP 9.3.8.: - NACHTRAG - Genehmigung "Kazmair-Allee"
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Isarlust e.V. “Kulturlieferdienst vom 06.02.2023 – 31.12.2023“ 4.760,00 € / AZ: 0262.0-8-0338
+- TOP 10.1.2.: (E) Stadtbezirksbudget Mischwald e.V. Mike Spike Froidl: Is there a Planet B.? vom 23.06 bis 25.06.2023 675,00 € / AZ 0262.0-8-0356
+- TOP 10.1.3.: (E) Stadtbezirksbudget InitiativGruppe – Interkulturelle Begegnung und Bildung e.V. “Vielfalt lieben – Essen teilen vom 29.06.2023 – 04.08.2023“ 1.294,95 € / AZ: 0262.0-8-0355
+- TOP 10.1.4.: (E) Stadtbezirksbudget Koordinationsstelle Kinder-Kultur-Sommer / Kultur und Spielraum e.V. “Programmbeiträge auf Einladung des Kiks. Veranstalterkreises vom 05.06.2023 – 11.06.2023“ 2.000,00 € / AZ: 0262.0-8-0357
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Grüne Lunge und Denkmal Bavariapark besser schützen
+- TOP 11.2.: - NACHTRAG - Schaffung von Abstellplätzen für Fahrräder, Roller und Kinderscooter im nordöstlichen Bereich der Schnaderböckstraße durch Umwandlung von PKW-Stellplätzen
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Oktoberfest 2023 - Reservierung Ratsboxe
+- TOP 12.2.2.: - NACHTRAG - BA-Satzung; rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: - NACHTRAG - Einhaltung der Anhörungsfrist durch die Referate
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
