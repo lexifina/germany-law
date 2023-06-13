@@ -1,0 +1,167 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393168
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393168
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Zugang zum Maßmannpark an der Heßstraße
+- TOP 6.2.: Kulturelle Zwischennutzung in der Karlstraße 20-22 ermöglichen
+- TOP 6.3.: Ersatzpflanzung Schwanthalerstr. 85
+- TOP 6.4.: Verkehrschaos in der Türkenstraße
+- TOP 6.5.: Enzis für die Maxvorstadt
+- TOP 6.6.: Artenvielfalt in Baumgräben
+- TOP 6.7.: Antrag zu Wiederbelebung von leerstehenden Kiosk-Flächen in den U-Bahnhöfen der Maxvorstadt
+- TOP 6.8.: Alter Botanischer Garten 2- Lösung für den Zaun und das angrenzende Grün BA-Antrag Nr. 20-26/ B 05076
+- TOP 6.9.: Alter Botanischer Garten 1 – Bänke im Garten versetzen BA-Antrag Nr. 20-26/ B 05075
+- TOP 7: Berichte der Beauftragten
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Stadtbegrünung | Außenmobiliar
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Aufwertung Rudi-Hierl-Platz in die Planungen zur Stiglmaierplatz einbeziehen
+- TOP 1.2.2.: Quo Vadis Gesundheitshaus? – Runder Tisch zur künftigen Nutzung
+- TOP 1.2.3.: Auskunft über die Nachpflanzungen auf dem Gelände der Neuen Pinakothek
+- TOP 1.2.4.: Kauf des Studentenwohnheims Adalbertstraße 41 durch die Landeshauptstadt München
+- TOP 1.2.5.: Nachfrage Studierendenwerk zum Studiwohnen in der Adalbertstr. 41
+- TOP 1.2.6.: Antrag SPD vom 07.06.2023 Karlstraße 20-22: Wohnraum nachhaltig schaffen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 16-20
+- TOP 2.1.2.: WEB-Liste der LBK:
+- TOP 2.1.3.: Zieblandstraße 11, Anhebung Dach mit Dachgeschossausbau und Zusammenlegung der Wohneinheiten OG 5 mit neuem DG, Erweiterung Süd der Wohneinheiten EG-OG 4 mit zusätzlichen Raumeinheiten und Erneuerung der Balkone, energetische Sanierung der Fassaden in 2 Varianten. hier: Variante 1 und 2 - VORBESCHEID
+- TOP 2.1.4.: Dachauer Straße 7, Öffnung der Brandwand 2. - 6. OG, dadurch Änderung von 5 Zweizimmerwohnungen in 10 Appartments, Änderung von Wänden in Spielsalons, Erweiterung und Umorganisation der Parkgarage - Änderungsantrag zu 1.1-2020-10901-22
+- TOP 2.1.5.: Adalbertstraße 19, Neubau eines Wohnhauses (2 WE) mit 2 Gewerbeeinheiten und Garage - VORBESCHEID / GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.6.: Dachauer Straße 22, Neubau eines Büro- oder Wohngebäudes mit sechs bzw. sieben Vollgeschossen mit dreigeschossiger Hofbebauung sowie einer eingeschossigen Tiefgarage (2 Varianten) – VORBESCHEID
+- TOP 2.1.7.: Augustenstraße 29, Teilumnutzung eines Ladens zu einem Laden mit Gastronomienutzung
+- TOP 2.1.8.: entfällt
+- TOP 2.1.9.: Luisenstraße 64, Teilinstandsetzung am bestehenden Rückgebäude, Teilerneuerung Dach und Decken, Errichtung von vier Balkonen, Änderung der Dachgauben, Aufzug, Zusammenlegung von 2 Wohneinheiten
+- TOP 2.1.10.: Schwindstraße 9/ RGB, Neubau eines Büro- und Wohngebäudes
+- TOP 2.1.11.: Kaulbachstraße 1, Neubau eines Mehrfamilienhauses mit Tiefgarage, Umbau eines Denkmalgeschützten Bürogebäudes
+- TOP 2.1.12.: Dachauer Straße 74, Abbruch von bestehenden Garagen, Neubau eines Mehrfamilienhauses mit drei Wohneinheiten
+- TOP 2.1.13.: Nordendstraße 19, Zusammenlegung von zwei Läden im EG mit Einbau eines WC und Erstellen eines Kellerabteils im KG
+- TOP 2.1.14.: Lämmerstraße 6, Nutzung als Tagescafé, vormalige Nutzung als Laden
+- TOP 2.1.15.: Augustenstraße 31, Zustandsberichtigung Gesamtgrundstück: Stellplatzzahl Garagengebäude, Verlängerung einer Gaststättengenehmigung
+- TOP 2.1.16.: Dachauer Straße 92, Neubau Einzelhandel, Büro und Tiefgarage – VORBESCHEID
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Urbanes Wohnen e.V. München, Natur-Kultur-Werkstatt Veranstaltung "Zukunft des Justizzentrums" vom 10.04. - 30.08.2023 2.000,00 Euro, Az.: 0262.0-3-0454
+- TOP 2.2.2.: entfällt
+- TOP 2.3: Entscheidungen
+- TOP 2.3.1.: (E) Baumpflanzung Von-der-Tann-Straße
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Schellingstraße 124, Neubau von 5 Townhäusern, Bitte um Prüfung bzgl. Baumfällung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Augustenstr. 2, Baumfällung
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Bäume in Kübeln 2024
+- TOP 5.2.: Plangenehmigungsverfahren Klagefrist Instandsetzung Treppenanlage TH89 und TH 90 Karlsplatz
+- TOP 5.3.: Augustenstraße 4, Neubau eines Wohngebäudes: Rückgebäude Teilgrundstück Augustenstr. 4
+- TOP 5.4.: Vorabexemplar Sitzungsvorlage des RKU_Masterplan solares München_für den AfKU am 20.06.2023_Unterrichtung Bezirksausschüsse
+- TOP 5.5.: Bescheid Linprunstraße
+- TOP 5.6.: (U) Verbannung von fossil betriebenen Laubbläsern
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Einzelantrag auf Radabsteller im Bezirk Maxvorstadt
+- TOP 1.1.2.: Anfrage Schanigärten
+- TOP 1.1.3.: Verkehr Türkenstraße
+- TOP 1.1.4.: Kommen Sie doch bitte morgen abends zum Königsplatz
+- TOP 1.1.5.: Bar „Holzkranich“, Georgenstrasse
+- TOP 1.1.6.: Steinhuber Miniblock Bürger*innenanliegen vom 09.06.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Christbaum am Josephsplatz – Bodenhülse anbringen
+- TOP 1.2.2.: Antrag „Trixispiegel“ für die Kreuzung Arcis-/Adalbertstraße vom Mai 2022 endlich bearbeiten
+- TOP 1.2.3.: WC – Container am Königsplatz den Sommer über nutzen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Ludwig-/ Von-der-Tann-Str.
+- TOP 2.1.2.: Entwurf VAO zur Aufhebung der Benutzungspflicht auf Höhe der Arnulfstr. 52 und Anbringen eines Schutzstreifens
+- TOP 2.1.3.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort Luisen-/ Theresienstr.
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Bitte um Stellungnahme BA 3 - Erweiterung der Abstellflächen für Mikromobilität
+- TOP 2.2.2.: Antrag auf Fahrrad- und Lastenradabstellplätze für die Dachauer Str. 24.
+- TOP 2.2.3.: BA - Beschlussvorlage für BA 3 für Sitzung vom 13.06.2023 hier Barer Str. 82_Antrag für die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichen Grund
+- TOP 2.2.4.: Beschluss für Parkscheinautomaten Standorte im Parklizenzgebiet Pinakotheken
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Türkenstr. 53 , Schanigarten Eisdiele
+- TOP 2.3.2.: Theresienstr. 56 re., "Baruts"; Neuantrag fassadenseitige FSF
+- TOP 2.3.3.: Beschlussvorlage Freischankfläche Amalienstr. 49 Turku Kebap
+- TOP 2.3.4.: Dachauer Str. 24, "Charlie & Lars"; Neuantrag fassadenseitige FSF
+- TOP 2.3.5.: BA 3 Maxvorstadt, Beschlussvorlage Steinheilstr. 6 Parkplatzfreischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung: Königsplatz (Bez.3) - Jugendgeschichtswerkstatt "sommer.dok" am 18.07.2023 – Termin: 07.07.2023
+- TOP 2.4.2.: Bez.(01),03,12_ANHÖRUNG_SportScheck RUN_20.07.2023.pdf
+- TOP 2.4.3.: Bez. 3, Ferdinand-Miller-Pl. | Anhörung für Pfarrfest St. Benno am 08.07.23 | Frist: 16.06.
+- TOP 2.4.4.: Anhörung: Königsplatz (Bez. 3) Konzert „SLIPKNOT“ am 24.06.2023 – Termin: 16.06.2023
+- TOP 2.4.5.: Bez. 03, Karl-Stützel-Platz | Anhörung § 29 StVO für "Kinder und Jugendkulturveranstaltung am Roten Ring" am 12.7, 19.7 und 26.7 | Anhörungsfrist: 23.06.2023
+- TOP 2.4.6.: Anhörung: Königsplatz (Bez. 3) Oben Ohne Open Air des Kreisjugendrings München am 22.07.2023 – Termin: 10.07.2023
+- TOP 2.4.7.: Anhörung: Königsplatz (Bez.3) – Landung eines Rettungshubschraubers anlässlich des Tags der ersten Hilfe am 01.07.2023 – Termin: 20.06.2023
+- TOP 2.4.8.: Bez. 3, Königsplatz | Anhörung für "TUNIX 2023" am 03. - 07.07.2023 | Frist: 16.06.23
+- TOP 2.4.9.: Eröffnung „KunstKioske“ am 13.07.2023 auf dem Josephsplatz (Frist: 27.06.2023)
+- TOP 2.4.10.: Siemens Sommerfest am 13.07.2023 (Frist: 29.06.2023)
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 2.5.1.: Vorstellung Konzept Steinhuber Miniblock
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Theresienstraße zwischen Türkenstraße und Barer Straße - Markierung eines Radfahrstreifens
+- TOP 3.2.: Antrag VAO Phase 100 - BV: Oskar-von-Miller-Ring
+- TOP 3.3.: SWM Baumaßnahme Fernwärme -Projekt - BV Amalienstraße 33 - BA 03 (Maxvorstadt)
+- TOP 3.4.: Theresienstraße 71; Hol- und Bringzone für Kindertagesstätte
+- TOP 3.5.: Info zu Baugenehmigungsverfahren für Schanigärten über 40 m²
+- TOP 3.6.: SWM Baumaßnahme Strom-Projekt - BV Seidlstraße 4 - BA 03 (Maxvorstadt)
+- TOP 3.7.: SWM Baumaßnahme Fernkälte-Projekt - BV Elisenstraße - BA 03 (Maxvorstadt)
+- TOP 3.8.: Bez. 1/3 - Bestätigung VA konfess. öff. Grund: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 08.06.2023
+- TOP 3.9.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 3.10.: Abdruck VAO ART Oberfläche Phase 000
+- TOP 3.11.: Entscheidung OB, FSF Schellingstr. 45, „Don´t call Mama“
+- TOP 3.12.: Fahrradabstellplätze vor dem TUM Sprachzentrum
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Projekt "orangene Bänke. Kein Platz gegen Gewalt an Frauen
+- TOP 1.2: Anträge
+- TOP 1.2.1.: entfällt
+- TOP 1.2.2.: Überarbeitung der Webseite www.spielplatz-muenchen.de der Landeshauptstadt München und Anbringung von QR-Codes an den Spielplätzen im Viertel bzw. stadtweit
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Budget Kreisjugendring Spielhaus Sophienstraße neuer Ort
+- TOP 2.2.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation - Konflikthilfe in Schulen vom 12.09.2023 - 01.08.2024 4.000,00 Euro, Az.: 0262.0-3-0472
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein für die Kirchenmusik in St. Bonifaz e.V. Konzerte am 04.06., 02.07., 23.07., 06.08., 03.09. und 01.10.2023 960,00 Euro, Az.: 0262.0-3-0469
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Lilien" Projekt "Lilien" vom 14.07. - 22.09.2023 3.912,93 Euro, Az.: 0262.0-3-0470
+- TOP 2.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil München - auf dem Stadtteilfest in der Maxvorstadt am 01.07.2023 800,00 Euro, Az.: 0262.0-3-0473
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Lagerung der abgebauten Kunstinstallation Clemens Behr
+- TOP 4.2.: Kunstareal München - Kunst, Kultur, Wissen a) Sachstandsbericht 2023, Fortführung Koordinierungsstelle Kunstareal und weiteres Vorgehen b) StR-Antrag Stadtbezirk 3 - Maxvorstadt
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Oktoberfest 2023 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 1.2.: Kinder und Bürger*innenfest
+- TOP 1.3.: BA – Schaukasten an der Theresienstraße austauschen und neuen Standort finden
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
