@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-06-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7354969
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7354969
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 16.05.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Aufstellen eines Postcontainers nördlich Herterichstraße im 19. Stadtbezirk
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elterninitiative Silizius e.V.: Bau eines Balanciermoduls Krokodil vom 23.10. bis 08.12.2023 2.809,15 € / AZ: 0262.0-19-0464
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Ergebnisse Workshop Forstenried: Shared Space im Dorfkern Forstenried
+- TOP 5.2.: (BV) Tempo 30 und Verkehrsberuhigung in der Gmunder Straße und Baierbrunner Straße BV-Empfehlung Nr. 20-26 / E 00895; Sitzungsvorlage Nr. 20-26 / V 09699
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Anpassung Park- bzw. Haltverbotsregelungen Kistlerhofstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: - abgesetzt -
+- TOP 6.2.2: Wilhelm-Leibl-Straße 22
+- TOP 6.2.3: Drygalski-Allee Flurnummer 272/2 (VB)
+- TOP 6.2.4: Bräutigamstraße 11 (VB)
+- TOP 6.2.5: Sollner Straße 59 (T)
+- TOP 6.2.6: - Nachtrag - Engadiner Straße 2 (VB)
+- TOP 6.3.: (A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/27 und Bebauungsplan mit Grünordnung; Rupert-Mayer-Straße (nördlich), Tölzer Straße (westlich), August-Zeune-Weg (südlich), Bahnlinie München-Lenggries (östlich) (Teiländerung der Bebauungspläne Nrn. 303b, 922, 1272) - Eckdaten- und Aufstellungsbeschluss – Weiteres Vorgehen, Auslobung von Realisierungswettbewerben
+- TOP 6.4.: - NACHTRAG - (A) Satzungsänderung: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Sanierungsmaßnahmen Bezirkssportanlage Graubündener Straße
+- TOP 7.2.: (Antrag) Jugendcontainer am Pumptrack Solln
+- TOP 7.3.: (BV) Seniorenvertreter*innen im Rahmen der Bürgerversammlung vorstellen und im Einladungsschreiben aufführen BV-Empfehlung Nr. 20-26 / E 00924; Sitzungsvorlage Nr. 20-26 / V 09815
+- TOP 7.4.: (A) Schul- und Kitabauoffensive - Sachstandsbericht 2023
+- TOP 7.5.: Bestellung städtischer Leistungen: Aufstellung von drei bis vier Ruhebänken
+- TOP 7.6.: (Antrag) Bus mit Füßen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Auf die Bedeutung des Dorfkerns Forstenried hinweisen
+- TOP 8.2.: (A) Veranstaltung: Sommerfest Thalkirchner Platz vom 30.06. bis 02.07.2023
+- TOP 8.3.: (A) Veranstaltung: Informationsveranstaltung Südpark/Warnberger Riedel am 19.07.2023
+- TOP 8.4.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 01.05. bis 03.08.2023
+- TOP 8.5.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 23.09. bis 31.10.2023
+- TOP 8.6.: (U) Veranstaltung: Wahlkampfveranstaltung Thalkirchner Platz am 17.06.2023
+- TOP 8.7.: (A) Veranstaltung: Flohmarkt Grünanlage Kistlerhofstraße/Münsinger Straße am 07.07.2023
+- TOP 8.8.: (A) Veranstaltung: Theater Spielplatz Silvrettaweg am 16.07.2023
+- TOP 8.9.: (A) Veranstaltung: Kulturspaziergang Obersendling am 22.07.2023
+- TOP 9: Verschiedenes
