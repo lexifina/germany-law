@@ -1,0 +1,8 @@
+# TOP 6.2: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-53, für die Grundstücke Emmentaler Straße 90/100A, Friedrich-Wilhelm-Straße 78-87 und Residenzstraße 130-137
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Stadtentwicklung (2023-06-13)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=56602
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=56602
