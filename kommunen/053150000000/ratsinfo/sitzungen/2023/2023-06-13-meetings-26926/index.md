@@ -1,0 +1,88 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-06-13T17:04:00+02:00
+- Ende: 2023-06-13T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26926
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26926
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Gewährung eines Zuschusses an den Partnerschaftsverein e.V. Köln-Porz im Jahr 2023 - ungeändert beschlossen
+- TOP 6.2: Straßenbaumkonzept Porz - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Straßenbaumkonzept Porz" - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Ergänzung der Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen hinsichtlich der Benennung nach Frauen - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Richtlinie Straßenbenennungen" - ungeändert beschlossen
+- TOP 7.2: Gebührenordnung für die Nutzung gebührenpflichtiger Parkplätze mit Bewohnerparkprivilegien im öffentlichen Straßenland auf dem Gebiet der Stadt Köln (Bewohnerparkgebührenordnung) - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Bewohnerparkgebührenordnung" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Baumscheiben entsiegeln und Bäume in der neuen Mitte Porz pflanzen" - endgültig zurückgezogen
+- TOP -: Baumscheiben Porz Mitte - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der BBM - JBV "Instandsetzung Basketballplatz Porz-Langel" - zurückgestellt
+- TOP -: Antrag der BBM - JBV "Instandsetzung Basketballplatz in Porz Langel - Kenntnis genommen
+- TOP -: Änderungsantrag der SPD-Fraktion "Instandsetzung Basketballplatz Porz-Langel" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Instandsetzung Basketballplatz Porz-Langel" - zurückgestellt
+- TOP 8.4: Antrag der BBM - JBV "Einrichtung einer Jugend-Theke" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Einrichtung einer Jugend-Theke in Finkenberg" - Sache ist erledigt
+- TOP -: Antrag der BBM-JBV "Einrichtung einer Jugend-Theke" - Kenntnis genommen
+- TOP 8.5: Antrag der BBM - JBV "Erneuerung der Sitzbänke an der Haltestelle Porz-Markt" - ungeändert beschlossen
+- TOP 8.6: Antrag der BBM - JBV "Outdoor-Sportgeräte an der Rheinpromenade" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Outdoor-Sportgeräte an der Rheinpromenade" - Sache ist erledigt
+- TOP 8.7: Antrag der BBM - JBV "Radstreifen Josefstraße" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Änderungsantrag der SPD-Fraktion "Josefstraße zur Fahrradstraße umwidmen" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.8: Antrag der BBM - JBV "Renovierung des Basketballplatzes in Eil" - geändert beschlossen
+- TOP -: Antrag der BBM - JBV "Renovierung des Basketballplatzes in Porz -Eil - Kenntnis genommen
+- TOP 8.9: Antrag der BBM - JBV "Schulbuskonzept für den Stadtbezirk Porz" - ungeändert beschlossen
+- TOP 8.10: Antrag der BBM - JBV "Verschönerung der Bushaltestellen" - ungeändert beschlossen
+- TOP 8.11: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "50 Jahre Stadtbezirk Porz" - zurückgestellt
+- TOP 8.12: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Einrichtung des Kriminalpräventiven Rat Porz" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Porzer Sicherheitskonferenz" - geändert beschlossen
+- TOP 8.13: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Vergabe von Stadtverschönerungsmitteln" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Stadtverschönerungsmittel" - Sache ist erledigt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Parkverbot Fußweg Frankfurter Straße" - ungeändert beschlossen
+- TOP 8.15: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Reparatur der defekten Beläge auf den Radwegen der Heidestraße in beiden Fahrtrichtungen" - ungeändert beschlossen
+- TOP 8.16: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fußweg Bieselwald" - ungeändert beschlossen
+- TOP 8.17: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Situation an der Alfred-Schütte-Allee dringend unter Kontrolle bringen" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Alfred-Schütte-Allee" - Sache ist erledigt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Ersatzbepflanzung Pestalozzischule auf dem Grundstück Elisabethstraße - zu Anfrage AN/0730/2023 der AfD-Fraktion - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Mündliche Nachfrage zur Verwaltungsvorlage Nr. 1542/2023 betr. Open-Air-Location Südbrücke - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Generalsanierung GGS Hohe Straße, Ensen und Neubau GGS Berliner" - zurückgestellt
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Freiraumhallen für Jugendliche - Kenntnis genommen
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Radverkehrshauptnetz Porz, Umgang des Verkehrsdezernates mit dem Beschluss der BV Porz" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Projekt Streuobstwiesen - Kenntnis genommen
+- TOP 10.2.2: Flächenbericht 2022 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2022 - Kenntnis genommen
+- TOP 10.2.3: Offenlage Bebauungsplan-Entwurf 76403/02 Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - Kenntnis genommen
+- TOP 10.2.4: Benennung der Planstraßen im Baugebiet Fuchskaule in Köln-Porz-Elsdorf - Kenntnis genommen
+- TOP 10.2.5: Benennung von Planstraßen im Baugebiet Poller Damm - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Erhalt des Poller Schützenplatzes als Veranstaltungsfläche, AZ.: 16/23 S - Kenntnis genommen
+- TOP 10.2.7: Radverkehrskonzept Porz - Radverkehrshauptnetz (1962/2022) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 10.2.8: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2023“– Sundaach aktiv, Start Sommerprogramm und Lauftreff - Kenntnis genommen
+- TOP 10.2.9: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 10.2.10: Fortschreibung des Integrierten Stadtentwicklungskonzeptes (ISEK) Porz-Mitte - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11: Annahme von Schenkungen
