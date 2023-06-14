@@ -1,0 +1,52 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-06-14T16:34:00+02:00
+- Ende: 2023-06-14T19:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12900
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12900
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00530417.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Parkplatzflächen auf dem Messegelände für die Energiegewinnung nutzen - ein Solarcarport installieren - Antrag der CDU-Fraktion an den Rat, Nr.: A-R/0050/20222, Beschluss - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2020 - einstimmig beschlossen
+- TOP 4: Energienutzungsplan (ENP) - einstimmig beschlossen
+- TOP 5: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2022 - einstimmig beschlossen
+- TOP 6: Antrag der Internationalen Fraktion Die PARTEI/ÖDP an den Rat A-R/0086/2021 vom 07.12.2021 "Diverse interkulturelle Stadtgesellschaft gleichberechtigt teilhaben lassen - für eine interkulturelle Öffnung der Verwaltung" - von der Tagesordnung abgesetzt
+- TOP 7: Entwicklung der städtischen Finanzlage - zur Kenntnis genommen
+- TOP 8: Innenstadt stärken: Priorisierung von Maßnahmen des INSEK Münster-Innenstadt (2023) - einstimmig beschlossen
+- TOP 9: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities - von der Tagesordnung abgesetzt
+- TOP 10: Sicherungsmaßnahmen an städtischen Schulgebäuden - ohne Beschlussfassung geschoben
+- TOP 10.1: Sicherungsmaßnahmen an städtischen Schulgebäuden
+- TOP 11: Überprüfung des onlinebasierten Vormerksystems für die Vergabe von Plätzen in Kindertageseinrichtungen in Münster - einstimmig beschlossen
+- TOP 12: Neuregelung der Trägervertretung in städtischen Kindertageseinrichtungen - ohne Beschlussfassung geschoben
+- TOP 12.1: Neuregelung der Trägervertretung in städtischen Kindertageseinrichtungen
+- TOP 13: Peter-Wust-Schule: Aufstellung einer Containeranlage für Differenzierungsräume und Büros - Errichtungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 14: Neubau eines Gebäudes für die städtische Erstaufnahme für Flüchtlinge im Stadtteil Gievenbeck - Grundsatzbeschluss - ohne Beschlussfassung geschoben
+- TOP 15: Einrichtung einer Ombudsstelle nach dem Wohn- und Teilhabegesetz NRW - einstimmig beschlossen
+- TOP 16: Wiederbesetzung der Ombudsstelle - einstimmig beschlossen
+- TOP 17: Aufstockung Fertigbau Container Klassen der Idaschule - einstimmig beschlossen
+- TOP 18: Erweiterung der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster - ohne Beschlussfassung geschoben
+- TOP 19: Neubau einer 7-Gruppen-Kindertageseinrichtung, Am Bielenfeld 2, Münster-Angelmodde - einstimmig beschlossen
+- TOP 20: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung - ohne Beschlussfassung geschoben
+- TOP 20.1: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung
+- TOP 20.1.1: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Mitte
+- TOP 21.1.1: Bebauungsplan Nr. 575 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 21.2: Stadtbezirk Hiltrup
+- TOP 22: Bebauungsplan Nr. 628: Hiltrup - Nördlich Osttor - Auslobung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs - mehrheitlich beschlossen
+- TOP 22.1.1.1: Bebauungsplan Nr. 628: Hiltrup - Nördlich Osttor - Auslobung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs
+- TOP 22.2: Stadtbezirk Südost
+- TOP 22.2.1: 1. 122. Änderung des Flächennutzungsplanes der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf im Bereich westlich Höltenweg / nördlich Umgehungsbahn - von der Tagesordnung abgesetzt
+- TOP 22.2.2: 1. Änderung des Bebauungsplans Nr. 405: Gremmendorf - Heidestraße / Höftestraße / Paul-Engelhard-Weg - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 23: Verlängerung der Mitgliedschaften von Mitgliedern des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 24: Verschiedenes
