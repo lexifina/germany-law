@@ -1,0 +1,8 @@
+# TOP 4.1: Konsensliste für die 21. Sitzung der BVV vom 14.06.2023
+
+- Sitzung: 21. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2023-06-14)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=56723
+- Ergebnis: ohne Änderungen in der BVV beschlossen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=56723
