@@ -1,0 +1,81 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-06-14T17:06:00+02:00
+- Ende: 2023-06-14T19:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12879
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12879
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00530929.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8.1: Erhöhung des jährlichen Budgets - verwiesen
+- TOP 9: Anregungen des Jugendrates
+- TOP 9.1: Strukturelles Konzept für die zukünftige Arbeit des Jugendrates - verwiesen
+- TOP 9.2: Gestaltung der hauptamtlichen Personalstelle der pädagogischen Begleitung des Jugendrates - verwiesen
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 10.1: Toiletten für alle - verwiesen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2020 - einstimmig beschlossen
+- TOP 14: Energienutzungsplan (ENP) - mehrheitlich beschlossen
+- TOP 15: Transformation - Zukunft der Verwaltung gestalten - Vorlage eingebracht
+- TOP 16: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2022 - einstimmig beschlossen
+- TOP 17: Antrag der Internationalen Fraktion Die PARTEI/ÖDP an den Rat A-R/0086/2021 vom 07.12.2021 "Diverse interkulturelle Stadtgesellschaft gleichberechtigt teilhaben lassen - für eine interkulturelle Öffnung der Verwaltung" - von der Tagesordnung abgesetzt
+- TOP 18: Entwicklung der städtischen Finanzlage - zur Kenntnis genommen
+- TOP 19: Innenstadt stärken: Priorisierung von Maßnahmen des INSEK Münster-Innenstadt (2023) - einstimmig beschlossen
+- TOP 20: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities - von der Tagesordnung abgesetzt
+- TOP 21: Sicherungsmaßnahmen an städtischen Schulgebäuden - mehrheitlich geändert beschlossen
+- TOP 21.1: Sicherungsmaßnahmen an städtischen Schulgebäuden
+- TOP 22: Überprüfung des onlinebasierten Vormerksystems für die Vergabe von Plätzen in Kindertageseinrichtungen in Münster - einstimmig beschlossen
+- TOP 23: Neuregelung der Trägervertretung in städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 23.1: Neuregelung der Trägervertretung in städtischen Kindertageseinrichtungen
+- TOP 24: Peter-Wust-Schule: Aufstellung einer Containeranlage für Differenzierungsräume und Büros - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 25: Neubau eines Gebäudes für die städtische Erstaufnahme für Flüchtlinge im Stadtteil Gievenbeck - Grundsatzbeschluss - mehrheitlich geändert beschlossen
+- TOP 26: Einrichtung einer Ombudsstelle nach dem Wohn- und Teilhabegesetz NRW - einstimmig beschlossen
+- TOP 27: Wiederbesetzung der Ombudsstelle - einstimmig beschlossen
+- TOP 28: Aufstockung Fertigbau Container Klassen der Idaschule - einstimmig beschlossen
+- TOP 29: Erweiterung der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster - einstimmig beschlossen
+- TOP 30: Neubau einer 7-Gruppen-Kindertageseinrichtung, Am Bielenfeld 2, Münster-Angelmodde - mehrheitlich beschlossen
+- TOP 31: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung - einstimmig beschlossen
+- TOP 31.1: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung
+- TOP 31.1.1: Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Münster-Mitte
+- TOP 32.1.1: Bebauungsplan Nr. 575 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 32.2: Stadtbezirk Münster-Hiltrup
+- TOP 32.2.1: Bebauungsplan Nr. 628: Hiltrup - Nördlich Osttor - Auslobung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs - mehrheitlich beschlossen
+- TOP 32.2.1.1: Bebauungsplan Nr. 628: Hiltrup - Nördlich Osttor - Auslobung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs
+- TOP 32.3: Stadtbezirk Münster-Südost
+- TOP 32.3.1: 1. 122. Änderung des Flächennutzungsplanes der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf im Bereich westlich Höltenweg / nördlich Umgehungsbahn - von der Tagesordnung abgesetzt
+- TOP 32.3.2: 1. Änderung des Bebauungsplans Nr. 405: Gremmendorf - Heidestraße / Höftestraße / Paul-Engelhard-Weg - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Eine frühe Bürgerinformation zur Planung der S-Bahn Münsterland digital sicherstellen - verwiesen
+- TOP 33.2: Münsters Wettbewerbsfähigkeit mit Wohnraum für Familien fördern - verwiesen
+- TOP 33.3: Räumliche Bedarfe der Vereine am Bennohaus berücksichtigen - verwiesen
+- TOP 33.4: Erläuterung vor Entfernung - Umstrittene Straßennamen als begehbares Geschichtsbuch nutzen - verwiesen
+- TOP 33.5: Safety first: Ein Plus an Sicherheit im öffentlichen Raum – Kriminalprävention effektiv einsetzen - verwiesen
+- TOP 33.6: Die Zuständigkeiten zwischen Rat und BVen abgrenzen - verwiesen
+- TOP 33.7: Verbesserung der Situation rund um den Hauptbahnhof - verwiesen
+- TOP 33.8: Digitaler Haushalt - verwiesen
+- TOP 33.9: Wirtschaft fördern - Gewerbeflächenentwicklung zielgenau und nachhaltig gestalten - verwiesen
+- TOP 33.10: Ein Rettungsring für Münsters Schwimmbäder – Vereinsressourcen zur Linderung des Personalmangels nutzen - verwiesen
+- TOP 33.11: Mehr Wohnraum für Fachkräfte – Ein Wohnungsgipfel für Münster - verwiesen
+- TOP 34: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 35: Bestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 36: Verlängerung der Mitgliedschaften von Mitgliedern des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 37: Verschiedenes
