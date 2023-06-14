@@ -1,0 +1,114 @@
+# 15. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2023-06-14T18:00:00+02:00
+- Ende: 2023-06-14T22:18:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7891
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7891
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=285598
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Ausschreibung externer Leistungen durch das Umwelt- und Naturschutzamt Pankow - beantwortet
+- TOP 1.5.2: Geschäftsverteilung des Bezirksamtes - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Ausschussbildung nach den Wiederholungswahlen - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Nachberufung beratender Mitglieder für den Kinder- und Jugendhilfeausschusses (KJHA) der Bezirksverordnetenversammlung für die IX. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Nachbesetzung eines stimmberechtigten Mitgliedes bzw. Bürgerdeputierten für den Kinder- und Jugendhilfeausschusses (KJHA) der Bezirksverordnetenversammlung für die IX. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Besetzung von Ausschüssen durch Bürgerdeputierte auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.12: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.13: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.14: Wahl von Bürgerdeputierten und stellvertretenden Bügerdeputierten - gewählt
+- TOP 1.15: Nachweis der im Haushaltsjahr 2022 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen (VE) - überwiesen
+- TOP 1.16: Förderprogramm „Nachhaltige Erneuerung“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Nachhaltigen Weihnachtsmarkt in Pankow retten und dauerhaft unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Ein integriertes Politikinformationssystem für alle Berliner Bezirke und das Abgeordnetenhaus von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: E-Fahrrad-Ladeboxen/-säulen für Pankows viel frequentierte Orte! - in der BVV abgelehnt
+- TOP 1.20: „Nacht der Politik“ des Bezirks Pankow einführen – Kommunalpolitik und Ämter zum Anfassen! - in der BVV abgelehnt
+- TOP 1.21: Familienfreundliche BVV ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Ortskern Wilhelmsruh aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Geboren werden, leben und sterben in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Gedenken an die „Aktion wider den undeutschen Geist“ und Bücherverbrennungen 1933 - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Aufhebung des Bezirksamtsbeschlusses Drucksache IX-0424: Benennung einer öffentlichen Straße im Ortsteil Heinersdorf in „Herta-Hammerbacher-Straße“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Barrierefreies Standesamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Sonne für Alle - Solaranlagen in städtebaulichen Erhaltungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Park am Velodrom aufwerten - Grünflächen verschönern - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Städtepartnerschaften nach Außen wertschätzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Gemeinschaftsgarten im Blankensteinpark erhalten und fördern - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Feuerwehraufstellfläche der Kita "Bucher Wichtel" auch als solche nutzen - überwiesen
+- TOP 1.32: Pankow soll Modellregion für Cannabis-Legalisierung werden - überwiesen
+- TOP 1.33: Schulaußenfläche der Tesla-Schule schnellstmöglich aufwerten! - mit Änderungen in der BVV beschlossen
+- TOP 1.34: Spielplatzpatenschaften, Spielplatzpaten und Spielplatztage für Pankow - in der BVV abgelehnt
+- TOP 1.35: Netzwerk der Abkühlung für Pankow - vertagt
+- TOP 1.36: Speedanzeigen für den Radverkehr - überwiesen
+- TOP 1.37: Mehr Safeplaces für obdachlose Menschen auch in Pankow! - überwiesen
+- TOP 1.38: Echte Bürger:innenbeteiligung heißt echte Transparenz zur Umgestaltung des Hugenottenplatzes - vertagt
+- TOP 1.39: Einbahnstraßen am Heinz-Knobloch-Platz prüfen und nach Möglichkeit einführen - vertagt
+- TOP 1.40: Wildblumen statt Wüste auf Grünsteifen an Straßenbahnschienen und Straßenbegleitgrün - vertagt
+- TOP 1.41: Ukrainische Bücher der Stadtteilbibliothek Karow bei ukrainischen Flüchtlingen bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Bedarfsermittlung von Schulplätzen für autistische Kinder - Kleinklassen Autismus in Pankow ermöglichen - überwiesen
+- TOP 1.43: Sicherer Schulweg auch am temporären Schulstandort der Grundschule Wolkenstein - überwiesen
+- TOP 1.44: Ausstellung „Was hattest du an?“ in Pankow zeigen - vertagt
+- TOP 1.45: Alte Schäferei: Erst Verkehrslösung, dann Neubauvorhaben - überwiesen
+- TOP 1.46: Wohnungslosigkeit bekämpfen: Geschütztes Marktsegment auch für Menschen in der Schuldenfalle! - vertagt
+- TOP 1.47: Fahrgäste an der Friesickestraße nicht im Regen stehen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Biotopholz für Pankower Grünflächen - überwiesen
+- TOP 1.49: Schwimmen auch im Winter in Pankow möglich machen - vertagt
+- TOP 1.50: Wirtschaftsstrafgesetz gegen Mietwucher auch in Pankow anwenden! - überwiesen
+- TOP 1.51: Gedenkort auf der Schönhauser Allee Brücke dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.52: Landesgleichberechtigungsgesetzes (LBGB) für den Bereich Kinder und Jugend in Pankow vorantreiben - überwiesen
+- TOP 1.53: Bus 353 - ohne Änderungen in der BVV beschlossen
+- TOP 1.54: Erhöhung der Verkehrssicherheit am Fußgängerüberweg Berliner Straße / Dr.-Markus-Straße - vertagt
+- TOP 1.55: Ausweisung zweier Behindertenparkplätze Schulstraße Pankow - überwiesen
+- TOP 1.56: Sperrflächen für eine sichere Ein-/Ausfahrt zum/vom Parkplatz im Alten Schlachthof - überwiesen
+- TOP 1.57: Verkehrssicherheitskonzept für den Wischbergeweg - vertagt
+- TOP 1.58: Die Schulwegsicherheit auf der Piesporter Straße verbessern - überwiesen
+- TOP 1.59: Anpassung der Geschwindigkeitsbegrenzung in beiden Richtungen des Pölnitzweges - überwiesen
+- TOP 1.60: BVG-Richtungsschilder im Tunnel am S-Greifswalder Straße bewahren - überwiesen
+- TOP 1.61: Terminplan November 2024 bis Oktober 2026 - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Hundeauslaufgebiet neu beschildern, landwirtschaftlich genutzte Flächen schützen - vertagt
+- TOP 2.2: Entwicklung von Formaten der Kinder- und Jugendbeteiligung - vertagt
+- TOP 2.3: Gemeinschaftsschulstandort auf dem Ostgelände des „Pankower Tors“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Berufung einer/s Beauftragten für „Gute Arbeit“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Das Landschaftsschutzgebiet Schönholzer Heide und Bürgerpark vor Schäden durch Parken und Befahren schützen - vertagt
+- TOP 2.6: Umbenennung der Robert-Rössle-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Pankower RENNsation wiederbeleben und das „Netzwerk Kinderschutz“ sichtbar machen - vertagt
+- TOP 2.8: Unfälle an der Blankenburger Chaussee in Karow vermeiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Kurzfristige Maßnahmen in der Wackenbergstraße endlich umsetzen! - vertagt
+- TOP 2.10: Raus aus den Wohngebieten – Schleichwege für LKWs endlich konsequent unterbinden - vertagt
+- TOP 2.11: Schulzestraße, Wilhelm-Kuhr- Straße und Am Bürgerpark verkehrssicher gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Sicher und trockenen Fußes zur Pinke-Panke! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Mehr Sicherheit an der Kreuzung Karower Chaussee und Robert-Rössle-Straße/Wolfgang-Heinz-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Keine Pinselsanierung für den Fußgängertunnel S-Bahnhof Greifswalder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Zur Erleichterung aller – Standortkonzept für öffentliche Toilettenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Geregeltes Verfahren zur Benennung nach historischen Persönlichkeiten - vertagt
+- TOP 2.17: Förderung für Maßnahmen für Klimaanpassung und Stadtverschönerung ausnutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Namensschilder für die Buchholzer Plätze Kamisardenplatz, Navarraplatz, Hugenottenplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Netzwerk der Wärme auch in Pankow! - vertagt
+- TOP 2.20: Lärmschutz für Buchholz und Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Gleisbette der Straßenbahnen an Weißenseer Haltestellen vor Autos besser schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Nein zur Nachverdichtung der grünen Innenhöfe im Schlosspark-Kiez, Fällung von 36 Bäumen verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Festlegung der Beauftragten für den Haushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennung und Abberufung bezirklicher Mitglieder der Trägerversammlung des Jobcenters Berlin Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Festsetzung der Eckwerte für die Aufstellung des Doppelhaushaltsplans 2024/2025 des Bezirks Pankow von Berlin - vertagt
+- TOP 2.28: Jahresabschlussergebnis 2022 für den Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Vorschlag zur Ernennung der Kreiswahlleiterwahlleiterin und des Stellvertreters für die Wahl des 10. Europäischen Parlamentes im Juni 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Fortschreibung des Soziale-Infrastruktur-Konzeptes für den Bezirk Pankow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.31: Bestellung von Mitgliedern des Bezirksamts Pankow von Berlin für das Heimkuratorium „Seniorenwohnen am Schloßpark“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Benennung der Vorsitzenden des Kuratoriums der „Seniorenstiftung Prenzlauer Berg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Benennung von Mitgliedern für den Vorstand der Albert Schweitzer Stiftung – Wohnen & Betreuen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
