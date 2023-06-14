@@ -1,0 +1,56 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-14T17:00:00+02:00
+- Ende: 2023-06-14T18:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24105
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24105
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 10. Mai 2023 (wird nachgereicht) - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Errichtung der MobilitätStation Rath Mitte S im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRI-MM) - abweichend beschlossen
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 5: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - vertagt
+- TOP 6: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg - vertagt
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg - vertagt
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße - vertagt
+- TOP 10: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen - vertagt
+- TOP 11: Anfrage der SPD-Fraktion: Bushaltestelle Eckenerstraße Steig 4 - Busse Richtung Westen - schriftlich beantwortet
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 13: Anfrage der FDP-Fraktion: Umwandlung von öffentlichen Kfz-Parkplätzen - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der SPD-Fraktion: Nutzung Grundstück Vogelsanger Weg - vertagt
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 18: Antrag der SPD-Fraktion: Poller am Altkleidercontainer auf dem Segeberger Weg - einstimmig beschlossen
+- TOP 19: Antrag der SPD-Fraktion: Fernwärme zur Energiewende für Unterrath - einstimmig beschlossen
+- TOP 20: Antrag der SPD-Fraktion: Überquerung Eckenerstraße am Zugang zum Park über dem Flughafentunnel am Projektbüro U81 - abweichend beschlossen
+- TOP 21: Antrag der SPD-Fraktion: Sicherung des Schulweges zur GGS Max-Halbe-Straße und KG Herchenbachstraße (St. Franziskus-Schule) - einstimmig beschlossen
+- TOP 22: Antrag der SPD-Fraktion: Bereitstellung von Mitteln zur Reinigung von besprühten Spielplatzgeräten im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 23: Antrag der SPD-Fraktion: Rather Carré - Bedürfnisse der Jugendlichen - mehrheitlich abgelehnt
+- TOP 24: Antrag der SPD-Fraktion: Zugang zum Park über dem Flughafentunnel am Projektbüro U81 - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Planungsstand zur Reaktivierung der Bahnlinie "Ratinger Weststrecke" - einstimmig beschlossen
+- TOP 26: Antrag der SPD-Fraktion: Umstellen der Awista Container auf dem Kreitenplatz - zurückgestellt
+- TOP -: Verwaltungsvorlagen
+- TOP 27: Zuschussvergabe 2023 Antrag der KGS Kartause-Hain - Theaterpädagogisches Präventionsprogramm "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 28: Zuschussvergabe 2023 Antrag der Gemeinschaftsgrundschule Unterrath - Theaterpädagogisches Präventionsprogramm "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2023 Antrag St. Seb. Schützenbruderschaft e. V. Düsseldorf-Unterrath - Geselliger Vormittag "Jung und Alt gemeinsam - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2023 Antrag des St. Seb. Schützenverein Derendorf 1655 e.V. - Bunter Kindernachmittag - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2023 Bürgerverein Ongerod e.V. - Spielplatzfest auf dem KSP An der Golzheimer Heide - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2022 Teil B "sonstige städtische Einrichtungen" - Jfe Ammerweg - Wandmalaktion am Ammerweg 2023 - Vorlage BV6/196/2022 - einstimmig beschlossen
+- TOP -: Informationsvorlage
+- TOP 33: Krönerweg - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - Vorlage BV6/021/2023 - zur Kenntnis genommen
+- TOP 34: Rüdigerstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - zur Kenntnis genommen
+- TOP 35: Festsetzung im Bebauungsplan verletzt? Baumfällung Volkardeyer Weg - Vorlage BV6/065/2023 - zur Kenntnis genommen
+- TOP 36: Bushaltestelle Eckenerstraße - Vorlage BV6/038/2023 - zur Kenntnis genommen
