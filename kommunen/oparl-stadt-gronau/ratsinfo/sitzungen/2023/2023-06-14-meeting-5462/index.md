@@ -1,0 +1,61 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-06-14T18:00:00+02:00
+- Ende: 2023-06-14T21:57:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVHIOR62O9NPaX4f34HrKkU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5462
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOvoX637zaDjAoK7jOmbEJFmGXNdsdpWT2aQ0LzJGlV/Bekanntmachung_Rat_14.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcxquS8EiadAh0ZLHC0fFig9a4Y43uiFVwyb2G2l6V-J/Oeffentliche_Niederschrift_Rat_14.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 22.05.2023
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag von mind. 1/5 der Ratsmitglieder vom 01.06.2023; "Umsetzung der Istanbul-Konvention in der Stadt Gronau" - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Antrag der Fraktion GAL/Die Linke vom 31.05.2023; "Asbest und andere Schadstoffe in städtischen Gebäuden und Fürsorgepflicht des Arbeitgebers"
+- TOP 4.3: Antrag der Fraktion GAL/DIE LINKE vom 31.05.2023; Verkehrsberuhigung am Alfertring
+- TOP 4.3.1: Antrag der Fraktion GAL/DIE LINKE vom 31.05.2023; Verkehrsberuhigung am Alfertring
+- TOP 4.4: Antrag der Fraktionen UWG & WEG vom 02.06.2023; Gespräch mit der Ärzteschaft und den Krankenhäusern über die Einrichtung eines medizinischen Versorgungszentrums - Einstimmig, 0 Enthaltungen
+- TOP 5.: Synagoge Epe - Einstimmig, 0 Enthaltungen
+- TOP 6.: Errichtung eines Wasserspielplatzes auf dem Drilandsee - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Sportanlage "Eper Bülten" - 7 Jastimmen, 23 Neinstimmen, 12 Enthaltungen
+- TOP 8.: Vereinigung der Stadtsparkasse Haltern am See mit der Sparkasse Westmünsterland - 36 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 9.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften (hier: Kommunale Genossenschaft Gronauer Innenstadt, Quartiersentwicklungsgesell-schaft für die Innenstadt) - Einstimmig, 0 Enthaltungen
+- TOP 10.: Neubau Kita Luise - Vorstellung Außenanlagen - Einstimmig, 0 Enthaltungen
+- TOP 11.: Antrag auf Erhöhung der Zuschusszahlungen / Elternbeiträge hier: Kostenunterdeckung bei den Übermittagsbetreuungen der Gronauer und Eper Grundschulen - Einstimmig, 3 Enthaltungen
+- TOP III.: Öffentlicher Teil
+- TOP 13.: Übernahme des Trägeranteils für Investitionsmaßnahmen zur Ausstattung Hier: DRK Kita Märchenschloss - Einstimmig, 3 Enthaltungen
+- TOP 14.: Weiterentwicklung der Richtlinien zur Förderung von Kindern in Kindertagespflege zum 01.08.2023 - Einstimmig, 2 Enthaltungen
+- TOP 15.: Resolution zur Unterstützung der vom Ärzteplenum verabschiedeten "Gronauer Erklärung zur Krankenhausreform" - Einstimmig, 0 Enthaltungen
+- TOP 16.: ÖPNV Gronau 2024 - 18 Jastimmen, 18 Neinstimmen, 5 Enthaltungen
+- TOP 16.1: ÖPNV Gronau 2024
+- TOP 16.2: ÖPNV Gronau 2024
+- TOP 17.: Erweiterung des Wertstoffhofes und des Bauhofes der Zentralen Bau- und Umweltdienste der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Innenstadtentwicklung Stadtteil Gronau, 3. Bauabschnitt (Enscheder Straße, Theodor-Heuss-Platz, Mühlenmathe, Bahnhofstraße, Umfeld des Historischen Rathauses) Baubeschluss - 38 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 19.: Vorhabenbezogener Bebauungsplan "Wohnanlage Laurenzstraße/Gildehauser Damm", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB (Offenlage) 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss
+- TOP 20.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau (Westf.) für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 21.: Antrag der Fraktion pro:Bürgerschaft vom 07.01.2023; Vergütung in den Gremien der städischen Beteiligungen - Einstimmig, 2 Enthaltungen
+- TOP 21.1: Antrag der Fraktion pro:Bürgerschaft vom 07.01.2023; Vergütung in den Gremien der städischen Beteiligungen
+- TOP 22.: Entwurf des Jahresabschlusses 2022 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 23.: Sachstand zur Ukraine-Flüchtlingssituation (Stand 07.06.2023)
+- TOP 24.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 25.: Auflösung der Forstbetriebsgemeinschaft GbR
+- TOP 26.: Mitteilungen der Verwaltung
+- TOP 26.1: Behördenbüro
+- TOP 27.: Anfragen
+- TOP 27.1: Neuer Parkplatz am Bahnhof (Anfrage von RM Dr. Kuhlmann-Eckel)
+- TOP 27.2: Absenkung am Alfertring (Anfrage von RM Meyer)
+- TOP 27.3: WC-Anlagen am Drilandsee (Anfrage von RM von Borczyskowski)
+- TOP 27.4: Baustelle am Theodor-Heuss-Platz (Anfrage von RM Bröker)
+- TOP 27.5: Lehrkräfte an Eper Grundschulen (Anfrage von RM Krefter)
+- TOP 27.6: Baustelle Gronauer Straße (Anfrage von RM Doetkotte)
+- TOP 27.7: Betonbeete am WZG (Anfrage von RM Buchholz)
+- TOP 27.8: Glasbehälter für den Drilandsee (Anfrage von RM Doetkotte)
