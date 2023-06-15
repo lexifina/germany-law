@@ -1,0 +1,101 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-15T14:10:00+02:00
+- Ende: 2023-06-15T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24954
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24954
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 15.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489393.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 15.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489393.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 15.06.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489393.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 20.04.2023 (SI-RAT/003/2023) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Brand am 11.06.2023 in der Kleingartenanlage Eduard-Schloemann-Str., Düsselthal - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: aktuelle IGLU-Studie und die Situation in Düsseldorf - beantwortet
+- TOP 4.2: Anfrage der FDP-Ratsfraktion: Leistungen aus dem Bildungs- und Teilhabegesetz - beantwortet
+- TOP 4.3: Anfrage der AfD-Ratsfraktion: Altersfeststellung von unbegleiteten minderjährigen Ausländern (UMA) - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Whistleblower – Umsetzung des Hinweisgeberschutzgesetzes in Düsseldorf - beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Blockade im Netz durch Technologieoffenheit? - beantwortet
+- TOP 4.6: Anfrage der SPD-Ratsfraktion: Künftiger Umgang mit Extremwetterereignissen in Düsseldorf - beantwortet
+- TOP 4.7: Anfrage der SPD-Ratsfraktion: Vorbereitung auf den Sommer in Düsseldorf - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion DIE LINKE: Missachtung von Ratsbeschlüssen durch Vertreter:innen in Aufsichtsgremien - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion DIE LINKE: Kosten der Deutschen Oper am Rhein - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Lemmer: Gebärdensprachdolmetscher - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Lemmer: OB-Reise in die USA im Mai 2023 - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Lehmann: Einnahmen durch die Beherbergungssteuer - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission "Neuzuschnitt der Kommunalwahlbezirke" - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 10: Deutsche Oper am Rhein - Opernhaus der Zukunft - mehrheitlich beschlossen
+- TOP 10.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage KUA/041/2023
+- TOP 10.2: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage KUA/041/2023
+- TOP 10.3: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage KUA/041/2023 - mehrheitlich beschlossen
+- TOP 10.4: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage KUA/041/2023 - mehrheitlich abgelehnt
+- TOP 10.5: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage KUA/041/2023 - mehrheitlich abgelehnt
+- TOP 11: Plan-Nr. 06/028 - Gleisanlagen nördlich A44 / westlich Mühlenbroicher Weg - einstimmig beschlossen
+- TOP 12: Städtebaulicher Vertrag zum Bebauungsplan Nr. 5779/033 - Gartenstadt Reitzenstein - mehrheitlich beschlossen
+- TOP 13: Umbenennung des Sonnenplatzes in Miep-Gies-Platz - einstimmig beschlossen
+- TOP 14: Raumwerk D: Sport und Bewegung - Neue Inhalte - einstimmig beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 03/043 - Königsallee 106 - mehrheitlich beschlossen
+- TOP 16: Förderung im Rahmen der Landesförderung „Zukunftsfähige Innenstädte und Ortszentren Nordrhein-Westfalen“ - einstimmig beschlossen
+- TOP 17: Marktplatz 3, Düsseldorfer Rathaus - Sanierung des Plenarsaals und Herstellung der Barrierefreiheit - Bedarfsbeschluss - - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage BAU/008/2023 - einstimmig beschlossen
+- TOP 18: Beteiligungsbericht 2020 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 19: Neufassung der Benutzungsordnung für das Kulturhaus Süd (ehemals: Freizeitstätte Garath) ab 01.07.2023 - mehrheitlich beschlossen
+- TOP 20: Bedarfsbeschluss - Sanierung Pflegebereich Aquazoo - einstimmig beschlossen
+- TOP 21: Übertragung des Gebäudeunterhalts und der Instandhaltung sowie des Betriebs für die Gebäude – Gutshof Schlosspark Benrath – auf die Stiftung Schloss und Park Benrath - einstimmig beschlossen
+- TOP 22: Gastprofessur an der Robert Schumann Hochschule Düsseldorf - vertagt
+- TOP 23: Erneuerung der Axialventilatoren im Rheinufertunnel -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 24: Brandschutztechnische Ertüchtigung U-Bahnhof Nordstraße -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 25: Ersatzneubau der Straßenbrücke Liliencronstraße (BW 316) -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 26: Änderung der Satzung des Seniorenrates der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 27: 63. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 28: Bestellung von sachkundigen Einwohnerinnen und Einwohnern für den Ausschuss für Wohnungswesen und Modernisierung - zurückgezogen
+- TOP 29: Gründung der unselbstständigen Gaul-Stiftung - mehrheitlich beschlossen
+- TOP 30: Gründung der selbstständigen Johanna Ey Stiftung - mehrheitlich beschlossen
+- TOP 31: Zuwendungsantrag für Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen- und Hochwasserkatastrophe im Juli 2021 - einstimmig beschlossen
+- TOP 32: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - einstimmig beschlossen
+- TOP 33: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 34: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Zusammenführung der Volkshochschule in der Yorckstr. 19-21 - einstimmig beschlossen
+- TOP 35: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an städtischen Grundschulen - einstimmig beschlossen
+- TOP 36: Stiftung Haus der Talente Düsseldorf - Neuer Zuwendungsvertrag - einstimmig beschlossen
+- TOP 37: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Erweiterung und Umbauten der GGS Rolandschule, Rolandstraße 40, Erhöhung der Zügigkeit um einen Zug zu einer vierzügigen Grundschule" - einstimmig beschlossen
+- TOP 38: Erhöhung der Zügigkeit der Thomas-Schule, Blumenthalstraße 11, um einen Zug zu einer dreizügigen Grundschule - einstimmig beschlossen
+- TOP 39: Satzung über die Erhebung einer Beherbergungssteuer in der Landeshauptstadt Düsseldorf (Beherbergungssteuersatzung) - abweichend beschlossen
+- TOP 39.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage HFA/014/2023
+- TOP 39.2: Änderungsantrag der SPD-Ratsfraktion zur Vorlage HFA/014/2023 - abweichend beschlossen
+- TOP 39.3: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage HFA/014/2023
+- TOP 39.4: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS90/DIE GRÜNEN zur Vorlage HFA/014/2023 - abweichend beschlossen
+- TOP 40: Anträge
+- TOP 40.1: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Entscheidung den Kommunen ermöglichen: Umwandlungsverordnung zum Schutz von Mietwohnungen - mehrheitlich abgelehnt
+- TOP 40.1.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/197/2023 - zurückgezogen
+- TOP 40.2: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Deutschlandticket als kostenloses Jobticket - mehrheitlich beschlossen
+- TOP 40.2.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/196/2023 - mehrheitlich abgelehnt
+- TOP 40.2.2: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/196/2023
+- TOP 40.2.3: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage RAT/196/2023 - mehrheitlich abgelehnt
+- TOP 40.2.4: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/196/2023 - mehrheitlich abgelehnt
+- TOP 40.3: Antrag der AfD-Ratsfraktion: Prüfung der Realisierung einer Klang-Installation auf dem Worringer Platz - mehrheitlich abgelehnt
+- TOP 40.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Deutsches Fotoinstitut – die nächsten Schritte - mehrheitlich beschlossen
+- TOP 40.5: Antrag der SPD-Ratsfraktion: Spaß auf Rollschuhen statt auf Eis in der Winterwelt! - mehrheitlich abgelehnt
+- TOP 40.6: Antrag der SPD-Ratsfraktion: 100% bezahlbare Wohnungen an der Benrodestraße - zurückgezogen
+- TOP 40.6.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/253/2023
+- TOP 40.7: Antrag der Ratsfraktionen von Die PARTEI-Klima-Fraktion, BÜNDNIS 90/DIE GRÜNEN, SPD, DIE LINKE und FDP: Verzicht auf Strafverfolgung wegen der Nutzung öffentlicher Verkehrsmittel ohne gültigen Fahrschein - mehrheitlich beschlossen
+- TOP 40.8: Antrag der Ratsfraktionen Die PARTEI-Klima-Fraktion und SPD: Gaslaternen ersetzen - Ein neuer Masterplan muss sein
+- TOP 40.9: Antrag der Ratsfraktionen von FDP und SPD: Modellstadt für die kontrollierte Abgabe von Cannabis
+- TOP 40.9.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/254/2023
+- TOP 40.10: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Eintrittsvergünstigungen in der Kultur für Kinder und Jugendliche
+- TOP 40.11: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Vorkaufsrechte auch bei Share-Deals
+- TOP 40.12: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Qualität sichern – Sofortmaßnahme Anpassung Honorarrahmen für Bildungsangebote in der OGS im Schuljahr 2023/24
+- TOP 40.12.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/248/2023
+- TOP 41: Einführung des Deutschland-Tickets im Schülerverkehr - einstimmig beschlossen
