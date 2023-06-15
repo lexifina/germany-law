@@ -1,0 +1,57 @@
+# Rat (145. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-06-15T18:01:00+02:00
+- Ende: 2023-06-15T20:28:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVv-VcV6hoRHsh47RjIYP5w
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17805
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTjwMWePslf4684cnhxexW9r_QcvUORU7TCr1K7CRpsw/Bekanntmachung_Rat_15.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeyoOGSTTCpBAMv5pUozKXI_ns3aLCm0S3tBkPF5G1q7/Oeffentliche_Niederschrift_Rat_15.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 30.03.2023
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Genehmigung der Dringlichkeitsentscheidung Nr. 87/2003 "Aufhebung der ordnungsbehördlichen Verordnung zur Öffnung von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Emsdetten vom 06.04.2023" vom 21.04.2023 - 38 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.: Wahl des stellvertretenden Vorsitzes des Ausschusses für Infrastruktur und des Betriebsausschusses des Abwasserwerkes der Stadt Emsdetten - Einstimmig
+- TOP 6.: Umbesetzung und Besetzung von Gremien - Einstimmig
+- TOP 7.: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 8.: Betriebsabrechnung Straßenreinigung und Winterdienst 2022 - Zur Kenntnis genommen
+- TOP 9.: Betriebsabrechnung Abfallwirtschaft 2022 - Zur Kenntnis genommen
+- TOP 10.: Beitritt zur regio iT Beteiligungsgenossenschaft - Einstimmig
+- TOP 11.: Zuschuss zur Beschaffung eines Notstromaggregates durch den MHD für das Gebäude Amtmann-Schipper Str. 99 in Emsdetten - Einstimmig
+- TOP 12.: Zukunftsprozess Emsdetten_2038: Beschluss über strategische Ausrichtung - Einstimmig
+- TOP 13.: Fortschreibung des Handlungskonzeptes Wohnen für Emsdetten und Umgang mit der Einordnung Emsdettens als „Kommune mit einem angespannten Wohnungsmarkt“ - 11 Ja-Stimme(n), 28 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Klimaneutraler Konzern Stadt Emsdetten 2038 - Einstimmig
+- TOP 15.: Erweiterung und Sanierung der EMS-HALLE: Entwurfsplanung 2. BA mit Bauablaufplanung - 23 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Erweiterung der Feuer- und Rettungswache - Vorstellung der Entwurfsplanung - Einstimmig
+- TOP 17.: Hof Deitmar III – Anpassung Entwurfsplanung (Änderung Übergangsbereich EMS-HALLE) - Einstimmig
+- TOP 18.: Modernisierung der Straßenbeleuchtung - weiteres Vorgehen - Einstimmig
+- TOP 19.: Straßen- und Wegekonzept gemäß § 8a KAG NRW - Einstimmig
+- TOP 20.: Einführung von Tempo 30 auf dem Brookweg - 34 Ja-Stimme(n), 3 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 21.: Änderung des Regionalplans Münsterland Anpassung an den Landesentwicklungsplan Nordrhein-Westfalen (LEP NRW) und den Bundesraumordnungsplan für den Hochwasserschutz (BRPH) - Vorbereitung der Stellungnahme der Stadt Emsdetten zum Regionalplanentwurf - Zur Kenntnis genommen
+- TOP 22.: Freiflächen Stroetmanns Gelände - Festlegung des Planungsgebietes - Einstimmig
+- TOP 23.: Bebauungspläne
+- TOP 23.1: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 18. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 23.2: Bebauungsplan Nr. 82 "Hembergen-Hilgenbrink", 2. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 23.3: Bebauungsplan Nr. 8 H "Schulstraße", 5. Änderung und 1. Ergänzung - Satzungsbeschluss - Einstimmig
+- TOP 24.: I. Maßnahmenprogramm 2024 bis 2027 zum Integrierten Mobilitätskonzept - 38 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 25.: Verleihung des Heimatpreises der Stadt Emsdetten für 2023 und die Folgejahre - Einstimmig
+- TOP 26.: Aktualisierung der Benutzungs- und Gebührenordnung der Stadtbibliothek Emsdetten - 37 Ja-Stimme(n), 1 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 27.: Sportangelegenheiten
+- TOP 27.1: Sporthallenkonzeption für die Stadt Emsdetten - Einstimmig
+- TOP 27.2: Aktualisierung der Richtlinien zur Förderung des Sports in der Stadt Emsdetten - Einstimmig
+- TOP 27.3: Antrag der RC Car Freunde Emsdetten e.V. vom 28.02.2023 - Einstimmig
+- TOP 28.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 28.1: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) inkl. Änderung der Anlage 1 „Beitragstabelle“ zum 01.08.2024 - Abgesetzt
+- TOP 28.2: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) inkl. Änderung der Anlage 1 „Beitragstabelle“ zum 01.08.2024 - 28 Ja-Stimme(n), 11 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 28.3: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztags-schule (Elternbeitragssatzung) Hier: Änderung der Anlage 2 Richtlinien zur Förderung der Kindertagespflege zum 01.08.2023 - Einstimmig
+- TOP 28.4: Alltagshelferprogramm für Emsdettener Kindertageseinrichtungen - Einstimmig
+- TOP 28.5: Kindertageseinrichtung Kinderland am Baubetriebshof - Einstimmig
+- TOP 29.: Verschiedenes
