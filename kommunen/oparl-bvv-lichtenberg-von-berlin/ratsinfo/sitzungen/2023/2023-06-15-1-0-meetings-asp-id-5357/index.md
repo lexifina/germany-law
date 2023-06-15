@@ -1,0 +1,75 @@
+# 20. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-06-15T17:00:00+02:00
+- Ende: 2023-06-15T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5357
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5357
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=367317
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Standortfindung Taubenschlag am Bahnhof Lichtenberg - vertagt
+- TOP 3.2: Laufende Kosten für den Taubenschlag im Haushalt 2024/25 berücksichtigen - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Beratung für Opfer rechter Gewalt - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Berlin-Lichtenberg 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Namen für den westlichen Vorplatz am S-Bahnhof Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Die Gesundheit von Kindern im Kita-Alter mit einem Kindergesundheitsgipfel in den Fokus rücken - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Schulwegsicherheit an der Hauptstraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Erhöhung der Schulwegsicherheit an der Sonnenuhr-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Lärmschutzwände Hauffstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Geschwindigkeitsbegrenzung für einfahrende Trams am S-Bahnhof Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: BVV-Sondermittel zur Förderung des Projekts Stadtlichter 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: BVV-Sondermittel für das Tanzfestival TRIPTYCH – was uns bewegt - am 5./6.10.2023 im Kulturhus Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Fest am Rathaus Lichtenberg am 1. Mai - überwiesen
+- TOP 5.11: Humboldt-Prämie einführen - überwiesen
+- TOP 5.12: Natur erleben und verstehen - Naturlehrpfad am Malchower See errichten - überwiesen
+- TOP 5.13: Neue Hall of Fame in der Rummelsburger Bucht finanziell sichern - überwiesen
+- TOP 5.14: Ein Pilotprojekt für Sozialbegleiter:innen im Familienzentrum ansiedeln - überwiesen
+- TOP 5.15: Städtepartnerschaften auch in Neu-Hohenschönhausen sichtbar machen - überwiesen
+- TOP 5.16: Schallschutz an der U-Bahnlinie 5 zwischen Tierpark und Biesdorf verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Die Finanzierung der bezirklichen Antidiskriminierungsstelle für Schulen verstetigen - überwiesen
+- TOP 5.18: Aufstockungen enger durch die Bau- und Wohnungsaufsicht begleiten - überwiesen
+- TOP 5.19: Neue Bezirksverordnete der BVV auf eine frühere Stasi-Tätigkeit überprüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Dieses Mal richtigmachen: Transparente Kommunikation beim Schulneubau Rheinpfalzallee - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Instandsetzung des Straßenbelags in der Einbecker Straße - überwiesen
+- TOP 5.22: Fahrbahnquerung über die Waldowallee an der Wiesengrundstraße - überwiesen
+- TOP 5.23: Infrastrukturmaßnahmen im Dorf Malchow: Anliegerinteressen an der Dorfstraße wahren! - überwiesen
+- TOP 5.24: Öffentliche Toilette am neugestalteten Roedeliusplatz - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Grünfläche an der Gehrenseestraße schützen - überwiesen
+- TOP 5.26: Auf Brückenschäden hinweisen - überwiesen
+- TOP 5.27: Gehwegsanierung im Bereich Joachimsthaler Straße / Biesenthaler Straße in Hohenschönhausen - überwiesen
+- TOP 5.28: Erweiterung der Suchtprävention und Suchthilfeplanung im Bezirk Lichtenberg - überwiesen
+- TOP 5.29: Gutachten zur Verkehrsberuhigung - überwiesen
+- TOP 5.30: Selbstradikalisierung - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Vorstandsmitgliedes - im Ausschuss abgelehnt
+- TOP 8.3: Nachwahl einer/s stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss der Wahlperiode 2021-2026 - gewählt
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Aufwertung des öffentlichen Raumes rund um das Zentrum für an Tuberkulose erkrankte und gefährdete Personen - überwiesen
+- TOP 9.2: Dreckecke ade - BIM Fläche an der Massower Straße qualifizieren - überwiesen
+- TOP 9.3: Gib dem Müll keine Chance: Mehr Mülleimer für den Bereich um den U-Bahnhof Friedrichsfelde - überwiesen
+- TOP 9.4: Kultur- und Bildungszentrum Hohenschönhausen (KuBiz) in I-Planung absichern - überwiesen
+- TOP 9.5: Kulturwiese für Hohenschönhausen - überwiesen
+- TOP 9.6: Kiezbuslinie in der Frankfurter Allee Nord schnell realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Starke Mädchen - Mehr Mittel für Mädchensport und Mädchen-Selbstverteidigung - überwiesen
+- TOP 10: Beschlussempfehlungen der Ausschüsse (s. TOP 5.2 bis 5.7) - im Ausschuss abgelehnt
+- TOP 11: Anträge zur Beschlussfassung - (offen)
+- TOP 11.1: Ja zu Schulplätzen, ja zum MEB Oberseeschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Durchwegung Zwieseler Straße zum Richard-Kolkwitz-Weg sichern - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Milieuschutzgebiet in Hohenschönhausen prüfen - überwiesen
+- TOP 11.4: 30. Jahrestag des Abzugs der Westgruppe der Truppen aus Ostdeutschland - 30 Jahre Museum Karlshorst - überwiesen
+- TOP 11.5: Begutachtung für eine Erhaltungssatzung für den Fennpfuhl - überwiesen
+- TOP 12: Geschäftliche Mitteilungen und Vorlagen des Vorstandes - erledigt
