@@ -1,0 +1,118 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-06-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372306
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372306
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Neues Quartier an der Zschokke-/Westendstraße
+- TOP 1.2.2.: Wertstoffinsel Joergstr./Aindorferstr.
+- TOP 1.2.3.: Bauvorhaben Camerloherstr./Stroblstraße
+- TOP 2: Anträge
+- TOP 2.1.: Kinder- und Jugendbeauftragte: Familien- und Ferienpässe für Einrichtungen im Stadtbezirk Laim
+- TOP 2.2.: Kostenfreie Sperrmüllabholung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 09.04.18 Hier: Genehmigung einer Freischankfläche Fürstenrieder Str. 22
+- TOP 3.2.: (E) + (U) Frühere Ankündigung der Laimer Bürgerversammlung
+- TOP 3.3.: (E) Stadtbezirksbudget Bahn-Landwirtschaft Unterbezirk München-West e.V. Kindertag im Gartenverein am 27.06.2023 1.000,00 Euro, Az.: 0262.0-25-0298
+- TOP 3.4.: (E) Stadtbezirksbudget laim_up e.V. Migration in Laim vom 01.06. - 30.08.2023 5.500,00 Euro, Az.: 0262.0-25-0297
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 27.04.23: Landsberger Str. 328, Verlängerung des absoluten Haltverbotes Frist: 16.06.23
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 09.05.23: Landsberger Straße / Agricolastraße, Einrichtung von absoluten Haltverboten
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 17.05.23: Austausch Lichtsignalanlage Droste-Hülhoff-/Westendstraße
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 15.05.23: Veranstaltung im Freien in städtischer Grünanlage; hier: Am Laimer Anger, Kunstinstallation "Schwebendes Dach" des laim_up e.V. am 11.06.2023 (Ersatztermin 18.06.2023) von 14:00 bis 20:00 Uhr (Frist: 02.06.23)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 17.05.23: Laimer Fisch- und Markttage, 30.06.-09.07.23, Am Laimer Anger
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Indischer Tanz und Geschichtenerzähler am 17.06.23 Viebigplatz (laim_up e.V.)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Bildhauerperformance am 22.06.23 Burgkmairstraße (laim_up e.V.)
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Projektion am 01.07.23 Valpichlerstr. (laim_up e.V.)
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Bildhauerperformance am 09.07.23, Agricolaplatz (laim_up e.V.)
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Gemeinsames Tafeln am 15.07.23 Laimer Platz (laim_up e.V.)
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 22.05.23: Festival der Marionetten am Laimer Anger, 12.09.-22.09.23
+- TOP 4.13.: Schreiben Referat für Bildung und Sport vom 23.05.23: Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2023", geplant für den 04.07.2023, zur Stellungnahme
+- TOP 4.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.05.23: 2. Stammstrecke - PFA 1 - 28. Planänderung Rammarbeiten Laim nachts -Stellungnahme bis 23.06.23
+- TOP 4.15.: (N) Schreiben Kreisverwaltungsreferat vom 30.05.23: Kulturelle Veranstaltung im Freien in städtischer Grünanlage; hier: Sommerkonzerte des Bürgertreff Laim e.V., Am Laimer Anger, 3 Wochenenden 21.07.-20.08.2023; mit Aufbauten, Speisen + Getränken, Musikende 21 Uhr, PAX 300
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Dichtlstr. 8, Grundstück 1443/5-Pasing Änderungsantrag zu 1.2-2022-21174-23 - Neubau eines Einfamilienhauses als Anbau an ein Reihenhaus Frist: 05.06.23
+- TOP 5.2.: Landsberger Str. 364, Grundstück 240/13-Laim Ausbau Spitzboden + Neubau Außenaufzug Frist 16.06.23
+- TOP 5.3.: Willibaldstr. 51b, Grundstück 1436/65-Pasing Sanierung und Erweiterung eines bestehenden Wohnhauses, Anbau eines Wintergartens, Einbau von Dachflächenfenstern mit Balkon Frist: 16.06.23
+- TOP 5.4.: Landsberger Str. 289, Grundstück 292/29-Laim Nutzungsänderung und Ladenteilung zu Imbiss mit Lieferservice und Ladengeschäft Frist: 16.06.23
+- TOP 5.5.: Camerloherstr., Grundstück 171/3-Laim Neubau zweier Mehrparteienhäuser (ges. 8 WE) mit Reihenhäusern (ges. 3 WE) und einer TG (Camerloherstr. /Stroblstr.) Frist: 16.06.23
+- TOP 5.6.: Elsenheimerstr. 7, Grundstück 312/15-Laim Änderung von Brandschutzabschnitten und Reorganisation von Fluchtwegen in einem Gewerbegebäudekomplex sowie stellenweise Innenumbauten Frist: 16.06.23
+- TOP 5.7.: Von-der-Pfordten-Str. 19, Grundstück 4/16-Laim (Frist 22.06.23) Errichtung eines Rückgebäudes mit Garage und Dachgeschosswohnung
+- TOP 5.8.: Flotowstr. 16, Grundstück: 351/23-Laim (Frist: 22.06.23) Umbau / Umnutzung eines Zweifamilienhaus in ein Einfamilienhaus mit Garage
+- TOP 6: Sonstiges
+- TOP 6.1.: Nachtspaziergang in Laim
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 04.05.23
+- TOP 7.2.: Protokoll UA Bau vom 26.04.23
+- TOP 7.3.: Protokoll UA Kultur vom 18.04.23
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 25.04.23
+- TOP 7.5.: Protokoll nichtöffentliche Sondersitzung BA 25 vom 16.05.23
+- TOP 7.6.: Protokoll UA Mobilität vom 25.04.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 08.05.23: Veranstaltung im Freien in städtischer Grünanlage; SPD-Frühschoppen am Laimer Anger am 24.06.2023, 11-15:30 Uhr Hier: Eilentscheidung
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 08.05.23: Veranstaltung im Freien in städtischer Grünanlage; Fahrradsicherheitscheck am 14.6.2023 auf dem Laimer Anger Hier: Eilentscheidung
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 23.05.23: Ausnahmegenehmigung Fahrradsicherheitscheck am 14.06.23 Am Laimer Anger
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 03.05.23: Veranstaltung im Freien in städtischer Grünanlage; Familien-Flohmärkte Laimer Schlümpfe auf dem Hogenbergplatz; 13.05.23 (Ersatz 20.05.23); 16.09.23 (Ersatz 30.09.23) Hier: Eilentscheidung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 03.05.23: Genehmigungsbescheid Blade-Night 2023
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 19.05.23: Rückübertragung sondernutzungs- und gaststättenrechtliche Betreuung des Stadtbezirkes 25 Laim zur BI West
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 19.05.23: Antrag auf unveränderte Fortführung des Cafe San
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 11.05.23: Arbeiten im Straßenraum Gaishoferstr. 47 bis Einmündung Saherrstr., Saherrstr. 7-13, Saherrstr. 6
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 08.05.23: Austausch und Überplanung einer LSA am Standort Westend-/Fachnerstr.
+- TOP 8.10.: Schreiben Mobilitätsreferatt vom 27.04.23: VA Gotthardstr., Sperre Willibaldstr. Süd vom 15.05.23-30.05.23
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 04.05.23: 3. Änderung VA Gotthardstr./Mitterfeldstr. vom 08.05.-30.05.23
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 19.04.23: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Friedenheimer Str. 45
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 16.05.23: Projekt Saisonale Stadträume - Sommerstraßen und Parklets hier: Auswahl
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 19.05.23: Sachstand zur Umsetzung des Parklizenzgebiet Laim BV-Anfrage Nr. 20-26 / Q 00190 aus der BV 25 vom 18.10.22 hier: Antwortschreiben
+- TOP 8.15.: Schreiben Baureferat vom 02.05.23: Oberflächengestaltung Gotthardstraße
+- TOP 8.16.: Schreiben Baureferat vom 03.05.23: Laimer Röhre endlich für den Fußverkehr sicher machen
+- TOP 8.17.: Schreiben Baureferat vom 05.05.23: Baumfällungen Camerloherstraße
+- TOP 8.18.: Schreiben Baureferat vom 17.05.23: Kinderanliegen aus der Kinder-Einwohnerversammlung des BA 25 vom 25.11.2022
+- TOP 8.19.: Bautenliste 17.04.-23.04.23: A) Erstantragsverfahren 1. Friedenheimer Str. 44 2. Landsberger Str. 287b
+- TOP 8.20.: Bautenliste 24.04.-30.04.23: A) Erstantragsverfahren 1. Camerloherstr. 2. Elsenheimerstr. 7 3. Landsberger Str. 289 4. Willibaldstr. 51b B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 208
+- TOP 8.21.: Bautenliste 01.05.23-07.05.23: A) Erstantragsverfahren 1. Landsberger Str. 364 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Geisenfelder Str. 1
+- TOP 8.22.: Bautenliste 08.05.-14.05.23: A) Erstantragsverfahren 1. Von-der-Pfordten-Str. 19 2. Flotowstr. 16
+- TOP 8.23.: Bautenliste 15.05.-21.05.23: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Zschokkestr. 30
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.23: Fällungsgenehmigung Lutzstr. 27
+- TOP 8.25.: Schreiben Sozialreferat vom 25.04.23: Leerstand und Verfall eines Denkmals in Laim - Stöberlstraße
+- TOP 8.26.: Schreiben Sozialreferat vom 22.05.23: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2022
+- TOP 8.27.: Schreiben Mieterbeirat vom 02.05.23: Protokoll mit Anlagen vom 24.04.23
+- TOP 8.28.: Schreiben Stadtkämmerei vom 10.05.23: Mehrjahresinvestitionsprogramm 2023-2027
+- TOP 8.29.: Schreiben Referat für Klima- und Umweltschutz vom 16.05.23: Radeln für die Christbaumbeleuchtung Am Laimer Anger, BA-Antrag Nr. 04978
+- TOP 8.30.: Schreiben Referat für Klima- und Umweltschutz vom 24.04.23: Jahresgenehmigung nächtl. Mäharbeiten
+- TOP 8.31.: Schreiben Referat für Klima- und Umweltschutz vom 04.05.23: Ausnahmezulassung Weichenwartung Willibaldplatz vom 08.05.23-12.05.23
+- TOP 8.32.: Schreiben Gesundheitsreferat vom 11.05.23: Medizinkonzept der München Klinik
+- TOP 8.33.: Schreiben Bezirksausschuss 1 Altstadt-Lehel vom 24.04.23: Einhaltung der Fristen für BA-Anhörungen nicht gewährleistet
+- TOP 8.34.: Schreiben Polizeiinspektion 41 vom 08.05.23: Parkverbote in der Schäufeleinstraße
+- TOP 8.35.: Schreiben Münchner Forum vom 02.05.23: Stellungnahme Hochhausstudie
+- TOP 8.36.: Schreiben Münchner Forum vom 02.05.23: Stellungnahme zum Leistungsprogramm der MVG
+- TOP 8.37.: Schreiben SWM vom 28.04.23: U-Bahn-Bau in Laim / Fernwärmeleitung
+- TOP 8.38.: Schreiben SWM vom 20.04.23: Fernwärme-Projekt Valpichlerstr. 94
+- TOP 8.39.: Schreiben SWM vom 02.05.23: Geschäftsbericht 2022
+- TOP 8.40.: Schreiben SWM vom 07.05.23: Blade-Night 08.05.-11.09.23
+- TOP 8.41.: Schreiben SWM vom 14.05.23: Blade-Night Familien Strecke 29.05.23
+- TOP 8.42.: Schreiben SWM vom 08.05.23: Baumaßnahmen
+- TOP 8.43.: Schreiben SWM vom 22.05.23: Baumaßnahmen
+- TOP 8.44.: Beschluss der Vollversammlung vom 17.05.23: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 8.45.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.05.23: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 8.46.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.23: (U) Aktuelle Bauleitplanverfahren mit Bezug zu Allgemeinen Grünflächen Weiteres Vorgehen Anträge a) Auswirkungen der Übernahme des Bürgerbegehrens "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 Antrag-Nr. 20-26 / B 05279 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023 b) Sofortige Weiterführung des Gutachterverfahrens für das Projekt Rosenhof, Stephensonplatz / Bf. Perlach Antrag 20-26 / B 05281 des Bezirksausschusses 16 - Ramersdorf-Perlach vom 28.03.2023
+- TOP 8.47.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.23: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 8.48.: Beschluss der Vollversammlung vom 21.12.22: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: 1. Verkehrssituation um KITAS und Schulen (Vertagung in den UA Mobilität) 2. Umgestaltung Hönigschmidplatz (Vertagung in gem. UA Mobilität/UA Bau für Ortstermin, auch mit BA 20)
+- TOP 9.2.: Krähenfüttern Gotthardstraße / Reutterstraße (Weitergabe an Kreisverwaltungsreferat)
+- TOP 9.3.: Radabstelleinrichtung in der Friedenheimer Straße (Vertagung in den UA Mobilität)
+- TOP 9.4.: Fernwärme in der Camerloherstraße 125-127 (Einladung SWM in eine öffentl. BA-Sitzung)
+- TOP 9.5.: 1.Aufstellen von Mülleimern entlang der Friedenheimer Straße (Weiterleitung an Baureferat, Abt. Straßenunterhalt) 2. Umwandlung von Rasenflächen in Bienenweiden ((Weiterleitung an Baureferat, Abt. Gartenbau)
+- TOP 9.6.: Einrichtung von Lastenrad- und Fahrradparkplätzen (Vertagung in UA Mobilität)
+- TOP 9.7.: Durchsetzung eines Fahrradverbotes Gotthard-/Von-der-Pfordten-Str. (Weiterleitung an Mobilitätsreferat und PI 41)
