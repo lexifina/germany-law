@@ -1,0 +1,59 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2023-06-15T17:00:00+02:00
+- Ende: 2023-06-15T19:02:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-142
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-142
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-RAT-142
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-142
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-142
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bericht über die finanzielle Lage der Stadt Castrop-Rauxel hier: Auswertung des Finanzcontrollings zum Stichtag 30.04.2023
+- TOP 3: Sachstandsbericht Haushaltssicherungskonzept (Berichtsstichtag 31.12.2022)
+- TOP 4: Förderaufruf Zukunftsfähige Innenstädte und Ortszentren Nordrhein-Westfalen Hier: Fortführung Innenstadtmanagement und Übertragung auf die Lange Straße
+- TOP 5: Sanierungsmanagement "Links und Rechts der Emscher" - Verlängerung
+- TOP 6: Projekt "Nette Toilette" - Öffentliche WC-Anlagen in der Innenstadt
+- TOP 7: Antrag CDU-Fraktion vom 22.05.23_Buergerkoffer
+- TOP 8: Antrag CDU-Fraktion vom 22.05.23_Self_Service_Terminal
+- TOP 9: Antrag der CDU-Fraktion vom 22.05.2023_Parkplatzsituation am Hof Schulte-Rauxel
+- TOP 10: Beendigung der Patenschaft mit Neurode
+- TOP 10.1: Beendigung der Patenschaft für das Neuroder Heimattreffen
+- TOP 11: Antrag des Ratsmitglieds Notburga Henke vom 15.05.2023 Kostenlose Bereitstellung von Kondomen nebst aktionsbezogenen Additivartikeln in städtischen Einrichtungen mit Publikumsverkehr
+- TOP 12: Anfrage der CDU-Fraktion vom 22.05.2023_Lieferung von Verbrauchsmaterial und Instandhaltung
+- TOP 13: Bebauungsplan Nr. 246 "Gewerbegebiet Alte Brüninghauser Straße" (vormals "Gewerbegebiet Knepper") hier: a) Umbenennung des Bebauungsplans b) Anpassung des Geltungsbereichs c) Entscheidung über die Stellungnahmen nach § 3 Abs. 2 BauGB d) Entscheidung über die redaktionellen Änderungen und Ergänzungen e) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 14: Richtlinie für die Sonderförderung zum Rückbau von Schottergärten auf dem Gebiet der Stadt Castrop-Rauxel hier: Beschluss der Förderrichtlinie
+- TOP 15: "Bericht / Bedarfsplan 2022/2023 bis 2026/2027 - Tageseinrichtungen für Kinder in Castrop-Rauxel"
+- TOP 16: Anfrage Fraktion Die LINKE vom 15.05.2023_Anfrage zu den Abfällen im Rathaus
+- TOP 17: Fortsetzung des Projektes "Ausbau privater Photovoltaikanlagen in Castrop-Rauxel"
+- TOP 18: Antrag SPD-Fraktion und Bündnis 90 Die Grünen vom 22.05.2023_Gründungen-Nachfolge
+- TOP 19: Wirtschaftspolitisches Leitbild/Ansiedlungskompass
+- TOP 20: Antrag der FDP Fraktion vom 24.05.2023_Anbau einer Rampe am Lambertusplatz
+- TOP 21: Aufnahme des "Blinden- und Sehbehindertenvereins Recklinghausen e.V." als ordentliches Mitglied in den Ausschuss für Generation, Inklusion und Diversität
+- TOP 22: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90 / Die GRÜNEN vom 22.05.2023 _ Ausweisung von Parkflächen als "Generationenparkplatz"
+- TOP 23: Antrag CDU Fraktion vom 19.05.2023_Solidaritätspartnerschaft
+- TOP 24: Antrag der CDU Ratsfraktion vom 19.05.2023_Münsteraner Erklärung
+- TOP 24.1: Antrag der SPD Fraktion und B90/Die Grünen vom 13.06.2023_Münsteraner Erklärung
+- TOP 25: Antrag FWI Fraktion vom 22.05.2023_Ausschussumbesetzung Betriebsausschuss 1
+- TOP 26: Antrag der Fraktion B90/Die Grünen vom 30.05.2023_ Ausschussumbesetzung Wahlprüfungsausschuss und Wahl des Ausschussvorsitzes für den Ausschuss für Generationen, Inklusion und Diversität
+- TOP 27: Änderung zur Geschäftsordnung für den Rat der Stadt Stadt Castrop-Rauxel und seine Ausschüsse
+- TOP 27.1: Änderung zur Geschäftsordnung für den Rat der Stadt Stadt Castrop-Rauxel und seine Ausschüsse
+- TOP 28: Berufung und Entsendung einer/eines Vertreter*in und mehrerer persönlicher Vertretetenden de Stadtsportverbandes als sachkundige*r Einwohner*in
+- TOP 29: Berufung und Entsendung einer/eines Vertreter*in und mehrerer persönlicher Vertretetenden der Stadtteilvereine als sachkundige*r Einwohner*in
+- TOP 30: Gebührenbedarfsberechnung 2021 -Stadtentwässerung- und rückwirkender Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 31: Gebührenbedarfsberechnung 2022 -Stadtentwässerung- und rückwirkender Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 32: Antrag Fraktion Die LINKE vom 09.06.2023_Ausschussumbesetzung Ausschuss für Generationen, Inklusion und Diversität
+- TOP 33: Antrag der SPD Fraktion und Bündnis 90 / Die GRÜNEN vom 13.06.2023_Einführung des vergünstigten Deutschlandtickets für alle Schülerinnen und Schüler in Castrop-Rauxel
+- TOP 34: Antrag der CDU-Fraktion vom 15.06.2023_Umbesetzung Ausschuss Generationen, Inklusion und Diversität
+- TOP 35: Anfragen der Ratsmitglieder
+- TOP 36: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
