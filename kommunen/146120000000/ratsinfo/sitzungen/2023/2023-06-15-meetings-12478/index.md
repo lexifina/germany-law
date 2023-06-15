@@ -1,0 +1,80 @@
+# 51. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-06-15T16:00:00+02:00
+- Ende: 2023-06-15T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12478
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12478
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00689634.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Einwohnerfragestunde - erledigt
+- TOP 4: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - punktweise Ablehnung
+- TOP 5: Vorschlag und Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2024 bis 2028 - erneute Beratung
+- TOP 6: Neubesetzung Vorsitzende/-r des Umlegungsausschusses - gewählt
+- TOP 7: Nachbesetzung von Stellvertretern im Umlegungsausschuss - Zustimmung mit Ergänzung
+- TOP 8: Aufstellung der Vorschlagsliste für das Schöffenamt für die Amtsperiode 2024 bis 2028. - gewählt
+- TOP 9: Aufstellung der Vorschlagsliste für das Amt der ehrenamtlichen Richterin bzw. des ehrenamtlichen Richters beim Verwaltungsgericht für die Amtsperiode 2024 bis 2028 - gewählt
+- TOP 10: Umbesetzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 11: Umbesetzung des Ausschusses für Finanzen - Zustimmung
+- TOP 12: Umbesetzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Zustimmung
+- TOP 13: Umbesetzung des Ausschusses für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Zustimmung
+- TOP 14: Umbesetzung des Ausschusses für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 15: Umbesetzung des Ausschusses für Soziales und Wohnen - Zustimmung
+- TOP 16: Umbesetzung des Ausschusses für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Zustimmung
+- TOP 17: Umbesetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 18: Umbesetzung des Ausschusses für Wirtschaftsförderung - Zustimmung
+- TOP 19: Umbesetzung des Ausschusses für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Zustimmung
+- TOP 20: Umbesetzung des Ausschusses für Petitionen und Bürgerbeteiligung - Zustimmung
+- TOP 21: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 22: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 23: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - Zustimmung
+- TOP 24: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 25: Einführung des Deutschlandtickets als Jobticket für Beschäftigte und als Teil der Aufwandsentschädigung für Stadtratsmitglieder nach Entschädigungssatzung - Zustimmung mit Ergänzung
+- TOP 26: Smart-City-Strategie für die Landeshauptstadt Dresden und die Umsetzung der damit verbundenen modellhaften Umsetzungsmaßnahmen im Rahmen des Smart-City-Förderprojektes - Zustimmung
+- TOP 27: Fördernde Mitgliedschaft der Landeshauptstadt Dresden im Verein „Geo-Daten-Infrastruktur Sachsen e. V.“ Kurzform „GDI Sachsen“. - Zustimmung
+- TOP 28: Einzelhandels- und Zentrenkonzept der Landeshauptstadt Dresden, Fortschreibung 2022 - Zustimmung mit Änderung
+- TOP 29: Bebauungsplan Nr. 79.5, Dresden-Altstadt II Nr. 1 Johannstadt Nord/Fiedlerstraße - Zustimmung mit Änderung
+- TOP 30: Zuwendung zur Betreibung des Zschonergrundbades 2023 und 2024 - Zustimmung
+- TOP 31: Vorzugsvariante im Projekt „Blaues Band Geberbach“ und Fortführung der Planung - Zustimmung mit Ergänzung
+- TOP 32: Vertagungen aus der Sitzung vom 11.05.2023 - erledigt
+- TOP 32.1: Neubau der Schwimmhalle Dresden Klotzsche umsetzen - Betrieb aller Bäder dauerhaft sichern - punktweise Zustimmung mit Änderung
+- TOP 32.2: Bäderkonzept: Versprechen erfüllen – Die ganze Stadt im Blick - punktweise Zustimmung mit Änderung
+- TOP 32.3: Schwimmhalle Klotzsche für den Dresdner Norden unverzichtbar - punktweise Zustimmung mit Änderung
+- TOP 32.4: Eilantrag: Neubau der Schwimmhalle Klotzsche retten - punktweise Zustimmung mit Änderung
+- TOP 32.5: E-Petition Das Schwimmen im Norden darf nicht sterben! (Ersatzneubau Schwimmhalle Klotzsche) - Zustimmung
+- TOP 32.6: Zehn Jahre Bäder GmbH – Evaluierung und Perspektiven der Bäder in Dresden - Zustimmung
+- TOP 32.7: Zeitliche Erweiterung der Filmnächte am Elbufer - punktweise Zustimmung mit Ergänzung
+- TOP 32.8: Konzept zur Umsetzung der Istanbul-Konvention in der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 32.9: Aktualisierung und regelmäßige Berichterstattung zum Sanierungs- und Entwicklungskonzept Dresdner Sportstätten (SANEKO) - Zustimmung mit Ergänzung
+- TOP 32.10: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) - Ersetzung
+- TOP 32.11: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 32.12: Fahrradstraße am Kleinzschachwitzer Ufer - Ablehnung
+- TOP 32.13: Sanierung der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee – Maßnahmen zur Beschleunigung der Planfeststellung und zur Realisierung - punktweise Abstimmung
+- TOP 32.14: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 21 Uhr
+- TOP 32.15: Photovoltaik bei städtischen Gebäuden rasch ausbauen - Vertagung nach 21 Uhr
+- TOP 32.16: Luftbad Dölzschen - Vertagung nach 21 Uhr
+- TOP 32.17: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung nach 21 Uhr
+- TOP 32.18: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung nach 21 Uhr
+- TOP 32.19: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 21 Uhr
+- TOP 32.20: Tag der Krisenvorsorge - Notfall üben - Vertagung nach 21 Uhr
+- TOP 33: Beteiligung der Landeshauptstadt Dresden an der Dixie-Dörner-Stiftung - Vertagung nach 21 Uhr
+- TOP 34: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung eines Winterevents auf dem Dresdner Altmarkt - Vertagung nach 21 Uhr
+- TOP 35: E-Petition „Die Landeshauptstadt Dresden soll der Initiative 'Lebenswerte Städte durch angepasste Geschwindigkeiten' beitreten" - Ablehnung
+- TOP 36: Petition Bürgerbegehren für den Neustädter Markt - Zustimmung
+- TOP 37: Petition Rettet das Jugend-Öko-Haus im Großen Garten Dresden! - punktweise Zustimmung
+- TOP 38: E-Petition „Beförderung von Anwohnerinteressen bei der Einrichtung und dem Betrieb der Containersiedlung in Sporbitz" - Vertagung nach 21 Uhr
+- TOP 39: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung nach 21 Uhr
+- TOP 40: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten- Instandsetzungen langfristig planen - Vertagung nach 21 Uhr
+- TOP 41: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung nach 21 Uhr
+- TOP 42: Grundlagenermittlung für eine Elbquerung im Dresdner Osten - Vertagung durch Einreicher
+- TOP 43: Höhere Wassertemperatur in Dresdner Bädern - Ersetzung
+- TOP 44: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung nach 21 Uhr
+- TOP 45: EILANTRAG: Umgestaltung einer Fahrspur zur Umweltspur als befristeter Verkehrsversuch - Flügelweg zwischen der südlichen Tunnelausfahrt und der Raimundstraße in Altcotta - Vertagung nach 21 Uhr
