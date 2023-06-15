@@ -1,0 +1,59 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-06-15T18:30:00+02:00
+- Ende: 2023-06-15T20:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3116
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3116
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00141518.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00141518.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00141518.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Fragestunde für Einwohnende
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: 4. Änderung der Hundesteuersatzung der Stadt Grevenbroich vom 14.12.2010 - einstimmig beschlossen
+- TOP 6: Anpassung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule - mehrheitlich beschlossen
+- TOP 7: Kriterien für die Vergabe von Grundstücken (Antrag Nr.: 20/2023) - einstimmig beschlossen
+- TOP 8: Beratungspunkte Ausschüsse
+- TOP 8.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 8.1.1: 31. FNP Änd. Gesamtschule am Heyerweg - Beschluss nach § 6 BauGB - mehrheitlich beschlossen
+- TOP 8.1.2: 44. FNP Änd. Hundeschule Elfgener Dorfstraße - Aufstellung - einstimmig beschlossen
+- TOP 8.1.3: K 39 Aufstellung § 13a - mehrheitlich beschlossen
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Hunde(-steuer) in Grevenbroich - Kenntnisnahme
+- TOP 9.2: Evaluierung eines Konzeptes für eine digitale Rathauszeitung (Antrag Nr.:91/2022) - Kenntnisnahme
+- TOP 9.3: Gemeinsame Anfrage der FDP/UWG-Ratsfraktionen zur Situation der Freiwilligen Feuerwehr in Grevenbroich - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.2.1: Bolzplatz neben der Turnhalle am Jupp-Breuer-Stadion einrichten (Antrag Nr.:58/2023) - einstimmig beschlossen
+- TOP 10.2.2: Aufwertung der Basketballanlage am Schützenplatz in Kapellen (Antrag Nr.:59/2023) - einstimmig beschlossen
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: Kein Bürgerfrust durch lange Wartezeiten und umsonst genommene Urlaubstage mehr: Verbindliche Online-Terminvereinbarung im Bürgerbüro ermöglichen (Antrag Nr.:52/2023) - einstimmig beschlossen
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfragen der SPD-Fraktion
+- TOP 11.2: Anfragen der CDU-Fraktion
+- TOP 11.2.1: Verwendung der Mittel "Sofortprogramm zur Stabilisierung der Innenstädte und Zentren" (Anfrage Nr.:56/2023) - einstimmig beschlossen
+- TOP 11.2.2: Situation Neubau auf dem ehemaligen Gelände der Bäckerei Erschfeld in Langwaden (Anfrage Nr.:57/2023) - einstimmig beschlossen
+- TOP 11.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 11.3.1: Planungen für den Elsbach im Bereich Hammerwerk (Anfrage Nr.:53/2023) - einstimmig beschlossen
+- TOP 11.3.2: Standorte Unterkünfte für Flüchtlinge und perspektivische Realisierungsmöglichkeiten (Vorlage 516/2022/2)-Status (Anfrage Nr.:55/2023) - einstimmig beschlossen
+- TOP 11.3.3: Finanzielle Beteiligung der Kommunen am Ausbau erneuerbarer Energien gemäß EEG 2023 (Anfrage Nr.:54/2023) - einstimmig beschlossen
+- TOP 11.4: Anfragen der FDP-Fraktion
+- TOP 11.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 11.6: Anfragen der UWG-Fraktion
+- TOP 11.6.1: Vandalismus auf den städtischen Friedhöfen (Anfrage Nr.:51/2023) - einstimmig beschlossen
+- TOP 12: Gemeinschaftsanträge
+- TOP 13: Mitteilungen des Bürgermeisters
+- TOP 14: Hallenbad Neukirchen - mehrheitlich beschlossen
