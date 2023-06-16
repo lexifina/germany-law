@@ -1,0 +1,83 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-06-16T16:00:00+02:00
+- Ende: 2023-06-16T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 16.06.2023 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00186947.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 16.06.2023 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00186947.pdf
+- Wortprotokoll: Sitzungspaket RAT 16.06.2023 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00186947.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - beraten ohne Abstimmung
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Integrationsausschuss
+- TOP 5: Mitwirkung in anderen Gremien der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 6: Übertragung des Theodor-Schwann-Kollegs an den Rhein-Kreis Neuss - einstimmig zugestimmt
+- TOP 7: Grundsätze und Leitlinien für den Einsatz des Personals im außerunterrichtlichen offenen Ganztag - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 8: Gutachten bezahlbarer Wohnraum in Neuss 2039 - mehrheitlich zugestimmt
+- TOP 9: Wendersplatz - Weitere Schritte - mehrheitlich zugestimmt
+- TOP 10: Zweckgebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) zur Umsetzung von Zielen des Innenstadtstärkungsprogramms 2023 - einstimmig zugestimmt
+- TOP 11: Stadteingänge inkl. Lichtkonzept - Illumination St. Quirin - mehrheitlich zugestimmt
+- TOP 12: Frequenzsteigernde Maßnahmen Innenstadt - einstimmig zugestimmt
+- TOP 13: Bau einer Fahrrad-Sammelschließanlage am Nordeingang des Hauptbahnhofes - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 14: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2023/24 - einstimmig zugestimmt
+- TOP 15: Richtlinien für die Gewährung von Zuwendungen an die Träger der freien Jugendhilfe - einstimmig zugestimmt
+- TOP 16: Fachplanung Kindertagesbetreuung; hier: Bedarfsplan Kindertagesbetreuung 2023/2024ff - einstimmig zugestimmt
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 17: Umzug der Realschule Holzheim an den Schulstandort Gnadentaler Allee - mehrheitlich zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 18: Integriertes Klimaschutzkonzept (IKK) der Stadt Neuss: Fortschreibung 06/2023 - mehrheitlich zugestimmt
+- TOP 19: Umsetzung von Maßnahmenvorschlägen zur Klimaneutralität aus dem Klimabeirat - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 20: Instandsetzung der Entwässerung an den Spannbetonbauteilen der Brücke über den Verschiebebahnhof - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 21: VHS: Honorarerhöhungen und Entgelterhöhung der VHS Neuss - einstimmig zugestimmt
+- TOP 22: Änderung der Gebührenordnung der Stadtbibliothek - mehrheitlich zugestimmt
+- TOP 23: Änderung der Entgeltordnung des Kulturforum Alte Post - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 24: Aufstellung der Vorschlagsliste für die Wahl der Schöffinnen und Schöffen für die Wahlperiode 2024 - 2028 - einstimmig zugestimmt
+- TOP 25: Einstellung Betrieb St. Konrad-Bad und Sicherstellung des Lehrschwimmens - verwiesen
+- TOP 26: Antrag des Rheinischen Landestheaters Neuss auf Erhöhung der institutionellen Förderung - mehrheitlich zugestimmt
+- TOP 26.1: Einführung des Deutschlandtickets als Schülerticket - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 27: Antrag der AfD-Fraktion betr.: Rat verkleinern - Belastung der Bürger reduzieren - mehrheitlich abgelehnt
+- TOP 28: Antrag der CDU-Fraktion betr.: Städtische Veranstaltungssäle: Rabatte für Neusser Vereine - verwiesen
+- TOP 29: Antrag der Fraktionen von FRaktion JETZT! und UWG/Freie Wähler - Aktiv für Neuss betr.: Beflaggung des Rathauses mit der Friedensfahne - verwiesen
+- TOP 30: Antrag der Fraktionen von FRaktion JETZT! und UWG/Freie Wähler - Aktiv für Neuss betr.: Beitritt der Stadt Neuss zum Bündnis "Städte gegen Werbeflut" - mehrheitlich abgelehnt
+- TOP 31: Antrag der Fraktion Linke/Tierschutz betr.: Wartehäuschen/Wetterschutz mit Sitzgelegenheit Haltestelle "Alexianerplatz" - beraten ohne Abstimmung
+- TOP 31.1: Antrag der Fraktion Die PARTEI/DIE LINKE betr.: Financial Fairplay der Neusser Politik - mehrheitlich abgelehnt
+- TOP 31.2: Antrag der Fraktion Die PARTEI/DIE LINKE betr.: Prüfauftrag "Verbesserung der Rad- und Fußgängerwege auf der Düsseldorfer Straße. Mehr Sicherheit für schwächere Verkehrsteilnehmer und notwendige Maßnahmen für eine Verkehrswende!" - beraten ohne Abstimmung
+- TOP 31.3: Resolution der Fraktionen von CDU, SPD, Bündnis 90/Die Grünen und Die PARTEI/DIE LINKE betr.: Reduzierte Mehrwertsteuer für Gastronomen - mehrheitlich zugestimmt
+- TOP 31.4: Antrag der Fraktion Die PARTEI/DIE LINKE betr.: Arbeitsgruppe Museum Jetzt! - mehrheitlich abgelehnt
+- TOP 31.5: Antrag der Fraktion Linke/Tierschutz betr.: Zentrale Silvesterfeier statt privates Böllern - mehrheitlich abgelehnt
+- TOP 31.6: Dringlichkeitsantrag der Fraktion Linke/Tierschutz betr.: Gebührenordnung Anwohnerparkausweise - beraten ohne Abstimmung
+- TOP 31.7: Dringlichkeitsantrag der CDU-Fraktion betr.: Fehlende OGS-Plätze: kurzfristige Lösungen suchen - verwiesen
+- TOP -: Anfragen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 33: Konzeptauslobung sozialorientiertes Wohnen an der Augustinusstraße - Sachstandsbericht - zur Kenntnis genommen
+- TOP 34: Sachstand zu On-Demand-Verkehr und Mobilstationen - zur Kenntnis genommen
+- TOP 35: Sanierungsarbeiten in der Rathaus-Tiefgarage - zur Kenntnis genommen
+- TOP 36: Unterbringung von Asylbewerber*innen und Geflüchteten - zur Kenntnis genommen
+- TOP 37: Geschäfts- und Dezernatsverteilungsplan ab 01.07.2023 - zur Kenntnis genommen
+- TOP 38: Städtische Ausgaben für Schützenfeste - zur Kenntnis genommen
+- TOP 39: Genehmigungsverfügung des Rhein-Kreises Neuss zum Haushalt 2023 - zur Kenntnis genommen
+- TOP 40: Kostenfreies Straßenbahnfahren in der Neusser Innenstadt - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
