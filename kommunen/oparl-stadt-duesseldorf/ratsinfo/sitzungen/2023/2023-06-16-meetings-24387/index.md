@@ -1,0 +1,75 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-16T14:00:00+02:00
+- Ende: 2023-06-16T18:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24387
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24387
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 24.03.2023 - abweichend beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 05.05.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Bericht zum Projekt "Reduzierung von Störungen auf dem Worringer Platz" - zur Kenntnis genommen
+- TOP 4.2: Bericht zum Konzept UEFA EURO 2024 im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Zusammenführung der Volkshochschule in der Yorckstr. 19-21 - Empfehlung einstimmig beschlossen
+- TOP 4.5: Erhöhung der Zügigkeit der Thomas-Schule, Blumenthalstraße 11, um einen Zug zu einer dreizügigen Grundschule - Empfehlung einstimmig beschlossen
+- TOP 4.6: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an städtischen Grundschulen - Empfehlung einstimmig beschlossen
+- TOP 4.7: Barrierefreier Haltestellenumbau Merziger Straße - Empfehlung einstimmig beschlossen
+- TOP 4.8: Quartiersgarage Prinz-Georg-Str. 80 Clara-Schumann-Musikschule - Ergebnis der Machbarkeitsstudie - zur Kenntnis genommen
+- TOP 4.9: Orte der Erinnerung - Gedenk-Litfaßsäulen zur Erinnerung an ehemalige Geschäftsleute der Königsallee - zur Kenntnis genommen
+- TOP 4.10: Weihnachtsmarkt auf dem Münsterplatz vom 23.11.2023 bis 30.12.2023 - einstimmig beschlossen
+- TOP 4.11: „Design Classic Düsseldorf 2023„ in der Verkaufshalle des Blumengroßmarktes am Sonntag, dem 03.12.2023 - einstimmig beschlossen
+- TOP 4.12: Barrierefreier Umbau der Bushaltestelle 'Bankstraße', Steig 2, und Fällung eines Straßenbaumes - mehrheitlich beschlossen
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14: Nutzung des Ehrenhofes - Empfehlung einstimmig beschlossen
+- TOP 4.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.16: Fortführung Umsetzung stationsbasierter Sharing-Angebote in der Innenstadt (Bereich Hofgarten) - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Sanierung Außenbereich Kunsthalle - Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tempo 30 auf dem Kennedydamm Richtung Norden stadtauswärts - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Gestaltung der Karlstraße - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 6.2: Fußgängerinsel auf der Roßstraße – Höhe Frankenplatz - Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 6.3: Pläne zur Aufwertung der Fahrradstraße Bismarckstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - zur Kenntnis genommen
+- TOP 6.4: Neubau Moltkestraße 23 - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.5: Sauberkeit in der Schwerinstraße - Anfrage Peter Klein, Vertreter DIE LINKE - schriftlich beantwortet
+- TOP 6.6: Trinkwasserbrunnen auf dem Spielbereich auf dem Kolpingplatz - Anfrage Peter Klein, Vertreter DIE LINKE - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Einrichtung von Fahrradabstellanlagen Barbarastraße 2/3 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Schließung der Münstertherme im Sommer - überfraktioneller Antrag - mehrheitlich abgelehnt
+- TOP 7.3: Aufstellung einer Fahrradabstellbox auf der Liesegangstraße - überfraktioneller Antrag - abweichend beschlossen
+- TOP 7.4: Mobilstation im Bereich westliche Immermannstraße/Klosterstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Bordsteinabsenkungen in Golzheim - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Baumpflanzungen südlich des Carlsplatzes - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Differenzierte Betrachtung der Bäderlandschaft - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.8: Toilette auf dem Kolpingplatz - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.9: Anbringung einer Gedenktafel an der Fassade Flinger Straße 6 für den Düsseldorfer Architekten Bruno Schmitz - Antrag der CDU-Fraktion - vertagt
+- TOP 7.10: Bessere Beleuchtung am Ratinger Tor - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.11: Umgestaltung Alter Hafen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.12: Instandsetzung der Hochwasserschlange am Robert-Lehr-Ufer - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.13: Zwischenbericht „Sicherheit in der Düsseldorfer Innenstadt“ - Antrag von Peter Klein, Vertreter DIE LINKE - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Bebauungsplan Rather Straße, Spichernstraße, Geistenstraße; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/052/2023 - zur Kenntnis genommen
+- TOP 8.2: Bücherschrank auf dem Maria-und-Josef-Otten-Platz; Beschluss der Bezirksvertretung 1 vom 26.08.2022; BV1/186/2022 - zur Kenntnis genommen
+- TOP 8.3: Einrichtung einer E-Ladestation; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/108/2023 - zur Kenntnis genommen
+- TOP 8.4: Ausführungs- und Finanzierungsbeschluss für das Projekt „Erweiterung und Umbauten der GGS Rolandschule, Rolandstraße 40“; Beschluss der Bezirksvertretung 1 vom 05.05.2023; SCHUA/091/2022 - zur Kenntnis genommen
+- TOP 8.5: Ladezone am Carlsplatz; Beschluss der Bezirksvertretung 1 vom 24.03.2023; BV1/077/2023 - zur Kenntnis genommen
+- TOP 8.6: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.7: Begrünung von Rheinbahn Haltestellenhäuschen; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/034/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Verein der Freunde des Leibniz-Montessori-Gymnasiums e.V. - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Freie evangelische Gemeinde Düsseldorf - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e.V. - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an vision:teilen e.V. - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Hochschule Düsseldorf - mehrheitlich beschlossen
