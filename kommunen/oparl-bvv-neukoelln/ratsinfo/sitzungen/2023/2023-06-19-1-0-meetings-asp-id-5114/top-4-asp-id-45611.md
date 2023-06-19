@@ -1,0 +1,7 @@
+# TOP 4: Berichte aus den Ausschüssen
+
+- Sitzung: 35. öffentliche Sitzung der Fraktion der LINKEN (2023-06-19)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=45611
+- Ergebnis: (offen)
