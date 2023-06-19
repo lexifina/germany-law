@@ -1,0 +1,56 @@
+# Rat der Stadt Rheda-Wiedenbrück (18. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2023-06-19T17:02:00+02:00
+- Ende: 2023-06-19T20:49:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfiZLiyrePEBwPvkQZElQLI
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2611
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQd3BSGo_fWyLq2Fy9mNZhVdTf0I1ewwRy6b3brsdsGE/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_19.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVqJegtJTyjoi_glWQNwAfT90MO0kKRMRQr2kr_-8Yth/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_19.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Wahl einer Beigeordneten
+- TOP 4.1: Wahl einer Beigeordneten - 32 Ja-Stimme(n), 11 Nein-Stimme(n), 8 Enthaltung(en)
+- TOP 5: Gemeinsamer Antrag der Fraktionen Bündnis 90 / Die Grünen, SPD und Offene Liste - Resolution B61 - 23 Ja-Stimme(n), 6 Nein-Stimme(n), 22 Enthaltung(en)
+- TOP 5.1: Prozess zur Entwicklung der hauptamtlichen Feuer- und Rettungswache Antrag der Fraktionen CDU und MOVE - Übertragung des Rettungsdienstes an den Kreis Gütersloh - 37 Ja-Stimme(n), 11 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 6: Heimat-Preis NRW - Einstimmig
+- TOP 7: 17. Änderung der Hauptsatzung der Stadt Rheda-Wiedenbrück vom 09.11.1999 - 48 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 8: 1. Änderung der Geschäftsordnung für den Rat und die Ausschüsse vom 03.05.2021
+- TOP 8.1: 1. Änderung der Geschäftsordnung für den Rat und die Ausschüsse vom 03.05.2021 - 48 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 Satz 2 GO NRW Außerplanmäßige Mittelbereitstellung Brandschaden Georg-Nolte-Weg - 48 Ja-Stimme(n), 1 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 10: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 S. 2 GO NRW für eine überplanmäßige Verpflichtungsermächtigung eines investiven Haushaltsansatzes
+- TOP 11: Finanzcontrolling - Managementbericht zum 15. April 2023 - Kenntnisnahme
+- TOP 12: Satzung zur Aufhebung der Wettbürosteuersatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 13: Freigabe Zuschuss an das Museum Wiedenbrücker Schule - 47 Ja-Stimme(n), 3 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 14: Prüfung des Jahresabschlusses zum 31.12.2021; Beschlussempfehlungen an den Rat der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 15: EAW: Neufassung der Betriebssatzung
+- TOP 16: EAW: Ergänzung Wirtschaftsplan 2023 - Planung und Bau eines Fällmittelspeichers - Einstimmig
+- TOP 17: 1. Änderung des Bebauungsplanes Nr. 295 „Frentruper Straße“ Ergebnis der Beteiligung der Unterrichtung der Öffentlichkeit gem. § 13a Abs. 2 Nr. 1 BauGB i. V. m. § 13 Abs. 2 Nr. 1, 2 BauGB, der Öffentlichkeitsbeteiligung (Offenlage) nach § 3 Abs. 2 BauGB sowie der Behörden- und Trägerbeteiligung gem. § 4 Abs. 2 BauGB Satzungsbeschluss - Einstimmig
+- TOP 17.1: 102. Änderung des Flächennutzungsplanes und vorhabenbezogener Bebauungsplans Nr.12 „Solarpark St. Vit“ Beschluss der frühzeitigen Beteiligung - Einstimmig
+- TOP 18: Zulässigkeit von Photovoltaik- sowie Solarthermieanlagen auf Dachflächen im Bereich der Gestaltungssatzungen von Rheda und Wiedenbrück - Einstimmig
+- TOP 19: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 20: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 21: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 22: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 23: Erklärung von Ausschließungsgründen
+- TOP 24: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 25: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 26: Schöffenwahl 2023 - Aufstellung der Vorschlagsliste zur Wahl der Schöffinnen und Schöffen für die Amtsperiode vom 01.01.2024 bis 31.12.2028 - Einstimmig
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Vertragsangelegenheit
+- TOP 28.1: Vertragsangelegenheit - Einstimmig
+- TOP 29: Vertragsangelegenheiten - Einstimmig
+- TOP 30: Vertragsangelegenheit - 49 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 31: Vertragsangelegenheiten
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
