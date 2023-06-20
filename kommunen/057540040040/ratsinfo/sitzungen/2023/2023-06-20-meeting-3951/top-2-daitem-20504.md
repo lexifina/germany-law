@@ -1,0 +1,7 @@
+# TOP 2.: Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW
+
+- Sitzung: Rat (20. Sitzung) (2023-06-20)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/20504
+- Beschluss (Datei): Infotext (Bericht der Bürgermeisterin gemäß § 55 Abs.1 Gemeindeordnung NRW) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWmg_vgrQROoj1fKhYcquUHJIaZOCijPXIdgVSkZKbg/Infotext_TOP_2._-oeffentlich-_Rat_20.06.2023.pdf
