@@ -1,0 +1,54 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-20T17:00:00+02:00
+- Ende: 2023-06-20T19:50:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24084
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24084
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489543.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489543.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00489543.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Projekt "ZUHÖR.Bank" - Berichterstattung durch Frau van Betteray von "Zuhören-Draussen-Düsseldorf - - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Aktualisierung von beschlossenen schulorganisatorischen Maßnahmen an städtischen Grundschulen - Empfehlung einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Roll-out neue Stromzähler - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Elternbesuchsdienst im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Angebote in den Düsselferien im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.4: Befristete Beschäftigungen an Grundschulen - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Nachfrage zur Nutzung des Lehrschwimmbeckens an der Stettiner Straße - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Ausbau von Fern- und Nahwärme im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.9: Bearbeitungszeit von Förderanträgen aus dem Klimaschutzprogramm - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Schattenspendende Bäume an der Spielwiese vor der Grundschule Ingeborg-Bachmann-Straße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 7.2: Reinigung des Grünstreifens und des Gleisbettes der S-Bahnhöfe Düsseldorf-Garath und Düsseldorf-Hellerhof - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Verkehrsregulierung auf dem Dammweg durch die Urdenbacher Kämpe zwischen Garath und Urdenbach - Antrag der SPD-Fraktion - - mehrheitlich beschlossen
+- TOP 7.4: Perspektiven der Stadtteilzentren in Garath und Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Toilettenpapier an den Schulen im Bezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Instandsetzung der Fuß- und Radwege Garath/Hellerhof - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.7: Konzept für ein Wärmenetz im Stadtbezirk 10 - Antrag der SPD-Fraktion - - mehrheitlich abgelehnt
+- TOP 7.8: Ausbau der Ladeinfrastruktur für Elektroautos im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - mehrheitlich beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Urdenbacher Acker, Sanierung (I-2030713022)", Ratsbeschluss SEBD/030/2022 - Informationsvorlage zum Beschluss BV10/038/2023 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
