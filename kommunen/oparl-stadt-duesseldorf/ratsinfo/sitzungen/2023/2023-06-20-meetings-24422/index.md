@@ -1,0 +1,70 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-06-20T17:00:00+02:00
+- Ende: 2023-06-20T18:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24422
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24422
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung vom 25. April 2023* - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2023 - einstimmig beschlossen
+- TOP 15: Trödelmärkte auf dem Messeparkplatz P1 im 2. Halbjahr 2023 - einstimmig beschlossen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 (Liste B), Überarbeitung eines Kunstobjektes im Nordpark von E. Reusch - einstimmig beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, Förderung Dritter (Liste C) - Haushalt 2023, Strom- und Wasseranschluss im Lantz'schen Park - einstimmig beschlossen
+- TOP 18: Haushaltsmittel 2023 - Zuschüsse und Zuwendungen (Liste D) - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen**
+- TOP 19: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? - beantwortet
+- TOP 20: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - vertagt
+- TOP 21: Rheinuferweg Kaiserswerth - Alternativen für einen konfliktreduzierten Rad- und Fußweg - beantwortet
+- TOP 22: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 23: Wie wichtig ist uns die Sicherheit unserer Kinder im Straßenverkehr? Erneute Anfrage zu den Kreuzungsbereichen Mühlenacker/Klosekamp und Wittgatt/Fritz-Köhler-Weg - beantwortet
+- TOP 24: Warum wird der Ortskern Angermund von der Stadtverwaltung seit 5 Jahren sträflichst vernachlässigt? - beantwortet
+- TOP 25: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 26: Tempo 30-Beschilderung vor Kindergärten und Schulen - vertagt
+- TOP 27: Lichtsignalanlage Niederrheinstraße/Leuchtenberger Kirchweg - vertagt
+- TOP 28: Welche Folgen haben die Neubaugebiete im Stadtbezirk für die Wassergewinnung? - beantwortet
+- TOP -: Neue Anfragen
+- TOP 29: Verkehrssicherheit am Freiligrathplatz - beantwortet
+- TOP 30: Frauen in die Politik - beantwortet
+- TOP 31: Wie lange beeinträchtigen die Brückenbauarbeiten noch den Verkehr auf der B8? - beantwortet
+- TOP 32: Störung der Nachtruhe durch extensive Nutzung der Ersatzbahn und einer Nachtbaustelle - beantwortet
+- TOP 33: Flughafen Düsseldorf - Erreichbarkeit der Lärmbeschwerdestelle - beantwortet
+- TOP 34: Fluglärm und Kapazitätserweiterung - beantwortet
+- TOP 35: Piktogramme "Kinder" vor der Internationalen Schule und den Kita-Einrichtungen an der Niederrheinstraße - vertagt
+- TOP 36: Neubau der Feuerwache Kaiserwerth: Haushaltsdisziplin und Kosten von rund 13 Millionen Euro - beantwortet
+- TOP 37: Erneut: Sanierung und Instandsetzung der Straße und des Parkplatzes am Freiheitshagen - beantwortet
+- TOP 38: Seit einem JAHRZEHNT: Keine ausreichende Nahversorgung in Kaiserswerth! - beantwortet
+- TOP 39: Rheinbahn - Planungen zur Fußballeuropameisterschaft 2024 im Stadtbezirk 5 - vertagt
+- TOP 40: Park & Ride Parkplatz Froschenteich - vertagt
+- TOP 41: Übermäßige Nutzung der Ausweichbahn des Flughafens Düsseldorf in den Nachtstunden verbunden mit unrechtmäßiger Lärmbelästigung der Anwohner*Innen? - beantwortet
+- TOP 42: Stand des naturnahen Ausbaus des Kittelbaches als U81 Kompensationsmaßnahme? - vertagt
+- TOP 43: Energiewende im Düsseldorfer Norden – Kommunale Wärmeplanung im Stadtbezirk 5 - beantwortet
+- TOP 44: Wiederholte Anfrage zur Schulwegsicherung in Wittlaer - Wie wichtig ist dem Amt für Verkehrsmanagement die Sicherheit unserer Kinder im Straßenverkehr? - vertagt
+- TOP -: Anträge
+- TOP 45: Begegnungsverkehr auf dem Leuchtenberger Kirchweg entschärfen - Verkehrssicherheit für alle Verkehrsteilnehmer verbessern! - einstimmig beschlossen
+- TOP 46: Aufstellung von Hinweisschildern bzw. Wegweisern zur Stadtteilbücherei Kaiserswerth - mehrheitlich abgelehnt
+- TOP 47: Umkleideräume und Duschbereich des TV Kalkum Wittlaer - einstimmig beschlossen
+- TOP 48: Eingeschränktes Parken in Lohausen gegen Flughafenparker - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 49: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 50: Verschiedenes
+- TOP 51: Dringlichkeitsantrag: Situation rund um den Anker auch in Zukunft verträglich gestalten – Gemeinsamer Austausch mit Anliegern, Verwaltung, Schulen und Politik - einstimmig beschlossen
