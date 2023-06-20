@@ -1,0 +1,183 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 16.05.2023
+- TOP 1.3.2.: Oktoberfest 2023 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse; Anhörung
+- TOP 1.3.3.: Stadtteilbroschüre: Vorstellung durch den Verlag
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Düppeler Str. 19 - Errichtung eines Einfamilienhauses mit Einliegerwohnung
+- TOP 2.2.2.: Marienwerderstr. 11 - Neubau von zwei MFH und einem DH mit TG (Marienwerderstr. 11-13 / Masurenstr. 5) - VORBESCHEID
+- TOP 2.2.3.: Hochstiftsweg - Neubau von Mehrfamilienhäusern (Haus 1 - 4 in WA 3) sowie von Gebäuden mit Wohnungen in Form von Wohnen zum Zweck und für Zwecke der Altenpflege mit erdgeschossigem Gewerbe (Haus 5 - 10 in MK 1) sowie einer Tiefgarage (in WA 3 + MK 1) - GENEHMIGUNGSVERLÄNGERUNG (vertagt in der Sitzung 05/2023)
+- TOP 2.2.4.: Stefan-George-Ring 2 - MK3 - Zamilapark - Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen (Var. A), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen und Gewerbe (Var. B), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnraumnutzungen, Gewerbe mit Einzelhandel (Var. C) - VORBESCHEID (vertagt in der Sitzung 05/2023)
+- TOP 2.2.5.: Ennemoserstr. 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.6.: Donaustr. 2 - Neubau zweier Mehrfamilienhäuser (insg. 10 WE) mit Tiefgarage und Carlift (Donaustr. 2 / Scheinerstr. 10)
+- TOP 2.2.7.: Cosimastr. 204 - Neubau Interimsmaßnahme Kindertagesstätte St. Thomas Apostel
+- TOP 2.2.8.: Teutonenstr. 23 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 2.2.9.: Einwände gegen das Planfeststellungsverfahren Tram Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.2.10.: Antrag zur vollständigen Beibehaltung der Daglfinger Straße bei Bahnausbau; Anliegen aus der Bürgerschaft
+- TOP 2.2.11.: Vollmannstr. 34 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 2.2.12.: Ismaninger Str. 73 - Erweiterungsanbau in 3 Obergeschossen über best. Erdgeschosstrakt
+- TOP 2.2.13.: Morgenrothstr. 20 - Dachgeschossausbau zur Wohnnutzung und Anbau eines Wintergartens
+- TOP 2.2.14.: Evastr. 3 - Neubau zweier Doppelhäuser mit 4 Garagen - ÄNDERUNGSANTRAG zu 1.23-2022-1463-31 - hier: Errichtung einer Einliegerwohnung, einer Abgrabung an der Gebäudenordseite und eines untergeordneten Balkons an der Südseite (jeweils bei Haus 1 + 2) sowie Änderungen der Garagen- und Stellplatzsituation
+- TOP 2.2.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.16.: Verschiedenes, Termine
+- TOP -: Baumfällungen lt. Plan
+- TOP 1.: Max-Zenger-Str. 11a - ÄNDERUNGSANTRAG zu 1.23-2023-4829-31 - Errichtung eines Außenschwimmbades mit Gartenhaus und Kelleraußentreppe
+- TOP 2.: Düppeler Str. 19 - Errichtung eines Einfamilienhauses mit Einliegerwohnung
+- TOP 3.: Marienwerderstr. 11 - Neubau von zwei MFH und einem DH mit TG (Marienwerderstr. 11-13 / Masurenstr. 5) - VORBESCHEID
+- TOP 4.: Ennemoserstr. 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 5.: Donaustr. 2 - Neubau zweier Mehrfamilienhäuser (insg. 10 WE) mit Tiefgarage und Carlift (Donaustr. 2 / Scheinerstr. 10)
+- TOP 6.: Cosimastr. 204 - Neubau Interimsmaßnahme Kindertagesstätte St. Thomas Apostel
+- TOP 7.: Teutonenstr. 23 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 8.: Vollmannstr. 34 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 9.: Ismaninger Str. 73 - Erweiterungsanbau in 3 Obergeschossen über best. Erdgeschosstrakt
+- TOP 10.: Morgenrothstr. 20 - Dachgeschossausbau zur Wohnnutzung und Anbau eines Wintergartens
+- TOP 11.: Evastr. 3 - Neubau zweier Doppelhäuser mit 4 Garagen - ÄNDERUNGSANTRAG zu 1.23-2022-1463-31 - hier: Errichtung einer Einliegerwohnung, einer Abgrabung an der Gebäudenordseite und eines untergeordneten Balkons an der Südseite (jeweils bei Haus 1 + 2) sowie Änderungen der Garagen- und Stellplatzsituation
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Prinzregentenstraße (östlich Luitpoldbrücke): Entschärfung Konfliktpunkt Fahrradfahrer / Fußgänger - Erinnerungsverfahren; Anhörung des Baureferats
+- TOP 2.3.2.: Gemeinsames Rad(vorrang)-Netz-Hearing mit den BA 13, 14, 15 und 16
+- TOP 2.3.3.: Auffangampel von der A94 in die Prinzregentenstraße; Antrag der CSU-Fraktion
+- TOP 2.3.4.: Lärmoptimierte Asphaltdeckschichten für Bogenhausens Straßen; Antrag der CSU-Fraktion
+- TOP 2.3.5.: Verlängerung der U-Bahnline 4 nach Englschalking - Fragen zur zukünftigen Baustellensituation; Antrag der CSU-Fraktion
+- TOP 2.3.6.: Radwegverbindung zwischen Gewerbegebiet Grasbrunner Straße und Schatzbogen; Antrag der CSU-Fraktion
+- TOP 2.3.7.: Kreuzung Richard-Strauss-Str. /Schreberweg: Errichtung einer Fahrradampel; Antrag der Freien Wähler
+- TOP 2.3.8.: Erinnerung an den verkehrsberuhigten Bereich in der Hagelstangestraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Überschwemmungen am Daglfinger Bahnhof; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Einwände gegen das Planfeststellungsverfahren Tram Johanneskirchen; Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.12.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Isarlust e.V. Kunstprojekt und Reallabor "A River Happening" von Mai - November 2023 5.000,00 Euro, Az.: 0262.0-13-0358
+- TOP 2.4.2.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 30.10.-03.11.2023 5.857,00 € / AZ.0262.0-13-0380
+- TOP 2.4.3.: (E) Stadtbezirksbudget Initiative "Wildbienen" “Wildbienen im PEP, Biodiversität im PEP“ vom 20.06-31.07.2023 1.550,00 € / AZ.0262.0-13-0374
+- TOP 2.4.4.: (E) Stadtbezirksbudget Evangelische Jugend München (ev. Luth. Dekanatsbezirk München) Sommerfest im 13er am 08.07.2023 3.835,00 € / AZ. 0262.0-13-0373
+- TOP 2.4.5.: (E) Stadtbezirksbudget Thteater des hölzernen Gelächters Sommertheaterproduktion 2023 von Juni bis Oktober 2023 2.200,00 € / Az. 02620.-13-0371
+- TOP 2.4.6.: (E) Stadtbezirksbudget KJR München-Stadt im BJR (SBZ Fideliopark) Stadtteilfest Bogenhausen am 01.07.2023 2.840,00 € / Az. 0262.0-13-0375
+- TOP 2.4.7.: (E) Stadtbezirksbudget KJR München-Stadt Demokratiemobil München – auf dem Sommerfest im 13er am 08.07.2023 800,00 € / Az. 0262.0-13-0377
+- TOP 2.4.8.: (E) Stadtbezirksbudget Vereinsgemeinschaft 29 e.V. Feier anlässlich 40 Jahre VG 29 am 16.07.2023 9.900,00 € / Az. 0262.0-13-0379
+- TOP 2.4.9.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation-Konflikthilfe in Schulen vom 12.09.2023-01.08.2024 4.000,00 € / AZ.0262.0-13-0382
+- TOP 2.4.10.: (E) Stadtbezirksbudget Deutsche Lebens-Rettungs-Gesellschaft Ortsverband München-Oberföhring e.V. "Instandsetzung der Lichttechnik im Jugendraum des OV der DLRG" 2.405,69 € /AZ.0262.0-13-0381
+- TOP 2.4.11.: (E) Stadtbezirksbudget Zombie Sessions e.V. Scheinbar Grell Festival am 08.07.2023 18.172,00 € / Az. 0262.0-13-0367
+- TOP 2.4.12.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen - Änderung der BA-Satzung; Anhörung des Direktoriums
+- TOP 2.4.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.14.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Erläuterung Schulversorgung im Zusammenhang mit dem Projekt Marienburger Straße - Vorstellung durch Vertreter*innen des Referats für Stadtplanung und Bauordnung sowie des Referats für Bildung und Sport -
+- TOP 2.5.2.: Schul- und Kitabauoffensive – Sachstandsbericht 2023 - Entwurf - Anhörung des Referats für Bildung und Sport
+- TOP 2.5.3.: Runder Tisch zur geplanten Zusammenlegung der Mittelschulen Wörthstr. und Weilerstr.; Anhörung des Referats für Bildung und Sport (Fristverlängerung bis 21.06.23 gewährt)
+- TOP 2.5.4.: Vorstellung der geplanten Pavillons für die Knappertsbuschschule; Antrag der CSU-Fraktion
+- TOP 2.5.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.6.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Ausbau des Fernwärmenetzes; Antrag der CSU-Fraktion
+- TOP 2.6.2.: Errichtung einer zweiten Tischtennisplatte am Böhmerwaldplatz; Anliegen aus der Bürgerschaft
+- TOP 2.6.3.: Mehr Geld in Fernwärme und erneuerbare Energien investieren; Antrag der SPD-Fraktion
+- TOP 2.6.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.5.: Verschiedenes, Termine
+- TOP -: Baumfällungen (Anhörungen)
+- TOP 1.: Gemingstr. 11
+- TOP 2.: Oberföhringer Str. 30
+- TOP 3.: Thomaßstr. 2 (Gefahrenbaum bereits gefällt)
+- TOP 4.: Flemingstr. 16a
+- TOP 5.: Morgenrothstr. 20
+- TOP 6.: Memeler Str. 61 - Eilentscheid: Fällgenehmigung bereits erteilt
+- TOP 7.: Opitzstr. 2
+- TOP 8.: Pienzenauerstr. 88
+- TOP 9.: Pachmayrpl. 14
+- TOP 10.: Oberschlesische Str. 20
+- TOP 11.: Oberföhringer Str. 103 (Eilentscheid)
+- TOP 12.: Oberföhringer Str. 218
+- TOP 13.: Mauerkircherstr. 94
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Veranstaltung in städtischen Grünanlagen (Bürgermeistergarten) hier: Kindergarten Sommerfest am 14.07.2023; Anhörung des Kreisverwaltungsreferats (vertagt aus der Sitzung 05/23)
+- TOP 2.7.2.: Oberföhringer Str. 156 (Bürgerpark Oberföhring): "interdisziplinäres Sommerfest - ScheinbarGrell" am 08.07.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.3.: Sommerfest des Kleingartenvereins Nr. 3 am 22.07.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Kündigung der Grillstation an der Ecke Freischützstr./ Johanneskirchenerstr.; Antrag der ÖDP/DaCG
+- TOP 2.7.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.6.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Deutliche Erhöhung der Baumnachpflanzungen bei Einzelfällanträgen
+- TOP 6.2.: Ruth-Drexel-Schule aufstocken
+- TOP 6.3.: Beschwerde über den Zustand des Daglfinger Bahnhofs
+- TOP 6.4.: Erhalt der Dienstbarkeit für die Aufbahrungsräume am Friedhof St. Lorenz in Oberförhring
+- TOP 6.5.: Eichhörnchen schützen durch kostengünstige, einfache Maßnahmen
+- TOP 6.6.: Antrag auf einen Elektroanschluss am Maria-Nindl-Platz für den Wochenmarkt
+- TOP 6.7.: Einbau eines Stromanschlusses für einen Wochenmarkt am Maria-Nindl-Platz
+- TOP 6.8.: Fahrradstraße am Beginn der Johanneskirchner Straße
+- TOP 6.9.: Verkehrsberuhigung der Johanneskirchner Straße zwischen der Oberföhringer Grundschule und des Hauses für Kinder in der Else-Lasker-Schüler-Straße
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.1.1.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen - Schreiben des Oberbürgermeisters
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Schadstoff- und Lärmbelastung am Spielplatz Roecklplatz Empfehlung Nr. 14-20 / E 01254 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 7.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 7.3.2.: Brodersenstraße (Kreuzung mit der Glücksburger Straße und Kunihohstraße): Widerruf des „Vorfahrt gewähren“ (Z. 205 StVO) an östl. und westl. Einmündungen, Einführung von Stoppschildern „Halt. Vorfahrt gewähren“ (Z. 206 StVO)
+- TOP 7.3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Ismaninger Str. 69 e
+- TOP 7.3.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Brucknerstr. 22
+- TOP 7.3.5.: Richard-Strauß-Str. 101 (Westseite der Denninger Str. 105): Errichtung von Längsparkplätzen und Einrichtung von Kurzzeitparken
+- TOP 7.4: Kommunalreferat
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft: Erwerb einer Kindertageseinrichtung, Flst. 439/29 Oberföhring, Eugen-Jochum-Str. 20
+- TOP 7.4.2.: Müllablagerungen neben den Containern in der Elektrastrasse 50 - Antwort der AWM
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Gaststätte "Poseidon New", Rennbahnstr. 5 - Vereinswirtschaft "Pizzeria St. Emmeram", Freischützstr. 40
+- TOP 7.5.2.: Prinz-Eugen-Park: "Bürgerfest" am 08.07.2023; Anhörung des Kreisverwaltungsreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.5.3.: Änderung des Baugenehmigungsverfahrens für Schanigärten über 40 m²
+- TOP 7.5.4.: Veranstaltung auf öffentlichem Verkehrsgrund und in städtischer Grünanlage: Geschlossene Rad-Gruppenfahrt im Verband im Riemer Park am 17.06.2023 - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Lamontstr. 13
+- TOP 7.7.2.: Schimmelweg 7 a
+- TOP 7.7.3.: Stradellastr. 6
+- TOP 7.7.4.: Memeler Str. 61
+- TOP 7.7.5.: Sozialräumliche Studie zu Nutzungsmustern in öffentlich zugänglichen Freiräumen im Zuge des soziodemographischen Wandels „Mensch im Mittelpunkt“
+- TOP 7.7.6.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 7.7.7.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 7.7.8.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 7.7.9.: Anforderungen von Bauvorhaben durch den BA13; Rückmeldung der LBK
+- TOP 7.7.10.: Oberföhringer Str. 103, Eilentscheid
+- TOP 7.7.11.: Thomaßstr. 2
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Vollzug der Zweckenfremdungssatzung: - Eylauer Str. 13
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Mehrjahresinvestitionsprogramm 2023 - 2027 - Abdruck der Stellungnahme des BA 13
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
