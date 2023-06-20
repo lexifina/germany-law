@@ -1,0 +1,161 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2023-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7508799
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7508799
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 2.4: Wahl Vorsitz Unterausschuss Kultur - vertagt aus 05/2023 -
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) + (U) Temporäre Haltverbote bei privaten Baumaßnahmen Empfehlung Nr. 20-26 / E 00052 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.0610.2021
+- TOP 3.1.2.: Entscheidung über die Einrichtung einer Sommerstraße in der Blutenburgstraße zwischen Nymphenburger Straße und Landshuter Allee – temporäre Einrichtung eines verkehrsberuhigten Bereichs vom 28.06.2023 bis voraussichtlich 29.08.2023
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: Verkehrsberuhigung der Dom-Pedro-Straße zu Merianstraße
+- TOP 3.2.2.: Schleichweg Johann-Schmaus-Straße / Braganzastraße
+- TOP 3.2.3.: Unsinniger Schilderwald
+- TOP 3.2.4.: Geparkte Leichtanhänger
+- TOP 3.2.5.: Vorschlag für eine Beschriftung beim "Canaletto" - Fuß- und Radweg
+- TOP 3.2.6.: Radweg zwischen Friedenheimer Brücke und Backstage
+- TOP 3.2.7.: Mobilität am Hirschgarten Verfügbarkeit aus dem absoluten Halteverbot und vom Gehweg
+- TOP 3.2.8.: Krafträder blockieren Gehweg auf Höhe Wirtshaus Königlicher Hirschgarten
+- TOP 3.2.9.: Zugeparkte Gehwege in der Simeonistraße
+- TOP 3.2.10.: Neugestaltung Kreuzung Schulstraße / Nymphenburger Straße
+- TOP 3.2.11.: Grünen-Fraktion: Antrag - Besserer Schutz für den Fußverkehr an den Kreuzungen Gern, Klugstraße
+- TOP 3.2.12.: Antrag - 5. Paket: Mehr Fahrradstellplätze für die Bürger*Innen in Neuhausen-Nymphenburg dazu: 3 Bürgeranliegen für Fahrradstellplätze in der Südlichen Auffahrtsallee
+- TOP 3.2.13.: SPD-Fraktion: Antrag - Einmündung Alfonsstraße/Nymphenburger Straße sicherer machen
+- TOP 3.2.14.: SPD-Fraktion: Antrag - Landshuter Allee Tunnel besser nutzen: Auf- und Abfahrtsmöglichkeit zur Arnulfstraße
+- TOP 3.2.15.: Parken im Parklizenzgebiet Apostelblöcke
+- TOP 3.2.16.: Schulweg Verkehrssituation Menzinger Straße (Bereich Maria-Ward-Straße bis Nördliche Auffahrtsallee)
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: 2. S-Bahn-Strammstrecke München, 28. Planänderung PFA 1 - Stellungnahmeersuchen des PLAN bis zum 23.06.2023 -
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: BIOTOPIA - Naturkundemuseum Bayern - vertagt aus 06/2022 gemäß Vorstandsprotokoll des BA 9 vom 31.10.2022 -
+- TOP 3.4.2.: Dieselfahrverbot - Antwortschreiben des RKU - Bezug: TOP 3.2.8. aus 03/2023 -
+- TOP 3.4.3.: Einsatz von TOPO-Boxen als städtische Leistung: Schulstraße - Bezug: BA-Antrag-Nr. 20-26 / B 04167 -
+- TOP 3.4.4.: Ergebniszahlen des "Blitzmarathon" vom 21.04.23 - 22.04.23 - Bezug: TOP 2.2 aus 04/2023 -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 3.5.2.: Vekehrsrechtliche Anordnung - Renatastraße - Errichtung von Halteverboten zur Kenntnisnahme
+- TOP 3.5.3.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum - Asphaltierungsarbeiten Stuberstraße zwischen Volpinistraße und Dall&#039;Armistraße + Zeno-Diemer-Straße zwischen Nachtigalstraße und Volpinistraße vom 03.07.2023 - 04.08.2023 (11 Arbeitstage)
+- TOP 3.5.4.: Info des KVR zu Baugenehmigungsverfahren für Schanigärten über 40 m² zur Kenntnisnahme
+- TOP 3.5.5.: Vollzug der Grünanlagensatzung vom 15.06.2012 - Baustelleneinrichtung Posseltplatz - Ausnahmegenehmigung durch das MOR zur Kenntnisnahme
+- TOP 3.5.6.: Stadtterrasse auf dem Rainer-Werner-Fassbinder-Platz - Ausnahmegenehmigung des KVR zur Kenntnisnahme - Bezug: TOP 3.3.5. aus 03/2023 -
+- TOP 3.5.7.: Dauerbaustelle Jugendherberge Renatastraße
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: BA 9 Felix Lang (Bericht Anna-Lena Mühlhäuser) - Bezug: TO P 3.6.3. aus 05/2023 - WV in 06/2023 -
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Jagdstraße 17 Abbruch Bestand und Neubau Mehrfamilienhaus - VORBESCHEID
+- TOP 4.3.2.: Schulstraße 16 A Errichtung eines Wohngebäudes - VORBESCHEID - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 4.3.3.: Tizianstraße 131 Neubau eines Mehrfamilienhauses mit Tiefgarage - ÄNDERUNGSANTRAG
+- TOP 4.3.4.: Savoyenstraße 26 Abbruch und Neuerrichten eines Dachs, Errichten eines Wintergartens und eines Eingangsvorbaus an ein Bestandsgebäude, Neubau einer Doppelhaushälfte
+- TOP 4.3.5.: N - Landshuter Allee 38 Umbau des Erdgeschosses eines best. Gebäudes für studentisches Wohnen zur Umnutzung als Kindergarten, Nutzungsänderung des ersten und zweiten Obergeschosses vom studentischen Wohnen zum Wohnheim
+- TOP 4.3.6.: N - Lierstraße 20a Neubau von einem Doppelhaus mit zwei Garagen
+- TOP 4.3.7.: N - Wendl-Dietrich-Str. 22 Um- und Ausbau der Gewerbeflächen im EG + UG sowie Wiederherstellung / kritische Rekonstruktion der historischen Fassade, Einbau einer Außenliftanlage, Anschluss der Balkone an die Liftanlage inkl. Balkonerweiterung, Unterkellerung des Hofs, Einbau eines Fahrradlifts, Umbau der Treppe KG - EG, Um- und Ausbau des 1. und 2. DGs - ÄNDERUNGSANTRAG zu 1.1-2021-11277-22 - Hier: Einbau eines Hydraulikaufzugs im Treppenhaus
+- TOP 4.3.8.: N - Hubertusstr. 14 Neubau eines Mehrfamilienhauses mit 4 WE und Tiefgarage - ÄNDERUNGSANTRAG
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Rupprechtstraße - Rückmeldung Immobilienfirma - Bezug: TOP 4.6.4. aus 04/2023 -
+- TOP 4.4.2.: Aufzug Friedenheimer Brücke - Antwortschreiben des PLAN - Bezug: TOP 4.2.1. aus 01/2023 -
+- TOP 4.4.3.: Antrag auf Aufstellung eines sektoralen Bebauungsplans - Antwortschreiben des PLAN - Bezug: TOP 4.2.1. aus 03/2023 -
+- TOP 4.4.4.: Frundsbergstr. 21, Neubau eines Rückgebäudes, Vorbescheid - Antwortschreiben des PLAN - Bezug: 4.6.4 aus 03/2023 -
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Unterrichtung über Stellungnahmen zu nachfolgenden Bauvorhaben (Frist zur Rückmeldung an die LBK jeweils bis zum 08.06.2023): - Gaßnerstraße 17 (Dachaufstockung - VORBESCHEID) - Nederlinger Straße 23 A (Errichtung eines Anbaues einer Doppelhaushälfte, Zusammenlegung zweier Nutzungseinheiten mit Grundrissänderung und Einbau eines Aufzugs) - Andréestraße 4 (Neubau zweier Stadthäuser - Hinterhofnachverdichtung) - Wotanstraße 72 (Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID)
+- TOP 4.6.3.: Vorstellung der Massnahmen Gartenbau in der Landshuter Allee
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Stadtbezirksbudget Initiative „Huberthäuslgarten“ Gemeinschaftsgartenprojekt „Huberthäuslgarten“ 725,00 Euro; Az. 0262.0-9-0645
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: DacG / ÖDP-Fraktion: Antrag - Renaturierung der Grünfläche "Theaterfestivalgelände"
+- TOP 5.2.2.: Hitzeknigge - Bezug: TOP 5.2.2. aus 05/2023 - WV in 06/2023 -
+- TOP 5.2.3.: Antrag: Zusätzliche Bänke und Begrünung in der Karl-Schurz-Straße - BA-Antrags-Nr.: 20-26 / B 05261 vom 21.03.2023 - Bitte um Übermittlung geeigneter Standortvorschläge für Sitzgelegenheiten an das BAU -
+- TOP 5.2.4.: SPD-Fraktion: Antrag - Abfalltrennung im öffentlichen Raum
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Lierstraße 14 - Rondell Neuwittelsbach 1 - Nördliches Schlossrondell 4-4 F - Nodungstraße 11-13 - Heldstraße 22-26 - Herderstraße 2-4 D - Schachenmeierstraße 2-10 / Pfänderstraße 21 - Rotkreuzplatz 8 - Scherrstraße 4
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Frage zu Bäumen in der Arnulfstraße - Antwortschreiben des BAU - Bezug: TOP 5.2.1. aus 04/2023 -
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget MORGEN e.V., Netzwerk Münchner Migrantenorganisationen MORGEN Kulturfestival 2023 am 09.07.2023 3.350,00 Euro; Az. 0262.0-9-0641
+- TOP 6.1.2.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V., Regionalverband München Spielprogramm „Umsonst und Draußen“ während des LILALU-Sommerfestivals 3.000,00 Euro; Az. 0262.0-9-0642
+- TOP 6.1.3.: (E) Kulturzentrum GOROD: Stelle für Kinder- und Jugendarbeit im Hirschgarten - Bezug: TOP 6.1.1. aus 05/2023 - WV in 06/2023 -
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Orangene Bänke. Gegen Gewalt an Frauen für die Bezirke 9,10,11,24 - Bitte an den BA um Unterstützung des Projekts inklusive der Nennung potentieller Standortvorschläge -
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Geruchsbelästigung und Betriebszeiten Restaurant / Schank- und Speisewirtschaft "Puro", Nymphenburger Straße 191 - Bezug: TOP 6.2.1. aus 04/2023 - Antwortschreiben der BI-West/KVR -
+- TOP 6.4.2.: Zulassung lingbee Sprachinstitut - Antwortschreiben des SOZ - Bezug: TOP 6.2.2. aus 03/2023 -
+- TOP 6.4.3.: Unterstützung Teilhabe-Beratungsstelle am Blindeninstitut (EUTB) - Antwortschreiben des SOZ - Bezug: TOP 6.4.1. aus 03/2023 -
+- TOP 6.4.4.: Aktueller Sachstand zum Beherbergungsbetrieb in der Dachauer Straße 112 - 112 A - Bezug: TOP 4.5.7. aus 03/2023 - Antwortschreiben des SOZ -
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Vollzug der Erhaltungssatzung Genehmigung von Modernisierungsmaßnahmen - Standort: Schäringerstraße -
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Berichte der Beauftragten
+- TOP 6.6.2.: Öffentlichkeitsarbeit des UA - Einladung an Institutionen aus dem Viertel
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Initiative „WunderkammAA“ Kulturprojekt „Provisorium Zukunft“ 3.063,85 Euro; Az. 0262.0-9-0643
+- TOP 7.1.2.: (E) Stadtbezirksbudget ArtSchnitzel e.V. ArtSchnitzel – Kunst für Alle vom 20.07. bis 30.07.2023 (vor- und nachgelagerte Aktionen) 3.000,00 Euro; Az. 0262.0-9-0644
+- TOP 7.1.3.: (E) Stadtbezirksbudget Empfangshalle GbR Ausstellungsreihe „Dating Profiles“ vom 13.07. bis 14.12.2023 4.425,00 Euro; Az. 0262.0-9-0646
+- TOP 7.1.4.: (E) Stadtbezirksbudget Initiative „la vie immortelle“ Theaterprojekt „la vie immortelle – Begrabenes Leben“ vom 05.09. bis 08.10.2023 6.382,00 Euro; Az. 0262.0-9-0647
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: BA-Antrags-Nr. 20-26 / B 05364 des BA 9 Neuhausen-Nymphenburg vom 25.04.2023 Antrag - Straßenschilder Maria-Luiko-Straße mit Erläuterung versehen
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Vorschläge für Erklärungsschilder zu den nach Musikern benannten Straßen im Stadtbezirk - Rückmeldung des KOM - Bezug: BA-Antrag Nr. 20-26 / B 00597 vom 18.08.2020 -
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Lesung 9. November - Arbeitsgruppe - Bezug: TOP 7.6.3. aus 09/2022 - WV in 06/2023 zur jährlichen Erinnerung -
+- TOP 7.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Augustinum Kindergarten Christuskirche – SchulCentrum Augustinum gGbmH Schaukelanlage für den Kindergarten Christuskirche 3.419,60 €; Az. 0262.0-9-0640
+- TOP 8.1.2.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation - Konfliktklärung in Schulen vom 12.09.2023 bis 01.08.2024 4.000,00 Euro; Az. 0262.0-9-0649
+- TOP 8.1.3.: N - Nachträgliche Erhöhung des Zuschusses aus dem Budget für das Projekt „TurnTable Tennis“ um 286,11 € auf insgesamt 1.841,11 € UND Verlängerung des Bewilligungszeitraums bis 31.07.2023
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: SPD-Fraktion: Antrag - Neue Tischtennisplatten am Winthirplatz - Bezug: TOP 8.2.5. aus 05/2023 -
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Entwurf der Beschlussvorlage "Schul- und Kitabauoffensive - Sachstandsbericht 2023" - Stellungnahmeersuchen des RBS -
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Kürzungen für Gelder für Schulfahrten - Auswirkungen auf Abituraufgaben - Mehrkosten für Eltern - Antwortschreiben des RBS - Bezug: TOP 8.2.2. aus 02/2023 -
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Öffentlichkeitsarbeit des UA
+- TOP 8.5.2.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.4.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 8.6: Verschiedenes
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.2.1.: Dringlichkeitsantrag SPD: Solidarität mit der Stiftung Ost-West-Friedenskirche und Unterstützung beim Wiederaufbau
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Anhörung - Bezirksübergreifender Antrag CultureClouds e.V. - 14 bezirksübergreifende Spielaktionen für Kinder hier: Straße.Oase - im Freien überwiegend auf öffentlichen Plätzen vom 26.07.2023 - 28.10.2023 - Stellungnahmeersuchen des KVR bis zum 10.07.2023 -
+- TOP 9.3.2.: Anhörung Veranstaltung in einer städtischen Grünanlage hier: Lilalu-Familienferienprogramm, Kinderferien- und offenes Kinderspielprogramm (Zelte, Container) auf dem Theaterfestivalgelände (Spiridon-Louis-Ring 100), Olympiapark Süd - Stellungnahmeersuchen des KVR bis zum 03.07.2023 -
+- TOP 9.3.3.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: Gerner Straßenfest am 29.07.2023 in der Böcklinstraße 14-29 - Stellungnahmeersuchen des KVR bis zum 30.06.2023 -
+- TOP 9.3.4.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: InfoVeranstaltung der Agentur für Arbeit am 30.06.2023 auf dem Rotkreuzplatz - Stellungnahmeersuchen des KVR bis zum 21.06.2023 -
+- TOP 9.3.5.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: Eröffnungsfest Sommerstraße Blutenburgstraße am 01.07.2023 - Stellungnahmeersuchen des KVR bis zum 23.06.2023 -
+- TOP 9.3.6.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: Wasservogel Festumzug am 30.07.2023, Start Rotkreuzplatz - Stellungnahmeersuchen des KVR bis zum 07.07.2023 -
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Nichtöffentliche Sitzung
