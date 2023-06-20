@@ -1,0 +1,54 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-06-20T18:00:00+02:00
+- Ende: 2023-06-20T20:40:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfWU6Y60A1KjMIf6EB6q68c
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20948
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdK0K-GX54tYPoZ4NS07DUF90KdNWSusx7i6FGJwzi55/Bekanntmachung_Rat_20.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVernXHA2dX1hWJQdTeJOLKXO-0UcxblAjHtr034chfn/Oeffentliche_Niederschrift_Rat_20.06.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 03.05.2023 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Bürgerbegehren "Keine Umsetzung des Verkehrs-, Beschilderungs- und Parkraumkonzepts gemäß Ratsbeschluss vom 30.03.2023" (Ratsdrucksache: 791-XI/Z-1 bis 10 nebst Anlagen) hier: Entscheidung über die (Teil-) Zulässigkeit des Bürgerbegehrens nach § 26 Abs. 2 Satz 7-11 GO NRW (Vorprüfung) - Mehrheitlicher Beschluss mit 7 Nein-Stimmen:
+- TOP 5.: Gedenktafel Rathaus hier: Errichtung einer Skulptur im Friedrich-Josef-Haass-Hof - Einstimmiger Beschluss:
+- TOP 6.: Präsentation eines Fachvortrages zum Thema "Moderne Holzbauweise bei öffentlichen und kommunalen Gebäuden" hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 23.04.2023 - Mehrheitlicher Beschluss mit 21 Ja- und 7 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 7.: Ganzheitliche Prüfung des Konzeptes der Stadtbücherei; Grundlagenanalyse zum Nutzerverhalten hier: Antrag der CDU-Fraktion vom 16.05.2023 - Beschluss s. RD-Nr. 1052-XI/Z-1.
+- TOP -: Ganzheitliche Prüfung des Konzeptes der Stadtbücherei; Grundlagenanalyse zum Nutzerverhalten hier: Stellungnahme der Verwaltung - Einstimmiger Beschluss:
+- TOP 8.: Medienentwicklungsplan für die Schulen 2022 - 2026 hier: Zentrale, gebündelte Beschaffungen - Beschluss s. RD-Nr. 1027-XI/Z-1.
+- TOP -: Medienentwicklungsplan für die Schulen 2022 - 2026 hier: Beschaffungen für das Jahr 2023 - Einstimmiger Beschluss:
+- TOP 9.: 29-Euro-Ticket für Schüler und Schülerinnen in Nordrhein-Westfalen hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 06.06.2023 - Beschluss s. RD-Nr. 1062-XI/Z-1.
+- TOP -: 29-Euro-Ticket für Schüler und Schülerinnen in Nordrhein-Westfalen hier: Deutschlandticket im Schülerverkehr - Beschluss mit 12 Ja- 19 Nein—Stimmen und damit abgelehnt:
+- TOP 10.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Einstimmiger Beschluss ohne Mitwirkung der Bürgermeisterin.
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021; hier: Anträge nach Ziffer 3 der Billigkeitsrichtlinie - Einstimmiger Beschluss:
+- TOP 11.: Prüfauftrag Flächenphotovoltaik hier: Vorlage eines „Leitfadens zur Planung und Ausweisung von Flächen für PV-Freiflächenanlagen in der Stadt Bad Münstereifel“ - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 12.: Mitgliedschaft Netzwerk Innenstadt NRW hier: aktueller Sachstand und weitere Planungen - Beschluss s. RD-Nr. 564-XI/Z-2.
+- TOP -: Mitgliedschaft Netzwerk Innenstadt NRW hier: aktueller Sachstand und weitere Planungen - Einstimmiger Beschluss:
+- TOP 13.: Erneuerung der Wasserleitung in der Kölner Straße im Abschnitt Otterbach bis Schleidtalstraße - Einstimmiger Beschluss:
+- TOP 14.: Errichtung von Richtfunkstrecken hier: Vorstellung der Maßnahme - Einstimmiger Beschluss:
+- TOP 15.: Verbesserung der technischen Ausstattung im Rats- und Bürgersaal hier: Abstimmung der Planung - Einstimmiger Beschluss:
+- TOP 16.: Planung und Finanzierung eines Naturrasenbolzplatzes am Sportplatz in Bad Münstereifel, Hardtbrücke; hier: Maßnahmenbeschreibung - Einstimmiger Beschluss:
+- TOP 17.: K 36, Ausbau der Ortsdurchfahrt Eicherscheid durch den Kreis Euskirchen hier: Gehweg - Einstimmiger Beschluss:
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand
+- TOP 18.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 18.3: Sachstand Wiederaufbau
+- TOP 18.4: Mobilitätskonzept - M.1 Verkehrliche Neuregelung der Kernstadt hier: Ergebnis der Prüfung der Kommunalaufsicht
+- TOP 18.5: Wärmewende und kommunale Wärmeplanung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Verwertung eines Grundstücks in Bad Münstereifel, Bergstraße - Einstimmiger Beschluss:
+- TOP 2.: Verlängerung des Kooperationsvertrages mit der Fa. FriedWald GmbH - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Entahltung:
+- TOP 3.: Planung und Finanzierung eines Naturrasenbolzplatzes am Sportplatz in Bad Münstereifel, Hardtbrücke; hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 4.: Stromlieferverträge - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Sachstand LOI Schleidpark
+- TOP 5.2: Sachstand Einstellung Klimamanager hier: Anfrage der Stadtverordneten Dr. Kerstin Oerter, Bündnis 90/Die Grünen
+- TOP 5.3: Ratsjubiläum des Stadtverordneten Willi Hoever, CDU-Fraktion
