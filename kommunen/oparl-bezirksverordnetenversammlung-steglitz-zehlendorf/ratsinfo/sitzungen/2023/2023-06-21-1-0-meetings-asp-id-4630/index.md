@@ -1,0 +1,102 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-06-21T17:00:00+02:00
+- Ende: 2023-06-21T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4630
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4630
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Prozessrisiko für den Bezirk durch Verwaltungspraxis im Bereich Wassersport - beantwortet
+- TOP 3.2: Wohnraumbündnis! Wie ist der aktuelle Stand - beantwortet
+- TOP 3.3: Was passiert mit der Schwimmhalle am Teltower Damm? - beantwortet
+- TOP 3.4: Fortentwicklung des Denkmalpflegeplans der Zehlendorfer Waldsiedlung - beantwortet
+- TOP 3.5: Hotelkauf – oder Anmietung vom Bezirk? - schriftlich beantwortet
+- TOP 3.6: Immer wieder: Steglitzer Kreisel - schriftlich beantwortet
+- TOP 3.7: Sind Kita und Lebensmittelausgabe gegenüber kommerziellen Anbietern bei Baustellenbehinderungen stärker benachteiligt? - schriftlich beantwortet
+- TOP 3.8: Einbürgerungsfeiern - schriftlich beantwortet
+- TOP 3.9: Durch den Sommer mit Hitzeschutz? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl der Schriftführerin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer stellvertretenden Schriftführerin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl einer stellvertretenden Schriftführerin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Wahl einer stellvertretenden Schriftführerin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Wahl eines stellvertretenden Schriftführers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Neuwahl zweier stimmberechtigter Mitglieder für den Bezirksbeirat für Partizipation und Integration sowie Neuwahl von 10 stellvertretenden Mitgliedern (Einzelpersonen) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Neuwahl eines stellvertretenden Mitglieds des Bezirksbeirats für Partizipation und Integration aus einer der im Beirat vertretenen Institutionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Anmeldungen zum Investitionsprogramm 2023 bis 2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Schwimmkurse erhalten, Schulentwicklung ermöglichen: Das PrimaVita Bad retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Erhalt des Schwimmbades und der Turnhalle/Küche der Kindertagesstätte am Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Parlamentarische Ferien 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Prüfung der Ausweitung der Parkraumbewirtschaftung auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Pilotprojekt Schloßstraße an verkaufsoffenen Sonntagen autofrei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Einrichtung einer Koordinierungsstelle gegen Kinderarmut - in der BVV abgelehnt
+- TOP 4.19: Akustikanlage im Bürgersaal endlich erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Milieuschutzgebiete ausweiten - Beauftragung von Feinscreenings für weitere Milieuschutzverdachtsgebiete - in der BVV abgelehnt
+- TOP 4.21: Milieuschutzgebiete ausweiten - Beauftragung von Feinscreenings in Südende - in der BVV abgelehnt
+- TOP 4.22: Julius-Stern-Platz benennen - in der BVV abgelehnt
+- TOP 4.23: Einbahnstraße für „Am Sandwerder“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Klimacheck für Bezirksamtsvorlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Abbiegeassistenten für bezirkliche LKW nachrüsten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Check für Personalbedarf in Bezirksamtsvorlagen für Umsetzung von BVV-Beschlüssen - in der BVV abgelehnt
+- TOP 4.27: Reparaturstationen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Schlaglochmeldung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Einrichtung ständiges Wahlamt in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Zebrastreifen Teltower Damm/Sonnenhaus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Tempo 30 Garystraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Wildpflanzen aus der Bezirksgärtnerei Charlottenburg-Wilmersdorf nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: Den Eugen-Gerstenmaier-Platz mit neuem Leben nach den Bauarbeiten erfüllen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Katastrophenschutzinformationen zugänglich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Papierlose Buchung in Bibliotheken umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: PKB-Mittel auch für Erzieherinnen und Erzieher - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Durchwegung der Liegenschaften des Bundesarchivs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.38: Konstituierung des Klimaschutzbeirates initiieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.39: Schwimmhalle am Teltower Damm erhalten - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Verkehr in Wannsee: E-Busse auf der Linie 218 - überwiesen
+- TOP 5.2: Parkbänke in Lankwitz ersetzen - überwiesen
+- TOP 5.3: Lepsiusstraße instandsetzen - überwiesen
+- TOP 5.4: Überwuchs beseitigen - überwiesen
+- TOP 5.5: Dauernder Erhalt der Mittel aus dem „Netzwerk der Wärme“ - überwiesen
+- TOP 5.6: Die im Jahr 2022 und 2023 durch den alten Senat beschlossene Stellenverteilung im Bezirksamt korrigieren - überwiesen
+- TOP 5.7: Verkehr in Wannsee: Sicherheit für Kinder und Jugendliche - überwiesen
+- TOP 5.8: Verkehr in Wannsee: Schulwegsicherheit erhöhen - überwiesen
+- TOP 5.9: Ausweitung des Besuchsdienstes über ganzen Bezirk - überwiesen
+- TOP 5.10: Entwicklung des B 101-Korridors in Steglitz - überwiesen
+- TOP 5.11: Zertifikate für Muttersprachler*innen - überwiesen
+- TOP 5.12: Schulwegpläne aktualisieren - überwiesen
+- TOP 5.13: Überarbeitung von Zentrenkonzepten - überwiesen
+- TOP 5.14: Beleuchtung Stadtpark Steglitz - überwiesen
+- TOP 5.15: Fahrradlenkung auf dem Hauptweg Stadtpark Steglitz - überwiesen
+- TOP 5.16: Nachtbus von Wannsee nach Krumme Lanke - überwiesen
+- TOP 5.17: Informationskampagne zur Fütterung von Vögeln und anderen Stadttieren - überwiesen
+- TOP 5.18: Die Architektin Hilde Weström in die bezirkliche Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 5.19: Ein Solar-Tree für die Thermometersiedlung - überwiesen
+- TOP 5.20: Brandgefahr und Abfallproblem an unseren Gewässern - überwiesen
+- TOP 5.21: Friendship Days - Erinnerung an US-amerikanische Schutzmacht in Steglitz-Zehlendorf - überwiesen
+- TOP 5.22: Wohnraum für Personal und Auszubildende des Bezirksamtes - überwiesen
+- TOP 5.23: Milieuschutz braucht Mitwirkung - Milieuschutzbeirat in Steglitz-Zehlendorf initiieren - überwiesen
+- TOP 5.24: Mehr Biodiversität zulassen: Straßenbegleitgrün und Baumscheiben nicht zu früh mähen und nicht kahlrasieren - überwiesen
+- TOP 5.25: Pilotprojekt Tiny Forests für Steglitz-Zehlendorf - überwiesen
+- TOP 6: Wahlen - erledigt
+- TOP 6.1: Wahlvorschläge - erledigt
+- TOP 6.1.1: Wahl des Bezirksverordnetenvorstehers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Wahl des stellvertretenden Bezirksverordnetenvorstehers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Der Hindenburgdamm – wie können Gewerbetreibende unterstützt werden? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Havelchaussee – Durchgangsverkehr schnellstmöglich beenden - in der BVV abgelehnt
+- TOP 8.2: Nachnutzung des Mäusebunkers: ein neuer Sozial-Raum für Steglitz-Zehlendorf! - in der BVV abgelehnt
+- TOP 8.3: Unter den Eichen: Schnellere Busse, weniger Stau – der Umwelt zu liebe - in der BVV abgelehnt
