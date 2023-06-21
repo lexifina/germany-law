@@ -1,0 +1,52 @@
+# Gemeinderat (28. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2023-06-21T18:05:00+02:00
+- Ende: 2023-06-21T20:52:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeWe4apXt2nX4guwES3mWRw
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1961
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRB1mjmJeLq4EopbkmXjR0DRob1auZvM4fItBQkqb4eV/Bekanntmachung_Gemeinderat_21.06.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYKI8lwkrBY2OvywXz4-GlCr2H_Ppnw1S-EPiKVOKJW-/Oeffentliche_Niederschrift_Gemeinderat_21.06.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Bebauungsplan 3 S - Johannesstraße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss zur Aufhebung - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Bebauungsplan 7 S - Kirchstraße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss zur Aufhebung - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Finanzen, Haushalt
+- TOP 4.1: Umbau und Sanierung des ehemaligen Jugendtreff HOT in eine Flüchtlingsunterkunft. Hier: Ergänzende Maßnahmen an der technischen Ausrüstung und Budgeterhöhung - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Überplanmäßige Ausgabe Förderschulzweckverband im Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Nachschulische Betreuung Antrag von "Leben wie Zuhause e.V." auf Anteilsfinanzierung für das Schulkinderhaus - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Ergebnisse der Befragung der Eltern über den Schulwechsel in die Primarstufe I - Zur Kenntnis genommen
+- TOP 6.2: Ausführung des Haushalts
+- TOP 7.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Grundstücksangelegenheiten
+- TOP 2.1: Verkauf einer gewerblichen Baufläche - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Errichtung von neuen Parkplätzen sowie Ertüchtigung Gehweg an der KiTa Schleiden, hier Auftragsvergabe - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Einbau einer Alarmanlage am Youngside Gebäude in Aldenhoven, hier Auftragsvergabe - Einstimmig, 6 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Schulausschusses
+- TOP 4.1: Zukünftige Finanzierung des Schulverkehrs der Grundschulen in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Gremienangelegenheiten
+- TOP 5.1: Berichte aus den Gremien
+- TOP 6.: Auftragsvergaben
+- TOP 6.1: Umbau und Sanierung des ehemaligen Jugendtreff HOT in eine Flüchtlingsunterkunft, hier Auftragsvergabe Abbrucharbeiten, Rohbauarbeiten, Trockenbauarbeiten, Gerüstarbeiten - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Vermietungen, Verpachtungen
+- TOP 7.1: Vermietung eines Gebäudes - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Grundstücksangelegenheiten
+- TOP 8.1: Grunderwerb von landwirtschaftlichen Parzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2: Verkauf eines Grundstücks - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Abschluss eines Gestattungsvertrags - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Interkommunale Zusammenarbeit
+- TOP 11.: Verschiedenes
