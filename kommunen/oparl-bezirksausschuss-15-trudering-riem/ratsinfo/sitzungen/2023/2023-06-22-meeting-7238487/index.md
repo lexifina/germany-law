@@ -1,0 +1,156 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-06-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238487
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238487
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwurf der Sitzung vom 25.05.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 1.3.1.: (N) Sendung Kontrovers zu Jugendgangs in der Messestadt
+- TOP 1.3.2.: (N) Selma-Lagerlöf-Straße: Wiederbepflanzung der Mauer
+- TOP 1.3.3.: (N) Antrag zum Bauvorhaben Wasserburger Landstraße 7-11: Neubau einer Wohnanlage mit Gewerbeeinheit und Tiefgarage
+- TOP 1.3.4.: (N) Bericht zur TOPO-Box-Erhebung am Schmuckerweg 8 vom 18.04.23 bis 24.04.23
+- TOP 1.3.5.: (N) Suche nach Räumlichkeiten für den Snookerclub 147 e. V.
+- TOP 1.3.6.: (N) Brenner-Nordzulauf: Kernforderungen zum Planungsabschnitt Trudering-Grafing (PA0) für die Parlamentarische Befassung
+- TOP 1.3.7.: (N) Messestadt Ost: Aufstellung eines Jugendcontainers
+- TOP 1.3.8.: (N) Verkehrs- & Emissions-Konzept „Rolling Loud Festival"
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) + (U) Verbesserung des Internetauftritts vor Bürgerversammlungen
+- TOP 2.1.2.: (E) Stadtbezirksbudget Chorgemeinschaft St. Peter und Paul Trudering Truderinger Sommerkonzert am 30.06.2023 um 20: 30 Uhr 1.925,00 € / AZ.0262.0-15-0481
+- TOP 2.1.3.: (E) Stadtbezirksbudget Freundeskreis des Sonderpädagogischen Förderzentrums München-Ost Druck der Schülerzeitung „Eastsider“ 1.507,10 € / AZ. 0262.0-15-0483
+- TOP 2.1.4.: (E) Stadtbezirksbudget Förderverein für die Mittel- und Grundschule an der Lehrer-Wirth-Straße “Let´s STEAM!“ ab dem 21.06.2023 1.999,00 € / Az. 0262.0-15-0482
+- TOP 2.1.5.: (E) Stadtbezirksbudget SOS-Kinderdorf München, Familien- und Beratungszentrum Riem Interkulturelles Sommerfest am 24.06.2023 765,00 € / Az. 0262.0-15-0484
+- TOP 2.1.6.: (E) Stadtbezirksbudget Initiative KopfauT e.V. “Wie? Machen? Wir es besser“ vom 29.06. - 06.08.2023 8.000,00 € / Az. 0262.0-15-0485
+- TOP 2.1.7.: (E) Stadtbezirksbudget Capoeira Union München e.V. Batizado 2023 – Motto „Kooperation gegen Isolation“ vom 14.-16.07.2023 1.762,00 € / Az. 0262.0-15-0486
+- TOP 2.1.8.: (E) Stadtbezirksbudget Initiative "Stadtbezirk 15" "Stadtbezirk 15" vom 13.07.-22.09.2023 4.498,00 € / AZ.0262.0-15-0487
+- TOP 2.1.9.: Lehrer-Wirth-Str. 15: Antrag für eine Zeitungsentnahmegerät (Aufstellung)
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Einziehung einer Teilstrecke des Blanckertzweges
+- TOP 2.2.2.: (E) Anbringung geeigneter Beleuchtung an den Fahrradständern vor der Turnhalle an der Grundschule Markgrafenstraße
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.3.1.: (E) Neubenennung des „Schwankhardtwegs“ Empfehlung Nr. 20-26 / E 00967 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.1.1.: Vorgehen gegen Aufstellung von Wahlwerbung "Hände weg von unseren Kindern"
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Parkanlage Bajuwarenpark: Gefahr durch schnelles Radfahren
+- TOP 3.2.2.: Lourdes-Mariengrotte in Waldtrudering: Rollstuhlgerechter Zugang
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Truderinger Ortskern: Mehr Sicherheit für Kinder
+- TOP 3.3.2.: Truderinger Ortskern: Bitte um Änderung der Gestaltung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Gymnasium Messestadt Riem: Sachstand zur aktuell geplanten Fertigstellung
+- TOP 3.5.2.: (N) Sendung Kontrovers zu Jugendgangs in der Messestadt
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: (N) Selma-Lagerlöf-Straße: Wiederbepflanzung der Mauer
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Gedenkfeier zum 09. November 1938
+- TOP 4.7.2.: Der Truderinger Hüllgraben: Prüfung von Perspektiven hinsichtlich Neugestaltung, Begehbarkeit und Erlebbarkeit
+- TOP 4.7.3.: Bauliche Veränderungen am Bahnhof Riem
+- TOP 4.7.4.: Truderinger-Festwiese: Errichtung einer Toilettenanlage
+- TOP 4.7.5.: Ausgleichsfläche Bajuwarenstraße/ St.-Augustinus-Straße/ Evereststraße: Bäume pflegen und abgestorbene Bäume ersetzen
+- TOP 4.7.6.: Ein attraktiver ÖPNV braucht ansprechende und barrierefreie Bushaltestellen – dies muss 2023 erst recht für „ältere Bestands-Haltepunkte“ auf stark befahrenen Linien & Verkehrsachsen gelten
+- TOP 4.7.7.: (N) Antrag zum Bauvorhaben Wasserburger Landstraße 7-11: Neubau einer Wohnanlage mit Gewerbeeinheit und Tiefgarage
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Friedhofsparken ermöglichen – auch bei Großmessen
+- TOP 5.2.2.: Daseinsvorsorge für alle ernst nehmen - private MVV-Verkaufsstelle im Ortszentrum Trudering reaktivieren!
+- TOP 5.2.3.: Beschädigungen an Gebäuden entlang Ortskern Trudering verhindern
+- TOP 5.2.4.: Willy-Brandt-Allee 26: Durchfahrt von Autos vor der Haustür mit Pollern verhindern
+- TOP 5.2.5.: Astrid-Lindgren-Straße: Bauliche Maßnahmen zur Geschwindigkeitsreduzierung an der Feuerwehrzufahrt
+- TOP 5.2.6.: Kein Platz für Gewalt gegen Frauen
+- TOP 5.2.7.: (N) Bericht zur TOPO-Box-Erhebung am Schmuckerweg 8 vom 18.04.23 bis 24.04.23
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Nachverdichtung auf dem Grundstück Truchthari-Anger 12 durch erfolgte Realteilung
+- TOP 5.4.2.: Begrenzung der Kostenexplosion im Immobiliensektor
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Zwischenbilanz des Experiments Kopfbau
+- TOP 5.5.2.: (N) Suche nach Räumlichkeiten für den Snookerclub 147 e. V.
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Bitte an den Deutschen Städtetag: Erhalt von Baumstandorten in §34-Gebieten
+- TOP 5.6.2.: Fernwärmeversorgung Trudering-Riem ausbauen: Anträge Nr. B03523, B03595 und B04761
+- TOP 5.6.3.: Die Stadt als Vorbild: Rücklauftemperaturen der städtischen Geothermie-Anlagen Klarheit in der Messestadt jetzt optimieren!
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen - Änderung der BA-Satzung; Anhörung des Direktoriums
+- TOP 7.1.2.: Veranstaltung im Freien auf Privatgrund und in einer städtischen Grünanlage: Doppelveranstaltung „Tag der offenen Tür und Sommerfest“ am 01.07.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: (N) Brenner-Nordzulauf: Kernforderungen zum Planungsabschnitt Trudering-Grafing (PA0) für die Parlamentarische Befassung
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Schatzbogen 29: Neubau einer gewerblichen Einrichtung mit Tiefgarage in zwei Varianten - VORBESCHEID (Erneute Zuleitung wg. neuer Variante 3)
+- TOP 7.4.2.: Graf-Lehndorff-Str. 36: Brandsanierung und Umbau Tribüne Galopprennbahn
+- TOP 7.4.3.: Chammünsterstr. 2: Neubau zweier Einfamilienhäuser oder eines Mehrfamilienhauses - VORBESCHEID
+- TOP 7.4.4.: Wasserturmstr. 22: Neubau eines MFH mit 10 WE und Tiefgarage
+- TOP 7.4.5.: Wasserburger Landstr. 7 - Neubau Wohnanlage mit Gewerbeeinheit und Tiefgarage - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2023
+- TOP 7.5.2.: Anwohnerinformation zu geplanten Unterkünften für Geflüchtete: Frobenstraße, Flst.-Nr. 227/11, Gemarkung Daglfing & Schatzbogen 29
+- TOP 7.5.3.: (N) Messestadt Ost: Aufstellung eines Jugendcontainers
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Hippelstr. 65a Schwanenweg 5 Scheibenwiesenweg 28 Reiherweg 16 a Rotkehlchenweg 2 (inkl. Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung)
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Askaripfad 3 Dar-es-Salaam-Str. 10 Gerstäckerstr. 57 Hererostr. 5a Leibengerstr. 14 Schneefinkenweg 1a Toni-Schmid-Str. 28 a Wasserburger Landstr. 7 Wasserturmstr. 22
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Veranstaltung im Freien und in einer städt. Grünanlage: Tag der offenen Tür mit Sommerfest“ der FFW Michaeliburg in Feuerwehr-Gerätehaus, Bajuwarenstr. 25 und Grünanlage Unnützwiese am 01.07.2023 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: (N) Verkehrs- & Emissions-Konzept „Rolling Loud Festival"
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen - Schreiben des Oberbürgermeisters
+- TOP 10.1.2.: Versammlungsanzeigen und Drehgenehmigungen
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Sommerstraßen 2023: Ergebnisse und weiteres Vorgehen
+- TOP 10.2.2.: Hippelstraße: SWM Baumaßnahme Strom-Projekt von KW 25 - 33
+- TOP 10.2.3.: Antworten der BA 14 und 16 zum BA-Antrag "Gemeinsames Rad(vorrang)-Netz-Hearing mit den BA 13, 14, 15 und 16"
+- TOP 10.2.4.: PM Markus Blume: Barrierefreier Umbau des S-Bahnhofs Riem nimmt Fahrt auf
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: (U) Neubau eines Bürogebäudes am Truderinger Bahnhof mit Sozialbürgerhaus, Freiwilliger Feuerwehr, MVHS, Stadtteilbibliothek und Alten- und Service-Zentrum 15. Stadtbezirk Trudering-Riem Vorplanungsauftrag Bau des geplanten Sozialbürgerhauses am Truderinger Bahnhof und weiter Nutzung des Gebäudes
+- TOP 10.3.2.: Protokoll des Ortstermins zum BA-Antrag "Ein Platz der Menschenrechte für alle: Aufenthaltsqualität durch Sanierung und Neugestaltung erhöhen"
+- TOP 10.3.3.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Feldbergstraße b) Lachenmeyerstraße c) Mönchbergstraße d) Von-Gravenreuth-Straße
+- TOP 10.4.2.: Änderung des Baugenehmigungsverfahrens für Schanigärten über 40 m²
+- TOP 10.4.3.: Nichtbebauung des Grundstücks in der Fauststraße im Landschafts-und Wasserschutzgebiet
+- TOP 10.4.4.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Dresselstraße 14 b) Ernastraße 14 c) Schneebergstraße 12
+- TOP 10.4.5.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 10.4.6.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5.2.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Feuerwerksanzeige am 24.06.2023 in 81929 München, Landshamer Str. 11, Olympia Reitanlagen, Isle of Summer Festival
+- TOP 10.6.2.: Vollzug der Grünanlagensatzung: Abstellen von zwei Materialcontainern am Tribünen-Kopfbau
