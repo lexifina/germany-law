@@ -21,5 +21,5 @@
 § 20 Ausbildung
 § 21 Fortbildung
 § 22 Qualitätssicherung
-§ 23 Geltung des Sächsischen Hochschulfreiheitsgesetzes
+§ 23 Geltung des Sächsischen Hochschulgesetzes
 § 24 Übergangsbestimmungen
