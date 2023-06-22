@@ -18,5 +18,5 @@
 § 15 Fachbereichsleitung
 § 16 Fachbereichsrat
 § 17 Hochschulrat
-§ 18 Geltung des Sächsischen Hochschulfreiheitsgesetzes
+§ 18 Geltung des Sächsischen Hochschulgesetzes
 § 19 Übergangsbestimmungen
