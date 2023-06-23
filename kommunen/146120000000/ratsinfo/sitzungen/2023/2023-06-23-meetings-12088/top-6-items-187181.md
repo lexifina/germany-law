@@ -1,0 +1,6 @@
+# TOP 6: Sonstiges und Ausblick auf die nächste Sitzung
+
+- Sitzung: 7. Sitzung des Bildungsbeirates (2023-06-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/187181
