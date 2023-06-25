@@ -12,6 +12,7 @@
 | - | Acetylfentanyl (Desmethylfentanyl) | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]acetamid |
 | - | Acryloylfentanyl (Acrylfentanyl, ACF) | N-Phenyl-N-[1-(2-phenylethyl) piperidin-4-yl]prop-3-enamid |
 | - | 1-Adamantyl(1-pentyl-1H-indol-3-yl)methanon | (Adamantan-1-yl)(1-pentyl-1H-indol-3-yl)methanon |
+| - | ADB-BINACA(ADB-BUTINACA, ADMB-BINACA) | N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazol-3-carboxamid |
 | - | ADB-CHMINACA(MAB-CHMINACA) | N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazol-3-carboxamid |
 | - | ADB-FUBINACA | N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-[(4-fluorphenyl)methyl]-1H-indazol-3-carboxamid |
 | - | AH-7921 (Doxylam) | 3,4-Dichlor-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamid |
@@ -93,6 +94,8 @@
 | - | 5F-ADB(5F-MDMB-PINACA) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamid]-3,3-dimethylbutanoat} |
 | - | 5F-AMB(5-Fluor-AMB) | Methyl{2-[1-(5-fluorpentyl)-1H-indazol-3-carboxamido]-3-methylbutanoat} |
 | - | Eutylon (N-Ethylnorbutylon, bk-EBDB) | 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-on |
+| - | Etazen (Etodesnitazen) | N,N-Diethyl-2-{2-[(4-ethoxyphenyl)methyl]-1H-benzimidazol-1-yl}ethan-1-amin |
+| - | Etonitazepyn (N-Pyrrolidino Etonitazen) | 2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzimidazol |
 | - | FDU-PB-22 | Naphthalin-1-yl{1[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat} |
 | Fencamfamin | - | N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin |
 | - | Flephedron (4-Fluormethcathinon, 4-FMC) | 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on |
@@ -185,8 +188,10 @@
 | Pholcodin | Morpholinylethylmorphin | 4,5α-Epoxy-17-methyl-3-(2-morpholinoethoxy)morphin-7-en-6α-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III als Lösung bis zu 0,15 vom Hundert, je Packungseinheit jedoch nicht mehr als 150 mg, oder je abgeteilte Form bis zu 20 mg Pholcodin, berechnet als Base, enthalten - |
 | Propiram | - | N-(1-Piperidinopropan-2-yl)-N-(2-pyridyl)propanamid |
+| - | Protonitazen | N,N-Diethyl-2-{2-[(4-propoxyphenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}ethan-1-amin |
 | Pyrovaleron | - | 2-(Pyrrolidin-1-yl)-1-(ρ-tolyl)pentan-1-on |
 | - | α-Pyrrolidinohexanophenon (Alpha-PHP, α-PHP, PV-7) | 1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-on |
+| - | α-Pyrrolidinoisohexanophenon (Alpha-PiHP, α-PiHP, 4-Methyl-α-PVP) | 4-Methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-on |
 | - | α-Pyrrolidinovalerophenon (α-PVP) | 1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-on |
 | Racemoramid | - | (RS)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on |
 | Racemorphan | - | (9RS,13RS,14RS)-17-Methylmorphinan-3-ol |
