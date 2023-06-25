@@ -68,3 +68,4 @@
 - [§ 33 Aufsicht über den Beliehenen](0033.md)
 - [§ 34 Rückgriff](0034.md)
 - [§ 35 Finanzierung](0035.md)
+- [§ 36 Unterstützung und Beratung durch das Institut für das Entgeltsystem im Krankenhaus](0036.md)

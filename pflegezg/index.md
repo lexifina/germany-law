@@ -9,4 +9,4 @@
 - [§ 6 Befristete Verträge](0006.md)
 - [§ 7 Begriffsbestimmungen](0007.md)
 - [§ 8 Unabdingbarkeit](0008.md)
-- [§ 9 Sonderregelungen aus Anlass der COVID-19-Pandemie](0009.md)
+- [§ 9 (weggefallen)](0009.md)

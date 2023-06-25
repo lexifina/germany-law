@@ -128,6 +128,7 @@
 - [§ 70 Plangenehmigung](0070.md)
 - [§ 71 Vorläufige Anordnung](0071.md)
 - [§ 72 Umweltverträglichkeitsprüfung; marine Biotope](0072.md)
+- [§ 72a Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577](0072a.md)
 - [§ 73 Veränderungssperre](0073.md)
 - [§ 74 Sicherheitszonen](0074.md)
 - [§ 75 Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen](0075.md)

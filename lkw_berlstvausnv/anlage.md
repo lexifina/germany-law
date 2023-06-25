@@ -1693,7 +1693,7 @@ Nachgeordnetes Straßennetz Saarland:
 | B 41 | von A 6 (AS Saarbrücken-Goldene Bremm) über Kreisverkehrsplatz B 41 bis Abzweig Untertürkheimer Straße, 66177 Saarbücken |
 | B 41 | von A 623 (AS Saarbrücken-Ludwigsberg) bis Containerbahnhof, Dudweiler Landstraße 4, 66123 Saarbrücken |
 | B 41 | von A 8 (AS Neunkirchen-Spiesen) bis Abzweig L 315 |
-| B 51 | von A 8 (AS Dillingen-Süd) über B 51, Henry-Ford-Straße, über Kreisverkehrsplatz Henry-Ford-Straße/Carl-Zeiss-Straße, Henry-Ford-Straße bis Carl-Zeiss-Straße 33, 66740 Saalouis |
+| B 51 | von A 8 (AS Dillingen-Süd) über B 51, Henry-Ford-Straße, über Kreisverkehrsplatz Henry-Ford-Straße/Carl-Zeiss-Straße, Henry-Ford-Straße bis Carl-Zeiss-Straße 33, 66740 Saarlouis |
 | B 269 | von A 8 (AS Nalbach) bis Abzweig Werner-von-Siemens-Straße, 66793 Saarwellingen |
 | B 269 | von A 620 (AS Saarlouis-Lisdorf) über Kreisverkehrsplatz L 271/B 269 bis Abzweig, Mary-Lonsdorfer-Straße, 66740 Saarlouis |
 | B 269 | von A 620 (AS Ensdorf) bis Abzweig Industriestraße, 66802 Überherrn |
@@ -1720,7 +1720,7 @@ Nachgeordnetes Straßennetz Saarland:
 | Gemeindestraße | Untertürkheimer Straße, 66177 Saarbücken |
 | Gemeindestraße | Mary-Lonsdorfer-Straße, 66740 Saarlouis |
 | Gemeindestraße | Am Pitzberg, 66740 Saarlouis |
-| Gemeindestraße | Carl-Zeiss-Straße, 66740 Saalouis, von Abzweig Henry-Ford-Straße bis Carl-Zeiss-Straße 33 |
+| Gemeindestraße | Carl-Zeiss-Straße, 66740 Saarlouis, von Abzweig Henry-Ford-Straße bis Carl-Zeiss-Straße 33 |
 | Gemeindestraße | Zum Geisberg, 66740 Saarlouis |
 | Gemeindestraße | Henry-Ford-Straße, 66740 Saarlouis, von A 8 (AS Saarlouis-Steinrausch) bis B 269, von B 51 bis Abzweig Carl-Zeiss-Straße |
 | Gemeindestraße | Ostring, 66740 Saarlouis, von B 405 bis Ostring 57, 66740 Saarlouis |

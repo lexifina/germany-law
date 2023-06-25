@@ -104,3 +104,4 @@
 - [§ 55 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie](0055.md)
 - [§ 56 Übergangsvorschrift zum Abschlussprüfungsreformgesetz](0056.md)
 - [§ 57 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0057.md)
+- [§ 58 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes](0058.md)

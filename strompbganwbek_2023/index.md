@@ -1,4 +1,4 @@
 # Bekanntmachung über die Anwendbarkeit des Strompreisbremsegesetzes
 
-- [Eingangsformel](eingangsformel.md)
+- [(XXXX)](xxxx.md)
 - [Schlussformel](schlussformel.md)

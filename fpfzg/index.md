@@ -17,4 +17,4 @@
 - [§ 13 Aufbringung der Mittel](0013.md)
 - [§ 14 Beirat](0014.md)
 - [§ 15 Übergangsvorschrift](0015.md)
-- [§ 16 Sonderregelungen aus Anlass der COVID-19-Pandemie](0016.md)
+- [§ 16 (weggefallen)](0016.md)

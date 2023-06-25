@@ -15,6 +15,7 @@
 - [§ 6 Besondere Aufgaben](0006.md)
 - [§ 7 Sofortige Vollziehbarkeit](0007.md)
 - [§ 7a Bekanntmachung von sofort vollziehbaren Maßnahmen](0007a.md)
+- [§ 7b Elektronische Kommunikation; Verordnungsermächtigung](0007b.md)
 - [§ 8 Verschwiegenheitspflicht](0008.md)
 - [§ 9 Zusammenarbeit mit anderen Stellen](0009.md)
 - [§ 10 Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht](0010.md)
@@ -508,7 +509,7 @@
 
 #### Unterabschnitt 2 Anzeigeverfahren für den Vertrieb von inländischen OGAW in anderen Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-- [§ 312 Anzeigepflicht; Verordnungsermächtigung](0312.md)
+- [§ 312 Anzeigepflicht](0312.md)
 - [§ 313 Veröffentlichungspflichten](0313.md)
 - [§ 313a Widerruf des Vertriebs von OGAW in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum](0313a.md)
 
@@ -541,7 +542,7 @@
 
 #### Unterabschnitt 3 Anzeigeverfahren für den Vertrieb von AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union und in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-- [§ 331 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung](0331.md)
+- [§ 331 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0331.md)
 - [§ 331a Widerruf des Vertriebs von EU-AIF oder inländischen AIF in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum](0331a.md)
 - [§ 332 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0332.md)
 - [§ 333 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum](0333.md)

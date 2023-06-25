@@ -31,6 +31,7 @@
 | § 1.22a | Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt |
 | § 1.23 | Erlaubnis besonderer Veranstaltungen |
 | § 1.24 | Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze |
+| § 1.25 | Anordnungen, Erlaubnisse und Genehmigungen |
 |  |
 |  | Kapitel 2 |
 |  | Kennzeichnung und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung |
@@ -262,7 +263,7 @@
 | § 14.09 | Wesseling |
 | § 14.10 | Duisburg-Ruhrort |
 | § 14.11 | (ohne Inhalt) |
-| § 14.12 | Lobith |
+| § 14.12 | (weggefallen) |
 | § 14.13 | Ijzendoorn und Haaften |
 |  |
 | Dritter Teil |

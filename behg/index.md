@@ -5,6 +5,7 @@
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
+- [§ 1 Zweck des Gesetzes](0001.md)
 - [§ 2 Anwendungsbereich](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 

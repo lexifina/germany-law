@@ -1,5 +1,4 @@
-# Gesetz über die Entgelte für voll- und teilstationäre
-Krankenhausleistungen
+# Gesetz über die Entgelte für voll- und teilstationäre Krankenhausleistungen
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 

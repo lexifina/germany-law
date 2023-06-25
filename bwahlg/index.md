@@ -4,13 +4,12 @@
 
 ## Erster Abschnitt Wahlsystem
 
-- [§ 1 Zusammensetzung des Deutschen Bundestages und
-Wahlrechtsgrundsätze](0001.md)
+- [§ 1 Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze](0001.md)
 - [§ 2 Gliederung des Wahlgebietes](0002.md)
 - [§ 3 Wahlkreiskommission und Wahlkreiseinteilung](0003.md)
-- [§ 4 Stimmen](0004.md)
-- [§ 5 Wahl in den Wahlkreisen](0005.md)
-- [§ 6 Wahl nach Landeslisten](0006.md)
+- [§ 4 Grundsätze der Verteilung der Sitze auf Parteien](0004.md)
+- [§ 5 Berechnung der Sitzverteilung](0005.md)
+- [§ 6 Vergabe der Sitze an Bewerber](0006.md)
 - [§ 7 (weggefallen)](0007.md)
 
 ## Zweiter Abschnitt Wahlorgane
@@ -76,7 +75,7 @@ im Deutschen Bundestag
 - [§ 45 Erwerb der Mitgliedschaft im Deutschen Bundestag](0045.md)
 - [§ 46 Verlust der Mitgliedschaft im Deutschen Bundestag](0046.md)
 - [§ 47 Entscheidung über den Verlust der Mitgliedschaft](0047.md)
-- [§ 48 Berufung von Listennachfolgern und Ersatzwahlen](0048.md)
+- [§ 48 Berufung von Nachfolgern](0048.md)
 
 ## Neunter Abschnitt Schlußbestimmungen
 

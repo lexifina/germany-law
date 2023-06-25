@@ -1,4 +1,4 @@
-# Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder
+# Verordnung über Fruchtsaft, Fruchtnektar und koffeinhaltige Erfrischungsgetränke
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -17,20 +17,13 @@
 - [§ 5 Besondere Anforderungen an Herstellung und Inverkehrbringen](0005.md)
 - [§ 6 Kennzeichnung koffeinhaltiger Erfrischungsgetränke](0006.md)
 
-## Abschnitt 4 Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+## Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
 
-- [§ 7 Begriffsbestimmungen](0007.md)
-- [§ 8 Besondere Anforderungen an Herstellung und Inverkehrbringen](0008.md)
-- [§ 9 Kennzeichnung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder](0009.md)
-
-## Abschnitt 5 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
-
-- [§ 10 Verkehrsverbote](0010.md)
-- [§ 11 Straftaten und Ordnungswidrigkeiten](0011.md)
-- [§ 12 Übergangsregelung für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder](0012.md)
-- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [§ 7 Verkehrsverbote](0007.md)
+- [§ 8 Straftaten und Ordnungswidrigkeiten](0008.md)
+- [§ 9 Inkrafttreten, Außerkrafttreten](0009.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)](anlage-1.md)
+- [Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)](anlage-1.md)
 - [Anlage 2 (zu § 2 Abs. 1)](anlage-2.md)
 - [Anlage 3 (zu § 2 Absatz 2)](anlage-3.md)
 - [Anlage 4 (zu § 2 Abs. 3 und 5)](anlage-4.md)

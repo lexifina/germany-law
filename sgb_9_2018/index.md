@@ -252,6 +252,7 @@
 - [§ 151 Geltungsbereich](0151.md)
 - [§ 152 Feststellung der Behinderung, Ausweise](0152.md)
 - [§ 153 Verordnungsermächtigung](0153.md)
+- [§ 153a Sachverständigenbeirat, Verfahren](0153a.md)
 
 ### Kapitel 2 Beschäftigungspflicht der Arbeitgeber
 

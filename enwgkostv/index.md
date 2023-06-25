@@ -1,5 +1,4 @@
-# Verordnung über die Gebühren und Auslagen für Amtshandlungen der 
-Bundesnetzagentur nach dem Energiewirtschaftsgesetz
+# Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)

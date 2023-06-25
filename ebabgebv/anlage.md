@@ -114,17 +114,17 @@ Individuell zurechenbare öffentliche Leistung nach dem ArbSchG und den auf Grun
 Abschnitt 9
 Individuell zurechenbare öffentliche Leistung nach dem IfSG
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
-| 9.1 | Entscheidung über Maßnahmen im Falle der Nichteinhaltung von Grenzwerten und Anforderungen | § 39 IfSG, § 9 TrinkwV | nach Zeitaufwand |
-| 9.2 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; bis zu 10 Hydranten | § 39 IfSG, §§ 18 bis 20 TrinkwV | 900 Euro |
-| 9.3 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 11 bis 50 Hydranten | § 39 IfSG, §§ 18 bis 20 TrinkwV | 1 150 Euro |
-| 9.4 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 51 bis 100 Hydranten | § 39 IfSG, §§ 18 bis 20 TrinkwV | 1 500 Euro |
-| 9.5 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 101 bis 200 Hydranten | § 39 IfSG, §§ 18 bis 20 TrinkwV | 1 700 Euro |
-| 9.6 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; über 200 Hydranten | § 39 IfSG, §§ 18 bis 20 TrinkwV | 2 300 Euro |
-| 9.7 | Prüfung einer mobilen Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen | § 39 IfSG, §§ 18 bis 20 TrinkwV | 500 Euro |
+| 9.1 | Entscheidung über Maßnahmen im Falle der Nichteinhaltung von Grenzwerten und Anforderungen | § 39 IfSG, § 63 TrinkwV | nach Zeitaufwand |
+| 9.2 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; bis zu 10 Hydranten | § 39 IfSG, §§ 54 bis 60 TrinkwV | 900 Euro |
+| 9.3 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 11 bis 50 Hydranten | § 39 IfSG, §§ 54 bis 60 TrinkwV | 1 150 Euro |
+| 9.4 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 51 bis 100 Hydranten | § 39 IfSG, §§ 54 bis 60 TrinkwV | 1 500 Euro |
+| 9.5 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; 101 bis 200 Hydranten | § 39 IfSG, §§ 54 bis 60 TrinkwV | 1 700 Euro |
+| 9.6 | Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen; über 200 Hydranten | § 39 IfSG, §§ 54 bis 60 TrinkwV | 2 300 Euro |
+| 9.7 | Prüfung einer mobilen Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen | § 39 IfSG, §§ 54 bis 60 TrinkwV | 500 Euro |
 | 9.8 | Infektionshygienische Prüfung einer mobilen oder ortsfesten Anlage zur Abwasserentsorgung von Schienenfahrzeugen | § 41 IfSG | 500 Euro |
-| 9.9 | Prüfung einer Trinkwasserversorgungsanlage in einem Schienenfahrzeug | § 39 IfSG, §§ 18 bis 20 TrinkwV | 450 Euro |
+| 9.9 | Prüfung einer Trinkwasserversorgungsanlage in einem Schienenfahrzeug | § 39 IfSG, §§ 54 bis 60 TrinkwV | 450 Euro |
 | 9.10 | Infektionshygienische Prüfung einer Abwasserbeseitigungsanlage in einem Schienenfahrzeugen | § 41 IfSG | 500 Euro |
-| 9.11 | Prüfung von Trinkwasserversorgungs- und Abwasserbeseitigungsanlagen in Schienenfahrzeugen, zentrale Prüfung der Fahrzeugakten eines Betreibers | § 39 und 41 IfSG, §§ 18 bis 20 TrinkwV | 3 600 Euro |
+| 9.11 | Prüfung von Trinkwasserversorgungs- und Abwasserbeseitigungsanlagen in Schienenfahrzeugen, zentrale Prüfung der Fahrzeugakten eines Betreibers | § 39 und 41 IfSG, §§ 54 bis 60 TrinkwV | 3 600 Euro |
 Abschnitt 10
 Individuell zurechenbare öffentliche Leistungen nach der TfV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |

@@ -647,7 +647,7 @@ Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molek
 | 11 | 234 235 | 1,5 | berechnet als Summe der Substanzen |
 | 12 | 80 105 350 | 5 | berechnet als Summe der Substanzen |
 | 13 | 156 180 | 15 | berechnet als Formaldehyd |
-| 14 | 19 42 43 266 | 6 | berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie 98/83/EG) |
+| 14 | 19 42 43 266 | 6 | berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU) 2020/2184 des Europäischen Parlaments und des Rates vom 16. Dezember 2020 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 435 vom 23.12.2020, S. 1)). |
 | 15 | 76 96 120 121 179 198 245 258 271 353 354 355 356 366 367 460 476* | NN | berechnet als Isocyanat-Gruppe (NCO) |
 | 16 | 91 92 | 0,05 | berechnet als Summe der Substanzen |
 | 17 | 260 261 265 267 | 10 | berechnet als SO2 |

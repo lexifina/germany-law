@@ -5,9 +5,9 @@
 | § 1 | Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze |
 | § 2 | Gliederung des Wahlgebietes |
 | § 3 | Wahlkreiskommission und Wahlkreiseinteilung |
-| § 4 | Stimmen |
-| § 5 | Wahl in den Wahlkreisen |
-| § 6 | Wahl nach Landeslisten |
+| § 4 | Grundsätze der Verteilung der Sitze auf Parteien |
+| § 5 | Berechnung der Sitzverteilung |
+| § 6 | Vergabe der Sitze an Bewerber |
 | § 7 | (weggefallen) |
 | Zweiter Abschnitt |
 |  | Wahlorgane (§§ 8 bis 11) |
@@ -63,7 +63,7 @@
 | § 45 | Erwerb der Mitgliedschaft im Deutschen Bundestag |
 | § 46 | Verlust der Mitgliedschaft im Deutschen Bundestag |
 | § 47 | Entscheidung über den Verlust der Mitgliedschaft |
-| § 48 | Berufung von Listennachfolgern und Ersatzwahlen |
+| § 48 | Berufung von Nachfolgern |
 | Neunter Abschnitt |
 |  | Schlußbestimmungen (§§ 49 bis 55) |
 | § 49 | Anfechtung |

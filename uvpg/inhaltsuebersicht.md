@@ -24,6 +24,7 @@ für eine Umweltverträglichkeitsprüfung
 | § 13 | Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben |
 | § 14 | Entwicklungs- und Erprobungsvorhaben |
 | § 14a | Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen |
+| § 14b | Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577 |
 |  |  |
 Abschnitt 2
 Verfahrensschritte

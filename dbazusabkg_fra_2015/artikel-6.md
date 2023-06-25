@@ -1,8 +1,0 @@
-# Artikel 6
-
-(1)
-Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-(2)
-Der Tag, an dem das Zusatzabkommen nach seinem Artikel XVIII Nummer 1 Satz 2 in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
-(3)
-Die Artikel 2 und 4 des Gesetzes sind erstmals für den Veranlagungszeitraum anzuwenden, der dem Jahr des Inkrafttretens des Zusatzabkommens folgt.

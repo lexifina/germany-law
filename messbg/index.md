@@ -4,7 +4,7 @@
 
 ## Teil 1 Allgemeine Bestimmungen
 
-- [§ 1 Anwendungsbereich](0001.md)
+- [§ 1 Zweck und Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Teil 2 Messstellenbetrieb
@@ -20,7 +20,7 @@
 - [§ 8 Messstelle](0008.md)
 - [§ 9 Messstellenverträge](0009.md)
 - [§ 10 Inhalt von Messstellenverträgen](0010.md)
-- [§ 11 Dokumentationspflicht; Sicherstellung des Messstellenbetriebs](0011.md)
+- [§ 11 Dokumentationspflicht; Auffangzuständigkeit für den grundzuständigen Messstellenbetrieb](0011.md)
 - [§ 12 Rechte des Netzbetreibers](0012.md)
 - [§ 13 Nutzung des Verteilernetzes zur Datenübertragung](0013.md)
 
@@ -30,7 +30,7 @@
 - [§ 15 Mitteilungspflichten beim Übergang](0015.md)
 - [§ 16 Übergang technischer Einrichtungen; Meldepflicht](0016.md)
 - [§ 17 Wechsel des Anschlussnutzers](0017.md)
-- [§ 18 Ausfall des Messstellenbetreibers](0018.md)
+- [§ 18 Ausfall des Dritten als Messstellenbetreiber](0018.md)
 
 ### Kapitel 3 Technische Vorgaben zur Gewährleistung von Datenschutz und Datensicherheit beim Einsatz von Smart-Meter-Gateways
 
@@ -48,12 +48,12 @@
 ### Kapitel 4 Ergänzende Rechte und Pflichten im Zusammenhang mit dem Messstellenbetrieb mit modernen Messeinrichtungen und intelligenten Messsystemen
 
 - [§ 29 Ausstattung von Messstellen mit intelligenten Messsystemen und modernen Messeinrichtungen](0029.md)
-- [§ 30 Technische Möglichkeit des Einbaus von intelligenten Messsystemen](0030.md)
-- [§ 31 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen; Preisobergrenzen](0031.md)
+- [§ 30 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen; Preisobergrenzen](0030.md)
+- [§ 31 Agiler Rollout, Anwendungsupdate](0031.md)
 - [§ 32 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit modernen Messeinrichtungen](0032.md)
-- [§ 33 Netzdienlicher und marktorientierter Einsatz](0033.md)
-- [§ 34 Anpassung von Preisobergrenzen](0034.md)
-- [§ 35 Standard- und Zusatzleistungen des Messstellenbetriebs](0035.md)
+- [§ 33 Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen, agilem Rollout und Ausstattungsverpflichtungen; Verordnungsermächtigungen](0033.md)
+- [§ 34 Standard- und Zusatzleistungen des Messstellenbetreibers; Verordnungsermächtigung](0034.md)
+- [§ 35 Preisobergrenzen für Zusatzleistungen des grundzuständigen Messstellenbetreibers](0035.md)
 - [§ 36 Ausstattungspflichten und freie Wahl des Messstellenbetreibers](0036.md)
 - [§ 37 Informationspflichten des grundzuständigen Messstellenbetreibers](0037.md)
 - [§ 38 Zutrittsrecht](0038.md)
@@ -69,13 +69,13 @@
 - [§ 42 Fristen](0042.md)
 - [§ 43 Folgen einer erfolgreichen Übertragung der Grundzuständigkeit](0043.md)
 - [§ 44 Scheitern einer Übertragung der Grundzuständigkeit](0044.md)
-- [§ 45 Pflicht zur Durchführung des Verfahrens zur Übertragung der Grundzuständigkeit](0045.md)
+- [§ 45 Ausstattungsverpflichtungen des grundzuständigen Messstellenbetreibers](0045.md)
 
-### Kapitel 7 Verordnungsermächtigungen; Festlegungskompetenzen der Bundesnetzagentur; Übergangsvorschrift
+### Kapitel 7 Verordnungsermächtigungen; Festlegungskompetenzen der Bundesnetzagentur
 
 - [§ 46 Verordnungsermächtigungen](0046.md)
 - [§ 47 Festlegungen der Bundesnetzagentur](0047.md)
-- [§ 48 Übergangsvorschrift](0048.md)
+- [§ 48 Analysen und Berichte des Bundesministeriums für Wirtschaft und Klimaschutz](0048.md)
 
 ## Teil 3 Regelungen zur Datenkommunikation in intelligenten Energienetzen
 
@@ -85,7 +85,7 @@
 - [§ 49 Verarbeitung personenbezogener Daten](0049.md)
 - [§ 50 Zulässigkeit und Umfang der Verarbeitung von Daten](0050.md)
 - [§ 51 Anforderungen an die Verarbeitung von Daten beim Smart-Meter-Gateway; Rolle des Smart-Meter-Gateway-Administrators](0051.md)
-- [§ 52 Allgemeine Anforderungen an die Datenkommunikation](0052.md)
+- [§ 52 Allgemeine Anforderungen an die Datenkommunikation; Anonymisierung und Pseudonymisierung](0052.md)
 - [§ 53 Auskunftsrechte des Anschlussnutzers](0053.md)
 - [§ 54 Transparenzvorgaben für Verträge](0054.md)
 
@@ -102,19 +102,19 @@
 
 #### Abschnitt 1 Pflichten des Messstellenbetreibers
 
-- [§ 60 Datenübermittlung; sternförmige Kommunikation; Löschung](0060.md)
+- [§ 60 Datenübermittlung; sternförmige Kommunikation; Löschung oder Anonymisierung](0060.md)
 - [§ 61 Verbrauchsinformationen für den Anschlussnutzer bei intelligenten Messsystemen und modernen Messeinrichtungen](0061.md)
 - [§ 62 Messwertverarbeitung zu Zwecken des Anlagenbetreibers](0062.md)
 - [§ 63 Übermittlung von Stammdaten; Löschung](0063.md)
-- [§ 64 Übermittlung von Netzzustandsdaten; Löschung](0064.md)
+- [§ 64 Löschung von übermittelten Netzzustandsdaten](0064.md)
 - [§ 65 Weitere Datenübermittlung](0065.md)
 
 #### Abschnitt 2 Zulässiger Datenaustausch: Pflichten der übrigen an der Datenkommunikation Beteiligten
 
-- [§ 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung](0066.md)
-- [§ 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung](0067.md)
-- [§ 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung](0068.md)
-- [§ 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung](0069.md)
+- [§ 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung oder Anonymisierung](0066.md)
+- [§ 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung oder Anonymisierung](0067.md)
+- [§ 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung](0068.md)
+- [§ 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung oder Anonymisierung](0069.md)
 - [§ 70 Messwertverarbeitung auf Veranlassung des Anschlussnutzers; weiterer Datenaustausch](0070.md)
 
 #### Abschnitt 3 Besondere Fallgruppen
@@ -131,5 +131,5 @@
 ## Teil 4 Besondere Aufgaben der Regulierungsbehörden
 
 - [§ 76 Aufsichtsmaßnahmen der Bundesnetzagentur](0076.md)
-- [§ 77 Bericht der Bundesnetzagentur](0077.md)
+- [§ 77 Monitoring-Bericht der Bundesnetzagentur](0077.md)
 - [Anlage (zu § 22 Absatz 2 Satz 1)Übersicht über die Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](anlage.md)

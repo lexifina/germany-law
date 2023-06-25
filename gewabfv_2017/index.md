@@ -12,6 +12,7 @@
 
 - [§ 3 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von gewerblichen Siedlungsabfällen](0003.md)
 - [§ 4 Vorbehandlung von gewerblichen Siedlungsabfällen](0004.md)
+- [§ 4a Umgang mit verpackten Bioabfällen](0004a.md)
 - [§ 5 Gemeinsame Erfassung und Entsorgung von Kleinmengen](0005.md)
 - [§ 6 Anforderungen an Vorbehandlungsanlagen](0006.md)
 - [§ 7 Überlassung von gewerblichen Siedlungsabfällen, die nicht verwertet werden](0007.md)

@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 4)Verbotene Zusatzstoffe in Tabakerzeugnissen
 
 1. Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck erwecken, dass ein Tabakerzeugnis einen gesundheitlichen Nutzen habe oder geringere Gesundheitsrisiken berge:
-  a) Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung in der jeweils geltenden Fassung für diätetische Lebensmittel zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+  a) Aminosäuren und modifizierte Aminosäuren sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
   b) Carnitin
     L-Carnitin
     L-Carnitinhydrochlorid

@@ -39,7 +39,7 @@
 | § 19 | Aufgaben des Gesundheitsamtes in besonderen Fällen |
 | § 20 | Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe |
 | § 20a | (weggefallen) |
-| § 20b | Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 |
+| § 20b | (weggefallen) |
 | § 20c | Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker |
 | § 21 | Impfstoffe |
 | § 22 | Impf-, Genesenen- und Testdokumentation |

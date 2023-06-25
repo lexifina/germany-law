@@ -123,6 +123,7 @@ des Verurteilten
 - [§ 58a Ersuchen um Übermittlung personenbezogener Daten von ECRIS-TCN](0058a.md)
 - [§ 58b Austausch von personenbezogenen Daten zwischen der Registerbehörde und dem Bundeskriminalamt](0058b.md)
 - [§ 58c Ablauf der Speicherfrist in ECRIS-TCN](0058c.md)
+- [§ 58d Kennzeichnung eines Datensatzes](0058d.md)
 
 ## Dritter Teil Das Erziehungsregister
 

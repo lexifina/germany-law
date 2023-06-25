@@ -1,10 +1,11 @@
-# Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden
+# Verordnung über die Verwertung von Bioabfällen auf Böden
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Anforderungen an die hygienisierende Behandlung](0003.md)
 - [§ 3a Anforderungen an die biologisch stabilisierende Behandlung](0003a.md)
 - [§ 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung](0003b.md)
+- [§ 3c Schadstoff- und Fremdstoffminimierung](0003c.md)
 - [§ 4 Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter](0004.md)
 - [§ 5 Anforderungen an Gemische](0005.md)
 - [§ 5a Rückstellprobe](0005a.md)
@@ -21,7 +22,7 @@
 - [§ 13a Bestimmungen für bestehende Anlagen](0013a.md)
 - [§ 13b Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen](0013b.md)
 - [§ 14 Inkrafttreten](0014.md)
-- [Anhang 1 (zu § 2 Nummer 1, 4, 5, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Flächen geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe](anhang-1.md)
+- [Anhang 1 (zu § 2 Nummer 1, 1a, 4, 5, § 2a Absatz 1, 2, 3, 4, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 1a, 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Böden geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe](anhang-1.md)
 - [Anhang 2 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit](anhang-2.md)
-- [Anhang 3 (zu § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)](anhang-3.md)
+- [Anhang 3 (zu § 2a Absatz 7, § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)](anhang-3.md)
 - [Anhang 4 (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung](anhang-4.md)

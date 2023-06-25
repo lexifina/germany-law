@@ -4,7 +4,7 @@
 | I. Berufliche Grundbildung |
 |  |  |  |  |  |  |  |  |  |
 | Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
-| 1 | 2 | 3 | 4 |
+| 1 | 2 | 3 |
 | 1 | 2 | 3 | 4 |
 | 1 | Berufsbildung (§ 5 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
 | b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
@@ -76,7 +76,7 @@
 | d) | Verarbeitungstemperaturen beachten |
 | II. Berufliche Fachbildung |
 | Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
-| 1 | 2 | 3 | 4 |
+| 1 | 2 | 3 |
 | 1 | 2 | 3 | 4 |
 | 1 | Prüfen von Bau- und Bauhilfsstoffen nach Art und Menge, Lagern und Transportieren (§ 5 Nr. 8) | a) | Befestigungsmittel prüfen und dem Verwendungszweck zuordnen |  | 2 |  |  |
 | b) | Dämmstoffe prüfen und lagern |

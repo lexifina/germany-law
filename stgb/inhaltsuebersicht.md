@@ -479,7 +479,6 @@
 |  | §§ 180b | und 181 (weggefallen) |
 |  | § 181a | Zuhälterei |
 |  | § 181b | Führungsaufsicht |
-|  | § 181c | (weggefallen) |
 |  | § 182 | Sexueller Mißbrauch von Jugendlichen |
 |  | § 183 | Exhibitionistische Handlungen |
 |  | § 183a | Erregung öffentlichen Ärgernisses |

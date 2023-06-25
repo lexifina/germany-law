@@ -530,8 +530,7 @@ für eingetragene Genossenschaften
 - [§ 338 Vorschriften zum Anhang](0338.md)
 - [§ 339 Offenlegung](0339.md)
 
-### Vierter Abschnitt Ergänzende Vorschriften für
-Unternehmen bestimmter Geschäftszweige
+### Vierter Abschnitt Ergänzende Vorschriften für bestimmte Unternehmen
 
 
 #### Erster Unterabschnitt Ergänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute
@@ -646,11 +645,46 @@ Rückstellungen
 - [§ 341x Bußgeldvorschriften](0341x.md)
 - [§ 341y Ordnungsgeldvorschriften](0341y.md)
 
+#### Vierter Unterabschnitt Ergänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne
+
+
 ### Fünfter Abschnitt Privates Rechnungslegungsgremium.
 Rechnungslegungsbeirat
 
-- [§ 342 Privates Rechnungslegungsgremium](0342.md)
-- [§ 342a Rechnungslegungsbeirat](0342a.md)
+
+##### Erster Titel Anwendungsbereich; BegriffsbestimmungenAnwendungsbereich; Begriffsbestimmungen
+
+- [§ 342 Anwendungsbereich](0342.md)
+- [§ 342a Begriffsbestimmungen](0342a.md)
+
+##### Zweiter Titel Pflicht zur Ertragsteuerinformationsberichterstattung
+
+- [§ 342b Unverbundene Unternehmen mit Sitz im Inland](0342b.md)
+- [§ 342c Oberste Mutterunternehmen mit Sitz im Inland](0342c.md)
+- [§ 342d Tochterunternehmen mit Sitz im Inland von obersten Mutterunternehmen mit Sitz in einem Drittstaat](0342d.md)
+- [§ 342e Inländische Zweigniederlassungen unverbundener Unternehmen mit Sitz in einem Drittstaat](0342e.md)
+- [§ 342f Inländische Zweigniederlassungen verbundener Unternehmen mit Sitz in einem Drittstaat](0342f.md)
+
+##### Dritter Titel Einzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts
+
+- [§ 342g Einzubeziehende Unternehmen](0342g.md)
+- [§ 342h Pflichtangaben](0342h.md)
+- [§ 342i Länderbezogener Ausweis der Angaben](0342i.md)
+- [§ 342j Währung](0342j.md)
+- [§ 342k Weglassen nachteiliger Angaben](0342k.md)
+- [§ 342l Formblatt; maschinenlesbares elektronisches Format](0342l.md)
+
+##### Vierter Titel Offenlegung und Veröffentlichung
+
+- [§ 342m Offenlegung im Unternehmensregister](0342m.md)
+- [§ 342n Veröffentlichung auf der Internetseite der Gesellschaft](0342n.md)
+
+##### Fünfter Titel Bußgeldvorschriften; Ordnungsgelder
+
+- [§ 342o Bußgeldvorschriften](0342o.md)
+- [§ 342p Ordnungsgelder](0342p.md)
+- [§ 342q Privates Rechnungslegungsgremium](0342q.md)
+- [§ 342r Rechnungslegungsbeirat](0342r.md)
 
 ## Viertes Buch Handelsgeschäfte
 

@@ -1,10 +1,10 @@
 # Inhaltsübersicht
 
-| § 1 | Anspruch |
-| § 1a | Schutzimpfung gegen weitere übertragbare Krankheiten |
-| § 2 | Folge- und Auffrischimpfungen |
-| § 3 | Leistungserbringer |
-| § 4 | Impfsurveillance |
+| § 1 | (weggefallen) |
+| § 1a | (weggefallen) |
+| § 2 | (weggefallen) |
+| § 3 | (weggefallen) |
+| § 4 | (weggefallen) |
 | § 5 | Terminvergabe |
 | § 6 | Vergütung von Leistungen |
 | § 7 | Teilfinanzierung der Kosten der Impfzentren und der mobilen Impfteams |
@@ -15,6 +15,6 @@
 | § 12 | Verfahren für die Finanzierung aus Bundesmitteln |
 | § 13 | Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen |
 | § 14 | (weggefallen) |
-| § 15 | Evaluierung |
-| § 16 | Übergangsvorschriften |
+| § 15 | (weggefallen) |
+| § 16 | (weggefallen) |
 | § 17 | Außerkrafttreten |

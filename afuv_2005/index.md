@@ -3,7 +3,6 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
-- [Anlage 2 (weggefallen)](anlage-2.md)
 - [§ 3 Zulassung zur Prüfung](0003.md)
 - [§ 4 Prüfungsanforderungen und Prüfungsinhalte](0004.md)
 - [§ 5 Durchführung der Prüfung](0005.md)
@@ -23,3 +22,4 @@
 - [§ 19 Übergangsregelungen](0019.md)
 - [§ 20 Inkrafttreten, Außerkrafttreten](0020.md)
 - [Anlage 1 (zu § 1 Nr. 6)Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche](anlage-1.md)
+- [Anlage 2 (weggefallen)](anlage-2.md)

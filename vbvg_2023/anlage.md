@@ -50,7 +50,7 @@ Vergütungstabelle C
 | C1.1.2 | nicht mittellos | 327,00 € |
 | C1.2 | andere Wohnform | C1.2.1 | mittellos | 339,00 € |
 | C1.2.2 | nicht mittellos | 486,00 € |
-| C2 | Im vierten bis sechsten Monat | C2.1 | stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform | C2.1.1 | mittellos | 209,00 € |
+| C2 | Im vierten bis sechsten Monat | C2.1 | stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform | C2.1.1 | mittellos | 208,00 € |
 | C2.1.2 | nicht mittellos | 257,00 € |
 | C2.2 | andere Wohnform | C2.2.1 | mittellos | 277,00 € |
 | C2.2.2 | nicht mittellos | 339,00 € |

@@ -254,3 +254,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Neunundvierzigster Abschnitt Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
 - [Art 88](art-88.md)
+
+## Einundfünfzigster Abschnitt Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+
+- [Art 90](art-90.md)

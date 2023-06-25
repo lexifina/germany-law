@@ -98,9 +98,12 @@ Gebühren
 | 1425 | der Einzelrechnungslegung von Eisenbahnen nach § 7 Abs. 1 Satz 1 ERegG .......... Für die Einstellung dieser Unterlagen werden die Gebühren 1420 bis 1423 nicht erhoben. | 45,00 € |
 | 1426 | der Konzernrechnungslegung nach § 325 Abs. 3, § 340l Abs. 1 Satz 1 oder § 341l Abs. 1 Satz 1 HGB oder nach § 15 Abs. 1 Satz 1 PublG: |  |
 |  | a)für Unterlagen, die im Format Extensible Markup Language (XML) übermittelt werden ..........b)für Unterlagen, die in dem Offenlegungsformat nach § 328 Abs. 1 Satz 4 HGB übermittelt werden .......... Werden Unterlagen in unterschiedlichen Dateiformaten übermittelt, wird die höhere Gebühr erhoben. | 330,00 € 550,00 € |
-| 1427 | der Rechnungslegung von Kapitalgesellschaften mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum durch eine inländische Zweigniederlassung nach § 325a HGB sowie von Unternehmen mit Sitz in einem anderen Staat durch eine inländische Zweigniederlassung nach § 340l Abs. 2 HGB .......... | 55,00 € |
+| 1427 | der Rechnungslegung von Kapitalgesellschaften mit Sitz in einem anderen Staat durch eine inländische Zweigniederlassung nach § 325a HGB sowie von Unternehmen mit Sitz in einem anderen Staat durch eine inländische Zweigniederlassung nach § 340l Abs. 2 HGB: |  |
+|  | a)für Unterlagen, die im Format Extensible Markup Language (XML) übermittelt werden .......... | 55,00 € |
+|  | b)für Unterlagen, die in einem anderen Format übermittelt werden .......... | 275,00 € |
+|  | Werden Unterlagen in unterschiedlichen Dateiformaten übermittelt, wird die höhere Gebühr erhoben. |  |
 | 1428 | nach § 264 Abs. 3 Satz 1 Nr. 5, § 264b Nr. 4, § 291 Abs. 1 Satz 1 oder § 292 Abs. 1 Nr. 4 HGB .......... | 30,00 € |
-| 1429 | nach § 2 Abs. 2, § 12 Abs. 2 oder § 2 Abs. 3 Satz 6, auch i. V. m. § 12 Abs. 3 Satz 2 PublG .......... | 30,00 € |
+| 1429 | nach § 2 Abs. 2, § 12 Abs. 2 oder § 2 Abs. 3 Satz 6, auch i. V. m. § 12 Abs. 3 Satz 3 PublG .......... | 30,00 € |
 | Abschnitt 3Einstellung von Unternehmensberichten |
 | Vorbemerkung 1.4.3: (1) Mit den Gebühren nach diesem Abschnitt wird der Aufwand für die Einstellung von Unternehmensberichten sowie für eine Prüfung nach § 329 HGB entgolten. (2) Wird ein Unternehmensbericht vor der Einstellung in das Unternehmensregister ergänzt oder geändert übermittelt, handelt es sich nur um ein Verfahren; in diesen Fällen erhöhen sich die Gebühren dieses Abschnitts um 50 Prozent. (3) Wird vor der Einstellung des Unternehmensberichts in das Unternehmensregister verlangt, diesen nicht in das Unternehmensregister einzustellen, ermäßigen sich die Gebühren nach diesem Abschnitt um 50 Prozent. Die Gebühren entstehen nicht, wenn im Fall des Satzes 1 die Nichteinstellung an demselben Kalendertag verlangt wird, an dem die Übermittlung des Unternehmensberichts erfolgt ist. |
 |  | Verfahren zur Einstellung |  |
@@ -113,6 +116,7 @@ Gebühren
 | 1436 | eines Zahlungs- oder Konzernzahlungsberichts nach § 116 Abs. 2 Satz 3 WpHG .......... | 55,00 € |
 | 1437 | eines Berichts zur Gleichstellung und Entgeltgleichheit nach § 22 Abs. 4 EntgTranspG .......... | 55,00 € |
 | 1438 | eines gesonderten nichtfinanziellen Berichts nach § 289b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB oder eines gesonderten nichtfinanziellen Konzernberichts nach § 315b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB .......... | 55,00 € |
+| 1439 | eines Ertragsteuerinformationsberichts nach § 342m HGB .......... | 220,00 € |
 | Abschnitt 4Sonstige Gebühren |
 | 1440 | Übermittlung zur Einsichtnahme von Unterlagen, die nach § 326 Abs. 2 Satz 1 oder § 325 Abs. 2b Nr. 3 HGB zur dauerhaften Hinterlegung eingestellt wurden:für jede übermittelte Unterlage .......... | 1,00 € |
 | 1441 | Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die Identitätsprüfung erfolgt anhand |  |

@@ -1,3 +1,0 @@
-# Artikel 1
-
-Dem in Warschau am 5. Dezember 2014 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen zum Export besonderer Leistungen für berechtigte Personen, die im Hoheitsgebiet der Republik Polen wohnhaft sind, wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
