@@ -120,19 +120,19 @@
 | Anhang *) |
 | Anlage 1 |
 | (zu § 17 Absatz 6) |
-| Antrag auf Eintragung in das Wählerverzeichnis von wahlberechtigten Deutschen, die in die Bundesrepublik Deutschland zurückkehren – Erst- und Zweitausfertigung – und Merkblatt zum Antrag |
+| Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrende aus dem Ausland |
 | Anlage 2 |
 | (zu § 17 Absatz 5) |
-| Antrag auf Eintragung in das Wählerverzeichnis von wahlberechtigten Deutschen, die im Ausland leben – Erst- und Zweitausfertigung – und Merkblatt zum Antrag |
+| Antrag auf Eintragung in das Wählerverzeichnis und Wahlscheinantrag für im Ausland lebende Deutsche |
 | Anlage 2A |
 | (zu § 17a Absatz 2) |
-| Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger und Merkblatt zum Antrag |
+| Antrag für Unionsbürgerinnen und Unionsbürger auf Eintragung in das Wählerverzeichnis zur Europawahl |
 | Anlage 2B |
 | (zu § 17a Abs. 5) |
 | Einheitliches Formular für den Informationsaustausch zwischen den Mitgliedstaaten |
 | Anlage 2C |
 | (zu § 17b Abs. 2) |
-| Antrag für Unionsbürger, nicht im Wählerverzeichnis geführt zu werden |
+| Antrag für Unionsbürgerinnen und Unionsbürger, nicht im Wählerverzeichnis geführt zu werden |
 | Anlage 3 |
 | (zu § 18 Abs. 1) |
 | Wahlbenachrichtigung |

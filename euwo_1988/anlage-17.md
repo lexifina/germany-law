@@ -104,7 +104,7 @@ usw.
 |  |  |  |  |  |  |  |  |  |
 | Die Versammlung beauftragte |
 |  |  |  |  |  |  |  |  |  |
-| Familiennamen und Vornamen von 2 Teilnehmern |
+| Familiennamen und Vornamen von mindestens zwei Teilnehmern |
 |  |
 |  |  |  |  |  |  |  |  |  |
 | neben dem Leiter die Versicherung an Eides statt darüber abzugeben, dass die Anforderungen des § 10 Abs. 3 Satz 1 bis 3 des Europawahlgesetzes beachtet worden sind. |

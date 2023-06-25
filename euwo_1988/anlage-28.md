@@ -52,7 +52,9 @@
 |  |  |  |  |  |  |  |  |  |  |  |
 |  | und die als Anlage beigefügte Zusammenstellung der Ergebnisse nach Wahlbezirken - und Gemeinden zur Einsichtnahme vor. |
 |  |  |  |  |  |  |  |  |  |  |  |
-| 2.1 | Der Kreis-/Stadtwahlausschuss stellte fest, dass die Beschlüsse der Wahlvorstände zu folgenden - keinen Beanstandungen oder Bedenken Anlass gaben: |
+| 2.1 | Nach den Wahlniederschriften waren besondere Vorkommnisse zu verzeichnen, die der Anlage zu entnehmen sind. |
+|  |  |  |  |  |  |  |  |  |  |  |
+| 2.2 | Der Kreis-/Stadtwahlausschuss stellte fest, dass die Beschlüsse der Wahlvorstände zu folgenden - keinen Beanstandungen oder Bedenken Anlass gaben: |
 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |
@@ -64,7 +66,7 @@
 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |
-| 2.2 | Der Kreis-/Stadtwahlausschuss nahm rechnerische Berichtigungen in der Wahlniederschrift |
+| 2.3 | Der Kreis-/Stadtwahlausschuss nahm rechnerische Berichtigungen in der Wahlniederschrift |
 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | nähere Bezeichnung |  |  |  |  |
 |  | - | des Wahlvorstandes |  |  |  |  |  |  |
@@ -74,7 +76,7 @@
 |  |  |  |  |  |  |  |  |  |  |  |
 |  | vor und vermerkte dies auf der/den betreffenden Wahlniederschrift/en. |
 |  |  |  |  |  |  |  |  |  |  |  |
-| 2.3 | Der Kreis-/Stadtwahlausschuss beschloss abweichend von den Entscheidungen |
+| 2.4 | Der Kreis-/Stadtwahlausschuss beschloss abweichend von den Entscheidungen |
 |  |  |  |  |  |  |  |  |  |  |  |
 |  | - | des Wahlvorstandes über die Gültigkeit von Stimmen im Wahlbezirk |
 |  |  |  |  |  |  |  |  |  |  |  |

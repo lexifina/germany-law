@@ -85,7 +85,7 @@ Stimmzettel
 - [§ 50 Stimmabgabe von Wählern mit Behinderungen](0050.md)
 - [§ 51 (weggefallen)](0051.md)
 - [§ 52 Stimmabgabe von Inhabern eines Wahlscheines](0052.md)
-- [§ 53 Schluß der Wahlhandlung](0053.md)
+- [§ 53 Schluss der Wahlhandlung](0053.md)
 
 ### Zweiter Unterabschnitt Besondere Regelungen
 
@@ -101,8 +101,7 @@ Justizvollzugsanstalten](0057.md)
 ## Vierter Abschnitt Ermittlung und Feststellung der
 Wahlergebnisse
 
-- [§ 60 Ermittlung und Feststellung des Wahlergebnisses
-im Wahlbezirk](0060.md)
+- [§ 60 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk](0060.md)
 - [§ 61 Zählung der Wähler](0061.md)
 - [§ 62 Zählung der Stimmen](0062.md)
 - [§ 63 Bekanntgabe des Wahlergebnisses](0063.md)

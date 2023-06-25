@@ -3,10 +3,10 @@
 Rückseite der Wahlbenachrichtigung
 | Wahlscheinantrag (Wahlscheinantrag bitte bei der Gemeindebehörde abgeben oder bei Postversand im frankierten Umschlag absenden) |
 |  |  |  |  |  |
-|  | Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern in einem anderen Wahlbezirk Ihres Kreises/Ihrer kreisfreien Stadt oder durch Briefwahl wählen wollen. |  | Für amtliche Vermerke |
+|  | Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern durch Briefwahl oder in einem anderen Wahlbezirk Ihres Kreises/Ihrer kreisfreien Stadt wählen wollen. Bei Wahl in einem Wahlraum muss dann der Wahlschein vorgelegt werden. |  | Für amtliche Vermerke |
 | An die Gemeindebehörde........................................ |
 | Antrag auf Erteilung eines Wahlscheins |
-| für die umseitig angegebene Wahl2).......... |
+| für die umseitig angegebene Wahl.......... |
 | (Nachstehende Angaben bitte in Druckschrift) |
 | Ich beantrage die Erteilung eines Wahlscheins ⃞ für mich | Ich beantrage die Erteilung eines Wahlscheins | ⃞ für mich | ⃞ für mich |  | ⃞ als Vertreter für nebenstehend genannte Person. Eine schriftliche Vollmacht oder beglaubigte Abschrift zum Nachweis meiner Berechtigung zur Antragstellung füge ich diesem Antrag bei. Die Vollmacht kann mit diesem Formular erteilt werden (siehe erstes Kästchen unten). |
 | Familienname: .......... |
@@ -14,14 +14,14 @@ Rückseite der Wahlbenachrichtigung
 | Geburtsdatum: .......... |
 | Anschrift: .......... |
 | .......... (Straße, Hausnummer, Postleitzahl, Ort) |
-| Der Wahlschein mit den Briefwahlunterlagen3) |
+| Der Wahlschein mit den Briefwahlunterlagen |
 | ⃞ soll an meine obige Anschrift geschickt werden. |
 | ⃞ soll an mich an folgende Anschrift geschickt werden: |
 | .......... (Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Ort, ggf. Staat) |
 | ⃞ wird abgeholt. |
 |  | .......... (Datum) (Unterschrift des Wahlberechtigten oder – bei Vertretung – des Bevollmächtigten) |  |
 |  | Vollmacht des Wahlberechtigten |  |
-|  | Ich bevollmächtige3) |  |
+|  | Ich bevollmächtige |  |
 |  | ⃞ zur Stellung des Antrags auf Erteilung eines Wahlscheins |  |
 |  | ⃞ zur Abholung des Wahlscheins mit Briefwahlunterlagen |  |
 |  | .......... (Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Ort) |  |

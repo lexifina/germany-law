@@ -1,10 +1,9 @@
 # Anlage 2A (zu § 17a Absatz 2)Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
 
-① Antrag
-auf Eintragung in das Wählerverzeichnis zur Europawahl 20..
-gemäß § 17a Absatz 2 der Europawahlordnung
+① Antrag für Unionsbürgerinnen und Unionsbürger
+auf Eintragung in das Wählerverzeichnis zur Europawahl
 |  |  |  |  |
-| ② | An die Gemeindebehörde |  | Bitte–füllen Sie den Antrag in Druck- oder Maschinenschrift aus,–beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,–das Zutreffende ankreuzen ⌧Der Antrag muss der Gemeindebehörde im Original zugehen! |
+| ② | An die Gemeindebehörde |  | Bitte–füllen Sie den Antrag in Druck- oder Maschinenschrift aus,–beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,–bei Versand des Antrages diesen ausschließlich per Post versenden,–das Zutreffende ankreuzen ⌧Der Antrag muss der Gemeindebehörde im Original zugehen! |
 |  | .................................................................................................................................................................................................... |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -25,7 +24,7 @@ gemäß § 17a Absatz 2 der Europawahlordnung
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  | ⃞ Ich habe das 18. Lebensjahr vollendet. |  | oder | ⃞ Ich werde das 18. Lebensjahr bis zum Wahltag vollenden. |  |
+|  | ⃞ Ich habe das 16. Lebensjahr vollendet. |  | oder | ⃞ Ich werde das 16. Lebensjahr bis zum Wahltag vollenden. |  |
 | ⑨ | ⃞ Ich bin im Herkunftsmitgliedstaat nicht vom aktiven Wahlrecht ausgeschlossen. |  |
 | ⑩ | ⃞ Ich werde am Wahltag seit mindestens drei Monaten in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten haben. |  |
 | ⑪ | ⃞ Ich nehme an der Wahl zum Europäischen Parlament in keinem anderen Mitgliedstaat der Europäischen Union teil und habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland gestellt. |  |
@@ -53,7 +52,7 @@ gemäß § 17a Absatz 2 der Europawahlordnung
 |  |  |  |  |  |  |  |  |
 | 3. | Status als Unionsbürger achgewiesen |  | □ nein | □ ja |  |
 |  |  |  |  |  |  |  |  |
-| 4. | 18. Lebensjahr am Wahltag vollendet |  | □ nein | □ ja |  |
+| 4. | 16. Lebensjahr am Wahltag vollendet |  | □ nein | □ ja |  |
 |  |  |  |  |  |  |  |  |
 | 5. | Weitere wahlrechtliche VoraussetzungenInnehabung einer Wohnung oder eines sonstigen gewöhnlichen Aufenthaltes in der Bundesrepublik Deutschland | □ nein | □ ja |  |
 |  | Am Wahltag mindestens dreimonatige ununterbrochene Innehabung einer Wohnung oder eines sonstigen gewöhnlichen Aufenthaltes in der Bundesrepublik Deutschland oder einem anderen Mitgliedstaat der Europäischen Union. | □ nein | □ ja |  |
@@ -77,8 +76,8 @@ gemäß § 17a Absatz 2 der Europawahlordnung
 |  |  |  |  |  |  |  |  |
 | noch Anlage 2A (zu § 17a Absatz 2) |
 Merkblatt
-zu dem Antrag auf Eintragung in das Wählerverzeichnis
-für Unionsbürger
+zu dem Antrag für Unionsbürgerinnen und -bürger
+auf Eintragung in das Wählerverzeichnis zur Europawahl
 Der Antrag darf nur von wahlberechtigten Unionsbürgern, die in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten (und die nicht gleichzeitig Deutsche sind), ausgefüllt werden.
 | ① | Antrag auf Eintragung in das Wählerverzeichnis |
 |  | Unionsbürger können an der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind. |
@@ -119,10 +118,9 @@ Der Antrag darf nur von wahlberechtigten Unionsbürgern, die in der Bundesrepubl
 |  | Spanien: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); zweiter Nachname |
 |  | Tschechische Republik: keine |
 |  | Ungarn: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch) |
-|  | Vereinigtes Königreich: keine (Dies entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 EUV vom 29. März 2017 zum Zeitpunkt der Europawahl gemäß Artikel 50 Absatz 3 EUV die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden .) |
 |  | Zypern: Identitätskarten-/nationale Nummer (bitte auch angeben, wenn mit Angabe unter ③ identisch); Wahlnummer |
 | ⑨ | Vom Wahlrecht zum Europäischen Parlament ist nach § 6a Absatz 2 Nummer 2 des Europawahlgesetzes ein Unionsbürger ausgeschlossen, wenn er in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit er besitzt (Herkunftsmitgliedstaat), infolge einer zivil- oder strafrechtlichen Einzelfallentscheidung das Wahlrecht zum Europäischen Parlament nicht besitzt. |
-| ⑩ | Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich (entfällt, wenn entsprechend der Mitteilung nach Artikel 50 Absatz 2 EUV vom 29. März 2017 zum Zeitpunkt der Wahl gemäß Artikel 50 Absatz 3 EUV die Verträge auf das Vereinigte Königreich Großbritannien und Nordirland keine Anwendung mehr finden) und Zypern. |
+| ⑩ | Außer der Bundesrepublik Deutschland sind zur Zeit Mitgliedstaaten der Europäischen Union: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, und Zypern. |
 |  | Die Voraussetzung ist auch bei einem dreimonatigen aufeinanderfolgenden Aufenthalt in der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union erfüllt. |
 | ⑪ | Niemand darf an der Wahl zum Europäischen Parlament mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Wahl zum Europäischen Parlament in mehreren Mitgliedstaaten der Europäischen Union oder mehrfach in der Bundesrepublik Deutschland beteiligen würde. Die Gemeindebehörde unterrichtet den Bundeswahlleiter über die Eintragung eines Unionsbürgers in das Wählerverzeichnis, der diese Information an die zuständige Stelle des Herkunftsmitgliedstaates weiterleitet, damit ggf. eine Stimmabgabe dieses Unionsbürgers in mehreren Mitgliedstaaten verhindert werden kann. |
 | ⑫ | Eine Eintragung von Amts wegen bei künftigen Europawahlen erfolgt nach Maßgabe von § 17b der Europawahlordnung (EuWO). Unionsbürger können bei Wahlen zum Europäischen Parlament bis spätestens zum 21. Tage vor der Wahl bei der zuständigen Gemeindebehörde schriftlich beantragen, nicht im Wählerverzeichnis geführt zu werden. Dieser Antrag gilt für alle künftigen Wahlen zum Europäischen Parlament, bis der Unionsbürger wieder einen Antrag auf Eintragung in das Wählerverzeichnis stellt. Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich. |

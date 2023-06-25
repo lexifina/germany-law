@@ -30,7 +30,7 @@
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| Der Leiter der Versammlung |  |  | Die von der Versammlung bestimmten zwei Teilnehmer |
+| Der Leiter der Versammlung |  |  | Als Mitunterzeichner |
 | Name des Unterzeichners in Maschinen- oder Druckschrift und handschriftliche Unterschrift |  |  | Namen des Unterzeichners in Maschinen- oder Druckschrift und handschriftliche Unterschrift |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |

@@ -62,7 +62,7 @@
 |  |  |  |  |  |  |  |  |  |
 | 6. | Mit dem Wahlschein erhält der Wahlberechtigte |
 |  | - | einen amtlichen Stimmzettel, |
-|  | - | einen amtlichen blauen Stimmzettelumschlag, |
+|  | - | einen amtlichen Stimmzettelumschlag, |
 |  | - | einen amtlichen, mit der Anschrift, an die der Wahlbrief zurückzusenden ist, versehenen roten Wahlbriefumschlag und |
 |  | - | ein Merkblatt für die Briefwahl. |
 |  |  |  |  |  |  |  |  |  |

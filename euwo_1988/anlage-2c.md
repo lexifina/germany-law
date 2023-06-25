@@ -1,11 +1,11 @@
 # Anlage 2C (zu § 17b Abs. 2)
 
-| Bitte- füllen Sie den Antrag in Druck- oder Maschinenschrift aus,- beachten Sie die Erläuterungen im Merkblatt zu den Randnummern ( ),- das Zutreffende ankreuzen ☒ bzw. ausfüllen. |  |  |
+| Bitte- füllen Sie den Antrag in Druck- oder Maschinenschrift aus,- beachten Sie die Erläuterungen im Merkblatt zu den Randnummern ( ),- bei Versand des Antrags diesen ausschließlich per Post versenden,- das Zutreffende ankreuzen ☒ bzw. ausfüllen. |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | (1) | An dieGemeindebehörde |  |  |  |
-|  | Antrag für Unionsbürger, nicht im Wählerverzeichnis geführt zu werden |
+|  | Antrag für Unionsbürgerinnen und Unionsbürger, nicht im Wählerverzeichnis geführt zu werden |
 |  |
 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |

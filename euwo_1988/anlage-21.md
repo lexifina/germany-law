@@ -32,7 +32,7 @@
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf der Vertrauensperson |  | Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf der stellvertretenden Vertrauensperson |
+| Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse der Vertrauensperson |  | Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse der stellvertretenden Vertrauensperson |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |

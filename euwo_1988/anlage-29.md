@@ -41,7 +41,9 @@
 |  |  |
 |  | als Anlage beigefügte Zusammenstellung der Ergebnisse nach Kreisen und kreisfreien Städten zur Einsichtnahme vor. |
 |  |  |  |  |  |  |  |  |  |  |
-| 2.1 | Der Landeswahlausschuss stellte fest, dass die Niederschriften der Kreis- und Stadtwahlausschüsse zu folgenden - keinenBeanstandungen oder Bedenken Anlass gaben: |
+| 2.1 | Nach den Wahlniederschriften waren besondere Vorkommnisse zu verzeichnen, die der Anlage zu entnehmen sind. |
+|  |  |  |  |  |  |  |  |  |  |
+| 2.2 | Der Landeswahlausschuss stellte fest, dass die Niederschriften der Kreis- und Stadtwahlausschüsse zu folgenden - keinenBeanstandungen oder Bedenken Anlass gaben: |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
@@ -53,7 +55,7 @@
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
-| 2.2 | Der Landeswahlausschuss nahm rechnerische Berichtigungenin der Wahlniederschrift |
+| 2.3 | Der Landeswahlausschuss nahm rechnerische Berichtigungenin der Wahlniederschrift |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | nähere Bezeichnung |  |  |  |
 |  | - des Wahlvorstandes |  |  |  |  |  |

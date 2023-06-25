@@ -2,7 +2,7 @@
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2583;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Vorderseite des Stimmzettelumschlags für die Briefwahl *) (DIN C6) blau
+Vorderseite des Stimmzettelumschlags für die Briefwahl
 | Stimmzettelumschlag für die Briefwahl |
 | In diesen Stimmzettelumschlag nur den Stimmzettel einlegen, sodann den Stimmzettelumschlag zukleben. |
 Rückseite des Stimmzettelumschlags für die Briefwahl

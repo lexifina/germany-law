@@ -1,10 +1,10 @@
 # Anlage 10 (zu § 27 Absatz 3 und § 38 Absatz 4)
 
 Vorderseite des Wahlbriefumschlags
-(etwa 12 x 17,6 cm) hellrot (maschinenlesbar)
+hellrot (maschinenlesbar)
 |  |  |  |  |  |  |  |
 |  | Ausgabestelle (Gemeindebehörde, Ort) |  |  |  |  |
-|  |  |  |  |  | unentgeltlich ausschließlich innerhalb derBundesrepublik Deutschland bei Versendung durch ... |  |
+|  |  |  |  |  | Unentgeltliche Beförderung inDeutschland durch ... |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -33,7 +33,7 @@ Rückseite des Wahlbriefumschlags
 |  | In diesen Wahlbriefumschlag müssen Sie einlegen |  |
 |  | 1. | den Wahlschein |  |
 |  |  | und |  |  |
-|  | 2. | den verschlossenen blauen |  |
+|  | 2. | den verschlossenen weißen |  |
 |  |  | Stimmzettelumschlag mit dem darin |  |
 |  |  | befindlichen Stimmzettel. |  |
 |  |  |  |

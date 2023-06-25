@@ -10,7 +10,7 @@
 |  | □ | gültigen Identitätsausweises | ausgestellt am | von (ausstellende Behörde) |
 |  | □ | Reisepasses | zuletzt verlängert am | von (ausstellende Behörde) |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (4) | Ich versichere gegenüber der Gemeindebehörde an Eides statt: *) |
+| (4) | Ich versichere gegenüber der Gemeindebehörde an Eides statt: |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | (5) | - Ich besitze die Staatsangehörigkeit folgenden Mitgliedstaates der Europäischen Union |
 | (6) | - Meine derzeitige (Haupt-)Wohnung (Straße, Hausnummer, Postleitzahl, Ort) in der Bundesrepublik Deutschland |
@@ -21,7 +21,7 @@
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | (9) | - Ich habe in der Bundesrepublik Deutschland oder in einem anderen Mitgliedstaat der Europäischen Union seit mindestens 3 Monaten eine Wohnung inne oder halte mich dort sonst gewöhnlich auf. |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (10) | - Ich habe das 18. Lebensjahr vollendet. |
+| (10) | - Ich habe das 16. Lebensjahr vollendet. |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Datum |  |  |  |  |  |  |  |  |  |  | Unterschrift des Antragstellers (Vor- und Familienname) |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

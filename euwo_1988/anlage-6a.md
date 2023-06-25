@@ -3,8 +3,8 @@
 |  | Datum |
 | Am ............................................................................... findet die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland statt. An dieser Wahl können Sie aktiv teilnehmen, wenn Sie am Wahltag |
 1. die Staatsangehörigkeit eines der übrigen Mitgliedstaaten der Europäischen Union besitzen,
-2. das 18. Lebensjahr vollendet haben,
-3. seit mindestens drei Monaten in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union ¹) eine Wohnung innehaben oder sich mindestens seit dieser Zeit sonst gewöhnlich aufhalten (auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet),
+2. das 16. Lebensjahr vollendet haben,
+3. seit mindestens drei Monaten in der Bundesrepublik Deutschland oder in den übrigen Mitgliedstaaten der Europäischen Union eine Wohnung innehaben oder sich mindestens seit dieser Zeit sonst gewöhnlich aufhalten (auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in den genannten Gebieten angerechnet),
 4. weder in der Bundesrepublik Deutschland noch in dem Mitgliedstaat der Europäischen Union, dessen Staatsangehörigkeit Sie besitzen, vom aktiven Wahlrecht zum Europäischen Parlament ausgeschlossen sind,
 5. in ein Wählerverzeichnis in der Bundesrepublik Deutschland eingetragen sind. Die erstmalige Eintragung erfolgt nur auf Antrag. Der Antrag ist auf einem Formblatt zu stellen; er soll bald nach dieser Bekanntmachung abgesandt werden.
   Einem Antrag, der erst nach dem ... (21. Tag vor der Wahl) bei der zuständigen Gemeindebehörde eingeht, kann nicht mehr entsprochen werden (§ 17a Abs. 2 der Europawahlordnung).
@@ -18,5 +18,3 @@ Für ihre Teilnahme als Wahlbewerber ist u. a. Voraussetzung, dass sie am Wahlta
 3. weder in der Bundesrepublik Deutschland noch in dem Mitgliedstaat der Europäischen Union, dem Sie angehören, von der Wählbarkeit ausgeschlossen sind.
 Mit dem Antrag auf Eintragung in das Wählerverzeichnis oder mit den Wahlvorschlägen ist eine Versicherung an Eides statt abzugeben über das Vorliegen der o. g. Voraussetzungen für die aktive oder passive Wahlteilnahme.
 | Ort, Datum ......................................... | Bezeichnung des Bundes- oder des Kreis- oder Stadtwahlleiters ..................................................... |
-__________
-1) Nicht zu berücksichtigen ist ein Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland nach dem Zeitpunkt, ab dem nach Artikel 50 Absatz 3 EUV die Verträge dort keine Anwendung mehr finden.

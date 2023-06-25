@@ -39,12 +39,12 @@
 |  |  |  |  |  |  |  |  |  |
 | 2. | Vertrauensperson für die gemeinsame Liste für alle Länder ist: |
 |  | Familienname, Vorname |
-|  | Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf |
+|  | Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse |
 |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  | Stellvertretende Vertrauensperson ist: |
 |  | Familienname, Vorname |
-|  | Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf |
+|  | Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse |
 |  |  |
 |  |  |  |  |  |  |  |  |  |
 | 3. | Der gemeinsamen Liste für alle Länder sind |  |  | Anlagen beigefügt, und zwar |  |
