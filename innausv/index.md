@@ -4,7 +4,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Anwendung des Erneuerbare-Energien-Gesetzes](0003.md)
 - [§ 4 Teilnahmeberechtigte Anlagen](0004.md)
-- [§ 5 Gebote der Innovationsausschreibungen](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Weitere Anforderungen an Gebote für Anlagenkombinationen](0006.md)
 - [§ 7 (weggefallen)](0007.md)
 - [§ 8 Zahlungen](0008.md)
