@@ -3,7 +3,7 @@
 Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.
 Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2019 und 31. Dezember 2020 einschließlich der bis zum 31. März 2021 erfolgten rückwirkenden Bewilligungen.
 Relevanter Gebietsstand ist der 31. März 2021, der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 30. September 2020.
-Land:Baden-Württemberg
+Land: Baden-Württemberg
 | Gemeinde | Mietenstufe |
 | Aalen, Stadt | III |
 | Achern, Stadt | II |
@@ -21,6 +21,7 @@ Land:Baden-Württemberg
 | Bad Rappenau, Stadt | III |
 | Bad Säckingen, Stadt | IV |
 | Bad Saulgau, Stadt | II |
+| Bad Schönborn | IV |
 | Bad Urach, Stadt | IV |
 | Bad Waldsee, Stadt | II |
 | Bad Wildbad, Stadt | II |
@@ -58,7 +59,9 @@ Land:Baden-Württemberg
 | Eberbach, Stadt | II |
 | Ebersbach an der Fils, Stadt | IV |
 | Edingen-Neckarhausen | III |
+| Eggenstein-Leopoldshafen | IV |
 | Ehingen (Donau), Stadt | III |
+| Eislingen/Fils, Stadt | IV |
 | Ellwangen (Jagst), Stadt | III |
 | Emmendingen, Stadt | IV |
 | Endingen am Kaiserstuhl, Stadt | III |
@@ -92,8 +95,10 @@ Land:Baden-Württemberg
 | Grenzach-Wyhlen | V |
 | Gundelfingen | V |
 | Haigerloch, Stadt | I |
+| Hechingen, Stadt | IV |
 | Heddesheim | III |
 | Heidelberg, Stadt | V |
+| Heidenheim an der Brenz, Stadt | IV |
 | Heilbronn, Stadt | IV |
 | Hemsbach, Stadt | III |
 | Herbolzheim, Stadt | III |
@@ -123,6 +128,7 @@ Land:Baden-Württemberg
 | Laichingen, Stadt | III |
 | Langenau, Stadt | III |
 | Lauda-Königshofen, Stadt | I |
+| Lauffen am Neckar, Stadt | IV |
 | Laupheim, Stadt | III |
 | Leimen, Stadt | IV |
 | Leinfelden-Echterdingen, Stadt | VI |
@@ -172,6 +178,7 @@ Land:Baden-Württemberg
 | Pfullendorf, Stadt | II |
 | Pfullingen, Stadt | IV |
 | Phillipsburg, Stadt | II |
+| Plankstadt | IV |
 | Plochingen, Stadt | V |
 | Radolfzell am Bodensee, Stadt | IV |
 | Rastatt, Stadt | III |
@@ -183,6 +190,7 @@ Land:Baden-Württemberg
 | Reutlingen, Stadt | IV |
 | Rheinfelden (Baden), Stadt | IV |
 | Rheinau, Stadt | II |
+| Rheinstetten, Stadt | IV |
 | Riedlingen, Stadt | II |
 | Rielasingen-Worblingen | IV |
 | Rottenburg am Neckar, Stadt | IV |
@@ -198,6 +206,7 @@ Land:Baden-Württemberg
 | Schorndorf, Stadt | IV |
 | Schönaich | IV |
 | Schramberg, Stadt | II |
+| Schriesheim, Stadt | IV |
 | Schwäbisch Gmünd, Stadt | III |
 | Schwäbisch Hall, Stadt | III |
 | Schwaigern, Stadt | III |
@@ -207,6 +216,7 @@ Land:Baden-Württemberg
 | Sindelfingen, Stadt | IV |
 | Singen (Hohentwiel), Stadt | IV |
 | Sinsheim, Stadt | III |
+| Sinzheim | IV |
 | Spaichingen, Stadt | III |
 | Steinheim an der Murr, Stadt | IV |
 | Stockach, Stadt | II |
@@ -220,7 +230,9 @@ Land:Baden-Württemberg
 | Teningen | III |
 | Tettnang, Stadt | V |
 | Titisee-Neustadt, Stadt | II |
+| Trossingen, Stadt | IV |
 | Tübingen, Universitätsstadt | VII |
+| Tuttlingen, Stadt | IV |
 | Ubstadt-Weiher | III |
 | Überlingen, Stadt | IV |
 | Uhingen, Stadt | III |
@@ -230,16 +242,19 @@ Land:Baden-Württemberg
 | Waghäusel, Stadt | III |
 | Waiblingen, Stadt | V |
 | Waldbronn | IV |
+| Waldkirch, Stadt | IV |
 | Waldshut-Tiengen, Stadt | III |
 | Walldorf, Stadt | IV |
 | Walldürn, Stadt | I |
 | Wangen im Allgäu, Stadt | III |
+| Wehr, Stadt | IV |
 | Weil am Rhein, Stadt | V |
 | Weil der Stadt, Stadt | V |
 | Weilheim an der Teck, Stadt | III |
 | Weil im Schönbuch | VI |
 | Weingarten, Baden | III |
 | Weingarten, Stadt | V |
+| Weinheim, Stadt | IV |
 | Weinsberg, Stadt | IV |
 | Weinstadt, Stadt | V |
 | Welzheim, Stadt | III |
@@ -285,7 +300,7 @@ Land:Baden-Württemberg
 | Tuttlingen | II |
 | Waldshut | II |
 | Zollernalbkreis | I |
-Land:Bayern
+Land: Bayern
 | Gemeinde | Mietenstufe |
 | Abensberg, Stadt | III |
 | Aichach, Stadt | III |
@@ -592,10 +607,10 @@ Land:Bayern
 | Weißenburg-Gunzenhausen | I |
 | Würzburg | II |
 | Wunsiedel im Fichtelgebirge | I |
-Land:Berlin
+Land: Berlin
 | Gemeinde | Mietenstufe |
 | Berlin, Stadt | IV |
-Land:Brandenburg
+Land: Brandenburg
 | Gemeinde | Mietenstufe |
 | Ahrensfelde-Blumberg | II |
 | Angermünde, Stadt | II |
@@ -682,14 +697,14 @@ Land:Brandenburg
 | Spree-Neiße | I |
 | Teltow-Fläming | I |
 | Uckermark | I |
-Land:Bremen
+Land: Bremen
 | Gemeinde | Mietenstufe |
 | Bremen, Stadt | IV |
 | Bremerhaven | II |
-Land:Hamburg
+Land: Hamburg
 | Gemeinde | Mietenstufe |
 | Hamburg, Freie und Hansestadt | VI |
-Land:Hessen
+Land: Hessen
 | Gemeinde | Mietenstufe |
 | Alsfeld, Stadt | I |
 | Altenstadt | II |
@@ -884,7 +899,7 @@ Land:Hessen
 | Waldeck-Frankenberg | I |
 | Werra-Meißner-Kreis | I |
 | Wetteraukreis | II |
-Land:Mecklenburg-Vorpommern
+Land: Mecklenburg-Vorpommern
 | Gemeinde | Mietenstufe |
 | Anklam, Stadt | II |
 | Bad Doberan, Stadt | III |
@@ -913,7 +928,7 @@ Land:Mecklenburg-Vorpommern
 | Nordwestmecklenburg | II |
 | Vorpommern-Greifswald | I |
 | Ludwigslust-Parchim | I |
-Land:Niedersachsen
+Land: Niedersachsen
 | Gemeinde | Mietenstufe |
 | Achim, Stadt | III |
 | Adendorf | IV |
@@ -1156,7 +1171,7 @@ Land:Niedersachsen
 | Wesermarsch | I |
 | Wittmund | I |
 | Wolfenbüttel | I |
-Land:Nordrhein-Westfalen
+Land: Nordrhein-Westfalen
 | Gemeinde | Mietenstufe |
 | Aachen, Stadt | IV |
 | Ahaus, Stadt | II |
@@ -1171,6 +1186,7 @@ Land:Nordrhein-Westfalen
 | Arnsberg, Stadt | I |
 | Ascheberg | II |
 | Attendorn, Stadt | II |
+| Augustdorf | I |
 | Bad Berleburg, Stadt | I |
 | Bad Driburg, Stadt | I |
 | Bad Honnef, Stadt | IV |
@@ -1375,9 +1391,11 @@ Land:Nordrhein-Westfalen
 | Neunkirchen | II |
 | Neunkirchen-Seelscheid | III |
 | Neuss, Stadt | IV |
+| Nideggen, Stadt | II |
 | Niederkassel, Stadt | IV |
 | Niederkrüchten | II |
 | Niederzier | II |
+| Nordkirchen | I |
 | Nörvenich | II |
 | Nottuln | II |
 | Nümbrecht | II |
@@ -1501,7 +1519,6 @@ Land:Nordrhein-Westfalen
 | Kreis | Mietenstufe |
 | Städteregion Aachen | II |
 | Borken | I |
-| Coesfeld | I |
 | Düren | II |
 | Ennepe-Ruhr-Kreis | II |
 | Euskirchen | I |
@@ -1518,7 +1535,7 @@ Land:Nordrhein-Westfalen
 | Steinfurt | I |
 | Warendorf | I |
 | Wesel | II |
-Land:Rheinland-Pfalz
+Land: Rheinland-Pfalz
 | Gemeinde | Mietenstufe |
 | Alzey, Stadt | III |
 | Andernach, Stadt | II |
@@ -1592,7 +1609,7 @@ Land:Rheinland-Pfalz
 | Südliche Weinstraße | II |
 | Trier-Saarburg | I |
 | Westerwaldkreis | I |
-Land:Saarland
+Land: Saarland
 | Gemeinde | Mietenstufe |
 | Beckingen | I |
 | Bexbach, Stadt | I |
@@ -1637,7 +1654,7 @@ Land:Saarland
 | Saar-Pfalz-Kreis | I |
 | Sankt Wendel | I |
 | Regionalverband Saarbrücken | I |
-Land:Sachsen
+Land: Sachsen
 | Gemeinde | Mietenstufe |
 | Annaberg-Buchholz, Stadt | I |
 | Aue-Bad Schlema | I |
@@ -1718,7 +1735,7 @@ Land:Sachsen
 | Sächsische Schweiz - Osterzgebirge | I |
 | Leipzig | I |
 | Nordsachsen | I |
-Land:Sachsen-Anhalt
+Land: Sachsen-Anhalt
 | Gemeinde | Mietenstufe |
 | Aschersleben, Stadt | II |
 | Bad Dürrenberg, Stadt | III |
@@ -1786,7 +1803,7 @@ Land:Sachsen-Anhalt
 | Stendal | II |
 | Harz | I |
 | Altmarkkreis-Salzwedel | I |
-Land:Schleswig-Holstein
+Land: Schleswig-Holstein
 | Gemeinde | Mietenstufe |
 | Ahrensburg, Stadt | VI |
 | Altenholz | IV |
@@ -1856,6 +1873,7 @@ Land:Schleswig-Holstein
 | Segeberg | II |
 | Steinburg | II |
 | Stormarn | IV |
+Land: Thüringen
 | Gemeinde | Mietenstufe |
 | Altenburg, Stadt | I |
 | Apolda, Stadt | I |
@@ -1892,7 +1910,6 @@ Land:Schleswig-Holstein
 | Weimar, Stadt | III |
 | Zella-Mehlis, Stadt | II |
 | Zeulenroda Triebes, Stadt | I |
-Land:Thüringen
 | Kreis | Mietenstufe |
 | Eichsfeld | I |
 | Nordhausen | I |
