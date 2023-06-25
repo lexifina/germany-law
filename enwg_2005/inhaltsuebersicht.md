@@ -53,6 +53,7 @@
 | § 11 | Betrieb von Energieversorgungsnetzen |
 | § 11a | Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz |
 | § 11b | Ausnahme für Energiespeicheranlagen, Festlegungskompetenz |
+| § 11c | Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie |
 | § 12 | Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung |
 | § 12a | Szenariorahmen für die Netzentwicklungsplanung |
 | § 12b | Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen |
@@ -209,6 +210,7 @@
 | § 43j | Leerrohre für Hochspannungsleitungen |
 | § 43k | Zurverfügungstellung von Geodaten |
 | § 43l | Regelungen zum Auf- und Ausbau von Wasserstoffnetzen |
+| § 43m | Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577 |
 | § 44 | Vorarbeiten |
 | § 44a | Veränderungssperre, Vorkaufsrecht |
 | § 44b | Vorzeitige Besitzeinweisung |

@@ -239,7 +239,7 @@
 - [§ 83 Einstweiliger Rechtsschutz](0083.md)
 - [§ 83a Rechtsschutz bei Ausschreibungen](0083a.md)
 - [§ 84 Nutzung von Seewasserstraßen](0084.md)
-- [§ 84a Aufgaben des Bundesamtes für Sicherheit in der Informationstechnik](0084a.md)
+- [§ 84a (weggefallen)](0084a.md)
 - [§ 85 Aufgaben der Bundesnetzagentur](0085.md)
 - [§ 85a Festlegung zu den Höchstwerten bei Ausschreibungen](0085a.md)
 - [§ 85b Auskunftsrecht und Datenübermittlung](0085b.md)

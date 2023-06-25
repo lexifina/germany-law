@@ -108,7 +108,7 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 |  | – Bentwisch – Sanitz/Gnewitz/Dettmannsdorf/Marlow |  |
 | 53 | Höchstspannungsleitung Güstrow – Siedenbrünzow –Iven/Krusenfelde/Krien/Spantekow/Werder/Bartow – Pasewalk Nord – Pasewalk;Drehstrom Nennspannung 380 kV | – |
 | 54 | Höchstspannungsleitung Conneforde – Unterweser; Drehstrom Nennspannung 380 kV | – |
-| 55 | Höchstspannungsleitung Elsfleth West – Ganderkesee mit Abzweig Niedervieland; Drehstrom Nennspannung 380 kV | A1 |
+| 55 | Höchstspannungsleitung Elsfleth West – Ganderkesee/Lemwerder/Berne – Ganderkesee; Drehstrom Nennspannung 380 kV | - |
 | 56 | Höchstspannungsleitung Conneforde – Ovelgönne/Rastede/Wiefelstede/Westerstede – Elsfleth West – Bezirk Bremen-West/Lilienthal/Ritterhude – Samtgemeinde Sottrum; Drehstrom Nennspannung 380 kV | – |
 | 57 | Höchstspannungsleitung Dollern – Samtgemeinde Sottrum – Grafschaft Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380 kV | – |
 | 58 | Höchstspannungsleitung Ämter Büchen/Breitenfelde/Schwarzenbek-Land –Lüneburg/Samtgemeinde Gellersen/Samtgemeinde Ilmenau – Stadorf – Wahle;Drehstrom Nennspannung 380 kV | – |
@@ -155,7 +155,7 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | – Wietmarschen/Geeste – Hanekenfähr |  |
 | 80 | Höchstspannungsleitung Grenzkorridor V – Büttel (BorWin6); Gleichstrom | B |
 | 81 | Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom | A1, B, E, H |
-| 82 | Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom | A1, B, E, H |
+| 82 | Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom | A1, B, E |
 | 83 | Höchstspannungsleitung Sanitz/Gnewitz/Dettmannsdorf/Marlow – Schweden (Hansa PowerBridge II); Gleichstrom | B |
 | 84 | Höchstspannungsleitung Lübeck – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV | – |
 | 85 | Höchstspannungsleitung Güstrow – Wessin – Görries – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom Nennspannung 380 kV | A1, G |
