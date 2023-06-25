@@ -75,7 +75,8 @@ Verordnungsermächtigungen,
 Übergangs- und Schlussbestimmungen
 | § 47 | Verordnungsermächtigung zum Anwendungsbereich |
 | § 48 | Weitere Verordnungsermächtigungen |
-| § 48a | Evaluierung |
+| § 48a | Beleihung; Verordnungsermächtigung |
+| § 48b | Evaluierung |
 | § 49 | Auszahlung und Höhe Entlastungsbetrag Januar oder Februar 2023 |
 | § 50 | Beihilferechtlicher Genehmigungsvorbehalt |
 | Anlage 1 | Krisenbedingte Energiemehrkosten |

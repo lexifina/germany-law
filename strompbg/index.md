@@ -82,7 +82,8 @@
 
 - [§ 47 Verordnungsermächtigung zum Anwendungsbereich](0047.md)
 - [§ 48 Weitere Verordnungsermächtigungen](0048.md)
-- [§ 48a Evaluierung](0048a.md)
+- [§ 48a Beleihung; Verordnungsermächtigung](0048a.md)
+- [§ 48b Evaluierung](0048b.md)
 - [§ 49 Auszahlung und Höhe Entlastungsbetrag Januar oder Februar 2023](0049.md)
 - [§ 50 Beihilferechtlicher Genehmigungsvorbehalt](0050.md)
 - [Anlage 1 (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten](anlage-1.md)
