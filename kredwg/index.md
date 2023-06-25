@@ -9,7 +9,7 @@
 
 - [§ 1 Begriffsbestimmungen](0001.md)
 - [§ 1a Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute](0001a.md)
-- [§ 1b (weggefallen)](0001b.md)
+- [§ 1b Unzuverlässigkeit von sanktionierten Personen](0001b.md)
 - [§ 2 Ausnahmen](0002.md)
 - [§ 2a Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören](0002a.md)
 - [§ 2b Rechtsform](0002b.md)

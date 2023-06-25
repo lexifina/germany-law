@@ -8,6 +8,7 @@
 ### Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht
 
 - [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1a Unzuverlässigkeit von sanktionierten Personen](0001a.md)
 - [§ 2 Ausnahmen; Verordnungsermächtigung](0002.md)
 - [§ 3 Für Institute zugelassene Tätigkeiten und verbotene Geschäfte](0003.md)
 - [§ 4 Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen](0004.md)

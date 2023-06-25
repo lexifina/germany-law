@@ -7,7 +7,7 @@
 |  |
 | § 1 | Begriffsbestimmungen |
 | § 1a | Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute |
-| § 1b | (weggefallen) |
+| § 1b | Unzuverlässigkeit von sanktionierten Personen |
 | § 2 | Ausnahmen |
 | § 2a | Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören |
 | § 2b | Rechtsform |

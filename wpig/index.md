@@ -9,6 +9,7 @@
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Unzuverlässigkeit von sanktionierten Personen](0002a.md)
 - [§ 3 Ausnahmen](0003.md)
 - [§ 4 Gesetzlicher Aufsichtsrahmen für Große Wertpapierinstitute](0004.md)
 

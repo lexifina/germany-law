@@ -7,6 +7,7 @@ Anwendungsbereich
 und Begriffsbestimmungen
 | § 1 | Anwendungsbereich |
 | § 2 | Begriffsbestimmungen |
+| § 2a | Unzuverlässigkeit von sanktionierten Personen |
 | § 3 | Ausnahmen |
 | § 4 | Gesetzlicher Aufsichtsrahmen für Große Wertpapierinstitute |
 Abschnitt 2
