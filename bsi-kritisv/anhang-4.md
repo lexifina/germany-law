@@ -8,21 +8,23 @@ Grundsätze und Fristen
     eine Anlage, über die der Zugang zu einem Sprachkommunikationsdienst, zu einem öffentlich zugänglichen Datenübertragungsdienst oder zu einem Internetzugangsdienst erfolgt, zum Beispiel Glasfaseranschlüsse und Mobilfunkzugangsnetze.
   2.2 Übertragungsnetz
     eine Anlage zur Übertragung von Sprache und Daten für Sprachkommunikationsdienste und öffentlich zugängliche Datenübertragungsdienste oder für Internetzugangsdienste, zum Beispiel Backbone- und Core-Netze.
-  2.3 IXP
+  2.3 Seekabelanlandestation
+    eine Anlandestation zur Anbindung primär der Sprach- und Datenübertragung dienender Seekabel an landgestützte Telekommunikationsnetze.
+  2.4 IXP
     eine von den angeschlossenen autonomen Systemen unabhängige Netzeinrichtung, die die Zusammenschaltung von mehr als zwei unabhängigen autonomen Systemen für den Zweck des Austausches von Internetdatenverkehr ermöglicht. Eine Anlage ist auch dann ein IXP, wenn der Internetdatenverkehr zwischen zwei beliebigen teilnehmenden autonomen Systemen nicht über ein intermediäres autonomes System läuft.
-  2.4 DNS-Resolver
+  2.5 DNS-Resolver
     eine Anlage oder ein System im Zugangsnetz eines Anbieters von Internetzugangsdiensten zur Beantwortung von Anfragen zur Namensauflösung, die oder das bei Unkenntnis der Antwort die Anfragen an übergeordnete DNS-Instanzen weiterreicht, wenn die Anlage oder das System zur Nutzung von Sprachkommunikationsdiensten, öffentlich zugänglichen Datenübertragungsdiensten oder Internetzugangsdiensten angeboten wird.
-  2.5 Autoritativer DNS-Server
+  2.6 Autoritativer DNS-Server
     eine Anlage oder ein System zur Beantwortung von Anfragen zur Namensauflösung gemäß Kapitel 5 des RFC 7719, in der oder in dem durch lokal vorliegende Informationen über den Inhalt einer DNS-Zone Anfragen über diese DNS-Zone beantwortet werden oder die Anfragen an andere Server delegiert werden.
-  2.6 Top-Level-Domain-Name-Registry
+  2.7 Top-Level-Domain-Name-Registry
     eine Anlage, welche die Registrierung von Internet-Domain-Namen innerhalb einer spezifischen Top-Level-Domain (TLD) verwaltet und betreibt.
-  2.7 Rechenzentrum (Housing)
+  2.8 Rechenzentrum (Housing)
     ein oder mehrere Gebäude, zumindest aber ein geschlossener Raum mit dem vorrangigen Zweck, eine geeignete Umgebung für die Unterbringung und den Betrieb von zentralen IT-Komponenten, zum Beispiel Server oder Netzwerktechnik, in mindestens zehn Racks bereitzustellen.
-  2.8 Serverfarm (Hosting)
+  2.9 Serverfarm (Hosting)
     zwei oder mehrere physische oder virtuelle Instanzen, die im IT-Netzwerk Dienste bereitstellen. Dabei gelten virtuelle Maschinen, die mit einem eigenen Betriebssystem auf einer physischen Instanz betrieben werden, als virtuelle Instanzen.
-  2.9 Content Delivery Network
+  2.10 Content Delivery Network
     ein Netz regional verteilter und über das Internet verbundener Server, mit dem Inhalte ausgeliefert und zwischengespeichert werden, um insbesondere die Verfügbarkeit und Performanz zu erhöhen.
-  2.10 Anlage zur Erbringung von Vertrauensdiensten
+  2.11 Anlage zur Erbringung von Vertrauensdiensten
     eine vertrauenswürdige dritte Instanz (Trusted Third Party), die in elektronischen Kommunikationsprozessen die jeweilige Identität des Kommunikationspartners bescheinigt.
 3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
 4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr bis zum 31. März des Folgejahres zu ermitteln.
@@ -51,6 +53,7 @@ Anlagenkategorien und Schwellenwerte
 | 1.1.1 | Zugangsnetz | Teilnehmeranschlüsse des Zugangsnetzes nach § 3 Nummer 58 TKG | 100 000 |
 | 1.2 | Übertragung |
 | 1.2.1 | Übertragungsnetz | Vertragspartner des jeweiligen Dienstes | 100 000 |
+| 1.2.2 | Seekabelanlandestation | Anzahl der angebundenen Seekabel | 1 |
 | 1.3 | Vermittlung |
 | 1.3.1 | IXP | Anzahl angeschlossener autonomer Systeme (Jahresdurchschnitt) | 100 |
 | 1.4 | Steuerung |

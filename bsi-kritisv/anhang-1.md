@@ -28,28 +28,30 @@ Grundsätze und Fristen
     ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des Energiewirtschaftsgesetzes.
   2.12 Gashandelssystem
     eine Anlage oder ein elektronisches Handelssystem für den Handel von Gasmengen oder -kapazitäten.
-  2.13 Ölförderanlage
+  2.13 LNG-Anlage
+    schwimmende oder landgebundene stationäre Anlagen oder Systeme zur Verflüssigung von Gas nach § 3 Nr. 19a EnWG oder zur Einfuhr, Entladung und Wiederverdampfung von verflüssigtem Gas, einschließlich der Anlagenteile für Hilfsdienste und für die vorübergehende Speicherung von verflüssigtem Erdgas, die für die Wiederverdampfung und die anschließende Einspeisung in das Fernleitungsnetz erforderlich sind.
+  2.14 Ölförderanlage
     eine Anlage zur Förderung von Erdöl aus einer Bohrung.
-  2.14 Raffinerie
+  2.15 Raffinerie
     eine Anlage zur Destillation oder Raffination oder sonstigen Weiterverarbeitung von Erdöl in Mineralölraffinerien im Sinne der Nummer 4.3 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung.
-  2.15 Mineralölfernleitung
+  2.16 Mineralölfernleitung
     eine Rohrfernleitung im Sinne der Rohrfernleitungsverordnung zum Transport von Erdöl oder Erdölprodukten.
-  2.16 Erdöl- und Erdölproduktenlager
+  2.17 Erdöl- und Erdölproduktenlager
     eine Anlage zur Lagerung von Erdöl oder Mineralölprodukten.
-  2.17 Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und Heizöl
+  2.18 Anlage oder System von Aggregatoren zum Vertrieb von Kraftstoff und Heizöl
     eine Anlage oder ein IT-System, das zur Disposition insbesondere von Tankkraftwagen, Kesselwagen oder Binnenschiffen verwendet wird, mit dem Ziel, den Vertrieb von Kraftstoff oder Heizöl abzuwickeln, zu koordinieren oder zu optimieren, unabhängig davon, ob durch die Anlage oder das IT-System Verbraucher beliefert werden.
-  2.18 Tankstellennetz
+  2.19 Tankstellennetz
     eine Anlage oder ein System zur Verbindung voneinander unabhängiger Tankstellen oder Flugfeldbetankungsanlagen mittels zentraler Komponenten (beispielsweise physischer oder datentechnischer Verbindungen). Eine zentrale Komponente dient der zentralen Erbringung wichtiger Aufgaben für den Betrieb der Tankstellen oder Flugfeldbetankungsanlagen eines Tankstellennetzes zur Versorgung mit Kraftstoff.
-  2.19 Anlage oder System zur zentralen kommerziellen Steuerung
+  2.20 Anlage oder System zur zentralen kommerziellen Steuerung
     eine Anlage oder ein System zur zentralen Steuerung oder Koordinierung der Betriebsplanung einer oder mehrerer Anlagen oder zur kommerziellen Abwicklung für eine oder mehrere Anlagen, soweit diese zum Betrieb notwendig sind. Dazu zählen auch Clearing-Instanzen oder Kollaborationslösungen, die als Cloud-Lösung betrieben werden.
-  2.20 Heizwerk
+  2.21 Heizwerk
     eine Anlage zur Erzeugung von Wärme zur Belieferung von Endkunden im Sinne der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme.
-  2.21 Heizkraftwerk
+  2.22 Heizkraftwerk
     eine KWK-Anlage im Sinne des § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes.
-  2.22 Fernwärmenetz
+  2.23 Fernwärmenetz
     ein Netz zur Versorgung der Allgemeinheit mit Wärme.
-3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
-4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln.
+3. Eine Anlage, die einer in Teil 3 Spalte B genannten Anlagenkategorie zuzuordnen ist, gilt ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erstmals erreicht oder überschreitet, als Kritische Infrastruktur. Nicht mehr als Kritische Infrastruktur gilt eine solche Anlage ab dem 1. April des Kalenderjahres, das auf das Kalenderjahr folgt, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet. Anlagen nach Teil 3 Nummer 2.2.4 gelten ab dem ersten Tag des dritten Kalendermonats, der auf den Kalendermonat folgt, in dem ihr Versorgungsgrad den in Teil 3 Spalte D genannten Schwellenwert erreicht oder überschreitet als Kritische Infrastruktur. Diese Anlagen gelten nicht mehr als Kritische Infrastruktur ab dem 1. April des Kalenderjahres, in dem ihr Versorgungsgrad den genannten Schwellenwert unterschreitet.
+4. Der Betreiber hat den Versorgungsgrad seiner Anlage für das zurückliegende Kalenderjahr jeweils bis zum 31. März des Folgejahres zu ermitteln. Betreiber von Anlagen nach Teil 3 Nummer 2.2.4 haben den aktuellen Versorgungsgrad ihrer Anlage jeweils zur Inbetriebnahme und zum 31. März eines jeden Kalenderjahres zu ermitteln.
 5. Ist der Versorgungsgrad anhand der Anzahl angeschlossener Haushalte zu ermitteln, ist der Versorgungsgrad zum 30. Juni des zurückliegenden Kalenderjahres maßgeblich.
 6. Ist der Versorgungsgrad anhand der Kapazität (installierte Netto-Nennleistung) einer Anlage zu ermitteln, ist auf den rechtlich und tatsächlich möglichen Betriebsumfang der durch denselben Betreiber betriebenen Anlage abzustellen.
 7. Stehen mehrere Anlagen derselben Art in einem engen räumlichen und betrieblichen Zusammenhang (gemeinsame Anlage) und erreichen oder überschreiten die in Teil 3 Spalte D genannten Schwellenwerte zusammen, gilt die gemeinsame Anlage als Kritische Infrastruktur. Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen
@@ -104,6 +106,7 @@ Anlagenkategorien und Schwellenwerte
 | 2.2.1 | Fernleitungsnetz | Durch Letztverbraucher und Weiterverteiler entnommene Jahresarbeit in GWh/Jahr | 5 190 |
 | 2.2.2 | Gasgrenzübergabestelle | Durchgeleitete Arbeit in GWh/Jahr | 5 190 |
 | 2.2.3 | Gasspeicher | Entnommene Arbeit in GWh/Jahr | 5 190 |
+| 2.2.4 | LNG-Anlage | Technische Regasifizierungskapazität in GWh/Jahr | 5 190 |
 | 2.3 | Gasverteilung |
 |  | Gasverteilernetz | Entnommene Arbeit in GWh/Jahr | 5 190 |
 | 2.4 | Gashandel |
