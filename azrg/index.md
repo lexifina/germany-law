@@ -24,6 +24,7 @@ Aufzeichnungspflicht
 - [§ 7 Übermittlung und Veränderung von Daten im Wege der
 Direkteingabe](0007.md)
 - [§ 8 Verantwortung für den Registerinhalt, Datenpflege](0008.md)
+- [§ 8a Datenabgleich](0008a.md)
 - [§ 9 Aufzeichnungspflicht bei Speicherung](0009.md)
 
 ### Abschnitt 3 Datenübermittlung durch die Registerbehörde, Dritte, an die Daten übermittelt
@@ -38,6 +39,7 @@ werden
 - [§ 13 Aufzeichnungspflicht bei Datenübermittlung](0013.md)
 - [§ 14 Datenübermittlung an alle öffentlichen Stellen](0014.md)
 - [§ 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz](0015.md)
+- [§ 15a Automatisierte Datenübermittlung an Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge](0015a.md)
 - [§ 16 Datenübermittlung an Gerichte](0016.md)
 - [§ 17 Datenübermittlung an das Zollkriminalamt](0017.md)
 - [§ 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen](0017a.md)

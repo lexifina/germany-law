@@ -2,6 +2,7 @@
 
 - [§ 1 Anwendungsbereich; Begriffsbestimmungen](0001.md)
 - [§ 2 Recht auf Einreise und Aufenthalt](0002.md)
+- [§ 2a Visum, Dokumente, Visumverfahren](0002a.md)
 - [§ 3 Familienangehörige](0003.md)
 - [§ 3a Aufenthalt nahestehender Personen](0003a.md)
 - [§ 4 Nicht erwerbstätige Freizügigkeitsberechtigte](0004.md)
