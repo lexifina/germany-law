@@ -11,6 +11,7 @@
 - [§ 5 Freistellung von der Aufsicht](0005.md)
 - [§ 6 Bezeichnungsschutz](0006.md)
 - [§ 7 Begriffsbestimmungen](0007.md)
+- [§ 7a Unzuverlässigkeit von sanktionierten Personen](0007a.md)
 
 ## Teil 2 Vorschriften für die Erstversicherung und die Rückversicherung
 
@@ -584,6 +585,7 @@
 - [§ 356 Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8](0356.md)
 - [§ 357 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0357.md)
 - [§ 358 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0358.md)
+- [§ 359 Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften](0359.md)
 - [Anlage 1 Einteilung der Risiken nach Sparten](anlage-1.md)
 - [Anlage 2 Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird](anlage-2.md)
 - [Anlage 3 Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)](anlage-3.md)
