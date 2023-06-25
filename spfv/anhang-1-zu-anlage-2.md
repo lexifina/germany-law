@@ -1,4 +1,4 @@
-# Anhang 1 zu Anlage 2 (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Tauglichkeitsnachweises
+# Anhang 1 zu Anlage 2 (zu § 7 Absatz 2 Nummer 4)Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportbootschifffahrt
 
 Ärztlicher Nachweis über das Ergebnis
 zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportbootschifffahrt
@@ -6,10 +6,8 @@ zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportboot
 | Geburtsdatum und -ort | Ausgewiesen durch Vorlage |
 | ______________________________________________ |
 | (Personalausweis oder Reisepass oder anderes Identitätsdokument) |
-| Name und Vorname des untersuchenden Arztes/der untersuchenden Ärztin |
-| Anschrift | Telefonische Erreichbarkeit |
-|  |  |
-Die untersuchte Person wurde hinsichtlich ihrer medizinischen Tauglichkeit mit folgendem Ergebnis untersucht:
+| Hinweis: Die Feststellung der medizinischen Tauglichkeit erfolgt anhand der Kriterien in Anlage 2 der Sportbootführerscheinverordnung (veröffnetlicht unter www.gesetze-im-internet.de des Bundesministeriums für Justiz) |
+Die untersuchte Person wurde hinsichtlich ihrer körperlichen Fähigkeiten mit folgendem Ergebnis untersucht:
 | Untauglich | ☐ |
 | Tauglich | ☐ |
 | Tauglichkeit befristet bis | ☐ |
@@ -20,13 +18,32 @@ Die untersuchte Person wurde hinsichtlich ihrer medizinischen Tauglichkeit mit f
 | 04 | Begleitperson erforderlich | ☐ |
 | 05 | Nur bei Tageslicht | ☐ |
 | 07 | Beschränkt auf einzelnes und/oder angepasstes Fahrzeug | ☐ |
-| 08 | Beschränkter Bereich: | ☐ |
-| 09 | Sonstige, tauglichkeitsbezogene Auflage: | ☐ |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 08 | Beschränkter Bereich | ☐ |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 09 | Sonstige, tauglichkeitsbezogene Auflage | ☐ |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Name, Anschrift/Stempel mit Anschrift/Telefon | Ort, Datum und Unterschrift des Arztes/ der Ärztin |
+|  |  |  |  |
+|  |  | Name, Vorname des/der Untersuchten |  |
+|  |  |  |  |
+Angaben zu Sehteststelle
 Eine Bescheinigung einer anerkannten Sehteststelle mit der Bestätigung eines ausreichenden Sehvermögens hat vorgelegen.
-| ☐ Ja | ☐ Nein |
-| (Name, Anschrift, Ort der anerkannten Sehteststelle, Datum) |
-Eine Bescheinigung des Hörakustikerbetriebs mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
-| ☐ Ja | ☐ Nein |
-| (Name, Anschrift, Ort des Hörakustikerbetriebs, Datum) |
-|  |  |  |
-| (Ort, Datum) |  | (Stempel mit Anschrift und Unterschrift der Ärztin/des Arztes) |
+| ☐ Ja |  |
+| Name der anerkannten Sehteststelle: |  |
+| Anschrift der Sehteststelle: |  |
+|  |  |
+| Datum der Untersuchung: |  |
+|  |  |
+| ☐ Nein, die Untersuchung erfolgte durch die Unterzeichnerin/ den Unterzeichner |  |
+Angaben zum Hörgeräteakustikbetrieb
+Eine Bescheinigung des Hörgeräteakustikbetriebes mit der Bestätigung des ausreichenden Hörvermögens hat vorgelegen.
+| ☐ Ja |  |
+| Name des Hörageräteakustikbetriebes: |  |
+| Anschrift des Hörageräteakustikbetriebes: |  |
+|  |  |
+| Datum der Untersuchung: |  |
+|  |  |
+| ☐ Nein, die Untersuchung erfolgte durch die Unterzeichnerin/ den Unterzeichner |  |
+|  |  |
+| Name, Anschrift/Stempel mit Anschrift/Telefon | Ort, Datum und Unterschrift des Arztes/der Ärztin |
