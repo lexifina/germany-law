@@ -175,4 +175,4 @@
 | Karte zu § 1 Abs. 5 |
 |  |
 | Anlage IV |
-| (aufgehoben) |
+| Benennung berauschender Mittel |

@@ -8,5 +8,6 @@
 - [§ 5](0005.md)
 - [§ 6](0006.md)
 - [§ 7](0007.md)
-- [§ 8](0008.md)
-- [Anlage zu § 1](anlage.md)
+- [§ 8 (weggefallen)](0008.md)
+- [Anlage 1 (zu § 1 Absatz 1)Befahrungsabgabenverzeichnis](anlage-1.md)
+- [Anlage 2 (zu § 7 Absatz 2)Nachweis für die Gewährung von Sofortrabatt](anlage-2.md)
