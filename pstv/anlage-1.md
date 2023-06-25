@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 11)Datenfelder in den Personenstandsregistern
 
 | Nr. | Datenfelder | Anmerkungen | Verwendung |
-|  |  |  | Haupteintrag | Folgebeurkundung | Hinweis | Suchfeld | Beschränkung |
+|  |  |  | Haupteintrag | Folgebeurkundung | Hinweis | Suchfeld | Beschränkung1 |
 |  | Allgemeine Registerangaben für alle Register |  |  |  |  |  |  |
 | 0001 | Name des Standesamts |  | X |  |  | X |  |
 | 0010 | Standesamtsnummer | z. B. 06412001 für das Standesamt Frankfurt am Main, ggf. ergänzt um ein Suffix für ein verwaltetes Standesamt | X |  |  | X |  |
@@ -20,7 +20,7 @@
 | 0051 | Datum der Beurkundung |  | X | X |  |  |  |
 | 0052 | Name der Urkundsperson |  | X | X |  |  |  |
 | 0053 | Funktionsbezeichnung | Unterscheidung nach männlichen oder weiblichen Standesbeamten | X | X |  |  |  |
-___________
+__________
 | Nr. | Datenfelder | Anmerkungen | Verwendung |
 |  |  |  | Haupteintrag | Folgebeurkundung | Hinweis | Suchfeld | Beschränkung1 |
 |  | Geburtenregister |  |  |  |  |  |  |
