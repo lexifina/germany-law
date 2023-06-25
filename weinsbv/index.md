@@ -38,6 +38,6 @@
 
 ## Abschnitt 9 Schlussbestimmungen
 
-- [§ 11 Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union](0011.md)
+- [§ 11 Verweisungen auf Vorschriften in Rechtsakten derEuropäischen Gemeinschaft oder der Europäischen Union](0011.md)
 - [§ 12 Inkrafttreten](0012.md)
-- [Anlage (zu § 11)Fundstellenverzeichnis der Verordnungen der Europäischen Union](anlage.md)
+- [Anlage (zu § 11)Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union](anlage.md)
