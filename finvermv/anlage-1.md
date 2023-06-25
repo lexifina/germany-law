@@ -15,6 +15,7 @@
 | 2.2.1 | Geldanlageformen |
 | 2.2.2 | Nichtbörsennotierte Finanzanlageprodukte |
 | 2.2.3 | Börsennotierte Finanzanlageprodukte |
+| 2.2.4 | Nachhaltigkeitskriterien für Finanzanlageprodukte |
 | 2.3 | Allgemeine rechtliche Grundlagen |
 | 2.3.1 | Vertragsrecht |
 | 2.3.2 | Geschäftsfähigkeit |
