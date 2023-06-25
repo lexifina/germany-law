@@ -3,7 +3,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Allgemeine Hygieneanforderungen](0003.md)
-- [§ 3a Verwendung von Trinkwasser](0003a.md)
+- [§ 3a Verwendung von Trinkwasser oder aufbereitetem Wasser](0003a.md)
 - [§ 4 Schulung](0004.md)
 - [§ 5 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse](0005.md)
 - [§ 6 Herstellung bestimmter traditioneller Lebensmittel](0006.md)

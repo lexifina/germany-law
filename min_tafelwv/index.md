@@ -23,7 +23,7 @@
 - [§ 10 Begriffsbestimmungen](0010.md)
 - [§ 11 Herstellung](0011.md)
 - [§ 12 Gewinnung, Abfüllung](0012.md)
-- [§ 13 Mikrobiologische Anforderungen](0013.md)
+- [§ 13 Mikrobiologische Anforderungen, Anforderungen hinsichtlich Indikatorparametern und sonstige Anforderungen](0013.md)
 - [§ 14 Kennzeichnung](0014.md)
 - [§ 15 Irreführende Angaben](0015.md)
 
@@ -45,3 +45,4 @@ Ordnungswidrigkeiten
 - [Anlage 4 (zu § 6a Abs. 1)](anlage-4.md)
 - [Anlage 5 (zu § 6a Abs. 2)](anlage-5.md)
 - [Anlage 6 (zu § 9 Abs. 3)](anlage-6.md)
+- [Anlage 7 (zu § 13 Absatz 3)Mikrobiologische Anforderungen und Anforderungen hinsichtlich Indikatorparametern für Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte Fertigpackungen abgefüllt wird](anlage-7.md)
