@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Der Ansiedlung der Bank für Internationalen Zahlungsausgleich in der Bundesrepublik Deutschland durch Einrichtung des BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main wird zugestimmt.
+(2)
+Das in Bern am 9. Dezember 2022 unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main wird hiermit in Kraft gesetzt und die in Teil 2 Kapitel 2 und 3 des Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen werden in dem aus dem Abkommen ersichtlichen Umfang gewährt. Das Abkommen wird nachstehend veröffentlicht.

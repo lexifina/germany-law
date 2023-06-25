@@ -1,0 +1,18 @@
+# Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zweck](0001.md)
+- [§ 2 Sachlicher Geltungsbereich](0002.md)
+- [§ 3 Räumlicher Geltungsbereich, Gebietsbestimmungen](0003.md)
+- [§ 4 Begriffsbestimmungen](0004.md)
+- [§ 5 Allgemeine Pflichten der Verkehrsteilnehmer, Anordnungsbefugnis](0005.md)
+- [§ 6 Verbote und Verkehrsführung](0006.md)
+- [§ 7 Geschwindigkeitsbegrenzungen](0007.md)
+- [§ 8 Ausnahmen und Befreiungen](0008.md)
+- [§ 9 Änderung der Gebietsbestimmungen](0009.md)
+- [§ 10 Ordnungswidrigkeiten](0010.md)
+- [§ 11 Evaluierung](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Anlage 1 (zu § 3 Absatz 1)Übersichtskarten Nordsee-Befahrensverordnung](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 2 Satz 2, § 6 Absatz 3, § 9 Satz 1)Geltungsbereich, Allgemeine Schutzgebiete, Besondere Schutzgebiete](anlage-2.md)
+- [Anlage 3 (zu § 3 Absatz 3, § 6 Absatz 2 Satz 2, § 6 Absatz 3 Satz 2, § 7 Absatz 7, § 9 Satz 2)Erlaubniszonen und Routen für Sport- und Freizeitzwecke sowie für die gewerbliche Nutzung](anlage-3.md)
