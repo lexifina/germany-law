@@ -2,7 +2,7 @@
 
 | Nachweis über die Verwendung der Regionalisierungsmittel |
 | für das Bundesland | im Jahr: |
-|  | Übersendung bis 30.09. des Folgejahres an BMVI |
+|  | Übersendung bis 30.09. des Folgejahres |
 |  | Beträge in Euro(Zu Ziffern 1 bis 7, 9, 10) |  |
 |  | Bereich | Veranschlagt im Landeshaushalt bei | Verwendungszweck | Berichtsjahr | Vorjahr IST | Vor-Vorjahr IST | Anteil Regionalisierungsmittel an Gesamt- mittelnin Prozent |
 | SOLL | IST |
