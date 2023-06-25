@@ -2,12 +2,12 @@
 
 Abschnitt 1
 1. Verfahren zur Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt
-  1.1 Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
-  1.2 Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
+  1.1 Über die Zulassung von Lehrgängen für atemschutzgerättragende Personen in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.
+  1.2 Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn der Lehrgang die nachstehenden Voraussetzungen erfüllt.
   1.3 Der Lehrgangsanbieter muss die Gewähr dafür bieten, dass die erforderliche Zuverlässigkeit in Zusammenarbeit mit den Unfallversicherungsträgern sichergestellt ist. Eine schriftliche oder in digitaler Form durchgeführte Lernerfolgskontrolle ist wünschenswert.
   1.4 Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zugrundeliegenden Standards eingehalten werden.
 2. Antrag auf Zulassung
-  2.1 Der Antrag auf Zulassung in schriftlich oder elektronisch an die zuständige Behörde zu richten.
+  2.1 Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.
   2.2 War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt diese die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
   2.3 Antragsberechtigt sind natürliche und juristische Personen.
   2.4 Dem Antrag sind anzufügen:
@@ -15,11 +15,11 @@ Abschnitt 1
     b) ein Verzeichnis des Lehrpersonals, einschließlich ihrer nachgewiesenen Fachkenntnisse,
     c) Informationen über das Lehrmaterial,
     d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
-    e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die zuständige Behörde unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+    e) eine Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, die Berufsgenossenschaft unverzüglich und aus eigener Initiative jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 3. Prüfung
-  Die zuständige Behörde und von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+  Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 4. Befristung, Widerruf der Zulassung
-  4.1 Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
+  4.1 Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens 5 Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens 5 Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich oder elektronisch hinzuweisen.
   4.2 Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt oder gegen die Pflichten, welche sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
   4.3 Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, im Auftrag und Namen erfolgen.
 Abschnitt 2
@@ -54,6 +54,6 @@ Voraussetzung zur Zulassung von Lehrgängen für atemschutzgerättragende Person
       3.3.1.3 Durchgeführte Inhalte des Lehrgangs
       3.3.1.4 Name der Lehrkraft
       3.3.1.5 Nachweis der Teilnahme durch Namen, Geburtsdatum und Unterschrift der Teilnehmenden
-      3.3.1.6 Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten, natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+      3.3.1.6 Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten, natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraumes sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
   3.4 Versicherungsschutz
     Die antragstellende Person hat nachzuweisen, dass eine Haftpflichtversicherung abgeschlossen wurde, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen können, abdeckt.

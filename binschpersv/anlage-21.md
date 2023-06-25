@@ -2,12 +2,12 @@
 
 Abschnitt 1
 1. Verfahren zur Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung
-  1.1 Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die zuständige Behörde, die sich hierfür der Unterstützung der Berufsgenossenschaft bedienen kann.
-  1.2 Die zuständige Behörde lässt einen Lehrgang zu, wenn der Lehrgang die nach den nachstehenden Voraussetzungen erfüllt.
+  1.1 Über die Zulassung von Lehrgängen zur grundlegenden Sicherheitsausbildung in der Binnenschifffahrt entscheidet die Berufsgenossenschaft.
+  1.2 Die Berufsgenossenschaft lässt einen Lehrgang zu, wenn er die nachstehenden Voraussetzungen erfüllt.
   1.3 Der Lehrgangsanbieter trägt durch Ausstellung der Lehrgangsbescheinigung die Gewähr, dass die Teilnehmenden ausreichende Kenntnisse für sichere Arbeitsabläufe auf Schiffen vermittelt bekommen haben.
   1.4 Bietet der Lehrgangsanbieter Lehrgänge an mehreren Örtlichkeiten an, so hat er durch innerbetriebliche Qualitätssicherung zu gewährleisten, dass an allen Örtlichkeiten die der Zulassung zu Grunde liegenden Standards eingehalten werden.
 2. Antrag auf Zulassung
-  2.1 Der Antrag auf Zulassung ist schriftlich oder elektronisch an die zuständige Behörde zu richten.
+  2.1 Der Antrag auf Zulassung ist schriftlich oder elektronisch an die Berufsgenossenschaft zu richten.
   2.2 War ein Lehrgang der antragstellenden Person bereits zugelassen und erfüllt sie die Voraussetzungen zur Verlängerung der Zulassung nicht mehr oder die Zulassung wurde widerrufen, so kann ein Antrag auf Wiedererteilung der Zulassung nicht vor Ablauf eines Jahres nach dem Ende der vorherigen Zulassung gestellt werden.
   2.3 Antragsberechtigt sind natürliche und juristische Personen.
   2.4 Dem Antrag sind anzufügen:
@@ -16,11 +16,11 @@ Abschnitt 1
     c) Informationen über das Lehrmaterial,
     d) Angaben darüber, wo der Lehrgang stattfinden soll, und über die Einrichtungen, die für die praktischen Übungen zur Verfügung stehen,
     e) Teilnahmebedingungen für den Lehrgang,
-    f) die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der zuständigen Behörde unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
+    f) die Erklärung, dass der Lehrgangsanbieter sich dazu verpflichtet, der Berufsgenossenschaft unverzüglich und aus eigener Initiative über jede Änderung der im Zulassungsantrag enthaltenen Informationen schriftlich oder elektronisch anzuzeigen, sobald ein Antrag auf Zulassung gestellt oder eine Zulassung erteilt wurde.
 3. Prüfung
-  Die zuständige Behörde und von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
+  Die zuständige Behörde, die Berufsgenossenschaft und jeweils von ihr beauftragte natürliche Personen sind während der üblichen Betriebs- und Geschäftszeiten berechtigt, Lehrgangsräume, Lehrgangseinrichtungen, Unterrichtsmittel sowie die Durchführung der Lehrgänge zu prüfen.
 4. Befristung, Widerruf der Zulassung
-  4.1 Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der zuständigen Behörde unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.
+  4.1 Die Zulassung wird bei Vorliegen der personellen, sachlichen und organisatorischen Voraussetzungen nach Abschnitt 2 befristet für höchstens fünf Jahre und unter dem Vorbehalt des Widerrufs erteilt. Sie wird auf Antrag um jeweils höchstens fünf Jahre verlängert, wenn alle Voraussetzungen für die Zulassung weiterhin bestehen. Jede Änderung der oben genannten Voraussetzungen ist der Berufsgenossenschaft unverzüglich schriftlich oder elektronisch mitzuteilen. Hierauf ist die antragstellende Person bei Zulassung schriftlich hinzuweisen.
   4.2 Die Zulassung kann widerrufen werden, wenn nachträglich eine Zulassungsvoraussetzung weggefallen ist, wenn die Schulung nicht ordnungsgemäß durchgeführt wird oder wenn gegen die Pflichten, die sich aus der Zulassung ergeben, verstoßen wird. Die sonstigen verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten bleiben unberührt.
   4.3 Eine Übertragung der Durchführung der Lehrgänge an andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, ist nur zulässig, wenn die Organisation und die Sachmittelausstattung auch für diese Dienstleistungen unmittelbar durch den zugelassenen Lehrgangsanbieter erfolgt, und wenn diese Personen die personellen Voraussetzungen nach Abschnitt 2 Ziffer 1 erfüllt. Für diese übertragenen Dienstleistungen muss die Durchführung durch andere Personen, die nicht Beschäftigte des zugelassenen Lehrgangsanbieters sind, in dessen Auftrag und Namen erfolgen.
 Abschnitt 2
@@ -39,7 +39,7 @@ Voraussetzungen zur Zulassung von Lehrgängen für die grundlegende Sicherheitsa
     b) Fachkraft für Arbeitssicherheit nach den §§ 5 bis 7 des Gesetzes über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) mit einer für die Binnenschifffahrt oder für die Seeschifffahrt bereichsbezogenen Ausbildung nach § 4 Absatz 6 und 7 der Unfallverhütungsvorschrift 2 der Deutschen Gesetzlichen Unfallversicherung (DGUV Vorschrift 2) vom 1. Januar 2011, in der Fassung vom 1. Februar 2012, veröffentlicht unter https://www.bg-verkehr.de/medien/medienkatalog/unfallverhuetungsvorschriften/dguv-vorschrift-2-bisher-bgv-a2
 2. Sachliche Voraussetzungen
   2.1 Die antragstellende Person hat nachzuweisen, dass der Lehrgang auf einem Wasserfahrzeug, einer schwimmenden Anlage oder einer geeigneten Landanlage durchgeführt wird, so dass insbesondere die praktischen Elemente des Lehrgangs unter realistischen Bedingungen vermittelt werden können.
-  2.2 Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die zuständige Behörde, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
+  2.2 Die antragstellende Person hat nachzuweisen, dass die aus der Anlage ersichtlichen theoretischen Unterrichtsanteile in geeigneten Räumlichkeiten stattfinden. Geeignet sind auch Fahrzeuge. Die theoretischen Unterrichtsanteile können auch durch elektronisch gestützte Konzepte vermittelt werden. Diese Konzepte bedürfen der besonderen Zustimmung durch die Berufsgenossenschaft, um das Erreichen der notwendigen Handlungskompetenz sicherzustellen.
 3. Organisatorische Voraussetzungen
   3.1 Inhalt und Umfang der Lehrgänge
     3.1.1 Der Unterricht hat sich nach einem Leitfaden des Lehrgangsanbieters zu richten, der für die Lehrkräfte hinsichtlich Inhalt, Durchführung der praktischen Demonstrationen und Übungen sowie Mindestzeitmaß verbindlich ist.
@@ -56,6 +56,6 @@ Voraussetzungen zur Zulassung von Lehrgängen für die grundlegende Sicherheitsa
       b) Ort und Dauer des Lehrgangs
       c) Name der Lehrkraft
       d) Nachweis der Teilnahme durch Name, Geburtsdatum und Unterschrift der Teilnehmenden.
-    3.3.2 Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der zuständigen Behörde oder einer von ihr beauftragten natürlichen oder juristischen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+    3.3.2 Die Aufzeichnungen sind vom zugelassenen Lehrgangsanbieter fünf Jahre ab dem Tag des Endes des Lehrgangs aufzubewahren und auf Anforderung der Berufsgenossenschaft oder einer von ihr beauftragten natürlichen Person vorzulegen. Nach Ablauf dieses Zeitraums sind die Aufzeichnungen vom zugelassenen Lehrgangsanbieter unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
   3.4 Versicherungsschutz
     Die antragstellende Person hat nachzuweisen, dass sie eine Haftpflichtversicherung abgeschlossen hat, die eventuelle Personen- und Sachschäden, die im Zusammenhang mit den Lehrgängen stehen, abdeckt.

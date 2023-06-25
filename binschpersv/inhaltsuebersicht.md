@@ -187,18 +187,18 @@ Teil 7
 | § 128 | Anerkennung von Befähigungszeugnissen, Schifferdienstbüchern und Bordbüchern aus Drittstaaten |
 | § 129 | Umtausch in ein neues Befähigungszeugnis für Schiffsführer und Schiffsführerinnen |
 | § 130 | Übergangsbestimmungen für Sportfahrzeuge und für Fahrzeuge unter 20 Metern Länge |
-| § 131 | Gültigkeit und Umtausch der Radarpatente |
+| § 131 | Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen |
 | § 132 | Gültigkeit der bisherigen Streckenkunde |
 | § 133 | Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter |
 | § 134 | Gültigkeit der Befähigungszeugnisse für Sachkundige für die Fahrgastschifffahrt und für Sachkundige für LNG |
 | § 135 | Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen |
 | § 136 | Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein |
-| § 137 | Durchführung von Tauglichkeitsuntersuchungen und Verlängerung der Zulassung von Ärzten und Ärztinnen |
-| § 138 | (weggefallen) |
+| § 137 | Durchführung von Tauglichkeitsuntersuchungen in besonderen Fällen |
+| § 138 | Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden |
 | § 139 | Sicherheitspersonal auf Fahrgastschiffen |
 | § 140 | Anrechnung von Fahrzeiten |
 | § 141 | Umtausch von Radarbescheinigungen |
-| § 142 | Befahren der Elbe |
+| § 142 | Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren |
 | Anlage 1(zu § 12 Absatz 1 Satz 1 Nummer 2) | Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist |
 | Anlage 2(zu § 16 Absatz 1 Satz 1 Nummer 2) | Binnenwasserstraßenabschnitte mit besonderen Risiken |
 | Anlage 3(zu § 17 Absatz 6 Nummer 1) | Bescheinigung Lehrgang atemschutzgerättragende Person |
@@ -208,6 +208,10 @@ Teil 7
 | Anhang 3zu Anlage 4 | Bemerkungen zu der Tabelle und den Anhängen |
 | Anlage 5(zu § 21 Absatz 1) | Muster des Tauglichkeitsnachweises für Besatzungsmitglieder (außer Maschinenpersonal) |
 | Anlage 6(zu § 21 Absatz 1) | Muster des Tauglichkeitsnachweises für das Maschinenpersonal |
+| Anlage 6a(zu § 24 Absatz 2) | Voraussetzungen und Verfahren für die Zulassung und die Verlängerung der Zulassung von Ärzten und Ärztinnen |
+| Anhang 1 zu Anlage 6a | Muster des Antragsformulars |
+| Anhang 2 zu Anlage 6a | Muster für den Zulassungsbescheid |
+| Anhang 3 zu Anlage 6a | Muster für den Nachweis der praktischen Tätigkeit |
 | Anlage 7(zu § 29) | Grundlegende Sicherheitsausbildung für Decksleute |
 | Anlage 8(zu § 35 Absatz 1) | Befähigungsstandards für die Betriebsebene |
 | Anlage 9(zu § 38 Absatz 1, Absatz 4 Satz 1 Nummer 2) | Befähigungsstandards für die Führungsebene |
@@ -237,5 +241,5 @@ Teil 7
 | Anlage 29(zu § 79 Absatz 4 Nummer 2) | Muster für besondere Berechtigung für Radar als gesonderte Karte bei Sportbootführerscheinen |
 | Anlage 30(zu § 89 Absatz 1) | Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt |
 | Anlage 31(zu § 90 Absatz 2) | Standards für das behördliche Zulassungsverfahren für Fahrsimulatoren und Radarsimulatoren |
-| Anlage 32(zu § 137 Absatz 2) | Voraussetzungen für die Verlängerung der Ermächtigung von Ärzten und Ärztinnen |
+| Anlage 32(zu § 137 Absatz 2) | (weggefallen) |
 | Anlage 33(zu § 138) | (weggefallen) |

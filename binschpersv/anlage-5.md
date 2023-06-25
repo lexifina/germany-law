@@ -14,6 +14,7 @@ Die untersuchte Person wurde hinsichtlich ihrer körperlichen und psychischen Ta
 ☐ Vorübergehend untauglich, voraussichtlich bis ____________
 ☐ Tauglich ohne Einschränkungen
 ☐ Tauglichkeit befristet bis ____________
+☐ Tauglich unter der Voraussetzung, dass das Patent der untersuchten Person vor dem 1. April 2004 erteilt worden ist
 ☐ Tauglich mit einer oder mehrerer der folgenden Beschränkungen
   ☐ 01 Sehhilfe (Brille und/oder Kontaktlinsen) erforderlich
   ☐ 02 Hörhilfe erforderlich
