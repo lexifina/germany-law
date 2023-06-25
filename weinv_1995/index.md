@@ -12,7 +12,6 @@
 
 - [§ 3 Formular für Anträge auf Genehmigung einer Neuanpflanzung(zu § 7c Absatz 2 des Weingesetzes)](0003.md)
 - [§ 4 Nachweis des Vorliegens von Prioritätskriterien(zu § 7c Absatz 2 des Weingesetzes)](0004.md)
-- [§ 4a (weggefallen)](0004a.md)
 - [§ 5 Härtefallregelung für Neuanpflanzungen(zu § 7c Absatz 3 des Weingesetzes)](0005.md)
 - [§ 6 Erzeugnisse aus Versuchsanbau(zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)](0006.md)
 - [(XXXX) §§ 7 bis 7a (weggefallen)](xxxx-7-bis-7a.md)

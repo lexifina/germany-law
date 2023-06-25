@@ -9,7 +9,6 @@
 | Anbauregeln |
 | § 3 | Formular für Anträge auf Genehmigung einer Neuanpflanzung |
 | § 4 | Nachweis des Vorliegens von Prioritätskriterien |
-| § 4a | (weggefallen) |
 | § 5 | Härtefallregelung für Neuanpflanzungen |
 | § 6 | Erzeugnisse aus Versuchsanbau |
 | § 7 | (weggefallen) |
