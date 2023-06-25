@@ -28,23 +28,23 @@
     | 1 Hz – 2,5 kHz | 0,5 |
     | 2,5 kHz – 100 kHz | 0,2 x f (f in kHz) |
   Die Kontaktstromstärke ist über alle Elektroden zu summieren.
-3. Grenzwertausschöpfung von Geräten, die gleichzeitig mehrere Frequenzen verwenden (§ 2 Absatz 1 Nummer 4 und 5)
+3. Summationsregeln für Geräte, die gleichzeitig mehrere Frequenzen verwenden (§ 2 Absatz 1 Nummer 4 und 5)
   a) Summationsformeln für spezifische Absorptionsraten SAR und Leistungsdichten S
     |  |
     mit
     SARi = Beitrag zur SAR durch die Exposition bei der Frequenz i,
-    SARB = SAR-Basisgrenzwert gemäß Anhang 1 Nummer 1 a),
+    SARB = SAR-Basisgrenzwert gemäß Anlage 1 Nummer 1 Buchstabe a,
     Si = Beitrag zur Leistungsdichte durch die Exposition bei der Frequenz i,
-    SB = Basisgrenzwert für die Leistungsflussdichte gemäß Anhang 1 Nummer 1 a)
+    SB = Basisgrenzwert für die Leistungsflussdichte gemäß Anlage 1 Nummer 1 Buchstabe a
   b) Summationsformeln für induzierte elektrische Felder Ei
     |  |
     mit
     Ei, j = Beitrag des induzierten elektrischen Feldes bei der Frequenz j,
-    EB, j = Basisgrenzwert des induzierten elektrischen Feldes bei der Frequenz j, gemäß Anhang 1 Nummer 1 a) und Nummer 2 a)
+    EB, j = Basisgrenzwert des induzierten elektrischen Feldes bei der Frequenz j, gemäß Anlage 1 Nummer 1 Buchstabe b und Nummer 2 Buchstabe a
   c) Summationsformeln für Kontaktströme Ij
     |  |
     |  |
     mit
     Ij = Beitrag des Kontaktstromes bei der Frequenz j,
-    IR1, j = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß Anhang 1 Nummer 1 c)
-    IR2, j = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß Anhang 1 Nummer 2 b)
+    IR1, j = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß Anlage 1 Nummer 1 Buchstabe c und Nummer 2 Buchstabe b)
+    IR2, j = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß Anlage 1 Nummer 1 Buchstabe c)

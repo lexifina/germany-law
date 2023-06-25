@@ -14,4 +14,4 @@
 - [§ 12 Ordnungswidrigkeiten](0012.md)
 - [Anlage 1 (zu § 2 Absatz 1 Nummer 4 und 5)Werte für Anlagen im Sinne dieser Verordnung](anlage-1.md)
 - [Anlage 2 (zu § 3 Absatz 2 Satz 3)Dokumentation der Anwendung](anlage-2.md)
-- [Anlage 3 (zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)Fachkunde](anlage-3.md)
+- [Anlage 3 (zu § 5 Absatz 1, § 6 Absatz 1, § 7 und § 9 Absatz 1)Fachkunde](anlage-3.md)
