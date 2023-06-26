@@ -1,0 +1,6 @@
+# TOP 8.: Verschiedenes
+
+- Sitzung: Haupt- und Finanzausschuss (17. Sitzung) (2023-06-26)
+- Körperschaft: Stadt Homberg (Ohm)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/agendaitem/5889
