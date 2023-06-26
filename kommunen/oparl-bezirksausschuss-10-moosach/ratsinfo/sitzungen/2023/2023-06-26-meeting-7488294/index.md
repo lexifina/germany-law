@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488294
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488294
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Situation Moosacher St.-Martinsplatz: a) fehlende Sitzbänke b) störendes Wahlplakat c) häßlicher Stromkasten
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Unterstützung für Zonta Club Projekte "gegen Gewalt an Frauen" , hier: Aufstellen von orangenen Bänken (-> vertagt aus Sitzung am 22.05.2023): a) Ergebnisse der Befassung des UA b) Antrag Zonta Club auf Bestellung einer städtischen Leistung (BSL) c) weiteres Vorgehen
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: N_ Seydlitzstr. 58
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Radweg an der Dachauer- / Hanauer Straße rot einfärben
+- TOP 4.1.2.: Ausweisung des Hügels im "Rathgeber Park" als Schlittenberg
+- TOP 4.1.3.: Bessere Beschattung der Spielplätze im Stadtbezirk
+- TOP 4.1.4.: Anfrage: Verbesserung der Ampelanlage bzw. Markierungen an der Kreuzung Feldmochinger Straße / Pelkovenstraße (-> Nachfrage zu noch nicht erledigten BA-Antrag Nr. 20-26/ B03444)
+- TOP 4.1.5.: Anfrage: Sind schattenspendende Maßnahmen in der öffentlichen Grünanlage an der Untermenzinger Straße / Ecke Margarete-Steiff-Straße vorgesehen?
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Zuschuss aus dem BA-Budget für eine eigene Veranstaltung "Wir alle sind Moosach": Gedenkfeier am 22.07.2023
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Augustinum Studienheim - SchulCentrum Augustinum gGmbH Vorschul-heilpädagogische-Tagesstätte "In den Kirschen" von Juni bis Dezember 2023 30.000,00 € / Az.: 0262.0-10-0331 (-> vertagt aus Sitzung am 22.05.2023)
+- TOP 5.2.: (E) Stadtbezirksbudget Pflegehof München e.V. Ausstattung der Wohn- und Gemeinschaftsräume 5.000,00 € / Az. 0262.0-10-0334 (-> vertagt aus Sitzung am 22.05.2023)
+- TOP 5.3.: (E) Stadtbezirksbudget Die Linie 1 – Kulturverein München-Moossach e.V. Bücherschrank Moosach-II-Borstei 9.650,00 € / Az. 0262.0-10-0337
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative „Percussion im Klassenzimmer“ Percussion im Klassenzimmer vom 12.10. - 21.12.2023 1.000,00 € / Az. 0262.0-10-0340
+- TOP 5.5.: (E) Stadtbezirksbudget Jugendfeuerwehr München West / Abt. Moosach, Förderverein FF Moosach Sommerfreizeit der Jugendfeuerwehr vom 12.-20.08.2023 4.935,10 € / Az. 0262.0-10-0338
+- TOP 5.6.: (E) Stadtbezirksbudget Kindergruppe Gänseblümchen e.V. Ich helf´ kochen! 15.058,04 € / Az. 0262.0-10-0339
+- TOP 5.7.: (E) Mögliche Grundwasserprobleme durch die künftige Bebauung des Gebietes „Botanikum“, Feldmochinger Str. 75-79
+- TOP 5.8.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß OB-Vollmacht: Dachauer Str. 423
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung (Antrag BA16): Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 6.2.: Entwurf Sitzungsvorlage: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren (Sitzungsvorlage Nr. 20-26 / V 06175)
+- TOP 6.3.: Erteilung einer Genehmigung zum Erwerb und Verwenden pyrotechnischer Gegenstände (Kategorie F2) auf einem Privatgrundstück: Lauinger Str. 54 am 17.11.2023
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund: Parkanlage Borstei "Borstei Sommerfest" am 22.07.2023
+- TOP 6.5.: Veranstaltung in städtischer Grünanlage: Franz-Mader-Str. 11 Sri Chinmoy Peace-Mile 6-Stunden-Lauf am 09.09.2023
+- TOP 6.6.: N_ Menschenansammlung auf öffentlichem Verkehrsgrund und Privatgrund: Hanauer Str. 77, „Gedenken an das OEZ-Attentat“ am 22.07.2023
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Fassadenbegrünung für das technische Betriebszentrum der LH München in der Schragenhofstr. 6 [BA-Antrag Nr. 20-26/B 04769; Streckmetallkonstruktion eignet sich nicht für Fassadenbegrünung.]
+- TOP 7.2.: Pflanzung einer "Baum-Allee-Reihe" an der Dachauer Straße (gegenüber Borstei, auf dem Grünstreifen an den Schrebergärten). [BA-Antrag Nr. 20-26/ B 05335; vorgeschlagene Baum-Allee ist Bestandteil der aktuellen Machbarkeitsstudie. Nach Beurteilung wird BAUR entsprechende Beschlussvorlage vorlegen.]
+- TOP 7.3.: Errichtung einer Lärmschutzwand an der Dachauer Str. 293 entlang Kleingartenverein NW3 [Schreiben BA^0 vom 17.03.2023; Im Rahmen Lärmvorsorge und -sanierung keine Umsetzung möglich.]
+- TOP 7.4.: Verbesserung der Verkehrszeichenregelung in der Quedlinburger Straße [Schreiben BA10 vom 17.03.2023; erneute Prüfung ergab keine veränderte Situation zum Antwortschreiben auf BA-Antrag Nr. 20-26/ B 00955 (2020), deshalb keine Änderung möglich.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Veranstaltung auf öffentlichem Verkehrsgrund: Sommerfest der SV Hartmannshofen
+- TOP 8.2.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Buslinie 51: Änderung des Linienwegs im Bereich Netzer-, Skagerrak-, und Baubergerstraße
+- TOP 8.4.: unveränderte Fortführung eines Gaststättenbetriebes: Bunzlauer Str. 22
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 8.7.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 8.8.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 8.9.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 8.10.: Mobilfunk: Erweiterung am bestehenden Mobilfunkstandort, 5G: Agnes-Pockels-Bogen - nicht-öffentlich -
