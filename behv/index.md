@@ -72,9 +72,15 @@
 - [§ 32 Automatisierte Prüfung und endgültiger Abschluss von Vorgängen und Transaktionen](0032.md)
 - [§ 33 Veröffentlichung von Informationen](0033.md)
 
-## Abschnitt 4 Schlussbestimmungen
+## Abschnitt 4 Nationale Emissionsmengen (zu den §§ 4 und 5 des Gesetzes)
 
-- [§ 34 Inkrafttreten](0034.md)
+- [§ 34 Festlegung der jährlichen Emissionsmengen](0034.md)
+- [§ 35 Bestimmung der jährlichen Erhöhungsmenge](0035.md)
+- [§ 36 Bereinigter Zusatzbedarf](0036.md)
+
+## Abschnitt 5 Schlussbestimmungen
+
+- [§ 37 Inkrafttreten](0037.md)
 - [Anlage 1 (zu § 10 Absatz 2)Kontoarten](anlage-1.md)
 - [Anlage 2 (zu § 12 Absatz 1)Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben](anlage-2.md)
 - [Anlage 3 (zu § 12 Absatz 1)Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben](anlage-3.md)

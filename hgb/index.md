@@ -648,11 +648,7 @@ Rückstellungen
 #### Vierter Unterabschnitt Ergänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne
 
 
-### Fünfter Abschnitt Privates Rechnungslegungsgremium.
-Rechnungslegungsbeirat
-
-
-##### Erster Titel Anwendungsbereich; BegriffsbestimmungenAnwendungsbereich; Begriffsbestimmungen
+##### Erster Titel Anwendungsbereich; Begriffsbestimmungen
 
 - [§ 342 Anwendungsbereich](0342.md)
 - [§ 342a Begriffsbestimmungen](0342a.md)
@@ -683,6 +679,9 @@ Rechnungslegungsbeirat
 
 - [§ 342o Bußgeldvorschriften](0342o.md)
 - [§ 342p Ordnungsgelder](0342p.md)
+
+### Fünfter Abschnitt Privates Rechnungslegungsgremium. Rechnungslegungsbeirat
+
 - [§ 342q Privates Rechnungslegungsgremium](0342q.md)
 - [§ 342r Rechnungslegungsbeirat](0342r.md)
 
