@@ -32,6 +32,7 @@
 
 - [§ 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur](0017.md)
 - [§ 17a Kapitalmaßnahmen](0017a.md)
+- [§ 17b Übertragung von Vermögensgegenständen](0017b.md)
 - [§ 18 Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur](0018.md)
 - [§ 19 Enteignungsakt; Verordnungsermächtigung](0019.md)
 - [§ 20 Verfahren](0020.md)
