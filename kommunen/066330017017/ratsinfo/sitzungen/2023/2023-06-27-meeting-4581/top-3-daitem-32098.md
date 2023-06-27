@@ -1,0 +1,9 @@
+# TOP 3: Bericht zum Haushaltsvollzug gemäß § 28 GemHVO - 1. unterjähriger Bericht
+
+- Sitzung: Haupt- und Finanzausschuss (22. Sitzung) (2023-06-27)
+- Körperschaft: Gemeinde Lohfelden
+- Öffentlich: ja
+- OParl: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/32098
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/8151
+- Beschluss (Datei): Beschlusstext (Bericht zum Haushaltsvollzug gemäß § 28 GemHVO - 1. unterjähriger Bericht) https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVtY2YqwoJt9u10C8aikF1UvomM3hCm8EikKHEE8pQDY/Beschlusstext_2-17-2023_-oeffentlich-_Haupt-_und_Finanzausschuss_27.06.2023.pdf
