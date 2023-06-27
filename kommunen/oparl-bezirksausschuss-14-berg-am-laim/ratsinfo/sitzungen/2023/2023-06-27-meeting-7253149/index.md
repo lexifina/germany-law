@@ -1,0 +1,108 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-06-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253149
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253149
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 23.05.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) + (U) Gefährdung von Radfahrern in der St.-Veit-Straße Empfehlung Nr. 20-26 / E 00163 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 14.07.2021
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Baumkirchner Str. - Errichtung einer öffentlichen, freistehenden WC-Anlage am Standort München, Berg am Laim (Baumkirchner Str. / Grüner Markt)
+- TOP 3.1.2.: Truderinger Str. - Neubau einer Wohnanlage mit 239 Wohnungen, eines Ateliers, einer siebenzügigen Kindertagesstätte und einer Tiefgarage mit 178 PKW-Stellplätzen (mit Mobilitätskonzept)
+- TOP 3.1.3.: Englmannstr. 1 - Neubau eines Bürogebäudes mit Konferenzbereich und einer Tiefgarage - (Englmannstr. 1 / Levelingstr. 23) - VORBESCHEID
+- TOP 3.1.4.: Isareckstr. 54 - Aufstockung des Wohngebäudes und Ausbau der beiden neuen Dachgeschosse - VORBESCHEID (3 Var.)
+- TOP 3.1.5.: Aufstellen von Hundepollern am Fitnesspark am Michaelianger; Anliegen aus der Bürgerschaft
+- TOP 3.1.6.: Verschönerung und Neupflanzungen entlang der Riedgaustr. und Münchner Str.; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Versetzung oder Neuinstallation von Abfalleimern in der Grünanlage an der Josephsburgstr.; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: Problematische Situation am Bahnhof Berg am Laim; Anliegen aus der Bürgerschaft
+- TOP 3.1.9.: Prüfung von alternativen Lagen des freigelegten Hachinger Baches entlang der Truderinger Straße, damit die Bäume beidseitig der Straße erhalten werden können; Antrag der FW/ÖDP-Fraktion - überarbeiteter Antrag (vertragt aus der Plenumssitzung 05/2023)
+- TOP 3.1.10.: Erstellung der öffentlichen Grünfläche Baumkirchen Mitte; Antrag der CSU-Fraktion
+- TOP 3.1.11.: Werksviertel: Ausreichend Grünflächen schaffen! Antrag der CSU-Fraktion
+- TOP 3.1.12.: Fernwärme für Berg am Laim; Anliegen aus der Bürgerschaft
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Änderung der Ampelschaltung an der Kreuzung Ampfingstaße/Berg-am-Laim-Straße - Anliegen aus der Bürgerschaft -
+- TOP 3.2.2.: Schaffung von Kurzzeitparkplätzen vor der Ost-Apotheke in der Josephsburgstr. 83; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Wiederaufnahme des Antrags auf Erstellung eines Zebrastreifens in der Echardinger Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Schaffung eines Halteverbots im Kurvenbereich, Hermann-Weinhauser-Str. bei der Einmündung in die Neumarkter Str.; Anhörung des Mobilitätsreferat
+- TOP 3.2.5.: Umsetzung eines Zebrastreifen bzw. geordnete Überquerungsmöglichkeit für einen sicheren Schulweg in der Josephsburgstraße; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Sicherheitskonzept für die aktuelle Schulwegsituation in der Gerlosstr. rund um die neue Grundschule an der St.-Veit-Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.7.: Umgestaltung der Unterführung an der Kreuzung Baumkirchnerstr./Hermann-Weinhauser-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: „Sommerfest Elterninitiative Ali Baba“ im Behrpark am 15.07.2023, Ersatztermin: 16.07.2023, Frist bis zum 28.06.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: Thomas-Hauser-Straße / Xaver-Weismor-Straße: Umbau des Asphaltfußballplatzes in einen Kunstrasenplatz; Anliegen aus der Bürgerschaft
+- TOP 3.3.3.: „Theater“ am 15./16.; 22./23. und 29./30.07.2023 im Behrpark, Frist bis zum 05.07.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.4.: Spielaktionen "Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen vom 26.07. – 28.10.2023, Frist bis zum 10.07.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.5.: Entwurf der Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2023", Frist bis zum 04.07.2023; Anhörung des Referats für Bildung und Sport
+- TOP 3.3.6.: Entscheidung über die Einrichtung einer Sommerstraße in der Hermann-Weinhauser-Straße zwischen Hausnummer 32 und 43, temporäre Einrichtung eines verkehrsberuhigten Bereichs vom 04.07.2023 bis voraussichtlich 30.08.2023
+- TOP 3.3.7.: Verlängerungsanfrage bis 31.08.2023: Sondernutzungserlaubnis für die temporäre Kunstaktion "Raumveränderer Portraitprojekt" vom 10.05.-13.06.23 in der Neumarkter Str./Baumkirchner Str./Leuchtenbergring, der Vorsitzende des BA 14 gab im Rahmen von § 20 Abs. 1 Satz 2 Bezirksausschuss-Satzung Stellungnahme ab
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Stadtbezirksbudget Bibsi Staiger GmbH Bad Irmgard (im Kiosk U-Bahnhof Michaelibad) vom 13.07. - 30.09.2023 1.383,50 € / Az. 0262.0-14-0362
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative „Kiosk Josphsburg“ Kiosk Josephsburg vom 01.07. - 30.09.2023 3.985,60 € / Az. 0262.0-14-0361
+- TOP 3.5.3.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park 2023 vom 01.05.-31.08.2023 5.300,00 € / Az. 0262.0-14-0363
+- TOP 3.5.4.: (E) Stadtbezirksbudget Condrobs e.V. Therapeutisches Reiten für suchtmittelkranke und substituierte Erwachsene vom 15.7.-31.12.2023 1.268,00 € / Az. 0262.0-14-0366
+- TOP 3.5.5.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation – Konflikte in Schulen vom 12.09.2023 – 01.08.2024 8.000,00 € / AZ.0262.0-14-0364
+- TOP 3.5.6.: (E) Stadtbezirksbudget SOS Kinderdorf e.V., SOS-Kinderdorf München, SOS-Beratungs- und Familienzentrum Sommerfest am 01.07.2023 730,00 € / Az. 0262.0-14-0367
+- TOP 3.5.7.: Interfraktioneller Antrag des BA 16 – Ramersdorf-Perlach Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 3.5.8.: Antrag auf Bestellung städtischer Leistungen: Finanzierung von Familien und Ferienpässen; Antrag der CSU-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten 14. Stadtbezirk KW 20 bis KW 23
+- TOP 4.1.2.: (U) Freilegung des Hachinger Bachs
+- TOP 4.1.3.: Anfrage zu Hochbeete bei Geflüchtetenunterkunft in der Hachinger-Bach-Str.
+- TOP 4.1.4.: (U) Masterplan solares München
+- TOP 4.1.5.: Verschmutzung der Parkbank an der Kreuzung Hachinger-Bach-Straße/ Michaeliburgstraße
+- TOP 4.1.6.: Reduzierung der Parkplätze in der neu zu errichtenden Tiefgarage am Park and Ride Parkplatz Michaelibad
+- TOP 4.1.7.: Sichere Trennung von Fußwegen und Baustellenzufahrten beim Bau des „Campus Ost“
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Vorschlag zur Erhöhung der Verkehrssicherheit in Berg am Laim
+- TOP 4.2.2.: befristete Einrichtung eines personenbezogenes Sonderparkplatzes, Riedgaustr. 13
+- TOP 4.2.3.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 4.2.4.: Einrichtung einer Schulbushaltestelle in der Hermann-Weinhauser-Straße für den Schülerverkehr zum ESV München-Ost e.V. Sportzentrum, Verlängerung des HV-Bereichs und der Zeitdauer am Zusatzzeichen des HV
+- TOP 4.2.5.: Eigene Stellplätze für Lastenfahrräder, Fahrräder mit Anhänger und Dreiräder ausweisen - Antwortschreiben -
+- TOP 4.2.6.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 4.2.7.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 4.2.8.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 4.2.9.: Planen die Stadtwerke eine mögliche Trambahn-Wendeschleife bei der Bebauung des ehemaligen Michaeli-Busbahnhofes mit ein? - Antwortschreiben -
+- TOP 4.2.10.: Birkkarspitzstr. zwischen Bad-Schachener Str. und Oedkarspitzstr., absolutes Haltverbot einseitig
+- TOP 4.2.11.: Aufhebung eines personengebundenen Behindertenparkplatz in der Schildensteinstr. 12
+- TOP 4.2.12.: Haltverbot in der Grafinger Str. zwischen Innsbrucker Ring und Ampfingstr. zur Verbesserung der Zuverlässigkeit des Linienbusverkehrs
+- TOP 4.2.13.: Behandlung des WA 1 „Truderinger Acker“ in der Stadtgestaltungskommission
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Auswahl Sommerstraße 2023
+- TOP 4.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.3.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 4.3.4.: (U) Schul- und Kitabauoffensive – 4. Schulbauprogramm und Kita-Bauprogramm 2022 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B 4. Schulbauprogramm C Kita-Bauprogramm 2022 D Budgetaufstockung Bauunterhalt E Personalbedarfe F Inklusionsorientierter Sportstättenbau - Aktualisierung der Standardraumprogramme G Behandlung von Anträgen und Empfehlungen H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Antwortschreiben des Oberbürgermeisters wegen den BA-Fristen
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Annabrunner Str. 20 - 22 (Unterrichtung)
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Oktoberfest 2023 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
