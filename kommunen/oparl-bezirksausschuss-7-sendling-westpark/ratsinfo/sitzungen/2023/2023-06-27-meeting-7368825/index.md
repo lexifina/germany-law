@@ -1,0 +1,211 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: _Protokoll 2023-05
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Schulweg Plingansersprengel
+- TOP 6.2.: Demonstrationszug durch Wohngebiet
+- TOP 6.3.: Bauzaun Krüner Platz
+- TOP 6.4.: Kein Platz für Gewalt gegen Frauen
+- TOP 6.5.: Taubenfütterung, Müllablage und Ratten an der S-Bahnstation Mittersendling, Bauernbräuweg, Recycling-Insel
+- TOP 6.6.: Parklizenzen Gewerbe
+- TOP 6.7.: Vorschlag für eine städtische Leistung Orangene Bank
+- TOP 6.8.: Umbau Johann-Clanze-Str
+- TOP 6.9.: Parklizenzgebiet und Industrieunternehmen
+- TOP 6.10.: Werdenfelsstr Neubau Garagenzufahrt
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Austellen Verkaufseinrichtung Hansastr.
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Elterninitiative Grundschule Werdenfelsstraße e.V. “Feier zum 20-jährigen Jubiläum der Elterninitiative am 12.05.2023" 1.469,35 € / AZ: 0262.0-7-0418
+- TOP 10.2.: (E) Stadtbezirksbudget Feierwerk e.V. “Dschungelpalast Sommerfest für die ganze Familie am 23.07.2023“ 2.500,00 € / AZ: 0262.0-7-0424
+- TOP 10.3.: (E) Stadtbezirksbudget Feierwerk e.V. “Sommerferienprogramm im Westpark mom 14.08.2023 – 18.08.2023, 21.08.2023 – 25.08.2023“ 2.000,00 € / AZ: 0262.0-7-0423
+- TOP 10.4.: (E) Stadtbezirksbudget Initiative 40 Jahre Westpark “40 Jahre Westpark – Ausstellung Entstehungsgeschichte des Westparks und Führungen vom 21.07.2023 – 23.07.2023“ 1.300,00 € / AZ: 0262.0-7-0425
+- TOP 10.5.: (E) Stadtbezirksbudget Förderverein Volksmusik Oberbayern e.V. 40 Jahre Westpark-Volksmusik im Bayerwaldhaus am 21.07.2023 und 23.07.2023 750,00 € / AZ. 0262.0-7-0426
+- TOP 10.6.: (E) Stadtbezirksbudget SchiffsModellbauGemeinschaft (SMG) Wolpertinger e.V. München 40 Jahre Westpark-Schaufahren von Schiffsmodellen am 21.07.2023 und 22.07.2023 280,00 € / AZ 0262.0-7-0428
+- TOP 10.7.: (E) Stadtbezirksbudget Initiative "40 Jahre Westpark" 40 Jahre Westpark - Seebühne vom 20. - 23.07.2023 1.300,00 Euro, Az.: 0262.0-7-0427
+- TOP 10.8.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation – Konflikthilfe in Schulen vom 12.09.2023 - 01.08.2024 4.000,00 € / AZ.0262.0-7-0430
+- TOP 10.9.: (E) Stadtbezirksbudget Gans Kreativ GmbH – Gans am Wasser “40 Jahre Westpark – Gans am Wasser vom 20.07.2023 – 23.07.2023“ 4.292,00 € / AZ: 0262.0-7-0433
+- TOP 10.10.: Änderungsanfrage Zuwendungshöhe
+- TOP 10.11.: (E) Stadtbezirksbudget Initiative „Sting Illustrated Live“ “Sting Illustrated Live am 26.08.2023“ 11.845,00 € / AZ: 0262.0-7-0429
+- TOP 10.12.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Friedenspädagogik e.V. - Die Pastinaken “Bildungsfestival der Pastinaken HerrschaftsZeiten – Zeit-Erinnern-Zukünfte 8 Vs vom 16.07.2023 – 29.07.2023“ 5.000,00 € / AZ: 0262.0-7-0434
+- TOP 10.13.: (E) Stadtbezirksbudget Mutheki – Musik Theater Kinder e.V. “Kultur mit Kind Festival vom 21.07.2023 – 23.07.2023“ 4.441,50 € / AZ: 0262.0-7-0431
+- TOP 10.14.: (E) Stadtbezirksbudget Initiative Förderschule "Tagesausflug in den Freizeitpark Ruhpolding" am 17.07.2023 6.021,03 € / AZ.0262.0-7-0435
+- TOP 11.: Anträge
+- TOP 11.1.: Aushangfahrpläne U4 in der Westendstraße
+- TOP 11.2.: Straßenmarkierungen in der Garmischer Straße
+- TOP 11.3.: KGP vor Ort verfügbar machen
+- TOP 11.4.: Antrag KJ-Versammlung
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung UA-Bau,Stadtplanung und Umwelt
+- TOP 12.1.2.: Protokoll Unterausschuss Bau-Stadtplanung-Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.2.1.: Einladung BuS
+- TOP 12.2.2.: Protokoll BuS
+- TOP 12.3: Haushalt
+- TOP 12.3.1.: Einladung UA Haushalt 2023-06
+- TOP 12.3.2.: Protokoll HHA
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.5.1.: Einladung UA MuW 2023-06
+- TOP 12.5.2.: Protokoll UA MuW 2023-06
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung UA PuG
+- TOP 12.6.2.: Protokoll Parks und Grünanlage
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Bericht des Vorsitzenden 2023-06
+- TOP 13.1.2.: Kriterienkatalog für Dialogdisplays
+- TOP 13.1.3.: TOPO-Boxen - Standorte und Termine
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.7.1.: Bericht Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten
+- TOP 13.12.2.: Spenden Flohmarkt DinA 4
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Fernpaßstr.
+- TOP 15.2.: Bauvorhaben Albert-Roßhaupter-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Anhörung, Krüner Platz, Ehrwaldstr, beim Kiosk, Kultur mit Kind
+- TOP 16.2.: SPD Sommerfest, Sackgasse vor Partnachstr.
+- TOP 16.3.: Schondorferstraße, Straßenfest
+- TOP 16.4.: Luise-Kiesselbach-Platz, Gastspiel Kinderbuchtheater
+- TOP 16.5.: Sommerstraßen_Warm up, Innerkoflerstraße
+- TOP 16.6.: Nachtrag: Grünanlage Bodenehrstr/Trautmannstr., Sommerfest der Kita Infanterix
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, kleine Zirkuswiese, 40 Jahre Westpark, Klima_DULT
+- TOP 17.2.: kleine Zirkuswiese, Marionettentheater Maatz
+- TOP 17.3.: Westpark, kleine Zirkuswiese, Quartierslounge
+- TOP 17.4.: Westpark, Clematiswiese, Spielnachmittage des RBS
+- TOP 17.5.: Westpark, Theatron, christliche Outdoor Gottesdienste, 4 Termine
+- TOP 17.6.: Westpark, Theatron, kleines Festival der Weltmusik
+- TOP 17.7.: Nachtrag: Theatron, Konzert der städtischen Sing- und Musikschule am 26.07.2023
+- TOP 17.8.: Nachtrag: große Wiese West, internationales Fest der Kulturen
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Spielaktionen Straße_Oase von CultureClouds e.V. auf Straßen und Plätzen
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Anfrage wegen Austausch einer Lichtsignalanlage:Standort Droste-Hülshoff/Westendstr.
+- TOP 25.2.: Verkehrsrechtliche Anordnung Andreas-Vöst-Straße
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Beschlussvorlage Schul- und Kitabauoffensive-Sachstandsbericht 2023
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Beleuchtungsanlage im Bereich der Passauerstraße
+- TOP 33.2.: Straßenbegleitgrün Zillertalstraße/Kössener Straße ökologische Umnutzung Trittsteinbiotope
+- TOP 33.3.: Antwortschreiben OB Ortstermin Welserstr.
+- TOP 33.4.: Zwischennachricht Querung Markomannenstr.
+- TOP 33.5.: Eingezäunte Hundefreilauffläche in Sendling-Westpark
+- TOP 33.6.: Baumfällung Hansastr.
+- TOP 33.7.: Änderung der Halteverbote in der Cimbernstraße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Geschäftsaufgabe Wirtshaus am Rosengarten
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Protokoll Besprechung BA7 zur Geschwindigkeitskontrolle A95
+- TOP 40.2.: Dauerhafte Aufhebung der Radwegbenutzungspflicht Passauerstr.
+- TOP 40.3.: Tempo 50 im Luise-Kiesselbach- und Heckenstaller-Tunnel
+- TOP 40.4.: Verkehrsführung und Raumaufteilung Johan-Clanze-Str.-LKP-Johann-Houis-Str.
+- TOP 40.5.: Verlängerung Ohlstadter Str-Vollsperre
+- TOP 40.6.: Schrägparken Johann-Clanze-Str Fristverlängerung
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Antragspaket zur Bezirkssportanlage Surheimer Weg 3
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Bescheid Hansastraße Gorillas
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Einladung zur Kinder- und Jugendversammlung in Sendling
+- TOP 47.2.: Einladung AG Lasst uns mal ran - Sendling
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 50.1.: OB Antwortschreiben BA-Fristen
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Teamstaffel-Lauf
+- TOP 53.2.: Bescheid, Westpark, Theatron, Vorlesungen der KinderUni
+- TOP 53.3.: Bescheid, Westpark, Charity Lauf
+- TOP 53.4.: Luise-Kiesselbach-Platz, Kinder mitmach Zirkus Roberto
+- TOP 53.5.: Bescheid, Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 53.6.: Bescheid, Westpark, Seebühne, Kinderkonzert
+- TOP 53.7.: Bescheid, Johann-Houis-Straße, Straßenfest.
+- TOP 53.8.: Bescheid, Westpark, Theatron, Theateraufführungen Shakespeares Othello
+- TOP 53.9.: Bescheid, Westpark, Westsee, 40 Jahre Westpark, Veranstaltung des SMG Wolpertinger e.V.
+- TOP 53.10.: Bescheid, Westpark, Rundhütten, Märchenerzählungen im August
+- TOP 53.11.: Bescheid, Westpark, Eingangsrondell Reulandstraße, Nachbarschaftsfest
+- TOP 53.12.: Versammlungsanzeigen Kulturlieferdienst
+- TOP 53.13.: Bescheid, Westpark, Theatron, artist jam open air
+- TOP 53.14.: Bescheid, Straßenfest Halmstraße
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: DG Zirler Park - Die Rosenheim Cops
+- TOP 56.2.: DG Elmauer_Str. - Die Rosenheim Cops-Vollsperre
+- TOP 56.3.: Fernpaßstr. zwischen Krüner Str. und Treffauerstr_Vollsperre
+- TOP 56.4.: DG Westpark- Wenn Worte nicht reichen
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Neue Teamleitung PLAN-HAII-23P
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtung Zweckentfremdung - Halmstr.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
