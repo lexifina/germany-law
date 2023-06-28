@@ -1,0 +1,171 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7381098
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7381098
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Änderung in der Besetzung der Unterausschüsse: Britta Puce: UA SGI Nicole Meyer: UA Klima und Umwelt, UA Wirtschaft Lena Sterzer: UA Planung
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 5: Ortstermin „Gasteig“ - UA Kultur, TOP 6: Ortstermin „Unionsbräu“ - UA Wirtschaft, TOP 2.7: Abschlussveranstaltung Müllfrei-Meile Haidhausen auf dem Pariser Platz am 22.07.2023 - UA Mobilität, TOP 4.16: Geländer der neuen Tramhaltestelle Rosenheimer Platz - UA Mobilität, TOP 4.17: Haltelinien für Radfahrende am Max-Weber-Platz
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokolle der Sitzungen vom 26.04.2023 und 24.05.2023
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Valentin Karlstadt Musäum in Au-Haidhausen
+- TOP 5.2.: Sanierung des Schwimmbads im Salesianum finanziell unterstützen
+- TOP 5.3.: Barrierefreiheit am Ostbahnhof I
+- TOP 5.4.: Barrierefreiheit am Ostbahnhof II
+- TOP 5.5.: Radabstellplätze am Ostbahnhof schaffen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Mitbestimmung bei Bürgerversammlungen
+- TOP 6.2.2.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen Antwort Oberbürgermeister zum Schreiben BA 5
+- TOP 6.2.3.: Infoblatt Juni 2023
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP I.1.: Änderung des Formblatts Detailauskunft Verweis aus der Sitzung vom 24.05.2023
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget AKA e.V. Haidhauser Kultursonntag am 02.07.2023 5.571,00 € / Az. 0262.0-5-0478
+- TOP II.2.: Graffiti Gestaltung Tassiloplatz, Bürgeranliegen
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Sense of Place“ Leseung aus der Lesereihe „Sense of Place“ am 24.06.2023 1.476,40 € / Az. 0262.0-5-0482
+- TOP II.4.: Bürgeranliegen aus der Bürgerversammlung vom 04.05.2023; Gasteig / neuer Konzertsaal Werksviertel
+- TOP II.5.: Ortstermin „Gasteig“
+- TOP II.6.: Ortstermin „Unionsbräu“
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation – Konflikthilfe in Schulen vom 12.09.2023 – 01.08.2024 4.000,00 € / Az. 0262.0-5-0480
+- TOP 1.2.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Sommerfest 125 Jahre Adelgundenheim am 21.06.2023 1.000,00 € / Az. 0262.0-5-0479
+- TOP 1.3.: (E) Stadtbezirksbudget Elternbeirat Grundschule Mariahilfplatz Tanzprojekte vom 01.10.2023 – 31.07.2024 1.940,00 € / Az. 0262.0-5-0483
+- TOP 2.: Anhörungen
+- TOP 2.1.: Spielaktionen "Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen, 26.07. – 28.10.2023; hier: Drächslstraße von 05.-07.10.2023
+- TOP 2.2.: Schul-und Kitabauoffensive - Sachstandsbericht 2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Benutzung der Sportanlage in den Maximiliansanlagen Antwort Referat für Bildung und Sport zum Schreiben BA 5
+- TOP 3.2.: Erneuerung der Schachfiguren am Schachplatz in Höhe Eduard-Schmid-Str. 11
+- TOP 3.3.: Beleuchtung Schachplatz in Höhe Eduard-Schmid-Str. 7
+- TOP 3.4.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Zusätzliche Sportmöglichkeiten in Au-Haidhausen
+- TOP 3.7.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindestageseinrichtungen sonstiger Träger; Haus für Kinder an der Regerstraße 52 im 5. Stadtbezirk Au-Haidhausen Leistung eines Baukostenzuschusses
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bürgeranliegen; Fußgängerüberweg von der Albanistr. in die Frühlingsanlagen / Spielplatz Reichenbachbrücke
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) hier; Erweiterung einer bestehenden Freischankfläche - Innere Wiener Str. 57
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sommerfest der Kirchgemeinde St. Johannes am 16.07.2023 am Preysingplatz
+- TOP 2.2.: Spendenlauf des Pestalozzi-Gymnasiums am 18.07.2023
+- TOP 2.3.: "Das kleine VerWunderLand" am 29.07.2023 am Bordeauxplatz
+- TOP 2.4.: Lothringer Straßenfest – Gaststätte Vivo am 22.07.2023
+- TOP 2.5.: Auftaktveranstaltung Müllfrei-Meile Haidhausen auf dem Pariser Platz am 01.07.2023 Anhörungsfrist 16.06.2023
+- TOP 2.6.: Summertour 2023 des Bezirksjugendring Oberbayern am 04.08.2023 am Orleansplatz
+- TOP 2.7.: Abschlussveranstaltung Müllfrei-Meile Haidhausen auf dem Pariser Platz am 22.07.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Info zu Baugenehmigungsverfahren für Schanigärten über 40 m²
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Dauerhafter Verbleib des Parklets am "Breisässer" Platz
+- TOP 4.2.: Lauffläche Schanigarten Falke 23
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Maria-Theresia-Str. 4 - Neubau eines Wohnhauses mit 7 Wohneinheiten und Tiefgarage -dazu Baumfällung-
+- TOP 2.2.: Einsteinstr. 1 - Nutzungsänderung im 1.OG von Beratungsräumen einer Bankfiliale zu einer Arztpraxis der Klinik und Poliklinik für Neurologie im Klinikum rechts der Isar der TU München
+- TOP 2.3.: Kirchenstr. 32 - Anbau von 6 Balkonen an die hofseitige Bestandsfassade im 1. - 3.OG, inkl. Vergrößerung vorhandener Fensteröffnungen und Einbau von Balkontüren
+- TOP 2.4.: Milchstr. 12 - Nachgenehmigung des Gebäudebestandes sowie Nutzungsänderung eines Ladens zu einem Fahrradgeschäft im EG
+- TOP 2.5.: Prinzregentenstr. 150 - Teilung einer Wohneinheit zu zweier Wohneinheiten, 2.OG LI/MI
+- TOP 2.6.: Einsteinstr. 107 - Nutzungsänderung Vordergebäude EG von Laden und Büro in Gaststätte
+- TOP 2.7.: Innere Wiener Str. 3a - Verlängerung der befristeten Genehmigung des Betriebs eines Naturkindergartens inkl. Bauwagen als Materiallager und Unterstand, befristet auf 10 Jahre
+- TOP 2.8.: Interfraktioneller Antrag des BA 16 – Ramersdorf-Perlach Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 2.9.: Entenbachstr. 37 - Kolping Jugendwohnheim für Studierende und Auszubildende mit 120 Beten in 58 Zimmern und Ausbildungsbetrieb im EG: Teilabbruch Bauteil A, Abbruch und Neubau Bauteil B; Nutzungsänderung Bauteil A im EG - ÄNDERUNGSANTRAG zu 1.111-2017-10131-21, hier: Änderung der Lage des Nebengebäudes nach Osten
+- TOP 2.10.: Weißenburger Str. 2 - Umbau einer Restaurantfläche- ÄNDERUNGSANTRAG zu 1.1-2021-11127-21 hier: Lüftungsauslass Dach
+- TOP 2.11.: Sedanstr. 8/ RGB - Nutzungsänderung im EG rechts: Schreinerei Wekstatt zu einem Büro
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Information der LBK zur Plananforderung des BA05 aus der KW 21
+- TOP 3.2.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 3.3.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 3.4.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 3.5.: Information der LBK zur Plananforderung des BA05 aus der KW.23
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Milchstrasse 12 - Verkauf und Aufteilung in Eigentumswohnungen angekündigt
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch einer Lichtsignalanlage - Standort Keller-/ Steinstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Münchner Mobilitätskongress 2023 – Bürgerschaftliche Projekte - Ermächtigung zur Zuwendungsgewährung
+- TOP 3.2.: Saisonale Stadträume, Auswahlverfahren Sommerstraßen 2023 – Ergebnisse und weiteres Vorgehen
+- TOP 3.3.: Schaffung von weiteren Behindertenparkplätzen für Nutzung mit entsprechendem Parkausweis in Au-Haidhausen
+- TOP 3.4.: Verkehrs-/Schulwegsicherheit am Übergang Schneckenburger-/Kuglerstraße
+- TOP 3.5.: Verkehrsberuhigung ab der Kurve Niger-/Schneckenburgerstraße
+- TOP 3.6.: Zufahrt zu den Häusern Schneckenburgerstr. 10 und 10 a freihalten
+- TOP 3.7.: Schließfächer am Ostbahnhof defekt
+- TOP 3.8.: Optimierung der Lieferzufahrt bei Edeka in der Entenbachstraße
+- TOP 3.9.: Neue Busspur in der Grillparzerstrasse, Garagenzufahrt
+- TOP 3.10.: Einsatz von TOPO-Boxen als städtische Leistung hier: Antwort Mobilitätsreferat zur Baustelle Hochstraße
+- TOP 3.11.: Fahrradstellplätze für die Breisacher Straße
+- TOP 3.12.: Antwort zum Bürgeranliegen; Wohnmobilparken im Parkbereich bzw. im Parklizenzgebieten
+- TOP 3.13.: Anfrage zu Baustelleneinrichtung im Hypopark Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.14.: Wiederaufstellen der Bank am Rosenheimer Platz Antwortschreiben Baureferat zur Anfrage BA 5
+- TOP 3.15.: Baustelleneinrichtung am Wiener Platz Antwortschreiben Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.16.: Einrichten von Gehwegnasen an den Ecken Milchstr./Pütrichstr., Pütrichstr./Kellerstr. und Holzhofstr./Kellerstr.
+- TOP 3.17.: Nutzung Gasteig / shquared
+- TOP 3.18.: Verkehrsrechtliche Anordnung nach § 45 StVO; Einrichtung einer Busspur in der Grillparzerstr. zwischen Prinzregentstr. und Einsteinstraße
+- TOP 3.19.: Verkehrsrechtliche Anordnung; Arbeiten im Straßenraum Regerplatz bis Wörthstraße
+- TOP 3.20.: Verkehrsrechtlichen Anordnung; Arbeiten im Straßenraum Regerstr./Welfenstr. Neubau einer Trambahn Haltestelle und Straßenbau
+- TOP 3.21.: Verkehrsrechtlichen Anordnung; Arbeiten im Straßenraum Gravelottestr. 11-13 + Orleansstr. 39 Verlegung einer Fernwärmeleitung
+- TOP 3.22.: Verkehrsrechtliche Anordnung nach § 45 StVO; Humboldtstr. - Geschwindigkeitsbegrenzung (T30)
+- TOP 3.23.: Verkehrsrechtliche Anordnung; Bürgerschaftliche Projekte zur Verkehrswende Projekt 2023 - MCube sogl. Schlotthauer Platz (Fläche vor dem Anwesen Kolumbusplatz 1)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag auf Fahrradabstellplätze vor dem Eingang von "Zweirad-Center Stadler" in der Bothestr. 9
+- TOP 4.2.: Überdenken des Projekts Fußgängerzone aus Sicht der Einzelhändler
+- TOP 4.3.: Radlverbot in der Leonhardstraße
+- TOP 4.4.: Antrag auf Fahrradabstellplätze in der Gebsattelstraße / Zita-Zehner-Platz
+- TOP 4.5.: Antrag auf Beibehaltung der aktuellen Verkehrsführung im Franzosenviertels auch nach den Bauarbeiten
+- TOP 4.6.: Grenzmarkierung Tiefgarageneinfahrt Seeriederstr. 1-5
+- TOP 4.7.: Errichtung von Radbügeln in der Keller-/Holzhofstraße
+- TOP 4.8.: Bürgeranliegen aus der Bürgerversammlung am 04.05.2023; Überdenken des Projekts Fußgängerzone aus Sicht der Einzelhändler
+- TOP 4.9.: Bürgeranliegen aus der Bürgerversammlung am 04.05.2023; Erweiterung Fußgängerzone Weißenburger Str. bis Pariser Platz
+- TOP 4.10.: Bürgeranliegen aus der Bürgerversammlung am 04.05.2023; Fahrradfahrer auf Fußgängerweg
+- TOP 4.11.: Bürgeranliegen aus der Bürgerversammlung am 04.05.2023; Bitte um Absenkung der Bürgersteigkante für Rollstühle & Kinderwägen
+- TOP 4.12.: "Baustelle“ S-Bahn Rosenheimer Platz: Sperrung der Zugänge / Radweg Gebsattelberg
+- TOP 4.13.: Beschwerde über Umwandlung des Stellplatzes Rosenheimer Str. 69 Wiedervorlage aus der Sitzung vom 24.05.2023
+- TOP 4.14.: Erweiterung der Fahrradabstellplätze in der Schlotthauerstraße
+- TOP 4.15.: Fußgängerüberweg von der Albanistr. in die Frühlingsanlagen / Spielplatz Reichenbachbrücke
+- TOP 4.16.: Geländer der neuen Tramhaltestelle Rosenheimer Platz
+- TOP 4.17.: Haltelinien für Radfahrende am Max-Weber-Platz
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget rehab rebublic e.V. Müllfrei-Meile vom 01.-23.07.2023 1.500,00 € / Az. 0262.0-5-0481
+- TOP 2.: Anhörungen
+- TOP 2.1.: Lothringer Str. 28
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Breisacher Str. 9a
+- TOP 3.2.: Luftqualität Rosenheimer Straße
+- TOP 3.3.: Baumfällmeldung Maximiliansanlage am Wasserpark
+- TOP 3.4.: Straßenkehrmaschinen und Reinigungsarbeiten am Pariser Platz Antwort Baureferat zum Schreiben BA 5
+- TOP 3.5.: Taubenhaus am Ostbahnhof Antwortschreiben Referat für Klima- und Umweltschutz zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Zunehmende Taubenplage - rund um den Rosenheimer Platz (Verweis aus der Sitzung vom 24.05.2023) - rund um den Ostbahnhof
+- TOP 4.2.: Lärmbelästigung in den Isar-Auen
+- TOP 4.3.: Bürgeranliegen aus der Bürgerversammlung vom 04.05.2023; Photovoltaik
+- TOP 4.4.: #DEINMÜLL 2.0
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 17.07.2023 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 Raum 0.4.09 UA Mobilität, 17.07.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 18.07.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 19.07.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 19.07.2023 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 20.07.2023 um 20.00 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Nächste BA - Sitzung am 26.07.2023 Nächste Vorstandssitzung am 11.07.2023
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
