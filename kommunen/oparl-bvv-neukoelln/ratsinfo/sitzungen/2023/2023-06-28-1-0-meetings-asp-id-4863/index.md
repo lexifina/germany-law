@@ -1,0 +1,117 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-06-28T17:00:00+02:00
+- Ende: 2023-06-28T23:05:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4863
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4863
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Lärm im Schillerkiez - beantwortet
+- TOP 1.2: Betriebsgenehmigungen für Neuköllner Schulen, Brandsicherheitsschauen - beantwortet
+- TOP 1.3: Bebauungsplanverfahren XIV-286a - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Ein funktionierendes Berlin braucht ausreichend finanzierte Bezirke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Für die schwächsten Verkehrsteilnehmer*innen: Neukölln für den Ausbau von Rad- und Fußverkehrsprojekten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Zielvereinbarung Bibliotheken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Endgültige Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.6: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Wirtschaft und Arbeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung der im Haushaltsjahr 2022 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von Mitgliedern in den Beirat für das Vivantes Klinikum Neukölln - gewählt
+- TOP 7.2: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 7.3: Wahl eines Bürgerdeputierten in den Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - gewählt
+- TOP 7.4: Wahl eines Bürgerdeputierten in den Ausschuss für Wirtschaft und Arbeit - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Bauprojekt Flughafenstraße 43 - beantwortet
+- TOP 8.2: Abstellen von E-Scootern - beantwortet
+- TOP 8.3: Columbiabad ohne Rutsche und Sprungturm - eine temporäre Maßnahme? - beantwortet
+- TOP 8.4: Keine Einbürgerung für Blinde und Sehbehinderte? - beantwortet
+- TOP 8.5: Fristversäumnis und Verstoß gegen die Geschäftsordnung durch das Bezirksamt - beantwortet
+- TOP 8.6: „Rohbau“ Tränkeweg 40 - beantwortet
+- TOP 8.7: Tempo 30 in der Treptower Straße möglich? - beantwortet
+- TOP 8.8: Alternative zu vom Senat eingeschränkten Radverkehrsmöglichkeiten? - beantwortet
+- TOP 8.9: Aktueller Stand Campus Dammweg - beantwortet
+- TOP 8.10: “Blindenampeln“ in Neukölln - beantwortet
+- TOP 8.11: Fahrradmobilität ohne Abstellmöglichkeiten - schriftlich beantwortet
+- TOP 8.12: Papierstau im Jugendamt - schriftlich beantwortet
+- TOP 8.13: Öffentliche Auslegung Bebauungsplan Emmaus-Wald - schriftlich beantwortet
+- TOP 8.14: Mülltrennung Rathaus - schriftlich beantwortet
+- TOP 8.15: Darf Erdogan noch immer Einfluss auf Neuköllner Schüler*innen ausüben? - schriftlich beantwortet
+- TOP 8.16: Verschließt das Gesundheitsamt die Augen vor den Hygienemängeln bei Vivantes? - schriftlich beantwortet
+- TOP 8.17: Einladung des Botschafters der rechtsextremen israelischen Regierung nach Neukölln - schriftlich beantwortet
+- TOP 8.18: Kooperation zwischen dem Bezirksamt und der Bundesregierung zum Thema „Clankriminalität“? - schriftlich beantwortet
+- TOP 8.19: Müllbeseitigung auf dem Fußweg zwischen Bambachstraße und Mariendorfer Weg - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Zusätzliche Mittel für die Gedenkkultur bereitstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Grünflächen und sozialen Wohnungsbau sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Verlängerung der Veränderungssperre XIV-3-1/35 für das Grundstück Neuköllnische Allee 112, Schmalenbachstraße 7/9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-3-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Gustav Noske: Retter der jungen Weimarer Republik. Gedenken zum 155. Geburtstag am 9. Juli 2023 - in der BVV abgelehnt
+- TOP 12.2: Bearbeitung bzw. Neufassung des „Leitfadens Obdachlosigkeit“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Erhalt der „Teupe“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Zwischennutzung der Hertzbergstraße 9-10 ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: 100 Jahre Jugendamt angemessen feiern - in der BVV abgelehnt
+- TOP 12.6: Fahrradweg auf der Flughafenstraße - in der BVV abgelehnt
+- TOP 12.7: S- + U-Bahn Neukölln: Barrierefreie Warteschlangen benötigen unsere Hilfe - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Straßenbahn zum Hermannplatz weiterverfolgen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Radabstellmöglichkeiten rund um die "Jungfernmühle" in der Gropiusstadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Aufwertung des Platzes rund um den Goldenen Esel - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Kabinenneubau TSV Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Suchtprobleme. Einbahnstraße? - beantwortet
+- TOP 13.2: Stoppschild für den Radverkehr durch den Senat? - beantwortet
+- TOP 13.3: Auswirkungen der ideologischen Verkehrspolitik aus den 60er Jahren für Neukölln? - beantwortet
+- TOP 13.4: Das kann sich niemand leisten: Leerstand im hochpreisigen Wohnungssegment - vertagt
+- TOP 13.5: Klimaresiliente Hasenheide und der Karneval der Kulturen - vertagt
+- TOP 13.6: Gewerbeamt - vertagt
+- TOP 13.7: Landeseigener Friedhof Rudow in der Köpenicker Straße - vertagt
+- TOP 13.8: Finanzierung der Jugendarbeit in Neukölln - vertagt
+- TOP 13.9: Verleugnen Bürgermeister Hikel und seine Integrationsbeauftragte antimuslimischen Rassismus? - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Spielplatztage "Raum für Kinderträume" in Neukölln - überwiesen
+- TOP 15.2: Das Gesundheitszentrum Lipschitzallee muss bleiben - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Eingeschränktes Haltverbot Steinbockstraße 25 (CariSatt-Laden) einrichten - überwiesen
+- TOP 15.4: Gesundheitsgefährdenden Hygienenotstand bei Vivantes Neukölln nicht länger dulden - überwiesen
+- TOP 15.5: Gute-Kneipen-Gesetz – Anerkennung, Pflege und Förderung der Neuköllner Eckkneipenkultur - überwiesen
+- TOP 15.6: Klima- und Hitzeschutz durch Bäume! - überwiesen
+- TOP 15.7: Familien-Carsharing - überwiesen
+- TOP 15.8: Unabhängige Beschwerdestelle für von Wohnungslosigkeit betroffene Personen - überwiesen
+- TOP 15.9: Private Carsharing-Gemeinschaften fördern: Anwohnerparkausweise für mehrere Gebiete ermöglichen - überwiesen
+- TOP 15.10: Expressbusverbindung von Buckow bis zur Sonnenallee - überwiesen
+- TOP 15.11: Fahrradstreifen U-Bahnhof Rudow - überwiesen
+- TOP 15.12: Querung für Fußgänger*innen am Hermannplatz - überwiesen
+- TOP 15.13: Der Emmaus-Wald ist ein Wald - überwiesen
+- TOP 15.14: Antisemitismus und Israelfeindlichkeit dürfen in Neukölln keinen Platz haben - überwiesen
+- TOP 15.15: SOS Seepferdchen: Kinder, die nicht schwimmen können - überwiesen
+- TOP 15.16: Einrichten einer Fußgänger*innenquerungsanlage in der Lichtenrader Straße/Ecker Selchower Straße - überwiesen
+- TOP 15.17: Anita-Berber-Park selbst gestalten - überwiesen
+- TOP 15.18: Stopp dem Feuerwerkswahnsinn! - überwiesen
+- TOP 15.19: Radwege statt ideologischer Autopolitik - ohne Änderungen in der BVV beschlossen
+- TOP 15.20: Beleuchtung des Uferweges zwischen Johannisthaler Chaussee und dem Tanklager Rudow (Stubenrauchstraße) sicherstellen - überwiesen
+- TOP 15.21: Neukölln-Arcaden - Fahrräder sicher abstellen - überwiesen
+- TOP 15.22: Kommunale Wärmeplanung in Neukölln - Bezirksamt vorbereiten auf Umsetzung - überwiesen
+- TOP 15.23: Bürgerzentrum Neukölln - Fahrrad sicher abstellen - überwiesen
+- TOP 15.24: Energetische Sanierung Sportgelände - Fördermittel nutzen - überwiesen
+- TOP 15.25: Fuss e.V. in den Mobilitätsrat Neukölln berufen - ohne Änderungen in der BVV beschlossen
+- TOP 15.26: Lärmschutz I: Nächtliches Tempo 30 im Bereich der Kreuzung Fritz-Erler-Allee/Neuköllner Straße - überwiesen
+- TOP 15.27: Lärmschutz II: Nächtliches Tempo 30 im Bereich der Kreuzung Neuköllner Straße/Fritz-Erler-Allee - überwiesen
+- TOP 15.28: Energetische Sanierung Kultureinrichtungen - Fördermittel nutzen - überwiesen
+- TOP 15.29: Energetische Sanierung Jugendeinrichtungen - Fördermittel nutzen - überwiesen
