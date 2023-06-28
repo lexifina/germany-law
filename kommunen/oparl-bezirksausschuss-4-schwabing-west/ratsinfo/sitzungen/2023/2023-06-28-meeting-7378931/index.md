@@ -1,0 +1,136 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-06-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7378931
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7378931
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Errichtung eines Nachbarschaftstreffs im Quartier „Kreativfeld“ an der Heßstraße/Frei-Otto-Straße – Bedarfs- und Konzeptgenehmigung (Anhörung zum Beschlussentwurf für den Sozialausschuss am 28.09.2023)
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative Sommerfest Sommerfest am 13.07.2023 450,00 Euro, Az.: 0262.0-4-0452
+- TOP 2.3.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V., Regionalverband München Spielprogramm "Umsonst und Draußen" vom 31.07. - 08.09.2023 3.000,00 Euro, Az.: 0262.0-4-0454
+- TOP 2.4.: (E) Stadtbezirksbudget CultureClouds e.V. Rampenlichter - Dein Festival, Social Media und Dokumentation mit Jugendlichen vom 07. - 20.07.2023 5.000,00 Euro, Az.: 0262.0-4-0457
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bauvorhaben Düsseldorfer Str. 10: Bauunterlagen und Bürger*innenschreiben
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Vorbescheid Schleißheimer Str. 122: Umbau und Ausbau eines Dachgeschosses sowie Anbau eines Außenliftes und eines rückwärtigen Gebäudeteils vom 1.OG bis 4.OG eines denkmalgeschützten Gebäudes
+- TOP 2.2.: Tektur Agnesstr. 1: Neubau eines Rückgebäudes (14 WE) mit Gewerbe sowie Umbau und Nutzungsänderung im EG und 1.OG im Vordergebäude, Erweiterung einer Tiefgarage (Agnesstr. 1-5a / Isabellastr. 16)
+- TOP 2.3.: Hohenzollernstr. 116: Neuausbau der 2. DG-Ebene und einer Tiefparterre-Teilfläche zu je einer Wohnung, Umbau einer Wohnung (1. DG), Einbau einer Loggia, Neubau eines Außenaufzugs, Abbruch von Balkonen und Ersatzbau 2er Balkonanlagen mit integrierter Notleiter
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bauerstr. 10-12: Kaschieren der seit längerer Zeit bestehenden Wohnungsleerstände (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 27.04.2023)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 3.2.2.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 3.2.3.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Baugenehmigung Elisabethstr. 87 / Kathi-Kobus-Str. 23: Neubau eines Wohn- und Geschäftshauses mit dreigeschossiger Tiefgarage
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Parkplatznot in der Agnesstraße zwischen Arcis- und Isabellastraße: Aufhebung der Kurzparkzone vor der ehemaligen Post (vertagt aus 04 und 05/2023, dazu: TOP D 2.1)
+- TOP 1.2.: Bürger: Maßnahmen gegen Lärm von Fahrzeugen in der Karl-Theodor-Straße
+- TOP 1.3.: Bürger: Abstellen von Motorrädern am Trafohäuschen Pündterplatz
+- TOP 1.4.: Bürgerin: Radler auf den Gehwegen und „Weizenanbau“ in Grünstreifen
+- TOP 1.5.: Bürgerin: Maßnahmen gegen zu schnelles Radfahren im Petuelpark
+- TOP 1.6.: Antrag CSU: Verkehrszeichen Schleißheimer Str. 93 harmonisieren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Agnesstraße zw. Hausnr. 1 und Isabellastraße: Mischparken statt Kurzzeitparkzone (dazu: Bürger*innenanliegen TOP D 1.1)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Karl-Theodor-Straße: Piktogramme bzw. Schilder zur Vermeidung von Konflikten zwischen Rad- und Autofahrenden (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen TOP D 1.1 05/23)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Fahrrad- und Lastenradstellplätze in der Isoldenstr. 37
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Fernwärmeprojekt Heßstr. 134 (Infoflyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung Rheinstraße (Stadtbezirk 4 und 12) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Aufstellung einer orangen Bank (Projekt gegen Gewalt gegen Frauen) als Bestellung städtischer Leistungen
+- TOP 1.2.: Bürgerin: Einrichtung eines „Hundeklos“ mit Abfalleimer in der Barbarastraße
+- TOP 1.3.: Bürger: Mangelnde Pflege der Grünflächen in Schwabing West
+- TOP 1.4.: Bürgerin: Spendenaktion zur Gestaltung des Straßenbeets Schleißheimer Str. 85-87
+- TOP 1.5.: Nachbarschaft Viktoriaviertel e.V.: Aufstellen einer Sitzgruppe auf dem Viktoriaplatz
+- TOP 1.6.: Bürgerin: Gefährdung beim Abbiegen durch ungemähte Grünstreifen in der Belgradstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Angererstr. 6: Antrag auf Fällung einer Birke
+- TOP 2.1.2.: Herzogstr. 92-106: Antrag auf Fällung einer Birke
+- TOP 2.1.3.: Winzererstr. 27-33: Antrag auf Fällung einer Fichte
+- TOP 2.1.4.: Krumbacherstr. 4: Antrag auf Fällung eines Kirschbaums
+- TOP 2.1.5.: Belgradstr. 75-81: Antrag auf Baumfällungen aufgrund eines Ölschadens
+- TOP 2.1.6.: Adelheidstr. 16: Antrag auf Fällung einer Kastanie und einer Fichte
+- TOP 2.1.7.: Schleißheimer Str. 183a: Antrag auf Fällung mehrerer Bäume
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Grünfläche zwischen Bonner Platz und Karl-Theodor-Straße: Antrag auf neuen Christbaumverkaufsplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Baumgruben in der Georgenstraße bepflanzen und einhegen
+- TOP 3.1.2.: Elektromüll u.a.: Wertstoffe gehören nicht auf die Straße
+- TOP 3.1.3.: Baumpflanzungen in der Rümannstraße: Grünvolumen wiederherstellen - Frischluftschneise zwischen Luitpoldpark und Nymphenburg-Biedersteiner-Kanal langfristig sichern
+- TOP 3.1.4.: Lichtinstallation im Petuelpark (Zwischennachricht des Baureferats zu BA-Einladung vom 25.05.2023)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Rümannstr. 4-47: Genehmigung zur Fällung einer Schwarzpappel (Gefahrenbaum)
+- TOP 3.2.2.: Kraepelinstr. 51-55: Genehmigung zur Fällung einer Fichte und eines Silberahorn-Baums
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Masterplan solares München
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum (Übersicht des Baureferats Gartenbau über mögliche Baumpflanzungen in Grünanlagen und im Straßenbegleitgrün)
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget MORGEN e.V., Netzwerk Münchner Migrantenorganisationen MORGEN Kulturfestival 2023 - Import Export - MUCCA - Kreativquartier am 09.07.2023 3.350,00 Euro, Az.: 0262.0-4-0453
+- TOP 2.1.2.: (E) Stadtbezirksbudget ArtSchnitzel e.V. ArtSchnitzel - Kunst für Alle vom 20. - 30.07.2023 3.000,00 Euro, Az.: 0262.0-4-0455
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "TripTychTrip" TripTychTrip / Kunst Kioske vom 03.07. - 30.09.2023 4.300,00 Euro, Az.: 0262.0-4-0456
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Anträge Freischankflächen (Genehmigung, Erweiterung, Parkplatz-Freischankflächen) a) „Nam’s Sushi“, Hohenzollernstr. 61: Genehmigung einer Kleinstfreischankfläche b) „Bebanco Kiosk“, Agnesstr. 8: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.2.: Franz-Joseph-Str. 33 „Vino Verde“: Genehmigung einer Warenauslage (Weinfass)
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Schwabinger Präventionstag der Polizei am 18.07.2023 am Bonner Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Vermutlich ungenehmigte Baumfällungen vor der Pizzeria Kölner Platz 7 (Antwort der Unteren Naturschutzbehörde auf BA-Anfrage vom 02.05.2023)
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Fernsehproduktion „Der Stau“ am 27./28.06.2023 vor Belgradstr. 8
+- TOP 3.3.2.: Filmaufnahmen „Der Stau“ am 23. und 26.06.2023 in der Hildebold- und Deidesheimer Straße
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Ausnahmegenehmigung für die AktivFerien am Ackermannbogen
+- TOP 3.5.2.: Protestversammlung „Tierschutz“ am 03.06.2023 vor Lidl, Schleißheimer Str. 85
+- TOP 3.5.3.: „Kulturlieferdienst“ am 26.06.2023 in der Clemensstraße/Pündterplatz
+- TOP 3.5.4.: Agnesstraßenfest am 17.06.2023
+- TOP 3.5.5.: Ausnahmegenehmigung für Spendenlauf und Sportfest des Willi-Graf-Gymnasiums
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: BA-Sitzung am 30.08.2021: Ferienausschuss anstelle des Vollgremiums? Falls Ferienausschuss: 1.1 Benennung der Mitglieder 1.2 Wahl der/des Ferienausschussvorsitzenden 1.3 Vertretungsregelung
+- TOP G.2.: Oktoberfest 2023: Reservierung in der Ratsboxe (Wunsch- und 2 Ersatztermine, Anzahl der Plätze, Zeitraum (12 bis 17 Uhr oder ab 17 Uhr))
+- TOP G.3.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen (Antwort des Oberbürgermeisters auf Schreiben des BA 1 Altstadt-Lehe(l
+- TOP G.4.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren (Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach auf Änderung der BA-Satzung)
+- TOP G.5.: Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der LHM / Einwohner*innenbudget (Anhörung zur Beschlussvorlage für den Stadtrat)
+- TOP H: Termine
