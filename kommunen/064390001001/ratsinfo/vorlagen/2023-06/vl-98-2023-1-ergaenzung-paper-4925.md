@@ -1,0 +1,33 @@
+# Prüfbericht des RPA zum Jahresabschluss 2019
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-98/2023 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2023-06-29
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcUtgGZuiX7DxLuq78-RFSw
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/4925
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Prüfbericht des RPA zum Jahresabschluss 2019) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZIeCa-NHKKFoK-baT9lcjnLOiP1x32IP93F9XwN3Hdm/Beschlussvorlage_Gemeindevertretung_VL-98-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Schlussbericht 2019 Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS8NQxZRklb26FKS5EN3e7LVz9oddJLw9Wn0EyXpN0gH/Schlussbericht_2019_Aarbergen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Schlussbericht 2019 Anlage) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTD78VN588I6x3Y3wN8cTNpUZuM6ceiKBcRNq0CGse7R/Schlussbericht_2019_Anlage.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Bilanz 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUvgme83dZJRCFjHBbC5TczqIubykTciUCumORm6kLgE/Bilanz_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ergebnisrechnung 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZThqMxKOZ5MEbusUVC7qVg0QyY37hrGP4obHdgElzd60/Ergebnisrechnung_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Teilergebnisrechnungen 1.02.01_1.12.01 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTEz0Hd9vNHgYnFFZ_WwoUzexibo6WXTuCLTTnMwiTlI/Teilergebnisrechnungen_1.02.01_1.12.01_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Teilergebnisrechnungen 2.01.01_2.15.01 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXHiJ5g5IcsZgcnFZ_YLW_47HfSBYrYDBBeEWZfvxPeg/Teilergebnisrechnungen_2.01.01_2.15.01_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Teilergebnisrechnungen 3.01.01_3.16.03 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBRLd4vezmrrkXT27dsLXV1wg3H4g_TAUCytTe1tC70/Teilergebnisrechnungen_3.01.01_3.16.03_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Finanzrechnung 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRAwBP1Cnpns-ffg0T6y7y11CjV8z8MK-qYcUo75eQnN/Finanzrechnung_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Teilfinanzrechnungen 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS29m9pW9wC5Nj_KHt57C0tElwCxbJVcgKEWFO_perSQ/Teilfinanzrechnungen_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anhang 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdTTda8hxQeHzKrESNSVQGTwS3IEMLKzWPd0KzE4-puw/Anhang_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 1 - Anlagenspiegel 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZccrh94spyJ6uP6jCCOcdAd-Em2To2jbYo_6yuQyo-/Anlage_1_-_Anlagenspiegel_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 2 - Verbindlichlichkeitenübersicht 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQQG9C4o-ekrvoWkoV-I3yqMiS6niwPYaH_5wo6PDvCB/Anlage_2_-_Verbindlichlichkeitenuebersicht_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 3 - Rückstellungsübersicht 31.12.2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZULkopDT4Xf24E9hninvcziRq81zoRsopcICoXCiTkSZ/Anlage_3_-_Rueckstellungsuebersicht_31.12.2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 4 - Forderungsübersicht 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYCsajK6fhCF5MZFm-cq1joySw6Vv_i7lvgfPdFK774Z/Anlage_4_-_Forderungsuebersicht_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 5 - Aufstellung Leasingverträge - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQmPUay-9UNXWNRvO226AmbFqkbPbKBkuYKd2dL11f0a/Anlage_5_-_Aufstellung_Leasingvertraege_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 6 - durchschnittl. Zahl Beamte-Arbeitnehmer 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTVbWc2Tl62iZKhMCqYdurbjnCJHFIbu5lviJOZFqNyD/Anlage_6_-_durchschnittl._Zahl_Beamte-Arbeitnehmer_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 7 - Gremienmitglieder 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfCrGv-cfEHcF6zvMhgWt8LFMD6wzijRcwdGKIqv9Q_Q/Anlage_7_-_Gremienmitglieder_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 8 - Übersicht Haftungsverhältnisse - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjYy9ygQb_T251EUsHyVO81Jr4RCm_W8RfXyRVB7Wrm/Anlage_8_-_Uebersicht_Haftungsverhaeltnisse_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Anlage 9 - Ermächtigungen 2019 mit Text - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1JlJoQ8P69585oBrB6luj6YcqWg4drhrdzTatEJsUa/Anlage_9_-_Ermaechtigungen_2019_mit_Text_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Rechenschaftsbericht 2019 - final) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbU2mk91prYU2v4Gxv2x038_GYVMFthPp1TAtJMc2px/Rechenschaftsbericht_2019_-_final.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellungnahme Prüfempfehlungen 2019) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbeKdcdxTpTXhsAtGzmz--5dP044LSnsNIUko5vqsdIW/Stellungnahme_Pruefempfehlungen_2019.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1683 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
