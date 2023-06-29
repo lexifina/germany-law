@@ -10,3 +10,4 @@
 - [§ 7 Ladepunkte mit geringer Ladeleistung](0007.md)
 - [§ 8 Übergangsregelungen](0008.md)
 - [Schlussformel](schlussformel.md)
+- [§ 9 Anwendungsbestimmungen](0009.md)
