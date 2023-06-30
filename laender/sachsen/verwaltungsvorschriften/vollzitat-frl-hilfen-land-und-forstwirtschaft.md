@@ -1,8 +1,8 @@
 # Vollzitat: FRL Hilfen Land- und Forstwirtschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-10-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18936.2
+- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18936.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.10.2022
+30.06.2023
 bis
-29.06.2023
+28.05.2024
 
 FRL Hilfen Land- und Forstwirtschaft
 
@@ -38,7 +38,7 @@ Rechtsgrundlagen, Zuwendungszweck
 
 1.
 
-Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der jeweils geltenden Fassung, auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
+Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der jeweils geltenden Fassung, auf Antrag finanzielle Hilfen nach Maßgabe dieser Richtlinie.
 
 2.
 
@@ -55,12 +55,12 @@ Zuwendungen an Unternehmen der landwirtschaftlichen Primärproduktion sowie der 
 
 a)
 
-der Nationalen Rahmenrichtlinie zur Gewährung staatlicher Zuwendungen zur Bewältigung von Schäden in der Land- und Forstwirtschaft verursacht durch Naturkatastrophen oder widrige Witterungsverhältnisse des Bundesministeriums für Ernährung und Landwirtschaft vom 29. Juni 2015 (Nationale Rahmenrichtlinie), die auf der Grundlage der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014 – 2020 (Agrarrahmen; ABl. C 204 vom 1.7.2014, S. 1) ergangen ist und per Beschluss der Europäischen Kommission vom 29. Juni 2015 (SA.40354 (2014/N)) genehmigt wurde,
+der Nationalen Rahmenrichtlinie zur Gewährung staatlicher Zuwendungen zur Bewältigung von Schäden in der Land- und Forstwirtschaft verursacht durch Naturkatastrophen oder widrige Witterungsverhältnisse des Bundesministeriums für Ernährung und Landwirtschaft vom 18. Oktober 2022 (BAnz AT 29.12.2022 B3 – Nationale Rahmenrichtlinie), die auf der Grundlage der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014 – 2020 (Agrarrahmen; ABl. C 204 vom 1.7.2014, S. 1) ergangen ist und per Beschluss der Europäischen Kommission vom 12. September 2022 (SA.103301 (2022/N)) genehmigt wurde,
 
 
 b)
 
-der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24. Dezember 2013, S. 9), die zuletzt durch die Verordnung (EU) Nr. 2019/316 der Kommission vom 21. Februar 2019 (ABl. L 51I vom 22.2.2019, S. 1) geändert worden ist,
+der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24. Dezember 2013, S. 9), die zuletzt durch die Verordnung (EU) 2022/2046 der Kommission vom 24.10.2022 (ABl. L 275 vom 25.10.2022, S. 55) geändert worden ist,
 
 
 c)
@@ -82,7 +82,7 @@ der Rahmenrichtlinie für den Fischerei-/Aquakultursektor, die auf der Grundlage
 
 b)
 
-der Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist.
+der Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2022/2514 der Kommission vom 14. Dezember 2022 (ABl. L 326 vom 21.12.2022, S. 8) verlängert worden ist.
 
 
 Jede Einzelbeihilfe an Unternehmen der Fischerei und Aquakultur von über 30 000 Euro ist nach Rn. 69 der Leitlinien zu veröffentlichen.
@@ -91,19 +91,21 @@ Jede Einzelbeihilfe an Unternehmen der Fischerei und Aquakultur von über 30 000
 
 Von einer Förderung ausgeschlossen sind Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht Folge geleistet haben.
 
+Für Unternehmen der Fischerei und Aquakultur gilt dieser Ausschluss nur im Fall von widrigen Witterungsverhältnissen.
+
 7.
 
-Unternehmen in Schwierigkeiten1 sind von einer Gewährung von Beihilfen zum Ausgleich von Schäden infolge von Naturkatastrophen gleichzusetzenden widrigen Witterungsverhältnissen ausgeschlossen, es sei denn, die Schwierigkeiten sind auf das Schadensereignis zurückzuführen.
+Unternehmen in Schwierigkeiten1 sind von einer Gewährung von Beihilfen zum Ausgleich von Schäden infolge von Naturkatastrophen gleichzusetzenden widrigen Witterungsverhältnissen ausgeschlossen, es sei denn, die Schwierigkeiten sind auf das Schadensereignis zurückzuführen. Für Unternehmen der Fischerei und Aquakultur gilt dieser Ausschluss auch im Falle des Ausgleichs von Schäden bei Naturkatastrophen.
 
 8.
 
-Ein Rechtsanspruch auf eine Förderung besteht nicht. Die Bewilligungsstelle entscheidet nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel.
+Ein Rechtsanspruch auf eine Förderung besteht nicht. Die Bewilligungsstelle entscheidet nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel nach Maßgabe dieser Förderrichtlinie.
 
 
 II.
 Gegenstand der Förderung
 
-Gefördert werden Maßnahmen zur Beseitigung unmittelbarer Schäden, bei denen durch direkte Einwirkung der Schadensursache Gegenstände oder bauliche Anlagen gemäß § 2 Absatz 1 der Sächsischen Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch das Gesetz vom 1. Juni 2022 (SächsGVBl. S. 366) geändert worden ist, in der jeweils geltenden Fassung, sowie land-, forst- und fischereiwirtschaftlich genutzte Flächen oder Wirtschaftswege beschädigt oder zerstört wurden oder verlorengingen. Gefördert werden ferner Einkommensminderungen, -verluste und Wiederherstellungskosten im Sinne von Ziffer V Nummer 3.
+Gefördert werden Maßnahmen zur Beseitigung unmittelbarer Schäden, bei denen durch direkte Einwirkung der Schadensursache Gegenstände oder bauliche Anlagen gemäß § 2 Absatz 1 der Sächsischen Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch das Gesetz vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, sowie land-, forst- und fischereiwirtschaftlich genutzte Flächen oder Wirtschaftswege beschädigt oder zerstört wurden oder verlorengingen. Gefördert werden ferner Einkommensminderungen, -verluste und Wiederherstellungskosten im Sinne von Ziffer V Nummer 3.
 
 III.
 Begünstigte
@@ -179,7 +181,7 @@ Die Förderung bei Naturkatastrophen gemäß Ziffer IV Nummer 2 setzt die Bestä
 
 7.
 
-Nicht berücksichtigt werden Schäden an Gebäuden und baulichen Anlagen, die ohne eine erforderliche Genehmigung oder Anzeige des Bauvorhabens errichtet wurden, sowie im Falle eines Hochwasserereignisses in der Regel bei Gebäuden und baulichen Anlagen, die nach dem 20. Oktober 2004 in mit Rechtsverordnung oder gemäß gesetzlicher Festsetzung nach dem Sächsischen Wassergesetz vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 3 des Gesetzes vom 9. Februar 2022 (SächsGVBl. S. 144) geändert worden ist, in der jeweils geltenden Fassung, festgesetzten Überschwemmungsgebieten errichtet wurden, es sei denn, es handelte sich dabei um einen städtebaulich erwünschten Lückenschluss innerhalb historisch gewachsener Gemeindegebiete. Dies ist von der Gemeinde zu bestätigen.
+Nicht berücksichtigt werden Schäden an Gebäuden und baulichen Anlagen, die ohne eine erforderliche Genehmigung oder Anzeige des Bauvorhabens errichtet wurden, sowie im Falle eines Hochwasserereignisses in der Regel bei Gebäuden und baulichen Anlagen, die nach dem 20. Oktober 2004 in mit Rechtsverordnung oder gemäß gesetzlicher Festsetzung nach dem Sächsischen Wassergesetz vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, festgesetzten Überschwemmungsgebieten errichtet wurden, es sei denn, es handelte sich dabei um einen städtebaulich erwünschten Lückenschluss innerhalb historisch gewachsener Gemeindegebiete. Dies ist von der Gemeinde zu bestätigen.
 
 
 V.
@@ -226,10 +228,6 @@ Die Zuwendung erhöht sich auf 100 Prozent des nach Buchstabe aa ermittelten Bet
 cc)
 
 Bei durch widrige Witterungsverhältnisse hervorgerufenen Schäden in der Landwirtschaft wird der nach Buchstabe aa berechnete Ausgleichsbetrag um 50 Prozent gekürzt, soweit das Unternehmen keine Versicherung abgeschlossen hat, die die häufigsten klimatischen Risiken und mindestens 50 Prozent der durchschnittlichen Jahreserzeugung oder der durchschnittlichen Jahreseinnahme des betroffenen Produktionsverfahrens abdeckt. Von der Kürzung kann abgesehen werden, wenn nachweislich für ein bestimmtes klimatisches Risiko kein beziehungsweise kein erschwinglicher Versicherungsschutz angeboten wurde.
-
-
-Bei durch Naturkatastrophen oder widrige Witterungsverhältnisse hervorgerufenen Schäden in der Landwirtschaft wird der berechnete Ausgleichsbetrag um 50 Prozent gekürzt, soweit das Unternehmen keine Versicherung abgeschlossen hat, die die häufigsten klimatischen Risiken und mindestens 50 Prozent der durchschnittlichen Jahreserzeugung oder der durchschnittlichen Jahreseinnahme des betroffenen Produktionsverfahrens abdeckt. Von der Kürzung kann abgesehen werden, wenn nachweislich für ein bestimmtes klimatisches Risiko kein beziehungsweise kein erschwinglicher Versicherungsschutz angeboten wurde.
-
 
 3.
 
@@ -318,7 +316,7 @@ Sonstige allgemeine Zuwendungsbestimmungen
 
 1.
 
-Im Fall von Ziffer V Nummer 1 b Doppelbuchstabe bb gilt zudem:
+Im Fall von Ziffer V Nummer 2 b Doppelbuchstabe bb gilt zudem:
 
 
 Gegenstand der einzelbetrieblichen Klimaanpassungsberatung ist die Eindämmung von Ernte-, Qualitäts- und Ertragsschäden durch geeignete betriebsspezifische Anpassungs- und Umstellungsmaßnahmen. Die Beratungsauflage ist innerhalb von sechs Monaten nach Zugang des Zuwendungsbescheides zu erfüllen und der bewilligenden Stelle das ausgefüllte strukturierte Beratungsprotokoll mit Qualifizierungsnachweis des Beraters vorzulegen. Bei Vorliegen triftiger Gründe ist auf Antrag bei der bewilligenden Stelle eine einmalige Verlängerung der Frist um sechs Monate zur Erfüllung der Auflage möglich. 
@@ -366,7 +364,7 @@ Verfahren
 
 1.
 
-Bewilligungsstelle ist die Sächsische Aufbaubank – Förderbank – (SAB), Pirnaische Straße 9, 01069 Dresden. Anträge erfolgen auf Vordrucken der Bewilligungsstelle. Für vorzulegende Gutachten ist die Form des Mustergutachtens gemäß der Vorgabe der Bewilligungsstelle einzuhalten.
+Bewilligungsstelle ist die Sächsische Aufbaubank – Förderbank – (SAB), Pirnaische Straße 9, 01069 Dresden. Die Anträge sind abrufbar unter https://www.sab.sachsen.de. Für vorzulegende Gutachten ist die Form des Mustergutachtens gemäß der Vorgabe der Bewilligungsstelle einzuhalten.
 
 2.
 
@@ -387,7 +385,7 @@ Eine früher gewährte Förderung desselben Vorhabens aus öffentlichen Mitteln 
 
 6.
 
-Die Auszahlung der Zuwendung erfolgt nach Bestandskraft des Bewilligungsbescheides. Der nach Ziffer IV Nummer 2, Buchstabe b Doppelbuchstabe bb Unterabsatz 2 erhöhte Betrag der Zuwendung wird nach Vorlage der unter Ziffer VI Nummer 1 genannten Nachweise bei der Bewilligungsstelle ausgezahlt.
+Die Auszahlung der Zuwendung erfolgt nach Bestandskraft des Bewilligungsbescheides. Der nach Ziffer V Nummer 2, Buchstabe b Doppelbuchstabe bb Unterabsatz 2 erhöhte Betrag der Zuwendung wird nach Vorlage der unter Ziffer VI Nummer 1 genannten Nachweise bei der Bewilligungsstelle ausgezahlt.
 
 7.
 
@@ -418,9 +416,9 @@ Fsn-Nr.: 5563-V20.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Oktober 2022
+Fassung gültig ab: 30. Juni 2023
 
-Fassung gültig bis: 29. Juni 2023
+Fassung gültig bis: 28. Mai 2024
 
 Drucken/Speichern
 
@@ -445,7 +443,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18936.2
+https://www.revosax.sachsen.de/vorschrift/18936.3
 Stand vom
 18.11.2026
 
