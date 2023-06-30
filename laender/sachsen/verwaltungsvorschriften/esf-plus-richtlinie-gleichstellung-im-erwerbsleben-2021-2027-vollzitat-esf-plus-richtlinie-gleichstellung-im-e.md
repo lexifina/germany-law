@@ -1,8 +1,8 @@
 # ESF Plus-Richtlinie Gleichstellung im Erwerbsleben 2021-2027 Vollzitat: ESF Plus-Richtlinie Gleichstellung im Erwerbsleben 2021-2027
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-09-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19717.1
+- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19717.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.09.2022
+30.06.2023
 bis
-29.06.2023
+27.12.2024
 
 ESF Plus-Richtlinie Gleichstellung im Erwerbsleben 2021-2027
 
@@ -66,12 +66,12 @@ Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung d
 
 bb)
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist (AgrarFVO),
+Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 (ABl. L 327 vom 21.12.2022, S. 1) geändert worden ist (AgrarFVO),
 
 
 cc)
 
-Verordnung (EU) Nr. 1388/2014 der Kommission vom 16. Dezember 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 369 vom 24.12.2014, S. 37), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist (Fischerei­FVO).
+Verordnung (EU) Nr. 1388/2014 der Kommission vom 16. Dezember 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 369 vom 24.12.2014, S. 37), die zuletzt durch die Verordnung (EU) 2022/2473 der Kommission vom 14. Dezember 2022 (ABl. L 327 vom 21.12.2022, S. 82) geändert worden ist (FischereiFVO).
 
 
 d)
@@ -225,7 +225,14 @@ Begriffsbestimmung
 Sonstige Förderbestimmungen
 
 
+a)
+
 Die Bewilligungsstelle lässt auf Antrag die Verwendung anderer, zur Erreichung des Förderzweckes gleichwertige Standards zu, soweit diese wirtschaftlich sind. Die für die Beurteilung des Antrages erforderlichen Angaben sind diesem beizufügen.
+
+
+b)
+
+Die Zuwendung kann unter Beachtung der im Bewilligungsbescheid geregelten Nebenbestimmungen und Auflagen an Dritte gemäß Nummer 12 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltordnung weitergeleitet werden.
 
 
 II.
@@ -468,7 +475,7 @@ konzeptionelle Berücksichtigung von Nachhaltigkeitsaspekten im Kontext der Durc
 Anforderung- und Auszahlungsverfahren
 
 
-Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 7.3
@@ -842,7 +849,7 @@ Durch die Bewilligungsstelle ist bei der Bewilligung auf eine angemessene region
 Anforderung- und Auszahlungsverfahren
 
 
-Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 D.
@@ -958,7 +965,7 @@ Für die Einreichung von Anträgen auf Gewährung einer Zuwendung nach Nummer 2 
 Anforderung- und Auszahlungsverfahren
 
 
-Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 E.
@@ -1066,7 +1073,7 @@ Für die Einreichung von Anträgen auf Gewährung einer Zuwendung gemäß Nummer
 Anforderung- und Auszahlungsverfahren
 
 
-Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 EU-Rahmenrichtlinie findet das Vorauszahlungsverfahren entsprechend der vorgesehenen Frist in Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 III.
@@ -1129,9 +1136,9 @@ Fsn-Nr.: 559-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. September 2022
+Fassung gültig ab: 30. Juni 2023
 
-Fassung gültig bis: 29. Juni 2023
+Fassung gültig bis: 27. Dezember 2024
 
 Drucken/Speichern
 
@@ -1156,7 +1163,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19717.1
+https://www.revosax.sachsen.de/vorschrift/19717.2
 Stand vom
 18.11.2026
 
