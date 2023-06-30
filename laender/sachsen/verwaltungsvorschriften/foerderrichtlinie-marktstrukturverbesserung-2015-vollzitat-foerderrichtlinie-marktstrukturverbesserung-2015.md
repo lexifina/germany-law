@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-02-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.7
+- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.02.2022
+30.06.2023
 bis
-29.06.2023
+01.02.2024
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -64,7 +64,7 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. Dezember 2021 (SächsABl. 2022 S. 2) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
 
 
 c)
@@ -75,7 +75,7 @@ Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrec
 
 d)
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/2008 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1),
 
 
 e)
@@ -85,11 +85,11 @@ Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung d
 
 f)
 
-Rahmenplan nach dem GAK-Gesetz in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055), das zuletzt durch Artikel 1 des Gesetzes vom 11. Oktober 2016 (BGBl. I S. 2231) geändert worden ist, in der jeweils geltenden Fassung.
+Rahmenplan nach dem GAK-Gesetz in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055), das zuletzt durch Artikel 1 des Gesetzes vom 11. Oktober 2016 (BGBl. I S. 2231) geändert worden ist.
 
 3.
 
-Ein Anspruch der Antragstellenden auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Ein Anspruch der Antragstellenden auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel nach Maßgabe dieser Richtlinie.
 
 
 II.
@@ -102,7 +102,7 @@ Erzeugerzusammenschlüsse sind:
 
 –
 
-Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes in der Fassung der Bekanntmachung vom 24. August 2021 (BGBl. I S. 4036), in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes in Verbindung mit § 2 Absatz 1 der Agrarorganisationen-und-Lieferketten-Verordnung vom 11. Oktober 2021 (BGBl. I S. 4655), in der jeweils geltenden Fassung, anerkannt sind und
+Erzeugerorganisationen und deren Vereinigungen gemäß § 1 Absatz 1 Nummer 1 Buchstabe a des Agrarorganisationen-und-Lieferketten-Gesetzes in der Fassung der Bekanntmachung vom 24. August 2021 (BGBl. I S. 4036), das zuletzt durch Artikel 2 Absatz 21 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist, in der jeweils geltenden Fassung, die nach § 4 Absatz 1 des Agrarorganisationen-und-Lieferketten-Gesetzes in Verbindung mit § 2 Absatz 1 der Agrarorganisationen-und-Lieferketten-Verordnung vom 11. Oktober 2021 (BGBl. I S. 4655), die durch Artikel 2 der Verordnung vom 9. März 2023 (BGBl. 2023 I Nr. 61) geändert worden ist, in der jeweils geltenden Fassung, anerkannt sind und
 
 
 –
@@ -128,7 +128,7 @@ III.
 Gründung und Tätigwerden von Erzeugerzusammenschlüssen
 
 
-Diese Förderung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen der Verordnung (EU) Nr. 702/2014, insbesondere Artikel 19, in der jeweils geltenden Fassung.
+Diese Förderung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen der Verordnung (EU) Nr. 2022/2472, insbesondere Artikel 19, in der jeweils geltenden Fassung.
 
 1.
 
@@ -230,7 +230,7 @@ Zuwendungsvoraussetzungen
 
 a)
 
-Begünstigte müssen kleine oder mittlere Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sein.
+Begünstigte müssen kleine oder mittlere Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 2022/2472 sein.
 
 
 b)
@@ -406,7 +406,7 @@ Diese Förderung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen
 
 a)
 
-der Verordnung (EU) Nr. 702/2014, insbesondere Artikel 17,
+der Verordnung (EU) Nr. 2022/2472, insbesondere Artikel 17,
 
 b)
 
@@ -516,7 +516,7 @@ Investitionen im Zusammenhang mit der Erzeugung von Biokraftstoffen aus Nahrungs
 
 m)
 
-anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
+anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 6 des Gesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr. 6) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
 
 
 n)
@@ -541,7 +541,7 @@ Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
 
 r)
 
-Aufwendungen für Investitionen in die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) 2021/1756 vom 6. Oktober 2021 (ABl. L 357 vom 8.10.2021, S. 27) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine oder mittlere Unternehmen (KMU) im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Aufwendungen für Investitionen in die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) 2021/1756 vom 6. Oktober 2021 (ABl. L 357 vom 8.10.2021, S. 27) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine oder mittlere Unternehmen (KMU) im Sinne des Anhang I der Verordnung (EU) Nr. 2022/2472 sind,
 
 
 s)
@@ -551,7 +551,7 @@ die Errichtung von neuen Großmärkten für Blumen und Zierpflanzen,
 
 t)
 
-Ölmühlen, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Ölmühlen, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 2022/2472 sind,
 
 
 u)
@@ -570,7 +570,7 @@ Erzeugerzusammenschlüsse gemäß Ziffer II Nummer 1,
 
 b)
 
-Unternehmen der Verarbeitung und Vermarktung landwirtschaftlicher Erzeugnisse, deren Tätigkeit sich nicht gleichzeitig auf die Produktion landwirtschaftlicher Erzeugnisse erstreckt und die weniger als 750 Personen beschäftigen oder einen Jahresumsatz von weniger als 200 000 000 Euro erzielen. Zur Berechnung der Mitarbeiterzahl und des finanziellen Schwellenwertes finden jeweils die Bestimmungen gemäß Anhang I Artikel 3 bis 5 der Verordnung (EU) Nr. 702/2014 entsprechende Anwendung.
+Unternehmen der Verarbeitung und Vermarktung landwirtschaftlicher Erzeugnisse, deren Tätigkeit sich nicht gleichzeitig auf die Produktion landwirtschaftlicher Erzeugnisse erstreckt und die weniger als 750 Personen beschäftigen oder einen Jahresumsatz von weniger als 200 000 000 Euro erzielen. Zur Berechnung der Mitarbeiterzahl und des finanziellen Schwellenwertes finden jeweils die Bestimmungen gemäß Anhang I Artikel 3 bis 5 der Verordnung (EU) Nr. 2022/2472 entsprechende Anwendung.
 
 5.
 
@@ -671,7 +671,7 @@ Aufwendungen für Investitionen in die Schlachtung von Tieren in mittleren Unter
 
 aa)
 
-mit einer regionalen Bedarfs- und Umfeldanalyse dargelegt wird, dass nach Umsetzung des Vorhabens keine Verdrängung oder signifikante Schwächung von bestehenden Unternehmen der Schlachtung und Fleischverarbeitung (insbesondere von Kleinst-, kleinen und mittleren Unternehmen) zu erwarten ist und das Vorhaben vorrangig einer regional ausgerichteten Wertschöpfungskette und der Verkürzung von Tiertransportzeiten dient. Die regionale Bedarfs- und Umfeldanalyse ist im Auftrag des Antragstellers extern durch einen unabhängigen Sachverständigen mit ausgewiesenen Fachkenntnissen des Schlachtmarktes zu erstellen und muss in einer räumlich ausgerichteten (d. h. über Ländergrenzen hinausgehenden) Betrachtung mindestens die folgenden Teilanalysen umfassen:
+mit einer regionalen Bedarfs- und Umfeldanalyse dargelegt wird, dass nach Umsetzung des Vorhabens keine Verdrängung oder signifikante Schwächung von bestehenden Unternehmen der Schlachtung und Fleischverarbeitung (insbesondere von Kleinst-, kleinen und mittleren Unternehmen) zu erwarten ist und das Vorhaben vorrangig einer regional ausgerichteten Wertschöpfungskette und der Verkürzung von Tiertransportzeiten dient. Die regionale Bedarfs- und Umfeldanalyse ist im Auftrag des Antragstellenden extern durch einen unabhängigen Sachverständigen mit ausgewiesenen Fachkenntnissen des Schlachtmarktes zu erstellen und muss in einer räumlich ausgerichteten (das heißt über Ländergrenzen hinausgehenden) Betrachtung mindestens die folgenden Teilanalysen umfassen:
 
 
 –
@@ -724,17 +724,17 @@ Die Zuwendung erfolgt als Projektförderung mit Anteilfinanzierung und wird in F
 
 b)
 
-Begünstigten nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 c)
 
-Begünstigten nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 702/2014 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 d)
 
-Bei Investitionen von mittelgroßen Unternehmen nach Ziffer IV Nummer 4 Buchstabe b, die nicht von Artikel 2 des Anhang I der Verordnung (EU) Nr. 702/2014 erfasst werden, werden Zuwendungen unter Berücksichtigung des Nettomehrkosten- Ansatzes (siehe Nummern 95 bis 97 der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014-2020 [ABl. C 204 vom 1.7.2014, S. 1], die zuletzt durch Bekanntmachung der Kommission [ABl. C 403 vom 9.11.2018, S. 10] geändert worden ist), in Höhe bis zu 20 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe bis zu 35 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Bei Investitionen von mittelgroßen Unternehmen nach Ziffer IV Nummer 4 Buchstabe b, die nicht von Artikel 2 des Anhang I der Verordnung (EU) Nr. 2022/2472 erfasst werden, werden Zuwendungen unter Berücksichtigung des Nettomehrkosten- Ansatzes (siehe Nummern 98 bis 100 der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten [ABl. C 485 vom 21.12.2022, S. 1]), in Höhe bis zu 20 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe bis zu 35 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 e)
@@ -765,30 +765,33 @@ Zuständig für die Durchführung der Förderung ist die Sächsische Aufbaubank 
 Antragsverfahren
 
 
-Die Zuwendung darf nur auf schriftlichen Antrag nach dem vom Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft gebilligten Formularmuster gewährt werden. Dem Antrag müssen die im Antragsformular bezeichneten Unterlagen beigefügt sein.
+Die Zuwendung darf nur nach dem vom Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft gebilligten Formularmuster gewährt werden. Die Zuwendungsvoraussetzungen sind durch geeignete Unterlagen oder durch Eigenerklärungen nachzuweisen. Dem Antrag müssen die im Antragsformular bezeichneten Unterlagen beigefügt sein.
 
 
-Bei Investitionsvorhaben nach Ziffer IV, die auch im Rahmen der Förderprogrammatik des Staatsministeriums für Wirtschaft, Arbeit und Verkehr bezuschusst werden können, ist vom Antragsteller bei Antragstellung auf Förderung nach dieser Förderrichtlinie schriftlich zu versichern, dass der Antragsteller die alternative Möglichkeit geprüft, jedoch nicht beantragt hat.
+Bei Investitionsvorhaben nach Ziffer IV, die auch im Rahmen der Förderprogrammatik des Staatsministeriums für Wirtschaft, Arbeit und Verkehr bezuschusst werden können, ist von den Antragstellenden bei Antragstellung auf Förderung nach dieser Förderrichtlinie zu versichern, dass die Antragstellenden die alternative Möglichkeit geprüft, jedoch nicht beantragt haben.
 
 
-Der Antragsteller hat gegenüber der Sächsischen Aufbaubank mit Antragstellung zu versichern, dass eine Förderung aus nicht angegebenen anderen Finanzierungsquellen zu keiner Zeit erfolgt.
+Die Antragstellenden haben gegenüber der Sächsischen Aufbaubank mit Antragstellung zu versichern, dass eine Förderung aus nicht angegebenen anderen Finanzierungsquellen zu keiner Zeit erfolgt.
 
 2.
 
 Bewilligungsverfahren
 
 
-Es erfolgt eine Bewilligung auf Ausgabenbasis. Die Sächsische Aufbaubank entscheidet durch schriftlichen Bescheid.
+Es erfolgt eine Bewilligung auf Ausgabenbasis. Die Sächsische Aufbaubank entscheidet durch Bescheid.
 
 
 Bei der Förderung nach Ziffer IV erfolgt eine Bewilligung nach Abstimmung und im Benehmen mit dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft.
 
 
-Soweit aufgrund dieser Richtlinie Einzelbeihilfen auf Grundlage der Verordnung (EU) Nr. 702/2014 oder der Verordnung (EU) Nr. 651/2014 gewährt werden, müssen diese deren Voraussetzungen genügen sowie einen ausdrücklichen Verweis auf die einschlägigen Bestimmungen dieser Verordnungen unter Angabe des Titels dieser Verordnungen sowie deren Fundstelle im Amtsblatt der Europäischen Union enthalten.
+Soweit aufgrund dieser Richtlinie Einzelbeihilfen auf Grundlage der Verordnung (EU) Nr. 2022/2472 oder der Verordnung (EU) Nr. 651/2014 gewährt werden, müssen diese deren Voraussetzungen genügen sowie einen ausdrücklichen Verweis auf die einschlägigen Bestimmungen dieser Verordnungen unter Angabe des Titels dieser Verordnungen sowie deren Fundstelle im Amtsblatt der Europäischen Union enthalten.
 
 3.
 
 Auszahlung der Zuwendung
+
+
+Für die Auszahlung kommt das Erstattungsprinzip nach den Nummern 7.6 und 7.7 der Verwaltungsvorschrift zu § 44 Sächsische Haushaltsordnung zur Anwendung. Teilauszahlungen werden zugelassen.
 
 
 Nach Abschluss einer Teilmaßnahme oder eines Teilzeitraumes kann nach Vorlage eines schriftlichen Auszahlungsantrages mit Teilverwendungsnachweis eine Auszahlung erfolgen. Der Auszahlungsantrag ist auf dem vorgesehenen Formular bei der zuständigen Stelle einzureichen.
@@ -878,9 +881,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. Februar 2022
+Fassung gültig ab: 30. Juni 2023
 
-Fassung gültig bis: 29. Juni 2023
+Fassung gültig bis:  1. Februar 2024
 
 Drucken/Speichern
 
@@ -905,7 +908,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.7
+https://www.revosax.sachsen.de/vorschrift/16242.8
 Stand vom
 18.11.2026
 
