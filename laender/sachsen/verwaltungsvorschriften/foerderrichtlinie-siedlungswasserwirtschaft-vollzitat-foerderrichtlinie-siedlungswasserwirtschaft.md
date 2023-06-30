@@ -1,8 +1,8 @@
 # Förderrichtlinie Siedlungswasserwirtschaft Vollzitat: Förderrichtlinie Siedlungswasserwirtschaft
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16756.3
+- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16756.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+30.06.2023
 bis
-29.06.2023
+20.10.2024
 
 Förderrichtlinie Siedlungswasserwirtschaft
 
@@ -62,9 +62,7 @@ a)
 
 Sächsische Haushaltsordnung
 
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782)
-
-geändert worden ist,
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist,
 
 
 b)
@@ -72,16 +70,13 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt
-
-enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen              vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist.            
-
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist.
 
 1.2.2
 
@@ -94,24 +89,24 @@ Im Rahmen der Förderung von Anlagen nach Nummer 2.2, die nicht Bestandteil öff
 
 a)
 
-die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) oder
+die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist, oder
 
 
 b)
 
-die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die durch die Verordnung (EU) 2019/316 (ABl. L 51 I vom 22.2.2019, S. 1) geändert worden ist,
+die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die durch die Verordnung (EU) 2022/2046 vom 24. Oktober 2022 (ABl. L 275 vom 25.10.2022, S. 55) geändert worden ist,
 
 
 c)
 
-die Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45)
+die Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2022/2514 der Kommission vom 14. Dezember 2022 (ABl. L 326 vom 21.12.2022, S. 8) geändert worden ist
 
 
 sowie deren jeweilige Nachfolgeregelungen.
 
 1.3
 
-Ein Anspruch des Antragstellers auf Gewährung einer Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel. Das Staatsministerium für Umwelt und Landwirtschaft behält sich gesonderte Festlegungen zur Prioritätensetzung vor.
+Ein Anspruch des Antragstellenden auf Gewährung einer Zuwendung besteht nicht nach Maßgabe dieser Richtlinie. Vielmehr entscheidet die Bewilligungsstelle aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel. Das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft behält sich gesonderte Festlegungen zur Prioritätensetzung vor.
 
 1.4
 
@@ -125,7 +120,7 @@ Gegenstand der Förderung
 
 2.1
 
-Ertüchtigung und Ersatzneubau öffentlicher Kläranlagen über den am 1. Januar 2016 geltenden Stand der Technik nach § 57 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 4. Dezember 2018 (BGBl. I S. 2254) geändert worden ist, in  Verbindung mit Anhang 1 zur Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 22. August 2018 (BGBl. I S. 1327) geändert worden ist, hinaus, soweit dies wasserwirtschaftlich geboten ist.
+Ertüchtigung und Ersatzneubau öffentlicher Kläranlagen über den am 1. Januar 2016 geltenden Stand der Technik nach § 57 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr. 5) geändert worden ist, in Verbindung mit Anhang 1 zur Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625), die zuletzt durch Artikel 1 der Verordnung vom 20. Januar 2022 (BGBl. I S. 87) geändert worden ist, in den jeweils geltenden Fassungen, hinaus, soweit dies wasserwirtschaftlich geboten ist.
 
 2.2
 
@@ -161,7 +156,7 @@ vom 29. Juni 2011 (SächsABl. S. 988, 1191), zuletzt enthalten in der Verwaltung
 
 3.
 
-Zuwendungsempfänger
+Begünstigte
 
 
 3.1
@@ -191,7 +186,7 @@ Wirtschaftlichkeit, Sparsamkeit
 Der Grundsatz der Wirtschaftlichkeit und Sparsamkeit ist zu beachten.
 
 
-Werden für Zuwendungsempfänger nach Nummer 3.1 Baumaßnahmen beziehungsweise Investitionen gefördert und kann der Zuwendungszweck durch verschiedene genehmigungsfähige Alternativen erreicht werden, so muss die Vorzugsvariante durch eine angemessene Wirtschaftlichkeitsuntersuchung ermittelt worden sein.
+Werden für Begünstigte nach Nummer 3.1 Baumaßnahmen beziehungsweise Investitionen gefördert und kann der Zuwendungszweck durch verschiedene genehmigungsfähige Alternativen erreicht werden, so muss die Vorzugsvariante durch eine angemessene Wirtschaftlichkeitsuntersuchung ermittelt worden sein.
 
 
 Dabei soll auf die Kostenvorteilhaftigkeit der Vorzugsvariante innerhalb der ersten 25 Jahre des Betrachtungszeitraumes abgestellt werden.
@@ -203,7 +198,7 @@ Dabei soll auf die Kostenvorteilhaftigkeit der Vorzugsvariante innerhalb der ers
 Sicherung der Gesamtfinanzierung
 
 
-Bei der Förderung von Zuwendungsempfängern nach Nummer 3.2 ist die Gesamtfinanzierung mit dem Nachweis der Auszahlungsvoraussetzungen gemäß Nummer 7.3 Buchstabe a durch den Bauherrn nachgewiesen.
+Bei der Förderung von Begünstigten nach Nummer 3.2 ist die Gesamtfinanzierung mit dem Nachweis der Auszahlungsvoraussetzungen gemäß Nummer 7.3 Buchstabe a durch den Bauherrn nachgewiesen.
 
 
 4.1.3
@@ -218,11 +213,11 @@ Werden Zuwendungen aus Finanzierungsquellen mit besonderen Zweckbestimmungen ode
 4.1.4
 
 
-Der Antragsteller muss für Maßnahmen der öffentlichen Abwasserbeseitigung erklären, dass diese mit einem unbeanstandeten Abwasserbeseitigungskonzept übereinstimmen, welches den Anforderungen des § 51 Absatz 1 des
+Die Antragstellenden müssen für Maßnahmen der öffentlichen Abwasserbeseitigung erklären, dass diese mit einem unbeanstandeten Abwasserbeseitigungskonzept übereinstimmen, welches den Anforderungen des § 51 Absatz 1 des
 
 Sächsischen Wassergesetzes
 
-vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 2 des Gesetzes vom 8. Juli 2016 (SächsGVBl. S. 287) geändert worden ist, in der jeweils geltenden Fassung, entspricht.
+vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, entspricht.
 
 
 4.2
@@ -232,14 +227,12 @@ Maßnahmespezifische Zuwendungsvoraussetzungen:
 4.2.1
 
 
-Über die wasserwirtschaftliche Gebotenheit der Förderung nach den Nummern 2.1 und 2.2 entscheidet die zuständige untere Wasserbehörde insbesondere auf der Grundlage des jeweils geltenden Maßnahmenprogramms nach § 82 des Wasserhaushaltsgesetzes in Verbindung mit § 87 Absatz 3 des              Sächsischen Wassergesetzes
-
-. Diese Entscheidung kann auch jeweils für einen Ortsteil oder Teile davon getroffen werden.
+Über die wasserwirtschaftliche Gebotenheit der Förderung nach den Nummern 2.1 und 2.2 entscheidet die zuständige untere Wasserbehörde insbesondere auf der Grundlage des jeweils geltenden Maßnahmenprogramms nach § 82 des Wasserhaushaltsgesetzes in Verbindung mit § 87 Absatz 3  des Sächsischen Wassergesetzes. Diese Entscheidung kann auch jeweils für einen Ortsteil oder Teile davon getroffen werden.
 
 
 4.2.2
 
-Bei Ertüchtigung von Kanälen und Neubau von Überleitungssammlern hat der Antragsteller zu erklären, dass in Abstimmung mit dem zuständigen Straßenbaulastträger die Möglichkeiten einer zeitlichen Koordinierung von Kanal- und Straßenbau mit dem Ziel der Kostensenkung ausgeschöpft worden sind.
+Bei Ertüchtigung von Kanälen und Neubau von Überleitungssammlern haben die Antragstellenden zu erklären, dass in Abstimmung mit dem zuständigen Straßenbaulastträger die Möglichkeiten einer zeitlichen Koordinierung von Kanal- und Straßenbau mit dem Ziel der Kostensenkung ausgeschöpft worden sind.
 
 4.2.3
 
@@ -270,7 +263,7 @@ Die Zuwendung wird im Rahmen einer Projektförderung als verbilligtes Darlehen m
 Für die Verbilligung von Darlehen gelten folgende Konditionen: Das Darlehen wird durch die Sächsische Aufbaubank – Förderbank – (SAB) gewährt. Die Zuwendung wird durch Verbilligung des Darlehenszinses über eine Laufzeit von bis zu 20 Jahren auf bis zu 0,2 Prozentpunkte und durch einen einmaligen Tilgungszuschuss gewährt. Die Zinsverbilligung und der Tilgungszuschuss dürfen insgesamt die maximale Höhe nach Nummer 5.2.1 nicht überschreiten.
 
 
-Weitere Einzelheiten ergeben sich aus dem jeweils gültigen Merkblatt der Sächsischen Aufbaubank, das im Einvernehmen mit dem Staatsministerium für Umwelt und Landwirtschaft aufgelegt wird.
+Weitere Einzelheiten ergeben sich aus dem jeweils gültigen Merkblatt der Sächsischen Aufbaubank, das im Einvernehmen mit dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft aufgelegt wird.
 
 
 5.1.3
@@ -305,11 +298,11 @@ als der Festbetrag in Höhe von 750 Euro, wird der Festbetrag auf die Höhe der 
 
 5.2.3
 
-Für die Hochwasserschadensbeseitigung nach Nummer 2.6 wird die Höhe der Zuwendung jeweils ereignisbezogen vom Staatsministerium für Umwelt und Landwirtschaft gemäß Nummer 4.2.3 festgelegt und kann bis zu 90 Prozent der zuwendungsfähigen Ausgaben betragen. Die Zuwendung wird als Zuschuss gewährt.
+Für die Hochwasserschadensbeseitigung nach Nummer 2.6 wird die Höhe der Zuwendung jeweils ereignisbezogen vom Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft gemäß Nummer 4.2.3 festgelegt und kann bis zu 90 Prozent der zuwendungsfähigen Ausgaben betragen. Die Zuwendung wird als Zuschuss gewährt.
 
 5.2.4
 
-Das Gebiet der Städte Chemnitz, Dresden und Leipzig ist von der Förderung nach dieser Richtlinie mit Ausnahme der Förderung von Maßnahmen nach Nummer 2.6 und von privaten Zuwendungsempfängern für Maßnahmen nach Nummer 2.2 ausgenommen.
+Das Gebiet der Städte Chemnitz, Dresden und Leipzig ist von der Förderung nach dieser Richtlinie mit Ausnahme der Förderung von Maßnahmen nach Nummer 2.6 und von privaten Begünstigten für Maßnahmen nach Nummer 2.2 ausgenommen.
 
 5.3
 
@@ -340,7 +333,7 @@ Ausgaben für Vorhaben, die nicht Bauvorhaben sind, zum Beispiel technische Auss
 
 d)
 
-Mehrwertsteuer, soweit diese vom Zuwendungsempfänger oder dem Dritten nicht als Vorsteuer abziehbar.
+Mehrwertsteuer, soweit diese von den Begünstigten oder den Dritten nicht als Vorsteuer abziehbar.
 
 5.3.2
 
@@ -407,15 +400,15 @@ Nachfolgende Nebenbestimmungen sind, soweit für die jeweilige Fördermaßnahme 
 
 6.1
 
-Bei der Vorhabensdurchführung sind die einschlägigen Rechtsvorschriften, insbesondere des Wasserrechts, zu beachten. Der Antragsteller trägt die Verantwortung für die ordnungsgemäße Einholung aller erforderlichen Zulassungen (insbesondere wasserrechtliche Erlaubnis, Genehmigung).
+Bei der Vorhabensdurchführung sind die einschlägigen Rechtsvorschriften, insbesondere des Wasserrechts, zu beachten. Die Antragstellenden tragen die Verantwortung für die ordnungsgemäße Einholung aller erforderlichen Zulassungen (insbesondere wasserrechtliche Erlaubnis, Genehmigung).
 
 6.2
 
-Der Aufgabenträger der öffentlichen Abwasserbeseitigung bestätigt dem Zuwendungsempfänger nach Nummer 3.2 die ordnungsgemäße Ertüchtigung der Kleinkläranlage in Form eines Abnahmeprotokolls. Der Zuwendungsempfänger nach Nummer 3.2 ist zum Abschluss eines Wartungsvertrages und zur ordnungsgemäßen Wartung entsprechend der Bauartzulassung beziehungsweise der wasserrechtlichen Erlaubnis für die Kleinkläranlage innerhalb der Zweckbindefrist verpflichtet.
+Der Aufgabenträger der öffentlichen Abwasserbeseitigung bestätigt den Begünstigten nach Nummer 3.2 die ordnungsgemäße Ertüchtigung der Kleinkläranlage in Form eines Abnahmeprotokolls. Die Begünstigten nach Nummer 3.2 sind zum Abschluss eines Wartungsvertrages und zur ordnungsgemäßen Wartung entsprechend der Bauartzulassung beziehungsweise der wasserrechtlichen Erlaubnis für die Kleinkläranlage innerhalb der Zweckbindefrist verpflichtet.
 
 6.3
 
-Der Zuwendungsempfänger nach Nummer 3.1 ist verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
+Die Begünstigten nach Nummer 3.1 sind verpflichtet, bei dem geförderten Projekt nach Maßgabe spezieller Vorschriften auf die Förderung durch den Freistaat Sachsen sowie, falls zutreffend, weitere Zuwendungsgeber hinzuweisen.
 
 6.4
 
@@ -423,7 +416,7 @@ Die Zweckbindungsfrist beträgt zwölf Jahre für bauliche Anlagen, beginnend mi
 
 6.5
 
-Zuwendungen für Zuwendungsempfänger nach Nummer 3.1 sind wie Kapitalzuschüsse im Sinne von § 13 Absatz 1 Satz 2 des
+Zuwendungen für Begünstigte nach Nummer 3.1 sind wie Kapitalzuschüsse im Sinne von § 13 Absatz 1 Satz 2 des
 
 Sächsischen Kommunalabgabengesetzes
 
@@ -440,25 +433,26 @@ Verfahren
 Antragsverfahren
 
 
-Zuständige Behörde (Bewilligungsstelle) für die Antragsannahme und Bewilligung ist die Sächsische Aufbaubank – Förderbank – (SAB).
+Die Anträge für die Maßnahmen sind jeweils bei der Sächsischen Aufbaubank – Förderbank – (SAB) als der zuständigen Bewilligungsstelle unter Verwendung des zur Verfügung gestellten Antragsverfahrens einzureichen (www.sab.sachsen.de).
 
-Der Antrag ist mit dem von der Bewilligungsstelle vorgeschriebenen Antragsformular schriftlich unter Beifügung der erforderlichen Unterlagen vollständig bei der zuständigen Bewilligungsstelle einzureichen.
 
-Die Bewilligungsstelle kann weitere Unterlagen vom Antragsteller anfordern, sofern diese zur Beurteilung der Förderfähigkeit der Maßnahme erforderlich sind.
+Die Zuwendungsvoraussetzungen sind durch geeignete Unterlagen oder durch Eigenerklärungen nachzuweisen. Die Bewilligungsstelle kann weitere Unterlagen von den Antragstellenden anfordern, sofern diese zur Beurteilung der Förderfähigkeit der Maßnahme erforderlich sind. Mit dem Antrag einzureichende Unterlagen (außer für Förderungen nach Nummer 2.2 und für Förderungen von Sofort- und Sicherungsmaßnahmen zur Gefahrenabwehr nach Nummer 2.6) sind insbesondere:
 
-Mit dem Antrag einzureichende Unterlagen (außer für Förderungen nach Nummer 2.2 und für Förderungen von Sofort- und Sicherungsmaßnahmen zur Gefahrenabwehr nach Nummer 2.6):
 
 a)
 
 Gesamtkonzeption für die technische Lösung (Übersichtslageplan, Lageplan, Projektbeschreibung, Wirtschaftlichkeitsuntersuchung),
 
+
 b)
 
 technische Angaben zu Art und Dimensionierung der zu fördernden Anlagen (Formblatt),
 
+
 c)
 
 Gesamtübersicht zu Vorhaben der öffentlichen Abwasserbeseitigung, soweit zutreffend (Formblatt),
+
 
 d)
 
@@ -471,7 +465,7 @@ Bewilligungsverfahren
 
 Fachlich zuständige technische staatliche Verwaltung (technische Fachbehörde im Sinne der
 
-Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) ist die Landesdirektion Sachsen. Die Bewilligungsstelle bezieht bei Maßnahmen nach Nummer 2.1, 2.5 und 2.6 zur Beurteilung von Wirtschaftlichkeit und Sparsamkeit der Planung und Ausführung sowie der Angemessenheit der Ausgaben die technische Fachbehörde ein. Ist nach dieser Richtlinie die Zustimmung des Staatsministeriums für Umwelt und Landwirtschaft vorbehalten oder soll vom Regelfall abgewichen werden, unterbreitet die Bewilligungsstelle dem Staatsministerium für Umwelt und Landwirtschaft einen begründeten Entscheidungsvorschlag. Das Staatsministerium für Umwelt und Landwirtschaft kann insoweit Abweichungen von den Regelungen dieser Richtlinie zulassen.
+Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) ist die Landesdirektion Sachsen. Die Bewilligungsstelle bezieht bei Maßnahmen nach Nummer 2.1, 2.5 und 2.6 zur Beurteilung von Wirtschaftlichkeit und Sparsamkeit der Planung und Ausführung sowie der Angemessenheit der Ausgaben die technische Fachbehörde ein. Ist nach dieser Richtlinie die Zustimmung des Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft vorbehalten oder soll vom Regelfall abgewichen werden, unterbreitet die Bewilligungsstelle dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft einen begründeten Entscheidungsvorschlag. Das Staatsministerium für Umwelt und Landwirtschaft kann insoweit Abweichungen von den Regelungen dieser Richtlinie zulassen.
 
 
 7.3
@@ -481,13 +475,15 @@ Auszahlungsverfahren
 
 Auszahlung von Zuwendungen:
 
+
 a)
 
-Die Auszahlung der Zuwendung erfolgt nach Abschluss der Verwendungsnachweisprüfung auf der Grundlage der endgültig festgesetzten zuwendungsfähigen Ausgaben. Der Auszahlungsantrag ist formgebunden gemäß Formblatt der SAB bei der Bewilligungsstelle einzureichen.
+Die Auszahlung der Zuwendung erfolgt nach Abschluss der Verwendungsnachweisprüfung auf der Grundlage der endgültig festgesetzten zuwendungsfähigen Ausgaben gemäß Nummer 7.6 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise gemäß Nummer 7.4 und 7.5 Anlage 3 (VVK) zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Der Auszahlungsantrag ist unter Verwendung des zur Verfügung gestellten Verfahrens (www.sab.sachsen.de) bei der Bewilligungsstelle einzureichen.
+
 
 b)
 
-Die Verbilligung des Darlehenszinses nach Nummer 5.1.2 kann auf Antrag nach Baufortschritt auf der Basis tatsächlich getätigter Ausgaben gewährt werden. Der Auszahlungsantrag ist formgebunden gemäß Formblatt der SAB unter Vorlage des Bauausgabenbuches (Belegliste) bei der Bewilligungsstelle einzureichen. Die Anrechnung des Tilgungszuschusses nach Nummer 5.1.2 erfolgt nach Abschluss der Verwendungsnachweisprüfung auf der Grundlage der endgültig festgesetzten zuwendungsfähigen Ausgaben.
+Die Verbilligung des Darlehenszinses nach Nummer 5.1.2 kann auf Antrag nach Baufortschritt auf der Basis tatsächlich getätigter Ausgaben gewährt werden. Der Auszahlungsantrag ist formgebunden unter Verwendung des zur Verfügung gestellten Verfahrens (www.sab.sachsen.de) unter Vorlage des Bauausgabenbuches (Belegliste) bei der Bewilligungsstelle einzureichen. Die Anrechnung des Tilgungszuschusses nach Nummer 5.1.2 erfolgt nach Abschluss der Verwendungsnachweisprüfung auf der Grundlage der endgültig festgesetzten zuwendungsfähigen Ausgaben.
 
 7.4
 
@@ -508,7 +504,7 @@ b)
 Die Bewilligungsstelle prüft die sachliche und rechnerische Richtigkeit des Verwendungsnachweises und bestätigt die ordnungsgemäße Durchführung des geförderten Projektes.
 
 
-Der einfache Verwendungsnachweis wird zugelassen. Der Verwendungsnachweis ist formgebunden gemäß Formblatt der SAB unter Vorlage des Bauausgabenbuches (Belegliste) bei der Bewilligungsstelle einzureichen.
+Der einfache Verwendungsnachweis wird zugelassen. Der Verwendungsnachweis ist unter Verwendung des zur Verfügung gestellten Verfahrens (www.sab.sachsen.de) unter Vorlage des Bauausgabenbuches (Belegliste) bei der Bewilligungsstelle einzureichen.
 
 7.4.2
 
@@ -519,7 +515,7 @@ Private Kleinkläranlagen
 Bei der Förderung nach Nummer 2.2 wird ein einfacher Verwendungsnachweis zugelassen.
 
 
-Der Verwendungsnachweis ist formgebunden gemäß Formblatt der SAB bei der Bewilligungsstelle einzureichen.
+Der Verwendungsnachweis ist unter Verwendung des zur Verfügung gestellten Verfahrens (www.sab.sachsen.de) bei der Bewilligungsstelle einzureichen.
 
 
 7.5
@@ -600,7 +596,6 @@ Förderrichtlinie Siedlungswasserwirtschaft
 
 vom 4. Februar 2009, zuletzt enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 923), außer Kraft. Nummer 8 bleibt unberührt.
 
-
 Dresden, den 9. Dezember 2015
 
 Der Staatsminister für Umwelt und Landwirtschaft
@@ -619,9 +614,9 @@ Fsn-Nr.: 5564-V15.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab: 30. Juni 2023
 
-Fassung gültig bis: 29. Juni 2023
+Fassung gültig bis: 20. Oktober 2024
 
 Drucken/Speichern
 
@@ -646,7 +641,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16756.3
+https://www.revosax.sachsen.de/vorschrift/16756.4
 Stand vom
 18.11.2026
 
