@@ -1,8 +1,8 @@
 # Richtlinie Feuerwehrförderung Vollzitat: Richtlinie Feuerwehrförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-09-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.7
+- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-18.09.2020
+30.06.2023
 bis
-29.06.2023
+25.07.2024
 
 Richtlinie Feuerwehrförderung
 
@@ -53,9 +53,7 @@ Rechtsgrundlagen, Zuwendungszweck
 1.
 
 
-Der Freistaat Sachsen gewährt auf der Grundlage des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, nach Maßgabe der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019
-
-(SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der
+Der Freistaat Sachsen gewährt auf der Grundlage des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, nach Maßgabe der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der
 
 jeweils geltenden Fassung, und dieser Richtlinie Zuwendungen zu den notwendigen Beschaffungen und Baumaßnahmen zur Erfüllung der den Zuwendungsempfängern auf dem Gebiet des abwehrenden Brandschutzes und der technischen Hilfe obliegenden Aufgaben sowie zur Förderung der Jugendfeuerwehren.
 
@@ -100,7 +98,7 @@ d)
 
 Beschaffung von Dienstkleidung, Schutzkleidung und persönlicher Schutzausrüstung gemäß der 
 
-Sächsischen Feuerwehrverordnung vom 21. Oktober 2005 (SächsGVBl. S. 291), die zuletzt durch die Verordnung vom 20. August 2012 (SächsGVBl. S. 458) geändert worden ist, einschließlich der notwendigen Ersatzbeschaffung von Bekleidung und Ausrüstung für Mitglieder der Jugendfeuerwehr,           
+Sächsischen Feuerwehrverordnung vom 21. Oktober 2005 (SächsGVBl. S. 291), die zuletzt durch Artikel 2 der Verordnung vom 14. Mai 2020 (SächsGVBl. S. 218) geändert worden ist, einschließlich der notwendigen Ersatzbeschaffung von Bekleidung und Ausrüstung für Mitglieder der Jugendfeuerwehr,
 
 
 e)           
@@ -134,7 +132,7 @@ Umbau, Erweiterung oder Neubau (Errichtung) von Leitstellen im Sinne des § 11 d
 
 Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz, wenn die in der 
 
-Sächsischen Landesrettungsdienstplanverordnung vom 5. Dezember 2006 (SächsGVBl. S. 532), die zuletzt durch die Verordnung vom 18. Dezember 2014 (SächsGVBl. 2015 S. 3) geändert worden ist, festgelegten Anforderungen erfüllt werden; für den Neubau (Errichtung) von Leitstellen jedoch höchstens in Höhe von 75 Prozent des den Landkreisen und Kreisfreien Städten im Rahmen ihrer Zuständigkeit für den Brandschutz entstehenden Kostenanteils nach § 34 Absatz 2 des 
+Sächsischen Landesrettungsdienstplanverordnung vom 5. Dezember 2006 (SächsGVBl. S. 532), die zuletzt durch die Verordnung vom 5. Juni 2020 (SächsGVBl. S. 285) geändert worden ist, festgelegten Anforderungen erfüllt werden; für den Neubau (Errichtung) von Leitstellen jedoch höchstens in Höhe von 75 Prozent des den Landkreisen und Kreisfreien Städten im Rahmen ihrer Zuständigkeit für den Brandschutz entstehenden Kostenanteils nach § 34 Absatz 2 des
 
 Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz,           
 
@@ -142,9 +140,9 @@ Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschu
 k)           
 
 
-Instandsetzung, Unterhaltung, Wartung und Betrieb der in Buchstabe a bis i genannten Fördergegenstände, soweit es sich dabei um die Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der 
+Instandsetzung, Unterhaltung, Wartung und Betrieb der in Buchstabe a bis i genannten Fördergegenstände, soweit es sich dabei um die Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
 
-RL Elementarschäden vom 29. Juni 2011 (SächsABl. S. 988, 1191), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), handelt,           
+RL Elementarschadenshilfen vom 18. Dezember 2020 (SächsABl. 2021 S. 26), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2021 (SächsABl. SDr. S. S 246), handelt,
 
 
 l)           
@@ -240,9 +238,9 @@ Die Zuwendungen erfolgen bedarfsorientiert. Beschaffungen und Baumaßnahmen müs
 2.           
 
 
-Aufräum- und Sicherungsmaßnahmen bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der              
+Aufräum- und Sicherungsmaßnahmen bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
 
-RL Elementarschäden gelten nicht als Vorhabensbeginn im Sinne der Nummer 1.3 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+RL Elementarschadenshilfen gelten nicht als Vorhabensbeginn im Sinne der Nummer 1.3 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
 
 
 3.
@@ -254,7 +252,7 @@ Bei Beschaffungsmaßnahmen muss der Zuwendungsempfänger Eigentümer werden.
 4.           
 
 
-Feuerwehrfahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Absatz 1 des               Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 476 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.                       
+Feuerwehrfahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Absatz 1 des               Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 6 des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3091) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.                       
 
 
 5.           
@@ -274,11 +272,11 @@ Fernmeldeeinrichtungen sind zuwendungsfähig, wenn sie den Technischen Richtlini
 7.           
 
 
-Zuwendungen für die Instandsetzung oder den Ersatz von beweglichen oder unbeweglichen Sachen, die im Rahmen der Katastrophenbekämpfung beschädigt oder zerstört wurden, werden nur dann gewährt, wenn der Antragsteller versichert, im Falle der Bewilligung in Bezug auf den Zuwendungsgegenstand keinen Kostenerstattungsanspruch nach § 65 Nr. 3              
+Zuwendungen für die Instandsetzung oder den Ersatz von beweglichen oder unbeweglichen Sachen, die im Rahmen der Katastrophenbekämpfung beschädigt oder zerstört wurden, werden nur dann gewährt, wenn der Antragsteller versichert, im Falle der Bewilligung in Bezug auf den Zuwendungsgegenstand keinen Kostenerstattungsanspruch nach § 65 Nummer 3
 
-SächsBRKG geltend zu machen. Wird bei einer Prüfung festgestellt, dass der Zuwendungsgegenstand sowohl nach dieser Richtline gefördert und gleichzeitig dafür auch Erstattungsbeträge nach § 65 Nr. 3              
+des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz geltend zu machen. Wird bei einer Prüfung festgestellt, dass der Zuwendungsgegenstand sowohl nach dieser Richtlinie gefördert und gleichzeitig dafür auch Erstattungsbeträge nach § 65 Nummer 3
 
-SächsBRKG gewährt wurden, kann die Förderung nach dieser Richtlinie bis zur vollen Höhe zurückverlangt werden.           
+des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz gewährt wurden, kann die Förderung nach dieser Richtlinie bis zur vollen Höhe zurückverlangt werden.
 
 
 8.
@@ -307,9 +305,9 @@ Die Zuwendung wird als projektgebundene Festbetrags- oder Anteilsfinanzierung ge
 2.           
 
 
-Der maximale Fördersatz beträgt grundsätzlich 75 Prozent. Wenn ein besonderes öffentliches Interesse vorliegt, kann im Einzelfall mit Zustimmung des Staatsministeriums des Innern ein Fördersatz von bis zu 90 Prozent der zuwendungsfähigen Ausgaben gewährt werden. Bei Zuwendungen, die der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der              
+Der maximale Fördersatz beträgt grundsätzlich 75 Prozent. Wenn ein besonderes öffentliches Interesse vorliegt, kann im Einzelfall mit Zustimmung des Staatsministeriums des Innern ein Fördersatz von bis zu 90 Prozent der zuwendungsfähigen Ausgaben gewährt werden. Bei Zuwendungen, die der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
 
-RL Elementarschäden dienen, beträgt der maximale Fördersatz 90 Prozent der zuwendungsfähigen Ausgaben. Betragen die tatsächlichen Aufwendungen des Zuwendungsempfängers einschließlich Spenden Dritter und anderweitiger Finanzierungsmittel nicht mindestens 25 Prozent, im Falle der Sätze 2 und 3 nicht mindestens 10 Prozent der zuwendungsfähigen Ausgaben, ist die Zuwendung entsprechend zu kürzen.            
+RL Elementarschadenshilfen dienen, beträgt der maximale Fördersatz 90 Prozent der zuwendungsfähigen Ausgaben. Betragen die tatsächlichen Aufwendungen des Zuwendungsempfängers einschließlich Spenden Dritter und anderweitiger Finanzierungsmittel nicht mindestens 25 Prozent, im Falle der Sätze 2 und 3 nicht mindestens 10 Prozent der zuwendungsfähigen Ausgaben, ist die Zuwendung entsprechend zu kürzen.
 
 
 3.           
@@ -336,7 +334,7 @@ Gemeinden mit einer Jugendfeuerwehr erhalten je Angehörigen der Jugendfeuerwehr
 
 5. 
 
-Gemeinden erhalten für jeden Angehörigen der aktiven Abteilung der Freiwilligen Feuerwehr jährlich einen Pauschalbetrag in Höhe von 50 Euro. 
+Gemeinden erhalten für jeden ehrenamtlichen Angehörigen oder jede ehrenamtliche Angehörige der aktiven Abteilung der Freiwilligen Feuerwehr jährlich einen Pauschalbetrag in Höhe von 50 Euro. 
 
 6. 
 
@@ -356,7 +354,7 @@ Zuwendungen dürfen als Ausnahme von Nummer 1.1 der Verwaltungsvorschrift für Z
 VI.
 
 
-Zuwendungsverfahren
+Antrags- und Bewilligungsverfahren
 
 1.           
 
@@ -367,23 +365,23 @@ Bewilligungsbehörde für kreisangehörige Gemeinden ist der Landkreis. Bewillig
 2.           
 
 
-Die Landkreise und Kreisfreien Städte erstellen jährlich Vorhabenlisten. Die Landkreise erarbeiten die Vorhabenlisten im Benehmen mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages. Die Vorhabenlisten sind jährlich dem Staatsministerium des Innern auf dem Dienstweg über die Landesdirektion Sachsen vorzulegen. Die Vorhabenlisten sind Grundlage der Antragstellung an die Bewilligungsbehörde nach Nummer 1. Die Sätze 1 bis 4 finden bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der              
+Die Landkreise und Kreisfreien Städte erstellen jährlich Vorhabenlisten. Die Landkreise erarbeiten die Vorhabenlisten im Benehmen mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages. Die Vorhabenlisten sind jährlich dem Staatsministerium des Innern auf dem Dienstweg über die Landesdirektion Sachsen vorzulegen. Die Vorhabenlisten sind Grundlage der Antragstellung an die Bewilligungsbehörde nach Nummer 1. Die Sätze 1 bis 4 finden bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
 
-RL Elementarschäden keine Anwendung.           
-
-
-3.           
+RL Elementarschadenshilfen keine Anwendung.
 
 
-Ein Antrag kann erst gestellt werden, wenn die zuwendungsfähigen Ausgaben für ein oder mehrere Vorhaben den Betrag von 5 000 EUR, bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der              
+3.
 
-RL Elementarschäden einen Betrag von 1 000 EUR, übersteigen. Für gemeinsame Beschaffungen mehrerer Gemeinden bedarf es keiner Einzelanträge. Die Zuwendung beantragt in diesem Falle die Stelle, die die Kaufverhandlungen für alle beteiligten Gemeinden führt. Die Zuwendung wird in diesen Fällen an die antragstellende Gemeinde ausgezahlt. Die Gemeinden haben die Erfüllung des Zuwendungszwecks durch den Abschluss öffentlich-rechtlicher Verträge sicherzustellen.           
+
+Ein Antrag kann erst gestellt werden, wenn die zuwendungsfähigen Ausgaben für ein oder mehrere Vorhaben den Betrag von 5 000 EUR, bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
+
+RL Elementarschadenshilfen einen Betrag von 1 000 EUR, übersteigen. Für gemeinsame Beschaffungen mehrerer Gemeinden bedarf es keiner Einzelanträge. Die Zuwendung beantragt in diesem Falle die Stelle, die die Kaufverhandlungen für alle beteiligten Gemeinden führt. Die Zuwendung wird in diesen Fällen an die antragstellende Gemeinde ausgezahlt. Die Gemeinden haben die Erfüllung des Zuwendungszwecks durch den Abschluss öffentlich-rechtlicher Verträge sicherzustellen.
 
 
 4.           
 
 
-Zu Anträgen der kreisangehörigen Gemeinden nimmt der Kreisbrandmeister Stellung, ob das Vorhaben nach Ziffer II förderfähig und die Maßnahme unter Berücksichtigung feuerwehrtechnischer Belange notwendig und angemessen ist.           
+Zu Anträgen der kreisangehörigen Gemeinden nimmt der Kreisbrandmeister oder die Kreisbrandmeisterin Stellung, ob das Vorhaben nach Ziffer II förderfähig und die Maßnahme unter Berücksichtigung feuerwehrtechnischer Belange notwendig und angemessen ist.
 
 
 5.           
@@ -395,12 +393,12 @@ Die Bewilligungsbehörde kann im Einzelfall zweckmäßig erscheinende Abweichung
 6.
 
 
-Die Zuwendungen an die Jugendfeuerwehr sind von den Gemeinden mit Antrag (Anlage 3) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen der Jugendfeuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend (Jugendfeuerwehr-Statistik). Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Unterstützung der Jugendfeuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten für die Jugendfeuerwehr ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung soll der Gemeindewehrleiter einbezogen werden. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung.
+Die Zuwendungen an die Jugendfeuerwehr sind von den Gemeinden mit Antrag (Anlage 3) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen der Jugendfeuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend (Jugendfeuerwehr-Statistik). Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Unterstützung der Jugendfeuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten für die Jugendfeuerwehr ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung soll der Gemeindewehrleiter oder die Gemeindewehrleiterin einbezogen werden. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung.
 
 
 7.
 
-Die Zuwendungen zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr sind von den Gemeinden mit Antrag (Anlage 4) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen in der aktiven Abteilung der Freiwilligen Feuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend. Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung ist der Gemeindewehrleiter einzubeziehen. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung. 
+Die Zuwendungen zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr sind von den Gemeinden mit Antrag (Anlage 4) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen in der aktiven Abteilung der Freiwilligen Feuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend. Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Förderung der Angehörigkeit in der aktiven Abteilung der Freiwilligen Feuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung ist der Gemeindewehrleiter oder die Gemeindewehrleiterin einzubeziehen. Ziffer IV Nummer 1, Ziffer V Nummer 1 bis 3 und Ziffer VI Nummer 2 bis 5 finden keine Anwendung. 
 
 8.
 
@@ -408,6 +406,18 @@ Die Zuwendungen zum Erwerb des Führerscheins der Klasse C beziehungsweise CE si
 
 
 VII.
+Anforderungs- und Auszahlungsverfahren
+
+1.
+
+Die Auszahlung der Zuwendungen erfolgt grundsätzlich im Rahmen des Regelauszahlungsverfahrens nach Nummer 7.1 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+
+2.
+
+Abweichend von Nummer 7.1 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung erfolgt die Auszahlung bei Zuwendungen nach Ziffer II Nummer 1 Buchstabe m, o und p im Rahmen des Erstattungsverfahrens nach Nummer 7.4 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften in Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+
+
+VIII.
 
 
 Förderrahmen und Bewirtschaftungsregelungen
@@ -429,7 +439,7 @@ Der Förderrahmen wird sowohl hinsichtlich der Kassenmittel als auch der Verpfli
 
 Für eigene Aufgaben nach dem
 
-SächsBRKG können den Landkreisen Zuwendungen bis zu 2 Prozent der auf die jeweiligen kreisangehörigen Gemeinden rechnerisch entfallenden Zuwendungen gewährt werden. Abweichend hiervon können dem Landkreis zur Erfüllung eigener Aufgaben oder zur Verwirklichung gemeindeübergreifender Maßnahmen höhere Zuwendungen gewährt werden, wenn das Einvernehmen hierzu mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages gegenüber der Landesdirektion Sachsen als Bewilligungsbehörde nachgewiesen wird.
+Sächsischen Gesetz über den Brandschutz, Rettungsdienst und Katastrophenschutz können den Landkreisen Zuwendungen bis zu 2 Prozent der auf die jeweiligen kreisangehörigen Gemeinden rechnerisch entfallenden Zuwendungen gewährt werden. Abweichend hiervon können dem Landkreis zur Erfüllung eigener Aufgaben oder zur Verwirklichung gemeindeübergreifender Maßnahmen höhere Zuwendungen gewährt werden, wenn das Einvernehmen hierzu mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages gegenüber der Landesdirektion Sachsen als Bewilligungsbehörde nachgewiesen wird.
 
 
 4.
@@ -444,7 +454,7 @@ Nimmt ein Landkreis oder eine Kreisfreie Stadt die pauschaliert zugewiesenen Fö
 Die Antragsunterlagen nach Ziffer VI Nummer 6 (Anlage 3), Nummer 7 (Anlage 4) und Nummer 8 (Anlage 5) gelten als Verwendungsnachweis. Ein besonderer Auszahlungsantrag entfällt.
 
 
-VIII.
+IX.
 
 
 Inkrafttreten und Außerkrafttreten
@@ -650,9 +660,9 @@ Fsn-Nr.: 551-V12.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 18. September 2020
+Fassung gültig ab: 30. Juni 2023
 
-Fassung gültig bis: 29. Juni 2023
+Fassung gültig bis: 25. Juli 2024
 
 Drucken/Speichern
 
@@ -679,7 +689,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12427.7
+https://www.revosax.sachsen.de/vorschrift/12427.8
 Stand vom
 18.11.2026
 
