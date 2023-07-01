@@ -1,0 +1,13 @@
+# Art. 10a Reformprozess und Übergangsvorschrift
+(1) (aufgehoben)
+(2) (aufgehoben)
+(3) (aufgehoben)
+(4) (aufgehoben)
+(5) (aufgehoben)
+(6) (aufgehoben)
+(7) (aufgehoben)
+(8) (aufgehoben)
+(9) (aufgehoben)
+(10) (aufgehoben)
+(11) (aufgehoben)
+(12) (aufgehoben)
