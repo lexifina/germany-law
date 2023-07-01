@@ -1,5 +1,5 @@
 # § 31a Klinisches Krebsregister
-Erkranken Beihilfeberechtigte oder berücksichtigungsfähige Angehörige an Krebs, sind die personenbezogenen Aufwendungen oder Kosten beihilfefähig für jede
+Erkranken beihilfeberechtigte Personen oder berücksichtigungsfähige Angehörige an Krebs, sind die personenbezogenen Aufwendungen oder Kosten beihilfefähig für jede
 1. verarbeitete Meldung zur Neuerkrankung an einem Tumor im Sinne von § 65c Absatz 4 und 5 des Fünften Buches Sozialgesetzbuch (fallbezogene Krebsregisterpauschale) und
 2. landesrechtlich vorgesehene Meldung der zu übermittelnden klinischen Daten an ein klinisches Krebsregister in Sinne von § 65c Absatz 6 des Fünften Buches Sozialgesetzbuch (Meldevergütung).
 In einer Vereinbarung mit dem für die Meldung zuständigen klinischen Krebsregister kann auch ein Verfahren der unmittelbaren Abrechnung der Kosten nach Satz 1 mit der Festsetzungsstelle geregelt werden. Die Beihilfefähigkeit der Aufwendungen oder Kosten entfällt, wenn das für die Meldung zuständige klinische Krebsregister außerhalb des Anwendungsbereichs dieser Verordnung eine pauschale finanzielle Förderung aus öffentlichen Mitteln erhält; § 4 Absatz 3 Satz 2 ist nicht anzuwenden.

@@ -18,10 +18,10 @@ Unterabschnitt 2 Ambulante zahnärztliche Leistungen
 § 12 Kieferorthopädische Leistungen
 § 13 (weggefallen)
 § 14 Auslagen, Material- und Laborkosten, Heil- und Kostenpläne
-§ 15 Zahnärztliche Leistungen für Beamte auf Widerruf
+§ 15 Zahnärztliche Leistungen für beamtete Personen auf Widerruf
 Unterabschnitt 3 Ambulante psychotherapeutische Leistungen
 § 16 Psychotherapeutische Leistungen
-§ 16a Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
+§ 16a Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie, Systemische Therapie und psychotherapeutische Akutbehandlung
 § 17 Psychoanalytisch begründete Verfahren
 § 18 Verhaltenstherapie
 § 18a Systemische Therapie
@@ -41,12 +41,12 @@ Unterabschnitt 6 Sonstige Leistungen der Heil- und Krankenbehandlung
 § 29 Soziotherapie
 § 30 Häusliche Krankenpflege
 § 30a Kurzzeitkrankenpflege
-§ 31 Palliativversorgung
+§ 31 Palliativversorgung und gesundheitliche Versorgungsplanung für die letzte Lebensphase
 § 31a Klinisches Krebsregister
 Unterabschnitt 7 Ergänzende Leistungen
 § 32 Fahrtkosten
 § 33 Unterkunfts- und Verpflegungskosten
-§ 34 Kommunikationshelfer
+§ 34 Kommunikationshilfen
 § 35 Familien- und Haushaltshilfe
 § 36 Überführungskosten in Todesfällen
 Abschnitt 3 Aufwendungen bei medizinischer Rehabilitation und Kuren
@@ -92,7 +92,7 @@ Abschnitt 9 Übergangsvorschriften
 Anlage 1 (zu § 4 Absatz 4 Satz 2)
 Ausgeschlossene und teilweise ausgeschlossene Untersuchungs- und Behandlungsmethoden
 Anlage 2 (zu § 9)
-Voraussetzungen und Höchstbeträge für Leistungen von Heilpraktikern
+Voraussetzungen und Höchstbeträge für Heilpraktikerleistungen
 Anlage 3 (zu § 26 Absatz 2)
 Voraussetzungen und Höchstbeträge für Heilmittel
 Anlage 4 (zu § 39 Absatz 2 und 5)
