@@ -1,8 +1,8 @@
 # Vollzitat: FRL EFRE/JTF-Technologieförderung 2021 bis 2027
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-01-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19834.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19834.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.01.2023
+01.07.2023
 bis
-30.06.2023
+27.06.2024
 
 FRL EFRE/JTF-Technologieförderung 2021 bis 2027
 
@@ -88,7 +88,7 @@ Der Freistaat Sachsen fördert Projekte
 
 a)
 
-nach Maßgabe der EU-Rahmenrichtlinie vom 9. Dezember 2021 (SächsABl. S. 1723) und deren Anlagen mit Nebenbestimmungen für Zuwendungen, soweit diese Richtlinie keine abweichenden Regelungen trifft,
+nach Maßgabe der EU-Rahmenrichtlinie vom 9. Mai 2023 (SächsABl. S. 576) und deren Anlagen mit Nebenbestimmungen für Zuwendungen, soweit diese Richtlinie keine abweichenden Regelungen trifft,
 
 
 b)
@@ -600,15 +600,21 @@ Verfahren
 
 Anträge können jederzeit eingereicht werden. Das Staatsministerium für Wirtschaft, Arbeit und Verkehr kann zu ausgewählten Themen Aufrufe zur Einreichung von Förderanträgen veröffentlichen, die zu einem benannten Stichtag einzureichen sind. Nähere Informationen enthalten die Aufrufe, die im Sächsischen Amtsblatt veröffentlicht werden.
 
+
 6.2.
 
-Bei der Förderentscheidung finden Projekte besondere Berücksichtigung, die zur Verbesserung des Klima- und Umweltschutzes beitragen, zum Beispiel die Entwicklung von energie- oder ressourceneffizienteren Produkten oder Verfahren.
+Mit dem Antrag ist eine Vorhabensbeschreibung sowie ein Angebot des Forschungs- und Entwicklungsdienstleisters vorzulegen.
+
 
 6.3.
 
-Auf einen Zwischennachweis zum Jahresende gemäß 6.4.2 der EU-Rahmenrichtlinie wird verzichtet.
+Bei der Förderentscheidung finden Projekte besondere Berücksichtigung, die zur Verbesserung des Klima- und Umweltschutzes beitragen, zum Beispiel die Entwicklung von energie- oder ressourceneffizienteren Produkten oder Verfahren.
 
 6.4.
+
+Auf einen Zwischennachweis zum Jahresende gemäß 6.4.2 der EU-Rahmenrichtlinie wird verzichtet.
+
+6.5.
 
 Die Auszahlung der Mittel erfolgt nach Prüfung des Verwendungsnachweises.
 
@@ -800,9 +806,9 @@ Fsn-Nr.: 552-V23.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Januar 2023
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 27. Juni 2024
 
 Drucken/Speichern
 
@@ -827,7 +833,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19834.1
+https://www.revosax.sachsen.de/vorschrift/19834.2
 Stand vom
 18.11.2026
 
