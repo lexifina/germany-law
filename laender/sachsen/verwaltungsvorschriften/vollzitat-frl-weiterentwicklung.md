@@ -1,8 +1,8 @@
 # Vollzitat: FRL Weiterentwicklung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2020-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18629.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18629.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2020
+01.07.2023
 bis
-30.06.2023
+31.08.2023
 
 FRL Weiterentwicklung
 
@@ -38,9 +38,9 @@ Vollzitat: FRL Weiterentwicklung vom 12. März 2020 (SächsABl. S. 325), die zul
 Rechtsgrundlagen und Zuwendungszweck
 
 
-Der Freistaat Sachsen gewährt im Rahmen seiner Verantwortung nach § 82 des Achten Buches Sozialgesetzbuch – Kinder- und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) geändert worden ist, nach Maßgabe dieser Richtlinie und den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere den §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, sowie den
+Der Freistaat Sachsen gewährt im Rahmen seiner Verantwortung nach § 82 des Achten Buches Sozialgesetzbuch – Kinder- und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 1 des Gesetzes vom 21. Dezember 2022 (BGBl. I S. 2824) geändert worden ist, nach Maßgabe dieser Richtlinie und den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere den §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, sowie den
 
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen, Zuwendungen zur Weiterentwicklung der Kinder- und Jugendhilfe im Freistaat Sachsen. Ein Rechtsanspruch auf die Gewährung von Zuwendungen besteht nicht. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in den jeweils geltenden Fassungen, Zuwendungen zur Weiterentwicklung der Kinder- und Jugendhilfe im Freistaat Sachsen. Ein Rechtsanspruch auf die Gewährung von Zuwendungen besteht nicht. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 2
 
@@ -113,20 +113,9 @@ Zuwendungsvoraussetzungen
 
 4.1
 
-Bei Maßnahmen zur Projektförderung, bei denen die vom Zuwendungsempfänger im Antrag zugrunde gelegten Ausgaben weniger als 100 000 Euro betragen, ist der Vorhabenbeginn ab Antragstellung (Datum Posteingang bei der Bewilligungsbehörde) zugelassen. Bei kommunalen Körperschaften gilt dies bei im Antrag zugrunde gelegten Ausgaben von weniger als 1 000 000 Euro. 
-
-
-Bei Maßnahmen mit im Antrag zugrunde gelegten Ausgaben ab 100 000 Euro, dürfen Zuwendungen zur Projektförderung nur für solche Vorhaben bewilligt werden, die noch nicht begonnen worden sind. Bei kommunalen Körperschaften gilt dies bei im Antrag zugrunde gelegten Ausgaben ab 1 000 000 Euro. Die Bewilligungsbehörde kann im Einzelfall Ausnahmen zulassen.
-
-4.2
-
-Zuwendungen sollen nur bewilligt werden, wenn die Zuwendung im Einzelfall mehr als 2 500 Euro, bei kommunalen Körperschaften mehr als 10 000 Euro beträgt.
-
-4.3
-
 Voraussetzung für die Gewährung einer Zuwendung nach Nummer 2.1 ist die erfolgreiche Teilnahme an einem Auswahlverfahren des Landesjugendamtes nach den vom Landesjugendhilfeausschuss verabschiedeten Grundsätzen zur Durchführung von Modellprojekten.
 
-4.4
+4.2
 
 Voraussetzungen für die Gewährung einer Zuwendung nach Nummer 2.2 und 2.3 sind:
 
@@ -145,7 +134,7 @@ eine befürwortende Stellungnahme des örtlichen Trägers der öffentlichen Juge
 
 der Abschluss einer Kooperationsvereinbarung zwischen dem örtlichen Träger der öffentlichen Jugendhilfe und der Verwaltung des Landesjugendamtes zum zeitlichen Umfang des Projektes, zu den am Projekt beteiligten Partnern und zur prozesshaften Begleitung des Vorhabens durch das Landesjugendamt sowie zur Auswertung, Präsentation und Nutzung der Ergebnisse. Bei Bedarf können zusätzlich die beteiligten Träger der freien Jugendhilfe als Partner der Vereinbarung einbezogen werden.
 
-4.5
+4.3
 
 Die Gewährung einer Zuwendung setzt einen Ausgaben- und Finanzierungsplan, eine angemessene Beteiligung des Zuwendungsempfängers sowie der unmittelbar am Projekt beteiligten Partner an der Finanzierung des Projektes voraus.
 
@@ -175,7 +164,7 @@ Bewilligungsbehörde ist der Kommunale Sozialverband Sachsen.
 
 6.2
 
-Die Antragstellung für Vorhaben nach Nummer 2.1 richtet sich nach den Vorgaben des unter Nummer 4.3 genannten Auswahlverfahrens. Anträge für Vorhaben nach Nummer 2.2 und 2.3 sind formlos und unter Vorlage der unter Nummer 4.4 beschriebenen Konzeption und der Stellungnahme des örtlichen Trägers der öffentlichen Jugendhilfe bei der Bewilligungsbehörde einzureichen.
+Die schriftliche oder entsprechend § 3a Verwaltungsverfahrensgesetz elektronische Antragstellung für Vorhaben nach Nummer 2.1 richtet sich nach den Vorgaben des unter Nummer 4.3 genannten Auswahlverfahrens. Anträge für Vorhaben nach Nummer 2.2 und 2.3 sind schriftlich oder entsprechend § 3a Verwaltungsverfahrensgesetz elektronisch unter Vorlage der unter Nummer 4.4 beschriebenen Konzeption und der Stellungnahme des örtlichen Trägers der öffentlichen Jugendhilfe bei der Bewilligungsbehörde einzureichen.
 
 6.3
 
@@ -183,14 +172,23 @@ Die Zuwendungsempfänger nach Nummer 3 (Erstempfänger) sind berechtigt, die Zuw
 
 6.4
 
-Bei einer Weiterleitung der Zuwendung gemäß Nummer 6.3 hat der Letztempfänger dem Erstempfänger den Verwendungsnachweis zur Prüfung vorzulegen. Der Erstempfänger erbringt gegenüber der Bewilligungsbehörde einen einfachen Verwendungsnachweis. 
+Bei einer Weiterleitung der Zuwendung gemäß Nummer 6.3 hat der Letztempfänger dem Erstempfänger den Verwendungsnachweis zur Prüfung vorzulegen.
 
 
 Der Zuwendungsempfänger übersendet eine digitale Kopie des Sachberichtes ebenfalls an die Verwaltung des Landesjugendamtes.
 
 6.5
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für deren Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für deren Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind. 
+
+
+Für die Auszahlung der Zuwendung an Träger der freien Jugendhilfe gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Im Falle der Weiterleitung der Zuwendung durch einen Träger der freien Jugendhilfe sind abweichend von Nummer 7.7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Teilauszahlungen an die Letztempfänger unter 1 000 Euro zugelassen.
+
+
+Für die Auszahlung der Zuwendung an Träger der öffentlichen Jugendhilfe gilt Nummer 7.1 und bei einer Gesamtzuwendung über 500 000 Euro und einem Umsetzungszeitraum von mehr als zwei Jahren Nummer 7.2 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK).
+
+
+Im Falle der Weiterleitung der Zuwendung durch einen Träger der öffentlichen Jugendhilfe gilt abweichend von Nummer 7.1 bis 7.4 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung analog. Abweichend von Nummer 7.5 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) sind im Rahmen der Weiterleitung Teilauszahlungen an die Letztempfänger unter 10 000 Euro zugelassen.
 
 
 7
@@ -222,9 +220,9 @@ Fsn-Nr.: 5583-V20.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2020
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 31. August 2023
 
 Drucken/Speichern
 
@@ -249,7 +247,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18629.1
+https://www.revosax.sachsen.de/vorschrift/18629.2
 Stand vom
 18.11.2026
 
