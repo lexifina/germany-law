@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz Vollzitat: Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwir
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.7
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2022
+01.07.2023
 bis
-30.06.2023
+31.12.2023
 
 Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz
 
@@ -41,7 +41,7 @@ Zuwendungszweck, Rechtsgrundlagen
 1.
 
 
-Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 11 der Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, in der jeweils geltenden Fassung, nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352) und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
+Der Freistaat Sachsen gewährt nach § 8 Absatz 1 Nummer 11 und § 70 Absatz 3 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 25. Juni 2019 (SächsGVBl. S. 521) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 11 der Sächsischen Katastrophenschutzverordnung vom 19. Dezember 2005 (SächsGVBl. S. 324), die zuletzt durch Artikel 1 der Verordnung vom 19. April 2013 (SächsGVBl. S. 239) geändert worden ist, in der jeweils geltenden Fassung, nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178) und dieser Richtlinie Zuwendungen für die Mitwirkung im Katastrophenschutz.
 
 
 2.
@@ -458,12 +458,12 @@ Der Antrag auf Auszahlung kann frühestens nach Bestandskraft des Zuwendungsbesc
 
 b)
 
-Die Auszahlung der Zuwendungen nach Ziffer II Nummer 1, 2, 4 und 5 erfolgt abweichend von Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung auf Antrag in einer Summe ohne Beschränkung auf die Zwei-Monats-Frist gemäß Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+Für Bewilligungen bis zum 31. Dezember 2024 erfolgt abweichend von Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und Nummer 7 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung die Auszahlung der Zuwendungen nach Ziffer II Nummer 1, 2, 4 und 5 auf Antrag in einer Summe. Auszahlungen sind danach auf Antrag nur insoweit und nicht eher möglich, als die Zuwendungsmittel voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungswecks benötigt werden. Für Bewilligungen ab dem 1. Januar 2025 findet für die Auszahlung der Zuwendung an Zuwendungsempfänger das Auszahlungsverfahren nach Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und Nummer 7.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 c)
 
-Die Auszahlung der Zuwendungen nach Ziffer 3 und Ziffer 6 darf nur insoweit und nicht eher erfolgen, als sie voraussichtlich innerhalb der in Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 7.1 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) benannten Frist nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Dabei sind Zuwendungen verschiedener Zuwendungsgeber anteilig entsprechend ihrem Verhältnis an der Gesamtfinanzierung einzusetzen; Ausnahmen hiervon können zugelassen werden. Die Auszahlung der Zuwendungen nach Ziffer 6 darf bei längerfristigen Vorhaben grundsätzlich nur in Teilbeträgen erfolgen.
+Für Bewilligungen bis zum 31. Dezember 2024 darf abweichend von Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und Nummer 7 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften die Auszahlung der Zuwendungen nach Ziffer II Nummer 3 und 6 auf Antrag nur insoweit und nicht eher erfolgen, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Dabei sind Zuwendungen verschiedener Zuwendungsgeber anteilig entsprechend ihrem Verhältnis an der Gesamtfinanzierung einzusetzen; Ausnahmen hiervon können zugelassen werden. Die Auszahlung der Zuwendungen nach Ziffer II Nummer 6 darf bei längerfristigen Vorhaben grundsätzlich nur in Teilbeträgen erfolgen. Für Bewilligungen ab dem 1. Januar 2025 findet für die Auszahlung der Zuwendung an Zuwendungsempfänger das Auszahlungsverfahren nach Nummern 7.1 und 7.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und Nummern 7.1 und 7.2 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Anwendung.
 
 
 5.
@@ -573,9 +573,9 @@ Fsn-Nr.: 5536-V11.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2022
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 31. Dezember 2023
 
 Drucken/Speichern
 
@@ -602,7 +602,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12058.7
+https://www.revosax.sachsen.de/vorschrift/12058.8
 Stand vom
 18.11.2026
 
