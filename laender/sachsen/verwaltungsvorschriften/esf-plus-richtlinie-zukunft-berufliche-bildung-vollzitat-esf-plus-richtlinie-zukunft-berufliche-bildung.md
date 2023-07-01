@@ -1,8 +1,8 @@
 # ESF Plus-Richtlinie Zukunft berufliche Bildung Vollzitat: ESF Plus-Richtlinie Zukunft berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-06-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19642.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19642.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.06.2022
+01.07.2023
 bis
-30.06.2023
+01.08.2024
 
 ESF Plus-Richtlinie Zukunft berufliche Bildung
 
@@ -61,37 +61,38 @@ Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anw
 
 –
 
-Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die zuletzt durch die Verordnung (EU) Nr. 2019/316 der Kommission vom 21. Februar 2019 zur Änderung der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 (ABl. EU L 51 vom 22.2.2019, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die zuletzt durch die Verordnung (EU) 2022/2046 der Kommission vom 24.10.2022 (ABl. L 275 vom 25.10.2022, S. 55) geändert worden ist,
 
 
 –
 
-Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), die zuletzt durch die Verordnung (EU) 2022/2514 der Kommission vom 14. Dezember 2022 (ABl. L 326 vom 21.12.2022, S. 8) geändert worden ist,
 
 
 –
 
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 14.10.2020, S. 1) geändert worden ist (DAWI-De-minimis-VO),
+Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 14.10.2020, S.1) geändert worden ist (DAWI-De-minimis-VO),
 
 
 –
+
 
 Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 106 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3) (DAWI-Freistellungsbeschluss),
 
 
 –
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist (AGVO),
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2023/1315 der Kommission vom 23. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist (AGVO),
 
 
 –
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 193 vom 1.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist (AgrarFVO),
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1), (AgrarFVO),
 
 
 –
 
-Verordnung (EU) Nr. 1388/2014 der Kommission vom 16. Dezember 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 369 vom 24.12.2014, S. 37), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist (FischereiFVO).
+Verordnung (EU) 2022/2473 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 82) (FischereiFVO).
 
 
 b)
@@ -244,7 +245,7 @@ Der Inhalt der Zusatzqualifikation darf nicht Bestandteil der jeweils geltenden 
 
 
 V.
-Art, Umfang und Höhe der Zuwendung
+Art, Umfang und Höhe der Zuwendungen
 
 1.
 
@@ -253,7 +254,7 @@ Für Vorhaben nach Ziffer II Nummer 1 Buchstabe a und b sowie Ziffer II Nummer 2
 
 a)
 
-Die Zuwendung wird in Form eines Zuschusses als Projektförderung und abweichend von Nummer 2.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung in Form von Anteilsfinanzierung gewährt.
+Die Zuwendung wird als Projektförderung in Form eines Zuschusses als Anteilsfinanzierung gewährt.
 
 
 b)
@@ -366,6 +367,7 @@ Internet: www.esf-in-sachsen.de,
 
 www.sab.sachsen.de, www.strukturfonds.sachsen.de
 
+
 2.
 
 Die Förderung der Vorhaben auf Initiative des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr nach Ziffer II Nummer 1 Buchstabe a und der wissenschaftlichen Begleitung nach Nummer II Nummer 2 erfolgt nach Aufforderung zur Antragstellung im Rahmen einer Förderbekanntmachung.
@@ -387,23 +389,22 @@ Die Auswahl und Bewilligung der Vorhaben erfolgt in einem mehrstufigen Verfahren
 
 –
 
-Für das Auswahlverfahren ist bei der Bewilligungsstelle eine Projektskizze in elektronischer Form einzureichen. Die Vorgaben zu Struktur und Inhalt der Projektskizze sind der Internetseite der Bewilligungsstelle zu entnehmen.
+Für das Auswahlverfahren ist bei der Bewilligungsstelle ein Projektvorschlag in elektronischer Form einzureichen. Die Vorgaben zu Struktur und Inhalt der Projektskizze sind der Internetseite der Bewilligungsstelle zu entnehmen.
 
 
 –
 
-Nach Eingang der Projektskizze erfolgt eine formale Prüfung durch die Bewilligungsstelle.
+Nach Eingang des Projektvorschlags erfolgt eine formale Prüfung durch die Bewilligungsstelle.
 
 
 –
 
-Eine fachliche Stellungnahme und Auswahl der Projektskizzen erfolgt durch die Bewilligungsstelle und relevante regionale Netzwerkakteure auf der Grundlage einer Matrix zur fachlichen Bewertung. Die Bewertungsmatrix einschließlich der fachlichen Bewertungskriterien sowie die regionalen Netzwerkakteure für eine fachliche Stellungnahme sind der Internetseite der Bewilligungsstelle zu entnehmen. Die Zuordnung zur Bewertung erfolgt entsprechend des geplanten Durchführungsorts für das Vorhaben.
+Eine fachliche Stellungnahme und Auswahl der Projektvorschläge erfolgt durch die Bewilligungsstelle und relevante regionale Netzwerkakteure auf der Grundlage einer Matrix zur fachlichen Bewertung. Die Bewertungsmatrix einschließlich der fachlichen Bewertungskriterien sowie die regionalen Netzwerkakteure für eine fachliche Stellungnahme sind der Internetseite der Bewilligungsstelle zu entnehmen. Die Zuordnung zur Bewertung erfolgt entsprechend des geplanten Durchführungsorts für das Vorhaben.
 
 
 –
 
-Projektskizzen, die keine positive Auswahlentscheidung erhalten, können im weiteren Förderverfahren nicht berücksichtigt werden. Die Antragssteller werden schriftlich darüber durch die Bewilligungsstelle informiert.
-
+Projektvorschläge, die keine positive Auswahlentscheidung erhalten, können im weiteren Förderverfahren nicht berücksichtigt werden. Die Antragssteller werden schriftlich darüber durch die Bewilligungsstelle informiert.1
 
 –
 
@@ -438,7 +439,7 @@ Abweichend von Nummer 6.1 der NBest-EU ist der Verwendungsnachweis zum Vorhabens
 
 7.
 
-Die Bewilligungsstelle kann gemäß Nummer 6.3.2 der EU-Rahmenrichtlinie Ausnahmen vom Erstattungsprinzip zulassen; Nummer 7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung ist in diesen Fällen anzuwenden.
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 der EU-Rahmenrichtlinie findet für Zuwendungen nach Ziffer II Nummer 1 a und b sowie Ziffer II Nummer 2 das Vorauszahlungsprinzip nach Nummer 7.5 der Verwaltungsvorschrift des Sächsisches Staatsministerium der Finanzen zu § 44 der Sächsischen Haushaltsordnung Anwendung. Für diese Zuwendungen werden durch die Bewilligungsbehörde im Zuwendungsbescheid Regelungen zur Zulassung mehrerer Vorauszahlungen getroffen.
 
 
 VII.
@@ -531,7 +532,7 @@ Beihilfen für Wissenstransfer und Informationsmaßnahmen nach Artikel 21
 
 –
 
-Beihilfen für Wissenstransfer und Informationsmaßnahmen im Forstsektor nach Artikel 38
+Beihilfen für Wissenstransfer und Informationsmaßnahmen im Forstsektor nach Artikel 47
 
 
 c)
@@ -541,27 +542,27 @@ FischereiFVO
 
 –
 
-Beihilfen für Beratungsdienste im Fischereisektor nach Artikel 14
+Beihilfen für Beratungsdienste im Fischereisektor nach Artikel 16
 
 
 –
 
-Beihilfen für Partnerschaften zwischen Wissenschaftlern und Fischern nach Artikel 15
+Beihilfen für Partnerschaften zwischen Wissenschaftlern und Fischern nach Artikel 17
 
 
 –
 
-Beihilfen zur Förderung von Humankapital, der Schaffung von Arbeitsplätzen und des sozialen Dialogs im Fischereisektor nach Artikel 16
+Beihilfen zur Förderung von Humankapital, der Schaffung von Arbeitsplätzen und des sozialen Dialogs im Fischereisektor nach Artikel 18
 
 
 –
 
-Beihilfen für Betriebsführungs-, Vertretungs- und Beratungsdienste für Aquakulturunternehmen nach Artikel 32
+Beihilfen für Betriebsführungs-, Vertretungs- und Beratungsdienste für Aquakulturunternehmen nach Artikel 34
 
 
 –
 
-Beihilfen zur Förderung von Humankapital und Vernetzung im Aquakultursektor nach Artikel 33
+Beihilfen zur Förderung von Humankapital und Vernetzung im Aquakultursektor nach Artikel 35
 
 2.
 
@@ -635,7 +636,7 @@ a)
 AGVO
 
 
-Informationen über jede Einzelbeihilfe von über 500 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der AGVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
+Informationen über jede Einzelbeihilfe von über 100 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der AGVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
 
 
 b)
@@ -648,12 +649,12 @@ Informationen über jede Einzelbeihilfe von über
 
 –
 
-60 000 Euro bei Beihilfeempfängern, die in der landwirtschaftlichen Primärproduktion tätig sind oder
+10 000 Euro bei Beihilfeempfängern, die in der landwirtschaftlichen Primärproduktion tätig sind oder
 
 
 –
 
-500 000 Euro bei Beihilfeempfängern, die in der Verarbeitung oder der Vermarktung landwirtschaftlicher Erzeugnisse oder in der Forstwirtschaft tätig sind oder Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV fallen,
+100 000 Euro bei Beihilfeempfängern, die in der Verarbeitung oder der Vermarktung landwirtschaftlicher Erzeugnisse oder in der Forstwirtschaft tätig sind oder Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV fallen,
 
 
 werden gemäß Artikel 9 Absatz 2 Buchstabe c in Verbindung mit Anhang III der AgrarFVO auf einer ausführlichen Beihilfe-Website veröffentlicht
@@ -664,14 +665,14 @@ c)
 FischereiFVO
 
 
-Informationen über jede Einzelbeihilfe von über 30 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der FischereiFVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
+Informationen über jede Einzelbeihilfe von über 10 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der FischereiFVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
 
 8.
 
 Geltungsdauer
 
 
-Die Freistellungstatbestände der AGVO gelten bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024. Die Freistellungstatbestände der AgrarFVO sowie die FischereiFVO gelten bis zum 31. Dezember 2022 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2023. Werden im Rahmen der Neuregelung der Freistellungsverordnungen nach Ablauf ihrer Geltungszeit relevante inhaltliche Änderungen vorgenommen, wird die Richtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
+Die Freistellungstatbestände der AGVO gelten bis zum 31. Dezember 2026 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2027. Die Freistellungstatbestände der AgrarFVO sowie die FischereiFVO gelten bis zum 31. Dezember 2029 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2030. Werden im Rahmen der Neuregelung der Freistellungsverordnungen nach Ablauf ihrer Geltungszeit relevante inhaltliche Änderungen vorgenommen, wird die Richtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
 
 
 Verweis auf Bundesgesetze
@@ -684,9 +685,9 @@ Fsn-Nr.: 5573-V22.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. Juni 2022
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis:  1. August 2024
 
 Drucken/Speichern
 
@@ -711,7 +712,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19642.1
+https://www.revosax.sachsen.de/vorschrift/19642.2
 Stand vom
 18.11.2026
 
