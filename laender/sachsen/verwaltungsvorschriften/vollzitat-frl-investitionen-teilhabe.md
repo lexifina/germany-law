@@ -1,8 +1,8 @@
 # Vollzitat: FRL Investitionen Teilhabe
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19836.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19836.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2023
+01.07.2023
 bis
-30.06.2023
+11.04.2024
 
 FRL Investitionen Teilhabe
 
@@ -95,6 +95,7 @@ bei besonderen Vorhaben zur Weiterentwicklung inklusiver Angebote des Wohnens, d
 3.
 
 zur Schaffung von Barrierefreiheit im Sinne von § 3 des Sächsischen Inklusionsgesetzes
+
 
 4.
 
@@ -361,6 +362,10 @@ Weitere Hinweise zum Antragsverfahren sind in Nummer 3 der Anlage 2 zur Richtlin
 
 Auf die in Anlage 2 der Richtlinie enthaltenen Empfehlungen und Hinweise zur Planung und Ausgestaltung von Einrichtungen, Diensten und Angeboten für Menschen mit Behinderungen und die hierbei zu berücksichtigenden Rechtsvorschriften wird verwiesen.
 
+6.7
+
+Für die Auszahlung an nicht-kommunale Zuwendungsempfänger gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Für kommunale Zuwendungsempfänger gelten Nummer 7.1 und 7.2 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK).
+
 
 II.
 Besondere Vorhaben zur Weiterentwicklung
@@ -461,6 +466,10 @@ Die Bewilligungsstelle legt die Anträge zur Erteilung des erforderlichen Einver
 
 Im Übrigen gelten die Hinweise zum Antragsverfahren entsprechend Nummer 3 der Anlage zu Teil 2 Abschnitt I Nummer 5.3.
 
+6.3
+
+Für die Auszahlung an nicht-kommunale Zuwendungsempfänger gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Für die Auszahlung an kommunale Zuwendungsempfänger gelten Nummer 7.1 und 7.2 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK).
+
 
 III.
 Investitionen zur Schaffung von Barrierefreiheit im Sinne von
@@ -510,6 +519,13 @@ Die Höhe der Förderung beträgt bis zu 80 Prozent der zuwendungsfähigen Ausga
 
 Zuwendungsfähig sind die erforderlichen Gesamtausgaben nach den Kostengruppen 300 bis 700 der DIN 276. Die zuwendungsfähigen Ausgaben sollen 200 000 Euro nicht übersteigen.
 
+6.
+
+Verfahren
+
+
+Für Auszahlungen gilt für nicht-kommunale Zuwendungsempfänger das in Nummer 7.1 und 7.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung und für kommunale Zuwendungsempfänger das in Nummer 7.1 und 7.2 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) vorgesehene Verfahren.
+
 
 IV.
 Investitionsprogramm
@@ -558,42 +574,42 @@ Zuwendungsvoraussetzungen
 Die Förderung öffentlicher kommunaler Gebäude sowie öffentlicher Infrastruktur oder öffentlicher Aufgabenträger ist ausgeschlossen. Eine Förderung kommunaler Gebäude und Einrichtungen ist ausnahmsweise möglich, wenn es sich dabei um ein freiwilliges Angebot handelt. Dies gilt insbesondere für:
 
 
-b)
+a)
 
 Jugend- und Freizeittreffs
 
 
-c)
+b)
 
 Seniorenbegegnungsstätten
 
 
-d)
+c)
 
 Stadtteilzentren
 
 
-e)
+d)
 
 Bibliotheken
 
 
-f)
+e)
 
 Museen
 
 
-g)
+f)
 
 Sportstätten des Freizeit- und Breitensports
 
 
-h)
+g)
 
 Freibäder
 
 
-i)
+h)
 
 Volkshochschulen.
 
@@ -652,6 +668,10 @@ Die Erstempfänger leiten die Zuwendung in öffentlich-rechtlicher Form an die L
 6.5.
 
 Die Antragsfrist für die Letztempfänger legen die Erstempfänger im Rahmen der kommunalen Selbstverwaltung fest.
+
+6.6
+
+Für die Auszahlung der Zuwendung an die Erstempfänger und kommunale Letztempfänger gilt abweichend von Nummer 7.1 bis 7.4 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung analog. Für die Auszahlung an nicht-kommunale Letztempfänger gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Abweichend von Nummer 7.5 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften – VVK) sind Teilauszahlungen an die Letztempfänger unter 10 000 Euro zugelassen. Abweichend von Nummer 7.7 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung sind Teilauszahlungen an die Letztempfänger unter 1 000 Euro zugelassen.
 
 7.
 
@@ -1003,23 +1023,27 @@ Prozess bei der Bewilligung von Anträgen für große Baumaßnahmen (zuwendungsf
 Abbildung 1
 
 
-|
+| 
+
 Träger – Antrag auf Aufnahme in die Prioritätenliste an die SAB
 (Dringlichkeit, Bedarfsbestätigung, Aussage zum Kommunalanteil)
 
 
-|
+| 
+
 SAB – Abstimmung mit SMS, KSV und BA* zur Einordnung in Prioritätenliste (Januar, Mai, September)
 
 
 | Einordnung in Priorität C der Prioritätenliste
 
 
-|
+| 
+
 SAB – Schreiben an Träger zur Einordnung in die Prioritätenliste
 
 
-|
+| 
+
 Ja
 Aufforderung zur Abgabe der Antragsunterlagen an SAB
 innerhalb eines Jahres
@@ -1036,7 +1060,8 @@ Kontakte mit örtlicher Brandschutz- und Baubehörde, Gesundheitsamt, LJA*, Heim
 | 
 
 
-|
+| 
+
 Träger – Einreichen der Antragsunterlagen bei SAB
 
 | 
@@ -1051,29 +1076,34 @@ Träger – Einreichen der Antragsunterlagen bei SAB
 | 
 
 
-|
+| 
+
 KSV – Prüfung/Stellungnahme
 
 | 
 
-|
+| 
+
 KSV – Prüfung/Stellungnahme
 
 | 
 
 
-|
+| 
+
 SAB – Aufforderung an den Träger zur Erstellung der Entwurfsplanung und Einreichung bei SAB
 
 | 
 
-|
+| 
+
 SAB – Aufforderung an den Träger zur Erstellung der Entwurfsplanung und Einreichung bei SAB
 
 | 
 
 
-|
+| 
+
 SAB –
 Zuwendungsbescheid
 
@@ -1123,7 +1153,8 @@ Mittelabruf
 
 | 
 
-|
+| 
+
 SAB –
 Zuwendungsbescheid
 
@@ -1133,28 +1164,33 @@ Zuwendungsbescheid
 Mittelabruf
 
 
-|
+| 
+
 Träger – Anzeige bei der Heimaufsicht*, Antrag auf Betriebserlaubnis des LJA* u. Bestätigung der Belegung des KSV*
 
 | 
 
 
-|
+| 
+
 Träger – Inbetriebnahme
 
-|
+| 
+
 Träger – Anzeige bei der Heimaufsicht*, Antrag auf Betriebserlaubnis des LJA* u. Bestätigung der Belegung des KSV*
 
 | 
 
 
-|
+| 
+
 Träger – einfacher Verwendungs­nachweis an SAB
 
 
 | 
 
-|
+| 
+
 Träger –
 Inbetriebnahme
 
@@ -1163,7 +1199,8 @@ Inbetriebnahme
 
 | 
 
-|
+| 
+
 Träger – Verwendungsnachweis an SAB (ggf. Einbindung SIB)
 
 | 
@@ -1325,6 +1362,7 @@ Sächsisches Schulgesetz in der Fassung der Bekanntmachung vom 27. September 201
 
 
 Gesetz über Kindertageseinrichtungen in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch Artikel 13 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist Achtes Buch Sozialgesetzbuch
+
 
 –
 
@@ -3392,9 +3430,9 @@ Fsn-Nr.: 5584-V23.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2023
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 11. April 2024
 
 Drucken/Speichern
 
@@ -3419,7 +3457,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19836.1
+https://www.revosax.sachsen.de/vorschrift/19836.2
 Stand vom
 18.11.2026
 
