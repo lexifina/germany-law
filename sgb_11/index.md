@@ -61,7 +61,7 @@ für sonstige Personen](0021.md)
 ### Zweiter Abschnitt Gemeinsame Vorschriften
 
 - [§ 29 Wirtschaftlichkeitsgebot](0029.md)
-- [§ 30 Dynamisierung, Verordnungsermächtigung](0030.md)
+- [§ 30 Dynamisierung](0030.md)
 - [§ 31 Vorrang der Rehabilitation vor Pflege](0031.md)
 - [§ 32 Vorläufige Leistungen zur medizinischen Rehabilitation](0032.md)
 - [§ 33 Leistungsvoraussetzungen](0033.md)
@@ -164,11 +164,12 @@ Verbandsaufgaben
 ### Erster Abschnitt Beiträge
 
 - [§ 54 Grundsatz](0054.md)
-- [§ 55 Beitragssatz, Beitragsbemessungsgrenze](0055.md)
+- [§ 55 Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung](0055.md)
 - [§ 56 Beitragsfreiheit](0056.md)
 - [§ 57 Beitragspflichtige Einnahmen](0057.md)
 - [§ 58 Tragung der Beiträge bei versicherungspflichtig Beschäftigten](0058.md)
 - [§ 59 Beitragstragung bei anderen Mitgliedern](0059.md)
+- [§ 59a Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung](0059a.md)
 - [§ 60 Beitragszahlung](0060.md)
 
 ### Zweiter Abschnitt Beitragszuschüsse
@@ -325,7 +326,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 112 Qualitätsverantwortung](0112.md)
 - [§ 112a Übergangsregelung zur Qualitätssicherung bei Betreuungsdiensten](0112a.md)
 - [§ 113 Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität](0113.md)
-- [§ 113a Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege](0113a.md)
+- [§ 113a (weggefallen)](0113a.md)
 - [§ 113b Qualitätsausschuss](0113b.md)
 - [§ 113c Personalbemessung in vollstationären Pflegeeinrichtungen](0113c.md)
 - [§ 114 Qualitätsprüfungen](0114.md)
@@ -347,10 +348,11 @@ zum Schutz der Pflegebedürftigen
 
 ## Dreizehntes Kapitel Befristete Modellvorhaben
 
-- [§ 123 Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung](0123.md)
-- [§ 124 Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat](0124.md)
+- [§ 123 Gemeinsame Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier](0123.md)
+- [§ 124 Wissenschaftliche Begleitung und Auswertung der gemeinsamen Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier](0124.md)
 - [§ 125 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur](0125.md)
 - [§ 125a Modellvorhaben zur Erprobung von Telepflege](0125a.md)
+- [§ 125b Kompetenzzentrum Digitalisierung und Pflege](0125b.md)
 
 ## Vierzehntes Kapitel Zulagenförderung der privaten Pflegevorsorge
 
@@ -380,6 +382,7 @@ zum Schutz der Pflegebedürftigen
 - [§ 140 Anzuwendendes Recht und Überleitung in die Pflegegrade](0140.md)
 - [§ 141 Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen](0141.md)
 - [§ 142 Übergangsregelungen im Begutachtungsverfahren](0142.md)
+- [§ 142a Übergangsregelung für eine telefonische Begutachtung](0142a.md)
 - [§ 143 Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge](0143.md)
 
 ### Zweiter Abschnitt Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen

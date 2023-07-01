@@ -14,6 +14,7 @@ Datenverarbeitung und Kursgebühren
 - [§ 4 Teilnahmeberechtigung](0004.md)
 - [§ 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen](0004a.md)
 - [§ 5 Zulassung zum Integrationskurs](0005.md)
+- [§ 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende](0005a.md)
 - [§ 6 Bestätigung der Teilnahmeberechtigung](0006.md)
 - [§ 7 Anmeldung zum Integrationskurs](0007.md)
 - [§ 8 Datenverarbeitung](0008.md)

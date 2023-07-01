@@ -13,8 +13,9 @@
 | § 1.07 | Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste |
 | § 1.08 | Bau, Ausrüstung und Besatzung der Fahrzeuge |
 | § 1.09 | Besetzung des Ruders |
-| § 1.10 | Mitführen von Urkunden und sonstigen Unterlagen |
-| § 1.11 | Mitführen der Moselschifffahrtspolizeiverordnung |
+| § 1.10 | Mitführen von Urkunden und sonstigen Unterlagen an Bord |
+| § 1.10a | Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord |
+| § 1.11 | Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord |
 | § 1.12 | Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen; Schiffahrtshindernisse |
 | § 1.13 | Schutz der Schiffahrtszeichen |
 | § 1.14 | Beschädigung von Anlagen |
@@ -44,7 +45,7 @@
 |  |  |  | Bezeichnung der Fahrzeuge |
 |  |  |  |  | Abschnitt I.: Allgemeines |
 | § 3.01 | Begriffsbestimmungen und Anwendungen |
-| § 3.02 | Lichter und Signalleuchten |
+| § 3.02 | Lichter |
 | § 3.03 | Flaggen, Tafeln und Wimpel |
 | § 3.04 | Zylinder, Bälle und Kegel |
 | § 3.05 | Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen |
@@ -203,5 +204,6 @@
 | Anlage 8: | Bezeichnung der Wasserstraße |
 | Anlage 9: | (ohne Inhalt) |
 | Anlage 10: | Muster für das Ölkontrollbuch |
-| Anlage 11 | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
-| Anlage 12 | Verzeichnis der Fahrzeug- und Verbandsarten |
+| Anlage 11: | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
+| Anlage 12: | Verzeichnis der Fahrzeug- und Verbandsarten |
+| Anlage 13: | Verzeichnis der mitzuführenden Urkunden und sonstigen Unterlagen nach § 1.10 MoselSchPV |

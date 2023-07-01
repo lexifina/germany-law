@@ -125,7 +125,7 @@
 - [§ 64 Nachlasspflegschaften und Gesamtgutsverwaltung](0064.md)
 - [§ 65 Ernennung und Entlassung von Testamentsvollstreckern](0065.md)
 - [§ 66 (weggefallen)](0066.md)
-- [§ 67 Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereins- und Stiftungssachen](0067.md)
+- [§ 67 Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereinssachen](0067.md)
 - [§ 68 Verhandlung über Dispache](0068.md)
 - [§ 69 Eintragungen im Grundbuch, Schiffs- oder Schiffsbauregister](0069.md)
 - [§ 70 Gemeinschaften zur gesamten Hand](0070.md)

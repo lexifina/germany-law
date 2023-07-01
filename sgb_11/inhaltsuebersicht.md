@@ -57,7 +57,7 @@
 | Zweiter Abschnitt |
 | Gemeinsame Vorschriften |
 | § 29 | Wirtschaftlichkeitsgebot |
-| § 30 | Dynamisierung, Verordnungsermächtigung |
+| § 30 | Dynamisierung |
 | § 31 | Vorrang der Rehabilitation vor Pflege |
 | § 32 | Vorläufige Leistungen zur medizinischen Rehabilitation |
 | § 33 | Leistungsvoraussetzungen |
@@ -161,11 +161,12 @@
 | Erster Abschnitt |
 | Beiträge |
 | § 54 | Grundsatz |
-| § 55 | Beitragssatz, Beitragsbemessungsgrenze |
+| § 55 | Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung |
 | § 56 | Beitragsfreiheit |
 | § 57 | Beitragspflichtige Einnahmen |
 | § 58 | Tragung der Beiträge bei versicherungspflichtig Beschäftigten |
 | § 59 | Beitragstragung bei anderen Mitgliedern |
+| § 59a | Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung |
 | § 60 | Beitragszahlung |
 |  |  |
 | Zweiter Abschnitt |
@@ -318,7 +319,7 @@
 | § 112 | Qualitätsverantwortung |
 | § 112a | Übergangsregelung zur Qualitätssicherung bei Betreuungsdiensten |
 | § 113 | Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität |
-| § 113a | Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege |
+| § 113a | (weggefallen) |
 | § 113b | Qualitätsausschuss |
 | § 113c | Personalbemessung in vollstationären Pflegeeinrichtungen |
 | § 114 | Qualitätsprüfungen |
@@ -345,6 +346,7 @@
 | § 124 | Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat |
 | § 125 | Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
 | § 125a | Modellvorhaben zur Erprobung von Telepflege |
+| § 125b | Kompetenzzentrum Digitalisierung und Pflege |
 |  |
 | Vierzehntes Kapitel |
 | Zulagenförderung der privaten Pflegevorsorge |
@@ -376,6 +378,7 @@
 | § 140 | Anzuwendendes Recht und Überleitung in die Pflegegrade |
 | § 141 | Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen |
 | § 142 | Übergangsregelungen im Begutachtungsverfahren |
+| § 142a | Übergangsregelung für eine telefonische Begutachtung |
 | § 143 | Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge |
 |  |  |
 | Zweiter Abschnitt |

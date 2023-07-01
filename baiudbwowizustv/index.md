@@ -7,6 +7,6 @@
 - [§ 4 Zuständigkeit nach dem Tierische Nebenprodukte-Beseitigungsgesetz](0004.md)
 - [§ 5 Zuständigkeit nach dem Infektionsschutzgesetz](0005.md)
 - [§ 6 Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz](0006.md)
-- [§ 7 Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz](0007.md)
+- [§ 7 Zuständigkeit nach dem Gefahrgutbeförderungsgesetz in Verbindung mit der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt](0007.md)
 - [§ 8 Zuständigkeit nach der Trinkwasserverordnung](0008.md)
 - [§ 9 Inkrafttreten, Außerkrafttreten](0009.md)

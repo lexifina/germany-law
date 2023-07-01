@@ -8,14 +8,17 @@ zuwiderhandelt.
 (2)
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Moselschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig
 1. entgegen § 1.02 Nr. 1 Satz 1 ein Fahrzeug oder einen Schwimmkörper oder entgegen § 1.02 Nr. 2 Satz 1 einen Verband führt, ohne hierfür geeignet zu sein,
+1a. entgegen § 1.03 Nummer 1 Satz 1 einer Anweisung nicht Folge leistet,
 2. entgegen § 1.03 Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
-3. entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
+3. entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 3, Dienst verrichtet,
 3a. entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine Rettungsweste trägt,
 3b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl das Schiff nicht stillliegt oder zu erwarten ist, dass die Arbeiten durch den übrigen Schiffsverkehr gefährdet werden,
 4. entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
+4a. entgegen § 1.10a Nummer 1 Satz 5 dort genannte Schiffspapiere nicht aufbewahrt,
 5. entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen benutzt, beschädigt oder unbrauchbar macht,
 6. entgegen § 1.15 Nr. 1 feste Gegenstände oder andere Stoffe in die Wasserstraße einbringt oder einleitet,
 7. entgegen § 1.16 Nr. 3 Satz 1 nicht die dort genannten Feststellungen ermöglicht,
+7a. entgegen § 1.17 Nummer 2 Satz 2 nicht an Bord oder nicht in der Nähe der Unfallstelle bleibt,
 8. ohne Erlaubnis nach § 1.23 eine dort genannte Veranstaltung, Arbeit oder Übung durchführt oder durchführen läßt,
 9. entgegen § 3.29 Nr. 2 Satz 1 von der Bezeichnung nach § 3.29 Nr. 1 Gebrauch macht,
 10. entgegen § 4.01 Nr. 3 Schallzeichen von einem Fahrzeug gibt, auf dem sich der Führer des Schleppverbandes nicht befindet,
@@ -85,7 +88,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 1. entgegen § 1.02 Nr. 4 während der Fahrt oder des Betriebes nicht an Bord ist,
 2. entgegen § 1.02 Nr. 5 Satz 3 erster Halbsatz, auch in Verbindung mit Satz 4, eine Anweisung des Schiffsführers des Verbandes nicht befolgt,
 3. entgegen § 1.02 Nummer 7 Satz 2 ein Fahrzeug führt, obwohl er eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper hat,
-4. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2 jemand vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+4. anordnet oder zulässt, dass entgegen § 1.03 Nummer 4 Satz 2, auch in Verbindung mit Satz 2, Dienst verrichtet wird,
 5. entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln nicht trifft und dadurch das Leben eines anderen gefährdet, ein Fahrzeug, einen Schwimmkörper, das Ufer, ein Regelungsbauwerk oder eine dort genannte Anlage beschädigt oder die Schiffahrt behindert,
 6. entgegen § 1.06 ein Fahrzeug oder einen Verband führt, dessen Länge, Breite, Höhe, Tiefgang oder Beladung nicht den Gegebenheiten der Wasserstraße oder der Anlagen angepaßt ist,
 7. ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nummer 3 die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
@@ -96,13 +99,13 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 7e. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 7f. der Vorschrift des § 1.08 Nummer 5 über das Öffnen, Entfernen oder Setzen von Geländern zuwiderhandelt,
 8. nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 vorgeschriebenen Person besetzt ist,
-9. nicht sicherstellt, daß die in § 1.10 Nr. 1 oder 3 Satz 2 genannten Urkunden oder sonstigen Unterlagen an Bord mitgeführt werden, oder entgegen § 1.10 Nr. 4 eine Urkunde oder sonstige Unterlage nicht oder nicht rechtzeitig aushändigt,
-10. ein Fahrzeug führt, auf dem sich entgegen § 1.11 ein Abdruck der dort genannten Verordnungen nicht an Bord befindet,
+9. entgegen § 1.10 Nummer 1 Satz 2 eine Urkunde oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
+10. entgegen § 1.10a Nummer 2 Satz 2 eine Bescheinigung nicht an Bord mitführt,
 11. ein Fahrzeug, einen Schwimmkörper oder eine schwimmende Anlage führt, auf denen entgegen § 1.12 Nr. 1 ein Gegenstand über die Bordwand hinausragt,
 12. ein Fahrzeug führt, dessen aufgeholter Anker entgegen § 1.12 Nr. 2 unter den Boden oder den Kiel reicht,
 13. entgegen § 1.12 Nr. 3 Satz 1 oder Nr. 4, § 1.13 Nr. 2 oder 3, § 1.14, § 1.15 Nr. 2, § 1.17 Nr. 1 Satz 2, Nr. 2 Satz 1, § 9.02 Nr. 3 Satz 2 oder § 11.03 Nummer 3 nicht oder nicht rechtzeitig für eine Benachrichtigung sorgt oder entgegen § 1.17 Nr. 1 Satz 1 eine Anzeige nicht oder nicht rechtzeitig vornimmt,
 14. entgegen § 1.16 Nr. 1 bei Unfällen nicht alle verfügbaren Mittel aufbietet oder entgegen § 1.16 Nr. 2 nicht oder nicht rechtzeitig Hilfe leistet,
-15. entgegen § 1.17 Nr. 2 Satz 2 nicht an Bord oder in der Nähe der Unfallstelle bleibt,
+15. (weggefallen)
 16. entgegen § 1.17 Nr. 3 nicht oder nicht rechtzeitig für eine Wahrschau sorgt,
 17. entgegen § 1.18 Nr. 1 oder 2 eine Maßnahme nicht trifft,
 18. einer vollziehbaren Anordnung nach § 1.19 Satz 1, auch in Verbindung mit Satz 2, zuwiderhandelt,
@@ -112,7 +115,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 22. entgegen § 1.25 lädt, löscht oder leichtert,
 23. ein Fahrzeug führt, das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist oder an dem entgegen § 2.04 Nr. 1 Satz 1 oder Nr. 2 Satz 1 Einsenkungsmarken oder Tiefgangsanzeiger nicht angebracht sind,
 24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
-25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter Halbsatz über Lichter oder Signalleuchten zuwiderhandelt,
+25. einer Vorschrift des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz zuwiderhandelt,
 26. einer Vorschrift des § 3.03 Nr. 1, 2 oder 3 zweiter Halbsatz, § 3.31 Nr. 1 Satz 3 oder § 3.32 Nr. 1 Satz 3 über Flaggen, Tafeln oder Wimpel oder des § 3.04 Nr. 2, 3 oder 4 Satz 2 über Zylinder, Bälle oder Kegel zuwiderhandelt,
 27. ein Fahrzeug, einen Verband, ein schwimmendes Gerät, einen Schwimmkörper, eine schwimmende Anlage, ein Fischereigerät oder einen Anker
   a) bei Nacht während des Stilliegens nach § 3.20 Nr. 1 Satz 1 oder Nr. 2, § 3.21, § 3.22, § 3.23 Satz 1, § 3.24 Satz 1 oder 2 erster Halbsatz, § 3.25 Nr. 1 Satz 1 Buchstabe a bis d oder Satz 2, Nr. 2 oder § 3.26 oder
@@ -123,9 +126,10 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 29. ein Fahrzeug oder eine schwimmende Anlage führt, auf dem eine Schiffsfunkstelle entgegen § 4.05 Nummer 1 Satz 1 nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
 29a. ein Fahrzeug führt, das nicht mit den vorgeschriebenen Sprechfunkanlagen nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, ausgerüstet ist,
 29b. ein Fahrzeug führt,
-  a) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist
-  b) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist oder
-  c) das entgegen § 4.07 Nummer 8 nicht mit einer dort genannten Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+  a) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
+  b) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+  c) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
+  d) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
 29c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
 30. einer Vorschrift über
   a) die Zusammenstellung der Verbände nach § 6.21 Nr. 1, 2 Satz 1, Nr. 3 oder 4 oder die Begehbarkeit der Schubverbände nach § 8.08,
@@ -158,17 +162,13 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 45. entgegen § 11.08 Nummer 1 bei der Restentladung oder bei der Abgabe oder Annahme von Abfällen aus dem Ladungsbereich die dort genannten Vorschriften nicht einhält oder
 46. entgegen § 11.08 Nummer 2 Satz 1 eine gültige Entladebescheinigung nicht an Bord hat.
 (5)
-Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Moselschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig als Mitglied der Besatzung
-1. entgegen § 1.03 Nr. 1 Satz 1 einer Anweisung des Schiffsführers nicht Folge leistet oder
-2. entgegen § 1.17 Nr. 2 Satz 2 nicht an Bord oder in der Nähe der Unfallstelle bleibt.
-(6)
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Moselschiffahrtspolizeiverordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster
 1. anordnet oder zuläßt, daß
   a) entgegen § 1.02 Nr. 1 Satz 1 ein Fahrzeug oder ein Schwimmkörper unter der Führung einer hierfür nicht geeigneten Person steht,
   b) der nach § 1.02 Nr. 2 Satz 3 vorgeschriebene Führer des Verbandes nicht oder nicht rechtzeitig bestimmt wird oder
   c) entgegen § 1.02 Nr. 4 der Schiffsführer während der Fahrt oder des Betriebes nicht an Bord ist,
 1a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
-2. nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder sonstigen Unterlagen sich an Bord befinden oder die in § 1.10 Nr. 3 Satz 1 zweiter Halbsatz genannten Schiffspapiere im Bereich der Baustelle verfügbar sind,
+2. (weggefallen)
 3. ohne Erlaubnis nach § 1.21 Nr. 1 Satz 2 einen Sondertransport durchführen läßt oder entgegen § 1.21 Nr. 1 Satz 4 einen Schiffsführer nicht bestimmt,
 4. anordnet oder zuläßt, daß entgegen § 1.25 geladen, gelöscht oder geleichtert wird,
 5. nicht dafür sorgt, daß Schwimmkörper oder schwimmende Anlagen in der nach § 3.23 vorgeschriebenen Weise bezeichnet werden,
@@ -185,21 +185,24 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   d) dessen Ladung entgegen § 1.07 Nr. 3 die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
   e) für das entgegen § 1.07 Nummer 4 Satz 2 nicht nachgewiesen ist, dass vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eine Stabilitätsprüfung durchgeführt wurde,
   f) das entgegen § 1.07 Nr. 5 mehr Fahrgäste als zugelassen an Bord hat,
-  g) das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
-  h) das entgegen § 2.03 nicht geeicht ist,
-  i) an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen § 2.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
-  j) dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
-  k) dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar sind oder ein gleichmäßiges, ununterbrochenes Licht nicht werfen oder entgegen § 3.02 Nr. 2 nicht den dort genannten Vorschriften entsprechen oder dessen Nachtbezeichnung entgegen § 3.02 Nr. 3 zweiter Halbsatz nicht die vorgeschriebene Tragweite hat,
-  l) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
-  m) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,
-  n) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
-  o) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist,
-  p) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
-  q) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
-  r) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
-  s) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
-  t) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
-  u) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
+  g) auf dem entgegen § 1.10a Nummer 2 Satz 2 eine dort genannte Bescheinigung nicht an Bord mitgeführt wird,
+  h) das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
+  i) das entgegen § 2.03 nicht geeicht ist,
+  j) an dem entgegen § 2.04 Nr. 1 Satz 1 Einsenkungsmarken oder entgegen § 2.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
+  k) dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
+  l) dessen Lichter oder Signalleuchten nicht den Vorschriften des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz entsprechen,
+  m) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
+  n) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,
+  o) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
+  p) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
+  q) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+  r) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
+  s) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
+  t) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
+  u) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
+  v) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
+  w) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
+  x) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
 11a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
 11b. die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
 12. anordnet oder zuläßt, daß entgegen § 8.04 Satz 1 an der Spitze des Schubverbandes Trägerschiffsleichter eingesetzt werden,

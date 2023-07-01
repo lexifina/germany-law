@@ -49,4 +49,5 @@
 
 ## Teil 7 Übergangsregelungen; Inkrafttreten
 
+- [§ 27a](0027a.md)
 - [§ 28 Inkrafttreten](0028.md)

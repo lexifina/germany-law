@@ -17,8 +17,9 @@ Moselstrecke anwendbare Bestimmungen
 - [§ 1.07 Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste](0001-07.md)
 - [§ 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge](0001-08.md)
 - [§ 1.09 Besetzung des Ruders](0001-09.md)
-- [§ 1.10 Mitführen von Urkunden und sonstigen Unterlagen](0001-10.md)
-- [§ 1.11 Mitführen der Moselschifffahrtspolizeiverordnung](0001-11.md)
+- [§ 1.10 Mitführen von Urkunden und sonstigen Unterlagen an Bord](0001-10.md)
+- [§ 1.10a Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord](0001-10a.md)
+- [§ 1.11 Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord](0001-11.md)
 - [§ 1.12 Gefährdung durch Gegenstände an Bord, Verlust von
 Gegenständen, Schiffahrtshindernisse](0001-12.md)
 - [§ 1.13 Schutz der Schiffahrtszeichen](0001-13.md)
@@ -58,7 +59,7 @@ der Fahrzeuge, Schiffseichung
 - [§ 3.01 Begriffsbestimmungen und Anwendungen
 
 (Anlage 3 Bild 1)](0003-01.md)
-- [§ 3.02 Lichter und Signalleuchten](0003-02.md)
+- [§ 3.02 Lichter](0003-02.md)
 - [§ 3.03 Flaggen, Tafeln und Wimpel](0003-03.md)
 - [§ 3.04 Zylinder, Bälle und Kegel](0003-04.md)
 - [§ 3.05 Verbotene oder ausnahmsweise zugelassene Lichter
@@ -324,3 +325,4 @@ oder überschritten sind](0010-02.md)
 - [Anlage 10](anlage-10.md)
 - [Anlage 11 Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“](anlage-11.md)
 - [Anlage 12 Verzeichnis der Fahrzeug- und Verbandsarten](anlage-12.md)
+- [Anlage 13 VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 MoselSchPV](anlage-13.md)

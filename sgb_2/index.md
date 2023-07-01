@@ -19,6 +19,7 @@
 
 - [§ 7 Leistungsberechtigte](0007.md)
 - [§ 7a Altersgrenze](0007a.md)
+- [§ 7b Erreichbarkeit](0007b.md)
 - [§ 8 Erwerbsfähigkeit](0008.md)
 - [§ 9 Hilfebedürftigkeit](0009.md)
 - [§ 10 Zumutbarkeit](0010.md)
@@ -35,8 +36,8 @@
 ### Abschnitt 1 Leistungen zur Eingliederung in Arbeit
 
 - [§ 14 Grundsatz des Förderns](0014.md)
-- [§ 15 Eingliederungsvereinbarung](0015.md)
-- [§ 15a (weggefallen)](0015a.md)
+- [§ 15 Potenzialanalyse und Kooperationsplan](0015.md)
+- [§ 15a Schlichtungsverfahren](0015a.md)
 - [§ 16 Leistungen zur Eingliederung](0016.md)
 - [§ 16a Kommunale Eingliederungsleistungen](0016a.md)
 - [§ 16b Einstiegsgeld](0016b.md)
@@ -47,6 +48,8 @@
 - [§ 16g Förderung bei Wegfall der Hilfebedürftigkeit](0016g.md)
 - [§ 16h Förderung schwer zu erreichender junger Menschen](0016h.md)
 - [§ 16i Teilhabe am Arbeitsmarkt](0016i.md)
+- [§ 16j Bürgergeldbonus](0016j.md)
+- [§ 16k Ganzheitliche Betreuung](0016k.md)
 - [§ 17 Einrichtungen und Dienste für Leistungen zur Eingliederung](0017.md)
 - [§ 18 Örtliche Zusammenarbeit](0018.md)
 - [§ 18a Zusammenarbeit mit den für die Arbeitsförderung zuständigen Stellen](0018a.md)

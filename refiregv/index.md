@@ -18,8 +18,7 @@ Unterabteilungen](0004.md)
 Registerführung
 
 - [§ 8 Begriff und allgemeine Anforderungen](0008.md)
-- [§ 9 Technische und organisatorische Maßnahmen zur Gewährleistung von
-Datenschutz und Datensicherheit](0009.md)
+- [§ 9 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit](0009.md)
 
 ## Teil 3 Schlussbestimmungen
 

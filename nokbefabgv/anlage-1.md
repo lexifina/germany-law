@@ -183,10 +183,14 @@
     | über 16 m bis 20 m | 41,– |
     | über 20 m | 43,– |
     | für jeden weiteren angefangenen Meter Länge zusätzlich | 1,– |
-  2.2 im Teilstreckenverkehr
-    | für jede angefangene Teilstrecke von 10 km | 10 % |
-    | für jede angefangene Teilstrecke mit Schleusenbenutzung des Betrages nach Nummer 1.1, | 15 % |
-    | mindestens jedoch | 9,– |
+  2.2 im Teilstreckenverkehr bei einer Länge
+    |  | Euro |
+    | bis 10 m | 7,– |
+    | über 10 m bis 12 m | 8,– |
+    | über 12 m bis 16 m | 18,– |
+    | über 16 m bis 20 m | 21,– |
+    | über 20 m | 23,– |
+    | für jeden weiteren Meter Länge zusätzlich | 1,– |
 3. Die Pauschalen nach § 3 Absatz 4 betragen pro Jahr
   3.1 für Sportfahrzeuge, die ihren ständigen Lager- oder Liegeplatz an der Eider oberhalb der Schleuse Lexfähr haben, bei einer Länge
     |  | Euro |

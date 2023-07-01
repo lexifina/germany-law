@@ -2,75 +2,70 @@
 
 |  | Staat | Dienstort | Zonenstufe |
 |  | 1 | 2 | 3 |
-| Abschnitt 1Europa |
-| 1 | Frankreich | Le Luc/Le Cannet-des-Maures/Draguignan | 4 |
-| 2 | Nancy/Toul | 3 |
-| 3 | Rochefort | 3 |
-| 4 | Italien | Catania/Sigonella/Lentini/Motta Sant´Anastasia | 4 |
-| 5 | Ghedi | 4 |
-| 6 | La Spezia | 2 |
-| 7 | Neapel/Giugliano | 3 |
-| 8 | Poggio Renatico/Ferrara | 4 |
-| 9 | Turin | 2 |
-| 10 | Litauen | Rukla | 9 |
-| 11 | Polen | Stettin | 5 |
-| 12 | Spanien | Albacete | 3 |
-| 13 | Betera | 2 |
-| 14 | Rota | 2 |
-| 15 | Saragossa | 3 |
-| 16 | Sevilla | 2 |
-| 17 | Valencia | 2 |
-| 18 | Tschechische Republik | Vyškov | 5 |
-| 19 | Vereinigtes Königreich | Andover (Hants) | 4 |
-| 20 | Bicester | 3 |
-| 21 | Blackwater | 3 |
-| 22 | Blandford | 4 |
-| 23 | Brize Norton | 3 |
-| 24 | Bristol | 3 |
-| 25 | Camberley | 3 |
-| 26 | Coningsby | 4 |
-| 27 | Culdrose/Helston | 3 |
-| 28 | Fareham | 3 |
-| 29 | High Wycombe/Waters Ash | 3 |
-| 30 | Honington | 3 |
-| 31 | Huntingdon | 3 |
-| 32 | Innsworth | 3 |
-| 33 | Lossiemouth | 4 |
-| 34 | Plymouth | 3 |
-| 35 | Portsmouth | 3 |
-| 36 | Preston/Warton | 3 |
-| 37 | Salisbury | 4 |
-| 38 |  | Shrivenham/Swindon | 3 |
-| 39 | Warminster | 4 |
-| 40 | Yeovil | 4 |
-| Abschnitt 2Amerika |
-| 41 | Kanada | Cold Lake | 9 |
-| 42 | Southport/Portage la Prairie | 9 |
-| 43 | Winnipeg | 9 |
-| 44 | Vereinigte Staaten | Alamogordo (New Mexico) | 8 |
-| 45 | Charleston AFB (South Carolina) | 6 |
-| 46 | Colorado Springs (Colorado) | 7 |
-| 47 | Dallas (Texas) | 9 |
-| 48 | Dayton (Ohio) | 7 |
-| 49 | El Paso/Fort Bliss (Texas) | 8 |
-| 50 | Fort Benning (Georgia) | 8 |
-| 51 | Fort Gordon (Georgia) | 8 |
-| 52 | Fort Huachuca (Arizona) | 10 |
-| 53 | Fort Leavenworth (Kansas) | 9 |
-| 54 | Fort Leonard Wood (Missouri) | 10 |
-| 55 | Fort Rucker/Enterprise (Alabama) | 9 |
-| 56 | Fort Sill (Oklahoma) | 9 |
-| 57 | Goodyear/Phoenix (Arizona) | 8 |
-| 58 | Huntsville/Redstone AFB (Alabama) | 8 |
-| 59 | Jacksonville/Mayport (Florida) | 8 |
-| 60 | Kirtland AFB/Albuquerque (New Mexico) | 8 |
-| 61 | Maxwell/Montgomery (Alabama) | 8 |
-| 62 | Orlando (Florida) | 6 |
-| 63 | Panama City/Tyndall AFB (Florida) | 8 |
-| 64 | Pensacola/Eglin AFB (Florida) | 8 |
-| 65 | Reston/Dulles AFB (Virginia) | 7 |
-| 66 | San Diego (Kalifornien) | 6 |
-| 67 | Sheppard AFB/Wichita Falls (Texas) | 9 |
-| 68 | Tampa (Florida) | 6 |
-| 69 | Tucson (Arizona) | 8 |
-| 70 | Wright Patterson AFB (Ohio) | 7 |
+| Abschnitt 1 Europa |
+| 1 | Frankreich | Le Luc/Le Cannet-des-Maures/ Draguignan | 4 |
+| 2 | Italien | Catania/Sigonella/Lentini/Motta Sant´Anastasia | 5 |
+| 3 | Ghedi | 5 |
+| 4 | Neapel/Giugliano | 5 |
+| 5 | Poggio Renatico/Ferrara | 5 |
+| 6 | Litauen | Rukla | 8 |
+| 7 | Polen | Stettin | 5 |
+| 8 | Spanien | Albacete | 3 |
+| 9 | Betera | 3 |
+| 10 | Moron | 3 |
+| 11 | Rota | 3 |
+| 12 | Saragossa | 3 |
+| 13 | Sevilla | 3 |
+| 14 | Valencia | 3 |
+| 15 | Tschechische Republik | Vyškov | 7 |
+| 16 | Vereinigtes Königreich | Andover (Hants) | 6 |
+| 17 | Bicester | 5 |
+| 18 | Blackwater | 5 |
+| 19 | Blandford | 6 |
+| 20 | Brize Norton | 5 |
+| 21 | Bristol | 5 |
+| 22 | Camberley | 5 |
+| 23 | Coningsby | 6 |
+| 24 | Culdrose/Helston | 5 |
+| 25 | Fareham | 5 |
+| 26 | High Wycombe/Waters Ash | 5 |
+| 27 | Honington/Cranwell RAF | 5 |
+| 28 | Huntingdon | 5 |
+| 29 | Innsworth | 5 |
+| 30 | Lossiemouth | 6 |
+| 31 | Plymouth | 5 |
+| 32 | Portsmouth | 5 |
+| 33 | Preston | 5 |
+| 34 | Salisbury | 6 |
+| 35 |  | Shawbury/Shrewsbury | 6 |
+| 36 | Shrivenham/Swindon | 5 |
+| 37 | Warminster | 6 |
+| 38 | Warton | 5 |
+| 39 | Yeovilton | 6 |
+| Abschnitt 2 Amerika |
+| 40 | Kanada | Cold Lake | 10 |
+| 41 | Kelowna | 7 |
+| 42 | Southport/Portage la Prairie | 10 |
+| 43 | St. Johns | 7 |
+| 44 | Winnipeg | 10 |
+| 45 | Vereinigte Staaten | Alamogordo (New Mexico) | 8 |
+| 46 | Albuquerque (New Mexico) | 8 |
+| 47 | Charleston AFB (South Carolina) | 7 |
+| 48 | Dallas (Texas) | 9 |
+| 49 | Dayton (Ohio)/Wright Patterson AFB | 8 |
+| 50 | Fort Huachuca (Arizona) | 10 |
+| 51 | Fort Leavenworth (Kansas) | 9 |
+| 52 | Fort Leonard Wood (Missouri) | 9 |
+| 53 | Fort Sill (Oklahoma) | 9 |
+| 54 | Goodyear/Phoenix (Arizona) | 9 |
+| 55 | Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia) | 6 |
+| 56 | Honolulu (Hawaii) | 10 |
+| 57 | Jacksonville/Maryport (Florida) | 9 |
+| 58 | Kirtland AFB (New Mexico) | 8 |
+| 59 | Monterey (Kalifornien) | 8 |
+| 60 | Panama City/Tyndall AFB (Florida) | 9 |
+| 61 | Pensacola/Eglin AFB (Florida) | 9 |
+| 62 | Reston/Dulles AFB (Virginia) | 8 |
+| 63 | Sheppard AFB/Wichita Falls (Texas) | 9 |
+| 64 | Tucson (Arizona) | 9 |
+| 65 | Yuma (Arizona) | 10 |
