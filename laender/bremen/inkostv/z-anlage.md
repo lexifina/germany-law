@@ -32,16 +32,16 @@ Nummer | Kostentatbestand | Kosten in EUR |
 110.02 | Genehmigung zum Erwerb von Orden und Ehrenzeichen zu Sammlerzwecken | 72 | 
 110.03 | Erteilung von Erlaubnissen für die Durchführung von nicht nach §§ 68 und 69 Gewerbeordnung (GewO) festgesetzten Märkten oder marktähnlichen Veranstaltungen, insbesondere Flohmärkten an Sonn- und Feiertagen | 72 bis 1 300 | 
 111 | Stiftungen und Vereine | Bei juristischen Personen, die weder gemeinnützig sind noch mildtätigen Zwecken dienen | Bei juristischen Personen, die gemeinnützig sind oder mildtätigen Zwecken dienen
-111.01 | Entscheidung über Anerkennung einer Stiftung nach § 80 Absatz 1 Bürgerliches Gesetzbuch (BGB) i.V.m. § 4 Bremisches Stiftungsgesetz BremStiftG), Verleihung der Rechtsfähigkeit an einen Verein nach § 22 BGB i.V.m. § 2 Ausführungsgesetz zum Bürgerlichen Gesetzbuch | 391 bis 10 000 | 196 bis 5 000
-111.02 | Entscheidungen über Genehmigungen nach § 8 Absatz 2 BremStiftG (Genehmigung zur Änderung der Satzung einer Stiftung, zum Zusammenschluss von Stiftungen, zur Auflösung einer Stiftung und zur Verlagerung des Sitzes einer Stiftung in das Land Bremen) und zu entsprechenden Maßnahmen bei Vereinen nach § 33 Absatz 2 BGB sowie nach § 33 Absatz 2 BGB i.V.m. Artikel 163 Einführungsgesetz zum Bürgerlichen Gesetzbuch (EGBGB) | 115 bis 3 000 | 58 bis 1 500
-111.03 | Entscheidung über Maßnahmen nach § 9 Absatz 1 BremStiftG i.V.m. § 87 BGB (Aufhebung einer Stiftung, Zweckänderung, Zusammenlegung von Stiftungen) | 190 bis 3 000 | 95 bis 1 500
+111.01 | Entscheidung über Anerkennung einer Stiftung nach §§ 80 Absatz 2, 82 Bürgerliches Gesetzbuch (BGB) i.V.m. § 2 Bremisches Stiftungsgesetz (BremStiftG), Verleihung der Rechtsfähigkeit an einen Verein nach § 22 BGB i.V.m. § 2 Ausführungsgesetz zum Bürgerlichen Gesetzbuch | 391 bis 10 000 | 196 bis 5 000
+111.02 | Entscheidungen über Genehmigungen nach § 85a BGB i.V.m. § 2 BremStiftG (Satzungsänderungen von Stiftungen), nach § 83c Absatz 2 BGB i.V.m. §§ 2, 3 BremStiftG (Ausnahmen vom Vermögenserhaltungsgrundsatz) und nach § 87 Absatz 3 BGB i.V.m. § 2 BremStiftG (Auflösungen von Stiftungen) und zu entsprechenden Maßnahmen bei Vereinen nach § 33 Absatz 2 BGB sowie nach § 33 Absatz 2 BGB i.V.m. Artikel 163 Einführungsgesetz zum Bürgerlichen Gesetzbuch (EGBGB) | 115 bis 3 000 | 58 bis 1 500
+111.03 | Entscheidungen über Zulegungen und Zusammenlegungen von Stiftungen nach §§ 86b, 86e BGB i.V.m. § 2 BremStiftG sowie über Aufhebungen nach § 87a BGB i.V.m. § 2 BremStiftG | 190 bis 3 000 | 95 bis 1 500
 111.04 | Entziehung der Rechtsfähigkeit eines Vereins nach § 43 BGB sowie nach § 43 BGB i.V.m. Artikel 163 EGBGB | 190 bis 3 000 | 95 bis 1 500
-111.05 | Aufsichtsmaßnahmen nach §§ 13 und 14 BremStiftG | 260 bis 10 000 | 130 bis 5 000
+111.05 | Aufsichtsmaßnahmen nach nach § 7 BremStiftG (Beanstandungen und Anordnungen), § 8 BremStiftG (Abberufung von Organmitgliedern, Bestellung von Beauftragten) und § 9 BremStiftG (Klärung und Geltendmachung von Schadensersatzansprüchen); Notmaßnahmen bei fehlenden Organmitgliedern nach § 84c BGB i.V.m. § 2 BremStiftG | 260 bis 10 000 | 130 bis 5 000
 111.06 | Bescheinigung über die Zusammensetzung des Vertretungsorgans einer juristischen Person, Bescheinigung über die Vertretungsbefugnis und über sonstige Rechtsverhältnisse nach § 1 des Gesetzes über die Ausstellung von Vertretungsbescheinigungen | 87 bis 500 | 44 bis 250
 111.07 | Bescheinigung nach Nummer 111.06 bei weiteren Ausfertigungen | 10 | 5
-111.08 | Prüfung nach § 12 Absatz 1 Satz 3 BremStiftG | 200 bis 10 000 | 100 bis 5 000
-111.09 | Prüfung der nach § 12 Absatz 2 Nummer 2 BremStiftG eingereichten Unterlagen | 44 bis 1 000 | gebührenfrei
-111.10 | Einsicht in das Stiftungsverzeichnis nach § 15 Absatz 2 Satz 2 BremStiftG | gebührenfrei | gebührenfrei
+111.08 | Prüfung nach § 6 Absatz 2 Satz 2 BremStiftG | 200 bis 10 000 | 100 bis 5 000
+111.09 | Prüfung der nach § 6 Absatz 3 Satz 1 Nummer 2 BremStiftG eingereichten Unterlagen | 44 bis 1 000 | gebührenfrei
+111.10 | (aufgehoben) |  | 
 111.11 | Ausführliche, über allgemeine Hinweise und Informationen hinausgehende Beratung einer bereits gegründeten privaten Stiftung oder bei geplanter privatnützigen Stiftungsgründung. | 100 bis 5 000 | gebührenfrei
 112 | Namensänderungsrecht |  | 
 112.01 | Familiennamensänderung nach § 1 Gesetz über die Änderung von Familiennamen und Vornamen (NamÄndG) oder Vornamensänderung nach § 11 NamÄndG | 208 bis 1 378 EUR | 
