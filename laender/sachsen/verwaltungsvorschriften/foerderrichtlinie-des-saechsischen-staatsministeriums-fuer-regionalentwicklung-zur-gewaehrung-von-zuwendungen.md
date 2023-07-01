@@ -1,8 +1,8 @@
 # Förderrichtlinie des Sächsischen Staatsministeriums für Regionalentwicklung zur Gewährung von Zuwendungen nach dem Investitionsgesetz Kohleregionen Vollzitat: Förderrichtlinie des Sächsischen Staatsministeriums für Regionalentwicklung zur Gewährung v
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-05-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19150.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19150.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.05.2021
+01.07.2023
 bis
-30.06.2023
+30.12.2023
 
 Förderrichtlinie des Sächsischen Staatsministeriums für Regionalentwicklung zur Gewährung von Zuwendungen
 
@@ -42,7 +42,7 @@ Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-Der Freistaat Sachsen gewährt auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, und auf der Grundlage der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu §§ 23 und 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 16. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in den jeweils geltenden Fassungen sowie nach Maßgabe dieser Richtlinie Zuwendungen für Investitionen (Projekte), die der Bewältigung des Strukturwandels und der Sicherung der Beschäftigung im Zuge des Ausstiegs aus dem Braunkohleabbau und der Verstromung von Braunkohle dienen. Ein Anspruch des Projektträgers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+Der Freistaat Sachsen gewährt auf der Grundlage von §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, und auf der Grundlage der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu §§ 23 und 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in den jeweils geltenden Fassungen sowie nach Maßgabe dieser Richtlinie Zuwendungen für Investitionen (Projekte), die der Bewältigung des Strukturwandels und der Sicherung der Beschäftigung im Zuge des Ausstiegs aus dem Braunkohleabbau und der Verstromung von Braunkohle dienen. Ein Anspruch des Projektträgers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsstelle auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 2.
 
@@ -94,22 +94,22 @@ Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendu
 
 •
 
-Verordnung (EU) Nr. 702/2014 der Kommission vom 25. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Arten von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 AEUV (ABl. L 193 vom 01.07.2014, S. 1), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1),
 
 
 •
 
-Verordnung (EU) Nr. 1388/2014 der Kommission vom 16. Dezember 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 AEUV (ABl. L 369 vom 24.12.2014, S. 37), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
+Verordnung (EU) 2022/2473 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen zugunsten von in der Erzeugung, Verarbeitung und Vermarktung von Erzeugnissen der Fischerei und der Aquakultur tätigen Unternehmen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 82),
 
 
 •
 
-Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 AEUV auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die zuletzt durch die Verordnung (EU) 2019/316 der Kommission vom 21. Februar 2019 (ABl. L 51 I vom 22.02.2019, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 AEUV auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24. Dezember 2013, S. 9), die zuletzt durch die Verordnung (EU) 2022/2046 der Kommission vom 24. Oktober 2022 (ABl. L 275 vom 25.10.2022, S. 55) geändert worden ist,
 
 
 •
 
-Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 AEUV auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (Abl. 190 vom 28.06.2014, S. 45), die zuletzt durch die Verordnung (EU) 2020/2008 der Kommission vom 8. Dezember 2020 (ABl. L 414 vom 9.12.2020, S. 15) geändert worden ist,
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 AEUV auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. 190 vom 28. Juni 2014, S. 45), die zuletzt durch die Verordnung (EU) Nr. 2022/2514 der Kommission vom 14. Dezember 2022 (ABl L 326 vom 21.12.2022 S. 8) geändert worden ist,
 
 
 •
@@ -119,7 +119,7 @@ Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23.
 
 b)
 
-Im Anwendungsbereich der Verordnungen (EU) Nr. 651/2014, Nr. 702/2014 sowie Nr. 1388/2014 dürfen keine Beihilfen an Unternehmen gewährt werden, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind. Die Gewährung von Beihilfen an Unternehmen in Schwierigkeiten ist im Anwendungsbereich der Verordnungen (EU) Nr. 651/2014, Nr. 702/2014, Nr. 1388/2014 sowie Nr. 360/2012 in der Regel ausgeschlossen. Im Übrigen sind die in der Anlage enthaltenen Vorgaben zu beachten.
+Im Anwendungsbereich der Verordnung (EU) Nr. 651/2014 sowie der Verordnungen (EU) 2022/2472 und 2022/2473 dürfen keine Beihilfen an Unternehmen gewährt werden, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind. Die Gewährung von Beihilfen an Unternehmen in Schwierigkeiten ist im Anwendungsbereich der Verordnungen (EU) Nr. 651/2014 und Nr. 360/2012 sowie der Verordnungen (EU) 2022/2472 und 2022/2473 in der Regel ausgeschlossen. Im Übrigen sind die in der Anlage enthaltenen Vorgaben zu beachten.
 
 
 c)
@@ -191,7 +191,7 @@ Projektträger im Sinne dieser Richtlinie und somit antragsberechtigt sind ferne
 
 a)
 
-Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts,
+Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts; Universitäten und Hochschulen jedoch nur, soweit das Vorhaben ausschließlich Investitionen in Wirtschaftsgüter umfasst,
 
 
 b)
@@ -286,17 +286,13 @@ Zuwendungsvoraussetzungen
 
 1.
 
-Bei Projekten von kommunalen Körperschaften mit vom Antragsteller im Antrag zugrunde gelegten Ausgaben von mehr als 1 000 000 Euro ist dem Finanzierungsplan nach Nummer 3.3.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (VVK) auch eine gemeindewirtschaftliche Stellungnahme gemäß Abschnitt B der VwV Kommunale Haushaltswirtschaft vom 11. Dezember 2017 (SächsABl. S. 1709), in der jeweils geltenden Fassung beizufügen.
+Bei Projekten von kommunalen Körperschaften mit vom Antragsteller im Antrag zugrunde gelegten Ausgaben von mehr als 1 000 000 Euro ist dem Finanzierungsplan nach Nummer 3.3.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (VVK) auch eine gemeindewirtschaftliche Stellungnahme gemäß Abschnitt B der VwV Kommunale Haushaltswirtschaft vom 31. Juli 2019 (SächsABl. S. 1179), enthalten in der Verwaltungsvorschrift vom 29. November 2021 (SächsABl. SDr. S. S 167), in der jeweils geltenden Fassung beizufügen.
 
 2.
 
-Dem Förderantrag ist eine angemessene Wirtschaftlichkeitsuntersuchung beizufügen. Das Nähere wird durch das Staatsministerium für Regionalentwicklung (SMR) bestimmt.
-
-3.
-
 Bei Baumaßnahmen bei denen die vorgesehenen Zuwendungen des Staates und des Bundes zusammen 1 000 000 Euro (beziehungsweise 1 500 000 Euro bei Baumaßnahmen kommunaler Körperschaften) übersteigen, ist die fachlich zuständige technische staatliche Verwaltung zu beteiligen.
 
-4.
+3.
 
 Zuwendungsvoraussetzung ist ferner, dass der Bund keine Einwendungen gemäß § 6 Absatz 2 der Bund-Länder-Vereinbarung zur Durchführung des Investitionsgesetzes Kohleregionen erhoben hat.
 
@@ -424,7 +420,7 @@ Vorschlagsverfahren für Projekte der Projektträger nach Ziffer III Nummer 2
 
 a)
 
-Die Projektträger reichen die Projektvorschläge mit einer Beschreibung, einer Kostenschätzung und einem Lageplan bei den Landkreisen oder der Stadt Leipzig ein. Diese unterziehen die Vorschläge einer inhaltlich-fachlichen Vorprüfung und beziehen die Sächsische Agentur für Strukturentwicklung GmbH (SAS), die Landesdirektion Sachsen und bei Bedarf die Kommunen in geeigneter Weise ein. Die Landkreise und die Stadt Leipzig reichen ihre Vorschläge bei der SAS ein, welche die Landesdirektion Sachsen in geeigneter Weise einbezieht.
+Die Projektträger reichen die Projektvorschläge mit einer Beschreibung, einer Kostenschätzung und einem Lageplan sowie einer angemessenen, an den Grundsätzen des § 7 Absatz 2 der Sächsischen Haushaltsordnung und der Verwaltungsvorschrift zu § 7 der Sächsischen Haushaltsordnung ausgerichteten Wirtschaftlichkeitsuntersuchung bei den Landkreisen oder der Stadt Leipzig ein. Diese unterziehen die Vorschläge einer inhaltlich-fachlichen Vorprüfung und beziehen die Sächsische Agentur für Strukturentwicklung GmbH (SAS), die Landesdirektion Sachsen und bei Bedarf die Kommunen in geeigneter Weise ein. Die Landkreise und die Stadt Leipzig reichen ihre Vorschläge bei der SAS ein, welche die Landesdirektion Sachsen in geeigneter Weise einbezieht.
 
 
 b)
@@ -473,12 +469,12 @@ Die Regionalen Begleitausschüsse übersenden sodann die abschließend abgestimm
 g)
 
 
-Das Bundesministerium für Wirtschaft und Energie (BMWi) ist berechtigt, solche Projekte von der Förderung auszuschließen, die ihrer Art nach nicht der im Investitionsgesetz Kohleregionen und in der Bund-Länder-Vereinbarung zur Durchführung des Investitionsgesetzes Kohleregionen festgelegten Zweckbindung entsprechen oder die gänzlich ungeeignet sind, zur Verwirklichung der Förderziele beizutragen.
+Das Bundesministerium für Wirtschaft und Klimaschutz (BMWK) ist berechtigt, solche Projekte von der Förderung auszuschließen, die ihrer Art nach nicht der im Investitionsgesetz Kohleregionen und in der Bund-Länder-Vereinbarung zur Durchführung des Investitionsgesetzes Kohleregionen festgelegten Zweckbindung entsprechen oder die gänzlich ungeeignet sind, zur Verwirklichung der Förderziele beizutragen.
 
 
 h)
 
-Projektvorschläge, gegen die das BMWi keine Einwände erhoben hat, sind durch den Projektträger, der zuvor durch die SAS über die grundsätzliche Förderfähigkeit und Förderwürdigkeit des Projektes informiert wurde, als Förderanträge ausschließlich in elektronischer Form bei der SAB einzureichen (siehe Online-Antragsverfahren unter www.sab.sachsen.de).
+Projektvorschläge, gegen die das BMWK keine Einwände erhoben hat, sind durch den Projektträger, der zuvor durch die SAS über die grundsätzliche Förderfähigkeit und Förderwürdigkeit des Projektes informiert wurde, als Förderanträge ausschließlich in elektronischer Form bei der SAB einzureichen (siehe Online-Antragsverfahren unter www.sab.sachsen.de).
 
 
 i)
@@ -489,11 +485,6 @@ Dem Förderantrag soll eine abschließende Stellungnahme des zuständigen Landkr
 j)
 
 Ergeben sich bis zur Bewilligung durch die SAB wesentliche Änderungen des Projektvorschlages, so ist das Vorschlagsverfahren gemäß Ziffer VIII Nummer 1 Buchstaben a bis f erneut zu durchlaufen.
-
-
-k)
-
-Nachbewilligungen sind grundsätzlich ausgeschlossen. Der Begleitausschuss kann in begründeten Ausnahmefällen eine maximal 10 prozentige Erhöhung der ursprünglichen Förderung beschließen, sofern in dem Haushaltsjahr genügend Haushaltsmittel verfügbar sind.
 
 2.
 
@@ -525,15 +516,39 @@ Auszahlungs- und Verwendungsnachweisverfahren
 
 a)
 
-Für die Bewilligung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit diese Förderrichtlinie nichts anderes bestimmt.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit diese Förderrichtlinie nichts anderes bestimmt.
 
 
 b)
 
-Die Auszahlung der Zuwendung richtet sich nach den Vorgaben der Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 7.1 VVK.
+Die Auszahlung der Zuwendung richtet sich, sofern nachfolgend nichts Abweichendes geregelt ist, nach den Vorgaben der Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 7.1 VVK.
+
+
+In Abweichung zu den Vorgaben der Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung erfolgt die erste pauschalierte Auszahlung in Höhe von 40 Prozent der Zuwendung im Vorauszahlungsprinzip ohne Verwendungsfrist nach Bestandskraft des Zuwendungsbescheides, Anzeige des Vorhabensbeginns sowie Erfüllung der gegebenenfalls an eine Auszahlung geknüpften Auflagen. Es ist kein Auszahlungsantrag vorzulegen. 
+
+
+In Abweichung zu den Vorgaben der Nummer 7.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 7.2 VVK kann bei Projekten mit einer Gesamtzuwendung über 150 000 Euro und einem Umsetzungszeitraum von mehr als einem Jahr die zweite Auszahlungsrate hälftig aufgesplittet werden. In diesen Fällen kann zwischen Anzeige des Vorhabensbeginns und Vorlage des Verwendungsnachweises eine weitere Auszahlung in Höhe von 25 Prozent der Gesamtzuwendung (ohne Verwendungsfrist) erfolgen. Diese Auszahlung ist an die Vorlage eines Auszahlungsantrages geknüpft, der Angaben zur bisherigen Verausgabung umfasst. Der Abruf kann frühestens dann erfolgen, wenn der vorher erhaltene Auszahlungsbetrag durch den Zuwendungsempfänger verausgabt wurde. 
+
+
+Für Zuwendungsempfangende, die sich nicht zu 100 Prozent in Trägerschaft (Beteiligung) des Freistaates Sachsen oder seiner Gemeinden oder Landkreise befinden und die ohne Gewinnerzielungsabsicht tätig sind und für die eine Vorfinanzierung auch unter Berücksichtigung der mit der Anzeige des Vorhabensbeginns auszuzahlenden 40 Prozent der Gesamtzuwendung aus wirtschaftlichen Gründen, die zu belegen sind, nicht möglich ist, gilt abweichend von Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Die Teilauszahlungen sollen mindestens 200 000 Euro betragen. Festlegungen hierzu trifft die Bewilligungsstelle durch Bescheid.
 
 
 c)
+
+Der Zuwendungsempfangende ist verpflichtet, eine Belegliste bzw. das Bauausgabebuch zu führen. Wurde gemäß Ziffer V Nummer 3 eine baufachliche Prüfung im Bewilligungsverfahren vorgenommen, erfolgt die standardmäßige Einbindung des Staatsbetriebes Sächsisches Immobilien- und Baumanagement (SIB) in das Auszahlungsverfahren zur Ausgabenprüfung ab der zweiten Auszahlung.
+
+
+d)
+
+Zweimal jährlich sind Projektstatusberichte zu erbringen, spätestens bis zum 30. April und bis zum 30. September eines Jahres jeweils mit aktuellem Datenstand.
+
+
+e)
+
+Für Zuwendungen nach ANBest-K ist in Abweichung zu Nummer 6.1. ANBest-K die Verwendung der Zuwendung spätestens sechs Monate nach Ablauf des Bewilligungszeitraums der Bewilligungsbehörde nachzuweisen.
+
+
+f)
 
 Abweichend von Nummer 8.8 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung beziehungsweise Nummer 8 VVK können Beträge, die nicht zweckentsprechend sowie gemäß den Vorgaben des Investitionsgesetzes Kohleregionen und der Bund-Länder-Vereinbarung zur Durchführung des Investitionsgesetzes Kohleregionen verwendet wurden, in Höhe des Finanzierungsanteils des Bundes zurückgefordert werden, wenn der zurückzuzahlende Betrag 36 Euro je Projekt übersteigt.
 
@@ -567,11 +582,6 @@ Die Regionalen Begleitausschüsse werden durch die SAS, welche die Geschäftsste
 
 
 X.
-Übergangsregelung
-
-Bis zum Inkrafttreten dieser Richtlinie vorliegende Anträge zur 1. Richtlinie des Sächsischen Staatsministeriums für Regionalentwicklung zum Sächsischen Strukturentwicklungsprogramm in den Braunkohlerevieren vom 31. August 2020 (SächsABl. S. 1063), die durch die Richtlinie vom 20. Januar 2021 (SächsABl. S. 99) geändert worden ist, werden als Anträge auf Förderung nach dieser Richtlinie übernommen.
-
-XI.
 Inkrafttreten
 
 Diese Richtlinie tritt mit Wirkung vom 1. Mai 2021 in Kraft.
@@ -591,7 +601,7 @@ Sofern die Maßnahmen nach der Richtlinie als staatliche Beihilfen auf Grundlage
 Anwendbare Freistellungstatbestände
 
 
-Eine Förderung kann auf der Grundlage aller einschlägigen Artikel der AGVO, der AgrarFVO sowie der FischereiVO gewährt werden.
+Eine Förderung kann auf der Grundlage aller einschlägigen Artikel der AGVO, der AgrarFVO sowie der FischereiFVO gewährt werden.
 
 2.
 
@@ -600,7 +610,7 @@ Förderverbot
 
 Von der Förderung ausgeschlossen sind Unternehmen beziehungsweise Sektoren in den Fällen des Artikel 1 Absatz 2 bis 5 AGVO.
 
-Von der Förderung ausgeschlossen sind ferner Unternehmen beziehungsweise Sektoren in den Fällen des Artikels 1 Absatz 4 bis 7 AgrarFVO sowie in den Fällen des Artikels 1 Absatz 3 und 4 FischereiVO.
+Von der Förderung ausgeschlossen sind ferner Unternehmen beziehungsweise Sektoren in den Fällen des Artikels 1 Absatz 4 bis 7 AgrarFVO sowie in den Fällen des Artikels 1 Absatz 3 und 4 FischereiFVO.
 
 3.
 
@@ -655,11 +665,11 @@ Informationen über jede Einzelbeihilfe von über
 
 a)
 
-60 000 Euro bei Beihilfeempfängern, die in der landwirtschaftlichen Primärproduktion tätig sind oder
+10 000 Euro bei Beihilfeempfängern, die in der landwirtschaftlichen Primärproduktion tätig sind oder
 
 b)
 
-500 000 Euro bei Beihilfeempfängern, die in der Verarbeitung oder der Vermarktung landwirtschaftlicher Erzeugnisse oder in der Forstwirtschaft tätig sind oder Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV fallen,
+100 000 Euro bei Beihilfeempfängern, die in der Verarbeitung oder der Vermarktung landwirtschaftlicher Erzeugnisse oder in der Forstwirtschaft tätig sind oder Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV fallen,
 
 
 werden gemäß Artikel 9 Absatz 2 Buchstabe c in Verbindung mit Anhang III der AgrarFVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
@@ -669,7 +679,7 @@ werden gemäß Artikel 9 Absatz 2 Buchstabe c in Verbindung mit Anhang III der A
 FischereiFVO:
 
 
-Informationen über jede Einzelbeihilfe von über 30 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der FischereiFVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
+Informationen über jede Einzelbeihilfe von über 10 000 Euro werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der FischereiFVO auf einer ausführlichen Beihilfe-Website veröffentlicht.
 
 9.
 
@@ -680,10 +690,10 @@ Beihilfefähige Kosten sind die Kosten des für die jeweilige Maßnahme einschl�
 
 10.
 
-Geltungsdauer der Freistellungsverordnungen (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 AGVO; Artikel 51 Abs. 4 in Verbindung mit Artikel 52 AgrarFVO sowie Artikel 46 Absatz 3 in Verbindung mit Artikel 47 FischereiFVO)
+Geltungsdauer der Freistellungsverordnungen (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 AGVO; Artikel 63 Abs. 4 in Verbindung mit Artikel 64 AgrarFVO sowie Artikel 58 Absatz 4 in Verbindung mit Artikel 59 FischereiFVO)
 
 
-Die Freistellungstatbestände der AGVO gelten bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024. Die Freistellungstatbestände der AgrarFVO sowie der FischereiFVO gelten bis zum 31. Dezember 2022 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2023. Sollte die Freistellungsverordnungen nicht verlängert oder ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen Freistellungsverordnungen vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
+Die Freistellungstatbestände der AGVO gelten bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024. Die Freistellungstatbestände der AgrarFVO sowie der FischereiFVO gelten bis zum 31. Dezember 2029 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2030. Sollte die Freistellungsverordnungen nicht verlängert oder ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen Freistellungsverordnungen vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
 
 Verweis auf Bundesgesetze
 
@@ -695,9 +705,9 @@ Fsn-Nr.: 5501-V21.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Mai 2021
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 30. Dezember 2023
 
 Drucken/Speichern
 
@@ -722,7 +732,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19150.1
+https://www.revosax.sachsen.de/vorschrift/19150.2
 Stand vom
 18.11.2026
 
