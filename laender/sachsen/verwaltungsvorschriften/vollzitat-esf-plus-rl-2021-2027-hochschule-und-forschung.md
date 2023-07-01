@@ -1,8 +1,8 @@
 # Vollzitat: ESF Plus RL 2021-2027 Hochschule und Forschung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-09-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19718.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19718.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.09.2022
+01.07.2023
 bis
-30.06.2023
+04.01.2024
 
 ESF Plus RL 2021-2027 Hochschule und Forschung
 
@@ -42,7 +42,7 @@ Diese Förderrichtlinie regelt die Gewährung von Zuwendungen zur Förderung von
 
 2.
 
-Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Dezember 2021 (SächsABl. S. 1723), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
+Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Mai 2023 (SächsABl. S. 576), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
 
 3.
 
@@ -331,7 +331,7 @@ Die Bewilligungsstelle ist nach pflichtgemäßem Ermessen berechtigt, die Förde
 
 j)
 
-Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
+Abweichend vom Erstattungsprinzip gemäß Nummer 6.3.2 Satz 1 der EU-Rahmenrichtlinie erfolgen Auszahlungen in Form von Vorauszahlungen aufgrund entsprechender Auszahlungsanträge des Zuwendungsempfängers gegenüber der Bewilligungsstelle. Die Maßgaben nach Nummer 7.5 Satz 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung finden Anwendung. Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
 
 
 k)
@@ -584,7 +584,7 @@ Der Verwendungsnachweis zum Vorhabenende ist innerhalb von zwei Monaten nach End
 
 k)
 
-Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
+Abweichend vom Erstattungsprinzip gemäß Nummer 6.3.2 Satz 1 der EU-Rahmenrichtlinie erfolgen Auszahlungen in Form von Vorauszahlungen aufgrund entsprechender Auszahlungsanträge des Zuwendungsempfängers gegenüber der Bewilligungsstelle. Die Maßgaben nach Nummer 7.5 Satz 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung finden Anwendung. Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
 
 
 l)
@@ -772,7 +772,7 @@ Der Verwendungsnachweis zum Vorhabenende ist innerhalb von zwei Monaten nach End
 
 f)
 
-Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
+Abweichend vom Erstattungsprinzip gemäß Nummer 6.3.2 Satz 1 der EU-Rahmenrichtlinie erfolgen Auszahlungen in Form von Vorauszahlungen aufgrund entsprechender Auszahlungsanträge des Zuwendungsempfängers gegenüber der Bewilligungsstelle. Die Maßgaben nach Nummer 7.5 Satz 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung finden Anwendung. Die Bewilligungsstelle ist zum Einbehalt einer Schlussrate berechtigt.
 
 
 g)
@@ -800,9 +800,9 @@ Fsn-Nr.: 5572-V22.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. September 2022
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis:  4. Januar 2024
 
 Drucken/Speichern
 
@@ -827,7 +827,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19718.1
+https://www.revosax.sachsen.de/vorschrift/19718.2
 Stand vom
 18.11.2026
 
