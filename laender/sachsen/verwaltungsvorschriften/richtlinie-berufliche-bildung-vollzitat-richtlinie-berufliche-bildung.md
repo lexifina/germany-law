@@ -1,8 +1,8 @@
 # Richtlinie Berufliche Bildung Vollzitat: Richtlinie Berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.2
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2023
+01.07.2023
 bis
-30.06.2023
+18.10.2023
 
 Richtlinie Berufliche Bildung
 
@@ -45,7 +45,7 @@ Der Freistaat Sachsen gewährt nach Maßgabe dieser Richtlinie Zuwendungen zur S
 
 2.
 
-Die Förderung erfolgt nach §§ 23, 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der dazugehörigen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 6. April 2021 (SächsABl. S. 434) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung.
+Die Förderung erfolgt nach §§ 23, 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der dazugehörigen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung.
 
 3.
 
@@ -79,6 +79,11 @@ Meisterbonus;
 
 
 III.
+Sonstige Zuwendungsvoraussetzungen
+
+Die Bewilligungsbehörde lässt auf Antrag des Zuwendungsempfängers die Verwendung anderer, zur Erreichung des Zuwendungszwecks gleichwertiger Standards zu, soweit diese wirtschaftlich sind. Die für die Beurteilung des Antrags erforderlichen Angaben sind diesem beizufügen.
+
+IV.
 Verfahren
 
 1.
@@ -158,7 +163,7 @@ Für Lehrgänge der überbetrieblichen Lehrunterweisung im Handwerk haben die F�
 
 4.
 
-Art und Umfang, Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendungen
 
 
 a)
@@ -205,12 +210,12 @@ Der Zuwendungsempfänger wird verpflichtet, für jeden Verbundteilnehmenden bei 
 Ein Muster zu Art und Form der Teilnahme-/Lehrgangsbescheinigungen und der kumulierten Übersicht sind der Internetseite der Bewilligungsstelle zu entnehmen.
 
 
-Abweichend von Nummer 5.4 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung hat der Zuwendungsempfänger zum Zeitpunkt der Abrechnung zur Nachweisführung für jeden Verbundteilnehmenden die Teilnahme-/Lehrgangsbescheinigungen und die kumulierte Übersicht der Bewilligungsstelle vorzulegen.
+Der Zuwendungsempfänger hat zum Zeitpunkt der Abrechnung zur Nachweisführung für jeden Verbundteilnehmenden die Teilnahme-/Lehrgangsbescheinigung und die kumulierte Übersicht der Bewilligungsstelle vorzulegen.
 
 
 c)
 
-Der Zuschuss wird nur für bewilligte, tatsächlich absolvierte und nachgewiesene volle Teilnehmerwochen beim Verbundpartner gezahlt.
+Die Auszahlung erfolgt gemäß Nummer 7.6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung. Der Zuschuss wird nur für bewilligte, tatsächlich absolvierte und nachgewiesene volle Teilnehmerwochen beim Verbundpartner gezahlt.
 
 
 d)
@@ -222,7 +227,8 @@ Der Verwendungsnachweis ist innerhalb von einem Monat nach Ende des Bewilligungs
 Sonstige Zuwendungsbestimmungen
 
 
-Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form einer Verbundausbildung. Abweichend von Nummer 1.4 Satz 1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der Verbundausbildung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
+Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form einer Verbundausbildung. Abweichend von Nummer 1.4 Satz 1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der Verbundausbildung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.  
+
 
 II.
 Überbetriebliche Lehrunterweisung im Handwerk
@@ -350,14 +356,15 @@ Die erforderlichen Angaben und ein Muster zu Art und Form der Lehrgangs-/Überna
 
 f)
 
-Die Zuwendung wird in Abstimmung mit der Bewilligungsstelle nach Nummer 7.1 oder 7.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung ausgezahlt.
+Die Zuwendung wird nach Nummer 7.5 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung ausgezahlt. Durch die Bewilligungsbehörde werden im Zuwendungsbescheid für jeden Einzelfall Regelungen zur Zulassung mehrerer Vorauszahlungen getroffen.
 
 6.
 
 Sonstige Zuwendungsbestimmungen
 
 
-Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form der überbetrieblichen Lehrunterweisung. Abweichend von Nummer 1.4 Satz 2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der überbetrieblichen Lehrunterweisung und gegebenenfalls notwendigen auswärtigen Unterbringung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
+Das Vorhaben ist die Durchführung der betrieblichen Ausbildung in Form der überbetrieblichen Lehrunterweisung. Abweichend von Nummer 1.4 Satz 2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Vorhaben auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes geschlossen beziehungsweise mit der überbetrieblichen Lehrunterweisung und gegebenenfalls notwendigen auswärtigen Unterbringung vor Antragstellung begonnen wurde. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.  
+
 
 III.
 Überbetriebliche Ausbildung in der Land-, Forst- und Hauswirtschaft
@@ -486,15 +493,16 @@ Die erforderlichen Angaben und ein Muster zu Art und Form der kumulierten Übers
 
 d)
 
+Die Auszahlung erfolgt gemäß Nummer 7.6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung.
+
+
+e)
+
 Der Verwendungsnachweis ist zum Vorhabensende innerhalb von sechs Monaten nach Ende des Bewilligungszeitraums bei der Bewilligungsstelle einzureichen. Ein Zwischennachweis ist nicht vorzulegen.
 
 6.
 
-Sonstige Zuwendungsbestimmungen
-
-
-Zuwendungen dürfen auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes vor Antragstellung geschlossen und mit der Ausbildung oder dem ausbildungsintegrierenden Studium begonnen wurde.
-
+Abweichend von Nummer 1.4 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Zuwendungen auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes vor Antragstellung geschlossen und mit der Ausbildung oder dem ausbildungsintegrierenden Studium begonnen wurde.
 
 IV.
 Meisterbonus
@@ -578,12 +586,12 @@ Das Landesamt für Umwelt, Landwirtschaft und Geologie ist abweichend von Teil A
 
 b)
 
-Die Handwerkskammern und die Industrie- und Handelskammern tragen Sorge dafür, dass die Einzelbeträge in Höhe von 1 000 Euro in würdevollem Rahmen (zum Beispiel Meisterfeier) an die Absolventinnen und Absolventen übergeben werden und erkennbar ist, dass es sich um eine Zuwendung des Freistaates Sachsen handelt.
+Die Handwerkskammern und die Industrie- und Handelskammern tragen Sorge dafür, dass die Einzelbeträge in Höhe von 2 000 Euro in würdevollem Rahmen (zum Beispiel Meisterfeier) an die Absolventinnen und Absolventen übergeben werden und erkennbar ist, dass es sich um eine Zuwendung des Freistaates Sachsen handelt.
 
 
 c)
 
-Die Auszahlung an die Handwerkskammern und die Industrie- und Handelskammern erfolgt auf Antrag bei der SAB jeweils in engem zeitlichen Zusammenhang mit der Übergabe der Prämien an die Absolventinnen und Absolventen. Der Antrag enthält eine Liste mit der Anzahl der erfolgreichen Absolventinnen und Absolventen nach Fortbildungsabschlüssen.
+Die Auszahlung erfolgt gemäß Nr. 7.6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung. Die Auszahlung an die Handwerkskammern und die Industrie- und Handelskammern erfolgt auf Antrag bei der SAB jeweils in engem zeitlichen Zusammenhang mit der Übergabe der Prämien an die Absolventinnen und Absolventen. Der Antrag enthält eine Liste mit der Anzahl der erfolgreichen Absolventinnen und Absolventen nach Fortbildungsabschlüssen.
 
 
 d)
@@ -693,9 +701,9 @@ Der Staatsminister des Innern
 Prof. Dr. Roland Wöller
 
 Anlage
-(zu Buchstabe B Ziffer IV ÜBS)
+(zu Buchstabe B Ziffer V ÜBS)
 
-Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021(ABl. L 270 vom 29.07.2021, S.39) und die Verordnung (EU) Nr. 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten:
+Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021(ABl. L 270 vom 29.07.2021, S.39) und die Verordnung (EU) 2023/1315 der Kommission vom 23. Juni 2023 (ABl. L 167 vom 30.06.2023, S. 1) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten:
 
 1.
 
@@ -730,7 +738,7 @@ Kleine und mittlere Unternehmen oder KMU im Sinne dieser Förderrichtlinie sind 
 Beachtung der Anmeldeschwelle (Artikel 4 Absatz 1 Buchstabe z Doppelbuchstabe cc der AGVO)
 
 
-Die Investitionsförderung darf pro Vorhaben einen Schwellenwert von 10 Millionen Euro oder einen Betrag von 20 Millionen Euro der Gesamtkosten für dieselbe Infrastruktur nicht überschreiten. 
+Die Investitionsförderung darf pro Vorhaben einen Schwellenwert von 11 Millionen Euro oder einen Betrag von 22 Millionen Euro der Gesamtkosten für dieselbe Infrastruktur nicht überschreiten. 
 
 6.
 
@@ -758,14 +766,14 @@ Nach dieser Förderrichtlinie gewährte Förderungen können kumuliert werden mi
 Transparenz (Artikel 9 Absatz 1 der AGVO)
 
 
-Es wird darauf hingewiesen, dass Informationen über jede Einzelbeihilfe von über 500 000 Euro auf einer ausführlichen Beihilfe-Website veröffentlicht werden.
+Es wird darauf hingewiesen, dass Informationen über jede Einzelbeihilfe von über 100 000 Euro auf einer ausführlichen Beihilfe-Website veröffentlicht werden.
 
 10.
 
 Geltungsdauer (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 der AGVO)
 
 
-Die Laufzeit für die Förderung nach Buchstabe B Ziffer IV ist bis zum Ablauf des Jahres 2023 befristet.
+Die Laufzeit für die Förderung nach Buchstabe B Ziffer IV ist bis zum Ablauf des Jahres 2026 befristet.
 
 
 Verweis auf Bundesgesetze
@@ -778,9 +786,9 @@ Fsn-Nr.: 5573-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2023
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 18. Oktober 2023
 
 Drucken/Speichern
 
@@ -805,7 +813,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19567.2
+https://www.revosax.sachsen.de/vorschrift/19567.3
 Stand vom
 18.11.2026
 
