@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-01-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.6
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.01.2023
+01.07.2023
 bis
-30.06.2023
+04.07.2024
 
 RL Landes-Technologieförderung
 
@@ -408,6 +408,9 @@ Nach Abschluss des Vorhabens sind der abschließende Sachbericht zum Grant Agree
 Der Zuwendungsbescheid ergeht zugleich als Betrauungsakt im Sinne der Verordnung (EU) Nr. 360/2012 oder des Beschlusses 2012/21/EU.
 
 
+Zuwendungsempfänger ist der Konsortialführer. Dieser leitet die Zuwendung an die zuwendungsfähigen Konsortialpartner entsprechend deren Anteil an den förderfähigen Gesamtkosten weiter. Für die Auszahlung der Zuwendung gelten die Regelungen von Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Danach erfolgt die Auszahlung der Zuwendung in mehreren Tranchen nach Stellung eines Auszahlungsantrags gemäß den im Zuwendungsbescheid festgelegten Auszahlungszeitpunkten. Die Zuwendung darf nur insoweit und nicht eher ausgezahlt werden, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt wird. Die Schlussrate in Höhe von 10 Prozent der Zuschusssumme wird nach Abschluss der Prüfung des Verwendungsnachweises, aber spätestens sechs Monate nach Vorlage des vollständigen Verwendungsnachweises (einschließlich von nachgeforderten Unterlagen), ausgezahlt.
+
+
 7.
 
 Beihilferechtliche Bestimmungen
@@ -520,6 +523,9 @@ Verfahren
 
 
 Der Zuwendungsbescheid beschreibt die förderfähigen Tätigkeiten und ergeht zugleich als Betrauungsakt im Sinne der Verordnung (EU) Nr. 360/2012 oder des Beschlusses 2012/21/EU.
+
+
+Für die Auszahlung der Zuwendung gelten die Regelungen von Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Danach erfolgt die Auszahlung der Zuwendung in mehreren Tranchen nach Stellung eines Auszahlungsantrags gemäß den im Zuwendungsbescheid festgelegten Auszahlungszeitpunkten. Die Zuwendung darf nur insoweit und nicht eher ausgezahlt werden, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt wird. Die Schlussrate in Höhe von 10 Prozent der Zuschusssumme wird nach Abschluss der Prüfung des Verwendungsnachweises, aber spätestens sechs Monate nach Vorlage des vollständigen Verwendungsnachweises (einschließlich von nachgeforderten Unterlagen), ausgezahlt.
 
 
 7.
@@ -928,6 +934,8 @@ d)
 
 Die Auszahlung der Zuwendung erfolgt nach Rechnungslegung und nach Prüfung des Verwendungsnachweises.
 
+Die Bewilligungsstelle kann gemäß Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung Regelungen zur Zulassung mehrerer Vorauszahlungen im Zuwendungsbescheid festlegen.
+
 
 7.
 
@@ -1192,6 +1200,11 @@ Bescheinigung des Wirtschaftsprüfers oder Steuerberaters, dass der Antragstelle
 bb)
 
 eine Vorhabensbeschreibung mit Darstellung und Begründung der beantragten investiven Maßnahme(n) und den angestrebten Auswirkungen auf die Innovationsstärke des Antragstellers und seiner Partner und Kunden in der sächsischen Wirtschaft.
+
+
+c)
+
+Für die Auszahlung der Zuwendung gelten die Regelungen von Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Danach erfolgt die Auszahlung der Zuwendung in mehreren Tranchen nach Stellung eines Auszahlungsantrags gemäß den im Zuwendungsbescheid festgelegten Auszahlungszeitpunkten. Die Zuwendung darf nur insoweit und nicht eher ausgezahlt werden, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt wird. Die Schlussrate in Höhe von 10 Prozent der Zuschusssumme wird nach Abschluss der Prüfung des Verwendungsnachweises, aber spätestens sechs Monate nach Vorlage des vollständigen Verwendungsnachweises (einschließlich von nachgeforderten Unterlagen), ausgezahlt.
 
 
 8.
@@ -1608,9 +1621,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Januar 2023
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis:  4. Juli 2024
 
 Drucken/Speichern
 
@@ -1635,7 +1648,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.6
+https://www.revosax.sachsen.de/vorschrift/17309.7
 Stand vom
 18.11.2026
 
