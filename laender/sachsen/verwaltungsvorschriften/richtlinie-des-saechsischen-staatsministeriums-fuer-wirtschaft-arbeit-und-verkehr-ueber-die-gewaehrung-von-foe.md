@@ -1,8 +1,8 @@
-# Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln für Schmalspurbahnen Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung 
+# Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln im öffentlichen Personennahverkehr Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über 
 
 - Herausgeber: Freistaat Sachsen
 - Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14111.2
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11471.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,126 +27,332 @@ Historische Fassung
 war gültig vom
 01.07.2023
 bis
-25.10.2023
+23.10.2025
 
-Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln für Schmalspurbahnen 
+Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln im öffentlichen Personennahverkehr 
 
 
-Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln für Schmalspurbahnen 
-
-vom 15. August 2014 (SächsABl. S. 1086), die zuletzt durch die Richtlinie vom 26. Oktober 2023 (SächsABl. S. 1475) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  5. Dezember 2025 (SächsABl. SDr. S. S 286)
+Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Gewährung von Fördermitteln im öffentlichen Personennahverkehr  vom 24. August 2010 (SächsABl. SDr. S. S 135), die zuletzt durch die Richtlinie vom  2. Oktober 2025 (SächsABl. S. 1027) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  5. Dezember 2025 (SächsABl. SDr. S. S 286)
 
 I.
 
 
-Zuwendungszweck; Rechtsgrundlagen
+Allgemeine Förderung
 
 1.
 
 
-Die Förderung nach dieser Richtlinie dient der Unterstützung der Schmalspurbahnen im Freistaat Sachsen. Schmalspurbahnen im Sinne dieser Richtlinie sind alle öffentlichen nichtbundeseigenen Eisenbahnen mit einer Spurweite von 750 mm sowie Parkeisenbahnen, die auf Grund von Artikel 3 Satz 3 des 
-
-Gesetzes zur Regelung der Rechtsverhältnisse bei Eisenbahnen und Seilbahnen im Freistaat Sachsen vom 12. März 1998 (SächsGVBl. S. 97) in Verbindung mit § 8 Abs. 1 Satz 1 der Bau- und Betriebsordnung für Pioniereisenbahnen (BOP) vom 15. Februar 1979 (MBl. SB Sonderdruck Nummer 1) genehmigt wurden.
+Zuwendungszweck; Rechtsgrundlagen 
 
 
-2.
+1.1
 
 
-Der Freistaat Sachsen gewährt für diesen Zweck nach den §§ 23, 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung – SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Gesetz vom 6. Mai 2014 (SächsGVBl. S. 286) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), zuletzt geändert durch Verwaltungsvorschrift vom 18. Dezember 2013 (SächsABl. 2014 S. 223), zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848), in der jeweils geltenden Fassung, sowie nach dieser Richtlinie Zuwendungen.
+Die Förderung nach dieser Richtlinie dient der Verbesserung der Bedingungen im schienen- und straßengebundenen öffentlichen Personennahverkehr (ÖPNV) im Freistaat Sachsen.
 
 
-3.
+1.2
 
 
-Ein Rechtsanspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die Bewilligungsbehörde entscheidet über Förderfähigkeit, Art, Umfang und Höhe der Zuwendung aufgrund pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel. Vor der Bewilligung von Zuwendungen für einzelne Vorhaben ist die Beihilfekonformität von der Bewilligungsbehörde zu prüfen und sicherzustellen.
+Der Freistaat Sachsen gewährt für diese Zwecke nach den §§ 23, 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung – SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 225), zuletzt geändert durch Verwaltungsvorschrift vom 14. Juli 2010 (SächsABl. S. 1111), in der jeweils geltenden Fassung, des § 8 Abs. 2 des Gesetzes zur Regionalisierung des öffentlichen Personennahverkehrs (Regionalisierungsgesetz – RegG) vom 27. Dezember 1993 (BGBl. I S. 2378, 2395), das zuletzt durch Gesetz vom 12. Dezember 2007 (BGBl. I S. 2871) geändert worden ist, des Gesetzes über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden (Gemeindeverkehrsfinanzierungsgesetz – GVFG) in der Fassung der Bekanntmachung vom 28. Januar 1988 (BGBl. I S. 100), zuletzt geändert durch Artikel 323 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328), des Gesetzes über den öffentlichen Personennahverkehr im Freistaat Sachsen (ÖPNVG) vom 14. Dezember 1995 (SächsGVBl. S. 412, 449), zuletzt geändert durch Artikel 36 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130), der Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Finanzierung des öffentlichen Personennahverkehrs (ÖPNVFinVO) vom 29. April 2009 (SächsGVBl. S. 232), geändert durch Verordnung vom 21. Dezember 2010 (SächsGVBl. S. 444) und dieser Richtlinie Zuwendungen für Maßnahmen zur Verbesserung des ÖPNV im Freistaat Sachsen.
 
 
-4.
+1.3
 
 
-Die Bewilligungsbehörde kann im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr in besonders begründeten Einzelfällen für museale Einrichtungen die das materielle Kulturerbe Schmalspurbahnen pflegen im Rahmen des Zuwendungszweckes nach Nummer 1 und bei Beachtung des Gleichbehandlungsgrundsatzes Ausnahmen von den Bestimmungen der Zuwendungsempfänger nach Ziffer III dieser Richtlinie machen.
+Im Rahmen der Gewährung von Fördermitteln nach Maßgabe des Gemeindeverkehrsfinanzierungsgesetzes gelten die hierzu erlassenen Vorschriften in der jeweils geltenden Fassung unter Beachtung der in dieser Richtlinie vorgenommenen Konkretisierungen.                      
+
+1.4
 
 
-II.
+Ein Rechtsanspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die Bewilligungsbehörde entscheidet über Förderfähigkeit, Art, Umfang und Höhe der Zuwendung aufgrund pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 
-Gegenstand der Förderung
-
-1.
+1.5
 
 
-Förderfähig sind der Bau, der Umbau, die Modernisierung und die Ertüchtigung von Werkstätten zur Wartung, Instandhaltung und Instandsetzung von Schmalspurbahnfahrzeugen, unter Berücksichtigung des Werkstattkonzeptes der Sächsischen Schmalspurbahnen.
+Die Bewilligungsbehörde kann im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr in besonders begründeten Einzelfällen Ausnahmen von den Bestimmungen dieser Richtlinie machen.
 
 
-2.
+2. 
 
 
-Förderfähig für die nicht im Schienenpersonennahverkehr betriebenen Schmalspurbahnen nach Ziffer I Nr. 1 sind insbesondere:
+Gegenstand der Förderung 
 
 
-a)
+2.1
 
 
-der Bau und die Instandsetzung der eisenbahntechnisch und -technologisch erforderlichen Infrastruktur (Oberbau, Unterbau, Ingenieurbauwerke, Betriebsstellen, Sicherungstechnik),
+Förderfähig sind Vorhaben, die der Verbesserung des ÖPNV dienen, insbesondere Investitionen in Infrastruktur und Fahrzeuge. Dabei können jedoch grundsätzlich nur solche Vorhaben gefördert werden, die den Anforderungen der Barrierefreiheit nach § 4 des Gesetzes zur Gleichstellung behinderter Menschen (Behindertengleichstellungsgesetz – BGG) vom 27. April 2002 (BGBl. I S. 1467, 1468), das zuletzt durch Artikel 7 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) geändert worden ist, entsprechen. Nach Anhörung der zuständigen Behindertenbeauftragten oder der zuständigen Behindertenbeiräte können im Einzelfall auch Fahrzeuge ohne barrierefreie Ausstattung gefördert werden. Verfügt eine Gebietskörperschaft nicht über Behindertenbeauftragte oder Behindertenbeiräte, sind stattdessen die Verbände, die nach § 13 Abs. 3 BGG anerkannt sind, anzuhören.                                  
+
+2.2
 
 
-b)
+Nicht förderfähig sind Vorhaben der Unterhaltung und Instandsetzung.
 
 
-der Bau und die Instandsetzung von Verkehrsstationen und Empfangsgebäuden,
+2.3
 
 
-c)
+Im Schienenpersonennahverkehr (SPNV) sind insbesondere förderfähig:
 
 
-der Bau von Abstellanlagen für Schmalspurfahrzeuge,
+–
 
 
-d)
+der Bau oder Ausbau der eisenbahntechnisch und -technologisch erforderlichen Infrastruktur sowie der grundhafte Ausbau von SPNV-Strecken (Oberbau, Unterbau, Ingenieurbauwerke, Betriebsstellen, Sicherungstechnik),
 
 
-die erforderlichen Haupt- und Zwischenuntersuchungen der Schmalspurbahnlokomotiven.
+–
 
 
-3.
+der Bau oder Ausbau von Verkehrsstationen und Bahnhöfen,
 
 
-Nicht förderfähig sind Planungs- und Projektierungsleistungen (alle Leistungsphasen der Verordnung über die Honorare für Architekten- und Ingenieursleistungen [Honorarordnung für Architekten und Ingenieure               –                 HOAI] vom 10. Juli 2013 [BGBl. I S. 2276]), Abnahme- und sonstige Kosten, investitionsvorbereitende Maßnahmen (Studien) und Aufwendungen für den Betrieb der Schmalspurbahnen, insbesondere Betriebskosten sowie Eigenleistungen.              
+–
 
 
-III.
+der Bau oder Ausbau von Betriebshöfen und Werkstätten für Fahrzeuge des SPNV,
 
 
-Zuwendungsempfänger
-
-Zuwendungsempfänger können die Betreiber und Eigentümer von bestehenden Schmalspurbahnen im Freistaat Sachsen sein.
+–
 
 
-IV.
+die Beschaffung von Fahrzeugen für den SPNV.
 
 
-Zuwendungsvoraussetzungen
-
-Der Antragsteller muss darstellen, dass die Förderung ausschließlich dem Schutz, der Bewahrung, Restaurierung oder Sanierung von Schmalspurbahnen dient, die im Freistaat Sachsen ein wichtiges materielles Kulturerbe sind.
+2.4
 
 
-V.
+Im straßengebundenen ÖPNV sind insbesondere förderfähig:
 
 
-Art, Umfang und Höhe der Zuwendung
+–
 
-1.
+
+der Bau oder Ausbau von Straßenbahntrassen auf besonderem Bahnkörper sowie deren grundhafter Ausbau (Grunderneuerung),
+
+
+–
+
+
+der Bau oder Ausbau von Bahnen besonderer Bauart,
+
+
+–
+
+
+der Bau oder Ausbau von Betriebshöfen und zentralen Werkstätten für Straßenbahnen und Omnibusse,
+
+
+–
+
+
+der Bau oder Ausbau von Zentralen Omnibusbahnhöfen (ZOB),
+
+
+–
+
+
+der Bau oder Ausbau von Haltestellen und Wendeschleifen beziehungsweise Wendeplätzen,
+
+
+–
+
+
+der Bau oder Ausbau von Haltestelleneinrichtungen,
+
+
+–
+
+
+der Aufbau von Leit-, Service- und Beschleunigungssystemen insbesondere rechnergestützte Betriebsleitsysteme und technische Maßnahmen zur Steuerung von Lichtsignalanlagen,
+
+
+–
+
+
+die Beschaffung von Straßenbahnfahrzeugen,
+
+
+–
+
+
+die Beschaffung von Linienomnibussen.
+
+
+Die Bewilligungsbehörde kann auf Antrag des Zuwendungsempfängers die Verwendung anderer Standards zur Erreichung des Zuwendungszwecks zulassen, soweit diese unter funktionalen und wirtschaftlichen Aspekten gleichwertig sind.
+
+
+2.5
+
+
+Darüber hinaus sind förderfähig:
+
+
+–
+
+
+der Bau und Ausbau von Verknüpfungsstellen,
+
+
+–
+
+
+der Bau oder Ausbau von Umsteigeparkplätzen (zum Beispiel PPlätze, BAnlagen) die dem Übergang zum SPNV und straßengebundenen ÖPNV dienen sollen,
+
+
+–
+
+
+der Bau oder Ausbau von Fähranlagen,
+
+
+–
+
+
+die Beschaffung von Fährschiffen,
+
+
+–
+
+
+Fahrgastabfertigungs- und Informationstechnik,
+
+
+–
+
+
+die Ausstattung von Fahrzeugen und Haltestellen mit Sicherheitstechnik, soweit sie ausschließlich dem Schutz der ÖPNV-Nutzer dient,
+
+
+–
+
+
+Planungs- und Projektierungsleistungen (alle Leistungsphasen der Verordnung über die Honorare für Architekten- und Ingenieurleistungen [              Honorarordnung für Architekten und Ingenieure – HOAI] vom 11. August 2009 [BGBl. I S. 2732]), Abnahme- und sonstige Kosten,                                  
+
+
+–
+
+
+investitionsvorbereitende Maßnahmen (Studien).
+
+
+3. 
+
+
+Zuwendungsempfänger 
+
+
+Zuwendungen können folgenden Antragstellern gewährt werden:
+
+
+3.1
+
+
+Nahverkehrsunternehmen und Schieneninfrastrukturunternehmen, deren Schienenwege von Nahverkehrsunternehmen genutzt werden,
+
+
+3.2
+
+
+kommunalen Gebietskörperschaften und deren Zusammenschlüssen nach § 4 Abs. 1 ÖPNVG.
+
+
+4. 
+
+
+Zuwendungsvoraussetzungen 
+
+
+Voraussetzungen für die Gewährung einer Zuwendung sind:
+
+
+4.1
+
+
+Allgemeine Zuwendungsvoraussetzungen
+
+
+4.1.1
+
+
+Der Antragsteller muss nachweisen, dass:
+
+
+–
+
+
+mit dem Vorhaben eine Verbesserung des ÖPNV im Freistaat Sachsen erreichbar ist,
+
+
+–
+
+
+die Zielsetzungen des Nahverkehrsplanes gemäß § 8 Abs. 3 des Personenbeförderungsgesetzes (PBefG) in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 23 des Gesetzes vom 2. März 2023 (BGBl. 2023 I Nr. 56) geändert worden ist, in Verbindung mit § 5 ÖPNVG beachtet wurden,
+
+
+–
+
+
+Belange behinderter und anderer Menschen mit Mobilitätsbeeinträchtigung berücksichtigt werden und das Vorhaben den Anforderungen der Barrierefreiheit möglichst weit reichend entspricht,
+
+
+–
+
+
+bei der Vorhabensplanung die zuständigen Behindertenbeauftragten oder Behindertenbeiräte gehört wurden. Verfügt eine Gebietskörperschaft nicht über Behindertenbeauftragte oder Behindertenbeiräte sind stattdessen die entsprechenden Verbände im Sinne des § 5 BGG anzuhören.                      
+
+4.1.2
+
+
+Der Antragsteller hat anzugeben, ob er für die beantragte Maßnahme bereits andere Fördermittel beantragt oder erhalten hat.
+
+
+4.1.3
+
+
+Bei Zuwendungen an kommunale Gebietskörperschaften oder deren Zusammenschlüsse nach § 4 Abs. 1 ÖPNVG ab 2,5 Millionen EUR ist eine landesplanerische Stellungnahme bei der höheren Raumordnungsbehörde einzuholen. Liegt diese innerhalb von sechs Wochen nach Antragstellung nicht vor, wird von einer Zustimmung ausgegangen.
+
+
+4.1.4
+
+
+Sofern Zuwendungen für Maßnahmen an kommunale Gebietskörperschaften oder deren Zusammenschlüsse nach § 4 Abs. 1
+
+ÖPNVG ausgereicht werden sollen, ist eine positive gemeindewirtschaftsrechtliche Stellungnahme der zuständigen Rechtsaufsichtsbehörde gemäß § 112 Abs. 1 der Gemeindeordnung für den Freistaat Sachsen (SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die zuletzt durch Artikel 17 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, erforderlich.
+
+
+4.1.5
+
+
+Anträge kommunaler Gebietskörperschaften oder deren Zusammenschlüsse nach § 4 Abs. 1 ÖPNVG auf Zuwendung sind spätestens am 1. Dezember vor Beginn des Haushaltsjahres, in dem das Vorhaben begonnen werden soll, der zuständigen Rechtsaufsichtsbehörde vorzulegen.
+
+
+4.2
+
+
+Besondere Zuwendungsvoraussetzungen 
+
+
+Die in Nummer 2 dieser Richtlinie aufgeführten förderfähigen Fahrzeuge sollen neu sein. Bei der Fahrzeugbeschaffung ist nur der Kauf zuwendungsfähig. Bei der Beschaffung von Linienomnibussen wird ein für den Linienverkehr nach § 42 PBefG erforderlicher Standard vorausgesetzt. Abweichend zur Förderung von neuen Fahrzeugen können bei der Beschaffung von Linienomnibussen auch Vorführwagen, die nicht länger als sechs Monate und ausschließlich auf den Fahrzeughersteller zugelassen waren und eine Maximallaufleistung von 10 000 km aufweisen, gefördert werden.
+
+5. 
+
+
+Art, Umfang und Höhe der Zuwendung 
+
+
+5,1
 
 
 Zuwendungsart 
 
 
-Die Zuwendung erfolgt als Projektförderung nach Nummer 2.1 der 
-
-VwV zu § 23 SäHO . 
+Die Zuwendung erfolgt als Projektförderung nach Nummer 2.1 VwV zu § 23 SäHO.
 
 
-2.
+5.2
 
 
 Finanzierungsart 
@@ -155,203 +361,741 @@ Finanzierungsart
 Die Zuwendung wird ausschließlich zur Teilfinanzierung des zu erfüllenden Zwecks bewilligt, und zwar: 
 
 
-a)
+–
 
 
 grundsätzlich nach einem bestimmten Vomhundertsatz oder Anteil der zuwendungsfähigen Ausgaben (Anteilfinanzierung),
 
 
-b)
+–
 
 
-oder im Einzelfall im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr mit einem festen Betrag an den zuwendungsfähigen Ausgaben (Festbetragsfinanzierung) in Höhe bis zum Regelfördersatz von bis zu 75 Prozent.
+oder im Einzelfall im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr mit einem festen Betrag an den zuwendungsfähigen Ausgaben (Festbetragsfinanzierung).
 
 
-3.
+5.3
 
 
 Form der Zuwendung 
 
 
-Die Zuwendung erfolgt als nicht rückzahlungspflichtiger Zuschuss. 
+Die Zuwendung erfolgt als nicht rückzahlungspflichtiger Zuschuss beziehungsweise als Zuweisung. 
 
 
-4.
+5.4
 
 
 Bemessungsgrundlage
 
 
-a)
+5.4.1
 
 
 Zuwendungsfähige Ausgaben 
 
 
-Bemessungsgrundlage der Zuwendung sind grundsätzlich die zuwendungsfähigen Ausgaben. 
+Bemessungsgrundlage der Zuwendung sind grundsätzlich die zuwendungsfähigen Ausgaben. Unter Beachtung der Nummer 13a 
 
-
-Zuwendungsfähig sind die Ausgaben, die im Rahmen der in Ziffer II dieser Richtlinie aufgeführten förderfähigen Vorhaben anfallen. Beim Grunderwerb sind nur die Ausgaben für Gestehungskosten zuwendungsfähig. Vorteile, die dem Träger des Vorhabens neben der Verbesserung der Infrastruktur entstehen, sind angemessen auszugleichen. Bei Hochbaumaßnahmen sind die Kostengruppen der DIN 276 zugrunde zu legen (vergleiche 
-
-Muster 5 zu § 44 SäHO). 
+VwV zu § 44 SäHO können im Einzelfall auch die zuwendungsfähigen Kosten Bemessungsgrundlage der Zuwendung sein. Dabei tritt soweit zulässig an die Stelle des Wortes „Ausgaben“ in dieser Richtlinie das Wort „kosten“. Zuwendungsfähig sind die Ausgaben, die im Rahmen der in Nummer 2 dieser Richtlinie aufgeführten förderfähigen Vorhaben anfallen. Dies sind insbesondere die Ausgaben für den Verkehrsweg, die dazugehörigen Betriebsanlagen sowie die Ausgaben der erstmaligen Bepflanzung und Begrünung und die Ausgaben für planungsrechtlich erforderliche Begleitmaßnahmen. Beim Grunderwerb sind nur die Ausgaben für Gestehungskosten zuwendungsfähig. Vorteile, die dem Träger des Vorhabens neben der Verbesserung der Verkehrsverhältnisse entstehen, sind angemessen auszugleichen. Bei Hochbaumaßnahmen sind die Kostengruppen der DIN 276 zugrunde zu legen (vergleiche Muster 5 zu § 44 SäHO).
 
 
 Nicht zuwendungsfähig sind insbesondere: 
 
 
-aa)
+–
 
 
 Ausgaben, die ein anderer als der Träger des Vorhabens zu tragen verpflichtet ist (zum Beispiel Kostenanteile nach dem Eisenbahnkreuzungsrecht, Erschließungsbeiträge),
 
 
-bb)
+–
 
 
-Umsatzsteuerbeträge, die der Träger des Vorhabens als Vorsteuer nach § 15 des                 Umsatzsteuergesetzes (UStG) in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 9 des Gesetzes vom 25. Juli 2014 (BGBl. I S. 1266, 1287) geändert worden ist, in der jeweils geltenden Fassung, als Abzug geltend machen kann,            
+Umsatzsteuerbeträge, die der Träger des Vorhabens als Vorsteuer nach § 15 des Umsatzsteuergesetzes (UStG) in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 17 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) geändert worden ist, als Abzug geltend machen kann,                      
 
 
-cc)
+–
 
 
 Finanzierungsausgaben,
 
 
-dd)
+–
 
 
-Ausgaben für den Erwerb solcher Grundstücke und Grundstücksteile, die nicht unmittelbar oder nicht dauernd für das Vorhaben benötigt werden,
+Ausgaben für den Erwerb solcher Grundstücke und Grundstücksteile, die nicht unmittelbar oder nicht dauernd für das Vorhaben benötigt werden, es sei denn, dass sie nicht nutzbar sind, sowie von Grundstücken oder Grundstücksteilen, die vor dem 1. Januar 1961 erworben worden sind.
 
 
-ee)
-
-
-Ausgaben für Verwaltung und Marketing.
-
-
-b)
+5.4.2
 
 
 Höhe der Zuwendung 
 
 
-Die Höhe der Zuwendung beträgt bis zu 75 Prozent der zuwendungsfähigen Ausgaben. 
+Die Höhe der Zuwendung beträgt für Infrastrukturmaßnahmen bis zu 75 vom Hundert der zuwendungsfähigen Ausgaben des Vorhabens. Die Höhe der Zuwendung beträgt für Fahrzeuge bis zu 50 vom Hundert der zuwendungsfähigen Ausgaben. Abweichend davon beträgt die Höhe der Zuwendung für Fahrzeuge ohne barrierefreie Ausstattung bis zu 40 vom Hundert der zuwendungsfähigen Ausgaben. Die Zuwendung je Linienomnibus, beträgt jedoch höchstens: 
 
 
-In begründeten Einzelfällen kann im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr der Fördersatz auf bis zu 90 Prozent der zuwendungsfähigen Ausgaben erhöht werden. 
+–
 
 
-VI.
+für zweiachsige Standard-Linienomnibusse mit einer Gesamtlänge von mindestens 10 m (SL) 
 
 
-Sonstige Zuwendungsbestimmungen
-
-Die Dauer der Zweckbindung geförderter Vorhaben erfolgt grundsätzlich auf der Grundlage der zum Zeitpunkt des Erlasses des Zuwendungsbescheides aktuellen AfA-Tabelle (Absetzung für Abnutzung) des Bundesministeriums der Finanzen für die Personen- und Güterbeförderung im Schienen- und Straßenverkehr. Sie beträgt maximal 25 Jahre.
+bei nicht barrierefreier Ausstattung 
 
 
-VII.
+95 000,00 EUR, 
 
 
-Verfahren
+76 000,00 EUR, 
 
-1.
+
+–
+
+
+für Standard-Großlinienomnibusse mit einer Gesamtlänge von über 14 m (SGL) 
+
+
+bei nicht barrierefreier Ausstattung 
+
+
+120 000,00 EUR, 
+
+
+96 000,00 EUR, 
+
+
+–
+
+
+für Standard-Linienomnibusse mit einer Gesamtlänge zwischen 8 und 10 m (Midibusse/MD) 
+
+
+bei nicht barrierefreier Ausstattung 
+
+
+75 000,00 EUR, 
+
+
+60 000,00 EUR, 
+
+
+–
+
+
+für Standard-Gelenkomnibusse (SG), Doppelstockbusse und O-Busse
+
+
+bei nicht barrierefreier Ausstattung
+
+
+145 000,00 EUR,
+
+
+116 000,00 EUR, 
+
+
+–
+
+
+für Kleinbusse 
+
+
+bei nicht barrierefreier Ausstattung 
+
+
+50 000,00 EUR, 
+
+
+40 000,00 EUR. 
+
+
+Ausgaben für Planung und Projektierung können bis maximal 75 vom Hundert bezuschusst werden. Bei Großprojekten der Deutschen Bahn AG können Ausgaben für Planung und Projektierung nach den zu diesem Zeitpunkt bundesweit üblichen Vereinbarungen bezuschusst werden (derzeit werden 7 vom Hundert der zuwendungsfähigen Investitionskosten des Projektes als Ansatz für die Bemessung des Förderbetrages herangezogen). 
+
+
+Investitionsvorbereitende Maßnahmen können bis zu 75 vom Hundert bezuschusst werden. 
+
+
+In begründeten Einzelfällen kann im Einvernehmen mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr der Fördersatz auf bis zu 90 vom Hundert erhöht werden. 
+
+
+6. 
+
+
+Sonstige Zuwendungsbestimmungen 
+
+
+6.1
+
+
+Die Dauer der Zweckbindung geförderter Vorhaben – mit Ausnahme der Förderung von Linienomnibussen – ergibt sich aus der aktuellen AfA-Tabelle (Absetzung für Abnutzung) des Bundesministeriums für Finanzen für die Personen- und Güterbeförderung im Schienen- und Straßenverkehr.
+
+
+6.2
+
+
+Bei der Förderung von Linienomnibussen hat die Einsatzdauer grundsätzlich mindestens acht Jahre, über- wiegend im Linienverkehr nach § 42 PBefG zu betragen. Diese kann durch eine Laufleistung von mehr als 600 000 km überwiegend in dieser Verkehrsart ersetzt werden. Abweichend davon hat bei der Förderung von Midi- und Kleinbussen die Einsatzdauer mindestens sechs Jahre, überwiegend im Linienverkehr nach § 42 PBefG zu betragen. Diese kann bei Midibussen durch eine Laufleistung von mehr als 500 000 km und bei Kleinbussen durch eine Laufleistung von mehr als 400 000 km überwiegend in dieser Verkehrsart ersetzt werden.                      
+
+6.3
+
+
+Rollendes Material ist nur zuwendungsfähig, wenn es im Freistaat Sachsen eingesetzt wird. Bei Einsatz von rollendem Material auf grenzüberschreitenden Linien soll der Einsatz überwiegend im Freistaat Sachsen erfolgen.
+
+
+7. 
+
+
+Verfahren 
+
+
+7.1
+
+
+ÖPNV-Landesprogramm 
+
+
+Ein Vorhaben, das gefördert werden soll, ist bei der Bewilligungsbehörde zur Aufnahme in das ÖPNV-Landesprogramm anzumelden. Die Anmeldung für die Busförderung ist nach Muster der Anlage 1* bei der Bewilligungsbehörde vorzulegen. Für andere Vorhaben sind unter anderem folgende Unterlagen beizufügen: 
+
+
+–
+
+
+Beschreibung des Vorhabens,
+
+
+–
+
+
+vereinfachte Ausgabenberechnung,
+
+
+–
+
+
+Übersicht über beabsichtigte Finanzierung,
+
+
+–
+
+
+Darlegung, dass das Vorhaben nach Art und Umfang zur Verbesserung der Bedingungen im ÖPNV dringend erforderlich ist.
+
+
+Über die Aufnahme in das Landesprogramm entscheidet das Staatsministerium für Wirtschaft, Arbeit und Verkehr auf der Grundlage von Vorschlägen der Bewilligungsbehörden. Das Programm umfasst einen Zeitraum von fünf Jahren und wird vom Staatsministerium für Wirtschaft, Arbeit und Verkehr jährlich unter Berücksichtigung der voraussichtlich verfügbaren Mittel sowie eingetretener Ausgabenänderungen aufgestellt und fortgeschrieben.
+
+
+7.2
 
 
 Antragsverfahren
 
 
+7.2.1
+
+
 Allgemeines 
 
 
-Die Zuwendung wird auf schriftlichen Antrag gewährt. 
+Die Zuwendung wird auf schriftlichen Antrag gewährt. Mit der Antragstellung zur Gewährung von Fördermitteln sind stets folgende Unterlagen einzureichen:
 
 
-Mit der Antragstellung zur Gewährung von Fördermitteln sind stets folgende Unterlagen einzureichen: 
+–
 
 
-a)
+ausführliche Beschreibung und Begründung des Vorhabens insbesondere der zu erwartende Nutzen einschließlich Erläuterung der Zielstellung,
 
 
-ausführliche Beschreibung und Begründung des Vorhabens, insbesondere des zu erwartenden Nutzens für die Sächsischen Schmalspurbahnen,
-
-
-b)
+–
 
 
 Übersichtsplan des Vorhabens (zum Beispiel Lagepläne, Längs- und Regelquerschnitte, Grunderwerbspläne),
 
 
-c)
+–
 
 
-detaillierte Kostenaufstellungen,
+detaillierte Investitionsausgaben,
 
 
-d)
+–
+
+
+Folgekostenberechnung,
+
+
+–
 
 
 der Finanzierungsplan, aus dem der Finanzierungsanteil des Antragstellers und die gesicherte Gesamtfinanzierung (einschließlich Folgekosten) erkennbar sind.
 
 
-Für den Antrag ist ein Vordruck nach 
+Für den Antrag ist ein Vordruck nach Muster 1a zu § 44 SäHO zu verwenden. Bei Anträgen von Eisenbahnverkehrsunternehmen gemäß § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes (AEG) vom 27. Dezember 1993 (BGBl. I S. 2378, 2396, 1994 I S. 2439), das zuletzt durch Artikel 10 des Gesetzes vom 10. September 2021 (BGBl. I S. 4147) geändert worden ist, ist dem Antrag die Kopie der Genehmigung zur Erbringung von Verkehrsleistungen beizufügen, bei Anträgen von Eisenbahninfrastrukturunternehmen die Kopie der Genehmigung für das Betreiben der Infrastruktur. Die Bewilligungsbehörde kann weitergehende Unterlagen, die zur Feststellung der zuwendungsfähigen Ausgaben oder generell zur Beurteilung des Vorhabens erforderlich sind, beim Antragsteller nachfordern.
 
-Muster 1a zu § 44 SäHO zu verwenden. 
-
-
-Bei Anträgen von Eisenbahnverkehrsunternehmen gemäß § 3 Abs. 1 des                 Allgemeinen Eisenbahngesetzes (AEG) vom 27. Dezember 1993 (BGBl. I S. 2378, 2396; 1994 I S. 2439), das zuletzt durch Artikel 4 Abs. 120 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154, 3209) geändert worden ist, in der jeweils geltenden Fassung, ist dem Antrag die Kopie der Genehmigung zur Erbringung von Verkehrsleistungen beizufügen, bei Anträgen von Eisenbahninfrastrukturunternehmen die Kopie der Genehmigung für das Betreiben der Infrastruktur.             
+7.3
 
 
-Die Bewilligungsbehörde kann weitergehende Unterlagen, die zur Feststellung der zuwendungsfähigen Ausgaben oder generell zur Beurteilung des Vorhabens erforderlich sind, wie zum Beispiel bahnaufsichtliche Stellungnahme des Landesbeauftragten für Eisenbahnaufsicht (LfB) des Freistaates Sachsen oder notwendige denkmalschutzrechtliche Genehmigungen, beim Antragsteller nachfordern. 
+Bewilligungsverfahren
 
 
-2.
+7.3.1
 
 
-Bewilligungsverfahren 
+Bewilligungsbehörde ist die gemäß der Verordnung des Sächsischen Staatsministeriums für Wirtschaft und Arbeit über die Zuständigkeiten zur Durchführung von Förderprogrammen und Fördermaßnahmen (Förderzuständigkeitsverordnung SMWA – SMWAFördZuVO) vom 20. Dezember 2005 (SächsGVBl. S. 378), zuletzt geändert durch Verordnung vom 3. November 2022 (SächsGVBl. S. 658), in der jeweils geltenden Fassung, für die Förderung zuständige Behörde.
 
 
-Bewilligungsbehörde ist das Landesamt für Straßenbau und Verkehr. 
+7.3.2
 
 
-3.
+Die Zuwendung wird erst nach vorheriger Aufnahme in das ÖPNV-Landesprogramm bewilligt.
+
+
+7.3.3
+
+Zuwendungen werden bei Vorliegen aller Zuwendungsvoraussetzungen nur für solche Vorhaben bewilligt, die noch nicht begonnen worden sind. Die Bewilligungsbehörde kann im Einzelfall auf Antrag Ausnahmen zulassen.
+
+
+7.4
 
 
 Verwendungsnachweisverfahren
 
 
+7.4.1
+
+
+Die Verwendungsnachweisprüfung obliegt der Bewilligungsbehörde. Das Kontrollverfahren erstreckt sich insbesondere auf die Überprüfung der Einhaltung der in der Antragstellung formulierten Ziele, auf Art und Umfang des Vorhabens sowie das Vorliegen einer Doppelförderung.
+
+
+7.4.2
+
+
+Bei der Förderung von Linienomnibussen ist der Verwendungsnachweis nach Muster der Anlage 2* zu führen. Nach Ablauf des vierten und achten auf die Förderung folgenden Jahres ist jeweils bis zum 1. März der Nachweis nach Muster der Anlage 3* vorzulegen. Die Bewilligungsbehörde legt dem Staatsministerium für Wirtschaft, Arbeit und Verkehr bis zum 1. März eines Jahres eine Aufstellung über die im Vorjahr erfolgte Förderung vor.
+
+
+7.5
+
+
+Auszahlungsverfahren
+
+7.5.1
+
+Die Zuwendung darf nur für den im Zuwendungsbescheid bestimmten Zweck verwendet werden. Die Zuwendung ist wirtschaftlich und sparsam zu verwenden.
+
+7.5.2
+
+Die Anforderung der Zuwendung richtet sich nach den anfallenden Kosten. Die Zuwendungen dürfen nur insoweit und nicht eher abgefordert werden, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Die Anforderung eines jeden Teilbetrags muss die zur Beurteilung des Mittelbedarfs erforderlichen Angaben enthalten.
+
+7.5.3
+
+Für Bewilligungen bis zum 31. Dezember 2024 findet für die Auszahlung der Zuwendung an die Zuwendungsempfänger nach Nummer 3.2 abweichend von Nummer 7.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 Sächsischen Haushaltsordnung (VVK) das Vorauszahlungsverfahren nach Nummer 7.5.2 Anwendung. Für Bewilligungen ab dem 1. Januar 2025 findet für die Auszahlung der Zuwendung an Zuwendungsempfänger nach Nummer 3.2 das Auszahlungsverfahren nach Nummer 7.1 der Anlage 3 zur Verwaltungsvorschrift zu § 44 Sächsischen Haushaltsordnung (VVK) Anwendung.
+
+7.5.4
+
+Der Antrag auf Auszahlung der Zuwendungsmittel ist nach dem Formblatt „Auszahlungsantrag“ bei der Bewilligungsbehörde zu stellen.
+
+
+7.6.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids und die Rückforderung der gewährten Zuwendungen gelten die Verwaltungsvorschriften zu § 44 Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+
+
+II. 
+
+
+Förderung der Wiederherstellung der vom Augusthochwasser 2010 geschädigten verkehrlichen Infrastruktur
+
+8. 
+
+
+Zuwendungszweck 
+
+
+Zuwendungszweck ist eine Unterstützung zur Wiederherstellung der vom Augusthochwasser 2010 insbesondere durch Überflutung geschädigten Infrastruktur und Fahrzeuge. Es werden Investitionen für bauliche Maßnahmen und Anlagen einschließlich notwendiger Ausstattungen sowie erforderliche Beräumungsmaßnahmen gefördert. Der Freistaat Sachsen gewährt für diesen Zweck nach §§ 23 und 44 SäHO , der VwV-SäHO und Teil II dieser Richtlinie Zuwendungen für Maßnahmen zur Wiederherstellung der vom Augusthochwasser 2010 insbesondere durch Überflutung geschädigten Infrastruktur und Fahrzeuge. Ein Anspruch auf Gewährung von Zuwendungen besteht nicht. Die Bewilligungsbehörde nach Nummer 7.3.1 entscheidet aufgrund pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+
+
+9. 
+
+
+Zuwendungsgegenstand 
+
+
+9.1
+
+
+Der Freistaat Sachsen fördert im Rahmen dieser Richtlinie Maßnahmen zur Wiederherstellung der verkehrlichen Infrastruktur in den Gebieten, die durch das Augusthochwasser 2010 geschädigt worden sind.
+
+
+9.2
+
+
+Fördergegenstand sind:
+
+
 a)
 
 
-Die Verwendungsnachweisprüfung obliegt der Bewilligungsbehörde. Das Kontrollverfahren erstreckt sich insbesondere auf die Überprüfung der Einhaltung der in der Antragstellung formulierten Ziele, auf Art und Umfang des Vorhabens sowie den zweck- und zeitgerechten Einsatz der Mittel.
+Verkehrliche Infrastruktur, insbesondere Anlagen des ÖPNV und SPNV wie zum Beispiel Gleisanlagen, Fahrleitungen, Betriebshöfe
 
 
 b)
 
 
-Für die Bewilligung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendungen gelten die
+Wiederherstellung der Einsatzbereitschaft von Fahrzeugen des ÖPNV
 
-VwV zu § 44 SäHO, soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+
+9.3
+
+
+Gefördert werden Maßnahmen zur Beseitigung der durch das Hochwasser verursachten unmittelbaren Schäden; im Rahmen der Schadensbeseitigung können auch Maßnahmen zur Vermeidung künftiger Hochwasserschäden (keine ausschließlich präventiven Maßnahmen) und zur Modernisierung gefördert werden.
+
+
+9.4
+
+
+Nicht gefördert werden mittelbare Schäden (zum Beispiel Umsatzausfälle) und gemietete Infrastrukturanlagen, sofern der Vermieter auch wirtschaftlicher Eigentümer ist.
+
+
+10. 
+
+
+Zuwendungsempfänger 
+
+
+Zuwendungsempfänger sind die Nahverkehrs- und Schieneninfrastrukturunternehmen sowie kommunale Gebietskörperschaften und deren Zusammenschlüsse nach § 4 Abs. 1 ÖPNVG nach Maßgabe von Nummer 3.
+
+
+11. 
+
+
+Zuwendungsvoraussetzungen 
+
+
+11.1
+
+
+Die Förderung der Wiederherstellung von Infrastrukturmaßnahmen nach Nummer 9 setzt voraus, dass:
+
+
+a)
+
+
+die Ausgaben nicht anderweitig gedeckt werden können (Versicherungsleistungen und ähnliches),
+
+
+b)
+
+
+die Zuwendungsempfänger die fachspezifischen Vorgaben beachten,
 
 
 c)
 
-Die Anforderung der Zuwendungen richtet sich nach den anfallenden Ausgaben. Die Zuwendungen dürfen nur insoweit und nicht eher abgefordert werden, als sie voraussichtlich innerhalb von sechs Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden. Die Anforderung eines jeden Teilbetrages muss die zur Beurteilung des Mittelbedarfs erforderlichen Angaben enthalten. Zur Abforderung der Zuwendungen kann bei der Bewilligungsbehörde ein Muster angefordert werden.
+
+eine Kostenberechnung nach HOAI (Phase 1 und 2 – analog Maßnahmeplan) vorliegt,                      
 
 
 d)
 
-Für Bewilligungen an kommunale Körperschaften im Sinne der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (VVK) findet bis zum 31. Dezember 2024 für die Auszahlung der Zuwendung abweichend von Nummer 7.1 der VVK das Vorauszahlungsverfahren nach Buchstabe c Anwendung. Ab dem 1. Januar 2025 findet für diese Zuwendungsempfänger das Auszahlungsverfahren nach Nummer 7.1 der VVK Anwendung.1
+
+eine angemessene Eigenbeteiligung des Maßnahmenträgers gesichert ist und
 
 
-VIII.
+e)
 
 
-Inkrafttreten
-
-Diese Richtlinie tritt am Tage der Unterzeichnung in Kraft.
+eine unmittelbare Schadenskausalität zum Augusthochwasser 2010 nachgewiesen werden kann.
 
 
-Dresden, den 15. August 2014
+11.2
+
+
+Die Wiederherstellung muss darüber hinaus sinnvoll sein (zum Beispiel kein unvertretbarer Wiederaufbau in Überschwemmungsgebieten und kein Wiederaufbau von vor der Hochwasserkatastrophe funktions- und wertloser Objekte, keine Wiederherstellung von Einrichtungen, die öffentliche Dienste anbieten, die durch Überkapazitäten gekennzeichnet sind). Die Sinnhaftigkeit der Wiederherstellung ist in Zweifelsfällen schlüssig darzulegen.
+
+
+12. 
+
+
+Umfang, Art und Höhe der Zuwendung 
+
+
+12.1
+
+
+Umfang der Zuwendung 
+
+
+Zuwendungsfähig sind die Ausgaben, die zu einer angemessenen baulichen und verkehrsnotwendigen Wiederherstellung der in Nummer 9 genannten Infrastruktureinrichtungen aufgewendet werden müssen („Wiederbeschaffungswert“ unter Berücksichtigung der aktuellen Vorschriften für eine gleiche oder gleichwertige Konstruktion). Zu den zuwendungsfähigen Ausgaben zählen insbesondere 
+
+
+a)
+
+
+Ausgaben der Wiederherstellung der baulichen Anlagen,
+
+
+b)
+
+
+Baunebenkosten von bis zu 10 vom Hundert, bei Ersatzneubauten bis zu 14 vom Hundert der Baukosten,
+
+
+c)
+
+
+Abriss- und sonstige Beräumungsausgaben,
+
+
+d)
+
+
+Ausgaben für den Ersatzneubau, auch an anderer Stelle,
+
+
+e)
+
+
+Ausgaben für die Wiederherstellung der baulichen Außenanlagen,
+
+
+f)
+
+
+Ausstattungsgegenstände ab 5 000 EUR, sofern es sich um Investitionsgüter handelt. Diese Wertgrenze gilt nicht für Ausstattungsgegenstände, die für die Funktionsfähigkeit eines Gebäudes erforderlich sind.
+
+
+g)
+
+
+Bei Gebäuden Grunderwerb für Ersatzneubauten an anderer Stelle,
+
+
+h)
+
+
+Projektsteuerungsleistungen für Einzelvorhaben und Koordinierung.
+
+
+Baunebenkosten können im Einzelfall bei Nachweis der besonderen Spezifika der Maßnahme und der Unabweisbarkeit der erhöhten Kosten in Höhe von bis zu 15 vom Hundert anerkannt werden. Die Prüfung obliegt den Bewilligungsstellen im Rahmen des pflichtgemäßen Ermessens. 
+
+
+Die zuwendungsfähigen Ausgaben ergeben sich im Weiteren aus Nummer 5.4.1. 
+
+
+Eine früher gewährte Förderung desselben Objektes aus öffentlichen Mitteln schließt eine nochmalige Finanzierung von Maßnahmen im Rahmen von Teil II dieser Verwaltungsvorschrift nicht aus. 
+
+
+Ein bereits erfolgter Vorhabensbeginn vor Bewilligung ist nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 30. Juni 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind. Bei Nachweis von verdeckten Schäden beziehungsweise geohydrologischen Schäden ist ein bereits erfolgter Vorhabensbeginn nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 30. Juni 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind. 
+
+
+12.2
+
+
+Nicht zuwendungsfähige Ausgaben 
+
+
+Nicht zuwendungsfähig sind: 
+
+
+a)
+
+
+die Personal- und Sachausgaben des Zuwendungsempfängers,
+
+
+b)
+
+
+Ausgaben, die ein anderer als der Träger der Maßnahme zu tragen verpflichtet ist
+
+
+c)
+
+
+Ausgaben für den Unterhalt und den Betrieb.
+
+
+12.3
+
+
+Zuwendungs- und Finanzierungsart 
+
+
+Die Fördermittel werden als nicht rückzahlbare, zweckgebundene Zuschüsse im Rahmen einer Projektförderung als Anteilsfinanzierung gewährt. 
+
+
+12.4
+
+
+Höhe der Zuwendung 
+
+
+Es werden für Anlagen des ÖPNV/SPNV, insbesondere Gleis- und Fahrleitungsanlagen, einschließlich Haltestellenanlagen und Fahrzeuge bis zu 90 vom Hundert der nachgewiesenen zuwendungsfähigen Ausgaben gefördert. Dabei sollen innerhalb der Förderquote Projektfinanzierungsmittel der Bundesanstalt für Arbeit (BSI, Vergabe-ABM und ähnliches) einbezogen werden. 
+
+
+Maßnahmen mit einer Schadenshöhe von bis zu 1 000 EUR erhalten keine Förderung (Bagatellgrenze). 
+
+
+Zu den zuwendungsfähigen Ausgaben zählen auch die bei der Wiederherstellung entstehenden Ausgaben, die aus der notwendigen Anpassung des Bauwerkes, der Anlage oder der sonstigen Sache an die zum Zeitpunkt der Bewilligung geltenden allgemein anerkannten Regeln der Technik oder Stand der Technik resultieren (notwendige Modernisierung). Sonstige bei Gelegenheit der Wiederherstellung vom Antragsteller vorgenommene Verbesserungen, Vergrößerungen oder Erweiterungen des Bauwerkes, der Anlage oder sonstiger Sachen begründen keine zuwendungsfähigen Ausgaben. Eine Trennung der Maßnahme in Bauabschnitte ist möglich. 
+
+
+Die Höhe der auszugleichenden Schäden wird auf die in den bestätigten Maßnahmeplänen für die Infrastrukturbereiche ausgewiesene Höhe begrenzt. Ausgenommen hiervon sind verdeckte Schäden beziehungsweise geohydrologische Schäden, die bis zum 31. Mai 2011 bei der Bewilligungsbehörde als Nachtrag zum Maßnahmeplan beantragt werden können. Abweichungen können im Einzelfall zugelassen werden. Schadensursache und Schadenshöhe müssen nachprüfbar nachgewiesen werden durch einen Kostenvoranschlag oder ein Gutachten. 
+
+
+Der Ausgleich von Mehr- oder Minderbedarf einschließlich der Finanzierung von bisher nicht mit Finanzmitteln untersetzten zurückgestellten schadenskausalen Maßnahmen ist innerhalb der bestätigten Höhe der auszugleichenden Schäden des jeweiligen Maßnahmeplanes („Deckel“) und unter Berücksichtigung der Finanzkontingente nach Abstimmung mit der Bewilligungsbehörde möglich. Die Erstbewilligung bisher zurückgestellter Maßnahmen aus durch Minderbedarf eingesparten Mitteln ist generell bis zum 31. Dezember 2012 befristet. Ein Mehr- oder Minderbedarfsausgleich bei bewilligten Maßnahmen kann bis zum 31. Dezember 2013, auch im Rahmen der Verwendungsnachweislegung und -prüfung, erfolgen. Bei diesem Bedarfsausgleich ist grundsätzlich von einem Schadens- beziehungsweise Mitteltransfervolumen von mindestens 1 000 EUR auszugehen. Ein Mehr- oder Minderbedarfsausgleich ist im Allgemeinen nur dann möglich, wenn durch zum Beispiel Schlussrechnungen beziehungsweise Verwendungsnachweisführung der Minderbedarf schlüssig nachgewiesen werden konnte. 
+
+
+Die Überwachung und Steuerung der Einhaltung der in den bestätigten Maßnahmeplänen anerkannten Schadenshöhen je Infrastrukturbereich obliegt vorrangig den Maßnahmeträgern beziehungsweise den betroffenen Kommunen. Bei Veränderungen ist die Bewilligungsbehörde unverzüglich zu benachrichtigen. 
+
+
+13. 
+
+
+Sonstige Zuwendungsbestimmungen 
+
+
+13.1
+
+
+Kumulierung und Abgrenzung 
+
+
+Die Kumulierung von Mitteln nach dieser Verwaltungsvorschrift mit Mitteln aus anderen Förderprogrammen ist zulässig, insbesondere auch eine Kofinanzierung des Eigenanteils über Hochwasserkredite. Die Kumulierung der Förderung darf zu keiner Überkompensation von Schäden führen. Der Zuwendungsempfänger ist verpflichtet, der Bewilligungsbehörde anzugeben, ob und gegebenenfalls in welcher Höhe er zusätzliche Mittel aus anderen Förderprogrammen erhält (Kumulation von Mitteln). Zuweisungen (Abschlagszahlungen) sind bei der Bewilligung von Fördermitteln zu beachten und bei Auszahlungen entsprechend zu verrechnen. Die Kommunen unterrichten die Bewilligungsbehörde maßnahmekonkret über die Höhe der Inanspruchnahme der Zuweisung. Von den Kommunen abgerufene Zuweisungen, die nicht innerhalb der Monatsfrist entsprechend ihrer Zweckbestimmung verwendet werden können, sind unverzüglich zurück zu überweisen. Es besteht die Möglichkeit, dass von den Kommunen in Anspruch genommene und noch nicht zweckentsprechend verwendete Teile der Zuweisung in Absprache mit der zuständigen Bewilligungsstelle mit Zuwendungen an die Kommune verrechnet werden, sofern die Voraussetzungen für die Anforderung der Zuwendung nach Nummer 1.3 ANBest-K ihrerseits erfüllt sind.
+
+
+13.2
+
+
+Versicherungsleistungen und Spenden 
+
+
+Versicherungsleistungen, die der Zuwendungsempfänger für das beschädigte Objekt zur Schadensbeseitigung oder zur Wiederherstellung erhält, sind in Anspruch zu nehmen und auf die zuwendungsfähigen Ausgaben anzurechnen. 
+
+
+In den Fällen, in denen Versicherungsschutz für das beschädigte Objekt besteht, kann die Höhe der Zuwendung zunächst auch ohne Berücksichtigung späterer Versicherungsleistungen vorläufig festgesetzt werden. Dabei sind bereits erfolgte Abschlagszahlungen der Versicherung zu berücksichtigen. Nach abschließender Regulierung des Schadens durch die Versicherung erfolgt die endgültige Festsetzung der Zuwendungshöhe unter Berücksichtigung der Versicherungsleistungen. 
+
+
+Bewilligungen, die im Hinblick auf spätere Versicherungsleistungen zunächst nur vorläufig erfolgen, sind nur unter der Voraussetzung möglich, dass der Zuwendungsempfänger seine Versicherungsansprüche bis zur Höhe der Zuwendung an den Freistaat Sachsen zur Sicherung des Erstattungsanspruches abtritt. 
+
+
+Zweckgebundene Spenden werden als Eigenmittel des Zuwendungsempfängers anerkannt. Spenden werden nur dann auf die Zuwendung angerechnet, wenn sich ohne ihre Anrechnung ein Schadensausgleich von über 100 vom Hundert ergeben würde. 
+
+
+Der Zuwendungsempfänger ist verpflichtet, die entsprechenden Angaben bei der Beantragung der Zuwendung zu machen oder die Bewilligungsstelle darauf hinzuweisen, dass mit einer Versicherungsleistung und/oder einer Spende gerechnet werden kann, die er unverzüglich der Bewilligungsbehörde mitteilt. 
+
+
+Die einzelfallbezogene Festlegung der Anrechnung der Spenden und Versicherungen obliegt den Bewilligungsbehörden. 
+
+
+13.3
+
+
+Hinweispflicht 
+
+
+Die Zuwendungsempfänger haben die Förderung durch den Zuwendungsgeber auf den Bauschildern entsprechend auszuweisen. 
+
+
+14. 
+
+
+Verfahren 
+
+
+14.1
+
+
+Maßnahmeplan 
+
+
+Die betroffenen Kommunen erstellen Maßnahmepläne. Hierbei listen sie ihre durch das Augusthochwasser 2010 beschädigten verkehrlichen Infrastruktureinrichtungen (einschließlich nicht-kommunaler Träger im Gemeindegebiet sowie Schäden bei ihren Unternehmen) unter Angabe der Priorität auf. Neben der Dokumentation der Schäden, dem Nachweis der Art der Schadensermittlung (Kostenberechnung und Gutachten) und einer Beschreibung des Schadens sind Informationen aufzunehmen, ob die Maßnahme bereits begonnen, ein Förderantrag bereits gestellt und Abschlagszahlungen des Freistaates Sachsen, Versicherungsleistungen und Spenden für die Infrastrukturmaßnahme schon eingesetzt wurden. 
+
+
+Die Landratsämter unterstützen die Gemeinden bei der Erstellung der Maßnahmepläne. 
+
+
+Die Maßnahmepläne sind bis zum 15. November 2010 den Bewilligungsbehörden vorzulegen. 
+
+
+Die Maßnahmepläne können auch nach deren Bestätigung bis zum 31. Mai 2011 um Einzelmaßnahmen ergänzt werden. Dies gilt nur für zum Zeitpunkt der Bestätigung des Maßnahmeplanes nicht erkennbare verdeckte Schäden sowie geohydrologische Spätschäden. Im Einzelfall sind Schadenshöhenpräzisierungen aufgrund nachträglich festgestellter Schäden ebenfalls bis zu diesem Zeitpunkt möglich. 
+
+
+14.2
+
+
+Gesamtentscheidung zum Maßnahmeplan 
+
+
+Der Maßnahmeplan wird mit seinen einzelnen Maßnahmen von den Bewilligungsbehörden in Hinblick auf Schadenskausalität, Schlüssigkeit der Wiederaufbaumaßnahme, Schadenshöhe sowie Plausibilität der Kostenberechnung und Prioritätensetzung geprüft. Die Bewilligungsbehörden prüfen die einzelnen Maßnahmen darüber hinaus bezüglich der Fachplanung beziehungsweise -vorgaben. Die Kommune erhält eine Mitteilung (Gesamtentscheidung zum Maßnahmeplan), die anschließend durch Bewilligungsbescheide umgesetzt wird. Das Schreiben enthält zudem Hinweise auf die Anrechnung bereits geleisteter Abschlagszahlungen des Freistaates Sachsen; zu den Einzelmaßnahmen werden Hinweise, welche Behörde den jeweiligen Zuwendungsbescheid erstellt und soweit dies erforderlich ist, Hinweise zur Konkretisierung der Unterlagen geben. Aus dem Schreiben soll ebenfalls hervorgehen, mit welchen Förderprogrammen die gegebenenfalls geleistete Abschlagszahlung verrechnet wird. 
+
+
+14.3
+
+
+Bewilligung 
+
+
+Der durch die Bewilligungsbehörde geprüfte Maßnahmeplan der Kommune (Wiederaufbauplan), wird dem Zuwendungsantrag beigefügt. 
+
+
+Die den Kommunen gewährten Abschlagszahlungen sind einzelmaßnahmebezogen auf die jeweilige Bewilligungssumme anzurechnen. Diese Abschläge mindern nicht die Bewilligungssumme, sie reduzieren jedoch den Auszahlungsbetrag. 
+
+
+Soweit haushaltsrechtlich vorgesehen, ist das Landesamt für Steuern und Finanzen für die Zuwendungsbauprüfung zu beteiligen. Die Zustimmung des Landesamtes für Steuern und Finanzen gilt als erteilt, falls von dieser nach Aufforderung zur Stellungnahme nicht binnen 30 Tagen eine Stellungnahme vorliegt. 
+
+
+15. 
+
+
+Auszahlung 
+
+
+Der Antrag auf Auszahlung der Zuwendungsmittel ist nach 
+
+Muster 3 zu § 44 SäHO bei den Bewilligungsbehörden zustellen, soweit keine abweichenden Festlegungen in den fachspezifischen Regelungen getroffen wurden. Der Auszahlungsbetrag reduziert sich bei den einzelnen Maßnahmen um den als Abschlagszahlung erhaltenen und der Maßnahme zugeordneten Betrag.
+
+
+16. 
+
+
+Verwendungsnachweis 
+
+
+Für die Einzelmaßnahmen ist ein Verwendungsnachweis gemäß der fachspezifischen Regelungen zu erstellen. Vereinfachte Verwendungsnachweise werden zugelassen. Hierbei sind die erhaltenen Abschlagszahlungen im Einzelnen nachzuweisen und abzurechnen. Die Kommunen erstellen zusätzlich einen zusammenfassenden Abschlussbericht, der auch die Ergebnisse der Abrechnung aller Einzelmaßnahmen enthält.
+
+
+17. 
+
+
+Informationspflichten 
+
+
+Die Bewilligungsbehörden erstellen je Kommune eine Übersicht, die die Umsetzung der Gesamtentscheidung nachvollziehbar dokumentiert. Den Bewilligungsbehörden obliegt die Gesamtabrechnung der Gesamtentscheidungen und der sonstigen nach dieser Verwaltungsvorschrift geförderten Einzelmaßnahmen gegenüber der Staatsregierung, einschließlich eines Abschlussberichtes, der auch die Ergebnisse der einzelnen Abschlussberichte der Kommunen zusammenfasst.
+
+
+18. 
+
+
+Ergänzende Bestimmungen 
+
+
+Die Nummern 1 bis 7 können ergänzend angewandt werden.
+
+
+III.
+
+
+Schlussbestimmungen
+
+19. 
+
+
+Inkrafttreten und Außerkrafttreten 
+
+
+Diese Richtlinie tritt am Tag der Unterzeichnung in Kraft. Gleichzeitig tritt die Richtlinie des Sächsischen Staatsministeriums für Wirtschaft und Arbeit über die Gewährung von Fördermitteln im öffentlichen Personennahverkehr (RL-ÖPNV) vom 6. April 2004 (SächsABl. S. 498) außer Kraft.
+
+
+Dresden, den 24. August 2010
 
 
 Der Staatsminister für Wirtschaft, Arbeit und Verkehr 
@@ -364,15 +1108,15 @@ Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
 
-SächsABl. 2014 Nr. 36, S. 1086
+SächsABl. SDr. 2010 Nr. 3, S. 135
 
-Fsn-Nr.: 5535-V14.1
+Fsn-Nr.: 551-V10.1
 
 Gültigkeitszeitraum
 
 Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 25. Oktober 2023
+Fassung gültig bis: 23. Oktober 2025
 
 Drucken/Speichern
 
@@ -397,7 +1141,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14111.2
+https://www.revosax.sachsen.de/vorschrift/11471.5
 Stand vom
 18.11.2026
 
