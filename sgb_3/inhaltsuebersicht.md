@@ -158,6 +158,7 @@
 | § 85 | Fahrkosten |
 | § 86 | Kosten für auswärtige Unterbringung und für Verpflegung |
 | § 87 | Kinderbetreuungskosten |
+| § 87a | Weiterbildungsprämie und Weiterbildungsgeld |
 |  |  |
 | Fünfter Abschnitt |
 | Aufnahme einer Erwerbstätigkeit |
@@ -302,7 +303,7 @@
 | Dritter Unterabschnitt |
 | Anspruchsdauer |
 | § 147 | Grundsatz |
-| § 148 | Minderung der Anspruchsdauer |
+| § 148 | Minderung und Verlängerung der Anspruchsdauer |
 |  |  |
 | Vierter Unterabschnitt |
 | Höhe des Arbeitslosengeldes |
@@ -702,3 +703,4 @@
 | § 453 | Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze |
 | § 454 | Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung |
 | § 455 | Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes |
+| § 456 | Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes |

@@ -162,6 +162,7 @@ Versicherungspflichtige
 - [§ 85 Fahrkosten](0085.md)
 - [§ 86 Kosten für auswärtige Unterbringung und für Verpflegung](0086.md)
 - [§ 87 Kinderbetreuungskosten](0087.md)
+- [§ 87a Weiterbildungsprämie und Weiterbildungsgeld](0087a.md)
 
 ### Fünfter Abschnitt Aufnahme einer Erwerbstätigkeit
 
@@ -307,7 +308,7 @@ Versicherungspflichtige
 #### Dritter Unterabschnitt Anspruchsdauer
 
 - [§ 147 Grundsatz](0147.md)
-- [§ 148 Minderung der Anspruchsdauer](0148.md)
+- [§ 148 Minderung und Verlängerung der Anspruchsdauer](0148.md)
 
 #### Vierter Unterabschnitt Höhe des Arbeitslosengeldes
 
@@ -417,6 +418,7 @@ Berichterstattung
 - [§ 297 Unwirksamkeit von Vereinbarungen](0297.md)
 - [§ 298 Behandlung von Daten](0298.md)
 - [§ 299 Informationspflicht bei grenzüberschreitender Vermittlung](0299.md)
+- [§ 299 Informationspflicht bei grenzüberschreitender Vermittlung](0299-2.md)
 - [§ 300 (weggefallen)](0300.md)
 
 ##### Dritter Titel Verordnungsermächtigung
@@ -721,3 +723,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze](0453.md)
 - [§ 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung](0454.md)
 - [§ 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0455.md)
+- [§ 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0456.md)
