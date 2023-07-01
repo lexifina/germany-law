@@ -1,8 +1,8 @@
 # Vollzitat: FRL MINT-Fachkräfteprogramm ESF Plus 2021–2027
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-09-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19723.1
+- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19723.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-29.09.2022
+01.07.2023
 bis
-30.06.2023
+30.06.2024
 
 FRL MINT-Fachkräfteprogramm ESF Plus 2021–2027
 
@@ -42,7 +42,7 @@ Die Förderung soll die Anpassungsfähigkeit sächsischer kleiner und mittlerer 
 
 2.
 
-Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Dezember 2021 (SächsABl. S. 1723) in der jeweils geltenden Fassung, soweit diese Richtlinie keine abweichenden Regelungen trifft.
+Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Mai 2023 (SächsABl. S. 576) in der jeweils geltenden Fassung, soweit diese Richtlinie keine abweichenden Regelungen trifft.
 
 3.
 
@@ -209,15 +209,40 @@ Verfahren
 
 a)
 
-Der Zuwendungsempfänger hat alle sechs Monate nach Beginn des Vorhabenszeitraums Zwischenberichte einzureichen. Die Berichte enthalten Informationen zum aktuellen Stand des Vorhabens (Sachbericht) und zur Tätigkeit des geförderten Personals. Der Zwischenbericht ist Voraussetzung für die Auszahlung nach Nummer 6.3.2 der EU-Rahmenrichtlinie. Die Bewilligungsstelle kann in Abhängigkeit von Vorhabensdauer und Förderhöhe auf die Vorlage von Zwischenberichten verzichten. 
+Die Aufstellung aller durch den Antragsteller vorzulegender Nachweise und Unterlagen ist im Internet unter www.sab.sachsen.de abrufbar. Dazu gehören
+
+
+–
+
+eine Vorhabenbeschreibung,
+
+
+–
+
+eine Stellenbeschreibung für die neu zu schaffende Stelle,
+
+
+–
+
+der Entwurf eines Arbeitsvertrages,
+
+
+–
+
+Nachweise zur Qualifikation der einzustellenden Person.
 
 
 b)
 
-Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt.
+Der Zuwendungsempfänger hat alle sechs Monate nach Beginn des Vorhabenszeitraums Zwischenberichte einzureichen. Die Berichte enthalten Informationen zum aktuellen Stand des Vorhabens (Sachbericht) und zur Tätigkeit des geförderten Personals. Der Zwischenbericht ist Voraussetzung für die Auszahlung nach Nummer 6.3.2 der EU-Rahmenrichtlinie. Die Bewilligungsstelle kann in Abhängigkeit von Vorhabensdauer und Förderhöhe auf die Vorlage von Zwischenberichten verzichten. 
 
 
 c)
+
+Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt.
+
+
+d)
 
 Abweichend von Nummer 6.1 NBest-EU gilt: Der Bewilligungsstelle ist innerhalb von zwei Monaten nach Ablauf des Bewilligungszeitraums der Nachweis der zweckentsprechenden Verwendung der gewährten Zuwendung vorzulegen.
 
@@ -407,15 +432,35 @@ Interessenten können im Rahmen eines zweistufigen Verfahrens jederzeit Projekts
 
 b)
 
-Der Zuwendungsempfänger hat alle sechs Monate nach Beginn des Vorhabenszeitraums Zwischenberichte einzureichen. Die Berichte enthalten Informationen zum aktuellen Stand des Vorhabens (Sachbericht) und zur Tätigkeit des geförderten Personals. Der Zwischenbericht ist Voraussetzung für die Auszahlung nach Nummer 6.3.2 der EU-Rahmenrichtlinie. Die Bewilligungsstelle kann in Abhängigkeit von Vorhabensdauer und Förderhöhe auf die Vorlage eines Zwischenberichts verzichten.
+Die Aufstellung aller durch den Antragsteller vorzulegender Nachweise und Unterlagen ist im Internet unter www.sab.sachsen.de abrufbar. Dazu gehören
+
+
+–
+
+eine Vorhabenbeschreibung,
+
+
+–
+
+der Entwurf eines Kooperationsvertrages einschließlich Festlegungen zum Projektkoordinator und zu den Veröffentlichungsrechten für Projektergebnisse,
+
+
+–
+
+Nachweise zur Qualifikation der zu fördernden Personen.
 
 
 c)
 
-Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt.
+Der Zuwendungsempfänger hat alle sechs Monate nach Beginn des Vorhabenszeitraums Zwischenberichte einzureichen. Die Berichte enthalten Informationen zum aktuellen Stand des Vorhabens (Sachbericht) und zur Tätigkeit des geförderten Personals. Der Zwischenbericht ist Voraussetzung für die Auszahlung nach Nummer 6.3.2 der EU-Rahmenrichtlinie. Die Bewilligungsstelle kann in Abhängigkeit von Vorhabensdauer und Förderhöhe auf die Vorlage eines Zwischenberichts verzichten.
 
 
 d)
+
+Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt.
+
+
+e)
 
 Abweichend von Nummer 6.1 NBest-EU gilt: Der Bewilligungsstelle ist innerhalb von zwei Monaten nach Ablauf des Bewilligungszeitraums der Nachweis der zweckentsprechenden Verwendung der gewährten Zuwendung vorzulegen.
 
@@ -576,9 +621,9 @@ Fsn-Nr.: 552-V22.8
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 29. September 2022
+Fassung gültig ab:  1. Juli 2023
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 30. Juni 2024
 
 Drucken/Speichern
 
@@ -603,7 +648,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19723.1
+https://www.revosax.sachsen.de/vorschrift/19723.2
 Stand vom
 18.11.2026
 
