@@ -1,0 +1,110 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-07-03T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446849
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446849
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Tempolimit und Umgestaltung der Implerstraße
+- TOP 2.2.: Sachstandsanfrage Baustelle Alramstraße 14; gesundheitliche Beeinträchtigungen durch Brackwasser
+- TOP 2.3.: Bettler am Eingang es Sendlinger Friedhofs
+- TOP 2.4.: Lärm an der Isar, Parksituation Schäftlarnstraße / Hans-Preißinger-Straße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Implerstraße 51
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baulisten
+- TOP 4.3.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Netz AG Hier: Eisenbahnüberführung über die Lindwurmstraße im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 6. Stadtbezirk Sendling 1. Projektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB Netz AG 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2023 – 2027
+- TOP 4.3.3.: Prüfung der Denkmaleigenschaften des Gebäudes an der Bruderhofstraße 43 und Schäftlarnstraße 92
+- TOP 4.3.4.: Planungen des Neubaus der Maria-Probst-Realschule am Gotzinger Platz
+- TOP 4.3.5.: Vollzug der Erhaltungssatzung Am Harras/ Passauerstraße
+- TOP 4.3.6.: Errichtung einer neuer Toilettenanlage am Roten-Turm-Platz
+- TOP 4.3.7.: Taubenfütterung Alram-/Danklstraße Antwort
+- TOP 4.3.8.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 4.3.9.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 4.3.10.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 4.3.11.: Das Sendlinger Naturdenkmal wieder als Denkmal herrichten!
+- TOP 4.3.12.: Fällung eines Gefahrenbaums im Sendlinger Friedhof
+- TOP 4.3.13.: Insektenfreundliche Blühwiese am ehemaligen Standort der Kindertagesstätte Wackersberger Straße 67
+- TOP 4.3.14.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 4.3.15.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 4.3.16.: Projekt Herstellung Neuhofener Platz
+- TOP 4.3.17.: Planungsstand für die Aufwertung/Umgestaltung des Herzog-Ernst-Platzes
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Flaucher - Genehmigung des fliegenden Handels
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Geländepraktikum für Studierende der LMU Geographie in den Isarauen / Flaucheranlagen vom 21.07.23 bis 02.08.2023
+- TOP 5.2.2.: Sommerfest KiGa "Singende Matschknödel" (ehem. Isarindianer) in den Isarauen am Flaucher am 14.07.2023
+- TOP 5.2.3.: Umwandlung von Kfz-Stellplätzen zu einer Radabstellanlage im Bereich der Implerstraße 23
+- TOP 5.2.4.: Kein Platz für Gewalt gegen Frauen – Projektunterstützung / Standortsuche
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Optimale Abstellflächen für Fahrräder in der Valleystraße schaffen!
+- TOP 5.3.2.: Neue Fahrradständer in der Meindlstraße vor Schulgebäude
+- TOP 5.3.3.: Fahrradabstellanlagen im Bereich der Karwendelstraße, Dudenstraße und Sylvensteinstraße
+- TOP 5.3.4.: Konzert Sendlinger Kulturschmiede Sommerabend am Sendlinger Kirchplatz am 24.06.2023 Bescheid
+- TOP 5.3.5.: Verkehrsrechtliche Anordnung Verlegung einer 110kV-Leitung in der Brudermühlstraße Änderung
+- TOP 5.3.6.: U9-Entlastungsspange - Grundlagenermittlung für die Vorplanung – orientierende Bohrkampagne
+- TOP 5.3.7.: Haltepunkt für Reisebusse am Gelände des Gasteig HP8
+- TOP 5.3.8.: Genehmigungsbescheid Wanderbaumallee Oberländerstr. / Danklstr.
+- TOP 5.3.9.: Verkehrsrechtliche Anordnung Sommerstraße Schmied-Kochel-Straße
+- TOP 5.3.10.: Verkehrsrechtliche Anordnung Sommerstraße Schöttlstraße
+- TOP 5.3.11.: Oktoberfest 2023 - Neuerungen
+- TOP 5.3.12.: Ausnahmegenehmigung Sommerfest Naturkindergarten Flaucherfüchse e.V. am 08.07.2023
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Konzerte im Rahmen des Münchner Orgelsommers vom 15.07.2023 – 10.09.2023 1.600 € / AZ.0206.0-6-0435
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. “Kinder- und Jugendfonds „Lasst uns mal ran“ im BA 6 vom 05.07.2023 – 31.12.2023“ 5.000,00 € / AZ: 0262.0-6-0437
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „city bodies“ “city_bodies/beweg_die_stadt vom 01.09.2023 – 31.10.2023 2.625,00 € / AZ: 0262.0-6-0432
+- TOP 6.1.4.: (E) Stadtbezirksbudget H-Team e.V. “Multimedia-System für kostenlose Informationsveranstaltungen für Sendlinger Bürger“ 3.633,99 € / AZ: 0262.0-6-0431
+- TOP 6.1.5.: (E) Stadtbezirksbudget mobil und sicher im Alltag e.V. “Sozialraumkarte vom 04.07.2023 – 31.01.2024“ 5.800,00 € / AZ: 0262.0-6-0434
+- TOP 6.1.6.: Bestellung städtischer Leistungen; Aufstellung einer "Orangenen Bank"
+- TOP 6.1.7.: (E) Stadtbezirksbudget DEIN MÜNCHEN gGmbH “MISCH MIT – Kunstprojekt für benachteiligte Jugendliche vom 03.07.2023 – 07.07.2023 / alternativ 10.07.2023 – 14.07.2023“ 4.000,00 € / AZ: 0262.0-6-0440
+- TOP 6.1.8.: (E) Stadtbezirksbudget Paritätische Haus für Mutter und Kind München gGmbH “Jubiläumsfeier zum 60-jährigen Bestehen des Mutter-Kind-Hauses am 29.06.2023“ 10.038 € / AZ: 0262.0-6-0438
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Pflanzung von fünf Bäume im Stadtbezirk Sendling
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.2.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 7.3.3.: Betreuungsbedarf nach der Schule für Alleinerziehende Antwort
+- TOP 7.3.4.: Bürgerforum Altenpflege am 11.07.2023, 18:00 bis 20:00 Uhr im Alten Rathaus
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Möglichkeit der gemeinsamen Verlegung aus der Meindlstraße 14a
+- TOP 7.4.2.: Versorgung der Menschen (nicht nur) in der Unterkunft Meindlstraße 14a
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Unveränderte Fortführung Resihuber
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Umgang mit gewaltbereiten Fußballfans / Situation des Sendlinger „Bunkers; Anfrage
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Umsetzung des Öffentlichkeitsbeteiligungskonzeptes / Einwohner*innenbudget
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
