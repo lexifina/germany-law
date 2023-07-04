@@ -57,16 +57,39 @@
 - [§ 22 (weggefallen)](0022.md)
 - [§ 23 Bußgeldvorschriften](0023.md)
 
-## Abschnitt 6a Arbeits- und Sozialrechtliche Beratung
+## Abschnitt 8 Arbeits- und Sozialrechtliche Beratung
 
-- [§ 23a Leistungsanspruch](0023a.md)
-- [§ 23b Verordnungsermächtigung](0023b.md)
-- [§ 23c Informationspflicht bei Anwerbung aus dem Ausland](0023c.md)
 
-## Abschnitt 7 Schlussvorschriften
+## Abschnitt 9 Sonderregelungen und Übergangsbestimmungen
 
-- [§ 24 Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind](0024.md)
-- [§ 25 Übergangsbestimmungen für Langzeitentsendung](0025.md)
-- [§ 26 Übergangsbestimmungen für das Baugewerbe](0026.md)
-- [§ 27 Sondervorschrift für den Straßenverkehrssektor](0027.md)
-- [§ 28 Übergangsregelung für die Pflegebranche](0028.md)
+
+## Abschnitt 7 Grenzüberschreitende Durchsetzung
+
+- [§ 24 Anwendungsbereich](0024.md)
+- [§ 25 Zuständigkeit](0025.md)
+- [§ 26 Binnenmarkt-Informationssystem](0026.md)
+- [§ 27 Inhalt ausgehender Ersuchen](0027.md)
+- [§ 28 Behandlung ausgehender Ersuchen](0028.md)
+- [§ 29 Behandlung eingehender Ersuchen](0029.md)
+- [§ 30 Ablehnung eingehender Ersuchen](0030.md)
+- [§ 31 Leistungsanspruch](0031.md)
+- [§ 32 Verordnungsermächtigung](0032.md)
+- [§ 33 Informationspflicht bei Anwerbung aus dem Ausland](0033.md)
+
+## Unterabschnitt 1 Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+
+- [§ 34 Erstmontage- und Einbauarbeiten](0034.md)
+- [§ 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland](0035.md)
+
+## Unterabschnitt 2 Sonderregelungen für den Straßenverkehrssektor
+
+- [§ 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden](0036.md)
+- [§ 37 Bilaterale Beförderung von Gütern](0037.md)
+- [§ 38 Bilaterale Beförderung von Personen](0038.md)
+- [§ 39 Kombinierter Verkehr](0039.md)
+- [§ 40 Transit](0040.md)
+
+## Unterabschnitt 3 Übergangsbestimmungen
+
+- [§ 41 Übergangsbestimmungen für Langzeitentsendung](0041.md)
+- [§ 42 Übergangsbestimmungen für das Baugewerbe](0042.md)

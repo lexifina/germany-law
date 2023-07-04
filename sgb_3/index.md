@@ -418,7 +418,6 @@ Berichterstattung
 - [§ 297 Unwirksamkeit von Vereinbarungen](0297.md)
 - [§ 298 Behandlung von Daten](0298.md)
 - [§ 299 Informationspflicht bei grenzüberschreitender Vermittlung](0299.md)
-- [§ 299 Informationspflicht bei grenzüberschreitender Vermittlung](0299-2.md)
 - [§ 300 (weggefallen)](0300.md)
 
 ##### Dritter Titel Verordnungsermächtigung

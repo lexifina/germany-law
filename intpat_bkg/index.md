@@ -55,6 +55,24 @@
 ## Art II
 
 
+## Art II
+
+
+## Art II
+
+
+## Art II
+
+
+## Art II
+
+
+## Art II
+
+
+## Art II
+
+
 ## Art III Verfahren nach dem Patentzusammenarbeitsvertrag
 
 
@@ -95,6 +113,9 @@
 
 
 ## Art XI Übergangs- und Schlußbestimmungen
+
+
+## Art XI
 
 
 ## Art XI
