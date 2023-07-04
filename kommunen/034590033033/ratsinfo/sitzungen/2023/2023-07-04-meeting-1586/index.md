@@ -1,0 +1,73 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2023-07-04T17:32:00+02:00
+- Ende: 2023-07-04T20:20:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTL1E97DX4Sd65TD-8bWSxo
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1586
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUFKavs2NDKyjg8JfucVpnaCMHC-wTCY4Rfce5dxcW24/Bekanntmachung_Rat_04.07.2023.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYUE6OV1KVwzCtHAosxxVEBzuPQnN0fOtJlBelBFcpmF/Oeffentliches_Beschlussprotokoll_Rat_04.07.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 16.03.2023
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschlüsse
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Schulangelegenheiten
+- TOP 8.1: Satzung der Gemeinde Wallenhorst zur Festlegung von Schulbezirken für die Grundschulen und die weiterführenden Schulen im Sekundarbereich I in Trägerschaft der Gemeinde Wallenhorst - mehrheitlich mit 19 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: 1. Änderung des Gebührentarifes zur Gebührensatzung Feuerwehr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Antrag der FDP-Fraktion auf Einführung eines elektronischen Ereignis-Melde-Systems - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der SPD-Fraktion: das Deutschlandticket als Jobticket für Mitarbeitende der Gemeinde etablieren - ÖPNV und Klimaschutz fördern, Attraktivität als Arbeitgeber stärken! - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Erweiterung des Franziskus Kindergartens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Errichtung einer Krippengruppe in Holzrahmenbauweise am Kindergarten St. Stephanus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.3: Vertretungsregelung für das pädagogische Personal in den Wallenhorster Kindertagesstätten - Anpassung der Vertretungsstunden - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sportangelegenheiten
+- TOP 9.1: Änderung der Benutzungsordnung für die Sportanlagen der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Zuschuss für die Sportfreunde Lechtingen e. V. für den Neubau eines Multifunktionstraktes auf dem Sportgelände Lechtingen - einstimmig, mit 4 Enthaltung(en) gefasst:
+- TOP 10.: Vereine und Bürgerengagement
+- TOP 10.1: Antrag der Fraktion Bündnis 90 / Die Grünen auf Zahlung eines jährlichen Zuschusses in Höhe von 21.600 € zur Begleichung der Miet- und Nebenkosten des DRK Ortsvereins Wallenhorst e.V. - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 10.21: Übergabe der Zuständigkeit auf dem Gebiet des Waffengesetzes an den Landkreis Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Verkehrsangelegenheiten
+- TOP 11.1: Weiterführung der Linie 585 Damme - Osnabrück mit Halt in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Antrag der Fraktion ´Bündnis 90 / Die Grünen´ auf Einrichtung einer Fahrradstraße in der ´Fiesteler Straße´ und der ´Waldstraße´ - mehrheitlich mit 26 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.: Bauleitpläne
+- TOP 12.1: 2. Änderung des Bebauungsplanes Nr. 164 „Wessels Hof“ hier: Satzungsbeschluss gem. § 10 (1) Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Bebauungsplan Nr. 285 „Zwischen Portkamp und B 68“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Bebauungsplan Nr. 286 „Südlich und westlich Kiefernweg“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Liegenschaften
+- TOP 13.1: Tiny-Haus-Vermarktung „Annette-Kolb-Straße“ hier: Entwicklung Vermarktungsstrategien - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 14.: Umwelt- und Energieangelegenheiten
+- TOP 14.1: EU-Umgebungslärmrichtlinie – 4. Stufe hier: Ergebnisse der Lärmkartierung und weiteres Vorgehen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Strategie zum Breitbandausbau im Landkreis Osnabrück („Graue Flecken“) – Öffentlich-rechtliche Vereinbarungen zur Beauftragung des Landkreises Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 15.1: Anträge der CDU Fraktion auf Prüfung zur Errichtung eines Mehrgenerationenplatzes am „Hubertusring“ und am „Bürgerpark“ - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 15.2: Antrag der SPD-Fraktion auf Einrichtung einer Skateanlage in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.3: Neuaufstellung Regionales Raumordnungsprogramm des Landkreises Osnabrück (RROP) hier: Stellungnahme zur ersten Beteiligung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.4: Beschluss eines Kriterienkatalogs zur Bewertung von Standortanfragen für Freiflächen-Photovoltaik-Anlagen (FFPVA) im Gemeindegebiet - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 15.5: Vergabeverfahren zur Veräußerung des Grundstückes der „Alten Feuerwache Rulle“: Vorstellung der eingereichten Grundstücksbewerbungsunterlagen und Beschluss über das weitere Vorgehen - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 16.: Kämmereiangelegenheiten
+- TOP 16.1: Übernahme einer Bürgschaft zu Gunsten des Blau-Weiss Hollage e.V. - einstimmig, mit 4 Enthaltung(en) gefasst:
+- TOP 16.2: Antrag der FDP-Fraktion auf Anpassung der Hundesteuersatzung - mehrheitlich mit 26 Ja-Stimme(n), 3 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 16.3: Genehmigungen der Annnahmen von Zuwendungen (Entscheidungen Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.4: Genehmigungen der Annahmen von Zuwendungen (Entscheidungen Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.5: Festsetzung der Benutzungsgebühr für die Schmutzwasserkanalisation ab 01.08.2023 (17. Änderung der Abgabensatzung) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.6: 1. Nachtragshaushaltssatzung der Gemeinde Wallenhorst für das Haushaltsjahr 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 17.: Anfragen und Anregungen
+- TOP 17.1: Platzierung von Zigarettensäulen
+- TOP 17.2: Hinweisschilder Grünabfallsammelplatz
+- TOP 17.3: Regelbetrieb ÖPNV Wallenhorst - Osnabrück
+- TOP 17.4: Vogelsticker am Glastreppenhaus des Rathauses
+- TOP 17.5: Eröffnung des Grünabfallsammelplatzes im Gewerbegebiet am Schwarzen See
