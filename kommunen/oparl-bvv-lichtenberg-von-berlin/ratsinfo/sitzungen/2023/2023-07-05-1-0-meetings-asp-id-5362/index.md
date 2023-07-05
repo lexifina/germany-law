@@ -1,0 +1,79 @@
+# 4. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-07-05T19:00:00+02:00
+- Ende: 2023-07-05T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5362
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5362
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=368633
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls der 3. Sitzung - erledigt
+- TOP 3: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 4: Controlling und Kostenentwicklung KULTSchule - erledigt
+- TOP 5: Bericht des Bezirksamtes - erledigt
+- TOP 6: Investitionsplanung 2023 - 2027 - im Ausschuss abgelehnt
+- TOP 6.1: Anmeldung zur Investitionsplanung 2023 – 2027 - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Überwiesene Drucksachen - (offen)
+- TOP 7.1: BiBo-Bike für Lichtenberg (ff) - vertagt
+- TOP 7.2: Diversity-Management Lichtenbergs ausweiten (ff) - vertagt
+- TOP 7.3: Digitale Sprachkurse schaffen - Volkshochschule unterstützen (ff) - vertagt
+- TOP 7.4: Pflege und Entwicklungsplan für das LSG Wartenberger und Falkenberger Feldflur (ff) - vertagt
+- TOP 7.5: Safe Spaces in Lichtenberg schaffen (ff) - vertagt
+- TOP 7.6: Denkmale auf dem Städtischen Friedhof Gotlindestraße erhalten (ff) - vertagt
+- TOP 7.7: Personalbedarfe in Lichtenberger Sozialämtern besser feststellen (allein beratend) - vertagt
+- TOP 7.8: Ausbau Seniorenbegegnungsstätten (Angebote am Wochenende erweitern) (ff) - vertagt
+- TOP 7.9: Stadtplanung und Milieuschutz personell stärken (ff) - vertagt
+- TOP 7.10: Längerer Erfahrungszeitraum für Gewaltpräventionsarbeit durch Maneo in Lichtenberg (ff) - vertagt
+- TOP 7.11: Bessere finanzielle Ausstattung für den Bereich "Aufsuchende Lichtenberger Sozialberatung" (ff) - vertagt
+- TOP 7.12: Modellprojekt Familienzentrum an Grundschule (ff) - vertagt
+- TOP 7.13: Schüler*innenHaushalte im Doppelhaushalt 2024/25 (ff) - vertagt
+- TOP 7.14: Kultursommer verstetigen - vertagt
+- TOP 7.15: Mobiles Bürgeramt in Karlshorst: Auch drinnen warten muss möglich sein (ff) - vertagt
+- TOP 7.16: Schaffung einer Clearingstelle / Sozialberatungsstelle im Jobcenter Lichtenberg (ff) - vertagt
+- TOP 7.17: Digitalisierung voranbringen (allein beratend) - vertagt
+- TOP 7.18: Sanierungsfahrplan für Jugendfreizeiteinrichtungen in freier Trägerschaft in Mietobjekten auf landeseigenen Grundstücken (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 7.19: Rekommunalisierung der Schulreinigung projektbasiert und strukturiert vorbereiten (ff) - vertagt
+- TOP 7.20: Erhöhung des Präventionsbudget im Bezirkshaushaltsplan 2024/2025 (ff) - vertagt
+- TOP 7.21: Erste-Hilfe-Kurse für Kitakinder (ff) - vertagt
+- TOP 7.22: Familienzentrum im Anna-Ebermann-Kiez (ff) - vertagt
+- TOP 7.23: Haushaltsmittel für Dialogdisplays bereitstellen (ff) - vertagt
+- TOP 7.24: Verstetigung des bezirklichen Ferienschwimmens (ff) - vertagt
+- TOP 7.25: Kinderarmutsprävention substantiell haushälterisch sichern (ff) - vertagt
+- TOP 7.26: Wirksam gegen Mietwucher vorgehen (ff) - vertagt
+- TOP 7.27: Schöner unser Mühlengrund - ein Aktionsplan zur Aufwertung (ff) - vertagt
+- TOP 7.28: Marode Einfassungsmauer neben den Glassammelbehältern am Eingang in den Rheinsteinpark in Karlshorst sanieren (ff) - vertagt
+- TOP 7.29: Ersatz für wegfallende Naherholungsfläche im Rosenfelder Ring schaffen (ff) - vertagt
+- TOP 7.30: Lichtenberger Tierschutzpreis (ff) - vertagt
+- TOP 7.31: Tierschutzbeauftragung für Lichtenberg (ff) - vertagt
+- TOP 7.32: Klein aber bedeutend - mehr Mittel für den Erhalt der Kleingewässer in Lichtenberg (ff) - vertagt
+- TOP 7.33: Die Verkehrswende auf die Straße bringen - weitere Stellen für Radverkehrsplanung im Bezirksamt schaffen (ff) - vertagt
+- TOP 7.34: Parkplätze zu Parks: Dorf Wartenberg begrünen (ff) - vertagt
+- TOP 7.35: Klimafreundlich unterwegs - Elektrofahrzeuge für das Bezirksamt (allein beratend) - vertagt
+- TOP 7.36: Lichtenberger Wanderpass (ff) - vertagt
+- TOP 7.37: Mit dem Hund ins Büro (ff) - vertagt
+- TOP 7.38: Mehr Geld für den Unterhalt von Spielplätzen und Grünflächen im Bezirk (ff) - vertagt
+- TOP 7.39: Fest am Rathaus Lichtenberg am 1. Mai (ff) - vertagt
+- TOP 7.40: Kultur- und Bildungszentrum Hohenschönhausen (KuBiz) in I-Planung absichern (ff) - vertagt
+- TOP 7.41: Milieuschutzgebiet in Hohenschönhausen prüfen (allein beratend) - vertagt
+- TOP 7.42: Kulturwiese für Hohenschönhausen (ff) - vertagt
+- TOP 7.43: Humboldt-Prämie einführen (ff) - vertagt
+- TOP 7.44: Natur erleben und verstehen - Naturlehrpfad am Malchower See errichten (ff) - vertagt
+- TOP 7.45: Neue Hall of Fame in der Rummelsburger Bucht finanziell sichern (ff) - vertagt
+- TOP 7.46: Ein Pilotprojekt für Sozialbegleiter:innen im Familienzentrum ansiedeln (ff) - vertagt
+- TOP 7.47: Die Finanzierung der bezirklichen Antidiskriminierungsstelle für Schulen verstetigen (ff) - vertagt
+- TOP 7.48: Starke Mädchen - Mehr Mittel für Mädchensport und Mädchen-Selbstverteidigung (ff) - vertagt
+- TOP 7.49: Instandsetzung des Straßenbelags in der Einbecker Straße (ff) - vertagt
+- TOP 7.50: Fahrbahnquerung über die Waldowallee an der Wiesengrundstraße (ff) - vertagt
+- TOP 7.51: Dreckecke ade - BIM Fläche an der Massower Straße qualifizieren (ff) - vertagt
+- TOP 7.52: Erweiterung der Suchtprävention und Suchthilfeplanung im Bezirk Lichtenberg (ff) - vertagt
+- TOP 7.53: Begutachtung für eine Erhaltungssatzung für den Fennpfuhl (ff) - vertagt
+- TOP 7.54: Gutachten zur Verkehrsberuhigung (ff) - vertagt
+- TOP 8: BVV-Sondermittel für den Familienrenntag auf der Trabrennbahn - vertagt
+- TOP 9: Sonstiges - Sitzungstermine 2024 - erledigt
