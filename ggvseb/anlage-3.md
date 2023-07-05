@@ -51,7 +51,7 @@
   Die Ergebnisse aller Prüfungen und die der erstmaligen Prüfung zugrundeliegenden Unterlagen sind vom Betreiber des Tiegels in der Tiegelakte aufzubewahren.
 4.8 Beförderung der Tiegel
   An die Fahrzeuge für den Straßenverkehr werden folgende zusätzlichen Anforderungen gestellt:
-  – Das Kraftfahrzeug (Zugmaschine oder Motorwagen) muss seit dem 1. Juli 2017 und der Sattelanhänger oder Anhänger ab dem 1. Januar 2021 mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgestattet sein.
+  – Das Kraftfahrzeug (Zugmaschine oder Motorwagen) und der Sattelanhänger oder Anhänger müssen mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgestattet sein.
   – Die Tiegel sind auf den Fahrzeugen/Wagen so zu verladen, dass z. B. Bremsleitungen und elektrische Leitungen in ihrer Funktion nicht beeinflusst werden können.
   – Die Tiegel sind auf den Fahrzeugen/Wagen so auszurichten, dass die Ausgussöffnungen in oder gegen die Fahrtrichtung angeordnet sind.
 4.9 Anforderungen an die Fahrzeugführer

@@ -221,20 +221,8 @@ Beförderung verpackter gefährlicher Abfälle
 | Abfall-/ Unter- gruppe | Klasse(n) | Verpa- ckungs- gruppe(n) oder für Klasse 2: Klassifizie- rungscode | Benennung | Angaben im Beför- derungspapier | Gefahrzettel- muster Nummer | Die chemische Verträglichkeit der Werkstoffe der Verpackungen aus Kunststoff muss mindestens gegen- über folgenden Standardflüssig- keiten gegeben sein |
 | Tunnel- beschrän- kungs- code | Verpa- ckungs- gruppe |
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
-| 1.1 | 2 | Klassifizie- rungscode | Gefäße, klein, mit Gas (Gaspatronen) (UN 2037) mit folgenden Eigenschaften: |  |  |  | Essigsäure, Kohlenwasserstoffgemisch |
-|  |  | 5A | erstickend, | (E) |  | 2.2 |  |
-|  |  | 5F | entzündbar, |  |  | 2.1 |  |
-|  |  | 5FC | entzündbar, ätzend oder |  |  | 2.1 + 8 |  |
-|  |  | 5O | oxidierend | (E) |  | 2.2 + 5.1 |  |
-|  |  |  | Bem. 1: Dieser Gruppe dürfen auch nach Kapitel 3.4 des ADR/RID/ADN freigestellte Gegenstände der Klasse 2 beigegeben werden (z. B. Kohlendioxidpatronen). |  |  |  |  |
-|  |  |  | Bem. 2: Feuerzeuge und deren Nachfüllpatronen der UN 1057 sind Gegenstände des Klassifizierungscodes 6F des ADR/RID/ADN und dürfen daher nicht im Rahmen dieser Ausnahme befördert werden (Beförderung nach Sondervorschrift 654 ADR/RID/ADN). |  |  |  |  |
-| 1.2 | 2 | Klassifizie- rungscode | Gefäße, klein, mit Gas (Gaspatronen) (UN 2037) mit folgenden Eigenschaften: |  |  |  |  |
-|  |  | 5T | giftig, | (D) |  | 2.3 |  |
-|  |  | 5TF | giftig, entzündbar, |  |  | 2.3 + 2.1 |  |
-|  |  | 5TC | giftig, ätzend, |  |  | 2.3 + 8 |  |
-|  |  | 5TO | giftig, oxidierend, |  |  | 2.3 + 5.1 |  |
-|  |  | 5TFC | giftig, entzündbar, ätzend oder |  |  | 2.3 + 2.1 + 8 |  |
-|  |  | 5TOC | giftig, oxidierend, ätzend |  |  | 2.3 + 5.1 + 8 |  |
+| 1.1 | (weggefallen) |  |  |  |  |  |  |
+| 1.2 | (weggefallen) |  |  |  |  |  |  |
 | 1.3 | 2 | 6A | Abfallfeuerlöscher | (D) |  | 2.2 |  |
 | 2.1 | 3 | II und III | Entzündbare, flüssige, nicht giftige, nicht ätzende Abfälle mit einem Flammpunkt unter 23 °C, deren Dampfdruck bei 50 °C 110 kPa (1,10 bar) nicht übersteigt, z. B. Benzin, Spiritus, Petroleum, Alkohole außer Methanol und mit einem Flammpunkt zwischen 23 °C und 60 °C, z. B. Dieselkraftstoff oder Heizöl, leicht | (D/E) | II | 3 | Essigsäure, Kohlenwasserstoffgemisch |
 | 2.2 | 3 | I bis III | Klebstoffabfälle sowie Farb- und Lackabfälle (außer solche, die der UN 1263 zuzuordnen sind, Beförderung gemäß Sondervorschrift 650 ADR/RID/ADN) einschließlich solcher mit Nitrocellulose mit einem Stickstoffgehalt von höchstens 12,6 % in der Trockenmasse | (D/E) | I | 3 |  |
@@ -320,9 +308,7 @@ Beförderung verpackter gefährlicher Abfälle
 2.9 Die Verschlüsse der Anlieferungsgefäße sind vor der Eingabe in die Verpackungen und Großpackmittel (IBC) auf Dichtheit zu kontrollieren.
 2.10 Bei zerbrechlichen, beschädigten oder nicht ordnungsgemäß verschlossenen Anlieferungsgefäßen sind inerte Saugstoffe so einzufüllen, dass die Freiräume zwischen den Anlieferungsgefäßen vollständig ausgefüllt sind.
 2.11 Bei Verpackungen mit W-Codierung (z. B. „1H2W“) müssen die Saugstoffe so bemessen sein, dass sie die gesamte Flüssigkeitsmenge bei einem eventuellen Freiwerden aufsaugen können. Bei festen Abfällen darf stattdessen das Anlieferungsgefäß in einen dicht zu verschließenden Beutel oder Sack aus Kunststofffolie verpackt werden.
-2.12 Gefäße, klein, mit Gas (Gaspatronen), die eingedrückt, aber noch dicht sind, dürfen nur in Fässern, Kanistern oder Kisten aus Pappe (z. B. „4GW“) mit inerten Füllstoffen verpackt werden. Teilentleerte und nicht funktionsfähige Gefäße, klein, mit Gas (Gaspatronen), der Klasse 2 Klassifizierungscode 5F, die entzündbare Gase enthalten, können auch unter folgenden Bedingungen befördert werden:
-  a) Sie sind so in Pappkisten einzusetzen, dass eine Bewegung und eine Belastung der Ventile vermieden werden.
-  b) Die Pappkisten müssen nach Kapitel 6.1 ADR/RID bauartgeprüft, -zugelassen und gekennzeichnet sein. Es gelten die Anforderungen der Verpackungsgruppe II.
+2.12 (weggefallen)
 2.13 Abfallfeuerlöscher der Abfalluntergruppe 1.3 dürfen auch in folgenden nicht bauartgeprüften und -zugelassenen Verpackungen befördert werden:
   Boxpaletten aus Metall oder Kunststoff sowie Gitterboxpaletten, wobei die Palette auch aus Holz bestehen darf.
 2.14 Die Verpackungen und Großpackmittel (IBC) für Abfälle der Abfallgruppen 1 und 14 müssen mit einer Lüftungseinrichtung nach Unterabschnitt 4.1.1.8 ADR/RID ausgerüstet sein.
