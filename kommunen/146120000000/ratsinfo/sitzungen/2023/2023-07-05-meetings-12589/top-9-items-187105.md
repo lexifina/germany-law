@@ -1,0 +1,8 @@
+# TOP 9: Förderung von Projekten durch den Stadtbezirksbeirat Loschwitz hier: Kleinprojekt 34/23; 'Konzert und Zirkus-Show im Garten'
+
+- Sitzung: 44. Sitzung des Stadtbezirksbeirates Loschwitz (2023-07-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/187105
+- Ergebnis: Zustimmung über Umlaufverfahren nach Fachförderrichtlinie
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/57534
