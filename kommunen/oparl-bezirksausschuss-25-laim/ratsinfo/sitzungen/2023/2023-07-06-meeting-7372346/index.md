@@ -1,0 +1,99 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-07-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372346
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372346
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Autorasen in der Fürstenrieder Straße
+- TOP 1.2.2.: Frage zu Bauplänen München Laim / Mänhardt-Wohnlage
+- TOP 2: Anträge
+- TOP 2.1.: Beschilderung aller bestehenden und zukünftig umgesetzten Wildblumenwiesen im Bezirk
+- TOP 2.2.: Hybridsitzungen für BA-Vollgremium
+- TOP 2.3.: Sauberkeit am U-Bahnhof Laimer Platz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Elternbeirat des Kindergartens Zu den hl. Zwölf Aposteln Ausflug in den Märchenwald im Juli 2023 1.867,50 Euro, Az.: 0262.0-25-0296
+- TOP 3.2.: (E) Stadtbezirksbudget Laimer Spielmäuse e.V. Anschaffung einer Hochebene 5.000,00 Euro, Az.: 0262.0-25-0294
+- TOP 3.3.: (E) Stadtbezirksbudget Schachfreunde München e.V. Schachfestival München vom 26. - 30.05.2023 825,00 Euro, Az.: 0262.0-25-0295
+- TOP 3.4.: (E) Stadtbezirksbudget InitiativGruppe e.V., Abteilung Feuerwache Schulsozialarbeit MS Schrobenhausener Straße Tanz- und Theaterworkshop "was soll der olle Schinken" vom 02.10. - 30.11.2023 2.500,00 Euro, Az.: 0262.0-25-0299
+- TOP 3.5.: (E) Stadtbezirksbudget Laimer Spielmäuse e.V. Bauernhoffahrt vom 28.06. - 30.06.2023 2.019,75 Euro, Az.: 0262.0-25-0300
+- TOP 3.6.: (E) Stadtbezirksbudget brennt GmbH Hörgang 4x4 - 2023 im September 2023 5.000,00 Euro, Az.: 0262.0-25-0301
+- TOP 3.7.: (E) Stadtbezirksbudget Pfarrjugend Fronleichnam Anschaffung eines Zeltes 699,99 Euro, Az.: 0262.0-25-0293
+- TOP 3.8.: (E) Stadtbezirksbudget Familienzentrum Laim, DKSB e.V. Regsam Stadtteilspielfest am 30.06.2023 1.750,00 Euro, Az.: 0262.0-25-0302
+- TOP 3.9.: (E) Stadtbezirksbudget Jane Addams Zentrum e.V. Sommerfest mit und für Nachbar*innen am 22.07.2023 1.327,50 Euro, Az.: 0262.0-25-0303
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Sicherheitswacht in Laim
+- TOP 4.2.: Einzelfällungsanträge
+- TOP 4.3.: Schreiben Direktorium vom 05.06.23: Rechtzeitige Beteiligung der Bezirksausschüsse an allen Bebauungsplanverfahren sicherstellen
+- TOP 4.4.: Schreiben Baureferat vom 31.05.23: Bänke Fürstenrieder Straße
+- TOP 4.5.: Schreiben Baureferat vom 14.06.23: Parkbank für die Straubinger Straße
+- TOP 4.6.: Schreiben Direktorium vom 16.06.23: Öffentlichkeitsbeteiligung Direktorium
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr., Grundstück 171/3-Laim Neubau zweier Mehrparteienhäuser (ges. 8 WE) mit Reihenhäusern (ges. 3 WE) und einer TG (Camerloherstr. /Stroblstr.) Frist: 07.07.23
+- TOP 5.2.: Flotowstr. 16, Grundstück: 351/23-Laim Umbau / Umnutzung eines Zweifamilienhaus in ein Einfamilienhaus mit Garage Frist: 07.07.23
+- TOP 5.3.: Landsberger Str. 289, Grundstück 292/29-Laim Nutzungsänderung und Ladenteilung zu Imbiss mit Lieferservice und Ladengeschäft Frist: 07.07.23
+- TOP 5.4.: Von-der-Pfordten-Str. 19, Grundstück 4/16-Laim Errichtung eines Rückgebäudes mit Garage und Dachgeschosswohnung (Frist 07.07.23)
+- TOP 5.5.: Zschokkestr. 30, 398/0-Laim Neubau einer Wohnanlage mit 126 Wohneinheiten als freifinanzierter Mietwohnungsbau mit Laden, Gemeinschaftsräumen, intergrierter Kindertagesstätte und Tiefgarage mit 70 Stellplätzen und Mobilitätskonzept 0,5 - hier: Konkretisierung der Wohnnutzung im Haus 3/3a auf "temporäres Wohnen" (61 Einheiten) gemäß Betriebsbeschreibung; Realteilung (Zschokkestr. 30 - 34 / Wilhelm-Riehl-Str. 9) - VORBESCHEID (Frist 15.07.23)
+- TOP 5.6.: Landsberger Str. 368, 240/2-Laim Teilumnutzung eines Büro- und Gewerbegebäudes mit Möbelladen und Parkgarage - VORBESCHEID (Frist 15.07.23)
+- TOP 5.7.: Högerstr., 80/20-Laim Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID (Frist 15.07.23)
+- TOP 5.8.: Pöhlmannstr. 12, 12/12-Laim Anbau eines Wintergartens mit Balkonaufbau (OG) - VORBESCHEID (Frist 15.07.23)
+- TOP 5.9.: Aindorferstr. 124, 127/266-Laim Neubau eines Mehrframilienhauses mit Tiefgarage - VORBESCHEID (Frist 15.07.23)
+- TOP 5.10.: Friedenheimer Str. 104, 352/87-Laim Neubau eines Mehrfamilienhauses mit Tiefgarage - TEKTUR zu 1.23-2021-13778-23 (Frist 16.07.23)
+- TOP 5.11.: Rechpacherstr. 38, 1575/55-Pasing Anbau Dachgauben 1.OG, Ausbau 2.OG (Frist 16.07.23)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 15.05.23
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 12.06.23
+- TOP 7.3.: Protokoll BA-Sitzung vom 15.06.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 01.06.23: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.06.23: Neues Quartier an der Zschokke-/Westendstraße
+- TOP 8.3.: Bautenliste 29.05.-04.06.23 A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Högerstr.
+- TOP 8.4.: Bautenliste 22.05.-28.05.23 A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 368
+- TOP 8.5.: Bautenliste 05.06.23-11.06.23: A) Erstantragsverfahren 1. Rechpacherstr. 38 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Friedenheimer Str. 104 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Aindorferstr. 124 2. Pöhlmannstr. 12
+- TOP 8.6.: Bautenliste 12.06.-18.06.23 A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 336
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.23: Willibaldstr. 51 b
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.06.23: Stöberlstr. 31, Fl.Nr. 226/35, Gemarkung Laim
+- TOP 8.9.: Schreiben Baureferat vom 02.06.23: Kinderanliegen aus der Kinder-Einwohnerversammlung des BA 25 vom 25.11.22 zum Spielplatz an der Von-der-Pfordten-Straße
+- TOP 8.10.: Schreiben Baureferat vom 19.05.23: Photovoltaik auf öffentlichen Gebäuden
+- TOP 8.11.: Schreiben Baureferat vom 19.06.23: Ergebnisse der Machbarkeitsstudie für neue Baumstandorte im öffentlichen Raum
+- TOP 8.12.: Schreiben SWM vom 05.06.23: Baumaßnahmen
+- TOP 8.13.: Schreiben SWM vom 30.05.23: Strom-Projekt Fürstenrieder Straße
+- TOP 8.14.: Schreiben SWM vom 12.06.23: Fernwärme-Projekt Fürstenrieder Straße
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 31.05.23: Parklizenzgebiet Laim
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 26.05.23: VA Gotthardstr. u. weitere vom 30.05.23-29.05.24
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 26.05.23: VA Reutterstr. südlich Gotthardstr. 12.06.-12.09.23
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 20.06.23: VA Gotthardstr. u. weitere vom 20.06.23-29.05.24
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 16.06.23: Kinderanliegen aus der Kinder-Einwohnerversammlung vom 25.11.22
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 16.06.23: Durchsetzung des Fahrradverbotes Gotthard-/Von-der-Pfordten-Str.
+- TOP 8.21.: Schreiben Polizeiinspektion 41 vom 19.06.23: Durchsetzung des Fahrradverbotes Gotthard-/Von-der-Pfordten-Str.
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 07.06.23: Genehmigungen für Straßenfest Endelhauserstr. am 1.7.2023
+- TOP 8.23.: Schreiben Kreisverwaltungsreferat vom 25.05.23: Info zu Baugenehmigungsverfahren für Schanigärten über 40 m²
+- TOP 8.24.: Schreiben Kreisverwaltungsreferat vom 14.06.23: Ausnahmegenehmigung für REGSAM-Fest am 30.06.23 auf dem Hogenbergplatz
+- TOP 8.25.: Schreiben Kreisverwaltungsreferat vom 19.06.23: Krähenfütterung Gotthardstraße/Reutterstraße
+- TOP 8.26.: Schreiben Sozialreferat vom 13.06.23: Zweckentfremdung von Wohnraum, Burgkmairstr.
+- TOP 8.27.: Schreiben Referat für Klima und Umweltschutz vom 20.06.23: Geruchsbelästigung in der Laimer Unterführung
+- TOP 8.28.: Beschluss des BA 7 Sendling-Westpark vom 23.05.23: Westpark: Seebühne und japanischen Garten wieder für alle Bürger*innen öffnen
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Landschaftspark West und städtische Baumschule A) Fortschreibung der Konzeption des Landschaftsparks West B) Stadtratsanträge, Bezirksausschussanträge und Bürgerversammlungsempfehlungen
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 8.33.: Beschluss des Bauausschusses vom 13.06.23: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 8.34.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.35.: Beschluss des Ausschusses für Klima- und Umweltschutz vom 20.06.23: (U) Masterplan solares München
+- TOP 8.36.: Beschluss des Bauausschusses vom 07.02.23: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Orangene Stadtbänke: Kein Platz für Gewalt gegen Frauen (Vertagung in UA Soziales)
+- TOP 9.2.: Grünanlage Ecke Agnes-Bernauer-Str. und Friedenheimer Str. (Weiterleitung an PI 41 und ggf. Sozialreferat)
+- TOP 9.3.: Haltestelle Tram 18 Ammerseestraße Rechtswidriges Verhalten von Postzustellern (Weiterleitung MVG, AKIM, Post und GEWOFAG)
+- TOP 9.4.: Fürstenrieder Straße (Weitergabe an PI 41)
+- TOP 9.5.: Weißenfelderstraße in einen verkehrsberuhigten Bereich umwandeln (Vertagung UA Mobilität)
