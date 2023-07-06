@@ -1,0 +1,58 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (20. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2023-07-06T19:05:00+02:00
+- Ende: 2023-07-06T21:28:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZYIit1lwhtz1X8lz8O_hL0I
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2150
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZT3-2jl-fX5xUGajNcJqXCVUWE42ptRfey9g-inctgZ/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_06.07.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQe32gsb1LgVXOH1qAJZE9NlNNXTQU7-OgIut_SrHMr7/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_06.07.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Unterrichtung über die wesentlichen Ergebnisse des Jahresabschlusses 2022 gemäß § 112 Absatz 5 HGO
+- TOP 2.: Aufstellung einer Einbeziehungssatzung nach § 34 Abs. 4 BauGB der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf im Bereich „Am Birkenhof“ hier: Abwägung der während der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Änderung des Verfahrens - (kein Text vorhanden)
+- TOP 3.: Aufstellung einer Änderung Nr. 28 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf zur Ausweisung einer Wohnbaufläche (W) im Bereich „Am Birkenhof“; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 4.: Aufhebung des Bebauungsplanes Nr. 3 der Kreisstadt Homberg (Efze) für den Stadtteil Welferode; hier: Abwägung über die während der öffentlichen Auslegung gem. § 3 (2) BauGB und Be- teiligung der Behörden sonst. Träger öffentlicher Belange gem. § 4 (2) BauGB einge- gangenen Stellungnahmen der Träger öffentlicher Belange und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 5.: Erlass einer Satzung der Kreisstadt Homberg (Efze) über die Verhängung einer Veränderungssperre für den Teilgeltungsbereich des Bebauungsplans Nr. 1 für den Stadtteil Hülsa zur Anpassung des rechtskräftigen Bebauungsplanes an den Flächennutzungsplan der Kreisstadt Homberg (Efze)
+- TOP 5.1: Erlass einer Satzung der Kreisstadt Homberg (Efze) über die Verhängung einer Veränderungssperre für den Teilgeltungsbereich des Bebauungsplans Nr. 1 für den Stadtteil Hülsa zur Anpassung des rechtskräftigen Bebauungsplanes an den Flächennutzungsplan der Kreisstadt Homberg (Efze) - (kein Text vorhanden)
+- TOP 6.: Teilaufhebung des Bebauungsplanes Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Hülsa; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 7.: Nationale Stadtentwicklungspolitik – Projektaufruf „Post-Corona-Stadt: Ideen und Konzepte für eine resiliente Stadtentwicklung“ Projekt: WANDELpfad & Co-Working Galerie Hier: Neuer Stadtzugang - (kein Text vorhanden)
+- TOP 8.: Ärztehaus am Obertor – dritter Bauabschnitt Hier: Zwischenstand Planung Lph 1-3
+- TOP 9.: Erwerb der Immobilie „Bergstraße 8“ in Homberg (Efze) - (kein Text vorhanden)
+- TOP 10.: Antrag der CDU-Fraktion vom 26.09.2022 betr. Installation von Photovoltaikanlagen hier: Entwurf Solarflächenkataster
+- TOP 11.: Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier“, Projekt „Kulturzentrum Krone“ hier: Vorstellung des Betreiberkonzepts
+- TOP 11.1: Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier“, Projekt „Kulturzentrum Krone“ hier: Vorstellung des Betreiberkonzepts - (kein Text vorhanden)
+- TOP 12.: Einführung einer regionalen Abo-Gemüsekiste für die Homberger Kindertagesstätten im Rahmen des Kita-Ernährungsprojekts - (kein Text vorhanden)
+- TOP 13.: Altersfreundliche Stadt Hier: Beratung und Beschlussfassung über die Zusammensetzung der Steuerungsgruppe - (kein Text vorhanden)
+- TOP 14.: Einbringung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe in der Kreisstadt Homberg (Efze)
+- TOP 14.1: Einbringung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze)
+- TOP 14.2: Einbringung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze)
+- TOP 15.: Leitung des Fachbereichs W | S | T – Anpassung des Stellenplans 2024 - (kein Text vorhanden)
+- TOP 16.: Ausschreibung einer Projektstelle für die Betreuung der Projekte Entwicklung ehem. Klinikareal und Dorfentwicklung im Fachbereich Wirtschaftsförderung | Stadtentwicklung | Tourismus
+- TOP 16.1: Ausschreibung einer Projektstelle für die Betreuung der Projekte Entwicklung ehem. Klinikareal und Dorfentwicklung im Fachbereich Wirtschaftsförderung | Stadtentwicklung | Tourismus - (kein Text vorhanden)
+- TOP 17.: Verkehrsführung Bindeweg; Entwirrung des Verkehrs vor dem Eingang der Theodor-Heuss-Schule - (kein Text vorhanden)
+- TOP 18.: Mittel- bis langfristige Nutzung der Immobilie Sandweg 1, durch die Montessori-Schule Homberg(Efze) - (kein Text vorhanden)
+- TOP 19.: Sachstandsbericht zur „Digitalen Dorflinde“
+- TOP 20.: Sachstandsberichte und sonstige Informationen
+- TOP 20.1: Sanierung Stadion am Stellberg hier: Sachstandsbericht
+- TOP 20.1.1: Sanierung Stadion am Stellberg hier: Sachstandbericht
+- TOP 20.2: Aufwertung Freibad "Erleborn" Hier: Sachstandsbericht
+- TOP 20.2.1: Aufwertung Freibad „Erleborn“ hier: Sachstandsbericht
+- TOP 20.3: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier "An der Mauer / Hospitalstraße" hier: Sachstandsbericht
+- TOP 20.3.1: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier „An der Mauer / Hospitalstraße“ hier: Sachstandsbericht
+- TOP 20.4: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher "Zukunft Stadtgrün") für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht
+- TOP 20.4.1: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht
+- TOP 20.5: Entwicklung ehemaliges Klinikareal an der Melsunger Straße hier: Sachstandsbericht
+- TOP 20.5.1: Entwicklung ehemaliges Klinikareal an der Melsunger Straße Hier: Sachstandsbericht
+- TOP 20.6: Dorfentwicklung Homberg (Efze) hier: Sachstandsbericht
+- TOP 20.6.1: Dorfentwicklung Homberg (Efze) hier: Sachstandsbericht
+- TOP 20.7: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 21.: Anträge
+- TOP 21.1: Antrag der SPD-Fraktion vom 22.06.2023 betr. Anbringung von Fahrradlehnbügeln - (kein Text vorhanden)
+- TOP 22.: Anregungen
