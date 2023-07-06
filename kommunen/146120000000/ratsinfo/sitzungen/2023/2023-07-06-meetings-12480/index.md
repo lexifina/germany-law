@@ -1,0 +1,68 @@
+# 52. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-07-06T16:00:00+02:00
+- Ende: 2023-07-06T23:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12480
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12480
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00694235.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Aktuelle Stunde zum Thema "Für eine liebenswerte Stadt: Dresdner Straßen- und Stadtteilfeste erhalten." - erledigt
+- TOP 4: Aktuelle Stunde zum Thema: Gründe und Auswirkungen der Haushaltssperre - erledigt
+- TOP 5: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - punktweise Zustimmung
+- TOP 6: Vorschlag und Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2024 bis 2028 - erldedigt - siehe -01 Vorlage
+- TOP 7: Nachwahl eines Mitglieds für das Stiftungsgremium der Sozialstiftung Dresden - erledigt
+- TOP 8: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirks-beirat Leuben der Landeshauptstadt Dresden - Mandat der Partei Bündnis 90/Die Grünen - Zustimmung
+- TOP 9: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Klotzsche der Landeshauptstadt Dresden - Zustimmung
+- TOP 11: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 13: Wesentliche Änderung der TechnologieZentrumDresden GmbH - Zustimmung
+- TOP 14: Beteiligung der Landeshauptstadt Dresden an der Dixie-Dörner-Stiftung - Vertagung nach 22 Uhr
+- TOP 15: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Satzungsänderung der städtischen Stiftungen zur Gremienbesetzung - Zustimmung
+- TOP 17: Schließung der städtischen Kindertageseinrichtung Luboldtstraße 18 in 01324 Dresden - Vertagung nach 22 Uhr
+- TOP 18: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2023/2024 - Vertagung nach 22 Uhr
+- TOP 19: Ausfinanzierung von Mehrkosten für Nachträge und Bauzeitverlängerung für den Aus- und Umbau Heinz-Steyer-Stadion - punktweise Zustimmung
+- TOP 20: Elternbeiträge im Dresdner Kreuzchor - Zustimmung
+- TOP 21: Anpassung der Eintrittspreise der Dresdner Philharmonie ab Saison 2023/2024 zur Einführung eines Kombi-Tickets (mit ÖPNV) - Zustimmung
+- TOP 22: Entgeltfreier Eintritt in kommunalen Kultureinrichtungen für Inhaberinnen und Inhaber des Dresden-Passes - Zustimmung
+- TOP 23: Neufassung der Richtlinie Dresden-Pass - Digitalisierung, Gültigkeitszeitraum, Vorrang/Nachrang von Leistungen, insbesondere die Einführung des Deutschland-Tickets und redaktionelle Änderungen - Zustimmung mit Ergänzung
+- TOP 24: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung durch Einreicher
+- TOP 25: Einführung des Deutschlandtickets als Jobticket für Beschäftigte und als Teil der Aufwandsentschädigung für Stadtratsmitglieder nach Entschädigungssatzung - erledigt
+- TOP 26: Rückübertagung des Erbbaurechts und Betreibung des Lingnerschloss - Zustimmung mit Ergänzung
+- TOP 27: Veränderungen im Ergebnishaushalt des Amtes für Hochbau und Immobilienverwaltung im Haushaltsjahr 2023 im Kontext der Anmietung des Objektes Lingnerallee 3 - Zustimmung
+- TOP 28: Verkauf von Teilflächen in der Stephanienstraße - Zustimmung mit Ergänzung
+- TOP 29: Fortsetzung der Maßnahmen zur Belebung der Innenstadt im Rahmen der Sondernutzungssatzungen - punktweise Zustimmung
+- TOP 30: Erwerb eines Grundstücks in der Gemarkung Altstadt I und Entwicklung der ehemaligen Robotronkantine als geänderter Standort des Kunsthauses Dresden als Teil der Museen der Stadt Dresden sowie als Ausstellungs- und Veranstaltungsort - Verweisung
+- TOP 31: EILANTRAG: Freigabe von mindestens 50% der Mittel der Stadtbezirksbeiräte und der Beauftragten der Landeshauptstadt Dresden - punktweise Zustimmung mit Ergänzung
+- TOP 32: Eilantrag zur Vermeidung einer Reise des gesamten Stadtrates nach Mannheim - Ersetzung
+- TOP 33: Vertagungen aus der Sitzung vom 15./16.06.2023 - erledigt
+- TOP 33.1: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung eines Winterevents auf dem Dresdner Altmarkt - Vertagung nach 22 Uhr
+- TOP 33.2: E-Petition „Beförderung von Anwohnerinteressen bei der Einrichtung und dem Betrieb der Containersiedlung in Sporbitz" - Vertagung nach 22 Uhr
+- TOP 33.3: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 33.4: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 22 Uhr
+- TOP 33.5: Photovoltaik bei städtischen Gebäuden rasch ausbauen - Vertagung nach 22 Uhr
+- TOP 33.6: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 33.7: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung nach 22 Uhr
+- TOP 33.8: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten- Instandsetzungen langfristig planen - Vertagung nach 22 Uhr
+- TOP 33.9: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung nach 22 Uhr
+- TOP 33.10: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung nach 22 Uhr
+- TOP 33.11: Grundlagenermittlung für eine Elbquerung im Dresdner Osten - Ersetzung
+- TOP 33.12: Tag der Krisenvorsorge - Notfall üben - Vertagung nach 22 Uhr
+- TOP 33.13: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 22 Uhr
+- TOP 33.14: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung nach 22 Uhr
+- TOP 33.15: EILANTRAG: Umgestaltung einer Fahrspur zur Umweltspur als befristeter Verkehrsversuch - Flügelweg zwischen der südlichen Tunnelausfahrt und der Raimundstraße in Altcotta - Zustimmung mit Änderung
+- TOP 34: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2023 und 2024 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 35: Hochhausleitbild für die Landeshauptstadt Dresden - Verweisung
+- TOP 36: Erhaltungssatzung H-04.1, Dresdner Äußere Neustadt - Zustimmung
+- TOP 37: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung nach 22 Uhr
+- TOP 38: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
