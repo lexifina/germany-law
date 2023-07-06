@@ -12,14 +12,14 @@
 
 - [§ 3 Inhalt des Überwachungsplans und des vereinfachten Überwachungsplans; Frist zur Einreichung](0003.md)
 
-## Abschnitt 3 Überwachung und Ermittlung der Brennstoff- emissionen; Emissionsbericht (zu den §§ 6 und 7 des Gesetzes)
+## Abschnitt 3 Überwachung und Ermittlung der Brennstoffemissionen; Emissionsbericht (zu den §§ 6 und 7 des Gesetzes)
 
 - [§ 4 Allgemeine Grundsätze](0004.md)
 - [§ 5 Methoden zur Ermittlung von Brennstoffemissionen](0005.md)
 - [§ 6 Brennstoffmengen](0006.md)
 - [§ 7 Berechnungsfaktoren](0007.md)
 - [§ 8 Berücksichtigung des Biomasseanteils bei der Ermittlung der Brennstoffemissionen in den Fällen des § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes](0008.md)
-- [§ 9 Berücksichtigung des Biomasseanteils bei der Ermittlung der Brennstoff- emissionen in den Fällen des § 2 Absatz 2a des Brennstoffemissionshandelsgesetzes](0009.md)
+- [§ 9 Berücksichtigung des Biomasseanteils bei der Ermittlung der Brennstoffemissionen in den Fällen des § 2 Absatz 2a des Brennstoffemissionshandelsgesetzes](0009.md)
 - [§ 10 Berücksichtigung des Anteils flüssiger oder gasförmiger erneuerbarer Brennstoffe nicht-biogenen Ursprungs bei der Ermittlung der Brennstoffemissionen](0010.md)
 - [§ 11 Berücksichtigung dauerhaft eingebundener oder gespeicherter Brennstoffemissionen bei der Ermittlung der Brennstoffemissionen](0011.md)
 - [§ 12 Kontinuierliche Emissionsmessung](0012.md)

@@ -64,7 +64,3 @@ Krankenhausapotheken
 - [§ 37 Übergangsvorschriften](0037.md)
 - [§ 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0038.md)
 - [§ 39 Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken](0039.md)
-- [Anlage 1 (weggefallen)](anlage-1.md)
-- [Anlage 2 (weggefallen)](anlage-2.md)
-- [Anlage 3 (weggefallen)](anlage-3.md)
-- [Anlage 4 (weggefallen)](anlage-4.md)
