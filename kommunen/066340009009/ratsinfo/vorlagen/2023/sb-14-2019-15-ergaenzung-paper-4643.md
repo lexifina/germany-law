@@ -1,0 +1,24 @@
+# Einbringung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Drucksache/Vorlage: SB-14/2019 15. Ergänzung
+- Art: Sachstandsbericht
+- Datum: 2023-07-06
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/vorgang/?__=UGhVM0hpd2NXNFdFcExjZec1xeHwsqBnC2oPKQ9Fg1w
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/paper/4643
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sachstandsbericht (Einbringung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUgYpTml8KLsYcOHlsoNg9HYbWlRZdiyFcHJlDvPbHvH/Sachstandsbericht_SB-14-2019_15._Ergaenzung.pdf
+- Anlage: Sachstandsbericht (BEP Inhaltsverzeichnis) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbwxp4KmPtgdqoVfw78hni0PlX45vmvzze6LbpP5EUUG/BEP_Inhaltsverzeichnis.pdf
+- Anlage: Sachstandsbericht (BEP 14.06.23) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeaaqtgTTO4KzYQZ0DPFgEm2U5uGBNPllM41_zg79S1c/BEP_14.06.23.pdf
+- Anlage: Sachstandsbericht (Anlage 1 - Rechtliche Grundlagen) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWAGZTJPUhYvnuQSDS5EpVH30Bfy3XandML_OUAa2t8/Anlage_1_-_Rechtliche_Grundlagen.pdf
+- Anlage: Sachstandsbericht (Anlage 2 - Daten der Kommune) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXZLYdhp6f3bidfHAlHaQ3TsrJSeirLU8uiYDWf7peN/Anlage_2_-_Daten_der_Kommune.pdf
+- Anlage: Sachstandsbericht (Anlage 3 - Gefährdungsstufen) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMABKELdurllSKx3xac1Tr1ZzlnP9iGTA_616Vn-Wpk/Anlage_3_-_Gefaehrdungsstufen.pdf
+- Anlage: Sachstandsbericht (Anlage 4 - Feuerwehrhäuser) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb-S535Wud5J4_7Tpm5yOqfd4h-hzHoc0MeyTvySl8Xq/Anlage_4_-_Feuerwehrhaeuser.pdf
+- Anlage: Sachstandsbericht (Anlage 5 - Ausrückzeiten und Erreichbarkeiten) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcYOVQJ3smlBprf-ytKTjHl19XIfvdiZEdbbfwZW3vMv/Anlage_5_-_Ausrueckzeiten_und_Erreichbarkeiten.pdf
+- Anlage: Sachstandsbericht (Anlage 6 - Baulicher Zustand Feuerwehrhäuser) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVnA_nNylgqDnJF6EXxjuLktI5-1tO43osuIIWZe1g6f/Anlage_6_-_Baulicher_Zustand_Feuerwehrhaeuser.pdf
+- Anlage: Sachstandsbericht (Anlage 7 - Fahrzeuge) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfNTi_gdz6KeEP2EVrb3yVGQv-8m_5Pd2lAehjN9rS_q/Anlage_7_-_Fahrzeuge.pdf
+- Anlage: Sachstandsbericht (Löschwasserversorgung) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbFjoRQgfa5P-tyw-nQO3WV6OIHhazDzSfc6I4FHvEjY/Loeschwasserversorgung.pdf
+- Anlage: Sachstandsbericht (Personalqualifikation) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcX_LmactDoWWAjN9Ce4r774Hj39QE8W6hp2Dm5X-R8m/Personalqualifikation.pdf
+- Anlage: Sachstandsbericht (Verfügbarkeiten) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVF3pcs7-qut5UcwQWqo_aPzH68PX2mDWEOD2GiGE9_e/Verfuegbarkeiten.pdf
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2150 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- underDirectionOf: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/3-10
