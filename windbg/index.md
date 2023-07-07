@@ -7,5 +7,5 @@
 - [§ 5 Feststellung und Bekanntmachung des Erreichens der Flächenbeitragswerte](0005.md)
 - [§ 6 Verfahrenserleichterungen in Windenergiegebieten; Verordnungsermächtigung](0006.md)
 - [§ 7 Evaluierung; Verordnungsermächtigung](0007.md)
-- [Anlage 1 (zu § 3 Absatz 1)Flächenbeitragswerte](anlage-1.md)
-- [Anlage 2 (zu § 4 Absatz 3 Satz 5)Anrechnungsfaktoren für Rotor-innerhalb-Flächen, für die keine GIS-Daten vorliegen](anlage-2.md)
+- [Anlage (zu § 3 Absatz 1)Flächenbeitragswerte](anlage.md)
+- [Anlage 2 (zu § 4 Absatz 3 Satz 5)(weggefallen)](anlage-2.md)

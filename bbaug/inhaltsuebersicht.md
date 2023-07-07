@@ -393,12 +393,13 @@ Erster Teil
 | § 245c | Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt |
 | § 245d | Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland |
 | § 245e | Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land |
+| § 245f | Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften; Evaluierung |
 Zweiter Teil
 Schlussvorschriften
 | § 246 | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
 | § 246a | Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete |
 | § 246b | Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie |
-| § 246c | Sonderregelungen für bestimmte mobile bauliche Anlagen und mobile Infrastruktureinrichtungen in von Hochwasserkatastrophen betroffenen Gemeinden |
+| § 246c | Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung |
 | § 246d | Sonderregelung für Biogasanlagen |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |

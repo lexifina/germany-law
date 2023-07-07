@@ -57,12 +57,6 @@
 - [§ 22 (weggefallen)](0022.md)
 - [§ 23 Bußgeldvorschriften](0023.md)
 
-## Abschnitt 8 Arbeits- und Sozialrechtliche Beratung
-
-
-## Abschnitt 9 Sonderregelungen und Übergangsbestimmungen
-
-
 ## Abschnitt 7 Grenzüberschreitende Durchsetzung
 
 - [§ 24 Anwendungsbereich](0024.md)
@@ -72,9 +66,15 @@
 - [§ 28 Behandlung ausgehender Ersuchen](0028.md)
 - [§ 29 Behandlung eingehender Ersuchen](0029.md)
 - [§ 30 Ablehnung eingehender Ersuchen](0030.md)
+
+## Abschnitt 8 Arbeits- und Sozialrechtliche Beratung
+
 - [§ 31 Leistungsanspruch](0031.md)
 - [§ 32 Verordnungsermächtigung](0032.md)
 - [§ 33 Informationspflicht bei Anwerbung aus dem Ausland](0033.md)
+
+## Abschnitt 9 Sonderregelungen und Übergangsbestimmungen
+
 
 ## Unterabschnitt 1 Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 

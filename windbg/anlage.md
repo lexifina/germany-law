@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 3 Absatz 1)Flächenbeitragswerte
+# Anlage (zu § 3 Absatz 1)Flächenbeitragswerte
 
 | Bundesland | Spalte 1: Flächenbeitragswert, derbis zum 31. Dezember 2027zu erreichen ist (Anteil derLandesfläche in Prozent) | Spalte 2: Flächenbeitragswert, derbis zum 31. Dezember 2032zu erreichen ist (Anteil derLandesfläche in Prozent) | Spalte 3: Landesflächen(in km2) |
 | Baden-Württemberg | 1,1 | 1,8 | 35 747,82 |
