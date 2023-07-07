@@ -1,8 +1,8 @@
 # Förderrichtlinie Schaf- und Ziegenhaltung Vollzitat: Förderrichtlinie Schaf- und Ziegenhaltung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.3
+- Datum: 2023-07-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19055.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2022
+07.07.2023
 bis
-06.07.2023
+31.12.2025
 
 Förderrichtlinie Schaf- und Ziegenhaltung
 
@@ -55,34 +55,27 @@ Maßgabe dieser Richtlinie,
 
 b)
 
-der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, insbesondere §§ 23 und 44,
+der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
 
 
 c)
 
-den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 22. Dezember 2020 (SächsABl. 2021 S. 20) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352),
+den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
 
 
 d)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 5 Absatz 25 des Gesetzes vom 21. Juni 2019 (BGBl. I S. 846) geändert worden ist,
-
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
 
 e)
 
-der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014 bis 2020 (ABl. C 204 vom 1.7.2014, S. 1) – im Folgenden „Agrarrahmen“ –, die zuletzt durch die Bekanntmachung 2020/C 424/05 (ABl. C 424 vom 8.12.2020, S. 30) geändert worden ist,
-
-
-f)
-
-der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), die durch die Verordnung (EU) 2019/316 der Kommission vom 21. Februar 2019 (ABl. 51l vom 22.2.2019, S. 1) verlängert worden ist,
-
+der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014 bis 2020 (ABl. C 204 vom 1.7.2014, S. 1) – im Folgenden „Agrarrahmen“ –, die zuletzt durch die Bekanntmachung 2020/C 424/05 (ABl. C 424 vom 8.12.2020, S. 30) geändert worden ist,1
 
 in den jeweils geltenden Fassungen.
 
 3.
 
-Die Zuwendungen werden auf der Grundlage des Teils II 1.1.5.1 des Agrarrahmens erbracht. Die Bewilligungsbescheide dürfen erst erlassen werden, nachdem die Regelungen dieser Richtlinie durch die Europäische Kommission für zulässig erklärt worden sind. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben. Bis zur Genehmigung der Regelungen durch die EU-Kommission kann eine Bewilligung und Auszahlung für das jeweilige Verpflichtungsjahr nur auf der Grundlage der Verordnung (EU) Nummer 1408/2013 erfolgen.
+Die Zuwendungen werden auf der Grundlage des Beschlusses der Europäischen Kommission vom 22. Juli 2021 unter dem Aktenzeichen SA.62428 (2021/N) Betreff „Sachsen: Unterstützung der Schaf- und Ziegenhaltung für das Erbringen von Gemeinwohlleistungen“ gewährt. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
 
 4.
 
@@ -108,7 +101,7 @@ Ausgeschlossen von einer Zuwendung sind:
 
 a)
 
-Antragstellende, die als Unternehmen in Schwierigkeiten im Sinne von Randnummer 35 Absatz 15 des Agrarrahmens gelten sowie
+Antragstellende, die als Unternehmen in Schwierigkeiten im Sinne von Randnummer 33 Absatz 63 des Agrarrahmens gelten sowie
 
 
 b)
@@ -128,7 +121,7 @@ Gefördert wird die Haltung der Schafe und/oder Ziegen, die zum Stichtag 1. Janu
 Die Anzahl an Tieren, für die eine Förderung beantragt wird, muss für den Zeitraum vom 1. April bis mindestens 15. September (Haltungszeitraum) im Betrieb gehalten werden. Im Haltungszeitraum aus dem Bestand ausscheidende Tiere können durch andere Tiere, die die Voraussetzungen von Ziffer IV Nummer 1 erfüllen, ersetzt werden.
 
 
-In Fällen höherer Gewalt kann die Bewilligungsbehörde Ausnahmen davon zulassen. Fälle höherer Gewalt sind der Bewilligungsbehörde schriftlich und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen.
+In Fällen höherer Gewalt kann die Bewilligungsbehörde Ausnahmen davon zulassen. Fälle höherer Gewalt sind der Bewilligungsbehörde aktenkundig mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen.
 
 3.
 
@@ -144,7 +137,7 @@ Eine Doppelförderung ist auszuschließen.
 
 
 V.
-Art, Umfang und Höhe der Zuwendung
+Art und Umfang, Höhe der Zuwendung
 
 1.
 
@@ -158,7 +151,7 @@ Die Zuwendung wird als Projektförderung gewährt.
 Finanzierungsart
 
 
-Die Zuwendung wird als nicht rückzahlbarer Zuschuss (Festbetragsfinanzierung) gewährt.
+Die Zuwendung wird als Zuschuss (Festbetragsfinanzierung) gewährt.
 
 3.
 
@@ -197,19 +190,19 @@ Um sicherzustellen, dass
 
 a)
 
-Förderverpflichtungen bei Änderungen der einschlägigen verbindlichen Normen, Anforderungen oder Verpflichtungen angepasst werden können, ist in die Bewilligungsbescheide gemäß Randnummer 724 des Agrarrahmens eine entsprechende Überprüfungsklausel aufzunehmen,
+Förderverpflichtungen bei Änderungen der einschlägigen verbindlichen Normen, Anforderungen oder Verpflichtungen angepasst werden können, ist in die Bewilligungsbescheide gemäß Randnummer 647 des Agrarrahmens eine entsprechende Überprüfungsklausel aufzunehmen,
 
 
 b)
 
-durchgeführte Vorhaben, die über den Programmplanungszeitraum 2014–2020 hinausgehen, an Änderungen des Rechtsrahmens für den folgenden Programmplanungszeitraum angepasst werden können, ist in die Bewilligungsbescheide gemäß Randnummer 725 des Agrarrahmens eine entsprechende Überprüfungsklausel aufzunehmen.
+durchgeführte Vorhaben, die über den Programmplanungszeitraum 2023–2027 hinausgehen, an Änderungen des Rechtsrahmens für den folgenden Programmplanungszeitraum angepasst werden können, ist in die Bewilligungsbescheide gemäß Randnummer 648 des Agrarrahmens eine entsprechende Überprüfungsklausel aufzunehmen.
 
 
 Werden die Anpassungen von den Begünstigten nicht akzeptiert oder vorgenommen, so endet die Verpflichtung, ohne dass Sanktionen oder eine Rückzahlung der für den bereits erbrachten Verpflichtungszeitraum erfolgten Zahlungen gefordert werden.
 
 5.
 
-Bei Einzelbeihilfen über 60 000 Euro werden die nach Randnummer 128 des Agrarrahmens erforderlichen Angaben veröffentlicht.
+Bei Einzelbeihilfen über 10 000 Euro werden die nach Randnummer 112 des Agrarrahmens erforderlichen Angaben veröffentlicht.
 
 
 VII.
@@ -224,7 +217,7 @@ Antragsverfahren und Bewilligungsverfahren
 
 a)
 
-Die Zuwendung ist bis zum 31. März des ersten Antragsjahres bei der Bewilligungsbehörde unter Verwendung der vorgegebenen Formulare und erforderlichen Nachweise schriftlich zu beantragen. Die jeweils geltenden Formulare, Vordrucke und Erklärungen sind im Internet unter https://www.lsnq.de/SZH veröffentlicht. Neuantragstellungen sind letztmalig zum 31. März 2025 zulässig.
+Die Zuwendung ist bis zum 31. März des ersten Antragsjahres bei der Bewilligungsbehörde unter Verwendung der vorgegebenen Formulare und erforderlichen Nachweise zu beantragen. Die Formulare, Vordrucke und Erklärungen sind im Internet abrufbar unter https://www.lsnq.de/SZH. Neuantragstellungen sind letztmalig zum 31. März 2025 zulässig.
 
 
 b)
@@ -232,7 +225,7 @@ b)
 Die Begünstigten haben während des Verpflichtungszeitraums jährlich bis zum 31. März die Anzahl der Tiere nachzuweisen, für die eine Förderung beansprucht wird.
 
 
-Unter Beachtung von Ziffer IV Nummer 4 ist eine Reduzierung der zur Förderung beantragten Tiere bis zu 20 Prozent im Vergleich zum ersten Verpflichtungsjahr zulässig. Eine Anhebung von mehr als 20 Prozent im Vergleich zum ersten Verpflichtungsjahr ist nicht förderfähig.
+Unter Beachtung von Ziffer IV Nummer 4 ist eine Reduzierung der zur Förderung beantragten Tiere bis zu 20 Prozent im Vergleich zum ersten Verpflichtungsjahr zulässig.
 
 
 c)
@@ -258,7 +251,7 @@ Der Verwendungsnachweis besteht aus dem Nachweis des über den Haltungszeitraum 
 Rückforderungen, Zinsen
 
 
-Bei Verstößen gegen die Bestimmungen dieser Richtlinie erfolgen Rückforderungen nach Maßgabe von §§ 48, 49 ff. des Verwaltungsverfahrensgesetzes. Die Nichteinhaltung der Zuwendungsvoraussetzungen innerhalb des Verpflichtungszeitraumes nach Ziffer VI Nummer 2 kann zu einer vollständigen Rückforderung der Zuwendung führen.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 SäHO, soweit nicht in diesen Förderrichtlinien Abweichungen zugelassen worden sind. Die Nichteinhaltung der Zuwendungsvoraussetzungen innerhalb des Verpflichtungszeitraumes nach Ziffer VI Nummer 2 kann zu einer vollständigen Rückforderung der Zuwendung führen.
 
 5.
 
@@ -288,9 +281,9 @@ Fsn-Nr.: 5563-V21.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2022
+Fassung gültig ab:  7. Juli 2023
 
-Fassung gültig bis:  6. Juli 2023
+Fassung gültig bis: 31. Dezember 2025
 
 Drucken/Speichern
 
@@ -315,7 +308,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19055.3
+https://www.revosax.sachsen.de/vorschrift/19055.4
 Stand vom
 18.11.2026
 
