@@ -8,4 +8,4 @@
 - [§ 6 Verfahrenserleichterungen in Windenergiegebieten; Verordnungsermächtigung](0006.md)
 - [§ 7 Evaluierung; Verordnungsermächtigung](0007.md)
 - [Anlage (zu § 3 Absatz 1)Flächenbeitragswerte](anlage.md)
-- [Anlage 2 (zu § 4 Absatz 3 Satz 5)(weggefallen)](anlage-2.md)
+- [Anlage 2 (weggefallen)](anlage-2.md)

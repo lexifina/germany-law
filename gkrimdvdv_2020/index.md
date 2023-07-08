@@ -17,6 +17,15 @@
 ### Abschnitt 1 Auswahlverfahren für das Studium
 
 - [§ 6 Auswahlverfahren und Zulassung zum Auswahlverfahren](0006.md)
+- [§ 6a Teile des Auswahlverfahrens](0006a.md)
+- [§ 6b Festlegungen der Dienstbehörde](0006b.md)
+- [§ 6c Schriftlicher Teil](0006c.md)
+- [§ 6d Zulassung zum mündlichen Teil](0006d.md)
+- [§ 6e Mündlicher Teil](0006e.md)
+- [§ 6f Zulassung zur Prüfung der körperlichen Tauglichkeit](0006f.md)
+- [§ 6g Prüfung der körperlichen Tauglichkeit](0006g.md)
+- [§ 6h Gesamtergebnis und Wiederholungsmöglichkeit](0006h.md)
+- [§ 6i Täuschung](0006i.md)
 - [§ 7 Auswahlkommission](0007.md)
 - [§ 8 Einstellung](0008.md)
 
@@ -33,14 +42,16 @@
 
 - [§ 12 Verteilung und Inhalt der Module](0012.md)
 - [§ 13 Durchführungsort](0013.md)
-- [§ 14 Gestaltung und Organisation der praxisintegrierenden Studienzeiten](0014.md)
-- [§ 15 Ausbildungsplan für die praxisintegrierenden Studienzeiten](0015.md)
-- [§ 16 Ausbildungsverantwortliche für die praxisintegrierenden Studienzeiten](0016.md)
+- [§ 14 Gestaltung und Organisation der Module der praxisintegrierenden Studien](0014.md)
+- [§ 15 Ausbildungsplan für die Module der praxisintegrierenden Studien](0015.md)
+- [§ 16 Ausbildungsverantwortliche für die Module der praxisintegrierenden Studien](0016.md)
 
-#### Unterabschnitt 3 Polizeispezifische Trainings
+#### Unterabschnitt 3 Modulbegleitende Veranstaltungen
 
-- [§ 17 Durchführung und Inhalt der polizeispezifischen Trainings](0017.md)
-- [§ 18 Praktische Prüfungen in den polizeispezifischen Trainings](0018.md)
+- [§ 17 Durchführung und Inhalte der modulbegleitenden Veranstaltungen](0017.md)
+- [§ 18 Prüfungen in den modulbegleitenden Veranstaltungen](0018.md)
+- [§ 18a Prüfung im Polizeitraining](0018a.md)
+- [§ 18b Wiederholung von Prüfungen in den modulbegleitenden Veranstaltungen](0018b.md)
 
 ### Abschnitt 3 Laufbahnprüfung
 
@@ -56,7 +67,7 @@
 - [§ 22 Module mit Modulprüfungen](0022.md)
 - [§ 23 Modulprüfungen in den fachtheoretischen Studienzeiten](0023.md)
 - [§ 24 Zwischenprüfung und Bescheinigung über die Zwischenprüfung](0024.md)
-- [§ 25 Modulprüfungen in den praxisintegrierenden Studienzeiten](0025.md)
+- [§ 25 Modulprüfungen in den praxisintegrierenden Studien](0025.md)
 - [§ 26 Prüfende für die Modulprüfungen](0026.md)
 - [§ 27 Bestehen einer Modulprüfung](0027.md)
 - [§ 28 Wiederholung von Modulprüfungen](0028.md)
@@ -66,9 +77,9 @@
 - [§ 29 Bestandteile der Bachelorarbeit](0029.md)
 - [§ 30 Zweck der Thesis](0030.md)
 - [§ 31 Thema der Thesis](0031.md)
-- [§ 32 Abgabetermin und Bearbeitungszeit für die Thesis](0032.md)
-- [§ 33 Prüfende für die Thesis](0033.md)
-- [§ 34 Betreuung bei Anfertigung der Thesis](0034.md)
+- [§ 32 Bearbeitungszeit und Abgabetermin für die Thesis](0032.md)
+- [§ 33 Prüfende für die Thesis und Bewertung der Thesis](0033.md)
+- [§ 34 Betreuung bei Anfertigung der Thesis und Durchführungsort](0034.md)
 - [§ 35 Freistellung vom Dienst](0035.md)
 - [§ 36 Vorgaben für die Form der Thesis](0036.md)
 - [§ 37 Abgabe der Thesis](0037.md)
@@ -105,18 +116,20 @@
 ### Abschnitt 1 Auswahlverfahren für die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
 
 - [§ 58 Auswahlverfahren und Zulassung zum Auswahlverfahren](0058.md)
+- [§ 58a Ausgestaltung des Auswahlverfahrens](0058a.md)
 - [§ 59 Einstellung](0059.md)
 
 ### Abschnitt 2 Inhalt der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
 
 - [§ 60 Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer](0060.md)
-- [§ 61 Präsenzlehrveranstaltungen und Freistellung vom Dienst](0061.md)
+- [§ 61 Pflichtlehrveranstaltungen und Freistellung vom Dienst](0061.md)
 - [§ 62 Gliederung der kriminalpolizeifachlichen Qualifizierung](0062.md)
 - [§ 63 Verteilung und Inhalt der Module](0063.md)
 - [§ 64 Durchführungsort](0064.md)
-- [§ 65 Dienstliche Beurteilung für Modul 5](0065.md)
-- [§ 66 Durchführung und Inhalt der polizeispezifischen Trainings](0066.md)
-- [§ 67 Praktische Prüfungen](0067.md)
+- [§ 65 Dienstliche Beurteilung für das Modul 4](0065.md)
+- [§ 66 Durchführung und Inhalt der modulbegleitenden Veranstaltungen](0066.md)
+- [§ 67 Prüfung im Polizeitraining](0067.md)
+- [§ 67a Wiederholung der Prüfung im Polizeitraining](0067a.md)
 
 ### Abschnitt 3 Modulprüfungen
 
@@ -156,19 +169,21 @@
 ### Abschnitt 1 Auswahlverfahren für die Qualifizierungsmaßnahme „Ausbildungsverkürzung“
 
 - [§ 91 Auswahlverfahren und Zulassung zum Auswahlverfahren](0091.md)
-- [§ 92 Auswahlkommission](0092.md)
+- [§ 92 Ausgestaltung des Auswahlverfahrens](0092.md)
 - [§ 93 Einstellung](0093.md)
 
 ### Abschnitt 2 Inhalt der Qualifizierungsmaßnahme „Ausbildungsverkürzung“
 
 - [§ 94 Ziel der Qualifizierungsmaßnahme](0094.md)
 - [§ 95 Dauer der Qualifizierungsmaßnahme](0095.md)
-- [§ 96 Präsenzlehrveranstaltungen und Freistellung vom Dienst](0096.md)
+- [§ 96 Pflichtlehrveranstaltungen und Freistellung vom Dienst](0096.md)
 - [§ 97 Gliederung der Qualifizierungsmaßnahme](0097.md)
 - [§ 98 Verteilung und Inhalt der Module](0098.md)
 - [§ 99 Durchführungsort](0099.md)
-- [§ 100 Durchführung und Inhalt der polizeispezifischen Trainings](0100.md)
-- [§ 101 Praktische Prüfungen](0101.md)
+- [§ 100 Durchführung und Inhalt der modulbegleitenden Veranstaltungen](0100.md)
+- [§ 101 Prüfung im Polizeitraining](0101.md)
+- [§ 101a Wiederholung der Prüfung im Polizeitraining](0101a.md)
+- [§ 101b Dienstliche Beurteilung](0101b.md)
 
 ### Abschnitt 3 Modulprüfungen
 
@@ -206,3 +221,7 @@
 
 - [§ 125 Verhinderung bei einer Prüfung oder einem Prüfungsteil](0125.md)
 - [§ 126 Ordnungsverstöße bei einer Prüfung oder einem Prüfungsteil](0126.md)
+
+## Teil 6 Schlussvorschrift
+
+- [§ 127 Übergangsvorschrift](0127.md)

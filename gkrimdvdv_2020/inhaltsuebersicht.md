@@ -13,6 +13,15 @@ Studium
 Abschnitt 1
 Auswahlverfahren für das Studium
 | § 6 | Auswahlverfahren und Zulassung zum Auswahlverfahren |
+| § 6a | Teile des Auswahlverfahrens |
+| § 6b | Festlegungen der Dienstbehörde |
+| § 6c | Schriftlicher Teil |
+| § 6d | Zulassung zum mündlichen Teil |
+| § 6e | Mündlicher Teil |
+| § 6f | Zulassung zur Prüfung der körperlichen Tauglichkeit |
+| § 6g | Prüfung der körperlichen Tauglichkeit |
+| § 6h | Gesamtergebnis und Wiederholungsmöglichkeit |
+| § 6i | Täuschung |
 | § 7 | Auswahlkommission |
 | § 8 | Einstellung |
 Abschnitt 2
@@ -24,15 +33,17 @@ Allgemeines
 | § 11 | Gliederung des Studiums und Teilnahmepflicht |
 Unterabschnitt 2
 Module
-| § 12 | Verteilung und Inhalt der Module |
+| § 12 | Inhalt der Module |
 | § 13 | Durchführungsort |
-| § 14 | Gestaltung und Organisation der praxisintegrierenden Studienzeiten |
-| § 15 | Ausbildungsplan für die praxisintegrierenden Studienzeiten |
-| § 16 | Ausbildungsverantwortliche für die praxisintegrierenden Studienzeiten |
+| § 14 | Gestaltung und Organisation der Module der praxisintegrierenden Studien |
+| § 15 | Ausbildungsplan für die Module der praxisintegrierenden Studien |
+| § 16 | Ausbildungsverantwortliche für die Module der praxisintegrierenden Studien |
 Unterabschnitt 3
-Polizeispezifische Trainings
-| § 17 | Durchführung und Inhalt der polizeispezifischen Trainings |
-| § 18 | Praktische Prüfungen in den polizeispezifischen Trainings |
+Modulbegleitende Veranstaltungen
+| § 17 | Durchführung und Inhalte der modulbegleitenden Veranstaltungen |
+| § 18 | Prüfungen in den modulbegleitenden Veranstaltungen |
+| § 18a | Prüfung im Polizeitraining |
+| § 18b | Wiederholung von Prüfungen in den modulbegleitenden Veranstaltungen |
 Abschnitt 3
 Laufbahnprüfung
 Unterabschnitt 1
@@ -45,7 +56,7 @@ Modulprüfungen
 | § 22 | Module mit Modulprüfungen |
 | § 23 | Modulprüfungen in den fachtheoretischen Studienzeiten |
 | § 24 | Zwischenprüfung und Bescheinigung über die Zwischenprüfung |
-| § 25 | Modulprüfungen in den praxisintegrierenden Studienzeiten |
+| § 25 | Modulprüfungen in den praxisintegrierenden Studien |
 | § 26 | Prüfende für die Modulprüfungen |
 | § 27 | Bestehen einer Modulprüfung |
 | § 28 | Wiederholung von Modulprüfungen |
@@ -54,9 +65,9 @@ Bachelorarbeit
 | § 29 | Bestandteile der Bachelorarbeit |
 | § 30 | Zweck der Thesis |
 | § 31 | Thema der Thesis |
-| § 32 | Abgabetermin und Bearbeitungszeit für die Thesis |
-| § 33 | Prüfende für die Thesis |
-| § 34 | Betreuung bei Anfertigung der Thesis |
+| § 32 | Bearbeitungszeit und Abgabetermin für die Thesis |
+| § 33 | Prüfende für die Thesis und Bewertung der Thesis |
+| § 34 | Betreuung bei Anfertigung der Thesis und Durchführungsort |
 | § 35 | Freistellung vom Dienst |
 | § 36 | Vorgaben für die Form der Thesis |
 | § 37 | Abgabe der Thesis |
@@ -94,6 +105,7 @@ die kriminalpolizeifachliche
 Qualifizierung für eine Verwendung im Bereich
 „Cyberkriminalität“
 | § 58 | Auswahlverfahren und Zulassung zum Auswahlverfahren |
+| § 58a | Ausgestaltung des Auswahlverfahrens |
 | § 59 | Einstellung |
 Abschnitt 2
 Inhalt der
@@ -101,13 +113,14 @@ kriminalpolizeifachlichen
 Qualifizierung für eine Verwendung im Bereich
 „Cyberkriminalität“
 | § 60 | Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer |
-| § 61 | Präsenzlehrveranstaltungen und Freistellung vom Dienst |
+| § 61 | Pflichtlehrveranstaltungen und Freistellung vom Dienst |
 | § 62 | Gliederung der kriminalpolizeifachlichen Qualifizierung |
 | § 63 | Verteilung und Inhalt der Module |
 | § 64 | Durchführungsort |
-| § 65 | Dienstliche Beurteilung für Modul 5 |
-| § 66 | Durchführung und Inhalt der polizeispezifischen Trainings |
-| § 67 | Praktische Prüfungen |
+| § 65 | Dienstliche Beurteilung für das Modul 4 |
+| § 66 | Durchführung und Inhalt der modulbegleitenden Veranstaltungen |
+| § 67 | Prüfung im Polizeitraining |
+| § 67a | Wiederholung der Prüfung im Polizeitraining |
 Abschnitt 3
 Modulprüfungen
 | § 68 | Prüfungsamt |
@@ -146,19 +159,21 @@ Auswahlverfahren
 für die Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“
 | § 91 | Auswahlverfahren und Zulassung zum Auswahlverfahren |
-| § 92 | Auswahlkommission |
+| § 92 | Ausgestaltung des Auswahlverfahrens |
 | § 93 | Einstellung |
 Abschnitt 2
 Inhalt der Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“
 | § 94 | Ziel der Qualifizierungsmaßnahme |
 | § 95 | Dauer der Qualifizierungsmaßnahme |
-| § 96 | Präsenzlehrveranstaltungen und Freistellung vom Dienst |
+| § 96 | Pflichtlehrveranstaltungen und Freistellung vom Dienst |
 | § 97 | Gliederung der Qualifizierungsmaßnahme |
 | § 98 | Verteilung und Inhalt der Module |
 | § 99 | Durchführungsort |
-| § 100 | Durchführung und Inhalt der polizeispezifischen Trainings |
-| § 101 | Praktische Prüfungen |
+| § 100 | Durchführung und Inhalt der modulbegleitenden Veranstaltungen |
+| § 101 | Prüfung im Polizeitraining |
+| § 101a | Wiederholung der Prüfung im Polizeitraining |
+| § 101b | Dienstliche Beurteilung |
 Abschnitt 3
 Modulprüfungen
 | § 102 | Prüfungsamt |
@@ -193,3 +208,7 @@ Verhinderung und
 Ordnungsverstöße bei Prüfungen
 | § 125 | Verhinderung bei einer Prüfung oder einem Prüfungsteil |
 | § 126 | Ordnungsverstöße bei einer Prüfung oder einem Prüfungsteil |
+Teil 6
+Schlussvorschriften
+§ 127
+Übergangsvorschrift
