@@ -1,0 +1,179 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393255
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393255
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Was bringt ein 9-Euro-Ticket, wenn „nichts“ (mehr) fährt?
+- TOP 6.2.: Bearbeitung des Antrags zur Beschleunigung der Buslinie 153
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Völlig unzureichende Nahversorgung Bürger*innenanliegen vom 03.06.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand Augustenstr. 87-89 im EG - Zweckentfremdung
+- TOP 1.2.2.: Leerstand Heßstraße 23 - Zweckentfremdung
+- TOP 1.2.3.: Leerstand Schleißheimer Str. 90 - Zweckentfremdung
+- TOP 1.2.4.: Leerstand Steinheilstraße 7 – Kein Baufortschritt
+- TOP 1.2.5.: Filiale der HypoVereinsbank Ecke Theresien-/Augustenstraße incl. SB – Zone wird im September geschlossen – Gebäude Quo Vadis?
+- TOP 1.2.6.: Filiale der HypoVereinsbank Ecke Theresien-/Augustenstraße incl. SB – Zone wird im September geschlossen – Forderung nach Erhalt der SB – Zone bzw. der Schaffung einer SB –Zone in der Nähe
+- TOP 1.2.7.: Wo sind die Bäume?
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 23
+- TOP 2.1.2.: WEB-Liste der LBK: KW 20-22
+- TOP 2.1.3.: Gabelsbergerstr., Kinderhaus für die TU München│
+- TOP 2.1.4.: Enhuberstr. 6, Abbruch und Neubau des Seiten- und Rückgebäude - VORBESCHEID
+- TOP 2.1.5.: Luisenstr. 51, Umbau, Sanierung, Aufstockung und Umnutzung eines RGBkomplexes (Luisenstr. 51-53 / Theresienstr. 47a) - VORBESCHEID
+- TOP 2.1.6.: Schellingstr. 32, Innenhof: WDVS, Balkonanbau, Fensteraustausch, Außenanlagen; WDVS Kommunwände
+- TOP 2.1.7.: Neureutherstr. 14, Ausbau des Dachgeschosses mit energetischer Sanierung, des rückwärti-gen Lagers und Anbau eines Außenliftes des denkmalgeschützten Gebäudes
+- TOP 2.1.8.: Barer Str. 68, Neubau Wohnhaus im Hinterhof - VORBESCHEID
+- TOP 2.1.9.: Augustenstr. 37, Dachgeschossumbau mit Rückbau einer bestehenden Wohneinheit und Er-stellung zweier neuer Wohneinheiten, Anbau von Aufzug und Balkonen, Fassadenumgestal-tung in Anlehnung an die historische Fassade im EG
+- TOP 2.1.10.: Arcisstr. 36, Erneuerung und Erweiterung der Dachgeschosse durch den Bau eines Mansarddachs, hofseitige Anbringung von neuen Balkonen und Fluchtpodesten mit Notleitern, Umnutzung von Flächen im UG und RGB, Abbruch einer Einzelgarage und Errichtung eines Carports
+- TOP 2.1.11.: Dachauer Str. 2, Umbau von best. Wohnungen, Rückbau von Balkonen, Erweiterung Bade-zimmer 1.-3. Obergeschoss
+- TOP 2.1.12.: Nymphenburger Str. 58, Neubau eines Bürogebäudes - VORBESCHEID
+- TOP 2.2: Entscheidung
+- TOP 2.2.1.: Entscheidung- Bestellung einer städtischen Leistung Umwandlung der Grünfläche entlang der Luisenstraße/ Zieblandstraße in eine Blumenwiese
+- TOP 2.3: Budget
+- TOP 2.3.1.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V., Kreisgruppe München Munich Central Park Tram vom 01.08. - 30.09.2023 1.000,00 Euro, Az.: 0262.0-3-0474
+- TOP 2.4: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 2.4.1.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 2.5: Entscheidung
+- TOP 2.5.1.: Umwandlung der Grünfläche entlang der Luisenstraße / Zieblandstraße in eine Blumenwiese
+- TOP 2.6: Entscheidung
+- TOP 2.6.1.: Münchens 1. Müllmeisterschaft - Holt euch mit eurem Viertel den Pokal!
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Gabelsbergerstr. 17
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 5.2.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 5.3.: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 5.4.: Amalienstr. 33: Abdruck der Baugenehmigung
+- TOP 5.5.: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 5.6.: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 5.7.: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 5.8.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 5.9.: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 5.10.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 5.11.: Augustenstr. 45, Abdruck Baugenehmigung
+- TOP 5.12.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 5.13.: Versetzung Wertstoffinsel Heßstraße
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Belastung durch Baumaßnahmen und Straßensperrungen Bürger*innenanliegen vom 05.06.2023
+- TOP 1.1.2.: Tempo 30-Zone in der Karlstraße Bürger*innenanliegen vom 06.06.2023
+- TOP 1.1.3.: Nutzung der Tiefgarage im Museumsviertel Bürger*innenanliegen vom 08.06.2023
+- TOP 1.1.4.: Überfüllter Altkleidercontainer in der Adalbertstraße Bürger*innenanliegen vom 09.06.2023
+- TOP 1.1.5.: entfällt
+- TOP 1.1.6.: Tempolimit/Geschwindigkeitsreduktion Kreittmayerstr.
+- TOP 1.1.7.: Spaten Marsstraße
+- TOP 1.1.8.: Parken in zweiter Reihe Schanigarten Heßstraße 76
+- TOP 1.1.9.: Fahrradstraße in der Königinstraße
+- TOP 1.1.10.: Entwurf VAO zur Aufhebung der Benutzungspflicht auf Höhe der Arnulfstr. 52 und Anbringen eines Schutzstreifens
+- TOP 1.1.11.: Täglicher Partylärm vor Pinakothek der Moderne
+- TOP 1.1.12.: 30-Zone in Theresienstr.
+- TOP 1.1.13.: Völlig unzureichende Versorgung!
+- TOP 1.1.14.: Tempo 30 Gabelsberger, Schleißheimer, Luisenstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Freischankflächen - nimmt die BI zweierlei Maß
+- TOP 1.2.2.: „Klima-Kleben“ auf allen Straßen, die für Rettungseinsätze und Gefahrenabwehrmaßnahmen in der Maxvorstadt besonders kritisch sind, verbieten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Antrag Radabstellanlage Maxvorstadt, Görresstraße
+- TOP 2.1.2.: Entwurf VAO zur Aufhebung der Benutzungspflicht auf Höhe der Arnulfstr. 52 und Anbringen eines Schutzstreifens
+- TOP 2.1.3.: Anhörung verkehrsrechtliche Anordnung - Brienner Straße - Parkmöglichkeit f. schwerbehinderte Menschen
+- TOP 2.1.4.: Antrag (Radentscheid München) für eine Fahrradabstellanlage in der Isabellastraße und in der Lothstraße
+- TOP 2.1.5.: Antrag (Radentscheid München) für eine Fahrradabstellanlage in der Georgenstraße, Isabellastraße und in der Adalbertstraße
+- TOP 2.1.6.: (Bez. 3) Markierung einer Sperrfläche in der Dooring Zone, Dachauer Str.
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Entscheidungsvorschlag zur künftigen Raumaufteilung der Elisenstraße
+- TOP 2.2.2.: Barer Straße 84, Antrag auf Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.2.3.: Ludwigstr. 21, Antrag auf Aufstellung eines mobilen Fahrradständers
+- TOP 2.2.4.: (E) Präsentation des aktuellen Planungsstandes der Oberflächengestaltung am westlichen Ende des Altstadtringtunnels
+- TOP 2.2.5.: entfällt
+- TOP 2.2.6.: Beschlussvorlage für BA 3_Antrag für eine neue Verkaufseinrichtung (Warenauslage)_Türkenstr. 96_Änderungsatelier Sylvia Houston
+- TOP 2.2.7.: Antrag Parklets 19.6 - 31.10.2023
+- TOP 2.2.8.: BA-Beschlussvorlage für die Sitzung am 11.07.2023, Projekt "Steinhuber Miniblock"
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Antrag auf Freischankfläche in Parkständen (sog. Schanigarten) - Cafe "TH-Cafe", Georgenstr. 35, 80799 München
+- TOP 2.3.2.: Antrag auf Freischankfläche (Kleinstfläche) - Betrieb Masala Munchery, Augustenstr. 76
+- TOP 2.3.3.: Antrag auf eine Freischankfläche in Parkständen (Schanigarten) - Kleingaststätte Bar Dell&#039;Osteria, Schellingstr. 60
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung (Stadtbezirk 3) Straßenorchester „Eigen Hulp“ Odeonsplatz beim Reiterdenkmal am 12.08.2023 – Termin: 15.07.2023
+- TOP 2.4.2.: Anhörung (Bezirk 1 und 3) – Internationale Automobilausstellung 2023 – Open Space Teilbe-reich 2 Wittelsbacherplatz und Odeonsplatz
+- TOP 2.4.3.: Anhörung (Bezirk 3) – Internationale Automobilausstellung 2023 – Open Space Teilbereich 3 Ludwigstraße – vom 05.09.-10.09.2023 – Termin: 11.08.2023
+- TOP 2.4.4.: Bez. 3, Arnulfpark | Anhörung für ICF Kinder- und Familienprogramm am 30.07.
+- TOP 2.4.5.: Maßmannpark Skateanlage | Anhörungsverfahren für "MÜK-Sommer-Boarding - Ideenwerkstatt der Münchner Kinderzeitung" am 02.082023 (Ersatztermin: 08.08.2023) | Anhörungsfrist: 24.07.2023
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnung
+- TOP 3.2.: ART OvMR - Begehung Musterflächen mit BA 03 - Ergebnis
+- TOP 3.3.: Baustellenplanungen der SWM/MVG im Umgriff der Tram 27/28 südlich des Kurfürstenplatzes (Herbst 2023)
+- TOP 3.4.: Königsplatz (Bez.3) – StVO-Erlaubnis Landung eines Rettungshubschraubers anlässlich des Tags der ersten Hilfe am 01.07.2023
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Großtagespflege Joonies in der Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: EU-Schulprogramm für die Maxvorstadt bewerben
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat des Hortes an der Grundschule an der Türkenstraße 68 Elternbildungsabend "Kinder stark machen für das Leben" am 22.06.2023 220,00 Euro, Az.: 0262.0-3-0471
+- TOP 2.2.: (E) Stadtbezirksbudget Pflegehof München e.V. Ausstattung der Wohn- und Gemeinschaftsräume 3.000,00 Euro, Az.: 0262.0-3-0476
+- TOP 2.3.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation - Konflikthilfe in Schulen vom 12.09.2023 - 01.08.2024 4.000,00 Euro, Az.: 0262.0-3-0472
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Einladung zum Sommer am Roten Ring 12.7 / 19.7 und 26.7
+- TOP 4.4.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Fassade der TU für Street-Art freigeben!
+- TOP 1.2.2.: Trafohaus an der Alten Pinakothek gestalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Spielhaus Sophienstraße Kulturfeste am Roten Ring, Karl-Stützel-Platz vom 12.06. - 31.07.2023 1.400,00 Euro, Az.: 0262.0-3-0475
+- TOP 2.2.: (E) Stadtbezirksbudget HIDALGO gGmbH HIDALGO Refugium im Rahmen des HIDALGO Festivals 4 Tage zwischen dem 02.09. und 31.10.2023 2.854,78 Euro, Az.: 0262.0-3-0478
+- TOP 2.3.: (E) Stadtbezirksbudget Lost Weekend GmbH Art Projekt "Lost Weekend meets Young Art" vom 18.08.2023 - 17.08.2024 5.256,00 Euro, Az.: 0262.0-3-0480
+- TOP 2.4.: (E) Stadtbezirksbudget Elternbeirat des Städtischen Luisengymnasiums München Jubiläumskonzert zum 200jährigen Bestehen des Städtischen Luisengymnasiums vom 06. - 09.07.2023 4.421,13 Euro, Az.: 0262.0-3-0477
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Münchner Wände für Streetart "Made in Munich"
+- TOP 4.2.: TERMINÄNDERUNG: WG: Bez. 03, Josephspl. | Anhörung § 29 StVO für "Eröffnung Kunst Kioske" am 20.09.2023
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: entfällt
+- TOP 1.2.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen (Antwort des Oberbürgermeisters auf Schreiben des BA 1 vom 24.04.2023)
+- TOP 1.3.: "Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets"
+- TOP 1.4.: Ferienausschuss im August 2023 Festlegung der Größe des Ferienausschusses Benennung der Mitglieder durch die Fraktionen Wahl der*des Ferienausschussvorsitzenden Vertretungsregelung
+- TOP 1.5.: Sitzungstermine BA 3 für 2024
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
