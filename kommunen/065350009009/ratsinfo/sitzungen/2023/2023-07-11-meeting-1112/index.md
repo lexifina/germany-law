@@ -1,0 +1,55 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (31. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2023-07-11T20:00:00+02:00
+- Ende: 2023-07-11T22:32:00+02:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Stadthallenweg 12
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZZRVc8AM6EXD8maGbYYNUJ0
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1112
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV_3t2f9lhfmY-Av5GPlezA5a3tOpSU543_nh3Ew0nuk/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_11.07.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcsvbfcRFkIXc3LRJzx2E9uK6bnVNXeqM4ggLyqubQuO/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_11.07.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Anfrage Fraktion BÜRGERFORUM betreffend Förderung und Steuerung sozialer Hilfen
+- TOP 5.: Anfrage Fraktion BÜRGERFORUM betreffend Energieverbrauch in den öffentlichen Einrichtungen der Stadt Homberg (Ohm)
+- TOP 6.: Anfrage der Fraktion BÜRGERFORUM betreffend Grundstücksgeschäfte der Stadt Homberg (Ohm) vom 01.12.2022 bis 30.06.2023
+- TOP 7.: Anfrage Fraktion BÜRGERFORUM betreffend Verkauf eines Teilgrundstücks Triftstraße 1 im Stadtteil Schadenbach
+- TOP 8.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 15.05.2023 - (kein Text vorhanden)
+- TOP 9.: Projektvereinbarung Stadt Homberg ./. Hessische Landgesellschaft (HLG) – Landerwerb Gewerbegebiet „Am Roten Berg“ - (kein Text vorhanden)
+- TOP 10.: Antrag Fraktion BÜRGERFORUM betreffend Berichterstattung zur Unterbringung von Flüchtlingen in der Stadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 11.: Anpassung der Schaffensbeitragssätze für die Abwasserbeseitigung (Netz) und Wasserversorgung (Netz) nach erfolgter Rechnungsperiodenkalkulation - (kein Text vorhanden)
+- TOP 12.: Bauleitplanung der Stadt Homberg (Ohm), Kernstadt Bebauungsplan „Wingenhain“ - 1. Änderung Ergänzungsbeschluss zum Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB - (kein Text vorhanden)
+- TOP 13.: Stromkonzessionsvertrag Ortsteil Deckenbach – Festlegung Auswahlkriterien für die Angebotsabgabe - (kein Text vorhanden)
+- TOP 14.: Windparkprojekt Deckenbach – Vertragsabschluss Wegenutzungsvertrag - (kein Text vorhanden)
+- TOP 15.: Projektrahmenvereinbarung Stadt Homberg (Ohm) ./. Hessische Landgesellschaft - (kein Text vorhanden)
+- TOP 16.: Einführung der GÜT Ev. Dekanat Vogelsberg zum 01.01.2024 - (kein Text vorhanden)
+- TOP 17.: Antrag Fraktion BÜRGERFORUM zum Abschluss eines Vergleichs in einem Rechtsstreit sowie zur Gleichbehandlung von Bürgern - (kein Text vorhanden)
+- TOP 18.: Antrag Fraktion BÜRGERFORUM zur Schaffung des Planungsrechts für das Gewerbe- und Industriegebiet "Am Roten Berg " - (kein Text vorhanden)
+- TOP 19.: Antrag SPD-Fraktion auf verkehrsberuhigende, bauliche Maßnahmen bei Sanierung der Landesstraße L 3126 (Welckerstraße) im Stadtteil Ober-Ofleiden - (kein Text vorhanden)
+- TOP 20.: Antrag Fraktion BÜRGERFORUM betreffend Bürgerversammlung gemäß § 8a HGO zur Unterbringung von Flüchtlingen in der Homberger Innenstadt - (kein Text vorhanden)
+- TOP 21.: Antrag Fraktion BÜRGERFORUM betreffend Reinigung der Straßenrinnen und Gehwege in einigen Straßenzügen durch die Bau-ARGE - (kein Text vorhanden)
+- TOP 22.: Antrag Fraktion BÜRGERFORUM betreffend Initiierung eines Bürgerbeteiligungsprozesses - (kein Text vorhanden)
+- TOP 23.: Antrag Fraktion BÜRGERFORUM betreffend Umnutzung des ehemaligen Speedwaygeländes „Auf der Bleiche“ - (kein Text vorhanden)
+- TOP 24.: Antrag Fraktion BÜRGERFORUM betreffend interkommunale Zusammenarbeit mit der Stadt Stadtallendorf (Landkreis Marburg-Biedenkopf) - (kein Text vorhanden)
+- TOP 25.: Antrag Fraktion BÜRGERFORUM betreffend Bundesprogramm zur Projektförderung „digitale Zukunft“ - (kein Text vorhanden)
+- TOP 26.: Antrag Fraktion BÜRGERFORUM betreffend Beschaffung der Software für das Digitale Potenzial-Flächenkataster des Landes Hessen - (kein Text vorhanden)
+- TOP 27.: Antrag GRÜNEN-Fraktion auf Erstellung eines Konzeptes für die Produktion und Nutzung erneuerbarer Energien - (kein Text vorhanden)
+- TOP 28.: Vorschlag der GRÜNEN-Fraktion auf Wahl einer weiteren Schriftführerin für die Stadtverordnetenversammlung sowie die Ausschüsse - (kein Text vorhanden)
+- TOP 29.: Antrag der Fraktion BÜRGERFORUM auf Bildung eines Akteneinsichtsausschusses nach § 50 Abs. 2 Satz 2 HGO betreffend Vorlage des Angebotes zur Überwachung der Feldwege zwischen der Stadt Homberg (Ohm) und Exact Security - (kein Text vorhanden)
+- TOP 30.: Antrag der Fraktion BÜRGERFORUM betreffend Einrichtung von Budgets für alle Ortsbeiräte und den Stadtteil Haarhausen - (kein Text vorhanden)
+- TOP 31.: Antrag CDU-Fraktion - Finanzieller Anteil für betroffene Ortsteile durch Errichtung von Windkraftanlagen - (kein Text vorhanden)
+- TOP 32.: Antrag GRÜNEN-Fraktion auf Inanspruchnahme einer kostenlosen Haushalts- bzw. Konsolidierungsberatung - (kein Text vorhanden)
+- TOP 33.: Antrag der CDU-Fraktion auf Einrichtung einer Kommission für Feuerwehrangelegenheiten - (kein Text vorhanden)
+- TOP 34.: Antrag Fraktion BÜRGERFORUM betreffend Übertragung von Sitzungen per Live-Stream - (kein Text vorhanden)
+- TOP 35.: Antrag Fraktion BÜRGERFORUM betreffend Fertigstellung der Nebenanlagen an der Ohmbrücke (Pletsch- und Herrenmühle) - (kein Text vorhanden)
+- TOP 36.: Antrag Fraktion BÜRGERFORUM betreffend Fertigstellung der Straßenbaumaßnahme Burghain - (kein Text vorhanden)
+- TOP 37.: Antrag Fraktion BÜRGERFORUM betreffend Ortsbegehung des Friedhofs mit Kapellchen in der Kernstadt Homberg (Ohm) - (kein Text vorhanden)
+- TOP 38.: Antrag Fraktion BÜRGERFORUM betreffend Auswirkungen des Gebäudeenergiegesetzes auf kommunale Gebäude in der Stadt Homberg (Ohm) - (kein Text vorhanden)
