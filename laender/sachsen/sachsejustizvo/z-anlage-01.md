@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 5 Absatz 1 Satz 1)
 Gerichte und Verfahrensarten
-Nummer | Gericht
-Nummer | Gericht
+Nummer | Gericht oder Staatsanwaltschaft
+Nummer | Gericht oder Staatsanwaltschaft
 1. | Landgericht Dresden
 2. | Amtsgericht Dresden
 3. | Sozialgericht Chemnitz
@@ -43,3 +43,4 @@ Nummer | Gericht
 39. | Amtsgericht Marienberg
 40. | Sächsisches Finanzgericht
 41. | Sozialgericht Leipzig
+42. | Staatsanwaltschaft Zwickau
