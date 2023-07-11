@@ -1,0 +1,142 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7323807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7323807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 20.06.2023
+- TOP 1.3.2.: Stadtteilbroschüre: Vorstellung durch den Verlag
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.: Vorstellung des Bauvorhabens "Freischützstr. 46 – Neubau eines Lebensmittel­markts mit Café, Parkgarage und oberirdischen Stellplätzen – Vorbescheid"
+- TOP 2.2.2.: Freischützstr. 46 - Neubau eines Lebensmittelmarktes mit Café, Parkgarage und oberirdischen Stellplätzen - VORBESCHEID (vertagt in der Sitzung 04/2023 und 05/2023)
+- TOP 2.2.3.: Stefan-George-Ring 2 - MK3 - Zamilapark - Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen (Var. A), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen und Gewerbe (Var. B), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen, Gewerbe mit Einzelhandel (Var. C) - VORBESCHEID(vertagt in der Sitzung 05/2023 und 06/2023)
+- TOP 2.2.4.: Hochstiftsweg - Neubau von Mehrfamilienhäusern (Haus 1 - 4 in WA 3) sowie von Gebäuden mit Wohnungen in Form von Wohnen zum Zweck und für Zwecke der Altenpflege mit erdgeschossigem Gewerbe (Haus 5 - 10 in MK 1) sowie einer Tiefgarage (in WA 3 + MK 1) - GENEHMIGUNGSVERLÄNGERUNG (vertagt in der Sitzung 05/2023)
+- TOP 2.2.5.: Teutonenstr. 23 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 2.2.6.: Gralstr. - Neubau eines Doppelhauses mit Duplexgarage
+- TOP 2.2.7.: Düppeler Str. 21 - Errichtung eines Einfamilienhauses
+- TOP 2.2.8.: Oberschlesische Str. 46 - Umbau und Erweiterung Einfamilienhaus mit Einliegerwohnung
+- TOP 2.2.9.: Posener Str. 21 - Neubau eines Doppelhauses mit Garagen
+- TOP 2.2.10.: Ostpreußenstr. 47a - Neubau eines Mehrfamilienhauses als Ersatzbau und tlw. Nutzungsänderung, EG DH Nachbar
+- TOP 2.2.11.: Jurastr. 11 - Neubau eines Einfamilienhauses
+- TOP 2.2.12.: Eylauer Str. 23a - Neubau eines Einfamilienhauses mit Garage
+- TOP 2.2.13.: Vollzug des § 4 Abs. 1 BauGB i.V.m. § 3 Abs. 1 BauGB 1. Änderung des Flächennutzungsplanes Unterföhring – Teil B; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.14.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.15.: Verschiedenes, Termine
+- TOP -: Baumfällungen lt. Plan
+- TOP 1.: Gralstr. - Neubau eines Doppelhauses mit Duplexgarage
+- TOP 2.: Stefan-George-Ring 2 - MK3 - Zamilapark - Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen (Var. A), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen und Gewerbe (Var. B), Erweiterung eines Bestandsgebäudes mit Nutzungsänderung von Büroeinheiten in Wohnramnutzungen, Gewerbe mit Einzelhandel (Var. C) - VORBESCHEID(vertagt in der Sitzung 05/2023 und 06/2023)
+- TOP 3.: Teutonenstr. 23 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 4.: Düppeler Str. 21 - Errichtung eines Einfamilienhauses
+- TOP 5.: Oberschlesische Str. 46 - Umbau und Erweiterung Einfamilienhaus mit Einliegerwohnung
+- TOP 6.: Posener Str. 21 - Neubau eines Doppelhauses mit Garagen
+- TOP 7.: Ostpreußenstr. 47a - Neubau eines Mehrfamilienhauses als Ersatzbau und tlw. Nutzungsänderung, EG DH Nachbar
+- TOP 8.: Eylauer Str. 23a - Neubau eines Einfamilienhauses mit Garage
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: Gefährliche Fußgängerüberweg in der Grimmeisenstr.; Anliegen aus der Bürgerschaft
+- TOP 2.3.2.: Prinzregentenstr.: Radfahrer blockieren den Gehweg; Anliegen aus der Bürgerschaft
+- TOP 2.3.3.: Entschärfung von zwei Gefahrenstellen (Gullyabläufe) am Geh- und Radweg an der Stegmühlstraße in Höhe Wertstoffhof; Antrag der CSU-Fraktion
+- TOP 2.3.4.: Anbringung von Zusatzschilder "Geänderte Vorfahrt" an der Kreuzung Savitstr./ Stegmühlstr. sowie Brodersenstr./ Glücksburger Str./Kunihohstr.; Anliegen aus der Bürgerschaft
+- TOP 2.3.5.: Kreuzung Richard-Strauss-Str. /Schreberweg: Errichtung einer Fahrradampel; Antrag der Freien Wähler
+- TOP 2.3.6.: Erinnerung an den verkehrsberuhigten Bereich in der Hagelstangestraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Erneuerung der Fußweg-/Fahrbahnmarkierung am S-Bahn-Übergang Englschalking; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.8.: Automatisierte ÖPNV-Fahrzeuge im on-demand Betrieb: Berücksichtigung des Prinz-Eugen-Parks für den Probetrieb; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.10.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. GMU-Sommerdult am 14.07.2023 1.552,50 € / AZ.0262.0-13-0383
+- TOP 2.4.2.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 2 Tage zwischen dem 02.09.2023 und 31.10.2023 3.337,96 € / Az. 0262.0-13-0386
+- TOP 2.4.3.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 30.10.-03.11.2023 5.857,00 € / AZ.0262.0-13-0380
+- TOP 2.4.4.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation-Konflikthilfe in Schulen vom 12.09.2023-01.08.2024 4.000,00 € / AZ.0262.0-13-0382
+- TOP 2.4.5.: (E) Stadtbezirksbudget Deutsch-Japanische Gesellschaft in Bayern e.V. Japanfest 2023 am 16.07.2023 1.750,00 € / AZ.0262.0-13-0385
+- TOP 2.4.6.: (E) Stadtbezirksbudget kath. Kirchenstiftung St. Emmeram Notfallmaßnahme zum Erhalt der Kirche St. Nikolaus in Englschalking bis Dezember 2023 3.180,00 € / AZ.0262.0-13-0384
+- TOP 2.4.7.: (E) Stadtbezirksbudget Deutsche Lebens-Rettungs-Gesellschaft Ortsverband München-Oberföhring e.V. "Instandsetzung der Lichttechnik im Jugendraum des OV der DLRG" 2.405,69 € /AZ.0262.0-13-0381
+- TOP 2.4.8.: Herkomerplatz: Aufstellung einer orangene Bank - Kein Platz für Gewalt gegen Frauen - Bestellung städtischer Leistung - Anliegen aus der Bürgerschaft
+- TOP 2.4.9.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen - Änderung der BA-Satzung; Anhörung des Direktoriums
+- TOP 2.4.10.: Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets - Beschlussentwurf - Anhörung des Direktoriums
+- TOP 2.4.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.12.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.2.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.: Errichtung einer zweiten Tischtennisplatte am Böhmerwaldplatz; Anliegen aus der Bürgerschaft
+- TOP 2.6.2.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum; Rückmeldung des Baureferats
+- TOP 2.6.3.: Voruntersuchungen für eine Geothermieanlage im SEM Gebiet Nordost; Antrag der CSU-Fraktion
+- TOP 2.6.4.: Neues Grünkonzept für den Effnerplatz; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.5.: Fernwärmeausbau im östlichen Teil des 13. Stadtbezirk; Antrag der Fraktion Bündnis90/DIE GRÜNEN, ÖDP/DaCG, FDP und FW
+- TOP 2.6.6.: Wassermenge für den oberirdischen und renaturierten Teil des Hüllgrabens sicherstellen; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.7.: Zeitplan für die Renaturierung der Isar nördlich der Praterinsel; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.6.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.9.: Verschiedenes, Termine
+- TOP -: Baumfällungen (Anhörungen)
+- TOP 1.: Siebertstr. 4
+- TOP 2.: Pflegerbauerstr. 2
+- TOP 3.: Wildenholzener Str. 3
+- TOP 4.: Muspillistr. 14
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Mittlere Isar Str.11: "Charity-Lauf "Run in the dark" am 15.11.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.2.: An der Cosimastr./Englschalkinger Str.: Zirkusgastspiel vom 25.09.- 09.10.2023; Anhörung des Kommunalreferats
+- TOP 2.7.3.: 40 Jahre Vereinsgemeinschaft VG 29“ am 16.07.2023 im Bürgerpark Oberföhring; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.5.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 3.2.1.: Fragen zu den Verkehrszählungen an der Salzstraße/Glücksburger Straße; Dittelantrag der CSU-Fraktion
+- TOP 3.2.2.: Aufwertung öffentlicher Flächen in Bogenhausen: Errichtung von Trinkwasserbrunnen; Drittelantrag der CSU-Fraktion
+- TOP 3.2.3.: Kita-Versorgung in Bogenhausen: Familien nicht allein lassen!; Dringlichkeitsantrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Raumkostenübernahme für das Vorläuferprojekt des BRK
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Wehrlestraße, Nordseite, östlich Scheinerstraße: 2 PKW-Parkplätze
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen (an der Nigerstraße)
+- TOP 7.7.2.: Evastr. 16: Neubau eines Doppelhauses mit Garagen - Abdruck Baugenehmigung
+- TOP 7.7.3.: Oberschlesische Str. 20
+- TOP 7.7.4.: Nicht zugeleitete Bauvorhaben - Information der LBK -
+- TOP 7.7.5.: Gemingstr. 11
+- TOP 7.7.6.: Pienzenauerstr. 88
+- TOP 7.7.7.: Pachmayrpl. 14
+- TOP 7.7.8.: Flemingstr. 16 a
+- TOP 7.7.9.: Flemingstr. 16
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 7.9: Sozialreferat
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
