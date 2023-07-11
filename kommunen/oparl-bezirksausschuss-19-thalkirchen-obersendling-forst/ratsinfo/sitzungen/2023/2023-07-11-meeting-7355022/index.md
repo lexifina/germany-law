@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-07-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355022
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355022
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 13.06.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Benennung Jugendbeauftragte/r
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget EkiM – Evangelische Kindertageseinrichtung im Dekanatsbezirk München, K.d.ö.R.: Krippenklettergerüst Mini Krabbelturm 4.360,65 € / AZ: 0262.0-19-0468
+- TOP 3.3.: (E) Stadtbezirksbudget Maxhofkinder e.V. (Eltern-Kind-Initiative): Kindergerechte und sichere Gestaltung des Lichthofs nach Umzug 16.414,12 € / AZ: 0262.0-19-0469
+- TOP 3.4.: (A) Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der Landeshauptstadt München - Einführung eines Einwohner*innenbudgets
+- TOP 3.5.: (E) Stadtbezirksbudget Katholische Öffentliche Bücherei St. Johann Baptist/Solln: Aktualisierung des Bestandes, mit Schwerpunkt Kinder- und Jugendbücher am 12.07.2023 450,00 € / AZ.0262.0-19-0467
+- TOP 3.6.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V.: Sommerfest Thalkirchen 2023 vom 30.06. bis 02.07.2023 15.830,00 € / AZ: 0262.0-19-0466
+- TOP 3.7.: (E) Stadtbezirksbudget HIDALGO gGmbH: “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 2. September und 31. Oktober 3.875,70 € / AZ: 0262.0-19-0470
+- TOP 3.8.: - NACHTRAG - (E) Stadtbezirksbudget Elternbeirat der Joseph von Fraunhofer Schule “Schulsommerfest am 27.07.2023“ 140,00 € / AZ: 0262.0-19-0472
+- TOP 3.9.: - NACHTRAG - (E) Stadtbezirksbudget Freiwillige Feuerwehr Solln von 1873: Anschaffung eines Pavillon vom 22.07. bis 31.10.2023 2.475,00 € / AZ: 0262.0-19-0471
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Hundekotbeutelspender
+- TOP 4.1.2: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Sachstand Rad- und Fußwegverbindung ehemalige Durchstichtrasse Stäblistraße
+- TOP 5.1.2: Fahrradparkhäuser am S-Bahnhof Solln
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr Feldafinger Straße
+- TOP 5.3.: (Antrag) Fahrradabstellsituation am S-Bahnhof „Siemenswerke“ entschärften
+- TOP 5.4.: - NACHTRAG - (Antrag) Verkehrssituation in der Sollner Straße im Abschnitt zwischen Herterichstraße und Whistlerweg
+- TOP 5.5.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Einrichtung von zwei allgemeinen Behindertenparkplätzen Rupert-Mayer-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Oppenrieder Straße 34
+- TOP 6.2.2: Wolfratshauser Straße 214 (VB)
+- TOP 6.2.3: Appenzeller Straße 115
+- TOP 6.2.4: Engadiner Straße 2 (VB)
+- TOP 6.2.5: - abgesetzt -
+- TOP 6.2.6: Friedastraße 8
+- TOP 6.2.7: Weltistraße 2a
+- TOP 6.2.8: Strähuberstraße 3
+- TOP 6.2.9: Drygalski-Allee 29
+- TOP 6.2.10: Hatzelweg 21
+- TOP 6.3.: (A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/27 und Bebauungsplan mit Grünordnung; Rupert-Mayer-Straße (nördlich), Tölzer Straße (westlich), August-Zeune-Weg (südlich), Bahnlinie München-Lenggries (östlich) (Teiländerung der Bebauungspläne Nrn. 303b, 922, 1272) - Eckdaten- und Aufstellungsbeschluss – Weiteres Vorgehen, Auslobung von Realisierungswettbewerben
+- TOP 6.4.: (A) Sektoraler Bebauungsplan Nr. 2190 Engadiner Straße (südlich) Schweizer Platz (nördlich) Graubündener Straße (östlich) - Aufstellungsbeschluss - Sitzungsvorlage Nr. 20-26 / V 10346
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: - NACHTRAG - (Antrag) Betreuungsangebot im Familienzentrum Friedenskapelle
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Stadtteilwoche Forstenried-Fürstenried-Solln
+- TOP 8.3.: (U) Gaststättenfortführung: Forstenrieder Allee
+- TOP 8.4.: (A) Veranstaltung: „Bollerwagenkino“ am 28.07. und 14.08.2023
+- TOP 8.5.: (A) Sommerfest der Kita Kolibri in der Grünanlage Weltistraße am 21.07.2023
+- TOP 8.6.: - NACHTRAG - (A) Sommerfest Derfflingerstraße am 29.07.2023
+- TOP 9: Verschiedenes
