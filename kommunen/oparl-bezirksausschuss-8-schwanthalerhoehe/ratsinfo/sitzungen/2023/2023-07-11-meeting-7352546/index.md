@@ -1,0 +1,86 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352546
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352546
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Parksituation Ganghoferstraße / Durchgangsverkehr Gerolt-, Bergmann- und Anglerstraße / Raser auf der Ganghoferstraße
+- TOP 4.2.: Baumallee Kazmairstr.
+- TOP 4.3.: Hitzeschutz für die Asphaltflächen am Bahndeckel
+- TOP 4.4.: Begegnung von Radfahrer*innen und Fußgänger*innen am Hans-Dürrmeier-Weg und Max-Hirschberg-Weg
+- TOP 4.5.: - NACHTRAG - Einrichtung eines "Rasengleises" auf der Trambahnstrecke in der Landsbergerstraße
+- TOP 4.6.: - NACHTRAG - Rückbau Fahrradhaus Bergmannstraße 13
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Bergmannstraße 50
+- TOP 6.1.2.: Freischankfläche Ligsalzstraße 9
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Schanigarten der Gaststätte Bürgerheim im Winter stehen lassen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Unterstützung bei der Standortsuche für Unterkünfte
+- TOP 7.3.2.: Mosaik Jugendpreis - Mit Vielfalt gegen Rassismus
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Spendenlauf des Theresien-Gymnasiums im Bavariapark am 26.07.2023
+- TOP 8.2.2.: Spielveranstaltung für Kinder in der Kazmairstr. 33 - 47 am 23.07.2023
+- TOP 8.2.3.: - NACHTRAG - Spielfest zum Weltkindertag am Georg-Freundorfer-Platz am 20.09.2023
+- TOP 8.2.4.: - NACHTRAG - Parkstraßenfest am 02.09.2023
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung "Mehr drin" - die Kunstaktion mit Kindern und Jugendlichen am Bavariapark am 19.07.2023
+- TOP 8.3.2.: Oktoberfest 2023 - Informationen über Neuerungen
+- TOP 8.3.3.: - NACHTRAG - Sachstand Großveranstaltungen (Konzerte) auf der Theresienwiese
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Vergrämung unberechtigt parkender Kfz im Bereich Alte Messe (Kongresshalle)
+- TOP 9.1.2.: (E) Westendstraße: Bauminseln zwischen Bergmann- und Trappentreustraße anlegen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Tulbeckstraße 39
+- TOP 9.2.2.: Baumfällung Westendstraße 147-149
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Straßenbauarbeiten Schwanthalerstr 140-148 / Holzapfelstr 8-10 - erneute Verlängerung
+- TOP 9.3.2.: Meldeliste SWM-Bauvorhaben
+- TOP 9.3.3.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 9.3.4.: - NACHTRAG - Boule-Anlage am Gollierplatz
+- TOP 9.3.5.: - NACHTRAG - Radentscheid-Maßnahme Ridlerstraße; Einladung zur Online-Informationsveranstaltung am 24.07.2023, 17.00-18.30 Uhr
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget KJR München-Stadt "Kösk Abrissfestival" vom 07.07. - 30.07.2023 3.000,00 € / AZ.0262.0-8-0360
+- TOP 10.1.2.: (E) Stadtbezirksbudget Freunde der Parkstraße e.V. Parkstraßenfest am 02.09.2023 1.284,00 € / AZ.0262.0-8-0362
+- TOP 10.1.3.: (E) Stadtbezirksbudget KJR München-Stadt (KJR)/ Multikulturelles Jugendzentrum (MKJZ) Mobile Spiele vom 20.06.-21.09.2023 1.722,00 € / AZ.0262.0-0361
+- TOP 10.1.4.: (E) Stadtbezirksbudget MediationsZentrale München e.V. “MZM Schulmediation – Konflikthilfe in Schulen vom 12.09.2023 – 01.08.2023“ 4.000,00 € / AZ: 0262.0-8-0363
+- TOP 10.1.5.: (E) Stadtbezirksbudget InitiativGruppe – Interkulturelle Begegnung und Bildung e.V. “Vielfalt lieben – Essen teilen vom 29.06.2023 – 04.08.2023“ 1.294,95 € / AZ: 0262.0-8-0355
+- TOP 10.1.6.: (E) Stadtbezirksbudget Initiative „Geschlossen“ “Wegen Überfüllung Geschlossen vom 13.07.2023 – 20.09.2023“ 4.475,00 € / AZ: 0262.0-8-0358
+- TOP 10.1.6.1: Zusatzinformationen zum Projekt "Kunst-Kioske"
+- TOP 10.1.7.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 4 Tage zwischen dem 2. September und 31. Oktober 2.255,02 € / AZ: 0262.0-8-0364
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Anträge der Kinder-Einwohnerversammlung vom 16.06.2023
+- TOP 11.2.: - NACHTRAG - Mobilitätsinseln für Räder und E-Scooter testen
+- TOP 11.3.: - NACHTRAG - Vandalismus ist kein Wahlkampfargument
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Umsetzung des Öffentlichkeitsbeteiligungskonzeptes / Einwohner*innenbudget
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: BA-Sitzungstermine 2024
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
