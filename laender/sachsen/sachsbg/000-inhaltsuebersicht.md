@@ -86,7 +86,7 @@ Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 74 Dienstkleidung
 § 75 Dienstvergehen von Ruhestandsbeamtinnen und Ruhestandsbeamten
 § 76 Verjährung von Schadenersatzansprüchen
-§ 77 Mutterschutz, Elternzeit, Pflegezeit
+§ 77 Mutterschutz und Elternzeit
 § 78 Arbeitsschutz
 § 79 Jugendarbeitsschutz
 § 80 Beihilfe in Krankheits-, Pflege-, Geburts- und sonstigen Fällen
