@@ -1,0 +1,86 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2023-07-12T17:00:00+02:00
+- Ende: 2023-07-12T21:20:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7133
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7133
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=426553
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - im Ausschuss abgelehnt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - (offen)
+- TOP 3.1: Kaputte Fensterdichtungen und Heizungen an Schulen (vor allem dem Eckener Gymnasium) reparieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: je eine Priorität pro Fraktion - im Ausschuss abgelehnt
+- TOP 4.1: Öffentlicher Drogenkonsum im Bezirk – Sachstand, Entwicklungen und Handlungsoptionen - beantwortet
+- TOP 4.2: Für die schwächsten Verkehrsteilnehmer*innen – Tempelhof-Schöneberg für die Mobilitätswende und den Ausbau von Rad- und Fußverkehrsprojekten - mit Änderungen in der BVV beschlossen
+- TOP 4.3: Nachhalten und Überwachung städtebauliche Verträge und beauflagter Ausgleichsmaßnahmen aus Bebauungsplänen (Monitoring) - beantwortet
+- TOP 4.4: Platzbenennung nach Lucie Leydicke (II) - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Schöneberger Insel mit dem Bus 204 besser erschließen - mit Änderungen in der BVV beschlossen
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 5.1: Unerledigte Beschlüsse aus der XX. und XXI. WP der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XXI. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe c BezVG i.V.m. § 69 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Sportstättenvergabe sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: vertagt - Regressansprüche von Reparaturkosten der Straßenbelagsbeschädigungen gegen die sogenannte „letzte Generation“ geltend machen - vertagt
+- TOP 9.3: Sperrmüllaktionstag auch wieder in Lichtenrade - in der BVV abgelehnt
+- TOP 9.4: Stadtumbau wissenschaftlich begleiten, Nachwuchs fördern! - überwiesen
+- TOP 9.5: Bürgerversammlungen zu den Bauvorhaben der Bundesverwaltung in der Marienfelder Feldmark - mit Änderungen in der BVV beschlossen
+- TOP 9.6: Ein Regenwasserkonzept für bezirkseigene Grundstücke - überwiesen
+- TOP 9.7: Recyclinghof der BSR (wieder) einrichten! - überwiesen
+- TOP 9.8: zurückgezogen - Nach Corona: Mehr Angebote für junge, benachteiligte Menschen schaffen - im Ältestenrat zurückgezogen
+- TOP 9.9: Vermeidung von Durchgangsverkehr - überwiesen
+- TOP 9.10: Einsamkeit entgegentreten. „Berliner Hausbesuche" ausweiten - mit Änderungen in der BVV beschlossen
+- TOP 9.11: Flächen für produzierendes Gewerbe besser schützen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Mehr Verkehrssicherheit für die Germaniastraße und das Luise-Henriette-Gymnasium - mit Änderungen in der BVV beschlossen
+- TOP 9.13: Jahresempfang des Regenbogenfonds e.V. im Bezirk sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Familienfreundliche Arbeitszeitmodelle auch für Reinigungsdienstleistungen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Migrantische Geschichten und Orte sichtbar machen und feiern – der türkische Basar im Hochbahnhof Bülowstraße - überwiesen
+- TOP 9.16: Mehr Raum für „Fliegenden Handel“ - überwiesen
+- TOP 9.17: Werderstraße endlich vollständig asphaltieren - überwiesen
+- TOP 9.18: Pilotprojekt der Parkläufer:innen im Volkspark Mariendorf verstetigen - mit Änderungen in der BVV beschlossen
+- TOP 9.19: Neue Wegweiser und ein modernes barrierefreies Wegeleit- und Orientierungssystem für das Rathaus Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 9.20: Freilauf am Morgen ohne Kummer und Sorgen: Hundefreilauf zwischen 5 und 7 Uhr ermöglichen - in der BVV abgelehnt
+- TOP 9.21: Carl-Zuckmayer-Brücke im Rudolph-Wilde-Park von Graffiti befreien - mit Änderungen in der BVV beschlossen
+- TOP 9.22: Straßenbahndepot als Kulturort feiern - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Was ist hier los? Schwarze Bretter für den Kiez - in der BVV abgelehnt
+- TOP 9.24: Stopp: Wir wollen Gewalt gegen Queers effektiv bekämpfen - mit Änderungen in der BVV beschlossen
+- TOP 9.25: Kein Radwegebau- und Finanzierungsstopp: Großprojekte für den Umweltverbund in der Grunewald- und Hauptstraße müssen umgesetzt werden - vertagt
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: vertagt - Umbau von Hauptverkehrsstraßen nach Mobilitätsgesetz - vertagt
+- TOP 10.2: Sprachförderbedarf bei Kindern - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Historische Bedürfnisanstalt U-Bülowstraße wiederfinden und rekonstruieren - vertagt
+- TOP 11.2: Dem öffentlichen Drogenkonsum entgegentreten - überwiesen
+- TOP 11.3: Vereinfachung der BVV Arbeit - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Rosen für den Rosengarten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Verkehrswidriges abstellen von KFZ-Anhängern - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Wiederherstellung und Inbetriebnahme der Brunnenanlage auf dem Bayerischen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: WLAN-Rathäuser - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Neue Möglichkeiten bei Solaranlagen auch im Bezirk nutzen - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Bebauungsplan 7-95 für die Grundstücke Röblingstraße 90/162, Attilastraße 46-59 sowie die Flurstücke 127, 130, 133 und 135 der Flur 9 im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Energieschuldenberatung im Bezirk ausweiten - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Alte Radwege zurückbauen - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Informations- und Gedenktafel zum KZ-Außenlager Marienfelde, Motzener Straße / Nahmitzer Damm - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Raumnutzungskonzept für bezirkliche Musikschule - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Einen neuen roten Teppich dem Rathaus Schöneberg - in der BVV abgelehnt
+- TOP 11.15: Erhalt von Kunst im öffentlichen Raum koordiniert erhalten - mit Änderungen in der BVV beschlossen
+- TOP 11.16: Gedenktafel für Agnes Hacker in der Karl-Schrader-Straße - mit Änderungen in der BVV beschlossen
+- TOP 11.17: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz "Schöneberger Dreieck für Menschen statt Kfz-Durchgangsverkehr" - mit Änderungen in der BVV beschlossen
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: Das SIBUZ benötigt einen Standort, der seinen Aufgabenstellungen entspricht! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Gemeinschaftsschule an der Johanna-Eck-Schule entwickeln – Grundschulbereich zügig planen - überwiesen
+- TOP 12.3: Zahlungsmöglichkeiten in den Bürgerämtern Tempelhof-Schönebergs erweitern - überwiesen
+- TOP 12.4: Fan.Tastic Females-Wanderausstellung über weibliche Fußball- und Fankultur in den Bezirk bringen - überwiesen
+- TOP 12.5: Änderungen von Einschulungsbereichen zum Schuljahr 2024/2025 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.6: Aufstellung des Bebauungsplans 7-104 für das Grundstück Werner-Voß-Damm 51/57 und eine Teilfläche des Grundstücks Hoeppnerstraße 113, Werner-Voß-Damm 47 im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof - überwiesen
+- TOP 13: Termin der nächsten Sitzung - im Ausschuss abgelehnt
