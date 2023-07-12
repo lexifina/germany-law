@@ -1,0 +1,7 @@
+# TOP 1: Geschäftliche Mitteilungen
+
+- Sitzung: 20. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin (2023-07-12)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=69226
+- Ergebnis: im Ausschuss abgelehnt
