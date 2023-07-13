@@ -1,0 +1,51 @@
+# 38. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2023-07-13T18:30:00+02:00
+- Ende: 2023-07-13T22:35:00+02:00
+- Ort: Mehrzweckhalle Hayna, Hauptstraße 84, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2023-200-163
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2023-200-163
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-200-163
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-200-163
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-200-163
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: Vorhabenbezogener Bebauungsplan 'Untere Hauptstraße 126/128'
+- TOP 3: Dorfentwicklungskonzept Hayna
+- TOP 4: Jugendzentrum Herxheim
+- TOP 5: Festsetzung der Nutzungsentgelte für das Waldstadion Herxheim
+- TOP 6: Festsetzung der Nutzungsentgelte für die Festhalle Herxheim
+- TOP 7: Festsetzung der Nutzungsentgelte für die Villa Wieser
+- TOP 8: Festsetzung von Nutzungsentgelten für das Haus der Begegnung
+- TOP 9: Festsetzung der Nutzungsentgelte für die Grillhütte
+- TOP 10: Festsetzung der Nutzungsentgelte für die Mehrzweckhalle Hayna
+- TOP 11: Festsetzung der Nutzungsentgelte für das Bürgerhaus Hayna
+- TOP 12: Konzeptanpassung Herxheimer Adventsmarkt
+- TOP 13: Anpassung der Richtlinie für die Vereinsförderung
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Ausbau der erneuerbaren Energien in kommunalen Liegenschaften -Antrag der CDU-Fraktion-
+- TOP 16: Mitteilungen und Anfragen
+- TOP 16.1: Mitteilungen und Anfragen; Haushaltsgenehmigung 2023
+- TOP 16.2: Mitteilungen und Anfragen; Radwegenetz- und Parkraumkonzept
+- TOP 16.3: Mitteilungen und Anfragen Europa- und Kommunalwahl 2024
+- TOP 16.4: Mitteilungen und Anfragen; Information über erfolgte Auftragsvergaben
+- TOP 16.5: Mitteilungen und Anfragen; Solarpotentiale der öffentlichen Einrichtungen in der Ortsgemeinde Herxheim
+- TOP 16.6: Mitteilungen und Anfragen; Biodiversitätsstrategie 'In Herxheim blüht uns was' Verbot von Steingärten/Schottergärten
+- TOP 16.7: Mitteilungen und Anfragen; Anfrage der Fraktion SPD zu Badezeiten im Waldfreibad
+- TOP 16.8: Mitteilungen und Anfragen; Einnahmen aus Stellplatzablösungen Anfrage der SPD-Fraktion
+- TOP 16.9: Mitteilungen und Anfragen; Anfrage der Fraktion Bündnis 90/Die Grünen zu gemeindeeigenen Gebäuden vom 25.05.2023
+- TOP 16.10: 
+- TOP 16.11: 
+- TOP 16.12: 
+- TOP 16.13: 
