@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 16 Absatz 1 Satz 2 Nummer 1, § 18 Absatz 2 Satz 2, § 35 Absatz 1, § 37 Absatz 1 Satz 1, § 39 Nummer 1, § 41 Absatz 1 Nummer 1, § 42 Absatz 2 Nummer 2)
+# Anlage 2 (zu § 16 Absatz 1 Satz 2 Nummer 1, § 18 Absatz 2 Satz 2, § 34 Absatz 1, § 36 Absatz 1 Satz 1, § 38 Nummer 1, § 40 Absatz 1 Nummer 1 und § 41 Absatz 2 Nummer 2)
 Ermittlung der Durchschnittsnote
 (1) Bei Hochschulzugangsberechtigungen auf der Grundlage der Beschlüsse der Kultusministerkonferenz
 1. „Vereinbarung zur Gestaltung der gymnasialen Oberstufe und der Abiturprüfung“ vom 7. Juli 1972, in der jeweils geltenden Fassung, veröffentlicht unter Nummer 176 der Sammlung der Beschlüsse der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland, Köln, Wolters Kluwer, 2013 (Beschluss-Sammlung KMK),

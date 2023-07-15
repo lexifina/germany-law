@@ -25,37 +25,36 @@ Abschnitt 2 Zentrales Vergabeverfahren
 § 20 Vorwegzulassung
 § 21 Teilstudienplätze
 § 22 Bescheide
-§ 23 Übergangsregelung für das Zentrale Vergabeverfahren
-§ 24 Bewerbungsfristen bei Anträgen auf Zulassung außerhalb der festgesetzten Zulassungszahlen
+§ 23 Bewerbungsfristen bei Anträgen auf Zulassung außerhalb der festgesetzten Zulassungszahlen
 Kapitel 3 Studienplatzvergabe im Örtlichen Vergabeverfahren
 Abschnitt 1 Allgemeine Vorschriften
-§ 25 Anwendungsbereich
-§ 26 Form und Frist des Zulassungsantrags
-§ 27 Ausschluss vom Vergabeverfahren
+§ 24 Anwendungsbereich
+§ 25 Form und Frist des Zulassungsantrags
+§ 26 Ausschluss vom Vergabeverfahren
 Abschnitt 2 Studienplatzvergabe für Studienanfängerinnen und Studienanfänger in grundständigen Studiengängen
-§ 28 Studienanfängerinnen und Studienanfänger
-§ 29 Quoten
-§ 30 Ablauf des Vergabeverfahrens
-§ 31 Vorwegzulassung
-§ 32 Auswahl ausländischer Staatsangehöriger
-§ 33 Auswahl für ein Zweitstudium
-§ 34 Auswahl von in der beruflichen Bildung Qualifizierten
-§ 35 Auswahl nach Abiturnote
-§ 36 Auswahl nach Wartezeit
-§ 37 Auswahlverfahren der Hochschule
-§ 38 Auswahl nach Härtegesichtspunkten
-§ 39 Ranggleichheit
-§ 40 Besonderheiten für Studiengänge, die aus mehreren Teilstudiengängen bestehen
+§ 27 Studienanfängerinnen und Studienanfänger
+§ 28 Quoten
+§ 29 Ablauf des Vergabeverfahrens
+§ 30 Vorwegzulassung
+§ 31 Auswahl ausländischer Staatsangehöriger
+§ 32 Auswahl für ein Zweitstudium
+§ 33 Auswahl von in der beruflichen Bildung Qualifizierten
+§ 34 Auswahl nach Abiturnote
+§ 35 Auswahl nach Wartezeit
+§ 36 Auswahlverfahren der Hochschule
+§ 37 Auswahl nach Härtegesichtspunkten
+§ 38 Ranggleichheit
+§ 39 Besonderheiten für Studiengänge, die aus mehreren Teilstudiengängen bestehen
 Abschnitt 3 Studienplatzvergabe für höhere Fachsemester sowie für Aufbau- und Masterstudiengänge
-§ 41 Auswahlverfahren für höhere Fachsemester
-§ 42 Aufbau- und Masterstudiengänge
+§ 40 Auswahlverfahren für höhere Fachsemester
+§ 41 Aufbau- und Masterstudiengänge
 Abschnitt 4 Sonstige Verfahrensvorschriften
-§ 43 Abschluss des Vergabeverfahrens
-§ 44 Losverfahren
-§ 45 Bewerbungsfristen bei Anträgen auf Zulassung außerhalb der festgesetzten Zulassungszahlen
-§ 46 Serviceverfahren der Stiftung
+§ 42 Abschluss des Vergabeverfahrens
+§ 43 Losverfahren
+§ 44 Bewerbungsfristen bei Anträgen auf Zulassung außerhalb der festgesetzten Zulassungszahlen
+§ 45 Serviceverfahren der Stiftung
 Kapitel 4 Schlussvorschrift
-§ 47 Inkrafttreten, Außerkrafttreten
+§ 46 Inkrafttreten, Außerkrafttreten
 Anlage 1 Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
 Anlage 2 Ermittlung der Durchschnittsnote
 Anlage 3 Ermittlung der Punktzahl der Hochschulzugangsberechtigung
