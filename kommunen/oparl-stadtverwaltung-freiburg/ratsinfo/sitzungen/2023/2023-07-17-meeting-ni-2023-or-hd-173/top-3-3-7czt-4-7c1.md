@@ -1,0 +1,7 @@
+# TOP 3: Anrufung des Vermittlungsausschusses in Sachen 'Anschluss Bebelstraße an die B 294' lt. Eingliederungsvertrag §11 Abs. 1 hier: Bericht aus der Sitzung des Vermittlungsausschusses am 03.07.2023 zum Thema: 'Haupterschließung der Industriezone Hochdorf-Freiburg östlich der Autobahn' - Information -
+
+- Sitzung: 7. Sitzung des Ortschaftsrates Hochdorf (2023-07-17)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2023-OR_HD-173%7Czt_4%7C1
+- Beschluss (Datei): Beschluss - Top 3 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-OR_HD-173%7Czt_4%7C1
