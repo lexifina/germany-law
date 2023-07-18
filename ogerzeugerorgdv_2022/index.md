@@ -6,7 +6,7 @@
 
 - [§ 1 Anwendungsbereich und Zuständigkeit](0001.md)
 
-## Abschnitt 2 Anerkennung von Erzeugerorganisationen und deren Vereinigungen
+## Abschnitt 2 Anerkennung von Erzeugerorganisationen, Vereinigungen von Erzeugerorganisationen und Branchenverbänden
 
 - [§ 2 Rechtsform](0002.md)
 - [§ 3 Mindestgröße](0003.md)
@@ -52,8 +52,8 @@
 
 ## Abschnitt 7 Verwaltungssanktionen
 
-- [§ 31 Verwaltungssanktionen bei Nichtbeachtung der Anerkennungsvoraussetzungen](0031.md)
-- [§ 32 Verwaltungssanktionen bei Wegfall der Beihilfevoraussetzungen](0032.md)
+- [§ 31 Verwaltungssanktionen bei Nichterreichen der Mindestquoten für Umwelt- und Forschungsmaßnahmen](0031.md)
+- [§ 32 Verwaltungssanktionen bei Beantragung von nichtförderfähigen Beihilfen](0032.md)
 - [§ 33 Verwaltungssanktionen bei Verstößen im Zusammenhang mit dem jährlichen Leistungsbericht](0033.md)
 - [§ 34 Verwaltungssanktionen bei hinreichendem Verdacht von Straftaten und Ordnungswidrigkeiten](0034.md)
 - [§ 35 Verwaltungssanktionen bei Verhinderung von Vor-Ort-Kontrollen und bei Verstoß gegen sonstige Pflichten](0035.md)
