@@ -1,0 +1,198 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-07-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238597
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238597
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwurf der Sitzung vom 22.06.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 1.3.1.: (E) Stadtbezirksbudget Initiative "Stadtbezirk 15" "Stadtbezirk 15" vom 13.07.-22.09.2023 4.498,00 € / AZ.0262.0-15-0487 Sitzungsvorlage Nr. 20-26 / V 10074
+- TOP 1.3.2.: (N) Dialog-Displays: Bestellstart, Bestellmodalitäten und Kriterienkatalog
+- TOP 1.3.3.: (N) Bauvorhaben Unnützstraße 28: Einwände zur baurechtlichen Genehmigungsfähigkeit sowie Wirtschaftlichkeit
+- TOP 1.3.4.: (N) Grünes Band entlang der Friedenspromenade weiter aufwerten, Kinderspielplatz einrichten
+- TOP 1.3.5.: (N) Münchner Trinkbrunnenoffensive: Standortvorschläge für den Stadtbezirk 15
+- TOP 1.3.6.: (N) Fuß- / Radwegsituation Am Hochacker/Marktgrafenstraße verbessern BV-Anfrage Nr. 20-26 / Q 00094
+- TOP 1.3.7.: (N) Hugo-Weiß-Straße / Felicitas-Füss-Straße: Errichtung von Fahrradanlehnbügeln und einer überdachten Fahrradabstellanlage BA-Antrag Nr. 20-26 / B 04339
+- TOP 1.3.8.: (N) Dachsteinstraße 32 Fauststraße Kranichweg 33
+- TOP 1.3.9.: (N) Präsentation der Messe München zur IAA Mobility 2023
+- TOP 1.3.10.: (N) Präsentation der DB Regio AG und DB Netz AG zum Bahnausbau München Ost sowie S-Bahn-Instandhaltungswerk Steinhausen
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. "Beschaffung von einem Stapler" 7.500,00 € / AZ.0262.0-15-0488
+- TOP 2.1.2.: (E) Stadtbezirksbudget Elternbeirat des Städtischen Kindergartens in der Maria-Montessori-Straße Ausflug zum Wildpark Poing am 25.07.2023 468,50 € / AZ.0262.0-15-0491
+- TOP 2.1.3.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 2 Tage zwischen dem 02.09. und 31.10.2023 2.305,21 € / AZ.0262.0-15-0492
+- TOP 2.1.4.: (E) Stadtbezirksbudget TSV Maccabi München e.V. Kurt-Landauer-Turnier 2023 am 23.07.2023 2.200,00 € / AZ.0262.0-15-0489
+- TOP 2.1.5.: (E) Stadtbezirksbudget ECHO e.V. Comic- und Cartoonfilmfest vom 29.09. - 30.09.2023 und Filmfest Otfried Preussler und Fantasy vom 17.11.-18.11.2023 1.500,00 € / AZ.0262.0-15-0490
+- TOP 2.1.6.: (E) Stadtbezirksbudget Initiative "Stadtbezirk 15" "Stadtbezirk 15" vom 13.07.-22.09.2023 4.498,00 € / AZ.0262.0-15-0487
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (N) Dialog-Displays: Bestellstart, Bestellmodalitäten und Kriterienkatalog
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.1.1.: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen Bitte um Unterstützung zum Antrag des BA 1 Altstadt-Lehel
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Waldtrudering: Zustand der Fahrbahnen, Gehwegparken und fehlendes Carsharing-Angebot
+- TOP 3.2.2.: Niobestraße / Togostraße: Verbreiterung der Gehsteigflächen zur Erhöhung der Verkehrssicherheit
+- TOP 3.2.3.: Schatzbogen: Einrichtung einer T30-Zone zwischen Heltauer Straße und Am Moosfeld zur Verkehrsberuhigung
+- TOP 3.2.4.: Unnützstraße / Damaschkestraße: Maßnahmen zur Verkehrsberuhigung
+- TOP 3.2.5.: Schmuckerweg / Hafelhofweg: Verkehrssicherungsmaßnahmen an der Bordsteinkante
+- TOP 3.2.6.: Auswirkungen des Rolling Loud-Festivals auf den Stadtbezirk
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Schwablhofstraße: Überprüfung der baurechtlichen Situation auf dem Gelände des Baumarktes sowie Wiederherstellung der ehemaligen Behindertenparkplätze
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: (N) Bauvorhaben Unnützstraße 28: Einwände zur baurechtlichen Genehmigungsfähigkeit sowie Wirtschaftlichkeit
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Auswirkungen des geplanten zusätzlichen KV-Terminals in Allach auf Trudering-Riem?
+- TOP 4.7.2.: Aufklärung zur Genehmigungspraxis jüngster Fällanträge zu Lasten des Baumschutzes
+- TOP 4.7.3.: Ernst machen mit dem Schnellen Radweg München-Ebersberg
+- TOP 4.7.4.: Direkt und vielleicht auch unterirdisch zum SBH: frühzeitig die Weichen stellen für einen bequemen Anschluss von SBH, Bibliothek, MVHS und ASZ an den Bhf. Trudering und die Potenziale für eine Erweiterung des Busbahnhofs voll ausschöpfen
+- TOP 4.7.5.: Hafelhofweg / Bognerhofweg – Gefahren für Fußgänger reduzieren
+- TOP 4.7.6.: Nachfrage zu BA-Antrag 20-26/B04339 – Hugo-Weiß-Straße / Felicitas-Füss-Straße: Errichtung von Fahrradanlehnbügeln und einer überdachten Fahrradabstellanlage
+- TOP 4.7.7.: (N) Grünes Band entlang der Friedenspromenade weiter aufwerten, Kinderspielplatz einrichten
+- TOP 4.7.8.: (N) Münchner Trinkbrunnenoffensive: Standortvorschläge für den Stadtbezirk 15
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: BA-Mitgliedern den Zugang zum neuen städtischen Online-Telefonbuch ermöglichen
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Ortstermin und Prüfantrag zur barrierefreien Fuß-Radweg-Unterführung am Lehrer-Götz-Weg
+- TOP 5.2.2.: Bericht zur TOPO-Box-Erhebung am Schmuckerweg 8 vom 18.04.23 bis 24.04.23
+- TOP 5.2.3.: Schneller Radweg München Ost – Haar – Ebersberg: Planung und Umsetzung im Abschnitt Rappenweg und Gronsdorf beschleunigen
+- TOP 5.2.4.: Lösungsvorschläge zur Park- und Zufahrtsproblematik am Schulzentrum Astrid-Lindgren-Straße
+- TOP 5.2.5.: Entsiegelung und Begrünung der „Grünfläche“ zwischen Berufsschule und Förderzentrum in der Astrid-Lindgren-Straße
+- TOP 5.2.6.: In der Heuluss / Möwenstraße: Problematik mit geparkten Fahrzeugen und Anhängern verschiedener Art
+- TOP 5.2.7.: Truderinger Ortskern: Hohe Bordsteinkante an der Kreuzung Schmuckerweg / Hafelhofweg
+- TOP 5.2.8.: Evaluierung veränderter Kfz-Verkehrsbeziehungen durch die Umbaumaßnahmen im Ortskern Trudering
+- TOP 5.2.9.: Ortszentrum Trudering – verkehrliche Regelungen und Parkraumüberwachung
+- TOP 5.2.10.: Verkehrszählung Ortskern Trudering
+- TOP 5.2.11.: Kirchtruderinger Straße: Bessere Kenntlichmachung der Tempo-30-Zone
+- TOP 5.2.12.: Taktverdichtung statt Leerfahrten auf der S4 von / bis Haar
+- TOP 5.2.13.: Schneiderhofstr / Drosselweg: Vorschlag zur Verkehrswende in München - überdachte Radständer anstelle Parkplatz
+- TOP 5.2.14.: Der „Truderinger Weckruf“ ist aktueller denn je: Dimensionen und Auswirkungen eines neuen S-Bahn-Betriebswerks in Steinhausen/am Hüllgraben transparent machen und klar Position beziehen
+- TOP 5.2.15.: Pilotprojekt in der Oslostraße und Erika-Cremer-Straße für eine stärkere Auslastung der vorhandenen Parkplatzkapazitäten in Tiefgaragen und Parkhäusern
+- TOP 5.2.16.: (N) Fuß- / Radwegsituation Am Hochacker/Marktgrafenstraße verbessern BV-Anfrage Nr. 20-26 / Q 00094
+- TOP 5.2.17.: Hugo-Weiß-Straße / Felicitas-Füss-Straße: Errichtung von Fahrradanlehnbügeln und einer überdachten Fahrradabstellanlage
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Namen und Taufe des neuen Brunnens im Ortskern Trudering
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Baugenehmigungen an Nachbarn wirklich zustellen!
+- TOP 5.4.2.: Jagdhornstraße: Gedanken zur Bebauung des Grundstücks
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Sport für alle Fitnessparcours für Jung und Alt auch in Trudering
+- TOP 5.5.2.: Pumptrackbahn
+- TOP 5.5.3.: GU Stolzhofstraße – Bitte um sofortige Schadensbehebung und bessere Ausstattung
+- TOP 5.5.4.: GU Willy-Brandt-Allee: Beschwerde über die hygienischen Zustände
+- TOP 5.5.5.: Inklusion auf Kinderspielplätzen
+- TOP 5.5.6.: Nachmittäglichen Betreuung der Schulkinder in der Grundschule Lehrer-Götz-Weg 21
+- TOP 5.5.7.: Kindermuseum in die Messestadt
+- TOP 5.5.8.: Bezirkssportanlage an der Feldbergstraße - Verbesserung der Toilettensituation durch Erweiterung und barrierefreien Umbau
+- TOP 5.5.9.: Pilotprojekt: Papillon Briefkästen gegen Kindsmissbrauch
+- TOP 5.5.10.: Grundschule Turnerstraße: Derzeitige und voraussichtlich künftige Raum- und Verpflegungssitutation
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Bayerischen Sicherheitswacht im 15. Stadtbezirk; Prüfung einer Kompetenzerweiterung für die Grünanlagenaufsicht.
+- TOP 5.6.2.: Verstoßen die umfangreichen aber von der LBK genehmigten Baumfällungen in der Sperberstraße 42 gegen das Rücksichtnahmegebot gegenüber der Natur?
+- TOP 5.6.3.: Restwärme der Geothermie Riem besser nutzen – Einsatz von Wärmepumpen zur Rücklaufauskühlung untersuchen
+- TOP 5.6.4.: Truderinger Ortskern: Ungepflegte Bepflanzung rund um die Bäume sowie Bitte um Unterstützung für die Aufstellung von Pflanztrögen
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der LHM / Einwohner*innenbudget
+- TOP 7.1.2.: Veranstaltung in städtischen Grünanlagen: Green Dinner im Riemer Park, südliche Liegewiese am 30.07.2023
+- TOP 7.1.3.: Veranstaltung in städtischen Grünanlagen und auf Privatgrund: Kinder Zirkus Attraktionen Ferienprogramm (Aufführung und Training) des Quax im Riemer Park (Wiese hinter dem Quax, Höhe Helsinkistr. 100) und im Garten des Quax im Zeitraum vom 07.-12.08.23
+- TOP 7.1.4.: Veranstaltung in städtischen Grünanlagen und auf Privatgrund: Kinder Zirkus Attraktionen Ferienprogramm (Aufführung und Training) des Quax im Riemer Park (Wiese hinter dem Quax, Höhe Helsinkistr. 100) und im Garten des Quax im Zeitraum vom 11.-12.08.2023
+- TOP 7.1.5.: Veranstaltung in städtischen Grünanlagen: Offenes Zirkusprogramm Kinder Zirkus Attraktionen des Quax vom 07.-11.08.2023 in der Grünfläche Ruth-Beutler-Str. 20 (am orangenen Würfel)
+- TOP 7.1.6.: Veranstaltung in städtischen Grünanlagen: KIKU Live Spielfest des Quax im Riemer Park (hinter dem Quax, Höhe Helsinkistr. 100, Skatepark) am 29.07.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Florastraße 33a - Neubau eines Mehrfamilienhauses mit Anschluss an eine Tiefgarage - ÄNDERUNGSANTRAG zu 1.23-2022-14223-32 jetzt: Neubau eines Mehrfamilienhauses mit einem Carport und einem Mehrfachparker mit Carport
+- TOP 7.4.2.: Hochkönigstraße - Neubau eines 5-Familienhauses mit Carports - VORBESCHEID
+- TOP 7.4.3.: Kranichweg 33 - Neubau eines Mehrfamilienhauses mit Mehrfachparker
+- TOP 7.4.4.: Stahlgruberring 28 - Erweiterung des Hotels im Vordergebäude durch Umbau der Rückgebäudes von Lager und Personalräumen zu Hotelzimmern - VORBESCHEID
+- TOP 7.4.5.: Unnützstr. 28 - Schulbauoffensive: Neubau Haus für Kinder mit 2 Krippen- und 2 Kindergartengruppen
+- TOP 7.4.6.: Karlsburger Str. 4 - Neubau eines Mehrfamilienhauses mit zwei Garagen
+- TOP 7.4.7.: Vogesenstr. 50 - Dachausbau des Spitzgeschosses zu einer Wohnung und Erhöhung des Treppenhauses
+- TOP 7.4.8.: Dompfaffweg 2 - Neubau eines Mehrfamilienhauses mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.23-2022-15366-32
+- TOP 7.4.9.: Feldbergstr. 18 - Neubau eines Mehrfamilienhauses mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2021-23628-32
+- TOP 7.4.10.: Leschkircher Str. 14 - Errichtung eines rückwärtigen Anbaus sowie Dachausbau (3. WE) ÄNDERUNGSANTRAG zu 1.2-2023-357-32
+- TOP 7.4.11.: Florastr. 48 - Ausbau eines best. Dachgeschosses, Anbau eines Balkons
+- TOP 7.4.12.: Willy-Brandt-Pl. 5 - Zusammenlegung Shop 01_005.0, Shop 01_006.0 u. 01_007.0 im 1.OG als neue Verkaufsfläche für "RIH 11/22 IKEA 01_005.0" im best. Shopping Center "Riem Arcaden", sowie Nutzungsänderung Shop 01_005.0 des Betriebes IKEA
+- TOP 7.4.13.: Dachsteinstr. 32 - Abbruch eines Einfamilienhauses mit Garage und Hallenbad, Neubau eines Mehrfamilienhauses (4 WE) sowie zwei Doppelparkergaragen - VORBESCHEID
+- TOP 7.4.14.: Fauststr. - Neubau eines Mehrfamilienhauses mit 12 WE und einer Tiefgarage mit 12 Stpl. - VORBESCHEID
+- TOP 7.4.15.: Lafatscherjochstr. 11 - Neubau zweier Wohngebäude mit je einer ambulant betreuten Wohngemeinschaft und Tiefgarage (4 Stpl.) - ÄNDERUNGSANTRAG zu 1.1-2021-16334-32 - Hier: Neubau zweier Wohngebäude mit Parklift für eine ambulant betreuten Wohngemeinschaft sowie eine Mitarbeiter Wohngemeinschaft im Vordergebäude und betreutes Wohnen im Rückgebäude
+- TOP 7.4.16.: Riemer Str. 300 - Ersatzneubau eines Clubhauses für den TSV Maccabi München e.V. mit integrierter vereinsinterner Gastronomie, einem Gymnastikraum und einer Platzwartwohnung
+- TOP 7.4.17.: Schwanenweg 31 - Neubau von 2 Doppelhäusern, mit jeweils durch eine doppelschalige Kommunwand getrennte Häuser (H1-H2, H3-H4) mit dazugehörigen 4 Stellplätzen davon 2 Carport und 1 Doppelparker (1 oben / 1 unten)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Standortsuche für eine gleichmäßige Verteilung von Unterkünften für Geflüchtete im Stadtgebiet Münchens
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Standortfindung für neue Kompakt-Trafostationen im Stadtbezirk
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Edeltraudstr. 72 Eigerstr. 39 Mönchbergstr. 8
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Am Oberfeld 4 An der Seidlbreite 16 Anechostraße 43 Bajuwarenstr. 138 (N) Dachsteinstraße 32 (N) Fauststraße Häherweg 12 Hochkönigstraße In der Heuluss 19 a Karlsburger Str. 4 (N) Kranichweg 32 Lafatscherjochstr. 11 Max-Beckmann-Str. 39 Schwanenweg 31 Tsingtauerstraße 48 a Wasserturmstr. 22 Wiesbachhornstr. 34
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Veranstaltung in städtischen Grünanlagen: Öffentliche Ausstellung zum Bauabschnitt 5 Messestadt im Riemer Park, südl. Schotterfläche am Kopfbau am 13.07. – 31.10.2023 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Truderinger Straße 288: Protokoll zum Besichtigungstermin des ehem. Rathauses am 27.06.2023
+- TOP 9.2.2.: Bitte um zeitnahe Aufklärung dreier Fällgenehmigungen ohne Einbezug des BA15
+- TOP 9.2.3.: (N) Präsentation der Messe München zur IAA Mobility 2023
+- TOP 9.2.4.: (N) Präsentation der DB Regio AG und DB Netz AG zum Bahnausbau München Ost sowie S-Bahn-Instandhaltungswerk Steinhausen
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.3.: Landtags- und Bezirkswahl am 08.10.2023: Einteilung der Stimmbezirke und Wahlräume
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Arbeiten im Straßenraum: Straßenneubau am Bildungscampus Riem (Bauphase 10)
+- TOP 10.2.2.: Friedenspromenade, Haltestelle Markgrafenstraße: Programm Barrierefreier Ausbau von Bushaltestellen
+- TOP 10.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.4.: Projektauftrag EM 265 Elisabeth-Castonier-Platz: Umbau der Parallelfahrbahn der Willy-Brandt-Allee zwischen Heinrich-Böll-Straße und Selma-Lagerlöf-Straße
+- TOP 10.2.5.: Fördermöglichkeiten zur Unterstützung beim Bau von Fahrradparkplätzen der DB
+- TOP 10.2.6.: Maßnahmen zur Angebotsausweitung von Carsharing und die dafür erforderliche Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 10.3.2.: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 10.3.3.: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 10.3.4.: Zwischennachricht: Neugestaltung und Sanierung der städtischen Grundstücke im Ortszentrum Trudering an der Truderinger Straße 288 und 290 sowie Bajuwarenstraße 138 BA-Antrag Nr. 20-26 / B 05242
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Ankoglstr. 2 b) Kilihofstr. 9
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Schatzbogen 29
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 10.5.2.: Messestadt Riem: Protokoll des 2. Strategietreffens Gewaltlosigkeit Messestadt Riem am 21.06.23
+- TOP 10.5.3.: Messestadt Riem: Anwohnerschreiben und Zufahrtsregelungen für das Rolling Loud Festival vom 07. bis 09.07.23
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 10.6.2.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 10.6.3.: Graf-Lehndorff-Str. 36: Feuerwerksanzeige am 08.07.2023 in der Golfanlage innerhalb der Galopprennbahn Riem
+- TOP 10.6.4.: (U) Masterplan solares München
+- TOP 10.6.5.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 10.6.6.: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
