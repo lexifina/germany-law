@@ -1,0 +1,27 @@
+# Anlage 2 (zu § 19)Zeugnisinhalte
+
+Teil A
+Zeugnis ohne Prüfungsergebnisse
+– Bezeichnung der ausstellenden Behörde,
+– Name und Geburtsdatum der geprüften Person,
+– Datum des Bestehens der Prüfung,
+– Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+– Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+– Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
+Teil B
+Zeugnis mit Prüfungsergebnissen
+Alle Angaben des Teils A sowie zusätzlich
+– zum Prüfungsteil „Grundlegende Qualifikationen“
+  – Benennung dieses Prüfungsteils und Bewertung in Punkten und mit Note als Dezimalzahl mit einer Nachkommastelle sowie
+  – Benennung der Prüfungsbereiche dieses Prüfungsteils und jeweilige Punktebewertung der Prüfungsleistungen,
+– zur schriftlichen Prüfung im Prüfungsteil „Handlungsspezifische Qualifikationen“
+  – Benennung dieses Prüfungsteils und Bewertung in Punkten und mit Note als Dezimalzahl mit einer Nachkommastelle sowie
+  – Benennung der Prüfungsbereiche der schriftlichen Prüfung und jeweilige Punktebewertung der Prüfungsleistungen,
+– zur Projektarbeit im Prüfungsteil „Handlungsspezifische Qualifikationen“
+  – Benennung dieses Prüfungsbereiches mit dem Thema der Projektarbeit und Bewertung in Punkten und mit Note als Dezimalzahl mit einer Nachkommastelle sowie
+  – Benennung der Teile der Projektarbeit (Hausarbeit, Präsentation und Fachgespräch) und jeweilige Punktebewertung der Prüfungsleistungen,
+– die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+– die Gesamtnote als Dezimalzahl,
+– die Gesamtnote in Worten,
+– Befreiungen nach § 18,
+– Nachweis über den Erwerb der berufs- und arbeitspädagogischen Kenntnisse nach § 21 mit Datum und Nennung der Stelle, die die Prüfung abgenommen hat.
