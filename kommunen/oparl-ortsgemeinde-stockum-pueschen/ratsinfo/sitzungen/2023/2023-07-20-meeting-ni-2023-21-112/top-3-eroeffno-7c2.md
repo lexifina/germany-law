@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Stockum-Püschen (2023-07-20)
+- Körperschaft: Ortsgemeinde Stockum-Püschen
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2023-21-112%7CEroeffno%7C2
