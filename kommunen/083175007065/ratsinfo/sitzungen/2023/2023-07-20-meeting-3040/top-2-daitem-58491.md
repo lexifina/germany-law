@@ -1,0 +1,6 @@
+# TOP 2.: Konstituierung JGR 2023 - 2026
+
+- Sitzung: Jugendgemeinderat (3. Sitzung) (2023-07-20)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/58491
