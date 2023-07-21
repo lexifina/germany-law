@@ -3,3 +3,4 @@
 – In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis einer HIV-Infektion bestimmt sind
 – In-vitro-Diagnostika für die Eigenanwendung, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind
 – In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von Influenzaviren bestimmt sind
+– In-vitro-Diagnostika für die Eigenanwendung, die für den Nachweis von Respiratorischen Synzytial Viren bestimmt sind
