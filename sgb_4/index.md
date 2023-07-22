@@ -168,6 +168,7 @@
 - [§ 62 Vorsitzende der Selbstverwaltungsorgane](0062.md)
 - [§ 63 Beratung](0063.md)
 - [§ 64 Beschlussfassung](0064.md)
+- [§ 64a Hybride und digitale Sitzungen](0064a.md)
 - [§ 65 Getrennte Abstimmung](0065.md)
 - [§ 66 Erledigungsausschüsse](0066.md)
 

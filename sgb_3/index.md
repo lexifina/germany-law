@@ -157,7 +157,6 @@ Versicherungspflichtige
 
 - [§ 81 Grundsatz](0081.md)
 - [§ 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer](0082.md)
-- [§ 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer](0082-2.md)
 - [§ 83 Weiterbildungskosten](0083.md)
 - [§ 84 Lehrgangskosten](0084.md)
 - [§ 85 Fahrkosten](0085.md)
