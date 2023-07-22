@@ -1,0 +1,34 @@
+# Anlage 2 (zu den §§ 7 und 8)Schulungsinhalte und Schulungsnachweis
+
+1. Allgemeines
+  Die Schulungsinhalte für die in § 7 genannten Tätigkeiten im Bereich Luftsicherheit sind den Nummern 11.2.3.1 bis 11.2.7 des Anhangs der Durchführungsverordnung (EU) 2015/1998 zu entnehmen.
+2. Übersicht über die Schulungsinhalte für die einzelnen Tätigkeiten nach den Nummern 11.2.3.1 bis 11.2.7 des Anhangs der Durchführungsverordnung (EU) 2015/1998
+  | Schulungsinhalte | tätigkeitsspezifische Schulung der Personengruppen gemäß § 2 Absatz 1 bis 3 |
+  |  | Luftsicherheitskontrollpersonal nach Nummer 11.2.3.1 | Luftsicherheitskontrollpersonal nach Nummer 11.2.3.2 | Luftsicherheitskontrollpersonal nach Nummer 11.2.3.3 | Luftsicherheitskontrollpersonal nach Nummer 11.2.3.4 | Luftsicherheitskontrollpersonal nach Nummer 11.2.3.5 | Sicherheitspersonal nach Nummer 11.2.3.6 | Sicherheitspersonal nach Nummer 11.2.3.7 | Sicherheitspersonal nach Nummer 11.2.3.8 | Sicherheitspersonal nach Nummer 11.2.3.9 | Sicherheitspersonal nach Nummer 11.2.3.10 | Sicherheitspersonal nach Nummer 11.2.3.11 | Aufsichtspersonal nach Nummer 11.2.4 | Sicherheitsbeauftragter nach Nummer 11.2.5 | Anderes Personal nach Nummer 11.2.6 | Anderes Personal nach Nummer 11.2.7 |
+  | Sicherheitskultur/ Radikalisierung | Basisschulung nach Nummer 11.2.2 Buchstabe l | Buchstabe b | Buchstabe b | Basisschulung nach Nummer 11.2.2 Buchstabe l | Basisschulung nach Nummer 11.2.2 Buchstabe l | Buchstabe a | Buchstabe a | Buchstabe b | Buchstabe b | Buchstabe b | Buchstabe b | Basisschulung nach Nummer 11.2.2 Buchstabe l | Basisschulung nach Nummer 11.2.2 Buchstabe l | Buchstabe b | Buchstabe b |
+  | Terrorismus/aktuelle Bedrohungen | Basisschulung nach Nummer 11.2.2 Buchstabe a | Buchstabe a | Buchstabe a | Basisschulung nach Nummer 11.2.2 Buchstabe a | Basisschulung nach Nummer 11.2.2 Buchstabe a | Buchstabe g | Buchstabe f | Buchstabe a | Buchstabe a | Buchstabe a | Buchstabe a | Basisschulung nach Nummer 11.2.2 Buchstabe a | Basisschulung nach Nummer 11.2.2 Buchstabe a | Buchstabe a | Buchstabe a |
+  | Allgemeine Rechtsvorschriften, Ziele und Struktur der Luftsicherheit | Basisschulung nach Nummer 11.2.2 Buchstabe b, c | Buchstabe c | Buchstabe c | Basisschulung nach Nummer 11.2.2 Buchstabe b, c | Basisschulung nach Nummer 11.2.2 Buchstabe b, c | Buchstabe h, i | Buchstabe g, h | Buchstabe c | Buchstabe c | Buchstabe c | Buchstabe c | Basisschulung nach Nummer 11.2.2 Buchstabe b, c | Basisschulung nach Nummer 11.2.2 Buchstabe b, c | Buchstabe c | Buchstabe c |
+  | Tätigkeitsbezogene Rechtsvorschriften; Beförderungs- und Schutzanforderungen | Buchstabe l | Buchstabe b, i, p | Buchstabe b, m | Buchstabe a | Buchstabe a | Buchstabe a | Buchstabe a, b | Buchstabe b, f, g | Buchstabe b, i, j | Buchstabe b, i, j | Buchstabe b, d, e | Buchstabe a | Buchstabe a | Buchstabe b | Buchstabe b |
+  | Kontrolltechnik, Kontrollstellen, Kontrollverfahren, Ausnahmen von Kontrollen | Buchstabe a, d, g, h, i, j, k, | Buchstabe f, j, k, l, m, n, o | Buchstabe h, i, j, k, l | Buchstabe a, e, f | Buchstabe a, d | Buchstabe b, f | Buchstabe a, b | Buchstabe f | Buchstabe c | Buchstabe c | Buchstabe h, i | Buchstabe h | Buchstabe d | Buchstabe c | Buchstabe c |
+  | Verbotene Gegenstände, Meldeverfahren, Sofortmaßnahmen | Buchstabe b, c, e sowie Basisschulung nach Nummer 11.2.2 Buchstabe g, h, i | Buchstabe d, e, g, h | Buchstabe d, e, f, g | Buchstabe b, c, d sowie Basisschulung nach Nummer 11.2.2 Buchstabe g, h, i | Buchstabe e, f sowie Basisschulung nach Nummer 11.2.2 Buchstabe g, h, i | Buchstabe c, d, e | Buchstabe a, b | Buchstabe d, e | Buchstabe f, g, h | Buchstabe g, h | Buchstabe f, g, m, n | Buchstabe d, e sowie Basisschulung nach Nummer 11.2.2 Buchstabe g, h, i | Basisschulung nach Nummer 11.2.2 Buchstabe g, h, i |  |  |
+  | Zugangskontrollen, Ausweissystem, Anhalten und Melden von Personen | Basisschulung nach Nummer 11.2.2 Buchstabe d, e, f |  |  | Basisschulung nach Nummer 11.2.2 Buchstabe d, e, f | Buchstabe b, c, d sowie Basisschulung nach Nummer 11.2.2 Buchstabe d, e, f | Buchstabe j, k, l | Buchstabe c, d, e, i, j | Buchstabe h, i, j, k, l | Buchstabe d, e, k, l, m, n | Buchstabe d, e, k, l m, n |  | Basisschulung nach Nummer 11.2.2 Buchstabe d, e, f | Basisschulung nach Nummer 11.2.2 Buchstabe d, e, f | Buchstabe d, e, f, g, h | Buchstabe d, e |
+  | Soziale Kompetenzen, motivieren anderer Personen | Buchstabe f sowie Basisschulung nach Nummer 11.2.2 Buchstabe j, k |  |  | Basisschulung nach Nummer 11.2.2 Buchstabe j, k | Buchstabe g sowie Basisschulung nach Nummer 11.2.2 Buchstabe j, k |  |  |  |  |  |  | Buchstabe f, g sowie Basisschulung nach Nummer 11.2.2 Buchstabe j, k | Buchstabe c sowie Basisschulung nach Nummer 11.2.2 Buchstabe j, k |  |  |
+  | Aufsichtsaufgaben und Qualitätskontrolle einschließlich Praxistraining |  |  |  |  |  |  |  |  |  |  |  | Buchstabe b, c, f | Buchstabe b |  |  |
+  | Kapitel 10: Sicherheitsmaßnahmen während des Fluges |  |  |  |  |  |  |  |  |  |  | Buchstabe c, j, k, l, m, n | Buchstabe b, c, f |  |  |  |
+  Die tätigkeitsspezifischen Schulungsinhalte sind entsprechend den zu schulenden Personengruppen modular aufgebaut. Das heißt, dass die Schulungsinhalte entsprechend den einzelnen Buchstaben tätigkeitsspezifisch zusammengestellt werden.
+  Die Zusammenstellung der Schulungsinhalte für die jeweilige Personengruppe erfolgt auf Grundlage einer Tabelle, die den Schulungsverpflichteten und den zertifizierten Ausbildern durch die zuständige Luftsicherheitsbehörde zur Verfügung gestellt wird. Die Tabelle wird beim Luftfahrt-Bundesamt geführt. Personen, die an einer tätigkeitsspezifischen Schulung nach Nummer 11.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 erfolgreich teilgenommen haben, können durch eine weitere Schulung zusätzliche Kompetenzen erwerben. Bereits vermittelte Schulungsinhalte werden hierbei anerkannt. Die zusätzlichen Schulungsinhalte werden durch eine Filterfunktion in der Tabelle ermittelt und aufgeführt.
+3. Muster – Schulungsnachweis nach § 8 Absatz 1
+  | Luftsicherheitsbehörde/Dienststelle | Wappen |
+  |  |
+  | Schulungsunternehmen/Ausbilder | Firmenlogo |
+  |  |
+  Schulungsnachweis
+  nach Nummer 11.2 der Durchführungsverordnung (EU) 2015/1998
+  Herr/Frau (Vorname, Nachname), geboren am
+  hat im Zeitraum vom bis oder hat am
+  an der Schulung gemäß Nummer (alle Schulungen nennen) der Durchführungsverordnung (EU) 2015/1998 sowie den darauf beruhenden ergänzenden inhaltlichen und zeitlichen nationalen Vorgaben mit Erfolg teilgenommen.
+  Es besteht bereits eine Vorausbildung gemäß Nummer (sofern vorhanden, alle Schulungen aufzählen) der Durchführungsverordnung (EU) 2015/1998.
+  Ggf. Hinweis auf behördliche Genehmigung einer Teilschulung (§ 6 Absatz 17)
+  |  |
+  | Ort, Datum, Unterschrift Ausbilder, Zertifikatsnummer |
+  Hinweis: Der Schulungsnachweis kann auch in englischer Sprache ergänzt werden.
