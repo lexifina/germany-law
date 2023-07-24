@@ -1,0 +1,301 @@
+---
+ecli: "ECLI:DE:BGH:2023:240723VIaZB10.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-06a"
+aktenzeichen: "VIa ZB 10/21"
+decided: "2023-07-24"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2023&Sort=1&Seite=61&nr=134497&anz=3377&pos=1839&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-06a_LE_2023-07-24_VIa_ZB_10_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0031.md", "germany/bund/acts/bgb/0826.md", "germany/bund/acts/vwgo/0042.md", "germany/bund/acts/vwgo/0065.md", "germany/bund/acts/vwgo/0113.md", "germany/bund/acts/vwgo/0121.md", "germany/bund/acts/zpo/0148.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, VIa ZB 10/21 vom 2023-07-24
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                               BESCHLUSS
+VIa ZB 10/21
+
+                                       vom
+
+                                   24. Juli 2023
+
+                               in dem Rechtsstreit
+
+Nachschlagewerk:        ja
+
+BGHZ:                 nein
+
+BGHR:                   ja
+
+
+
+BGB § 826 H
+ZPO § 148 Abs. 1
+
+
+Geht der Hersteller eines vom sogenannten Dieselskandal betroffenen Fahrzeugs mit der Anfechtungsklage gegen die nachträgliche Anordnung von Nebenbestimmungen zu einer EG-Typgenehmigung vor, ist der Ausgang des verwaltungsgerichtlichen Verfahrens für einen Zivilrechtsstreit nicht vorgreiflich, in dem
+der Käufer des Fahrzeugs den Fahrzeughersteller wegen einer deliktischen
+Schädigung in Anspruch nimmt.
+
+BGH, Beschluss vom 24. Juli 2023 - VIa ZB 10/21 - OLG Dresden
+                                                   LG Leipzig
+
+
+
+
+ECLI:DE:BGH:2023:240723BVIAZB10.21.0
+
+                                          -2-
+
+
+
+    Der VIa. Zivilsenat des Bundesgerichtshofs hat am 24. Juli 2023 durch die
+    Richterin am Bundesgerichtshof Dr. Menges als Vorsitzende, die Richterinnen
+    Möhring, Dr. Krüger und Wille sowie den Richter Liepin
+
+    beschlossen:
+
+          Auf die Rechtsbeschwerde des Klägers wird der Beschluss des
+          11a. Zivilsenats des Oberlandesgerichts Dresden vom 11. November 2021 aufgehoben.
+
+          Es wird die Fortsetzung des Verfahrens angeordnet.
+
+          Beschwerdewert: bis 4.000 €
+
+
+
+
+                                        Gründe:
+
+                                           I.
+
+1         Der Kläger, der die Beklagte als Kraftfahrzeugherstellerin und -verkäuferin
+    wegen Verwendung einer unzulässigen Abschalteinrichtung auf deliktischen
+    Schadensersatz in Anspruch nimmt, wendet sich gegen die Aussetzung des
+    Rechtsstreits gemäß § 148 Abs. 1 ZPO.
+
+2         Der Kläger erwarb im Jahr 2016 von der Beklagten einen Neuwagen des
+    Typs Mercedes-Benz V 220 D. Das Fahrzeug ist mit einem Dieselmotor der Baureihe OM 651 und einem SCR-Katalysator zur Abgasreinigung mittels einer
+    Harnstofflösung ("AdBlue") ausgestattet. Für den Fahrzeugtyp wurde eine
+    EG-Typgenehmigung nach der Abgasnorm Euro 6 erteilt.
+
+                                         -3-
+
+
+
+3         Das Kraftfahrt-Bundesamt (KBA) erließ mit Bescheid vom 23. Mai 2018
+    und Ergänzungsbescheid vom 3. August 2018 unter Anordnung der sofortigen
+    Vollziehung nachträgliche Nebenbestimmungen zur EG-Typgenehmigung für bestimmte von der Beklagten hergestellte Fahrzeuge, darunter das Fahrzeug des
+    Klägers, und ordnete den Rückruf der Fahrzeuge an. Die Beklagte hat die Bescheide durch Widerspruch und Klage angefochten. Das Verfahren hierzu ist
+    beim Verwaltungsgericht Schleswig unter dem Aktenzeichen 3 A 52/21 rechtshängig. Ein von der Beklagten für die vom Rückruf betroffenen Fahrzeuge entwickeltes, vom KBA freigegebenes Software-Update wurde auf das vom Kläger erworbene Fahrzeug aufgespielt. Am 20. Dezember 2019 veräußerte der Kläger
+    das Fahrzeug weiter.
+
+4         Der Kläger macht geltend, das KBA habe beanstandet, dass die Motorsteuerungssoftware seines Fahrzeugs die Zufuhr von "AdBlue" nach Messung
+    einer bestimmten Stickoxidmenge ohne technische Notwendigkeit stark reduziere. Er begehrt nach einer Teilerledigungserklärung im Wesentlichen noch die
+    Verurteilung der Beklagten zur Zahlung von 15.546,28 € nebst Prozesszinsen.
+    Die Beklagte vertritt unter näheren Darlegungen die Auffassung, die vom KBA
+    beanstandete Steuerung des SCR-Systems sei rechtmäßig.
+
+5         Das Landgericht hat die Klage abgewiesen. Das Berufungsgericht hat den
+    Rechtsstreit gemäß § 148 ZPO bis zum rechtskräftigen Abschluss des vor dem
+    Verwaltungsgericht Schleswig geführten Verfahrens ausgesetzt. Hiergegen richtet sich die vom Berufungsgericht zugelassene Rechtsbeschwerde des Klägers.
+
+                                           -4-
+
+
+
+                                            II.
+
+6         Die gemäß § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen
+    zulässige Rechtsbeschwerde ist begründet. Sie führt zur Aufhebung des angefochtenen Beschlusses.
+
+7         1. Das Berufungsgericht hat ausgeführt, das verwaltungsgerichtliche Verfahren sei für die Entscheidung des vorliegenden Rechtsstreits vorgreiflich. Es
+    betreffe die Rechtmäßigkeit der Rückrufbescheide des KBA, die sich gerade auf
+    die vom Kläger beanstandete Abschalteinrichtung bezögen. Das Verwaltungsgericht habe zu klären, ob (auch) im Fahrzeug des Klägers unzulässige Abschalteinrichtungen vorhanden, die Bescheide also zu Recht ergangen seien. Sollte es
+    rechtskräftig die Rechtswidrigkeit der Bescheide feststellen, stünde fest, dass nie
+    die Gefahr einer Fahrzeugstilllegung bestanden und die Beklagte nicht sittenwidrig gehandelt habe. Bei einer Abweisung der Anfechtungsklage der Beklagten
+    stünde hingegen fest, dass das Fahrzeug zum Zeitpunkt der EG-Typgenehmigung und des Verkaufs an den Kläger nicht den geltenden Abgasnormen entsprochen habe, was Voraussetzung für eine Haftung der Beklagten nach § 826
+    BGB sei. Die Entscheidung des Verwaltungsgerichts darüber, ob die Steuerung
+    des SCR-Systems eine unzulässige Abschalteinrichtung darstelle, sei für die Zivilgerichte bindend.
+
+8         Der Rechtsstreit sei nicht aus anderen Gründen ohne Weiteres entscheidungsreif. Entscheidungsreife bestehe weder unter dem Aspekt der Darlegungsund Beweislast noch folge sie aus der Rückrufanordnung des KBA, die für sich
+    betrachtet nicht die Annahme einer deliktischen Haftung der Beklagten rechtfertige. Eine Haftung gemäß § 826 BGB komme jedoch in Betracht, wenn die vom
+    KBA beanstandete SCR-Steuerung im Ergebnis des verwaltungsgerichtlichen
+    Verfahrens als unzulässige Abschalteinrichtung bewertet werden sollte. Sollte
+
+                                           -5-
+
+
+
+     tatsächlich nach einer bestimmten Fahrtzeit für die gesamte weitere Dauer des
+     Fahrbetriebs (bis zum Neustart des Fahrzeugs) keine ins Gewicht fallende Abgasreinigung mehr stattfinden, obwohl eine Rückkehr in den Ausgangsmodus
+     technisch möglich wäre, läge darin ein Indiz für eine sittenwidrige Schädigung,
+     wenn die Beklagte - hinzutretend - dem KBA die Abschaltstrategie ursprünglich
+     nicht offengelegt haben sollte, wovon auszugehen sei.
+
+9          Die zu erwartende Dauer des verwaltungsgerichtlichen Verfahrens stehe
+     der Aussetzung im Rahmen des gerichtlichen Ermessens nicht entgegen.
+
+10         2. Das hält der rechtlichen Nachprüfung nicht stand. Denn eine die Aussetzung gemäß § 148 Abs. 1 ZPO rechtfertigende Vorgreiflichkeit der zu erwartenden Entscheidung des Verwaltungsgerichts Schleswig im Verfahren 3 A 52/21
+     für den vorliegenden Rechtsstreit besteht nicht.
+
+11         a) Nach § 148 Abs. 1 ZPO kann das Gericht, wenn die Entscheidung des
+     Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines
+     Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen
+     Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis
+     zur Entscheidung der Verwaltungsbehörde auszusetzen sei. Die Aussetzung der
+     Verhandlung setzt damit Vorgreiflichkeit der in dem anderen Rechtstreit oder dem
+     Verwaltungsverfahren zu treffenden Entscheidung im Sinne einer (zumindest teilweise) präjudiziellen Bedeutung voraus (BGH, Beschluss vom 30. März 2005
+     - X ZB 26/04, BGHZ 162, 373, 375; Beschluss vom 13. September 2012 - III ZB
+     3/12, WM 2012, 2024 Rn. 10; Beschluss vom 27. Juni 2019 - IX ZB 5/19,
+     NJW-RR 2019, 1212 Rn. 7). Vorgreiflichkeit ist insbesondere gegeben, wenn in
+     einem anderen Rechtsstreit eine Entscheidung ergeht, die für das auszuset-
+
+                                           -6-
+
+
+
+     zende Verfahren materielle Rechtskraft entfaltet oder Gestaltungs- bzw. Interventionswirkung erzeugt (BGH, Beschluss vom 27. Juni 2019, aaO, mwN). Der Umstand, dass in dem anderen Verfahren über eine Rechtsfrage zu entscheiden ist,
+     von deren Beantwortung die Entscheidung des vorliegenden Rechtsstreits ganz
+     oder teilweise abhängt, rechtfertigt dagegen die Aussetzung der Verhandlung
+     nicht (vgl. BGH, Beschluss vom 13. September 2012, aaO, Rn. 13; Beschluss
+     vom 25. November 2013 - NotZ (Brfg) 11/13, NJW-RR 2014, 631 Rn. 13; Beschluss vom 8. April 2014 - XI ZB 40/11, NJW-RR 2014, 758 Rn. 15; Beschluss
+     vom 27. Juni 2019, aaO).
+
+12         Die Frage, ob ein Aussetzungsgrund im Sinne von § 148 Abs. 1 ZPO gegeben ist, ist im Rechtsbeschwerdeverfahren uneingeschränkt zu überprüfen
+     (BGH, Beschluss vom 12. Dezember 2005 - II ZB 30/04, NJW-RR 2006, 1289
+     Rn. 6; Beschluss vom 8. April 2014 - XI ZB 40/11, NJW-RR 2014, 758 Rn. 12;
+     Beschluss vom 25. Juli 2019 - I ZB 82/18, NJW-RR 2020, 98 Rn. 38; Beschluss
+     vom 9. März 2021 - II ZB 16/20, NJW-RR 2021, 638 Rn. 20). Auszugehen ist dabei von der Beurteilung der Sach- und Rechtslage durch das vorinstanzliche Gericht, deren Überprüfung einem etwaigen späteren Rechtsmittelverfahren gegen
+     die Sachentscheidung vorbehalten bleibt (vgl. BGH, Beschluss vom 25. Juli
+     2019, aaO; Zöller/Greger, ZPO, 34. Aufl., § 252 Rn. 5).
+
+13         b) Das Berufungsgericht ist vorliegend der Ansicht, eine Haftung der Beklagten nach § 826 BGB komme in Betracht, wenn die (ursprünglich) in dem
+     Fahrzeug vorhandene, vom KBA beanstandete Steuerung des SCR-Systems als
+     unzulässige Abschalteinrichtung gemäß Art. 5 Abs. 2 der Verordnung (EG)
+     Nr. 715/2007 zu qualifizieren sein sollte; andernfalls scheide eine Haftung aus.
+     Über die demnach maßgebliche Frage der Rechtmäßigkeit der SCR-Steuerung
+     wird im Verfahren über die Anfechtungsklage der hiesigen Beklagten aber nicht
+     mit Rechtskraftwirkung entschieden (nachfolgend aa)). Eine Vorgreiflichkeit der
+
+                                            -7-
+
+
+
+     verwaltungsgerichtlichen Entscheidung im Sinne von § 148 Abs. 1 ZPO ergibt
+     sich auch nicht mittelbar aus den von ihr betroffenen Verwaltungsakten, da diesen in der Frage der Rechtmäßigkeit der SCR-Steuerung ebenfalls keine Bindungswirkung zukommt (nachfolgend bb)).
+
+14         aa) Eine Bindungswirkung der zu erwartenden verwaltungsgerichtlichen
+     Entscheidung aus Gründen der materiellen Rechtskraft des Urteils kommt nicht
+     in Betracht.
+
+15         (1) Zwar entfaltet ein rechtskräftiges verwaltungsgerichtliches Urteil nach
+     § 121 VwGO Bindungswirkung in Folgeverfahren auch bei fehlender Identität der
+     Streitgegenstände. Diese Bindungswirkung tritt etwa in den Fällen ein, in denen
+     in einem weiteren Verfahren zwischen denselben Beteiligten die rechtskräftig
+     entschiedene Frage vorgreiflich für die Beurteilung des nunmehr zur Entscheidung stehenden Streitgegenstandes ist (BVerwGE 115, 111, 115; BVerwG,
+     NVwZ 2007, 104 Rn. 23 mwN).
+
+16         (2) Vorliegend fehlt es indessen aber bereits an der von § 121 VwGO
+     vorausgesetzten Identität der Beteiligten. Denn der hiesige Kläger ist ersichtlich
+     weder am verwaltungsgerichtlichen Verfahren beteiligt noch unterfällt er der Regelung des § 121 Nr. 2 VwGO in Verbindung mit § 65 Abs. 3 VwGO.
+
+17         (3) Zudem erstreckt sich die Rechtskraftwirkung des zu erwartenden verwaltungsgerichtlichen Urteils in sachlicher Hinsicht nicht auf die Frage der Rechtmäßigkeit der vom KBA beanstandeten SCR-Steuerung.
+
+18         Denn der Streitgegenstand einer Anfechtungsklage gemäß § 42 VwGO
+     besteht in der Rechtsbehauptung, der angefochtene Verwaltungsakt sei rechtswidrig und verletze den Kläger in seinen Rechten (BVerwGE 116, 1, 3; BVerwG,
+
+                                            -8-
+
+
+
+     NVwZ 2007, 104 Rn. 23; jeweils mwN). Ein stattgebendes Anfechtungsurteil gemäß § 113 Abs. 1 Satz 1 VwGO beinhaltet dementsprechend die rechtskraftfähige Feststellung der Rechtswidrigkeit des angefochtenen Verwaltungsakts
+     (BVerwGE 116, 1, 3). Mit einem die Anfechtungsklage abweisenden Sachurteil
+     steht rechtskräftig fest, dass der Kläger durch den angefochtenen Verwaltungsakt nicht in seinen Rechten verletzt ist; gegebenenfalls ist zudem die Rechtmäßigkeit des Verwaltungsakts festgestellt (vgl. BGH, Urteil vom 7. Februar 1992
+     - V ZR 246/90, BGHZ 117, 159, 166; Clausing/Kimmel in Schoch/Schneider, Verwaltungsrecht, Werkstand: 42. EL, § 121 VwGO Rn. 80; BeckOK-VwGO/Lindner,
+     65. Ed., § 121 Rn. 38). Hingegen erstreckt sich die Rechtskraftwirkung des § 121
+     VwGO nicht auf die Feststellung einzelner Tatbestandsmerkmale, der Entscheidung zugrunde liegende vorgreifliche Rechtsverhältnisse, sonstige Vorfragen
+     oder Schlussfolgerungen, auch wenn diese für die Entscheidung tragend und sogar zentral sind (vgl. BVerwGE 115, 111, 115 f. mwN).
+
+19         In dem verwaltungsgerichtlichen Verfahren, dessen Abschluss das Berufungsgericht abwarten will, kann danach allenfalls eine rechtskräftige Entscheidung über die Rechtmäßigkeit der angefochtenen KBA-Bescheide ergehen. Dabei wäre die Zulässigkeit der vom KBA beanstandeten Steuerung des SCR-Systems aber nur eine Vorfrage. Selbst wenn das Verwaltungsgericht seine Entscheidung über die Anfechtungsklage der Beklagten auf die (Un-)Zulässigkeit der
+     Steuerung stützen sollte, läge darin lediglich ein nicht von der Rechtskraftwirkung
+     des § 121 VwGO umfasstes Begründungselement. Erst recht gilt dies für die vom
+     Berufungsgericht als entscheidungserheblich angesehenen technischen Einzelheiten der Steuerung.
+
+20         bb) Eine Vorgreiflichkeit der verwaltungsgerichtlichen Entscheidung ergibt
+     sich auch nicht aus den Grundsätzen der Tatbestandswirkung des Verwaltungsakts. Dies gilt sowohl hinsichtlich der KBA-Bescheide vom 23. Mai 2018 und
+
+                                          -9-
+
+
+
+     3. August 2018, deren Aufhebung die Beklagte mit der Anfechtungsklage begehrt
+     (vgl. § 42 Abs. 1 Fall 1, § 113 Abs. 1 Satz 1 VwGO), als auch hinsichtlich der
+     EG-Typgenehmigung, die mittelbar von der Anfechtungsklage betroffen ist, da
+     das KBA sie durch die angefochtenen Bescheide im Wege der nachträglichen
+     Anordnung von Nebenbestimmungen (§ 25 Abs. 2 EG-FGV) inhaltlich modifiziert
+     hat (vgl. Hessischer VGH, NVwZ 2019, 1297 Rn. 10 mwN; Bayerischer VGH,
+     Beschluss vom 21. Januar 2022 - 11 CS 21.2750, juris Rn. 15). Denn keiner dieser Verwaltungsakte vermag eine Tatbestandswirkung hinsichtlich der vom Berufungsgericht zu beurteilenden Ansprüche des Klägers auf Schadensersatz aus
+     §§ 826, 31 BGB zu entfalten.
+
+21         Nach den vom Bundesgerichtshof geklärten Maßstäben des § 826 BGB
+     ist bei der Prüfung der tatbestandlichen Schädigung nicht auf das Fehlen einer
+     (gegebenenfalls modifizierten) EG-Typgenehmigung abzustellen, sondern auf
+     das konkret erworbene Fahrzeug (BGH, Urteil vom 26. Juni 2023 - VIa ZR
+     335/21, ZIP 2023, 1421 Rn. 14 mwN, zur Veröffentlichung in BGHZ bestimmt).
+     Demgegenüber wird die EG-Typgenehmigung weder hinsichtlich eines konkreten
+     Fahrzeugs noch im Hinblick auf eine Gruppe konkreter Fahrzeuge im Sinne der
+     produzierten Fahrzeuge einer bestimmten Baureihe erteilt, sondern lediglich ein
+     Fahrzeugtyp genehmigt, der mit den Angaben in der Bescheinigung übereinstimmt. Daher kann sich die Tatbestandswirkung des verfügenden Teils einer
+     EG-Typgenehmigung (einschließlich eventueller Modifikationen) nicht über eine
+     seitens der befassten Genehmigungsbehörde getroffene Feststellung der Rechtmäßigkeit des zur Beurteilung unterbreiteten Fahrzeugtyps hinaus erstrecken
+     (BGH, Urteil vom 26. Juni 2023, aaO, Rn. 11 ff. mwN).
+
+22         Gemessen daran scheidet - unabhängig davon, dass nach den Ausführungen des Berufungsgerichts die vom Kläger beanstandete Steuerung des
+     SCR-Systems im Typgenehmigungsverfahren auch nach dem Vorbringen der
+
+                                          - 10 -
+
+
+
+     Beklagten nicht offengelegt worden war - auch eine Legalisierungswirkung der
+     Typgenehmigung (einschließlich ihrer Modifikationen) hinsichtlich des Vorliegens
+     einer unzulässigen Abschalteinrichtung in dem vom Kläger erworbenen Fahrzeug aus.
+
+23         Ebenso wenig kann insoweit entgegen der Auffassung der Rechtsbeschwerdeerwiderung angesichts der unterschiedlichen Prüfungsgegenstände
+     davon ausgegangen werden, eine eigenständige Prüfung der Rechtmäßigkeit einer Abschalteinrichtung in einem konkreten Fahrzeug durch nationale Zivilgerichte gefährde den Zweck der Typgenehmigung.
+
+24         Unzutreffend ist schließlich die Auffassung der Beschwerdeerwiderung,
+     das Rechtsbeschwerdegericht sei nicht zur Nachprüfung berechtigt, soweit das
+     Berufungsgericht von einer umfassenden Legalisierungswirkung der Typgenehmigung ausgehe. Dabei kann dahinstehen, ob sich eine solche Ansicht des Berufungsgerichts in der angefochtenen Entscheidung überhaupt erkennen lässt.
+     Denn die Rechtsbeschwerdeerwiderung verkennt jedenfalls, dass die Frage der
+     Reichweite einer etwaigen Legalisierungswirkung die Vorgreiflichkeit und nicht
+     etwa die davon zu trennende vorgelagerte Beurteilung der Sach- und Rechtslage
+     durch das Berufungsgericht betrifft, deren Überprüfung einem etwaigen späteren
+     Rechtsmittelverfahren gegen die Sachentscheidung vorbehalten bleibt.
+
+                                        - 11 -
+
+
+
+                                         III.
+
+25         Eine Kostenentscheidung ist nicht veranlasst (vgl. BGH, Beschluss vom
+     9. März 2021 - II ZB 16/20, NJW-RR 2021, 638 Rn. 23 mwN).
+
+
+
+
+     Menges                             Möhring                          Krüger
+
+                        Wille                            Liepin
+
+
+
+     Vorinstanzen:
+     LG Leipzig, Entscheidung vom 16.07.2020 - 3 O 2362/19 -
+     OLG Dresden, Entscheidung vom 11.11.2021 - 11a U 1714/20 -
