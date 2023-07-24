@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 13/2021
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 09/20
 
 - Herausgeber: Land Brandenburg
-- Datum: 2022-06-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/mvmot_ausgabe_2021
+- Datum: 2023-07-24 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/strassenbetrieb_2023
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Merkblatt zur Verbesserung der Straßeninfrastruktur für Motorradfahrende (MVMot), Ausgabe 2021
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Leistungsheft für den Straßenbetrieb auf Bundesfernstraßen, Ausgabe 2023
 
-vom 15. Juni 2022
+vom 24. Juli 2023
 
-(ABl./22, [Nr. 26], S.586)
+(ABl./23, [Nr. 32], S.762)
 
 Der Runderlass richtet sich an
 
@@ -20,14 +20,18 @@ die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 13/2021 vom 6. Mai 2021 hat das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) das Merkblatt zur Verbesserung der Straßeninfrastruktur für Motorradfahrende (MVMot), Ausgabe 2021 bekannt gegeben.
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 09/2023 vom 16. Mai 2023 hat das Bundesministerium für Digitales und Verkehr (BMDV) das „Leistungsheft für den Straßenbetrieb auf Bundesfernstraßen“, Ausgabe 2023 amtlich bekanntgegeben (Az.: StB 26/7243.7/10/3803510).
 
-Hiermit wird das Merkblatt zur Verbesserung der Straßeninfrastruktur für Motorradfahrende (MVMot), Ausgabe 2021 für den Bereich der Bundes- und Landesstraßen unter Beachtung folgender Regelung eingeführt.
+Das Leistungsheft des Bundes bildet die Grundlage für die Leistungserbringung im Betriebsdienst der Straßenbauverwaltungen der Länder im Rahmen der Auftragsverwaltung. Es definiert das Anforderungsniveau für den Straßenbetriebsdienst insbesondere hinsichtlich der Qualität und des Umfangs der zu erbringenden Leistung.
 
-Die Anwendung von Tabelle 10, S. 18 ff., kann nur unter der Maßgabe der Beachtung der mit Runderlass des Ministeriums für Infrastruktur und Landesplanung Nr. 5/2018 vom 9. März 2018 eingeführten „Empfehlungen zum Schutz vor Unfällen mit Aufprall auf Bäume, Ausgabe 2006 (ESAB 2006)“ erfolgen. Die ESAB führen verschiedene Maßnahmen auf, die zur Verringerung von Unfällen mit Abkommen von der Fahrbahn oder zur Verminderung der Unfallfolgen bei Aufprall auf Bäume in Betracht kommen. Das Entfernen von Bäumen ist nach den ESAB als Ultima Ratio nur dann möglich, wenn keine andere Maßnahme geeignet ist.
+Hiermit wird das „Leistungsheft für den Straßenbetrieb auf Bundesfernstraßen“ für den Bereich der Bundes- und Landesstraßen im Land Brandenburg eingeführt.
+
+Mit dem Urteil des Bundesverwaltungsgerichts zur Streckenkontrolle sind die „Streckenkontrolle“, die „Baumkontrolle“ sowie die „Bauwerksüberwachung“ als Leistungsheftpositionen neu in das Leistungsheft aufgenommen worden. Kleinteilige Wartungstätigkeiten sind nur noch bei einem Arbeitsaufwand von bis zu 15 Minuten der Leistungsposition 6.1.2 Streckenkontrolle zuzuordnen (bisher 30 Minuten). Bei Arbeitsaufwand darüber hinaus erfolgt die Zuordnung direkt zur jeweiligen Leistungsposition.
+
+Über die Erfahrungen mit der Anwendung des Leistungsheftes für den Straßenbetrieb ist dem Ministerium für Infrastruktur und Landesplanung zur Weiterleitung an den Bund bis zum 1. Juni 2024 zu berichten.
 
 Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-Dieser Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse www.landesrecht.brandenburg.de eingestellt.
+Die Ausgabe 2023 des Leistungsheftes ersetzt das mit dem Runderlass des Ministeriums für Infrastruktur und Landesplanung Abteilung 4, Nr. 19/2021 - Verkehr „Leistungsheft für den Straßenbetrieb auf Bundesfernstraßen, Ausgabe 2021“ vom 19. November 2021 (ABl. S. 1122) eingeführte Leistungsheft. Daher wird der genannte Runderlass aufgehoben.
 
-Die MVMot, Ausgabe 2021 sind beim FGSV Verlag, Wesselinger Straße 15 - 17, 50999 Köln zu beziehen.
+Das „Leistungsheft für den Straßenbetrieb auf Bundesfernstraßen“, Ausgabe 2023 kann auf der Homepage der Bundesanstalt für Straßenwesen (BASt) heruntergeladen werden.
