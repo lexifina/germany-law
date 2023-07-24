@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488245
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488245
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: AG Buhlstraße: Trinkwasserspender im Park Oskar-Barnack-Straße/ Pelkovenstraße
+- TOP 2.2.: Erneuerung/ zusätzliche Straßenbeschilderung (Sackgasse) zur Abbachstraße
+- TOP 2.3.: Gefahr durch Missachtung der Beschilderung "Fußweg" zwischen Feldmochinger Str. 27 zum Chemnitzer Platz
+- TOP 2.4.: Messung Verkehrsaufkommen und Geschwindigkeit von PKW´s und LKW´s in Tempo30-Gebieten in Moosach
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: a) Bericht aus offener UA-Sitzung: Thema: Beschlussentwurf zum Radentscheidsprojekt „Entscheidungsvorschlag zur künftigen Raumaufteilung Knotenpunkt Dachauer Straße / Wintrichring / Georg-Brauchle-Ring - Bedarfs- und Konzeptgenehmigung; Verkehrsführung und Raumaufteilung“; b) hier: weiteres Vorgehen zu vertagtem Antrag: "Radweg an der Dachauer-/Hanauer Straße rot einfärben"
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstr. 11
+- TOP 3.3.1.2.: Triebstr. 16
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Schulneubau an der Allacher Straße - sichtbare Bautafel mit bürgerfreundlichen Informationen aufstellen!
+- TOP 4.1.2.: Neues Cargoterminal am Rangierbahnhof München Nord - frühzeitige Einbindung des BA 10 sicherstellen
+- TOP 4.1.3.: Errichten von Fahrradbügeln vor der Geschäftsstelle der Bezirksausschüsse Hanauer Str. 1
+- TOP 4.1.4.: Sicher im Verkehr unterwegs – Roteinfärbung der Radverkehrsfurten der Zweirichtungs-Radwege im Kreuzungsbereich Dachauer Straße/ Max-Born-Straße
+- TOP 4.1.5.: Verlängerung der Fußgängergrünphase der Bedarfsampel an der Baubergerstraße Ecke Großbeerenstraße
+- TOP 4.1.6.: Anfrage: Aktueller Planungsstand zur Wohnbebauung Hartmannshofen
+- TOP 4.1.7.: N_ Dringlichkeitsantrag: zeitnahe Durchführung einer Informationsveranstaltung für Moosacher Bürgerinnen und Bürger sowie Gewerbetreibende zu Dauer und Ablauf der Bauarbeiten an der Bahnunterführung Dachauer Straße und Vorstellung eines belastbaren Verkehrskonzeptes für die Dauer der Bauarbeiten
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 2 Tage zwischen dem 02.09.2023 und 31.10.2023 2.705,06 € / Az. 0262.0-10-0342
+- TOP 5.2.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München West, Caritas Moosach Aktion MVV/MVG – Fahrkarten für Moosacher Bürgerinnen und Bürger in einer Notlage vom 01.07.2023 – 30.06.2024 1.068,00 € / AZ.0262.0-10-0341
+- TOP 5.3.: (E) Stadtbezirksbudget Kultur und Spielraum e.V. Sommerferien im Fahrenden Raum in Moosach vom 31.07. - 11.08.2023 3.600,00 € / Az. 0262.0-10-0343
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Freischankfläche Pelkovenstr. 31
+- TOP 6.: Anhörungen
+- TOP 6.1.: Entwurf Sitzungsvorlage: Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der LHM / Einwohner*innenbudget
+- TOP 6.2.: Beschlussentwurf: Satzungsbeschluss Erhaltungssatzung Moosach (ab 01.11.2023)
+- TOP 6.3.: Veranstaltung auf städtischen Flurstück: Christbaumverkauf an der Allacher Straße im Dezember 2023
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Bunzlauer Platz "Demokratiemobil München" am 06.10.2023
+- TOP 6.5.: Landtags- und Bezirkswahl am 08.10.2023: Einteilung der Stimmbezirke und Wahlräume
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Grundstücksbegrenzung zum NW 18 in der Manzostraße (Holzpalisaden analog NW3, Dachauer Straße) [BA-Antrag Nr. 20-26/B 05336; hier Zivilrecht massgebend.]
+- TOP 7.2.: Parkplatzproblem Franz-Fihl-Straße [Schreiben BA10 vom 11.05.2023; temporäre Änderung Parkregelung Dachauer Straße nicht möglich]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Veranstaltung in städtischer Grünanlage: "Sommerfest" der SV Hartmannshofen am 18.07.2023
+- TOP 8.2.: Einstellung des Beschlusses "Sanierung mit Erweiterung bzw. Neubau inklusive Aussenanlagen "Kinder- und Jugendtreff Mooskito" (-> siehe Anhörung TOP 6.2/ Sitzung am 22.05.2023)
+- TOP 8.3.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichem Raum (hier: 10. Stadtbezirk)
+- TOP 8.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Welzenbachstraße; Errichtung eines Verkehrshelferüberganges
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 8.7.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.8.: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 8.9.: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 8.10.: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 8.11.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 8.12.: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 8.13.: Konzeptausschreibung für zwei städtische Einzelflächen a) Dachauer Straße 306-308, Flst. 155/26 Gemarkung Moosach b) Wolfratshauser Straße 230, Flst. 190 und 190/5 Gemarkung Solln Festlegung der Ausschreibungskriterien für Baugenossenschaften und Wohnprojekte nach Art des Mietshäuser-Syndikats 10. Stadtbezirk Moosach 19. Stadtbezirk Thalkirchen-Obersendling-Forstenried-Solln
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: Maßnahmen zur Angebotsausweitung von Carsharing und die dafür erforderliche Verordnung zur Änderung der Verordnung über Parkgebühren in Bereichen mit Parkuhren und Parkscheinautomaten in der Landeshauptstadt München (Parkgebührenordnung)
+- TOP 8.16.: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 8.17.: Mobilfunk: Aufbau eines Mobilfunksenders Moosburger Straße - nicht-öffentlich -
