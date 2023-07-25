@@ -1,0 +1,104 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-07-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253207
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253207
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.1.: Nachtrag TOP 4.2.5: Arbeiten im Straßenraum in der Aschheimer Str. zwischen Pius- und Anzinger Str., SWM 110 KV-Stromleitung
+- TOP 1.1.2.: Nachtrag TOP 3.3.4: Straßenfest Berg am Laim in der Baumkirchner Str./ Grüner Markt am 10.09.2023, Frist bis zum 23.08.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 1.1.3.: Nachtrag TOP 3.3.5: "White Dinner" im Rahmen "Sommerstraße 2023" am 11.08.2023 in der Hermann-Weinhauser-Str. 32-43, Frist bis zum 04.08.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 1.1.4.: Nachtrag TOP 1.2.2: Protokoll der Sitzung vom 27.06.2023
+- TOP 1.1.5.: Nachtrag TOP: 3.5.8: (E) Stadtbezirksbudget Trägerverein KulturBürgerHaus Berg am Laim e.V. c/o Martin Bengsch White Dinner (im Rahmen der ‚Sommerstraße 2023‘) am 11.08.2023 1.350,00 € / AZ.0262.0-14-0371
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 23.05.2023
+- TOP 1.2.2.: Protokoll der Sitzung vom 27.06.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 27.06.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) + (U) Verkehrsberuhigende Maßnahmen in der Sonnwendjochstraße Empfehlung Nr. 20-26 / E 00685 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 07.07.2022
+- TOP 2.2.: Aufstellung einer orangenen Bank, Kein Platz für Gewalt gegen Frauen
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Friedenstr. 20 - Neubau zweier Bürogebäude mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.112-2022-22386-32 - ( Friedenstr. 20, 20a, 22a, 22b)
+- TOP 3.1.2.: Hochriesstr. 7 - Neubau einer DHH mit Garage
+- TOP 3.1.3.: Teisendorfer Str. 3 - Neubau von drei Reihenhäusern
+- TOP 3.1.4.: Strom- und Wasseranschluss für Veranstaltungen auf dem Piusplatz; Antrag des Unterausschusses Planung
+- TOP 3.1.5.: Lichtverschmutzung in Grünanlagen der GWG und GEWOFAG verringern; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.1.6.: Solarleuchten mit Paneelen am Container für die Jugendlichen am Bolzplatz in der Kreillerstr. 21; Antrag der Fraktion CSU
+- TOP 3.1.7.: Mülleimer an der Schlüsselberg- /Ecke Berg-am Laim-Str. anbringen; Antrag der Fraktion CSU
+- TOP 3.1.8.: Spender für Hundekotbeutel am Schüleinplatz anbringen; Antrag der Fraktion CSU
+- TOP 3.1.9.: Ausbau des Fernwärme- und des Fernkältenetzes in Berg am Laim; Antrag der Fraktion CSU
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: 2. Entwurf zur Aufhebung der Benutzungspflicht in der Else-Rosenfeld-Str.; Anhörung des Mobilitätsreferats
+- TOP 3.2.2.: Radwegeverbindung Innsbrucker Ring - Piuskirche; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.3.: Umgebungsplan an den Bus-, und Tramhaltestellen wieder aushängen; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.4.: Redundanz der Stromversorgung für Mobilfunkmasten; Antrag der Fraktion CSU
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO in städtischen Grünanlagen und auf Privatgrund München Marathon vom 08.10.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: Öffnung des Sportplatzes der Grundschule Berg am Laim für Kinder und Jugendliche; Antrag der Fraktion FREIE WÄHLER/ÖDP
+- TOP 3.3.3.: Effizientere Raumnutzung durch Anbringung von wandmontierten Fahrradständern im Keller des Michaeli- Gymnasiums; Antrag der Fraktion CSU
+- TOP 3.3.4.: Straßenfest Berg am Laim in der Baumkirchner Str./ Grüner Markt am 10.09.2023, Frist bis zum 23.08.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.5.: "White Dinner" im Rahmen "Sommerstraße 2023" am 11.08.2023 in der Hermann-Weinhauser-Str. 32-43, Frist bis zum 04.08.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.4.1.: Entwurf des Beschlusses Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der Landeshauptstadt München, Einführung eines Einwohner*innenbudgets, Anhörung des Direktoriums, Frist bis zum 31.07.2023
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. "Beschaffung von einem Stapler" 5.000,00 € / AZ.0262.0-14-0368
+- TOP 3.5.2.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 02.09. und 31.10.2023 2.529,47 € / AZ.0262.0-14-0369
+- TOP 3.5.3.: (E) Stadtbezirksbudget Condrobs e.V. Neuer Sandkasten für das Familienzentrum Ramersdorf vom 15.08. - 31.12.2023 3.629,95 € / AZ.0262.0-14-0379
+- TOP 3.5.4.: (E) Stadtbezirksbudget Förderverein der Sozialstation Berg am Laim + Trudering e.V. / VR-6318 JUBILÄUM/ 3-fach am 23.06.2023 7.407,37 € / AZ.0262.0-14-0365
+- TOP 3.5.5.: Landtags- und Bezirkswahl 2023, Stimmbezirke und Wahlräume im Stadtbezirk 14; Anhörung des Kreisverwaltungsreferats, Frist bis zum 15.08.2023
+- TOP 3.5.6.: BA 1 interfraktioneller Antrag: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 3.5.7.: Jahresempfang des Bezirksausschusses und Preisverleihung „Berg am Laim gestaltet“ wieder durchführen – Ehrenamt würdigen; Antrag der Fraktion CSU
+- TOP 3.5.8.: (E) Stadtbezirksbudget Trägerverein KulturBürgerHaus Berg am Laim e.V. c/o Martin Bengsch White Dinner (im Rahmen der ‚Sommerstraße 2023‘) am 11.08.2023 1.350,00 € / AZ.0262.0-14-0371
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hochriesstr. 7 - Neubau einer DHH mit Garage
+- TOP 3.6.2.: Josephsburgstr. 34
+- TOP 3.6.3.: Truderinger Str. 191
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Kreillerstraße: Installation von Mülleimern
+- TOP 4.1.2.: (U) Umsetzung Biodiversitätskonzept in Ausgleichs- und Biotopflächen, Straßenbegleitgrün und Grünanlagen Naturschutz voranbringen IV Insektenfreundliche Gestaltung der Grünflächen in München Antrag Nr. 20-26 / A 02009 der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 13.10.2021
+- TOP 4.1.3.: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 4.1.4.: (U) Freilegung des Hachinger Bachs
+- TOP 4.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.7.: Beginn der Bauarbeiten des Kulturbürgerhauses - Antwortschreiben -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 4.2.2.: Prüfung des automatischen Öffnens aller Türen in den S-Bahnen - Antwortschreiben -
+- TOP 4.2.3.: Vollsperre aufgrund von Fernwärmearbeiten in der Streitfeldstr. 35, im Zeitraum vom 31.07.23 bis 25.09.23
+- TOP 4.2.4.: Schaffung eines Halteverbots im Kurvenbereich, Hermann-Weinhauser-Str. bei der Einmündung in die Neumarkter Str., Antwortschreiben der Polizei
+- TOP 4.2.5.: Arbeiten im Straßenraum in der Aschheimer Str. zwischen Pius- und Anzinger Str., SWM 110 KV-Stromleitung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.3.2.: Barrierefreiheit und Prognostische Entwicklung/Inbetriebnahme der Grundschule in der Haager Str.
+- TOP 4.3.3.: Haus für Kinder in der Grafinger Str. 67: Bitte um Unterstützung bei der Renovierung - Antwortschreiben -
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 4.4.2.: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 4.6.2.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum des Stadtbezirks 14
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
