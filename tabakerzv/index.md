@@ -30,6 +30,7 @@
 - [§ 14 Kombinierte Text-Bild-Warnhinweise bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak](0014.md)
 - [§ 15 Kennzeichnung von anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak](0015.md)
 - [§ 16 Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak](0016.md)
+- [§ 16a Erhitzte Tabakerzeugnisse](0016a.md)
 - [§ 17 Kennzeichnung rauchloser Tabakerzeugnisse](0017.md)
 - [§ 18 Verbote zum Schutz vor Täuschung](0018.md)
 
