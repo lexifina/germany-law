@@ -1,0 +1,216 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7368950
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7368950
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-06
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Cimbernstrasse zwei Anliegen
+- TOP 6.2.: Tempoüberschreitungen Kössener Straße
+- TOP 6.3.: Fußballplatz gesucht:ein neuer Verein für die Kinder und Jugendlichen aus Sendling-Sendling-Westpark
+- TOP 6.4.: Gelbe Wertstofftonne für ganz München, auch für den 07. Stadtbezirk
+- TOP 6.5.: Prostitution Hansastraße
+- TOP 6.6.: Wessobrunner Str.
+- TOP 6.7.: Gitterpaletten in der Welserstraße
+- TOP 6.8.: Anliegen Zirkuszelt in der Treffauerstr und Parklizenzgebiet
+- TOP 6.9.: Änderung der Parkregelung in der Cimbernstraße
+- TOP 6.10.: Änderungen der Parkregelungen in der Cimbernstr.
+- TOP 6.11.: Südliche Passauerstraße
+- TOP 6.12.: Parksituation Supermerkt Albert-Roßhaupter-Str
+- TOP 6.13.: Aushang Parkregelung
+- TOP 6.14.: Gänse im Westpark
+- TOP 6.15.: Halteverbot Cimbernstraße
+- TOP 6.16.: Ortstermin Kreuzung Bauernbräuweg/Distelhofweg
+- TOP 6.17.: Neue Parkregelung Cimbernstr und TG-Ausfahrt
+- TOP 6.18.: Parklizenzen Gewerbe
+- TOP 6.19.: Pflegedienst-Parkplätze Bauernbräuweg
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 2. September und 31. Oktober 2.816,85 € / AZ: 0262.0-7-0438
+- TOP 10.2.: (E) Stadtbezirksbudget Gans Kreativ GmbH – Gans am Wasser “Kulturelles Kinderprogramm 2023 – Gans am Wasser vom 01.07.2023 – 31.12.2023“ 6.600,00 € / AZ: 0262.0-7-0439
+- TOP 10.3.: Änderungsanfrage Zuwendungshöhe
+- TOP 10.4.: (E) Stadtbezirksbudget Initiativgruppe „Sommerstraße“ “Sommerstraße 2023 vom 03.07.2023 – 03.09.2023“ 1.160,00 € / AZ: 0262.0-7-0441
+- TOP 10.5.: (E) Stadtbezirksbudget Initiative "Lacrosse" “Deutsche Lacrosse Nationalspieler aus München vom 21.06.2023 – 09.07.2023“ AZ: 0262.0-7-0436 / 1.475,00 €
+- TOP 11.: Anträge
+- TOP 11.1.: Trinkwasserbrunnen in SWP
+- TOP 11.2.: Kostenlose Sträucher für Sendling Westpark
+- TOP 11.3.: Weitere Fahrradständer an der U-Bahnstation Westendstraße
+- TOP 11.4.: Zeitnahe Erneuerung der Beleuchtung Passauer Straße
+- TOP 11.5.: Kontoauszüge für das Stadtbezirksbudget der BAs
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung Bau,Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.2.1.: Protokoll BuS
+- TOP 12.3: Haushalt
+- TOP 12.3.1.: Einlad-UA-Haushalt
+- TOP 12.3.2.: Protokoll HHA
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Protokoll_SuK
+- TOP 12.4.2.: Antrag_KJ Versammlung professionell
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.5.1.: Einladung UA MuW
+- TOP 12.5.2.: Protokoll MuW
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung PuG
+- TOP 12.6.2.: Protokoll Parks und Grünanlagen
+- TOP 12.6.3.: Antrag Vogelnestschaukel
+- TOP 12.6.4.: Antrag Wickelmöglichkeit
+- TOP 12.6.5.: Rauchverbot an Spielplätzen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Bericht des Vorsitzenden
+- TOP 13.1.2.: Telefonnotiz MOR wg. Umgestaltung Joh-Clanze-Str.
+- TOP 13.1.3.: Antrag Fürstenrieder - Gymnasien - Radfahrer
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.10.1.: Bericht Migrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hasenthalweg
+- TOP 15.2.: Werbeanlage Partnachplatz
+- TOP 15.3.: Werbeanlage Partnachplatz
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Zirkuswiese, Sommerfest Montessori Kinderhaus
+- TOP 17.2.: Anhörung, Westpark, 40 Jahre Westpark - diverse Infostände
+- TOP 17.3.: Anhörung, Luise-Kiesselbach-Platz, Circus Roberto
+- TOP 17.4.: Anhörung, Westpark, kleine Zirkuswiese, Aufstellung Feuerwehr
+- TOP 18.: Baureferat
+- TOP 18.1.: Ortlerstr. Bauschadenbehebung und Fahrbahnsanierung
+- TOP 18.2.: Dialog-Displays - Bestellstart / - modalitäten und Kriterienkatalog
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Öffentlichkeitsbeteiligungskonzept:Einwohnerinnenbudget
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Versammlung in Form eines Klimacamp/Mobilitätswendecamp
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: LuiseKiesselbachtunnel Spurwechsel
+- TOP 25.2.: Einbahnregelung Alpspitzstraße
+- TOP 25.3.: Gottfried-Böhm-Ring/Attenkoferstraße:Sichthaltverbot
+- TOP 25.4.: Arnimstraße zeitl. befristetes Haltverbot für die Müllabfuhr
+- TOP 25.5.: Klingerstr. pers. Behindertenparkplatz
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Erlass einer Erhaltungssatzung Am Harras/Passauerstraße
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Bessere Beschilderung im Südpark / Sendlinger Wald
+- TOP 33.2.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 33.3.: öffentliche Toiletten für kleine Stadtparks
+- TOP 33.4.: Fristverlängerung Radabstellanlagen
+- TOP 33.5.: Verbesserung der Wasserqualität der Seen im Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Kulturbürgerhaus Westendstraße
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Sommerstraße Innerkoflerstraße
+- TOP 40.2.: Cimbernstr_Versetzung Verkehrszeichen
+- TOP 40.3.: Tempo 30-Lärm Alb-Rosshaupter-Str zwischen Harras und Hansastraße
+- TOP 40.4.: Ehrwalder Str-Lückenschluss
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Zwischenmitteilung Überprüfung von Altkleidercontainer
+- TOP 47.2.: Taktverkürzung Buslinie 63
+- TOP 47.3.: BA 1 interfraktioneller Antrag: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Gatstättenübernahme Libero
+- TOP 53.2.: Bescheid, Luise-Kiesselbach-Platz, Kinderbuch-Theater
+- TOP 53.3.: Bescheid, Westpark, Clematiswiese, Spielenachmittages des RBS, ganzjährig immer Sonntags
+- TOP 53.4.: Bescheid, Westpark, große Wiese West, Schülerinformationsveranstaltung Geodäsie
+- TOP 53.5.: Bescheid, Westpark, kleine Zirkuswiese, Sommerfest des Montessori Kinderhauses
+- TOP 53.6.: Gaststättenvortführung Johann-Clanze-Str.
+- TOP 53.7.: Bescheid, Krüner Kiosk, Ehrwalderstr. 3, Kultur mit Kind
+- TOP 53.8.: Bescheid, Westpark, große Wiese West, Eid-Feier Opferfest
+- TOP 53.9.: Bescheid, Westpark, Seebühne, Visionkultür
+- TOP 53.10.: Bescheid, Westpark Theatron, Christliche Outdoor Gottesdienste
+- TOP 53.11.: Landtags- und Bezirkswahl 2023:Stimmbezirke und Wahlräume im Stadtbezirk 7
+- TOP 53.12.: Bescheid, Sackgasse Partnachstr, Sommerfest der SPD
+- TOP 53.13.: Grünanlage Bodenehrstraße, Sommerfest Kita Infanterix Harras
+- TOP 53.14.: Bescheid, Sommerstraßen Warm-Up, Innerkoflerstraße
+- TOP 53.15.: Bescheid, Westpark, Große Wiese West, Internationales Fest der Kulturen
+- TOP 53.16.: Bescheid, Westpark, Theatron, Sommer Open Air der Städtischen Sing- und Musikschule
+- TOP 53.17.: Bescheid, Westpark, keine Zirkuswiese, Klima.DULT
+- TOP 53.18.: Bescheid, Luise-Kiesselbach-Platz, Blühende Bänder - Greencity
+- TOP 53.19.: Bescheid, Straßenfest Schondorfer Straße
+- TOP 53.20.: Bescheid, Sommerstraßen Warm-Up, Innerkoflerstraße
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Bauvorhaben Siegenburger Str.
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Zillertalstr/Hinterbärenbadstr Feuerwehrzufahrt
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung Fürstenriederstr.
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Abbruch Farchantstr.
+- TOP 62.2.: Erhaltungssatzung Eukenstraße
+- TOP 62.3.: Abbruchbescheid für Werdenfelsstraße
+- TOP 62.4.: Mosaik Jugendpreis
+- TOP 62.5.: Standortsuche Unterkunft
+- TOP 62.6.: Abbruch Fernpaßstr.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 64.1.: Sitzungskalender 2024
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigungen
