@@ -6,7 +6,6 @@
 ## Abschnitt 1 Allgemeine Bestimmungen
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [Schlussformel](schlussformel.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 
 ## Abschnitt 2 Schulung von Personal
@@ -66,6 +65,7 @@
 
 - [§ 35 Übergangsregelung](0035.md)
 - [§ 36 Inkrafttreten, Außerkrafttreten](0036.md)
+- [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 3 Absatz 2)Kriterien der mentalen und physischen Geeignetheit von Luftsicherheitskontrollpersonal](anlage-1.md)
 - [Anlage 2 (zu den §§ 7 und 8)Schulungsinhalte und Schulungsnachweis](anlage-2.md)
 - [Anlage 3 (zu den §§ 19 bis 23 und § 28)Ausbilder](anlage-3.md)
