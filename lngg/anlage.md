@@ -12,7 +12,7 @@
 | 2.4 | Anlage nach § 2 Absatz 1 Nr. 2 – Flüssigerdgas-Terminal (Standort: Voslapper Groden) |
 | 2.5 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort Voslapper Groden Nord 1 und Nord 2 – Anschlusspunkt Gasfernleitungsnetz) |
 | 2.6 | Leitungen nach § 2 Absatz 1 Nr. 3 (Standort NWO Terminal – Anschlusspunkt Gasfernleitungsnetz) |
-| 2.7 | Leitung nach § 2 Absatz 1 Nr. 3 (mittelbare LNG-Anbindungsleitung Wilhelmshaven – Leer GWL) |
+| 2.7 | Leitung nach § 2 Absatz 1 Nr. 3 (mittelbare LNG-Anbindungsleitung Wilhelmshaven – Leer „GWL") |
 | 2.8 | Leitung nach § 2 Absatz 1 Nr. 6 (Gasfernleitung Etzel-Wardenburg-Drohne) |
 | 3. | Stade/Bützfleth (Niedersachsen) |
 | 3.1 | Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort Hafen) |
