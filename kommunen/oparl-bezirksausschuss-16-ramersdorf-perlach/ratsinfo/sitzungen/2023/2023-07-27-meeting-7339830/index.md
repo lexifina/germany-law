@@ -1,0 +1,257 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2023-07-27T19:15:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7339830
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7339830
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.2.2.: zu 2.2.1.3 (E) Stadtbezirksbudget Deutsche Wushu Federation Süddeutsche Wushu Meisterschaft 20232 am 08.07.2023 2.500,00 € / Az. 0262.0-16-0536 Sitzungsvorlage Nr. 20-26 / V 10246 Hierzu: Weitere Informationen zu dem Budgetantrag
+- TOP 1.2.3.: 3.1.13 Kreuzungsbereich Pfälzer-Wald-Str./Bad-Dürkheimer-Str.: Beidseitiges Parkverbot über mindestens 15m in alle Richtungen um die Kreuzung Anliegen aus der Bürgerschaft vom 19.07.2023
+- TOP 1.2.4.: 3.1.14 Zeitliche Begrenzung der Busspur in der Putzbrunner Straße; Antrag der CSU-Fraktion
+- TOP 1.2.5.: 3.3.6 Schlechter Zustand und Stammsteher auf dem Spielplatz in der Paulsdorfferstr.: Dringende Bitte zur schnellen Instandsetzung des Spielplatzes Anliegen aus der Bürgerschaft vom 14.07.2023 (Siehe auch TOP 6.3.3)
+- TOP 1.2.6.: 3.4.1 1. Das Sozialreferat befürwortet den Umzug der WaPe vom jetzigen Standort in das frühere Gebäude der Filiale der Stadtsparkasse Waldperlach, Waldheimplatz 60. 2. Es wird dem Träger des Nachbarschaftstreffs (NBT) gestattet, die halbe Stelle der hauptamtlichen Kraft mit einer Person zu besetzen, die keinen sozialpädagogischen Studienabschluss besitzt Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 1.2.8.: 4.1.2 Dialog-Displays - Bestellstart/-modalitäten und Kriterienkatalog; Schreiben Baureferat-Tiefbau
+- TOP 1.2.7.: zu 3.6.1 Anfrage bezüglich Anschluss an das Fernwärmenetz Anliegen aus der Bürgerschaft vom 07.05.2023 mit der Bitte um Beratung in der Sitzung am 27.07.2023 Ergänzung nach der Bürgerversammlung für den Bezirksteil Ramersdorf am 20.07.2023
+- TOP 1.2.11.: zu 4.5.1.2 Fritz-Kortner-Bogen 3 - Neubau von zwei Wohngebäuden und Aufstockung der best. Wohnanlage; Schreiben des BA-Vorsitzenden zur Planvorstellung
+- TOP 1.2.12.: zu 4.6.1.3 Veranstaltung im Freien in einer Grünanlage Ostpark Theatron, BlocParty83 Jugendfestival von 28.07. bis 30.07.2023; Frist zur Stellungnahme bis 21.07.2023 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 1.2.13.: 4.6.1.4 Veranstaltung im Freien in einer Grünanlage; Hier: Skatepark Im Gefilde, „MÜK-Sommer-Boarding – Ideenwerkstatt der Münchner Kinderzeitung“ am 08.08.2023; Frist: 28.07.2023
+- TOP 1.2.14.: 4.6.1.5 Fußballplatz Langbürgener Straße, "Kinderkino" am 15.09.2023; Termin: 25.08.2023
+- TOP 1.2.15.: 4.6.3.2 Rechte der Bezirksausschüsse beim Baumschutz stärken BV-Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirkes 21 – Pasing-Obermenzing am 15.03.2023 Bitte um Stellungnahme bis zum 05.09.2023
+- TOP 1.2.16.: 7.4.9 Fertigstellung Bildungseinrichtungen 2023 – Verzögerung einzelner Inbetriebnahmen; Informationsschreiben des Referats für Bildung und Sport
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreterinnen und Vertreter von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.1: Mobilität
+- TOP 2.1.1.: (E) Absenkung des Bürgersteigs auf Höhe des Gerhart- Hauptmann-Rings 7-11
+- TOP 2.1.2.: (E) + (U) Fußgängerüberweg Maximilian-Kolbe-Allee / Schindlerplatz zum U-/S-Bahnhof
+- TOP 2.2: Kultur und Stadtbezirksbudget
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget THW Förderverein München Ost e.V. "Beschaffung von einem Stapler" 9.500,00 € / AZ.0262.0-16-0534
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget democraticArts gGmbH democraticArts‘Speakers‘Corner mit Vorbereitungsworkshops vom 01.07. - 31.10.2023 9.900,00 € / AZ.0262.0-16-0538
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Deutsche Wushu Federation Süddeutsche Wushu Meisterschaft 20232 am 08.07.2023 2.500,00 € / Az. 0262.0-16-0536
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget Elternbeirat des städtischen Heinrich-Heine-Gymnasiums Kunstprojekt einer 8. Klasse vom 12.-21.07.2023 3.025,00 € / Az. 0262.0-16-0537
+- TOP 2.2.1.5.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 02.09. und 31.10.2023 4.144,99 € / AZ.0262.0-16-0540
+- TOP 2.2.1.6.: (E) Stadtbezirksbudget Internationale Montessorischule München gGmbH CAMPUS – KISS sportpädagogisches Angebot für benachteiligte Kinder und Jugendliche vom 01.09.2023 - 31.08.2024 9.589,00 € / AZ.0262.0-16-0544
+- TOP 2.2.1.7.: (E) Stadtbezirksbudget Falkenfreizeitstättenverein e.V. Jugendcafé Hochäckerstraße Theater_Perlach: „Nimm doch mal ne Tavor“ (AT) von Anfang August bis Ende September 2023 5.000,00 € / AZ.0262.0-16-0542
+- TOP 2.2.1.8.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gGmbH Sommerfest Teestube „komm“ am 11.08.2023 145,54 € / Az. 0262.16-0543
+- TOP 2.2.1.9.: (E) Stadtbezirksbudget Hospizverein Ramersdorf/Perlach e.V. Theaterstück „HEUTE oder MORGEN“ am 11.11.2023 1.149,13 € / Az. 0262.0-16-0541
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 2.3.1.: (E) 1. Reinigung der Parkbuchten in der Sudermannallee, Kafka- und Fritz-Erler-Straße 2. Aufstellung eines Hundekottütenspenders am Eingang Fitness-Parcours Oskar-Maria-Graf-Ring
+- TOP 2.3.2.: (E) Ersatz von kaputten Apfelbäumen im Grünzug Im Gefilde
+- TOP 2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 2.7: Sonstige
+- TOP 3: Anträge
+- TOP 3.1: Mobilität
+- TOP 3.1.1.: Überquerungsmöglichkeit an der Heinrich-Wieland-Straße - Freiraumlücke zwischen Neuperlach und Trudering schließen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 16 (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 3.1.2.: Die Querungshilfe in der Fahrbahnmitte der Ottobrunner Straße auf Höhe Diakon- Kerolt-Weg ist nachts besser zu beleuchten; Antrag der Fraktion Bündnis 90/Die Grünen im BA 16 (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 3.1.3.: Verkehrssituation Innsbrucker Ring/Ottobrunner Straße; Anliegen aus der Bürgerschaft vom 19.06.2023
+- TOP 3.1.4.: Verkehrs- und Parksituation in der Berger-Kreuz-Str.: Bitte um eine tragfähige Lösung für alle Beteiligten Anliegen aus der Bürgerschaft vom 23.06.2023
+- TOP 3.1.5.: Putzbrunner Str.: Bitte um Überprüfung, ob die Voraussetzungen für eine Verkehrsberuhigung gegeben sind Anliegen aus der Bürgerschaft vom 06.07.2023
+- TOP 3.1.6.: 1. Hugo-Lang-Bogen: Dauerhafte Geschwindigkeitsbegrenzung auf 30 km/h 2. Bitte um Information, wie der Verkehrsfluss, durch die neuen Bewohner des Alexisquartiers, umgeleitet wird Anliegen aus der Bürgerschaft vom 04.07.2023
+- TOP 3.1.7.: Verkehrsberuhigung der Eulenspiegelstr. Anliegen aus der Bürgerschaft vom 10.07.2023
+- TOP 3.1.8.: Schaffung einer reinen Fuß- und Radwegverbindung vom Anfang der Veronastr. in Richtung Westen zum Hugo-Lang-Bogen Anliegen aus der Bürgerschaft vom 09.07.2023
+- TOP 3.1.9.: Versorgung mit öffentlichen Ladestationen im Alexisquartier Anliegen aus der Bürgerschaft vom 09.07.2023
+- TOP 3.1.10.: Antrag für eine gerechte Regelung für alle Verkehrsteilnehmer in der Berger-Kreuz-Straße und Hofangerstraße Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 10.07.2023
+- TOP 3.1.11.: Parkverbot für schwere Fahrzeuge in der Wilramstr. Anliegen aus der Bürgerschaft vom 26.06.2023
+- TOP 3.1.12.: Häufige Parkverstöße in der Werinherstr. 120 und Vorschlag der Polizeiinspektion 21 zur Anbringung von Sperrpfosten Anliegen aus der Bürgerschaft vom 13.06.2023
+- TOP 3.2: Kultur und Stadtbezirksbudget
+- TOP 3.3: Umwelt, Gesundheit und Grünplanung
+- TOP 3.3.1.: Grünflächen am Waldheimplatz durch häufigere Grünpflege wieder nutzbar machen Antrag der CSU Fraktion im BA 16 vom 10.06.2023 (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 3.3.2.: UV-Schutzmaßnahmen an städtischen Spielplätzen Antrag der CSU Fraktion im BA 16 vom 19.06.2023 (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 3.3.3.: Hanns-Seidel-Platz; Begrünung, Baumpflanzungen und Park; Anliegen aus der Bürgerschaft
+- TOP 3.3.4.: Anfrage zum Ausbau des Fernwärmenetzes in München und ob der Rodachtalweg an das Fernwärmenetz angeschlossen werden kann Anliegen aus der Bürgerschaft vom 03.07.2023
+- TOP 3.3.5.: Orangene Bänke in München. Kein Platz gegen Gewalt an Frauen; Projektvorstellung (Beschluss aus der Sitzung am 26.07.2023: Ortstermin zur Festlegung der Standorte der beiden Bänke)
+- TOP 3.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 3.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 3.5.1.: Denkmalschutz für das Gebäude in der Putzbrunner Str. 15 Anliegen aus der Bürgerschaft vom 06.07.2023
+- TOP 3.5.2.: Bau des befristeten Neubaus einer dreizügigen Grundschule als mobile Raumeinheit auf der Wiese beim Theodor-Heuss-Platz anstatt der Böglwiese Anliegen aus der Bürgerschaft vom 10.07.2023 Hierzu: Ergänzung zu dem Anliegen aus der Bürgerschaft vom 11.07.2023 mit weiteren Fragen zum Schulinterim Böglwiese
+- TOP 3.5.3.: Klimaneutrales Quartier Ramersdorf: Bitte um Unterstützung Anliegen aus der Bürgerschaft vom 01.07.2023
+- TOP 3.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 3.6.1.: Anfrage bezüglich Anschluss an das Fernwärmenetz Anliegen aus der Bürgerschaft vom 07.05.2023 mit der Bitte um Beratung in der Sitzung am 27.07.2023
+- TOP 3.6.2.: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen Bitte des BA 1 um Unterstützung und um Ergänzung des BA-Antrags Nr. 20-26 / B 05581
+- TOP 3.7: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.1: Mobilität
+- TOP 4.1.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Thomas-Dehler-Straße; Hotelanfahrt Frist zur Stellungnahme bis 03.08.2023
+- TOP 4.2: Kultur und Stadtbezirksbudget
+- TOP 4.3: Umwelt, Gesundheit und Grünplanung
+- TOP 4.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 4.4.1.: Antrag für ein Kreislaufschrank in der Oggersheimer Str. Bitte um Stellungnahme bis spätestens 11.08.2023
+- TOP 4.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 4.5.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.5.1.1.: Böglstr. - Schulbauoffensive - Neubau einer 3-zügigen Grundschule mit Tagesheim als mobile Raumeinheit (befristet auf 5 Jahre) >>Böglstr. / Heinrich-Lübke-Str. / Putzbrunner Str.<<; Frist zur Stellungnahme bis einschließlich 26.05.2023; Fristverlängerung bis zum 31.07.2023 (vertagt aus der Sitzung am 23.05.2023, um den Runden Tisch zum Schulinterim Böglwiese abzuwarten)
+- TOP 4.5.1.2.: Fritz-Kortner-Bogen 3 - Neubau von zwei Wohngebäuden und Aufstockung der best. Wohnanlage - (Fritz-Kortner-Bogen 3 - 11 / Therese-Giehse-Allee 14 - 22 / Preetoriusweg 3) - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 12.05.2023; Fristverlängerung bis einschließlich 28.07.2023 (vertagt aus der Sitzung am 23.05.2023 und 27.06.2023 zur Vorstellung im UA)
+- TOP 4.5.1.3.: Arnold-Sommerfeld-Str. - Neubau eines Mitarbeiterparkhauses; Frist zur Stellungnahme bis einschließlich 30.03.2023; Fristverlängerung bis einschließlich 28.07.2023 Hierzu: Schreiben des BA-Vorsitzenden mit erneuter Bitte um Vorstellung des Projekts (vertagt aus der Sitzung am 27.06.2023 zur Vorstellung im UA)
+- TOP 4.5.1.4.: Balanstr. 73 - Neubau eines Büro- und Verwaltungsgebäude mit untergeordneter Schulnutzung, Turnhalle und Tiefgarage - VORBESCHEID; Fristverlängerung bis einschließlich 28.07.2023 (vertagt aus der Sitzung am 27.06.2023 zur Vorstellung im UA)
+- TOP 4.5.1.5.: Carl-Wery-Str. - Erweiterung eines Gartenbaubetriebs bzw. Errichtung von Solaranlagen - VORBESCHEID; Fristverlängerung bis einschließlich 28.07.2023 (vertagt aus der Sitzung am 27.06.2023 zur Vorstellung im UA)
+- TOP 4.5.1.6.: Marieluise-Fleißer-Bogen 5 - Aufstockung eines Gewerbehauses und Nutzungsänderung von Betriebswohnung in Büro (Marieluise-Fleißer-Bogen 5 / Stemplingeranger 16); Fristverlängerung bis einschließlich 31.07.2023
+- TOP 4.5.1.7.: Im Gefilde 8 - Schulbauoffensive - Im Gefilde - Schulförderzentrum (geist. Entwicklung) 12 Unterrichtsräume (BA I) als temporäre Interimslösung mit einer befristeten Standzeit von 10 Jahre; Fristverlängerung bis einschließlich 31.07.2023
+- TOP 4.5.1.8.: Lise-Meitner-Weg 8 - Neubau von zwei Dreifamilienhäusern und einer Duplex-Doppelgarage sowie Einrichtung eines Seminarraums im Untergeschoss; Fristverlängerung bis einschließlich 31.07.2023
+- TOP 4.5.1.9.: Balanstr. - WH 1301 - Umrüstung 1 digitale Werbevitrine - innen digital / außen statisch, Nachtabschaltung von 00:00 - 06:00 Uhr (Az.: 1.91-2023-10006-6W); Fristverlängerung bis einschließlich 31.07.2023
+- TOP 4.5.1.10.: Balanstr. - WH 1407 - Umrüstung 1 digitale Werbevitrine - innen digital / außen statisch, Nachtabschaltung von 00:00 - 06:00 Uhr (Az.: 1.91-2023-10009-6W); Fristverlängerung bis einschließlich 03.08.2023
+- TOP 4.5.1.11.: Strehleranger 14 - Schulbauoffensive - Neubau einer mobilen Schulraumeinheit (Strehleranger 10-16 / Staudingerstr. 36) - befristet auf 5 Jahre; Fristverlängerung bis einschließlich 01.08.2023
+- TOP 4.5.1.12.: Sundergaustr. 162 - Neubau eines Mehrfamilienhauses mit Tiefgarage; Frist zur Stellungnahme bis einschließlich 28.07.2023
+- TOP 4.5.1.13.: Ulrich-von-Hutten-Str. 24 - Abbruch des Bestandsgebäudes und Neubau eines Mehrfamilienhauses mit 7 Wohneinheiten und Tiefgarage - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 28.07.2023
+- TOP 4.5.1.14.: St.-Ingbert-Str. 12 - Umbau eines Wohn- und Bürogebäudes zu einem Wohnhaus - ÄNDERUNGSANTRAG zu 1.2-2019-22453 - Hier: alle Einzelzimmer-Wohnungen sind durch familiengerechte Wohneinheiten ersetzt, 2-geschossige Tiefgarage für 10 Pkw mit Übergabebereich Tiefgarage im EG ist im ganzen Umfang gelöscht; Fristverlängerung bis einschließlich 29.08.2023
+- TOP 4.5.1.15.: Germersheimer Str. - Errichtung eines gemischt genutzten Gebäudes mit ca. 170 Wohneinheiten, einer KiTa und einer Tiefgarage mit ca. 350 Stellplätzen (davon ca. 175 Stellplätze für die Wohnnutzung, ca. 5 Stellplätze für die KiTa und ca. 170 Stellplätze für eine Nutzung zu Gunsten eines in der Nachbarschaft befindlichen Bürogebäudes) - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 14.08.2023
+- TOP 4.5.1.16.: Helmontstr. 8 - Neubau eines Doppelhauses mit drei Wohneinheiten und zwei Carports; Frist zur Stellungnahme bis einschließlich 14.08.2023
+- TOP 4.5.1.17.: Hofer Str. 19 - Nutzungsänderung im 1.-3. Obergeschoss von Büroräumen zu einem Beherbergungsbetrieb für Arbeiter, Monteure und Fachkräfte; Frist zur Stellungnahme bis einschließlich 14.08.2023
+- TOP 4.5.2: Weitere Anhörungen
+- TOP 4.5.2.1.: Klimaneutrales und klimaresilientes, wachsendes Quartier – Ramersdorf Süd A) Bekanntgabe der Ergebnisse des integrierten Quartierskonzepts: klimaneutrales Quartier Ramersdorf Süd B) Weiteres Vorgehen zur Umsetzung des Quartierskonzeptes Ramersdorf Süd für den Bereich zwischen Claudius-Keller-Straße (süd-östlich), Wilramstraße (nördlich), Laibacher Straße (östlich), Rosenheimer Straße (süd-westlich) -Grundsatzbeschluss- -Durchführung eines Ideen- und Realisierungswettbewerbs- Sitzungsvorlage Nr. 20-26 / V 10320 Beschluss der Vollversammlung des Stadtrates vom Öffentliche Sitzung Frist zur Stellungnahme bis 15.08.2023
+- TOP 4.5.2.2.: Bebauungsplan mit Grünordnung Nr. 2158; Jakob-Kaiser-Straße, Theodor-Heuss-Platz (westlich) und Lüdersstraße (nördlich); (Teiländerung des Bebauungsplanes Nr. 57bq) – Schulzentrum Theodor-Heuss-Platz – Bitte um Stellungnahme bis 11.08.2023
+- TOP 4.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 4.6.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.1.1.: Veranstaltung in einer städtischer Grünanlage Spielaktion am Theodor-Heuss-Platz 02.08.2023 Frist zur Stellungnahme bis 25.07.2023; Fristverlängerung bis einschließlich 28.07.2023
+- TOP 4.6.1.2.: Veranstaltung im Freien in einer Grünanlage Grünanlage zwischen der Frauenchiemseestraße und der Herrenchiemseestraße, „Spendenlauf / Sponsorenlauf“ am 16.09.2023; Frist zur Stellungnahme bis 25.08.2023
+- TOP 4.6.1.3.: Veranstaltung im Freien in einer Grünanlage Ostpark Theatron, BlocParty83 Jugendfestival von 28.07. bis 30.07.2023; Frist zur Stellungnahme bis 21.07.2023
+- TOP 4.6.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.6.2.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO in städtischen Grünanlagen und auf Privatgrund München Marathon vom 08.10.2023; Frist zur Stellungnahme bis 04.08.2023
+- TOP 4.6.2.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO und in einer städtischen Grünanlage; Hier: Perlacher Kirta auf dem Pfanzeltplatz am 10.09.2023 Bitte um Stellungnahme bis spätestens 02.08.2023
+- TOP 4.6.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 4.6.3.1.: Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen; BA-Antrag-Nr. 20-26 / B 04834 des Bezirksausschusses des Stadtbezirkes 16 - Ramersdorf-Perlach vom 08.12.2022; Zuleitung des Direktoriums mit der Bitte um Stellungnahme innerhalb von 6 Wochen (verwiesen aus der Sitzung vom 27.06.2023 zur gemeinsam abgestimmten Stellungnahme der Unterausschüsse KPS und Bauvorhaben)
+- TOP 4.6.4: Weitere Anhörungen
+- TOP 4.6.4.1.: Landtags- und Bezirkswahl am 08.10.2023; Einteilung der Stimmbezirke und Wahlräume Bitte um Rückmeldung bis spätestens 15.08.2023
+- TOP 4.6.4.2.: Umsetzung des Öffentlichkeitsbeteiligungskonzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets Sitzungsvorlage Nr. 20-26 / V Beschluss des Verwaltungs- und Personalausschusses vom 27.09.2023 (VB) Öffentliche Sitzung Bitte um Stellungnahme bis zum 31.07.2023; Fristverlängerung bis spätestens 31.08.2023
+- TOP 4.7: Sonstige
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.1.1: Fällungsanträge
+- TOP 5.1.1.1.1.: Weidener Str. 35
+- TOP 5.1.1.1.2.: Scherbaumstr. 42
+- TOP 5.1.1.1.3.: Hechtseestr. 10
+- TOP 5.1.1.1.4.: Am Hain 4
+- TOP 5.1.1.1.5.: Koboldstr. 15
+- TOP 5.1.1.1.6.: Wachenheimer Str. 14
+- TOP 5.1.1.1.7.: Heinrich-Wieland-Str. 174
+- TOP 5.1.1.1.8.: Staudingerstr. 56
+- TOP 5.1.1.1.9.: Isengaustr. 7
+- TOP 5.1.1.1.10.: Triester Str. 19
+- TOP 5.1.1.1.11.: Philipp-Foltz-Str. 20
+- TOP 5.1.1.1.12.: Kurt-Eisner-Str. 1
+- TOP 5.1.1.1.13.: Asenweg 18
+- TOP 5.1.1.1.14.: Aschauer Str. 28
+- TOP 5.1.1.1.15.: Koboldstr. 38
+- TOP 5.1.1.1.16.: Albert-Schweitzer-Str. 62
+- TOP 5.1.1.1.17.: Kiaulehnweg 10
+- TOP 5.1.1.1.18.: Dr.-Walther-von-Miller-Str. 30
+- TOP 5.1.1.1.19.: Peralohstr. 47
+- TOP 5.1.1.1.20.: Öttlmairstr. 8
+- TOP 5.1.1.2: Baumbestandspläne
+- TOP 5.1.1.2.1.: Fritz-Kortner-Bogen 3 - Neubau von zwei Wohngebäuden und Aufstockung der best. Wohnanlage - (Fritz-Kortner-Bogen 3 - 11 / Therese-Giehse-Allee 14 - 22 / Preetoriusweg 3) - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 12.05.2023; Fristverlängerung bis einschließlich 28.07.2023 (vertagt aus der Sitzung am 23.05.2023 und 27.06.2023 zur Vorstellung im UA)
+- TOP 5.1.1.2.2.: Im Gefilde 8 - Schulbauoffensive - Im Gefilde - Schulförderzentrum (geist. Entwicklung) 12 Unterrichtsräume (BA I) als temporäre Interimslösung mit einer befristeten Standzeit von 10 Jahre; Fristverlängerung bis einschließlich 31.07.2023
+- TOP 5.1.1.2.3.: Lise-Meitner-Weg 8 - Neubau von zwei Dreifamilienhäusern und einer Duplex-Doppelgarage sowie Einrichtung eines Seminarraums im Untergeschoss; Fristverlängerung bis einschließlich 31.07.2023
+- TOP 5.1.1.2.4.: Ulrich-von-Hutten-Str. 24 - Abbruch des Bestandsgebäudes und Neubau eines Mehrfamilienhauses mit 7 Wohneinheiten und Tiefgarage - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 28.07.2023
+- TOP 5.1.1.2.5.: St.-Ingbert-Str. 12 - Umbau eines Wohn- und Bürogebäudes zu einem Wohnhaus - ÄNDERUNGSANTRAG zu 1.2-2019-22453 - Hier: alle Einzelzimmer-Wohnungen sind durch familiengerechte Wohneinheiten ersetzt, 2-geschossige Tiefgarage für 10 Pkw mit Übergabebereich Tiefgarage im EG ist im ganzen Umfang gelöscht; Frist zur Stellungnahme bis einschließlich 29.07.2023
+- TOP 5.1.1.2.6.: Germersheimer Str. - Errichtung eines gemischt genutzten Gebäudes mit ca. 170 Wohneinheiten, einer KiTa und einer Tiefgarage mit ca. 350 Stellplätzen (davon ca. 175 Stellplätze für die Wohnnutzung, ca. 5 Stellplätze für die KiTa und ca. 170 Stellplätze für eine Nutzung zu Gunsten eines in der Nachbarschaft befindlichen Bürogebäudes) - VORBESCHEID; Frist zur Stellungnahme bis einschließlich 14.08.2023
+- TOP 5.1.1.2.7.: Helmontstr. 8 - Neubau eines Doppelhauses mit drei Wohneinheiten und zwei Carports; Frist zur Stellungnahme bis einschließlich 14.08.2023
+- TOP 5.1.1.2.8.: Balanstr. 73 - Neubau eines Büro- und Verwaltungsgebäude mit untergeordneter Schulnutzung, Turnhalle und Tiefgarage - VORBESCHEID; Fristverlängerung bis einschließlich 28.07.2023 (vertagt aus der Sitzung am 27.06.2023)
+- TOP 5.1.1.2.9.: Specklstr. 9 - Neubau eines MFH mit 3 WE und 2 Unterflurparkern sowie eines EFH mit einem Carport; Frist zur Stellungnahme bis einschließlich 13.08.2023 (vertagt aus der Sitzung am 27.06.2023 bis zur Behandlung im UA Bauvorhaben, Stadtplanung und Stadtteilentwicklung)
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Seniorinnen und Senioren
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 5.2.1: Mobilität
+- TOP 5.2.2: Kultur und Stadtbezirksbudget
+- TOP 5.2.3: Umwelt, Gesundheit und Grünplanung
+- TOP 5.2.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 5.2.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 5.2.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1: Mobilität
+- TOP 6.1.1.: Sprengeländerung der Grundschule am Strehleranger: Bitte um Unterstützung der vorgeschlagenen Maßnahmen zur Gewährleistung der Sicherheit des Schulweges
+- TOP 6.1.2.: Freundliche Anfrage zur möglichen Sichtbehebung aufgrund falsch parkenden Autos Pfarrweg/Balanstrasse
+- TOP 6.2: Kultur und Stadtbezirksbudget
+- TOP 6.3: Umwelt, Gesundheit und Grünplanung
+- TOP 6.3.1.: Vorschläge zum neuen Medizinkonzept der München-Klinik und zur Notfallversorgung in München (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 6.3.2.: Auswirkungen der Übernahme des Bürgerbegehren "Grünflächen erhalten" durch den Stadtrat der LH München auf bereits laufende Bauprojektplanungen im Stadtbezirk 16 (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 6.3.3.: Antrag auf Instandsetzung, naturnahe Umgestaltung und Aktivierung eines Spielplatzes in der Paulsdorfferstraße in Ramersdorf
+- TOP 6.3.4.: Gynäkologische und geburtshilfliche Versorgung im Münchner Osten sicherstellen Forderung nach Transparenz und Kommunikation mit den BürgerInnen in Bezug auf im November 2018 durch den Stadtrat zugesagte Neubewertung/Bedarfserhebung 2023 Antwort des Gesundheitsreferats zum Schreiben des Bezirksausschusses zur Zwischennachricht des Gesundheitsreferats, dass der BA-Antrag abschließend bis zum Herbst 2023 bearbeitet wird
+- TOP 6.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 6.4.1.: Münchner Armutsbericht 2022: Ausrichtung eines Fachgespräches zur Diskussion der regionalen Armutslage im Stadtbezirk 16
+- TOP 6.4.2.: Umgehende Nachbesetzung der Leitung des ASZ Ramersdorf
+- TOP 6.4.3.: Zusätzliche Sporthallenkapazitäten in Neuperlach Süd schaffen
+- TOP 6.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 6.5.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.5.1.1.: Leoprechtingstraße 33; Bescheid vom 28.06.2023
+- TOP 6.5.2: Weitere Antworten der Verwaltung
+- TOP 6.5.2.1.: Fokussierung des NEBOURHOODS-Projekts in Neuperlach
+- TOP 6.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 6.6.1.: Energieversorgung Waldperlach (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 6.6.2.: Zusätzlicher Wochenmarkt am Theodor-Heuss-Platz
+- TOP 6.6.3.: Online-BA-Antragsformular auf www.muenchen.de Antrag der CSU Fraktion im BA 16 vom 22.06.2021
+- TOP 6.7: Sonstige
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1: Mobilität
+- TOP 7.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2.: Wild abgestellte E-Scooter und E-Bikes
+- TOP 7.1.3.: Anliegerinformation zum Umbau des Wendehammers beim Strehleranger im Zuge des Schulneubaus
+- TOP 7.1.4.: Information zum aktuellen Projektstand des Trambahnbetriebshofs Lauensteinstraße
+- TOP 7.2: Kultur und Stadtbezirksbudget
+- TOP 7.2.1: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.2.2: Weitere Unterrichtungen
+- TOP 7.2.2.1.: Dankeschön des Kleingartenverein S.O. 85 für die Bezuschussung der Installation von Wasseruhren und Erneuerung der Wasseranschlüsse in den Gärten vom 06.03. - 16.04.2023
+- TOP 7.2.2.2.: Dankeschön der Marieluise-Fleißer-Realschule für die Ferienpässe
+- TOP 7.3: Umwelt, Gesundheit und Grünplanung
+- TOP 7.3.1.: (U) Masterplan solares München (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 7.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.3.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 7.3.4.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 7.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 7.4.1.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 7.4.2.: (U) Abriss des städtischen Notquartiers Karl-Marx-Ring 104; Kostensteigerung und zusätzlicher Finanzmittelbedarf 16. Stadtbezirk - Ramersdorf-Perlach (verwiesen aus der Sitzung vom 27.06.2023)
+- TOP 7.4.3.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 7.4.4.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen - Führichstraße 53 - Strehleranger 4 / Strehleranger 12
+- TOP 7.4.5.: (U) Anhörungsverfahren zur Änderung der Mittelschulorganisation in der Landeshauptstadt München; Sprengeländerung der Mittelschulen - Führichstraße 53 / Strehleranger 10 - Albert-Schweitzer-Straße 59
+- TOP 7.4.6.: Bitte um Unterstützung durch die Bezirksausschüsse bei der weiteren Standortsuche für eine gleichmäßige Verteilung von Unterkünften für Geflüchtete im Stadtgebiet Münchens
+- TOP 7.4.7.: Leistungsbilanz des Sozialreferates 2023 für die Bürgerversammlung des Bezirksteils Ramersdorf
+- TOP 7.4.8.: Informationen des Referats für Bildung und Sport für die Bürgerversammlung des Bezirksteils Ramersdorf
+- TOP 7.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 7.5.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.5.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.5.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.4: Weitere Unterrichtungen
+- TOP 7.5.4.1.: Abschlussdokumentation: Gewerbegebietsmanagement 2021-2022; u.a. mit dem Gewerbegebiet Perlach Süd
+- TOP 7.5.4.2.: Frankenwaldstr.: Information zum aktuellen Sachstand der möglichen Nutzung eines Hauses als Wohnheim
+- TOP 7.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 7.6.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 7.6.1.1.: "Global Café", Peschelanger 13; Unterrichtung des KVR vom 22.06.2023
+- TOP 7.6.2: Weitere Unterrichtungen
+- TOP 7.6.2.1.: Einhaltung der Fristen zur Anhörung der Bezirksausschüsse und der Beantwortung von BA-Anträgen
+- TOP 7.6.2.2.: Nichtverfügbarkeit des Ratsinformationssystems am 11.07.2023; Auswirkungen durch die Produktivsetzung; Informationen zum RIS-Extranet
+- TOP 7.7: Sonstige
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.1: Mobilität
+- TOP 8.1.2: Kultur und Stadtbezirksbudget
+- TOP 8.1.3: Umwelt, Gesundheit und Grünplanung
+- TOP 8.1.4: Bildung und Sport, Soziales und Stadtsanierung
+- TOP 8.1.5: Bauvorhaben, Stadtplanung und Stadtteilentwicklung
+- TOP 8.1.6: Kommunales und öffentlicher Raum, Ökonomie, Partizipation und Satzungsfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: zu TOP 1.6. Sonstiges - Antrag des BA-Vorsitzenden zur Sitzungsverkürzung durch en bloc-Entscheidung „Grüne Liste“
+- TOP 1.2.9.: zu 4.1.2 Infoschreiben des Baureferates zu den Kosten
+- TOP 4.5.1.18.: zu 4.5.1.1 Böglstr. - Schulbauoffensive - Neubau einer 3-zügigen Grundschule mit Tagesheim als mobile Raumeinheit (befristet auf 5 Jahre) Protokollerklärung der CSU-Fraktion
+- TOP 1.2.10.: zu 4.5.1.1 Böglstr. - Schulbauoffensive - Neubau einer 3-zügigen Grundschule mit Tagesheim als mobile Raumeinheit (befristet auf 5 Jahre) >>Böglstr. / Heinrich-Lübke-Str. / Putzbrunner Str.<<; Frist zur Stellungnahme bis einschließlich 26.05.2023; Fristverlängerung bis zum 31.07.2023 (vertagt aus der Sitzung am 23.05.2023, um den Runden Tisch zum Schulinterim Böglwiese abzuwarten) Protokollerklärung der CSU-Fraktion
