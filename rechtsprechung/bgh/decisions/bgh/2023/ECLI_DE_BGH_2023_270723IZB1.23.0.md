@@ -1,0 +1,204 @@
+---
+ecli: "ECLI:DE:BGH:2023:270723IZB1.23.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-01"
+aktenzeichen: "I ZB 1/23"
+decided: "2023-07-27"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2023&Sort=1&Seite=62&nr=134944&anz=3377&pos=1881&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-01_NA_2023-07-27_I_ZB_1_23_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/ervv/0006.md", "germany/bund/acts/jbeitro/0001.md", "germany/bund/acts/jbeitro/0006.md", "germany/bund/acts/jbeitro/0007.md", "germany/bund/acts/zpo/0091.md", "germany/bund/acts/zpo/0130a.md", "germany/bund/acts/zpo/0130d.md", "germany/bund/acts/zpo/0298.md", "germany/bund/acts/zpo/0574.md", "germany/bund/acts/zpo/0575.md", "germany/bund/acts/zpo/0577.md", "germany/bund/acts/zpo/0753.md", "germany/bund/acts/zpo/0754.md", "germany/bund/acts/zpo/0802c.md", "germany/bund/acts/zpo/0802g.md"]
+---
+
+# Bundesgerichtshof, I ZB 1/23 vom 2023-07-27
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                         BESCHLUSS
+I ZB 1/23
+
+                                 vom
+
+                             27. Juli 2023
+
+                 in dem Zwangsvollstreckungsverfahren
+
+
+
+
+ECLI:DE:BGH:2023:270723BIZB1.23.0
+
+                                           -2-
+
+
+
+          Der I. Zivilsenat des Bundesgerichtshofs hat am 27. Juli 2023 durch den
+    Vorsitzenden Richter Prof. Dr. Koch, den Richter Feddersen, die Richterinnen
+    Pohl und Dr. Schmaltz sowie den Richter Odörfer
+
+    beschlossen:
+
+          Auf die Rechtsbeschwerde des Gläubigers wird der Beschluss des
+          Landgerichts Berlin - Zivilkammer 51 - vom 1. Dezember 2022 aufgehoben.
+
+          Auf die sofortige Beschwerde des Gläubigers wird der Beschluss
+          des Amtsgerichts Köpenick vom 12. September 2022 abgeändert.
+
+          Die Gerichtsvollzieherin wird angewiesen, die Ausführung des Vollstreckungsantrags zum Aktenzeichen DR II 557/22 nicht mit der
+          Begründung zu verweigern, er erfülle nicht die Voraussetzungen
+          der § 7 Satz 1 und 2 JBeitrG, § 753 Abs. 4 und 5, §§ 130a, 130d
+          ZPO.
+
+          Die Kosten des Verfahrens trägt der Schuldner.
+
+
+
+
+                                         Gründe:
+
+1         A. Das für den Gläubiger, den Freistaat Thüringen, handelnde Thüringer
+    Oberlandesgericht - Justizzahlstelle - betreibt gegen den Schuldner die Zwangsvollstreckung wegen Gerichtskostenforderungen.
+
+2         Die Justizzahlstelle beantragte am 5. Juli 2022 die Abnahme der Vermögensauskunft und bei unentschuldigtem Fernbleiben des Schuldners den Erlass
+    eines Haftbefehls. Der Antrag ist qualifiziert elektronisch signiert. Er wurde über
+
+                                            -3-
+
+
+
+    das besondere elektronische Behördenpostfach (beBPo) des Thüringer Oberlandesgerichts an das elektronische Gerichts- und Verwaltungspostfach (EGVP)
+    des Amtsgerichts zur Weiterleitung an den zuständigen Gerichtsvollzieher übermittelt.
+
+3          Die Gerichtsvollzieherin bat um Übersendung eines Vollstreckungsantrags auf dem Postweg.
+
+4          Das Amtsgericht hat die hiergegen gerichtete Erinnerung des Gläubigers
+    zurückgewiesen. Die sofortige Beschwerde des Gläubigers ist vor dem Landgericht erfolglos geblieben. Mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde verfolgt der Gläubiger seinen Vollstreckungsantrag weiter.
+
+5          B. Das Beschwerdegericht hat angenommen, auch mit Blick auf die verpflichtende elektronische Einreichung des Vollstreckungsantrags durch den
+    Gläubiger sei eine Einreichung des den Titel ersetzenden Vollstreckungsantrags
+    in Papierform weiterhin erforderlich.
+
+6          Gemäß § 7 Satz 2 JBeitrG ersetze der Vollstreckungsantrag die nach
+    § 754 ZPO grundsätzlich erforderliche Übergabe der vollstreckbaren Ausfertigung des Schuldtitels an das Vollstreckungsorgan. An den Vollstreckungsantrag
+    seien hohe Anforderungen zu stellen; es dürften keinerlei Zweifel an seiner Echtheit bestehen. Der unterschriebene Vollstreckungsantrag sei daher schriftlich
+    einzureichen und mit einem Dienstsiegel zu versehen. Hierdurch werde gewährleistet, dass aus dem Schriftstück die Person erkennbar werde, die für seinen
+    Inhalt die Verantwortung übernehme. Eine Prüfung durch den Gerichtsvollzieher
+    sei nur dann möglich, wenn er das Original des Vollstreckungsantrags in den
+    Händen halte. Durch § 753 Abs. 4 und 5 und die §§ 130 ff. ZPO habe keine
+    Vereinfachung des Zwangsvollstreckungsverfahrens erreicht werden sollen, so
+    dass diese Anforderungen auch bei einer elektronischen Einreichung des Vollstreckungsantrags Geltung beanspruchten. Der Gläubiger hätte den Haftbefehl
+
+                                            -4-
+
+
+
+     zudem in Papierform vorlegen müssen, weil dieser dem Schuldner bei der Verhaftung auszuhändigen sei.
+
+7          Weder die qualifizierte elektronische Signatur noch die einfache Signatur
+     in Kombination mit einem sicheren Übermittlungsweg könnten die durch den Bundesgerichtshof aufgestellten Anforderungen an den Vollstreckungsantrag erfüllen. Die qualifizierte elektronische Signatur ersetze zwar die Unterschrift und
+     gebe daher die Person wieder, die die Verantwortung für den Vollstreckungsantrag übernehme; allerdings fehle es an einem Pendant zum Dienstsiegel. Die
+     Versendung aus einem besonderen elektronischen Behördenpostfach möge
+     zwar ein Dienstsiegel ersetzen; allerdings fehle es an einer Unterschrift. Zudem
+     sei ausschließlich der Verhaftungsantrag qualifiziert elektronisch signiert und der
+     Vollstreckungsantrag lediglich als Anlage beigefügt.
+
+8          C. Die Rechtsbeschwerde ist statthaft (§ 574 Abs. 1 Satz 1 Nr. 2 ZPO) und
+     auch ansonsten zulässig (§ 575 ZPO). Sie hat auch in der Sache Erfolg.
+
+9          I. Gerichtskosten werden gemäß § 1 Abs. 1 Nr. 4, Abs. 2, § 2 Abs. 1
+     Justizbeitreibungsgesetz (JBeitrG) von den Gerichtskassen vollstreckt, soweit
+     die Landesregierungen keine anderen Behörden bestimmen. Die Abnahme der
+     Vermögensauskunft beantragen die Gerichtskassen nach § 7 Satz 1 JBeitrG bei
+     dem zuständigen Gerichtsvollzieher; dieser Antrag ersetzt nach § 7 Satz 2
+     JBeitrG den vollstreckbaren Schuldtitel. Gleiches gilt für den Antrag auf Erlass
+     eines Haftbefehls zur Erzwingung der Abgabe der Vermögensauskunft (vgl.
+     BGH, Beschluss vom 18. Dezember 2014 - I ZB 27/14, DGVZ 2015, 146 [juris
+     Rn. 15]; Beschluss vom 6. April 2023 - I ZB 84/22, WM 2023, 1271 [juris Rn. 11]).
+
+10         Nach § 6 Abs. 1 Satz 1 JBeitrG, § 753 Abs. 4 Satz 1 und 2 ZPO können
+     schriftlich einzureichende Anträge und Erklärungen der Parteien als elektronisches Dokument beim Gerichtsvollzieher eingereicht werden. Für das elektronische Dokument gelten § 130a ZPO, auf dieser Grundlage erlassene Rechtsverordnungen sowie § 298 ZPO entsprechend. § 130a Abs. 3 Satz 1 ZPO bestimmt,
+
+                                            -5-
+
+
+
+     dass das elektronische Dokument mit einer qualifizierten elektronischen Signatur
+     der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden muss.
+     Zu den sicheren Übermittlungswegen gehört nach § 130a Abs. 4 Satz 1 Nr. 3
+     ZPO der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde und der elektronischen
+     Poststelle des Gerichts. Gemäß § 753 Abs. 5 ZPO in Verbindung mit § 130d
+     Satz 1 ZPO sind Behörden verpflichtet, schriftlich einzureichende Anträge und
+     Erklärungen als elektronisches Dokument zu übermitteln.
+
+11         II. Das Thüringer Oberlandesgericht - Justizzahlstelle - ist für den Freistaat
+     Thüringen zur Vollstreckung von Ansprüchen nach § 1 Abs. 1 Nr. 4 JBeitrG
+     berufen (§ 1 Satz 1 Nr. 31 Ermächtigungsübertragsverordnung Justiz TH, § 1
+     Satz 1 Verordnung über Zuständigkeiten der Justizzahlstelle TH). Als Vollstreckungsbehörde ist es im Streitfall befugt, die Anträge auf Abnahme der Vermögensauskunft (§ 802c Abs. 1 Satz 1 ZPO) und auf Erlass eines Haftbefehls
+     (§ 802g Abs. 1 Satz 1 ZPO) zu stellen. Partei des Rechtsbeschwerdeverfahrens
+     ist dessen ungeachtet der Freistaat Thüringen als Gläubiger der beizutreibenden
+     Forderung. Soweit § 6 Abs. 2 Satz 1 JBeitrG bestimmt, dass an die Stelle des
+     Gläubigers die Vollstreckungsbehörde tritt, betrifft dies die Vertretungsbefugnis
+     und nicht die Gläubigerstellung (vgl. BGH, WM 2023, 1271 [juris Rn. 14] mwN).
+
+12         III. Der Vollstreckungsantrag des Gläubigers genügt entgegen der Auffassung des Beschwerdegerichts den Formanforderungen im elektronischen
+     Rechtsverkehr.
+
+13         1. Wie der Senat nach dem Beschluss des Beschwerdegerichts entschieden hat, entspricht der Vollstreckungsantrag nach § 7 Satz 1 und 2 JBeitrG den
+     im elektronischen Rechtsverkehr geltenden Formanforderungen, wenn er entweder von der ihn verantwortenden Person qualifiziert elektronisch signiert worden
+     ist oder von der ihn verantwortenden Person (einfach) signiert und auf einem
+     sicheren Übermittlungsweg eingereicht worden ist (§ 130a Abs. 3 Satz 1 ZPO).
+
+                                             -6-
+
+
+
+     Weitere Formerfordernisse bestehen nicht. Insbesondere können die nach der
+     Senatsrechtsprechung geltenden Anforderungen an einen in Papierform eingereichten Vollstreckungsantrag (vgl. BGH, DGVZ 2015, 146 [juris Rn. 16]) auf
+     einen elektronisch eingereichten Vollstreckungsantrag nicht übertragen werden.
+     Der Vollstreckungsantrag muss daher weder zusätzlich in Papierform eingereicht
+     noch mit einem Dienstsiegel versehen werden (vgl. BGH, WM 2023, 1271 [juris
+     Rn. 15, 22, 27 und 32]).
+
+14          2. Im Streitfall sind diese Formanforderungen eingehalten.
+
+15          a) Das Beschwerdegericht hat festgestellt, dass der Vollstreckungsantrag
+     qualifiziert elektronisch signiert ist (§ 130a Abs. 3 Satz 1 Fall 1 ZPO). Die qualifizierte elektronische Signatur bezieht sich entgegen der Annahme des Beschwerdegerichts auf den gesamten Vollstreckungsantrag vom 5. Juli 2022, der sowohl
+     den Antrag auf Abnahme der Vermögensauskunft als auch den Antrag auf Erlass
+     eines Haftbefehls enthält.
+
+16          b) Daher kommt es nicht darauf an, ob der Vollstreckungsantrag zudem
+     auf einem sicheren Übermittlungsweg eingereicht wurde (§ 130a Abs. 3 Satz 1
+     Fall 2, Abs. 4 Satz 1 Nr. 4 ZPO), und zwar nicht - wie vom Beschwerdegericht
+     angenommen - über das besondere elektronische Behördenpostfach, sondern
+     über das diesem nach § 6 Abs. 2 Halbsatz 1 ERVV gleichstehende elektronische
+     Gerichts- und Verwaltungspostfach des Oberlandesgerichts.
+
+17          3. Entgegen der Auffassung des Beschwerdegerichts folgt aus der Vorschrift des § 802g Abs. 2 Satz 2 ZPO, nach der der Gerichtsvollzieher dem
+     Schuldner von Amts wegen bei der Verhaftung eine beglaubigte Abschrift des
+     Haftbefehls aushändigt, kein Formerfordernis für den Antrag auf Erlass eines
+     Haftbefehls.
+
+                                          -7-
+
+
+
+18           D. Danach ist der angefochtene Beschluss aufzuheben. Der Senat kann
+     in der Sache selbst entscheiden, weil die Aufhebung der Entscheidung nur wegen Rechtsverletzung bei Anwendung des Rechts auf das festgestellte Sachverhältnis erfolgt und nach letzterem die Sache zur Endentscheidung reif ist (§ 577
+     Abs. 5 ZPO).
+
+19           E. Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Der Schuldner
+     hat im Rechtsbeschwerdeverfahren Kenntnis von der Sache erlangt (zu diesem
+     Erfordernis vgl. BGH, Beschluss vom 6. April 2023 - I ZB 115/22, juris Rn. 23
+     mwN).
+
+     Koch                                Feddersen                             Pohl
+
+                     Schmaltz                                 Odörfer
+
+
+
+
+     Vorinstanzen:
+     AG Köpenick, Entscheidung vom 12.09.2022 - 32 M 2041/22 -
+     LG Berlin, Entscheidung vom 01.12.2022 - 51 T 381/22 -
