@@ -15,6 +15,7 @@
 | § 9 | Beschränkungen, Befristung, Bedingungen und Auflagen |
 | § 10 | Rücknahme und Widerruf |
 | § 10a | Erlaubnis für den Betrieb von Drogenkonsumräumen |
+| § 10b | Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen |
 | Dritter Abschnitt |
 |  | Pflichten im Betäubungsmittelverkehr |
 | § 11 | Einfuhr, Ausfuhr und Durchfuhr |

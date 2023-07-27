@@ -18,6 +18,7 @@
 - [§ 9 Beschränkungen, Befristung, Bedingungen und Auflagen](0009.md)
 - [§ 10 Rücknahme und Widerruf](0010.md)
 - [§ 10a Erlaubnis für den Betrieb von Drogenkonsumräumen](0010a.md)
+- [§ 10b Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen](0010b.md)
 
 ## Dritter Abschnitt Pflichten im
 Betäubungsmittelverkehr
