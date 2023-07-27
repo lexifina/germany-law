@@ -1,0 +1,97 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 2: Anträge
+- TOP 2.1.: Mehr Klarheit zum Ausbau der Fernwärme
+- TOP 2.2.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box in der Camerloherstraße - Bestellung einer Städtischen Leistung
+- TOP 2.3.: Anfrage: Stand Machbarkeitsstudie Fahrradabstellplätze S-Bahnhof Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget HIDALGO gGmbH HIDALGO Refugium im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 02.09. und 31.10.2023 2.726,16 Euro, Az.: 0262.0-25-0304
+- TOP 3.2.: (E) Stadtbezirksbudget mobil und sicher im Alltag e.V. Sozialraumkarte von August 2023 - Januar 2024 5.800,00 Euro, Az.: 0262.0-25-0305
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat des Kindergartens Zu den hl. Zwölf Aposteln Ausflug in den Märchenwald im Juli 2023 1.867,50 Euro, Az.: 0262.0-25-0296
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 05.07.23: Droste-Hülshoff-Straße (Höhe Hausnummer 5), Änderung der Parkordnung
+- TOP 4.3.: Schreiben AWM vom 06.07.23: Drei neue öffentliche Christbaumsammelflächen für Jan/Feb 2024 und Ortstermin 19. Juli 2023 den Hogenbergplatz um ca. 11 Uhr
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 07.07.23: Landtags- und Bezirkswahl 2023; Stimmbezirke und Wahlräume im Stadtbezirk 25
+- TOP 4.5.: Bänke Fürstenrieder Straße mit weiterem Standortvorschlag
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 12.07.23: Bez. 25 Anhörung: Imagine - Senior:innen für eine grüne Zukunft am 15.9.23, Von-der-Pfordten / Valpichlerstr. Veranstaltung im Freien in städtischer Grünanlage; hier: Wahlkampfveranstaltung B‘90/Die Grünen, Imagine - Senior:innen für eine grüne Zukunft am 15.9.23, Von-der-Pfordten / Valpichlerstr.; PAX 100
+- TOP 4.7.: Sitzbank Gotthardstr. 46 - Ersatzstandort
+- TOP 4.8.: (N) Schreiben Kreisverwaltungsreferat vom 20.07.23: POP UP STAGE KJR am Laimer Anger am Sa 09.09.2023
+- TOP 4.9.: (N) Schreiben Direktorium vom 25.07.23: Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 56, Grundstück 69/44-Laim Aufstockung eines Wohn- und Geschäftshauses um ein Geschoss mit versetzten Ebenen zur Wohnnutzung - VORBESCHEID (Frist 03.08.23)
+- TOP 5.2.: Hönlestr. 53, Grundstück 327/92-Großhadern Abbruch einer bestehenden Gaube und Errichtung zweier neuer Gauben, Aufbrungen eines Vollwärmeschutzes und einer neuen Dachdämmung (Frist 03.08.23)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Telekom vom 28.06.23: Glasfasererschließung
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Mobilität vom 25.04.23
+- TOP 7.2.: Protokoll UA Mobilität vom 23.05.23
+- TOP 7.3.: Protokoll UA Mobilität vom 27.06.23
+- TOP 7.4.: Protokoll UA Kultur vom 28.06.23
+- TOP 7.5.: Protokoll UA Schule/Gesundheit und Soziales vom 22.06.23
+- TOP 7.6.: Protokoll UA Bau vom 29.06.23
+- TOP 7.7.: Protokoll BA-Sitzung vom 06.07.23
+- TOP 7.8.: Protokoll UA Mobilität vom 13.06.23
+- TOP 7.9.: Protokoll UA Mobilität vom 11.07.23
+- TOP 7.10.: Protokoll UA Soziales vom 12.07.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Sozialreferat vom 22.06.23: Mosaik Jugendpreis - Mit Vielfalt gegen Rassismus
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.07.23: Frage zu Bauplänen München Laim / Mänhardt-Wohnanlage, Stöberlstr. 88-94
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.06.23: Stellungnahme 2. Stammstrecke
+- TOP 8.4.: Bauanträge 19.06.-25.06.23: A) Erstantragsverfahren 1. Aindorferstr. 187 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Hönlestr. 53 2. Fürstenrieder Str. 56
+- TOP 8.5.: Bautenliste 26.06.-02.07.23: A) Erstantragsverfahren 1. Endelhauserstr. 11
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.06.23: Fällung Baudererstr. 11
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.06.23: Fällung Rushaimerstr. 55
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.06.23: Fällung Kirchmairstr. 35
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.06.23: Högerstr., Fl.Nr. 80/20, Gemarkung: Laim Neubau einer Wohnanlage mit Tiefgarage - Vorbescheid
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.07.23: Fällungsantrag Rilkestr.
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.07.23: Bebauungsplan Nr. A 1894 - Sicherung Gemeindebedarfsflächen
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 26.06.23 und 29.06.23: Drehgenehmigung Eckermannstr., 29.06.-30.06.23
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 03.07.23: Landsberger Straße / Agricolastraße Einrichtung von absoluten Haltverboten
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 04.07.23: VA Gotthardstr. u. weitere vom 04.07.23-29.05.24, Verlängerung U 5
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 27.06.23: Hidalgo-StreetArtSong am 02.09.23 Am Laimer Anger
+- TOP 8.16.: Schreiben Sozialreferat vom 04.07.23: Zweckentfremdung von Wohnraum, Inderstorferstr.
+- TOP 8.17.: Schreiben Stadtwerke München vom 03.07.23: Baumaßnahmen
+- TOP 8.18.: Schreiben MVG vom 07.07.23: Sitzbank Wartehalle Ammerseestraße
+- TOP 8.19.: Dank für Unterstützung bei Postzustellungproblemen
+- TOP 8.20.: Sitzmöglichkeiten Tram-Haltestelle Ammerseestraße Hier: Dank
+- TOP 8.21.: Schreiben Polizeiinspektion 41 vom 07.07.23: Situation in der Grünanlage Agnes-Bernauer-Straße / Friedenheimer Straße
+- TOP 8.22.: Schreiben Polizeiinspektion 41 vom 07.07.23: Fürstenrieder Straße
+- TOP 8.23.: Parken Schäufeleinstraße, Dank
+- TOP 8.24.: Beschluss der Vollversammlung des Stadtrates vom 28.06.23: (U) Masterplan solares München
+- TOP 8.25.: Beschluss der Vollversammlung des Stadtrates vom 26.07.23: Bericht des Gesundheitsbeirates 2011 Änderung der Geschäftsordnung und der Vorstandszusammensetzung
+- TOP 8.26.: Beschluss des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 04.07.23: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 8.27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.28.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: Ehrenpreis für guten Wohnungsbau 2023 Sonderpreis für soziale Vermieter*innen Verleihung der Ehrenpreise und Sonderpreise
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.06.23: Umwandlung von Gewerberaum in Wohnraum, Bau von mietpreisgebundenen Wohnungen, keine Hochhäuser über 100 Meter
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 8.33.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 8.34.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Gefahrenstelle Lautensackstraße (Vertagung in UA Mobilität)
+- TOP 9.2.: Gefahrenstelle Straßenverkehr (Kenntnisnahme)
+- TOP 9.3.: Tempo 30 in der Fürstenrieder Staße im Zuge der Planungen für die Tram-Westtangente (Antwort an Bürgerin)
+- TOP 9.4.: Tempo 30 in der Fürstenrieder Straße im Bereich der Schule (Weitergabe an Mobilitätsreferat, Antwort Mor dann in UA Mobilität)
+- TOP 9.5.: Versperrter Überweg am Willibaldplatz (Vertagung in UA Mobilität)
+- TOP 9.6.: Heckeneinwuchs Camerloher Straße (Weitergabe an Baureferat)
+- TOP 9.7.: 1. Fußgänger- und Radfahrer-Unterführung S-Bahn Station Laim (Vertagung in UA Mobilität zur Veranstaltung eines Ortstermins) 2. Bäume entlang Landsberger Straße (Weitergabe an Baureferat mit der Bitte um Prüfung und Stellungnahme)
+- TOP 9.8.: Frage zu Bauplänen München Laim/Mänhardt-Wohnanlage (Vertagung in UA Bau)
+- TOP 9.9.: Geräusche Camerloherstraße (Weitergabe an Referat für Klima- und Umweltschutz)
+- TOP 9.10.: Konvivenz zwischen Radlern und Fußgängern (Vertagung in UA Mobilität zur Veranstaltung eines Ortstermins)
