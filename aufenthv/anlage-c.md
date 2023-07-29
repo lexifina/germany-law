@@ -6,6 +6,7 @@ Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige Jordanie
 a) im Besitz eines gültigen Visums Australiens, Israels oder Neuseelands sowie eines bestätigten Flugscheins oder einer gültigen Bordkarte für einen Flug sind, der in den betreffenden Staat führt, oder
 b) nach Beendigung eines erlaubten Aufenthalts in einem der vorstehend genannten Staaten nach Jordanien reisen und hierzu im Besitz eines bestätigten Flugscheins oder einer gültigen Bordkarte für einen Flug sind, der nach Jordanien führt.
 Der Weiterflug muss innerhalb von zwölf Stunden nach der Ankunft in Deutschland von demjenigen Flughafen ausgehen, in dessen Transitbereich sich der Ausländer ausschließlich befindet.
+Kuba
 Libanon
 Mali
 Sudan
