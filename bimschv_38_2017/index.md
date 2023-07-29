@@ -58,5 +58,5 @@
 - [§ 22 Inkrafttreten](0022.md)
 - [Anlage 1 (zu § 1 Absatz 2 und § 14 Absatz 1)Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1](anlage-1.md)
 - [Anlage 2 (zu den §§ 11 und 13)Treibhausgasemissionen fossiler Kraftstoffe](anlage-2.md)
-- [Anlage 3 (zu § 5 Absatz 2 und § 11 Absatz 2)Anpassungsfaktoren für die Antriebseffizienz](anlage-3.md)
+- [Anlage 3 (zu § 5 Absatz 3 und § 11 Absatz 2)Anpassungsfaktoren für die Antriebseffizienz](anlage-3.md)
 - [Anlage 4 (zu § 13a)Rohstoffe für die Herstellung von Biokraftstoffen nach § 13a](anlage-4.md)
