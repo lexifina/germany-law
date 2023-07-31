@@ -1,0 +1,139 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-07-31T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446920
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446920
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Neuwahl der / des Vorsitzende/-n des Unterausschusses Kultur und Freizeit
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: HC Wacker; Lärmbelästigung durch Kunstrasenplatz
+- TOP 2.2.: Ruhebank Implerstrasse 47
+- TOP 2.3.: Bewässerung der öffentlichen Bäume in Sendling, insbesondere Implerstraße
+- TOP 2.4.: - NACHTRAG - Fahrradweg am Harras besser markieren
+- TOP 2.5.: Baumpflanzungen in der Senserstraße
+- TOP 2.6.: Verschmutzung S-Bahn Station Mittersendling
+- TOP 2.7.: - NACHTRAG - Fußgängerampel an der Südseite der Kreuzung Implerstraße/Oberländerstraße; Fahrradabstellplätze im Bereich Oberländerstraße 12 und Implerstraße 38
+- TOP 2.8.: - NACHTRAG - Grillrauch aus den Flaucheranlagen in den Wohnungen der Flaucheranwohner*innen
+- TOP 2.9.: - NACHTRAG - Sportplatzlärm vom Wackerplatz
+- TOP 2.10.: - NACHTRAG - Verstärkte Kontrollen bezüglich Falschparkens während Veranstaltungen im HP8
+- TOP 2.11.: - NACHTRAG - Einrichtung von Fahrradparkplätzen an der Oberländerstraße 31
+- TOP 2.12.: - NACHTRAG - Zustand des Flaucherstegs
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) + (U) Wegnahme von Parkplätzen und Begrünung in der Zechstraße (im 6. Stadtbezirk - Sendling) Empfehlung Nr. 20-26 / E 00903 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 24.10.2022
+- TOP 4.1.2.: (E) Lärm und Umweltverschmutzung am Flaucher und an den Isarauen
+- TOP 4.1.3.: (E) GWG: Mieterbelange ernst nehmen
+- TOP 4.1.4.: (E) Beschleunigung des Verfahrens zur Umgestaltung in Wohneinheiten und Grünanlagen an der Plinganserstraße 52-60a
+- TOP 4.1.5.: (E) Förderverfahren bei energetischer Sanierung beschleunigen
+- TOP 4.1.5.1: - NACHTRAG - Förderverfahren bei energetischer Sanierung beschleunigen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB; Satzungsbeschluss „Am Harras / Passauerstraße“
+- TOP 4.2.2.: Baumfällung Implerstraße 51
+- TOP 4.2.3.: Baumfällung Plinganserstraße 5 - 5a
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Neue Sitzbank auf der Grünfläche Dietramszellerstraße bei Einmündung Schäftlarnstraße
+- TOP 4.3.2.: (U) Masterplan solares München
+- TOP 4.3.3.: Erhaltungssatzung Sendling für das südliche Brudermühlviertel Stadtbezirk 06 Sendling
+- TOP 4.3.4.: Sendlinger Müll-Hang – endlich entmüllen!
+- TOP 4.3.5.: (U) Schul- und Kitabauoffensive - Sachstandsbericht 2023 A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schulbauprogrammen und Kita-Bauprogrammen B Einflussfaktoren auf die Bauprogramme seit dem letzten Bericht vom 18. Mai 2022 C Bericht zu den Schul- und Kita-Bauprogrammen D Ausblick auf weitere Bauprogramme E Evaluation Bauunterhalt F Behandlung von Anträgen, Empfehlungen und einer Anfrage G Behandlung einer Petition zur Verbesserung des gymnasialen Angebots im 24. Stadtbezirk H Beteiligung der Bezirksausschüsse I Abstimmung
+- TOP 4.3.6.: Meldelisten Bauvorhaben
+- TOP 4.3.7.: Fällung eines Gefahrenbaums in der Grünanlage Daumillerweg
+- TOP 4.3.8.: Errichtung neuer Spielgeräte am Spielplatz Dietramszeller Platz
+- TOP 4.3.9.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 4.3.10.: - NACHTRAG - REWE-Grundstück in städtische Hand!
+- TOP 4.3.11.: (U) Ergebnis des Trägerschaftsauswahlverfahrens Flexi-Heim der Variante 1 im Bauquartier MK6, Pfeuferstraße / Radlkoferstraße Förderung ab Haushaltsjahr 2023 Änderung der Fortschreibung des Mehrjahresinvestitionsprogramms 6. Stadtbezirk - Sendling
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Sitzbank im Straßenbegleitgrün Karwendelstraße 1
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Errichtung einer Boulebahn am Gotzinger Platz
+- TOP 5.1.2.: - NACHTRAG - Genehmigung eines Parklets in der Implerstr. 12a / Schmied-Kochel-Str.
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: MÜK-Sommer-Boarding im Wacker Skatepark Bezirkssportanlage Untersendling, Demleitnerstr. 2 am 04.08.2023
+- TOP 5.2.2.: - NACHTRAG - Daiserstr. 37; zeitliche Ausdehnung allgemeiner Behindertenparkplatz Alten- und Servicezentrum Sendling
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Rabenangriff Neuhofener Anlagen
+- TOP 5.3.2.: Verkehrsrechtliche Anordnung Engstelle Hans-Preißinger-Straße
+- TOP 5.3.3.: Schulweg „Plingansersprengel“
+- TOP 5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: Versammlung am Resi-Huber-Platz am 26.07.2023
+- TOP 5.3.7.: Albert-Roßhaupter-Straße zwischen Am Harras und Passauerstraße im Westen; Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 5.3.8.: Unratablagerung in der Alramstraße am "REWE-Park"
+- TOP 5.3.9.: Ausnahmegenehmigung Grünanlage: Geländepraktikum für Studierende der LMU Geographie in den Isarauen Flaucheranlagen vom 21.07.2023 bis 02.08.2023
+- TOP 5.3.10.: Wiederherstellung des Baumgrabens vor der Implerstraße 29
+- TOP 5.3.11.: - NACHTRAG - Dialog-Displays - Bestellstart / - modalitäten und Kriterienkatalog
+- TOP 5.3.12.: - NACHTRAG - BA-Antrags-Nr. 20-26 / B 05473 Fahrradabstellanlagen im Bereich Schäftlarnstraße - Fristverlängerung
+- TOP 5.3.13.: - NACHTRAG - BA-Antrags-Nr. 20-26 / B 04689 Fahrradabstellanlagen im Bereich südlich Brudermühlstraße - Fristverlängerung
+- TOP 5.3.14.: - NACHTRAG - Versammlung Am Harras am 20.09.2023
+- TOP 5.3.15.: - NACHTRAG - Ergebnisse Topo-Box Messung Gotzinger Platz
+- TOP 5.3.16.: - NACHTRAG - Versammlung Am Harras am 05.08.2023 und 12.08.2023
+- TOP 5.3.17.: - NACHTRAG - SWM; Nachhaltigkeitsbericht 2022
+- TOP 5.3.18.: - NACHTRAG - Grünstreifen Instand setzen und befestigen: Wackersberger Straße Eingrenzung einer Parkbucht entsiegeln und Bepflanzung wiederherstellen: Wackersberger-/Esswurmstraße
+- TOP 5.3.19.: - NACHTRAG - Sommercafé der Sendlinger SPD, Daiserstraße 27 - 29 am 04.08.2023
+- TOP 5.3.20.: - NACHTRAG - Oktoberfest 2023: Verkehrsregelungen im Umfeld des Oktoberfestes
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verlängerung Ampelschaltung Ganghoferstraße
+- TOP 5.4.2.: Sicherung der Ausfahrt am Stemmerhof
+- TOP 5.4.3.: - NACHTRAG - Planungen des Neubaus der Maria-Probst-Realschule am Gotzinger Platz und die damit verbundene Verkehrssituation
+- TOP 5.4.4.: - NACHTRAG - Antrag Jugendforum; Abfalleimer in Sendling temporär bunt machen um Abfall zu reduzieren
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget HIDALGO gGmbH “HIDALGO Refugium“ im Rahmen des HIDALGO Festivals 3 Tage zwischen dem 2. September und 31. Oktober 2.392,24 € / AZ: 0262.0-6-0441
+- TOP 6.1.2.: (E) Stadtbezirksbudget mobil und sicher im Alltag e.V. “Sozialraumkarte vom 04.07.2023 – 31.01.2024“ 5.800,00 € / AZ: 0262.0-6-0434
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Nachhaltigkeit in Sendling: Selbst anpacken“ “Pflanzenaktion in Sendling: „Sendling blüht auf!“ vom 01.06.2023 – 31.10.2023“ 950,00 € / AZ: 0262.0-6-0427
+- TOP 6.1.4.: Stadtbezirksbudget Evangelisches Hilfswerk gemeinnützige GmbH “Sommerfest Teestube „komm“ am 11.08.2023“ 145,54 € / AZ: 0262.0-6-0445
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiative „Livemusik Schöttlstraße“ “Livemusik Schöttlstraße am 11.08.2023“ 900,00 € / AZ: 0262.0-6-0435
+- TOP 6.1.6.: (E) Stadtbezirksbudget Nachbarschaftstreff Theresia, Donna Mobile AKA e.V. “Offener Bücherschrank am Herzog-Ernst-Platz vom 08.08.2023 – 31.12.2023“ 10.510,00 € / AZ: 0262.0-6-0448
+- TOP 6.1.7.: (E) Stadtbezirksbudget Initiative Schöttlsommer “Schöttlsommer vom 30.06.2023 – 30.09.2023“ 2.600,00 € / AZ: 0262.0-6-0447
+- TOP 6.1.8.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling “16. Sendlinger – Orgelnacht am 20.10.2023“ 2.600,00 € / AZ: 0262.0-6-0442
+- TOP 6.1.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.10.: (E) Stadtbezirksbudget Kunst in Sendling e.V. “Offene Ateliers Kunst in Sendling vom 06.10.2023 – 08.10.2023“ 4.660,00 € / AZ: 0262.0-6-0449
+- TOP 6.1.11.: (E) Stadtbezirksbudget Initiative „Chillen im Grünen“ “Chillen gemeinsam im Grünen und an der frischen Luft vom 01.06.2023 – 31.10.2023“ 750,00 € / AZ: 0262.0-6-0439
+- TOP 6.1.12.: (E) Stadtbezirksbudget Initiative „Sendling spielt“ “Sendling spielt...“ vom 09.09.2023 – 17.09.2023“ 3.184,51 € / AZ: 0262.0-6-0455
+- TOP 6.1.13.: (E) Stadtbezirksbudget Initiative „La Busqueda“ “La Busqueda am 03.09.2023“ 358,57 € / AZ: 0262.0-6-0453
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: - NACHTRAG - Änderung der BA-Satzung; rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren sicherstellen
+- TOP 6.2.2.: - NACHTRAG - Änderung der BA-Satzung; Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Bestellung Städtischer Leistungen für Umbaumaßnahmen der Mädchenumkleide des FFC Wackers
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Unterstützung bei der Standortsuche für Unterkünfte
+- TOP 7.3.2.: Sprengeländerung Grundschule Gotziner Platz 1 / Implerstr. 35
+- TOP 7.3.3.: Protokoll der Kinder- und Jugendversammlung in Sendling
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Landtags- und Bezirkswahl am 08.10.2023; Einteilung der Stimmbezirke und Wahlräume
+- TOP 9.3.2.: Antrag BA1; Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 9.3.3.: Sitzungstermine und Bürgerversammlung 2024
+- TOP 9.3.4.: - NACHTRAG - Fachtag BNE VISION 2030 am 18.10.2023
+- TOP 9.3.5.: - NACHTRAG - Oktoberfest 2023 - Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
