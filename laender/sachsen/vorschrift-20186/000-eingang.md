@@ -1,0 +1,6 @@
+# Verordnung des Sächsischen Staatsministeriums für Kultus und des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft über die Fachschule im Freistaat Sachsen (Schulordnung Fachschule – FSO)
+Vom 31. Juli 2023
+Es verordnen auf Grund
+– des § 34 Absatz 5 Satz 3 und des § 62 Absatz 1, Absatz 2 Nummer 3 Halbsatz 1 und 2 Buchstabe b und c, Nummer 4, Nummer 6, 7, 8 Halbsatz 1 und 2 sowie Nummer 9 und 11, Absatz 3 und Absatz 4 Satz 1 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 27. September 2018 (SächsGVBl. S. 648), von denen Absatz 2 Nummer 3 Halbsatz 1 und 2 Buchstabe b sowie c sowie Nummer 4, 6, 7, 8 Halbsatz 1 und 2 sowie Nummer 9 durch Artikel 1 Nummer 9 Buchstabe b des Gesetzes vom 17. Dezember 2020 (SächsGVBl. S. 731) geändert worden ist, sowie
+– des § 20 Nummer 1, 3 und 4 des Sächsischen Gesetzes über Schulen in freier Trägerschaft vom 8. Juli 2015 (SächsGVBl. S. 434), von denen Nummer 4 durch Artikel 4 Nummer 10 Buchstabe a des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, das Staatsministerium für Kultus und
+– des § 62 Absatz 5 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 27. September 2018 (SächsGVBl. S. 648) das Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft im Einvernehmen mit dem Staatsministerium für Kultus:
