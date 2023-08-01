@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-05-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.8
+- Datum: 2023-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-05.05.2023
+01.08.2023
 bis
-31.07.2023
+05.09.2024
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -759,9 +759,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  5. Mai 2023
+Fassung gültig ab:  1. August 2023
 
-Fassung gültig bis: 31. Juli 2023
+Fassung gültig bis:  5. September 2024
 
 Drucken/Speichern
 
@@ -788,7 +788,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.8
+https://www.revosax.sachsen.de/vorschrift/17348.9
 Stand vom
 18.11.2026
 
