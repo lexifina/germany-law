@@ -1,0 +1,2 @@
+# Art. 17c Nachprüfung
+Auf Antrag und auf Kosten des Trägers hat die zuständige Behörde eine zeitnahe Nachprüfung durchzuführen, wenn und soweit erhebliche Mängel der Pflege- und Betreuungsqualität betroffen sind und dem Träger das Zuwarten bis zur nächsten Regelprüfung nicht zumutbar ist. Der Bericht über die Nachprüfung wird ergänzend zu dem betroffenen Ergebnisprotokoll erstellt und muss der Bewohnervertretung übermittelt werden. Art. 17b Abs. 3 und 4 gilt entsprechend.
