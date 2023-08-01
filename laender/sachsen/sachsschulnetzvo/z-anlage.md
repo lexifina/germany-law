@@ -15,12 +15,9 @@ Klassenstufen 5 bis 9 | 15
 Schule mit dem Förderschwerpunkt Sprache | Klassenstufen 1 bis 4 | 10
 Klassenstufen 5 und 6 | 12
 Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung |  | 10
-Berufsschule | Klasse für Schüler in Bildungsgängen für die Berufsausbildungsvorbereitung (§ 3 Absatz 1 BSO) | 20
+Berufsschule | Klassen für Schülerinnen und Schüler in Bildungsgängen für die Berufsausbildungsvorbereitung (§ 3 Absatz 1 BSO) | 20
 Klasse für Jugendliche ohne Ausbildungsvertrag | 20
-Klasse mit dem Förderschwerpunkt Sehen | 7
-Klasse mit dem Förderschwerpunkt Hören | 8
-Klasse mit dem Förderschwerpunkt Sprache | 8
-Klasse mit einem anderen Förderschwerpunkt | 12
+Klassen mit den Förderschwerpunkten geistige Entwicklung, körperliche und motorische Entwicklung, Lernen sowie emotionale und soziale Entwicklung | 12
 Gymnasium, Gemeinschaftsschule, Berufliches Gymnasium, Abendgymnasium, Kolleg | Grundkurs | 20
 Leistungskurs | 18
 *) Nach dem Lehrplan Deutsch als Zweitsprache an allgemeinbildenden Schulen in der jeweils geltenden Fassung (siehe https://www.schule.sachsen.de/lpdb)
