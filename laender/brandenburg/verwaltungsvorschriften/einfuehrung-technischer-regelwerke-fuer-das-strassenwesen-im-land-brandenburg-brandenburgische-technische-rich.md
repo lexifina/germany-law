@@ -1,53 +1,37 @@
-# Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Brandenburgische Technische Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14)
+# Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Brandenburgische Technische Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14); Anpassung an die Ersatzbaustoffverordnung
 
 - Herausgeber: Land Brandenburg
-- Datum: 2015-01-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/btr_rc_stb_14
+- Datum: 2023-08-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/btr_rc_stb_14_2023
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Brandenburgische Technische Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014  (BTR RC-StB 14)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Brandenburgische Technische Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14); Anpassung an die Ersatzbaustoffverordnung
 
-vom 20. Januar 2015
+vom 27. Juni 2023
 
-(ABl./15, [Nr. 04], S.94)
+(ABl./23, [Nr. 29], S.691)
 
 Der Runderlass richtet sich an
 
-die Straßenbaubehörde des Landes Brandenburg
+die Straßenbaubehörde des Landes Brandenburg,
 
-die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg
+die Landkreise, die kreisfreien Städte sowie die kreisange­hörigen Städte und Gemeinden des Landes Brandenburg,
 
-das Landesamt für Umwelt, Gesundheit und Verbraucherschutz
+das Landesamt für Umwelt Brandenburg,
 
-die Sonderabfallgesellschaft Brandenburg/Berlin mbH.
+die Sonderabfallgesellschaft Berlin/Brandenburg mbH.
 
-Die „Brandenburgischen Technischen Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14)“ regeln den Umgang mit mineralischen Recycling-Baustoffen (RC-Baustoffe) wie zum Beispiel Bodenmaterialien, Gleisschotter, speziellen Schlacken und Aschen, Ausbauasphalt und pechhaltigen Straßenbaustoffen unter Beachtung technischer und umweltrelevanter Anforderungen bei der Verwendung der Baustoffe in den konstruktiven Schichten von Straßen, Wegen und anderen Verkehrsflächen sowie in straßenbegleitenden Erdbauwerken.
+Die Verordnung zur Einführung einer Ersatzbaustoffverord­nung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung vom 9. Juli 2021 (BGBl. I S. 2598) tritt am 1. August 2023 in Kraft.
 
-Mit der Neufassung der BTR RC-StB 14 erfolgte die Anpassung der Ausgabe 2004 an die geltenden technischen Regelwerke des Straßenbaus und die umweltschutzrechtlichen Anforderungen. Die Fortschreibung wurde notwendig infolge der Weiterentwicklung der europäischen Normen für Straßenbaustoffe und des nationalen Regelwerkes für den Straßenbau, der veränderten Baustoffsituation (Input-Materialien) sowie insbesondere der geänderten Anforderungen des Wasser- und Bodenschutzrechtes.
+In der Ersatzbaustoffverordnung (EBV) werden die umweltrelevanten Anforderungen an Herstellung und Verwertung von mineralischen Ersatzbaustoffen in technischen Bauwerken neu geregelt.
 
-Die Hersteller für RC-Baustoffe und pechhaltige Straßenausbaustoffe müssen die Anforderungen des Güteüberwachungssystems gemäß BTR RC-StB 14 erfüllen. Der Landesbetrieb Straßenwesen Brandenburg gibt diese Hersteller güteüberwachter Baustoffe in einer Liste im Internet unter www.ls.brandenburg.de bekannt. Dies gilt auch für Hersteller aus anderen Bundesländern, die ihre RC-Baustoffe und pechhaltigen Straßenausbaustoffe im Land Brandenburg verwerten wollen.
+Dies hat Auswirkungen auf die Regelungen der „Brandenburgischen Technischen Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14)“, eingeführt mit Runderlass des Ministeriums für Infrastruktur und Landesplanung, Abteilung 4, Nummer 1/2025 - Verkehr vom 20. Januar 2015 (ABl. S. 94), in denen die umweltrelevanten Parameter auf der Basis der „Mitteilungen der Länderarbeitsgemeinschaft Abfall (LAGA) 20, Anforderungen an die stoffliche Verwertung von mineralischen Reststoffen/Abfällen - Technische Regeln“ vom 6. November 2003 erstellt wurden.
 
-Zuständige Behörde für die Erteilung der Eignungsbeurteilung für RC-Baustoffe und industriell hergestellte Gesteinskörnungen ist der Landesbetrieb Straßenwesen Brandenburg.
+Mit Inkrafttreten der Ersatzbaustoffverordnung am 1. August 2023 gelten diese umweltrelevanten Regelungen nicht mehr, sie werden von der Ersatzbaustoffverordnung ersetzt. Für Ausbau­asphalt gelten die Regelungen der „Richtlinien für die umweltverträgliche Verwertung von Ausbaustoffen mit teer-/pech­typischen Bestandteilen sowie für die Verwertung von Ausbauasphalt im Straßenbau, Ausgabe 2001/Fassung 2005 (RuVA-StB)“.
 
-Im Einvernehmen mit dem Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft des Landes Brandenburg wur- den die BTR RC-StB 14 vom Landesbetrieb Straßenwesen Brandenburg und dem Landesamt für Umwelt, Gesundheit und Verbraucherschutz des Landes Brandenburg erarbeitet.
+Der Landesbetrieb Straßenwesen Brandenburg erteilt die Eignungsbeurteilung für die mineralischen Ersatzbaustoffe nach Ersatzbaustoffverordnung auf Antrag des Fremdüberwachers. Der Landesbetrieb Straßenwesen Brandenburg gibt weiterhin alle Hersteller von mineralischen Ersatzbaustoffen, die einer Güteüberwachung nach Ersatzbaustoffverordnung unterliegen, im Internet unter www.ls.brandenburg.de bekannt.
 
-Die BTR RC-StB 14 ersetzen die „Brandenburgischen Technischen Richtlinien für die Herstellung, Prüfung, Auslieferung und den Einbau von Recyclingbaustoffen im Straßenbau, Ausgabe 2004 (BTR RC-StB 04)“ sowie die Änderungen und Ergänzungen.
-
-Gemeinsam mit dem Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft werden hiermit die „Brandenburgischen Technischen Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14)“ für die im Zuständigkeitsbereich des Landes Brandenburg, der Landkreise, der kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen gemäß § 3 Absatz 1 Nummer 1 bis 3 des Brandenburgischen Straßengesetzes eingeführt.
-
-Folgende Runderlasse werden aufgehoben:
-
-Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 5, Nummer 10/2005 - Straßenbau - vom 13. Mai 2005 (ABl. S. 719)
-
-Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nummer 27/2010 - Verkehr - vom 3. Dezember 2010 (ABl. S. 1975)
-
-Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nummer 8/2012 - Verkehr - vom 20. Dezember 2012 (ABl. 2013 S. 230).
-
-Für die BTR RC-StB 14 wurde das Notifizierungsverfahren bei den Europäischen Gemeinschaften unter der Nummer 2014/0452/D durchgeführt.
-
-Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), zuletzt geändert durch Artikel 26 Absatz 2 der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 (ABl. L 316 vom 14.11.2012, S. 12), sind beachtet worden.
-
-Die Veröffentlichung der Richtlinien erfolgt im Internet unter www.ls.brandenburg.de sowie www.mlul.brandenburg.de.
+Die Änderungen zur BTR RC-StB 14 treten für die im Zuständigkeitsbereich des Landes Brandenburg, der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen am 1. August 2023 in Kraft. Für die sonstigen Straßen wird die gleiche Verfahrensweise empfohlen.
