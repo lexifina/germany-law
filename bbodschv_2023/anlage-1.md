@@ -1,0 +1,64 @@
+# Anlage 1 (zu § 3 Absatz 1 Satz 1 Nummer 1 und Absatz 2,§ 5, § 6 Absatz 5 Satz 2 und Absatz 6 Nummer 1, § 7 Absatz 2, 3 und 5,§ 8 Absatz 2, Absatz 3 Nummer 1, Absatz 6 Nummer 1 und Absatz 7 Satz 1 und 6,§ 24 Absatz 4 Nummer 1 und 2, Absatz 7 Nummer 1, Absatz 9 Nummer 1 und Absatz 10 Nummer 1)Vorsorgewerte und Werte zur Beurteilung von Materialien
+
+Tabelle 1: Vorsorgewerte für anorganische Stoffe
+| Stoff | Vorsorgewert bei Bodenart Sand | Vorsorgewert bei Bodenart Lehm/Schluff | Vorsorgewert bei Bodenart Ton |
+|  | [mg/kg TM] |
+| Arsen | 10 | 20 | 20 |
+| Blei | 40 | 70 | 100 |
+| Cadmium | 0,4 | 1 | 1,5 |
+| Chromgesamt | 30 | 60 | 100 |
+| Kupfer | 20 | 40 | 60 |
+| Nickel | 15 | 50 | 70 |
+| Quecksilber | 0,2 | 0,3 | 0,3 |
+| Thallium | 0,5 | 1 | 1 |
+| Zink | 60 | 150 | 200 |
+Tabelle 2: Vorsorgewerte für organische Stoffe
+| Stoff | Vorsorgewert bei TOC-Gehalt ≤ 4 % | Vorsorgewert bei TOC-Gehalt > 4 % bis 9 % |
+|  | [mg/kg TM] |
+| Summe aus PCB6 und PCB-118 | 0,05 | 0,1 |
+| Benzo(a)pyren | 0,3 | 0,5 |
+| PAK16 | 3 | 5 |
+Tabelle 3: Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle Eintragspfade
+| Stoff | Fracht |
+|  | [g/ha·a] |
+| Arsen | 35 |
+| Blei | 200 |
+| Cadmium | 5 |
+| Chromgesamt | 150 |
+| Kupfer | 300 |
+| Nickel | 75 |
+| Quecksilber | 1 |
+| Thallium | 1,5 |
+| Zink | 1 200 |
+| Benzo(a)pyren | 1 |
+Tabelle 4: Werte zur Beurteilung von Materialien für das Auf- oder Einbringen unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
+Hinweis: Die Eluatwerte sind mit Ausnahme des Eluatwertes für Sulfat nur maßgeblich, wenn für den betreffenden Stoff der jeweilige Vorsorgewert nach Tabelle 1 oder 2 überschritten wird.
+| Stoff | Feststoffwert | Eluatwert |
+|  |  | bei TOC-Gehalt < 0,5 % | bei TOC-Gehalt ≥ 0,5 % |
+|  | [mg/kg TM] | [µg/l] |
+| Anorganische Stoffe |  |  |  |
+| Arsen | 20 | 8 | 13 |
+| Blei | 140 | 23 | 43 |
+| Cadmium | 1 | 2 | 4 |
+| Chromgesamt | 120 | 10 | 19 |
+| Kupfer | 80 | 20 | 41 |
+| Nickel | 100 | 20 | 31 |
+| Quecksilber | 0,6 | 0,1 | 0,1 |
+| Thallium | 1 | 0,2 | 0,3 |
+| Zink | 300 | 100 | 210 |
+| Sulfat |  | 250 000 | 250 000 |
+| Organische Stoffe |  |  |  |
+| Summe aus PCB6 und PCB-118 | 0,1 | 0,01 | 0,01 |
+| PAK16 | 6 |  |  |
+| PAK15 |  | 0,2 | 0,2 |
+| Naphthalin und Methylnaphthaline |  | 2 | 2 |
+| Extrahierbare organisch gebundene Halogene (EOX) | 1 |  |  |
+Tabelle 5: Werte für zusätzlich zu untersuchende Stoffe beim Auf- oder Einbringen von Materialien mit mehr als 10 % Volumenprozent mineralischer Fremdbestandteile unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
+| Stoff | Feststoffwert | Eluatwert |
+|  |  | bei TOC-Gehalt < 0,5 % | bei TOC-Gehalt ≥ 0,5 % |
+|  | [mg/kg TM] | [µg/l] |
+| Antimon | 4 | 5 | 5 |
+| Kobalt | 50 | 26 | 62 |
+| Molybdän | 4 | 35 | 35 |
+| Selen | 3 | 5 | 5 |
+| Vanadium | 200 | 20 | 35 |

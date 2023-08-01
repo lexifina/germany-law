@@ -1,0 +1,750 @@
+# Anlage 2 (zu § 1 Absatz 2 Nummer 3, § 2 Nummer 3 und 16,§ 19 Absatz 2, Absatz 3 Nummer 2, Absatz 6 bis 8,§ 20, § 21 Absatz 2, § 22 Absatz 1 und 2 sowie§ 25 Absatz 1 Nummer 5 und Absatz 3 Nummer 5 bis 8)Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen in technischen Bauwerken
+
+Erläuterungen
+In den Einbautabellen werden die Konfigurationen der Grundwasserdeckschichten unterschieden in „ungünstig“, „günstig – Sand“ und „günstig – Lehm, Schluff, Ton“.
+Die Konfigurationen der natürlich vorliegenden oder herzustellenden Grundwasserdeckschichten werden wie folgt festgelegt:
+| Konfiguration der Grundwasserdeckschicht | ungünstig | günstig |
+| Sand oder Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| grundwasserfreieSickerstrecke | für RC-1, BM-0*, BM-F0*, BM-F1, BG-0*, BG-F0*, BG-F1, GS-0, GS-1, SWS-1, CUM-1, HOS-1, HS,SKG:≥ 0,1 – 1 mfür alle anderen MEB: ≥ 0,5 – 1 mjeweils zuzüglich eines Sicherheitsabstandes von 0,5 m | für alle MEB: > 1 mzuzüglich einesSicherheitsabstandes von 0,5 m | für alle MEB: > 1 mzuzüglich einesSicherheitsabstandes von 0,5 m |
+Innerhalb von Wasserschutzbereichen sind die Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen auf günstige Eigenschaften der Grundwasserdeckschichten (Sand oder Lehm, Schluff, Ton, grundwasserfreie Sickerstrecke > 1 Meter) beschränkt.
+Bei der Beurteilung der Zulässigkeit von mineralischen Ersatzbaustoffen bei nicht gedeckten Baustraßen in Verfüllungen sowie bei der Böschungsstabilisierung ist § 8 Absatz 6 Bundes-Bodenschutz- und Altlastenverordnung zu beachten.
+Der Einsatz von mineralischen Ersatzbaustoffen gemäß den Einbauweisen Nummer 7 und 8 ist bei Straßen mit Entwässerungsrinnen und vollständiger Entwässerung über das Kanalnetz bei günstigen und ungünstigen Eigenschaften der Grundwasserdeckschichten außerhalb und innerhalb von Wasserschutzbereichen zulässig.
+Bei allen Einbauweisen der Tabellen ist berücksichtigt, dass bei Straßen im Bankett- und Böschungsbereich eine Durchsickerung stattfindet.
+Eintragungen oder Bezeichnungen in den Tabellen:
+gebundene Deckschicht: wasserundurchlässige Schicht oder Bauweise mit
+a) Asphalt nach den Anforderungen
+„Zusätzliche Technische Vertragsbedingungen und Richtlinien für den Bau von Verkehrsflächenbefestigungen aus Asphalt“ – ZTV Asphalt-StB – (FGSV, Ausgabe 2007, Fassung 2013) oder
+b) Beton nach den Anforderungen
+„Zusätzliche Technische Vertragsbedingungen und Richtlinien für den Bau von Tragschichten mit hydraulischen Bindemitteln und Fahrbahndecken aus Beton“ – ZTV Beton-StB – (FGSV, Ausgabe 2007) oder in vergleichbarer Ausführung oder
+c) Pflasterdecken oder Plattenbelägen mit dauerhaft wasserdichter Fugenabdichtung nach den Anforderungen
+„Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fugen in Verkehrsflächen“ – ZTV Fug-StB – (FGSV, Ausgabe 2015)
+ToB Tragschicht ohne Bindemittel
+K zugelassen bei Ausbildung der Bodenabdeckung als Dränschicht (Kapillarsperreneffekt) nach den „Richtlinien für die Entwässerung von Straßen – REwS“ (FGSV, Ausgabe 2021) oder in analoger Ausführung zur Bauweise E MTSE
+M zugelassen bei Ausbildung der Bodenabdeckung als Dränschicht (Kapillarsperreneffekt)
+/ nicht relevant
++ Einbau zulässig
+– Einbau unzulässig
+Werden bestimmte Einbauweisen mit mehreren Buchstaben gekennzeichnet, so gelten die Anforderungen kumulativ.
+WSG III A Wasserschutzgebiet Zone III A
+WSG III B Wasserschutzgebiet Zone III B
+HSG III Heilquellenschutzgebiet der Zone III
+HSG IV Heilquellenschutzgebiet der Zone IV
+Die Bauweisen A – D und die Bauweise E beziehen sich auf das „Merkblatt über Bauweisen für technische Sicherungsmaßnahmen beim Einsatz von Böden und Baustoffen mit umweltrelevanten Inhaltsstoffen im Erdbau“ – MTSE (FGSV, Ausgabe 2017).
+Fußnotenregelungen
+Mit Fußnoten werden zusätzlich zu den Materialwerten der Anlage 1 einzelne Konzentrationswerte festgelegt, für die sich weitere Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen ergeben. Mineralische Ersatzbaustoffe, die sowohl die Materialwerte aus Anlage 1 als auch die in den Fußnoten festgelegten Konzentrationswerte einhalten, sind in den mit Fußnoten gekennzeichneten Bauweisen der Einbautabellen, ggf. mit zusätzlichen Einschränkungen, zulässig.
+Einzelne Fußnoten bezeichnen Einschränkungen der Einsatzmöglichkeiten.
+Tabellenverzeichnis:
+| Tabelle 1: | Recycling-Baustoff der Klasse 1 (RC-1) |
+| Tabelle 2: | Recycling-Baustoff der Klasse 2 (RC-2) |
+| Tabelle 3: | Recycling-Baustoff der Klasse 3 (RC-3) |
+| Tabelle 4: | Ziegelmaterial (ZM) |
+| Tabelle 5: | Bodenmaterial der Klassen 0* (BM-0*), F0* (BM-F0*)Baggergut der Klassen 0* (BG-0*), F0* (BG-F0*) |
+| Tabelle 6: | Bodenmaterial der Klasse F1 (BM-F1), Baggergut der Klasse F1 (BG-F1) |
+| Tabelle 7: | Bodenmaterial der Klasse F2 (BM-F2), Baggergut der Klasse F2 (BG-F2) |
+| Tabelle 8: | Bodenmaterial der Klasse F3 (BM-F3), Baggergut der Klasse F3 (BG-3) |
+| Tabelle 9: | Gleisschotter der Klasse 0 (GS-0) |
+| Tabelle 10: | Gleisschotter der Klasse 1 (GS-1) |
+| Tabelle 11: | Gleisschotter der Klasse 2 (GS-2) |
+| Tabelle 12: | Gleisschotter der Klasse 3 (GS-3) |
+| Tabelle 13: | Hochofenstückschlacke der Klasse 1 (HOS-1) |
+| Tabelle 14: | Hochofenstückschlacke der Klasse 2 (HOS-2) |
+| Tabelle 15: | Hüttensand (HS) |
+| Tabelle 16: | Stahlwerksschlacke der Klasse 1 (SWS-1) |
+| Tabelle 17: | Stahlwerksschlacke der Klasse 2 (SWS-2) |
+| Tabelle 18: | Gießerei-Kupolofenschlacke (GKOS) |
+| Tabelle 19: | Kupferhüttenmaterial der Klasse 1 (CUM-1) |
+| Tabelle 20: | Kupferhüttenmaterial der Klasse 2 (CUM-2) |
+| Tabelle 21: | Gießereirestsand (GRS) |
+| Tabelle 22: | Schmelzkammergranulat aus der Feuerung von Steinkohle (SKG) |
+| Tabelle 23: | Steinkohlenkesselasche (SKA) |
+| Tabelle 24: | Steinkohlenflugasche (SFA) |
+| Tabelle 25: | Braunkohlenflugasche (BFA) |
+| Tabelle 26: | Hausmüllverbrennungsasche der Klasse 1 (HMVA-1) |
+| Tabelle 27: | Hausmüllverbrennungsasche der Klasse 2 (HMVA-2) |
+Tabelle 1: Recycling-Baustoff der Klasse 1 (RC-1)
+| Recycling-Baustoff der Klasse 1 (RC-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 2: Recycling-Baustoff der Klasse 2 (RC-2)
+| Recycling-Baustoff der Klasse 2 (RC-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | + | + | – | + | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | – | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | + | – | – | – | – | – | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | + | – | – | – | – | – | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | + | – | + | + | + |
+Tabelle 3: Recycling Baustoff der Klasse 3 (RC-3)
+| Recycling-Baustoff der Klasse 3 (RC-3) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | – | – | – | – | – | – | – | – | – |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | – | – | – | – | – | – | – | – |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | – | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | – | – | – | – | – | – | – | – |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 4: Ziegelmaterial (ZM)
+| Ziegelmaterial (ZM) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+Tabelle 5: Bodenmaterial der Klassen 0* (BM-0*), F0* (BM-F0*) Baggergut der Klassen 0* (BG-0*),
+F0* (BGF0*)
+| Bodenmaterial der Klassen 0* (BM-0*), F0* (BM-F0*) Baggergut der Klassen 0* (BG-0*), F0* (BG-F0*) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 6: Bodenmaterial der Klasse F1 (BM-F1), Baggergut der Klasse F1 (BG-F1)
+| Bodenmaterial der Klasse F1 (BM-F1), Baggergut der Klasse F1 (BG-F1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | + | + | – | + | – | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | + | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | + | – | + | + | + |
+Tabelle 7: Bodenmaterial der Klasse F2 (BM-F2), Baggergut der Klasse F2 (BG-F2)
+| Bodenmaterial der Klasse F2 (BM-F2), Baggergut der Klasse F2 (BG-F2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | + | + | – | + | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | – | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | + | – | – | – | – | – | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | + | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | + | – | – | – | – | – | + |
+Tabelle 8: Bodenmaterial der Klasse F3 (BM-F3), Baggergut der Klasse F3 (BG-3)
+| Bodenmaterial der Klasse F3 (BM-F3), Baggergut der Klasse F3 (BG-3) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | – | + | + | – | – | – | + | + | + |
+| 6 | Bettung, Frostschutz– oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | – | + | – | – | – | – | – | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | + | + | – | + | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | + | – | – | – | – | – | + |
+| 15 | Bauweisen 13 unter Pflaster | – | – | + | – | – | – | – | – | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | – | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | + | – | – | – | – | – | + |
+Tabelle 9: Gleisschotter der Klasse 0 (GS-0)
+| Gleisschotter der Klasse 0 (GS-0) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 10: Gleisschotter der Klasse 1 (GS-1)
+| Gleisschotter der Klasse 1 (GS-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | + | – | – | – | – | – | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | + | – | – | – | – | – | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | + | – | + | + | + |
+Tabelle 11: Gleisschotter der Klasse 2 (GS-2)
+| Gleisschotter der Klasse 2 (GS-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | – | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | + | – | – | – | – | – | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | + | – | – | – | – | – | + |
+Tabelle 12: Gleisschotter der Klasse 3 (GS-3)
+| Gleisschotter der Klasse 3 (GS-3) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | – | + | + | – | – | – | – | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | – | + | – | – | – | – | – | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | + | + | – | + | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | + | – | – | – | – | – | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 13: Hochofenstückschlacke der Klasse 1 (HOS-1)
+| Hochofenstückschlacke der Klasse 1 (HOS-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | – | – | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | – | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | – | – | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | + | + | – | + | – | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | + | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | / | / | / | / | / | / | / | / | / |
+Tabelle 14: Hochofenstückschlacke der Klasse 2 (HOS-2)
+| Hochofenstückschlacke der Klasse 2 (HOS-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | – | – | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | – | – | – | – | – | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | – | – | – | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | – | – | – | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | – | – | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | / | / | / | / | / | / | / | / | / |
+Tabelle 15: Hüttensand (HS)
+| Hüttensand (HS) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 16: Stahlwerksschlacke der Klasse 1 (SWS-1)
+| Stahlwerksschlacke der Klasse 1 (SWS-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | – | + | – | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | – | + | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | – | + | – | + | + | + |
+Tabelle 17: Stahlwerksschlacke der Klasse 2 (SWS-2)
+| Stahlwerksschlacke der Klasse 2 (SWS-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel, | – | + | + | – | – | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | + | – | – | – | – | – | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | + | – | + | – | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | – | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | + | – | + | + | + |
+Tabelle 18: Gießerei-Kupolofenschlacke (GKOS)
+| Gießerei-Kupolofenschlacke (GKOS) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 19: Kupferhüttenmaterial der Klasse 1 (CUM-1)
+| Kupferhüttenmaterial der Klasse 1 (CUM-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 20: Kupferhüttenmaterial der Klasse 2 (CUM-2)
+| Kupferhüttenmaterial der Klasse 2 (CUM-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 21: Gießereirestsand (GRS)
+| Gießereirestsand (GRS) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | – | – | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | – | – | – | – |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | – | – | – | – |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | – | – | – | – | – | – |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | – | – | – | – | – | – |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | – | – | – | – | – |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | – | – | – | – |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | – | – | – | – |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | – | + | + | – | – | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | + | + | – | – | – | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | – | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | – | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | – | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | – | – | + | + | + |
+Tabelle 22: Schmelzkammergranulat aus der Feuerung von Steinkohle (SKG)
+| Schmelzkammergranulat aus der Feuerung von Steinkohle (SKG) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | + | + | + | + | + | + | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | + | + | + | + | + | + | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | + | + | + | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | + | + | + | + | + | + | + | + | + |
+Tabelle 23: Steinkohlenkesselasche (SKA)
+| Steinkohlenkesselasche (SKA) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | / | / | / | / | / | / | / | / | / |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | + | + | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | + | + | + | + | + | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | / | / | / | / | / | / | / | / | / |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 24: Steinkohlenflugasche (SFA)
+| Steinkohlenflugasche (SFA) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | – | – | – | – | – | – | – | – | – |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | – | – | – | – | – | – | – | – | – |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | – | – | – | – |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | / | / | / | / | / | / | / | / | / |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | / | / | / | / | / | / | / | / | / |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | – | – | – | – | – | – | – | – |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | – | – | – | – | – | – | – | – | – |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | – | – | – | – | – | – | – | – |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | / | / | / | / | / | / | / | / | / |
+| 12 | Deckschicht ohne Bindemittel | / | / | / | / | / | / | / | / | / |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | / | / | / | / | / | / | / | / | / |
+Tabelle 25: Braunkohlenflugasche (BFA)
+| Braunkohlenflugasche (BFA) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | + | + | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | – | – | – | – |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | – | – | – | – |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | – | – | – | – | – | – |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | – | – | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | – | + | + | – | + | – | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | – | – | – | – |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | – | – | – | – | – | – |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | + | + | – | – | + | + | + | + |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |
+Tabelle 26: Hausmüllverbrennungsasche der Klasse 1 (HMVA-1)
+| Hausmüllverbrennungsasche der Klasse 1 (HMVA-1) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | – | – | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | – | – | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | + | + | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | + | + | + | + | + | + | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | + | + | – | + | – | + | + | + |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | + | + | – | + | – | + | + | + |
+| 15 | Bauweisen 13 unter Pflaster | – | + | + | – | + | – | + | + | + |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | + | + | + | – | + | – | + | + | + |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | + | + | – | + | – | + | + | + |
+Tabelle 27: Hausmüllverbrennungsasche der Klasse 2 (HMVA-2)
+| Hausmüllverbrennungsasche der Klasse 2 (HMVA-2) |
+| Einbauweise | Eigenschaft der Grundwasserdeckschicht |
+| außerhalb von Wasserschutzbereichen | innerhalb von Wasserschutzbereichen |
+| ungünstig | günstig | günstig |
+|  | Sand | Lehm, Schluff, Ton | WSG III A | WSG III B | Wasser- vorranggebiete |
+| HSG III | HSG IV |
+| Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton | Sand | Lehm, Schluff, Ton |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Decke bitumen- oder hydraulisch gebunden, Tragschicht bitumengebunden | + | + | + | – | – | + | + | + | + |
+| 2 | Unterbau unter Fundament- oder Bodenplatten, Bodenverfestigung unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 3 | Tragschicht mit hydraulischen Bindemitteln unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 4 | Verfüllung von Baugruben und Leitungsgräben unter gebundener Deckschicht | + | + | + | – | – | + | + | + | + |
+| 5 | Asphalttragschicht (teilwasserdurchlässig) unter Pflasterdecken und Plattenbelägen, Tragschicht hydraulisch gebunden (Dränbeton) unter Pflaster und Platten | + | + | + | + | + | + | + | + | + |
+| 6 | Bettung, Frostschutz- oder Tragschicht unter Pflaster oder Platten jeweils mit wasserundurchlässiger Fugenabdichtung | + | + | + | – | – | + | + | + | + |
+| 7 | Schottertragschicht (ToB) unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 8 | Frostschutzschicht (ToB), Baugrundverbesserung und Unterbau bis 1 m ab Planum jeweils unter gebundener Deckschicht | + | + | + | + | + | + | + | + | + |
+| 9 | Dämme oder Wälle gemäß Bauweisen A – D nach MTSE sowie Hinterfüllung von Bauwerken im Böschungsbereich in analoger Bauweise | + | + | + | – | – | + | + | + | + |
+| 10 | Damm oder Wall gemäß Bauweise E nach MTSE | – | + | + | – | – | – | + | + | + |
+| 11 | Bettungssand unter Pflaster oder unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 12 | Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 13 | ToB, Baugrundverbesserung, Bodenverfestigung, Unterbau bis 1 m Dicke ab Planum sowie Verfüllung von Baugruben und Leitungsgräben unter Deckschicht ohne Bindemittel | – | – | – | – | – | – | – | – | – |
+| 14 | Bauweisen 13 unter Plattenbelägen | – | – | – | – | – | – | – | – | – |
+| 15 | Bauweisen 13 unter Pflaster | – | – | – | – | – | – | – | – | – |
+| 16 | Hinterfüllung von Bauwerken oder Böschungsbereich von Dämmen unter durchwurzelbarer Bodenschicht sowie Hinterfüllung analog zu Bauweise E des MTSE | – | – | – | – | – | – | – | – | – |
+| 17 | Dämme und Schutzwälle ohne Maßnahmen nach MTSE unter durchwurzelbarer Bodenschicht | – | – | – | – | – | – | – | – | – |

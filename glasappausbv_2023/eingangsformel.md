@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, und auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:

@@ -1,0 +1,8 @@
+# Anlage 2 (zu § 32 Absatz 2)Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Arbeiten unter Spannung an Hochvoltsystemen in Fahrzeugen
+
+| Lfd. Nr. | Berufsbildpositionen | Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen im |
+| 1. bis 18. Monat | 19. bis 42. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Arbeitsverfahren und Arbeitsmittel für die Arbeit an Hochvoltsystemen und deren Komponenten auswählen und einsetzen | a)sichere Arbeitsverfahren auswählenb)Prüf- und Messgeräte auswählen, überprüfen und einsetzenc)Schutz- und Sicherheitsausrüstung auswählen, überprüfen und einsetzend)Arbeitsplätze einrichten und sichern |  | 3 |
+| 2 | Außerbetriebnehmen und Inbetriebnehmen von Hochvoltsystemen und deren Komponenten | a)Vorschriften, insbesondere Normen, sowie Sicherheits- und Herstellervorgaben für elektrotechnische Arbeiten, insbesondere unter Spannung, umsetzenb)Sicherheitsregeln sowie Schutzmaßnahmen unter Berücksichtigung von Unfallverhütungsvorschriften sowie den Stand der Technik beachten und einhaltenc)Gefährdungspotenziale erkennen und Gefährdungsbeurteilungen durchführend)Hochvoltsysteme außer und in Betrieb nehmen |
+| 3 | Arbeiten an Hochvoltsystemen und deren Komponenten durchführen | a)Hochvoltsysteme und deren Komponenten sowie Energiegewinnungsanlagen unter Einhaltung von Vorschriften, insbesondere Normen, und Vorgaben im Rahmen von Aus-, Um- und Nachrüstarbeiten montieren und anschließenb)Prüf-, Mess- und Diagnosearbeiten an Hochvoltsystemen und deren Komponenten, insbesondere unter Spannung, durchführenc)Instandhaltungsarbeiten an Hochvoltsystemen und deren Komponenten, insbesondere unter Spannung, durchführend)Ergebnisse kontrollieren und dokumentieren |

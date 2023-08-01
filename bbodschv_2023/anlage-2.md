@@ -1,0 +1,138 @@
+# Anlage 2 (zu § 10 Absatz 4, § 12 Absatz 3, § 15 Absatz 1 Satz 1 und Absatz 2,§ 24 Absatz 4 Nummer 3, 4 und 5, Absatz 5 und 6 Nummer 1 und 2,Absatz 7 Nummer 2 und 3, Absatz 9 Nummer 2 und Absatz 10 Nummer 2)Prüf- und Maßnahmenwert
+
+Tabelle 1: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme
+| Stoff | Prüfwert bei TOC-Gehalt < 0,5% | Prüfwert bei TOC-Gehalt ≥ 0,5% |
+|  | [µg/l] |
+| Antimon | 10 | 10 |
+| Arsen | 15 | 25 |
+| Blei | 45 | 85 |
+| Bor | 1 000 | 1 000 |
+| Cadmium | 4 | 7,5 |
+| Chromgesamt | 50 | 50 |
+| ChromVI | 8 | 8 |
+| Kobalt | 50 | 125 |
+| Kupfer | 50 | 80 |
+| Molybdän | 70 | 70 |
+| Nickel | 40 | 60 |
+| Quecksilber | 1 | 1 |
+| Selen | 10 | 10 |
+| Zink | 600 | 600 |
+| Cyanidegesamt | 50 | 50 |
+| Cyanidleicht freisetzbar | 10 | 10 |
+| Fluorid | 1 500 | 1 500 |
+Tabelle 2: Prüfwerte für anorganische Stoffe für den Wirkungspfad Boden-Grundwasser im Sickerwasser am Ort der Beurteilung
+| Stoff | Prüfwert |
+|  | [µg/l] |
+| Antimon | 5 |
+| Arsen | 10 |
+| Blei | 10 |
+| Bor | 1 000 |
+| Cadmium | 3 |
+| Chromgesamt | 50 |
+| ChromVI | 8 |
+| Kobalt | 10 |
+| Kupfer | 50 |
+| Molybdän | 35 |
+| Nickel | 20 |
+| Quecksilber | 1 |
+| Selen | 10 |
+| Zink | 600 |
+| Cyanidegesamt | 50 |
+| Cyanideleicht freisetzbar | 10 |
+| Fluorid | 1 500 |
+Tabelle 3: Prüfwerte für organische Stoffe für den Wirkungspfad Boden-Grundwasser am Ort der Probennahme und im Sickerwasser am Ort der Beurteilung
+| Stoff | Prüfwert |
+|  | [µg/l] |
+| Aldrin | 0,03 |
+| Summe alkylierte Benzole (BTEX) | 20 |
+| Benzol | 1 |
+| Summe Chlorbenzole | 2 |
+| Chlorethen (Vinylchlorid) | 0,5 |
+| Summe Chlorphenole | 2 |
+| Hexachlorbenzol (HCB) | 0,1 |
+| Summe Kohlenwasserstoffe | 200 |
+| Summe leichtflüchtige Halogenkohlenwasserstoffe (LHKW) | 20 |
+| Summe Tri- und Tetrachlorethen | 10 |
+| Methyl-tertiär-butylether (MTBE) | 10 |
+| Summe Nonylphenole (=4-Nonylphenol, verzweigt und Nonylphenol-Isomere) | 3 |
+| Pentachlorphenol (PCP) | 0,1 |
+| Phenol | 80 |
+| Summe aus PCB6 und PCB 118 | 0,01 |
+| PAK15 | 0,2 |
+| Naphthalin und Methylnaphthaline | 2 |
+| 2,4-Dinitrotoluol | 0,05 |
+| 2,6-Dinitrotoluol | 0,05 |
+| 2,4,6-Trinitrotoluol (TNT) | 0,2 |
+| 2,2‘, 4,4‘, 6,6‘-Hexanitrodiphenylamin (Hexyl) | 2 |
+| 1,3,5-Trinitro-hexahydro-1,3,5-triazin (Hexogen) | 1 |
+| Nitropenta (Pentaerythrityltetranitrat (PETN)) | 10 |
+| Perfluorbutansäure (PFBA) | 10 |
+| Perfluorhexansäure (PFHxA) | 6 |
+| Perfluoroktansäure (PFOA) | 0,1 |
+| Perfluornonansäure (PFNA) | 0,06 |
+| Perfluorbutansulfonsäure (PFBS) | 6 |
+| Perfluorhexansulfonsäure (PFHxS) | 0,1 |
+| Perfluoroktansulfonsäure (PFOS) | 0,1 |
+Tabelle 4: Prüfwerte für den Wirkungspfad Boden-Mensch
+| Stoff | Kinder- spielflächen | Wohngebiete | Park- und Freizeitanlagen | Industrie- und Gewerbe- grundstücke |
+|  | [mg/kg TM] |
+| Antimon | 50 | 100 | 250 | 250 |
+| Arsen | 25 | 50 | 125 | 140 |
+| Blei | 200 | 400 | 1 000 | 2 000 |
+| Cadmium | 10 | 20 | 50 | 60 |
+| Cyanide | 50 | 50 | 50 | 100 |
+| Chromgesamt | 200 | 400 | 400 | 200 |
+| ChromVI | 130 | 250 | 250 | 130 |
+| Kobalt | 300 | 600 | 600 | 300 |
+| Nickel | 70 | 140 | 350 | 900 |
+| Quecksilber | 10 | 20 | 50 | 100 |
+| Thallium | 5 | 10 | 25 | – |
+| Aldrin | 2 | 4 | 10 | – |
+| 2,4-Dinitrotoluol | 3 | 6 | 15 | 50 |
+| 2,6-Dinitrotoluol | 0,2 | 0,4 | 1 | 5 |
+| DDT (Dichlordiphenyltrichlorethan) | 40 | 80 | 200 | 400 |
+| Hexachlorbenzol | 4 | 8 | 20 | 200 |
+| Hexachlorcyclohexan (HCH-Gemisch oder β-HCH) | 5 | 10 | 25 | 400 |
+| 2,2‘, 4,4‘, 6,6‘-Hexa-nitrodiphenylamin (Hexyl) | 150 | 300 | 750 | 1 500 |
+| 1,3,5-Trinitro-hexahydro-1,3, 5-triazin (Hexogen) | 100 | 200 | 500 | 1 000 |
+| Nitropenta | 500 | 1 000 | 2 500 | 5 000 |
+| Pentachlorphenol | 50 | 100 | 250 | 500 |
+| Polyzyklische Aromatische Kohlenwasserstoffe (PAK16) vertreten durch Benzo(a)pyren | 0,5 | 1 | 1 | 5 |
+| PCB6 | 0,4 | 0,8 | 2 | 40 |
+| 2,4,6 Trinitrotoluol (TNT) | 20 | 40 | 100 | 200 |
+Tabelle 5: Maßnahmenwerte für den Wirkungspfad Boden-Mensch
+| Stoff | Kinderspiel- flächen | Wohngebiete | Park- und Freizeitanlagen | Industrie- und Gewerbe- grundstücke |
+|  | [ng WHO-TEQ/kg TM] |
+| Summe der Dioxine/Furane (PCDD/F) und dl-PCB | 100 | 1 000 | 1 000 | 10 000 |
+Tabelle 6: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität
+| Stoff | Extraktionsverfahren | Prüfwert | Maßnahmenwert |
+|  |  | [mg/kg TM] |
+| Arsen | Königswasser (KW) | 200 | – |
+| Blei | Ammoniumnitrat (AN) | 0,1 | – |
+| Cadmium | AN | – | 0,04/0,1 |
+| Quecksilber | KW | 5 | – |
+| Thallium | AN | 0,1 | – |
+| Benzo(a)pyren | siehe Anlage 3 Tabelle 5 | 1 | – |
+| DDT (Dichlordiphenyl-trichlorethan) | siehe Anlage 3 Tabelle 5 | 1 | – |
+Tabelle 7: Prüf- und Maßnahmenwerte für den Wirkungspfad Boden-Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität
+| Stoff | Extraktionsverfahren | Prüfwert | Maßnahmenwert |
+|  |  | [mg/kg TM] |
+| Arsen | KW | 50 | – |
+| Blei | KW | – | 1 200 |
+| Cadmium | KW | – | 20 |
+| Kupfer | KW | – | 1 300 |
+| Nickel | KW | – | 1 900 |
+| Quecksilber | KW | – | 2 |
+| Thallium | KW | – | 15 |
+| Hexachlorbenzol | siehe Anlage 3 Tabelle 5 | 0,5 | – |
+| Hexachlorcyclohexan, gesamt | siehe Anlage 3 Tabelle 5 | 0,05 | – |
+| PCB6 | siehe Anlage 3 Tabelle 5 | – | 0,2 |
+|  |  | [ng WHO-TEQ/kg TM] |
+| PCDD/F | siehe Anlage 3 Tabelle 5 | 15 | – |
+Tabelle 8: Prüfwerte für den Wirkungspfad Boden-Nutzpflanze auf Ackerflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen
+| Stoff | Extraktionsverfahren | Prüfwert |
+|  |  | [mg/kg TM] |
+| Arsen | Ammoniumnitrat (AN) | 0,4 |
+| Kupfer | AN | 1 |
+| Nickel | AN | 1,5 |
+| Zink | AN | 2 |

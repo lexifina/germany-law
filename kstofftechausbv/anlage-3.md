@@ -1,0 +1,7 @@
+# Anlage 3 (zu § 68 Absatz 2)Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation „Prozessintegration“
+
+| Lfd. Nr. | Teil der Zusatzqualifikation | Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen |
+| 1 | 2 | 3 | 4 |
+| 1 | Analysieren und Planen von digital vernetzten Produktionsprozessen | a)Produktionsprozesse analysierenb)Anpassung der Produktion sowie der Handhabungs-, Transport- oder Identifikationssysteme planenc)Prozessänderungen planen und hinsichtlich vor- und nachgelagerter Bereiche bewerten sowie die Zuständigkeiten im Team abstimmend)Spezifikationen, technische Bestimmungen und betriebliche IT-Richtlinien bei Prozessänderungen beachten | 8 |
+| 2 | Anpassen und Ändern von digital vernetzten Produktionsanlagen | a)geplante Prozessabläufe simulierenb)Auf- und Umbau von Produktionsanlagen und die datentechnische Vernetzung im Team durchführenc)Steuerungsprogramme im Team ändern, testen und optimieren |
+| 3 | Erproben von Produktionsprozessen | a)Produktionsverfahren und Prozessschritte, logistische Abläufe und Fertigungsparameter erprobenb)Gesamtprozess kontrollieren, überwachen und protokollieren und prozessbegleitende Maßnahmen der Qualitätssicherung durchführenc)Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen dokumentierend)Daten des Konfigurations- und Änderungsmanagements pflegen und technische Dokumentationen sicherne)Prozessvorschriften erstellen |
