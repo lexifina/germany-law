@@ -2,7 +2,7 @@
 Abschnitt 1 Begriffe, Aufgaben und Grundsätze
 § 1 Geltungsbereich, Begriffsbestimmungen
 § 2 Aufgaben und Ziele
-§ 3 Angebot
+§ 3 (weggefallen)
 § 4 Wunsch- und Wahlrecht
 § 5 Öffnungszeiten
 § 6 Mitwirkung von Kindern und Erziehungsberechtigten
@@ -20,13 +20,11 @@ Abschnitt 3 Finanzierung
 § 16 Eigenanteil des Trägers
 § 17 Gemeindeanteil
 § 18 Landeszuschuss
-§ 19 Förderung der Integration von Kindern mit Behinderungen
+§ 19 Förderung der Inklusion von Kindern mit Behinderungen
 § 20 Förderung sorbischer Sprache und Kultur
 Abschnitt 4 Qualitätssicherung und -entwicklung
 § 21 Qualitätsentwicklung, Fort- und Weiterbildung, Fachberatung und Qualifikation
 § 22 Evaluation und Weiterentwicklung
 § 22a Monitoring
-Abschnitt 5 In-Kraft-Treten und Außer-Kraft-Treten
-§ 23 Übergangsvorschriften
-§ 24 (aufgehoben)
-§ 25 In-Kraft-Treten
+Abschnitt 5 Übergangsvorschrift
+§ 23 Übergangsvorschrift
