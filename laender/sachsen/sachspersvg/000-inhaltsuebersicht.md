@@ -1,4 +1,3 @@
-## Sächsisches Personalvertretungsgesetz (SächsPersVG)
 # Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
