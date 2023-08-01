@@ -1,0 +1,1 @@
+Auf Grund von Art. 80 Abs. 1 und Art. 88a Abs. 2 Satz 3 des Bayerischen Beamtengesetzes und § 19 des Arbeitszeitgesetzes vom 6. Juni 1994 (BGBl I S. 1170) erläßt die Bayerische Staatsregierung folgende Verordnung:
