@@ -96,4 +96,4 @@
 | Zwölftes Kapitel | Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal....... | §§ 384 bis 395 |
 | Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 396 bis 399 |
 | Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 400 bis 402 |
-| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 423 |
+| Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 422 |

@@ -56,4 +56,4 @@
 | § 36 | (weggefallen) |
 | § 37 | (weggefallen) |
 | § 38 | Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
-| § 39 | Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken |
+|  |  |

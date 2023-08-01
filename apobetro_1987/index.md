@@ -63,4 +63,3 @@ Krankenhausapotheken
 - [§ 36 Ordnungswidrigkeiten](0036.md)
 - [§ 37 Übergangsvorschriften](0037.md)
 - [§ 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0038.md)
-- [§ 39 Übergangsvorschrift zur Verlängerung der erweiterten Austauschmöglichkeiten für Apotheken](0039.md)
