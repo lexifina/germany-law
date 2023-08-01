@@ -1,0 +1,2 @@
+# Art. 77a Erörterung bei leistungsbezogenen Maßnahmen
+Die Gewährung von Leistungsbezügen bzw. Leistungsentgelt und die Ablehnung des leistungsbezogenen Stufenaufstiegs bzw. die leistungsbezogene Verkürzung oder Verlängerung des Stufenaufstiegs sind vor der Durchführung mit dem Personalrat zu erörtern. Hierfür ist er rechtzeitig und auf einem dauerhaften Datenträger unter Beifügung der erforderlichen Unterlagen über die betroffenen Beschäftigten sowie die Höhe und die Dauer der zu gewährenden Beträge zu unterrichten.

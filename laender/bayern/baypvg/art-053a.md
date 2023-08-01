@@ -1,0 +1,4 @@
+# Art. 53a Anfechtung der Wahl der Stufenvertretungen
+(1) Art. 25 gilt für die Wahl der Stufenvertretungen entsprechend.
+(2) Bezieht sich ein Verstoß der in Art. 25 genannten Art nur auf einzelne Dienststellen, so ist sie nur für diesen Bereich für ungültig zu erklären und nach Maßgabe der Entscheidung zu wiederholen. Die Wiederholungswahl findet nach denselben Vorschriften, denselben Wahlvorschlägen und auf Grund derselben Wählerverzeichnisse statt, soweit nicht die Entscheidung hinsichtlich der Wahlvorschläge und Wählerverzeichnisse Abweichungen vorschreibt. Die Wahl soll binnen sechzig Tagen nach Rechtskraft der Entscheidung stattfinden.
+(3) Bis zur Feststellung des Wahlergebnisses auf Grund der Wiederholungswahl führt die Stufenvertretung die Geschäfte weiter. Die vorher gefaßten Beschlüsse bleiben in Kraft.
