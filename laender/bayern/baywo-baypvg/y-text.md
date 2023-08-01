@@ -1,0 +1,1 @@
+Auf Grund des Art. 90 Abs. 2 des Bayerischen Personalvertretungsgesetzes (BayPVG) in der Fassung der Bekanntmachung vom 11. November 1986 (GVBl. S. 349, BayRS 2035-1-F), zuletzt geändert durch Gesetz vom 13. Mai 1995 (GVBl. S. 171), erläßt die Bayerische Staatsregierung folgende Verordnung:
