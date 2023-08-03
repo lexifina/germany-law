@@ -18,8 +18,13 @@
 - [§ 9 Höchstgrenzen](0009.md)
 - [§ 10 Höchstgrenzen bei Schienenbahnen](0010.md)
 - [§ 11 Verfahren der Feststellung der anzuwendenden Höchstgrenzen, Einzelnotifizierung](0011.md)
+- [§ 11a Verfahren der Feststellung der anzuwendenden Höchstgrenzen bei Schienenbahnen](0011a.md)
 - [§ 12 Vorgaben zur Vertragsgestaltung, Abrechnung und Endabrechnung](0012.md)
 - [§ 12a Weitergabe der Entlastung bei Mietverhältnissen, Pachtverhältnissen und Gemeinschaften der Wohnungseigentümer](0012a.md)
+
+## Teil 2a Entlastung für atypische Minderverbräuche
+
+- [§ 12b Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung](0012b.md)
 
 ## Teil 3 Abschöpfung von Überschusserlösen
 
@@ -54,6 +59,7 @@
 - [§ 28 Umfang der Mitteilungspflichten](0028.md)
 - [§ 29 Betreiber von Stromerzeugungsanlagen und verbundene Unternehmen](0029.md)
 - [§ 30 Selbsterklärung von Letztverbrauchern](0030.md)
+- [§ 30a Selbsterklärung von Schienenbahnen](0030a.md)
 - [§ 31 Elektrizitätsversorgungsunternehmen](0031.md)
 - [§ 32 Verteilernetzbetreiber](0032.md)
 - [§ 33 Übertragungsnetzbetreiber](0033.md)
@@ -86,7 +92,7 @@
 - [§ 48b Evaluierung](0048b.md)
 - [§ 49 Auszahlung und Höhe Entlastungsbetrag Januar oder Februar 2023](0049.md)
 - [§ 50 Beihilferechtlicher Genehmigungsvorbehalt](0050.md)
-- [Anlage 1 (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten](anlage-1.md)
+- [Anlage 1 (zu § 2 Nummer 11)Krisenbedingte Energiemehrkosten](anlage-1.md)
 - [Anlage 2 (zu § 9)Besonders von hohen Energiepreisen betroffene Sektoren und Teilsektoren](anlage-2.md)
 - [Anlage 3 (zu § 16 Absatz 1 Nummer 5)Kohlendioxid-Kosten Braunkohle](anlage-3.md)
 - [Anlage 4 (zu § 17 Nummer 1)Absicherungsgeschäfte, die vor dem 1. November 2022 abgeschlossen worden sind](anlage-4.md)

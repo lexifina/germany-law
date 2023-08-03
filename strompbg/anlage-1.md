@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 2 Nummer 6)Krisenbedingte Energiemehrkosten
+# Anlage 1 (zu § 2 Nummer 11)Krisenbedingte Energiemehrkosten
 
 | 1. | Begriffsbestimmungen |
 |  | Im Sinn dieser Anlage ist |

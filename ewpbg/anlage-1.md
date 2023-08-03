@@ -16,5 +16,5 @@
 |  | Die krisenbedingten Energiemehrkosten werden zwischen dem 1. Februar 2022 und dem 31. Dezember 2023 für jeden Kalendermonat in diesem Zeitraum für jeden Energieträger nach folgender Formel berechnet: |
 |  | Februar 2022 – August 2022: kMk(m) = ((p(t(m)) – p(ref(m) * 1,5)) * q(ref)(m)) |
 |  | September 2022 – Dezember 2023: kMk(m) = ((p(t(m)) – p(ref(m) * 1,5)) * (q(ref)(m) * 0,7)) |
-|  | Zur Bestimmung der krisenbedingten Energiemehrkosten im Sinne des § 2 Nummer 6 sind sodann die nach vorstehender Vorgabe ermittelten monatlichen krisenbedingten Energiemehrkosten für jeden Energieträger zu addieren, wobei nur solche Monate addiert werden, in denen (p(t(m)) – p(ref(m)) x 1,5 > 0: |
+|  | Zur Bestimmung der krisenbedingten Energiemehrkosten im Sinne des § 2 Nummer 6 sind sodann die nach vorstehender Vorgabe ermittelten monatlichen krisenbedingten Energiemehrkosten für jeden Energieträger zu addieren, wobei nur solche Monate addiert werden, in denen (p(t(m)) – p(ref(m)) x 1,5 > 0): |
 |  | kMk(g) = kMk(m Feb. 22) + kMk(m März 22) + […] + kMk(m Dez. 23) |

@@ -61,6 +61,10 @@
 - [§ 36 Mitwirkung der Kreditinstitute und der Bundesnetzagentur](0036.md)
 - [§ 37 Prüfungsrecht des Bundesrechnungshofs](0037.md)
 
+## Teil 3a Entlastung für atypische Minderverbräuche
+
+- [§ 37a Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung](0037a.md)
+
 ## Teil 4 Bußgeldvorschriften, Verordnungsermächtigung, Evaluierung
 
 - [§ 38 Bußgeldvorschriften](0038.md)

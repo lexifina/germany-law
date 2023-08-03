@@ -15,8 +15,12 @@ Entlastung der Letztverbraucher
 | § 9 | Höchstgrenzen |
 | § 10 | Höchstgrenzen bei Schienenbahnen |
 | § 11 | Verfahren der Feststellung der anzuwendenden Höchstgrenzen, Einzelnotifizierung |
+| § 11a | Verfahren der Feststellung der anzuwendenden Höchstgrenzen bei Schienenbahnen |
 | § 12 | Vorgaben zur Vertragsgestaltung, Abrechnung und Endabrechnung |
 | § 12a | Weitergabe der Entlastung bei Mietverhältnissen, Pachtverhältnissen und Gemeinschaften der Wohnungseigentümer |
+Teil 2a
+Entlastung für atypische Minderverbräuche
+| § 12b | Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung |
 Teil 3
 Abschöpfung von Überschusserlösen
 | § 13 | Anwendungsbereich |
@@ -49,6 +53,7 @@ Mitteilungspflichten
 | § 28 | Umfang der Mitteilungspflichten |
 | § 29 | Betreiber von Stromerzeugungsanlagen und verbundene Unternehmen |
 | § 30 | Selbsterklärung von Letztverbrauchern |
+| § 30a | Selbsterklärung von Schienenbahnen |
 | § 31 | Elektrizitätsversorgungsunternehmen |
 | § 32 | Verteilernetzbetreiber |
 | § 33 | Übertragungsnetzbetreiber |

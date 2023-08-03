@@ -55,6 +55,9 @@ Erstattung der Entlastungen zugunsten der Lieferanten
 | § 35 | Vorauszahlung und Erstattung für selbstbeschaffte Erdgasmengen |
 | § 36 | Mitwirkung der Kreditinstitute und der Bundesnetzagentur |
 | § 37 | Prüfungsrecht des Bundesrechnungshofs |
+Teil 3a
+Entlastung für atypische Minderverbräuche
+| § 37a | Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigungen |
 Teil 4
 Bußgeldvorschriften,
 Verordnungsermächtigung, Evaluierung
