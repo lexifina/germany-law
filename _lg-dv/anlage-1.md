@@ -1,0 +1,15 @@
+# Anlage 1 (zu §§ 3, 5 und 17)Kontrollbereiche nach § 3
+
+Kontrollbereiche, für die eine Zulassung nach § 3 Satz 2 beantragt wird:
+| 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. |
+| 1. | Kontrollbereich A | Kontrollbereich B | KontrollbereichB-AHV | Kontrollbereich C | Kontrollbereich D | Kontrollbereich E | Kontrollbereich G |
+| 2. | Erzeugung von ökologischen/biologischen oder in Umstellung befindlichen unverarbeiteten Pflanzen und Pflanzenerzeugnissen, einschließlich Saatgut und anderem Pflanzenvermehrungsmaterial | Verarbeitung landwirtschaftlicher ökologischer/biologischer Erzeugnisse, einschließlich Aquakulturerzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind | Kontrolle von Unternehmen im Anwendungsbereich einer aufgrund des § 6 ÖLG erlassenen Rechtsverordnung | Einfuhr von ökologischen/biologischen Erzeugnissen oder Umstellungserzeugnissen aus einem Drittland in die Union | Unterauftragsvergabe | Herstellung von ökologischen/biologischen oder in Umstellung befindlichen Futtermitteln | Gruppenzertifizierung |
+| 3. | Erzeugung von ökologischen/biologischen oder in Umstellung befindlichen Tieren und unverarbeiteten tierischen Erzeugnissen | Herstellung von ökologischen/biologischen oder in Umstellung befindlichen Weinen |  |  |  |  |  |
+| 4. | Erzeugung von ökologischen/biologischen Erzeugnissen nach Anhang I der Verordnung (EU) 2018/848, außer ätherischen Ölen und Hefen |  |
+| 5. | Kontrollbereich AA | Herstellung von ökologischen/biologischen ätherischen Ölen und Hefen nach Anhang I der Verordnung (EU) 2018/848 |  |  |  |  |  |
+| 6. | Erzeugung von ökologischen/biologischen oder in Umstellung befindlichen Algen und unverarbeiteten Aquakulturerzeugnissen |  |
+| 7. | Kontrollbereich AI | Vertrieb/Inverkehrbringen von ökologischen/biologischen Erzeugnissen oder Umstellungserzeugnissen, die vom Unternehmer nicht selbst produziert oder hergestellt werden, einschließlich des Groß-, Einzel- und Online-Handels |  |  |  |  |  |
+| 8. | Erzeugung von ökologischen/biologischen oder in Umstellung befindlichen Erzeugnissen aus der Imkerei |  |
+|  |  |  |
+| 9. |  | Export |  |  |  |  |  |
+| 10. |  | Lagerung von ökologischen/biologischen Erzeugnissen oder Umstellungserzeugnissen, die vom Unternehmer nicht selbst produziert oder hergestellt werden |  |  |  |  |  |
