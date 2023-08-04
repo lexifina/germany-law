@@ -1,8 +1,8 @@
 # Förderrichtlinie LEADER Vollzitat: Förderrichtlinie LEADER
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14206.5
+- Datum: 2023-08-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/20158.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,27 +25,20 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2019
+04.08.2023
 bis
-04.11.2021
+28.11.2024
 
 Förderrichtlinie LEADER
 
-Vollzitat: Förderrichtlinie LEADER vom 15. Dezember 2014 (SächsABl. SDr. 2015 S. S 13), die zuletzt durch die Richtlinie vom 20. Oktober 2021 (SächsABl. S. 1378) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  5. Dezember 2025 (SächsABl. SDr. S. S 286)
+Vollzitat: Förderrichtlinie LEADER vom 12. Juli 2023 (SächsABl. S. 1096), die durch die Richtlinie vom  4. November 2024 (SächsABl. S. 1396) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  5. Dezember 2025 (SächsABl. SDr. S. S 286)
 
 A.
 Zuwendungszweck und Rechtsgrundlagen
 
-Der Freistaat Sachsen gewährt auf der Grundlage des Entwicklungsprogramms für den ländlichen Raum im Freistaat Sachsen (EPLR) in der Förderperiode 2014 - 2020 in der jeweils geltenden Fassung und nach Maßgabe dieser Richtlinie sowie unter Beachtung der in Anlage 1 aufgezählten Bestimmungen der Europäischen Union für den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) Zuwendungen zur Umsetzung von Vorhaben im Rahmen einer LEADER-Entwicklungsstrategie (LES).
+Der Freistaat Sachsen gewährt in der Förderperiode 2023-2027 auf der Grundlage des jeweils geltenden GAP-Strategieplans der Bundesrepublik Deutschland nach Maßgabe dieser Förderrichtlinie sowie unter Beachtung der in Anlage 1 aufgezählten Bestimmungen der Europäischen Union für den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) Zuwendungen für die Entwicklung des ländlichen Raums zur Umsetzung von Vorhaben im Rahmen einer LEADER-Entwicklungsstrategie (LES).
 
-
-Für Vorhaben, die aus dem ELER finanziert werden, finden im Verwaltungsverfahren die
-
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 21. September 2018 (SächsABl. S. 1249) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), keine Anwendung. An deren Stelle treten die nachfolgenden Bestimmungen.
-
-
-Ein Anspruch des Begünstigten auf Gewährung der Zuwendung besteht nicht.
-
+Ein Anspruch der Begünstigten auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 B.
 Voraussetzungen der Förderung
@@ -55,248 +48,232 @@ Allgemeine Voraussetzungen der Förderung
 
 1.
 
+Beginn der Förderfähigkeit der Ausgaben
 
-Vorhabensbeginn und Förderfähigkeit der Ausgaben
+
+Ausgaben, die von den Begünstigten ab dem 1. Januar 2023 gezahlt wurden, kommen für die Förderung in Betracht.
+
+2.
+
+Vorhabenbeginn
+
+
+Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die vor Antragstellung noch nicht begonnen worden sind.
+
+
+Als Vorhabenbeginn gilt der Beginn der Tätigkeiten beziehungsweise der Bauarbeiten für die Investition oder die erste rechtsverbindliche Verpflichtung, die das Vorhaben oder die Tätigkeit unumkehrbar macht. Maßgebend ist der früheste dieser Zeitpunkte. Vorarbeiten und Planungsleistungen (zum Beispiel die Einholung von Genehmigungen und die Erstellung von Durchführbarkeitsstudien) gelten nicht als Beginn der Arbeiten oder der Tätigkeit.
+
+
+Darüber hinaus gelten bei Maßnahmen nach Teil B Ziffer II Nummer 2 bestehende rechtliche Verpflichtungen nicht als Beginn des Vorhabens. Es sind nur diejenigen Ausgaben förderfähig, die entstanden sind, nachdem bei der Bewilligungsbehörde ein Förderantrag gestellt wurde.
+
+3.
+
+Förderfähige Ausgaben
+
+
+Die förderfähigen Ausgaben beziehen sich auf das Vorhaben. Voraussetzung für die Anerkennung ist die Einhaltung der Grundsätze von Wirtschaftlichkeit, Wirksamkeit und Sparsamkeit. Es werden nur Ausgaben anerkannt, die ihrer Höhe nach angemessen sind.
+
+
+Durchführbarkeitsstudien zählen zu den förderfähigen Ausgaben, auch wenn aufgrund ihrer Ergebnisse keine Ausgaben getätigt werden.
+
+
+Die Mehrwertsteuer gehört, soweit sie nicht als Vorsteuer nach nationalem Recht rückerstattet wird, zu den förderfähigen Ausgaben.
+
+
+Rechnungslegungs- und Rechnungsprüfungskosten sind förderfähig, sofern sie direkt mit dem Vorhaben zusammenhängen und für seine Vorbereitung oder Durchführung notwendig sind oder sich auf Auflagen der Bewilligungsbehörde beziehen.
+
+
+Sicherheitsleistungen werden nur dann als förderfähige Ausgabe anerkannt, wenn diese durch eine Bürgschaft eines Kreditinstitutes nachgewiesen oder die Sicherheit durch Hinterlegung von Geld auf ein Sperrkonto einer Bank, über das Begünstigte (Auftraggeber) und Auftragnehmer nur gemeinsam verfügen können, geleistet wird.
+
+
+Soweit die Förderung von Leasing beziehungsweise Mietkauf nicht ausgeschlossen ist, sind Leasingraten förderfähige Ausgaben. Anerkannt werden Ratenzahlungen, soweit diese im Bewilligungszeitraum geleistet werden und die Begünstigten nachweisen können, dass Leasing die kostengünstigste Methode ist, um das Wirtschaftsgut zu nutzen.
+
+
+Ausgaben, die zur Energie- und Ressourceneffizienz beitragen oder durch eine ökologisch nachhaltige Bauweise entstehen, sind förderfähig.
+
+4.
+
+Nicht förderfähige Investitionen
+
+
+Die nicht förderfähigen Investitionen sind der Anlage 3 zu entnehmen.
+
+5.
+
+Förderausschlüsse
+
+
+Die Förderung ist ausgeschlossen, wenn dasselbe Vorhaben bereits mit Mitteln aus dem ELER finanziert wurde und noch einer Zweckbindung unterliegt.
+
+6.
+
+Zuverlässigkeit der Begünstigten
+
+
+Zuwendungen werden nur an zuverlässige Begünstigte gewährt.
+
+
+Die Zuverlässigkeit der Begünstigten ist grundsätzlich anzunehmen, soweit der Behörde im Zeitpunkt der Bewilligung keine tatsächlichen Anhaltspunkte bekannt sind, dass eine ordnungsgemäße Verwendung der Mittel nicht gewährleistet ist.
+
+
+Anhaltspunkte dafür, dass eine Zuverlässigkeit nicht gegeben ist, liegen insbesondere vor, wenn der Bewilligungsbehörde Hinweise vorliegen, dass:
 
 
 a)
 
-
-Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die nicht vor Antragseingang bei der Bewilligungsbehörde begonnen worden sind.
-
-
-Als Beginn des Vorhabens gilt die erste rechtliche Verpflichtung zur Bestellung von Ausrüstung oder Inanspruchnahme von Dienstleistungen oder eine andere Verpflichtung, die das Vorhaben unumkehrbar macht. Nicht als Beginn gelten Vorarbeiten, wie die Einholung von Genehmigungen, die Erstellung von Durchführbarkeitsstudien, Architekten- und Ingenieurleistungen sowie der Erwerb von Grundstücken, es sei denn, sie sind alleiniger Zweck der Zuwendung.
-
-
-Bei Maßnahmen nach Teil B Ziffer II Nummer 4 gelten bestehende rechtliche Verpflichtungen nicht als Beginn des Vorhabens. Es sind nur diejenigen Ausgaben förderfähig, die entstanden sind, nachdem bei der Bewilligungsbehörde ein Förderantrag gestellt wurde.
+gegen die Begünstigten ein strafrechtliches Ermittlungsverfahren wegen des Verdachts des Subventionsbetrugs oder eines anderen Vermögensdelikts anhängig ist,
 
 
 b)
 
-
-Die förderfähigen Ausgaben beziehen sich auf das Vorhaben. Voraussetzung für die Anerkennung ist die Einhaltung der Grundsätze von Wirtschaftlichkeit und Sparsamkeit (angemessene Ausgaben).
+gegen die Begünstigten eine rechtskräftige Verurteilung, Strafbefehl oder Einstellung gegen Auflagen wegen eines Vermögensdelikts erfolgte,
 
 
 c)
 
-
-Durchführbarkeitsstudien zählen selbst dann weiter zu den förderfähigen Ausgaben, wenn aufgrund ihrer Ergebnisse keine Ausgaben getätigt werden.
+gegen die Begünstigten eine Untersagung nach § 35 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 11 des Gesetzes vom 28. Juni 2023 (BGBl. 2023 I Nr. 172) geändert worden ist, vorliegt,
 
 
 d)
 
-
-Die Mehrwertsteuer gehört, soweit sie nicht als Vorsteuer nach nationalem Recht rückerstattet wird, zu den förderfähigen Ausgaben, sofern in dieser Richtlinie keine abweichenden Regelungen getroffen wurden.
+sofern die Begünstigten Träger eines Unternehmens sind, das Unternehmen nicht seinen gesamten Verpflichtungen zur Zahlung von Steuern und Beiträgen zur Sozialversicherung nachgekommen ist,
 
 
 e)
 
+gegen die Begünstigten oder eine juristische Person, an der sie beteiligt sind, ein Antrag auf Durchführung eines Verfahrens nach Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 11 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1166) geändert worden ist, gestellt wurde oder ein solches Verfahren stattfindet,
 
-Investitionen in Anlagen, deren Hauptzweck die Elektrizitätserzeugung aus Biomasse gemäß Artikel 13 Buchstabe d und e der Verordnung (EU) Nr. 807/2014 ist, sowie Anlagen und technische Einrichtungen zur Elektrizitätserzeugung, die durch das Gesetz für den Ausbau erneuerbarer Energien (EEG 2014) oder das Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung (KWKG) begünstigt werden können, sind nicht förderfähig.
 
 f)
 
-
-Investitionen in bauliche Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten liegen, sind grundsätzlich nicht förderfähig. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn für das Vorhaben eine Genehmigung oder Zustimmung der zuständigen unteren Wasserbehörde vorgelegt wird. Zur Information, ob die (geplante) bauliche Anlage in einem Überschwemmungsgebiet (HQ 100) liegt, kann das Geoportal Sachsenatlas unter dem folgenden Link https://geoportal.sachsen.de/cps/index.html?map=225c1d25-c79e-499b-905a-4ab66aee256c genutzt werden.
-
-
-g)
+die ansonsten gegen eine Zuverlässigkeit der Begünstigten sprechen (zum Beispiel Übermittlung eines Verdachts auf Subventionsbetrug an die Staatsanwaltschaft).
 
 
-Abschreibungskosten gemäß Artikel 69 Absatz 2 der Verordnung (EU) Nr. 1303/2013 sind nicht förderfähig.
+Die Zuverlässigkeit ist nicht gegeben, wenn offene Forderungen des Freistaates Sachsen gegen die Begünstigten bestehen. Über Ausnahmen entscheidet die Bewilligungsbehörde.
 
 
-h)
+Ergeben sich nach der Bewilligung tatsächliche Anhaltspunkte, dass eine ordnungsgemäße Verwendung nicht gesichert ist, kann die Zuwendung widerrufen und bereits gezahlte Beträge zurückgefordert werden.
+
+7.
+
+Gesicherte Gesamtfinanzierung
 
 
-Im Falle von Leasing sind gemäß Artikel 13 Buchstabe a der Verordnung (EU) Nr. 807/2014 andere Kosten im Zusammenhang mit dem Leasingvertrag, wie die Gewinnspanne des Leasinggebers, Zinsen der Refinanzierung, Gemeinkosten und Versicherungskosten, keine förderfähigen Ausgaben.
+Zuwendungen werden nur für Vorhaben gewährt, deren Gesamtfinanzierung gesichert ist.
+
+8.
+
+Vermeidung von Überfinanzierung und unzulässiger Kumulierung
 
 
-i)
+Einnahmen sowie Mittel privater und öffentlicher Dritter, die die Begünstigten zweckgebunden und dauerhaft für die Finanzierung des Vorhabens erhalten, sind zur Finanzierung des Vorhabens zu verwenden.
 
 
-Die Ausgaben für gebrauchte Technik und Ausstattung sind nicht förderfähig.
+Einnahmen sowie Mittel privater Dritter (wie zum Beispiel Teilnehmerbeiträge, Spenden, Versicherungsleistungen) und Mittel öffentlicher Dritter, die die einschlägigen Beihilfehöchstintensitäten und Beihilfehöchstbeträge beziehungsweise die Höchstintensitäten und Höchstbeträge der VO (EU) 2021/2115 nicht überschreiten, werden zur Finanzierung des Eigenanteils verwendet.
 
 
-j)
+Mittel öffentlicher Dritter, die die einschlägigen Höchstintensitäten und Höchstbeträge überschreiten, sind vom ELER-Zuschuss abzuziehen.
 
 
-Sachleistungen in Form von Erbringung von Arbeitsleistungen und Bereitstellung von Waren, Dienstleistungen, Grundstücken und Immobilien, für die keine durch Rechnungen oder gleichwertige Belege nachgewiesene Zahlung erfolgt ist (Artikel 61 Absatz 3 der Verordnung [EU] Nr. 1305/2013), sind nicht förderfähig. Dies gilt nicht für die im Zusammenhang mit der Erbringung von Arbeitsleistungen erworbenen Materialen sowie bei der Gewährung von standardisierten Einheitskosten,  Pauschalfinanzierungen oder Pauschalsätzen.
+Die den Eigenanteil überschreitenden Einnahmen sowie Mittel privater und öffentlicher Dritter reduzieren die Zuwendung.
 
 
-k)
+Aus dem ELER finanzierte Ausgaben dürfen nicht Gegenstand einer anderen Finanzierung aus dem Haushalt der Europäischen Union, des Bundes oder des Freistaates Sachsen sein. Andere Finanzierungen derselben Ausgaben führen zur Reduzierung der Zuwendung aus dem ELER.
 
-
-Der Erwerb von unbebauten oder bebauten Grundstücken kann nur im Rahmen eines Gesamtvorhabens gefördert werden. Er ist nur bis zu einem Betrag von 10 Prozent der förderfähigen Gesamtausgaben für das betroffene Vorhaben förderfähig. Bei Brachflächen und ehemals industriell genutzten Flächen mit Gebäuden erhöht sich dieser Grenzwert auf 15 Prozent. Der Wert der Grundstücke oder Immobilien muss von einem unabhängigen qualifizierten Experten oder einer ordnungsgemäß zugelassenen amtlichen Stelle bescheinigt werden.
-
-
-2.
-
+9.
 
 Dauerhaftigkeit (Zweckbindungsfrist)
 
 
-a)
-
-
-Für ein Vorhaben, das Investitionen beinhaltet, beträgt die Zweckbindungsfrist fünf Jahre, sofern nicht nach den Bestimmungen für staatliche Beihilfen ein längerer Zeitraum festzulegen ist. Der Fristlauf beginnt mit dem Tag nach der Endauszahlung an den Begünstigten. Für Anschaffungen geringwertiger Wirtschaftsgüter mit einem Wert bis zu 800 Euro (ohne Mehrwertsteuer) findet die Zweckbindungsfrist von fünf Jahren keine Anwendung.
-
-
-b)
+Für ein Vorhaben, das Investitionen beinhaltet, beträgt die Zweckbindungsfrist fünf Jahre, sofern nicht nach den Bestimmungen für staatliche Beihilfen ein längerer Zeitraum festzulegen ist. Der Fristlauf beginnt mit dem Datum des Schluss- oder Endfestsetzungsbescheides. Für Anschaffungen geringwertiger Wirtschaftsgüter findet die Zweckbindungsfrist von fünf Jahren keine Anwendung.
 
 
 Alle anderen Vorhaben sind von der Anforderung an die Dauerhaftigkeit ausgenommen, sofern sich nicht Anforderungen aus den Bestimmungen für staatliche Beihilfen ergeben. Gleiches gilt für Vorhaben, bei denen eine Dauerhaftigkeit im üblichen Sinne aufgrund des Zuwendungszwecks tatsächlich nicht möglich ist.
 
+10.
 
-3.
+Beachtung von Beihilferecht
 
 
-Zu beachtende Vorschriften/Vereinbarkeit mit sonstigem Recht
+Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt, werden diese nach Maßgabe und unter Einhaltung der Voraussetzungen einer der folgenden beihilferechtlichen Bestimmungen sowie deren Nachfolgebestimmungen in der jeweils geltenden Fassung gewährt:
+
+
+Verordnung (EU) Nr. 651/2014
+
+
+Artikel 60, 61 der Verordnung (EU) 2022/2472
+
+
+Beschluss Nr. 2012/21/EU
+
+
+Verordnung (EU) Nr. 1407/2013
+
+
+Verordnung (EU) Nr. 1408/2013
+
+
+Verordnung (EU) Nr. 360/2012
 
 
 a)
 
+Zuwendungen für Vorhaben, welche die Produktion und den Handel landwirtschaftlicher Erzeugnisse gemäß Artikel 42 des Vertrages über die Arbeitsweise der Europäischen Union zum Gegenstand haben, können auch unmittelbar auf der Grundlage des Artikel 145 Absatz 2 der Verordnung (EU) Nr. 2021/2115 gewährt werden. In diesem Fall ist eine Förderung von maximal 40 Prozent der förderfähigen Gesamtausgaben zulässig. Erfasst werden hiervon auch Vorhaben des Rückbaus, Abbruchs oder der Entsiegelung von Flächen mit einer nachfolgenden Nutzung für die landwirtschaftliche Primärproduktion.
 
-Geltung der Energieeinsparverordnung            
-
-
-Geförderte Investitionen müssen entsprechend Artikel 13 Buchstabe c der Verordnung (EU) Nr. 807/2014 die Anforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, in der jeweils geltenden Fassung, einhalten.            
 
 b)
-
-
-Beihilferecht
-
-
-Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) unter Berücksichtigung der Bekanntmachung der Kommission zum Beihilfebegriff (ABl. C 262 vom 19.7.2016, S. 1) handelt, werden diese nach Maßgabe und unter Einhaltung der Voraussetzungen der folgenden beihilferechtlichen Bestimmungen sowie deren Nachfolgebestimmungen in der jeweils geltenden Fassung gewährt:
-
-
-–
-
-
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65),
-
-
-–
-
-Beschluss Nr. 2012/21/EU der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 106 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3),
-
-
-–
-
-Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1),
-
-
-–
-
-Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9),
-
-
-–
-
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8),
-
-
-–
-
-Rahmenregelung der Bundesregierung zur Unterstützung des Aufbaus einer flächendeckenden NGA-Breitbandversorgung für Vorhaben des Breitbandausbaus
-
-
-Zuwendungen für Vorhaben, welche die Produktion und den Handel landwirtschaftlicher Erzeugnisse gemäß Artikel 42 des Vertrages über die Arbeitsweise
-
-der Europäischen Union zum Gegenstand haben, können auch unmittelbar auf der Grundlage des Artikel 81 Absatz 2 der Verordnung (EU) Nr. 1305/2013 gewährt werden. In diesem Fall ist eine Förderung von maximal 40 Prozent der förderfähigen Gesamtausgaben zulässig. Erfasst werden hiervon auch Vorhaben des Rückbaus, Abbruchs oder der Entsiegelung
-
-von Flächen mit einer nachfolgenden Nutzung für die landwirtschaftliche Primärproduktion.
-
 
 Im Anwendungsbereich der Verordnung (EU) Nr. 651/2014 dürfen keine Beihilfen an Unternehmen gewährt werden, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
 
 
-Transparenzpflichten
-
-
-Jede nach der Verordnung (EU) Nr. 651/2014 gewährte Einzelbeihilfe von über 500 000 Euro wird gemäß Artikel 9 Nummer 1 Buchstabe c in Verbindung mit Anhang III der genannten Verordnung veröffentlicht.
-
-
-Beihilfehöchstintensitäten
-
-
-Die zulässigen Beihilfehöchstintensitäten der im Einzelfall einschlägigen Regelung dürfen nicht überschritten werden.
-
-
 c)
 
-
-Vergaberecht
-
-
-Das Vorhaben muss mit den Vorschriften der Europäischen Union sowie den nationalen Vorschriften über die öffentliche Auftragsvergabe, sofern der Begünstigte zu deren Einhaltung gesetzlich verpflichtet ist, in Einklang stehen.
+Nach der Verordnung (EU) Nr. 651/2014 gewährte Einzelbeihilfen werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der genannten Verordnung veröffentlicht.
 
 
-4.
+d)
+
+Soweit es sich bei Zuwendungen um staatliche Beihilfen im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt und die Förderung auf der Grundlage der Verordnung (EU) Nr. 651/2014 erfolgen soll, sind Unternehmen in Schwierigkeiten von einer Förderung ausgeschlossen.
 
 
-Anforderungen an den Geschäftsplan
+e)
+
+Werden Zuwendungen auf der Grundlage des Art. 60 der Verordnung (EU) 2022/2472 gewährt, gelten die Buchstaben b und d entsprechend.
 
 
-Soweit es sich bei Zuwendungen für investive Vorhaben um staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt, ist ein Geschäftsplan vorzulegen. Ausnahmen bilden Vorhaben zur Vermietung und Verpachtung sowie Vorhaben im Rahmen einer De-minimis-Beihilfe. Dieser Geschäftsplan hat folgende Anforderungen zu erfüllen:
+f)
+
+Ergänzende oder von dieser Richtlinie abweichende Regelungen, die sich aus den jeweils einschlägigen beihilferechtlichen Grundlagen ergeben, sind vorrangig zu beachten.
+
+11.
+
+Einhaltung öffentlicher Vergabevorschriften und Ausschluss von Interessenkonflikten
 
 
-1.
+Das Vorhaben muss mit den Vorschriften der  Union sowie den nationalen Vorschriften über die öffentliche Auftragsvergabe, sofern die Begünstigten als öffentliche Auftraggeber zu deren Einhaltung gesetzlich verpflichtet sind, in Einklang stehen.
 
 
-Erläuterung des Vorhabens und der Geschäftsidee,
+Öffentliche Auftraggeber sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von eindeutigem Interesse ist. Binnenmarktrelevante Aufträge sind öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben.
 
 
-2.
+Für die Personen, die mit der Durchführung der Auftragsvergabe betraut werden, haben die Begünstigten auszuschließen, dass ein Interessenkonflikt vorliegt.
+
+12.
+
+Transparenz
 
 
-Beschreibung des Produkts beziehungsweise der Dienstleistung,
+Bei Vorhaben, die aus Mitteln des ELER finanziert werden, veröffentlicht der Freistaat Sachsen aufgrund von Artikel 98 der Verordnung (EU) 2021/2116 und der Artikel 58 sowie Artikel 59 der Durchführungsverordnung (EU) 2022/128 die Informationen zu Namen und Gemeinde der Begünstigten, gegebenenfalls einschließlich der Informationen über Gruppen, denen die Begünstigten gemäß Artikel 59 Absatz 4 der Verordnung (EU) 2021/2116 angehören, den Vorhabenscode, vorhabensbezogen das spezifische Ziel, Anfangs- und Enddatum, die Beträge für den ELER einschließlich der Kofinanzierung sowie die entsprechenden Gesamtbeträge einschließlich des EU-Gesamtbetrages.
+
+13.
+
+Kommunikations- und Sichtbarkeitsmaßnahmen
 
 
-3.
+Es sind Kommunikations- und Sichtbarkeitsmaßnahmen einzuhalten, um den Beitrag des ELER und somit den Beitrag der EU zur Unterstützung der Vorhaben besser bekannt zu machen.
 
 
-Analyse des Marktes,
-
-
-4.
-
-
-Darstellung der Zielgruppe,
-
-
-5.
-
-
-Marketingstrategien,
-
-
-6.
-
-
-Chancen und Risiken,
-
-
-7.
-
-
-Personalplanung und Umsatzkalkulation,
-
-
-8.
-
-
-Investitionsbedarf und Finanzplanung,
-
-
-9.
-
-
-Darstellung der Wirtschaftlichkeit des geplanten Vorhabens über einen Betrachtungszeitraum von fünf Jahren.
-
-
-Bei Unternehmensneugründungen bedarf es einer Stellungnahme einer zuständigen Kammer oder eines Fachverbandes zur Plausibilität des Geschäftsplanes.
+Die EU behält sich vor, das von den Begünstigten zu erstellende Kommunikations- und Sichtbarkeitsmaterial zu verwenden. Die Begünstigten erteilen im Förderantrag der EU eine unentgeltliche, nichtausschließliche und unwiderrufliche Lizenz zur Nutzung solchen Materials und jedweder damit zusammenhängender bereits bestehender Rechte.
 
 
 II.
@@ -304,205 +281,146 @@ Besondere Voraussetzungen der Förderung
 
 1.
 
-
-Unterstützung für die Vorbereitung einer LEADER-Entwicklungsstrategie (LES)
-
-
-Das Förderangebot umfasst den Aufbau von Kapazitäten, die Schulung und die Vernetzung zur Vorbereitung einer LES gemäß Artikel 35 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1303/2013. Pilotvorhaben werden nicht angeboten.
-
+Durchführung der Vorhaben im Rahmen der LEADER-Entwicklungsstrategie (LES)
 
 1.1
 
-
-Begünstigte
-
-
-Begünstigte sind lokale Gemeinschaften.
+Art der Vorhaben
 
 
-1.2
-
-
-Förderfähige Ausgaben
-
-
-Über die in Teil B Ziffer I Nummer 1 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
+Unterstützt werden investive und nicht investive Vorhaben, die im Einklang mit den allgemeinen Regeln der Verordnungen (EU) Nr. 2021/1060 und (EU) Nr. 2021/2115 und den Zielen des GAP-Strategieplanes 2023-2027 stehen sowie der Durchführung von Vorhaben
 
 
 a)
 
-
-Kosten für Schulungsmaßnahmen für lokale Interessensgruppen,
+im Rahmen der LES oder
 
 
 b)
 
+für gebietsübergreifende und transnationale Kooperationen in den Lokalen Aktionsgruppen (LAG) und deren Vorbereitung dienen.
 
-Kosten für Studien über das betreffende Gebiet,
+1.2
+
+Art der Unterstützung
+
+
+a)
+
+Die Zuwendung wird in Form der Anteilsfinanzierung als Zuschuss gewährt.
+
+
+b)
+
+Die Bemessung der Zuwendung erfolgt auf der Grundlage der von der Bewilligungsbehörde als förderfähig anerkannten Ausgaben. Bei Mischnutzungen von Gebäuden erfolgt die Bestimmung der förderfähigen Ausgaben bei Anteilsfinanzierung für alle Vorhabenbestandteile grundsätzlich anhand der prozentualen Nutzflächenanteile.
 
 
 c)
 
-
-Kosten im Zusammenhang mit der Ausarbeitung der LES,
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden Zuschüsse in Form der Erstattung tatsächlich entstandener förderfähiger Ausgaben der Begünstigten gewährt, sofern nicht eine der nachfolgenden Vereinfachten Kostenoptionen gemäß Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 anwendbar ist.
 
 
 d)
 
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 sind für Vorhaben, bei welchen es sich um eine Umnutzung oder vollständige Sanierung von Gebäuden mit umfassendem Eingriff in die Bausubstanz handelt und im Ergebnis ein beheizbarer Massivbau entsteht, Zuschüsse pauschal zu gewähren. Die Bestimmung der förderfähigen Ausgaben erfolgt auf Grundlage von Einheitskosten für Gebäude.
 
-Beratungskosten und Kosten für Vorhaben im Zusammenhang mit der Konsultation von Interessengruppen zur Vorbereitung der Strategie,
+
+Aktuelle Informationen zur Höhe der Einheitskosten Gebäude sind im Antragsportal unter https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html verfügbar.
 
 
 e)
 
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden die förderfähigen Ausgaben bei direkten Personalkosten auf Grundlage von Einheitskosten festgelegt. Die direkten Personalkosten umfassen alle Ausgaben im Zusammenhang mit Löhnen und Gehältern für bei den Begünstigten beschäftigtes Personal.
 
-administrative Kosten (Betriebs- und Personalkosten) einer Organisation, die vorbereitende Unterstützung während der Vorbereitungsphase beantragt.
+
+Aktuelle Informationen zur Höhe der Einheitskosten Personal sind im Antragsportal unter https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html verfügbar.
 
 
-Nicht förderfähig sind Kosten für ein LEADER-Start-up-Kit gemäß Artikel 43 der Verordnung (EU) Nr. 1305/2013 sowie Kosten für die Unterstützung kleiner Pilotprojekte nach Artikel 35 Absatz 1 Buchstabe a) v) der Verordnung (EU) Nr. 1303/2013.
+Bis zur Veröffentlichung der Kostensätze der Einheitskosten Personal werden die Zuschüsse in Form der Erstattung tatsächlich entstandener förderfähiger Ausgaben der Begünstigten gewährt.
 
+
+f)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden bei nicht investiven Vorhaben indirekte Kosten als Pauschalsatz in Höhe von 15 Prozent der förderfähigen direkten Personalkosten gemäß Ziffer II Nummer 1.2 Buchstabe e gewährt, wenn keine weiteren Ausgaben für das Vorhaben entstehen oder die Anwendung des Pauschalsatzes nach Buchstabe g ausgeschlossen ist. Wenn der Pauschalsatz nach Ziffer II Nummer 1.2 Buchstabe g nicht anwendbar ist, können zusätzlich zum Pauschalsatz der indirekten Kosten weitere Ausgaben im Erstattungsverfahren anerkannt werden. Indirekte Kosten sind Ausgaben für Raummiete einschließlich Nebenkosten, Telefongebühren, Internetgebühren, Büromaterialien, Vervielfältigungen, Papier- und Druckerkosten, Porto, Bewirtungskosten, Versicherungen, Reisekosten. Entsprechende Leistungen sind dann nicht den indirekten Kosten zuzurechnen, wenn diese über den normalen Geschäftsbetrieb hinausgehen und in Form von Ausgaben für Leistungen durch Dritte (zum Beispiel Raummiete für Veranstaltungen, Druckereikosten für Veröffentlichungen und so weiter) anfallen.
+
+
+g)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden bei nicht investiven Vorhaben mit direkten förderfähigen Personalkosten alle übrigen förderfähigen Ausgaben und Kosten (Restkosten) als Pauschalsatz in Höhe von 40 Prozent der direkten förderfähigen Personalkosten gemäß Ziffer II Nummer 1.2 Buchstabe e gewährt. Preisgelder im Rahmen von Wettbewerben zur Umsetzung der LES, die an Teilnehmer ausgezahlt werden, sind nicht im Pauschalsatz enthalten und können als zusätzliche förderfähige Kosten anerkannt werden. Die Anwendung des Pauschalsatzes ist nicht möglich für Personalausgaben, die Gegenstand einer Auftragsvergabe an Dritte sind oder das Vorhaben überwiegend Ausgaben für Auftragsvergaben an Dritte enthält.
 
 1.3
-
-
-Förderkriterien
-
-
-Folgende Förderkriterien sind zu erfüllen:
-
-
-a)
-
-
-Die lokale Gemeinschaft ist noch nicht für die Förderperiode 2014 - 2020 als LEADER-Gebiet anerkannt.
-
-
-b)
-
-
-Abgabe einer Erklärung und Begründung des Begünstigten, dass das Vorhaben den Zielen des ELER und des EPLR dient.
-
-
-1.4
-
-
-Verpflichtungen
-
-
-Die lokale Gemeinschaft nimmt am Bewerbungsverfahren zur Anerkennung der LES teil.
-
-
-1.5
-
-
-Beträge und Höhe der Förderung
-
-
-Die Höhe der Förderung beträgt 80 Prozent der förderfähigen Gesamtausgaben. Zuwendungen unter 500 Euro je Vorhaben (Förderantrag) werden nicht gewährt.
-
-
-2.
-
-
-Durchführung der Vorhaben im Rahmen der LES
-
-
-Unterstützt werden Vorhaben, die im Einklang mit den allgemeinen Regeln der Verordnungen (EU) Nr. 1303/2013 und (EU) Nr. 1305/2013 und den Zielen des EPLR 2014 - 2020 stehen sowie der Umsetzung der LES dienen.
-
-
-2.1
-
 
 Begünstigte
 
 
-Begünstigte können natürliche und juristische Personen des privaten und öffentlichen Rechts sowie rechtsfähige Personengesellschaften einschließlich der Lokalen Aktionsgruppen (LAG) sein.
+Begünstigte können natürliche und juristische Personen des privaten und öffentlichen Rechts sowie rechtsfähige Personengesellschaften einschließlich der LAG sein.
 
 
-2.2
+Bei der Vorbereitung von Kooperationsvorhaben nach Teil B Ziffer II Nummer 1.1 Buchstabe b können ausschließlich sächsische LAG Begünstigte sein.
 
+1.4
 
 Förderfähige Ausgaben
 
 
-2.2.1
-
+a)
 
 Für investive Vorhaben sind folgende Ausgaben förderfähig:
 
 
-Über die in Teil B Ziffer I Nummer 1 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
+Über die in Teil B Ziffer I Nummer 3 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
 
 
-a)
+aa)
+
+Errichtung, Erwerb, einschließlich Leasing oder Modernisierung von unbeweglichem Vermögen einschließlich Tiefbauleistungen im Rahmen der Mitverlegung weiterer Netzinfrastrukturen bei Investitionen in die Verkehrsinfrastruktur
 
 
-Errichtung, Erwerb, einschließlich Leasing oder Modernisierung von unbeweglichem Vermögen einschließlich Tiefbauleistungen im Rahmen der Mitverlegung weiterer Netzinfrastrukturen bei Investitionen in die Verkehrsinfrastruktur,
+bb)
+
+Modernisierung beweglicher Gegenstände, soweit hiermit eine Weiterentwicklung verbunden ist, die den Zielen der LES dient (bloße Reparaturen, Instandhaltungen oder Aufbereitungen ohne Weiterentwicklung sind ausgeschlossen),
 
 
-b)
-
+cc)
 
 Kauf oder Leasingkauf neuer Maschinen und Ausstattung,
 
 
-c)
+dd)
+
+allgemeine Ausgaben etwa für Architekten- und Ingenieurleistungen und Beratung sowie für Beratung zu ökologischer Nachhaltigkeit und wirtschaftlicher Tragfähigkeit, einschließlich Durchführbarkeitsstudien und
 
 
-allgemeine Kosten etwa für Architekten- und Ingenieurleistungen und Beratung sowie für Beratung zu ökologischer Nachhaltigkeit und wirtschaftlicher Tragfähigkeit, einschließlich Durchführbarkeitsstudien,
+ee)
 
-
-d)
-
-
-immaterielle Investitionen, wie Erwerb oder Entwicklung von Computersoftware und Kauf von Patenten, Lizenzen, Copyrights, Marken,
-
-
-e)
-
-
-Kosten der Finanzierung der Wirtschaftlichkeitslücke beim Ausbau einer NGA-Breitbandversorgung.
-
-
-2.2.2
-
-
-Für nicht investive Vorhaben mit laufenden Kosten sind folgende Ausgaben förderfähig:
-Über die in Teil B Ziffer I Nummer 1 der Richtlinie geregelten Grundsätze hinaus, gelten folgende Ausgaben als förderfähig:
-
-
-a)
-
-
-Betriebs-, Personal-, Schulungskosten,
+immaterielle Investitionen, wie Erwerb oder Entwicklung von Computersoftware und Kauf von Patenten, Lizenzen, Copyrights, Marken.
 
 
 b)
 
+Für nicht investive Vorhaben mit laufenden Kosten gelten, über die in Teil B Ziffer I Nummer 3 der Richtlinie geregelten Grundsätze hinaus, folgende Ausgaben als förderfähig:
+
+
+aa)
+
+Betriebs-, Personal-, Schulungskosten,
+
+
+bb)
 
 Kosten im Zusammenhang mit Öffentlichkeitsarbeit,
 
 
-c)
+cc)
+
+Netzwerkkosten und
 
 
-Netzwerkkosten,
+dd)
 
+Studien, sofern sie mit einem bestimmten Vorhaben im Rahmen des GAP-Strategieplanes 2023-2027 oder dessen Zielen verbunden sind. Durchführbarkeitsstudien zählen zu den förderfähigen Ausgaben, auch wenn aufgrund ihrer Ergebnisse keine Ausgaben getätigt werden.
 
-d)
-
-
-Studien, sofern sie mit einem bestimmten Vorhaben im Rahmen des EPLR 2014 - 2020 oder dessen Zielen verbunden sind.
-
-
-2.2.3
-
-
-Für Vorhaben, die staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union darstellen, sind die Regelungen unter Teil B Ziffer I Nummer 3 Buchstabe b zu beachten.
-
-
-2.3
-
+1.5
 
 Förderkriterien
 
@@ -512,474 +430,236 @@ Folgende Förderkriterien sind zu erfüllen:
 
 a)
 
+Der räumliche Geltungsbereich ist das ländliche Gebiet des Freistaates Sachsen. Zum ländlichen Gebiet gehören Gemeinden mit bis zu 100.000 Einwohnern. Die Gemeindegebiete der Städte Chemnitz, Dresden und Leipzig gehören nicht zum ländlichen Gebiet.
 
-positiver Beschluss des Entscheidungsgremiums der LAG zur Auswahl des Vorhabens; sofern die LAG selbst Begünstigte ist, reicht die Dokumentation der Anwendung der Auswahlkriterien der LES,
+
+aa)
+
+Innerhalb des ländlichen Gebietes sind investive Vorhaben in städtebaulich eigenständigen Orten bis 5.000 Einwohner als Teile einer Gemeinde in LEADER-Gebieten förderfähig. Vorhaben der linienhaften Infrastruktur sind auch förderfähig, sofern der überwiegende Anteil des Vorhabens innerhalb des räumlichen Geltungsbereiches für investive Vorhaben liegt und der untergeordnete Teil im ländlichen Gebiet liegt und einem LEADER-Gebiet angehört.
+
+
+bb)
+
+Nicht investive Vorhaben sind innerhalb des ländlichen Gebietes förderfähig.
+
+
+Förderfähige Orte sind in der Liste der förderfähigen Orte nach diesen Kriterien abgebildet. Maßgeblich ist die Einwohnerzahl zum 30. Juni 2021. Die Liste der förderfähigen Orte behält ihre Gültigkeit für den Geltungszeitraum dieser Richtlinie. Die Liste ist im Internet unter der Adresse https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html veröffentlicht.
 
 
 b)
 
+Zuwendungen für bauliche Investitionen dürfen nur dem Eigentümer oder Erbbauberechtigten gewährt werden. Ist der Erwerb von Grundstücken Bestandteil des Vorhabens, hat der Nachweis der Eigentumsübertragung bis zur ersten Auszahlung zu erfolgen.
 
-Erklärung und Begründung der LAG, dass das Vorhaben den Zielen des EPLR 2014 - 2020 und den Zielen der LES dient und einen Mehrwert im Verhältnis zu Standardmaßnahmen des EPLR 2014 - 2020 aufweist,
+
+Ist eine Gebietskörperschaft oder Religionsgesellschaft, die eine Körperschaft des öffentlichen Rechts gemäß Artikel 140 des Grundgesetzes in Verbindung mit Artikel 137 der Weimarer Verfassung ist, Eigentümerin eines Grundstückes, kann eine Förderung auch für Nutzungsberechtigte des Grundstücks erfolgen (zum Beispiel durch Miet- oder Pachtvertrag), wenn die Nutzungsberechtigung mindestens bis zum Ende der Zweckbindungsfrist nach Teil B Ziffer I Nummer 9 gegeben ist und keine Beschränkungen enthält, welche der Umsetzung des Vorhabens und der Gewährleistung des Zuwendungszwecks entgegenstehen. Zudem muss das Recht zur ordentlichen Kündigung für den Zeitraum der Zweckbindungsfrist ausgeschlossen sein und eine Zustimmung des Grundstückseigentümers zum Fördervorhaben vorliegen.
+
+
+Ebenso wird anstelle des Eigentumsnachweises eine unwiderrufliche Planvereinbarung in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz anerkannt. Aus dieser muss hervorgehen, dass die Begünstigten mit dem Flurbereinigungs-/Tauschplan das Eigentum der betreffenden Fläche erhalten werden. Bei Straßen- und Wegebauvorhaben ist der Nachweis der dauerhaften rechtlichen Sicherung durch öffentliche Widmung zu erbringen. Bei Rad- und Wanderwegen im Wald sowie bei Leitungsnetzen und Beschilderungen ist der Nachweis der allgemeinen Verfügungsberechtigung (zum Beispiel Gestattungsverträge) ausreichend.
 
 
 c)
 
-
-Begründung der LAG zur Festlegung der Höhe der Finanzmittel gemäß Artikel 34 Absatz 3 Buchstabe f der Verordnung (EU) Nr. 1303/2013,
-
-
-d)
+Unterlagen zum Vorhaben sind
 
 
-plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung des Begünstigten, unter Berücksichtigung der Stellungnahmen gemäß Buchstabe e und g,
+aa)
+
+positiver Beschluss des Entscheidungsgremiums der LAG zur Auswahl des Vorhabens; dies gilt auch, wenn die LAG selbst Begünstigte ist,
 
 
-e)
+bb)
 
+Erklärung und Begründung der LAG, dass das Vorhaben den Zielen des GAP-Strategieplanes und den Zielen der LES dient und einen LEADER-Mehrwert aufweist,
+
+
+cc)
+
+Begründung der LAG zur Festlegung der Höhe der Finanzmittel gemäß Artikel 33 Absatz 3 Buchstabe d der Verordnung (EU) Nr.  2021/1060,
+
+
+dd)
+
+plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung der Begünstigten, unter Berücksichtigung der Stellungnahmen gemäß Buchstaben ee und ff,
+
+
+ee)
 
 Stellungnahme des jeweiligen Planungsträgers für Vorhaben, die einer öffentlichen Bedarfsplanung unterliegen,
 
 
-f)
+ff)
+
+Bestätigung der zuständigen Fachstelle zur Bestandssicherheit bei öffentlichen Bildungseinrichtungen.
 
 
-Bestätigung der zuständigen Fachstelle zur Bestandssicherheit bei öffentlichen Bildungseinrichtungen,
+Zusätzlich für Kooperationsvorhaben (Teil B Ziffer II Nummer 1.1 Buchstabe b):
 
 
-g)
+gg)
+
+Bei Vorbereitungen von Kooperationen: Beschreibung des mit der Kooperation beabsichtigten Vorhabens,
 
 
-Stellungnahme zur Integration des Vorhabens in die Destinationsstrategie der zuständigen Destinationsmanagementorganisation (DMO) bei touristischen Vorhaben.
+hh)
+
+Vorlage der Kooperationsvereinbarung in der ein federführender Partner festgelegt ist oder bei Vorhaben zur Vorbereitung einer Kooperation eine gemeinsame Erklärung der (mindestens zwei) Kooperationspartner zur angestrebten Zusammenarbeit sowie
 
 
-2.4
+ii)
 
+Nachweis oder Erklärung des jeweiligen Kooperationspartners, dass er:
+
+
+•
+
+eine LAG oder
+
+
+•
+
+eine Gruppe ist, welche aus lokalen öffentlichen und privaten Partnern besteht, die eine der LES vergleichbare Strategie im ländlichen Gebiet innerhalb oder außerhalb der Europäischen Union umsetzt,
+
+
+•
+
+eine Gruppe ist, welche aus lokalen öffentlichen und privaten Partnern besteht, die eine der LES vergleichbare Strategie in einem nicht ländlichen Gebiet innerhalb der Europäischen Union umsetzt.
+
+1.6
+
+Verpflichtungen
+
+
+a)
+
+Die Begünstigten müssen spätestens mit dem ersten Auszahlungsantrag die für die Durchführung des Vorhabens notwendigen öffentlich-rechtlichen Genehmigungen vorlegen. Die Bewilligungsbehörde kann diese auch zu einem früheren Zeitpunkt des Verfahrens fordern.
+
+
+b)
+
+Mit dem letzten Auszahlungsantrag müssen die Begünstigten erklären, dass die Vorgaben aus den öffentlich-rechtlichen Genehmigungen eingehalten wurden.
+
+
+c)
+
+Die Begünstigten haben nach Aufforderung der Bewilligungsbehörde weitere entscheidungsrelevante Unterlagen vorzulegen. Die Nachweise zur Erfüllung der Fördervoraussetzungen obliegen den Begünstigten.
+
+1.7
 
 Beträge und Höhe der Förderung
 
 
-2.4.1
-
-
-Die Höhe der Förderung wird von der LAG in der LES bestimmt. Die Förderhöhe beträgt:
-
-
 a)
 
-
-100 Prozent bei kommunalen Begünstigten, wobei hierbei die öffentlichen Ausgaben erfasst sind (EU-Mittel und kommunaler Eigenanteil, der als nationale Kofinanzierung anerkannt wird). Der kommunale Eigenanteil, der als nationale Kofinanzierung anerkannt wird, beträgt 20 Prozent der öffentlichen Ausgaben. Die Höhe der Mittel die kommunalen Begünstigten zukommen kann, beträgt damit bis zu 80 Prozent der förderfähigen Gesamtausgaben,
-
-
-b)
-
-
-bis zu 80 Prozent der förderfähigen Gesamtausgaben für Vorhaben der LAG,
-
-
-c)
-
-
-bis zu 100 Prozent der förderfähigen Gesamtausgaben für andere Begünstigte.
-
-
-2.4.2
-
-
-Zuwendungen unter 5 000 Euro werden nicht gewährt. Die Zusammenfassung mehrerer Vorhaben zu einem Antrag stellt keine Umgehung dieser Untergrenze dar.
-
-
-2.4.3
-
-
-Für Vorhaben, die staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union darstellen, sind die Regelungen unter Teil B Ziffer I Nummer 3 Buchstabe b zu beachten.
-
-
-3.
-
-
-Vorhaben für gebietsübergreifende und transnationale Kooperationen in den Lokalen Aktionsgruppen (LAG)
-
-
-Kooperationsvorhaben bedienen einen Entwicklungsbedarf aus den LES, der ohne eine Kooperation mit Partnern außerhalb des LEADER-Gebietes nicht befriedigt werden kann.
-
-
-a)
-
-
-Gefördert wird die Vorbereitung sowie die Durchführung gebietsübergreifender und transnationaler Kooperationsvorhaben gemäß Artikel 35 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1303/2013 in Verbindung mit Artikel 44 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr. 1305/2013.
-
-
-b)
-
-
-Kooperationspartner können sein:
+Die Höhe der Förderung wird von der LAG in der LES bestimmt und reicht von mindestens 20 Prozent bis höchstens:
 
 
 aa)
 
-
-LAG,
+95 Prozent der förderfähigen Gesamtausgaben für nicht kommunale Begünstigte,
 
 
 bb)
 
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem ländlichen Gebiet, die eine LES innerhalb oder außerhalb der Europäischen Union umsetzt,
+80 Prozent der förderfähigen Gesamtausgaben bei kommunalen Begünstigten,
 
 
 cc)
 
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem nicht ländlichen Gebiet, die eine LES umsetzt.
-
-
-3.1
-
-
-Begünstigte
-
-
-3.1.1
-
-
-Bei der Vorbereitung von Kooperationsvorhaben können ausschließlich sächsische LAG Begünstigte sein.
-
-
-3.1.2
-
-
-Bei der Durchführung von Kooperationsvorhaben können natürliche und juristische Personen des privaten und öffentlichen Rechts sowie rechtsfähige Personengesellschaften Begünstigte sein. LAG sind zugelassen.
-
-
-3.2
-
-
-Förderfähige Ausgaben
-
-
-3.2.1
-
-
-Über die in Teil B Ziffer I Nummer 1 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
-
-
-a)
-
-
-laufende Kosten wie Betriebs-, Personal-, Schulungskosten,
+für wirtschaftliche Vorhaben liegt der maximale Fördersatz bei 65 Prozent, sofern diese keine Basisdienstleistungen laut Ziffer 4.7.3 des GAP-Strategieplans Deutschland sind.
 
 
 b)
 
-
-Kosten im Zusammenhang mit Öffentlichkeitsarbeit,
-
-
-c)
+Zuwendungen unter 5 000 Euro werden zum Zeitpunkt der Bewilligung nicht gewährt. Bei Vorhaben zur Vorbereitung einer Kooperation liegt die Untergrenze bei 500 Euro.
 
 
-Netzwerkkosten,
-
-
-d)
-
-
-Studien, sofern sie mit einem bestimmten Vorhaben im Rahmen des EPLR oder dessen Zielen verbunden sind.
-
-
-3.2.2
-
-
-Zusätzlich sind für gebietsübergreifende und transnationale Kooperationsvorhaben folgende Ausgaben förderfähig:
-
-
-a)
-
-
-Errichtung, Erwerb, einschließlich Leasing oder Modernisierung von unbeweglichem Vermögen einschließlich Tiefbauleistungen im Rahmen der Mitverlegung weiterer Netzinfrastrukturen bei Investitionen in die Verkehrsinfrastruktur,
-
-
-b)
-
-
-Kauf oder Leasingkauf neuer Maschinen und Ausstattung,
+Die Zusammenfassung mehrerer Vorhaben zu einem Antrag stellt keine Umgehung dieser Untergrenze dar.
 
 
 c)
 
+Die Zuwendung aus EU-Mitteln für ein unterstütztes Einzelprojekt der LAG darf grundsätzlich nicht mehr als 20 Prozent des Gesamtbudgets der LAG betragen. Ausnahmen von der vorgenannten Obergrenze sind nur mit Genehmigung des Staatsministeriums für Regionalentwicklung möglich, wenn bei der Projektauswahl eine Konzentration der Budgetmittel auf einige wenige Großprojekte vermieden wird.
 
-allgemeine Kosten etwa für Architekten- und Ingenieurleistungen und Beratung sowie für Beratung zu ökologischer Nachhaltigkeit und wirtschaftlicher Tragfähigkeit, einschließlich Durchführbarkeitsstudien,
-
-
-d)
-
-
-immaterielle Investitionen, wie Erwerb oder Entwicklung von Computersoftware und Kauf von Patenten, Lizenzen, Copyrights, Marken,
-
-
-e)
-
-
-Kosten der Finanzierung der Wirtschaftlichkeitslücke beim Ausbau einer NGA-Breitbandversorgung.
-
-
-3.2.3
-
-
-Für Vorhaben, die staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union darstellen, sind die Regelungen unter Teil B Ziffer I Nummer 3 Buchstabe b zu beachten.
-
-
-3.3
-
-
-Förderkriterien
-
-
-3.3.1
-
-
-Folgende Förderkriterien sind bei der Vorbereitung von Kooperationsvorhaben zu erfüllen:
-
-
-a)
-
-
-Beschreibung des mit der Kooperation beabsichtigten Vorhabens,
-
-
-b)
-
-
-Erklärung der Partner zur angestrebten Kooperation mit mindestens zwei Partnern,
-
-
-c)
-
-
-Dokumentation zur Anwendung der Auswahlkriterien der LES,
-
-
-d)
-
-
-Erklärung und Begründung der LAG, dass das Vorhaben den Zielen des EPLR 2014 - 2020 und den Zielen der LES dient und einen Mehrwert im Verhältnis zu Standardmaßnahmen des EPLR 2014 - 2020 aufweist,
-
-
-e)
-
-
-Begründung der LAG zur Festlegung der Höhe der Finanzmittel gemäß Artikel 34 Absatz 3 Buchstabe f der Verordnung (EU) Nr. 1303/2013,
-
-
-f)
-
-
-plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung des Begünstigten,
-
-
-g)
-
-
-Nachweis oder Erklärung des jeweiligen Partners, dass er
-
-
-aa)
-
-
-eine andere LAG oder
-
-
-bb)
-
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem ländlichen Gebiet, die eine LES innerhalb oder außerhalb der Europäischen Union umsetzt, oder
-
-
-cc)
-
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem nichtländlichen Gebiet, die eine LES umsetzt, ist.
-
-
-3.3.2
-
-
-Bei der Durchführung von Kooperationsvorhaben sind folgende Förderkriterien zu erfüllen:
-
-
-a)
-
-
-Beschreibung des mit der Kooperation beabsichtigten Vorhabens,
-
-
-b)
-
-
-Vorlage der Kooperationsvereinbarung,
-
-
-c)
-
-
-positiver Beschluss des Entscheidungsgremiums der LAG zur Auswahl des Vorhabens; sofern die LAG selbst Begünstigte ist, reicht die Dokumentation der Anwendung der Auswahlkriterien der LES,
-
-
-d)
-
-
-Erklärung und Begründung der LAG, dass das Vorhaben den Zielen des EPLR 2014 - 2020 und den Zielen der LES dient und einen Mehrwert im Verhältnis zu Standardmaßnahmen des EPLR 2014 - 2020 aufweist,
-
-
-e)
-
-
-Begründung der LAG zur Festlegung der Höhe der Finanzmittel gemäß Artikel 34 Absatz 3 Buchstabe f der Verordnung (EU) Nr. 1303/2013,
-
-
-f)
-
-
-plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung des Begünstigten, unter Berücksichtigung der Stellungnahmen gemäß Buchstaben g und i,
-
-
-g)
-
-
-Stellungnahme des jeweiligen Planungsträgers für Vorhaben, für die eine öffentliche Bedarfsplanung erfolgt,
-
-
-h)
-
-
-Bestätigung der zuständigen Fachstelle zur Bestandssicherheit bei öffentlichen Bildungseinrichtungen,
-
-
-i)
-
-
-Stellungnahme zur Integration des Vorhabens in die Destinationsstrategie der zuständigen DMO bei touristischen Vorhaben,
-
-
-j)
-
-
-Nachweis oder Erklärung des jeweiligen Partners, dass er
-
-
-aa)
-
-
-eine andere LAG oder
-
-
-bb)
-
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem ländlichen Gebiet, die eine lokale Entwicklungsstrategie innerhalb oder außerhalb der Europäischen Union umsetzt, oder
-
-
-cc)
-
-
-eine Gruppe aus lokalen öffentlichen und privaten Partnern in einem nichtländlichen Gebiet, die eine lokale Entwicklungsstrategie umsetzt, ist.
-
-
-3.4
-
-
-Beträge und Höhe der Förderung
-
-
-3.4.1
-
-
-Die Höhe der Förderung wird von der LAG in der LES bestimmt. Die Förderhöhe beträgt:
-
-
-a)
-
-
-100 Prozent bei kommunalen Begünstigten, wobei hierbei die öffentlichen Ausgaben erfasst sind (EU-Mittel und kommunaler Eigenanteil, der als nationale Kofinanzierung anerkannt wird). Der kommunale Eigenanteil, der als nationale Kofinanzierung anerkannt wird, beträgt 20 Prozent der öffentlichen Ausgaben. Die Höhe der Mittel, die kommunalen Begünstigten zukommen kann, beträgt damit bis zu 80 Prozent der förderfähigen Gesamtausgaben,
-
-
-b)
-
-
-bis zu 80 Prozent der förderfähigen Gesamtausgaben für Vorhaben der LAG,
-
-
-c)
-
-
-bis zu 100 Prozent der förderfähigen Gesamtausgaben für andere Begünstigte.
-
-
-3.4.2
-
-
-Zuwendungen unter 500 Euro je Vorhaben (Förderantrag) werden nicht gewährt. Die Zusammenfassung mehrerer Vorhaben zu einem Antrag stellt keine Umgehung dieser Untergrenze dar.
-
-
-3.4.3
-
-
-Für Vorhaben, die staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union darstellen, sind die Regelungen unter Teil B Ziffer I Nummer 3 Buchstabe b zu beachten.
-
-
-4.
-
+2.
 
 Mit der Verwaltung der Durchführung der LES verbundene laufende Kosten und Sensibilisierung
 
+2.1
+
+Art der Vorhaben
+
 
 a)
-
 
 Gefördert werden insbesondere der laufende Betrieb der LAG einschließlich Regionalmanagement und Kosten für das Entscheidungsgremium der LAG in Verbindung mit der Verwaltung der Umsetzung der LES sowie Sensibilisierungsvorhaben durch die LAG.
 
 
 b)
 
+Bei Interaktionen im Rahmen der LES zwischen Akteuren und Vorhaben des Fischerei- und Aquakultursektors gemäß der Verordnung (EU) Nr.  2021/1139 umfasst die Förderung auch die Betriebs- und Sensibilisierungskosten der lokalen Fischerei-Aktionsgruppe (FLAG). Hier nimmt die LAG auch die Funktion der lokalen FLAG wahr.
 
-Bei Interaktionen im Rahmen der LES zwischen Akteuren und Vorhaben des Fischerei- und Aquakultursektors gemäß der Verordnung (EU) Nr. 508/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über den Europäischen Meeres- und Fischereifonds und zur Aufhebung der Verordnungen (EG) Nr. 2328/2003, (EG) Nr. 861/2006, (EG) Nr. 1198/2006 und (EG) Nr. 791/2007 des Rates und der Verordnung (EU) Nr. 1255/2011 des Europäischen Parlaments und des Rates (ABl. L 149 vom 20.5.2014, S. 1) umfasst die Förderung auch die Betriebs- und Sensibilisierungskosten der lokalen Fischereiaktionsgruppe (FLAG). Hier nimmt die LAG auch die Funktion der lokalen FLAG wahr.
+2.2
 
-
-4.1
-
-
-Begünstigte
-
-
-Durch das Staatsministerium für Umwelt und Landwirtschaft anerkannte LAG können Begünstigte sein.
-
-
-4.2
-
-
-Förderfähige Ausgaben
-
-
-4.2.1
-
-
-Über die in Teil B Ziffer I Nummer 1 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
+Art der Unterstützung
 
 
 a)
 
+Die Zuwendung wird in Form der Anteilsfinanzierung als Zuschuss gewährt.
+
+
+b)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden Zuschüsse in Form der Erstattung tatsächlich entstandener förderfähiger Ausgaben der Begünstigten gewährt, sofern nicht eine der nachfolgenden Vereinfachten Kostenoptionen gemäß Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 anwendbar ist.
+
+
+c)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden die förderfähigen Ausgaben bei direkten Personalkosten auf Grundlage eines Einheitskostensatzes Personal festgelegt. Die direkten Personalkosten umfassen alle Ausgaben im Zusammenhang mit Löhnen und Gehältern für bei den Begünstigten beschäftigtes Personal.
+
+
+Aktuelle Informationen zur Höhe der Einheitskosten Personal sind im Antragsportal unter
+
+https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html verfügbar.
+
+
+Sofern eine Anwendung der Einheitskosten Personal nicht möglich ist, sind die förderfähigen Kosten gemäß Buchstabe b, erster Halbsatz Grundlage.
+
+
+d)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden bei nicht investiven Vorhaben indirekte Kosten als Pauschalsatz in Höhe von 15 Prozent der förderfähigen direkten Personalkosten gemäß Ziffer II Nummer 2.2 Buchstabe c gewährt, wenn keine weiteren Ausgaben für das Vorhaben entstehen oder die Anwendung des Pauschalsatzes nach Buchstabe e ausgeschlossen ist. Wenn der Pauschalsatz nach Ziffer II Nummer 2.2 Buchstabe e nicht anwendbar ist, können zusätzlich zum Pauschalsatz der indirekten Kosten weitere Ausgaben im Erstattungsverfahren anerkannt werden. Indirekte Kosten sind Ausgaben für Raummiete einschließlich Nebenkosten, Telefongebühren, Internetgebühren, Büromaterialien, Vervielfältigungen, Papier- und Druckerkosten, Porto, Bewirtungskosten, Versicherungen, Reisekosten. Entsprechende Leistungen sind dann nicht den indirekten Kosten zuzurechnen, wenn diese über den normalen Geschäftsbetrieb hinausgehen und in Form von Ausgaben für Leistungen durch Dritte (zum Beispiel Raummiete für Veranstaltungen, Druckereikosten für Veröffentlichungen und so weiter) anfallen.
+
+
+e)
+
+Auf Grundlage von Artikel 83 Absatz 1 der Verordnung (EU) 2021/2115 werden bei nicht investiven Vorhaben mit direkten förderfähigen Personalkosten alle übrigen förderfähigen Ausgaben und Kosten (Restkosten) als Pauschalsatz in Höhe von 40 Prozent der direkten förderfähigen Personalkosten gemäß Buchstabe c gewährt. Preisgelder im Rahmen von Wettbewerben zur Umsetzung der LES, die an Teilnehmer ausgezahlt werden, sind nicht im Pauschalsatz enthalten und können als zusätzliche förderfähige Kosten anerkannt werden. Die Anwendung des Pauschalsatzes ist nicht möglich für Personalausgaben, die Gegenstand einer Auftragsvergabe an Dritte sind oder das Vorhaben überwiegend Ausgaben für Auftragsvergaben an Dritte enthält.
+
+2.3
+
+Begünstigte
+
+
+Durch das Staatsministerium für Regionalentwicklung anerkannte LAG können Begünstigte sein.
+
+2.4
+
+Förderfähige Ausgaben
+
+
+Über die in Teil B Ziffer I Nummer 3 der Richtlinie geregelten Grundsätze hinaus gelten folgende Ausgaben als förderfähig:
+
+
+a)
 
 laufende Kosten wie Betriebs-, Personal-, Schulungs-, Netzwerkkosten, Kosten im Zusammenhang mit Öffentlichkeitsarbeit,
 
 
 b)
 
+Studien, sofern sie mit einem bestimmten Vorhaben im Rahmen des GAP-Strategieplan oder dessen Zielen verbunden sind. Durchführbarkeitsstudien zählen zu den förderfähigen Ausgaben, auch wenn aufgrund ihrer Ergebnisse keine Ausgaben getätigt werden.
 
-Studien, sofern sie mit einem bestimmten Vorhaben im Rahmen des EPLR oder dessen Zielen verbunden sind.
-
-
-4.3
-
+2.5
 
 Förderkriterien
 
@@ -989,30 +669,19 @@ Folgende Förderkriterien sind zu erfüllen:
 
 a)
 
-
-Erklärung und Begründung der LAG, dass das Vorhaben den Zielen des EPLR 2014 - 2020 und den Zielen der LES dient,
+genehmigte LES,
 
 
 b)
 
-
-plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung des Begünstigten,
+plausible Begründung der LAG zu Notwendigkeit und Ausprägung des Vorhabens auf Grundlage der Vorhabenbeschreibung der Begünstigten,
 
 
 c)
 
-
-Stellungnahme zur Integration des Vorhabens in die Destinationsstrategie der zuständigen DMO bei touristischen Vorhaben,
-
-
-d)
-
-
 der Höchstsatz von 25 Prozent der im Rahmen der jeweiligen LES anfallenden öffentlichen Gesamtausgaben für die Verwaltung der Durchführung der LES und für Vorhaben der Sensibilisierung wird nicht überschritten.
 
-
-4.4
-
+2.6
 
 Verpflichtungen
 
@@ -1022,456 +691,260 @@ Folgende Verpflichtungen sind zu erfüllen:
 
 a)
 
-
 Die LAG hat jährlich einen Bericht zur Umsetzung der LES vorzulegen.
 
 
 b)
 
-
-Mit Ablauf des Jahres 2018 ist eine Zwischenevaluierung zur LES vorzulegen.
+Eine Evaluierung ist vorzulegen.
 
 
 c)
 
-
-Mit Ablauf des Jahres 2020 ist eine Abschlussevaluierung vorzulegen.
+Vor einer Auszahlung weist die LAG nach, dass das Regionalmanagement mit den im Bewilligungsbescheid festgelegten Personen ausgestattet ist. Ein Regionalmanagement besteht aus mindestens zwei Personen, wovon mindestens eine für Regionalmanagementaufgaben qualifiziert ist.
 
 
 d)
 
+Die Anforderungen an die Berichtspflichten sowie die Personalausstattung der Regionalmanagements regelt das Staatsministerium für Regionalentwicklung.
 
-Vor einer Auszahlung weist die LAG nach, dass das Regionalmanagement mit den im Bewilligungsbescheid festgelegten Personen ausgestattet ist. Ein Regionalmanagement hat aus mindestens zwei Personen zu bestehen, einem qualifizierten Manager und einem Verwaltungsassistenten.
-
-
-Die Anforderungen an die Berichtspflichten sowie die Personalausstattung der Regionalmanagements regelt das Staatsministerium für Umwelt und Landwirtschaft.
-
-
-4.5
-
+2.7
 
 Beträge und Höhe der Förderung
 
 
-4.5.1
-
+a)
 
 Die Förderhöhe beträgt 95 Prozent der förderfähigen Gesamtausgaben.
 
 
-4.5.2
-
+b)
 
 Zuwendungen unter 5 000 Euro je Vorhaben (Förderantrag) werden nicht gewährt. Die Zusammenfassung mehrerer Vorhaben zu einem Antrag stellt keine Umgehung dieser Untergrenze dar.
-
-
-5.
-
-
-Art der Unterstützung
-
-
-a)
-
-
-Auf Grundlage von Artikel 67 Absatz 1 der Verordnung (EU) Nr. 1303/2013 werden Zuschüsse als Erstattung förderfähiger Ausgaben, die tatsächlich entstanden sind und gezahlt wurden, gewährt.
-
-
-b)
-
-
-Die Zuwendung wird in Form der Anteilsfinanzierung als nicht rückzahlbarer Zuschuss gewährt.
-
-
-c)
-
-
-Auf Grundlage von Artikel 68 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1303/2013 werden bei nicht investiven Vorhaben indirekte Kosten als Pauschalsatz von 15 Prozent der förderfähigen direkten Personalkosten gewährt, wenn keine weiteren Ausgaben für das Vorhaben entstehen oder die Anwendung des Pauschalsatzes nach Buchstabe d ausgeschlossen ist.
-
-Indirekte Kosten sind Ausgaben für Raummiete einschließlich Nebenkosten, Telefongebühren, Internetgebühren, Büromaterialien, Vervielfältigungen, Papier- und
-
-Druckerkosten, Porto, Bewirtungskosten, Versicherungen, Reisekosten.
-
-Entsprechende Leistungen sind dann nicht den indirekten Kosten zuzurechnen, wenn diese über den normalen Geschäftsbetrieb hinausgehen und in Form von Ausgaben für Leistungen durch Dritte (zum Beispiel Raummiete für Veranstaltungen, Druckereikosten für Veröffentlichungen und so weiter) anfallen.
-
-
-d)
-
-Auf Grundlage von Artikel 68b der Verordnung (EU) Nr. 1303/2013 werden bei nicht investiven Vorhaben mit direkten förderfähigen Personalkosten alle übrigen förderfähigen Ausgaben und Kosten (Restkosten) als Pauschalsatz in Höhe von 40 Prozent der direkten förderfähigen Personalkosten gewährt. Die direkten Personalkosten
-
-umfassen alle Ausgaben im Zusammenhang mit Löhnen und Gehältern für beim Begünstigten beschäftigtes Personal. Preisgelder im Rahmen von Wettbewerben zur Umsetzung der LES, die an Teilnehmer ausgezahlt werden, sind nicht im Pauschalsatz enthalten und können als zusätzliche förderfähige Kosten anerkannt werden. Die Anwendung des Pauschalsatzes ist nicht möglich für Personalausgaben, die Gegenstand einer Auftragsvergabe an Dritte sind oder das Vorhaben überwiegend Ausgaben für Auftragsvergaben an Dritte enthält. Vor dem 1. Januar 2019 bei der Bewilligungsbehörde eingegangene Anträge können bis zum 1. Juli 2019 nach der zum Zeitpunkt der Antragstellung gültigen Richtlinie gewährt werden.
-
-
-e)
-
-Für Vorhaben, bei welchen es sich um eine Umnutzung oder vollständige Sanierung von Gebäuden mit umfassendem Eingriff in die Bausubstanz handelt und im Ergebnis ein beheizbarer Massivbau entsteht, erfolgt die Bestimmung der förderfähigen Ausgaben auf Grundlage standardisierter Einheitskosten (SEK) gemäß Artikel 67 Absatz
-
-1 Buchstabe b der Verordnung (EU) Nr. 1303/2013. Vor dem 1. Januar 2019 bei der Bewilligungsbehörde eingegangene Anträge können bis zum 1. Juli 2019 nach der zum Zeitpunkt der Antragstellung gültigen Richtlinie gewährt werden. Aktuelle Informationen zur Höhe der SEK sind im Antragsportal unter http://www.smul.sachsen.de/foerderung/3428.htm verfügbar.
-
-
-f)
-
-
-Soweit Untergrenzen in dieser Richtlinie festgelegt sind, dürfen diese zum Zeitpunkt der Bewilligung nicht unterschritten werden.
-
-
-g)
-
-
-Die Bemessung der Zuwendung erfolgt auf der Grundlage der von der Bewilligungsbehörde als förderfähig anerkannten Ausgaben. Bei Mischnutzungen von Gebäuden erfolgt die Bestimmung der förderfähigen Ausgaben bei Anteilsfinanzierung für alle Vorhabenbestandteile grundsätzlich anhand der prozentualen Nutzflächenanteile.
-
-
-6.
-
-
-Allgemeine Förderkriterien
-
-
-6.1
-
-
-Räumlicher Geltungsbereich
-
-
-Der räumliche Geltungsbereich ist das ländliche Gebiet des Freistaates Sachsen. Zum ländlichen Gebiet gehören Gemeinden mit bis zu 60 000 Einwohnern. In Gemeinden mit mehr als 60 000 Einwohnern zählen ländlich geprägte Orte zum ländlichen Gebiet, sofern die Orte innerhalb ihrer Gemarkung entweder nicht mehr als 150 Einwohner pro Quadratkilometer haben oder zu mindestens zwei Dritteln aus landwirtschaftlich und forstwirtschaftlich genutzter Fläche bestehen. Weiterhin müssen diese Orte eine räumliche Verbindung zum ländlichen Gebiet aufweisen. Die Gemeindegebiete der Städte Chemnitz, Dresden und Leipzig gehören nicht zum ländlichen Gebiet.
-
-
-a)
-
-
-Innerhalb des ländlichen Gebietes sind investive Vorhaben in städtebaulich eigenständigen Orten bis 5 000 Einwohner als Teile einer Gemeinde und deren Gemarkungen in LEADER-Gebieten förderfähig.
-
-Vorhaben der linienhaften Infrastruktur sind auch förderfähig, sofern der überwiegende Anteil des Vorhabens innerhalb des räumlichen Geltungsbereiches für investive Vorhaben liegt und der untergeordnete Teil nicht außerhalb des ländlichen Gebietes.
-
-
-b)
-
-
-Nicht investive Vorhaben sind innerhalb des ländlichen Gebietes förderfähig.
-
-
-Förderfähige Orte sind in der Liste der förderfähigen Orte nach diesen Kriterien abgebildet. Maßgeblich ist die Einwohnerzahl zum 30. Juni 2013. Die Liste der förderfähigen Orte behält ihre Gültigkeit für den Geltungszeitraum dieser Richtlinie. Die Liste ist im Internet unter der Adresse http://www.smul.sachsen.de/foerderung/3428.htm veröffentlicht.
-
-
-6.2
-
-
-Förderkriterium für bauliche Investitionen
-
-
-Zuwendungen für bauliche Investitionen dürfen nur dem Eigentümer oder Erbbauberechtigten gewährt werden. Ist der Erwerb von Grundstücken Bestandteil des Vorhabens, hat der Nachweis der Eigentumsübertragung bis zur ersten Auszahlung zu erfolgen.
-
-
-Ist eine Gebietskörperschaft oder Religionsgesellschaft, die eine Körperschaft des öffentlichen Rechts gemäß Artikel 140 des Grundgesetzes in Verbindung mit Artikel 137 der Weimarer Verfassung ist, Eigentümerin eines Grundstückes, kann eine Förderung des Pächters auf der Grundlage eines Pachtvertrages erfolgen.  Die Pachtzeit muss mindestens die für das Vorhaben erforderliche Dauer der Zweckbindungsfrist umfassen.  Zudem muss das Recht zur ordentlichen Kündigung des Pachtvertrages für den Zeitraum der Zweckbindungsfrist ausgeschlossen sein und eine Zustimmung des Grundstückseigentümers zum Fördervorhaben vorliegen.  Die Zweckbindungsfrist für das Vorhaben beginnt mit dem Datum des Endfestsetzungsbescheides.  Ebenso wird anstelle des Eigentumsnachweises eine unwiderrufliche Planvereinbarung in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz anerkannt.  Aus dieser muss hervorgehen, dass der Begünstigte mit dem Flurbereinigungs-/Tauschplan das Eigentum der betreffenden Fläche erhalten wird.  Bei Straßen- und Wegebauvorhaben ist der Nachweis der dauerhaften rechtlichen Sicherung durch öffentliche Widmung zu erbringen.  Bei Rad- und Wanderwegen im Wald sowie bei Leitungsnetzen und Beschilderungen ist der Nachweis der allgemeinen Verfügungsberechtigung (z. B. Gestattungsverträge) ausreichend.
-
-7.
-
-
-Allgemeine Verpflichtungen
-
-
-7.1
-
-
-Der Begünstigte muss spätestens mit dem ersten Auszahlungsantrag die für die Durchführung des Vorhabens notwendigen öffentlich-rechtlichen Genehmigungen vorlegen. Die Bewilligungsbehörde kann diese auch zu einem früheren Zeitpunkt des Verfahrens fordern.
-
-
-7.2
-
-
-Mit dem letzten Auszahlungsantrag muss der Begünstigte erklären, dass die Vorgaben aus den öffentlich-rechtlichen Genehmigungen eingehalten wurden.
-
-
-7.3
-
-
-Der Begünstigte hat nach Aufforderung der Bewilligungsbehörde weitere entscheidungsrelevante Unterlagen vorzulegen. Die Nachweise zur Erfüllung der Fördervoraussetzungen obliegen dem Begünstigten.
-
-
-8.
-
-
-Transparenz
-
-
-Bei Vorhaben, die aus Mitteln des ELER finanziert werden, veröffentlicht der Freistaat Sachsen aufgrund der Verordnung (EU) Nr. 1306/2013 und der Verordnung (EU) Nr. 908/2014 jährlich die Informationen über die Mittelempfänger und die Beträge, die jeder Empfänger aus dem Fonds erhalten hat.
 
 
 C.
 Verfahren
 
 I.
-Antragsverfahren
+Aufrufe
 
-1.
-
-
-Antrags- und Bewilligungsbehörde sind die für den jeweiligen Ort des Vorhabens zuständigen Landkreise. Das Verfahren zwischen den beteiligten staatlichen und kommunalen Stellen wird im Rahmen des
-
-Sächsischen Gesetzes zur Durchführung von Förderprogrammen der Ländlichen Entwicklung vom 29. Januar 2008 (SächsGVBl. S. 138), das durch Artikel 21 des Gesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866) geändert worden ist, in der jeweils geltenden Fassung, und des europäischen Rechts durch das Staatsministerium für Umwelt und Landwirtschaft geregelt.
-
-
-2.
-
-
-Anträge auf Förderung sind unter Verwendung der dafür vorgesehenen Formulare unter Beifügung aller im Antragsformular geforderten Unterlagen bei der Bewilligungsbehörde einzureichen. Den Antragsunterlagen ist ein Finanzierungsplan beizufügen. Der Begünstigte hat alle im Zusammenhang mit dem Vorhaben stehenden beantragten oder bereits gewährten öffentlichen Zuwendungen Dritter oder von Dritten gewährte Vergünstigungen anzugeben.
-
-
-3.
-
-
-Die jeweils geltenden Antragsformulare, Vordrucke und Erklärungen sind im Internet veröffentlicht. Im Falle der Eröffnung einer elektronischen Antragstellung ist der Zugang zum Antragsportal ebenfalls über diese Adresse (Adresse: http://www.smul.sachsen. de/foerderung/3428.htm) erreichbar.
-
-
-4.
-
-
-Vorhaben, welche den Förderrichtlinien
-
-
-a)
-
-
-RL Wald und Forstwirtschaft (RL WuF/2014),
-
-
-b)
-
-
-RL Natürliches Erbe (RL NE/2014),
-
-
-c)
-
-
-RL Landwirtschaft, Innovation und Wissenstransfer (RL LIW/2014),
-
-
-d)
-
-
-RL Agrarumwelt- und Klimamaßnahmen (RL AUK/2015),
-
-
-e)
-
-
-RL Ökologischer/Biologischer Landbau (RL ÖBL/2015) und
-
-
-f)
-
-
-RL Ausgleichszulage in benachteiligten Gebieten (RL AZL/2015)
-
-
-zuordenbar sind, können auf Grundlage der Auswahl des Entscheidungsgremiums auch zur Umsetzung der LES gefördert werden. Bei einer Finanzierung im Rahmen einer LES erfolgt die Förderung nach Maßgabe und unter Einhaltung der Bestimmungen dieser jeweiligen Förderrichtlinie. Vorhaben der RL Landwirtschaft, Innovation und Wissenstransfer, RL Wald und Forstwirtschaft und RL Natürliches Erbe, die im Rahmen einer Zusammenarbeit gemäß des Artikel 35 der Verordnung (EU) Nr. 1305/2013 umgesetzt werden, können nicht aus LEADER finanziert werden. Die Antragstellung und Bearbeitung erfolgt in der für die jeweilige Förderrichtlinie zuständigen Bewilligungsbehörde.
-
+Die Aufrufe zur Einreichung von Vorhaben werden von den LAG im Internet öffentlich bekannt gemacht. Die Aufrufe enthalten Angaben zu den möglichen Inhalten, den Auswahlkriterien, den förderfähigen Begünstigten, dem zur Verfügung gestellten Budget, den zu beachtenden Fristen und dem Termin der abschließenden Vorhabenauswahl.
 
 II.
 Auswahl der Vorhaben
 
 1.
 
-
-Alle Vorhaben zur Vorbereitung einer LES nach Teil B Ziffer II Nummer 1 dieser Richtlinie können bis zum 31. Dezember 2017 gefördert werden.
-
+Förderanträge zur Umsetzung der LES einschließlich Kooperationsvorhaben nach Teil B Ziffer II Nummer 1 dieser Richtlinie sind ausschließlich auf Grundlage eines positiven Beschlusses des Entscheidungsgremiums des LEADER-Gebietes, in welchem das Vorhaben liegt, förderfähig. In den durch das Staatsministerium für Regionalentwicklung genehmigten LES der betreffenden LEADER-Gebiete sind die Bedarfe, die Ziele und Handlungsfelder, sowie die Auswahlkriterien für die Vorhaben und die Förderhöhen festgelegt.
 
 2.
 
+Mit der Anerkennung der LES sind nichtdiskriminierende und transparente Verfahren der LAG für die Vorhabenauswahl festgelegt. Im Verfahren der Vorhabenauswahl werden vom Entscheidungsgremium der LAG die zur Umsetzung der LES erforderlichen Vorhaben ausgewählt.
 
-Förderanträge zur Umsetzung der LES nach Teil B Ziffer II Nummer 2 sowie Kooperationsvorhaben nach Teil B Ziffer II Nummer 3 dieser Richtlinie sind ausschließlich auf Grundlage eines positiven Beschlusses des Entscheidungsgremiums des LEADER-Gebietes, in welchem das Vorhaben liegt, förderfähig. Für Vorhaben der LAG ist kein Beschluss erforderlich. In den durch das Staatsministerium für Umwelt und Landwirtschaft genehmigten LES der betreffenden LEADER-Gebiete sind die Bedarfe, die Ziele und Schwerpunkte, die Auswahlkriterien für die Vorhaben und die Förderhöhen festgelegt.
+3.
+
+Die Auswahl eines Vorhabens durch die LAG stellt noch keine Förderzusage dar. Die Entscheidung über die Einhaltung der Förderfähigkeit trifft die zuständige Bewilligungsbehörde.
+
+
+III.
+Antragsverfahren
+
+1.
+
+Antrags- und Bewilligungsbehörde sind die für den jeweiligen Ort des Vorhabens zuständigen Landkreise. Das Verfahren zwischen den beteiligten staatlichen und kommunalen Stellen wird im Rahmen des Sächsischen Gesetzes zur Durchführung von Förderprogrammen der Ländlichen Entwicklung vom 29. Januar 2008 (SächsGVBl. S. 138), das zuletzt durch Artikel 5 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und des europäischen Rechts durch die EU-Zahlstelle beim Sächsischen Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft geregelt.
+
+2.
+
+Anträge auf Förderung sind abrufbar unter: https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html
 
 
 3.
 
-
-Mit der Anerkennung der LES sind nicht diskriminierende und transparente Verfahren der LAG für die Vorhabensauswahl festgelegt. Im Verfahren der Vorhabensauswahl werden vom Entscheidungsgremium der LAG die zur Umsetzung der LES erforderlichen Vorhaben ausgewählt.
-
-
-4.
-
-
-Ist die LAG für Vorhaben nach Teil B Ziffer II Nummer 2 sowie Kooperationsvorhaben der LES nach Teil B Ziffer II Nummer 3 dieser Richtlinie selbst Begünstigte, unterliegen diese Vorhaben auch den Auswahlkriterien der jeweiligen LES. Hierzu legt die LAG eine Dokumentation zur Anwendung der Auswahlkriterien vor.
-
-
-5.
-
-
-Für Vorhaben zur Vorbereitung einer LES nach Teil B Ziffer II Nummer 1 und Vorhaben zum laufenden Betrieb der LAG und zur Sensibilisierung nach Teil B Ziffer II Nummer 4 dieser Richtlinie ist eine Vorhabensauswahl nicht erforderlich.
-
-
-6.
-
-
-Die Auswahl eines Vorhabens durch die LAG stellt noch keine Förderzusage dar. Die Entscheidung über die Einhaltung der Förderkriterien trifft die zuständige Bewilligungsbehörde.
-
-
-III.
-Bewilligungsverfahren
-
-1.
-
-
-Bewilligungen werden durch Bescheid gewährt.
-
-
-2.
-
-
-Zuwendungen dürfen nur an zuverlässige Begünstigte und für Vorhaben, deren Gesamtfinanzierung gesichert ist, bewilligt werden.
-
-
-Die Zuverlässigkeit ist grundsätzlich anzunehmen, soweit der Bewilligungsbehörde im Zeitpunkt der Bewilligung keine tatsächlichen Anhaltspunkte bekannt sind, dass eine ordnungsgemäße Verwendung der Mittel nicht gewährleistet ist. Anhaltspunkte dafür, dass eine Zuverlässigkeit nicht gegeben ist, liegen insbesondere vor, wenn:
+Vorhaben, welche den Förderrichtlinien:
 
 
 a)
 
 
-ein strafrechtliches Ermittlungsverfahren wegen des Verdachts des Subventionsbetrugs anhängig ist,
+Förderrichtlinie Wald und Forstwirtschaft (FRL WuF/2023),
 
 
 b)
 
 
-eine rechtskräftige Verurteilung, Strafbefehl oder eine Einstellung gegen Auflagen wegen eines Subventionsbetrugs erfolgte,
+Förderrichtlinie Natürliches Erbe (FRL NE/2023),
 
 
 c)
 
 
-ein Antrag auf Durchführung eines Verfahrens nach der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) geändert worden ist, gegen ihn oder eine juristische Person, an der er beteiligt ist, gestellt wurde oder ein solches Verfahren stattfindet, oder
+Förderrichtlinie Landwirtschaft, Investition und Existenzgründung (FRL LIE/2023),
 
 
 d)
 
-
-ein Förderausschluss gemäß Artikel 35 Absatz 5 und 6 der Verordnung (EU) Nr. 640/2014 vorliegt.
-
-
-Die Zuverlässigkeit ist nicht gegeben, wenn offene Forderungen des Freistaates Sachsen gegen den Begünstigten bestehen. Über Ausnahmen entscheidet die Bewilligungsbehörde.
+Förderrichtlinie Wissenstransfer, Innovationen und Netzwerke (FRL WIN/2023)
 
 
-3.
+in den jeweils geltenden Fassungen zuordenbar sind, können auf Grundlage der Auswahl des Entscheidungsgremiums auch zur Umsetzung der LES gefördert werden. Bei einer Finanzierung im Rahmen einer LES erfolgt die Förderung nach Maßgabe und unter Einhaltung der Bestimmungen dieser jeweiligen Förderrichtlinie. Die Regelung nach Teil C Ziffer IV Nummer 3 bleibt davon unberührt. Die Antragstellung und Bearbeitung erfolgt in der für die jeweilige Förderrichtlinie zuständigen Bewilligungsbehörde.
 
 
-Die als Anlage 2 zu dieser Richtlinie beigefügten Nebenbestimmungen für ELER-finanzierte Vorhaben (NBest-ELER) sind unverändert als Bestandteil des Bewilligungsbescheides aufzunehmen. Die Bewilligungsbehörde darf, auch nach Bekanntgabe des Bewilligungsbescheides, in Einzelfällen Ausnahmen von den Nummern 9.1 und 12 NBest-ELER zulassen.
-
-
-4.
-
-
-Aus dem ELER finanzierte Ausgaben dürfen nicht Gegenstand einer anderen Finanzierung aus den Haushalten der Europäischen Union, des Bundes oder des Freistaates Sachsen sein. Die Förderung ist ausgeschlossen, wenn dasselbe Vorhaben bereits mit Mitteln aus dem ELER finanziert wurde.
-
-
-5.
-
-
-Mittel Dritter können zum Zeitpunkt der Bewilligung als Eigenmittel anerkannt werden, sofern der Dritte keine gesetzliche Pflicht zur Durchführung der Maßnahme hat und keine Überfinanzierung vorliegt. Die den Eigenanteil überschreitenden Deckungsmittel reduzieren die Zuwendung. Bei Mitgliedsbeiträgen und -umlagen handelt es sich um Eigenmittel.
-
-
-6.
-
-
-Sofern für die Finanzierung eines Vorhabens öffentlich-rechtliche Beiträge erhoben werden, dürfen diese nur auf den abzüglich der gewährten Zuwendung verbleibenden Eigenanteil des Zuwendungsempfängers bemessen werden. Beiträge der Pflichtigen werden als Eigenmittel des Zuwendungsempfängers anerkannt. Soweit darüber hinaus Beiträge erhoben werden, sind diese von der Zuwendung abzusetzen.
-
-
-7.
-
-
-Nach- und Ergänzungsbewilligungen sind mit Ausnahme für Vorhaben nach Teil B Ziffer II Nummer 4 ausgeschlossen. Das hat zur Folge, dass bei Überschreitung der Gesamtausgaben keine Erhöhung der Zuwendung erfolgt. Auch sind Ergänzungen des Bewilligungsbescheides um weitere Vorhabenbestandteile nicht möglich.
+Vorhaben der FRL WuF/2023, FRL NE/2023, FRL LIE/2023 und FRL WIN/2023 die im Rahmen einer Zusammenarbeit gemäß des Artikel 127 Absatz 3 der Verordnung (EU) Nr. 2021/2115 umgesetzt werden, können nicht aus LEADER finanziert werden. Die Durchführung von flächenbezogenen Maßnahmen ist ebenfalls nicht möglich.
 
 
 IV.
+Bewilligungsverfahren
+
+1.
+
+Bewilligungen werden durch Bescheid gewährt.
+
+2.
+
+Der Bewilligungsbescheid ergeht unter dem Vorbehalt der Prüfung und Festsetzung im Rahmen des Auszahlungsverfahrens.
+
+3.
+
+Die als Anlage 2 zu dieser Richtlinie beigefügten Nebenbestimmungen für ELER-finanzierte Vorhaben (NBest-ELER) sind unverändert als Bestandteil des Bewilligungsbescheides aufzunehmen.
+
+4.
+
+Nach- und Ergänzungsbewilligungen sind mit Ausnahme für Vorhaben nach Teil B Ziffer II Nummer 2 ausgeschlossen. Das hat zur Folge, dass bei Überschreitung der Gesamtausgaben keine Erhöhung der Zuwendung erfolgt. Auch sind Ergänzungen des Bewilligungsbescheides um weitere Vorhabenbestandteile nicht möglich.
+
+
+V.
+Vorschusszahlungen
+
+Vorschusszahlungen können in Höhe von 50 Prozent der mit Bewilligungsbescheid gewährten Zuwendung gewährt werden, wenn Sie im Bescheid nicht ausgeschlossen werden. Vorschüsse können auch bei der Förderung nach Einheitskosten, Pauschalbeträgen und Pauschalsätzen gewährt werden.
+
+Der Vorschuss ist mit dem Förderantrag zu beantragen und wird nach Anzeige des Vorhabensbeginn ausgezahlt.
+
+Spätestens mit dem Schlusszahlungsantrag ist der Nachweis der durch den Vorschuss vorfinanzierten förderfähigen Ausgaben zu erbringen.
+
+VI.
 Auszahlungsverfahren
 
 1.
 
-
-Die Auszahlung erfolgt nur auf Antrag und darf nur für die im Bewilligungsbescheid genannten Vorhaben verwendet werden.
-
-Ist ein Teilauszahlungsantrag zugelassen, ist dieser als selbstständiger Auszahlungsantrag zu behandeln.
+Die Auszahlung erfolgt nur auf Antrag und darf nur für die im Bewilligungsbescheid genannten Vorhaben verwendet werden. Der Auszahlungsantrag ist auf elektronischem Weg zu stellen. Der Zugang zum Portal für das elektronische Verfahren ist ebenfalls über diese Adresse erreichbar https://www.laendlicher-raum.sachsen.de/richtlinie-leader-2023-2027-18218.html
 
 
 2.
 
-
-Die jeweils geltenden Antragsformulare, Vordrucke und Erklärungen sind im Internet veröffentlicht. Im Falle der Eröffnung eines elektronischen Verfahrens ist der Zugang zum Portal ebenfalls über diese Adresse erreichbar (Adresse: http://www.smul.sachsen.de/foerderung/3428.htm).
-
+Werden nicht förderfähige Ausgaben beantragt, erfolgt eine Kürzung, wenn die von der Bewilligungsbehörde anerkannten förderfähigen Ausgaben geringer ausfallen, als diese für den Erhalt des bewilligten Zahlungsbetrages erforderlich sind.
 
 3.
 
-
-Die Ausgaben des Begünstigten sind durch Rechnungen und Zahlungsnachweise zu belegen.
-
-Ist dies nicht möglich, so sind die Zahlungen durch gleichwertige Unterlagen zu belegen.
-
-Soweit Belege nur noch in elektronischer Form vorliegen (zum Beispiel Online-Rechnungen) können die Ausdrucke dieser Belege als Originalbelege anerkannt werden.
-
-Als Zahlungsnachweise werden Kontoauszüge oder gleichwertige Buchungsbelege durch die Bewilligungsbehörde anerkannt.
-
-Der Zahlungsempfänger und dessen Bankverbindung müssen auf den Zahlungsnachweisen eindeutig identifizierbar sein.
-
-Bei Körperschaften des öffentlichen Rechts werden zudem Auszahlungsanordnungen oder ähnliche innerhalb der Körperschaft erzeugte Dokumente als Zahlungsnachweise anerkannt, wenn sie zweifelsfrei auf die Zahlung schließen lassen.
-
-Die Belegpflicht gilt nicht bei Gewährung von standardisierten Einheitskosten, Pauschalfinanzierungen oder Pauschalsätzen.
-
+Teilzahlungsanträge sind grundsätzlich ausgeschlossen. Die Bewilligungsbehörde darf, auch nach Bekanntgabe des Bewilligungsbescheides, in Einzelfällen Teilauszahlungen zulassen. Im Falle der gewährten Vorschusszahlung kann die weitere Teilauszahlung bis zu 35 Prozent der Zuwendung betragen.
 
 4.
 
-
-Gemäß der Mitteilungsverordnung vom 7. September 1993 (BGBl. I S. 1554), die zuletzt durch Artikel 58 des Gesetzes vom 23. Dezember 2003 (BGBl. I S. 2848) geändert worden ist, in der jeweils geltenden Fassung, erhält die zuständige Finanzbehörde eine Mitteilung über die Höhe der jährlichen Zahlungen an den Begünstigten.            
+Die Ausgaben der Begünstigten sind durch Rechnungen und Zahlungsnachweise zu belegen. Ist dies nicht möglich, so sind die Zahlungen durch gleichwertige Unterlagen zu belegen. Diese Belegpflicht gilt nicht bei Förderung auf Grundlage von vereinfachten Kostenoptionen.
 
 5.
 
+Im Fall der Anwendung vereinfachter Kostenoptionen kann die Auszahlung nur bei Nachweis entsprechender im Bewilligungsbescheid festgelegter Einheiten, Zwischenziele oder Meilensteine geleistet werden.
+
+6.
 
 Die Bewilligungsbehörde setzt mit Festsetzungsbescheid die Förderung fest und veranlasst die Auszahlung.
 
 
-V.
-Ablehnung, Rücknahme und Sanktionen
+VII.
+Verrechnung
+
+Offene Erstattungsbeträge aus dem Europäischen Garantiefonds für die Landwirtschaft oder dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums werden von allen künftigen Auszahlungen abgezogen.
+
+VIII.
+Ablehnung, Rücknahme, Widerruf, Erstattung
 
 1.
 
-
-Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere sind der Artikel 35 der Verordnung (EU) Nr. 640/2014 sowie die Artikel 7 und 63 der Verordnung (EU) Nr. 809/2014 zu beachten.
-
+Der Förderantrag wird abgelehnt, wenn nicht alle Fördervoraussetzungen vorliegen, die Begünstigten erforderliche Unterlagen und Nachweise nicht fristgerecht erbringen.
 
 2.
 
-
-Die Rückforderung von zu Unrecht gezahlten Beträgen sowie die Erhebung von Sanktionen und Zinsen erfolgen gemäß der Artikel 7 und 63 der Verordnung (EU) Nr. 809/2014 unter Beachtung von Artikel 35 der Verordnung (EU) Nr. 640/2014. Die Zinsen werden gemäß Artikel 7 Absatz 2 der Verordnung (EU) Nr. 809/2014 für den Zeitraum zwischen dem Ende der im Rückforderungsbescheid angegebenen Zahlungsfrist für den Begünstigten und der tatsächlichen Rückzahlung oder dem Abzug berechnet.
-
+Der Bewilligungsbescheid wird mit Wirkung für die Vergangenheit zurückgenommen oder widerrufen, wenn die Begünstigten vorsätzlich falsche Angaben machen oder vorsätzlich falsche Belege vorlegen.
 
 3.
 
+Der Bewilligungsbescheid kann ganz oder teilweise mit Wirkung für die Vergangenheit widerrufen werden, wenn der Zuwendungszweck oder eine mit der Zuwendung verbundene Auflage nicht oder nicht innerhalb einer gesetzten Frist erfüllt wird. Gleiches gilt, wenn die Begünstigten die Durchführung einer Kontrolle vor Ort verhindert haben.
 
-Das Verfahren wird auf der Grundlage des Verwaltungsverfahrensrechts durchgeführt (§ 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 [SächsGVBl. S. 142], das durch Artikel 3 des Gesetzes vom 12. Juli 2013 [SächsGVBl. S. 503] geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 [BGBl. I S. 102], das zuletzt durch Artikel 11 Absatz 2 des Gesetzes vom 18. Juli 2017 [BGBl. I S. 2745] geändert worden ist), soweit dieses nicht bereits abschließend durch Unionsrecht geregelt ist.  
+4.
+
+Die Bewilligungsbehörde berücksichtigt die Art, Schwere, Häufigkeit und Dauer des festgestellten Verstoßes gegen die Bedingungen und Auflagen sowie die Höhe des finanziellen Schadens.
+
+5.
+
+Der Bewilligungsbescheid kann widerrufen werden, wenn mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Zuwendungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten haben.
+
+6.
+
+Der Bewilligungsbescheid kann ganz oder zum Teil widerrufen werden, wenn die Begünstigten oder ein Gläubiger einen Antrag auf Einleitung eines Insolvenzverfahrens stellt, ein Insolvenzverfahren gegen ihn eröffnet wird oder die Eröffnung mangels Masse abgelehnt oder er mit Zwangsvollstreckungsmaßnahmen verfolgt wird.
+
+7.
+
+Zu Unrecht gezahlte Beträge sind zurückzuerstatten und vom Eintritt der Unwirksamkeit des Verwaltungsaktes an mit fünf Prozentpunkten über dem Basiszinssatz jährlich zu verzinsen.
 
 
-VI.
+Das Verfahren richtet sich nach den Regelungen des § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit §§ 48 ff. des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, in den jeweils geltenden Fassungen.
+
+IX.
+Umgehungsklausel
+
+Die Zuwendung wird nicht gewährt oder widerrufen und zurückgefordert, wenn festgestellt wird, dass die Voraussetzungen für den Erhalt der Zuwendung künstlich geschaffen wurden.
+
+X.
+Höhere Gewalt und außergewöhnliche Umstände
+
+In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde im Einzelfall auf den Widerruf des Zuwendungsbescheides verzichten. Die Fälle sind der Bewilligungsbehörde schriftlich und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen. Unbeschadet besonderer Umstände des Einzelfalls ist höhere Gewalt insbesondere in folgenden Fällen anzunehmen:
+
+a)
+
+der Tod der Begünstigten
+
+b)
+
+länger andauernde Berufsunfähigkeit der Begünstigten,
+
+c)
+
+die Enteignung des gesamten Betriebes oder eines wesentlichen Teils davon, soweit diese Enteignung am Tag der Einreichung des Antrags nicht vorherzusehen war,
+
+d)
+
+eine schwere Naturkatastrophe oder ein schweres Wetterereignis, die beziehungsweise das den Betrieb erheblich in Mitleidenschaft zieht,
+
+e)
+
+die unfallbedingte Zerstörung von Stallgebäuden des Betriebes,
+
+f)
+
+eine Tierseuche, der Ausbruch einer Pflanzenkrankheit oder das Auftreten eines Pflanzenschädlings, die beziehungsweise der den gesamten Tier- beziehungsweise Pflanzenbestand der Begünstigten oder einen Teil davon betrifft.
+
+
+Zu den außergewöhnlichen Umständen können insbesondere außergewöhnliche Wetterereignisse gehören.
+
+XI.
+Übertragung der Förderung
+
+Im Falle der Übertragung des Betriebes oder des geförderten Vorhabens kann von einer Rückforderung abgesehen werden, wenn die Übernehmenden alle Voraussetzungen für die Gewährung der Zuwendung für die Dauer der Zweckbindungsfrist erfüllen und die von der Bewilligungsbehörde geforderten Nachweise vorlegen.
+
+Die Übernahme ist der Bewilligungsbehörde innerhalb von 15 Arbeitstagen schriftlich mitzuteilen.
+
+XII.
 Inkrafttreten und Außerkrafttreten
 
-Diese Richtlinie tritt mit Wirkung vom 20. Dezember 2014 in Kraft.
+Diese Förderrichtlinie tritt am Tag nach der Veröffentlichung in Kraft.
 
+Die Förderrichtlinie LEADER des Sächsischen Staatsministeriums für Regionalentwicklung vom 15. Dezember 2014 (SächsABl. SDr. 2015 S. S 13), die zuletzt durch die Richtlinie vom 20. Oktober 2021 (SächsABl. S. 1378) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2021 (SächsABl. SDr. S. S 246), tritt zum 31. Dezember 2024 außer Kraft.
 
-Gleichzeitig tritt die
+Dresden, den 12. Juli 2023
 
-Förderrichtlinie Integrierte Ländliche Entwicklung vom 29. Dezember 2011 (SächsABl. 2012 S. 761), die zuletzt durch Richtlinie vom 20. Oktober 2014 (SächsABl. S. 1336) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 923), außer Kraft.
-
-
-Dresden, den 15. Dezember 2014
-
-
-Der Staatsminister für Umwelt und Landwirtschaft
+Der Staatsminister für Regionalentwicklung
 Thomas Schmidt
-
-
-Anlagen
-Anlage 1: EU-Rechtsgrundlagen
-
-Anlage 2: Nebenbestimmungen für ELER-finanzierte Vorhaben
-
 
 Anlage 1
 
@@ -1479,630 +952,456 @@ EU-Rechtsgrundlagen
 
 Für das ELER-Förderverfahren gelten insbesondere die nachfolgenden unionsrechtlichen Bestimmungen in der jeweils geltenden Fassung:
 
-
 1.
 
-
-die Verordnung (EU, Euratom) Nr. 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über die Haushaltsordnung für den  Gesamthaushaltsplan der Union, zur Änderung der Verordnungen (EU) Nr. 1296/2013, (EU) Nr. 1301/2013, (EU) Nr. 1303/2013, (EU) Nr. 1304/2013, (EU) Nr. 1309/2013, (EU) Nr. 1316/2013, (EU) Nr. 223/2014, (EU) Nr. 283/2014 und des Beschlusses Nr. 541/2014/EU sowie zur Aufhebung der Verordnung (EU, Euratom) Nr. 966/2012 (ABl. L 193 vom 30.7.2018, S. 1),
-
+die Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über die Haushaltsordnung für den Gesamthaushaltsplan der Union, zur Änderung der Verordnungen (EU) Nr. 1296/2013, (EU) Nr. 1301/2013, (EU) Nr. 1303/2013, (EU) Nr. 1304/2013, (EU) Nr. 1309/2013, (EU) Nr. 1316/2013, (EU) Nr. 223/2014, (EU) Nr. 283/2014 und des Beschlusses Nr. 541/2014/EU sowie zur Aufhebung der Verordnung (EU, Euratom) Nr. 966/2012 (ABl. L 193 vom 30.7.2018, S. 1),
 
 2.
 
-
-die Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates (ABl. L 347 vom 20.12.2013, S. 320), die zuletzt durch die Verordnung (EU, Euratom) 2018/1046 (ABl. L 193 vom 30.7.2018, S. 1) geändert worden ist,
-
+die Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. L 231 vom 30.6.2021, S. 159),
 
 3.
 
-
-die Delegierte Verordnung (EU) Nr. 480/2014 der Kommission vom 3. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds (ABl. L 138 vom 13.5.2014, S. 5), die zuletzt durch die delegierte Verordnung (EU) 2015/616 (ABl. L 102 vom 21.4.2015, S. 33) geändert worden ist,
-
+die Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1),
 
 4.
 
-
-die Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487), die zuletzt durch die Delegierte Verordnung (EU) Nr. 2018/162 (ABl. L 30 vom 2.2.2018, S. 6) geändert worden ist,
-
+die Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187),
 
 5.
 
-
-die Delegierte Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1), die zuletzt durch die delegierte Verordnung (EU) 2015/1367 (ABl. L 211 vom 8.8.2015, S. 7) geändert
-
-worden ist,
-
+die delegierte Verordnung (EU) 2022/127 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates mit Vorschriften für die Zahlstellen und anderen Einrichtungen, die Finanzverwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 20 vom 31.1.2022, S. 95),
 
 6.
 
-
-die Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18), die zuletzt durch die Durchführungsverordnung (EU) 2018/1077 (ABl. L 194 vom 31.7.2018, S. 44) geändert worden ist,
-
+die Durchführungsverordnung (EU) 2022/128 der Kommission vom 21. Dezember 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Finanzverwaltung, des Rechnungsabschlusses, der Kontrollen, der Sicherheiten und der Transparenz (ABl. L 20 vom 31.1.2022, S. 131),
 
 7.
 
-
-die Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69), die zuletzt durch die Durchführungsverordnung (EU) 2018/746 (ABl. L 125 vom 22.5.2018, S. 1) geändert worden ist,
-
+die Durchführungsverordnung (EU) 2022/129 der Kommission vom 21. Dezember 2021 mit Vorschriften für Interventionskategorien für Ölsaaten, Baumwolle und Nebenerzeugnisse der Weinbereitung gemäß der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates sowie für die Anforderungen hinsichtlich Information, Öffentlichkeitsarbeit und Sichtbarkeit im Zusammenhang mit der Unterstützung der Union und den GAP-Strategieplänen (ABl. L 20 vom 31.1.2022, S. 197),
 
 8.
 
-
-die Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist,
-
+die Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47),
 
 9.
 
-
-die Delegierte Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48), die zuletzt durch die delegierte Verordnung (EU) 2017/723 (ABl. L 107 vom 25.4.2015, S. 1) geändert worden ist,
-
+die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), die zuletzt durch die Verordnung (EU) 2023/917 der Kommission vom 23. Juli 2021 (ABl. L 119 vom 5.5.2023, S. 159) geändert worden ist,
 
 10.
 
-
-die Delegierte Verordnung (EU) Nr. 907/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates im Hinblick auf die Zahlstellen und anderen Einrichtungen, die finanzielle Verwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 255 vom 28.8.2014, S. 18), die zuletzt durch die delegierte Verordnung (EU) 2018/967 (ABl. L 174 vom 10.7.2018, S. 2) geändert worden ist,
-
+die Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1),
 
 11.
 
-
-die Durchführungsverordnung (EU) Nr. 908/2014 der Kommission vom 6. August 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S. 59), die zuletzt durch die Durchführungsverordnung (EU) 2018/56 (ABl. L 10 vom 13.1.2018, S. 9) geändert worden ist,
-
+der Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 106 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichen Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3).
 
 12.
 
-
-die Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union konsolidierte Fassung (ABl. C 202 vom 7.6.2016, S. 1),
-
+die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/972 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist.,
 
 13.
 
-
-die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.06.2017, S. 1) geändert worden ist,
-
+die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L352 vom 24.13.2013, S. 9), die zuletzt durch die Verordnung (EU) 2022/2046 der Kommission vom 24. Oktober 2022 (ABl. L 275 vom 25.10.2023, S. 55) geändert worden ist,
 
 14.
 
-
-die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1),
-
-
-15.
-
-
-die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9).
+die Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch Verordnung (EU) 2020/1474 (ABl. L 337 vom 14.10.2020, S. 1) geändert worden ist.
 
 
 Anlage 2
 
-Nebenbestimmungen für ELER-finanzierte Vorhaben
+Nebenbestimmungen für ELER-finanzierte Maßnahmen
 
-Die Nebenbestimmungen für ELER-finanzierte Vorhaben nach dieser Richtlinie enthalten Nebenbestimmungen (Bedingungen und Auflagen) im Sinne von § 1 des
-
-Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit § 36 des Verwaltungsverfahrensgesetzes in der jeweils geltenden Fassung. Die Nebenbestimmungen sind als Bestandteil des Bewilligungsbescheides verbindlich, soweit dort nicht ausdrücklich etwas anderes bestimmt ist.
+Die Nebenbestimmungen für ELER-finanzierte Vorhaben nach dieser Förderrichtlinie enthalten Nebenbestimmungen (Bedingungen und Auflagen) im Sinne von § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit § 36 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, in den jeweils geltenden Fassungen. Die Nebenbestimmungen sind als Bestandteil des Bewilligungsbescheides verbindlich, soweit dort nicht ausdrücklich etwas anderes bestimmt ist.
 
 1.
-
 
 Zweckbindung, Grundsatz der Wirtschaftlichkeit und Sparsamkeit
 
 
-Die Zuwendung darf nur zur Erfüllung des im Bewilligungsbescheid bestimmten Zwecks verwendet werden. Das Vorhaben ist wirtschaftlich durchzuführen. Die Mittel sind sparsam zu verwenden. Die förderfähigen Ausgaben beziehen sich auf das Vorhaben.
-
+Die Zuwendung darf nur zur Erfüllung des im Bewilligungsbescheid bestimmten Zwecks verwendet werden. Das Vorhaben ist wirtschaftlich durchzuführen. Die Mittel sind sparsam zu verwenden. Der im Bewilligungsbescheid festgelegte Zuwendungszweck muss durch die Durchführung des Vorhabens erreicht werden. Die förderfähigen Ausgaben beziehen sich auf das Vorhaben.
 
 2.
-
 
 Finanzierungsplan
 
 
-2.1
+(1) Der Finanzierungsplan ist Bemessungsgrundlage für die Bewilligung (Höhe der Förderung).
 
+Der Finanzierungsplan ist hinsichtlich des Gesamtergebnisses verbindlich. Überschreitungen der Gesamtausgaben sind zulässig, wenn sie die Begünstigten aus eigenen Mitteln tragen oder eine Nach- oder Ergänzungsbewilligung gewährt wird, soweit diese nicht durch die Förderrichtlinie ausgeschlossen sind.
 
-Alle mit dem Zuwendungszweck zusammenhängenden Einnahmen (zum Beispiel öffentliche Zuwendungen, Mittel Dritter) und der Eigenanteil des Begünstigten sind als Deckungsmittel für alle mit dem Zuwendungszweck zusammenhängenden Ausgaben einzusetzen.
+(2) Einnahmen sowie Mittel privater und öffentlicher Dritter, die die Begünstigte zweckgebunden für die Finanzierung der förderfähigen Ausgaben des Vorhabens erhalten, sind im Finanzierungplan anzugeben.
 
+(3) Der Bewilligungsbescheid steht unter dem Vorbehalt der Änderung des Finanzierungsplanes durch während der Durchführung des Vorhabens hinzutretende Einnahmen sowie Mittel privater und öffentlicher Dritter. Sie sind mit dem Auszahlungsantrag mitzuteilen.
 
-2.2
+(4) Ermäßigen sich nach dem Erlass des Bewilligungsbescheides die in dem Finanzierungsplan veranschlagten förderfähigen Ausgaben, so ermäßigt sich die Zuwendung anteilig.
 
+(5) Die Begünstigten sind verpflichtet, unverzüglich der Bewilligungsbehörde mitzuteilen, wenn sich nach Vorlage des Finanzierungsplans eine Ermäßigung der förderfähigen Gesamtausgaben um mehr als 20 000 Euro ergibt.
 
-Der Finanzierungsplan (bestehend aus als förderfähig beanspruchten Gesamtausgaben, Eigenanteil, Einnahmen und Zuschuss) ist hinsichtlich des Gesamtergebnisses verbindlich. Überschreitungen der Gesamtausgaben sind zulässig, wenn sie der Begünstigte aus eigenen Mitteln trägt oder eine Nach- oder Ergänzungsbewilligung gewährt wird, soweit diese nicht durch die Richtlinie ausgeschlossen sind.
-
-
-2.3
-
-
-Der Begünstigte ist verpflichtet, unverzüglich der Bewilligungsbehörde mitzuteilen, wenn sich nach Vorlage des Finanzierungsplans eine Ermäßigung der förderfähigen Gesamtausgaben um mehr als 7,5 Prozent oder mehr als 10 000 Euro ergibt. Er ist ferner verpflichtet mitzuteilen, wenn er nach Vorlage des Finanzierungsplans weitere öffentliche Zuwendungen beantragt oder erhält oder wenn er gegebenenfalls weitere Mittel von Dritten erhält. Der Bewilligungs-, der Zahlungs- und der Endfestsetzungsbescheid stehen unter dem Vorbehalt der Änderung des Finanzierungsplanes durch nachträglich hinzutretende Deckungsmittel.
-
-
-2.4
-
-
-Ermäßigen sich nach dem Erlass des Bewilligungsbescheides die in dem Finanzierungsplan veranschlagten förderfähigen Ausgaben, so ermäßigt sich die Zuwendung anteilig. Erhöhen sich die Einnahmen oder treten neue, bisher nicht berücksichtigte Einnahmen hinzu, so ermäßigt sich die Zuwendung. Handelt es sich bei den hinzutretenden Einnahmen um private Mittel, wird die Zuwendung anteilig reduziert. Bei öffentlichen Mitteln ermäßigt sich die Zuwendung um die hinzutretenden Mittel.
-
-
-2.5
-
-
-Nicht als Einnahmen im Sinne der vorhergehenden Bestimmungen gelten Nettoeinnahmen, die sich aus dem Vorhaben gemäß der Artikel 61 und 65 der Verordnung (EU) Nr. 1303/2013 ergeben. Sie sind gesondert zu betrachten, soweit sie nicht unter einen Ausnahmetatbestand fallen.
-
-
-2.6
-
-
-Bei Vorhaben, welche ausschließlich über standardisierte Einheitskosten, Pauschalfinanzierungen oder Pauschalsätze gefördert werden, ist ein Finanzierungsplan nicht erforderlich, ausreichend ist die Erklärung des Begünstigten, dass die Gesamtfinanzierung gesichert ist.
-
+(6) Bei Vorhaben, welche ausschließlich über Festbetragsfinanzierung gefördert werden, ist ein Finanzierungsplan nicht erforderlich, ausreichend ist die Erklärung der Begünstigten, dass die Gesamtfinanzierung gesichert ist.
 
 3.
 
-
-Förderfähigkeit von Ausgaben
-
+Vergabe von Aufträgen
 
 3.1
 
+Vergabedokumentation
 
-Personalkosten werden auf der Grundlage der tatsächlichen Kosten (Nachweis durch Beschäftigungsdokument und Lohn-/Gehaltsabrechnungen) erstattet. Bei teilzeitiger Abordnung für das Vorhaben bedarf es darüber hinaus eines Dokuments des Arbeitgebers, in dem der für das Vorhaben aufzuwendende Prozentsatz der Arbeitszeit festgelegt ist. Bei auf Stundenbasis beschäftigten Personen bedarf es darüber hinaus eines Dokuments, aus dem sich die tatsächlich für das Vorhaben aufgewendeten und anhand eines Arbeitszeiterfassungssystems ermittelten Arbeitsstunden ergeben.
 
+(1) Sind die Begünstigten als öffentliche Auftraggeber verpflichtet, die Vergabeverordnung vom 12. April 2016 (BGBl. I S. 624), die zuletzt durch Artikel 2 des Gesetzes vom 9. Juni 2021 (BGBl. I S. 1691) geändert worden ist, in der jeweils geltenden Fassung, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so haben sie die Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen vorzulegen. Die Verpflichtung zur Einhaltung der Vergabevorschriften ergibt sich aus den §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 2 des Gesetzes vom 19. Juli 2022 (BGBl. I S. 1214) geändert worden ist, sowie aus § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), das durch Artikel 2 Absatz 18 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in den jeweils geltenden Fassungen.
 
-Der vorstehende Absatz findet keine Anwendung, soweit Personalkosten über standardisierte Einheitskosten, Pauschalfinanzierungen oder Pauschalsätze gefördert werden.
-
+(2) Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.
 
 3.2
 
+Beachtung der Binnenmarktrelevanz
 
-Die Mehrwertsteuer gehört, soweit sie nicht als Vorsteuer nach nationalem Recht rückerstattet wird, zu den förderfähigen Ausgaben, sofern in der Richtlinie keine abweichenden Regelungen getroffen wurden.
 
+(1) Begünstigte als öffentliche Auftraggeber im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und als Sektorenauftraggeber im Sinne des § 100 des Gesetzes gegen Wettbewerbsbeschränkungen, in der jeweils geltenden Fassung, sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von eindeutigem Interesse ist.
+
+(2) Binnenmarktrelevante Aufträge sind öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben. Einzelheiten können der „Mitteilung der Kommission zu Auslegungsfragen in Bezug auf das Gemeinschaftsrecht, das für die Vergabe öffentlicher Aufträge gilt, die nicht oder nur teilweise unter die Vergaberichtlinien fallen“ vom 24. Juli 2006 (ABl. C 179, S. 2) entnommen werden.
+
+(3) Bei Liefer- und Dienstleistungen ist ab einem Auftragswert von 5 000 Euro netto der Nachweis der öffentlichen Bekanntgabe oder die Begründung, weshalb ein grenzüberschreitendes Interesse ausgeschlossen werden kann, vorzulegen. Gleiches gilt bei Aufträgen für Bauleistungen ab einem Auftragswert von 10 000 Euro netto. Bei der Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab eindeutig und erschöpfend beschrieben werden kann, ist der Nachweis der öffentlichen Bekanntgabe nur dann vorzulegen, wenn besondere Umstände vorliegen, die ein grenzüberschreitendes Interesse belegen.
 
 3.3
 
+Folgen der Nichteinhaltung
 
-Skonti, Boni, Rabatte und Gutschriften sind von den förderfähigen Ausgaben abzuziehen, soweit sie der Begünstigte tatsächlich in Anspruch genommen hat.
 
+(1) Kann der Nachweis eines ordnungsgemäßen Vergabeverfahrens nach Nummer 3.1 nicht erbracht werden oder es werden im Vergabeverfahren erheblichen Verstöße festgesellt, wird die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise widerrufen.
+
+(2) Hinsichtlich der Art der möglichen Vergabeverstöße und der Höhe der auszusprechenden Verwaltungssanktionen wird auf den Beschluss der Europäischen Kommission C (2019) 3452 final vom 14. Mai 2019 mit den „Leitlinien für die Festsetzung von Finanzkorrekturen, die bei Verstößen gegen die Vorschriften für die Vergabe öffentlicher Aufträge auf von der Union finanzierte Ausgaben anzuwenden sind“, verwiesen. Diese Leitlinien werden auf entsprechende Vergabeverstöße bei Vergabeverfahren unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen, in der jeweils geltenden Fassung, analog angewendet.
+
+(3) Werden Verstöße gegen die Anforderungen an eine transparente, gleichbehandelnde und diskriminierungsfreie Bekanntgabe nach Nummer 3.2 festgestellt, wird in Anwendung der oben benannten Leitlinien der Kommission zur Festsetzung von Finanzkorrekturen die Auszahlung teilweise abgelehnt und die Zuwendung teilweise widerrufen.
 
 3.4
 
+Ausschluss von Interessenkonflikten
 
-Indirekte Kosten (Gemeinkosten) sind förderfähige Ausgaben, sofern sie auf den tatsächlichen Kosten beruhen, die sich auf die Durchführung des aus dem ELER-finanzierten Vorhabens beziehen und dem Vorhaben nach einer angemessenen Methode anteilig zugerechnet werden.
 
-
-Der vorstehende Absatz findet keine Anwendung, soweit indirekte Kosten über standardisierte Einheitskosten, Pauschalfinanzierungen oder Pauschalsätze gefördert werden.
-
+Es sind Interessenkonflikte bei den am Vergabeverfahren beteiligten Personen auszuschließen. Zu jeder Vergabe, die die Begünstigten zur Förderung einreichen, ist eine Erklärung zum Ausschluss von Interessenkonflikten einzureichen. Die Abgabe dieser Erklärung ist Voraussetzung für die Auszahlung.
 
 3.5
 
-
-Sollzinsen, Gebühren für Finanzgeschäfte, Wechselgebühren und Devisenverluste und sonstige reine Finanzierungskosten sowie Bank- und Kontoführungsgebühren, Bußgelder, Geldstrafen und Prozesskosten sind nicht förderfähig. Kosten der von einer Bank oder einem sonstigen Finanzinstitut geleisteten Sicherheiten sind ebenfalls nicht förderfähig.
-
-
-3.6
+Hinweis
 
 
-Rechnungslegungs- und Rechnungsprüfungskosten sind förderfähig, sofern sie direkt mit dem Vorhaben zusammenhängen und für seine Vorbereitung oder Durchführung notwendig sind oder sich auf Auflagen der Bewilligungsbehörde beziehen.
-
-
-3.7
-
-
-Sicherheitsleistungen werden nur dann als förderfähige Ausgabe anerkannt, wenn diese durch eine Bürgschaft eines Kreditinstitutes nachgewiesen oder die Sicherheit durch Hinterlegung von Geld auf ein Sperrkonto einer Bank, über das Begünstigter (Auftraggeber) und Auftragnehmer nur gemeinsam verfügen können, geleistet wird.
-
-
-3.8
-
-
-Soweit die Förderung von Leasing beziehungsweise Mietkauf in der Förderrichtlinie nicht ausgeschlossen ist, sind Leasingraten förderfähige
-
-Ausgaben. Anerkannt werden Ratenzahlungen, soweit diese im Bewilligungszeitraum geleistet werden und der Begünstigte nachweisen kann, dass Leasing die kostengünstigste Methode ist, um das Wirtschaftsgut zu nutzen.
-
+Die Auftragsberatungsstelle Sachsen e. V. (ABSt Sachsen e. V.) berät zur Vergabe öffentlicher Aufträge und den dabei zu beachtenden gesetzlichen Regelungen. Sie unterstützt die Begünstigten bei der Vorbereitung und Durchführung von Vergabeverfahren.
 
 4.
-
-
-Vergabe von Aufträgen
-
-
-4.1
-
-
-Ist der Begünstigte aufgrund von §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2018 (BGBI. I S. 1151) geändert worden ist, sowie von § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), in der jeweils geltenden Fassung, verpflichtet, die Vergabeverordnung (VgV), die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so hat er die Einhaltung dieser Verpflichtung der Bewilligungsbehörde durch die Vorlage der Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen nachzuweisen. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.  
-
-
-4.2
-
-
-Begünstigte als öffentliche Auftraggeber im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und als Sektorenauftraggeber im Sinne des § 100 des Gesetzes gegen Wettbewerbsbeschränkungen sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von eindeutigem Interesse ist.
-
-
-Binnenmarktrelevante Aufträge sind öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben. Einzelheiten können der „Mitteilung der Kommission zu Auslegungsfragen in Bezug auf das Gemeinschaftsrecht, das für die Vergabe öffentlicher Aufträge gilt, die nicht oder nur teilweise unter die Vergaberichtlinien fallen“ vom 24. Juli 2006 (ABI. C 179, S. 2) entnommen werden.
-
-
-Bei Liefer- und Dienstleistungen ist ab einem Auftragswert von 5 000 Euro netto der Nachweis der öffentlichen Bekanntgabe oder die Begründung, weshalb ein grenzüberschreitendes Interesse ausgeschlossen werden kann, vorzulegen. Gleiches gilt bei Aufträgen für Bauleistungen ab einem Auftragswert von 10 000 Euro
-
-netto. Bei der Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab eindeutig und erschöpfend beschrieben werden kann, ist der Nachweis der öffentlichen Bekanntgabe nur dann vorzulegen, wenn besondere Umstände vorliegen, die ein grenzüberschreitendes Interesse belegen.
-
-4.3
-
-
-Ist der Begünstigte nach Nummer 4.1 zur Beachtung der vergaberechtlichen Vorschriften verpflichtet und kann den Nachweis des ordnungsgemäßen
-
-Vergabeverfahrens nicht erbringen oder es kommt im Vergabeverfahren zu erheblichen Verstößen, wird die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise zurückgenommen.
-
-
-Hinsichtlich der Art der möglichen Vergabeverstöße und der Höhe der auszusprechenden Verwaltungssanktionen wird auf den Beschluss der Europäischen Kommission C(2013) 9527 vom 19. Dezember 2013 mit den „Leitlinien zur Festsetzung von Finanzkorrekturen, die bei Verstößen gegen die Vorschriften für die Vergabe öffentlicher Aufträge auf von der EU im Rahmen der geteilten Mittelverwaltung finanzierte Ausgaben anzuwenden sind“, verwiesen. Diese Leitlinien werden auf entsprechende Vergabeverstöße bei Vergabeverfahren unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen analog angewendet.
-
-
-Ist der Begünstigte nach Nummer 4.2 verpflichtet, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten und es liegen Verstöße gegen die Anforderungen an eine transparente und diskriminierungsfreie Bekanntgabe vor, wird in Anwendung der oben benannten Leitlinien der Kommission zur Festsetzung von Finanzkorrekturen die Auszahlung teilweise abgelehnt und die Zuwendung teilweise zurückgenommen.
-
-5.
-
 
 Dauerhaftigkeit (Zweckbindung)
 
 
+(1) Soweit nach der Förderrichtlinie eine Zweckbindungsfrist gilt, beginnt die Frist mit der Endfestsetzung. Das Fristende wird mit dem Endfestsetzungsbescheid festgelegt.
+
+(2) Bis zum Ende der Zweckbindungsfrist ist das Vorhaben dem Zuwendungszweck entsprechend zu verwenden. Veränderungen sind der Bewilligungsbehörde mitzuteilen. Erhebliche Veränderungen führen zum vollständigen oder teilweisen Widerruf der Zuwendung und der Rückforderung der Zuwendung in der entsprechenden Höhe.
+
+(3) Innerhalb der Zweckbindungsfrist werden Kontrollen durchgeführt.
+
+5.
+
+Rücknahme, Widerruf, Erstattung
+
+
+(1) Der Bewilligungsbescheid ergeht unter dem Vorbehalt der Prüfung und Festsetzung im Rahmen des Zahlungsantragsverfahrens.
+
+(2) Der Bewilligungsbescheid wird mit Wirkung für die Vergangenheit zurückgenommen oder widerrufen, wenn
+
 a)
 
-
-Bei Investitionsvorhaben endet die Zweckbindungsfrist fünf Jahre nach der Endauszahlung an den Begünstigten, sofern nicht nach den Bestimmungen für staatliche Beihilfen ein längerer Zeitraum festzulegen ist. Die geförderten Grundstücke, Bauten und bauliche Anlagen, technische Einrichtungen, Maschinen und Geräte unterliegen der Zweckbindung. Sie dürfen ab Vorhabensbeginn bis zum Ende der Zweckbindungsfrist nicht veräußert und müssen entsprechend dem im Bewilligungsbescheid
-
-festgelegten Zuwendungszweck genutzt werden. Für Anschaffungen geringwertiger Wirtschaftsgüter mit einem Wert bis zu 800 Euro (ohne Mehrwertsteuer) findet die Zweckbindungsfrist keine Anwendung.
-
+die Begünstigten vorsätzlich falsche Angaben machen oder vorsätzlich falsche Belege vorlegen,
 
 b)
 
+die festgelegten Fristen für Beginn, Durchführung und Abschluss des Vorhabens nicht eingehalten werden,
 
-Alle anderen Vorhaben sind von der Anforderung an die Dauerhaftigkeit ausgenommen, sofern sich nicht Anforderungen aus den Bestimmungen für staatliche Beihilfen ergeben. Gleiches gilt für Vorhaben, bei denen eine Dauerhaftigkeit im üblichen Sinne aufgrund des Zuwendungszwecks tatsächlich nicht möglich ist.
+c)
 
+Grundstücke, Bauten und bauliche Anlagen, technische Einrichtungen, Maschinen und Geräte innerhalb der Zweckbindung veräußert oder nicht entsprechend dem im Bewilligungsbescheid festgelegten Zuwendungszweck genutzt werden,
+
+d)
+
+Mitteilungspflichten der Nebenbestimmungen des Bewilligungsbescheides nicht eingehalten oder nicht erfüllt werden.
+
+
+(3) Der Bewilligungsbescheid kann mit Wirkung für die Vergangenheit ganz oder zum Teil zurückgenommen oder widerrufen werden, wenn
+
+a)
+
+die Begünstigten oder ein Gläubiger einen Antrag auf Einleitung eines Insolvenzverfahrens stellt, ein Insolvenzverfahren gegen ihn eröffnet wird oder die Eröffnung mangels Masse abgelehnt oder er mit Zwangsvollstreckungsmaßnahmen verfolgt wird,
+
+b)
+
+der Zuwendungszweck oder eine mit der Zuwendung verbundene Auflage nicht oder nicht innerhalb einer gesetzten Frist erfüllt wird. Gleiches gilt, wenn die Begünstigten die Durchführung einer Kontrolle vor Ort verhindert haben,
+
+c)
+
+mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Zuwendungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten hat.
+
+
+(4) Die Bewilligungsbehörde berücksichtigt die Art, Schwere, Häufigkeit und Dauer des festgestellten Verstoßes gegen die Bedingungen und Auflagen sowie die Höhe des finanziellen Schadens.
+
+(5) Zu Unrecht gezahlte Beträge sind zurückzuerstatten und vom Eintritt der Unwirksamkeit des Verwaltungsaktes an mit fünf Prozentpunkten über dem Basiszinssatz jährlich zu verzinsen.
 
 6.
 
-
-Rücknahme
-
-
-Der Bewilligungsbescheid ergeht unter dem Vorbehalt der Prüfung und Festsetzung im Rahmen des Zahlungsantragsverfahrens gemäß der Artikel 48 und 49 der Verordnung (EU) Nr. 809/2014.
+Abrechnung und Auszahlung der Zuwendung
 
 
-Die Zuwendung soll insbesondere dann ganz oder teilweise auch mit Wirkung für die Vergangenheit zurückgenommen werden für den Fall, dass Grundstücke, Bauten und bauliche Anlagen, technische Einrichtungen, Maschinen und Geräte innerhalb der Zweckbindung unzulässig veräußert oder nicht entsprechend dem im Bewilligungsbescheid festgelegten Zuwendungszweck genutzt werden (Zweckbindung).
+(1) Die Auszahlung der bewilligten Zuwendung erfolgt unabhängig von der Gewährung eines Vorschusses im Erstattungsverfahren. Die Auszahlung der Zuwendung kann erst beantragt werden, wenn die damit verbundene Leistung tatsächlich erbracht ist.
 
+(2) Der Auszahlungsantrag ist nach Abschluss des Vorhabens bis zum festgesetzten Abrechnungstermin bei der Bewilligungsbehörde einzureichen. Eine Änderung des Abrechnungstermins bedarf eines schriftlichen Antrages und der Entscheidung der Bewilligungsbehörde. Bei Überschreiten des Abrechnungstermins besteht kein Anspruch auf Auszahlung.
 
-Die Zuwendung kann insbesondere dann ganz oder teilweise auch mit Wirkung für die Vergangenheit zurückgenommen werden für den Fall:
+(3) Teilzahlungsanträge sind zulässig, wenn sie in der Förderrichtlinie oder im Bewilligungsbescheid nicht ausgeschlossen sind. Im Fall der Förderung mit vereinfachten Kostenoptionen kann die Teilauszahlung nur bei Nachweis entsprechender im Bewilligungsbescheid festgelegter Einheiten/Zwischenziele/Meilensteine geleistet werden.
 
+(4) Soweit die Förderung auf der Grundlage tatsächlich entstandener förderfähiger Ausgaben erfolgt, sind mit dem Auszahlungsantrag die bezahlten Rechnungen und die Zahlungsnachweise oder gleichwertige Buchungsbelege einzureichen. Diese Belegpflicht gilt nicht bei Förderung auf Grundlage von vereinfachten Kostenoptionen. Als Zahlungsnachweise werden Kontoauszüge durch die Bewilligungsstelle anerkannt. Bei Körperschaften des öffentlichen Rechts werden zudem Auszahlungsanordnungen oder ähnliche innerhalb der Körperschaft erzeugte Dokumente als Zahlungsnachweise anerkannt, wenn sie zweifelsfrei auf die Zahlung schließen lassen.
 
-a)
+(5) Für Folgejahre bewilligte Zuschüsse können vorfristig zur Auszahlung beantragt werden. Die Auszahlung ist nur im Rahmen der zur Verfügung stehenden Haushaltsmittel möglich.
 
-dass die festgelegten Fristen für Beginn, Durchführung und Abschluss des Vorhabens nicht eingehalten werden,
+(6) Die Bewilligungsbehörde kann die Auszahlung zurückhalten, bis alle Auflagen und Verpflichtungen erfüllt sind.
 
+(7) Die Bewilligungsbehörde zieht die bei Prüfung des Zahlungsantrages angewendeten Kürzungsbeträge von dem bewilligten Zuschusshöchstbetrag ab.
 
-b)
-
-dass Mitteilungspflichten der Nebenbestimmungen des Bewilligungsbescheides nicht eingehalten oder nicht erfüllt werden.
-
+(8) Die zuständige Finanzbehörde erhält eine Mitteilung über die Höhe der jährlichen Zahlungen an die Begünstigten (gemäß Mitteilungsverordnung).
 
 7.
-
-
-Rücknahme bei Insolvenz
-
-
-Der Bewilligungsbescheid soll ganz oder teilweise zurückgenommen werden, wenn der Begünstigte oder ein Gläubiger einen Antrag auf Einleitung eines Insolvenzverfahrens stellt, ein Insolvenzverfahren gegen ihn eröffnet wird oder die Eröffnung mangels Masse abgelehnt oder er mit Zwangsvollstreckungsmaßnahmen verfolgt wird.
-
-
-8.
-
-
-Rücknahme bei Verlagerung der Produktion außerhalb der Europäischen Union
-
-
-Für ein Vorhaben, das Investitionen in die Infrastruktur oder produktive Investitionen beinhaltet, wird der Bewilligungsbescheid ganz zurückgenommen, wenn binnen zehn Jahren nach dem Datum der Endauszahlung die Produktionstätigkeit an einen Standort außerhalb der Europäischen Union verlagert wird, außer wenn der Begünstigte ein Kleinstunternehmen sowie kleines oder mittleres Unternehmen (KMU) ist.
-
-
-9.
-
-
-Auszahlung der Zuwendung, Abrechnungstermin
-
-
-9.1
-
-
-Ein Auszahlungsantrag ist nach Abschluss des Vorhabens zu stellen. Teilzahlungsanträge sind nur zulässig, wenn sie im Bewilligungsbescheid ausdrücklich zugelassen sind.
-
-
-9.2
-
-
-Die Auszahlung der bewilligten Zuwendung erfolgt im Erstattungsverfahren. Erstattet werden nur tatsächlich getätigte Ausgaben für erbrachte Leistungen und der erfolgten Zahlung, sofern es sich nicht um eine Förderung auf der Grundlage standardisierter Einheitskosten, Pauschalfinanzierungen oder Pauschalsätzen handelt.
-
-
-9.3
-
-
-Der Auszahlungsantrag einschließlich der bezahlten Originalrechnungen und die Zahlungsnachweise oder gleichwertige Buchungsbelege sind bis zum festgesetzten Abrechnungstermin bei der Bewilligungsbehörde einzureichen.
-
-Der Zahlungsempfänger und dessen Bankverbindung müssen auf den Belegen zweifelsfrei identifizierbar sein.
-
-Enthält der Beleg oder Kontoauszug keine Bankverbindung des Empfängers, ist der Überweisungsauftrag beizulegen.
-
-Soweit Belege nur in elektronischer Form vorliegen, sind die entsprechenden Ausdrucke einzureichen. Die Belegpflicht gilt nicht bei Gewährung von standardisierten Einheitskosten, Pauschalfinanzierungen oder Pauschalsätzen.
-
-
-9.4
-
-
-Eine Änderung des Abrechnungstermins bedarf eines schriftlichen Antrages und der Entscheidung der Bewilligungsbehörde. Bei Überschreiten des Abrechnungstermins besteht kein Anspruch auf Auszahlung.
-
-
-9.5
-
-
-Für Folgejahre bewilligte Zuschüsse können vorfristig zur Auszahlung beantragt werden. Die Auszahlung ist nur im Rahmen der zur Verfügung stehenden Haushaltsmittel möglich.
-
-
-10.
-
 
 Verrechnung
 
 
-Gegenüber dem Begünstigten bestehende und künftig entstehende Rückzahlungsansprüche aufgrund von Vorhaben, die ganz oder teilweise aus dem Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft (EAGFL) - Abteilung Garantie, aus dem Europäischen Garantiefonds für Landwirtschaft (EGFL) sowie aus dem ELER finanziert sind, werden mit vorhandenen oder künftig entstehenden Ansprüchen des Begünstigten aus Vorhaben, die unter ausschließlicher oder teilweiser Beteiligung des EGFL sowie des ELER finanziert werden, auch vorhabensübergreifend verrechnet.
+Offene Erstattungsbeträge aus dem Europäischen Garantiefonds für die Landwirtschaft oder dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums werden von allen künftigen Auszahlungen abgezogen.
 
-
-11.
-
-
-Ablehnung, Rücknahme und Sanktion
-
-
-11.1
-
-
-Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere sind der Artikel 59 Absatz 7 der Verordnung (EU) Nr. 1306/2013 sowie der Artikel 35 der Verordnung (EU) Nr. 640/2014 mit den Artikeln 7 und 63 der Verordnung (EU) Nr. 809/2014 zu beachten.
-
-
-11.2
-
-
-Ein Antrag auf Zuwendung oder Auszahlung wird abgelehnt, wenn der Begünstigte oder sein Vertreter die Durchführung einer Vor-Ort-Kontrolle verhindert.
-
-
-11.3
-
-
-Stellt die Bewilligungsbehörde fest, dass der Begünstigte Förderkriterien nicht eingehalten hat, wird auf der Grundlage des Artikels 35 Absatz 1 der Verordnung (EU) Nr. 640/2014 die Auszahlung ganz abgelehnt oder die Zuwendung ganz zurückgenommen.
-
-
-11.4
-
-
-Stellt die Bewilligungsbehörde fest, dass der Begünstigte Verpflichtungen und sonstige Auflagen nicht eingehalten hat, wird auf der Grundlage des Artikels 35 Absatz 2 und 3 der Verordnung (EU) Nr. 640/2014 die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise zurückgenommen. Dabei sind Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.
-Diese Sanktion wird nicht verhängt, wenn der Begünstigte zur Zufriedenheit der Bewilligungsbehörde nachweisen kann, dass er nicht die Schuld für den Verstoß gegen die Verpflichtungen oder sonstigen Auflagen trägt oder wenn die Bewilligungsbehörde sich anderweitig davon überzeugt hat, dass die Schuld nicht bei dem betroffenen Begünstigten liegt.
-
-
-11.5
-
-
-Auf der Grundlage des Artikels 63 der Verordnung (EU) Nr. 809/2014 wird eine Verwaltungssanktion des zu zahlenden Betrags für den Fall, dass die Differenz zwischen:
-
-
-a)
-
-
-dem von der Bewilligungsbehörde ermittelten Betrag, der ausschließlich aufgrund der Angaben des Begünstigten auszuzahlen wäre, und
-
-
-b)
-
-
-dem nach Prüfung der Förderfähigkeit der angegebenen Ausgaben dem Begünstigten tatsächlich zu zahlenden Betrag 10 Prozent übersteigt,
-
-
-verhängt.
-Die Sanktion beläuft sich auf die festgestellte Differenz zwischen diesen Beträgen, geht jedoch nicht über eine vollständige Rücknahme der Unterstützung hinaus. Diese Sanktion wird nicht verhängt, wenn der Begünstigte zur Zufriedenheit der Bewilligungsbehörde nachweisen kann, dass die Einbeziehung des nicht förderfähigen Betrags nicht auf ein Verschulden seinerseits zurückzuführen ist, oder wenn die zuständige Behörde sich anderweitig davon überzeugt hat, dass der Fehler nicht bei dem betreffenden Begünstigten liegt.
-
-
-11.6
-
-
-Auf der Grundlage von Artikel 35 Absatz 5 und 6 der Verordnung (EU) Nr. 640/2014 wird die Auszahlung abgelehnt oder die Zuwendung vollständig zurückgenommen sowie der Begünstigte für das laufende und das darauf folgende Kalenderjahr von der Beihilfegewährung für dasselbe Vorhaben oder dieselbe Vorhabenart ausgeschlossen, wenn:
-
-
-a)
-
-
-es sich aufgrund der Gesamtbewertung der festgestellten Nichteinhaltung von Verpflichtungen oder sonstigen Auflagen um einen schwerwiegenden Verstoß handelt oder
-
-
-b)
-
-
-der Begünstigte falsche Nachweise vorgelegt hat, um die Förderung zu erhalten oder er es versäumt, die erforderlichen Informationen zu liefern.
-
-
-11.7
-
-
-Gemäß Artikel 56 Absatz 2 der Verordnung (EU) Nr. 1306/2013 reduziert sich der im Bewilligungsbescheid bewilligte Höchstbetrag, soweit beantragte Ausgaben als nicht förderfähig festgestellt werden (einschließlich Sanktion).
-
-
-11.8
-
-
-Im Falle höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde ganz oder teilweise auf die Rückzahlung der Zuwendung verzichten. Als Fälle „höherer Gewalt“ und „außergewöhnliche Umstände“ werden insbesondere folgende Fälle oder Umstände anerkannt:
-
-
-a)
-
-
-Tod des Begünstigten,
-
-
-b)
-
-
-länger andauernde Berufsunfähigkeit des Begünstigten,
-
-
-c)
-
-
-eine schwere Naturkatastrophe, die den Betrieb erheblich in Mitleidenschaft zieht,
-
-
-d)
-
-
-unfallbedingte Zerstörung von Stallgebäuden des Betriebs,
-
-
-e)
-
-
-eine Seuche oder Pflanzenkrankheit, die den ganzen Tier- beziehungsweise Pflanzenbestand des Begünstigten oder einen Teil davon befällt,
-
-
-f)
-
-
-Enteignung des gesamten Betriebes oder eines wesentlichen Teils davon, soweit diese Enteignung am Tag des Eingangs der Verpflichtung nicht vorherzusehen war.
-
-
-Der Fall höherer Gewalt oder außergewöhnlicher Umstände ist der Bewilligungsbehörde innerhalb von 15 Arbeitstagen nach dem Zeitpunkt, ab dem der Begünstigte hierzu in der Lage ist, schriftlich mitzuteilen.
-
-
-11.9
-
-
-Im Falle der Übertragung des Betriebes oder des geförderten Vorhabens von einem Begünstigten an einen anderen Begünstigten kann von einer Rückforderung abgesehen werden, wenn der Übernehmer alle Voraussetzungen für die Gewährung der Zuwendung für die Dauer der Zweckbindungsfrist erfüllt und die von der Bewilligungsbehörde von ihm geforderten Nachweise vorlegt.
-Der Übernehmer hat der Bewilligungsbehörde innerhalb von 15 Arbeitstagen die Übernahme schriftlich mitzuteilen.
-
-
-12.
-
+8.
 
 Abtretung
 
 
 Eine Abtretung der Zuwendung aus diesem Bewilligungsbescheid, zum Beispiel an Kreditinstitute, ist nicht statthaft. Ausnahmen sind nur zulässig, wenn sie im Bewilligungsbescheid ausdrücklich zugelassen sind.
 
-
-13.
-
+9.
 
 Aufbewahrungspflichten
 
 
-Die Originalbelege über die Einzelzahlungen oder gleichwertige Buchungsbelege sowie die Verträge, Unterlagen über die Vergabe von Aufträgen und alle sonst mit der Förderung zusammenhängenden Unterlagen (insbesondere baurechtliche Genehmigungen) sind während der Zweckbindungsfrist aufzubewahren. Es gilt für die Aufbewahrungspflicht die für das Vorhaben festgesetzte Zweckbindungsfrist.
+(1) Die Originalbelege über die Einzelzahlungen oder gleichwertige Buchungsbelege sowie die Verträge, Unterlagen über die Vergabe von Aufträgen und alle sonst mit der Förderung zusammenhängenden Unterlagen (insbesondere baurechtliche Genehmigungen) sind während der Zweckbindungsfrist aufzubewahren.
 
+(2) Soweit keine Zweckbindungsfrist bestimmt ist, sind die oben genannten Dokumente fünf Jahre lang, gerechnet ab dem Datum des Festsetzungsbescheides, aufzubewahren.
 
-Soweit keine Zweckbindungsfrist bestimmt ist, sind die oben genannten Dokumente fünf Jahre lang, gerechnet ab dem Datum der Endauszahlung, aufzubewahren.
-
-
-14.
-
+10.
 
 Prüfungen
 
 
-Die rechtmäßige Verwendung der Fördermittel kann jederzeit innerhalb der Zweckbindungsfrist durch die zuständigen Behörden auch vor Ort überprüft werden. Der Begünstigte hat den Zutritt zu Grundstücken, baulichen Anlagen und Gebäuden, einschließlich seiner Wohn- und Geschäftsräume zu gestatten, sofern diese Gegenstand der Förderung waren oder sich geförderte Gegenstände in diesen entsprechend des jeweiligen Bewilligungsbescheides befinden.
+(1) Die rechtmäßige Verwendung der Fördermittel kann jederzeit durch die zuständigen Behörden auch vor Ort überprüft werden. Der Begünstigte hat den Zutritt zu Grundstücken, baulichen Anlagen und Gebäuden, einschließlich seiner Wohn- und Geschäftsräume zu gestatten, sofern diese Gegenstand der Förderung waren oder sich darin geförderte Gegenstände befinden.
+
+(2) Ein Antrag auf Zuwendung oder Auszahlung wird abgelehnt und der Bewilligungsbescheid widerrufen, wenn der Begünstigte oder sein Vertreter die Durchführung einer Vor-Ort-Kontrolle verhindert.
+
+(3) Die Prüfungen können insbesondere durch die zuständigen Bediensteten der Bewilligungsbehörden, der zuständigen Landesministerien, der Europäischen Kommission, des Europäischen Amtes für Betrugsbekämpfung, des Sächsischen Rechnungshofes und des Europäischen Rechnungshofes durchgeführt werden.
+
+(4) Die zuständigen Behörden sind berechtigt, Bücher, Belege, sonstige Geschäftsunterlagen und Dokumente anzufordern, die insbesondere dem Nachweis der tatsächlichen Durchführung des Vorhabens dienen (zum Beispiel Tätigkeitsnachweise, Anwesenheitsnachweise, Stundennachweise). Die Begünstigten haben die erforderlichen Unterlagen bereitzuhalten und die notwendigen Auskünfte zu erteilen.
+
+11.
+
+Kommunikations- und Sichtbarkeitsmaßnahmen
 
 
-Die Prüfungen können insbesondere durch die zuständigen Bediensteten der Bewilligungsbehörde, des Staatsministeriums für Umwelt und Landwirtschaft, der Bescheinigenden Stelle im Sächsischen Staatsministerium der Finanzen, der Europäischen Kommission, des Europäischen Amtes für Betrugsbekämpfung, des Sächsischen Rechnungshofes (§ 91 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 [SächsGVBl. S. 153], die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 [SächsGVBl. 630] geändert worden ist) und des Europäischen Rechnungshofes durchgeführt werden.
+(1) Es sind Kommunikations- und Sichtbarkeitsmaßnahmen einzuhalten, um den Beitrag des ELER und somit den Beitrag der EU zur Unterstützung der Vorhaben besser bekannt zu machen. Diese sind Anlage des Bewilligungsbescheides.
 
+(2) Die EU behält sich vor, das von den Begünstigten zu erstellende Kommunikations- und Sichtbarkeitsmaterial zu verwenden.
 
-15.
-
-
-Publizitätspflichten
-
-
-15.1
-
-
-Sofern diesem Bewilligungsbescheid die Anlage „Informations- und Publizitätsmaßnahmen“ beigefügt ist, sind die unter Nummer 1 dieser Anlage gekennzeichneten Publizitätspflichten zu erfüllen.
-
-
-15.2
-
-
-Werden darüber hinaus freiwillige Publizitätsmaßnahmen (Schilder, Druckerzeugnisse, Websites und so weiter) durchgeführt, so sind die Vorgaben unter Nummer 2 dieser Anlage zu beachten.
-
-
-16.
-
-
-Erstattung der Zuwendung, Verzinsung
-
-
-16.1
-
-
-Die Zuwendung ist zu erstatten, soweit ein Bewilligungsbescheid nach Verwaltungsverfahrensrecht (§§ 43, 44 Verwaltungsverfahrensgesetz in Verbindung mit § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen) oder anderen, insbesondere auch den unter Nummer 11 aufgeführten europäischen Rechtsvorschriften mit Wirkung für die Vergangenheit zurückgenommen oder widerrufen oder sonst unwirksam wird.
-
-
-16.2
-
-
-Der Erstattungsbetrag ist nach Maßgabe von Artikel 7 der Verordnung (EU) Nr. 809/2014 jährlich zu verzinsen.
-
-
-17.
-
+12.
 
 Mitteilungspflichten
 
 
-Der Begünstigte ist über die Mitteilungspflichten in Nummer 2.3, 11.8 und 11.9 hinaus verpflichtet, der Bewilligungsbehörde unverzüglich anzuzeigen, wenn:
-
+(1) Die Begünstigten sind verpflichtet, der Bewilligungsbehörde unverzüglich anzuzeigen, wenn:
 
 a)
 
-
-der Zuwendungszweck oder sonstige für die Bewilligung der Zuwendung maßgeblichen Umstände sich ändern oder wegfallen,
-
+die Maßnahme abweichend vom Antrag und der daraufhin erlassenen Bewilligung ausgeführt wird,
 
 b)
 
-
-ein Insolvenzverfahren gegen ihn beantragt oder eröffnet wird,
-
+sich nach Vorlage des Finanzierungsplans eine Ermäßigung der förderfähigen Gesamtausgaben um mehr als 20 000 Euro ergibt,
 
 c)
 
+der Zuwendungszweck nicht zu erreichen ist,
 
-er beabsichtigt, seine Produktion innerhalb von zehn Jahren nach dem Datum des Festsetzungsbescheides außerhalb der Europäischen Union zu verlagern. Dies betrifft ausschließlich Vorhaben, die Investitionen in die Infrastruktur oder produktive Investitionen beinhalten. Diese Mitteilungspflicht besteht nicht für KMU.
+d)
+
+sonstige für die Bewilligung maßgebliche Umstände sich ändern oder wegfallen,
+
+e)
+
+ein Insolvenzverfahren gegen die begünstigte Person beantragt oder eröffnet wird,
+
+f)
+
+sich Angaben der Begünstigten ändern (zum Beispiel Anschrift, Unternehmensstruktur, Gesellschaftsstruktur, Rechtsform),
+
+g)
+
+sie innerhalb der Zweckbindungsfrist beabsichtigen, die geförderten Grundstücke, Bauten und bauliche Anlagen, technische Einrichtungen, Maschinen und Geräte zu veräußern oder nicht mehr entsprechend dem im Bewilligungsbescheid festgelegten Zuwendungszweck zu nutzen, oder wenn die geförderte Investition auf eine andere Rechtsperson übergeht (zum Beispiel vorweggenommener Erbfolge, Verpachtung, Gründung oder Auflösung einer GbR, Verkauf, Zwangsversteigerung).
 
 
-18.
+(2) Im Falle der Übertragung der Förderung hat der Übernehmer der Bewilligungsbehörde innerhalb von 15 Arbeitstagen die Übernahme schriftlich mitzuteilen. Fälle höherer Gewalt oder außergewöhnlicher Umstände sind ebenfalls innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten dazu in der Lage sind, schriftlich anzuzeigen.
 
+(3) Die Begünstigten sind verpflichtet, die von der Bewilligungsbehörde im Bewilligungsbescheid abgeforderten Daten zu dem geförderten Vorhaben zum Zwecke der Verwaltung, Kontrolle, Prüfung, Überwachung (Monitoring) und Evaluierung zu erheben und der Bewilligungsbehörde zu den vorgegebenen Zeitpunkten zu übermitteln. Dazu hat er, soweit erforderlich, auch die abgeforderten Daten bei den an dem Vorhaben Teilnehmenden und an dem Vorhaben beteiligten Partner/innen zu erheben und entsprechende Einverständniserklärungen einzuholen. Zudem hat er die an dem Vorhaben Teilnehmenden über die Notwendigkeit, die Rechtmäßigkeit und den Umfang der Datenerhebung und -verarbeitung zu informieren. Die Daten bilden die Grundlage für Berichtspflichten des jeweiligen Bundeslandes gegenüber der Europäischen Kommission. Zudem sind die Begünstigten verpflichtet, mit den für das Monitoring und die Evaluierung des GAP-Strategieplans beauftragten Stellen zusammenzuarbeiten.
+
+13.
 
 Subventionsbetrug
 
 
-18.1
+(1) Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 4 des Gesetzes vom 4. Dezember 2022 (BGBl. I S. 2146) geändert worden ist, in der jeweils geltenden Fassung, von denen die Bewilligung, Auszahlung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 des Strafgesetzbuches, in der jeweils geltenden Fassung. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
+
+(2) Stellt die Bewilligungsbehörde fest, dass tatsächliche Anhaltspunkte vorliegen, die den Verdacht eines Subventionsbetruges rechtfertigen oder die Begünstigten vorsätzlich falsche Angaben gemacht haben, hat sie diesen Vorgang gemäß Artikel 325 Vertrag über die Arbeitsweise der Europäischen Union, § 1 des Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037), in den jeweils geltenden Fassungen, der zuständigen Strafverfolgungsbehörde zu übergeben
+
+14.
+
+Änderung von Auflagen und Nebenbestimmungen
 
 
-Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches, von denen die Bewilligung, Gewährung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 Strafgesetzbuch. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
+Die Bewilligungsbehörde behält sich den Erlass nachträglicher Auflagen beziehungsweise die nachträgliche Ergänzung und Änderung von Auflagen vor (§ 36 Absatz 2 Nummer 5 des Verwaltungsverfahrensgesetzes, in der jeweils geltenden Fassung).
+
+Anlage 3
+
+Nicht förderfähige Ausgaben für ELER-finanzierte Fördermaßnahmen
+
+Nicht förderfähige Ausgaben sind:
+
+a)
+
+der Erwerb von landwirtschaftlichen Produktionsrechten,
+
+b)
+
+der Erwerb von Zahlungsansprüchen,
+
+c)
+
+der Erwerb von Flächen für einen Betrag, der über 10 Prozent der förderfähigen Gesamtausgaben für das betreffende Vorhaben liegt,
+
+d)
+
+der Erwerb von Tieren,
+
+e)
+
+der Erwerb von einjährigen Pflanzen und deren Anpflanzung,
+
+f)
+
+Schuldzinsen,
+
+g)
+
+Abschreibungen,
+
+h)
+
+Betriebskapital
+
+i)
+
+Erbabfindungen
+
+j)
+
+Buchführungskosten,
+
+k)
+
+Skonti, soweit sie in Anspruch genommen wurden,
+
+l)
+
+Bußgelder, Geldstrafen und Prozesskosten,
+
+m)
+
+Investitionen, die allein der Erfüllung gesetzlicher Standards und Auflagen dienen. Ausnahmen können für einen Zeitraum von höchstens 24 Monaten für Investitionen zugelassen werden, die Landwirte zur Erfüllung neuer unionsrechtlicher Vorschriften tätigen.
+
+n)
+
+Erbbauzinsen, Kreditbeschaffungskosten, Bank- und Kontoführungsgebühren,
+
+o)
+
+Investitionen in Anlagen, deren Hauptzweck die Energiegewinnung ist,
+
+p)
 
 
-18.2
+die Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 4. Januar 2023 (BGBl. I Nr. 5) geändert worden ist, in der jeweils geltenden Fassung, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsischen Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 [SächsGVBl. S. 705] geändert worden ist, in der jeweils geltenden Fassung) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt,
+
+q)
 
 
-Stellt die Bewilligungsbehörde fest, dass tatsächliche Anhaltspunkte vorliegen, die den Verdacht eines Subventionsbetruges rechtfertigen oder ein Begünstigter vorsätzlich falsche Angaben gemacht hat, hat sie diesen Vorgang gemäß Artikel 325 Vertrag über die Arbeitsweise der Europäischen Union, § 1 des
+die Errichtung oder Erweiterung baulicher Anlagen in Hochwasserentstehungsgebieten, soweit diese nach § 78d Absatz 4 des Wasserhaushaltsgesetzes beziehungsweise § 76 Absatz 3 des Sächsischen Wassergesetzes, in der jeweils geltenden Fassung, genehmigungspflichtig sind und durch die zuständige Wasserbehörde nicht genehmigt wurden oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung nicht zustimmt.
+Zur Information, ob die (geplante) bauliche Anlage in einem Überschwemmungsgebiet (HQ100) oder in einem Hochwasserentstehungsgebiet liegt, kann das Geoportal Sachsenatlas unter dem folgenden Link https://www.umwelt.sachsen.de/umwelt/infosysteme/lhwz/karten-und-geodaten.html genutzt werden,
 
-Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037) der zuständigen Strafverfolgungsbehörde zu übergeben.            
+r)
+
+Ausgaben für gebrauchte Technik und Ausstattung,
+
+s)
+
+Grunderwerbsteuer,
+
+t)
+
+Sachleistungen in Form von Erbringung von Arbeitsleistungen und Bereitstellung von Waren, Dienstleistungen, Grundstücken und Immobilien, für die keine durch Rechnungen oder gleichwertige Belege nachgewiesene Zahlung erfolgt ist. Dies gilt nicht bei der Förderung auf Grundlage von vereinfachten Kostenoptionen,
+
+u)
+
+Kosten der Zusammenarbeit, an der nur Forschungseinrichtungen beteiligt sind,
+
+v)
+
+Investitionen in technische Basis-Straßenverkehrsinfrastruktur in Form von Gemeinde-, Kreis-, Landes- oder Bundesstraßen. Dies gilt nicht für Vorhaben, wenn sie:
+
+
+aa)
+
+Teil eines integrierten Vorhabens sind, oder
+
+
+bb)
+
+einen durch die LAG begründeten gemeinschaftlichen Mehrwert durch die Erfüllung der in der LES formulierten Ziele der LAG aufweisen oder
+
+
+cc)
+
+sich durch einen besonderen Innovationsgehalt auszeichnen,
+
+w)
+
+Vorhaben nach Artikel 70–72 und 74–76 der VO (EU) 2021/2115,
+
+x)
+
+Personalkostenanteile, die durch Personalkostenzuschüsse der Bundesagentur für Arbeit oder anderer öffentlicher Einrichtungen abgedeckt sind.
 
 
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
 
-SächsABl. SDr. 2015 Nr. 1, S. 13
+SächsABl. 2023 Nr. 31, S. 1096
 
-Fsn-Nr.: 5563-V15.3
+Fsn-Nr.: 5563-V23.13
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2019
+Fassung gültig ab:  4. August 2023
 
-Fassung gültig bis:  4. November 2021
+Fassung gültig bis: 28. November 2024
 
 Drucken/Speichern
 
@@ -2127,7 +1426,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14206.5
+https://www.revosax.sachsen.de/vorschrift/20158.1
 Stand vom
 18.11.2026
 
