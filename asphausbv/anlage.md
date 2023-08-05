@@ -29,7 +29,7 @@
 | 3 | Abdichten gegen Bodenfeuchtigkeit(§ 5 Nr. 12) | a)Abdichtungsstoffe nach Eigenschaften und Verwendung beschreibenb)Dichtungsbahnen verlegen | 5 |  |
 | c)Dichtungsaufstriche und Spachtelungen aufbringend)Anschlüsse für Abdichtungen bei Durchdringungen von Bauteilen herstellen |  | 8 |
 | 4 | Abdichten gegen Sicker- und Oberflächenwasser(§ 5 Nr. 13) | a)Untergrund auf Eignung, Höhenlage und Gefälle prüfen und für die Abdichtung vorbereitenb)Abdichtungsstoffe den Beanspruchungen entsprechend auswählen und einbauen | 6 |  |
-| c)Abdichtungen an aufgehende oder abgehende Wände anschließend)Übergangskonstruktionen bei unterschiedlichen Abdichtungssystemen herstellen | 8 |  |
+| c)Abdichtungen an aufgehende oder abgehende Wände anschließend)Übergangskonstruktionen bei unterschiedlichen Abdichtungssystemen herstellen |  | 8 |
 | 5 | Abdichten von Brückenbauwerken(§ 5 Nr. 14) | a)Abdichtungsstoffe und Abdichtungsbauweisen für Brückenbauwerke nennenb)Brückenüberbau auf Oberflächenbeschaffenheit, Gefälle und Höhenlage prüfen | 5 |  |
 | c)Dichtungsschichten im Bereich von Fahrbahnen und Gehwegkappen verlegend)Schutzschichten für Abdichtungen einbauen |  | 8 |
 |  |

@@ -19,7 +19,7 @@ Holzspielzeugmacher/zur Holzspielzeugmacherin
 | b) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
 | c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern |
 | d) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen |
-| 4 | Arbeits-Sicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4) | a) | berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden |
+| 4 | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4) | a) | berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden |
 | b) | arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen und Unfallsituationen nennen |
 | c) | Verhaltensweisen bei Unfällen und Entstehungsbränden beschreiben und Maßnahmen der Ersten Hilfe einleiten |
 | d) | wesentliche Vorschriften der Feuerverhütung nennen und Brandschutzeinrichtungen sowie Brandbekämpfungsgeräte bedienen |

@@ -50,7 +50,7 @@ Pelzveredlerin
 | 10 | Walken der Felle(§ 3 Nr. 10) | a) | Walkfaß be- und entladen |  | 1 |  |
 | b) | Felle einfetten |
 | c) | Aufgabe und Arbeitsweise der Walkmaschine erläutern, Felle walken, Fettungseffekt an den gewalkten Fellen prüfen |  |  | 1 |
-| 11 | Läutern der Felle(§ 3 Nr. 11) | a) | Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des Läutermaterials erklären, Maschinen bedienen |  |  | 1 |
+| 11 | Läutern der Felle(§ 3 Nr. 11) | a) | Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des Läutermaterials erklären, Maschinen bedienen |  | 1 |  |
 | b) | Läutermaterial und Zusätze entsprechend dem vorgeschriebenen Arbeitsablauf auswählen, zugeben und bewerten |  |  | 1 |
 | c) | Zusammenhang zwischen der Dauer des Läuterns, der Auswahl des Läutermaterials und den Zusätzen im Hinblick auf den Qualitätsausfall bei Fellen unterschiedlicher Haar- und Lederstruktur erklären |
 | 12 | Bakeln der Felle(§ 3 Nr. 12) | a) | Bakelmaschine bedienen und einstellen, Messer schleifen, Aufgabe und Arbeitsweise der Bakelmaschine erläutern |  |  | 2 |
