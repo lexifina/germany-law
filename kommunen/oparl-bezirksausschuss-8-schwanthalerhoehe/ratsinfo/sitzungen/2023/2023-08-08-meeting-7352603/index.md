@@ -1,0 +1,94 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352603
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352603
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Parkplatzsituation im Parklizenzgebiet Ridlerstraße
+- TOP 4.2.: Errichtung eines Pollers am Gollierplatz Ecke Gollierstrasse
+- TOP 4.3.: Mobilitätskongress2023 - Projektbeitrag UMLENKEN - Kazmairstrasse-Kiliansplatz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: (E) + (U) Gewerbehof Westend: Ostfassade sanieren Empfehlung Nr. 20-26 / E 01170 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 02.05.2023
+- TOP 6.1.2.: Freischankfläche Heimeranplatz 5
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Interim am Georg-Freundorfer-Platz bzw. Neubau Westendstraße 66a / Schrenkstraße
+- TOP 6.2.2.: Bauvorhaben Gollierstraße 34
+- TOP 6.2.3.: Bauvorhaben Schießstättstraße 30
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Städtische Spielplätze inklusionsgerecht gestalten
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Unterstützung der Sozialpädagogischen Tagesgruppe “Kleine Wölfe” bei der Suche nach neuen Räumlichkeiten
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Begleitprojekt UMLENKEN - Münchner Mobilitätskongress, Kazmairstr. 75-77 vom 03.09.23 bis 10.09.23
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Georg-Freundorfer-Platz am 11.08.2023
+- TOP 8.3.2.: Oktoberfest 2023 - Information über Neuerungen
+- TOP 8.3.3.: Genehmigung Projekt "UMLENKEN" Kazmairstr. / Kilianspl. von 09.08.2023 – 17.09.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Nach Bus-Spur-Ertüchtigung in der Trappentreustraße: Ersatzpflanzung für Baumfällungen
+- TOP 9.1.2.: (E) Schießstättstraße: Umwidmung eines Kfz-Stellplatzes in Fahrrad-Stellplätze
+- TOP 9.1.3.: (E) Baumfällungen: Baumbeauftragte des Bezirksausschusses vorab informieren; Begrünungskonzept der Stadt München erneuern
+- TOP 9.1.4.: (E) Aufstellen von Mülleimern am Brunnen vor dem Forum Schwanthalerhöhe
+- TOP 9.1.5.: (E) Schnaderböckstraße / Guldeinstraße: Neu geschaffene Sitzbank- Gruppe mit Abfalleimern ausstatten
+- TOP 9.1.6.: (E) Georg-Freundorfer-Platz/Ganghoferstraße: Nachtbeleuchtung in den Bürogebäuden runterdimmen
+- TOP 9.1.7.: (E) Taubenproblem unter der Donnersbergerbrücke
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Tulbeckstraße 39
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Umgestaltung Fäustlestraße: Mehr Grün, mehr Charme, mehr Aufenthaltsqualität
+- TOP 9.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.3.: Sachstand Mobilitätswende in München?
+- TOP 9.3.4.: Dialog-Displays - Bestellstart, Modalitäten und Kriterienkatalog
+- TOP 9.3.5.: Grünpatenkonzept der Stadt München - Antwortschreiben
+- TOP 9.3.6.: Oktoberfest 2023: Verkehrsregelungen im Umfeld des Oktoberfestes
+- TOP 9.3.7.: Dialog-Displays; Informationsschreiben zu Kosten, Betrieb und Umsetzung
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative „Geschlossen“ “Wegen Überfüllung Geschlossen vom 13.07.2023 – 20.09.2023“ 4.475,00 € / AZ: 0262.0-8-0358
+- TOP 10.1.2.: (E) Stadtbezirksbudget Initiative "ZWINK" ZWINK vom 01.09. -30.09.2023 1.500€; Az. 0262.0-8-0366
+- TOP 10.1.3.: (E) Stadtbezirksbudget European Utopia e.V. European Utopia/ Dystopia Days vom 01.09. -30.09.2023 3.192,10€; Az. 0262.0-8-0367
+- TOP 10.2: Anhörungen
+- TOP 10.2.1.: Errichtung einer Orangenen Bank im Franziska-Bilek-Weg
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Beibehaltung des temporären Kunstprojekts „Schneckengarten“ und Überführung in ein dauerhaftes Begrünungskonzept mit Nutz- und Zierpflanzen
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Umsetzung des Öffentlichkeitsbeteiligungskonzeptes / Einwohner*innenbudget
+- TOP 12.2.2.: Änderung der BA-Satzung; Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Landtags- und Bezirkswahl am 08.10.2023; Einteilung der Stimmbezirke und Wahlräume
+- TOP 12.3.2.: Antrag BA1; Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 12.3.3.: Oktoberfest 2023 - Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 7.3.2.: Ehemalige Maschinenfabrik Strobl umnutzen zum Wohn- und Kreativquartier
+- TOP 10.1.4.: (E) Stadtbezirksbudget Initiative „Schneckengarten“ “Schneckengarten vom 28.04.2023 – 14.09.2023“ 5.276,72 € / AZ: 0262.0-8-0365
+- TOP 7.3.3.: Protokoll der öffentlichen Sitzung des Mieterbeirates der LHM vom 24.07.2023
+- TOP 7.3.4.: Standorte Unterkünfte ab 48 Bettplätzen
+- TOP 10.1.1.1: Stadtbezirksbudget Initiative „Geschlossen“; Fehlbedarfsfinanzierung durch das Kulturreferat
+- TOP 11.2.: Freiräume für junge Menschen schaffen – Jugendcontainer an der Hans-Fischer-Straße errichten
+- TOP 6.3.2.: Richtfest Bauvorhaben Schwanthalerstr. 119 am 29. August 2023 um 15:00 Uhr
+- TOP 11.3.: Präventive Schulprojekte und Medienschulungen für Kinder und Jugendliche in der Mittelschule an der Ridlerstraße und der Carl-von-Linde-Realschule
