@@ -1,0 +1,127 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2023-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7209045
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7209045
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Chiemgaustr. 101
+- TOP 3.10.2.: Tegernseer Landstr. 185b - Neubau von zwei Wohngebäuden, Dachausbau des Bestadsgebäudes, Errichtung einer Tiefgarage - VORBESCHEID (FF UA BPW- betrifft Baufall -)
+- TOP 3.10.3.: Schloß-Berg-Str. 15 - Dachgeschossausbau für neue Wohnraumnutzung mit allgemeinen Sanierungsarbeiten (Balkone, Dach, Eingänge, Fassade) (FF UA BPW- betrifft Baufall -)
+- TOP 3.10.4.: Schloß-Berg-Str. 11 - Dachgeschossausbau für neue Wohnraumnutzung mit allgemeinen Sanierungsarbeiten (Balkone, Dach, Eingänge, Fassade) (FF UA BPW- betrifft Baufall -)
+- TOP 3.10.5.: Cincinnatistr. 1 (Standort auf Höhe Lincolnstr. 48+54)
+- TOP 3.10.6.: Cincinnatistr. 31
+- TOP 3.10.7.: Pennstr. 1
+- TOP 3.10.8.: Scharfreiterpl. 12
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) Verein der Freunde und Förderer der Grundschule an der Weißenseestraße Hausaufgabenhilfe Hafis vom 12.09.2023 – 31.07.2024 8.778,00 € / Az. 0262.0-17-0395
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Evangelisches Hilfswerk gGmbH Sommerfest Teestube „komm“ am 11.08.2023 145,54 € / Az. 0262.17-0394
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Kultur) Initiative "ZWINK" ZWINK vom 01.09. -30.09.2023 1.500€; 0262.0-17-0398
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Kultur) Kulturverstrickungen e.V. Lasst Giesing bunter werden!! vom 20.08 -31.12.2023 1.400€; Az. 0262.0-17-0397
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA FSA) Arbeiterwohlfahrt gemeinnützige Betriebs GmbH, Awo Föhrenpark "bestform" Sport kennt kein Alter 11.640,34 € / AZ.0262.0-17-0396
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tegernseer Landstr. 185b - Neubau von zwei Wohngebäuden, Dachausbau des Bestadsgebäudes, Errichtung einer Tiefgarage - VORBESCHEID (betrifft auch Baumschutz)
+- TOP 6.1.3.2.: Schloß-Berg-Str. 15 - Dachgeschossausbau für neue Wohnraumnutzung mit allgemeinen Sanierungsarbeiten (Balkone, Dach, Eingänge, Fassade) (betrifft auch Baumschutz)
+- TOP 6.1.3.3.: Schloß-Berg-Str. 11 - Dachgeschossausbau für neue Wohnraumnutzung mit allgemeinen Sanierungsarbeiten (Balkone, Dach, Eingänge, Fassade) - (betrifft auch Baumschutz)
+- TOP 6.1.3.4.: St.-Quirin-Pl. - Temporärer Showroom und Veranstaltungsraum
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anhörung zur verkehrsrechtlichen Anordnung nach § 45 StVO; hier; Georg-MeisenbachStr. / Schwanseestr. Halteverbotszeichen (Frist 30.08.2023)
+- TOP 6.3.3.2.: Anhörung verkehrsrechtliche Anordnung nach § 45 StVO; hier: Verlegung des bestehenden Taxisplatzes in der St. Bonifatius-Straße (südlich) auf den St.-Martins-Platz
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Rechte der Bezirksausschüsse beim Baumschutz stärken Empfehlung Nr. 20-26 / E01091 der Bürgerversammlung des Stadtbezirkes 21 Pasing Obermenzing am 15.03.2023
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Antrag auf Genehmigung einer Veranstaltung in einer Grünanlage hier: öffentlicher Gottesdienst am 10.09.2023 /Ersatztermin für den 21.05.2023 Weißenseepark (Frist 21.08.2023)
+- TOP 6.5.3.2.: Veranstaltung in einer städt. Grünanlage; Weißenseepark Pop up stage am 08.09.2023 (Frist: 25.08.2023)
+- TOP 6.5.3.3.: Antrag auf Genehmigung einer Veranstaltung Hier: Ois Giasing 2023 am 09.09.2023 (Frist 26.08.2023)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Landtags-und Bezirkswahl am 08.10.2023 Einteilung der Stimmbezirke und Wahlräume (Frist 15.08.2023)
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.5.3.4.: Veranstaltung im Freien in einer Grünanlage; Hier: Weißenseepark „Spieleaktion zum Weltkindertag“ am 20.09.2023 (Frist: 08.09.2023)
