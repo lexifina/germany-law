@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-08-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355076
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355076
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 11.07.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Terminplanung BA-Sitzungen 2024
+- TOP 2.4.: (A) Landtags- und Bezirkswahl am 08.10.2023: Einteilung Stimmbezirke und Wahlräume
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Verein „Muckis im Herzen" e.V.: Präventionsprojekt „Muckis im Herzen e.V." an Grundschulen vom 12.09.2023 bis 29.07.2024 4.482,00 € / AZ: 0262.0-19-0473
+- TOP 3.3.: (E) Stadtbezirksbudget Freunde des Ortskern Forstenried e.V.: Forstenrieder Dorffest vom 09.09. bis 10.09.2023 3.653,00 € / AZ: 0262.0-19-0474
+- TOP 3.4.: (A) Bestellung städtischer Leistung: Aufstellung von drei bis vier Ruhebänken BA-Antrag Nr. 20-26 / B 05416
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Satzungsänderung: Rechte der Bezirksausschüsse beim Baumschutz stärken BV-Empfehlung Nr. 20-26 / E 01091 Pasing-Obermenzing
+- TOP 4.4.: (Anfrage) Umgang der Stadt München mit möglicher Waldbrandgefahr im 19. Stadtbezirk
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (BV) Temporeduzierungen (Tempo 20 und Tempo 30) in Forstenried und Solln BV-Empfehlung Nr. 20-26 / E 00322; Sitzungsvorlage Nr. 20-26 / V 07294
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Umwandlung Obstverkaufsstand in Blumenverkaufsstand Wolfratshauser Straße / Sollner Straße
+- TOP 5.4.: (E) Dialog-Displays: Bestellstart /-modalitäten und Kriterienkatalog
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Hotelanfahrt Hofmannstraße
+- TOP 5.6.: (Antrag) Ausbau Geh- und Radweg in der Wolfratshauser Straße zwischen Melchiorstraße und Stadtgrenze
+- TOP 5.7.: (Antrag) Umgestaltung der Tölzer Straße zwischen Boschetsrieder Straße und Steinerstraße
+- TOP 5.8.: (Antrag) Verkehrsspiegel S-Bahnunterführung Beuerberger Straße / Sollner Straße
+- TOP 5.9.: (U) Umwandlung Parkbucht in Grünfläche: Wolfratshauser Straße
+- TOP 5.10.: Schulwegsicherheit Ratzingerplatz
+- TOP 5.11.: - NACHTRAG - (E) Projektplanung: Neunkirchner Straße / Wolfratshauser Straße 90
+- TOP 5.12.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Forstenrieder Allee 94 - 106: Anliegerstraße
+- TOP 5.13.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Waterloostraße: Gefahrzeichen Radverkehr
+- TOP 5.14.: - NACHTRAG - (U) Verkehrsrechtliche Anordnungen: Maßnahmen Schulwegsicherheit Grundschule Aidenbachstraße und Grundschule Königswieser Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: - abgesetzt -
+- TOP 6.2.2: Fiedlerstraße 4 (VB)
+- TOP 6.2.3: Leutstettener Straße 30 (T)
+- TOP 6.2.4: Rupert-Mayer-Straße 46 (VB)
+- TOP 6.2.5: Forstenrieder Allee 9 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Ganztagsangebote in der Grundschule Königswieser Straße
+- TOP 7.1.2: Zukunft des Familienzentrums Friedenskapelle langfristig sichern
+- TOP 7.1.3: Kosten für die Sanierung der Container an der Grundschule Baierbrunner Straße darlegen
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Stadtteilwoche Forstenried-Fürstenried-Solln
+- TOP 8.2.: (A) Veranstaltung: Flohmarkt Grünanlage Boschetsrieder Park am 30.09.2023
+- TOP 8.3.: - NACHTRAG - (A) Veranstaltung: 67. Münchner Kanuslalom und 22. Internationaler Wildwassersprint und Classicrennen am 16., 17. und 23.09.2023
+- TOP 9: Verschiedenes
