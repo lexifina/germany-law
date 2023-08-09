@@ -1,0 +1,7 @@
+# TOP 6: Jahresbericht 2022 der Selbsthilfe-Kontaktstelle
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Gesundheits-, Alters- und Pflegekonferenz (2023-08-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/123543
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/56064
