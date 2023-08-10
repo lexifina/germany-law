@@ -1,0 +1,57 @@
+# Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-08-10T17:00:00+02:00
+- Ende: 2023-08-10T21:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/233
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6445
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6445
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00189320.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00189320.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00189320.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Verpflichtung sachkundiger Bürger*innen
+- TOP 3: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP -: Empfehlungen an Fachausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 5: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Verbesserungen für den Kinderspielplatz „Kastanienwäldchen“ auf der Dechant-Hess-Straße - beraten ohne Abstimmung
+- TOP 6: Antrag der Mitglieder der SPD betr.: Schulhof der St. Konrad-Schule vor Vandalismus schützen - beraten ohne Abstimmung
+- TOP 7: Antrag der Mitglieder der AfD betr.: Aufstellung zusätzlicher Parkbänke an der Allee auf dem Rheindeich zwischen und Aufstellung von zusätzlichen Mülltonnen in der Nähe des Eiscafés - zurückgezogen
+- TOP 8: Antrag der Mitglieder der CDU betr.: Berichterstattung Vandalismus St. Konrad-Grundschule in Gnadental - beraten ohne Abstimmung
+- TOP 9: Antrag der Mitglieder der CDU betr.: Prüfauftrag und Berichterstattung für das weitere Vorgehen beim Lehrschwimmbecken St. Konrad in Gnadental - beraten ohne Abstimmung
+- TOP 10: Antrag der Mitglieder der CDU betr.: LED Beleuchtung - beraten ohne Abstimmung
+- TOP 11: Antrag der Mitglieder der CDU betr.: Cyriakusstraße/Quinheimer Straße zu Einbahnstraßen machen - beraten ohne Abstimmung
+- TOP 12: Antrag der Mitglieder der CDU betr.: Sanierung Bezirkssportanlage Grimlinghausen - einstimmig zugestimmt
+- TOP 13: Antrag der Mitglieder der CDU betr.: Verlegung Bushaltestelle „Im Oberfeld“ auf die Gnadentaler Allee - beraten ohne Abstimmung
+- TOP 14: Antrag der Mitglieder von SPD und Bündnis 90/Die Grünen betr.: Weiterentwicklung Bezirkssportanlage Erfttal/Brand Tennisheim - beraten ohne Abstimmung
+- TOP 15: Antrag der Mitglieder von SPD und Bündnis 90/Die Grünen betr.: Ertüchtigung Radwegenetz im Abschnitt zwischen Bonner Straße und Innenstadt - beraten ohne Abstimmung
+- TOP 16: Antrag der Mitglieder von SPD und Bündnis 90/Die Grünen betr.: „Runder Tisch Kirmesplatz“ & Ortsmittelpunkteprogramm - einstimmig zugestimmt
+- TOP 17: Antrag der Mitglieder von SPD und Bündnis 90/Die Grünen betr.: Bauliche Umgestaltung im Umfeld der neuen Realschule an der Gnadentaler Allee - beraten ohne Abstimmung
+- TOP 18: Antrag der Mitglieder von SPD und Bündnis 90/Die Grünen betr.: Einsatz von „Dialog-Displays“ - einstimmig zugestimmt
+- TOP -: Anfragen
+- TOP 19: Anfrage des Stadtverordneten Kranefuss betr.: Baumaßnahmen am Grüner Weg - zur Kenntnis genommen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP 20: Sachstand "Reuterhof" - mündlicher Bericht
+- TOP -: Mitteilungen der Verwaltung
+- TOP 21: Mietwohnungen in Erfttal - zur Kenntnis genommen
+- TOP 22: Gespräch mit dem Beigeordneten für Planung und Mobilität über Stadtteilentwicklung und das Mobilitätsentwicklungskonzept (MEK) - zur Kenntnis genommen
+- TOP 23: Bericht der Bezirksbeamten der Kreispolizeibehörde - zur Kenntnis genommen
+- TOP 24: Haushaltskonsolidierung: Bericht über die geplante Umsetzung zum Rückbau v. Spielplätzen - zur Kenntnis genommen
+- TOP 25: Betrieb St. Konrad-Bad und Sicherstellung des Lehrschwimmens - zur Kenntnis genommen
+- TOP 26: Ergebnisse aus dem Gespräch zur Verkehrssituation Grimlinghausen
+- TOP 27: Umzug der Realschule Holzheim an den Schulstandort Gnadentaler Allee - zur Kenntnis genommen
+- TOP 28: Ortsmittelpunktkonzept - Stadtteilspaziergang Erfttal am 25.04.2023 - zur Kenntnis genommen
+- TOP 29: Dunantstraße, Sanierung eines Stichweges im Bereich der Häuser Nr. 43 - 49 sowie eines angrenzenden Fußweges: Bericht über die verbindliche Anliegerversammlung am 28.02.2023 - zur Kenntnis genommen
+- TOP 30: Ergebnisse zur Evaluation der Bezirksausschüsse - zur Kenntnis genommen
+- TOP 31: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 32: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
