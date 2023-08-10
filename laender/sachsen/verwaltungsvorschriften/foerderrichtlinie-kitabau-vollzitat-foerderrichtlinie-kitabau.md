@@ -1,8 +1,8 @@
 # Förderrichtlinie KitaBau Vollzitat: Förderrichtlinie KitaBau
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18888.1
+- Datum: 2023-08-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18888.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2021
+10.08.2023
 bis
-09.08.2023
+28.03.2024
 
 Förderrichtlinie KitaBau
 
@@ -39,12 +39,12 @@ Rechtsgrundlagen und Zuwendungszweck
 1.
 
 
-Der Freistaat Sachsen gewährt im Rahmen seiner Zuständigkeit nach § 82 des Achten Buches Sozialgesetzbuch – Kinder und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 16a Absatz 6 des Gesetzes vom 28. April 2020 (BGBl. I S. 960) geändert worden ist, in der jeweils geltenden Fassung, und auf der Grundlage von §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. Oktober 2019 (SächsABl. S. 1590) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 352), in der jeweils geltenden Fassung, Zuwendungen nach Maßgabe dieser Förderrichtlinie.
+Der Freistaat Sachsen gewährt im Rahmen seiner Zuständigkeit nach § 82 des Achten Buches Sozialgesetzbuch – Kinder und Jugendhilfe – in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 1 des Gesetzes vom 21. Dezember 2022 (BGBl. I S. 2824) geändert worden ist, in der jeweils geltenden Fassung, und auf der Grundlage von §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 3. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der jeweils geltenden Fassung, Zuwendungen nach Maßgabe dieser Förderrichtlinie.
 
 2.
 
 
-Zweck der Zuwendungen ist die Unterstützung der sächsischen Kommunen bei der Wahrnehmung ihrer Verantwortung nach den §§ 23 und 24 des Achten Buches Sozialgesetzbuch und nach den §§ 3, 11 und 13 des Gesetzes über Kindertageseinrichtungen in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch Artikel 22 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung.
+Zweck der Zuwendungen ist die Unterstützung der sächsischen Kommunen bei der Wahrnehmung ihrer Verantwortung nach den §§ 23 und 24 des Achten Buches Sozialgesetzbuch und nach den §§ 3, 11 und 13 des Gesetzes über Kindertageseinrichtungen in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch das zuletzt durch Artikel 13 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung.
 
 3.
 
@@ -72,7 +72,7 @@ Zuwendungsempfänger sind die Landkreise und Kreisfreien Städte (Erstempfänger
 
 2.
 
-Die Landkreise können die Zuwendung an kommunale und freie Träger von Kindertageseinrichtungen sowie Kindertagespflegestellen (Letztempfänger) weiterleiten.
+Die Landkreise können die Zuwendung an kommunale und freie Träger von Kindertageseinrichtungen sowie Kindertagespflegestellen (Letztempfänger) unter Berücksichtigung der Vorgaben nach Nummer 12.2 bis 12.5 der Verwaltungsvorschrift für Zuwendungen des Freistaats Sachsen an kommunale Körperschaften (VVK) sowie der Regelungen unter Ziffern IV, V und VI Nummer 6 und Nummer 7 Satz 1 der Richtlinie weiterleiten.
 
 3.
 
@@ -104,11 +104,11 @@ Zuwendungen werden nur dann bewilligt, wenn diese bei der Maßnahme des Letztemp
 
 5.
 
-Eine Förderung wird grundsätzlich nur gewährt, wenn der Antragsteller Eigentümer oder Erbbauberechtigter des betroffenen Grundstücks ist. Als Nachweis der Eigentumsverhältnisse ist durch den Antragsteller ein aktueller Grundbuchauszug sowie bei Erbbaurechtsverhältnissen zusätzlich der vollständige Erbbaurechtsvertrag vorzulegen. Ausnahmsweise kann der Antragsteller gefördert werden, wenn diesem ein Nutzungsrecht an dem betroffenen Grundstück in Form eines Miet- oder Pachtvertrages mindestens für den Zeitraum der Zweckbindungsfrist eingeräumt ist. In diesen Fällen ist der Pacht- oder Mietvertrag vorzulegen.
+Eine Förderung wird grundsätzlich nur gewährt, wenn der Antragsteller Eigentümer oder Erbbauberechtigter des betroffenen Grundstücks ist. Ausnahmsweise kann der Antragsteller gefördert werden, wenn diesem ein Nutzungsrecht an dem betroffenen Grundstück in Form eines Miet- oder Pachtvertrages mindestens für den Zeitraum der Zweckbindungsfrist eingeräumt ist. 
 
 6.
 
-Bei Neu-, Um-, Erweiterungs- und Ersatzneubauten von Kindertageseinrichtungen soll die Empfehlung des Sächsischen Staatsministeriums für Soziales zu den räumlichen Anforderungen an Kindertageseinrichtungen vom 2. Juni 2005 (SächsABl. S. 522), zuletzt enthalten in der Verwaltungsvorschrift vom 31. Dezember 2019 (SächsABl. SDr. S. S 385), in der jeweils geltenden Fassung, berücksichtigt werden.
+Bei Neu-, Um-, Erweiterungs- und Ersatzneubauten von Kindertageseinrichtungen soll die Empfehlung des Sächsischen Staatsministeriums für Soziales zu den räumlichen Anforderungen an Kindertageseinrichtungen vom 2. Juni 2005 (SächsABl. S. 522), zuletzt enthalten in der Verwaltungsvorschrift vom 3. Dezember 2021 (SächsABl. SDr. S. S 211), in der jeweils geltenden Fassung, berücksichtigt werden.
 
 7.
 
@@ -193,15 +193,15 @@ Im Rahmen der Priorisierung von Maßnahmen für die Antragstellung sollen seiten
 
 6.
 
-Zuwendungen dürfen nur insoweit und nicht eher ausgezahlt werden, als sie voraussichtlich innerhalb von zwei Monaten nach Auszahlung für fällige Zahlungen im Rahmen des Zuwendungszwecks benötigt werden.
+Die Auszahlung der Zuwendung erfolgt für freie Träger von Kindertageseinrichtungen, Kindertagespflegestellen sowie für Letztempfänger nach Ziffer III Nummer 4 gemäß Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Für kommunale Träger von Kindertageseinrichtungen erfolgt die Auszahlung der Zuwendung gemäß Nummer 7.1 der VVK.
 
 7.
 
-Die Letztempfänger der Zuwendung reichen ihre Verwendungsnachweise beim Landkreis oder bei der Kreisfreien Stadt gemäß Nummer 6.2 bis 6.4 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften – Anlage 3a zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (kommunale Träger) oder gemäß Nummer 6.2 bis 6.6 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung – Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (freie Träger) ein. Die Landkreise und Kreisfreien Städte prüfen die zweckentsprechende und fristgerechte Verwendung der weitergeleiteten Zuwendungen in eigener Zuständigkeit.
+Die Letztempfänger der Zuwendung reichen ihre Verwendungsnachweise beim Landkreis oder bei der Kreisfreien Stadt ein. Die Landkreise und Kreisfreien Städte prüfen die zweckentsprechende und fristgerechte Verwendung der weitergeleiteten Zuwendungen in eigener Zuständigkeit.
 
 8.
 
-Für die Prüfung der zweckentsprechenden Verwendung der Zuwendungen an die Erstempfänger ist die Bewilligungsbehörde zuständig. Die Prüfung der Verwendung der Zuwendung an die Kreisfreien Städte für Kindertageseinrichtungen in eigener Trägerschaft ist ebenfalls die Bewilligungsbehörde zuständig.
+Für die Prüfung der zweckentsprechenden Verwendung der Zuwendungen an die Erstempfänger ist die Bewilligungsbehörde zuständig. Für die Prüfung der Verwendung der Zuwendung an die Kreisfreien Städte für Kindertageseinrichtungen in eigener Trägerschaft ist ebenfalls die Bewilligungsbehörde zuständig. Die Verwendungsnachweise müssen die von der Bewilligungsstelle vorgegebenen notwendigen Angaben enthalten und nach der von der Bewilligungsstelle vorgegebenen Form aufgebaut sein.
 
 9.
 
@@ -230,14 +230,42 @@ Bewilligungsbehörde für diese Maßnahmen ist der Kommunale Sozialverband Sachs
 
 5.
 
-Die Anträge sind, insbesondere mit detaillierter Projektbeschreibung, Angabe der Anzahl der Plätze, Aufschlüsselung nach Kostenarten und Finanzierungsübersicht, bis zum 31. Oktober des der Förderung vorangehenden Jahres bei der Bewilligungsbehörde einzureichen.
+Die Anträge sind bis zum 31. Oktober des der Förderung vorangehenden Jahres bei der Bewilligungsbehörde einzureichen.
 
 6.
 
-Im Übrigen gelten die Regelungen der Ziffern I bis VII dieser Förderrichtlinie für betrieblich unterstützte Kindertageseinrichtungen entsprechend.
+Das Auszahlungsverfahren richtet sich abhängig von der Rechtsform des Zuwendungsempfängers nach Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung oder nach Nummer 7.1 der VVK.
+
+7.
+
+Im Übrigen gelten die Regelungen der Ziffern I bis VI dieser Förderrichtlinie für betrieblich unterstützte Kindertageseinrichtungen entsprechend.
 
 
 VIII.
+
+1.
+
+Landkreise haben mit dem Gesamtantrag eine Übersicht aller Einzelvorhaben mit Darstellung der Gesamtausgaben und der beabsichtigten Finanzierung vorzulegen. Gleiches gilt bei kreisfreien Städten für beantragte Vorhaben freier Träger.
+
+
+2.
+
+Mit dem Antrag für die Förderung einer betrieblich unterstützten Kindertageseinrichtung ist zusätzlich eine gültige Satzung oder ein Gesellschaftervertrag und ein aktueller Auszug aus dem Vereins- und Handelsregister vorzulegen. Weiterhin ist ein Nachweis, dass vorrangig Kinder der Beschäftigten des Unternehmens betreut werden und wie sich das Unternehmen an der Finanzierung des beantragten Vorhabens beteiligt, beizubringen. Vorzulegen ist eine Stellungnahme des Landesjugendamtes, dass nach Umsetzung der Maßnahme entsprechend der angegebenen Planung die Erteilung der Betriebserlaubnis in Aussicht gestellt wird. In der detaillierten Projektbeschreibung müssen Angaben zur Betreuungskapazität mit einer diesbezüglichen Begründung des Bedarfs enthalten sein. 
+
+3.
+
+In Bezug auf die Regelungen in Ziffer III Nummer 4 ist mit dem Antrag ein gültiger Pacht- bzw. Mietvertrag zum Zweck des Betriebes einer Kindertageseinrichtung für die Zeit der Zweckbindungsfrist vorzulegen. In Umsetzung zu Ziffer IV Nummer 5 ist mit dem Antrag ein aktueller Grundbuchauszug, ein vollständiger und gültiger Erbbaurechtsvertrag oder ein gültiger Pacht- beziehungsweise Mietvertrag für die Zeit der Zweckbindungsfrist vorzulegen.
+
+4.
+
+Die vorzulegenden Unterlagen entsprechend Anlage 5a der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung bleiben von den Regelungen unberührt. 
+
+5.
+
+Mit dem Verwendungsnachweis ist neben dem Sachbericht und einem zahlenmäßigen Nachweis eine Kopie der Betriebserlaubnis und Nachweise, die die tatsächliche Umsetzung der Maßnahme belegen, vorzulegen.
+
+
+IX.
 Inkrafttreten, Außerkrafttreten
 
 1.
@@ -264,9 +292,9 @@ Fsn-Nr.: 5581-V20.5
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2021
+Fassung gültig ab: 10. August 2023
 
-Fassung gültig bis:  9. August 2023
+Fassung gültig bis: 28. März 2024
 
 Drucken/Speichern
 
@@ -291,7 +319,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18888.1
+https://www.revosax.sachsen.de/vorschrift/18888.2
 Stand vom
 18.11.2026
 
