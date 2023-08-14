@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2023 Nr. 33 vom 14.08.2023
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2023-08-14 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 33
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/1.12_amtsblatt_2023_nr_33.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 3 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
