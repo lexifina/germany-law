@@ -1,0 +1,6 @@
+# TOP -: Implementierung Arbeitsgruppe Wiener Platz
+
+- Sitzung: 22. Sitzung der Bezirksvertretung Mülheim (2023-08-14)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/380085
