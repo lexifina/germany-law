@@ -1,0 +1,61 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-15T15:00:00+02:00
+- Ende: 2023-08-15T17:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27416
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27416
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Anfragen aus vorherigen Sitzungen gemäß § 4 der Geschäftsordnung des Rates und Beantwortungen
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion (AN/0639/2023) betreffend „Verwendung rassismuskritischer Projektmittel“ - Kenntnis genommen
+- TOP 3.2: Beantwortung einer schriftlichen Anfrage des Integrationsrates aus der Sitzung Integrationsrat vom 05.05.2023 für die Sitzung vom 23.05.2023" (AN/0847/2023) betreffend "Jahresbericht Auszugsmanagement für den Zeitraum 01.01. bis 31.12.2022 - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage zum Stand DOMiD und Halle 71 - Kenntnis genommen
+- TOP 3.4: Beantwortung der Anfrage AN/0846/2023 Nachfrage zur Beantwortung der Anfrage zur Evaluation der kommunalen Seniorenprogramme der Stadt Köln - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgsstraße - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Jahresbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.2: Handlungskonzept "Guter Lebensabend NRW" - Veröffentlichung des im Rahmen der Projektlaufzeit vom 01.04.2021-31.12.2022 erarbeiteten Handlungskonzeptes - Kenntnis genommen
+- TOP 5.3: Handlungskonzept "Guter Lebensabend NRW" Erste Maßnahmen zur Umsetzung der im Rahmen der Projektlaufzeit vom 01.04.2021 - 31.12.2022 erarbeiteten Erkenntnisse und Handlungsnotwendigkeiten - Kenntnis genommen
+- TOP 5.4: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2022 - Kenntnis genommen
+- TOP 5.5: Erweiterung der Zielgruppen des Kommunalen Integrationsmanagements (KIM) - Kenntnis genommen
+- TOP 5.6: Harmonisierung der Antragsformulare im Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 5.7: Bevölkerung 2022 - Deutliches Wachstum durch Zuzüge aus dem Ausland - Kenntnis genommen
+- TOP 5.8: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 5.9: Einführung eines Anonymen Krankenscheins in Köln - Kenntnis genommen
+- TOP 5.10: Mitteilung über Aktualisierte Bedarfsfeststellung Unterbringungsplätze für Geflüchtete - Kenntnis genommen
+- TOP 5.11: Auszeichnung der Kampagne zur Akzeptanz von queeren Menschen mit Migrations- und Fluchtgeschichte mit dem Deutschen Preis für Online-Kommunikation - Kenntnis genommen
+- TOP 5.12: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 5.13: Mitteilung über einen Antrag betreffend "Bodies of Cologne – Kölner Körper" - AN/1167/2023 - Kenntnis genommen
+- TOP 5.14: Netzwerk für Mitarbeitende mit internationaler Familiengeschichte - Kenntnis genommen
+- TOP 5.15: Entwicklung des Ausländeramtes zur "Willkommensbehörde" - ein Zwischenbericht - Kenntnis genommen
+- TOP 5.16: Aufstockung Wohncontainerstandorte für Geflüchtete - Kenntnis genommen
+- TOP 5.17: Mehrfachbeschäftigung in Köln - Beschäftigungsentwicklung 2013 bis 2022: Mehrfachbeschäftigung in Köln erreicht Höchsstand seit 2013 - Kenntnis genommen
+- TOP 5.18: Dokumentation der Konferenz Interkulturelles Köln 2023 - Kenntnis genommen
+- TOP 5.19: 1. Quartalsbericht 2023 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Schwerpunktsetzung der Arbeit im Integrationsrat in der 2. Hälfte der aktuellen Wahlperiode - endgültig zurückgezogen
+- TOP 6.1.1: Änderungsantrag zur Schwerpunktsetzung der Arbeit im Integrationsrat in der 2. Hälfte der aktuellen Wahlperiode - ungeändert beschlossen
+- TOP 6.2: Antrag für eine Zusatzerklärung für unter das Gaststättengesetz fallenden Betriebe - zurückgestellt
+- TOP 6.3: Antrag zur Gleichbehandlung von Drittstaatler*innen aus der Ukraine im SGB II - ungeändert beschlossen
+- TOP 6.4: Antrag zur Chancengerechtigkeit auf dem Wohnungsmarkt - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Kurdisches Kultur- und Bildungszentrum Köln e.V. - ungeändert beschlossen
+- TOP 8.2: Verteilung der Mittel zur Förderung eines neuen Interkulturellen Zentrums (Kurdisches Kultur- und Bildungszentrum Köln e.V.) für das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 8.3: Ombudsstelle für Geflüchtete - Verlängerung der Befristung bis Dezember 2025 - ungeändert beschlossen
+- TOP 8.4: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 8.4.1: Antrag zur Beschlussvorlage „Strategische Sozialplanung - Herausforderungen und Ziele 4069/2022" - zurückgestellt
+- TOP 8.5: Verteilung rassismuskritischer Projektmittel 2023 - 2. Schritt - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
