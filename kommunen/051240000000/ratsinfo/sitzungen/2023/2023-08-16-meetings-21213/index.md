@@ -1,0 +1,58 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-08-16T19:00:00+02:00
+- Ende: 2023-08-16T21:55:00+02:00
+- Ort: Stadtsparkasse Wuppertal - Zentrale, Sitzungsraum im 19. OG, Islandufer 15, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21213
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21213
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00316664.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00317467.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung einer Bezirksvertreterin
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Depotcontainerstellplätze Morianstraße und Schloßbleiche mit Berichterstattung durch die AWG
+- TOP 4: Bericht aus dem Jugendrat
+- TOP 5: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 6: Bürgerantrag gemäß § 24 GO NRW - Parken Mirker-Viertel
+- TOP 6.1: Änderungsantrag zum Bürgerantrag gemäß § 24 GO NRW Parken Mirker-Viertel VO/0590/23 - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 7: Bürgerantrag gemäß § 24 GO NRW - Parkraumoptimierung Mirker Straße - ungeändert beschlossen
+- TOP 8: Bericht zum Sachstand und Ausblick Fernwärmeausbau in Elberfeld - WSW und Stadtverwaltung
+- TOP 9: Veranstaltung "Volksfest" vom 18.08. bis 20.08.2023 auf dem Laurentiusplatz - abgelehnt
+- TOP 10: Veranstaltung "Hallo Wuppertal" am 25.08.2023 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 11: Veranstaltung "Urban Dance Festival" am 12.08. und 13.08.2023 auf dem Laurentiusplatz - Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 12: Erweiterte Aufstellung von Radabstellanlagen in der Brunnenstraße und Schreinerstraße - geändert beschlossen
+- TOP 13: Teilaufhebung des Fluchtlinienplanes 591 - Verbindungsstraße vom Dorrenberg nach Mirke nördlich der Staatseisenbahn - - ungeändert beschlossen
+- TOP 14: Radverkehrsführung parallel zur B 7 - Sachstand Abschnitt Wartburgstraße und Farbmühle sowie Grundsatzbeschluss Hardtufer - ungeändert beschlossen
+- TOP 15: Freigaben von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Südstadt (hier: östlicher Teilbereich) - ungeändert beschlossen
+- TOP 16: Zusammenlegung der Abendrealschule Am Ölberg mit dem Bergischen Kolleg - ungeändert beschlossen
+- TOP 17: Querungshilfe für den Fußverkehr auf der Briller Straße - ungeändert beschlossen
+- TOP 18: Prüfung alternativer Standorte für die Zentralbibliothek - geändert beschlossen
+- TOP 19: Widmung des Willy-Brandt-Platzes - geändert beschlossen
+- TOP 20: Projektideen des Bürger*innenbudgets 2023 - ungeändert beschlossen
+- TOP 21: Instandsetzung der Brücke Reichsgrafenstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 22: Fällung von Einzelbäumen - Auslichtung von Grünanlagen 2023/24 - Entgegennahme ohne Beschluss
+- TOP 23: Möglichkeiten zu Veränderung der Taxenstände am Schusterplatz - Entgegennahme ohne Beschluss
+- TOP 24: 2. Zwischenbericht InnenBandStadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 25: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 26: Europäische Mobilitätswoche Spielstraße - Markomannenstraße am 16.09.2023 - Entgegennahme ohne Beschluss
+- TOP 27: Einrichtung einer Nachtbürgermeister:innenstelle Sachstand zur Umsetzung - Entgegennahme ohne Beschluss
+- TOP 28: Nachbesetzung der Jury für den Wettbewerb zur künstlerischen Kommentierung der "Pallas Athene" - abgesetzt
+- TOP 29: Anträge
+- TOP 29.1: Tempo 30 in unseren Wohngebieten - Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 29.2: Prüfauftrag Parkplatzsituation Schusterstraße - Gemeinsamer Antrag der Fraktionen SPD, Bündnis90/ Die Grünen, Die Linke und CDU - ungeändert beschlossen
+- TOP 29.3: Fahrradstr. (Neue Friedrichstr.) an der Wiesenstr. Vorfahrt gewähren - Gemeinsamer Antrag der Fraktionen SPD und Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 29.4: Bushaltestelle/ "Gehwegnase" entfernen - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 29.5: Motorenlärm - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 29.6: Parkmöglichkeiten in dicht besiedelten Gebieten - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 29.7: Pflanzung von Bäumen - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 30: Anfragen
+- TOP 30.1: Große Anfrage der SPD-Fraktion zum Veranstaltungskalender und VO/0748/22
+- TOP 30.1.1: Antwort auf die große Anfrage der SPD Fraktion zu Veranstaltungen auf dem Laurentiusplatz (VO/0485/23) - Entgegennahme ohne Beschluss
+- TOP 31: Freie Mittel
+- TOP 31.1: 4.000 Euro aus freien Mitteln für das Wuppertaler Kinder- und Jugendtheater e.V. - Antrag der SPD Fraktion - ungeändert beschlossen
