@@ -1,0 +1,53 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-16T19:00:00+02:00
+- Ende: 2023-08-16T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23994
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23994
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: OVA_20230816_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00492945.pdf
+- Ergebnisprotokoll: OVA_20230816_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00492945.pdf
+- Wortprotokoll: OVA_20230816_Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00492945.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 15.03.2023 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Anwohnerparken -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.2: Verkehrszählungen zum Verkehrsversuch auf der Luegallee -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.3: Radverkehrsführung Auf´m Hennekamp -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.4: Sachstand „Zielkonzept Stadtbahn/Straßenbahn“ -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.5: Baustellenplanung am Japantag-Wochenende -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.6: Präsenz des OSD am Worringer Platz -Anfrage der Ratsfraktion Bündnis90/Die Grünen- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Überprüfung Park&Ride-Projekte -Antrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - einstimmig beschlossen
+- TOP 5.2: Bewohnerparkgebühren sozial gerecht -Antrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen- - mehrheitlich beschlossen
+- TOP 5.3: Einführung "Brötchentaste" -Antrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 5.4: Alternative Trassierung Radleitroute West-Ost -Antrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 5.5: Reaktivierung des S-Bahnhofes Kalkum - zurückgezogen
+- TOP 6: Aktuelles
+- TOP 6.1: RRX Planfeststellungsverfahren 3.0a (Unterrath-Kalkum) -mündlicher Bericht von Herrn Beigeordneten Kral- - zur Kenntnis genommen
+- TOP 6.2: Sachstand zur Einführung "Rhein-Takt" -mündlicher Bericht der Rheinbahn AG- - zur Kenntnis genommen
+- TOP 6.3: Mindener Straße, Erschließung Grundstücksentwicklung -mündlicher Bericht von Herrn Beigeordneten Kral- - zur Kenntnis genommen
+- TOP 6.4: Temporeduzierung auf 70 km/h auf der Kalkumer Schlossallee -mündlicher Bericht von Herrn Beigeordneten Kral- - zur Kenntnis genommen
+- TOP 6.5: Sachstand zum Fahrradparkturm Bilk -mündlicher Bericht von Herrn Beigeordneten Kral- - zur Kenntnis genommen
+- TOP 7: Heinrich-Heine-Allee -mündlicher Bericht von Herrn Beigeordneten Kral und Frau Beigeordneten Zur- - zur Kenntnis genommen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bericht zur Fahrzeugverfügbarkeit und zur Entwicklung des Wagenparks Hochflur - zur Kenntnis genommen
+- TOP 9: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 10: Änderung des Ausführungs- und Finanzierungsbeschlusses Nachrüstung Blindenleiteinrichtungen U-Bf. Heinrich-Heine-Allee - Empfehlung einstimmig beschlossen
+- TOP 11: Gasbeleuchtung - Darstellung von drei Szenarios - zur Kenntnis genommen
+- TOP 12: Mehr Sicherheit für Radfahrende auf der Benderstraße - Weiteres Vorgehen - vertagt
+- TOP 13: Barrierefreier Haltestellenumbau Merziger Straße - vertagt
+- TOP 14: Qualitätsbericht der Rheinbahn 2022 - vertagt
+- TOP 15: Sichere Schulwege – Sachstandsbericht 2023 - vertagt
+- TOP 16: Zielkonzept Stadtbahn/Straßenbahn - aktueller Stand - vertagt
+- TOP 17: Controlling-Bericht über die Baumaßnahmen des Amtes für Brücken-, Tunnel- und Stadtbahnbau - 1. Halbjahr 2023 - vertagt
+- TOP 18: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement - 1. Halbjahr 2023 - vertagt
