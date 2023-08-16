@@ -1,0 +1,127 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-08-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393342
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393342
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Öffentliche Toiletten am Königsplatz
+- TOP 6.2.: Überarbeitung der website www.spielplatz-muenchen.de
+- TOP 6.3.: Beschmierte Schulmauer der Grundschule Dachauer Straße in der Heßstraße professionell gestalten
+- TOP 6.4.: Restgehwegbreiten bei Freischankflächen
+- TOP 6.5.: Anfrage Bebauungsplan Nymphenburger Str. 16
+- TOP 6.6.: Baumpaten für die Maxvorstadt
+- TOP 6.7.: Verkehrschaos für Fußgänger*innen und Radfahrer*innen in der Türkenstraße dringend durch Umwandlung von Mischparken in reines Anwohnerparken entschärfen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Rechte der Bezirksausschüsse beim Baumschutz stärken, Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirkes 21 – Pasing Obermenzing am 15.03.2023
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 26-30
+- TOP 2.1.2.: WEB-Liste der LBK: KW 23-28
+- TOP 2.1.3.: Augustenstr. 62, Nutzungsänderung im Erdgeschoss eines Wohn-, Geschäftshauses von einem Laden zu einem Imbiss mit Gastraum
+- TOP 2.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.5.: Arcisstr. 36, Abbruch, Neuerrichtung und Erweiterung der Dachgeschosse im 6. und 7. OG durch den Bau eines Mansarddachs; hofseitige Anbringung von neuen Balkonen mit Abbruch und Neuerrichtung der Notleiteranlage; Nutzungsänderung von Flächen im UG des VGB von Keller in Gewerbe (Gastro); Nutzungsänderung von Flächen im EG des RGB von Lager in Fabs, Gewerbemüll-Sammelstelle und in Mierter-Abstellräume; Abbruch der Einzelgarage und Neuerrichtung eines Einzelcarports
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Kaulbachstr. 44
+- TOP 3.2.2.: Zieblandstraße 21,DG-Ausbau mit Nutzungsänderung von Speicher zu zwei Wohneinheiten, Einbau von 4 Dachgauben, 2 Loggien und Anbau zweier Balkonanlagen, Anbau Notleiteranlagen, energetische Modernisierung eines Mehrfamilienhauses
+- TOP 3.2.3.: Thorwaldsenstr. 5
+- TOP 3.2.4.: Barer Str. 27
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 5.3.: Königinstr. 35, Vorbescheid
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bezirk BA 3 nicht vorhandene Abstellmöglichkeiten Arnulfstraße Höhe Starnberger Flügelbahnhof
+- TOP 1.1.2.: Fahrradabstellanlage in der Kardinal-Döpfner-Straße 8
+- TOP 1.1.3.: Karolinenplatz fußgängerfreundlich gestalten
+- TOP 1.1.4.: Verkehrssituation Türkenstraße/Prinz-Ludwig-Straße, Bürger*innenanliegen vom 19.07.2023
+- TOP 1.1.5.: Radabstellsituation am nördlichen Hauptbahnhof, Bürger*innenanliegen vom 25.07.2023
+- TOP 1.1.6.: Rückmeldungen zum Projekt "Steinhuber Miniblock"
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Dialog-Displays, Bestellstart/-modalitäten und Kriterienkatalog
+- TOP 2.1.2.: Einrichtung von Lieferzonen im Bereich der Maxvorstadt
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Türkenstraße 96, Antrag auf Aufstellung Sitzgelegenheiten│
+- TOP 2.2.2.: Adalbertstr. 47, Antrag auf Aufstellung Sitzgelegenheiten
+- TOP 2.2.3.: „Bauernmarktmeile“ auf dem Odeonsplatz und Ludwigstraße am 24.09.2023│ 28.08.2023
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Adalbertstr. 33, Antrag auf einen Schanigarten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Fünf Plätze attraktiv neu gestalten A) Platz an der Barer Straße / Ecke Nordendstraße B) Lorettoplatz
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Königinstraße / Schönfeldstraße, Erweiterung der Abstellflächen für Mikromobilität
+- TOP 3.4.: Ausweisung einer Feuerwehranfahrtszone zu dem Anwesen Karolinenstraße 9
+- TOP 3.5.: Aufhebung eines allgemeinen Behindertenparkplatzes im Bereich Heßstraße 76
+- TOP 3.6.: Genehmigung von 9 Parklets im Zuge des Projektes „Steinhuber Miniblock“
+- TOP 3.7.: Heßstraße, Grenzmarkierung beim Zugang zum Maßmannpark
+- TOP 3.8.: Lastenradstellplätze in der Kurfürstenstraße 2
+- TOP 3.9.: Fahrradstellplätze in der Richard-Wagner-Straße 27
+- TOP 3.10.: Genehmigung ICF e.V. Sommerfest - Kinder- und Familienprogramm
+- TOP 3.11.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Dachauer Str. 87 Ecke Sandstr. 4
+- TOP 3.12.: Eilentscheidung der BA-Vorsitzenden, Aufstellung einer Sitzgelegenheit vor dem Anwesen Schellingstr. 115
+- TOP 3.13.: Genehmigung "MÜK-Sommer-Boarding - Ideenwerkstatt der Münchner Kinderzeitung" am 02.08.2023
+- TOP 3.14.: Eilentscheidung der BA-Vorsitzenden, Aufstellung einer Sitzgelegenheit vor dem Anwesen Brienner Str. 12
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Barrierefreier Zugang zu den Münchner Seen - Badespaß für alle
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Maßmannpark, Erneuerung Sandkasteneinfassung
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Init. "Wandmalerei" "Wand an der Schleißheimerstraße 31 -Teil der Wand dem Jugendtreff zugehörig" vom 17.08. -30.09.2023 5.000,00€; Az. 0262.0-3-0482
+- TOP 2.2.: (E) Stadtbezirksbudget Verein "YOU" "YOU" Welcome Konzert am 29.07.2023 600,00 Euro, Az.: 0262.0-3-0481
+- TOP 2.3.: (E) Stadtbezirksbudget Boxwerk Nick Trachte GLOVE LOVE (Power Flower) im Rahmen des Flower Power Festivals München am 09.09.2023 4.900,00 € / AZ.0262.0-3-0483
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Landtags- und Bezirkswahl 2023; Stimmbezirke und Wahlräume im Stadtbezirk 3
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.4.1.: VerWunderLand - Variete vor der Haustür am 01.10.23 (Frist: 01.09.2023)
+- TOP 2.4.2.: "Familienherbst" Nachbarschaftsstraßenfest am 09.09.2023 (Frist: 30.08.2023)
+- TOP 2.4.3.: Open-Air Tischtennisturnier - Maxvorstadt-Cup am 26.08.2023 (Frist: 21.08.23)
+- TOP 2.4.4.: "Straßenfest Steinhuber Miniblock" am 03.09.2023 (Frist: 24.08.23)
+- TOP 2.4.5.: „Rotes Familienfest Maxvorstadt“; Arnulfpark am 23.09.23 - Ersatztermin am 24.09.23 - (Frist: 14.09.23)
