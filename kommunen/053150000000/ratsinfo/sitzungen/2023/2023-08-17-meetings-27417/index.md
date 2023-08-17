@@ -1,0 +1,99 @@
+# 19. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-17T15:30:00+02:00
+- Ende: 2023-08-17T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27417
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27417
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer Ausschussmitglieder - zurückgestellt
+- TOP -: Bestellung einer stellvertretenden Schriftführung für den Ausschuss Soziales, Seniorinnen und Senioren - ungeändert beschlossen
+- TOP -: A Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Liga der Wohlfahrtsverbände - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Imagefilm über die Interkulturellen Zentren - Kenntnis genommen
+- TOP 2.2: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2.1: Konsequenzen aus dem Beschluss der Ausschüsse für Verkehr bzw. Soziales, Seniorinnen und Senioren in der gemeinsamen Sondersitzung am 25.04.2023 zu Nr. 1.1 der Tagesordnung (KVB NF12) - Kenntnis genommen
+- TOP 2.3: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3.1: Bericht der Behindertenbeauftragten - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten - zurückgestellt
+- TOP 3.2: Weitere Schließung von Sparkassen Filialen in der Stadt Köln ablehnen - zurückgestellt
+- TOP 3.3: Kostenloses Schulessen an Kölner Schulen - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - Sache ist erledigt
+- TOP -: TOP 4.1: Antrag des Integrationsrates zur Sicherstellung der Gleichbehandlung von geflüchteten Personen sowie konsequente Umsetzung des Gewaltschutzkonzeptes - geändert beschlossen
+- TOP 4.2: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Kurdisches Kultur- und Bildungszentrum Köln e.V. - ungeändert beschlossen
+- TOP 4.3: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel 2023 - ungeändert beschlossen
+- TOP 4.4: Förderprogramm Unterstützung der anerkannten Betreuungsvereine zur Führung von rechtlichen Betreuungen im Stadtgebiet Köln - ungeändert beschlossen
+- TOP 4.5: Förderung von Frauenvereinen im Sozialbereich 2023 - ungeändert beschlossen
+- TOP 4.6: Förderung von Selbsthilfegruppen im Sozialbereich 2023 - ungeändert beschlossen
+- TOP 4.7: Livestreaming der Sitzungen des Ausschusses für Soziales, Seniorinnen und Senioren - geändert beschlossen
+- TOP 4.8: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Bauliche Ertüchtigung zur Sicherstellung der Betreiberverantwortung statt Umbau, Modernisierung und Erweiterung des Bürgerhauses MüZe, Berliner Str. 77 in Köln-Mülheim - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Ombudsstelle für Geflüchtete - Verlängerung der Befristung bis Dezember 2025 - ungeändert empfohlen
+- TOP 5.3: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Kölner Statistische Nachrichten 3/2023 – Auswertung der Bautätigkeitsstatistik 2022 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Jahresbericht 2022 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.2: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2022 - Kenntnis genommen
+- TOP 9.3: 1. Quartalsbericht 2023 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage des Sachkundigen Einwohners Intveen (Behindertenvertretung) zur Barrierefreiheit öffentlicher Toiletten - zurückgestellt
+- TOP -: Barrierefreiheit öffentlicher Toiletten - zurückgestellt
+- TOP 10.1.2: Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - zurückgestellt
+- TOP 10.1.3: Kölner Verhütungsmittelfonds - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der FDP-Fraktion (AN/1028/2023) vom 19.05.2023 betreffend des Kölner Verhütungsmittelfonds für die Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren am 17.08.2023 - Kenntnis genommen
+- TOP 10.1.4: Chancenaufenthaltsrecht: Wie können das Jobcenter und andere Behörden Geflüchtete unterstützen? - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion (AN/1054/2023) vom 22.05.2023 betreffend des Chancenaufenthaltsrechts - Kenntnis genommen
+- TOP 10.1.5: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Filialschließungen der Stadtsparkasse KölnBonn – Auswirkungen auf ältere Kundinnen und Kunden - zurückgestellt
+- TOP 10.2.2: Sommerhilfe für wohnungslose Kölnerinnen und Kölner - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: "Guter Lebensabend NRW" - Veröffentlichung des im Rahmen der Projektlaufzeit vom 01.04.2021-31.12.2022 erarbeiteten Handlungskonzeptes - Kenntnis genommen
+- TOP 12.2: Erweiterung der Zielgruppen des Kommunalen Integrationsmanagements (KIM) - Kenntnis genommen
+- TOP 12.3: Ehrenamt von Menschen mit Behinderung stärken - Kenntnis genommen
+- TOP 12.4: Bevölkerung 2022 - Deutliches Wachstum durch Zuzüge aus dem Ausland - Kenntnis genommen
+- TOP 12.5: Auszeichnung der Kampagne zur Akzeptanz von queeren Menschen mit Migrations- und Fluchtgeschichte mit dem Deutschen Preis für Online-Kommunikation - Kenntnis genommen
+- TOP 12.6: Harmonisierung der Antragsformulare im Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 12.7: Beschluss des Integrationsrates über die Verteilung der Mittel zur Förderung eines neuen Interkulturellen Zentrums (Shahrzad e.V.) für das Haushaltsjahr 2023 - Kenntnis genommen
+- TOP 12.8: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 12.9: „Aktionstag Mobilität“ am 16. September 2023 von 11 bis 15 Uhr auf dem Neumarkt - Kenntnis genommen
+- TOP 12.10: Bundesweit erstes Teilzeitsymposium - 100 % Teilzeit - Innovative Arbeitszeitmodelle zur Fachkräftesicherung - Kenntnis genommen
+- TOP 12.11: Entwicklung des Ausländeramtes zur "Willkommensbehörde" - ein Zwischenbericht - Kenntnis genommen
+- TOP 12.12: Managementbericht des Dezernates V - Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 12.13: Stiftung Dr. Renate Haack - Kostenlose Reise für Senior*innen nach Bad Herrenalb - Kenntnis genommen
+- TOP 12.14: Handlungskonzept "Guter Lebensabend NRW" Erste Maßnahmen zur Umsetzung der im Rahmen der Projektlaufzeit vom 01.04.2021 - 31.12.2022 erarbeiteten Erkenntnisse und Handlungsnotwendigkeiten - Kenntnis genommen
+- TOP 12.15: Jahresbericht 2022 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 12.16: Verbraucherberatungsstelle Köln: Jahresbericht 2022 - Kenntnis genommen
+- TOP 12.17: Verbraucherberatung im Quartier: Jahresbericht 2022 - Kenntnis genommen
+- TOP 12.18: Sachbericht 2021/2022 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 12.19: Entwicklung und Sachstand zum Förderprogramm "Housing First Köln" - Kenntnis genommen
+- TOP 12.20: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2022 - Kenntnis genommen
+- TOP 12.21: Einführung eines Anonymen Krankenscheins in Köln - Kenntnis genommen
+- TOP 12.22: Mitteilung über Aktualisierte Bedarfsfeststellung Unterbringungsplätze für Geflüchtete - Kenntnis genommen
+- TOP 12.23: Aufstockung Wohncontainerstandorte für Geflüchtete - Kenntnis genommen
+- TOP 12.24: Regenbogenmarkierung in der Schaafenstraße - Kenntnis genommen
+- TOP 12.25: Abschluss eines langfristigen Mietvertrages, Regentenstrasse, 51063 Köln - Kenntnis genommen
+- TOP 12.26: Sachstand Weiterentwicklung der niedrigschwelligen, ambulanten und offenen Kontakt- und Beratungsangebote in den Sozialpsychiatrischen Zentren - Kenntnis genommen
+- TOP 12.27: Mehrfachbeschäftigung in Köln - Beschäftigungsentwicklung 2013 bis 2022: Mehrfachbeschäftigung in Köln erreicht Höchsstand seit 2013 - zurückgestellt
+- TOP 12.28: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - zurückgestellt
+- TOP 12.29: Tätigkeitsbericht der WTG-Behörde (Heimaufsicht) für die Jahre 2021-2022 - zurückgestellt
+- TOP 12.30: Dokumentation der Konferenz Interkulturelles Köln 2023 - zurückgestellt
+- TOP 12.31: Haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés - zurückgestellt
+- TOP 12.32: Nutzungsgebühren für städtisch untergebrachte Geflüchtete in Arbeitsverhältnissen - Kenntnis genommen
