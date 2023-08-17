@@ -1,0 +1,64 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-08-17T18:41:00+02:00
+- Ende: 2023-08-17T21:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3117
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3117
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Prüfung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2021 - einstimmig beschlossen
+- TOP 5: Erlass einer Nachtragssatzung für den Haushalt 2023 - Kenntnisnahme
+- TOP 6: Finanzzwischenbericht zum 30.06.2023 - Kenntnisnahme
+- TOP 7: Hallenbad Neukirchen
+- TOP 7.1: Hallenbad Neukirchen - Aufhebung des Beschlusses vom 15.06.2023 - einstimmig beschlossen
+- TOP 7.2: Hallenbad Neukirchen - mehrheitlich beschlossen
+- TOP 8: Beratungspunkte Ausschüsse
+- TOP 8.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 8.1.1: ISEK Flutgraben - Grundsatzbeschluss - Kenntnisnahme
+- TOP 8.1.2: 27. FNP Änd. ern. Aufstellung und Beschluss gem. § 6 - einstimmig beschlossen
+- TOP 8.1.3: 36. FNP Änd. - Aufhebung Feststellungsbeschluss - einstimmig beschlossen
+- TOP 8.1.4: 45. FNP Änd. Aufstellung - mehrheitlich beschlossen
+- TOP 8.1.5: F 31 - Aufstellung - mehrheitlich beschlossen
+- TOP 8.1.6: H 21 Josefstraße - Aufstellung § 13a - mehrheitlich beschlossen
+- TOP 8.1.7: K 37 Schubertstraße - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 8.1.8: Benennung Mitglieder Lenkungsgruppe "Rahmenplan Kraftwerk Frimmersdorf" und Auflösung Lenkungsgruppe "ISEK" - einstimmig beschlossen
+- TOP 8.2: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 8.2.1: Schwerpunkteinrichtung u 3 - einstimmig beschlossen
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Öffentlicher Nahverkehr und Schülerspezialverkehr in Grevenbroich (Anfrage Nr.:14/2023) - Kenntnisnahme
+- TOP 9.2: Vandalismus auf den städtischen Friedhöfen (Anfrage Nr.:51/2023) - Kenntnisnahme
+- TOP 9.3: Digitale Teilnahme an Ausschussitzungen (Antrag Nr.:21/2023) - Kenntnisnahme
+- TOP 9.4: Parksituation Dechant-Schütz-Straße (Anfrage Nr.:24/2023) - Kenntnisnahme
+- TOP 9.5: Wie steht es um Carsharing-Angebote in der Stadt Grevenbroich? (Anfrage Nr.:01/2023) - einstimmig beschlossen
+- TOP 9.6: Verwendung der Mittel "Sofortprogramm zur Stabilisierung der Innenstädte und Zentren" (Anfrage Nr.:56/2023) - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.1.1: Umbesetzung (Antrag Nr.:62/2023) - einstimmig beschlossen
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.3.1: Umbesetzung (Antrag Nr.:65/2023) - einstimmig beschlossen
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: Keine de facto Beitragserhöhungen für Eltern der neuen Kita durch Parkgebühren in der Coens-Galerie (Antrag Nr.:61/2023) - einstimmig beschlossen
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 11: Gemeinschaftsanträge
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.3.1: Fraktionsvorsitz als Doppelspitze (Anfrage Nr.:63/2023) - Kenntnisnahme
+- TOP 12.3.2: Prävention durch die Stadt Grevenbroich (Anfrage Nr.:64/2023) - Kenntnisnahme
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 13: Mitteilungen des Bürgermeisters
+- TOP 14: Digital X – Weltausstellung der Digitalisierung in Köln am 20/21.09.2023 - Kenntnisnahme
