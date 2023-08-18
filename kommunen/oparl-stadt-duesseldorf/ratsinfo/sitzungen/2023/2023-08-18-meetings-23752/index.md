@@ -1,0 +1,75 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-18T16:05:00+02:00
+- Ende: 2023-08-18T18:01:00+02:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23752
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23752
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 02.06.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Neuwahl einer Schiedsperson - mehrheitlich beschlossen
+- TOP 5.2: Am Bärenkamp - Ausbau Gehweg vor Haus-Nr. 15/17 - mehrheitlich beschlossen
+- TOP 5.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Jägerei 12 - Beseitigung eines Einfamilienhauses - einstimmig beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Quartiersentwicklung Benrodestraße / Marbacher Straße Alternativstandort für das Spektakulum - Empfehlung einstimmig beschlossen
+- TOP 5.7: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung mehrheitlich beschlossen
+- TOP 5.8: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung mehrheitlich beschlossen
+- TOP 5.9: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2023 - einstimmig beschlossen
+- TOP 5.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5.11: Werstener Friedhofstraße 70, 72; Neubau der Feuer- und Rettungswache 7 und des zentralen Betriebshofes Süd für das Garten-, Friedhofs- und Forstamt - Ausführungs- und Finanzierungsbeschluss - - Empfehlung mehrheitlich beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Benrather Schloßallee zwischen Kappeler Straße und Steinkribbenstraße - Interfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: St.-Sebastianus-Schützenbruderschaft 1641 D-Himmelgeist e.V. - Anschaffung eines Staukastens und von Zelten - einstimmig beschlossen
+- TOP 9.2: KGS Einsiedelstraße - Martinsfest 2023 - einstimmig beschlossen
+- TOP 9.3: Wir in Wersten e. V. - Rock am Bach 2023 - einstimmig beschlossen
+- TOP 9.4: Wir in Wersten e. V. - Heimatsommer 2023 - einstimmig beschlossen
+- TOP 9.5: St. Hubertus Schützenbruderschaft e.V. Itter - Installation einer PV-Anlage und Umrüstung der Beleuchtung - einstimmig beschlossen
+- TOP 9.6: Theodor-Litt-Realschule - Klassentraining "Fair-Bleiben" - einstimmig beschlossen
+- TOP 9.7: Benrather Schlossnarren - Sommerfest 2023 - einstimmig beschlossen
+- TOP 9.8: Heimatverein Werstener Jonges e.V. 1953 - Sommerfest 2023 - einstimmig beschlossen
+- TOP 9.9: Caritasverband - Stadtteilladen Wersten - Nähkurse und DIY Café für Kids 2023 - einstimmig beschlossen
+- TOP 9.10: Caritasverband - Stadtteilladen Wersten - Leseclub für Kinder "Leih mir ein Ohr" - einstimmig beschlossen
+- TOP 9.11: Stadtbücherei Wersten - SommerLeseClub-Abschlussfeier - einstimmig beschlossen
+- TOP 9.12: Benrather Initiative für Nachhaltigkeit, BIN - Öffentliche Veranstaltung für Kinder am Benrather Bücherschrank - einstimmig beschlossen
+- TOP 9.13: St. Seb. Schützenverein Düsseldorf-Holthausen 1925 e.V. - Schützenfest-Festzug - einstimmig beschlossen
+- TOP 9.14: Heimatgemeinschaft Groß-Benrath e.V. - Familienfest - einstimmig beschlossen
+- TOP 9.15: Martinsfreunde Benrath-Mitte e.V. - Martinszug 2023 - einstimmig beschlossen
+- TOP 9.16: Kunst im Hafen e.V. - Kunstprojekt "Die Dörfler 2" - einstimmig beschlossen
+- TOP 9.17: Bereitstellung von bezirklichen Verfügungsmitteln - Aufhebung eines Beschlusses vom 08.12.2017 - Vorlage 179/227/2017 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Durchfahrtsbeschränkung Alt Himmelgeist - Beschluss der Bezirksvertretung 9 vom 06.05.2022; BV9/105/2022 - zur Kenntnis genommen
+- TOP 10.2: Silcherstraße, Grünstreifen - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/042/2023 - zur Kenntnis genommen
+- TOP 10.3: Einrichtung einer Einbahnstraße für die Langenfelder Straße bis zur Küppersteger Straße in Wersten - Beschluss der Bezirksvertretung 9 vom 09.12.2022; BV9/257/2022 - zur Kenntnis genommen
+- TOP 10.4: Marschnerstraße: Gehwegparken - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/281/2021 - zur Kenntnis genommen
+- TOP 10.5: Taubenplage an Zuwegung Paulsmühle - Beschluss der Bezirksvertretung 9 vom 28.06.2019; 179/135/2019 - zur Kenntnis genommen
+- TOP 10.6: Erhöhung der Sicherheit für den Radverkehr auf der Hasselsstraße - Beschluss der Bezirksvertretung 9 vom 05.05.2023; BV9/093/2023 - zur Kenntnis genommen
+- TOP 10.7: Information zum Bebauungsplanverfahren 09/015 - Nördlich Werstener Straße in der Sitzung der Bezirksvertretung 9 am 10.03.2023; APS/044/2023 - zur Kenntnis genommen
+- TOP 10.8: Errichtung eines Bouleplatzes im Grünzug Hassels - Beschluss der Bezirksvertretung 9 vom 05.05.2023; BV9/082/2023 - zur Kenntnis genommen
+- TOP 10.9: Kiss-and-Ride-Zone Himmelgeister Grundschule - Nachtrag zur Informationsvorlage der Bezirksvertretung 9 vom 05.05.2023; BV9/034/2023 - zur Kenntnis genommen
+- TOP 10.10: Kammerrathsfeldstraße / Kolhagenstraße - Fahrradständer zur Freihaltung der Sichtbeziehung - zur Kenntnis genommen
+- TOP 10.11: Sanierung Radweg Grünzug Hassels - Beschluss der Bezirksvertretung 9 vom 02.06.2023; BV9/123/2023 - zur Kenntnis genommen
+- TOP 10.12: Zebrastreifen Auf’m Rott - Beschluss der Bezirksvertretung 9 vom 05.05.2023; BV9/080/2023 - zur Kenntnis genommen
+- TOP 10.13: Errichtung von Trinkwasserzapfstellen auf Kinderspielplätzen - Beschluss der Bezirksvertretung 9 vom 05.05.2023; BV9/083/2023 - zur Kenntnis genommen
