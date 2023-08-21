@@ -1,0 +1,57 @@
+# 19. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-21T15:00:00+02:00
+- Ende: 2023-08-21T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27418
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27418
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0. Ernennung der stellvertretenden Schriftführung
+- TOP -: Bestellung der stellvertretenden Schriftführung - Kenntnis genommen
+- TOP -: A. Aktueller Sachstand zum Deutschlandticket für Kölner Schülerinnen und Schüler
+- TOP -: B. Präsentation KAoA
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines 2-zügigen Grundschulgebäudes mit 2 Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West - geändert beschlossen
+- TOP 2.1.1: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 2.2: Beschleunigungspaket weiterführende Schulen - Generalsanierung und Neubau d. Schulgebäude Gesamtschule Holweide, Burgwiesenstraße, der Kaiserin-Theophanu-Schule, Kantstraße und der Heinrich-Böll-Gesamtschule, Merianstraße - Planungs- und Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Sportfläche für Ballsportspiele auf dem Schulhof der Max-Ernst-Gesamtschule - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion Die Linke vom 22.05.2023 betreffend "Verbesserungsmöglichkeiten des Aufnahmeverfahrens und der Bildungsgerechtigkeit an Grundschulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Sponsoringvereinbarung Stadt Köln 2021-22 - zurückgestellt
+- TOP 5.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 05.04.2023 betreffend "Beförderung von Inklusionskindern" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17.05.2023 Beantwortung einer schriftlichen Anfrage AN/0609/2023 betreffend "Beförderung von Inklusionskindern" - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - zurückgestellt
+- TOP 5.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU, Volt vom 16.05.2023 betreffend "Mehrklassen an Grundschulen" - zurückgestellt
+- TOP 5.5: Anfrage der Fraktion CDU vom 16.05.2023 betreffend "Straftaten an Kölner Schulen" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus. mit einer Einfachturnhalle für die Grundschule Gaedestraße 31, 50968 Köln-Marienburg im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2023 - ungeändert empfohlen
+- TOP 6.2: Zusammenführung der beiden Weiterbildungskollegs Gereonsmühlengasse und Dagobertstraße zur Sicherung des bestehenden Angebotes an den aktuellen Schulstandorten - ungeändert empfohlen
+- TOP 6.3: Änderung der Förderschule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, Blumenthalstraße 10-12, 50670 Köln-Neustadt/Nord (Schulnummer 154179) zum 01.08.2024 - ungeändert empfohlen
+- TOP 6.4: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Schulrechtliche Änderung der Kapazität der Franziskusschule, Katholische Grundschule, Cäsarstraße21, 50968 Köln-Bayenthal (Schulnummer 111430) von 1,5 auf 2 Züge zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 8.2: Evaluation zum Aktionsprogramm „Aufholen nach Corona für Kinder und Jugendliche" 2021 und 2022 - Kenntnis genommen
+- TOP 8.3: "Köln, safe..." - Kampagne zum Thema Gewalt- und Waffenfreiheit - Kenntnis genommen
+- TOP 8.4: Schwimmen als Alternative bei den Bundesjugendspielen - Kenntnis genommen
+- TOP 8.5: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 8.6: Änderungen bei der Ausschreibung von Planungsleistungen für Baumaßnahmen - endgültig zurückgezogen
+- TOP 8.7: Schulsozialarbeit an Förderschulen Sprache - Kenntnis genommen
+- TOP 8.8: 10 Jahre Kommunale Koordinierungsstelle Übergang Schule-Beruf in Köln – Evaluation der Landesinitiative „Kein Abschluss ohne Anschluss“ - Kenntnis genommen
+- TOP 8.9: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 8.10: Neues Programm der Volkshochschule Köln für den Herbst und Winter 2023 - Kenntnis genommen
+- TOP 8.11: Offene Ganztagsschule im Primarbereich ab dem Schuljahr 2023/2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.12: Zertifikatskurs „klimafit“ der VHS Köln zum Thema kommunaler Klimaschutz - Kenntnis genommen
+- TOP 8.13: KO:IN Pride – Internationaler Austausch der VHS Köln mit der Städtepartnerschaft Indianapolis zu queeren Menschenrechten - Kenntnis genommen
+- TOP 8.14: Mehrklassenbildung im Schuljahr 2023/2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9: Mündliche Anfragen
