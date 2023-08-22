@@ -1,0 +1,8 @@
+# TOP 6: Beschlussvorlage zur Vorbereitung der geplanten Neubaumaßnahmen Schlüterstraße zur nachhaltigen Sicherstellung ausreichender Grundschulplätze in den Stadtteilen Flingern-Nord, Düsseltal, Grafenberg und Gerresheim
+
+- Sitzung: Bauausschuss (2023-08-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/341591
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/124270
