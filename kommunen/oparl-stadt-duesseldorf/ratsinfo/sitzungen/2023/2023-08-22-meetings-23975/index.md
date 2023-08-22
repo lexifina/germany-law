@@ -1,0 +1,62 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-22T17:00:00+02:00
+- Ende: 2023-08-22T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23975
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23975
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00493949.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00493949.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00493949.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 06.06.2023 - abweichend beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Präsentation der Kriminalitäts- und Unfallstatistik 2022 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 6.2: Benennung von zwei Planstraßen und einem Platz im Neubaugebiet zwischen Kölner Straße / Erkrather Straße - mehrheitlich beschlossen
+- TOP 6.3: Umbenennung historisch belasteter Straßennamen in Düsseldorf - abweichend beschlossen
+- TOP 6.4: Umsetzung stationsbasierter Sharing-Angebote im Umfeld der Heinrich-Heine-Universität - einstimmig beschlossen
+- TOP 6.5: Weihnachtsmarkt auf dem Vorplatz der Düsseldorf Arcaden in Unterbilk - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschüsse
+- TOP 7.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2023 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - abweichend beschlossen
+- TOP 7.3: Verwendung von Haushaltsmitteln - vertagt
+- TOP 7.4: Information über beschlossene Zuschüsse - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Mobilstation Bachplätzchen (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Universitätsstraße (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Mögliche Mobilitätsstation Gogrevestr./Vlattenstr. (Anfrage BÜNDNINS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.2: Sachstand (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.4: Bezahlbares Wohnen in der Talstraße 76 (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Freigabe von Parkmöglichkeiten - zur Kenntnis genommen
+- TOP 10.2: Aufwertung Quartier Mintropplatz mit der Harkort-, Mintrop-, Scheuren-, Pionier-, Aders- und Luisenstraße - zur Kenntnis genommen
+- TOP 10.3: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 10.4: Rheinbrücke Josef-Kardinal-Frings-Brücke im Zuge der B1 – Verkehrliche Anordnung - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
