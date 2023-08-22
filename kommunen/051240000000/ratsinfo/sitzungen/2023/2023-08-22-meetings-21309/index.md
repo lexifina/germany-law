@@ -1,0 +1,57 @@
+# öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-08-22T16:03:00+02:00
+- Ende: 2023-08-22T18:50:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21309
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21309
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil - Stand: 15.08.2023 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00316906.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00317826.pdf
+
+## Tagesordnung
+
+- TOP 1: Oragnisationsanalyse Ressort 104
+- TOP 2: Abgesetzt . Von der Verwaltung zurückgezogen. Überplanmäßige Mittel für die Organisationsuntersuchung des Ressorts Straßen und Verkehr (104)
+- TOP 3: Kanalbaumaßnahmen in dem historischen Teil der B 7 - Entgegennahme ohne Beschluss
+- TOP 4: Baustellensituation
+- TOP 5: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 6: Radverkehrsführung parallel zur B 7 - Sachstand Abschnitt Wartburgstraße und Farbmühle sowie Grundsatzbeschluss Hardtufer - ungeändert beschlossen
+- TOP 7: Freigaben von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Südstadt (hier: östlicher Teilbereich) - ungeändert beschlossen
+- TOP 8: Buslinienverkehr Rott - Entgegennahme ohne Beschluss
+- TOP 9: Reisebushaltestelle auf der B7 Höhe "Schwebodrom" - geändert beschlossen
+- TOP 10: Querungshilfe für den Fußverkehr auf der Briller Straße - ungeändert beschlossen
+- TOP 11: Temporäre Sperrung der Kaiserstraße - vertagen
+- TOP 12: Denkmalgerechte Sanierung / Erneuerung der Jakobstreppe - ungeändert beschlossen
+- TOP 13: Bericht zur Anwendung der Nachrechnungsrichtlinie an Straßenbrücken in städtischer Baulast - Entgegennahme ohne Beschluss
+- TOP 14: Fördermaßnahme Grundhafte Erneuerung der Loher Brücke – Kostenneufestsetzung - ungeändert beschlossen
+- TOP 15: Instandsetzung der Brücke Reichsgrafenstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 16: Instandsetzung der Brücke Kabelstraße - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 17: Widmung des Willy-Brandt-Platzes - ungeändert beschlossen
+- TOP 18: Sachstand Hansa-Galerie - Entgegennahme ohne Beschluss
+- TOP 18.1: Antwort auf die Große Anfrage der CDU-Fraktion "Sachstand Hansa-Galerie" vom 13.02.2023 (VO/1771/23) - Entgegennahme ohne Beschluss
+- TOP 19: Entwicklung des PKW-Verkehrsaufkommens zwischen 2020 und 2023 - Entgegennahme ohne Beschluss
+- TOP 19.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Entwicklung des PKW-Verkehrsaufkommens zwischen 2020 und 2023 - Entgegennahme ohne Beschluss
+- TOP 20: Störungen des Bahnverkehrs im Großraum Wuppertal - Entgegennahme ohne Beschluss
+- TOP 20.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Störungen des Bahnverkehrs im Großraum Wuppertal" vom 08.08.2023 (VO/0775/23)
+- TOP 21: Tempo 30 aus Lärmschutzgründen - Stellungnahme des Rechtsamtes - Entgegennahme ohne Beschluss
+- TOP 21.1: Am Stadtbahnhof - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.2: Bahnstraße - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.3: Tannenbergstraße - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.4: Heckinghauser Straße - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.5: Hofkamp - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.6: Loher Straße - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 21.7: Nützenberger Straße - Tempo 30 aus Lärmschutzgründen - ungeändert beschlossen
+- TOP 22: Bericht zur Sitzung der Unfallkommission vom 03.05.2023 - Entgegennahme ohne Beschluss
+- TOP 23: Aktuelle Anmeldezahlen Elektrofahrzeuge - Entgegennahme ohne Beschluss
+- TOP 24: Sachstandsbericht zur Drucksache VO/1753/23 - Schwerpunktsetzungen des Ausschusses für Verkehr - Entgegennahme ohne Beschluss
+- TOP 25: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 25.1: Ergänzungsantrag der Fraktionen von SPD, CDU, DIE LINKE und der Ratsgruppe Freie Wähler/Wählergemeinschaft für Wuppertal zur Drucksache „Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal“ (VO/0354/23) - ungeändert beschlossen
+- TOP 26: Anregung gemäß § 24 GO NRW - Leitfaden Fahrradstraße der Arbeitsgemeinschaft fußgänger- und fahrradfreundlicher Städte, Gemeinden und Kreise in NRW (AGFS) - ungeändert beschlossen
+- TOP 27: Abgesetzt. Behandlung in der nächsten Sitzungsfolge. Anregung gemäß § 24 GO NRW - Temporeduzierung im Bereich der Straße Kleeblatt aufgrund von Lärmschutz
+- TOP 28: Anregung gemäß § 24 GO NRW - Sichere Wege mit dem Fahrrad vom Arrenberg in die Elberfelder Innenstadt - ungeändert beschlossen
+- TOP 29: Anregung gemäß § 24 GO NRW - Ex-Benutzungspflicht für den Hochbord-Radweg auf der Industriestraße - ungeändert beschlossen
+- TOP 30: Anregung gemäß § 24 GO NRW - Ausschilderung baustellenbedingter Umleitungen - ungeändert beschlossen
