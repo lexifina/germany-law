@@ -1,0 +1,140 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2023-08-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7385725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7385725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget TSV Turnerbund München e.V. “Tag des Deutschen Sportabzeichens am 24.06.2023“ 1.000,00 € / AZ: 0262.0-18-0354
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative „Müll“ “#DEINMÜLL 2.0 vom 21.08.2023 – 29.09.2023“ 2.600,34 € / AZ: 0262.0-18-0355
+- TOP 3.1.2.3.: (E) Verbindliche Bestellung einer städtischen Leistung; hier: Einsatz der TOPO Box in der Säbener Straße auf Höhe Nr. 61
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Gedenkveranstaltung zum 9. November 1938 - Verwendung des Budgets für eigene Veranstaltungen; BA-Antrag
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Straßenfest in der Aggensteinstraße am 16.09.2023 - Veranstaltung auf öffentlichem Verkehrsgrund
+- TOP 3.2.4.2.: Oberbibergerstraße Kinder-Zirkus "Simsala" Ferienprogramm
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: SPD-Sommerfest mit Grillen auf der Grünanlage am Wettersteinplatz am 23.07.2023 - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.2.: Benefizlauf des Albert-Einstein-Gymnasiums: Marienklause - Isar entlang am 27.07.2023 - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.3.: Straßenfest in der Unteren Weidenstr. 12-15 am 22.07.2023 - Abdruck der Erlaubnis und Gestattung
+- TOP 3.2.6.4.: Pfarrfest mit Halteverboten in der Arminiusstraße am 23.07.2023 - Abdruck der Erlaubnis mit Auflagen und Gestattung
+- TOP 3.2.6.5.: Kulturspaziergang am 22.07.2023 - Abdruck des Bescheids
+- TOP 3.2.6.6.: Baubeginn Sanierung Skateanlage Wörnbrunner Platz
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Halteverbot für die Müllabfuhr an der Meraner Straße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Einfahrt Perlacher Forst
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Reinerstraße: Straßensperre für Kraftwagen (Z. 251 StVO) mit der Ausnahme für Anlieger
+- TOP 3.3.6.2.: Fristverlängerung: Tramübergänge Wettersteinplatz Isenschmidstraße Klinikum Harlaching barrierefrei gestalten; BA-Antrag 20-26 B 05344
+- TOP 3.3.6.3.: Informationsschreiben Kosten Dialog-Displays
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Gabriel-Max-Str. 58 - Geiselgasteigstr. 88b - Gruenwalder Str. 253 - Harthauser Str. 94 - Lindenstr. 29 - Lindenstr. 4g - Saebener Str. 112 - Schönegger Weg 5 - Seybothstr. 34 - Vollmarstr. 8
+- TOP 3.4.4.2.: Satzungsänderung Rechte der Bezirksausschüsse beim Baumschutz stärken; BV-Empfehlung Pasing-Obermenzing
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Nächtliche und sonntägliche Gleisarbeiten (Trambahngleise) am Wettersteinplatz - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.6.2.: Baumfällung in der Benediktenwandstr. 3
+- TOP 3.4.6.3.: Baumfällung in der Grünwalder Str. 223
+- TOP 3.4.6.4.: Baumfällung in der Südtiroler Str. 5
+- TOP 3.4.6.5.: Baumfällung in der Geiselgasteigstr. 124-124a
+- TOP 3.4.6.6.: Nachhaltigkeitsbericht SWM 2022
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Sitzgelegenheiten in der Rotbuchenstraße
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Versammlung Corona Aufklärung öffentlich am Kolumbusplatz
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Theodolindenstraße 2a: Neubau zweier Hausgruppen mit jeweils 3 durch eine doppelschalige Kommunwand getrennte Häuser mit 2 Carports auf jeweils 2 Tiefparker (6 Stpl.) - ÄNDERUNGSANTRAG
+- TOP 3.6.4.1.2.: Harthauser Str. 46: Neubau von 5 Gebäuden mit 82 Wohneinheiten, 2 wohnaffinen Nutzungen und Tiefgarage (Geförderter Wohnungsbau für Staatsbedienstete des Freistaat Bayern)
+- TOP 3.6.4.1.3.: Grünwalder Str. 262 / Lautererstr. 18: Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 3.6.4.1.4.: Naupliastr. 78: Neubau eines Wohnhauses mit Garagen und Stellplatz
+- TOP 3.6.4.1.5.: Geiselgasteigstr. 122b: Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.6.4.1.6.: Grünwalder Str. 12 / Weningstr. 18: Neubau eines Wohn- und Geschäftshauses - VORBESCHEID
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Baumaßnahmen am Schyrenbad
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: SWM-Baumaßnahme: Strom-Projekt in der Autharistraße
+- TOP 3.6.6.2.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Landtags- und Bezirkswahl 2023; Stimmbezirke und Wahlräume im Stadtbezirk 18
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.4.3.: - NACHTRAG - Veranstaltungen am Hans-Mielich-Platz: foolpool Straßentheater am 01.10.2023 (Ersatztermin: 06.10.2023) und Flohmarkt Kirschbaum am 15.10.2023
