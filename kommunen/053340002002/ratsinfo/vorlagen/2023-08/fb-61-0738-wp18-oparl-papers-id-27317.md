@@ -1,0 +1,25 @@
+# Barrierefreiheit im Straßenraum: Überarbeitung der Standards - Ergänzungsvorlage
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0738/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2023-08-22
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=27317
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=27317
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=530401&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4986 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5258 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4987 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4988 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5052 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5258 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5007 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5125 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Entscheidung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
