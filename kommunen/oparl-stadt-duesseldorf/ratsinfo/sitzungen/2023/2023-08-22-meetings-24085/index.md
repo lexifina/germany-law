@@ -1,0 +1,60 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-22T17:00:00+02:00
+- Ende: 2023-08-22T19:25:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24085
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24085
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494391.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494391.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494391.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 5.2: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung abweichend beschlossen
+- TOP 5.3: Bezirklicher Bauunterhalt 2023 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2023 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.4: Verfügungsmittel der BV 10, Zuschuss an die KGS Josef-Kleesattel-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des großen Martinsumzuges – Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.7: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Garather Schützenverein 1967 e.V. für die Durchführung des großen Martinsumzuges – Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.8: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Fortführung des Projektes „Notinsel"- Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Förderverein des Montessori-Kinderhauses St. Matthäus - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Glasfaserkabelanschluss Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7.3: Prioritätenliste zur Instandsetzung von Straßen - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7.4: Neugestaltung ehemaliges Nebenzentrum Waldviertel - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Einladung einer Vertretungsperson der AWO zur Information über das Wohnprojekt Carl-Friedrich-Goerdeler-Straße in Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.2: Sanierung des Belags der Brücke über den Garather Mühlenbach und eines Teils des Weges im Bereich Heinrich-Lersch-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.3: Einladung der Schulleitungen des Gymnasiums Koblenzer Straße und der Theodor-Litt-Realschule - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Aufstellen von Bänken um das Caritas-Altenzentrum St. Hildegard, Ricarda-Huch-Straße 3 in Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.6: Neugestaltung des Areals vor der Grundschule Ingeborg-Bachmann-Straße einschl. Sport- und Festwiese - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.7: Radschnellweg im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Raum für die Geschichtswerkstatt / Garath / Hellerhof am Schulstandort Emil-Barth-Straße 45 - Informationsvorlage zum Beschluss BV10/023/2023 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 9.2: Toilettenpapier an den Schulen im Bezirk 10 - Informationsvorlage zum Beschluss BV10/096/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.3: Perspektiven der Stadtteilzentren in Garath und Hellerhof - Informationsvorlage zum Beschluss BV10/095/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.4: Verkehrsregulierung auf dem Dammweg durch die Urdenbacher Kämpe zwischen Garath und Urdenbach - Informationsvorlage zum Beschluss BV10/094/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.5: Instandsetzung der Fuß- und Radwege Garath/Hellerhof - Informationsvorlage zum Beschluss BV10/101/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.6: Schattenspendende Bäume an der Spielwiese vor der Grundschule Ingeborg-Bachmann-Straße - Informationsvorlage zum Beschluss BV10/089/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.7: Frankfurter Straße – Haltestelle D-Hellerhof S - SB57 – FR Nord - Informationsvorlage zum Beschluss BV10/046/2022 vom 22.03.2022 - - zur Kenntnis genommen
+- TOP 9.8: Sachstand Planung und Umsetzung Radschnellweg - Informationsvorlage zum Beschluss BV10/056/2023 vom 28.03.2023 - - zur Kenntnis genommen
+- TOP 9.9: Barrierefreie Gestaltung der Bushaltestelle Hellerhof S (SB 57, SEV, Fahrtrichtung Düsseldorf) sowie Streckensperrungen durch den RRX-Ausbau - Ergänzende Informationsvorlage zum Beschluss BV107046/2022 - zur Kenntnis genommen
+- TOP 9.10: "Stadtbaumkonzept für Düsseldorf (5.Pflanzperiode)" - zur Kenntnis genommen
+- TOP 10: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 11: Verschiedenes
