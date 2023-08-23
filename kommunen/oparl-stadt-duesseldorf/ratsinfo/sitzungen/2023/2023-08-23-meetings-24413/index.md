@@ -1,0 +1,67 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-23T15:00:00+02:00
+- Ende: 2023-08-23T18:10:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24413
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24413
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 23.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494302.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 23.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494302.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 23.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494302.pdf
+
+## Tagesordnung
+
+- TOP 1: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2023 vom 03.05.2023 - einstimmig beschlossen
+- TOP 4: Bericht der Kunstkommission zum Kunst am Bau Wettbewerb für den Vorplatz des linksrheinischen Hallenbades - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Wiesenstraße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 9: Betrieb der Gesamtschule Aldekerkstraße als gebundene Ganztagsschule - Empfehlung einstimmig beschlossen
+- TOP 10: Anregungen aus der Bevölkerung ernst nehmen – Rahmenbedingungen der „Größten Kirmes am Rhein" weiterentwickeln, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 11: Radabstellmöglichkeiten für den Nikolaus-Knopp-Platz, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 12: Überbauung der Rampe vom Rheinalleetunnel in Oberkassel, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Planungskonzept Luegallee angefordert und angekündigt - Wie geht es weiter?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 14: Denkmalschutz im Denkmalbereich Oberkassel, unterschiedliche Abwägung?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 15: Ein Gastronomiekonzept für das Linksrheinische, überfraktionelle Anfrage
+- TOP 16: Barbarossaplatz als Kommunikationsort für alle Bürger*innen, überfraktionelle Anfrage
+- TOP 17: Kommunale Wärmeplanung für das linksrheinische Düsseldorf, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 18: Wie stellt die Verwaltung die Sicherheit für Radfahrende auf der Hansaallee sicher?, Anfrage der Bezirksvertreterin Astrid Wiesendorf
+- TOP 19: Stationäre Pflegeinrichtungen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard, DIE LINKE - zur Kenntnis genommen
+- TOP 20: Rheinkirmes 2023 - Chaotische Zustände bei Verkehrsströmen nicht schönreden. Was muss 2024 verbessert werden?, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 21: Rheinkirmes 2023 - Prozesse evaluieren und Verbesserungen im Sinne der Menschen im linksrheinischen Düsseldorf umsetzen. Was muss in Zukunft verbessert werden? - zur Kenntnis genommen
+- TOP 22: "Ordnungs-Dienstleister" der Rheinkirmes, Anfrage des Bezirksvertreters Alexander Schmitt
+- TOP 23: Wohnbebauung in der Grünau in Heerdt, Anfrage des Bezirksvertreters Marco Staack
+- TOP 24: Wohnbebauung Hansaallee/Niederkasseler Lohweg, Anfrage des Bezirksvertreters Marco Staack
+- TOP 25: Gefällte Rotbuche an der Leostraße 98 in Niederkassel, Anfrage der Bezirksvertreterin Claudia Drossel
+- TOP 26: Zusatzkosten für die provisorische Kita im Freizeitpark Heerdt, Anfrage der Bezirksvertreterin Claudia Drossel - zur Kenntnis genommen
+- TOP 27: Weihnachtsmarkt in Oberkassel im Jahre 2023 - einstimmig beschlossen
+- TOP 28: Erlass der Wasserschutzgebietsverordnung Lörick, Öffentliche Auslegung der Unterlagen - zur Kenntnis genommen
+- TOP 29: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2023 - einstimmig beschlossen
+- TOP 30: Aufstellen von zusätzlichen Abfallbehältern im Ökotop - einstimmig beschlossen
+- TOP 31: Bücherschrank im Grünbereich auf dem Nikolaus-Knopp-Platz - einstimmig beschlossen
+- TOP 32: Zwei Bänke zum Ausruhen in der Schiessstraße - einstimmig beschlossen
+- TOP 33: Eine Regenbogenbank für den Rheinpark in Heerdt, überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 34: Ampelphasen für zu Fuß Gehende auf der Luegallee überprüfen und ggf. anpassen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 35: Wiederherstellung des Staudenblütenfeldes im Zugang zum Rheinpark Heerdt, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 36: Verlauf Oberkasseler Kirmes 2023, Antrag der FDP-Fraktion - zurückgezogen
+- TOP 37: Beschilderung zur- und von der Theodor-Heuss-Brücke ändern, Antrag des Bezirksvertreters Georg Blanchard, DIE LINKE - abweichend beschlossen
+- TOP 38: Kontinuierliche Information und Beteiligung der Bezirksvertretung 4 - Den reibungslosen Ablauf unserer Rheinkirmes für alle gewährleisten, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 39: Einbahnstraßenregelung an der Pestalozzistraße, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 40: Wasserpumpe für den "Comenius"-Spielplatz - zur Kenntnis genommen
+- TOP 41: Gezielte Verlängerung der Tempo 30 Zone - Anwohnerbelastung senken - zur Kenntnis genommen
+- TOP 42: Verkehrssicherheit herstellen - Kreuzungsverkehr vernünftig regeln - zur Kenntnis genommen
+- TOP 43: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Sitzbank an der Haltestelle vor der Poststelle auf der Luegallee umsetzen - zur Kenntnis genommen
+- TOP 46: Fällung einer Rotbuche an der Leostraße 98 ohne Genehmigung, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 47: Was ist die beste Lösung für eine neue Nutzung des alten Comenius-Gymnasiums? - zur Kenntnis genommen
+- TOP 48: Natur- und sozialverträgliche Lösungen zur Ausübung des Freizeitradsports für den Bereich Dirtbike – Konzeptstudie Dirtpark - zur Kenntnis genommen
+- TOP 49: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 50: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
