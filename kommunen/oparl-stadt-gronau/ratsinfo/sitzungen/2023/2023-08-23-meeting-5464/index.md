@@ -1,0 +1,53 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-08-23T18:00:00+02:00
+- Ende: 2023-08-23T23:12:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaTRa-N0n5tYvpNULXeqrSU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5464
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYXbK-rwIjTWi8pnAOb1qzevea7bCh6qkU7u0Si54kca/Bekanntmachung_Rat_23.08.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaYaCGqts3p7MPL0cTHSy75M4qM-KqQALQgHz6jx0gKL/Oeffentliche_Niederschrift_Rat_23.08.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.05.2023
+- TOP 3.: Niederschrift vom 14.06.2023
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion GAL/DIE LINKE vom 12.06.2023; Laufzeitverlängerung Belgische Atomkraftwerke
+- TOP 5.2: Antrag der UWG Fraktion vom 28.07.2023: Sachstandsbericht und ggf. Änderung zur 1. Änderung zur Satzung über die Abfallentsorgung der Stadt Gronau (Westf.) - 10 Jastimmen, 31 Neinstimmen, 3 Enthaltungen
+- TOP 5.3: Antrag der Fraktion pro.Bürgerschaft vom 27.07.2023: Neue Debatte Restmüllbehälter
+- TOP 5.4: Antrag der Fraktionen UWG und WEG vom 11.08.2023; Beschluss zur geplanten Wegeführung entlang des Badesees - 22 Jastimmen, 21 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Bezuschussung zum Essen, Jahrgänge 5 und 6 an der Gesamtschule Gronau - 39 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 7.: Jahresabschluss für das Abwasserwerk der Stadt Gronau Wirtschaftsjahr 2022 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2022 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 10.: Budgetbericht für das II. Quartal 2023
+- TOP 11.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2022 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Antrag der Fraktion pro:Bürgerschaft vom 31.07.2023 Wiederaufnahme des Themas "Grundsatzentscheidung Zuweg/str. zur neuen Grundschule" - 42 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Antrag auf Aufstellung eines vorhabenbezogenen Bebauungsplans Vorhaben zur Errichtung von zwei Wohngruppen mit 26 Wohneinheiten und einem Nebengebäude (TSA – Tagesstrukturierende Angebote) in 48599 Gronau, Enscheder Straße/Königstraße - Einstimmig, 2 Enthaltungen
+- TOP 14.: Baubeschluss Fridtjof-Nansen-Realschule - Einstimmig, 0 Enthaltungen
+- TOP 15.: Umsetzung der Istanbul-Konvention in der Stadt Gronau Aktueller Sachstand - Einstimmig, 0 Enthaltungen
+- TOP 16.: Sachstand zur Flüchtlingssituation (Stand 16.08.2023)
+- TOP 17.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertretungen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 18.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Organisationsuntersuchung des Sachgebiets Personal
+- TOP 19.2: Weihnachtskonzert in der niederländischen Partnerstadt Epe
+- TOP 19.3: Gesellschafterversammlung der QEG
+- TOP 20.: Anfragen
+- TOP 20.1: Geschwindigkeit der iRICH-Nutzung (Anfrage von RM Drees)
+- TOP 20.2: Verbotsschilder am verlängerten Parkweg in Epe Richtung Bahnschienen (Anfrage von RM Drees)
+- TOP 20.3: Neue Räumlichkeiten für die Polizeiwache Gronau (Anfrage von RM Bügener)
+- TOP 20.4: Restbestände vom Biergarten hinter dem WZG (Anfrage von RM von Borczyskowski)
+- TOP 20.5: Spielplatz zwischen Paracelsusweg und Virchowweg (Anfrage von RM Kernebeck)
+- TOP 20.6: Einrichtung eines Baumkatasters (Anfrage von RM Buchholz)
+- TOP 20.7: Schriftliche Anfragen zur Wärmeplanung und zum Tierpark (Anfrage von RM Doetkotte)
+- TOP 20.8: Verkehrs- und Geschwindigkeitsüberwachung in Epe (Anfrage von RM Doetkotte)
+- TOP 20.9: Zuschüsse für Vereine gem. Sportförderrichtlinie (Anfrage von RM Buß)
