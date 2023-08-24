@@ -1,0 +1,102 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-08-24T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238703
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238703
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "barbacas" Barbacas – Physical Theatre „The big dRIEM“ vom 11. - 31.08.2023 4.800,00 € / AZ.0262.0-15-0493
+- TOP 2.1.2.: (E) Stadtbezirksbudget Förderverein der Grundschule am Lehrer-Götz-Weg e.V. Wir bauen und programmieren mit LEGO Wedo 2.0 vom 12.09.23 – 28.07.24 2.182,00 € / Az. 0262.0-15-0494
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "ZWINK" ZWINK vom 01.09.-30.09.2023 1.500,00 € / AZ.0262.0-15-0498
+- TOP 2.1.4.: (E) Stadtbezirksbudget Kath. Kirchenstiftung Christi Himmelfahrt Festkonzert zum 90-jährigen Bestehen der Pfarrkirche Christi Himmelfahrt am 05.11.2023 1.334,00 € / AZ.0262.0-150499
+- TOP 2.1.5.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 4. Interkulturelles Tanz- und Musikfest Yultuzum. Mein Stern. am 03.12.2023 7.170,00 € / Az. 0262.0-15-0495
+- TOP 2.1.6.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. Interkulturelles Kinderfest „Regenbogen“ am 15.10.2023 5.120,00 € / Az. 0262.0-15-0500
+- TOP 2.1.7.: (E) Stadtbezirksbudget BUND Naturschutz in Bayern e.V. Ortsgruppe München Ost Anlage eines Amphibienteichs auf dem Grundstück der SWM an der Turnerstraße 5.000,00 € / Az. 0262.0-15-0496
+- TOP 2.1.8.: (E) Stadtbezirksbudget Kinderland Fantasia Austausch kaputter/ fehlender Möbel für Krippen- und Kindergartenkinder, neue Bücher 1.033,00 € / AZ.0262.0-15-0501
+- TOP 2.1.9.: Truderinger Straße: Entscheidung über Sondernutzungserlaubnis zur Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.10.: Platz der Menschenrechte: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund zum Abhalten eines Flohmarktes am 30.09.2023
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Einziehung einer Teilstrecke des Blanckertzweges Sitzungsvorlage Nr. 20-26 / V 10091
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Stelen für Helmut Schmid
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung in einer städtischen Grünanlage: "Truderinger Weinfest und Kabarett im Weinzelt" des Truderinger Burschenvereins am Truderinger Festplatz am 08./09.09.2023
+- TOP 7.1.2.: Veranstaltung in einer städtischen Grünanlage: "Das kleine VerWunderLand" im Park am Gymnasium Trudering (Markgrafenstr.) am 29.09.2023
+- TOP 7.1.3.: Veranstaltung in einer städtischen Grünanlage: "Drachenfest" im Riemer Park am 23./24.09.2023
+- TOP 7.1.4.: Veranstaltung auf Privatgrund und auf öffentlichem Verkehrsgrund: "Tag der offenen Tür" der Freiwilligen Feuerwehr Waldtrudering in der Wasserturmstr. 19 / Wasserburger Landstr. 202 am 16.09.2023
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: De-Gasperi-Bogen: Hinweisbeschilderung zum Parkplatz "Riemer See" auf der Sonderfreifläche
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Fünfter Bauabschnitt Messestadt Riem / Arrondierung Kirchtrudering: Anhörung zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung
+- TOP 7.3.2.: Neugestaltung des Willy-Brandt-Platzes
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Unnützstr. 12 - Neubau eines Mehrfamilienhauses mit Duplexgaragen
+- TOP 7.4.2.: Bergerwaldstr. 30 - Neubau zweier Einfamilienhäuser mit Garage
+- TOP 7.4.3.: Unnützstr. 28 - Schulbauoffensive: Neubau Haus für Kinder mit 2 Krippen- und 2 Kindergartengruppen
+- TOP 7.4.4.: Truderinger Str. 278 - Nutzungsänderung: Ladenfläche zu Wettannahmestelle und Gebetsraum
+- TOP 7.4.5.: Olof-Palme-Str. 1 - Errichtung eines Denkmals auf der Wasserfläche auf dem Vorplatz des Tower Riem (alter Flughafen München) - (Olof-Palme-Str. 1 - 9 / Paul-Henri-Spaak-Str. 4)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Heinrich-Wieland-Straße und Lehrer-Götz-Weg: Neubau eines Flexiheims für Familien sowie Einzelpersonen und Paare im Rahmen der Umsetzung des Standortbeschluss zur Unterbringung wohnungsloser Haushalte
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Bistritzer Weg 16 (Sturmschaden - wurde am 07.08.2023 als Gefahrenbaum zur Fällung freigegeben)
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Am Eulenhorst 89 Dachsteinstr. 20 Hippelstr. 38 Hochnißlstr. 8b Iltisstr. 66b Klothildenstr. 7a Kronenweg 10 Max-Rothschild-Str. 22 Möwestr. 12 Salzmesserstr. 71 Schwedensteinstr. 28 Sonnenspitzstr. 15 Von-Gravenreuth-Str. 20 Von-Gravenreuth-Str. 32 Von-Heydebreck-Str. 14 Waldschulstr. 45 Waldtruderinger Str. 22 Wardeinstr. 2 Wimbachtalstr. 27
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des Vorsitzenden
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
+- TOP 1.3.1.: (N) Kein Platz für Gewalt gegen Frauen Versetzung der Bank am Rothuberweg
+- TOP 7.1.5.: (N) Kein Platz für Gewalt gegen Frauen Versetzung der Bank am Rothuberweg
+- TOP 2.2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Einziehung einer Teilstrecke des Blanckertzweges
