@@ -1,0 +1,54 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-08-24T17:02:00+02:00
+- Ende: 2023-08-24T19:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13030
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13030
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit_korrigierte Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00533127.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Berichte
+- TOP 2.1: Sachstandsbericht zur Vorlage V/0208/2022/1 - Wolbecker Straße – Mühlhäuser Straße bis Laerer Landweg – Vollsignalisierung und barrierefreier Umbau des Knotenpunktes und Barrierefreier Ausbau der Haltestelle „St.-Magareta-Kirche„ (stadteinwärts) und
+- TOP 2.2: Kindertagesbetreuungsbericht 2023 - zur Kenntnis genommen
+- TOP 3: Anhörungen
+- TOP 3.1: Überleitung der außerunterrichtlichen Angebote (OGS) der Astrid-Lindgren-Schule - einstimmig beschlossen
+- TOP 3.2: Baubeschluss - einstimmig beschlossen
+- TOP 3.3: Erlass Baumschutzsatzung - mehrheitlich abgelehnt
+- TOP 3.4: Energetische Stadtsanierung (KfW 432) - einstimmig beschlossen
+- TOP 3.5: Bericht zur Wohnbaulandentwicklung 2022 und Fortschreibung des Baulandprogramms 2023 - 2030 - mehrheitlich beschlossen
+- TOP 3.6: Fortschreibung des Regionalplans Münsterland zur Anpassung an den Landesentwicklungsplan (LEP) NRW - mehrheitlich beschlossen
+- TOP 3.7: Verkehrs- und Straßenbaumaßnahmenprogramm 2023 - 2024 - einstimmig beschlossen
+- TOP 3.8: Hobbeltstraße - Ausbau der Nebenanlagen und Einrichtung von Querungsstellen und Bushaltestellen zwischen Kirschgarten und Kreisverkehr - mehrheitlich geändert beschlossen
+- TOP 4: Entscheidungen
+- TOP 4.1: An der Kleimannbrücke - Erschließungsstraße - einstimmig beschlossen
+- TOP 4.2: Dorbaumstraße - Haltestellen "Am Hornbach" - einstimmig beschlossen
+- TOP 5: Fristgerecht eingegangene Anträge
+- TOP 5.1: Versorgung mit Postfilialen bzw. Agenturen im Stadtteil Mauritz-Ost zeitnah verbessern - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 6.1: Neubau eines Spielplatzes in Mariendorf prüfen - eingebracht
+- TOP 6.2: Aktueller Stand Fernwärmenetz - eingebracht
+- TOP 7: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 7.1: Mehr Fahrradstellflächen für Gelmer (ursprüngliche Nr. A-O/0001/2021) - Stellungnahme zur Kenntnis genommen
+- TOP 7.2: Erhöhung der Verkehrssicherheit für Radfahrer und Fußgänger an der Straße Eichenaue (ursprüngliche Nr. A-O/0002/2023) - Stellungnahme zur Kenntnis genommen
+- TOP 7.3: Anbindung Gelmer an die Schnellbuslinie S 50 - Stellungnahme zur Kenntnis genommen
+- TOP 7.4: Schaffung einer Bootsanlegestelle im Bereich des Freibades Stapelskotten prüfen - Stellungnahme zur Kenntnis genommen
+- TOP 7.5: Instandsetzung des Fahrradweges zwischen Kamillusweg und Sudmühlenbrücke - Stellungnahme zur Kenntnis genommen
+- TOP 7.6: Solidaritätspartnerschaft mit Winnyzja in der Ukraine im Stadtbezirk Münster-Ost sichtbar machen - Stellungnahme zur Kenntnis genommen
+- TOP 7.7: Möglicher Kita-Standort in Mauritz-Ost - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.8: SeniorInnen nicht im Regen stehen lassen: Haltestelle "Mühlhauser Straße" rasch fertigstellen und weiterentwickeln! - Stellungnahme zur Kenntnis genommen
+- TOP 7.9: Verkehrssicherheit am Zebrastreifen Dorbaumstraße / Höhe Middelfeld-Sporthalle - Stellungnahme zur Kenntnis genommen
+- TOP 7.10: Parkverbotszone im Bereich der Feuerwehrzufahrt an der Gittruper Straße - Stellungnahme zur Kenntnis genommen
+- TOP 7.11: Fahrbahn Pleistermühlenweg zwischen Mondstraße und Umgehungsstraße - Stellungnahme zur Kenntnis genommen
+- TOP 7.12: Verkehrssituation auf der Sudmühlenstraße - Stellungnahme zur Kenntnis genommen
+- TOP 7.13: Verzögerung der Bauarbeiten an der neuen Kanalbrücke Wolbecker Straße/Kanalpromenade - Stellungnahme zur Kenntnis genommen
+- TOP 7.14: Bezirks- und Schwerpunktdienst der Polizei in Handorf, Dorbaum, Sudmühle und Dyckburg - Stellungnahme zur Kenntnis genommen
+- TOP 7.15: Funkmast am Peter-Rosegger-Weg? - Stellungnahme zur Kenntnis genommen
+- TOP 8: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 9: Verschiedenes
