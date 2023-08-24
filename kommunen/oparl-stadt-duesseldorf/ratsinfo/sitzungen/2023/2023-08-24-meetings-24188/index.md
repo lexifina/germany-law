@@ -1,0 +1,60 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-24T18:00:00+02:00
+- Ende: 2023-08-24T20:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24188
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24188
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 24.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494961.pdf
+- Ergebnisprotokoll: NachtragsTO vom 24.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494961.pdf
+- Wortprotokoll: NachtragsTO vom 24.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494961.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 10.08.2023 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 01.06.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Landes NRW - Seniorenrat - einstimmig beschlossen
+- TOP 5: Bericht zum interdisziplinären Gestaltungswettbewerb zur Integration des Schallschutzes im Stadtraum Düsseldorf (Ausbau RRX) - Bericht der Verwaltung
+- TOP 6: Gebäude Gumbertstraße 172 - Bericht der Verwaltung
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses, für das Projekt: "Neubau einer Kindertageseinrichtung an der Vennhauser Allee 160-162" - einstimmig beschlossen
+- TOP 12: Alt-Eller - Ausweisung einer Einbahnregelung sowie Markierung eines Busfahrstreifens als Verkehrsversuch - Empfehlung mehrheitlich abgelehnt
+- TOP 13: Südliche Düssel Vennhausen, 2. Bauabschnitt (W-0011000000) - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 14: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 15: Zuschüsse der Bezirksvertretung 8 im Jahre 2023 - beschlossen
+- TOP 16: Zustand der Bahnbrücken im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Wohnungsbauoffensive im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Hochwasser- und Starkregenschutz im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: 100-Meter-Brücke (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 20: Tempo 30 auf einem Teilstück der Gerresheimer Landstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 21: Gebäude Gumbertstraße 172 Ecke Alt- Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Bedarfsampel Rothenbergstraße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 23: Kissinger Straße - Einbahnstraße/Freigabe in Gegenrichtung für den Radverkehr (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Nutztierhaltung Siedlung Tannenhof (Antrag SPD-Fraktion) - mehrheitlich abgelehnt
+- TOP 25: Friedrich-Engels-Straße/Goldlackstraße - Parkverbot einrichten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Behindertenparkplatz in Unterbach (Antrag SPD-Fraktion) - zurückgezogen
+- TOP 27: Tempo 30 in Unterbach (Antrag SPD-Fraktion) - beschlossen
+- TOP 28: Welcome-Point in Eller (Antrag SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 29: Gerresheimer Landstraße 167 - Haltverbot - zur Kenntnis genommen
+- TOP 30: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Kiosk am Schlosspark Eller - zur Kenntnis genommen
+- TOP 32: Altkleidercontainer Neusalzer Weg - zur Kenntnis genommen
+- TOP 33: Altpapier- und Glascontainer Kreuzungsbereich Sturmstraße/Dillenburger Weg - zur Kenntnis genommen
+- TOP 34: Gebäude Gumbertstraße 172 - zur Kenntnis genommen
+- TOP 35: Machbarkeitsstudie 100-Meter-Brücke - zur Kenntnis genommen
+- TOP 36: Kinderspielplatz Friedrich-Engels-Straße - zur Kenntnis genommen
+- TOP 37: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Gebäude Vennhauser Allee 226 - zur Kenntnis genommen
+- TOP 39: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode)
+- TOP 40: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Hochwasser- und Starkregenschutz im Stadtbezirk 8 - zur Kenntnis genommen
