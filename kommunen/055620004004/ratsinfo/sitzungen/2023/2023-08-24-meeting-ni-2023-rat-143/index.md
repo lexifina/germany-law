@@ -1,0 +1,61 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2023-08-24T17:00:00+02:00
+- Ende: 2023-08-24T20:12:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-143
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-143
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-RAT-143
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-143
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-143
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bürgerantrag nach § 24 GO NRW vom 24.07.2023_Straßenname "An der alten Eiche"
+- TOP 3: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel
+- TOP 4: Neuabschluss eines Vertrages zwischen der Stadt Castrop-Rauxel und dem Tierschutz Castrop-Rauxel e. V. zum 01.01.2024
+- TOP 5: Fahrradabstellanlagen Rathaus
+- TOP 6: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2022 (§ 116a GO NRW)
+- TOP 7: Vorläufiger Beteiligungsbericht 2023 (Stand 01.08.2023)
+- TOP 8: Vergabe der Mittel aus dem Bürger*innenbudget 2023
+- TOP 9: Überplanmäßige Mittelbereitstellung gemäß § 83 GO beim Kostenträger 360201 (offene pädagogische Arbeit mit Kindern und Jugendlichen) für das Bundesprogramm "Das Zukunftspaket für Bewegung, Kultur und Gesundheit"
+- TOP 10: Antrag CDU Fraktion vom 31.07.2023_Verlegung Glascontainer
+- TOP 11: Anfrage CDU Fraktion vom 31.07.2023_Anfrage Flüchtlingsunterkunft
+- TOP 12: Antrag CDU Fraktion vom 31.07.2023_Personelle Kapazitäten Kommunaler Ordnungsdienst
+- TOP 13: Antrag CDU Fraktion vom 31.07.2023_Sicherheitskooperation Ruhr
+- TOP 14: Antrag der FDP-Fraktion vom 31.07.2023_Aufhebung der Straßenzuweisung bei Bewohnerparkausweisen in der Altstadt
+- TOP 15: Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 31.07.2023_Aufbringen von Radfahrer-Piktogrammen
+- TOP 16: Gemeinsamer Antrag der Fraktionen SPD, Bündnis 90/ Die GRÜNEN vom 31.07.2023_ Anbringung sog. "freier Rechtsabbieger" für den Radverkehr im Stadtgebiet
+- TOP 17: Antrag der CDU-Fraktion vom 31.07.23_Entgeltfreies Parken
+- TOP 18: Antrag der FWI-Fraktion vom 01.08.2023_Mobile Sitzbänke
+- TOP 19: Antrag SPD Ratsfraktion und Bündnis 90/Die Grünen vom 03.08.2023_Prüfauftrag "Mehr Demokratieförderung durch Formen der Mitbestimmung an weiterführenden Schulen"
+- TOP 20: Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche "Schillerstraße"
+- TOP 21: Satzung zur Bezeichnung von Flächen, in denen die Stadt nach § 25 Abs. 1 Nr. 2 Baugesetzbuch ein besonderes Vorkaufsrecht beansprucht (Vorkaufsrechtssatzung 4) hier: Satzungsbeschluss
+- TOP 22: Erhaltungs- und Gestaltungssatzung Nr. 1 "Bergarbeitersiedlung Schwerin" hier: Beschluss über die Erhaltungs- und Gestaltungssatzung nach § 172 Abs. 1 Nr. 1 und Abs. 3 BauGB und § 89 Abs. 1 Nr. 1 und 2 BauO NRW
+- TOP 23: Ausstattung städtischer Sportanlagen mit Defibrillatoren
+- TOP 24: Sachstandsbericht (Juli 2023) zum Bahnübergang Obere Münsterstraße/ Bahnhof Süd
+- TOP 25: Anfrage CDU Fraktion vom 31.07.2023_Sachstand Rathaussanierung
+- TOP 26: Antrag der Fraktion Die Linke vom 31.07.2023_Prüfauftrag: Durch Straßenlärm >60db(A) belastete Wohngebäude
+- TOP 27: Antrag der FDP-Fraktion vom 31.07.2023_Ersatz des Basaltpflasters durch Strukturasphalt in der Altstadt
+- TOP 28: Gemeinsamer Antrag der Fraktionen SPD und Bündnis 90/Die GRÜNEN vom 31.07.2023_Umgestaltung des Einmündungsbereiches Ecke Stadtgarten/ Beethovenstraße
+- TOP 29: Antrag der FDP-Fraktion vom 31.07.2023_Baumneupflanzungen mit Befreiung von den Regelungen der Baumschutzsatzung
+- TOP 30: Antrag der FDP-Fraktion vom 01.08.2023_Umgestaltung des Engelsburgplatzes
+- TOP 31: Aufnahme der "wewole Stiftung" als ordentliches Mitglied in den Ausschuss für Generationen, Inklusion und Diversität
+- TOP 32: Gemeinsamer Antrag der Fraktionen von SPD und Bündnis 90 / Die GRÜNEN vom 31.07.2023_ 10 Bänke für Castrop
+- TOP 33: Digitalisierungskonzept
+- TOP 34: Überplanmäßige Mittelbereitstellung gemäß § 83 GO bei Kostenträger 113201 (Betriebsmanagement Betrieb 2) aus der Unterstützungsleistung des Landes Nordrhein-Westfalen "Stärkungspakt NRW - gemeinsam gegen Armut"; hier: Genehmigung der Dringlichkeitsentscheidung vom 06.07.2023
+- TOP 35: Benennung der zu entsendenden Vertretungen des Blinden- und Sehbehindertenverein Recklinghausen im Ausschuss für Generationen, Inklusion und Diversität
+- TOP 36: Umbesetzung der Vereinssportgemeinschaft Castrop-Rauxel e.V. im Ausschuss für Generationen, Inklusion und Diversität
+- TOP 37: Wahl einer Schiedsperson für den Bezirk 4 (Ortsteile Obercastrop, Schwerin, Bövinghausen, Merklinde und Frohlinde)
+- TOP 38: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Mittelbereitstellung für die Maßnahme "Neubau Quertrakt Fridtjof-Nansen-Realschule
+- TOP 39: Antrag der FDP-Fraktion vom 14.06.2023_Grundsteuerreform
+- TOP 39.1: Antrag der FWI-Fraktion vom 24.08.2023_Ergänzung Grundsteuerreform
+- TOP 40: Anfragen der Ratsmitglieder
+- TOP 41: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
