@@ -16,10 +16,11 @@
 - [§ 7 Mitwirkung an der Vorbereitung des Vergabeverfahrens](0007.md)
 - [§ 8 Dokumentation und Vergabevermerk](0008.md)
 
-### Unterabschnitt 2 Kommunikation
+### Unterabschnitt 2 Kommunikation; Bekanntmachungen
 
 - [§ 9 Grundsätze der Kommunikation](0009.md)
 - [§ 10 Anforderungen an die verwendeten elektronischen Mittel](0010.md)
+- [§ 10a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms](0010a.md)
 - [§ 11 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren](0011.md)
 - [§ 12 Einsatz alternativer elektronischer Mittel bei der Kommunikation](0012.md)
 - [§ 13 Allgemeine Verwaltungsvorschriften](0013.md)
@@ -61,7 +62,7 @@
 
 ### Unterabschnitt 4 Veröffentlichungen, Transparenz
 
-- [§ 37 Auftragsbekanntmachung; Beschafferprofil](0037.md)
+- [§ 37 Auftragsbekanntmachung; Beschafferprofil; Ex-ante-Transparenz](0037.md)
 - [§ 38 Vorinformation](0038.md)
 - [§ 39 Vergabebekanntmachung; Bekanntmachung über Auftragsänderungen](0039.md)
 - [§ 40 Veröffentlichung von Bekanntmachungen](0040.md)
@@ -137,4 +138,5 @@
 
 - [§ 81 Übergangsbestimmungen](0081.md)
 - [§ 82 Fristenberechnung](0082.md)
+- [§ 83 Anwendungsbestimmungen aus Anlass der Einführung von eForms](0083.md)
 - [Anlage 1 (zu § 31 Absatz 2)Technische Anforderungen, Begriffsbestimmungen](anlage-1.md)

@@ -24,7 +24,7 @@
 - [§ 15 Leistungsbeschreibung und technische Anforderungen](0015.md)
 - [§ 16 Vergabeunterlagen](0016.md)
 - [§ 17 Vorinformation](0017.md)
-- [§ 18 Bekanntmachung von Vergabeverfahren](0018.md)
+- [§ 18 Bekanntmachung von Vergabeverfahren; Ex-ante-Transparenz](0018.md)
 - [§ 19 Informationsübermittlung](0019.md)
 - [§ 20 Fristen für den Eingang von Anträgen auf Teilnahme und Eingang der Angebote](0020.md)
 - [§ 21 Eignung und Auswahl der Bewerber](0021.md)
@@ -60,5 +60,6 @@
 ## Teil 5 Übergangs- und Schlussbestimmungen
 
 - [§ 44 Übergangsbestimmung](0044.md)
+- [§ 44a Anwendungsbestimmungen aus Anlass der Einführung von e-Forms](0044a.md)
 - [§ 45 Inkrafttreten](0045.md)
 - [Schlussformel](schlussformel.md)

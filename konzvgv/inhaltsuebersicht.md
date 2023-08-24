@@ -11,9 +11,10 @@ Allgemeine Bestimmungen
 | § 5 | Vermeidung von Interessenkonflikten |
 | § 6 | Dokumentation und Vergabevermerk |
 Unterabschnitt 2
-Kommunikation
+Kommunikation; Bekanntmachungen
 | § 7 | Grundsätze der Kommunikation |
 | § 8 | Anforderungen an die verwendeten elektronischen Mittel |
+| § 8a | Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms |
 | § 9 | Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren |
 | § 10 | Einsatz alternativer elektronischer Mittel bei der Kommunikation |
 | § 11 | Allgemeine Verwaltungsvorschriften |
@@ -32,7 +33,7 @@ Vorbereitung des Vergabeverfahrens
 | § 18 | Zusätzliche Auskünfte zu den Vergabeunterlagen |
 Unterabschnitt 3
 Bekanntmachungen
-| § 19 | Konzessionsbekanntmachung |
+| § 19 | Konzessionsbekanntmachung; Ex-Ante-Transparenz |
 | § 20 | Ausnahmen von der Konzessionsbekanntmachung |
 | § 21 | Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession |
 | § 22 | Konzessionen, die soziale und andere besondere Dienstleistungen betreffen |
@@ -56,3 +57,4 @@ Abschnitt 4
 | § 34 | Übergangsbestimmung für die elektronische Kommunikation und elektronische Übermittlung von Teilnahmeanträgen und Angeboten |
 | § 35 | Elektronische Kommunikation durch Auslandsdienststellen |
 | § 36 | Fristberechnung |
+| § 37 | Anwendungsbestimmungen aus Anlass der Einführung von eForms |

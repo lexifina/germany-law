@@ -12,7 +12,7 @@
   Sind Sie bei früheren Wahlen (1979 bis 1994) in ein Wählverzeichnis in der Bundesrepublik Deutschland eingetragen worden, müssen Sie für eine Teilnahme an der Wahl einen erneuten Antrag auf Eintragung in das Wählerverzeichnis stellen.
   Nach einem Wegzug in das Ausland und erneutem Zuzug in die Bundesrepublik Deutschland ist ein erneuter Antrag auf Eintragung in das Wählerverzeichnis erforderlich.
 Antragsvordrucke (Formblätter) sowie informierende Merkblätter können bei den Gemeindebehörden in der Bundesrepublik Deutschland angefordert werden.
-Für ihre Teilnahme als Wahlbewerber ist u. a. Voraussetzung, dass sie am Wahltag
+Für Ihre Teilnahme als Wahlbewerber ist u. a. Voraussetzung, dass Sie am Wahltag
 1. das 18. Lebensjahr vollendet haben,
 2. die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union besitzen,
 3. weder in der Bundesrepublik Deutschland noch in dem Mitgliedstaat der Europäischen Union, dem Sie angehören, von der Wählbarkeit ausgeschlossen sind.

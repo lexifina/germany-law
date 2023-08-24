@@ -1,4 +1,4 @@
-# Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus
+# Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung in gemeinschaftlichen Verpflegungseinrichtungen
 
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Durchführung](0002.md)

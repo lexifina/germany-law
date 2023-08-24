@@ -14,10 +14,11 @@
 - [§ 5 Vermeidung von Interessenkonflikten](0005.md)
 - [§ 6 Dokumentation und Vergabevermerk](0006.md)
 
-### Unterabschnitt 2 Kommunikation
+### Unterabschnitt 2 Kommunikation; Bekanntmachungen
 
 - [§ 7 Grundsätze der Kommunikation](0007.md)
 - [§ 8 Anforderungen an die verwendeten elektronischen Mittel](0008.md)
+- [§ 8a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms](0008a.md)
 - [§ 9 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren](0009.md)
 - [§ 10 Einsatz alternativer elektronischer Mittel bei der Kommunikation](0010.md)
 - [§ 11 Allgemeine Verwaltungsvorschriften](0011.md)
@@ -40,7 +41,7 @@
 
 ### Unterabschnitt 3 Bekanntmachungen
 
-- [§ 19 Konzessionsbekanntmachung](0019.md)
+- [§ 19 Konzessionsbekanntmachung; Ex-ante-Transparenz](0019.md)
 - [§ 20 Ausnahmen von der Konzessionsbekanntmachung](0020.md)
 - [§ 21 Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession](0021.md)
 - [§ 22 Konzessionen, die soziale und andere besondere Dienstleistungen betreffen](0022.md)
@@ -67,3 +68,4 @@
 - [§ 34 Übergangsbestimmung für die elektronische Kommunikation und elektronische Übermittlung von Teilnahmeanträgen und Angeboten](0034.md)
 - [§ 35 Elektronische Kommunikation durch Auslandsdienststellen](0035.md)
 - [§ 36 Fristberechnung](0036.md)
+- [§ 37 Anwendungsbestimmungen aus Anlass der Einführung von eForms](0037.md)

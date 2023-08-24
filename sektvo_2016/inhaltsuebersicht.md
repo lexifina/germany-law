@@ -13,9 +13,10 @@ Allgemeine Bestimmungen
 | § 7 | Mitwirkung an der Vorbereitung des Vergabeverfahrens |
 | § 8 | Dokumentation |
 Unterabschnitt 2
-Kommunikation
+Kommunikation; Bekanntmachungen
 | § 9 | Grundsätze der Kommunikation |
 | § 10 | Anforderungen an die verwendeten elektronischen Mittel |
+| § 10a | Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms |
 | § 11 | Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren |
 | § 12 | Einsatz alternativer elektronischer Mittel bei der Kommunikation |
 Abschnitt 2
@@ -51,7 +52,7 @@ Vorbereitung des Vergabeverfahrens
 | § 34 | Unteraufträge |
 Unterabschnitt 4
 Veröffentlichung, Transparenz
-| § 35 | Auftragsbekanntmachungen, Beschafferprofil |
+| § 35 | Auftragsbekanntmachungen; Beschafferprofil; Ex-ante-Transparenz |
 | § 36 | Regelmäßige nicht verbindliche Bekanntmachung |
 | § 37 | Bekanntmachung über das Bestehen eines Qualifizierungssystems |
 | § 38 | Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen |
@@ -93,6 +94,7 @@ Abschnitt 5
 Übergangs- und Schlussbestimmungen
 | § 64 | Übergangsbestimmungen |
 | § 65 | Fristenberechnung |
+| § 66 | Anwendungsbestimmungen aus Anlass der Einführung von eForms |
 | Anlage 1 (zu § 28 Absatz 2) | Technische Anforderungen, Begriffsbestimmungen |
 |  |  |
 |  |  |
