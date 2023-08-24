@@ -1,0 +1,75 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-24T17:10:00+02:00
+- Ende: 2023-08-24T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27461
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27461
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer Anfrage der Fraktion Die Linke. aus dem Ausschusses Klima, Umwelt und Grün vom 26.01.2023 (AN/0135/2023) betreffend.: "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Wilde Müllablagerungen rund um Kleingartenanlagen" - Kenntnis genommen
+- TOP 1.2.1: Beantwortung einer mündlichen Anfrage von Bündnis 90/Die Grünen, CDU und Volt aus der der Sitzung des Ausschusses Klima, Umwelt und Grün vom 27.04.2023 betreffend wilde Müllablerungen rund um Kleingartenanlagen - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Fraktion betr.: "Bauauftragnehmer:innen diverser Maßnahmen auf Kölner Grünflächen" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Fraktion aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 27.04.2023 (AN/0689/2023) betreffend Bauauftragnehmer:innen diverser Maßnahmen auf Kölner Grünflächen - Kenntnis genommen
+- TOP 1.4: Anfrage des Einzelmandatsträgers GUT betr.: "Klimaneutraler städtischer Fuhrpark" - Kenntnis genommen
+- TOP 1.4.1: Beantwortung einer Anfrage des Einzelmandatsträgers GUT aus dem Ausschuss, Klima, Umwelt und Grün vom 27.04.2023 (AN/0695/2023) betreffend "Klimaneutraler städtischer Fuhrpark" - Kenntnis genommen
+- TOP 1.5: Anfrage der AfD-Fraktion betr.: "Balkonkraftwerke: Verwaltungsaufwand und Kosten" - Kenntnis genommen
+- TOP 1.5.1: Beantwortung einer Anfrage der AfD-Fraktion aus dem Ausschuss Klima, Umwelt und Grün vom 13.06.2023 (AN/1212/2023) betreffend: "Balkonkraftwerke: Verwaltungsaufwand und Kosten" - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktion Die Linke. betr.: "Fragen zu den Folien der Rheinenergie zum Thema „Beitrag der RheinEnergie zur Dekarbonisierung Kölns“ vom 4. Mai 2023" - zurückgestellt
+- TOP 1.7: Anfrage der Fraktion Die Linke. betr.: "Photovoltaikanlagen auf den Dächern der Kliniken der Stadt Köln gGmbH sowie Dach- und Fassadenbegrünung" - zurückgestellt
+- TOP 1.8: Anfrage der Fraktion Die Fraktion betr.: "More Moor (wet edition)" - zurückgestellt
+- TOP 1.9: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Mikroplastik im Rhein" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktionen Die Linke. und Die Fraktion sowie der Einzelmandatsträgerin KLIMA FREUNDE betr.: "Biodiversitätsschulungen der mittleren und unteren Führungsebenen" - endgültig abgelehnt
+- TOP 2.2: Antrag der Fraktion Die Linke. betr.: "Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens" - zurückgestellt
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen, CDU und Volt betr.: "Sofortentsiegelung" - ungeändert beschlossen
+- TOP 2.4: Antrag der Fraktion Die Fraktion betr.: "Resolution Rodenkirchener Brücke" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.5: Dringlichkeitsantrag der FDP-Fraktion betr.: "Mehr Sitzgelegenheiten auf Friedhöfen" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Grünausgleich Damiansweg - unter Vorbehalt beschlossen
+- TOP 4.1.2: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - zurückgestellt
+- TOP 4.1.3: GrünZug Nippes hier: Weiterplanungs- und Mittelfreigabebeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.1.4: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 4.1.5: Weiterentwicklung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen": Fortführung als drei eigenständige Förderprogramme - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Rheinboulevard Deutz, Umsetzung Informationssystem Archäologie - ungeändert beschlossen
+- TOP 4.2.2: Pflanzung von Obstbäumen zur weiteren Aufwertung der Stadtnaturparks - ungeändert beschlossen
+- TOP 4.2.3: Beleuchtung eines Verbindungsweges im Bereich Glashüttenstraße in Porz - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2: Vergabe Stadtklima- und Stadtverschönerungsmittel 2023 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.4: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Betriebsausschusses Gebäudewirtschaft vom 5. Juni 2023 (AN/0915/2023) betreffend "Umsetzung des Programms PV-Anlagen auf 105 Dachflächen“ - Kenntnis genommen
+- TOP 7.5: Energiebericht 2022: Energieverbrauchs- und Kostenstatistik 2021/Sachstand Energiemanagementkonzept 2022 - Kenntnis genommen
+- TOP 7.6: Agglomerationsprogramm Region Köln/Bonn hier: Projektinformation und Sachstand - Kenntnis genommen
+- TOP 7.7: Sachstand Fluglärmminderung - Kenntnis genommen
+- TOP 7.8: Verbraucherberatungsstelle Köln: Jahresbericht 2022 - Kenntnis genommen
+- TOP 7.9: Verbraucherberatung im Quartier: Jahresbericht 2022 - Kenntnis genommen
+- TOP 7.10: Sachstand Umsetzung Moderne Sportstätte 2022 Innerer Grüngürtel / Alfred-Schütte Allee - Kenntnis genommen
+- TOP 7.11: Zertifikatskurs „klimafit“ der VHS Köln zum Thema kommunaler Klimaschutz - Kenntnis genommen
+- TOP 7.12: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 hier: Sanierung der Bewässerungsleitung inkl. der Nebenleitungen und Bau eines Grundwa - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage von SE Lange, Fraktion Die Linke. zum Ausschuss Klima, Umwelt und Grün vom 25.05.2023 (0035/2023/1) betreffend "Vereinbarung über ein Pilotprojekt zur Reinigung schadstoffbelasteter Luft in Städten" - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
