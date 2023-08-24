@@ -1,0 +1,84 @@
+# 21. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-24T16:00:00+02:00
+- Ende: 2023-08-24T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27683
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27683
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen - ungeändert beschlossen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Bedarfsfeststellungs- und Baubeschluss für die Instandsetzung der Parkpalette Jakobstraße/Josephstraße - zurückgestellt
+- TOP 3.2: Strategische Sozialplanung - Herausforderungen und Ziele - ungeändert beschlossen
+- TOP 3.3: 227. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 1, Köln-Deutz; Arbeitstitel: "Deutzer Hafen" in Köln-Deutz - ungeändert beschlossen
+- TOP 3.4: Städtebauliches Planungskonzept Trierer Straße in Köln-Neustadt/Süd, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung hier: Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurf - ungeändert beschlossen
+- TOP 3.5: Qualifizierungsmaßnahme für den Freiraum im Baublock zwischen Trierer, Mosel-, Pfälzer und Luxemburger Straße in Köln-Neustadt/Süd als Grundlage für die Bauleitplanung - ungeändert beschlossen
+- TOP 3.6: Rheinboulevard Deutz, Umsetzung Informationssystem Archäologie - ungeändert beschlossen
+- TOP 3.7: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - ungeändert beschlossen
+- TOP 3.8: Aufstockung Beihilfe an den KSK - ungeändert beschlossen
+- TOP 3.9: Zusammenführung der beiden Weiterbildungskollegs Gereonsmühlengasse und Dagobertstraße zur Sicherung des bestehenden Angebotes an den aktuellen Schulstandorten - ungeändert beschlossen
+- TOP 3.10: Änderung der Förderschule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, Blumenthalstraße 10-12, 50670 Köln-Neustadt/Nord (Schulnummer 154179) zum 01.08.2024 - ungeändert beschlossen
+- TOP 3.11: Erneuerung der Beleuchtungsanlage im großen Saal des Bürgerhaus Stollwerck - ungeändert beschlossen
+- TOP 3.12: Weihnachtsmarkt auf dem Chlodwigplatz 2023 - geändert beschlossen
+- TOP 3.13: 289. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.14: Genehmigung Dringlichkeitsentscheidung: Errichtung einer Interims-Ausstellung im Praetorium - ungeändert beschlossen
+- TOP 3.15: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2023 Teil 2 - ungeändert beschlossen
+- TOP 3.16: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Deutsch-Afrikanische Kooperation e.V. (DAKO e.V.)" - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO – Dauerhafter Schutz des Landschaftsschutzgebiets Innerer Grüngürtel, Dezentrale Angebote am 11.11. und Karneval für ein junges Publikum, Aktenzeichen 118/23 B
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Neues Konzept für den öffentlichen Raum und eine resiliente Stadt in der Altstadt Nord, gem. Antrag Grüne, Die Linke, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Öffnung eines Verbindungsweges in Deutz für den Radverkehr; Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Entsiegelung und Gestaltung von Baumscheiben im Bereich Hohenstaufenring / Roonstraße, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.3: Abbau der Container Mainzer Straße Ecke Oberländer Wall, gem. Antrag Grüne, SPD, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.4: Anpassung Radverkehrsnetz NRW in der Kölner Innenstadt, Antrag Grüne - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße / Maternusstraße, Anfrage Grüne - Sache ist erledigt
+- TOP 6.1.1.1: Sachstand Verkehrsberuhigende Maßnahmen in der Südstadt: Eburonenstraße Maternusstraße - Kenntnis genommen
+- TOP 6.1.2: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.3: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.4: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.5: Anfrage Verkehrsmaßnahmen Belgisches Viertel, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.6: Neue Stadtmöbel auf der Deutzer Freiheit, Anfrage CDU - Sache ist erledigt
+- TOP 6.1.6.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Innenstadt vom 27.04.2023 (AN/0663/2023) betreffend "Neue Stadtmöbel auf der Deutzer Freiheit" - Kenntnis genommen
+- TOP 6.1.7: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sachstand Entsiegelung und Umbau Maternuskirchplatz 2023, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Flächenbericht 2022 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2022 - Kenntnis genommen
+- TOP 9.2: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 9.3: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2023“– Sundaach aktiv, Start Sommerprogramm und Lauftreff - Kenntnis genommen
+- TOP 9.4: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" - Erster Rückblick - Kenntnis genommen
+- TOP 9.5: Dokumentation des Arbeitstreffens zur Personalsituation in der Kindertagesbetreuung am 26.05.2023 - Kenntnis genommen
+- TOP 9.6: Umbau der Kreuzung Luxemburger Straße/Eifelwall - Kenntnis genommen
+- TOP 9.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Wiedereinbringung der Gedenktafel zum Standort der einstigen Kölner Synagoge, AZ.: 256/18 - Kenntnis genommen
+- TOP 9.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW - „Bonner Straße - zwischen Chlodwigplatz und Bonner Wall - Einrichtung einer 30er Zone“, Aktenzeichen 35/23 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW „Tanzquartier Köln“, Aktenzeichen: 62/23 - Kenntnis genommen
+- TOP 9.10: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote - Sportboxen - Kenntnis genommen
+- TOP 9.11: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 9.12: Unterrichtung über Mehrkosten gem. § 25 Abs. 1 Nr. 2 KomHVO; Römisch-Germanisches Museum - vorgezogene notwendige Sanierung der Abdichtung über der Dombauhütte und über der Trafostation der RheinEnergie sowie notwendige Sanierungsmaßnahmen der Decke - Kenntnis genommen
+- TOP 9.13: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 9.14: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt: Vorlage des Abschlussberichts - Kenntnis genommen
+- TOP 9.15: „Aktionstag Mobilität“ am 16. September 2023 von 11 bis 15 Uhr auf dem Neumarkt - Kenntnis genommen
+- TOP 9.16: Deutzer Hafen: 2. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 9.17: Regenbogenmarkierung in der Schaafenstraße - Kenntnis genommen
+- TOP 9.18: Sachstandsbericht - Kenntnis genommen
+- TOP 9.19: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 9.20: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2022 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 9.21: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 9.22: Information zum Beschluss des Verwaltungsgerichts Köln vom 02. August 2023 zur Verkehrsanordnung „Deutzer Freiheit“, zum weiteren Vorgehen „Verkehrsversuch Venloer Straße“ und zum erweiterten Prüfumfang von laufenden Verkehrsmaßnahmen im Zusammenhang - Kenntnis genommen
+- TOP 9.23: Neuregelung zur zulässigen Geschwindigkeit auf der Zoobrücke/Stadtautobahn B55a - Kenntnis genommen
