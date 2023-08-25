@@ -1,0 +1,75 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-25T14:00:00+02:00
+- Ende: 2023-08-25T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24388
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24388
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 16.06.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Prinz-Georg-Str. 80, Clara-Schumann-Musikschule - Ergebnis der Machbarkeitsstudie zur Erweiterung - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der erfolgten Verbesserungsmaßnahmen am Musikpavillon Hofgarten - zur Kenntnis genommen
+- TOP 4.3: Zwischenbericht "Sicherheit in der Düsseldorfer Innenstadt" - zur Kenntnis genommen
+- TOP 4.4: Bericht zu Maßnahmen zur Begrünung der Fassade und des Daches des Parkhauses am Carlsplatz - zur Kenntnis genommen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Metzer Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - vertagt
+- TOP 4.7: Ergänzung und Vervollständigung der Park- und Lichtraummarkierung auf der Stern-, Stockkamp- und Liebigstraße zur Verbesserung des Betriebsablaufs der Linie 706 - Empfehlung einstimmig beschlossen
+- TOP 4.8: Zuschuss an den Wassersportverein Rheintreue e.V. - abweichend beschlossen
+- TOP 4.9: Weihnachtsmarkt auf der Nordstraße vom 23.11.2023 bis 23.12.2023 - einstimmig beschlossen
+- TOP 4.10: Immobilienmarkt in den Schadow Arkaden am Sonntag, dem 22.10.2023 - einstimmig beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2023 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.13: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 4.14: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2024 - zur Kenntnis genommen
+- TOP 4.15: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Geplante Baumaßnahmen an der Gemeinschaftsgrundschule Lennéstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - schriftlich beantwortet
+- TOP 5.2: Gestaltung der Karlstraße - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Leerstehendes Wohnhaus Duisburger Straße 61 – Anfrage der CDU-Fraktion - schriftlich beantwortet
+- TOP 6.2: Abstellen von E-Scootern in der Innenstadt - Anfrage Peter Klein, Vertreter DIE LINKE - schriftlich beantwortet
+- TOP 6.3: Umsetzung der geplanten Maßnahmen für den Spielplatz Inselstraße - Anfrage der Fraktion BÜNDNIS 90 / Die Grünen - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Aufstellung von zwei Bänken an einem „kühlen Ort" in Derendorf - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Planung einer Pump-Track-Anlage im Stadtbezirk 1 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Stand der Planungen und Umsetzung zur Umgestaltung des Deportationsdenkmals Toulouser Allee und seiner Umgebung - einstimmig beschlossen
+- TOP 7.4: Vortrag zur Stadtsauberkeitskampagne - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Anbringung einer Gedenktafel an der Fassade Flinger Straße 6 für den Düsseldorfer Architekten Bruno Schmitz - Antrag der CDU-Fraktion - vertagt
+- TOP 7.6: Telefonzellen am Standort Am Wehrhahn (ehemaliges altes Kaufhof-Gebäude ) - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.7: Aufstellung eines Skateparks an der Unteren Rheinwerft - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Umgestaltung der Wiese vor dem Vagedes-Spielplatz, Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/109/2023 - zur Kenntnis genommen
+- TOP 8.2: Unterführung Kölner Straße: Verbesserung der Beleuchtung, Sauberkeit und Sicherheit; Beschluss der Bezirksvertretung 1 vom 13.05.2022; BV1/106/2022 - zur Kenntnis genommen
+- TOP 8.3: Einrichtung eines Radwegs auf der Duisburger Straße; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/053/2023 - zur Kenntnis genommen
+- TOP 8.4: Mobilstation im Bereich westliche Immermannstraße/Klosterstraße; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/159/2023 - zur Kenntnis genommen
+- TOP 8.5: Zusatzschild zum neuen Straßenschild Erna-Scheffler-Straße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/257/2022 - zur Kenntnis genommen
+- TOP 8.6: Baumpflanzungen südlich des Carlsplatzes; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/162/2023 - zur Kenntnis genommen
+- TOP 8.7: Umgestaltung Alter Hafen; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/153/2023 - zur Kenntnis genommen
+- TOP 8.8: Toilette auf dem Kolpingplatz; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/167/2023 - zur Kenntnis genommen
+- TOP 8.9: Einrichtung von Fahrradabstellanlagen Barbarastraße 2/3; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/149/2023 - zur Kenntnis genommen
+- TOP 8.10: Verkehrssicherheit Prinz-Georg-Straße Ecke Parkstraße; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/118/2023 - zur Kenntnis genommen
+- TOP 8.11: Verkehrssicherheit Blücherstraße; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV 1/117/2023 - zur Kenntnis genommen
+- TOP 8.12: Markierung des Radfahrstreifens auf der Kaiser- und Fischerstraße Fahrtrichtung stadtauswärts; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/124/2023 - zur Kenntnis genommen
+- TOP 8.13: Aufstellung einer Fahrradabstellbox auf der Liesegangstraße; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/158/2023 - zur Kenntnis genommen
+- TOP 8.14: Bessere Beleuchtung am Ratinger Tor; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/152/2023 - zur Kenntnis genommen
+- TOP 8.15: Instandsetzung der Hochwasserschlange am Robert-Lehr-Ufer; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/164/2023 - zur Kenntnis genommen
+- TOP 8.16: Differenzierte Betrachtung der Bäderlandschaft; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/163/2023 - zur Kenntnis genommen
+- TOP 8.17: Zusätzliche Fußgängerampel an der Ulmenstraße; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/032/2023 - zur Kenntnis genommen
+- TOP 8.18: Erneuerung der nördlichen Seite der Liesegangstraße hinter dem Galeria-Warenhaus; Beschluss der Bezirksvertretung 1 vom 24.03.2023; BV1/078/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Unsere Straßen - unsere Künstler e.V. - abweichend beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Katholische Grundschule Thomas-Schule - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Lieblingsbüdchen Düsseldorf - vertagt
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Schulsozialarbeit Paul-Klee-Schule, Caritasverband Düsseldorf - einstimmig beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadtengel e.V. - einstimmig beschlossen
