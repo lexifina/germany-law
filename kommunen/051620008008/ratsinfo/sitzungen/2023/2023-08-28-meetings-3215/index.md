@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Verwaltungsrates
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-08-28T18:00:00+02:00
+- Ende: 2023-08-28T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3215
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3215
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 1.1: Antrag zur Geschäftsordnung - einstimmig beschlossen
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Nachtrag Wirtschaftsplan 2023 Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 4: Änderung der Geschäftsordnung für den Verwaltungsrat und die Beiräte der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 5: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 13.06.2023 und 09.08.2023
+- TOP 5.1: Reduzierung der Parkraumbewirtschaftungszone auf der Neusser Straße, Kapellen - einstimmig beschlossen
+- TOP 5.2: Fahrradfreundliche Stadt: Änderung der Verkehrsführung auf der Straße "An der Obermühle" in Wevelinghoven - einstimmig beschlossen
+- TOP 5.3: Parkverbot und Eingrenzung am Platz der Deutschen Einheit - einstimmig beschlossen
+- TOP 5.4: Beleuchtung einer Teilstrecke der Radwegeverbindung vom Bahnhof bis zum Krankenhaus - einstimmig beschlossen
+- TOP 6: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 21.06.2023
+- TOP 6.1: Erlebnisflächen Neurather See - einstimmig beschlossen
+- TOP 6.2: Klimatische Verbesserung des Bouleplatzes "Am Stellwerk" in Kapellen - einstimmig beschlossen
+- TOP 6.3: Waldwiese - einstimmig beschlossen
+- TOP 7: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 7.1: Konzept zur Errichtung von öffentlichen Trinkwasserstationen endlich entwickeln - einstimmig beschlossen
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: Anträge der SPD-Fraktion
+- TOP 8.1.1: Erlebnisflächen im Altenpark Neurath - einstimmig beschlossen
+- TOP 8.1.2: Umgestaltung Peter-Kauertz-Platz - einstimmig beschlossen
+- TOP 8.1.3: Aufstellung von "Bänken gegen Einsamkeit" im Grevenbroicher - einstimmig beschlossen
+- TOP 8.1.4: Errichtung Kolumbarien in Neurath - einstimmig beschlossen
+- TOP 8.1.5: Umbesetzung des Beirat für Umwelt, Klimaschutz, Natur und Landschaftspflege - einstimmig beschlossen
+- TOP 8.2: Anträge der CDU-Fraktion
+- TOP 8.2.1: Errichtung eines Verkehrsspiegels an der Kreuzung Hans-Sachs-Straße / Richard-Wagner-Straße in Fahrtrichtung Kirmesplatz Orken - einstimmig beschlossen
+- TOP 8.2.2: Zusätzliche Beschilderung für die Hausnummern „Winzerather Straße“ 14-22 in Hemmerden - einstimmig beschlossen
+- TOP 8.2.3: Pflasterung des Gehwegs „Bedburdycker Straße“ in Hemmerden - einstimmig beschlossen
+- TOP 8.2.4: Ausbesserung des Gehwegs „Am Langen Morgen“ in Hemmerden - einstimmig beschlossen
+- TOP 8.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 8.4: Anträge der FDP-Fraktion
+- TOP 8.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 8.6: Anträge der UWG-Fraktion
+- TOP 8.6.1: Neurather See - einstimmig beschlossen
+- TOP 8.7: Gemeinschaftsanträge
+- TOP 9: Schriftliche Anfragen
+- TOP 10: Anfragen von Verwaltungsratsmitgliedern
+- TOP 11: Mitteilungen des Vorstandes
+- TOP 12: Mitteilungen des Verwaltungsratsvorsitzenden
+- TOP 13: Schriftliche Anfragen
+- TOP 13.1: Anfrage der Fraktion Bündnis 90 / Die Grünen
+- TOP 13.1.1: Zählerbedingte Verzögerungen bei der Inbetriebnahme von PV Anlagen - Kenntnisnahme
