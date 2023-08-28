@@ -1,0 +1,8 @@
+# TOP -: Ergänzungsantrag zu TOP 8.1.7
+
+- Sitzung: Sitzung der Bezirksvertretung Lindenthal (2023-08-28)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/381522
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/177009
