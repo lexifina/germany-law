@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-28T16:00:00+02:00
+- Ende: 2023-08-28T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27704
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27704
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO NRW – „Gesamtschule für Weiden, Lövenich und Widdersdorf“, Aktenzeichen 25/23 - Kenntnis genommen
+- TOP -: Ersetzungsantrag TOP 5.1 - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe nach § 24 GO – Dauerhafter Schutz des Landschaftsschutzgebiets Innerer Grüngürtel, Dezentrale Angebote am 11.11. und Karneval für ein junges Publikum, Aktenzeichen 118/23 B - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kosten der Maßnahmen zu Karneval/Innerer Grüngürtel - Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Lindenthal vom 12.08.2023 (AN/0425/2023 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage: Kreisverkehre – Sachstand - zurückgestellt
+- TOP 7.2.2: Anfrage nach dem Stand der Digitalisierung bei den LSA (Lichtsignalanlagen) im - zurückgestellt
+- TOP 7.2.3: Anfrage: Kosten der Maßnahmen zu Karneval/Innerer Grüngürtel - zurückgestellt
+- TOP 7.2.4: Anfrage: Zeitplan Berrenrather Straße - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Veranstaltungsverbot: Innerer Grüngürtel - ungeändert beschlossen
+- TOP 8.1.2: Entsiegelung Platz der Kinderrechte - ungeändert beschlossen
+- TOP 8.1.3: Sülzgürtel: Reduzierung der Geschwindigkeit auf Tempo 30 - ungeändert beschlossen
+- TOP 8.1.4: Ersetzung der zwei entfernten Laternen auf Carl-von-Linne-Weg - ungeändert beschlossen
+- TOP 8.1.5: Überprüfung von Straßennamen auf nationalsozialistischen Vergangenheit - ungeändert beschlossen
+- TOP 8.1.6: Unbefugtes Autoparken am Militärring - geändert beschlossen
+- TOP 8.1.7: Beseitigung der Verengung des Fußweges zwischen Rautenstrauch- und Clarenbachkanal - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 8.1.7 - ungeändert beschlossen
+- TOP 8.1.8: Wetterschutz-Hütte für Jugendliche im Bethlehem-Park - zurückgestellt
+- TOP 8.1.9: Fahrradnadeln Stolberger Str. - geändert beschlossen
+- TOP 8.1.10: Junkersdorfer Straße: Optimierung Führung Radweg - ungeändert beschlossen
+- TOP 8.1.11: Antrag: Schattenhain-Möglichkeit in Köln-Widdersdorf - ungeändert beschlossen
+- TOP 8.1.12: Überprüfung: Errichtung einer STADTTEILBIBLIOTHEK auf ehemaligen Büroflächen Rhein-Centers in Köln-Weiden - ungeändert beschlossen
+- TOP 8.1.13: Äußerer Grüngürtel LSG L17 Auswechseln Sportplatzbelag - ungeändert beschlossen
+- TOP 8.1.14: Junkersdorf, Radwegführung im Bereich Aachener Str./Kirchweg/Am Römerhof - ungeändert beschlossen
+- TOP 8.1.15: Aufstellung einer Bank an der Hauptstraße in Widdersdorf - geändert beschlossen
+- TOP 8.1.16: Frankenstraße: Öffnung der Einbahnstraße für den Radverkehr - geändert beschlossen
+- TOP 8.1.17: Verlagerung der Bushaltestelle KVB 140 Aachener Straße auf den urspünglichen Haltepunkt - ungeändert beschlossen
+- TOP 8.1.18: Überprüfung: Möglichkeit zur Errichtung von Sporthallen im zweiten Geschoss der Tiefgarage Müngersdorfer Gym - geändert beschlossen
+- TOP 8.1.19: Feuerwehrzufahrt Trierer Straße 5-19 in Weiden - ungeändert beschlossen
+- TOP 8.1.20: Entsiegelung Schulhof GGS Geilenkirchener Str. - ungeändert beschlossen
+- TOP 8.1.21: Bäume für die Lechenicher Str. - ungeändert beschlossen
+- TOP 8.1.22: -zurückgezogen-Bezirksorientierte Mittel der Bezirksvertretung Lindenthal August 2023 - endgültig zurückgezogen
+- TOP 8.1.23: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Fahrradstraßenkonzept Lindenthal - geändert beschlossen
+- TOP 9.1.2: Baugesuch Belvederestraße 41 / Herrigergasse 2 im Gebiet der Erhaltungsatzung „Köln-Müngersdorf Kernbereich - Kenntnis genommen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Strategische Sozialplanung - Herausforderungen und Ziele - ungeändert beschlossen
+- TOP 9.2.2: Haushaltsrechtliche Unterrichtung des Rates gem. § 25 Abs.1 Nr. 2 KomHVO in Verbindung mit § 12 der Haushaltssatzung 2023/2024 - ungeändert beschlossen
+- TOP 9.2.3: Vorlage wurde von der Verwaltung zurückgezogen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Jahresbericht 2021/22 der Naturschutzwacht Bezirk 3 (Hr. Jösting) - Kenntnis genommen
+- TOP 11.1.2: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 11.1.3: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Stellungnahme zum Antrag AN/1042/2023 Pflanzung von Straßenbäumen in der Hillerstraße vom 05.06.2023 - Kenntnis genommen
+- TOP 11.2.2: Nutzung des leerstehenden Gebäudes in der Aachener Straße 443 in Braunsfeld als Wohn- und Begegnungsstätte - Kenntnis genommen
+- TOP 11.2.3: Wiederaufbau einer Schaukel auf dem Spielplatz Paulistraße - Kenntnis genommen
+- TOP 11.2.4: Reaktivierung bzw. Neugestaltung eines Spielplatzes in Köln-Weiden an der Ostlandstraße/Schulstraße - Kenntnis genommen
+- TOP 11.2.5: Anbringen von Abfallbehältern auf der Leichtensternstraße AN/1040/2023 - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 11.3.2: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 11.3.3: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 11.3.4: Aufstellung einer Mobiltoilette im Bereich der Skaterrampe/Stadtwald - Kenntnis genommen
+- TOP 11.3.5: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote - Sportboxen - Kenntnis genommen
+- TOP 11.3.6: Gymnasium Zusestr. - Schutz vor Vandalismus - Kenntnis genommen
+- TOP 11.3.7: Dokumentation des Arbeitstreffens zur Personalsituation in der Kindertagesbetreuung am 26.05.2023 - Kenntnis genommen
+- TOP 11.3.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW – Verkehrsberuhigung Frechener Weg, AZ.: 36/23 - Kenntnis genommen
+- TOP 11.3.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bürgereingabe nach § 24 GO– Verkehrssituation „Am Weidenpesch“ in Köln-Junkersdorf, Aktenzeichen 15/23 - Kenntnis genommen
+- TOP 11.3.10: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 11.3.11: Errichtung einer vollautomatischen Fahrradschließanlage mit 120 Fahrradabstellplätzen (sog. Bike-Tower) an der Haltestelle in Köln Weiden-West - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
