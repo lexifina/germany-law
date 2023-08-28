@@ -1,0 +1,6 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Stadtrates der Stadt Sankt Goar (2023-08-28)
+- Körperschaft: Stadt Sankt Goar
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/2023-StG_SRat-36%7Czt_4%7C2
