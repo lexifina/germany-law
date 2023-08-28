@@ -1,0 +1,83 @@
+# 24. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-28T17:00:00+02:00
+- Ende: 2023-08-28T19:50:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27579
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27579
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße
+- TOP -: Information zum Beschluss des Verwaltungsgerichts Köln vom 02. August 2023 zur Verkehrsanordnung „Deutzer Freiheit“, zum weiteren Vorgehen „Verkehrsversuch Venloer Straße“ und zum erweiterten Prüfumfang von laufenden Verkehrsmaßnahmen im Zusammenhang - Kenntnis genommen
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Stadtteilbibliothek Ehrenfeld, AZ.: 53/23 - Kenntnis genommen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Tempo 30 Gutenbergstraße, Köln-Ehrenfeld (Az.: 02-1600-157-22) - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 3.2 - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Subbelrather Straße, Köln-Ehrenfeld (Az.: 02-1600-145-22) - geändert beschlossen
+- TOP 3.4: Bürgereingabe gem. § 24 GO, betr.: Parksituation in der Siemensstraße (Az.: 02-1600-59-22) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Vogelsangerstraße zwischen Ehrenfeldgürtel und Oskar-Jäger-Straße - zurückgestellt
+- TOP 6.3: Anfrage der CDU-Fraktion, betr.: Anmeldungen in den Schulen im Bezirk Ehrenfeld - zurückgestellt
+- TOP 6.4: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion, betr.: Sachstand „Neugestaltung der Bezirkssportanlage Everhardstraße“ - Sache ist erledigt
+- TOP -: Sachstand "Neugestaltung der Bezirkssportanlage Ehrenfeld" - Kenntnis genommen
+- TOP 6.5: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.6: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.7: Anfrage der CDU-Fraktion, betr.: Erstellung der Straße „Teichrohrsängerweg “ in Köln Vogelsang - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion, betr: Konzeptvergabe Alpenerstraße 4-6/Artilleriewagenhalle - zurückgestellt
+- TOP 6.9: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.10: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion SPD: Einsatz von Sparkassen Bussen - Sache ist erledigt
+- TOP -: Stellungnahme der Sparkasse KölnBonn zur Anfrage der SPD-FRAKTION: Einsatz von Sparkassen Bussen - Kenntnis genommen
+- TOP 7.3: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 7.4: Anfrage FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Schulplatzvergabe/System für die Heliosschule - zurückgestellt
+- TOP 7.5: Anfrage FRAKTION SPD: Evaluation Verkehrsversuch Venloer Straße Phase 1 - Sache ist erledigt
+- TOP 7.6: Anfrage FRAKTION SPD: Großprojekt der Rheinenergie im Bereich Stockheimer Weg AN/1484/2023 - Sache ist erledigt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und Elke Schroeder (Klima Freunde), betr.: Unterbinden des Parkens und Wiederherstellung der Grünfläche - geändert beschlossen
+- TOP 8.2: Antrag der Fraktion SPD: Verkehrsversuch Venloer Straße besser machen. - geändert beschlossen
+- TOP 8.3: Antrag der Fraktion DIE LINKE/ DIE PARTEI: Verkehrsversuch Venloer Straße - geändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Anwohnerparken in Ehrenfeld - zurückgestellt
+- TOP 8.5: Antrag der Fraktionen BÜNDNIS 90/ DIE GRÜNEN, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Elke Schroeder (KLIMA FREUNDE) und Marlis Pöttgen (FDP), betr.: Schulhof der Gemeinschaftsgrundschule Nußbaumerstraße - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktion SPD: Fertigstellung Gehweg Hadersleber Straße - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Linienführung Bus 142 - zurückgestellt
+- TOP 8.8: Antrag der Fraktion SPD: Zebrastreifen vor der KGS Mengenicher Str. 28 / 33, Köln-Bocklemünd - ungeändert beschlossen
+- TOP 8.9: Antrag von Elke Schroeder (KLIMA FREUNDE), betr.: Einrichtung Bewohnerparken im Bezirk Ehrenfeld - zurückgestellt
+- TOP 8.10: Antrag der Fraktion BÜNDNIS 90/ DIE GRÜNEN: Sicherer Überweg Frohnhofstraße - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.2: Beschlussvorlage Bezirksvertretung: Dritte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2023 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel Campus M - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld 1341/2023 - Sache ist erledigt
+- TOP 10.2: Frühzeitige Öffentlichkeitsbeteiligung nach § 3 Absatz 1 Baugesetzbuch (BauGB) Arbeitstitel: Von-Hünefeld-Straße in Köln-Ossendorf, 2. Änderung - ungeändert beschlossen
+- TOP 10.3: 289. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.4: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 10.5: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Einzelhandel und Büro - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote - Sportboxen - Kenntnis genommen
+- TOP 12.2: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 12.3: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 12.4: Baustelle Ecke Venloer Straße und Wilhelm Mauser Straße - Kenntnis genommen
+- TOP 12.5: Dokumentation des Arbeitstreffens zur Personalsituation in der Kindertagesbetreuung am 26.05.2023 - Kenntnis genommen
+- TOP 12.6: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 12.7: Aufstockung Wohncontainerstandorte für Geflüchtete - Kenntnis genommen
+- TOP 12.8: Unterstützungsangebot für private Eigentümer*innen von leerstehenden Wohnungen - Kenntnis genommen
+- TOP 12.9: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 12.10: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2022 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.11: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 12.12: Mitteilung BV 4 Ehrenfeld I - Innere Kanalstraße Sackgasse vor Hausnr. 61-67 - Kenntnis genommen
+- TOP 12.13: Räumliches Entwicklungskonzept LiebigQuartier – Start der Online-Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 12.14: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
