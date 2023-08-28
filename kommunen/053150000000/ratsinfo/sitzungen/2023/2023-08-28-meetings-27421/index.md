@@ -1,0 +1,76 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-28T17:00:00+02:00
+- Ende: 2023-08-28T18:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27421
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27421
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 06.02.2023 (AN/0234/2023) betreffend „Angsträume unter einer Gender-Perspektive angehen" - Kenntnis genommen
+- TOP 1.2: Re-Zertifizierung als familienfreundliches Unternehmen durch die berufundfamilie GmbH - Kenntnis genommen
+- TOP 1.3: Jahresbericht 2022: "Gemeinsam gleichgestellt" - Kenntnis genommen
+- TOP 1.4: Bundesweit erstes Teilzeitsymposium - 100 % Teilzeit - Innovative Arbeitszeitmodelle zur Fachkräftesicherung - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Mitteilung der Verwaltung zum Prüfantrag des Rates zur "Unterstützung einer Gemeinde im Erdbebengebiet Türkei/Syrien" (1470/2023) - Kenntnis genommen
+- TOP 2.2: Informationen zu Aktivitäten der Abteilung Europa und Internationales - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Nachfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung des Ausschusses Klima, Umwelt und Grün vom 27.04.2022 (AN/0419/2023 / 1204/2023) betr.: "Einsatz von Pferden im Karneval" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage der Volt Fraktion aus der Sitzung des AVR vom 05.06.2023 betreffend „Steuer für Einwegverpackung“ - Kenntnis genommen
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Beantwortung der mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "EM-Fan Village öffentlicher Raum" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2022 - Kenntnis genommen
+- TOP 4.2: Konsequenzen aus dem Beschluss der Ausschüsse für Verkehr bzw. Soziales, Seniorinnen und Senioren in der gemeinsamen Sondersitzung am 25.04.2023 zu Nr. 1.1 der Tagesordnung (KVB NF12) - Kenntnis genommen
+- TOP 4.3: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 4.4: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.5: Regenbogenmarkierung in der Schaafenstraße - Kenntnis genommen
+- TOP 4.6: Entwicklung des Ausländeramtes zur "Willkommensbehörde" - ein Zwischenbericht - Kenntnis genommen
+- TOP 4.7: -
+- TOP 4.8: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 4.9: Projekt zur Ablösung des Einwohnerfachverfahrens - Schließung der Kundenzentren im Rahmen der Umstellung - Kenntnis genommen
+- TOP 4.10: Silvester 2023 | Absage kulturelle Bespielung des Roncalliplatzes - zurückgestellt
+- TOP 4.11: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 22. August 2023 - Kenntnis genommen
+- TOP 4.12: Gründung der AG Wiener Platz: Sachstandsbericht - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage eines Sachkundigen Einwohners betreffend "Baulandmobilisierungsgesetz" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage eines sachkundigen Einwohners betreffend "Baulandmobilisierungsgesetz" (AN/1284/2023) - Kenntnis genommen
+- TOP 6.2: Anfrage der Volt-Fraktion betreffend "Klageverfahren in Bezug auf Kita- und Schulplatzvergabe" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Volt-Fraktion betreffend "anhängigen bzw. abgeschlossenen Kita- und Schulplatzklageverfahren" - Kenntnis genommen
+- TOP 6.3: Anfrage der SPD-Fraktion betreffend "Sachstand Umsetzung der EU-Whistleblower-Richtlinie in Köln" - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Parkplätze von Mitarbeitenden" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt in Bezug auf Parkplätze von Mitarbeitenden AN/1173/2023 - zurückgestellt
+- TOP 6.5: Anfrage der FDP-Fraktion betreffend "Ersatzfreiheitsstrafen wegen Fahrens ohne gültigen Fahrschein" - zurückgestellt
+- TOP 6.6: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffen "Kundenzentren der Stadt Köln" - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Parken mit Handwerkerparkausweis in Ladezonen" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Parken mit Handwerkerparkausweis in Ladezonen" - Kenntnis genommen
+- TOP 6.8: Anfrage der Fraktionen CDU und Volt betreffend "Psychosoziale Unterstützung von Mitarbeitenden" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage eines Sachkundigen Einwohners der Stadtarbeitsgemeinschaft Behindertenpolitik betreffend "Barierrefreie Taxis"
+- TOP 7.2: Mündliche Anfrage der AfD-Fraktion betreffend "Sanktionen für Darbietungen an roten Ampeln"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen: Bündnis 90/Die Grünen, CDU, SPD, Die Linke, FDP und Volt betreffend "Arbeitskräftemangel bekämpfen" - geändert beschlossen
+- TOP -: Stellungnahme zum Antrag der SPD-Antrag "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - Kenntnis genommen
+- TOP -: Änderungsantrag der FDP-Fraktion betreffend "Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 3.1.5. ""Den krisenhaften Arbeitskräftemangel bei der Stadt Köln bekämpfen: Personalgewinnung, -bindung und -vergütung verbessern" - endgültig zurückgezogen
+- TOP 8.2: Antrag eines Sachkundigen Einwohners betreffend "Weitere Schließung von Sparkassen Filialen in der Stadt Köln ablehnen". - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 9: Platzvergaben
+- TOP 9.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen, Herrn RM Richter aus der Sitzung des AVR am 05.06.2023 (1356/2023) betreffend "Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das - Kenntnis genommen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Anregung der Bezirksvertretung Ehrenfeld zu Sondernutzung von Bänken vor Ladenlokalen - zurückgestellt
+- TOP -: Ändetungsantrag der FDP-Fraktion zur Anregung der Bezirksvertertung Ehrenfeld zu Sondernutzungen von Bänken vor Ladenlokalen - zurückgestellt
+- TOP 10.2: Anregung der Bezirksvertretung Rodenkirchen zu Sondernutzungen von Bänken vor Ladenlokalen - zurückgestellt
+- TOP -: Änderungsantrag der FDP-Fraktion zur Anregung der Bezirkvertretung Rodenkirchen zu Sondernutzungen von Bänken vor Ladenlokalen - zurückgestellt
+- TOP 10.3: Verfassungsbeschwerde gegen Gemeindefinanzierungsgesetz NRW 2023 - ungeändert beschlossen
+- TOP 10.4: Winterprogramm auf dem Ebertplatz - ungeändert beschlossen
+- TOP 10.5: polisMOBILITY 2024 | Bedarfsfeststellung - ungeändert beschlossen
+- TOP 10.6: Weiterentwicklung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen": Fortführung als drei eigenständige Förderprogramme - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
