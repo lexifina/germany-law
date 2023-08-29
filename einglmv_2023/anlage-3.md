@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 2 Absatz 5 Satz 3)Verteilung der Mittel für Verwaltungskosten
+# Anlage 3 (zu § 2 Absatz 6 Satz 3)Verteilung der Mittel für Verwaltungskosten
 
 | Träger-Nummer ab 1. Januar 2023 | Träger-Form ab 1. Januar 2023 | Jobcenter | Verwaltungsmittel in Prozent |
 | 03002 | gE | Vorpommern-Greifswald Nord | 0,2636 |

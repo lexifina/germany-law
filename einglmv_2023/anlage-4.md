@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 2 Absatz 6 Satz 4)Verteilung der auf die Bundesagentur für Arbeit entfallenden Mittel für Verwaltungskosten nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit für die gE
+# Anlage 4 (zu § 2 Absatz 7 Satz 4)Verteilung der auf die Bundesagentur für Arbeit entfallenden Mittel für Verwaltungskosten nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit für die gE
 
 | Träger-Nummer ab 1. Januar 2023 | Träger-Form ab 1. Januar 2023 | Jobcenter | Verwaltungsmittel in Prozent |
 | 03002 | gE | Vorpommern-Greifswald Nord | 0,3454 |
