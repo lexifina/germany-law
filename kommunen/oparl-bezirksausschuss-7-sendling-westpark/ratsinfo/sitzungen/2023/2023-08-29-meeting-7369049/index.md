@@ -1,0 +1,221 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-08-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7369049
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7369049
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-07
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Idee für Verkehrsberuhigung bzw. Busspur in Garmischer Straße
+- TOP 6.2.: Tauben Arnimstraße
+- TOP 6.3.: Baumschutz
+- TOP 6.4.: Werdenfelsstraße; Lärmbelästigung durch Bauarbeiten am Glasfasernetz
+- TOP 6.5.: Neu errichtete Verkehrsschilder in der Drachensee- und Kössener Straße
+- TOP 6.6.: Aufgestellter Mast mit Parkhinweis in Johann-Clanze-Str.
+- TOP 6.7.: Parksituation Ortlerstraße und Kössener Straße
+- TOP 6.8.: Welserstr.; Sicherung der Feuerwehrzufahrt
+- TOP 6.9.: Murnauer Straße - Verkehr und Litfaßsäule
+- TOP 6.10.: Culture Clouds Partnachplatz
+- TOP 6.11.: Handhabung der Parlizenzregelung
+- TOP 6.12.: Parken Siegenburger Straße
+- TOP 6.13.: Parklizenzgebiet Nördliche Passauerstraße
+- TOP 6.14.: Gänsekot im Westpark
+- TOP 6.15.: Fußballplatz gesucht - ein neuer Verein für die Kinder und Jugendlichen aus Sendling / Sendling-Westpark
+- TOP 6.16.: Parksituation Schmuzerstr.
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Nachbesetzung der Unterausschüsse
+- TOP 7.3.: Benennung einer / eines stellvertretenden Vorsitzenden für den Unterausschuss Haushalt
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Initiative „Zwink“ “ZWINK vom 01.09.2023 – 30.09.2023“ 1.500,00 € / AZ: 0262.0-7-0443
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Kindermaskentheater „Der goldene Vogel“ vom Theater Maskara am 25.10.2023“ 1.380,00 € / AZ: 0262.0-7-0440
+- TOP 10.3.: (E) Stadtbezirksbudget PFIFFIKUS Lern- & Hausaufgabenhilfe e.V. “Stipendien für ukrainische Schüler sowie Übernahme von Beitragsreduzierung Schuljahr 2023/24 für 12 Monate“ 2.928,00 € / AZ: 0262.0-7-0442
+- TOP 10.4.: (E) Stadtbezirksbudget Initiative „Oktoberfest“ Initiative „Oktoberfest“ am 21.09.2023 850,00 € / AZ: 0262.0-7-0444
+- TOP 10.5.: (E) Stadtbezirksbudget Hasting Zentrum für Tanz & Tanztheater Tanztheater – Projekt mit Jugendlichen „Liebe Zukunft – schrecklich Ding?“ 3.405,00 € / AZ: 0262.0-7-0445
+- TOP 11.: Anträge
+- TOP 11.1.: Antrag zum neuen BMW Park
+- TOP 11.2.: Neuer Standort für den BA-Schaukasten (bisher: Hansa- / Ortlerstraße)
+- TOP 11.3.: Erweiterung der Öffnungszeiten des Jugendtreffs im TATZ am Wochenende (freitags und samstags) bis ca. 22 Uhr.
+- TOP 11.4.: Soziales, kulturelles und ökologisches Zentrum für Sendling Westpark
+- TOP 11.5.: Anbringung eines klappbaren Wickeltisches in einer Toilettenkabine der Toilettenanlage am Wasserspielplatz (Westpark – Ostteil)
+- TOP 11.6.: Instandsetzung des Straßenbelags der Ortlerstraße zwischen Drachenseestraße und Hansastraße
+- TOP 11.7.: Ampelanlage am Luise-Kiesselbach-Platz auf Fußgängerfreundlichkeit und -sicherheit überprüfen
+- TOP 11.8.: Beleuchtung von Gehwegen an der Oberfläche des Luise-Kiesselbach-Platzes
+- TOP 11.9.: Sanierung der Radwege im Stadtbezirk 7, Sendling-Westpark, vor allem auch die, für die keine Benutzungspflicht mehr besteht
+- TOP 11.10.: Radverkehr Überquerung Albert-Roßhaupter-Str. von Johann-Clanze- zur Weilheimer Straße
+- TOP 11.11.: Radverkehr an der Garmischer Straße – Grüntenstraße
+- TOP 11.12.: Lufttaxis in München
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Auswertung TOPO-Box Johann-Clanze-Straße
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Jean-Paul-Richter-Str. Frau O‘Reilly
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Antrag Werbeanlage Luise-Kieselbach-Platz
+- TOP 15.2.: Antrag Werbeanlage Luise-Kiesel-Platz 2
+- TOP 15.3.: Bauvorhaben Werdenfelsstr.
+- TOP 15.4.: Werbeanlage Garmischer Str.
+- TOP 15.5.: Bauvorhaben Albert-Roßhaupter-Str.
+- TOP 15.6.: Bauvorhaben Albert-Roßhaupter-Str./2
+- TOP 15.7.: Bauvorhaben Fürstenriederstr.
+- TOP 15.8.: Bauvorhaben Adi-Maislinger-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, Dinosauria-Show, 14.09. - 01.10.2023
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung Westpark Theatron Einschulungsgottesdienst
+- TOP 18.: Baureferat
+- TOP 18.1.: EV Martin-Behaim-Str.
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Anhörung zur BV-Empfehlung Baumschutz
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Am Radenhölzl; Absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr
+- TOP 25.2.: Sonnenlängstraße; Absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr
+- TOP 25.3.: Sonnenlängstraße, Am Radenhölzl; Absolutes Haltverbot mit Zeitzusatz für die Müllabfuhr
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Vorläufiges Protokoll zum Informationsgespräch in der Fernpaßschule am 28.07.2023
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Vorstellung des Vorentwurfs für den Spielplatz am Luise-Kiesselbach-Platz - Terminvorschläge
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Überprüfung von Altkleidercontainer
+- TOP 36.2.: Straßennamenkommission Mollsee
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Demonstrationszug durch das Wohngebiet Euckenstraße / Kürnbergstraße
+- TOP 37.2.: Circus Roberto am Luise-Kiesselbach-Platz von 13.10.2023 - 22.10.2023
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben Juli
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Behindertenparkplatzes Mainburger Straße
+- TOP 40.2.: Schulwegsicherheit Werdenfelsstraße Waxensteinstraße
+- TOP 40.3.: Andreas-Vöst-Straße Halteverbot
+- TOP 40.4.: Mobilitätspunkte
+- TOP 40.5.: Parkraum-Management Novalisstraße
+- TOP 40.6.: Parklizenzgebiet Eichendorffplatz, Regelung für die Novalisstraße
+- TOP 40.7.: Distlhofweg Gehwegnasen
+- TOP 40.8.: Bauernbräuweg Parksituation für Pflegedienste
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Photovoltaik-Elemente entlang der A96 – BAB Lindau
+- TOP 44.2.: Photovoltaik-Anlage auf öffentlichem Grund am Ende des Autobahn A96
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Vorstellung GWG-Bauvorhaben Preßburgerstr. 3 - 7 / Garmischerstr. 206 - 216
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Erstmeldung Leerstand in Krüner Str.
+- TOP 46.2.: Familienzentrum für Sendling-Westpark
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Aushangfahrpläne U-Bahn Westendstraße
+- TOP 47.2.: Taubenfütterung, Müllablage und Ratten an der S-Bahnstation Mittersendling, Bauernbräuweg, Recycling-Insel
+- TOP 47.3.: Sachbericht Dschungelpalast Sommerfest
+- TOP 47.4.: Münchner Forum; Standpunkte Wasser in der Stadt
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 49.2.: Dialog-Displays - Kosten, Betrieb und Umsetzung
+- TOP 49.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid Westpark mehrere Infostände anlässlich 40 Jahre
+- TOP 53.2.: Bescheid Infostand und Fahrzeugschau der Feuerwehr München 40 Jahre Westpark
+- TOP 53.3.: unveränderte Fortführung Tübinger Str.
+- TOP 53.4.: Bescheid Westpark - Seebühne, Sting Illustrated
+- TOP 53.5.: Bescheid Westpark Zirkuswiese Marionettentheater
+- TOP 53.6.: Infostand BA7 Rundhüttn
+- TOP 53.7.: Fortführung Zum Babo
+- TOP 53.8.: Bescheid, Westpark, Theatron, kleines Festival der Weltmusik.
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Fototermin zur Errichtung der ersten Miteinander-Schilder am 28.08.2023 um 14:00 Uhr
+- TOP 56.2.: Antrag auf Taktverdichtung der Buslinie 63er und dem Schienenersatzverkehr für die U3 und U6 zwischen dem 12. Juni und 30. Juli 2023 - Fristverlängerung
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 58.2.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose
+- TOP 62.2.: Information zu den Leichtbauhallen in der Gerty-Spies-Str. 9 und Hansastr. 55
+- TOP 62.3.: Information über Angebot der Fachstelle MoNa
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Nachhaltigkeitsbericht 2022
+- TOP 63.2.: Tram-Westtangente Präsentation zum Info-Termin
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Mobilfunksendeanlagen
+- TOP 65.2.: Meldung von Mobilfunksendeanlagen
+- TOP 65.3.: Errichtung einer Hochfrequenzanlage
+- TOP 65.4.: Am Waldfriedhof - Suche eines Mobilfunk-Standorts
+- TOP 65.5.: Vorkaufsrechtsprüfungsverfahren
+- TOP 6.17.: Parklizenzgebiet und Grünstraße.
+- TOP 10.6.: (E) Stadtbezirksbudget Pflegehof München e.V. “Pflegehof München Beginn Oktober 2023 mit der Fertigstellung unseres ersten Hauses in Mü-Ludwigsfeld“ 3.000,00 € / AZ: 0262.0-7-0446
+- TOP 12.2.1.: KJ-Versammlung professionell
+- TOP 13.1.2.: Kinder- und Jugendversammlung SWP
+- TOP 13.12.1.: Kinder- und Jugendversammlung SWP
+- TOP 12.5.1.: Protokoll MuW
+- TOP 12.6.1.: Protokoll PuG
+- TOP 12.1.1.: Einladung-UA-Bau,Stadtplanung und Umwelt
+- TOP 12.3.1.: Einlad-UA-Haushalt
+- TOP 12.5.2.: Einladung UA MuW
+- TOP 16.2.: Nachtrag: HIDALGO Refugium
+- TOP 10.7.: Anfrage 1. Spieltag Bundesliga Rollstuhlbasketball BMW-Park
+- TOP 17.2.: Westpark, Seebühne, Meskel - Fest am 30.09.2023
+- TOP 12.1.2.: Protokoll UA B-S-U
+- TOP 12.3.2.: Protokoll HHA
+- TOP 13.5.1.: Bericht Gleichstellungsbeauftragte
