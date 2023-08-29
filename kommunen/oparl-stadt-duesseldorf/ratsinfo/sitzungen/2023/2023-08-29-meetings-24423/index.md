@@ -1,0 +1,70 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-29T17:00:00+02:00
+- Ende: 2023-08-29T19:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24423
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24423
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragTagesordnung BV5-Sitzung 29. August 2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00495086.pdf
+- Ergebnisprotokoll: 1. NachtragTagesordnung BV5-Sitzung 29. August 2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00495086.pdf
+- Wortprotokoll: 1. NachtragTagesordnung BV5-Sitzung 29. August 2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00495086.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung am 20. Juni 2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Jugend checkt Düsseldorf im Stadtbezirk 5 - Ergebnisse der Austauschtreffen - mündlicher Bericht - zur Kenntnis genommen
+- TOP 5: Klimaresilienz in Kommunen - hier: im Stadtbezirk 5 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Umbenennung historisch belasteter Straßennamen in Düsseldorf - - Empfehlung abweichend beschlossen
+- TOP 19: Trödelmärkte auf dem Messeparkplatz P1 im Oktober 2023 - einstimmig beschlossen
+- TOP 20: Sitzungstermine der Bezirksvertretung 5 im Jahr 2024 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 21: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - vertagt
+- TOP 22: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 23: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 24: Tempo 30-Beschilderung vor Kindergärten und Schulen - vertagt
+- TOP 25: Lichtsignalanlage Niederrheinstraße/Leuchtenberger Kirchweg - vertagt
+- TOP 26: Piktogramme "Kinder" vor der Internationalen Schule und den Kita-Einrichtungen an der Niederrheinstraße - vertagt
+- TOP 27: Rheinbahn - Planungen zur Fußballeuropameisterschaft 2024 im Stadtbezirk 5 - beantwortet
+- TOP 28: Park & Ride Parkplatz Froschenteich - beantwortet
+- TOP 29: Stand des naturnahen Ausbaus des Kittelbaches als U81 Kompensationsmaßnahme? - beantwortet
+- TOP 30: Wiederholte Anfrage zur Schulwegsicherung in Wittlaer - Wie wichtig ist dem Amt für Verkehrsmanagement die Sicherheit unserer Kinder im Straßenverkehr? - vertagt
+- TOP -: Neue Anfragen
+- TOP 31: Einhaltung von Tempo 30 im Stadtbezirk 5 - beantwortet
+- TOP 32: Fahrradgaragen an der Haltestelle der U79 in Wittlaer und Kaiserswerth - vertagt
+- TOP 33: Stand der Planungen zur Umgestaltung des Ballhauses im Nordpark – Gesamtkonzept für den Nordpark - beantwortet
+- TOP 34: Nichts Neues vom Kalkumer Schloss? - beantwortet
+- TOP 35: Wann beginnt der Neubau von Wohnungen am Wasserwerksweg in Alt-Wittlaer? - vertagt
+- TOP 36: Geplante Verkehrsregelung Alte Landstraße/Kalkumer Schlossallee - vertagt
+- TOP 37: Geplante Kanalbaumaßnahmen in der Siedlung Am Mühlenacker - beantwortet
+- TOP 38: Elektrifizierung der Anlegestelle für Schiffe in Kaiserswerth - vertagt
+- TOP 39: Ausbau Notwendigkeit der AbbiegeSpur zur A 44 Richtung Flughafen von der Stadt kommend - vertagt
+- TOP 40: Messung der Belastung des Kittelbach durch chemische Schadstoffe des Flughafens - beantwortet
+- TOP -: Anträge
+- TOP 41: Verkehrssicherheit für Fahrradfahrer/Fußgänger und Reiter auf der Kalkumer Schlossallee gewährleisten! - abweichend beschlossen
+- TOP 42: Dringende Verbesserung der Verkehrssicherheit an der Kalkumer Schlossallee im Abschnitt Stadtgrenze mit Ratingen und Anschlussstelle mit der B8n - mehrheitlich abgelehnt
+- TOP 43: Zuhör.Bank für den Stadtbezirk 5 – Dialog stärken und Einsamkeit beseitigen - einstimmig beschlossen
+- TOP 44: Schulweg für Grundschülerinnen und Grundschüler nachhaltig sichern – ein guter Start ins Schuljahr mit Perspektive! - einstimmig beschlossen
+- TOP 45: Parkchaos am „Alten Kuhtor“ in Kaiserswerth lösen - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 46: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 47: Verschiedenes
+- TOP 48: Schützenplatz in Angermund - zur Kenntnis genommen
