@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-29T14:05:00+02:00
+- Ende: 2023-08-29T16:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27422
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27422
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation: Vorstellung des Allgemeinen Sozialen Dienstes und des Gefährdungsmeldungs-Sofort-Dienstes
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung des öffentlichen Spielplatzes Klettenbergpark Nord - Luxemburger Straße - ungeändert beschlossen
+- TOP 3.2: Mentale Gesundheit von Schülerinnen und Schülern - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Anpassung der Satzung Private Spielflächen für Kleinkinder an die Landesbauordnung NRW 2018 - ungeändert beschlossen
+- TOP 4.2: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 4.3: Haushaltsrechtliche Unterrichtung des Rates gem. § 25 Abs.1 Nr. 2 KomHVO in Verbindung mit § 12 der Haushaltssatzung 2023/2024 - ungeändert beschlossen
+- TOP 4.4: Mitgliederwechsel im Jugendhilfeausschuss, hier ev. Kirchenverband Köln und Region sowie Computerprojekt Köln e.V. - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: "Livestream attraktiver gestalten" - Kenntnis genommen
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Öffentlichkeitsbeteiligung bei der Planung von Spiel- und Bolzplätzen - Kenntnis genommen
+- TOP -: Öffentlichkeitsarbeit bei der Planung von Spiel- und Bolzplätzen - AN/0820/2023 Anfrage FDP-Fraktion - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Refinanzierung der Kindertagesstätten - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage der SPD Fraktion in der JHA Sitzung vom 06.06.2023 zum Fachkräftemangel in der frühkindlichen Bildung - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage der SPD-Fraktion, Frau Gérard in der Sitzung des JHA vom 06.06. unter Top 7.2.2 zur BiKup Sprach- und Kulturmittlung - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Wechsel stellvertretend stimmberechtigtes JHA-Mitglied der Fraktion Die Linke. - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Trägerwechsel von Kindertageseinrichtungen zum 01.08.2023 - Kenntnis genommen
+- TOP 8.2.2: Informationen zur neuen Personalverordnung sowie zur Fortsetzung der Landesprogramme Kita-Helfer*innen und Sprach-Kitas in Köln - Kenntnis genommen
+- TOP 8.2.3: Anerkannte Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: Mitteilung über im Trägerverzeichnis gelöschte Vereine und Gesellschaften - Kenntnis genommen
+- TOP 8.2.4: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "fips", vollzogene formwechselnde Umwandlung - Kenntnis genommen
+- TOP 8.2.5: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.6: Planungsbeschluss zum Neubau der Jugendeinrichtung „ Am Wunschtor“ in der Gernsheimer Straße 22 in Köln Ostheim - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2023 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 8.4.2: Zwischenstand zur Zielerreichung der Maßnahmen des Aktionsplans kinder- und jugendfreundliches Köln 2022-2025 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 8.5.2: Schulsozialarbeit an Förderschulen Sprache - Kenntnis genommen
+- TOP 8.5.3: Offene Ganztagsschule im Primarbereich ab dem Schuljahr 2023/2024 - Kenntnis genommen
+- TOP 8.5.4: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt aus der Sitzung des Gesundheitsausschusses vom 23.05.2023 (AN/0947/2023) betreffend - Kenntnis genommen
+- TOP 8.5.5: Sportentwicklungsplanung "Kölle Aktiv - Das Sportlabor" - neuer Standort des mobilen Pumptracks im Nippeser Tälchen - Kenntnis genommen
+- TOP 8.5.6: Abschlussbericht und Handlungsempfehlungen zur wissenschaftlichen Begleitung der Umsetzung des Drogenhilfekonzeptes 2022 - Kenntnis genommen
