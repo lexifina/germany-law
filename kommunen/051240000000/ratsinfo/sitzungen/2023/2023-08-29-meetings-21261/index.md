@@ -1,0 +1,71 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-08-29T16:05:00+02:00
+- Ende: 2023-08-29T17:50:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21261
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21261
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00317503.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00319057.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2022 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2022 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.3.1: Jahresabschluss 2022 der Stadtsparkasse Wuppertal - Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2022 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Bestellung der Geschäftsführung der Bundesgartenschau Wuppertal2031 gGmbH - ungeändert beschlossen
+- TOP 3.2: Neufassung der Satzung des ESW Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 3.3: Neuvergabe der Strom- und Gaskonzessionen und Gestattungsvertrag Wärme - ungeändert beschlossen
+- TOP 3.4: Neue Effizienz gemeinnützige GmbH - Beteiligungsangelegenheiten Realer Wandel GmbH - ungeändert beschlossen
+- TOP 3.5: Neue Effizienz gemeinnützige GmbH - Erteilung von Prokura - ungeändert beschlossen
+- TOP 3.6: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 3.7: Wechsel im Beirat der Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG) - ungeändert beschlossen
+- TOP 3.8: EKOCity Verbandsangelegenheit - ungeändert beschlossen
+- TOP 3.9: Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal, GWG-SPE und Konzern GWG - Bestellung des Wirtschaftsprüfers 2023 - ungeändert beschlossen
+- TOP 3.10: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2022/2023 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Umsetzung des Hinweisgeberschutzgesetzes (HinSchG), Einrichtung einer Internen Meldestelle in der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Zuschüsse zur Förderung der Jugendverbandsarbeit 2023 - ungeändert beschlossen
+- TOP 6.2: Betriebskostenzuschüsse 2023 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 6.3: Neuausrichtung des Vergabewesens in der Stadtverwaltung - ungeändert beschlossen
+- TOP 6.4: Brandschutzbedarfsplan - ungeändert beschlossen
+- TOP 6.4.1: Änderungsantrag zu VO/0819/23/2-Neuf „Brandschutzbedarfsplan 2023 - 2028 für die Stadt Wuppertal“ - zur Vorberatung verwiesen
+- TOP 6.5: Fortführung des Kompetenzzentrums Frau und Beruf Bergisches Städtedreieck mit Mitteln des Landes NRW - ungeändert beschlossen
+- TOP 6.6: Denkmalgerechte Sanierung / Erneuerung der Jakobstreppe - ungeändert beschlossen
+- TOP 6.7: Annahme der Schenkung von Kunstwerken - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Vorschlag der NRW-Landesregierung für einen kommunalen Altschuldenfonds - Entgegennahme ohne Beschluss
+- TOP 8.2: Keine Verlängerung der Isolation gem. NKF-COVID-19-Ukraine-Isolierungsgesetzes (NKF-CUIG) ab dem Haushaltsjahr 2024 - Entgegennahme ohne Beschluss
+- TOP 8.3: Stand der Investitions- und Kassenkredite zum 30.06.2023 - Entgegennahme ohne Beschluss
+- TOP 8.4: Finco-Berichte zum 31.05. und 30.06.2023 - Entgegennahme ohne Beschluss
+- TOP 8.5: QUARTALSREPORT für Q2/2023 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2023 wegen Verfassungswidirgkeit der differenzierten fiktiven Realsteuerhebesätze - ungeändert beschlossen
+- TOP 9.2: Überplanmäßige Mittelbereitstellung für Hilfen zur Erziehung und Eingliederungshilfen - ungeändert beschlossen
+- TOP 9.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2022 - ungeändert beschlossen
+- TOP 9.4: Instandsetzung der Brücke Reichsgrafenstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 9.5: Instandsetzung der Brücke Kabelstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 9.6: Fördermaßnahme Grundhafte Erneuerung der Loher Brücke – Kostenneufestsetzung - ungeändert beschlossen
+- TOP 9.7: Überplanmäßige Mittelbereitstellung für Investitionen in der Stadthalle - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW II. Quartal 2023 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
