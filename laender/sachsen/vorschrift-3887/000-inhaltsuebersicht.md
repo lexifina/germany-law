@@ -13,7 +13,7 @@ Abschnitt 1 Allgemeines
 § 11 Beratungsstellen
 § 12 Förderzentrum
 Abschnitt 2 Feststellung sonderpädagogischen Förderbedarfs, Schuleingangsphase, Wechsel der Schule und der Schulart
-§ 13 Verfahren zur Beratung und zur Feststellung von sonderpädagogischem Förderbedarf
+§ 13 Beratung und Verfahren zur Feststellung von sonderpädagogischem Förderbedarf
 § 14 Anmeldung und Aufnahme
 § 14a Schuleingangsphase
 § 14b Bildungsberatung
@@ -42,10 +42,11 @@ Abschnitt 6 Versetzung, Wiederholung, Verlängerung der Schulbesuchsdauer
 § 30 Versetzungsbestimmungen und freiwillige Wiederholung
 § 31 Mehrmalige Nichtversetzung
 § 32 Freiwillige Verlängerung des Schulbesuchs und Höchstverweildauer
-Abschnitt 7 Abschlussprüfungen und Erwerb von Abschlüssen im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
-§ 33 Abschlussprüfungen
-§ 34 Erwerb des Hauptschulabschlusses und eines dem Hauptschulabschluss gleichgestellten Abschlusses an der Schule mit dem Förderschwerpunkt Lernen
-§ 34a Erfolgreicher Abschluss im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
+Abschnitt 7 Abschlussprüfungen und Erwerb von Abschlüssen
+§ 33 Prüfungen zum Erwerb des Real- und Hauptschulabschlusses
+§ 34 Erwerb des Hauptschulabschlusses oder eines dem Hauptschulabschluss gleichgestellten Abschlusses an der Schule mit dem Förderschwerpunkt Lernen
+§ 34a Erwerb eines dem Hauptschulabschluss gleichgestellten Abschlusses in Klassen zur Erlangung der Berufsreife
+§ 34b Erwerb des erfolgreichen Abschlusses im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
 Abschnitt 8 Schlussvorschriften
-§ 34b Übergangsvorschrift
+§ 34c Übergangsvorschrift
 § 35 Inkrafttreten und Außerkrafttreten
