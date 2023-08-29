@@ -1,0 +1,78 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-29T17:00:00+02:00
+- Ende: 2023-08-29T20:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23839
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23839
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag Sitzung 29.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494763.pdf
+- Ergebnisprotokoll: 1. Nachtrag Sitzung 29.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494763.pdf
+- Wortprotokoll: 1. Nachtrag Sitzung 29.08.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494763.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 15.08.2023 eingegangene Fragen - vertagt
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 20.06.2023 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Beschlussvorlage zur Vorbereitung der geplanten Neubaumaßnahmen Schlüterstraße zur nachhaltigen Sicherstellung ausreichender Grundschulplätze in den Stadtteilen Flingern-Nord, Düsseltal, Grafenberg und Gerresheim - Empfehlung einstimmig beschlossen
+- TOP 4.5: Vereinssportanlagen An der Leimkuhle 10 und Klotzbahn 1f – Umbau Tennenspielfeld in eine Mehrzwecksportanlage - Empfehlung einstimmig beschlossen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen, Haushalt 2023 - einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.8: Deutsches Tischtenniszentrum: Erweiterung Küche und Speiseraum - Empfehlung einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Einrichtung eines Wochenmarktes an der Torfbruchstraße. 225/Ecke Cottbusser Straße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.3: Gasbeleuchtung im Stadtbezirk 7 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Maßnahmen zur Verkehrsberuhigung und zur Sicherung der Schulwege im Viertel Märkische Straße Einrichtung einer Fahrradzone im Bereich Märkische Straße, / Manthenstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 5.8: Mobilitätsstationen im Bezirk 7 - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.9: Kennzeichnung der Ladezonen auf der Benderstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.10: Errichtung von Photovoltaikanlagen auf den “renaturierten” Bereichen der Zentraldeponie Hubbelrath - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.11: Mobile Geschwindigkeitskontrolle Bergische Landstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.12: Barrierefreie Übergang auf Höhe Gutenbergstr. 9 - 15 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.13: Nutzung Altes Pfarrhaus Aloys-Odenthal-Platz - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 6.2: Hallesche Straße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Situation der U73 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Stand der Herrichtung Haltestelle Neuenhaus (BV7/268/2021) - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.4: Tempo 30 Gräulinger Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sitzungstermine der Bezirksvertretung 7 im Jahr 2024 - zur Kenntnis genommen
+- TOP 8.2: Beschusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 8.3: Parken in Kreuzungsbereichen am Siedlerweg - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.4: Parken im Kreuzungsbereich Pfeifferstraße/Truchseßstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.05.2023 - - zur Kenntnis genommen
+- TOP 8.5: Verbreiterung Gehweg Bergische Landstraße/Blanckertzstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.05.2023 - - zur Kenntnis genommen
+- TOP 8.6: Parkflächen Pöhlenweg 63 – 67 und 81 neu gestalten - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.7: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.8: Sicherung der Treppenanlage von der Friedrich-Wilhelm-Straße in die Anlage der Gartengemeinschaft Quadenhof - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.9: Zebrastreifen Schulweg „KGS Unter den Eichen“ - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.10: Maßnahmen zum Verkehrsmanagement in der Hardtstraße nach Wohnraumverdichtung in der Ludenberger Str. 15 und 17 - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.11: Sicherer Übergang an der Sichelstraße in Höhe der Einmündung Glasbläserstraße und Bordsteinabsenkung - Informationsvorlage zum Beschluss der BV 7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 8.12: Herrichtung der Parkfläche am Ende der Stichstraße Benderstraße Richtung Park an der Heinrich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.13: Parkplatz für Lastenräder auf der Benderstraße - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 8.14: PV-Anlage auf das Dach des Gerresheimer Rathauses - Informationsvolrage zum Beschluss der BV 7 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 8.15: Verbesserungen Radverkehrsführung Unterführung Morper Straße, Verkehrssituation Eisenbahnunterführung Morper Straße - Informationsvorlage zu den Beschlüssen BV 7 vom 22.02.2022 und 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.16: Parkflächen Hardtstraße dauerhaft instandsetzen - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.17: Bänke gegen Einsamkeit - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.18: Fahrradstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.06.2020 - - zur Kenntnis genommen
+- TOP 8.19: Verbesserung der Situation am Radweg Zamenhofweg/Bertastraße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.20: Piktogramm „Gemeinsam mit Rücksicht“ - Informationsvorlage zum Beschuss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.21: Quartiersgarage Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.22: Vertragssituation Dernbuschweg - zur Kenntnis genommen
+- TOP 8.23: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
