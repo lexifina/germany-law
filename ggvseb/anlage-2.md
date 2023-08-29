@@ -30,7 +30,10 @@
   b) Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Niebüll und Westerland (Sylt) ist abweichend von den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID die Gefahrgutbeförderung in Reisezügen unter Beachtung der nachfolgenden Bestimmungen erlaubt:
     aa) Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
       | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstücken in gedeckten und bedeckten Straßenfahrzeugen |
-      | a)Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,b)Gefahrgüter der Klasse 3, Verpackungs- gruppe II und III ohne Nebengefahr giftig,c)Gefahrgüter der Klasse 8, Verpackungs- gruppe II und III ohne Nebengefahr giftig undd)Gefahrgüter der Klasse 9, Verpackungs- gruppe II und III | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
+      | a) | Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig, | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
+      | b) | Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig, |
+      | c) | Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und |
+      | d) | Gefahrgüter der Klasse 9, Verpackungsgruppe II und III |
     bb) Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
     cc) Zwischenwagen oder Elemente einer fest gekuppelten Einheit:
       Erfolgt die Beförderung mit einzeln gekuppelten Güterwagen, ist zwischen den Güterwagen, auf denen mit gefährlichen Gütern beladene Straßenfahrzeuge verladen sind, und den übrigen Güterwagen, auf denen sich Personenkraftfahrzeuge oder mit Fahrgästen besetzte Busse befinden, mindestens ein unbeladener Güterwagen oder ein Güterwagen, der nur mit Straßenfahrzeugen ohne gefährliches Gut beladen ist, zu befördern.
@@ -73,8 +76,8 @@ Stoffliste Nummer 1:
 | 1203 | 3, F1 | II | BENZIN MIT MEHR ALS 10 % BENZEN |
 | 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
 | 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |
-| 1267 | 3, F1 | I | ROHERDÖL, MIT MEHR ALS 10 % BENZEN |
-| 1267 | 3, F1 | II | ROHERDÖL, MIT MEHR ALS 10 % BENZEN |
+| 1267 | 3, F1 | I | ROHERDÖL, MIT MEHR ALS 10% BENZEN |
+| 1267 | 3, F1 | II | ROHERDÖL, MIT MEHR ALS 10% BENZEN |
 | 1268 | 3, F1 | I | ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN |
 | 1268 | 3, F1 | II | ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN |
 | 1277 | 3, FC | II | PROPYLAMIN (1-Aminopropan) |
@@ -88,8 +91,8 @@ Stoffliste Nummer 1:
 | 1750 | 6.1, TC1 | II | CHLORESSIGSÄURE, LÖSUNG |
 | 1831 | 8, CT1 | I | SCHWEFELSÄURE, RAUCHEND |
 | 1846 | 6.1, T1 | II | TETRACHLORKOHLENSTOFF |
-| 1863 | 3, F1 | I | DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN |
-| 1863 | 3, F1 | II | DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN |
+| 1863 | 3, F1 | I | DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN |
+| 1863 | 3, F1 | II | DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN |
 | 1888 | 6.1, T1 | III | CHLOROFORM |
 | 1897 | 6.1, T1 | III | TETRACHLORETHYLEN |
 | 1993 | 3, F1 | I | ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G. MIT MEHR ALS 10 % BENZEN |
@@ -110,7 +113,7 @@ Stoffliste Nummer 1:
 Stofflisten Nummer 2 bis 4
 (weggefallen)
 Stoffliste Nummer 5:
-| UN- Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
+| UN-Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
 | 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
 | 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
 | 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |
