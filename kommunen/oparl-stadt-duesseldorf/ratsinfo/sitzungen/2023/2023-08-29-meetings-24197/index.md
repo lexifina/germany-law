@@ -1,0 +1,99 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-29T16:00:00+02:00
+- Ende: 2023-08-29T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24197
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24197
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494859.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494859.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00494859.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/005/2023 vom 06.06.2023 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Vorstellung der Kriminalitäts- und Unfallstatistik - Beschluss der Bezirksvertretung 2, Vorlage BV2/090/2022 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Umbau Schillerplatz 2. Bauabschnitt - Empfehlung einstimmig beschlossen
+- TOP 9: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - einstimmig beschlossen
+- TOP 10: Umbenennung historisch belasteter Straßennamen in Düsseldorf - einstimmig beschlossen
+- TOP 11: Bezirklicher Bauunterhalt- Haushaltsjahr 2023 Stadtbezirk 2 - Liste A Schulen - einstimmig beschlossen
+- TOP 12: Beschlussvorlage zur Vorbereitung der geplanten Neubaumaßnahmen Schlüterstraße zur nachhaltigen Sicherstellung ausreichender Grundschulplätze in den Stadtteilen Flingern-Nord, Düsseltal, Grafenberg und Gerresheim - Empfehlung einstimmig beschlossen
+- TOP -: Anträge
+- TOP 13: Geschwindigkeitsmessung an der Windscheidstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 14: Zuwendungsantrag für ein Solidaritätskonzert im zakk für die Freiheits- und Demokratiebewegung im Iran - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 15: Zuwendungsantrag für eine Aktion der Initiative „Unsere Straßen – unsere Künstler e.V.“ auf der Mendelssohnstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 16: Bezirksbezogene Haushaltsmittel für "Unsere Straßen - unsere Künstler e. V." - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 17: Zuwendung an den Verein „Unsere Straßen – unsere Künstler e. V.“ zur Realisierung eines Projekts im Stadtbezirk 2 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 18: Zuwendungsantrag Empowerment-Veranstaltung von BIPoC für BIPoC im ZAKK - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 19: Förderung der Veranstaltung Empower Yourself Du Opfer im Zakk aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 20: Zuwendungsantrag Kunstausstellungen im Café Kausal - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 21: Förderung von Kunstaustellungen im Café Kausal aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 22: Bezirksbezogene Haushaltsmittel für das Café Kausal - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 23: Zuwendungsantrag Unterstützung eines Sommerfests vom Netzwerk Hellweg/Märchenland Grenzen öffnen – Nachbarn sein – 26.08.2023 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 24: Bezirksbezogene Haushaltsmittel für das Sommerfest am Edisonplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 25: Finanzielle Unterstützung des Sommerfestes des Netzwerkes Hellweg/Märchenland aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 26: Bezirksbezogene Haushaltsmittel für das Theater-Ensemble „ONLY ASK VALERY!“ - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 27: Unterstützung für das Theaterprojekt Only ask Valery! Premiere Februar 2024 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 28: Förderung des Theaterprojekts Only Ask Valery des Künstlervereins Zweck e. V. aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 29: Parkplatzsituation in der Birkenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 30: Die Einrichtung eines Gesundheitskiosks im Stadtbezirk 2 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 31: Überprüfung und ggfs. Optimierung der Behelfsampelschaltung Grafenberger Allee/Sohnstr./Lichtstr. - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 32: Klimaanlage für die Bezirksverwaltungsstelle - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Geschwindigkeitskontrollen auf der Ackerstraße westlich des Lastrings - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 37: Zugänglichkeit von Schulspielplätzen am Wochenende - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Fontäne für den Weiher im Zoopark - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 40: Unterflurcontainer auf der Graf-Recke-Straße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 41: Unterflurcontainer auf der Achenbachstraße auf Höhe der neuen Pumpstation für Fernwärme - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 42: Vorstellung zum Ausbau des Fernwärmenetzes im Stadtbezirk 2 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 43: Einführung von Tempo 30 auf der gesamten Bruchstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion - vertagt
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Aufstellung einer multifunktionalen Solarsitzbank am öffentlichen Bücherschrank - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 50: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion - vertagt
+- TOP 51: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 52: Baustelle Rethelstraße 73-77 - Anfrage der FDP-Fraktion - beantwortet
+- TOP 53: Verkehrssicherheit an der Kreuzung Metro-Straße/Walter-Eucken-Straße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 54: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP -: Anfragen zur aktuellen Sitzung
+- TOP 55: Ertüchtigung des Bolzplatzes an der Ecke Dieselstraße / Benzstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 56: Kita-Plätze im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 57: Bauruine Tiergartenstraße 16 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 58: Feuerwehreinsätze im Zoopark-Weiher - Anfrage der CDU-Fraktion - beantwortet
+- TOP 59: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 60: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Informationsvorlagen
+- TOP 61: Wiederaufstellung der zweiten Bank am Zooparkeingang - Beschluss der Bezirksvertretung 2, Vorlage BV2/118/2023 - zur Kenntnis genommen
+- TOP 62: Prüfung sicherer Schulwege zur Paulusschule - Beschluss der Bezirksvertretung 2, Vorlage BV2/130/2021 - zur Kenntnis genommen
+- TOP 63: Beleuchtung Ahnfeldstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/226/2022 - zur Kenntnis genommen
+- TOP 64: Geschwindigkeitsmessung an der Ecke Rethelstraße / Schumannstraße - Vorlage BV2/049/2023 - zur Kenntnis genommen
+- TOP 65: Parkstreifen Grafenberger Allee - Beschluss der Bezirksvertretung 2, Vorlage BV2/035/2023 - zur Kenntnis genommen
+- TOP 66: Zusätzliche Fahrradstellplätze auf der Rethelstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/004/2023 - zur Kenntnis genommen
+- TOP 67: Fahrradständer für den Bereich Heinrichstraße, Brehmstraße und Grunerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/003/2023 - zur Kenntnis genommen
+- TOP 68: Prüfantrag zur Entsiegelung und Umgestaltung des Lindenplatzes - Beschluss der Bezirksvertretung 2, Vorlage BV2/163/2022 - zur Kenntnis genommen
+- TOP 69: Geeignete Maßnahmen zur Verbesserung der Verkehrssicherheitslage für die Kinder und Eltern der Kindertagesstätte Albertstraße 43-45 - Beschluss der Bezirksvertretung 2, Vorlage BV2/145/2022 - zur Kenntnis genommen
+- TOP 70: Bauvorhaben Albertstraße 96 - zur Kenntnis genommen
+- TOP 71: Diagonalparken Behrenstraße 62-78 - Beschluss der Bezirksvertretung 2, Vorlage BV2/081/2023 - zur Kenntnis genommen
+- TOP 72: Zoopark Düsseldorf - Beschluss der Bezirksvertretung 2, Vorlage BV2/130/2023 - zur Kenntnis genommen
+- TOP 73: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 74: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 75: Quartiersgarage Ivo-Beucker-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/139/2022 - zur Kenntnis genommen
+- TOP 76: Toilettenanlage für den Zoopark, Mehrkosten - Beschlussvorlage - einstimmig beschlossen
+- TOP 77: Tagesordnungspunkt (betrifft Privatpersonen)
