@@ -44,3 +44,4 @@ Nummer | Gericht oder Staatsanwaltschaft
 40. | Sächsisches Finanzgericht
 41. | Sozialgericht Leipzig
 42. | Staatsanwaltschaft Zwickau
+43. | Sozialgericht Dresden
