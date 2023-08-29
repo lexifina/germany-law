@@ -1,0 +1,73 @@
+# 19. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-29T15:39:00+02:00
+- Ende: 2023-08-29T19:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27496
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27496
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Nutzungskonzeptes des sanierten Römisch-Germanischen Museums - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen SPD & DIE LINKE: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - zurückgestellt
+- TOP 3.2: Antrag der SPD-Fraktion: Perspektiven für das Kulturquartier am Josef-Haubrich-Hof - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt - geändert beschlossen
+- TOP 3.3: Dringlichkeitsantrag der SPD-Fraktion: Zukunft und Entwicklung des Osthofs im Planungsgebiet der Hallen Kalk - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt, Die Linke und FDP - geändert beschlossen
+- TOP 3.4: Dringlichkeitsantrag Bündnispartner Bündnis90/Die Grünen, CDU & Volt:Verteilung Mittel Freie Musik nach bestehendem Musikförderkonzept - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - zurückgestellt
+- TOP 4.2: Rheinboulevard Deutz, Umsetzung Informationssystem Archäologie - ungeändert beschlossen
+- TOP 4.3: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 4.4: Kulturraumzentrum Niehl (Delmenhorster Str. 20), Freigabe der restlichen investiven Auszahlungsermächtigungen für den Umbau - ungeändert beschlossen
+- TOP 4.5: Ankauf eines Elfenbeinreliefs für das Museum Schnütgen - ungeändert beschlossen
+- TOP 4.6: Erneuerung einer Raumlufttechnischen Anlage (RLT-Anlage 5.1 Restaurierung) im Gebäudekomplex Museum Ludwig – Philharmonie und damit einhergehende Sanierungsmaßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Erneuerung der Raumlufttechnischen Anlagen (ausgenommen RLT-Anlage 5.1 Restaurierung) im Museum Ludwig und in der Philharmonie hier: Vergabe von Ingenieurleistgungen der Technischen Ausrüstung und weiterer Planungsleistungen - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Sanierung des Funkturms Colonius - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung einer Collage der Künstlerin Deborah Roberts von Karim Tabet Jalbout an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Neusser Landstr. 5, Köln-Worringen, "Haus Fühlingen" - Kenntnis genommen
+- TOP 8.2: Unterrichtung über Mehrkosten gem. § 25 Abs. 1 Nr. 2 KomHVO; Römisch-Germanisches Museum - vorgezogene notwendige Sanierung der Abdichtung über der Dombauhütte und über der Trafostation der RheinEnergie sowie notwendige Sanierungsmaßnahmen der Decke - Kenntnis genommen
+- TOP 8.3: Jahresbericht Museumsdienst 2022 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 9. August 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 26. Juli 2023 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 9. August 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Nachfrage aus der Sitzung des Ausschusses Kunst und Kultur vom 02.05.2023 betreffend "Digitalstrategie der Museen, Information zur Ausstattung der Museen mit WLAN" - Kenntnis genommen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der CDU-Fraktion: Regelmäßige Unterrichtung über die Führung der Denkmalliste - Kenntnis genommen
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 06.06.2023 betr. Kunstwerk Leuchtturm von Lutz Fritsch - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der Fraktionen Bündnis90/Die Grünen und CDU aus der Sitzung des Ausschusses Kunst und Kultur vom 06.06.2023 betr. Kunstbeirat - Kenntnis genommen
+- TOP 10.6: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Digitalisierungsausschusses vom 24.04.2023 (AN 0496/2023) betreffend Auslastungsanzeigen bei der Stadt Köln, städtischen und stadtnahen Einrichtungen - Kenntnis genommen
+- TOP 10.7: Ergänzung zur Beantwortung einer mündlichen Anfrage der kulturpolitischen Sprecher*innen zur Verwendung des Sonderausstellungsetats für drei Sonderausstellungen des Kölnischen Stadtmuseums - Kenntnis genommen
+- TOP 10.8: Ergänzung zur Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des Auschusses für die Gleichstellung von Frauen und Männern vom 11.05.2023 (AN/1889/2022) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt zur Sitzung des Ausschusses Kunst und Kultur am 29.11.2022 (AN/2201/2023) betreffend "Das Kölner Rathausglockenspiel revitalisieren!" - Kenntnis genommen
+- TOP 11.2: Beantwortung der Anfrage der Fraktion DIE LINKE: Würdiges Gedenken am Ort des ehemaligen SA-Lagers Hochkreuz - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Reiterstandbild Kaiser Wilhelm - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Auschuss Kunst und Kultur vom 02.05.2023 betreffend "Reiterstandbild Kaiser Wilhelm" - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der FDP-Fraktion: Bespielung des Tunnels „Am Domhof" - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Kulturförderung der Europäischen Union und Sicherung des kommunalen Förderanteils - zurückgestellt
+- TOP 11.6: Schriftliche Anfrage der SPD-Fraktion: Weiterbildung in der Kulturverwaltung, insbesondere im Kulturamt und sonstigen Kultureinrichtungen - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Sachstände „Kunst im öffentlichen Raum“ (KEP) - zurückgestellt
+- TOP 11.8: Schriftliche Anfrage GUT Köln: Hallen Kalk – Sachstand - Kenntnis genommen
+- TOP 11.9: Schriftliche Anfrage der Fraktion Bündnis90/Die Grünen: Umgang mit Anfragen - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der SPD-Fraktion: Rechtsstreit Volksbühne am Rudolfplatz
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Cumulus
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Kulturpass
+- TOP 12.4: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Kataster kulturelle Räume
+- TOP 12.5: Mündliche Anfrage der FDP-Fraktion: Kulturbauten Einrichtung eines Arbeitskreises
+- TOP 12.6: Mündliche Anfrage der FDP-Fraktion: Bespielung Zeughaus/Alte Wache für die freie Szene
+- TOP 12.7: Mündliche Anfrage der CDU-Fraktion: beschädigte Skulptur von George Rickey
