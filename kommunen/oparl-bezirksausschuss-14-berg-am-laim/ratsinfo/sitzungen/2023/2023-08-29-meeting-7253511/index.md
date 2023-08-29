@@ -1,0 +1,78 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253511
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253511
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.1.: Nachtrag TOP 2.7: Antrag auf eine Freischankfläche, Hanne-Hiob-Str. 10; Beschluss des Bezirksausschusses 14
+- TOP 1.1.2.: Nachtrag TOP 2.8: Aufstellung einer Orangenen Bank mit Standortvorschläge für den Stadtbezirk 14; Beschluss des Bezirksauschusses 14
+- TOP 1.1.3.: Nachtrag TOP 3.3.3: HIDALGO "Refugium" – holografische Installation mit Musik und Tanz in einem Sprinter-Bus von 22.09. bis 30.10.2023, Frist bis zum 11.09.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 25.07.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 25.07.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Zeitnahe Umsetzung der Freilegung des Hachinger-Bachs
+- TOP 2.2.: (E) Restabtragung des groben Kiesbelags auf dem Michaelianger
+- TOP 2.3.: (E) Installation von 4 Tischtennisplatten auf dem Michaelianger
+- TOP 2.4.: (E) Lärmbelästigung im Echardinger Park
+- TOP 2.5.: (E) Anbringung eines Mülleimers an der Ecke St.-Veit-Str./ Hansjakobstr. ggü. des REWE-Marktes
+- TOP 2.6.: (E) Erhöhung des Reinigungsturnus in der Echardinger Straße
+- TOP 2.7.: Antrag auf eine Freischankfläche, Hanne-Hiob-Str. 10; Beschluss des Bezirksausschusses 14
+- TOP 2.8.: Aufstellung einer Orangenen Bank mit Standortvorschläge für den Stadtbezirk 14; Beschluss des Bezirksauschusses 14
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Hansjakobstr. 90 - Hansjakobstr. WR3 - Nachverdichtung - Neubau zweier Punkthäuser (88 WE) mit Tiefgarage
+- TOP 3.1.2.: Vorschläge für geeignete alternative Standorte für eine Wertstoffinsel als Ersatz der Wertstoffinsel Ecke Roßsteinstraße/Hohenburgstraße, Rosenheimer Bahndamm
+- TOP 3.1.3.: Xaver-Weismor-Str. 2 - Neubau eines Mehrfamilienhauses mit 3 Duplexparkgaragen - VORBESCHEID
+- TOP 3.1.4.: Reinigung und Neugestaltung der Fußgänger- und Fahrradunterführung zwischen Echardinger Grünstreifen und Erdinger Park; Anhörung des Baureferats
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Entscheidungsvorschlag zur künftigen Raumaufteilung Truderinger Straße zwischen Baumkirchner Straße und Haringerweg; Anhörung des Mobilitätsreferats
+- TOP 3.2.2.: Hotelanfahrtzone in der Grafinger Str. 5 und 7, Frist bis zum 04.09.2023; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: dauerhafte einseitige Durchfahrtsperre in der Halfinger Straße West; Anhörung des Mobilitätsreferats
+- TOP 3.2.4.: Einrichtung eines personenbezogenen Sonderparkplatz in der Gotteszeller Str. 19; Anhörung des Mobilitätsreferats
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: "Das kleine VerWunderLand" in der Grünanlage St.-Veit-Str. am 17.09.2023 mit Ersatztermin am 25.09.2023, Frist bis zum 11.09.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: "Eistour (Wahlkampfveranstaltung)" in der Grünanlage Michaelianger am 24.09.2023, Frist bis zum 18.09.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.3.: HIDALGO "Refugium" – holografische Installation mit Musik und Tanz in einem Sprinter-Bus von 22.09. bis 30.10.2023, Frist bis zum 11.09.2023; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Straßenfest Baumkirchner Straße am 10.09.2023 2.740,80€ / AZ.0262.0-14-0372
+- TOP 3.5.2.: (E) Stadtbezirksbudget Elterninitiative Mittagsbetreuung „Die Bunten Knöpe e.V.“ Kreative Ausdrucksförderung: Von der Bildsprache zur Wortsprache vom 14.09.2023 – 30.07.2024 2.500,00 € / Az. 0262.0-14-0373
+- TOP 3.5.3.: (E) Stadtbezirksbudget Condrobs e.V. Neuer Sandkasten für das Familienzentrum Ramersdorf vom 15.08. - 31.12.2023 3.629,95 € / AZ.0262.0-14-0379 - vertagt aus der Plenumssitzung vom 25.07.2023 -
+- TOP 3.5.4.: Budget für die Veranstaltung "Klimaschutz bei knapper Kasse" des Stadtteilforums, Antrag BA-Mitglieder
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 90 - Hansjakobstr. WR3 - Nachverdichtung - Neubau zweier Punkthäuser (88 WE) mit Tiefgarage
+- TOP 3.6.2.: Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 3.6.3.: Mutschellestr. 18
+- TOP 3.6.4.: Ellingerweg 98
+- TOP 3.6.5.: Heilbrunnerstr. 59
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
