@@ -1,0 +1,102 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-08-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7379170
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7379170
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kindergarten Arbeitskreis Neue Erziehung e.V. Sonnenschutz Innen und Außen und Einrichtung der neuen Kindergartenräume vom 14.08. - 01.12.2023 4.110,09 Euro, Az.: 0262.0-4-0465
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Fachstelle MoNa: Vermittlung bei Nachbarschaftskonflikten in der Nacht
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Schleißheimer Str. 122 Umbau und Ausbau eines Dachgeschosses sowie Anbau eines Außenliftes und eines rückwärtigen Gebäudeteils vom 1.OG bis 4.OG eines denkmalgeschützten Gebäudes - VORBESCHEID
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Protokoll der Sitzung des Mieterbeirats der LH München am 24.07.2023
+- TOP 3.3.2.: Maßnahmen gegen Gentrifizierung und Leerstand Agnesstr. 48
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) + (U) Keine privilegierte Mobilitätsgruppe am Hohenzollernplatz Empfehlung Nr. 20-26 / E 00791 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 14.09.2022
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing West und im Stadtbezirk 9 Neuhausen - Nymphenburg Widmung einer Teilstrecke der Heßstraße
+- TOP 3.4.2.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Leerung öffentlicher Abfallbehälter sonntags um 7.00 Uhr
+- TOP 1.2.: Bürger: Baum und Bank vor dem Gebäude Herzogstr. 51
+- TOP 1.3.: Seniorenvertretung: Zusätzlicher BA-Schaukasten im Ackermannbogen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: (E) Stadtbezirksbudget Init. "Biodiversität" Mehr Biodiversität am 28.09.2023 469,55€; Az. 0262.0-4-0472
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. Aufenthaltsqualität Aufenthaltsqualität schaffen am 28.09.2023 243,95€; Az. 0262.0-4-0471
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Aufstellen einer orangen Bank am Stadtarchiv – zwei Standortvorschläge des Baureferats
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Wiederinbetriebnahme der Toilette am Pumucklspielplatz im Luitpoldpark (Antwort der DSMDecaux GmbH auf BA-Anfrage)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Information der Stadtwerke München zu Fernwärme und kommunaler Wärmeplanung
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Schreiben zum IAA-Protest-/Mobilitätswendecamp im Luitpoldpark (s. TOP F 2.3.2)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Tanztendenz München e.V. STANDPUNKT. e-welcome to my world vom 08. - 15.10.2023 3.000,00 Euro, Az.: 0262.0-4-0466
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. "ZWINK" ZWINK vom 01.09. -30.09.2023 1.500,00€; Az. 0262.0-4-0469
+- TOP 2.1.3.: (E) Stadtbezirksbudget schwere reiter gemeinnützige UG Sommer Residenz im schwere Reiter 11. -29.09.2023 2.500,00€; Az. 0262.0-4-0470
+- TOP 2.1.4.: (E) Stadtbezirksbudget Ackermannbogen e.V. Upgrade QuartiersWerkstatt Ackermannbogen vom 01.10. -31.12.2023 3.885,00€; Az. 0262.0-4-0473
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Agnesstraßenfest am 23.09.2023
+- TOP 2.3.2.: „Mobilitätswendecamp“ vom 05. bis 11.09.2023 im Luitpoldpark
+- TOP 2.3.3.: AWM-Nachbarschaftstag am 07.10.2023 in der Georg-Birk-/Petra-Kelly-Straße
+- TOP 2.3.4.: „Fahrradsicherheitscheck“ am 11.10.2023 im Petuelpark und am 08.11.2023 in der Grünanlage Bayernplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Werbefilm „Adyen Case Study“ am 14.08.2023 im Luitpoldpark
+- TOP 3.3.2.: Studierendenfilm „Fine“ am 04.08.2023 im Luitpoldpark
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Kundgebung „Damit Wohnen bezahlbar bleibt“ am 25.09.2023 auf dem Hohenzollernplatz
+- TOP 3.5.2.: Protestzug „IAA-Mobilitätswende: Für wen wird Politik gemacht?“ am 10.09.2023 vom Luitpoldpark zum Karolinenplatz
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Rechte der Bezirksausschüsse beim Baumschutz stärken (Anhörung zur Empfehlung Nr. 20-20 / E 01091 der Bürgerversammlung Pasing-Obermenzing)
+- TOP H: Termine
