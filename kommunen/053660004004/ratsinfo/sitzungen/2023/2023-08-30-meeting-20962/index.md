@@ -1,0 +1,60 @@
+# Stadtentwicklungsausschuss (18. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-08-30T18:01:00+02:00
+- Ende: 2023-08-30T20:21:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdsKbpz5Yhz8AeQpOrz87q8
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20962
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaPnAouHAIhpiftKmZhl4ZPmLENudn1vtL8KeBNkwClV/Bekanntmachung_Stadtentwicklungsausschuss_30.08.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd-M2xPwr7mDBocjxqncuVQyoPuI66alLQBEAIeAM5Pi/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_30.08.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 24.05.2023 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Prüfauftrag Flächenphotovoltaik hier: Korrektur der kartographischen Darstellung zum „Leitfaden zur Planung und Ausweisung von Flächen für PV-Freiflächenanlagen in der Stadt Bad Münstereifel“ - Beschluss: einstimmig
+- TOP 4.: Freiflächenphotovoltaik (FPV) auf dem Stadtgebiet Bad Münstereifel hier: Anfragen von Projektierern zur Errichtung von FPV-Anlagen - Beschluss: einstimmig bei 1 Enthaltung
+- TOP 5.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Vorstellung und Beschluss des Masterplans - Beschluss: einstimmig bei 1 Enthaltung:
+- TOP 6.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortschreibung; Beschluss über das finale Dokument und über die Beantragung von Städtebaufördermitteln für eine weitere Förderphase - Beschluss: mehrheitlich bei einer Gegenstimme
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Kompensation Mehrkosten ISEK, Antrag der UWV-Fraktion vom 28.08.2023 - Beschluss
+- TOP 7.: 36. Änderung des Flächennutzungsplanes "Feuerwehrgerätehaus Eicherscheid" Hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss: einstimmig 
+- TOP -: 36. Änderung des Flächennutzungsplanes "Feuerwehrgerätehaus Eicherscheid" Hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss
+- TOP 8.: Bebauungsplan Nr. 102 "Feuerwehrgerätehaus Eicherscheid" hier: Sachstand und weiteres Vorgehen - Beschluss: einstimmig
+- TOP 9.: Bebauungsplan Nr. 103 "John-Wiles-Straße" in Bad Münstereifel hier: erneuter Entwurfs- und Offenlagebeschluss nach Anpassung der bisherigen Entwurfsunterlagen und Änderung der Verfahrenswahl (Überführung in ein Vollverfahren) - Beschluss: mehrheitlich bei 4 Gegenstimmen
+- TOP 10.: Markierung Hochwasserstand am Werther Tor hier: Antrag der SPD-Fraktion vom 14.08.2023 - Beschluss
+- TOP -: Markierung Hochwasserstand am Werther Tor hier: Antrag der SPD-Fraktion vom 14.08.2023 - Beschluss: einstimmig
+- TOP 11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.: Bauliche Entwicklung des Grundstücks Gemarkung Mahlberg, Flur 8, Flurstück 114 in Bad Münstereifel-Mahlberg - Beschluss: einstimmig
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23.: Geplante Installation einer PV-Anlage, Pistorei 3; Information hierrüber; - Beschluss: einstimmig
+- TOP 24.: Antrag auf denkmalrechtliche Erlaubnis gem. § 9 DSchG zum Teilabriss einer Natursteinmauer zwecks Herstellung einer Zufahrt zum Flurstück Gem. Münstereifel, Flur 5, Flurstück Nr. 1846, Bad Münstereifel, Werther Straße 61/Alte Gasse - Beschluss: einstimmig abgelehnt
+- TOP 25.: Denkmalbereichssatzung der Stadt Bad Münstereifel vom 02.03.1982 inkl. Satzungserweiterung vom 29.05.2004; hier: Änderung, Anpassung und Ergänzung auf Grundlage der geänderten gesetzlichen Regelungen - Beschluss: mehrheitlich bei 3 Gegenstimmen
+- TOP 26.: Mitgliedschaft Netzwerk Innenstadt NRW hier: aktueller Sachstand und Beschluss zur Mitgliedschaft im Netzwerk Stadtentwicklung - Beschluss: einstimmig
+- TOP 27.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Ohlerath - Beschluss: einstimmig
+- TOP 28.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof - Beschluss: einstimmig
+- TOP 29.: Anfragen und Mitteilungen
+- TOP 29.1: EU-Umgebungslärmrichtlinie - 4. Runde der Lärmaktionsplanung hier: Sachstand und weiteres Vorgehen
+- TOP 29.2: Landesentwicklungsplan NRW - 2. Änderungsverfahren zum Ausbau der Erneuerbaren Energien hier: Stellungnahme der Stadt Bad Münstereifel im Rahmen der Öffentlichkeitsbeteiligung
+- TOP 29.3: Landesentwicklungsplan NRW - 3. Änderungsverfahren zur nachhaltigen Flächenentwicklung hier: Unterrichtung der Öffentlichkeit gemäß § 9 Abs.1 Raumordnungsgesetz (ROG)
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: EU-Umgebungslärmrichtlinie - 4. Runde der Lärmaktionsplanung hier: Auftragserteilung - Beschluss: einstimmig
+- TOP 2.: Grundstücksangelegenheit Stattlerstraße - Beschluss: einstimmig
+- TOP 3.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Ohlerath - Beschluss: einstimmig
+- TOP 4.: Verkauf eines Grundstücks in Bad Münstereifel-Odesheim - Beschluss: einstimmig
+- TOP 5.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof - Beschluss: einstimmig
+- TOP 6.: Anfragen und Mitteilungen
