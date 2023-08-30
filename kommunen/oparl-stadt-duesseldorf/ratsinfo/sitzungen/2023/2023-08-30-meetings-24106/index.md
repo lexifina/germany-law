@@ -1,0 +1,68 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-08-30T17:00:00+02:00
+- Ende: 2023-08-30T19:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24106
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24106
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 14. Juni 2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bericht zum interdisziplinären Gestaltungswettbewerb zur Integration des Schallschutzes im Stadtraum Düsseldorf (Ausbau RRX) - zur Kenntnis genommen
+- TOP 5: Bericht zum aktuellen Sachstand der Realschule Borbecker Straße - zur Kenntnis genommen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (alt)
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 10: Anfrage der Fraktion BÜ90/Die Grünen: Wiederinstandsetzung des Bolzplatzes Mintarder Weg - schriftlich beantwortet
+- TOP 11: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg - vertagt
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße - vertagt
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen - vertagt
+- TOP 15: Anfrage der FDP-Fraktion: Umwandlung von öffentlichen Kfz-Parkplätzen - vertagt
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfrage der SPD-Fraktion: Nutzung Grundstück Vogelsanger Weg - schriftlich beantwortet
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 19: Antrag der SPD-Fraktion: Umstellen der Awista Container auf dem Kreitenplatz - mehrheitlich abgelehnt
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Antrag der SPD-Fraktion: Bushaltestelle Eckenerstraße - einstimmig beschlossen
+- TOP 22: Antrag der SPD-Fraktion: Parkverbot Einbrunger Weg - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 23: Repräsentationsfonds der Bezirksbürgermeisterin - einstimmig beschlossen
+- TOP 24: Zuschussvergabe 2023 - Antrag des Rather Familienzentrums - 10. Rather Kulturwoche - einstimmig beschlossen
+- TOP 25: Zuschussvergabe 2023 Antrag des Bürgerverein Mörsenbroich 1928 e.V. - einstimmig beschlossen
+- TOP 26: Zuschussvergabe 2023 Antrag des Kleingartenverein Zum Faselbusch 1922 e.V. - Sommerfest zum 101. Jahrestag der Gründung des KGV Faselbusch - zurückgezogen
+- TOP 27: Zuschussvergabe 2023 Antrag des Düsseldorfer Aero-Klub e.V. - Flugplatzfest 2023 - vertagt
+- TOP 28: Zuschussvergabe 2023 Antrag der Gemeinschaftsgrundschule Unterrath - Theaterpädagogisches Präventionsprogramm "Mein Körper gehört mir" und "Die große Nein-Tonne" - Erweiterung zur Vorlage BV6/080/2023 - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2023 Antrag der KGS Kartause-Hain - Theaterpädagogisches Präventionsprogramm "Mein Körper gehört mir" und "Die große Nein-Tonne" - Erweiterung zur Vorlage BV6/079/2023 - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2023 - Antrag der katholischen Kirchengemeinde Heilige Familie - 150 Jahre Kirchweihfest - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2023 - Teil B und Restmittel B/C 2022 - Umbau Bürgerbüro Rath Münsterstraße 508 - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2023 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2023 Teil B - sonstige städtische Einrichtungen - Erneuerung Fahrbahnbelag - Erweiterung zu Vorlage BV6/196/2022 - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2023 Teil B "sonstige städtische Einrichtungen" - Ausbau Dirtpark JFE Ekkehardtstraße - einstimmig beschlossen
+- TOP 35: Bauunterhaltungsmittel 2023 Teil C "Förderung Dritter" - Budget "ökologische Maßnahmen" - Antrag des KGV Rather Broich - Insektenparadies - einstimmig beschlossen
+- TOP 36: Bauunterhaltungsmttel 2023 Teil C "Förderung Dritter" - Budget "ökologische Maßnahmen" - Antrag des KGV Rather Broich - Einzäunung Insektenparadies - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Solaranlagen auf Parkplätzen und Parkhäusern der Stadt und der städtischen Töchter - Vorlage BV6/066/2023 - zur Kenntnis genommen
+- TOP 38: Direkte Wegeverbindung zwischen dem Penny-Parkplatz an der Oberrather Straße und dem Saal der Pfarre St. Josef am Rather Kirchplatz 16 - Vorlage BV6/002/2023 - zur Kenntnis genommen
+- TOP 39: Zebrastreifen auf der Kürtenstraße - Vorlage BV6/010/2023 - zur Kenntnis genommen
+- TOP 40: Perspektiven des S-Bahn-Halts Höxterweg/Mercedes-Benz-Werk - Verbesserung des ÖPNV-Angebots und Lösung der Mercedes-Problematik - Vorlage BV6/221/2021 - zur Kenntnis genommen
+- TOP 41: Einrichtung von Trinkwasserspendern im Stadtbezirk 6 - Vorlage BV6/005/2023 - zur Kenntnis genommen
+- TOP 42: Fahrradabstellanlage Röhrenstraße - Vorlage BV6/222/2022 - zur Kenntnis genommen
+- TOP 43: Nutzungskonzept für den Rather Schützenplatz - Vorlage BV6/118/2022 - zur Kenntnis genommen
+- TOP 44: Verkehrsberuhigter Bereich Lichtenbroich - Spielen zwischen Volkardeyer Weg und Krahnenburgstraße - Vorlage BV6/007/2023 - zur Kenntnis genommen
+- TOP 45: Außenkolumbarium Unterrather Friedhof - Vorlage BV6/209/2022 - zur Kenntnis genommen
+- TOP 46: Baumfällungen im Stadtbezirk 6 ab der 30. Kalenderwoche - zur Kenntnis genommen
+- TOP 47: 1:1 Ausstattung der Sekundarstufe I des Friedrich-Rückert-Gymnasiums mit iPads - Vorlage BV6/212/2022 - zur Kenntnis genommen
+- TOP 48: Baumpflanzungen im Park am Kittelbach - Vorlage BV6/219/2022 - zur Kenntnis genommen
+- TOP 49: Baumfällungen im Stadtbezirk 6 ab der 33. Kalenderwoche - zur Kenntnis genommen
