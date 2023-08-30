@@ -1,0 +1,116 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-08-30T17:05:00+02:00
+- Ende: 2023-08-30T22:45:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4864
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4864
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Betriebsgenehmigungen für Neuköllner Schulen, Brandsicherheitsschauen - beantwortet
+- TOP 1.2: Leerstand von ehemaligen Kneipen in Nord-Neukölln - beantwortet
+- TOP 1.3: Geplante Schließung der Rathauskantine - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 0906/XXI - Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Bildung, Schule und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: 0929/XXI - Gegen Hass und Hetze - Neukölln bleibt bunt und vielfältig - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: 0930/XXI - Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Investitionen in Bildung, Soziales und Gesundheit statt Selbstverstümmelung des Bezirks - in der BVV abgelehnt
+- TOP 4.2: Gegen Hass und Hetze - Neukölln bleibt bunt und vielfältig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Vorzeitige Beendigung eines Mandats als Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Sozialausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.6: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.7: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.8: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.9: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.10: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.11: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berlin – Neukölln Einzelhandels- und Zentrenkonzept, Fortschreibung April 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Bezirkshaushaltsplan für die Jahre 2024/2025 (Doppelhaushalt) - überwiesen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer Bürgerdeputierten in den Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - gewählt
+- TOP 7.3: Wahl eines stellvertretenden Bürgerdeputierten in den Sozialausschuss - gewählt
+- TOP 7.4: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wachschutz an Neuköllner Schulen - beantwortet
+- TOP 8.2: Radweg Sonnenallee - beantwortet
+- TOP 8.3: Emmaus - Wald oder kein Wald, das ist hier die Frage - beantwortet
+- TOP 8.4: Kürzungen an Neuköllner Schulen: Wachschutz fällt weg? - beantwortet
+- TOP 8.5: Bauliche Mängel an der Lisa-Tetzner-Schule - beantwortet
+- TOP 8.6: Eröffnung des Eisstadions Neukölln - beantwortet
+- TOP 8.7: Nervige Carsharing-Fahrzeuge - schriftlich beantwortet
+- TOP 8.8: Rechte Schmierereien im öffentlichen Raum - was tut der Bezirk dagegen? - schriftlich beantwortet
+- TOP 8.9: Wann werden die Empfehlungen des Berichts „Muslimfeindlichkeit – Eine Deutsche Bilanz 2023“ umgesetzt? - schriftlich beantwortet
+- TOP 8.10: Ausgaben Städtepartnerschaft - schriftlich beantwortet
+- TOP 8.11: Projekt „Nachtlichter“ auch für Neukölln? - schriftlich beantwortet
+- TOP 8.12: Wird das Vorkaufsrecht für die Weichselstraße 52 und die Hermannstraße 123 angewendet? - schriftlich beantwortet
+- TOP 8.13: Welchen Erfolg hat die Arbeitsgruppe „Kinder- und Jugendkriminalität“? - schriftlich beantwortet
+- TOP 8.14: Der Regierende Bürgermeister Wegner und Innensenatorin Spranger wollen den Freibad-Sommer mit harten Maßnahmen retten - schriftlich beantwortet
+- TOP 8.15: Vorbereitung einer möglichen Wiederholungswahl zum Deutschen Bundestag - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Kippenfreies Buckow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Jährlicher Bericht der Bezirksbeauftragten für Partizipation und Integration - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Private Carsharing-Gemeinschaften fördern: Anwohnerparkausweise für mehrere Gebiete ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.4: Beleuchtung des Uferweges zwischen Johannisthaler Chaussee und dem Tanklager Rudow (Stubenrauchstraße) sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Mehr Platz für Kinder in der Delbrückstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.2: Fußgängerverkehr Emser Str. / Oderstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: CariSatt-Laden in der Steinbockstraße für Menschen mit Behinderung besser zugänglich machen - vertagt
+- TOP 10.4: Bewohnerschaft von Problemimmobilien im Richard- und Körnerkiez unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Microhubs am Karstadt Hermannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Zukunftsfesten Hermannplatz gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Kita "Elif und Emil 3" - Kinder und Erzieher schützen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Kranold-/Bendastraße - Kreuzung soll sicherer werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: AG Schulwegsicherheit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.10: Neukölln von Beginn an bei der Reaktivierung der Stammbahn mitdenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Tangential- und Radialrouten für den Radverkehr bekannter machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.12: BVG – Senat soll Verschlechterung bei den Buslinien (in Neukölln) zurücknehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.13: Verkehrslärm reduzieren und Sicherheit erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.14: Alte Gehweg-Radwege smart sanieren - Entsiegelung mitdenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.15: ParkYourBike auch in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.16: Fuss e.V. in den Mobilitätsrat Neukölln berufen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Das kann sich niemand leisten: Leerstand im hochpreisigen Wohnungssegment - beantwortet
+- TOP 11.2: Klimaresiliente Hasenheide und der Karneval der Kulturen - beantwortet
+- TOP 11.3: Gewerbeamt - beantwortet
+- TOP 11.4: Landeseigener Friedhof Rudow in der Köpenicker Straße - beantwortet
+- TOP 11.5: Finanzierung der Jugendarbeit in Neukölln - beantwortet
+- TOP 11.6: Verleugnen Bürgermeister Hikel und seine Integrationsbeauftragte antimuslimischen Rassismus? - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Bürger*innenhaushalt überarbeiten - Beteiligung transparent gestalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Würdevolle Gestaltung des Ottilie-Baader-Platzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Gesundheitskollektiv weiterhin fördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Neukölln als Modellregion für die Cannabis-Legalisierung - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Armutsbeauftragte/r auf Landesebene - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Unabhängige Beschwerdestelle für von Wohnungslosigkeit betroffene Personen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Gute-Kneipen-Gesetz – Anerkennung, Pflege und Förderung der Neuköllner Eckkneipenkultur - in der BVV abgelehnt
+- TOP 12.8: "Verstetigung" darf kein Ende sein - Projekte erhalten, Regelfinanzierung tut not! - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 12.10: City-Toilette U Johannisthaler Chaussee / Grünzug - vertagt
+- TOP 12.11: Neukölln-Arcaden - Fahrräder sicher abstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bürgerzentrum Neukölln - Fahrrad sicher abstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Familien-Carsharing - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Eingeschränktes Haltverbot Steinbockstraße 25 (CariSatt-Laden) einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Lärmschutz I: Nächtliches Tempo 30 im Bereich der Kreuzung Fritz-Erler-Allee/Neuköllner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Lärmschutz II: Nächtliches Tempo 30 im Bereich der Kreuzung Neuköllner Straße/Fritz-Erler-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Einrichten einer Fußgänger*innenquerungsanlage in der Lichtenrader Straße/Ecker Selchower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Querung für Fußgänger*innen am Hermannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - erledigt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Einwohner*innenantrag: Kranoldkiez Neukölln - für Menschen statt für Durchgangsverkehr Für einen lebenswerteren Kiez für alle - überwiesen
+- TOP 15.2: Einwohner*innenantrag: Körnerkiez Neukölln – für Menschen statt Durchgangsverkehr - überwiesen
