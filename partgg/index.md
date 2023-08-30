@@ -4,7 +4,7 @@
 - [§ 2 Name der Partnerschaft](0002.md)
 - [§ 3 Partnerschaftsvertrag](0003.md)
 - [§ 4 Anmeldung der Partnerschaft](0004.md)
-- [§ 5 Inhalt der Eintragung, anzuwendende Vorschriften](0005.md)
+- [§ 5 Inhalt der Eintragung; anzuwendende Vorschriften](0005.md)
 - [§ 6 Rechtsverhältnis der Partner untereinander](0006.md)
 - [§ 7 Wirksamkeit im Verhältnis zu Dritten, rechtliche Selbständigkeit, Vertretung](0007.md)
 - [§ 8 Haftung für Verbindlichkeiten der Partnerschaft](0008.md)
