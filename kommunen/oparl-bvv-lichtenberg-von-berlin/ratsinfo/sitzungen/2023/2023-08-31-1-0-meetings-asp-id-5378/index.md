@@ -1,0 +1,90 @@
+# 21. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-08-31T17:00:00+02:00
+- Ende: 2023-08-31T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5378
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5378
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=371640
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 3.1: Oberseeschule nicht verdichten - vertagt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Lichtenbergs Wirtschaftskraft stärken und Unternehmen zum Partner machen - vertagt
+- TOP 4.2: Standortfindung Taubenschlag am Bahnhof Lichtenberg - zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: - Schulneugründung einer ISS am Standort Allee der Kosmonauten 20-22 in 10315 Berlin - Schulneugründung eines Gymnasiums am Standort Allee der Kosmonauten 20-22 in 10315 Berlin - überwiesen
+- TOP 5.3: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2024/25 - überwiesen
+- TOP 5.4: Nachweisung der im Haushaltsjahr 2022 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 5.5: Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2024/2025 - überwiesen
+- TOP 5.6: Mehr Öffentlichkeit für den Friedhof Falkenberg und Grabstätte von Marie Elisabeth von Humboldt - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Zugang zum Friedhof Falkenberg barrierefrei gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Informationsstele zu Ehren August César Sandinos - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Lichtenberger Apotheken stärken - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Bürgerdienstleistungen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Bahnhofvorplatz Lichtenberg in der Investitionsplanung berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Sanierungsfahrplan für Jugendfreizeiteinrichtungen in freier Trägerschaft in Mietobjekten auf landeseigenen Grundstücken - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Trinkwasser und Überdachung für den Elefantenspielplatz - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Öffentliche Toilette im Bereich Küstriner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Öffentliche Beleuchtung ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Südliche Rhinstraßenbrücke: Stauampel zur Bedarfsampel machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Jelbi-Station für Neu-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Grillverbot durch Schwerpunkteinsätze durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: Verkehrsberuhigung Wildensteiner Straße / Wandlitzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Städtepartnerschaften auch in Neu-Hohenschönhausen sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Aufwertung des öffentlichen Raumes rund um das Zentrum für an Tuberkulose erkrankte und gefährdete Personen - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Grünfläche an der Gehrenseestraße schützen - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Gehwegsanierung im Bereich Joachimsthaler Straße / Biesenthaler Straße in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Gib dem Müll keine Chance: Mehr Mülleimer für den Bereich um den U-Bahnhof Friedrichsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Trinkwasser und Verschattung für Lichtenberger Spielplätze - überwiesen
+- TOP 5.26: Klimaanalyse in städtebaulicher Planung berücksichtigen - überwiesen
+- TOP 5.27: Laufende Kosten für den Taubenschlag im Haushalt 2024/25 berücksichtigen - überwiesen
+- TOP 5.28: Fennpfuhlfest 2023 stattfinden lassen - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Bewusstsein für seelische und psychische Gesundheit in der Bevölkerung erhöhen! - überwiesen
+- TOP 5.30: Pro Kind ein Baum für Lichtenberg! - überwiesen
+- TOP 5.31: Grünflächen seltener mähen - überwiesen
+- TOP 5.32: Mehr Blühstreifen in Neu-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 5.33: Räumliche Trennung von Geh- und Fahrradweg - überwiesen
+- TOP 5.34: Einrichtung von Abstellflächen von E-Scootern - überwiesen
+- TOP 5.35: Mehr Mülleimer zwischen Dolgenseestraße und Hönower Weg - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Miniwälder auch in Lichtenberg - überwiesen
+- TOP 5.37: Gute Arbeitsbedingungen für Ausschüsse der BVV sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.38: Sicher Fahrradfahren in Hohenschönhausen - Fahrradstraße parallel zum Malchower Weg - überwiesen
+- TOP 5.39: Verkehrssicherheit in der Waldowallee kurz- und mittelfristig verbessern - überwiesen
+- TOP 5.40: Durchgezogene Linie an der Tramhaltestelle Simon-Bolivar-Straße - überwiesen
+- TOP 5.41: Pilotprojekt: Zero-Waste-Konzept für Lichtenbergs öffentlichen Raum - überwiesen
+- TOP 5.42: Kreuzung Hohenschönhauser Straße/Oderbruchstraße mit Lichtsignalanlage sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 5.43: Marie-Elisabeth-von-Humboldt-Straße beruhigen - überwiesen
+- TOP 5.44: Marie-Elisabeth-von-Humboldt-Straße entlasten - überwiesen
+- TOP 5.45: Trockentoilette für die Rummelsburger Bucht - überwiesen
+- TOP 5.46: Wohnprojekt für ehemals Suchtkranke in Lichtenberg erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 7.1: Missbilligungsantrag - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Schulgipfel einberufen - ohne Änderungen in der BVV beschlossen
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Vorstandsmitgliedes - erledigt
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Anmeldung zur Investitionsplanung 2023 – 2027 - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Höherer Fachpersonalbedarf in den Lichtenberger Familienzentren - überwiesen
+- TOP 9.3: Kreuzung an der Kita Grashüpfer in Karlshorst sicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Schluss mit der Behinderung von Fußgängern und Verkehr durch unberechtigt abgestellte E-Roller und Leihfahrräder - in der BVV abgelehnt
+- TOP 10: Große Anfragen - im Ausschuss abgelehnt
+- TOP 11: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radweg an der Siegfriedstraße endlich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Freie Fahrt auf der Treskowallee (noch im Jahre 2023) - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bau der Wendeschleife für Busse in Wartenberg stoppen - Kooperation mit Ahrensfelde ermöglichen - überwiesen
+- TOP 13.3: Einrichtung von provisorischen Haltestellen - überwiesen
+- TOP 13.4: Spielplatz im Carlsgarten beschatten - Kinder schützen - in der BVV abgelehnt
+- TOP 14: Geschäftliche Mitteilungen des Vorstandes - erledigt
