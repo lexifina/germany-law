@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Der Ansiedlung des Europäischen Zentrums für mittelfristige Wettervorhersage in der Bundesrepublik Deutschland durch Errichtung einer Zweigniederlassung in Bonn wird zugestimmt.
+(2)
+Das in Berlin am 9. Dezember 2022 unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn wird hiermit in Kraft gesetzt und die in Teil 2 Kapitel 2 und 3 des Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen werden in dem aus dem Abkommen ersichtlichen Umfang gewährt. Das Abkommen wird nachstehend veröffentlicht.
