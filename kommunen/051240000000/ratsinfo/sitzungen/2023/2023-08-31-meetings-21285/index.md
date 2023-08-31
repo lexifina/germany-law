@@ -1,0 +1,59 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-08-31T16:05:00+02:00
+- Ende: 2023-08-31T19:30:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/244
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21285
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21285
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00317827.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00318572.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachstandsbericht der WSW - Baulos 2 für den Fernwärmeausbau in Elberfeld
+- TOP 2: Große Anfragen
+- TOP 2.1: WSW Dampfumformstation Ost - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90/DIE GRÜNEN zur WSW-Dampfumformstation Ost - Entgegennahme ohne Beschluss
+- TOP 2.2: Ladepunkte für E-Fahrzeuge - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Ladepunkte für E-Fahrzeuge - Antwort auf große Anfrage vom 09.08.23 - Neuf. - Entgegennahme ohne Beschluss
+- TOP 2.3: Quartalsberichte zur Wohnraumentwicklung - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Große Anfrage der SPD vom 17.05.23 zu Quartalsberichten der Wohnraumentwicklung - Entgegennahme ohne Beschluss
+- TOP 2.4: Leerstand von Gewerbeflächen, Problem- und Schrottimmobilien - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Leerstand von Gewerbeflächen, Problem- und Schrottimmobilien - Entgegennahme ohne Beschluss
+- TOP 2.5: Hochwasser und dessen Folgen - vertagen
+- TOP 2.6: Bebauungsplan 1252 - Hatzfelder Str. / Carnaper Str. / Schützenstr. - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Bebauungsplan 1252 - Hatzfelder Str. / Carnaper Str. / Schützenstr. - Entgegennahme ohne Beschluss
+- TOP 2.7: Bebauungsplan 1241 - Bahnhof Heubruch – hier: südlicher Teil - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Bebauungsplan 1241 - Bahnhof Heubruch - hier: südlicher Teil - Entgegennahme ohne Beschluss
+- TOP 3: Anträge
+- TOP 3.1: Fällung von sechs Bäumen und Aufstellung von Containern für die Sanierung der Realschule Vohwinkel, VO/0656/23 - abgelehnt
+- TOP 3.2: Bürgerbeteiligung bei der zukünftigen Fortschreibung des AngstFreiRaumKonzepts - vertagen
+- TOP 3.3: Antrag gemäß § 24 GO NRW - Grenze der Stadtbezirke Heckinghausen und Oberbarmen - vertagen
+- TOP 3.4: Antrag § 24 GO NRW - Ergänzung der Goldbänke Herzogstraße um ein Goldklo als Kunstaktion - ungeändert beschlossen
+- TOP 4: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 5: Döppersberg Platz Ost – Vorgaben für die weitere Planung - ungeändert beschlossen
+- TOP 5.1: Döppersberg Platz Ost – Stellungnahme der Taxizentrale Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.2: TOP 5 und 5.1: Döppersberg Platz Ost – Vorgaben für die weitere Planung - ungeändert beschlossen
+- TOP 6: Anpassung der Nutzungsverträge für städtische Landwirtschaftsflächen bei Neuverpachtung - vertagen
+- TOP 7: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - geändert beschlossen
+- TOP 7.1: Ergänzungsantrag der Fraktionen von SPD, CDU und DIE LINKE und der Ratsgruppe FREIE WÄHLER zur Vorlage „Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal“ (VO/0354/23) - ungeändert beschlossen
+- TOP 8: 2. Zwischenbericht InnenBandStadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 9: Quartalsbericht II/2023 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 10: Quartalsbericht II/2023 zur Wohnraumentwicklung - Entgegennahme ohne Beschluss
+- TOP 11: Bericht zum Antrag Flächenpotentiale entwickeln (VO/534/23) - Entgegennahme ohne Beschluss
+- TOP 12: Verzicht auf die Ausübung des Vorkaufsrechts beim Kauf von Rechten nach dem Wohnungseigentumsgesetz / Erbbaurechtsgesetz gem. § 31 Denkmalschutzgesetz NRW - ungeändert beschlossen
+- TOP 13: Teilaufhebung des Fluchtlinienplanes 591 - Verbindungsstraße vom Dorrenberg nach Mirke nördlich der Staatseisenbahn - - ungeändert beschlossen
+- TOP 14: Bebauungsplan 782 - Gustav-Heinemann-Straße/Westfalenweg - - ungeändert beschlossen
+- TOP 15: Bebauungsplan 622A2 - Haderslebener Straße - 3. Änderung - ungeändert beschlossen
+- TOP 16: 142. Flächennutzungsplanänderung - Hauptstraße/ Amboßstraße - - ungeändert beschlossen
+- TOP 17: Bebauungsplan 1274V - Hauptstraße/ Amboßstraße - - ungeändert beschlossen
+- TOP 18: 1286 - Elias-Eller-Straße - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 1066 - Engineering Park Wuppertal (GOH-Kaserne) - 4. Änderung - ungeändert beschlossen
+- TOP 20: Bebauungsplan 1273/1- Christbusch/Am Unterbarmer Friedhof - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 297A - Dasnöckel - - ungeändert beschlossen
+- TOP 22: Gestaltungssatzung für den historischen Ortskern von Wuppertal-Cronenberg - vertagen
+- TOP 23: Obsoleszensverfahren Schmachtenbergweg (Bebauungsplan 187 - Am Anschlag) - ungeändert beschlossen
