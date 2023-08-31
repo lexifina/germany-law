@@ -1,0 +1,116 @@
+# 21. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-31T15:05:00+02:00
+- Ende: 2023-08-31T18:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27423
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27423
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP -: A Antrag der AfD Fraktion zur Durchführung einer aktuellen Stunde betreffend "Insolvenz des Bauträgers des Laurenz-Carree Gerchgroup - Sache ist erledigt
+- TOP -: Wohnbau- und Gewerbeprojekte in der Krise?“ - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündlichen Anfrage von Herrn SB Frenzel (SPD) aus der 19. Sitzung des Stadtentwicklungsausschusses vom 04.05.2023 betreffend Top 18.5 "Kraftfahrzeuge in Köln 2022, 0982/2023" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von SB Frenzel (SPD) aus der Sitzung des StEA am 01.06.2023 betreffend "Otto & Langen Quartier" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.3: Beantwortung einer mündlichen Anfrage von SB Frenzel aus der Sitzung des Stadtentwicklungsausschusses vom 04.05.2023 betreffend "Aktueller Sachstand Haus Fühlingen" (Session-Nr. 1344/2023) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4: Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: RSV Rath Heumar - Kenntnis genommen
+- TOP 2.1.1: RSV Rath-Heumar - Kenntnis genommen
+- TOP 2.1.2: RSV Rath-Heumar - Kenntnis genommen
+- TOP 2.2: Einladung zum Fachgespräch Umsetzungsmodell Kreuzfeld - EInladungspolicy - zurückgestellt
+- TOP 2.2.1: Beantwortung einer schriftlichen Anfrage der AfD Fraktion (AN/0484/2023) - zurückgestellt
+- TOP 2.2.2: Beantwortung einer mündlichen Nachfrage der AfD- Fraktion zur Beantwortung 1786/2023 - zurückgestellt
+- TOP 2.3: Entwicklung des Geländes Ehrenfeldgürtel 125 - Kenntnis genommen
+- TOP 2.3.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen und der Volt-Fraktion betr. der "Entwicklung des Geländes Ehrenfeldgürtel 125" (AN/1158/2023) - Kenntnis genommen
+- TOP 2.4: Verwendung der Ablösebeträge aus dem Kooperativen Baulandmodell - Kenntnis genommen
+- TOP 2.4.1: Verwendung der Ablösebeträge aus dem Kooperativen Baulandmodell (AN/0762/2023) - Kenntnis genommen
+- TOP 2.4.2: Beantwortung einer mündlichen Nachfrage zur Beantwortung (1623/2023) einer Anfrage der SPD-Fraktion (AN/0762/2023) aus der Sitzung vom 01.06.2023 betreffend "Verwendung von Ablösebeträgen aus dem Kooperativen Baulandmodell" - Kenntnis genommen
+- TOP 2.5: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 06.02.2023 (AN/0234/2023) betreffend „Angsträume unter einer Gender-Perspektive angehen" - Kenntnis genommen
+- TOP 2.6: Sachstand StEK Wohnen - Kenntnis genommen
+- TOP 2.6.1: Sachstand Stadtentwicklungskonzept Wohnen - Kenntnis genommen
+- TOP 2.7: Zweckverband Interkommunales Flächenmanagement - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.8: Strommast behindert Sichtachse zum Weltkulturerbe Kölner Dom - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.9: Insolvenz der Gerchgroup – Folgen für die Stadt Köln - Kenntnis genommen
+- TOP 2.9.1: Insolvenz der GerchGroup - Folgen für die Stadt Köln - Kenntnis genommen
+- TOP 2.10: Beantwortung einer schriftlichen Anfrage des stimmberechtigten Mitglieds Paul Intveen aus der Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik vom 14.11.2022 betreffend - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Anthrazit Konterrevolution - Gestaltungshandbuch mit Akzenten! - endgültig abgelehnt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - zurückgestellt
+- TOP 5.1.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Erstellung eines Seveso-III-Gutachtens für den Kölner Norden" - zurückgestellt
+- TOP 5.1.2: Erstellung eines SEVESO-III-Gutachten für den Kölner Norden - zurückgestellt
+- TOP 5.1.3: Änderungsantrag zu Top 5.1 (3115/2022): Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden (Vorlagen-Nummer AN/0648/2022) - zurückgestellt
+- TOP 5.2: Qualifizierungsmaßnahme für den Freiraum im Baublock zwischen Trierer, Mosel-, Pfälzer und Luxemburger Straße in Köln-Neustadt/Süd als Grundlage für die Bauleitplanung - ungeändert beschlossen
+- TOP 5.3: Beschluss über die Durchführung eines zweiphasigen städtebaulichen Wettbewerbsverfahrens für die Erweiterung der DEVK-Zentrale in Köln-Riehl - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 6.2: Sanierung des Funkturms Colonius - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 227. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 1, Köln-Deutz; Arbeitstitel: "Deutzer Hafen" in Köln-Deutz - ungeändert empfohlen
+- TOP 7.2: 228. Änderung des FNP - Integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - Feststellungsbeschluss - ungeändert empfohlen
+- TOP 7.3: 230. Änderung des Flächennutzungsplanes im Stadtbezirk 6, Köln- Chorweiler; Arbeitstitel: "Volkhovener Straße" in Köln-Esch/ Auweiler Hier: Feststellungsbeschluss - ungeändert empfohlen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Frühzeitige Öffentlichkeitsbeteiligung nach § 3 Absatz 1 Baugesetzbuch (BauGB) Arbeitstitel: Von-Hünefeld-Straße in Köln-Ossendorf, 2. Änderung - ungeändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungkonzept Nachtigallenstraße in Köln-Porz-Wahn; Anhörung der Bezirksvertretung 7 (Porz) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Trierer Straße in Köln-Neustadt/Süd, Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung hier: Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurf - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel "Maarhäuser Weg / Hansestraße" in Köln-Porz-Gremberghoven - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag zur Beschlussvorlage 0333/2023 „Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Maarhäuserweg / Hansestraße i - ungeändert beschlossen
+- TOP 10.1.2: Änderungsantrag zu Top 10.1 (0333/2023): Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung. Arbeitstitel: Maarhäuserweg / Hansestraße in Köln - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Thyssen - geändert beschlossen
+- TOP 10.3: Städtebauliches Planungskonzept Hauptstraße/Urbacher Weg in Köln-Porz; Anhörung der Bezirksvertretung 7 (Porz) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - Arbeitstitel: Mündel-/ Zehntstraße in Köln-Mülheim - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Einzelhandel und Büro - zurückgestellt
+- TOP 10.7: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Widdersdorfer Straße 158 und 188a in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.8: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar - ohne Votum in nachfolgende Gremien
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert empfohlen
+- TOP 12.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert empfohlen
+- TOP 12.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert empfohlen
+- TOP 12.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln Altstadt/Nord bezüglich der Kölner Ringstraßen mit ihren Plätzen und Seitenstraßen: - ungeändert empfohlen
+- TOP 12.5: Sammelbeschluss zu den Satzungen über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln bezüglich der Kölner Ringstraßen mit Ihren Plätzen und Seitenstraßen - ungeändert empfohlen
+- TOP 12.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 59569/05 - Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - ohne Votum in nachfolgende Gremien
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Änderung des Bebauungsplanes Nummer 63459/04 mit dem Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - ungeändert beschlossen
+- TOP 13.2: Änderung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes mit dem Arbeitstitel: Sicherung der Clubkultur im Bereich Lichtstraße/Grüner Weg in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage Entwurf zur Änderung des Bebauungsplans 71380/03, Sürther Feld in Köln-Rodenkirchen,1. Änderung - Kenntnis genommen
+- TOP 17.2: 236. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz, Arbeitstitel: "Leidenhausener Straße" in Köln-Porz/Eil Hier: Mitteilung über die Offenlage gemäß § 3 Absatz 2 Baugesetzbuch - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Managementbericht des Dezernates V - Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 18.2: Unterstützungsangebot für private Eigentümer*innen von leerstehenden Wohnungen - Kenntnis genommen
+- TOP 18.3: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 18.4: Kölner Statistische Nachrichten 3/2023 – Auswertung der Bautätigkeitsstatistik 2022 - Kenntnis genommen
+- TOP 18.5: Agglomerationsprogramm Region Köln/Bonn hier: Projektinformation und Sachstand - Kenntnis genommen
+- TOP 18.6: Bericht über die Zeitplanung der laufenden Regionalplanverfahren im Regierungsbezirk Köln - Kenntnis genommen
+- TOP 18.7: Bevölkerung 2022 - Deutliches Wachstum durch Zuzüge aus dem Ausland - Kenntnis genommen
+- TOP 18.8: Leitbild für die Handelslagen Hohe Str./Schildergasse und Umfeld in der Innenstadt: Vorlage des Abschlussberichts - Kenntnis genommen
+- TOP 18.9: Deutzer Hafen: 2. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 18.10: Niederschriften des Begleitgremiums Parkstadt Süd - Kenntnis genommen
+- TOP 18.11: Vorhabenbezogener Bebauungsplan Oranienstraße - Ergebnis Qualifizierungs- und Beteiligungsverfahren - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.12: Information zum Beschluss über Stellungnahmen sowie Satzungsbeschluss zum Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 71356/02, Arbeitstitel: An der Mühle in Köln-Porz-Langel - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.13: Räumliches Entwicklungskonzept LiebigQuartier – Start der Online-Öffentlichkeitsbeteiligung - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.14: Vorhabenbezogener Bebauungsplan mit dem Arbeitstitel Astrid-Lindgren-Allee in Köln-Kalk-Brück: Ergebnis Qualifizierungsverfahren - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.15: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2022) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.16: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Kalk - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.17: Sofortprogramms zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Porz - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.18: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Ehrenfeld - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.19: Weiterführung der ISG Severinstraße als freiwilliger Zusammenschluss - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.20: Ergänzung zu Grundsatzbeschluss Umsetzungsmodell Kreuzfeld 0574/2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 18.21: Initiative „PorzPlant!“ - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
