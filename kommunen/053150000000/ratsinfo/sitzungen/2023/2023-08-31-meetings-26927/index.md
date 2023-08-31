@@ -1,0 +1,112 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-31T17:04:00+02:00
+- Ende: 2023-08-31T19:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26927
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26927
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: I - Antrag der SPD Fraktion "Akuelle Stunde - Raser- und Poserproblematik auf der Alfred-Schütte-Allee" - endgültig zurückgezogen
+- TOP -: Antrag Aktuelle Stunde der Fraktionen CDU und Bündnis 90/ Die Grünen "Durchführung von traditionellen Festen an angestammten Plätzen mit Alkoholausschankauf oder an Kinderspielplätzen" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: II - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Wegebenennung "Jürgen-Schumann-Weg" querend den "Senkelsgraben" hinter der "Gernotstr. 6" in 51147 Köln entlang der Zufahrt zu den Toren des Bauspielplatzes, Gernotstr. 10 - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Poller Holzweg/Baumschulenweg, Verkehrsschilderweiterung (Az.: 02-1600-83-23) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Straßenbaumkonzept Porz - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Straßenbaumkonzept (neu)" - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Straßenbaumkonzept Porz" - endgültig zurückgezogen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Straßenreinigungsverzeichnis" - ungeändert beschlossen
+- TOP 6.3: Stadtklima und Stadtverschönerungsprogramm 2023 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: 227. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 1, Köln-Deutz; Arbeitstitel: "Deutzer Hafen" in Köln-Deutz - ungeändert beschlossen
+- TOP 7.2: Städtebauliches Planungskonzept Hauptstraße/Urbacher Weg in Köln-Porz; Anhörung der Bezirksvertretung 7 (Porz) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, - ungeändert beschlossen
+- TOP 7.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 7.4: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 7.5: 289. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 7.6: Städtebauliches Planungkonzept Nachtigallenstraße in Köln-Porz-Wahn; Anhörung der Bezirksvertretung 7 (Porz) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, - ungeändert beschlossen
+- TOP 7.7: Beleuchtung eines Verbindungsweges im Bereich Glashüttenstraße in Porz - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "50 Jahre Stadtbezirk Porz" - geändert beschlossen
+- TOP 8.2: Antrag der BBM - JBV "Instandsetzung Basketballplatz Porz-Langel" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Instandsetzung Basketballplatz Porz-Langel" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Instandsetzung Basketballplatz Porz-Langel" - endgültig abgelehnt
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Bewohnerparken im Grengel" - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion "Beleuchtung des Friedrich-Ebert-Platzes in der neuen Porzer Mitte" - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Parken auf der Siegburger Straße in Köln-Poll" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Überprüfung der Parksituation vor den neuen GAG Häusern an der Siegburger Straße zwischen Im Forst und Am Weizenacker“ - endgültig zurückgezogen
+- TOP 8.8: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Verkehrssicherheit in der Keimergasse in Zündorf“ - geändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Resolution: Keine Erweiterung der Rodenkirchener Autobahnbrücke" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen SPD "Resolution Rodenkirchener Brücke" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Resolution Rodenkirchener Brücke" - endgültig abgelehnt
+- TOP 8.10: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Priorisierter Ausbau der Fernwärme in Zündorf“ - endgültig zurückgezogen
+- TOP 8.11: Antrag der SPD-Fraktion "Errichtung eines Trinkwasserbrunnens am Poller Marktplatz" - ungeändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion "Umsetzung der beschlossenen Anträge bezüglich Sozialarbeiter-Team und versetztes Parken in der Glashüttenstraße" - ungeändert beschlossen
+- TOP 8.13: Antrag der SPD-Fraktion "Antrag auf Sachstandsbericht „Neugestaltung Marktplatz Ensen“ - ungeändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Antrag auf Sachstandsbericht, Ergebnisse aus Fachgespräch Wochenmärkte Porz am 15.05.2023 mitteilen" - ungeändert beschlossen
+- TOP 8.15: Dringlichkeitsantrag der SPD-Fraktion "Radfahrstreifen auf der Kölner Straße, Öffentlichkeitsbeteiligung 30.08.2023 - 20.09.2023, zusätzlicher Vor-Ort-Termin" - ungeändert beschlossen
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Auslastung von Räumlichkeiten der Stadt Köln - Sache ist erledigt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Fraktion (AN/1186/2023) bezüglich "Generalsanierung des Schulgebäudes der Gemeinschaftsgrundschule Hohe Straße, Ensen und Neubau des Schulgebäudes für die Gemeinschaftsgrundschule Berliner Straße" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Generalsanierung GGS Hohe Straße, Ensen und Neubau GGS Berliner" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer mündlichen Nachfrage der SPD-Fraktion zur Vorlage 1542/2023 aus der Sitzung der BV Porz vom 11.05.2023 betr. Open Air Location Südbrücke - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/1169/2023) bezüglich der Generalinstandsetzung des Schulzentrums Zündorf in der Heerstraße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Markierungen auf dem Alfred-Moritz-Platz in 51143 Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion in der Bezirksvertretung Porz zur Sitzung am 31.08.2023 - Kenntnis genommen
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Sachstandsanfrage zum Prüfantrag zur Errichtung eines Fußgängerschutzes an der Bonner Str./Bergerstr. in Köln-Porz-Eil –AN/0742/2020 und AN/807/2021 und AN/2208/2021 und AN/1517/202 - zurückgestellt
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Bolzplatz An den Maien in Köln-Poll - Kenntnis genommen
+- TOP 9.2.6: Anfrage der SPD-Fraktion "AN/1693/2021 – Beschluss der Bezirksvertretung Porz vom 02.09.2021 – Mangel an Gesamtschulplätzen beheben – Grundstück Porzer Ringstraße nutzen" - zurückgestellt
+- TOP 9.2.7: Anfrage der Fraktion Bündnis 90/Die Grünen "Straßenbaumkonzept Porz" - zurückgestellt
+- TOP 9.2.8: Anfrage der CDU-Fraktion "Cannabis Geschäft in Porz-Urbach?" - zurückgestellt
+- TOP 9.2.9: Anfrage der CDU-Fraktion "Planungen zum Neubau der Rodenkirchener Brücke" - zurückgestellt
+- TOP 9.2.10: Anfrage der CDU-Fraktion "Baumschutz/ Verkehrssicherung Wahner Straße von Zündorf nach Wahn" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.1.1: Mitteilung zum 7. Dialogforum A 4 plus - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Deutzer Hafen: 2. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 10.2.2: aurelis UnternehmerPark- 1. Bauabschnitt - Kenntnis genommen
+- TOP 10.2.3: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.4: Dokumentation des Arbeitstreffens zur Personalsituation in der Kindertagesbetreuung am 26.05.2023 - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote - Sportboxen - Kenntnis genommen
+- TOP 10.2.6: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.7: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 10.2.8: Straßenbenennungen im Baugebiet Poller Damm - Kenntnis genommen
+- TOP 10.2.9: Aufstellung einer Mobiltoilette im Bereich des Marktplatzes Poll, Siegburger Straße - Kenntnis genommen
+- TOP 10.2.10: Aufstellung einer Mobiltoilette im Bereich der Glashüttenstraße - Kenntnis genommen
+- TOP 10.2.11: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 10.2.12: Umbenennung von Buslinien im interkommunalen Verkehr - Kenntnis genommen
+- TOP 10.2.13: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.14: Information zum Beschluss über Stellungnahmen sowie Satzungsbeschluss zum Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 71356/02, Arbeitstitel: An der Mühle in Köln-Porz-Langel - Kenntnis genommen
+- TOP 10.2.15: Information zum Beschluss des Verwaltungsgerichts Köln vom 02. August 2023 zur Verkehrsanordnung „Deutzer Freiheit“, zum weiteren Vorgehen „Verkehrsversuch Venloer Straße“ und zum erweiterten Prüfumfang von laufenden Verkehrsmaßnahmen im Zusammenhang - Kenntnis genommen
+- TOP 10.2.16: Langeler Wiesenfest der Karnevalsgesellschaft Rut-Wies Löstige Langeler e.V. - Kenntnis genommen
+- TOP 10.2.17: 236. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz, Arbeitstitel: "Leidenhausener Straße" in Köln-Porz/Eil Hier: Mitteilung über die Offenlage gemäß § 3 Absatz 2 Baugesetzbuch - Kenntnis genommen
+- TOP 10.2.18: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.19: Sofortprogramms zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Porz - Kenntnis genommen
+- TOP 10.2.20: Initiative „PorzPlant!“ - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
+- TOP -: Anfrage der SPD-Fraktion "Pachtverhältnis ehemalige Schießsportanlage Hubertusweg, Poll" - Sache ist erledigt
