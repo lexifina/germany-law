@@ -1,0 +1,55 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-08-31T17:00:00+02:00
+- Ende: 2023-08-31T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6681
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6681
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00223700.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 15. Sitzung des AFBW vom 25.05.2023 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Ergänzender Bericht zum Vortrag der NEW mobil & aktiv Mönchengladbach GmbH Vorlage 2068/X vom 2.2.23 - Kenntnisnahme
+- TOP 3: Vorstellung und Bericht über die Stadtsparkasse Mönchengladbach - Kenntnisnahme
+- TOP 4: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2022 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 5: Entlastung der Sparkassenorgane für das Geschäftsjahr 2022 - Einstimmiger Beschluss
+- TOP 6: Mündlicher Finanzbericht des Kämmerers zur Haushaltsbewirtschaftung 2023 und zur Haushaltsplanaufstellung 2024 - Kenntnisnahme
+- TOP 7: Abschluss der Leistungsphase 3 (Entwurfsplanung) und die Vorlage der Wirtschaftlichkeitsberechnung zum Projekt Rathaus der Zukunft mg+ - An den Hauptausschuss verwiesen
+- TOP 8: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden - An den Hauptausschuss verwiesen
+- TOP 9: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Anpassung des Gesellschaftsvertrages der WFMG - Wirtschaftsförderung Mönchengladbach GmbH und Kapitalerhöhung - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der NEW Kommunalholding GmbH über die NEW AG an der NEW Tönisvorst GmbH - Einstimmiger Beschluss
+- TOP 11: Beteiligung der Stadt Mönchengladbach über die NEW Kommunalholding GmbH und die NEW AG an der ENNI Energie & Umwelt Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 12: Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 - Kenntnisnahme
+- TOP 13: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Grundsicherung im Alter und bei Erwerbsminderung (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 14: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Leistungen für Bildung- und Teilhabeleistungen (BuT) - Einstimmiger Beschluss
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (2. Nachweisung) - Kenntnisnahme
+- TOP 16: Einrichtung von Bezirkshaushalten - Kenntnisnahme
+- TOP 16.1: Antrag zu Vorlage 2544/X: Einrichtung von Bezirkshaushalten - Mit Stimmenmehrheit beschlossen
+- TOP 17: Verwendung der Haushaltsmittel aus der LDI 1433 - Sportanlage Rönneter Umkleidecontainer - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Modernisierung der Bezirkssportanlage Preyerstraße/Morr - Einstimmiger Beschluss
+- TOP 19: Inangriffnahme Qualifizierung der Sportanlage Odenkirchen-Süd - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Bestellung von Ombudspersonen in der Pflege und der Eingliederungshilfe - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Sockelbetragsfinanzierung der Verbände der Freien Wohlfahrtspflege - In den nächsten Ratszug geschoben
+- TOP 22: Bildung eines Jugendparlaments für die Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 22.1: Bildung eines Jugendparlaments für die Stadt Mönchengladbach, Antrag zu Vorlage 2455/X - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Soziale Stadt Gladbach und Westend – Beschluss der überarbeiteten Richtlinie zum Hof- und Fassadenprogramm für die Förderphase 2023-2027 - Einstimmiger Beschluss
+- TOP 24: "Von EinkaufsSTRAßE zu StadtQUARTIER - Die Zukunft beginnt heute" - Abweichende Beschlussempfehlung
+- TOP 25: „Schöner Ankommen in NRW“ – Information zum Förderprogramm des Landes für den Hauptbahnhof Mönchengladbach sowie weiteres Vorgehen im Rahmen der Antragstellung - Einstimmiger Beschluss
+- TOP 26: Neunzehnte Satzung über Einheitssätze zur Ermittlung des beitragsfähigen Erschließungsaufwandes - Einstimmiger Beschluss
+- TOP 27: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 28: Außenbereichssatzungen für den Bezirk West - insbesondere Rheindahlen-Land - An den Hauptausschuss verwiesen
+- TOP 29: Verlagerungen des Bahnhaltepunktes Rheindahlen - Ohne Beratung und Beschlussfassung verschoben
+- TOP 30: Nutzung Haus Dahlen - Abweichende Beschlussempfehlung
+- TOP 31: Anlage einer sogenannten „Hochzeitswiese“ im Bezirk West - Kenntnisnahme
+- TOP 32: Sozialkonto; hier: Antrag der Ratsfraktion DIE LINKE vom 14.08.2023 - An den Hauptausschuss verwiesen
+- TOP 33: Senkung von Abwassergebühren - Einstimmiger Beschluss
+- TOP 34: Kommunale Wärmeplanung; Hier: Fraktionsantrag der CDU, SPD, Grünen, FDP vom 21.08.23 - Einstimmiger Beschluss
+- TOP 35: Mittelstandsorientierte Verwaltung; Hier: Fraktionsantrag der SPD, Grünen, FDP vom 21.08.23 - An den Hauptausschuss verwiesen
+- TOP 36: Einnahmen aus Altkleidersammlungen; Hier: Fraktionsantrag der Linken vom 21.08.23 - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Mitteilung von II: Prüfung interkommunaler Zusammenarbeit mit einem gemeinsamen Schuldscheindarlehen (Social Loan/Green Loan) Krefeld, Mönchengladbach Neuss für Investitionen in Klimaschutz und Bildung - Kenntnisnahme
