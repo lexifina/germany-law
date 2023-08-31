@@ -1,0 +1,4 @@
+# Niedersächsische Verordnung über die Mindestanzahl von Erzeugerinnen und Erzeugern in Erzeugerorganisationen für Pilze (NMinErzOrgPilzeVO)
+
+Vom 16. August 2023 (Nds. GVBl. S. 200 - VORIS 78650 -)
+Aufgrund des § 4 Abs. 1 Nr. 2 Buchst. d Doppelbuchst. aa des Agrarorganisationen- und Lieferketten-Gesetzes in der Fassung vom 24. August 2021 (BGBl. I S. 4036), zuletzt geändert durch Artikel 2 Abs. 21 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2752), in Verbindung mit § 3 Abs. 4 Nr. 3 der Obst-Gemüse-Erzeugerorganisationendurchführungsverordnung vom 22. Juli 2022 (BGBl. I. S. 1197), zuletzt geändert durch Artikel 2 der Verordnung vom 4. Januar 2023 (BGBl. 2023 I Nr. 7), in Verbindung mit § 5 Nr. 10 der Subdelegationsverordnung vom 9. Dezember 2011 (Nds. GVBl. S. 487), zuletzt geändert durch Verordnung vom 21. Juni 2023 (Nds. GVBl. S. 131), wird verordnet:
