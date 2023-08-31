@@ -1,0 +1,84 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-08-31T17:00:00+02:00
+- Ende: 2023-08-31T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27829
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27829
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Antrag auf Durchführung einer Aktuellen Stunde zum Thema "Ausbau von Sportplätzen im Bezirk Chorweiler" - endgültig abgelehnt
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung der BV6 vom 25.01.2023 betreffend "fehlende Lehrmittel an weiterführenden Schulen im Bezirk Chorweiler" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage (BV) betreffend die Nahversorgung in Köln-Merkenich - Kenntnis genommen
+- TOP 7.1.3: Sachstand Berichtswesen - Beantwortung der Anfrage AN/0375/2023 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Damiansweg in Köln – Volkhoven/Weiler
+- TOP 7.2.2: Kölner Norden Linie 12
+- TOP 7.2.3: Großprojekt der Rheinenergie im Bereich Stockheimer Weg - endgültig zurückgezogen
+- TOP 7.2.4: Geplante Klärschlammverbrennung in Merkenich
+- TOP 7.2.5: Genehmigungsauflagen für Straßenfeste und ähnliche Feiern im Bezirk Chorweiler
+- TOP 7.2.6: Kita-Neubaubedarf in Köln-Merkenich mit Seveso III-Problematik
+- TOP 7.2.7: Fährboot-Ersatz für die Rheinfähre zwischen Köln-Langel und Leverkusen-Hitdorf
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Resolution: Demokratisches Vorbild für Köln - endgültig abgelehnt
+- TOP 8.2.2: Ortstermin zwecks Nutzung Schrottplatzes Causemannstr. Ecke Emdener Str. - ungeändert beschlossen
+- TOP 8.2.3: Verkehrsberuhigung Enzianweg - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufhebung der Straßenbezeichnung Sasser Weg in Köln - Worringen - endgültig abgelehnt
+- TOP 9.1.2: Einbeziehung eines Weges in den Senfweg in Köln-Worringen - endgültig abgelehnt
+- TOP 9.1.3: Grünausgleich Damiansweg - geändert beschlossen
+- TOP 9.1.4: Bestellung einer stellvertretenden Schriftführung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Grundsatzbeschluss Umsetzungsmodell Kreuzfeld / Vorzugsvariante - geändert beschlossen
+- TOP 9.2.1.1: Ergänzung zu Grundsatzbeschluss Umsetzungsmodell Kreuzfeld 0574/2023 - geändert beschlossen
+- TOP 9.2.2: 230. Änderung des Flächennutzungsplanes im Stadtbezirk 6, Köln- Chorweiler; Arbeitstitel: "Volkhovener Straße" in Köln-Esch/ Auweiler Hier: Feststellungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Beschleunigungspaket weiterführende Schulen - Generalsanierung und Neubau d. Schulgebäude Gesamtschule Holweide, Burgwiesenstraße, der Kaiserin-Theophanu-Schule, Kantstraße und der Heinrich-Böll-Gesamtschule, Merianstraße - Planungs- und Baubeschluss - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 59569/05 - Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - zurückgestellt
+- TOP 9.2.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.2.6: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 9.2.7: Sport- und Erholungsanlage Fühlinger See - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Herstellung einer signalisierten Querungsmöglichkeit über die Mercatorstraße und Wegeverbindung mit Anschluss an die Elbeallee in Köln-Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Tempo 30 auf der B9 in Worringen - Kenntnis genommen
+- TOP 10.2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Einrichtung eines Zebrastreifens an der Haltestelle Herstattallee in Seeberg, Aktenzeichen 31/23 - Kenntnis genommen
+- TOP 10.2.4: Schulwegsicherung/Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 10.2.5: Dokumentation des Arbeitstreffens zur Personalsituation in der Kindertagesbetreuung am 26.05.2023 - Kenntnis genommen
+- TOP 10.2.6: Sachstandsmitteilung zu den von der Bezirksvertretung Chorweiler priorisierten Straßenbaumaßnahmen - Kenntnis genommen
+- TOP 10.2.7: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 10.2.8: Tempo 30 auf der B9 in Worringen einrichten - Kenntnis genommen
+- TOP 10.2.9: Verbraucherberatung im Quartier: Jahresbericht 2022 - Kenntnis genommen
+- TOP 10.2.10: Sportentwicklungsplanung - Modellprojekt Innovation durch öffentliche Sportangebote - Sportboxen - Kenntnis genommen
+- TOP 10.2.11: Mitteilung Öffentlichkeitsarbeit Interkulturelle Zentren 2023 - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Fußweg zwischen Damiansweg 9 und Volkhovener Weg 216A und Absenkung des Bordsteins , AZ.: 57/23 - Kenntnis genommen
+- TOP 10.2.13: Kölner Anti Spray Aktion (KASA) - Bericht 2019-2022 - Kenntnis genommen
+- TOP 10.2.14: Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 10.2.15: Neusser Landstr. 5, Köln-Worringen, "Haus Fühlingen" - Kenntnis genommen
+- TOP 10.2.16: Fachtag "Misch MIT! - Kinder- und Jugendbeteiligung in Köln" Gesamtauswertung und nächste Schritte - Kenntnis genommen
+- TOP 10.2.17: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.18: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.19: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Erstellung eines Seveso-III-Gutachtens für den Kölner Norden" - Kenntnis genommen
+- TOP 10.2.20: Aufhebung der Parkraumbewirtschaftung in der Donatusstraße - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
