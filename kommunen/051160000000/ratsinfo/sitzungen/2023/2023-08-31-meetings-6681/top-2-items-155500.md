@@ -1,0 +1,8 @@
+# TOP 2: Ergänzender Bericht zum Vortrag der NEW mobil & aktiv Mönchengladbach GmbH Vorlage 2068/X vom 2.2.23
+
+- Sitzung: Ausschuss für Finanzen, Beteiligungen und Wirtschaft (2023-08-31)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/155500
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/34049
