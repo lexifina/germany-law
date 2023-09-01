@@ -837,7 +837,7 @@ Amtsgerichten
 - [§ 720 Hinterlegung bei Abwendung der Vollstreckung](0720.md)
 - [§ 720a Sicherungsvollstreckung](0720a.md)
 - [§ 721 Räumungsfrist](0721.md)
-- [§ 722 Vollstreckbarkeit ausländischer Urteile](0722.md)
+- [§ 722 Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung](0722.md)
 - [§ 723 Vollstreckungsurteil](0723.md)
 - [§ 724 Vollstreckbare Ausfertigung](0724.md)
 - [§ 725 Vollstreckungsklausel](0725.md)

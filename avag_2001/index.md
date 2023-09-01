@@ -107,3 +107,7 @@
 ### Abschnitt 7 Haager Übereinkommen vom 30. Juni 2005 über Gerichtsstandsvereinbarungen
 
 - [§ 58 Bescheinigungen zu inländischen Titeln](0058.md)
+
+### Abschnitt 8 Haager Übereinkommen vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen
+
+- [§ 59 Bescheinigungen zu inländischen Titeln](0059.md)

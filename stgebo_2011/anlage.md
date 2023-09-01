@@ -72,14 +72,17 @@ Gebühren des Bundes
 | 122 |  | Stundensatz für Reisezeiten für Maßnahmen nach den Gebührennummern 115 bis 120 | 61,40 |
 |  | 2. | Erfassung von Fahrzeugen und Fahrerlaubnissen |  |
 | 123 |  | Zuteilung einer Zulassungsbescheinigung Teil II (einschließlich der Aufstellung der Erfassungsunterlagen) |  |
-| 123.1 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde | 3,80 |
-| 123.2 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung | 6,70 |
+| 123.1 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde | 3,80 |
+| 123.2 |  | Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung | 6,70 |
 | 124 |  | Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister (ZFZR) –bei Fahrzeugen ohne Zulassungsbescheinigung Teil II–bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichenoder Berichtigung der Erfassungsunterlagen bei Halterwechsel | 2,60 |
 | 125 |  | Berichtigung der Erfassungsunterlagen für das ZFZR in anderen Fällen | 0,60 |
 | 126 |  | Aufstellung der Erfassungsunterlagen für das Zentrale Fahrerlaubnisregister (ZFER) |  |
 | 126.1 |  | bei Fahrerlaubnissen auf Probe | 1,80 |
 | 126.2 |  | in den übrigen Fällen | 1,00 |
-| 127 |  | Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens im ZFZR | 0,20 |
+| 127 |  | Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens oder einer Versicherungsplakette im ZFZR | 0,20 |
+|  | 2a | Großkundenschnittstelle beim Kraftfahrt-Bundesamt |  |
+| 128 |  | Registrierung einer juristischen Person des Privatrechts als Großkunde bei der Großkundenschnittstelle des Kraftfahrt-Bundesamtes | 3 220,00 |
+| 129 |  | Entgegennahme eines Antrages eines Großkunden durch die Großkundenschnittstelle [und Weiterleitung des Antrags an die zuständige Zulassungsbehörde] | 0,30 |
 |  | 3. | Mitwirkung bei der Aufbietung von Urkunden |  |
 | 131 |  | Aufbietung einer verlorenen Zulassungsbescheinigung Teil II, einschließlich der Kosten der öffentlichen Bekanntmachung | 5,10 |
 |  | 4. | Auskünfte und Informationen und Mitteilungen |  |
@@ -197,40 +200,45 @@ Gebühren der Behörden im Landesbereich
 |  | 2. | Zulassung/Umkennzeichnung von Kraftfahrzeugen/Anhängern |  |
 | 221 |  | Zulassung eines Kraftfahrzeugs/Anhängers |  |
 |  |  | Die Gebühren nach Nummern 221.1, 221.2, 221.3, 221.6 und 221.8 erhöhen sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer 225. |  |
-|  |  | Die Gebühren nach Nummern 221.1, 221.2 und 221.3 erhöhen sich, wenn der Abruf von Daten gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. |  |
+|  |  | Die Gebühren nach Nummern 221.1, 221.2 und 221.3 erhöhen sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. |  |
 |  |  | Die Gebühren nach den Nummern 221.1, 221.1.1, 221.2, 221.2.1, 221.10 und 221.10.1 erhöhen sich im Falle der Zuteilung einer vom regelmäßigen Zuteilungsverfahren der Zulassungsbehörde abweichenden Erkennungsnummer (Wunschkennzeichen) um 10,20 Euro. |  |
 |  |  | Die Gebühren nach Nummern 221.1, 221.2, 221.6 und 221.8 erhöhen sich im Falle des Umtauschs des Fahrzeugbriefs in eine Zulassungsbescheinigung Teil II um 5,10 Euro. Die Gebühren nach Nummern 221.1 und 221.2 erhöhen sich im Falle der Zuteilung eines Wechselkennzeichens um 6,00 Euro. |  |
-| 221.1 |  | Zulassung oder Wiederzulassung – jeweils außer in den Fällen der Nummern 221.1.1, 221.6 und 221.7 –, Änderung des Kennzeichens, Änderung des Betriebszeitraums beim Saisonkennzeichen, Wechsel der Kennzeichenart, wobei in diesen Fällen eine erneute Zulassungsgebühr oder eine Gebühr nach Nummer 221.2, 221.6 oder 221.8 nicht zusätzlich anfällt | 27,00 |
-| 221.1.1 |  | Internetbasierte Zulassung, internetbasierte Wiederzulassung außer im Fall der Nummer 221.7Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro. | 27,90 |
-| 221.2 |  | Umschreibung aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.2.1 | 27,00 |
-| 221.2.1 |  | Internetbasierte Umschreibung aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel – | 28,20 |
+| 221.1 |  | Zulassung oder Wiederzulassung – jeweils außer in den Fällen der Nummern 221.1.1, 221.6 und 221.7 –, Änderung des Kennzeichens, Änderung des Betriebszeitraums beim Saisonkennzeichen, Wechsel der Kennzeichenart, wobei in diesen Fällen eine erneute Zulassungsgebühr oder eine Gebühr nach Nummer 221.2, 221.6 oder 221.8 nicht zusätzlich anfällt | 30,00 |
+| 221.1.1 |  | Internetbasierte Zulassung, internetbasierte Wiederzulassung außer im Fall der Nummer 221.7 | 12,80 |
+|  |  | Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro |  |
+| 221.1.2 |  | Tageszulassung eines Fahrzeugs | 45,90 |
+| 221.1.3 |  | Internetbasierte Tageszulassung | 14,90 |
+| 221.2 |  | Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.2.1 | 27,10 |
+| 221.2.1 |  | Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel | 12,10 |
 | 221.3 |  | Entscheidung über die Zuteilung eines Ausfuhrkennzeichens | 31,40 |
 | 221.4 |  | Entscheidung über die Zuteilung von Kurzzeitkennzeichen | 10,20 |
 | 221.5 |  | Entscheidung über die Zuteilung von roten Kennzeichen | 25,60 bis 205,00 |
-| 221.6 |  | Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel mit nach § 14 Absatz 1 Satz 4 FZV reserviertem Kennzeichen –, außer im Fall der Nummer 221.7 | 11,60 |
-| 221.7 |  | Internetbasierte Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel und mit nach § 14 Absatz 1 Satz 4 reserviertem Kennzeichen –Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro. | 12,50 |
-| 221.8 |  | Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel –, außer im Fall der Nummer 221.8.1 | 16,70 |
-| 221.8.1 |  | Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel – | 17,00 |
-| 221.9 |  | Umschreibung aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.9.1 | 16,70 |
-| 221.9.1 |  | Internetbasierte Umschreibung aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel – | 17,00 |
-| 221.10 |  | Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel –, außer im Fall der Nummer 221.10.1 | 27,00 |
-| 221.10.1 |  | Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel –Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro. | 27,90 |
-| 222 |  | Zuteilung und Ausfertigung eines Vordrucks einer Zulassungsbescheinigung Teil II außerhalb eines ZulassungsverfahrensDiese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. | 10,20 |
+| 221.6 |  | Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel mit nach § 16 Absatz 1 Satz 4 FZV reserviertem Kennzeichen –, außer im Fall der Nummer 221.7 | 23,00 |
+| 221.7 |  | Internetbasierte Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel und mit nach § 16 Absatz 1 Satz 4 reserviertem Kennzeichen – Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro | 10,60 |
+| 221.8 |  | Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel -, außer im Fall der Nummer 221.8.1. | 24,20 |
+| 221.8.1 |  | Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel | 10,40 |
+| 221.9 |  | Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.9.1 | 23,60 |
+| 221.9.1 |  | Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel. | 9,90 |
+| 221.10 |  | Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel –, außer im Fall der Nummer 221.10.1. | 26,20 |
+| 221.10.1 |  | Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel – Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro. | 12,40 |
+| 221.11.1 |  | Elektronischer Antrag einer juristischen Person auf Zulassung, Wiederzulassung oder Außerbetriebsetzung, der über die Großkundenschnittstelle beim Kraftfahrt-Bundesamt abgewickelt wird. | entsprechend der Nummern 221.1.1, 221.7 oder 224 |
+| 221.11.2 |  | Soweit der Bearbeitungsaufwand aufgrund besonderer Umstände des Einzelfalls nicht durch die Gebühr nach Nummer 221.11.1 i.V.m. den Gebühren nach den Nummern 221.1.1, 221.7 oder 224 abgegolten ist, wird zusätzlich der Zeitaufwand berechnet. Die Gebühr hierfür beträgt je angefangene Viertelstunde Bearbeitungszeit 12,80 Euro. |  |
+| 222 |  | Zuteilung und Ausfertigung eines Vordrucks einer Zulassungsbescheinigung Teil II außerhalb eines ZulassungsverfahrensDiese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. | 10,20 |
 | 223 |  | Zuteilung und Ausfertigung der Zulassungsbescheinigung Teil II außerhalb eines Zulassungsverfahrens einschließlich Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV | 49,70 |
-|  |  | Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. |  |
+|  |  | Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro. |  |
 | 223.1 |  | Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach § 13 EG-FGV | 39,50 |
 | 224 |  | Außerbetriebsetzung |  |
-| 224.1 |  | innerhalb oder außerhalb des Zulassungsbezirks | 6,90 |
-| 224.2 |  | internetbasiert | 5,70 |
-| 224.3 |  | Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV gleichzeitig mit der Außerbetriebsetzung außer bei internetbasierter Außerbetriebsetzung | 5,10 |
-| 224.4 |  | Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV zu einem anderen Zeitpunkt als dem der Außerbetriebsetzung | 10,20 |
+| 224.1 |  | innerhalb oder außerhalb des Zulassungsbezirks | 15,90 |
+| 224.2 |  | internetbasiert | 2,10 |
+| 224.3 |  | (weggefallen) |  |
+| 224.4 |  | (weggefallen) |  |
 | 225 |  | Ausfertigung, Ersatz oder Änderung der nationalen oder internationalen Fahrzeugpapiere oder -bescheinigungen wegen Änderung persönlicher oder technischer Daten oder Unbrauchbarkeit oder Verlust einschließlich Erteilung einer Betriebserlaubnis sowie Fahrzeugidentitätsprüfung in anderen als in den nach Nummern 221 und 227 erfassten FällenDiese Gebühr erhöht sich bei der Ausstellung einer Zulassungsbescheinigung Teil I um 0,90 Euro. | 10,20 |
-| 225.1 |  | Internetbasierte Änderung der Anschrift des Halters innerhalb desselben Zulassungsbezirks | 11,40 |
+| 225.1 |  | Internetbasierte Änderung der Anschrift des Halters innerhalb desselben Zulassungsbezirks | 4,30 |
 | 226 |  | Auskunft aus dem Fahrzeugregister |  |
 | 226.1 |  | Auskunft aus dem Fahrzeugregister an die Auskunftsstelle nach § 8a des Pflichtversicherungsgesetzes | 3,10 |
 | 226.2 |  | Auskunft aus dem Fahrzeugregister bei Verrechnung über eine Zentralstelle der Versicherer | 3,10 |
 | 226.3 |  | Entscheidung über die Auskunft aus dem Fahrzeugregister in sonstigen Fällen, gegebenenfalls einschließlich der Auskunftserteilung | 5,10 |
-| 227 |  | Zulassungsfreie FahrzeugeDie Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer 225.Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten gemäß § 12 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der Zuteilung eines Wunschkennzeichens um 10,20 Euro. Die Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich im Falle des Umtauschs des Fahrzeugbriefs in eine Zulassungsbescheinigung Teil II um 5,10 Euro. |  |
+| 227 |  | Zulassungsfreie FahrzeugeDie Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer 225.Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der Zuteilung eines Wunschkennzeichens um 10,20 Euro. Die Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich im Falle des Umtauschs des Fahrzeugbriefs in eine Zulassungsbescheinigung Teil II um 5,10 Euro. |  |
 | 227.1 |  | Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach § 13 EG-FGV | 39,50 |
 | 227.2 |  | Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV und Zuteilung eines eigenen Kennzeichens | 55,60 |
 | 227.3 |  | Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel – | 27,00 |
@@ -282,7 +290,7 @@ Gebühren der Behörden im Landesbereich
 | 256 |  | Abnahme einer Versicherung an Eides statt durch Niederschrift bei der Verwaltungsbehörde (§ 5 StVG, § 9 Absatz 3 BKrFQV) | 30,70 |
 | 257 |  | Bewertung alternativer Lehr- und Lernmethoden und Medien zur Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars nach § 42 Absatz 2 FeV einschließlich der Auslagen für eine externe Begutachtung | 1 000,00 bis 10 000,00 |
 | 258 |  | Anerkennung eines Qualitätssicherungssystems für die verkehrspsychologische Teilmaßnahme des Fahreignungsseminars nach § 4a Absatz 8 StVG | nach dem Zeitaufwandmit 12,80 Euroje angefangene Viertelstunde Bearbeitungszeit |
-| 259 |  | Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4 EmoG in Verbindung mit § 9a Absatz 4 FZV | 11,00 |
+| 259 |  | Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4 EmoG in Verbindung mit § 14 Absatz 4 FZV | 11,00 |
 | 260 |  | Zuteilung eines Ausweises zur Kennzeichnung von Carsharingfahrzeugen nach § 2 Nummer 1 und § 4 Absatz 1 CsgG | 11,00 |
 |  | B. | Straßenverkehrs-Ordnung |  |
 | 261 |  | Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen | 10,20 bis 767,00 |

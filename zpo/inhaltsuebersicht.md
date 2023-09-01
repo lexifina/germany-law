@@ -814,7 +814,7 @@
 | § 720 | Hinterlegung bei Abwendung der Vollstreckung |
 | § 720a | Sicherungsvollstreckung |
 | § 721 | Räumungsfrist |
-| § 722 | Vollstreckbarkeit ausländischer Urteile |
+| § 722 | Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung |
 | § 723 | Vollstreckungsurteil |
 | § 724 | Vollstreckbare Ausfertigung |
 | § 725 | Vollstreckungsklausel |

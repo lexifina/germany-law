@@ -483,42 +483,42 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | Lfd. Nr. | Tatbestand | Fahrzeug-Zulassungs- verordnung(FZV) | Regelsatz in Euro (€), Fahrverbot in Monaten |
 |  | c) Fahrzeug-Zulassungsverordnung |  |  |
 | Mitführen von Fahrzeugpapieren |  |  |
-| 174 | Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung nicht mitgeführt | § 4 Absatz 5 Satz 1 § 11 Absatz 6 § 26 Absatz 1 Satz 6 § 48 Nummer 5 | 10 € |
+| 174 | Die Zulassungsbescheinigung Teil I oder sonstigeBescheinigung nicht mitgeführt | § 4 Absatz 5 Satz 1§ 13 Absatz 6 Satz 1§ 31 Satz 3§ 52 Absatz 1 Satz 6§ 77 Nummer 4 | 10 € |
 |  | Zulassung |  |  |
-| 175 | Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EG-Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer öffentlichen Straße in Betrieb gesetzt | § 3 Absatz 1 Satz 1 § 4 Absatz 1 § 48 Nummer 1 | 70 € |
-| 175a | Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße in Betrieb gesetzt | § 8 Absatz 1a Satz 6 § 9 Absatz 3 Satz 5 § 16a Absatz 4 Satz 3 § 19 Absatz 1 Nummer 4 Satz 3 § 48 Nummer 1 | 50 € |
-| 176 | Das vorgeschriebene Kennzeichen an einem von der Zulassungspflicht ausgenommenen Fahrzeug nicht geführt | § 4 Absatz 2 Satz 1, Absatz 3 Satz 1, 2 § 48 Nummer 3 | 40 € |
-| 177 | Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit einem unvollständigem Wechselkennzeichen auf einer öffentlichen Straße abgestellt | § 8 Absatz 1a Satz 6 § 9 Absatz 3 Satz 5 § 48 Nummer 9 | 40 € |
+| 175 | Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EU-Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer öffentlichen Straße in Betrieb gesetzt | § 3 Absatz 1 Satz 1§ 4 Absatz 1§ 77 Nummer 1 | 70 € |
+| 175a | Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße in Betrieb gesetzt | § 9 Absatz 2 Satz 6 Nummer 1§ 10 Absatz 3 Satz 6 Nummer 1§ 42 Absatz 4 Satz 3§ 45 Absatz 2 Satz 5§ 77 Nummer 1 | 50 € |
+| 176 | Das vorgeschriebene Kennzeichen an einem von der Zulassungspflicht ausgenommenen Fahrzeug nicht geführt | § 4 Absatz 2 Satz 1,Absatz 3 Satz 1, 2§ 77 Nummer 1 | 40 € |
+| 177 | Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße abgestellt | § 9 Absatz 2 Satz 6 Nummer 2§ 10 Absatz 3 Satz 6 Nummer 2§ 77 Nummer 10 | 40 € |
 |  | Betriebsverbot und -beschränkungen |  |  |
 | (178) | (aufgehoben) |  |  |
-| 178a | Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen die Pflichten beim Erwerb des Fahrzeugs nicht beachtet | § 13 Absatz 1 Satz 5, auch i. V. m. Absatz 4 Satz 7, Absatz 3 Satz 2 § 48 Nummer 7 | 40 € |
-| 179 | Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens | § 10 Absatz 12 i. V. m. § 10 Absatz 1, 2 Satz 2 und 3 Halbsatz 1, Absatz 6, 7, 8 Halbsatz 1, Absatz 9 Satz 1 auch i. V. m. § 16 Absatz 5 Satz 3 § 16a Absatz 3 Satz 4 § 17 Absatz 2 Satz 4 § 19 Absatz 1 Nummer 3 Satz 5 § 48 Nummer 1 | 10 € |
-| 179a | Fahrzeug in Betrieb genommen, obwohl das vorgeschriebene Kennzeichen fehlt | § 10 Absatz 12 i. V m. § 10 Absatz 5 Satz 1, Absatz 8 § 48 Nummer 1 | 60 € |
-| 179b | Fahrzeug in Betrieb genommen, dessen Kennzeichen mit Glas, Folien oder ähnlichen Abdeckungen versehen ist | § 10 Absatz 12 i. V. m. § 10 Absatz 2 Satz 1, Absatz 8 § 48 Nummer 1 | 65 € |
-| 179c | Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb genommen, ohne dass hierzu eine Berechtigung besteht und diese in der Zulassungsbescheinigung Teil I eingetragen ist | § 10 Absatz 11 Satz 3 § 48 Nummer 9b | 10 € |
+| 178a | Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen die Pflichten beim Erwerb des Fahrzeugs nicht beachtet | § 15 Absatz 1 Satz 5, auchi. V. m. Absatz 4 Satz 2,Absatz 5 Satz 8§ 77 Nummer 6 | 40 € |
+| 179 | Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens | § 12 Absatz 13 Satz 1i. V. m. § 12 Absatz 1, 2Satz 2 und 3,Absatz 6, 7, 8, 9 Satz 1,Absatz 10 Satz 1 auchi. V. m. § 41 Absatz 6 Satz 3§ 42 Absatz 3 Satz 4§ 43 Absatz 2 Satz 5§ 45 Absatz 2 Satz 5§ 77 Nummer 1 | 10 € |
+| 179a | Fahrzeug in Betrieb gesetzt, obwohl das vorgeschriebene Kennzeichen fehlt | § 12 Absatz 13 Satz 1i. V. m. § 12 Absatz 5 Satz 1,Absatz 9§ 77 Nummer 1 | 60 € |
+| 179b | Fahrzeug in Betrieb gesetzt, dessen Kennzeichen mit Glas, Folien oder ähnlichen Abdeckungen versehen ist | § 12 Absatz 13 Satz 1i. V. m. § 12 Absatz 2 Satz 1,Absatz 9§ 77 Nummer 1 | 65 € |
+| 179c | Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb gesetzt, ohne dass hierzu eine Berechtigung besteht und diese in der Zulassungsbescheinigung Teil I eingetragen ist | § 12 Absatz 12 Satz 3§ 77 Nummer 9 | 10 € |
 |  | Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem Verkehr, Verwertungsnachweis |  |  |
-| 180 | Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen | § 13 Absatz 1 Satz 1 bis 4, Absatz 3 Satz 1, Absatz 4 Satz 1 erster Halbsatz, Satz 3 oder 4 § 48 Nummer 12 | 15 € |
-| 180a | Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lassen | § 15 Absatz 1 Satz 1, Absatz 2 Satz 1 § 48 Nummer 8 Buchstabe b | 15 € |
+| 180 | Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen | § 15 Absatz 1 Satz 1 bis 3, Absatz 4 Satz 1, Absatz 5 Satz 1§ 77 Nummer 13 und Nummer 14 | 15 € |
+| 180a | Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lassen | § 17 Absatz 1 Satz 1,Absatz 2 Satz 1§ 77 Nummer 7 | 15 € |
 |  | Internetbasierte Zulassung |  |  |
-| 180b | Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht | § 15i Absatz 5 Satz 1 § 48 Nummer 14 | 40 € |
-| 180c | Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht | § 15i Absatz 5 Satz 2 § 48 Nummer 14a | 65 € |
-| 180d | Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt | § 15i Absatz 5 Satz 3 § 48 Nummer 1 Buchstabe c | 70 € |
-| 180e | Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet | § 15i Absatz 5 Satz 4 § 48 Nummer 2 | 70 € |
+| 180b | Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht | § 26 Absatz 5 Satz 1§ 77 Nummer 20 | 40 € |
+| 180c | Als Halter einen Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht | § 26 Absatz 5 Satz 2§ 77 Nummer 21 | 65 € |
+| 180d | Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt | § 26 Absatz 5 Satz 3§ 77 Nummer 1 | 70 € |
+| 180e | Als Halter die Inbetriebsetzung eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet | § 26 Absatz 5 Satz 4§ 77 Nummer 2 | 70 € |
 |  | Rote Kennzeichen, Kurzzeitkennzeichen |  |  |
-| 181 | Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben | § 16 Absatz 2 Satz 3, 7 § 48 Nummer 15, 18 | 10 € |
+| 181 | Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben | § 41 Absatz 3 Satz 1, 6§ 77 Nummern 23 und 25 | 10 € |
 | 181a | (aufgehoben) |  |  |
 | 181b | (aufgehoben) |  |  |
-| 182 | Kurzzeitkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet | § 16a Absatz 3 Satz 1 § 48 Nummer 18a | 50 € |
-| 183 | Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über Prüfungs-, Probe- oder Überführungsfahrten verstoßen | § 16 Absatz 2 Satz 5, 6 § 48 Nummer 6, 17 | 25 € |
-| 183a | Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen nicht mitgeführt | § 16 Absatz 2 Satz 4 § 17 Absatz 2 Satz 1 § 48 Nummer 5 | 10 € |
-| 183b | Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt | § 16a Absatz 5 Satz 3 § 48 Nummer 5 | 20 € |
+| 182 | Kurzzeitkennzeichen oder Oldtimerkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet | § 42 Absatz 3 Satz 1§ 43 Absatz 2 Satz 1§ 77 Nummer 26 | 50 € |
+| 183 | Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über die Fahrten mit rotem Kennzeichen verstoßen | § 41 Absatz 3 Satz 3, 4 und 5§ 77 Nummer 5, 24 | 25 € |
+| 183a | Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen nicht mitgeführt | § 41 Absatz 3 Satz 2§ 43 Absatz 2 Satz 2§ 77 Nummer 4 | 10 € |
+| 183b | Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt | § 42 Absatz 5 Satz 3§ 77 Nummer 4 | 20 € |
 |  | Versicherungskennzeichen und -plaketten |  |  |
-| 184 | Fahrzeug in Betrieb genommen, dessen Versicherungskennzeichen oder -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der vorgeschriebenen Versicherungsplakette | § 27 Absatz 7 § 29a Absatz 4 § 48 Nummer 1 Buchstabe c | 10 € |
+| 184 | Fahrzeug in Betrieb gesetzt, dessen Versicherungskennzeichen oder -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der vorgeschriebenen Versicherungsplakette | § 53 Absatz 7§ 56 Absatz 4§ 77 Nummer 1 | 10 € |
 |  | Ausländische Kraftfahrzeuge |  |  |
-| 185 | Zulassungsbescheinigung oder die Übersetzung des ausländischen Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt | § 20 Absatz 5 § 48 Nummer 5 | 10 € |
-| 185a | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das heimische Kennzeichen oder das Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren Anbringung geführt | § 21 Absatz 1 Satz 1 Halbsatz 2, Absatz 2 Satz 1 Halbsatz 2 § 48 Nummer 19 | 10 € |
-| 185b | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das vorgeschriebene heimische Kennzeichen nicht geführt | § 21 Absatz 1 Satz 1 Halbsatz 1 § 48 Nummer 19 | 40 € |
-| 185c | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das Unterscheidungszeichen nicht geführt | § 21 Absatz 2 Satz 1 Halbsatz 1 § 48 Nummer 19 | 15 € |
+| 185 | Zulassungsbescheinigung oder die Übersetzung des ausländischen Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt | § 46 Absatz 6§ 77 Nummer 4 | 10 € |
+| 185a | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das heimische Kennzeichen oder das Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren Anbringung geführt | § 47 Absatz 1 Satz 1,Absatz 2 Satz 1§ 77 Nummer 27 | 10 € |
+| 185b | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das vorgeschriebene heimische Kennzeichen nicht geführt | § 47 Absatz 1 Satz 1§ 77 Nummer 27 | 40 € |
+| 185c | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das Unterscheidungszeichen nicht geführt | § 47 Absatz 2 Satz 1§ 77 Nummer 27 | 15 € |
 | Lfd. Nr. | Tatbestand | Straßenverkehrs- Zulassungs-Ordnung (StVZO) | Regelsatz in Euro (€), Fahrverbot in Monaten |
 |  | d) Straßenverkehrs-Zulassungs-Ordnung |  |  |
 |  | Untersuchung der Kraftfahrzeuge und Anhänger |  |  |
@@ -729,11 +729,8 @@ Vorsätzlich begangene Ordnungswidrigkeiten
 | 251a | Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne Begleitung geführt | § 48a Absatz 2 Satz 1 § 75 Nummer 15 | 70 € |
 |  | c) Fahrzeug-Zulassungsverordnung |  |  |
 |  | Aushändigen von Fahrzeugpapieren |  |  |
-| 252 | Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf Verlangen nicht ausgehändigt | § 4 Absatz 5 Satz 1 § 11 Absatz 6 § 26 Absatz 1 Satz 6 § 48 Nummer 5 | 10 € |
-|  | Betriebsverbot und Beschränkungen |  |  |
-| 253 | Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet | § 5 Absatz 1 § 48 Nummer 7 | 70 € |
-|  | d) Straßenverkehrs-Zulassungs-Ordnung |  |  |
-|  | Erlöschen der Betriebserlaubnis |  |  |
+| 252 | Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie vorgeschrieben ausgelegt | § 4 Absatz 5 Satz 1 § 13 Absatz 6 Satz 1 § 28 Satz 2 § 31 Satz 3 § 32 Absatz 2 § 52 Absatz 1 Satz 6 § 77 Nummer 4 und Nummer 22 | 10 € |
+| 253 | Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet | § 5 Absatz 1 § 77 Nummer 6 | 70 € |
 | 253a | Änderungen am Fahrzeug vorgenommen oder vornehmen lassen, die zum Erlöschen der Betriebserlaubnis führen | § 19 Absatz 2 Satz 3 § 69a Absatz 2 Nummer 1a |  |
 | 253a.1 | – als Hersteller oder Importeur |  | 800 € |
 | 253a.2 | – als Gewerbetreibender |  | 400 € |

@@ -328,7 +328,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | 1511 | Beendigung des gesamten Verfahrens durch Zurücknahme der Klage oder des Antrags vor dem Schluss der mündlichen Verhandlung oder, wenn eine mündliche Verhandlung nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird: Die Gebühr 1510 ermäßigt sich auf .......... | 99,00 € |
 |  | Erledigungserklärungen nach § 91a ZPO stehen der Zurücknahme gleich, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | 1512 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57 AVAG oder § 27 IntErbRVG .......... | 17,00 € |
-| 1513 | Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO oder über Anträge auf Ausstellung einer Bescheinigung nach § 1110 ZPO oder nach § 58 AVAG .......... | 22,00 € |
+| 1513 | Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO oder über Anträge auf Ausstellung einer Bescheinigung nach § 1110 ZPO oder nach § 58 oder § 59 AVAG .......... | 22,00 € |
 | 1514 | Verfahren nach § 3 Abs. 2 des Gesetzes zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887) geändert worden ist .......... | 66,00 € |
 | Abschnitt 2 Rechtsmittelverfahren |
 | 1520 | Verfahren über Rechtsmittel in den in den Nummern 1510 und 1514 genannten Verfahren .......... | 396,00 € |
@@ -925,7 +925,7 @@ Verfahren vor den Gerichten der Arbeitsgerichtsbarkeit
 | 8331 | Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde: Die Gebühr 8330 ermäßigt sich auf .......... | 0,8 |
 | Hauptabschnitt 4 Besondere Verfahren |
 | 8400 | Selbständiges Beweisverfahren .......... | 0,6 |
-| 8401 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57 oder § 58 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO | 17,00 € |
+| 8401 | Verfahren über Anträge auf Ausstellung einer Bescheinigung nach § 57, § 58 oder § 59 AVAG oder nach § 1110 ZPO sowie Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 ZPO | 17,00 € |
 | Hauptabschnitt 5 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 | 8500 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 78a des Arbeitsgerichtsgesetzes): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 55,00 € |
 | Hauptabschnitt 6 Sonstige Beschwerden und Rechtsbeschwerden |
