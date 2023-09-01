@@ -1,0 +1,24 @@
+# ÖPNV-Ausbau- Sachstandsbericht zur Umsetzung der für 2023 beschlossenen Maßnahmen sowie weitere Planungen für 2024
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0712/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2023-09-01
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=27243
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=27243
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=529060&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5020 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5021 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5027 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5032 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5033 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5039 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5046 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5045 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5053 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5052 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5007 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=5008 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4988 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4987 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
