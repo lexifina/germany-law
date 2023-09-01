@@ -1,0 +1,14 @@
+# Anlage 17 (zu § 53 Absatz 1 Satz 6)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+
+1. Versicherungskennzeichen
+  [Bild: bgbl1_2023_j01990_0620.jpg]
+  Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei Buchstaben, so sind Zahlen und Buchstaben in der Mitte der Zeile anzubringen. Der Abstand vom Rand ist entsprechend zu vergrößern; die übrigen Abstände dürfen nur bis zum angegebenen Höchstmaß vergrößert werden.
+2. Schrift
+  Schriftart und -größe nach DIN 1451-2:1986-02 (Anlage 4 Abschnitt 1 Nummer 2.3.1 und 2.3.2).
+3. Maße
+  | Art der Beschriftung | Schrifthöhe | Schriftbreite | Waagerechter Abstand der Ziffern und Buchstaben voneinander | Waagerechter Abstand derBeschriftung vom schwarzen, blauen oder grünen Rand mindestens | Senkrechter Abstand der Ziffern und Buchstaben voneinander | Senkrechter Abstand derBeschriftung vom schwarzen, blauen oder grünen Rand | Länge des Trennungsstriches | Breite des schwarzen, blauen oder grünen Randes | Höhe des Kennzeichens einschließlich schwarzem, blauem oder grünem Rand | Breite des Rahmens einschließlich schwarzem, blauem oder grünem Rand |
+  |  | mm | mm | mm | mm | mm | mm | mm | mm | mm | mm |
+  | a) | des Kennzeichens | 49 | 7 | Ziffern: 8 bis 15 Buchstaben: 5 bis 15 | Ziffern: 9 Buchstaben: 6 | 12 | 6 | – | 4 | 130 | 105,5 |
+  | b) | des unteren Randes | 4 | 0,57 | 1 | 2 | – | – | 2 | – | – | – |
+4. Ergänzungsbestimmungen
+  Die Ecken des Versicherungskennzeichens müssen mit einem Halbmesser von 10 mm abgerundet sein. Die Beschriftung des Kennzeichens darf nicht mehr als 1,5 mm über die Grundfläche hervortreten. Die Beschriftung erfolgt in fetter Mittelschrift, beim Zusammentreffen von mehr als 2 Buchstaben oder mehr als 2 Ziffern in fetter Engschrift. Der Buchstabe Q darf nicht verwendet werden. Die Farbtöne des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005, blau RAL 5012 und grün RAL 6010; der Farbton des Untergrundes des Kennzeichens ist weiß (ws) nach DIN 6171, Tabelle 3. Bei Verwendung von Stahlblech muss die Blechstärke mindestens 0,35 mm, bei Aluminiumblech mindestens 0,50 mm betragen. Wird anderes Material verwendet, so muss es eine entsprechende Festigkeit besitzen.
