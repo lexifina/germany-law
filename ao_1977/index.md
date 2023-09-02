@@ -296,7 +296,6 @@ und Vermögensmassen](0137.md)
 
 #### 3. Unterabschnitt Identifikationsmerkmal
 
-- [§ 139a Identifikationsmerkmal](0139a.md)
 - [§ 139b Identifikationsnummer](0139b.md)
 - [§ 139c Wirtschafts-Identifikationsnummer](0139c.md)
 - [§ 139d Verordnungsermächtigung](0139d.md)
