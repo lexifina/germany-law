@@ -1,0 +1,79 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-04T14:35:00+02:00
+- Ende: 2023-09-04T15:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27425
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27425
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen in der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2023 (Berichtswesen) - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.05.2023 - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.06.2023 - Kenntnis genommen
+- TOP 2.5: Beantwortung einer mündlichen Frage aus der Sitzung des Finanzausschusses vom 12.06.2023 - betreffend "Gesamtstädtisches Fördermittelmonitoring für akquirierte Fördermittel in 2022" - Kenntnis genommen
+- TOP 2.6: Handlungskonzept "Guter Lebensabend NRW" Erste Maßnahmen zur Umsetzung der im Rahmen der Projektlaufzeit vom 01.04.2021 - 31.12.2022 erarbeiteten Erkenntnisse und Handlungsnotwendigkeiten - Kenntnis genommen
+- TOP 2.7: Kölner Verkehrs-Betriebe AG (KVB): Finanzierung Deutschlandticket - Kenntnis genommen
+- TOP 2.8: Sponsoringrichtlinie - Kenntnis genommen
+- TOP 2.9: Sponsoringrichtlinie - Aktualisierung - zurückgestellt
+- TOP 2.10: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2022) - Kenntnis genommen
+- TOP 2.11: Sachstand Green Bond Platzierung - Kenntnis genommen
+- TOP 2.12: Urteil des Bundesverwaltungsgerichts zum Thema „kommunale Verpackungssteuer“ - Kenntnis genommen
+- TOP 2.13: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.07.2023 - zurückgestellt
+- TOP 2.14: Arbeitskreisrechnung zum Gemeindefinanzierungsgesetz 2024: Verschiebung der Altschuldenlösung und Änderungen zum Eckpunktepapier - zurückgestellt
+- TOP 2.15: Benehmensherstellung zur Festsetzung der Landschaftsumlage 2024 - zurückgestellt
+- TOP 2.16: Kulturförderabgabe – Zusätzliche Veranlagungen - zurückgestellt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Städtische Beteiligungsgesellschaften als Akteure städtischen Klimaschutzes - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer Anfrage der Fraktion Die Linke betreffend städtische Beteiligungsgesellschaften als Akteure städtischen Klimaschutzes (AN/0894/2023) - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Umbau der Kreuzung Luxemburger Straße/Eifelwall - Kenntnis genommen
+- TOP 6.2.2: Beschaffung von Fahrzeugen des Brandschutzes - Kenntnis genommen
+- TOP 6.2.3: Unterrichtung über Mehrkosten gem. § 25 Abs. 1 Nr. 2 KomHVO; Römisch-Germanisches Museum - vorgezogene notwendige Sanierung der Abdichtung über der Dombauhütte und über der Trafostation der RheinEnergie sowie notwendige Sanierungsmaßnahmen der Decke - Kenntnis genommen
+- TOP 6.2.4: Haushaltsrechtliche Unterrichtung des Rates gem. § 25 Abs.1 Nr. 2 KomHVO in Verbindung mit § 12 der Haushaltssatzung 2023/2024 - Kenntnis genommen
+- TOP 6.2.5: Haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés - Kenntnis genommen
+- TOP 6.2.6: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 hier: Sanierung der Bewässerungsleitung inkl. der Nebenleitungen und Bau eines Grundwa - Kenntnis genommen
+- TOP 6.2.7: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. 72, 72a, 51143 Köln-Zündorf - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung - zurückgestellt
+- TOP 6.3: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung des Neubaus. mit einer Einfachturnhalle für die Grundschule Gaedestraße 31, 50968 Köln-Marienburg im Teilfinanzplan 0301, Schulträgeraufgaben im Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 7.2: Aufstockung Beihilfe an den KSK - ungeändert beschlossen
+- TOP 7.3: GrünZug Nippes hier: Weiterplanungs- und Mittelfreigabebeschluss - geändert beschlossen
+- TOP 7.4: Baubeschluss für den barrierefreien Umbau von fünf Bushaltestellen (10 Haltekanten) der KVB-Linie 157 im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 7.5: Baubeschluss für die Generalsanierung des Unteren Weißen Weges - ungeändert beschlossen
+- TOP 7.6: 1. Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräten für das Amt für Verkehrsmanagement - ungeändert beschlossen
+- TOP 7.7: Ankauf eines Elfenbeinreliefs für das Museum Schnütgen - ungeändert beschlossen
+- TOP 7.8: Baubeschluss für die Umgestaltung der Kreuzung Neusser Straße/Kempener Straße/Auerstraße zu einem Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Knotenpunkten - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2021 - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines 2-zügigen Grundschulgebäudes mit 2 Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West - geändert beschlossen
+- TOP 10.3: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 10.4: Stadtklima und Stadtverschönerungsprogramm 2023 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 10.5: Beschleunigungspaket weiterführende Schulen - Generalsanierung und Neubau d. Schulgebäude Gesamtschule Holweide, Burgwiesenstraße, der Kaiserin-Theophanu-Schule, Kantstraße und der Heinrich-Böll-Gesamtschule, Merianstraße - Planungs- und Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Ombudsstelle für Geflüchtete - Verlängerung der Befristung bis Dezember 2025 - ungeändert beschlossen
+- TOP 10.7: Kulturraumzentrum Niehl (Delmenhorster Str. 20), Freigabe der restlichen investiven Auszahlungsermächtiugungen für den Umbau - ungeändert beschlossen
+- TOP 10.8: Bedarfsfeststellungs- und Planungsbeschluss für den Bau der zusätzlichen Stadtbahnhaltestellen Niehler Straße/Gürtel und Boltensternstraße/Gürtel der Linie 13 - ungeändert beschlossen
+- TOP 10.9: Verwendung des Überschusses aus dem Jahresabschluss 2020 - ungeändert beschlossen
+- TOP 10.10: Jahresabschluss Wirtschaftsjahr 2021/2022 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 10.11: Erneuerung der Raumlufttechnischen Anlagen (ausgenommen RLT-Anlage 5.1 Restaurierung) im Museum Ludwig und in der Philharmonie hier: Vergabe von Ingenieurleistgungen der Technischen Ausrüstung und weiterer Planungsleistungen - ohne Votum in nachfolgende Gremien
+- TOP 10.12: Erneuerung einer Raumlufttechnischen Anlage (RLT-Anlage 5.1 Restaurierung) im Gebäudekomplex Museum Ludwig – Philharmonie und damit einhergehende Sanierungsmaßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 10.13: Sanierung des Funkturms Colonius - ohne Votum in nachfolgende Gremien
+- TOP 10.14: Weiterentwicklung der Richtlinie "Gebäudesanierung und Erneuerbare Energien - klimafreundliches Wohnen": Fortführung als drei eigenständige Förderprogramme - ungeändert beschlossen
+- TOP 10.15: Sport- und Erholungsanlage Fühlinger See - ungeändert beschlossen
+- TOP 10.16: Bericht über die Prüfung des Jahresabschlusses und des Lageberichtes der Stadt Köln zum 31.12.2020 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
