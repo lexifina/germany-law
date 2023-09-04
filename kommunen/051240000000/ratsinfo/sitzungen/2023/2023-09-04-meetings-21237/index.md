@@ -1,0 +1,110 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-09-04T16:00:00+02:00
+- Ende: 2023-09-04T16:14:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21237
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21237
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00317729.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00318828.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung von neuen Stadtverordneten (nur Rat)
+- TOP 1.2: Entscheidung über die Zulässigkeit des Bürgerbegehrens gegen den Beschluss des Rates der Stadt Wuppertal vom 06.03.2023 (VO/1658/23) für den Bau einer Moschee an der Gathe.
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Nachhaltigkeitsstrategie - Beschlussvorlage VO/0214/23
+- TOP 2.1.1: Nachhaltigkeitsstrategie – Beschlussvorlage VO/0214/23
+- TOP 2.2: Zustand der Feuerwehr Wuppertal
+- TOP 2.2.1: Zustand der Feuerwehr Wuppertal - Große Anfrage der Einzelstadtverordneten Rajaa Rafrafi vom 01.08.2023 - Antwort der Verwaltung
+- TOP 2.3: Fahrradstraße (Neue Friedrichstraße) - Verwaltungsvorlage VO/0923/22/2-A
+- TOP 2.3.1: Fahrradstraße (Neue Friedrichstraße) – Beschlussvorlage VO/0923/22 2-A (VO/0721/23)
+- TOP 2.4: Neubesetzung Antidiskriminierungsstelle / Stellenausschreibung
+- TOP 2.4.1: Neubesetzung Antidiskriminierungsstelle / Stellenausschreibung
+- TOP 2.5: Hängeseilbrücke Seveso III-Richtlinie
+- TOP 2.5.1: Hängeseilbrücke Seveso III-Richtlinie
+- TOP 2.6: Sachstand alternativer Standort für das Autonome Zentrum
+- TOP 2.6.1: Sachstand alternativer Standort für das Autonome Zentrum
+- TOP 2.7: Mögliche Konzession für Bohrungen für Erdwärmepumpen im öffentlichen Raum
+- TOP 2.7.1: Mögliche Konzession für Bohrungen für Erdwärmepumpen im öffentlichen Raum
+- TOP 2.8: Sachstandsbericht zur Situation der Wirtschaftsförderung Wuppertal
+- TOP 2.9: Abschiebung nach Mauretanien
+- TOP 2.10: Aktueller Zustand der Fassade der Historischen Stadthalle – Anfrage der CDU-Fraktion vom 25.08.2023
+- TOP 2.10.1: Aktueller Zustand der Fassade der Historischen Stadthalle
+- TOP 2.11: Anfrage zum Artikel der taz vom 24.08.2023 „Ein Mann für zwei Nächte“
+- TOP 2.11.1: Anfrage zum Artikel der taz vom 24.08.2023 "Ein Mann für zwei Nächte"
+- TOP 2.12: Anfrage: Sachstand zur Einrichtung eines konstituierten Beirates Moscheebau an der Gathe, zur Sitzung des Rates der Stadt Wuppertal am 05.09.2023
+- TOP 2.12.1: Sachstand zur Einrichtung eines konstituierten Beirates Moscheebau an der Gathe
+- TOP 2.13: Schulcontainerbauten
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anregung gemäß § 24 GO NRW - Parktickets für Sitzungen - ungeändert beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Arbeitsmarktintegration braucht Verlässlichkeit – Massive Kürzungen im Bundeshaushalt verhindern - zur Beratung und Entscheidung verwiesen
+- TOP 4.2: Prüfauftrag: Verantwortungsvolle und regulierte Freigabe von Cannabis auf kommunaler Ebene – - zur Beratung und Entscheidung verwiesen
+- TOP 4.3: Sachstandsbericht zur weiteren Entwicklung der ursprünglich für 4Fields vorgesehenen Sportfläche - geändert beschlossen
+- TOP 4.4: Resolution Keine Mittelkürzungen bei der Bundeszentrale für politische Bildung - zur Beratung und Entscheidung verwiesen
+- TOP 4.5: Prüfauftrag: E-Scooter Abstellständer im öffentlichen Raum - zur Vorberatung verwiesen
+- TOP 4.6: Angebot von Wohnmobilstellplätzen in Wuppertal verbessern - zur Vorberatung verwiesen
+- TOP 4.7: Demokratie braucht den kritischen Diskurs - Der kritische Diskurs braucht Demokratie - zur Beratung und Entscheidung verwiesen
+- TOP 4.8: Zukunftsweisende Nachnutzung des Kaufhofgebäudes - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: 7. Änderung der Hauptsatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2023 - ungeändert beschlossen
+- TOP 7.2: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2022 - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Mittelbereitstellung für Hilfen zur Erziehung und Eingliederungshilfen - ungeändert beschlossen
+- TOP 7.4: Überplanmäßige Mittelbereitstellung für Investitionen in der Stadthalle - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Neufassung der Satzung des ESW Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.2: Neuvergabe der Strom- und Gaskonzessionen und Gestattungsvertrag Wärme - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2022 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2022 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2022 der Stadtsparkasse Wuppertal - Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 297A - Dasnöckel - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Denkmalgerechte Sanierung / Erneuerung der Jakobstreppe - ungeändert beschlossen
+- TOP 10.2: Instandsetzung der Brücke Kabelstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.3: Instandsetzung der Brücke Reichsgrafenstraße - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.4: Fördermaßnahme Grundhafte Erneuerung der Loher Brücke – Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.5: Neubau einer gemeinsamen integrierten Leitstelle der Städte Solingen und Wuppertal - Grundsatzbeschluss
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Zusammenlegung der Abendrealschule Am Ölberg mit dem Bergischen Kolleg - ungeändert beschlossen
+- TOP 11.2: Ersteinrichtung von zwei OGS-Gruppen an der Gemeinschaftsgrundschule Gewerbeschulstraße zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 11.3: Betriebskostenzuschüsse 2023 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.4: Zuschüsse zur Förderung der Jugendverbandsarbeit 2023 - ungeändert beschlossen
+- TOP 11.5: Verbindliche Bedarfsplanung 01.10.2023 – 30.09.2026 gem. § 7 (6) Alten- und Pflegegesetz NRW für die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.6: Nachhaltigkeitsstrategie für Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.6.1: Nachhaltigkeitsstrategie - zur Beratung und Entscheidung verwiesen
+- TOP 11.6.2: Antrag zur Tagesordnung, Ersetzungsantrag der Fraktionen von SPD, CDU und FDP vom 12.06.2023 zum Tagesordnungspunkt: Nachhaltigkeitsstrategie für Wuppertal, VO/0214/23 - zur Beratung und Entscheidung verwiesen
+- TOP 11.6.3: Nachhaltigkeitsstrategie für Wuppertal (VO/0214/23) - zur Beratung und Entscheidung verwiesen
+- TOP 11.7: Neuausrichtung des Vergabewesens in der Stadtverwaltung - ungeändert beschlossen
+- TOP 11.8: 2. Zwischenbericht InnenBandStadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.9: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.9.1: Ergänzungsantrag der Fraktionen von SPD, CDU und DIE LINKE und der Ratsgruppe FREIE WÄHLER zur Vorlage „Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal“ (VO/0354/23) - zur Beratung und Entscheidung verwiesen
+- TOP 11.10: Annahme der Schenkung von Kunstwerken - ungeändert beschlossen
+- TOP 11.11: Quartalsbericht II/2023 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.12: Verzicht auf die Ausübung des Vorkaufsrechts beim Kauf von Rechten nach dem Wohnungseigentumsgesetz / Erbbaurechtsgesetz gem. § 31 Denkmalschutzgesetz NRW - ungeändert beschlossen
+- TOP 11.13: Brandschutzbedarfsplan - zur Beratung und Entscheidung verwiesen
+- TOP 11.13.1: Brandschutzbedarfsplan 2023 - 2028 für die Stadt Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.14: Fortführung des Kompetenzzentrums Frau und Beruf Bergisches Städtedreieck mit Mitteln des Landes NRW - ungeändert beschlossen
+- TOP 11.15: EKOCity Verbandsangelegenheit - ungeändert beschlossen
+- TOP 11.16: Verwendung der Fördergelder für den Friedhof Norrenberg i.H.v. 100.000€ - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Neukonstituierung des Verbandsrats des Wupperverbands - zur Beratung und Entscheidung verwiesen
+- TOP 12.2: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 12.3: Bestellung der Geschäftsführung der Bundesgartenschau Wuppertal2031 gGmbH - ungeändert beschlossen
+- TOP 12.4: Gremiennachbesetzung im Ausschuss für Stadtentwicklung und Bauen und im Ausschuss für Wirtschaft, Arbeit und Nachhatigkeit - ungeändert beschlossen
+- TOP 12.5: Wechsel im Beirat der Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG) - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.8: Umbesetzung sonstige Gremien - ungeändert beschlossen
+- TOP 12.9: Umbesetzung Gremien - ungeändert beschlossen
+- TOP 12.10: Umbesetzung Aufsichtsgremien - ungeändert beschlossen
+- TOP 12.11: Wechsel eines Stellvertreters im Klimabeirat - ungeändert beschlossen
