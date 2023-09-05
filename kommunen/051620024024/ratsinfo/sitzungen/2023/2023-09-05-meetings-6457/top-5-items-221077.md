@@ -1,0 +1,8 @@
+# TOP 5: Bericht der St. Augustinus Gruppe über das Wohnprojekt für wohnungslose Frauen in sozialer Notlage
+
+- Sitzung: Ausschuss für Soziales, Inklusion und demografische Entwicklung (2023-09-05)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/221077
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/33983
