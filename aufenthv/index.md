@@ -63,7 +63,6 @@ Beförderungswesen
 
 ### Abschnitt 3 Visumverfahren
 
-- [§ 30a (weggefallen)](0030a.md)
 - [§ 31 Zustimmung der Ausländerbehörde zur Visumerteilung](0031.md)
 - [§ 31a Beschleunigtes Fachkräfteverfahren](0031a.md)
 - [§ 32 Zustimmung der obersten Landesbehörde](0032.md)
