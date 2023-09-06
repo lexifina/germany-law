@@ -1,0 +1,51 @@
+# 5. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-09-06T19:00:00+02:00
+- Ende: 2023-09-06T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5410
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5410
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=372710
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls vom 05.07.2023 - erledigt
+- TOP 3: Aktuelle Fragestunde und Bürgeranliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Haushaltsrisiken 2023 und Statusbericht 1. Halbjahr - erledigt
+- TOP 6: Überwiesene Drucksachen - (offen)
+- TOP 6.1: BiBo-Bike für Lichtenberg (ff) - vertagt
+- TOP 6.2: Diversity-Management Lichtenbergs ausweiten (ff) - vertagt
+- TOP 6.3: Digitale Sprachkurse schaffen - Volkshochschule unterstützen (ff) - vertagt
+- TOP 6.4: Safe Spaces in Lichtenberg schaffen (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.5: Personalbedarfe in Lichtenberger Sozialämtern besser feststellen (allein beratend) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.6: DS/0703/IX - Bürgerdienstleistungen verbessern - vertagt
+- TOP 6.7: Mobiles Bürgeramt in Karlshorst: Auch drinnen warten muss möglich sein (ff) - vertagt
+- TOP 6.8: Rekommunalisierung der Schulreinigung projektbasiert und strukturiert vorbereiten (ff) - vertagt
+- TOP 6.9: DS/0740/IX - Trinkwasser und Überdachung für den Elefantenspielplatz - vertagt
+- TOP 6.10: Erste-Hilfe-Kurse für Kitakinder (ff) - vertagt
+- TOP 6.11: Familienzentrum im Anna-Ebermann-Kiez (ff) - vertagt
+- TOP 6.12: Schöner unser Mühlengrund - ein Aktionsplan zur Aufwertung (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.13: Marode Einfassungsmauer neben den Glassammelbehältern am Eingang in den Rheinsteinpark in Karlshorst sanieren (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.14: Lichtenberger Tierschutzpreis (ff) - vertagt
+- TOP 6.15: Klimafreundlich unterwegs - Elektrofahrzeuge für das Bezirksamt (allein beratend) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.16: Lichtenberger Wanderpass (ff) - vertagt
+- TOP 6.17: Mit dem Hund ins Büro (ff) - vertagt
+- TOP 6.18: DS/0778/IX - Lichtenberg wird Mitglied im WHO-Netzwerk für altersfreundliche Städte - vertagt
+- TOP 6.19: Fest am Rathaus Lichtenberg am 1. Mai (ff) - vertagt
+- TOP 6.20: Kultur- und Bildungszentrum Hohenschönhausen (KuBiz) in I-Planung absichern (ff) - vertagt
+- TOP 6.21: Milieuschutzgebiet in Hohenschönhausen prüfen (allein beratend) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.22: Natur erleben und verstehen - Naturlehrpfad am Malchower See errichten (ff) - vertagt
+- TOP 6.23: Ein Pilotprojekt für Sozialbegleiter:innen im Familienzentrum ansiedeln (ff) - vertagt
+- TOP 6.24: Instandsetzung des Straßenbelags in der Einbecker Straße (ff) - vertagt
+- TOP 6.25: Fahrbahnquerung über die Waldowallee an der Wiesengrundstraße (ff) - mit Änderungen im Ausschuss beschlossen
+- TOP 6.26: DS/0815/IX - Gehwegsanierung im Bereich Joachimsthaler Straße / Biesenthaler Straße in Hohenschönhausen - vertagt
+- TOP 6.27: Dreckecke ade - BIM Fläche an der Massower Straße qualifizieren (ff) - vertagt
+- TOP 6.28: DS/0821/IX - Erstellung und Veröffentlichung eines energetischen Sanierungsfahrplans für die bezirklichen Gebäude entsprechend Berliner Energiewendegesetz (EWG Bln 2016) - vertagt
+- TOP 6.29: BVV-Sondermittel für das Weihnachtssingen des Lichtenberger Kammerchors Piekfeine Töne e.V. am 17.12.2023 - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Sonstiges - erledigt
