@@ -1,0 +1,63 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-09-06T17:00:00+02:00
+- Ende: 2023-09-06T19:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6686
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6686
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224200.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224200.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224200.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptausschusses vom 01.06.2023 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Abschluss der Leistungsphase 3 (Entwurfsplanung) und die Vorlage der Wirtschaftlichkeitsberechnung zum Projekt Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 3: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden - Einstimmiger Beschluss
+- TOP 3.1: Änderungsantrag zu 2522/X: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden; - Mit Stimmenmehrheit beschlossen
+- TOP 4: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Anpassung des Gesellschaftsvertrages der WFMG - Wirtschaftsförderung Mönchengladbach GmbH und Kapitalerhöhung - Mit Stimmenmehrheit beschlossen
+- TOP 5: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2022 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 6: Entlastung der Sparkassenorgane für das Geschäftsjahr 2022 - Einstimmiger Beschluss
+- TOP 7: Beteiligung der NEW Kommunalholding GmbH über die NEW AG an der NEW Tönisvorst GmbH - Einstimmiger Beschluss
+- TOP 8: Beteiligung der Stadt Mönchengladbach über die NEW Kommunalholding GmbH und die NEW AG an der ENNI Energie & Umwelt Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 9: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Grundsicherung im Alter und bei Erwerbsminderung (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (2. Nachweisung) - Kenntnisnahme
+- TOP 11: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Leistungen für Bildung- und Teilhabeleistungen (BuT) - Einstimmiger Beschluss
+- TOP 12: Einrichtung von Bezirkshaushalten - Kenntnisnahme
+- TOP 12.1: Antrag zu Vorlage 2544/X: Einrichtung von Bezirkshaushalten - Mit Stimmenmehrheit beschlossen
+- TOP 13: Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 - Kenntnisnahme
+- TOP 14: Personalbericht - HR Report 2023 - Kenntnisnahme
+- TOP 15: Verwendung der Haushaltsmittel aus der LDI 1433 - Sportanlage Rönneter Umkleidecontainer - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Modernisierung der Bezirkssportanlage Preyerstraße/Morr - Einstimmiger Beschluss
+- TOP 17: Inangriffnahme Qualifizierung der Sportanlage Odenkirchen-Süd - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Maßnahmen aus dem SEP 8 - Sekundarstufe I; - Mit Stimmenmehrheit beschlossen
+- TOP 19: Bestellung von Ombudspersonen in der Pflege und der Eingliederungshilfe - Einstimmiger Beschluss
+- TOP 20: Geschäftsordnung des Seniorenrates zur Kenntnisnahme - Kenntnisnahme
+- TOP 21: Bildung eines Jugendparlaments für die Stadt Mönchengladbach - An den Rat verwiesen
+- TOP 21.1: Bildung eines Jugendparlaments für die Stadt Mönchengladbach, Antrag zu Vorlage 2455/X - An den Rat verwiesen
+- TOP 22: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 Alten- und Pflegegesetz NRW (APG NRW) - Einstimmiger Beschluss
+- TOP 23: Wiederwahl der sachkundigen Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 24: 241. Änderung des FNP ("Radschnellverbindung Rheindahlen - Nordpark") - abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 25: Bebauungsplan Nr. 801/W ("Radschnellverbindung Rheindahlen - Nordpark") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 26: Soziale Stadt Gladbach und Westend – Beschluss der überarbeiteten Richtlinie zum Hof- und Fassadenprogramm für die Förderphase 2023-2027 - Einstimmiger Beschluss
+- TOP 27: 231. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach („REME-Gelände“), abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 28: Bebauungsplan Nr. 792/O ("REME Los 1"), Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 29: "Von EinkaufsSTRAßE zu StadtQUARTIER - Die Zukunft beginnt heute" - Abweichende Beschlussempfehlung
+- TOP 30: „Schöner Ankommen in NRW“ – Information zum Förderprogramm des Landes für den Hauptbahnhof Mönchengladbach sowie weiteres Vorgehen im Rahmen der Antragstellung - Einstimmiger Beschluss
+- TOP 31: Neunzehnte Satzung über Einheitssätze zur Ermittlung des beitragsfähigen Erschließungsaufwandes - Einstimmiger Beschluss
+- TOP 32: 3. Änderung Landschaftsplan - Einstimmiger Beschluss
+- TOP 33: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 34: Sozialkonto; hier: Antrag der Ratsfraktion DIE LINKE vom 14.08.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Außenbereichssatzungen für den Bezirk West - insbesondere Rheindahlen-Land - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Verlagerungen des Bahnhaltepunktes Rheindahlen - Abweichende Beschlussempfehlung
+- TOP 37: Nutzung Haus Dahlen - Abweichende Beschlussempfehlung
+- TOP 38: Anlage einer sogenannten „Hochzeitswiese“ im Bezirk West - Kenntnisnahme
+- TOP 39: Städtischer Mängelmelder; hier: Antrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen, FDP-Ratsfraktion vom 16.08.2023 - Abweichende Beschlussempfehlung
+- TOP 40: Kommunale Wärmeplanung - Fraktionsantrag der CDU, SPD, Grünen, FDP vom 21.08.23 - Einstimmiger Beschluss
+- TOP 41: Mittelstandsorientierte Verwaltung - Fraktionsantrag der SPD, Grünen, FDP vom 21.08.23 - Einstimmiger Beschluss
+- TOP 42: Einnahmen aus Altkleidersammlungen - Fraktionsantrag der Linken vom 21.08.23 - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 43: Anfragen und Mitteilungen
