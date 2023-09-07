@@ -1,0 +1,66 @@
+# 54. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-09-07T16:00:00+02:00
+- Ende: 2023-09-07T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12481
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12481
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00704577.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden einer Stadträtin und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 4: Aktuelle Stunde zu den Entwicklungen um das Pumpspeicherwerk Niederwartha und zur Zukunft des Stauseebades Cossebaude - erledigt
+- TOP 5: Fragerunde (1 Runde) - erledigt
+- TOP 5.1: Radwege Bautzner Straße
+- TOP 5.2: Wohngeld
+- TOP 5.3: Wohin kommt das Bad für Pieschen und die Neustadt?
+- TOP 5.4: Graffiti-Schmierereien an öffentlichen Bauten und Plätzen in Dresden
+- TOP 5.5: 59. Grundschule - seit Monaten kein Strom
+- TOP 5.6: Überwachung von Mitgliedern des Stadtrates und Mitarbeitenden der Verwaltung
+- TOP 5.7: Robotron-Kantine
+- TOP 5.8: Konsequenzen einer Ablehnung der Vorlage zur Planung des Ullersdorfer Platzes
+- TOP 6: Umbesetzung im Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum) - Zustimmung
+- TOP 7: Umbesetzung im Ausschuss für Finanzen - Zustimmung
+- TOP 8: Umbesetzung im Ausschuss für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 9: Umbesetzung im Ausschuss für Soziales und Wohnen - Zustimmung
+- TOP 10: Nachbesetzung eines Mitgliedes des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Zustimmung
+- TOP 11: Nachbesetzung eines/r Vertreters/-in der Landeshauptstadt Dresden in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Zustimmung
+- TOP 12: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 13: Jahresabschluss 2022 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 14: Jahresabschluss 2022 des Eigenbetriebes Kindertageseinrichtungen Dresden - Vertagung
+- TOP 15: Jahresabschluss 2022 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 16: Erbbaurechtsvertrag zum Johanneum Dresden - Zustimmung
+- TOP 17: Bildung von Wahlkreisen für die Stadtratswahl 2024 - Zustimmung mit Änderung
+- TOP 18: Mehrbedarf für Leistungen nach Asylbewerberleistungsgesetz sowie für die Unterbringung und Verpflegung geflüchteter Menschen im Jahr 2023 - punktweise Zustimmung
+- TOP 19: Abstimmungsvereinbarung mit der Reclay Systems GmbH - Duales System Redual zur Erfassung gebrauchter Verkaufsverpackungen und Nebenentgeltvereinbarung mit allen Dualen Systemen - Zustimmung
+- TOP 20: Vertagungen aus der Sitzung vom 06.07.2023 - erledigt
+- TOP 20.1: E-Petition „Beförderung von Anwohnerinteressen bei der Einrichtung und dem Betrieb der Containersiedlung in Sporbitz" - Vertagung nach 22 Uhr
+- TOP 20.2: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 22 Uhr
+- TOP 20.3: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung nach 22 Uhr
+- TOP 20.4: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 22 Uhr
+- TOP 20.5: Photovoltaik bei städtischen Gebäuden rasch ausbauen - Zustimmung mit Änderung
+- TOP 20.6: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 20.7: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung nach 22 Uhr
+- TOP 20.8: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten- Instandsetzungen langfristig planen - Vertagung nach 22 Uhr
+- TOP 20.9: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung nach 22 Uhr
+- TOP 20.10: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung nach 22 Uhr
+- TOP 20.11: Tag der Krisenvorsorge - Notfall üben - Vertagung durch Einreicher
+- TOP 20.12: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung nach 22 Uhr
+- TOP 20.13: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Verweisung
+- TOP 20.14: Zusätzliche Baumreihen westlicher Promenadenring - Vertagung durch Einreicher
+- TOP 20.15: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung nach 22 Uhr
+- TOP 21: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Vertagung durch Einreicher
+- TOP 22: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung nach 22 Uhr
+- TOP 23: Effektives Verwaltungsmanagement im Kontext Asyl und Migration - Vertagung nach 22 Uhr
+- TOP 24: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Vertagung nach 22 Uhr
+- TOP 25: Digitale Stadtpolitik für alle zugänglich machen – Die ganze Stadt im Blick - Vertagung nach 22 Uhr
+- TOP 26: EILANTRAG: Versprechen stabiler Elternbeiträge in Kita und Hort halten – Änderung der Elternbeitragssatzung - Zustimmung mit Ergänzung
+- TOP 27: Vorschusszahlungen beim Wohngeld - Betroffene unbürokratisch entlasten - Ersetzung
+- TOP 28: Einschränkung der Haushaltssperre gemäß § 30 SächsKommHVO - Vertagung durch Einreicher
