@@ -1,0 +1,54 @@
+# Ausschuss für Planung, Stadtentwicklung und Mobilität
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-09-07T17:00:00+02:00
+- Ende: 2023-09-07T21:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/223
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6453
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6453
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket 2 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00191333.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestellung einer stellvertretenden Schriftführerin für den Ausschuss Planung, Stadtentwicklung und Mobilität der Stadt Neuss - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 5: ISEK "Hammfeld - Gemeinsam an den Rhein" – Beschluss über den Maßnahmenplan - verwiesen
+- TOP 6: Entwicklung Hammfeld I - verwiesen
+- TOP 7: LAGA: Eingang West, Entwurfsbeschluss - verwiesen
+- TOP 8: LAGA: Eingang Ost, Knotenpunkt Langemarckstraße/ Stresemannallee - verwiesen
+- TOP 9: LAGA: Eingang Süd-Ost, Querung Stresemannallee (Hammfeld) - verwiesen
+- TOP 10: LAGA: Eingang Süd, Stresemannallee und Haltestelle Stadthalle - verwiesen
+- TOP 11: vorhabenbezogener Bebauungsplan Nr. V 492 - Hammfeld II (West), Zweiradfachmarkt - (erneuter) Einleitungsbeschluss und Auslegungsbeschluss - mehrheitlich zugestimmt
+- TOP 12: Fortführung Schnellbus SB 53 - einstimmig zugestimmt
+- TOP 13: Maßnahmen zur Erhöhung der Verkehrssicherheit im Bereich der Görresschule (Konrad-Adenauer-Ring) - mehrheitlich zugestimmt
+- TOP 14: Projektentwicklung zwischen Zolltor und Rosengarten - verwiesen
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 15: Entwicklungsperspektiven für Neuss-Grefrath - mehrheitlich zugestimmt
+- TOP 16: Wettbewerbsverfahren der St-Augustinus-Gruppe/Stiftung Cor unum - St-Augustinus-Campus, Neuss - - einstimmig zugestimmt
+- TOP 17: Planfeststellungsverfahren für den Anbau eines Radweges an der Landesstraße L 142 zwischen der K 7 und der K 30 - einstimmig zugestimmt
+- TOP 18: Vorhabenbezogener Bebauungsplan Nr. V143/6 - Gnadental, St.Konradquartier - Auslegungsbeschluss - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 19: Antrag der Fraktionen von SPD und BÜNDNIS 90 / DIE GRÜNEN betr.: Weitere E- Lastenräder in der Stadt Neuss - mehrheitlich abgelehnt
+- TOP 20: Antrag der Fraktionen von SPD und BÜNDNIS 90 / DIE GRÜNEN betr.: Befahren des Platzes am Romaneum für Radfahrende ermöglichen - mehrheitlich zugestimmt
+- TOP 20.1: Antrag der Fraktionen von SPD und BÜNDNIS 90 / DIE GRÜNEN betr.: Prüfung weiterer „Tempo 30“- und „Tempo 40“-Bereiche in der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 20.2: Antrag der CDU-Fraktion betr.: Zukünftige Nutzung der Rathaustiefgarage - einstimmig zugestimmt
+- TOP -: Mitteilungen der Verwaltung
+- TOP 21: Radverkehr im Bestand - zur Kenntnis genommen
+- TOP 22: Wendersplatz - Weiteres Vorgehen Vermarktung - zur Kenntnis genommen
+- TOP 23: Bebauungsplan Nr. 511 - Weißenberg, Vogelsangstraße - Bericht über die frühzeitige Beteiligung - zur Kenntnis genommen
+- TOP 24: Rheinwassertransportleitung zum Tagebau des Rheinischen Reviers - zur Kenntnis genommen
+- TOP 25: Entwicklung ehemaliges Pierburg-Gelände - zur Kenntnis genommen
+- TOP 26: Ortsmittelpunktkonzept - Berichte über die Stadtteilspaziergänge und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 27: Wohnbauvorhaben Plankstraße 60a - zur Kenntnis genommen
+- TOP 28: Bericht Beirat Innenstadtstärkungsprogramm - zur Kenntnis genommen
+- TOP 28.1: Teilnahme der Stadt Neuss an der NRW-Initiative „Bau.Land.Partner“ - zur Kenntnis genommen
+- TOP 28.2: Grüner Pfeil für Radfahrer - Einführung in Neuss - zur Kenntnis genommen
+- TOP 28.3: Zukünftige Nutzung der Rathaustiefgarage - zur Kenntnis genommen
+- TOP 29: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
