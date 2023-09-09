@@ -68,7 +68,8 @@
 
 ## Teil 6 Schlussbestimmungen
 
-- [§ 28 Inkrafttreten](0028.md)
+- [§ 28 Anwendungsbestimmungen](0028.md)
+- [§ 29 Inkrafttreten](0029.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 4 Absatz 2)Arten von Gehölzpflanzen, deren Anbau bei Agroforstsystemen ausgeschlossen ist](anlage-1.md)
 - [Anlage 2 (zu § 6 Absatz 3)Für Niederwald mit Kurzumtrieb zulässige Arten](anlage-2.md)
