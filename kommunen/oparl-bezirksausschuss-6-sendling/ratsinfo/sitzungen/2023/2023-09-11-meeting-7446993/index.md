@@ -1,0 +1,141 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-09-11T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7446993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7446993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Umbau Herzog-Ernst-Platz & Zebrastreifen Hans-Klein-Straße
+- TOP 2.2.: Umwandlung eines Kfz-Stellplatzes in einen Fahrrad- / Lastenfahrradstellplatz in der Oberländerstraße 20
+- TOP 2.3.: Begrünung Kyreinstraße zwischen Implerstraße und Gotzingerstraße
+- TOP 2.4.: Platz für neue Fahrradabstellplätze in der Pfeuferstraße 2-2a statt Falschparker
+- TOP 2.5.: Baustellenlärm Feuerwehrzufahrt Gasteig HP8 Schäftlarnstraße
+- TOP 2.6.: Antrag für neue Laterne für Sitzbänke neben meines Balkon und Abfallkorbe neben Sitzbände stellen
+- TOP 2.7.: Beleuchtung in der Alramstraße beim Sendlinger Loch
+- TOP 2.8.: Oberländerstraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) Lärm und Umweltverschmutzung am Flaucher und an den Isarauen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung Plinganserstraße 5 - 5a
+- TOP 4.2.2.: Nachtrag der Anwesen Fallstr. 38 und Zechstraße 2, 2a, 4, 6, 6a, 8, 10 und 10a in die Denkmalliste - Benehmensverfahren
+- TOP 4.2.3.: Bauvorhaben Fallstraße 8
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Erneuerung der Sitzgelegenheiten auf dem Herzog-Ernst-Platz
+- TOP 4.3.2.: Bäume entlang der Baugrube Alramstraße 14
+- TOP 4.3.3.: Instandsetzung des Trampolins am Implerplatz und Aufwertung des Pavillons
+- TOP 4.3.4.: Betrieb des Harras-Brunnens; Wiederherstellung des ursprünglichen Zustandes wie nach der Eröffnung der Harras-Platzfläche
+- TOP 4.3.5.: Protokoll und Rückfrage Bücherschrank Ortstermin Herzog-Ernst-Platz
+- TOP 4.3.6.: Pflanzung von fünf Bäume im Stadtbezirk Sendling
+- TOP 4.3.7.: Meldelisten Bauvorhaben
+- TOP 4.3.8.: Bewässerung der öffentlichen Bäume
+- TOP 4.3.9.: Bruderhofstr. Plane am Baugerüst, fehlende Bautafel
+- TOP 4.3.10.: Protokoll des Scoping Termins_ Mischwassereinleitung MSE in die Isar_Werkkanal und Auer Mühlbach
+- TOP 4.3.11.: Aufruf Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 4.3.12.: Information Förderprogramm Biodiversität
+- TOP 4.3.13.: Die Stadt München kauft das Mehrfamilienhaus Valleystraße
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Die SWM sollen ab sofort auf jeder Sendlinger Bürgerversammlung mit einem Infostand vertreten sein und die Bürger*innen bzgl. Energiesparen und Abschlagszahlungen beraten
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Protokoll der öffentlichen Sitzung des Mieterbeirates des LHM vom 24.07.2023
+- TOP 4.5.2.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 4.5.3.: Grillrauch aus den Flaucheranlagen in den Wohnungen der Flaucheranwohner*innen
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Grünphase der Ampel in der Plinganserstraße im Bereich Neuhofener Anlagen Empfehlung Nr. 20-26 / E 00981 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Anbringung eines Abfalleimers an den Bänken gegenüber dem Klenze-Gymnasium
+- TOP 5.3.2.: Sanierung der Schmied-Kochel-Straße
+- TOP 5.3.3.: Dialog-Displays Kosten, Betrieb, Umsetzung und Infoschreiben
+- TOP 5.3.4.: Versammlung am Harras am 16.09.2023
+- TOP 5.3.5.: Drehgenehmigung am Flaucher Gasteig
+- TOP 5.3.6.: Meldeliste Bauvorhaben SWM
+- TOP 5.3.7.: Versammlung Autokorso Bavariastr 10 am 05.08.2023
+- TOP 5.3.8.: Tempo 30 – Regelgeschwindigkeit in Sendling; Zwischennachricht zum BA-Antrag 20-26 / B 02364 vom 12.04.2021
+- TOP 5.3.9.: Implerstraße - Reduzierung der zulässigen Höchstgeschwindigkeit und Umgestaltung
+- TOP 5.3.10.: Fahrradabstellplätze in der Oberländer Straße Ecke Gotzinger Straße
+- TOP 5.3.11.: 2te S-Bahnstammstrecke; vorläufige Anordnung des Teilvorhabens "Autoreisezuganlage"
+- TOP 5.3.12.: Drehgenehmigung Gotzinger Platz am 22.08.2023
+- TOP 5.3.13.: Fristverlängerung Fahrradstellplatz Lindenschmitstraße
+- TOP 5.3.14.: Versammlungen in Form eines Autokorsos - Antwortschreiben
+- TOP 5.3.15.: Meldeliste Bauvorhaben SWM
+- TOP 5.3.16.: Bescheid Parklet Implerstraße 12a
+- TOP 5.3.17.: Radlweg mit Unterbrechung Plinganserstraße / Ecke Dudenstraße
+- TOP 5.3.18.: Demokratiemobil des KJR Am Harras am 16.09.2023
+- TOP 5.3.19.: Antw. Geschwindigkeitsreduzierung Implerstraße
+- TOP 5.3.20.: Nachfrage Abfalleimer bunt machen
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Sitzbank LindwurmAbelestr
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Kinderantrag Querungshilfe Thalkirchner Straße (Stadtteilkoffer)
+- TOP 5.5.2.: Ruhebank Implerstrasse 47
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Impler “Begrünung Implerschule vom 15.09.2023 – 30.07.2024“ 2.000,00 € / AZ: 0262.0-6-0454
+- TOP 6.1.2.: (E) Stadtbezirksbudget Förderverein Kirchenmusik an St. Margaret e.V. “Mozart – Requiem vom 11.11.2023 – 12.11.2023“ 4.640,00 € / AZ: 0262.0-6-0456
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative Impro – Theatergruppe „southbound“ “Southbound: Improtheater für und mit Ludwigvorstadt, Isarvorstadt, Sendling vom 12.09.2023 – 03.05.2024“ 850,00 € / AZ: 0262.0-6-0458
+- TOP 6.1.4.: (E) Stadtbezirksbudget Fabi Thalkirchen e.V. “Jubiläum 60 Jahre Fabi Thalkirchen - ein Familienfest am 19.11.2023“ AZ: 0262.0-6-0459 / 412,60 €
+- TOP 6.1.5.: Budgetantrag Kulturschmiede; Anfrage auf Erhöhung für den Budgetantrag "was blüht uns da?" um 400,- € auf 2.375,00 €
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kultur im Block Implerstr. 51a “Kultur im Block 2023 am 06.10.2023“ 1.410,00 € / AZ: 0262.0-6-0443
+- TOP 6.1.7.: (E) Stadtbezirksbudget Pflegehof München e.V. “Pflegehof München Beginn Oktober 2023 mit der Fertigstellung unseres ersten Hauses in Mü-Ludwigsfeld“ 3.000,00 € / AZ: 0262.0-6-0457
+- TOP 6.1.8.: Standortvorschläge Orange Bank
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Bestellung Städtischer Leistungen für Umbaumaßnahmen der Mädchenumkleide des FFC Wackers
+- TOP 6.3.2.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Standorte Unterkünfte ab 48 Bettplätzen
+- TOP 7.3.2.: Information über Angebot der Fachstelle MoNa
+- TOP 7.3.3.: „Weltacker“ in München – ein Lernort zum Thema Ernährung & Landwirtschaft
+- TOP 7.3.4.: Möglichkeit der gemeinsamen Verlegung aus der Meindlstraße 14a
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Freiräume für junge Menschen schaffen – Jugendcontainer an der Hans-Fischer-Straße errichten
+- TOP 7.4.2.: Antrag städtische Leistungen Ferienpässe
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5.2.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 7.5.3.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Sendlinger Bergweihnacht - Christkindlmarkt - Am Harras
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Sportbox für das Programm "ReStart – Sport bewegt Deutschland"
+- TOP 8.3.2.: Quartiersplatz Theresienhöhe - Antwortschreiben Baureferat - Gartenbau
+- TOP 8.3.3.: AKIM-Bericht Quartiersplatz Theresienhöhe
+- TOP 8.3.4.: Unterrichtung Christkindlmarkt am Harras 2023 (aktueller Stand zur Antragstellung)
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Sendlinger Kulturschmiede - was blüht uns da
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Münchner Forum Standpunkte - Wasser in der Stadt
+- TOP 2.9.: Fahrradstellplätze in der Oberländer- bzw. Aberlestraße
+- TOP 2.10.: Lärmbelästigung auf dem Kirchplatz der Margareten Kirche
+- TOP 4.4.2.: Beleuchtung am Sendlinger Loch
+- TOP 5.4.2.: Versetzen einer Bank
+- TOP 5.4.3.: Radweg Valleypark
+- TOP 2.11.: Bitte um Rückbau provisorische Straßenlaterne
+- TOP 2.12.: Parkplatz zu Fahrradstellplatz
+- TOP 6.1.9.: (E) Stadtbezirksbudget Leocor gGmbH / Klimainitiative München “Klimatreff München vom 20.09.2023 – 30.04.2024“ 2.244,40 € / AZ: 0262.0-6-0461
+- TOP 4.1.2.: ProjektplangengehmigungBA_H-SchaeftlarnstrHP8
