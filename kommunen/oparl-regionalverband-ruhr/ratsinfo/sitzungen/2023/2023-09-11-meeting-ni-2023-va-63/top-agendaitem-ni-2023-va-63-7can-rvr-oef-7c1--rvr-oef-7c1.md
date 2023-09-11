@@ -1,0 +1,7 @@
+# TOP -: Angelegenheiten nach RVR-Gesetz
+
+- Sitzung: 11. Sitzung des Verbandsausschusses (2023-09-11)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2023-VA-63%7CAn-rvr-oef%7C1
+- Beschluss (Datei): Beschluss - Top https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-VA-63%7CAn-rvr-oef%7C1
