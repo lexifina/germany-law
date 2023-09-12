@@ -1,0 +1,7 @@
+# TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+
+- Sitzung: Jugendhilfeausschuss der Stadt Grevenbroich (2023-09-12)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/143435
+- Ergebnis: einstimmig beschlossen
