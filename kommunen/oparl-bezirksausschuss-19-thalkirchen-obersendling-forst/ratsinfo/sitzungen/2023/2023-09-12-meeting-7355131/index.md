@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-09-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.08.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Evangelischer Verein München-Solln e.V.: Weiterführung der Hausaufgabenhilfe für Kinder an der Samberger Grundschule vom 18.09.2023 bis 25.07.2024 10.895,00€; Az. 0262.0-19-0475
+- TOP 3.3.: (E) Stadtbezirksbudget Forstenrieder Tintenkleckse e.V.: Raumkosten zur Durchführung einer Mittagsbetreuung vom 01.09.2023 bis 30.08.2024 12.204,00€; Az. 0262.0-19-0479
+- TOP 3.4.: (E) Stadtbezirksbudget Pianistenclub e.V.: FORTISSIMO-PIANISSIMO Konzertabend an zwei Flügeln am 10.11.2023 1.670,82€; Az. 0262.019-0477
+- TOP 3.5.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V.: Streetart-Workshop - Kinder- und Jugendarbeit in Forstenried, Tag der Vereine vom 06.10 bis 08.10.2023 3.204,07€; Az. 0262.0-19-0478
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Erweiterung Parklizenzgebiet Thalkirchen
+- TOP 5.2.: (E) Dialog-Displays: Auswahl eines Aufstellungsortes
+- TOP 5.3.: (Antrag) Umgestaltung der Tölzer Straße zwischen Boschetsrieder Straße und Steinerstraße
+- TOP 5.4.: (Antrag) Gemeinsamer Fuß- und Radweg Südseite Herterichstraße zwischen der Grünfläche beim TSV Solln und der Petersenstraße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Haltverbot Fritz-Baer-Straße im Einmündungsbereich Forstenrieder Allee
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Hotelanfahrt Hofmannstraße
+- TOP 5.7.: Bericht: Schulwegsicherheit Ratzingerplatz
+- TOP 5.8.: Bericht: Verkehrstechnische Untersuchung Solln
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Siemensallee 71 (VB)
+- TOP 6.2.2: Stöhrstraße 3 (VB)
+- TOP 6.2.3: - abgesetzt -
+- TOP 6.2.4: Strähuberstraße 3 (T)
+- TOP 6.2.5: Züricher Straße 9 (T)
+- TOP 6.2.6: Münchner Straße 6
+- TOP 6.2.7: Maxhofstraße 40 (VB)
+- TOP 6.2.8: Siemensallee 76 (T)
+- TOP 6.2.9: Hofbrunnstraße 109 (T)
+- TOP 6.2.10: Meglingerstraße 7
+- TOP 6.2.11: Baierbrunner Straße 21 (VB)
+- TOP 6.2.12: Neurieder Straße 4 (T)
+- TOP 6.2.13: Forstenrieder Allee 144b (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Schulbus zur neuen Grundschule Boschetsrieder Straße einrichten
+- TOP 7.1.2: Jugendcontainer am Pumptrack Solln
+- TOP 7.2.: (Antrag) Einsatz von AKIM im Wohnquartier Constanze-Hallgarten-Straße, Christel-Küpper-Platz und Eleonore-Romberg-Straße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Veranstaltung: HIDALGO "Refugium" vom 22.09. bis 30.10.2023
+- TOP 8.3.: (A) Veranstaltung: Theater Grünanlage Baierbrunner Straße am 03.10.2023
+- TOP 9: Verschiedenes
+- TOP 2.3.: - NACHTRAG - (A) Bedarfsabfrage Hybridsitzungen 2024
+- TOP 3.6.: - NACHTRAG - (Anfrage) Vereinbarkeit der Maßnahme Dialog-Displays mit den Budgetrichtlinien
