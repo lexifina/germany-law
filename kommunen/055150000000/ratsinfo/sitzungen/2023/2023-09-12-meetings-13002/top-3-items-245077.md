@@ -1,0 +1,8 @@
+# TOP 3: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities
+
+- Sitzung: Sitzung (2023-09-12)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/245077
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/84178
