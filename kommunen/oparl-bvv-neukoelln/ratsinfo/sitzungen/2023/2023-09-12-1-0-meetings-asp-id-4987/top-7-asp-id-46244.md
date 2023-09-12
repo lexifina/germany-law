@@ -1,0 +1,7 @@
+# TOP 7: Sitzungsplanung 2024
+
+- Sitzung: 14. öffentliche Sitzung des Ausschusses für Wirtschaft und Arbeit (2023-09-12)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=46244
+- Ergebnis: erledigt
