@@ -1,0 +1,6 @@
+# TOP 5.: Allgemeine Umweltangelegenheiten
+
+- Sitzung: Ausschuss für Klima, Umwelt und Mobilität (18. Sitzung) (2023-09-12)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65725
