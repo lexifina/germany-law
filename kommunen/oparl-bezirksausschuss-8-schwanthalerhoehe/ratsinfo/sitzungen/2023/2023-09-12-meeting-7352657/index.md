@@ -1,0 +1,95 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352657
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352657
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Schutzräume für Wildtiere im Bavariapark
+- TOP 4.2.: Freischankflächen Gollierstr. Ecke Ganghoferstr. sowie Alter Messeplatz Ecke Kazmairstr.
+- TOP 4.3.: Einrichtung einer Wasserstelle mit Trinkwasser am Georg-Freundorfer-Platz
+- TOP 4.4.: Neugestaltung der Westendstr. im Abschnitt zwischen Bergmannstr. und Trappentreustr.
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Schanigarten der Gaststätte Bürgerheim im Winter stehen lassen
+- TOP 6.2.2.: Bauvorhaben Guldeinstr. 32
+- TOP 6.2.3.: Bauvorhaben Gollierstr. 3
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Jahresgespräch Stadtplanung am 05.10.2023
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: - NACHTRAG - Meldelisten Bauvorhaben
+- TOP 6.3.4.: SWM; Fernwärme- und kommunale Wärmeplanung
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Information über Angebot der Fachstelle MoNa
+- TOP 7.3.2.: Einladung des Referates für Bildung und Sport zum BA-Empfang am 17.10.2023
+- TOP 7.3.3.: Erneuerung des schadhaften Rasens auf der Sportplatzfläche Kazmairwiese
+- TOP 7.3.4.: - NACHTRAG - Freiräume für junge Menschen schaffen – Jugendcontainer an der Hans-Fischer-Straße errichten
+- TOP 7.3.5.: Einladung der GWG zum Richtfest, Westendstraße 35, Lebensplätze für wohnungslose Frauen, am 19.09.2023
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung Am Bavariapark und im Bavariapark; Rahmenprogramm zum Tag des offenen Denkmals am 10.09.2023
+- TOP 8.3.2.: Feuerwerksanzeige Bavariapark; Eröffnung des Oktoberfests am 16.09.2023
+- TOP 8.3.3.: Bürger*innentag am 03.09.2023 im Rahmen des Mobilitätskongresses 2023
+- TOP 8.3.4.: Versammlung Georg-Freundorfer-Platz / Heimeranstraße am 01.09.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Vergrämung unberechtigt parkender Kfz im Bereich Alte Messe (Kongresshalle)
+- TOP 9.1.2.: (E) + (U) Rad-Highway an der Bahntrasse ab Heimeranplatz Richtung Isar Empfehlung Nr. 20-26 / E der Bürgerversammlung des 08. Stadtbezirkes Schwanthalerhöhe am 02.05.2023
+- TOP 9.1.3.: (E) + (U) Fahrradhighway entlang den Gleisen; von der Ganghoferbrücke zur Isar Empfehlung Nr. 20-26 / E 00236 der Bürgerversammlung des 08. Stadtbezirkes Schwanthalerhöhe am 21.07.2021
+- TOP 9.1.4.: (E) Erstellung und Kommunikation eines Grünmassenkonzepts für den Stadtbezirk 08 Schwanthalerhöhe
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Carlamaria-Heim-Straße 10
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Versammlung Autokorso; U-Bahnhof Schwanthalerhöhe, Heimeranstraße am 05.08.2023
+- TOP 9.3.2.: Dialog-Displays - Bestellstart, Modalitäten und Kriterienkatalog
+- TOP 9.3.3.: Errichtung einer beidseitigen Gehwegnase in der Westendstraße Einmündung Trappentreustraße (östlich der Trappentreustraße)
+- TOP 9.3.4.: Verbesserung Anwohner*innen-Parksituation im Umfeld der Geroltstraße; Anwohner*innen-Parken in der Bergmannstraße
+- TOP 9.3.5.: Baustelleneinrichtung / Kanalbauarbeiten Georg-Freundorfer-Platz
+- TOP 9.3.6.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.7.: Information Förderprogramm Biodiversität
+- TOP 9.3.8.: Verkehrsregelungen und Runder Tisch Oktoberfest 2023
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Vamuki e.V. Familienkonzertreihe im Pfarrsaal St. Rupert am 29.10.23 /21.01.24 /18.02.24 /06.04.24 2.586,00€; Az. 0262.0-8-0370
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Antrag BA1; Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 12.3.2.: „Weltacker“ in München – ein Lernort zum Thema Ernährung & Landwirtschaft
+- TOP 12.3.3.: Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt - Projektaufruf für 2024
+- TOP 12.3.4.: Nichtverfügbarkeit des Ratsinformationssystems (RIS / RIS-Extranet) am 07.09.2023
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 4.5.: - NACHTRAG - Parkplatzsperrungen vor dem Anwesen Kazmairstr. 17
+- TOP 4.6.: - NACHTRAG - Rückbau Fahrradhaus Bergmannstraße 13
+- TOP 9.3.9.: - NACHTRAG - Anbringung eines Abfallbehälters in der Parkstraße 22
+- TOP 9.3.11.: - NACHTRAG - Umprofilierung, Begrünung und Verkehrsberuhigung der Landsberger Straße zwischen Trappentreustraße und Grasserstraße
+- TOP 11.1.: - NACHTRAG - Einrichtung von weiteren Wasserspielmöglichkeiten in der Schwanthalerhöhe sowie möglichst frühzeitige Inbetriebnahme der bestehenden Wasserspielplätze im Frühjahr
+- TOP 8.3.5.: - NACHTRAG - Versammlung von Karlsplatz Stachus bis Am Bavariapark am 09.09.2023
+- TOP 9.3.10.: - NACHTRAG - Anbringung von Pollern im Kreuzungsbereich Gollierplatz Ecke Gollierstraße
+- TOP 6.2.4.: - NACHTRAG - Bauvorhaben am Bavariapark 14
+- TOP 6.2.5.: - NACHTRAG - Bauvorhaben Ridlerstraße 13 - 15
+- TOP 6.2.6.: - NACHTRAG - Bauvorhaben Westendstraße 147
+- TOP 8.2.1.: Richtfest Westendstraße 33 - 35 am 19.09.2023
