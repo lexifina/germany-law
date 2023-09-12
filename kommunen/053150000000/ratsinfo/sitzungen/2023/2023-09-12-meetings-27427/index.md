@@ -1,0 +1,51 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-12T15:00:00+02:00
+- Ende: 2023-09-12T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27427
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27427
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der schriftlichen Anfrage aus der Sitzung des Integrationsrates vom 15.08.203 (AN 1306/2023) betreffend der Gleichbehandlung von Drittstaatler*innen aus der Ukraine im SGB II - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Beantwortung der schriftlichen Anfrage der Fraktion DIE LINKE im Rat der Stadt Köln vom 15.08.2023 - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Thema: Verlorene Unterlagen in den Kölner Ausländerbehörden - zurückgestellt
+- TOP 4.2: Anfrage Thema: Koloniales Erbe der Stadt Köln - zurückgestellt
+- TOP 4.3: Anfrage: Aktueller Stand DOMID und Halle 71 - zurückgestellt
+- TOP 4.4: Anfrage zu WLAN am Wohnheim für Geflüchtete Poller Holzweg - zurückgestellt
+- TOP 4.5: Anfrage zum Positionspapier der Interkulturelle Zentren zu Bedarfen von älteren Menschen mit internationaler Familiengeschichte - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Managementbericht des Dezernates V - Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 5.2: Nutzungsgebühren für städtisch untergebrachte Geflüchtete in Arbeitsverhältnissen - Kenntnis genommen
+- TOP 5.3: Ehrenamtspreis "KölnEngagiert" - Ergänzung der Teilnahmebedingungen - Kenntnis genommen
+- TOP 5.4: Mitteilung der Verwaltung zum Prüfantrag des Rates zur "Unterstützung einer Gemeinde im Erdbebengebiet Türkei/Syrien" (1470/2023) - Kenntnis genommen
+- TOP 5.5: Informationen zu Aktivitäten der Abteilung Europa und Internationales - Kenntnis genommen
+- TOP 5.6: Jahresbericht Koordination Gewaltschutz in Kölner Unterbringungseinrichtungen für Geflüchtete im 01.01.2022 bis 31.12.2022 - Kenntnis genommen
+- TOP 5.7: LSBTI-Förderprogramm 2023: Verteilung der Mittel - Kenntnis genommen
+- TOP 5.8: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. 72, 72a, 51143 Köln-Zündorf - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 5.9: Antrag zu den Themen "Qualifizierung von Mitarbeitenden mit Bürgerkontakt/Antidiskriminierung" - Kenntnis genommen
+- TOP 5.10: Inbetriebnahme der Suchtberatungsstelle Chorweiler - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag für eine Zusatzerklärung für unter das Gaststättengesetz fallenden Betriebe - zurückgestellt
+- TOP 6.2: Antrag zur Chancengerechtigkeit auf dem Wohnungsmarkt - endgültig zurückgezogen
+- TOP 6.2.1: Änderungsantrag zu Antrag AN/1314/2023 zur Chancengerechtigkeit auf dem Wohnungsmarkt – Handeln gegen rassistische Diskriminierung bei der Wohnungsvergabe - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Konzept zur Stärkung der integrativen Stadtgesellschaft - Verfahren zur Weiterentwicklung - ungeändert beschlossen
+- TOP 8.2: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 8.2.1: Antrag zur Beschlussvorlage „Strategische Sozialplanung - Herausforderungen und Ziele 4069/2022" - zurückgestellt
+- TOP 8.3: Konzept "Kuratorium für ein Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse" - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
