@@ -1,0 +1,8 @@
+# TOP 4.1: Bürgerantrag: Rad- und Fußverkehr Umbau B66
+
+- Sitzung: Ausschuss für Straßen, Plätze und Verkehr (12. Sitzung) (2023-09-13)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15371
+- Beschluss (Datei): Beschlußtext (Bürgerantrag:
+Rad- und Fußverkehr Umbau B66) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTRb5LJjt4Us-czuG38SG3NKqZjQKBgi5Tk8Xu5QxlPS/Beschlusstext_TOP_4.1_-oeffentlich-_Ausschuss_fuer_Strassen-_Plaetze_und_Verkehr_13.09.2023.pdf
