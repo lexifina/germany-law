@@ -1,0 +1,105 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2023-09-13T17:00:00+02:00
+- Ende: 2023-09-13T21:15:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7185
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7185
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=428993
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 3.1: Notenwahnsinn vor den Ferien stoppen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Einführung einer Vielfalt-AG an den Oberschulen in Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.3: Einführung eines Gemeinwohltages an den Schulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.4: Mehr Schwimmkurse ohne Leistungsausrichtung in Schöneberg - überwiesen
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Zukunft der Brunnenanlagen im Bezirk - beantwortet
+- TOP 4.2: Schulstraße an der Bruno-H.-Bürgel-Schule in Lichtenrade verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Städtebauliche Entwicklung Kärntener Dreieck zwischen Ring- und Wannseebahn resp. Stammbahn - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Sozialleistungen auf dem Prüfstand - beantwortet
+- TOP 4.5: Träger öffentlicher Belange vor Einrichtung von Kiezblocks beteiligen - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz: Barbarossakiez für alle, durch weniger Autoverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Monumentenkiez für Menschen - Durchgangsverkehr beschränken - überwiesen
+- TOP 5.3: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2024 - vertagt
+- TOP 5.4: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Benennung von Mitgliedern im Sozialhilfebeirat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Abberufung von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Wahl eines Bürgerdeputierten in den FQI-Ausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Silvesterknallerei/Feinstaub/Lärmbelästigung/Müll - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Entwurf des Bezirkshaushaltsplans 2024/2025 - überwiesen
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Regressansprüche von Reparaturkosten der Straßenbelagsbeschädigungen gegen die sogenannte „letzte Generation“ geltend machen - im Ältestenrat zurückgezogen
+- TOP 9.2: Kein Radwegebau- und Finanzierungsstopp: Großprojekte für den Umweltverbund in der Grunewald- und Hauptstraße müssen umgesetzt werden - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Adler-Wohnungsbestand im Bezirk in kommunale Hand u?berfu?hren! - überwiesen
+- TOP 9.4: Baumaustriebe kürzen, Sichtachse zur Verkehrssicherheit herstellen - überwiesen
+- TOP 9.5: Gesundheitscampus Wenckebach – Ausbildung und Versorgung zukunftssicher machen: Berliner Bildungscampus für Gesundheitsberufe umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Zügige Wohngeld-Weiterbewilligung ermöglichen - überwiesen
+- TOP 9.7: Landesmittel für Geflüchtete in den Bezirken nicht kürzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Brunnenanlagen im Bezirk wieder instand setzen - überwiesen
+- TOP 9.9: Alle Jahre wieder! Wiederherstellung der Straßenbeleuchtung Kulmer Str./ Goebenstr. - vertagt
+- TOP 9.10: Patient:innen und ihre Fürsprecher:innen stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Parkraumbewirtschaftung mit Augenmaß – Teil 1 - überwiesen
+- TOP 9.12: Menstruationsprodukte über das Landesverwaltungsamt beziehbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Parkraumbewirtschaftung mit Augenmaß – Teil 2 - überwiesen
+- TOP 9.14: Testkäufe erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Radvorrangnetz in Lichtenrade ausweiten - überwiesen
+- TOP 9.16: Parkplätze für Mireille Mathieu - überwiesen
+- TOP 9.17: Umbenennung der Udetzeile - überwiesen
+- TOP 9.18: Geschwindigkeitsrekord gebührend würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Bürger*innenbeteiligung bei der Umsetzung von Kiezblöcken - überwiesen
+- TOP 9.20: Verkehrsberuhigten Bereich im Hochpfeilerweg durchsetzen! - überwiesen
+- TOP 9.21: Einschulungstag ist ein Familientag - ohne Parteien bitte - vertagt
+- TOP 9.22: Inklusive Single-Party weiterhin ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Grünschnitt-Abfallberg entsorgen - überwiesen
+- TOP 9.24: Kletterfelsen auf dem Spielplatz Alvenslebenstraße sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Obdachlose Menschen ernst nehmen: „Zeit der Solidarität“ weiterführen - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Bezirksgebäude fit machen fürs 21. Jahrhundert: Energetische Sanierungskosten einplanen - überwiesen
+- TOP 9.27: Querung des Prellerwegs Höhe Höhenweg für den Fuß- und Radverkehr ermöglichen - überwiesen
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Umbau von Hauptverkehrsstraßen nach Mobilitätsgesetz - schriftlich beantwortet
+- TOP 10.2: Mittelabruf ergänzende Tagesreinigung an Schulen - vertagt
+- TOP 10.3: nicht beglichene Rechnungen der Pflegeheime beim BA - beantwortet
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Historische Bedürfnisanstalt U-Bülowstraße wiederfinden und rekonstruieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Regenwassertonnen auf Gehwegen auch in unserem Bezirk! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Professionelles bezirkliches Raummanagement entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Regenwasser nicht weiter verschwenden - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Ein Regenwasserkonzept für bezirkseigene Grundstücke - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 6 / 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Gymnasiale Oberstufe an der Friedenauer Gemeinschaftsschule verbindlich ab dem Schuljahr 2021/2022 einrichten – jetzt Voraussetzungen schaffen! - überwiesen
+- TOP 12.2: Sicher zur Schule in der Ebersstraße - überwiesen
+- TOP 12.3: Vertretung in der Fluglärmkommission für den BER in Tempelhof-Schöneberg zur Chefsache machen - überwiesen
+- TOP 12.4: Volksfest Maientage einen Platz auf dem Tempelhofer Feld bereitstellen - überwiesen
+- TOP 12.5: Karstadt Tempelhof: Standort sichern – Arbeitsplätze erhalten! - überwiesen
+- TOP 12.6: Dem produzierenden Gewerbe Standorte schaffen – eine „GSG 2.0“ auf den Weg bringen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.7: Raum für Volkshochschulkurse schaffen - überwiesen
+- TOP 12.8: Eine mehrsprachige Webseite für das Bezirksamt Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.9: Parkplätze auf Schulgrundstücken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.10: Ein Kiezwald für Neu-Tempelhof – Aufforstung und Aufwertung des Kleinen Bäumerparks - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.11: Sicher Radfahren auf geschützten Radwegen von der Hauptstraße bis zum Tempelhofer Damm - überwiesen
+- TOP 12.12: Nach 110 Jahren: Schrader-Breymann ehren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.13: Ziel- und Servicevereinbarungen transparent machen - überwiesen
+- TOP 12.14: Naturdenkmal Kaisereiche pflegen – Blumentopf endlich abräumen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.15: Die Mauer muss durchsichtig werden - überwiesen
+- TOP 12.16: Aufarbeitung und Reinigung des Gedenkstein im Bornhagenweg - überwiesen
+- TOP 12.17: Öffentliche Toilette für das Zentrum der Großsiedlung Marienfelde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.18: Stadtplatz Langenscheidtbrücke/Crellestraße aufwerten: Bänke aufstellen und Kunst sanieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.19: Eine öffentliche Toilette für den Nahariya-Kiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.20: Sportstättenvergabe sicherstellen - überwiesen
+- TOP 12.21: Für die schwächsten Verkehrsteilnehmer*innen – Tempelhof-Schöneberg für die Mobilitätswende und den Ausbau von Rad- und Fußverkehrsprojekten - überwiesen
+- TOP 12.22: Aufhebung der Friedhofswidmung einer Teilfläche des Friedhofes Eythstraße und Folgenutzung für Erweiterungsbau (Sporthalle) der Lindenhof-Grundschule - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
