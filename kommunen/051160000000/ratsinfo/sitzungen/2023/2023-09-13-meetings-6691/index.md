@@ -1,0 +1,77 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-09-13T15:00:00+02:00
+- Ende: 2023-09-13T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6691
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6691
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224994.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224994.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00224994.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 19.05.2021 - öffentlicher Teil -
+- TOP 2: Niederschrift über die Sitzung des Rates vom 30.06.2021 - öffentlicher Teil -
+- TOP 3: Niederschrift über die Sitzung des Rates vom 06.10.2021 - öffentlicher Teil -
+- TOP 4: Niederschrift über die Sitzung des Rates vom 19.10.2022 - öffentlicher Teil -
+- TOP 5: Niederschrift über die Sitzung des Rates vom 29.03.2023 - öffentlicher Teil -
+- TOP 6: Niederschrift über die Sitzung des Rates vom 07.06.2023 - öffentlicher Teil -
+- TOP 7: Wahl einer*eines Beigeordneten - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 8: Abschluss der Leistungsphase 3 (Entwurfsplanung) und die Vorlage der Wirtschaftlichkeitsberechnung zum Projekt Rathaus der Zukunft mg+ - Getrennte Abstimmung (s. Niederschrift)
+- TOP 9: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden - Getrennte Abstimmung (s. Niederschrift)
+- TOP 9.1: Änderungsantrag zu 2522/X: Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden; - Ohne Abstimmung
+- TOP 9.2: Ergänzungsantrag zu TOP 9, Beratungsvorlage 2522/X „Maßnahmen für eine zukunftsgerechte Unterbringung der Verwaltungsmitarbeitenden“; hier: Antrag der CDU-Ratsfraktion vom 12.09.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 10: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2022) - Kenntnisnahme
+- TOP 11: Einrichtung von Bezirkshaushalten - Kenntnisnahme
+- TOP 11.1: Antrag zu Vorlage 2544/X: Einrichtung von Bezirkshaushalten - Mit Stimmenmehrheit beschlossen
+- TOP 12: Bildung eines Jugendparlaments für die Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 12.1: Bildung eines Jugendparlaments für die Stadt Mönchengladbach, Antrag zu Vorlage 2455/X - Mit Stimmenmehrheit abgelehnt
+- TOP 13: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Anpassung des Gesellschaftsvertrages der WFMG - Wirtschaftsförderung Mönchengladbach GmbH und Kapitalerhöhung - Getrennte Abstimmung (s. Niederschrift)
+- TOP 14: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2022 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 15: Entlastung der Sparkassenorgane für das Geschäftsjahr 2022 - Einstimmiger Beschluss
+- TOP 16: Beteiligung der NEW Kommunalholding GmbH über die NEW AG an der NEW Tönisvorst GmbH - Einstimmiger Beschluss
+- TOP 17: Beteiligung der Stadt Mönchengladbach über die NEW Kommunalholding GmbH und die NEW AG an der ENNI Energie & Umwelt Niederrhein GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 18: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Grundsicherung im Alter und bei Erwerbsminderung (4. Kapitel SGB XII) - Einstimmiger Beschluss
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (2. Nachweisung) - Kenntnisnahme
+- TOP 20: Bereitstellung überplanmäßiger Haushaltsmittel 2023 im Bereich Leistungen für Bildung- und Teilhabeleistungen (BuT) - Einstimmiger Beschluss
+- TOP 21: Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 - Kenntnisnahme
+- TOP 22: Personalbericht - HR Report 2023 - Kenntnisnahme
+- TOP 23: Verwendung der Haushaltsmittel aus der LDI 1433 - Sportanlage Rönneter Umkleidecontainer - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Modernisierung der Bezirkssportanlage Preyerstraße/Morr - Einstimmiger Beschluss
+- TOP 25: Inangriffnahme Qualifizierung der Sportanlage Odenkirchen-Süd - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 26: Maßnahmen aus dem SEP 8 - Sekundarstufe I; - Mit Stimmenmehrheit beschlossen
+- TOP 27: Bestellung von Ombudspersonen in der Pflege und der Eingliederungshilfe - Einstimmiger Beschluss
+- TOP 28: Geschäftsordnung des Seniorenrates zur Kenntnisnahme - Kenntnisnahme
+- TOP 29: Kommunale Bedarfsplanung für die Stadt Mönchengladbach gemäß § 7 Abs. 6 Alten- und Pflegegesetz NRW (APG NRW) - Einstimmiger Beschluss
+- TOP 30: Wiederwahl der sachkundigen Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 31: 231. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach („REME-Gelände“), abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 32: Bebauungsplan Nr. 792/O ("REME Los 1"), Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 33: 241. Änderung des FNP ("Radschnellverbindung Rheindahlen - Nordpark") - abschließende Beschlussfassung - Einstimmiger Beschluss
+- TOP 34: Bebauungsplan Nr. 801/W ("Radschnellverbindung Rheindahlen - Nordpark") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 35: Soziale Stadt Gladbach und Westend – Beschluss der überarbeiteten Richtlinie zum Hof- und Fassadenprogramm für die Förderphase 2023-2027 - Einstimmiger Beschluss
+- TOP 36: "Von EinkaufsSTRAßE zu StadtQUARTIER - Die Zukunft beginnt heute" - Getrennte Abstimmung (s. Niederschrift)
+- TOP 37: „Schöner Ankommen in NRW“ – Information zum Förderprogramm des Landes für den Hauptbahnhof Mönchengladbach sowie weiteres Vorgehen im Rahmen der Antragstellung - Einstimmiger Beschluss
+- TOP 38: Neunzehnte Satzung über Einheitssätze zur Ermittlung des beitragsfähigen Erschließungsaufwandes - Einstimmiger Beschluss
+- TOP 39: 3. Änderung Landschaftsplan - Einstimmiger Beschluss
+- TOP 40: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 41: Außenbereichssatzungen für den Bezirk West - insbesondere Rheindahlen-Land - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Verlagerungen des Bahnhaltepunktes Rheindahlen - Einstimmiger Beschluss
+- TOP 43: Nutzung Haus Dahlen - Einstimmiger Beschluss
+- TOP 44: Anlage einer sogenannten „Hochzeitswiese“ im Bezirk West - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 45: Sozialkonto; hier: Antrag der Ratsfraktion DIE LINKE vom 14.08.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Städtischer Mängelmelder; hier: Antrag der SPD-Ratsfraktion, Fraktion Bündnis 90/Die Grünen, FDP-Ratsfraktion vom 16.08.2023 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 47: Kommunale Wärmeplanung; Hier: Fraktionsantrag der CDU, SPD, Grünen, FDP vom 21.08.23 - Einstimmiger Beschluss
+- TOP 48: Mittelstandsorientierte Verwaltung; Hier: Fraktionsantrag der SPD, Grünen, FDP vom 21.08.23 - Einstimmiger Beschluss
+- TOP 49: Umbesetzung von Gremien; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 31.08.2023 - Einstimmiger Beschluss
+- TOP 50: Umbesetzung von Gremien; hier: Antrag der CDU-Ratsfraktion vom 01.09.2023 - Einstimmiger Beschluss
+- TOP 51: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 04.09.2023 - Einstimmiger Beschluss
+- TOP 52: Anfragen und Mitteilungen
+- TOP 52.1: Anfrage von RH Willi Schmitz (CDU) zur elektronischen Aktivierung von Personalausweisen
+- TOP 52.2: Anfrage von RH Willi Schmitz (CDU) zu einem provisorischen Radweg auf der Hohenzollernstraße
+- TOP 52.3: Anfrage von RH Michael Schmitz (CDU) zu Einbürgerungsanträgen
+- TOP 52.4: Mitteilung von Beigeordneter Schüßler zur Bewerbung zur FIFA Frauen-WM 2027
