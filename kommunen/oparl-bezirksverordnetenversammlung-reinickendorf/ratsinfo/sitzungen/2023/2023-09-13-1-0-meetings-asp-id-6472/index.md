@@ -1,0 +1,114 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-09-13T17:00:00+02:00
+- Ende: 2023-09-13T22:27:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6472
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6472
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=453138
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 23. Sitzung der BVV am 13.09.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung über die Dringlichkeiten der 23. Sitzung der BVV am 13.09.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Verkehrsberuhigung und Steuerung Pendlerströme in der Schildower Straße - beantwortet
+- TOP 3.2: Schutz von Natur und Tierwelt am Schäfersee - gegenstandslos
+- TOP 3.3: Motorisierter Durchgangsverkehr in der Schildower Straße - beantwortet
+- TOP 3.4: Umgang Lkw Fahrverbot nach Beendigung der Baumaßnahmen in der Schildower Straße - beantwortet
+- TOP 3.5: Profitorientierte Umwandlung von Pflege- und Seniorenwohnanlagen - beantwortet
+- TOP 3.6: Mögliche Maßnahmen zur Verbesserung der Verkehrssituation in der Dianastraße - beantwortet
+- TOP 3.7: Soll der Franz-Neumann-Platz zum zweiten Leo oder zum kleinen Görli werden? - beantwortet
+- TOP 3.8: Fehlende Bänke am Weg zwischen Senftenberger Ring und Mittelfeldbecken - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 23. Sitzung der BVV vom 13.09.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Beschlussfassung über den Haushaltsentwurf 2024 / 2025 - (offen)
+- TOP 5.1: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen
+- TOP 5.2: Änderung am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushalt) in Umsetzung des Schreibens der Senatsverwaltung für Finanzen vom 20.07.2023 zur Fortschreibung der Globalsummen-Zuweisung - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Änderung am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushalt) wegen der Korrektur eines Plausibilitätsfehlers, der Änderung zu Nr. 3.12 AR 24/25 und der Aufnahme eines neuen Sachverhalts - 2. Nachschiebeliste - - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Sicherung des Kinderschutzes - 3 Vollzeitäquivalente und 4 Verwaltungsstellen der Abteilung Jugend und Familie zur Verfügung stellen - überwiesen
+- TOP 5.5: Änderung am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushalt) - 3. Nachschiebeliste - Beschlussempfehlungen des Ausschusses für Haushalt, Gender Budgeting, Personal und Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Änderung am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushalt) - 4. Nachschiebeliste - Beschlussempfehlungen des Ausschusses für Haushalt, Gender Budgeting, Personal und Liegenschaften - mit Änderungen in der BVV beschlossen
+- TOP 5.7: Reinickendorf als "Kinderfreundliche Kommune" - in der BVV zurückgezogen
+- TOP 5.8: Zeitnahe Einrichtung einer Koordinationsstelle zur Prävention von Kinder- und Familienarmut in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Ersuchen: Einrichtung der Personalstelle einer/-s Beauftragten für Gute Arbeit in Reinickendorf im Jahr 2023 - in der BVV abgelehnt
+- TOP 5.10: Herausragende Leistung im Bezirksamt endlich würdigen - erledigt
+- TOP 5.11: Hitzehilfe für obdachlose Menschen in Reinickendorf - vertagt
+- TOP 5.12: PV auf das Rathausdach - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Multiplikatoren für nachhaltige Entwicklung ausbilden - in der BVV abgelehnt
+- TOP 5.14: BVV muss barrierefrei sein! - vertagt
+- TOP 5.15: Neue Tonanlage im BVV-Saal - mit Änderungen in der BVV beschlossen
+- TOP 5.16: Reinickendorfer Bezirksamt als fahrradfreundlicher Arbeitgeber - in der BVV abgelehnt
+- TOP 5.17: Aufzüge im Rathaus sanieren - erledigt
+- TOP 5.18: Jungbäume am Leben halten - in der BVV abgelehnt
+- TOP 5.19: Homepage für Tagesmütter - in der BVV abgelehnt
+- TOP 5.20: Sportflächen auf hohem Niveau halten - in der BVV abgelehnt
+- TOP 5.21: Gemeinsam statt Einsam - in der BVV abgelehnt
+- TOP 5.22: Referenten für Städtepartnerschaften - in der BVV abgelehnt
+- TOP 5.23: Regelfinanzierung Gewaltprävention - in der BVV abgelehnt
+- TOP 5.24: Geld sparen durch Investition in die Bausubstanz - in der BVV abgelehnt
+- TOP 5.25: Finanzmittel für Machbarkeitsstudie Alt-Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Missstände im Maßregelvollzug (Große Anfrage) - vertagt
+- TOP 6.2: Ausbaustand von Roedernallee und Zabel-Krüger-Damm (Große Anfrage) - vertagt
+- TOP 6.3: Umsteigepunkt U-Bahnhof Alt-Tegel barrierefrei umgestalten (Beschlussempfehlung) - vertagt
+- TOP 6.4: Paralleler Radweg zur Heidekrautbahn zwischen MV und Wilhelmsruh (Beschlussempfehlung) - vertagt
+- TOP 6.5: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm / Martin-Luther-Straße (Beschlussempfehlung) - vertagt
+- TOP 6.6: Mehr PKW-Parkplätze in Reinickendorf West (Beschlussempfehlung) - vertagt
+- TOP 6.7: Allee zum Rathaus (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: 60. Jahre Städtepartnerschaft zwischen Reinickendorf und Vogelsbergkreis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Stadtteilbibliothek Reinickendorf-West als "open-space"-Projekt mit Leuchtturmfunktion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Einbürgerungsfeiern in Reinickendorf endlich wieder durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Kontaktloses Bezahlen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Auswertung der eingegangenen Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Bebauungsplanverfahren 12-52 für die Grundstücke Gotthardstraße 90, Blankestraße 9-11 sowie eine südliche Teilfläche des Dankeskirchhofes (Flurstück 838) im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Vorlage zur Beschlussfassung in der Bezirksverordnetenversammlung betreffend den Beschluss über die Veränderungssperre 12-63a / 47 gemäß § 14 Abs. 1 Baugesetzbuch (BauGB) und über den Entwurf der Rechtsverordnung für das Grundstück Trettachzeile 5 im Bezirk Reinickendorf, Ortsteil Borsigwalde. - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Neue Realitäten anerkennen - Digitale Sitzungen der BVV im Bezirksverwaltungsgesetz ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Familienfreundlichere BVV - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Spielplatzkommission konsequent in Prozesse einbinden - in der BVV abgelehnt
+- TOP 11.4: Junge Menschen in Pflegefamilien - Kinderrechte stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Maßnahmen zum Hitzeschutz - überwiesen
+- TOP 13.2: Modernisierung Rathausgalerie - überwiesen
+- TOP 13.3: Beet-Einfassungen und Sitzbänke um den Schinkelbrunnen sanieren - überwiesen
+- TOP 13.4: KiTa-Gipfel für Reinickendorf - überwiesen
+- TOP 13.5: Erstellung eines Integrationsberichts - überwiesen
+- TOP 13.6: Neue Kommunale Ausstellungsfläche - überwiesen
+- TOP 13.7: Sprachförderplätze in Reinickendorfer KiTas schaffen - überwiesen
+- TOP 13.8: Erneuerung des Leit- und Informationssystems für das Märkische Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Spielstätte für ein Kinder- und Jugendtheater schaffen - überwiesen
+- TOP 13.10: Digitalkompetenz unserer Senioren stärken - überwiesen
+- TOP 13.11: Errichtung eines Schutzgitters an der Schulzendorfer Straße - überwiesen
+- TOP 13.12: Durchführung einer öffentlichen Ausschreibung für den Kiosk am Schäfersee - überwiesen
+- TOP 13.13: Weitere Bänke für die Heiligenseer Gräben - überwiesen
+- TOP 13.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.15: Neuer Hundetreffpunkt für Reinickendorf Mitte/West - überwiesen
+- TOP 13.16: Barrierefreiheit auch in der Graphothek - überwiesen
+- TOP 13.17: Hitzeschutz für die Graphothek - überwiesen
+- TOP 13.18: Grobscreening aktualisieren - überwiesen
+- TOP 13.19: Sondergenehmigungen für erweiterte Schankvorgärten für die Gastronomie in Reinickendorf - überwiesen
+- TOP 13.20: Kurt-Schumacher-Denkmal instand halten und reinigen - überwiesen
+- TOP 13.21: Bücherschränke in allen Ortsteilen - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Neues Therapie-und Bewegungsbad im Humboldt Klinikum - überwiesen
+- TOP 14.2: Bereiche für kulturelle Arbeit im neuen Schumacher Quartier schaffen - überwiesen
+- TOP 14.3: Reinigungsklassen überprüfen - überwiesen
+- TOP 14.4: Videoüberwachung auf den Stationen - überwiesen
+- TOP 14.5: Revitalisierung des Sportplatzes am Uranusweg im Schumacher Quartier - überwiesen
+- TOP 14.6: Erhalt des "Wittenauer Stadtwaldes" auf dem KaBoN-Gelände - überwiesen
+- TOP 14.7: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm an der Martin-Luther-Straße - überwiesen
+- TOP 14.8: Südausgang des S-Bahnhofs Waidmannslust gestalterisch aufwerten - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
