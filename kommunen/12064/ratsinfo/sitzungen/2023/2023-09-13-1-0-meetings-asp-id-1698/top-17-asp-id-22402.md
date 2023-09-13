@@ -1,0 +1,8 @@
+# TOP 17: Beratung und Beschlussfassung zur Änderung der Richtlinie zur Förderung von Personalkosten von sozialpädagogischen Fachkräften in der Jugendarbeit und Jugendsozialarbeit im Landkreis Märkisch-Oderland sowie Festlegung der Finanzierungswerte (Personalkosten regionale Stellen; Verwaltungskostenpauschalen) für die Förderphase 2024-2025 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+
+- Sitzung: 32. Sitzung des Kreistages Märkisch-Oderland (2023-09-13)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=22402
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/consultations.asp?typ=i&id=22402
