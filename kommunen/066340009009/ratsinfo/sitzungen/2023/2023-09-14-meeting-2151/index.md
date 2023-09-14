@@ -1,0 +1,54 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (21. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2023-09-14T19:03:00+02:00
+- Ende: 2023-09-14T20:40:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZV_iOU0lTDhOlns5yZVs6Xc
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2151
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW0FZdvZd6M3J3VFfJJ3d5g82mNwGR3NtTIDPrf_8-1Y/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_14.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZeSpgTYj9ilnlCRlZfKkGVyeBlSSQqoxVzEo9s2pOkS/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_14.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Gewerbegebiet Homberg (Efze) Süd hier: Beratung und Beschlussfassung über die Verlängerung der Bodenbevorratungsmaßnahme - (kein Text vorhanden)
+- TOP 2.: Interkommunale Kooperation Schwalm-Eder-Mitte – Städtebauförderprogramm Stadtumbau in Hessen (Stadtumbau West) hier: Ablösung der verbleibenden Verbindlichkeiten bei der HLG als Träger des Projekts aus vorhandener Liquidität in 2023 - (kein Text vorhanden)
+- TOP 3.: Erwerb der Immobilie „Salzgasse 2“ in Homberg (Efze) - (kein Text vorhanden)
+- TOP 4.: Schaffung von Bauflächen im Stadtteil Lembach; hier: Erwerb von privaten Grundstücken - (kein Text vorhanden)
+- TOP 5.: Verkauf der städtischen Immobilie „Enge Gasse 3“ in Homberg (Efze) - (kein Text vorhanden)
+- TOP 6.: Aufwertung Freibad „Erleborn“ Hier: Sachstandsbericht Bauabschnitt & Beschlussvorschlag Termine - (kein Text vorhanden)
+- TOP 7.: Ärztehaus am Obertor – dritter Bauabschnitt Hier: Verabschiedung der Planung Lph 1-3 - (kein Text vorhanden)
+- TOP 8.: Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze) hier: Beratung und Beschlussfassung - (kein Text vorhanden)
+- TOP 9.: Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 05.05.2021 betr. Grüne Vielfalt – Feldwege und Wegraine hier: Beratung und Beschlussfassung einer neuen Feldwegesatzung der Kreisstadt Homberg (Efze) - (kein Text vorhanden)
+- TOP 10.: Quartiersentwicklung Freiheit / Katterbach hier: möglicher Verkauf des Grundstücks der KiTa und umliegender Flächen - (kein Text vorhanden)
+- TOP 11.: KiTa Wernswig hier: Beratung und Beschlussfassung über die künftige Trägerschaft - (kein Text vorhanden)
+- TOP 12.: Netzwerk: Kommunen für biologische Vielfalt Hier: Maßnahmenplan Label „StadtGrün-naturnah“ - (kein Text vorhanden)
+- TOP 13.: Kommunale Wärmeplanung Hier: Erarbeitung eines Förderantrags für eine kommunale Wärmeplanung nach dem Hessischen Energiegesetz - (kein Text vorhanden)
+- TOP 14.: Antrag der FWG-Fraktion vom 15.03.2022 betr. Lützelwig - Tempo 30 für Brummis hier: Sachstandsbericht
+- TOP 15.: Beschlussfassung über eine Vorschlagsliste der Schöffinnen und Schöffen für die Amtsperiode 2024 bis 2028
+- TOP 15.1: Beschlussfassung über eine Vorschlagsliste der Schöffinnen und Schöffen für die Amtsperiode 2024 bis 2028 - (kein Text vorhanden)
+- TOP 16.: Änderung der Schiedsmannbezirke Homberg I und II hier: Zusammenfassung der Schiedsmannbezirke Homberg I und Homberg II zu einem gemeinsamen Bezirk
+- TOP 17.: Dorfzentrum Hülsa (Bewegungsbad / Haus des Gastes / KiTa) hier: Beratung und Beschlussfassung über eine Antragstellung im Bundesförderprogramm „Sanierung kommunaler Einrichtungen“ - (kein Text vorhanden)
+- TOP 18.: Sachstandsberichte und sonstige Informationen
+- TOP 18.1: Sanierung Stadion am Stellberg hier: Sachstandbericht
+- TOP 18.1.1: Sanierung Stadion am Stellberg hier: Sachstand - Stadion A-Platz
+- TOP 18.2: Straßenbau Hersfelder Straße hier: Sachstandsbericht Baumaßnahme und Stadtmauer
+- TOP 18.2.1: Straßenbau Hersfelder Straße hier: Sachstandsbericht Baumaßnahme und Stadtmauer
+- TOP 18.3: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier "An der Mauer / Hospitalstraße" hier: Sachstandsbericht
+- TOP 18.3.1: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier „An der Mauer / Hospitalstraße“ hier: Sachstandsbericht
+- TOP 18.4: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher "Zukunft Stadtgrün") für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht
+- TOP 18.4.1: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht
+- TOP 18.5: Entwicklung ehemaliges Klinikareal an der Melsunger Straße hier: Sachstandsbericht
+- TOP 18.5.1: Entwicklung ehemaliges Klinikareal an der Melsunger Straße Hier: Sachstandsbericht
+- TOP 18.6: Dorfentwicklung Homberg (Efze) hier: Sachstandsbericht
+- TOP 18.6.1: Dorfentwicklung Homberg (Efze) hier: Sachstandsbericht
+- TOP 18.7: Mögliche Gründung eines Eigenbetriebs für nachhaltige Immobilienwirtschaft hier: aktuelle Entwürfe
+- TOP 18.8: Mögliche Gründung einer Stadtmarketing-GmbH hier: aktuelle Entwürfe
+- TOP 18.9: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 19.: Anträge
+- TOP 19.1: Antrag der CDU-Fraktion vom 30.08.2023 betr. Fußgängerüberweg oder alternative Querungshilfe Hersfelder Straße | Einmündung Waßmuthshäuser Straße - (kein Text vorhanden)
+- TOP 20.: Anregungen
