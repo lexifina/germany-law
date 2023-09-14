@@ -1,0 +1,71 @@
+# 20. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-14T15:30:00+02:00
+- Ende: 2023-09-14T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27428
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27428
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer Ausschussmitglieder - zurückgestellt
+- TOP -: A Mündlicher Bericht des Dezernenten - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Liga der Wohlfahrtsverbände - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten - Sache ist erledigt
+- TOP 2.3: Dokumentation der Konferenz Interkulturelles Köln 2023 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten - zurückgestellt
+- TOP 3.2: Einrichtung dauerhaft barrierefreier Sitzungsräume - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Konzept zur Stärkung der integrativen Stadtgesellschaft - Verfahren zur Weiterentwicklung - ungeändert empfohlen
+- TOP 5.2: Bauliche Ertüchtigung zur Sicherstellung der Betreiberverantwortung statt Umbau, Modernisierung und Erweiterung des Bürgerhauses MüZe, Berliner Str. 77 in Köln-Mülheim - zurückgestellt
+- TOP 5.3: Bereitstellung überplanmäßiger Haushaltsmittel für den Teilergebnisplan 1004 - Bereitstellung und Bewirtschaftung von Wohnraum - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 7.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. 72, 72a, 51143 Köln-Zündorf - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 7.3: Sachstand zur Situation in der Wohngeldstelle nach der Reform der Wohngeldgesetzgebung zum 01.01.2023 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Jahresbericht Koordination Gewaltschutz in Kölner Unterbringungseinrichtungen für Geflüchtete im 01.01.2022 bis 31.12.2022 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage des Sachkundigen Einwohners Intveen (Behindertenvertretung) zur Barrierefreiheit öffentlicher Toiletten - Sache ist erledigt
+- TOP -: Barrierefreiheit öffentlicher Toiletten - Kenntnis genommen
+- TOP 10.1.2: Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - zurückgestellt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU Fraktion, Volt Fraktion (AN/0641/2023) vom 19.04.2023 betreffend Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - zurückgestellt
+- TOP 10.1.3: Filialschließungen der Stadtsparkasse KölnBonn – Auswirkungen auf ältere Kundinnen und Kunden - zurückgestellt
+- TOP 10.1.4: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - zurückgestellt
+- TOP 10.1.5: Kostenloses Schulessen an Kölner Schulen - zurückgestellt
+- TOP 10.1.6: Sommerhilfe für wohnungslose Kölnerinnen und Kölner - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Projekt "Obdachlose mit Zukunft (OMZ)" - Sache ist erledigt
+- TOP -: Projekt "Obdachlose mit Zukunft (OMZ)" - Kenntnis genommen
+- TOP 10.2.2: Fragen zur Beschlussvorlage 4069/2022 - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion DIE LINKE im Rat der Stadt Köln vom 15.08.2023 - Kenntnis genommen
+- TOP 10.2.3: Ausstiegswohnung für Menschen in der Prostitution in Köln - zurückgestellt
+- TOP 10.2.4: Übersetzungen von Inhalten der Informationsseiten der Stadt Köln in die Deutsche Gebärdensprache (DGS) - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Mehrfachbeschäftigung in Köln - Beschäftigungsentwicklung 2013 bis 2022: Mehrfachbeschäftigung in Köln erreicht Höchsstand seit 2013 - Kenntnis genommen
+- TOP 12.2: Haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés - Kenntnis genommen
+- TOP 12.3: Tätigkeitsbericht der WTG-Behörde (Heimaufsicht) für die Jahre 2021-2022 - Kenntnis genommen
+- TOP 12.4: Strukturförderfonds der Stadt Köln - Förderung des Kölner Arbeitskreises Bürgerschaftliches Engagement - Kenntnis genommen
+- TOP 12.5: Ehrenamtspreis "KölnEngagiert" - Ergänzung der Teilnahmebedingungen - Kenntnis genommen
+- TOP 12.6: Bericht des Netzwerks Arbeits- und Erwerbslosenberatung für das Jahr 2022 und das 1. Quartal 2023 - Kenntnis genommen
+- TOP 12.7: Kulturförderabgabe – Zusätzliche Veranlagungen - Kenntnis genommen
+- TOP 12.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Unterkünfte für Obdachlose, Aktenzeichen 11/23 - Kenntnis genommen
+- TOP 12.9: 5. Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 12.10: Inbetriebnahme der Suchtberatungsstelle Chorweiler - Kenntnis genommen
+- TOP 12.11: Umsetzung des "Stärkungspakt NRW-gemeinsam gegen Armut" - Sachstand zum 08.09.2023 - Kenntnis genommen
+- TOP 12.12: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 12.13: Projekt "Zukunft Pflege Köln" - Sachstand - zurückgestellt
