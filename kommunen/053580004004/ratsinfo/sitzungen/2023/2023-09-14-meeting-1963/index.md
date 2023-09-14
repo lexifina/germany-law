@@ -1,0 +1,68 @@
+# Gemeinderat (30. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2023-09-14T18:00:00+02:00
+- Ende: 2023-09-14T20:36:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa73KUXkSgHYC4ME9DSiAzk
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1963
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSTZNQOlFroRQpfwvxao8YKB40ocw4oF3XrofCoCa_QW/Bekanntmachung_Gemeinderat_14.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUm7CGTiHX7NBZgvZWJZMP_nHNoe4F3KGX5DNbxs0PfZ/Oeffentliche_Niederschrift_Gemeinderat_14.09.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Sachlicher Teilflächennutzungsplan "Windkraft" a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB und der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Feststellungsbeschluss - Einstimmig, 2 Enthaltung(en)
+- TOP 4.: Neubesetzung von Gremien
+- TOP 4.1: Wahl eines neuen stellvertretenden Mitgliedes für die Verbandsversammlungen des Schulzweckverbands Aldenhoven-Linnich und des Förderschulzweckverbands im Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der SPD-Fraktion: hier: Orange Days - Ohne Abstimmung
+- TOP 5.2: Antrag der CDU-Fraktion: hier: Konzept zur Erstellung einer Kommunalen Wärmeplanung (KWP) für Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Antrag der FWG-Fraktion hier: Nutzung von Fördermitteln für die Erstellung einer Kommunalen Wärmeplanung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Antrag der GL-Fraktion: hier: Sachstandsbericht „Sozialer Wohnungsbau für die Gemeinde Aldenhoven“ - Zur Kenntnis genommen
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Unterjährige Änderung des Stellenplans - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses für das Jahr 2022 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Beschluss über die Beteiligungsberichte der Jahre 2018-2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: 9. Änderung der Zuständigkeitsordnung hier: Anpassung der Wertgrenzen für Auftragsvergaben - Für die Alternative 1 gemäß Sitzungsvorlage gibt es die folgenden Stimmen:3 Ja-Stimme(n), 18 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 8.: Bestellung einer weiteren stellvertretenden Schriftführerin - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Einführung der kreisweiten Ehrenamtskarte Nordrhein-Westfalen in der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Ausführung des Haushalts
+- TOP 10.2: Sachstandsbericht "Aktuelle Regelungen in der Städtebauförderung"
+- TOP 10.3: Sachstand „Bürgerbus in Aldenhoven“ - Kenntnisnahme
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Grundstücksangelegenheiten
+- TOP 2.1: Ausübung des Vorkaufsrechts an der Parzelle Gemarkung Siersdorf, Flur 1, Flurstück 241 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 3.1: Verkauf des gemeindeeigenen Gartens in Schleiden - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Verkauf einer gemeindeeigenen Teilfläche an der Albert-Schweitzer-Straße in Siersdorf an einen Bauherren - 21 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.3: Grunderwerb von landwirtschaftlichen Parzellen in der Gemarkung Freialdenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Lärmaktionsplanung gemäß § 47 d Absatz 1 Bundesimmissionsschutzgesetz (BImSchG) Aufstellung eines Lärmaktionsplanes für die Gemeinde Aldenhoven – Vergabe der Ingenieurleistungen - 21 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.1: Beschaffung von Spielgeräten; Hier: Vergabe von Aufträgen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Verwendung der Mittel aus dem Digitalpakt NRW - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Beschaffung eines Logistikfahrzeuges für die Bereiche Bevölkerungsschutz und Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Genehmigung von Eilentscheidungen des Hauptausschusses
+- TOP 6.1: Auftragsvergabe: Erneuerung der undichten Abwasserrohrleitungen im Keller der Großsporthalle in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Gremienangelegenheiten
+- TOP 7.1: Berichte aus den Gremien
+- TOP 8.: Auftragsvergaben
+- TOP 8.1: Lehrschwimmbecken / Sporthalle in Siersdorf Hier: Erneuerung Lüftungsanlage und Montage Deckenstrahlheizung Budgeterhöhung - Einstimmig, 4 Enthaltung(en)
+- TOP 8.2: Kleingartenanlage Vereinsheim, Finanzierung und Schadensregulierung nach Wasserschaden - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Vertragsangelegenheiten
+- TOP 9.1: Nutzungsvertrag zur Unterbringung von Flüchtlingen - 20 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.2: Abschluss eines Gestattungsvertrags - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Interkommunale Zusammenarbeit
+- TOP 11.: Verschiedenes
