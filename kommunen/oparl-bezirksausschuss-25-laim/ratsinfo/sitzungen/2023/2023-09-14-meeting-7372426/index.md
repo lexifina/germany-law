@@ -1,0 +1,135 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372426
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372426
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A).1.: null
+- TOP B): SPD-Fraktion: Nachbesetzung im Unterausschuss Schule und Gesundheit und Unterausschuss Umwelt, Klima und Baumschutz Neue Vertretungsregelung im UA Bau und UA Mobilität
+- TOP C): Bildung eines Wahlgremiums
+- TOP D): Wahl der/des Vorsitzenden des Unterausschuss Schule und Gesundheit
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Autorasen in der Fürstenrieder Straße
+- TOP 1.2.2.: Entsorgungsinfrastruktur im Stadtgebiet München und Antwort AWM
+- TOP 1.2.3.: Erneute Verschlimmerung der Verkehrssituation in der Agricolastrasse, Topo-Box in der Camerloherstraße
+- TOP 1.2.4.: Müll im Kreuzungsbereich Fachner-, Burgkmair- und Hans-Thonauer-Strasse und Antwort Baureferat
+- TOP 1.2.5.: Gartenstadt Senftenauerstraße - Familienstadt?
+- TOP 1.2.6.: Wertvolle Bäume an der Fürstenrieder Straße
+- TOP 1.2.7.: Hochbeete auf öffentlichem Grund, Voraussetzung entbürokratisieren
+- TOP 1.2.8.: Sicherheit Spielplatz am Pronnerplatz
+- TOP 2: Anträge
+- TOP 2.1.: Reinigung der Steinsockel der Sitzbänke auf dem Laimer Anger
+- TOP 2.2.: Ausreichende Beleuchtung in der Fußgängerunterführung auf Höhe der Fürstenrieder Straße 51
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Förderverein Kindergarten Fronleichnam e.V. Anschaffung einer ortsfesten Tischtennisplatte Rund vom 01.09. - 31.12.2023 1.525,75 € / AZ.0262.0-25-0306
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative „Bücherschrank Laim“ Feier „5 Jahre Bücherschrank Laim – eine Erfolgsgeschichte“ 1.080,00 Euro; Az. 0262.0-25-0307
+- TOP 3.3.: (E) Stadtbezirksbudget Pflegehof München e.V. Anteilige Gartengestaltung des Demenzgartens ab Oktober 2023 3.000,00 Euro, Az.: 0262.0-25-0308
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge (Frist 15.09.23)
+- TOP 4.2.: Schreiben Kreisveraltungsreferat vom 10.08.23: Foolpool Straßentheater Am Laimer Anger (30.09.23) und Hans-Thonauer-Straße (08.10.23) (Frist: 15.09.23)
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 11.08.23: Figurentheater Am Laimer Anger vom 26.10.-05.11.23 (Frist: 18.09.23)
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 17.08.23: Herbsflohmarkt Drachenburg e.V. am Laimer Platz am 07.10.23 (Frist: 19.09.23)
+- TOP 4.5.: Schreiben Baureferat vom 01.08.23: Radwegschilder
+- TOP 4.6.: Schreiben Sozialreferat vom 26.07.23: Kinder- und Jugendbeauftragte: Familien- und Ferienpässe für Einrichtungen im Stadtbezirk Laim
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 24.08.23: Hidalgo "Refugium" vom 22.09.-31.10.23, Veranstaltung in Grünanlagen (Frist 15.09.23 lt. Rücksprache mit KVR)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 31.08.23: Kulturelle Veranstaltung auf städischer Grünanlage: Am Laimer Anger, 5-Jahres-Feier Bücherschrank nur am Fr 22.9.23 (Frist: 07.09.23) - Vorabzustimmung durch BA-Vorsitzenden -
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 18 Neubau Wohn- und Geschäftshaus mit TG - VORBESCHEID (Fürstenrieder Str. 18 / Helmpertstr. 1) Grundstück 36/4-Laim (Frist: 04.09.2023)
+- TOP 5.2.: Landsberger Str. 180 Nutzung eines Grundstücks als PKW-Abstellfläche für Gebrauchtwagenfahrzeuge und Errichtung eines Verkaufspavillons, befristet ab 01.01.2020 bis 31.12.2023 (4 Jahre) - GENEHMIGUNGSVERLÄNGERUNG Grund 259/1-Neuhausen (Frist 04.09.23)
+- TOP 5.3.: Landsberger Str. 332, Grundstück: 237/0-Laim Neubau einer Feuerwache mit Büros in München-Laim mit sieben Vollgeschossen, (wobei das Erdgeschoss ein Zwischengeschoss aufweist) ein Untergeschoss für Tiefgarage und Kellerräumen sowie ein viergeschossiger Übungsturm - VORBESCHEID (Frist: 15.09.23)
+- TOP 5.4.: Fürstenrieder Str. 121 Nutzungsänderung, von einer bestehenden gewerblichen Nutzung als Bierstüberl zu einer Nutzung als ein Büro für Sanitär / Heizung 358/82-Laim (Frist 15.09.23)
+- TOP 5.5.: Agnes-Bernauer-Str. 70 Dachgeschossausbau: Nutzungsänderung von Speicher zu Wohnen (DG rechts) mit baulichen Maßnahmen, Errichtung dreier Dachgauben und einer Dachterrasse, Rückbau von Schornsteinen Grundstück 296/98-Laim (Frist 15.09.23)
+- TOP 5.6.: Sandrartstr. 28 Dachgeschossausbau: Nutzungsänderung von Speicher zu Wohnen (DG links) mit baulichen Maßnahmen, Errichtung von 4 Dachgauben und einer Dachterrasse, Rückbau von Schornsteinen Grundstück: 296/99-Laim (Frist 15.09.23)
+- TOP 5.7.: Agnes-Bernauer-Str. 72 Dachgeschossausbau: Nutzungsänderung von Speicher zu Wohnen (DG links) mit baulichen Maßnahmen, Errichtung dreier Dachgauben und einer Dachterrasse, Rückbau von Schornsteinen Grunstück: 296/97-Laim (Frist 15.09.23)
+- TOP 5.8.: Erdgeschossiger Anbau Gartenseite mit Unterkellerung Junkerstr. 101, Grundstück 326/26-Großhadern (Frist 22.09.23)
+- TOP 5.9.: Nutzungsänderung von Laden und Kellerräumen zu Escaperooms, Umbau Fürstenrieder Str. 81, Grundstück 351/45-Laim Frist 22.09.23
+- TOP 6: Sonstiges
+- TOP 6.1.: Termin für Oktoberfest 2023
+- TOP 6.2.: BA-Sitzungstermine 2024
+- TOP 6.3.: Dialog-Displays - Bestellstart / - modalitäten und Kriterienkatalog
+- TOP 6.4.: (U) Dialog-Displays in München Auswertung Pilotversuch und weiteres Vorgehen
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Klima, Umwelt und Baumschutz vom 18.07.23
+- TOP 7.2.: Protokoll UA Mobilität vom 15.11.2022
+- TOP 7.3.: Protokoll Ortstermin 10.07.23 (Kreislaufschrank)
+- TOP 7.4.: Protokoll Runder Tisch vom 05.07.2023 (Bauernmarkt/Bayernmarkt Am Laimer Anger)
+- TOP 7.5.: Protokoll UA Bau vom 20.07.2023
+- TOP 7.6.: Protokoll BA-Sitzung vom 27.07.2023
+- TOP 7.7.: Protokoll UA Kultur vom 26.07.23
+- TOP 7.8.: Protokoll UA Mobilität vom 18.07.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben AWM vom 13.07.23: Entsorgungsinfrastruktur im Stadtgebiet München
+- TOP 8.2.: Schreiben Baureferat vom 27.07.23: Müll im Kreuzungsbereich Fachner-, Burgkmair- und Hans-Thonauer-Strasse
+- TOP 8.3.: Schreiben Baureferat vom 04.08.23: Mehr Grün statt Teer: Entsiegelung in Laim BA-Antrag-Nr. 04429 vom 15.09.22
+- TOP 8.4.: Schreiben Baureferat vom 02.08.23: Friedenheimer Straße
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 18.07.23: Fahrradweg entlang der Bahngleise auf der Südseite
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 18.07.23: Übergeordnete Fahrradweg Hauptbahnhof - Pasing
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 18.07.23: Radwegverbindung vom Pasinger Stadtpark in die Mitte der Stadt
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 18.07.23: Planungsstand und Realisierungszeitraum Rad-/ Fußweg HBF-Laim-Pasing Südstraße (HLP-Süd)
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 13.07.23: Arbeiten im Straßenraum Gaishoferstr. 47 bis Einmündung Saherrstr. Saherrstr. 7-13, Saherrstr. 6 Teilweise Vollsperre Neubau Fernwärme - Verlängerung
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 13.07.23: Öffentliche Ladeinfrastruktur in der Gotthardstraße
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 10.08.23: VA Gotthardstr. vom 17.08.23-29.05.24
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 24.08.23: Antwort bzgl. MIP 2023-2027
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 24.08.23: Antwort zur Anfrage Stand Machbarkeitsstudie Fahrradabstellplätze S-Bahnhof Laim
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 19.07.23: Unveränderte Fortführung der Gaststättenbetriebe Bella Italia und Pizzeria Bar Bistro Lukas
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 14.07.23: Green Dinner B&#039;90/Die Grünen, Am Laimer Anger, Di 5.9.2023 Hier: Eilentscheidung
+- TOP 8.16.: Schreiben Kreisverwaltungsrefert vom 02.08.23: Illegale Taubenfütterung in der Laimer Unterführung
+- TOP 8.17.: Bautenliste 03.07.-09.07.23: A) Erstantragsverfahren 1. Landsberger Str. 180 2. Fürstenrieder Str. 121 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Fürstenrieder Str. 18
+- TOP 8.18.: Bautenliste 10.07.-16.07.23: A) Erstantragsverfahren 1. Willibaldstr. 51b 2. Ilmmünsterstr. 63 3. Eckermannstr. 29 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 332
+- TOP 8.19.: Bautenliste 17.07.-23.07.23: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 70 2. Sandratstr. 28 3. Agnes-Bernauer-Str. 72
+- TOP 8.20.: Bautenliste 24.07.23-30.07.23: A) Erstantragsverfahren 1. Burgkmairstr. 45 2. Perhamerstr. 2
+- TOP 8.21.: Bautenliste vom 31.07.23-08.08.23: A) Erstantragsverfahren 1. Baudererstr. 20 2. Landsberger Str. 336
+- TOP 8.22.: Bautenliste 07.08.-13.08.23: A) Erstantragsverfahren 1. Junkerstr. 101 2. Fürstenrieder Str. 81
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.08.23: Joergstr. 78, Flnr. 80/16, Gemarkung Laim
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.08.23 Fällung Aindorferstr. 77g
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.08.23: Aufruf Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 8.26.: Schreiben Referat für Klima- und Umweltschutz vom 14.07.23: Fledermäuse - Camerloherstr., Grundstück 171/3-Laim
+- TOP 8.27.: Schreiben Referat für Klima- und Umweltschutz vom 19.07.23: Tieffrequente Geräusche in der Camerloher Straße
+- TOP 8.28.: Schreiben Referat für Klima- und Umweltschutz vom 24.08.23: Information Förderprogramm Biodiversität
+- TOP 8.29.: Schreiben Mieterbeirat vom 01.08.23: Protokoll vom 24.07.23
+- TOP 8.30.: Schreiben Sozialreferat vom 01.08.23: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 8.31.: Schreiben Sozialreferat vom 07.08.23: Ratschbankerl
+- TOP 8.32.: Schreiben Sozialreferat vom 08.08.23: Information über Angebot der Fachstelle MoNa
+- TOP 8.33.: Schreiben Kommunalreferat vom 24.07.23: Kostenfreie Sperrmüllabholung
+- TOP 8.34.: Schreiben Referat für Bildung und Sport / Referat für Klima- und Umweltschutz vom 17.08.23: Such nach Ort für "Weltacker" in München
+- TOP 8.35.: Schreiben Referat für Arbeit und Wirtschaft vom 21.08.23: Information der Stadtwerke München zu Fernwärme und kommunaler Wärmeplanung
+- TOP 8.36.: Schreiben UA Mobilität vom 25.07.23: Bürgeranliegen
+- TOP 8.37.: Schreiben BA 1 Altstadt-Lehel vom 10.07.23: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 8.38.: Schreiben SWM vom 17.07.23: Baumaßnahmen
+- TOP 8.39.: Schreiben SWM vom 31.07.23: Baumaßnahmen
+- TOP 8.40.: Schreiben SWM vom 01.08.23: Trinkwasser-Projekt Hans-Thonauer-Straße
+- TOP 8.41.: Schreiben SWM vom 01.08.23: Tram-Westtangente, Präsentation zum Info-Termin am 24.07.23
+- TOP 8.42.: Schreiben SWM vom 09.08.23: Änderung Linienführung Bus 130 und 157 von Laim Bhf zum Pronner Platz vom 28.08.23-29.09.23
+- TOP 8.43.: Schreiben Gewofag vom 21.07.23: Postzustellung
+- TOP 8.44.: Schreiben Förderverein GS Von-Der-Pfordten-Straße vom 19.07.23: Danke und Bericht über Projekt "Gewaltfreies Lernen"
+- TOP 8.45.: Schreiben IMMA e.v. vom 01.08.23: Pressemeldung "Sichere Wiesn für Mädchen und Frauen"
+- TOP 8.46.: Beschluss des Bauausschusses vom 06.12.2022: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 - 2026 mit verbindlicher Planung für 2027 für das Baureferat
+- TOP 8.47.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.48.: Beschluss der Vollversammlung vom 26.07.23: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2024
+- TOP 8.49.: Bekanntgabe des Mobilitätsausschusses vom 19.07.23: Geplante Beschlüsse für das 2. Halbjahr 2023 mit finanziellen Auswirkungen auf den Haushalt 2024 ff. für das Mobilitätsreferat
+- TOP 8.50.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Gesetzesänderungen auf Bundes- und Landesebene für besseren Mieterschutz
+- TOP 8.51.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 8.52.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Demografiebericht München – Teil 1 Analyse 2022 und Bevölkerungsprognose 2023 bis 2040 für die Landeshauptstadt
+- TOP 8.53.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.07.23: Demografiebericht München – Teil 2 Kleinräumige Bevölkerungsprognose 2023 bis 2040 für die Stadtbezirke
+- TOP 8.54.: Beschluss der Vollversammlung vom 21.12.22: (U) Barrierefreier Zugang zu den Münchner Seen - Badespaß für alle
+- TOP 8.55.: Beschluss der Vollversammlung vom 28.06.23: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 8.56.: Beschluss der Vollversammlung vom 28.06.23: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 8.57.: Beschluss der Vollversammlung vom 26.07.23: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 8.58.: Beschluss der Vollversammlung vom 21.12.22: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 8.59.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 08.03.23: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 8.60.: Bekanntgabe im Bildungsausschuss und Bauausschuss des Stadtrates vom 29.03.23: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 8.61.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Anfrage zur Planung öffentlicher Ladepunkte (E-Mobilität)
+- TOP 2.3.: N - Ausgezeichnetes Laim
+- TOP 3.4.: N - (E) Stadtbezirksbudget SV München-Laim e.V. Ran an die Geräte - Turn 10 von Oktober 2023 - Dezember 2023 3.875,00 Euro, Az.: 0262.0-25-0309
