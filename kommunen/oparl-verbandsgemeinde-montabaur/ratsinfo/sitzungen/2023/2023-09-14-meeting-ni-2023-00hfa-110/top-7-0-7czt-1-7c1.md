@@ -1,0 +1,7 @@
+# TOP 7: Würdigung des ehrenamtlichen Engagements aller Angehörigen der Feuerwehr der Verbandsgemeinde Montabaur - Antrag der CDU-Fraktion vom 28.08.2023
+
+- Sitzung: Sitzung des Haupt- und Finanzausschusses des Verbandsgemeinderates Montabaur (2023-09-14)
+- Körperschaft: Verbandsgemeinde Montabaur
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2023-00HFA-110%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 7 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2023-00HFA-110%7Czt_1%7C1
