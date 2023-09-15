@@ -1,0 +1,58 @@
+# 6. (Sonder-)Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-09-15T17:00:00+02:00
+- Ende: 2023-09-15T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5411
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5411
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=373809
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Vorstellung der Beschlussempfehlungen der Ausschüsse zum Haushalt 2024/25 - erledigt
+- TOP 3: Abstimmung zum Haushalt 2024/25 und Beratung der Drucksachen und Anträge zum Haushalt 2024/25 - erledigt
+- TOP 4: Sonstiges - erledigt
+- TOP 5: Überwiesene Drucksachen - (offen)
+- TOP 5.1: BiBo-Bike für Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 5.2: Pflege und Entwicklungsplan für das LSG Wartenberger und Falkenberger Feldflur - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Denkmale auf dem Städtischen Friedhof Gotlindestraße erhalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.4: Ausbau Seniorenbegegnungsstätten (Angebote am Wochenende erweitern) - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.5: Stadtplanung und Milieuschutz personell stärken - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.6: Längerer Erfahrungszeitraum für Gewaltpräventionsarbeit durch Maneo in Lichtenberg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Bessere finanzielle Ausstattung für den Bereich "Aufsuchende Lichtenberger Sozialberatung" - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.8: Modellprojekt Familienzentrum an Grundschule - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.9: Schüler*innenHaushalte im Doppelhaushalt 2024/25 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.10: Kultursommer verstetigen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.11: Schaffung einer Clearingstelle / Sozialberatungsstelle im Jobcenter Lichtenberg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.12: Digitalisierung voranbringen - vertagt
+- TOP 5.13: Rekommunalisierung der Schulreinigung projektbasiert und strukturiert vorbereiten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.14: Erhöhung des Präventionsbudget im Bezirkshaushaltsplan 2024/2025 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.15: Familienzentrum im Anna-Ebermann-Kiez - vertagt
+- TOP 5.16: Haushaltsmittel für Dialogdisplays bereitstellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.17: Verstetigung des bezirklichen Ferienschwimmens - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.18: Kinderarmutsprävention substantiell haushälterisch sichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.19: Wirksam gegen Mietwucher vorgehen - vertagt
+- TOP 5.20: Ersatz für wegfallende Naherholungsfläche im Rosenfelder Ring schaffen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.21: Lichtenberger Tierschutzpreis - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.22: Tierschutzbeauftragung für Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 5.23: Klein aber bedeutend - mehr Mittel für den Erhalt der Kleingewässer in Lichtenberg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.24: Die Verkehrswende auf die Straße bringen - weitere Stellen für Radverkehrsplanung im Bezirksamt schaffen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.25: Mehr Geld für den Unterhalt von Spielplätzen und Grünflächen im Bezirk - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.26: Kulturwiese für Hohenschönhausen - vertagt
+- TOP 5.27: Humboldt-Prämie einführen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.28: Neue Hall of Fame in der Rummelsburger Bucht finanziell sichern - vertagt
+- TOP 5.29: Die Finanzierung der bezirklichen Antidiskriminierungsstelle für Schulen verstetigen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.30: Starke Mädchen - Mehr Mittel für Mädchensport und Mädchen-Selbstverteidigung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.31: Erweiterung der Suchtprävention und Suchthilfeplanung im Bezirk Lichtenberg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.32: Begutachtung für eine Erhaltungssatzung für den Fennpfuhl - mit Änderungen im Ausschuss beschlossen
+- TOP 5.33: Gutachten zur Verkehrsberuhigung - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.34: Laufende Kosten für den Taubenschlag im Haushalt 2024/25 berücksichtigen - vertagt
+- TOP 5.35: Trinkwasser und Verschattung für Lichtenberger Spielplätze - vertagt
+- TOP 5.36: Höherer Fachpersonalbedarf in den Lichtenberger Familienzentren - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.37: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2024/25 - mit Änderungen im Ausschuss beschlossen
+- TOP 5.38: Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2024/2025 - mit Änderungen im Ausschuss beschlossen
