@@ -1,0 +1,7 @@
+# TOP 23.1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (127. Sitzung) (2023-09-18)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/65773
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
