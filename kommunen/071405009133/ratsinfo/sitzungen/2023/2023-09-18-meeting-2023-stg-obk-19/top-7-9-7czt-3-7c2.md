@@ -1,0 +1,6 @@
+# TOP 7: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsbeirates Sankt Goar-Kernstadt der Stadt Sankt Goar (2023-09-18)
+- Körperschaft: Stadt Sankt Goar
+- Öffentlich: nein
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/2023-StG_OBK-19%7Czt_3%7C2
