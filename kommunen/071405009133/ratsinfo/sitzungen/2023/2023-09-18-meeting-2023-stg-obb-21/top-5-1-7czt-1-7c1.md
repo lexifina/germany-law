@@ -1,0 +1,6 @@
+# TOP 5: Anfragen
+
+- Sitzung: Sitzung des Ortsbeirates Biebernheim der Stadt Sankt Goar (2023-09-18)
+- Körperschaft: Stadt Sankt Goar
+- Öffentlich: ja
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/2023-StG_OBB-21%7Czt_1%7C1
