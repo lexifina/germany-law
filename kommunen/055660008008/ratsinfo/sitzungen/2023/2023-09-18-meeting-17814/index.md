@@ -1,0 +1,54 @@
+# Haupt-, Finanz- und Steuerungsausschuss (127. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-09-18T18:00:00+02:00
+- Ende: 2023-09-18T20:24:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf7c8VIvr8vJElKeK4RR_bg
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17814
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWBhMRuX-tyqROKsVwprkMjPEFxhV2umBhSZmDSDTH3i/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_18.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWlyMZzzZmE1v8YW_71toZ6zBAC-89MwKsH50d1S9WoL/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_18.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 12.06.2023
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Wahl von Schiedspersonen - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Jahresabschluss 2022 - bestätigter Entwurf - Einstimmig
+- TOP 4.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2022 - Einstimmig
+- TOP 4.3: Managementbericht zum 31.07.2023 - Zur Kenntnis genommen
+- TOP 4.4: Optionen zur Haushaltskonsolidierung - Zur Kenntnis genommen
+- TOP 4.5: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 4.6: Bericht zum Fördermanagement - Zur Kenntnis genommen
+- TOP 4.7: Information zu Projektabschlüssen in Förderprojekten - Zur Kenntnis genommen
+- TOP 5.: Stadtwerke Emsdetten GmbH
+- TOP 5.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2022 und Gewinnverwendung - Einstimmig
+- TOP 5.2: Änderung des Gesellschaftsvertrages der TKRZ Stadtwerke GmbH - Einstimmig
+- TOP 6.: Tätigkeitsbericht der Gleichstellungsbeauftragten der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 7.: Gründung eigenbetriebsähnliche Einrichtung Gebäudereinigung, Satzungsbeschluss und Bestellung Betriebsleitung - Einstimmig
+- TOP 8.: Änderung der Hauptsatzung für die Stadt Emsdetten - Einstimmig
+- TOP 9.: Änderung der Zuständigkeitsordnung des Rates, der Ausschüsse und der Bürgermeisterin/des Bürgermeisters der Stadt Emsdetten - Einstimmig
+- TOP 10.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung 2022 - Zur Kenntnis genommen
+- TOP 11.: Einführung einer Gebührensatzung für das Standesamt der Stadt Emsdetten - Einstimmig
+- TOP 12.: Verwaltungsorganisation
+- TOP 12.1: Altersteilzeit bei der Stadt Emsdetten - Ohne Abstimmung
+- TOP 13.: Moderne Arbeitswelten - Informationen zum Projekt "Emsdetten - Wir leben Freiräume" bei der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 14.: Beschaffung einer neuen Diskussionsanlage: Zustimmung zu einer außerplanmäßigen Auszahlung - 11 Ja-Stimme(n), 4 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 15.: THG-Bilanz 2022 Stadt und Abwasserwerk - Zur Kenntnis genommen
+- TOP 16.: Mitgliedschaft im „Netzwerk Stadtentwicklung NRW“ - Einstimmig
+- TOP 17.: Mitgliedschaft der Stadt Emsdetten im Förderverein NRW-Stiftung für Naturschutz, Heimat- und Kulturpflege - Einstimmig
+- TOP 18.: Vergabekriterien für städtische Wohnbaugrundstücke - Einstimmig
+- TOP 19.: E-Fahrzeuge - Entscheidung über Parkgebühren - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Gehweg Silberweg – Borghorster Straße bis Neuenkirchener Straße - Einstimmig
+- TOP 21.: Regionalplanung
+- TOP 21.1: Änderung des Regionalplans Münsterland Anpassung an den Landesentwicklungsplan Nordrhein-Westfalen (LEP NRW) und den Bundesraumordnungsplan für den Hochwasserschutz (BRPH) - Stellungnahme der Stadt Emsdetten zum Regionalplanentwurf - 11 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Schulangelegenheiten
+- TOP 22.1: Deutschlandticket für Schülerinnen und Schüler in Nordrhein-Westfalen - Einstimmig
+- TOP 23.: Sportangelegenheiten
+- TOP 23.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.: Verschiedenes
