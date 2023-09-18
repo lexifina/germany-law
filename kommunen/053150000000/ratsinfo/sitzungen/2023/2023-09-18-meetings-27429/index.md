@@ -1,0 +1,57 @@
+# 20. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-18T15:25:00+02:00
+- Ende: 2023-09-18T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27429
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27429
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktion FDP vom 04.08.2023 betreffend "Vergünstigtes Deutschland-Ticket für Kölner Schülerinnen und Schüler" - zurückgestellt
+- TOP 3.2: Antrag der Fraktion FDP vom 05.09.2023 betreffend "Informieren der Kölner Schülerinnen und Schüler über die Angebote der Berufskollegs" - geändert beschlossen
+- TOP -: Stellungnahme zu dem Antrag der FDP-Fraktion AN 1581/2023 Informieren der Kölner Schülerinnen und Schüler über die Angebote der Berufskollegs - Kenntnis genommen
+- TOP 3.3: Antrag der Fraktion SPD vom 06.09.2023 betreffend "Schulbaukooperation Stadt Köln und LVR" - geändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 08.09.2023 Reinigung von Graffiti an Kölner Schulen - zurückgestellt
+- TOP 4.2: Anfrage der Fraktion SPD vom 11.09.2023 betreffend "Ausnahmezustand am Maximilian-Kolbe-Gymnasium" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 13.09.2023 betreffend "Einführung digitaler Klassenbücher an Kölner Schulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - zurückgestellt
+- TOP 5.3: Anfrage der Fraktion CDU vom 16.05.2023 betreffend "Straftaten an Kölner Schulen" - zurückgestellt
+- TOP 5.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU, Volt vom 16.05.2023 betreffend "Mehrklassen an Grundschulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 12.09.2023 - Kenntnis genommen
+- TOP 5.5: Anfrage der Fraktion Die Linke vom 22.05.2023 betreffend "Verbesserungsmöglichkeiten des Aufnahmeverfahrens und der Bildungsgerechtigkeit an Grundschulen" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Neubau für die Grundschule Antwerpener Straße19-29, 50672 Köln-Neustadt/-Nord - Baubeschluss - ungeändert empfohlen
+- TOP 6.2: Gesamtschulgebäude Lindenthal/Ehrenfeld Wasseramselweg - Erweiterung der Photovoltaikanlage - ungeändert empfohlen
+- TOP 6.3: Bedarfsfeststellung für drei Schulbaumaßnahmen zur kurzfristigen Schaffung von Schulplätzen an Grund- und Förderschulen mit Primarstufe - ungeändert empfohlen
+- TOP 6.4: Deutschlandticket Schule für Schülerinnen und Schüler an Weiterführenden Schulen der Stadt Köln - zurückgestellt
+- TOP 6.5: Förderung von Familiengrundschulzentren durch das Ministerium für Schule und Bildung - ungeändert empfohlen
+- TOP 6.6: Elternbeiträge zur Kindertagesbetreuung, hier Erlass zum Ausgleich energiekrisenbedingter Kostensteigerungen - zurückgestellt
+- TOP 7: Entscheidungen
+- TOP 7.1: Mentale Gesundheit von Schülerinnen und Schülern - zurückgestellt
+- TOP 7.2: Anmeldung und Aufnahmeverfahren an weiterführenden Schulen der Sekundarstufe I in Köln zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Offene Ganztagsschule im Primarbereich ab dem Schuljahr 2023/2024 - Kenntnis genommen
+- TOP 8.2: Mehrklassenbildung im Schuljahr 2023/2024 - Kenntnis genommen
+- TOP 8.3: Ehrenamtspreis "KölnEngagiert" - Ergänzung der Teilnahmebedingungen - Kenntnis genommen
+- TOP 8.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/1169/2023) bezüglich der Generalinstandsetzung des Schulzentrums Zündorf in der Heerstraße - Kenntnis genommen
+- TOP 8.5: LSBTI-Förderprogramm 2023: Verteilung der Mittel - Kenntnis genommen
+- TOP 8.6: Bildungslandschaft Altstadt/Nord Baufeld A Hansa-Gymnasium - Sachstand Stand 1. August 2023 - Kenntnis genommen
+- TOP 8.7: Tag der Jugend im Rathaus 2023 - Kenntnis genommen
+- TOP 8.8: Aktueller Stand zur Kampagne "#KölnSafe" - Kenntnis genommen
+- TOP 8.9: Erfolgreiches VHS-Projekt: „Bildungsberatung im Sozialraum“ - Kenntnis genommen
+- TOP 8.10: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 8.11: Sportsituation an der Heinrich-Böll-Gesamtschule, Merianstr. 11, 50765 Köln-Chorweiler - Sachstandsmitteilung der Verwaltung - Kenntnis genommen
+- TOP 8.12: Sachstandsbericht der KölnBäder GmbH zu "Durchführung von Schwimmkursen" und "Sicher schwimmen" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
