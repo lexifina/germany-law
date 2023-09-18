@@ -1,0 +1,91 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488198
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488198
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 24.07.2023
+- TOP 1.2.: Amtsniederlegung und Neubenennung (§ 23 und § 23a BA-Satzung) 1. der/des Inklusionsbeauftragten 2. der/des Beauftragten gegen Rechtsextremismus
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Rücksichtsloses Verhalten von Autofahrern in der Brieger Straße gegenüber anderen Verkehrsteilnehmern
+- TOP 2.2.: Überflüssige Abriss- und Neubaumaßnahmen für Wohnsiedlung südlich der Bauberger-, westlich der Gube- und beidseitig der Karlinger Straße; Antrag auf ressourcenschonende Instandsetzung im Bestand
+- TOP 2.3.: Entschärfung der gefährlichen Kurvensituation auf dem Fuss- und Radweg der Borstei (parallel zum mittleren Ring zur Pickelstraße)
+- TOP 2.4.: Parksituation Borstei bei Veranstaltungen im Olympiapark
+- TOP 2.5.: Nächtliche Ruhestörungen in der Grünanlage an der Vilniusstraße
+- TOP 2.6.: Austausch der Streuscheiben der Lichtzeichen der Fußgängerlichtanlagen rund um die Kleingartenanlage NW3 mit stehenden und gehenden Pumuckl-Figuren
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Ehrenbreitsteiner Str. 36
+- TOP 3.3.1.2.: Breslauer Str. 9
+- TOP 3.3.1.3.: Seydlitzstr. 3
+- TOP 3.3.1.4.: Dessauer Str. 17
+- TOP 3.3.1.5.: N_ Alfred-Drexel-Str. 3
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Umbau der Einmündung Batzenhoferstraße in die Feldmochinger Straße und Aufwertung der Straßenfläche zum baumbestandenen Quartiersplatz
+- TOP 4.1.2.: Beschleunigung des Radverkehrs durch Anbringen eines Grünpfeils für Radfahrende - Kreuzungsbereich Schragenhofstraße/ Menzinger Straße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Kunst kommt (in die) Schule im September/Oktober 2023 3.750€; Az. 0262.0-10-0346
+- TOP 5.2.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach Ausbildung der neuen Streitschlichter vom 25. -29.09.2023 1.659,50€; Az. 0262.0-10-0351
+- TOP 5.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. Demokratie im Einsatz - Demokratiemobil München am 06./07.10.2023 1.600,00€; Az. 0262.0-10-0348
+- TOP 5.4.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlingerstraße Projekt "Zum Wegwerfen zu schade..." vom 01.09. -31.10.2023 375,00€; Az. 0262.0-10-0353
+- TOP 5.5.: (E) Stadtbezirksbudget Soldaten- und Reservistenkameradschaft Nord West München Moosach Volkstrauertag 2023 am 19.11.2023 300,00 € / Az. 0262.0-10-0345
+- TOP 5.6.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gGmbH Sommerfest Teestube „komm“ am 11.08.2023 145,54 € / Az. 0262.0-10-0344
+- TOP 5.7.: (E) Stadtbezirksbudget Moosacher Faschingsclub -München e.V Faschingssaison 2023/24 vom 01.09.2023 -31.03.2024 15.600,00€; Az. 0262.0-10-0349
+- TOP 5.8.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Moosach Cup 2023, Sommerfest sowie eigene Turniere/ Veranstaltungen am 09. und 10.09.2023 1.440,00€; Az. 0262.0-10-0350
+- TOP 5.9.: Entscheidung gemäß OB-Vollmacht: Standortgenehmigung für Parkscheinautomaten ("Seydlitzplatz")
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung (Bürgerversammlungs-Empfehlung Stb. 21): Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 6.2.: Entscheidungsvorschlag zur künftigen Raumaufteilung Knotenpunkt Dachauer Straße/ Wintrichring/ Georg-Brauchle-Ring
+- TOP 6.3.: Bestellung einer städtischen Leistung: Vorschläge für Aufstellungsorte einer "orangenen Bank"
+- TOP 6.4.: BA1: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen - mit der Bitte um Unterstützung und Ergänzung
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Ausweisung der Moosburger Straße zwischen Dachauer - und Holledauer Straße zur Fahrradstraße
+- TOP 6.6.: Veranstaltungen in städtischen Grünanlagen: Follpool Straßentheater am Hartmannhofer Bächl am 30.09.2023 und im Amphionpark am 03.10.2023
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Optische Aufwertung der Brücke zwischen Kleingartenanlage NW12 und Amphionpark [Zwischennachricht zu BA-Antrag Nr. 20-26/B 00957;Antrag bezieht sich auf laufenden Vollzug des Stadtratbeschlusses zur förmlichen Festlegung des Sanierungsgebietes Moosach (Sitzungsvorlage Nr. 20-26/V 00782). Behandlung im geplanten Folgebeschluss 2024.]
+- TOP 7.2.: Ausweisung des Hügels im "Rathgeber Park" als Schlittenberg (südlich Wohnanlage "Meiller Gärten", 80997 München) [BA-Antrag Nr. 20-26/B 05592; Beschilderung erfolgt bis zur nächsten Rodelsaison.]
+- TOP 7.3.: Anfrage: Sind schattenspendende Maßnahmen in der öffentlichen Grünanlage an der Untermenzinger Straße / Ecke Margarete-Steiff-Straße vorgesehen? [BA-Antrag Nr. 20-26/B 05594; 74 neue Bäume wurde gepflanzt. Evtl. weitere Bäume möglich. Sonnensegel, Pergolen nicht leistbar.]
+- TOP 7.4.: Anfrage: WC-Anlage im Rondell Großbeerenstraße/ Bunzlauer Straße am Moosacher Bahnhof seit 2020 geschlossen - Wird das ein Dauerzustand? [BA-Antrag Nr. 20-26/B 05199; Seit April 2023 ist Anlage wieder in Betrieb.]
+- TOP 7.5.: Sicher im Verkehr unterwegs – Roteinfärbung der Radverkehrsfurten der Zweirichtungs-Radwege im Kreuzungsbereich Dachauer Straße/ Max-Born-Straße [BA-Antrag Nr. 20-26/B 05692; Radfurten werden zeitnah umgesetzt.]
+- TOP 7.6.: Radweg an der Dachauer- / Hanauer Straße rot einfärben [BA-Antrag Nr. 20-26/B 05688; Abmarkierungen werden nach Erledigung der derzeitigen Spartenarbeiten angebracht.]
+- TOP 7.7.: Prüfung einer möglichen Änderung der Ampelschaltung Georg-Brauchle-Ring und Hanauer Straße (Radverkehr) [BA-Aantrag Nr. 20-26/B 05046; Änderung nicht möglich, da konkurrende Wegebeziehungen (N-S-Richtung und W-O-Richtung)]
+- TOP 7.8.: Erweiterung des E-Ladesäulennetzes im 10. Stadtbezirk [BA-Antrag Nr. 20-26/B 04905; genannte Standorte wurden für weiteren Ausbau vorgemerkt.]
+- TOP 7.9.: Wohnen in Moosach 1 – Ungenutztes Grundstück der Stadtentwässerungswerke München; Grundstück Haylerstr. 13 – Sachstand Umsetzung Wohnbebauung [BA-Antrag Nr. 20-26/B 05455; Abriss Bestandsgebäude bis Ende 2024, Neubau Wohnungen für Beschäftigte der MSE.]
+- TOP 7.10.: Wohnen in Moosach 2 – Sanierungsgebiet, GWG-Wohnungen; Umsetzung von Mietern [BA-Antrag Nr. 20-26/B 05456; Angebote für Mieter mit unbefristeten Mietverträgen; keine Ersatzwohngen für Mietzeitverträge. Diese Umstände sind Mietern bekannt.]
+- TOP 7.11.: Siedlung Hartmannshofen - Information zum Konzept (Stadt München mit Freistaat Bayern) [BV-Anfrage Nr. 20-26/Q 00314; geforderte Info-Veranstaltung ist noch 2023 vorgesehen.]
+- TOP 7.12.: Erneuerung/ zusätzliche Straßenbeschilderung (Sackgasse) zur Abbachstraße [Schreiben BA10 vom 26.07.2023; Umsetzungsauftrag ist ergangen, erst nach Abschluss der Bauarbeiten wird über Widmung entschieden.]
+- TOP 7.13.: Derzeitige Umgestaltung der Baldurstraße [Schreiben BA10 vom 28.07.2023; hier nur wegen Wurzelschäden Wiederherstellung der Verkehrssicherheit; Umgestaltung ist durch MOR noch in Planung.]
+- TOP 7.14.: Aufstellung eines Trinkwasserbrunnens im Park an der Pelkovenstraße/ Oskar-Barnack-Straße [Schreiben BA10 vom 26.07.2023; stadtweit sind 100 Trinkbrunnen vorgesehen. Abstimmung zu Standorten zu ggb. Zeit mit dem BA vorgesehen]
+- TOP 7.15.: Missachtung der Beschilderung "Fußweg" zwischen Feldmochinger Str. 27 zum Chemnitzer Platz
+- TOP 7.16.: Mehrjahresprogramm 2023-2027; Stellungnahme zu Monierungen des BA10
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahmen Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: 1. Veranstaltung auf öffentlichem Verkehrsgrund: Gedenkgottesdienst für Opfer des OEZ-Attentates am 22.07.2023 2. Veranstaltung auf öffentlichem Verkehrsgrund: u.a. auf dem Bunzlauer Platz Hidalgo "Refugium" vom 07.10.2023 bis 09.10.2023
+- TOP 8.2.: Information der Stadtwerke München zu Fernwärme und kommunaler Wärmeplanung
+- TOP 8.3.: Aufruf Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 8.4.: Dialog-Displays - Bestellstart/ - Modalitäten und Kriterienkatalog
+- TOP 8.5.: (U) Unterbringung von wohnungslosen Geflüchteten: Finanzierung der Betriebskosten für Hartmannshofen 10. Stadtbezirk - Moosach
+- TOP 8.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 - 2026 mit verbindlicher Planung für 2027 für das Baureferat
+- TOP 8.7.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 8.8.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 8.9.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 8.10.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 8.11.: Folgebeschluss zur Finanzierung einer Anmietung und deren Einrichtung; - nicht-öffentlich - Neue Filiale für städt. Berufsschule Riesstr. 25 (Sitzungsvorlage Nr. 20-26 /V 09248)
+- TOP 8.12.: Einleitung Vorkaufsrechtprüfungsverfahren Gärtnerstraße - nicht-öffentlich -
+- TOP 8.13.: Suche von Mobilfunkstandorten: - nicht-öffentlich - 1. Versorgungsziel Hanauer Straße 2. Versorgungsziel Bingener Straße
+- TOP 6.7.: N_ Veranstaltung in städtischer Grünanlage: Karl-Lipp-Straße Open-Air Theater "Kerims Nase" am 14.10.2023
