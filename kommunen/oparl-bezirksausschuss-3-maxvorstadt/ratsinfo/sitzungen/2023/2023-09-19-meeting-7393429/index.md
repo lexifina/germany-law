@@ -1,0 +1,160 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393429
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393429
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Filiale der HypoVereinsbank Ecke Theresien-/Augustenstraße incl. SB – Zone wird im September geschlossen – Forderung nach Erhalt der SB – Zone bzw. der Schaffung einer SB –Zone in der Nähe.
+- TOP 6.2.: Biodiversitätsfläche in der Maxvorstadt anlegen
+- TOP 6.3.: Informationsveranstaltung zu „Superblocks“
+- TOP 6.4.: Sofortmaßnahmen für den Neureuther Platz
+- TOP 6.5.: Begrünung Schwindschule
+- TOP 6.6.: Baumfällungen auf dem Grundstück Augustenstraße 87 bis 89
+- TOP 6.7.: Öffentliche Toiletten am Königsplatz
+- TOP 6.8.: Überarbeitung der Webseite www.spielplatz-muenchen.de der Landeshauptstadt München (LHM) und Anbringung von QR-Codes an den Spielplätzen im Bezirk bzw. stadtweit
+- TOP 6.9.: Lagerung der abgebauten Kunstinstallation Clemens Behr Busbahnhof Olympiazentrum München
+- TOP 6.10.: Wo sind die Bäume?
+- TOP 6.11.: Christbaum am Josephsplatz – Bodenhülse anbringen
+- TOP 6.12.: Aufwertung Rudi-Hierl-Platz wie ist der Stand der Planungen?
+- TOP 6.13.: Filiale der HypoVereinsbank Ecke Theresien-/Augustenstraße incl. SB – Zone wird im September geschlossen – Gebäude Quo Vadis?
+- TOP 6.14.: Verkehrssicherheit erhöhen – „Trixispiegel“ für die Kreuzung Arcis-/Adalbertstraße
+- TOP 6.15.: Antrag „Trixispiegel“ für die Kreuzung Arcis-/Adalbertstraße vom Mai 2022 endlich bearbeiten
+- TOP 5.2: Vorstellungen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Aktuelle Lebensbedingungen in der Augustenstraße 70 Bürger*innenanliegen vom 21.08.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne/CSU (vertagt aus 06/23 und 07/23) Nachfrage Studierendenwerk zum Studiwohnen in der Adalbertstr. 41
+- TOP 1.2.2.: Antrag SPD vom 04.09.2023 Nachfrage Ersatzpflanzung eines Baumes n der Blutenburgstraße
+- TOP 1.2.3.: Antrag SPD vom 04.09.2023 Flächennutzungsplan für das Justizzentrum ändern
+- TOP 1.2.4.: Antrag SPD vom 04.09.2023 Zwischennutzung für das Justizzentrum planen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 31-35
+- TOP 2.1.2.: WEB-Liste der LBK: KW 29-30 und KW 33-35
+- TOP 2.1.3.: Königspl. 2, 1 Werbeanlage für Estee Lauder (Brustkrebskampagne 23), Illumination (Beamer), Propyläen (Königspl. 2 / Luisenstr.), befristet vom 12.10. - 14.10.2023
+- TOP 2.1.4.: Nachtragung in Denkmalliste, Schellingstraße 123
+- TOP 2.1.5.: Marsstr. 37, Erweiterung (Anbau) eines Verwaltungsgebäudes - VORBESCHEID / GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.6.: Marsstr. 37, Anbau an ein Verwaltungsgebäude - VORBESCHEID (2 Var.) / GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.7.: Zieblandstr. 21, DG-Ausbau mit Nutzungsänderung von Speicher zu zwei Wohneinheiten mit Änderung der Dachform und Erhöhung der Wand- und Firsthöhe Variante 1 und Variante 2
+- TOP 2.1.8.: Augustenstr. 59, Vordergebäude: Dachgeschossneubau (1 WE), Anbau von Balkonen und eines Außenaufzugs sowie energetische Sanierung durch Anbringen eines Wärmeverbundsystems hofseitig, Rüchgebäude: Nutzungsänderung einer Wohnung im Dachgeschoss zu einem Büro ohne Änderung der Gebäudestruktur
+- TOP 2.1.9.: Schönfeldstr. 30, Energetische Sanierung des Bestandes, Erneuerung und Ausbau des Dachstuhles zu einer Wohneinheit mit zwei Dachterrassen und Dachgauben
+- TOP 2.1.10.: Georgenstr. 105, Abbruch eines Bestandsdachstuhls und Neubau eines zum Wohnzwecke ausgebauten Daches sowie der Anbau einer Wohneinheit im Hinterhof - VORBESCHEID (Georgenstr. 105 / Schwarzmannstr.)
+- TOP 2.1.11.: Dachauer Str. 145, Sanierung, Umbau und Erweiterung eines Studentenwohnheims mit 39 Apartments und Nutzungsänderung eines Ladens zu Gemeinschaftsflächen - ÄNDERUNGSANTRAG zu 1.111-2020-432-22
+- TOP 2.1.12.: Lothstr. 84, Dachaufstockung von 9 Häusern zur Wohnnutzung - VORBESCHEID - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.13.: Satzungsbeschluss Erhaltungssatzung „St. Benno-Viertel“ I 25.09.2023
+- TOP 2.1.14.: Schellingstr. 124, ABBRUCH Rückgebäude
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Luisenstr. 37
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 5.2.: Information der Stadtwerke München zu Fernwärme und kommunaler Wärmeplanung
+- TOP 5.3.: Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt“ – Projektaufruf für 2024
+- TOP 5.4.: Förderprogramm „Biodiversitätsbausteine auf Privatgrund“
+- TOP 5.5.: Fällung einer Esche an der Marsstr. 82/Ecke Weiglstraße als Gefahrenbaum
+- TOP 5.6.: Genehmigungsverlängerung Vorbescheid Adalbertstr. 19
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baugerüst an St. Joseoh: Zwei Bürger*innenanliegen vom 02. und 04.08.2023
+- TOP 1.1.2.: Kreuzung Amalien-/Theresienstraße: a) Bäume pflanzen b) Ampel abbauen und Theresienstraße zur Vorfahrtsstraße machen
+- TOP 1.1.3.: Einrichtung von Fahrradabstellplätzen im Bereich Linprunstr 35-37 Bürger*innenanliegen vom 22.08.2023
+- TOP 1.1.4.: Pilotprojekt „Grüner Gehweg Georgenstraße“ Bürger*innenanliegen vom 18.08.2023
+- TOP 1.1.5.: Die Augustenstraße und die Autos Bürger*innenanliegen vom 17.07.2023
+- TOP 1.1.6.: Fahrradständer in der Gabelsbergerstraße Bürger*innenanliegen vom 24.08.2023
+- TOP 1.1.7.: Erschwerte Einfahrt zur Garage im Hinterhof Nordendstr. 19 Bürger*innenanliegen vom 24.08.2023
+- TOP 1.1.8.: Errichtung von Fahrradabstellanlagen: Heßstr. 45, Georgen-/Ecke Schraudolphstraße; Neureutherstr. 16; Neureutherstr. 7, 8 und 9; jeweils Ecke Schraudolphstraße Bürger*innenanliegen vom 25.08.2023
+- TOP 1.1.9.: Errichtung einer Fahrradabstellanlage an der Kreuzung Georgen-/Kurfürstenstraße (Südseite) Bürger*innenanliegen vom 30.06.2023
+- TOP 1.1.10.: Umgestaltung Augustenstraße Bürger*innenanliegen vom 02.07.2023
+- TOP 1.1.11.: Parksituation in der Theresienstraße Bürger*innenanliegen vom 24.08.2023
+- TOP 1.1.12.: Lärmbelästigung durch Veranstaltungen im Kunstlabor 2, Dachauer Str. 60 Bürger*innenanliegen vom 02.09.2023
+- TOP 1.1.13.: Provisorische Laternen in der Blutenburgstraße Bürger*innenanliegen vom 04.09.2023
+- TOP 1.1.14.: Lärmbelästigung durch Tischtennis auf dem „Steinhuber“ Bürger*innenanliegen vom 04.09.2023
+- TOP 1.1.15.: Sperrung der Ludwigstraße für die IAA – Verkehrsprobleme in der Maxvorstadt Drei Bürger*innenanliegen vom 30.08., 31.08. und 04.09.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag SPD vom 04.09.2023 Auskunft über den Planungsstand zur Umgestaltung der Augustenstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) + (U) Parkverbot auf dem Georg-Elser-Platz Empfehlung Nr. 14-20 / E 03113 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 28.11.2019
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Türkenstr. 45, Antrag auf Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.2.2.: Görresstr. 9, Antrag auf Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.2.3.: Ludwigstr. 21, Antrag auf Aufstellung eines mobilen Fahrradständers (Bitte der BI um erneute Beschlussfassung zur Vermeidung einer OB-Entscheidung)
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Antrag auf Ausdehnung einer Freischankfläche, „Noppakao“, Dachauer Str. 21
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: ICF-Kinder- und Familienprogramm am 15.10.2023 im Arnulfpark I 22.09.2023
+- TOP 2.4.2.: Fahrradsicherheitscheck am 27.10.2023, Prof.-Huber-Platz I 21.09.2023
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fachstelle MoNa: Vermittlung bei Nachbarschaftskonflikten in der Nacht
+- TOP 3.2.: Verkehrsrechtliche Anordnungen: a) Theresienstraße zwischen Türkenstraße und Barer Straße; Markierung eines Radfahrstreifens auf der Fahrbahn (Ergänzung) b) Georgenstraße: Haltverbote vor Baumnasen c) Altstadtringtunnel Phasen 110 und 200 d) Änderung der Parkregelung in der Rottmannstraße e) Änderungen im Parklizenzgebiet St.-Benno-Viertel f) Änderungen im Parklizenzgebiet TU-Viertel g) Änderung der Parkregelung in der Arcostraße h) Sperrung Zirkus-Krone-Straße zur Verlegung eines Fernwärme-Hausanschlusses i) Hol- und Bringzone Kindertagesstätte Rottmannstr. 21 j) Zeitlich befristetes Halteverbot Hiltensperger-/Görresstra0e (Müllabfuhr)
+- TOP 3.3.: Infoflyer der Stadtwerke München a) Fernwärmeprojekt Theresienstraße b) Fernkälteprojekt Hopfenstraße c) Stromprojekt Marsstraße
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Eilentscheidung der BA-Vorsitzenden: HIDALGO „Refugium“ am 22./23.09.2023 auf dem Karl-Stützel-Platz und am 28./29.09.2023 im Arnulfpark
+- TOP 3.6.: Erlaubnisbescheid Internationale Automobilausstellung 2023 – Open Space Teilbereich Wittelsbacherplatz, Odeonsplatz und Ludwigstraße vom 05.09. – 10.09.2023
+- TOP 3.7.: Erlaubnisbescheid Internationale Automobilausstellung 2023 – Königsplatz vom 05.09.-10.09.2023
+- TOP 3.8.: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Schwindstraße e.V. Förderung des Lernens/ Kompetenzaufbau durch individuelle Hausaufgabenbetreuung vom 02.10.2023 -26.07.2024. 5.250,00€; Az. 0262.0-3-0484
+- TOP 2.2.: (E) Stadtbezirksbudget Init. "Familienfest am Josephsplatz" Familienherbst: Ein Fest für Groß und Klein, Nachbarn und Freunde auf dem Josephsplatz am 09.09.2023 1.982,00€; Az. 0262.0-3-0485
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 4.4.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Init. U-Bahn Galerie Flyer und Material U-Bahn Galerie vom 15.09. -01.10.2023 800,00€; Az. 0262.0-3-0487
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Tänzerisches Forschungsprojekt" Lärmen.Lösen.Zerschmettern - Ein tänzerisches Forschungsprojekt vom 15.10.2023 - 31.05.2024 3.800,00 Euro, Az.: 0262.0-3-0490
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Reservierung für das Oktoberfest 2023
+- TOP 2.: Sonstiges
+- TOP 2.3.: Kleine Veranstaltung: Dank des BA 3 an die Münchner Tafel Ausgabestelle Arcisstraße
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.2.2.: Winzererstr. 30-34 I 25.09.2023
+- TOP 3.2.3.: Zieblandstr. 35 I 25.09.2023
+- TOP 3.9.: Radabstellplätze am nördlichen Hauptbahnhof - Antwort MOR
+- TOP 2.3.: Anhörung: Temporäre Kunstaktion Color-Mapping-experimentelle Kartographie München, 28.10.2023-28.11.2023 | 25.09.2023
+- TOP 1.1.16.: Projekt Steinheilstraße Bürger*innenanliegen vom 05.09.2023
+- TOP 1.2.2.: Antrag SPD vom 19.09.2023 Maximierung Platzangebot Tramlinien 20 und 21
+- TOP 2.1.: Gedenkveranstaltung des BAs 09.11.23
+- TOP 2.2.: Terminabfrage Hybridsitzungen 2024
