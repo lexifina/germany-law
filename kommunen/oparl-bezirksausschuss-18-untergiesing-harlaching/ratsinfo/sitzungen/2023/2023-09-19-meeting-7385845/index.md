@@ -1,0 +1,203 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2023-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7385845
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7385845
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Münchenstift GmbH – Haus an der Tauernstraße “1. Harlachinger Adventspektakel am 09.12.2023“ 2.797,00 € / AZ: 0262.0-18-0357
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Bürgerinitiative „Mehr Platz zum Leben“ “Neue Mosaiken am Hans-Mielich-Platz vom 15.09.2023 – 31.10.2023“ 6.050,00 € / AZ: 0262.0-18-0358
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Lebenshilfe München e.V. Stadt und Landkreis OBA “Inklusives Cafe im Garten – Alte Mc Graw Kaserne vom 25.08.2023 – 30.10.2023“ 1.425,00 € / AZ: 0262.0-18-0360
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Antwortschreiben Baureferat: Orangene Bank für Projekt „gegen Gewalt an Frauen“ des Münchner Zonta Clubs (BSL); BA-Antrag Nr. 20-26 / B 05528
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Bestätigung Direktorium: Budget für eigene Veranstaltungen - Gemeinsame Gedenkveranstaltung mit dem BA 17 zum 9. November 1938
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Bücherschrank im 18. Stadtbezirk; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Straßenfest / Tag der offenen Tür in der Pistorinistraße am 13.10.2023 - Veranstaltung auf Privatgrund und öffentlichem Verkehrsgrund
+- TOP 3.2.4.2.: Gemeinnütziger Flohmarkt Emmauskirche am Laurinplatz vom 14.10. bis 16.10.2023 - Veranstaltung im Freien in einer städtischen Grünanlage
+- TOP 3.2.4.3.: Fahrradsicherheitscheck in der Grünwalder Straße vor dem Stadion am 24.10.2023 - Veranstaltung auf öffentlichem Grund
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Antwortschreiben Referat für Bildung und Sport: Weitere Optimierung der Toilettensituation am städtischen Stadion an der Grünwalder Straße; BA-Antrag Nr. 20-26 / B 04700
+- TOP 3.2.5.2.: Antwortschreiben Baureferat: Boulebahn am Miesbacher Platz; Bürgeranliegen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Sommerfest Siedler- und Eigenheimverein am Mangfallplatz am 28.07.2023 - Erlaubnis mit Auflagen und Gestattung
+- TOP 3.2.6.2.: Kinder-Zirkus-Attraktionen in der Oberbibergerstraße (auf der Waldwiese am Münchner Kindl Heim) vom 14.08. bis 26.08.2023 - Erlaubnis mit Auflagen und Gestattung
+- TOP 3.2.6.3.: "Open-Q" am St.-Quirin-Platz vom 03.09. bis 30.09.2023 - Eilentscheidung der 1. stellvertretenden BA-Vorsitzenden
+- TOP 3.2.6.4.: "Open-Q" am St.-Quirin-Platz vom 03.09. bis 30.09.2023 - Erlaubnis mit Auflagen und Gestattung
+- TOP 3.2.6.5.: Straßenfest Aggensteinstraße am 16.09.2023 - Erlaubnis mit Auflagen und Gestattung
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) + (U) Taktverdichtung Buslinie 52 (Sendlinger Tor-Tierpark) Empfehlung Nr. 20-26 / E 00860 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 06.10.2022
+- TOP 3.3.2.2.: (E) + (U) Wiedereinführung Buslinie X98 (Hauptbahnhof-Tierpark) Empfehlung Nr. 20-26 / E 00859 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 06.10.2022
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Polizeieinsatz wegen Gehwegparken in der Immergrünstraße; Bürgeranliegen
+- TOP 3.3.3.2.: Haltverbotsregelung in der Reichenhaller Straße ab der Schorerstraße stadteinwärts; Bürgeranliegen
+- TOP 3.3.3.3.: Parkregelung in der Meraner Straße; Bürgeranliegen
+- TOP 3.3.3.4.: Diverse Anliegen zum Thema Lärm durch Straßenverkehr im Stadtbezirk; Bürgeranliegen
+- TOP 3.3.3.5.: Einführung Parklizenzgebiet in der Rotbuchenstraße und in den angrenzenden Straßen; Bürgeranliegen
+- TOP 3.3.3.6.: Ordnungswidrigkeiten wegen Parken auf Gehwegen in der Mondstraße; Bürgeranliegen
+- TOP 3.3.3.7.: Trambahnhaus am Theodolindenplatz; Bürgeranliegen
+- TOP 3.3.3.8.: Einsatz von Dialog-Displays im BA 18 - Schönstraße; Antrag Bündnis 90/Die Grünen
+- TOP 3.3.3.9.: Sicherung der Fußgängerquerung in der Landfriedstraße zur Verbindung des Grünzugs & der Spielplätze; Antrag Bündnis 90/Die Grünen
+- TOP 3.3.3.10.: Ablehnung einer Umgestaltung des Mangfallplatzes und Beschwerde über den Umbau der Kreuzung St.-Magnus-Straße / Naupliastraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Antwortschreiben Mobilitätsreferat: Zebrastreifen Soyerhofstraße; Bürgeranliegen
+- TOP 3.3.5.2.: Antwortschreiben Mobilitätsreferat: Vorfahrtsregelung Kreuzung Hans-Mielich-Straße / Krumpterstraße; Bürgeranliegen
+- TOP 3.3.5.3.: Antwortschreiben Mobilitätsreferat: PKW-Parken Parkbuchten am Perlacher Forst; Bürgeranliegen
+- TOP 3.3.5.4.: Antwortschreiben Mobilitätsreferat: Ausfahrt Kühbachstraße / Hans-Mielich-Platz; Bürgeranliegen
+- TOP 3.3.5.5.: Antwortschreiben Mobilitätsreferat: Kreuzung Teutoburger Straße / Gerhardstraße Zeichen 102 StVO und Dialog-Display; Bürgeranliegen
+- TOP 3.3.5.6.: Antwortschreiben Mobilitätsreferat: Grüner Pfeil in der Grünwalder Straße; Bürgeranliegen
+- TOP 3.3.5.7.: Antwortschreiben Mobilitätsreferat: Fußgängerampel Geiselgasteigstraße auf Höhe Schilcherweg; BA-Antrag Nr. 20-26 / B 05229
+- TOP 3.3.5.8.: Antwortschreiben Mobilitätsreferat: Schnellstmögliche Entfernung aller Verkehrszeichen 237 in der Sankt Magnus Straße; BA-Antrag Nr. 20-26 / B 05439
+- TOP 3.3.5.9.: Antwortschreiben Baureferat: Instandsetzung des Flauchersteges; BV-Anfrage Nr. 20-26 / Q 00321
+- TOP 3.3.5.10.: Antwortschreiben Mobilitätsreferat: Grüner Pfeil in der Grünwalderstrasse Ecke Langobardenstraße (am Authariplatz) soll zeitnah wieder angebracht werden!; BA-Antrag Nr. 20-26 / B 05436
+- TOP 3.3.5.11.: Antwortschreiben Mobilitätsreferat: Verkehrsberuhigung am Hollerbusch; BA-Antrag Nr. 20-26 / B 05671
+- TOP 3.3.5.12.: Antwortschreiben Baureferat: Massive Geschwindigkeitsüberschreitung in der 30er-Zone Bozener Straße; Bürgeranliegen
+- TOP 3.3.5.13.: Antwortschreiben Mobilitätsreferat: Haltverbot Oberbibergerstraße; Bürgeranliegen
+- TOP 3.3.5.14.: Antwortschreiben Mobilitätsreferat: Senior*innen in der Mobilitätswende aktiv mitnehmen; BA-Antrag Nr. 20-26 / B 04984
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumaßnahme St.-Magnus-Straße - Umbau zwischen Grünwalder Straße und Naupliastraße vom 21.08.2023 bis 15.12.2024
+- TOP 3.3.6.2.: Arbeiten im Straßenraum - Verlegung Fernwärmeleitung Gerhardstraße / Agilolfingerplatz vom 28.08. bis 27.10.2023
+- TOP 3.3.6.3.: Fristverlängerung Mobilitätsreferat: Verbesserungen im öffentlichen Personennahverkehr (ÖPNV); BV-Anfrage Nr. 20-26 / Q 00320
+- TOP 3.3.6.4.: Fristverlängerung Baureferat: Überarbeitung und Neustrukturierung Marktbereich am südlichen Mangfallplatz; BV-Empfehlung Nr. 20-26 / E 01377
+- TOP 3.3.6.5.: Baumaßnahme Vierheiligstraße - Vollsperre vom 16.09. bis 31.10.2023
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Erreichbarkeit Wertstoffinseln im Umfeld des Bauvorhabens Living Isar; Bürgeranliegen
+- TOP 3.4.3.2.: Fernwärme für die Gartenstadt; Bürgeranliegen
+- TOP 3.4.3.3.: Trinkwasserrichtlinie EU; SPD-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Am Blumengarten 4 - Grünwalderstr. 173a - Harthauser Str. 69 - Hermine-Bland-Str. 4a - Hertlingstr. 13 - Koenigswarter Str. 15 - Langobardenstr. 4 - Lindenstr. 29 - Lindenstr. 39 - Menterschwaigstr. 12 - Schönegger Weg 5 - Soeltlstr. 2
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Antwortschreiben Baureferat: Grünpatenkonzept der Landeshauptstadt München; BA-Anfrage
+- TOP 3.4.5.2.: Antwortschreiben Referat für Arbeit und Wirtschaft: Mülleimer am U-Bahn-Ausgang Mangfallplatz bei der Eisdiele wieder installieren; BA-Antrag Nr. 20-26 / B 03897
+- TOP 3.4.5.3.: Antwortschreiben Baureferat: Bedarf an öffentlich zugänglichen Mülleimern; Bürgeranliegen
+- TOP 3.4.5.4.: Erneutes Antwortschreiben Referat für Arbeit und Wirtschaft: Zeitnaher Anschluss des Stadtteils Untergiesing-Harlaching an das Fernwärmenetz der SWM; BA-Antrag Nr. 20-26 / B 05419
+- TOP 3.4.5.5.: Antwortschreiben Referat für Klima und Umweltschutz: Pflanzung einer Stockrose an einer Hauswandecke, nahe Bürgersteig; BA-Antrag Nr. 20-26 / B 05418
+- TOP 3.4.5.6.: Antwortschreiben Baureferat: Hundekotbeutelspender in der Rotbuchenstraße; Bürgeranliegen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Nächtlicher Einsatz eines Mobilkrans bei der Aufstellung eines Turmdrehkrans in der Grünwalder Straße - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BlmSchV
+- TOP 3.4.6.2.: Baumfällung in der Seybothstr. 34
+- TOP 3.4.6.3.: Informationsschreiben Stadtwerke München (SWM): Fernwärme und kommunale Wärmeplanung
+- TOP 3.4.6.4.: Baumfällung im Schönegger Weg 5
+- TOP 3.4.6.5.: Informationsschreiben Referat für Klima und Umweltschutz: Förderprogramm Biodiversität
+- TOP 3.4.6.6.: Baumfällung in der Lindenstr. 4g
+- TOP 3.4.6.7.: Baumfällung in der Vollmarstr. 8
+- TOP 3.4.6.8.: Baumfällung in der Harthauser Str. 94
+- TOP 3.4.6.9.: Baumfällung in der Grünwalder Str. 253
+- TOP 3.4.6.10.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Spielplatz am Athener Platz; Bürgeranliegen
+- TOP 3.5.3.2.: Lärmbelästigung am Wettersteinplatz; mehrere Bürgeranliegen
+- TOP 3.5.3.3.: Zustand am Hans-Mielich-Platz; Bürgeranliegen
+- TOP 3.5.3.4.: Erneuerung und Erweiterung der Spielplätze im Stadtbezirk; Bürgeranliegen
+- TOP 3.5.3.5.: Verbot von Rockpartys und Nutzung von USB Lautsprechern unter der Brudermühlbrücke; Bürgeranliegen
+- TOP 3.5.3.6.: Beschwerden über den nächtlichen Lärm an der Isar; mehrere Bürgeranliegen
+- TOP 3.5.3.7.: Teilnutzung des Areals Hochkalterstraße / Landfriedstraße / Bad-Wiessee-Straße für Hunde; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Suche nach einem Ort für einen Weltacker im 18. Stadtbezirk - Lernort für Ernährung und Landwirtschaft
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Antwortschreiben Kommunalreferat: Rattenbefall auf dem Schulgelände an der Fromundstraße; Bürgeranliegen
+- TOP 3.5.5.2.: Antwortschreiben Baureferat: Tischtennisplatte Spielplatz Schmorellplatz; Bürgeranliegen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Aktualisierte Übersicht der Unterkünfte für Geflüchtete und Wohnungslose ab 31.05.2023
+- TOP 3.5.6.2.: Information des Sozialreferats über Angebot der Fachstelle Moderation der Nacht (MoNa)
+- TOP 3.5.6.3.: Fristverlängerung Baureferat: Ortstermin Spielwiese am Hochkalterplatz
+- TOP 3.5.6.4.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 3.5.6.5.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 3.5.6.6.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertageseinrichtungen sonstiger Träger; Haus für Kinder am Am Perlacher Forst 186 im 18. Stadtbezirk Untergiesing-Harlaching Leistung eines Baukostenzuschusses
+- TOP 3.5.6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Sondernutzungserlaubnis: Erweiterung Christbaumverkaufsplatz Schyrenplatz
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Baustelle im Schyrenbad; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Seybothstr.: Schulbauoffensive - Neubau einer 3-zügigen Grundschule mit 2-fach Sporthalle und Tiefgarage am Klinikstandort Harlaching
+- TOP 3.6.4.1.2.: Naupliastr. 103: Neubau eines Einfamilienhauses mit Carport und versenkbarer Parker (für Bestand) - VORBESCHEID
+- TOP 3.6.4.1.3.: Grünwalder Str. 14: Neubau eines Wohnhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.6.4.1.4.: Grünwalder Str. 4: Ertüchtigung des Städtischen Stadions an der Grünwalder Straße auf 18.105 Zuschauer - VORBESCHEID / GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.6.4.1.5.: Lautererstr. 8: Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.6.4.1.6.: Sommerstr. 54: Nutzungsänderung von Studentenwohnheim in Wohnheim für Arbeitnehmerinnen und Arbeitnehmer
+- TOP 3.6.4.1.7.: Faistenbergerstr. 4: Abbruch eines Wohngebäudes und Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID
+- TOP 3.6.4.1.8.: Reinekestr. 1a: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.4.1.9.: Athener Str. 11a-13: Abbruch und Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Antwortschreiben Referat für Stadtplanung und Bauordnung: Sektoraler Bebauungsplan für das Karree zwischen Hans-Bartels-Straße, Harthauser Straße und Hermine-Bland-Straße; BA-Antrag Nr. 20-26 / B 05342
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Informationsschreiben Referat für Stadtplanung und Bauordnung: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 3.6.6.2.: Unveränderte Gaststättenfortführung: Schönstraße 21
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: BA 1 - Interfraktioneller Antrag: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.3.11.: - NACHTRAG - Straßenschilder reinigen; Antrag CSU
+- TOP 3.3.3.12.: - NACHTRAG - Wartehäuschen und elektronische Abfahrtszeiten zeitnah wieder installieren; Antrag CSU
