@@ -1,0 +1,79 @@
+# 27. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-19T16:05:00+02:00
+- Ende: 2023-09-19T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27354
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27354
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohner*innen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Verkehrsversuche einstellen – freie Fahrt für freie Bürger - zurückgestellt
+- TOP 1.2: Resolution Rodenkirchener Brücke - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 1.2, Antrag von Die Fraktion vom 11.08.2023 betr. Resolution Rodenkirchener Brücke - ungeändert beschlossen
+- TOP 1.3: Integriertes Gesamtverkehrsmodell, Verkehrsmengenerfassung - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 1.3 - Antrag der SPD-Fraktion Integriertes Gesamtverkehrsmodell, Verkehrsmengenerfassung - ungeändert beschlossen
+- TOP 1.4: Allgemeine Gestaltungssatzung für Radverkehrsanlagen - zurückgestellt
+- TOP 1.5: Ausreichende ÖPNV-Anbindung des Gutes Leidenhausen - verwiesen in nachfolgende Gremien
+- TOP 1.6: Programm zum Bau von sicheren Fahrradabstellanlagen am Wohnhaus - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - ungeändert beschlossen
+- TOP 3.2: Machbarkeitsstudie zur Kölner Südbahn S16 - ungeändert beschlossen
+- TOP 3.3: Rheinpendel - Vorlage der Machbarkeitsstudie - ungeändert beschlossen
+- TOP 3.4: Verkehrsversuch Venloer Straße in Köln-Ehrenfeld, Umsetzung der 2. Stufe - ungeändert beschlossen
+- TOP -: Verkehrsversuch Venloer Straße in Köln-Ehrenfeld, Umsetzung der 2.Stufe (2488/2023) - endgültig abgelehnt
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Mitgliedschaft der Stadt Köln im Internationalen Verband für öffentliches Verkehrswesen (UITP) - ungeändert empfohlen
+- TOP 4.2: Hst. Reichenspergerplatz - Aufzugsnachrüstung - ungeändert empfohlen
+- TOP 4.3: Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz - ungeändert empfohlen
+- TOP 4.4: Gesamtinstandsetzung Mülheimer Brücke - mit Änderungen empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Sachstand Ertüchtigung der Friedrich-Ebert-Straße/ Kreuzung L300 - Sache ist erledigt
+- TOP -: Sachstand Ertüchtigung der Friedrich-Ebert-Straße/ Kreuzung L300 - Kenntnis genommen
+- TOP 5.1.2: Güterverkehr auf der Schiene - rechtliche Grundlagen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Verkehrsausschusses am 25.04.23 betr. "Güterverkehr auf der Schiene - rechtliche Grundlagen", AN/0664/2023 - Kenntnis genommen
+- TOP 5.1.3: Umsetzung Verkehrsversuch Venloer Straße (Phase 3) - Sache ist erledigt
+- TOP -: Umsetzung Verkehrsversuch Venloer Str. (Phase 3) - Kenntnis genommen
+- TOP 5.1.4: Personalbedarf ÖPNV-Netzentwicklung, Mobilitätswende - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion, AN/1023/2023, aus der Sitzung am 23.05.2023 betr. "Personalbedarf ÖPNV-Netzentwicklung, Mobilitätswende" - Kenntnis genommen
+- TOP 5.1.5: Einsatz von KI-Ampeln in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage (AN/1305/2023) der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 22.08.2023 betr. "Einsatz von KI Ampeln in Köln" - Kenntnis genommen
+- TOP 5.1.6: Fahrgastzahlen KVB - zurückgestellt
+- TOP 5.1.7: Zustand der Verkehrsschilder in Köln - zurückgestellt
+- TOP 5.1.8: Ost-West-Achse – Zeithorizont zur Beschlussfassung und Beschleunigungsmöglichkeiten - zurückgestellt
+- TOP 5.1.9: Regionale Zusammenarbeit im Verkehrsbereich - zurückgestellt
+- TOP 5.1.10: Nachfrage zur Antwort 1520/2023 zur Anfrage AN/0658/2023 - zurückgestellt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Sachstand zur Verbesserung und Ergänzung der rechtsrheinischen Stadtbahnanbindung - zurückgestellt
+- TOP 5.2.2: Bike-Tower in Weiden-West - zurückgestellt
+- TOP 5.2.3: Führung der Radpendlerroute entlang der B8 auf Höhe des Igus-Werkes in Lind - zurückgestellt
+- TOP 5.2.4: Halterkostenbescheide gegen Vermieterfirmen von E-Scootern - zurückgestellt
+- TOP 5.2.5: Sachstand zur Errichtung von Quartiersgaragen - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Errichtung einer vollautomatischen Fahrradschließanlage mit 120 Fahrradabstellplätzen (sog. Bike-Tower) an der Haltestelle in Köln Weiden-West - Kenntnis genommen
+- TOP 6.2.2: Information zum Beschluss des Verwaltungsgerichts Köln vom 02. August 2023 zur Verkehrsanordnung „Deutzer Freiheit“, zum weiteren Vorgehen „Verkehrsversuch Venloer Straße“ und zum erweiterten Prüfumfang von laufenden Verkehrsmaßnahmen im Zusammenhang - Kenntnis genommen
+- TOP 6.2.3: Buslinie Köln-Mülheim - Flughafen Köln/Bonn - Kenntnis genommen
+- TOP 6.2.4: Verwendung der Stellplatzablösemittel im Jahr 2022 - Kenntnis genommen
+- TOP 6.2.5: Sachstand zur Umgestaltung Barbarossaplatz - zurückgestellt
+- TOP 6.2.6: Unfallentwicklung, Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2022 im Stadtgebiet Köln - Kenntnis genommen
+- TOP 6.2.7: Kalker Hauptstraße – Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 6.2.8: Sachstand "Umsetzung durchgehender Achsen für den Radverkehr" (gemäß AN/2374/2021) - Kenntnis genommen
+- TOP 6.2.9: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 6.2.10: Machbarkeitsstudie Oberbergische Bahn (RB 25) - Kenntnis genommen
+- TOP 6.2.11: Rückblick auf die Entwicklung des regulären Fahrplanangebots seit 2012 und Sachstand zu den aktuellen Engpässen im Bus- und Stadtbahnangebot der KVB - Kenntnis genommen
+- TOP 6.2.12: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Jährliche Berechnung der Kosten der Verkehrssysteme in Köln" Aktenzeichen 145-21 S - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Pilotprojekt Schulstraßen
+- TOP 7.2: Turiner Straße/Dagobertstraße
+- TOP 7.3: Leistungsprämien an den KVB-Vorstand
