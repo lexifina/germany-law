@@ -1,0 +1,71 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-19T17:00:00+02:00
+- Ende: 2023-09-19T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23976
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23976
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Verwaltungsvorlagen und -berichte
+- TOP 4.1: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - einstimmig beschlossen
+- TOP 4.2: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - abweichend beschlossen
+- TOP 4.3: Fortführung Schnellbus SB 53 - einstimmig beschlossen
+- TOP 4.4: Viernheimer Weg - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 4.5: Umbau Reichsgasse - abweichend beschlossen
+- TOP 4.6: Schmiedestraße - Fußgängerüberweg vor dem Wim-Wenders-Gymnasium - einstimmig beschlossen
+- TOP 4.7: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - vertagt
+- TOP 4.8: Zwischennutzung der Freien Szene der darstellenden Künste am Bertha-von-Suttner-Platz 1-3 - einstimmig beschlossen
+- TOP 4.9: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - mehrheitlich beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bezirklicher Bauunterhalt und Zuschüsse
+- TOP 6.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 6.2: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7: Beratung Haushaltsentwurf 2024/2025 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2024/2025 für den Stadtbezirk 3
+- TOP 7.1: Haushalt 2024 / 2025: Aufwertung Platz Bachstraße/Bilker Allee (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.2: Haushalt 2024 / 2025: Mintropplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.3: Haushalt 2024 / 2025: Kirchfeldstraße als Fahrradstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.4: Haushalt 2024 / 2025: Abenteuerspielplatz im Stadtbezirk 03 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.5: Haushalt 2024 / 2025: Haushaltsmittel der BV3 - Mittelübertragung (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - abweichend beschlossen
+- TOP 7.6: Haushalt 2024 / 2025: Überplanung Ortsumgehung Oberbilk (Antrag BÜNDNINS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.7: Haushalt 2024 / 2025: Planungsmittel Umbau Karolingerplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.8: Haushalt 2024 / 2025: Hitzeschutz an öffentlichen Plätzen und Spielplätzen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.9: Haushalt 2024 / 2025: Modernisierung von Fahrrad- und Scooter-/Rollerabstellanlagen an Schulen (Antrag BÜNDNINS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 7.10: Haushalt 2024 / 2025: Sichere Schulwege (Antrag BÜNDNINS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Mögliche Mobilitätsstation Gogrevestr./Vlattenstr. (Anfrage BÜNDNINS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Fahrradturm Bilker Bahnhof (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.2.2: GGS Regenbogenschule (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.2.3: Parksituation an Kreuzung Südring/Aachener Str. (Anfrage Fraktion BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Ersatzflächen suchen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 9.2: Prüfung Einrichtung temporäre Schulstraße vor der GGS Kronprinzenstraße (Antrag Fraktion BÜNDNIS 90/DIE GRÜNEN) - zurückgezogen
+- TOP 9.3: Prüfung Neugestaltung Schulhof der GGS Helmholtzstraße beschleunigen (Antrag Fraktion BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 9.4: Prüfung Renovierung LehrerInnentoiletten am Lessing-Gymnasium (Antrag Fraktion BÜNDNIS 90/DIE GRÜNEN) - abweichend beschlossen
+- TOP 9.5: Prüfung Instandsetzung Sportplatz zwischen Geschwister-Scholl-Gymnasium und Hulda-Pankok-Gesamtschule beschleunigen (Antrag Fraktion - einstimmig beschlossen
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Aufstellung von Taubenschlägen - zur Kenntnis genommen
+- TOP 10.2: Sitzungstermine 2024 - zur Kenntnis genommen
+- TOP 10.3: Umgestaltung kl. Platzfläche vor Corneliusstr. 36 - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
