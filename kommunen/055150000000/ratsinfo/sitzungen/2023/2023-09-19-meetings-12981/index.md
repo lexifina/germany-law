@@ -1,0 +1,69 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-09-19T17:00:00+02:00
+- Ende: 2023-09-19T19:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12981
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12981
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00534272.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu den öffentlichen Niederschriften der Sitzungen am 09.05.2023, 24.05.2023 und 13.06.2023
+- TOP 4: Eingänge/Mitteilungen
+- TOP 4.1: Bericht zum Förderprogramm Klimafreundliche Wohngebäude
+- TOP 4.2: Green Bond – 1. Allokations- und Wirkungsbericht
+- TOP 4.3: Umsetzungsstand Haushaltsbegleitantrag zum Haushalt 2021 (Grundstückseinlage W + S im Wert von 50 Mio. €)
+- TOP 4.4: sonstige Mitteilungen
+- TOP 5: Wohnen
+- TOP 5.1: Bericht zur Wohnbaulandentwicklung 2022 und Fortschreibung des Baulandprogramms 2023 - 2030 - mehrheitlich geändert beschlossen
+- TOP 6: Liegenschaften
+- TOP 6.1: Interimslösung zur Nutzung der städtischen Immobilie an der Bennostraße durch die Vereine Tango Pasión e.V. und Wasser + Freizeit e.V. - einstimmig beschlossen
+- TOP 7: Finanzen
+- TOP 7.1: Post EEG-Anlagen und Fracking-Gas: Bericht der Stadtwerke Münster GmbH zum Status Quo im 2. Quartal 2023 - zur Kenntnis genommen
+- TOP 7.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 7.3: Schulden- und Liquiditätsbericht 2021 / 2022 - zur Kenntnis genommen
+- TOP 7.4: Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH): Novellierung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 7.5: Entwurf des Jahresabschlusses zum 31.12.2022 der Stadt Münster - einstimmig beschlossen
+- TOP 7.6: Jahresabschluss 2022 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 7.7: Jahresabschluss 2022 der Wirtschaftsförderung Münster GmbH (WFM) - einstimmig beschlossen
+- TOP 7.8: Jahresabschluss 2022 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 7.9: Jahresabschluss 2022 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 7.10: Jahresabschluss 2022 der KonvOY GmbH (KonvOY) - einstimmig beschlossen
+- TOP 7.11: NRW.URBAN Kommunale Entwicklung GmbH: Jahresabschluss 2022; Bestellung des Abschlussprüfers für den Jahresabschluss 2023 - einstimmig beschlossen
+- TOP 7.12: Jahresabschluss 2022 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 7.13: Jahresabschluss 2022 der Klärschlammverwertung Buchenhofen GmbH (KVB GmbH) - einstimmig beschlossen
+- TOP 7.14: Jahresabschluss 2022 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 7.15: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2022 - einstimmig beschlossen
+- TOP 7.16: Feststellung der Jahresabschlüsse 2022 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 7.17: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 7.18: Beschluss einer allgemeinen Vorschrift als Satzung zur Festsetzung des Deutschlandtickets als Höchsttarif - einstimmig beschlossen
+- TOP 7.19: Bauinvestitionscontrolling (Antrag an den Rat, Nr.: A-R/0053/2022: Controlling bezüglich Kosten für Bau und Anmietung verbessern) - einstimmig beschlossen
+- TOP 7.20: Überleitung der außerunterrichtlichen Angebote (OGS) der Astrid-Lindgren-Schule - einstimmig beschlossen
+- TOP 7.21: Überleitung der außerunterrichtlichen Angebote (OGS) der Ludgerusschule Albachten - einstimmig beschlossen
+- TOP 7.22: Überleitung der außerunterrichtlichen Angebote (OGS) der Dietrich-Bonhoeffer-Schule - einstimmig beschlossen
+- TOP 7.23: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (B 11), Bezirk Mitte - einstimmig beschlossen
+- TOP 7.24: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (C 14), Bezirk Mitte - einstimmig beschlossen
+- TOP 7.25: Trägervergabe für die siebengruppige Kindertageseinrichtung südlich Hiltruper Straße / Am Bielenfeld, Bezirk Südost - einstimmig beschlossen
+- TOP 7.26: Trägervergabe für die viergruppige Kindertageseinrichtung am Heinrich-Wichtrup-Weg (York Quartier), Bezirk Südost - einstimmig beschlossen
+- TOP 7.27: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen - vertagt
+- TOP 7.28: Finanzierung der OGS-Ferienbetreuung - von der Tagesordnung abgesetzt
+- TOP 7.29: Einführung des Deutschlangtickets - einstimmig beschlossen
+- TOP 7.30: Grundschulentwicklung in Wolbeck - Grundsatzbeschluss für eine neue dreizügige Grundschule am Brandhoveweg - einstimmig geändert beschlossen
+- TOP 7.31: Grundschulsituation Coerde - einstimmig beschlossen
+- TOP 7.32: Grundsatzbeschluss zur Verlagerung, Zusammenführung und baulichen Erweiterung des Anne-Frank-Berufskolleg an zwei Standorten sowie die Umsetzung durch die Bauwerke Münster GmbH - einstimmig beschlossen
+- TOP 7.33: Neubau einer dreizügigen Grundschule in Albachten Ost - einstimmig geändert beschlossen
+- TOP 7.34: Baubeschluss - einstimmig beschlossen
+- TOP 8: Energetische Stadtsanierung (KfW 432) - einstimmig beschlossen
+- TOP 9: Transformation - Zukunft der Verwaltung gestalten - mehrheitlich geändert beschlossen
+- TOP 9.1: Transformation - Zukunft der Verwaltung gestalten
+- TOP 10: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities - einstimmig geändert beschlossen
+- TOP 10.1: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities
+- TOP 11: Neubau des multifunktionalen Stadtteilhauses Coerde als städtische Gemeinbedarfseinrichtung - einstimmig beschlossen
+- TOP 12: Verschiedenes
