@@ -1,0 +1,101 @@
+# 19. Sitzung (Einbringung Haushalt 2024)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-09-20T16:15:00+02:00
+- Ende: 2023-09-20T21:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12878
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12878
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00534363.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Ende der provisorischen Verlegung der Bremer Straße - Zeitliche Planung
+- TOP 1.2: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung
+- TOP 1.3: Rettung des innerstädtischen PG Jugend- und Begegnungszentrums im Paul-Gerhardt-Haus
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Kauf des sog. "Zimmermannschen Wäldchens" - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Würdevolle Versorgung schwerstkranker und sterbender Menschen stärken - einstimmig beschlossen
+- TOP 11.2: Wohnraumoffensive für Angehörige der Erziehungsberufe - verwiesen
+- TOP 11.3: Resolution: Münsteraner Hilfenetz für junge Arbeitssuchende erhalten - Mittelkürzung im SGB II und Aufgabenverlagerung für junge Menschen unter 25 Jahren von den Jobcentern hin zur Agentur für Arbeit verhindern - einstimmig beschlossen
+- TOP 11.4: Eine nachhaltigere Siedlungs- und Grünflächenentwicklung für Münster - mehrheitlich beschlossen
+- TOP 11.5: Resolution: Anspruch auf Betreuung und Bildung einlösen – Kita-Misere endlich beenden! - mehrheitlich geändert beschlossen
+- TOP 12: Entwurf der Haushaltssatzung 2024 - einstimmig beschlossen
+- TOP 13: Transformation - Zukunft der Verwaltung gestalten - mehrheitlich geändert beschlossen
+- TOP 13.1: Transformation - Zukunft der Verwaltung gestalten
+- TOP 14: Gleichstellung in politischen Gremien (Stand 30.06.2023) - zur Kenntnis genommen
+- TOP 15: Energetische Stadtsanierung (KfW 432) - mehrheitlich beschlossen
+- TOP 16: Aufhebung der Satzung "Bewohnerparkausweis-Gebührenordnung" in Münster - einstimmig beschlossen
+- TOP 17: Antrag der Internationalen Fraktion Die PARTEI/ÖDP an den Rat A-R/0086/2021 vom 07.12.2021 "Diverse interkulturelle Stadtgesellschaft gleichberechtigt teilhaben lassen - für eine interkulturelle Öffnung der Verwaltung" - mehrheitlich geändert beschlossen
+- TOP 18: Entwurf des Jahresabschlusses zum 31.12.2022 der Stadt Münster - einstimmig beschlossen
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 20: Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH): Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 21: Beschluss einer allgemeinen Vorschrift als Satzung zur Festsetzung des Deutschlandtickets als Höchsttarif - einstimmig beschlossen
+- TOP 22: "Betrauungsakt der Stadt Münster für die Westfälische Bauindustrie GmbH, Engelstr. 49, 48143 Münster, als Käuferin eines Grundstücks der KonvOY GmbH im York-Areal (Gremmendorf)" - einstimmig beschlossen
+- TOP 23: Innenstadt stärken: Sachstand zu aktuellen Maßnahmen, INSEK Münster-Innenstadt und Städtebauförderung - zur Kenntnis genommen
+- TOP 24: Bericht zur Wohnbaulandentwicklung 2022 und Fortschreibung des Baulandprogramms 2023 - 2030 - mehrheitlich geändert beschlossen
+- TOP 25: Neubau des multifunktionalen Stadtteilhauses Coerde als städtische Gemeinbedarfseinrichtung - einstimmig beschlossen
+- TOP 26: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities - mehrheitlich geändert beschlossen
+- TOP 26.1: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities
+- TOP 27: Fortschreibung des Regionalplans Münsterland zur Anpassung an den Landesentwicklungsplan (LEP) NRW - mehrheitlich geändert beschlossen
+- TOP 28: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2022 - einstimmig beschlossen
+- TOP 29: Grundschulsituation Coerde - einstimmig beschlossen
+- TOP 30: Grundschulentwicklung in Wolbeck - Grundsatzbeschluss für eine neue dreizügige Grundschule am Brandhoveweg - einstimmig geändert beschlossen
+- TOP 31: Neubau einer dreizügigen Grundschule in Albachten Ost - einstimmig geändert beschlossen
+- TOP 32: Grundsatzbeschluss zur Verlagerung, Zusammenführung und baulichen Erweiterung des Anne-Frank-Berufskolleg an zwei Standorten sowie die Umsetzung durch die Bauwerke Münster GmbH - einstimmig beschlossen
+- TOP 33: Einführung des Deutschlangtickets - einstimmig beschlossen
+- TOP 34: Kindertagesbetreuungsbericht 2023 - zur Kenntnis genommen
+- TOP 35: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen - von der Tagesordnung abgesetzt
+- TOP 36: Finanzierung der OGS-Ferienbetreuung - von der Tagesordnung abgesetzt
+- TOP 37: Überleitung außerunterrichtlicher Angebote (OGS)
+- TOP 37.1: Überleitung der außerunterrichtlichen Angebote (OGS) der Astrid-Lindgren-Schule - einstimmig beschlossen
+- TOP 37.2: Überleitung der außerunterrichtlichen Angebote (OGS) der Ludgerusschule Albachten - einstimmig beschlossen
+- TOP 37.3: Überleitung der außerunterrichtlichen Angebote (OGS) der Dietrich-Bonhoeffer-Schule - einstimmig beschlossen
+- TOP 38: Trägervergabe bei Kindertageseinrichtungen
+- TOP 38.1: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (B 11), Bezirk Mitte - mehrheitlich beschlossen
+- TOP 38.2: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (C 14), Bezirk Mitte - mehrheitlich beschlossen
+- TOP 38.3: Trägervergabe für die siebengruppige Kindertageseinrichtung südlich Hiltruper Straße / Am Bielenfeld, Bezirk Südost - mehrheitlich beschlossen
+- TOP 38.4: Trägervergabe für die viergruppige Kindertageseinrichtung am Heinrich-Wichtrup-Weg (York Quartier), Bezirk Südost - mehrheitlich beschlossen
+- TOP 39: Interimslösung zur Nutzung der städtischen Immobilie an der Bennostraße durch die Vereine Tango Pasión e.V. und Wasser + Freizeit e.V. - einstimmig beschlossen
+- TOP 40: Feststellung der Jahresabschlüsse 2022 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 41: Besetzung der Ombudsstelle nach dem Wohn- und Teilhabegesetz NRW - einstimmig beschlossen
+- TOP 42: Zukunftskonzept der Westfälischen Schule für Musik - einstimmig beschlossen
+- TOP 43: Baubeschluss - einstimmig beschlossen
+- TOP 44: Umweltpreis erweitern um einen „Sonderpreis Wirtschaft" - von der Tagesordnung abgesetzt
+- TOP 45: Erlass Baumschutzsatzung - mehrheitlich geändert beschlossen
+- TOP 46: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 47: Bauleitplanung
+- TOP 47.1: Stadtbezirk Münster-Mitte
+- TOP 47.1.1: JVA Gartenstraße | Grundsatzbeschluss für ein neues innerstädtisches Stadtquartier - einstimmig beschlossen
+- TOP 47.2: Stadtbezirk Münster-Hiltrup
+- TOP 47.2.1: 88. Änderung FNP: Geänderter Beschluss zur Änderung; Bebauungsplan Nr. 627: Geänderter Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 47.3: Stadtbezirk Münster-Südost
+- TOP 47.3.1: Beschluss zur Änderung des Beschlusses zur 49. Änderung des Flächennutzungsplans der Stadt Münster und Beschluss zur Änderung des Aufstellungsbeschlusses für den vorhabenbezogenen Bebauungsplan Nr. 563: Wolbeck – Freckenhorster Str. / Kreuzbach - mehrheitlich beschlossen
+- TOP 47.3.2: 1. 122. Änderung des Flächennutzungsplanes der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf im Bereich westlich Höltenweg / nördlich Umgehungsbahn - einstimmig beschlossen
+- TOP 48: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 48.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 49: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 49.1: Digitalisierungsschub in den städtischen Bädern - mehr Freizeitvergnügen für Besucher - verwiesen
+- TOP 49.2: Frühzeitige Anliegerinformation bei Baumaßnahmen/Eingriffen in den Verkehrsraum - verwiesen
+- TOP 49.3: Transformationsplan für die Stromnetze der Zukunft - verwiesen
+- TOP 49.4: Nachhaltige Bodenpolitik für die Stadt Münster weiter verbessern - verwiesen
+- TOP 49.5: Für neue Allianzen und sichtbares Engagement in der Gleichstellungs- und Geschlechterpolitik Durchführung einer stadtweiten Genderkonferenz 2024 - verwiesen
+- TOP 49.6: Münster einbürgerungsfreundlicher gestalten – Einbürgerungszahlen erhöhen, Wartezeiten verkürzen, Informationen verbessern - verwiesen
+- TOP 49.7: Unterstützung und Hilfen für wohnungslose Familien ausbauen und weiterentwickeln - verwiesen
+- TOP 49.8: Urbane Bepflanzung macht Münster klimaresilient und wassersensibel – Aktionsprogramm Teil I - verwiesen
+- TOP 49.9: Politische Teilhabe in Münster verbessern, Barrieren abbauen! - verwiesen
+- TOP 50: Verschiedenes
