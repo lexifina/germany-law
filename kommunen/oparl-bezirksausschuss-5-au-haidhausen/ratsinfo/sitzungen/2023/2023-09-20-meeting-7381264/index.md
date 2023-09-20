@@ -1,0 +1,186 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7381264
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7381264
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Schandfleck Brachfläche Falkenstraße 21 – Wann beginnt der Bau? Sind Kriterien für ein Zweckentfremdungsverfahren erfüllt? Bodenspekulation unterbinden! (Anfrage)
+- TOP 5.2.: 5. Schulbauprogramm der LH München: Schulen in Au-Haidhausen berücksichtigen
+- TOP 5.3.: Zusätzliche Fahrradstellplätze für das Pestalozzi-Gymnasium
+- TOP 5.4.: Gehweg am Preysingplatz verbreitern
+- TOP 5.5.: Illegales Gehwegparken in der Edlingerstraße beenden
+- TOP 5.6.: Erhalt des neuen „Schlotthauer Platzes“
+- TOP 5.7.: Nachbarschaftliches Gärtnern am „Entenbachplatz“ nach Umgestaltung wieder ermöglichen
+- TOP 5.8.: Aktuelle Schulentwicklung in Au-Haidhausen
+- TOP 5.9.: Rahmenplan Innerstädtische Isar (Anfrage)
+- TOP 5.10.: Leitsystem freihalten
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt 09/23
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Anfrage Ortstermin zur Nutzung des Unionsbräu Antwort GWG zum Schreiben BA 5
+- TOP II.2.: (E) Stadtbezirksbudget vox nova e.V. Nordlys – Nordlicht vom 30.09. - 03.10.2023 500,00 € / Az. 0262.0-5-0492
+- TOP II.3.: (E) Stadtbezirksbudget Initiative "Revolte" Revolte, 40 Jahre Graffiti in München vom 09.09. - 30.09.2023 4.575,00 € / AZ.0262.0-5-0494
+- TOP II.4.: (E) Stadtbezirksbudget Theater in der Au e.V. Theateraufführung: OSCAR von Claude Magnier vom 10.01.2024 – 04.02.2024 1.403,00 € / 0262.0-5-0496
+- TOP II.5.: Schnellstmögliche Sanierung des Gasteigs Antwort Baureferat zum Schreiben BA 5
+- TOP II.6.: Nutzung der Aufzüge im Gasteig, Bürgeranliegen
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Förderverein Grundschule an der Ernst-Reuter-Straße e.V. “Stark auch ohne Muckis“ 1.240,00 € / AZ.0262.0-5-0491
+- TOP 1.2.: (E) Stadtbezirksbudget Nachbarschaftshilfe Au e.V. Lastenradl 2.483,00 € / AZ.0262.0-5-0495
+- TOP 1.3.: Antrag der Initiative „Wunderbuch“ auf nachträgliche Erhöhung des Zuschusses aus dem Budget um 1.200 € für die Veranstaltung "Wunderbuch" vom 02.05.2023 – 02.05.2024
+- TOP 1.4.: Anschaffung eines barrierefreien Spielgerätes als Bestellung städtischer Leistung aus dem BA-Budget i.H.v. 45.000 €; Antwortschreiben Direktorium vertagt in der Sitzung am 25.01.2023
+- TOP 1.5.: (E) Stadtbezirksbudget Caritas Alten- und Service Zentrum Au Broschüren für den digitalen Bereich 146,25 € / Az. 0262.0-5-0497
+- TOP 2.: Anhörungen
+- TOP 2.1.: Aufenthaltsqualität in der Au verbessern durch Errichtung von Tischen und Bänken an geeigneten Stellen
+- TOP 2.2.: Antrag auf weitere Babyschaukeln am Spielplatz Maximilianeum Fristverlängerung zur Äußerung BA bis 30.09.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schulsportfreianlage an der Inneren Wiener Straße, Zugang zu den Sportflächen
+- TOP 3.2.: Unterstützung durch die Bezirksausschüsse bei der weiteren Standortsuche für eine gleichmäßige Verteilung von Unterkünften für Geflüchtete im Stadtgebiet Münchens Antwort Sozialreferat zum Schreiben BA 5
+- TOP 3.3.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 3.4.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 3.5.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 3.6.: Kronepark, Vorstellung der Historischen Untersuchung; Protokoll Baureferat und BA zum Ortstermin am 01.08.2023 (UA Soziales und UA Klima)
+- TOP 3.7.: Parkbank in der Falkenstraße wieder aufstellen
+- TOP 3.8.: Protokoll AKIM zum Nachbarschaftsgespräch Schneckenburger-/Kuglerstraße am 19.06.2023
+- TOP 3.9.: Spielplatzerweiterung in der Schneckenburgerstraße (UA Soziales und UA Mobilität)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Sportplatz Maximiliansanlagen
+- TOP 4.2.: Entwicklung einer Drogendealerszene an der Isar im Bereich Reichenbachbrücke - Wittelsbacherbrücke
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Kiosk Pariser Platz
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative "Parklet" Parklet Drächslstr. 7 vom 01.08. - 31.10.2023 950,00 € / AZ.0262.0-5-0493
+- TOP 1.3.: Genehmigung einer Kleinstfreischankfläche: Bäckerei Zöttl, Schlotthauerstr. 16
+- TOP 2.: Anhörungen
+- TOP 2.1.: "Das kleine VerWunderLand" am 17.09.2023 am Tassiloplatz, Anhörung bis 31.08.2023 Vorabstellungnahme des BA-Vorsitzenden am 14.08.2023
+- TOP 2.2.: Nutzung Mariahilfplatz für den Radlflohmarkt des Mobilitätsreferats im Juni 2024
+- TOP 2.3.: Ausdehnung der Zeiten für die Lieferzone Humboldtstr. 25
+- TOP 2.4.: Fahrradsicherheitscheck auf dem Bordeauxplatz am 04.12.2023
+- TOP 2.5.: Freiluftausstellung der TU München in der Kolumbusstraße 1 am 13.10.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zuständigkeiten für die Bewirtschaftung des Mariahilfplatzes
+- TOP 3.2.: Einnahmen und Ausgaben aus Bewirtschaftung des Mariahilfplatzes auflisten
+- TOP 3.3.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität)
+- TOP 3.4.: Parken auf dem Mariahilfplatz, Ausgleichsmaßnahme AQT Antwort RAW zum Schreiben BA 5 vom 03.08.2023 (UA Wirtschaft und UA Mobilität)
+- TOP 3.5.: Freihalten des Gehwegs an der Rosenheimer Straße 110 / Orleansstraße durch das Motel One Antwort Bezirksinspektion zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Lärmbelästigung durch den Lieferverkehr der Lidl-Filiale Kirchenstrasse 86
+- TOP 4.2.: Antrag für eine Ladezone und Fahrradzone in der Breisacher Str. 1 und 2
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 25 - Realisierung des Kunstwerks &#039;i DNA&#039; für den Neubau TranslaTUM (Fristablauf 26.08.2023 - keine Fristverlängerung bis 21.09.23 möglich, da Zustimmungsverfahren) Vorabstellungnahme durch den BA-Vorsitzenden am 18.08.2023
+- TOP 2.2.: Wörthstr. 3 - Rückbau des Notdachs aus dem Jahr 1945 und Wiederherstellung des ursprünglichen Mansarddachs von 1895 mit DG-Ausbau (2 WE) sowie Anbau eines Personenlifts - ÄNDERUNGSANTRAG zu 1.2-2016-14961-21 hier: Versetzen der Wohnungstrennwand, WE 1 Ersetzen geradläufige Treppe durch Spindeltreppe, WE 2 Verschieben Spindeltreppe, Einbau eines Fenstergesimses, Versetzen der Wände Abstellkammer (Fristablauf 02.09.2023 - keine Fristverlängerung bis 21.09.23 möglich) Vorabstellungnahme durch den BA-Vorsitzenden am 18.08.2023
+- TOP 2.3.: Schlotthauerstr. 5 - Anbau von 2x4 Balkonen (Fristablauf 02.09.2023 - keine Fristverlängerung bis 21.09.23 möglich) Vorabstellungnahme durch den BA-Vorsitzenden am 18.08.2023
+- TOP 2.4.: Orleansstr. 31 - Umnutzung einer Ladeneinheit mit Werkstatt zu 2 Wohnungen und 2 Büroeinheiten im EG und KG, Umverlegung des Hauseingangs, Anbau Balkon WE 16 im EG, Nutzungsänderung KG in Fahrradabstellräume - ÄNDERUNGSANTRAG zu 1.2-2021-18918-21 jetzt: Änderung des Hauseingangs zur Erweiterung der Büroeinheit 18, Änderung der Eingänge zu den Büroeinheiten 17 und 18, Balkontüren im jeweiligen Balkongeländer der Büroeinheit 17 und WE 1 im EG, Änderungen der Abstellfläche zu WE 16 im KG.
+- TOP 2.5.: Regerstr. 25 - Umbau und Erweiterung der Lüftungs- und Klimaanlage sowie Aufstellen von technischen Komponenten auf dem Flachdach des bestehenden McDonald&#039;s-Restaurants
+- TOP 2.6.: Prinzregentenstr. 60 - Museum Villa Stuck - Technische Generalsanierung und Umsetzung der Vorgaben zur Barrierefreiheit, Neugestaltung des Gartenzugangs mit Errichtung eines unterirdischen Müllraums und Umstrukturierung des Garderobenbereiches
+- TOP 2.7.: Kirchenstr. 89a - Nutzungsänderungen (Gewerbe in Wohnen), Umbau, Aufstockung und energetische Sanierung der Seitengebäude
+- TOP 2.8.: Senftlstr. 9 - Balkonanbau 4.Obergeschoss
+- TOP 2.9.: Weißenburger Str. 32 - Sanierung eines Mehrfamilienhauses mit Dämmung der Fassade und Anbau von Balkonanlagen
+- TOP 2.10.: Prinzregentenstr. 120 - Nutzungsänderung: Büro Nr. 197 zu Wohneinheit, VORBESCHEID
+- TOP 2.11.: Hochstr. 71 - Neubau eines Mehrfamilienhauses (15 WE) mit Anschluss an die Tiefgarage des Nachbarn Hochstraße 75, ÄNDERUNGSANTAG zu 1.2-2022-12899-21
+- TOP 2.12.: Kirchenstr. 86 - Nutzungsänderung von Büro- in Wohnräume eines Wohn- und Geschäftshauses mit Tiefgarage (Wohnung 36)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Überprüfung der Baugenehmigung für die Breisacher Str. 5
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Sichtbeziehungen an der Einmündung Weißenburger Platz / Metzstraße durch Einrichtung von 5 Radbügeln verbessern
+- TOP 1.2.: (E) Geschwindigkeitskontrollen in der Lilienstraße
+- TOP 1.3.: (E) Umgestaltung der unsicheren Kreuzungen Taubenstraße / Schwalbenstraße / Nockherstraße sowie Weilerstraße / Sentflstraße
+- TOP 1.4.: (E) + (U) Eduard-Schmid-Straße zur Fahrradstraße umwidmen Empfehlung Nr. 20-26 / E 00116 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021 - erneute Vorlage mit der Bitte um endgültige Beschlussfassung -
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2024
+- TOP 3.2.: Geländer der neuen Tramhaltestelle Rosenheimer Platz Antwort MVG zum Schreiben BA 5
+- TOP 3.3.: Parkhaus am Ostbahnhof, Kaufhaus am Ostbahnhof (Anfrage)
+- TOP 3.4.: 2. S-Bahn Stammstrecke, Verbindungstunnel unter dem Ostbahnhof
+- TOP 3.5.: Gehwegparken und Gehwegnasenparken im Franzosenviertel
+- TOP 3.6.: Verkehrssicherheit Pestalozzi-Gymnasium: Dialogdisplay in der Schweigerstraße und zusätzlicher Fahrradstellplatz
+- TOP 3.7.: Haltelinien für Radfahrende am Max-Weber-Platz
+- TOP 3.8.: Bordsteinabsenkung an der Kolumbus-/Entenbachstraße und Kolumbus-/Schlotthauerstraße
+- TOP 3.9.: Gehweg Grütznerstraße /Maximiliansanlagen Antwort Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen zum Schreiben BA 5
+- TOP 3.10.: Verkehrsführung Hochstraße / obere Au
+- TOP 3.11.: Erweiterung der Fahrradabstellplätze in der Schlotthauerstraße
+- TOP 3.12.: Eröffnung S-Bahnaufgang Rosenheimer Platz
+- TOP 3.13.: Baustelle S-Bahn Rosenheimer Platz: Sperrung der Zugänge Antwort Deutsche Bahn zum Schreiben BA 5
+- TOP 3.14.: Verkürzung Park- und Autofahrzone in der Straße "Am Lilienberg"
+- TOP 3.15.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern Antrag Nr. 20-26 / B 05351 (UA Wirtschaft und UA Mobilität)
+- TOP 3.16.: Parken auf dem Mariahilfplatz, Ausgleichsmaßnahme AQT Antwort RAW zum Schreiben BA 5 vom 03.08.2023 (UA Wirtschaft und UA Mobilität)
+- TOP 3.17.: Gegenläufiger Radweg Berg-am-Laim-Straße - Haidenauplatz
+- TOP 3.18.: Mehrjahresinvestitionsprogramm 2023-2027 Stellungnahme Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.19.: Eisenbahnüberführung Balanstraße, Straßenbaumaßnahme zwischen der Orleansstraße und der St.-Cajetan-Straße von 18.09.2023 - 31.10.2025
+- TOP 3.20.: Verkehrsrechtliche Anordnungen a) Flurstraße Ostseite, Einrichtung eines allgemeinen Schwerbehindertenparkplatzes b) Sommerstraße (Parklizenzgebiet Südliche Au), Änderung der Parkregelung "Mischparken" zu "Bewohnerparken" c) Grillparzerstraße zwischen Haidenauplatz und Prinzregentenplatz, Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen d) Auerfeldstraße und Gebsattelstraße zwischen Balanstraße/Orleansstraße und Mariahilfplatz, Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 3.21.: Verkehrsberuhigter Bereich Lothringer Straße: Optisch und gestalterisch anpassen - hier: Ortstermin Lothringer Strasse, Terminfindung -
+- TOP 3.22.: Überdachte Fahrradständer am Gasteig (Kellerstraße) - hier: Protokoll Ortstermin vom 30.08.2023 -
+- TOP 3.23.: Spielplatzerweiterung in der Schneckenburgerstraße Antrag Nr. 20-26 / B 04821 (UA Soziales und UA Mobilität)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag Blitzer Fußgängerzone Genoveva-Schauer-Platz
+- TOP 4.2.: Mehr Sicherheit für Fußgänger und Fahrradfahrer entlang der Ohlmüllerstrasse -> dazu: Schreiben Baureferat
+- TOP 4.3.: Fahrradstellplätze Ostbahnhof / Ausgang Friedenstraße
+- TOP 4.4.: Antrag auf Fahrradabstellplätze in der Auerfeldstraße bzw. Zita-Zehner-Platz
+- TOP 4.5.: Stopp der Mobilitätspunkte in der Au / Fragen zum Anwohnerparken Südliche Au
+- TOP 4.6.: Ampeln verdeckt durch Verkehrsschilder in der Franziskaner- und Rablstraße / Schilderwald
+- TOP 4.7.: Errichtung von Fahrradstellplätzen vor Asamstr. 12
+- TOP 4.8.: Hochgefährlicher Weg am Giesinger Berg
+- TOP 4.9.: Fußgänger-Ampel Balanstraße Ecke Pariser Straße (Balanstraße Höhe Hausnummer 23/25) - stadteinwärts
+- TOP 4.10.: Beschwerde über die Firma Flink in der Rosenheimer Straße
+- TOP 4.11.: Zufahrtsbeschränkung Kellerstr./Steinstraße/Genoveva Schauer Platz
+- TOP 4.12.: Autoverkehr Lilienstraße/ Zeppelinstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative +Dein Müll 2.0 +DEINMÜLL 2.0 vom 24.07. bis 28.07.2023 2.600,34 € / AZ.0262.0-5-0487 vertagt in der Sitzung am 26.07.2023
+- TOP 1.2.: (E) Beschilderung Park Maximiliansanlagen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Eduard-Schmid-Str. 19 (Fristablauf 07.09.2023; keine Fristverlängerung bis 21.09.23 möglich)
+- TOP 2.2.: Franziskanerstr. 2a -> Nur noch Unterrichtung (Bäume < 80 cm)
+- TOP 2.3.: Metzstr. 5
+- TOP 2.4.: Rechte der Bezirksausschüsse beim Baumschutz stärken
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kompensationen Kronepark klimafreundlicher nutzen
+- TOP 3.2.: Kronepark, Vorstellung der Historischen Untersuchung, Protokoll Baureferat und BA zum Ortstermin am 01.08.2023 (UA Soziales und UA Klima)
+- TOP 3.3.: Wiederherstellung der Wiese an der Loretokapelle
+- TOP 3.4.: Nutzung der Glascontainer am St.-Wolfgangs-Platz Antwort Salesianum zum Schreiben BA 5
+- TOP 3.5.: Suche nach einem Ort für einen „Weltacker“ in München – ein Lernort zum Thema Ernährung & Landwirtschaft
+- TOP 3.6.: Beantragung einer gehobenen wasserrechtlichen Erlaubnis durch die MSE für die Einleitung von Mischwasser in die Isar, Kleine Isar, Mittlere-Isarkanal und den Auer Mühlbach; Protokoll des Scoping Termins vom 13.07.2023
+- TOP 3.7.: Baumbilanz und Stand der Ersatzpflanzungskontrolle Antwort Planungsreferat zum Schreiben BA 5 vom 11.02.2022
+- TOP 3.8.: Ausnahmezulassung für nächtliche Bauarbeiten vom 05.-08.09.2023 in der Einsteinstraße zwischen Leuchtenbergring und Grillparzerstraße
+- TOP 3.9.: Balanstraße und St. Wolfgangs Platz verschönern; hier: Straßenbeleuchtung am St.-Wolfgangs-Platz Antwort Baureferat zur Nachfrage BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Gesundheitsgefahr durch verendende und verendete Tauben am Ostbahnhof (2 Bürgeranliegen)
+- TOP 4.2.: Errichtung einer "grünen Wand" an der Nordseite der Einsteinstraße zwischen Max-Weber-Platz und Kuglerstraße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 09.10.2023 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 09.10.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 10.10.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 11.10.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 11.10.2023 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 12.10.2023 um 20.00 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 18.10.2023, 19.00 Uhr, Katholische Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Montag, 02.10.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 3.10.: N - Information BA 5 zum Kooperative Ganztagsbildung-Standort am Mariahilfplatz/Hochstraße -> dazu: Bürgeranliegen
+- TOP 3.24.: N - Verkehrsberuhigung ab der Kurve Niger-/Schneckenburgerstraße hier: Antwort Mobilitätsreferat vom 17.07.2023
+- TOP 1.6.: Detailauskünfte zu den TOPs 1.1, 1.2 und 1.5
+- TOP 3.10.: N - Einladung zum Evaluationstreffen der Müllfrei-Meile 2023 am 07.11.2023
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Soziales, TOP 3.10: Information BA 5 zum Kooperativen Ganztags-Standort am Mariahilfplatz/Hochstraße sowie Bürgeranliegen - UA Mobilität, TOP 3.24: Verkehrsberuhigung ab der Kurve Niger-/ Schneckenburgerstraße - UA Klima, TOP 3.10: Einladung zum Evaluationstreffen der Müllfrei-Meile
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Sachstand Handlungsraum 3 – Vorstellung durch das Planungsreferat
+- TOP II.7.: Detailauskünfte zu den TOPs 2 und 4
