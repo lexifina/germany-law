@@ -1,0 +1,109 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-09-20T17:00:00+02:00
+- Ende: 2023-09-20T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4649
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4649
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Schwimmhallen im Bezirk - beantwortet
+- TOP 3.2: Keine Barrierefreiheit im Forum Steglitz - beantwortet
+- TOP 3.3: Picknick ja, grillen nein? - beantwortet
+- TOP 3.4: Gruppenvergewaltigung am Schlachtensee - beantwortet
+- TOP 3.5: Steglitz-Zehlendorf ohne aktuellen Schulentwicklungsplan - beantwortet
+- TOP 3.6: Verwendung von FEIN-Mitteln - beantwortet
+- TOP 3.7: Special Olympics in Zehlendorf nicht erwünscht? - schriftlich beantwortet
+- TOP 3.8: Städtepartnerschaft in den USA? - schriftlich beantwortet
+- TOP 3.9: Pilotprojekt zu kostenlosen Menstruationsartikeln an Schulen - schriftlich beantwortet
+- TOP 3.10: Leichte Sprache und Gebärdendolmetscher im Bezirksamt - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines Patientenfürsprechers für die VI. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Nachwahl eines stellvertretenden Mitglieds in den Widerspruchsbeirat für Sozialhilfeangelegenheiten als Vertreter der Gewerkschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Neuberufung einer Patientenfürsprecherin für die Psychiatrische Tagesklinik Lankwitz des Bezirks nach § 30 des Landeskrankenhausgesetzes (LKG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Sondermittel der BVV für die Katholische Kirchengemeinde Heilige Familie Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Bebauungsplan 6-30 (Lichterfelde-Süd) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.14: 150 Jahre Bahnhof Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Erhalt des Sommerbades Lichterfelde „Spucki“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Sichere Querung für die Kinder der Giesensdorfer Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Aufforstung von Straßenbäumen aus dem Ausgleichsfond der Ersatzmaßnahmen gefällter Bäume - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Lieferzonen Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Bessere Erschließung für den Lichterfelder Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Fahrrad-Stellplätze Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Straßensanierung und Schulwegsicherung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Verkehrssicherheit in der Birkbuschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Sicherung der Querungen zur Nord-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Hinzuziehung der Beauftragten für Menschen mit Behinderungen bei der Genehmigung von Jelbi-Standorten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Ampel Dahlemer Weg/Jänickestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Hundespielplatz in Zehlendorf-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Zusätzliche Parkbank auf dem Spielplatz am Charkiw-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Pizzamülleimer - großräumige Mülleimer als Pilotprojekt an Müllbrennpunkten - in der BVV abgelehnt
+- TOP 4.29: Straßenbäume Rendtorffstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Asyl für Meerjungfrauen - in der BVV abgelehnt
+- TOP 4.31: Schulweg Dessauerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Bauvorhaben in fremder Zuständigkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: Leitfaden für die Temporären Spielstraßen bekannt machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Mit Straßenbenennungen an Kriegsgefangene in Lichterfelde-Süd erinnern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Fahrgäste der BVG nicht zurücklassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Verkehr in Wannsee: E-Busse auf der Linie 218 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Verkehr in Wannsee: Schulwegsicherheit erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.38: Nachtbus zwischen Wannsee und Krumme Lanke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.39: Die Architektin Hilde Weström in die bezirkliche Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Nach Worten nun Taten - Frauenbeirat endlich ins Leben rufen - überwiesen
+- TOP 5.2: Volle Transparenz herstellen - Videos der BVV-Sitzungen für alle Bürger*innen online stellen - überwiesen
+- TOP 5.3: Blitzer-Anlage auf Höhe Potsdamer Chaussee/Quantzstraße - überwiesen
+- TOP 5.4: Modellversuch der Fahrrad-Polizei auf den Süd-Westen ausdehnen - überwiesen
+- TOP 5.5: Inklusionssportplanung für und mit den Nutzern - überwiesen
+- TOP 5.6: Kriterien im Milieuschutz - überwiesen
+- TOP 5.7: Der Waldsiedlung Zehlendorf geht ein Licht auf - überwiesen
+- TOP 5.8: 85. Jahrestag der Novemberpogrome von 1938 - überwiesen
+- TOP 5.9: Pilotprojekt Ladesäule für Wassersport - überwiesen
+- TOP 5.10: Eine weitere Bücherbox für Steglitz - überwiesen
+- TOP 5.11: Fußverkehr sichern an der Prinzregent-Ludwig-Brücke - überwiesen
+- TOP 5.12: Fußverkehr sichern an der Eugen-Kleine-Brücke - überwiesen
+- TOP 5.13: Das RTO Ankunftsgebäude in Lichterfelde-West winterfest machen - überwiesen
+- TOP 5.14: Aufzug an der Rönnebypromenade - überwiesen
+- TOP 5.15: Aufstellflächen für E-Scooter - überwiesen
+- TOP 5.16: Böllerverbot vor Seniorenwohnanlagen - überwiesen
+- TOP 5.17: Überdachte Fahrradabstellanlage für die Große Anna Essinger Gemeinschaftsschule am Tietzenweg - überwiesen
+- TOP 5.18: Verkehrsberuhigung rund um die neu gebaute Moltkebrücke - überwiesen
+- TOP 5.19: Thielallee: Verkehrsraum sinnvoll nutzen - überwiesen
+- TOP 5.20: Reaktivierung des „Gabenzaunes“ - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2024 und 2025 (Doppelhaushaltsplan 2024/25) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.2.1: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 2,7 Mio. € für den Bezirk und Erfordernis eines Nachtragshaushaltes für den Bezirk wegen "politischer Entscheidung" der Bezirksbürgermeisterin gegen die Vorgaben der Senatsfinanzverwaltung - in der BVV abgelehnt
+- TOP 6.2.2: Missbilligung der Amtsführung der Bezirksbürgermeisterin mit einem Schaden von 7,2 Millionen € für den Bezirk - in der BVV abgelehnt
+- TOP 6.2.3: Rekommunalisierung auch des Pforten- und Reinigungsdienstes - in der BVV abgelehnt
+- TOP 6.2.4: Städtepartnerschaften sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.5: Sichere Fahrradbügel vor jeder Jugendfreizeiteinrichtung in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.6: Barrierefreiheit und Klimaschutz beim Milieuschutz nicht außer Acht lassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.7: Photovoltaikanlagen auf den Dächern bezirklicher Senioren-/ Bürgertreffs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.8: Ein regelmäßiger Frauengesundheitsbericht für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.9: Lepsiusstraße instandsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.10: Die im Jahr 2022 und 2023 durch den alten Senat beschlossene Stellenverteilung im Bezirksamt korrigieren - in der BVV abgelehnt
+- TOP 6.2.11: Ein Solar-Tree für die Thermometersiedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Interessiert die Bezirksbürgermeisterin die Überlastung des Sozialamtes nicht? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Wohnortnahe Bank-Filialen erhalten - vertagt
+- TOP 8.2: Post- und Finanzdienstleistungen wohnortnah erhalten! - vertagt
+- TOP 8.3: Öffnungszeiten Postfilialen an Sonnabenden sicherstellen - vertagt
