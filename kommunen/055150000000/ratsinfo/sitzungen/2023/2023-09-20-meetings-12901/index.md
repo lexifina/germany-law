@@ -1,0 +1,74 @@
+# 21. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-09-20T16:00:00+02:00
+- Ende: 2023-09-20T21:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12901
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12901
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00535189.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2023) - einstimmig beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Sachstand 2023 und Anträge 2024 - einstimmig beschlossen
+- TOP 4: Am Mittelhafen: Kai und Stichwege (B-Plan Nr. 541 Teilbereich A) - einstimmig beschlossen
+- TOP 5: Bericht des Beauftragten gegen Antisemitismus im Zuge des landesweiten Meldesystems für Prävention - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Transformation - Zukunft der Verwaltung gestalten - ohne Beschlussfassung geschoben
+- TOP 6.1: Transformation - Zukunft der Verwaltung gestalten
+- TOP 7: Gleichstellung in politischen Gremien (Stand 30.06.2023) - zur Kenntnis genommen
+- TOP 8: Energetische Stadtsanierung (KfW 432) - einstimmig beschlossen
+- TOP 9: Aufhebung der Satzung "Bewohnerparkausweis-Gebührenordnung" in Münster - ohne Beschlussfassung geschoben
+- TOP 10: Antrag der Internationalen Fraktion Die PARTEI/ÖDP an den Rat A-R/0086/2021 vom 07.12.2021 "Diverse interkulturelle Stadtgesellschaft gleichberechtigt teilhaben lassen - für eine interkulturelle Öffnung der Verwaltung" - ohne Beschlussfassung geschoben
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2022 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 13: Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH): Novellierung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 14: Beschluss einer allgemeinen Vorschrift als Satzung zur Festsetzung des Deutschlandtickets als Höchsttarif - einstimmig beschlossen
+- TOP 15: "Betrauungsakt der Stadt Münster für die Westfälische Bauindustrie GmbH, Engelstr. 49, 48143 Münster, als Käuferin eines Grundstücks der KonvOY GmbH im York-Areal (Gremmendorf)" - einstimmig beschlossen
+- TOP 16: Innenstadt stärken: Sachstand zu aktuellen Maßnahmen, INSEK Münster-Innenstadt und Städtebauförderung - zur Kenntnis genommen
+- TOP 17: Bericht zur Wohnbaulandentwicklung 2022 und Fortschreibung des Baulandprogramms 2023 - 2030 - ohne Beschlussfassung geschoben
+- TOP 18: Neubau des multifunktionalen Stadtteilhauses Coerde als städtische Gemeinbedarfseinrichtung - einstimmig beschlossen
+- TOP 19: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities - ohne Beschlussfassung geschoben
+- TOP 19.1: Smart City Strategie 1.0 – Grundsatzbeschluss für die Umsetzungsphase im Rahmen der Modellprojekte Smart Cities
+- TOP 20: Fortschreibung des Regionalplans Münsterland zur Anpassung an den Landesentwicklungsplan (LEP) NRW - ohne Beschlussfassung geschoben
+- TOP 21: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2022 - einstimmig beschlossen
+- TOP 22: Grundschulsituation Coerde - einstimmig beschlossen
+- TOP 23: Grundschulentwicklung in Wolbeck - Grundsatzbeschluss für eine neue dreizügige Grundschule am Brandhoveweg - ohne Beschlussfassung geschoben
+- TOP 24: Neubau einer dreizügigen Grundschule in Albachten Ost - ohne Beschlussfassung geschoben
+- TOP 25: Grundsatzbeschluss zur Verlagerung, Zusammenführung und baulichen Erweiterung des Anne-Frank-Berufskolleg an zwei Standorten sowie die Umsetzung durch die Bauwerke Münster GmbH - einstimmig beschlossen
+- TOP 26: Einführung des Deutschlangtickets - einstimmig beschlossen
+- TOP 27: Kindertagesbetreuungsbericht 2023 - zur Kenntnis genommen
+- TOP 28: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen - von der Tagesordnung abgesetzt
+- TOP 29: Finanzierung der OGS-Ferienbetreuung - von der Tagesordnung abgesetzt
+- TOP 30: Überleitung außerunterrichtlicher Angebote (OGS)
+- TOP 30.1: Überleitung der außerunterrichtlichen Angebote (OGS) der Astrid-Lindgren-Schule - einstimmig beschlossen
+- TOP 30.2: Überleitung der außerunterrichtlichen Angebote (OGS) der Ludgerusschule Albachten - einstimmig beschlossen
+- TOP 30.3: Überleitung der außerunterrichtlichen Angebote (OGS) der Dietrich-Bonhoeffer-Schule - einstimmig beschlossen
+- TOP 31: Trägervergabe für Kindertageseinrichtungen
+- TOP 31.1: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (B 11), Bezirk Mitte - einstimmig beschlossen
+- TOP 31.2: Trägervergabe für die dreigruppige Kindertageseinrichtung Klosterareal Pluggendorf (C 14), Bezirk Mitte - einstimmig beschlossen
+- TOP 31.3: Trägervergabe für die siebengruppige Kindertageseinrichtung südlich Hiltruper Straße / Am Bielenfeld, Bezirk Südost - einstimmig beschlossen
+- TOP 31.4: Trägervergabe für die viergruppige Kindertageseinrichtung am Heinrich-Wichtrup-Weg (York Quartier), Bezirk Südost - einstimmig beschlossen
+- TOP 32: Interimslösung zur Nutzung der städtischen Immobilie an der Bennostraße durch die Vereine Tango Pasión e.V. und Wasser + Freizeit e.V. - einstimmig beschlossen
+- TOP 33: Feststellung der Jahresabschlüsse 2022 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 34: Besetzung der Ombudsstelle nach dem Wohn- und Teilhabegesetz NRW - einstimmig beschlossen
+- TOP 35: Zukunftskonzept der Westfälischen Schule für Musik - einstimmig beschlossen
+- TOP 36: Baubeschluss - einstimmig beschlossen
+- TOP 37: Umweltpreis erweitern um einen „Sonderpreis Wirtschaft" - von der Tagesordnung abgesetzt
+- TOP 38: Erlass Baumschutzsatzung - ohne Beschlussfassung geschoben
+- TOP 39: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 40: Bauleitplanung
+- TOP 40.1: Stadtbezirk Mitte
+- TOP 40.1.1: JVA Gartenstraße | Grundsatzbeschluss für ein neues innerstädtisches Stadtquartier - einstimmig beschlossen
+- TOP 40.2: Stadtbezirk Hiltrup
+- TOP 40.2.1: 88. Änderung FNP: Geänderter Beschluss zur Änderung; Bebauungsplan Nr. 627: Geänderter Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 40.3: Stadtbezirk Südost
+- TOP 40.3.1: Beschluss zur Änderung des Beschlusses zur 49. Änderung des Flächennutzungsplans der Stadt Münster und Beschluss zur Änderung des Aufstellungsbeschlusses für den vorhabenbezogenen Bebauungsplan Nr. 563: Wolbeck – Freckenhorster Str. / Kreuzbach - ohne Beschlussfassung geschoben
+- TOP 40.3.2: 1. 122. Änderung des Flächennutzungsplanes der Stadt Münster im Stadtbezirk Münster-Südost, Stadtteil Gremmendorf im Bereich westlich Höltenweg / nördlich Umgehungsbahn - einstimmig beschlossen
+- TOP 41: Verschiedenes
