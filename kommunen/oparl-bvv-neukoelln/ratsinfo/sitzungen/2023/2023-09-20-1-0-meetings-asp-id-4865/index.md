@@ -1,0 +1,77 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-09-20T17:00:00+02:00
+- Ende: 2023-09-20T20:28:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4865
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4865
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Partizipation und Integration - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Änderung der Stellvertretung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Veränderungssperre XIV-263a/38 für das Grundstück Saalestraße 20 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-263a - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Der Gletscher - beantwortet
+- TOP 8.2: Leerung Medikamentenkühlschrank im Gesundheitsamt - beantwortet
+- TOP 8.3: Wie steht es um die Weichselstraße 52? - beantwortet
+- TOP 8.4: Kürzungen bei Kindern und Jugendlichen? - beantwortet
+- TOP 8.5: Kosten durch Rechtsstreitigkeiten aufgrund von Fehlleistungen der politischen Leitung des Gesundheitsamtes - beantwortet
+- TOP 8.6: Der Mann war beim Sozialpsychiatrischen Dienst nicht bekannt - beantwortet
+- TOP 8.7: Die Situation von MoRo e.V. - beantwortet
+- TOP 8.8: Anpassung der Mittel für freie Mitarbeiter*innen - Haushaltstitel 42701 - beantwortet
+- TOP 8.9: Emmauswald in Gefahr durch den Senat - beantwortet
+- TOP 8.10: Dorfschule Alt-Buckow - beantwortet
+- TOP 8.11: Wie geht es mit dem Bolzplatz Bendastr. weiter? - beantwortet
+- TOP 8.12: Gully Langschanweg - schriftlich beantwortet
+- TOP 8.13: Bewilligungszeitraum für Wohngeld - schriftlich beantwortet
+- TOP 8.14: Pressefreiheit eingeschränkt bei öffentlichen Veranstaltungen mit der Integrationsbeauftragten im Bajszel - schriftlich beantwortet
+- TOP 8.15: Personalaufwuchs für Wohngeld Plus - schriftlich beantwortet
+- TOP 8.16: Personalaufwuchs für die Umsetzung der Regierungspolitik - schriftlich beantwortet
+- TOP 9: Mitteilungen - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Gefährliche Schienenteile beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Absenkung des Bürgersteiges - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Radwege statt ideologischer Autopolitik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Stopp dem Feuerwerkswahnsinn! - in der BVV abgelehnt
+- TOP 11.2: City-Toilette U Johannisthaler Chaussee / Grünzug - mit Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Unabhängige Sozialberatung - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Wie geht es dem Gesundheitsamt Neukölln? - beantwortet
+- TOP 13.2: Folgen der Einstellung des Wachschutzes an Neuköllner Schulen - beantwortet
+- TOP 13.3: Streicht der CDU-Stadtrat die erfolgreiche Sozialberatung vom Nachbarschaftsheim Neukölln? - beantwortet
+- TOP 13.4: Ohne Wachschutz an den Neuköllner Schulen, keine Sicherheit für die Schüler und Lehrer - beantwortet
+- TOP 13.5: Tigermücke in Berlin - schriftlich beantwortet
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 14.1: Haushaltsplanentwurf 2024/2025 - schriftlich beantwortet
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Safe Places in Neukölln - überwiesen
+- TOP 15.2: Schulischer Wachschutz - überwiesen
+- TOP 15.3: Versetzung der öffentlichen Toilette in Alt-Buckow - überwiesen
+- TOP 15.4: Unabhängiges Schlichtungsverfahren für das Jobcenter Neukölln - überwiesen
+- TOP 15.5: Neuregelung der Nutzung von E-Scootern/E-Tretrollern im Bezirk Neukölln - überwiesen
+- TOP 15.6: Hundeauslaufgebiet in Nordneukölln - überwiesen
+- TOP 15.7: Taubenplage tiergerecht und nachhaltig bekämpfen - überwiesen
+- TOP 15.8: Erinnerung an 85 Jahre Pogromnacht in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Wohnpark St. Marien auf illegalen Leerstand prüfen - überwiesen
+- TOP 15.10: Taten statt Phrasen - Gesundheitszentrum Gropiusstadt erhalten - überwiesen
+- TOP 15.11: Baumstümpfe ersetzen, Grünfläche schützen - überwiesen
+- TOP 15.12: Trinkwasserbrunnen - Ausbau für den Gesundheitsschutz vor Hitze für Neuköllner*innen - überwiesen
+- TOP 15.13: Keine Kürzungen in der Jugendarbeit! - überwiesen
+- TOP 15.14: Legale Graffitiwand auf dem Campus Rütli - überwiesen
