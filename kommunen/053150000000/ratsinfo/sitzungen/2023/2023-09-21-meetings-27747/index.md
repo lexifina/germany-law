@@ -1,0 +1,73 @@
+# 20. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-21T17:00:00+02:00
+- Ende: 2023-09-21T19:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27747
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27747
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Neuwahl der 1. stellvertretenden Bezirksbürgermeisterin/ des 1. stellvertretenden Bezirksbürgermeister/ ABGESETZT!
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Beantwortung einer Einwohneranfrage nach § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln zur Planung eines Neubaus im Bereich Albermann- Ecke Buchforststraße - Kenntnis genommen
+- TOP 1.2: Beantwortung einer schriftlichen Einwohneranfrage Planungen ehemalige Parkfläche Treema/Dillenburger Str. und Brache am Kreisel Ostheimer Straße/In den Reihen - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD.Fraktion "Aufwertung des Gothaer Platzes in Köln-Höhenberg" - ungeändert beschlossen
+- TOP 7.2: Antrag der CDU-Fraktion "Sanierung der Eingänge des Friedhofs Fockerweg in Köln Rath/Heumar" - ungeändert beschlossen
+- TOP 7.3: Antrag der Fraktion Die LINKE. "Kalk-Tag in den städtischen Bädern des Stadtbezirks Kalk einführen" - geändert beschlossen
+- TOP -: Gemeinsamer Änderungs bzw. Ersetzungsantrag der SPD-Fraktion und der Fraktion Die LINKE. betreff: "KölnTag in den städtischen Bädern einführen" - ungeändert beschlossen
+- TOP 7.4: Antrag der SPD-Fraktion "Verbesserung der Verbindung Geraer Str. und des Höhenberger Kirchweges in Köln Höhenberg" - ungeändert beschlossen
+- TOP 7.5: Antrag der CDU-Fraktion "Prüfauftrag Sanierung Teilstück der Rolshoverstraße" - geändert beschlossen
+- TOP -: Gemeinsamer Änderungs bzw. Ersetzungsantrag der SPD-Fraktion und CDU-Fraktion betreff: "Sanierung eines Teilstücks der Rolshover Straße" - ungeändert beschlossen
+- TOP 7.6: Gemeinsamer Antrag der SPD-Fraktion und Fraktion Die LINKE "Verbesserung der Durchwegung in der Wiersbergstraße" - zurückgestellt
+- TOP 7.7: Gemeinsamer Antrag SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Fraktion Die LINKE. "Stärkere Beteiligung der Bezirksvertretung Kalk beim Planungsgebiet Hallen Kalk" - ungeändert beschlossen
+- TOP 7.8: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Fraktion Die LINKE. zu: Beteiligungskonzept „Mehr Freiraum für die Kalker Hauptstraße“ - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verlängerung der Genehmigung für einen Schulersatzbau der Kaiserin-Theophanu-Schule auf dem Grundstück Wiersbergstraße 44, 51103 Köln - ungeändert beschlossen
+- TOP 8.1.2: Projektanträge im Rahmen des fünften Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Beschleunigungspaket weiterführende Schulen - Generalsanierung und Neubau d. Schulgebäude Gesamtschule Holweide, Burgwiesenstraße, der Kaiserin-Theophanu-Schule, Kantstraße und der Heinrich-Böll-Gesamtschule, Merianstraße - Planungs- und Baubeschluss - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion betreff: "Beschleunigungspaket weiterführende Schulen – Generalsanierung und Neubau der Schulgebäude der Gesamtschule Holweide, der Kaiserin-Theophanu-Schule, Gymnasium und der Heinrich-Böll-Gesamtschule " - Sache ist erledigt
+- TOP -: Gemeinsamer Änderungsantrag der Fraktion Bündnis 90/Die Grünen und Fraktion Die LINKE betreff: " Beschleunigungspacket weiterführende Schulen-Generalsanierung und Neubau der Schulgebäude GS Holweide, GY Kantstraße und GS Merianstraße" - Sache ist erledigt
+- TOP -: Weiterer Änderungsantrag der SPD-Fraktion vom 21.09.2023 - Sache ist erledigt
+- TOP 8.2.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu: Beschluss über die Aufstellung eines Bebauungsplanverfahrens (2184/2023) - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die LINKE. zu: "Beschluss über die Azfstellung eines Bebauungsplanverfahrens Arbeitstitel: Brück-Rather-Steinweg in Köln Rath/Heumar vom 19.09.2023 - endgültig abgelehnt
+- TOP -: Gemeinsamer Änderungsantrag der SPD-Fraktion und der CDU-Fraktion betreff: "Beschluss über die Aufstellung eines Bebauungsplanverfahrens Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar" - ungeändert beschlossen
+- TOP 8.2.3: Vorgabenbeschluss Adalbertstraße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8.2.4: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - ungeändert beschlossen
+- TOP 8.2.5: Strategische Sozialplanung - Herausforderungen und Ziele - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung der Bezirksvertretung Kalk in der Sitzung vom 07.04.2022 (AN/0729/2022) " Ergebnisse des Anmeldeverfahrens an Gesamtschulen und Gymnasien im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk in der Sitzung am 21.09.2023 "Sachstand Rad-Pendler-Route 3 Rösrath-Köln im Bereich Rath/Heumar - Ostheim" (AN/1656/2023) - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Kalk in der Sitzung am 21.09.2023 "Bedarf an öffentlichen Mülleimern dem Bevölkerungswachstum und Wandel in den Stadtteilen anpassen" (AN/1650/2023) - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk in der Sitzung am 21.09.2023 "Städtischer Sozialer Wohnungsbau im Bezirk" (AN/1649/2023) - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Die LINKE. in der Bezirksvertretung Kalk in der Sitzung vom 21.09.2023"„frische Luft sollte kein Luxus sein, sie sollte als grundlegendes Menschenrecht betrachtet werden" (AN/1658/2023) - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vorhabenbezogener Bebauungsplan Oranienstraße - Ergebnis Qualifizierungs- und Beteiligungsverfahren - Kenntnis genommen
+- TOP 10.2.2: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Vorhabenbezogener Bebauungsplan mit dem Arbeitstitel Astrid-Lindgren-Allee in Köln-Kalk-Brück: Ergebnis Qualifizierungsverfahren - Kenntnis genommen
+- TOP 10.2.4: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW: Zukunftsagenda für das Bezirkszentrum Kalk - Kenntnis genommen
+- TOP 10.2.5: Gesetz zur Stärkung der Digitalisierung im Bauleitplanverfahren - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Spielplatz "Kletterpark Ludwig", Köln-Neubrück, Aktenzeichen: 77/23 S - Kenntnis genommen
+- TOP 10.2.7: Kalker Hauptstraße – Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.8: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 10.2.9: RadPendlerRouten-Netz Köln - zurückgestellt
+- TOP 10.2.10: Machbarkeitsstudie Oberbergische Bahn (RB 25) - zurückgestellt
+- TOP 13.1.1: Übersicht Anfragen Stand 21.09.2023 - Kenntnis genommen
