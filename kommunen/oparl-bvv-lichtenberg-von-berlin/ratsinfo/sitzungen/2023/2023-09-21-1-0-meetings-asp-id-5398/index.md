@@ -1,0 +1,77 @@
+# 22. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-09-21T17:00:00+02:00
+- Ende: 2023-09-21T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5398
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5398
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=373811
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Fußball- und Basketballspielen an der Rummelsburger Bucht ermöglichen - in der BVV zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Teilnahme am Berliner Landesprogramm "Kitas bewegen - für die gute gesunde Kita" - überwiesen
+- TOP 5.2: BiBo-Bike für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Personalbedarfe in Lichtenberger Sozialämtern besser feststellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Schöner unser Mühlengrund - ein Aktionsplan zur Aufwertung - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Marode Einfassungsmauer neben den Glassammelbehältern am Eingang in den Rheinsteinpark in Karlshorst sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Tierschutzbeauftragung für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Klimafreundlich unterwegs - Elektrofahrzeuge für das Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Fahrbahnquerung über die Waldowallee an der Wiesengrundstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Begutachtung für eine Erhaltungssatzung für den Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: BVV-Sondermittel für das Weihnachtssingen des Lichtenberger Kammerchors Piekfeine Töne e.V. am 17.12.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Sicher Ankommen am Seniorenheim - überwiesen
+- TOP 5.12: Gefahrenstelle für den Rad- und Fußverkehr auf der Hohenschönhausener Brücke in Richtung Pablo-Picasso-Straße endlich beseitigen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Schulentwicklungsplanung Lichtenberg endlich aktualisieren - mit Änderungen in der BVV beschlossen
+- TOP 5.14: Sitzgelegenheiten rund um den Prerower Platz - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Bekenntnis zum Frieden am Rathaus Lichtenberg wieder sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Mietverträge vereinfachen - überwiesen
+- TOP 5.17: Planerische Sicherung der Straßenverbindung zur Umfahrung der Lückstraße - überwiesen
+- TOP 5.18: Die Grünfläche am S-Bahn-Durchgang Karlshorst an der Straße Am Carlsgarten umgestalten und ein Rosenrondell schaffen - überwiesen
+- TOP 5.19: Maßnahmen gegen Hundekot im Bereich Alt-Friedrichsfelde - überwiesen
+- TOP 5.20: Fußgängerüberweg zu Lichtsignalanlage umbauen - mit Änderungen in der BVV beschlossen
+- TOP 5.21: Erneuerung des Treppengeländers an der Bushaltestelle Dessauer Straße - mit Änderungen in der BVV beschlossen
+- TOP 5.22: Sicherheit von Fußgängern nach Herzberge verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Einbootungsstelle (Slipanlage) in der Rummelsburger Bucht schaffen - überwiesen
+- TOP 5.24: Wegweiser zur City-Toilette am Tagesliegeplatz - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Sportstätte sichern, Rollsport fördern - überwiesen
+- TOP 5.26: Grüne Insel Frankfurter Allee - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 8: Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Vorstandsmitgliedes - in der BVV abgelehnt
+- TOP 9: Prioritäten der Fraktionen - (offen)
+- TOP 9.1: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2024/25 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2024/2025 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Planung für die Radbahn U5 in die Wege leiten - überwiesen
+- TOP 9.4: Oberseeschule nicht verdichten - in der BVV abgelehnt
+- TOP 9.5: Hausbäume für Lichtenberg - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Lichtenbergs Wirtschaftskraft stärken und Unternehmen zum Partner machen - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung des Bezirksamtes (s. TOP 5.1) - erledigt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Nachweisung der im Haushaltsjahr 2021 für den Bezirk Lichtenberg zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Bezirkshaushaltsrechnung 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Safe Spaces in Lichtenberg schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Milieuschutzgebiet in Hohenschönhausen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Benennung eines Platzes südlich Blockdammweg/Parkstadt Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Durchfahrtverkehr in Nebenstraßen für Schwerlastverkehr stoppen - überwiesen
+- TOP 13.2: Mehr Schulwegsicherheit vor der Robinson-Grundschule in der Wönnichstraße - überwiesen
+- TOP 13.3: Wildblumenwiese für Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Fußgängerüberwege in der Simon-Bolivar-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mehr Verkehrssicherheit für die Grundschüler der Schule auf dem lichten Berg – Fußgängerüberweg prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Transparente Liegenschaftspolitik auch im Bezirk - Barther Straße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Runden Tisch Falkenhöhe wieder starten - überwiesen
+- TOP 13.8: Ordnung schaffen am Hönower Wiesenweg und Härtefälle unterstützen - vertagt
+- TOP 14: Geschäftliche Mitteilungen des Vorstandes - erledigt
