@@ -1,0 +1,68 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-21T16:00:00+02:00
+- Ende: 2023-09-21T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27392
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27392
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Präsentation "Kommunale Wärmeplanung" - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Fragen zu den Folien der Rheinenergie zum Thema „Beitrag der RheinEnergie zur Dekarbonisierung Kölns“ vom 4. Mai 2023" - zurückgestellt
+- TOP 1.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 24.08.2023 (AN/1366/2023) betr.: - zurückgestellt
+- TOP 1.2: Anfrage der Fraktion Die Linke. betr.: "Photovoltaikanlagen auf den Dächern der Kliniken der Stadt Köln gGmbH sowie Dach- und Fassadenbegrünung" - Kenntnis genommen
+- TOP 1.2.1: Beantwortung der schriftl. Anfrage der Fraktion Die Linke für die Sitzung des Ausschusses Klima, Umwelt und Grün am 24.08.2023 (AN/1367/2023) betreffend Photovoltaikanlagen auf den Dächern der Kliniken der Stadt Köln sowie Dach- und Fassadenbegrünung - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Die Fraktion betr.: "More Moor (wet edition)" - zurückgestellt
+- TOP 1.4: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Mikroplastik im Rhein" - Kenntnis genommen
+- TOP 1.4.1: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des AKUG vom 24.08.2023 mit AN/1474/2023 betr.: "Mikroplastik im Rhein" - Kenntnis genommen
+- TOP 1.5: Anfrage der SPD-Fraktion betr.: "Stilllegung Wasserwerk Westhoven" - zurückgestellt
+- TOP 1.5.1: Beantwortung einer Anfrage der SPD-Fraktion betr. "Stillegung Wasserwerk Westhoven" (AN/1675/2023) - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke. betr.: "Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens" - zurückgestellt
+- TOP -: Stellungnahme zu AN/1206/2023 Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens - zurückgestellt
+- TOP 2.2: Dringlichkeitsantrag der FDP-Fraktion betr.: "Mehr Sitzgelegenheiten auf Friedhöfen" - geändert beschlossen
+- TOP -: ÄA zu TOP 2.2 - Dringlichkeitsantrag der FDP-Fraktion betr.: "Mehr Sitzgelegenheiten auf Friedhöfen" (AN/1437/2023) - geändert beschlossen
+- TOP 2.3: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt betr.: "Evaluation der Kundenzufriedenheit bei den Tierheimen" - ungeändert beschlossen
+- TOP 2.4: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt betr.: "Schaffung eines Energie-Beratungszentrums" - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Klimaschutzpreis - endgültig zurückgezogen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Grünausgleich Damiansweg - Kenntnis genommen
+- TOP 4.1.2: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - mit Änderungen empfohlen
+- TOP 4.1.3: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 4.1.4: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar - ohne Votum in nachfolgende Gremien
+- TOP -: ÄA zu TOP 4.1.4 - Beschluss über die Aufstellung eines Bebauungsplanverfahrens Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar (2184/2023) - ohne Votum in nachfolgende Gremien
+- TOP 4.1.5: Anregung der Bezirksvertretung Innenstadt zur Ablehnung der Nutzung des Rheinparks als Fan Zone zur EM 2024 - zurückgestellt
+- TOP -: ÄA zu TOP 3.2.1 – Rheinpark schützen - zurückgestellt
+- TOP 4.1.6: Erhöhung von Arbeitssicherheit und Resilienz in den Gerätehäusern der Freiwilligen Feuerwehr - zurückgestellt
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Beleuchtung eines Verbindungsweges im Bereich Glashüttenstraße in Porz - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.2: Stadtklima und Stadtverschönerungsprogramm 2023 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.4: Informationen zu Aktivitäten der Abteilung Europa und Internationales - Kenntnis genommen
+- TOP 7.5: Urteil des Bundesverwaltungsgerichts zum Thema „kommunale Verpackungssteuer“ - Kenntnis genommen
+- TOP 7.6: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 21. Juli 2023 - Kenntnis genommen
+- TOP 7.7: Beantwortung einer mündlichen Nachfrage von SE Böning aus dem Betriebsausschuss der Gebäudewirtschaft vom 8. Mai 2023 bezüglich Risiken im Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Kenntnis genommen
+- TOP 7.8: 5. Sachstandsmitteilung zu "Entlastungen bei der Steigerung der Energiepreise intensivieren" - Kenntnis genommen
+- TOP 7.9: „Erzeugungsbericht 2020-2022“ - Berichterstattung über den Fortschritt bei der Umstellung auf erneuerbare Energien im Bereich der RheinEnergie AG - Kenntnis genommen
+- TOP 7.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Gartenordnung für Kleingärten der Stadt Köln, Aktenzeichen 106/23 - zurückgestellt
+- TOP 7.11: UEFA EURO 2024 "Football Experience" - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen - RM Schallehn in der Sitzung am 27.04.2023 betr. LED-Straßenbeleuchtung - zurückgestellt
+- TOP 8.2: Beantwortung einer mündlichen Anfrage betreffend den Rückbau des Messebrunnens - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
