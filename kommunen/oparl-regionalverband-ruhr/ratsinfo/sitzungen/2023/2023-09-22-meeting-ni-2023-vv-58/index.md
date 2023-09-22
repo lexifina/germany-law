@@ -1,0 +1,105 @@
+# 11. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2023-09-22T10:00:00+02:00
+- Ende: 2023-09-22T11:50:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2023-VV-58
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2023-VV-58
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-VV-58
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VV-58
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VV-58
+
+## Tagesordnung
+
+- TOP 1.: Formalia
+- TOP 1.0: Genehmigung der Niederschrift
+- TOP 1.1: Einführung und Verpflichtung neuer Mitglieder der Verbandsversammlung
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Antrag der SPD im Ruhrparlament auf Umbesetzung in den Verbandsgremien
+- TOP 1.2.2: Umbesetzung in den Verbandsgremien Hier: Nachbesetzung im Rechnungsprüfungsausschuss
+- TOP 2.: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3.: Vorlagen der Bezirksregierungen
+- TOP 3.1: Aufnahme von Maßnahmen in den ÖPNV-Bedarfsplan Anmeldung der Maßnahme 'Niederrhein-Münsterland-Netz' für den ÖPNV-Bedarfsplan und den ÖPNV- Infrastrukturfinanzierungsplan des Landes NRW
+- TOP 4.: Vorlagen aus dem Planungsausschuss
+- TOP 4.1: Änderungsverfahren 46 E des Regionalen Flächennutzungsplans (RFNP) der Planungsgemeinschaft Städteregion Ruhr Einvernehmensherstellung nach § 41 Abs. 3 LPlG
+- TOP 4.2: Änderungsverfahren 53 GE des Regionalen Flächennutzungsplans (RFNP) der Planungsgemeinschaft Städteregion Ruhr Einvernehmensherstellung nach § 41 Abs. 3 LPlG NRW
+- TOP 5.: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6.: Fraktionsanträge
+- TOP 7.: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8.: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen/Vorlagen aus dem Bereich Wirtschaftsführung
+- TOP 8.1: Einbringung des Haushaltsplans 2024
+- TOP 8.2: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2024
+- TOP 8.3: Bekanntgabe der in der Zeit vom 01.04.2023 - 30.06.2023 für das Haushaltsjahr 2023 genehmigten Haushaltsüberschreitungen
+- TOP 8.4: Regionales Innovationsprofil Metropole Ruhr - Einrichtung eines Interfraktionellen Arbeitskreises
+- TOP 8.5: EKOCity Abfallwirtschaftsverband - Beitritt des Kreises Siegen-Wittgenstein sowie mögliche Änderung der Sat-zung des EKOCity Abfallwirtschaftsverbandes und des Gesellschaftsvertrages der EKOCity GmbH
+- TOP 8.6: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH (IGA GmbH) - Anpassung Gesellschaftervereinbarung
+- TOP 8.7: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Zuschuss- und Finanzierungsvertrag
+- TOP 8.8: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - AGR GmbH
+- TOP 8.9: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Kultur Ruhr GmbH
+- TOP 8.10: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Maximilianpark Hamm GmbH
+- TOP 8.11: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Business Metropole Ruhr GmbH
+- TOP 8.12: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 8.13: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Revierpark Gysenberg Herne GmbH
+- TOP 8.14: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Ruhr Tourismus GmbH
+- TOP 8.15: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Freizeitzentrum Xanten GmbH
+- TOP 8.16: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 8.17: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 8.18: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Revierpark Wischlingen GmbH
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Wanderlandschaft Metropole Ruhr: Sachstand Fördermittelakquise
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Fortführung des Masterplan Klimaschutz des Handwerks Region Ruhr und Umsetzungsprojekt Klimafit Ruhr
+- TOP 11.1.1: Antwort auf die Anfrage der CDU-Fraktion Fortführung des Masterplans Klimaschutz des Handwerks Region Ruhr mit dem Regionalverband Ruhr und dem dazugehörigen Umsetzungsprojekt Klimafit Ruhr
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: 25 Jahre Route Industriekultur - Anpassung des Budgets 2023
+- TOP 12.1.1: Antwort zur Anfrage: 25 Jahre Route der Industriekultur - Anpassung des Budgets 2023
+- TOP 12.2: Ruhr Games 2025 ff.
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Vorstellung des Förderprogramms 'klimaangepasstes Waldmanagement'
+- TOP 14.1.1: Förderprogramm klimaangepasstes Waldmanagement
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung/Sondersitzungen
+- TOP 16.1: Bericht der Märkischen Revision GmbH des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlusses zum 31.12.2020
+- TOP 16.2: Stellungnahme des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW
+- TOP 16.3: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - TouristikEisenbahnRuhrgebiet GmbH
+- TOP 16.4: Überplanmäßige Mittelbereitstellung für das Projekt 'KP 35 - Sanierung Tiefgarage und Neugestaltung Innenhof' (I12401-063)
+- TOP 16.5: Überplanmäßige Mittelbereitstellung für diverse Aufwandspositionen des Referates 18 - Zentrale Dienste
+- TOP 16.6: Revierpark Wischlingen GmbH Bereitstellung eines Sonderzuschusses zum Ausgleich erhöhter Energiekosten im Jahr 2023
+- TOP 16.7: NKF-Gesamtabschluss zum 31.12.2021
+- TOP 16.8: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH (TER) - Bürgschaftsübernahme (selbstschuldnerische Bürgschaft) für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten)
+- TOP 16.9: Evaluation der Pilotphase des RVR-Livestreaming - Ruhrparlaments-TV -
+- TOP 17: Fraktionsanträge/ Resolutionen
+- TOP 17.1: Antrag Die Grünen Ausbau der metropolradruhr-Stationen an touristischen Hotspots
+- TOP 17.2: Resolution der Verbandsversammlung des Regionalverbandes Ruhr: IGA 2027: Finanzierung sichern - Verantwortung gemeinsam tragen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen Kündigung des Gesellschaftsvertrages beim Revierpark Wischlingen
+- TOP 18.1.2: Antwort auf die Anfrage der Fraktion Die Linke Angebot des Deutschlandtickets als Firmenticket in den Beteiligungsgesellschaften
+- TOP 18.1.3: Werbung für die Region bei der EM 2024
+- TOP 18.1.4: Anfrage Die Grünen Treibhausgasbilanz (THG-Bilanz) in den Kommunan der Metropole Ruhr
+- TOP 18.1.5: Anfrage Die Grünen EKOCity
+- TOP 18.1.5.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen EKOCity
+- TOP 18.1.6: Antwort zur Anfrage: Diversity Management im Regionalverband Ruhr
+- TOP 18.1.7: Antwort zur Anfrage: Sachstand Sportforen
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: 25 Jahre Route der Industriekultur- Anpassung des Budgets 2023 (Drs. 14/1196)
+- TOP -: Fortführung des Masterplan Klimaschutz des Handwerks Region Ruhr mit dem Regionalverband Ruhr und dem dazugehörigen Umsetzungsprojekt Klimafit Ruhr (Drs. 14/1157)
+- TOP -: Umbesetzung in den Organen der Beteiligungsgesellschaften
