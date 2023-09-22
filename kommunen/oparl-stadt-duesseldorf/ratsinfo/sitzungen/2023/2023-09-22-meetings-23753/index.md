@@ -1,0 +1,67 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-22T16:00:00+02:00
+- Ende: 2023-09-22T18:31:00+02:00
+- Ort: Cäcilienstift, Paulistraße 3
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23753
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23753
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 08.09.2023 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 18.08.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Parkpflegewerk Schlosspark Benrath - Empfehlung einstimmig beschlossen
+- TOP 5.2: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - Empfehlung abweichend beschlossen
+- TOP 5.3: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - Empfehlung einstimmig beschlossen
+- TOP 5.4: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung mehrheitlich beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Hückeswagener Straße - Erneuerung Öffentliche Beleuchtung; Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.10: Elbruchstraße – Erneuerung Öffentliche Beleuchtung; Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.11: Lützenkircher Straße – Erneuerung Öffentliche Beleuchtung; Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 5.12: Benrather Weihnachtsdörfchen im Jahre 2023 - einstimmig beschlossen
+- TOP 5.13: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 5.14: Erarbeitung Grünordnungsrahmenplan (GOP II) für den Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 5.15: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 5.16: Zuschuss an den Tennisclub Holthausen e.V. - einstimmig beschlossen
+- TOP 5.17: Sitzungstermine der Bezirksvertretung 9 im Jahr 2024 - zurückgezogen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: St.-Elisabeth-Schule - Martinszug 2023 - einstimmig beschlossen
+- TOP 9.2: Allgemeiner Bürgerverein Urdenbach e.V. - Erntedankfest 2023 - einstimmig beschlossen
+- TOP 9.3: Diakonie Düsseldorf Ernst-Lange-Haus - Flyer für "Kinder machen Kultur" - einstimmig beschlossen
+- TOP 9.4: Kirchengemeinde St. Hubertus Itter - Veedelszoch 2024 - einstimmig beschlossen
+- TOP 9.5: Drei Martinszüge in Wersten 2023 - Martinsfreunde Wersten e.V. - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Fahrradstraße Himmelgeist - Beschluss der Bezirksvertretung 9 vom 27.01.2023; BV9/015/2023 - zur Kenntnis genommen
+- TOP 10.2: Urdenbacher Dorfstraße / Baumberger Weg - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/105/2021 - zur Kenntnis genommen
+- TOP 10.3: Verkehrsregulierung auf dem Dammweg durch die Urdenbacher Kämpe zwischen Garath und Urdenbach - Informationsvorlage BV10/113/2023 aus der Sitzung der BV10 vom 22.08.2023 - zur Kenntnis genommen
+- TOP 10.4: Befahrung Friedhof Itter durch nichtberechtigte Kraftfahrzeuge - Beschluss der Bezirksvertretung 9 vom 18.08.2023; BV9/160/2023 - zur Kenntnis genommen
+- TOP 11: Haushaltsberatung
+- TOP 11.1: Radweg Grünzug Hassels - Haushaltsbegleitantrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 11.2: Machbarkeitsstudie Unterführung Brückerbach Münchener Straße - Haushaltsbegleitantrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 11.3: Baumstandorte Heubesstraße - Haushaltsbegleitantrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 11.4: Wegeverbindung Benrather-Garather Forst - Haushaltsbegleitantrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
