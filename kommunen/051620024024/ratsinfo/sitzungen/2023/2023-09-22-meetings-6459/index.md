@@ -1,0 +1,95 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-09-22T16:00:00+02:00
+- Ende: 2023-09-22T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6459
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6459
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich I RAT 22.09.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00192141.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich I RAT 22.09.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00192141.pdf
+- Wortprotokoll: Sitzungspaket öffentlich I RAT 22.09.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00192141.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - zur Kenntnis genommen
+- TOP -: Einbringung Entwurf Haushalt 2024
+- TOP 5: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2024 - einstimmig zugestimmt
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss V - Norf
+- TOP 6: Mainstraße, Bushaltestellenpaar "Grupellostraße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 7: Radschnellweg RS 5 im Bereich Langemarckstraße und Stresemannallee - einstimmig zugestimmt
+- TOP 8: Jülicher Straße, Knotenpunkt Dreikönigenstraße / Schorlemer Straße: Umwandlung von drei Pkw-Stellplätzen in Fahrradabstellplätze - einstimmig zugestimmt
+- TOP -: Gleichstellungsbeirat
+- TOP 9: Anpassung der Lageberichte der städtischen Tochterunternehmen -Antrag der Fraktionen SPD und Bündnis 90/DIE GRÜNEN im Gleichstellungsbeirat - mehrheitlich zugestimmt
+- TOP 10: Teilnahme der Stadt Neuss am Projekt "FrauenOrte NRW" - Antrag der Fraktionen SPD und Bündnis 90/DIE GRÜNEN im Gleichstellungsbeirat - verwiesen
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 11: Lüttenglehner Straße, Bushaltestellenpaar "Birkhofstraße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Standort des Rettungstransportwagens Neuss-Süd - einstimmig zugestimmt
+- TOP -: Komitee für Partnerschaften, Europa und internationale Angelegenheiten
+- TOP 14: Partnerschaftsaktivitäten zwischen Neuss und Rijeka - einstimmig zugestimmt
+- TOP 15: Richtlinien über die Gewährung von Zuschüssen für Partnerschaftsbegegnungen - Erweiterung um die Partnerstadt Herzliya - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 16: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2022 - einstimmig zugestimmt
+- TOP 17: Winterdienstsatzung für die Stadt Neuss - zurückgezogen
+- TOP 18: Quaxpfad: Ausbau - einstimmig zugestimmt
+- TOP 19: Schlosserarbeiten zur Geländererhöhung an Brücken und sonstigen Bauwerken - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 20: ISEK Gemeinsam an den Rhein – Beschluss über den Maßnahmenplan - einstimmig zugestimmt
+- TOP 21: Entwicklung Hammfeld I - einstimmig zugestimmt
+- TOP 22: Entwurfsbeschluss zum EINGANG WEST künftiger Bürgerpark, ehemaliges Rennbahngelände - einstimmig zugestimmt
+- TOP 23: LaGa: Eingang Ost, Knotenpunkt Langemarckstraße/ Stresemannallee (Tankstellengrundstück) - einstimmig zugestimmt
+- TOP 24: LaGa: Eingang Südost, Querung Stresemannallee (Hammfeld) - einstimmig zugestimmt
+- TOP 25: LaGa: Eingang Süd, Stresemannallee und Haltestelle Stadthalle - einstimmig zugestimmt
+- TOP 26: vorhabenbezogener Bebauungsplan Nr. V 492 - Hammfeld II (West), Zweiradfachmarkt - (erneuter) Einleitungsbeschluss und Auslegungsbeschluss - mehrheitlich zugestimmt
+- TOP 27: Fortführung Schnellbus SB 53 - einstimmig zugestimmt
+- TOP 28: Maßnahmen zur Erhöhung der Verkehrssicherheit im Bereich der Görresschule (Konrad-Adenauer-Ring) - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 29: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2022 - einstimmig zugestimmt
+- TOP 30: Erstellung einer Nachhaltigkeitsstrategie für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 31: Definition von Pflegeklassen - mehrheitlich zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 32: Finanzierung von Krankheitstagen in der Kindertagespflege - mehrheitlich zugestimmt
+- TOP 33: öffentlich-rechtliche Vereinbarung zur Übertragung der Aufgaben des Verfahrenslotsen nach § 10b SGB VIII auf den Rhein-Kreis Neuss - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 34: Beratende Mitgliedschaft der Sprecher der OGS-Träger im Schulausschuss - einstimmig zugestimmt
+- TOP 34.1: Einrichtung eines Schülerspezialverkehrs in Holzheim - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 35: 18. Konferenz der Ratsmitglieder im Städtetag NRW am 13.12.2023 - einstimmig zugestimmt
+- TOP 36: Heimat-Preis 2023 - einstimmig zugestimmt
+- TOP 37: Freundschaftsaktivitäten zwischen Neuss und Leuven - einstimmig zugestimmt
+- TOP 38: Sanierung der Bestandshalle Schorlemerstraße - einstimmig zugestimmt
+- TOP 39: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen - einstimmig zugestimmt
+- TOP 40: öffentlich-rechtliche Vereinbarung Fischereiwesen - einstimmig zugestimmt
+- TOP 40.1: Umbenennung der Realschule Holzheim - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 41: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Errichtung einer Ersatzwasserfläche für das St. Konrad-Bad - verwiesen
+- TOP 42: Antrag der AfD-Fraktion betr.: Migration stoppen - Asylrecht konsequent anwenden - beraten ohne Abstimmung
+- TOP 43: Antrag der Fraktion UWG/Freie Wähler - Aktiv für Neuss betr.: Multifunktionshalle - verwiesen
+- TOP 44: Antrag der Fraktion UWG/Freie Wähler - Aktiv für Neuss betr.: Die Möglichkeit des Einsatzes von nahkauf Boxen in Neuss prüfen - einstimmig zugestimmt
+- TOP 45: Antrag der Fraktionen SPD und Bündnis 90/Die Grünen betr.: Weitere Maßnahmen und Anreize gegen Steingärten & Schotterflächen - beraten ohne Abstimmung
+- TOP 46: Antrag der Fraktionen SPD und Bündnis 90/Die Grünen betr.: Grundstücksanreize für den geförderten Mietwohnungsbau - einstimmig zugestimmt
+- TOP 47: Antrag der Fraktionen SPD und Bündnis 90/Die Grünen betr.: Weitere Photovoltaik-Möglichkeiten prüfen - einstimmig zugestimmt
+- TOP 48: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Einführung einer kommunalen Verpackungssteuer - beraten ohne Abstimmung
+- TOP 49: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Vereinbarung zwischen NBSV und der Stadt Neuss - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 51: Dunantstraße, Sanierung eines Stichweges im Bereich der Häuser Nr. 43 - 49 sowie eines angrenzenden Fußweges: Bericht über die verbindliche Anliegerversammlung am 28.02.2023 - zur Kenntnis genommen
+- TOP 52: Kenntnisnahme von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer vom IV. Quartal 2022 bis II. Quartals 2023 genehmigt hat - zur Kenntnis genommen
+- TOP 53: Energieverbräuche für Wärme und Strom der städtisch genutzten Liegenschaften - zur Kenntnis genommen
+- TOP 54: Zukünftige Nutzung der Rathaustiefgarage - mehrheitlich zugestimmt
+- TOP 55: Sitzungskalender des Rates und der Ausschüsse für das Jahr 2024 - zur Kenntnis genommen
+- TOP 55.1: Sachstand Feuerwache Süd - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
