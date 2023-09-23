@@ -38,6 +38,8 @@ Abschnitt 14
 Gesetz
 zu dem Übereinkommen vom 1. Juni 1972
 zur Erhaltung der antarktischen Robben (RobErhÜbkG)
+Abschnitt 15
+Einwegkunststofffondsgesetz (EWKFondsG)
 Abschnitt 1
 Chemikaliengesetz (ChemG),
 auch in Verbindung mit der Verordnung (EU) Nr. 528/2012 und der Verordnung (EU) Nr. 649/2012
@@ -307,3 +309,17 @@ zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben
 | 1 | Erteilung einer Erlaubnis oder Sondererlaubnis zum Fang oder zur Tötung von Robben nach Artikel 3 Absatz 2 RobErhÜbkG | nach Zeitaufwand |
 | 2 | Auf Antrag des Gebührenschuldners ist für die Erteilung einer Erlaubnis oder Sondererlaubnis nach Artikel 3 Absatz 2 RobErhÜbkG eine Gebührenbefreiung zu gewähren, wenn die Exemplare für Zwecke der wissenschaftlichen Forschung und Lehre, die insbesondere zur Erhaltung der betreffenden Arten beitragen, oder für wissenschaftliche Arterhaltungszuchtprogramme gefangen oder getötet werden. Die Verwendung der Exemplare zu hauptsächlich kommerziellen Zwecken schließt eine Gebührenbefreiung aus. |  |
 |  | Als Nachweis kann vom Gebührenschuldner eine Bescheinigung einer anerkannten wissenschaftlichen Einrichtung verlangt werden, aus der hervorgeht, dass die Exemplare zu den oben genannten Zwecken verwendet werden. |  |
+Abschnitt 15
+Einwegkunststofffondsgesetz (EWKFondsG)
+| Nummer | Gebührentatbestand | Gebühren in Euro |
+| 1 | Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit Widersprüchen gegen Verwaltungsakte auf Grundlage des EWKFondsG |  |
+| 1.1 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 7 Absatz 4 Nummer 1 und 4 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.2 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 10 Absatz 2 Satz 3 und Absatz 3 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.3 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 11 Absatz 4 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.4 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 13 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.5 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 15 Absatz 5 Nummer 2 und 5 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.6 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 18 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.7 | Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 21 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben ist | nach Zeitaufwand |
+| 1.8 | Entscheidung über einen Widerspruch gegen sonstige Verwaltungsakte, soweit der Widerspruch erfolglos geblieben ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
+| 1.9 | Zurücknahme oder Erledigung eines Widerspruchs auf sonstige Weise, bevor ein Widerspruchsbescheid erlassen ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
+| 2 | Erlass eines Verwaltungsakts nach § 22 Absatz 1 EWKFondsG | nach Zeitaufwand |
