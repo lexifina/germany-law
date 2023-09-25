@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-25T17:05:00+02:00
+- Ende: 2023-09-25T21:00:00+02:00
+- Ort: Bezirksrathaus Rodenkirchen Bürgeramt Rodenkirchen Industriestraße 161 – Haus 1 50999 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27197
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27197
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: TOP A Besuch der Oberbürgermeisterin Henriette Reker
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für den Grundschulverbund Schule IM Süden (02-2/907 Freiherr-vom-Stein-Schule - Teilstandort Immendorf), Godorfer Straße 29, 50997 Köln-Immendorf - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung der BV 2 vom 21.08.2023 (AN/1373/2023) betreffend der Kindertagesbetreuung im Bezirk - Kenntnis genommen
+- TOP 7.1.2: Anfrage gem. § 4 der Geschäftsordnung des Rates Bolzplatz Brohler Straße in Köln-Marienburg - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung der Bezirksvertretung Rodenkirchen vom 13.03.2023 (AN/0315/2023) betreffend „Schulbus“ - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer mündlichen Anfrage der Fraktionen CDU und Bündnis 90/die Grünen in der Sitzung der Bezirksvertretung Rodenkirchen am 21.08.2023 (TOP 10.2.9 Niederschrift vom 22.08.2023, S. 37) betreffend "Geh- und Radweg" und "Alleebäume" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Liegenschaft Hitzeler Straße 125/Alte Sendezentrale des WDR, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Tiny-Houses an der Rodenkirchener Brücke, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Kreuzung Bonner Straße / Schönhauser Straße, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Pflasterhofweg, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Sachstand Spielplatz und Bolzplatz Sürther Feld, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Unbeantwortete Anfragen
+- TOP 7.3.1: Bahnhof Sürth: Vorplatz, Planung und Umsetzung Unbeantwortete gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion (AN/1337/2019) aus der Sitzung vom 11.11.2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.2: Bahnhof Sürth, Vorplatz: Stand des Gestaltungskonzeptes; Unbeantwortete gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion (AN/1576/2021) aus der Sitzung am 06.09.2021 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.3: Verbreiterung des Leinpfades (Euroveloroute 15) in Rodenkirchen, Unbeantwortete Anfrage der CDU-Fraktion (AN/1178/2022) aus der Sitzung am 13.06.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.4: Verkauf von städtischen Grundstücken neben der Bonner Str. 536-540, Unbeantwortete Anfrage der SPD-Fraktion (AN/1369/2022) aus der Sitzung am 29.08.2022 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.5: Anmeldungen an Schulen im Stadtbezirk Rodenkirchen 2023/2024, Unbeantwortete Anfrage der SPD-Fraktion (AN/0245/2023) aus der Sitzung am 13.03.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.5.1: Beantwortung der Anfrage AN/0245/2023 Anmeldungen an Schulen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.3.6: Grünabfälle, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0314/2023) aus der Sitzung am 13.03.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7: Verlegung der LKW Ein-/ Ausfahrt zur Shell Raffinerie in Godorf auf die Industriestraße, Unbeantwortete Anfrage der SPD-Fraktion (AN/0302/2023) aus der Sitzung am 13.03.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.8: Alteburger Straße, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0676/2023) aus der Sitzung am 08.05.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.8.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis/90 Die Grünen aus der Sitzung der Bezirksvertretung Rodenkirchen vom 08.05.2023 betr. "Alteburger Straße: Neuordnung ruhender Verkehr", AN/0676/2023 - Kenntnis genommen
+- TOP 7.3.9: Sachstand „Schlagloch-Tombola“ 2022 und die Beseitigung von Schlaglöchern, Unbeantwortete Anfrage der FDP-Fraktion (AN/0686/2023) aus der Sitzung am 08.05.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.10: Maßnahmen zum Lärmschutz der Anwohnenden an der BAB 555, Unbeantwortete Anfrage der SPD-Fraktion (AN/0683/2023) aus der Sitzung am 08.05.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.11: Aufkommen der Gewerbesteuer der am Großmarkt in Köln-Raderberg ansässigen Unternehmen, Unbeantwortete Anfrage der FDP-Fraktion (AN/1321/2023) aus der Sitzung am 21.08.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.11.1: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung der Bezirksvertretung 2 am 21.08.2023 (AN/1321/2023) betreffend "Aufkommen der Gewerbesteuer der am Großmarkt in Köln-Raderberg ansässigen Unternehmen" - Kenntnis genommen
+- TOP 7.3.12: Rückbau und Ausbau von Radwegen im Stadtbezirk Rodenkirchen, Unbeantwortete Anfrage der SPD-Fraktion (AN/1316/2023) aus der Sitzung am 21.08.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.13: Änderung der Verkehrsführung in der Cäsarstraße, Bernhardstraße und Schillerstraße in Köln-Bayenthal, Unbeantwortete Anfrage der SPD-Fraktion (AN/1315/2023) aus der Sitzung am 21.08.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.14: Kindertagesbetreuung im Bezirk, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1373/2023) aus der Sitzung am 21.08.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.15: Stand Masterplan Parken, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1374/2023) aus der Sitzung am 21.08.2023 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Nutzungen des Maternusplatzes und des Marktplatzes in Sürth 2024, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Mobiler Bürgerservice in Zollstock, Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.3.1: Stellungnahme zu dem Antrag der CDU-Fraktion 'Mobiler Bürgerservice Zollstock' AN/1066/2023 - Kenntnis genommen
+- TOP 8.1.4: Beseitigung gefährliches Schlagloch - hier: Schönhauser Straße, Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.5: Parken auf der Rodenkirchener Straße in Rondorf, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.6: Beseitigung gefährlicher Straßenschaden - hier: Kölnstraße in Köln-Sürth, Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.7: Rechtsabbieger vom Raderthalgürtel in die Vorgebirgstraße, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.8: Benennung eines Weges in Zollstock, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Wohnpark Bayenthal – Aufstellung eines Bebauungsplanes, Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der CDU-Fraktion und der SPD-Fraktion - zurückgestellt
+- TOP 8.2.2: Bau einer Quartiersgarage in Bayenthal, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Kleingartenpark Claudiusstraße Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.1.2: Bestellung zur stellvertretenden Schriftführerin gemäß § 36 Abs. 5 Satz 2 i.V.m. § 52 Abs. 1 GO NW i.V.m. § 31 Absatz 1 GeschO des Rates und der Bezirksvertretungen der Stadt Köln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Strategische Sozialplanung - Herausforderungen und Ziele - ungeändert empfohlen
+- TOP 9.2.2: 289. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - ungeändert empfohlen
+- TOP 9.2.4: Baubeschluss für die Generalsanierung der Straße Schillingsrotter Platz zwischen der Lindenallee und der Straße Am Südpark sowie Freigabe von investiven Auszahlungsermächtigungen - mit Änderungen empfohlen
+- TOP 9.2.4.1: Ergänzungsantrag Fraktion Bündnis 90/Die Grünen zu Vorlage 2381/2023 Top 9.2.4 - geändert beschlossen
+- TOP 9.2.5: Verkehrsversuch Bayenthal/Marienburg - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 1. August 2023 - Kenntnis genommen
+- TOP 10.2.2: Qualitätsbericht 2022 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.3: Information zum Beschluss des Verwaltungsgerichts Köln vom 02. August 2023 zur Verkehrsanordnung „Deutzer Freiheit“, zum weiteren Vorgehen „Verkehrsversuch Venloer Straße“ und zum erweiterten Prüfumfang von laufenden Verkehrsmaßnahmen im Zusammenhang - Kenntnis genommen
+- TOP 10.2.4: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Rodenkirchen 2021 bis August 2023 - Kenntnis genommen
+- TOP 10.2.6: Gesetz zur Stärkung der Digitalisierung im Bauleitplanverfahren - Kenntnis genommen
+- TOP 10.2.7: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 10.2.8: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 10.2.9: Beantwortung der Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des Verkehrsausschusses vom 07.03.2023 TOP 5.2.4 (AN/0246/2023) betreffend "Sachstand Ertüchtigung der Freidrich-Ebert-Straße / Kreuzung L300" - Kenntnis genommen
+- TOP 10.2.10: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 10.2.11: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 28 August 2023 - Kenntnis genommen
