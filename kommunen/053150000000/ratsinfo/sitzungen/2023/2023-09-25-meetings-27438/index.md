@@ -1,0 +1,56 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-25T17:00:00+02:00
+- Ende: 2023-09-25T18:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27438
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27438
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde betreffend "Übergriffe im Agrippabad. Gewährleistung der Sicherheit in Kölner Schwimmbädern" - Sache ist erledigt
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Dritter Jahresbericht zur Zertifizierung der Stadt Köln als familienfreundliches Unternehmen - Kenntnis genommen
+- TOP 1.2: 9. Cross-Mentoring - Kenntnis genommen
+- TOP 1.3: Beantwortung einer Anfrage aus dem Gleichstellungsausschuss der SPD-Fraktion betreffend "Fragen zum Gleichstellungsaktionsplan" (AN/1205/2023) - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Informationen zu Aktivitäten der Abteilung Europa und Internationales - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt in Bezug auf Parkplätze von Mitarbeitenden AN/1173/2023 - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung betreffend "Qualifizierung von Mitarbeitenden mit Bürgerkontakt/Antidiskriminierung" - Kenntnis genommen
+- TOP 4.2: Brunnen am Neumarkt - Mittelalterliche Bodenfunde, Bauzeitenverlängerung - Kenntnis genommen
+- TOP 4.3: Silvester 2023 | Absage kulturelle Bespielung des Roncalliplatzes - Kenntnis genommen
+- TOP 4.4: Fünfter Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.5: Gründung der AG Wiener Platz: Sachstandsbericht - Kenntnis genommen
+- TOP 4.6: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Sachstand Umsetzung der EU-Whistleblower-Richtlinie in Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion betreffend „Whistleblower-Richtlinie in Köln“ - Kenntnis genommen
+- TOP 6.2: Anfrage der FDP-Fraktion betreffend "Ersatzfreiheitsstrafen wegen Fahrens ohne gültigen Fahrschein" - zurückgestellt
+- TOP 6.3: Anfrage der Fraktionen: Bündnis 90/Die Grünen, CDU, Volt betreffend "Kundenzentren der Stadt Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis90/Die Grünen, CDU-Fraktion, Volt-Fraktion aus der Sitzung des AVR betreffend "Kundenzentrum der Stadt Köln" - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktionen CDU und Volt betreffend "Psychosoziale Unterstützung von Mitarbeitenden" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU und Volt Fraktion betreffend „Psychosoziale Unterstützung der Mitarbeitenden“ - Kenntnis genommen
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Kein Betreiber für den Weihnachtsmarkt am Friesenplatz"
+- TOP -: Nachträgliche Mitteilung der Verwaltung zum Thema "Weihnachtsmarkt auf dem Friesenplatz"
+- TOP 7.2: Mündliche Anfrage der Volt Fraktion bereffend "Personalmangel in Kindertagesstätten"
+- TOP 7.3: Mündliche Anfrage der SPD-Fraktion betreffend "positive Presse für die Kundenzentren"
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Anregung der Bezirksvertretung Ehrenfeld nach § 38 Geschäftsordnung des Rates und der Bezirksvertretungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Sondernutzungen von Bänken vor Ladenlokalen - endgültig zurückgezogen
+- TOP 10.2: Anregung der Bezirksvertretung Rodenkirchen zu Sondernutzungen von Bänken vor Ladenlokalen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Sondernutzung von Bänken vor Ladenlokalen - endgültig zurückgezogen
+- TOP 10.3: Abwassergebührensatzung 2024 - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Bürgereingabe nach § 24 GO – Dauerhafter Schutz des Landschaftsschutzgebiets Innerer Grüngürtel, Dezentrale Angebote am 11.11. und Karneval für ein junges Publikum, Aktenzeichen 118/23 B - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
