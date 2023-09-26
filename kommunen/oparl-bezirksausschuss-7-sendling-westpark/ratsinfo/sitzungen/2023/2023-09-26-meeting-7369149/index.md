@@ -1,0 +1,175 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-09-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7369149
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7369149
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-08
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Kneippanlage Westpark
+- TOP 6.2.: Umplanung der Johann-Clanze-Straße zwischen LKP und Johann-Houis-Straße
+- TOP 6.3.: Tempoüberschreitung Kössener Straße
+- TOP 6.4.: Prüfung Bau einer Bewegungsinsel im Westpark
+- TOP 6.5.: Halteverbot Cimbernstraße
+- TOP 6.6.: Anwohner Parken Konrad-Peutinger-Strasse
+- TOP 6.7.: Planung von Fahrradabstellplätzen
+- TOP 6.8.: BA-Infostand bei der KlimaDult und "40-Jahre Westpark"
+- TOP 6.9.: Westpark Eingang
+- TOP 6.10.: Einfahrt Sackgasse Konrad-Peutinger-Str.
+- TOP 6.11.: Danke! Gehwegplatten für die Margaretenstr.
+- TOP 6.12.: Sicherheit auf dem Radweg am Heckenstaller-Park
+- TOP 6.13.: Parksituation Bernrieder Straße
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Amtsniederlegung Stefanie Krammer, Amtseinführung Anna Poetke
+- TOP 7.2.: UA-Besetzungen SPD
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Feierwerk e.V. “Kulturfestival „Dschungel“ vom 28.10.2023 – 05.11.2023“ 3.500,00 € / AZ: 0262.0-7-0448
+- TOP 10.2.: (E) Stadtbezirksbudget Die Murmeltiere e.V. “Teppiche für den Gruppenraum und Eingangsbereich am 10.10.2023“ 690,00 € / AZ: 0262.0-7-0449
+- TOP 10.3.: (E) Stadtbezirksbudget Gans Kreativ GmbH – Gans am Wasser “Kulturprogramm Adventszeit 2023 – Gans am Wasser 01.12.2023 – 31.12.2023“ 4.850,00 € / AZ: 0262.0-7-0447
+- TOP 10.4.: (E) Stadtbezirksbudget Rollstuhlbasketball München e.V. “Rückkehr in die Bundesliga im BMW-Park am 07.10.2023“ 3.000,00 € / AZ: 0262.0-7-0450
+- TOP 11.: Anträge
+- TOP 11.1.: Absenkung des Bordsteins und Verkehrsbeschilderung an der T-Kreuzung Heiterwanger Str. / Fernpaßstr.
+- TOP 11.2.: Gewichtung von Anliegen auf der Meldeplattform Rad
+- TOP 11.3.: Kreuzungsbereiche Kössener Straße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung UA-Bau
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung UA SuK
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung UA PuG
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Verbreiterung Radweg Gilmstraße
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, Nepalpagode, Teej-Festival, Frauenfest
+- TOP 17.2.: Anhörung, Westpark, Seebühne, Trabzon+Schwarzmeer e. V., Folkloretänze u. Musik
+- TOP 18.: Baureferat
+- TOP 18.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 7 Sendling Westpark Widmungserweiterung einer Teilstrecke der Martin-Behaim-Straße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Austausch und weitere Fahrradständer an der U-Bahnstation Westendstraße
+- TOP 33.2.: Grünfläche Partnachplatz
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Veranstaltung auf öffentlichem Verkehrsgrund HIDALGO Refugium
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: MOR MIP-Beschluss 2023
+- TOP 40.2.: Tempo 30 in der Fürstenrieder Straße in Höhe der Andreas-Vöst-Straße
+- TOP 40.3.: Ersatzneubau der Kreuzhofbrücken BW 40/45 und 40/46 : Einplanung von stationären und teilstationären Möglichkeiten zur Geschwindigkeitskontrolle im Bereich der A95 stadtauswärts
+- TOP 40.4.: Sichere Überquerung der Fürstenrieder Straße für Radfahrer in Höhe des Ludwigs- und Erasmus-Grasser Gymnasiums
+- TOP 40.5.: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse: Mitteilung einer Kostenerhöhung
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Zwischennachricht Litfaßsäule
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Sanierung des Bolzplatzes am Förderzentrum Gilmstr. 46
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Sachbericht Dschungelpalast Sommerferienprogramm Westpark 2023
+- TOP 47.2.: Autobahn Südbayern - Westpark
+- TOP 47.3.: Präsentation Rosa Parkt
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Infoschreiben_Hybridsitzungen_Bedarfabfrage_2024.
+- TOP 51.2.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Gaststättenübernahme
+- TOP 53.2.: IMMA Mädchenbus am Quartierplatz
+- TOP 53.3.: Bescheid Dinosauria Luise-Kieselbach-Platz Sept.2023
+- TOP 53.4.: BESCHEID Bez. 7 Westpark Nepalpagode Teej-Festival Frauenfest
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Baumfällung Pilsenseestr. 2
+- TOP 56.: Mobilitätsreferat
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung für nächtliche Inspektionarbeiten
+- TOP 60.2.: Biodiversität
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Erhaltungssatzungsantrag BA Unterrichtung
+- TOP 62.2.: Inbetriebnahme Unterkunft Hansastraße
+- TOP 62.3.: Erhaltungssatzung Martin-Behaim-Str.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: SWM Strom-Projekt Krüner Straße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 12.2.1.: KJ-Versammlung professionell
+- TOP 13.1.2.: Protokoll erweiterter Vorstand 11-09-23
+- TOP 61.1.: Nachtrag:Planfeststellungsbeschluss vom 04.09.2023 zur Tram-Westtangente (Abschnitt 1, Tektur A und Tektur B)
+- TOP 10.5.: (E) Stadtbezirksbudget SV von 1880 München e.V. “Sommerfest am 80er am 22.07.2023“ 7.961,50 € / AZ: 0262.0-7-0437
+- TOP 12.3.1.: Einladung UA Haushalt
+- TOP 12.5.1.: Protokoll MuW
+- TOP 13.1.3.: Überfällige Anträge bei MOR
+- TOP 13.1.4.: Protokoll GWG-Besprechung
+- TOP 16.1.: Nachtrag: Anhörung, Krüner Platz beim Kiosk, Konzert Kultur mit Kind
+- TOP 17.3.: Nachtrag: Anhörung, Westpark, Laternenumzug Montessori Kinderhaus
+- TOP 12.6.2.: Einladung UA PuG
+- TOP 12.1.2.: Protokoll Unterausschuss Bau-Stadtplanung-Umwelt
+- TOP 12.4.2.: Protokoll_SuK
+- TOP 13.12.1.: Bericht Sept. des Seniorenbeauftragten
+- TOP 13.12.2.: Wir über 60-2023-2-Mobilität-web
+- TOP 12.3.2.: Protokoll HHA
+- TOP 13.7.1.: Bericht_KJB
