@@ -1,0 +1,53 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-26T17:00:00+02:00
+- Ende: 2023-09-26T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds der Bezirksvertretung 5
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Wahl einer neuen Bezirksbürgermeisterin beziehungsweise eines neuen Bezirksbürgermeisters der Bezirksvertretung 5 sowie gegebenenfalls Wahl einer neuen Stellvertretung
+- TOP 4: Genehmigung der Niederschrift über die Sitzung vom 29. August 2023 - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Baumaßnahmen der Stadtwerke Düsseldorf AG zur Erschließung der Deiker Höfe mit Versorgungsleitungen für Gas, Wasser und Strom sowie Erneuerung von Bestandsleitungen angrenzender Wohnbereiche - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung mehrheitlich beschlossen
+- TOP 9: Rhein-Ruhr-Expresse (RRX) – Auswertung des Planfeststellungsbeschlusses für den Planfeststellungsabschnitt 3.0a Unterrath - Kalkum - zur Kenntnis genommen
+- TOP 10: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - Empfehlung einstimmig beschlossen
+- TOP 11: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 12: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 13: Zuschuss an die Tennisgemeinschaft Nord Düsseldorf e.V. - einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5, Förderung Dritter (Liste C) - Haushalt 2023, Stromanschluss am Schützenplatz der Sankt Sebastianus Bruderschaft Kalkum 1429 e.V. - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 15: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - vertagt
+- TOP 16: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 17: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 18: Tempo 30-Beschilderung vor Kindergärten und Schulen - vertagt
+- TOP 19: Lichtsignalanlage Niederrheinstraße/Leuchtenberger Kirchweg - beantwortet
+- TOP 20: Piktogramme "Kinder" vor der Internationalen Schule und den Kita-Einrichtungen an der Niederrheinstraße - vertagt
+- TOP 21: Wiederholte Anfrage zur Schulwegsicherung in Wittlaer - Wie wichtig ist dem Amt für Verkehrsmanagement die Sicherheit unserer Kinder im Straßenverkehr? - beantwortet
+- TOP 22: Fahrradgaragen an der Haltestelle der U79 in Wittlaer und Kaiserswerth - vertagt
+- TOP 23: Wann beginnt der Neubau von Wohnungen am Wasserwerksweg in Alt-Wittlaer? - beantwortet
+- TOP 24: Geplante Verkehrsregelung Alte Landstraße/Kalkumer Schlossallee - vertagt
+- TOP 25: Elektrifizierung der Anlegestelle für Schiffe in Kaiserswerth - vertagt
+- TOP 26: Ausbau Notwendigkeit der AbbiegeSpur zur A 44 Richtung Flughafen von der Stadt kommend - beantwortet
+- TOP -: Neue Anfragen
+- TOP 27: Sachstand zur Realisierung der PFT-Sanierungsanlage in Kalkum - beantwortet
+- TOP 28: E-Roller und E-Bikes auf dem Bürgersteig der Zeppenheimer Straße in Kaiserswerth - beantwortet
+- TOP 29: Ausbesserung der Bankette in der Wittgatt - beantwortet
+- TOP -: Anträge
+- TOP 30: Erweiterungsbau der städtischen Friedrich-von-Spee-Gemeinschaftsgrundschule Angermund vorantreiben - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2023 - zur Kenntnis genommen
+- TOP 33: Einbringung des Haushaltsplans für die Haushaltsjahre 2024/2025 (Entwurf), Vorbericht und Anlagen sowie bezirksbezogene Ansätze** - zur Kenntnis genommen
+- TOP 34: Verschiedenes
