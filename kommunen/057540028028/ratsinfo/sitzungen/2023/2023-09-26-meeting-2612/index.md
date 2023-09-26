@@ -1,0 +1,59 @@
+# Rat der Stadt Rheda-Wiedenbrück (20. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2023-09-26T17:00:00+02:00
+- Ende: 2023-09-26T19:50:00+02:00
+- Ort: Stadthalle Rheda-Wiedenbrück, Hauptstraße 120, 33378 Rheda-Wiedenbrück, Stadthalle
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSK5OueZedJ15Ig4bx2F1HU
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/2612
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWCFj1QMtI52bIyAPzKi5pNPTr8augAL_mDbRduTKO_-/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_26.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR_kfjDEWgp9E-OEzG2FOV7dEXW70Vx4lBd0WaKWvoOJ/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_26.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Sicherstellung des Brandschutzes in Rheda-Wiedenbrück - 35 Ja-Stimme(n), 9 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 6: Beabsichtigte Fusion der Kreissparkassen Halle (Westfalen) und Wiedenbrück - endgültige Beschlussfassung
+- TOP 6.1: Beabsichtigte Fusion der Kreissparkassen Halle (Westfalen) und Wiedenbrück - endgültige Beschlussfassung - 45 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Antrag der Fraktion Bündnis 90/Die Grünen vom 12.08.2023: "Sitzungsprotokolle mit dem Abstimmungsergebnis nach Fraktionen" - 45 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 8: Antrag Rot-Weiss St. Vit auf Unterstützung beim Bau des neuen Vereinsheims
+- TOP 8.1: Antrag Rot-Weiss St. Vit auf Unterstützung beim Bau des neuen Vereinsheims - 44 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 9: 16. Änderungssatzung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren in der Stadt Rheda-Wiedenbrück vom 12.12.1996; Antrag der Fraktion move vom 14.11.2022 zur Verlängerung der Abfuhrzeiten für die Saison-Biotonne - Einstimmig
+- TOP 10: Bestellung des allgemeinen Vertreters des Bürgermeisters gemäß § 68 Abs.1 S.1 GO NRW - Einstimmig
+- TOP 11: 18. Änderung der Hauptsatzung der Stadt Rheda-Wiedenbrück vom 09.11.1999 - Einstimmig
+- TOP 12: Anpassung der Gremienbesetzungen - Einstimmig
+- TOP 13: Sachstandsbericht zur Verwaltungsdigitalisierung - Kenntnisnahme
+- TOP 14: Erlass der Satzung des Beirates für Menschen mit Behinderung (Behindertenbeirat) - 44 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 15: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für Oktober 2022 bis August 2023 für das Haushaltsjahr 2022 und Januar 2023 bis Juli 2023 für das Haushaltsjahr 2023 - Kenntnisnahme
+- TOP 16: Befreiung vom Gesamtabschluss nach § 116a Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - Einstimmig
+- TOP 17: Jahresabschluss 2022: Einbringung des Entwurfes gem. § 95 GO NRW - Einstimmig
+- TOP 18: Finanzcontrolling - Managementbericht zum 15. Juli 2023 - Kenntnisnahme
+- TOP 19: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2024 - Einstimmig
+- TOP 20: EAW: Prüfung des Jahresabschlusses zum 31.12.2022 - Bericht der CURACON GmbH - Einstimmig
+- TOP 21: Betrieb Bauhof: Prüfung des Jahresabschlusses zum 31.12.2022 - Bericht der WIKOM AG - Einstimmig
+- TOP 22: EAW: Neufassung der Betriebssatzung - Einstimmig
+- TOP 23: Betrieb Bauhof: Neufassung der Betriebssatzung - Einstimmig
+- TOP 24: EAW: Temporäre Stellenplananpassung - Wissenstransfer Leitung Kanalbetrieb - Einstimmig
+- TOP 25: EAW: Sanierung und Erweiterung des alten Betriebsgebäudes - 45 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 26: Förderprogramm „Aktiv für Klimaschutz in Rheda-Wiedenbrück“ - 28 Ja-Stimme(n), 6 Nein-Stimme(n), 12 Enthaltung(en)
+- TOP 27: ISEK Innenstadt Rheda | Sachstandsbericht und Ergebnis der Evaluation und des Monitorings – hier: Abschluss Phase I und Maßnahmenstreichungen 2023 - Einstimmig
+- TOP 28: ISEK Wiedenbrück - Maßnahme C03.1 „Umbau des Klosters zu einer Gemeinbedarfseinrichtung - Multifunktionsräume“ - Einstimmig
+- TOP 28.1: ISEK Wiedenbrück - Maßnahme C03.1 „Umbau des Klosters zu einer Gemeinbedarfseinrichtung - Multifunktionsräume“ - Einstimmig
+- TOP 29: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 30: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 32: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 33: Erklärung von Ausschließungsgründen
+- TOP 34: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 35: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 36: Vertragsangelegenheiten - Kenntnisnahme
+- TOP 37: Bericht zur Beschlusskontrolle
+- TOP 38: Dringende Anfragen und Anregungen
