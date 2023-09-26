@@ -1,0 +1,130 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-09-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253265
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253265
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.1.: Grundsatzbeschluss zur Durchführung von Hybridsitzungen
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 29.08.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 29.08.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Aufstellung einer Orangenen Bank mit Standortvorschläge für den Stadtbezirk 14; Beschluss des Bezirksauschusses 14 - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: August-Everding-Str. - Werksviertel WA 1, WA 2(1), WA 2(2), Neubau einer Wohnanlage in zwei Bauabschnitten (VIII-VII-VI-geschossig) inkl. gewerblicher Nutzungen im EG, Sonderwohnnutzungen und Errichtung zweier Tiefgaragen - mit Mobilitätskonzept - VORBESCHEID
+- TOP 3.1.2.: Bad-Kissingen-Str. 52 - Anbau eines Reihenhauses und Erstellung von Dachgauben
+- TOP 3.1.3.: Fehwiesenstr. 118 - Schulbauoffensive - Campus Ost / Schulcampus: Neubau Ludwig-Thoma-Realschule und Neubau einer Förderschule für geistige Entwicklung mit Einfachsporthalle, Mensa als Versammlungsstätte und 2 Dienstwohnungen
+- TOP 3.1.4.: Vorschläge für geeignete alternative Standorte für eine Wertstoffinsel als Ersatz der Wertstoffinsel Ecke Roßsteinstraße/Hohenburgstraße, Rosenheimer Bahndamm - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.1.5.: Reinigung und Neugestaltung der Fußgänger- und Fahrradunterführung zwischen Echardinger Grünstreifen und Erdinger Park; Anhörung des Baureferats - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.1.6.: Planung des Konzertsaal im Werksviertel; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Weiternutzung des Stroms in den Parzellen des Kleingarten-vereins SO1 e.V. ermöglichen; Antrag der CSU-Fraktion
+- TOP 3.1.8.: Deutsche Bahn am Ostbahnhof soll sich an das geltende Tierschutzgesetz halten; Antrag der Fraktion FW/ÖDP
+- TOP 3.1.9.: Mehr Rückmeldungen an den BA 14 von der Unteren Naturschutzbehörde und der Lokalbaukommission; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Entscheidungsvorschlag zur künftigen Raumaufteilung Truderinger Straße zwischen Baumkirchner Straße und Haringerweg; Anhörung des Mobilitätsreferats - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.2.2.: Parkplätze im Bereich Streitfeld- / Riedgau- und Neumarkter Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Kreillerstraße (Höhe Sonnwendjochstraße und Permoserplatz), Anordnung eines Zweirichtungsradwegs; Anhörung des Mobilitätsreferats
+- TOP 3.2.4.: Verwahrlosung und Radverkehr beim ehemaligen BfB-Gelände; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Kreillerstraße (Höhe Sonnwendjochstraße und Permoserplatz), Anordnung eines Zweirichtungsradwegs; Anhörung des Mobilitätsreferats
+- TOP 3.2.6.: Einrichtung einer Anfahrtszone für Busverkehr in der Haager Straße, Ausweitung des Haltverbots; Anhörung des Mobilitätsreferats
+- TOP 3.2.7.: Neubau Gewerbehof Ostbahnhof: Perspektive für Bestandsmieter nach dem Umbau anbieten; Antrag der CSU-Fraktion
+- TOP 3.2.8.: Installation eines Schilds für ein PKW Parkplatz sowie ein Zebrastreifen vor dem Bayerischen Roten Kreuz, Haus für Kinder; Anliegen aus der Bürgerschaft
+- TOP 3.2.9.: Schaffung eines Fußgängerübergangs zwischen Piusplatz und Piuskirche; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Netz und Sportgeräte für den Bolzplatz in der Kreillerstr. 21; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.3.2.: Kunstrasenplatz für den FC Phönix: Städtische Zusagen einhalten, Finanzierung endlich bereitstellen! Antrag der CSU-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Benennung Beauftragte*r gegen Rechtsextremismus
+- TOP 3.5.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratie im Einsatz – Demokratiemobil München am 22.09.2023 799,50 € / AZ.0262.0-14-0374
+- TOP 3.5.3.: Budget für die Veranstaltung "Klimaschutz bei knapper Kasse" des Stadtteilforums, Antrag BA-Mitglieder - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.5.4.: (E) Stadtbezirksbudget Erzb. Ordinariat München Kreuzweg auf dem Geländer der Maria Ward Mädchenrealschule 7.000,00€ / AZ 0262.0-14-0375
+- TOP 3.5.5.: (E) Stadtbezirksbudget BIKU e.V. "A.PPLAUS Auftritt Roncalli" am 04.11.2023 3.777,60€ / AZ 0262.0-14-0377
+- TOP 3.5.6.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag des Trägerverein KulturBürgerHaus Berg am Laim e.V. vom 29.06.2023 White Dinner; Az. 0262.0-14-0371 Bitte um Mitteilung, ob einer nachträglichen Erhöhung des Zuschussbetrages um zusätzliche 972,00 €, auf nun 2.322,00 €, zugestimmt wird.
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Fehwiesenstr. 118 - Schulbauoffensive - Campus Ost / Schulcampus: Neubau Ludwig-Thoma-Realschule und Neubau einer Förderschule für geistige Entwicklung mit Einfachsporthalle, Mensa als Versammlungsstätte und 2 Dienstwohnungen
+- TOP 3.6.2.: Schlüsselbergstr. 8
+- TOP 3.6.3.: Rechte der Bezirksausschüsse beim Baumschutz stärken - vertagt aus der Ferienausschusssitzung vom 29.08.2023 -
+- TOP 3.6.4.: Neupflanzung von drei Bäume in der Kreillerstr.; Antrag der Fraktion DIE GRÜNEN
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: (U) Prinzipien der Schwammstadt auf den öffentlichen Flächen umsetzen Antrag Nr. 20-26 / A 01945 von der Fraktion Die Grünen - Rosa Liste und der SPD / Volt - Fraktion vom 24.09.2021
+- TOP 4.1.2.: (U) Städtebauförderungsprogramme "Zukunft Stadtgrün" und "Sozialer Zusammenhalt" Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ Öffentliche Grünfläche am Campus Ost im 14. Stadtbezirk Berg am Laim Ausführungsgenehmigung
+- TOP 4.1.3.: (U) Münchner Kleingartenwesen Teilung übergroßer Gartenparzellen und Sanierung der Grundleitungen Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02467 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Gabriele Neff vom 04.03.2022 Sanierung der Grundleitungen in den Kleingartenanlagen Antrag Nr. 20-26 / A 02605 der SPD / Volt-Fraktion und der Stadtratsfraktion Die Grünen - Rosa Liste vom 01.04.2022
+- TOP 4.1.4.: Wertstoffinseln in Neubaugebieten mitplanen für weiter bestehendes Bringsystem
+- TOP 4.1.5.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2022 - 2026 mit verbindlicher Planung für 2027 für das Baureferat
+- TOP 4.1.6.: Fassadenbegrünung bei der Umsetzung des Bebauungsplans 2127
+- TOP 4.1.7.: Umsetzung des Kulturbürgerhauses mit Ausgleichsfläche der Begrünung
+- TOP 4.1.8.: Ergebnisse der Machbarkeitsuntersuchung für neue Baumstandorte im öffentlichen Raum
+- TOP 4.1.9.: Sachstand zur Sanierung des Berg am Laimer Kreuzwegs
+- TOP 4.1.10.: Fitnesspark am Michaelianger mit grünen Pollern kennzeichnen
+- TOP 4.1.11.: Problematische Situation am Bahnhof Berg am Laim
+- TOP 4.1.12.: Erstellung der öffentlichen Grünfläche Baumkirchen Mitte
+- TOP 4.1.13.: Ausbau des Fernwärme- und des Fernkältenetzes in Berg am Laim
+- TOP 4.1.14.: Installation von PV-Anlagen auf dem Dach der Grundschule an der St.-Veit-Straße
+- TOP 4.1.15.: Nachbegrünung in der Hermann-Weinhauser-Str.
+- TOP 4.1.16.: PBB in der Kreillerstraße Haltestelle Baumkirchner Straße
+- TOP 4.1.17.: Information des Baureferats zur Bearbeitung eines Anliegens aus der Bürgerschaft zu den Mülleimern im Stadtbezirk, v.a. am Grünen Markt
+- TOP 4.1.18.: Zweckentfremdung in der Hochriesstr. 7
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Wohnen in München VI Erfahrungsbericht für das Jahr 2022 Gesamtbilanz für den Programmzeitraum 2017 - 2022 Wohnen in München VII Programmanpassungen, Fortschreibung
+- TOP 4.2.2.: das Parken in der 2. Reihe in der Gerlosstraße vor dem Michaeli-Gymnasium unterbinden
+- TOP 4.2.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2024
+- TOP 4.2.4.: Grünpfeil für den Radverkehr in Berg am Laim
+- TOP 4.2.5.: Planung für den Aus und Umbau der Truderinger Str. zwischen Schwanhildenweg und Roßsteinstr. - BA einbeziehen!
+- TOP 4.2.6.: Verkehrszeichen sollen leicht verständlich aufgestellt werden
+- TOP 4.2.7.: Verbesserung der Ampelanlage an Kreuzung Leuchtenbergring/Ampfingstraße/Berg-am-Laim-Straße
+- TOP 4.2.8.: Fuß- und Radverkehrssicherheit an der Kreuzung Innsbrucker Ring, Grafinger Str. und Schlüsselbergstr.
+- TOP 4.2.9.: Weitere Querungsmöglichkeit über die Baumkirchner Straße
+- TOP 4.2.10.: Installation des Schildes „Verkehrszeichen 356 Verkehrshelfer“ an der Josephsburgstr. an der Kreuzung zur St.-Veit-Str.
+- TOP 4.2.11.: Information der MVG zur Bearbeitung eines Anliegens aus der Bürgerschaft zur Lärmbelästigung durch die Trambahnlinie 21 im Bereich St.-Veit-Str., Ecke Jella-Lepman-Str.
+- TOP 4.2.12.: (U) PERSPEKTIVE MÜNCHEN Hochhausstudie 2023 Darstellung des Diskussions- und Beteiligungsprozesses Vorstellung der überarbeiteten Hochhausstudie Beschluss zur Anwendung
+- TOP 4.2.13.: Hochhausstudie: An örtliche Gegebenheiten anpassen
+- TOP 4.2.14.: Umgestaltung der Unterführung an der Kreuzung Baumkirchnerstr./Hermann-Weinhauser-Str.
+- TOP 4.2.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.16.: Abschrägung aller Bordsteine an Straßenecken und Übergängen
+- TOP 4.2.17.: Benennung eines Fuß- und Radwegs: „Rosenheimer Bahndamm“
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.: Multimedia-Reportagen neue Schulen auf muenchen.de
+- TOP 4.3.3.: Thomas-Hauser-Straße / Xaver-Weismor-Straße: Umbau des Asphaltfußballplatzes in einen Kunstrasenplatz
+- TOP 4.3.4.: Digitale Schulbaukarte im Rahmen der Schul- und Kitabauoffensive der Landeshauptstadt München
+- TOP 4.3.5.: Haus für Kinder in der Grafinger Str. 67: Bitte um Unterstützung bei der Renovierung
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Aktualisierte Übersicht Unterkünfte Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 31.05.2023
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Antrag auf Bestellung städtischer Leistungen: Finanzierung von Familien und Ferienpässen
+- TOP 4.5.2.: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Josephsburgstr. 34; Fällgenehmigung Gefahrenbaum
+- TOP 4.6.2.: Heilbrunner Str. 59
+- TOP 4.6.3.: Ellingerweg 98
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.2.: Nachtrag zu TOP 3.1.9 Antrag: Mehr Rückmeldungen an den BA 14; geänderter Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 1.1.3.: Nachtrag zu TOP 3.1.8 - Deutsche Bahn am Ostbahnhof soll Einhaltung des Tierschutzes gewährleisten; geänderter Antrag der Fraktion FW/ÖDP
+- TOP 1.1.4.: Nachtrag zu 3.3.1 - Netz und Sportgeräte für den Bolzplatz Kreillerstraße 21; ergänzter Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 1.1.5.: Nachtrag zu TOP 3.6.4 - Neupflanzung von drei Bäume in der Kreillerstr.; Antrag der Fraktion DIE GRÜNEN; Information des Baureferates-Gartenbau
+- TOP 1.1.6.: Nachtrag zu TOP 3.6.4 - Information: Antrag wird zurückgezogen
