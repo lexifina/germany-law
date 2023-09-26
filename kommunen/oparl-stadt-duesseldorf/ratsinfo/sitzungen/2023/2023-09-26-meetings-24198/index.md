@@ -1,0 +1,69 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-26T16:00:00+02:00
+- Ende: 2023-09-26T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497798.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497798.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497798.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen
+- TOP 3.1: Workshopverfahren Nr. 02/022 - Güterbahnhof Schlüterstraße und Luise-Rainer-Straße - Empfehlung abweichend beschlossen
+- TOP 3.2: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - vertagt
+- TOP 3.3: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - Empfehlung einstimmig beschlossen
+- TOP 3.4: Zuschuss an den Deutschen Sportklub Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 3.5: Moderation/Mediation für den Runden Tisch Flurstraße 45 – Suchthilfezentrum - einstimmig beschlossen
+- TOP 3.6: Haushaltsplanentwurf 2024/2025 - Bezirksbezogene Haushaltsansätze
+- TOP 3.6.1: Sanierung und Neugestaltung der Skateranlage im Stadtwerkepark in Flingern-Süd - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 3.6.2: Sanierung Bolzplätze - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 3.6.3: WLAN an bestimmten Plätzen im Stadtbezirk 2 - Haushaltsbegleitantrag der CDU-Fraktion zum Haushalt 2024 - einstimmig beschlossen
+- TOP 3.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anträge
+- TOP 4.1: Anwohner*innen-Parkzonen Schillerplatz und Ahnfeldstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.2: Bezirksbezogene Haushaltsmittel für das Aftershow-Konzert des Jugendkunstprojekts „WAS MIT KUNST!?“ - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.3: 3. Jugendkunstprojekt WAS IST MIT KUNST!? Kooperationsprojekt von Filmwerkstatt Düsseldorf und KIT-Kunst im Tunnel - Antrag der Fraktion BÜNDNIS90/DIE GRÜNEN - zurückgezogen
+- TOP 4.4: Förderung des Cosmopolis-Festivals aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 4.5: Förderung der Veranstaltung „Tag der Vielfalt – Cosmopolis Festival 2023“ im zakk - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.6: Bezirksbezogene Haushaltsmittel für „das Cosmopolis-Festival: Tag der Vielfalt“- Antrag der CDU-Fraktion - zurückgezogen
+- TOP 4.7: Unterstützung der Kunstausstellung "Sucht und Sehnsucht" von CROSSPOINT - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.8: Förderung der Kunstausstellung "Sucht und Sehnsucht" aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 4.9: Bezirksbezogene Haushaltsmittel für eine Kunstausstellung in der Versöhnungskirche im Rahmen der Aktionswoche "Sucht hat immer eine Geschichte" - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 4.10: Querung der Erkrather Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.11: Sharing Station auf dem Hellweg - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 4.12: Diagonalparken Behrenstraße - Antrag der Fraktionen von FDP und CDU - mehrheitlich beschlossen
+- TOP 4.13: Neuer Zugang zum TC13 vom Zoopark - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 4.14: Stationsbasierte Abstellfläche für E-Scooter auf der Grunerstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.15: Bank Brahmsplatz (Hausnummer 1 - 3) - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 4.16: Übergang für Zufußgehende über die Erkrather Straße Kreuzungsbereich Moskauer Straße/Langerstraße - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion - vertagt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion - vertagt
+- TOP 5.6: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 5.7: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.8: Ertüchtigung des Bolzplatzes an der Ecke Dieselstraße / Benzstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen zur aktuellen Sitzung
+- TOP 6.1: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.2: Baucontainer Max-Planck-Straße- Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Kommunale Wärmeplanung im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 7.2: Sitzungstermine 2024 - zur Kenntnis genommen
