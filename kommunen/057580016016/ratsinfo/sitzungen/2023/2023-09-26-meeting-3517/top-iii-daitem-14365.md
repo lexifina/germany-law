@@ -1,0 +1,6 @@
+# TOP III.: Mitteilungen
+
+- Sitzung: Feuerwehr- und Ordnungsausschuss (3. /2023) (2023-09-26)
+- Körperschaft: Gemeinde Hiddenhausen
+- Öffentlich: ja
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14365
