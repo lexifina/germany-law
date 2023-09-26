@@ -1,0 +1,60 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-26T16:30:00+02:00
+- Ende: 2023-09-26T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23840
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23840
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497991.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497991.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497991.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 12.09.2023 eingegangene Fragen - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen und nichtöffentlichen Niederschrift vom 29.08.2023 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Gräulinger Straße zwischen Bergische Landstraße und Schwarzbachstraße: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h aus Lärmschutzgründen und zum Schutz von sensiblen Einrichtungen - Empfehlung einstimmig beschlossen
+- TOP 4.1.1: Gräulinger Straße zwischen Bergische Landstraße und Schwarzbachstraße - Änderungsantrag zu TOP 4.1 der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 4.2: Bebauungsplan-Entwurf Nr. 07/017 - Im Heidewinkel Ost - Empfehlung einstimmig beschlossen
+- TOP 4.3: Haushaltsentwurf 2024/2025 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2024/2025 für den Stadtbezirk 7 - - einstimmig beschlossen
+- TOP 4.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2: Haushalt 2024 / 2025: Bereitstellung von Mitteln zur Fortführung des Projekts „das.Rund“ in Grafenberg - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Nutzung Altes Pfarrhaus Aloys-Odenthal-Platz - zur Kenntnis genommen
+- TOP 4.6: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - Empfehlung einstimmig beschlossen
+- TOP 4.7: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung einstimmig beschlossen
+- TOP 4.8: Neubau öffentliche Grünanlage mit Kinderspielplatz Am Quellenbusch Cottbusser Straße - zur Kenntnis genommen
+- TOP 4.9: Zuschuss an den Post-Sportverein Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 4.10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Fahrradfahren auf dem Bürgersteig Heyestraße und Freigabe der Owensstraße/Portastraße für den Radverkehr - Antrag der Fraktion Bündnis 90/DieGrünen - - abweichend beschlossen
+- TOP 5.3: Einrichtung von weiteren Lastenrad-Abstellplätzen - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.4: Aktueller Sachstand und Planungen zum Hochwasserschutz im Stadtbezirk 7 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.5: Sachstand Realisierung der CO-Pipeline und eines Alarm- und Gefahrenabwehrplanes der Feuerwehr - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 6.2: Hallesche Straße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.3: Situation der U73 - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Stand der Herrichtung Haltestelle Neuenhaus (BV7/268/2021) - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.6: Tempo 30 Gräulinger Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - schriftlich beantwortet
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Unterstützung des Projektes Theater Templum - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.2: Vorbereitung von Vorgartensatzungen für Stadtteile im Bezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 8.3: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 8.4: Parken im Kreuzungsbereich Am Mergelsberg/Am Schultersbusch - Informationsvorlage zum Beschluss der BV 7 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 8.5: Glasfaseranschluss der Grundschulen im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 8.6: Sichere Schulwege im Stadtbezirk 7 - Standort GGS Knittkuhl - Informationsvorlage zum Beschluss der BV 7 vom 23.05.202 - zur Kenntnis genommen
