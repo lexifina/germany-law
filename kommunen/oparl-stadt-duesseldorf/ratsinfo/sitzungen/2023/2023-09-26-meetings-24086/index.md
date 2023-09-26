@@ -1,0 +1,60 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-26T17:00:00+02:00
+- Ende: 2023-09-26T19:25:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24086
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24086
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497946.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497946.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497946.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - vertagt
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung einstimmig beschlossen
+- TOP 4.2: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.3: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Kita Koblenzer Straße 123 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den SKFM Düsseldorf e.V.– Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.6: "Neue Mitte" Hellerhof : Unterstützung durch den Seniorenrat der Landeshauptstadt Düsseldorf - Beschlussvorlage der Bezirksverwaltungsstelle 10 - einstimmig beschlossen
+- TOP 4.7: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.8: Übertragung der zum Jahresende 2023 nicht verausgabten Verfügungsmittel in das Jahr 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2022 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an das Ev. Jugendreferat Düsseldorf, Anne-Frank-Haus - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Bezirklicher Bauunterhalt 2023 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2023 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Haushalt
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Glasfaserkabelanschluss Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Auswirkungen von Kürzungen der Sportförderung - Anfrage der SPD-Fraktion - - vertagt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Präventive Maßnahmen zur Verhinderung übermäßiger Frostschäden - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Schulwegsicherung - Radweg zwischen Peter-Behrens-Straße und Josef-Maria-Olbrich-Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 7.6: Schulwegsicherung - Einführung von Tempo 30 auf der Koblenzer Straße Höhe der Kreuzung Koblenzer Straße / Rostocker bzw. Josef-Maria-Olbrich Straße bis mindestens Einmündung Theodor-Litt-Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Instandsetzungsmaßnahmen auf den Fahrbahndecken, den Versorgungsschächten und Zebrastreifen - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Fahrradabstellanlage am Einkaufszentrum Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.4: Errichtung eines Mobilitätsspielplatzes in Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Umsetzung Klimaschutzprogramm im Stadtbezirk 10, insbesondere energetische Sanierung und Photovoltaik-Ausbau bei öffentlichen Gebäuden - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 9.2: Aufstellen einer Bank mit Armstützen - Informationsvorlage zum Beschluss BV10/121/2023 vom 22.08.2023 - - zur Kenntnis genommen
+- TOP 9.3: Neugestaltung des Areals vor der Grundschule Ingeborg-Bachmann-Straße einschl. Sport- und Festwiese - Informationsvorlage zum Beschluss BV10/127/2023 vom 22.08.2023 - - zur Kenntnis genommen
+- TOP 9.4: Aufstellen von Bänken um das Caritas-Altenzentrum St. Hildegard in Garath - Informationsvorlage zum Beschluss BV10/123/2023 vom 22.08.2023 - - zur Kenntnis genommen
+- TOP 10: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 11: Verschiedenes
