@@ -1,0 +1,87 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-09-26T18:00:00+02:00
+- Ende: 2023-09-26T21:41:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXRDqlgUqKHNjbRm4aFMqx4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20949
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb60DxE8usZQqkw9sTc8hy0T9SRX0ibfUxB-hrLbx7Rt/Bekanntmachung_Rat_26.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZakJeN6Ba77AJVde9X_URG6SVy2He9S24MBgSsQPJ2nD/Oeffentliche_Niederschrift_Rat_26.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 20.06.2023 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof - Beschluss mit 4-Ja- und 25- Nein-Stimmen und somit abgelehnt:
+- TOP -: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof; Hier: Einwände aus der Bürgerschaft - Beschluss s. RD-Nr. 1098-XI.
+- TOP -: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof; Hier: Einwände aus der Bürgerschaft aus Bergrath - Beschluss s. RD-Nr. 1098-XI.
+- TOP -: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof; Hier: Einwände aus der Bürgerschaft zu Standorten für Mobilfunkmasten bei Witscheiderhof und Ohlerath - Beschluss s. RD-Nr. 1098-XI.
+- TOP -: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof; Hier: Einwände aus der Bürgerschaft zum Standort Bergrath/Witscheiderhof - Beschluss s. RD-Nr. 1098-XI.
+- TOP 5.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Ohlerath - Beschluss mit 21 Ja- und 5 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP -: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Ohlerath - Beschluss s. RD-Nr. 1097-XI.
+- TOP 6.: Anregungen und Beschwerden gemäß § 24 GO NRW hier: Schreiben vom 02.08.2023 - Einstimmiger Beschluss:
+- TOP 7.: Senkung der Niederschlagsgebühr bei Nutzung einer Zisterne hier: Ergänzung der Entwässerungsgebührensatzung der Stadt Bad Münstereifel zur Nutzung von Zisternen mit dem Ziel der Reduzierung der Niederschlagsgebühr um mindestens 30 % hier: Bürgerantrag nach § 24 GO NRW - Beschluss mit 23 Ja- und 6 Nein-Stimmen:
+- TOP 8.: Umbesetzung von Ausschüssen hier: Antrag der SPD-Fraktion vom 30.08.2023 zur Umbesetzung im Betriebsausschuss „Forstbetrieb der Stadt Bad Münstereifel“ - Einstimmiger Beschluss:Hier stimmt die Bürgermeisterin gemäß § 40 Abs. 2 S. 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 9.: Hauptsatzung der Stadt Bad Münstereifel hier: 1. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel vom 09.11.2020 - Beschluss s. RD-Nr. 9-XI/Z-2.
+- TOP -: Hauptsatzung der Stadt Bad Münstereifel hier: 1. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel vom 09.11.2020; Anpassung aufgrund Empfehlungsbeschluss des Haupt- und Finanzausschusses vom 12.09.2023 - Beschluss mit 9 Ja- und 19 Nein-Stimmen sowie 1 Enthaltung und somit abgelehnt.
+- TOP 10.: 6. Satzung zur Änderung der Hundesteuersatzung der Stadt Bad Münstereifel vom 27.06.2000 - Beschluss s. RD-Nr. 1148-XI/Z-2.
+- TOP -: 6. Satzung zur Änderung der Hundesteuersatzung der Stadt Bad Münstereifel vom 27.06.2000 - Beschluss s. RD-Nr. 1148-XI/Z-2.
+- TOP -: 6. Satzung zur Änderung der Hundesteuersatzung der Stadt Bad Münstereifel vom 27.06.2000 - Einstimmiger Beschluss:
+- TOP 11.: Sanierung KiTa Kirspenich; hier: Genehmigung von überplanmäßigen Ausgaben - Einstimmiger Beschluss:
+- TOP 12.: Entwicklung Standorte Kindertagesstätten im Höhengebiet hier: Vergabe von Ingenieurleistungen zur Prüfung eines Neubaus am Standort Mutscheid - Einstimmiger Beschluss:
+- TOP 13.: Prüfantrag Kosten- und Nutzenstruktur des eifelbades hier: Ausarbeitung der Verwaltung - Einstimmiger Beschluss:
+- TOP 14.: Beschaffung von Feuerwehrfahrzeugen hier: Ermächtigung zur Vornahme von Ausschreibungen und Beschaffungen - Beschluss s. RD-Nr. 1137-XI/Z-1.
+- TOP -: Beschaffung von Feuerwehrfahrzeugen hier: Geänderte Beschlussfassung des Bau- und Feuerwehrausschusses - Einstimmiger Beschluss:
+- TOP -: Beschaffung von Feuerwehrfahrzeugen hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 15.: Breitbandprojekt "Graue-Flecken", Bundes-/Landesfördermittel; hier: Beschluss über den kommunalen Eigenanteil der Stadt - Einstimmiger Beschluss:
+- TOP 16.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Fortschreibung und Ergänzung des Wiederaufbauplan zur Vorlage bei der Bezirksregierung - Beschluss s. RD-Nr. 659-XI/Z-9.
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Fortschreibung und Ergänzung des Wiederaufbauplan zur Vorlage bei der Bezirksregierung - Einstimmiger Beschluss:
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Priorisierung der Wiederaufbaumaßnahmen - Einstimmiger Beschluss:
+- TOP 17.: Prüfauftrag Flächenphotovoltaik hier: Korrektur der kartographischen Darstellung zum „Leitfaden zur Planung und Ausweisung von Flächen für PV-Freiflächenanlagen in der Stadt Bad Münstereifel“ - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 18.: Mitgliedschaft Netzwerk Innenstadt NRW hier: aktueller Sachstand und Beschluss zur Mitgliedschaft im Netzwerk Stadtentwicklung - Einstimmiger Beschluss:
+- TOP 19.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Vorstellung und Beschluss des Masterplans - Beschluss s. RD-Nr. 369-XI/Z-6.
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortschreibung; Beschluss über das finale Dokument und über die Beantragung von Städtebaufördermitteln für eine weitere Förderphase - Beschluss s. RD-Nr. 369-XI/Z-7.
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Vorstellung und Beschluss des Masterplans - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Enthaltung.
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Fortschreibung und weiteres Vorgehen bzgl. Maßnahmen der laufenden Förderphase - Mehrheitlicher Beschluss mit 2 Nein-Stimmen:
+- TOP 20.: 36. Änderung des Flächennutzungsplanes "Feuerwehrgerätehaus Eicherscheid" Hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Einstimmiger Beschluss:(Alle Abwägungsbeschlüsse werden einstimmig gefasst.)
+- TOP -: 36. Änderung des Flächennutzungsplanes "Feuerwehrgerätehaus Eicherscheid" Hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss s. RD-Nr. 1111-XI.
+- TOP 21.: Jahresabschluss 2022 hier: Zuleitung des Entwurfs gem. § 95 Abs. 5 GO NRW - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Haushaltssatzung für das Haushaltsjahr 2024 mit den gesetzlichen Anlagen hier: Aufstellung eines Haushaltssicherungskonzeptes gem. 76 GO NRW - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 23.: Festsetzung der Kreisumlage für das Haushaltsjahr 2023 hier: Genehmigung einer überplanmäßigen Leistung - Einstimmiger Beschluss:
+- TOP 24.: Entsorgung von radioaktiver Präparate in der Städt. Realschule hier: Genehmigung einer überplanmäßigen Aufwendung/Auszahlung - Einstimmiger Beschluss:
+- TOP 25.: Ertüchtigung des städt. Gebäudes Hilterscheid als Notunterkunft; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 26.: Anfragen und Mitteilungen
+- TOP 26.1: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i. V. m. § 17 Abs. 2 der Hauptsatzung der Stadt Bad Münstereifel für das 1. Halbjahr 2023
+- TOP 26.2: Haushalt 2023 hier: haushaltswirtschaftliche Sperre gem. § 25 Abs. 2 KomHVO NRW
+- TOP 26.3: Bericht zum 30.06.2023 im Rahmen des Finanzcontrollings
+- TOP 26.4: Breitbandausbau/Glasfaseranschlüsse hier: Anfrage des Stadtverordneten Thomas Bell, Die Linke, vom 17.08.2023
+- TOP 26.5: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 26.6: Sachstand Wiederaufbau hier: Stand 12.09.2023
+- TOP 26.7: Erstellung eines überörtlichen Maßnahmenplanes (Hochwasserschutzkonzept) für Hochwasser- und Starkregenvorsorge im Landkreis Ahrweiler
+- TOP 26.8: Bildungs- und Sozialausschuss hier: Nachfolge für die ausscheidenden beratenden Mitglieder von Seiten der katholischen Kirche
+- TOP -: Bildungs- und Sozialausschuss hier: Nachfolge für das beratende Mitglied von Seiten der Schulen
+- TOP 26.9: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand
+- TOP 26.10: Entwässerungssituation Stotzheimer Straße hier: Anfrage des Stadtverordneten Reiner Jansen, CDU-Fraktion
+- TOP 26.11: Parken vor dem Rathaus hier: Anfrage des Stadtverordneten Reiner Jansen, CDU-Fraktion
+- TOP 26.12: Sachstand Kindertagesstätten im Höhengebiet hier: Anfrage des Stadtverordneten Frank Dibowski, CDU-Fraktion
+- TOP 26.13: Sachstand Kindertagesstätte Eschweiler hier: Anfrage des Stadtverordneten Wilfried Schumacher, CDU-Fraktion
+- TOP 26.14: Sachstand Kindertagesstätte Kirspenich, Fabrikstraße hier: Anfrage des Stadtverordneten Marin Mehrens, CDU-Fraktion
+- TOP 26.15: Kartierung Starkregen-Vorsorge im Wald hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
+- TOP 26.16: Ausstellung "Zwangsarbeit im Kreis Euskirchen" hier: Einladung zur Veranstaltung am 19.10.2023
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Erwerbsmöglichkeit eines Objektes zur Unterbringung geflüchteter und obdachloser Menschen hier: Genehmigung der Dringlichkeit - Einstimmiger Beschluss:
+- TOP 2.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Ohlerath - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Enthaltung:
+- TOP 3.: Verpachtung einer Fläche für Mobilfunkanlage in Bad Münstereifel-Witscheiderhof - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Enthaltung:
+- TOP 4.: Breitbandprojekt "Graue-Flecken", Bundes-/Landesfördermittel; hier: Sachstandsbericht zum Stand des eigenwirtschaftlichen Ausbaus der Anbieter und weiteres Vorgehen - Einstimmiger Beschluss:
+- TOP 5.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der e-regio GmbH & Co. KG an der EWP Ravelsberg GmbH & Co. KG - Einstimmiger Beschluss:
+- TOP 6.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der e-regio GmbH & Co. KG an der Sun Park Weilerswist GmbH & Co. KG - Einstimmiger Beschluss:
+- TOP 7.: Rahmenvertragsinitiative des Landes: NRW.URBAN; hier: Verlängerung der Projektsteuerung im Wiederaufbau - Einstimmiger Beschluss:
+- TOP 8.: Beschaffung von Feuerwehrfahrzeugen hier: Auftragsvergabe Firmenbenennung - Einstimmiger Beschluss:
+- TOP 9.: Anfragen und Mitteilungen
+- TOP 9.1: Ansiedlungsgesuch einer Zweigpraxis
