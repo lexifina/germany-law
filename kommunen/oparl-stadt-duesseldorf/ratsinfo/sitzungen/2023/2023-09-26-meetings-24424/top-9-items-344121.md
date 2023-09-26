@@ -1,0 +1,8 @@
+# TOP 9: Rhein-Ruhr-Expresse (RRX) – Auswertung des Planfeststellungsbeschlusses für den Planfeststellungsabschnitt 3.0a Unterrath - Kalkum
+
+- Sitzung: Bezirksvertretung 5 (2023-09-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/344121
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/125274
