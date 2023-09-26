@@ -1,0 +1,60 @@
+# 20. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-09-26T15:42:00+02:00
+- Ende: 2023-09-26T18:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27500
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27500
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Sicherheitssituation der Museen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen SPD & DIE LINKE: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - zurückgestellt
+- TOP 3.2: Dringlichkeitsantrag der Fraktionen Büdnis90/Die Grünen, CDU, SPD, Die Linke, FDP & Volt: Vorstellung der neuen Atelierförderstrategie - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Rückbau des Messebrunnens am Charles-de-Gaulle-Platz - geändert beschlossen
+- TOP 4.2: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 4.3: Konzept "Kuratorium für ein Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse" - ungeändert beschlossen
+- TOP 4.4: Neuwahl des Theaterbeirats 2023 bis 2026 - ungeändert beschlossen
+- TOP 4.5: Dauerhafte Aufstellung der Rodin-Skultpur am Neumarkt - zurückgestellt
+- TOP 4.6: Umfangreiche Sanierungsmaßnahmen - Kölnischer Kunstverein (KKV) - ungeändert beschlossen
+- TOP 4.7: Zuschuss Förderverein Römische Stadtmauer Köln e. V. und Freigabe Maßnahmen für die Sanierung und Erhaltung von Denkmälern inklusive geerbte Denkmäler - ungeändert beschlossen
+- TOP 4.8: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Verwendung der Mittel aus dem Sonderausstellungsetat 2023, 2. Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Brunnen am Neumarkt - Mittelalterliche Bodenfunde, Bauzeitenverlängerung - Kenntnis genommen
+- TOP 8.2: LSBTI-Förderprogramm 2023: Verteilung der Mittel - Kenntnis genommen
+- TOP 8.3: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 8.4: Kurzinformation zur (neuen) Gesamtagenda des Museum für Ostasiatische Kunst (MOK), „Erste Etappe" Juli–Dez. 2023 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 18. September 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 30. August 2023 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 19. September 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des Finanzausschusses vom 12.06.2023 - betreffend "Gesamtstädtisches Fördermittelmonitoring für akquirierte Fördermittel in 2022" - Kenntnis genommen
+- TOP 10.2: Haus Fühlingen, Neusser Landstr. 5, Köln-Worringen - Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 29.08.2023 (2258/2023) betreffend Haus Fühlingen - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen zur Vorlage 4069/2022 "Strategische Sozialplanung - Herausforderungen und Ziele" - zurückgestellt
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für Kunst und Kultur vom 02.05.2023 betreffend "studiobühne Köln, Sachstand Ausweichquartier" (AN 0739/2023) - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 29.08.2023 betreffend Skulptur von George Rickey - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der FDP-Fraktion: Bespielung des Tunnels „Am Domhof" - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: Kulturförderung der Europäischen Union und Sicherung des kommunalen Förderanteils - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Weiterbildung in der Kulturverwaltung, insbesondere im Kulturamt und sonstigen Kultureinrichtungen - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Sachstände „Kunst im öffentlichen Raum“ (KEP) - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Verfall Denkmalgeschützter Gebäude in Köln - zurückgestellt
+- TOP 11.6: Schriftliche Anfrage der SPD-Fraktion: Zugang zum Areal Hallen Kalk - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der Fraktionen Bündnis90/Die Grünen & Volt: Kulturamt als Servicestelle - zurückgestellt
+- TOP 11.8: Schriftliche Anfrage der Fraktion Die Linke: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 14.1: Sicherheitssituation der Museen
