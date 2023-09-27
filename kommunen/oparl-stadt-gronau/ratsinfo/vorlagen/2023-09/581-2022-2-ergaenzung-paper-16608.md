@@ -1,0 +1,22 @@
+# Sportanlage "Eper Bülten"
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 581/2022 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-09-27
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZafiIFjUrQlmgIqcUpI2cZ8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16608
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Sportanlage "Eper Bülten") https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYSEpXwUvhVKCGiLBU3d3NuY_7JQcihcbcqURdpbhC78/Beschlussvorlage_581-2022_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Gebäude FC Epe - Ansichten -) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTCQ9YpizP9f8wMA9h5uNLpQJEZaCV0g5Ho0k8_fNCDg/Gebaeude_FC_Epe_-_Ansichten_-.pdf
+- Anlage: Beschlussvorlage (Gebäude FC Epe - Grundriss -) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRpcualU4_09QgOobQZ07WMZVG264F6V9bEvsN7auCKq/Gebaeude_FC_Epe_-_Grundriss_-.pdf
+- Anlage: Beschlussvorlage (TV Epe Gebäude Grundriss EG vorläufig) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbl9y5wuKU-tkaDZAJiuzltSnco9oGZFyT3CevtUVmSG/TV_Epe_Gebaeude_Grundriss_EG_vorlaeufig.pdf
+- Anlage: Beschlussvorlage (TV Epe Gebäude Grundriss OG vorläufig) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeQFn3isMrWDIO8IXt9z0t_tTluMVOa-EF-BKsxjnzkY/TV_Epe_Gebaeude_Grundriss_OG_vorlaeufig.pdf
+- Anlage: Beschlussvorlage (Freisportanlagen FC und TV Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtGZbWvdbjHYZwZojZDozTgqYp-Mpek7xr823xxv3HL/Freisportanlagen_FC_und_TV_Epe.pdf
+- Anlage: Beschlussvorlage (FC Epe - Terminplan -) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBwUaXk3l8kKu2uLUcZnxQeW__F-JFriVWL6cI9A4UU/FC_Epe_-_Terminplan_-.pdf
+- Anlage: Beschlussvorlage (TV Epe Terminplanung Sportanlage Katharinenweg vorläufig) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRoai7fNEuuDHI_4__heVtJWy_d0ptn8jerM22AOfl-O/TV_Epe_Terminplanung_Sportanlage_Katharinenweg_vorlaeufig.pdf
+- Anlage: Beschlussvorlage (Auszug SGE v. 04.09.2023) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfsHYGMkSZuBtJup9wpc9exlVpY6sLoOm3BrMzMeSBlw/Auszug_SGE_v._04.09.2023.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5788 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-145
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5457 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5465 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
