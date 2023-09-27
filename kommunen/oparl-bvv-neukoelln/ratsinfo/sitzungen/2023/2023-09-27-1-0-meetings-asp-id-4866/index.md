@@ -1,0 +1,55 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-09-27T17:15:00+02:00
+- Ende: 2023-09-27T20:47:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4866
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4866
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Sozialberatung in Neukölln - beantwortet
+- TOP 1.2: Wachschutz an Schulen - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 0977/XXI Neuköllns Jugend(arbeit) braucht mehr Geld! - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Ausgabensperre für Anschaffungskosten in Vorbereitung der Parkraumbewirtschaftung im Haushaltsjahr 2023 - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von Bürgerdeputierten in den Ausschuss für Partizipation und Integration - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Ausgerollt in der Oderstraße? - beantwortet
+- TOP 8.2: Jugendveranstaltung am 31.10.2023 in der High-Deck-Siedlung geplant? - beantwortet
+- TOP 8.3: Kürzungen bei der Schulwegbeförderung - beantwortet
+- TOP 8.4: Streichung der Einzelbeförderung gefährdet Teilhabe von Schüler*innen mit Behinderung - beantwortet
+- TOP 8.5: Haushaltssperre für Neukölln, aber trotzdem üppige Gehälter für die obere Verwaltung - beantwortet
+- TOP 8.6: Sportplatz in Buckow Berlin, Hornblendeweg 2, 12349 Berlin - beantwortet
+- TOP 8.7: Berliner Feuerwehr und Neuköllner Jugendliche - beantwortet
+- TOP 8.8: Wann öffnet endlich das Eisstadion Neukölln? - beantwortet
+- TOP 8.9: Haushaltssperre: Neukölln wird kaputtgespart - beantwortet
+- TOP 8.10: Geschichtsfälschung bei der Veranstaltung „Mythos1948Israel“ am 13.09.2023 im Bajzsel? - beantwortet
+- TOP 8.11: Wie profitiert Neukölln von den Mittel für Tarifanpassung? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Fahrradstreifen U-Bahnhof Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Schulwegsicherheit auf der Karl-Marx-Straße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Bauprojekt an der Ziegrastraße - sozial-ökologisch bauen und Neuköllner Gewerbe fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: S- + U-Bahn Neukölln: Barrierefreie Warteschlangen benötigen unsere Hilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Schulischer Wachschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Keine Kürzungen in der Jugendarbeit! - in der BVV zurückgezogen
+- TOP 12.3: Neuköllns Jugend(arbeit) braucht mehr Geld! - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bezirkshaushaltsplan für die Jahre 2024/2025 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Große Anfragen - erledigt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Prüfbericht zur fehlerhaften Mengenerfassung beim Produkt „Sozialpädagogische Beratung zur Erlangung von Wohnraum oder sonstigen Wohnformen“ - überwiesen
