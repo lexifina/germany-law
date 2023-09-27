@@ -1,0 +1,63 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2023-09-27T17:00:00+02:00
+- Ende: 2023-09-27T20:23:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4951
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4951
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.03.2023 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Beschlussfassung der Räte in Eschweiler, Stolberg und Aachen: „Planung für L 221n nicht weiterführen“ - ungeändert beschlossen
+- TOP 6: Regiotram – Planungsbeschluss und Projektstruktur - ungeändert beschlossen
+- TOP 6.1: Drohender Wegfall des Semestertickets in Aachen - für den Erhalt bezahlbarer studentischer Mobilität sowie von Einnahmesicherheit für die Verkehrsbetriebehier: Gemeinsamer Resolutionsantrag der Fraktionen von GRÜNE, CDU, SPD, DIE Zukunft, FDP, DIE LINKE vom 26.09.2023 - ungeändert beschlossen
+- TOP 7: Bebauungsplan Nr. 973 - Karl-Kuck-Straße / Sportplatz - hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 8: Satzung zur Aufhebung der Satzungen über die förmliche Festlegung der Sanierungsgebiete a) "Aachen-Ostviertel und Rothe Erde" vom 29.05.2002 b) "Köpfchen" vom 26.02.2007 c) "Lousberg und Pferdelandpark" vom 03.05.2007 d) "Frankenberger Viertel"vom 03.04.2009 - ungeändert beschlossen
+- TOP 9: AWO Fanprojekt Aachen - Fortführung ab Januar 2024 - vertagt
+- TOP 10: Mitgliedschaft im "Netzwerk Nachhaltigkeit NRW" (Landesarbeitsgemeinschaft Agenda 21 NRW e.V.) - ungeändert beschlossen
+- TOP 11: Weiterführung des Kooperationsprojektes im Bereich Grünpflege und Naturschutz mit einem sozialen Beschäftigungsträgerhier: Finanzierung - ungeändert beschlossen
+- TOP 12: Benehmensherstellung für die differenzierte Regionsumlage 2024 - ungeändert beschlossen
+- TOP 13: Forschungsflugplatz Aachen-Merzbrück GmbH: Betrauung - ungeändert beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 14.1: Wettbewerbsverfahren städtische Potentialfläche Seffenter Weg 60-78Bereitstellung überplanmäßiger Mittel durch Mittelverlagerung - ungeändert beschlossen
+- TOP 14.2: Überplanmäßige Mittelbereitstellung Spielpunktumgestaltung Augustinergasse - ungeändert beschlossen
+- TOP 15: Bericht über die Prüfung des Gesamtabschlusses 2019 - ungeändert beschlossen
+- TOP 16: Jahresabschluss Eurogress Aachen 2022 - ungeändert beschlossen
+- TOP 17: Entwurf des Jahresabschlusses 2022 der Stadt Aachen - ungeändert beschlossen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 19.1: UmlegungsausschussWiederwahl und Wahl von Mitgliedern - ungeändert beschlossen
+- TOP 19.2: Umbesetzung des Naturschutzbeirates - ungeändert beschlossen
+- TOP 19.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 19.09.2023 - ungeändert beschlossen
+- TOP 19.4: Umbesetzungsantrag der CDU-Fraktion vom 25.09.2023 - geändert beschlossen
+- TOP 19.5: Umbesetzungsantrag der Fraktion DIE Zukunft vom 27.09.2023 - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 23: Ausschreibung der Stelle der*des Beigeordneten für Wohnen, Soziales und Wirtschaft - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
