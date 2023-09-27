@@ -1,0 +1,31 @@
+# Sportanlage "Eper Bülten"
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 581/2022 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-09-27
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQuUAjbcmfv6LipBfil-WiI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16679
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Sportanlage "Eper Bülten") https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUmNnW36lREiuPs93gl-FtLqH-RWxe9ECinwYYQbkVKu/Beschlussvorlage_581-2022_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (TV Epe Sportanlage Bau- und Leistungsbeschreibung Rev 1-3) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ38kKk74Gjl9yVwWe_N99LJOXMGdraM1fNDomPfwW_C/TV_Epe_Sportanlage_Bau-_und_Leistungsbeschreibung_Rev_1-3.pdf
+- Anlage: Beschlussvorlage (TV Epe Sportanlage Terminplan) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZYBc0FLuzeucOT8cj8g-6-yVcPvIUkTWBaJWfjEHE5/TV_Epe_Sportanlage_Terminplan.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Ansicht Front) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa80LVJMQzun9EcILi43V6rFDN7boFxbq27Tl1L9Qet4/TV_Epe_Vereinsgebaeude_Ansicht_Front.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Ansicht Rückseite) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRb4wGV_QtVH1A1OCD4Il4QaDGr8522voCfZ7ialdzRw/TV_Epe_Vereinsgebaeude_Ansicht_Rueckseite.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Bruttogrundfläche und Bruttorauminhalt) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbvtLzgYC09vqdRvFZfKVMah8M-omVLq-v_dsfKjGwUv/TV_Epe_Vereinsgebaeude_Bruttogrundflaeche_und_Bruttorauminhalt.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Grundriss EG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehDLmLaOnbs_YpM_rRhMxoHqgOzVC8vj8o2S1e7TP2v/TV_Epe_Vereinsgebaeude_Grundriss_EG.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Grundriss OG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-TyouYQ-aIn1b3QjiM_LGvoZ3LoVleYLP_9AJZyhXw/TV_Epe_Vereinsgebaeude_Grundriss_OG.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude Terminplan) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZayKyXKqWXydtHxKMVfgdwPWVu5SfLKMIkMYxAD-3nlK/TV_Epe_Vereinsgebaeude_Terminplan.pdf
+- Anlage: Beschlussvorlage (TV Epe Außenanlagen Deckblatt) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYX4oNppv0Rwkb_NL7hlkhrzv4IfOI6dBqmeIL-RWrTN/TV_Epe_Aussenanlagen_Deckblatt.pdf
+- Anlage: Beschlussvorlage (TV Epe Vereinsgebäude und Außenanlagen Kostenaufstellung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZQj2qIT9Owt6CwCzlGiPwoauXmGf-FOOgQ0kn6UrX6d/TV_Epe_Vereinsgebaeude_und_Aussenanlagen_Kostenaufstellung.pdf
+- Anlage: Beschlussvorlage (TV Epe Freisportanlagen Kostenschätzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW5bOZYUwkUyjCac5i81NN9wArfmRVBASvjcQns5-gJ_/TV_Epe_Freisportanlagen_Kostenschaetzung.pdf
+- Anlage: Beschlussvorlage (TV Epe Gesamtkostenaufstellung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYbHIX5y6P5rnWZ9oR5zCGgoQEmtW1ZVsayapQGNYykO/TV_Epe_Gesamtkostenaufstellung.pdf
+- Anlage: Beschlussvorlage (Berechnung der BGF FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQmmzfqS7RO-wlpUyN70L3aMsfal-pz9tmNhani2y-mE/Berechnung_der_BGF_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Berechnung des umbauten Raumes FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY-X_il4_N8VRndoNpk4g9i2y7ZEru0GweD7TldvfC1x/Berechnung_des_umbauten_Raumes_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Grundflächen nach DIN 277 FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtOH0Fr1rlZ4QLBS9YBT3ygfcIDhnFUVpJdR2s2wWs6/Grundflaechen_nach_DIN_277_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Kostenschätzung Gesamtanlage FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbBoKCZCHaTFcQTda-oYqi1axv7E7_vJ9X1vSF-3GHN8/Kostenschaetzung_Gesamtanlage_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Kostenschätzung Sportanlagen FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdpg_DwV6jn2RQqCkeIQos-6oz-odlF8oyGFwYJHxVhv/Kostenschaetzung_Sportanlagen_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 7.1 - Auszug HFA) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFT6TSd9AD6-YvcEjVOD87h7SleR82-Y1RbBH5ofGxm/Anlage_TOP_7.1_-_Auszug_HFA.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5457 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5465 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
