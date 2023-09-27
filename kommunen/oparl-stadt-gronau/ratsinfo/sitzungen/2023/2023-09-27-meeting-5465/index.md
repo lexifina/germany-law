@@ -1,0 +1,58 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-09-27T18:00:00+02:00
+- Ende: 2023-09-27T21:48:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcKEBdnLwol3ucIFOtR5yqE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5465
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUiiy5PmJqUCPjvVQpAj9ONC3OJBDEvgx3r-elKHvLuK/Bekanntmachung_Rat_27.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXWxllRj3swILOAJ2omPjiiO5Uj8dDExDNUpxXsxeRin/Oeffentliche_Niederschrift_Rat_27.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 23.08.2023
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der FDP-Fraktion vom 16.09.2023; Kinder in Gronau und Epe sicher unterwegs - Stadt Gronau wird Partner des Projekts "Notinsel“
+- TOP 5.1.1: Antrag der FDP-Fraktion vom 16.09.2023; Kinder in Gronau und Epe sicher unterwegs - Stadt Gronau wird Partner des Projekts "Notinsel“ - Einstimmig, 0 Enthaltungen
+- TOP 6.: Satzung über die Abfallentsorgung in der Stadt Gronau (Westf.) vom 14.05.2021 Änderung der 2. Änderungssatzung - 2 Jastimmen, 25 Neinstimmen, 11 Enthaltungen
+- TOP 7.: Sportanlage "Eper Bülten"
+- TOP 7.1: Sportanlage "Eper Bülten"
+- TOP 8.: Schülerbeförderung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Evaluierung Hygieneautomaten und weiteres Vorgehen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Aufhebung von Ratsbeschlüssen zur Bestellung von Vertreterinnen und Vertretern in Organen städtischer Beteiligungen - 34 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Änderung des Gesellschaftsvertrags der Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH
+- TOP 11.1: Änderung des Gesellschaftsvertrags der Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH - 12 Jastimmen, 26 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - 24 Stimmen für BM Rainer Doetkotte, 10 Stimmen für RM Jörg von Borczyskowski, 1 Neinstimme, 2 Enthaltungen, 1 ungültige Stimme
+- TOP 13.: Verzinsliche Liquiditätshilfe (Startunterstützung) in Höhe von 50 T€ an die QEG mbH - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Beteiligung der Stadtwerke Gronau GmbH an der Stadtwerke Westmünsterland Energiekooperation GmbH & Co. KG mit Sitz in Coesfeld (AG Coesfeld, HRA 7305) und an der Stadtwerke Westmünsterland Energiekooperation Verwaltungs GmbH mit Sitz in Coesfeld (AG Coesfeld, HRB 14209
+- TOP 14.1: Beteiligung der Stadtwerke Gronau GmbH an der Stadtwerke Westmünsterland Energiekooperation GmbH & Co. KG mit Sitz in Coesfeld (AG Coesfeld, HRA 7305) und an der Stadtwerke Westmünsterland Energiekooperation Verwaltungs GmbH mit Sitz in Coesfeld (AG Coesfeld, HRB 14209 - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Liquidation der Energie-Kommunikation-Beteiligungsverwaltungsgesellschaft Westmünsterland mbH mit Sitz in Bocholt (AG Coesfeld , HRB 8700)
+- TOP 15.1: Liquidation der Energie-Kommunikation-Beteiligungsverwaltungsgesellschaft Westmünsterland mbH mit Sitz in Bocholt (AG Coesfeld , HRB 8700) - Einstimmig, 2 Enthaltungen
+- TOP 16.: Weiterentwicklung der Richtlinien zur Förderung von Kindern in Kindertagespflege zum 01.08.2023 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Kommunale Finanzierung des Trägeranteils zu den Betriebskosten der Tageseinrichtungen für Kinder hier: Antrag des Ev. Kirchenkreises Steinfurt-Coesfeld-Borken - Einstimmig, 0 Enthaltungen
+- TOP 18.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 20.: Anfragen
+- TOP 20.1: Sachstand Deilmann-Rathaus (Anfrage von RM Bügener)
+- TOP 20.2: Verkehrsversuch Epe (Anfrage von RM Drees)
+- TOP 20.3: Bauvorhaben Schöttelkotter Damm (Anfrage von RM von Borczyskowski)
+- TOP 20.4: Sachstand Vertragsangelegenheit bzgl. der Tiefgarage (Anfrage von RM von Borczyskowski)
+- TOP 20.5: Einrichtung eines Baumkatasters (Anfrage von RM Buchholz)
+- TOP 20.6: Sachstandsbericht Klimabäume (Anfrage von RM Buchholz)
+- TOP 20.7: Sachstand BSG-Gelände (Anfrage von RM Bieber)
+- TOP 20.8: Rückmeldung Michaelismarkt Epe (Anfrage von RM Doetkotte)
+- TOP 20.9: Verkehrsaufkommen Realschule (Anfrage von RM Stenau-van Wüllen)
+- TOP 20.10: Notfallfonds für Energie und Wasser (Anfrage von RM Wagner)
+- TOP 20.11: Wohnsituation von Gastarbeitenden (Anfrage von RM Hüsing-Hackfort)
+- TOP 20.12: Verkehrsproblematik an der neuen Grundschule (Anfrage von RM Bajorath)
+- TOP 20.13: Fortschritt Technisches Rathaus (Anfrage von RM Bisso)
+- TOP 20.14: Sperrmüllabfuhr (Anfrage von RM Buskase)
+- TOP 20.15: Kavernenfeld Epe (Anfrage von RM Krefter)
