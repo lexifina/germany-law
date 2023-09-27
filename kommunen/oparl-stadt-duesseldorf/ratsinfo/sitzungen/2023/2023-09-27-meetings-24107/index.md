@@ -1,0 +1,63 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-27T17:00:00+02:00
+- Ende: 2023-09-27T19:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24107
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24107
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung vom 30. August 2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Vorstellung eines möglichen Außenkolumbariums auf dem Friedhof Unterrath
+- TOP 5: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung einstimmig beschlossen
+- TOP 6: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - Empfehlung mehrheitlich abgelehnt
+- TOP -: Anfragen (alt)
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Einrichtung einer Querung auf dem Kieshecker Weg - schriftlich beantwortet
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 10: Anfrage der Fraktion BÜ90/Die Grünen: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen - schriftlich beantwortet
+- TOP 11: Anfrage der FDP-Fraktion: Umwandlung von öffentlichen Kfz-Parkplätzen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 13: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Düsseldorfer Aero-Klub e.V. - Flugplatzfest 2023 - einstimmig beschlossen
+- TOP 14: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des SWT e.V. - Sommer- und Kinderfest - einstimmig beschlossen
+- TOP 15: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Bürgerverein Rath e.V. - Gemeinsames Frühstück und Umzug zu St. Martin von zwei Grundschulen - einstimmig beschlossen
+- TOP 16: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Einkaufs Trümpfe Unterrath e.V. - Aufstellung Weihnachtsbäume - einstimmig beschlossen
+- TOP 17: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag der KGS St. Franziskus Schule - St. Martinszug - einstimmig beschlossen
+- TOP 18: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Bürgervereins Unterrath 1909 und Lichtenbroich e.V. - St. Martinszug inkl. Mantelteilung für 4 Unterrather Grundschulen - einstimmig beschlossen
+- TOP 19: Bauunterhaltungsmittel 2023 Teil B "sonstige städtische Einrichtungen" - Neupflanzung von 3 Bäumen am Kittelbach (Vorlage BV6/219/2022) - einstimmig beschlossen
+- TOP 20: Bauunterhaltungsmittel 2023 Teil B "sonstige städtische Einrichtungen" - Errichtung einer Gedenkstele in Unterrath - einstimmig beschlossen
+- TOP 21: Bauunterhaltungsmittel 2023 Teil B "sonstige städtische Einrichtungen" - Weihnachtsbaum auf dem Hülsmeyerplatz - mehrheitlich beschlossen
+- TOP 22: Wanheimer Straße - Stichstraße ab Volkardeyer Weg - Öffentliche Beleuchtung, Ersatzloser Rückbau der Gaslichtpunkte - mehrheitlich beschlossen
+- TOP 23: Beratung der doppischen Entwürfe - des Doppischen Produkthaushalts für die Haushaltsjahre 2024 und 2025 - des Vorberichts und der Anlagen für die Haushaltsjahre 2024 und 2025 - der Bezirksbezogenen Haushaltsansätze 2024/2025 - zur Kenntnis genommen
+- TOP -: Informationsvorlagen
+- TOP 24: Rhein-Ruhr-Expresse (RRX) – Auswertung des Planfeststellungsbeschlusses für den Planfeststellungsabschnitt 3.0a Unterrath - Kalkum - zur Kenntnis genommen
+- TOP 25: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 26: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 27: Neukonzeption des Walderlebnispfades Aaper Wald - zur Kenntnis genommen
+- TOP 28: Baumfällungen im Stadtbezirk 6 ab der 36. Kalenderwoche - zur Kenntnis genommen
+- TOP 29: Umsetzungen der Maßnahmen des Fußverkehrschecks - Vorlage BV6/129/2021 - zur Kenntnis genommen
+- TOP 30: Realisierung von Mehrgenerationenwohnen und einer Tagespflege für Senioren am Zaunkönigweg - Vorlage BV6/127/2021 - zur Kenntnis genommen
+- TOP 31: Verkehrsberuhigung Krahnenburgstraße - Vorlage BV6/206/2022 - zur Kenntnis genommen
+- TOP 32: Schaffung einer Quartiersgarage auf dem Vogelsanger Weg (Schützenplatz) - Vorlage BV6/070/2023 - zur Kenntnis genommen
+- TOP 33: Sitzungstermine der Bezirksvertretung 6 im Jahr 2024 - zur Kenntnis genommen
+- TOP 34: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des TuS Düsseldorf-Nord e.V. Abteilung Rollhockey - Eurockey Cup U17 FEM 2023 - einstimmig beschlossen
+- TOP 35: Antrag der CDU-Fraktion: Haushalt 2024/2025 - Verkehrskonzept für den Stadtbezirk 6 - einstimmig beschlossen
+- TOP 36: Antrag der CDU-Fraktion: Haushalt 2024/2025 - Grünordnungsplan für den Stadtbezirk 6 - zurückgezogen
+- TOP 37: Antrag der CDU-Fraktion: Haushalt 2024/2025 - Ordnung und Sicherheit durch verstärkten Einsatz des OSD und der Verkehrsüberwachung im Stadtbezirk 6 - abweichend beschlossen
+- TOP 38: Antrag der CDU-Fraktion: Haushalt 2024/2025 - Schaffung von Pflegeplätzem in verschiedenen Pflegeformen im Stadtbezirk 6 - abweichend beschlossen
+- TOP 39: Antrag der SPD-Fraktion: Haushalt 2024/2025 - Längere Öffnungszeiten der Stadtteilbüchereien - abweichend beschlossen
+- TOP 40: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2024/2025 - Mittel für Bodenschwellen auf der Krahnenburgstraße - abweichend beschlossen
+- TOP 41: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2024/2025 - Sichere Schulstraße: Zebrastreifen auf der Graf-Recke-Straße - mehrheitlich abgelehnt
+- TOP 42: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2024/2025 - Solarinitiative: Photovoltaikanlage auf dem Dach des Bürger*innenbüros - abweichend beschlossen
+- TOP 43: Antrag der Fraktion BÜ90/Die Grünen: Haushalt 2024/2025 - Gesicherte Querung und Gehweg auf dem Höxterweg - abweichend beschlossen
+- TOP 44: Interfraktioneller Antrag: Haushalt 2024/2025 - Aufwertung und Instandsetzung Grünstreifen an der Unterrather Straße - einstimmig beschlossen
+- TOP 45: Interfraktioneller Antrag: Haushalt 2024/2025 - Bau eines Außenkolumbariums auf dem Unterrather Friedhof - einstimmig beschlossen
