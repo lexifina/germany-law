@@ -78,7 +78,7 @@
 
 - [§ 47 Linienbestimmung und Genehmigung von Flugplätzen](0047.md)
 - [§ 48 Raumordnungspläne](0048.md)
-- [§ 49 Raumordnungsverfahren](0049.md)
+- [§ 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung](0049.md)
 - [§ 50 Bauleitpläne](0050.md)
 - [§ 51 Bergrechtliche Verfahren](0051.md)
 - [§ 52 Landschaftsplanungen](0052.md)

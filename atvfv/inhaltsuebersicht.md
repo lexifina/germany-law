@@ -34,7 +34,7 @@
 |  | Besondere Vorschriften |
 | § 18 | Teilgenehmigung |
 | § 19 | Vorbescheid |
-| § 19a | Raumordnungsverfahren und Genehmigungsverfahren |
+| § 19a | Raumverträglichkeitsprüfung und Genehmigungsverfahren |
 | § 19b | Genehmigungen nach § 7 Abs. 3 des Atomgesetzes |
 |  | Sechster Abschnitt |
 |  | Schlußvorschriften |

@@ -53,7 +53,7 @@ Antrag und Unterlagen
 
 - [§ 22 Teilgenehmigung](0022.md)
 - [§ 23 Vorbescheid](0023.md)
-- [§ 23a Raumordnungsverfahren und Genehmigungsverfahren](0023a.md)
+- [§ 23a Raumverträglichkeitsprüfung und Genehmigungsverfahren](0023a.md)
 - [§ 24 Vereinfachtes Verfahren](0024.md)
 - [§ 24a Zulassung vorzeitigen Beginns](0024a.md)
 - [§ 24b Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben](0024b.md)

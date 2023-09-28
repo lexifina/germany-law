@@ -45,7 +45,7 @@
 |  | Besondere Vorschriften |
 | § 22 | Teilgenehmigung |
 | § 23 | Vorbescheid |
-| § 23a | Raumordnungsverfahren und Genehmigungsverfahren |
+| § 23a | Raumverträglichkeitsprüfung und Genehmigungsverfahren |
 | § 24 | Vereinfachtes Verfahren |
 | § 24a | Zulassung vorzeitigen Beginns |
 | § 24b | Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben |

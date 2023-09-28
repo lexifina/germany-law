@@ -41,7 +41,7 @@ und Unterlagen
 
 - [§ 18 Teilgenehmigung](0018.md)
 - [§ 19 Vorbescheid](0019.md)
-- [§ 19a Raumordnungsverfahren und Genehmigungsverfahren](0019a.md)
+- [§ 19a Raumverträglichkeitsprüfung und Genehmigungsverfahren](0019a.md)
 - [§ 19b Genehmigungen nach § 7 Abs. 3 des Atomgesetzes](0019b.md)
 
 ## Sechster Abschnitt Schlußvorschriften

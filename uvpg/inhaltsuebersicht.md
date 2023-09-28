@@ -81,7 +81,7 @@ Besondere Verfahrensvorschriften
 für bestimmte Umweltprüfungen
 | § 47 | Linienbestimmung und Genehmigung von Flugplätzen |
 | § 48 | Raumordnungspläne |
-| § 49 | Raumordnungsverfahren |
+| § 49 | Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung |
 | § 50 | Bauleitpläne |
 | § 51 | Bergrechtliche Verfahren |
 | § 52 | Landschaftsplanungen |

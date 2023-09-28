@@ -21,13 +21,13 @@
 
 - [§ 13 Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne](0013.md)
 - [§ 14 Raumordnerische Zusammenarbeit](0014.md)
-- [§ 15 Raumordnungsverfahren](0015.md)
-- [§ 16 Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren](0016.md)
+- [§ 15 Raumverträglichkeitsprüfung](0015.md)
+- [§ 16 Beschleunigte Raumverträglichkeitsprüfung; Absehen von Raumverträglichkeitsprüfungen](0016.md)
 
 ## Abschnitt 3 Raumordnung im Bund
 
 - [§ 17 Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum](0017.md)
-- [§ 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes](0018.md)
+- [§ 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes; Bekanntmachung von Raumordnungsplänen des Bundes](0018.md)
 - [§ 19 Zielabweichung bei Raumordnungsplänen des Bundes](0019.md)
 - [§ 20 Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes](0020.md)
 - [§ 21 Ermächtigung zum Erlass von Rechtsverordnungen](0021.md)

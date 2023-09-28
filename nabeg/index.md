@@ -40,7 +40,7 @@
 - [§ 25 Änderungen im Anzeigeverfahren](0025.md)
 - [§ 26 Zusammentreffen mehrerer Vorhaben](0026.md)
 - [§ 27 Vorzeitige Besitzeinweisung und Enteignungsverfahren](0027.md)
-- [§ 28 Durchführung eines Raumordnungsverfahrens](0028.md)
+- [§ 28 Durchführung einer Raumverträglichkeitsprüfung](0028.md)
 
 ## Abschnitt 4 Gemeinsame Vorschriften
 
