@@ -1,0 +1,61 @@
+# Rat der Stadt Grevenbroich - Sondersitzung -
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-09-28T18:30:00+02:00
+- Ende: 2023-09-28T19:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3213
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3213
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Erlass einer Nachtragssatzung für den Haushalt 2023 - mehrheitlich beschlossen
+- TOP 5: Integriertes Klimaschutzkonzept der Stadt Grevenbroich – Beschluss zur Konzeptumsetzung und Aufbau eines Klimaschutz-Controllings - einstimmig beschlossen
+- TOP 6: Förderung Sanierung kommunaler Einrichtungen für Sanierung Dreifachturnhalle Grevenbroich-Süd - einstimmig beschlossen
+- TOP 7: Beratung des Berichtes über die überörtliche Prüfung der Stadt Grevenbroich im Jahr 2021 - einstimmig beschlossen
+- TOP 8: Straßen- und Wegekonzept der Stadt Grevenbroich 2024 - 2028 - einstimmig beschlossen
+- TOP 9: Standorte für die Unterbringung geflüchteter Menschen - von der Tagesordnung abgesetzt
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 10.1.1: Öffentlich rechtliche Vereinbarung nach §10b SGBVIII - Verfahrenslotse - einstimmig beschlossen
+- TOP 10.1.2: Übernahme der Trägeranteile für KiTa-Helfer*innen - einstimmig beschlossen
+- TOP 10.1.3: Kita Bedarfsplanung in Wevelinghoven und Langwaden - Anfrage CDU - Kenntnisnahme
+- TOP 10.1.4: Einführung einer Informations-App in städtischen Kitas - Anfrage CDU - einstimmig beschlossen
+- TOP 11: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 11.1: Kein Bürgerfrust durch lange Wartezeiten und umsonst genommene Urlaubstage mehr: Verbindliche Online-Terminvereinbarung im Bürgerbüro ermöglichen (Antrag Nr.:52/2023) - Kenntnisnahme
+- TOP 11.2: Zuschussgewährung zur Bewältigung von steigenden Energiekosten - Kenntnisnahme
+- TOP 11.3: Beantwortung der Anfrage Nr. 37/2023 der FDP-Fraktion für die Sitzung des Rates am 28.09.2023 - Kenntnisnahme
+- TOP 11.4: Beantwortung der Anfrage von Ratsfrau Schmidt-Härlen - Kenntnisnahme
+- TOP 11.5: Hallenbad Neukirchen Filteranlage - Anfrage Rf Schmidt-Härlen (Anfrage Nr.: 70/2023) - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: Anträge der SPD-Fraktion
+- TOP 12.1.1: Digitale Anzeigen an Bushaltestellen (Antrag Nr.: 71/2023) - einstimmig beschlossen
+- TOP 12.2: Anträge der CDU-Fraktion
+- TOP 12.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 12.3.1: Umbesetzungen (Antrag Nr.: 72/2023) - einstimmig beschlossen
+- TOP 12.4: Anträge der FDP-Fraktion
+- TOP 12.4.1: Mehr Kontrolle und Sensibilisierung der Bevölkerung in Hülchrath erforderlich (Antrag Nr.:67/2023) - einstimmig beschlossen
+- TOP 12.4.2: "Runder Tisch Hülchrath" zur Ermöglichung gesellschaftlichen Lebens im historisch bedeutsamen Ort Hülchrath einrichten (Antrag Nr.: 68/2023) - einstimmig beschlossen
+- TOP 12.4.3: Sicherstellung der zukünftigen Kirmessen in den kleineren Stadtteilen (Antrag Nr.: 69/2023) - einstimmig beschlossen
+- TOP 12.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 12.6: Anträge der UWG-Fraktion
+- TOP 12.6.1: Beseitigung der nicht haltbaren Zustände im Industriegebiet Ost (Antrag Nr.:66/2023) - einstimmig beschlossen
+- TOP 13: Gemeinschaftsanträge
+- TOP 13.1: Erstellung eines kommunalen Integrationskonzeptes und Aufbau eines Integrationsmanagements (Antrag Nr.: 73/2023) - einstimmig beschlossen
+- TOP 13.2: Naturschutzgebiet „An der Schwarzen Brücke“ vergrößern (Antrag Nr.: 74/2023) - einstimmig beschlossen
+- TOP 14: Schriftliche Anfragen
+- TOP 14.1: Anfragen der SPD-Fraktion
+- TOP 14.2: Anfragen der CDU-Fraktion
+- TOP 14.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 14.4: Anfragen der FDP-Fraktion
+- TOP 14.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 14.6: Anfragen der UWG-Fraktion
+- TOP 14.7: Gemeinschaftsanfragen
+- TOP 14.7.1: Sozialer Wohnungsbau in Grevenbroich (Anfrage Nr.: 75/2023) - einstimmig beschlossen
+- TOP 15: Mitteilungen des Bürgermeisters
