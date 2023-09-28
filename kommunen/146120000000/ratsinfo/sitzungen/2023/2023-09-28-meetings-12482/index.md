@@ -1,0 +1,71 @@
+# 55. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-09-28T16:00:00+02:00
+- Ende: 2023-09-28T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12482
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12482
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00709484.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1 Runde) - erledigt
+- TOP 3.1: Deutsch-britischer Rosengarten an der Carolabrücke
+- TOP 3.2: Sanierung des östlichen Kracht-Brunnens am Neustädter Markt
+- TOP 3.3: Nutzung von iPads an Schulen, die im Rahmen des Digitalpaktes Schule angeschafft wurden
+- TOP 3.4: Finanzierung Schwimhalle Klotzsche
+- TOP 3.5: Die (fehlende) Einbindung des Stadtrats im Rahmen der TSMC-Ansiedlung
+- TOP 3.6: Verkehrsversuch am Blauen Wunder
+- TOP 3.7: Effizienzsteigerung beim Schulbau
+- TOP 3.8: Sachstand Wohngebiet zwischen Kipfsdorfer und Altenberger Straße
+- TOP 4: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 5: Umbesetzung im Jugendhilfeausschuss - Zustimmung mit Ergänzung
+- TOP 6: Jahresabschluss 2022 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 7: Jahresabschluss 2022 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 8: Jahresabschluss 2022 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 9: Jahresabschluss 2022 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 10: Jahresabschluss 2022 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 11: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 12: Überplanmäßige Bereitstellung von Mitteln des Finanzhaushaltes der LHD zur Deckung von investiven Mehrbedarfen des EB Kita, Änderung des Investplans 2023/2024 als Bestandteil des Wirtschaftsplanes des EB Kita zum DHH 2023/2024 - Zustimmung
+- TOP 13: Rudolf-Harbig-Stadion: Konzessionsvertrag - Finanzierung der Verpflichtungen gegenüber der Stadion Dresden Projektgesellschaft mbH & Co. KG aus dem Baukonzessionsvertrag (10. Ergänzende Vereinbarung vom 12. Februar 2020) in der Spielsaison 2023/2024 - Zustimmung
+- TOP 14: „Masterplan Prohlis 2030+“ - Zustimmung mit Ergänzung
+- TOP 15: Fortschreibung der investiven Finanzplanung 2023 durch Umverteilung des Mittelabflusses ausgewählter Projekte auf die Jahre 2024 bis 2027 - Zustimmung
+- TOP 16: Abschluss einer Verständigungsvereinbarung zum Vertragswerk „Teilprivatisierung der Stadtentwässerung Dresden GmbH“ - Zustimmung mit Änderung
+- TOP 17: Aufhebung der Satzung für das Sanierungsgebiet Dresden S-11, Dresden Friedrichstadt - Zustimmung
+- TOP 18: Aufhebung der Satzung für das Sanierungsgebiet Dresden-Äußere Neustadt - Zustimmung
+- TOP 19: Bebauungsplan Nr. 3029, Dresden-Neustadt Nr. 43, Ehemaliger Gleisbogen Hansastraße - Zustimmung mit Ergänzung
+- TOP 20: Bestätigung der Entwicklungsstrategie „Lebenswertes Stadtzentrum - Städtebauliches Entwicklungskonzept (SEKO) für das südliche Stadtzentrum“ und des angepassten Gebietsumgriffes als Grundlage eines Fördergebietes der Stadterneuerung - punktweise Zustimmung mit Ergänzung
+- TOP 21: Bewerbung der Landeshauptstadt Dresden für das Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" – Projektaufruf 2023 - Zustimmung
+- TOP 22: Vertagungen aus der Sitzung vom 07.09.2023 - Vertagung nach 22 Uhr
+- TOP 22.1: E-Petition „Beförderung von Anwohnerinteressen bei der Einrichtung und dem Betrieb der Containersiedlung in Sporbitz" - Vertagung nach 22 Uhr
+- TOP 22.2: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Vertagung nach 22 Uhr
+- TOP 22.3: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Vertagung nach 22 Uhr
+- TOP 22.4: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung durch Einreicher
+- TOP 22.5: Luftbad Dölzschen - Vertagung nach 22 Uhr
+- TOP 22.6: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - Vertagung nach 22 Uhr
+- TOP 22.7: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten- Instandsetzungen langfristig planen - Vertagung nach 22 Uhr
+- TOP 22.8: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung durch Einreicher
+- TOP 22.9: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung durch Einreicher
+- TOP 22.10: Tag der Krisenvorsorge - Notfall üben - Vertagung durch Einreicher
+- TOP 22.11: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung nach 22 Uhr
+- TOP 22.12: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung nach 22 Uhr
+- TOP 22.13: Effektives Verwaltungsmanagement im Kontext Asyl und Migration - Vertagung nach 22 Uhr
+- TOP 22.14: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Vertagung durch Einreicher
+- TOP 22.15: Digitale Stadtpolitik für alle zugänglich machen – Die ganze Stadt im Blick - Vertagung nach 22 Uhr
+- TOP 22.16: Einschränkung der Haushaltssperre gemäß § 30 SächsKommHVO - Ablehnung
+- TOP 23: Bestätigung der Fachförderrichtlinien der Ortschaften Oberwartha und Langebrück - Zustimmung
+- TOP 24: Neufassung des Statutes zur Verleihung des Dresdner Lyrikpreises - Vertagung nach 22 Uhr
+- TOP 25: Potenzialanalyse für derzeitige kommunale Garagengrundstücke - Vertagung nach 22 Uhr
+- TOP 26: Hochhausleitbild für die Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 27: Anliegern "Spielstraßen auf Zeit" ermöglichen! - Vertagung nach 22 Uhr
+- TOP 28: Gleichberechtigung bei der Badeordnung schaffen - "Oben-Ohne-Baden" für alle ermöglichen - zurückgezogen
+- TOP 29: Flüchtlingssozialarbeit effizienter gestalten - Vertagung nach 22 Uhr
+- TOP 30: Vermüllung von Dresdens Grünflächen stoppen - Maßnahmen zur Müllvermeidung entwickeln - Vertagung nach 22 Uhr
+- TOP 31: Transparenz für die städtischen Finanzen - Nachtragshaushalt erarbeiten - Vertagung nach 22 Uhr
+- TOP 32: Haushaltsvollzug 2023 - Finanzzwischenbericht/Zwischenberichte der Eigenbetriebe 2023 - erledigt
