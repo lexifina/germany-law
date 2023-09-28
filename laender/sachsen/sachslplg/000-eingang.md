@@ -1,4 +1,4 @@
 # Gesetz zur Raumordnung und Landesplanung des Freistaates Sachsen (Landesplanungsgesetz – SächsLPlG)
 erlassen als Artikel 1 des Gesetzes zur Änderung planungsrechtlicher Vorschriften
 Vom 11. Dezember 2018
-Rechtsbereinigt mit Stand vom 1. März 2023
+Rechtsbereinigt mit Stand vom 28. September 2023
