@@ -1,0 +1,52 @@
+# Rat (146. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-09-28T18:00:00+02:00
+- Ende: 2023-09-28T20:23:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRM0eZodXU99bQ2O9jQwdZ0
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17815
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrU8MWI30_EtXNvvAUfwnvpP3tcrevBJAxTwCnGb_-D/Bekanntmachung_Rat_28.09.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfNXWy0W4qARCm9dFxjniMfzoM4YFeLEvqZodcAog3Dz/Oeffentliche_Niederschrift_Rat_28.09.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 15.06.2023
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Umbesetzung von Gremien - Ohne Abstimmung
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: Wahl von Schiedspersonen - 35 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 6.: Finanzangelegenheiten
+- TOP 6.1: Jahresabschluss 2022 - bestätigter Entwurf - Einstimmig
+- TOP 6.2: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2022 - Einstimmig
+- TOP 7.: Etat / Budget
+- TOP 7.1: Entwurf Haushaltssatzung und Haushaltsplan 2024 - Einstimmig
+- TOP 8.: Optionen zur Haushaltskonsolidierung - Zur Kenntnis genommen
+- TOP 9.: Stadtwerke Emsdetten GmbH
+- TOP 9.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2022 und Gewinnverwendung - 36 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.2: Änderung des Gesellschaftsvertrages der TKRZ Stadtwerke GmbH - Einstimmig
+- TOP 10.: Gründung eigenbetriebsähnliche Einrichtung Gebäudereinigung, Satzungsbeschluss und Bestellung Betriebsleitung - 36 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: Änderung der Hauptsatzung für die Stadt Emsdetten - Einstimmig
+- TOP 12.: Änderung der Zuständigkeitsordnung des Rates, der Ausschüsse und der Bürgermeisterin/des Bürgermeisters der Stadt Emsdetten - Einstimmig
+- TOP 13.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung 2022 - Zur Kenntnis genommen
+- TOP 14.: Einführung einer Gebührensatzung für das Standesamt der Stadt Emsdetten - 36 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 15.: Verwaltungsorganisation
+- TOP 15.1: Altersteilzeit bei der Stadt Emsdetten - Ohne Abstimmung
+- TOP 16.: THG-Bilanz 2022 Stadt und Abwasserwerk - Zur Kenntnis genommen
+- TOP 17.: Mitgliedschaft im „Netzwerk Stadtentwicklung NRW“ - Einstimmig
+- TOP 18.: Mitgliedschaft der Stadt Emsdetten im Förderverein NRW-Stiftung für Naturschutz, Heimat- und Kulturpflege - Einstimmig
+- TOP 19.: Vergabekriterien für städtische Wohnbaugrundstücke - Einstimmig
+- TOP 20.: E-Fahrzeuge - Entscheidung über Parkgebühren - 34 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 21.: Gehweg Silberweg – Borghorster Straße bis Neuenkirchener Straße - Einstimmig
+- TOP 22.: Regionalplanung
+- TOP 22.1: Änderung des Regionalplans Münsterland Anpassung an den Landesentwicklungsplan Nordrhein-Westfalen (LEP NRW) und den Bundesraumordnungsplan für den Hochwasserschutz (BRPH) - Stellungnahme der Stadt Emsdetten zum Regionalplanentwurf - 25 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 23.: Schulangelegenheiten
+- TOP 23.1: Deutschlandticket für Schülerinnen und Schüler in Nordrhein-Westfalen - Einstimmig
+- TOP 24.: Sportangelegenheiten
+- TOP 24.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.: Verschiedenes
