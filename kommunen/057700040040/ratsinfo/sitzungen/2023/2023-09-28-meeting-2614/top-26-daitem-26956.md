@@ -1,0 +1,7 @@
+# TOP 26.: Bekanntgabe der im II. Quartal 2023 erteilten Aufträge
+
+- Sitzung: Rat (21. Sitzung) (2023-09-28)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/26956
+- Ergebnis: Ohne Abstimmung
