@@ -1,0 +1,60 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-09-29T14:00:00+02:00
+- Ende: 2023-09-29T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24389
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24389
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497882.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497882.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00497882.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 25.08.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Würdigung der Synagoge Kasernenstraße - zur Kenntnis genommen
+- TOP 4.2: Worringer Weekender - Rückblick und Ausblick - zur Kenntnis genommen
+- TOP 4.3: Metzer Straße - Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - mehrheitlich beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung einstimmig beschlossen
+- TOP 4.7: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - Empfehlung einstimmig beschlossen
+- TOP 4.8: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - Empfehlung einstimmig beschlossen
+- TOP 4.9: Aktueller Sachstand zur Umsetzung „Bunte Bänke für Toleranz und Sichtbarkeit“ - zur Kenntnis genommen
+- TOP 4.10: Einbringung der Haushaltspläne 2024 und 2025 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 4.11: Anschaffung eines Kickers für eine Jugendfreizeiteinrichtung - einstimmig beschlossen
+- TOP 4.12: Konrad-Adenauer-Platz - Weiterführung des Kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - Empfehlung einstimmig abgelehnt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Zukunft des Musikpavillons der früher am Carschhaus stand - Anfrage der FDP-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Sicherheit im Bahnhofsbereich - Anfrage der SPD-Fraktion
+- TOP 6.2: Beschilderung der Einkaufsstraße Schadowstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6.3: Sicherheit auf der Umgehung des Zeltes des Düsseldorf Festivals auf dem Burgplatz - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.4: Sichere und wettergeschützte Fahrradabstellanlagen in der Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Schutzräume im Stadtbezirk 1 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.7: Münsterplatz Strom und Wasser - Anfrage der CDU-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Taubenschläge am Worringer Platz/Hauptbahnhof und Münsterplatz - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Umbenennung der „Franz-Jürgens-Straße“ in „Else-Gores-Straße“ - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Gestaltung der Karlstraße - überfraktioneller Antrag - abweichend beschlossen
+- TOP 7.4: Spielplatz Münsterplatz - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Aufstellung eines oder mehrerer Basketballkörbe sowie Metallfußballtoren auf den ungenutzten Flächen unterhalb der Brücke Jülicher Straße - Antrag von Andrea Kraljic, Vertreterin der AfD - einstimmig abgelehnt
+- TOP 7.6: Wildgänse im Rheinpark - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 7.7: „Verbot der Einfahrtschild“ an der Pempelforter Straße, Ecke Louise-Dumont-Straße. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Änderung der Parkbuchten entlang des Kolpingplatzes; Beschluss der Bezirksvertretung 1 vom 27.01.2023; BV1/024/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Heimatverein Derendorfer Jonges 1956 e. V. - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Lucas Gülker - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Irene Kurka - einstimmig beschlossen
+- TOP 10: Verschiedenes
