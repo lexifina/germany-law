@@ -1,0 +1,17 @@
+# Anlage 2 (zu § 13)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der zu prüfenden Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen
+Alle Angaben des Teils A sowie zusätzlich
+7. Benennung der Prüfungsbereiche der Prüfung,
+8. Bewertung der fahrzeugbezogenen Arbeitsaufgabe, des Fachgespräches und der system- und bauteilbezogenen Arbeitsaufgabe,
+9. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+10. die Gesamtnote als Dezimalzahl,
+11. die Gesamtnote in Worten,
+12. Befreiungen nach § 12.
