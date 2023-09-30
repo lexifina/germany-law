@@ -12,7 +12,7 @@
 - [§ 4 Organe](0004.md)
 - [§ 5 Zusammensetzung und Beschlüsse des Leitungsausschusses](0005.md)
 - [§ 6 Rechtsstellung der Leitung](0006.md)
-- [§ 7 Aufgaben und Zuständigkeiten der Leitung](0007.md)
+- [§ 7 Aufgaben, Zuständigkeiten und Entlastung der Leitung](0007.md)
 
 ## Abschnitt 3 Vertretung
 
