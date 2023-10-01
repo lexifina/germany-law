@@ -1,0 +1,1 @@
+Auf Grund des Art. 33 des Gesetzes über die Bayerische Architektenkammer und die Bayerische Ingenieurekammer-Bau (Baukammerngesetz – BauKaG) vom 9. Mai 2007 (GVBl S. 308, BayRS 2133-1-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
