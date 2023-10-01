@@ -55,7 +55,7 @@ Stoffgebiete des Studiums der Pharmazie](anlage-1.md)
 - [Anlage 3 (zu § 6 Abs. 4 Nr. 4)Bescheinigung](anlage-3.md)
 - [Anlage 4](anlage-4.md)
 - [Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)Bescheinigung über die praktische Ausbildung](anlage-5.md)
-- [Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3)Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker](anlage-6.md)
+- [Anlage 6 (zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker](anlage-6.md)
 - [Anlage 7 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3)Bescheinigung über die Tätigkeit als Famulus](anlage-7.md)
 - [Anlage 8 (zu § 4 Abs. 4 Satz 1)
 

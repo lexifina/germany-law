@@ -10,7 +10,7 @@ Ergänzungsprüfung](0004.md)
 - [§ 6 Mündlicher Teil der Prüfung](0006.md)
 - [§ 7 Praktischer Teil der Prüfung](0007.md)
 - [§ 8 Niederschrift](0008.md)
-- [§ 9 Benotung](0009.md)
+- [§ 9 Benotung von Leistungen in der staatlichen Prüfung](0009.md)
 - [§ 10 Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und
 Wiederholung der staatlichen Ergänzungsprüfung](0010.md)
 - [§ 11 Rücktritt von der Prüfung](0011.md)

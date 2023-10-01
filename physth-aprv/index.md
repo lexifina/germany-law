@@ -9,7 +9,7 @@
 - [§ 3 Prüfungsausschuß](0003.md)
 - [§ 4 Zulassung zur Prüfung](0004.md)
 - [§ 5 Niederschrift](0005.md)
-- [§ 6 Benotung](0006.md)
+- [§ 6 Benotung von Leistungen in der staatlichen Prüfung](0006.md)
 - [§ 7 Bestehen und Wiederholung der Prüfung](0007.md)
 - [§ 8 Rücktritt von der Prüfung](0008.md)
 - [§ 9 Versäumnisfolgen](0009.md)

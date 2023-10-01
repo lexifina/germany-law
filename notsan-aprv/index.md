@@ -12,7 +12,7 @@
 - [§ 6 Zulassung zur Prüfung](0006.md)
 - [§ 6a Nachteilsausgleich](0006a.md)
 - [§ 7 Niederschrift](0007.md)
-- [§ 8 Benotung der staatlichen Prüfung](0008.md)
+- [§ 8 Benotung von Leistungen in der staatlichen Prüfung](0008.md)
 - [§ 9 Bestehen und Wiederholung der staatlichen Prüfung](0009.md)
 - [§ 10 Bestehen und Wiederholung der staatlichen Ergänzungsprüfung](0010.md)
 - [§ 11 Rücktritt von der Prüfung](0011.md)

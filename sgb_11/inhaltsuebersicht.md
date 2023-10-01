@@ -21,17 +21,18 @@
 | § 13 | Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen |
 |  |  |
 | Zweites Kapitel |
-| Leistungsberechtigter Personenkreis |
+| Leistungsberechtigter Personenkreis, Verfahren zur Feststellung der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson |
 | § 14 | Begriff der Pflegebedürftigkeit |
 | § 15 | Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument |
 | § 16 | Verordnungsermächtigung |
 | § 17 | Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen |
-| § 17a | (weggefallen) |
-| § 18 | Verfahren zur Feststellung der Pflegebedürftigkeit |
-| § 18a | Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten |
-| § 18b | Dienstleistungsorientierung im Begutachtungsverfahren |
-| § 18c | Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit |
-| § 19 | Begriff der Pflegepersonen |
+| § 18 | Beauftragung der Begutachtung |
+| § 18a | Begutachtungsverfahren |
+| § 18b | Inhalt und Übermittlung des Gutachtens |
+| § 18c | Entscheidung über den Antrag, Fristen |
+| § 18d | Berichtspflichten und Statistik zum Verfahren zur Feststellung der Pflegebedürftigkeit |
+| § 18e | Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen |
+| § 19 | Begriff der Pflegeperson |
 |  |  |
 | Drittes Kapitel |
 | Versicherungspflichtiger Personenkreis |

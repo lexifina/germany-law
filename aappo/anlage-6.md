@@ -1,6 +1,7 @@
-# Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3)Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
+# Anlage 6 (zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500)
+(Fundstelle des Originaltextes: BGBl. I 1989, 1500;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Herr/Frau ..............................................................
 hat an den vom ....................... bis zum .........................
 durchgeführten begleitenden Unterrichtsveranstaltungen in ..............

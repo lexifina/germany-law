@@ -22,18 +22,20 @@
 - [§ 12 Aufgaben der Pflegekassen](0012.md)
 - [§ 13 Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen](0013.md)
 
-## Zweites Kapitel Leistungsberechtigter Personenkreis
+## Zweites Kapitel Leistungsberechtigter Personenkreis, Verfahren zur Feststellung der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson
 
 - [§ 14 Begriff der Pflegebedürftigkeit](0014.md)
 - [§ 15 Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument](0015.md)
 - [§ 16 Verordnungsermächtigung](0016.md)
 - [§ 17 Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen](0017.md)
 - [§ 17a (weggefallen)](0017a.md)
-- [§ 18 Verfahren zur Feststellung der Pflegebedürftigkeit](0018.md)
-- [§ 18a Weiterleitung der Rehabilitationsempfehlung, Berichtspflichten](0018a.md)
-- [§ 18b Dienstleistungsorientierung im Begutachtungsverfahren](0018b.md)
-- [§ 18c Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit](0018c.md)
-- [§ 19 Begriff der Pflegepersonen](0019.md)
+- [§ 18 Beauftragung der Begutachtung](0018.md)
+- [§ 18a Begutachtungsverfahren](0018a.md)
+- [§ 18b Inhalt und Übermittlung des Gutachtens](0018b.md)
+- [§ 18c Entscheidung über den Antrag, Fristen](0018c.md)
+- [§ 18d Berichtspflichten und Statistik zum Verfahren zur Feststellung der Pflegebedürftigkeit](0018d.md)
+- [§ 18e Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen](0018e.md)
+- [§ 19 Begriff der Pflegeperson](0019.md)
 
 ## Drittes Kapitel Versicherungspflichtiger
 Personenkreis
