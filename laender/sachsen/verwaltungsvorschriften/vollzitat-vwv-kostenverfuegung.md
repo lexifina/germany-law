@@ -1,8 +1,8 @@
 # Vollzitat: VwV Kostenverfügung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.4
+- Datum: 2023-10-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.04.2022
+01.10.2023
 bis
-30.09.2023
+31.08.2024
 
 VwV Kostenverfügung
 
@@ -88,7 +88,8 @@ Sind dem Kostenbeamten Umstände, zum Beispiel eine drohende Verjährung, bekann
 Zu § 27 Absatz 1 der Kostenverfügung:
 Erkenntnisse aus den Sachakten der Finanzgerichte und, soweit § 3 Absatz 1 Nummer 1 Buchstabe
 
-c des Sächsischen Kommunalabgabengesetzes die Anwendung von § 30 der Abgabenordnung bestimmt, der Verwaltungsgerichte dürfen ausschließlich für die Einforderung und Beitreibung von Gerichtskosten aus den Verfahren in Steuersachen verwendet werden. Bei der Beantwortung von Ersuchen der Landesjustizkasse Chemnitz ist auf die beschränkte Verwendbarkeit der Feststellungen aus der Sachakte hinzuweisen.
+c des Sächsischen Kommunalabgabengesetzes die Anwendung von § 30 der Abgabenordnung bestimmt, der Verwaltungsgerichte dürfen ausschließlich für die Einforderung und Beitreibung von Gerichtskosten aus den Verfahren in Steuersachen verwendet werden. Bei der Beantwortung von Ersuchen der Landesjustizkasse Chemnitz ist auf die beschränkte Verwendbarkeit der Feststellungen aus der Sachakte hinzuweisen.              
+
 
 9.
 
@@ -224,324 +225,6 @@ Kostenverfügung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz und die Landesjustizverwaltungen haben die folgende bundeseinheitliche Neufassung der Kostenverfügung (KostVfg) vereinbart.
 
-
-Inhaltsübersicht
-
-
-Abschnitt 1
-Allgemeine Bestimmungen 
-
-
-§   1
-
-
-Kostenbeamter
-
-
-§   2
-
-
-Pflichten des Kostenbeamten im Allgemeinen
-
-
-§   3
-
-
-Mitwirkung der aktenführenden Stelle
-
-
-Abschnitt 2
-Kostenansatz 
-
-
-§   4
-
-
-Begriff und Gegenstand
-
-
-§   5
-
-
-Zuständigkeit
-
-
-§   6
-
-
-Kostenansatz bei Verweisung eines Rechtsstreits an ein Gericht eines anderen Landes
-
-
-§   7
-
-
-Voraussetzungen des Kostenansatzes und Feststellung der Kostenschuldner im Allgemeinen
-
-
-§   8
-
-
-Kostengesamtschuldner
-
-
-§   9
-
-
-Kosten bei Bewilligung von Prozess- oder Verfahrenskostenhilfe
-
-
-§ 10
-
-
-Unvermögen des Kostenschuldners in anderen Fällen
-
-
-§ 11
-
-
-Nichterhebung von Auslagen
-
-
-§ 12
-
-
-Absehen von Wertermittlungen
-
-
-§ 13
-
-
-Kostenansatz bei gegenständlich beschränkter Gebührenfreiheit
-
-
-§ 14
-
-
-Haftkosten
-
-
-§ 15
-
-
-Zeit des Kostenansatzes im Allgemeinen
-
-
-§ 16
-
-
-Zeit des Kostenansatzes in besonderen Fällen
-
-
-§ 17
-
-
-Heranziehung steuerlicher Werte
-
-
-§ 18
-
-
-Kostenansatz bei gleichzeitiger Belastung mehrerer Grundstücke
-
-
-§ 19
-
-
-Gerichtsvollzieherkosten
-
-
-§ 20
-
-
-Kostensicherung
-
-
-§ 21
-
-
-Sicherstellung der Kosten (Abschnitt 3 GNotKG)            
-
-§ 22
-
-
-Jährliche Vorschüsse im Zwangsverwaltungsverfahren
-
-
-§ 23
-
-
-Zurückbehaltungsrecht
-
-
-§ 24
-
-
-Kostenrechnung
-
-
-§ 25
-
-
-Anforderung der Kosten mit Sollstellung
-
-
-§ 26
-
-
-Anforderung der Kosten ohne Sollstellung
-
-
-Abschnitt 3
-Weitere Pflichten des Kostenbeamten 
-
-
-§ 27
-
-
-Behandlung von Ersuchen und Mitteilungen der Vollstreckungsbehörde
-
-
-§ 28
-
-
-Berichtigung des Kostenansatzes
-
-
-§ 29
-
-
-Nachträgliche Änderung der Kostenforderung
-
-
-§ 30
-
-
-Nachträgliche Änderung der Kostenhaftung
-
-
-§ 31
-
-
-Einrede der Verjährung
-
-
-§ 32
-
-
-Durchlaufende Gelder
-
-
-Abschnitt 4
-Veränderung von Ansprüchen 
-
-
-§ 33
-
-
-Veränderung von Ansprüchen
-
-
-Abschnitt 5
-Kostenprüfung 
-
-
-§ 34
-
-
-Aufsicht über den Kostenansatz
-
-
-§ 35
-
-
-Kostenprüfungsbeamte
-
-
-§ 36
-
-
-Berichtigung des Kostenansatzes im Verwaltungsweg
-
-
-§ 37
-
-
-Nichterhebung von Kosten
-
-
-§ 38
-
-
-Erinnerungen und Beschwerden der Staatskasse
-
-
-§ 39
-
-
-Besondere Prüfung des Kostenansatzes
-
-
-§ 40
-
-
-Aufgaben und Befugnisse des Prüfungsbeamten
-
-
-§ 41
-
-
-Umfang der Kostenprüfung
-
-
-§ 42
-
-
-Verfahren bei der Kostenprüfung
-
-
-§ 43
-
-
-Beanstandungen
-
-
-§ 44
-
-
-Niederschrift über die Kostenprüfung
-
-
-§ 45
-
-
-Jahresberichte
-
-
-Abschnitt 6
-Justizverwaltungskosten 
-
-
-§ 46
-
-
-Entscheidungen nach dem Justizverwaltungskostengesetz            
-
-§ 47
-
-
-Laufender Bezug von Abdrucken aus dem Schuldnerverzeichnis
-
-
-Abschnitt 7
-Notarkosten 
-
-
-§ 48
-
-
-Einwendungen gegen die Kostenberechnung
-
-
 Abschnitt 1
 Allgemeine Bestimmungen
 
@@ -557,7 +240,9 @@ Pflichten des Kostenbeamten im Allgemeinen
 (1) Der Kostenbeamte ist für die Erfüllung der ihm übertragenen Aufgaben, insbesondere für den rechtzeitigen, richtigen und vollständigen Ansatz der Kosten verantwortlich.
 
 
-(2) Der Kostenbeamte bescheinigt zugleich mit Aufstellung der Schlusskostenrechnung den vollständigen Ansatz der Kosten auf den Akten (Blattsammlungen) unter Bezeichnung der geprüften Blätter und unter Angabe von Tag und Amtsbezeichnung. Bei Grundakten, Registerakten, Vormundschaftsakten, Betreuungsakten und ähnlichen Akten, die regelmäßig für mehrere gebührenpflichtige Angelegenheiten geführt werden, erfolgt die Bescheinigung für jede einzelne Angelegenheit. Die Bescheinigung ist auch zu erteilen, wenn die Einziehung von Kleinbeträgen vorbehalten bleibt.
+(2) Der Kostenbeamte bescheinigt zugleich mit Aufstellung der Schlusskostenrechnung den vollständigen Ansatz der Kosten auf den Akten (Blattsammlungen) unter Bezeichnung der geprüften Blätter und unter Angabe von Tag und Amtsbezeichnung.
+
+Bei elektronischer Aktenführung ist die Bescheinigung auf andere Weise zu erstellen und deutlich erkennbar anzubringen. Bei Grundakten, Registerakten, Vormundschaftsakten, Betreuungsakten und ähnlichen Akten, die regelmäßig für mehrere gebührenpflichtige Angelegenheiten geführt werden, erfolgt die Bescheinigung für jede einzelne Angelegenheit. Die Bescheinigung ist auch zu erteilen, wenn die Einziehung von Kleinbeträgen vorbehalten bleibt.
 
 
 § 3
@@ -594,7 +279,7 @@ wenn die Akten aus einem Rechtsmittelzug zurückkommen,
 
 6.
 
-wenn eine schriftliche oder elektronische Mitteilung über einen Zahlungseingang (Zahlungsanzeige) oder ein mit dem Abdruck eines Gerichtskostenstemplers versehenes Schriftstück eingeht, es sei denn, dass die eingehende Zahlung einen nach § 26 eingeforderten Vorschuss betrifft,
+wenn eine schriftliche oder elektronische Mitteilung über einen Zahlungseingang (Zahlungsanzeige) oder ein mit elektronischen Kostenmarken oder dem Abdruck eines Gerichtskostenstemplers versehenes Dokument eingeht, es sei denn, dass die eingehende Zahlung einen nach § 26 eingeforderten Vorschuss betrifft,
 
 
 7.
@@ -612,37 +297,49 @@ wenn eine Mitteilung über den Erlass oder Teilerlass von Kosten eingeht,
 wenn aus sonstigen Gründen Zweifel bestehen, ob Kosten oder Vorschüsse zu berechnen sind.
 
 
-Die Vorlage ist in den Akten unter Angabe des Tages kurz zu vermerken.
+Die Vorlage ist in den Akten unter Angabe des Tages kurz zu dokumentieren.
 
 
-(2) Die aktenführende Stelle hat alle in der Sache entstehenden, von dem Kostenschuldner zu erhebenden Auslagen in den Akten in auffälliger Weise zu vermerken, soweit nicht eine Berechnung zu den Akten gelangt.
+(2) Die aktenführende Stelle hat alle in der Sache entstehenden, von dem Kostenschuldner zu erhebenden Auslagen in den Akten in auffälliger Weise zu vermerken, soweit nicht eine Berechnung zu den Akten gelangt. Bei elektronischer Aktenführung ist sicherzustellen, dass eine deutliche Kennzeichnung der Kostenrelevanz in geeigneter Art und Weise erfolgt.
 
 
-(3) In Zivilprozess-, Strafprozess-, Bußgeld-, Insolvenz-, Zwangsversteigerungs- und Zwangsverwaltungsverfahren, in Familien- und Lebenspartnerschaftssachen, in Vormundschafts-, Betreuungs- und Pflegschaftssachen, in Nachlasssachen sowie in arbeits-, finanz-, sozial- und verwaltungsgerichtlichen Verfahren sind sämtliche Kostenrechnungen, Beanstandungen der Kostenprüfungsbeamten und Zahlungsanzeigen sowie Mitteilungen über die Niederschlagung von Kosten, über die Aufhebung der Niederschlagung oder den (Teil-)Erlass vor dem ersten Aktenblatt einzuheften oder in eine dort einzuheftende Aktentasche lose einzulegen oder, soweit die Akten nicht zu heften sind, unter dem Aktenumschlag lose zu verwahren. Das gleiche kann auch in anderen Verfahren geschehen, wenn dies zweckmäßig erscheint, insbesondere wenn die Akten umfangreich sind. Ist ein Vollstreckungsheft angelegt, sind die Kostenrechnungen, Beanstandungen, Zahlungsanzeigen und Nachrichten in diesem entsprechend zu verwahren (vgl. § 16 Abs. 2 StVollstrO). Wird es notwendig, die vor dem ersten Aktenblatt eingehefteten oder verwahrten Schriftstücke mit Blattzahlen zu versehen, sind dazu römische Ziffern zu verwenden.
+(3) In Zivilprozess-, Strafprozess-, Bußgeld-, Insolvenz-, Zwangsversteigerungs- und Zwangsverwaltungsverfahren, in Familien- und Lebenspartnerschaftssachen, in Vormundschafts-, Betreuungs- und Pflegschaftssachen, in Nachlasssachen sowie in arbeits-, finanz-, sozial- und verwaltungsgerichtlichen Verfahren sind sämtliche Kostenrechnungen, Beanstandungen der Kostenprüfungsbeamten, Zahlungsanzeigen und Ausdrucke über die Entwertung elektronischer Kostenmarken sowie Mitteilungen über die Niederschlagung von Kosten, über die Aufhebung der Niederschlagung oder den (Teil-)Erlass vor dem ersten Aktenblatt einzuheften oder in eine dort einzuheftende Aktentasche lose einzulegen oder, soweit die Akten nicht zu heften sind, unter dem Aktenumschlag lose zu verwahren. Das gleiche kann auch in anderen Verfahren geschehen, wenn dies zweckmäßig erscheint, insbesondere wenn die Akten umfangreich sind. Ist ein Vollstreckungsheft angelegt, sind die Kostenrechnungen, Beanstandungen, Zahlungsanzeigen und Nachrichten in diesem entsprechend zu verwahren (vgl. § 16 Abs. 2 StVollstrO). Wird es notwendig, die vor dem ersten Aktenblatt eingehefteten oder verwahrten Dokumente mit Blattzahlen zu versehen, sind dazu römische Ziffern zu verwenden.
 
+
+(3a) Bei elektronischer Aktenführung sind die in Absatz 3 bezeichneten Dokumente in der Akte in einem gesonderten Bereich aufzubewahren, der mit „Kosten“ oder einem entsprechend eindeutigen Begriff überschrieben ist.
 
 (4) Die aktenführende Stelle hat laufend auf dem Aktenumschlag oder einem Kostenvorblatt die Blätter zu bezeichnen,
 
 
 1.
 
-auf denen sich Abdrucke von Gerichtskostenstemplern, Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen oder Vermerke hierüber befinden,          
+mit denen elektronische Kostenmarken eingereicht wurden,
 
 2.
+
+auf denen sich Abdrucke von Gerichtskostenstemplern, Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen oder Vermerke hierüber befinden,          
+
+3.
 
 aus denen sich ergibt, dass Vorschüsse zum Soll (§ 25) gestellt oder ohne vorherige Sollstellung (§ 26) eingezahlt worden sind,
 
 
-3.
+4.
 
 auf denen sich Kostenrechnungen, Zahlungsanzeigen, Mitteilungen über die Niederschlagung von Kosten oder über die Aufhebung der Niederschlagung sowie Mitteilungen über den (Teil-)Erlass von Kosten oder die Anordnung ihrer Nichterhebung (§ 21 GKG, § 20 FamGKG, § 21 GNotKG) befinden, die nicht nach Absatz 3 eingeheftet oder verwahrt werden,                    
 
-4.
+5.
 
 auf denen Kleinbeträge vermerkt sind, deren Einziehung oder Auszahlung nach den über die Behandlung solcher Beträge erlassenen Bestimmungen einstweilen vorbehalten bleibt.
 
 
-(5) Die aktenführende Stelle leitet die Akten und Blattsammlungen vor dem Weglegen dem Kostenbeamten zu. Dieser prüft, ob berechnete Kosten entweder zum Soll gestellt sind oder der Zahlungseingang nachgewiesen ist. Er bescheinigt diese Prüfung auf den Akten (Blattsammlungen) unter Bezeichnung des letzten Aktenblattes und unter Angabe von Tag und Amtsbezeichnung. Die Bescheinigung ist auch zu erteilen, wenn die Einziehung von Kleinbeträgen vorbehalten bleibt.
+Absatz 2 Satz 2 gilt entsprechend.
+
+(5) Die aktenführende Stelle leitet die Akten und Blattsammlungen vor dem Weglegen dem Kostenbeamten zu.
+
+Dieser prüft, ob berechnete Kosten entweder zum Soll gestellt sind oder der Zahlungseingang nachgewiesen ist.
+
+Er bescheinigt dies gemäß § 2 Abs. 2.
 
 
 Abschnitt 2
@@ -671,12 +368,12 @@ Begriff und Gegenstand
 § 5
 Zuständigkeit
 
-(1) Der Kostenansatz richtet sich, soweit Kosten nach dem Gerichtskostengesetz erhoben werden, nach § 19 GKG, soweit Kosten nach dem Gesetz über Gerichtskosten in Familiensachen erhoben werden, nach § 18 FamGKG, und in den Angelegenheiten der freiwilligen Gerichtsbarkeit nach § 18 GNotKG. Kosten der Vollstreckung von freiheitsentziehenden Maßregeln der Besserung und Sicherung werden bei der nach § 19 Abs. 2 GKG zuständigen Behörde angesetzt, soweit nicht die Landesregierungen durch Rechtsverordnung andere Zuständigkeiten begründet haben (§ 138 Abs. 2 StVollzG).
+(1) Der Kostenansatz richtet sich, soweit Kosten nach dem Gerichtskostengesetz erhoben werden, nach § 19 GKG, soweit Kosten nach dem Gesetz über Gerichtskosten in Familiensachen erhoben werden, nach § 18 FamGKG, und in den Angelegenheiten der freiwilligen Gerichtsbarkeit nach § 18 GNotKG.  Kosten der Vollstreckung von freiheitsentziehenden Maßregeln der Besserung und Sicherung werden bei der nach § 19 Abs. 2 GKG zuständigen Behörde angesetzt, soweit nicht die Landesregierungen durch Rechtsverordnung andere Zuständigkeiten begründet haben (§ 138 Abs. 2 Satz 3 StVollzG).
 
 (2) Hat in Strafsachen der Bundesgerichtshof die Sache ganz oder teilweise zur anderweitigen Verhandlung und Entscheidung zurückverwiesen, übersendet die für den Kostenansatz zuständige Behörde eine beglaubigte Abschrift der rechtskräftigen Entscheidung zum Kostenansatz an den Bundesgerichtshof.
 
 
-(3) Zu den durch die Vorbereitung der öffentlichen Klage entstandenen Kosten (Nrn. 9015, 9016 KV GKG) gehören auch
+(3) Zu den durch die Vorbereitung der öffentlichen Klage und das dem gerichtlichen Verfahren vorausgegangene Bußgeldverfahren entstandenen Kosten (Nrn. 9015, 9016 KV GKG) gehören auch
 
 1.
 
@@ -711,12 +408,12 @@ die Abnahme einer eidesstattlichen Versicherung zwecks Erwirkung eines Erbschein
 die Beurkundung der Ausschlagung der Erbschaft oder der Anfechtung der Ausschlagung der Erbschaft
 
 
-werden bei dem nach § 343 FamFG zuständigen Nachlassgericht angesetzt (§ 18 Abs. 1 Nr. 1, Abs. 2 GNotKG). Erfolgt die Eröffnung oder die Beurkundung bei einem anderen Gericht, ist das Nachlassgericht zu verständigen. Diese Bestimmungen gelten auch dann, wenn die beiden Gerichte in verschiedenen Ländern der Bundesrepublik liegen. Sie gelten nicht für Kosten einer Beurkundung nach § 31 IntErbRVG (§ 18 Abs. 2 Satz 2 GNotKG).        Soweit das Landwirtschaftsgericht an die Stelle des Nachlassgerichts tritt, wird auch die Gebühr für die Abnahme einer eidesstattlichen Versicherung zwecks Erwirkung eines Erbscheins beim Landwirtschaftsgericht angesetzt.
+werden bei dem nach § 343 FamFG zuständigen Nachlassgericht angesetzt (§ 18 Abs. 1 Satz 1 Nr. 1, Abs. 2 GNotKG). Erfolgt die Eröffnung oder die Beurkundung bei einem anderen Gericht, ist das Nachlassgericht zu verständigen. Diese Bestimmungen gelten auch dann, wenn die beiden Gerichte in verschiedenen Ländern der Bundesrepublik liegen. Sie gelten nicht für Kosten einer Beurkundung nach § 31 IntErbRVG (§ 18 Abs. 2 Satz 2 GNotKG).        Soweit das Landwirtschaftsgericht an die Stelle des Nachlassgerichts tritt, wird auch die Gebühr für die Abnahme einer eidesstattlichen Versicherung zwecks Erwirkung eines Erbscheins beim Landwirtschaftsgericht angesetzt.
 
 § 6
 Kostenansatz bei Verweisung eines Rechtsstreits an ein Gericht eines anderen Landes
 
-(1) Wird ein Rechtsstreit an ein Gericht eines anderen Landes der Bundesrepublik verwiesen, so ist für den Kostenansatz der Kostenbeamte des Gerichts zuständig, das nach der Vereinbarung des Bundes und der Länder über den Ausgleich von Kosten (Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über den Ausgleich von Kosten vom 19. September 2001 [SächsJMBl. S. 130], geändert durch Verwaltungsvorschrift vom 13. Januar 2010 [SächsJMBl. S. 24], zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2013 [SächsABl.SDr. S. S 832] die Kosten einzuziehen hat.
+(1) Wird ein Rechtsstreit an ein Gericht eines anderen Landes der Bundesrepublik verwiesen, so ist für den Kostenansatz der Kostenbeamte des Gerichts zuständig, das nach der Vereinbarung des Bundes und der Länder über den Ausgleich von Kosten (Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über den Ausgleich von Kosten vom 19. September 2001 [SächsJMBl. S. 130], geändert durch Verwaltungsvorschrift vom 13. Januar 2010 [SächsJMBl. S. 24], zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2013 [SächsABl. SDr. S. S 832] die Kosten einzuziehen hat.
 
 
 (2) Einzuziehende Beträge, die nach § 59 RVG auf die Staatskasse übergegangen sind, werden im Falle der Verweisung eines Rechtsstreits an ein Gericht eines anderen Landes bei dem Gericht angesetzt, an das der Rechtsstreit verwiesen worden ist (vgl. Vereinbarung über den Ausgleich von Kosten – a.a.O.).
@@ -808,7 +505,7 @@ wenn ein zahlungsfähiger Kostenschuldner für die Kosten mithaftet;
 
 2.
 
-wenn anzunehmen ist, dass durch Ausübung des Zurückbehaltungsrechts (§ 23) die Zahlung der Kosten erreicht werden kann, insbesondere dann, wenn ein anderer Empfangsberechtigter an der Aushändigung der zurückbehaltenen Schriftstücke ein Interesse hat;
+wenn anzunehmen ist, dass durch Ausübung des Zurückbehaltungsrechts (§ 23) die Zahlung der Kosten erreicht werden kann, insbesondere dann, wenn ein anderer Empfangsberechtigter an der Aushändigung der zurückbehaltenen Dokumente ein Interesse hat;
 
 
 3.
@@ -824,7 +521,7 @@ wenn es sich um Gebühren oder Vorschüsse handelt, von deren Entrichtung die Vo
 (3) Angaben im Verfahren über die Prozess- oder Verfahrenskostenhilfe, Feststellungen im Strafverfahren über die Einkommens- und Vermögensverhältnisse des Beschuldigten (Nr. 14 der Richtlinien für das Strafverfahren und das Bußgeldverfahren) oder Mitteilungen der Vollstreckungsbehörde können dem Kostenbeamten einen Anhalt für seine Entschließung bieten. Er wird dadurch aber nicht von der Verpflichtung entbunden, selbständig zu prüfen und zu entscheiden, ob tatsächlich Unvermögen zur Zahlung anzunehmen ist. Nötigenfalls stellt er geeignete Ermittlungen an. In Strafsachen sind an Stellen außerhalb der Justizverwaltung Anfragen nach den wirtschaftlichen Verhältnissen des Kostenschuldners nur ausnahmsweise und nur dann zu richten, wenn nicht zu befürchten ist, dass dem Kostenschuldner aus diesen Anfragen Schwierigkeiten erwachsen könnten. Bei der Fassung etwaiger Anfragen ist jeder Hinweis darauf zu vermeiden, dass es sich um Kosten aus einer Strafsache handelt.
 
 
-(4) Der Kostenbeamte vermerkt in den Akten, dass er die Kosten nicht angesetzt hat; er gibt dabei die Gründe kurz an und verweist auf die Aktenstelle, aus der sie ersichtlich sind.
+(4) Der Kostenbeamte vermerkt in den Akten, dass er die Kosten nicht angesetzt hat; er gibt dabei die Gründe kurz an und verweist auf die Aktenstelle, aus der sie ersichtlich sind. § 3 Abs. 2 Satz 2 gilt entsprechend.
 
 
 (5) Nach Absatz 1 außer Ansatz gelassene Kosten sind anzusetzen, wenn Anhaltspunkte dafür bekannt werden, dass eine Einziehung Erfolg haben wird.
@@ -862,7 +559,7 @@ Von Wertermittlungen kann abgesehen werden, wenn nicht Anhaltspunkte dafür best
 § 13
 Kostenansatz bei gegenständlich beschränkter Gebührenfreiheit
 
-Bei Erbscheinen und ähnlichen Zeugnissen (Nr. 12210 KV GNotKG), die zur Verwendung in einem bestimmten Verfahren gebührenfrei oder zu ermäßigten Gebühren zu erteilen sind (z. B. gemäß § 317 Abs. 5 LAG, § 64 Abs. 2 SGB X, § 31 Abs. 1c VermG i. V. m. § 181 BEG), hat der Kostenbeamte die Urschrift und Ausfertigung der Urkunde mit dem Vermerk “Zum ausschließlichen Gebrauch für das ........-verfahren gebührenfrei – zu ermäßigten Gebühren – erteilt„ zu versehen. Die Ausfertigung ist der Behörde oder Dienststelle, bei der das Verfahren anhängig ist, mit dem Ersuchen zu übersenden, den Beteiligten weder die Ausfertigung auszuhändigen noch eine Abschrift zu erteilen.
+Bei Erbscheinen und ähnlichen Zeugnissen (Nr. 12210 KV GNotKG), die zur Verwendung in einem bestimmten Verfahren gebührenfrei oder zu ermäßigten Gebühren zu erteilen sind (z. B. gemäß § 317 Abs. 5 LAG, § 64 Abs. 2 SGB X, § 31 Abs. 1c VermG i. V. m. § 181 BEG), hat der Kostenbeamte das Original und Ausfertigung der Urkunde mit dem Vermerk „Zum ausschließlichen Gebrauch für das ........-verfahren gebührenfrei – zu ermäßigten Gebühren – erteilt“ zu versehen.  Bei elektronischer Aktenführung ist der Vermerk in einem gesonderten elektronischen Dokument festzuhalten, das mit der Urkunde zu verbinden ist.  Die Ausfertigung ist der Behörde oder Dienststelle, bei der das Verfahren anhängig ist, mit dem Ersuchen zu übersenden, den Beteiligten weder die Ausfertigung auszuhändigen noch eine Abschrift zu erteilen.
 
 § 14
 Haftkosten
@@ -874,7 +571,7 @@ SächsStVollzG i. V. m. § 138 Abs. 2 StVollzG, § 61           SächsStVollzG. 
 § 15
 Zeit des Kostenansatzes im Allgemeinen
 
-(1) Soweit nichts anderes bestimmt oder zugelassen ist, werden Kosten alsbald nach Fälligkeit angesetzt (z. B. § 6 Abs. 1 und 2, §§ 7 bis 9 GKG, §§ 9 bis 11 FamGKG, §§ 8, 9 GNotKG) und Kostenvorschüsse berechnet, sobald sie zu leisten sind (z. B. §§ 15 bis 18 GKG, §§ 16, 17 FamGKG, §§ 13, 14, 17 GNotKG). Dies gilt insbesondere auch vor Versendung der Akten an das Rechtsmittelgericht.
+(1) Soweit nichts anderes bestimmt oder zugelassen ist, werden Kosten alsbald nach Fälligkeit angesetzt (z. B. § 6 Abs. 1 und 2, §§ 7 bis 9 GKG, §§ 9 bis 11 FamGKG, §§ 8, 9 GNotKG) und Kostenvorschüsse berechnet, sobald sie zu leisten sind (z. B. §§ 15 bis 18 GKG, §§ 16, 17 FamGKG, §§ 13, 14, 17 GNotKG).  Dies gilt insbesondere auch vor Versendung der Akten an das Rechtsmittelgericht. Sofern elektronische Akten an das Rechtsmittelgericht zu senden sind, kann ein kostenrechtlicher Abschluss auch unverzüglich nach Versand der Akte erfolgen.
 
 (2) Auslagen sind in der Regel erst bei Beendigung des Rechtszuges anzusetzen, wenn kein Verlust für die Staatskasse zu befürchten ist. Das Gleiche gilt für die Abrechnung der zu ihrer Deckung erhobenen Vorschüsse. Werden jedoch im Laufe des Verfahrens Gebühren fällig, sind mit ihnen auch die durch Vorschüsse nicht gedeckten Auslagen anzusetzen.
 
@@ -904,7 +601,7 @@ Gebühr für die Durchführung des Insolvenzverfahrens
 
 (1) Die Gebühr für die Durchführung des Insolvenzverfahrens ist spätestens nach Abhaltung des Prüfungstermins  (§ 176 InsO) anzusetzen.
 
-(2) Bei Einstellung des Insolvenzverfahrens oder nach Bestätigung des Insolvenzplanes hat der Kostenbeamte den Insolvenzverwalter schriftlich aufzufordern, einen Betrag zurückzubehalten, der zur Deckung der näher zu bezeichnenden Gerichtskosten ausreicht.
+(2) Bei Einstellung des Insolvenzverfahrens oder nach Bestätigung des Insolvenzplanes hat der Kostenbeamte den Insolvenzverwalter schriftlich aufzufordern, einen Betrag zurückzubehalten, der zur Deckung der näher zu bezeichnenden Gerichtskosten ausreicht. § 3 Abs. 2 Satz 2 gilt entsprechend.
 
 
 II.
@@ -946,7 +643,7 @@ Heranziehung steuerlicher Werte und Auskünfte der Finanzverwaltung
 
 – zu § 40 Abs. 6, § 46 Abs. 3 Satz 1 Nr. 3, § 48 GNotKG –
 
-(1)  Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Satz 1 Nr. 3 GNotKG) oder den Einheitswert von Grundbesitz (§ 48 GNotKG) zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (Feststellungsbescheides, Einheitswertbescheides), sofern sich der Einheitswert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt. Das Finanzamt ist um Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte, die Höhe des Einheitswertes oder um Erteilung einer Abschrift des entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt, ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist. Für die Aufbewahrung des Einheitswertbescheides gelten die Bestimmungen der Aktenordnung entsprechend.
+(1)  Wird auf einen für Zwecke der Steuererhebung festgesetzten Wert (§ 46 Abs. 3 Satz 1 Nr. 3 GNotKG) oder den Einheitswert von Grundbesitz (§ 48 GNotKG) zurückgegriffen, genügt als Nachweis die Vorlage des Steuerbescheides (Feststellungsbescheides, Einheitswertbescheides), sofern sich der Einheitswert des Grundbesitzes nicht schon aus der steuerlichen Unbedenklichkeitsbescheinigung ergibt.  Das Finanzamt ist um Auskunft über die Höhe der für Zwecke der Steuererhebung festgesetzten Werte, die Höhe des Einheitswertes oder um Erteilung einer Abschrift des entsprechenden Steuerbescheides nur zu ersuchen, wenn der Kostenschuldner den Steuerbescheid nicht vorlegt, ausnahmsweise auch dann, wenn die Wertermittlung besonders schwierig ist.  Für die Aufbewahrung des Einheitswertbescheides gilt § 3 Abs. 8 der Aktenordnung entsprechend.
 
 (2) Das Finanzamt ist für die Ermittlung des Nachlasswertes und der Zusammensetzung des Nachlasses gemäß § 40 Abs. 6 GNotKG nur in Einzelfällen nachrangig um Auskunft zu ersuchen, z. B. wenn die Beteiligten keine für die Wertermittlung erforderlichen Angaben mitteilen oder Anhaltspunkte dafür bestehen, dass diese Angaben unrichtig sind. War bereits ein Kostenansatz aufgestellt und gibt die Auskunft des Finanzamts Anlass, den Kostenansatz zu ändern, ist dessen Änderung durch den Kostenbeamten zu veranlassen; wird dabei eine Nacherhebung von Kosten erforderlich, ist diese unter Beachtung des § 20 GNotKG vorzunehmen. Ist bereits eine Festsetzung des Geschäftswerts erfolgt, ist die Auskunft des Finanzamts zunächst dem für die Wertfestsetzung zuständigen Richter oder Rechtspfleger vorzulegen, damit dieser prüfen kann, ob eine Änderung des festgesetzten Geschäftswerts innerhalb der Frist des § 79 Abs. 2 Satz 2 GNotKG veranlasst ist.
 
@@ -1011,21 +708,21 @@ Jährliche Vorschüsse im Zwangsverwaltungsverfahren
 Zurückbehaltungsrecht
 – zu § 11 GNotKG, § 17 Abs. 2 GKG, § 16 Abs. 2 FamGKG, § 9 JVKostG –
 
-(1) In Angelegenheiten, auf die das Gerichts- und Notarkostengesetz anzuwenden ist, und in Justizverwaltungsangelegenheiten sind Urkunden, Ausfertigungen, Ausdrucke und Kopien sowie gerichtliche Unterlagen regelmäßig bis zur Zahlung der in der Angelegenheit erwachsenen Kosten zurückzubehalten. Die Entscheidung über die Ausübung des Zurückbehaltungsrechts trifft der Kostenbeamte nach billigem Ermessen. Dies gilt entsprechend in den Fällen des § 17 Abs. 2 GKG und des § 16 Abs. 2 FamGKG.
+(1) In Angelegenheiten, auf die das Gerichts- und Notarkostengesetz anzuwenden ist, und in Justizverwaltungsangelegenheiten sind elektronische Dokumente, Urkunden, Ausfertigungen, Ausdrucke und Kopien sowie gerichtliche Unterlagen regelmäßig bis zur Zahlung der in der Angelegenheit erwachsenen Kosten zurückzubehalten. Die Entscheidung über die Ausübung des Zurückbehaltungsrechts trifft der Kostenbeamte nach billigem Ermessen. Dies gilt entsprechend in den Fällen des § 17 Abs. 2 GKG und des § 16 Abs. 2 FamGKG.
 
 (2) Kosten, von deren Entrichtung die Herausgabe abhängig gemacht wird, sind so bald wie möglich anzusetzen. Können sie noch nicht endgültig berechnet werden, sind sie vorbehaltlich späterer Berichtigung vorläufig anzusetzen.
 
 
-(3) Ist ein anderer als der Kostenschuldner zum Empfang des Schriftstücks berechtigt, hat ihn der Kostenbeamte von der Ausübung des Zurückbehaltungsrechts zu verständigen. Erhält der Empfangsberechtigte in derselben Angelegenheit eine sonstige Mitteilung, ist die Nachricht, dass das Schriftstück zurückbehalten wird, nach Möglichkeit damit zu verbinden.
+(3) Ist ein anderer als der Kostenschuldner zum Empfang des Dokuments berechtigt, hat ihn der Kostenbeamte von der Ausübung des Zurückbehaltungsrechts zu verständigen. Erhält der Empfangsberechtigte in derselben Angelegenheit eine sonstige Mitteilung, ist die Nachricht, dass das Dokument zurückbehalten wird, nach Möglichkeit damit zu verbinden.
 
 
-(4) Wegen des Vermerks der Ausübung des Zurückbehaltungsrechts und der Aufführung des dritten Empfangsberechtigten in der Kostenrechnung wird auf § 24 Abs. 6 verwiesen.
+(4) Wegen des Vermerks der Ausübung des Zurückbehaltungsrechts und der Aufführung des empfangsberechtigten Dritten in der Kostenrechnung wird auf § 24 Abs. 6 verwiesen.
 
 
 (5) Für die sichere Verwahrung von Wertpapieren, Sparkassenbüchern, Grundpfandrechtsbriefen und sonstigen Urkunden von besonderem Wert ist Sorge zu tragen.
 
 
-(6) Die zurückbehaltenen Schriftstücke sind an den Empfangsberechtigten herauszugeben,
+(6) Die zurückbehaltenen Dokumente sind an den Empfangsberechtigten herauszugeben,
 
 
 1.
@@ -1036,13 +733,13 @@ wenn die Zahlung der Kosten nachgewiesen ist,
 
 2.
 
-wenn die Anordnung, dass Schriftstücke zurückzubehalten sind, vom Kostenbeamten oder durch gerichtliche Entscheidung aufgehoben wird.
+wenn die Anordnung, dass Dokumente zurückzubehalten sind, vom Kostenbeamten oder durch gerichtliche Entscheidung aufgehoben wird.
 
 
 § 24
 Kostenrechnung
 
-(1) Die Urschrift der Kostenrechnung für die Sachakte enthält
+(1) Die Kostenrechnung für die Sachakte enthält
 
 
 1.
@@ -1066,27 +763,27 @@ den Gesamtbetrag der Kosten,
 Namen, Anschriften sowie ggf. Geschäftszeichen und Geburtsdaten der Kostenschuldner.
 
 
-(2) Haften mehrere als Gesamtschuldner oder hat ein Kostenschuldner die Zwangsvollstreckung in ein bestimmtes Vermögen zu dulden, ist dies in der Urschrift der Kostenrechnung zu vermerken. Bei der anteilmäßigen Inanspruchnahme des Kostenschuldners (z. B. § 8 Abs. 4) ist dort ein eindeutiger Vorbehalt über die Möglichkeit einer weiteren Inanspruchnahme aufzunehmen. Unter Beachtung der Grundsätze in § 8 Abs. 4 ist weiter anzugeben, wie die einzelnen Gesamtschuldner zunächst in Anspruch genommen werden. Erst- und Zweitschuldner (§ 8 Abs. 1) sind ausdrücklich als solche zu bezeichnen. Wird der Zweitschuldner vor dem Erstschuldner in Anspruch genommen (§ 8 Abs. 1), sind die Gründe hierfür kurz anzugeben.
+(2) Haften mehrere als Gesamtschuldner oder hat ein Kostenschuldner die Zwangsvollstreckung in ein bestimmtes Vermögen zu dulden, ist dies in der Kostenrechnung zu dokumentieren. Bei der anteilmäßigen Inanspruchnahme des Kostenschuldners (z. B. § 8 Abs. 4) ist dort ein eindeutiger Vorbehalt über die Möglichkeit einer weiteren Inanspruchnahme aufzunehmen. Unter Beachtung der Grundsätze in § 8 Abs. 4 ist weiter anzugeben, wie die einzelnen Gesamtschuldner zunächst in Anspruch genommen werden. Erst- und Zweitschuldner (§ 8 Abs. 1) sind ausdrücklich als solche zu bezeichnen. Wird der Zweitschuldner vor dem Erstschuldner in Anspruch genommen (§ 8 Abs. 1), sind die Gründe hierfür kurz anzugeben.
 
 
 (3) Ist bei mehreren Kostengesamtschuldnern damit zu rechnen, dass der zunächst in Anspruch Genommene die Kosten bezahlen wird, kann die Aufführung der weiteren Gesamtschuldner durch ausdrücklichen Vermerk vorbehalten werden.
 
 
-(4) Sind Kosten durch Verwendung von Gerichtskostenstemplern entrichtet oder durch Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen nachgewiesen, ist zu vermerken, wo sich diese Zahlungsnachweise befinden. Sind Kosten bereits gebucht, ist das Zuordnungsmerkmal des Kassenverfahrens anzugeben.
+(4) Sind Kosten durch Verwendung von elektronischen Kostenmarken oder Gerichtskostenstemplern entrichtet oder durch Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen nachgewiesen, ist zu dokumentieren, wo sich diese Zahlungsnachweise befinden. Sind Kosten bereits gebucht, ist das Zuordnungsmerkmal des Kassenverfahrens anzugeben.
 
-(5) Ergeben sich aus den Akten Anhaltspunkte dafür, dass noch weitere Kosten geltend gemacht werden können, die vom Kostenschuldner als Auslagen zu erheben sind (z. B. Vergütungen von Pflichtverteidigern, Verfahrensbeiständen oder Sachverständigen), ist ein eindeutiger Vorbehalt über die Möglichkeit einer Inanspruchnahme für die weiteren, nach Art oder voraussichtlicher Höhe zu bezeichnenden Kosten in die Urschrift der Kostenrechnung aufzunehmen.
-
-
-(6) Die Ausübung des Zurückbehaltungsrechts (§ 23) ist mit kurzer Begründung zu vermerken. Ist ein anderer als der Kostenschuldner zum Empfang des Schriftstücks berechtigt (§ 23 Abs. 3), wird er gleichfalls in der Urschrift der Kostenrechnung aufgeführt.
+(5) Ergeben sich aus den Akten Anhaltspunkte dafür, dass noch weitere Kosten geltend gemacht werden können, die vom Kostenschuldner als Auslagen zu erheben sind (z. B. Vergütungen von Pflichtverteidigern, Verfahrensbeiständen oder Sachverständigen), ist ein eindeutiger Vorbehalt über die Möglichkeit einer Inanspruchnahme für die weiteren, nach Art oder voraussichtlicher Höhe zu bezeichnenden Kosten in die Kostenrechnung aufzunehmen.
 
 
-(7) Enthält die Urschrift der Kostenrechnung Beträge, die anderen Berechtigten als der Staatskasse zustehen und nach der Einziehung an sie auszuzahlen sind (durchlaufende Gelder), hat der Kostenbeamte sicherzustellen, dass er von einer Zahlung Kenntnis erlangt. Der Empfangsberechtigte ist in der Urschrift der Kostenrechnung aufzuführen. Im Falle des § 19 ist der Gerichtsvollzieher als empfangsberechtigt zu bezeichnen.
+(6) Die Ausübung des Zurückbehaltungsrechts (§ 23) ist mit kurzer Begründung zu dokumentieren. Ist ein anderer als der Kostenschuldner zum Empfang des Schriftstücks berechtigt (§ 23 Abs. 3), wird er gleichfalls in der Kostenrechnung aufgeführt.
 
 
-(8) Wenn für einen Vorschuss Sicherheit geleistet ist (§ 21), ist dies durch einen zu unterstreichenden Vermerk anzugeben.
+(7) Enthält die Kostenrechnung Beträge, die anderen Berechtigten als der Staatskasse zustehen und nach der Einziehung an sie auszuzahlen sind (durchlaufende Gelder), hat der Kostenbeamte sicherzustellen, dass er von einer Zahlung Kenntnis erlangt. Der Empfangsberechtigte ist in der Kostenrechnung aufzuführen. Im Falle des § 19 ist der Gerichtsvollzieher als empfangsberechtigt zu bezeichnen.
 
 
-(9) Der Kostenbeamte hat die Urschrift der Kostenrechnung unter Angabe von Ort, Tag und Amtsbezeichnung zu unterschreiben.
+(8) Wenn für einen Vorschuss Sicherheit geleistet ist (§ 21), ist dies durch einen zu unterstreichenden Vermerk anzugeben. Bei elektronischer Aktenführung ist sicherzustellen, dass eine deutliche Kenntlichmachung in geeigneter Art und Weise erfolgt.
+
+
+(9) Der Kostenbeamte hat die Kostenrechnung unter Angabe von Ort, Tag und Amtsbezeichnung zu unterschreiben. Bei elektronischer Aktenführung ist revisionssicher kenntlich zu machen, wer die Kostenrechnung zu welchem Zeitpunkt erstellt hat.
 
 
 § 25
@@ -1095,7 +792,13 @@ Anforderung der Kosten mit Sollstellung
 (1) Mit der Sollstellung wird die Buchung des zu erhebenden Betrags im Sachbuch der Kasse, die dortige Überwachung des Zahlungseingangs und im Fall der Nichtzahlung die selbständige Einziehung durch die Vollstreckungsbehörde bewirkt.
 
 
-(2) Der Kostenbeamte veranlasst die Sollstellung der Kosten nach den näheren Bestimmungen des Bundesministeriums der Justiz und für Verbraucherschutz oder der jeweiligen Landesjustizverwaltung und sorgt dafür, dass jeder Kostenschuldner, der in Anspruch genommen werden soll, einen Ausdruck der ihn betreffenden Inhalte der Kostenrechnung mit einer Zahlungsaufforderung und einer Rechtsbehelfsbelehrung (Kostenanforderung) erhält. In der Zahlungsaufforderung sind der Zahlungsempfänger mit Anschrift und Bankverbindung sowie das Zuordnungsmerkmal der Sollstellung (z. B. Kassenzeichen) anzugeben. Kostenanforderungen, die automationsgestützt erstellt werden, bedürfen weder einer Unterschrift noch eines Abdrucks des Dienstsiegels; auf der Kostenanforderung ist zu vermerken, dass das Schreiben mit einer Datenverarbeitungsanlage erstellt wurde und daher nicht unterzeichnet wird. Manuell erstellte Kostenrechnungen sind stattdessen mit Unterschrift oder mit dem Abdruck des Dienstsiegels zu versehen.
+(2) Der Kostenbeamte veranlasst die Sollstellung der Kosten nach den näheren Bestimmungen des Bundesministeriums der Justiz und für Verbraucherschutz oder der jeweiligen Landesjustizverwaltung und sorgt dafür, dass jeder Kostenschuldner, der in Anspruch genommen werden soll, einen Auszug der ihn betreffenden Inhalte der Kostenrechnung mit einer Zahlungsaufforderung und einer Rechtsbehelfsbelehrung (Kostenanforderung) erhält.
+
+In der Zahlungsaufforderung sind der Zahlungsempfänger mit Anschrift und Bankverbindung sowie das Zuordnungsmerkmal der Sollstellung (z. B. Kassenzeichen) anzugeben.
+
+Kostenanforderungen, die automationsgestützt erstellt werden, bedürfen weder einer Unterschrift noch eines Abdrucks des Dienstsiegels; auf der Kostenanforderung ist zu dokumentieren, dass das Dokument mit einer Datenverarbeitungsanlage erstellt wurde und daher nicht unterzeichnet wird.
+
+Manuell erstellte Kostenanforderungen sind stattdessen mit Unterschrift oder mit dem Abdruck des Dienstsiegels zu versehen.
 
 
 (3) Sofern der Kostenschuldner im automatisierten Mahnverfahren von einem Bevollmächtigten vertreten wird, kann die Kostenanforderung diesem zugesandt werden.
@@ -1103,7 +806,7 @@ Anforderung der Kosten mit Sollstellung
 
 § 26
 Anforderung der Kosten ohne Sollstellung
-– zu §§ 379a, 390 Abs. 4 StPO, §§ 12, 12a, 13, 17 Abs. 1 Satz 2, Abs. 2 GKG, §§ 14, 16 Abs. 1 Satz 2, Abs. 2 FamGKG, §§ 13, 14 Abs. 1 Satz 2, Abs. 2GNotKG, § 8 Abs. 2 JVKostG – 
+– zu §§ 379a, 390 Abs. 4 StPO, §§ 12, 12a, 13, 17 Abs. 1 Satz 2, Abs. 2 GKG, §§ 14, 16 Abs. 1 Satz 2, Abs. 2 FamGKG, §§ 13, 14 Abs. 1 Satz 2, Abs. 2GNotKG, § 8 Abs. 2 JVKostG –
 
 
 (1) Vorweg zu erhebende Gebühren und Kostenvorschüsse, von deren Entrichtung die Vornahme einer Amtshandlung oder die Einleitung oder der Fortgang eines Verfahrens abhängig ist, sind ohne Sollstellung unmittelbar vom Zahlungspflichtigen anzufordern; das gleiche gilt im Falle der Ausübung des Zurückbehaltungsrechts (§ 23). 
@@ -1118,7 +821,7 @@ Wegen der Einzelheiten der Kostenanforderung ohne Sollstellung wird auf die näh
 (2) Steht der Wert des Streitgegenstandes oder der Geschäftswert noch nicht endgültig fest, sind der Berechnung vorläufig die Angaben des Klägers oder Antragstellers zugrunde zu legen, sofern sie nicht offenbar unrichtig sind.
 
 
-(3) Hat das Gericht den Betrag des Vorschusses und die Zahlungsfrist selbst bestimmt (z. B. in den Fällen der §§ 379, 402 ZPO), kann eine Kostenrechnung (§ 24 Abs. 1) unterbleiben, wenn das gerichtliche Schriftstück alle für die Bewirkung der Zahlung erforderlichen Angaben enthält.
+(3) Hat das Gericht den Betrag des Vorschusses und die Zahlungsfrist selbst bestimmt (z. B. in den Fällen der §§ 379, 402 ZPO), kann eine Kostenrechnung (§ 24 Abs. 1) unterbleiben, wenn das gerichtliche Dokument alle für die Bewirkung der Zahlung erforderlichen Angaben enthält.
 
 (4) Hat der Zahlungspflichtige auf die Gebühren oder Vorschüsse (Absatz 1) Beträge bezahlt, die zur Deckung nicht völlig ausreichen, ist er auf den Minderbetrag hinzuweisen; hat er noch keine Kostenanforderung erhalten, ist der Minderbetrag ohne Sollstellung entsprechend Absatz 1 anzufordern. Ist der Minderbetrag nur gering, führt der Kostenbeamte zunächst eine Entscheidung des Richters (Rechtspflegers) darüber herbei, ob der Sache gleichwohl Fortgang zu geben sei. Wird der Sache Fortgang gegeben, wird der fehlende Betrag gemäß § 25 mit Sollstellung angefordert, falls er nicht nach den bestehenden Bestimmungen wegen Geringfügigkeit außer Ansatz bleibt; besteht der Richter (Rechtspfleger) dagegen auf der Zahlung des Restbetrages, ist nach Satz 1 zu verfahren.
 
@@ -1128,7 +831,7 @@ Wegen der Einzelheiten der Kostenanforderung ohne Sollstellung wird auf die näh
 (6) Sofern der Zahlungspflichtige von einem Bevollmächtigten, insbesondere dem Prozess- oder Verfahrensbevollmächtigten oder Notar, vertreten wird, soll die Kostenanforderung grundsätzlich diesem zur Vermittlung der Zahlung zugesandt werden.
 
 
-(7) Ist die Zahlung des Vorschusses an eine Frist geknüpft (z. B. in den Fällen der §§ 379a, 390 Abs. 4 StPO, § 18 GBO), ist die Kostenanforderung von Amts wegen zuzustellen. In sonstigen Fällen wird sie regelmäßig als Brief abgesandt.
+(7) Ist die Zahlung des Vorschusses an eine Frist geknüpft (z. B. in den Fällen der §§ 379a, 390 Abs. 4 StPO, § 18 GBO), ist die Kostenanforderung von Amts wegen zuzustellen.  In sonstigen Fällen wird sie regelmäßig formlos übersandt.
 
 (8) Wird der Kostenanforderung keine Folge geleistet, hat der Kostenbeamte die in der Sache etwa entstandenen oder noch entstehenden Kosten zu berechnen und zum Soll zu stellen (§ 25). Das Gleiche gilt, wenn die Anordnung, durch welche die Vornahme eines Geschäfts von der Vorauszahlung abhängig gemacht war, wieder aufgehoben oder wenn von der gesetzlich vorgesehenen Vorwegleistungspflicht eine Ausnahme bewilligt wird (z. B. nach § 14 GKG, § 15 FamGKG, § 16 GNotKG). Kommt der zur Vorwegleistung Verpflichtete in den Fällen des § 12 Abs. 1, 3 Satz 3 und 4 GKG, des § 12a GKG sowie des § 14 Abs. 1, 3 FamGKG der Zahlungsaufforderung nicht nach, werden die in § 12 Abs. 1, 3 Satz 3 und 4 GKG und § 14 Abs. 1, 3 FamGKG genannten Gebühren nur insoweit angesetzt, als sich der Zahlungspflichtige nicht durch Rücknahme der Klage oder des Antrags von der Verpflichtung zur Zahlung befreien kann.
 
@@ -1153,10 +856,22 @@ Behandlung von Ersuchen und Mitteilungen der Vollstreckungsbehörde
 (4) Wird dem Kostenbeamten eine Mitteilung über die Niederschlagung oder den (Teil-)Erlass der Kostenforderung vorgelegt, hat er zu prüfen, ob weitere Einziehungsmöglichkeiten bestehen und teilt diese der Vollstreckungsbehörde mit.
 
 
-(5) Eine Zahlungsanzeige, die sich auf einen zum Soll gestellten Betrag bezieht und nicht bei den Sachakten zu verbleiben hat, ist von dem Kostenbeamten unter Angabe des Grundes der Rückgabe zurückzusenden. Die Rücksendung einer Zahlungsanzeige hat er auf der vorderen Innenseite des Aktenumschlags oder einem Kostenvorblatt zu vermerken. Der Vermerk muss den Einzahler, den Betrag der Einzahlung, die Buchungsnummer und den Grund der Rückgabe enthalten. Abweichend von Satz 2 und 3 kann auch eine Kopie der Zahlungsanzeige zu den Sachakten genommen werden, auf der der Grund der Rückgabe vermerkt ist.
+(5) Eine Zahlungsanzeige, die sich auf einen zum Soll gestellten Betrag bezieht und nicht bei den Sachakten zu verbleiben hat, ist von dem Kostenbeamten unter Angabe des Grundes der Rückgabe zurückzusenden.
+
+Die Rücksendung einer Zahlungsanzeige hat er auf der vorderen Innenseite des Aktenumschlags oder einem Kostenvorblatt zu vermerken.
+
+Der Vermerk muss den Einzahler, den Betrag der Einzahlung, die Buchungsnummer und den Grund der Rückgabe enthalten.
+
+Abweichend von Satz 2 und 3 kann auch eine Kopie der Zahlungsanzeige zu den Sachakten genommen werden, auf der der Grund der Rückgabe vermerkt ist.
+
+§ 3 Abs. 3a gilt entsprechend.
 
 
-(6) Die Rücksendung einer Zweitschuldneranfrage und das mitgeteilte Ergebnis hat der Kostenbeamte auf der Urschrift der Kostenrechnung zu vermerken. Abweichend hiervon kann auch eine Kopie der Zweitschuldneranfrage zu den Sachakten genommen werden, auf der das mitgeteilte Ergebnis vermerkt ist.
+(6) Die Rücksendung einer Zweitschuldneranfrage und das mitgeteilte Ergebnis hat der Kostenbeamte auf der Kostenrechnung zu vermerken.
+
+Abweichend hiervon kann auch eine Kopie der Zweitschuldneranfrage zu den Sachakten genommen werden, auf der das mitgeteilte Ergebnis vermerkt ist.
+
+§ 3 Abs. 3a gilt entsprechend.
 
 
 § 28
@@ -1177,7 +892,13 @@ Nachträgliche Änderung der Kostenforderung
 (2) Erhöht sich die Kostenforderung, veranlasst er die Nachforderung des Mehrbetrages gemäß § 25 oder § 26.
 
 
-(3) Vermindert sie sich oder erlischt sie ganz, ordnet er durch eine Kassenanordnung die Löschung im Soll oder die Rückzahlung an. In der Kassenanordnung sind sämtliche in derselben Rechtssache zum Soll gestellten oder eingezahlten Beträge, für die der Kostenschuldner haftet, anzugeben; dabei hat der Kostenbeamte, wenn mehrere Beträge zum Soll stehen, diejenigen Beträge zu bezeichnen, für die weitere Kostenschuldner vorhanden sind. Die Anordnung der Löschung oder Rückzahlung ist unter Angabe des Betrages auf der Urschrift der Kostenrechnung in auffälliger Weise zu vermerken.
+(3) Vermindert sich die Kostenforderung oder erlischt sie ganz, ordnet er durch eine Kassenanordnung die Löschung im Soll oder die Rückzahlung an.
+
+In der Kassenanordnung sind sämtliche in derselben Rechtssache zum Soll gestellten oder eingezahlten Beträge, für die der Kostenschuldner haftet, anzugeben; dabei hat der Kostenbeamte, wenn mehrere Beträge zum Soll stehen, diejenigen Beträge zu bezeichnen, für die weitere Kostenschuldner vorhanden sind.
+
+Die Anordnung der Löschung oder Rückzahlung ist unter Angabe des Betrages auf der Kostenrechnung in auffälliger Weise zu vermerken.
+
+Bei elektronischer Aktenführung ist sicherzustellen, dass eine deutliche Kenntlichmachung in geeigneter Art und Weise erfolgt; für die Kassenanordnung gilt § 3 Abs. 3a entsprechend.
 
 
 (4) Bei Vertretung durch einen Prozess- oder Verfahrensbevollmächtigten (§ 81 ZPO, § 11 FamFG, § 113 Abs. 1 Satz 2 FamFG) ist die Rückzahlung an diesen anzuordnen, es sei denn, die Partei oder der Beteiligte hat der Rückzahlung gegenüber dem Gericht ausdrücklich widersprochen. Stimmt der Bevollmächtigte in diesem Fall der Rückzahlung an die Partei oder den Beteiligten nicht zu, sind die Akten dem Prüfungsbeamten zur Entscheidung vorzulegen.
@@ -1208,12 +929,12 @@ wenn es sich bei dem Bevollmächtigten um einen Rechtsanwalt, Notar oder Rechtsb
 (9) Beruht die Berichtigung oder Änderung auf einer mit Beschwerde anfechtbaren gerichtlichen Entscheidung, ist anzugeben, dass die Entscheidung dem zur Vertretung der Staatskasse zuständigen Beamten vorgelegen hat.
 
 
-(10) Wird die Rückzahlung von Kosten veranlasst, die durch Verwendung von Gerichtskostenstemplern entrichtet oder sonst ohne Sollstellung eingezahlt sind oder deren Zahlung durch Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen nachgewiesen ist, hat ein zweiter Beamter oder Beschäftigter der Geschäftsstelle in der Kassenanordnung zu bescheinigen, dass die Beträge nach den angegebenen Zahlungsnachweisen entrichtet und die Buchungsangaben aus den Zahlungsanzeigen über die ohne Sollstellung eingezahlten Beträge richtig übernommen sind. Die Anordnung der Rückzahlung ist bei oder auf dem betroffenen Zahlungsnachweis in auffälliger Weise zu vermerken; der Vermerk ist zu unterstreichen.
+(10) Wird die Rückzahlung von Kosten veranlasst, die durch Verwendung von elektronischen Kostenmarken oder  Gerichtskostenstemplern entrichtet oder sonst ohne Sollstellung eingezahlt sind oder deren Zahlung durch Aktenausdrucke nach § 696 Abs. 2 Satz 1 ZPO mit Gerichtskostenrechnungen nachgewiesen ist, hat ein zweiter Beamter oder Beschäftigter der Geschäftsstelle in der Kassenanordnung zu bescheinigen, dass die Beträge nach den angegebenen Zahlungsnachweisen entrichtet und die Buchungsangaben aus den Zahlungsanzeigen über die ohne Sollstellung eingezahlten Beträge richtig übernommen sind.  Die Anordnung der Rückzahlung ist bei oder auf dem betroffenen Zahlungsnachweis in auffälliger Weise zu vermerken; der Vermerk ist zu unterstreichen.  Absatz 3 Satz 4 gilt entsprechend.
 
 (11) Sind infolge der nachträglichen Änderung der Kostenrechnung nur Kleinbeträge nachzufordern, im Soll zu löschen oder zurückzuzahlen, sind die für die Behandlung solcher Beträge getroffenen besonderen Bestimmungen zu beachten.
 
 
-(12) Wird eine neue Kostenrechnung aufgestellt (Absatz 1), ist in ihr die frühere Kostenrechnung zu bezeichnen; die frühere Kostenrechnung ist mit einem zu unterstreichenden Hinweis auf die neue Kostenrechnung zu versehen.
+(12) Wird eine neue Kostenrechnung aufgestellt (Absatz 1), ist in ihr die frühere Kostenrechnung zu bezeichnen; die frühere Kostenrechnung ist mit einem zu unterstreichenden Hinweis auf die neue Kostenrechnung zu versehen. Absatz 3 Satz 4 gilt entsprechend.
 
 
 § 30
@@ -1229,7 +950,15 @@ Nachträgliche Änderung der Kostenhaftung
 Einrede der Verjährung
 – zu § 5 Abs. 2 GKG, § 7 Abs. 2 FamGKG, § 6 Abs. 2 GNotKG, § 5 Abs. 2 JVKostG –
 
-Ist der Anspruch auf Erstattung von Kosten verjährt, hat der Kostenbeamte die Akten dem zur Vertretung der Staatskasse zuständigen Beamten vorzulegen. Soll nach dessen Auffassung die Verjährungseinrede erhoben werden, ist hierzu die Einwilligung des unmittelbar vorgesetzten Präsidenten einzuholen. Von der Erhebung der Verjährungseinrede kann mit Rücksicht auf die Umstände des Falles abgesehen werden. Hat der zur Vertretung der Staatskasse zuständige Beamte dem Kostenbeamten mitgeteilt, dass die Verjährungseinrede nicht erhoben werden soll, ist dies auf der zahlungsbegründenden Unterlage in den Sachakten zu vermerken.
+Ist der Anspruch auf Erstattung von Kosten verjährt, hat der Kostenbeamte die Akten dem zur Vertretung der Staatskasse zuständigen Beamten vorzulegen.
+
+Soll nach dessen Auffassung die Verjährungseinrede erhoben werden, ist hierzu die Einwilligung des unmittelbar vorgesetzten Präsidenten einzuholen.
+
+Von der Erhebung der Verjährungseinrede kann mit Rücksicht auf die Umstände des Falles abgesehen werden.
+
+Hat der zur Vertretung der Staatskasse zuständige Beamte dem Kostenbeamten mitgeteilt, dass die Verjährungseinrede nicht erhoben werden soll, ist dies auf der zahlungsbegründenden Unterlage in den Sachakten zu vermerken.
+
+Bei elektronischer Aktenführung ist der Vermerk auf geeignete Art und Weise vorzunehmen.
 
 
 § 32
@@ -1238,10 +967,10 @@ Durchlaufende Gelder
 (1) Sind durchlaufende Gelder in der Kostenrechnung enthalten (§ 24 Abs. 7), hat der Kostenbeamte nach Eingang der Zahlungsanzeige eine Auszahlungsanordnung zu erteilen.
 
 
-(2) Sofern durchlaufende Gelder durch Verwendung von Gerichtskostenstemplern entrichtet oder sonst ohne Sollstellung eingezahlt sind, gilt § 29 Abs. 10 Satz 1 entsprechend.
+(2) Sofern durchlaufende Gelder durch Verwendung von elektronischen Kostenmarken oder Gerichtskostenstemplern entrichtet oder sonst ohne Sollstellung eingezahlt sind, gilt § 29 Abs. 10 Satz 1 entsprechend.
 
 
-(3) Die Anordnung der Auszahlung ist bei oder auf dem betroffenen Zahlungsnachweis oder auf der Urschrift der Kostenrechnung in auffälliger Weise zu vermerken. Der Vermerk ist zu unterstreichen.
+(3) Die Anordnung der Auszahlung ist bei oder auf dem betroffenen Zahlungsnachweis oder auf der Kostenrechnung in auffälliger Weise zu vermerken. Der Vermerk ist zu unterstreichen. Bei elektronischer Aktenführung ist sicherzustellen, dass eine deutliche Kenntlichmachung in geeigneter Art und Weise erfolgt.
 
 
 Abschnitt 4
@@ -1330,7 +1059,7 @@ Aufgaben und Befugnisse des Prüfungsbeamten
 (3) Von den beteiligten Kostenbeamten kann er mündlich näheren Aufschluss über die Behandlung von Geschäften verlangen.
 
 
-(4) Aktenstücke über schwebende Rechtsstreitigkeiten sowie in Testaments-, Grundbuch- und Registersachen hat er in der Regel an Ort und Stelle durchzusehen; sonstige Akten kann er sich an seinen Dienstsitz übersenden lassen.
+(4) Soweit die Akten nicht elektronisch geführt werden, hat er Aktenstücke über schwebende Rechtsstreitigkeiten sowie in Testaments-, Grundbuch- und Registersachen in der Regel an Ort und Stelle durchzusehen; sonstige Akten kann er sich an seinen Dienstsitz übersenden lassen.
 
 
 § 41
@@ -1347,15 +1076,20 @@ ob die Kosten rechtzeitig, richtig und vollständig angesetzt sind und ob sie, s
 
 2.
 
-ob Gerichtskostenstempler bestimmungsgemäß verwendet sind und ob der Verbleib der Abdrucke von Gerichtskostenstemplern, falls sie sich nicht mehr in den Akten befinden, nachgewiesen ist;
+ob elektronische Kostenmarken bestimmungsgemäß verwendet und ordnungsgemäß entwertet sind;
 
 
 3.
 
-ob die Auslagen ordnungsgemäß vermerkt sind;
+ob Gerichtskostenstempler bestimmungsgemäß verwendet sind und ob der Verbleib der Abdrucke von Gerichtskostenstemplern, falls sie sich nicht mehr in den Akten befinden, nachgewiesen ist;
 
 
 4.
+
+ob die Auslagen ordnungsgemäß vermerkt sind;
+
+
+5.
 
 ob bei Bewilligung von Prozess- oder Verfahrenskostenhilfe,
 
@@ -1390,10 +1124,10 @@ Verfahren bei der Kostenprüfung
 (2) Bei der Aktenprüfung ist auch darauf zu achten, dass die Sollstellungen und die ohne Sollstellung geleisteten Beträge in der vorgeschriebenen Weise nachgewiesen sind.
 
 
-(3) Bei der Nachprüfung der Verwendung von Gerichtskostenstemplern ist auch eine Anzahl älterer, insbesondere weggelegter Akten durchzusehen.
+(3) Bei der Nachprüfung der Verwendung von elektronischen Kostenmarken oder Gerichtskostenstemplern ist auch eine Anzahl älterer, insbesondere weggelegter Akten durchzusehen.
 
 
-(4) Bei der Prüfung der Aktenvermerke über die Auslagen (§ 41 Abs. 1 Nr. 3) ist stichprobenweise festzustellen, ob die Auslagen vorschriftsmäßig in den Sachakten vermerkt und beim Kostenansatz berücksichtigt sind.
+(4) Bei der Prüfung der Aktenvermerke über die Auslagen (§ 41 Abs. 1 Nr. 4) ist stichprobenweise festzustellen, ob die Auslagen vorschriftsmäßig in den Sachakten vermerkt und beim Kostenansatz berücksichtigt sind.
 
 
 § 43
@@ -1405,7 +1139,7 @@ Beanstandungen
 (2) An die Stelle der Berichtigung tritt ein Vermerk in der Niederschrift (§ 44), wenn eine gerichtliche Entscheidung ergangen ist oder der Kostenansatz auf einer Anordnung der Dienstaufsichtsbehörde beruht.
 
 
-(3) Die Beanstandungen (Absatz 1 Satz 1) sind für jede Sache auf einem besonderen Blatt zu verzeichnen, das zu den Akten zu nehmen ist. In dem Fall des Absatzes 1 Satz 2 sind sie in kürzester Form unter der Kostenrechnung zu vermerken.
+(3) Die Beanstandungen (Absatz 1 Satz 1) sind für jede Sache in einem besonderen Dokument zu verzeichnen, das zu den Akten zu nehmen ist.
 
 
 (4) Der Prüfungsbeamte vermerkt die Beanstandungen nach Absatz 1 außerdem in einer Nachweisung. Der Kostenbeamte ergänzt die Nachweisung durch Angabe des Zuordnungsmerkmals der Kassenanordnung oder der sonst erforderlichen Vermerke über die Erledigung; sodann gibt er sie dem Prüfungsbeamten zurück. Der Prüfungsbeamte stellt bei der nächsten Gelegenheit stichprobenweise fest, ob die entsprechenden Buchungen tatsächlich vorgenommen sind. Die Nachweisungen verwahrt er jahrgangsweise.
@@ -1482,9 +1216,9 @@ Fsn-Nr.: 32-V14.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. April 2022
+Fassung gültig ab:  1. Oktober 2023
 
-Fassung gültig bis: 30. September 2023
+Fassung gültig bis: 31. August 2024
 
 Drucken/Speichern
 
@@ -1509,7 +1243,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14004.4
+https://www.revosax.sachsen.de/vorschrift/14004.5
 Stand vom
 18.11.2026
 
