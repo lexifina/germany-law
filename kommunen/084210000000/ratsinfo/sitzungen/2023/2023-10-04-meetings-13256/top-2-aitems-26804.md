@@ -1,0 +1,7 @@
+# TOP 2: Verlängerung der Budgetvereinbarung mit der AG West e.V. zum Betrieb des Canapé Cafés für die Jahre 2024 - 2026
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2023-10-04)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/26804
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/10935
