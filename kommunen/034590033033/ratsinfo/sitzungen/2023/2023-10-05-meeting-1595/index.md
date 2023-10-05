@@ -1,0 +1,55 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2023-10-05T17:31:00+02:00
+- Ende: 2023-10-05T19:33:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVzQM-xGp2c1IMU_5UB0w70
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1595
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbHpzFuPwUsCjR1bxOOaOBmZIyhyr9dlEp9qPc4XeDjh/Bekanntmachung_Rat_05.10.2023.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaK0IqEcbncdToMX-58bvV3Q2joDcmSdJKZX_HyKkKtr/Oeffentliches_Beschlussprotokoll_Rat_05.10.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 04.07.2023
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Vereinfachung der bestehenden Verträge mit der Tourismusgesellschaft Osnabrücker Land mbH - Beendigung des Betrauungsaktes vom 31.03.2020 - Vereinfachung der Konsortialvereinbarung - Anpassung des Gesellschaftsvertrages - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Antrag der CDW/W-Fraktion zum Thema „Jung kauft Alt“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.3: Antrag der Fraktion Bündnis 90 / Die Grünen auf Einrichtung von Fahrradstraßen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Antrag der SPD-Fraktion auf Bereitstellung kostenloser Menstruationsartikel in öffentlichen Gebäuden und Schulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kindertagesstätten
+- TOP 5.1: Finanzierung Bundesfreiwilligendienst / Freiwilliges Soziales Jahr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sportangelegenheiten
+- TOP 6.1: Antrag TuS Eintracht Rulle zur Namensgebung der Sportanlage am Prozessionsweg - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Vereine und Bürgerengagement
+- TOP 7.1: Antrag des BürgerBus Wallenhorst-Wersen e.V. auf Gewährung von Zuschüssen für die Einrichtung einer weiteren Bürgerbuslinie - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Verkehrsangelegenheiten
+- TOP 8.1: Antrag der Fraktion ´Bündnis 90 / Die Grünen´ auf Verbesserung der Radverkehrssituation an der Kreuzung „Hollager Straße/Zum Sportplatz“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Entwicklung des ÖPNV in Wallenhorst
+- TOP 9.: Bauleitpläne
+- TOP 9.1: 4. Änderung des Bebauungsplanes Nr. 103 „Sportzentrum“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligungen - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.2: Bebauungsplan Nr. 173.6 „Brockhausen – Nördlich Spargelhof“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge im Rahmen der Beteiligungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Straßenbau
+- TOP 10.1: Anträge der Politik zum Kreuzungsbereich Große Straße/Franksmannstraße/ Alter Pyer Kirchweg und den Kreuzungsbereichen Ruller Straße/St. Bernhardsweg bzw. Klosterstraße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 11.1: Konzeptvergabe „Grüne Wiese“ hier: Beschluss über Losbildung und Jurybesetzung - mehrheitlich mit 21 Ja-Stimme(n), 1 Gegenstimme(n), 4 Stimmenthaltung(en) gefasst:
+- TOP 11.2: Antrag der CDU Fraktion auf Schaffung weiterer Gewerbeflächen in Wallenhorst - einstimmig, mit 3 Enthaltung(en) gefasst:
+- TOP 11.3: Reihenhaus Vermarktung Baugebiet „Westlich Stadtweg“ – Konzeptvergabe - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.4: ISEK und VU „Ortskern Hollage“ hier: Beschluss über die erneute Anmeldung zur Aufnahme in die Städtebauförderung - mehrheitlich mit 19 Ja-Stimme(n), 6 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.: Umwelt- und Energieangelegenheiten
+- TOP 12.1: Erhalt von Gemeindebäumen im Rahmen des Artenschutzes und der Klimafolgenanpassung - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 12.2: Antrag der Fraktion ´Bündnis 90 / Die Grünen´ auf zusätzliche Mittel in Höhe von 80.000 Euro für Zuschüsse des gemeindeeigenen Förderprogramms zur Umsetzung von Umwelt- und Klimaschutzmaßnahmen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Antrag der CDW-Fraktion auf Umsetzung einer kommunalen Wärmeplanung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Haushaltswirtschaft für das Jahr 2024 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2024
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Geschwindigkeitsverstöße Boerskamp / Wessels Straße
+- TOP 14.2: Abzugskanal an der Uhlandstraße
+- TOP 14.3: Lindenbäume an der Sandbachstraße
