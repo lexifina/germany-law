@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-03-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.7
+- Datum: 2023-10-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.03.2022
+06.10.2023
 bis
-05.10.2023
+05.09.2024
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -254,17 +254,12 @@ Zeugnis (Berufsschulpflichterfüllerklasse)
 
 A.02.07
 
-Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 1 der Schulordnung Berufsschule vom 24. Juli 2018 (SächsGVBl. S. 531), in der jeweils geltenden Fassung
+Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 1 der Schulordnung Berufsschule vom 24. Juli 2018 (SächsGVBl. S. 531), die durch Artikel 1 der Verordnung vom 9. September 2020 (SächsGVBl. S. 531) geändert worden ist, in der jeweils geltenden Fassung
 
 
 A.02.08
 
 Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 2 der Schulordnung Berufsschule, in der jeweils geltenden Fassung
-
-
-A.02.09
-
-Zeugnis über den mittleren Schulabschluss (staatlich genehmigte Ersatzschulen)
 
 
 B)
@@ -319,12 +314,17 @@ Halbjahresinformation
 
 B.02.02
 
-Jahreszeugnis (außer Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenten und Berufsfachschule für Operationstechnische Assistenten)
+Jahreszeugnis (außer Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenz und Berufsfachschule für Operationstechnische Assistenz)
 
 
 B.02.02a
 
-Jahreszeugnis Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenten und Berufsfachschule für Operationstechnische Assistenten
+Jahreszeugnis Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenz und Berufsfachschule für Operationstechnische Assistenz
+
+
+B.02.02b
+
+Jahreszeugnis Berufsfachschule für Pharmazeutisch-technische Assistenz
 
 
 B.02.03
@@ -344,7 +344,7 @@ Abschlusszeugnis Altenpflege
 
 B.03
 
-Berufsfachschule für Musikinstrumentenbauer/Berufsfachschule für Uhrmacher
+Berufsfachschule für Musikinstrumentenbau/Berufsfachschule für das Uhrmacherhandwerk
 
 
 B.03.01
@@ -532,49 +532,13 @@ F.01.04
 Bescheinigung über die erreichten Prüfungsleistungen (Prüfung zum Erwerb der Fachhochschulreife)
 
 
-G)
-
-Muster – Auslaufende Bildungsgänge an der Schulart Fachoberschule
-
-
-G.01.01
-
-Halbjahresinformation
-
-
-G.01.02
-
-Jahreszeugnis
-
-
-G.01.03
-
-Halbjahreszeugnis
-
-
-G.01.04
-
-Abgangszeugnis
-
-
-G.01.05
-
-Zeugnis über die Zuerkennung der Fachhochschulreife
-
-
-G.01.06
-
-Zeugnis über die Zuerkennung der Fachhochschulreife für Schulfremde
-
-
 V.
-Datum, Zeichnungsberechtigung und Siegelung
+Datum, Zeichnungsberechtigung, Siegelung und Personenstand
 
 
 1.
 
-Zeugnisse tragen in der Regel das Datum des für die Ausgabe vorgesehenen Tages
-
+Zeugnisse tragen in der Regel das Datum des für die Ausgabe vorgesehenen Tages.
 
 2.
 
@@ -583,44 +547,43 @@ Zeichnungsberechtigt sind folgende Personen:
 
 a)
 
-für die Halbjahresinformation der Klassenlehrer,
+für die Halbjahresinformation die klassenleitende Lehrkraft,
 
 
 b)
 
-für das Zeugnis über den mittleren Schulabschluss der Schulleiter,
+für das Zeugnis über den mittleren Schulabschluss die Schulleiterin oder der Schulleiter,
 
 
 c)
 
-für die sonstigen Zeugnisse der Klassenlehrer und der Schulleiter,
+für die sonstigen Zeugnisse die klassenleitende Lehrkraft und die Schulleiterin oder der Schulleiter,
 
 
 d)
 
-für Halbjahreszeugnisse der Jahrgangsstufen 12 und 13 und für Abgangszeugnisse des Beruflichen Gymnasiums, die nicht aufgrund des Beschlusses eines Prüfungsausschusses ausgestellt werden, der Tutor,
+für Halbjahreszeugnisse der Jahrgangsstufen 12 und 13 und für Abgangszeugnisse des Beruflichen Gymnasiums, die nicht aufgrund des Beschlusses eines Prüfungsausschusses ausgestellt werden, die Tutorin oder der Tutor,
 
 
 e)
 
-für Abschlusszeugnisse und Abgangszeugnisse, die aufgrund des Beschlusses eines Prüfungsausschusses ausgestellt werden, sowie für Bescheinigungen über die erreichten Prüfungsleistungen, der Vorsitzende des Prüfungsausschusses anstelle des Klassenlehrers. Der Vorsitzende des Prüfungsausschusses kann die Zeichnungsbefugnis einem anderen Mitglied des Prüfungsausschusses übertragen, wenn er auf dem Zeugnis bereits als Schulleiter unterzeichnet.
-
+für Abschlusszeugnisse und Abgangszeugnisse, die aufgrund des Beschlusses eines Prüfungsausschusses ausgestellt werden, sowie für Bescheinigungen über die erreichten Prüfungsleistungen, das vorsitzende Mitglied des Prüfungsausschusses anstelle der klassenleitenden Lehrkraft. Das vorsitzende Mitglied des Prüfungsausschusses kann die Zeichnungsbefugnis einem anderen Mitglied des Prüfungsausschusses übertragen, wenn diese bereits auf dem Zeugnis als Schulleiterin oder Schulleiter unterzeichnet haben.
 
 3.
 
-Von der Schulaufsichtsbehörde ausgestellte Zeugnisse unterzeichnet ein Vertreter dieser Behörde.
-
+Von der Schulaufsichtsbehörde ausgestellte Zeugnisse unterzeichnet eine Vertreterin oder ein Vertreter dieser Behörde.
 
 4.
 
 Zeugnisse und Bescheinigungen werden gesiegelt. Halbjahresinformationen werden nicht gesiegelt. Soweit staatlich anerkannte Ersatzschulen zur Siegelführung nicht berechtigt sind, verwenden sie anstelle des Dienstsiegels einen Stempel ihrer Einrichtung, der die Einschrift „Staatlich anerkannte Ersatzschule“ enthält.
 
-
 5.
 
-Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse für minderjährige Schüler sind von den Eltern zu unterschreiben.
+Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse minderjähriger Schülerinnen und Schüler sind von den Eltern zu unterschreiben. Jahreszeugnisse der Berufsschule und der Berufsfachschule für Altenpflege, für Hebammen und Entbindungspfleger sowie für Krankenpflege sind zusätzlich durch die Auszubildenden oder durch die Arbeitgeberin oder den Arbeitgeber oder die Träger der Ausbildung zu unterschreiben. Die klassenleitende Lehrkraft hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
 
-Jahreszeugnisse der Berufsschule und der Berufsfachschule für Altenpflege, für Hebammen und Entbindungspfleger sowie für Krankenpflege sind zusätzlich durch den Ausbildenden oder Arbeitgeber oder Träger der Ausbildung zu unterschreiben. Der Klassenlehrer hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
+6.
+
+Die Zeugnismuster können auf Antrag der zeugnisberechtigten Person jeweils ohne die Bezeichnungen Herr oder Frau ausgestellt werden. In diesen Fällen wird anstelle der Angabe <ER/SIE> der Vorname und Nachname in dem jeweiligen Zeugnismuster eingesetzt.
 
 
 VI.
@@ -634,7 +597,7 @@ Zeugnisse werden in der Regel am jeweils letzten Unterrichtstag im Schul- oder S
 
 2.
 
-Abschluss- und Abgangszeugnisse der Berufsschule werden nicht vor dem Ende des Berufsausbildungsverhältnisses ausgegeben. Abschluss- und Abgangszeugnisse der Berufsschule und der Berufsfachschule für anerkannte Ausbildungsberufe können gemeinsam mit dem Prüfungszeugnis gemäß § 37 des Berufsbildungsgesetzes vom  23. März 2005 (BGBl. I S. 931), das zuletzt durch Artikel 14 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2581) geändert worden ist, oder § 31 der Handwerksordnung in der Fassung  der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 6 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 2143) geändert worden ist, in der jeweils geltenden Fassung, ausgegeben werden.
+Abschluss- und Abgangszeugnisse der Berufsschule werden nicht vor dem Ende des Berufsausbildungsverhältnisses ausgegeben. Abschluss- und Abgangszeugnisse der Berufsschule und der Berufsfachschule für anerkannte Ausbildungsberufe können gemeinsam mit dem Prüfungszeugnis gemäß § 37 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das zuletzt durch Artikel 2 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1174) geändert worden ist, oder § 31 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I S. 2009) geändert worden ist, in der jeweils geltenden Fassung, ausgegeben werden.
 
 3.
 
@@ -645,7 +608,7 @@ VII.
 Zweitschriften
 
 
-Bei Verlust fertigt die Schule ein von ihr ausgestelltes Zeugnis erneut aus (Zweitschrift), wenn sie über die der Urschrift zu Grunde liegenden Daten verfügt. Zweitschriften werden vom Schulleiter unterzeichnet und tragen das Datum der Ausfertigung.
+Bei Verlust fertigt die Schule ein von ihr ausgestelltes Zeugnis erneut aus (Zweitschrift), wenn sie über die der Urschrift zu Grunde liegenden Daten verfügt. Zweitschriften werden von der Schulleiterin oder vom Schulleiter unterzeichnet und tragen das Datum der Ausfertigung.
 
 
 VIII.
@@ -678,8 +641,6 @@ Muster E
 
 Muster F
 
-Muster G
-
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -690,9 +651,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. März 2022
+Fassung gültig ab:  6. Oktober 2023
 
-Fassung gültig bis:  5. Oktober 2023
+Fassung gültig bis:  5. September 2024
 
 Drucken/Speichern
 
@@ -719,7 +680,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.7
+https://www.revosax.sachsen.de/vorschrift/17513.8
 Stand vom
 18.11.2026
 
