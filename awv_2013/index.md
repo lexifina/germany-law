@@ -7,7 +7,7 @@
 
 - [§ 1 Beantragung von Genehmigungen](0001.md)
 - [§ 2 Zertifikate nach Artikel 9 der Richtlinie 2009/43/EG](0002.md)
-- [§ 3 Formerfordernisse](0003.md)
+- [§ 3 Formerfordernisse; Verwaltungsportal und Fristlauf](0003.md)
 - [§ 4 Erteilung von Genehmigungen](0004.md)
 - [§ 5 Rückgabe von Verwaltungsakten](0005.md)
 - [§ 6 Aufbewahrung von Verwaltungsakten](0006.md)
@@ -36,7 +36,7 @@
 #### Unterabschnitt 1 Ausfuhr und Wiederausfuhr
 
 - [§ 12 Gestellung und Anmeldung](0012.md)
-- [§ 13 Ergänzende Vorschriften für die Gestellung und Anmeldung bei Seeschiffen](0013.md)
+- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Verfahren bei der zollamtlichen Behandlung](0014.md)
 - [§ 15 Vereinfachte Zollanmeldung](0015.md)
 - [§ 16 Anschreibung in der Buchführung des Anmelders](0016.md)
@@ -75,7 +75,7 @@
 - [§ 32 Einfuhrdokumente](0032.md)
 - [§ 33 Verfahren bei der Einfuhrabfertigung](0033.md)
 - [§ 34 Erhebung von Einfuhrdaten](0034.md)
-- [§ 35 Einfuhrkontrollmeldung](0035.md)
+- [§ 35 (weggefallen)](0035.md)
 - [§ 36 Vorherige Einfuhrüberwachung](0036.md)
 - [§ 37 Einfuhrabfertigung bei vorheriger Einfuhrüberwachung](0037.md)
 - [§ 38 Ursprungszeugnis und Ursprungserklärung](0038.md)
