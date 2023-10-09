@@ -1,0 +1,112 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-10-09T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7447100
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7447100
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Benennung einer / eines Gleichstellungsbeauftragten
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Bezahlbarer Wohnraum und Sendlinger Badespaß
+- TOP 2.2.: Einrichtung eines Fitnessstudios im Freien am Neuhofer Park
+- TOP 2.3.: Wahlplakate in der Brudermühlstraße
+- TOP 2.4.: Erhöhung der Verkehrssicherheit Durchfahrt Plinganser- über Lindenschmied- zur Impletstraße
+- TOP 2.5.: Antrag Gotzinger Platz Kinder- und Jugendforum Sendling
+- TOP 2.6.: Bitte um Unterstützung meines Lastenradverleihs am Harras
+- TOP 2.7.: Parklizenzgebiet Thalkirchner Str. 270-286 wirkungslos
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: ProjektplangengehmigungBA_H-SchaeftlarnstrHP8
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung in der Lindwurmstr.108
+- TOP 4.2.2.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG,Eisenbahnüberführung über die Tumblingerstraße, Vorprojektgenehmigung für die Verkehrsanlagen
+- TOP 4.2.3.: Umgestaltung Herzog-Ernst-Platz
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Einrichtung von Fahrradparkplätzen an der Oberländerstraße 31
+- TOP 4.3.2.: Erneuerung der Sitzbank auf der Straßenbegleitgrün-Fläche vor der Karwendelstr. 1
+- TOP 4.3.3.: Planungen des Neubaus der Maria-Probst-Realschule am Gotzinger Platz und die damit verbundene Verkehrssituation
+- TOP 4.3.4.: Baubeginn und anschließende Inbetriebnahme mit der STOB-Nr. 530145
+- TOP 4.3.5.: Verbot der Zweckentfremdung von Wohnraum in der Lindwurmstr. 108
+- TOP 4.3.6.: Baulisten
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Lokalisierungsnummern auf Parkbänken auch in Sendling
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Grünphase der Ampel in der Plinganserstraße im Bereich Neuhofener Anlagen Empfehlung Nr. 20-26 / E 00981 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022
+- TOP 5.1.2.: (E) + (U) Grünphase der Ampel vor der Stadtbibliothek an der Albert-Roßhaupter-Straße Empfehlung Nr. 20-26 / E 00980 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Widmung einer Teilstrecke des unbenannten Weges Nr. 39
+- TOP 5.2.2.: Aufstellung von Sitzgelegenheiten Bruderhofstr.
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Lärm an der Isar
+- TOP 5.3.2.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen
+- TOP 5.3.3.: Information über Schienenbearbeitungsarbeiten auf der Linie U3 zwischen Implerstraße und Fürstenried West
+- TOP 5.3.4.: Terminverschiebung für die Baustelle an der Schmied-Kochel-Straße
+- TOP 5.3.5.: Fahrradabstellanlagen im Bereich Lipowskystraße
+- TOP 5.3.6.: Fahrradabstellanlagen im Bereich südlich Brudermühlstraße
+- TOP 5.3.7.: Fristverlängerung_Mehr Raum für Fußgängerinnen in der Senserstraß
+- TOP 5.3.8.: Zwischennachricht Umgestaltung Alramstr.
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Antrag auf Fahrradabstellanlagen in der Meindlstraße
+- TOP 5.4.2.: Ampelanlage Plinganser-/Brudermühl-/Sylvensteinstraße
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Stiftung Kulturator “Mental Health Awareness Week im Impact Hub München vom 09.10.2023 – 13.10.2023“ 4.030,00 € / AZ: 0262.0-6-0462
+- TOP 6.1.2.: (E) Stadtbezirksbudget Stiftung Kulturator / Gute-Dinge-Stiftung “Tanz für Alle Tanztreff im HP8 / DanceAbility vom 29.10.2023 – 23.06.2024“ 9.952,75 € / AZ: 0262.0-6-0463
+- TOP 6.1.3.: (E) Stadtbezirksbudget “stay curious e.V.“ “Ausstellung in den Räumen von Pfeufer38 vom 14.07.2023 – 30.07.2023“ 600,00 € / AZ: 0262.0-6-0451
+- TOP 6.1.4.: (E) Stadtbezirksbudget “stay curious e.V.“ “Surren Sommerfest im PFEUFER38 am 16.07.2023“ 3.183,00 € / AZ: 0262.0-6-0452
+- TOP 6.1.5.: (E) Stadtbezirksbudget “stay curious e.V.“ ““Ausstellung Dämmerschlaf“ vom 27.10.2023 – 01.12.2023“ 12.850,00 € / AZ: 0262.0-6-0453
+- TOP 6.1.6.: (E) Stadtbezirksbudget Leocor gGmbH / Klimainitiative München “Klimatreff München vom 20.09.2023 – 30.04.2024“ 2.244,40 € / AZ: 0262.0-6-0461
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kulturblüten “Jonathan Gordon am 20.10.2023, Christoph Theussl und Thomas Franz am 14.10.2023, Trio Sophie Wegener am 10.11.2023 und Caro Kellev am 08.11.2023“ 6.050,00 € / AZ: 0262.0-6-0460
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Danke für die Zuwendung aus dem Stadtbezirksbudget
+- TOP 6.3.2.: Verwendungsnachweise
+- TOP 6.4.: Anträge
+- TOP 6.4.1.: Wertstoffentsorgung dort, wo der Müll entsteht! Eine Satzung zur Abfallentsorgung für München!
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Versorgung der Menschen (nicht nur) in der Unterkunft Meindlstraße 14a
+- TOP 7.3.2.: Planungen Sanierung des Altbaus der Schulen am Gotzinger Platz
+- TOP 7.3.3.: Der Initiativbericht von Maria Noichl
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Antrag städtische Leistungen Ferienpässe
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Auflösung Unterausschuss Kultur und Freizeit
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 6.2.1.: Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8.: Verbesserung der Lebensqualität am Harras
+- TOP 2.9.: Anwohnerparken Bavariastraße/ Wiesn
+- TOP 2.10.: BA München Sendling, Vorschlag Baumpflanzung und Hinweis Gefahrenstelle
+- TOP 2.11.: Status und Zeitplan Radentscheid Pfeuferstrasse.
+- TOP 4.5.1.: Unterstützung Blumengroßmarkt München
+- TOP 1.4.: Benennung einer/ eines Internetbeauftragten
+- TOP 6.1.8.: (E) Stadtbezirksbudget foolpool GbR “Das kleine VerWunderLand – Varieté vor der Haustür – aus München für München vom 01.04.2023 – 30.11.2023“ 9.300,00 € / AZ: 0262.0-6-0415
+- TOP 4.4.2.: Vollaufen lassen Antrag BA6 und Bürgerversammlung
