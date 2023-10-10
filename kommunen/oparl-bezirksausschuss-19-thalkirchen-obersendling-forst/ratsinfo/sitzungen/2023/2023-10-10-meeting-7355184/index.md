@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-10-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355184
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355184
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 12.09.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: - NACHTRAG - (A) Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Förderverein der Grundschule Herterichstraße e.V.: Workshop Körperwunderwerkstatt vom 17.10. bis 27.10.2023 1.318,70€; Az. 0262.0-19-0480
+- TOP 3.3.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V.: Aufstellen eines Christbaums am Thalkirchner Platz vom 29.11.2023 bis 10.01.2024 2.400,00 € / AZ 0262.0-19-0481
+- TOP 3.4.: (E) Stadtbezirksbudget Initiative "Malen in der Kirche" der Evangelisch-Lutherischen Andreaskirche Fürstenried: Kunst in der Kirche vom 01.10. bis 15.10.2023 472,50€; Az. 0262.0-19-0476
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verkehrsspiegel S-Bahnunterführung Beuerberger Straße / Sollner Straße
+- TOP 5.2.: (Antrag) Umgestaltung der Tölzer Straße zwischen Boschetsrieder Straße und Steinerstraße
+- TOP 5.3.: (U) Verkehrsrechtliche Anordnung: Einrichtung Schulbushaltestelle Kemptener Straße 6
+- TOP 5.4.: (Antrag) Parksituation Filchnerstraße und Umgebung
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot Forst-Kasten-Allee
+- TOP 5.6.: (Antrag) Kurzparkzone in der Forst-Kasten-Allee
+- TOP 5.7.: (A) Widmung einer Teilstrecke des unbenannten Weges Nr. 39 Sitzungsvorlage Nr. 20-26 / V 11055
+- TOP 5.8.: (A) Austausch der Lichtsignalanlage Kreuzung Drygalski-Allee / Gulbranssonstraße
+- TOP 5.9.: (A) Verkehrsrechtliche Anordnung: Aufhebung Schulbushaltestelle Zielstattstraße 74
+- TOP 5.10.: (A) Verkehrsrechtliche Anordnung: Absolutes Haltverbot Forstenrieder Allee 249 - 245
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: Hotelanfahrt Meglingerstraße 41d
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Forstenrieder Allee 144b (VB)
+- TOP 6.2.2: - abgesetzt -
+- TOP 6.2.3: Franz-Kaim-Straße 16 (VB)
+- TOP 6.2.4: - abgesetzt -
+- TOP 6.2.5: - abgesetzt -
+- TOP 6.2.6: Sallerweg 15 (VB)
+- TOP 6.2.7: Kleinstraße 2 (VB)
+- TOP 6.2.8: Baierbrunner Straße 91
+- TOP 6.2.9: Boschetsrieder Straße 54
+- TOP 6.2.10: Berner Straße 6
+- TOP 6.2.11: Blaichacher Straße 5
+- TOP 6.2.12: Kistlerhofstraße 176 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 6.3.: - NACHTRAG - (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Kurzbauerstraße 1
+- TOP 5.1.2: Gemeinsamer Fuß- und Radweg Südseite Herterichstraße zwischen der Grünfläche beim TSV Solln und der Petersenstraße
+- TOP 5.12.: (A) Verkehrsrechtliche Anordnung: Einrichtung einer Schulbushaltestelle Boschetsriederstraße 109
+- TOP 8.2.: - NACHTRAG - Änderung der BA-Satzung; Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 7.2.: Versorgung Besucher*innen Maria-Einsiedel-Bad sichern
