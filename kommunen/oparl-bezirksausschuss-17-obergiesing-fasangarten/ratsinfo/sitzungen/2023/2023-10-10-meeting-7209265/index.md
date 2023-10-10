@@ -1,0 +1,167 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2023-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7209265
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7209265
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Gesundheitsgefahren durch Blühwiesen (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen: Parkende Motoräder und Transporter vor dem Fenster in der Kesselbergstr. (FF UA MuV)
+- TOP 2.1.2.3.: Bürgeranliegen; Sammelcontainer Schlierseestr. 30 (FF UA Umwelt)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Dreisesselbergstr. 46
+- TOP 3.10.2.: Deisenhofener Str. 63 (Fristverlängerung bis 11.10.2023 nicht genehmigt)
+- TOP 3.10.3.: Fasangartenstr. 130; Fristablauf 10.10.2023, Fristverlängerung nicht möglich
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FFUA Umwelt - Vertagung aus der September-Sitzung) Leocor gGmbH /Klimainitiative München Klimatreff Giesing der Klimainitiative München vom 20.09.2023 -30.06.2024 2.050,00€; Az. 0262.0-17-0399
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Umwelt) Init. "Nachhaltigkeit" Nachhaltigkeitsforum am 14.10.2023 1.500,00€; Az. 0262.0-17-0406
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA FSA) Vertagung aus den Sitzungen v. August/September) Arbeiterwohlfahrt gemeinnützige Betriebs GmbH, Awo Föhrenpark "bestform" Sport kennt kein Alter 11.640,34 € / AZ.0262.0-17-0396
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA FSA) Foodsaving & More e.V. Nachhaltige Wiesnparty -"Wiesn für alle -Wiesn einmal anders!" am 30.09.2023 900,00€; Az. 0262.0-17-0407
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verwendungsnachweis; Ferien-und Familienpässe 2023 (FF UA FSA)
+- TOP 5.4.2.: Verwendungsnachweis; Resilienz-Training und Spiel & Bewegung
+- TOP 5.4.3.: Verwendungsnachweis; Inklusives Familienfest (UA FF FSA)
+- TOP 5.4.4.: Verwendungsnachweis; "Was soll der olle Schinken 2.0" (UA FF Kultur)
+- TOP 5.4.5.: Verwendungsnachweis; Elterninformation, Spiel - und Bastelangebot bei "Sommer im Park" (FF UA FSA)
+- TOP 5.4.6.: Verwendungsnachweis; Von Schäferstündchen und Heldentagten - Die besten Stories aus dem Mittelalter (UA FF Kultur)
+- TOP 5.4.7.: Verwendungsnachweis; "Ich und meine Tochter"(UA FF Kultur)
+- TOP 5.4.8.: Verwendungsnachweis; "Weihnachtszauber 2022" (UA FF FSA)
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Maurerstr. 20 - Abbruch einer Doppelhaushälfte incl. Nebenbauten und Neubau einer Doppelhaushälfte mit 2 vertikal getrennten Wohneinheiten und Neubau einer Fertiggarage, einem Geräteraum und einem offenen Stellplatz
+- TOP 6.1.3.2.: Tegernseer Landstr. 115 - Umbau Mittelgebäude: Neuer Dachstuhl, Fassade, Innenausbau
+- TOP 6.1.3.3.: Schwanseestr. 22 - Neubau einer Wohnanlage (89 WE) mit Tiefgarage (120 Stpl.) - ÄNDERUNGSANTRAG zu 1.2-2022-15133-33 -
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Scharfreiterplatz" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA´s hier: Scharfreiterstr.
+- TOP 6.1.4.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA`s hier: Maurerstr.
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.1.6.1.: Integriertes Digitales Entwicklungskonzept im Handlungsraum 3
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Aufstellen einer orangen Bank im 17. Stadtbezirk; Antrag auf Bestellung einer städtischen Leistung
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Stellungnahme zum Erhalt der päd. Hilfskraftstelle MS Perlacher Straße
+- TOP 6.2.4.2.: Rauchen im öffentlichen Raum vor dem Anton-Fingerle Zentrum (AFZ)
+- TOP 6.2.4.3.: Bestellung von Ferienpässen Jahr 2024
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Spureinfädlung Chiemgaustraße / Tegernseer Landstraße Zum BA - Antrag Nr. 20-26/3304 des BA 17 vom 10.11.2022
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Baumaßnahme - Eisenbahnunterführung zwischen Orleanstr. und St.-Cajetan Str.
+- TOP 6.3.4.2.: (U) Verkehrliche Neuordnung der Tegernseer Landstraße – Umgestaltung des Tegernseer Platzes Vorstellung des Gestaltungskonzeptes einschließlich der Ergebnisse aus der Bürgerbeteiligung und weiteres Vorgehen im 17. Stadtbezirk Obergiesing - Fasangarten
+- TOP 6.3.4.3.: Der Radverkehr im Bereich des Ostendes der Tegernseer Landstraße soll durch eine geänderte Markierung besser geschützt werden!
+- TOP 6.3.4.4.: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 6.3.4.5.: Arbeiten im Straßenraum Werinherstr., zwischen Ungsteiner- und Schlierseestr. - Straßenbauarbeiten Bauphase 5c
+- TOP 6.3.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Lincolnstr. Tegernseer Landstr. Bereich Autobahnanschlussstelle München-Giesing
+- TOP 6.3.4.7.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOP - Boxen als städtische Leistungen; Erhöhung der Gebühren
+- TOP 6.3.5.: Anträge
+- TOP 6.3.5.1.: Antrag auf einen Fahrradabstellplatz vor dem Giesinger Stadtteilladen
+- TOP 6.3.6.: Sonstiges
+- TOP 6.3.6.1.: Offener Brief; Umgestaltung Werinherstraße
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Versetzung einer Wertstoffinsel Weißenseestraße
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Vollzug des Bayer. Naturschutzgesetzes und der Baumschutzverordnung Fällungsantrag; Hohenschwangauplatz 25-35 - Bescheid
+- TOP 6.4.4.2.: Bürgeranliegen; Begrünung Brünnsteinstraße
+- TOP 6.4.4.3.: Bürgeranliegen; Antrag/Anfrage Eschenbachstr. Ecke Hohenschwangauplatz Rasenpoller/ 30iger Zone/ Anwohnerstraße/ Reinigung Straßenschilder (FF UA Verkehr) - Antwort Kommunalreferat
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Vollzug der städt. Grünanlagensatzung hier: Pop up stage, Weißenseepark am 08.08.2023
+- TOP 6.5.4.2.: Vollzug der städt. Grünanlagensatzung ; hier: Gottesdienst Weißenseepark am 10.09.2023
+- TOP 6.5.4.3.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: VerWunderland, Red Dragon Lincolnstr. 60
+- TOP 6.5.4.4.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: Kinderflohmarkt, St. Martin Platz
+- TOP 6.5.4.5.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: Spendenlauf für Kindergarten St. Helena
+- TOP 6.5.4.6.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: Spieleaktion zum Welterkindertag, Weißenseepark
+- TOP 6.5.4.7.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: Festival der Marionetten, Weißenseepark
+- TOP 6.5.4.8.: Vollzug der städt. Grünanlagensatzung - Ausnahmegenehmigung hier: Spiel-und Bewegungsangebot für Kinder, Weißenseepark
+- TOP 6.5.4.9.: Vollzug des Bay. Straßen- und Wegegesetzes; Erteilung einer öffentl. -rechtlichen Sondernutzungserlaubnis hier: Fahrradsicherheitscheck am Giesinger Bahnhof
+- TOP 6.5.4.10.: Vollzug des § 29 StVO und Art. 19 LStVG; Veranstaltung auf öffentlichen Verkehrsgrund und auf Privatgrund hier: Ois Giasing 2023
+- TOP 6.5.4.11.: Vollzug des Bayer. Straßen-und Wegegesetzes (BayStrWG); Erteilung einer öffentl.- rechtlichen Sondernutzungserlaubnis hier: Demokratiemobil München, Giesinger Bahnhof und Anton-Fingerle Zentrum
+- TOP 6.5.4.12.: Vollzug des Bayer. Straßen- und Wegegesetzes (BayStr.WG); Erteilung einer öffentl.- rechtlichen Sondernutzungserlaubnis hier: Hidalgo-Refugium, Giesinger Bahnhof
+- TOP 6.5.4.13.: Veranstaltung auf öffentlichen Verkehrsgrund; Eilige Anhörung - hier: OpenQ zusätzliche Veranstaltungen - Vorabstellungnahme durch die BA - Vorsitzende_
+- TOP 6.5.4.14.: Veranstaltung auf öffentlichen Verkehrsgrund: hier: Giesinger Bahnhofsfest
+- TOP 6.5.4.15.: Nachnutzung für die Gebäudehülle des alten Krematoriums am Ostfriedhof
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Aufstellung eines Müllereimers vor der Eintrachtstr. 16
+- TOP 6.6.4.2.: Weihnachtsmarkt auf dem Ella-Lingens Platz und vor dem Kirchplatz Hl. Kreuz
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 7.2.2.: Hypridsitzungen / Terminabfrage 2024 (Vertagung aus der Sitzung vom 12.09.2023)
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.1.4.4.: Abbruch Wirtstr.
+- TOP 6.4.4.4.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV; hier: nächtliche Arbeiten im Bereich Stadelheimer Str. ab 09.10.2023
+- TOP 7.3.1.: Anhörung der Bezirksausschüsse zu Änderung der BA - Satzung und Geschäftsordnung
