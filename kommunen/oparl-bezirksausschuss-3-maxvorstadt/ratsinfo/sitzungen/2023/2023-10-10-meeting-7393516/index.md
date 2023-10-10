@@ -1,0 +1,124 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Überarbeitung der Webseite www.spielplatz-muenchen.de der Landeshauptstadt München (LHM) und Anbringung von QR-Codes an den Spielplätzen im Bezirk bzw. stadtweit (vertagt aus 08/23 und 09/23)
+- TOP 6.2.: Umwandlung der Grünfläche entlang der Luisenstraße / Zieblandstraße in eine Blumenwiese
+- TOP 6.3.: Quo Vadis Gesundheitshaus? – Runder Tisch zur künftigen Nutzung
+- TOP 5.2: Vorstellungen
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: Fraktionsübergreifende Coronagruppe
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 26.09.2023 Luftmessung am Altstadtringtunnel ab Eröffnung und Wiederherstellung der Oberfläche
+- TOP 1.2.2.: Antrag Grüne vom 26.09.2023 Einsatz des Stadtklimamodells „PALM-4U“
+- TOP 1.2.3.: BR-Studiobau erhalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten der LBK: KW 36 - 38
+- TOP 2.1.2.: WEB-Listen der LBK
+- TOP 2.1.3.: Kaulbachstr. 47, Abbruch eines Bestandsgebäudes und Neubau von Mietwohnungen - Vorbescheid | 18.10.2023
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Rambergstr. 6: Abbruch und Neubau eines Studentenwohnheims mit Kita - mit Mobilitätskonzept - VORBESCHEID |13.10.2023
+- TOP 3.1.2.: Heßstr. 49, Anhebung des Dachs, Neubau eines Wohngebäudes im Innenhof mit Garagen, Neubau von Balkonen im Innenhof Var. 1 - VORBESCHEID I 22.10.2023
+- TOP 3.1.3.: Heßstr. 49, Anhebung des Dachs, Neubau eines Wohngebäudes im Innenhof mit Garagen, Neubau von Balkonen im Innenhof Var. 2 - VORBESCHEID I 22.10.2023
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 5.2.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 5.3.: Verwendungsnachweise und Kurzberichte zu bezuschussten Projekten: a) Münchner Mieter*innen Stammtisch b) Umweltbildung für die 4. Klassen der Grundschule an der Blutenburgstraße
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Sonntags-Disco auf dem Bernd-Eichinger.Pl. Bürger*innenanliegen vom 10.09.2023
+- TOP 1.1.2.: Verkehrs-/Baustellensituation sowie die Ausweitung der Gastronomie im Karree Türkenstraße, Schellingstraße, Amalienstraße, Theresienstraße
+- TOP 1.1.3.: Errichtung von Fahrradabstellanlagen: Heßstr. 45, Georgen-/Ecke Schraudolphstraße; Neureutherstr. 16; vertagt aus 09/23 Bürger*innenanliegen vom 25.08.2023
+- TOP 1.1.4.: Verkehrsführung zu Veranstaltungszeiten und gleichzeitiger Sperrung der Ludwigstraße Bürger*innenanliegen vom 14.09.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 26.09.2023 Radaufstellflächen prüfen
+- TOP 1.2.2.: Antrag Grüne vom 26.09.2023 Wiederanbringung des Radstreifens (Vorbeifahrstreifen) am südlichen Ende der Sophienstraße
+- TOP 1.2.3.: Antrag Grüne vom 26.09.2023 Anbringen eines Blinklichts „Achtung Radverkehr“ an der Kreuzung Schelling-/Ludwigstraße
+- TOP 1.2.4.: Nachfragen zur Maillingerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Änderung der Parkregelung in der Linprunstraße zwischen Erzgießereistraße und Sandstraße
+- TOP 2.1.2.: Parksituation Schönfeldviertel: Bewohnerparken Kaulbachstraße beibehalten
+- TOP 2.1.3.: Rückverlegung einer Hotelanfahrtszone aus der Linprun- in die Erzgießereistraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Heßstr. 36, Antrag auf Aufstellung einer Sitzgelegenheit I 22.10.2023
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Antrag auf Genehmigung einer Freischankfläche der Gaststätte „Max Emanuel Brauerei“, Adalbertstr. 33 (Bitte der BI um erneute Beschlussfassung)
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Karl-Stützel-Platz | Anhörung § 29 StVO für PULS Festival 2023 am 04.11.2023
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen: a) „Mischparken“ in der Türkenstraße b) Schackstraße, Einmündung Ludwigstraße, Einrichtung eines zusätzlichen Behindertenparkplatzes c) Anpassungen im Lizenzgebiet Schleißheimer Straße d) Arbeiten im Straßenraum; Oberflächensanierung Altstadtringtunnel, Ludwigsstraße, Von-der-Tann-Straße e) Einrichtung eines absoluten Halteverbots, Nymphenburger Straße f) Gleiserneuerung in der Barer Straße g) Gleiserneuerung in der Barer Straße / Nordendstraße
+- TOP 3.2.: Mülleinsammlung ab 05:30 Uhr im Umgriff Königsplatz, Brienner Straße, Ottostraße, Barer Straße
+- TOP 3.3.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städtische Leistung: Erhöhung der Kosten
+- TOP 3.4.: Erlaubnisbescheid Eröffnung Kunstkiosk am Josephsplatz | 20.09.2023
+- TOP 3.5.: HIDALGO "Refugium" – holografische Installation mit Musik und Tanz in einem Sprinter-Bus, Grünanlage Arnulfpark vom 28.09. bis 29.09.2023
+- TOP 3.6.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung der Elisenstraße (Stadtbezirk 3) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 3.7.: Richtlinien für Hol- und Bringzonen bei Kindertagesstätten, Antwort MOR
+- TOP 3.8.: Genehmigungsbescheid ICF-Kinder- und Familienprogramm am 15.10.2023 im Arnulfpark
+- TOP 3.9.: Info-Flyer der Stadtwerke München a) Fernwärmeprojekt Nymphenburger Straße b) Telekommunikationsprojekt Arcisstraße - Seidlstraße
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 26.09.2023 Kinder- und Jugendversammlung des BA 3 im 1. Halbjahr 2024
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Türkenstraße 68 “Tanzprojekt für Grundschulen 2. Klassen November 2023 – April 2024“ 1.925,00 € 7 AZ: 0262.0-3-0488
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise und Kurzberichte zu bezuschussten Projekten: a) Offene Kinder- und Jugendarbeit Arnulfpark b) „stark und selbstsicher‘“ Präventionskurse für die 3. Klassen der Grundschule Türkenstraße c) Selbstbehauptungskurse an der Grundschule an der Blutenburgstraße d) „Kicklusion“-Spielenachmittage im Maßmannpark e) Ausbildungswochenende der Refugee Law Clinic
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 22.09.2023 Bewerbung der Maxvorstadt als Street-Art-Pilotbezirk
+- TOP 1.2.2.: Antrag Grüne vom 22.09.2023 Standorte für Graffiti im Umgriff des Kunstareals
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Hip-Hop for Woman" Hip-Hop for Woman, Life, Freedom am 28.10.2023 4.500,00 Euro, Az.: 0262.0-3-0491
+- TOP 2.2.: (E) Stadtbezirksbudget Salievito GmbH - AMARI Bar Weinfest am 02./03.09.2023 4.848,00 Euro, Az.: 0262.0-3-0489
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise und Kurzberichte zu bezuschussten Projekten: a) Filmworkshop für Kinder und Jugendliche b) Punchline Comedy Event c) Chorprojekt „Über Wasser“ d) Einsatz des Demokratiemobils beim Kinder- und Bürger*innenfest
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Abrechnung Kinder- und Bürgerfest
+- TOP 1.2.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.1.1.: Adamstrasse 4 // Zweckentfremdung AirBnB
+- TOP 1.2.4.: Eilantrag AIRBNB Zweckentfremdung Adamstr. 4
+- TOP 1.1.5.: Parksituation Tengstraße
+- TOP 1.2.3.: Eilantrag: Sanierung Hochschule für Musik und Theater – Beteiligung des BA
+- TOP 1.3.: Anhörung zum BA-Antrag Nr. 20-26 / B05899 des BA 15, "Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund"
+- TOP 2.3.: (E) Stadtbezirksbudget Isarlust e.V. #kulturlieferdienst goes Karl-Stützel-Platz von 06/2023 - 09/2023 4.105,00 Euro, Az.: 0262.0-3-0479
