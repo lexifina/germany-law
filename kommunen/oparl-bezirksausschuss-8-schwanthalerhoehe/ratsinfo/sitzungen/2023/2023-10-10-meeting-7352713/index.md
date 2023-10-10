@@ -1,0 +1,95 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352713
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352713
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Schanigarten Westendstraße 138 ganzjährig stehen lassen
+- TOP 4.2.: Einrichtung von Fahrradstellplätzen vor dem Anwesen Ligsalzstraße 8; Baumpflanzungen in der Ligsalzstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Parkstraße 1
+- TOP 6.2.2.: Bauvorhaben Ligsalzstraße 4
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Online-Beteiligung in der Bauleitplanung der Landeshauptstadt München
+- TOP 6.3.3.: Hitzeschutz für die Asphaltflächen am Bahndeckel
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Städtische Spielplätze inklusionsgerecht gestalten
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Wasserschaden Kita Trappentreustraße 44 - 46
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Runder Tisch Oktoberfest am 08.12.2023
+- TOP 8.3.2.: Versammlung am Georg-Freundorfer-Platz am 16.09.2023
+- TOP 8.3.3.: Oldtimer Shuttle zur Langen Nacht der Museen Am Bavariapark am 14.10.2023
+- TOP 8.3.4.: Versammlung am Schneckenplatz am 03.10.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Mehr Verkehrsüberwachung im Viertel
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einsatz von TOPO-Boxen als städtische Leistung für Bezirksausschüsse
+- TOP 9.3.2.: Fahrtrichtungsänderung in der Einbahnstraße Holzapfelstrasse von der Landsbergerstr. Richtung Westendstrasse
+- TOP 9.3.3.: Parksituation in der Hans-Fischer-Straße in der Zeit des Oktoberfestes
+- TOP 9.3.4.: Oktoberfest 2023 - zusätzliches Haltverbot Schwanthalerstraße
+- TOP 9.3.5.: Verbesserung Parksituation Geroltstraße / Bergmannstraße; Schaffung lizenzgebietübergreifender Parkmöglichkeit
+- TOP 9.3.6.: Umwandlung der PKW-Stellplätze im nordöstlichen Bereich der Schnaderböckstraße in Abstellflächen für Fahrräder, Tretroller und Kinderscooter
+- TOP 9.3.7.: Baustelleneinrichtung Astallerstraße
+- TOP 9.3.8.: Parkplatzsperrungen vor dem Anwesen Kazmairstr. 17
+- TOP 9.3.9.: Jahresgespräch mit dem Mobilitätsreferat 2023
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Auferstehungskirche München Westend "Westend-Vibes" am 26.10.2023 und 13.12.2023 3.142,00€; Az. 0262.0-8-0369
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Sport für alle kostenlos und niederschwellig - Errichtung von barrierearmen Outdoor Fitnessgeräten für alle Altersgruppen in der Schwanthalerhöhe
+- TOP 11.2.: Besserer Schutz für Bäume, Pflanzen und Blumen
+- TOP 11.3.: Berichtsantrag: Nutzung der eingezäunten Fläche am ehemaligen Gärtnerhaus als Parkplatz am Wiesn-Eröffnungstag
+- TOP 11.4.: Mehr Sauberkeit durch eine größere Zahl von Abfalleimern und häufigere Reinigung der Spielplätze; an die Bürgerinnen und Bürger appelliert der BA, sich aktiv an der Müllvermeidung zu beteiligen
+- TOP 11.5.: Einrichtung von mehr Erfrischungsmöglichkeiten, wie der Wasserstellen am Bahndeckel, z.B. im Bavariapark und in der Schießstättstraße; Erweiterung des Spielplatzes vor dem „Schwanthaler Forum“ Ecke Schießstättstraße / Gollierstraße
+- TOP 11.6.: „Sommerprojekt Kazmairallee“ verstetigen!
+- TOP 11.7.: „Fahrradreparaturstation UMLENKEN“ verstetigen!
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Informationsschreiben Hybridsitzungen - Terminabfrage 2024
+- TOP 12.3.2.: Antwortschreiben der Referate - Veröffentlichung Sachbearbeiter*innen-Daten im RIS
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.1.: - NACHTRAG - Oktoberfest 2023 Schluss- und Erfahrungsbericht
+- TOP 8.3.5.: - NACHTRAG - Versammlung am Georg-Freundorfer-Platz am 02.10.2023
+- TOP 9.2.1.: - NACHTRAG - Baumfällung Tulbeckstraße 5 - 5a
+- TOP 11.8.: - NACHTRAG - Anlaufstelle Inklusion für die Schwanthalerhöhe
+- TOP 12.2.1.: Folgeänderungen der BA-Satzung aufgrund von Änderungen der Gemeindeordnung
+- TOP 6.3.4.: -NACHTRAG- Straßenbauarbeiten an der Schrenkstraße
+- TOP 11.9.: - NACHTRAG - Mehr Aufenthaltsqualität für den Heimeranplatz
+- TOP 4.3.: -NACHTRAG- Parkplätze für Carsharing
+- TOP 9.3.10.: -NACHTRAG- Einladung zur VCD Debatte am 19.Oktober 2023 um 19 Uhr
+- TOP 9.3.11.: -NACHTRAG- Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Westendstraße
+- TOP 11.10.: -NACHTRAG- Obstbäume und essbare Pflanzen auf der Schwanthalerhöhe
+- TOP 9.3.12.: -NACHTRAG- Schießstättstr. 4-22: Herstellung einer Querungsmöglichkeit Einbahnregelung
+- TOP 9.3.13.: -NACHTRAG- Westendstr.35/47: Fernwärme Hausanschluss Vollsperre
+- TOP 11.11.: -NACHTRAG- Dauerhafte Beschilderung „Spielplatz ohne Rauch und Rausch“
+- TOP 11.12.: -NACHTRAG- Appell für Frieden - Solidarität mit Israel
+- TOP 12.2.2.: Änderung BA-Satzung: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund; BA-Antrag Nr. 20-26 / B05899 des BA 15
