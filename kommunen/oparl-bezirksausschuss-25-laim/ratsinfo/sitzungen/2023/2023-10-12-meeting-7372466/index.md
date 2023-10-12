@@ -1,0 +1,87 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372466
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372466
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: SV Laim: Freisportanlage während U-Bahn Baustelleneinrichtung
+- TOP 2: Anträge
+- TOP 2.1.: Da geht noch mehr! Spielplatz Jörgplatz
+- TOP 2.2.: Eröffnung U-Bahnhof an der Willibaldstraße
+- TOP 2.3.: Verpflanzung möglichst vieler zur Fällung vorgesehenen Bäume im Rahmen der Baustelle Tram-Westtangente
+- TOP 2.4.: Fußgänger- und Fahrradsteg nach Nymphenburg bei Planung der Feuerwache Laim berücksichtigen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Kirchenstiftung Zu den Heiligen Zwölf Aposteln, Kita-Verbund, Kita St. Ulrich 30-jähriges Jubiläum des Hauses der Kita St. Ulrich 4.490,77 Euro; Az. 0262.0-25-0310
+- TOP 3.2.: (E) Stadtbezirksbudget Terra Media Akademie e.V. Lebensmut tanken - Zukunft gemeinsam gestalten vom 25.10. - 31.12.2023 2.350,00 Euro, Az.: 0262.0-25-0311
+- TOP 3.3.: (E) Stadtbezirksbudget Initiative "Hühnerstall" Mural "Hühnerstall" vom 11.09. - 01.10.2023 4.578,65 Euro, Az.: 0262.0-25-0312
+- TOP 3.4.: (E) Stadtbezirksbudget Paul-Gerhardt-Chor München-Laim Konzert am 22.10.2023 2.000,00 Euro, Az.: 0262.0-25-0313
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 19.09.23: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mithilfe einer TOPO-Box in der Camerloherstraße - Bestellung einer Städtischen Leistung
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 12.09.23: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städtische Leistung: Erhöhung der Kosten
+- TOP 4.4.: Schreiben Mobilitätsreferat vom 08.09.23: Tempo 30 in der Elsenheimer Straße
+- TOP 4.5.: Schreiben Baureferat vom 31.08.23: Orangene Sitzbank: Kein Platz für Gewalt gegen Frauen Standort: Am Laimer Anger beim Bücherschrank
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Schreiben Baureferat vom 31.08.23: Erinnerungsverfahren Hogenbergplatz
+- TOP 5.2.: Schreiben Baureferat vom 31.08.23: Erinnerungsverfahren Valpichlerstraße
+- TOP 5.3.: Erweiterung und Umbau Doppelhaushälfte Pöhlmannstr. 12, Grundstück: 12/12-Laim (Frist: 16.10.23)
+- TOP 5.4.: Neubau als Ersatzbau einer Doppelhaushälfte mit Garage Baudererstr. 20, Grundstück: 1575/165-Pasing (Frist: 16.10.23)
+- TOP 5.5.: Umbau einer Doppelhaushälfte mit Ausbau des Dachgeschosses, Errichtung zweier Gauben und energetische Sanierung Weiß-Ferdl-Str. 25, Grundstück: 327/42-Großhadern (Frist: 16.10.23)
+- TOP 5.6.: Umbau und Erweiterung des bestehenden Wohnhauses Eringerstr. 24, Grundstück: 1575/112-Pasing (Frist: 21.10.23)
+- TOP 5.7.: Nutzungsänderung einer Ladenfläche zu einer Sportstätte Landsberger Str. 344, Grunstück: 239/0-Laim (Frist: 21.10.23)
+- TOP 5.8.: Aufstockung eines Gewerbegebäudes mit Errichtung eines Stadthotels - VORBESCHEID Landsberger Str. 208, Grundstück: 238/7-Neuhausen (Frist: 21.10.23)
+- TOP 6: Sonstiges
+- TOP 6.1.: Stadtteilwoche in Laim im Jahre 2024 vom 20.06.-26.06.24
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 14.09.23
+- TOP 7.2.: Protokoll UA Bau vom 13.09.23
+- TOP 7.3.: Protokoll UA Umwelt, Klima und Baumschutz vom 12.09.23
+- TOP 7.4.: Protokoll UA Mobilität vom 18.07.23
+- TOP 8: Umlauf
+- TOP 8.1.: Scheiben Referat für Stadtplanung und Bauordnung vom 21.08.23: Camerloherstr., Flnr. 171/3, Gemarkung Laim Neubau zweier Mehrparteinhäuser (8WE) mit Reihenhäusrn (ges. 3 WE) und einer TG (Camerloherstr./Stroblstr.)
+- TOP 8.2.: Bautenliste 11.09.23-17.09.23: A) Erstantragsverfahren 1. Landsberger Str. 344 2. Eringerstr. 24 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 208
+- TOP 8.3.: Bautenliste 28.08.23-03.09.23: A) Erstantragsverfahren 1. Riegerhofstr. 18 2. Weiß-Ferdl-Str. 25
+- TOP 8.4.: Bautenliste 21.08.-27.08.23: A) Erstantragsverfahren 1. Pöhlmannstr. 12
+- TOP 8.5.: Bautenliste 18.09.-24.09.23: A) Erstantragsverfahren 1. Lautensackstr. 15 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Westendstr.
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.09.23: Fällungsgenehmigung Elsenheimerstr. 20
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.09.23: Fällungsgenehmigung Burgkmairstr. 40
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.09.23: Planfeststellungsbeschluss vom 04.09.23 zur Tram-Westtangente (Abschnitt 1, Tektur A und Tektur B)
+- TOP 8.9.: Schreiben Baureferat vom 28.08.23: Bäume entlang der Landsberger Straße
+- TOP 8.10.: Schreiben Baureferat vom 15.09.23: Beschilderung aller bestehenden und zukünftig umgesetzten Wildblumenwiesen im Bezirk
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 19.09.23: Ausnahmegenehmigung Veranstaltungen Hidalgo Refugium
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 19.09.23: Änderung der Parkordnung Droste Hülshoff-Str. 5
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 14.09.23: Verlängerung des absoluten Haltverbotes Landsberger Str. 318-320
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 06.09.23: Gehweg in der Fürstenrieder Straße für Fußgänger*innen freihalten BA-Antrags-Nr. 20-26 / B 02125 des Bezirksausschusses des Stadtbezirkes 25 - Laim vom 15.04.2021 Hier: Fristverlängerung
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 25.09.23: Radabstellanlage an der Laimer S-Bahn
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 15.09.23: Unzulässiges Parken von Kfz im Kreuzungsbereich unterbinden
+- TOP 8.17.: Schreiben Referat für Bildung und Sport vom 25.08.23: Haus für Kinder (KITZ) an der Zschokkestraße/Hans-Thonauer-Straße
+- TOP 8.18.: Schreiben Referat für Bildung und Sport vom 13.09.23: Dienststellenverständigung für die KITA Trappentreustr. 44-46
+- TOP 8.19.: Schreiben Referat für Bildung und Sport vom 19.09.23: Essenversorgung der Kinder in Grundschulen und städt. Betreuungseinrichtungen BV-Anfrage vom 18.10.22
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 22.08.23: Mehr Klarheit zum Ausbau der Fernwärme
+- TOP 8.21.: Schreiben Kommunalreferat vom 25.09.23: Stromversorgung bei Veranstaltungen
+- TOP 8.22.: Schreiben SWM vom 06.09.23: Info QR-Code an Fahrzeugen
+- TOP 8.23.: Schreiben SWM vom 25.09.23: Baumaßnahmen
+- TOP 8.24.: Beschluss des Mobilitätsausschusses vom 27.09.23: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.23 Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.23 Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Gehwegparken in Laim / Agricolastraße (Weiterleitung an PI 41)
+- TOP 9.2.: Seniorenresidenz Westpark (Vertagung in den UA Soziales)
+- TOP 9.3.: Verkehrssituation in Laim (Nr. 1, Vertagung in den UA Mobilität) (Nr. 2, Weitergabe an PI 41)
+- TOP 9.4.: Sitzbank Gotthardstraße 46 (Kenntnisnahme und Bürgerinfo)
+- TOP 9.5.: Hochhäuser Postareal (Kenntnisnahme und Bürgerinfo)
+- TOP 9.6.: Unlesbare Postzustellung Maxstadtstraße (Weiterleitung an Post und Bürgerinfo)
+- TOP 9.7.: Hausmüllentsorgung , Geyerspergerstrasse (Weitergabe an AWM)
+- TOP 2.5.: (Nachtrag) Eine gemeinsame Veranstaltung des BA 07 und des BA 25 Überblick über die zu erwartenden Kosten für die Gedenkveranstaltung zum Gedenken an die Pogromnacht des 09.11.1938, am 09.11.2023
+- TOP 4.6.: (Nachtrag): Schreiben Direktorium vom 29.09.23: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 4.7.: (Nachtrag) Schreiben Direktorium vom 10.10.23: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
