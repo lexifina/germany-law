@@ -1,4 +1,4 @@
-# Verordnung über das Register für Musterfeststellungsklagen
+# Verordnung über das Register für Verbandsklagen
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Register für Musterfeststellungsklagen](0001.md)
