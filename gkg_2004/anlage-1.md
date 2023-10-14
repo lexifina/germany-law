@@ -39,6 +39,7 @@
 |  |  | Unterabschnitt 1 |  |  | Erster Rechtszug |
 |  |  | Unterabschnitt 2 |  |  | Beschwerde |
 |  | Abschnitt 5 | Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
+|  | Abschnitt 6 | Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
 |  |  |  |
 | Hauptabschnitt 7 |  | Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 |  |  |  |
@@ -260,7 +261,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 | Unterabschnitt 2 Verfahren vor dem Oberlandesgericht |
 | 1212 | Verfahren im Allgemeinen .......... | 4,0 |
 | 1213 | Beendigung des gesamten Verfahrens, durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht, oderc)im Fall des § 331 Abs. 3 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält,3.gerichtlichen Vergleich oder4.Erledigungserklärungen nach § 91a ZPO, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,es sei denn, dass bereits ein anderes als eines der in Nummer 2 genannten Urteile vorausgegangen ist: Die Gebühr 1212 ermäßigt sich auf .......... | 2,0 |
-|  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. |  |
+|  | Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind. Im Verfahren über eine Abhilfeklage nach dem VDuG ist die Ermäßigung nicht dadurch ausgeschlossen, dass ein Abhilfegrundurteil vorausgegangen ist. |  |
 | Unterabschnitt 3 Verfahren vor dem Bundesgerichtshof |
 | 1214 | Verfahren im Allgemeinen .......... | 5,0 |
 | 1215 | Beendigung des gesamten Verfahrens durch 1.Zurücknahme der Klage a)vor dem Schluss der mündlichen Verhandlung,b)in den Fällen des § 128 Abs. 2 ZPO vor dem Zeitpunkt, der dem Schluss der mündlichen Verhandlung entspricht, oderc)im Fall des § 331 Abs. 3 ZPO vor Ablauf des Tages, an dem das Urteil der Geschäftsstelle übermittelt wird,wenn keine Entscheidung nach § 269 Abs. 3 Satz 3 ZPO über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt,2.Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält, |  |
@@ -371,9 +372,11 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 |  | (1) Die Gebühr ermäßigt sich auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Entscheidung der Geschäftsstelle übermittelt wird. (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung der Parteien über die Kostentragung oder der Kostenübernahmeerklärung einer Partei folgt. |  |
 | Abschnitt 5 Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
 | 1650 | Sanierungsverfahren .......... | 0,5 |
-| 1651 | Die Durchführung des Sanierungsverfahrens wird nicht angeordnet: Die Gebühr 1650 beträgt .......... | 0,2 |
+| 1651 | Die Durchführung des Sanierungsverfahrens wird nicht angeordnet:Die Gebühr 1650 beträgt .......... | 0,2 |
 | 1652 | Reorganisationsverfahren .......... | 1,0 |
-| 1653 | Die Durchführung des Reorganisationsverfahrens wird nicht angeordnet: Die Gebühr 1652 beträgt .......... | 0,2 |
+| 1653 | Die Durchführung des Reorganisationsverfahrens wird nicht angeordnet:Die Gebühr 1652 beträgt .......... | 0,2 |
+| Abschnitt 6 Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
+| 1660 | Umsetzungsverfahren nach dem VDuG | 1,0 |
 | Hauptabschnitt 7 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 | 1700 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, auch i. V. m. § 122a PatG oder § 89a MarkenG, § 69 GWB, § 41 AgrarOLkG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
 | Hauptabschnitt 8 Sonstige Beschwerden und Rechtsbeschwerden |

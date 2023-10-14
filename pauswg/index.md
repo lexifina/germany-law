@@ -21,14 +21,14 @@
 - [§ 10a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät](0010a.md)
 - [§ 11 Informationspflichten](0011.md)
 - [§ 12 Form und Verfahren der Datenerfassung, -prüfung und -übermittlung](0012.md)
-- [§ 13 Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort](0013.md)
+- [§ 13 (weggefallen)](0013.md)
 
 ## Abschnitt 3 Umgang mit personenbezogenen Daten
 
 - [§ 14 Erhebung und Verwendung personenbezogener Daten](0014.md)
 - [§ 15 Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden](0015.md)
-- [§ 16 (weggefallen)](0016.md)
-- [§ 17 Identitätsüberprüfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identitätsfeststellung berechtigte Behörden](0017.md)
+- [§ 16 Echtheitsprüfung und Identitätsprüfung; Verarbeitung von Personalausweisdaten](0016.md)
+- [§ 17 Verarbeitung der sichtbaren Daten des Personalausweises](0017.md)
 - [§ 18 Elektronischer Identitätsnachweis](0018.md)
 - [§ 18a Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden](0018a.md)
 - [§ 19 Speicherung im Rahmen des elektronischen Identitätsnachweises](0019.md)

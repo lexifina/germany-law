@@ -23,7 +23,7 @@
 
 - [§ 10 Grundsatz für die Abhängigmachung](0010.md)
 - [§ 11 Verfahren nach dem Arbeitsgerichtsgesetz](0011.md)
-- [§ 12 Verfahren nach der Zivilprozessordnung](0012.md)
+- [§ 12 Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung](0012.md)
 - [§ 12a Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren](0012a.md)
 - [§ 13 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung](0013.md)
 - [§ 13a Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz](0013a.md)
@@ -48,6 +48,7 @@
 - [§ 25 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung](0025.md)
 - [§ 25a Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz](0025a.md)
 - [§ 26 Zwangsversteigerungs- und Zwangsverwaltungsverfahren](0026.md)
+- [§ 26a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz](0026a.md)
 - [§ 27 Bußgeldsachen](0027.md)
 - [§ 28 Auslagen in weiteren Fällen](0028.md)
 - [§ 29 Weitere Fälle der Kostenhaftung](0029.md)
@@ -96,6 +97,7 @@
 - [§ 57 Zwangsliquidation einer Bahneinheit](0057.md)
 - [§ 58 Insolvenzverfahren](0058.md)
 - [§ 59 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung](0059.md)
+- [§ 59a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz](0059a.md)
 - [§ 60 Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes](0060.md)
 
 ### Unterabschnitt 3 Wertfestsetzung

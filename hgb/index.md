@@ -680,7 +680,7 @@ Rückstellungen
 - [§ 342o Bußgeldvorschriften](0342o.md)
 - [§ 342p Ordnungsgelder](0342p.md)
 
-### Fünfter Abschnitt Privates Rechnungslegungsgremium. Rechnungslegungsbeirat
+### Fünfter Abschnitt Privates Rechnungslegungsgremium; Rechnungslegungsbeirat
 
 - [§ 342q Privates Rechnungslegungsgremium](0342q.md)
 - [§ 342r Rechnungslegungsbeirat](0342r.md)
@@ -840,7 +840,7 @@ Beförderungsmitteln](0452c.md)
 
 - [§ 453 Speditionsvertrag](0453.md)
 - [§ 454 Besorgung der Versendung](0454.md)
-- [§ 455 Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten](0455.md)
+- [§ 455 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten](0455.md)
 - [§ 456 Fälligkeit der Vergütung](0456.md)
 - [§ 457 Forderungen des Versenders](0457.md)
 - [§ 458 Selbsteintritt](0458.md)
@@ -856,11 +856,11 @@ Beförderungsmitteln](0452c.md)
 ### Sechster Abschnitt Lagergeschäft
 
 - [§ 467 Lagervertrag](0467.md)
-- [§ 468 Behandlung des Gutes, Begleitpapiere, Mitteilungs- und Auskunftspflichten](0468.md)
+- [§ 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten](0468.md)
 - [§ 469 Sammellagerung](0469.md)
 - [§ 470 Empfang des Gutes](0470.md)
 - [§ 471 Erhaltung des Gutes](0471.md)
-- [§ 472 Versicherung, Einlagerung bei einem Dritten](0472.md)
+- [§ 472 Versicherung. Einlagerung bei einem Dritten](0472.md)
 - [§ 473 Dauer der Lagerung](0473.md)
 - [§ 474 Aufwendungsersatz](0474.md)
 - [§ 475 Haftung für Verlust oder Beschädigung](0475.md)

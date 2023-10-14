@@ -14,6 +14,7 @@
 - [§ 8 Behandlung des Antrags](0008.md)
 - [§ 9 Schlichtungsvorschlag](0009.md)
 - [§ 10 Kosten des Verfahrens](0010.md)
+- [§ 10a Bescheinigung über einen erfolglosen Schlichtungsversuch](0010a.md)
 
 ## Abschnitt 2 Anerkannte Verbraucherschlichtungsstellen
 

@@ -51,7 +51,6 @@
 | § 32 | Besonderer Gerichtsstand der unerlaubten Handlung |
 | § 32a | Ausschließlicher Gerichtsstand der Umwelteinwirkung |
 | § 32b | Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen |
-| § 32c | Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren |
 | § 33 | Besonderer Gerichtsstand der Widerklage |
 | § 34 | Besonderer Gerichtsstand des Hauptprozesses |
 | § 35 | Wahl unter mehreren Gerichtsständen |
@@ -755,17 +754,8 @@
 | § 605a | Scheckprozess |
 |  |
 | Buch 6 |
-| Musterfeststellungsverfahren |
-| § 606 | Musterfeststellungsklage |
-| § 607 | Bekanntmachung der Musterfeststellungsklage |
-| § 608 | Anmeldung von Ansprüchen oder Rechtsverhältnissen |
-| § 609 | Klageregister; Verordnungsermächtigung |
-| § 610 | Besonderheiten der Musterfeststellungsklage |
-| § 611 | Vergleich |
-| § 612 | Bekanntmachungen zum Musterfeststellungsurteil |
-| § 613 | Bindungswirkung des Musterfeststellungsurteils; Aussetzung |
-| § 614 | Rechtsmittel |
-| § 615 bis 687 | (weggefallen) |
+| (weggefallen) |
+| § 606 bis 687 | (weggefallen) |
 |  |
 | Buch 7 |
 | Mahnverfahren |

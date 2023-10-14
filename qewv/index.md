@@ -2,22 +2,22 @@
 
 - [Eingangsformel](eingangsformel.md)
 
-## Abschnitt 1 Qualifizierte Einrichtungen
+## Abschnitt 1 Qualifizierte Verbraucherverbände
 
 
-### Unterabschnitt 1 Eintragung in die Liste der qualifizierten Einrichtungen nach § 4 des Unterlassungsklagengesetzes
+### Unterabschnitt 1 Eintragung in die Liste der qualifizierten Verbraucherverbände nach § 4 des Unterlassungsklagengesetzes
 
-- [§ 1 Antrag auf Eintragung in die Liste der qualifizierten Einrichtungen](0001.md)
+- [§ 1 Antrag auf Eintragung in die Liste der qualifizierten Verbraucherverbände](0001.md)
 - [§ 2 Angaben zu den Mitgliedern des Vereins](0002.md)
 - [§ 3 Angaben zu den Organmitgliedern](0003.md)
 - [§ 4 Angaben zur Tätigkeit des Vereins](0004.md)
 - [§ 5 Angaben zur sachlichen und personellen Ausstattung des Vereins](0005.md)
 - [§ 6 Angaben zur finanziellen Ausstattung des Vereins](0006.md)
 
-### Unterabschnitt 2 Überprüfung und Änderung der Eintragungen in der Liste der qualifizierten Einrichtungen
+### Unterabschnitt 2 Überprüfung und Änderung der Eintragungen in der Liste der qualifizierten Verbraucherverbände
 
-- [§ 7 Mitteilungspflichten der qualifizierten Einrichtungen](0007.md)
-- [§ 8 Antrag auf Aufhebung der Eintragung in der Liste](0008.md)
+- [§ 7 Mitteilungspflichten der qualifizierten Verbraucherverbände](0007.md)
+- [§ 8 Aufhebung der Eintragung in der Liste der qualifizierten Verbraucherverbände auf Antrag](0008.md)
 - [§ 9 Verfahren zur Überprüfung der Eintragung](0009.md)
 
 ## Abschnitt 2 Qualifizierte Wirtschaftsverbände
@@ -37,12 +37,19 @@
 - [§ 16 Mitteilungspflichten der qualifizierten Wirtschaftsverbände](0016.md)
 - [§ 17 Verfahren zur Überprüfung der Eintragung und Aufhebung der Eintragung](0017.md)
 
-## Abschnitt 3 Jährliche Berichtspflichten
+## Abschnitt 3 Liste der qualifizierten Einrichtungen für grenzüberschreitende Verbandsklagen nach § 4d des Unterlassungsklagengesetzes
 
-- [§ 18 Inhalt der Berichtsplichten](0018.md)
-- [§ 19 Nachfrist zur Erfüllung der Berichtspflichten](0019.md)
+- [§ 18 Antrag auf Eintragung in die Liste der qualifizierten Einrichtungen nach § 4d des Unterlassungsklagengesetzes](0018.md)
+- [§ 19 Mitteilungspflichten der qualifizierten Einrichtungen](0019.md)
+- [§ 20 Aufhebung der Eintragung in der Liste der qualifizierten Einrichtungen auf Antrag](0020.md)
+- [§ 21 Überprüfung einer Eintragung in der Liste der qualifizierten Einrichtungen](0021.md)
 
-## Abschnitt 4 Ordnungswidrigkeiten; Schlussbestimmung
+## Abschnitt 4 Jährliche Berichtspflichten
 
-- [§ 20 Ordnungswidrigkeiten](0020.md)
-- [§ 21 Inkrafttreten](0021.md)
+- [§ 22 Inhalt der Berichtsplichten](0022.md)
+- [§ 23 Nachfrist zur Erfüllung der Berichtspflichten](0023.md)
+
+## Abschnitt 5 Ordnungswidrigkeiten; Schlussbestimmung
+
+- [§ 24 Ordnungswidrigkeiten](0024.md)
+- [§ 25 Inkrafttreten](0025.md)

@@ -4,9 +4,9 @@
 ## Erster Abschnitt Paßvorschriften
 
 - [§ 1 Passpflicht](0001.md)
-- [§ 2 Befreiung von der Paßpflicht](0002.md)
+- [§ 2 Befreiung von der Passpflicht; Verordnungsermächtigung](0002.md)
 - [§ 3 Grenzübertritt](0003.md)
-- [§ 4 Paßmuster](0004.md)
+- [§ 4 Passmuster; Verordnungsermächtigung](0004.md)
 - [§ 5 Gültigkeitsdauer](0005.md)
 - [§ 6 Ausstellung eines Passes](0006.md)
 - [§ 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung](0006a.md)
@@ -20,7 +20,8 @@
 - [§ 14 Sofortige Vollziehung](0014.md)
 - [§ 15 Pflichten des Inhabers](0015.md)
 - [§ 16 Datenschutzrechtliche Bestimmungen](0016.md)
-- [§ 16a Identitätsüberprüfung anhand biometrischer Daten](0016a.md)
+- [§ 16a Echtheitsüberprüfung und Identitätsprüfung; Verarbeitung von Passdaten](0016a.md)
+- [§ 16b Verarbeitung der sichtbaren Daten des Passes](0016b.md)
 - [§ 17 Automatischer Abruf aus Dateien und automatische Speicherung im öffentlichen Bereich](0017.md)
 - [§ 18 Verwendung im nichtöffentlichen Bereich](0018.md)
 - [§ 19 Zuständigkeit](0019.md)

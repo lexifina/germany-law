@@ -43,6 +43,7 @@
 | § 23 | Allgemeine Wertvorschrift |
 | § 23a | Gegenstandswert im Verfahren über die Prozesskostenhilfe |
 | § 23b | Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz |
+| § 23c | Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
 | § 24 | Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz |
 | § 25 | Gegenstandswert in der Vollstreckung und bei der Vollziehung |
 | § 26 | Gegenstandswert in der Zwangsversteigerung |

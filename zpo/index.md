@@ -55,7 +55,6 @@ Gerichte und Wertvorschriften
 - [§ 32 Besonderer Gerichtsstand der unerlaubten Handlung](0032.md)
 - [§ 32a Ausschließlicher Gerichtsstand der Umwelteinwirkung](0032a.md)
 - [§ 32b Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen](0032b.md)
-- [§ 32c Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren](0032c.md)
 - [§ 33 Besonderer Gerichtsstand der Widerklage](0033.md)
 - [§ 34 Besonderer Gerichtsstand des Hauptprozesses](0034.md)
 - [§ 35 Wahl unter mehreren Gerichtsständen](0035.md)
@@ -777,17 +776,9 @@ Amtsgerichten
 - [§ 605 Beweisvorschriften](0605.md)
 - [§ 605a Scheckprozess](0605a.md)
 
-## Buch 6 Musterfeststellungsverfahren
+## Buch 6 (weggefallen)
 
-- [§ 606 Musterfeststellungsklage](0606.md)
-- [§ 607 Bekanntmachung der Musterfeststellungsklage](0607.md)
-- [§ 608 Anmeldung von Ansprüchen oder Rechtsverhältnissen](0608.md)
-- [§ 609 Klageregister; Verordnungsermächtigung](0609.md)
-- [§ 610 Besonderheiten der Musterfeststellungsklage](0610.md)
-- [§ 611 Vergleich](0611.md)
-- [§ 612 Bekanntmachungen zum Musterfeststellungsurteil](0612.md)
-- [§ 613 Bindungswirkung des Musterfeststellungsurteils; Aussetzung](0613.md)
-- [§ 614 Rechtsmittel](0614.md)
+- [(XXXX) §§ 606 bis 614 (weggefallen)](xxxx-606-bis-614.md)
 - [(XXXX) §§ 615 bis 687 (weggefallen)](xxxx-615-bis-687.md)
 
 ## Buch 7 Mahnverfahren

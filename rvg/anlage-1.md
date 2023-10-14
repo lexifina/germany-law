@@ -252,6 +252,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 | 3337 | Vorzeitige Beendigung des Auftrags im Fall der Nummern 3324 bis 3327, 3334 und 3335: Die Gebühren 3324 bis 3327, 3334 und 3335 betragen höchstens .......... | 0,5 |
 |  | Eine vorzeitige Beendigung liegt vor, 1.wenn der Auftrag endigt, bevor der Rechtsanwalt den das Verfahren einleitenden Antrag oder einen Schriftsatz, der Sachanträge, Sachvortrag oder die Zurücknahme des Antrags enthält, eingereicht oder bevor er einen gerichtlichen Termin wahrgenommen hat, oder2.soweit lediglich beantragt ist, eine Einigung der Parteien oder der Beteiligten zu Protokoll zu nehmen oder soweit lediglich Verhandlungen vor Gericht zur Einigung geführt werden. |  |
 | 3338 | Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) .......... | 0,8 |
+| 3339 | Verfahrensgebühr für das Umsetzungsverfahren nach dem VDuG ..........Bei der Vertretung mehrerer Verbraucher, die verschiedene Ansprüche geltend machen, entsteht die Gebühr jeweils besonders. | 0,5 |
 | Abschnitt 4 Einzeltätigkeiten |
 | Vorbemerkung 3.4: Für in diesem Abschnitt genannte Tätigkeiten entsteht eine Terminsgebühr nur, wenn dies ausdrücklich bestimmt ist. |
 | 3400 | Der Auftrag beschränkt sich auf die Führung des Verkehrs der Partei oder des Beteiligten mit dem Verfahrensbevollmächtigten: Verfahrensgebühr .......... | in Höhe der dem Verfahrens- bevollmächtigten zustehenden Verfahrensgebühr, höchstens 1,0, bei Betragsrahmen- gebühren höchstens 500,00 € |

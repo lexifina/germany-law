@@ -19,7 +19,7 @@
 | Vorschuss und Vorauszahlung |
 | § 10 | Grundsatz für die Abhängigmachung |
 | § 11 | Verfahren nach dem Arbeitsgerichtsgesetz |
-| § 12 | Verfahren nach der Zivilprozessordnung |
+| § 12 | Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung |
 | § 12a | Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren |
 | § 13 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
 | § 13a | Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
@@ -42,6 +42,7 @@
 | § 25 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
 | § 25a | Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz |
 | § 26 | Zwangsversteigerungs- und Zwangsverwaltungsverfahren |
+| § 26a | Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
 | § 27 | Bußgeldsachen |
 | § 28 | Auslagen in weiteren Fällen |
 | § 29 | Weitere Fälle der Kostenhaftung |
@@ -86,6 +87,7 @@
 | § 57 | Zwangsliquidation einer Bahneinheit |
 | § 58 | Insolvenzverfahren |
 | § 59 | Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung |
+| § 59a | Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz |
 | § 60 | Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes |
 | Unterabschnitt 3 |
 | Wertfestsetzung |

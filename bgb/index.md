@@ -289,6 +289,7 @@ der Verjährung
 
 - [§ 203 Hemmung der Verjährung bei Verhandlungen](0203.md)
 - [§ 204 Hemmung der Verjährung durch Rechtsverfolgung](0204.md)
+- [§ 204a Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qualifizierten Verbraucherverbänden oder qualifizierten Einrichtungen](0204a.md)
 - [§ 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht](0205.md)
 - [§ 206 Hemmung der Verjährung bei höherer Gewalt](0206.md)
 - [§ 207 Hemmung der Verjährung aus familiären und ähnlichen Gründen](0207.md)
