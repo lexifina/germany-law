@@ -1,8 +1,8 @@
 # Förderrichtlinie Ökologischer/Biologischer Landbau Vollzitat: Förderrichtlinie Ökologischer/Biologischer Landbau
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-10-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.1
+- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.10.2022
+16.10.2023
 bis
-15.10.2023
+22.08.2024
 
 Förderrichtlinie Ökologischer/Biologischer Landbau
 
@@ -64,7 +64,7 @@ Förderung
 Gegenstand der Förderung
 
 
-Gegenstand der Förderung ist die Einführung oder Beibehaltung eines ökologischen Anbauverfahrens nach dem jeweils geltenden GAP-Strategieplan für die Bundesrepublik Deutschland in der Förderperiode 2023–2027 in Verbindung mit der Verordnung (EU) 2018/848.
+Gegenstand der Förderung ist die Einführung oder Beibehaltung eines ökologischen Anbauverfahrens nach dem jeweils geltenden GAP-Strategieplan für die Bundesrepublik Deutschland in der Förderperiode 2023–2027 in Verbindung mit der Verordnung (EU) 2018/848 und den zugehörigen Durchführungsregelungen in der jeweils geltenden Fassung.
 
 
 Folgende Maßnahmen sind im Sinne dieser Förderrichtlinie förderfähig:
@@ -230,7 +230,7 @@ Die erhöhte Zuwendung bei der Einführung des ökologischen/biologischen Landba
 Die erhöhte Zuwendung kann auch Betrieben gewährt werden, die bereits antragstellende Person nach dieser Förderrichtlinie sind und einen Flächenzugang innerhalb eines Verpflichtungsjahres von mehr als 50 Prozent landwirtschaftlich genutzter Flächen haben, die noch nicht auf ökologischen Landbau umgestellt sind und auch nicht Teil eines nach der Verordnung (EU) 2018/848 kontrollierten und zertifizierten Betriebes waren.
 
 
-Für den zusätzlichen Arbeitszeitbedarf für die Betriebsführung, beschränkt auf die Bereiche Aufzeichnungen, Antragswesen, Information und Weiterbildung, zur Erfüllung der Vorgaben aus der Verordnung (EU) Nr. 2018/848 und der zu ihrer Durchführung erlassenen gemeinschaftsrechtlichen Vorschriften in der jeweils geltenden Fassung, kann sich die Zuwendung um 40 Euro je Hektar, jedoch höchstens um 550 Euro je Betrieb zum Ausgleich der erforderlichen betrieblichen Transaktionskosten nach Artikel 70 Absatz 4 der EU-GAP-Strategieplan-Verordnung erhöhen.
+Für den zusätzlichen Arbeitszeitbedarf für die Betriebsführung, beschränkt auf die Bereiche Aufzeichnungen, Antragswesen, Information und Weiterbildung, zur Erfüllung der Vorgaben aus der Verordnung (EU) Nr. 2018/848 und den zugehörigen Durchführungsregelungen in der jeweils geltenden Fassung, kann sich die Zuwendung um 40 Euro je Hektar, jedoch höchstens um 550 Euro je Betrieb zum Ausgleich der erforderlichen betrieblichen Transaktionskosten nach Artikel 70 Absatz 4 der EU-GAP-Strategieplan-Verordnung erhöhen.
 
 5.
 
@@ -255,7 +255,7 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie AUK/2023
 
 
-Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 förderfähig.
+Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 (SächsABl. 2023 S. 369), in der jeweils geltenden Fassung, förderfähig.
 
 5.1.3
 
@@ -279,7 +279,7 @@ die Ackerlandmaßnahmen der Förderrichtlinie ISA/2021 I_AL 1 und I_AL 2 können
 Kombination mit Förderrichtlinie AZL/2015
 
 
-Die Ausgleichszulage für benachteiligte Gebiete nach der Förderrichtlinie Ausgleichszulage (Förderrichtlinie AZL/2015)  vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 19. März 2020 (SächsABl. S. 416) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, kann zusätzlich in Anspruch genommen werden.
+Die Ausgleichszulage für benachteiligte Gebiete nach der Förderrichtlinie Ausgleichszulage (Förderrichtlinie AZL/2015)  vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 17. März 2023 (SächsABl. S. 458) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, kann zusätzlich in Anspruch genommen werden.
 
 5.2
 
@@ -321,7 +321,7 @@ Für nachfolgende Flächen werden keine Zuwendungen nach dieser Förderrichtlini
 
 a)
 
-aus der Erzeugung genommene Flächen, Brachen und Stilllegungsflächen sowie Flächen, die überwiegend der Landschaftspflege dienen,
+aus der Erzeugung genommene Flächen, Brachen und Stilllegungsflächen sowie Flächen, die überwiegend der Landschaftspflege dienen, soweit es sich hierbei nicht um die Flächen handelt, die zur Erfüllung der Verpflichtungen nach §19 GAPKondV dienen und dementsprechend angemeldet werden,
 
 
 b)
@@ -541,14 +541,14 @@ Teilnahmeantrag
 Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen notwendig.
 
 
-Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis spätestens 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr bei der Bewilligungsbehörde zu stellen (Ausschlussfrist).
+Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr bei der Bewilligungsbehörde zu stellen (Ausschlussfrist).
 
 2.1.2
 
 Auszahlungsantrag
 
 
-Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis spätestens 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
+Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
 
 
 Mit dem Auszahlungsantrag wird von den Begünstigten die Einhaltung der eingegangenen Verpflichtungen bestätigt.
@@ -562,7 +562,7 @@ Bewilligungsverfahren
 Bestätigung zum Teilnahmeantrag
 
 
-Die Bewilligungsbehörde prüft die Antragsangaben und bestätigt die Teilnahme am Programm für die beantragten Maßnahmen einschließlich des Verpflichtungszeitraums je Maßnahme. Antragstellende, deren Anträgen nicht entsprochen werden kann, erhalten eine Ablehnung unter Angabe der die Entscheidung tragenden Gründe.
+Die Bewilligungsbehörde prüft die Antragsangaben und bestätigt die Teilnahme am Programm einschließlich des Verpflichtungszeitraums. Antragstellende, deren Anträgen nicht entsprochen werden kann, erhalten eine Ablehnung unter Angabe der die Entscheidung tragenden Gründe.
 
 2.2.2
 
@@ -610,7 +610,7 @@ c)
 keine Mehrfachförderung erfolgt.
 
 
-Die Fördervoraussetzungen und Förderverpflichtungen werden im Rahmen von Verwaltungskontrollen sowie im Rahmen des Flächenüberwachungssystems (AMS) überprüft. Die mittels Sentinel-Satellitenbildern kontrollierbaren Prüfinhalte werden flächendeckend kontrolliert. Die Prüfinhalte, die nicht mittels Sentinel-Satellitenbildern auswertbar sind, werden stichprobenbasiert innerhalb des Verpflichtungszeitraumes durch physische Vor-Ort-Kontrollen überprüft. Diese können durch Beibringung von geeigneten Nachweisen ergänzt werden.
+Die Fördervoraussetzungen und Förderverpflichtungen werden im Rahmen von Verwaltungskontrollen sowie im Rahmen des Flächenüberwachungssystems (AMS) überprüft. Die mittels Sentinel-Satellitenbildern kontrollierbaren Prüfinhalte werden flächendeckend kontrolliert. Die Prüfinhalte, die nicht mittels Sentinel-Satellitenbildern auswertbar sind, werden stichprobenbasiert innerhalb des Verpflichtungszeitraumes durch Vor-Ort-Kontrollen überprüft. Diese können durch Beibringung von geeigneten Nachweisen erfolgen oder ergänzt werden.
 
 
 Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des InVeKoS.
@@ -696,15 +696,15 @@ Es gelten insbesondere die nachfolgenden Bestimmungen in der jeweils geltenden F
 
 1.
 
-die ÖLG-Kontrollstellen-Zulassungsverordnung vom 7. Mai 2012 (BGBl. I S. 1044), die durch Artikel 144 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist,
+die ÖLG-Durchführungsverordnung vom 26. Juli 2023 (BGBl. 2023 I Nr. 206),
 
 2.
 
-die Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018), die durch die Delegierte Verordnung (EU) 2022/474 der Kommission vom 17. Januar 2022 (ABl. L 98 vom 25.3.2022) geändert worden ist,
+die Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018), die durch die Delegierte Verordnung (EU) 2023/207 der Kommission vom 24. November 2022 (ABl. L 29 vom 1.2.2023) geändert worden ist,
 
 3.
 
-das Öko-Landbaugesetz vom 7. Dezember 2008 (BGBl. I S. 2358), das zuletzt durch Artikel 110 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist,
+das Öko-Landbaugesetz vom 7. Dezember 2008 (BGBl. I S. 2358), das zuletzt durch Artikel 1 des Gesetzes vom 17. August 2023 (BGBl. 2023 I Nr. 219) geändert worden ist,
 
 4.
 
@@ -752,7 +752,7 @@ das GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) vom 10
 
 15.
 
-die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1),
+die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist,
 
 16.
 
@@ -760,7 +760,7 @@ das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022
 
 17.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 30. November 2022 (BAnz AT 01.12.2022 V1) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 29. August 2023 (BGBl. 2023 I Nr. 238) geändert worden ist,
 
 18.
 
@@ -786,6 +786,7 @@ das Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und 
 
 § 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist.
 
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -796,9 +797,9 @@ Fsn-Nr.: 5563-V23.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Oktober 2022
+Fassung gültig ab: 16. Oktober 2023
 
-Fassung gültig bis: 15. Oktober 2023
+Fassung gültig bis: 22. August 2024
 
 Drucken/Speichern
 
@@ -823,7 +824,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19908.1
+https://www.revosax.sachsen.de/vorschrift/19908.2
 Stand vom
 18.11.2026
 
