@@ -1,8 +1,8 @@
 # Förderrichtlinie Agrarumwelt- und Klimamaßnahmen Vollzitat: Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-10-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.1
+- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.10.2022
+16.10.2023
 bis
-15.10.2023
+11.03.2024
 
 Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
@@ -223,7 +223,7 @@ förderfähige Maßnahmen
 
 | GL 2b
 
-| Neues Dauergrünland aus Ackerland in Überflutungsauen und auf Moorflächen
+| Neues Dauergrünland aus Ackerland vor allem in Überflutungsauen und auf Moorflächen
 
 
 | GL 3a
@@ -305,13 +305,9 @@ Begünstigte im Sinne dieser Förderrichtlinie sind natürliche oder juristische
 
 2.
 
-Bei den Maßnahmen AL 5a, AL 5b und AL 5c dieser Förderrichtlinie dürfen die Begünstigten kein Mitglied einer Erzeugerorganisation im Sektor Obst und Gemüse gemäß Artikel 152 ff. der Verordnung (EU) Nr. 1308/2013 sein.
-
-3.
-
 Unternehmen in Schwierigkeiten im Sinne von Artikel 2 Nummer 59 der Verordnung (EU) 2022/2472 sind von einer Förderung ausgeschlossen.
 
-4.
+3.
 
 Bei den Maßnahmen AL 14 und GL 10 dieser Förderrichtlinie sind zusätzlich Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind, ausgeschlossen.
 
@@ -376,7 +372,7 @@ Die erstmalig vergebene Schlag- oder Streifenbezeichnung ist über die Dauer der
 Für Maßnahmen auf Ackerland sind Bestandslücken durch Vernässung, Trockenheit, Frostschäden und ähnlichem bis zu einem Anteil von 10 Prozent der Fläche des Bruttoschlages möglich.
 
 
-Bei den Maßnahmen AL 1, AL 2, AL 3, AL 4, AL 5c, AL 6a, AL 6b, AL 7, AL 8, AL 9 und AL 11 sind Herbstaussaaten beziehungsweise Herbstansaaten von der Maßnahme entsprechenden Winterkulturen vor Beginn des Verpflichtungszeitraumes beziehungsweise vor Beginn des relevanten Verpflichtungsjahres zulässig.
+Bei den Maßnahmen AL 1, AL 2, AL 3, AL 4, AL 5c, AL 6a, AL 6b, AL 7, AL 8, AL 9 und AL 11 sind Herbstaussaaten von der Maßnahme entsprechenden Winterkulturen vor Beginn des Verpflichtungszeitraumes beziehungsweise vor Beginn des relevanten Verpflichtungsjahres zulässig.
 
 
 Für die Maßnahmen AL 5a, AL 5b, AL 5c, AL 6a, AL 6b, AL 7, AL 13 sowie für Maßnahmen auf Grünland sind Ausnahmen von einzelnen Förderverpflichtungen, die über die in den einzelnen Maßnahmen genannten Ausnahmen hinausgehen, nur in begründeten Einzelfällen möglich, wenn die Zielstellung der ursprünglichen Förderverpflichtung weiterhin gegeben ist. Voraussetzung ist die Bestätigung der Ausnahme im Hinblick auf die Zielstellung der ursprünglichen Förderverpflichtung durch die zuständige Naturschutzfachbehörde gemäß § 46 Absatz 2 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch Artikel 6 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, beziehungsweise durch die zuständige Wasserfachbehörde gemäß § 109 Absatz 2 Nummer 1 des Sächsischen Wassergesetzes vom 12. Juli 2013 (SächsGVBl. S. 503), das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung.
@@ -433,7 +429,7 @@ kein Umbruch,
 
 f)
 
-Bestandslücken sind unter Beachtung von Ziffer IV Nummer 2 Buchstabe a durch Nachsaat mit bodenschonendem Verfahren zu schließen,
+Bestandslücken sind unter Beachtung von Ziffer IV Nummer 3 durch Nachsaat mit bodenschonendem Verfahren zu schließen,
 
 
 g)
@@ -658,6 +654,9 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
+Die Maßnahme kann maximal im Umfang von drei Prozent des Ackerlandes des antragstellenden Betriebes gefördert werden.
+
+
 Die Maßnahme kann auf Flächen, die nach Öko-Regelung 1a (gemäß § 20 Absatz 1 GAPDZG) angemeldet sind, durchgeführt werden.
 
 4.1.7
@@ -703,12 +702,12 @@ kein Umbruch, Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvern
 
 g)
 
-im ersten Verpflichtungsjahr beziehungsweise im Jahr nach der gegebenenfalls notwendigen Neuansaat ist ein ganzflächiger Schröpfschnitt zulässig,
+im ersten Verpflichtungsjahr beziehungsweise nach der gegebenenfalls notwendigen Neuansaat sind ganzflächige Schröpfschnitte im Zeitraum ab 1. Juli zulässig,
 
 
 h)
 
-jährlich ab dem zweiten Verpflichtungsjahr Durchführung eines Pflegeschnitts im Zeitraum vom 15. Juni bis zum 31. Juli, dabei sind jährlich wechselnd zirka 50 Prozent des Bruttoschlages bis zum Pflegeschnitt im Folgejahr ungenutzt zu belassen,
+jährlich ab dem zweiten Verpflichtungsjahr Durchführung eines Pflegeschnitts im Zeitraum vom 1. Juli bis zum 31. Juli, dabei sind jährlich wechselnd zirka 50 Prozent des Bruttoschlages bis zum Pflegeschnitt im Folgejahr ungenutzt zu belassen,
 
 
 i)
@@ -718,7 +717,7 @@ kein Einsatz von Düngemitteln und Pflanzenschutzmitteln,
 
 j)
 
-Bewirtschaftungspause ab 1. April bis 15. September (Ausnahmen Schröpfschnitt und Pflegeschnitte, Neuansaat), Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
+Bewirtschaftungspause ab 1. April bis 15. September (mit Ausnahme von Schröpfschnitten, Pflegeschnitten und Neuansaat), weitere Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
 
 
 k)
@@ -735,6 +734,9 @@ Sonstiges:
 
 
 Je Bruttoschlag werden Flächen bis 10 ha gefördert.
+
+
+Die Maßnahme kann maximal im Umfang von drei Prozent des Ackerlandes des antragstellenden Betriebes gefördert werden.
 
 
 Die Maßnahme kann auf Flächen, die nach Öko-Regelung 1a (gemäß § 20 Absatz 1 GAPDZG) angemeldet sind, durchgeführt werden.
@@ -757,7 +759,7 @@ folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden
 
 b)
 
-Anbau von Getreide zur Körnerernte entweder jedes zweite Verpflichtungsjahr, beginnend mit dem ersten Antragsjahr des Bruttoschlages oder bei zweijährigem Ackerfutterbau mindestens dreimal in fünf Jahren Getreideanbau,
+Anbau von Getreide zur Körnerernte entweder mindestens jedes zweite Verpflichtungsjahr oder bei zweijährigem Ackerfutterbau Anbau von Getreide zur Körnerernte mindestens dreimal in fünf Jahren,
 
 
 c)
@@ -777,7 +779,7 @@ keine mechanische Ackerwildkrautbekämpfung ab Aussaat bis zum 15. September, Au
 
 f)
 
-mögliche Stoppelbearbeitung beziehungsweise mögliche Beweidung mit Schafen und/oder Ziegen frühestens ab dem 16. September,
+Stoppelbearbeitung beziehungsweise Beweidung mit Schafen und/oder Ziegen frühestens ab dem 16. September möglich, 
 
 
 g)
@@ -832,7 +834,7 @@ keine mechanische Ackerwildkrautbekämpfung ab Aussaat bis zum 15. September; Au
 
 g)
 
-mögliche Stoppelbearbeitung beziehungsweise mögliche Beweidung mit Schafen und/oder Ziegen frühestens ab dem 16. September.
+Stoppelbearbeitung beziehungsweise Beweidung mit Schafen und/oder Ziegen frühestens ab dem 16. September möglich.
 
 
 Sonstiges:
@@ -863,25 +865,30 @@ Breite des Randstreifens mindestens 6 Meter und weniger als 50 Prozent der Fläc
 
 c)
 
-jährlicher Anbau von Getreide zur Körnerernte (ohne Mais und Hirse),
+jährlicher Anbau von Getreide zur Körnerernte,
 
 
 d)
 
-verringerte Ansaatdichte der Feldfrucht im Vergleich zur übrigen Anbaufläche mit dem Ziel gelichteter, schütter stehender Kulturbestände,
+kein Anbau von Mais oder Hirse
 
 
 e)
 
-keine Untersaaten, Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
+verringerte Ansaatdichte der Feldfrucht im Vergleich zur übrigen Anbaufläche mit dem Ziel gelichteter, schütter stehender Kulturbestände,
 
 
 f)
 
-kein Einsatz von N-Düngemitteln und Pflanzenschutzmitteln, mit Ausnahme der im ökologischen Landbau zugelassenen Pflanzenschutzmittel, im Zeitraum von der Ansaat bis zum 15. September des Antragsjahres sowie
+keine Untersaaten, Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
 
 
 g)
+
+kein Einsatz von N-Düngemitteln und Pflanzenschutzmitteln, mit Ausnahme der im ökologischen Landbau zugelassenen Pflanzenschutzmittel, im Zeitraum von der Aussaat bis zum 15. September des Antragsjahres sowie
+
+
+h)
 
 keine mechanische Ackerwildkrautbekämpfung auf dem Streifen bis zur Ernte.
 
@@ -1135,7 +1142,7 @@ Mindestschlaggröße: 0,3000 ha,
 
 b)
 
-geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
@@ -1360,7 +1367,7 @@ Auentypische Strukturen (Schotterflächen, übersandete Flächen, Auskolkungen, 
 
 4.2.4
 
-GL 2b – Neues Dauergrünland aus Ackerland in Überflutungsauen und auf Moorflächen
+GL 2b – Neues Dauergrünland aus Ackerland vor allem in Überflutungsauen und auf Moorflächen
 
 
 Folgende Fördervoraussetzungen müssen vorliegen:
@@ -1373,43 +1380,35 @@ Mindestschlaggröße: 0,1000 ha,
 
 b)
 
-geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) vom 20. Juni 2023 (SächsABl. S. 878) in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
 
-Förderung erfolgt nur auf Flächen, die gemäß der FRL NE/2023 festgesetzt sind und
-
-
-folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden:
+die neue Dauergrünlandfläche (umgewandelte ehemalige Ackerfläche) ist ab dem ersten Verpflichtungsjahr als eine Dauergrünlandfläche zu bewirtschaften,
 
 
 d)
 
-die neue Dauergrünlandfläche (umgewandelte ehemalige Ackerfläche) ist ab dem ersten Verpflichtungsjahr als eine Dauergrünlandfläche zu bewirtschaften,
+Nutzung nur durch eine den standörtlichen Bedingungen angepasste Mahd mit Beräumung und Abtransport des Mähgutes und/oder Beweidung mindestens einmal jährlich,
 
 
 e)
 
-Nutzung nur durch eine den standörtlichen Bedingungen angepasste Mahd mit Beräumung und Abtransport des Mähgutes und/oder Beweidung mindestens einmal jährlich,
+kein Einsatz von Düngemitteln; Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
 
 
 f)
 
-kein Einsatz von Düngemitteln; Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde,
+kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen,
 
 
 g)
 
-kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen,
-
-
-h)
-
 Belassen von ungenutzten Bereichen von mindestens 10 bis maximal 20 Prozent bei jedem Nutzungsdurchgang als Mahd oder Inanspruchnahme der Öko-Regelung 1d (gemäß § 20 Absatz 1 GAPDZG) (Altgrasstreifen oder -flächen in Dauergrünland) auf diesem Bruttoschlag sowie
 
 
-i)
+h)
 
 ortsfeste Durchführung der Maßnahme.
 
@@ -1455,20 +1454,25 @@ keine Beweidung; Ausnahmen für eine Vor- und Nachbeweidung nur nach Genehmigung
 
 e)
 
-kein Einsatz von Düngemitteln,
+keine Nach- und Übersaaten
 
 
 f)
 
-keine Kalkung,
+kein Einsatz von Düngemitteln,
 
 
 g)
 
-kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen sowie
+keine Kalkung,
 
 
 h)
+
+kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen sowie
+
+
+i)
 
 ortsfeste Durchführung der Maßnahme.
 
@@ -1476,7 +1480,7 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.6
 
@@ -1511,20 +1515,25 @@ keine Beweidung; Ausnahmen für eine Vor- und Nachbeweidung nur nach Genehmigung
 
 e)
 
-kein Einsatz von Düngemitteln,
+keine Nach- und Übersaaten
 
 
 f)
 
-keine Kalkung,
+kein Einsatz von Düngemitteln,
 
 
 g)
 
-kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen sowie
+keine Kalkung,
 
 
 h)
+
+kein Einsatz von Pflanzenschutzmitteln, abweichend davon kann die Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde die Bekämpfung großblättriger Ampferarten und ausbreitungsstarker Neophyten mit chemisch-synthetischen Pflanzenschutzmitteln im Einzelfall auf Antrag zulassen sowie
+
+
+i)
 
 ortsfeste Durchführung der Maßnahme.
 
@@ -1532,7 +1541,7 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.7
 
@@ -1651,7 +1660,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.8
 
@@ -1770,7 +1779,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.9
 
@@ -1849,7 +1858,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.10
 
@@ -1928,7 +1937,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.11
 
@@ -2007,7 +2016,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.12
 
@@ -2101,7 +2110,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.13
 
@@ -2170,7 +2179,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.14
 
@@ -2234,7 +2243,7 @@ Sonstiges:
 Bei einer Beweidung ist das Belassen von ungenutzten Bereichen von maximal 20 Prozent der Förderfläche optional möglich.
 
 
-Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) ist auf maximal 50 Prozent der Fläche mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
+Eine mechanische Grünlandpflege (zum Beispiel Schleppen, Walzen, Striegeln) ist nur zwischen dem 15. September und dem 1. April (Tiefland) beziehungsweise 15. April (Bergland) mit Ausnahme der belassenen, ungenutzten Bereiche zulässig (Ausnahmen nur nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde).
 
 4.2.15
 
@@ -2397,7 +2406,7 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 4. Januar 2023 (BGBl. I Nr. 5) geändert worden ist, in der jeweils geltenden Fassung, liegen.
+Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 5 des Gesetzes vom 3. Juli 2023 (BGBl. 2023 I Nr. 176) geändert worden ist, in der jeweils geltenden Fassung, liegen.
 
 
 Die Maßnahme wird nach Maßgabe und unter Einhaltung der Voraussetzungen von Artikel 41 der Verordnung (EU) 2022/2472 umgesetzt. Bewilligungen kommen nur unter Beachtung der einschlägigen Veröffentlichungs- und Informationspflichten in Betracht.
@@ -2455,7 +2464,7 @@ Kombinationen, Mehrfachförderungen
 Maßnahmen dieser Förderrichtlinie
 
 
-Zulässig sind nur solche Kombinationen von Maßnahmen dieser Förderrichtlinie, bei denen eine Mehrfachförderung für identische Förderverpflichtungen ausgeschlossen ist. In einem Verpflichtungsjahr können maximal zwei verschiedene Maßnahmen gemäß dieser Förderrichtlinie auf einem Bruttoschlag gefördert werden.
+Zulässig sind nur solche Kombinationen von Maßnahmen dieser Förderrichtlinie, bei denen eine Mehrfachförderung für identische Förderverpflichtungen ausgeschlossen ist. In einem Verpflichtungsjahr können maximal zwei verschiedene flächige Maßnahmen sowie eine Maßnahme, die auf Nebennutzungsflächen (zum Beispiel Streifen) durchgeführt wird gemäß Teil A dieser Förderrichtlinie auf einem Bruttoschlag gefördert werden.
 
 
 Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie sind unter https://www.lsnq.de/auk2023 veröffentlicht.
@@ -2479,7 +2488,7 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie ÖBL/2023
 
 
-Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
+Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 (SächsABl. 2023, S. 334) ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
 
 1.2.3
 
@@ -2499,7 +2508,7 @@ AL 1, AL 2, AL 3, AL 4, AL 6a, AL 6b, AL 7, AL 8, AL 9, AL 11, AL 12, AL 13, AL 
 Kombination mit Förderrichtlinie AZL/2015
 
 
-Für die nach dieser Förderrichtlinie geförderten Flächen kann in der Regel zusätzlich eine Förderung nach der Förderrichtlinie Ausgleichszulage vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 19. März 2020 (SächsABl. S. 416) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, gewährt werden. Einzelheiten können dem entsprechenden Merkblatt unter https://www.lsnq.de/azl entnommen werden.
+Für die nach dieser Förderrichtlinie geförderten Flächen kann in der Regel zusätzlich eine Förderung nach der Förderrichtlinie Ausgleichszulage vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 17. März 2023 (SächsABl. S. 458) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, gewährt werden. Einzelheiten können dem entsprechenden Merkblatt unter https://www.lsnq.de/azl entnommen werden.
 
 2.
 
@@ -2569,19 +2578,8 @@ Deiche, es sei denn, dass eine der Maßnahme konforme Bewirtschaftung uneingesch
 
 Flächenzugänge
 
-4.1
 
-Ortsfeste Maßnahmen
-
-
-Flächenzugänge sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag zum Teilnahmeantrag gestellt wurde und diese bewilligt werden. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
-
-4.2
-
-Rotierende Maßnahmen
-
-
-Für Maßnahmen, deren Verpflichtung sich nicht auf ortsfeste Bruttoschläge beziehungsweise Teilflächen bezieht und bei denen eine Rotation erlaubt ist, gilt, dass im Verpflichtungszeitraum Flächenerweiterungen ohne Erweiterungsantrag erfolgen können, wenn die Flächenerweiterung 20 Prozent des bewilligten Flächenumfangs je Maßnahme nicht übersteigt. Für Flächenzugänge über diesen zulässigen Flächenkorridor ist ein Erweiterungsantrag notwendig.
+Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
 
 5.
 
@@ -2693,6 +2691,7 @@ f)
 
 dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
 
+
 g)
 
 der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (2022/C 485/01) (ABl. C 458 vom 21.12.2022, S. 1) – Agrarrahmen –
@@ -2702,7 +2701,7 @@ in den jeweils geltenden Fassungen.
 
 3.
 
-Die Zuwendungen werden auf der Grundlage des Teils II 1.1.4 des Agrarrahmens erbracht. Die Bewilligungsbescheide dürfen erst erlassen werden, nachdem die Regelungen dieser Richtlinie durch die Europäische Kommission für zulässig erklärt worden sind. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
+Die Zuwendungen werden auf der Grundlage des Teils II 1.1.4 des Agrarrahmens erbracht. Die Europäische Kommission hat die Zuwendungen per Beschluss vom 21. Juli 2023 in dem Verfahren SA.104506 (2022/N) zum Betreff „Saxony: Promotion of biotope maintenance/care mowing with difficulty (Biotopflegemahd mit Erschwernis)“ genehmigt. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
 
 4.
 
@@ -3194,7 +3193,7 @@ Deiche, es sei denn, dass eine der Maßnahme konforme Bewirtschaftung uneingesch
 Flächenzugänge
 
 
-Flächenzugänge sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag zum Teilnahmeantrag gestellt wurde und diese bewilligt werden. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
+Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
 
 5.
 
@@ -3269,23 +3268,30 @@ Antragstellung
 
 2.1.1
 
-Teilnahmeantrag, Erweiterungsantrag, Ersetzungsantrag
+Teilnahmeantrag
 
 
-Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen notwendig. Sofern im Verpflichtungszeitraum weitere Maßnahmen beantragt oder weitere Flächen in die Verpflichtung genommen werden, ist ein Erweiterungsantrag notwendig. Wird eine Umwandlung in eine naturschutzfachlich höherwertigere Maßnahme auf fachliche Empfehlung der Naturschutzfachbehörde während des laufenden Verpflichtungszeitraumes vorgenommen, ist ein Ersetzungsantrag notwendig.
+Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen für die beabsichtigten Maßnahmen und Flächenumfänge notwendig. Sofern im Verpflichtungszeitraum weitere Maßnahmen beantragt werden, ist vor Beginn der Verpflichtungen ein weiterer Teilnahmeantrag notwendig.
 
 
-Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis spätestens 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr sowie die Erweiterungsanträge und die Ersetzungsanträge sind bis spätestens 15. Dezember des Jahres vor dem relevanten Verpflichtungsjahr bei der Bewilligungsbehörde zu stellen (Ausschlussfrist).
+Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr zu stellen.
 
 2.1.2
 
 Auszahlungsantrag
 
 
-Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis spätestens 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
+Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
 
 
 Mit dem Auszahlungsantrag wird von den Begünstigten die Einhaltung der eingegangenen Verpflichtungen bestätigt.
+
+
+Sofern im Verpflichtungszeitraum weitere Flächen für eine bereits bewilligte Maßnahme in die Verpflichtung genommen werden sollen, ist die Erweiterung im Rahmen des Auszahlungsantrags zu beantragen (Erweiterungsantrag). Erweiterungsanträge sind ab dem zweiten Verpflichtungsjahr zulässig.
+
+
+Wird eine Umwandlung in eine naturschutzfachlich höherwertigere Maßnahme auf fachliche Empfehlung der Naturschutzfachbehörde während des laufenden Verpflichtungszeitraumes vorgenommen, ist die höherwertige Maßnahme im Rahmen des Auszahlungsantrages zu beantragen.
+
 
 2.2
 
@@ -3293,7 +3299,7 @@ Bewilligungsverfahren
 
 2.2.1
 
-Bestätigung zum Teilnahmeantrag, Erweiterungsantrag, Ersetzungsantrag
+Bestätigung zum Teilnahmeantrag
 
 
 Die Bewilligungsbehörde prüft die Antragsangaben und bestätigt die Teilnahme am Programm für die beantragten Maßnahmen einschließlich des Verpflichtungszeitraums je Maßnahme. Antragstellende, deren Anträgen nicht oder nicht vollständig entsprochen werden kann, erhalten eine Teilablehnung oder Ablehnung unter Angabe der die Entscheidung tragenden Gründe.
@@ -3363,10 +3369,12 @@ Ablehnung, Kürzung, Sanktionierung, Rückforderung und Verzinsung
 
 Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 und 85 der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes in der jeweils geltenden Fassung.
 
+
 Stellt die Bewilligungsbehörde fest, dass die Begünstigten nicht alle Flächen gemäß Artikel 8 der Durchführungsverordnung (EU) 2022/1173 angegeben haben oder liegen Übererklärungen vor, wird entsprechend § 46 f. GAPInVeKoSV die Auszahlung ganz oder teilweise abgelehnt oder die Förderung ganz oder teilweise zurückgenommen.
 
 
 Stellt die Bewilligungsbehörde fest, dass andere Fördervoraussetzungen oder Förderverpflichtungen als Größe der Fläche nicht erfüllt sind, wird auf der Grundlage des Artikels 57 Absatz 1 der Verordnung (EU) 2021/2116 die Auszahlung abgelehnt oder die Förderung ganz oder teilweise gemäß § 1 SächsVwVfZG in Verbindung mit §§ 48 und 49 des Verwaltungsverfahrensgesetzes zurückgenommen. Dabei sind nach Artikel 59 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2021/2116 Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.
+
 
 Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 19 ff. GAP-Konditionalitäten-Gesetz (GAPKondG) und §§ 36 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
 
@@ -3405,7 +3413,7 @@ Sonstige Bestimmungen
 Verpflichtungszeitraum
 
 
-Der Verpflichtungszeitraum beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Gleiches gilt für Neuverpflichtungen auf Grund von Erweiterungs- oder Ersetzungsanträgen.
+Der Verpflichtungszeitraum für eine beantragte Maßnahme beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Für Flächen, die auf Grund eines Erweiterungsantrages im Rahmen des Auszahlungsantrages neu in die Verpflichtung genommen werden, müssen alle Förderverpflichtungen der betroffenen Maßnahme ab 1. Januar des aktuellen Antragsjahres eingehalten werden.
 
 
 Bei den Maßnahmen nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre.
@@ -3422,7 +3430,7 @@ Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des In
 Anpassung/Verlängerung des Verpflichtungszeitraums
 
 
-Werden im Verpflichtungszeitraum Erweiterungsanträge für die gleiche Maßnahme gestellt, so verlängert sich der Verpflichtungszeitraum um weitere fünf Jahre, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den ursprünglichen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
+Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahme beantragt, beginnt ein neuer fünfjähriger Verpflichtungszeitraum, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den erstmaligen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
 
 2.
 
@@ -3614,7 +3622,8 @@ das GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) vom 10
 
 14.
 
-die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1),
+
+die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist,
 
 15.
 
@@ -3622,7 +3631,7 @@ das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022
 
 16.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 30. November 2022 (BAnz AT 01.12.2022 V1) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 29. August 2023 (BGBl. 2023 I Nr. 238) geändert worden ist,
 
 17.
 
@@ -3640,6 +3649,7 @@ die Sächsische GAP-Umsetzungsverordnung vom 2. Januar 2023 (SächsGVBl. S. 8),
 
 das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist.
 
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -3650,9 +3660,9 @@ Fsn-Nr.: 5563-V23.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Oktober 2022
+Fassung gültig ab: 16. Oktober 2023
 
-Fassung gültig bis: 15. Oktober 2023
+Fassung gültig bis: 11. März 2024
 
 Drucken/Speichern
 
@@ -3677,7 +3687,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19912.1
+https://www.revosax.sachsen.de/vorschrift/19912.2
 Stand vom
 18.11.2026
 
