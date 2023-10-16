@@ -1,8 +1,8 @@
 # Förderrichtlinie Teichwirtschaft und Naturschutz Vollzitat: Förderrichtlinie Teichwirtschaft und Naturschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-10-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19909.1
+- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19909.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.10.2022
+16.10.2023
 bis
-15.10.2023
+31.03.2025
 
 Förderrichtlinie Teichwirtschaft und Naturschutz
 
@@ -184,7 +184,7 @@ keine Nutzung als Angelteiche,
 
 d)
 
-kein Bau von Stegen und Zäunen im Uferbereich sowie auf Teichdämmen,
+kein Neubau von Stegen und Zäunen1 im Uferbereich sowie auf Teichdämmen,
 
 e)
 
@@ -197,9 +197,11 @@ Schaffung von Voraussetzungen zur Bergung sowie zum Umsetzen oder Rückbesatz he
 
 Sonstiges:
 
-Ausnahmen zu Stauhaltungen, Kalkung und bei T 3 auch zum Graskarpfenbesatz bis maximal 50 kg/ha Abfischmenge sind nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde möglich. Bei extremer Verkrautung eines Teiches ist bei T 2 und T 3 nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde und Zustimmung der zuständigen Naturschutzbehörde für maximal ein Jahr im Förderzeitraum ein höherer Besatz mit Graskarpfen möglich.
+Ausnahmen zu Stauhaltungen, Kalkung mobiler Zäunung und bei T 3 auch zum Graskarpfenbesatz bis maximal 50 kg/ha Abfischmenge sind nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde möglich. Bei extremer Verkrautung eines Teiches ist bei T 2 und T 3 nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde und Zustimmung der zuständigen Naturschutzbehörde für maximal ein Jahr im Förderzeitraum ein höherer Besatz mit Graskarpfen möglich.
 
-Ein Wechsel der attribuierten Stauhaltungsvarianten im laufenden Verpflichtungsjahr ist nach Anzeige bei der zuständigen Bewilligungsbehörde möglich.
+Weitere Ausnahmen von einzelnen Förderverpflichtungen sind nur in begründeten Einzelfällen möglich, wenn die Zielstellung der ursprünglichen Förderverpflichtung weiterhin gegeben ist.
+
+Ein Wechsel der attribuierten Stauhaltungsvarianten im laufenden Verpflichtungsjahr ist bis zum 30. September über einen neuen Export in DIANAweb anzuzeigen, ab dem 1. Oktober muss die Anzeige bei der zuständigen Bewilligungsbehörde über das Formblatt „Ausnahmegenehmigung“ erfolgen.
 
 4.3
 
@@ -305,7 +307,7 @@ Ertrag maximal 400 kg Nutzfische je ha Bruttoschlagfläche pro Abfischung,
 
 i)
 
-Zufütterung nur mit Getreide, Leguminosen oder Ölpflanzen, keine Mischfuttermittel außer Erhaltungsfütterung im Winter und
+Zufütterung nur mit Getreide, Leguminosen oder Ölpflanzen, keine Mischfuttermittel außer Erhaltungsfütterung im Winter und zur Satzfischkonditionierung und
 
 j)
 
@@ -454,10 +456,6 @@ Wirtschaftswege (Wege zu Abfisch-, Futterplätzen und Staueinrichtungen) sind j�
 
 b)
 
-der Einsatz des Schlegelmähers ist bei Teichen mit naturschutzgerechter Teichbewirtschaftung und Pflege (Maßnahmen T 2 bis T 3) im Zeitraum 1. Februar bis 31. Juli für die Pflege der Wirtschaftswege verboten und
-
-c)
-
 bei Reparaturen an den Wegen ist gegebenenfalls verwendetes Recyclingmaterial (zum Beispiel Ziegel- oder Betonabbruch) abzudecken; in Schutzgebieten ist unbelastetes, standortgerechtes Material zu verwenden; eine Vollversiegelung der Wirtschaftswege ist nicht zulässig. Hinweise hierzu sind unter https://www.lsnq.de/twn2023 veröffentlicht.
 
 
@@ -527,6 +525,7 @@ Pflegezeiträume
 | zulässig im Zeitraum:
 1. Juni bis 28. Februar1)
 
+
 | Gehölzpflege
 
 | zulässig im Zeitraum:
@@ -575,13 +574,14 @@ Pflegezeiträume
 | Mahd (Gras- und Staudenbewuchs)
 
 | zulässig im Zeitraum:
-1. Juli bis 28. Februar
+1. Juni bis 28. Februar
 
 
 | Entkrauten und Grundräumung
 
 | zulässig im Zeitraum:
-1. Juli bis 30. November1), 2)
+1. Juni bis 30. November1), 2)
+
 
 | Gehölzpflege
 
@@ -597,6 +597,7 @@ Ausnahmen sind nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der
 2)
 
 siehe Hinweise zur amphibiengerechten Bewirtschaftung im Merkblatt „Fachliche Hinweise und Empfehlungen“, welches unter https://www.lsnq.de/twn2023 veröffentlicht ist
+
 
 4.5.4
 
@@ -708,10 +709,10 @@ Neben einer Flächenförderung nach dieser Förderrichtlinie darf keine andere F
 
 6.5
 
-Publizität
+Kommunikations- und Sichtbarkeitsmaßnahmen
 
 
-Die allgemeinen Vorschriften zu Informations- und Publizitätsmaßnahmen des Artikels 60 der Verordnung (EU) 2021/1139 in Verbindung mit Anhang IX der Verordnung (EU) 2021/1060 sind für alle aus dem Europäischen Meeres-, Fischerei- und Aquakulturfonds finanzierten Maßnahmen im Verpflichtungszeitraum zu beachten. Dies ist auch der Fall, wenn durch den Begünstigten freiwillige Publizitätsmaßnahmen (Schilder, Druckerzeugnisse, Websites und so weiter) erstellt werden.
+Die allgemeinen Vorschriften zu Informations- und Publizitätsmaßnahmen des Artikels 60 der Verordnung (EU) 2021/1139 in Verbindung mit Artikel 50 und Anhang IX der Verordnung (EU) 2021/1060 sind für alle aus dem Europäischen Meeres-, Fischerei- und Aquakulturfonds finanzierten Maßnahmen im Verpflichtungszeitraum zu beachten. Dies ist auch der Fall, wenn durch den Begünstigten freiwillige Publizitätsmaßnahmen (Schilder, Druckerzeugnisse, Websites und so weiter) erstellt werden.
 
 7.
 
@@ -765,6 +766,7 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 f)
 
 dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
+
 
 g)
 
@@ -897,6 +899,16 @@ i)
 
 ortsfeste Durchführung der Maßnahme.
 
+
+Sonstiges:
+
+Ausnahmen zu Stauhaltungen und Kalkung sind nach Genehmigung der Bewilligungsbehörde im Einvernehmen mit der Naturschutzfachbehörde möglich.
+
+Ein Wechsel der attribuierten Stauhaltungsvarianten im laufenden Verpflichtungsjahr ist bis zum 30. September über einen neuen Export in DIANAweb anzuzeigen, ab dem 1. Oktober muss die Anzeige bei der zuständigen Bewilligungsbehörde über das Formblatt „Ausnahmegenehmigung“ erfolgen.
+
+Weitere Ausnahmen von einzelnen Förderverpflichtungen sind nur in begründeten Einzelfällen möglich, wenn die Zielstellung der ursprünglichen Förderverpflichtung weiterhin gegeben ist.
+
+
 4.3
 
 Spezifische Förderverpflichtungen je Maßnahme
@@ -938,7 +950,7 @@ Abfischmenge maximal 400 kg je ha Bruttoschlagfläche pro Abfischung,
 
 h)
 
-Zufütterung nur mit Getreide, Leguminosen oder Ölpflanzen, keine Mischfuttermittel außer Erhaltungsfütterung im Winter und
+Zufütterung nur mit Getreide, Leguminosen oder Ölpflanzen, keine Mischfuttermittel außer Erhaltungsfütterung im Winter und zur Satzfischkonditionierung und
 
 i)
 
@@ -1203,21 +1215,25 @@ Antragstellung
 
 2.1.1
 
-Teilnahmeantrag, Erweiterungsantrag, Ersetzungsantrag
+Teilnahmeantrag
 
 
-Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen notwendig. Sofern im Verpflichtungszeitraum weitere Maßnahmen beantragt oder weitere Flächen in die Verpflichtung genommen werden, ist ein Erweiterungsantrag notwendig. Wird eine Umwandlung in eine naturschutzfachlich höherwertigere Maßnahme auf fachliche Empfehlung der Naturschutzfachbehörde vorgenommen, ist ein Ersetzungsantrag notwendig.
+Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen für die beabsichtigten Maßnahmen und Flächenumfänge notwendig. Sofern im Verpflichtungszeitraum weitere Maßnahmen beantragt werden, ist vor Beginn der Verpflichtungen ein weiterer Teilnahmeantrag notwendig.
 
-Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis spätestens 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr sowie die Erweiterungsanträge und die Ersetzungsanträge sind bis spätestens 15. Dezember des Jahres vor dem relevanten Verpflichtungsjahr bei der Bewilligungsbehörde zu stellen (Ausschlussfrist).
+Die Antragstellung erfolgt über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de. Der Teilnahmeantrag ist bis 15. Dezember des Jahres vor dem ersten Verpflichtungsjahr zu stellen.
 
 2.1.2
 
 Auszahlungsantrag
 
 
-Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis spätestens 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
+Mit Beginn der Verpflichtung sind jährliche Auszahlungsanträge im gesamten Verpflichtungszeitraum im Rahmen des Antrages auf Direktzahlungen und Agrarförderung über das webbasierte Antragsportal DIANAweb unter https://www.diana.sachsen.de zu stellen. Die Auszahlungsanträge müssen bis 15. Mai des aktuellen Verpflichtungsjahres bei der Bewilligungsbehörde eingegangen sein. Der Auszahlungsantrag ist verspätungs- und verfristungsrelevant.
 
 Mit dem Auszahlungsantrag wird von den Begünstigten die Einhaltung der eingegangenen Verpflichtungen bestätigt.
+
+Sofern im Verpflichtungszeitraum weitere Flächen für eine bereits bewilligte Maßnahme in die Verpflichtung genommen werden sollen, ist die Erweiterung im Rahmen des Auszahlungsantrags zu beantragen (Erweiterungsantrag). Erweiterungsanträge sind ab dem zweiten Verpflichtungsjahr zulässig.
+
+Wird eine Umwandlung in eine naturschutzfachlich höherwertigere Maßnahme auf fachliche Empfehlung der Naturschutzfachbehörde während des laufenden Verpflichtungszeitraumes vorgenommen, ist die höherwertige Maßnahme im Rahmen des Auszahlungsantrages zu beantragen.
 
 2.2
 
@@ -1225,7 +1241,7 @@ Bewilligungsverfahren
 
 2.2.1
 
-Bestätigung zum Teilnahmeantrag, Erweiterungsantrag
+Bestätigung zum Teilnahmeantrag
 
 
 Die Bewilligungsbehörde prüft die Antragsangaben und bestätigt die Teilnahme am Programm für die beantragten Maßnahmen einschließlich des Verpflichtungszeitraums je Maßnahme. Antragstellende, deren Anträgen nicht oder nicht vollständig entsprochen werden kann, erhalten eine Teilablehnung oder Ablehnung unter Angabe der die Entscheidung tragenden Gründe.
@@ -1275,7 +1291,7 @@ keine Mehrfachförderung erfolgt.
 
 Die Fördervoraussetzungen und Förderverpflichtungen werden im Rahmen von Verwaltungskontrollen sowie im Rahmen des Flächenüberwachungssystems (AMS) überprüft. Die mittels Sentinel-Satellitenbildern kontrollierbaren Prüfinhalte werden flächendeckend kontrolliert. Die Prüfinhalte, die nicht mittels Sentinel-Satellitenbildern auswertbar sind, werden stichprobenbasiert innerhalb des Verpflichtungszeitraumes durch physische Vor-Ort-Kontrollen überprüft. Diese können durch Beibringung von geeigneten Nachweisen ergänzt werden.
 
-Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) auf der Grundlage der Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), in der jeweils geltenden Fassung.
+Die Feststellung der förderfähigen Flächen erfolgt im Rahmen des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) auf der Grundlage der Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist, in der jeweils geltenden Fassung.
 
 4.
 
@@ -1315,7 +1331,7 @@ Sonstige Bestimmungen
 Verpflichtungszeitraum
 
 
-Der Verpflichtungszeitraum beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Gleiches gilt für Neuverpflichtungen auf Grund von Erweiterungs- oder Ersetzungsanträgen.
+Der Verpflichtungszeitraum für eine beantragte Maßnahme beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Für Flächen, die auf Grund eines Erweiterungsantrages im Rahmen des Auszahlungsantrages neu in die Verpflichtung genommen werden, müssen alle Förderverpflichtungen der betroffenen Maßnahme ab 1. Januar des aktuellen Antragsjahres eingehalten werden.
 
 Bei den Maßnahmen nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre.
 
@@ -1331,7 +1347,7 @@ Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des In
 Anpassung/Verlängerung des Verpflichtungszeitraums
 
 
-Werden im Verpflichtungszeitraum Flächenerweiterungsanträge für die gleiche Maßnahme gestellt, so verlängert sich der Verpflichtungszeitraum um weitere fünf Jahre, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den ursprünglichen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
+Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahme beantragt, beginnt ein neuer fünfjähriger Verpflichtungszeitraum, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den erstmaligen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
 
 2.
 
@@ -1593,7 +1609,7 @@ bis 5 ha je Bruttoschlag
 | 165
 
 
-Bei Durchführung der Stauhaltungsvariante 3 „Sömmerung“ (St3) wird in dem entsprechenden Jahr keine Zuwendung für die beantragte Maßnahme T 2, T 3a oder T 3b gewährt. Es wird eine Aufwandsentschädigung von 575 EUR/ha (bei T 4a 110 Euro/ha) für bis zu 20 ha je Bruttoschlag gewährt.
+Bei Durchführung der Stauhaltungsvariante 3 „Sömmerung“ (St3) wird in dem entsprechenden Jahr keine Zuwendung für die beantragte Maßnahme T 2, T 3a, T 3b oder T 4a gewährt. Es wird eine Aufwandsentschädigung gewährt in Höhe von 575 Euro/ha für die Maßnahmen T 2, T 3a und T 3b oder in Höhe von 110 Euro/ha bei Durchführung der Maßnahme T 4a für bis zu 20 ha je Bruttoschlag.
 
 Verweis auf Bundesgesetze
 
@@ -1605,9 +1621,9 @@ Fsn-Nr.: 5563-V23.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Oktober 2022
+Fassung gültig ab: 16. Oktober 2023
 
-Fassung gültig bis: 15. Oktober 2023
+Fassung gültig bis: 31. März 2025
 
 Drucken/Speichern
 
@@ -1632,7 +1648,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19909.1
+https://www.revosax.sachsen.de/vorschrift/19909.2
 Stand vom
 18.11.2026
 
