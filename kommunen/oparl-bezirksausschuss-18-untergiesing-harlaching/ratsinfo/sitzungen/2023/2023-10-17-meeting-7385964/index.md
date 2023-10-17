@@ -1,0 +1,165 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2023-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7385964
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7385964
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.1.1.1.: Vorstellung der Arbeit von REGSAM in Untergiesing-Harlaching
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Grüne Damen & Herren in der Münchner Klinik Harlaching “Kleiderkammer vom 01.10.2023 – 30.09.2024“ AZ: 0262.0-18-0359 / 4.000,00 €
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Förderverein Mittelschule "KISKO Outdoor" 3.185,00 € / AZ: 0262.0-18-0361
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise
+- TOP 3.1.6.2.: Antwortschreiben Direktorium: Rückfragen des BA 18 und des Antragstellers zum Budgetantrag des Elternbeirats Grundschule Fromundstraße
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Bücherschrank in Untergiesing-Harlaching; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Anhörungsverfahren für den Weihnachtsmarkt am Hexenhäusl vom 23.11.-31.12.23
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Antwortschreiben Baureferat: Lärmbelästigung durch Streetball-Anlage am Wörnbrunner Platz; Bürgeranliegen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Kinderflohmarkt auf dem Hans-Mielich-Platz am 15.10.2023 - Erlaubnis mit Auflage und Gestattung
+- TOP 3.2.6.2.: foolpool Straßentheater auf dem Hans-Mielich-Platz am 01.10.2023 - Erlaubnis mit Auflage und Gestattung
+- TOP 3.2.6.3.: Fahrradsicherheitschecks an der Grünwalder Straße vor dem Stadion am 24.10.2023 - Erlaubnis mit Auflage und Gestattung
+- TOP 3.2.6.4.: Straßenfest / Tag der offenen Tür in der Pistorinistraße 30 am 13.10.2023 - Erlaubnis mit Auflage und Gestattung
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Erneuerung der Fahrbahnmarkierungen auf der Grünwalder Straße
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Lärmbelästigung durch Hot Rods in der Geiselgasteigstraße; Bürgeranliegen
+- TOP 3.3.3.2.: Verkehrsregelung in der Reichenhaller Straße; Bürgeranliegen
+- TOP 3.3.3.3.: E-Ladesäulen im 18. Stadtbezirk; Bürgeranliegen
+- TOP 3.3.3.4.: Störungen der Mobilität im 18. Stadtbezirk; diverse Bürgeranliegen
+- TOP 3.3.3.5.: Ausbesserung des Radwegs an der Oberbibergerstraße Richtung Mangfallplatz; Bürgeranliegen
+- TOP 3.3.3.6.: Maßnahmen zur Erhöhung der Sicherheit der 30er Zone in der Bozener Straße; Bürgeranliegen
+- TOP 3.3.3.7.: Empfehlungen zum Ausbau der St.-Magnus-Straße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Unfallanalyse zum Neubau der Grundschule Klinikum Harlaching
+- TOP 3.3.5.2.: Kurzzeitparkplätze, Fahrrad- und Lastenrad-Abstellplätze vor der Naupliastraße 108 sowie Bodenmarkierung vor der Naupliastraße 106
+- TOP 3.3.5.3.: Verkehrsberuhigung am Hollerbusch
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Fristverlängerung Mobilitätsreferat: Abgestellte E-Roller auf dem Gehweg in der Grünwalder Straße; BV-Anfrage 20-26 / Q 00319
+- TOP 3.3.6.2.: Informationsschreiben Mobilitätsreferat: Erhöhung der Kosten für TOPO-Boxen
+- TOP 3.3.6.3.: Umsetzung des absoluten Haltverbots in der Peter-Auzinger-Straße zwischen Weyarner Straße und Tegernseer Landstraße
+- TOP 3.3.6.4.: Verkehrsrechtliche Anordnung für das Kurzparken in der Naupliastr108
+- TOP 3.3.6.5.: Vollsperre an der Birkenau 31 mit Blaulichtfahrt am 12.10.2023
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Maßnahmen zum Erhalt des vorhandenen Baumbestandes entlang der Säbener Straße
+- TOP 3.4.2.2.: (E) Lärm und Umweltschutz am Flaucher und an den Isarauen
+- TOP 3.4.2.3.: (E) Aufwertung der Grünfläche zwischen Schellenbergstraße, Otkerstraße und Säbener Straße
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Beschwerde über den Rückschnitt von Bäumen auf Privatgrund in der Mailänder Straße; Bürgeranliegen
+- TOP 3.4.3.2.: Beschwerde über nicht ordnungsgemäße Müllentsorgung in der Fritz-Lange-Straße; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Authariplatz 2 - Benediktenwandstr. 16 - Geiselgasteigstr. 124 - Griechenplatz 8 - Grünwalder Str. 41 - Harthauser Str. 13 - Harthauser Str. 81 - Hauensteinstr. 3 - Naupliastr. 85 - Säbener Str. 204 - Schönstr. 16 - Söltlstr. 9 - Söltstr. 3 - Theodolindenstr. 14 - Untere Weidenstr. 18
+- TOP 3.4.4.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG): Antrag auf Genehmigung gem. § 4 BImSchG - Betrieb einer Anlage zum Rösten von Kaffee Birkenleiten 43
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Gabriel-Max-Str. 58
+- TOP 3.4.6.2.: Baumfällung in der Lindenstr. 29
+- TOP 3.4.6.3.: Fristverlängerung Referat für Klima und Umweltschutz: Rückbau der unverhältnismäßig großen Warntafeln am Isarufer flussabwärts (vor der Marienklausen-Brücke); BV-Empfehlung Nr. 14-20 / E 00730
+- TOP 3.4.6.4.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Camping in den Isarauen Höhe Sterzingerstraße; Bürgeranliegen
+- TOP 3.5.3.2.: Sicherheit im Bereich der Isarauen; Bürgeranliegen
+- TOP 3.5.3.3.: Nutzung vom Container auf dem Skaterplatz am Cadidplatz; Bürgeranliegen
+- TOP 3.5.3.4.: Einrichtung von Spielplätzen in Harlaching; Bürgeranligen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Antwortschreiben auf BA-Anfrage zum Demografiebericht München
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Sondernutzungserlaubnis: Erweiterung Christbaumverkaufsplatz Candidplatz
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Beschlussentwurf: Aktueller Sachstand zum Bauvorhaben Candid-Tor
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Naupliastr. 78: Neubau eines Wohnhauses mit Garagen und Stellplatz
+- TOP 3.6.4.1.2.: Grünwalder Str. 103: Gebäudeaufstockung einer Wohnanlage bestehend aus 8 Häusern, mit weiteren Wohnungen (33WE), sowie Umbau und energetische Modernisierung, Abbruch best. Balkone und Anbau von neuen Balkonen sowie Herstellen altersgerechter Zugänge und Treppenhäuser - 103 (Haus 8), 103a (Haus 7), 103b (Haus 6), 103c (Haus 5), 105 (Haus 4), 105a (Haus 1), 105b (Haus 2), 105c (Haus 3) - VORBESCHEID
+- TOP 3.6.4.1.3.: Sommerstr. 52: Umbau und Sanierung des denkmalgeschützten Vordergebäudes und Neubau von 6 Stadthäusern auf rückwärtigen Grundstück
+- TOP 3.6.4.1.4.: Am Perlacher Forst 196b: Umbau und Erweiterung einer Doppelhaushälfte
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Informationsschreiben Referat für Stadtplanung und Bauordnung: Online-Beteiligung in der Bauleitplanung der Landeshauptstadt München
+- TOP 3.6.6.2.: SWM Baumaßnahme: Fernwärme-Projekt in der Siebenbrunner Straße
+- TOP 3.6.6.3.: SWM Baumaßnahme: Erdgas-Projekt in der Seybothstraße
+- TOP 3.6.6.4.: Fristverlängerung Referat für Stadtplanung und Bauordnung: Demokratische Transparenz beim Bauvorhaben Candid-Tor; BV-Empfehlung Nr. 20-26 / E 01381
+- TOP 3.6.6.5.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 3.6.6.6.: Fristverlängerung Referat für Stadtplanung und Bauordnung: Verkehrstechnische Untersuchung am Candidplatz im Rahmen des Bauprojekts Candid-Tor; BV-Empfehlung Nr. 20-26 / E 01382
+- TOP 3.6.6.7.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: BA 1 - Interfraktioneller Antrag: Anpassung der Zulassungskriterien und echte Entscheidungsrechte für Bezirksausschüsse für Freischankflächen
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: Informationsschreiben und Bedarfsabfrage Direktorium: Hybridsitzungen 2024
+- TOP 4.3.2.: Änderungen an der BA-Satzung und an der BA-Geschäftsordnung
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Informationsschreiben Direktorium: Datenschutzgerechte Einstellung und personenbezogene Zuleitung von Unterlagen im RIS-Extranet
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.2.4.2.: Weihnachtsmarkt am Mangfallplatz vom 01.-03.12.2023
+- TOP 4.3.3.: BA-Antrag-Nr. 20-26 / B 05899 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 21.09.2023: „Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund“
