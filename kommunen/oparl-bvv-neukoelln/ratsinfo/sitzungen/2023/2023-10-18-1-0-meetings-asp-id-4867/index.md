@@ -1,0 +1,81 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-10-18T17:00:00+02:00
+- Ende: 2023-10-18T20:14:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4867
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4867
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Leerstand in der H48 - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 1028/XXI - Entschließung zur Verurteilung der Angriffe auf Israel und der antisemitischen Demonstrationen in Neukölln: Antisemitismus und Israelfeindlichkeit dürfen in Neukölln keinen Platz haben! - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Terrornetzwerk Samidoun verbieten - in der BVV abgelehnt
+- TOP 2.3: 1030/XXI - Tarifmittelsteigerungen in den Haushaltsberatungen auf Landesebene berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Verzögerungen bei der Parkraumbewirtschaftung - in der BVV abgelehnt
+- TOP 2.5: 1032/XXI - Streichung der Gelder des Jugendgewalt-Gipfels für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Entschließung zur Verurteilung der Angriffe auf Israel und der antisemitischen Demonstrationen in Neukölln: Antisemitismus und Israelfeindlichkeit dürfen in Neukölln keinen Platz haben! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Neukölln steht auf gegen Krieg und Terror in Israel und Palästina - in der BVV abgelehnt
+- TOP 4.3: Antisemitismus raus aus Neukölln! - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2022 - überwiesen
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Zufahrt Wetzlar Schule Tischlerzeile - beantwortet
+- TOP 8.2: Angebot der Jugendverkehrsschulen - beantwortet
+- TOP 8.3: Wie geht es 2024 weiter mit der Freizeitstätte für Menschen mit Behinderungen in Alt-Buckow? - beantwortet
+- TOP 8.4: Auftragsvergabe bei der Schulreinigung auch an Dumping-Firmen? - beantwortet
+- TOP 8.5: Tankstelle an der Sonnenallee/Ecke Hobrechtstraße - beantwortet
+- TOP 8.6: Schutzfristen - beantwortet
+- TOP 8.7: Das Park-Chaos in Rudow - beantwortet
+- TOP 8.8: Gewährleistet das Sozialamt die Einzelbeförderung von volljährigen Schüler*innen mit Behinderung, um ihre Teilhabe sicherzustellen? - beantwortet
+- TOP 8.9: Kunstwerk Bahnhof Neukölln - schriftlich beantwortet
+- TOP 8.10: Anpassung Bepflanzung und Grünpflege in der Hasenheide - schriftlich beantwortet
+- TOP 8.11: Pflanzkübel mit Sitzgelegenheiten auf dem Marktplatz Britz-Süd - schriftlich beantwortet
+- TOP 8.12: Keine Mittel aus dem Jugendgewaltgipfel für Jugendsozialarbeit? - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Taubenplage tiergerecht und nachhaltig bekämpfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Anita-Berber-Park selbst gestalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Prüfbericht zur fehlerhaften Mengenerfassung beim Produkt „Sozialpädagogische Beratung zur Erlangung von Wohnraum oder sonstigen Wohnformen“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.4: Energetische Sanierung Kultureinrichtungen - Fördermittel nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - erledigt
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Unabhängiges Schlichtungsverfahren für das Jobcenter Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Legale Graffitiwand auf dem Campus Rütli - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Tarifmittelsteigerungen bei Volkshochschulen und Musikschulen in den Haushaltsberatungen auf Landesebene berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Neuköllner Modell - Erfolgsmodell für Neukölln und ganz Berlin? - beantwortet
+- TOP 13.2: Was sind dem Bezirksamt die Anliegen der Schulreinigungskräfte wert? - beantwortet
+- TOP 13.3: Euro 2024 in Neukölln - schriftlich beantwortet
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Unfallschwerpunkt Schönefelder Straße / Ecke Neuhofer Straße - überwiesen
+- TOP 15.2: Kinder- und Jugendparlament in der BVV - überwiesen
+- TOP 15.3: Auskömmliche Finanzierung der Diakonie „Haltestelle“ Standorte in Neukölln sichern - überwiesen
+- TOP 15.4: Erhalt der Rathauskantine - überwiesen
+- TOP 15.5: Aktualisierung der Internetseite des Bezirksamtes und speziell der Webseite der Bezirksverordnetenversammlung - überwiesen
+- TOP 15.6: Erneuerung Kunstrasen - überwiesen
+- TOP 15.7: Böllerverbotszonen aussprechen! Silvester darf kein Alptraum für Neuköllner*innen sein - überwiesen
+- TOP 15.8: Neuausschreibung der Kantine im Rathaus Neukölln - überwiesen
+- TOP 15.9: Antisemitismus in Neukölln - überwiesen
+- TOP 15.10: Nutzung des § 5 Wirtschaftsstrafrecht - überwiesen
+- TOP 15.11: Mythos#Israel1948 in Schulen - überwiesen
+- TOP 15.12: Ehrendes Gedenken an Jutta Limbach - überwiesen
+- TOP 15.13: Mythos#Israel1948 in Jugendfreizeiteinrichtungen - überwiesen
+- TOP 15.14: Antrag auf Aufhebung der Halteverbotsbereiche in Alt-Rudow an Sonntagen - überwiesen
+- TOP 15.15: Wappen von Anderlecht - ohne Änderungen in der BVV beschlossen
+- TOP 15.16: Tarifmittelsteigerungen in den Haushaltsberatungen auf Landesebene berücksichtigen - überwiesen
+- TOP 15.17: Streichung der Gelder des Jugendgewalt-Gipfels für Neukölln - ohne Änderungen in der BVV beschlossen
