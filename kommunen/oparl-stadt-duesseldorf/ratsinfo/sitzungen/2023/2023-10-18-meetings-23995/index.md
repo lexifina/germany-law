@@ -1,0 +1,69 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-10-18T16:00:00+02:00
+- Ende: 2023-10-18T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23995
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23995
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500047.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500047.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500047.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 26.04.2023 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 24.05.2023 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Gefährdung von Fußgängerinnen und Radfahrern durch Baustelleneinrichtungen -Anfrage der Ratsfrau Kira Heyden und des Ratsherrn Lukas Milczarek- - zur Kenntnis genommen
+- TOP 4.2: Prüfung der Belange weiterer Ämter und Aufgabenträger bei der Planung -Anfrage der Ratsfraktion Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.3: Steigende Gefahr durch Abbiegeunfälle durch neue Abbiegespur -Anfrage Die Partei/Klima- - zur Kenntnis genommen
+- TOP 4.4: Kauf neuer Busse für Düsseldorf -Anfrage des Bürgermitglieds Holthoff- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Verlängerung der Bahnsteige der U79 - zur Kenntnis genommen
+- TOP 5.2: Gefährliche, freilaufende Rechtsabbieger abschaffen -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 5.3: Radwegelücken auf maps.dueseldorf.de auch als solche anzeigen -Antrag der Ratsfraktion Die Partei/Klima- - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 6.1: Sachstandsbericht Heinrich-Heine-Allee/ Mühlenstraße - zur Kenntnis genommen
+- TOP 7: Mittteilungen der Verwaltung
+- TOP 7.1: Bericht zur Fahrzeugverfügbarkeit und zur Entwicklung des Wagenparks Hochflur - zur Kenntnis genommen
+- TOP 8: Barrierefreier Haltestellenumbau Merziger Straße - einstimmig beschlossen
+- TOP 9: Luftqualität 2022 - zur Kenntnis genommen
+- TOP 10: Vierter Bericht zum Ratsbeschluss „Saubere Luft für Düsseldorf – Reduzierung von NOx-Emissionen vorantreiben“ und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 11: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 12: Rheinbrücke Josef-Kardinal-Frings-Brücke im Zuge der B1 – Verkehrliche Anordnung - zur Kenntnis genommen
+- TOP 13: Stadtbahnlinien U70/U74/U76 - Barrierefreier Ausbau der Haltestelle Prinzenallee - - einstimmig beschlossen
+- TOP 13.1: Ergänzungsantrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen:TOP 13: Stadtbahnlinien U70/U74/U76 - Barrierefreier Ausbau der Haltestelle Prinzenallee (OVA/113/2023) - zurückgezogen
+- TOP 14: Konrad-Adenauer-Platz - Weiterführung des Kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - passieren lassen
+- TOP 15: Umgestaltung Mitte Süd – Friedrichstraße inkl. Querstraßen Bachstraße, Kirchfeldstraße und Herzogstraße sowie Graf-Adolf-Platz - Empfehlung mehrheitlich beschlossen
+- TOP 15.1: Ergänzungsantrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen: TOP 15 Umgestaltung Mitte Süd – Friedrichstraße inkl. Querstraßen Bachstraße, Kirchfeldstraße und Herzogstraße sowie Graf-Adolf-Platz (OVA/153/2023) - einstimmig beschlossen
+- TOP 16: Königsberger Straße - Radverkehrsplanung zwischen Posener Straße und Sandträger Weg - einstimmig beschlossen
+- TOP 17: Rhein-Ruhr-Expresse (RRX) – Auswertung des Planfeststellungsbeschlusses für den Planfeststellungsabschnitt 3.0a Unterrath - Kalkum - zur Kenntnis genommen
+- TOP 18: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - Empfehlung mehrheitlich beschlossen
+- TOP 19: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - vertagt
+- TOP 20: ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße - mehrheitlich beschlossen
+- TOP 20.1: Ergänzungsantrag der Ratsfraktionen von CDU und Bündnis 90/Die Grünen: TOP 20 - ÖPNV-Beschleunigung und Verbesserung der Verkehrssicherheit am Knoten Dorotheen- / Birken- / Flurstraße (OVA/119/2023) - einstimmig beschlossen
+- TOP 21: Ergänzung und Vervollständigung der Park- und Lichtraummarkierung auf der Stern-, Stockkamp- und Liebigstraße zur Verbesserung des Betriebsablaufs der Linie 706 - einstimmig beschlossen
+- TOP 22: Fortführung Schnellbus SB 53 - einstimmig beschlossen
+- TOP 23: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahre 2024 - zur Kenntnis genommen
+- TOP 24: Haushaltsänderungsanträge
+- TOP 24.1: Haushaltsantrag der SPD-Ratsfraktion: Mittel für Nachbarschaftszonen bereitstellen - mehrheitlich abgelehnt
+- TOP 24.2: Haushaltsantrag der SPD-Ratsfraktion: Mittel für die Radleitrouten 3-6 bereitstellen - mehrheitlich abgelehnt
+- TOP 24.3: Haushaltsantrag der SPD-Ratsfraktion: Mittel für einen Radweg auf der Toulouser Allee bereitstellen - mehrheitlich abgelehnt
+- TOP 24.4: Haushaltsantrag der SPD-Ratsfraktion: Haltestellen endlich barrierefrei ausbauen - mehrheitlich abgelehnt
+- TOP 24.5: Haushaltsantrag der SPD-Ratsfraktion: ÖPNV-Tangentenplanung voranbringen - mehrheitlich abgelehnt
+- TOP 24.6: Haushaltsantrag der SPD-Ratsfraktion: Anschaffung von 50 zusätzlichen Geschwindigkeitsanzeigen (LED-Smileys) - mehrheitlich abgelehnt
+- TOP 24.7: Haushaltsantrag der SPD-Ratsfraktion: Pilotprojekt für Mobilstationen in den Außenbezirken - mehrheitlich abgelehnt
+- TOP 24.8: Strategische Haushaltsposition Fußgängerbeauftragte -Haushaltsantrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 24.9: Ortsumgehung Oberbilk jetzt! -Haushaltsantrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 24.10: Gutachten zur Verbesserung der Verkehrssicherheit am Worringer Platz -Haushaltsantrag der FDP-Ratsfraktion- - mehrheitlich abgelehnt
+- TOP 24.11: Haushaltsantrag der SPD-Ratsfraktion: Bauunterhalt bezirklicher Straßen durch die Bezirksvertretungen priorisieren - mehrheitlich abgelehnt
+- TOP 25: Haushaltsplanentwurf des Ordnungsamtes für die Jahre 2024/2025 - mehrheitlich beschlossen
+- TOP 26: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für die Jahre 2024/2025 - passieren lassen
+- TOP 27: Haushaltsplanentwurf des Amtes für Brücken-, Tunnel- und Stadtbahnbau für die Jahre 2024/2025 - mehrheitlich beschlossen
