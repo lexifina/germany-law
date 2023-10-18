@@ -1,0 +1,70 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-10-18T17:00:00+02:00
+- Ende: 2023-10-18T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4672
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4672
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Solidarität mit Sderot und Kiryat Bialik - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - erledigt
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Bezirkliche Unterbringung Geflüchteter - beantwortet
+- TOP 4.2: Vermeintliche Überbelegung an der Clemens-Brentano-Grundschule - beantwortet
+- TOP 4.3: Situation obdachloser Menschen in Steglitz-Zehlendorf – update 2023 - beantwortet
+- TOP 4.4: Einzelbeförderung von Schüler*innen - beantwortet
+- TOP 4.5: Hitzeschutz für Obdachlose - beantwortet
+- TOP 4.6: Immer mehr Obdachlosigkeit an beiden Seiten der Wannseebrücke - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Sondermittel der BVV für die DLRG Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Begrünte/bepflanzte BVG-Wartehäuschen/Haltestellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Sogenannte „Pfandringe" in den Grünanlagen an Schlachtensee und Krumme Lanke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Schulwegsicherheit Dunant-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Schulwegsicherheit Grundschule am Karpfenteich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Umweltschutz: Schlangenbader Tunnel wieder öffnen – bis neues Verkehrskonzept umgesetzt ist - in der BVV abgelehnt
+- TOP 5.8: Mehr Platz für Fußverkehr in Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Parkbänke Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Schulwegpläne aktualisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Beleuchtung Stadtpark Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Informationskampagne zur Fütterung von Vögeln und anderen Stadttieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Brandgefahr und Abfallproblem an unseren Gewässern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Blitzer-Anlage auf Höhe Potsdamer Chaussee/Quantzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: 85. Jahrestag der Novemberpogrome von 1938 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Eine weitere Bücherbox für Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Aufstellflächen für E-Scooter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Verkehrsberuhigung rund um die neu gebaute Moltkebrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: Thielallee: Verkehrsraum sinnvoll nutzen - in der BVV abgelehnt
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2022 - überwiesen
+- TOP 6.2: Personalausweisautomat auch für das Bürger*innenamt Zehlendorf - überwiesen
+- TOP 6.3: Solaranlage auf dem Dach der Pestalozzi-Schule - überwiesen
+- TOP 6.4: Cybergrooming und Cybermobbing bekämpfen - überwiesen
+- TOP 6.5: An Förderaufruf "Fahrradparkhäuser an Bahnhöfen" beteiligen - überwiesen
+- TOP 6.6: Respekt durch Präsenz – uniformierte Einsatzkräfte in die Mitte unserer Gesellschaft rücken - überwiesen
+- TOP 6.7: Die Sporthalle der Athene-Grundschule wieder für Wettkämpfe am Wochenende nutzen - überwiesen
+- TOP 6.8: Qualitätsstandards bei Genehmigungsverlängerungen von Steganlagen schaffen - überwiesen
+- TOP 6.9: Kurzzeitparkplätze am S-Bahnhof Nikolassee - überwiesen
+- TOP 6.10: Beratungs- und Unterstützungsangebote für Geflüchtete - überwiesen
+- TOP 6.11: Digitale Kompetenz von Senior*innen im Bezirk fördern - überwiesen
+- TOP 6.12: Anhänger-Dauerparken durch das Ordnungsamt sanktionieren - überwiesen
+- TOP 6.13: Präsentation von Vereinen auf Wochenmärkten - überwiesen
+- TOP 6.14: Kinderrechte im Fokus: Bewerbung um das Siegel "Kinderfreundliche Kommune" - überwiesen
+- TOP 6.15: Steglitz-Zehlendorf zur Cannabis-Modellregion machen - überwiesen
+- TOP 6.16: Asyl für Turnvater Jahn - überwiesen
+- TOP 7: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 7.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Wohnortnahe Bank-Filialen erhalten - in der BVV abgelehnt
+- TOP 7.1.2: Post- und Finanzdienstleistungen wohnortnah erhalten! - in der BVV abgelehnt
+- TOP 7.1.3: Öffnungszeiten Postfilialen an Sonnabenden sicherstellen - in der BVV abgelehnt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: 2,5 Jahre „Klimamaßnahmen sofort": Was konkret haben der Beschluss und zuvor 18 Monate Diskussionen in Ausschüssen und BVV bis heute bewegt? Eine Stichprobe. - beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Soforthilfemaßnahme für Einzelhandel am Hindenburgdamm veranlassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
