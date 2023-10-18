@@ -1,0 +1,118 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2023-10-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7461828
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7461828
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellung des Beschlussentwurfs Anbindung Aubing und Aufstellungsbeschluss Eichenauer Straße durch das Referat für Stadtplanung und Bauordnung sowie dem Mobilitätsreferat
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Fahren mit E-Roller
+- TOP 2.1.2.: Überfüllung der Müllbehälter am Aubinger Bahnhof
+- TOP 2.1.3.: Behandlung des Stadtratsantrages "Erstellung eines übergreifenden Verkehrskonzeptes für den Münchner Westen"
+- TOP 2.1.4.: Unterführung Paosostraße
+- TOP 2.1.5.: (N) - Beschwerde über Mülltonnenleerung in der Schwojerstraße
+- TOP 2.1.6.: (N) - Verschmutzung in der Altostraße durch Zigarettenstummel und Unrat
+- TOP 2.1.7.: (N) - Situation am Langwieder Bach
+- TOP 2.1.8.: (N) - Hundekot auf der großen Hundewiese zwischen Neideckstraße und Streitbergstraße
+- TOP 2.1.9.: (N) - Bauarbeiten am Geothermie-Förderbrunnen in Freiham-Süd
+- TOP 2.1.10.: (N) - Korrektur von Fehlern auf den Internetseiten der Stadt München beim Thema "Auto abmelden"
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Hallstätter Str. 14 - Hoheneckstr. 44 - Rupert-Bodner-Str. 20 - Fl.St. 3589, Kravogelstr.
+- TOP 4.: Anträge
+- TOP 4.1.: Bauzaun an der Mathilde-Berghofer-Weichner-Str. / Fritz-Bauer-Str. entfernen (Roth)
+- TOP 4.2.: Einrichtung einer Schnellbuslinie Freiham - Moosach (OEZ) II (Brenner)
+- TOP 4.3.: Maßnahmen zur Verkehrsentlastung der Vestastraße (Bündnis 90/Die Grünen)
+- TOP 4.4.: Bergsonunterführung: 2-Richtungsradweg auf der Südostseite (Bündnis 90/Die Grünen)
+- TOP 4.5.: Schaltzeit Bedarfsampel Bodenseestr. Höhe Gut Freiham (Thomas Hampel)
+- TOP 4.6.: Gedenkveranstaltung anlässlich des 85. Jahrestages vom 9. November 1938 „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn 2023“ (Interfraktioneller Antrag)
+- TOP 4.7.: Fahrbahnsanierung Federseestraße zwischen Henschelstraße und Ziegeleistraße (Stockmann, Spannagl, Kriesel)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Schützengesellschaft Aubing v. 1873 e.V. Anschaffung von 3 Luftgewehren und 1 Luftpistole 5.208,75 Euro, Az.: 0262.0-22-0237
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Stromversorgung bei Veranstaltungen, Schr. Markthallen München vom 25.09.23
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Versammlungsanzeige "40 Tage das Leben - Gebetsaktion" vom 27.09.-05.11.23, Hans-Stützle-Str. 20, Schr. KVR vom 18.09.23
+- TOP 6.2.2.2.: Mittagsbetreuung in der Grundschule am Schubinweg, Schr. Ref. f. Bildung u. Sport vom 19.09.23
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Freihamer Weg 114, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung Mobilitätsreferat vom 27.09.23
+- TOP 6.3.1.2.: Verlängerung der Tempo-30-Zone in der Eichenauer Straße, Anhörung Mobilitätsreferat vom 28.09.23
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnung, hier: - Arbeiten im Straßenraum; Albert-Camus-Str. 6 zwischen Wiesentfelser Str. und Golo-Mann-Weg, Verlegung Fernwärmeleitung + Hausanschluss, Vollsperre - 2. Verlängerung, Schr. Mobilitätsreferat vom 26.09.23 - Brunhamstr., nördlich Bahnübergang; Anbringung einer Haltlinie mit dem Zusatz "bei Rot hier halten", Schr. Mobiilitätsreferat vom 20.09.23 - Gustl-Bayrhammer-Str., Anordnung einer Sackgassenbeschilderung durchlässig für Fußgänger, Schr. Mobilitätsreferat vom 19.09.23 - Arbeiten im Straßenraum; Osterangerstr. 39-77, Verlegung der Wasserleitung vom 25.09.-22.12.23, Schr. Mobilitätsreferat vom 18.09.23 - Freihamer Weg, südlich Hörweg; Einrichtung von Haltverboten nach Straßenumbau, Schr. Mobilitätsreferat vom 14.09.23 - Marianne-Hoppe-Str., Einrichtung von absoluten Haltverboten, Schr. Mobilitätsreferat vom 14.09.23 - Altostr. 62, Einrichtung von absoluten Haltverboten, Schr. Mobilitätsreferat vom 14.09.23 - Arbeiten im Straßenraum, Kunreuthstr. 9-15 mit Seite Riesenburgstr., SWM Fernwärme, Vollsperre, Engstellensignalisierung, Schr. Mobilitätsreferat vom 28.09.23 - Arbeiten im Straßenraum, Kreuzung Altostr./Bergsonstr./Schwemmstr., (Umbau Signalanlage) vom 02.10.23-04.02.23, Schr. Mobilitätsreferat vom 29.09.23
+- TOP 6.3.2.2.: Limesstr. 60+62, Gefährdung von Verkehrsteilnehmern, Schr. MVG vom 26.09.23
+- TOP 6.3.2.3.: Radwegrückbau in der Kastelburgstraße, Schr. Baureferat vom 22.09.23
+- TOP 6.3.2.4.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städt. Leistungen: Erhöhung der Kosten, Schr. Mobilitätsreferat vom 12.09.23
+- TOP 6.3.2.5.: (E) Belassen der ebenerdigen Bordsteine (Antrag 2), Schr. Baureferat vom 11.09.23
+- TOP 6.3.2.6.: Bushaltestelle Ilse-Fehling-Straße, Linie 157, Schr. MVG vom 27.09.23
+- TOP 6.3.2.7.: S-Bahnhof Neuaubing, Schr. DB vom 04.10.23
+- TOP 6.3.2.8.: Befestigung Hinweisschild am S-Bahnhof Freiham, Schr. DB vom 04.10.23
+- TOP 6.3.2.9.: Wegeplanung Neubau der Bahnunterführung Paosostraße, Schr. Baureferat vom 29.09.23
+- TOP 6.3.2.10.: (N) - Zugang von Nordwesten an den Bahnsteig der S-Bahnhaltestelle Neuaubing, Schr. Deutsche Bahn vom 09.10.23 und weiteres Bürgerschreiben vom 11.10.23
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Veranstaltung in einer Grünanlage; Rothenbühler Str. Grünanlage am Wasserturm, Bürgerinformation am 25.10.23, Anhörung KVR vom 26.09.23
+- TOP 6.4.1.2.: A) Vorstellung der Ergebnisse der "Machbarkeitsstudie zur verkehrlichen Anbindung zwischen Freiham und Aubing" B) Städtebauliche Entwicklung an der Eichenauer Straße; Bebauungsplan mit Grünordnung Nr. xxx Eichenauer Straße (südlich und nördlich), Ortskern Aubing (westlich), Freiham Nord (nördlich), BAB A 99 West (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 965 und 2068) - Aufstellungs- und Eckdatenbeschluss - C) Durchführung des städtebaulichen und landschaftsplanerischen Realisierungswettbewerbes D) Anträge und Empfehlungen, offener Brief Anhörung Planungsreferat vom 15.09.23
+- TOP 6.4.1.3.: Antrag auf Veranstaltung in einer Grünanlage, hier: Grünband Freiham, Ausstellungseröffnung Bauprojekte Freiham am 24.11.23, Anhörung KVR vom 28.09.23
+- TOP 6.4.1.4.: Mainaustr. 67, Aufstockung von zwei Vollgeschossen - Vorbescheid, Anhörung Planungsreferat vom 29.09.23
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Trinkwasser-Projekt in der Osterangerstraße, Flyer SWM vom 26.09.23
+- TOP 6.4.2.2.: Bauvorhaben im 22. Stadtbezirk v. 11.09.-18.09.23, v. 18.09.-24.09.23, (N) v. 02.10.-08.10.23
+- TOP 6.4.2.3.: Krähensichere öffentliche Abfallbehälter aufstellen, Schr. Baureferat vom 08.09.23
+- TOP 6.4.2.4.: Schulklassenexkursion Aubinger Moos, Schr. BayernNetzNatur-Projekt vom 22.09.23
+- TOP 6.4.2.5.: Wertstoffinseln in Freiham, nicht geplant, nicht vorhanden, gleich gelbe Wertstofftonnen einführen, Schr. AWM vom 14.09.23
+- TOP 6.4.2.6.: Situation im Bereich der Limesstr. 112, Schr. KVR vom 02.10.23
+- TOP 6.4.2.7.: Baumrodungen, Gelände an der Limesstraße, Schr. Baureferat vom 29.09.23
+- TOP 6.4.2.8.: (N) - Freihamer See, Schr. Ref. f. Stadtplanung u. Bauordnung vom 06.10.23
+- TOP 6.4.2.9.: (N) - Zufahrtsschranken an der Aubinger Lohe wieder aufstellen, Schr. Baureferat vom 05.10.23
+- TOP 6.4.2.10.: (N) - Baumaßnahmen der Stadtwerke München, Stichtag: 25.09. - 09.10.23
+- TOP 6.4.2.11.: (N) - Sachstand Bolzplatz Ziegeleistraße, Schr. Baureferat vom 14.09.23
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung, Anhörung Direktorium vom 29.09.23
+- TOP 7.2.: (N) - Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund - Anhörung zum BA-Antrag Nr. 20-26 / B05899 des BA 15, Anhörung Direktorium vom 10.10.23
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - LImesstr., Abbruch, Schr. Sozialreferat vom 21.09.23
+- TOP 8.2.: Unveränderte Fortführung des Gaststättenbetriebs: (N) - Lochhausener Str. 201, "NOK Thai Bistro by Chee", Schr. KVR vom 02.10.23 (N) - Bodenseestr. 228, Musikcafe, Schr. KVR vom 04.10.23
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Sozialausschuss vom 28.09.23
+- TOP 9.1.1.: (U) Weiteres Vorgehen zum Anforderungsprofil für die reservierte Flächennutzung für voll- und teilstationäre Pflege in Freiham – Teilfläche 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 9.2: Ausschuss für Arbeit und Wirtschaft vom 20.09.23
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Bauausschuss vom 10.10.23
+- TOP 9.3.1.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 9.4: Ausschuss für Stadtplanung und Bauordnung vom 11.10.23
+- TOP 9.4.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 9.4.2.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 9.5: Bildungsausschuss vom 20.09.23
+- TOP 9.5.1.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 10.1.: BürgerInnenbeteiligung zur Aufwertung der Grünfläche am Wasserturm am Mittwoch, den 25.10.23 von 15.00-18.00 Uhr vor Ort
+- TOP 10.2.: (N) - Ausschreibung zur Projektförderung, Kunstwettbewerb "Freiham Future", Schr. Kulturreferat vom 09.10.23
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 15.11.23 um 19.00 Uhr im Campus Freiham, Helmut-Schmidt-Allee 41 (Mensa Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 09.10.23 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 10.10.23, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 11.10.23, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 12.10.23, vorauss. 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.11.: (N) - Belastung durch Verkehrsaufkommen/-lärm in der Bergsonstraße in Aubing
+- TOP 2.1.12.: (N) - Parksituation in der Henschelstraße
+- TOP 2.1.13.: (N) - Parksituation in der Aubing-Ost-Straße
+- TOP 10.3.: (N) - Bekanntmachung über die Auslegung und Unterrichtung der Öffentlichkeit zum Planfeststellungsverfahren für das Bauvorhaben "Neubau S-Bahn Werk München - Langwied", Schr. Ref. f. Stadtplanung u. Bauordnung vom 26.09.23
+- TOP 2.1.14.: (N) - Buslinie 157 fährt Gotzmannschule nicht zuverlässig an
