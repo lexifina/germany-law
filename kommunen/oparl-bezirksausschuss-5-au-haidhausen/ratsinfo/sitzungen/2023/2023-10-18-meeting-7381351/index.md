@@ -1,0 +1,143 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-10-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7381351
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7381351
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Workshop Mariahilfplatz am voraussichtlich 17.11.2023: Nennung von Teilnehmern aus den Fraktionen (je Fraktion mindestens ein Mitglied)
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Antrag SPD; Fahrradtaugliche Induktionsschleife
+- TOP 5.2.: Antrag SPD; Schulhöfe öffnen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 6.1.2.: Anhörungsrecht für die Bas auch bei größeren Veranstaltungen auf Privatgrund BA - Antrag Nr. 20-26 / B 05899 des BA 15 Trudering-Riem vom 21.09.2023
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Graffiti Gestaltung Tassiloplatz Antwort Baureferat zum Schreiben BA 5
+- TOP II.2.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 30.10. bis 03.11.2023 4.807,00€ / AZ 0262.0-5-0498
+- TOP II.3.: -> zu TOP 2: Schreiben Antragsteller
+- TOP II.4.: (E) Stadtbezirksbudget Init. "Joint Adventures" Access to Dance -depARTures vom 07. -25.11.2023 8.603,00€; Az. 0262.0-5-0499
+- TOP II.5.: (E) Stadtbezirksbudget Init. "Local space jam" Local space jam am 07.10.2023 3.000,00€; Az. 0262.0-5-0501
+- TOP II.6.: Detailauskunft zu TOP 4.
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Anhörungen
+- TOP 2.1.: St. Martins Laternenfest am 10.11.2023 in der Claude-Lorrain-Straße (Frühlingsanlagen)
+- TOP 2.2.: Generalsanierung offene Einrichtung für Jugendlichen "Freizeittreff Au" Kegelhof 8 (Frist 10.10.2023)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Stellungnahme zu einer Revision der Sperrbezirke
+- TOP 3.2.: Unterkunft für Geflüchtete Antwort Pfarrverband Haidhausen zum Schreiben BA 5
+- TOP 3.3.: Vermietung der Gebäude Versailler Straße Antwort St. Gabriel zum Schreiben BA 5
+- TOP 3.4.: Hausnummerierung Mariahilfplatz 18
+- TOP 3.5.: Trinkwasserbrunnen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bouleplatz Hypopark -> dazu Schreiben Baureferat
+- TOP 5.: Sonstiges
+- TOP 5.1.: Entwicklung einer Drogendealerszene an der Isar im Bereich Reichenbachbrücke - Wittelsbacherbrücke
+- TOP IV.: UA Wirtschaft
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Workshop Mariahilfplatz: Austausch mit der STUDIO | STADT | REGION
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche: Trattoria Marinella, Kirchenstr. 79
+- TOP 1.2.: (E) Kiosk Pariser Platz - vertagt in der Sitzung am 20.09.2023 -
+- TOP 1.3.: Freischankflächenantrag; Little Cafe, Wiener Platz 6
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anhörung; Haidhauser Weihnachtsmarkt vom 28.11. - 24.12.2023 (Frist bis 27.10.2023)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Gehweghochbeete: Flexible Größen zulassen
+- TOP 4.: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Rablstr. 37 - Nutzungsänderung (EG): Laden zu Büro
+- TOP 2.2.: Ohlmüllerstr. 19 - Nutzungsänderung von Einzelhandel zu Schulungsräumen (Yogastudio)
+- TOP 2.3.: Schneckenburgerstr. 30 - Errichtung von 4 Dachgauben und Verlegung bzw. Bau eines DG-Balkons - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.4.: Schleibingerstr. 9 - Ausbau eines Dachgeschosses mit neuen Gauben, neue Balkone, Fassaden- und Fenstersanierung, Nutzungsänderung EG
+- TOP 2.5.: Ohlmüllerstr. 26 - 1.Abriß des best. Rückgebäudes (marode Bausubstanz) 2.Neubau eines Rückgebäudes EG + 1.OG + DG >mit einem Teil als Lagernutzung für Restaurant im EG, >mit Nutzungsänderung eines Teils des EG von Werkstatt zu Wohnung >und Wohnnutzungen im 1.OG und DG ( gesamt eine Wohneinheit wie bisher)
+- TOP 2.6.: Lucile-Grahn-Str. 19 - Schulbauoffensive Errichtung eines Schulpavillons mit 8 Klassen als Interimsmaßnahme für die Städt. Adalbert-Stifter-Realschule an der Flurstr. 4 befristet auf 11 Jahre (Standzeit bis ende 2034)
+- TOP 2.7.: Lothringer Str. 1 - Abbruch und Errichtung eines Dachstuhls und Ausbau des Dachgeschosses, Aufstockung und Errichtung eines Außenaufzugs hofseitig
+- TOP 2.8.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1956c Bothestraße (südlich), Leuchtenbergring (westlich), Bahnlinie München - Rosenheim (nördlich) (Teiländerung des Bebauungsplans Nr. 491)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 3.2.: Online-Beteiligung in der Bauleitplanung der Landeshauptstadt München
+- TOP 3.3.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 4.: Bürgeranliegen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Ausweisung von mehr Fahrradstraßen Empfehlung Nr. 20-26 / E 00103 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 08.07.2021 - erneute Vorlage mit der Bitte um endgültige Beschlussfassung -
+- TOP 1.2.: (E) + (U) S-Bahn Zugang Rosenheimer Platz Empfehlung Nr. 20-26 / E 01119 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 30.03.2023
+- TOP 1.3.: Illegales Gehwegparken in der Edlingerstraße beenden (Antrag) - vertagt in der Sitzung am 20.09.2023 -
+- TOP 1.4.: Gehweg am Preysingplatz verbreitern (Antrag) - vertagt in der Sitzung am 20.09.2023 -
+- TOP 1.5.: Dialog-Displays; Bestellstart
+- TOP 2.: Anhörungen
+- TOP 2.1.: Antrag auf Fahrrad- oder Lastenradabstellplätze vor Preysingstr. 71
+- TOP 2.2.: Mehrjahresinvestitionsprogramm 2023-2027 Stellungnahme Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ampelschaltung an der Haltestelle Grillparzerstraße in Richtung Norden
+- TOP 3.2.: Antrag auf Fahrradabstellplätze vor dem Eingang von "Zweirad-Center Stadler" in der Bothestr. 9
+- TOP 3.3.: Fahrradabstellplätze für das Franzosenviertel
+- TOP 3.4.: Raum für Fahrräder Gravelottestr. 7
+- TOP 3.5.: Sammelbeschluss - Erledigung Stadtratsanträge der Wahlperiode 2008 – 2014 / 2014 - 2020
+- TOP 3.6.: Verlängerung der grünen Ampelphasen für Fußgänger an der Pariser Straße/Rosenheimer Straße sowie an der Balanstraße/Orleansstraße
+- TOP 3.7.: Oberflächengestaltung am Genoveva-Schauer-Platz
+- TOP 3.8.: Verbesserungen in der Steinstraße / Genoveva-Schauer-Platz
+- TOP 3.9.: Farbe für den Genoveva-Schauer-Platz
+- TOP 3.10.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städtische Leistung: Erhöhung der Kosten
+- TOP 3.11.: Verkehrsrechtliche Anordnungen/Erlaubnisse a) Breisacher Str. 2 und Wörthstr. 43, Vollsperre von 09.10.-15.12.2023 (Erneuerung Fernwärmeschächte) b) Balanstraße, Vollsperre vom 29.09 - 31.12.2023 (Sanierung Eisenbahnüberführung)
+- TOP 3.12.: Baustelle S-Bahn Rosenheimer Platz, neue Termine
+- TOP 3.13.: Geländer der neuen Tramhaltestelle Rosenheimer Platz Antwort MVG zum Schreiben BA 5
+- TOP 3.14.: Fahrradstellplätze für die Breisacher Straße hier: Antwort Baureferat vom 19.09.2023
+- TOP 3.15.: Johannisplatz - Trambetrieb stabilisieren
+- TOP 3.16.: Straßenbaumaßnahme Entenbach-/Schlotthauerstraße von 16.10.-24.11.2023 (Kreuzungsumbau, Errichtung Fahrradständer, neuer Baum und Sitzgelegenheiten)
+- TOP 3.17.: Projekt MCube Kolumbusstraße; Verkehrsrechtliche Anordnung zum vorzeitigen Abbau aufgrund Gerichtsurteil
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Parkplätze für Motorräder vor der Breisacher Str. 10 Vertagung aus der Sitzung vom 26.07.2023 Antwort Mobilitätsreferat zum Schreiben BA
+- TOP 4.2.: Rosenheimer Straße und Lothringer Straße, Geschwindigkeitsüberwachung
+- TOP 4.3.: Vorschlag für neue Fahrradabstellanlagen in der Grillparzerstraße
+- TOP 4.4.: Keine weiteren Parkplatzentfernung im Umkreis Sommerstraße, Edlingerstraße, Claude-Lorrain- Straße, Eduard-Schmid-Straße, Schlotthauerstraße, Asamstraße, Albanistraße, Entenbachstraße (Punkt 1) Bekanntgabe aller den Steuerzahler belastenden Ausgaben im Zusammenhang mit der Sperrung der Kolumbusstraße und dem dortigen Projekt (Punkt 4) Fahrbahnbeschädigung ausbessern in der Eduard-Schmid-Straße (Punkt 5)
+- TOP 4.5.: Abmarkierung des Gehwegs in der Steinstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Wave of Hope e.V. Frieden, Umwelt- und Klimaschutz vom 08. -12.11.2023 1.500,00€; Az. 0262.0-5-0502
+- TOP 2.: Anhörungen
+- TOP 2.1.: Bazeillesstr. 1
+- TOP 2.2.: Regenwasser für die Gehweghochbeete
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schlotthauerstr.; Gefahrenbaumbeseitigung
+- TOP 3.2.: Photovoltaik / Denkmalschutz
+- TOP 3.3.: Ausnahmegenehmigung für Baustelleneinrichtung im Kronepark vom 09.10.-22.10.2023
+- TOP 3.4.: Beschilderung Park Maximiliansanlagen Antwort Bayerische Schlösser- und Seenverwaltung zum Schreiben BA 5
+- TOP 3.5.: Schaffung von Hochbeeten in bereits bestehenden Grünflächen, zum Beispiel an der Isar (Punkt 6)
+- TOP 3.6.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 3.7.: Protokoll zum Ortstermin Krone Park
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Nächtliche Ruhestörung durch städtisches Kehrfahrzeug in der Inneren Wiener Straße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 1.1.: Protokoll zum Gespräch des BA 5 mit dem Planungsreferat am 10.10.2023 => dazu: Auskunft Planungsreferat zur Fragestellung "Bebauungsplan Nr. 1956a, Orleanshöfe"
+- TOP 1.2.: Protokoll der Sondersitzung der BAs 5 und 17 zum Kronepark am 26.09.2023
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 06.11.2023 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 06.11.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 07.11.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 08.11.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 08.11.2023 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 09.11.2023 um 20.00 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 15.11.2023, 19.00 Uhr, Erziehungshilfezentrum Adelgundenheim, Hochstr. 47 BA-Vorstand, Montag, 31.10.2023, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
