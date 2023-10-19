@@ -1,0 +1,71 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-10-19T17:00:00+02:00
+- Ende: 2023-10-19T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27830
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27830
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00955906.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00955906.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00955906.pdf
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zum Bauvorhaben auf Parkplatz 5 am Fühlinger See
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/0177/2023 Schulversorgung in den Stadtteilen Worringen und Roggendorf / Thenhoven
+- TOP 7.1.2: Beantwortung AN/1527/2022 Fehlende Schulbau-Baumaßnahmen im Bezirk Chorweiler in der Haushaltsplanung 2023/24
+- TOP 7.1.3: Beantwortung einer Anfrage (BV) betreffend den "Kita-Neubaubedarf in Köln-Merkenich mit Seveso III-Problematik"
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstandsanfrage zum Einrichtung eines Bäderbeirats für das Chorweilerbad
+- TOP 7.2.2: Sachstandsanfrage für die Errichtung eines Zebrastreifens bzw. einer Lichtsignalanlage im Bereich Johannesstraße/ Mengenicherstraße
+- TOP 7.2.3: Sachstandsanfrage für die Errichtung eines Zebrastreifens an der Martinusstraße/Amselweg
+- TOP 7.2.4: Kita Geranienweg 27
+- TOP 7.2.5: Urnengräber, Baumgräber, Bestattungsgärten und Kolumbarien im Stadtbezirk Chorweiler
+- TOP 7.2.6: Nutzung Regattastrecke Fühlinger See
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Auflistung der Daten der städtischen Blitzer im Stadtbezirk - ungeändert beschlossen
+- TOP 8.2.2: Querungsmöglichkeit Mercatorstraße - geändert beschlossen
+- TOP 8.2.3: Unerwünschtes LKW-Parken im Stadtbezirk Chorweiler unterbinden - ungeändert beschlossen
+- TOP 8.2.4: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke und Lilo Heinrich und FDP zur Sitzung der Bezirksvertretung Chorweiler am 19.10.2023 - ungeändert beschlossen
+- TOP 8.2.5: Dringlichkeitsantrag: Beleuchtung auf der Kriegerhofstraße und dem Waldweg in Heimersdorf - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus„ - Kenntnis genommen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über die abweichende Herstellung der Erschließungsanlage Robert-Bosch-Straße von Stichstraße zu Haus-Nr. 43-61 bis Kreisverkehr Industriestraße - ungeändert beschlossen
+- TOP 9.2.2: Bedarfsfeststellung für drei Schulbaumaßnahmen zur kurzfristigen Schaffung von Schulplätzen an Grund- und Förderschulen mit Primarstufe - ungeändert beschlossen
+- TOP 9.2.3: "Grundschulstandort Östlich Mottenkaul" in Köln-Roggendorf/Thenhoven: Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 9.2.4: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - geändert beschlossen
+- TOP 9.2.5: Entwicklung des neuen Stadtteils Kreuzfeld – hier: Weiterplanungsbeschluss der Integrierten Planung - geändert beschlossen
+- TOP 9.2.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nummer 59569/05 - Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - geändert beschlossen
+- TOP 9.2.7: Strategische Sozialplanung - Herausforderungen und Ziele - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 10.2.2: Inbetriebnahme der Suchtberatungsstelle Chorweiler - Kenntnis genommen
+- TOP 10.2.3: Gesetz zur Stärkung der Digitalisierung im Bauleitplanverfahren - Kenntnis genommen
+- TOP 10.2.4: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 10.2.5: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 10.2.6: Sportsituation an der Heinrich-Böll-Gesamtschule, Merianstr. 11, 50765 Köln-Chorweiler - Sachstandsmitteilung der Verwaltung - Kenntnis genommen
+- TOP 10.2.7: S-Bahnstation Worringen - Künstlerische Gestaltung durch DB AG - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
