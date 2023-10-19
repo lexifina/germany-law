@@ -1,8 +1,8 @@
 # Richtlinie Berufliche Bildung Vollzitat: Richtlinie Berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.3
+- Datum: 2023-10-19 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19567.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2023
+19.10.2023
 bis
-18.10.2023
+28.07.2025
 
 Richtlinie Berufliche Bildung
 
@@ -76,6 +76,11 @@ Meisterbonus;
 5.
 
 Überbetriebliche Berufsbildungsstätten.
+
+
+6.
+
+Berufliche Weiterbildung.
 
 
 III.
@@ -504,6 +509,7 @@ Der Verwendungsnachweis ist zum Vorhabensende innerhalb von sechs Monaten nach E
 
 Abweichend von Nummer 1.4 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Zuwendungen auch dann bewilligt werden, wenn der Ausbildungsvertrag oder das sonstige Vertragsverhältnis nach § 26 des Berufsbildungsgesetzes vor Antragstellung geschlossen und mit der Ausbildung oder dem ausbildungsintegrierenden Studium begonnen wurde.
 
+
 IV.
 Meisterbonus
 
@@ -684,6 +690,225 @@ Dabei sind das BMBF und das BIBB zuständig, wenn die ÜBS überwiegend dem Zwec
 Die SAB macht sich für den Verwendungsnachweis für den Landesanteil die Prüfergebnisse des BIBB beziehungsweise des BAFA zu eigen.
 
 
+VI.
+Berufliche Weiterbildung
+
+1.
+
+Gegenstand der Förderung
+
+
+Zum Aufbau beziehungsweise zur Stärkung fachlicher und überfachlicher Kompetenzen und Qualifikationen, dem Erhalt und Ausbau der Beschäftigungsfähigkeit sowie der Steigerung der Beschäftigungschancen werden gefördert:
+
+
+a)
+
+Vorhaben der betrieblichen Weiterbildung,
+
+
+b)
+
+Vorhaben der individuell berufsbezogenen Weiterbildung.
+
+2.
+
+Zuwendungsempfänger
+
+
+a)
+
+Zuwendungsempfänger für Vorhaben nach Nummer 1. a) sind Unternehmen (natürliche beziehungsweise juristische Personen oder Personenvereinigungen des privaten Rechts) mit bis zu 500 Mitarbeitern (einschließlich Mitarbeitern aus unselbstständigen Niederlassungen) beziehungsweise rechtlich selbstständige Unternehmen innerhalb eines Unternehmensverbunds mit bis zu 500 Mitarbeitern im Unternehmen. Sitz oder Niederlassung des Unternehmens sind im Freistaat Sachsen.
+
+
+b)
+
+Zuwendungsempfänger für Vorhaben nach Nummer 1. b) sind natürliche Personen.
+
+
+c)
+
+Von der Förderung ausgeschlossen sind:
+
+
+aa)
+
+Unternehmen, die einer Rückforderungsanordnung auf Grund einer früheren Kommissionsentscheidung zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Gemeinsamen Markt nicht Folge geleistet haben,
+
+
+bb)
+
+Unternehmen, bei denen 25 Prozent oder mehr des Kapitals oder der Stimmrechte von einer oder mehreren öffentlichen Stellen oder Körperschaften des öffentlichen Rechts einzeln oder gemeinsam kontrolliert werden.
+
+3.
+
+Zuwendungsvoraussetzungen
+
+
+a)
+
+Abweichend von Nummer 1.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung dürfen Zuwendungen bewilligt werden, wenn die Zuwendung im Einzelfall 2 500 Euro unterschreitet. Die Gesamtausgaben müssen mindestens 700 Euro betragen.
+
+
+b)
+
+Die Teilnehmenden für Vorhaben nach Nummer 1. a) haben ihren Hauptwohnsitz oder Arbeitsort im Freistaat Sachsen.
+
+
+c)
+
+Die Teilnehmenden für Vorhaben nach Nummer 1. a) gehören einer der folgenden Zielgruppen an:
+
+
+aa)
+
+Unternehmer beziehungsweise Selbstständige, Erwerbstätige mit bestehendem Arbeitsverhältnis,
+
+
+bb)
+
+dual Studierende, Werkstudenten, Praktikanten.
+
+
+d)
+
+Die Zuwendungsempfänger nach Nummer 1. b) haben ihren Hauptwohnsitz im Freistaat Sachsen.
+
+
+e)
+
+Die Zuwendungsempfänger nach Nummer 1. b) sind Erwerbstätige mit bestehendem Arbeitsverhältnis und einem durchschnittlichen monatlichen Bruttoeinkommen von bis zu 3 700 Euro.
+
+
+f)
+
+Der Nachweis der Zuwendungsvoraussetzungen erfolgt durch Eigenerklärung im Antragsformular.
+
+4.
+
+Art und Umfang, Höhe der Zuwendung
+
+
+a)
+
+Die Zuwendung wird in Form eines Zuschusses als Festbetragsfinanzierung gewährt.
+
+
+b)
+
+Der Fördersatz beträgt in der Regel 50 Prozent. Für geringfügig Beschäftigte für Vorhaben nach Nummer 1. b) gilt ein Fördersatz von in der Regel 80 Prozent.
+
+
+c)
+
+Die Zuwendung wird als Pauschale in Form von individuellen Standardeinheitskosten gewährt. Zuwendungsfähig sind die Ausgaben der Weiterbildungsmaßnahme zuzüglich anfallender Prüfungsgebühren. Die Standardeinheitskosten für eine einzelne Einheit ermitteln sich aus der Höhe der zuwendungsfähigen Ausgaben in Euro pro Modul und Teilnehmer unter Berücksichtigung des Fördersatzes.
+
+
+d)
+
+Die Zuwendung beträgt maximal 4 500 Euro.
+
+
+e)
+
+Nicht förderfähig sind:
+
+
+aa)
+
+die Umsatzsteuer für Vorhaben nach Nummer 1. a),
+
+
+bb)
+
+Fahrt- und Unterbringungskosten.
+
+5.
+
+Verfahren
+
+
+a)
+
+Die Antragstellung und Nachweisführung erfolgt über das Förderportal der Bewilligungsstelle. Als Nachweise sind erforderlich
+
+
+aa)
+
+für Vorhaben nach Nummer 1. a):
+
+
+–
+
+Nachweise zur Legitimation,
+
+
+–
+
+Weiterbildungsangebot.
+
+
+bb)
+
+für Vorhaben nach Nummer 1. b):
+
+
+–
+
+Nachweise zur Legitimation,
+
+
+–
+
+Weiterbildungsangebot,
+
+
+–
+
+Gehaltsnachweis.
+
+
+b)
+
+Die Umsetzung des Vorhabens ist nachzuweisen. Die Verwendungsnachweisführung erfolgt über das Förderportal der Bewilligungsstelle. Als Nachweise sind erforderlich:
+
+
+–
+
+Anmeldebestätigung,
+
+
+–
+
+Teilnahmebestätigung.
+
+
+c)
+
+Die Auszahlung erfolgt gemäß Ziffer 7.6 Verwaltungsvorschrift zu § 44 Sächsische Haushaltsordnung nach Vorlage und auf der Grundlage des Verwendungsnachweises. Bei Vorhaben nach Nummer 1 b) sind Zwischenauszahlungen bei Gesamtausgaben in Höhe von mindestens 3 000 Euro modulbezogen möglich.
+
+6.
+
+Anzuwendende Beihilfevorschriften
+
+
+Die Zuwendung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen folgender beihilferechtlicher Regelungen der EU in der jeweils geltenden Fassung:
+
+
+a)
+
+Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), zuletzt geändert durch Verordnung (EU) 2020/972 vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3),
+
+
+b)
+
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9), zuletzt geändert durch Verordnung (EU) 2019/316 vom 21. Februar 2019 (ABl. L 51 vom 22.2.2019, S. 1)
+
+
+c)
+
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor (ABl. L 190 vom 28.6.2014, S. 45), zuletzt geändert durch VO (EU) 2022/2514 vom 14.12.2022 (ABl. L 326 vom 21.12.2022, S. 8).
+
+
 Teil C
 Inkrafttreten und Außerkrafttreten
 
@@ -786,9 +1011,9 @@ Fsn-Nr.: 5573-V22.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2023
+Fassung gültig ab: 19. Oktober 2023
 
-Fassung gültig bis: 18. Oktober 2023
+Fassung gültig bis: 28. Juli 2025
 
 Drucken/Speichern
 
@@ -813,7 +1038,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19567.3
+https://www.revosax.sachsen.de/vorschrift/19567.4
 Stand vom
 18.11.2026
 
