@@ -1,28 +1,28 @@
 # Anlage 3 (zu § 2 Absatz 2 Nummer 2 Buchstabe a)Gebietsnegativliste
 
-Staatsgebiet Afghanistan
-Staatsgebiet Armenien
-Staatsgebiet Aserbaidschan
-Staatsgebiet Äthiopien
-Staatsgebiet Bosnien-Herzegowina
-Staatsgebiet Dschibuti
-Staatsgebiet Eritrea
+Staatsgebiet Islamische Republik Afghanistan
+Staatsgebiet Republik Armenien
+Staatsgebiet Republik Aserbaidschan
+Staatsgebiet Demokratische Bundesrepublik Äthiopien
+Staatsgebiet Bosnien und Herzegowina
+Staatsgebiet Republik Dschibuti
+Staatsgebiet Staat Eritrea
 Staatsgebiet Georgien
-Staatsgebiet Irak
-Staatsgebiet Israel und palästinensische Autonomiegebiete
-Demokratische Republik Kongo
+Staatsgebiet Republik Irak
+Staatsgebiet Staat Israel und palästinensische Autonomiegebiete
+Staatsgebiet Republik Jemen
+Staatsgebiet Demokratische Republik Kongo
 Kosovo/UNMIK (VN-Resolution 1244 (1999))
-Staatsgebiet Libanon
-Staatsgebiet Mali
+Staatsgebiet Libanesische Republik
+Staatsgebiet Republik Mali
 Staatsgebiet Republik Moldau
-Staatsgebiet Senegal
-Staatsgebiet Somalia
-Staatsgebiet Sudan
-Staatsgebiet Südsudan
-Staatsgebiet Syrien
-Staatsgebiet Tschad
+Staatsgebiet Republik der Union Myanmar
+Staatsgebiet Republik Niger
+Staatsgebiet Bundesrepublik Somalia
+Staatsgebiet Republik Sudan
+Staatsgebiet Republik Südsudan
+Staatsgebiet Arabische Republik Syrien
 Staatsgebiet Ukraine
-Staatsgebiet Usbekistan
 Westsahara
 Staatsgebiet Zentralafrikanische Republik
-Staatsgebiet Zypern
+Staatsgebiet Republik Zypern

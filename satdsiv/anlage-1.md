@@ -1,24 +1,24 @@
-# Anlage 1 (zu § 2 Abs. 2 Nr. 1)Bodenstationsnegativliste
+# Anlage 1 (zu § 2 Absatz 2 Nummer 1)Bodenstationsnegativliste
 
-( Fundstelle: BGBl. I 2008, 509 )
-Staatsgebiet Armenien
-Staatsgebiet Aserbaidschan
-Staatsgebiet Côte d´Ivoire
-Staatsgebiet Demokratische Volksrepublik Korea (Nordkorea)
-Staatsgebiet Irak
+Staatsgebiet Republik Armenien
+Staatsgebiet Republik Aserbaidschan
+Staatsgebiet Demokratische Bundesrepublik Äthiopien
+Staatsgebiet Republik Belarus
+Staatsgebiet Volksrepublik China
+Staatsgebiet Republik Dschibuti
+Staatsgebiet Staat Eritrea
+Staatsgebiet Republik Irak
 Staatsgebiet Islamische Republik Iran
-Staatsgebiet Kongo
-Staatsgebiet Kuba
-Staatsgebiet Libanon
-Staatsgebiet Liberia
+Staatsgebiet Republik Kongo
+Staatsgebiet Demokratische Volksrepublik Korea
+Staatsgebiet Republik Kuba
+Staatsgebiet Libanesische Republik
 Staatsgebiet Republik Moldau
-Staatsgebiet Myanmar
-Staatsgebiet Ruanda
-Staatsgebiet Sierra Leone
-Staatsgebiet Simbabwe
-Staatsgebiet Somalia
-Staatsgebiet Sudan
+Staatsgebiet Republik der Union Myanmar
+Staatsgebiet Republik Ruanda
+Staatsgebiet Russische Föderation
+Staatsgebiet Republik Simbabwe
+Staatsgebiet Bundesrepublik Somalia
+Staatsgebiet Republik Sudan
+Staatsgebiet Republik Südsudan
 Staatsgebiet Arabische Republik Syrien
-Staatsgebiet Turkmenistan
-Staatsgebiet Usbekistan
-Staatsgebiet Weißrussland
