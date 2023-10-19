@@ -1,0 +1,8 @@
+# TOP -: Beantwortung Anfrage der Linken zur Sitzung am 19.10.2023, AN/1737/2023; Soziale Erhaltungssatzung im Stadtbezirk Nippes
+
+- Sitzung: 24. Sitzung der Bezirksvertretung Nippes (2023-10-19)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/384824
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/178400
