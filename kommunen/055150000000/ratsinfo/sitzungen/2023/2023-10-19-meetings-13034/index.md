@@ -1,0 +1,52 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-10-19T17:03:00+02:00
+- Ende: 2023-10-19T19:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13034
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13034
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00536342.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Berichte
+- TOP 3.1: aktueller Stand zur Sperrung des Truppenübungsplatzes
+- TOP 3.2: Sachstand zum Baugebiet Kötterstraße
+- TOP 3.3: mdl. Bericht - Schaltzeiten am DEK
+- TOP 4: Anhörungen
+- TOP 4.1: Baubeschluss zur Erneuerung von 45 Lichtsignalanlagen mit LED-Signalgebern - einstimmig beschlossen
+- TOP 4.2: Kommunales Sportzentrum Handorf-Hobbeltstraße - kommunales Funktionsgebäude und Vereinshaus - einstimmig geändert beschlossen
+- TOP 4.3: Baubeschluss - einstimmig geändert beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Wahl einer stellvertretenden Schiedsperson für den Bezirk 10 Münster-St.Mauritz - einstimmig beschlossen
+- TOP 5.2: Bestellung einer Trägervertretung für die städt. Kindertageseinrichtung Eichenaue, Eichenaue 1-3 - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anträge
+- TOP 6.1: Schutzstreifen Hobbeltstraße für den Radverkehr - einstimmig beschlossen
+- TOP 6.2: Bootsanleger Stapelskotten revitalisieren - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 7.1: Sportboxen für die Stadtteile Handorf, Gelmer und Mauritz Ost - eingebracht
+- TOP 7.2: Schleichverkehr auf dem Pleistermühlenweg eindämmen - eingebracht
+- TOP 7.3: Wiederbepflanzung an den neuen Kanalbrücken Schillerstraße und Wolbecker Straße - eingebracht
+- TOP 7.4: Verkehrssicherheit an der Kanalpromenade von Gelmer bis zur Königsberger Straße - eingebracht
+- TOP 7.5: Nutzung der ehemaligen Richard von Weizsäcker Schule - zurückgezogen
+- TOP 7.6: Ausbau des östl. Geh- und Radweges zwischen Gartencenter und Gildenstraße - eingebracht
+- TOP 7.7: Durchfahrt der Coerrmühle in die Rieselfelder - eingebracht
+- TOP 7.8: Bericht zur Aufhebung der Bahnübergänge Sudmühle und Mariendorf - eingebracht
+- TOP 7.9: Auswertung der Dialog-Displays Mondstraße - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 8.1: Gestaltungskonzept Petronillaplatz und Hugo-Pottebaum-Platz (ursprüngliche Nummer A-O/0005/2022) - zur Kenntnis genommen
+- TOP 8.2: Schrebergärten/Holzbaracken/Grundstücke an der Werse am Ende der Straße „Hoove“ (ursprüngliche Nr. A-O/0003/2023) - zur Kenntnis genommen
+- TOP 8.3: Neubau eines Spielplatzes in Mariendorf prüfen - zur Kenntnis genommen
+- TOP 8.4: Anfrage zur Fahrradverbindung Münster - Telgte - zur Kenntnis genommen
+- TOP 8.5: Planungs- und Ausbaustand Sanierung Hessenweg - zur Kenntnis genommen
+- TOP 8.6: Aktueller Stand Fernwärmenetz - zur Kenntnis genommen
+- TOP 8.7: Baumfällungen auf dem Areal der künftigen Kita "Im Drostebusch" (vormals Paul-Schneider-Haus) - zur Kenntnis genommen
+- TOP 8.8: Bericht zum Planungsstand Baugebiet Kötterstraße - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 10: Verschiedenes
