@@ -1,0 +1,167 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-10-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7238911
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7238911
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung vom 21.09.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget SV Gartenstadt Trudering e.V. Behebung von Feuchtigkeitsschäden 1.915,10 € / 0262.0-15-0504
+- TOP 2.1.2.: (E) Stadtbezirksbudget Condrobs e.V. Kooperationsprojekt Formularservice in der Messestadt; Nachdruck Flyer 392,37 € / Az. 0262.0-15-0507
+- TOP 2.1.3.: (E) Stadtbezirksbudget Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Chor- und Orchesterkonzert am 06.01.2024 2.000,00 € / Az. 0262.0-15-0506
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.5.1.: (E) Einrichtung gemeinsamer "Tasc Force" zur konzentrierten Aktion Gewaltlosigkeit Empfehlung Nr. 20-26 / E 00960 ................................
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Schmuckerweg / Hafelhofweg: Verkehrssicherungsmaßnahmen an der Bordsteinkante
+- TOP 3.2.2.: Konrad-Zuse-Platz: Ausschilderung der Parkmöglichkeiten als „Parken nur für PKW“
+- TOP 3.2.3.: Verschiedene Maßnahmen zur Erhöhung der Verkehrssicherheit auf dem Schulweg zum Gymnasium Messestadt-Riem
+- TOP 3.2.4.: Am Mitterfeld: Aufbau einer Geschwindigkeitsmessanlage sowie Ausbesserung der Straße zwischen den Hausnummern 26-30
+- TOP 3.2.5.: Am Hüllgraben/ Paul-Wassermann-Straße: Verkehrssicherheitsmaßnahme an dem Fahrradweg
+- TOP 3.2.6.: Zehntfeldstraße: Verkehrliche Belastung unter Berücksichtigung der herangezogenen Zahlen der letzten Verkehrserhebung
+- TOP 3.2.7.: Feldbergstraße: Überprüfung der Ampelanlage aufgrund der fehlenden Bautätigkeit an der betroffenen Baustelle
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Sozial – Mit Sicherheit: Antragspaket für Prävention und Bekämpfung von Jugendkriminalität
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: So kann die Verkehrswende nicht gelingen
+- TOP 4.7.2.: Straßenabschnitt bei Truderinger Straße 271 für Radfahrer*innen sicherer machen
+- TOP 4.7.3.: Querung Schrammingerweg / Am Hochacker sicherer machen
+- TOP 4.7.4.: Für eine aktive und sichere Parkmeile – Grünzug in Trudering weiterentwickeln Teil 1: Aufwertung des Platzes vor dem Truderinger Gymnasium und Aktivitätenband entlang der Friedenspromenade ausbauen
+- TOP 4.7.5.: Umgehungsstraße Kirchtrudering jetzt provisorisch herstellen
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Manchester-Platz: Informationstafel zum Flugzeugunglück („Munich Air Desaster“) anbringen
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Am Mitterfeld: Erhöhung der Verkehrssicherheit zwischen Kirchtruderinger Straße und Truchthari-Anger
+- TOP 5.2.2.: Beschädigungen an Gebäuden entlang Ortskern Trudering verhindern
+- TOP 5.2.3.: Willy-Brandt-Allee 26: Durchfahrt von Autos vor der Haustür mit Pollern verhindern
+- TOP 5.2.4.: Truderinger Ortskern: Hohe Bordsteinkante an der Kreuzung Schmuckerweg / Hafelhofweg
+- TOP 5.2.5.: Truderinger-Riemer Fahrradoffensive Teil 1 - Fahrradstraße Schramminger Weg - Vorrang für Verkehrssicherheit auf Schul- und Freizeitwegen
+- TOP 5.2.6.: Unnützstraße / Damaschkestraße: Maßnahmen zur Verkehrsberuhigung
+- TOP 5.2.7.: Parkanlage Bajuwarenpark: Gefahr durch schnelles Radfahren
+- TOP 5.2.8.: Lösungsvorschläge zur Park- und Zufahrtsproblematik am Schulzentrum Astrid-Lindgren-Straße
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Damit die Sanierung des Ortskerns nicht unvollendet bleibt: Mehr Klarheit und Tempo bei der Entwicklung der städtischen (Filet-) Grundstücke am Bhf. Trudering und beim Truderinger Rathaus
+- TOP 5.3.2.: Raum für bürgerschaftliches Engagement im Ortskern schaffen: Zwischennutzung der freien Räumlichkeiten im ehemaligen Truderinger Rathaus ermöglichen!
+- TOP 5.3.3.: Sanierung Truderinger Straße
+- TOP 5.3.4.: Städtebauliche Kriminalprävention; ein innovativer und nachhaltiger Beitrag für die (subjektive) Sicherheit im sozialen Nahraum; Pilotprojekt im Rahmen der Planungen zur Arrondierung Kirchtrudering (5. Bauabschnitt Messestadt Riem)
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Begrenzung der Kostenexplosion im Immobiliensektor
+- TOP 5.4.2.: Schwablhofstraße: Überprüfung der baurechtlichen Situation auf dem Gelände des Baumarktes sowie Wiederherstellung der ehemaligen Behindertenparkplätze
+- TOP 5.4.3.: Bauleitplanverfahren oder §34 für große (Wald-)Truderinger Grundstücke – Wo bleibt die Gleichbehandlung?
+- TOP 5.4.4.: St-Augustinus-Straße: Weiteres Vorgehen gegen Leerstand
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Sportförderung von Frauen und Mädchen
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Vogel- und Artenschutz in Neubaugebieten des Stadtbezirk 15
+- TOP 5.6.2.: Schwammstadtprinzip in den neuen Baugebieten des BA15
+- TOP 5.6.3.: Friedenspromenade/Felicitas-Füss-Straße: Beschattung des Spielplatzes durch Baumpflanzungen
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Diverse Änderungen der BA-Satzung und der BA-Geschäftsordnung; insbesondere Anpassung der Entschädigung sowie Regelung zum Livestream
+- TOP 7.1.2.: Anhörung zum BA-Antrag Nr. 20-26 / B05899 des BA 15 "Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund"
+- TOP 7.1.3.: De-Gasperi-Bogen: Lagerfläche für Christbäume auf der Sonderfreifläche
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Wasserburger Landstraße: Beibehaltung der baustellenbedingten Kurzparkzonen
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Truderinger Str. 225 - Neubau einer Halle mit Nutzung als Wettbüro (befristet auf 5 Jahre)
+- TOP 7.4.2.: Martin-Kollar-Str. 4 - Nutzungsänderung von Büroflächen in ein Boardinghaus - mit Mobilitätskonzept (Martin-Kollar-Str. 4 / Wamslerstr. 2 + 4)
+- TOP 7.4.3.: Zehntfeldstr. 169 - Neuerrichtung einer Wohnanlage mit sechs Baukörpern und Tiefgarage - VORBESCHEID
+- TOP 7.4.4.: Am Mitterfeld - Verlängerung der Nutzungsfrist bis 31.05.2025 der temporären BAUMA-Stellplatzanlage "Am Mitterfeld" (Am Mitterfeld / Töginger Str.)
+- TOP 7.4.5.: Heilwigstr. 14 - Neubau von 4 zusammenhängenden Einfamilienhäusern mit 2 Doppelparkern
+- TOP 7.4.6.: Frobenstr. - Errichtung einer temporären Gemeinschaftsunterkunft für 286 Flüchtlinge bis zum 31.12.2033 für 10 Jahre, danach in stets widerruflicher Weise
+- TOP 7.4.7.: Karlsburger Str. 4 - Neubau eines Mehrfamilienhauses mit zwei Garagen und zwei Stellplätzen
+- TOP 7.4.8.: Phantasiestr. 2 - Neubau von einem Mehrstöckigen Gebäude mit Läden, Büros und Wohnungen mit Tiefgarage sowie Dachgeschossausbau im best. Gebäude
+- TOP 7.4.9.: Hochkönigstr. 14 - Neubau eines Mehrfamilien-Wohngebäudes mit Tiefgarage (Hochkönigstr. 14 / Sulzer-Belchen-Weg 7)
+- TOP 7.4.10.: Von-Gravenreuth-Str. 32 - ÄNDERUNGSANTRAG zu 1.23-2023-13194-32 - Neubau von einem Mehrfamilienhaus mit 5 Einheiten (2 barrierefrei), mit 2 Carports und einem Tiefparker (2 Stellplätze Grube/1 oben)
+- TOP 7.4.11.: Wasserburger Landstr. 31 - Neubau einer Wohnanlage mit ca. (40 WE) und Tiefgarage (ca. 40 Stpl.) - VORBESCHEID
+- TOP 7.4.12.: Frobeniusweg 16 - Wohnbebauung mit Garage - VORBESCHEID
+- TOP 7.4.13.: Tsingtauer Str. 28 - ÄNDERUNGSANTRAG zu 1.2-2022-23878-32 - Neubau zweier Doppelhäuser und vier Mehrfachparker
+- TOP 7.4.14.: Feldbergstr. 1 - Neubau eines Mehrfamilienhauses mit Mini-Kitas und Tiefgarage
+- TOP 7.4.15.: Am Mitterfeld 5 - Nutzungsänderung eines ehemaligen Ladens in eine Großtagespflege mit baulicher Änderung
+- TOP 7.4.16.: Wasserburger Landstr. 211 - Antrag auf Nutzungsänderung von einer Bank-Filiale zu Abstellflächen
+- TOP 7.4.17.: Schatzbogen 58 - Nutzungsänderung von einem Wettbüro in Büro und Lager
+- TOP 7.4.18.: Rappenweg 102 - Errichtung einer Mobilen Betonmischanlage befristet bis 31.12.2028
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Fauststraße Groschenweg 9 Groschenweg 26 Lachenmeyrstr. 26 Leonhardiweg 27 Reiherweg 7 Renkenweg 5 Von-Gravenreuth-Str. 20
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Adlerstr. 18b Am Birkicht 2 Barbenweg 5 Drosselweg 14 (Fristablauf 19.10.2023; Fristverlängerung nicht möglich) Frobenstr. Heilwigstr. 14 Helenenstr. 4a Hochkönigstr. 14 Karlsburger Str. 4 Kästlenstr. 32 Leonhardiweg 27 Postweg 47 Selbhornstr. 45 Sexauerstr. 8 Solalindenstr. 35 Sperberstr. 30 Turnerstr. 58 Von-Erckert-Str. 65 Von-Gravenreuth-Str. 11 Von-Gravenreuth-Str. 13 Von-Gravenreuth-Str. 32 Zehntfeldstr. 169
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Nachgang zum Straßenfest Ortskern am 06.05.2023: Rückmeldungen der beteiligten Vereine und Initiativen
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 10.1.2.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.3.: Information über die Stromversorgung der Bezirksausschüsse bei Veranstaltungen an Wochenmarkstandorten
+- TOP 10.1.4.: Fortführungsantrag des Gaststättenbetriebes "Bistro Servus"
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städtische Leistung: Erhöhung der Kosten
+- TOP 10.2.2.: Information über Schienenbearbeitungsarbeiten auf der Linie U2 zwischen Innsbrucker Ring und Messestadt Ost (22.10.2023 - 26.10.2023)
+- TOP 10.2.3.: Aktuelle Informationen zur Schulwegsicherheit am Bildungscampus Messestadt-Riem, darunter: Anordnung von Tempo 30 Am Mitterfeld zwischen Riemer Straße und Joseph-Wild-Straße
+- TOP 10.2.4.: Frobenstraße: Entschärfung der Verkehrssituation am Wiesn-Camp durch Beschilderung sowie temporäre Geschwindigkeitsbegrenzung auf 30 km/h
+- TOP 10.2.5.: Information über die Säuberung der Wege in Parkanlagen zwischen St.-Veit-Straße und Heinrich-Wieland-Straße
+- TOP 10.2.6.: Information über die Thematik "E-Tretroller" sowie die daraus hervorgehende Verengung der Gehwege
+- TOP 10.2.7.: Mobilitätspunkte im 15. Stadtbezirk: Aktueller Sachstand zum Knoten Gronsdorfer Bahnhof Süd und Einsatz von Doppelstockanlagen
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 10.3.2.: (U) Stadtentwicklung im Münchner Nordosten Verlängerung der Inhouse-Vergabe an die Münchner Raumentwicklungsgesellschaft mbH (MRG) für Projektsteuerungsleistungen Stadtbezirke 13 Bogenhausen 15 Trudering-Riem
+- TOP 10.3.3.: (U) Fünfter Bauabschnitt Messestadt Riem / Arrondierung Kirchtrudering 5 BV-Empfehlungen Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.4.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 10.3.5.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Dresselstraße 14 b) Schneebergstraße 12 c) Sulzer-Belchen-Weg 29 d) Wimbachtalstraße 27 e) Von-Gravenreuth-Straße 20
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Groschenweg 26 b) Fauststraße c) Lachenmeyrstraße 26
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 10.5.2.: (U) Standortbeschluss zur Unterbringung wohnungsloser Haushalte Neubau eines Flexi-Heims Variante 1 für Familien Heinrich-Wieland-Str. 99 und 101 15. Stadtbezirk – Trudering–Riem, Gemarkung Perlach Neubau eines Flexi-Heims Variante 1 für Einzelpersonen und Paare Lehrer-Götz-Weg 10 15. Stadtbezirk – Trudering–Riem, Gemarkung Trudering
+- TOP 10.5.3.: Zukunft des Kindermuseums – Finanzierungsbeschluss Beschlussentwurf des Kulturreferats
+- TOP 10.6: UA Umwelt, Energie und Klimaschutz
+- TOP 10.6.1.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 10.6.2.: (U) Gutachterliche Überprüfung der Geothermiepreise Empfehlung Nr. 20-26 / E 00890 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022 Reduzierung der Fernwärmepreise Empfehlung Nr. 20-26 / E 00891 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022 Transparenz bei monopolistischen Fernwärmepreisen Empfehlung Nr. 20-26 / E 00892 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 13.10.2022
+- TOP 10.6.3.: Bajuwarenpark: Auskunft zur Zündung von Böllern
+- TOP 10.6.4.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 1.3.3.: (N) Bognerhofweg / Hafelhofweg: Anbringung von Piktogrammen am Wendehammer des Hafelhofweges
+- TOP 9.2.2.: (N) Bognerhofweg / Hafelhofweg: Anbringung von Piktogrammen am Wendehammer des Hafelhofweges
+- TOP 1.3.1.: (N) Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Beschlussentwurf des Referats für Stadtplanung und Bauordnung
+- TOP 7.2.2.: (N) Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Beschlussentwurf des Referats für Stadtplanung und Bauordnung
+- TOP 1.3.2.: (N) Ortstermine mit Baureferat
+- TOP 9.1.2.: (N) Ortstermine mit Baureferat
