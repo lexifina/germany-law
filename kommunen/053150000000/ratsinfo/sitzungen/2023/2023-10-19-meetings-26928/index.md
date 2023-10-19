@@ -1,0 +1,79 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-10-19T17:04:00+02:00
+- Ende: 2023-10-19T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26928
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26928
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Planungsrecht schaffen für den Erhalt des Poller Schützenplatzes auf den Poller Sport- und Spielwiesen am Weidenweg als Veranstaltungsfläche mit Auflagen AZ. 126/23 B - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Straßenbaumkonzept Porz - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung - Änderungsantrag zur öffentlichen Sitzung der Bezirksvertreung Porz am 31.08.2023 Top 6.1 Straßenbaumkonzept Porz AN/1290/2023 - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Straßenbaumkonzept (neu)" - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Grillhütte Poll - zurückgestellt
+- TOP -: Änderungsantrag der SPD-Fraktion "Grillhütte Poll" - zurückgestellt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Strategische Sozialplanung - Herausforderungen und Ziele - ungeändert beschlossen
+- TOP 7.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - ungeändert beschlossen
+- TOP 7.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 694333/02, Arbeitstitel: "Hochpunkt Siegburger Straße" in Köln Deutz - ungeändert beschlossen
+- TOP 7.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Ausreichende ÖPNV-Anbindung des Gutes Leidenhausen - Kenntnis genommen
+- TOP 8.2: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Wegekreuz Grengel - Stadtverschönerungsmittel" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Stadtverschönerungsmittel 2023" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion "Antrag auf Sachstandsbericht zu AN/0399/2023, Verunreinigungen durch „Wilden Müll“ im Leonorenweg stoppen" - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Parkbank Eil" - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Sperrung der Rodenkirchener Brücke für Radfahrer" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Sperrung der Rodenkirchener Brücke für Radfahrer" - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Kostensteigerungen bedrohen die Fortführung der Arbeit vieler Institutionen in Porz" - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Parkplatzsituation um das Neubaugebiet in Gremberghoven" - geändert beschlossen
+- TOP 8.9: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Verkehrssituation Grundschule Schmittgasse Zündorf" - ungeändert beschlossen
+- TOP 8.10: Dringlichkeitsantrag der Fraktionen CDU und Grüne "Vergabe der bezirklichen Restmittel im Jahr 2023" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/DieGrünen aus der Sitzung der Bezirksvertretung Porz vom 31.08.2023 (AN/1535/2023) betreffend "Straßenbaumkonzept Porz" - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen "Straßenbaumkonzept Porz" - Sache ist erledigt
+- TOP 9.1.2: Sicherung der Übergänge der KVB-Haltestelle Ensen Kloster - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sicherung der Übergänge der KVB-Haltestelle Ensen Kloster" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer Anfrage der CDU-Fraktion AN/1544/2023 "Planungen zum Neubau der Rodenkirchener Brücke" - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Planungen zum Neubau der Rodenkirchener Brücke" - Sache ist erledigt
+- TOP 9.1.4: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 31.08.2023 (AN/1543/2023) betreffend „Cannabis Geschäft in Porz-Urbach?“ - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Cannabis Geschäft in Porz-Urbach?" - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer mündlichen Nachfrage von RM Tempel aus der Sitzung vom 31.08.2023 bezüglich der Generalinstandsetzung des Schulzentrums Zündorf in der Heerstraße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion "Veranstaltungslärm Südbrücke" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion (Session-Nr. AN/1797/2023) betreffend Veranstaltungslärm Südbrücke - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. 72, 72a, 51143 Köln-Zündorf - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 10.2.2: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB), Bebauungsplan-Entwurf 69430/06, Arbeitstitel "Erweiterung TÜV" in Köln-Poll - Kenntnis genommen
+- TOP 10.2.3: Gesetz zur Stärkung der Digitalisierung im Bauleitplanverfahren - Kenntnis genommen
+- TOP 10.2.4: Antrag der BBM - JBV "Instandsetzung Basketballplatz Porz-Langel - Kenntnis genommen
+- TOP 10.2.5: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 10.2.6: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 10.2.7: Stellungnahme zum Antrag der SPD-Fraktion "Mangel an Gesamtschulplätzen beheben – Grundstück Porzer Ringstraße nutzen" (AN/1693/2021)/(AN/1497/2023) - Kenntnis genommen
+- TOP 10.2.8: Urban Sports. - Gesamtkonzept - zurückgestellt
+- TOP 10.2.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Deklaration des ehemaligen Barackenlagers und NS-Gedenkortes im Gremberger Wäld-chen als Bodendenkmal“, Aktenzeichen 164/23 B - Kenntnis genommen
+- TOP 10.2.10: Umgestaltung der Fußgängerzone Bahnhofstraße in Köln-Porz; Ankündigung der Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.11: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 10.2.12: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus„ - Kenntnis genommen
+- TOP 10.2.13: Errichtung von vier Wohngebäuden (89 WE) mit Tiefgarage - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
