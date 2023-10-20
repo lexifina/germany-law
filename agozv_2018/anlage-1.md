@@ -58,7 +58,7 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
 |  | 10.Olea europaea L. | Ölbaum |
 |  | 11.Pistacia vera L. | Pistazie |
 |  | 12.Poncirus Raf. | Bitterorange |
-|  | 13.Prunus amygdalus Batsch | Mandel |
+|  | 13.Prunus dulcis (Mill.) D.A. Webb | Mandel |
 |  | 14.Prunus armeniaca L. | Aprikose |
 |  | 15.Prunus avium (L.) L. | Süßkirsche |
 |  | 16.Prunus cerasus L. | Sauerkirsche |
