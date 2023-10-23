@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 18.09.2023
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Grünanlage am Oberwiesenfeld: Installation einer WC-Anlage
+- TOP 2.2.: Konzept für die Erhaltung des SWM-Wäldchens parallel zur Hengeler- und Lampadiusstraße
+- TOP 2.3.: geplantes Parklizenzgebiet Seydlitzplatz - Einspruch
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Alfred-Drexel-Str. 3 (-> vertagt aus Sitzung am 18.09.2023)
+- TOP 3.3.1.2.: Eininger Str. 39
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Fodermayrstr. 57
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Ausstattung weiterer Spielplätze mit Trinkbrunnen
+- TOP 4.1.2.: Erhaltung der Erbpachtflächen Hartmannshofener Siedlungsgebiet
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Zuschuss aus dem BA-Budget für eine eigene Veranstaltung "Wir alle sind Moosach": Herbstreihe vom 08. - 22.11.2023
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Moosacher Faschingsclub -München e.V Faschingssaison 2023/24 vom 01.09.2023 -31.03.2024 15.600,00€; Az. 0262.0-10-0349 (-> vertagt aus Sitzung am 18.09.2023; hier: "Änderungsvorlage")
+- TOP 5.2.: (E) Stadtbezirksbudget Kindergruppe Gänseblümchen e.V. Ich helf kochen! Ernährungspädagogik von Anfang an vom 25.10. -14.11.2023 2.323,00€; Az. 0262.0-10-0354
+- TOP 5.3.: (E) Stadtbezirksbudget Müttertreff Moosach e.V. Neukauf einer Küche ab dem 24.10.2023 4.000,00€, Az. 0262.0-10-0355
+- TOP 5.4.: (E) Stadtbezirksbudget Die Linie 1 - Kulturverein München-Moosach e.V. Theaterprojekt Sketch down -Das Ding mit den Hasen vom 20.10.2023 -04.02.2024 3.000,00€; Az. 0262.0-10-0356
+- TOP 5.5.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Mehr Medienkompetenz am 30./31.01.2024 984,70€; Az. 0262.0-10-0357
+- TOP 5.6.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Freischankfläche Pelkovenstr. 31 hier: Nachfrage KVR zu Beschluss des BA 10 vom 24.07.2023
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung und der BA-Geschäftsordnung: Auswirkungen verschiedener Änderungen der Bayerischen Gemeindeordnung (GO) zum 01.01.2024
+- TOP 6.2.: Änderung der BA-Satzung: Anhörungsrecht für die BA´s auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 6.3.: Beschlussvorlage: Machbarkeitsstudie zur urbanen Seilbahn am Frankfurter Ring
+- TOP 6.4.: Bessere Beschattung der Spielplätze am Claudiusplatz und Seydlitzplatz durch weitere Baumpflanzungen [siehe Antwortschreiben zu BA-Antrag Nr. 20-26/B 05593, TOP 7.1]
+- TOP 6.5.: Parkraummanagement: Vorschlag zur Anpassung der Parkregelungen im Parklizenzgebiet "Borstei"
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund: Franz-Marc-Straße Nikolausfeier der Borstei am 05.12.2023
+- TOP 6.7.: Vollzug der Satzung der LHSt München über das Verbot der Zweckentfremdung von Wohnraum: Antrag auf Erteilung eines Negativattestes: Triebstraße - nicht-öffentlich -
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Bessere Beschattung der Spielplätze im Stadtbezirk 10 [BA-Antrag Nr. 20-26/B 05593; Vorschläge Baumpflanzungen an Spielplätzen am Claudiusplatz und Seydlitzplatz -> Siehe auch TOP 6.4]
+- TOP 7.2.: Aufnahme der Olympia-Pressestadt in den Umgriff für die Bewerbung "Welterbe Olympiapark" BA-Antrag Nr. 14-20/B 07296; Aufnahme in die Deutsche Weltkurlturerbe_Vorschlagsliste befindet sich aktuell in Prüfung durch die vom Auswärtigen Amt beauftragten, internationalen ICOMOS-Evaluatoren und die Kultusministerkonferenz. Weitere Informationen erfolgen zu ggb. Zeit.]
+- TOP 7.3.: Radweg an der Dachauer - /Donauwoerther Straße als 2-Richtungsradweg kennzeichnen und einfärben [BA-Antrag Nr. 20-26/B 04252; Markierungsänderung (Roteinfärbung und Zweirichtungspfeile) wurde angeordnet.]
+- TOP 7.4.: Schulneubau an der Allacher Straße - sichtbare Bautafel mit bürgerfreundlichen Informationen aufstellen! [BA-Antrag Nr. 20-26/B 05689; Baustellentafel steht seit KW 34 öffentlichkeitswirksam entlang der Allacher Straße.]
+- TOP 7.5.: Entschärfung der gefährlichen Kurvensituation auf dem Fuss- und Radweg der Borstei (parallel zum mittleren Ring zur Pickelstraße) [Schreiben BA10 vom 21.09.2023; Verkehrsspiegel nicht zielführend, kein Vorteil für Verkehrsübersicht.]
+- TOP 7.6.: Aktueller Sachstand in der Sache "Anbringen einer Ampelanlage an der Einmündung Brieger Straße/ Allacher Straße [Schreiben BA 10 vom 25.09.2023; Stelle befindet sich in Antragsliste; Realisierung Liste nach Dringlichkeit (jährliche Prüfung).]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Neuerrichtung eines Gaststättenbetriebes: Hanauer Str. 68
+- TOP 8.2.: Einsatz von TOPO-Boxen als städtische Leistung: Mitteilung einer Kostenerhöhung
+- TOP 8.3.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 10 (Moosach) Satzungsbeschluss Satzung „Moosach“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Moosach“) Stadtbezirk 10 Moosach
+- TOP 8.4.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 8.5.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 8.6.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 8.7.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 8.8.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 8.9.: Einleitung eines Vorkaufsprüfungsverfahrens: Schegastraße - nicht-öffentlich -
+- TOP 2.4.: N_ Vermüllung am Sapporobogen (z.B. Bushaltestelle)
+- TOP 6.8.: N_ Verkehrsrechtliche Anordnung nach § 45 StVO: - nicht-öffentlich – Einrichtung personengebundener Behindertenparkplatz Am Hartmannshofer Bächl
+- TOP 8.10.: N_ Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern (Anhörung für Stadtbezirke 3, 7, 9, 11, 12, 13, 14, 15, 16, 19 und 21; Unterrichtung für alle anderen BA´s) (Sitzungsvorlage Nr. 20-26 / V 11152)
