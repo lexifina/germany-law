@@ -1,0 +1,75 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-10-23T14:35:00+02:00
+- Ende: 2023-10-23T15:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27444
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27444
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Sponsoringrichtlinie - Aktualisierung - zurückgestellt
+- TOP 2.3: Benehmensherstellung zur Festsetzung der Landschaftsumlage 2024 - Kenntnis genommen
+- TOP 2.4: Kulturförderabgabe – Zusätzliche Veranlagungen - Kenntnis genommen
+- TOP 2.5: Arbeitskreisrechnung zum Gemeindefinanzierungsgesetz 2024: Verschiebung der Altschuldenlösung und Änderungen zum Eckpunktepapier - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.07.2023 - Kenntnis genommen
+- TOP 2.7: „Erzeugungsbericht 2020-2022“ - Berichterstattung über den Fortschritt bei der Umstellung auf erneuerbare Energien im Bereich der RheinEnergie AG - Kenntnis genommen
+- TOP 2.8: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.08.2023 - Kenntnis genommen
+- TOP 2.9: Städtebauliche Entwicklungsmaßnahme Deutzer Hafen: Fragen zur Kosten- und Finanzierungsübersicht, Anfrage der Fraktion DIE LINKE zu AN/1652/2023 aus der Sitzung vom 31.08.2023 - Kenntnis genommen
+- TOP 2.10: Interkommunaler Vergleich zur Umsetzung der Entscheidung des Bundesverfassungsgerichts hinsichtlich beruflich bedingter Übernachtungen - Kenntnis genommen
+- TOP 2.11: Aktuelle Lage an den Finanzmärkten und Emission Green Bond - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. 72, 72a, 51143 Köln-Zündorf - Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Umgestaltung des Dellbrücker Marktplatzes sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Generalsanierung der Straße Schillingsrotter Platz zwischen der Lindenallee und der Straße Am Südpark sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 7.3: Umgestaltung des Rochusplatzes in Köln-Bickendorf - unter Vorbehalt beschlossen
+- TOP 7.4: Integriertes Stadtentwicklungskonzept Porz-Mitte - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan des Gesundheitsamtes in der Produktgruppe 0701 – Gesundheitsdienst für das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 8.2: Bereitstellung überplanmäßiger Haushaltsmittel für den Teilergebnisplan 1004 - Bereitstellung und Bewirtschaftung von Wohnraum - ungeändert beschlossen
+- TOP 8.3: Überplanmäßige Aufwendungen im Teilergebnisplan des Amtes für Verkehrsmanagement in der Produktgruppe 1201 - Straßen, Wege, Plätze für das Haushaltsjahr 2022 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau für die Grundschule Antwerpener Straße19-29, 50672 Köln-Neustadt/-Nord - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Neugestaltung und Erweiterung des Spielplatzes Xantener Straße/Johannes-Giesberts-Park in Köln-Nippes - ungeändert beschlossen
+- TOP 10.3: Bedarfsfeststellungs-und Planungsbeschluss zur Aufzugsnachrüstung der Stadtbahnhaltestelle Reichensbergerplatz inkl Brandschutzsanierung, Bahnsteiganhebung und erforderlicher technischer Aufrüstung - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellung zur Neubeschaffung von Einsatzkleidung für die Technische Hilfeleistung und Vegetationsbrandbekämpfung für die Feuerwehr Köln - ungeändert beschlossen
+- TOP 10.5: Konzept zur Stärkung der integrativen Stadtgesellschaft - Verfahren zur Weiterentwicklung - ungeändert beschlossen
+- TOP 10.6: Stadtklima-Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 10.7: Erhöhung der Treppengeländer im Bürgerhaus Stollwerck - Planungsbeschluss - ungeändert beschlossen
+- TOP 10.8: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - zurückgestellt
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.10: Förderung von Familiengrundschulzentren durch das Ministerium für Schule und Bildung - ungeändert beschlossen
+- TOP 10.11: Umfangreiche Sanierungsmaßnahmen - Kölnischer Kunstverein (KKV) - ungeändert beschlossen
+- TOP 10.12: Gesamtinstandsetzung Mülheimer Brücke - hier: Schienenersatzkonzept für den Zeitraum der Stadtbahnsperrung in 2024 (Bauphase IIb) - ohne Votum in nachfolgende Gremien
+- TOP 10.13: Stadtklima-/Stadtverschönerungsmittel Bezirk Lindenthal 2023 - unter Vorbehalt beschlossen
+- TOP 10.14: Abwassergebührensatzung 2024 - ungeändert beschlossen
+- TOP 10.15: Vergabe Stadtklima- und Stadtverschönerungsmittel 2023 im Stadtbezirk Innenstadt Teil II - ungeändert beschlossen
+- TOP 10.16: Zuschuss Förderverein Römische Stadtmauer Köln e. V. und Freigabe Maßnahmen für die Sanierung und Erhaltung von Denkmälern inklusive geerbte Denkmäler - ohne Votum in nachfolgende Gremien
+- TOP 10.17: Elternbeiträge zur Kindertagesbetreuung, hier Erlass zum Ausgleich energiekrisenbedingter Kostensteigerungen - ungeändert beschlossen
+- TOP 10.18: Deutschlandticket Schule für Schülerinnen und Schüler an Weiterführenden Schulen der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.18.1: Änderungsantrag zu TOP 2.2, 2860/2023, „Deutschlandticket Schule für Schülerinnen und Schüler an Weiterführenden Schulen der Stadt Köln„ auf der Sondersitzung des Ausschusses für Schule und Weiterbildung am 16.10.2023 - ohne Votum in nachfolgende Gremien
+- TOP 10.18.2: Vergünstigtes Deutschland-Ticket für Kölner Schülerinnen und Schüler - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Neugestaltung des Innenhofbereiches und der oberen Grünfläche im Bürgerhaus Kalk, Kalk-Mülheimer-Straße 68, 51103 Köln - Planungsbeschluss - ungeändert beschlossen
+- TOP 10.20: Modernes Köln GmbH - ohne Votum in nachfolgende Gremien
+- TOP 10.21: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2024 - ungeändert beschlossen
+- TOP 10.22: Sachstand Cash Pool und Einbindung des Treuhandkontos des Treuhandvermögens der städtebaulichen Entwicklungsmaßnahme Deutzer Hafen in den Cash Pool - ungeändert beschlossen
+- TOP 10.23: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.24: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan 2024 - ungeändert beschlossen
+- TOP 10.25: NRW-Tag 2024 mit Sommerkonzert der Landesregierung 2024 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
