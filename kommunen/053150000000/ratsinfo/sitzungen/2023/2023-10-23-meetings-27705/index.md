@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-10-23T16:00:00+02:00
+- Ende: 2023-10-23T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27705
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27705
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Fehlende Beschilderung Kfz-Parkflächen Haltestelle Lindenburg, Aktenzeichen: 94/23 - Kenntnis genommen
+- TOP 5.2: Beschlüsse zu Bürgereingaben
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertreung Lindenthal am 08.05.2023 betreffend "Sachstand bei der Prüfung von Maßnahmen zur Verkehrsberuhigung in der Eckertstraße" (AN/0767/2023) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Nächtliche Geschwindigkeitsüberschreitungen an der Luxemburger Straße - zurückgestellt
+- TOP 7.2.2: Anfrage Planungsbeschluss zur Umgestaltung des Kirchplatzes St. Severin in Köln-Lövenich - zurückgestellt
+- TOP 7.2.3: Sachstand Beschlüsse - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Benennung einer Straße im Kölner Westen nach Helga Schlapka - ungeändert beschlossen
+- TOP 8.1.2: Priorisierung Rückbau freilaufender Rechtsabbieger Alter Militärring/Aachener Straße - ungeändert beschlossen
+- TOP 8.1.3: Verbesserung der Verkehrssicherheit auf der Sülzburgstr. - ungeändert beschlossen
+- TOP 8.1.4: Vergrößerung des Marktes an auf der Kitschburger Straße - ungeändert beschlossen
+- TOP 8.1.5: Sicherer Schulweg zwischen Lövenich, Widdersdorf und Vogelsang - ungeändert beschlossen
+- TOP 8.1.6: Einführung von Tempo 30 auf der Dürener Straße zwischen Universitätsstraße und Lindenthalgürtel - zurückgestellt
+- TOP 8.1.7: Fotovoltaikanlage auf dem Dach des Gymnasium Müngersdorf - ungeändert beschlossen
+- TOP 8.1.8: Antrag zur Hundefreilauffläche in der Grünanlage am Sportzentrum Weiden - geändert beschlossen
+- TOP 8.1.9: Beschilderung der Vorfahrtsregelung an der Einmündung der Kronstädter Straße in die Bistritzer Str. - ungeändert beschlossen
+- TOP 8.1.10: Beschränkung des LKW-Verkehrs auf verschiedenen Straßen in den Stadtteilen - geändert beschlossen
+- TOP 8.1.11: Rückschnitte des Straßenbegleitgrüns im Bezirk - endgültig abgelehnt
+- TOP 8.1.12: Abfallkörbe an jede Hundefreilauffläche im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 8.1.13: Rückbau des nicht-benutzungspflichtigen Radwegs auf der Dürener Straße zwischen Universitätsstr. und Gürtel - zurückgestellt
+- TOP 8.1.14: Runder Tisch gegen Einsamkeit und soziale Isolation - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Beschluss für die Markierung eines Verkehrsübungsplatzes auf der Kinderspielfläche auf dem Auerbachplatz in Köln Sülz. - geändert beschlossen
+- TOP 9.1.1.1: Ergänzungsantrag zu TOP 9.1.1 - ungeändert beschlossen
+- TOP 9.1.2: Stadtklima-/Stadtverschönerungsmittel Bezirk Lindenthal 2023 - ungeändert beschlossen
+- TOP 9.1.3: Installation des Würfelbrunnens auf dem Monschauer Platz - ungeändert beschlossen
+- TOP 9.1.4: Neugestaltung des öffentlichen Spielplatzes Klettenbergpark Nord - Luxemburger Straße - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Aufstellung eines Bebauungsplanes Arbeitstitel: Classen-Kappelmann-Straße 47 in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2.2: Gesamtinstandsetzung Mülheimer Brücke - hier: Schienenersatzkonzept für den Zeitraum der Stadtbahnsperrung in 2024 (Bauphase IIb) - geändert beschlossen
+- TOP 9.2.2.1: Ergänzungsantrag zu 9.2.2 - geändert beschlossen
+- TOP 9.2.3: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - zurückgestellt
+- TOP 9.2.4: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Green Campus - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2022 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.1.2: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 11.3.2: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 11.3.3: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 11.3.4: Gesetz zur Stärkung der Digitalisierung im Bauleitplanverfahren - Kenntnis genommen
+- TOP 11.3.5: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
