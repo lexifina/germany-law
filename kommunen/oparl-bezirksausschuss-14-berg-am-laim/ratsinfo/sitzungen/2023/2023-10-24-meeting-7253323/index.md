@@ -1,0 +1,106 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-10-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253323
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253323
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 26.09.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 26.09.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) + (U) Neuregelung des Parkverbots in der Gerlosstraße Empfehlung Nr. 20-26 / E 01287 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 25.05.2023
+- TOP 2.2.: (E) Kampfhunde im Hundepark am Piuspark
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: August-Everding-Str. - Werksviertel WA 1, WA 2(1), WA 2(2), Neubau einer Wohnanlage in zwei Bauabschnitten (VIII-VII-VI-geschossig) inkl. gewerblicher Nutzungen im EG, Sonderwohnnutzungen und Errichtung zweier Tiefgaragen - mit Mobilitätskonzept - VORBESCHEID - vertagt aus der Plenumssitzung vom 26.09.2023 -
+- TOP 3.1.2.: Schildensteinstr. 15 - Offenbarungskirche, Neubau Pfarramt, Gemeinderäume, Jugendraum, Pfarrwohnung, Apartment und zwei Wohngruppen der Diakonie mit je 6 Apartments für Menschen mit Epilepsie
+- TOP 3.1.3.: Mühldorfstr. 39 - Neubau eines Wohngebäudes mit Tiefgarage (Var. 1-3) - VORBESCHEID
+- TOP 3.1.4.: Truderinger Str. - Neubau einer Wohnanlage mit Wohnungen, gewerblichen Nutzungen / Nichtwohnnutzungen und Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.5.: Truderinger Str. - Neubau einer Wohnanlage mit Wohnungen und gewerblichen Nutzungen (Nichtwohnnutzungen) und Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.6.: Truderinger Str. - Neubau einer Wohnanlage, bestehend aus 3 Wohngebäuden, einer erdgeschossigen Kindertageseinrichtung sowie einem Untergeschoss mit Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.7.: August-Everding-Str. - WA 2(3) - Bauvorhaben 1: Werksviertel, Neubau einer Wohnanlage mit Tiefgarage, Bauvorhaben 2: München One Rock, Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID (August-Everding-Str. / Erika-Köth-Str.)
+- TOP 3.1.8.: Wildnis im Michaelianger erhalten; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.1.9.: Vollzug des Bayerischen Denkmalschutzgesetzes, Denkmalliste - Teil A: Baudenkmäler, Am Kartoffelgarten 20 mit Nähe Elisabeth-Bergner-Str., Nähe Erika-Köth-Str. (Piusstr. 26) - Teile des ehem. Pfanni Werkes; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Platz für künftige Bahnsteige der Flughafen-S-Bahn in Berg am Laim freihalten; Antrag der Fraktion FW/ÖDP
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Anhörungsverfahren zur Änderung der Mittelschulorganisation in der Landeshauptstadt München; Zusammenlegung der Mittelschulen Wörthstraße 2 und Weilerstraße 1 und Auflösung der Mittelschule Weilerstraße 1
+- TOP 3.3.2.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 3.3.3.: Installation einer Boule Anlage am Spielplatz in der Xaver-Weismor-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 3.5.2.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung und BA-Geschäftsordnung; Anhörung des Direktoriums
+- TOP 3.5.3.: Gedenkveranstaltung für deportierte Juden am 06.11.2023
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Sonnwendjochstr. 86
+- TOP 3.6.2.: Josef-Ritz-Weg 58
+- TOP 3.6.3.: Schildensteinstr. 15
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 4.1.2.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 4.1.3.: Spender für Hundekotbeutel am Schüleinplatz anbringen
+- TOP 4.1.4.: Verschönerung und Neupflanzungen entlang der Riedgaustr. und Münchner Str.
+- TOP 4.1.5.: Information über die Stromversorgung bei Veranstaltungen
+- TOP 4.1.6.: Sachstand zur Sanierung des Berg am Laimer Kreuzwegs - vertagt aus der Plenumssitzung vom 26.09.2023 -
+- TOP 4.1.7.: Stellungnahme zu einem Anliegen aus der Bürgerschaft zu der Krähensituation im Behrpark
+- TOP 4.1.8.: Solarleuchten mit Paneelen am Container für die Jugendlichen am Bolzplatz in der Kreillerstraße 21
+- TOP 4.1.9.: Mülleimer an der Schlüsselberg- /Ecke Berg-am Laim-Str. anbringen
+- TOP 4.1.10.: Fassadenbegrünung bei der Umsetzung des Bebauungsplans 2127 - vertagt aus der Plenumssitzung vom 26.09.2023 -
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Parklizenzgebiet in Berg am Laim endlich realisieren
+- TOP 4.2.2.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 4.2.3.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 4.2.4.: Änderung der Ampelschaltphase an der B304 Ecke Baumkirchner Str. zur Überquerung der Berg-am-Laim-Str.
+- TOP 4.2.5.: Halfinger Straße West, dauerhafte einseitige Durchfahrtsperre
+- TOP 4.2.6.: Gerlosstraße, Grundschulgebäude (Küchenanlieferung), absolutes Haltverbot in dauerhafter Ausführung an den Zufahrtsbereichen
+- TOP 4.2.7.: Schildensteinstraße, Ecke Josephsburgstraße, Änderung der Sackgassenbeschilderung
+- TOP 4.2.8.: Schaffung von Kurzzeitparkplätzen vor der Ost-Apotheke in der Josephsburgstr. 83
+- TOP 4.2.9.: Wiederaufnahme des Antrags auf Erstellung eines Zebrastreifens in der Echardinger Str.
+- TOP 4.2.10.: Radwegeverbindung Innsbrucker Ring - Piuskirche
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Feedback zur Sommerstraße in der Hermann-Weinhauser-Straße
+- TOP 4.3.2.: Strom- und Wasseranschluss für Veranstaltungen auf dem Piusplatz
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Durchführung von Verkehrsmengen- und Geschwindigkeitsmessungen mittels TOPO-Boxen als städtische Leistung: Erhöhung der Kosten
+- TOP 4.5.2.: Verwendungsnachweis: Blaues Kreuz Diakoniewerk hier: Anschaffung einer Spülmaschine für die AS Ost
+- TOP 4.5.3.: Verwendungsnachweis: Evangelische Lutherische Kirchengemeinde Sophie Scholl hier: Interkulturelle Kindertage in der Rogatekirche
+- TOP 4.5.4.: Verwendungsnachweis: Evangelische Lutherische Kirchengemeinde Sophie Scholl hier: Gedenkveranstaltung zum 22.02.2023, 80. Todestag Sophie Scholl
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Eschenbachstr. 1 - 9
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.5.4: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. "36. Herbstausstellung der Künstlergilde Berg am Laim" vom 17.-26.11.2023 1.038,75€ / AZ 0262.0-14-0381
+- TOP 3.5.4.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. "36. Herbstausstellung der Künstlergilde Berg am Laim" vom 17.-26.11.2023 1.038,75€ / AZ 0262.0-14-0381
+- TOP 1.1.2.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. Interkulturelles Kinderfest "Das Regenbogen" am 15.10.2023 766,66 Euro, Az.: 0262.0-14-0378
+- TOP 3.5.5.: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. Interkulturelles Kinderfest "Das Regenbogen" am 15.10.2023 766,66 Euro, Az.: 0262.0-14-0378
+- TOP 1.1.3.: Nachtrag TOP 3.5.6: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. 4. Interkulturelles Tanz- und Musikfest "Mening Yultuzum, Mein Stern" am 03.12.2023 900,00 Euro, Az.: 0262.0-14-0379
+- TOP 3.5.6.: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. 4. Interkulturelles Tanz- und Musikfest "Mening Yultuzum, Mein Stern" am 03.12.2023 900,00 Euro, Az.: 0262.0-14-0379
+- TOP 1.1.4.: Nachtrag TOP 3.5.7: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Interkultureller Kindertag mit Fahrt nach Rosenheim am 22.11.2023 786,00€ / AZ 0262.0-14-0382
+- TOP 1.1.5.: Nachtrag TOP 3.5.8: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St.-Martins-Feier mit Umzug am 12.11.2023 780,00 € / AZ 0262.0-14-0380
+- TOP 3.5.7.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Interkultureller Kindertag mit Fahrt nach Rosenheim am 22.11.2023 786,00€ / AZ 0262.0-14-0382
+- TOP 3.5.8.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St.-Martins-Feier mit Umzug am 12.11.2023 780,00 € / AZ 0262.0-14-0380
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
