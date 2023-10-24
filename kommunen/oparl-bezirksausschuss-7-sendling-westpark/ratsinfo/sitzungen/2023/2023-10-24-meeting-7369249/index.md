@@ -1,0 +1,176 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-10-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7369249
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7369249
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-09
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: WESTPARK
+- TOP 6.2.: Schulweg Werdenfelsstraße
+- TOP 6.3.: Einfahrt Sackgasse Konrad-Peutinger-Str.
+- TOP 6.4.: Parken Pfrontener Platz
+- TOP 6.5.: U-Bahn Haltestelle Ausgang Bodenehrstraße
+- TOP 6.6.: Komposttoiletten für öffentliche Grünanlagen
+- TOP 6.7.: Taxi-Situation Fernpaßschule
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Wahl eines neuen Mitglieds für den Mieterbeirat
+- TOP 7.2.: Neubenennung je eines Mitglieds im UA Bildung und Sport sowie im UA Soziales und Kultur durch die SPD Fraktion
+- TOP 7.3.: Benennung eines Wahlvorstandes
+- TOP 7.4.: Wahl einer/eines neuen Vorsitzenden des UA Bildung und Sport
+- TOP 7.5.: Benennung der Mitglieder der SPD Fraktion im UA Haushalt
+- TOP 7.6.: Losverfahren zur Besetzung eines Sitzes im UA Haushalt
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Gans Kreativ GmbH – Gans am Wasser “Kulturprogramm Adventszeit 2023 – Gans am Wasser 01.12.2023 – 31.12.2023“ 4.850,00 € / AZ: 0262.0-7-0447
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat BRK Leichtturm (Kindertagesstätte) „Hochbeet für 86 Krippen und Kindergartenkinder BRK Leuchtturm vom 04.11.2023 – 29.02.2024“ 327,64 € / AZ: 0262.0-7-0541
+- TOP 10.3.: (E) Stadtbezirksbudget Münchner Schüler*innenbüro e.V. „Jugendleiter*innenschulung des msb im Oktober/ November 2023 vom 30.10.2023 – 03.11.2023“ 300,00 € / AZ: 0262.0-7-0452
+- TOP 11.: Anträge
+- TOP 11.1.: E-Busse statt Tram auf der Westtangente
+- TOP 11.2.: Wickeltisch Toiletten BSA Siegenburger Strasse
+- TOP 11.3.: Wickeltisch Toiletten BSA Surheimer Weg
+- TOP 11.4.: Parklizenzgebiet Murnauer - südl. Passauerstraße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.2.1.: Notizen-Empfang-RBS
+- TOP 12.3: Haushalt
+- TOP 12.3.1.: Einladung UA-Haushalt
+- TOP 12.3.2.: Protokoll HHA
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Themen und Sitzungen UA SuK
+- TOP 12.4.2.: Veranstaltung Gerty Spies zum 09.11.2023
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.5.1.: Protokoll MuW
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Protokoll PuG
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: BSA Siegenburger Str.
+- TOP 13.1.2.: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.5.1.: Bericht Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.11.1.: REGSAM-Flüchtlingsunterkünfte
+- TOP 13.11.2.: Runden Tisch Soziale Herausforderungen im Stadtbezirk Sendling-Westpark
+- TOP 13.11.3.: Protokoll-RAGS Sitzung
+- TOP 13.11.4.: Protokoll_Arbeitsgruppe Flüchtlinge und Wohnungslose Sendling
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten
+- TOP 13.13: Weitere Berichte
+- TOP 13.13.1.: Bericht aus dem Vorstand - neue Alfresco-Struktur
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Nachtrag: Anhörung, Krüner Platz, Konzertveranstaltung Muthek
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 18.1.: Bestellung städt. Leistung_Dialog-Displays BA 7
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP 20.2.: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Zillertalstr. pers.bez. Behindertenstellplatz
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Nachtrag: Stadtweites Verfahren BA_Unterkünfte zur Unterbringung von Geflüchteten
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Radabstellanlagen Sendling-Westpark
+- TOP 33.2.: Trinkwasserbrunnen in Sendling-Westpark
+- TOP 33.3.: Zeitnahe Erneuerung der Beleuchtung in der Passauerstraße
+- TOP 33.4.: Fristverlängerung Umgestaltung Welserstr.
+- TOP 33.5.: Behindertenparkplätze am Westpark - Siegenburger Str.
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Heimwegtelefons
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baumfällung Werdenfelstr.
+- TOP 39.2.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zwischennachricht Sofortmaßnahmen gegen die Gefährdungen durch falsch abgestellte E-Tretroller
+- TOP 40.2.: Für die Schmuzerstraße wird ein Verbot für den Kfz-Verkehr angeordnet mit dem Zusatzschild „Anlieger frei“
+- TOP 40.3.: Für die Grünstraße wird ein Verbot für den Kfz-Verkehr angeordnet mit dem Zusatzschild „Anlieger frei“
+- TOP 40.4.: Verlängerung Containerburg
+- TOP 40.5.: Verkehrsrechtliche Anordnung Ortlerstr.
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Erweiterung der Öffnungszeiten des Jugendtreffs im TATZ am Wochenende (freitags und samstags) bis ca. 22 Uhr.
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Mittagsbetreuung Gethsemanekirche
+- TOP 47.2.: Feuerwehrzufahrt Fernpaßschule
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: datenschuztgerechte Einstellung und personenbezogene Zuleitung von Unterlagen im RIS-Extranet
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht Objekt Mainburger Straße
+- TOP 52.2.: Vorkaufsrecht Ohlstadter Straße
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Seebühne, Vereinsveranstaltung mit Volkstänzen
+- TOP 53.2.: Bescheid, Westpark, Seebühne, Meskel
+- TOP 53.3.: Bescheid, Krüner Platz, Konzertreihe Kultur mit Kind
+- TOP 53.4.: Fortführung Armins Teff Grasweg
+- TOP 53.5.: Veranstaltung in Grünanlagen | HIDALGO Refugium
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Klingerstr Behindertenparkplatz
+- TOP 56.2.: Welserstr Feuerwehrzufahrt
+- TOP 56.3.: Arnimst _AWM
+- TOP 56.4.: RüdesheimerStr_Aufhebung Haltverbot
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Abgeschlossenheitsbescheinigung
