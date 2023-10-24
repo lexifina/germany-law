@@ -1,0 +1,59 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-10-24T17:00:00+02:00
+- Ende: 2023-10-24T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23977
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23977
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1, Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500473.pdf
+- Ergebnisprotokoll: 1, Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500473.pdf
+- Wortprotokoll: 1, Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00500473.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 22.08.2023 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 19.09.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Bebauungsplan-Entwurf Nr. 03/017 - Elisabethstraße/Bachstraße - abweichend beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Wissmannstraße 5 - Beseitigung des Anbaus im Hinterhof - einstimmig beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Rheinbrücke Josef-Kardinal-Frings-Brücke im Zuge der B1 – Übergabe der Straßenbaulast aus Anlass der Neufestsetzung der Ortsdurchfahrtsgrenze - einstimmig beschlossen
+- TOP 6.2: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterungsneubau mit sechs Klassen am Schulstandort Suitbertusstraße 163-165 für den Bedarf des Walter-Eucken-Berufskolleg“ - einstimmig beschlossen
+- TOP 6.3: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die „Immobilien- und Standortgemeinschaft Graf-Adolf-Straße“ - einstimmig beschlossen
+- TOP 6.4: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - vertagt
+- TOP 6.5: Weihnachtsmarkt in Düsseldorf Hamm am 16. und 17.12.2023 - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7.2: Verwendung von Haushaltsmitteln - abweichend beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Mögliche Mobilitätsstation Gogrevestr./Vlattenstr. (Anfrage BÜNDNINS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Fahrradturm Bilker Bahnhof (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.1.7: GGS Regenbogenschule (Anfrage SPD-Fraktion) - vertagt
+- TOP 8.1.8: Parksituation an Kreuzung Südring/Aachener Str. (Anfrage Fraktion BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Lärmschutz Fleher Brücke (Antrag BÜNDNIS 90/DIE GRÜNEN) - mehrheitlich beschlossen
+- TOP 9.2: Nachbarschaftszone Schlossmannstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Schwimm´ in Bilk 2023 - zur Kenntnis genommen
+- TOP 10.2: Vierte Florabar am Lessingplatz - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
