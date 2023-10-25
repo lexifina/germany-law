@@ -1,0 +1,110 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7379400
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7379400
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Stadtpiraten e.V. Anschaffung eines Krippenwagens 2.429,01 Euro, Az.: 0262.0-4-0477
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Begründung für Lagebewertung im Mietspiegel 2023 (Hohenzollernstr. 150)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Bauvorhaben Düsseldorfer Straße 10: Umfassende Information der Anwohner*innen
+- TOP 2.2.: Tektur Ansprengerstr. 19: Teilweiser Abbruch und Neubau des bestehenden Daches, Dachgeschossausbau und -umbau (zu einer Wohneinheit), Wohnraumerweiterung der Wohneinheit E2 (EG/UG) und Anbau von zwei neuen Balkonanlagen hofseitig und Einbau Innenaufzug (im Treppenhaus)
+- TOP 2.3.: Vorbescheid Hörwarthstr. 21 (Hörwarthstr. 21 / Simmernstr. 7-15): Abbruch der Dachstühle und Neuerrichtung in geänderter Form als Wohngeschoss
+- TOP 2.4.: Vorbescheid Hörwarthstr. 23: Abbruch der Dachstühle und Neuerrichtung in geänderter Form als Wohngeschoss
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Schleißheimer Str. 122: Kopie des Vorbescheids für Umbau und Ausbau eines Dachgeschosses sowie Anbau eines Außenliftes und eines rückwärtigen Gebäudeteils vom 1. bis 4. OG eines denkmalgeschützten Gebäudes
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Lärm- und Luftqualitätsmessung an der Kreuzung Hohenzollern-/Schleißheimer Straße; Planung einer verkehrsberuhigten Zone
+- TOP 1.2.: Bürgerin: Schulwegsicherheit Bayernplatz: Bordsteinabsenkung Übergang Karl-Theodor-Straße
+- TOP 1.3.: Bürgerin: Zusätzliche Fahrradabstellmöglichkeiten Karl-Theodor-Str. 63
+- TOP 1.4.: Bürger: Clemensstraße als sichere Fahrradstraße gestalten
+- TOP 1.5.: Bürger: Fahrradabstellplätze in der Clemensstraße / Ecke Fallmerayerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Umgestaltung der Karl-Theodor-Straße zwischen Schleißheimer Straße und Bonner Platz
+- TOP 2.2.: Tram-Neubaustrecke „Tram Nordtangente“ und Verbesserung des anliegenden Straßenraums Trassierungsbeschluss für Planfeststellungsabschnitt 1 (PFA 1) Elisabethplatz – Franz-Joseph-Straße – Martiusstraße – Thiemestraße – Englischer Garten – Tivolistraße inkl. Wendeschleife (Frist: 08.11.2023)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Abstellflächen für E-Scooter bei Großveranstaltungen im Olympiapark (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen, TOP D 1.4 07/23)
+- TOP 3.1.2.: Gefahrenstellen auf dem Schulweg zur Grundschule am Bayernplatz (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen, TOP D 1.8 02/22)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Gleiserneuerung Barer Straße/Nordendstraße vom 09.10. bis 17.11.2023
+- TOP 3.3.2.: Abbruch und Erneuerung eines Fernwärmeschachtbauwerks in der Arcis-/Ecke Agnesstraße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Eibengruppe auf der Brache an der Heßstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Bonner Str. 17 a RGB: Antrag auf Fällung einer Rottanne
+- TOP 2.1.2.: Friedrichstr. 27: Antrag auf Fällung einer Roßkastanie
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bestellung einer städtischen Leistung: Aufstellen einer orangen Bank als Zeichen gegen Gewalt gegen Frauen am Stadtarchiv
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Birnauer Str. 7:Genehmigung zur Fällung einer Robinie als Gefahrenbaum
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 3.3.2.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Behindertenbeirat: Barrierefreie Anforderungen bei temporären Umgestaltungen (z.B. Sommerstraßen, Parklets, etc.) im öffentlichen Raum
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Kunstzentrat e.V. Taxi Salon Spezial vom 01.12. - 31.12.2023 1.550,00 Euro, Az.: 0262.0-4-0478
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Trattoria „La Piazza“, Kölner Platz 7: Entfernung von Mobiliar aus dem Grünstreifen (Antwort der Bezirksinspektion Nord auf BA-Schreiben, TOP A 3.2 09/23)
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Neueinrichtung einer Kleingaststätte mit Ladengeschäft „Ama Mi“, Hohenzollernstr. 59
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Fahrradsicherheitschecks am 11.10.2023 im Petuelpark und am 08.11.2023 am Bayernplatz
+- TOP 3.5.2.: Nachbarschaftstag Ackermannbogen des AWM am 07.10.2023
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP G.2.: Änderungen in den Unterausschüssen
+- TOP G.3.: Anhörung zu Änderungen der BA-Satzung und BA-Geschäftsordnung
+- TOP G.4.: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund (Anhörung zum BA-Antrag Nr. 20-26 / B05899 des BA 15 Trudering-Riem)
+- TOP H: Termine
+- TOP 2.5.: Satzungsbeschluss Erhaltungssatzung „Hohenzollernplatz/Hiltenspergerstraße“
+- TOP 2.1.3.: Rankestr. 6 a: Antrag auf Teilfällung einer zweistämmigen Birke
