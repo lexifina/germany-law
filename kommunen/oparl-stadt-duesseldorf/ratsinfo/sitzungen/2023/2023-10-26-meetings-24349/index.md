@@ -1,0 +1,60 @@
+# Kulturausschuss - Etatsitzung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-10-26T15:04:00+02:00
+- Ende: 2023-10-26T17:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24349
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24349
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501158.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501158.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501158.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer stellvertretenden Schriftführung für den Kulturausschuss - einstimmig beschlossen
+- TOP 2: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 3: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 4: Genehmigung der Niederschrift
+- TOP 4.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 23.03.2023 - einstimmig beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Bündnis90/Die Grünen und CDU: Zukunft des Musikpavillons im Hofgarten - zur Kenntnis genommen
+- TOP 5.2: Anfrage Bündnis90/Die Grünen und CDU: „KulturPass“ in Düsseldorf - zur Kenntnis genommen
+- TOP 5.3: Anfrage FDP: Umgang mit Kulturdenkmälern und Kulturgütern - zur Kenntnis genommen
+- TOP 5.4: Anfrage CDU: Mittel für Kulturförderung im Rahmen der EURO 2024 - zur Kenntnis genommen
+- TOP 6: Etatberatung 2024/2025 des Kulturausschusses
+- TOP 6.1: Begleitanträge der Ratsfraktionen zum Haushalt 2024/2025
+- TOP 6.1.1: Begleitantrag der Ratsfraktion DIE LINKE: Erhöhung der Mittel für den Beirat der kulturellen Bildung - mehrheitlich abgelehnt
+- TOP 6.1.2: Begleitantrag der Ratsfraktion DIE LINKE: Einrichtung eines Sonderförderprogramms für studentische Kulturprojekte - mehrheitlich abgelehnt
+- TOP 6.1.3: Begleitantrag SPD/ FDP: Zuwendung für institutionelle Kultureinrichtungen - zurückgezogen
+- TOP 6.1.4: Begleitantrag der Ratsfraktion SPD: Zuwendung für institutionelle Kultureinrichtungen - zurückgezogen
+- TOP 6.1.5: Begleitantrag der FDP: Förderung der Freien Szene - zurückgezogen
+- TOP 6.2: Haushaltsberatung 2024/2025: Entwurf des Doppischen Produkthaushaltes 2024/2025, bezirksbezogene Ansätze 2024/2025 - mehrheitlich beschlossen
+- TOP 6.3: Veränderungsverzeichnis 2024/2025 ff Teil A "Haushaltsneutrale Veränderungen" - mehrheitlich beschlossen
+- TOP 6.4: Vorschläge und Anregungen der Bezirksvertretungen - passieren lassen
+- TOP 6.5: Veränderungsverzeichnis 2024/2025 ff Teil B - mehrheitlich beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Neubau Annexbauten im Malkastenpark - Nachfinanzierung - einstimmig beschlossen
+- TOP 7.2: Bilker Straße 15 - Schumann-Haus, Instandsetzung und Umbau zum Museum - 4. Änderungsbeschluss - einstimmig beschlossen
+- TOP 7.3: Bilker Straße 15 - Schumann-Haus, Errichtung und Einrichtung eines Schumann-Museums sowie Ausstellungsausstattung - 2. Änderungsbeschluss - einstimmig beschlossen
+- TOP 7.4: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen: 2. Änderungsbeschuss zum Ausführungs- und Finanzierungsbeschluss vom 18.06.2020 - einstimmig beschlossen
+- TOP 7.5: Restitution von zwei chinesischen Porzellanen Hier: Fischbecken (China um 1700) aus der Sammlung von Ernst Schneider - einstimmig beschlossen
+- TOP 7.6: take-off Festival 2023 - zusätzliche Förderung - einstimmig beschlossen
+- TOP 7.7: Kostenreduzierte Nutzung der Tonhalle für das New Fall Festival - mehrheitlich beschlossen
+- TOP 7.8: Berufung in die Ankaufskommission der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 7.9: Atelierbeirat - Sitzung am 26.09.2023: Für die Förderung empfohlene Anträge auf Atelierumbaukostenzuschuss - einstimmig beschlossen
+- TOP 7.10: Düsseldorfer Jahrbuch 93 (2023) - einstimmig beschlossen
+- TOP 7.11: Sitzungstermine 2024 - zur Kenntnis genommen
+- TOP 7.12: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - einstimmig beschlossen
+- TOP 7.13: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.14: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.15: Umbenennung historisch belasteter Straßennamen in Düsseldorf - - vertagt
+- TOP 7.16: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.17: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.18: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.19: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 7.20: Förderprojekt "KreativRaum D" im Rahmen des Bundesprogramms "Zukunftsfähige Innenstädte und Zentren" gestartet - zur Kenntnis genommen
+- TOP 8: Verschiedenes
