@@ -31,15 +31,15 @@ Gebühren
 | 1110 | Registrierung nach dem RDG .......... Bei Registrierung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten. | 150,00 € |
 | 1111 | Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1110 abgegolten ist: je Person .......... | 150,00 € |
 | 1112 | Widerruf oder Rücknahme der Registrierung .......... | 75,00 € |
-| Abschnitt 2 Unternehmensregister |
-| (weggefallen) |
+| Abschnitt 2 (weggefallen) |
+|  |
 | Abschnitt 3 Bundeszentral- und Gewerbezentralregister |
 | Vorbemerkung 1.1.3: Die Gebühr 1130 wird nicht erhoben, wenn ein Führungszeugnis zur Ausübung einer ehrenamtlichen Betreuung (§ 19 Abs. 1, § 21 BtOG) oder einer ehrenamtlichen Tätigkeit benötigt wird, die für eine gemeinnützige Einrichtung, für eine Behörde oder im Rahmen eines der in § 32 Abs. 4 Nr. 2 Buchstabe d EStG genannten Dienste ausgeübt wird. |
 | 1130 | Führungszeugnis nach § 30, § 30a oder § 30b BZRG .......... | 13,00 € |
 | 1131 | (weggefallen) |  |
 | 1132 | Auskunft nach § 150 Absatz 1 Satz 1 der Gewerbeordnung .......... | 13,00 € |
-| Abschnitt 4 Abruf von Daten in Handels-,Partnerschafts-, Genossenschafts- und Vereinsregisterangelegenheiten |
-| (weggefallen) |
+| Abschnitt 4 (weggefallen) |
+|  |
 | Abschnitt 5 Einrichtung und Nutzung des automatisierten Abrufverfahrens in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen |
 | Vorbemerkung 1.1.5: (1) Dieser Abschnitt gilt für den Abruf von Daten und Dokumenten aus dem vom Grundbuchamt oder dem Registergericht geführten Datenbestand. Für den Aufruf von Daten und Dokumenten in der Geschäftsstelle des Grundbuchamts oder des Registergerichts werden keine Gebühren erhoben. Der Abruf von Daten aus den Verzeichnissen (§ 12a Abs. 1 der Grundbuchordnung, § 31 Abs. 1, § 55 Satz 2 SchRegDV, §§ 10 und 11 Abs. 3 Satz 2 LuftRegV) und der Abruf des Zeitpunkts der letzten Änderung des Grundbuchs oder Registers sind gebührenfrei. (2) Neben den Gebühren werden keine Auslagen erhoben. |
 | 1150 | Genehmigung der Landesjustizverwaltung zur Teilnahme am eingeschränkten Abrufverfahren (§ 133 Abs. 4 Satz 3 der Grundbuchordnung, auch i. V. m. § 69 Abs. 1 Satz 2 SchRegDV, und § 15 LuftRegV) .......... | 50,00 € |
