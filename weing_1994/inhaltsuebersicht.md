@@ -6,7 +6,7 @@
 | § 2 | Begriffsbestimmungen |
 | § 3 | Weinanbaugebiet |
 | § 3a | Elektronische Kommunikation |
-| § 3b | Stützungsprogramm |
+| § 3b | Durchführung des GAP-Strategieplans; Ermächtigungen |
 |  |
 | 2.AbschnittGenehmigungssystem für Rebpflanzungen, Anbauregelungen |
 | § 4 | Rebanlagen |

@@ -9,7 +9,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Weinanbaugebiet](0003.md)
 - [§ 3a Elektronische Kommunikation](0003a.md)
-- [§ 3b Stützungsprogramm](0003b.md)
+- [§ 3b Durchführung des GAP-Strategieplans, Ermächtigungen](0003b.md)
 
 ## 2. Abschnitt Anbauregeln
 
