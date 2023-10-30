@@ -1,0 +1,60 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-10-30T15:00:00+01:00
+- Ende: 2023-10-30T15:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24005
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24005
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung HFA 30.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501526.pdf
+- Ergebnisprotokoll: 1. Nachlieferung HFA 30.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501526.pdf
+- Wortprotokoll: 1. Nachlieferung HFA 30.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00501526.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 28.08.2023 - einstimmig beschlossen
+- TOP 3: Controllingbericht zur haushalts- und personalwirtschaftlichen Lage nach dem 31.08.2023 - zur Kenntnis genommen
+- TOP 4: Beteiligungsbericht 2021 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 5: Zusammenlegung von fünf unselbstständigen Stiftungen zu der „Heinrich Küppers Stiftung für soziale Zwecke“ - Empfehlung einstimmig beschlossen
+- TOP 6: Veränderungsverzeichnis der Personal- und Versorgungsaufwendungen und -auszahlungen 2024/2025 - vertagt
+- TOP 7: Ausbildungsbedarfsplanung für die Einstellungsjahre 2024 und 2025 - zur Kenntnis genommen
+- TOP 8: Prüfungsordnung für die Erste Verwaltungsprüfung der Beschäftigten im kommunalen Verwaltungsdienst (POV-Kom-I) - Empfehlung einstimmig beschlossen
+- TOP 9: Prüfungsordnung für die Durchführung von Prüfungen zum Nachweis der berufs- und arbeitspädagogischen Eignung nach der Ausbilder-Eignungsverordnung - Empfehlung einstimmig beschlossen
+- TOP 10: Stadtweite Ausweitung des Nachhaltigkeitshaushaltes inkl. Gender Budgeting - zur Kenntnis genommen
+- TOP 11: Neufassung der Vergnügungssteuersatzung der Landeshauptstadt Düsseldorf zum 01.01.2024 - Empfehlung einstimmig beschlossen
+- TOP 12: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 13: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 14: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 15: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 16: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 17: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 18: Umbenennung historisch belasteter Straßennamen in Düsseldorf - vertagt
+- TOP 19: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung mehrheitlich beschlossen
+- TOP 20: Umgang mit brachliegenden Baugrundstücken für Einfamilienhäuser - zur Kenntnis genommen
+- TOP 21: Bebauungsplan-Entwurf Nr. 03/017 - Elisabethstraße/Bachstraße - Empfehlung einstimmig beschlossen
+- TOP 22: Flächennutzungsplanänderung Nr. 200 - Jägerstraße/Festenbergstraße (Entwurf) - Empfehlung einstimmig beschlossen
+- TOP 23: Bebauungsplan-Entwurf Nr. 08/005 - Jägerstraße/Festenbergstraße - Empfehlung einstimmig beschlossen
+- TOP 24: Handlungsfeld Nachhaltige Beschaffung in der Stadtverwaltung Düsseldorf – Bericht 2023 - zur Kenntnis genommen
+- TOP 25: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die „Immobilien- und Standortgemeinschaft Graf-Adolf-Straße“ - Empfehlung einstimmig beschlossen
+- TOP 26: Umgestaltung Mitte Süd – Friedrichstraße inkl. Querstraßen Bachstraße, Kirchfeldstraße und Herzogstraße sowie Graf-Adolf-Platz - passieren lassen
+- TOP 27: Änderung der Personal- und Fahrzeugstundensätze im Rahmen der Entgeltkalkulation "Leistungen für Dritte" des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf zum 01. Januar 2024 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 28: Klärwerk-Süd, Neubau Sozialgebäude (I-8030616003) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 29: Tarifsätze zur Übernahme, Behandlung und Entsorgung von Fäkalschlämmen im Klärwerk Düsseldorf-Süd - Einheitlicher Entsorgungssatz für Behelfsentwässerungsanlagen ab 01.01.2024 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 30: Satzung zur Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsseldorf - Empfehlung mehrheitlich beschlossen
+- TOP 31: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2024 - Empfehlung mehrheitlich beschlossen
+- TOP 32: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2024 - Empfehlung einstimmig beschlossen
+- TOP 33: Gebührenkalkulation Abfall für 2024 - Empfehlung einstimmig beschlossen
+- TOP 34: 34. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 35: Gebührenkalkulation Straßenreinigung für 2024 - Empfehlung mehrheitlich beschlossen
+- TOP 36: 38. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - Empfehlung mehrheitlich beschlossen
+- TOP 37: Bereitstellung überplanmäßiger Mittel für Beraterleistungen - passieren lassen
+- TOP 38: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen: 2. Änderungsbeschuss zum Ausführungs- und Finanzierungsbeschluss vom 18.06.2020 - Empfehlung einstimmig beschlossen
+- TOP 39: Bilker Straße 15 - Schumann-Haus, Instandsetzung und Umbau zum Museum - 4. Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 40: Bilker Straße 15 - Schumann-Haus, Errichtung und Einrichtung eines Schumann-Museums sowie Ausstellungsausstattung - 2. Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 41: Neubau Annexbauten im Malkastenpark - Nachfinanzierung - Empfehlung einstimmig beschlossen
+- TOP 42: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterungsneubau mit sechs Klassen am Schulstandort Suitbertusstraße 163-165 für den Bedarf des Walter-Eucken-Berufskolleg“ - Empfehlung einstimmig beschlossen
+- TOP 43: D.LIVE GmbH & Co. KG - Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinnützigen Aufgaben - Neufassung - und Zuschuss zur Finanzierung von Investitionen in die MERKUR SPIEL-ARENA anlässlich der UEFA EURO 2024 - passieren lassen
