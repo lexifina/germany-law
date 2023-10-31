@@ -1,0 +1,56 @@
+# öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-10-31T16:06:00+01:00
+- Ende: 2023-10-31T17:59:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21310
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21310
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00320170.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00321144.pdf
+
+## Tagesordnung
+
+- TOP 1: Baustellensituation
+- TOP 2: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 3: Sachstandsbericht „25 Mobilitätskonzepte bis 2025“ - Entgegennahme ohne Beschluss
+- TOP 4: Freigabe von Einbahnstraßen für den gegenläufigen Radverkehr in Oberbarmen - Teil 2 - vertagen
+- TOP 5: Hubertusallee - Einbahnstraßenfreigabe für den gegenläufigen Radverkehr - ungeändert beschlossen
+- TOP 6: Radwegeverbindung Nordbahntrasse - Otto-Hausmann-Ring - geändert beschlossen
+- TOP 7: Luhnsstraße - Errichtung einer Fahrradstraße (Dr.-Werner-Jackstädt-Weg) - Entgegennahme ohne Beschluss
+- TOP 8: Jägerhofstaße - Optimierung der Radverkehrsführung sowie Anlage einer Querungshilfe - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 9: Umgang mit Mitteln zur Errichtung von Radverkehrsanlagen - vertagen
+- TOP 9.1: Antwort auf die Große Anfrage der CDU-Fraktion "Umgang mit Mitteln zur Errichtung von Radverkehrsanlagen" vom 12.10.2023 (VO/1042/23) - vertagen
+- TOP 10: Sachstand des Ausbaus Geh-und Radweg Horather Schanze - Entgegennahme ohne Beschluss
+- TOP 10.1: Antwort auf die Große Anfrage der CDU-Fraktion "Sachstand des Ausbaus Geh-und Radweg Horather Schanze - Entgegennahme ohne Beschluss
+- TOP 11: Resolution Verkehrswende - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.1: Ersetzungsantrag zur Drucksache VO/1007/23 - ungeändert beschlossen
+- TOP 12: Barrierefreier Ausbau der Haltestellen Sportplatz Grundstraße, Concordienstraße/Rathaus, Am Eskesberg und Ludwigstraße - ungeändert beschlossen
+- TOP 13: Wittener Straße – Straßensanierung und barrierefreier Ausbau der Haltestellen Windhövel - ungeändert beschlossen
+- TOP 14: Reisebushaltestelle auf der B 7 Höhe "Schwebodrom" - Prüfauftrag zur Drucksache VO/0698/23 - Entgegennahme ohne Beschluss
+- TOP 15: Störungen des Bahnverkehrs im Großraum Wuppertal - Entgegennahme ohne Beschluss
+- TOP 15.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Störungen des Bahnverkehrs im Großraum Wuppertal" vom 08.08.2023 (VO/0775/23) - Entgegennahme ohne Beschluss
+- TOP 16: Prüfauftrag Bremsschwellen - abgelehnt
+- TOP 17: Hatzfelder Straße - Radverkehr - Prüfauftrag zur Freigabe des Gehweges - ungeändert beschlossen
+- TOP 18: Rauental 38, Neubau Bürogebäude, Änderung der Zufahrtsbeschränkung der Straße - ungeändert beschlossen
+- TOP 19: Verkehrsberuhigung Kaiserstraße - geändert beschlossen
+- TOP 20: Entschärfung der Unfallgefahr an der Kreuzung Blombacher Bach – Eschensiepen - abgelehnt
+- TOP 21: Sicherer Schulweg im Kreuzungsbereich der L 411 / L 81 Beyenburg Spieckerlinde - Sichere Erreichbarkeit für Schulkinder zu den Schulbus Haltestellen auf beiden Straßenseiten - geändert beschlossen
+- TOP 22: Stationäre Überwachung der Ampelanlage Abfahrt der BAB A1 aus Richtung Dortmund - abgelehnt
+- TOP 23: Einrichtung von Geschwindigkeitsbegrenzungen auf 30 km/h - abgelehnt
+- TOP 24: Integratives Stadtentwicklungs- und Verkehrskonzept für Cronenberg - ungeändert beschlossen
+- TOP 25: Prüfauftrag Brücke Saarbrücker Straße/Clef - Entgegennahme ohne Beschluss
+- TOP 25.1: Sachstand Brücke Saarbrücker Straße - Entgegennahme ohne Beschluss
+- TOP 26: Kletterzentrum Wupperwände leuchten lassen - abgelehnt
+- TOP 27: Angebot von Wohnmobilstellplätzen in Wuppertal verbessern - zur Beratung und Entscheidung verwiesen
+- TOP 28: Prüfauftrag: E-Scooter Abstellständer im öffentlichen Raum - abgelehnt
+- TOP 29: Aktuelle Anmeldezahlen Elektrofahrzeuge - Entgegennahme ohne Beschluss
+- TOP 30: Anregung gemäß § 24 GO NRW - Temporeduzierung im Bereich der Straße Kleeblatt aufgrund von Lärmschutz - ungeändert beschlossen
+- TOP 31: Anregung gemäß § 24 GO NRW - Anwendung einschlägiger Richtlinien bei der Planung von Geh- und Radwegen - abgesetzt
+- TOP 32: Anregung gemäß § 24 GO NRW - Umleitungsbeschilderung nach StVO und den Richtlinien für Umleitungsbeschilderungen Ausgabe 2021 - abgesetzt
+- TOP 33: Anregung gemäß § 24 GO NRW - Fehlende Absperrung und Baustellenradweg der WSW-Baustelle Mäuerchen (Kasinostraße-Wall) - abgesetzt
+- TOP 34: Anregung gemäß § 24 GO NRW - Temporeduzierung im Bereich der Straße Hahnenfurth aufgrund von Lärmemission - ungeändert beschlossen
+- TOP 35: Anregung gemäß § 24 GO NRW - Einbahnstraße Haubahn - ungeändert beschlossen
