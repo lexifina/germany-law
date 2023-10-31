@@ -1,0 +1,60 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-10-31T17:00:00+01:00
+- Ende: 2023-10-31T19:13:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24425
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24425
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung vom 26. September 2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Katholische Grundschule Im Grund - neues Spielgerät - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 (Liste B), Kita Am Litzgraben 28c - Renovierungsanstrich 1. OG - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 10: Parkscheibenregelung im Umfeld der Kaiserswerther Diakonie - beantwortet
+- TOP 11: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 12: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 13: Tempo 30-Beschilderung vor Kindergärten und Schulen - beantwortet
+- TOP 14: Piktogramme "Kinder" vor der Internationalen Schule und den Kita-Einrichtungen an der Niederrheinstraße - beantwortet
+- TOP 15: Fahrradgaragen an der Haltestelle der U79 in Wittlaer und Kaiserswerth - vertagt
+- TOP 16: Geplante Verkehrsregelung Alte Landstraße/Kalkumer Schlossallee - beantwortet
+- TOP 17: Elektrifizierung der Anlegestelle für Schiffe in Kaiserswerth - vertagt
+- TOP -: Neue Anfragen
+- TOP 18: Bis heute keine Eventfläche auf dem Messeparkplatz: Stadt Düsseldorf verzichtet seit 2018 auf jährlich 1.000.000 Euro - beantwortet
+- TOP 19: Ausblick auf weitere Ladesäulen im Stadtbezirk 5 - vertagt
+- TOP 20: Stand des Rückbaus der alten B8 - vertagt
+- TOP 21: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - vertagt
+- TOP 22: E-Ladesäulen am Kaiserswerther Markt - Weshalb informiert die Verwaltung nicht? - vertagt
+- TOP 23: ParkingDay in Kaiserswerth – Aktionstag für die „Re-Urbanisierung“ oder parteipolitische Veranstaltung? - vertagt
+- TOP 24: Doppelhaushälften Holtystrasse / Ecke Anna von Krane Str. - beantwortet
+- TOP 25: Neue Beschilderung "Überholverbot einspuriger Fahrzeuge, Verkehrszeichen 227.1" auf der Angermunder Straße, Brückenbauwerk ab Querungshilfe bis Ende der Brücke (beide Fahrtrichtungen)? - vertagt
+- TOP 26: Wann erhält die Hochwasser Schutzmauer in Kaiserswerth eine Abkantung mit einem Aluminiumblech und was hat der Drohnen Flug bei der Inspektion der Hochwasser Schutzmauer ergeben? - beantwortet
+- TOP 27: Wieso werden Elektro Ladesäulen im Abstand von 500 m am Kaiserswerther Markt aufgestellt und so weitere 4 Parkplätze - beantwortet
+- TOP 28: Zuschneidung neuer Kommunalwahlbezirke - beantwortet
+- TOP 29: Bürgerversammlungen im Stadtbezirk 5 - beantwortet
+- TOP -: Anträge
+- TOP 30: Mittelinsel auf dem Kaiserswerther Markt barrierefrei zugänglich machen! - einstimmig beschlossen
+- TOP 31: Beschädigtes Spielgerät auf dem Spielplatz Bergesweg 12 sanieren oder austauschen - zurückgezogen
+- TOP 32: Mehr Mülleimer und eine öffentliche Toilettenanlage im Lantz'schen Park - einstimmig beschlossen
+- TOP 33: Den Spielplatz an der Bockumer Straße umgestalten - einstimmig beschlossen
+- TOP 34: Spontanvegetation an Straßen, Kreuzungen und öffentlichen Plätzen beseitigen und Pflegeintervalle des Straßenbegleitgrüns im Bezirk 5 in der Zukunft verkürzen - einstimmig beschlossen
+- TOP 35: Visuelle Verbesserung Zebrastreifen Niederrheinstraße - Höhe Aldi - einstimmig beschlossen
+- TOP 36: Notwendigkeit, die neu aufgestellten nicht zum Stadtbild passenden LED Leuchten in Kaiserswerth wie am Suitbertus Gymnasium und auf dem Marienplatz gegen LED Leuchten vom Modell Alt Düsseldorf auszutauschen - zurückgezogen
+- TOP 37: Minimierung des Parkdrucks der Anwohner rund um die Kaiserswerther Diakonie! - abweichend beschlossen
+- TOP 38: Wasserzapfstelle am Hannes-Esser-Platz reaktivieren/Bürgerinitiativen stärken/Umfeld attraktiver gestalten - einstimmig beschlossen
+- TOP -: Informationsvorlage
+- TOP 39: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 40: Verschiedenes
+- TOP 41: Errichtung von E-Ladesäulen am Kaiserswerther Markt: Anwohner und Besucher Kaiserswerths nicht übermäßig belasten - Für einen sinnvollen und nachhaltigen Ausbau der Ladeinfrastruktur in Kaiserswerth! - abweichend beschlossen
