@@ -1,4 +1,4 @@
-# Anlage D14a Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
+# Anlage D14a Dokumente mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
 – Vorderseite –
 |  |

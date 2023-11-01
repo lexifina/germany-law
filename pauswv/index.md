@@ -24,11 +24,11 @@
 - [§ 11 Muster für den Personalausweis](0011.md)
 - [§ 12 Muster für den vorläufigen Personalausweis](0012.md)
 - [§ 12a Muster für den Ersatz-Personalausweis](0012a.md)
-- [§ 13 Schnittstelle des elektronischen Speicher- und Verarbeitungsmediums](0013.md)
+- [§ 13 Schnittstelle des Chips](0013.md)
 - [§ 14 Speicherung von personenbezogenen Daten; Zugriffsschutz](0014.md)
 - [§ 15 Übermittlung und Übersendung des Sperrkennworts an die Personalausweisbehörde](0015.md)
 - [§ 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber](0016.md)
-- [§ 17 Übersendung der Geheimnummer, der Entsperrnummer und des Sperrkennworts](0017.md)
+- [§ 17 Erhalt der Geheimnummer und der Entsperrnummer](0017.md)
 
 ## Kapitel 4 Aushändigung des Personalausweises; Braille-Aufkleber
 

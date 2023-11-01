@@ -80,7 +80,7 @@
 | § 44 | Gebühren für die Niederlassungserlaubnis |
 | § 44a | Gebühren für die Erlaubnis zum Daueraufenthalt – EU |
 | § 45 | Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte |
-| § 45a | (weggefallen) |
+| § 45a | Gebühren für Expressverfahren |
 | § 45b | Gebühren für Aufenthaltstitel in Ausnahmefällen |
 | § 45c | Gebühr bei Neuausstellung |
 | § 46 | Gebühren für das Visum |
@@ -98,7 +98,7 @@
 | § 55 | Ausweisersatz |
 | § 56 | Ausweisrechtliche Pflichten |
 | § 57 | Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente |
-| § 57a | Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 des Aufenthaltsgesetzes |
+| § 57a | Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes |
 | Kapitel 5 |
 | Verfahrensvorschriften |
 | Abschnitt 1 |
@@ -111,8 +111,8 @@
 | Abschnitt 2 |
 | Datenerfassung, Datenverarbeitung und Datenschutz |
 | Unterabschnitt 1 |
-| Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 4 sowie nach § 78 des Aufenthaltsgesetzes |
-| § 61a | Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium |
+| Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes |
+| § 61a | Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip |
 | § 61b | Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung |
 | § 61c | Übermittlung der Daten an den Dokumentenhersteller |
 | § 61d | Nachweis der Erfüllung der Anforderungen |

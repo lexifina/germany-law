@@ -41,7 +41,7 @@
     In Thüringen bestehen Suchmöglichkeiten gemeindescharf und über ganz Thüringen ohne Angabe eines konkreten Gemeindeschlüssels unter Verwendung des Suchbereichs in der Anfragenachricht.
 4. Zu § 4
   a) Normalisierung von Zeichen
-    aa) Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN SPEC 91379 normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN SPEC 91379 auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+    aa) Alle Auswahldaten nach § 4 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0301 bis 0303, 0201 bis 0204, 0501, 0502, 1205, 0602, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
     bb) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | Sœrensen (DSMeld-Blatt 0101a) | Hinweis: Im Folgenden wird angenommen, dass die phonetische Suche deaktiviert ist. |
@@ -211,7 +211,7 @@
   b) Die abrufende Stelle muss für die Auswahl einer Person aus einer Trefferliste nach § 6 oder Ergebnisliste nach § 8 das übermittelte Identifikationsmerkmal anstelle der fachlichen Personendaten zur Fortführung des Datenabrufs nutzen.
 6. Zu § 7
   a) Normalisierung von Zeichen
-    aa) Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN SPEC 91379 normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN SPEC 91379 auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
+    aa) Alle Auswahldaten nach § 7 Absatz 1, die Namen (auch Straßen- und Ortsnamen) darstellen (DSMeld 0101 bis 0102, 0201 bis 0204, 0301 bis 0303, 0501, 0502, 0602, 1203, 1204, 1205, 1211, 1212, 1233, 1408, 1904), müssen von der Auskunft gebenden Stelle auf der Basis der Vorgaben in Tabelle 9 „Abbildung lateinischer Buchstaben auf Grundbuchstaben analog ICAO“ der DIN-Norm 91379 (Ausgabe August 2022) normalisiert werden. Alle Zeichen, die nicht in der Tabelle 9 der DIN-Norm 91379 (Ausgabe August 2022) auf Grundbuchstaben abgebildet werden, sind zu entfernen. Auswahldaten, die nach der Normalisierung keine Zeichen mehr aufweisen, sind als nicht vorhanden zu behandeln.
     bb) Beispiele
       | Familienname im Melderegister | Familienname in den Auswahldaten | Im Ergebnis enthalten? |
       | Sœrensen (DSMeld-Blatt 0101a) | Hinweis: Im Folgenden wird angenommen, dass die phonetische Suche deaktiviert ist. |

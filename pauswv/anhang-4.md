@@ -1,8 +1,9 @@
 # Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten
 
-(Fundstelle: BGBl. I 2010, 1476)
+(Fundstelle: BGBl. I 2010, 1476;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Nr. | Bezeichnung der Systemkomponente | Verpflichtung/Option |
-| 1 | Elektronisches Speicher- und Verarbeitungsmedium auf der Ausweiskarte (Hard- und Software) | Verpflichtung für den Ausweishersteller |
+| 1 | Chip auf der Ausweiskarte (Hard- und Software) | Verpflichtung für den Ausweishersteller |
 | 2 | Hardware zur Erfassung und Echtheitsbewertung von Fingerabdrücken | Verpflichtung für die Anbieter dieser GeräteVerpflichtung für den AusweisherstellerVerpflichtung für die Personalausweisbehörden |
 | 3 | Software zur Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke | Verpflichtung für den AusweisherstellerVerpflichtung für die Personalausweisbehörden |
 | 4 | System zur sicheren Übermittlung des Lichtbildes von Dritten an die Personalausweisbehörde | Verpflichtung für die Personalausweisbehörden, welche das Lichtbild gemäß § 7 Absatz 1 Satz 2 Nummer 1 von Dritten erhalten |

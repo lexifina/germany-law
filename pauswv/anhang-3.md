@@ -53,7 +53,7 @@ Abschnitt 2
 | Hintergrund |  |
 | Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau) und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto darf ausschließlich die zu fotografierende Person zeigen (keine weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund dürfen keine Schatten entstehen. |
 | Fotoqualität |  |
-| Das Foto sollte (insbesondere bei der Aufnahme mit einer Digitalkamera) auf hochwertigem Papier mit einer Druckauflösung von mindestens 236 Punkten pro Zentimeter (600 dots per inch) vorliegen. Das Foto muss farbneutral sein und die Hauttöne natürlich wiedergeben. Das Foto darf keine Knicke oder Verunreinigungen aufweisen. Das Foto kann in Schwarzweiß oder Farbe vorliegen. |
+| Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen. Das Foto muss farbneutral sein und die natürlichen Hauttöne wiedergeben. Digitale Fotos sind grundsätzlich in Farbe vorzulegen. Ist die Vorlage eines papierbasierten Fotos in Ausnahmefällen gestattet, darf dieses Foto in Farbe oder Schwarzweiß vorgelegt werden; es darf jedoch keine Knicke oder Verunreinigung aufweisen. |
 | Kopfposition und Gesichtsausdruck |  |
 | Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (zum Beispiel Halbprofil) ist nicht zulässig. Die Person muss mit neutralem Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken. |
 | Augen und Blickrichtung |  |

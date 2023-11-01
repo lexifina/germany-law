@@ -26,3 +26,4 @@
 - [Anhang 2 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit](anhang-2.md)
 - [Anhang 3 (zu § 2a Absatz 7, § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)](anhang-3.md)
 - [Anhang 4 (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung](anhang-4.md)
+- [Anhang 5 (zu Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c)](anhang-5.md)

@@ -37,6 +37,7 @@
   Sylt
 2. Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:
   Allendorf/Eder
+  Bamberg-Breitenau
   Bautzen
   Bayreuth
   Coburg-Brandensteinsebene

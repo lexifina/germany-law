@@ -101,7 +101,7 @@ Mitgliedstaates zur Wohnsitzverlegung](0043.md)
 - [§ 44 Gebühren für die Niederlassungserlaubnis](0044.md)
 - [§ 44a Gebühren für die Erlaubnis zum Daueraufenthalt – EU](0044a.md)
 - [§ 45 Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte](0045.md)
-- [§ 45a (weggefallen)](0045a.md)
+- [§ 45a Gebühren für Expressverfahren](0045a.md)
 - [§ 45b Gebühren für Aufenthaltstitel in Ausnahmefällen](0045b.md)
 - [§ 45c Gebühr bei Neuausstellung](0045c.md)
 - [§ 46 Gebühren für das Visum](0046.md)
@@ -120,7 +120,7 @@ Mitgliedstaates zur Wohnsitzverlegung](0043.md)
 - [§ 55 Ausweisersatz](0055.md)
 - [§ 56 Ausweisrechtliche Pflichten](0056.md)
 - [§ 57 Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente](0057.md)
-- [§ 57a Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 des Aufenthaltsgesetzes](0057a.md)
+- [§ 57a Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes](0057a.md)
 
 ## Kapitel 5 Verfahrensvorschriften
 
@@ -137,9 +137,9 @@ Ausweisersatz und sonstige Dokumente
 ### Abschnitt 2 Datenerfassung, Datenverarbeitung und Datenschutz
 
 
-#### Unterabschnitt 1 Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
+#### Unterabschnitt 1 Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
 
-- [§ 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium](0061a.md)
+- [§ 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip](0061a.md)
 - [§ 61b Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung](0061b.md)
 - [§ 61c Übermittlung der Daten an den Dokumentenhersteller](0061c.md)
 - [§ 61d Nachweis der Erfüllung der Anforderungen](0061d.md)
@@ -218,12 +218,12 @@ nach § 60a Abs. 4 Aufenthaltsgesetz](anlage-d-2b.md)
 - [Anlage D9 Bescheinigung über die Wohnsitzverlegung nach § 4 Abs. 1 Nr. 6](anlage-d-9.md)
 - [Anlage D10 Europäisches Reisedokument für die Rückkehr nach § 4 Absatz 1 Satz 1 Nummer 7](anlage-d-10.md)
 - [Anlage D11 Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung über die Aussetzung der Abschiebung](anlage-d-11.md)
-- [Anlage D11a Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes](anlage-d-11a.md)
+- [Anlage D11a Zusatzblatt zum Aufenthaltstitel mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes](anlage-d-11a.md)
 - [Anlage D12 Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)](anlage-d-12.md)
 - [Anlage D13a Visum (§ 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)](anlage-d-13a.md)
 - [Anlage D13b Verlängerung des Visums im Inland](anlage-d-13b.md)
 - [Anlage D14 Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz](anlage-d-14.md)
-- [Anlage D14a Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes](anlage-d-14a.md)
+- [Anlage D14a Dokumente mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes](anlage-d-14a.md)
 - [Anlage D15 Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)](anlage-d-15.md)
 - [Anlage D16 Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)](anlage-d-16.md)
 - [Anlage D17 Muster für den Aufkleber mit Brailleschrift](anlage-d-17.md)
