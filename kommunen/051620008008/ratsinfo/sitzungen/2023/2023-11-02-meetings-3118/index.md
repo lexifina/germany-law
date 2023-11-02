@@ -1,0 +1,57 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-11-02T18:30:00+01:00
+- Ende: 2023-11-02T21:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3118
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3118
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00145157.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00145157.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00145157.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Tätigkeitsbericht der Gleichstellungsstelle - Kenntnisnahme
+- TOP 5: Interkommunale Zusammenarbeit: Übertragung des Fischereischeinwesens an den Rhein-Kreis Neuss - mehrheitlich beschlossen
+- TOP 6: Genehmigung der Nachtragshaushaltssatzung 2023 durch die Aufsichtsbehörde - Kenntnisnahme
+- TOP 7: Zuleitung des Entwurfs des Jahresabschlusses 2022 und seiner Anlagen an den Rat - einstimmig beschlossen
+- TOP 8: Beratungspunkte Ausschüsse
+- TOP 8.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 8.1.1: Straßenumbenennung Sauerbruchstraße in Johanna-Rings-Straße - vertagt
+- TOP 8.1.2: 47. FNP Änd. - Aufstellung - mehrheitlich beschlossen
+- TOP 8.1.3: N 50 - Aufstellung - mehrheitlich beschlossen
+- TOP 8.2: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 8.2.1: Fortführung des Wirksamkeitsdialogs 2023; hier: Antrag des Vereins Alte Feuerwache Grevenbroich e.V. vom 07.08.2023 - einstimmig beschlossen
+- TOP 8.3: Entscheidung über Beratungspunkte aus der Sitzung des Hauptausschusses
+- TOP 8.3.1: Standorte für Unterbringung geflüchteter Menschen
+- TOP 8.3.1.1: Standorte für die Unterbringung geflüchteter Menschen (Ergänzung zu Vorlage 462/2023) - mehrheitlich beschlossen
+- TOP 8.3.1.2: 80-2023 Standorte für die Unterbringung geflüchteter Menschen - mehrheitlich abgelehnt
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Antrags-/Anfragenverfolgung (Antrag 45/2023) - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.1.1: Schaffung einer Verbraucherzentrale in Grevenbroich (Antrag Nr.:77/2023) - einstimmig beschlossen
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: (Nach-) Nutzung des Feuerwehrgerätehauses in Gindorf unter Beteiligung der örtlichen Vereine sicherstellen - einstimmig beschlossen
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.5.1: Benennung der Turnhalle der Realschule an der Bergheimer Straße in Hans-Weßig-Turnhalle (Antrag Nr.:78/2023) - einstimmig beschlossen
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 11: Gemeinschaftsanträge
+- TOP 11.1: Erlass einer Vorkaufsrechtsatzung für die Geltungsbereiche Kölner Straße, Breitestraße, Karl-Oberbach-Straße, Bahnstraße und Rheydter Straße bis zur Bahnlinie (Antrag Nr.:79/2023) - einstimmig beschlossen
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 13: Mitteilungen des Bürgermeisters
