@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnismuster
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-11-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19743.1
+- Datum: 2023-11-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19743.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.11.2022
+03.11.2023
 bis
-02.11.2023
+02.05.2025
 
 VwV Zeugnismuster
 
@@ -36,7 +36,7 @@ Vollzitat: VwV Zeugnismuster vom 17. Oktober 2022 (MBl. SMK S. 278), die zuletzt
 I.
 Geltungsbereich
 
-Diese Verwaltungsvorschrift gilt für alle Grundschulen, Förderschulen, Oberschulen einschließlich Oberschulen+ mit Ausnahme des besonderen Bildungsweges Produktives Lernen, sowie für alle Gymnasien (Sekundarstufe I), Gemeinschaftsschulen (Primarstufe und Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) in öffentlicher Trägerschaft im Freistaat Sachsen. Sie gilt auch für Zeugnisse gemäß § 13 der Prüfungsverordnung Waldorfschulen vom 9. März 2005 (SächsGVBl. S. 75), die zuletzt durch Artikel 7 der Verordnung vom 22. Juni 2021 (SächsGVBl. S. 713) geändert worden ist, in der jeweils geltenden Fassung, und die nachträgliche Zuerkennung des mittleren Schulabschlusses gemäß § 17 der Prüfungsverordnung Waldorfschulen.
+Diese Verwaltungsvorschrift gilt für alle Grundschulen, Förderschulen, Oberschulen einschließlich Oberschulen+ mit Ausnahme des besonderen Bildungsweges Produktives Lernen, sowie für alle Gymnasien (Sekundarstufe I), Gemeinschaftsschulen (Primarstufe und Sekundarstufe I), Abendoberschulen, Abendgymnasien und Kollegs (jeweils Vorkurs und Einführungsphase) in öffentlicher Trägerschaft im Freistaat Sachsen. Sie gilt auch für Zeugnisse gemäß § 13 der Prüfungsverordnung Waldorfschulen vom 9. März 2005 (SächsGVBl. S. 75), die zuletzt durch Artikel 3 der Verordnung vom 30. Mai 2023 (SächsGVBl. S. 379) geändert worden ist, in der jeweils geltenden Fassung, und die nachträgliche Zuerkennung des mittleren Schulabschlusses gemäß § 17 der Prüfungsverordnung Waldorfschulen.
 
 II.
 Grundschule
@@ -291,7 +291,7 @@ Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes im Abgangsja
 
 aa)
 
-für die Schülerin oder den Schüler, die oder der die Klassenstufe H 10 gemäß § 34 Absatz 11 der Schulordnung Förderschulen vom 3. August 2004 (SächsGVBl. S. 317), die zuletzt durch Artikel 3 der Verordnung vom 22. Juni 2021 (SächsGVBl. S. 713) geändert worden ist, in der jeweils geltenden Fassung, verlässt, das Muster gemäß Anlage 2.6 mit der Maßgabe, dass im Feld „Bemerkungen“ die erbrachte Komplexe Leistung mit der Formulierung „Thema der lebenspraktisch orientierten Komplexen Leistung: (Thema)“ ergänzt wird, und
+für die Schülerin oder den Schüler, die oder der die Klassenstufe H 10 gemäß § 34 Absatz 10 der Schulordnung Förderschulen vom 3. August 2004 (SächsGVBl. S. 317), die zuletzt durch Artikel 1 der Verordnung vom 31. Juli 2023 (SächsGVBl. S. 630) geändert worden ist, in der jeweils geltenden Fassung, verlässt, das Muster gemäß Anlage 2.6 mit der Maßgabe, dass im Feld „Bemerkungen“ die erbrachte Komplexe Leistung mit der Formulierung „Thema der lebenspraktisch orientierten Komplexen Leistung: (Thema)“ ergänzt wird, und
 
 
 bb)
@@ -466,7 +466,7 @@ Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes am Ende des 
 
 aa)
 
-in einem Fall des § 63 Absatz 3 Nummer 1 der Schulordnung Ober- und Abendoberschulen vom 11. Juli 2011 (SächsGVBl. S. 277, 365), die zuletzt durch Artikel 4 der Verordnung vom 22. Juni 2021 (SächsGVBl. S. 713) geändert worden ist, in der jeweils geltenden Fassung, das Muster gemäß Anlage 3.4 mit einer Bemerkung nach Ziffer XII Nummer 3 Buchstabe b Satz 7,
+in einem Fall des § 63 Absatz 3 Nummer 1 der Schulordnung Ober- und Abendoberschulen vom 11. Juli 2011 (SächsGVBl. S. 277, 365), die zuletzt durch Artikel 2 der Verordnung vom 31. Juli 2023 (SächsGVBl. S. 630) geändert worden ist, in der jeweils geltenden Fassung, das Muster gemäß Anlage 3.4 mit einer Bemerkung nach Ziffer XII Nummer 3 Buchstabe b Satz 7,
 
 
 bb)
@@ -642,7 +642,7 @@ zu verwenden.
 Abgangszeugnis
 
 
-Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes der Schülerin oder des Schülers des Gymnasiums im Abgangsjahr ist das Muster gemäß Anlage 4.5 „Abgangszeugnis des Gymnasiums“ zu verwenden. Im Abgangszeugnis ist auf der Seite 2 der höchste erworbene Schulabschluss anzukreuzen. Auf der Seite 3 ist im Feld „Bemerkungen“ für Schülerinnen und Schüler, die in der Klassenstufe 10 eine weitere Fremdsprache gemäß § 17 Absatz 6 der Schulordnung Gymnasien Abiturprüfung vom 27. Juni 2012 (SächsGVBl. S. 348), die zuletzt durch Artikel 5 der Verordnung vom 22. Juni 2021 (SächsGVBl. S. 713) geändert worden ist, in der jeweils geltenden Fassung, begonnen haben, für die in der Klassenstufe 10 nicht mehr belegte Fremdsprache die Teilnahme am Unterricht in den Klassenstufen 5 bis 9 zu vermerken.
+Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes der Schülerin oder des Schülers des Gymnasiums im Abgangsjahr ist das Muster gemäß Anlage 4.5 „Abgangszeugnis des Gymnasiums“ zu verwenden. Im Abgangszeugnis ist auf der Seite 2 der höchste erworbene Schulabschluss anzukreuzen. Auf der Seite 3 ist im Feld „Bemerkungen“ für Schülerinnen und Schüler, die in der Klassenstufe 10 eine weitere Fremdsprache gemäß § 18 Absatz 6 der Schulordnung Gymnasien Abiturprüfung vom 30. Mai 2023 (SächsGVBl. S. 379, 668), in der jeweils geltenden Fassung, begonnen haben, für die in der Klassenstufe 10 nicht mehr belegte Fremdsprache die Teilnahme am Unterricht in den Klassenstufen 5 bis 9 zu vermerken.
 
 
 VI.
@@ -663,7 +663,7 @@ Ziffer II Nummer 1 und 4 Satz 1 gilt entsprechend und es wird in den Anlagen jew
 
 b)
 
-Bei Verlassen der LRS-Klasse nach einjährigem Besuch ist das Muster gemäß Anlage 1.3 mit den Maßgaben zu verwenden, dass das Wort „Grundschule“ durch das Wort „Gemeinschaftsschule“ ersetzt und im Feld „Bemerkungen“ dies mit der Formulierung „Nach einjährigem Besuch der LRS-Klasse analog § 39 der Schulordnung Gemeinschaftsschulen nach Klasse 4 versetzt.“ vermerkt wird.
+Bei Verlassen der LRS-Klasse nach einjährigem Besuch ist das Muster gemäß Anlage 1.3 mit den Maßgaben zu verwenden, dass das Wort „Grundschule“ durch das Wort „Gemeinschaftsschule“ ersetzt und im Feld „Bemerkungen“ dies mit der Formulierung „Nach einjährigem Besuch der LRS-Klasse analog § 42 der Schulordnung Gemeinschaftsschulen nach Klasse 4 versetzt.“ vermerkt wird.
 
 
 Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes der Schülerin oder des Schülers der Gemeinschaftsschule in den Klassenstufen 5 bis 10 ist
@@ -809,7 +809,7 @@ Zur Dokumentation des erreichten Entwicklungs- und Leistungsstandes am Ende des 
 
 aa)
 
-in einem Fall des § 49 Absatz 1 Satz 1 der Schulordnung Gemeinschaftsschulen vom 22. Juni 2021 (SächsGVBl. S. 713), in der jeweils geltenden Fassung, in Verbindung mit § 63 Absatz 3 Nummer 1 der Schulordnung Ober- und Abendoberschulen das Muster gemäß Anlage 5.4 mit einer Bemerkung nach Ziffer XII Nummer 3 Buchstabe b Satz 8,
+in einem Fall des § 49 Absatz 1 Satz 1 der Schulordnung Gemeinschaftsschulen vom 22. Juni 2021 (SächsGVBl. S. 713), die durch Artikel 4 der Verordnung vom 30. Mai 2023 (SächsGVBl. S. 379) geändert worden ist, in der jeweils geltenden Fassung, in Verbindung mit § 63 Absatz 3 Nummer 1 der Schulordnung Ober- und Abendoberschulen das Muster gemäß Anlage 5.4 mit einer Bemerkung nach Ziffer XII Nummer 3 Buchstabe b Satz 8,
 
 
 bb)
@@ -932,7 +932,7 @@ Zur Dokumentation des erreichten Leistungsstandes der Schülerin oder des Schül
 X.
 Zeugnisse an sorbischen Schulen
 
-Die Halbjahresinformationen und Zeugnisse an sorbischen Schulen gemäß § 2 Absatz 2 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 27. September 2018 (SächsGVBl. S. 648), das zuletzt durch Artikel 17 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, werden zweisprachig erteilt. Auf rechtzeitigen Wunsch der Eltern oder bei Volljährigkeit der Schülerin oder des Schülers werden die Halbjahresinformation und das Zeugnis in deutscher oder sorbischer Sprache erteilt. Die Schule informiert die Eltern oder bei Volljährigkeit die Schülerin oder den Schüler über die Möglichkeit gemäß Satz 2.
+Die Halbjahresinformationen und Zeugnisse an sorbischen Schulen gemäß § 2 Absatz 2 des Sächsischen Schulgesetzes in der Fassung der Bekanntmachung vom 27. September 2018 (SächsGVBl. S. 648), das zuletzt durch Artikel 8 des Gesetzes vom 6. Juli 2023 (SächsGVBl. S. 467) geändert worden ist, in der jeweils geltenden Fassung, werden zweisprachig erteilt. Auf rechtzeitigen Wunsch der Eltern oder bei Volljährigkeit der Schülerin oder des Schülers werden die Halbjahresinformation und das Zeugnis in deutscher oder sorbischer Sprache erteilt. Die Schule informiert die Eltern oder bei Volljährigkeit die Schülerin oder den Schüler über die Möglichkeit gemäß Satz 2.
 
 XI.
 Zeugnisse gemäß §§ 13 und 17
@@ -1072,7 +1072,7 @@ Noteneintragung
 
 Die Eintragung der Noten erfolgt in Ziffern. Nicht zu unterrichtende Fächer werden in den Anlagen mit einem Gedankenstrich „–“ ausgewiesen. Dies gilt auch für die Fächer im Rahmen der schrittweisen Integration von Schülerinnen und Schülern, deren Herkunftssprache nicht oder nicht ausschließlich Deutsch ist, für die eine verbale Einschätzung unter „Bemerkungen“ aufgenommen wird. Fällt der Unterricht in einem zu erteilenden Fach aus, wird dies mit dem Hinweis „nicht erteilt“ kenntlich gemacht. Unterrichtete Fächer, die nicht benotet werden, erhalten den Hinweis „teilgenommen“. Wird gemäß § 25 Absatz 6 der Schulordnung Förderschulen, § 23 Absatz 9 Satz 3 der
 
-Schulordnung Ober- und Abendoberschulen, § 23 Absatz 8 Satz 5 der
+Schulordnung Ober- und Abendoberschulen, § 25 Absatz 8 Satz 5 der
 
 Schulordnung Gymnasien Abiturprüfung oder § 26 Absatz 3 Satz 2 der Schulordnung Gemeinschaftsschulen auf eine Benotung verzichtet, wird dies durch die Eintragung „keine Benotung“ ausgewiesen. Liegt für einzelne Fächer eine Befreiung vor und ist eine Benotung nicht möglich, wird „befreit“ eingetragen.
 
@@ -1174,9 +1174,9 @@ Fsn-Nr.: 710-V22.7
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. November 2022
+Fassung gültig ab:  3. November 2023
 
-Fassung gültig bis:  2. November 2023
+Fassung gültig bis:  2. Mai 2025
 
 Drucken/Speichern
 
@@ -1203,7 +1203,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19743.1
+https://www.revosax.sachsen.de/vorschrift/19743.2
 Stand vom
 18.11.2026
 
