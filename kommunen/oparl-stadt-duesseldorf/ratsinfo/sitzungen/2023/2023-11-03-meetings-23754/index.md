@@ -1,0 +1,73 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-03T16:00:00+01:00
+- Ende: 2023-11-03T18:15:00+01:00
+- Ort: Bürgerhaus Reisholz, Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23754
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23754
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 03.11.2023, Stand 31.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502018.pdf
+- Ergebnisprotokoll: BV9 Einladung 03.11.2023, Stand 31.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502018.pdf
+- Wortprotokoll: BV9 Einladung 03.11.2023, Stand 31.10.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502018.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 22.09.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP 5: Austausch mit der Beigeordneten Britta Zur - Dezernat für Ordnung, Bürgerservice und Sport
+- TOP 6: Architekturwettbewerb zur Umgestaltung des Westflügels von Schloss Benrath - Vorstellung der Ergebnisse - vertagt
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Aktualisierung von beschlossenen Maßnahmen im Bereich Tageseinrichtungen für Kinder - Empfehlung einstimmig beschlossen
+- TOP 7.5: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2024 - einstimmig beschlossen
+- TOP 7.6: Sitzungstermine der Bezirksvertretung 9 im Jahr 2024 - zur Kenntnis genommen
+- TOP 7.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - abweichend beschlossen
+- TOP 7.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 7.9: Hildener Straße, Umbau zwischen Betriebshof Rheinbahn und Am Buchholzer Busch - vertagt
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Planungsstand Radschnellweg - Anfrage der SPD-Fraktion - vertagt
+- TOP 9.3: Sauberkeit in Grünanlagen - Anfrage der SPD-Fraktion - vertagt
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Beleuchtung Paulinenpark in Reisholz - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Verfügungsmittel
+- TOP 11.1: Aktionsgemeinschaft Benrath e. V. - Erweiterung Weihnachtsbeleuchtung 2023 - einstimmig beschlossen
+- TOP 11.2: Heimatgemeinschaft Groß-Benrath e.V. - Druckkosten für den Flyer zur Lilli-Marx-Ausstellung - einstimmig beschlossen
+- TOP 11.3: GGS Am Köhnen - Präventionstheater "Mein Körper gehört mir" u. "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 11.4: Heimatverein Holthausen-Itter-Himmelgeist e.V. - Martinszug 2023 - einstimmig beschlossen
+- TOP 11.5: Heimatverein Holthausen-Itter-Himmelgeist e.V. - Weihnachtsbaum auf dem Kamper Acker 2023 - einstimmig beschlossen
+- TOP 11.6: Martinsfreunde Hassels - Martinszug 2023 - einstimmig beschlossen
+- TOP 11.7: Allgemeiner Bürgerverein Urdenbach e. V. - Weihnachtsbaum 2023 - einstimmig beschlossen
+- TOP 11.8: Dialog.Kultur.Dialog gUG - ZUHÖR.Bank Kamper Acker - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Wanderparkplatz an der Kreuzung Am Schönenkamp/ Forststraße - Beschluss der Bezirksvertretung 9 vom 07.05.2021; BV9/108/2021 - zur Kenntnis genommen
+- TOP 12.2: Einhaltung der Tempo 30-Zone in der oberen Mergelgasse - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/220/2021 - zur Kenntnis genommen
+- TOP 12.3: Markierung von festen Abstellflächen für E-Scooter auf dem Kamper Acker - Beschluss der Bezirksvertretung 9 vom 02.10.2020; BV9/190/2020 - zur Kenntnis genommen
+- TOP 12.4: Multifunktionale Sportflächen - Beschluss der Bezirksvertretung 9 vom 01.10.2021; BV9/244/2021 - zur Kenntnis genommen
+- TOP 12.5: Paulsmühlenstraße, Zufahrt zum Kleingartengelände - Beschluss der Bezirksvertretung 9 vom 25.06.2021; BV9/168/2021 - zur Kenntnis genommen
+- TOP 12.6: Benrather Schloßallee zwischen Kappeler Straße und Steinkribbenstraße - Beschluss der Bezirksvertretung 9 vom 18.08.2023; BV9/161/2023 - zur Kenntnis genommen
+- TOP 12.7: Straßenzustand im Bezirk 9 - Beschluss der Bezirksvertretung 9 vom 26.11.2021; BV9/293/2021 - zur Kenntnis genommen
+- TOP 12.8: Fahrradwege am Werstener Kreuz - Beschluss der Bezirksvertretung 9 vom 03.09.2021; BV9/222/2021 - zur Kenntnis genommen
+- TOP 12.9: Urdenbacher Allee, Überholverbot von einspurigen Fahrzeugen - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/043/2023 - zur Kenntnis genommen
+- TOP 12.10: Geschwindigkeitskontrolle in der Kölner Landstraße vor dem DRK-Seniorenzentrum - Beschluss der Bezirksvertretung 9 vom 02.06.2023; BV9/122/2023 - zur Kenntnis genommen
+- TOP 12.11: Einrichtung eines Park + Ride Parkplatzes an der Bonner Straße / Haltepunkt Niederheid - Beschluss der Bezirksvertretung 9 vom 28.02.2020; BV9/044/2020 - zur Kenntnis genommen
+- TOP 12.12: Parken an der Kappeler Straße - Beschluss der Bezirksvertretung 9 vom 05.05.2023; BV9/092/2023 - zur Kenntnis genommen
+- TOP 12.13: Ickerswarder Straße- Ergänzung eines Fußgängerüberweges im Kreuzungsbereich vor der GGS Steinkaul zur Schulwegsicherung - zur Kenntnis genommen
