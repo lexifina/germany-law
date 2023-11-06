@@ -1,0 +1,128 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-11-06T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7447183
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7447183
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokoll der Sitzung vom 09.10.2023
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: mobiler Blitzer in der Lindenschmidtstr.
+- TOP 2.2.: Lärmbelästigung auf dem Kirchplatz der Kirche St. Margaret
+- TOP 2.3.: Komposttoiletten für öffentliche Grünanlagen
+- TOP 2.4.: Babyschaukeln in Untersendling
+- TOP 2.5.: Errichtung von Fahrradabstellplätzen
+- TOP 2.6.: Taxistand Brudermühlstr.
+- TOP 2.7.: Klenze-Gymnasium München - BNE - Nachhaltigkeitsgruppe "klenze4future" - Beschwerde und Hilferuf
+- TOP 2.8.: Bitte mehr Umsicht und auf Vorhandenes schauen - Fahrradständer im Stadtbezirk
+- TOP 2.9.: "Die Buntstifte e.V." - Teilnahme an der Sozialen Bude am Christkindlmarkt Harras
+- TOP 2.10.: Anfrage zum Christkindlmarkt Harras des Justice e.V.
+- TOP 2.11.: Tempo-30-Zone in der Schäftlarnstr. zwischen Brudermühlstr. und Thalkirchner Platz
+- TOP 2.12.: Fahrradparkstation für die Französische Schule lycée Jean Renoir / Berlepschstraße
+- TOP 2.13.: Sauberkeit an der S-Bahn-Station Harras
+- TOP 2.14.: U-Bahn Haltestelle Harras - Ausgang Bodenehrstr.
+- TOP 2.15.: Eierwurf und Verschmutzung durch Spucke beim Quartiersplatz
+- TOP 2.16.: Lichtbelästigung an der Lindenschmidstr. 14
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Antrag zu zwei Sitzbänken in der Karwendelstr. 41 a
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag zur Fällung eines Gefahrenbaums Flößergasse 2
+- TOP 4.2.2.: Antrag zur Fällung eines Baums, Südbad, Valleystr. 37
+- TOP 4.2.3.: Antrag auf Baumveränderung (Totholzentfernung), Schäftlarnstr. 15
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Anfrage Altbau Maria Probst Realschule
+- TOP 4.3.2.: Lärm und Umweltschutz am Flaucher und an den Isarauen (Beschluss des BA 18 vom 17.10.2023)
+- TOP 4.3.3.: Antrag vom 05.07.2023 zur Baumfällung auf dem Grundstück Plinganserstr. 5 - 5a
+- TOP 4.3.4.: Bauliste vom 15.10.2023
+- TOP 4.3.5.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 06 (Sendling) und 07 (Sendling-Westpark) Satzungsbeschluss Satzung „Am Harras/Passauerstraße“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzun „Am Harras/Passauerstraße“) Stadtbezirk 06 Sendling und 07 Sendling-Westpark
+- TOP 4.3.6.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 4.3.7.: Alramstr. 14 (Sendlinger Loch) - Rückschnitt der Bäume auf öffentlichem Grund durch das Baureferat Gartenbau
+- TOP 4.3.8.: Volllaufen lassen, bezahlbarer Wohnraum und Sendlinger Badespaß jetzt
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Blumengroßmarkt München - Anforderungen für neue Halle
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) + (U) Grünphase der Ampel in der Plinganserstraße im Bereich Neuhofener Anlagen Empfehlung Nr. 20-26 / E 00981 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 25.10.2022
+- TOP 5.1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 6 Sendling Widmungen der Gesamtstrecke des unbenannten Weges Nr. 43 und einer Stichstraße der Plinganserstraße
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Eilanhörung Hans Preißinger Straße - verkehrsrechtliche Maßnahmen
+- TOP 5.2.2.: Offener Bücherschrank Herzog-Ernst-Platz
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Beleuchtung in der Alramstr. beim Sendlinger Loch
+- TOP 5.3.2.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 5.3.3.: Fortführung Gaststätte Zechstüberl
+- TOP 5.3.4.: Abfalleimer in Sendling temporär bunt machen, um Abfall im Stadtbezirk zu reduzieren
+- TOP 5.3.5.: Errichtung eines Abfalleimers auf städt. Grund im Zugangsbereich zur S-Bahn-Station Mittersendling an der Zechstraße / Flößergasse Reinigung der städt. Flächen von Müll und Weitergabe des dringenden Reinigungsbedarfs für den gesamten S-Bahnhof an die Deutsche Bahn AG
+- TOP 5.3.6.: Antrag auf Fahrradstellplatz, BA 6
+- TOP 5.3.7.: Versetzung einer Bank
+- TOP 5.3.8.: Fahrradweg Am Harras besser kennzeichnen und vorhandene Markierungen erneuern
+- TOP 5.3.9.: Umwandlung von Kfz-Stellplätzen in Fahrradparkplätze in der Thalkirchner Str. 103
+- TOP 5.3.10.: Ausnahmegenehmigung VA Grünanlage (ohne Anhörung): Martinszug/Laternenfest KiGa Singende Matschknödel durch Isarauen am 17.11.2023; Start: Am Isarkanal/Ecke Schäftlarnstr.
+- TOP 5.3.11.: Ausnahmegenehmigung Grünanlage Plinganserstr.
+- TOP 5.3.12.: Aufstellung der Wertstoffcontainer Wackersbergerstraße 60 wieder an den ursprünglichen Ort (Kidlerplatz, Eingang Parkanlage), wenn möglich als Unterflurcontainer, nach der Sanierung der Kita am Kidlerplatz.
+- TOP 5.3.13.: Fußgängerampel an der Südseite der Kreuzung Implerstraße / Oberländerstraße Errichtung von Fahrradabstellplätzen im Bereich Oberländerstraße 12 und Implerstraße 38
+- TOP 5.3.14.: Hans-Preißinger-Straße (Westseite); Anpassung Halteverbot
+- TOP 5.3.15.: Erneuerung des Fahrbahnbelags in der Oberländerstr.
+- TOP 5.3.16.: Umwandlung eines KFZ-Stellplatzes in einen Fahrrad- / Lastenfahrradstellplatz in der Oberländerstr. 20
+- TOP 5.3.17.: Arbeiten im Straßenraum; Hans-Klein-Str. 7-17 zwischen Johannes-Timm-Str. und Radlkoferstr. Umbau der Straßenabschnitte Vollsperre
+- TOP 5.3.18.: Ausnahmegenehmigung VA Grünanlage (ohne Anhörung): Martinszug zur Grünanlage Sportanlage Wacker (Hartplatz) am 09.11.2023; START: ab Roter-Turm-Platz 10 Veranstalter*in: Städt. Kindergarten Roter-Turm-Platz 10
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Ampelanlage Plinganser-/Brudermühl-/Sylvensteinstraße
+- TOP 5.4.2.: Tölzer Straße an aktuelle Anforderungen anpassen (Gemeinsamer Antrag von BA 6 und BA 19)
+- TOP 5.4.3.: Vorplatz-artige Fläche (große Gehwegnase) für den Kindergarten in der Karwendelstr.
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling, Bezirk 06 vom 01.01. - 31.12.2024 7.500,00 € / AZ 0262.0-6-0470
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kleine Strolche e.V. “Neugestaltung Zaun Spielplatz Dreimühlstraße vom 15.08.2023 – 21.08.2023 oder 15.09.2023 – 30.09.2023“ 340,00 € / AZ: 0262.0-6-0464
+- TOP 6.1.3.: (E) Stadtbezirksbudget Münchner Schüler*innenbüro e.V. (msb) "Jugendleiter*innenschulung des msb im Oktober/November 2023 vom 30.10.2023 - 03.11.2023" 300,00 € / AZ 0262.0-6-0466
+- TOP 6.1.4.: (E) Stadtbezirksbudget Init. "Lastenradlverleih" Sendlinger Lastenradlverleih am Harras/Stemmerhof vom 28.09.2023 -27.09.2024 18.200,00€; Az. 0262.0-6-0465
+- TOP 6.1.5.: (E) Stadtbezirksbudget Initiativgruppe e.V. “Fairplay“ GS Pfeuferstr. Vom 09.01. - 25.07.2024 2.149,00€/ AZ 0262.0-6-0472
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling Bach: Weihnachtsoratorium Gesamtaufführung am 09. und 10.12.2023 4.440,00€ / AZ 0262.0-6-0469
+- TOP 6.1.7.: (E) Stadtbezirksbudget Alte Utting GmbH „Kulturprogramm auf der Sternenflotte – dem Weihnachtsmarkt der Alten Utting vom 24.11.2023 – 23.12.2023“ 9.776,47 € / AZ: 0262.0-6-0471
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Treffen des Oberbürgermeisters mit den BA-Vorsitzenden am 13.07.2023; hier: datenschuztgerechte Einstellung und personenbezogene Zuleitung von Unterlagen im RIS-Extranet
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Anhörungsverfahren zur jahrgangstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestr. 27 in zwei eigenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 7.3.2.: Stadtweites Verfahren BA: Unterkünfte zur Unterbringung von Geflüchteten, Sitzungsvorlage Nr. 20-26 / V 11152
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Kinderrechte stärken - Partizipation auf Augenhöhe leben
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Alramstr. 7 - Erweiterung einer Freischankfläche
+- TOP 8.1.2.: Aberlestr. 14 - Erweiterung einer Freischankfläche
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Kultureller EM-Auftakt am 12.06.2024 auf der Theresienwiese
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Hybridsitzungen / Terminabfrage 2024 - Rückmeldung an das Direktorium
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 9.5.1.: Einladung des Oberbürgermeisters zur Bürgerversammlung des 6. Stadtbezirks - Sendling am 22.11.2023
+- TOP 9.5.2.: Einladung des Heimat- und Volkstrachtenverein "Schmied von Kochel" München Sendling - alljährlicher Gedenktag für die gefallenen Oberlandler Bauern
