@@ -54,6 +54,8 @@
 | § 32c | Kein Anlass zum Tätigwerden |
 | § 32d | Entzug der Freistellung |
 | § 32e | Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen |
+| § 32f | Maßnahmen nach einer Sektoruntersuchung |
+| § 32g | Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act) |
 |  |
 | Abschnitt 2 |
 | Schadensersatz und Vorteilsabschöpfung |
@@ -78,7 +80,7 @@
 | § 37 | Zusammenschluss |
 | § 38 | Berechnung der Umsatzerlöse und der Marktanteile und des Wertes der Gegenleistung |
 | § 39 | Anmelde- und Anzeigepflicht |
-| § 39a | Aufforderung zur Anmeldung künftiger Zusammenschlüsse |
+| § 39a | (weggefallen) |
 | § 40 | Verfahren der Zusammenschlusskontrolle |
 | § 41 | Vollzugsverbot, Entflechtung |
 | § 42 | Ministererlaubnis |
