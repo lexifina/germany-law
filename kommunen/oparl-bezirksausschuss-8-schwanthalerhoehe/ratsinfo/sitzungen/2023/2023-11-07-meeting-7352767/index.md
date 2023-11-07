@@ -1,0 +1,87 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-11-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352767
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352767
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Überfüllte Wertstoffsammelcontainer Bergmannstraße / Gollierstraße
+- TOP 4.2.: Ausstattung von öffentlichen Parks und Grünanlagen mit Komposttoiletten
+- TOP 4.3.: Anbringung von Fahrradständern an der Fäustlestrasse
+- TOP 4.4.: -NACHTRAG- Überquerung an der Tramhaltestelle Barthstraße zum Hauptzollamt
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Warenstellage Bergmannstraße 29
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 5
+- TOP 6.2.2.: Projekt GAP; Vorstellung und aktueller Planungsstand
+- TOP 6.2.3.: Bauvorhaben Bergmannstr. 13
+- TOP 6.2.4.: -NACHTRAG- Schul- und Kitabauoffensive – 5. Schulbauprogramm
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Schanigärten der Gaststätten "Bürgerheim" und "Karl´s WestEndBar" im Winter stehen lassen; Antwortschreiben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: -NACHTRAG- Protokoll öffentliche Sitzung des Mieterbeirates der Landeshauptstadt München vom 23.10.2023
+- TOP 7.3.2.: -NACHTRAG- Unterkünfte zur Unterbringung von Geflüchteten
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: -NACHTRAG- "Weihnachtszauber am Bavariapark“ auf dem Platz am Bavariapark vom 27.11. 23 – 23.12.23
+- TOP 8.2.2.: -NACHTRAG- Kultureller EM-Auftakt am 12.06.2024 auf der Theresienwiese
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlungsanzeige "Requiem für einen Garten" am 01.11.2023
+- TOP 8.3.2.: Versammlungsanzeige "Für Frieden-kein Krieg" am 25.10.23, Streckenänderung
+- TOP 8.3.3.: Booklet mit den Veranstaltungen in den Stadtbezirken, Einladung zur Lesung am 9.11. 10-12 Uhr im Alten Rathaus
+- TOP 8.3.4.: Gedenkveranstaltung auf dem Georg-Freundorfer-Platz am 09.11.2023
+- TOP 8.3.5.: Programm für die Stadt München ausARTen -Perspektivwechsel durch Kunst ab 02.11 bis 19.11.2023
+- TOP 8.3.6.: Versammlung am Georg-Freundorfer-Platz am 02.11.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Hackerbrücke: Einführung eines Überholverbotes von einspurigen Fahrzeugen (Fahrrad) für mehrspurige Fahrzeuge (KFZ) Empfehlung Nr. 20-26 / E 00524 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 25.04.2022
+- TOP 9.1.1.1: Hackerbrücke: Einführung eines Überholverbotes von einspurigen Fahrzeugen (Fahrrad) für mehrspurige Fahrzeuge (KFZ); OB-Entscheidung
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Tulbeckstraße 5 - 5a
+- TOP 9.2.2.: Gehwegsanierung Westendstraße 66a / Schrenkstraße 8
+- TOP 9.2.3.: Errichtung einer Toilettenanlage am Bahndeckel / Max-Hirschberg-Weg
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Realisierung eines Rasengleises auf der Trambahnstrecke in der Landsberger Straße zwischen dem Mittleren Ring und der Friedenheimer Brücke - Fristverlängerung
+- TOP 9.3.2.: Herstellung einer Querungsmöglichkeit in der Schießstättstraße 4 - 22 und gegenüber
+- TOP 9.3.3.: Das Baureferat-Gartenbau wird aufgefordert, das temporäre Kunstprojekt „Schneckengarten“ beizubehalten und in ein dauerhaftes Begrünungskonzept mit Nutz- und Zierpflanzen zu überführen
+- TOP 9.3.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich der Fäustlestraße 3
+- TOP 9.3.5.: Grüne Lunge und Denkmal Bavariapark besser schützen
+- TOP 9.3.6.: Einladung zum Runden Tisch Mehrweg am 28.11.2023
+- TOP 9.3.7.: -NACHTRAG- Film-, Foto- und/oder Tonaufnahmen am Bavariapark
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarten von Ende November 2023 - April 2024 5.800,00 Euro, Az.: 0262.0-8-0371
+- TOP 10.1.2.: (E) Stadtbezirksbudget SchwanthalerFlöhe e.V. Anschaffung von Ausstattungen 3.750,00 Euro, Az.: 0262.0-8-0372
+- TOP 10.1.3.: Veranstaltung Weltkindertag 2023 - Finanzierung aus Budgetmitteln
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Kinderrechte stärken - Partizipation auf Augenhöhe leben
+- TOP 11.2.: Eigenmittel für BA-Jahresempfang am 22. November 2023
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 13.2.: Bewerbung für den Bundesteilhabepreis 2023
+- TOP 13.3.: Einladung zum Fachtag „Kommunales Konfliktmanagement im öffentlichen Raum - Konfliktbearbeitung als Instrument für die Gestaltung von Stadt?“ am 16. November, 15 Uhr bis 17. November 2023
+- TOP 13.4.: Bewerbungsfrist für den Förderpreis "Münchener Lichtblicke" am 31.10.2023
