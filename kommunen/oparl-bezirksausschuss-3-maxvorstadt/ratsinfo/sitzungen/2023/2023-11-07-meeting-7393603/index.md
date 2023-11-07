@@ -1,0 +1,125 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-11-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393603
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393603
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Sicherheit der Schülerinnen und Schüler im Umfeld des Luisengymnasiums gewährleisten – Erhöhte Bestreifung des „Alten Botanischen Gartens“ durch die Polizei und den KAD
+- TOP 6.3.: Karlstraße 20-22: Wohnraum nachhaltig schaffen
+- TOP 6.4.: Trafohaus an der Alten Pinakothek gestalten
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Antrag BA3 Biodiversität Schleißheimerstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 19.10.2023 Einsicht in Gutachten BR-Studiobau
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 39-42
+- TOP 2.1.2.: WEB-Listen der LBK: 40-41
+- TOP 2.1.3.: Adalbertstr. 104, Ausbau eines Dachgeschosses zu 1 Wohneinheit durch Abbruch und Neuerrichtung der Dachkon-struktion, Herstellung des 2. Rettungsweges über ein Notleiter system für best. Wohneinheiten und mittels Gaube für die neue Wohneinheit - ÄNDE-RUNGSANTRAG zu 1.2-2022-3445-22
+- TOP 2.1.4.: Luisenstr. 64, ÄNDERUNGSANTRAG zu 1.2-2023-4841-22 - Teilinstandsetzung am bestehenden Rückgebäude, Teilerneuerung Dach und Decken, Errichtung von vier Balkonen, Änderung der Dachgauben, Aufzug, Zusammenlegung von 2 Wohneinheiten
+- TOP 2.1.5.: Schwindstraße 6, Sanierung und Erweiterung eines Mehrfamilienhauses, Erneuerung des Dach-stuhls samt Neubau des Eckturms, Einbau von Dachgauben und Zwerchgiebeln, Dachflächenfenstern und von 2 Dachterrassen, Erweiterung einer Wohnein-heit im Dachgeschoss, Einbau eines Personenaufzugs, Versetzen der östlichen Balkonanla-ge zum Anbau einer Notleiter, teilweise Grundrissänderungen in den bestehenden Einheiten, Einbau einer internen Treppe EG-KG; RG: Neuerrichtung eines Bürogebäudes, Errichtung eines Unterflurparksystems
+- TOP 2.1.6.: Schönfeldstraße 30, Energetische Sanierung des Bestandes, Erneuerung und Ausbau des Dachstuhles zu einer Wohneinheit mit zwei Dachterassen und Dachgaube
+- TOP 2.1.7.: Dachauer Str. 74, Neubau eines Mehrfamilienhauses mit drei Wohneinheiten
+- TOP 2.1.8.: Schellingstr. 25, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - mit Mobilitäts- konzept (Schellingstr. 25, 27 / Türkenstr. 66)
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Georgenstraße 17
+- TOP 3.2.2.: Dachauer Str. 25a
+- TOP 3.2.3.: Karlstraße 34
+- TOP 3.2.4.: Neureutherstr. 8 I 23.11.2023
+- TOP 3.2.5.: Veterinärstr. 13
+- TOP 3.2.6.: Theresienstr. 132
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 5.2.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 5.3.: Dachauer Str. 7-7 a: Abdruck der Baugenehmigung zum Änderungsantrag
+- TOP 5.4.: Fällungsantrag Kaulbachstr. 44: Abdruck des Ablehnungsbescheids
+- TOP 5.5.: Projekt Umweltbildung GS an der Schwindstraße/Zentnerstraße 2
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Fahrradfahrer gefährden Grundschüler auf dem Weg zur Schule
+- TOP 1.1.2.: Täglicher Stau, Hupen und Abgasbelastung an der Gabelsbergerstraße zwischen Türkenstraße und Barerstraße
+- TOP 1.1.3.: Toilette in der U-Bahn-Station Josephsplatz
+- TOP 1.1.4.: Sichtbehinderung an der Kreuzung Georgen-/Adelheidstraße Bürger*innenanliegen vom 19.10.2023
+- TOP 1.1.5.: Fahrradabstellplätze an der Kreuzung Blüten-/Nordendstraße Bürger*innenanliegen vom 16.10.2023
+- TOP 1.1.6.: Schandfleck Wertstoffcontainer Adalbert-/Amalienstraße Bürger*innenanliegen vom 18.10.2023
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Grüne vom 17.10.2023 Anforderung einer Statistik zur Nutzung des Königsplatzes in den letzten zehn Jahren
+- TOP 1.2.2.: Antrag Grüne vom 21.10.2023 Einfahrt Walter-Klingenbeck-Weg entschärfen
+- TOP 1.2.3.: Richtlinien für Hol- und Bringzonen bei Kindertagesstätten
+- TOP 1.2.4.: Fuß- und Radquerungen am Verkehrsknoten Elisenstraße / Sophienstraße / Ottostraße / Lenbachplatz / Karlsplatz (Stachus)
+- TOP 1.2.5.: Besseres Verkehrsmanagement bei Baustellen und Großveranstaltungen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Änderung der Parkregelung in der Theresienstraße zwischen Türkenstraße und Amalienstraße beidseits I 23.11.2023
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Heßstr. 36, Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: „Palmtreeclub“, Augustenstr. 43: Antrag auf Erweiterung der bestehenden Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen: a) Einrichtung einer zeitlich begrenzten absoluten Haltverbotszone an der Südseite der Görresstraße östlich Winzererstraße
+- TOP 3.2.: Info-Flyer der Stadtwerke München a) Fernwärme-Projekt Zieblandstr. 10
+- TOP 3.3.: Provisorische Laternen in der Blutenburgstr. 2-22, Antwort auf weitergeleitetes Bürger*innenanliegen C 1.1.13 09/23
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Trinkwasserbrunnen an Spielplätzen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 3 vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-3-0494
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Internationale Forschungsstelle für Mehrsprachigkeit e.V. München - Unsere sprachenvielfältige Stadt am 23.11.2023 900,00 Euro, Az.: 0262.0-3-0492
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Kinder- und Bürgerfest 2024
+- TOP 1.2.: Standortvorschlag für den neuen Schaukasten in der Gegend um den alten Schaukasten in der Theresienstr. 21
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.5.: AKIM-Bericht Tanzveranstaltungen an der Pinakothek der Moderne
+- TOP 2.3.2.: „Happy Bun“, Augustenstr. 37: Genehmigung einer Freischankfläche
+- TOP 3.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 2.1.2.: Einfahrverbot für Elektrokleinstfahrzeuge in den Englischen Garten (Veterinärstraße)
+- TOP 6.2.: Freischankflächen - nimmt die BI zweierlei Maß
+- TOP 2.2.: „Schul- und Kitabauoffensive - 5. Schulbauprogramm“ (Anhörung zur Beschlussvorlage für 06.12.2023)
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Munich Dance Histories" Flashback 2. Salon "Munich Dance Histories" am 24.11.2023 3.000,00 Euro, Az.: 0262.0-3-0495
+- TOP 2.2.2.: Anhörungsverfahren, Aufstellen von Sitzgelegenheiten vor dem Anwesen Hiltenspergerstr. 15 Seite Georgenstraße
