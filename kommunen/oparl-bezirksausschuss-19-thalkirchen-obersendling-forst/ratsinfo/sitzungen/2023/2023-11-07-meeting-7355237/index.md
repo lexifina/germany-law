@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-11-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355237
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355237
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 10.10.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried "Englisch-sprachiges Theater am Gymnasium Fürstenried" am 12.12.2023 2.600,00€ / AZ 0262.0-19-0482
+- TOP 3.3.: (E) Stadtbezirksbudget Jugendzentrum Treibhaus Gagen zur Förderung der lokalen Newcomer-Szene 2024 3.032,25 Euro, Az.: 0262.0-19-0483
+- TOP 3.4.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 19 vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-19-0485
+- TOP 3.5.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Inklusion, Cybermobbing, Geschlechterrollen und Suchtprävention vom 01.01. - 31.12.2024 5.531,25 Euro, Az.: 0262.0-19-0484
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Umgestaltung der Tölzer Straße zwischen Boschetsrieder Straße und Steinerstraße
+- TOP 5.3.: Gefährdungen durch abgestellte E-Tretroller
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Errichtung Gefahrzeichen 101 StVO mit Zusatz „Radfahrer langsam fahren“ im Bereich der Bahnunterführung Becker-Gundahl-Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Tempo 30 vor Kita Herterichstr. 99
+- TOP 5.6.: Thomas-Mann-Gymnasium: Anregungen aus der Kinder- und Jugendsprechstunde
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Zielstattstr. 127
+- TOP 5.8.: - NACHTRAG - (A) Schulwegsicherheit: Gehwegnasen Walliser Straße ergänzen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Oppenrieder Str. 49
+- TOP 6.2.2: Weichselgartenstr. 3
+- TOP 6.2.3: Rohrauerstr. 17
+- TOP 6.2.4: Emil-Dittler-Str. Fl.Nr. 461/9
+- TOP 6.2.5: - Abgesetzt -
+- TOP 6.2.6: Königswieser Str. 5 (T)
+- TOP 6.2.7: Wolfratshauser Str. 214 (VB)
+- TOP 6.2.8: Maxhofstr. 40 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Betreuungsangebot im Familienzentrum Friedenskapelle
+- TOP 7.2.: (Antrag) Basketballfelder Hermann-von-Siemens-Sportpark und Plattlinger Straße / Ecke Begasweg
+- TOP 7.3.: (A) Unterkünfte zur Unterbringung von Geflüchteten Schultheißstraße (Planungsgebiet Muttenthalerstraße)
+- TOP 7.4.: (A) Siemens-Tennis-Club München e.V. Überlassung der Tennisanlage im Hermann-von-Siemens-Sportpark an den Siemens-Tennis-Club München e.V. mittels Erbbaurechtsvertrag gemäß den Konditionen der Sportförderrichtlinien der Landeshauptstadt München Sitzungsvorlage Nr. 20-26 / V 11328
+- TOP 7.5.: (Antrag) FairTeiler in Fürstenried
+- TOP 7.6.: - NACHTRAG - (A) Beschlussvorlage zum Sportausschuss am 08.11.2023 - Hermann-von-Siemens-Sportpark
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Änderung der BA-Satzung; Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund
+- TOP 9: Verschiedenes
+- TOP 7.7.: - NACHTRAG - (A) Beschlussvorlage Schul- und Kitabauoffensive – 5. Schulbauprogramm
+- TOP 2.3.: - NACHTRAG - (Antrag) Namenlesung zum Gedenken an den 9. November 1938
+- TOP 8.3.: - NACHTRAG - (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee vom 01.12. bis 23.12.2023
+- TOP 3.6.: - NACHTRAG - (Antrag) Bestellung städtischer Leistungen: Spielgeräte
