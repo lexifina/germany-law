@@ -1,0 +1,63 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-11-07T16:00:00+01:00
+- Ende: 2023-11-07T17:15:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21262
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21262
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00320341.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00321649.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2023 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2024 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2023 - stationärer Bereich - - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2024 - stationärer Bereich - - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.07.2022 für die Einrichtung Am Diek - ungeändert beschlossen
+- TOP 3.2: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 3.3: Angelegenheiten der WSW - ungeändert beschlossen
+- TOP 3.4: Neue Effizienz gemeinnützige GmbH - Gesellschafterversammlung - ungeändert beschlossen
+- TOP 3.5: Bestellung des Abschlussprüfers für die Jahresabschlüsse 2022 - 2025 - ungeändert beschlossen
+- TOP 3.6: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2022 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 3.7: Bürgerantrag gemäß § 24 GO-Verzicht auf Strafverfolgung wegen der Nutzung öffentlicher Verkehrsmittel ohne gültigen Fahrschein - ungeändert beschlossen
+- TOP 3.8: Nachfolge Vorsitz des Vorstandes der Stadtsparkasse Wuppertal AöR - abgesetzt
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Neuausrichtung des Vergabewesens - Entgegennahme ohne Beschluss
+- TOP 5.2: Neuausrichtung des Fördermanagements - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten beim Haupt- und Personalamt - ungeändert beschlossen
+- TOP 6.2: Bundesbahndirektion Innenausstattung/Bereitstellung überplanmäßiger Mittel gemäß §§ 83 i.V.m. 85 GO NRW - ungeändert beschlossen
+- TOP 6.3: Errichtung und Anmietung eines Gerätehauses für die Freiwillige Feuerwehr Dornap - ungeändert beschlossen
+- TOP 6.4: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen der Feuerwehr und im Rettungsdienst - ungeändert beschlossen
+- TOP 6.5: Satzung über die Einrichtung, den Betrieb und die Erhebung von Elternbeiträgen für den Besuch von außerunterrichtlichen Ganztags- und Betreuungsangeboten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Abriss der Kindertagesstätte Leibuschstr. und Durchführung eines Investorenmodells zur Neuerrichtung - ungeändert beschlossen
+- TOP 6.7: Abriss der Kindertagesstätte Grafenstr. und Durchführung eines Investorenmodells zur Neuerrichtung - ungeändert beschlossen
+- TOP 6.8: Weiterbetrieb des Objektes Bockmühle 16 (Art-Hotel) zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 6.9: Überplanmäßige Mittelbereitstellung für die Aufnahme von Geflüchteten aus der Ukraine - ungeändert beschlossen
+- TOP 6.10: Einführung des freiwilligen Naturschutz-Euros im Zoologischen Garten - zur Beratung und Entscheidung verwiesen
+- TOP 6.11: Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Bericht zum 30.09.2023 - Entgegennahme ohne Beschluss
+- TOP 8.2: Stand der Investitions- und Kassenkredite zum 30.09.2023 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 12.2: Entlastung Betriebsleitung JA 2021 WAW - ungeändert beschlossen
+- TOP 12.3: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal Jahresabschluss 2022 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
