@@ -1,0 +1,55 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-11-08T16:06:00+01:00
+- Ende: 2023-11-08T20:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12902
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12902
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00537874.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bearbeitungsstand Ratsanträge - 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 3: Fortschreibung des Einzelhandels- und Zentrenkonzepts Münster - einstimmig beschlossen
+- TOP 4: Einfachsporthalle im Quartier der ehemaligen Oxford-Kaserne - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Musik-Campus – Konkretisierung der Umsetzung und Vorbereitung des städtebaulich-freiräumlichen Wettbewerbs - ohne Beschlussfassung geschoben
+- TOP 6: Aktualisierung Förderprogramm "Klimafreundliche Wohngebäude für Münster" - einstimmig beschlossen
+- TOP 7: Verlagerung der Kommunalen Stiftungen (V/Stift) von Dezernat V in das Dezernat II - einstimmig beschlossen
+- TOP 8: Interkommunale Zusammenarbeit der Stadt Münster mit den Kreisen Warendorf und Coesfeld bei Wald- und Vegetationsbränden sowie bei Unglücksfällen größeren Umfangs auf Bahnstrecken. - einstimmig beschlossen
+- TOP 9: Überplanmäßige Mittelbereitstellungen im Haushaltsjahr 2023 - einstimmig beschlossen
+- TOP 10: Novellierung der Beherbergungssteuersatzung der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2021 - einstimmig beschlossen
+- TOP 12: Bauwerke Münster GmbH - Übertragung der Gesellschaftsanteile von der Stadtwerke Münster GmbH auf die Stadt Münster - einstimmig beschlossen
+- TOP 13: Bauwerke Münster GmbH: Besetzung des Aufsichtsrates und der Gesellschafterversammlung - einstimmig beschlossen
+- TOP 13.1: Bauwerke Münster GmbH: Besetzung des Aufsichtsrates und der Gesellschafterversammlung
+- TOP 14: Optimierte Führung der Stadtbuslinie 18 im Bereich der Grundschule Wolbeck-Nord - einstimmig beschlossen
+- TOP 15: Neufassung der Entgeltordnung für die Volkshochschule der Stadt Münster - einstimmig beschlossen
+- TOP 16: Finanzierung der OGS-Ferienbetreuung - ohne Beschlussfassung geschoben
+- TOP 17: Festlegungen zur Abwicklung von Schulbauprojekten - einstimmig beschlossen
+- TOP 18: Erweiterung Schulzentrum Kinderhaus - Umbau im Bestand - einstimmig beschlossen
+- TOP 18.1: Erweiterung Schulzentrum Kinderhaus - Umbau im Bestand
+- TOP 19: Bündelung von Jugendhilfeleistungen an Schule - Perspektiven für die Kinder- und Jugendhilfe und die Eingliederungshilfe an Offenen Ganztagsschulen - einstimmig beschlossen
+- TOP 20: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung An der Alten Kirche im Bezirk Hiltrup - einstimmig beschlossen
+- TOP 21: Kommunales Sportzentrum Handorf-Hobbeltstraße - kommunales Funktionsgebäude und Vereinshaus - einstimmig beschlossen
+- TOP 22: Lyrikertreffen Münster - einstimmig beschlossen
+- TOP 23: Abfallwirtschaftskonzept 2023 der Stadt Münster - einstimmig beschlossen
+- TOP 24: Umweltpreis erweitern um einen „Sonderpreis Wirtschaft" - einstimmig beschlossen
+- TOP 25: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - von der Tagesordnung abgesetzt
+- TOP 26: Baubeschluss - einstimmig beschlossen
+- TOP 26.1: Baubeschluss
+- TOP 27: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 27.1: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Hiltrup
+- TOP 28.1.1: Bebauungsplan Nr. 644 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28.2: Stadtbezirk Nord
+- TOP 28.2.1: Bebauungsplan Nr. 576 - Beschluss zur Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 29: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 30: Verschiedenes
