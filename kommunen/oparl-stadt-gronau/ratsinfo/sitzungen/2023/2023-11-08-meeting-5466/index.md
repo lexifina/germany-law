@@ -1,0 +1,60 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-11-08T18:06:00+01:00
+- Ende: 2023-11-08T22:18:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZS2a2YrfG1daUzdo2MVMyqE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5466
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYgmYE0bJuFmNwzSBYSXHWwRURrirDxEP_k8Fa6qXD25/Bekanntmachung_Rat_08.11.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZShm7TNgLfROIFSCmPJPmNvTr-Ce3cLmA2vOFu-7UGVX/Oeffentliche_Niederschrift_Rat_08.11.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 27.09.2023
+- TOP 4.: Niederschrift vom 18.10.2023
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Anträge der Fraktionen
+- TOP 6.1: Antrag der Fraktion pro:Bürgerschaft vom 18.10.2023; Resolutionsentwurf; hier zum Thema: Menschenverachtende Tendenzen gegenüber Behinderungen (Inklusion) - Einstimmig, 0 Enthaltungen
+- TOP 6.2: Antrag der WEG-Fraktion vom 27.10.2023; „Grundsätzliche und konkrete Organisations- und Verfahrensfragen zur Zusammenarbeit von Rat und Verwaltung“
+- TOP 6.2.1: Antrag der WEG-Fraktion vom 27.10.2023; „Grundsätzliche und konkrete Organisations- und Verfahrensfragen zur Zusammenarbeit von Rat und Verwaltung“
+- TOP 7.: Interimslösung für eine vorübergehende Aufwertung des Kurt-Schumacher-Platzes und des Hertie-Areals - Einstimmig, 1 Enthaltungen
+- TOP 8.: Stadtleitbild Gronau - Einstimmig, 2 Enthaltungen
+- TOP 9.: Verfahren zur Besetzung der Stelle Erste/r Beigeordnete/r - Bildung einer Findungskommission - Auslegung des konstitutiven Merkmals „Mindestens dreijährige Führungserfahrung in der Leitung einer großen Organisationseinheit“ - 34 Jastimmen, 3 Neinstimmen, 1 Enthaltungen
+- TOP 10.: Stellenausschreibung einer Führungsposition; Kenntnisnahme des Ausschreibungstextes
+- TOP 11.: Anpassung der Preise für Industrie- und Gewerbeflächen in Gronau - 29 Jastimmen, 1 Neinstimmen, 7 Enthaltungen
+- TOP 12.: Interkommunale Fachkräfteoffensive des Kreises Borken - 29 Jastimmen, 1 Neinstimmen, 8 Enthaltungen
+- TOP 13.: Bürgerschaftliches Engagement fördern Einladung der Staatssekretärin für Sport und Ehrenamt des Landes NRW - Einstimmig, 0 Enthaltungen
+- TOP 14.: Erweiterung des Werner-von-Siemens-Gymnasiums - Einstimmig, 0 Enthaltungen
+- TOP 15.: Drilandkolleg Errichtung Parkplatz - Investitionsvorgriff - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 16.: Budgetbericht für das III. Quartal 2023
+- TOP 17.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - 34 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 18.: Förderprogramm "Zuwanderung aus Südosteuropa" – Finanzierung ab 2024 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Sachstand zur Flüchtlingssituation (Stand 02.11.2023) - Einstimmig, 1 Enthaltungen
+- TOP 20.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertretungen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 21.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Eintragung der QEG ins Handelsregister
+- TOP 22.2: Landes- und Bundeszuweisungen für die Unterbringung geflüchteter Menschen
+- TOP 22.3: Fahrt zur niederländischen Partnerstadt Epe
+- TOP 22.4: Beginn der letzten Ratssitzung 2023
+- TOP 22.5: Klageverfahren i.S. Abrechnung Agathastraße
+- TOP 23.: Anfragen
+- TOP 23.1: Vertragsverhältnis der Stadt Gronau mit der Firma Valetudo (Anfrage von RM von Borczyskowski)
+- TOP 23.2: Morgensternsiedlung (Anfrage von RM Krause)
+- TOP 23.3: Baustellen im Bereich der Hermann-Löns-Schule (Anfrage von RM Bisso)
+- TOP 23.4: Ehem. Textilhaus Oster, Mühlenmathe 46 (Anfrage von RM Bohn)
+- TOP 23.5: Probe-Castor-Transport von Jülich nach Ahaus (Anfrage von RM Buchholz)
+- TOP 23.6: BSG-Gelände (Anfrage von RM Stenau-van Wüllen)
+- TOP 23.7: Piratenschiff (Anfrage von RM Gabbe)
+- TOP 23.8: Nahost-Konflikt (Anfrage von RM Drees)
+- TOP 23.9: Kahlschlag Losserstraße (Anfrage von RM Drees)
+- TOP 23.10: Arbeitskreis Istanbul-Konvention (Anfrage von RM Reinhoffer)
+- TOP 23.11: Hundewald (Anfrage von RM Reinhoffer)
+- TOP 23.12: Fahrstuhl am Bahnhof (Anfrage von RM Buchholz)
