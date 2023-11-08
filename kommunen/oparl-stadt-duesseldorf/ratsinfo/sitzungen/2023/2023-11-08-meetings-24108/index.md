@@ -1,0 +1,53 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-08T17:00:00+01:00
+- Ende: 2023-11-08T19:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24108
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24108
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Vorstellung Fußgängerbeauftragte
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 8: Anfrage der FDP-Fraktion: Umwandlung von öffentlichen Kfz-Parkplätzen
+- TOP 9: Anfrage der SPD-Fraktion: Umzug des Opernfundus nach Duisburg
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Antrag der CDU-Fraktion: Stahlröhre zur Erinnerung an die Firma Mannesmann - einstimmig beschlossen
+- TOP 13: Antrag der SPD-Fraktion: Bank Rather Korso - mehrheitlich abgelehnt
+- TOP 14: Antrag der SPD-Fraktion: Platz für Jugendliche - vertagt
+- TOP 15: Antrag der SPD-Fraktion: Lavendelhöfe - vertagt
+- TOP 16: Antrag der SPD-Fraktion: Parkscheibenregelung Tiefenbroicher Weg - einstimmig beschlossen
+- TOP 17: Antrag der SPD-Fraktion: Verbesserung des Zustands der Unterführung Rath S - abweichend beschlossen
+- TOP 18: Antrag der Fraktion BÜ90/Die Grünen: Überprüfung anhaltender Zweckentfremdung der Mehrfamilienhäuser Kalkumer Straße 1 und Kalkumer Straße 2 gemäß Wohnraumschutzsatzung und eventuelle Einleitung eines Ordnungsverfahrens gegen Verfügungsberechtigte ge - zurückgezogen
+- TOP 19: Antrag der Fraktion BÜ90/Die Grünen: Kein Stückwerk: Umsetzung des gesamten verkehrsberuhigten Bereiches Lichtenbroich - vertagt
+- TOP 20: Antrag der Fraktion BÜ90/Die Grünen: Ortstermin: Gesicherte Querung und Gehweg auf dem Höxterweg - einstimmig beschlossen
+- TOP 21: Aktualisierung von beschlossenen Maßnahmen im Bereich Tageseinrichtungen für Kinder - Empfehlung einstimmig beschlossen
+- TOP 22: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Bürgervereins Mörsenbroich 2023 e. V. - Aufstellung eines Weihnachtsbaums am Kreitenplatz/Schlieffenstraße/Münsterstraße - einstimmig beschlossen
+- TOP 23: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des St. Sebastianus Schützenvereins Derendorf 1655 e. V. - Weihnachtstüten für unsere Kinder und Jungschützen - einstimmig abgelehnt
+- TOP 24: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag der Gemeinschaftsgrundschule Max-Halbe-Straße - St. Martinsfeier und Laternenausstellung/Adventszeit und Weihnachtsfeier - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Fest- und Fördervereins Leetebrok e. V. - St. Martin 2023: Martinszug und Weckmänner für Schulen, Kitas und Senioren - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2023 - Zuschussvergabe 2023 Antrag des Fest- und Fördervereins Leetebrok e. V. - Unterstützung für den Weihnachtsmarkt 2023 - einstimmig beschlossen
+- TOP 27: Verkehrssituation Heinefeldplatz - Vorlage BV6/199/2022 - zur Kenntnis genommen
+- TOP 28: Umgestaltung des westlichen Endes der Breisacher Straße - Vorlage BV6/017/2022 - zur Kenntnis genommen
+- TOP 29: Fahrbahnmarkierung Haeselerstraße - BV6/041/2023 - zur Kenntnis genommen
+- TOP 30: Bereitstellung von Mitteln zur Reinigung von besprühten Spielplatzgeräten im Stadtbezirk 6 - Vorlage BV6/095/2023 - zur Kenntnis genommen
+- TOP 31: Installierung eines Trinkwasserspenders auf dem Spielplatz am "Rather Careé" - Vorlage BV6/122/2022 - zur Kenntnis genommen
+- TOP 32: Klimaresiliente und attraktive Westfalenstraße - Vorlage BV6/225/2022 - zur Kenntnis genommen
+- TOP 33: Umdenken bei Flächennutzung am Flughafen - Erweiterung des Kartäuserparks - Vorlage BV6/073/2023 - zur Kenntnis genommen
+- TOP 34: Umwandlung des eingeschränkten Halteverbots (Zeichen 286) in ein absolutes Halteverbot (Zeichen 283) in Höhe Mintarder Weg 14 - Vorlage BV6/062/2023 - zur Kenntnis genommen
+- TOP 35: Geduldetes und freigegebenes Parken auf den Bordsteinen im Stadtbezirk 6 - Vorlage BV6/085/2021 - zur Kenntnis genommen
+- TOP 36: Rolle der Bezirksvertretung bei der Genehmigung von Befreiungen von Bebauungsplänen - Vorlage BV6/009/2023 - zur Kenntnis genommen
+- TOP 37: Baumfällungen im Stadtbezirk 6 ab der 44. Kalenderwoche - zur Kenntnis genommen
+- TOP 38: Einrichtung einer Querung auf dem Kieshecker Weg - Vorlage BV6/214/2022 - zur Kenntnis genommen
+- TOP 39: Fernwärme zur Energiewende für Unterrath - Vorlage BV6/090/2023 - zur Kenntnis genommen
