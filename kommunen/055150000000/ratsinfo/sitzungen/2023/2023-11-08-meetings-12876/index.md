@@ -1,0 +1,82 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-11-08T16:19:00+01:00
+- Ende: 2023-11-08T20:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12876
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12876
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00537559.pdf
+
+## Tagesordnung
+
+- TOP 1: Videoschaltung nach Rishon LeZion
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Richtlinien der Stadt Münster für die Vergabe von Anzeigenaufträgen
+- TOP 2.2: Anzahl der Kinder mit Entwicklungsdefizit zum Zeitpunkt der Einschulung
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Anregung zur Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Straßenbenennung nach dem ehemaligen Vorsitzenden des Integrationsrates - verwiesen
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12.1: Resolution: Gute Pflege jetzt und in Zukunft sicherstellen - mehrheitlich beschlossen
+- TOP 12.2: Münster engagiert sich gegen Antisemitismus und bekennt sich zum Staat Israel - einstimmig beschlossen
+- TOP 12.3: Moratorium Gasometer - vertagt
+- TOP 12.4: Resolution zum Nahost-Konflikt - mehrheitlich abgelehnt
+- TOP 13: Musik-Campus – Konkretisierung der Umsetzung und Vorbereitung des städtebaulich-freiräumlichen Wettbewerbs - mehrheitlich geändert beschlossen
+- TOP 14: Aktualisierung Förderprogramm "Klimafreundliche Wohngebäude für Münster" - mehrheitlich beschlossen
+- TOP 15: Verlagerung der Kommunalen Stiftungen (V/Stift) von Dezernat V in das Dezernat II - einstimmig beschlossen
+- TOP 16: Interkommunale Zusammenarbeit der Stadt Münster mit den Kreisen Warendorf und Coesfeld bei Wald- und Vegetationsbränden sowie bei Unglücksfällen größeren Umfangs auf Bahnstrecken. - einstimmig beschlossen
+- TOP 17: Überplanmäßige Mittelbereitstellungen im Haushaltsjahr 2023 - einstimmig beschlossen
+- TOP 18: Novellierung der Beherbergungssteuersatzung der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 19: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2021 - einstimmig beschlossen
+- TOP 20: Bauwerke Münster GmbH - Übertragung der Gesellschaftsanteile von der Stadtwerke Münster GmbH auf die Stadt Münster - mehrheitlich beschlossen
+- TOP 21: Bauwerke Münster GmbH: Besetzung des Aufsichtsrates und der Gesellschafterversammlung - einstimmig beschlossen
+- TOP 21.1: Bauwerke Münster GmbH: Besetzung des Aufsichtsrates und der Gesellschafterversammlung
+- TOP 22: Optimierte Führung der Stadtbuslinie 18 im Bereich der Grundschule Wolbeck-Nord - einstimmig beschlossen
+- TOP 23: Neufassung der Entgeltordnung für die Volkshochschule der Stadt Münster - einstimmig beschlossen
+- TOP 24: Finanzierung der OGS-Ferienbetreuung - mehrheitlich geändert beschlossen
+- TOP 25: Festlegungen zur Abwicklung von Schulbauprojekten - einstimmig beschlossen
+- TOP 26: Erweiterung Schulzentrum Kinderhaus - Umbau im Bestand - einstimmig beschlossen
+- TOP 26.1: Erweiterung Schulzentrum Kinderhaus - Umbau im Bestand
+- TOP 27: Bündelung von Jugendhilfeleistungen an Schule - Perspektiven für die Kinder- und Jugendhilfe und die Eingliederungshilfe an Offenen Ganztagsschulen - einstimmig beschlossen
+- TOP 28: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung An der Alten Kirche im Bezirk Hiltrup - mehrheitlich beschlossen
+- TOP 29: Kommunales Sportzentrum Handorf-Hobbeltstraße - kommunales Funktionsgebäude und Vereinshaus - einstimmig beschlossen
+- TOP 30: Lyrikertreffen Münster - mehrheitlich beschlossen
+- TOP 31: Abfallwirtschaftskonzept 2023 der Stadt Münster - einstimmig beschlossen
+- TOP 32: Umweltpreis erweitern um einen „Sonderpreis Wirtschaft" - mehrheitlich geändert beschlossen
+- TOP 33: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - von der Tagesordnung abgesetzt
+- TOP 34: Baubeschluss - einstimmig beschlossen
+- TOP 34.1: Baubeschluss
+- TOP 35: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 35.1: Maßnahmenpaket zur Begegnung des Fachkräftemangels in Kindertageseinrichtungen: Baustein I zur Stabilisierung des Angebots der städtischen Kindertageseinrichtungen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Münster-Hiltrup
+- TOP 36.1.1: Bebauungsplan Nr. 644 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 36.2: Stadtbezirk Münster-Nord
+- TOP 36.2.1: Bebauungsplan Nr. 576 - Beschluss zur Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 37.1: Fahrradchaos auf der Ostseite des Hauptbahnhofs eindämmen - verwiesen
+- TOP 37.2: Quartiersbezogene Pflege stärken und ausbauen - verwiesen
+- TOP 37.3: Realisierung von Sporthallenneubau durch ein Public-Private-Partnership (PPP)-Modell mit einem privaten Bauträger prüfen - verwiesen
+- TOP 37.4: Ein Gründerhaus für Münster - verwiesen
+- TOP 37.5: Anbringung von Energieausweisen in öffentlichen Gebäuden - verwiesen
+- TOP 37.6: Neuausrichtung des Wirtschaftspreises - verwiesen
+- TOP 37.7: Einführung einer Kastrations- und Kennzeichnungspflicht für Freigängerkatzen zur Verhinderung der unkontrollierten Fortpflanzung - verwiesen
+- TOP 37.8: Entfesselung für den Wohnungsbau in Münster – leistbar für Familien und klimagerecht - verwiesen
+- TOP 37.9: Mehr Transparenz im Beirat für Stadtgestaltung - verwiesen
+- TOP 38: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 38.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 39: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 40: Verschiedenes
