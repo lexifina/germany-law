@@ -1,0 +1,7 @@
+# TOP 2.2: Mobilitätsausschuss am 22.08.2023
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2023-11-08)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/34087
+- Ergebnis: einstimmig beschlossen
