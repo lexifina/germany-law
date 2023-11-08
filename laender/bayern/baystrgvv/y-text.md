@@ -1,0 +1,1 @@
+Auf Grund von Art. 53 und 77 Abs. 1 Satz 2 der Verfassung des Freistaates Bayern in der Fassung der Bekanntmachung vom 15. Dezember 1998 (GVBl S. 991, BayRS 100-1-I), zuletzt geändert durch Gesetze vom 11. November 2013 (GVBl S. 638, 639, 640, 641, 642), erlässt die Bayerische Staatsregierung folgende Verordnung:
