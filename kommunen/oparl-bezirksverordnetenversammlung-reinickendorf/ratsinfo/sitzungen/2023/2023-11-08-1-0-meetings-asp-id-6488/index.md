@@ -1,0 +1,103 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-11-08T17:00:00+01:00
+- Ende: 2023-11-08T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6488
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6488
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=463906
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Bauvorhaben Schildower Straße, Durchgangsverkehr während der Bauphase - beantwortet
+- TOP 3.2: Rassistische Vorfälle an Reinickendorfer Schulen - beantwortet
+- TOP 3.3: Einhaltung der Verordnung über das Naturschutzgebiet Tegeler Fließ - beantwortet
+- TOP 3.4: Gültige Straßenverkehrsordnung im Edelhofdamm umsetzen - beantwortet
+- TOP 3.5: Verkehrssicherheit und Verkehrsentlastung im Waldseeviertel umsetzen - beantwortet
+- TOP 3.6: Zebrastreifen zur gefahrlosen Überquerung des Hermsdorfer Damms Ecke Parkstraße - beantwortet
+- TOP 3.7: Wohnungsbeschaffungskosten - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 25. Sitzung der BVV am 08.11.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Jugendangebot für unbegleitete Geflüchtete - beantwortet
+- TOP 5.2: Mobilitätskonzept für die Cité Foch - beantwortet
+- TOP 5.3: Stadttauben - beantwortet
+- TOP 5.4: Radweg Heiligenseestraße - beantwortet
+- TOP 5.5: Umsetzungsstand: Kältehilfe-Plätze für Frauen (und Kinder) erhöhen - beantwortet
+- TOP 5.6: Kältehilfe für Obdachlose - beantwortet
+- TOP 5.7: Instandsetzung der Pergola am Zeltinger Platz - beantwortet
+- TOP 5.8: Barrierefreiheit beim Wohnungsbau - beantwortet
+- TOP 5.9: Einnahmen aus städtebaulichen Verträgen für die Kita- und Schulplätze - beantwortet
+- TOP 5.10: Lärmbelästigung durch Laubbläser - schriftlich beantwortet
+- TOP 5.11: Befahrbarkeit des Radweges an der Heiligenseestraße - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Bolzplatz für die Kolumbus-Grundschule - in der BVV abgelehnt
+- TOP 6.2: Sicheres Überqueren der Frohnauer Straße für Fußgängerinnen und Fußgänger Höhe Welfenallee - in der BVV abgelehnt
+- TOP 6.3: Barrierefreie Anbindung der neuen Wohnungen (ehemalige "Sternhäuser") im Bereich des KaBoN Geländes mit dem U- und S-Bahnhof Karl-Bonhoeffer-Nervenklinik - in der BVV abgelehnt
+- TOP 6.4: Milieuschutzgebiet in Reinickendorf-Ost zügig ausweiten! - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Verkehrssicherheit in der Waldstraße - überwiesen
+- TOP 6.6: Mehr Sicherheit für Fußgänger und Radfahrer - in der BVV abgelehnt
+- TOP 6.7: Verkehrssicherheit im Öschelbronner Weg erhöhen - in der BVV abgelehnt
+- TOP 6.8: Kampf dem illegalen Müll in Reinickendorf - in der BVV abgelehnt
+- TOP 6.9: Mehr ÖPNV in Heiligensee - in der BVV abgelehnt
+- TOP 6.10: CO² mindern, Straßenbäume retten - in der BVV abgelehnt
+- TOP 6.11: Projektförderungen in der Rollberge-Siedlung - in der BVV abgelehnt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Hans und Hilde Coppi im Schumacher-Quartier würdigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Entsorgung von Altglas und Altpapier in Frohnau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.3: Hinweis auf das Verbot des Fütterns von Wildtieren in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Mehr Verkehrssicherheit am Borsigdamm in Tegel II - Bessere Beleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Anbindung an die Heidekrautbahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Intelligente Straßenlaternen am Treppenaufstieg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Fortschritte bei der Umsetzung des Reinickendorfer Klimaschutzkonzepts - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2022 Berichterstatter/in: Bezirksbürgermeisterin Emine Demirbüken-Wegner - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Erfassung von Entsiegelungspotentialen - in der BVV abgelehnt
+- TOP 11.2: Sportbox - in der BVV abgelehnt
+- TOP 11.3: Fußgängerzone Gorkistraße - Spielangebote für Familien mit Kindern schaffen - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Parkanlage in Reinickendorf-Ost zwischen S-Bahnhof Schönholz und der Kreuzung Seebeckstraße/Sommerstraße besser ausleuchten - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Barrierefrei ist gut - Inklusiv ist besser! - in der BVV abgelehnt
+- TOP 11.6: Namensgebungsprozess für den Waidmannsluster Bahnhofsvorplatz - in der BVV abgelehnt
+- TOP 11.7: Paracelsus-Bad bedarfsgerecht weiterentwickeln - in der BVV abgelehnt
+- TOP 11.8: Rote Bank "Gewalt gegen Frauen und Mädchen" aufstellen - in der BVV abgelehnt
+- TOP 11.9: Instandsetzung des Weges an der Ecke Konradshöher Straße und Heiligenseestraße - erledigt
+- TOP 11.10: Prävention Jugendgewalt - überwiesen
+- TOP 11.11: neue Unterstellmöglichkeit für die Freiwillige Feuerwehr Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Verschönerung des Toilettenhäuschens am Spielplatz in der Auguste-Viktoria-Straße/Ilse-Kassel-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Benennung des Platzes am südlichen S-Bahnhofausgang in Hermsdorf - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Neuer BSR-Mülleimer für den südlichen Ausgang des S-Bahnhofs Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Rückschnitt des Randbewuchses des Wanderweges 13 - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sicherung des Kinderschutzes - 3 Vollzeitäquivalente und 4 Verwaltungsstellen der Abteilung Jugend und Familie zur Verfügung stellen - erledigt
+- TOP 11.17: KiTa-Gipfel für Reinickendorf - vertagt
+- TOP 11.18: Sprachförderplätze in Reinickendorfer KiTas schaffen - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Nachwahl eines/einer Bürgerdeputierten in den Jugendhilfeausschuss - vertagt
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Reinickendorf blüht auf! Mitmach-Kampagne für einen liebenswerten Bezirk starten - überwiesen
+- TOP 13.2: Verpflichtende Exkursion nach Sachsenhausen - überwiesen
+- TOP 13.3: Neugestaltung Spielplatz Eschachstraße - überwiesen
+- TOP 13.4: Standorte für Fahrradparkhäuser vorschlagen - überwiesen
+- TOP 13.5: Grundstück Bernauer Straße 138 mit Mietwohnungen bebauen - überwiesen
+- TOP 13.6: Verstärkte Beauftragung von externen Dienstleistern prüfen - überwiesen
+- TOP 13.7: 60 Jahre Städtepartnerschaft mit Antony rechtzeitig planen - überwiesen
+- TOP 13.8: Zusätzliche Fahrradständer an der Bushaltestelle Heiligenseestraße in Höhe Konradshöher Straße - überwiesen
+- TOP 13.9: Umsetzungserfolge des Klimaschutzkonzepts besser auswerten - überwiesen
+- TOP 13.10: Dialog Display Schulzendorfer Straße in Hermsdorf - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Buslinie 322 - Fahrzeiten anpassen - überwiesen
+- TOP 14.2: Zaun zum S-Bahn Damm instand setzen - überwiesen
+- TOP 14.3: Straßenüberflutungen beim Platenhofer Weg entgegenwirken! - überwiesen
+- TOP 14.4: Verlängerung des Aufenthaltes der Kleingartenbesitzer in der Pankower Allee - überwiesen
+- TOP 14.5: Lärmschutz für Anwohner an Bahnstrecke Frohnau - überwiesen
+- TOP 14.6: A111-Sanierung: Keine Umleitungen durch Heiligensee! - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
