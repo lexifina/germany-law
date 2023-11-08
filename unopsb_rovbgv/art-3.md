@@ -1,0 +1,8 @@
+# Art 3
+
+(1)
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+(2)
+Der Tag, an dem die durch Notenwechsel geschlossene Vereinbarung nach der Inkrafttretensklausel der deutschen Antwortnote in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
+(3)
+Diese Verordnung tritt an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu geben.

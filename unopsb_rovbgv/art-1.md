@@ -1,0 +1,3 @@
+# Art 1
+
+Die durch Notenwechsel vom 21. Oktober 2022 und 12. Juli 2023 geschlossene Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung einer Zweigstelle des Büros der Vereinten Nationen für Projektdienstleistungen (UNOPS) in Bonn wird hiermit in Kraft gesetzt. Der Notenwechsel wird nachstehend veröffentlicht.
