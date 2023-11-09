@@ -1,0 +1,74 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372507
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372507
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Gefahrenstelle Senftenauerstraße
+- TOP 1.2.2.: SV Laim: Ausstieg aus Hallenprojekt
+- TOP 1.2.3.: Laimer Unterführung
+- TOP 2: Anträge
+- TOP 2.1.: Adventskonzerte Dezember 2023
+- TOP 2.2.: Internale 2024
+- TOP 2.3.: Verunziertes Häuschen am Agricolaplatz schön gestalten
+- TOP 2.4.: Realisierung der Dreifachsporthalle sicherstellen
+- TOP 2.5.: Brunnenoffensive für Laim – Trinkbrunnen für Laimer Spielplätze
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Initiative "Weihnachtsaktion" Einkaufswertgutscheine für bedürftige Familien und Senior*innen von Dezember 2023 - Januar 2024 5.000,00 Euro, Az.: 0262.0-25-0
+- TOP 3.2.: (E) Stadtbezirksbudget Faschingsclub Laim e.V. Laimer Faschingstreiben 2024 am 10.02.2024 4.000,00 Euro, Az.: 0262-0-25-0314
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Direktorium vom 05.09.23: Hybridsitzungen / Terminabfrage 2024
+- TOP 4.3.: Toiletten im öffentliche Raum - Grünanlage Hogenbergplatz
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Grundsatzbeschluss für die Beantragung von Projekten im öffentlichen Raum
+- TOP 6.2.: Umbenennung des UA "Schule und Gesundheit" in UA "Bildung und Gesundheit"
+- TOP 6.3.: Nachbesetzung im Unterausschuss Schule und Gesundheit, Unterausschuss Umwelt, Klima und Baumschutz und Unterausschuss Soziales mit jeweiliger Vertretungsregelung Neue Vertretungsregelung im UA Bau und UA Mobilität
+- TOP 6.4.: Bildung eines Wahlgremiums
+- TOP 6.5.: Wahl der/des Vorsitzenden des Unterausschuss Bildung und Gesundheit
+- TOP 6.6.: Wahl der/des Vorsitzenden des Unterausschuss Soziales
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 28.09.23
+- TOP 7.2.: Protokoll UA Bau vom 05.10.23
+- TOP 7.3.: Protokoll UA Umwelt, Klima und Baumschutz vom 09.10.23
+- TOP 7.4.: Protokoll UA Mobilität vom 04.10.23
+- TOP 7.5.: Protokoll BA-Sitzung vom 12.10.23
+- TOP 8: Umlauf
+- TOP 8.1.: Bautenliste 25.09.23-01.10.23: A) Erstantragsverfahren 1. Agnes-Bernauer-Str. 53
+- TOP 8.2.: Bautenliste 09.10.23-15.10.23: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Guido-Schneble-Str. 36
+- TOP 8.3.: Bautenliste 16.10.23-22.10.23: A) Erstantragsverfahren 1. Fürstenrieder Str. 5
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 05.10.23 und 12.10.23: Vorabmaßnahmen Tram-Westtangente in der Winfriedstr./Wotanstr.
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 05.10.23: VA Gotthardstraße vom 10.10.23-29.05.24
+- TOP 8.6.: Schreiben SWM vom 02.10.23: Buslinie 130 und 157
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 12.10.23: Sondernutzungsbescheid Hidalgo "Refugium"
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 20.10.23: Anträge auf unveränderte Fortführung: El Profesor, Hendl Glück
+- TOP 8.9.: Schreiben Baureferat vom 22.09.23: Beleuchtung von Jugendspieleinrichtungen
+- TOP 8.10.: Schreiben Baureferat vom 19.10.23: Reinigung der Steinsockel von den Sitzbänke auf dem Laimer Anger
+- TOP 8.11.: Schreiben Sozialreferat vom 13.10.23: Protokoll Nachtspaziergang
+- TOP 8.12.: Schreiben Direktorium vom 14.09.23: Verwendungsnachweise
+- TOP 8.13.: Schreiben Terra Media Akademie e.V. vom 22.10.23: Dank für BA-Zuschuss
+- TOP 8.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.10.23: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 8.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.10.23: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 8.16.: Beschluss des Bauausschusses vom 10.10.23: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 8.17.: Beschluss des Bildungsausschusses des Stadtrates vom 20.09.23: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eigenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.10.23: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Landschaftspark West und städtische Baumschule A) Fortschreibung der Konzeption des Landschaftsparks West B) Stadtratsanträge, Bezirksausschussanträge und Bürgerversammlungsempfehlungen
+- TOP 8.19.: Beschluss der Vollversammlung des Stadtrates vom 04.10.23: Künftige Feuerwache Laim - Endgültiger Standort Künftige Integrierte Leitstelle – Standort Personalbedarf des Baureferates Umsetzung des Eckdatenbeschlusses 2024 (KOMR-024)
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Grünfläche Böcksteiner Straße 2-20 (Weitergabe an Baureferat und an BA 21)
+- TOP 9.2.: Parken auf dem Gehweg in der Endelhauserstraße (Weitergabe an PI 41)
+- TOP 9.3.: Lärmbelästigung Fachnerstraße (Weitergabe an Bezirksinspektion)
+- TOP 9.4.: Gefahrenstelle Agnes-Bernauer-Straße / Ecke Fürstenrieder Straße (Weitergabe an PI 41)
+- TOP 9.5.: Mülleimer und E-Scooter (Weitergabe an Baureferat und Mobilitätsreferat)
+- TOP 3.3.: Nachtrag: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 09.04.201 8 Beschluss des Bezirksausschusses des Stadtbezirkes 25 Laim vom 09.11.2023 Christbaumverkaufsfläche (Neuantrag) Grünfläche an der Elsenheimer Str. Ecke Hauzenberger Str.
+- TOP 4.4.: Nachtrag: Schreiben Referat für Bildung und Sport vom 02.11.23: Schul- und Kitabauoffensive - 5. Schulbauprogramm
