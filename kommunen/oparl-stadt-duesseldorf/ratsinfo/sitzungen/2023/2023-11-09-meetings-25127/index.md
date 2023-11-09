@@ -1,0 +1,131 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-09T13:00:00+01:00
+- Ende: 2023-11-09T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25127
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25127
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 09.11.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502981.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 09.11.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502981.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 09.11.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00502981.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Anfragen aus aktuellem Anlass
+- TOP 2.1: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: SIGNA-Krise - Was passiert mit dem Carsch-Haus? - schriftlich beantwortet
+- TOP 2.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Baustopp am Carschhaus - schriftlich beantwortet
+- TOP 2.3: Anfrage aus aktuellem Anlass der FDP-Ratsfraktion: Heinrich-Heine-Platz - schriftlich beantwortet
+- TOP 2.4: Anfrage aus aktuellem Anlass der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Stillstand am Heinrich-Heine Platz - schriftlich beantwortet
+- TOP 2.5: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Zukunft der Signa-Projekte in Düsseldorf - schriftlich beantwortet
+- TOP 2.6: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Kosten für die Versorgung von Flüchtlingen - schriftlich beantwortet
+- TOP 2.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Sicherheit am Airport Düsseldorf - schriftlich beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der FDP-Ratsfraktion: Kosten und Nutzen von Öffentlichkeitsbeteiligungsverfahren/ BürgerInnenbeteiligungsverfahren - schriftlich beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion DIE LINKE: Resumee Unterstützungsprogramm Stärkungspakt NRW - schriftlich beantwortet
+- TOP 3.3: Anfrage der AfD-Ratsfraktion: Hausverbote im Rheinbad und anderen Düsseldorfer Bädern - schriftlich beantwortet
+- TOP 3.4: Anfrage der AfD-Ratsfraktion: Dragqueen-Lesungen für Kleinkinder und Schulkinder in der Düsseldorfer Zentralbibliothek sowie Stadtteilbüchereien - schriftlich beantwortet
+- TOP 3.5: Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Mehr Raum für Kinder – mehr Miteinander - schriftlich beantwortet
+- TOP 3.6: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Auskunftsanspruch städtischer Beamter gegenüber der Landeshauptstadt Düsseldorf nach § 57 Absatz 10 Beamtenversorgungsgesetz für das Land Nordrhein-Westfalen - schriftlich beantwortet
+- TOP 3.7: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: 468,7 Mio. Euro Steuermehreinnahmen 2023 - schriftlich beantwortet
+- TOP 3.8: Anfrage der Ratsfraktion DIE LINKE: Kosten für den Neubau des Düsseldorfer Opernhauses - schriftlich beantwortet
+- TOP 3.9: Anfrage der SPD-Ratsfraktion: Aktueller Sachstand zum Thema Deutschlandticket als kostenloses Jobticket - schriftlich beantwortet
+- TOP 3.10: Anfrage der Ratsfrau Vorspel: Zukunft des Sozialtickets - schriftlich beantwortet
+- TOP 3.11: Anfrage des Ratsherrn Born: Umgang mit Bewohner:innen der Baugrube des “Grand Central” - schriftlich beantwortet
+- TOP 3.12: Anfrage des Ratsherrn Born: Befreiungen von kommunalen Verwaltungsgebühren - schriftlich beantwortet
+- TOP 3.13: Anfrage der Ratsfrau Marmulla: Kosten der Invictus Games und weitere Planungen - schriftlich beantwortet
+- TOP 3.14: Anfrage der Ratsfrau Lehmann: Kosten der Fußball-Europameisterschaft 2024 - schriftlich beantwortet
+- TOP 3.15: Anfrage der Ratsfrau Holtmann-Schnieder und des Ratsherrn Fix: Sachstand Alternativen zu Heizstrahlern in der Gastronomie - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission "Neuzuschnitt der Kommunalwahlbezirke" - zur Kenntnis genommen
+- TOP 7: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 11: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW - mehrheitlich beschlossen
+- TOP 12: Satzung zur Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2024 - mehrheitlich beschlossen
+- TOP 14: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2024 - mehrheitlich beschlossen
+- TOP 15: Gebührenkalkulation Abfall für 2024 - mehrheitlich beschlossen
+- TOP 16: 34. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 17: Gebührenkalkulation Straßenreinigung für 2024 - mehrheitlich beschlossen
+- TOP 18: 38. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 19: Bereitstellung überplanmäßiger Mittel für Beraterleistungen - mehrheitlich beschlossen
+- TOP 20: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - mehrheitlich beschlossen
+- TOP 21: Umgang mit brachliegenden Baugrundstücken für Einfamilienhäuser - zur Kenntnis genommen
+- TOP 22: Bebauungsplan-Entwurf Nr. 03/017 - Elisabethstraße/Bachstraße - einstimmig beschlossen
+- TOP 23: Flächennutzungsplanänderung Nr. 200 - Jägerstraße/Festenbergstraße (Entwurf) - mehrheitlich beschlossen
+- TOP 24: Bebauungsplan-Entwurf Nr. 08/005 - Jägerstraße/Festenbergstraße - einstimmig beschlossen
+- TOP 25: Vierter Bericht zum Ratsbeschluss „Saubere Luft für Düsseldorf – Reduzierung von NOx-Emissionen vorantreiben“ und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 26: Handlungsfeld Nachhaltige Beschaffung in der Stadtverwaltung Düsseldorf – Bericht 2023 - zur Kenntnis genommen
+- TOP 27: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die „Immobilien- und Standortgemeinschaft Graf-Adolf-Straße“ - einstimmig beschlossen
+- TOP 28: Entsendung von Mitgliedern des Behindertenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 29: Zusammenlegung von fünf unselbstständigen Stiftungen zu der „Heinrich Küppers Stiftung für soziale Zwecke“ - einstimmig beschlossen
+- TOP 30: Prüfungsordnung für die Erste Verwaltungsprüfung der Beschäftigten im kommunalen Verwaltungsdienst (POV-Kom-I) - einstimmig beschlossen
+- TOP 31: Prüfungsordnung für die Durchführung von Prüfungen zum Nachweis der berufs- und arbeitspädagogischen Eignung nach der Ausbilder-Eignungsverordnung - einstimmig beschlossen
+- TOP 32: Neufassung der Vergnügungssteuersatzung der Landeshauptstadt Düsseldorf zum 01.01.2024 - vertagt
+- TOP 33: Beteiligungsbericht 2021 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 34: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen: 2. Änderungsbeschuss zum Ausführungs- und Finanzierungsbeschluss vom 18.06.2020 - mehrheitlich beschlossen
+- TOP 35: D.LIVE GmbH & Co. KG - Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinnützigen Aufgaben - Neufassung - und Zuschuss zur Finanzierung von Investitionen in die MERKUR SPIEL-ARENA anlässlich der UEFA EURO 2024 - mehrheitlich beschlossen
+- TOP 36: Bilker Straße 15 - Schumann-Haus, Instandsetzung und Umbau zum Museum - 4. Änderungsbeschluss - mehrheitlich beschlossen
+- TOP 37: Bilker Straße 15 - Schumann-Haus, Errichtung und Einrichtung eines Schumann-Museums sowie Ausstellungsausstattung - 2. Änderungsbeschluss - mehrheitlich beschlossen
+- TOP 38: Neubau Annexbauten im Malkastenpark - Nachfinanzierung - mehrheitlich beschlossen
+- TOP 39: Restitution von zwei chinesischen Porzellanen Hier: Fischbecken (China um 1700) aus der Sammlung von Ernst Schneider - einstimmig beschlossen
+- TOP 40: Berufung in die Ankaufskommission der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 41: Ergebnisse der Machbarkeitsuntersuchung eines regionalen Wasserbussystems auf dem Rhein - einstimmig beschlossen
+- TOP 42: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 43: Umgestaltung Mitte Süd – Friedrichstraße inkl. Querstraßen Bachstraße, Kirchfeldstraße und Herzogstraße sowie Graf-Adolf-Platz - mehrheitlich beschlossen
+- TOP 43.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage OVA/153/2023 - zurückgezogen
+- TOP 43.2: Ergänzungsantrag der Ratsfraktion von SPD und FDP zur Vorlage OVA/153/2023 - mehrheitlich abgelehnt
+- TOP 44: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterungsneubau mit sechs Klassen am Schulstandort Suitbertusstraße 163-165 für den Bedarf des Walter-Eucken-Berufskolleg“ - einstimmig beschlossen
+- TOP 45: Betrieb des Gymnasiums Bernburger Straße als gebundene Ganztagsschule - einstimmig beschlossen
+- TOP 46: Änderung der Personal- und Fahrzeugstundensätze im Rahmen der Entgeltkalkulation "Leistungen für Dritte" des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf zum 01. Januar 2024 - Beschluss - - einstimmig beschlossen
+- TOP 47: Klärwerk-Süd, Neubau Sozialgebäude (I-8030616003) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 48: Tarifsätze zur Übernahme, Behandlung und Entsorgung von Fäkalschlämmen im Klärwerk Düsseldorf-Süd - Einheitlicher Entsorgungssatz für Behelfsentwässerungsanlagen ab 01.01.2024 - Beschluss - - einstimmig beschlossen
+- TOP 49: Entsendung von Mitgliedern des Seniorenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 50: 64. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 51: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - vertagt
+- TOP 51.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/277/2023 - vertagt
+- TOP 52: Bestimmung der Reihenfolge, in der die Beigeordneten bei Verhinderung des allgemeinen Vertreters des Oberbürgermeisters zur allgemeinen Vertretung berufen sind - einstimmig beschlossen
+- TOP 53: Kreis der Düsselpassberechtigten erweitern - zur Kenntnis genommen
+- TOP 54: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 55: Antrag des Seniorenrates: Überprüfung der Schließungen des Gesundheitsbades Münstertherme während der Freibadsaison - mehrheitlich abgelehnt
+- TOP 56: Umwandlung der Rechtsform des NRW KULTURsekretariats in einen Zweckverband - einstimmig beschlossen
+- TOP 57: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 58: Verwaltungsrat der Stadtsparkasse Düsseldorf -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 59: Düsseldorfer Gesundheitskonferenz - Bestellung von zwei ordentlichen Mitgliedern - - einstimmig beschlossen
+- TOP 60: Vorstand des Bergisch-Rheinischen Wasserverbandes – Benennung der Vertreter der Landeshauptstadt Düsseldorf – - mehrheitlich beschlossen
+- TOP 61: Veranstaltergemeinschaft "Neues Lokalradio Düsseldorf e.V." -Mitgliedschaften- - mehrheitlich beschlossen
+- TOP 62: Anträge
+- TOP 62.1: Antrag der Ratsfraktionen von FDP und SPD: Modellstadt für die kontrollierte Abgabe von Cannabis - mehrheitlich beschlossen
+- TOP 62.1.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/254/2023 - mehrheitlich abgelehnt
+- TOP 62.2: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Eintrittsvergünstigungen in der Kultur für Kinder und Jugendliche - einstimmig beschlossen
+- TOP 62.3: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Vorkaufsrechte auch bei Share-Deals - mehrheitlich beschlossen
+- TOP 62.4: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Qualität sichern – Sofortmaßnahme Anpassung Honorarrahmen für Bildungsangebote in der OGS im Schuljahr 2023/24 - abweichend beschlossen
+- TOP 62.4.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/248/2023 - mehrheitlich abgelehnt
+- TOP 62.5: Antrag der Ratsfraktion DIE LINKE: Immobilienkrise als Chance: Wohnungen kommunalisieren - zurückgezogen
+- TOP 62.6: Antrag der SPD-Ratsfraktion: Situation Worringer Platz und Bahnhofsumfeld - mehrheitlich abgelehnt
+- TOP 62.7: Antrag der FDP-Ratsfraktion: Den Flughafen fair betreiben - mehrheitlich beschlossen
+- TOP 62.8: Antrag der SPD-Ratsfraktion: Ganzjährige Öffnung der städtischen Hallenbäder - insbesondere der Münstertherme und des Schwimm‘ in Bilk - und der drei Saunen der Düsseldorfer Bädergesellschaft - mehrheitlich abgelehnt
+- TOP 62.8.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/322/2023 - mehrheitlich beschlossen
+- TOP 62.9: Antrag der SPD-Ratsfraktion: Kultur- und Bürger:innenhäuser als Begegnungsorte in den Stadtteilen
+- TOP 62.9.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/326/2023 - mehrheitlich abgelehnt
+- TOP 62.9.2: Änderungsantrag der Ratsfraktionen von SPD, CDU, BÜNDNIS 90/DIE GRÜNEN zu RAT/326/2023: - mehrheitlich beschlossen
+- TOP 62.10: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Quartierentwicklung Düsseldorf Altstadt - mehrheitlich beschlossen
+- TOP 62.11: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Unsere Altstadt – sicher, bunt und attraktiv für alle - mehrheitlich beschlossen
+- TOP 62.12: Antrag der FDP-Ratsfraktion: Ausverkauf Düsseldorfer Karneval stoppen - vertagt
+- TOP 62.13: Antrag der Ratsfraktionen von Die PARTEI-Klima-Fraktion und DIE LINKE: Unisex-Toiletten und barrierefreie Toiletten in der Merkur Spiel-Arena - mehrheitlich abgelehnt
+- TOP 62.14: Antrag der AfD-Ratsfraktion: Beendigung der öffentlichen Finanzierung des Kulturzentrums Zakk - mehrheitlich abgelehnt
+- TOP 62.15: Antrag der AfD-Ratsfraktion: Zusätzliche Aufstellung von Sitzbänken in Regenbogenfarben mit Übernahme einer Regenbogenbank-Patenschaft - mehrheitlich abgelehnt
+- TOP 62.15.1: Änderungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zur Vorlage RAT/382/2023
+- TOP 62.16: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Prävention und Schutz bei Veranstaltungen - zurückgezogen
+- TOP 62.17: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Großyachten und Klimagerechtigkeit - Die boot Düsseldorf ist gefragt - mehrheitlich abgelehnt
+- TOP 62.18: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Der Abschied von den Heizpilzen ist überfällig - Die Stadt Düsseldorf muss endlich handeln - zurückgezogen
+- TOP 62.19: Antrag der Ratsfraktion DIE LINKE: Nachhaltigkeitshaushalt im interaktiven Haushalt sichtbar machen - mehrheitlich beschlossen
+- TOP 62.20: Antrag der Ratsfraktionen von SPD, FDP, CDU, BÜNDNIS 90/DIE GRÜNEN, DIE LINKE und Die PARTEI-Klima-Fraktion: Hebräisches Straßenschild für den Paul-Spiegel-Platz - einstimmig beschlossen
+- TOP 63: Beirat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - einstimmig beschlossen
