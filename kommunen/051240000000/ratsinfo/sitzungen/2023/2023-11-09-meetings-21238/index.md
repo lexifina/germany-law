@@ -1,0 +1,79 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-11-09T16:04:00+01:00
+- Ende: 2023-11-09T16:30:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21238
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21238
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00320762.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00321933.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Rodungs- und Pflegemaßnahmen des Grünflächenamts
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 06.10.2023 zu Rodungs- und Pflegemaßnahmen des Grünflächenamts (VO/1008/23)
+- TOP 2.2: Sachstand Nordpark
+- TOP 2.2.1: Sachstand Nordpark
+- TOP 2.3: Einführung eines E-Scooter- und Pedelec-Verleihsystems in Wuppertal
+- TOP 2.3.1: Einführung eines E-Scooter- und Pedelec-Verleihsystems in Wuppertal
+- TOP 2.4: Sachstand zur Nachverfolgung der Haushaltsbeschlüsse
+- TOP 2.4.1: Sachstand zur Nachverfolgung der Haushaltsbeschlüsse
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Kommunen für biologische Vielfalt - Label "StadtGrün naturnah" - ungeändert beschlossen
+- TOP 4.2: Resolution Verkehrswende - zur Beratung und Entscheidung verwiesen
+- TOP 4.2.1: Ersetzungsantrag zu VO/1007/23 - zur Beratung und Entscheidung verwiesen
+- TOP 4.3: Sozialer Wohnungsbau in Wuppertal - geändert beschlossen
+- TOP 4.4: Resolution zu Park&Ride-Parkplätzen am Bahnhof in W.-Ronsdorf - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Prüfauftrag: Verantwortungsvolle und regulierte Freigabe von Cannabis auf kommunaler Ebene – - zur Beratung und Entscheidung verwiesen
+- TOP 5.2: Prüfauftrag: E-Scooter Abstellständer im öffentlichen Raum - abgelehnt
+- TOP 5.3: Angebot von Wohnmobilstellplätzen in Wuppertal verbessern - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Gestaltungssatzung für den historischen Ortskern von Wuppertal-Cronenberg - geändert beschlossen
+- TOP 6.2: Satzung über die Einrichtung, den Betrieb und die Erhebung von Elternbeiträgen für den Besuch von außerunterrichtlichen Ganztags- und Betreuungsangeboten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen der Feuerwehr und im Rettungsdienst - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten beim Haupt- und Personalamt - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Mittelbereitstellung für die Aufnahme von Geflüchteten aus der Ukraine - ungeändert beschlossen
+- TOP 7.4: Bundesbahndirektion Innenausstattung/Bereitstellung überplanmäßiger Mittel gemäß §§ 83 i.V.m. 85 GO NRW - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2023 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2023 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2024 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2024 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 8.6: Entlastung Betriebsausschuss Jahresabschluss 2021 WAW - ungeändert beschlossen
+- TOP 8.7: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.07.2022 für die Einrichtung Am Diek - ungeändert beschlossen
+- TOP 8.8: Bestellung des Abschlussprüfers für die Jahresabschlüsse 2022 - 2025 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Antrag auf Namensänderung der Städt. Gemeinschaftshauptschule Wichlinghausen gem. § 6 Abs. 6 SchulG NRW in Helene-Weber-Schule - zur Beratung und Entscheidung verwiesen
+- TOP 11.2: Abriss der Kindertagesstätte Grafenstr. und Durchführung eines Investorenmodells zur Neuerrichtung - ungeändert beschlossen
+- TOP 11.3: Abriss der Kindertagesstätte Leibuschstr. und Durchführung eines Investorenmodells zur Neuerrichtung - ungeändert beschlossen
+- TOP 11.4: Standortverlagerung wegen Sanierung vom Ganztagsgymnasium Johannes Rau, Siegesstr. 134, 42287 Wuppertal - ungeändert beschlossen
+- TOP 11.5: Errichtung und Anmietung eines Gerätehauses für die Freiwillige Feuerwehr Dornap - ungeändert beschlossen
+- TOP 11.6: Ausschreibung der Mittagsverpflegung (Cook & Chill-Verfahren) für die Bewohner*innen - abgesetzt
+- TOP 11.7: Bericht zu den fraktionsübergreifenden Prüfaufträgen zur Nachfolgenutzung der Zoosäle (VO/0285/23, VO/0537/23) - Entgegennahme ohne Beschluss
+- TOP 11.8: Einführung des freiwilligen Naturschutz-Euros im Zoologischen Garten - ungeändert beschlossen
+- TOP 11.9: Weiterbetrieb des Objektes Bockmühle 16 (Art-Hotel) zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Teilnahme am europäischen Netzwerk: Europa fängt in der Gemeinde an - vertagen
+- TOP 12.3: Gremienumbesetzung Jugendhilfeausschuss - zurückgestellt
+- TOP 12.4: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 12.5: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - Benennung der Delegierten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.6: Bestellung eines Mitgliedes für die Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung - Ausschuss für Umwelt - ungeändert beschlossen
+- TOP 12.8: Umbesetzung Gremien - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.10: Gremienbesetzung - Ausschuss für Ordnung, Sicherheit, Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 12.11: Umbesetzung Gremien - ungeändert beschlossen
