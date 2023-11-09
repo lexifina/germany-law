@@ -1,9 +1,9 @@
 # Anlage (zu § 3 Absatz 1)Indikatoren-DRGs
 
-Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2022, der auf der Internetseite des Instituts für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als Indikatoren für das Vorhandensein eines pflegesensitiven Bereiches in Krankenhäusern:
-Allgemeine Chirurgie
-| DRG 2022 | DRG-Bezeichnung |
-| A01B | Lebertransplantation ohne kombinierte Dünndarmtranspl. mit Beatmung > 59 und < 180 Std. od. mit Transplantatabstoßung od. mit komb. Nierentranspl. od. m. kombinierter Pankreastranspl. od. Alter < 6 J. od. m. intensivm. Komplexbeh.> 980 / 828 / - P. |
+Folgende DRGs des German Diagnosis Related Groups Fallpauschalen-Katalogs 2023, der auf der Internetseite des Instituts für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als Indikatoren für das Vorhandensein eines pflegesensitiven Bereiches in Krankenhäusern:
+| DRG 2023 | DRG-Bezeichnung |
+| Allgemeine Chirurgie |
+| A01B | Lebertransplantation ohne kombinierte Dünndarmtranspl. mit Beatmung > 59 und < 180 Std. od. mit Transplantatabstoßung od. mit komb. Nierentranspl. od. m. kombinierter Pankreastranspl. od. Alter < 6 J. oder od. m. intensivm. Komplexbeh. > 980 / 828 / - P. |
 | A01C | Lebertransplantation ohne kombinierte Dünndarmtransplantation, ohne Beatmung > 59 Stunden, ohne Transplantatabstoßung, ohne komb. Nierentranspl., ohne kombinierte Pankreastranspl., Alter > 5 Jahre, ohne intensivmed. Komplexbehandlung > 980 / 828 / - P. |
 | A02Z | Transplantation von Niere und Pankreas |
 | A16A | Transplantation von Darm oder Pankreas |
@@ -18,7 +18,7 @@ Allgemeine Chirurgie
 | F14B | Komplexe oder mehrfache Gefäßeingriffe außer große rekonstruktive Eingriffe, ohne äußerst schwere CC |
 | F20Z | Beidseitige Unterbindung und Stripping von Venen mit bestimmter Diagnose oder äußerst schweren oder schweren CC |
 | F27A | Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, mit äußerst schweren CC oder Gefäßeingriff oder bestimmter Amputation oder komplexer Arthrodese des Fußes oder komplexem Hauteingriff oder Ringfixateur |
-| F27B | Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, ohne äußerst schwere CC, ohne Gefäßeingriff, ohne bestimmte Amputation, ohne komplexe Arthrodese des Fußes, ohne komplexen Hauteingriff, ohne Ringfixateur, mit mäßig komplexem Eingriff |
+| F27B | Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, ohne äußerst schwere CC, ohne Gefäßeingriff, ohne bestimmte Amputation, ohne komplexe Arthrodese des Fußes, ohne komplexen Hauteingriff, ohne Rngfixateur, mit mäßig komplexem Eingriff |
 | F28A | Bestimmte Amputation bei Kreislauferkrankungen an unterer Extremität mit zusätzlichem Gefäßeingriff oder mit Hauttransplantation mit äußerst schweren oder schweren CC |
 | F28B | Bestimmte Amputation bei Kreislauferkrankungen an unterer Extremität ohne zusätzlichen Gefäßeingriff, ohne Hauttransplantation, mit äußerst schweren oder schweren CC |
 | F28C | Bestimmte Amputation bei Kreislauferkrankungen an unterer Extremität, ohne zusätzlichen Gefäßeingriff, ohne äußerst schwere oder schwere CC |
@@ -37,7 +37,7 @@ Allgemeine Chirurgie
 | G03B | Große Eingriffe an Magen, Ösophagus und Duodenum oder bestimmte Eingriffe an Magen, Ösophagus und Duodenum mit komplexer Prozedur ohne hochkomplexen Eingriff, ohne intensivmedizinische Komplexbehandlung > - / 368 / - Aufwandspkt., mit komplexem Eingriff |
 | G03C | Große Eingriffe an Magen, Ösophagus und Duodenum oder bestimmte Eingriffe an Magen, Ösophagus und Duodenum mit komplexer Prozedur ohne hochkomplexen Eingriff, ohne intensivmedizinische Komplexbehandlung > - / 368 / - Aufwandspkt., ohne komplexen Eingriff |
 | G04Z | Adhäsiolyse am Peritoneum, Alter < 4 Jahre od. mit äuß. schw. od. schw. CC oder kleine Eingriffe an Dünn- und Dickdarm oder best. Eingriffe an abd. Gefäßen mit äuß. schw. CC oder Implantation eines Antireflux-Stimulationssystems od. best. Gastrektomie |
-| G07B | Appendekt. od. laparoskop. Adhäsiolyse bei Peritonitis mit äuß. schw. od. schw. CC od. kl. Eingriffe an Dünn-/Dickdarm, oh. äußerst schwere CC od. best. Anorektoplastik, Alt. > 2 Jahre u. Alter < 14 Jahre od. mit laparoskop. Adhäsiolyse od. Rektopexie |
+| G07B | Appendekt. od. laparoskop. Adhäsiolyse bei Peritonitis mit äuß. schw. od. schw. CC od. kl. Eingr. an Dünn-/Dickdarm, oh. äuß. schw. CC od. best. Anorektopl., Alt. > 2 J. u. Alt. < 14 J. od. mit laparoskop. Adhäsiolyse od. Rektopexie od. best. Magenexz. |
 | G07C | Appendektomie bei Peritonitis mit äußerst schweren oder schweren CC oder kleine Eingriffe an Dünn- und Dickdarm ohne äußerst schwere CC oder bestimmte Anorektoplastik, Alter > 13 Jahre, ohne laparoskopische Adhäsiolyse, ohne Rektopexie |
 | G08A | Komplexe Rekonstruktion der Bauchwand, Alter > 0 Jahre, mit äußerst schweren CC |
 | G08B | Komplexe Rekonstruktion der Bauchwand, Alter > 0 Jahre, ohne äußerst schwere CC |
@@ -56,10 +56,10 @@ Allgemeine Chirurgie
 | G16B | Komplexe Rektumresektion od. andere Rektumres. mit best. Eingr. od. kompl. Diag. od. mehrz. Enterostomaanlage u. -rückverlagerung, ohne kompliz. Konstell. od. plast. Rekonstruktion m. myokut. Lappen od. IntK > 196/ 368/ - P. ohne endorekt. Vakuumtherapie |
 | G17A | Andere Rektumresektion ohne bestimmten Eingriff oder Implantation eines künstlichen Analsphinkters, bei bösartiger Neubildung oder Alter < 16 Jahre |
 | G17B | Andere Rektumresektion ohne bestimmten Eingriff oder Implantation eines künstlichen Analsphinkters, außer bei bösartiger Neubildung, Alter > 15 Jahre |
-| G18A | Best. Eingr. an Dünn-/Dickdarm od. Anlegen Stoma od. andere Eingr. am Darm m. äuß. schw. CC od. Leberkeilexz. m. hochkompl. Eingr. od. kompliz. Diag. od. m. sehr kompl. Eingr. od. aufw. Eingr. m. äuß. schw. CC, m. Komplexbeh. MRE od. m. endorekt. Vak.th. |
-| G18B | Bestimmte Eingriffe an Dünn-/Dickdarm od. Anlegen Enterostoma od. andere Eingr. am Darm m. äußerst schweren CC od. Leberkeilexzision m. sehr komplexem Eingr. od. aufwendigem Eingr. m. äußerst schweren CC, oh. Komplexbeh. MRE, oh. endorektale Vakuumth. |
-| G18C | Bestimmte Eingriffe an Dünn- und Dickdarm ohne hochkomplexen oder sehr komplexen Eingriff, ohne aufwendigen Eingriff oder ohne äußerst schwere CC, ohne komplizierende Diagnose, mit komplexem Eingriff, ohne endorektale Vakuumtherapie |
-| G18D | Bestimmte Eingriffe an Dünn- und Dickdarm ohne komplexen Eingriff, ohne komplizierende Diagnose |
+| G18A | Bestimmte Eingriffe an Dünn- und Dickdarm oder Anlegen eines Enterostomas oder andere Eingriffe am Darm oder an abdominalen Gefäßen mit bestimmtem hochkomplexem Eingriff oder Diagnose oder mit endorektaler Vakuumtherapie |
+| G18B | Bestimmte Eingriffe an Dünn- und Dickdarm oder Anlegen eines Enterostomas oder andere Eingriffe am Darm oder an abdominalen Gefäßen mit bestimmter sehr komplexer Prozedur oder Diagnose |
+| G18C | Bestimmte Eingriffe an Dünn- und Dickdarm oder Anlegen eines Enterostomas oder andere Eingriffe am Darm mit äußerst schweren CC, mit komplexem Eingriff |
+| G18D | Bestimmte Eingriffe an Dünn- und Dickdarm oder Anlegen eines Enterostomas oder andere Eingriffe am Darm mit äußerst schweren CC, ohne komplexen Eingriff |
 | G19A | Andere Eingriffe an Magen, Ösophagus und Duodenum außer bei angeborener Fehlbildung oder Alter > 1 Jahr, mit komplizierender Konstellation oder bei bösartiger Neubildung oder Alter < 16 Jahre ohne bestimmte Operationen an Pharynx oder Magenband |
 | G19B | Andere Eingriffe an Magen, Ösophagus und Duodenum außer bei angeborener Fehlbildung oder Alter > 1 Jahr, ohne komplizierende Konstellation, außer bei bösartiger Neubildung, Alter > 15 Jahre, mit komplexem Eingriff |
 | G19C | Andere Eingriffe an Magen, Ösophagus und Duodenum außer bei angeborener Fehlbildung oder Alter > 1 Jahr, ohne komplizierende Konstellation, außer bei bösartiger Neubildung, Alter > 15 Jahre, ohne komplexen Eingriff |
@@ -70,15 +70,15 @@ Allgemeine Chirurgie
 | G22C | Appendektomie oder laparoskopische Adhäsiolyse bei Peritonitis oder mit äußerst schweren oder schweren CC, Alter > 15 Jahre, außer bei bösartiger Neubildung |
 | G23A | Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder schwere CC, Alter < 10 Jahre oder bei bösartiger Neubildung |
 | G23B | Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder schwere CC, Alter > 9 Jahre, außer bei bösartiger Neubildung |
-| G24A | Eingriffe bei Hernien mit plastischer Rekonstruktion der Bauchwand |
+| G24A | Eingriffe bei Hernien mit plastischer Rekonstruktion der Bauchwand oder bestimmte partielle Resektion des Dickdarmes |
 | G24B | Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, mit beidseitigem oder komplexem Eingriff oder Alter < 14 Jahre mit äußerst schweren oder schweren CC |
 | G24C | Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen Eingriff, ohne komplexen Eingriff, Alter > 13 Jahre oder ohne äußerst schwere oder schwere CC |
-| G26A | Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter < 16 Jahre oder bei bestimmter bösartiger Neubildung oder mit kleinem Eingriff am Rektum |
-| G26B | Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter > 15 Jahre, außer bei bestimmter bösartiger Neubildung, ohne kleinen Eingriff am Rektum |
+| G26A | Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter < 16 Jahre oder bei bestimmter bösartiger Neubildung oder entzündlicher Darmerkrankung oder mit kleinem Eingriff am Rektum |
+| G26B | Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von Anus und Sphinkter bei Analfissuren und Hämorrhoiden, Alter > 15 Jahre, außer bei bestimmter bösartiger Neubildung oder entzündlicher Darmerkrankung, ohne kleinen Eingriff am Rektum |
 | G33Z | Mehrzeitige komplexe OR-Prozeduren oder hochaufwendiges Implantat bei Krankheiten und Störungen der Verdauungsorgane |
 | G35Z | Komplexe Vakuumbehandlung bei Krankheiten und Störungen der Verdauungsorgane |
-| G36A | Intensivmedizinische Komplexbehandlung > 1470 / 1380 / - Aufwandspunkte bei Krankheiten und Störungen der Verdauungsorgane |
-| G36B | Intensivmedizinische Komplexbehandlung > 1176 / 1104 / 1104 Aufwandspunkte und < 1471 / 1381 / - Aufwandspunkte bei Krankheiten und Störungen der Verdauungsorgane |
+| G36A | Intensivmedizinische Komplexbehandlung bei Krankheiten und Störungen der Verdauungsorgane > 1470 / 1380 / - Aufwandspunkte oder > 1176 / 1104 / 1104 und < 1471 / 1381 / - Aufwandspunkte oder mit endoösophagealer Vakuumtherapie, mit aufwendigem Eingriff |
+| G36B | Intensivmedizinische Komplexbehandlung bei Krankheiten und Störungen der Verdauungsorgane > 1176 / 1104 / 1104 Aufwandspunkte und < 1471 / 1381 / - Aufwandspunkte oder mit endoösophagealer Vakuumtherapie, ohne aufwendigen Eingriff |
 | G36C | Intensivmedizinische Komplexbehandlung > 392 / 552 / - Aufwandspunkte und < 1177 / 1105 / - Aufwandspunkte bei Krankheiten und Störungen der Verdauungsorgane |
 | G37Z | Multiviszeraleingriff bei Krankheiten und Störungen der Verdauungsorgane |
 | G38Z | Komplizierende Konstellation mit bestimmtem operativen Eingriff bei Krankheiten und Störungen der Verdauungsorgane oder mehrzeitiger komplexer Eingriff am Gastrointestinaltrakt und anderem Organsystem |
@@ -90,9 +90,9 @@ Allgemeine Chirurgie
 | H06A | Andere OR-Prozeduren an hepatobiliärem System und Pankreas mit aufwendigem Eingriff und bestimmten komplizierenden Faktoren |
 | H07A | Cholezystektomie und wenig komplexe Eingriffe an Gallenblase, Gallenwegen, Leber mit sehr komplexer Diagnose oder komplizierender Konstellation |
 | H07B | Cholezystektomie und wenig komplexe Eingriffe an Gallenblase, Gallenwegen, Leber ohne sehr komplexe Diagnose, ohne komplizierende Konstellation |
-| H08A | Laparoskopische Cholezystektomie mit komplexer Diagnose oder komplizierender Konstellation |
-| H08B | Laparoskopische Cholezystektomie ohne komplexe Diagnose, ohne komplizierende Konstellation, Alter < 12 Jahre oder mit laparoskopischer Steinentfernung |
-| H08C | Laparoskopische Cholezystektomie ohne komplexe Diagnose, ohne komplizierende Konstellation, Alter > 11 Jahre, ohne laparoskopische Steinentfernung |
+| H08A | Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und Bauchwand mit komplexer Diagnose oder komplizierender Konstellation |
+| H08B | Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und Bauchwand, Alter < 12 Jahre oder mit laparoskopischer Steinentfernung |
+| H08C | Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und Bauchwand, Alter > 11 Jahre |
 | H09A | Eingriffe an Pankreas und Leber und portosystemische Shuntoperationen, ohne großen Eingriff, ohne Strahlentherapie, mit bestimmtem Eingriff mit äußerst schweren CC oder aufwendiger Eingriff am Dünndarm mit bestimmten komplizierenden Faktoren |
 | H09B | Eingriffe an Pankreas und Leber und portosystemische Shuntoperationen, ohne großen Eingriff, ohne Strahlentherapie, ohne bestimmten Eingriff oder ohne äußerst schwere CC, ohne aufwendigen Eingriff am Dünndarm mit bestimmten komplizierenden Faktoren |
 | H12B | Verschiedene Eingriffe am hepatobiliären System oder Eingriffe an abdominalen oder pelvinen Gefäßen ohne äußerst schwere CC, mit komplexem Eingriff |
@@ -100,7 +100,7 @@ Allgemeine Chirurgie
 | H33Z | Mehrzeitige komplexe OR-Prozeduren bei Krankheiten und Störungen an hepatobiliärem System und Pankreas |
 | H38A | Bestimmte komplizierende Konstellation mit bestimmtem operativen Eingriff bei Krankheiten und Störungen an hepatobiliärem System und Pankreas |
 | H38B | Andere komplizierende Konstellation mit bestimmtem operativen Eingriff bei Krankheiten und Störungen an hepatobiliärem System und Pankreas |
-| I02D | Kleinflächige oder großflächige Gewebe-/Hauttransplantation außer an der Hand, mit äußerst schweren CC |
+| I02D | Kleinflächige oder großflächige Gewebe- / Hauttransplantation außer an der Hand, mit äußerst schweren CC |
 | I03B | Revision oder Ersatz des Hüftgelenkes mit kompl. Diagnose od. Arthrodese od. Alter < 16 Jahre oder beidseitige od. mehrere gr. Eingr. an Gelenken der unt. Extr. mit kompl. Eingriff, ohne äuß. schw. CC, ohne mehrzeit. Wechsel, ohne Eingr. an mehr. Lok. |
 | I07A | Amputation bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe |
 | I07B | Bestimmte Amputation am Fuß |
@@ -114,35 +114,36 @@ Allgemeine Chirurgie
 | J02A | Hauttransplantation oder bestimmte Lappenplastik an der unteren Extremität bei Ulkus oder Infektion oder ausgedehnte Lymphadenektomie oder Gewebetransplantation mit mikrovaskulärer Anastomose, mit äußerst schweren CC, mit komplexem Eingriff |
 | J02B | Hauttransplantation oder bestimmte Lappenplastik an der unteren Extr. bei Ulkus od. Infektion od. ausgedehnte Lymphadenekt. oder Gewebetransplant. mit mikrovask. Anastomose, mit äuß. schw. CC, oh. kompl. Eingr. od. oh. äuß. schw. CC, m. kompl. Eingr. |
 | J02C | Hauttransplantation oder bestimmte Lappenplastik an der unteren Extremität bei Ulkus oder Infektion oder ausgedehnte Lymphadenektomie, ohne äußerst schwere CC, ohne komplexen Eingriff |
-| J03Z | Eingriffe an der Haut der unteren Extremität bei Ulkus oder Infektion/Entzündung |
+| J03Z | Eingriffe an der Haut der unteren Extremität bei Ulkus oder Infektion / Entzündung |
 | J09A | Eingriffe bei Sinus pilonidalis und perianal, Alter < 16 Jahre |
 | J09B | Eingriffe bei Sinus pilonidalis und perianal, Alter > 15 Jahre |
-| J11D | Andere Eingriffe an Haut, Unterhaut und Mamma ohne kompliz. Diag., ohne mäßig kompl. Proz. od. Diag., Alter > 17 J. od. ohne äuß. schw. oder schw. CC, ohne best. Eingr., ohne Hidradenitis suppurativa, auß. b. BNB od. Pemphigoid, oh. kl. Eingr. an d. Haut |
+| J11D | And. Eingr. an Haut, Unterhaut u. Mamma oh. kompliz. Diag., oh. mäßig kompl. Proz. od. Diag., Alter > 17 J. od. oh. äuß. schw. od. schw. CC, oh. best. Eingr., oh. Hidradenitis suppurativa, auß. b. BNB od. Pemphigoid, oh. kl. Eingr. an d. Haut od. Weicht. |
 | J35Z | Komplexe Vakuumbehandlung bei Krankheiten und Störungen an Haut, Unterhaut und Mamma |
-| J64C | Andere Infektion/Entzündung der Haut und Unterhaut, Alter > 5 Jahre |
+| J64C | Andere Infektion / Entzündung der Haut und Unterhaut, Alter > 5 Jahre |
+| K03A | Eingriffe an der Nebenniere bei bösartiger Neubildung oder Eingriff an der Hypophyse, Alter < 18 Jahre oder bestimmte zweizeitige Eingriffe an der Hypophyse |
 | K04Z | Große Eingriffe bei Adipositas |
 | K06A | Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus mit IntK > 392 / 368 / - Punkte oder bei BNB, mit äußerst schweren CC oder Parathyreoidektomie oder äußerst schwere oder schwere CC, mit Thyreoidektomie durch Sternotomie |
 | K06B | Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus ohne IntK > 392 / 368 / - Punkte, bei BNB oder mit äuß. schw. oder schw. CC oder Eingr. an der Schilddrüse außer kl. Eingr., mit Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre |
-| K06C | Eingriffe an Schilddrüse, Nebenschilddrüse u. Ductus thyreoglossus ohne IntK > 392 / 368 / - Punkte, außer bei BNB, oh. äuß. schw. oder schw. CC, mit Eingr. an der Schilddrüse außer kl. Eingriffe, ohne Thyreoidektomie durch Sternotomie, Alter > 15 Jahre |
-| K06D | Kleine Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus ohne IntK > 392 / 368 / - Punkte, außer bei bösartiger Neubildung, ohne äußerst schwere oder schwere CC |
+| K06C | Eingriffe an Schilddrüse, Nebenschilddrüse u. Ductus thyreogl. ohne IntK > 392 / 368 / - P., auß. bei BNB, oh. äuß. schw. od. schw. CC, mit Eingr. an d. Schilddrüse auß. kl. Eingr., ohne Thyreoidektomie durch Sternotomie, Alter > 15 J. od. Alter < 18 J. |
+| K06D | Andere Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus ohne IntK > 392 / 368 / - Punkte, außer bei bösartiger Neubildung, ohne äußerst schwere oder schwere CC oder bestimmte Reduktionseingriffe an Haut und Unterhaut |
+| K06E | Kleine Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus ohne IntK > 392 / 368 / - Punkte, außer bei bösartiger Neubildung, ohne äußerst schwere oder schwere CC, ohne bestimmte Reduktionseingriffe an Haut und Unterhaut |
 | K07A | Andere Eingriffe bei Adipositas mit bestimmten größeren Eingriffen am Magen oder Darm |
 | K07B | Andere Eingriffe bei Adipositas ohne bestimmte größere Eingriffe am Magen oder Darm |
 | K14Z | Andere Eingriffe an der Nebenniere oder ausgedehnte Lymphadenektomie |
 | K33Z | Mehrzeitige komplexe OR-Prozeduren bei endokrinen, Ernährungs- und Stoffwechselkrankheiten |
-| L02C | Operatives Einbringen eines Peritonealdialysekatheters, Alter > 9 Jahre, ohne akute Niereninsuffizienz, ohne chronische Niereninsuffizienz mit Dialyse |
+| L02C | Operatives Einbringen eines Peritonealkatheters, Alter > 9 Jahre mit akuter Niereninsuffizienz oder mit chronischer Niereninsuffizienz mit Dialyse oder transurethrale Injektion bei Ostiuminsuffizienz |
 | Q01Z | Eingriffe an der Milz |
 | X01A | Rekonstruktive Operation bei Verletzungen mit komplizierender Konstellation oder freier Lappenplastik mit mikrovaskulärer Anastomosierung oder mit schweren Weichteilschäden oder komplexer OR-Prozedur oder best. komplexem Eingriff, mit äuß. schweren CC |
 | X01B | Rekonstruktive Operation bei Verletzungen ohne kompliz. Konstellation, ohne freie Lappenplastik mit mikrovask. Anastomosierung, mit schweren Weichteilschäden oder komplex. OR-Prozedur oder best. mäßig kompl. Eingriff oder äußerst schw. CC, mehr als 1 BT |
 | X01C | Rekonstruktive Operation bei Verletzungen ohne kompliz. Konstellation, ohne freie Lappenplastik mit mikrovask. Anastomosierung, ohne schwere Weichteilschäden, ohne kompl. OR-Prozedur, ohne äuß. schw. CC, mit best. Nervennaht oder Hautplastik, > 1 BT |
 | Z02Z | Leberspende (Lebendspende) |
 | Z03Z | Nierenspende (Lebendspende) |
-Geriatrie
-| DRG 2022 | DRG-Bezeichnung |
+| Geriatrie |
 | B44A | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen des Nervensystems mit neurologischer Komplexbehandlung oder anderer neurologischer Komplexbehandlung des akuten Schlaganfalls bei schwerer motorischer Funktionseinschränkung |
 | B44B | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen des Nervensystems mit anderer neurologischer Komplexbehandlung des akuten Schlaganfalls oder schwerer motorischer Funktionseinschränkung |
 | B44C | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen des Nervensystems ohne Komplexbehandlung des akuten Schlaganfalls, ohne schwere motorische Funktionseinschränkung |
-| E42K | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Atmungsorgane, mit Komplexbehandlung bei isolationspflichtigen Erregern, COVID-19, Virus nachgewiesen |
-| E42Z | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Atmungsorgane |
+| E42A | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Atmungsorgane mit Komplexbehandlung bei isolationspflichtigen Erregern, COVID-19, Virus nachgewiesen |
+| E42B | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Atmungsorgane |
 | F48Z | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen des Kreislaufsystems |
 | G14Z | Geriatrische frührehabilitative Komplexbehandlung mit bestimmter OR-Prozedur bei Krankheiten und Störungen der Verdauungsorgane |
 | G52Z | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Verdauungsorgane |
@@ -155,16 +156,15 @@ Geriatrie
 | L44Z | Geriatrische frührehabilitative Komplexbehandlung bei Krankheiten und Störungen der Harnorgane |
 | T44Z | Geriatrische frührehabilitative Komplexbehandlung bei infektiösen und parasitären Krankheiten |
 | U40Z | Geriatrische frührehabilitative Komplexbehandlung bei psychischen Krankheiten und Störungen |
-Gynäkologie und Geburtshilfe
-| DRG 2022 | DRG-Bezeichnung |
+| Gynäkologie und Geburtshilfe |
 | J06Z | Mastektomie mit Prothesenimplantation und plastischer Operation bei bösartiger Neubildung oder komplexe Prothesenimplantation |
-| J07A | Kleine Eingr. an der Mamma m. best. Lymphkn.-Exz. od. äuß. schw. od. schw. CC b. BNB od. große Eingr. an der Mamma b. BNB oh. kompl. od. best. Eingr. an weibl. Geschl.-Org. b. BNB mit beids. Eingr. od. best. Eingr. Ovar/Plexus brachialis od. an Lymphgef. |
-| J07B | Kleine Eingriffe an der Mamma mit bestimmter Lymphknotenexzision oder äußerst schweren oder schweren CC bei BNB, ohne beidseitigen Eingriff, ohne Eingriff an Ovar od. Plexus brachialis, ohne Eingriff an Lymphgefäßen |
+| J07A | Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL > 2 oder Impl. Hautexpander oder best. Eingr. an Ovar/Plexus brachialis oder Lymphknotenex. mit Hautransplantation oder Debridement, mit beidseitigem Eingr. oder best. Eingr. Ovar/Plexus brachialis |
+| J07B | Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL > 2 oder Impl. Hautexpander oder best. Eingr. an Ovar/Plexus brachialis oder Lymphknotenex. mit Hautransplantation oder Debridement, ohne beidseitigen Eingr., ohne best. Eingr. Ovar/Plexus brachialis |
 | J14Z | Plastische Rekonstruktion der Mamma bei BNB mit aufwend. Rekonstr. oder beidseit. Mastektomie bei BNB oder Strahlenther. mit operat. Proz. bei Krankh. und Störungen an Haut, Unterhaut und Mamma, mit beidseit. Prothesenimpl. oder Impl. eines Hautexpanders |
 | J16A | Beidseitige Mastektomie bei bösartiger Neubildung |
 | J16B | Strahlentherapie mit operativer Prozedur bei Krankheiten und Störungen an Haut, Unterhaut und Mamma |
 | J23Z | Große Eingriffe an der Mamma bei bösartiger Neubildung ohne komplexen Eingriff, ohne bestimmten Eingriff an den weiblichen Geschlechtsorganen bei bösartiger Neubildung |
-| J24A | Eingriffe an der Mamma außer bei bösartiger Neubildung mit ausgedehntem Eingriff, mit Prothesenimplantation oder bestimmter Mammareduktionsplastik |
+| J24A | Eingriffe an der Mamma außer bei bösartiger Neubildung mit ausgedehntem Eingriff, mit Prothesenimplantation oder bestimmter Mammareduktionsplastik oder beidseitiger Mastopexie |
 | J24C | Eingriffe an der Mamma außer bei bösartiger Neubildung ohne ausgedehnten Eingriff, mit komplexem Eingriff |
 | J24D | Eingriffe an der Mamma außer bei bösartiger Neubildung ohne ausgedehnten Eingriff, ohne komplexen Eingriff |
 | J25Z | Kleine Eingriffe an der Mamma bei bösartiger Neubildung ohne äußerst schwere oder schwere CC |
@@ -181,10 +181,10 @@ Gynäkologie und Geburtshilfe
 | N04Z | Hysterektomie außer bei bösartiger Neubildung, mit äußerst schweren oder schweren CC oder mit komplexem Eingriff |
 | N05A | Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei bösartiger Neubildung, mit äußerst schweren oder schweren CC oder bestimmter Eingriff an der Harnblase |
 | N05B | Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei bösartiger Neubildung, ohne äußerst schwere oder schwere CC oder anderer Eingriff an der Harnblase oder Adhäsiolyse, Alter > 15 Jahre |
-| N06Z | Komplexe rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen oder bestimmte Embolisation an viszeralen und anderen abdominalen Gefäßen außer bei bösartiger Neubildung |
+| N06Z | Komplexe rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen oder bestimmte Embolisation an viszeralen u. anderen abdominalen Gefäßen auß. bei bösartiger Neubildung oder andere Hysterektomie auß. bei bösartiger Neubildung mit Beckenbodenplastik |
 | N07A | Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, mit komplexer Diagnose oder bestimmte Eingriffe am Uterus oder kleine rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen, mit bestimmtem Eingriff |
 | N07B | Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, mit komplexer Diagnose oder bestimmte Eingriffe am Uterus oder kleine rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen, ohne bestimmten Eingriff |
-| N08Z | Endoskopische Eingriffe an den weiblichen Geschlechtsorganen |
+| N08Z | Endoskopische Eingriffe an den weiblichen Geschlechtsorg. oder andere Eingriffe an Uterus und Adnexen oder best. Hernien auß. bei bösartiger Neubildung, ohne kompl. Diagnose oder andere kleine Eingriffe an den weiblichen Geschlechtsorg., Alter < 14 Jahre |
 | N09B | Andere Eingriffe an Vagina, Zervix und Vulva, kleine Eingriffe an Blase, Uterus, Bauchwand und Peritoneum |
 | N10Z | Diagnostische Kürettage, Hysteroskopie, Sterilisation, Pertubation und kleine Eingriffe an Vagina und Vulva |
 | N11A | Andere OR-Prozeduren an den weiblichen Geschlechtsorganen mit bestimmtem Eingriff oder komplexer Diagnose mit äußerst schweren CC |
@@ -192,11 +192,11 @@ Gynäkologie und Geburtshilfe
 | N13A | Große Eingriffe an Vagina, Zervix und Vulva auß. bei BNB oder kl. Eingriffe an Vagina/Douglasraum oder best. Eingriff an der Harnblase, Alter > 80 Jahre od. äuß. schw. od. schw. CC od. best. Embolisation an viszeralen und and. abdominalen Gefäßen bei BNB |
 | N13B | Große Eingr. an Vagina, Zervix u. Vulva auß. bei BNB od. kl. Eingriffe an Vagina/Douglasraum od. best. Eingr. an der Harnblase, Alter < 81 Jahre, ohne äuß. schw. od. schw. CC, mit aufwend. Eingr., ohne best. Embol. an visz. u. and. abdom. Gefäßen bei BNB |
 | N13C | Große Eingriffe an Vagina, Zervix und Vulva außer bei bösartiger Neubildung oder kleine Eingriffe an Vagina und Douglasraum oder bestimmter Eingriff an der Harnblase, Alter < 81 Jahre, ohne äußerst schwere oder schwere CC, ohne aufwendigen Eingriff |
-| N14Z | Hysterektomie auß. bei BNB m. Beckenbodenpl. od. Brachytherapie b. Krankh./Stör. weibl. Geschlechtsorg., > 1 BT, m. äuß. schw. CC od. Ovariektomie u. kompl. Eingriffe an den Tubae uterinae auß. bei BNB, ohne äuß. schwere od. schwere CC, Alter < 16 Jahre |
+| N14Z | Best. Hysterektomie auß. bei BNB m. Beckenbodenpl. od. Brachytherapie b. Krankh./Stör. weibl. Geschlechtsorg., > 1 BT, m. äuß. schw. CC od. Ovariektomie u. kompl. Eingriffe an den Tubae uterinae auß. bei BNB, ohne äuß. schw. od. schw. CC, Alter < 16 J. |
 | N21A | Hysterektomie außer bei bösartiger Neubildung, ohne äuß. schw. oder schw. CC, ohne komplexen Eingriff, ohne Beckenbodenplastik oder subtotale und andere Hysterektomie bei bösartiger Neubildung oder komplexe Myomenukleation, mit aufwendigem Eingriff |
 | N21B | Hysterektomie außer bei bösartiger Neubildung, ohne äuß. schw. oder schw. CC, ohne komplexen Eingriff, ohne Beckenbodenplastik oder subtotale und andere Hysterektomie bei bösartiger Neubildung oder komplexe Myomenukleation, ohne aufwendigen Eingriff |
 | N23Z | Andere rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen oder andere Myomenukleation |
-| N25Z | Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, ohne komplexe Diagnose oder andere kleine Eingriffe an den weiblichen Geschlechtsorganen |
+| N25Z | Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, ohne komplexe Diagnose oder andere kleine Eingriffe an den weiblichen Geschlechtsorganen, Alter > 13 Jahre |
 | N33Z | Mehrzeitige komplexe OR-Prozeduren bei Krankheiten und Störungen der weiblichen Geschlechtsorgane |
 | N34Z | Große Eingriffe an Darm oder Harnblase bei Krankheiten und Störungen der weiblichen Geschlechtsorgane |
 | N38Z | Komplizierende Konstellation mit best. op. Eingriff bei Krankheiten u. Störungen der weibl. Geschlechtsorg. od. Beckenevisz. bei der Frau u. radikale Vulvektomie od. best. Lymphadenekt. mit äuß. schw. CC, mit kompl. Eingriff od. kompliz. Konstellation |
@@ -226,10 +226,10 @@ Gynäkologie und Geburtshilfe
 | O60D | Vaginale Entbindung ohne komplizierende Diagnose, Schwangerschaftsdauer mehr als 33 vollendete Wochen |
 | O61Z | Stationäre Aufnahme nach Entbindung oder Abort ohne OR-Prozedur, ohne bestimmten Eingriff an der Mamma |
 | O63Z | Abort ohne Dilatation und Kürettage, Aspirationskürettage oder Hysterotomie |
-| O65A | Andere vorgeburtliche stationäre Aufnahme mit äußerst schweren oder schweren CC oder komplexer Diagnose oder komplizierendem Eingriff oder ein Belegungstag |
-| O65B | Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne komplizierenden Eingriff, mehr als ein Belegungstag |
-Hals-Nasen-Ohrenheilkunde
-| DRG 2022 | DRG-Bezeichnung |
+| O65A | Andere vorgeburtliche stationäre Aufnahme mit Komplexbehandlung bei isolationspflichtigen Erregern, COVID-19, Virus nachgewiesen |
+| O65B | Andere vorgeburtliche stationäre Aufnahme mit äußerst schweren oder schweren CC oder komplexer Diagnose oder komplizierendem Eingriff oder ein Belegungstag |
+| O65C | Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne komplizierenden Eingriff, mehr als ein Belegungstag |
+| Hals-Nasen-Ohrenheilkunde |
 | B09Z | Andere Eingriffe am Schädel |
 | D01A | Kochleaimplantation, bilateral |
 | D01B | Kochleaimplantation, unilateral |
@@ -243,14 +243,14 @@ Hals-Nasen-Ohrenheilkunde
 | D05B | Komplexe Eingriffe an den Speicheldrüsen außer komplexe Parotidektomien |
 | D06A | Komplexe Eingriffe an Nasennebenhöhlen, Mastoid, Mittelohr, Speicheldrüsen, Rachen, Alter < 6 Jahre oder Alter > 15 Jahre mit komplexer Prozedur oder Diagnose, mit Resektion des Felsenbeins oder mit intrakraniellem Eingriff bei bösartiger Neubildung |
 | D06B | Andere Eingriffe an Nasennebenhöhlen, Mastoid, Mittelohr, Speicheldrüsen, Rachen, Alter > 5 Jahre und Alter < 16 Jahre oder Alter > 15 Jahre, mit komplexer Prozedur oder Diagnose, ohne Resektion am Felsenbein, ohne intrakraniellen Eingriff bei BNB |
-| D06C | Bestimmte Eingriffe an Nasennebenhöhlen, Mastoid, Mittelohr, Speicheldrüsen, Rachen, Alter > 15 Jahre, ohne komplexe Prozedur, ohne komplexe Diagnose |
+| D06C | Bestimmte Eingriffe an Nasennebenhöhlen, Mastoid, Mittelohr, Speicheldrüsen, Rachen, Alter > 15 Jahre, ohne komplexe Prozedur, ohne komplexe Diagnose, mit bestimmter Prozedur |
 | D08A | Eingriffe an Mundhöhle und Mund bei bösartiger Neubildung mit äußerst schweren CC |
 | D08B | Eingriffe an Mundhöhle und Mund bei bösartiger Neubildung ohne äußerst schwere CC |
 | D09Z | Tonsillektomie bei bösartiger Neubildung oder verschiedene Eingriffe an Ohr, Nase, Mund und Hals mit äußerst schweren CC |
 | D12A | Andere aufwendige Eingriffe an Ohr, Nase, Mund und Hals |
 | D12B | Andere Eingriffe an Ohr, Nase, Mund und Hals |
-| D13A | Kleine Eingriffe an Nase, Ohr, Mund und Hals mit komplizierender Diagnose oder Rekonstruktion des Nasenseptums oder Alter < 16 Jahre mit äußerst schweren CC oder Alter < 1 Jahr |
-| D13B | Kleine Eingriffe an Nase, Ohr, Mund und Hals ohne komplizierende Diagnose, ohne Rekonstruktion des Nasenseptums, Alter > 15 Jahre oder ohne äußerst schwere CC, Alter > 0 Jahre |
+| D13A | Kleine Eingriffe an Nase, Ohr, Mund und Hals mit komplizierender Diagnose oder bestimmtem Eingriff oder Alter < 16 Jahre mit äußerst schweren CC oder Alter < 1 Jahr |
+| D13B | Kleine Eingriffe an Nase, Ohr, Mund und Hals ohne komplizierende Diagnose, ohne bestimmten Eingriff, Alter > 15 Jahre oder ohne äußerst schwere CC, Alter > 0 Jahre |
 | D15A | Tracheostomie mit äußerst schweren CC oder mit radikaler zervikaler Lymphadenektomie oder Implantation einer Kiefergelenkendoprothese |
 | D15B | Tracheostomie ohne äußerst schwere CC, ohne radikale zervikale Lymphadenektomie |
 | D16Z | Materialentfernung an Kiefer und Gesicht |
@@ -260,13 +260,13 @@ Hals-Nasen-Ohrenheilkunde
 | D24A | Komplexe Hautplastiken und große Eingriffe an Kopf und Hals mit äußerst schweren CC oder mit Kombinationseingriff ohne äußerst schwere CC |
 | D24B | Komplexe Hautplastiken und große Eingriffe an Kopf und Hals ohne äußerst schwere CC, ohne Kombinationseingriff |
 | D25A | Mäßig komplexe Eingriffe an Kopf und Hals bei bösartiger Neubildung oder mit Eingriff an den oberen Atemwegen mit äußerst schweren CC oder Strahlentherapie mit operativem Eingriff |
-| D25B | Mäßig komplexe Eingriffe an Kopf und Hals bei BNB oder mit Eingriff an den oberen Atemwegen, mit Laryngektomie ohne äußerst schwere CC oder außer bei bösartiger Neubildung mit äußerst schweren CC |
-| D25C | Mäßig komplexe Eingriffe an Kopf und Hals bei bösartiger Neubildung oder mit Eingriff an den oberen Atemwegen, ohne Laryngektomie, ohne äußerst schw. CC, ohne Bestrahlungssim., Konstr. und Anpas. von Fix.-/Behandlungshilf. bei Strahlenth. mit op. Eingr. |
+| D25B | Mäßig komplexe Eingriffe an Kopf und Hals bei BNB oder mit Eingriff an den oberen Atemwegen, mit Laryngektomie oder Exzision von Tumorgewebe, ohne äußerst schwere CC oder außer bei bösartiger Neubildung mit äußerst schweren CC |
+| D25C | Mäßig komplexe Eingriffe an Kopf und Hals bei BNB oder mit Eingriff an den oberen Atemwegen, ohne Laryngektomie, ohne Exzision von Tumorgewebe, ohne äußerst schwere CC |
 | D25D | Mäßig komplexe Eingriffe an Kopf und Hals außer bei bösartiger Neubildung ohne äußerst schwere CC |
 | D28Z | Andere Eingriffe an Kopf und Hals mit komplexem Eingriff oder bei bösartiger Neubildung oder Rekonstruktion mit Gesichtsepithesen oder totale Auflagerungsplastik der Maxilla |
 | D29Z | Operationen am Kiefer und andere Eingriffe an Kopf und Hals außer bei bösartiger Neubildung |
 | D30A | Tonsillektomie außer bei BNB od. versch. Eingriffe Ohr, Nase, Mund, Hals oh. äuß. schw. CC, m. aufw. Eingr. od. Eingr. Mundh., Mund, Alter < 3 J. od. m. kompl. Diag. od. Alter < 16 J. m. äuß. schw. od. schw. CC od. m. Eingr. Ohr, Trachea m. äuß. schw. CC |
-| D30B | Tonsillektomie außer bei BNB oder versch. Eingriffe an Ohr, Nase, Mund und Hals oh. äußerst schw. CC, oh. aufw. Eingriff, oh. kompl. Diagnose, Alter > 15 od. oh. äuß. schw. od. schw. CC, Alter < 12 J. od. Alter > 11 J. b. BNB od. oh. Eingr. Hals, Trachea |
+| D30B | Tonsillektomie außer bei BNB oder verschiedene Eingriffe an Ohr, Nase, Mund und Hals, Alter > 15 oder ohne äußerst schwere oder schwere CC, Alter < 12 Jahre oder Alter > 11 Jahre bei BNB oder mit anderem Eingriff oder ohne Eingriff an Hals, Trachea |
 | D30C | Kleine Eingriffe an Ohr, Nase, Mund und Hals, Alter > 11 Jahre |
 | D33Z | Mehrzeitige komplexe OR-Prozeduren bei Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses |
 | D35Z | Eingriffe an Nase, Nasennebenhöhlen bei bösartiger Neubildung |
@@ -282,13 +282,12 @@ Hals-Nasen-Ohrenheilkunde
 | E07Z | Aufwendige Eingriffe bei Schlafapnoesyndrom |
 | I17A | Aufwendige Operationen am Gesichtsschädel oder Alter < 16 Jahre |
 | I17B | Operationen am Gesichtsschädel ohne aufwendige Operationen, Alter > 15 Jahre |
-Herzchirurgie
-| DRG 2022 | DRG-Bezeichnung |
+| Herzchirurgie |
 | A03A | Lungentransplantation mit Beatmung > 179 Stunden |
 | A03B | Lungentransplantation ohne Beatmung > 179 Stunden |
 | A05Z | Herztransplantation |
 | A62Z | Evaluierungsaufenthalt vor Herztransplantation |
-| F03A | Herzklappeneingriff mit Herz-Lungen-Maschine, mit bestimmter komplizierender Konstellation oder bestimmtem Zweifacheingriff |
+| F03A | Herzklappeneingriff mit Herz-Lungen-Maschine, mit bestimmter komplizierender Konstellation |
 | F03B | Herzklappeneingriff mit Herz-Lungen-Maschine, mit Mehrfacheingriff oder Alter < 1 Jahr oder Eingriff in tiefer Hypothermie oder IntK > 392 / 368 / - Aufwandspunkte oder bestimmter anderer komplizierender Konstellation oder pulmonale Endarteriektomie |
 | F03C | Herzklappeneingriff mit Herz-Lungen-Maschine, Alter > 0 J., IntK > 196 / 184 / - P. und IntK < 393 / 369 / - P., mit Zweifacheingriff od. bei angeborenem Herzfehler, mit kompl. Eingr. od. best. Herzklappeneingriff oder andere komplizierende Konstellation |
 | F03D | Herzklappeneingriff mit HLM, Alter > 0 J., IntK < 197 / 185 / - P., mit Zweifacheingr. od. bei angeb. Herzfehler, oh. kompl. Eingr. oder Alter < 16 J. od. oh. Zweifacheingr., auß. bei angeb. Herzfehler, Alter > 15 J. mit Impl. klappentr. Gefäßprothese |
@@ -299,38 +298,37 @@ Herzchirurgie
 | F06C | Koronare Bypass-Operation ohne mehrzeitige komplexe OR-Prozeduren, mit komplizierender Konstellation oder IntK > 392 / 368 / - Aufwandspunkte oder Karotiseingriff |
 | F06D | Koronare Bypass-Operation ohne mehrzeitige komplexe OR-Prozeduren, ohne komplizierende Konstellation, mit invasiver kardiologischer Diagnostik oder mit intraoperativer Ablation oder schwersten CC oder Implantation eines herzunterstützenden Systems |
 | F06E | Koronare Bypass-Operation ohne mehrzeitige komplexe OR-Prozeduren, ohne komplizierende Konstellation, ohne invasive kardiologische Diagnostik, ohne intraoperative Ablation, ohne schwerste CC, ohne Implantation eines herzunterstützenden Systems |
-| F07A | Andere Eingriffe mit Herz-Lungen-Maschine, Alter < 1 Jahr oder mit best. kompliz. Konstellation od. kompl. Operation oder IntK > - / 368 /- P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder and. kompliz. Konstellation, mit best. kompl. Eingriffen |
-| F07B | And. Eingr. mit HLM, Alter < 1 J. od. mit best. kompl. Konst. od. IntK > -/368 /- P., oh. best. kompl. Eingr. od. Alter > 0 J., IntK < -/369/- P., m. and. kompl. Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz. Konst. od. mit best. Aortklers. |
-| F07C | Andere Eingr. mit HLM, Alter > 0 J., IntK < - / 369/- P. oder Alter > 17 J. od. ohne Reop. od. ohne and. kompliz. Konst., ohne and. kompl. Eingriffe od. ohne Reop. an Herz od. Perikard od. ohne best. and. kompliz. Konst. od. ohne best. Aortklers. |
+| F07A | Andere Eingriffe mit Herz-Lungen-Maschine, Alter < 1 Jahr oder mit best. kompliz. Konstellation od. kompl. Operation oder IntK > - / 368 / - P. oder Alter < 18 Jahre mit Reop. Herz od. Perikard oder and. kompliz. Konstellation, mit best. kompl. Eingriffen |
+| F07B | And. Eingr. mit HLM, Alter < 1 J. od. mit best. kompl. Konst. od. IntK > -/368 /- P., oh. best. kompl. Eingr. od. Alter > 0 J., IntK < - / 369 / - P., m. and. kompl. Eingr. mit Reop. Herz od. Perik. od. mit best. and. kompliz. Konst. od. mit best. Aortklers. |
+| F07C | Andere Eingr. mit HLM, Alter > 0 J., IntK < - / 369 / - P. oder Alter > 17 J. od. ohne Reop. od. ohne and. kompliz. Konst., ohne and. kompl. Eingriffe od. ohne Reop. an Herz od. Perikard od. ohne best. and. kompliz. Konst. od. ohne best. Aortklers. |
 | F09A | Andere kardiothorakale Eingriffe, Alter < 16 Jahre, mit komplizierender Konstellation oder Exzision am Vorhof |
 | F36A | Intensivmedizinische Komplexbehandlung bei Krankheiten und Störungen des Kreislaufsystems mit komplizierenden Faktoren, > 1176 / 1380 / - Aufwandspunkte oder > 588 / 828 / 1104 Aufwandspunkte mit aufwendigem Eingriff |
 | F36B | Intensivmed. Komplexbeh. bei Krankh. und Störungen d. Kreislaufsyst. m. kompliz. Fakt., > 588 / 828 / - P. od. > - / - / 1104 P. m. best. OR-Proz., ohne aufwend. Eingr. od. > - / 552 / 552 P. m. best. Aortenstent od. minimalinv. Eingr. an mehrer. Herzkl. |
 | F36C | Intensivmedizinische Komplexbehandlung bei Krankheiten und Störungen des Kreislaufsystems mit komplizierenden Faktoren, > - / 552 / 552 Aufwandspunkte ohne bestimmte OR-Prozedur, ohne bestimmten Aortenstent oder bestimmter mehrzeitiger komplexer Eingriff |
 | F98A | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, mit hochkomplexem Eingriff oder komplexer Diagnose oder Alter < 30 Jahre oder Implantation eines Wachstumsstents |
-Innere Medizin
-| DRG 2022 | DRG-Bezeichnung |
+| Innere Medizin |
 | A11H | Beatmung > 249 Stunden, ohne komplexe oder bestimmte OR-Prozedur, ohne IntK > 588 / 828 / 1104 Punkte, ohne komplizierende Konstellation, Alter > 15 Jahre, ohne komplexe Diagnose oder Prozedur, ohne äußerst schwere CC |
 | A13F | Beatmung > 95 Stunden, ohne bestimmte OR-Prozedur, ohne komplizierende Konstellation, ohne intensivmed. Komplexbeh. > 588 / 552 / 552 Aufwandspunkte, Alter > 15 Jahre, mit komplexer Diagnose oder Prozedur od. intensivmed. Komplexbeh. > - / 368 / - Punkte |
 | A13H | Beatmung > 95 Stunden mit bestimmter OR-Prozedur oder kompliz. Konstellation, ohne äußerst schwere CC, verstorben oder verlegt < 9 Tage oder ohne best. OR-Proz., ohne kompliz. Konst., Alter > 15 J., ohne kompliz. Diagnose oder Proz., ohne äuß. schw. CC |
-| A15A | Knochenmarktransplantation/Stammzelltransfusion, autogen, mit zweiter Knochenmarktransplantation/Stammzelltransfusion im selben Aufenthalt |
+| A15A | Knochenmarktransplantation / Stammzelltransfusion, autogen, mit zweiter Knochenmarktransplantation / Stammzelltransfusion im selben Aufenthalt |
 | B12Z | Implantation eines Herzschrittmachers bei Krankheiten und Störungen des Nervensystems oder perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen |
 | B82Z | Andere Erkrankungen an peripheren Nerven |
 | D63A | Otitis media oder Infektionen der oberen Atemwege oder Blutung aus Nase und Rachen mit äußerst schweren CC |
-| E40B | Krankheiten und Störungen der Atmungsorgane mit Beatmung > 24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, mit äußerst schweren CC, Alter > 15 Jahre oder bei Para-/Tetraplegie |
-| E40C | Krankheiten und Störungen der Atmungsorgane mit Beatmung > 24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, ohne äußerst schwere CC, außer bei Para-/Tetraplegie |
+| E40B | Krankheiten und Störungen der Atmungsorgane mit Beatmung > 24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, mit äußerst schweren CC, Alter > 15 Jahre oder bei Para- / Tetraplegie |
+| E40C | Krankheiten und Störungen der Atmungsorgane mit Beatmung > 24 Stunden, mehr als 2 Belegungstage, mit komplexer Prozedur, ohne äußerst schwere CC, außer bei Para- / Tetraplegie |
 | E41Z | Frührehabilitation bei Krankheiten und Störungen der Atmungsorgane |
 | E63B | Schlafapnoesyndrom oder Polysomnographie oder kardiorespiratorische Polygraphie bis 2 Belegungstage, Alter > 17 Jahre, ohne bestimmte invasive kardiologische Diagnostik |
-| E64A | Respiratorische Insuffizienz, mehr als ein Belegungstag, mit äußerst schweren CC oder Lungenembolie |
+| E64A | Respiratorische Insuffizienz, mehr als ein Belegungstag, mit äußerst schweren CC oder Lungenembolie, Alter > 15 Jahre |
 | E64C | Respiratorische Insuffizienz, mehr als ein Belegungstag, ohne äußerst schwere CC, Alter > 15 Jahre |
 | E64D | Respiratorische Insuffizienz, ein Belegungstag |
-| E65A | Chronisch-obstruktive Atemwegserkrankung oder bestimmte Atemwegsinfektion mit äuß. schw. CC oder best. hochaufw. Beh. oder Bronchitis und Asthma bronchiale, mehr als ein Belegungstag, mit äuß. schw. oder schw. CC, Alter < 1 Jahr, mit RS-Virus-Infektion |
-| E65B | Chronisch-obstruktive Atemwegserkrankung oder best. Atemwegsinfektion ohne äußerst schwere CC, mit komplizierender Diagnose oder mit FEV1 < 35 % und mehr als ein Belegungstag oder Alter < 1 J. oder mit bestimmter mäßig aufwendiger/aufwendiger Behandlung |
-| E65C | Chronisch-obstruktive Atemwegserkrankung ohne äußerst schwere CC, ohne komplizierende Diagnose, ohne FEV1 < 35 % oder ein Belegungstag oder Alter > 1 Jahr, ohne bestimmte mäßig aufwendige/aufwendige Behandlung |
-| E69A | Bronchitis und Asthma bronchiale, mehr als ein Belegungstag, mit äußerst schweren oder schweren CC oder bestimmte aufwendige/hochaufwendige Behandlung, Alter < 1 Jahr ohne RS-Virus-Infektion oder bei Para-/Tetraplegie |
+| E65A | Chron.-obstr. Atemwegserkrankung od. best. Atemwegsinfekt. mit äuß. schw. CC od. best. hochaufw. Beh. od. Bronchitis u. Asthma bronch., mehr als ein BT, mit äuß. schw. od. schw. CC, Alter < 1 J., mit RS-V.-Infekt., mit int. Komplexbeh. > 196 / 184 / - P. |
+| E65B | Chronisch-obstruktive Atemwegserkrankung oder best. Atemwegsinfektion ohne äußerst schwere CC, mit komplizierender Diagnose oder mit FEV1 < 35% und mehr als ein Belegungstag oder Alter < 1 J. oder mit bestimmter mäßig aufwendiger / aufwendiger Behandlung |
+| E65C | Chronisch-obstruktive Atemwegserkrankung ohne äußerst schwere CC, ohne komplizierende Diagnose, ohne FEV1 < 35% oder ein Belegungstag oder Alter > 1 Jahr, ohne bestimmte mäßig aufwendige / aufwendige Behandlung |
+| E69A | Bronchitis und Asthma bronchiale, mehr als ein Belegungstag, mit äußerst schweren oder schweren CC oder bestimmte aufwendige / hochaufwendige Behandlung, Alter < 1 Jahr ohne RS-Virus-Infektion oder bei Para- / Tetraplegie |
 | E69B | Bronchitis und Asthma bronchiale, mehr als 1 BT u. Alter > 55 J. od. mit äuß. schw. od. schw. CC, Alt. > 0 J. od. 1 BT od. oh. äuß. schw. od. schw. CC, Alt. < 1 J. od. flex. Bronchoskopie, Alt. < 16 J. od. best. mäßig aufw. Beh., m. RS-Virus-Infekt. |
 | E69C | Bronchitis und Asthma bronchiale, ein Belegungstag oder ohne äuß. schw. oder schw. CC oder Alter < 56 Jahre oder Beschwerden und Symptome der Atmung oder Störungen der Atmung mit Ursache in der Neonatalperiode, ohne bestimmte aufw./hochaufw. Behandlung |
 | E71A | Neubildungen der Atmungsorgane, mehr als ein Belegungstag, mit äußerst schweren CC |
-| E71B | Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst schwere CC, mit Ösophagusprothese oder endoskopischer Stufenbiopsie oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie |
+| E71B | Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst schwere CC, mit Ösophagusprothese oder endoskopischer Stufenbiopsie oder endoskopischer Biopsie am Respirationstrakt mit Chemotherapie, mit int. Komplexbeh. > 196 / 184 / - Punkten |
 | E71C | Neubildungen der Atmungsorgane, ein Belegungstag oder ohne äußerst schwere CC, ohne Ösophagusproth., ohne Stufenbiop., ohne Chemotherapie od. ohne endoskop. Biop. am Respir.-Trakt, mit Bronchoskop. mit starrem Instr. oder perkut. Biop. am Respir.-Trakt |
 | E71D | Neubildungen der Atmungsorgane, ein Belegungstag od. ohne äußerst schwere CC, ohne Ösophagusproth., ohne Stufenbiopsie, ohne Chemoth. od. ohne endoskop. Biop. am Respir.-Trakt, ohne Bronchoskopie mit starrem Instr., ohne perkut. Biopsie am Respir.-Trakt |
 | E73A | Pleuraerguss mit äußerst schweren CC |
@@ -341,20 +339,20 @@ Innere Medizin
 | E76B | Tuberkulose bis 14 Belegungstage oder Alter < 18 Jahre mit äußerst schweren oder schweren CC |
 | E77A | Bestimmte andere Infektionen und Entzündungen der Atmungsorgane mit intensivmedizinischer Komplexbehandlung > 392 / 368 / - Aufwandspunkte |
 | E77B | Bestimmte andere Infektionen und Entzündungen der Atmungsorgane mit bestimmter komplizierender Konstellation oder hochkomplexer Diagnose oder intensivmedizinischer Komplexbehandlung > 196 / - / - Aufwandspunkte |
-| E77C | Bestimmte andere Infektionen und Entzündungen der Atmungsorgane m. and. kompliz. Konst. od. schwersten CC od. kompl. Diagn. m. äuß. schw. CC od. bei Z.n. Tx od. m. Komplexbeh. MRE od. best. hochaufwend. Beh. od. angeb. Fehlbildungssynd. od. Alter < 10 J. |
+| E77C | Bestimmte andere Infektionen und Entzündungen der Atmungsorgane mit Komplexbehandlung bei isolationspflichtigen Erregern oder bestimmter hochaufwendiger Behandlung oder schwersten CC oder weiteren komplizierenden Faktoren |
 | E77D | Bestimmte andere Infektionen und Entzündungen der Atmungsorgane, Alter > 9 Jahre |
-| E78Z | Kontrolle oder Optimierung einer bestehenden häuslichen Beatmung, bis 2 Belegungstage |
+| E78Z | Kontrolle oder Optimierung einer bestehenden häuslichen Beatmung, bis 2 Belegungstage, Alter > 17 Jahre |
 | E79A | Infektionen und Entzündungen der Atmungsorgane mit komplexer Diagnose oder äußerst schweren CC, mehr als ein Belegungstag oder mit äußerst schweren CC mit bestimmten Infektionen oder Entzündungen |
-| E79B | Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC oder ein Belegungstag, bei Para-/Tetraplegie oder mit bestimmter mäßig aufwendiger Behandlung oder mit bestimmter Pneumonie, mehr als ein Belegungstag |
-| E79C | Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC oder ein Belegungstag, außer bei Para-/Tetraplegie, ohne bestimmte mäßig aufwendige Behandlung |
-| F01B | Implantation Kardioverter/Defibrillator (AICD), Zweikammer-Stimulation mit komplizierenden Faktoren oder neurologische Komplexbehandlung des akuten Schlaganfalls mehr als 24 Stunden mit komplizierenden Faktoren |
-| F01E | Impl. Kardioverter/Defibrillator (AICD), Zweikammer-Stimulation od. aufwendige Sondenentfernung od. Aggregatwechsel S-ICD ohne Änderung der Sonde, ohne Impl. Drucksens. in Pulmonalarterie, ohne Impl. eines intrakardialen Pulsgenerators, Alter > 17 J. |
-| F01F | Impl. Kardioverter/Defibrillator (AICD), Einkammer-Stimulation, ohne zusätzl. Herz- od. Gefäßeingriff, ohne IntK > 392 / 368 / - P., ohne äuß. schw. CC, ohne aufw. Sondenentf., ohne Impl. Drucksens. in Pulmonalart., ohne Impl. Pulsgen., Alter > 17 J. |
+| E79B | Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC oder ein Belegungstag, bei Para- / Tetraplegie oder mit bestimmter mäßig aufwendiger Behandlung oder mit bestimmter Pneumonie, mehr als ein Belegungstag |
+| E79C | Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC oder ein Belegungstag, außer bei Para- / Tetraplegie, ohne bestimmte mäßig aufwendige Behandlung |
+| F01B | Implantation Kardioverter / Defibrillator (AICD), Zweikammer-Stimulation mit komplizierenden Faktoren oder neurologische Komplexbehandlung des akuten Schlaganfalls mehr als 24 Stunden mit komplizierenden Faktoren |
+| F01E | Implantation Kardioverter / Defibrillator (AICD), Zweikammer-Stimulation oder aufwendige Sondenentfernung, ohne Implantation eines Drucksensors in Pulmonalarterie, ohne Implantation eines intrakardialen Pulsgenerators, Alter > 17 Jahre |
+| F01F | Impl. Kardioverter / Defibrillator (AICD), Einkammer-Stimulation, ohne zusätzl. Herz- od. Gefäßeingriff, ohne IntK > 392 / 368 / - P., ohne äuß. schw. CC, ohne aufw. Sondenentf., ohne Impl. Drucksens. in Pulmonalart., ohne Impl. Pulsgen., Alter > 17 J. |
 | F12D | Implantation eines Herzschrittmachers, Zweikammersystem, ohne komplexen Eingriff, Alter > 15 Jahre, mit äußerst schweren CC oder isolierter offen chirurgischer Sondenimplantation oder aufwendiger Sondenentfernung oder mäßig komplexer PTCA |
 | F12E | Implantation eines Herzschrittmachers, Einkammersystem oder Implantation eines Ereignisrekorders, Alter > 15 Jahre, mit invasiver kardiologischer Diagnostik bei bestimmten Eingriffen |
 | F12F | Impl. HSM, Zweikammersys., oh. äuß. schwere CC, oh. isol. offen chir. Sondenimpl., oh. aufw. Sondenentf., oh. mäßig kompl. PTCA od. Impl. HSM, Einkammersys. od. Impl. Ereignisrekorder, oh. invasive kardiol. Diagnostik bei best. Eingriffen, Alter > 15 J. |
 | F17B | Wechsel eines Herzschrittmachers, Einkammer- oder Zweikammersystem, Alter > 15 Jahre |
-| F18D | Revision eines Herzschrittmachers oder Kardioverters/Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, ohne komplexen Eingriff |
+| F18D | Revision eines Herzschrittmachers oder Kardioverters / Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, ohne komplexen Eingriff |
 | F24A | Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer Intervention oder mit bestimmten Rekanalisationsverfahren, Alter > 15 Jahre, mit äußerst schweren CC |
 | F24B | Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer Intervention oder mit bestimmten Rekanalisationsverfahren, Alter > 15 Jahre, ohne äußerst schwere CC |
 | F37Z | Längerer stationärer Aufenthalt vor Transplantation bei hoher Dringlichkeitsstufe bei Krankheiten und Störungen des Kreislaufsystems |
@@ -364,12 +362,13 @@ Innere Medizin
 | F45Z | Frührehabilitation bei Krankheiten und Störungen des Kreislaufsystems |
 | F49B | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, mit äußerst schweren CC oder IntK > 196 / 184 / 368 Aufwandspunkten, ohne komplexen Eingriff, Alter > 9 Jahre |
 | F49D | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, mit schweren CC, mehr als ein Belegungstag |
-| F49F | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne kardiales Mapping, ohne schwere CC bei BT > 1, ohne best. kompl. Diagnose, mit best. Eingr. |
-| F49G | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne kardiales Mapping, ohne schwere CC bei BT > 1, ohne komplexe Diagnose, ohne best. Eingriff |
+| F49E | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne schwere CC bei BT > 1, mit kardialem Mapping oder best. andere kardiologische Diagnostik oder best. komplexer Diagnose |
+| F49F | Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o. äußerst schwere CC, ohne IntK > 196 / 184 / 368 P., Alter > 17 J., o. kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT > 1, o. best. kompl. Diagnose, mit best. Eingr. |
+| F49G | Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o. äußerst schwere CC, ohne IntK > 196 / 184 / 368 P., Alter > 17 J., o. kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT > 1, o. best. kompl. Diagnose, ohne best. Eingr. |
 | F52A | Perkutane Koronarangioplastie mit komplexer Diagnose, mit äußerst schweren CC |
 | F52B | Perkutane Koronarangioplastie mit komplexer Diagnose, ohne äußerst schwere CC oder mit intrakoronarer Brachytherapie oder bestimmte Intervention |
 | F56A | Perkutane Koronarangioplastie mit bestimmter hochkomplexer Intervention, mit äußerst schweren CC |
-| F56B | Perkutane Koronarangioplastie mit hochkomplexer Intervention, ohne bestimmte hochkomplexe Intervention oder ohne äußerst schwere CC oder Kryoplastie |
+| F56B | Perkutane Koronarangioplastie mit hochkomplexer Intervention, ohne bestimmte hochkomplexe Intervention oder ohne äußerst schwere CC oder Kryoplastie oder koronare Lithoplastie |
 | F58A | Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik mit Gefäßeingriff, mit äußerst schweren CC |
 | F58B | Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik mit Gefäßeingriff, ohne äußerst schwere CC |
 | F60A | Akuter Myokardinfarkt ohne invasive kardiologische Diagnostik mit äußerst schweren CC |
@@ -384,8 +383,8 @@ Innere Medizin
 | F63B | Venenthrombose ohne äußerst schwere CC |
 | F66A | Koronararteriosklerose mit äußerst schweren CC |
 | F66B | Koronararteriosklerose ohne äußerst schwere CC |
-| F67A | Hypertonie mit komplizierender Diagnose oder äußerst schweren oder schweren CC oder bestimmter hochaufwendiger/mäßig aufwendiger/aufwendiger Behandlung |
-| F67C | Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder schwere CC, ohne bestimmte hochaufwendige/mäßig aufwendige/aufwendige Behandlung, Alter > 17 Jahre |
+| F67A | Hypertonie mit komplizierender Diagnose oder äußerst schweren oder schweren CC oder bestimmter hochaufwendiger / mäßig aufwendiger / aufwendiger Behandlung |
+| F67C | Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder schwere CC, ohne bestimmte hochaufwendige / mäßig aufwendige / aufwendige Behandlung, Alter > 17 Jahre |
 | F69A | Herzklappenerkrankungen mit äußerst schweren oder schweren CC |
 | F70B | Schwere Arrhythmie und Herzstillstand ohne äußerst schwere CC |
 | F71A | Nicht schwere kardiale Arrhythmie und Erregungsleitungsstörungen mit äußerst schweren CC, mehr als ein Belegungstag oder mit kathetergestützter elektrophysiologischer Untersuchung des Herzens oder bestimmter hochaufwendiger Behandlung |
@@ -395,8 +394,8 @@ Innere Medizin
 | F73B | Synkope und Kollaps, Alter > 13 Jahre oder mehr als ein Belegungstag |
 | F74Z | Thoraxschmerz und sonstige und nicht näher bezeichnete Krankheiten des Kreislaufsystems |
 | F75A | Andere Krankheiten des Kreislaufsystems mit äußerst schweren CC, mehr als ein Belegungstag |
-| F77K | Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten und Störungen des Kreislaufsystems, COVID-19, Virus nachgewiesen |
-| F77Z | Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten und Störungen des Kreislaufsystems |
+| F77A | Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten und Störungen des Kreislaufsystems, COVID-19, Virus nachgewiesen |
+| F77B | Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten und Störungen des Kreislaufsystems |
 | G40A | Bestimmte komplizierende Konstellation mit bestimmtem endoskopischen Eingriff bei Krankheiten und Störungen der Verdauungsorgane |
 | G40B | Andere komplizierende Konstellation mit bestimmtem endoskopischen Eingriff bei Krankheiten und Störungen der Verdauungsorgane |
 | G46A | Komplexe therapeutische Gastroskopie bei schweren Krankheiten der Verdauungsorgane, mit äußerst schweren CC oder mit schweren CC oder andere Gastroskopie bei schw. Krankh. der Verd.organe, mit äußerst schweren CC, Alter < 15 Jahre, mehr als ein BT |
@@ -415,7 +414,7 @@ Innere Medizin
 | G67A | Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane oder Obstruktion des Verdauungstraktes mit bestimmten komplizierenden Faktoren |
 | G67B | Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane oder Obstruktion des Verdauungstraktes mit anderen komplizierenden Faktoren oder mit äußerst schweren CC |
 | G67C | Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane ohne bestimmte oder andere komplizierende Faktoren, ohne äußerst schwere CC |
-| G70B | Andere schwere Erkrankungen der Verdauungsorgane ohne äußerst schwere CC, Alter > 17 Jahre |
+| G70B | Andere schwere Erkrankungen der Verdauungsorgane ohne äußerst schwere CC, Alter > 17 Jahre, ohne komplexe Diagnose |
 | G71Z | Andere mäßig schwere Erkrankungen der Verdauungsorgane |
 | G73Z | Gastrointestinale Blutung oder Ulkuserkrankung mit äußerst schweren CC, mehr als ein Belegungstag |
 | G74Z | Hämorrhoiden oder andere wenig schwere Erkrankungen der Verdauungsorgane |
@@ -427,8 +426,8 @@ Innere Medizin
 | H40B | Endoskopische Eingriffe bei Ösophagusvarizenblutung ohne äußerst schwere CC |
 | H41A | Bestimmte ERCP mit äußerst schweren CC oder mit schweren CC oder komplexer Eingriff oder Alter < 16 Jahre, mit komplexer Prozedur, mit Zugang durch retrograde Endoskopie |
 | H41B | Bestimmte ERCP mit schweren CC oder komplexer Eingriff oder Alter < 16 Jahre, mit komplexer Prozedur, ohne Zugang durch retrograde Endoskopie |
-| H41C | Best. ERCP mit schw. CC od. kompl. Eingriff oder Alter < 16 J., oh. kompl. Proz. od. and. ERCP, oh. äuß. schw. od. schw. CC, oh. kompl. Eingriff, mit Radiofrequenzabl. und endoskop. Stentimpl. od. and. aufwend. ERCP/best. endoskop. Eingr. m. best. BNB |
-| H41D | Andere aufwendige ERCP oh. best. ERCP, oh. äuß. schwere oder schwere CC, Alter > 15 Jahre, ohne kompl. Eingr., oh. Radiofrequenzabl. mit endoskop. Stentimpl., ohne and. aufwend. ERCP/best. endoskop. Eingr. m. best. BNB oder best. endoskop. Eingriffe |
+| H41C | Best. ERCP mit schw. CC od. kompl. Eingriff oder Alter < 16 J., oh. kompl. Proz. od. and. ERCP, oh. äuß. schw. od. schw. CC, oh. kompl. Eingriff, mit Radiofrequenzabl. und endoskop. Stentimpl. od. and. aufwend. ERCP / best. endoskop. Eingr. m. best. BNB |
+| H41D | Andere aufwendige ERCP oh. best. ERCP, oh. äuß. schwere oder schwere CC, Alter > 15 Jahre, ohne kompl. Eingr., oh. Radiofrequenzabl. mit endoskop. Stentimpl., ohne and. aufwend. ERCP / best. endoskop. Eingr. m. best. BNB oder best. endoskop. Eingriffe |
 | H41E | Andere ERCP ohne bestimmte ERCP, ohne äußerst schwere oder schwere CC, Alter > 15 Jahre, ohne komplexen Eingriff, ohne Radiofrequenzablation mit endoskopischer Stentimplantation |
 | H60Z | Leberzirrhose und bestimmte nichtinfektiöse Hepatitiden mit äußerst schweren CC oder komplizierende Konstellation bei bestimmten Krankheiten und Störungen an hepatobiliärem System und Pankreas |
 | H61A | Bösartige Neubildung an hepatobiliärem System und Pankreas, mehr als ein Belegungstag, mit komplexer Diagnose, mit äußerst schweren CC oder Pfortaderthrombose |
@@ -436,48 +435,48 @@ Innere Medizin
 | H62B | Erkrankungen des Pankreas außer bösartige Neubildung, mit akuter Pankreatitis oder Leberzirrhose oder bestimmter nichtinfektiöser Hepatitis, Alter > 15 Jahre |
 | H62C | Erkrankungen des Pankreas außer bösartige Neubildung, ohne akute Pankreatitis, ohne Leberzirrhose, ohne bestimmte nichtinfektiöse Hepatitis, Alter > 15 Jahre |
 | H63A | Erkrankungen der Leber auß. bösart. Neubild., Leberzirr. u. best. nichtinfekt. Hepatitiden u. best. Erkrank. der Gallenwege, mehr als ein Belegungstag, mit kompl. Diag. u. äuß. schw. o. schw. CC od. kompl. Diag. od. äuß. schw. od. schw. CC, Alter < 1 J. |
-| H63B | Erkrankungen der Leber außer bösartige Neubildung, Leberzirrhose und bestimmte nichtinfektiöse Hepatitiden und best. Erkrankungen der Gallenwege, mehr als ein Belegungstag, mit komplexer Diagnose oder äußerst schweren oder schweren CC, Alter > 0 Jahre |
+| H63B | Erkrankungen der Leber außer bösartige Neubildung, Leberzirrhose und bestimmte nichtinfektiöse Hepatitiden und best. Erkrankungen der Gallenwege, mehr als ein Belegungstag, mit kompl. Diagnose oder äuß. schw. o. schw. CC oder Leberbiopsie, Alter < 18 J. |
 | H63C | Erkrankungen der Leber außer bösartige Neubildung, Leberzirrhose und bestimmte nichtinfektiöse Hepatitiden und bestimmte Erkrankungen der Gallenwege, ein Belegungstag oder ohne komplexe Diagnose und ohne äußerst schwere oder schwere CC |
 | H64Z | Erkrankungen von Gallenblase und Gallenwegen |
 | H77Z | Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten und Störungen an hepatobiliärem System und Pankreas |
 | H78Z | Bestimmte komplizierende Konstellation bei bestimmten Krankheiten und Störungen an hepatobiliärem System und Pankreas |
-| I66B | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
+| I66B | Andere Erkrankungen des Bindegewebes, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
 | I79Z | Fibromyalgie |
-| J64A | Infektion/Entzündung der Haut und Unterhaut oder Hautulkus mit äußerst schweren CC |
+| J64A | Infektion / Entzündung der Haut und Unterhaut oder Hautulkus mit äußerst schweren CC |
 | J68B | Erkrankungen der Haut, ein Belegungstag, ohne komplexe Diagnose, Alter > 15 Jahre |
 | K60C | Diabetes mellitus und schwere Ernährungsstörungen, Alter > 17 Jahre oder ohne multimodale Komplexbehandlung bei Diabetes mellitus oder schwerste Ernährungsstörungen oder äußerst schwere CC, mehr als ein Belegungstag |
 | K60E | Diabetes mellitus mit schweren CC oder mit komplexer Diagnose, Alter > 15 Jahre, mehr als ein Belegungstag |
 | K60F | Diabetes mellitus, Alter > 10 Jahre, ein Belegungstag oder ohne äußerst schwere oder schwere CC oder ohne komplexe Diagnose |
-| K62A | Verschiedene Stoffwechselerkrankungen bei Para-/Tetrapleg. oder mit kompliz. Diagnose oder endoskopischer Einlage eines Magenballons oder Alter < 16 Jahre, mit äußerst schweren CC oder best. aufwendiger/hochaufw. Behandlung, mehr als ein Belegungstag |
-| K62B | Verschiedene Stoffwechselerkrankungen bei Para-/Tetrapleg. oder mit kompliz. Diagnose oder endoskop. Einlage eines Magenballons oder Alter < 16 Jahre, ein Belegungstag od. ohne äußerst schwere CC od. ohne best. aufwendige/hochaufwendige Behandlung |
-| K62C | Verschiedene Stoffwechselerkrankungen außer bei Para-/Tetraplegie, ohne kompliz. Diagnose, ohne endoskopische Einlage eines Magenballons, ohne äußerst schwere CC oder ein Belegungstag, ohne best. aufwendige/hochaufwendige Behandlung, Alter > 15 Jahre |
+| K62A | Verschiedene Stoffwechselerkrankungen bei Para- / Tetrapleg. oder mit kompliz. Diagnose oder endoskopischer Einlage eines Magenballons oder Alter < 16 Jahre, mit äußerst schweren CC oder best. aufwendiger / hochaufw. Behandlung, mehr als ein Belegungstag |
+| K62B | Verschiedene Stoffwechselerkrankungen bei Para- / Tetrapleg. oder mit kompliz. Diagnose oder endoskop. Einlage eines Magenballons oder Alter < 16 Jahre, ein Belegungstag od. ohne äußerst schwere CC od. ohne best. aufwendige / hochaufwendige Behandlung |
+| K62C | Verschiedene Stoffwechselerkrankungen außer bei Para- / Tetraplegie, ohne kompliz. Diagnose, ohne endoskopische Einlage eines Magenballons, ohne äußerst schwere CC oder ein Belegungstag, ohne best. aufwendige / hochaufwendige Behandlung, Alter > 15 Jahre |
 | K64A | Endokrinopathien mit komplexer Diagnose und äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
-| K64C | Endokrinopathien mit komplexer Diagnose oder äußerst schweren CC, Alter > 5 Jahre oder mit bestimmter komplexer Diagnose oder mit invasiver endokrinologischer Diagnostik oder Alter < 18 Jahre bei bösartiger Neubildung |
-| K64D | Endokrinopathien ohne komplexe Diagnose, ohne bestimmte Diagnose, ohne äußerst schwere CC, ohne invasive endokrinologische Diagnostik, Alter > 17 Jahre oder außer bei bösartiger Neubildung |
+| K64C | Endokrinopathien mit komplexer Diagnose oder äußerst schweren CC, Alter > 5 Jahre oder mit bestimmter komplexer Diagnose oder mit invasiver endokrinologischer Diagnostik oder Alter < 18 Jahre bei bösartiger Neubildung oder Alter < 1 Jahr |
+| K64D | Endokrinopathien ohne komplexe Diagnose, ohne bestimmte Diagnose, ohne äußerst schwere CC, ohne invasive endokrinologische Diagnostik, Alter > 17 Jahre oder außer bei bösartiger Neubildung, Alter > 0 Jahre |
 | K77Z | Komplexbehandlung bei isolationspflichtigen Erregern bei endokrinen, Ernährungs- und Stoffwechselkrankheiten |
 | L36B | Intensivmedizinische Komplexbehandlung > - / - / 552 Aufwandspunkte bei Krankheiten und Störungen der Harnorgane |
 | L60A | Niereninsuffizienz, mehr als ein Belegungstag, mit intensivmedizinischer Komplexbehandlung > 392 / 368 / - Aufwandspunkte oder mit Dialyse und akutem Nierenversagen und äußerst schweren CC oder mit Dialyse und komplizierenden Faktoren, Alter < 16 Jahre |
-| L60B | Niereninsuffizienz, mehr als ein Belegungstag, mit Dialyse und komplizierenden Faktoren oder äußerst schweren CC, Alter > 15 Jahre |
-| L60C | Niereninsuffizienz, mehr als ein Belegungstag, mit Dialyse oder äußerst schweren CC oder Alter < 18 Jahre mit schweren CC oder mit intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
+| L60B | Niereninsuffizienz, mehr als ein Belegungstag, mit Dialyse und komplizierenden Faktoren oder äußerst schweren CC oder mit intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte, Alter > 15 Jahre |
+| L60C | Niereninsuffizienz, mehr als ein Belegungstag, mit Dialyse oder äußerst schweren CC oder Alter < 18 Jahre mit schweren CC, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | L60D | Niereninsuffizienz, mehr als ein Belegungstag, ohne Dialyse, ohne äußerst schwere CC, Alter > 17 Jahre oder ohne schwere CC, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | L63A | Infektionen der Harnorgane mit bestimmter hochaufwendiger Behandlung oder mit äußerst schweren CC, mit Komplexbehandlung bei isolationspflichtigen Erregern |
 | L63B | Infektionen der Harnorgane ohne bestimmte hochaufwendige Behandlung, mit best. aufwendiger Behandlung od. mit äußerst schweren CC, ohne Komplexbeh. bei isolationspfl. Erregern oder mit Komplexbeh. bei isolationspfl. Erregern, ohne äußerst schwere CC |
-| L63D | Infektionen der Harnorgane oh. äuß. schwere CC, oh. best. mäßig aufwendige/aufwendige/hochaufw. Behandl., oh. Komplexbeh. b. isolationspfl. Erregern, oh. best. schw. Infektionen, Alter > 2 J. u. < 6 J. od. Alter < 18 J. mit schw. CC od. Alter > 89 J. |
-| L63E | Infektionen der Harnorgane ohne äußerst schwere CC, ohne best. mäßig aufw./aufw./hochaufw. Behandlung, ohne Komplexbeh. b. isolationspfl. Erregern, ohne best. schw. Infektionen, Alter > 5 und < 18 Jahre, ohne schwere CC od. Alter > 17 und < 90 Jahre |
+| L63D | Infektionen der Harnorgane oh. äuß. schwere CC, oh. best. mäßig aufwendige / aufwendige / hochaufw. Behandl., oh. Komplexbeh. b. isolationspfl. Erregern, oh. best. schw. Infektionen, Alter> 2 J. u. < 6 J. od. Alter < 18 J. mit schw. CC od. Alter > 89 J. |
+| L63E | Infektionen der Harnorgane ohne äußerst schwere CC, ohne best. mäßig aufw. / aufw. / hochaufw. Behandlung, ohne Komplexbeh. b. isolationspfl. Erregern, ohne best. schw. Infektionen, Alter > 5 und < 18 Jahre, ohne schwere CC od. Alter > 17 und < 90 Jahre |
 | L69B | Andere schwere Erkrankungen der Harnorgane, mehr als ein Belegungstag, Alter > 15 Jahre |
 | L70B | Krankheiten und Störungen der Harnorgane, ein Belegungstag, Alter > 5 Jahre |
 | Q61A | Andere Erkrankungen der Erythrozyten mit äußerst schweren CC |
 | Q61B | Andere Erkrankungen der Erythrozyten, ohne äußerst schwere CC |
 | Q62Z | Andere Anämie |
-| Q63B | Aplastische Anämie, Alter > 15 Jahre |
+| Q63B | Aplastische Anämie, Alter > 15 Jahre, ohne paroxysmale nächtliche Hämoglobinurie |
 | R60E | Akute myeloische Leukämie mit mäßig komplexer Chemoth., ohne komplizierende Diagnose, ohne Dialyse, ohne Portimpl., ohne äußerst schwere CC od. mit lokaler Chemoth. od. mit Komplexbeh. bei multiresistenten Erregern od. mit kompl. Diagnostik bei Leukämie |
 | R60F | Akute myeloische Leukämie ohne Chemotherapie, ohne Dialyse, ohne äußerst schwere CC, ohne Komplexbehandlung bei multiresistenten Erregern, ohne komplexe Diagnostik bei Leukämie |
 | R61D | Lymphom u. nicht akute Leukämie m. Agranuloz., Portimpl., Komplbeh. b. isolat.pfl. Erregern od. kompl. Diag. b. Leuk., > 15 J., m. intens. Chemo od. < 18 J. od. m. äuß. schw. CC od. Tumorlyse-Syndr. od. Blastenkr., oh. kompl. Diag. b. Leuk., oh. schw. CC |
 | R61E | Lymphom und nicht akute Leukämie ohne Sepsis, ohne komplizierende Konstellation, mit Agranulozytose od. Portimpl. od. Komplbeh. b. isolat.pflicht. Erregern od. komplexe Diagnostik b. Leukämie, oh. äußerst schw. CC, Alter > 17 J., oh. intensive Chemoth. |
 | R61G | Lymphom und nicht akute Leukämie oh. best. kompliz. Faktoren, oh. äuß. schw. CC, Alter < 16 J. od. mit kompl. Diag. od. kompliz. Prozedur, Alter > 15 J., oh. best. Lymphom m. best. Chemoth., oh. kompl. Diagnose, oh. and. Komplbeh. b. isolat.pfl. Erregern |
 | R61H | Lymphom und nicht akute Leukämie ohne bestimmte komplizierende Faktoren, ohne äußerst schwere CC, ohne komplexe Diagnose, ohne komplizierende Prozedur, Alter > 15 Jahre |
-| R62B | Andere hämatologische und solide Neubildungen ohne kompliz. Diagnose, ohne Dialyse, ohne Portimplantation, mit Knochenaffektionen oder bestimmten Metastasen oder äußerst schweren CC oder Alter < 1 Jahr, ohne komplexe Diagnose, ohne kompliz. Konstellation |
-| R62C | Andere hämatologische und solide Neubildungen ohne komplizierende Diagnose, ohne Dialyse, ohne Portimplantation, ohne Knochenaffektionen, ohne bestimmte Metastasen, ohne äußerst schwere CC, Alter > 0 Jahre |
+| R62B | Andere hämatologische und solide Neubildungen ohne kompliz. Diagnose, ohne Portimplantation, mit Knochenaffektionen oder bestimmten Metastasen oder äußerst schweren CC oder Dialyse oder Alter < 1 Jahr, ohne komplexe Diagnose, ohne kompliz. Konstellation |
+| R62C | Andere hämatologische und solide Neubildungen ohne komplizierende Diagnose, ohne Portimplantation, ohne Knochenaffektionen, ohne bestimmte Metastasen, ohne äußerst schwere CC, ohne Dialyse, Alter > 0 Jahre |
 | R65Z | Hämatologische und solide Neubildungen, ein Belegungstag |
 | R77Z | Komplexbehandlung bei isolationspflichtigen Erregern bei bestimmten hämatologischen und soliden Neubildungen |
 | S60Z | HIV-Krankheit, ein Belegungstag |
@@ -487,15 +486,15 @@ Innere Medizin
 | S65A | Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit mit Herzinfarkt oder bei chronisch ischämischer Herzkrankheit oder äußerst schweren CC |
 | S65B | Andere Erkrankungen bei HIV-Krankheit oder andere HIV-Krankheit ohne Herzinfarkt, außer bei chronisch ischämischer Herzkrankheit, ohne äußerst schwere CC |
 | T60A | Sepsis mit komplizierender Konstellation oder bei Zustand nach Organtransplantation, mit äußerst schweren CC oder intensivmedizinische Komplexbehandlung > 392 / 368 / - Aufwandspunkte |
-| T60B | Sepsis mit komplizierender Konstellation oder bei Z. n. Organtransplantation oder mit komplexer Diagnose oder äuß. schw. CC, Alter < 18 J. oder mit Para-/Tetraplegie oder mit bestimmter ERCP oder mit schwersten CC oder mit IntK > 196 / 184 / 368 Punkte |
-| T60C | Sepsis mit komplizierender Konstellation oder bei Z. n. Organtransplantation oder mit komplexer Diagnose oder äußerst schweren CC, Alter > 17 Jahre, ohne Para-/Tetraplegie, ohne bestimmte ERCP, ohne schwerste CC oder mit IntK > 196 / 184 / 368 Punkte |
+| T60B | Sepsis mit komplizierender Konstellation oder bei Z. n. Organtransplantation oder mit komplexer Diagnose oder äuß. schw. CC, Alter < 18 J. oder mit Para- / Tetraplegie oder mit bestimmter ERCP oder mit schwersten CC oder mit IntK > 196 / 184 / 368 Punkte |
+| T60C | Sepsis mit komplizierender Konstellation oder bei Z. n. Organtransplantation oder mit komplexer Diagnose oder äußerst schweren CC, Alter > 17 Jahre, ohne Para- / Tetraplegie, ohne bestimmte ERCP, ohne schwerste CC oder mit IntK > 196 / 184 / 368 Punkte |
 | T60D | Sepsis mit anderer komplizierender Konstellation, außer bei Z. n. Organtransplantation, ohne komplexe Diagnose, ohne äußerst schwere CC, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / 368 Aufwandspunkte oder Alter < 10 Jahre |
 | T60E | Sepsis ohne komplizierende Konstellation, außer bei Zustand nach Organtransplantation, ohne komplexe Diagnose, ohne äußerst schwere CC, Alter > 9 Jahre, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte, mehr als ein Belegungstag |
-| T60F | Sepsis, verstorben < 5 Tage nach Aufnahme, ohne intensivmedizinische Komplexbehandlung > 196/ 184 / - Aufwandspunkte |
+| T60F | Sepsis, verstorben < 5 Tage nach Aufnahme, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | T60G | Sepsis ohne komplizierende Konstellation, außer bei Zustand nach Organtransplantation, ohne komplexe Diagnose, ohne äußerst schwere CC, Alter > 9 Jahre, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte, ein Belegungstag |
 | T62A | Fieber unbekannter Ursache mit äußerst schweren oder schweren CC, Alter > 5 Jahre |
 | T62B | Fieber unbekannter Ursache ohne äußerst schwere oder schwere CC oder Alter < 6 Jahre |
-| T63B | Schwere virale Erkrankung, außer bei Zustand nach Organtransplantation, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
+| T63B | Schwere virale Erkrankung, außer bei Zustand nach Organtransplantation, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte, Alter > 13 Jahre oder ohne komplexe Diagnose |
 | T64C | Andere infektiöse und parasitäre Krankheiten mit komplexer Diagnose, Alter > 15 Jahre, ein Belegungstag oder ohne komplexe Diagnose, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | T77Z | Komplexbehandlung bei isolationspflichtigen Erregern bei infektiösen und parasitären Krankheiten |
 | U60B | Psychiatrische Behandlung, ein Belegungstag, Alter > 15 Jahre |
@@ -509,19 +508,18 @@ Innere Medizin
 | X64Z | Andere Krankheit verursacht durch Verletzung, Vergiftung oder toxische Wirkung |
 | Z01C | OR-Prozeduren bei anderen Zuständen, die zur Inanspruchnahme des Gesundheitswesens führen ohne komplexen Eingriff, ohne komplizierende Konstellation, ohne bestimmten Eingriff |
 | Z65Z | Beschwerden, Symptome, andere Anomalien und Nachbehandlung |
-Kardiologie
-| DRG 2022 | DRG-Bezeichnung |
+| Kardiologie |
 | B12Z | Implantation eines Herzschrittmachers bei Krankheiten und Störungen des Nervensystems oder perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen |
-| F01A | Implantation Kardioverter/Defibrillator (AICD), Dreikammer-Stim. od. Defibrillator mit subk. Elektrode od. intrak. Pulsgen. mit kompliz. Fakt. od. myokardstim. Sys. od. aufwendige Sondenentf. mit kompliz. Fakt. od. Zweikammer-Stim. mit kompliz. Fakt. |
-| F01B | Implantation Kardioverter/Defibrillator (AICD), Zweikammer-Stimulation mit komplizierenden Faktoren oder neurologische Komplexbehandlung des akuten Schlaganfalls mehr als 24 Stunden mit komplizierenden Faktoren |
-| F01C | Implantation Kardioverter/Defibrillator (AICD), Dreikammer-Stimulation oder Defibrillator mit subkutaner Elektrode oder intrakardialer Pulsgenerator, ohne komplizierende Faktoren oder Implantation eines Drucksensors in die Pulmonalarterie |
-| F01D | Implantation Kardioverter/Defibrillator (AICD), Zwei- oder Einkammer-Stim. mit äußerst schweren CC oder Einkammer-Stim. mit zusätzlichem Herz- oder Gefäßeingriff oder mit IntK > 392 / 368 / - AP oder best. Sondenentfernung oder Alter < 18 Jahre |
-| F01E | Impl. Kardioverter/Defibrillator (AICD), Zweikammer-Stimulation od. aufwendige Sondenentfernung od. Aggregatwechsel S-ICD ohne Änderung der Sonde, ohne Impl. Drucksens. in Pulmonalarterie, ohne Impl. eines intrakardialen Pulsgenerators, Alter > 17 J. |
-| F01F | Impl. Kardioverter/Defibrillator (AICD), Einkammer-Stimulation, ohne zusätzl. Herz- od. Gefäßeingriff, ohne IntK > 392 / 368 / - P., ohne äuß. schw. CC, ohne aufw. Sondenentf., ohne Impl. Drucksens. in Pulmonalart., ohne Impl. Pulsgen., Alter > 17 J. |
-| F02A | Aggregatwechsel eines Kardioverters/Defibrillators (AICD), Zwei- oder Dreikammer-Stimulation |
-| F02B | Aggregatwechsel eines Kardioverters/Defibrillators (AICD), Einkammer-Stimulation |
-| F09B | Andere kardiothorakale Eingriffe, Alter > 15 Jahre, ohne komplizierende Konstellation, ohne Exzision am Vorhof, mit mäßig komplexen kardiothorakalen Eingriffen mit äußerst schweren CC oder bestimmtem kardiologischem Eingriff |
-| F09C | Andere kardiothorakale Eingriffe, Alter > 15 Jahre, ohne komplizierende Konstellation, ohne Exzision am Vorhof, ohne äußerst schwere CC oder ohne mäßig komplexe kardiothorakale Eingriffe, ohne bestimmten kardiologischen Eingriff |
+| F01A | Implantation Kardioverter / Defibrillator (AICD), Dreikammer-Stim. od. Defibrillator mit subk. Elektrode od. intrak. Pulsgen. mit kompliz. Fakt. od. myokardstim. Sys. od. aufwendige Sondenentf. mit kompliz. Fakt. od. Zweikammer-Stim. mit kompliz. Fakt. |
+| F01B | Implantation Kardioverter / Defibrillator (AICD), Zweikammer-Stimulation mit komplizierenden Faktoren oder neurologische Komplexbehandlung des akuten Schlaganfalls mehr als 24 Stunden mit komplizierenden Faktoren |
+| F01C | Implantation Kardioverter / Defibrillator (AICD), Dreikammer-Stimulation oder Defibrillator oder intrakardialer Pulsgenerator, ohne komplizierende Faktoren oder Implantation eines Drucksensors in die Pulmonalarterie |
+| F01D | Implantation Kardioverter / Defibrillator (AICD), Zwei- oder Einkammer-Stim. mit äußerst schweren CC oder Einkammer-Stim. mit zusätzlichem Herz- oder Gefäßeingriff oder mit IntK > 392 / 368 / - AP oder best. Sondenentfernung oder Alter < 18 Jahre |
+| F01E | Implantation Kardioverter / Defibrillator (AICD), Zweikammer-Stimulation oder aufwendige Sondenentfernung, ohne Implantation eines Drucksensors in Pulmonalarterie, ohne Implantation eines intrakardialen Pulsgenerators, Alter > 17 Jahre |
+| F01F | Impl. Kardioverter / Defibrillator (AICD), Einkammer-Stimulation, ohne zusätzl. Herz- od. Gefäßeingriff, ohne IntK > 392 / 368 / - P., ohne äuß. schw. CC, ohne aufw. Sondenentf., ohne Impl. Drucksens. in Pulmonalart., ohne Impl. Pulsgen., Alter > 17 J. |
+| F02A | Aggregatwechsel eines Kardioverters / Defibrillators (AICD), Zwei- oder Dreikammer-Stimulation |
+| F02B | Aggregatwechsel eines Kardioverters / Defibrillators (AICD), Einkammer-Stimulation |
+| F09B | Andere kardiothorakale Eingriffe, Alter > 15 Jahre, ohne kompl. Konst., ohne Exzision am Vorhof, mit mäßig kompl. kardiothorakalen Eingriffe. mit äußerst schweren CC oder best. kardiothorakalem Eingriff oder best. Perikardektomie bei chron. Perikarditis |
+| F09C | Andere kardiothorakale Eingriffe, Alter > 15 Jahre, ohne kompl. Konst., ohne Exzision am Vorhof, ohne äußerst schwere CC oder ohne mäßig kompl. kardiothorakale Eingr., ohne best. kardiothorakalen Eingr., ohne best. Perikardektomie bei chron. Perikarditis |
 | F12A | Implantation eines Herzschrittmachers, Dreikammersystem mit äuß. schw. CC oder ablativ. Maßnahmen oder PTCA oder mit aufwendiger Sondenentfernung mit kompliz. Faktoren oder mit Revision eines Herzschrittm. oder AICD ohne Aggregatw. mit kompliz. Faktoren |
 | F12B | Implantation eines Herzschrittmachers, Dreikammersystem ohne äußerst schwere CC, ohne ablative Maßnahme, ohne PTCA oder Implantation eines Herzschrittmachers ohne aufwendige Sondenentfernung mit komplizierenden Faktoren |
 | F12C | Implantation eines Herzschrittmachers, Zweikammersystem, mit komplexem Eingriff oder Alter < 16 Jahre |
@@ -531,12 +529,12 @@ Kardiologie
 | F15Z | Perkutane Koronarangioplastie mit komplizierender Konstellation oder komplexer Diagn. u. hochkompl. Intervention od. m. best. Rekanalisationsverf., Alt. < 16 J. od. inv. kardiolog. Diagnostik, m. kompliz. Konst. od. Endokarditis, mehr als 2 Belegungstage |
 | F17A | Wechsel eines Herzschrittmachers, Dreikammersystem oder Alter < 16 Jahre |
 | F17B | Wechsel eines Herzschrittmachers, Einkammer- oder Zweikammersystem, Alter > 15 Jahre |
-| F18A | Revision eines Herzschrittmachers oder Kardioverters/Defibrillators (AICD) ohne Aggregatwechsel, Alter < 16 Jahre oder mit äußerst schweren CC, mit komplexem Eingriff oder mit aufwendiger Sondenentfernung |
-| F18B | Revision Herzschrittmacher od. Kardioverter/Defibrillator (AICD) oh. Aggregatw., Alt. < 16 J. od. mit äuß. schw. CC, oh. kompl. Eingr., oh. aufwend. Sondenentf. od. Alt. > 15 J., oh. äuß. schw. CC mit kompl. Eingr., mit intralum. exp. Extraktionshilfe |
-| F18C | Revision eines Herzschrittmachers oder Kardioverters/Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, mit komplexem Eingriff, ohne intraluminale expandierende Extraktionshilfe |
-| F18D | Revision eines Herzschrittmachers oder Kardioverters/Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, ohne komplexen Eingriff |
+| F18A | Revision eines Herzschrittmachers oder Kardioverters / Defibrillators (AICD) ohne Aggregatwechsel, Alter < 16 Jahre oder mit äußerst schweren CC, mit komplexem Eingriff oder mit aufwendiger Sondenentfernung |
+| F18B | Revision Herzschrittmacher od. Kardioverter / Defibrillator (AICD) oh. Aggregatw., Alt. < 16 J. od. mit äuß. schw. CC, oh. kompl. Eingr., oh. aufwend. Sondenentf. od. Alt. > 15 J., oh. äuß. schw. CC mit kompl. Eingr., mit intralum. exp. Extraktionshilfe |
+| F18C | Revision eines Herzschrittmachers oder Kardioverters / Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, mit komplexem Eingriff, ohne intraluminale expandierende Extraktionshilfe |
+| F18D | Revision eines Herzschrittmachers oder Kardioverters / Defibrillators (AICD) ohne Aggregatwechsel, Alter > 15 Jahre, ohne äußerst schwere CC, ohne aufwendige Sondenentfernung, ohne komplexen Eingriff |
 | F19A | Andere transluminale Intervention an Herz, Aorta und Lungengefäßen mit äußerst schweren CC |
-| F19B | Andere transluminale Intervention an Herz, Aorta und Lungengefäßen ohne äußerst schwere CC |
+| F19B | Andere transluminale Intervention an Herz, Aorta und Lungengefäßen ohne äußerst schwere CC oder Radiofrequenzablation über A. renalis oder komplexe koronare Lithoplastie |
 | F24A | Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer Intervention oder mit bestimmten Rekanalisationsverfahren, Alter > 15 Jahre, mit äußerst schweren CC |
 | F24B | Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer Intervention oder mit bestimmten Rekanalisationsverfahren, Alter > 15 Jahre, ohne äußerst schwere CC |
 | F37Z | Längerer stationärer Aufenthalt vor Transplantation bei hoher Dringlichkeitsstufe bei Krankheiten und Störungen des Kreislaufsystems |
@@ -544,20 +542,20 @@ Kardiologie
 | F41B | Invasive kardiologische Diagnostik bei akutem Myokardinfarkt ohne äußerst schwere CC |
 | F43A | Beatmung > 24 Stunden bei Krankheiten und Störungen des Kreislaufsystems, Alter < 6 Jahre oder intensivmedizinische Komplexbehandlung > 392 / 552 / 552 Aufwandspunkte oder best. Impl. herzunterst. System |
 | F43B | Beatmung > 24 Stunden bei Krankheiten und Störungen des Kreislaufsystems oh. IntK > 392 / 552 / 552 Pkte, Alter > 5 J. und Alter < 16 J. od. mit kompl. Konstell. od. best. OR-Prozedur od. IntK > - / 368 / - Punkte, ohne best. Impl. herzunterst. System |
-| F43C | Beatmung > 24 Stunden bei Krankheiten und Störungen des Kreislaufsystems, Alter > 15 ., ohne intensivmed. Komplexbehandlung> 392 / 368 / 552 Aufwandspunkte, ohne komplizierende Konstellation, ohne best. OR-Prozedur, ohne best. Impl. herzunterst. System |
+| F43C | Beatmung > 24 Stunden bei Krankheiten und Störungen des Kreislaufsystems, Alter > 15 J., ohne intensivmed. Komplexbehandlung > 392 / 368 / 552 Aufwandspunkte, ohne komplizierende Konstellation, ohne best. OR-Prozedur, ohne best. Impl. herzunterst. System |
 | F49A | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, mit äußerst schweren CC oder IntK > 196 / 184 / 368 Aufwandspunkten, mit komplexem Eingriff oder Alter < 10 Jahre |
 | F49B | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, mit äußerst schweren CC oder IntK > 196 / 184 / 368 Aufwandspunkten, ohne komplexen Eingriff, Alter > 9 Jahre |
 | F49D | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, mit schweren CC, mehr als ein Belegungstag |
-| F49E | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne schwere CC bei BT > 1, mit kardialem Mapping oder bestimmter komplexer Diagnose |
-| F49F | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne kardiales Mapping, ohne schwere CC bei BT > 1, ohne best. kompl. Diagnose, mit best. Eingr. |
-| F49G | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne kardiales Mapping, ohne schwere CC bei BT > 1, ohne komplexe Diagnose, ohne best. Eingriff |
-| F50A | Ablative Maßnahmen bei Herzrhythmusstörungen mit hochkomplexer Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen oder Implantation eines Ereignisrekorders oder Alter < 16 Jahre |
-| F50B | Ablative Maßnahmen bei Herzrhythmusstörungen ohne hochkomplexe Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen, ohne Implantation eines Ereignisrekorders, mit komplexer Ablation, Alter > 15 Jahre |
-| F50C | Ablative Maßnahmen bei Herzrhythmusstörungen ohne hochkomplexe Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen, ohne Implantation eines Ereignisrekorders, ohne komplexe Ablation, Alter > 15 Jahre |
+| F49E | Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne IntK > 196 / 184 / 368 Aufwandspunkte, Alter > 17 Jahre, ohne schwere CC bei BT > 1, mit kardialem Mapping oder best. andere kardiologische Diagnostik oder best. komplexer Diagnose |
+| F49F | Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o. äußerst schwere CC, ohne IntK > 196 / 184 / 368 P., Alter > 17 J., o. kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT > 1, o. best. kompl. Diagnose, mit best. Eingr. |
+| F49G | Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o. äußerst schwere CC, ohne IntK > 196 / 184 / 368 P., Alter > 17 J., o. kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT > 1, o. best. kompl. Diagnose, ohne best. Eingr. |
+| F50A | Ablative Maßnahmen bei Herzrhythmusstörungen mit hochkomplexer Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen oder Implantation eines Ereignisrekorders oder Alter < 16 Jahre oder best. angeb. Herzfehler oder mit kompl. Ablation, Alter < 18 Jahre |
+| F50B | Ablative Maßnahmen bei Herzrhythmusstörungen ohne hochkomplexe Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen, ohne Implantation eines Ereignisrekorders, ohne best. angeb. Herzfehler, mit komplexer Ablation, Alter > 17 Jahre |
+| F50C | Ablative Maßnahmen bei Herzrhythmusstörungen ohne hochkomplexe Ablation im linken Vorhof, Ventrikel oder Pulmonalvenen, ohne Implantation eines Ereignisrekorders, ohne best. angeb. Herzfehler, ohne komplexe Ablation, Alter > 15 Jahre |
 | F52A | Perkutane Koronarangioplastie mit komplexer Diagnose, mit äußerst schweren CC |
 | F52B | Perkutane Koronarangioplastie mit komplexer Diagnose, ohne äußerst schwere CC oder mit intrakoronarer Brachytherapie oder bestimmte Intervention |
 | F56A | Perkutane Koronarangioplastie mit bestimmter hochkomplexer Intervention, mit äußerst schweren CC |
-| F56B | Perkutane Koronarangioplastie mit hochkomplexer Intervention, ohne bestimmte hochkomplexe Intervention oder ohne äußerst schwere CC oder Kryoplastie |
+| F56B | Perkutane Koronarangioplastie mit hochkomplexer Intervention, ohne bestimmte hochkomplexe Intervention oder ohne äußerst schwere CC oder Kryoplastie oder koronare Lithoplastie |
 | F58A | Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik mit Gefäßeingriff, mit äußerst schweren CC |
 | F58B | Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik mit Gefäßeingriff, ohne äußerst schwere CC |
 | F60A | Akuter Myokardinfarkt ohne invasive kardiologische Diagnostik mit äußerst schweren CC |
@@ -580,14 +578,12 @@ Kardiologie
 | F72A | Angina pectoris mit äußerst schweren CC |
 | F72B | Angina pectoris ohne äußerst schwere CC |
 | F74Z | Thoraxschmerz und sonstige und nicht näher bezeichnete Krankheiten des Kreislaufsystems |
-| F75C | Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder ein Belegungstag, Alter > 9 Jahre und Alter < 16 Jahre, ohne schwere CC oder Alter > 15, bei bestimmter kardiovaskulärer Erkrankung |
-| F75D | Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder ein Belegungstag, Alter > 9 Jahre und Alter < 16 Jahre, ohne schwere CC oder Alter > 15, ohne bestimmte kardiovaskuläre Erkrankung |
-| F95A | Interventioneller Septumverschluss, Alter < 18 Jahre oder Vorhofohrverschluss |
-| F95B | Interventioneller Septumverschluss, Alter > 17 Jahre, ohne Vorhofohrverschluss |
+| F75C | Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder ein Belegungstag, Alter > 9 Jahre und Alter < 16 Jahre, ohne schwere CC oder Alter > 15 |
+| F95A | Interventioneller Septumverschluss oder Verschluss einer paravalvulären Leckage mit einem kardialen Okkluder, Alter < 18 Jahre oder Vorhofohrverschluss |
+| F95B | Interventioneller Septumverschluss oder Verschluss einer paravalvulären Leckage mit einem kardialen Okkluder, Alter > 17 Jahre, ohne Vorhofohrverschluss |
 | F98B | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, ohne hochkomplexen Eingriff, ohne komplexe Diagnose, Alter > 29 Jahre, ohne Implantation eines Wachstumsstents, mit sehr komplexem Eingriff |
 | F98C | Komplexe minimalinvasive Operationen an Herzklappen ohne minimalinvasiven Eingriff an mehreren Herzklappen, ohne hochkomplexen Eingriff, ohne komplexe Diagnose, Alter > 29 Jahre, ohne Implantation eines Wachstumsstents, ohne sehr komplexen Eingriff |
-Neonatologische Pädiatrie
-| DRG 2022 | DRG-Bezeichnung |
+| Neonatologische Pädiatrie |
 | P01Z | Neugeborenes, verstorben < 5 Tage nach Aufnahme mit signifikanter OR-Prozedur |
 | P02A | Kardiothorakale oder Gefäßeingriffe mit Beatmung > 480 Stunden oder bestimmte Eingriffe bei angeborenen Fehlbildungen mit Beatmung > 899 Stunden |
 | P02B | Kardiothorakale oder Gefäßeingriffe bei Neugeborenen, Beatmung > 180 und < 481 Stunden oder bestimmte Eingriffe bei angeborenen Fehlbildungen, Beatmung > 180 und < 900 Stunden oder Eingriff bei univentrikulärem Herzen, Beatmung < 481 Stunden |
@@ -595,7 +591,7 @@ Neonatologische Pädiatrie
 | P03A | Aufnahmegewicht 1000 – 1499 g, mehrere schwere Probleme mit signifikanter OR-Prozedur oder mehrzeitige komplexe OR-Prozeduren, mit Beatmung > 479 Stunden oder mehrere schwere Probleme ohne signifikante OR-Prozedur mit Beatmung > 599 Stunden |
 | P03B | Aufnahmegewicht 1000 – 1499 g mit sig. OR-Prozedur oder Beat. > 120 Std., oh. Beat. > 599 Std. oder oh. mehrere schwere Probleme, oh. Beat. > 479 Std. oder oh. mehrere schwere Probleme oder oh. sig. OR-Prozedur oder oh. mehrzeitige komplexe OR-Prozedur |
 | P04A | Aufnahmegewicht 1500 – 1999 g, mehrere schwere Probleme mit sig. OR-Prozedur oder mehrz. kompl. OR-Prozeduren, mit Beatmung > 240 Std. oder mehrere schwere Probleme mit Beatmung > 320 Std. oder temporärer Verschluss eines Bauchwanddefektes |
-| P04B | Aufnahmegew. 1500 – 1999 g, sig. OR-Proz. od. Beat. > 120 Std., oh. meh. schw. Probl. od. oh. Beat. > 320 Std., oh. mehrz. kompl. OR-Proz. od. oh. Beat.> 240 Std., oh. sig. OR-Proz. od. oh. Beat.> 240 Std., oh. temp. Verschluss BW-Defekt |
+| P04B | Aufnahmegew. 1500 – 1999 g, sig. OR-Proz. od. Beat. > 120 Std., oh. meh. schw. Probl. od. oh. Beat. > 320 Std., oh. mehrz. kompl. OR-Proz. od. oh. Beat. > 240 Std., oh. sig. OR-Proz. od. oh. Beat. > 240 Std., oh. temp. Verschluss BW-Defekt |
 | P05A | Aufnahmegewicht 2000 – 2499 g mit sig. OR-Prozedur oder Beatmung > 95 Stunden, mit mehreren schweren Problemen oder temporärem Verschluss eines Bauchwanddefektes, mit Beatmung > 275 Stunden oder mit mehrzeitigen komplexen OR-Prozeduren |
 | P05B | Aufnahmegewicht 2000 – 2499 g mit signifikanter OR-Prozedur oder Beatmung > 95 Stunden, mit mehreren schweren Problemen oder temporärem Verschluss eines Bauchwanddefektes, ohne Beatmung > 275 Stunden, ohne mehrzeitige komplexe OR-Prozeduren |
 | P05C | Aufnahmegewicht 2000 – 2499 g mit signifikanter OR-Prozedur oder Beatmung > 95 Stunden, ohne mehrere schwere Probleme, ohne mehrzeitige komplexe OR-Prozeduren, ohne temporären Verschluss eines Bauchwanddefektes |
@@ -604,7 +600,7 @@ Neonatologische Pädiatrie
 | P06C | Neugeborenes, Aufnahmegewicht > 2499 g mit signifikanter OR-Prozedur oder Beatmung > 95 Stunden, ohne mehrere schwere Probleme oder ohne sig. OR-Prozedur oder ohne Beatmung > 120 Std., ohne bestimmte aufwendige OR-Prozeduren |
 | P60A | Neugeborenes, verstorben < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur |
 | P60B | Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, zuverlegt oder Beatmung > 24 Stunden |
-| P60C | Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt stattfindet) |
+| P60C | Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden |
 | P61A | Neugeborenes, Aufnahmegewicht < 600 g mit signifikanter OR-Prozedur |
 | P61B | Neugeborenes, Aufnahmegewicht < 600 g ohne signifikante OR-Prozedur |
 | P61C | Neugeborenes, Aufnahmegewicht 600 – 749 g mit signifikanter OR-Prozedur |
@@ -626,11 +622,43 @@ Neonatologische Pädiatrie
 | P66D | Aufnahmegewicht 2000 – 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem |
 | P67A | Neugeborenes, Aufnahmegewicht > 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, mit mehreren schweren Problemen oder mit Hypothermiebehandlung oder Krampfanfall mit bestimmten diagnostischen Maßnahmen oder Beatmung > 24 Stunden |
 | P67B | Neugeborenes, Aufnahmegew. > 2499 g mit schw. Prob., oh. Hypothermiebeh., oh. Krampfanfall mit best. diag. Maßnah., oh. Beatmung > 24 Std. od. mit anderem Prob., mehr als ein Belegungstag, neugeb. Mehrling od. mit bestimmter aufwendiger Prozedur |
-| P67C | Neugeborenes, Aufnahmegew. > 2499 g oh. sig. OR-Proz., oh. Beatmung> 95 Std., ohne schw. Prob., anderes Problem und mehr als ein Belegungstag oder nicht signifikante OR-Prozedur, ohne Mehrling, ohne bestimmte aufwendige Prozeduren |
+| P67C | Neugeborenes, Aufnahmegew. > 2499 g oh. sig. OR-Proz., oh. Beatmung > 95 Std., ohne schw. Prob., anderes Problem und mehr als ein Belegungstag oder nicht signifikante OR-Prozedur, ohne Mehrling, ohne bestimmte aufwendige Prozeduren |
 | P67D | Neugeborenes, Aufnahmegewicht > 1999 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag, mit bestimmter Prozedur oder best. Diagnose beim Neugeborenen oder neugeborener Mehrling |
-Neurologie
-| DRG 2022 | DRG-Bezeichnung |
-| A07F | Beatmung > 999 Stunden ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, ohne komplexe Diagnose, ohne komplizierende Konstellation, ohne intensivmedizinische Komplexbehandlung > 392 / 184 / 368 Aufwandspunkte, ohne Beatmung > 1799 Stunden |
+| Neurochirurgie |
+| B01A | Mehrzeitige komplexe OR-Prozeduren bei Krankheiten und Störungen des Nervensystems, mit komplizierender Konstellation oder Alter < 18 Jahre |
+| B01B | Mehrzeitige komplexe OR-Prozeduren bei Krankheiten und Störungen des Nervensystems, ohne komplizierende Konstellation, Alter > 17 Jahre |
+| B02A | Komplexe Kraniotomie oder Wirbelsäulen-Operation bei Neubildung des Nervensystems oder intensivmedizinischer Komplexbehandlung > 392 / 368 / - Punkte, Alter < 6 Jahre mit Eingriff bei BNB oder Alter < 16 Jahre und mehrzeitige komplexe OR-Prozedur |
+| B02B | Komplexe Kraniotomie oder WS-OP, Bestr. an mind. 9 T. od. best. Eingr. bei BNB mit intraop. Monit., Alt. < 18 J. od. b. BNB od. IntK > 392 / 368 / - P., mit schwersten CC, Alt. > 15 J. od. oh. mehrz. kompl. OR-Proz. od. Alt. > 5 J. od. oh. Eingr. bei BNB |
+| B02C | Komplexe Kraniotomie oder WS-OP, mehr als 8 Bestr., Alter > 17 J. oder ohne best. Eingr. bei BNB mit intraop. Monit. od. bei NB des Nervensystems oder IntK > 392 / 368 / - P., Alter > 15 J. od. oh. mehrz. kompl. OR-Proz. od. Alt. > 5 J., oh. schwerste CC |
+| B02D | Komplexe Kraniotomie oder Wirbelsäulen-Operation, außer bei Neubildung, ohne intensivmedizinische Komplexbehandlung > 392 / 368 / - Aufwandspunkte, Alter < 6 Jahre oder mit bestimmtem Eingriff, Alter < 18 Jahre oder mit best. komplizierenden Faktoren |
+| B02E | Komplexe Kraniotomie oder Wirbelsäulen-Operation, ohne bestimmten komplexen Eingriff, Alter > 5 Jahre, ohne bestimmte komplizierende Faktoren |
+| B03Z | Bestimmte Eingriffe an Wirbelsäule und Rückenmark bei bösartiger Neubildung oder mit intraoperativem Monitoring oder Eingriffe bei zerebraler Lähmung, Muskeldystrophie, Neuropathie oder nicht akuter Para- / Tetraplegie mit äußerst schweren CC |
+| B13Z | Epilepsiechirurgie mit invasivem präoperativen Video-EEG |
+| B18A | Komplexe Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und Störungen des Nervensystems |
+| B18B | Bestimmte Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und Störungen des Nervensystems außer bei bösartiger Neubildung oder Revision eines Ventrikelshuntes oder operative Eingriffe bei nicht akuter Para- / Tetraplegie |
+| B18C | Andere Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und Störungen des Nervensystems außer bei bösartiger Neubildung |
+| B18D | Mäßig komplexe Eingriffe an Wirbelsäule und Rückenmark bei Krankheiten und Störungen des Nervensystems außer bei bösartiger Neubildung |
+| B19A | Implantation, Revision und Entfernung von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen des Nervensystems mit Implantation oder Wechsel eines Neurostimulators |
+| B19B | Implantation, Revision und Entfernung von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen des Nervensystems mit Implantation oder Wechsel eines permanenten oder temporären Elektrodensystems |
+| B19C | Implantation, Revision und Entfernung von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen des Nervensystems ohne Implantation oder Wechsel von Neurostimulatoren und Elektrodensystemen |
+| B20A | Kraniotomie oder große Wirbelsäulen-Operation mit bestimmter komplexer Prozedur, Alter < 18 Jahre oder mit komplizierenden Faktoren, Alter < 16 Jahre |
+| B20B | Kraniotomie oder große WS-Operation mit komplexer Prozedur, mit komplizierenden Faktoren, Alter > 15 Jahre oder Alter < 1 Jahr mit interventionellem oder großem intrakraniellen oder best. Eingriff oder mit kompl. Diagnose od. bei bösartiger Neubildung |
+| B20C | Kraniotomie oder große WS-Operation, Alter < 3 Jahre oder interventioneller Eingriff oder Alter < 18 Jahre mit großem intrakraniellen Eingriff oder mit kompl. Diagnose oder best. Eingriff, Alter < 16 J. od. bei bösartiger Neubildung, Alter > 0 Jahre |
+| B20D | Kraniotomie oder große WS-OP mit komplexer Prozedur oder ohne komplexe Prozedur, Alter > 2 Jahre, mit komplexer Diagnose oder bestimmtem Eingriff oder mit bestimmter Prozedur oder bei bösartiger Neubildung oder Alter < 16 Jahre |
+| B20E | Kraniotomie oder große Wirbelsäulen-Operation ohne komplexe Prozedur, Alter > 2 Jahre, ohne komplexe Diagnose, ohne bestimmten Eingriff, ohne bestimmte Prozedur, außer bei bösartiger Neubildung, Alter > 15 Jahre |
+| B21A | Implantation eines Neurostimulators zur Hirnstimulation, Mehrelektrodensystem, mit Sondenimplantation |
+| B21B | Implantation eines Neurostimulators zur Hirnstimulation, Mehrelektrodensystem, ohne Sondenimplantation |
+| B61A | Bestimmte akute Erkrankungen und Verletzungen des Rückenmarks mit komplexem Eingriff, weniger als 14 Belegungstage, wegverlegt |
+| I15A | Operationen am Hirn- und Gesichtsschädel, mit bestimmtem intrakraniellen Eingriff oder komplexem Eingriff an der Mandibula, Alter < 16 Jahre |
+| I15B | Operationen am Hirn- und Gesichtsschädel, ohne bestimmten intrakraniellen Eingriff, ohne bestimmten Eingriff an der Mandibula oder Alter > 15 Jahre |
+| I19A | Implantation und Wechsel von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe ohne Implantation oder Wechsel eines permanenten Elektrodensystems |
+| I19B | Implantation und Wechsel von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe mit Implantation oder Wechsel eines permanenten Elektrodensystems |
+| K03A | Eingriffe an der Nebenniere bei bösartiger Neubildung oder Eingriff an der Hypophyse, Alter < 18 Jahre oder bestimmte zweizeitige Eingriffe an der Hypophyse |
+| K03B | Eingriffe an der Nebenniere bei bösartiger Neubildung oder Eingriff an der Hypophyse, Alter > 17 Jahre, ohne bestimmte zweizeitige Eingriffe an der Hypophyse |
+| K33Z | Mehrzeitige komplexe OR-Prozeduren bei endokrinen, Ernährungs- und Stoffwechselkrankheiten |
+| X33Z | Mehrzeitige komplexe OR-Prozeduren bei Verletzungen, Vergiftungen und toxischen Wirkungen von Drogen und Medikamenten |
+| Neurologie |
+| A07F | Beatmung > 999 Stunden ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 17 Jahre, ohne komplexe Diagnose, ohne komplizierende Konstellation, ohne intensivmedizinische Komplexbehandlung > 392 / 184 / 368 Aufwandspunkte, ohne Beatmung > 1799 Stunden |
 | A43Z | Frührehabilitation bei Wachkoma und Locked-in-Syndrom |
 | B02E | Komplexe Kraniotomie oder Wirbelsäulen-Operation, ohne bestimmten komplexen Eingriff, Alter > 5 Jahre, ohne bestimmte komplizierende Faktoren |
 | B04A | Interventionelle oder beidseitige Eingriffe an den extrakraniellen Gefäßen mit äußerst schweren CC |
@@ -640,17 +668,17 @@ Neurologie
 | B17A | Eingriffe an peripheren Nerven, Hirnnerven und anderen Teilen des Nervensystems oder Eingriff bei zerebraler Lähmung, Muskeldystrophie oder Neuropathie, mit komplexer Diagnose oder Implantation eines Ereignis-Rekorders |
 | B17B | Eingriffe an peripheren Nerven, Hirnnerven und and. Teilen des Nervensystems oder Eingr. bei zerebr. Lähmung, Muskeldystr. od. Neurop., mit best. kompl. Eingr., Alter < 16 J. oder mit mäßig kompl. Eingr., Alter < 19 J. oder mit äuß. schw. oder schw. CC |
 | B21A | Implantation eines Neurostimulators zur Hirnstimulation, Mehrelektrodensystem, mit Sondenimplantation |
-| B39A | Neurologische Komplexbehandlung des akuten Schlaganfalls mit bestimmter OR-Prozedur, mehr als 72 Stunden mit komplexem Eingriff oder mit komplizierender Konstellation oder intensivmedizinischer Komplexbehandlung> 392 / 368 / - Aufwandspunkte |
+| B39A | Neurologische Komplexbehandlung des akuten Schlaganfalls mit bestimmter OR-Prozedur, mehr als 72 Stunden mit komplexem Eingriff oder mit komplizierender Konstellation oder intensivmedizinischer Komplexbehandlung > 392 / 368 / - Aufwandspunkte |
 | B39B | Neurologische Komplexbehandlung des akuten Schlaganfalls mit bestimmter OR-Prozedur, bis 72 Stunden mit komplexem Eingriff oder mehr als 72 Stunden, ohne kompl. Eingriff, ohne kompliz. Konst., ohne intensivmed. Komplexbehandlung > 392 / 368 / - Punkte |
 | B39C | Neurologische Komplexbehandlung des akuten Schlaganfalls mit best. OR-Prozedur, bis 72 Std., ohne kompl. Eing., ohne kompliz. Konst., ohne intensivmed. Komplexbeh. > 392 / 368 / - P. oder and. neurolog. Komplexbeh. des akuten Schlaganf., mehr als 72 Std. |
 | B42A | Frührehabilitation bei Krankheiten und Störungen des Nervensystems bis 27 Tage mit neurologischer Komplexbehandlung des akuten Schlaganfalls oder fachübergreifende u. andere Frührehabilitation mit neurologischer Komplexbehandlung des akuten Schlaganfalls |
 | B42B | Frührehabilitation bei Krankheiten und Störungen des Nervensystems bis 27 Tage ohne neurologische Komplexbehandlung des akuten Schlaganfalls |
 | B43Z | Frührehabilitation bei Krankheiten und Störungen des Nervensystems, mehr als 27 Tage |
 | B45Z | Intensivmedizinische Komplexbehandlung > 392 / 368 / 828 Aufwandspunkte bei Krankheiten und Störungen des Nervensystems |
-| B48Z | Frührehabilitation bei Multipler Sklerose und zerebellarer Ataxie, nicht akuter Para-/Tetraplegie oder anderen neurologischen Erkrankungen |
+| B48Z | Frührehabilitation bei Multipler Sklerose und zerebellarer Ataxie, nicht akuter Para- / Tetraplegie oder anderen neurologischen Erkrankungen |
 | B49Z | Multimodale Komplexbehandlung bei Morbus Parkinson |
-| B60A | Nicht akute Paraplegie/Tetraplegie, mehr als ein Belegungstag |
-| B60B | Nicht akute Paraplegie/Tetraplegie, ein Belegungstag |
+| B60A | Nicht akute Paraplegie / Tetraplegie, mehr als ein Belegungstag |
+| B60B | Nicht akute Paraplegie / Tetraplegie, ein Belegungstag |
 | B63Z | Demenz und andere chronische Störungen der Hirnfunktion |
 | B66B | Neubildungen des Nervensystems mit äußerst schweren CC, mehr als ein Belegungstag, Alter > 9 Jahre, ohne komplizierende Konstellation |
 | B66D | Neubildungen des Nervensystems, ein Belegungstag oder ohne äußerst schwere CC, Alter > 15 Jahre |
@@ -659,24 +687,24 @@ Neurologie
 | B68A | Multiple Sklerose und zerebellare Ataxie mit äußerst schweren CC, mehr als ein Belegungstag |
 | B68C | Multiple Sklerose und zerebellare Ataxie, ein Belegungstag oder ohne äußerst schwere CC, Alter > 15 Jahre, mit komplexer Diagnose |
 | B68D | Multiple Sklerose und zerebellare Ataxie, ein Belegungstag oder ohne äußerst schwere CC, Alter > 15 Jahre, ohne komplexe Diagnose |
-| B69A | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurologischer Komplexbehandlung des akuten Schlaganfalls, mehr als 72 Stunden |
-| B69B | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurologischer Komplexbehandlung des akuten Schlaganfalls, bis 72 Stunden, mit äußerst schweren CC |
-| B69C | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurol. Komplexbehandlung des akuten Schlaganfalls, bis 72 Std., ohne äußerst schw. CC oder mit anderer neurol. Komplexbeh. des akuten Schlaganfalls oder mit äuß. schw. CC |
+| B69A | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurologischer Komplexbehandlung des akuten Schlaganfalls und äußerst schweren CC |
+| B69B | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurologischer Komplexbehandlung des akuten Schlaganfalls > 72 Stunden |
+| B69C | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse mit neurologischer Komplexbehandlung des akuten Schlaganfalls ohne äußerst schwere CC oder mit anderer neurologischer Komplexbehandlung oder mit äußerst schweren CC |
 | B69D | Transitorische ischämische Attacke (TIA) und extrakranielle Gefäßverschlüsse ohne neurologische Komplexbehandlung des akuten Schlaganfalls, ohne andere neurologische Komplexbehandlung des akuten Schlaganfalls, ohne äußerst schwere CC |
-| B70A | Apoplexie mit neurologischer Komplexbehandlung des akuten Schlaganfalls, mehr als 72 Stunden, mit komplizierender Diagnose |
-| B70B | Apoplexie mit neurologischer Komplexbehandlung des akuten Schlaganfalls, mehr als 72 Stunden, ohne komplizierende Diagnose oder mit komplexem zerebrovaskulären Vasospasmus oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
+| B70A | Apoplexie mit neurologischer Komplexbehandlung des akuten Schlaganfalls, mehr als 72 Stunden, mit komplizierender Diagnose oder bestimmter neurologischer Komplexbehandlung > 96 Stunden |
+| B70B | Apoplexie mit neurologischer Komplexbehandlung des akuten Schlaganfalls, mehr als 72 Stunden oder mit komplexem zerebrovaskulären Vasospasmus oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | B70C | Apoplexie ohne komplexen zerebrovask. Vasospasmus, mit neurol. Komplexbeh. des akuten Schlaganfalls bis 72 Std., mit komplizierender Diagnose oder systemischer Thrombolyse oder mit anderer neurol. Komplexbeh. des akuten Schlaganfalls, mehr als 72 Std. |
-| B70D | Apoplexie ohne komplexen zerebrovaskulären Vasospasmus, ohne komplizierende Diagnose oder systemische Thrombolyse, mit neurol. Komplexbeh. des akuten Schlaganfalls bis 72 Stunden oder mit anderer neurol. Komplexbeh. des akuten Schlaganfalls bis 72 Std. |
+| B70D | Apoplexie ohne komplexen zerebrovaskulären Vasospasmus, ohne komplizierende Diagnose oder systemische Thrombolyse, mit neurol. Komplexbeh. des akuten Schlaganfalls bis 72 Std. oder mit bestimmter neurol. Komplexbeh. des akuten Schlaganfalls bis 72 Std. |
 | B70E | Apoplexie ohne neurologische Komplexbehandlung des akuten Schlaganfalls, ohne andere neurol. Komplexbeh. des akuten Schlaganfalls, mehr als 72 Stunden, ohne komplexen zerebrovask. Vasospasmus, mit komplizierender Diagnose oder systemischer Thrombolyse |
 | B70F | Apoplexie ohne neurologische Komplexbehandlung des akuten Schlaganfalls, ohne andere neurologische Komplexbehandlung des akuten Schlaganfalls, ohne komplexen zerebrovaskulären Vasospasmus, ohne komplizierende Diagnose, ohne systemische Thrombolyse |
 | B70G | Apoplexie mit neurologischer Komplexbehandlung des akuten Schlaganfalls oder mit anderer neurologischer Komplexbehandlung des akuten Schlaganfalls, verstorben < 4 Tage nach Aufnahme |
 | B70H | Apoplexie ohne neurologische Komplexbehandlung des akuten Schlaganfalls, ohne andere neurologische Komplexbehandlung des akuten Schlaganfalls, verstorben < 4 Tage nach Aufnahme |
 | B70I | Apoplexie, ein Belegungstag |
-| B71A | Erkrankungen an Hirnnerven und peripheren Nerven mit komplexer Diagnose oder Komplexbehandlung der Hand, mehr als ein Belegungstag, mit äußerst schweren CC oder bei Para-/Tetraplegie mit äußerst schweren oder schweren CC |
-| B71B | Erkrankungen an Hirnnerven und peripheren Nerven mit komplexer Diagnose, mit schweren CC oder bei Para-/Tetraplegie oder mit Komplexbehandlung der Hand oder ohne komplexe Diagnose, mit äußerst schweren oder schweren CC, bei Para-/Tetraplegie |
-| B71C | Erkrankungen an Hirnnerven und peripheren Nerven ohne Komplexbehandlung der Hand oder mit kompl. Diagnose, ohne schw. CC oder außer bei Para-/Tetraplegie oder ohne komplexe Diagnose, mit äußerst schweren oder schweren CC, außer bei Para-/Tetraplegie |
+| B71A | Erkrankungen an Hirnnerven und peripheren Nerven mit komplexer Diagnose oder Komplexbehandlung der Hand, mehr als ein Belegungstag, mit äußerst schweren CC oder bei Para- / Tetraplegie mit äußerst schweren oder schweren CC |
+| B71B | Erkrankungen an Hirnnerven und peripheren Nerven mit komplexer Diagnose, mit schweren CC oder bei Para- / Tetraplegie oder mit Komplexbehandlung der Hand oder ohne komplexe Diagnose, mit äußerst schweren oder schweren CC, bei Para- / Tetraplegie |
+| B71C | Erkrankungen an Hirnnerven und peripheren Nerven ohne Komplexbehandlung der Hand oder mit kompl. Diagnose, ohne schw. CC oder außer bei Para- / Tetraplegie oder ohne komplexe Diagnose, mit äußerst schweren oder schweren CC, außer bei Para- / Tetraplegie |
 | B71D | Erkrankungen an Hirnnerven und peripheren Nerven ohne komplexe Diagnose, ohne Komplexbehandlung der Hand, ohne äußerst schwere oder schwere CC |
-| B72B | Infektion des Nervensystems, mehr als ein Belegungstag |
+| B72B | Infektion des Nervensystems, mehr als ein Belegungstag, ohne bestimmte Enzephalitis, ohne Intensivmedizinische Komplexbehandlung > 0 / 0 / 184 Aufwandspunkte |
 | B73Z | Virusmeningitis oder Infektion des Nervensystems, Alter > 15 Jahre oder ein Belegungstag |
 | B74Z | Komplexbehandlung bei multiresistenten Erregern bei Krankheiten und Störungen des Nervensystems |
 | B76A | Anfälle, mehr als ein Belegungstag, mit komplexer Diagnostik und Therapie |
@@ -685,12 +713,12 @@ Neurologie
 | B76D | Anfälle, Alter < 6 Jahre oder komplizierende Diagnose oder EEG, mehr als ein Belegungstag |
 | B76E | Anfälle, ein Belegungstag oder ohne komplexe Diagnostik und Therapie, ohne äußerst schwere oder schwere CC, ohne EEG, ohne bestimmte Diagnose, Alter > 5 Jahre, ohne komplexe Diagnose |
 | B77Z | Kopfschmerzen |
-| B81A | Andere Erkrankungen des Nervensystems mit komplexer Diagnose oder bestimmter aufwendiger/hochaufwendiger Behandlung |
-| B81B | Andere Erkrankungen des Nervensystems ohne komplexe Diagnose, ohne bestimmte aufwendige/hochaufwendige Behandlung |
+| B81A | Andere Erkrankungen des Nervensystems mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger Behandlung |
+| B81B | Andere Erkrankungen des Nervensystems ohne komplexe Diagnose, ohne bestimmte aufwendige / hochaufwendige Behandlung |
 | B84Z | Vaskuläre Myelopathien |
-| B85A | Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, mit komplexer Diagnose oder bestimmter aufwendiger/hochaufwendiger Behandlung |
-| B85B | Degenerative Krankheiten des Nervensystems mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, ohne komplexe Diagnose, ohne hochkomplexe Diagnose, ohne bestimmte aufwendige/hochaufwendige Behandlung |
-| B85C | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, mit komplexer Diagnose, zerebrale Lähmungen oder Delirium |
+| B85A | Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger Behandlung |
+| B85B | Degenerative Krankheiten des Nervensystems mit äußerst schweren oder schweren CC, mehr als ein Belegungstag oder mit komplexer Diagnose, zerebrale Lähmungen oder Delirium, Alter < 2 Jahre |
+| B85C | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, mit komplexer Diagnose, zerebrale Lähmungen oder Delirium, Alter > 1 Jahr |
 | B85D | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, ohne komplexe Diagnose |
 | B86Z | Rückenmarkkompression, nicht näher bezeichnet und Krankheit des Rückenmarkes, nicht näher bezeichnet |
 | C61Z | Neuro-ophthalmologische und vaskuläre Erkrankungen des Auges |
@@ -701,8 +729,7 @@ Neurologie
 | U64Z | Angststörungen oder andere affektive und somatoforme Störungen |
 | W01A | Polytrauma mit Beatmung > 72 Stunden oder komplexen Eingriffen oder intensivmedizinische Komplexbehandlung > 392 / 368 / 552 Aufwandspunkte, mit Frührehabilitation |
 | W40Z | Frührehabilitation bei Polytrauma |
-Neurologische Frührehabilitation
-| DRG 2022 | DRG-Bezeichnung |
+| Neurologische Frührehabilitation |
 | A43Z | Frührehabilitation bei Wachkoma und Locked-in-Syndrom |
 | B11Z | Frührehabilitation mit bestimmter OR-Prozedur |
 | B42A | Frührehabilitation bei Krankheiten und Störungen des Nervensystems bis 27 Tage mit neurologischer Komplexbehandlung des akuten Schlaganfalls oder fachübergreifende u. andere Frührehabilitation mit neurologischer Komplexbehandlung des akuten Schlaganfalls |
@@ -710,17 +737,16 @@ Neurologische Frührehabilitation
 | B43Z | Frührehabilitation bei Krankheiten und Störungen des Nervensystems, mehr als 27 Tage |
 | W01A | Polytrauma mit Beatmung > 72 Stunden oder komplexen Eingriffen oder intensivmedizinische Komplexbehandlung > 392 / 368 / 552 Aufwandspunkte, mit Frührehabilitation |
 | W40Z | Frührehabilitation bei Polytrauma |
-Orthopädie
-| DRG 2022 | DRG-Bezeichnung |
+| Orthopädie |
 | I01Z | Beidseitige Eingriffe oder mehrere große Eingriffe an Gelenken der unteren Extremität mit komplexer Diagnose |
 | I03A | Revision oder Ersatz des Hüftgelenkes mit kompl. Diagnose od. Arthrodese od. Alter < 16 Jahre oder beidseitige od. mehrere gr. Eingr. an Gelenken der unt. Extr. mit kompl. Eingriff, mit äuß. schw. CC oder mehrzeitigem Wechsel oder Eingr. an mehr. Lok. |
 | I03B | Revision oder Ersatz des Hüftgelenkes mit kompl. Diagnose od. Arthrodese od. Alter < 16 Jahre oder beidseitige od. mehrere gr. Eingr. an Gelenken der unt. Extr. mit kompl. Eingriff, ohne äuß. schw. CC, ohne mehrzeit. Wechsel, ohne Eingr. an mehr. Lok. |
 | I04Z | Implantation, Wechsel oder Entfernung einer Endoprothese am Kniegelenk mit komplizierender Diagnose oder Arthrodese oder Implantation einer Endoprothese nach vorheriger Explantation oder periprothetische Fraktur an der Schulter oder am Knie |
 | I05B | Implantation oder Wechsel einer inversen Endoprothese am Schultergelenk oder Implantation einer Sprunggelenkendoprothese |
 | I05C | Anderer großer Gelenkersatz ohne Implantation oder Wechsel einer inversen Endoprothese am Schultergelenk, ohne Implantation einer Sprunggelenkendoprothese |
-| I06A | Komplexe Eingriffe an der Wirbelsäule mit hochkomplexem Korrektureingriff oder bestimmtem mehrzeitigen Eingriff oder mit Eingriff an mehreren Lokalisationen oder mit komplizierender Konstellation oder bei Para-/Tetraplegie mit äußerst schweren CC |
+| I06A | Komplexe Eingriffe an der Wirbelsäule mit hochkomplexem Korrektureingriff oder bestimmtem mehrzeitigen Eingriff oder mit Eingriff an mehreren Lokalisationen oder mit komplizierender Konstellation oder bei Para- / Tetraplegie mit äußerst schweren CC |
 | I06B | Komplexe Eingriffe an Wirbelsäule, Kopf und Hals mit sehr komplexem Eingriff bei schwerer entzündlicher Erkrankung oder bestimmte bösartige Neubildung am Knochen oder Alter < 19 Jahre |
-| I06C | Komplexe Eingriffe an Wirbelsäule, Kopf und Hals, Alter > 18 Jahre, ohne Para-/Tetraplegie oder ohne äußerst schwere CC, ohne bösartige Neubildung am Knochen, mit bestimmtem Eingriff ohne schwere entzündliche Erkrankung oder ohne bestimmten Eingriff |
+| I06C | Komplexe Eingriffe an Wirbelsäule, Kopf und Hals, Alter > 18 Jahre, ohne Para- / Tetraplegie oder ohne äußerst schwere CC, ohne bösartige Neubildung am Knochen, mit bestimmtem Eingriff ohne schwere entzündliche Erkrankung oder ohne bestimmten Eingriff |
 | I08A | Andere Eingriffe an Hüftgelenk und Femur mit hochkomplexem Eingriff bei Beckenfraktur, mit bösartiger Neubildung, mit äußerst schweren CC oder mit weiteren komplizierenden Faktoren |
 | I08B | Andere Eingriffe an Hüftgelenk und Femur mit sehr komplexem Eingriff bei komplexer Diagnose oder äußerst schweren CC oder Ersatz des Hüftgelenkes mit Eingriff an oberer Extremität oder Wirbelsäule mit bestimmten komplizierenden Faktoren |
 | I08C | Andere Eingriffe an Hüftgelenk und Femur mit Einbringen von Abstandshaltern oder and. komplexen Eingriffen bei kompl. Diagnose od. äuß. schw. CC oder Ersatz des Hüftgelenkes mit Eingriff an oberer Extremität oder Wirbelsäule ohne best. kompliz. Faktoren |
@@ -734,18 +760,18 @@ Orthopädie
 | I09C | Bestimmte Eingriffe an der Wirbelsäule mit best. kompl. Faktoren, mit Wirbelkörperersatz oder komplexer Spondylodese oder andere mehrzeitige komplexe Eingriffe an der Wirbelsäule mit aufwendiger intensmed. Komplexbehandlung ab 185 Aufwandspunkten |
 | I09D | Bestimmte Eingriffe an der Wirbelsäule mit best. kompl. Faktoren, bei Frakturen der Halswirbelsäule oder sek. bösartiger Neub. des Knochens oder mit anderen mehrz. kompl. Eingriffen ohne aufwendige intensmed. Komplexbehandlung ab 185 Aufwandspunkten |
 | I09E | Bestimmte Eingriffe an der Wirbelsäule und best. komplizierende Faktoren oder best. Eingriffe an der WS mit best. anderen kompl. Faktoren und Eingriffe ZNS oder transpleuraler Zugang BWS oder best. langstreckige Spondylodese/Osteosynthese oder Diszitis |
-| I09F | Best. Eingriffe an der Wirbelsäule, best. kompl. Faktoren od. Alter < 16 J., oh. best. Eingriffe WS, oh. Diszitis oder knöcherne Dekompression Spinalkanal > 3 Segm. oder Impl. e. Schrauben-Band-Systems od. Schrauben-Stab-Systems, 1 Segment, bei Diszitis |
+| I09F | Best. Eingriffe an der Wirbelsäule, best. kompliz. Faktoren od. Alter < 16 Jahre oder knöcherne Dekompression Spinalkanal / best. Osteosynthese > 3 Segm. oder Impl. eines Schrauben-Band-Systems oder Schrauben-Stab-Systems, 1 Segment bei Diszitis |
 | I09G | Bestimmte Eingriffe an der Wirbelsäule mit bestimmten anderen kompliz. Faktoren oder mit anderen kompl. Faktoren und Frakturen Halswirbelsäule oder BNB der Wirbelsäule mit Kyphoplastie, mit Radiofrequenzablation oder komplexer Eingriff an der Wirbelsäule |
 | I09H | Bestimmte Eingriffe an der Wirbelsäule mit bestimmten anderen kompliz. Faktoren oder mit anderen kompliz. Faktoren, ohne Frakturen HWS, ohne BNB der Wirbelsäule oder ohne Kyphoplastie od. ohne Radiofrequenzabl., ohne komplexen Eingriff an der Wirbelsäule |
 | I09I | Bestimmte Eingriffe an der Wirbelsäule ohne komplizierende Faktoren |
-| I10E | Andere Eingriffe an der Wirbelsäule mit mäßig komplexem Eingriff, ohne komplexen Eingriff, ohne Diszitis, ohne Bandscheibeninfektion, mit bestimmtem kleinen Eingriff oder wenig komplexer Eingriff, mehr als 1 Belegungstag, Alter < 18 Jahre |
-| I10F | Andere Eingriffe an der Wirbelsäule ohne mäßig komplexen Eingriff an der Wirbelsäule mit bestimmtem kleinen Eingriff oder wenig komplexer Eingriff, mehr als ein Belegungstag, Alter > 17 Jahre |
+| I10E | Andere Eingriffe an der Wirbelsäule mit mäßig komplexem Eingriff, mit bestimmtem kleinen Eingriff oder wenig komplexer Eingriff, mehr als 1 Belegungstag, Alter < 18 Jahre oder mit bestimmtem anderen kleinen Eingriff |
+| I10F | Andere Eingriffe an der Wirbelsäule ohne mäßig komplexen Eingriff an der Wirbelsäule mit bestimmtem kleinen Eingriff oder wenig komplexer Eingriff, mehr als ein Belegungstag oder ohne bestimmten anderen kleinen Eingriff, Alter > 17 Jahre |
 | I10G | Andere Eingriffe an der Wirbelsäule ohne mäßig komplexen Eingriff an der Wirbelsäule, ohne bestimmten kleinen Eingriff, ohne wenig komplexen Eingriff oder ein Belegungstag, mit anderem kleinen Eingriff |
 | I10H | Andere Eingriffe an der Wirbelsäule ohne mäßig komplexen Eingriff, ohne bestimmten kleinen Eingriff, ohne anderen kleinen Eingriff |
 | I11Z | Eingriffe zur Verlängerung einer Extremität |
-| I12A | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit äußerst schweren CC |
-| I12B | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, mit Revision des Kniegelenkes oder Osteomyelitis, Alter < 16 Jahre |
-| I12C | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, ohne Revision des Kniegelenkes, ohne Osteomyelitis, Alter > 15 Jahre |
+| I12A | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit äußerst schweren CC |
+| I12B | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, mit Revision des Kniegelenkes, mit Einbringen oder Wechsel von Abstandshaltern oder Osteomyelitis, Alter < 16 Jahre |
+| I12C | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, ohne Revision des Kniegelenkes, ohne Einbringen oder Wechsel von Abstandshaltern, ohne Osteomyelitis, Alter > 15 Jahre |
 | I16A | Andere Eingriffe an der Schulter und bestimmte Eingriffe an der oberen Extremität mit bestimmtem Eingriff an Schulter, Oberarm und Ellenbogen |
 | I16B | Andere Eingriffe an der Schulter und bestimmte Eingriffe an der oberen Extremität ohne bestimmten Eingriff an Schulter, Oberarm und Ellenbogen, mit bestimmtem anderem Eingriff an Klavikula, Schulter und Ellenbogen |
 | I16C | Andere Eingriffe an der Schulter und bestimmte Eingriffe an der oberen Extremität ohne bestimmten Eingriff an Schulter, Oberarm und Ellenbogen, ohne bestimmten anderen Eingriff an Klavikula, Schulter und Oberarm |
@@ -779,8 +805,8 @@ Orthopädie
 | I43A | Implantation oder Wechsel bestimmter Endoprothesen am Knie- oder am Ellenbogengelenk oder Prothesenwechsel am Schulter- oder am Sprunggelenk oder Entfernung bestimmter Endoprothesen am Kniegelenk, mit äußerst schweren CC |
 | I43B | Implantation oder Wechsel bestimmter Endoprothesen am Knie- oder am Ellenbogengelenk oder Prothesenwechsel am Schulter- oder am Sprunggelenk oder Entfernung bestimmter Endoprothesen am Kniegelenk, ohne äußerst schwere CC |
 | I44A | Bestimmte Endoprotheseneingriffe am Kniegelenk mit äußerst schweren CC oder Implantation bestimmter schaftverankerten Prothese am Knie oder Korrektur einer Brustkorbdeformität |
-| I44B | Bestimmte Endoprotheseneingriffe am Kniegelenk ohne äußerst schwere CC, mit bestimmtem Wechsel von Endoprothesen oder Implantation einer patientenindividuell angefertigten Endoprothese am Kniegelenk ohne Defekt oder Deformität der Knochen |
-| I44C | Bestimmte Endoprotheseneingriffe am Kniegelenk ohne äußerst schwere CC, ohne bestimmten Wechsel von Endoprothesen oder Prothesenkomponenten, ohne Implantation einer patientenindividuell angefertigten Endoprothese am Kniegelenk |
+| I44B | Bestimmte Endoprotheseneingriffe am Kniegelenk ohne äußerst schwere CC, mit bestimmtem Wechsel von Endoprothesen oder Implantation einer patientenindividuell angefertigten Endoprothese am Kniegelenk oder Einbringen oder Wechsel von Abstandshaltern |
+| I44C | Bestimmte Endoprotheseneingriffe am Kniegelenk ohne äußerst schwere CC, ohne bestimmten Wechsel von Endoprothesen oder Prothesenkomponenten, ohne Impl. e. patientenindiv. angefertigten Endoprothese am Knie, ohne Einbringen od. Wechsel von Abstandshaltern |
 | I44D | Bestimmte Endoprotheseneingriffe am Kniegelenk oder Einbringen einer Entlastungsfeder am Kniegelenk |
 | I44E | Andere Endoprotheseneingriffe am Kniegelenk |
 | I45A | Implantation und Ersatz einer Bandscheibenendoprothese, mehr als ein Segment |
@@ -791,47 +817,43 @@ Orthopädie
 | I47A | Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne äußerst schwere CC, Alter > 15 Jahre, mit komplizierendem Eingriff |
 | I47B | Revision oder Ersatz des Hüftgelenkes ohne best. kompliz. Faktoren, mit kompl. Diagnose an Becken/Oberschenkel, mit best. endoproth. oder gelenkplast. Eingr. od. m. Impl. od. Wechsel Radiuskopfproth. od. m. kompl. Erstimpl. od. m. Entf. Osteosynthesemat. |
 | I47C | Revision oder Ersatz des Hüftgelenkes ohne best. kompliz. Faktoren, ohne komplexe Diagnose an Becken/OS, ohne best. endoproth. Eingriff, ohne gelenkpl. Eingriff am Hüftgelenk, ohne Impl. oder Wechsel einer Radiuskopfprothese, ohne Entf. Osteosynthesemat. |
-| I50C | Gewebe-/Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, ohne bestimmten Eingriff, ohne bestimmte Vakuumbehandlung, Alter > 15 Jahre |
+| I50C | Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, ohne bestimmten Eingriff, ohne bestimmte Vakuumbehandlung, Alter > 15 Jahre |
 | I68D | Nicht operativ behandelte Erkrankungen und Verletzungen WS, > 1 Belegungstag oder andere Femurfraktur, außer bei Diszitis oder infektiöser Spondylopathie, ohne Kreuzbeinfraktur, ohne best. mäßig aufw., aufw. od. hochaufw. Beh., mit Wirbelsäulenfraktur |
 | I68E | Nicht operativ behandelte Erkrankungen und Verletzungen WS, > 1 Belegungstag oder andere Femurfraktur, außer bei Diszitis oder infektiöser Spondylopathie, ohne Kreuzbeinfraktur, ohne best. mäßig aufw., aufw. od. hochaufw. Beh., oh. Wirbelsäulenfraktur |
 | I68F | Nicht operativ behandelte Erkrankungen und Verletzungen im Wirbelsäulenbereich, ein Belegungstag oder Prellung am Oberschenkel |
-| I71A | Muskel- und Sehnenerkrankungen außer bei Para-/Tetraplegie oder Verstauchung, Zerrung, Luxation an Hüftgelenk, Becken und Oberschenkel, mit Zerebralparese oder Kontraktur |
+| I71A | Muskel- und Sehnenerkrankungen außer bei Para- / Tetraplegie oder Verstauchung, Zerrung, Luxation an Hüftgelenk, Becken und Oberschenkel, mit Zerebralparese oder Kontraktur |
 | I73Z | Nachbehandlung bei Erkrankungen des Bindegewebes |
 | I95A | Implantation einer Tumorendoprothese mit Implantation oder Wechsel einer bestimmten Endoprothese oder Knochentotalersatz am Femur oder Alter < 18 Jahre |
 | I95B | Implantation einer Tumorendoprothese ohne Implantation oder Wechsel einer bestimmten Endoprothese, ohne Knochentotalersatz am Femur, Alter > 17 Jahre |
 | I96Z | Frührehabilitation mit bestimmter OR-Prozedur bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe, mehr als 20 Tage |
 | X04Z | Andere Eingriffe bei Verletzungen der unteren Extremität |
-Rheumatologie
-| DRG 2022 | DRG-Bezeichnung |
-| I66B | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
-| I66D | Andere Erkrankungen des Bindegewebes, > 1 Bel.-Tag, Alter > 0 Jahre, mit kinder- und jugendrheumatologischer Komplexbehandlung 7 bis 13 Behandlungstage oder Alter < 16 Jahre mit bestimmten Vaskulitiden oder systemischen rheumatologischen Erkrankungen |
-| I66E | Andere Erkrankungen des Bindegewebes oder Amyloidose oder Arthropathie, Alter > 15 Jahre, mehr als ein Belegungstag |
-| I66G | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, oh. Amyloidose, oh. best. Vaskulitiden, oh. best. syst. Erkr., oh. äußerst schwere CC, ohne intensivmed. Komplexbeh. > 196 / 184 / - Aufwandsp., oh. kinder- und jugendrheumat. Komplexbeh. |
-| I66H | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, ein Belegungstag, ohne bestimmte Biopsie am Herzen |
-| I69A | Knochenkrankheiten und spezifische Arthropathie mit bestimmter Arthropathie oder Muskel-/Sehnenerkrankung bei Para-/Tetraplegie |
-| I69B | Knochenkrankheiten und spezifische Arthropathie ohne bestimmte Arthropathie, ohne Muskel-/Sehnenerkrankung bei Para-/Tetraplegie |
-| I71B | Muskel- und Sehnenerkrankungen außer bei Para-/Tetraplegie oder Verstauchung, Zerrung, Luxation an Hüftgelenk, Becken und Oberschenkel, ohne Zerebralparese, ohne Kontraktur |
+| Rheumatologie |
+| I66B | Andere Erkrankungen des Bindegewebes, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
+| I66D | Kinder-/jugendrheum. Komplexbeh. 7 bis 13 Behandlungstage, Alter > 0 Jahre od. Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden od. syst. rheum. Erkrankungen, Alter < 16 Jahre od. m. multisystem. Entzündungssyndrom bei COVID-19, mehr als 1 BT |
+| I66E | Amyloidose, bestimmte Vaskulitiden oder adulte Form des Morbus Still, Alter > 15 Jahre |
+| I66G | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed. Komplexbeh. > 196 / 184 / - Aufwandsp. oder multisystemisches Entzündungssyndrom bei COVID-19, ein Belegungstag |
+| I66H | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, ein Belegungstag |
+| I69A | Knochenkrankheiten und spezifische Arthropathie mit bestimmter Arthropathie oder Muskel- / Sehnenerkrankung bei Para- /Tetraplegie |
+| I69B | Knochenkrankheiten und spezifische Arthropathie ohne bestimmte Arthropathie, ohne Muskel- / Sehnenerkrankung bei Para- /Tetraplegie |
+| I71B | Muskel- und Sehnenerkrankungen außer bei Para- / Tetraplegie oder Verstauchung, Zerrung, Luxation an Hüftgelenk, Becken und Oberschenkel, ohne Zerebralparese, ohne Kontraktur |
 | I74A | Verletzungen an Unterarm, Handgelenk, Hand oder Fuß oder leichte bis moderate Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und Sprunggelenk mit äußerst schweren oder schweren CC oder unspezifische Arthropathien |
 | I79Z | Fibromyalgie |
 | I97Z | Rheumatologische Komplexbehandlung bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe |
-Spezielle Pädiatrie: Dermatologie
-| DRG 2022 | DRG-Bezeichnung |
+| Spezielle Pädiatrie: Dermatologie |
 | J61A | Schwere Erkrankungen der Haut, mehr als ein BT, Alter > 17 Jahre oder mit kompl. Diagn., mit äuß. schw. CC od. Hautulkus bei Para-/Tetraplegie od. hochkompl. Diagn. od. Epid. bullosa, Alter < 10 Jahre oder mit schwerer Erkr. der Haut, mit aufw. Behandl. |
 | J61B | Schwere Erkrankungen der Haut, mehr als ein Belegungstag, Alter > 17 Jahre, ohne äußerst schwere CC, ohne hochkomplexe Diagnose, mit schwerer Erkrankung der Haut, ohne aufwendige Behandlung |
 | J61C | Schwere Erkrankungen der Haut, mehr als ein Belegungstag, Alter < 18 Jahre, ohne hochkomplexe Diagnose oder mäßig schwere Hauterkrankungen, mehr als ein Belegungstag |
-Spezielle Pädiatrie: Diabetologie
-| DRG 2022 | DRG-Bezeichnung |
+| Spezielle Pädiatrie: Diabetologie |
 | K60A | Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre, mit multimodaler Komplexbehandlung bei Diabetes mellitus oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | K60B | Diabetes mellitus und schwere Ernährungsstörungen, Alter > 5 Jahre und Alter < 18 Jahre und multimodale Komplexbehandlung bei Diabetes mellitus, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
 | K60C | Diabetes mellitus und schwere Ernährungsstörungen, Alter > 17 Jahre oder ohne multimodale Komplexbehandlung bei Diabetes mellitus oder schwerste Ernährungsstörungen oder äußerst schwere CC, mehr als ein Belegungstag |
 | K60D | Diabetes mellitus ohne äußerst schwere CC, Alter < 11 Jahre oder Alter < 16 Jahre mit schweren CC oder multiplen Komplikationen oder Ketoazidose oder Koma, ohne multimodale Komplexbehandlung bei Diabetes mellitus |
 | K60E | Diabetes mellitus mit schweren CC oder mit komplexer Diagnose, Alter > 15 Jahre, mehr als ein Belegungstag |
 | K60F | Diabetes mellitus, Alter > 10 Jahre, ein Belegungstag oder ohne äußerst schwere oder schwere CC oder ohne komplexe Diagnose |
-Spezielle Pädiatrie: Neuro- und Sozialpädiatrie
-| DRG 2022 | DRG-Bezeichnung |
+| Spezielle Pädiatrie: Neuro- und Sozialpädiatrie |
 | B46Z | Sozial- und neuropädiatrische und pädiatrisch-psychosomatische Therapie bei Krankheiten und Störungen des Nervensystems |
-| B60A | Nicht akute Paraplegie/Tetraplegie, mehr als ein Belegungstag |
-| B60B | Nicht akute Paraplegie/Tetraplegie, ein Belegungstag |
+| B60A | Nicht akute Paraplegie / Tetraplegie, mehr als ein Belegungstag |
+| B60B | Nicht akute Paraplegie / Tetraplegie, ein Belegungstag |
 | B68A | Multiple Sklerose und zerebellare Ataxie mit äußerst schweren CC, mehr als ein Belegungstag |
 | B68B | Multiple Sklerose und zerebellare Ataxie, ein Belegungstag oder ohne äußerst schwere CC, Alter < 16 Jahre |
 | B68C | Multiple Sklerose und zerebellare Ataxie, ein Belegungstag oder ohne äußerst schwere CC, Alter > 15 Jahre, mit komplexer Diagnose |
@@ -841,37 +863,35 @@ Spezielle Pädiatrie: Neuro- und Sozialpädiatrie
 | B76C | Anfälle, ohne komplexe Diagnostik und Therapie, mehr als ein Belegungstag, mit schweren CC, Alter > 2 Jahre, ohne komplexe Diagnose oder EEG, Alter < 1 Jahr, mehr als ein Belegungstag oder mit bestimmter Diagnose, ohne komplexe Diagnose |
 | B76D | Anfälle, Alter < 6 Jahre oder komplizierende Diagnose oder EEG, mehr als ein Belegungstag |
 | B76E | Anfälle, ein Belegungstag oder ohne komplexe Diagnostik und Therapie, ohne äußerst schwere oder schwere CC, ohne EEG, ohne bestimmte Diagnose, Alter > 5 Jahre, ohne komplexe Diagnose |
-| B81A | Andere Erkrankungen des Nervensystems mit komplexer Diagnose oder bestimmter aufwendiger/hochaufwendiger Behandlung |
-| B81B | Andere Erkrankungen des Nervensystems ohne komplexe Diagnose, ohne bestimmte aufwendige/hochaufwendige Behandlung |
-| B85A | Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, mit komplexer Diagnose oder bestimmter aufwendiger/hochaufwendiger Behandlung |
-| B85B | Degenerative Krankheiten des Nervensystems mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, ohne komplexe Diagnose, ohne hochkomplexe Diagnose, ohne bestimmte aufwendige/hochaufwendige Behandlung |
-| B85C | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, mit komplexer Diagnose, zerebrale Lähmungen oder Delirium |
+| B81A | Andere Erkrankungen des Nervensystems mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger Behandlung |
+| B81B | Andere Erkrankungen des Nervensystems ohne komplexe Diagnose, ohne bestimmte aufwendige / hochaufwendige Behandlung |
+| B85A | Degenerative Krankheiten des Nervensystems mit hochkomplexer Diagnose oder mit äußerst schweren oder schweren CC, mehr als ein Belegungstag, mit komplexer Diagnose oder bestimmter aufwendiger / hochaufwendiger Behandlung |
+| B85B | Degenerative Krankheiten des Nervensystems mit äußerst schweren oder schweren CC, mehr als ein Belegungstag oder mit komplexer Diagnose, zerebrale Lähmungen oder Delirium, Alter < 2 Jahre |
+| B85C | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, mit komplexer Diagnose, zerebrale Lähmungen oder Delirium, Alter > 1 Jahr |
 | B85D | Degenerative Krankheiten des Nervensystems ohne hochkomplexe Diagnose, ohne äußerst schwere oder schwere CC oder ein Belegungstag, ohne komplexe Diagnose |
 | U41Z | Sozial- und neuropädiatrische und pädiatrisch-psychosomatische Therapie bei psychischen Krankheiten und Störungen |
 | U42A | Multimodale Schmerztherapie bei psychischen Krankheiten und Störungen, Alter < 19 Jahre |
 | U60A | Psychiatrische Behandlung, ein Belegungstag, Alter < 16 Jahre |
 | U64Z | Angststörungen oder andere affektive und somatoforme Störungen |
 | U66Z | Ess-, Zwangs- und Persönlichkeitsstörungen und akute psychische Reaktionen oder psychische Störungen in der Kindheit |
-Spezielle Pädiatrie: Rheumatologie
-| DRG 2022 | DRG-Bezeichnung |
-| I66A | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, mehr als ein Belegungstag, mit komplizierender Konstellation oder intensivmedizinischer Komplexbehandlung > 392 / 368 / 368 Aufwandspunkte |
-| I66B | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
-| I66C | Frakturen Becken und Schenkelhals, > 1 Bel.-Tag, mit äußerst schweren CC oder int.-med. Komplexbeh. > 196 / 184 / - AP oder Alter < 1 J. mit kinder- und jugendrheumatol. Kompl.-beh. 7 bis 13 Beh.-Tage oder mit best. syst. rheumatologischen Erkrankungen |
-| I66D | Andere Erkrankungen des Bindegewebes, > 1 Bel.-Tag, Alter > 0 Jahre, mit kinder- und jugendrheumatologischer Komplexbehandlung 7 bis 13 Behandlungstage oder Alter < 16 Jahre mit bestimmten Vaskulitiden oder systemischen rheumatologischen Erkrankungen |
-| I66E | Andere Erkrankungen des Bindegewebes oder Amyloidose oder Arthropathie, Alter > 15 Jahre, mehr als ein Belegungstag |
-| I66F | Frakturen an Becken und Schenkelhals oder systemischer Lupus erythematodes, mehr als ein Belegungstag, ohne äußerst schwere CC, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
-| I66G | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, oh. Amyloidose, oh. best. Vaskulitiden, oh. best. syst. Erkr., oh. äußerst schwere CC, ohne intensivmed. Komplexbeh. > 196 / 184 / - Aufwandsp., oh. kinder- und jugendrheumat. Komplexbeh. |
-| I66H | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, ein Belegungstag, ohne bestimmte Biopsie am Herzen |
+| Spezielle Pädiatrie: Rheumatologie |
+| I66A | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, mit komplizierender Konstellation oder intensivmedizinischer Komplexbehandlung > 392 / 368 / 368 Aufwandspunkte |
+| I66B | Andere Erkrankungen des Bindegewebes, mit äußerst schweren CC oder intensivmedizinischer Komplexbehandlung > 196 / 184 / - Aufwandspunkte oder anderen komplizierenden Konstellationen |
+| I66C | Frakturen an Becken und Schenkelhals, mit äußerst schweren CC oder bestimmte kinder-/jugendrheumatologische Behandlung, Alter < 1 Jahr oder multisystemisches Entzündungssyndrom bei COVID-19 mit intensivmedizinischer Komplexbehandlung im Kindesalter |
+| I66D | Kinder-/jugendrheum. Komplexbeh. 7 bis 13 Behandlungstage, Alter > 0 Jahre od. Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden od. syst. rheum. Erkrankungen, Alter < 16 Jahre od. m. multisystem. Entzündungssyndrom bei COVID-19, mehr als 1 BT |
+| I66E | Amyloidose, bestimmte Vaskulitiden oder adulte Form des Morbus Still, Alter > 15 Jahre |
+| I66F | Frakturen an Becken und Schenkelhals oder systemischer Lupus erythematodes ohne äußerst schwere CC |
+| I66G | Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed. Komplexbeh. > 196 / 184 / - Aufwandsp. oder multisystemisches Entzündungssyndrom bei COVID-19, ein Belegungstag |
+| I66H | Andere Erkrankungen des Bindegewebes oder Frakturen an Becken und Schenkelhals, ein Belegungstag |
 | I97Z | Rheumatologische Komplexbehandlung bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe |
-Unfallchirurgie
-| DRG 2022 | DRG-Bezeichnung |
+| Unfallchirurgie |
 | B80Z | Andere Kopfverletzungen |
 | E66A | Schweres Thoraxtrauma mit komplizierender Diagnose |
 | E66B | Schweres Thoraxtrauma ohne komplizierende Diagnose |
 | I01Z | Beidseitige Eingriffe oder mehrere große Eingriffe an Gelenken der unteren Extremität mit komplexer Diagnose |
-| I02A | Großflächige Gewebe-/Hauttransplantation außer an der Hand, mit komplizierender Konstellation, Eingriff an mehreren Lokalisationen oder mit schwerem Weichteilschaden, mit äußerst schweren CC und komplexer OR-Prozedur |
-| I02B | Großfl. Gewebe-/Hauttransplantation m. kompliz. Konst., Eingr. an mehr. Lokal. od. schw. Weichteilsch., m. äuß. schw. CC od. kompl. OR-Proz. od. mit hochkompl. Gewebe-Tx od. Vakuumbeh. od. BNB u. kompl. OR-Proz. od. kompl. Gewebe-Tx m. äuß. schw. CC |
-| I02C | Großfl. Gewebe-/Hauttransplantation außer an der Hand, mit kompliz. Konst., Eingriff an mehreren Lokalisationen oder schw. Weichteilschaden, bei BNB und kompl. OR-Proz. m. äußerst schweren oder schweren CC od. komplexer Gewebe-Tx m. äußerst schweren CC |
+| I02A | Großflächige Gewebe- / Hauttransplantation außer an der Hand, mit komplizierender Konstellation, Eingriff an mehreren Lokalisationen oder mit schwerem Weichteilschaden, mit äußerst schweren CC und komplexer OR-Prozedur |
+| I02B | Großfl. Gewebe- / Hauttransplantation m. kompliz. Konst., Eingr. an mehr. Lokal. od. schw. Weichteilsch., m. äuß. schw. CC od. kompl. OR-Proz. od. mit hochkompl. Gewebe-Tx od. Vakuumbeh. od. BNB u. kompl. OR-Proz. od. kompl. Gewebe-Tx m. äuß. schw. CC |
+| I02C | Großfl. Gewebe- / Hauttransplantation außer an der Hand, mit kompliz. Konst., Eingriff an mehreren Lokalisationen oder schw. Weichteilschaden, bei BNB und kompl. OR-Proz. m. äußerst schweren oder schweren CC od. komplexer Gewebe-Tx m. äußerst schweren CC |
 | I03A | Revision oder Ersatz des Hüftgelenkes mit kompl. Diagnose od. Arthrodese od. Alter < 16 Jahre oder beidseitige od. mehrere gr. Eingr. an Gelenken der unt. Extr. mit kompl. Eingriff, mit äuß. schw. CC oder mehrzeitigem Wechsel oder Eingr. an mehr. Lok. |
 | I05A | Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne komplexen Eingriff, mit äußerst schweren CC |
 | I05B | Implantation oder Wechsel einer inversen Endoprothese am Schultergelenk oder Implantation einer Sprunggelenkendoprothese |
@@ -885,9 +905,9 @@ Unfallchirurgie
 | I08G | Andere Eingriffe an Hüftgelenk und Femur ohne komplexe Diagnose oder Prozedur, ohne äußerst schwere CC, mehr als ein Belegungstag, mit mäßig komplexem Eingriff |
 | I09I | Bestimmte Eingriffe an der Wirbelsäule ohne komplizierende Faktoren |
 | I11Z | Eingriffe zur Verlängerung einer Extremität |
-| I12A | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit äußerst schweren CC |
-| I12B | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, mit Revision des Kniegelenkes oder Osteomyelitis, Alter < 16 Jahre |
-| I12C | Knochen- und Gelenkinfektion/-entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, ohne Revision des Kniegelenkes, ohne Osteomyelitis, Alter > 15 Jahre |
+| I12A | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit äußerst schweren CC |
+| I12B | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, mit Revision des Kniegelenkes, mit Einbringen oder Wechsel von Abstandshaltern oder Osteomyelitis, Alter < 16 Jahre |
+| I12C | Knochen- und Gelenkinfektion / -entzündung mit verschiedenen Eingriffen am Muskel-Skelett-System und Bindegewebe mit schweren CC, ohne Revision des Kniegelenkes, ohne Einbringen oder Wechsel von Abstandshaltern, ohne Osteomyelitis, Alter > 15 Jahre |
 | I13A | Bestimmte Eingriffe an den Extremitäten mit komplexem Mehrfacheingriff, mit komplizierendem Eingriff an Humerus und Tibia oder aufwendiger Osteosynthese |
 | I13B | Bestimmte Eingriffe an den Extremitäten mit best. Mehrfacheingriff oder kompliz. Diagnose oder bei Endoprothese der oberen Extremität oder mit Fixateur ext., mit best. BNB od. mit Einbringen von Abstandshalt od. Alter < 18 J. mit äuß. schw. od. schw. CC |
 | I13C | Bestimmte Eingriffe an den Extremitäten mit best. Mehrfacheingr. od. kompliz Diag. od. bei Endopr. der oberen Extrem. od. m. Fix. ext., m. kompl. Eingr. od. schw. Weichteilsch., m. best. kompl. Osteot. od. BNB od. Alter < 18 J. m. äuß. schw. od. schw. CC |
@@ -902,12 +922,13 @@ Unfallchirurgie
 | I20E | Andere Eingriffe am Fuß oder chronische Polyarthritis oder Diabetes Mellitus mit Komplikationen oder Alter < 16 Jahre |
 | I20F | Eingriffe am Fuß ohne komplexe Eingriffe oder komplizierende Faktoren, Alter > 15 Jahre |
 | I21Z | Lokale Exzision und Entfernung von Osteosynthesematerial an Hüftgelenk, Femur und Wirbelsäule oder komplexe Eingriffe an Ellenbogengelenk und Unterarm oder bestimmte Eingriffe an der Klavikula |
-| I22A | Gewebe-/Hauttransplantation, außer an der Hand, mit großfläch. Gewebetransplantation, mit komplizierender Konstellation, Eingriff an mehreren Lokalisationen, schwerem Weichteilschaden oder komplexer Gewebetransplantation mit schweren CC |
-| I22B | Gewebe-/Hauttransplantation, außer an der Hand, mit kleinflächiger Gewebetransplantation od. mit großflächiger Gewebetransplantation ohne kompliz. Konst., oh. Eingr. an mehreren Lokal., oh. schw. Weichteilschaden, oh. kompl. Gewebetranspl. m. schw. CC |
+| I22A | Gewebe- / Hauttransplantation, außer an der Hand, mit großfläch. Gewebetransplantation, mit komplizierender Konstellation, Eingriff an mehreren Lokalisationen, schwerem Weichteilschaden oder komplexer Gewebetransplantation mit schweren CC |
+| I22B | Gewebe- / Hauttransplantation, außer an der Hand, mit kleinflächiger Gewebetransplantation od. mit großflächiger Gewebetransplantation ohne kompliz. Konst., oh. Eingr. an mehreren Lokal., oh. schw. Weichteilschaden, oh. kompl. Gewebetranspl. m. schw. CC |
 | I23A | Andere kleine Eingriffe an Knochen und Weichteilen mit bestimmten kleinen Eingriffen am Knochen oder Alter < 18 Jahre mit äußerst schweren oder schweren CC |
 | I23B | Andere kleine Eingriffe an Knochen und Weichteilen mit bestimmten kleinen Eigriffen an Knochen und Weichteilen, Alter > 17 Jahre oder ohne äußerst schwere oder schwere CC |
 | I23C | Andere kleine Eingriffe an Knochen und Weichteilen ohne bestimmte kleine Eingriffe an Knochen und Weichteilen, Alter > 17 Jahre oder ohne äußerst schwere oder schwere CC |
-| I26Z | Intensivmedizinische Komplexbehandlung > 588 / 552 / 552 Aufwandspunkte bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe oder hochaufwendiges Implantat bei hochkomplexer Gewebe-/Hauttransplantation |
+| I26A | Intensivmedizinische Komplexbehandlung > 785 / 829 / - Aufwandspunkte bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe |
+| I26B | Intensivmedizinische Komplexbehandlung > 588 / 552 / 552 Aufwandspunkte bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe oder bestimmte hochaufwendige Implantate |
 | I27D | Bestimmte andere Eingriffe am Weichteilgewebe oder ein Belegungstag |
 | I27E | Bestimmte kleine Eingriffe am Weichteilgewebe oder ein Belegungstag |
 | I29A | Komplexe Eingriffe am Schultergelenk oder bestimmte Osteosynthesen an der Klavikula, bei komplizierender Diagnose oder Eingriff an mehreren Lokalisationen |
@@ -922,13 +943,13 @@ Unfallchirurgie
 | I46B | Prothesenwechsel am Hüftgelenk ohne äußerst schwere CC, ohne Eingriff an mehreren Lokalisationen, mit periprothetischer Fraktur |
 | I47A | Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne äußerst schwere CC, Alter > 15 Jahre, mit komplizierendem Eingriff |
 | I47B | Revision oder Ersatz des Hüftgelenkes ohne best. kompliz. Faktoren, mit kompl. Diagnose an Becken/Oberschenkel, mit best. endoproth. oder gelenkplast. Eingr. od. m. Impl. od. Wechsel Radiuskopfproth. od. m. kompl. Erstimpl. od. m. Entf. Osteosynthesemat. |
-| I50A | Gewebe-/Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, mit bestimmtem Eingriff oder bestimmter Vakuumbehandlung mit kontinuierlicher Sogbehandlung ab 8 Tagen |
-| I50B | Gewebe-/Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, ohne bestimmten Eingriff, mit bestimmter Vakuumbehandlung oder Alter < 16 Jahre |
+| I50A | Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, mit bestimmtem Eingriff oder bestimmter Vakuumbehandlung mit kontinuierlicher Sogbehandlung ab 8 Tagen |
+| I50B | Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte komplizierende Faktoren, ohne bestimmten Eingriff, mit bestimmter Vakuumbehandlung oder Alter < 16 Jahre |
 | I59Z | Andere Eingriffe an den Extremitäten oder am Gesichtsschädel |
-| I66C | Frakturen Becken und Schenkelhals, > 1 Bel.-Tag, mit äußerst schweren CC oder int.-med. Komplexbeh. > 196 / 184 / - AP oder Alter < 1 J. mit kinder- und jugendrheumatol. Kompl.-beh. 7 bis 13 Beh.-Tage oder mit best. syst. rheumatologischen Erkrankungen |
-| I66F | Frakturen an Becken und Schenkelhals oder systemischer Lupus erythematodes, mehr als ein Belegungstag, ohne äußerst schwere CC, ohne intensivmedizinische Komplexbehandlung > 196 / 184 / - Aufwandspunkte |
-| I68B | Nicht operativ behandelte Erkrankungen und Verletzungen im Wirbelsäulenbereich, mehr als 1 BT, mit äuß. schw. oder schw. CC od. bei Para-/Tetraplegie, mit kompl. Diagn. oder ohne äuß. schw. oder schw. CC, ohne Para-/Tetraplegie bei Diszitis |
-| I68C | Nicht operativ behandelte Erkrankungen und Verletzungen WS, > 1 BT od. and. Femurfraktur, bei Para-/Tetraplegie od. mit äuß. schw. CC od. schw. CC od. Alter > 65 J., oh. kompl. Diagn. od. Kreuzbeinfraktur od. best. mäßig aufw., aufw. od. hochaufw. Beh. |
+| I66C | Frakturen an Becken und Schenkelhals, mit äußerst schweren CC oder bestimmte kinder-/jugendrheumatologische Behandlung, Alter < 1 Jahr oder multisystemisches Entzündungssyndrom bei COVID-19 mit intensivmedizinischer Komplexbehandlung im Kindesalter |
+| I66F | Frakturen an Becken und Schenkelhals oder systemischer Lupus erythematodes ohne äußerst schwere CC |
+| I68B | Nicht operativ behandelte Erkrankungen und Verletzungen im Wirbelsäulenbereich, mehr als 1 BT, mit äuß. schw. oder schw. CC od. bei Para- / Tetraplegie, mit kompl. Diagn. oder ohne äuß. schw. oder schw. CC, ohne Para- / Tetraplegie bei Diszitis |
+| I68C | Nicht operativ behandelte Erkrankungen und Verletzungen WS, > 1 BT od. and. Femurfraktur, bei Para- / Tetraplegie od. mit äuß. schw. CC od. schw. CC od. Alter > 65 J., oh. kompl. Diagn. od. Kreuzbeinfraktur od. best. mäßig aufw., aufw. od. hochaufw. Beh. |
 | I74C | Verletzungen an Unterarm, Handgelenk, Hand oder Fuß oder leichte bis moderate Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und Sprunggelenk ohne äußerst schwere oder schwere CC, Alter > 9 Jahre |
 | I75A | Schwere Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und Sprunggelenk mit CC |
 | I77Z | Mäßig schwere Verletzungen von Schulter, Arm, Ellenbogen, Knie, Bein und Sprunggelenk |
@@ -950,16 +971,15 @@ Unfallchirurgie
 | X05A | Andere Eingriffe bei Verletzungen der Hand, mit komplexem Eingriff |
 | X05B | Andere Eingriffe bei Verletzungen der Hand, ohne komplexen Eingriff |
 | X07A | Replantation bei traumatischer Amputation, mit Replantation mehr als einer Zehe oder mehr als eines Fingers |
-Urologie
-| DRG 2022 | DRG-Bezeichnung |
-| L02A | Operatives Einbringen eines Peritonealdialysekatheters, Alter < 10 Jahre oder Blasenrekonstruktion und kontinenter Pouch bei Neubildung mit Multiviszeraleingriff oder Verschluss einer Blasenekstrophie |
+| Urologie |
+| L02A | Operatives Einbringen eines Peritonealkatheters, Alter < 10 Jahre oder Blasenrekonstruktion und kontinenter Pouch bei Neubildung mit Multiviszeraleingriff oder Verschluss einer Blasenekstrophie |
 | L03Z | Bestimmte Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder bestimmter Kombinationseingriff, ohne großen Eingriff am Darm |
 | L04A | Bestimmte komplexe Nieren-, Ureter- und große Harnblaseneingriffe außer bei Neubildung, ohne äußerst schwere CC, ohne Kombinationseingriff oder bestimmte Harnblaseneingriffe oder Alter < 16 Jahre |
 | L04B | Andere Nieren-, Ureter- und große Harnblaseneingriffe außer bei Neubildung, ohne äußerst schwere CC, ohne Kombinationseingriff, ohne bestimmte Harnblaseneingriffe oder Exzision und Resektion von retroperitonealem Gewebe, Alter > 15 Jahre |
 | L06A | Bestimmte kleine Eingriffe an den Harnorganen mit äußerst schweren CC |
 | L06B | Kleine Eingriffe an den Harnorganen ohne äußerst schwere CC oder ohne bestimmte Prozeduren oder Alter < 16 Jahre |
 | L06C | Andere kleine Eingriffe an den Harnorganen, Alter > 15 Jahre |
-| L07Z | Andere Nieren-, Ureter-, Prostata- und große Harnblaseneingriffe bei Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder anderer Kombinationseingriff oder bestimmte Zystektomien, ohne großen Eingriff am Darm |
+| L07Z | Andere Nieren-, Ureter-, Prostata- und große Harnblaseneingriffe bei Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder anderer Kombinationseingriff oder bestimmte Zystektomien, ohne großen Eingriff am Darm oder komplexe Harnblasenplastik |
 | L08Z | Komplexe Eingriffe an der Urethra oder Ureter |
 | L10Z | Blasenrekonstruktion und kontinenter Pouch bei Neubildung ohne Multiviszeraleingriff oder Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter < 19 Jahre oder mit äußerst schweren CC oder Kombinationseingriff, mit großem Eingriff am Darm |
 | L11Z | Komplexe transurethrale, perkutan-transrenale und andere retroperitoneale Eingriffe mit extrakorporaler Stoßwellenlithotripsie (ESWL), ohne äußerst schwere CC |
@@ -969,10 +989,10 @@ Urologie
 | L16A | Implantation und Wechsel von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen der Harnorgane mit Implantation oder Wechsel eines Neurostimulators |
 | L16B | Implantation und Wechsel von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen der Harnorgane mit Implantation oder Wechsel eines permanenten Elektrodensystems |
 | L16C | Implantation und Wechsel von Neurostimulatoren und Neurostimulationselektroden bei Krankheiten und Störungen der Harnorgane mit Implantation oder Wechsel eines temporären Elektrodensystems |
-| L17B | Andere Eingriffe an der Urethra außer bei Para-/Tetraplegie, kleine Eingriffe an den Harnorganen, ohne bestimmte Eingriffe an der Urethra, Alter > 15 Jahre |
+| L17B | Andere Eingriffe an der Urethra außer bei Para- / Tetraplegie, kleine Eingriffe an den Harnorganen, ohne bestimmte Eingriffe an der Urethra, Alter > 15 Jahre |
 | L18A | Komplexe transurethrale, perkutan-transrenale und andere retroperitoneale Eingriffe mit äußerst schweren CC |
-| L18B | Komplexe transurethrale, perkutan-transrenale/andere retroperitoneale Eingriffe oh. ESWL, oh. äußerst schwere CC od. best. Eingriffe Niere od. transurethrale Eingriffe auß. Prostatares. u. kompl. Ureterorenoskop., b. Para-/Tetrapl., m. äuß. schw. CC |
-| L19Z | Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien mit extrakorporaler Stoßwellenlithotripsie (ESWL), ohne äußerst schwere CC oder perkutane Thermoablation der Niere |
+| L18B | Komplexe transurethrale, perkutan-transrenale / andere retroperitoneale Eingriffe oh. ESWL, oh. äußerst schwere CC od. best. Eingriffe Niere od. transurethrale Eingriffe auß. Prostatares. u. kompl. Ureterorenoskop., b. Para-/Tetrapl., m. äuß. schw. CC |
+| L19Z | Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien mit extrakorporaler Stoßwellenlithotripsie (ESWL), ohne äußerst schwere CC oder perkutane Thermo- oder Kryoablation der Niere |
 | L20A | Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, mit äußerst schweren CC |
 | L20B | Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne äußerst schwere CC oder Alter < 16 Jahre oder Alter > 89 Jahre |
 | L20C | Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne äußerst schwere CC oder Alter > 15 Jahre oder Alter < 90 Jahre |
@@ -980,14 +1000,14 @@ Urologie
 | L37Z | Multiviszeraleingriff bei Krankheiten und Störungen der Harnorgane |
 | L38Z | Komplizierende Konstellation mit bestimmtem operativen Eingriff bei Krankheiten und Störungen der Harnorgane |
 | L40Z | Diagnostische Ureterorenoskopie |
-| L42A | Extrakorporale Stoßwellenlithotripsie (ESWL) bei Harnsteinen mit auxiliären Maßnahmen oder bei Para-/Tetraplegie |
-| L42B | Extrakorporale Stoßwellenlithotripsie (ESWL) bei Harnsteinen ohne auxiliäre Maßnahmen, außer bei Para-/Tetraplegie |
+| L42A | Extrakorporale Stoßwellenlithotripsie (ESWL) bei Harnsteinen mit auxiliären Maßnahmen oder bei Para- / Tetraplegie |
+| L42B | Extrakorporale Stoßwellenlithotripsie (ESWL) bei Harnsteinen ohne auxiliäre Maßnahmen, außer bei Para- / Tetraplegie |
 | L62C | Neubildungen der Harnorgane ohne äußerst schwere CC, Alter > 15 Jahre |
 | L64B | Andere Erkrankungen der Harnorgane mit äußerst schweren oder schweren CC oder bestimmter Diagnose, mehr als ein Belegungstag oder Urethrozystoskopie, außer bei angeborener Fehlbildung, Alter > 2 Jahre |
 | L64C | Andere Erkrankungen der Harnorgane ohne äußerst schwere oder schwere CC, ohne bestimmte Diagnose oder ein Belegungstag, bestimmte Eingriffe am Ureter oder Retroperitonealfibrose oder Alter < 16 Jahre |
 | L64D | Andere Erkrankungen der Harnorgane ohne äußerst schwere oder schwere CC, ohne bestimmte Diagnose oder ein Belegungstag, ohne bestimmte Eingriffe am Ureter, Alter > 15 Jahre |
 | L68B | Andere mäßig schwere Erkrankungen der Harnorgane, Alter > 15 Jahre |
-| L74Z | Bestimmte Krankheiten und Störungen der Harnorgane bei Para-/Tetraplegie |
+| L74Z | Bestimmte Krankheiten und Störungen der Harnorgane bei Para- / Tetraplegie |
 | M01A | Große Eingriffe an den Beckenorganen beim Mann mit äußerst schweren CC |
 | M01B | Große Eingriffe an den Beckenorganen beim Mann ohne äußerst schwere CC oder bestimmte Eingriffe an den Beckenorganen beim Mann mit äußerst schweren CC |
 | M02A | Transurethrale Prostataresektion oder bestimmte andere Operationen an der Prostata mit äußerst schweren CC |
@@ -996,7 +1016,7 @@ Urologie
 | M04A | Eingriffe am Hoden oder bestimmte Eingriffe an Urethra und Prostata bei bösartiger Neubildung mit äußerst schweren CC oder bei Fournier-Gangrän oder bestimmte radikale Prostatovesikulektomien oder bestimmte Lymphadenektomie |
 | M04B | Eingriffe am Hoden mit bestimmtem Eingriff bei Orchitis mit Abszess oder bösartiger Neubildung oder bestimmte Eingriffe am Hoden oder bestimmte Eingriffe an Urethra und Prostata bei bösartiger Neubildung |
 | M04D | Eingriffe am Hoden ohne äußerst schwere CC, ohne bestimmten Eingriff, ohne mäßig komplexen Eingriff oder Alter > 2 Jahre, ohne schwere CC oder ohne beidseitigen Hodenhochstand oder Alter > 13 Jahre |
-| M05A | Zirkumzision oder bestimmte andere Eingriffe am Penis oder bestimmte großflächige Ablationen der Haut |
+| M05Z | Zirkumzision, andere Eingriffe am Penis oder großflächige Ablationen der Haut |
 | M06Z | Andere OR-Prozeduren an den männlichen Geschlechtsorganen oder Stanzbiopsie an der Prostata, ein Belegungstag |
 | M07Z | Brachytherapie bei Krankheiten und Störungen der männlichen Geschlechtsorgane, Implantation von > 10 Seeds |
 | M09A | OR-Prozeduren an den männlichen Geschlechtsorganen bei bösartiger Neubildung mit äußerst schweren CC oder bestimmte Eingriffe an den Beckenorganen beim Mann ohne äußerst schwere CC oder BNB des Penis |
@@ -1006,5 +1026,5 @@ Urologie
 | M38Z | Komplizierende Konstellation mit operativem Eingriff bei Krankheiten und Störungen der männlichen Geschlechtsorgane |
 | M60B | Bösartige Neubildungen der männlichen Geschlechtsorgane, ein Belegungstag oder Alter > 10 Jahre, ohne äußerst schwere CC |
 | M61Z | Benigne Prostatahyperplasie |
-| M62Z | Infektion/Entzündung der männlichen Geschlechtsorgane |
+| M62Z | Infektion / Entzündung der männlichen Geschlechtsorgane |
 | M64Z | Andere Krankheiten der männlichen Geschlechtsorgane und Sterilisation beim Mann |
