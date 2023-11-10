@@ -13,7 +13,7 @@
 | § 6 | Erzeugnisse aus Versuchsanbau |
 | § 7 | (weggefallen) |
 | § 7a | (weggefallen) |
-| § 8 | Umstrukturierung und Umstellung |
+| § 8 | (weggefallen) |
 | § 9 | (weggefallen) |
 | § 10 | Hektarertragsregelung |
 | § 10a | Destillation |

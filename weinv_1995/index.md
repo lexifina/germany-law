@@ -15,7 +15,7 @@
 - [§ 5 Härtefallregelung für Neuanpflanzungen(zu § 7c Absatz 3 des Weingesetzes)](0005.md)
 - [§ 6 Erzeugnisse aus Versuchsanbau(zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)](0006.md)
 - [(XXXX) §§ 7 bis 7a (weggefallen)](xxxx-7-bis-7a.md)
-- [§ 8 Umstrukturierung und Umstellung*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)](0008.md)
+- [§ 8 (weggefallen)](0008.md)
 - [§ 9 (weggefallen)](0009.md)
 - [§ 10 Hektarertragsregelung(zu § 12 Absatz 1 Nummer 1, 2 und 5 und Absatz 2 und § 33 Nummer 2 i.V.m. § 54 Absatz 1 des Weingesetzes)](0010.md)
 - [§ 10a Destillation(zu § 12 Absatz 1 Nummer 6 und § 30 Satz 1 Nummer 2 des Weingesetzes)](0010a.md)
