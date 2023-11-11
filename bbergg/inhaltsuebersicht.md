@@ -90,7 +90,7 @@
 |  |  |  | Abweichungen von einem zugelassenen Betriebsplan | § 57 |
 |  |  |  | Planfeststellungsverfahren, Umweltverträglichkeitsprüfung | § 57a |
 |  |  |  | Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang | § 57b |
-|  |  |  | Ermächtigung | § 57c |
+|  |  |  | Verordnungsermächtigung | § 57c |
 |  |  |  | Zulassungsverfahren für störfallrelevante Vorhaben | § 57d |
 |  |  |  | Verfahren im Zusammenhang mit Anlagen zur Erzeugung von Energie aus erneuerbaren Quellen | § 57e |
 |  | Drittes Kapitel |  |
@@ -215,7 +215,7 @@
 |  |  |  | Forschungshandlungen | § 132 |
 |  |  |  | Unterwasserkabel und Transit-Rohrleitungen | § 133 |
 |  |  |  | Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken | § 134 |
-|  |  |  | Gebühren- und Auslagenermächtigung | § 135 |
+|  |  |  | (weggefallen) | § 135 |
 |  |  |  | Zuständigkeiten für sonstige Verwaltungsaufgaben | § 136 |
 |  |  |  | Übergangsregelung | § 137 |
 | Zehnter Teil |  |
