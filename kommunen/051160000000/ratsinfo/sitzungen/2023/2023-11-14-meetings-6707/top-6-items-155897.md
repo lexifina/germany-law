@@ -1,0 +1,8 @@
+# TOP 6: Reaktivierung ehemaliger Spielplatz Hardter Straße
+
+- Sitzung: Bezirksvertretung West (2023-11-14)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/155897
+- Ergebnis: Abweichende Beschlussempfehlung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/34279
