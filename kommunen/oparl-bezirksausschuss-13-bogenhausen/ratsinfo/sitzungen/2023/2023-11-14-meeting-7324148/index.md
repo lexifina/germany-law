@@ -1,0 +1,167 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2023-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7324148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7324148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.2.1.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.9.: Verschiedenes, Termine
+- TOP 2.3.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.9.: Verschiedenes, Termine
+- TOP 2.4.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.14.: Verschiedenes, Termine
+- TOP 2.5.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.5.: Verschiedenes, Termine
+- TOP 2.6.1.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.4.: Verschiedenes, Termine
+- TOP 2.7.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.7.: Verschiedenes, Termine
+- TOP 2.2.1.5.: Oberföhringer Str. 35 - Neubau eines Mehrfamilienhauses (20 WE) mit Tiefgarage
+- TOP 2.2.2.4.: Oberföhringer Str. 35 - Neubau eines Mehrfamilienhauses (20 WE) mit Tiefgarage
+- TOP 2.4.1.: (E) Stadtbezirksbudget Garten AG WEG Kleiner Prinz Gemeinschaftliche Naturgarten-Tage 3.909,00 € / AZ.0262.0-13-0394
+- TOP 2.4.8.: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. 4. Interkulturelles Tanz- und Musikfest "Mening Yultuzum, Mein Stern" am 03.12.2023 900,00 Euro, Az.: 0262.0-13-0405
+- TOP 2.4.11.: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. Interkulturelles Kinderfest "Das Regenbogen" am 15.10.2023 766,67 Euro, Az.: 0262.0-13-0404
+- TOP 2.6.2.6.: Adolf-Oberländer-Weg 17
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 17.10.2023
+- TOP 1.3.2.: Amtsniederlegung von Jeanne Riedel Amtseinführung von Magarete Greber-Schmidininger
+- TOP 1.3.3.: Umbesetzung in den Unterausschüssen
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten - Beschlussentwurf - Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.2.: Brodersenstr. 34 - Unterbringung von Flüchtlingen - Errichtung einer temporären Gemeinschaftsunterkunft für 152 Flüchtlinge bis zum 31.12.2031, danach in stets widerruflicher Weise (Vorstellung des Konzepts durch Bau- und Sozialreferat in einer Sondersitzung) - vertagt aus der Sitzung 10/23 -
+- TOP 2.2.1.3.: Hohenlindener Str. 8 - Unterbringung von Flüchtlingen - Temporäre Gemeinschaftsunterkunft für 150 Geflüchtete bis zum 31.12.2026 (danach in stets widerruflicher Weise) (Vorstellung des Konzepts durch Bau- und Sozialreferat in einer Sondersitzung) - vertagt aus der Sitzung 10/23 -
+- TOP 2.2.1.4.: Flemingstr. 23 - Abbruch und Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID -
+- TOP 2.2.1.6.: Delpstr. 31 - Neubau von zwei Wohngebäuden mit einer Tiefgarage - VORBESCHEID - vertagt aus der Sitzung 10/2023-
+- TOP 2.2.1.7.: Planung einer Eissportfläche im Rahmen der SEM München Nordost; Prüfantrag der SPD-Fraktion
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Flemingstr. 23 - Abbruch und Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID -
+- TOP 2.2.2.2.: Brodersenstr. 34 - Unterbringung von Flüchtlingen - Errichtung einer temporären Gemeinschaftsunterkunft für 152 Flüchtlinge bis zum 31.12.2031, danach in stets widerruflicher Weise (Vorstellung des Konzepts durch Bau- und Sozialreferat in einer Sondersitzung) - vertagt aus der Sitzung 10/23 -
+- TOP 2.2.2.3.: Delpstr. 31 - Neubau von zwei Wohngebäuden mit einer Tiefgarage - VORBESCHEID - vertagt aus der Sitzung 10/23-
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) + (U) Einführung von Tempo 30 in der Ismaninger Straße zwischen Sternwartstraße und Prinzregentenstraße Empfehlung Nr. 20-26 / E 00933 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 20.10.2022
+- TOP 2.3.2.: Denninger Str. 4: Antrag für eine Warenauslage; Beschluss des BA 13
+- TOP 2.3.3.: Ausweisung der Stradellastraße zur Fahrradstraße; Anhörung des Mobilitätsreferats
+- TOP 2.3.4.: Verkehrsführung Zufahrt Wertstoffhof Savitsstraße: Vermeidung Rückstau; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.5.: Aufhebung der Einbahnstraßenregelung in der Gleimstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.6.: Errichtung eines Fahrradparkplatzes am Standort der Kreuzung Schumann- / Geibelstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Parken in Feuerwehrzufahrten und auf Geh- und Radwegen zwischen Else-Lasker-Schüler und Marie-Luise-Kaschnitz-Straße; Anliegen aus der Bürgerschaft
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.2.: (E) Stadtbezirksbudget Gehörlose Bergfreunde München e.V. Anschaffung e-sport Artikel 6.010,00 / AZ.0262.0-13-0389 - Vertagt aus der Sitzung 10/23 - - Vorstellung durch die Antragsteller -
+- TOP 2.4.3.: Budgetantrag Gehörlose Bergfreunde München e.V.: Anschaffung e-sport Artikel - weiteres Angebot -
+- TOP 2.4.4.: (E) Stadtbezirksbudget Initiative Lesewelt Lesewelt neu Entdecken in der Schulbibliothek Mittelschule Knappertsbusch 3.090,00 € / AZ 0262.0-13-0406
+- TOP 2.4.5.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. GMU-Adventsdult „Taube Künstler*innen und ihre Kunstwerke im Gehörlosenzentrum“ am 25.11.2023 2.062,50€ / AZ 0262.0-13-0409
+- TOP 2.4.6.: (E) Stadtbezirksbudget Faschingsgesellschaft FERINGA München-Johanneskirchen e.V. Renovierung der Herrentoilette 21.049,00 € / Az. 0262.0-13-0398 - Vertagt aus der Sitzung 10/23 -
+- TOP 2.4.7.: Budgetantrag Faschingsgesellschaft Feringa - Zweites Angebot
+- TOP 2.4.9.: (E) Stadtbezirksbudget Elternbeirat der Regina-Ullmann-Grundschule Intensiver 1.-Hilfe-Kurs vom 22.-26.01.2024 2.449,00 € / Az. 0262.0-13-0403 - vertagt aus der Sitzung 10/23 -
+- TOP 2.4.10.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 13 Bogenhausen vom 01.01. - 31.12.2024 7.980,00€ / AZ 0262.0-13-0407
+- TOP 2.4.12.: Herkomerplatz: Aufstellung einer orangene Bank - Kein Platz für Gewalt gegen Frauen - Bestellung städtischer Leistung - Anliegen aus der Bürgerschaft
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Digitale Erstausstattung des Neubaus Wilhelm-Hausenstein-Gymnasium München; Anliegen aus der Bürgerschaft
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Reinigung der Wertstoffcontainer der Firma Remondis; Antrag der CSU-Fraktion
+- TOP 2.6.1.2.: Verletzte Wurzeln der Bäume und Gehölze auf dem begrünten Mittelstreifen entlang der Johanneskirchner Straße; Anliegen aus der Bürgerschaft
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Seiffertstr. 3
+- TOP 2.6.2.2.: Alsenweg 1
+- TOP 2.6.2.3.: Besselstr. 1a
+- TOP 2.6.2.4.: Flemingstr. 35 - 37
+- TOP 2.6.2.5.: Hofererweg 2
+- TOP 2.6.2.7.: Pienzenauerstr. 78
+- TOP 2.6.2.8.: Mauerkircherstr. 1a
+- TOP 2.6.2.9.: Warthestr. 19
+- TOP 2.6.2.10.: Lüderitzstr. 25
+- TOP 2.6.2.11.: Turfstr. 17
+- TOP 2.6.2.12.: Gumbinnenstr. 3
+- TOP 2.6.2.13.: Mauerkircherstr. 66
+- TOP 2.6.2.14.: Mauerkircherstr. 92
+- TOP 2.6.2.15.: Ida-Pfeiffer-Str. 21
+- TOP 2.6.2.16.: Poschingerstr. 2
+- TOP 2.6.2.17.: Düppeler Str. 10
+- TOP 2.6.2.18.: Davidstr. 7
+- TOP 2.6.2.19.: Flensburger Str. 36
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: Vorstellung von Projekt Winterspielplatz der Evangelischen Gemeinschaft München-Bogenhausen
+- TOP 2.7.2.: An der Marienburger Str./Daglfinger Str.: Nutzung als Christbaumverkaufsplatz; Anhörung des Kommunalreferats
+- TOP 2.7.3.: Johanneskirchner Str. / Ecke Cosimastr.: Nutzung als Christbaumverkaufsplatz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.4.: Effnerstraße / Ecke Odinstraße (auf Höhe Effnerstr. 75f): Nutzung als Christbaumverkaufsplatz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.5.: Nachlese zu BA-Beteiligungen
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Errichtung einer zweiten Tischtennisplatte am Böhmerwaldplatz
+- TOP 6.2.: Wassermenge für den oberirdischen und renaturierten Teil des Hüllgrabens sicherstellen
+- TOP 6.3.: Erinnerung an den verkehrsberuhigten Bereich in der Hagelstangestraße
+- TOP 6.4.: Absicherung des Fußgängerüberwegs Scheinerstrasse (Höhe Hausnummer 24) / Denninger Straße durch Sperrpfosten
+- TOP 6.5.: Sicherheit für Radverkehr am Prinzregentenplatz erhöhen
+- TOP 6.6.: Aufstellen von Parkbänken vor dem Edeka im Richard-Strauss-Forum
+- TOP 6.7.: Kreuzung Richard-Strauss-Str. /Schreberweg: Errichtung einer Fahrradampel
+- TOP 6.8.: Rotmarkierung des Fahrradweges Denninger-/Delpstraße
+- TOP 6.9.: Mehr Biodiversität durch Anpassung des Grünstreifens an der Richard-Strauss-Straße
+- TOP 6.10.: Pfützenbildung auf dem Weg in der Grünfläche an der Odinstraße vorbeugen
+- TOP 6.11.: Finanzierung von Ferienpässen
+- TOP 6.12.: Integrationsangebote in Bogenhausen ausreichend?
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Röntgenstraße 15: Verlängerung der Kurzparkzone – Haltverbot – Pkw-Parken
+- TOP 7.3.2.: Bichlhofweg Nordseite (ggü. Hs.Nr. 5): Kurzzeitparken – zeitl. Beschränkte Hol- und Bringzone für Kinderkrippe
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Fortführung eines Gaststättenbetriebes: - Johanneskirchner Str. 14
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: (U) Stadtentwicklung im Münchner Nordosten Verlängerung der Inhouse-Vergabe an die Münchner Raumentwicklungsgesellschaft mbH (MRG) für Projektsteuerungsleistungen Stadtbezirke 13 Bogenhausen 15 Trudering-Riem
+- TOP 7.7.2.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 7.7.3.: Eylauer Str. 23a: Neubau eines Einfamilienhauses mit Garage
+- TOP 7.7.4.: Musenbergstr. 32 - 34
+- TOP 7.7.5.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 7.7.6.: Gewerbeband Steinhausen Voglweideplatz (östlich) Bundesautobahn 94 (BAB 94) (südlich) Bahngleisanlagen (nördlich, westlich) Entwicklungsperspektive - Rahmenplanung Steinhausen - Verkehrsuntersuchung Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.7.: Scheinerstr. 2
+- TOP 7.7.8.: Alsenweg 2
+- TOP 7.7.9.: Ortrudstr. 10
+- TOP 7.7.10.: Pienzenauerstr. 95
+- TOP 7.7.11.: Cosimastr. 232
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: Anhörungsverfahren zur Änderung der Mittelschulorganisation in der Landeshauptstadt München; Zusammenlegung der Mittelschulen Wörthstraße 2 und Weilerstraße 1 und Auflösung der Mittelschule Weilerstraße 1
+- TOP 7.8.2.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern - Beschlussentwurf; Anhörung des Sozialreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 7.9.2.: Vollzug der Zweckentfremdungssatzung: - Elbestr. 5 - Pienzenauerstr. 3 und 5 - Bromberger Str. 1
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.5.2.: Schul- und Kitabauoffensive – 5. Schulbauprogramm - Beschlussentwurf - Anhörung des Direktoriums
+- TOP 2.5.3.: Turnerschaft Jahn München von 1887 e.V. Stadtbezirk 13 – Bogenhausen Großinstandsetzung, Umbau und Hallenerweiterung der Bestandsgebäude (2. Bauabschnitt) der Sportanlage an der Weltenburger Straße 53 Förderung der Vereinsbaumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München – Beschlussentwurf; Anhörung des Referats für Bildung und Sport
+- TOP 2.7.8.: Johanneskirchner Str. / Ecke Cosimastr.: Antrag auf Christbaumverkauf; Beschluss des BA 13
+- TOP 2.7.9.: Effnerstr. / Ecke Odinstr..: Antrag auf Christbaumverkauf; Beschluss des BA 13
+- TOP 3.2.1.: Weiternutzung der Anlage „Bunker 5“ im Bürgerpark Oberföhring ermöglichen, Zwangsräumung aussetzen; Drittelantrag der CSU-Fraktion
