@@ -1,0 +1,7 @@
+# TOP 3: Genehmigung der Tagesordnung
+
+- Sitzung: Bezirksausschuss V - Norf (2023-11-14)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/225159
+- Ergebnis: einstimmig zugestimmt
