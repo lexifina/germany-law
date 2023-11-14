@@ -1,0 +1,66 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-14T15:00:00+01:00
+- Ende: 2023-11-14T17:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27446
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27446
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der schriftlichen Anfrage aus der Sitzung des Integrationsrates vom 15.08.203 (AN 1306/2023) betreffend die Gleichbehandlung von Drittstaatler*innen aus der Ukraine im SGB II - Kenntnis genommen
+- TOP 3.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Integrationsrates vom 12.09.23 (AN/1560/2023) betreffend „Verlorene Unterlagen in den Kölner Ausländerbehörden" - Kenntnis genommen
+- TOP -: Anfrage zum Thema: Verlorene Unterlagen in den Kölner Ausländerbehörden
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage von Elizaveta Khan, Ahmet Edis und Dorsa Billstein aus der Sitzung des Integrationsrates vom 12.09.2023 (AN/1615/2023) betreffend „Koloniales Erbe der Stadt Köln“ - Kenntnis genommen
+- TOP -: Anfrage Thema: Koloniales Erbe der Stadt Köln
+- TOP 3.4: Aktueller Stand DOMID und Halle 71 - Kenntnis genommen
+- TOP -: Anfrage: Aktueller Stand DOMID und Halle 71
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgsstraße - zurückgestellt
+- TOP 4.2: Anfrage zu WLAN am Wohnheim für Geflüchtete Poller Holzweg - zurückgestellt
+- TOP 4.3: Anfrage zum Positionspapier der Interkulturelle Zentren zu Bedarfen von älteren Menschen mit internationaler Familiengeschichte - zurückgestellt
+- TOP 4.4: Anfrage zu 20. Jahrestag Nagelbombenanschlag in der Keupstraße - zurückgestellt
+- TOP 4.5: Anfrage zu Bonitätsprüfung im Ausländeramt - zurückgestellt
+- TOP 4.6: Anfrage zu Mehrstaatigkeit, Einbürgerungsanträge während der Novellierung des Staatsangehörigkeitsgesetzes - zurückgestellt
+- TOP 4.7: Anfrage zu den Anträgen der Kölner Bürger*innen (Erziehungsberechtigten) mit internationaler Familiengeschichte für die Einrichtung eines neuen Standortes für den Herkunftssprachlichen Unterrichtes - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 5.2: Leitlinie Kindeswohlaspekte - Sicherstellung von Kindeswohlaspekten bei der Prüfung von Bleibeperspektiven und im Rahmen aufenthaltsbeendender Maßnahmen - Kenntnis genommen
+- TOP 5.3: Ende der Landesinitiative „Durchstarten in Ausbildung und Arbeit" (DiAA) - Kenntnis genommen
+- TOP 5.4: Aktuelle Zahlen zur städtischen Unterbringung Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.5: Anerkennung als Träger der freien Jugendhilfe; hier: Deutsch-Afrikanische Kooperation e.V. (DAKO e.V.) - Kenntnis genommen
+- TOP 5.6: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 5.7: 2. Quartalsbericht 2023 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.8: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 5.9: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Beschlussvorlage „Strategische Sozialplanung - Herausforderungen und Ziele 4069/2022" - endgültig zurückgezogen
+- TOP -: Stellungnahme der Verwaltung zum Antrag AN/1407/2023 zur Beschlussvorlage 4069/2022 "Strategische Sozialplanung - Herausforderungen und Ziele"
+- TOP 6.1.1: Ergänzungsantrag zur Beschlussvorlage „Strategische Sozialplanung - Herausforderungen und Ziele 4069/2022" - ungeändert beschlossen
+- TOP 6.2: Antrag für eine Zusatzerklärung für unter das Gaststättengesetz fallenden Betriebe - zurückgestellt
+- TOP 6.3: Antrag der FDP-Fraktion Stadtweite Einbürgerungsfeiern - zurückgestellt
+- TOP 6.3.1: Änderungsantrag bzw. Zusatzantrag – Stadtweite Einbürgerungsfeiern - zurückgestellt
+- TOP 6.4: Antrag auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner*innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Strukturförderfonds 2023 / 2024 - ungeändert beschlossen
+- TOP 8.2: Aktualisierung der "Geänderten Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Kindertageseinrichtungen in Köln" - ungeändert beschlossen
+- TOP 8.3: Strategische Sozialplanung - Herausforderungen und Ziele - geändert beschlossen
+- TOP 8.4: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Str. durch einen Totalunternehmer - zurückgestellt
+- TOP 8.5: Verlängerung Auszugsmanagement 2024/2025 - ungeändert beschlossen
+- TOP 8.6: Zweite Satzung zur Änderung der Satzungen der Stadt Köln vom 16.01.2018 über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen über die Erhebung von Gebühren - abgelehnt (in der Vorberatung)
+- TOP 8.7: Leitbild für kulturelle Teilhabe in Vielfalt - zurückgestellt
+- TOP 8.8: Befristete Verlängerung des Förderprogrammes im Rahmen des Programmes "Bleibeperspektive in Köln" mit Trägerbindung - ungeändert beschlossen
+- TOP 8.9: Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch: - ohne Votum in nachfolgende Gremien
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
