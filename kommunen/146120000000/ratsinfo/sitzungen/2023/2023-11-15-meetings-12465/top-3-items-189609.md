@@ -1,0 +1,6 @@
+# TOP 3: Berichterstattung zu den Vorbereitungen des Übergangs der Leistungsverpflichtung von SGB IX ins SGB VIII (GB2)
+
+- Sitzung: 25. Sitzung des Beirates für Menschen mit Behinderungen (2023-11-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/189609
