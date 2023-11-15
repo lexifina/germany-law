@@ -1,0 +1,88 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-11-15T17:05:00+01:00
+- Ende: 2023-11-15T22:20:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4868
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4868
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Fahrstuhl an der Kindl-Treppe - schriftlich beantwortet
+- TOP 1.2: Bearbeitungszeit Wohngeldanträge - beantwortet
+- TOP 1.3: Nachhaltiges Obstbaumprojekt im Trusepark - Grünpflege - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Öffentliche Schwimmzeiten im Kombibad Gropiusstadt sichern - in der BVV abgelehnt
+- TOP 2.2: Ausfall des Regionalen Sozialpädagogischen Dienstes Köllnische Heide - in der BVV abgelehnt
+- TOP 2.3: Eislaufen in Neukölln noch vor Weihnachten - in der BVV abgelehnt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Neukölln braucht das Oyoun! - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wie passen Reden und Handeln beim Bezirksbürgermeister zusammen: „Mit Moscheevereinen kann man Antisemitismus nicht bekämpfen“? - beantwortet
+- TOP 8.2: Zukunft des Warenhauses am Hermannplatz - beantwortet
+- TOP 8.3: Streichung der Mittel für das Puppentheater-Museum Neukölln durch das Bezirksamt - beantwortet
+- TOP 8.4: Kann der Hermannplatz aus dem Strudel der Immobilienspekulation befreit werden? - beantwortet
+- TOP 8.5: Schulpflichtige Kinder von Flüchtlingen in Neukölln - beantwortet
+- TOP 8.6: Hat das Bezirksamt das Jugendamt bei der mangelhaften Aufstellung der Leistungsverträge 2024 im Stich gelassen? - beantwortet
+- TOP 8.7: Hilfen in besonderen Lebenslagen - beantwortet
+- TOP 8.8: Dritter Gipfel gegen Jugendgewalt: Zwischenstand & Ausblick - beantwortet
+- TOP 8.9: Bettwanzenplage in Neukölln - schriftlich beantwortet
+- TOP 8.10: Blockpark 447 - schriftlich beantwortet
+- TOP 8.11: Interkultureller Treffpunkt Gemeinschaftshaus Gropiusstadt - schriftlich beantwortet
+- TOP 8.12: Die schnelle Schließanlage vom Stadion Britz - schriftlich beantwortet
+- TOP 8.13: Wie weiter mit dem Integrationsfonds? - schriftlich beantwortet
+- TOP 8.14: Kein funktionierendes Beschwerdemanagement bei der Volkshochschule Neukölln? - schriftlich beantwortet
+- TOP 8.15: Häufung von Verkehrsverstößen in Britz-Süd - schriftlich beantwortet
+- TOP 8.16: Unterbringung im Flüchtlingsheim Haarlemer Straße - schriftlich beantwortet
+- TOP 8.17: Ladesäulen REWE Groß-Ziethener-Chaussee - schriftlich beantwortet
+- TOP 8.18: Rechtzeitige Information der Bezirksverordnetenversammlung vor Abschluss von Zielvereinbarungen - schriftlich beantwortet
+- TOP 8.19: Zukunft der Allgemeinen Unabhängigen Sozialberatung - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Energetische Sanierung Jugendeinrichtungen - Fördermittel nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Abbiegesituation Hugo-Heimann-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: PCR-Teststellen in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Patientenfürsprecherin des Krankhaus Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Verbesserung der ÖPNV Anbindung entlang der Gradestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Kommunale Wärmeplanung in Neukölln - Bezirksamt vorbereiten auf Umsetzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Einwohner*innenantrag: Kranoldkiez Neukölln - für Menschen statt für Durchgangsverkehr Für einen lebenswerteren Kiez für alle - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Einwohner*innenantrag: Körnerkiez Neukölln – für Menschen statt Durchgangsverkehr - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Neuregelung der Nutzung von E-Scootern/E-Tretrollern im Bezirk Neukölln - in der BVV abgelehnt
+- TOP 12.5: Auskömmliche Finanzierung der Diakonie „Haltestelle“ Standorte in Neukölln sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Taten statt Phrasen - Gesundheitszentrum Gropiusstadt erhalten - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Mondiale am Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Antisemitismus und Israelfeindlichkeit in Neukölln - beantwortet
+- TOP 13.2: Verzögerungen bei der Parkraumbewirtschaftung - beantwortet
+- TOP 13.3: Unterbringung von Geflüchteten in der Haarlemer Straße - vertagt
+- TOP 13.4: Maßnahmen im Vorfeld zu Silvester 2023/2024 in Neukölln - vertagt
+- TOP 13.5: Wann kommt das Eisstadion Neukölln vom Glatteis? - vertagt
+- TOP 13.6: Honorar-, Werkverträge und Lehraufträge des Bezirksamtes - vertagt
+- TOP 13.7: Kulturzentrum Oyoun in der Lucy-Lameck-Straße - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Seniorenvertretung in der BVV - überwiesen
+- TOP 15.2: Obdachlosigkeit von Frauen wirksam im Bezirk Neukölln verhindern - überwiesen
+- TOP 15.3: Beitritt nur mit Zustimmung - überwiesen
+- TOP 15.4: Kampf dem Bettwanzenbefall: Einführung einer Meldepflicht - überwiesen
+- TOP 15.5: Demokratisierung des Worts des Bürgermeisters - überwiesen
+- TOP 15.6: Verbesserung der Schaltung der Lichtsignalanlage U-Bhf. Grenzallee Süd - überwiesen
+- TOP 15.7: Patient*innen und ihre Fürsprecher*innen stärken - überwiesen
+- TOP 15.8: Hinweisschilder für das Stadtteilzentrum Buckow - überwiesen
+- TOP 15.9: Chanukkah sameach - ein fröhliches Chanukkah! - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Ricam-Hospiz / Seniorenheim Haus Rixdorf - Krankentransporte und Warenlieferung sichern - überwiesen
+- TOP 15.11: Bargeld ist Freiheit: Barzahlung in allen Neuköllner Bürgerämtern möglich machen - überwiesen
+- TOP 15.12: Menschenwürdige Unterbringung von Geflüchteten sicherstellen! - überwiesen
+- TOP 15.13: Zebrastreifen Kreuzung Teupitzer Straße Ecke Kiehlufer - überwiesen
