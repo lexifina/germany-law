@@ -1,0 +1,141 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2023-11-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7381431
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7381431
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: UA Kultur, TOP 2: Anschaffung einer Lautsprecher-/Verstärkeranlage UA Kultur, TOP 3: Erinnerungstafel am Wiener Platz UA Soziales, TOP 1.6: Detailauskunft zu TOP 1.2, 1.3 und 1.4 UA Soziales, TOP 2.4: Schul- und Kitabauoffensive – 5. Schulbauprogramm UA Mobilität, TOP 4.10: Ortstermin Lothringer Straße UA Mobilität, TOP 4.11: Jeder Baum zählt - Baumfällungen in der Zeppelinstraße wegen Radwegverbreiterung UA Klima, TOP 4.4: Unterstützung für Bürgerbeteiligung Südliche Au Abgesetzt wird: UA Mobilität, TOP 1.1: Ausweisung von mehr Fahrradstraßen
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Errichtung eines Trinkbrunnens am Mikroplatz Entenbachstraße / Schlotthauerstraße
+- TOP 5.2.: Johannisplatz kein Parkplatz
+- TOP 5.3.: Mehr TG-Plätze für Anwohner*innen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget male mal e.V. Offene Kunstwerkstatt (Erwachsene), Mal- und Zeichenkurs (Kinder, Jugendliche) vom 01.01.2024 - 31.12.2024 12.090,00€ / AZ 0262.0-5-0505
+- TOP II.2.: N - Anschaffung einer Lautsprecher-/Verstärkeranlage
+- TOP II.3.: N - Erinnerungstafel am Wiener Platz
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative Weihnachtsaktion Einkaufswertgutscheine für bedürftige Familien, Senior*innen, Weihnachten 2023 in der Weihnachtszeit 2023 2.500,00€ / AZ 0262.0-5-0504
+- TOP 1.3.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 5 Au-Haidhausen vom 01.01. - 31.12.2024 7.830,00€ / AZ 0262.0-5-0506
+- TOP 1.4.: (E) Stadtbezirksbudget Caritas Freiwilligen-Zentrum München Ost #EineMillionSterne Au-Haidhausen am 18.11.2023 1.400,00€ / AZ 0262.0-5-0500
+- TOP 1.5.: (E) Stadtbezirksbudget Katholischer Männerfürsorgeverein München e.V. / Haus an der Franziskanerstraße Gestaltung des Heiligen Abends (Weihnachtsfeier) für unsere Bewohner am 24.12.2023 930,00€ / AZ 0262.0-5-0508
+- TOP 1.6.: Detailauskunft zu TOP 1.2, 1.3 und 1.4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Toiletten im öffentlichen Raum - Umsetzung letzter Standorte im Bereich BA5 (Frist bis 16.11.2023)
+- TOP 2.2.: Kinderaktionen des AKA e.V. April-Oktober 2024 am Johannisplatz, Hypopark, Postwiese, Am Kegelhof
+- TOP 2.3.: "Cocuk Bayrami" am 21.04.2024 auf der Postwiese
+- TOP 2.4.: N - Schul- und Kitabauoffensive – 5. Schulbauprogramm (Anhörungsfrist 06.12.2023)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sportanlage und Hausmeisterhäuschen Grütznerstraße
+- TOP 3.2.: Sportplatz Maximiliansanlagen Antwort Referat für Bildung und Sport zum Schreiben BA 5
+- TOP 3.3.: Leitsystem freihalten
+- TOP 3.4.: Sprengeländerung von der GS Weilerstr. zur GS Mariahilfplatz
+- TOP 3.5.: Anhörungsverfahren zur Änderung der Mittelschulorganisation in der Landeshauptstadt München; Zusammenlegung der Mittelschulen Wörthstraße 2 und Weilerstraße 1 und Auflösung der Mittelschule Weilerstraße 1
+- TOP 3.6.: Anhörungsverfahren zur jahrgangsstufenbezogenen Teilung der Mathilde-Eller-Schule, Schule zur individuellen Lebensbewältigung München an der Klenzestraße 27 in zwei eingenständige Förderzentren mit dem Förderschwerpunkt geistige Entwicklung
+- TOP 3.7.: Information BA 5 zum KoGa-Standort am Mariahilfplatz/Hochstraße Antwort Referat für Bildung und Sport zum Schreiben BA 5
+- TOP 3.8.: Hausnummerierung Grundschule Mariahilfplatz 18
+- TOP 3.9.: Nachbarschaftsgespräch Schneckenburger-/Kuglerstraße am 19.06.2023 Antwort AKIM zum Schreiben BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Situation Kuglerstrasse/ Schneckenburgerstrasse
+- TOP 4.2.: Lautes Glockenläuten der Mariahilfkirche
+- TOP 4.3.: Situation Eissport-Infrastruktur in München - dringende Unterstützung notwendig
+- TOP 4.4.: Vernetzung mit dem BA 5 für den Unterricht in Politik / Gesellschaft in der Fachakademie Don Bosco
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Init. "Auer/ Haidhauser Journal" "Auer/ Haidhauser Journal" von April 2024 -Januar 2025 4.800,00€; Az. 0262.0-5-0503
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kiosk Isarwahn an der Wittelsbacherbrücke
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Grillparzerstr. 22 - Nutzungsänderung der best. Öltankräume in eine neue Druckerhöhungsanlage (Heizwerk Gaisbergstraße)
+- TOP 2.2.: Rosenheimer Str. 30 - Nutzunbgsänderung einer gewerblichen Nutzung im EG zu einem Handel mit und Vertrieb von Lebensmitteln aller Art und Produkten des täglichen Bedarfs
+- TOP 2.3.: Humboldtstr. 23 - Neubau des Dachgeschosses mit 2 WE (Humboldtstr. 23 / Oefelestr.7) - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 2.4.: Ismaninger Str. 22 - Gebäude 502, EG - Roentgenuntersuchung 9 - 11, Bildung einer Nutzungseinheit, Schaffung 2er Türdurchbrüche in tragenden Wänden - ÄNDERUNGSANTRAG zu 1.1-2022-22728-21 hier: Änderung der Grundrissanordnung
+- TOP 2.5.: Rosenheimer Platz 1 - Aufstockung eines Mehrfamilienhauses, Errichtung von zwei Aufzügen und Zugangsbalkonen im Innenhof, energetische Sanierung der Fassade (Rosenheimer Pl. 1 / Balanstr. 2 / Franziskanerstr. 3) - Änderungsantrag zu 1.2-2022-13324-21
+- TOP 2.6.: Lothringer Str. 1 - Abbruch und Neuerrichtung des Dachstuhls + Dachgeschossausbau, Aufstockung und Errichtung eines Außenaufzugs hofseitig
+- TOP 2.7.: Einsteinstr. 46 - Nutzungsänderung von einer Physiotherapiepraxis zu einer Minikita
+- TOP 2.8.: Breisacher Str. 13 - Errichtung einer Dachterrasse im Dachgeschoß, WE Nr. 9
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 3.2.: Einsteinstr. 107: Nutzungsänderung Vordergebäude EG von Laden und Büro in Gaststätte Antwort LBK zur Stellungnahme BA 5
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Unser Haus in der Drächslstraße 7 soll verkauft werden
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Ausweisung von mehr Fahrradstraßen Empfehlung Nr. 20-26 / E 00103 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 08.07.2021 - erneute Vorlage (Schreiben Mobilitätsreferat vom 13.09.2023) mit der Bitte um endgültige Beschlussfassung -
+- TOP 1.2.: (E) + (U) Zebrastreifen für die Lilienstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Claude-Lorrain-Straße 7
+- TOP 2.2.: Geplantes Haltverbot auf Grund Sichtbehinderung Kreuzung Braystraße/Prinzregentenstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schnelle Verbesserungen für Fußgänger*innen und Radfahrer*innen auf der Regerbrücke
+- TOP 3.2.: Vorschläge für neue Radstellplätze in Haidhausen
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Platzgestaltung Rosenheimer Straße / Lilienstraße / Zeppelinstraße Programm Fünf Pätze attraktiv neu gestalten im 5. Stadtbezirk Au - Haidhausen 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 3.5.: (U) Dingolfinger Straße, Neubau einer Fuß- und Radwegbrücke am S-Bahn-Haltepunkt Leuchtenbergring im 5. Stadtbezirk Au - Haidhausen und im 14. Stadtbezirk Berg am Laim 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 3.6.: Zugang zur Villa Stuck barrierefrei ausbauen
+- TOP 3.7.: Rasende Fahrradfahrer und fehlende Bank am Geneveva-Schauer-Platz
+- TOP 3.8.: Aufstellen eines Hochbeets neben der Umlaufsperre am Kolumbusplatz unterhalb des Giesinger Bergs als Fußgängerschutz Antwort Planungsreferat zur Anfrage BA 5
+- TOP 3.9.: Beschwerde über die Firma Flink in der Rosenheimer Str. 30 Antwort Firma Flink zum Schreiben BA 5
+- TOP 3.10.: Gehweg Grütznerstraße /Maximiliansanlagen Antwort Baureferat zum Schreiben BA 5
+- TOP 3.11.: Verkehrsrechtliche Anordnung: Metzstr. 6-12 vom 30.10.-15.12.2023 wegen Neubau Fernwärme
+- TOP 3.12.: Zeppelinstraße - neue Sperrflächenmarkierung
+- TOP 3.13.: TOPO-Box Messung in der Hochstraße in der Kalenderwoche 45
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Behindertenparkplätze in der geplanten Fußgängerzone Weißenburger Straße
+- TOP 4.2.: Zustand Michael-Huber-Weg mit Bitte um schnelles Handeln (Beparken der Gehwege und mangelnde Beleuchtung)
+- TOP 4.3.: Tempo 30 in der Wörthstraße
+- TOP 4.4.: Bahnhaltepunkt Kolumbusplatz
+- TOP 4.5.: Anliegen zum Carl-Amery-Platz
+- TOP 4.6.: Kirchliches Zentrum, Öffnung zur Breisacher Straße
+- TOP 4.7.: Schulwegsicherheit an der Kreuzung Reger-/Welfenstraße
+- TOP 4.8.: Behindertengerechte Plasterung des Wegs Am Neudeck
+- TOP 4.9.: Mehr Sicherheit für Fußgänger und Fahrradfahrer entlang der Ohlmüllerstrasse - Barrierefreie Gestaltung der Unterführung auf beiden Seiten der Brücke
+- TOP 4.10.: N - Ortstermin Lothringer Straße
+- TOP 4.11.: N - Jeder Baum zählt - Baumfällungen in der Zeppelinstraße wegen Radwegverbreiterung
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Sedanstraße - Baumpflanzung, Projektplanung
+- TOP 2.: Anhörungen
+- TOP 2.1.: Seeriederstr. 5
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Lärm und Umweltschutz am Flaucher und an den Isarauen
+- TOP 3.2.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 3.3.: Regenwasser für die Gehweghochbeete Ortstermin am 15.11.2023 um 16 Uhr
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Lärmbelastung durch Kehrmaschinen in der Wörthstraße
+- TOP 4.2.: Komposttoiletten für öffentliche Grünanlagen
+- TOP 4.3.: Ersatzpflanzung Nockherstraße / Störende Mülltonnen Nockher-/Taubenstraße
+- TOP 4.4.: N - Unterstützung für Bürgerbeteiligung Südliche Au
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 04.12.2023 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 04.12.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 05.12.2023 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 06.12.2023 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 06.12.2023 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 07.12.2023 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 13.12.2023, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 28.11.2023, 20.00 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
