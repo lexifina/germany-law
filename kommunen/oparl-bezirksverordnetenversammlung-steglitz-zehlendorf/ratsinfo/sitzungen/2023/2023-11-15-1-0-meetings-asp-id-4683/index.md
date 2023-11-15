@@ -1,0 +1,73 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-11-15T17:00:00+01:00
+- Ende: 2023-11-15T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4683
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4683
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Den Blumenkiez nach Fertigstellung der Moltkebrücke wieder lebenswerter und attraktiver machen - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Zu Drucksache 0124/VI "Steglitz-Zehlendorf zur Age-friendly City machen" - beantwortet
+- TOP 4.2: Wann wird endlich der Hundeauslauf am Barnackufer eingerichtet? - beantwortet
+- TOP 4.3: Wissenstransfer in der Verwaltung sicherstellen - beantwortet
+- TOP 4.4: Wer schürt hier Angst? - beantwortet
+- TOP 4.5: "Hungerlöhne" beim Schulcatering im Bezirk - beantwortet
+- TOP 4.6: Live-Stream der BVV Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 4.7: Aufsuchende Sozialarbeit in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Sondermittel der BVV für den TC Grün-Weiss Nikolassee 1925 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Hilfen absichern, Träger der Wohnungslosenhilfe unterstützen - in der BVV abgelehnt
+- TOP 5.9: Ausweitung des Besuchsdienstes über ganzen Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Entwicklung des B 101-Korridors in Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Überarbeitung des bezirklichen Zentrenkonzeptes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: RTO-Bahnsteig winterfest machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Beratungs- und Unterstützungsangebote für Geflüchtete - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Verkehrssicherheit und ungehinderte Einfahrt der Feuerwehr an der Ecke Marschnerstraße/Haydnstraße - überwiesen
+- TOP 6.2: Die notwendigen Klimaziele im Bezirk erreichen: Einen eigenständigen Klimaausschuss unter Einbeziehung der Einwohner*innen und des gesamten Bezirksamtes einrichten - überwiesen
+- TOP 6.3: Verlängerung Tempo 30 auf der Königstraße - überwiesen
+- TOP 6.4: Selbstverteidigungskurse für Mädchen und Frauen - überwiesen
+- TOP 6.5: Display DAISY im Herzen von Lichterfelde-Ost reparieren - überwiesen
+- TOP 6.6: Auch weibliche Straßenbenennungen für das Neubaugebiet in Lichterfelde-Süd - überwiesen
+- TOP 6.7: Flüchtlingsunterkünfte von der evangelischen Kirche einfordern - überwiesen
+- TOP 6.8: Queere Aufklärung für Flüchtlinge - überwiesen
+- TOP 6.9: Sorgenlos Schwimmen lernen: Schulbusfahrten kostenlos - überwiesen
+- TOP 6.10: Werkräume für Grundschulen - überwiesen
+- TOP 6.11: Steglitz-Zehlendorf unterstützt Teltowkanallinie - überwiesen
+- TOP 6.12: Erinnerung an Präsenz der Amerikaner im Outpost - überwiesen
+- TOP 6.13: KI zur Unterstützung der Bezirksamtsarbeit - überwiesen
+- TOP 6.14: Anbindung an den ÖPNV bei der Erschließung des Tanklagers Lankwitz miteinbeziehen - überwiesen
+- TOP 6.15: Entsiegelung an der Sembritzkistraße/Ecke Grabertstraße - überwiesen
+- TOP 6.16: Flyer über die BVV erstellen - überwiesen
+- TOP 6.17: Parkbank im Ramsteinweg - überwiesen
+- TOP 6.18: Straßenpoller mit weißen Streifen kennzeichnen - überwiesen
+- TOP 6.19: Flächendeckendes WLAN in allen sieben Seniorenfreizeiteinrichtungen - überwiesen
+- TOP 6.20: Schulwegsicherheit Clemens-Brentano-Grundschule - überwiesen
+- TOP 6.21: Baustellenkoordinierung - Störungen für Verkehr, Radfahrer und Fußgänger minimieren - überwiesen
+- TOP 6.22: Gesellschaftliches Klima retten - Bürgerinnen und Bürger einbeziehen! - überwiesen
+- TOP 6.23: Hausbäume für Steglitz-Zehlendorf - überwiesen
+- TOP 6.24: Erweiterte Spielplatzformen - überwiesen
+- TOP 6.25: E-Wasser-Shuttles für den ÖPNV - überwiesen
+- TOP 6.26: Zebrastreifen von der Dreilinden-Grundschule - überwiesen
+- TOP 6.27: Stele für Erich Fellgiebel - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Schulwegsicherheit in Steglitz-Zehlendorf - beantwortet
+- TOP 7.2: Leerstand von Wohnraum ist ein Skandal - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Pilotprojekt Tiny Forests für Steglitz-Zehlendorf - in der BVV abgelehnt
