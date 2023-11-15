@@ -1,0 +1,56 @@
+# Gemeindevertretung (20. Sitzung)
+
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Beginn: 2023-11-15T19:30:00+01:00
+- Ende: 2023-11-15T21:30:00+01:00
+- Ort: Dorfgemeinschaftshaus Arnoldshain, Taunusstraße 42, 61389 Schmitten im Taunus, Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/schmitten/tops/?__=UGhVM0hpd2NXNFdFcExjZRVOGVOfz-WbpEwPAL-T5s4
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/meeting/861
+- Quelle: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcFi13wxs-ZpC0E0OovpMPyIZ4EBrmwoVfzCYqxbbj4j/Bekanntmachung_Gemeindevertretung_15.11.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaHOOcKa4IIYt0I947C_ycdJWnDhsT2V3XmmtqKOBh9P/Oeffentliche_Niederschrift_Gemeindevertretung_15.11.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Mitteilungen
+- TOP 1.1: des Vorsitzenden der Gemeindevertretung
+- TOP 1.1.1: Einladung zur Bürgerversammlung am 16. November 2023 in der Jahrtausendhalle Oberreifenberg
+- TOP 1.2: des Gemeindevorstandes
+- TOP 1.2.1: Sachstandsbericht der Wasserversorgung vom 08.11.2023
+- TOP 1.2.2: Pressemitteilung Fachkräftemangel stoppt NRD-Bauprojekt
+- TOP 1.2.3: Aktueller Stand der Steueranteile für das 3. Quartal 2023 / Einbringung Haushaltsplan 2024
+- TOP 1.2.4: Statusbericht über die Verweisungsanträge an den Gemeindevorstand der Legislaturperiode 2021-2026
+- TOP 1.3: zu schriftlich vorliegenden Anfragen
+- TOP 1.3.1: Anfrage der FWG-Fraktion betr. "Glasfaseranschluss im DGH Hunoldstal"
+- TOP 1.4: der Ausschüsse
+- TOP 1.4.1: Bau-, Planungs- und Verkehrsausschuss
+- TOP 1.4.2: Haupt-, Finanz- und Digitalisierungsausschuss
+- TOP 1.4.3: Umwelt-, Klima- und Wirtschaftsausschuss
+- TOP 1.4.4: Sozialausschuss
+- TOP 1.5: aus den Verbänden
+- TOP 2.: Genehmigung des letzten Protokolls
+- TOP -: Teil A (Ohne Aussprache)
+- TOP 3.: Bericht über den Zeitraum 01.01.2023 bis 30.04.2023 gemäß § 28 Abs. I GemHVO über den Stand des Haushaltsvollzugs - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Anmeldung von Mehrkosten Erweiterung der Speicherkapazität im Hochbehälter Feldberg in Oberreifenberg - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Waldwirtschaftsplan 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beratung und Beschlussfassung über den Entwurf der Archivsatzung der Gemeinde Schmitten im Taunus - Einstimmig, 0 Enthaltung(en)
+- TOP -: Teil B (Mit Aussprache)
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der 6. Änderungssatzung zur Wasserversorgungssatzung (WVS) der Gemeinde Schmitten im Taunus - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Beratung und Beschlussfassung über den Entwurf der Kostenbeitragssatzung über die Benutzung der Kindertagesstätten der Gemeinde Schmitten im Taunus - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Beratung und Beschlussfassung über den Entwurf der Satzung über die Benutzung der Kindertagesstätten der Gemeinde Schmitten im Taunus ab dem 01.01.2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Ausschreibung mit Teilnahmewettbewerb und Verhandlungsverfahren für den Neubau und Betrieb eines Kindergartens in Oberreifenberg - 15 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Weitere Teilnahme am Betrieb an der Behördennummer 115 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Abschluss einer öffentlich-rechtlichen Vereinbarung über den Einsatz des Rüstwagens (RW) der Stadt Oberursel (Taunus) und der Gemeinde Schmitten im Taunus - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Ankauf einer Fläche für den geplanten Feuerwehrstandort „Nord“ in Dorfweil - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Förderung der Dorfentwicklung- und Regionalentwicklung in Hessen Dorfentwicklung in Schmitten (2021 – 2028) Abschluss der Konzeptphase - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Vorschlagsliste der Steuerungsgruppe Dorfentwicklung für die durchzuführenden Projekte in 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Konzept zur Sanierung der Stützmauer an der Weil sowie Neugestaltung der Parkanlage
+- TOP 16.1: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Neugestaltung Park Schmitten" - Einstimmig, 0 Enthaltung(en)
+- TOP 16.2: Konzept zur Sanierung der Stützmauer an der Weil sowie Neugestaltung der Parkanlage Ortsteil Schmitten - Parkanlage bzw. Seelenberger Straße und Freseniusstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Antrag der FWG-Fraktion betr. "Carsharing in der Gemeinde Schmitten" - 11 Ja-Stimme(n), 12 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 18.: Antrag der FWG-Fraktion betr. "Glasfaseranschluss für das Dorfgemeinschaftshaus Hunoldstal sowie sämtlicher Dorfgemeinschafts- und Bürgerhäuser der Gemeinde Schmitten" - 11 Ja-Stimme(n), 14 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 19.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Antrag zur Weiterentwicklung des Schmittener Wasserhaushaltes; insbesondere Fließgewässer" - 25 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Nachwahl von Mitgliedern der Integrations-Kommission - Einstimmig, 0 Enthaltung(en)
