@@ -1,0 +1,6 @@
+# TOP 1.: Vorbereitung der Beschlüsse zu der in der Stadtverordnetensitzung am 23.11.2023 anstehenden Tagesordnung
+
+- Sitzung: Ausschuss für Kinder, Jugend, Soziales und Integration (22. Sitzung) (2023-11-15)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/11919
