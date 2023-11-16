@@ -1,0 +1,90 @@
+# 21. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-16T15:30:00+01:00
+- Ende: 2023-11-16T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27447
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27447
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP -: 0 Aktuelle Stunde zu den Auswirkungen der Kürzungen im Bundeshaushalt 2024 des Bundesministeriums für Arbeit und Soziales auf das Jobcenter und die Trägerlandschaft der Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten - zurückgestellt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Strukturförderfonds 2023 / 2024 - zurückgestellt
+- TOP 4.2: Erhöhung der Treppengeländer im Bürgerhaus Stollwerck - Planungsbeschluss - ungeändert beschlossen
+- TOP 4.3: Neugestaltung des Innenhofbereiches und der oberen Grünfläche im Bürgerhaus Kalk, Kalk-Mülheimer-Straße 68, 51103 Köln - Planungsbeschluss - geändert beschlossen
+- TOP 4.4: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet Ehrenfeld Ost in Köln Ehrenfeld - ungeändert empfohlen
+- TOP 5.2: Bauliche Ertüchtigung zur Sicherstellung der Betreiberverantwortung statt Umbau, Modernisierung und Erweiterung des Bürgerhauses MüZe, Berliner Str. 77 in Köln-Mülheim - ungeändert empfohlen
+- TOP 5.3: Kulturbunker in Köln-Mülheim, Berliner Straße 20 - Verzicht auf Modernisierung und energetische Ertüchtigung - ungeändert empfohlen
+- TOP 5.4: Überleitung der Maßnahme "Zuhause im Veedel" in das Förderprogramm Gemeinwesenarbeit - ungeändert empfohlen
+- TOP 5.5: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - zurückgestellt
+- TOP 5.6: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Str. durch einen Totalunternehmer - ohne Votum in nachfolgende Gremien
+- TOP 5.7: Verlängerung Auszugsmanagement 2024/2025 - ungeändert empfohlen
+- TOP 5.8: Kölner Verhütungsmittelfonds - ungeändert empfohlen
+- TOP 5.9: Zweite Satzung zur Änderung der Satzungen der Stadt Köln vom 16.01.2018 über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen über die Erhebung von Gebühren - zurückgestellt
+- TOP 5.10: Leitbild für kulturelle Teilhabe in Vielfalt - ohne Votum in nachfolgende Gremien
+- TOP 5.11: Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch: - zurückgestellt
+- TOP 5.12: Befristete Verlängerung des Förderprogrammes im Rahmen des Programmes "Bleibeperspektive in Köln" mit Trägerbindung - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6.1: Neuverpachtung der Gastronomie im Bürgerhaus Stollwerck - ungeändert empfohlen
+- TOP 6.2: Strukturförderfonds 2023 / 2024 - zurückgestellt
+- TOP 7: Wohnen
+- TOP 7.1: Weiterentwicklung des preisgedämpften Wohnungsbaus - Kenntnis genommen
+- TOP 7.2: Kosten Administrierung Wohngeld - Kenntnis genommen
+- TOP 7.3: Gestiegene Mieten und ungleiche Mietbelastung – Ergebnisse der Kölner Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: 2. Quartalsbericht 2023 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.2: Aktuelle Zahlen zur städtischen Unterbringung Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.3: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 9.4: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU Fraktion, Volt Fraktion (AN/0641/2023) vom 19.04.2023 betreffend Nächtliche Unterbringung von obdachlosen Menschen mit Hunden in Köln - Kenntnis genommen
+- TOP 10.1.2: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - zurückgestellt
+- TOP 10.1.3: Kostenloses Schulessen an Kölner Schulen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD Fraktion - Kenntnis genommen
+- TOP 10.1.4: Ausstiegswohnung für Menschen in der Prostitution in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD betreffend "Ausstiegswohnung für Menschen in der Prostitution in Köln" AN/1636/2023 - Kenntnis genommen
+- TOP 10.1.5: Übersetzungen von Inhalten der Informationsseiten der Stadt Köln in die Deutsche Gebärdensprache (DGS) - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU und Volt betreffend "Übersetzungen von Inhalten der Informationsseiten der Stadt Köln in die Deutsche Gebärdensprache (DGS)" - Kenntnis genommen
+- TOP 10.1.6: Sommerhilfe für wohnungslose Kölnerinnen und Kölner - zurückgestellt
+- TOP 10.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.8: Förderung Schulsozialarbeit - Kenntnis genommen
+- TOP 10.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.10: Beantwortung einer Anfrage aus dem Ausschuss für Soziales, Seniorinnen und Senioren vom 14.09.2023 - Kenntnis genommen
+- TOP 10.1.11: Beantwortung einer mündlichen Anfrage der SPD-Fraktion in der Sitzung vom 14.09.2023 betreffend Mehrfachbeschäftigung in Köln (2162/2023) - Kenntnis genommen
+- TOP 10.1.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Cannabis Modellstadt - zurückgestellt
+- TOP 10.2.2: Armut in Köln: Entwicklung Köln-Pass - zurückgestellt
+- TOP 10.2.3: Kosten der Unterkunft: Was ist angemessener Wohnraum in Köln? - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 12.2: Projekt "Zukunft Pflege Köln" - Sachstand - Kenntnis genommen
+- TOP 12.3: Branchenprofil Gesundheits- und Sozialwesen – Beschäftigungsentwicklung in Köln und im Regionalvergleich 2012 bis 2022: Beschäftigung steigt in allen Bereichen - Kenntnis genommen
+- TOP 12.4: Bewerbung der Stadt Köln als Modellstadt für die Legalisierung von Cannabis - Kenntnis genommen
+- TOP 12.5: Übertragung von Finanzmitteln aus dem Strukturförderfonds - Kenntnis genommen
+- TOP 12.6: Ende der Landesinitiative „Durchstarten in Ausbildung und Arbeit" (DiAA) - Kenntnis genommen
+- TOP 12.7: Mitteilung über das Ergebnis zum Prüfauftrag zum Änderungs- bzw. Zusetzungsantrag vom 07.09.2023 "ÖPNV gerecht erweitern und stärken: Sozialticket für 19 Euro in Köln auf den Weg bringen (AN - Kenntnis genommen
+- TOP 12.8: Aktuelle Vermittlungserfolge der Kölner Gesellschaft für Arbeits- und Berufsförderung mbH - Kenntnis genommen
+- TOP 12.9: Unterstützung beim Erwerb des "Deutschlandtickets sozial" für Köln-Pass Inhaber*innen - Kenntnis genommen
+- TOP 12.10: Informationen zum zu testenden Toilettenmodell für besondere Anforderungen - Kenntnis genommen
