@@ -1,0 +1,8 @@
+# TOP -: Beantwortung der Anfrage der SPD-Fraktion betreffend "Kölner Wirtschaft; Stärke durch Vielfalt", AN/0806/2023
+
+- Sitzung: 20. Sitzung des Wirtschaftsausschusses (2023-11-16)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/384874
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/176192
