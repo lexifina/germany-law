@@ -1,0 +1,186 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-11-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7239008
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7239008
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2.: Nachbesetzung in den Unterausschüssen Bau und Mobilität und Umwelt, Energie und Klimaschutz
+- TOP 1.1.3.: Benennung eines Internet- und Baumschutzbeauftragten
+- TOP 1.1.4.: Nachbesetzung im Ferienausschuss
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung vom 19.10.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget SV Gartenstadt Trudering e.V. Behebung von Feuchtigkeitsschäden 1.915,10 € / 0262.0-15-0504
+- TOP 2.1.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 15 Trudering Riem vom 01.01. - 31.12.2024 7.980,00€ / AZ 0262.0-15-0511
+- TOP 2.1.3.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Container Bezirk 15 Trudering Riem vom 01.01. - 31.12.2024 5.000,00 €/ AZ 0262.0-15-0512
+- TOP 2.1.4.: (E) Stadtbezirksbudget Miteinander Trudering e.V. Nachbeschaffung für unsere Begegnungsräume 1.413,00€ / AZ 0262.0-15-0513
+- TOP 2.1.5.: (E) Stadtbezirksbudget Münchner Volkhochschule "Experiment Riem - KopfSpiel im Kopfbau" vom 12.11.-02.12.2023 2.988,00 € / AZ 0262.0-15-0508
+- TOP 2.1.6.: (E) Stadtbezirksbudget Münchner Volkshochschule Wiederaufnahme: Timeline – ein Projekt zur Erinnerung und zum Weiterdenken vom 12.11. - 02.12.2023 1.643,50 € / AZ 0262.0-15-0509
+- TOP 2.1.7.: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. Whiteboard für den Unterrichtsraum 1.500,00€ / AZ 0262.0-15-0505
+- TOP 2.1.8.: (E) Stadtbezirksbudget TSV Maccabi München e.V. Chanukka on Ice 2023 am 10.12.2023 6.200,00€ / AZ 0262.0-15-0514
+- TOP 2.1.9.: (E) Stadtbezirksbudget Kath. Kirchenstiftung Christi Himmelfahrt Geburtstags-Gala 90 Jahre Christi Himmelfahrt am 10.11.2023 4.405,00€ / AZ 0262.0-15-0510
+- TOP 2.1.10.: (E) Stadtbezirksbudget Eigenheimervereinigung Trudering e.V. Truderinger Adventleuchten vom 01.12.2023 – 07.01.2024 8.006,62€ / AZ 0262.0-15-0516
+- TOP 2.1.11.: (E) Stadtbezirksbudget TSV Waldtrudering e.V. Anschaffung von vier neuen Niedersprungmatten 3.651,00€ / AZ 0262.0-15-0515
+- TOP 2.1.12.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. Beschaffung von Pavillons mit Zubehör 2.074,00€ / AZ 0262.0-15-0517
+- TOP 2.1.13.: (E) Stadtbezirksbudget MOBILE Produktionen Bernoulli Adele Schopenhauer und ein Feldmärchen: Porträt mit starken Frauen vom 15.02. - 31.12.2024 2.800,00€ / AZ 0262.0-15-0518
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: Anfrage zur Erledigung des BA-Antrags Nr. 20-26 / B 01006 "Flughafen-Riem-Straße: Widmung des 4. Bauabschnittes und Verkehrsfreigabe"
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.5.1.: (E) Einrichtung gemeinsamer "Tasc Force" zur konzentrierten Aktion Gewaltlosigkeit Empfehlung Nr. 20-26 / E 00960 ................................
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Verschiedene Maßnahmen zur Erhöhung der Verkehrssicherheit auf dem Schulweg zum Gymnasium Messestadt-Riem
+- TOP 3.2.2.: Am Hüllgraben/ Paul-Wassermann-Straße: Verkehrssicherheitsmaßnahme an dem Fahrradweg
+- TOP 3.2.3.: Missachtung der Tempo-20-Zone im Ortskern Trudering sowie Gehwegverhältnisse am Hafelhofweg
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Eissport-Infrastruktur in München: Bitte um dringende Unterstützung
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Spielplatz Ruppanerstraße / Steffelhofstraße: Aufstellung von "Hunde verboten"-Schildern
+- TOP 3.6.2.: Anfrage für eine gesicherte Freifläche für Hunde in Waldtrudering
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Sozial – Mit Sicherheit: Antragspaket für Prävention und Bekämpfung von Jugendkriminalität
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Leistungsfähigkeit der Kreuzung Wasserburger Land- / Schwablhofstraße / Friedenspromenade mit einfachen Mitteln erhöhen
+- TOP 4.7.2.: Prävention von sexuellen Übergriffen
+- TOP 4.7.3.: Stadtteilbibliothek Waldtrudering muss bleiben
+- TOP 4.7.4.: Östlichen Uferweg am Riemer See mit Sitzbänken ausstatten
+- TOP 4.7.5.: Planungskonsortium für den 5. Bauabschnitt Messestadt / Arrondierung Kirchtrudering
+- TOP 4.7.6.: Wertstoffsammlung direkt in den Nahversorgungszentren Truderings
+- TOP 4.7.7.: Ein blühendes Edinburgh für alle: Umgestaltung und Neubepflanzung des Edinburghplatzes
+- TOP 4.7.8.: Arbeit des Bildungslokal Riem auf Trudering ausweiten: Auch in Trudering verdienen Kinder und Familien Unterstützung
+- TOP 4.7.9.: Die nördliche Bajuwarenstraße in eine Tempo 30-Zone umwandeln
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Unterstützung des Fördervereins der Grundschule am Lehrer-Götz-Weg e.V. Bauen und Programmieren mit LEGO Wedo 2.0
+- TOP 5.1.2.: Finanzierung von Anlagegegenständen für Rettungsdienste und Dienste des Katastrophenschutzes nicht aus den Budgets der Stadtbezirke
+- TOP 5.1.3.: Förderung des Projekts "Timeline – ein Projekt zur Erinnerung und zum Weiterdenken vom 12.11. - 02.12.2023“: Stellungnahme des Kulturreferats
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Am Mitterfeld: Erhöhung der Verkehrssicherheit zwischen Kirchtruderinger Straße und Truchthari-Anger
+- TOP 5.2.2.: Von-Erckert-Straße: Maßnahmen zur Verkehrsentschärfung und Einhaltung der Geschwindigkeitsbegrenzung auf 30 km/h
+- TOP 5.2.3.: Überprüfung der Positionierung und Einsehbarkeit der Verkehrsbeschilderung: a) Leonhardiweg b) Bajuwarenstraße
+- TOP 5.2.4.: Ernst machen mit dem Schnellen Radweg München-Ebersberg
+- TOP 5.2.5.: Lärmschutz für die Anwohner der A94 in Riem
+- TOP 5.2.6.: Beschlussempfehlungen zur Ertüchtigung des Radwegs entlang der Friedenspromenade zwischen WaBuLa und Gymnasium vs. Aufhebung der Radbenutzungspflicht
+- TOP 5.2.7.: Erinnerungs-Antrag: Truderinger-Riemer Fahrradoffensive Teil 2 – Zweirichtungs-Fuß-Radweg an der Friedenspromenade den Bedürfnissen der hohen Nutzungsfrequenz anpassen
+- TOP 5.2.8.: Für die Verkehrswende und einen attraktiven ÖPNV: Der Münchner Osten braucht dringend den „Zukunftsbahnhof Trudering“
+- TOP 5.2.9.: Leibengerstraße: Einrichtung eines Parkverbots
+- TOP 5.2.10.: Am Mittelfeld: Überprüfung der Ampelanlage aufgrund der fehlenden Bautätigkeit an der betroffenen Baustelle
+- TOP 5.2.11.: Truderinger Wald: Aufstellung von Orientierungsschildern
+- TOP 5.2.12.: Beschleunigte Wiedereinführung eines Kombitickets für Messe und MVV und Neueinführung eines Kombitickets für Konzerte auf dem Messefreigelände
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Vogel- und Artenschutz in Neubaugebieten des Stadtbezirk 15
+- TOP 5.6.2.: Schwammstadtprinzip in den neuen Baugebieten des BA15
+- TOP 5.6.3.: Anhebung der Untergrenze der Kosten für illegale Baumfällungen auf mindestens € 3000,- BA-Antrag 20-26 / B 03806 des BA 11 Milbertshofen - Am Hart
+- TOP 5.6.4.: Riemer See: Nutzung durch Hunde
+- TOP 5.6.5.: Riemer Park: Überwachung der Hundeverbotszonen
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Leistungsbilanzen des Baureferats zur Bürgerversammlung am 30.11.2023
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung in städtischen Grünanlagen: Waldweihnacht (Gottesdienst) der evang. luth. Sophienkirche am 17.12.2023 im Riemer Park
+- TOP 7.1.2.: Kirchtruderinger Straße 4: Aufstellung eines Kreislaufschrankes an der städtischen Grünfläche
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Beschlussentwurf des Referats für Stadtplanung und Bauordnung
+- TOP 7.2.2.: Erdinger Straße: Beschilderung als Geh- und Radweg
+- TOP 7.2.3.: Wasserburger Landstraße: Beibehaltung der Kurzparkzonen
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/43 und Bebauungsplan mit Grünordnung Nr. 1728n Fünfter Bauabschnitt Messestadt Riem A) Bekanntgabe des Ergebnisses der Überarbeitung der drei prämierten Beiträge des städtebaulichen und landschaftsplanerischen Wettbewerbs im Rahmen des Verfahrens nach Vergabeverordnung B) Ergänzung des Eckdaten- und Aufstellungsbeschlusses vom 09.06.2021 Beschlussentwurf des Referats für Stadtplanung und Bauordnung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Zehntfeldstr. 169 - Neubau einer Wohnanlage mit Tiefgarage (2 Varianten) - VORBESCHEID
+- TOP 7.4.2.: Hererostr. 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.3.: Sonnenspitzstr. 3 - Neubau von einem Quattrohaus mit zwei Stellplätzen und zwei Garagen
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Bewerbung für das Projekt: "Vom Weltspieltag zum Weltkindertag 2024"
+- TOP 7.5.2.: Schul- und Kitabauoffensive: 5. Schulbauprogramm Beschlussentwurf des Referats für Bildung und Sport
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Bajuwarenpark / Marianne-Plehn-Straße: Benennung eines Standorts für die Errichtung einer Toilettenanlage
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Am Birkicht 2 Am Mitterfeld 22 Helenenstr. 4a Rotkehlchenweg 2
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Fabinistr. 13 Günderodestr. 53 Hermann-Schaller-Str. 12 Himalajastr. 20 Hochalmstr. 3 Kameruner Str. 25 Kranichweg 41 Leibengerstr. 14 Sonnenspitzstr. 3 Truderinger Str. 281 Von-Gravenreuth-Str. 32 Wasserturmstr. 22 Zehntfeldstr. 160 Zehntfeldstr. 169
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Beschlussentwurf des Sozialreferats Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.3.: Festlegung des Umgriffs für die Verteilung von Infoflyern an benachbarte Haushalte bei den Flexi-Heimen Lehrer-Götz-Weg 10 und Heinrich-Wieland-Str. 99/101
+- TOP 9.1.4.: Sonderfreifläche am De-Gasperi-Bogen bei Tor 9: Lager- und Verkaufsfläche für Christbäume Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Veranstaltung auf stadteigenem Grund: Kasperle Abenteuer Theater an der an der Olof-Palme-Straße/Joseph-Wild-Straße vom 16.10.2023 - 30.10.2023
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Astrid-Lindgren-Straße b) Waldschulstraße
+- TOP 10.2.2.: Birthälmer Straße: Erhöhte Gefahr für Krippenkinder durch Nichteinhaltung der Geschwindigkeitsbegrenzung auf 30 km/h sowie einen verengten Gehweg
+- TOP 10.2.3.: Schulweg Gymnasium Messestadt-Riem: Auskunft zum Bustakt 139 sowie einem sicheren Fahrradweg
+- TOP 10.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.5.: Ortskern Trudering: Information zur Missachtung der Geschwindigkeitsbegrenzung und des Zebrastreifens
+- TOP 10.2.6.: Wasserburger Landstraße: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV aufgrund Sanierung des Abwasserkanals
+- TOP 10.2.7.: Planfeststellungsbeschluss "Barrierefreier Ausbau des Bahnhofs München-Riem: 1. Planänderung durch Ersatzneubau der Personenunterführung mit Rampenanlage und Anpassung der Treppenbreiten, Aufhöhung Außenbahnsteig Gleis 1 sowie Verlängerung Bahnsteigdach Mittelbahnsteig"
+- TOP 10.2.8.: Bognerhofweg / Hafelhofweg: Anbringung von Piktogrammen am Wendehammer des Hafelhofweges
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Realisierungswettbewerb Baufeld WA4: Protokoll der Preisgerichtssitzung
+- TOP 10.3.2.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Hochkönigstraße 4 b) Schneefinkenweg 1a c) Wachtelweg 9a
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Am Moosfeld 21: Verschärfte Situation in der Gemeinschaftsunterkunft (psychische Auffälligkeiten, Drogenproblematik, Gewaltbereitschaft)
+- TOP 10.5.2.: Protokoll des Runden Tisches zur geplanten Sprengeländerung von der Grundschule Turnerstraße zur Grundschule Markgrafenstraße zum Schuljahr 2024/25
+- TOP 10.6: UA Umwelt, Energie und Klimaschutz
+- TOP 10.6.1.: Riemer Park: Häufige Verschmutzung an der Fitnessbühne "Fit im Park" und der Gymnastikwiese
+- TOP 10.6.2.: Riemer Park: Information zu den Gänsen am See
+- TOP 10.6.3.: Allgemeinverfügung über das Verbot des Abbrennens von pyrotechnischen Gegenständen innerhalb des Mittleren Ringes (Umweltzone) am 31.12.2023 und 01.01.2024
+- TOP 1.3.3.: (N) Info-Blatt des Referates für Bildung und Sport im Schul- und Kindertagesstättenbereich zur Bürgerversammlung am 30.11.2023
+- TOP 1.3.4.: (N) Olof-Palme-Straße / Joseph-Wild-Straße: Remos Maskottchenzirkus vom 12.01.2024 bis 04.03.2024
+- TOP 6.2.: (N) Info-Blatt des Referates für Bildung und Sport im Schul- und Kindertagesstättenbereich zur Bürgerversammlung am 30.11.2023
+- TOP 7.1.3.: (N) Olof-Palme-Straße / Joseph-Wild-Straße: Remos Maskottchenzirkus vom 12.01.2024 bis 04.03.2024
+- TOP 1.3.5.: (N) Veranstaltung in städtischen Grünanlagen: Weihnachtsmarkt des Echo e.V. im Riemer Park, südliche Schotterfläche am Kopfbau vom 15. – 17.12.2023
+- TOP 7.1.4.: (N) Veranstaltung in städtischen Grünanlagen: Weihnachtsmarkt des Echo e.V. im Riemer Park, südliche Schotterfläche am Kopfbau vom 15. – 17.12.2023
+- TOP 1.3.1.: (N) Fassadenwettbewerb für das neue Gebäude in der Messestadt Ost am Elisabeth-Castonier-Platz
+- TOP 1.3.6.: (N) Am Mitterfeld (westliche Fahrbahnseite) und Joseph-Wild-Str. (Nordseite zwischen Schwankhardtweg und Paul-Wassermann-Str.): Anordnung eines Zweirichtungsradwegs, Aufhebung der Benutzungspflicht
+- TOP 4.7.10.: (N) Fassadenwettbewerb für das neue Gebäude in der Messestadt Ost am Elisabeth-Castonier-Platz
+- TOP 7.2.4.: (N) Am Mitterfeld (westliche Fahrbahnseite) und Joseph-Wild-Str. (Nordseite zwischen Schwankhardtweg und Paul-Wassermann-Str.): Anordnung eines Zweirichtungsradwegs, Aufhebung der Benutzungspflicht
+- TOP 1.3.2.: (N) Infostand bei der Stadtteilwoche 2024
+- TOP 1.3.8.: (N) Zehntfeldstr. 169 - Neuerrichtung einer Wohnanlage mit sechs Baukörpern und Tiefgarage – VORBESCHEID
+- TOP 1.3.9.: (N) Beteiligung des BA an der Stadtteilwoche
+- TOP 4.7.11.: (N) Infostand bei der Stadtteilwoche 2024
+- TOP 7.4.4.: (N) Zehntfeldstr. 169 - Neuerrichtung einer Wohnanlage mit sechs Baukörpern und Tiefgarage – VORBESCHEID
+- TOP 9.2.1.: (N) Beteiligung des BA an der Stadtteilwoche
+- TOP 1.3.7.: (N) Gemeinde Haar: 43. Änderung des Flächennutzungsplanes (Photovoltaik) Behördenbeteiligung nach § 4 Abs. 1 BauGB
+- TOP 7.3.2.: (N) Gemeinde Haar: 43. Änderung des Flächennutzungsplanes (Photovoltaik) Behördenbeteiligung nach § 4 Abs. 1 BauGB
+- TOP 1.3.10.: (N) Ergebnisse des Ortstermins "Piktogramme am Hafelhofweg" mit dem Mobilitätsreferat am 27.10.2023
+- TOP 1.3.11.: (N) Ergebnisse des Ortstermin „Schulwegsicherheit am Gymnasium Riem“ mit dem Mobilitätsreferat, der Polizei, Vertreter*innen der Schule und des Elternbeirats am 9.11.2023
+- TOP 9.2.2.: (N) Ergebnisse des Ortstermins "Piktogramme am Hafelhofweg" mit dem Mobilitätsreferat am 27.10.2023
+- TOP 9.2.3.: (N) Ergebnisse des Ortstermin „Schulwegsicherheit am Gymnasium Riem“ mit dem Mobilitätsreferat, der Polizei, Vertreter*innen der Schule und des Elternbeirats am 9.11.2023
