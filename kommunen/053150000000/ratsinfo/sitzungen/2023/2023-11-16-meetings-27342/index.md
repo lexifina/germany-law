@@ -1,0 +1,54 @@
+# 20. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-16T17:00:00+01:00
+- Ende: 2023-11-16T18:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27342
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27342
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Personen gemäß § 5 Absatz 2 der Hauptsatzung der Stadt Köln
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Präsentation der KölnBusiness Wirtschaftsförderungs GmbH zum Thema "Strategie für den Leitmarkt Kultur- und Kreativwirtschaft "
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Kölner Wirtschaft; Stärke durch Vielfalt - zurückgestellt
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betreffend "Kölner Wirtschaft; Stärke durch Vielfalt", AN/0806/2023 - zurückgestellt
+- TOP 3.2: Beantwortung einer mündlichen Anfrage von RM Roß-Belkner im Wirtschaftsausschuss vom 14.09.2023 (TOP 17.1) betreffend der Erschließung von Gewerbegebieten mit Versorgungsleitungen - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage der SPD -Fraktion aus der Sitzung des Digitaliserungsauschusses vom 21.08.2023 betreffend "Startup-Ökosystem in Köln" (AN/1428/2023) - Kenntnis genommen
+- TOP 3.4: Anfrage Ausbau der H2-Tankinfrastruktur für den Schwerlastverkehr in Köln - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage aus der Sitzung des Wirtschaftsausschusses vom 14.09.2023 betreffend "Ausbau der H2-Tankinfrastruktur für den Schwerlastverkehr in Köln" (AN/1421/2023) - zurückgestellt
+- TOP 3.5: Beantwortung einer mündlichen Anfrage von der Fraktion Bündnis 90 /Die Grünen aus der Sitzung des Wirtschaftsausschusses vom 14.09.2023 (2622/2023) betreffend Kulturförderabgabe - Kenntnis genommen
+- TOP 3.6: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung des Wirtschaftsausschusses vom 17.08.2023 betr.: " Fluglärmminderung und Klimaschutz am Flughafen Köln/Bonn" - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Wirtschaftstrelevante Angelegenheiten Städtischer Unternehmen
+- TOP 15: Mitteilungen
+- TOP 15.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB), Bebauungsplan-Entwurf 69430/06, Arbeitstitel "Erweiterung TÜV" in Köln-Poll - Kenntnis genommen
+- TOP 15.2: Branchenprofil Gesundheits- und Sozialwesen – Beschäftigungsentwicklung in Köln und im Regionalvergleich 2012 bis 2022: Beschäftigung steigt in allen Bereichen - Kenntnis genommen
+- TOP 15.3: Weihnachtsmarkt auf dem Friesenplatz - Kenntnis genommen
+- TOP 15.4: Aktuelle Vermittlungserfolge der Kölner Gesellschaft für Arbeits- und Berufsförderung mbH - Kenntnis genommen
+- TOP 15.5: Gestiegene Mieten und ungleiche Mietbelastung – Ergebnisse der Kölner Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 15.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Werbesatzung Köln", Az.: 147/23 B - Kenntnis genommen
+- TOP 15.7: Konzeption Food Hub - Sachstand - Kenntnis genommen
+- TOP 15.8: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 16.1: Öffentliche Ausschreibung des Weihnachtsmarkts auf dem Friesenplatz im Zeitraum 2024 - 2028 - ungeändert empfohlen
+- TOP 16.2: Vergabekonzept für Veranstaltungen auf zentralen Plätzen der Kölner Innenstadt: Erfahrungsbericht zum Vergabekonzept für die Zeit vom 01.01.2019 bis 31.12.2023 sowie Weiterentwicklung des Vergabekonzepts für die Zeit ab 01.01.2024 bis 31.12.2028 - ohne Votum in nachfolgende Gremien
+- TOP 16.3: Aktionsplan Klimaschutz - ohne Votum in nachfolgende Gremien
+- TOP 16.4: Förderprogramm "Unterstützung Handel" - Freigabe weiterer Fördermittel für das Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 17: Mündliche Anfragen
