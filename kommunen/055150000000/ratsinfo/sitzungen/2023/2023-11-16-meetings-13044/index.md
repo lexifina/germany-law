@@ -1,0 +1,57 @@
+# 25. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-11-16T17:02:00+01:00
+- Ende: 2023-11-16T19:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13044
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13044
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00538501.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW - entfällt
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: B-Plan 485 (Nordumgehung Roxel) - eingebracht
+- TOP 4.2: Anfrage an die Verwaltung zur neuen Gesamtschule Roxel - beantwortet
+- TOP 4.3: Sperrgutentsorgung - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Planungsbericht der UKM - zur Kenntnis genommen
+- TOP 5.2: Zweiter Tätigkeitsbericht des Stadtteilkulturmanagements im Kulturamt Münster mit der Vorstellung eines Stärkungs-, Entwicklungs- und Förderrahmens - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Organisation der Kirmes in Münster-Albachten - einstimmig beschlossen
+- TOP 6.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.3: Verkehrs- und Straßenbaumaßnahmenprogramm 2024 - 2025 des Amtes für Mobilität und Tiefbau für die bezirklichen Baumaßnahmen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.4: Sanierung der Spielplätze Potstiege und Eichenweg-Süd im Stadtbezirk Münster-West - Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Verkehrs- und Straßenbaumaßnahmenprogramm 2024 - 2025 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 7.2: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept - einstimmig beschlossen
+- TOP 7.3: Handlungsempfehlungen und Zielbreiten fürs Fahrradnetz 2.0 sowie neue Gestaltungselemente für Fahrradstraßen - einstimmig beschlossen
+- TOP 7.4: Fortschreibung 3. Nahverkehrsplan - Einstieg in die ÖPNV-Hochleistungsachsen im Korridor Coerde - Hauptbahnhof - einstimmig beschlossen
+- TOP 7.5: Änderung der Tarifbestimmungen, Haus- und Badeordnung der städtischen Bäder - ohne Beschlussfassung geschoben
+- TOP 7.6: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 7.7: Peter-Wust-Schule: Aufstellung von Fertigbauklassen - einstimmig geändert beschlossen
+- TOP 7.8: Änderung der Friedhofssatzung und der Friedhofsgebührensatzung - einstimmig geändert beschlossen
+- TOP 8: Entwurf des Haushaltsplanes 2024
+- TOP 8.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2024 - einstimmig beschlossen
+- TOP 8.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2024 unter Berücksichtigung der Veränderungsblätter
+- TOP 8.2.1: Erhöhung der Haushaltsansätze für die frei verfügbaren Mittel der Bezirksvertretungen - einstimmig beschlossen
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Zukünftige Nutzung der Einfachsporthalle auf dem Oxfordgelände - eingebracht
+- TOP 9.2: Outdoor Calisthenics Anlage im Grünen Finger - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Verlängerung der Radfahrspur auf dem Rüschhausweg - eingebracht
+- TOP 9.4: Steinbrede - eingebracht
+- TOP 9.5: Verkehrssicherheit am Claudius-Kindergarten Albachten - eingebracht
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Herstellung des Fuß- und Radweges zwischen Ripenhorst/Rockbusch und Heroldstraße/Galgenheide - Stellungnahme zur Kenntnis genommen
+- TOP 10.2: Dingbängerweg als "Schwamm" - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10.3: Aufstellung eines mobilen Dialog-Displays auf der Osthofstraße, Höhe Bushaltestelle Sendener Stiege - Schulwegsicherung - Stellungnahme zur Kenntnis genommen
+- TOP 10.4: Absenkung des Bordsteins auf dem Rüschhausweg Ecke Ahausweg - Stellungnahme zur Kenntnis genommen
+- TOP 10.5: Durchgängiger Fuß- und Radweg Fritz-Stricker-Straße - Stellungnahme zur Kenntnis genommen
+- TOP 10.6: Sanierung der Wegeverbindung zwischen Hafkhorst und Ripenhorst - Stellungnahme zur Kenntnis genommen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
