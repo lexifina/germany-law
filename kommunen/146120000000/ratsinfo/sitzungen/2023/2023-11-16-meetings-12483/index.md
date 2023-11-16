@@ -1,0 +1,72 @@
+# 56. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-11-16T16:00:00+01:00
+- Ende: 2023-11-16T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12483
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12483
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00718171.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters - erledigt
+- TOP 2: Einwohnerfragestunde - erledigt
+- TOP 2.1: Sanierung Stauffenbergallee und Königsbrücker Straße - erledigt
+- TOP 2.2: Digitalisierung im Rathaus - erledigt
+- TOP 2.3: Beleuchtung öffentlicher Gebäude - erledigt
+- TOP 2.4: Graffiti-Schmierereien - erledigt
+- TOP 2.5: Sanierung der Kötzschenbroder Straße in Dresden Kaditz zwischen Ortsausgang Radebeul und Riegelplatz - erledigt
+- TOP 2.6: aktuellen Stand des EU-Projekts "100 Klimaneutrale und intelligente Städte bis 2030" - erledigt
+- TOP 3: Aktuelle Stunde - Krisenvorsorge in Dresden - erledigt
+- TOP 4: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Prohlis der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Ausscheiden einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Pieschen der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Umbesetzung im Aufsichtsrat der NanoelektronikZentrumDresden GmbH der Landeshauptstadt Dresden - Zustimmung
+- TOP 8: Entsendung kommunaler Mitglieder in die Trägerversammlung des Jobcenters Dresden - Zustimmung
+- TOP 9: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 10: Umsetzung des Beschlusses A0399/22 „Ukrainische Schutzsuchende unterstützen - Die Landeshauptstadt Dresden muss handeln“ - Zustimmung
+- TOP 11: Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben nach dem Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe im Bereich der erzieherischen Hilfen 2023 - Zustimmung mit Änderung
+- TOP 12: Dienstleistungskonzession für die Organisation und Durchführung eines Winterevents auf dem Dresdner Altmarkt. Die LHD vergibt das Recht, in den Jahren 2024-2026 auf öffentlich nutzbarem Verkehrsraum ein Winterevent betreiben zu dürfen. - Zustimmung
+- TOP 13: Zuwendung der Landeshauptstadt Dresden für den Ausbau der öffentlichen Wasserversorgung zur industriellen Entwicklung im Konzessionsgebiet - Zustimmung mit Ergänzung
+- TOP 14: Neufassung des Statutes zur Verleihung des Dresdner Lyrikpreises - Zustimmung mit Änderung
+- TOP 15: ESF Plus Förderung 2021 – 2027, Bestätigung der gebietsbezogenen integrierten Handlungskonzepte (GIHK) ESF Plus 2021 – 2027 in Verbindung mit der Bewerbung um Fördermittel des Europäischen Sozialfonds (ESF) - Zustimmung
+- TOP 16: Hochhausleitbild für die Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 17: Satzung der Landeshauptstadt Dresden über die Friedhofsgebühren für die Friedhöfe des Eigen-betriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofsgebührensatzung) - Zustimmung
+- TOP 18: Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden bis 2038 - Zustimmung
+- TOP 19: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für die Abfallwirtschaft (Abfallwirtschaftsgebührensatzung). - Zustimmung
+- TOP 20: Vertagungen aus der Sitzung vom 28.09.2023 - erledigt
+- TOP 20.1: E-Petition „Beförderung von Anwohnerinteressen bei der Einrichtung und dem Betrieb der Containersiedlung in Sporbitz" - Ablehnung
+- TOP 20.2: Qualifizierte Bürgerbeteiligung bei der Auswahl von Standorten zur Unterbringung von Asylbe-werbern und Ausländern nach dem Sächsisches Flüchtlingsaufnahmegesetz - Ablehnung
+- TOP 20.3: Einrichtung einer Speakers Corner am Lingnermarkt vor dem Hygienemuseum - Ablehnung
+- TOP 20.4: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung durch Einreicher
+- TOP 20.5: Luftbad Dölzschen - Ablehnung
+- TOP 20.6: Konzept zur historischen Kontextualisierung und Sanierung des Ehrenhains auf dem Nordfriedhof und des Ehrenmals am Olbrichtplatz erstellen und umsetzen - punktweise Zustimmung
+- TOP 20.7: Spielbetrieb auf den Dresdner Sportplätzen gewährleisten- Instandsetzungen langfristig planen - Zustimmung mit Änderung
+- TOP 20.8: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung
+- TOP 20.9: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung
+- TOP 20.10: Tag der Krisenvorsorge - Notfall üben - Ablehnung
+- TOP 20.11: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung
+- TOP 20.12: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung
+- TOP 20.13: Effektives Verwaltungsmanagement im Kontext Asyl und Migration - Vertagung
+- TOP 20.14: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Vertagung durch Einreicher
+- TOP 20.15: Digitale Stadtpolitik für alle zugänglich machen – Die ganze Stadt im Blick - Vertagung
+- TOP 20.16: Potenzialanalyse für derzeitige kommunale Garagengrundstücke - Zustimmung mit Ergänzung
+- TOP 20.17: Anliegern "Spielstraßen auf Zeit" ermöglichen! - Ersetzung
+- TOP 20.18: Flüchtlingssozialarbeit effizienter gestalten - Vertagung
+- TOP 20.19: Vermüllung von Dresdens Grünflächen stoppen - Maßnahmen zur Müllvermeidung entwickeln - Vertagung
+- TOP 20.20: Transparenz für die städtischen Finanzen - Nachtragshaushalt erarbeiten - Vertagung
+- TOP 21: Bestellung der Wirtschaftsprüfungsgesellschaft für die Jahresabschlüsse des Städtischen Klinikums Dresden - Zustimmung
+- TOP 22: Bestimmung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2023 bis 2027 einschließlich Prüfung der Ordnungsmäßigkeit der Geschäftsführung nach § 53 HGrG für den Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 23: E-Petition „Dresdner Garagen erhalten!“ - Ablehnung
+- TOP 24: E-Petition „Vonovia aufkaufen - Für mehr städtisches Wohneigentum" - Vertagung
+- TOP 25: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung
+- TOP 26: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Vertagung durch Einreicher
+- TOP 27: Aufhebung des Beschlusses P0091/21 "Dresden soll sicherer Hafen werden!" - Vertagung
+- TOP 28: Zweckentfremdungsverbot für Wohnungen unverzüglich umsetzen! - Vertagung
+- TOP 29: Zusammenhalt und Fortschritt brauchen längeres gemeinsames Lernen: Einrichtung weiterer Gemeinschaftsschulen in Dresden - Vertagung
+- TOP 30: Gewährleistung der Aufkommensneutralität der Grundsteuergesamteinnahmen in Umsetzung der Grundsteuerreform - Vertagung
+- TOP 31: Eilantrag: Keine Fahrpreiserhöhung 2024 - punktweise Abstimmung mit Ergänzung
