@@ -1,8 +1,8 @@
 # ESF Plus-Richtlinie Qualifizierung und Reintegration Gefangener 2021–2027 Vollzitat: ESF Plus-Richtlinie Qualifizierung und Reintegration Gefangener 2021–2027
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2022-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19456.1
+- Datum: 2023-11-17 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19456.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2022
+17.11.2023
 bis
-16.11.2023
+31.12.2023
 
 ESF Plus-Richtlinie Qualifizierung und Reintegration Gefangener 2021–2027
 
@@ -42,7 +42,7 @@ Diese Förderrichtlinie regelt die Gewährung von Zuwendungen zur Förderung von
 
 2.
 
-Es gelten die Bestimmungen der Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr mit allgemeinen Bestimmungen zur Förderung von aus dem Europäischen Fonds für regionale Entwicklung (EFRE), dem Fonds für einen gerechten Übergang (JTF) sowie dem Europäischen Sozialfonds Plus (ESF Plus) mitfinanzierten Vorhaben in der Förderperiode 2021 bis 2027 im Freistaat Sachsen (EU-Rahmenrichtlinie) vom 9. Dezember 2021 (SächsABl. S. 1723), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
+Es gelten die Bestimmungen der Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr mit allgemeinen Bestimmungen zur Förderung von aus dem Europäischen Fonds für regionale Entwicklung (EFRE), dem Fonds für einen gerechten Übergang (JTF) sowie dem Europäischen Sozialfonds Plus (ESF Plus) mitfinanzierten Vorhaben in der Förderperiode 2021 bis 2027 im Freistaat Sachsen (EU-Rahmenrichtlinie) vom 9. Mai 2023 (SächsABl. S. 576), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
 
 
 II.
@@ -75,7 +75,7 @@ C.
 III.
 Zuwendungsempfänger
 
-Zuwendungsempfänger sind zugelassene Träger nach der Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch (Akkreditierungs- und Zulassungsverordnung Arbeitsförderung – AZAV) vom 2. April 2012 (BGBl. I S. 504), die durch Artikel 18 des Gesetzes vom 20. Mai 2020 (BGBl. I S. 1044) geändert worden ist, in der jeweils geltenden Fassung.
+Zuwendungsempfänger sind zugelassene Träger nach der Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch (Akkreditierungs- und Zulassungsverordnung Arbeitsförderung – AZAV) vom 2. April 2012 (BGBl. I S. 504), die zuletzt durch Artikel 118 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung.
 
 IV.
 Zuwendungsvoraussetzungen
@@ -90,7 +90,7 @@ Die Vorhaben werden vorrangig innerhalb der Justizvollzugsanstalten durchgeführ
 
 3.
 
-Qualifizierungsvorhaben sollen vorrangig zu einem anerkannten Berufsabschluss führen und möglichst in modularer Form durchgeführt werden. Die Vorgaben der Ausbildungs-, Prüfungs-, Fortbildungs- und Umschulungsordnungen sowie der zuständigen Stellen im Sinne des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das durch Artikel 16 des Gesetzes vom 28. März 2021 (BGBl. I S. 591) geändert worden ist, in der jeweils geltenden Fassung, sind zu beachten. Zur Beachtung des Grundsatzes des Umwelt- und Ressourcenschutzes sollen je nach Berufsbild bei den modularen Qualifizierungen auch umweltrelevante Wissensinhalte im Rahmen der Ausbildung, sowie Kenntnisse zu ökologischen Zusammenhängen vermittelt und damit das Umweltbewusstsein und ein umweltgerechtes Verhalten bei den Teilnehmerinnen und Teilnehmern der Vorhaben gestärkt werden.
+Qualifizierungsvorhaben sollen vorrangig zu einem anerkannten Berufsabschluss führen und möglichst in modularer Form durchgeführt werden. Die Vorgaben der Ausbildungs-, Prüfungs-, Fortbildungs- und Umschulungsordnungen sowie der zuständigen Stellen im Sinne des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das zuletzt durch Artikel 2 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1174) geändert worden ist, in der jeweils geltenden Fassung, sind zu beachten. Zur Beachtung des Grundsatzes des Umwelt- und Ressourcenschutzes sollen je nach Berufsbild bei den modularen Qualifizierungen auch umweltrelevante Wissensinhalte im Rahmen der Ausbildung, sowie Kenntnisse zu ökologischen Zusammenhängen vermittelt und damit das Umweltbewusstsein und ein umweltgerechtes Verhalten bei den Teilnehmerinnen und Teilnehmern der Vorhaben gestärkt werden.
 
 4.
 
@@ -102,7 +102,7 @@ Spezielle Kenntnisse, die durch externe Prüfungen nachgewiesen werden, zum Beis
 
 6.
 
-Die Zahl der Teilnehmerinnen und Teilnehmer pro Vorhaben soll 8 nicht unterschreiten und 20 nicht überschreiten.
+Die Zahl der Teilnehmerinnen und Teilnehmer pro Vorhaben soll 8 nicht unterschreiten und 20 nicht überschreiten. Mit Zustimmung des Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung kann eine geringere Teilnehmerzahl zugelassen werden.
 
 
 V.
@@ -126,13 +126,17 @@ Personalausgaben werden bei Eigenpersonal als Stellenförderung oder personenbez
 
 5.
 
-Eine Wegstrecken- und Mitnahmeentschädigung bei Kfz-Nutzung ist in Höhe der Vorgaben des Sächsischen Reisekostengesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866, 876), das zuletzt durch Artikel 13 des Gesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970) geändert worden ist, in der jeweils geltenden Fassung, möglich. Bei nicht öffentlichen Trägern wird grundsätzlich der erhöhte Satz der Wegstreckenentschädigung für das Vorliegen triftiger Gründe anerkannt.
+Eine Wegstrecken- und Mitnahmeentschädigung bei Kfz-Nutzung und Fahrrad-Nutzung ist in Höhe der Vorgaben des Sächsischen Reisekostengesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866, 876), das zuletzt durch das Gesetz vom 17. Mai 2023 (SächsGVBl. S. 246) geändert worden ist, in der jeweils geltenden Fassung, möglich. Bei nicht öffentlichen Trägern wird grundsätzlich der erhöhte Satz der Wegstreckenentschädigung für das Vorliegen triftiger Gründe anerkannt.
 
 6.
 
 Bei den unter Ziffer II Nummer 2 A genannten Vorhaben werden Verwaltungskosten in Höhe von 22 Prozent der direkten Kosten ausgereicht, bei den unter Ziffer II Nummer 2 B genannten Vorhaben in Höhe von 20 Prozent der direkten Kosten und bei den unter Ziffer II Nummer 2 C genannten Vorhaben in Höhe von 15 Prozent der direkten Kosten. Sie beziehen sich auf die direkten förderfähigen Ausgaben und Kosten nach Nummer 1 der Anlage 2 der EU-Rahmenrichtlinie. Die direkten Kosten sind nachzuweisen. Mit der Verwaltungskostenpauschale sind alle Kosten der Verwaltung (Personalausgaben und Reiseausgaben für Verwaltungspersonal sowie Sachausgaben für Verwaltung, Gebühren, Versicherungen) abgegolten.
 
 7.
+
+Bei Vorhaben, deren Gesamtkosten 200 000 Euro nicht übersteigen, werden Fremdleistungen in Form eines Pauschalbetrages auf Grundlage des mit dem Antrag eingereichten Haushaltsplanentwurfs gefördert. Die Fremdleistungen sind zu begründen und durch Vorlage von Angeboten, Kostenvoranschlägen oder allgemein zugängliche Preisinformationen (Kataloge, Flyer, Internetangebote) zu belegen. Bei Fremdleistungen im Wert von mehr als 5 000 Euro sind vom Antragsteller mindestens drei vergleichbare Angebote einzuholen. Die Berechnungsgrundlagen sind der Bewilligungsstelle vorzulegen.
+
+8.
 
 Nähere Angaben zu Art, Form und Höhe der Pauschalen sowie zur Nachweisführung sind auf der Internetseite der Bewilligungsstelle (www.sab.sachsen.de) veröffentlicht.
 
@@ -182,7 +186,14 @@ Bewilligungsstelle ist die Sächsische Aufbaubank – Förderbank (SAB).
 VII.
 Anforderungs- und Auszahlungsverfahren
 
+1.
+
 Die Bewilligungsstelle ist zur Einbehaltung einer Schlussrate berechtigt, die erst nach Prüfung des Verwendungsnachweises ausgezahlt wird.
+
+2.
+
+Anstelle des Erstattungsprinzips nach Nummer 6.3.2 der EU-Rahmenrichtlinie findet für Vorhaben mit einer Zuwendung von mehr als 10 000 Euro das Vorauszahlungsverfahren nach Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), Anwendung.
+
 
 VIII.
 Verwendungsnachweisverfahren
@@ -202,6 +213,10 @@ In Bezug auf Ziffer V Nummer 4 sind die tatsächlich geleisteten Arbeitsstunden 
 4.
 
 In Bezug auf Ziffer V Nummer 5 sind die tatsächlich gefahrenen Kilometer im Rahmen der Vorhabensdurchführung nachzuweisen.
+
+5.
+
+In Bezug auf Ziffer V Nummer 7 ist die vollständige Durchführung der Fremdleistung durch Vorlage einer gesonderten Teilnehmerliste für die Fremdleistung (zum Beispiel Erste-Hilfe-Kurs, Gabelstaplerlehrgang) sowie eines exemplarischen Teilnehmernachweises (Zeugnis, Zertifikat et cetera) zu bestätigen. Die Teilnehmerliste ist von allen Teilnehmern zu unterschreiben. Zusätzlich bestätigt die jeweilige Justizvollzugsanstalt, in der das Vorhaben durchgeführt wurde, die Durchführung der Fremdleistung auf der Teilnehmerliste durch Unterschrift der Anstaltsleitung. Die Teilnehmerliste sowie der exemplarische Teilnehmernachweis sind der Bewilligungsstelle in pseudonymisierter Form vorzulegen.
 
 
 IX.
@@ -224,9 +239,9 @@ Fsn-Nr.: 559-V21.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2022
+Fassung gültig ab: 17. November 2023
 
-Fassung gültig bis: 16. November 2023
+Fassung gültig bis: 31. Dezember 2023
 
 Drucken/Speichern
 
@@ -251,7 +266,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19456.1
+https://www.revosax.sachsen.de/vorschrift/19456.2
 Stand vom
 18.11.2026
 
