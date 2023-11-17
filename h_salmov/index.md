@@ -1,4 +1,4 @@
-# Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn und bei Puten
+# Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten
 
 - [Inhaltsverzeichnis](inhaltsverzeichnis.md)
 
@@ -15,60 +15,53 @@
 ## Abschnitt 2 Hühnerzuchtbetriebe
 
 - [§ 8 Betriebseigene Kontrollen, sonstige Mitteilungspflichten](0008.md)
-- [§ 9 Maßregeln vor amtlicher Feststellung](0009.md)
-- [§ 10 Amtliche Untersuchung](0010.md)
-- [§ 11 Maßregeln nach amtlicher Feststellung](0011.md)
-- [§ 12 Aufhebung der Schutzmaßregeln](0012.md)
+- [§ 9 Amtliche Untersuchung](0009.md)
+- [§ 10 Maßregeln nach Feststellung von Salmonellen](0010.md)
+- [§ 11 Aufhebung der Maßregeln](0011.md)
 
 ## Abschnitt 3 Hühneraufzuchtbetriebe
 
-- [§ 13 Impfungen](0013.md)
-- [§ 14 Betriebseigene Kontrollen](0014.md)
-- [§ 15 Maßregeln vor amtlicher Feststellung](0015.md)
-- [§ 16 Amtliche Untersuchung](0016.md)
-- [§ 17 Maßregeln nach amtlicher Feststellung](0017.md)
-- [§ 18 Aufhebung der Schutzmaßregeln](0018.md)
+- [§ 12 Impfungen](0012.md)
+- [§ 13 Betriebseigene Kontrollen](0013.md)
+- [§ 14 Amtliche Untersuchung](0014.md)
+- [§ 15 Maßregeln nach Feststellung von Salmonellen](0015.md)
+- [§ 16 Aufhebung der Maßregeln](0016.md)
 
 ## Abschnitt 4 Legehennenbetriebe
 
-- [§ 19 Einstallen von Junghennen](0019.md)
-- [§ 20 Betriebseigene Kontrollen](0020.md)
-- [§ 21 Maßregeln vor amtlicher Feststellung](0021.md)
-- [§ 22 Amtliche Untersuchung](0022.md)
-- [§ 23 Maßregeln nach amtlicher Feststellung](0023.md)
-- [§ 24 Aufhebung der Schutzmaßregeln](0024.md)
+- [§ 17 Einstallen von Junghennen](0017.md)
+- [§ 18 Betriebseigene Kontrollen](0018.md)
+- [§ 19 Amtliche Untersuchung](0019.md)
+- [§ 20 Maßregeln nach Feststellung von Salmonellen](0020.md)
+- [§ 21 Aufhebung der Maßregeln](0021.md)
 
 ## Abschnitt 5 Hähnchenmastbetriebe
 
-- [§ 25 Betriebseigene Kontrollen](0025.md)
-- [§ 26 Maßregeln vor amtlicher Feststellung](0026.md)
-- [§ 27 Amtliche Untersuchung](0027.md)
-- [§ 28 Maßregeln nach amtlicher Feststellung](0028.md)
-- [§ 29 Aufhebung der Schutzmaßregeln](0029.md)
+- [§ 22 Betriebseigene Kontrollen](0022.md)
+- [§ 23 Amtliche Untersuchung](0023.md)
+- [§ 24 Maßregeln nach Feststellung von Salmonellen](0024.md)
+- [§ 25 Aufhebung der Maßregeln](0025.md)
 
 ## Abschnitt 6 Hühnerbrütereien
 
+- [§ 26 Betriebseigene Kontrollen](0026.md)
+- [§ 27 Amtliche Untersuchung](0027.md)
+- [§ 28 Maßregeln nach Feststellung von Salmonellen](0028.md)
+- [§ 29 Aufhebung der Maßregeln](0029.md)
+
+## Abschnitt 7 Putenbetriebe
+
 - [§ 30 Betriebseigene Kontrollen](0030.md)
-- [§ 31 Maßregeln vor amtlicher Feststellung](0031.md)
-- [§ 32 Amtliche Untersuchung](0032.md)
-- [§ 33 Maßregeln nach amtlicher Feststellung](0033.md)
-- [§ 34 Aufhebung der Schutzmaßregeln](0034.md)
+- [§ 31 Amtliche Untersuchung](0031.md)
+- [§ 32 Maßregeln nach Feststellung von Salmonellen](0032.md)
+- [§ 33 Aufhebung der Maßregeln](0033.md)
 
-## Abschnitt 6a Putenbetriebe
+## Abschnitt 8 Weitergehende Maßnahmen
 
-- [§ 34a Betriebseigene Kontrollen](0034a.md)
-- [§ 34b Maßregeln vor amtlicher Feststellung](0034b.md)
-- [§ 34c Amtliche Untersuchung](0034c.md)
-- [§ 34d Maßregeln nach amtlicher Feststellung](0034d.md)
-- [§ 34e Aufhebung der Schutzmaßregeln](0034e.md)
+- [§ 34 Maßregeln bei Salmonella Gallinarum Pullorum](0034.md)
+- [§ 35 Mitteilungen der Länder](0035.md)
 
-## Abschnitt 7 Weitergehende Maßnahmen
+## Abschnitt 9 Ordnungswidrigkeiten, Schlussvorschriften
 
-- [§ 35 Schutzmaßregeln bei Salmonella Gallinarum Pullorum](0035.md)
-- [§ 36 Mitteilungen der Länder](0036.md)
-
-## Abschnitt 8 Ordnungswidrigkeiten, Schlussvorschriften
-
-- [§ 37 Ordnungswidrigkeiten](0037.md)
-- [§ 38 (weggefallen)](0038.md)
+- [§ 36 Ordnungswidrigkeiten](0036.md)
 - [Anlage (zu § 2 Absatz 1)Anforderungen an gewerbsmäßige Geflügelhaltungen](anlage.md)
