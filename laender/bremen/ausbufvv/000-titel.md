@@ -1,0 +1,1 @@
+# Verordnung über den Verwaltungsrat nach dem Gesetz zur Errichtung eines Ausbildungsunterstützungsfonds im Land Bremen (Ausbildungsunterstützungsfondsverwaltungsratverordnung - AusbUFVV) vom 7. November 2023
