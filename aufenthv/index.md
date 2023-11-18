@@ -60,6 +60,7 @@ Beförderungswesen
 - [§ 28 Befreiung für freizügigkeitsberechtigte Schweizer](0028.md)
 - [§ 29 Befreiung in Rettungsfällen](0029.md)
 - [§ 30 Befreiung für die Durchreise und Durchbeförderung](0030.md)
+- [§ 30a Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883](0030a.md)
 
 ### Abschnitt 3 Visumverfahren
 
@@ -79,7 +80,7 @@ ausländischer Streitkräfte](0036.md)
 - [§ 38a Voraussetzungen für die Anerkennung von Forschungseinrichtungen](0038a.md)
 - [§ 38b Aufhebung der Anerkennung](0038b.md)
 - [§ 38c Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden](0038c.md)
-- [§ 38d Beirat für Forschungsmigration](0038d.md)
+- [§ 38d Beirat für Forschungsmigration und Fachkräfteeinwanderung](0038d.md)
 - [§ 38e Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge](0038e.md)
 - [§ 38f Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages](0038f.md)
 
@@ -130,7 +131,8 @@ Ausweisersatz und sonstige Dokumente
 
 - [§ 58 Vordruckmuster](0058.md)
 - [§ 59 Muster der Aufenthaltstitel](0059.md)
-- [§ 59a Hinweis auf Gewährung internationalen Schutzes](0059a.md)
+- [§ 59a Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU](0059a.md)
+- [§ 59b Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU](0059b.md)
 - [§ 60 Lichtbild](0060.md)
 - [§ 61 Sicherheitsstandard, Ausstellungstechnik](0061.md)
 

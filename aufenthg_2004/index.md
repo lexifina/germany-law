@@ -55,13 +55,16 @@
 - [§ 18d Forschung](0018d.md)
 - [§ 18e Kurzfristige Mobilität für Forscher](0018e.md)
 - [§ 18f Aufenthaltserlaubnis für mobile Forscher](0018f.md)
+- [§ 18g Blaue Karte EU](0018g.md)
+- [§ 18h Kurzfristige Mobilität für Inhaber einer Blauen Karte EU](0018h.md)
+- [§ 18i Langfristige Mobilität für Inhaber einer Blauen Karte EU](0018i.md)
 - [§ 19 ICT-Karte für unternehmensintern transferierte Arbeitnehmer](0019.md)
 - [§ 19a Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehmer](0019a.md)
 - [§ 19b Mobiler-ICT-Karte](0019b.md)
 - [§ 19c Sonstige Beschäftigungszwecke; Beamte](0019c.md)
 - [§ 19d Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung](0019d.md)
 - [§ 19e Teilnahme am europäischen Freiwilligendienst](0019e.md)
-- [§ 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18b Absatz 2, den §§ 18d, 18e, 18f und 19e](0019f.md)
+- [§ 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18d, 18e, 18f, 18g und 19e](0019f.md)
 - [§ 20 Arbeitsplatzsuche für Fachkräfte](0020.md)
 - [§ 21 Selbständige Tätigkeit](0021.md)
 
@@ -220,7 +223,7 @@
 - [§ 91c Innergemeinschaftliche Auskünfte zur Durchführung der Richtlinie 2003/109/EG](0091c.md)
 - [§ 91d Auskünfte zur Durchführung der Richtlinie (EU) 2016/801](0091d.md)
 - [§ 91e Gemeinsame Vorschriften für das Register zum vorübergehenden Schutz und zu innergemeinschaftlichen Datenübermittlungen](0091e.md)
-- [§ 91f Auskünfte zur Durchführung der Richtlinie 2009/50/EG innerhalb der Europäischen Union](0091f.md)
+- [§ 91f Auskünfte zur Durchführung der Richtlinie (EU) 2021/1883 innerhalb der Europäischen Union](0091f.md)
 - [§ 91g Auskünfte zur Durchführung der Richtlinie 2014/66/EU](0091g.md)
 
 ## Kapitel 8 Beauftragte für Migration, Flüchtlinge und Integration

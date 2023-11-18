@@ -47,6 +47,7 @@
 | § 28 | Befreiung für freizügigkeitsberechtigte Schweizer |
 | § 29 | Befreiung in Rettungsfällen |
 | § 30 | Befreiung für die Durchreise und Durchbeförderung |
+| § 30a | Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883 |
 | Abschnitt 3 |
 | Visumverfahren |
 | § 31 | Zustimmung der Ausländerbehörde zur Visumerteilung |
@@ -63,7 +64,7 @@
 | § 38a | Voraussetzungen für die Anerkennung von Forschungseinrichtungen |
 | § 38b | Aufhebung der Anerkennung |
 | § 38c | Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden |
-| § 38d | Beirat für Forschungsmigration |
+| § 38d | Beirat für Forschungsmigration und Fachkräfteeinwanderung |
 | § 38e | Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge |
 | § 38f | Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages |
 | Abschnitt 4 |
@@ -105,7 +106,8 @@
 | Muster für Aufenthaltstitel, Pass- und Ausweisersatz und sonstige Dokumente |
 | § 58 | Vordruckmuster |
 | § 59 | Muster der Aufenthaltstitel |
-| § 59a | Hinweis auf Gewährung internationalen Schutzes |
+| § 59a | Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU |
+| § 59b | Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU |
 | § 60 | Lichtbild |
 | § 61 | Sicherheitsstandard, Ausstellungstechnik |
 | Abschnitt 2 |

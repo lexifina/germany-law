@@ -52,8 +52,9 @@
 
 - [§ 27 Zentrale Meldestelle](0027.md)
 - [§ 28 Aufgaben, Aufsicht und Zusammenarbeit](0028.md)
+- [§ 28a Unterrichtung des Deutschen Bundestages](0028a.md)
 - [§ 29 Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen](0029.md)
-- [§ 30 Entgegennahme und Analyse von Meldungen](0030.md)
+- [§ 30 Analyse von Meldungen und Informationen](0030.md)
 - [§ 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung](0031.md)
 - [§ 32 Datenübermittlungsverpflichtung an inländische öffentliche Stellen](0032.md)
 - [§ 32a Datenübermittlung an Europol](0032a.md)
@@ -66,7 +67,7 @@
 - [§ 38a Protokollierung von Informationsersuchen, Statistik, Verordnungsermächtigung](0038a.md)
 - [§ 39 Errichtungsanordnung](0039.md)
 - [§ 40 Sofortmaßnahmen](0040.md)
-- [§ 41 Rückmeldung an den meldenden Verpflichteten](0041.md)
+- [§ 41 Rückmeldung an Verpflichtete und Behörden](0041.md)
 - [§ 42 Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen](0042.md)
 
 ## Abschnitt 6 Pflichten im Zusammenhang mit Meldungen von Sachverhalten
