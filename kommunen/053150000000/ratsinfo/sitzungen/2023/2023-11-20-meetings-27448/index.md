@@ -1,0 +1,91 @@
+# 21. Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-20T15:00:00+01:00
+- Ende: 2023-11-20T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27448
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27448
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Präsentation zur Schulentwicklungsplanung Köln 2023 - Kenntnis genommen
+- TOP -: B. Präsentation zur Standortsituation Hölderlin Gymnasium - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Bearbeitung der Priorisierenden Schulbaumaßnahmenliste - Kenntnis genommen
+- TOP 2.2: TU-/GU-Schulbaumaßnahme: Aula der Katharina-Henoth-Gesamtschule Adalbertstraße 17 in 51103 Köln-Höhenberg durch Totalunternehmen - Kostenfortschreibungsbeschluss - ungeändert empfohlen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Anmeldezahlen an den Kölner Grundschulen - ungeändert beschlossen
+- TOP 3.2: Verschattung und Entsiegelung von Schulhöfen - geändert beschlossen
+- TOP -: Top 3.2 - Verschattung und Entsiegelung von Schulhöfen AN/1939/2023 - geändert beschlossen
+- TOP 3.3: Schülerspezialverkehr gerecht gestalten - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 11.10.2023 betreffend "Fragen zur Beschlussvorlage 4069/2022" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 25.10.2023 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "OGS Montessori-Grundschule Ferdinandstraße" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "Verkehrskonzept am Knotenpunkt Wasseramselweg/Teichrohrsängerweg/Am Wassermann" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.1.1: Anfrage der Fraktion Die Fraktion vom 15.11.2023 betreffend "Sachstand "Sponsoringvereinbarung Stadt Köln 2021-22"?" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 17.11.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Anfrage der Fraktion CDU vom 16.05.2023 betreffend "Straftaten an Kölner Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 28.09.2023 z - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktion Die Linke vom 22.05.2023 betreffend "Verbesserungsmöglichkeiten des Aufnahmeverfahrens und der Bildungsgerechtigkeit an Grundschulen" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 02.10.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.5: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 08.09.2023 betreffend "Reinigung von Graffiti an Kölner Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 20.09.2023 - Kenntnis genommen
+- TOP 5.6: Anfrage der Fraktion SPD vom 11.09.2023 betreffend "Ausnahmezustand am Maximilian-Kolbe-Gymnasium" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 21.09.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.7: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 13.09.2023 betreffend "Einführung digitaler Klassenbücher an Kölner Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 08.11.2023 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 6.2: Fortschreibung der Schulentwicklungsplanung Köln 2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.3: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim - zurückgestellt
+- TOP 6.4: Bedarfsfeststellung zur Errichtung einer Dreifachturnhalle am Standort Holweider Straße 2 einschließlich angrenzenden Grundstücksflächen in 51065 Köln-Mülheim - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Einrichtung und Freigabe von investiven Auszahlungsermächtigungen für die Elly-Heuss-Knapp-Realschule und die Ferdinand-Lassalle-Realschule in Köln Mülheim und die Peter-Lustig-Grundschule und Köln Ossendorf - ungeändert beschlossen
+- TOP 7.2: Livestreaming der Sitzung des Ausschusses für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 7.3: Planungsbeschluss zur Erstellung eines Erweiterungsbaus und Umbaus der Mensa mit Küche für die offene Ganztagsschule der Mathilde-von-Mevissen-Grundschule, Gellertstr. 4-6, 50733 Köln (Nippes) - ohne Votum in nachfolgende Gremien
+- TOP 7.4: Offene Ganztagsschule im Primarbereich: Finanzielle Unterstützung aus dem Strukturförderfonds - unter Vorbehalt beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vier Kölner Schulen mit dem „Schulbaupreis NRW 2023“ ausgezeichnet - Kenntnis genommen
+- TOP 8.2: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 8.3: Ende der Landesinitiative „Durchstarten in Ausbildung und Arbeit" (DiAA) - Kenntnis genommen
+- TOP 8.4: Bündelungsgymnasien 2023 - Sachstand - Kenntnis genommen
+- TOP 8.5: Bildungslandschaft Altstadt/Nord - Sporthalle Adolf-Fischer-Straße, Sachstand Stand 10. Oktober 2023 - Kenntnis genommen
+- TOP 8.6: Zentrales Identitätsmanagement-System für Kölner Schulen - Kenntnis genommen
+- TOP 8.7: Besetzung der Schulsekretariate - Kenntnis genommen
+- TOP 8.8: Sachstandsmitteilung zur Umsetzung des Förderprogramms "DigitalPakt NRW" für die Kölner Schulen - Kenntnis genommen
+- TOP 8.9: Ergebnisse des Projektes „Verbesserung der Verpflegungsqualität des Mittagessens an Kölner Grundschulen“ - Kenntnis genommen
+- TOP 8.10: Beantwortung der mündlichen Anfrage Nathalie Binz (Stadtschulpflegschaft) aus der Sitzung 18.09.2023 zu terminlichen Überschneidungen Schwimmunterricht - Kenntnis genommen
+- TOP 8.11: Zuweisungen ukrainischer Schüler*Innen im Kalenderjahr 2023 - Kenntnis genommen
+- TOP 8.12: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Neubaus oder ... eines Bestandsgebäudes für ein 4/6 zügiges Gymnasiums... - Kenntnis genommen
+- TOP 8.13: Das Erich-Gutenberg-Berufskolleg unter den besten 15 Schulen beim Deutschen Schulpreis - Kenntnis genommen
+- TOP 8.14: Beantwortung einer mündlichen Anfrage zur Anerkennung von in Deutschland erreichten Abschlüssen in der Ukraine vom 23.01.2023 (TOP A) - Kenntnis genommen
+- TOP 8.15: Beantwortung der mündlichen Anfrage vom 23.01.2023 zu: Bildung der Schüler*innen verbessern und Auflistung Bildungspartner (zu TOP 8.3, 4025/2022) - Kenntnis genommen
+- TOP 8.16: Broschüre für Eltern zum Übergang von der Kita in die Schule - Kenntnis genommen
+- TOP 8.17: Antwort der Verwaltung vom 16.01.2023 (Beantwortung der Anfrage AN 2025/2022) Schulformwechsel in Köln und seine Folgen 4177/2022 - Kenntnis genommen
+- TOP 8.18: Antwort der Verwaltung vom 20.09.2023 zur Anfrage AN/1591/2023 betreffend "Erste-Hilfe-Kurse an Schulen" - Kenntnis genommen
+- TOP 8.19: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2022/23 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.20: Beantwortung der mündlichen Anfrage von Constanze Aengenvoort (CDU) aus der Sitzung 18.09.2023 zu Angebote an Schulen für Nichtschwimmer*innen - Kenntnis genommen
+- TOP 8.21: Stellungnahme der Verwaltung zum Beschluss des ASW vom 18.09.23: Informationen zu den Bildungsmöglichkeiten an Berufskollegs im Internet - Kenntnis genommen
+- TOP 8.22: Evaluation „Ankommen und Aufholen nach Corona“ - schulischer Teil - Kenntnis genommen
+- TOP 8.23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.24: Beantwortung einer mündlichen Anfrage von Heiner Kockerbeck (DIE LINKE) im ASW am 06.03.23 zu TOP 9.3 - Kenntnis genommen
+- TOP 8.25: Offene mündliche Anfragen aus vergangenen Sitzungen - Kenntnis genommen
+- TOP 8.26: Schulanmeldungen Kölner Kinder im Umland - Kenntnis genommen
+- TOP 8.27: Beantwortung einer mündlichen Anfrage von Oliver Seeck und Nathalie Binz aus der Sitzung des Ausschuss Schule und Weiterbildung vom 27.01.2023 betreffend "Anmeldungen in Grundschulen zum Schuljahr 2023/24" - Kenntnis genommen
+- TOP 8.28: Beantwortung einer mündlichen Anfrage von Nathalie Binz im Ausschuss Schule und Weiterbildung vom 18.09.2023 betreffend "Anmeldeverfahren an Gesamtschulen zum Schuljahr 2024/25" - Kenntnis genommen
+- TOP 8.29: Beantwortung von mündlichen Fragen der Fraktion DIE LINKE im Ausschuss Schule und Weiterbildung vom 21.08.2023 betreffend "Rechtsanspruch auf ganztägige Betreuung und Vergabe von OGS-Plätzen" - Kenntnis genommen
+- TOP 8.30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.31: Rechtsanspruch auf ganztägige Betreuung in der Primarstufe - Kenntnis genommen
+- TOP 8.32: Beantwortung einer mündlichen Anfrage von Maria Westphal (FDP) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 18.09.2023 betreffend LSBTI-Förderprogramm 2023 - Kenntnis genommen
+- TOP 8.33: Beantwortung einer mündlichen Anfrage der CDU Fraktion im Ausschuss für Schule und Weiterbildung vom 18.09.2023 betreffend: "KGS Am Portzenacker 1b, 51069 Köln-Dünnwald" - Kenntnis genommen
+- TOP 8.34: Beantwortung der mündlichen Anfrage von Bärbel Hölzing (Bündnis 90 / Die Grünen) aus der Sitzung 23.01.2023 zur Nutzbarkeit der Lehrschwimmbecken - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
