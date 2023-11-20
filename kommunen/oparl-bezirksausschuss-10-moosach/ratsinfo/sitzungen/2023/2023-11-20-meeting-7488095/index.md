@@ -1,0 +1,65 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488095
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488095
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 23.10.2023
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Einrichtung einer mehrjährigen Blühfläche für Hautflügler im Bereich Claudiusplatz
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Haylerstr. 20
+- TOP 3.3.2.2.: Riesengebirgstr. 4
+- TOP 3.3.2.3.: Wittenberger Str. 11
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Sicherer Zugangsbereich für das städtische Haus für Kinder in der Postillonstr. 11a
+- TOP 4.1.2.: Erhaltung der Erbpachtflächen Hartmannshofener Siedlungsgebiet
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Sportplatz Amicitia vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-10-0360
+- TOP 5.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Sportplatz Olympia vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-10-0359
+- TOP 5.3.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München Heilig-Geist Aufführung des Weihnachtsoratoriums am 10.12.2023 2.500,00 Euro, Az.: 0262.0-10-0358
+- TOP 5.4.: (E) Verbesserung des Lärmschutzes zwischen Riesengebirgstraße und Dachauer Straße im Zuge der Sanierung und Ausweitung der Bahnunterführung an der Dachauer Straße
+- TOP 5.5.: (E) Pflanzen von neuen Straßenbäumen (Teilabschnitt Feldmochinger Straße)
+- TOP 5.6.: (E) Bau von Trinkbrunnen im Stadtgebiet
+- TOP 6.: Anhörungen
+- TOP 6.1.: Beschlussentwurf: Schul- und Kitabau-Offensive - 5. Schulbauprogramm
+- TOP 6.2.: Beschlussentwurf: Stadtteilgesundheit für München
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anfrage: Bitte um Auskunft, a) ob und wenn ja wann eine Informationsveranstaltung für Moosacher Bürger*innen sowie Gewerbetreibende im weiteren Umgriff der Bahnunterführung Dachauer Straße abgehalten wird. zu Dauer und Ablauf der Bauarbeiten an der Bahnunterführung Dachauer Straße und b) wann der BA 10 zu den geplanten Baumaßnahmen und deren Auswirkungen und den notwendigen verkehrlichen Maßnahmen mit konkreten Zahlen und Daten informiert wird. [BA-Antrag Nr. 20-26/B 05695; Bauzeit Frühjahr 2024 bis 2027, Anwohnerinformationen über Postwurfsendung, keine gesonderte Infoveranstaltungen. Beginn Vollsperrung Durchgangsverkehr ab Februar/ März 2024. Hinweisschilder werden an Ableitungsstrecken angebracht.]
+- TOP 7.2.: Errichten von Fahrradbügeln vor der Geschäftsstelle der Bezirksausschüsse Hanauer Str. 1 [BA-Antrag Nr. 20-26/B 05691; Platz vor Geschäftsstelle ist Privatgrund, aber es werden im Straßenseitenraum der Dachauer Straße ca. 6 Fahrradabstellplätze Anfang 2024 geschaffen.]
+- TOP 7.3.: Errichtung Sitzgelegenheiten am Moosacher Stachus (Nähe Bücherschrank und Kiosk) [BA-Antrag Nr. 20-26/B 03708; Bank wurde am 21.03.2023 in der Bunzlauer Straße aufgestellt.]
+- TOP 7.4.: Unterstützung für Zonta Club Projekte: "Orangene Bänke" - hier: Bestellung einer städt. Leistung [BA-Antrag Nr. 20-26/B 05939; die Bank wurde im Oktober 2023 vor dem "Alten Wirt" aufgestellt.]
+- TOP 7.5.: Austausch Streuscheiben der Lichtsignalanlagen (Fußgängerampeln) rund um die Kleingartenanlage NW3 [Schreiben BA10 vom 21.09.2023;Zwischennachricht: Das Mobilitätsreferat ist als sog "Untere Straßenverkehrsbehörde" an die Vorgaben des Freistaates Bayern (Regierung von Oberbayern als zuständige Aufsichtsbehörde) gebunden (Richtlinien für Lichtsignalanlagen). Es bedarf eines Abwägungsprozesses mit längerer Bearbeitungsdauer.]
+- TOP 7.6.: Baum-Ersatzpflanzungen mit Substratverbesserung im Stadtgebiet Moosach [für die Frühjahr 2023 gefällten Bäume werden nun ab KW 45 23 Bäume nachgepflanzt (inklusiv Vergrößerung der Baumgruben und Füllung mit Baumsubstrat).]
+- TOP 7.7.: Nächtliche Ruhestörungen in der Grünanlage an der Vilniusstraße [Schreiben BA10 vom 21.09.2023; Ausschilderung an beiden Haupteingängen vorhanden, "öffentliche Grunanlage mit gesetzlicher Nachtruhe zwischen 22.00 Uhr und 6.00 Uhr". Bei nächtlichen Ruhestörungen ist sich an die Polizei zu wenden.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Dessauer Straße: Einrichten einer Kurzparkzone für 3 PKW-Längen
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: Bunzlauer Str. 22
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 8.5.: Vorkaufsrecht in Erhaltungssatzungsgebieten: - nicht-öffentlich - Einleitung eines Vorkaufsrechtsprüfungsverfahrens: Abbachstraße
+- TOP 8.6.: Verzicht auf ein Vorkaufsrecht: Schegastraße - nicht-öffentlich -
+- TOP 8.7.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: Templestraße - nicht-öffentlich -
+- TOP 8.8.: Erweiterung Mobilfunkstandort: Brieger Straße - nicht-öffentlich -
+- TOP 3.2.1.: N_ Aktueller Sachstand in der Sache „Anbringen einer Ampelanlage an der Einmündung Brieger Straße / Allacher Straße“
+- TOP 2.2.: N_ Überprüfung der energetischen Einstufung der Gebäude im Sanierungsgebiet Moosach nach ISEK
+- TOP 4.1.3.: N_ Umgehende Optimierung der mangelhaften Baustellenbeschilderung in der Bauberger Straße zwischen Gubestraße und Großbeerenstraße
