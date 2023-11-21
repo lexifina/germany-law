@@ -1,0 +1,54 @@
+# 21. Sitzung des Gesundheitsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-21T17:01:00+01:00
+- Ende: 2023-11-21T18:27:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/72
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27365
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27365
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962250.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962250.pdf
+- Wortprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962250.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Beantwortung einer schriftlichen Anfrage der Fraktionen CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 22.08.2023 (AN/1454/2023) betreffend "Umsetzung der neuen Krankenhausplanung für Köln - Kenntnis genommen
+- TOP 2.2: Beantwortung einer Anfrage der SPD betreffend "Ausstiegswohnung für Menschen in der Prostitution in Köln" AN/1636/2023 - Kenntnis genommen
+- TOP 2.3: Beantwortung einer schriftlichen Anfrage des Einzelmandatsträgers Hengstenberg (AfD) aus der Sitzung der Bezirksvertretung Mülheim vom 14.08.2023 betr. "Gleichstellung mit Tabu" (AN/1299/2023) - Kenntnis genommen
+- TOP 2.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Situng des Gesundheitsauschusses vom 22.08.2023 (AN/1462/2023 betreffend "Kinderärztliche Versorgung in Köln – Aktualisierung von Daten zur Kinder- und Jugendgesundheit in Köln" - zurückgestellt
+- TOP 2.5: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Ausschusses für Seniorinnen und Senioren vom 16.11.2023 (AN/1959/2023) betreffend "Cannabis Modellstadt" - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Erste-Hilfe-Kurse an Schulen
+- TOP -: Antwort der Verwaltung vom 20.09.2023 zur Anfrage AN/1591/2023 betreffend "Erste-Hilfe-Kurse an Schulen" - Kenntnis genommen
+- TOP 3.2: Einnahme von SNUS Nikotin und Lachgas von Kindern
+- TOP -: Beantwortung von aktuellen Anfragen in den Ausschüssen Gesundheit und Jugendhilfe zum Konsum von Einname von SNUS Nikotin und Lachgas von Kindern, - zurückgestellt
+- TOP 3.3: Long-Covid und Post-Vac-Patient*innen in Köln
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke vom 16.11.2023 (AN/2023/2023) betreffend "Long-Covid und Post-Vac-Patient*innen in Köln" - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Smartphone-basiertes Ersthelfer-Alarmierungs-System - ungeändert beschlossen
+- TOP 5: Beschlussvorlagen
+- TOP 5.1: Erhöhung von Arbeitssicherheit und Resilienz in den Gerätehäusern der Freiwilligen Feuerwehr - ungeändert empfohlen
+- TOP 5.2: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Kölner Verhütungsmittelfonds - ungeändert empfohlen
+- TOP 5.4: Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst - ungeändert empfohlen
+- TOP 5.5: Strukturförderfonds 2023 / 2024 - zurückgestellt
+- TOP 5.6: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ohne Votum in nachfolgende Gremien
+- TOP 5.7: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert empfohlen
+- TOP 6: Mitteilungen
+- TOP 6.1: Abschlussbericht und Handlungsempfehlungen zur wissenschaftlichen Begleitung der Umsetzung des Drogenhilfekonzeptes 2022 - Kenntnis genommen
+- TOP 6.2: Anmietung von Räumen in Porz für den Sozialpsychiatrischen Dienst - Kenntnis genommen
+- TOP 6.3: Bewerbung der Stadt Köln als Modellstadt für die Legalisierung von Cannabis - Kenntnis genommen
+- TOP 6.4: 2. Quartalsbericht 2023 der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 6.5: Luftrettungssatzung der Stadt Köln - Kenntnis genommen
+- TOP 6.6: "Aufklärung über Bevölkerungswarnungen", Antrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 07.03.2023 - Kenntnis genommen
+- TOP 6.7: Übertragung von Finanzmitteln aus dem Strukturförderfonds - Kenntnis genommen
+- TOP 6.8: Jahresbericht 2022 der Feuerwehr Köln - zurückgestellt
+- TOP 6.9: Klassifizierung der Rettungsdiensteinsätze der Stadt Köln in das Gestufte-Versorgungssystem (GVS) - zurückgestellt
+- TOP 6.10: Ergebnisse des Projektes „Verbesserung der Verpflegungsqualität des Mittagessens an Kölner Grundschulen“ - zurückgestellt
+- TOP 7: Mündliche Anfragen
