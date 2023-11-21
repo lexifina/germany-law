@@ -1,0 +1,91 @@
+# 28. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-21T16:05:00+01:00
+- Ende: 2023-11-21T19:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27356
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27356
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Verkehrsversuche einstellen – freie Fahrt für freie Bürger - endgültig abgelehnt
+- TOP 1.2: Allgemeine Gestaltungssatzung für Radverkehrsanlagen - endgültig abgelehnt
+- TOP -: Stellungnahme zu Antrag AN/1597/2023 - Kenntnis genommen
+- TOP 1.3: Ausreichende ÖPNV-Anbindung des Gutes Leidenhausen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: ÖPNV-Anbindung des Guts Leidenhausen - zurückgestellt
+- TOP 1.4: Programm zum Bau von sicheren Fahrradabstellanlagen am Wohnhaus - endgültig zurückgezogen
+- TOP -: Programm zum Bau von sicheren Fahrradabstellanlagen am Wohnhaus (AN/1599/2023 aus VA 19.09.2023) - Kenntnis genommen
+- TOP 1.5: Testlauf Ost-West-Achse zwischen Neumarkt und Heumarkt mit Dreifachtraktion (90 Meter Bahnen) - zurückgestellt
+- TOP 1.6: Machbarkeitsstudie zur Steuerung der Zufahrt in die Innenstadt - ungeändert beschlossen
+- TOP 1.7: Umsetzung der Stellplatzsatzung: Kommunikation mit der Bauwirtschaft - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Verkehrsversuch Bayenthal/Marienburg - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Bedarfsfeststellungs- und Baubeschluss für die Instandsetzung der Parkpalette Jakobstraße/Josephstraße - zurückgestellt
+- TOP 3.2: Erneuerung von Hochwasserschutzeinrichtungen am Rheinufertunnel - ungeändert beschlossen
+- TOP 3.3: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - ungeändert beschlossen
+- TOP 3.4: Lückenschluss RingFrei am Barbarossaplatz (gem. 1202/2019) - ohne Votum in nachfolgende Gremien
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Baubeschluss zum Ersatzneubau Brücke Escher Straße in Köln Nippes/Bilderstöckchen - ungeändert empfohlen
+- TOP 4.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Satzung über die abweichende Herstellung der Erschließungsanlage Robert-Bosch-Straße von Stichstraße zu Haus-Nr. 43-61 bis Kreisverkehr Industriestraße - ungeändert empfohlen
+- TOP 4.4: Mitgliedschaft Radregion Rheinland e. V. - ungeändert empfohlen
+- TOP 4.5: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: Festlegung der Variante zur Planung der Bahnsteiganhebungen an den Haltestellen Nußbaumerstr. und Subbelrather Str./Gürtel - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.7: Baubeschluss für die Erneuerung von 6 Fahrtreppenanlagen - ungeändert empfohlen
+- TOP 4.8: Aktionsplan Klimaschutz - ohne Votum in nachfolgende Gremien
+- TOP 4.9: StadtBahn Süd - Ergänzungsbeschluss zur Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Fahrgastzahlen KVB - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die FRAKTION aus der Sitzung des Verkehrsauschusses vom 22.08.2023 (Sessionnummer AN/1347/2023) betreffend "Fahrgastzahlen der KVB" - Kenntnis genommen
+- TOP 5.1.2: Zustand der Verkehrsschilder in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses vom 22.08.2023 betreffend "Zustand der Verkehrsschilder in Köln" (AN/1350/2023) - Kenntnis genommen
+- TOP 5.1.3: Ost-West-Achse – Zeithorizont zur Beschlussfassung und Beschleunigungsmöglichkeiten - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 22.08.2023 VKA/0023/2023,TOP Ö 5.2.4, (AN/1456/2023) betreffend „Ost-West-Achse – Zeithorizont zur Beschlussfassung und Beschleunigungsmöglichkeiten - zurückgestellt
+- TOP 5.1.4: Regionale Zusammenarbeit im Verkehrsbereich - zurückgestellt
+- TOP 5.1.5: Nachfrage zur Antwort 1520/2023 zur Anfrage AN/0658/2023 - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Verkehrsausschuss vom 22.08.2023 (1466/2023) betreffend "Nachfrage zur Antwort 1520/2023 zur Anfrage AN/0658/2023) - Kenntnis genommen
+- TOP 5.1.6: Bike-Tower in Weiden-West - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates (AN/1587/2023) in der Sitzung vom 19.09.2023 - Bike-Tower in Weiden-West - Kenntnis genommen
+- TOP 5.1.7: Führung der Radpendlerroute entlang der B8 auf Höhe des Igus-Werkes in Lind - zurückgestellt
+- TOP 5.1.8: Halterkostenbescheide gegen Vermieterfirmen von E-Scootern - Sache ist erledigt
+- TOP -: Halterkostenbescheide Vermieterfirmen von E-Scootern - Kenntnis genommen
+- TOP 5.1.9: Sachstand zur Errichtung von Quartiersgaragen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 5.1.10: Sachstand zur Verbesserung und Ergänzung der rechtsrheinischen Stadtbahnanbindung - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses vom 19.09.2023 (AN/1475/2023) betreffend "Sachstand zur Verbesserung und Ergänzung der rechtsrheinischen Stadtbahnanbindung" - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Erbpachtverträge bei Tiefgaragen / Parkhäusern auf städtischem Grund - zurückgestellt
+- TOP 5.2.2: Umsetzung Stellplatzsatzung - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (Session-Nr. AN/1919/2023) betreffend Umsetzung Stellplatznutzung - zurückgestellt
+- TOP 5.2.3: Hafenbrücke in Niehl - zurückgestellt
+- TOP 5.2.4: Sachstand Umrüstung Straßenbeleuchtung - zurückgestellt
+- TOP 5.2.5: Sachstand Verlängerung Linie 4 - zurückgestellt
+- TOP 5.2.6: Kapazitätserweiterung auf der Ost-West-Achse - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Sanierung und Verbreiterung des Geh- und Radweges am Sürther Leinpfad hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i. V. m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2023 - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Mitteilung über das Ergebnis zum Prüfauftrag zum Änderungs- bzw. Zusetzungsantrag vom 07.09.2023 "ÖPNV gerecht erweitern und stärken: Sozialticket für 19 Euro in Köln auf den Weg bringen (AN - Kenntnis genommen
+- TOP 6.2.2: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - Kenntnis genommen
+- TOP 6.2.3: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im November 2023 - Kenntnis genommen
+- TOP 6.2.4: Nord-Süd Stadtbahn, 1. Baustufe Gleiswechselbauwerk Waidmarkt - Kenntnis genommen
+- TOP 6.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Verbot E-Scooter", Az.: 64/23 - Kenntnis genommen
+- TOP 6.2.6: Temporäre Einrichtung von zusätzlichen Fahrradabstellplätzen auf der Trankgasse - zurückgestellt
+- TOP 6.2.7: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 6.2.8: Schiffsanprall Hafenbrücke Niehl - Kenntnis genommen
+- TOP 6.2.9: Nachhaltiger Mobilitätsplan: Fördermittelakquise für Stufe 2 - Kenntnis genommen
+- TOP 6.2.10: Abwicklung des Weihnachtsverkehrs 2023 - Kenntnis genommen
+- TOP 6.2.11: Radschnellweg Köln-Frechen - aktueller Sachstand - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Auswirkungen der aktuellen Haushaltssperre auf die Ost-West-Achse - Sache ist erledigt
+- TOP 7.2: Not-Fahrplan der KVB AG in 2024/2025 - Sache ist erledigt
+- TOP 7.3: Beendigung des Versuchs der Schulstraßen - Sache ist erledigt
