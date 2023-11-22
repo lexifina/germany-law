@@ -1,8 +1,8 @@
-# Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes der Stadt Cottbus/Chóśebuz Die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz hat in ihrer Sitzung am 23.11.2022 auf der Grundlage der §§ 3, 28 Abs. 2 Satz 1 Nr. 9 der
+# Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes der Stadt Cottbus/Chóśebuz Die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz hat in ihrer Sitzung am 22.11.2023 auf der Grundlage der §§ 3, 28 Abs. 2 Satz 1 Nr. 9 der
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2022-11-23 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/II_-013-33_22_Rettungsdienstsatzung__2023-2.pdf
+- Datum: 2023-11-22 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/RettungsdienstgebA%C2%BChrensatzung_geA%C2%A4nderte-Version-30.11.2023-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes
 der Stadt Cottbus/Chóśebuz
-Die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz hat in ihrer Sitzung am 23.11.2022 auf der Grundlage der §§ 3, 28 Abs. 2 Satz 1 Nr. 9 der Kommunalverfassung des Landes Brandenburg vom 18. Dezember 2007 (GVBl. I/07, [Nr.19], S. 286) in der derzeit geltenden Fassung, des § 17 Abs. 1 des Gesetzes über den Rettungsdienst im Land Brandenburg vom 14. Juli 2008 (GVBl. I/08, [Nr.10], S. 186) sowie auf der Grundlage der §§ 1, 2 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31. März 2004 (GVBl. I/04, [Nr.08] S. 174) in der derzeit geltenden Fassung folgende Satzung beschlossen:
+Die Stadtverordnetenversammlung der Stadt Cottbus/Chóśebuz hat in ihrer Sitzung am 22.11.2023 auf der Grundlage der §§ 3, 28 Abs. 2 Satz 1 Nr. 9 der Kommunalverfassung des Landes Brandenburg vom 18. Dezember 2007 (GVBl. I/07, [Nr.19], S. 286) in der derzeit geltenden Fassung, des § 17 Abs. 1 des Gesetzes über den Rettungsdienst im Land Brandenburg vom 14. Juli 2008 (GVBl. I/08, [Nr.10], S. 186) sowie auf der Grundlage der §§ 1, 2 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31. März 2004 (GVBl. I/04, [Nr.08] S. 174) in der derzeit geltenden Fassung folgende Satzung beschlossen:
 §1 Träger des Rettungsdienstes
 Die Stadt Cottbus/Chóśebuz unterhält einen Rettungsdienst als öffentliche Einrichtung im Sinne des Brandenburgischen Rettungsdienstgesetzes. Die Aufgaben der bedarfsgerechten und flächendeckenden Notfallrettung, des qualifizierten Krankentransportes und der Durchführung von Maßnahmen bei Schadensereignissen mit einem Massenanfall von verletzten oder erkrankten Personen (MANV) werden durch den Fachbereich Feuerwehr der Stadt Cottbus/Chóśebuz wahrgenommen.
 §2 Einsatzgrundsätze
@@ -28,24 +28,24 @@ Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes Se
 §4 Gebührenschuldner
 (1) Gebührenschuldner ist derjenige, der die Leistungen des Rettungsdienstes oder der Leitstelle in Anspruch nimmt.
 (2) Gebührenschuldner ist außerdem die Person, die den Rettungsdienst für sich oder einen Dritten anfordert, obwohl sie weiß oder wissen muss, dass ein rechtfertigender Notfall nicht vorliegt (Missbrauch).
+(3) Mehrere Gebührenpflichtige haften als Gesamtschuldner.
 §5 Festsetzung und Fälligkeit der Gebühren
 (1) Die Gebühren werden dem Gebührenschuldner gegenüber durch schriftlichen Bescheid festgesetzt. Sie werden 14 Tage nach Bekanntgabe des Bescheides fällig.
 (2) Einer Krankenkasse kann die Möglichkeit der Zahlung der Gebühren für ihre Versicherten eingeräumt werden, sofern sie sich gegenüber der Stadt Cottbus/Chóśebuz vorab generell zur vollständigen Zahlung der Gebühren für ihre Versicherten bereit erklärt.
 (3) Lehnt eine Krankenkasse die Zahlung der Gebühren ihrer Versicherten ganz oder teilweise prinzipiell ab, unterbleibt die Abrechnung nach Absatz 2 mit ihr insoweit, und die Gebührenbescheide ergehen gemäß Absatz 1 an den Gebührenschuldner.
+(4) Rückständige Gebühren werden im Verwaltungsvollstreckungsverfahren eingezogen.
 §6 Begleitpersonen
 Begleitpersonen können bei medizinisch angezeigter Notwendigkeit unentgeltlich mitgenommen werden, soweit genügend Plätze vorhanden sind.
 §7 Inkrafttreten
-Die Satzung tritt am 01.01.2023 in Kraft.
-Cottbus/Chóśebuz, 28.11.2022
-Oberbürgermeister
-gez.
-In Vertretung Marietta Tzschoppe Bürgermeisterin
+Die Satzung tritt am 01.01.2024 in Kraft.
+Cottbus/Chóśebuz, 04.12.2023
+Tobias Schick Oberbürgermeister der Stadt Cottbus/Chóśebuz
 Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes Seite 2
 
 Anlage zur Satzung über die Erhebung von Gebühren für Leistungen des
 Rettungsdienstes der Stadt Cottbus/Chóśebuz
 - Gebührentarif -
-Für Leistungen des Rettungsdienstes der Stadt Cottbus/Chóśebuz werden ab 01.01.2023 folgende Gebühren erhoben.
+Für Leistungen des Rettungsdienstes der Stadt Cottbus/Chóśebuz werden ab 01.01.2024 folgende Gebühren erhoben.
 Die Gebühren gelten für jeweils einen Patienten. Bei Versorgung mehrerer Patienten werden die Leistungen der nachstehenden Rettungsmittel in voller Höhe und die gefahrenen Kilometer jeweils anteilig berechnet.
 
 Tarif - Nr. Bemessungsgrundlage
@@ -57,7 +57,7 @@ Notfallrettung - Rettungstransportwagen (RTW)
 Inanspruchnahme des Rettungstransportwagens mit Patiententransport
 
 Gebühr je Einsatz
-437,90 €
+447,40 €
 
 2
 
@@ -66,7 +66,7 @@ Notfallrettung - Notarzteinsatzfahrzeug (NEF)
 - Inanspruchnahme des Notarzteinsatzfahrzeuges - Inanspruchnahme des Notarzteinsatzfahrzeuges als
 Verlegungsarzt
 
-321,30 € 321,30 €
+328,50 € 328,50 €
 
 3
 
@@ -74,7 +74,7 @@ Krankentransport - Krankentransportwagen (KTW)
 
 Inanspruchnahme des Krankentransportwagens mit Patiententransport
 
-248,70 €
+228,80 €
 
 4
 
@@ -82,15 +82,15 @@ Leistung des Notarztes
 
 Inanspruchnahme des Notarztes
 
-358,50 €
+415,00 €
 
 5
 
 Wegstrecke
 
-zusätzlich zu den Gebühren nach Tarif-Nr. 1 - 3 je Kilometer zurückgelegter Fahrstrecke
+zusätzlich zu den Gebühren nach Tarif-Nr. 1 - 3 je Kilometer zurückgelegter Fahrstrecke gerechnet ab dem ersten Kilometer der Hinfahrt ab dem Standort des Wagens
 
-0,56 €
+0,58 €
 
 Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes Seite 3
 
@@ -114,7 +114,7 @@ zusätzlich zu der Gebühr nach Tarif 6.1
 
 je Kilometer zurückgelegter Fahrstrecke
 
-22,71 € 1,59 €
+26,11 € 2,00 €
 
 Leitstellengebühr
 
@@ -132,6 +132,6 @@ Rettungstransporthubschrauber (RTH)
 
 Intensivtransporthubschrauber (ITH)
 
-35,47 € 271,28 €
+41,58 € 319,30 €
 
 Satzung über die Erhebung von Gebühren für Leistungen des Rettungsdienstes Seite 4
