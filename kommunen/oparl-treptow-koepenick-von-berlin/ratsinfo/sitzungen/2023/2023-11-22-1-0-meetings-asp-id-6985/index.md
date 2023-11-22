@@ -1,0 +1,60 @@
+# 9. (ordentliche, öffentliche) Sitzung des Ausschusses für Straßen, Grünflächen und Ordnungsangelegenheiten (B)
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-11-22T18:00:00+01:00
+- Ende: 2023-11-22T20:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=144
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6985
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6985
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnung / Protokollführung - erledigt
+- TOP 2: Protokollkontrolle - erledigt
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Prioritäten (von Fraktionen benannt) - erledigt
+- TOP 4.1: Tempo-30-Bereich auf der Treskowallee deutlicher kenntlich machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Rechtsabbiegepfeil am Adlergestell Ausschussantrag - erledigt
+- TOP 5: Ggf neue Überweisungen aus der 20. Sitzung der BVV - (offen)
+- TOP 6: Vertagte Drucksachen - (offen)
+- TOP 6.1: Stellungnahmen - (offen)
+- TOP 6.1.1: Aus Hochwasserkatastrophen lernen: Entsiegelungskonzept für Treptow-Köpenick - vertagt
+- TOP 6.1.2: Schulwegsicherheit endlich grundlegend und ganzheitlich verbessern - vertagt
+- TOP 6.1.3: Errichtung von Gedenkstelen zur Berliner Kolonialausstellung im Treptower Park - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.2: Beschlussempfehlungen - (offen)
+- TOP 6.2.1: Charta für die Verkehrssicherheit: Baustellen schulwegsicher einrichten - vertagt
+- TOP 6.2.2: Fußgängerschutzweg Segelfliegerdamm Ecke Köpenicker Straße - im Ausschuss abgelehnt
+- TOP 6.2.3: Schilder im Landschaftspark Johannisthal / Adlershof instand setzen - im Ausschuss abgelehnt
+- TOP 6.2.4: Selbstverpflichtung: Ein Baum für einen Baum. Baumdefizit abbauen und Grünerhalt zur Voraussetzung von bezirklichen Fällungen machen - im Ausschuss abgelehnt
+- TOP 6.2.5: Verkehrssicherheit auf der Forsthausallee erhöhen - mit Änderungen im Ausschuss beschlossen
+- TOP 6.2.6: Tempo 30 auf dem Adlergestell in Schmöckwitz ausweiten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.2.7: Baumpatenschaften stärker fördern - im Ausschuss abgelehnt
+- TOP 6.2.8: Sanierung der Godbersenstraße in Schmöckwitz - mit Änderungen im Ausschuss beschlossen
+- TOP 6.2.9: Herrichtung eines asphaltierten Weges für Fußgänger und Radverkehr am Weg am Kleingarten - vertagt
+- TOP 6.2.10: Fläche vom "Blütenmosaik" im Landschaftspark Johannisthal sinnvoller nutzen - vertagt
+- TOP 6.2.11: Mehr Erholungsräume und Treffpunkte im Stadtraum durch Parklets - vertagt
+- TOP 6.2.12: Sicherstellung des Marktbetriebs am S-Bahn- und zukünftigen Regionalbahnhof Köpenick - vertagt
+- TOP 6.2.13: Einrichtung einer Fußgängerampel an der Kreuzung Michael-Brückner-Straße Ecke Britzer Straße / Fennstraße - im Ausschuss abgelehnt
+- TOP 6.2.14: Herrichtung eines Weges für Fußgänger und Radverkehr zur Unterquerung der Stelling-Janitzky-Brücke - vertagt
+- TOP 6.2.15: Gefährliche Ampelschaltung - vertagt
+- TOP 6.2.16: Fußgängerüberweg Kosmosviertel Altglienicke - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.2.17: Abfallbehälter Ecke Genovevastraße / Däumlingsweg einrichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.2.18: Sinnvoll ausgerichtete Parkbänke auf dem Spielplatz der Griechischen Allee in Oberschöneweide - vertagt
+- TOP 6.2.19: Wartehäuschen-Aufstellung an der südlichen Seite der Rudower Chaussee - vertagt
+- TOP 6.2.20: Straßenbeschilderung in der Altstadt Köpenick - erledigt
+- TOP 6.2.21: Sitzbänke an der Wildbienenwiese in Rahnsdorf instand setzen oder durch neue Bänke ersetzen! - vertagt
+- TOP 6.2.22: Schild für den Platz "An der Kirche" in Baumschulenweg - erledigt
+- TOP 6.2.23: Spielplätze für die Zukunft hitzebeständig umgestalten - vertagt
+- TOP 6.3: Empfehlung zum Schlussbericht - (offen)
+- TOP 6.3.1: Sanierung Radweg Müggelheimer Straße zwischen Wendenschloßstraße und dem Köllnischen Platz - vertagt
+- TOP 6.3.2: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - vertagt
+- TOP 6.3.3: Lösung für den Radweg auf dem Hegemeisterweg in Rahnsdorf endlich herbeiführen - vertagt
+- TOP 6.3.4: Tausch- und Sperrmüllmärkte in Treptow-Köpenick ermöglichen - vertagt
+- TOP 6.3.5: Sicher zur Schule kommen – Bürgersteig im Heidekampweg verbreitern - vertagt
+- TOP 6.3.6: Gleisüberfahrt auf dem Adlergestell in Schmöckwitz - vertagt
+- TOP 6.3.7: Verlängerung der Grünphase für Fußgänger /-innen und Radfahrende an der Ampelanlage Oberspreestraße / Spindlersfelder Straße (Brücke) - vertagt
+- TOP 6.3.8: Hundegärten für Treptow-Köpenick - vertagt
+- TOP 7: Verschiedenes - erledigt
