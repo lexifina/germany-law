@@ -1,0 +1,83 @@
+# 23. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-23T16:00:00+01:00
+- Ende: 2023-11-23T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27685
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27685
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: NRW-Tag 2024 mit Sommerkonzert der Landesregierung 2024 - geändert beschlossen
+- TOP 3.2: Vergabekonzept für Veranstaltungen auf zentralen Plätzen der Kölner Innenstadt: Erfahrungsbericht zum Vergabekonzept für die Zeit vom 01.01.2019 bis 31.12.2023 sowie Weiterentwicklung des Vergabekonzepts für die Zeit ab 01.01.2024 bis 31.12.2028 - geändert beschlossen
+- TOP 3.3: Öffentliche Ausschreibung des Weihnachtsmarkts auf dem Friesenplatz im Zeitraum 2024 - 2028 - geändert beschlossen
+- TOP 3.4: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.5: Lückenschluss RingFrei am Barbarossaplatz (gem. 1202/2019) - ungeändert beschlossen
+- TOP 3.6: Erneuerung von Hochwasserschutzeinrichtungen am Rheinufertunnel - ungeändert beschlossen
+- TOP 3.7: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das 1. Halbjahr 2024 - ungeändert beschlossen
+- TOP 3.8: Benennung eines Mitgliedes der Bezirksvertretung Innenstadt zur Teilnahme an den Sitzungen des Gestaltungsbeirates in der Wahlperiode 2020-2025 - ungeändert beschlossen
+- TOP 3.9: Genehmigung DE - Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Neubaus oder ... eines Bestandsgebäudes für ein 4/6 zügiges Gymnasiums... - ungeändert beschlossen
+- TOP 3.10: Genehmigung DE - Sanierung des Funkturms Colonius (BV 1 Innenstadt) - ungeändert beschlossen
+- TOP 3.11: Leitlinien für die Durchführung eines zweistufigen Gutachterverfahrens für die Errichtung eines Bürokomplexes auf dem Gelände zwischen der Deutz -Mülheimer Straße und dem Pfälzischen Ring an der Zoobrücke in Köln-Deutz - verfahrensleitender Beschluss - ungeändert beschlossen
+- TOP 3.12: Fortschreibung der Schulentwicklungsplanung Köln 2023 - zurückgestellt
+- TOP 3.13: Parkraumbewirtschaftung Parkplatz Judenkirchhofsweg in Köln-Deutz - zurückgestellt
+- TOP 3.14: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Innenstadt - Förderprogramm - ungeändert beschlossen
+- TOP 3.15: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 3.16: Energetische Sanierung des Bürgerzentrums Deutz, Tempelstraße 41-43, 50679 Köln Planungsbeschluss - ungeändert beschlossen
+- TOP 3.17: 7. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 3.18: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren“ - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Neumarkt (Az.: 02-1600-211-22) - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO Bücherschrank auf dem Spielplatz Buschgasse / An der Eiche - zurückgestellt
+- TOP 4.3: Bürgereingabe nach § 24 GO NRW - "Bonner Straße - zwischen Chlodwigplatz und Bonner Wall - Einrichtung einer 30er Zone", AZ.: 35/23 - geändert beschlossen
+- TOP 4.4: Bürgereingabe nach §24 GO- Parkplatzlösung Agnesviertel - hier: Lentpark 67/2023 - geändert beschlossen
+- TOP 4.5: Bürgereingabe nach § 24 GO - Wiederherstellung des Bouleplatzes am Fort X - 139/23 B - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Entfall des Parkens auf der Maastrichter Straße, Antrag B90/Die Grünen - geändert beschlossen
+- TOP 5.2.2: Standorte für Quartiersgaragen, gem. Antrag SPD, B90/Die Grünen, CDU und Die Partei - ungeändert beschlossen
+- TOP 5.2.3: Bitte um Entfernen zweier alter Telefonzellen auf der Deutzer Freiheit, Antrag CDU - ungeändert beschlossen
+- TOP 5.2.4: Informationen zu Bauvorhaben, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.5: Erstaufnahme-Einrichtung Riehler Straße, gem. Antrag B90/Die Grünen, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.5.1: Ergänzungsantrag zu "Erstaufnahme-Einrichtung Riehler Straße (OFD)", Änderungsantrag CDU zu AN/1948/2023 - endgültig abgelehnt
+- TOP 5.2.6: Parken von Wohnmobilen/Wohnanhängern im Stadtbezirk Innenstadt, gem. Antrag SPD und Die Partei - zurückgestellt
+- TOP 5.2.7: Ausstellung Toleranzräume auf den Neumarkt, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.3: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.4: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Entsiegelung und Umbau Maternuskirchplatz 2023, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.6: Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024, Anfrag B90/Die Grünen - zurückgestellt
+- TOP 6.1.7: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sanierung des Quäker-Nachbarschaftsheims/Norbert-Burger-Bürgerzentrum, Anfrage SPD - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.2: Bildungslandschaft Altstadt/Nord - Sporthalle Adolf-Fischer-Straße, Sachstand Stand 10. Oktober 2023 - Kenntnis genommen
+- TOP 9.3: Aufstellung einer barrierefreien und eingehausten Mobiltoilette im Bereich des Wasserspielplatzes am Colonius - Kenntnis genommen
+- TOP 9.4: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 9.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "(Wieder)Errichtung einer öffentlichen Toilette im Umfeld des Skulpturenparks in 50668 Köln", Aktenzeichen: 65/23 - Kenntnis genommen
+- TOP 9.6: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 9.7: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - Kenntnis genommen
+- TOP 9.8: Nord-Süd Stadtbahn, 1. Baustufe Gleiswechselbauwerk Waidmarkt - Kenntnis genommen
+- TOP 9.9: Sachstandsbericht - Kenntnis genommen
+- TOP 9.10: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 9.11: Temporäre Einrichtung von zusätzlichen Fahrradabstellplätzen auf der Trankgasse - zurückgestellt
+- TOP 9.12: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zu den Änderungen (Teilaufhebungen) der Bebauungspläne 6644 Nd 1/16 (67453/16), 67454/09 und 67454/10 Arbeitstitel: Historische Mitte in Köln-Altstadt/Nord - Kenntnis genommen
+- TOP 9.13: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 9.14: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 9.15: Urteil des OVG NRW Brüsseler Platz - Kenntnis genommen
+- TOP 9.16: Aufwertung des Neumarkts – Aktueller Stand - Kenntnis genommen
