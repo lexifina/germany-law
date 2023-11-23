@@ -1,0 +1,80 @@
+# 21. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-23T17:00:00+01:00
+- Ende: 2023-11-23T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27748
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27748
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A: Besuch Abteilung Kinderinteressen & Jugendförderung "Thema Partizipation"
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion vom 09.11.2023: "Anwohnerparken im Stadtbezirk Kalk" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.11.2023: "Jetzt wird gegossen! – Ehrenamtliches Engagement im Grünbereich stärken" - geändert beschlossen
+- TOP 7.3: Antrag der SPD-Fraktion vom 09.11.2023: "Zufahrtsbeschränkung für die Steprathstraße im Stadtteil Kalk" - geändert beschlossen
+- TOP 7.4: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.11.2023: "Einfahrt in 3 Minuten auf Gleis 2 – KVB-Fahrtzeiten im Öffentlichen Raum sichtbarer machen" - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen Bündnis 90/Die Grünen und Die LINKE Betreff: "Einfahrt in 3 Minuten auf Gleis 2 – KVB-Fahrtzeiten im Öffentlichen Raum sichtbarer machen" (AN/1929/2023) - geändert beschlossen
+- TOP 7.5: Antrag der SPD-Fraktion vom 09.11.2023: "Einrichtung einer Sondernutzungsfläche für die Gastronomie" - geändert beschlossen
+- TOP 7.6: Antrag der Fraktion B90/Die Grünen vom 09.11.2023: "Mehr Klarheit und Sichtbarkeit der Radverkehrsführung für Radfahrende auf der Kalker Hauptstraße stadtauswärts zwischen Eythstraße und Germaniastraße" - ungeändert beschlossen
+- TOP 7.7: Antrag der SPD-Fraktion vom 09.11.2023: "Bereitstellung von Mitteln für eine pädagogische Betreuung am Dirttrack der AbenteuerHallenKalk" - ungeändert beschlossen
+- TOP 7.8: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.11.2023: "Die Zukunft stärken - Beteiligungsmöglichkeiten in der Bezirksvertretung schaffen" - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für den barrierefreien Umbau von drei Bushaltestellen (vier Haltekanten) der KVB-Linie 157 im Stadtbezirk Kalk - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE. betreff: "Baubeschluss für den barrierefreien Umbau von drei Bushaltestellen (vier Haltekanten) der KVB-Linie 157 im Stadtbezirk Kalk" (2989/2023) - ungeändert beschlossen
+- TOP 8.1.2: Genehmigung der Dringlichkeitsentscheidung vom 10.10.2023: Neugestaltung des Innenhofbereiches und der oberen Grünfläche im Bürgerhaus Kalk, Kalk-Mülheimer-Straße 68, 51103 Köln - ungeändert beschlossen
+- TOP 8.1.3: Vergabe von restlichen Teilen der bezirksorientierten Mittel für das Jahr 2023/2024 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Str. durch einen Totalunternehmer - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE.: "Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Straße in Köln-Gremberg durch einen Totalunternehmer" (0934/2023) - Sache ist erledigt
+- TOP 8.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 73456/02, Arbeitstitel: Ostmerheimer Straße 214 in Köln -Merheim - ungeändert beschlossen
+- TOP 8.2.3: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.4: Fortschreibung der Schulentwicklungsplanung Köln 2023 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion vom 22.11.2023 betreff: "Fortschreibung der Schulentwicklungsplanung Köln 2023" (3033/2023) - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE.: "Fortschreibung der Schulentwicklungsplanung Köln 2023" (3033/2023) - endgültig abgelehnt
+- TOP 8.2.5: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 8.2.6: 7. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der Bündnis 90/Die Grünen-Fraktion vom 14.09.2023 betreffs "Bedarf an öffentlichen Mülleimern dem Bevölkerungswachstum und Wandel in den Stadtteilen anpassen" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung der Nachfrage zum Sachstandsbericht zum Prozess "Postkoloniales Erbe der Stadt Köln" (1416/2023) aus der 20. Sitzung der Bezirksvertretung Kalk vom 21.09.2023 - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 9.1.4: "frische Luft sollte kein Luxus sein, sie sollte als Grundlegendes Menschenrecht betrachtet werden" - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage der SPD-Fraktion in der Sitzung der BV-Kalk vom 27.01.2022 (AN/0152/2022): "Hilfsangebote für Obdachlose Menschen im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke der Bezirksvertretung Kalk vom 19.08.2020 (AN/1061/2020) betreffend "Freizeit – Umwelt – Sport" Gegensätze oder vereinbar? - Kenntnis genommen
+- TOP 9.1.7: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreff: "Konzept Schwammstadt" (AN/1932/2023) - zurückgestellt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion vom 09.11.2023: Umsetzung des Beschlusses der Bezirksvertretung Kalk vom 09.03.2023 TOP 2.1. „Errichtung einer Einfahrtblockade für LKW zum Vingster Markt“ - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen "Schwammstadtkonzept" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der SPD-Fraktion vom 15.11.2023: "Schadhafte Tribüne in der Sporthalle am Hardtgenbuscher Kirchweg - Sachstand Sportkataster für den Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Bündnis 90/Die Grünen vom 09.11.2023 betreff: "GAG Grünflächenanteilvernichtung in der Remscheiderstrasse" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen vom 09.11.2023: "Es wird voll im Stadtteil Kalk - Bauen nach § 34 lässt Wildwuchs entstehen" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 9.4: Offene Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 10.2.2: Machbarkeitsstudie Oberbergische Bahn (RB 25) - Kenntnis genommen
+- TOP 10.2.3: Unfallhäufungsstellen des Jahres 2022 im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.4: RadPendlerRouten-Netz Köln - zurückgestellt
+- TOP 10.2.5: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Deklaration des ehemaligen Barackenlagers und NS-Gedenkortes im Gremberger Wäld-chen als Bodendenkmal“, Aktenzeichen 164/23 B - Kenntnis genommen
+- TOP 10.2.7: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Kalk 2021 bis August 2023 - Kenntnis genommen
+- TOP 10.2.8: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.9: Radverkehrsfreundliche Umgestaltung in der Gummersbacher Straße - Kenntnis genommen
+- TOP 10.2.10: Bewirtschaftung des städtischen Waldes 2023/24 - Bezirk 8 - Kenntnis genommen
+- TOP 10.2.11: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - zurückgestellt
+- TOP 10.2.13: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk
