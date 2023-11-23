@@ -1,0 +1,83 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-23T16:10:00+01:00
+- Ende: 2023-11-23T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27394
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27394
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Fragen zu den Folien der Rheinenergie zum Thema „Beitrag der RheinEnergie zur Dekarbonisierung Kölns“ vom 4. Mai 2023" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 24.08.2023 (AN/1366/2023) betr.: - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Die Fraktion betr.: "More Moor (wet edition)" - Kenntnis genommen
+- TOP 1.2.1: Beantwortung einer Anfrage der Fraktion Die Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 24.08.2023 (AN(1418/2023) betr.: "More Moor (wet edition)" - Kenntnis genommen
+- TOP 1.3: Anfrage der SPD-Fraktion betr.: "Stilllegung Wasserwerk Westhoven" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer Anfrage der SPD-Fraktion betr. "Stillegung Wasserwerk Westhoven" (AN/1675/2023) - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Linke. betr.: "Rheindeiche" - zurückgestellt
+- TOP 1.4.1: Beantwortung einer Anfrage der Fraktion Die Linke betr.: "Rheindeiche" (AN/1920/2023) - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Die Linke. betr.: "Rückfragen zu Steinkohle für das HKW Rostock" - zurückgestellt
+- TOP 1.6: Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betr.: "Wildgänse in Köln - Sachstand" - Kenntnis genommen
+- TOP 1.6.1: Beantwortung einer Anfrage der Fraktion Bündnis 90 / Die Grünen und CDU aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN/1966/2023) betreffend Wildgänse in Köln - Sachstand - Kenntnis genommen
+- TOP 1.7: Anfrage der Fraktionen Bündnis 90 / Die Grünen und CDU betr.: "Kleingärten in Köln" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke. betr.: "Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens" - zurückgestellt
+- TOP 2.1.1: Stellungnahme zu AN/1206/2023 Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens - zurückgestellt
+- TOP 2.2: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Aktionsplan Klimaschutz - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt zu TOP 3.1 - Aktionsplan Klimaschutz (2243/2023) - ungeändert beschlossen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Anregung der Bezirksvertretung Innenstadt zur Ablehnung der Nutzung des Rheinparks als Fan Zone zur EM 2024 - ohne Votum in nachfolgende Gremien
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.2: Erhöhung von Arbeitssicherheit und Resilienz in den Gerätehäusern der Freiwilligen Feuerwehr - ungeändert empfohlen
+- TOP 4.1.3: Baubeschluss zum Ersatzneubau Brücke Escher Straße in Köln Nippes/Bilderstöckchen - ungeändert empfohlen
+- TOP 4.1.4: Aufwertungsmaßnahme für die historische Grünanlage Alhambra im inneren Grüngürtel - ungeändert empfohlen
+- TOP 4.1.5: GRÜNGÜRTEL Parkstadt Süd, hier: Baubeschluss Sportpionierpark - ungeändert empfohlen
+- TOP 4.1.6: Ersatzbeschaffung von 16 Kolonnenfahrzeugen als Elektrofahrzeuge - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf dem Friedhof Chorweiler - ungeändert beschlossen
+- TOP 4.2.2: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 75 des Friedhofs Melaten - geändert beschlossen
+- TOP 4.2.3: Beschaffung eines Raupenfertigers für den Bereich Wegebau - ungeändert beschlossen
+- TOP 4.2.4: Ersatz von vier Kolonnenfahrzeugen als Elektrofahrzeuge, hier Ersatzbeschaffung von 3 Kolonnenfahrzeugen sowie Umrüstung von einem Kolonnenfahrzeug für - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.2.5: UEFA EURO 2024 - Nutzung des Rheinparks im Rahmen der Football Experience - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Vergabe Stadtklima- und Stadtverschönerungsmittel 2023 im Stadtbezirk Innenstadt Teil II - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsmittel Bezirk Lindenthal 2023 - Kenntnis genommen
+- TOP 7.3: Stadtklima-Stadtverschönerungsprogramm 2023 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Gartenordnung für Kleingärten der Stadt Köln, Aktenzeichen 106/23 - Kenntnis genommen
+- TOP 7.5: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 28. August 2023 - Kenntnis genommen
+- TOP 7.6: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/die Grünen, der CDU-Fraktion und der VOLT-Fraktion bezüglich Sperrungen von Trauerhallen und Toilettenanlagen auf Friedhöfen - Kenntnis genommen
+- TOP 7.7: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.8: Umsetzung Modellprojekt 'Wasser muss zum Baum' auf dem P2 am Fühlinger See - Kenntnis genommen
+- TOP 7.9: Wasserversorgungskonzept - Aktualisierung - Kenntnis genommen
+- TOP 7.10: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 7.11: 3. Sachstandsbericht strategische Grünentwicklung - Kenntnis genommen
+- TOP 7.12: Bewirtschaftung des städtischen Waldes 2023/24 - Kenntnis genommen
+- TOP 7.13: Dritter Sachstandsbericht Essbare Stadt Oktober 2023 - Kenntnis genommen
+- TOP 7.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Werbesatzung Köln", Az.: 147/23 B - Kenntnis genommen
+- TOP 7.15: Erneuerung des Wasserleitungsnetzes Kleingartenanlage Hoffnung - Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - Kenntnis genommen
+- TOP 7.16: Make or Buy Konzept Baumpflege Beschaffung 6 Hubsteiger, 1 Lkw mit Ladekran, hier:Mitteilung über die Erhöhung der Investitionsauszahlungen - Kenntnis genommen
+- TOP 7.17: Grundwasserschaden durch Gaswerksrückstände in Nippes - Kenntnis genommen
+- TOP 7.18: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 13. November 2023 - Kenntnis genommen
+- TOP 7.19: Rezertifizierung mit dem Label „StadtGrün naturnah" - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen - RM Schallehn in der Sitzung am 27.04.2023 betr. LED-Straßenbeleuchtung - Kenntnis genommen
+- TOP 8.2: Beantwortung einer Nachfrage von Dr. Albach aus der Sitzung vom 24.08.2023 zum Energiebericht 2022 bezüglich Photovoltaikanlagen - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Beantwortung einer mündlichen Anfrage der Stadtarbeitsgemeinschaft Queerpolitik aus der Sitzung des Ausschusses Klima, Umwelt und Grün am 24.08.2023 betr.: "Sachstand zum Thema Klimaschutz, Klimabilanz und Sicherheit der Bevölkerung" - Kenntnis genommen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Beantwortung einer mündlichen Anfrage der Fraktion Die Linke in der Sitzung des Ausschusses Klima, Umwelt und Grün vom 24.08.2023 betr.: „Sachstand zum Thema: Energien“ - Kenntnis genommen
+- TOP 8.7: Beantwortung mündlicher Anfragen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 21.09.2023 (2609/2023) betreffend Urteil des Bundesverwaltungsgerichts zum Thema „kommunale Verpackungssteuer“ - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
