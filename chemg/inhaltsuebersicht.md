@@ -18,7 +18,7 @@
 | § 10 | Vorläufige Maßnahmen |
 | § 11 | (weggefallen) |
 | § 12 | (weggefallen) |
-|  | Abschnitt IIa |
+|  | Abschnitt 2a |
 |  | Durchführung der Verordnung (EU) Nr. 528/2012 |
 | § 12a | Beteiligte Bundesbehörden |
 | § 12b | Aufgaben der Bundesstelle für Chemikalien |
@@ -28,7 +28,7 @@
 | § 12f | Informationsaustausch zwischen Bundes- und Landesbehörden |
 | § 12g | Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen |
 | § 12h | Verordnungsermächtigungen |
-|  | Abschnitt IIb |
+|  | Abschnitt 2b |
 |  | Durchführung der Verordnung (EU) Nr. 517/2014 |
 | § 12i | Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014 |
 | § 12j | Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014 |
@@ -68,8 +68,8 @@
 | § 24 | Vollzug im Bereich der Bundeswehr |
 | § 25 | Angleichung an Gemeinschaftsrecht oder Unionsrecht |
 | § 25a | Aufwendungen des Auskunftspflichtigen |
-| § 26 | Bußgeldvorschriften |
-| § 27 | Strafvorschriften |
+| § 26 | Bußgeldvorschriften, Verordnungsermächtigung |
+| § 27 | Strafvorschriften, Verordnungsermächtigung |
 | § 27a | Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung |
 | § 27b | Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006 |
 | § 27c | Zuwiderhandlungen gegen Abgabevorschriften |

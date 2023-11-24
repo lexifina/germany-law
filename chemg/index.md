@@ -22,7 +22,7 @@
 - [§ 11 (weggefallen)](0011.md)
 - [§ 12 (weggefallen)](0012.md)
 
-## Abschnitt IIa Durchführung der Verordnung (EU) Nr. 528/2012
+## Abschnitt 2a Durchführung der Verordnung (EU) Nr. 528/2012
 
 - [§ 12a Beteiligte Bundesbehörden](0012a.md)
 - [§ 12b Aufgaben der Bundesstelle für Chemikalien](0012b.md)
@@ -33,7 +33,7 @@
 - [§ 12g Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen](0012g.md)
 - [§ 12h Verordnungsermächtigungen](0012h.md)
 
-## Abschnitt IIb Durchführung der Verordnung (EU) Nr. 517/2014
+## Abschnitt 2b Durchführung der Verordnung (EU) Nr. 517/2014
 
 - [§ 12i Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014](0012i.md)
 - [§ 12j Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014](0012j.md)
@@ -81,8 +81,8 @@
 - [§ 24 Vollzug im Bereich der Bundeswehr](0024.md)
 - [§ 25 Angleichung an Gemeinschaftsrecht oder Unionsrecht](0025.md)
 - [§ 25a Aufwendungen des Auskunftspflichtigen](0025a.md)
-- [§ 26 Bußgeldvorschriften](0026.md)
-- [§ 27 Strafvorschriften](0027.md)
+- [§ 26 Bußgeldvorschriften, Verordnungsermächtigung](0026.md)
+- [§ 27 Strafvorschriften, Verordnungsermächtigung](0027.md)
 - [§ 27a Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung](0027a.md)
 - [§ 27b Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006](0027b.md)
 - [§ 27c Zuwiderhandlungen gegen Abgabevorschriften](0027c.md)
