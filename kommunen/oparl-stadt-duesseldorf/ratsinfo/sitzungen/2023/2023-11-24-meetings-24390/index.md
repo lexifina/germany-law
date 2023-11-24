@@ -1,0 +1,85 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-24T14:00:00+01:00
+- Ende: 2023-11-24T18:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24390
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24390
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504473.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504473.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504473.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 29.09.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Mündlicher Bericht zur Situation Mühlenstraße - zur Kenntnis genommen
+- TOP 4.2: Vortrag zur Stadtsauberkeitskampagne - zur Kenntnis genommen
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Bebauungsplan Nr.01/025, Flächennutzungsplanänderung Nr. 212 - Hans-Böckler-Straße 39 - Empfehlung einstimmig beschlossen
+- TOP 4.6: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsgangs (G9) am Humboldt-Gymnasium - Empfehlung einstimmig beschlossen
+- TOP 4.7: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die „Immobilien- und Standortgemeinschaft Graf-Adolf-Straße“ - Empfehlung einstimmig beschlossen
+- TOP 4.8: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2024 - Empfehlung abweichend beschlossen
+- TOP 4.9: Trödelmärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2024 - einstimmig beschlossen
+- TOP 4.10: Zuschuss an den Wasser-Sport-Verein Düsseldorf Rudergesellschaft von 1893 e.V. - einstimmig beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2023 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.12: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2023 - einstimmig beschlossen
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme „Umgestaltung Schadowstraße, Oberflächenherstellung“ - Empfehlung einstimmig beschlossen
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.16: Mühlenstraße – Bau einer Durchfahrsperre mit Hubpollern - Empfehlung mehrheitlich beschlossen
+- TOP 4.17: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2023 - vertagt
+- TOP 4.18: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Rheinbahnhaltestellen im Stadtbezirk 1 - Barrierefreier Ausbau - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 5.2: Fußgängerinsel auf der Roßstraße – Höhe Frankenplatz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.3: Sicherheit im Bahnhofsbereich - Anfrage der SPD-Fraktion - beantwortet
+- TOP 5.4: Münsterplatz Strom und Wasser - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.5: Verkehrsführung Nordstraße, Ecke Venloer Straße und Duisburger Straße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 5.6: Sicherheit auf der Umgehung des Zeltes des Düsseldorf Festivals auf dem Burgplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Baumaßnahme Tannenstraße 2-6 - (ehemaliges Gebäude des Forschungszentrums der Zementindustrie) - Anfrage der CDU-Fraktion
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Auslastung des Parkhauses Bendemannstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6.4: Kaiserstraße, Radweg-Querung von der Stern- in die Inselstraße - Anfrage der CDU-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Verkehrssituation Schadowstraße / Liesegangstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Handlungsbedarf an der Zufahrt zur Schadowstraße neben dem Kö-Bogen auf der Berliner Allee - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Anbringung einer Gedenktafel an der Fassade Flinger Straße 6 für den Düsseldorfer Architekten Bruno Schmitz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.4: Altkleidercontainer im Stadtbezirk 1 häufiger leeren - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.5: Campus Golzheim Versorgung - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.6: Anwohnerparkplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Querungsschutz Kreuzung Nordstraße / Duisburger Straße / Venloer Straße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/263/2022 - zur Kenntnis genommen
+- TOP 8.3: Lärmschutz auf der Venloer Straße; Beschluss der Bezirksvertretung 1 vom 18.11.2022; BV1/256/2022 - zur Kenntnis genommen
+- TOP 8.4: „Verbot der Einfahrtschild" an der Pempelforter Straße, Ecke Louise-Dumont-Straße; Beschluss der Bezirksvertretung 1 vom 29.09.2023; BV1/236/2023 - zur Kenntnis genommen
+- TOP 8.5: Aufstellung von zwei Bänken an einem „kühlen Ort" in Derendorf; Beschluss der Bezirksvertretung 1 vom 25.08.2023; BV1/203/2023 - zur Kenntnis genommen
+- TOP 8.6: Verkehrssicherheit im Bereich der Diagonalsperre Mauerstraße Ecke Bankstraße; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/115/2023 - zur Kenntnis genommen
+- TOP 8.7: Wiederherstellung einer Fahrbahn Am Wehrhahn im Abschnitt zwischen Oststraße und Jacobistraße; Beschluss der Bezirksvertretung 1 vom 05.05.2023; BV1/112/2023 - zur Kenntnis genommen
+- TOP 8.8: Stand der Planungen und Umsetzung zur Umgestaltung des Deportationsdenkmals Toulouser Allee und seiner Umgebung; Beschluss der Bezirksvertretung 1 vom 25.08.2023; BV1/207/2023 - zur Kenntnis genommen
+- TOP 8.9: Planung einer Pump-Track-Anlage im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 25.08.2023; BV1/205/2023 - zur Kenntnis genommen
+- TOP 8.10: Lärmschutz - Nächtliche Geschwindigkeitsbeschränkung auf der Jülicher Straße; Beschluss der Bezirksvertretung 1 vom 30.09.2022; BV1/226/2022 - zur Kenntnis genommen
+- TOP 8.11: Spielplatz Münsterplatz; Beschluss der Bezirksvertretung 1 vom 29.09.2023; BV1/232/2023 - zur Kenntnis genommen
+- TOP 8.12: Information über den Planungsstand des Radweges auf der Königsallee; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/050/2023 - zur Kenntnis genommen
+- TOP 8.13: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8.14: Umwidmung der Verkehrsfläche auf der Klosterstraße in eine Fahrradstraße; Beschluss der Bezirksvertretung 1 vom 24.02.2023; BV1/049/2023 - zur Kenntnis genommen
+- TOP 8.15: Telefonzellen am Standort Am Wehrhahn (ehemaliges altes Kaufhof-Gebäude); Beschluss der Bezirksvertretung 1 vom 29.09.2023; BV1/226/2023 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Lieblingsbüdchen Düsseldorf - einstimmig abgelehnt
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mosaik e. V. - mehrheitlich beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e. V. - vertagt
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e. V. - mehrheitlich beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Altstadt Armenküche e. V. - einstimmig beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Schülervertretung des Georg-Büchner-Gymnasiums - mehrheitlich beschlossen
+- TOP 9.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an DRK zentrum plus Derendorf Nord - einstimmig beschlossen
+- TOP 9.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an knacKPunkt/knacKpunkt27 - einstimmig beschlossen
