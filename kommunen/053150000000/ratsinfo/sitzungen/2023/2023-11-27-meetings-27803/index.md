@@ -1,0 +1,84 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-27T17:00:00+01:00
+- Ende: 2023-11-27T19:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27803
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27803
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Austausch mit dem Beigeordneten Andree Haack, Dezernat IX Stadtentwicklung, Wirtschaft, Digitalisierung und Regionales
+- TOP -: A Bericht der Sozialraumkoordinationen im Stadtbezirk Mülheim
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV Mülheim vom 14.08.2023 (AN/1335/2023) betreffend „Bauarbeiten auf der Acker Straße in Köln-Buchheim“ - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage des Einzelmandatsträgers Hengstenberg (AfD) aus der Sitzung der Bezirksvertretung 9 (Mülheim) vom 18.09.2023 betr.: "Halsbandsittiche in Köln" (AN/1570/2023) - Kenntnis genommen
+- TOP 7.1.3: Beantwortung der Anfrage AN/1883/2023 der Fraktion Bündnis 90/Die Grünen der Bezirksvertretung Mülheim zu " Ruhende Baustelle in Höhenhaus - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer Anfrage der Fraktion BÜNDNIS 90/Die Grünen zu "Wartezeiten im Bezirksausländeramt" - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer Anfrage (AN/0062/2023) - Internationales Gold-Wing Treffen - Kenntnis genommen
+- TOP 7.1.6: Beantwortung einer Gemeinsamen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks (FDP) der Bezirksvertretung Mülheim vom 18.09.2023 (AN/1664/2023) betreffend Sachstand Bauvorhaben u. Baustillstand Baumwollbleicherei - Kenntnis genommen
+- TOP 7.1.7: Beantwortung einer Gemeinsamen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks (FDP) der Bezirksvertretung Mülheim vom 22.05.2023 (AN/0964/2023) betreffend Erdarbeiten auf dem Gelände der Baumwollbleicherei in Holweide - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Beschluss der BV9, 25.10.2021 - Kenntnis genommen
+- TOP 7.2.2: Luzerner Weg 70a - Kenntnis genommen
+- TOP 7.2.2.1: Beantwortung einer schriftlichen Anfrage von Ralph Hengstenberg (AfD) vom 01.11.2023 (AN/1925/2023) betreffend "Luzerner Weg 70a" - Kenntnis genommen
+- TOP 7.2.3: Diebstahl der Skulpturen des Märchenbrunnens im Stadtpark Mülheim - Kenntnis genommen
+- TOP 7.2.4: Gültigkeit von Anträgen - Kenntnis genommen
+- TOP 7.2.4.1: Beantwortung einer Anfrage des EMT der AfD in der Bezirksvertretung Mülheim Hengstenberg betreffend:"Gültigkeit von Anträgen" AN/1976/2023 - Kenntnis genommen
+- TOP 7.2.5: Bau eines neuen Rheindükers zwischen Köln-Stammheim und Köln-Niehl - Kenntnis genommen
+- TOP 7.2.6: Mobiler Drogenkonsumraum auch für Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.7: Bürgereingabe vom Oktober 2022 - Überprüfung wie Umweltschutz und Naherholung im Naturschutzgebiet Flittarder Rheinaue besser in Einklang gebracht werden können - Kenntnis genommen
+- TOP 7.2.8: Aktueller Sachstand 33-Punkte-Plan - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Unterkunft Luzerner Weg 70a - endgültig abgelehnt
+- TOP 8.1.2: Halbjährliche und schriftliche Berichterstattung der Verwaltung über den Sachstand der in der Bezirksvertretung Köln-Mülheim beschlossenen Anträge, inklusive der Bürger*inneneingaben, ab dem 01.01.2024 - geändert beschlossen
+- TOP 8.1.3: Alle Fraktionen der BV Köln- Mülheim in die Arbeitsgruppe Wiener Platz einbinden - geändert beschlossen
+- TOP 8.1.4: Überprüfung, leerstehende Wohnungen in der GAG-Siedlung Köln- Stammheim/ Moses-Hess-Straße, Adolf-Kober-Straße, Georg-Breuer-Straße, Elias-Gut-Straße usw. doch für Wohnungssuchende, Wohnungslose, Obdachlose und Geflüchtete bewohnbar zu machen - ungeändert beschlossen
+- TOP 8.1.5: Bessere Fahrradabstellmöglichkeiten auf der Windmühlenstraße - ungeändert beschlossen
+- TOP 8.1.6: Piktogrammketten auf dem Dünnwalder Kommunalweg - ungeändert beschlossen
+- TOP 8.1.7: Dringlichkeitsantrag Luzerner Weg - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept Mülheim (1. Zyklus) - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - zurückgestellt
+- TOP 9.2.3: Freiraumkonzept Mülheimer Süden - ungeändert beschlossen
+- TOP 9.2.4: Gestaltungsleitfaden Mülheimer Süden - ungeändert beschlossen
+- TOP 9.2.5: Fortschreibung der Schulentwicklungsplanung Köln 2023 - ungeändert beschlossen
+- TOP 9.2.6: Bedarfsfeststellung zur Errichtung einer Dreifachturnhalle am Standort Holweider Straße 2 einschließlich angrenzenden Grundstücksflächen in 51065 Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2.7: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim - zurückgestellt
+- TOP 9.2.8: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.9: 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: 21. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Skulpturenausstellung Schlosspark Stammheim", Aktenzeichen: 92/23 S - Kenntnis genommen
+- TOP 10.2.7: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 10.2.8: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 10.2.9: Sachstandsbericht Mülheimer Süden - Kenntnis genommen
+- TOP 10.2.10: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - - Kenntnis genommen
+- TOP 10.2.11: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 10.2.12: Jahresbericht der Naturschutzwacht 2021/2022, Bezirk 9 (Mülheim West) - Kenntnis genommen
+- TOP 10.2.13: Offenlage vorhabenbezogener Bebauungsplan-Entwurf Nr. 69472/01, Arbeitstitel: Lindgens-Areal in Köln Mülheim - Kenntnis genommen
+- TOP 10.2.14: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 10.2.15: Schließung des Spielplatzes Fritz-Haber-Straße zur Gefahrenabwehr - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
