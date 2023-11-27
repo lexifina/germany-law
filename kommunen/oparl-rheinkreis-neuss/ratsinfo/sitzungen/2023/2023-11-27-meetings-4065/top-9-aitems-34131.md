@@ -1,0 +1,8 @@
+# TOP 9: Internationales Mundartarchiv "Ludwig Soumagne": Neueinrichtung einer Dauerausstellung zur Mundart und Vergabe des Friedestrompreises
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kulturausschusses (2023-11-27)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/34131
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/12888
