@@ -1,0 +1,52 @@
+# 21. Sitzung des Betriebsausschusses Gebäudewirtschaft
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-27T16:45:00+01:00
+- Ende: 2023-11-27T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/29
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27441
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27441
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962962.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962962.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00962962.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung sachkundiger Einwohner*innen
+- TOP 1: Kulturbauten
+- TOP 1.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 06. November 2023 - Kenntnis genommen
+- TOP 1.2: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 13. November 2023 - Kenntnis genommen
+- TOP 1.3: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 20. September 2023 - Kenntnis genommen
+- TOP 1.4: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 17. November 2023 - Kenntnis genommen
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Beantwortung einer mündlichen Nachfrage von SE Böning aus dem Betriebsausschuss der Gebäudewirtschaft vom 8. Mai 2023 bezüglich Risiken im Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - zurückgestellt
+- TOP 2.2: Beantwortung einer mündlichen Nachfrage von RM Tempel aus der Sitzung vom 31.08.2023 bezüglich der Generalinstandsetzung des Schulzentrums Zündorf in der Heerstraße - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 3.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und VOLT - Sperrungen von Trauerhallen / Toilettenanlagen auf Friedhöfen - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/die Grünen, der CDU-Fraktion und der VOLT-Fraktion bezüglich Sperrungen von Trauerhallen und Toilettenanlagen auf Friedhöfen - Kenntnis genommen
+- TOP 3.2: Anfrage der SPD-Fraktion - Generalsanierung des Schulzentrums Zündorf - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion (AN/1169/2023) bezüglich der Generalinstandsetzung des Schulzentrums Zündorf in der Heerstraße - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Entscheidungen (Beschlussorgan Betriebsausschuss Gebäudewirtschaft)
+- TOP 6.1: TU-/GU-Schulbaumaßnahme: Aula der Katharina-Henoth-Gesamtschule Adalbertstraße 17 in 51103 Köln-Höhenberg durch Totalunternehmen - Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 7: Vorberatungen (Beschlussorgan Rat oder andere Ausschüsse)
+- TOP 7.1: Aktionsplan Klimaschutz - ohne Votum in nachfolgende Gremien
+- TOP 7.2: Planungsbeschluss zur Erstellung eines Erweiterungsbaus und Umbaus der Mensa mit Küche für die offene Ganztagsschule der Mathilde-von-Mevissen-Grundschule, Gellertstr. 4-6, 50733 Köln (Nippes) - ungeändert empfohlen
+- TOP 7.3: Fortschreibung der Schulentwicklungsplanung Köln 2023 - zurückgestellt
+- TOP 7.4: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 7.5: Bedarfsfeststellung zur Errichtung einer Dreifachturnhalle am Standort Holweider Straße 2 einschließlich angrenzenden Grundstücksflächen in 51065 Köln-Mülheim - ungeändert empfohlen
+- TOP 7.6: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim - zurückgestellt
+- TOP 7.7: Beschluss der Bezirksvertretung Innenstadt - Aktuelle Stunde zur Zukunft des Bezirksrathauses am Laurenz-Carré - Kenntnis genommen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bearbeitung der Priorisierenden Schulbaumaßnahmenliste - Kenntnis genommen
+- TOP 8.2: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Neubaus oder ... eines Bestandsgebäudes für ein 4/6 zügiges Gymnasiums... - Kenntnis genommen
+- TOP 8.3: Bildungslandschaft Altstadt/Nord - Sporthalle Adolf-Fischer-Straße, Sachstand Stand 10. Oktober 2023 - Kenntnis genommen
+- TOP 8.4: Sachstand zum Bezirksrathaus Rodenkirchen, Stand 16. November 2023 - Kenntnis genommen
+- TOP 8.5: Sachstandsbericht zu Schulhofentsiegelungen - Kenntnis genommen
+- TOP 8.6: Mitteilung über den Zwischenbericht der Gebäudewirtschaft der Stadt Köln zum 3. Quartal 2023 - Kenntnis genommen
+- TOP 8.7: Evaluation von ÖPP-Projekten - halbjährlicher Bericht, Stand 30. September 2023 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
