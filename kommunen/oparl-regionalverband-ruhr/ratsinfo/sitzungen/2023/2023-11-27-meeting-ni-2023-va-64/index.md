@@ -1,0 +1,91 @@
+# 12. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2023-11-27T10:00:00+01:00
+- Ende: 2023-11-27T11:15:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-64
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2023-VA-64
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-64
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-VA-64
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Haushalt 2024
+- TOP 2.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2024
+- TOP 2.2: Verabschiedung des Haushaltsplans 2024
+- TOP 2.2.1: Änderungsantrag zum Haushaltsentwurf 2024 AKSV der FDP
+- TOP 2.2.2: Änderungsantrag zum Haushaltsentwurf 2024 AWB FDP
+- TOP 2.3: Haushaltskonsolidierungsplan 2024
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. EUR Gesamtkosten (Titel 777 11): Priorisierung der Maßnahmen für das Jahr 2024
+- TOP 3.2: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2024
+- TOP 3.3: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 11): Priorisierung der Maßnahmen für das Jahr 2024
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2022
+- TOP 8.2: Jahresabschlüsse der Beteiligungsgesellschaften zum 31.12.2022 - Manifesta 16 Ruhr gGmbH
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Verkauf der vom RVR gehaltenen Anteile an der Revierpark Wischlingen GmbH an die Stadt Dortmund
+- TOP 8.4: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Bereitstellung von Sonderzuschüssen und Neufassung der Gesellschaftervereinbarung 2024 bis 2026
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Evaluierung des Betriebsführungsvertrages zwischen der Revierpark Gysenberg Herne GmbH (RPG) und der Herner Bädergesellschaft (HBG)
+- TOP 8.5.1: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Evaluierung des Betriebsführungsvertrages zwischen der Revierpark Gysenberg Herne GmbH (RPG) und der Herner Bädergesellschaft (HBG)
+- TOP 8.6: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Gesellschaftervereinbarung 2024 ff
+- TOP 8.7: Angelegenheiten der Umweltzentrum Westfalen gGmbH - Nebenabrede 2024
+- TOP 8.8: Angelegenheiten des EKOCity Abfallwirtschaftsverbandes 8. Änderungssatzung zur Satzung des EKOCity Abfallwirtschaftsverbandes
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Umsetzungsstrategie für das regionale Freizeit- und Tourismuskonzept für die Metropole Ruhr
+- TOP 9.2: Regionale Großformate 2030+
+- TOP 9.3: Integriertes Regionales Entwicklungskonzept Metropole Ruhr im Rahmen der Bund/Länder-Gemeinschaftsaufgabe 'Verbesserung der regionalen Wirtschaftsstruktur'; hier: Berichtsentwurf
+- TOP 9.4: Regionale Straßenbefahrung Metropole Ruhr
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: 'Mobilitätsimpuls.RUHR'
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Freiraumkonzept Metropole Ruhr
+- TOP 11.2: Digitale Klimaschutzplanung; Sachstandsbericht
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Stiftung Kulturhauptstadt RUHR.2010 Auflösung der Stiftung
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2024
+- TOP 14.2: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2022. Beschluss über die Zuführung des Jahresüberschusses 2022 in die Ausgleichsrücklage. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 15.1: Stellungnahme des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW
+- TOP 15.2: Bericht der Märkischen Revision GmbH des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlusses zum 31.12.2021
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.2: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH Wechsel in der Geschäftsführung
+- TOP 16.3: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Abberufung der seitens des RVR bestellten Mitglieder des Verwaltungsrates zum 31.12.2023
+- TOP 16.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.5: Beschluss über die Behandlung des Jahresfehlbetrages 2022
+- TOP 16.6: Projekt- und Finanzberichtswesen zum 30.09.2023
+- TOP 16.7: Bekanntgabe der in der Zeit vom 01.07.2023 - 30.09.2023 für das Haushaltsjahr 2023 genehmigten Haushaltsüberschreitungen
+- TOP 16.8: Ausschreibung der Stelle des Regionaldirektors / der Regionaldirektorin
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort zur Anfrage Fraktion CDU Sachstand GPA-Gutachten
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: Statistik des Verbandes zu Arbeitsmarktentwicklung
+- TOP -: Auswirkungen der Ausbaupläne der Deutschen Bahn auf das Verkehrskonzept der IGA
