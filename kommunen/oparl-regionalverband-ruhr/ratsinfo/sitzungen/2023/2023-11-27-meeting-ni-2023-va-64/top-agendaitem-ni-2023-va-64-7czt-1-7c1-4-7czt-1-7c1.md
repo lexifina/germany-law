@@ -1,0 +1,6 @@
+# TOP -: Tischvorlagen
+
+- Sitzung: 12. Sitzung des Verbandsausschusses (2023-11-27)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2023-VA-64%7Czt_1%7C1
