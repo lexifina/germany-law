@@ -1,0 +1,97 @@
+# 26. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-27T17:00:00+01:00
+- Ende: 2023-11-27T19:48:00+01:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal Nebeneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27581
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27581
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Beigeordneten Robert Voigtsberger
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohneranfrage betr.: Ehrenveedel Am Alten Güterbahnhof - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Heliosstraße - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Vogelsangerstraße zwischen Ehrenfeldgürtel und Oskar-Jäger-Straße - Sache ist erledigt
+- TOP -: Anfrage der SPD-Fraktion, betr.: Umgestaltung der Vogelsanger Straße zwischen Ehrenfeldgürtel und Oskar-Jäger-Straße, Vorlagen-Nummer AN/0447/2023 - Kenntnis genommen
+- TOP 6.5: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.6: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.7: Anfrage der CDU-Fraktion, betr.: Erstellung der Straße „Teichrohrsängerweg “ in Köln Vogelsang - Sache ist erledigt
+- TOP -: Beantwortung einer mündlichen Anfrage - TOP 19.1 Sitzung des Stadtentwicklungsausschusses vom 28.09.2023 - hier: Sachstand zur Planung des Teichrohrsängerweges - Kenntnis genommen
+- TOP 6.8: Anfrage der SPD-Fraktion, betr: Konzeptvergabe Alpenerstraße 4-6/Artilleriewagenhalle - zurückgestellt
+- TOP 6.9: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 6.10: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.11: Anfrage der SPD-Fraktion, betr,; Großprojekt der Rheinenergie im Bereich Stockheimer Weg - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der BV 4 (Ehrenfeld) vom 25.09.2023 (AN/1662/2023) betr.:„Großprojekt der Rheinenergie im Bereich Stockheimer Weg“ - Kenntnis genommen
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Anfrage der SPD-Fraktion, betr.: Wissenschaftliche Grundlagen der Prüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus - zurückgestellt
+- TOP 6.14: Anfrage der Fraktion Bündnis 90/Die Grünen, betr. Aktuelle Situation Straßenbäume - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung 4 vom 25.09.2023 (AN/1698/2023) betreffend Aktuelle Situation Straßenbäume - Kenntnis genommen
+- TOP 6.15: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Fehlende Wegeverbindungen zur Brücke Weinsbergstraße - Sache ist erledigt
+- TOP 6.16: Anfrage der SPD-Fraktion, betr.: Ostspitze ehemaliger Güterbahnhof - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Ostspitze ehemaliger Güterbahnhof (AN 1843/2023) - Kenntnis genommen
+- TOP 6.17: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Weiteres Vorgehen Schulstraßen in Ehrenfeld - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.; DB – Verwaltungsgebäude am Alten Güterbahnhof. Oskar-Jäger-Str. - / Vogelsangerstraße (Lidl Markt) - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion (Session-Nr. AN/1981/2023) betreffend DB-Verwaltungsgebäude am Alten Güterbahnhof - Kenntnis genommen
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Verwendung von Einnahmen aus der Stellplatzsatzung im Stadtbezirk Ehrenfeld - Sache ist erledigt
+- TOP -: Verwendung von Einnahmen aus der Stellplatzsatzung im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, der SPD-Fraktion, der Fraktion Die Linke/Die Partei, Fr. Schroeder (Klimafreunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT) betr.: Umbenennungsprozess Wißmann- und Gravenreuthstraße - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag der CDU-Fraktion zu TOP 8.1, betr.: Umbenennungsprozess Wißmann- und Gravenreuthstraße - endgültig zurückgezogen
+- TOP 8.1.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, CDU-Fraktion, Fr. Schroeder (Klimafreunde), Fr. Pöttgen (FDP) und Hr. Scholz (GUT), betr.: Umbenennungsprozess Wißmann- und Gravenreuthstraße - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Wegeführung über die Brücke Weinsbergstraße - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Interimsschulersatzbau auf dem öffentlichen Parkplatz am Görlinger Zentrum 45 / - zurückgestellt
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Sauberkeit rund um den Bahnhof Ehrenfeld verbessern - ungeändert beschlossen
+- TOP 8.5: Antrag von Elke Schroeder (KLIMA FREUNDE), betr.: Einrichtung Bewohnerparken im Bezirk Ehrenfeld - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion, betr.: Einrichtung Bewohnerparken im Bezirk Ehrenfeld - geändert beschlossen
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Bocklemünd besser ans Radverkehrsnetz anbinden - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Mehr Sicherheit für Fußverkehr im Wohnviertel/ Anbindung der Fuß- und Radwege - geändert beschlossen
+- TOP -: Ersetzungsantrag der Fraktion Bündnis 90/Die Grünen zur TOP 8.7 - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Telefonzellenruinen sofort abbauen - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der CDU-Fraktion, betr.: Schließung der Kitas - endgültig abgelehnt
+- TOP 9: Entscheidungen
+- TOP 9.1: Umgestaltung Spielplatz 4 02 02 02 Prälat-Savelsberg-Platz in Neuehrenfeld - ungeändert beschlossen
+- TOP 9.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Ehrenfeld - Förderprogramm - ungeändert beschlossen
+- TOP 9.3: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld, hier: Vergabe der Restmittel - ungeändert beschlossen
+- TOP 9.4: Vierte Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO 2023 - ungeändert beschlossen
+- TOP 9.5: Sanierung der Dachflächen des Bürgerschaftshauses Bocklemünd, Görlinger Zentrum 13-15, 50829 Köln Planungsbeschluss - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Green Campus - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - geändert beschlossen
+- TOP 10.2: Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - städtebauliches Planungskonzept - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.3: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.4: Festlegung der Variante zur Planung der Bahnsteiganhebungen an den Haltestellen Nußbaumerstr. und Subbelrather Str./Gürtel - zurückgestellt
+- TOP 10.5: Baubeschluss für die Erneuerung von 6 Fahrtreppenanlagen - geändert beschlossen
+- TOP -: Änderungsantrag von Fr. Pöttgen (FDP) zu TOP 10.5 - ungeändert beschlossen
+- TOP 10.6: Genehmigung einer Dringlichkeitsentscheidung, betr.: Sanierung des Funkturms Colonius (BV 4 Ehrenfeld) - ungeändert beschlossen
+- TOP 10.7: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.8: Fortschreibung der Schulentwicklungsplanung Köln 2023 - ungeändert beschlossen
+- TOP 10.9: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 10.10: 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Mitteilung zur Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - Kenntnis genommen
+- TOP 12.2: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 12.3: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 12.4: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 12.5: Weiterführung des Einleitungsverfahrens zum Bebauungsplan-Entwurf Nummer 63459/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - Kenntnis genommen
+- TOP 12.6: Aufstellung einer Mobiltoilette im Bereich Biesterfeld-Park - Kenntnis genommen
+- TOP 12.7: Aufstellung einer Mobiltoilette am Helmholtzplatz - Kenntnis genommen
+- TOP 12.8: Mitteilung über die Anlage zweier Bewegungsstationen im Buschpark und im Biesterfeld, hier Beratung des Naturschutzbeirates und Erteilung der Ausnahmen von den Verboten des Landschaftsplans durch die Untere Naturschutzbehörde - Kenntnis genommen
+- TOP 12.9: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 12.10: Niederschrift Runder Tisch Radverkehr Ehrenfeld - Kenntnis genommen
+- TOP 12.11: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 12.12: Ampelschaltung Kreuzung Westendstr. /Mühlenweg/Mathias-Brüggen-Str. - Kenntnis genommen
+- TOP 13: mündliche Anfragen
