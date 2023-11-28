@@ -1,0 +1,216 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-11-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7369350
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7369350
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-10
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Westpark, Westeingang - Westendstrasse-Gerty-Spiess-Straße- Kieferschaden- Verkehrssicherung
+- TOP 6.2.: Drachenseestr_Ecke Ötztaler - Rückblick
+- TOP 6.3.: Unterführung an der Margaretenstraße
+- TOP 6.4.: Nachfrage zum Parklizenzgebiet Partnachplatz
+- TOP 6.5.: "Wilde" Parker am nördlichen Ende der Passauerstraße
+- TOP 6.6.: Unfall auf der Kreuzung Fürstenrieder Straße an der Ecke Ehrwalder Straße
+- TOP 6.7.: Klimastrategie - Treffauerstraße/Ehrwalder Straße
+- TOP 6.8.: Fahrradstellplatz auf der Gerokstrasse Nr 9
+- TOP 6.9.: Antrag auf Verkehrsberuhigung und Einführung einer Geschwindigkeitsbegrenzung in der Murnauer Straße
+- TOP 6.10.: 30 Zone in der Murnauer Str.
+- TOP 6.11.: Anliegen_Verschärftes Verkehrschaos vor GS Fernpaßstraße in Hinterbärenbadstraße
+- TOP 6.12.: Graffiti am Pfrontener Platz
+- TOP 6.13.: Spielplatz am Nestroygarten
+- TOP 6.14.: Anwohnerparken
+- TOP 6.15.: Einrichtung einer Kurzparkzone
+- TOP 6.16.: Verbesserung der bürgerunfreundlichen Parkregelung am U-Bhf Partnachplatz
+- TOP 6.17.: Parken in Ettalstr.
+- TOP 6.18.: Fahrradstationen
+- TOP 6.19.: Unsinn Westtangente
+- TOP 6.20.: Parklizenzgebiet Waldfriedhofstraße / Ettalstraße / Staltacher Straße
+- TOP 6.21.: Einbahnstraßenregelung Ecke Mittenwalder Straße und Wessobrunnerstraße
+- TOP 6.22.: Permanente Lärmbelästgung und Vermüllung Glascontainer Friedrich-List-Straße
+- TOP 6.23.: Durchgangsverkehr Hinterbärenbadstr;Einbahnstraßenregelung
+- TOP 6.24.: Leerung von Wertstoffinsel Bodenehrstr. 16
+- TOP 6.25.: Parklizenzbereich Albert-Roßhaupter-Str.
+- TOP 6.26.: Geparktes Firmenfahrzeug Ettalstr.
+- TOP 6.27.: Strompfosten Joh-Clanze-Str
+- TOP 6.28.: Mülleimer an der Ökologischen Ausgleichfläche Distlhofweg
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Backsteinchen LKP
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: Änderungsanfrage Zuwendungshöhe Initiative Oktoberfest
+- TOP 10.2.: (E) Stadtbezirksbudget Initiative „Neujahresempfang“ Initiative „Neujahresempfang“ am 25.01.2024 850,00 € / AZ: 0262.0-7-0453
+- TOP 11.: Anträge
+- TOP 11.1.: Fürstenrieder-Linksabbieger_Ossingerstr
+- TOP 11.2.: BSL Parkbänke
+- TOP 11.3.: Westpark_Schilder Miteinander
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung UA SuK
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung UA PuG
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.9.1.: Protokoll Mieterbeirat 23.10.2023
+- TOP 13.9.2.: Dresdner Fernwärme-Kolloquium Wärmewende mit Tiefengeothermie – Transformation des Fernwärmesystems der SWM
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 13.13.1.: Besprechung mit MOR zu überfälligen Anträgen
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Arnimstr.-Frau O`Reilly
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Andreas-Vößt-Str.
+- TOP 15.2.: Bauvorhaben Ehrwalder Str.
+- TOP 15.3.: Bauvorhaben Krüner Stube
+- TOP 15.4.: Bauvorhaben Hansastr.
+- TOP 15.5.: Bauvorhaben Tübingerstr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Anhörung, Energieberatungen, Krüner Platz, Werdenfelserpark, Zirler Platz
+- TOP 16.2.: Anhörung, Luise-Kiesselbach-Platz, Winterdorf am Maibaum
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Luise-Kiesselbach-Platz, Christkindlmarkt mit Eisbahn.
+- TOP 18.: Baureferat
+- TOP 18.1.: ANTw. BSL Trampolin
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Antrag auf städtische Leistung Schaukästen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Pfaffenwinkel Verkehrsrechtliche Anordnung
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Beschlussvorlage Schul- und Kitabauoffensive
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Radwege im Stadtbezirk 7, Sendling-Westpark, sanieren
+- TOP 33.2.: Instandsetzung des Straßenbelags der Ortlerstraße zwischen Drachenseestraße und Hansastraße
+- TOP 33.3.: Umgestaltung Welserstraße
+- TOP 33.4.: Grünfläche Partnachplatz
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Fristverlängerung Professionell durchgeführte Kinder- und Jugendversammlung
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Beantragung einer Fristverlängerung für den BA-Antrag "Neuer Standort für den BA-Schaukasten (bisher: Hansa- / Ortlerstraße)
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 38.1.: Informationen zu den Stationen des Kulturgeschichtspfades vor Ort verfügbar machen
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zwischennachricht Murnauer Straße - Tempo 30 aus Lärmschutzgründen
+- TOP 40.2.: Stellungnahme div. BÜV - stat Radarkontrollen A95
+- TOP 40.3.: StR-Antrag zu Sachsenkam- und Fr-Hebbel-Str.
+- TOP 40.4.: Zusatz Radarkontrolle zu Beginn der A95-B2
+- TOP 40.5.: Die Südparkallee als Fahrradstraße
+- TOP 40.6.: Parkplatzsituation in der Martin-Behaim-Straße
+- TOP 40.7.: Eindeutige Regelung des Radverkehrs in der Garmischer / Grüntenstraße
+- TOP 40.8.: Verkehrsrechtliche Anordnung Weilheimer Str.
+- TOP 40.9.: Fristverlängerung_Parkgebühren Verbraucherpreisindex
+- TOP 40.10.: Parkhinweis Johann-Clanze-Str. 100
+- TOP 40.11.: TOPO-Box:Auswertung Passauerstr 2023
+- TOP 40.12.: TOPO-Box: Auswertung Hansa 2023
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Sanierung Haus St. Josef
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023
+- TOP 49.2.: (U) Ersatzneubau der Kreuzhofbrücken BW 40/45 und BW 40/46 im 7. Stadtbezirk Sendling - Westpark, im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und im 20. Stadtbezirk Hadern 1. Projektgenehmigung 2. Genehmigung der Vorwegmaßnahme 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Laternenumzug Montessori Kinderhaus
+- TOP 53.2.: Bescheid, Krüner Platz, Konzertveranstaltung Mutheki e.V
+- TOP 53.3.: Bescheid, Ausstellungen zu Energieberatungen Krüner Platz/Zirler Platz/Werdenfelserpark
+- TOP 53.4.: Allgemeinverfügung Böllerverbot 2023/2024
+- TOP 53.5.: Bescheid, Luise-Kiesselbach-Platz, Christkindlmarkt
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Gefahrenbaum Aichacher Str.
+- TOP 55.2.: Gefahrenbaum Schmuzerstr.
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Verkehrsrechtliche Anordnung zur Asphaltierung der Fahrbahn in der Peter-Schlemihl-Str.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Info Bürgerversammlung
+- TOP 58.2.: RBS BüV Information korrigiert
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung Asphaltschneidearbeiten Murnauer Straße
+- TOP 60.2.: Ausnahmezulassung Passauer/Heckenstallerstr.
+- TOP 60.3.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 06 (Sendling) und 07 (Sendling-Westpark) Satzungsbeschluss Satzung „Am Harras/Passauerstraße“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzun „Am Harras/Passauerstraße“) Stadtbezirk 06 Sendling und 07 Sendling-Westpark
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Erhaltungssatzung
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Sachbericht Dschungel-Festival 2023 Feierwerk Dschungelpalas
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 18.2.: Anhörung Partnachplatz
+- TOP 13.1.1.: Bericht des Vorsitzenden
+- TOP 12.1.1.: 2023-11 UA_B-S-U_Einladung
+- TOP 12.2.1.: 2023-11 UA_BuS_Einladung
+- TOP 12.5.1.: 2023-11-16 UA_MuW_OT_Einladung
+- TOP 12.5.2.: 2023-11-16 UA_MuW_OT_Einwohnerschreiben-nach-Ortstermin
+- TOP 12.5.3.: 2023-11-16 UA_MuW_OT_Schreiben-Schulwegsicherheit-nach-OT
+- TOP 12.5.4.: 2023-11-23 UA_MuW_Einladung
+- TOP 10.3.: (E) Stadtbezirksbudget Studienseminar Albertinum „Anschaffung Defibrillator“ A1.100,00 € / Z: 0262.0-7-0454
+- TOP 25.2.: Vorentwurfsplanungen und Informationen zur geplanten Erweiterung Lizenzgebiet Partnachplatz
+- TOP 12.1.2.: Protokoll Unterausschuss Bau-Stadtplanung-Umwelt
+- TOP 10.4.: MZM_Änderungsanfrage Zuwendungshöhe
+- TOP 12.6.2.: Protokoll P u. G
+- TOP 13.8.1.: Protokoll Arbeitskreis
+- TOP 12.4.2.: Protokoll_SuK
+- TOP 12.4.3.: Antrag SuK_Ferien-und Familienpässe
+- TOP 12.5.5.: Protokoll-OT-Werdenfelsstr
+- TOP 12.5.6.: MuW_Protokoll
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten
+- TOP 12.2.2.: Protokoll BuS
+- TOP 8.1.: (E) + (U) Errichtung einer stationären Radaranlage als Lärmschutz für die Anwohner der B2 Empfehlung Nr. 14-20 / E 03073 der Bürgerversammlung des 07. Stadtbezirkes Sendling-Westpark am 19.11.2019 Stationäre Geschwindigkeitskontrollen auf der A95 entlang der Einhornallee und der Süd­parkallee stadtauswärts Empfehlung Nr. 14-20 / E 03065 der Bürgerversammlung des 07. Stadtbezirkes Sendling-Westpark am 19.11.2019
