@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-11-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253381
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253381
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 24.10.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 24.10.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Aufstellung eines Kreislaufschrankes auf dem Grünen Markt, Frist: 15.12.2023
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Transparenz bei Baumaßnahmen an Spielplätzen und Freizeitflächen, Antrag der Fraktion FDP
+- TOP 3.1.2.: Ergebnisse der Machbarkeitsuntersuchung zur Beleuchtung von Jugendspieleinrichtungen zeitnah umsetzen: Xaver-Weismor-Straße, Antrag der Fraktion CSU
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Beschlussentwurf "Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten"
+- TOP 3.2.2.: Haltverbot in der Grafinger Straße zwischen Innsbrucker Ring und Ampfingstraße zur Verbesserung der Zuverlässigkeit des Linienbusverkehrs; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Einrichtung einer Hol- und Bringzone für die Kita in der Hachinger-Bach-Straße 11, Anhörung des Mobilitätsreferats; Frist bis zum 04.12.2023
+- TOP 3.2.4.: Verkehrssituation südliche Baumkirchner Str., Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Mögliche Verkehrsberuhigung in der Hachinger-Bach-Str. zwischen Großvenedigerstr. und St.-Veit-Str., Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Berg am Laim soll weitere Geldautomaten erhalten, Antrag der Fraktion FW/ÖDP
+- TOP 3.2.7.: Erika-Köth-Str.: Parken auf provisorischem „Gehweg“ vorübergehend erlauben, Antrag der Fraktion CSU
+- TOP 3.2.8.: Installation eines Verkehrsspiegels und Umsetzung eines Halteverbots in der Neumarkter Str. 23, Anliegen aus der Bürgerschaft
+- TOP 3.2.9.: U-Bahn-Abgang Michaelibad: Fahrrad- in e-Scooter-Stellplätze umwandeln, Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.10.: Verbesserung der Situation in der Hachinger-Bach-Str., Antrag aus dem UA- Städtebauliche Entwicklung, Mobilität, Wohnen, Gewerbe und Digitalisierung
+- TOP 3.2.11.: Piusstraße: Unnütze Fahrradbügel wieder abbauen und als Pkw-Stellplätze nutzen, Antrag der Fraktion CSU
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Entwurf der Beschlussvorlage "Schul- und Kitabauoffensive – 5. Schulbauprogramm", Anhörung des Referats Bildung und Sport, Frist: 08.12.2023
+- TOP 3.3.2.: Veranstaltung auf den Grünstreifen an der Echardinger Kapelle am 26.12.2023, Anhörung des Kreisverwaltungsreferats; Frist: 18.12.2023
+- TOP 3.3.3.: Kinderaktionen des AKA e.V. in diversen städtischen Grünanlagen, Anhörung des Kreisverwaltungsreferats; Frist: 11.12.2023
+- TOP 3.3.4.: digitale Abschlussveranstaltung Sommerstraße 2023, Vorschläge zu möglichen Standorten
+- TOP 3.3.5.: Neue Räume für Musik- und Kulturarbeit in Berg am Laim, Antrag aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01. - 31.12.2024 7.980,00€ / AZ 0262.0-14-0383
+- TOP 3.5.2.: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. Whiteboard für den Unterrichtsraum 1.155,49€ / AZ 0262.0-14-0376
+- TOP 3.5.3.: (E) Stadtbezirksbudget Quat Fata - Frauenpower e.V. 4. Interkulturelles Tanz- und Musikfest "Mening Yultuzum, Mein Stern" am 03.12.2023 900,00 Euro, Az.: 0262.0-14-0379 - vertagt aus der Plenumssitzung vom 24.10.2023 -
+- TOP 3.5.4.: (E) Stadtbezirksbudget Initiative Tafeltrubel “Tafeltrubel“ ab 07.12.2023 9.500,00€ / AZ 0262.0-14-0384
+- TOP 3.6.: Baumschutz
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: (U) Abschaltung von Beleuchtungsanlagen bei anbaufreien Straßen und Umstellung von Anstrahlungen öffentlicher Denkmäler, historischer Gebäude und Brunnen auf LED-Technik zur Reduzierung des Energieverbrauchs und des CO2-Ausstoßes Earth Night 2023 - Umdenken zur Bekämpfung der Lichtverschmutzung Antrag Nr. 20-26 / A 04057 von der Fraktion ÖDP / München-Liste vom 02.08.2023 - vertagt aus der Plenumssitzung vom 24.10.2023 -
+- TOP 4.1.2.: Lichtverschmutzung in Grünanlagen der GWG und GEWOFAG verringern
+- TOP 4.1.3.: Redundanz der Stromversorgung für Mobilfunkmasten
+- TOP 4.1.4.: Information über den Ausbauplan zum Thema Fernwärme und kommunaler Wärmeplanung
+- TOP 4.1.5.: OB-Entscheidung vom 26.10.2023: Rolltreppe/Lift für den S-Bahnhof Leuchtenbergring. Empfehlung Nr. 20-26 / E 00686 der BV des Stadtbezirkes 14 - Berg am Laim am 07.07.2022
+- TOP 4.1.6.: Allgemeinverfügung Böllerverbot 2023/2024
+- TOP 4.1.7.: Information zu der BA-Nachfrage zur Stromversorgung bei Veranstaltungen
+- TOP 4.1.8.: Erneuerung bzw. Neubau des Gebäudes Gammelsdorfer Str. 2a
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Umsetzung eines Zebrastreifen bzw. geordnete Überquerungsmöglichkeit für einen sicheren Schulweg in der Josephsburgstraße
+- TOP 4.2.2.: Weitere Querungsmöglichkeit über die Baumkirchner Straße
+- TOP 4.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.4.: (U) Dingolfinger Straße, Neubau einer Fuß- und Radwegbrücke am S-Bahn-Haltepunkt Leuchtenbergring im 5. Stadtbezirk Au - Haidhausen und im 14. Stadtbezirk Berg am Laim 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 4.2.5.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 4.2.6.: Schulweg Problematik im Bereich der Grafinger Str.
+- TOP 4.2.7.: Vollsperrung in der Hanne-Hiob-Str. 4-6, Ecke August-Everding-Str.
+- TOP 4.2.8.: Änderung der Ampelschaltphase an der B304 Ecke Baumkirchner Str. zur Überquerung der Berg-am-Laim-Str.
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Fassadenbemalung an der Grundschule Berg am Laim
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: Bereitstellung von ausreichend Streetwork-Planstellen für Berg am Laim
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 4.5.2.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.9.: Verkehrssicherheit am Maria-Eck-Platz erhöhen
