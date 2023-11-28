@@ -1,0 +1,93 @@
+# 21. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-28T15:35:00+01:00
+- Ende: 2023-11-28T19:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27504
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27504
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Darstellende Künste - zurückgestellt
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen SPD und Die Linke: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - zurückgestellt
+- TOP 3.2: Antrag der FDP-Fraktion: Kulturelle Besucherzahlen erfassen - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Dauerhafte Aufstellung der Rodin-Skultpur am Neumarkt - geändert beschlossen
+- TOP 4.3: Bestellung einer stellvertretenden Schriftführung für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - zurückgestellt
+- TOP 4.4: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen SPD und FDP - zurückgestellt
+- TOP 4.5: Renovierungsprogramm Museen 2023, hier: Mittelfreigabe für das Museum Ludwig - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Freigabe von Fördergeldern an die Bezirksvertretungen zur Förderung von Veedelszügen - ungeändert beschlossen
+- TOP 4.7: Strukturförderung Kulturwerk BBK Köln e.V. und Künstler*innenförderung Bildende Kunst in 2024 - ungeändert beschlossen
+- TOP 4.8: StadtBahn Süd - Ergänzungsbeschluss zur Trassenfestlegung und Entscheidung zur weiteren Planung - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Freigabe von Mitteln aus der Kulturförderabgabe 2023 – „Bauliche Maßnahmen für die Sanierung und Erhaltung von Denkmälern inklusive geerbte Denkmäler“ - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 4.10: Zuschussgewährung für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.11: Leitbild für kulturelle Teilhabe in Vielfalt - zurückgestellt
+- TOP 4.12: Fortführung der institutionellen Förderung für FilmInitiatv Köln e.V./Afrika Film Fest Köln - ungeändert beschlossen
+- TOP 4.13: Freigabe von Finanzmitteln der Kulturförderung für 2024, Sparte Musik, Strukturförderung freie Musik - ungeändert beschlossen
+- TOP 4.14: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - ungeändert beschlossen
+- TOP 4.15: Haushaltsneutrale Umschichtung von Transferaufwendungen 2023 - ungeändert beschlossen
+- TOP 4.16: Freigabe Mittel Open Air 2024, inkl. Sachstand - Entwicklung eines Konzeptes bzgl. „Open Air Kultur in Köln“ - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU und Volt - ungeändert beschlossen
+- TOP 4.17: Strukturförderfonds 2023/2024 - Förderprogramm für Zuwendungen aus dem Strukturförderfonds des Kulturamtes zur Abmilderung der steigenden Personal- und Energiekosten in Folge des Ukraine-Krieges im Jahr 2024 - ungeändert beschlossen
+- TOP 4.18: Mehrsprachiges Vermittlungsangebot des Museumsdienstes (Umsetzung Kulturentwicklungsplanung) - ungeändert beschlossen
+- TOP 4.19: Mittelerhöhung bei Landesförderprogrammen NRW "Kulturrucksack" und "Kulturstrolche" - ungeändert beschlossen
+- TOP 4.20: Finanzierung Dialogprozess "Mahnmal zum Gedenken an die Opfer von Unterdrückung, Rassismus, Gewalt und Menschenrechtsverletzungen" - ungeändert beschlossen
+- TOP 4.21: Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2023 - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme der Schenkung bedeutender moderner Glaskunst - Studioglas-Sammlung Markus Eisenbeis - ungeändert beschlossen
+- TOP 6.2: Annahme der Schenkung der Sammlung von 61 europäischen Mörsern des 15. bis 19. Jahrhunderts von Dieter und Christel Schürzeberg an das Museum für Angewandte Kunst - ungeändert beschlossen
+- TOP 6.3: Schenkung von Kasper König an das Museum Ludwig - Kenntnis genommen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 8.2: KulturInvest - Kenntnis genommen
+- TOP 8.3: Verlängerung des Beirats Bildende Kunst bis 31.12.2024 - Kenntnis genommen
+- TOP 8.4: Erste Ergebnisse zum Publikumsmonitoring des Museumsdienstes in Kooperation mit KulMon® - Kenntnis genommen
+- TOP 8.5: Reinigung und Pflege der Skulptur "Trauernde Eltern" von Käthe Kollwitz - Kenntnis genommen
+- TOP 8.6: Mündlicher Sachstandsbericht Kulturraummanagement - Kenntnis genommen
+- TOP 8.7: Atelierhaus V6 (Boltensternstraße 16, 50735 Köln) auf dem Gelände der SBK gGmbH - Kenntnis genommen
+- TOP 8.8: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk - Kenntnis genommen
+- TOP 8.9: Sachstandsbericht zum Projekt „Köln hoch 3“ - Kenntnis genommen
+- TOP 8.10: Zeughaus/Alte Wache: Möglichkeiten zur Zwischennutzung - Kenntnis genommen
+- TOP 8.11: Aufwertung des Neumarkts – Aktueller Stand - Kenntnis genommen
+- TOP 8.12: Reihenfolge der Vorstellung Szeneberichte 2024 - Kenntnis genommen
+- TOP 8.13: Ergebnisprotokoll der Sitzung des Kunstbeirates der Stadt Köln vom 10.11.2023 - Kenntnis genommen
+- TOP 8.14: Museumsnacht 2023 - Kenntnis genommen
+- TOP 8.15: Eröffnung des Kölnischen Stadtmuseums März 2024 - Kenntnis genommen
+- TOP 8.16: Bahnhof Belvedere / Fällgenehmigung für die Platane 1 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Zentralbibliothek Köln, Stand 06. November 2023 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 20. November 2023 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage zur Vorlage 4069/2022 "Strategische Sozialplanung - Herausforderungen und Ziele" - Kenntnis genommen
+- TOP 10.2: 2. Ergänzung zur Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 04.09.2023 (2720/2023) - Kenntnis genommen
+- TOP 10.3: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU & Volt aus der Sitzung des Ausschusses Kunst und Kultur (AN 0457/2023) betreffend Energiefonds Kultur - Kenntnis genommen
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Beantwortung einer mündlichen Nachfrage der FDP-Fraktion, aus der Sitzung des Ausschusses Kunst und Kultur vom 26.09.2023: Bespielung des Tunnels „Am Domhof" - Kenntnis genommen
+- TOP 10.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der SPD-Fraktion: Weiterbildung in der Kulturverwaltung, insbesondere im Kulturamt und sonstigen Kultureinrichtungen - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: Kulturförderung der Europäischen Union und Sicherung des kommunalen Förderanteils - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Zugang zum Areal Hallen Kalk - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Sachstände „Kunst im öffentlichen Raum“ (KEP) - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Verfall Denkmalgeschützter Gebäude in Köln - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage - Kenntnis genommen
+- TOP 11.6: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Kulturamt als Servicestelle - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der Fraktion Die Linke: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 11.8: Kunststandort Köln strategisch weiterentwickeln! - zurückgestellt
+- TOP 11.9: Vergnügungssteuer für Tanzveranstaltungen - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage GUT Köln: Stellenbesetzung Museumsdienst
+- TOP 12.2: Mündliche Anfrage der CDU-Fraktion: Historischer Rathausteppich
