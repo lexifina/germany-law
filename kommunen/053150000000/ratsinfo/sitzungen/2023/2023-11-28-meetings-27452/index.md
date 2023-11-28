@@ -1,0 +1,73 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-28T14:10:00+01:00
+- Ende: 2023-11-28T16:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27452
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27452
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Vorstellung von SCHLAU Köln im Jugendhilfeausschuss
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Überarbeitete Förderprogramme Jugendförderung ab 2024 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Aktualisierung der "Geänderten Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Kindertageseinrichtungen in Köln" - ungeändert beschlossen
+- TOP 2.3.2: Fortsetzung des Live-Streams der Sitzungen des Jugendhilfeausschusses in 2024 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung Spielplatz Konrad-Adenauer-Straße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 3.2: Offene Ganztagsschule im Primarbereich: Finanzielle Unterstützung aus dem Strukturförderfonds - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 4.2: Mitgliederwechsel im Jugendhilfeausschuss, hier: Väter in Köln e.V. - ungeändert beschlossen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss, hier: Jugendamtselternbeirat und Katholische Jugendagentur - ungeändert beschlossen
+- TOP 4.4: Mitgliederwechsel im Jugendhilfeausschuss, hier AGOT Köln e.V. - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Lachgaskonsum unter Jugendlichen und Kindern auch in Köln auf Rekordhoch? - Kenntnis genommen
+- TOP -: Beantwortung von aktuellen Anfragen in den Ausschüssen Gesundheit und Jugendhilfe zum Konsum von Einname von SNUS Nikotin und Lachgas von Kindern, - Kenntnis genommen
+- TOP 6.1.2: Situation der wohnungslosen Kinder und Jugendlichen in Köln - zurückgestellt
+- TOP 6.1.3: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Anfrage zu Verfahrenslotsen von der Stadt AG Behindertenpolitik - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.2: Kommunaler Anteil an der Refinanzierung der Kindertagesstätten - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage aus dem Jugendhilfeausschuss vom 29.08.2023 (TOP 7.2.3) betreffend "Kinderarmut in Köln" - Kenntnis genommen
+- TOP 7.1.2: Mitteilung zu Nachhaltigkeitsmaßnahmen im Jugendbereich im Rahmen der UEFA EURO 2024 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Trägerwechsel Kindertageseinrichtung Am Portzenacker 1, 51069 Köln - Kenntnis genommen
+- TOP 8.2.2: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2022/23 - zurückgestellt
+- TOP 8.2.3: Landesmittel zur Sicherung der Trägerpluralität in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.4: plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - Halbjährliche Mitteilung - Kenntnis genommen
+- TOP 8.2.5: Weiterführung der Auslagerung Kita Osloer Straße in Chorweiler - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 8.4.2: Neustrukturierung des Arbeitskreises § 80 SGB VIII Jugendförderung - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Ende der Landesinitiative „Durchstarten in Ausbildung und Arbeit" (DiAA) - Kenntnis genommen
+- TOP 8.5.2: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 8.5.3: Bewerbung der Stadt Köln als Modellstadt für die Legalisierung von Cannabis - Kenntnis genommen
+- TOP 8.5.4: Antwort der Verwaltung vom 20.09.2023 zur Anfrage AN/1591/2023 betreffend "Erste-Hilfe-Kurse an Schulen" - Kenntnis genommen
+- TOP 8.5.5: Rechtsanspruch auf ganztägige Betreuung in der Primarstufe - Kenntnis genommen
+- TOP 8.5.6: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Ausschusses für Seniorinnen und Senioren vom 16.11.2023 (AN/1959/2023) betreffend "Cannabis Modellstadt" - Kenntnis genommen
+- TOP 8.5.7: Kölner Verhütungsmittelfonds - Kenntnis genommen
+- TOP 8.5.8: Beantwortung einer schriftlichen Anfrage der SPD Fraktion - Kenntnis genommen
