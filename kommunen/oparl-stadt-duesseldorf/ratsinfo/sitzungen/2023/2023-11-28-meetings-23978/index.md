@@ -1,0 +1,62 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-28T16:00:00+01:00
+- Ende: 2023-11-28T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23978
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23978
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504763.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504763.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504763.pdf
+
+## Tagesordnung
+
+- TOP 1: Gedenken an Verstorbene
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 17.10.2023 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 24.10.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau am Wim-Wenders-Gymnasium, Schmiedestr. 25, Erweiterung und Umbau am Max-Planck-Gymnasium, Koetschaustr. 36 und GGS Steinkaul 27" - einstimmig beschlossen
+- TOP 6.2: Ausweitung der Öffnungszeiten der Stadtteilbücherei Bilk - einstimmig beschlossen
+- TOP 6.3: Zuschuss an den Verein Freie Wasserfahrer Düsseldorf 1921 e.V. - einstimmig beschlossen
+- TOP 6.4: Zuschuss an den Sportverein Grün-Weiß-Rot 1930 Düsseldorf e.V. - einstimmig beschlossen
+- TOP 6.5: Zuschuss an den Verein Sportwerk Düsseldorf e.V. - einstimmig beschlossen
+- TOP 6.6: Aachener Straße - barrierefreier Ausbau der Stadtbahnhaltestelle „Suitbertusstraße“ - einstimmig beschlossen
+- TOP 6.7: Neugestaltung Kinderspielplatz Leo-Statz-Platz - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 7: Bau- und Planungsangelegenheiten
+- TOP 7.1: Flächennutzungsplanänderung Nr. 211, Bebauungsplan-Vorentwurf Nr. 03/040 - Südlich Auf'm Hennekamp - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Überbauung Münchener Straße - Informationsveranstaltung im Vorfeld des Bebauungsplanverfahrens - einstimmig beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Bezirklicher Bauunterhaltung - Haushaltsjahr 2023 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 8.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - abweichend beschlossen
+- TOP 8.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2023 - einstimmig beschlossen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Mögliche Mobilitätsstation Gogrevestr./Vlattenstr. (Anfrage BÜNDNINS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 9.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Fahrradturm Bilker Bahnhof (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.7: GGS Regenbogenschule (Anfrage SPD-Fraktion) - vertagt
+- TOP 9.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Aktuelle Anfragen
+- TOP 10: Anträge
+- TOP 10.1: Konzept Parksituation auf Parkplatz (Redinghovenstr./Ecke Bitweg) am Stoffeler Friedhof zu entflechten (Antrag BÜNDNIS 90/DIE GRÜNEN, SPD) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Prüfung Neugestaltung Schulhof der GGS Helmholtzstraße beschleunigen - zur Kenntnis genommen
+- TOP 11.2: Prüfung Instandsetzung Sportplatz zwischen Geschwister-Scholl-Gymnasium und Hulda-Pankok-Gesamtschule beschleunigen - zur Kenntnis genommen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
