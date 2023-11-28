@@ -1,6 +1,6 @@
 # Verordnung der Sächsischen Staatsregierung über Zuständigkeiten nach dem Gesetz über Ordnungswidrigkeiten (Ordnungswidrigkeiten-Zuständigkeitsverordnung – OWiZuVO)
 Vom 16. Juni 2014
-Rechtsbereinigt mit Stand vom 11. Juli 2023
+Rechtsbereinigt mit Stand vom 28. November 2023
 Es wird verordnet aufgrund von
 1. § 36 Abs. 2 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 18 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3796) geändert worden ist, in der jeweils geltenden Fassung,
 2. § 127 Abs. 1 der Gemeindeordnung für den Freistaat Sachsen (SächsGemO) in der Fassung der Bekanntmachung vom 3. März 2014 (SächsGVBl. S. 146), die durch Artikel 6 des Gesetzes vom 2. April 2014 (SächsGVBl. S. 234, 237) geändert worden ist,
