@@ -1,0 +1,69 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-28T17:00:00+01:00
+- Ende: 2023-11-28T20:20:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24087
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24087
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505070.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505070.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505070.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) „Hellerhof - Reisholz" - Gesamtstätische Stellungnahme - Empfehlung einstimmig beschlossen
+- TOP 4.5: Standortwechsel des Trinkwasserbrunnen in Garath vom Hauptzentrum zum Parkourplatz - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Trödelmärkte auf dem Schützenplatz Frankfurter Straße für das Jahr 2024 - einstimmig beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - Haushalt 2022 - Liste A) Schulen 21 211 01 52416000 - abweichend beschlossen
+- TOP 4.8: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2023 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - einstimmig beschlossen
+- TOP 4.9: Zuschuss an den Goju-Ryu Karate Verein Düsseldorf-Garath e.V. - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Garather Tafel - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des Garather Weihnachtsmarktes - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.12: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Heimatverein Garather Jonges 1969 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.13: Radwegeplanung Koblenzer Straße im Abschnitt zwischen Josef-Maria-Olbrich-Straße und Wilhelm-Kreis-Straße - Empfehlung einstimmig beschlossen
+- TOP 4.14: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die Grundschule Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Neugestaltung ehemaliges Nebenzentrum Waldviertel - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.2: Schulwegsicherung - Radweg zwischen Peter-Behrens-Straße und Josef-Maria-Olbrich-Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.3: Schulwegsicherung - Einführung von Tempo 30 auf der Koblenzer Straße Höhe der Kreuzung Koblenzer Straße / Rostocker bzw. Josef-Maria-Olbrich Straße bis mindestens Einmündung Theodor-Litt-Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.4: Informationsportal mit Lotsenfunktion - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Weinfest am 20.-22.10.2023 in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.4: Verschiebung des Rheintaktes 2023/24 - Anfrage der SPD-Fraktion und CDU-Fraktion - - vertagt
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Ampelschaltung Kreuzung Hellerhofweg/Carlo-Schmid-Str./Bertha von Suttner Str. in Düsseldorf Hellerhof - Anfrage der CDU-Fraktion - - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Information über Ergebnis Investorenauswahlverfahren „Carl-Friedrich-Goerdeler-Straße" - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.10: Information über das Ergebnis des Investorenauswahlverfahrens „Lüderitzstraße" - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Regelung zur Verbesserung der Verkehrssicherheit auf der Carlo-Schmid-Straße im Bereich Parkplatzeinfahrt - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Reinigung der Unterführung Koblenzer Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Aufstellen einer Bank im Garather Schlosspark - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Versorgung von Hellerhof mit Glasfaseranschlüssen durch die Telekom - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Klimaangepasste, attraktive Neugestaltung Nebenzentrum Waldviertel - Informationsvorlage zum Beschluss BV10/165/2021 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 8.2: Ausbau der Ladeinfrastruktur für Elektroautos im Stadtbezirk 10 - Infromationsvorlage zum Beschluss BV10/105/2023 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 8.3: Instandsetzungsmaßnahmen an den Fahrbahndecken, Versorgungsschächten und Zebrastreifen - Informationsvorlage zum Beschluss BV10/146/2023 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 8.4: Aufstellen von Bänken um das Caritas-Altenzentrum St. Hildegard in Garath - 2. Informationsvorlage zum Beschluss BV10/123/2023 vom 22.08.2023 - - zur Kenntnis genommen
+- TOP 8.5: Haltestelle D-Hellerhof - Informationsvorlage zum Beschluss BV10/046/2023 in Verbindung mit der Informationsvorlage BV10/133/2023 und zu den Beschlüssen BV10/156/2023 und BV10/157/2023 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 8.6: Schulwegsicherung - Einführung von Tempo 30 auf der Koblenzer Straße Höhe der Kreuzung Koblenzer Straße/ Rostocker Straße bzw. Josef-Maria-Olbrich Straße bis mind. Theodor-Litt-Str. - Informationsvorlage zum Beschluss BV10/026/2023 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 8.7: Fahrradabstellanlage am Einkaufszentrum Hellerhof - Informationsvorlage zum Beschluss BV10/151/2023 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 8.8: Errichtung eines Mobilitätsspielplatzes in Hellerhof - Informationsvorlage zum Beschluss BV10/152/2023 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
