@@ -1,0 +1,80 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-28T17:00:00+01:00
+- Ende: 2023-11-28T19:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23841
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23841
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505094.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505094.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00505094.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitgliedes der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 14.11.2023 eingegangene Fragen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift vom 26.09.2023 - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Zentrenmanagement Heyestraße-Süd - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Benderstraße – Planung zwischen Dreherstraße und Bergische Landstraße - Empfehlung einstimmig beschlossen
+- TOP 5.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Ruhebank im Bereich Benderstraße (Stich) – Ursula-Trabalski-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 6.3: Sachstand zur Buslinie Flughafen – Ratingen – Knittkuhl – Hubbelrath – Erkrath - Gerresheim - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Instandsetzung und barrierefreie Nutzung des Staufenplatzes in Grafenberg - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Ersatzpflanzungen an der Quadenhofstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - zurückgezogen
+- TOP 6.9: Sitzbank im Bereich Pilgerweg/Norbert-Schmidt-Str. - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - vertagt
+- TOP 7.2: Hallesche Straße - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.3: Situation der U73 - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 7.4: Stand der Herrichtung Haltestelle Neuenhaus (BV7/268/2021) - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Bergische Kaserne - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Zentrum Plus Ludenberg - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8.5: Verkehrskonzept Cirque du Soleil - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Errichtung von Photovoltaikanlagen auf den “renaturierten” Bereichen der Zentraldeponie Hubbelrath - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.2: Mobilitätsstationen im Bezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.3: Trinkwasserbrunnen in der Fußgängerzone am Neusser Tor - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.4: Trinkwasserbrunnen an der Gutenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 9.5: Gerresheim Süd stärken: Trinkwasserbrunnen für die Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2020 - - zur Kenntnis genommen
+- TOP 9.6: Elektronische Fahrgastinformationstafel an der Haltestelle: Am Lehn - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.7: Mobile Geschwindigkeitskontrolle Bergische Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.8: Tempo 30 Zone Wittelsbachstraße/Hardtstraße - Informationsvorlage zum Beschluss der BV 7 vom 14.09.2021 - - zur Kenntnis genommen
+- TOP 9.9: Barrierefreier Übergang auf Höhe Gutenbergstraße 9-15 - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.10: Fußgängerampel Heyestraße / Hatzfeldstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.09.2020 - - zur Kenntnis genommen
+- TOP 9.11: Kennzeichnung der Ladezonen auf der Benderstraße - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.12: Erweiterung der Tempo 30 Regelung auf der Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 9.13: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 9.14: Tempo 30 Dreherstraße zwischen Bertastraße und Dreherstraße Nr. 169 - Informationsvorlage zum Beschluss der BV 7 vom 22.11.2022 - - zur Kenntnis genommen
+- TOP 9.15: Zeitschiene Dernbuschweg - zur Kenntnis genommen
+- TOP 9.16: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30 km/h aus Lärmschutzgründen und zum Schutz vor sensiblen Einrichtungen - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 9.17: Warnampel Gleisüberquerung Am Wallgraben / Haltestelle „Gerresheim Rathaus“ - Informationsvorlage zum Beschluss der BV 7 vom 28.03.2023 - - zur Kenntnis genommen
+- TOP 9.18: Neuplanung Provisorium Knotenpunkt Torfbruchstraße/Dreherstraße - Informationsvorlage zum Beschluss der BV7 vom 24.01.2023 - - zur Kenntnis genommen
+- TOP 9.19: Lärmschutz Tempo 30 nachts auf der Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 05.10.2021 - - zur Kenntnis genommen
+- TOP 9.20: Parkplatzmarkierung Apostelplatz - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 9.21: Klimaanpassungsmaßnahmen im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 20.06.2023 - - zur Kenntnis genommen
+- TOP 9.22: Öffnung des Schulhofs der Grundschule Knittkuhl am Nachmittag und am Wochenende - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 9.23: Aktueller Sachstand und Planungen zum Hochwasserschutz im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 9.24: Nachbesserung der Internetanschlüsse in den Klassenräumen der Gutenberg-Grundschule, Grafenberger Allee - Informationsvorlage zum Beschluss der BV 7 vom 25.05.2021 - - zur Kenntnis genommen
+- TOP 9.25: Schützenplatz Gerresheim – Nachhaltige Stromentnahme für Veranstaltungen und Einrichtung von E-Ladesäulen - Informationsvorlage zum Beschluss der BV 7 vom 23.05.2023 - - zur Kenntnis genommen
