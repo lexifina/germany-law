@@ -1,0 +1,102 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-11-28T17:00:00+01:00
+- Ende: 2023-11-28T19:30:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6687
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6687
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=469016
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Verlegung Bushaltestelle 125er / Zeltinger Platz - im Ausschuss abgelehnt
+- TOP 3.2: Asphaltierte Fußübergänge in Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.3: S-Bahnbahnhofdächer für Photovoltaikanlagen und Bienenlandschaften nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.4: Verkehrsberuhigter Geschäftsbereich Heinsestraße - vertagt
+- TOP 3.5: Verkehrszählgeräte - im Ausschuss abgelehnt
+- TOP 3.6: Durchquerungsmöglichkeiten für Flughafengebiet - im Ausschuss abgelehnt
+- TOP 3.7: Rückkehr des Schrägparkens in Alt-Wittenau - vertagt
+- TOP 3.8: Radwanderrouten wieder einführen - im Ausschuss abgelehnt
+- TOP 3.9: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule - mit Änderungen im Ausschuss beschlossen
+- TOP 3.10: Fußgängerfreundliche Ampelschaltung - Wilhelmsruher Damm/U8-Aufzug - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.11: Heidekrautbahn über den Mauerweg führen - im Ausschuss abgelehnt
+- TOP 3.12: Mehr Aufenthaltsqualität für den Borsigplatz in Heiligensee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.13: Verkehrssicherheit in der Waldstraße - erledigt
+- TOP 3.14: Mehr Verkehrssicherheit für die Kinder und Eltern der Kita NEMO sowie für Anwohnerinnen und Anwohner - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Notwasserbrunnen für die Cité Foch - mit Änderungen im Ausschuss beschlossen
+- TOP 3.16: Verkehrsinfarkt verhindern - Roedernallee als leistungsfähige Bundesstraße erhalten - vertagt
+- TOP 3.17: Fahrradbügel für mehr Verkehrssicherheit in Alt-Wittenau - im Ausschuss abgelehnt
+- TOP 3.18: Sicheres Radfahren auf der Bernauer Straße in Tegel - im Ausschuss abgelehnt
+- TOP 3.19: Option für weitere 200 Doppeldecker von Alexander Dennis London nutzen - vertagt
+- TOP 3.20: Zweitzugang am S-Bahnhof Frohnau - vertagt
+- TOP 3.21: Nächtliches Tempolimit in der Heiligenseestraße komplettieren - vertagt
+- TOP 3.22: Parkplatz an der Sportanlage Königshorster Straße 15 - vertagt
+- TOP 3.23: Fußweg in der Glienicker Straße herstellen - vertagt
+- TOP 3.24: Baumaßnahme Schmitzweg - vertagt
+- TOP 3.25: Poller für Versickerungsbecken vervollständigen - vertagt
+- TOP 3.26: Ausweitung der Betriebsstunden in der Servicestelle Berliner Straße in Tegel - vertagt
+- TOP 3.27: Fahrradstraße in der Schulzendorfer Straße - vertagt
+- TOP 3.28: Endlich durchstarten, Verlängerung der U8 und Anbindung des Tegel Nachfolgequartiers an die U-Bahn - vertagt
+- TOP 3.29: Parkplätze im Märkischen Viertel - vertagt
+- TOP 3.30: Die bestehenden Fahrradwege in Alt-Heiligensee sanieren - vertagt
+- TOP 3.31: Parkplätze in der Veitstraße erhalten - vertagt
+- TOP 3.32: Halteverbot Regenwalder Weg/Stolpmünder Weg - vertagt
+- TOP 3.33: Ortseingangsschilder für Hermsdorf - vertagt
+- TOP 3.34: Barrierefreiheit am Falkenplatz in Konradshöhe - vertagt
+- TOP 3.35: Durchgang zu den Sportstätten am U-Bahnhof Scharnweberstraße gewährleisten - vertagt
+- TOP 3.36: Absolutes Halteverbot zum Wohle des ÖPNV an der Einmündung in den Ludolfinger Platz - vertagt
+- TOP 3.37: Beschilderung S-Bhf. Hermsdorf - vertagt
+- TOP 3.38: Barrierefreiheit am S-Bhf. Hermsdorf (I) - vertagt
+- TOP 3.39: Barrierefreiheit am S-Bhf. Hermsdorf (II) - vertagt
+- TOP 3.40: Fahrbahninstandsetzung der Gabrielenstraße - vertagt
+- TOP 3.41: Natürliche Ufergestaltung in Tegelort - vertagt
+- TOP 3.42: Parkraummanagement für Reinickendorf-Ost - vertagt
+- TOP 3.43: Erhöhung der Verkehrssicherheit beim Queren der Grußdorfstraße - vertagt
+- TOP 3.44: Fußgängerüberweg Bernauer Str. - vertagt
+- TOP 3.45: Sichere Schulwege in Heiligensee - vertagt
+- TOP 3.46: Mehr Sicherheit für Fahrradabstellanlagen durch Videoüberwachung und ausreichende Beleuchtung - vertagt
+- TOP 3.47: Barrierefreiheit im Märkischen Viertel - vertagt
+- TOP 3.48: Barrierefreiheit in Konradshöhe - vertagt
+- TOP 3.49: Mehr Sicherheit auf der Kreuzung Am Nordgraben/Schorfheidestraße - vertagt
+- TOP 3.50: Einbahnstraße für erhöhte Verkehrssicherheit in der Illerzeile - vertagt
+- TOP 3.51: Grünpfeil für Radfahrende an der Kreuzung Karolinenstr. / Waidmannsluster Damm - vertagt
+- TOP 3.52: Bessere Erreichbarkeit des Tegeler Sees aus dem Märkischen Viertel - vertagt
+- TOP 3.53: Verkehrssicherheit in Heiligensee - vertagt
+- TOP 3.54: Erhalt von Dauerkleingartenanlagen - vertagt
+- TOP 3.55: Straßensperrungen vermeiden - vertagt
+- TOP 3.56: Neubau der Ollenhauerstraße mit regelkonformen Fuß- und Radwegen zügig vorantreiben - vertagt
+- TOP 3.57: Errichtung eines Schutzgitters an der Schulzendorfer Straße - vertagt
+- TOP 3.58: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm an der Martin-Luther-Straße - vertagt
+- TOP 3.59: Zuwegung für Rettungsfahrzeuge sicherstellen - vertagt
+- TOP 3.60: Halteverbot von Kfz über 3,5 Tonnen vor der Gemeinschaftsschule Campus Hannah-Höch (Grundstufe) - vertagt
+- TOP 3.61: BVG-Haltestelle "Marthastraße" aufwerten II - vertagt
+- TOP 3.62: BVG-Haltestelle "Marthastraße" aufwerten I - vertagt
+- TOP 3.63: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - vertagt
+- TOP 3.64: Elektrokleinbusse in den Randortsteilen nutzen - vertagt
+- TOP 3.65: Zebrastreifen für Waldseespielplatz einrichten - vertagt
+- TOP 3.66: Mehr Parkmöglichkeiten für Dienstleister im Schumacher Quartier - vertagt
+- TOP 3.67: Mobilität in Reinickendorf sichern, Verkehrsbelastung verringern - vertagt
+- TOP 3.68: Anbindung des Schumacher Quartiers an den ÖPNV - vertagt
+- TOP 3.69: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen II - vertagt
+- TOP 3.70: Erhöhung der Verkehrssicherheit für Radfahrende in Kreuzungsbereichen - vertagt
+- TOP 3.71: Parkraumbewirtschaftung in Frohnau und Hermsdorf - vertagt
+- TOP 3.72: Straßenüberflutungen beim Platenhofer Weg entgegenwirken! - vertagt
+- TOP 3.73: A111-Sanierung: Keine Umleitungen durch Heiligensee! - vertagt
+- TOP 3.74: Standorte für Fahrradparkhäuser vorschlagen - vertagt
+- TOP 3.75: Buslinie 322 - Fahrzeiten anpassen - vertagt
+- TOP 3.76: Zusätzliche Fahrradständer an der Bushaltestelle Heiligenseestraße in Höhe Konradshöher Straße - vertagt
+- TOP 3.77: Dialog Display Schulzendorfer Straße in Hermsdorf - vertagt
+- TOP 3.78: Zaun zum S-Bahn Damm instand setzen - vertagt
+- TOP 3.79: Lärmschutz für Anwohner an Bahnstrecke Frohnau - vertagt
+- TOP 4: Besprechungspunkte - erledigt
+- TOP 4.1: Cite Guynemer: öffentliche Widmung von Strassen - erledigt
+- TOP 4.2: Cite Foch: Mobilitätskonzept - erledigt
+- TOP 5: Bericht aus dem Bezirksamt - vertagt
+- TOP 6: Verschiedenes - erledigt
