@@ -1,0 +1,82 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-28T16:00:00+01:00
+- Ende: 2023-11-28T21:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24199
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24199
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504623.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504623.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00504623.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/006/2023 vom 29.08-2023 und SI-BV2/007 vom 26.09.2023 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung der Ergebnisse von Check! und Recheck! für den Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/099/2023 - zur Kenntnis genommen
+- TOP 4.2: Vorstellung zum Ausbau des Fernwärmenetzes im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/160/2023 - zur Kenntnis genommen
+- TOP 4.3: Verzicht auf die Ausübung des Vorkaufsrechts gem. § 31 (1) 1 Denkmalschutzgesetz NRW für Rechte nach dem Wohnungseigentumsgesetz u. a. - Empfehlung mehrheitlich beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Städtisches Gymnasium Heinzelmännchenweg als vierzügiges Gymnasium mit Dreifeldhalle am Standort Grafental, Planstraße 03867, 40235 Düsseldorf" - Empfehlung einstimmig beschlossen
+- TOP 4.11: Bezirklicher Bauunterhalt- Haushaltsjahr 2023 Stadtbezirk 2 - Liste A Schulen - einstimmig beschlossen
+- TOP 4.12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - abweichend beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - mehrheitlich beschlossen
+- TOP 4.14: Vergabe Restmittel
+- TOP 4.15: Neugestaltung Kinderspielplatz Neanderstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Terrassenüberdachtung für das Suchthilfezentrum auf der Flurstraße aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 5.2: Terrassenüberdachung Suchthilfezentrum - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 5.3: Restmittel aus bezirksbezogenen Bauunterhaltungsmitteln 2023 für Dritte (Liste C) - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Fahrradständer an der Haltestelle Heinrichstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.7: Zuwendungsantrag Weihnachtsmarkt „QuARTier 8 e.V.“ - Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.8: Bezirksbezogene Haushaltsmittel für einen kleinen Weihnachtsmarkt auf der Schwelmer Straße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.9: Unterstützung des Weihnachtsmarkts im Quartier 8 am 21.12.2023 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.10: Zuwendungsantrag der Initiative FLGRN NRD für einen Spieleabend - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.11: Förderung der Initiative FLNGRN NRD zur Veranstaltung von Spieleabenden im Quartier 8 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Einführung Anwohnerparken östlich der Dorotheenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 5.14: Tempo 30 Gerresheimer Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.15: Geschwindigkeitsanzeigetafel Achenbachstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.16: Verbesserung der Straßenbeleuchtung auf der Lindenstraße - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 5.17: Ergebnis Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anwohnerparkgebiete in Flingern-Süd - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.5: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.6: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Sicherung des ehemaligen Telekom-Gebäudes an der Sohnstraße - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.4: Evaluation Höherweg - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Übergänge Lindenstraße über Degerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/196/2022 - zur Kenntnis genommen
+- TOP 8.2: Radleitroute Ost-West und Umbau Kreuzung Lindemannstraße zusammen planen und umsetzen - Beschluss der Bezirksvertretung 2, Vorlage BV2/037/2023 - zur Kenntnis genommen
+- TOP 8.3: Bahnhaltestelle Schillerplatz der Linien U71, 706, 708 und 725 auf der Herderstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/110/2022 - zur Kenntnis genommen
+- TOP 8.4: Piktogramm für den Radweg vor dem Uhrenturm Grafenberger Allee – Beschluss der Bezirksvertretung 2, Vorlage BV2/225/2022 - zur Kenntnis genommen
+- TOP 8.5: Herstellung der bislang fehlenden Fußgängerquerung mittels Zebrastreifen _ Beschluss der Bezirksvertretung 2, Vorlage BV2/203/2022 - zur Kenntnis genommen
+- TOP 8.6: Haltestelle der 706 an der Lindemannstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/055/2023 - zur Kenntnis genommen
+- TOP 8.7: Barrierefreie Haltestellen im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/183/2023 - zur Kenntnis genommen
+- TOP 8.8: Übergang für Zufußgehende über die Erkrather Straße Kreuzungsbereich Moskauer Straße / Langer Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/222/2023 - zur Kenntnis genommen
+- TOP 8.9: Tempo 30 auf der Rethelstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/046/2022 - zur Kenntnis genommen
+- TOP 8.10: Schaltung der beiden Ampeln an der Lindemannstraße auf der Ecke Lindemannstraße/Paulusplatz bzw. auf der Höhe der Pauluskirche - Beschluss der Bezirksvertretung 2, Vorlage BV2/074/2022 - zur Kenntnis genommen
+- TOP 8.11: Unterflurcontainer auf der Graf-Recke-Straße und Unterflurcontainer auf der Achenbachstraße auf Höhe der neuen Pumpstation für Fernwärme - Beschlüsse der Bezirksvertretung 2, Vorlagen BV2/157/2023 u. BV2/159/2023 - zur Kenntnis genommen
+- TOP 8.12: Fontäne für den Weiher im Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/194/2023 - zur Kenntnis genommen
