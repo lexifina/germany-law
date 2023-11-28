@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-11-28T17:00:00+01:00
+- Ende: 2023-11-28T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24426
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24426
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - mündlicher Bericht der Polizei - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Neuwahl einer Schiedsperson - Empfehlung abweichend beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2024 - Empfehlung einstimmig beschlossen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau am Wim-Wenders-Gymnasium, Schmiedestr. 25, Erweiterung und Umbau am Max-Planck-Gymnasium, Koetschaustr. 36 und GGS Steinkaul 27" - Empfehlung einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2023 - Liste A) Schulen 21 211 01 / 52415500 - abweichend beschlossen
+- TOP 10: Haushaltsmittel 2023 - Zuschüsse und Zuwendungen (Liste D) - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 11: Verkehrssicherheit auf der Rahmer Straße - vertagt
+- TOP 12: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 13: Fahrradgaragen an der Haltestelle der U79 in Wittlaer und Kaiserswerth - vertagt
+- TOP 14: Elektrifizierung der Anlegestelle für Schiffe in Kaiserswerth - vertagt
+- TOP 15: Ausblick auf weitere Ladesäulen im Stadtbezirk 5 - vertagt
+- TOP 16: Stand des Rückbaus der alten B8 - beantwortet
+- TOP 17: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - vertagt
+- TOP 18: E-Ladesäulen am Kaiserswerther Markt - Weshalb informiert die Verwaltung nicht? - vertagt
+- TOP 19: ParkingDay in Kaiserswerth – Aktionstag für die „Re-Urbanisierung“ oder parteipolitische Veranstaltung? - beantwortet
+- TOP 20: Neue Beschilderung "Überholverbot einspuriger Fahrzeuge, Verkehrszeichen 227.1" auf der Angermunder Straße, Brückenbauwerk ab Querungshilfe bis Ende der Brücke (beide Fahrtrichtungen)? - vertagt
+- TOP -: Neue Anfragen
+- TOP 21: Deichsanierung Lohausen - Vorstellung neuer Pläne in der BV5 und Öffentlichkeit - beantwortet
+- TOP 22: Eventfläche auf dem Messeparkplatz - Werden Bedenken der Bürger*innen beachtet? - beantwortet
+- TOP 23: „Laternenladen“ für E-Autos - beantwortet
+- TOP 24: Nicht zum Stadtbild passende LED Leuchten in Kaiserswerth An Sankt Swidbert in Höhe des Erzbischöflichen Suitbertus Gymnasium und auf dem Marienplatz - vertagt
+- TOP 25: Unkraut auf allen Bürgersteigen des Kaiserswerther Marktes, auf der Mittelinsel des Kaiserswerther Marktes und auf den Bahngleisen - vertagt
+- TOP 26: Warum fährt die Rheinbahn so oft nur noch mit einem Waggon? - vertagt
+- TOP 27: Pflicht zur Befreiung zu Gunsten des Wohnungsneubaus an der Kreuzbergstraße 93? - vertagt
+- TOP 28: Wann kommt der Denkmalschutz auf ehemaligen Garten- und Landwirtschaftsflächen gegenüber dem Schloss Kalkum? - vertagt
+- TOP 29: Breitbandausbau im Düsseldorfer Norden - beantwortet
+- TOP -: Anträge
+- TOP 30: Erläuterungen zum Sachstand der Supermarktplanung (Vollsortimenter) in Kaiserswerth durch den Investor - abweichend beschlossen
+- TOP 31: Reinigung des Straßenablaufs auf dem Rad- und Fußweg vor der Unterführung Niederrheinstraße zum Dreiecksparkplatz - zurückgezogen
+- TOP 32: Einrichtung eines absoluten Halteverbotes im Wendehammer der Lohausener Dorfstraße - einstimmig beschlossen
+- TOP 33: Aufstellung eines Bücherschranks in Lohausen - einstimmig beschlossen
+- TOP 34: Rücknahme der streckenbezogenen Tempo-30-Begrenzung auf der südlichen Niederrheinstraße - mehrheitlich beschlossen
+- TOP 35: Sicherheit und Sauberkeit am Dreiecksparkplatz - Angsträume der Unterführung vermeiden! - einstimmig beschlossen
+- TOP 36: Tischtennisplatte und Sitzgruppe am Spielplatz Heymstraße - einstimmig beschlossen
+- TOP -: Informationsvorlage
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
