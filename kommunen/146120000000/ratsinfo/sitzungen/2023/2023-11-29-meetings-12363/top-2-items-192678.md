@@ -1,0 +1,8 @@
+# TOP 2: Bebauungsplan Nr. 3061 B, Dresden-Friedrichstadt Nr. 15, Waltherstraße/Friedrichstraße Teil Süd (Erweiterung Städtisches Klinikum)
+
+- Sitzung: 64. Sitzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften (2023-11-29)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/192678
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/58439
