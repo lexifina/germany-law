@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-11-29T19:00:00+01:00
+- Ende: 2023-11-29T20:24:00+01:00
+- Ort: Stadtsparkasse Wuppertal - Zentrale, Sitzungsraum im 19. OG, Islandufer 15, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21215
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21215
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00322677.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00322940.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bürgerantrag gemäß § 24 GO NRW - Bauliche Trennung der Radwege am Beispiel Isländer Brücke - ungeändert beschlossen
+- TOP 4: Parkplatzsituation Schusterstraße - geändert beschlossen
+- TOP 5: Städtebauliche Neugestaltung und Aufwertung „Aue“ gemäß den Vorgaben der Novellierung der Förderrichtlinien zur Städtebauförderung 2024 - ungeändert beschlossen
+- TOP 6: Überleitung und Anpassung der bestehenden Integrierten Städtebaulichen Entwicklungskonzepte (ISEKs) hinsichtlich der neuen Städtebauförderrichtlinie NRW 2023 - ungeändert beschlossen
+- TOP 7: Bebauungsplan1293 Hofkamp / Georg-Abeler-Treppe -Aufstellungsbeschluss- Bebauungsplan 50 - Am Wunderbau -Aufstellungsbeschluss zur Teilaufhebung - ungeändert beschlossen
+- TOP 8: Einbahnstraßenfreigabe der unechten Einbahnstraße Schreinersweg für den Radverkehr - ungeändert beschlossen
+- TOP 9: Obsoleszensverfahren Jägerhofstraße 301 (Bebauungsplan 144A - Jägerhofstraße/Theishahner Straße - ungeändert beschlossen
+- TOP 10: Gewährung eines Zuschusses an die Elberfelder Turngemeinde 1847 Wuppertal e. V. zur Erneuerung des Hockeyspielfeldes (Kunstrasen) auf der städtischen Anlage, Dorner Weg - ungeändert beschlossen
+- TOP 11: Verwendung des Bürger*innenbudgets 2023 - ungeändert beschlossen
+- TOP 12: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 13: Pflanzung von Bäumen - Antrag der CDU Fraktion vom 09.08.2023 VO/0795/23 - Entgegennahme ohne Beschluss
+- TOP 14: Anträge
+- TOP 14.1: Einrichtung eines Fußgängerüberwegs an der Kreuzung von Reitbahnstraße und Hochstraße - Antrag der Fraktion Die Linke - geändert beschlossen
+- TOP 14.2: Ergänzungen zum E-Scooter/E-Bike Verleihsystem - Antrag der SPD Fraktion - abgelehnt
+- TOP 15: Anfragen
+- TOP 15.1: GFG Mittel - Große Anfrage von SPD, Bündnis90/ Die Grünen und Die Linke
+- TOP 15.1.1: Antwort auf die Große Anfrage der Fraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und DIE LINKE "GfG Mittel" vom (VO/1106/23) - Entgegennahme ohne Beschluss
+- TOP 15.2: Genehmigungsvoraussetzung Außengastronomie Elberfeld - Große Anfrage der SPD Fraktion
+- TOP 15.2.1: Genehmigungsvoraussetzung Außengastronomie Elberfeld - Große Anfrage der SPD Fraktion - Entgegennahme ohne Beschluss
+- TOP 15.3: Situation der Heizungsanlage an der Else Lasker-Schüler Gesamtschule - Große Anfrage der Fraktion Die Linke
+- TOP 16: Freie Mittel
+- TOP 16.1: Antrag des Eisenbahner-Sportverein Wuppertal West 1926 e.V.
+- TOP 16.2: Antrag des Konzertchor Wuppertal e.V.
+- TOP 16.3: Antrag des Fahrradstadt Wuppertal e.V.
+- TOP 16.4: Antrag des Anadolu Wuppertal e.V.
+- TOP 16.5: Antrag der Alten Feuerwache gGmbH
+- TOP 16.6: Antrag der Nachbarschaftsheim Wuppertal e.V.
+- TOP 16.7: Antrag der Angelo-Roncalli-Schule
+- TOP 17: GFG Mittel
+- TOP 17.1: Mobiles Grün für die Innenstadt Elberfeld - Antrag der Fraktion Bündnis 90/ Die Grünen
+- TOP 17.1.1: Mobiles Grün für die Innenstadt Elberfeld - Ersetzungsantrag der Fraktionen SPD und Bündnis 90/ Die Grünen zu VO/1129/23 - ungeändert beschlossen
+- TOP 17.2: Antrag des Förderverein Elberfelder Nordstadt e.V.
+- TOP 17.3: Antrag des Neue Arbeit Neue Kultur e.V.
+- TOP 17.4: Antrag des Ressorts Grünflächen und Forsten zur Unterstützung der Sanierung des Kinderspielplatzes Frankenplatz
