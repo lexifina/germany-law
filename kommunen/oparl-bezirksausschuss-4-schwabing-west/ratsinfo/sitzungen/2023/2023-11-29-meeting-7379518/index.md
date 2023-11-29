@@ -1,0 +1,133 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-11-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7379518
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7379518
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2023 - 2027
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Schul- und Kitabauoffensive – 5. Schulbauprogramm (Anhörung zur Beschlussvorlage für 06.12.2023)
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Infanteriestraße Selbstbehauptungs- und Resilienztraining vom 08.01. - 12.01.2024 637,50 Euro, Az.: 0262.0-4-0480
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innen: Ausübung des Vorkaufsrechts für Bauerstr. 10
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Agnesstr. 61: Dachgeschossausbau mit Erneuerung Balkonanlage
+- TOP 2.2.: Georgenstr. 110: Dachgeschossausbau mit Dachterrassen zum Innenhof
+- TOP 2.3.: Tektur Clemensstr. 124: Teilweise Abbruch und Neuerrichtung bestehender Dächer, Errichtung von 18 Wohneinheiten im Dachgeschoss inkl. Dachgauben und Dacheinschnitten, hofseitig Neubau von Nebengebäuden für Müll und Kfz-Stellplätze sowie Ergänzung von Balkonen (Clemensstr. 124 -132 / Schleißheimer Str. 145 - 155 / Winzererstr. 120 -132) hier: Zusätzliche Baumfällung beantragt
+- TOP 2.4.: Vorbescheid Adelheidstr. 16: Abbruch einer Garagenanlage und Neubau eines Wohngebäudes mit Tiefgarage im Innenhof (Adelheidstr. 16 - 20 / Agnesstr. 19 - 21)
+- TOP 2.5.: Vorbescheid Hörwarthstr. 21: Abbruch einer Garagenanlage und Neubau eines Wohngebäudes mit Tiefgarage im Innenhof - (Hörwarthstr. 21 - 25 / Simmernstr. 7 - 15)
+- TOP 2.6.: Vorbescheid Hörwarthstr. 31: Abbruch der Dachstühle und Neuerrichtung in geänderter Form als Wohngeschosse
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Mietspiegel 2023: Bewertung der Wohnlage Hohenzollernstr. 150 (Antwort Amt für Wohnen und Migration auf weitergeleitete Anfrage einer Bürgerin, TOP C 1.1 10/23)
+- TOP 3.1.2.: Abgeschlossenheitsbescheinigung Herzogstr. 86 (Antwort der LBK auf BA-Nachfrage, TOP HC 3.3.2 04/23)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Bebauungsplan Nr. 2172: Clemensstraße (südlich), Fallmerayerstraße (westlich), Herzogstraße (nördlich), Erich-Kästner-Straße (östlich) – Satzungsbeschluss (Sitzungsvorlage Nr. 20.26 / V 09250)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Protokoll der Sitzung des Mieterbeirats der LH München vom 23.10.2023 mit Präsentation zum Thema „Geothermie in München“
+- TOP 3.3.2.: Baugenehmigung Fürstenbergstr. 7
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Fahrradabstellanlage vor Hohenzollernstr. 78
+- TOP 1.2.: Bürger: Düsseldorfer Str. 9-13: Umwandlung der Quer- in Längsparkplätze und Begrünung
+- TOP 1.3.: Bürgerin: Elisabethplatz: Sperre der Arcisstraße zwischen Elisabeth- und Agnesstraße beibehalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) + (U) Grünphasen an der Fußgänger*innenampel Schleißheimer Straße / Hildeboldstraße
+- TOP 2.2.: Bestellung städtischer Leistungen: Dialog-Displays Clemensstraße bzw. Schleißheimer Straße
+- TOP 2.3.: (E) + (U) Radweg Ackermannstraße in beide Fahrtrichtungen freigeben
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Barrierefreien Zugang zum U-Bahnhof Hohenzollernplatz verbessern und barrierefreien Ticketerwerb gewährleisten
+- TOP 3.1.2.: Evaluationsbericht Fahrradstraßen (Antwort des Mobilitätsreferats auf BA-Anfrage, TOP D 1.4 10/23)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Elisabethstr. 30 (Seite Tengstraße)
+- TOP 3.2.2.: Aufhebung einer Busanfahrtszone in der Elisabethstr. 87
+- TOP 3.2.3.: Hörwarthstraße: Absolutes Halteverbot an der Einmündung Mainzer Straße
+- TOP 3.2.4.: Zittelstr. 6-8: Neuer Inhaber des personenbezogenen Behindertenparkplatzes
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Stromprojekt Lissi-Kaeser-Straße (Infoflyer der Stadtwerke München)
+- TOP 3.3.2.: Erdgasprojekt Lothstraße (Infoflyer der Stadtwerke München)
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Beleuchtung im Petuelpark
+- TOP 1.2.: Antrag CSU: Umgestaltung der Karl-Theodor- und der Rheinstraße
+- TOP 1.3.: Antrag CSU: Petuelpark: Bürgerfest zum 20-jährigen Jubiläum
+- TOP 1.4.: Antrag CSU: Petuelpark: Bewerbung zur Teilnahme am Projekt „500.000 Bäume für München“
+- TOP 1.5.: Antrag CSU: Petuelpark: Baumbestand prüfen. Blaue Infrastruktur stärken
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Kaiserstr. 50: Antrag auf Fällung eines Holunderbaums
+- TOP 2.1.2.: Konradstr. 9: Antrag auf Fällung eines Ahornbaums
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: (E) Umgestaltung Rheinstraße: Möglichst viele Bäume pflanzen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Höhere Leerungsfrequenz überfüllter Wertstoffcontainer (Antwort des Abfallwirtschaftsbetriebs München auf BA-Schreiben, TOP A 3 10/23)
+- TOP 3.1.2.: Eibengruppe auf Baugelände an der Heßstraße (Antwort der LBK auf weitergeleitete Anfrage einer Bürgerin, TOP E 1.1 10/23)
+- TOP 3.1.3.: Bewässerung von Stadtbäumen durch Wassersäcke (Antwort des Baureferats Gartenbau auf weitergeleitetes Bürger*innenanliegen, TOP E 1.2 07/23)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Elisabethplatz 3: Genehmigungsbescheid 2024 für ein Hochbeet
+- TOP 3.4.2.: Baustellenbedingte Ausnahmegenehmigung für Mülleinsammlung ab 5.30 Uhr in den Wohngebieten entlang der Belgrad- und Nordendstraße bis 31.12.2023
+- TOP 3.4.3.: Ausnahmezulassung für Gleisbauarbeiten an Sonn- und Feiertagen im Straßenraum Belgrad-/Parzivalstraße vom 29.10. bis 17.12.2023 (Gleiserneuerung Scheidplatz Süd)
+- TOP 3.4.4.: Ausnahmezulassung für Gleisbauarbeiten am Sonntag 05.11.2023 im Straßenraum Kurfürstenplatz
+- TOP 3.4.5.: Baustellenbedingte Ausnahmegenehmigung für Mülleinsammlung ab 5.30 Uhr im Bereich Barbara-, Elisabeth- Winzerer- und Heßstraße: Verlängerung bis Ende 2024
+- TOP 3.4.6.: Allgemeinverfügung: Verbot für Silvesterknaller/Böller innerhalb des Mittleren Rings
+- TOP 3.4.7.: Baustellenbedingte Ausnahmegenehmigung für Mülleinsammlung ab 5.30 Uhr in den Wohngebieten entlang der Belgradstraße zwischen Kurfürstenplatz und Destouchesstraße bis 31.12.2023
+- TOP 3.4.8.: Ausnahmezulassung für Nacharbeiten zur Errichtung neuer Fahrleitungsmasten im Bereich Belgradstraße / Parzivalplatz / Scheidplatz vom 20.-22.11.2023 und vom 27.-30.11.2023
+- TOP 3.4.9.: Ausnahmezulassung für Nacharbeiten zur Draht- und Seilmontage für die Stromversorgung der Straßenbahn im Bereich Belgradstraße / Parzivalplatz / Scheidplatz für 14 Nächte im Zeitraum vom 27.11.-20.12.2023
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Wannda e.V. Kostenloses Kulturprogramm auf dem Märchenbazar 2023 vom 23.11. - 29.12.2023 8.000,00 Euro, Az.: 0262.0-4-0479
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: „Kultur2024“ vom 01.05. bis 12.09.2023 im Luitpoldpark
+- TOP 2.3.2.: Winterfeuer des Jugendzentrums LIFE am 08.12.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: TV-Produktion „Die Chefin“ am 28.11.2023, Bonner Platz 4
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Bistro am Nordbad“, Hohenzollernstr. 152
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Pizza Hut“, Lerchenauer Str. 42
+- TOP 3.4.3.: Schank- und Speisewirtschaft „Oda Grill“, Schleißheimer Str. 188
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Kundgebung „Freiheit für Palästina“ am 11.11.2023 – Auftakt am Hohenzollernplatz
+- TOP 3.5.2.: Kundgebungen „Die Kuh muss auf die Weide“ am 17.11.2023 vor den REWE-Märkten in der Schleißheimer Str. 124 und 137
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.6.1.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
+- TOP 1.6.: Bestellung städtischer Leistungen: Umgestaltung des Pündterplatzes
