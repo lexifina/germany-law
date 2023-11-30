@@ -1,0 +1,97 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-30T17:05:00+01:00
+- Ende: 2023-11-30T18:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26929
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/26929
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Grillhütte Poll - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Grillhütte Poll" - ungeändert beschlossen
+- TOP 6.2: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Porz an die Bezirksvertretung Porz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion CDU, SPD und Bündnis 90/Die Grünen "Zugang Ohmstraße" - ungeändert beschlossen
+- TOP 6.3: Parkraumbewirtschaftung am Eingang des Deutzer Friedhofs in der Straße Rolshover Kirchweg - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Beschlussvorlage für das Fahrradstraßenkonzept Porz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Fahrradstraßenkonzept Porz" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Fahrradstraßenkonzept" - geändert beschlossen
+- TOP 6.5: Beschluss der Richtlinie für das Haus-, Hof- und Fassadenprogramm im Rahmen des ISEKs Porz-Mitte - ungeändert beschlossen
+- TOP 6.6: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Porz - Mittelvergabe Session 2023/2024 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Förderung des Brauchtums" - ungeändert beschlossen
+- TOP 6.7: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept Porz (1. Zyklus) - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Ladeinfrastruktur im öffentlichen Straßenraum" - ungeändert beschlossen
+- TOP 6.8: Genehmigung einer Dringlichkeitsentscheidung - hier: Anhörung zur Bedarfsfeststellung für zwei Schulbaumaßnahmen zur kurzfristigen Schaffung von Schulplätzen an Grund- und Förderschulen - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: 290. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.2: Überleitung der Maßnahme "Zuhause im Veedel" in das Förderprogramm Gemeinwesenarbeit - ungeändert empfohlen
+- TOP 7.3: Fortschreibung der Schulentwicklungsplanung Köln 2023 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der SPD-Fraktion "Fortschreibung der Schulentwicklungsplanung Köln 2023" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/die Grünen "Fortschreibung der Schulentwicklungsplanung Köln 2023 Ausgestaltung und Standort der temporären Erweiterung Don-Bosco-Grundschule Standort der temporären Erweiterung Don-Bosco-Grundschule" - ungeändert beschlossen
+- TOP 7.4: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert empfohlen
+- TOP 7.5: 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Alternierendes Parken auf der Lülsdorfer Str." - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion "Verkehrssituation rund um den TÜV-Standort in Poll" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Alternierendes Parken auf der Sandbergstr Porz Langel" - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion "Ansiedlung eines zweiten Vollversorger-Supermarkts in Poll: Prüfung des Grundstücks gegenüber ehemaliger Laukat-Wagenhalle" - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung zum Antrag der SPD-Fraktion AN/2013/2023 betreffend "Ansiedlung eines zweiten Vollversorger-Supermarkts in Poll" - zurückgestellt
+- TOP 8.5: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Abbau der beiden Parkbänke auf dem an den Bahndamm angrenzenden Grünstreifen in Porz- Finkenberg" - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion "Umsetzung des Beschlusses zur Herstellung der Barrierefreiheit am Übergang über die André-Citroën-Straße"
+- TOP 8.7: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Ausbau der palliativen Versorgungsstruktur in Porz/im Rechtsrheinischen" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Dringende Notwendigkeit zur Nachbesserung der Schulwegsicherung an der Grundschule Poller Hauptstraße" - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Mobilität für und in Porz sicherstellen" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Mobilität für und in Porz sicherstellen AN/2024/2023" - ungeändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Ausreichende Finanzierung der Personalkosten der drei Porzer Jugendzentren Glashütte, Grengel und Bauspielplatz" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Finanzierung der Personalkosten der drei Porzer Jugendzentren Glashütte, Grengel und Bauspielplatz" - geändert beschlossen
+- TOP 8.11: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Poller Holzweg/Baumschulenweg, Bürgereingabe aus der Sitzung vom 31.08.2023" - zurückgestellt
+- TOP 8.12: Antrag der SPD-Fraktion "Verbesserung der Verkehrssicherheit auf der Sankt-Sebastianus-Straße in Porz-Wahn" - ungeändert beschlossen
+- TOP 8.13: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Einrichtung einer Verbraucherberatungsstelle im Quartier in Porz" - ungeändert beschlossen
+- TOP 8.14: Antrag der SPD-Fraktion "Mitteilung 3266/2023 zur Sitzung am 19.10.2023 Errichtung von vier Wohngebäuden (89 WE) mit Tiefgarage Kein Baustellenverkehr durch Poll!" - geändert beschlossen
+- TOP 8.15: Antrag der CDU-Fraktion "Fußgängerüberweg/Zebrastreifen Hauptstraße/Trankgasse in Zündorf" - ungeändert beschlossen
+- TOP 8.16: Antrag der SPD-Fraktion "Fußgängersignalisierung / Schulwegsicherung Siegburger Straße Poll (Vorlage 2094/2021) und Verkehrssicherheit auf der Agnes-Freitag-Straße, Poll" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion vom 04.04.2022 betreffs „Fortschreibung Toilettenkonzept?“ (0752/2022) - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Fortschreibung Toilettenkonzept" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen "Alternierendes Parken auf der Sandbergstr 27.01.2022 AN/0069/2022" - zurückgestellt
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen "Planungen für den evtl. Bau der Rheinspange" - zurückgestellt
+- TOP 9.2.3: Anfrage von Daniela Rechberger (FDP) "Online-Umfragen" - zurückgestellt
+- TOP 9.2.4: Anfrage von Daniela Rechberger (FDP) "Antisemitismus, Rassismus und Extremismus" - zurückgestellt
+- TOP 9.2.5: Anfrage von Daniela Rechberger (FDP) "Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten" - zurückgestellt
+- TOP 9.2.6: Anfrage der SPD-Fraktion "Mitteilung 3266/2023 zur Sitzung am 19.10.2023 - Errichtung von vier Wohngebäuden (89 WE) mit Tiefgarage" - zurückgestellt
+- TOP 9.2.7: Anfrage von Reinhard Krasson (AfD) "Flüchtlingsunterkunft Porz-Lind" - zurückgestellt
+- TOP 9.2.8: Anfrage der SPD-Fraktion "Mängel nach Sanierung / Neubau der Turnhallen Förderschule „Auf dem Sandberg“ und Janusz-Korzcak-Grundschule, Siegburger Straße" - zurückgestellt
+- TOP 9.2.9: Anfrage der CDU-Fraktion "Vermarktungsstand des GE-Gebietes Porz-Lind" - zurückgestellt
+- TOP 9.2.10: Anfrage der CDU-Fraktion "Ausbau der Freiflächen, Baufortschritt Hauptstraße GAG Baustelle Haus Nr. 340-352" - zurückgestellt
+- TOP 9.2.11: Anfrage der CDU-Fraktion "Lichtverschmutzung, Blendgefahr und Baufortschritt Hauptstraße GAG Baustelle Haus Nr. 352, Köln Porz" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 10.2.2: Anmietung von Räumen in Porz für den Sozialpsychiatrischen Dienst - Kenntnis genommen
+- TOP 10.2.3: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.4: Bewirtschaftung des städtischen Waldes 2023/24 - Bezirk 7 - Kenntnis genommen
+- TOP 10.2.5: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Porz 2021 bis Oktober 2023 - Kenntnis genommen
+- TOP 10.2.6: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 10.2.7: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 10.2.8: Sportentwicklungsplanung "Kölle Aktiv - Das Sportlabor" - neuer Standort des mobilen Pumptracks im Senkelsgraben Porz - Kenntnis genommen
+- TOP 10.2.9: Aufstellung einer Mobiltoilette an den Poller Wiesen (Bushaltestelle Schüttewerk) - Kenntnis genommen
+- TOP 10.2.10: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 10.2.11: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
+- TOP 14.1.1: Frage zum Pachtverhältnis der ehemaligen Schießsportanlage Hubertusweg, Köln-Poll 1433/2023 - Kenntnis genommen
