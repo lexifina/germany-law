@@ -1,0 +1,54 @@
+# Bildungs- und Sozialausschuss (11. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-11-30T18:00:00+01:00
+- Ende: 2023-11-30T19:50:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-256
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRZQwIcQHhqDg7AGq3I0eyQ
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20959
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bildungs- und Sozialausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcY-i-_BZng_cSBF40t2q0M5S-ffbwpoRz-l75hcrNTA/Bekanntmachung_Bildungs-_und_Sozialausschuss_30.11.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bildungs- und Sozialausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfs0LIeDuG-BJlcOHC2ipXIrpr2Edr3NepoW-nwCea3q/Oeffentliche_Niederschrift_Bildungs-_und_Sozialausschuss_30.11.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Bildungs- und Sozialausschusses Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die 10. Sitzung des Bildungs- und Sozialausschusses vom 29.08.2023 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP -: Sonstige Angelegenheiten
+- TOP 3.: Entwicklung Standorte Kindertagesstätten im Höhengebiet - Einstimmiger Beschluss
+- TOP 4.: Kindergartenbedarfssituation in Houverath; hier: weiteres Vorgehen - Einstimmiger Empfehlungsbeschluss
+- TOP 5.: Vorstellung der neuen Schulleiterin des St.-Angela-Gymnasiums - Ein Beschluss ist nicht erforderlich.
+- TOP 6.: Einrichtung Waldkindergarten hier: Antrag der UWV-Fraktion vom 14.11.2022 - Beschluss mit 8 Nein-Stimmen, 3 Ja-Stimmen und 2 Enthaltungen abgelehnt.
+- TOP -: Einrichtung Waldkindergarten hier: Ausführungen der Verwaltung zum Antrag der UWV-Fraktion vom 14.11.2022 - Beschluss
+- TOP 7.: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand und Zustimmung zur Anmietung weiterer Unterbringungsmöglichkeiten - Einstimmiger Beschluss
+- TOP 8.: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet - Einstimmiger Empfehlungsbeschluss mit 10 Ja-Stimmen, 1 Nein-Stimme und 2 Enthaltungen.
+- TOP 9.: Planung und Finanzierung eines Streetball-Platzes in Bad Münstereifel Im Goldenen Tal; hier: Räumliche Anpassung des Standortes - Einstimmiger Beschluss
+- TOP 10.: Anfragen und Mitteilungen
+- TOP 10.1: Verschiedene FW-Themen hier: Anfrage der UWV-Fraktion vom 25.09.2023
+- TOP 10.2: Stärkungspakt NRW hier: Mittelverwendung
+- TOP 10.3: Städtepartnerschaftstreffen 2024 - Ashford
+- TOP -: Schulische Angelegenheiten
+- TOP 11.: Vorstellung der neuen stellvertretenden Schulleiterin des städtischen Katholischen Grundschulverbund Höhengebiet Bad Münstereifel - Ein Beschluss ist nicht erforderlich.
+- TOP 12.: Offene Ganztagsbetreuung und Kurzbetreuung hier: Evaluierung der Kurzbetreuung - Einstimmiger Beschluss
+- TOP 13.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Empfehlungsbeschluss
+- TOP 14.: Telefonanlage Schulzentrum hier: Neuanschaffung und Aufhebung der Sperre - Einstimmiger Beschluss
+- TOP 15.: Beschaffung Sportgeräte Heinz-Gerlach-Halle hier: Leistungsverzeichnis - Einstimmiger Beschluss
+- TOP 16.: Grundschule Bad Münstereifel hier: Antrag der UWV-Fraktion vom 09.11.2023 - Ein Beschluss ist nicht erforderlich.
+- TOP 17.: Anfragen und Mitteilungen
+- TOP 17.1: Pläne St. Michael-Gymnasium hier: Anfrage der UWV-Fraktion vom 25.09.2023
+- TOP -: Pläne St. Michael-Gymnasium hier: Ausführung der Verwaltung zur Anfrage der UWV-Fraktion vom 25.09.2023
+- TOP 17.2: Laufbahn St. Michael-Gymnasium hier: Anfrage der UWV-Fraktion vom 25.09.2023
+- TOP 17.3: Digitalisierung an Schulen hier: Stand der Beschaffungen im Rahmen des Medienentwicklungsplans
+- TOP 17.4: Spielwiese in Iversheim hier: Antrag des Dorfverschönerungsvereins Iversheim e.V.
+- TOP II.: Nichtöffentliche Sitzung
+- TOP -: Schulische Angelegenheiten
+- TOP 1.: Inventarisierung von IT-Mitteln an Schulen der Stadt Bad Münstereifel hier: Miete einer Jahreslizenz für das zentrale Schulträgermodul von endooOrganize - Einstimmiger Beschluss
+- TOP 2.: Anfragen und Mitteilungen
+- TOP -: Sonstige Angelegenheiten
+- TOP 3.: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet - Mehrheitlicher Empfehlungsbeschluss mit 9 Ja-Stimmen, 1 Nein-Stimme und 3 Enthaltungen.
+- TOP 4.: Anfragen und Mitteilungen
+- TOP 4.1: Stärkungspakt NRW hier: Mittelverwendung
+- TOP 4.2: Erwerbsmöglichkeit eines Objektes zur Unterbringung geflüchteter und obdachloser Menschen hier: Mitteilung der Verhandlungsergebnisse
