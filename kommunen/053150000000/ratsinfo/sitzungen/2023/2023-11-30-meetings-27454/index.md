@@ -1,0 +1,59 @@
+# 21. Sitzung des Sportausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-30T17:00:00+01:00
+- Ende: 2023-11-30T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/14
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27454
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27454
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 2.1: Fortschreibung des Sportentwicklungsplans - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung betreffend "Fortschreibung des Sportentwicklungsplans" - Kenntnis genommen
+- TOP 3: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Durchführung von Laufveranstaltungen beim geplanten Umbau der Hohenzollernbrücke - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Sportausschusses vom 31.08.2023 betrefffend "Durchführung von Laufveranstaltungen beim geplanten Umbau der Hohenzollernbrücke" (AN/1521/2023) - Kenntnis genommen
+- TOP 3.2: Boule und Pétanque Sport in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Sportausschusses vom 28.09.2023 betreffend "Boule und Petanque Sport in Köln" - Kenntnis genommen
+- TOP 3.3: Folgen des Ministerienerlasses zum Belagwechsel - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke "Folgen des Ministerialerlasses zum Belagwechsel" - Kenntnis genommen
+- TOP 3.4: Kürzungen im Sportetat - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD Fraktion aus der Sitzung des Sportausschusses vom 28.09.2023 betreffend "Kürzungen im Sportetat" - Kenntnis genommen
+- TOP 3.5: „Mädchen an den Ball“ in Köln - zurückgestellt
+- TOP 3.6: Schwimmcontainer in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD Fraktion betreffend "Schwimmcontainer in Köln" - Kenntnis genommen
+- TOP 3.7: Sachstand bei der Umsetzung der Kunststoffrasenprioritätenliste - zurückgestellt
+- TOP 4: Ausschuss-Empfehlungen an den Rat/andere Ausschüsse/Bezirksvertretungen
+- TOP 4.1: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Sportanlage Fühlinger Weg, Sanierung des städtischen Umkleidehauses - ungeändert beschlossen
+- TOP 4.3: GRÜNGÜRTEL Parkstadt Süd, hier: Baubeschluss Sportpionierpark - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.3 - GRÜNGÜRTEL Parkstadt Süd, hier: Baubeschluss Sportpionierpark 2401/2023 - endgültig zurückgezogen
+- TOP 4.4: Bedarfsfeststellungsbeschluss: Rahmenvertrag für Baumpflegearbeiten auf Kölner Sportanlagen (36 Monate) - ungeändert beschlossen
+- TOP 4.5: Bedarfsfeststellung zur Errichtung einer Dreifachturnhalle am Standort Holweider Straße 2 einschließlich angrenzenden Grundstücksflächen in 51065 Köln-Mülheim - ungeändert beschlossen
+- TOP 4.6: Hinweistafeln Friedrich Ludwig Jahn - zurückgestellt
+- TOP 5: Entscheidungen
+- TOP 5.1: Anregung der Bezirksvertretung Innenstadt zur Ablehnung der Nutzung des Rheinparks als Fan Zone zur EM 2024 - endgültig abgelehnt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Kunststoffrasen-Belagserneuerung auf der Sportanlage Westkampfbahn im Sportpark Müngersdorf - ungeändert beschlossen
+- TOP 5.3: Offene Ganztagsschule im Primarbereich: Finanzielle Unterstützung aus dem Strukturförderfonds - ungeändert beschlossen
+- TOP 5.4: UEFA EURO 2024 - Nutzung des Rheinparks im Rahmen der Football Experience - ungeändert beschlossen
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Urban Sports. - Gesamtkonzept - Kenntnis genommen
+- TOP 6.2: Umsetzung Modellprojekt 'Wasser muss zum Baum' auf dem P2 am Fühlinger See - Kenntnis genommen
+- TOP 6.3: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung eines Neubaus oder ... eines Bestandsgebäudes für ein 4/6 zügiges Gymnasiums... - Kenntnis genommen
+- TOP 6.4: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 6.5: Sportentwicklungsplanung "Kölle Aktiv - Das Sportlabor" - neuer Standort des mobilen Pumptracks im Senkelsgraben Porz - Kenntnis genommen
+- TOP 6.6: EUROCITIES Konferenz für Sport und Gesundheit sowie "Best Practice" Beispiele von Sportinitiativen in Glasgow am 24. und 25.10.2023 - Kenntnis genommen
+- TOP 6.7: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 6.8: Mitteilung zu Nachhaltigkeitsmaßnahmen im Jugendbereich im Rahmen der UEFA EURO 2024 - zurückgestellt
+- TOP 6.9: Parkstadt Süd - Neuplanung Jean-Löring-Sportpark Hier: Ergebnise der Nutzerbedarfs-Analyse - zurückgestellt
+- TOP 7: Beantwortung von Anfragen
+- TOP 7.1: Beantwortung der mündlichen Anfrage von Bärbel Hölzing (Bündnis 90 / Die Grünen) aus der Sitzung 23.01.2023 zur Nutzbarkeit der Lehrschwimmbecken - Kenntnis genommen
+- TOP 7.2: Beantwortung einer mündlichen Anfrage von Maria Westphal (FDP) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 18.09.2023 betreffend LSBTI-Förderprogramm 2023 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
