@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-30T17:00:00+01:00
+- Ende: 2023-11-30T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27831
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27831
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Ernennung einer Schriftführerin gem. § 31 Absatz 1 Satz 2 GeschO des Rates und der Bezirksvertretungen für die Sitzung am 30.11.2023 - ungeändert beschlossen
+- TOP -: Antrag der AfD-Fraktion auf Durchführung einer Aktuellen Stunde, betr.: Taliban in Köln Chorweiler – Ansehensverlust für die Demokratie - Übergang zum nächsten Tagesordnungspunkt
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: AN/1992/2022: Etablierung einer Suchtberatungsstelle im Bezirk Chorweiler
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 6 vom 15.04.2021 (AN/0651/2021) betreffend Grünstreifen zwischen Liller Straße und Oxforder Passage / Eingang Hallenbad Chorweiler
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen aus der Sitzung der BV 6 vom 21.01.2022 (AN/0156/2022) betreffend Verwahrloste Grünfläche an der Johannes-Albers-Straße
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sanierung Bruchstraße
+- TOP 7.2.2: Öffentlichkeitsbeteiligung zum ,,Masterplan Sauberkeit‘‘ im Stadtbezirk Chorweiler
+- TOP 7.2.3: Anfrage nach Monitoring der Beweidungsmaßnahme in der Rheinaue Worringen
+- TOP 7.2.4: Emdener Straße- Radwegeverbindung zwischen Merkenich und Niehl
+- TOP 7.2.5: Einrichtung einer Einbahnstraße auf der Offenbachstraße
+- TOP 7.2.6: Anfrage zum Sachstand des Beschlusses der BV6 zur Aktuellen Stunde 19.10.2023 Errichtung Flüchtlingsunterkunft am Fühlinger See
+- TOP 7.2.7: Abbau von Umlaufsperren
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Neue Kinderseilbahn auf dem Spielplatz Merkenicher Hauptstraße - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sportanlage Fühlinger Weg, Sanierung des städtischen Umkleidehauses - ungeändert beschlossen
+- TOP 9.1.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Chorweiler 2023/2024 - Förderprogramm - ungeändert beschlossen
+- TOP 9.1.3: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Chorweiler 2023/2024 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - ungeändert beschlossen
+- TOP 9.2.2: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf dem Friedhof Chorweiler - ungeändert beschlossen
+- TOP 9.2.3: Fortschreibung der Schulentwicklungsplanung Köln 2023 - geändert beschlossen
+- TOP 9.2.4: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.5: 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umsetzung Modellprojekt 'Wasser muss zum Baum' auf dem P2 am Fühlinger See
+- TOP 10.2.2: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten
+- TOP 10.2.3: Jahresbericht der Naturschutzwacht 2022, Bezirk 6
+- TOP 10.2.4: Bewirtschaftung des städtischen Waldes 2023/24 - Bezirk 6
+- TOP 10.2.5: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023
+- TOP 10.2.6: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen"
+- TOP 10.2.7: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024)
+- TOP 10.2.8: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen
+- TOP 10.2.9: Mitteilung zum Leitbild-Beschluss "Besser durch Köln"
+- TOP 10.2.10: Weiterführung der Auslagerung Kita Osloer Straße in Chorweiler
+- TOP 10.2.11: Beantwortung einer Anfrage aus dem Beschlussprotokoll der letzten Sitzung der BV 6 vom 19.10.2023
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Behandlung mündlicher Anfragen an die Bezirksvertretung
+- TOP 11.3.2: Sperrung des Fußweges seitlich des Hauses Haselnussweg 5
