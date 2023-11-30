@@ -1,0 +1,96 @@
+# 23. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-11-30T15:05:00+01:00
+- Ende: 2023-11-30T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27453
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27453
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Gremienmitglieder*innen - Kenntnis genommen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Mündliche Anfrage des Herr SB Frenzel in der Sitzung des StEA am 01.06.2023 zum Otto & Langen Quartier - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage - TOP 19.1 Sitzung des Stadtentwicklungsausschusses vom 28.09.2023 - hier: Sachstand zur Planung des Teichrohrsängerweges - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Strommast behindert Sichtachse zum Weltkulturerbe Kölner Dom - zurückgestellt
+- TOP 2.1.1: Beantwortung einer Anfrage der FDP-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 31.08.2023 (AN/1331/2023) betreffend "Strommast behindert Sichtfläche zum Weltkulturerbe Kölner Dom" - zurückgestellt
+- TOP 2.2: Städtebauliche Entwicklungsmaßnahme Deutzer Hafen - Kenntnis genommen
+- TOP 2.2.1: Städtebauliche Entwicklungsmaßnahme Deutzer Hafen: Fragen zur Kosten- und Finanzierungsübersicht, Anfrage der Fraktion DIE LINKE zu AN/1652/2023 aus der Sitzung vom 31.08.2023 - Kenntnis genommen
+- TOP 2.3: Beantwortung einer schriftlichen Anfrage des stimmberechtigten Mitglieds Paul Intveen aus der Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik vom 14.11.2022 betreffend - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Entwicklung des neuen Stadtteils Kreuzfeld – hier: Weiterplanungsbeschluss der Integrierten Planung - geändert beschlossen
+- TOP 4.1.1: Entwicklung des neuen Stadtteils Kreuzfeld - Sache ist erledigt
+- TOP 4.1.2: Änderungsantrag zu TOP 4.1 Entwicklung des neuen Stadtteils Kreuzfeld – hier: Weiterplanungsbeschluss der Integrierten Planung - Sache ist erledigt
+- TOP 4.1.3: Entwicklung des neuen Stadtteils Kreuzfeld – hier: Weiterplanungsbeschluss der Integrierten Planung - ungeändert beschlossen
+- TOP 4.2: Höhenentwicklungskonzept für die Innere Stadt Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden Vorlagen-Nummer AN/0648/2022 - ungeändert beschlossen
+- TOP 5.1.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Erstellung eines Seveso-III-Gutachtens für den Kölner Norden" - Kenntnis genommen
+- TOP 5.1.2: Erstellung eines SEVESO-III-Gutachten für den Kölner Norden - endgültig abgelehnt
+- TOP 5.1.3: Änderungsantrag zu Top 5.1 (3115/2022): Beschluss der Bezirksvertretung Chorweiler Erstellung eines SEVESO 3 Gutachten für den Kölner Norden (Vorlagen-Nummer AN/0648/2022) - Sache ist erledigt
+- TOP 5.2: Leitlinien für die Durchführung eines zweistufigen Gutachterverfahrens für die Errichtung eines Bürokomplexes auf dem Gelände zwischen der Deutz -Mülheimer Straße und dem Pfälzischen Ring an der Zoobrücke in Köln-Deutz - verfahrensleitender Beschluss - ungeändert beschlossen
+- TOP 5.3: Gestaltungsleitfaden Mülheimer Süden - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 6.1.1: Strategische Sozialplanung. Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz - ungeändert beschlossen
+- TOP 6.3: Aktionsplan Klimaschutz - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP -: Präsentation zur Vorlage 3114/2023 - Kenntnis genommen
+- TOP 6.5: StadtBahn Süd - Ergänzungsbeschluss zur Trassenfestlegung und Entscheidung zur weiteren Planung - ungeändert empfohlen
+- TOP 6.6: GRÜNGÜRTEL Parkstadt Süd, hier: Baubeschluss Sportpionierpark - ungeändert empfohlen
+- TOP 6.7: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren“ - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 226. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 2. Köln-Rodenkirchen; Arbeitstitel: "Rondorf Nord-West" in Köln-Rondorf hier: Feststellungsbeschluss - ungeändert empfohlen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - städtebauliches Planungskonzept - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 8.2: Beschluss zur Durchführung der Frühzeitigen Öffentlichkeitsbeteiligung zum Städtebaulichen Entwurf Falkenweg in Köln-Rondorf - zurückgestellt
+- TOP 8.2.1: Änderungsantrag zu Top 8.2 - zurückgestellt
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: "Grundschulstandort Östlich Mottenkaul" in Köln-Roggendorf/Thenhoven: Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - zurückgestellt
+- TOP 9.3: Freiraumkonzept Mülheimer Süden - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Aufstellung eines Bebauungsplanes Arbeitstitel: Classen-Kappelmann-Straße 47 in Köln-Lindenthal - Kenntnis genommen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Green Campus - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - geändert beschlossen
+- TOP 10.3: Beschluss der Bezirksvertretung Ehrenfeld vom 23.10.2023 zur Aufstellung eines Bebauungsplanes und Veränderungssperre für den Bereich Leyendeckerstraße 25-27 in Köln-Ehrenfeld - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP -: Präsentation betreffend "Umsetzung Stadtentwicklungsonzept Wohnen" (Vorlage 2375/2023) - Kenntnis genommen
+- TOP 12.1: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet Ehrenfeld Ost in Köln Ehrenfeld - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 73456/02, Arbeitstitel: Ostmerheimer Straße 214 in Köln -Merheim - ungeändert empfohlen
+- TOP 12.3: Beschluss über die Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 66389/03 Arbeitstitel: Rondorf Nord-West in Köln-Rondorf - ungeändert empfohlen
+- TOP 12.3.1: Köln geht mit der knappen Ressource 'Fläche' sorgfältig um. - Sache ist erledigt
+- TOP 12.4: 7. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 6250/04; Arbeitstitel: Gewerbe- und Medienpark in Köln-Ossendorf, 7. Änderung Motorworld Einzelhandel und Büro - geändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) im beschleunigten Verfahren nach § 13a BauGB, Teilaufhebung des Bebauungsplanes 70489/02 (7048 Sa/02) Arbeitstitel: Münsterer Straße in Köln-Mülheim, Teilaufhebung - Kenntnis genommen
+- TOP 17.2: Mitteilung zur Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf Nummer 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - Kenntnis genommen
+- TOP 17.3: Offenlage Entwurf zur Änderung des Bebauungsplans 69370/02, Kiesgrubenweg in Köln-Hahnwald,1. Änderung - Kenntnis genommen
+- TOP 17.4: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zu den Änderungen (Teilaufhebungen) der Bebauungspläne 6644 Nd 1/16 (67453/16), 67454/09 und 67454/10 Arbeitstitel: Historische Mitte in Köln-Altstadt/Nord - Kenntnis genommen
+- TOP 17.5: Offenlage vorhabenbezogener Bebauungsplan-Entwurf Nr. 69472/01, Arbeitstitel: Lindgens-Areal in Köln Mülheim - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Deutzer Hafen: Kosten- und Finanzierungsübersicht zur städtebaulichen Entwicklungsmaßnahme (Stand 31.12.2022) - Kenntnis genommen
+- TOP 18.2: Niederschriften der 4. und 5. Sitzung des Begleitgremiums Parkstadt Süd - Kenntnis genommen
+- TOP 18.3: Gestiegene Mieten und ungleiche Mietbelastung – Ergebnisse der Kölner Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 18.4: Zweiter Evaluationsbericht Audit „Generationengerechtes Wohnen im Quartier“ in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 18.5: Weiterentwicklung des preisgedämpften Wohnungsbaus - Kenntnis genommen
+- TOP 18.6: Weiterführung des Einleitungsverfahrens zum Bebauungsplan-Entwurf Nummer 63459/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - Kenntnis genommen
+- TOP 18.7: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk - Kenntnis genommen
+- TOP 18.8: Deutzer Hafen: Das Vermarktungs- und Realisierungskonzept als Leitfaden zur Baufeldentwicklung - Kenntnis genommen
+- TOP 18.9: Aufwertung des Neumarkts – Aktueller Stand - Kenntnis genommen
+- TOP 18.10: Parkstadt Süd - Neuplanung Jean-Löring-Sportpark Hier: Ergebnise der Nutzerbedarfs-Analyse - Kenntnis genommen
+- TOP 18.11: Start der Erarbeitung des Stadtentwicklungskonzepts (StEK) Wirtschaft - Kenntnis genommen
+- TOP 18.12: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 22.08.2023 VKA/0023/2023,TOP Ö 5.2.4, (AN/1456/2023) betreffend „Ost-West-Achse – Zeithorizont zur Beschlussfassung und Beschleunigungsmöglichkeiten - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
