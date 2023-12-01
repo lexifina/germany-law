@@ -34,6 +34,7 @@
 - [§ 1.23 Erlaubnis besonderer Veranstaltungen](0001-23.md)
 - [§ 1.24 Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze](0001-24.md)
 - [§ 1.25 Anordnungen, Erlaubnisse und Genehmigungen](0001-25.md)
+- [§ 1.26 Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug](0001-26.md)
 
 ### Kapitel 2 Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
 
@@ -314,8 +315,8 @@ Rhein](0009-02.md)
 - [§ 14.08 Andernach](0014-08.md)
 - [§ 14.09 Wesseling](0014-09.md)
 - [§ 14.10 Duisburg-Ruhrort](0014-10.md)
-- [§ 14.11 Übernachtungshäfen Boven-Rijn und Waal](0014-11.md)
-- [§ 14.12 (weggefallen)](0014-12.md)
+- [§ 14.11 Übernachtungshäfen Boven-Rijn, Waal und Lek](0014-11.md)
+- [§ 14.12 Schutz- und Sicherheitshafen Emmerich](0014-12.md)
 - [§ 14.13 (weggefallen)](0014-13.md)
 
 ## Dritter Teil Umweltbestimmungen

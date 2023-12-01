@@ -3,13 +3,17 @@
 (1)
 Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 (2)
-Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung
-1. zur Umsetzung einer Anordnung der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
-  a) in dringenden Fällen oder
-  b) zu Versuchszwecken oder zur Zulassung einer technischen Neuerung, durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden,
-  eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen oder
-2. für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu bestimmen.
-Soweit es einer Abweichung im Sinne des Satzes 1 Nummer 1 oder einer Ausnahme im Sinne des Satzes 1 Nummer 2 nur im Einzelfall bedarf, kann diese durch Verwaltungsakt zugelassen werden.
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
+1. durch Rechtsverordnung
+  a) zur Umsetzung einer Anordnung der Zentralkommission für die Rheinschifffahrt nach § 1.22a der Anlage
+    aa) in dringenden Fällen oder
+    bb) zu Versuchszwecken oder zur Zulassung einer technischen Neuerung, durch die jeweils die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt wird
+    eine von der Anlage abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen oder
+  b) für öffentliche Zwecke Ausnahmen von § 10.01 Nummer 2 der Anlage zu bestimmen oder
+2. durch Verwaltungsakt
+  a) Abweichungen von der Anlage zu erlauben, um eine Empfehlung der Zentralkommission für die Rheinschifffahrt nach § 1.26 Nummer 2 Satz 1, auch in Verbindung mit Satz 2, der Anlage für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug umzusetzen, oder
+  b) eine Abweichung im Sinne der Nummer 1 Buchstabe a oder eine Ausnahme im Sinne der Nummer 1 Buchstabe b zuzulassen, soweit es dieser nur im Einzelfall bedarf.
+Ein Verwaltungsakt nach Satz 1 Nummer 2 kann – auch nachträglich – mit Nebenbestimmungen versehen werden.
 (3)
 Zuständige Behörde für die Zulassung von Baumustern der Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 (4)

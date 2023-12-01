@@ -1,0 +1,26 @@
+# Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023
+
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+  a) mit einem zulässigen Gesamtgewicht von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
+  b) mit einem zulässigen Gesamtgewicht von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
+  c) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
+  d) mit einem zulässigen Gesamtgewicht von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2
+  a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach zulässigem Gesamtgewicht und Achsanzahl in Euro:
+    | Kategorie | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen oder mehr |
+    | A | 0,015 | 0,015 | 0,022 | 0,023 |
+    | B | 0,043 | 0,052 | 0,062 | 0,062 |
+    | C | 0,059 | 0,063 | 0,080 | 0,087 |
+    | D | 0,088 | 0,101 | 0,134 | 0,149 |
+    | E | 0,113 | 0,121 | 0,164 | 0,182 |
+    | F | 0,114 | 0,123 | 0,169 | 0,187 |
+  b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+    aa) Kategorie A Fahrzeuge der Schadstoffklasse S 6,
+    bb) Kategorie B Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,
+    cc) Kategorie C Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+    dd) Kategorie D Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,
+    ee) Kategorie E Fahrzeuge der Schadstoffklasse S 2,
+    ff) Kategorie F Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
+3. Mautteilsatz für die verursachten Lärmbelastungskosten differenziert nach zulässigem Gesamtgewicht und Achsanzahl je Kilometer nach § 3 Absatz 1 Nummer 3 in Euro
+  | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen oder mehr |
+  | 0,016 | 0,016 | 0,016 | 0,012 |

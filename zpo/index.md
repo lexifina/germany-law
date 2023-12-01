@@ -39,7 +39,6 @@ Gerichte und Wertvorschriften
 - [§ 21 Besonderer Gerichtsstand der Niederlassung](0021.md)
 - [§ 22 Besonderer Gerichtsstand der Mitgliedschaft](0022.md)
 - [§ 23 Besonderer Gerichtsstand des Vermögens und des Gegenstands](0023.md)
-- [§ 23a (weggefallen)](0023a.md)
 - [§ 24 Ausschließlicher dinglicher Gerichtsstand](0024.md)
 - [§ 25 Dinglicher Gerichtsstand des Sachzusammenhanges](0025.md)
 - [§ 26 Dinglicher Gerichtsstand für persönliche Klagen](0026.md)
@@ -58,7 +57,6 @@ Gerichte und Wertvorschriften
 - [§ 33 Besonderer Gerichtsstand der Widerklage](0033.md)
 - [§ 34 Besonderer Gerichtsstand des Hauptprozesses](0034.md)
 - [§ 35 Wahl unter mehreren Gerichtsständen](0035.md)
-- [§ 35a (weggefallen)](0035a.md)
 - [§ 36 Gerichtliche Bestimmung der Zuständigkeit](0036.md)
 - [§ 37 Verfahren bei gerichtlicher Bestimmung](0037.md)
 
@@ -92,7 +90,6 @@ Prozessfähigkeit
 - [§ 51 Prozessfähigkeit; gesetzliche Vertretung; Prozessführung](0051.md)
 - [§ 52 Umfang der Prozessfähigkeit](0052.md)
 - [§ 53 Prozessfähigkeit bei rechtlicher Betreuung](0053.md)
-- [§ 53a (weggefallen)](0053a.md)
 - [§ 54 Besondere Ermächtigung zu Prozesshandlungen](0054.md)
 - [§ 55 Prozessfähigkeit von Ausländern](0055.md)
 - [§ 56 Prüfung von Amts wegen](0056.md)
@@ -153,8 +150,6 @@ Beistände
 - [§ 93 Kosten bei sofortigem Anerkenntnis](0093.md)
 - [§ 93a (weggefallen)](0093a.md)
 - [§ 93b Kosten bei Räumungsklagen](0093b.md)
-- [§ 93c (weggefallen)](0093c.md)
-- [§ 93d (weggefallen)](0093d.md)
 - [§ 94 Kosten bei übergegangenem Anspruch](0094.md)
 - [§ 95 Kosten bei Säumnis oder Verschulden](0095.md)
 - [§ 96 Kosten erfolgloser Angriffs- oder Verteidigungsmittel](0096.md)
@@ -197,7 +192,6 @@ Prozesskostenvorschuss
 - [§ 125 Einziehung der Kosten](0125.md)
 - [§ 126 Beitreibung der Rechtsanwaltskosten](0126.md)
 - [§ 127 Entscheidungen](0127.md)
-- [§ 127a (weggefallen)](0127a.md)
 
 ### Abschnitt 3 Verfahren
 
@@ -1103,7 +1097,6 @@ oder Unterlassungen
 - [§ 890 Erzwingung von Unterlassungen und Duldungen](0890.md)
 - [§ 891 Verfahren; Anhörung des Schuldners; Kostenentscheidung](0891.md)
 - [§ 892 Widerstand des Schuldners](0892.md)
-- [§ 892a (weggefallen)](0892a.md)
 - [§ 893 Klage auf Leistung des Interesses](0893.md)
 - [§ 894 Fiktion der Abgabe einer Willenserklärung](0894.md)
 - [§ 895 Willenserklärung zwecks Eintragung bei vorläufig vollstreckbarem Urteil](0895.md)

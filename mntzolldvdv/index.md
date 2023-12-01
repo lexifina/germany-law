@@ -17,14 +17,21 @@
 
 ## Abschnitt 2 Auswahlverfahren und Einstellung
 
-- [§ 10 Zulassung zum Auswahlverfahren](0010.md)
-- [§ 11 Auswahlkommission](0011.md)
-- [§ 12 Auswahlverfahren](0012.md)
-- [§ 13 Schriftlicher Teil des Auswahlverfahrens](0013.md)
-- [§ 14 Zulassung zum mündlichen Teil des Auswahlverfahrens](0014.md)
-- [§ 15 Mündlicher Teil des Auswahlverfahrens](0015.md)
-- [§ 16 Gesamtergebnis des Auswahlverfahrens](0016.md)
-- [§ 17 Einstellung](0017.md)
+- [§ 10 Zweck des Auswahlverfahrens](0010.md)
+- [§ 11 Zulassung zum Auswahlverfahren](0011.md)
+- [§ 12 Auswahlkommission](0012.md)
+- [§ 13 Gemeinsame Auswahlkommissionen](0013.md)
+- [§ 14 Teile des Auswahlverfahrens](0014.md)
+- [§ 15 Festlegungen zum Auswahlverfahren](0015.md)
+- [§ 16 Schriftlicher Teil des Auswahlverfahrens](0016.md)
+- [§ 17 Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge](0017.md)
+- [§ 17a Zulassung zum mündlichen Teil des Auswahlverfahrens](0017a.md)
+- [§ 17b Mündlicher Teil des Auswahlverfahrens](0017b.md)
+- [§ 17c Bestehen des mündlichen Teils des Auswahlverfahrens](0017c.md)
+- [§ 17d Gesamtergebnis und Rangfolge](0017d.md)
+- [§ 17e Ausnahmeregelung zur Rangfolge](0017e.md)
+- [§ 17f Täuschung](0017f.md)
+- [§ 17g Einstellung und gesundheitliche Eignung](0017g.md)
 
 ## Abschnitt 3 Ausbildungsordnung
 
@@ -57,9 +64,6 @@
 - [§ 41 Zulassung zur mündlichen Abschlussprüfung](0041.md)
 - [§ 42 Mündliche Abschlussprüfung](0042.md)
 - [§ 43 Bestehen der Laufbahnprüfung, Abschlussnote](0043.md)
+- [§ 43a Laufbahnbefähigung und Berufsbezeichnung](0043a.md)
 - [§ 44 Abschlusszeugnis](0044.md)
 - [§ 45 Wiederholung von Prüfungen](0045.md)
-
-## Abschnitt 5 Schlussvorschriften
-
-- [§ 46 Übergangsvorschriften](0046.md)

@@ -32,6 +32,7 @@
 | § 1.23 | Erlaubnis besonderer Veranstaltungen |
 | § 1.24 | Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze |
 | § 1.25 | Anordnungen, Erlaubnisse und Genehmigungen |
+| § 1.26 | Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Besatzung automatisiert wahrgenommen werden, oder für ein ferngesteuertes Fahrzeug |
 |  |
 |  | Kapitel 2 |
 |  | Kennzeichnung und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung |
@@ -262,8 +263,8 @@
 | § 14.08 | Andernach |
 | § 14.09 | Wesseling |
 | § 14.10 | Duisburg-Ruhrort |
-| § 14.11 | (ohne Inhalt) |
-| § 14.12 | (weggefallen) |
+| § 14.11 | Übernachtungshäfen Boven-Rijn, Waal und Lek |
+| § 14.12 | Schutz- und Sicherheitshafen Emmerich |
 | § 14.13 | Ijzendoorn und Haaften |
 |  |
 | Dritter Teil |
