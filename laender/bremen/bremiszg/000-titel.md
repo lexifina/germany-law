@@ -1,0 +1,1 @@
+# Gesetz zur Gewährung einer einmaligen und einer monatlichen Sonderzahlung in den Jahren 2023 und 2024 zur Abmilderung der Folgen der gestiegenen Verbraucherpreise (Bremisches Inflationsausgleichssonderzahlungsgesetz - BremISZG) vom 20. Februar 2024
