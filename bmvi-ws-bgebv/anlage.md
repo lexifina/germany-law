@@ -154,7 +154,7 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 2135 | Jede Änderung einer Fahrtauglichkeitsbescheinigung | § 15 BinSchUO, § 96 Absatz 1 BinSchPersV | 32,20 |
 | 2136 | Jeder Vermerk über Abweichungen und Zulässigkeiten in der Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder Änderung der Bescheinigung über die Besatzung | §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. § 96 Absatz 1 BinSchPersV ES-TRIN Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5 | 32,20 |
 | 2137 | Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne vorausgehende Untersuchung | § 19 Absatz 5 BinSchUO | 32,20 |
-| 2138 | Prüfung und Siegelung einer Metalltafel | § 1.10 Nummer 2 BinSchStrO § 1.10 Nummer 2 RheinSchPV § 1.10 Nummer 2 MoselSchPV § 1.10 Nummer 5 der Anlage A zur DonauSchPV Artikel 32.06 und 33.04 ES-TRIN | 14,85 |
+| 2138 | Prüfung und Siegelung einer Metalltafel | § 1.10 Nummer 2 BinSchStrO § 1.10a Nummer 1 RheinSchPV § 1.10a Nummer 1MoselSchPV § 1.10 Nummer 5 der Anlage A zur DonauSchPV Artikel 32.06 und 33.04 ES-TRIN | 14,85 |
 | 2139 | Sonstige Bescheinigungen auf Grund von nationalen Regelungen sowie von bilateralen oder internationalen Verträgen (z. B.: Bescheinigung zur Vorlage beim Schiffsregister, Ausrüsterbescheinigung, RZU) |  | 32,20 |
 | 214 | Flüssiggasanlage |  |  |
 | 2141 | Ausstellung, Änderung oder Erneuerung der Flüssiggas-Bescheinigung | BinSchUO Anhang II § 7.02 Nummer 5, § 7.03 Nummer 4 ES-TRIN Artikel 17.15 | 29,70 |
