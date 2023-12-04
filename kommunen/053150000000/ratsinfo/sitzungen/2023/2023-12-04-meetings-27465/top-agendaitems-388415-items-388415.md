@@ -1,0 +1,8 @@
+# TOP -: Bürgereingabe nach § 24 GO NRW - "Vermeidung von Toter-Winkel-Unfällen durch die Einrichtung von Spiegeleinstellplätzen für LKW und Busse auf Parkplätzen und Betriebshöfen", Aktenzeichen 205/23
+
+- Sitzung: 21. Sitzung des Ausschusses für Bürgerbeteiligung, Anregungen und Beschwerden (2023-12-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/388415
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/180037
