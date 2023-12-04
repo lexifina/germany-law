@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-12-04T15:00:00+01:00
+- Ende: 2023-12-04T15:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24006
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/24006
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00506118.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00506118.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00506118.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 30.10.2023 - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsfraktion DIE LINKE: Einnahmen aus geplantem Verkauf städtischer Grundstücke und Gebäude - schriftlich beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion DIE LINKE: Mögliche Mehreinnahmen durch Erhöhung von Gewerbesteuer und Einstellung kommunaler Steuerprüfer:innen - schriftlich beantwortet
+- TOP 3.3: Anfrage der Ratsfrau Marmulla, DIE LINKE: Kosten für externe Beratungsleistungen - schriftlich beantwortet
+- TOP 4: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfesachbearbeitung - Empfehlung einstimmig beschlossen
+- TOP 5: Gründung einer städtischen Digitalisierungsgesellschaft - Empfehlung mehrheitlich beschlossen
+- TOP 6: Weiteres Vorgehen mit strategisch bedeutsamen Flächen - insbesondere Glasmacherviertel - Empfehlung einstimmig beschlossen
+- TOP 7: Umsetzung der Wohnungsbauoffensive Düsseldorf 2030 und des Baulandmodells - Bericht und erste Meilensteine zur Umsetzung - Empfehlung einstimmig beschlossen
+- TOP 8: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf: Richtliniennovelle 2023 - passieren lassen
+- TOP 9: Aktualisierung von beschlossenen Maßnahmen im Bereich Tageseinrichtungen für Kinder - Empfehlung einstimmig beschlossen
+- TOP 10: Rheinbrücke Josef-Kardinal-Frings-Brücke im Zuge der B1 – Übergabe der Straßenbaulast aus Anlass der Neufestsetzung der Ortsdurchfahrtsgrenze - Empfehlung einstimmig beschlossen
+- TOP 11: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2024 - passieren lassen
+- TOP 12: Hildener Straße, Umbau zwischen Betriebshof Rheinbahn und Am Buchholzer Busch - Empfehlung einstimmig beschlossen
+- TOP 13: Gasbeleuchtung – Neue Leitlinien zur Fortschreibung Masterplan „Energieeffiziente und historische Straßenbeleuchtung“ - Empfehlung mehrheitlich beschlossen
+- TOP 14: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme „Umgestaltung Schadowstraße, Oberflächenherstellung“ - Empfehlung einstimmig beschlossen
+- TOP 15: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Aquazoo Löbbecke Museum - Sanierung Pflegebereich - Empfehlung einstimmig beschlossen
+- TOP 16: Worringer Straße 136-140 - Erweiterungsumbau des Proben- und Produktionszentrums Central als Spielstätte für das Junge Schauspiel und die Bürgerbühne/Stadt:Kollektiv des Düsseldorfer Schauspielhauses - Empfehlung einstimmig beschlossen
+- TOP 17: Ende des Projektes "Zentrales Aktendepot (ZAD)" / Einrichtung von fünf befristeten Stellen im Stadtarchiv - Empfehlung einstimmig beschlossen
+- TOP 18: Ausweitung der Öffnungszeiten der Stadtteilbücherei Bilk - Empfehlung einstimmig beschlossen
+- TOP 19: Dienstreise Kulturausschuss 2024 nach Berlin - einstimmig beschlossen
+- TOP 20: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsgangs (G9) am Humboldt-Gymnasium - Empfehlung einstimmig beschlossen
+- TOP 21: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Städtisches Gymnasium Heinzelmännchenweg als vierzügiges Gymnasium mit Dreifeldhalle am Standort Grafental, Planstraße 03867, 40235 Düsseldorf" - Empfehlung einstimmig beschlossen
+- TOP 22: Änderung der Honorarordnung der Volkshochschule Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 23: Handlungsschwerpunkte bei schulischen Sanierungsprojekten neu bewerten – Masterplan Schulen 2.0 - Empfehlung einstimmig beschlossen
+- TOP 24: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau am Wim-Wenders-Gymnasium, Schmiedestr. 25, Erweiterung und Umbau am Max-Planck-Gymnasium, Koetschaustr. 36 und GGS Steinkaul 27" - Empfehlung einstimmig beschlossen
+- TOP 25: Umbesetzung der Mitgliederversammlung der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e. V." - Empfehlung einstimmig beschlossen
+- TOP 26: Betrieb der Realschule Borbecker Straße als gebundene Ganztagsschule - Empfehlung einstimmig beschlossen
+- TOP 27: Jahresabschluss zum 31.12.2022 und Lagebericht für das Wirtschaftsjahr 2022 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 28: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2024 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 29: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2023-2027 - Beschluss - - Empfehlung einstimmig beschlossen
+- TOP 30: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2024 bis 31.12.2024 - Beschluss - - Empfehlung mehrheitlich beschlossen
+- TOP 31: Genehmigung einer Dienstreise von Ausschussmitgliedern zur MIPIM 2024 - Empfehlung mehrheitlich beschlossen
+- TOP 32: Neufassung der Hundesteuersatzung der Landeshauptstadt Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 33: Beschluss über das Jahresergebnis 2022 - Empfehlung einstimmig beschlossen
+- TOP 34: Veränderungsverzeichnis der Personal- und Versorgungsaufwendungen und -auszahlungen 2024/2025 - abweichend beschlossen
+- TOP 35: Etatberatungen
+- TOP 35.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2024 mit Anlagen - passieren lassen
+- TOP 35.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2024/2025 ff. - passieren lassen
+- TOP 35.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für die Haushaltsjahre 2024 und 2025 mit Anlagen - passieren lassen
