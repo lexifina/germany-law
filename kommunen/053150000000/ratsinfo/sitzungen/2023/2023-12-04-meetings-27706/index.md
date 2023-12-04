@@ -1,0 +1,87 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-12-04T16:00:00+01:00
+- Ende: 2023-12-04T17:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27706
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27706
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Bürgereingabe nach § 24 GO– „Anschaffung umsetzbarer Fußballtore - auf Grünfläche zwischen Mommsenstraße und Neuenhöfer Allee“, Aktenzeichen 131/23 B - Kenntnis genommen
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Radstreifen und Tempo 30 Ostlandstraße" Aktenzeichen 241-21 - Kenntnis genommen
+- TOP 5.1.3: Aufstellung einer Mobiltoilette im Bereich des Decksteiner Weihers, Gleueler Straße/Militärringstraße - Kenntnis genommen
+- TOP 5.1.4: Aufstellung einer Mobiltoilette im Bereich des Rautenstrauchkanals/Karl-Schwering-Platz - Kenntnis genommen
+- TOP 5.1.5: Aufstellung einer Mobiltoilette im Klettenbergpark - Kenntnis genommen
+- TOP 5.1.6: Mitteilung zur Bürgereingabe nach § 24 GO - Naturdenkmal Kirschbaumallee Sülzer Aquarienweg, Aktenzeichen: 69/23 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen aus der Sitzung der Bezirksvertretung Lindenthal vom 28.08.2023 (Vorlagen-Nr. 1402/2023) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage an die Gebäudewirtschaft der Stadt Köln betreffend Erweiterung/Umbau GGS Braunsfeld (Geilenkircher Str.) - Baumfällung - zurückgestellt
+- TOP 7.2.2: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Rückbau der freilaufenden Rechtsabbieger am Kreisverkehr Widdersdorfer Landstr./Lise-Meitner-Ring - ungeändert beschlossen
+- TOP 8.1.2: Einrichtung von beidseitigen Fahrradschutzstreifen sowie das Ordnen des Parkens auf der Berrenrather Strasse - geändert beschlossen
+- TOP 8.1.3: Umbennenung der Lerschstr. in Köln-Weiden - ungeändert beschlossen
+- TOP 8.1.4: Schulwegsicherheit in Müngersdorf - ungeändert beschlossen
+- TOP 8.1.5: Fahrradnadeln vor der Zülpicher Str. 392 - ungeändert beschlossen
+- TOP 8.1.6: Piktogramme bzw. Bodenmarkierungen "Auf der Aspel" in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.7: Einrichtung von zentralen Rückgabe- bzw. Abstellplätzen für E-Scooter im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 8.1.8: Überprüfung der Möglichkeit, des von Jakob Calleen geschaffenen Würfelbrunnens nur auf Umwälztechnik zu betreiben - endgültig zurückgezogen
+- TOP 8.1.9: Parken nur für PKW - ungeändert beschlossen
+- TOP 8.1.10: Uniwiese Karneval - endgültig zurückgezogen
+- TOP 8.1.11: Einfahrt Scheffelstraße/Falkenburgstraße - ungeändert beschlossen
+- TOP 8.1.12: Anlage von zwei Querungshilfen auf der Münstereifeler Str. (Schulweg GGS Manderscheider Platz) - ungeändert beschlossen
+- TOP 8.1.13: Haltestellen-Unterstand vor dem Haupteingang des Gymnasiums Neue Sandkaul - geändert beschlossen
+- TOP 8.1.14: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Deckstein (2 Haltekanten) der KVB-Linie 146 im Stadtbezirk Lindenthal, den Umbau der Kreuzung Gleuler Str./ Decksteiner Str. und die Erneuerung der Lichtsignalanlage sowie Freigabe von inve - ungeändert beschlossen
+- TOP 9.1.2: Kunststoffrasen-Belagserneuerung auf der Sportanlage Westkampfbahn im Sportpark Müngersdorf - ungeändert beschlossen
+- TOP 9.1.3: Förderprogamm Veedelszüge 2024 - ungeändert beschlossen
+- TOP 9.1.4: Mittelvergabe Förderprogramm Veedelszüge - ungeändert beschlossen
+- TOP 9.1.5: Hinweistafeln Friedrich Ludwig Jahn - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Vorlage wurde zurückgezogen
+- TOP 9.2.2: Straßen- und Wegekonzept der Stadt Köln gemäß § 8a KAG - Fortschreibung 2024 bis 2028 - ohne Votum in nachfolgende Gremien
+- TOP 9.2.3: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Green Campus - Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - Sache ist erledigt
+- TOP 9.2.4: Schnellbuslinie 91 zwischen Dormagen und Brühl über Köln-Worringen und Köln-Weiden West - ungeändert beschlossen
+- TOP 9.2.5: Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - städtebauliches Planungskonzept - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - geändert beschlossen
+- TOP 9.2.6: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 75 des Friedhofs Melaten - geändert beschlossen
+- TOP 9.2.7: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.8: Fortschreibung der Schulentwicklungsplanung Köln 2023 - geändert beschlossen
+- TOP 9.2.8.1: Ergänzungsantrag zu 9.2.8 - ungeändert beschlossen
+- TOP 9.2.9: 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Toiletten und Umkleiden - Sportanlage Walter-Binder-Weg - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Weiterführung des Einleitungsverfahrens zum Bebauungsplan-Entwurf Nummer 63459/04 Arbeitstitel: Stolberger Straße in Köln-Braunsfeld/Ehrenfeld, 1. Änderung - Kenntnis genommen
+- TOP 11.3.2: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschuss vom 19.09.2023 (AN/1657/2023) betr. "Sachstand zur Errichtung von Quartiersgaragen" - Kenntnis genommen
+- TOP 11.3.3: KOMM-AN NRW – Landesprogramm zur Förderung des ehrenamtlichen Engagements bei der Integration von Geflüchteten und neueingewanderten Menschen in den Kommunen - Sachstandsbericht 2023 - Kenntnis genommen
+- TOP 11.3.4: Radschnellweg Köln-Frechen - aktueller Sachstand - Kenntnis genommen
+- TOP 11.3.5: Änderungen zum Fahrplanwechsel 2023 (Fahrplanjahr 2024) - Kenntnis genommen
+- TOP 11.3.6: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 11.3.7: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 11.3.8: Stadtbahnvorhaben Köln - Niederaußem - hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie - Kenntnis genommen
+- TOP 11.3.9: Auswertung der Beschlüsse der Bezirksvertretungen - Transparenz Finanzvolumen - Auftrag aus der Kommission zur Stärkung der Bezirke, hier: Bezirksvertretung Lindenthal 2021 bis 2023 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
