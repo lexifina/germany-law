@@ -1,0 +1,101 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2023-12-04T14:37:00+01:00
+- Ende: 2023-12-04T15:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27455
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/27455
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen in der Ergebnisrechnung 2023 (Berichtswesen) - Kenntnis genommen
+- TOP 2.3: Sponsoringrichtlinie - Aktualisierung - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.09.2023 - Kenntnis genommen
+- TOP 2.5: Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.6: Auswirkungen der Steuerschätzung aus Oktober 2023 und der Modellrechnung für das Gemeindefinanzierungsgesetz (GFG) 2024 - Kenntnis genommen
+- TOP 2.7: Luftrettungssatzung der Stadt Köln - Kenntnis genommen
+- TOP 2.8: Vergütungsbericht 2022 - Kenntnis genommen
+- TOP 2.9: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.10.2023 - Kenntnis genommen
+- TOP 2.10: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2021 - Beteiligungsbericht 2021 - Kenntnis genommen
+- TOP 2.11: Kölner Verkehrs-Betriebe AG (KVB): Direktvergabe vom 04.04.2019 hier: Sachstandsbericht ÖDLA Revision und Vorabbekanntmachung - Kenntnis genommen
+- TOP 2.12: Finanzierungskonzept Bühnen der Stadt Köln 2025ff.; hier: Ausweitung der Kulturförderabgabe auf Geschäftsreisende - Kenntnis genommen
+- TOP 2.13: Beantwortung einer Anfrage der SPD-Fraktion zur Vergnügungssteuer für Tanzveranstaltungen (AN/2084/2023) - Kenntnis genommen
+- TOP 2.14: Bisherige Inanspruchnahme des Strukturförderfonds in 2023 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2022 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Erneuerung des Wasserleitungsnetzes Kleingartenanlage Hoffnung - Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - Kenntnis genommen
+- TOP 6.2.2: Sanierung und Verbreiterung des Geh- und Radweges am Sürther Leinpfad hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i. V. m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2023 - Kenntnis genommen
+- TOP 6.2.3: Make or Buy Konzept Baumpflege Beschaffung 6 Hubsteiger, 1 Lkw mit Ladekran, hier:Mitteilung über die Erhöhung der Investitionsauszahlungen - Kenntnis genommen
+- TOP 6.3: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2025 bis 2027 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.4: Kommunalinvestitionsförderungsgesetz, Kapitel 1 und 2, Sachstandsmitteilung - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Einrichtung und Freigabe von investiven Auszahlungsermächtigungen für die Elly-Heuss-Knapp-Realschule und die Ferdinand-Lassalle-Realschule in Köln Mülheim und die Peter-Lustig-Grundschule ind Köln Ossendorf - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung des Knotenpunktes Nußbaumerstraße/Herkulesstraße/Liebigstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Knotenpunkten. - ungeändert beschlossen
+- TOP 7.3: Umgestaltung des Rochusplatzes in Köln-Bickendorf - geändert beschlossen
+- TOP 7.4: Baubeschluss für den barrierefreien Umbau der Bushaltestelle Deckstein (2 Haltekanten) der KVB-Linie 146 im Stadtbezirk Lindenthal, den Umbau der Kreuzung Gleuler Str./ Decksteiner Str. und die Erneuerung der Lichtsignalanlage sowie Freigabe von inve - unter Vorbehalt beschlossen
+- TOP 7.5: Baubeschluss für den barrierefreien Umbau von drei Bushaltestellen (vier Haltekanten) der KVB-Linie 157 im Stadtbezirk Kalk - geändert beschlossen
+- TOP 7.6: Ersatz von vier Kolonnenfahrzeugen als Elektrofahrzeuge, hier Ersatzbeschaffung von 3 Kolonnenfahrzeugen sowie Umrüstung von einem Kolonnenfahrzeug für - zurückgestellt
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßiger Aufwand im Teilergebnisplan 0212 Brand- und Bevölkerungsschutz, Rettungsdienst - ungeändert beschlossen
+- TOP 8.2: Offene Ganztagsschule im Primarbereich: Finanzielle Unterstützung aus dem Strukturförderfonds - ungeändert beschlossen
+- TOP 8.3: Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2023 - ohne Votum in nachfolgende Gremien
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - zurückgestellt
+- TOP 10.2: Erhöhung von Arbeitssicherheit und Resilienz in den Gerätehäusern der Freiwilligen Feuerwehr - ungeändert beschlossen
+- TOP 10.3: Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz - ungeändert beschlossen
+- TOP 10.4: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - zurückgestellt
+- TOP 10.5: Mitgliedschaft Radregion Rheinland e. V. - ungeändert beschlossen
+- TOP 10.6: Baubeschluss für die Erneuerung von 6 Fahrtreppenanlagen - geändert beschlossen
+- TOP 10.7: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - zurückgestellt
+- TOP 10.8: Überleitung der Maßnahme "Zuhause im Veedel" in das Förderprogramm Gemeinwesenarbeit - ungeändert beschlossen
+- TOP 10.9: Renovierungsprogramm Museen 2023, hier: Mittelfreigabe für das Museum Ludwig - ungeändert beschlossen
+- TOP 10.10: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Str. durch einen Totalunternehmer - ungeändert beschlossen
+- TOP 10.11: Baubeschluss zum Ersatzneubau Brücke Escher Straße in Köln Nippes/Bilderstöckchen - ungeändert beschlossen
+- TOP 10.12: Aktionsplan Klimaschutz - ohne Votum in nachfolgende Gremien
+- TOP 10.13: Stadtklima / Stadtverschönerungsprogramm 2023 im Stadtbezirk Chorweiler - ungeändert beschlossen
+- TOP 10.14: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Grundschule im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.15: Verlängerung Auszugsmanagement 2024/2025 - ungeändert beschlossen
+- TOP 10.16: Sportanlage Fühlinger Weg, Sanierung des städtischen Umkleidehauses - ungeändert beschlossen
+- TOP 10.17: Feststellung des Wirtschaftsplanes der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2024 - ungeändert beschlossen
+- TOP 10.18: Kölner Verhütungsmittelfonds - ungeändert beschlossen
+- TOP 10.19: Zweite Satzung zur Änderung der Satzungen der Stadt Köln vom 16.01.2018 über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen über die Erhebung von Gebühren - ungeändert beschlossen
+- TOP 10.20: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2022 - ungeändert beschlossen
+- TOP 10.21: Erhöhung der bezirksorientierten Mittel gem. § 13 Abs. 1 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - ungeändert beschlossen
+- TOP 10.22: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln 2024 - ungeändert beschlossen
+- TOP 10.23: Satzung über die Abfallgebühren in der Stadt Köln 2024 - ungeändert beschlossen
+- TOP 10.24: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.25: Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch: - zurückgestellt
+- TOP 10.26: GRÜNGÜRTEL Parkstadt Süd, hier: Baubeschluss Sportpionierpark - ungeändert beschlossen
+- TOP 10.27: Zero Waste-Konzept Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.28: Erneute Betrauung der KölnTourismus GmbH - ungeändert beschlossen
+- TOP 10.29: 4. Satzung zur Änderung der Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 10.30: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 10.31: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld, hier: Vergabe der Restmittel - ungeändert beschlossen
+- TOP 10.32: Bedarfsfeststellung zur Errichtung einer Dreifachturnhalle am Standort Holweider Straße 2 einschließlich angrenzenden Grundstücksflächen in 51065 Köln-Mülheim - ungeändert beschlossen
+- TOP 10.33: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.34: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ohne Votum in nachfolgende Gremien
+- TOP 10.35: Änderung der Satzungen über die Erhebung von Kostenersatz und Gebühren für die Leistungen der Berufsfeuerwehr und der Freiwilligen Feuerwehr der Stadt Köln (Feuerwehrsatzungen) - ungeändert beschlossen
+- TOP 10.36: Mehrsprachiges Vermittlungsangebot des Museumsdienstes (Umsetzung Kulturentwicklungsplanung) - ungeändert beschlossen
+- TOP 10.37: Bedarfsfeststellungsbeschluss: Rahmenvertrag für Baumpflegearbeiten auf Kölner Sportanlagen (36 Monate) - ungeändert beschlossen
+- TOP 10.38: 7. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 10.39: Ersatzbeschaffung von 16 Kolonnenfahrzeugen als Elektrofahrzeuge - ungeändert beschlossen
+- TOP 10.40: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren“ - ohne Votum in nachfolgende Gremien
+- TOP 10.41: Mindeststandards zur Betreuung Geflüchteter –Fortführung der Maßnahmen - ohne Votum in nachfolgende Gremien
+- TOP 10.42: Finanzierung Dialogprozess "Mahnmal zum Gedenken an die Opfer von Unterdrückung, Rassismus, Gewalt und Menschenrechtsverletzungen" (Arbeitstitel) - ohne Votum in nachfolgende Gremien
+- TOP 10.43: Pilotprojekt „INSGES*AMT - Inklusive Service-Gestaltung im AMT„ hier: Genehmigung zur abweichenden Verwendung von Zuschussmitteln - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
