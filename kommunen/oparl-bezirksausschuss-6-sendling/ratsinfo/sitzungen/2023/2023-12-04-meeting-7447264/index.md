@@ -1,0 +1,137 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2023-12-04T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7447264
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7447264
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Umwandlung der falsch gebauten Parkplätze vor dem Neubau der GWG in der Hans-Klein-Straße in eine breitere Grünfläche (SPD-Fraktion)
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Wertstoffsammelstelle Spitzweg/Lipowskystr.
+- TOP 2.2.: Parksituation am Harras seit Beginn der Umbaumaßnahmen
+- TOP 2.3.: Abfallsituation am Harras
+- TOP 2.4.: Park Neuhofen, Rad- und Fußwege
+- TOP 2.5.: Silvester am Flaucher - Böller und Feuerwerksverbot
+- TOP 2.6.: Straßenmarkierung in der Valleystr. 44
+- TOP 2.7.: Fahrrad-Abstellplätze für die Aberlestr. 14 und 15
+- TOP 2.8.: Fahrrad-Abstellplätze für die Lindwurmstr. 112
+- TOP 2.9.: Daiserstr. 49 - fehlende Gehwegpflasterung
+- TOP 2.10.: Lärmschutzwand an der S-Bahnlinie - Karwendelstr. südlicher Teil
+- TOP 2.11.: Beleuchtung der Baustelle am Sendlinger Loch
+- TOP 2.12.: Durchgehender Bürgersteig bei der Kurve in der Thalkirchnerstr. gegenüber Haus Nr. 142
+- TOP 2.13.: Kletterturm für den Spielplatz am Dietramzeller Platz
+- TOP 2.14.: Gesuch für Praxisräume
+- TOP 2.15.: Geplante Baumaßnahme rückwärtig der Lindenschmitstr. 25
+- TOP 2.16.: Laubhaufen in der Schäftlarnstr. 62
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baumpflanzungen und Begrünungskonzept für die Senserstraße
+- TOP 4.3.2.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 4.3.3.: Termin Tag der offenen Tür in der Pfeuferstr. 15 / MK6
+- TOP 4.3.4.: Vollzug der Erhaltungssatzung Am Harras / Passauerstraße Wohnraum: Am Harras 9, 2. Obergeschoss rechts Antrag vom: 04.10.2023 Antragsteller/in: Postbaugenossenschaft München und Oberbayern eG
+- TOP 4.3.5.: Vollzug der Erhaltungssatzung Am Harras / Passauerstraße Wohnraum: Karwendelstr. 3, 2. Obergeschoss links Antrag vom: 04.10.2023 Antragsteller/in: Postbaugenossenschaft München und Oberbayern eG
+- TOP 4.3.6.: REWE-Grundstück in städtische Hand!
+- TOP 4.3.7.: Vollzug der Naturschutzgesetze; Änderung der Verordnung der Landeshauptstadt München über die einstweilige Sicherstellung der Erweiterungsflächen zum Landschaftsschutzgebiet „Sportpark der Firma Siemens südlich der Siemensallee und das Waldstück südlich dieses Parkes“ („Erweiterungsflächen zum ehemaligen Siemens-Sportpark“)
+- TOP 4.3.8.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Fragen zum Neubau der GWG München MK 6 an der Radlkoferstraße (SPD-Fraktion)
+- TOP 4.4.2.: Was hat das Grundstück Alramstraße („Sendlinger Loch“) für eine Zukunft? (SPD-Fraktion)
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Sitzung der Kommission für Stadtgestaltung am 21.11.2023
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Parkraumbewirtschaftung Schäftlarnstr. 112
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Abfallkorb neben Mülleimer stellen
+- TOP 5.3.2.: Parkraummanagement Flößergasse, Tölzer Straße, Zechstraße, Heißstraße, Fallstraße
+- TOP 5.3.3.: Fahrradabstellanlagen Ganghoferstraße – Alramstraße - Oberländerstraße
+- TOP 5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.5.: (U) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 6 Sendling und im Stadtbezirk 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Widmung einer Teilstrecke des unbenannten Weges Nr. 39
+- TOP 5.3.6.: Einrichtung eines Parklizenzgebiets im Bereich Flößergasse, Tölzer Str., Zechstr., Heißstr., Fallstr. mit zeitlich begrenztem kostenfreien Besucherparken
+- TOP 5.3.7.: Einsatz des Kommunalen Außendienstes des Kreisverwaltungsreferates zur Überwachung der Einhaltung der Grillzonen / Unterbindung von größeren, insb. kommerziellen Veranstaltungen / Unterbindung des Betriebs von elektronischen Beschallungsgeräten im Landschaftsschutzgebiet Einsatz von AKIM, um auf verbotswidriges Handeln der Nutzer*innen des Flauchers und der Isarauen hinzuweisen und die Situation der Anwohner*innen zu verdeutlichen
+- TOP 5.3.8.: Verbesserung der Lebensqualität am Harras
+- TOP 5.3.9.: Beschädigung von Leih-E-Scootern und E-Fahrrädern sowie Entsorgung auf dem Quartiersplatz Theresienhöhe / Bahndeckel
+- TOP 5.3.10.: Verkehrsrechtliche Anordnung Arbeiten im Straßenraum Mittlerer Ring, ab Passauer Straße (Verlegung einer 110kV-Leitung) Verlängerung 28.10.2023 bis 22.12.2023
+- TOP 5.3.11.: Aktueller Stand zum Umbau der Tumblingerstr. - Rad- und Fußwege zwischen Ruppertstr., Tiefgarage LUISE und Lagerhausstr. (Unterführung)
+- TOP 5.3.12.: Errichtung von Fahrradstellplätzen zur Erhöhung der Verkehrssicherheit in der Meindlstr.
+- TOP 5.3.13.: Verlängerung der Grünphase der Ampel über die Ganghoferstraße Ecke Max-Hirschberg-Weg
+- TOP 5.3.14.: (U) Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 06 (Sendling) und 07 (Sendling-Westpark) Satzungsbeschluss Satzung „Am Harras/Passauerstraße“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzun „Am Harras/Passauerstraße“) Stadtbezirk 06 Sendling und 07 Sendling-Westpark
+- TOP 5.3.15.: Allgemeinverfügung zum Böllerverbot innerhalb des mittleren Rings 2023/2024
+- TOP 5.3.16.: Neu-Aufstellung einer Sitzbank in der Aberlestraße an der Ecke zur Lindwurmstraße
+- TOP 5.3.17.: Anfrage französische Schule in Sendling Unterstell- oder Garage für Fahrräder am Herzog-Ernst-Platz in der Nähe des Schulgebäudes Sendling
+- TOP 5.3.18.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung Bohrung U9 - BK-03
+- TOP 5.3.19.: Aufnahme des HC-Wacker München an der Demleitnerstr.4 in die Parkraumbewirtschaftung
+- TOP 5.3.20.: Lokalisierungsnummern auf Parkbänken auch in Sendling
+- TOP 5.3.21.: Barrierefreier Ausbau der Haltestelle Schäftlarnstr.
+- TOP 5.3.22.: Anforderungsampel vor der Mittelschule an der Implerstr.
+- TOP 5.3.23.: Beleuchtung der Pergola am Herzog Ernst Platz
+- TOP 5.3.24.: Baustelleneinrichtung Fritz-Endres-Str. / Ecke Pfeuferstr.
+- TOP 5.3.25.: Ergebnisse TOPO-Box Messung Implerstr.
+- TOP 5.3.26.: Ergebnisse TOPO-Box Messung Pfeuferstr.
+- TOP 5.3.27.: Allgemeiner Behindertenparkplatz in der Daiserstr. 37; Änderung der zeitlichen Beschränkung
+- TOP 5.3.28.: Bitte um Rückbau der provisorischen Straßenlaterne in der Pfeuferstr.
+- TOP 5.3.29.: (E) + (U) Änderung der Parkplatzanordnung in der Flößergasse (im 6. Stadtbezirk - Sendling) Folgeauftrag
+- TOP 5.3.30.: Fahrradabstellanlagen im Bereich Schäftlarnstraße
+- TOP 5.3.31.: Arbeiten im Straßenraum Mittlerer Ring, ab Passauer Straße (Verlegung einer 110kV-Leitung)
+- TOP 5.3.32.: Fußgängerampel an der Südseite der Kreuzung Implerstraße / Oberländerstraße Errichtung von Fahrradabstellplätzen im Bereich Oberländerstraße 12 und Implerstraße 38
+- TOP 5.3.33.: Tempo 30 in der Schäftlarnstr.
+- TOP 5.3.34.: Eierwurf und Verschmutzung durch Spucke beim Quartiersplatz
+- TOP 5.3.35.: Baumaßnahmen der SWM im Stadtbezirk - Fernwärme-Projekt Aberlestr. 18 - Strom-Projekt Pfeuferstr. 42
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Umwandlung der falsch gebauten Parkplätze vor dem Neubau der GWG in der Hans-Klein-Straße in eine breitere Grünfläche (SPD-Fraktion)
+- TOP 5.4.2.: Antrag auf Förderung aus dem Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“
+- TOP 5.4.3.: Aufstellung einer neuen Sitzbank an der Ecke Valley- / Daiserstr. 50
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Baumaßnahme Hans-Klein-Straße: Stellungnahme und Antrag des BA
+- TOP 5.5.2.: Sommerstraße: • Bericht von der digitalen Abschlussveranstaltung Sommerstraße 2023 am 29.11.2023 • Meldung Sommerstraße 2024
+- TOP 5.5.3.: Runder Tisch zur Bürgerversammlungsempfehlung 20-26 / E 00858 - Lärm und Umweltverschmutzung am Flaucher und an den Isarauen
+- TOP 5.5.4.: Tölzer Straße an aktuelle Anforderungen anpassen (gemeinsamer Antrag von BA 6 und BA 19) - durch den BA19 aktualisierte Fassung
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R “Demokratie im Einsatz – Demokratiemobil München“ vom 09.09.2023 - 10.09.2023“ 1.600,00 € / AZ: 0262.0-6-0450
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Beschlussvorlage "Schul- und Kitabauoffensive – 5. Schulbauprogramm"
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.4.1.: Antrag Umgestaltung Valley Bolzplatz
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Bewerbungsunterlagen zum Projekt: "Vom Weltspieltag zum Weltkindertag 2024"
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Pilot Sports & Entertainment GmbH Lindwurmstr. 165, 80337 München
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Hoftheater im Stemmerhof - Pläne des Theaters als gemeinnütziges Stadtteiltheater
+- TOP 8.3.2.: Bescheide VA öff. Grund/Marktfestsetzung: Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 27.11. bis 23.12.2023
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Kirchenmusik St. Margaret Sachbericht: Verwendung der Zuwendung für die 2. Internationalen Orgelwochen und Or-gelmatineen in St. Margaret München – Jahr 2023
+- TOP 8.5.2.: Einladung Runder Tisch „Nutzung der Theresienwiese“ am 08.12.2023
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 8.5.3.: Protokoll Runder Tisch "Südliche Isar"
+- TOP 2.17.: Obdachlose am Kidlerplatz - Habseligkeiten in Streugutkiste
+- TOP 4.4.3.: Dringlichkeitsantrag Neubau der Großmarkthalle an der Schäftlarnstraße – alle Händler auf dem derzeitigen Großmarkthallengelände kommen in diesem unter
