@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2023-12-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7355290
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7355290
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 07.11.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München Solln e.V.: Erstellung eines Basketspielfeldes 23.581,00€; Az. 0262.0-19-0486
+- TOP 3.3.: (E) Stadtbezirksbudget Helferkreis "Miteinander leben in Forstenried": Aufwandsentschädigung für entstandene Fahrtkosten und weitere Bemühungen der Helfer*innen vom 14.12.2023 bis 30.04.2024 300,00€; Az. 0262.0-19-0487
+- TOP 3.4.: (E) Stadtbezirksbudget Evangelisch-Lutherische Kirchengemeinde München: Festkonzert der Kantorei: Mozart: Krönungsmesse Bachkantate Nr. 61 am 10.12.2023 2.600,00€; Az. 0262.0- 19-0489
+- TOP 3.5.: (E) Stadtbezirksbudget Musicalgruppe ShowAB: Musical "9 to 5" - im Spectaculum Mundi vom 09.04.2024 bis 16.03.2025 5.000,00€; Az. 0262.0-19-0488
+- TOP 3.6.: (E) Stadtbezirksbudget Archiv Geiger GbR: Wochenende anlässlich Rupprecht Geigers Geburtstag 2024 vom 26.01.2024 bis 28.01.2024 1.441,19€; Az. 0262.0-19-0491
+- TOP 3.7.: (E) Stadtbezirksbudget Katholische Öffentliche Bücherei St. Johann Baptist Solln: Aktualisierung des Bestandes mit Schwerpunkt Kinder- und Jugendbücher vom 15.12.2023 bis 15.03.2024 750,00€; Az. 0262.0-19-0493
+- TOP 3.8.: (E) Stadtbezirksbudget Thalkirchner Burschen e.V.: Aufstellen des Thalkirchner Maibaums 2024 vom 20.12.2023 bis 02.05.2024 12.000,00€; Az. 0262.0-19-0492
+- TOP 3.9.: (E) Verbindliche Bestellung einer städtischer Leistungen: Aufstellen von zwei Dialog-Displays zur Verbesserung der Schulwegsicherheit in der Baierbunner Straße
+- TOP 3.10.: (U) Mehrjahresinvestitionsprogramm 2023 bis 2027
+- TOP 3.11.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Picknicktische und -bänke östlich vom Flugzeugspielplatz in Obersendling
+- TOP 3.12.: (E) Bestellung einer städtischen Leistung: Spielgeräte
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Umgang der Stadt München mit möglicher Waldbrandgefahr im 19. Stadtbezirk
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Vollzug der Naturschutzgesetze; Änderung der Verordnung der Landeshauptstadt München über die einstweilige Sicherstellung der Erweiterungsflächen zum Landschaftsschutzgebiet „Sportpark der Firma Siemens südlich der Siemensallee und das Waldstück südlich dieses Parkes“; Sitzungsvorlage Nr. 20-26 / V 11051
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Auswirkungen einer Sperrung der Höglwörther Straße prüfen
+- TOP 5.1.2: Parkplatzsituation für Fahrräder am Thalkirchner Platz
+- TOP 5.2.: (U) Altersbedingter Austausch der Lichtsignalanlage Wolfratshauser Straße / Krankenhaus
+- TOP 5.3.: (A) Einführung eines Parklizenzgebietes im Bereich "Mittersendling"
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Züricher Straße Gefahrzeichen „Kreuzung oder Einmündung“ östlich Winterthurer Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Grünbauerstraße Regelungen im Stich zur Kirche St. Johann Baptist Solln
+- TOP 5.6.: Baustelleneinrichtung für den Neubau der Schulen an der Zielstattstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Ludwig-Werder-Weg 13
+- TOP 6.2.2: Königswieser Straße 7
+- TOP 6.2.3: Reismühlenstraße 4
+- TOP 6.2.4: Gautinger Straße 4
+- TOP 6.2.5: - abgesetzt -
+- TOP 6.2.6: - abgesetzt -
+- TOP 6.2.7: Zentralländstraße 49
+- TOP 6.2.8: Bannwaldseestraße 69 (T)
+- TOP 6.2.9: Bannwaldseestraße 67 (T)
+- TOP 6.2.10: Münchner Straße 25
+- TOP 6.2.11: Eberlestraße 11
+- TOP 6.2.12: Oppenrieder Straße 49
+- TOP 6.2.13: Appenzeller Straße 111 (VB)
+- TOP 6.2.14: Strähuberstraße 11
+- TOP 6.3.: Jury-Teilnahme: Quartier Obersendling in München: Hochpunkt mit Flachbau (Baufeld F)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) FairTeiler in Fürstenried
+- TOP 7.3.: (U) Verlängerung und Umbau einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort Meglinger Straße 7
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Historische Gleisanlage in Kulturgeschichtspfad aufnehmen
+- TOP 9: Verschiedenes
+- TOP 7.1.1: Einsatz von AKIM im Wohnquartier Constanze-Hallgarten-Straße, Christel-Küpper-Platz und Eleonore-Romberg-Straße
+- TOP 7.1.2: Versorgung Besucher*innen Maria-Einsiedel-Bad sichern
+- TOP 7.1.3: Herrmann-von Siemens-Sportpark: Öffnung der ehemaligen Freisportanlage, aktueller Planungsstand und Anpassung des Raum- und Bedarfsprogramms
