@@ -162,8 +162,8 @@ Ordentliche Gerichtsbarkeit und Staatsanwaltschaften
 |  |  | f) | soweit sie Eide und eidesstattliche Versicherungen betreffen | 30 Jahre |  |  |
 |  |  | g) | alle übrigen | 30 Jahre |  |  |
 |  |  | h) | Entscheidungen und Vergleiche in den unter Buchstabe a bis d aufgeführten Angelegenheiten sowie Urkunden, auf die darin Bezug genommen ist | 30 Jahre |  | Zu den Entscheidungen usw. im Sinne dieser Vorschrift gehören auch die zu den Akten genommenen beglaubigten Abschriften der Entscheidungen der höheren Instanzen. |
-| 1114.14 | III | Standesamtssachen | 30 Jahre |  |  |
-|  |  | a) | Sammelakten mit den Entscheidungen über die Erteilung der Vollstreckungsklausel für vollstreckbare Urkunden, die von Beamten der Jugendämter aufgenommen worden sind | 30 Jahre |  |  |
+| 1114.14 | III | Standesamtssachen | 30 Jahre |  | Akten zu Verfahren nach dem Transsexuellengesetz sind mindestens bis zum 31. Dezember 2030 aufzubewahren. |
+| 1114.15 |  | a) | Sammelakten mit den Entscheidungen über die Erteilung der Vollstreckungsklausel für vollstreckbare Urkunden, die von Beamten der Jugendämter aufgenommen worden sind | 30 Jahre |  |  |
 |  |  | b) | Sammelakten mit den Entscheidungen über die Erteilung weiterer vollstreckbarer Ausfertigungen notarieller Urkunden | 30 Jahre |  |  |
 | 1114.16 |  | Sammelakten über Wechsel- und Scheckproteste | 5 Jahre |  |  |
 | 1114.17 | IV | Akten über Verfügungen von Todes wegen (Testamente, Erbverträge, Erklärungen gemäß § 13 EHRV) |  |  |  |
@@ -385,7 +385,7 @@ Ordentliche Gerichtsbarkeit und Staatsanwaltschaften
 |  |  | j) | sonstige | 5 Jahre | auf Strafe lautende Urteile, Strafbefehle, Vollstreckungsnachweise usw. (siehe Nr. 1153.1) |  |
 | 1153.1 |  | a) | die Urteile und Strafbefehle, in denen rechtskräftig auf Strafe (hierzu zählen nicht Erziehungsmaßregeln und Zuchtmittel nach dem JGG) erkannt ist, einschließlich der Gesamtstrafenbeschlüsse, verfahrenseinleitende Dokumente und weitere Nachweise, die für die Vollstreckbarkeitserklärung erforderlich sind, sowie die Nachweise über die Vollstreckung der Strafe; Anklagen, auf deren zugelassenen Anklagesatz Bezug genommen ist, Anklagen nach § 212a Abs. 2 Satz 2 StPO in der bis zum 30. November 1994 geltenden Fassung und § 418 Abs. 3 Satz 2 StPO; Strafbefehle, Strafbefehlsanträge; bei den Akten befindliche Abbildungen, auf die in den Urteilen Bezug genommen ist; Urteile und sonstige Entscheidungen über die Kostenerstattungspflicht und über die Entschädigungspflicht für Strafver- |  |  | Ist eine Geldstrafe durch Teilzahlungen getilgt, so ist nur der Nachweis über die letzte Teilzahlung aufzubewahren. Urteile und Beschlüsse, in denen eine Maßregel der Besserung und Sicherung angeordnet ist; verfahrensbeendende Entscheidungen, Gutachten über Feststellung der Schuldunfähigkeit oder psychischer Krankheit aus den unter Nr. 1153.0 Buchstabe d genannten Akten. |
 |  |  |  | folgungsmaßnahmen; Entscheidungen nach § 436 StPO; Entscheidungen nach § 2 Abs. 1 des DNA-Identitätsfeststellungsgesetzes in der bis zum 31. Oktober 2005 geltenden Fassung und § 81g StPO; Kostenfestsetzungsbeschlüsse sowie Entscheidungen, in denen eine Entschädigung nach den §§ 10 und 11 StrEG zuerkannt worden ist; die Beschlüsse oder Mitteilungen über den Erlass oder die Milderung der Strafe sowie über die Anordnung der Nichtaufnahme in ein Führungszeugnis (§ 39 BZRG) oder die Tilgung (§§ 48 und 49 BZRG) | 30 Jahre |  |  |
-|  |  | b) | nicht freisprechende Urteile sowie die dazugehörigen Vollstreckungsnachweise aus den unter Nr. 721 Buchstabe h genannten Akten | 10 Jahre |  |  |
+|  |  | b) | nicht freisprechende Urteile sowie die dazugehörigen Vollstreckungsnachweise aus den unter Nr. 1153.0 Buchstabe h genannten Akten | 10 Jahre |  |  |
 | 1153.2 | Zs | Sammelakten über die Beschwerden gegen das Verfahren eines Staatsanwalts (Amtsanwalts), die nicht zu den Hauptakten genommen sind | 5 Jahre |  |  |
 | 1153.3 | Ausl. | Auslieferungssachen | 10 Jahre |  |  |
 | 1153.4 |  | Handakten über Revisionen in Strafsachen und über Rechtsbeschwerden in Bußgeldsachen | 5 Jahre |  |  |
@@ -440,7 +440,7 @@ Fachgerichtsbarkeiten
 |  |  | b) | die Schutzschriften enthalten | 1 Jahr |  |  |
 | Unterabschnitt 2 Rechtssachen |
 | 1232.0 |  | Verfahrensakten | 10 Jahre | siehe Nr. 1232.1 |  |
-| 1231.1 |  | Zur Zwangsvollstreckung geeignete Titel, Urteile, verfahrensbeendende Beschlüsse, Vorbescheide, Bescheide, Vergleiche, Anerkenntnisse, sowie Dokumente, auf die in der Entscheidungsformel Bezug genommen ist | 30 Jahre |  | Zu den Urteilen usw. im Sinne dieser Vorschrift gehören neben den Zustellungsnachweisen auch die zu den Akten genommenen beglaubigten Abschriften von Entscheidungen der höheren Instanzen sowie Leseabschriften, sofern das volle Rubrum in keinem anderen in der Sache aufzubewahrenden Dokument enthalten ist. Ausgenommen sind zur Zwangsvollstreckung geeignete Titel, die durch eine spätere Klage- oder Antragsrücknahme wirkungslos geworden sind. |
+| 1232.1 |  | Zur Zwangsvollstreckung geeignete Titel, Urteile, verfahrensbeendende Beschlüsse, Vorbescheide, Bescheide, Vergleiche, Anerkenntnisse, sowie Dokumente, auf die in der Entscheidungsformel Bezug genommen ist | 30 Jahre |  | Zu den Urteilen usw. im Sinne dieser Vorschrift gehören neben den Zustellungsnachweisen auch die zu den Akten genommenen beglaubigten Abschriften von Entscheidungen der höheren Instanzen sowie Leseabschriften, sofern das volle Rubrum in keinem anderen in der Sache aufzubewahrenden Dokument enthalten ist.Ausgenommen sind zur Zwangsvollstreckung geeignete Titel, die durch eine spätere Klage- oder Antragsrücknahme wirkungslos geworden sind. |
 | Abschnitt 4Gerichte der Finanzgerichtsbarkeit |
 | Unterabschnitt 1 Allgemeines |
 | 1241.0 | AR | Akten |  |  |  |
@@ -538,7 +538,7 @@ Bundespatentgericht
 | 2600.12 | LiQ | Akten über einen Antrag auf Erlass einer einstweiligen Verfügung in Zwangslizenzverfahren | 20 Jahre |  |  |
 | 2600.13 | LiR | Akten über die Klage auf Rücknahme einer Zwangslizenz | 20 Jahre |  |  |
 | 2600.14 | W (pat) | Beschwerdeakten in Patentsachen, in denen das Beschwerdeverfahren geführt hat zur |  |  |  |
-|  |  | a) | Bekanntmachung einer Patentanmeldung (nach der bis 31. Dezember 1980 geltenden Fassung des Patentgesetztes) | 30 Jahre |  |  |
+|  |  | a) | Bekanntmachung einer Patentanmeldung (nach der bis 31. Dezember 1980 geltenden Fassung des Patentgesetzes) | 30 Jahre |  |  |
 |  |  | b) | Erteilung eines Patents | 30 Jahre |  |  |
 |  |  | c) | Aufrechterhaltung eines Patents | 30 Jahre |  |  |
 |  |  | d) | beschränkten Aufrechterhaltung eines Patents | 30 Jahre |  |  |
