@@ -1,0 +1,91 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2023-12-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7352823
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7352823
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Zuschuss für eine Theaterpädagog*in in der Carl-von-Linde Realschule
+- TOP 4.2.: Verkehrssituation Theresienwiese / Oktoberfestaufbau
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Schwanthalerstr. 142
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Kazmairstraße 22
+- TOP 6.2.2.: Bauvorhaben Landsberger Str. 45
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten
+- TOP 6.3.2.: Sanierung des ehemaligen Parkwärterhauses zur zukünftigen Nutzung als Jugendeinrichtung
+- TOP 6.3.3.: Wohnungsgenossenschaft München-West eG - Baupost 4-23; "Gelber Block"
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Neueröffnung Unterkunft Ridlerstr. 13-15
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Veranstaltung 18Jetzt - Ergebnisse Bezirksausschüsse
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Weihnachtsmarkt „Weihnachtszauber am Bavariapark“ vom 27.11.2023 bis 23.12.2023
+- TOP 8.3.2.: Versammlung Theresienhöhe / Forum Schwanthalerhöhe am 02.12.2023
+- TOP 8.3.3.: Asphaltierungsarbeiten auf der Theresienwiese
+- TOP 8.3.4.: Runder Tisch "Nutzung der Theresienwiese" am 08.12.2023
+- TOP 8.3.5.: Versammlung Landsberger Straße am 01.12.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Tulbeckstraße 5 - 5a
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Allgemeinverfügung zum Böllerverbot 2023/24
+- TOP 9.3.2.: Sachstand des Projektes "Spielstraße Schnaderböck"
+- TOP 9.3.3.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.4.: Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 9.3.5.: Obstbäume und essbare Pflanzen auf der Schwanthalerhöhe
+- TOP 9.3.6.: Einrichtung einer Fußgängerquerung auf der Schießstätterstraße
+- TOP 9.3.7.: Aufhebung eines Kfz-Stellplatzes im Bereich der Schießstättstraße 2 zur Einrichtung von Fahrradstellplätzen
+- TOP 9.3.8.: Neue Website für Grünpaten - urbanes Grün
+- TOP 9.3.9.: Umgestaltung und Aufwertung des Heimeranplatzes; BA-Antrags-Nr. 14-20 / B 06622 - Fristverlängerung
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Green City e.V. Durchführung und Weiterentwicklung des Gemeinschaftsgartens MK2 vom 01.01. -31.12.2024 3.516,00€; Az. 0262.0-8-0373
+- TOP 10.1.2.: (E) Stadtbezirksbudget Westend-Drachen Elterninitiative e.V. Küchenrenovierung ab 15.12.2023 6.531,60€; 0262.0-8-0376
+- TOP 10.1.3.: (E) Stadtbezirksbudget Elternbeirat des Evangelischen Kinderhauses im Westend 10wöchiges Tanzprojekt für 3Jährige, durchgeführt von Fokus Tanz e.V. vom 01.02. -30.06.2024 1.130,00€; Az. 0262.0-8-0374
+- TOP 10.1.4.: (E) Stadtbezirksbudget Zentrum für kindliche Mehrsprachigkeit e.V. Jubiläumsfeier 25 Jahre KIKUS am 01.12.2023 3.100,00€; Az. 0262.0-8-0375
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Restmittel Stadtbezirksbudget
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Mehrjahresinvestitionsprogramm 2023 - 2027
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 7.3.2.: - NACHTRAG - (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 9.3.10.: - NACHTRAG - Bewohnerparken in der Bergmannstraße südlich der Kazmairstraße bis nördlich der Heimeranstraße
+- TOP 7.3.3.: - NACHTRAG - Dauerhafte Beschilderung "Spielplatz ohne Rauch und Rausch"
+- TOP 8.3.6.: - NACHTRAG - Geplante Veranstaltungen in Grünanlagen und auf öffentlichem Grund im Jahr 2024
+- TOP 4.3.: - NACHTRAG - Bericht über die BA-Arbeit an der Carl-von-Linde-Realschule
+- TOP 9.3.11.: - NACHTRAG - Verlegung der Lieferzone Bergmannstraße 47
+- TOP 7.3.4.: - NACHTRAG - Übersicht über die Unterkünfte für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.5.: - NACHTRAG - Einrichtung einer Wasserstelle mit Trinkwasser am Georg-Freundorfer-Platz
+- TOP 6.2.3.: Bauvorhaben Parkstr. 1
+- TOP 9.3.12.: - NACHTRAG - Realisierung eines Rasengleises auf der Trambahnstrecke in der Landsberger Straße zwischen dem Mittleren Ring und der Friedenheimer Brücke - Fristverlängerung
+- TOP 10.1.5.: - NACHTRAG - (E) Stadtbezirksbudget DPSG Stamm St. Rupert Neues Küchenzelt 3.065,85€; Az. 0262.0-8-0377
+- TOP 9.3.13.: - NACHTRAG - Westendstr. 35 und 47; Vollsperrung wegen Fernwärmearbeiten im Straßenraum
+- TOP 9.3.14.: - NACHTRAG - Sitzungsvorlage Nr. 20-26 / V11252 zum Pilotprojekt-Superblocks in München
+- TOP 4.4.: - NACHTRAG - Schulwegsicherheit; kurze Fußgänger*innengrünphase an der Kreuzung Bavariaring und Schwanthalerstrasse
