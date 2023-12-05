@@ -1,0 +1,140 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2023-12-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7393690
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7393690
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Anfrage Bebauungsplan Nymphenburger Str. 16
+- TOP 6.2.: Antwortschreiben zur geplanten Parkregelung in der Linprunstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte
+- TOP 7.4: Beauftragter für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Hunde im Arnulfpark
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Bilanz der Baumpflanzungen in der Kreittmayrstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 43-46
+- TOP 2.1.2.: WEB-Listen der LBK: 44-45
+- TOP 2.1.3.: Schellingstr. 124
+- TOP 2.1.4.: Ludwigstr. 8
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative "Hochbeete" Hochbeete in der Georgenstraße vom 01.03. - 15.08.2024 1.639,30 Euro, Az.: 0262.0-3-0493
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Görresstr. 46
+- TOP 3.2.2.: Kaulbachstr. 26b
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Augustenstr. 59: Abdruck der Baugenehmigung
+- TOP 5.2.: Zieblandstr. 21: Abdruck der Baugenehmigung und Vorbescheid
+- TOP 5.3.: Linprunstr. 6, Obergeschoss 5 Links: Modernisierungsmaßnahmen
+- TOP 5.4.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 5.5.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 03 (Maxvorstadt) und 09 (Neuhausen-Nymphenburg) Satzungsbeschluss Satzung „St.-Benno-Viertel“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „St.-Benno-Viertel“) Stadtbezirk 03 Maxvorstadt Stadtbezirk 09 Neuhausen-Nymphenburg
+- TOP 5.6.: Allgemeinverfügung Böllerverbot 2023/2024
+- TOP 5.7.: Zieblandstr. 5, DG: Montage einer Photovoltaikanlage
+- TOP 5.8.: Vorabexemplar Sitzungsvorlage des RKU für den Ausschuss für Klima- und Umweltschutz am 14.11.2023_Grundsatzbeschluss III_Fortschreibung des Klimabudgets
+- TOP 5.9.: (U) Neueröffnung von Unterkünften zur Unterbringung Geflüchteter an den Standorten • Frankfurter Ring 20 - 22 • Nymphenburger Straße 48 • Ridlerstraße 13 und 15 • Schwanseestraße 14 und 16 Verlängerung und Umbau einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort • Meglinger Straße 7 3. Stadtbezirk – Maxvorstadt 8. Stadtbezirk – Schwanthalerhöhe 11. Stadtbezirk – Milbertshofen-Am Hart 17. Stadtbezirk – Obergiesing-Fasangarten 19. Stadtbezirk – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP 5.10.: (U) Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Planung und Neueröffnung an den Standorten • Anton-Ditt-Bogen 5 • Ottobrunner Straße 28g • Schultheißstraße (Planungsgebiet Muttenthalerstraße) Vorübergehender Aufbau einer Zeltstadt auf dem Gelände Messe-München • Zeltstadt 3 Verlängerung der bestehenden Unterkunft für Geflüchtete am Standort • Ottobrunner Straße 28h Verlängerung bestehender Hotels als Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 Verlängerung bestehender Leichtbauhallen als Unterkünfte für Geflüchtete an den Standorten • Maria-Goeppert-Mayer-Straße 21 • Neuherbergstraße 24 • Gerty-Spies-Straße 9 • Hansastraße 55 • Kronstadter Straße 36 • Hachinger-Bach-Straße 19 Verlängerung der dezentralen Erstanlaufstelle für Geflüchtete aus der Ukraine am Standort • Dachauer Straße 122 Eröffnung der Übergangswohnheime durch die Regierung von Oberbayern an den Standorten • Bachbauernstraße 4 • Winfriedstraße 3a / Christoph-Rapparini-Bogen 6
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Verkehrskoordinator*in
+- TOP 1.1.2.: Anregung Verkehrsberuhigung
+- TOP 1.1.3.: nördliche Türkenstraße - Abbau von Parkhinweisschildern
+- TOP 1.1.4.: WC-Anlage U-Bahn Josephsplatz
+- TOP 1.1.5.: Umgestaltung Augustenstr.
+- TOP 1.1.6.: Stachus: bitte den Radweg beim Übergang farblich markieren
+- TOP 1.1.7.: Radstellplätze Georgen/Kurfürstenstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Grüner Pfeil Radfahrer
+- TOP 1.2.2.: Tischtennisplatten am Rudi-Hierl-Platz
+- TOP 1.2.3.: Verbesserungen am Arnulfsteg
+- TOP 1.2.4.: entfällt
+- TOP 1.2.5.: Sachstand Augustenstr. 103-105
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreittmayrstraße.Ferdinand-Miller-Platz.Z. 283 StVO, 3. Stadtbezirk
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Gabelsbergerstr. 54 - Sitzgelegenheiten
+- TOP 2.2.2.: Mobiler Fahrradständer Ludwigstr. 21
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Ludwigstr. 10 - Freischankfläche
+- TOP 2.3.2.: Amalienstr. 45 - Freischankfläche
+- TOP 2.3.3.: Schellingstr. 18 Antrag Freischankfläche und Schanigarten
+- TOP 2.3.4.: Antrag auf eine Freischankfläche in Parkständen (sog. Schanigarten) - Stehausschank "Giesinger Bräu Stehausschank", Augustenstr. 90
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen a) Zirkus-Krone b) Lothstr. 64-82
+- TOP 3.2.: Einrichtung von Fahrradstellplätzen im Bereich Linprunstr. 35-37
+- TOP 3.3.: Anträge auf unveränderte Fortführung der Gaststättenbetriebe a) Tutu Kitchen b) Prime Kebap Maxvorstadt
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Gleiserneuerung Barer. / Nordendstr.
+- TOP 3.6.: Bez. 3, Wittelsbacherplatz | Erlaubnis StVO z.K. | "Mittelalterlicher Weihnachtsmarkt" vom 27.11. - 23.12.2023 (Aufbau ab 13.11.2023)
+- TOP 3.7.: SWM/MVG: Baumaßnahmen an den U-Bahnhöfen Theresienstraße, Josephsplatz, Hohenzollernplatz
+- TOP 2.2.4.: Bez. 3, Feuerwerksanzeige am 01.01.2024 in 80333 München, Sophienstr. 28, Dach des Charles Hotel
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Wasserspender an Sportplätzen
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Sport im öffentlichen Raum fördern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat des Städtischen Luisengymnasiums München Präventionstraining für Schüler*innen von Mitte Dezember 2023 - Januar 2024 3.750,00 Euro, Az.: 0262.0-3-0496
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2023-2027
+- TOP 4.2.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 4.3.: Josephsplatz, Mitteilung über Spielgeräte
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Studio Isabella
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Empfangshalle GbR Jahresgaben 2023 vom 08.12.2023 - 26.01.2024 2.100,00 Euro, Az.: 0262.0-3-0497
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Unterausschusstermine für 2024 festlegen
+- TOP 1.2.: Zugang zum GeoPortal München für BA-Mitglieder
+- TOP 1.3.: Kinder- und Bürgerfest 2024: Ort und Datum
+- TOP 2.: Sonstiges
+- TOP 2.1.: Standortvorschlag für den neuen Schaukasten in der Gegend um den alten Schaukasten in der Theresienstr. 21
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.5.: Steuercampus München Marsstr.
+- TOP 3.2.3.: Steuercampus München Marsstr.
+- TOP 2.1.6.: Augustenstr. 33a: Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein Wohn- und Geschäftshaus mit einer Büroeinheit und acht Wohneinheiten - ÄNDERUNGSANTRAG zu 1.2-2022-17175-22 hier: Neue Dachterrasse
+- TOP 2.2.3.: Sitzbank im Bereich Georgenstraße / Hiltenspergerstraße.
+- TOP 5.11.: Green City "Mehr Bäume für die Steinheil- und Enhuberstraße"
+- TOP 5.12.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben: „Änderung der bestehenden Eisenbahnbetriebsanlage Bahnhof München Hbf (Bahnhof Nr. 4234) samt weiterer Eisenbahnbetriebsanlagen, PFA 2 (Ersatz des vorhandenen Empfangsgebäudes durch einen Neubau)“
+- TOP 2.2.: Verhüllung des Neptunbrunnens
+- TOP 2.1.7.: Augustenstr. 73: Instandsetzung einer Tiefgarage I 28.12.2023
+- TOP 2.2.: (E) Stadtbezirksbudget Handballcampus München gGmbH Handball Aktionstage in Grundschulen von Januar - Juli 2024 4.500,00 Euro, Az.: 0262.0-3-0499
