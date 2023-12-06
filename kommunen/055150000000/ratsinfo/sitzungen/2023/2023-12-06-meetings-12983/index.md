@@ -1,0 +1,70 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-12-06T17:00:00+01:00
+- Ende: 2023-12-06T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12983
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12983
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00540488.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 07.11.2023
+- TOP 4: Eingänge/Mitteilungen
+- TOP 5: Wohnen
+- TOP 5.1: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2022 - zur Kenntnis genommen
+- TOP 6: Finanzen
+- TOP 6.1: Westfälischer Zoologischer Garten Münster GmbH: Bestellung des Abschlussprüfers für das Geschäftsjahr 2023 - einstimmig beschlossen
+- TOP 6.2: Betrauungsakt Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 6.3: Betrauungsakt Münster Marketing - einstimmig beschlossen
+- TOP 6.4: Betrauungsakt Wirtschaftsförderung Münster GmbH (WFM) - einstimmig beschlossen
+- TOP 6.5: Betrauungsakt Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 6.6: Betrauungsakt für die eigenbetriebsähnliche Einrichtung Theater Münster - einstimmig beschlossen
+- TOP 6.7: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - einstimmig beschlossen
+- TOP 6.8: SAP S/4 HANA Digitalisierungsprojekt - zur Kenntnis genommen
+- TOP 6.9: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 6.10: KonvOY GmbH: Erhöhung der konzerninternen Kreditlinie - einstimmig beschlossen
+- TOP 6.11: Antrag an den Rat Nr. A-R/0040/2023 "Münster einbürgerungsfreundlicher gestalten – Einbürgerungszahlen erhöhen, Wartezeiten verkürzen, Informationen verbessern" - einstimmig beschlossen
+- TOP 6.12: Wirtschaftsplan 2024 der citeq - einstimmig beschlossen
+- TOP 6.13: Ersthelfer App - von der Tagesordnung abgesetzt
+- TOP 6.14: Bewohnerparkausweis-Gebührenverordnung - mehrheitlich beschlossen
+- TOP 6.15: Satzung zur Änderung der Anlage "Entgelttarif" der Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 6.16: Wirtschaftsplan 2024 von Münster Marketing - einstimmig beschlossen
+- TOP 6.17: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 6.18: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 6.19: Überleitung der außerunterrichtlichen Angebote (OGS) der Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 6.20: Überleitung der außerunterrichtlichen Angebote (OGS) der Clemensschule und Paul-Gerhardt-Schule - einstimmig beschlossen
+- TOP 6.21: Überleitung der außerunterrichtlichen Angebote (OGS) der Nikolaischule - einstimmig beschlossen
+- TOP 6.22: Überleitung der außerunterrichtlichen Angebote (OGS) der Norbertschule - einstimmig beschlossen
+- TOP 6.23: Betriebliche Kindertageseinrichtung der Provinzial Holding AG - einstimmig beschlossen
+- TOP 6.24: Errichtungs- und Baubeschluss für den Neubau einer Lagerhalle auf dem Betriebshofgelände Höltenweg - einstimmig geändert beschlossen
+- TOP 6.25: Neufassung der Sportförderrichtlinie der Stadt Münster zum 01.01.2024 - einstimmig beschlossen
+- TOP 6.26: Gewährung einer Beihilfe an den SC Preußen Münster im Jahr 2024 für den Betrieb des Stadions an der Hammer Straße - einstimmig beschlossen
+- TOP 6.27: Errichtungsbeschluss einer Beachvolleyballhalle - einstimmig beschlossen
+- TOP 6.28: Änderung der Tarifbestimmungen, Haus- und Badeordnung der städtischen Bäder - mehrheitlich geändert beschlossen
+- TOP 6.28.1: Änderung der Tarifbestimmungen, Haus- und Badeordnung der städtischen Bäder
+- TOP 6.29: Erweiterung der bestehenden Wohnungsloseneinrichtung für Familien an der Nieberdingstraße 23 - einstimmig beschlossen
+- TOP 6.30: Vertragsverlängerung Ateliergemeinschaft Schulstraße und Zukunftswerkstatt Kreuzviertel e.V. - einstimmig beschlossen
+- TOP 6.31: Baubeschluss - einstimmig beschlossen
+- TOP 6.32: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - von der Tagesordnung abgesetzt
+- TOP 6.33: 1. Rückbau der Einfachsporthalle auf dem Gelände der ehemaligen Josefschule, Stadtbezirk Mitte - einstimmig geändert beschlossen
+- TOP 6.34: Errichtungs und Baubeschluss - einstimmig beschlossen
+- TOP 6.35: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 6.36: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2024 - einstimmig beschlossen
+- TOP 6.37: Abfallgebühren 2024 - einstimmig beschlossen
+- TOP 6.38: Straßenreinigungsgebühren 2024 - einstimmig beschlossen
+- TOP 6.39: Änderung der Friedhofssatzung und der Friedhofsgebührensatzung - einstimmig beschlossen
+- TOP 6.39.1: Änderung der Friedhofssatzung und der Friedhofsgebührensatzung
+- TOP 6.40: Beitritt der Stadt Münster zum Förderverein der Deutschen Gartenamtsleiterkonferenz (GALK e.V.) - einstimmig beschlossen
+- TOP 7: Neue Stadtquartiere am Dortmund-Ems-Kanal: Auslobung eines Realisierungswettbewerbs - mehrheitlich beschlossen
+- TOP 8: Ergebnisse der Wohnungs- und Arbeitsstättenbedarfsprognosen - zur Kenntnis genommen
+- TOP 9: Beratung des Haushaltsplanes 2024 (inkl. des Stellenplanes 2024) sowie der mittelfristigen Ergebnis- und Finanzplanung bis 2027
+- TOP 9.1: Beratung als Fachausschuss und als Vorberatungsgremium für den Rat
+- TOP 9.2: Haushaltsplan der Stadt Münster für das Haushaltsjahr 2024 - mehrheitlich geändert beschlossen
+- TOP 10: Verschiedenes
