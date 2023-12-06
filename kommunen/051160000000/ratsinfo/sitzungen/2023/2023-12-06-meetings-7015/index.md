@@ -1,0 +1,99 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-12-06T17:00:00+01:00
+- Ende: 2023-12-06T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7015
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7015
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00228147.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00228147.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00228147.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptausschusses vom 06.09.2023 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.1: Niederschrift über die Sitzung des Hauptausschusses vom 09.12.2020 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.2: Niederschrift über die Sitzung des Hauptausschusses vom 28.01.2021 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.3: Niederschrift über die Sitzung des Hauptausschusses vom 09.02.2021 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.4: Niederschrift über die Sitzung des Hauptausschusses vom 18.03.2021 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.5: Niederschrift über die Sitzung des Hauptausschusses vom 12.05.2021 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 1.6: Niederschrift über die Sitzung des Hauptausschusses vom 22.06.2021 - öffentlicher Teil - - Es liegen keine Wortmeldungen vor.
+- TOP 2: Dienstreise von Mitgliedern des Integrationsrates - Von Verwaltung zurückgezogen
+- TOP 3: Bestellung der stellvertretenden Schriftführenden für die Sitzungen des Hauptausschusses der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 4: Markenprozess Standort Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 4.1: Eignungs- und Wertungskriterien Verhandlungsverfahren ohne Teilnahmewettbewerb zur Beauftragung der Durchführung eines forschungsprojekts zum Aufbau von Standardrichtlinien in der Drohnenlogistik für das Stadtgebiet Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 5: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2022 - Einstimmiger Beschluss
+- TOP 6: Jahresabschluss 2022 - Beschluss über die Verwendung des Jahresergebnisses 2022 gemäß § 96 GO - Einstimmiger Beschluss
+- TOP 7: Umwidmung von Haushaltspositionen im Haushalt 2023; hier: Fraktionsantrag SPD: GRÜNE, FDP vom 14.11.2023 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Wirtschaftsplan 2024 der mags - Abweichende Beschlussempfehlung
+- TOP 9: Siebter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 10: Schaffung von präventiven Angeboten zur Unterstützung von Familien mit vorübergehendem Unterstützungsbedarf (§ 20 Kinder- und Jugend Stärkungsgesetz) - Einstimmiger Beschluss
+- TOP 11: Wirtschaftsplan des Gebäudemanagement Mönchengladbach (gmmg) für das Jahr 2024 - Einstimmiger Beschluss
+- TOP 12: Kanalbenutzungsgebührensatzung - Einstimmiger Beschluss
+- TOP 13: Erster Nachtrag zur Betriebssatzung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 14: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ gemäß § 13 I der Betriebssatzung für das Wirtschaftsjahr 2024 - Mit Stimmenmehrheit beschlossen
+- TOP 15: Entwurf des Haushaltes 2024; Haushaltssatzung einschließlich Anlagen - Mit Stimmenmehrheit beschlossen
+- TOP 15.1: Entwurf des Haushaltes 2024; Haushaltssatzung einschließlich Anlagen - Von Verwaltung zurückgezogen
+- TOP 15.2: Änderungsantrag: Beratung des Haushaltes 2024 - Mit Stimmenmehrheit beschlossen
+- TOP 15.3: Stellenplan 2024 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15.3.1: Haushalt 2024: Antrag zum Stellenplan 2024; hier Antrag der CDU-Fraktion vom 22.11.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 15.4: Vorlage 2639/X: Beratung des Entwurfs des Haushaltes 2024, hier: Förderung der Schwimmassistenz - Einstimmiger Beschluss
+- TOP 15.5: Erstellung eines Kunstrasenplatzes in Broich-Peel - Vom Antragsteller zurückgezogen
+- TOP 15.5.1: Haushalt 2024 - Projekt "Kunstrasen SC Broich-Peel" - Mit Stimmenmehrheit abgelehnt
+- TOP 15.6: Autarker Anbau Serviceräume am PZ des Schulzentrums in Rheindahlen - Mit Stimmenmehrheit abgelehnt
+- TOP 15.7: Antrag zur Beschlussvorlage 2636/X: Beratung des Entwurfs des Haushaltes 2024; hier: Jugendarbeit in Wickrath - Vom Antragsteller zurückgezogen
+- TOP 15.8: Antrag zur Beschlussvorlage 2636/X; Beratung des Entwurfs des Haushaltes 2024; hier: Sanierung Gebäude Rathaus Wickrath - Vom Antragsteller zurückgezogen
+- TOP 15.9: Antrag zur Bereitstellung von zusätzlichen Mitteln im Haushalt 2024 zum Ausbau der Bendhütter Straße - Vom Antragsteller zurückgezogen
+- TOP 15.10: Antrag zur Bereitstellung von Mitteln im Haushalt 2024 zur Fortführung der Gestaltung des Dorfangers in Bettrath, hier die energetische Sanierung - Vom Antragsteller zurückgezogen
+- TOP 15.11: Antrag zur Bereitstellung von Mitteln im Haushalt 2024 zur Fortführung der Sanierungsarbeiten an der BZA Neuwerk - Vom Antragsteller zurückgezogen
+- TOP 15.12: Antrag zur Bereitstellung von Mitteln im Haushalt 2024 zur Erstellung des Spielplatzes am Kindergarten Uedding - Vom Antragsteller zurückgezogen
+- TOP 15.13: Antrag zur Bereitstellung von Mitteln im Haushalt 2024 zur Neugestaltung der Verkehrsberuhigung Stiegerfeldstraße - Vom Antragsteller zurückgezogen
+- TOP 15.14: Antrag zur Bereitstellung von zusätzlichen Mitteln im Haushalt 2024 zur Prospektion des Planungsgebietes Neue Mitte Giesenkirchen - Vom Antragsteller zurückgezogen
+- TOP 15.15: Antrag zur Bereitstellung von zusätzlichen Mitteln im Haushalt 2024 für die Herstellung der Straße An den Hüren - Vom Antragsteller zurückgezogen
+- TOP 15.16: Antrag zur Bereitstellung von zusätzlichen Mitteln im Haushalt 2024 für die Prüfung der Neugestaltung des Platzes Neuwerker Str./Neusser Str. - Vom Antragsteller zurückgezogen
+- TOP 15.17: Antrag zur Bereitstellung von zusätzlichen Mitteln im Haushalt 2024 für die Prüfung der Anbindung des Neuen Wohngebiets parallel der Hansastraße an die L390 - Vom Antragsteller zurückgezogen
+- TOP 15.18: Antrag zur Bereitstellung von Mitteln im Haushalt 2024 zur Prüfung zur Errichtung einer Linksabbiegerspur von der Mülforter Straße in die Straße Langmaar - Vom Antragsteller zurückgezogen
+- TOP 15.19: Vorziehen der Planung "Nordspange" - Vom Antragsteller zurückgezogen
+- TOP 15.20: "Teilbewirtschaftete Quartiersgarage" - Vom Antragsteller zurückgezogen
+- TOP 15.21: Planungskosten für Turnhalle Venn - Vom Antragsteller zurückgezogen
+- TOP 15.22: Umsetzung der konsekutiven Verkehrskonzepte zum Erreichen einer nachhaltigen Mobilitätsplanung- hier: Vorziehen von Maßnahmen des LKW-Routenkonzepts im Haushalt - Vom Antragsteller zurückgezogen
+- TOP 15.23: Haushalt - Mobile ökologische Toilettenanlagen - Vom Antragsteller zurückgezogen
+- TOP 15.24: Haushalt 2024 - Projekt "Open Sunday" - Vom Antragsteller zurückgezogen
+- TOP 15.25: Haushalt 2024 - Mittel flexible Haushaltsführung an Schulen - Vom Antragsteller zurückgezogen
+- TOP 15.26: Haushalt 2024 - Mittel SingPause an Grundschulen - Vom Antragsteller zurückgezogen
+- TOP 15.27: Haushalt 2024 - Fortbildungsmaßnahmen für MitarbeiterInnen - Vom Antragsteller zurückgezogen
+- TOP 16: Beteiligung der Stadt Mönchengladbach an der Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beteiligung der WFMG - Wirtschaftsförderung Mönchengladbach GmbH; hier: Gründung der T7 Management GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 18: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Erweiterung des Gesellschafterkreises der WFMG - Mit Stimmenmehrheit beschlossen
+- TOP 19: Beteiligung an der NEW AG - Einstimmiger Beschluss
+- TOP 20: Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 und Folgebericht zu BV 2561/X - Kenntnisnahme
+- TOP 21: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (3. Nachweisung) - Kenntnisnahme
+- TOP 22: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 12.900.000 € im Bereich "Hilfe zur Erziehung" - Mit Stimmenmehrheit beschlossen
+- TOP 23: Fünfter Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Mönchengladbach (Abfallsatzung - AbfS -), zum Siebter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 24: Vierter Nachtrag zur Satzung für die Friedhöfe in der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 25: 5. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 26: Ordnungsbehördliche Verordnung zum Schutz freilebender Katzen im Gebiet der Stadt Mönchengladbach (Katzenschutzverordnung) - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 26.1: Änderungsantrag zur Beratungsvorlage Nr. 2672/X: Hier: Antrag von SPD, BÜNDNIS 90/DIE GRÜNEN und FDP vom - Mit Stimmenmehrheit beschlossen
+- TOP 27: Tarif des Städtischen Museums Abteiberg und Tarif des Städtischen Museums Schloss Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 28: Schulordnung für die Musikschule der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 29: Verlängerung der Sockelbetragsfinanzierung der Verbände der Freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 30: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. - Einstimmiger Beschluss
+- TOP 31: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 32: Zuschussvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchenglad-bach e.V. über die Erbringung von Fachleistungsstunden im Rahmen der Kooperation mit dem städtischen Familienzentrum Mühlenstraße 47 in Mönchengladbach - Einstimmiger Beschluss
+- TOP 33: Satzung über die Kindertagespflege in der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 34: „Soziale Stadt Gladbach und Westend: Auswirkungen aufgrund der Überarbeitung der Förderrichtlinien Städtebauförderung Nordrhein-Westfalen für die Stadt Mönchengladbach“ - Kenntnisnahme
+- TOP 35: Räumliche Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGS) durch Bestandserweiterung am Grundschulstandort Engelsholt (KGS Holt) - Einstimmiger Beschluss
+- TOP 36: Ausführung der Fenster- und Fassadensanierung des Berufskollegs Platz der Republik - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 37: Räumliche Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGS) durch Sanierung und Bestandserweiterung am Grundschulstandort Annakirchstr. 56 (KGS Annaschule) und Sanierung der WC-Anlage zur Herstellung der Barrierefreiheit - Einstimmiger Beschluss
+- TOP 38: Instandsetzung Schulhof Kath. Grundschule Uedding, Weiersweg 6 zur Wiederherstellung der Regenwasserversickerung - Einstimmiger Beschluss
+- TOP 39: Nachhaltiges Gewerbeflächenkonzept Mönchengladbach (NGK MG) - Einstimmiger Beschluss
+- TOP 40: Bebauung 19 Häuser – Prüfung der Bebaubarkeit der städtischen Grundstücke am Bahn- hier: Antrag der CDU-Ratsfraktion vom 24.11.2023 - Vom Antragsteller zurückgezogen
+- TOP 41: Kostenloser Eintritt zum Theater Mönchengladbach für Schüler*innen, Studierende (auch ohne AStA- - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Verwaltungsgebäude Aachener Straße Mönchengladbach - hier: Antrag der CDU-Ratsfratkion vom 24.11.2023 - Vom Antragsteller zurückgezogen
+- TOP 43: Bekräftigung der Resolution „Gegen jeden Antisemitismus" - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 44: Konzeption Haus Erholung im städtebaulich funktionalen Zusammenhang mit dem IHEK - hier: Antrag der CDU-Ratsfraktion vom 24.11.2023 - Vom Antragsteller zurückgezogen
+- TOP 45: Anfragen und Mitteilungen
