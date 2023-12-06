@@ -1,0 +1,8 @@
+# TOP 2: Parkhaus Krankenhaus Neuwerk
+
+- Sitzung: Ausschuss für Anregungen und Beschwerden (2023-12-06)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/157096
+- Ergebnis: Mit Stimmenmehrheit beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/33975
