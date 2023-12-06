@@ -25,7 +25,7 @@ gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-Ausbildun
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  | Theoretischer Grundunterricht | Klassenspezifischer Unterricht |  |  |  |  |  |  |  |
-|  | Datum | Thema | Minuten | FL* Nr. | Datum | Thema | Minuten | FL* Nr. |  |  |  |  |  |  |  |
+|  | Datum | Thema | Minuten | FL*) Nr. | Datum | Thema | Minuten | FL*) Nr. |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -40,7 +40,7 @@ gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-Ausbildun
 |  | - Grundfahraufgaben | = Gf | - Fahrstunden auf Autobahn | = AB |  |  |  |  |  |  |  |
 |  | - Unterweisung amAusbildungsfahrzeug | = Uw | - Fahrstunden bei Dunkelheit | = NF |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | Schaltnachweis inkl. Ausbildung nach § 5a FahrschAusbO | = SN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  | □ Die Ausbildung erfolgte in Kooperation als□ Auftrag gebende□ Auftrag nehmende Fahrschule mit folgender Fahrschule*** |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |

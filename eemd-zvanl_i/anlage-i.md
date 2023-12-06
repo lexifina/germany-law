@@ -3,7 +3,7 @@
 (Fundstelle: BAnz AT 29.10.2021 V2)
 Prüfvereinbarung
 zwischen
-der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI), dieses vertreten durch das Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln, dieses wiederum vertreten durch seinen Präsidenten
+der Bundesrepublik Deutschland, vertreten durch das Bundesministerium Digitales und Verkehr (BMDV), dieses vertreten durch das Bundesamt für Logistik und Mobilität (BALM), Werderstraße 34, 50672 Köln, dieses wiederum vertreten durch seinen Präsidenten
 |  |  |
 |  | – Mauterheber – |
 | und |  |

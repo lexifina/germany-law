@@ -2,7 +2,7 @@
 
 Entgeltordnung
 1. Vorbemerkung
-Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG, sind vom BAG Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben.
+Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG, sind vom BALM Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben.
 Das Zulassungsverfahren gliedert sich in folgende Phasen:
 [Bild: banzat_2021_20211029v2_12.jpg]
 2. Gebühren
@@ -15,6 +15,8 @@ Von einem EETS-Anbieter, der das Zulassungsverfahren durchläuft, sind die nachf
 | e) | vor Beginn des Pilotbetriebs (GTP Prüfblock, Nummer 7) | 62 000 Euro |
 |  | Gesamtbetrag: | 302 000 Euro |
 3. Fälligkeit
+Diese Pauschalbeträge sind jeweils vor Beginn der zugehörigen Verfahrensphase fällig. Das BALM fordert einen EETS-Anbieter vor jeder Verfahrensphase schriftlich zur Zahlung des Betrags auf. Die Verfahrensphase wird vom BALM erst nach Eingang der entsprechenden Zahlung eingeleitet.
+4. Erneute Durchführung des Verfahrens
 Es ist möglich, dass eine erneute Prüfung eines Teils oder des gesamten Teilsystems eines EETS-Anbieters notwendig wird. Dies ist der Fall, wenn
 1. der Anbieter Änderungen an seinem EETS-Teilsystem vornimmt, die Auswirkungen auf die Gebrauchstauglichkeit haben können,
 2. der Mauterheber Änderungen an seinem EETS-Teilsystem oder am EETS-Gebiet BFStrMG vornimmt, die Auswirkungen auf die Gebrauchstauglichkeit haben können,

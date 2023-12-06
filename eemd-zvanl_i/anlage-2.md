@@ -1,6 +1,6 @@
 # Anlage 2 zur Prüfvereinbarung
 
-Bundesrepublik Deutschland vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) dieses vertreten durch das Bundesamt für Güterverkehr (BAG)
+Bundesrepublik Deutschland vertreten durch das Bundesministerium für Digitales und Verkehr (BMDV) dieses vertreten durch das Bundesamt für Logistik und Mobilität (BALM)
 Europäischer elektronischer Mautdienst (EETS)
 Verfahren zur Feststellung der Gebrauchstauglichkeit
 – Dokument A –
@@ -85,13 +85,13 @@ Die Prüfblöcke sind in der folgenden Tabelle einschließlich der Quality Gates
 | Mauterheber | EETS-Anbieter |
 | 1 | – | Dokumentenprüfung | – | – | – |
 | ♦ Quality Gate 1 |
-| 2 | 1 | Schnittstellenprüfung |  | Testumgebung des BAG | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
-| Kompatibilitätstests |  | Testumgebungen des nationalen Mautbetreibers und des BAG | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
-| EA-Fahrtests (optional) |  | Testumgebungen des nationalen Mautbetreibers und des BAG | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
+| 2 | 1 | Schnittstellenprüfung |  | Testumgebung des BALM | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
+| Kompatibilitätstests |  | Testumgebungen des nationalen Mautbetreibers und des BALM | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
+| EA-Fahrtests (optional) |  | Testumgebungen des nationalen Mautbetreibers und des BALM | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
 | ♦ Quality Gate 2 |
-| 2 | Probebetrieb |  | Testumgebungen des BAG und des nationalen Mautbetreibers | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
+| 2 | Probebetrieb |  | Testumgebungen des BALM und des nationalen Mautbetreibers | wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem |
 | ♦ Quality Gate 3 |
-| 3 | Pilotbetrieb |  | Wirkbetriebssystem des BAG und des nationalen Mautbetreibers | Wirkbetriebssystem |
+| 3 | Pilotbetrieb |  | Wirkbetriebssystem des BALM und des nationalen Mautbetreibers | Wirkbetriebssystem |
 | ♦ Quality Gate 4 |
 Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglichkeit
 1.6 Hinweise zu den genannten Fristen

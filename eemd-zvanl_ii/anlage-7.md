@@ -30,7 +30,7 @@ Glossar
 | Maut | Gebühr für die Benutzung des mautpflichtigen Streckennetzes durch schwere Nutzfahrzeuge auf der Grundlage des BFStrMG |
 | Mautbetreiber | Siehe Betreibergesellschaft |
 | Mautbuchungsnachweis | Ein Mautbuchungsnachweis enthält Informationen zu einer mautpflichtigen Fahrt eines Nutzers |
-| Mauterheber | Englisch: Toll ChargerInstanz, welche die Einnahmen aus der Straßenmaut beansprucht. In Deutschland übernimmt diese Rolle das BAG. Die Toll Collect GmbH ist mit Teilen dieser Rolle beliehen. |
+| Mauterheber | Englisch: Toll ChargerInstanz, welche die Einnahmen aus der Straßenmaut beansprucht. In Deutschland übernimmt diese Rolle das BALM. Die Toll Collect GmbH ist mit Teilen dieser Rolle beliehen. |
 | Mauterhebungsdienst | Der vom nationalen Mautbetreiber im Auftrag des Mauterhebers betriebene Mauterhebungsdienst (MED) führt basierend auf den von EETS-Anbietern übermittelten GNSS-Fahrspuren und Fahrzeugparametern die Erkennung, Tarifierung und Fahrtenbildung von Befahrungen des mautpflichtigen Streckennetzes durch. |
 | Mautpflichtiges Straßennetz | Mautpflichtige Bundesautobahnen und Bundesstraßen gemäß BFStrMG |
 | Mautschuldner | Siehe Nutzer |
