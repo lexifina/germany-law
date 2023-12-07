@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2023-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7372548
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7372548
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Edeka Ecke Agnes-Bernauer-Straße / Friedenheimer Straße
+- TOP 1.2.2.: Meldestelle für Laim
+- TOP 2: Anträge
+- TOP 2.1.: Begrünung der Bus- und Tram-Wartehäuschen
+- TOP 2.2.: Begrünung der Wartehäuschen entlang der Tram-Westtangente
+- TOP 2.3.: Weniger Wahlplakate!
+- TOP 2.4.: Bereitstellung mobiler Toiletten am Laimer S-Bahnhof während der Bauphase
+- TOP 2.5.: E-Scooter Abstellplätze für Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget Bürgertreff Laim e.V. Sommerfest auf dem Laimer Anger vom 19. - 21.07., 02. - 04.08. und 16. - 18.08.2024 39.000,00 Euro, Az.: 0262.0-25-0315
+- TOP 3.2.: (E) Stadtbezirksbudget Initiative "Kammerkonzert" Kammerkonzert am 08.12.2023 1.800,00 Euro, Az.: 0262.0-25-0318
+- TOP 3.3.: Schreiben Initiative Kammerkonzert vom 15.11.23: Förderung für Kammerkonzert in Laim
+- TOP 3.4.: (E) Stadtbezirksbudget Kirchenstiftung Zu den Heiligen Zwölf Aposteln, Kita-Verbund, Kiga Zu den Heiligen Zwölf Aposteln Anschaffung von 2 iPads und 2 iPhones für die Teilnahme an der Kampagne „Kita digital“ 2.920,00 Euro, Az.: 0262.0-25-0317
+- TOP 3.5.: (E) + (U) Umsetzung Tempo 60 zwischen A96 Anschluss Blumenau und Laim Empfehlung Nr. 20-26 / E 00074 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 24.06.2021
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 21.11.23: Gefahrzeichen "Achtung Fußgänger" Westendstraße/Stegener Weg
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 22.11.23: 18.jetzt - Das Rathausclubbing am 29.06.2024
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Umwelt, Klima und Baumschutz vom 06.11.23
+- TOP 7.2.: Protokoll UA Kultur vom 25.10.23
+- TOP 7.3.: Protokoll UA Kultur vom 31.10.23
+- TOP 7.4.: Protokoll BA-Sitzung vom 09.11.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Bildung und Sport vom 26.10.23: Nutzung öffentl. Grünfläche Valpichlerstraße
+- TOP 8.2.: Schreiben Referat für Bildung und Sport vom 08.11.23: Unterlagen zu BA-Empfang am 17.10.23
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 06.11.23: Allgemeinverfügung Böllerverbot 2023/2024
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 25.10.23: Mitteilung über unveränderte Fortführung der Gaststätte NaHan
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 26.10.23: Mitteilung über unveränderte Fortführung der Gaststätte La Tana del Lupo
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 21.11.23: Genehmigung unveränderte Fortführung "Vrelo Bosna", ehem. Friedenheimer Stub`n
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.10.23: Fällung Gunzenlehstr.
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.11.23: Fällung Aindorferstr.
+- TOP 8.9.: Bautenliste 23.10.23-29.10.23: A) Erstantragsverfahren 1. Elsenheimerstr. 33 2. Aindorferstr. 187 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Von-der-Pfordten-Str. 38
+- TOP 8.10.: Bautenliste 30.10.23-05.11.23 A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Diesterwegstr. 16
+- TOP 8.11.: Bautenliste 06.10.23-12.11.23: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Fürstenrieder Str. 18
+- TOP 8.12.: Bautenliste 13.11.23-19.11.23: A) Erstantragsverfahren 1. Vohburger Str. 21 2. Landsberger Str. 318
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.11.23: Baumfällung Högerstr. 2
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.11.23: Baumfällung Stöberlstr. 71
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 19.10.23: Revierkampf der Ultras - Abbau der Infrastrukturkästen vor und auf Privatgrund
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 17.11.23: E-Scooter
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 22.11.23: Planung einer besseren Fahrradverkehrsführung vom Westpark zur Umweltverbundröhre am S-Bahnhof Laim Hier: Zwischennachricht
+- TOP 8.18.: Schreiben Stadtkämmerei vom 17.11.23: Unterlagen zum Einbringen des MIP 2023 - 2027
+- TOP 8.19.: Schreiben Baureferat vom 15.11.23: Beschilderung aller bestehenden und zukünftig umgesetzten Wildblumenwiesen im Bezirk
+- TOP 8.20.: Schreiben Baureferat vom 20.11.23: Ausreichende Beleuchtung in der Fußgängerunterführung auf Höhe der Fürstenrieder Straße 51
+- TOP 8.21.: Schreiben BA 20 vom 15.11.23: Gefahrenstelle Senftenauerstraße
+- TOP 8.22.: Schreiben Kinder- und Jugendbeauftragte / KJS Unterausschuss im BA 2 vom 17.11.23: 18Jetzt
+- TOP 8.23.: Schreiben SWM vom 23.10.23: Baumaßnahmen
+- TOP 8.24.: Schreiben SWM vom 17.11.23: Arbeiten im Gleisbereich Gesamtnetz 01.01.- 31.12.2024
+- TOP 8.25.: Schreiben Mieterbeirat vom 31.10.23: Protokoll vom 23.10.23 und Vortrag Geothermie
+- TOP 8.26.: Schreiben Elternbeirat des Kindergartens zu den Heiligen Zwölf Aposteln vom 24.10.23: Dank für Zuschuss aus BA-Budget
+- TOP 8.27.: Schreiben Familienkasse vom November 2023: Newsletter für das Netzwerk der Familienkasse
+- TOP 8.28.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 08.11.23: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 8.29.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.30.: Beschluss des Ausschusses für Klima- und Umweltschutz vom 14.11.23: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Parkprobleme mit Lkws und gewerblichen Fahrzeugen in der Westendstraße, Laim (Weiterleitung an PI 41)
+- TOP 9.2.: Taubenfütterung U-Bahnstation Westendstraße (Weiterleitung an RKU)
+- TOP 9.3.: Gehwegparken erschweren, Einhaltung Tempo 30 und Einhaltung 5 m Abstand bei Kreuzungen (Weiterleitung an PI 41 und KVR)
+- TOP 9.4.: Fahrradweg Brücke Westendstraße (Vertagung in den UA Mobilität)
