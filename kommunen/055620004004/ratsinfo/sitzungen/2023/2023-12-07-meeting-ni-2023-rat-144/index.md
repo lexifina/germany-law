@@ -1,0 +1,70 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2023-12-07T17:03:00+01:00
+- Ende: 2023-12-07T21:28:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-144
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2023-RAT-144
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-RAT-144
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-144
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-RAT-144
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Stellenplan 2024 - einstimmig angenommen
+- TOP 3: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2024 nebst Anlagen
+- TOP 3.1: Haushaltssatzung und Haushaltsplan sowie Haushaltssicherungskonzept für das Jahr 2024 nebst Anlagen
+- TOP 4: Sachstandsbericht Haushaltssicherungskonzept (Berichtsstichtag 30.09.2023)
+- TOP 5: Entwurf des Jahresabschlusses zum 31.12.2021
+- TOP 6: Neufassung der Hundesteuersatzung der Stadt Castrop-Rauxel
+- TOP 7: Geplanter Übergang des Bereichs 67 (Stadtgrün und Friedhofswesen) an den EUV Stadtbetrieb (AöR)
+- TOP 8: Neuabschluss eines Vertrages zwischen der Stadt Castrop-Rauxel und dem Tierschutz Castrop-Rauxel e. V. zum 01.01.2024
+- TOP 9: ISEK Stadtmittelpunkt: Sachstand und Städtebauförderantrag zum Stadterneuerungsprogramm 2024
+- TOP 10: ISEK Merklinde: Sachstand zum ISEK-Prozess, zur Maßnahme Lückenschluss Lothringentrasse/Grüne Acht und Antrag zum Stadterneuerungsprogramm (STEP) 24
+- TOP 11: Genehmigung der Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW Mittelbereitstellung für die Maßnahme "Neubau Quertrakt Fridtjof-Nansen-Realschule".
+- TOP 12: Antrag der CDU Fraktion vom 18.10.2023_Prüfauftrag barrierefreie Sondernutzung der "Außengastronomie"
+- TOP 13: Rettungsdienstbedarfsplan des Kreises Recklinghausen. Auswirkungen auf die Stadt Castrop-Rauxel
+- TOP 14: Einrichtung einer Fahrradstraße auf der Lange Straße zwischen Habinghorster Straße (B235) und Römerstraße
+- TOP 15: Antrag der FDP-Fraktion vom 15.11.2023_Baustellen-Fußgängerampel am Biesenkamp
+- TOP 16: Auswertung zum kostenfreien Parken für Elektroautos in der Innenstadt
+- TOP 17: Beitritt der Stadt Castrop-Rauxel zur "Sicherheitskooperation Ruhr" (Siko Ruhr)
+- TOP 18: Evaluation der erweiterten Öffnungszeiten im Bürgerbüro
+- TOP 18.1: Dringlichkeitsantrag der CDU-Fraktion vom 02.12.2023_Öffnungszeiten Bürgerbüro
+- TOP 18.2: Dringlichkeitsantrag der Fraktionen FWI, CDU und FDP vom 06.12.2023_Öffnungszeiten Bürgerbüro
+- TOP 19: Umgang mit Mikroplastik in Kunstrasenplätzen
+- TOP 20: Gebührenbedarfsberechnung 2023 "Friedhofwesen"
+- TOP 21: Antrag der SPD Ratsfraktion und der Fraktion Bündnis90 / Die Grünen vom 29.10.2023_ Antrag: "Politische Veranstaltungen in Castrop-Rauxel - offen für alle durch mehr Barrierefreiheit im Ratssaal, den Sitzungsräumen sowie den Forum-Hallen"
+- TOP 22: Beitritt der Stadt Castrop-Rauxel zum Kommunen-Netzwerk "engagiert in NRW"
+- TOP 23: Gebührenbedarfsberechnung 2024 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung der Stadt Castrop-Rauxel
+- TOP 24: Gebührenbedarfsberechnung 2024 -Straßenreinigung- und Erlass einer Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung)
+- TOP 25: Gebührenbedarfsberechnung 2024 -Gewässerunterhaltung- und Erlass der Gebührensatzung zur Umlage der Kosten der Gewässerunterhaltung
+- TOP 26: Satzung für die Wochenmärkte in der Stadt Castrop-Rauxel -Wochenmarktsatzung
+- TOP 27: Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel für 2024
+- TOP 28: Gebührenbedarfsberechnung 2024 -Abfallentsorgung- und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 29: Antrag CDU Ratsfraktion vom 21.11.2023_Einführung von Bodycams
+- TOP 30: Feststellung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2020
+- TOP 31: Resolution vom 21.11.2023_CDU Ratsfraktion_Herausforderungen der Clankriminalität gemeinsam bewältigen
+- TOP 32: Überplanmäßige Mittelbereitstellung gemäß § 83 GO bei dem Kostenträger 360403 (Hilfen zur Erziehung - familienersetzende Hilfen)
+- TOP 33: Antrag FWI Fraktion vom 05.10.2023_Ausschussumbesetzung
+- TOP 34: Umbesetzung des Jugendhilfeausschusses
+- TOP 35: Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung); Ergänzung des § 13 Abs. 4 der Entwässerungssatzung
+- TOP 36: Genehmigung einer gemäß § 60 Abs. 1 S. 2 GO NRW getroffenen Dringlichkeitsentscheidung zur Bereitstellung einer außerplanmäßigen Verpflichtungsermächtigung zu Lasten des Haushaltsjahres 2024 für Beratungsleistungen im Rahmen des geplanten Neubaus der Feuer- und Rettungswache an der Habinghorster Straße (B 235)
+- TOP 37: Benennung von Delegierten für die Mitgliederversammlung 2024 des Städtetages Nordrhein-Westfalen am 07.+ 08. Mai 2024 in Neuss
+- TOP 38: Umbesetzung des Jugendhilfeausschusses
+- TOP 39: Resolution vom 02.12.2023_Solidarität mit Israel
+- TOP 40: 'Sport-, Spiel- und Bewegungspark am Hallenbad' Weitere Bereitstellung von überplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW bei Investitionsnummer ALT884 (Optimierung/ Einrichtung Großspielflächen)
+- TOP 41: Anfragen der Ratsmitglieder
+- TOP 41.1: Antrag der CDU Ratsfraktion vom 18.10.2023 - Anfrage Sondernutzung der "Außengastronomie"
+- TOP 41.2: Anfrage der FDP-Fraktion vom 15.11.2023_Plakatierungen
+- TOP 41.3: Anfrage CDU Ratsfraktion vom 10.11.2023_Einführung von Bodycams
+- TOP 41.4: Anfrage der FDP-Fraktion vom 07.12.2023_Wirtschaft & Marketing Castrop-Rauxel GmbH
+- TOP 42: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
