@@ -1,0 +1,66 @@
+# Gemeinderat (32. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2023-12-07T18:03:00+01:00
+- Ende: 2023-12-07T21:37:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSOzvUInnuoxwOxpJVduvMg
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1966
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasAI6Vrak4o4wAYxbq10h951OTSu1po0-isR9A1aaLV/Bekanntmachung_Gemeinderat_07.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcHt1wcFhKcgcesg86dVziMbSZUzxhMm_jNIBXmyhIM5/Oeffentliche_Niederschrift_Gemeinderat_07.12.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Gemeinde Aldenhoven durch die Gemeindeprüfungsanstalt Nordrhein-Westfalen (gpaNRW) hier: Abschlusspräsentation der Ergebnisse
+- TOP 4.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 4.1: 9. Änderung der Zuständigkeitsordnung hier: Anpassung der Wertgrenzen für Auftragsvergaben - 13 Ja-Stimme(n), 5 Nein-Stimme(n), 5 Stimmenthaltung(en)
+- TOP 4.2: Gebührenkalkulation Abfallbeseitigung 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Gebührenkalkulation Abwasserbeseitigung 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Bebauungsplan 89 N - Von-Paland-Straße und 55. Änderung des Flächennutzungsplans a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage der Innenbereichssatzung Niedermerz - 1. Änderung - für den Bebauungsplan 89 N gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Beschluss über die Offenlage für den Bebauungsplan 89 N gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB c) Aufstellungsbeschluss der 55. Änderung des Flächennutzungsplans gem. § 2 Abs. 1 BauGB d) Beschluss über die frühzeitige Beteiligung der 55. Änderung des Flächennutzungsplans gemäß §§ 3 Abs. 1 und 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Bebauungsplan 8 A 12. Änderung - Uhlhof - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: 10. Änderung des Bebauungsplans 17 A - Industriestraße - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung der 10. Änderung des Bebauungsplans 17 A - Industriestraße - - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Bebauungsplan 86 A - Lafos - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Neubesetzung von Ausschüssen
+- TOP 6.1: Antrag der CDU-Fraktion hier: Änderung der Besetzung des Bauverwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Beteiligungsbericht 2021 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: Gebührenkalkulation Winterdienst 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2: 6. Änderungssatzung über die Erhebung von Gebühren für die Benutzung der Friedhöfe der Gemeinde Aldenhoven (Friedhofsgebührensatzung) - 21 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Wahl eines weiteren allgemeinen Vertreters - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Vereinbarung zur Entwicklung des „Future Mobility Parks“ - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Preisvergabe Heimatpreis 2023 der Gemeinde Aldenhoven - Zur Kenntnis genommen
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 12.2: Johannesschule Siersdorf hier: Bericht über die Entwicklung der Zügigkeit, der OGS-Situation und des Raumbedarfs
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1: Einbau einer Einbruchmeldeanlage für das ehemalige Hauptschulgebäude und das Gemeinschaftsgrundschulgebäude Aldenhoven, hier Auftragsvergabe. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: NERA: Umsetzung der Kooperation der Energieversorgungsunternehmen mit Sitz in der StädteRegion Aachen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: NERA Netz: Umsetzung der Netzkooperation der Energieversorgungsunternehmen mit Sitz in der StädteRegion Aachen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Beteiligung der RURENERGIE GmbH an einer Windenergieanlage auf dem Gebiet der Stadt Heimbach - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Einrichtung (Möblierung) eines neuen Lehrerzimmers für die Johannesschule Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: LED-Umrüstung im Haus des Dorfes - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: LED-Umrüstung im Haus des Dorfes - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Erwerb von landw. Parzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Grundstücksverhandlungen in der Ortslage Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Grundstücksverhandlungen in der Ortslage Siersdorf - Ohne Abstimmung
+- TOP 5.3.1: Grundstücksverhandlungen in der Ortslage Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Abschuss eines Erschließungsvertrages - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
