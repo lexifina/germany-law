@@ -1,19 +1,19 @@
-# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2023
+# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2024
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2022-12-02 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2023_vom_07.11.2022_K_b.pdf
+- Datum: 2023-12-08 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2024_vom_27.11.2023_K_b.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 7.02 Seite 1 von 4
-N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 7. November 2022)
+N i c h t a m t l i c h e konsolidierte L e s e f a s s u n g (Stand: 27. November 2023)
 
-Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2023
-vom 7. November 2022
-(Amtsblatt für die Stadt Oldenburg Nummer 27 vom 2. Dezember 2022)
+Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2024
+vom 27. November 2023
+(Amtsblatt für die Stadt Oldenburg Nummer 25 vom 8. Dezember 2023))
 
 §1
 
@@ -53,7 +53,7 @@ Gemäß § 2 der Satzung der Stadt Oldenburg (Oldb) über die Erhebung von Gebü
 
 60 Liter
 
-27,80 Euro, 48,65 Euro, 69,50 Euro, 83,40 Euro,
+26,80 Euro, 46,90 Euro, 67,00 Euro, 80,40 Euro,
 
 7.02 Seite 2 von 4
 
@@ -81,7 +81,7 @@ Gemäß § 2 der Satzung der Stadt Oldenburg (Oldb) über die Erhebung von Gebü
 
 11. 1100 Liter
 
-111,20 Euro, 166,80 Euro, 333,60 Euro, 524,00 Euro, 655,00 Euro, 1.008,70 Euro, 1.441,00 Euro.
+107,20 Euro, 160,80 Euro, 321,60 Euro, 504,00 Euro, 630,00 Euro, 970,20 Euro, 1.386,00 Euro.
 
 Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter verdoppeln sich die betreffenden Gebühren.
 
@@ -99,7 +99,7 @@ Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter ve
 
 4. 240 Liter unter Berücksichtigung der Pauschalgebühr
 
-15,00 Euro, 42,80 Euro, 98,40 Euro, 265,20 Euro.
+15,00 Euro, 41,80 Euro, 95,40 Euro, 256,20 Euro.
 
 Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
@@ -115,7 +115,7 @@ Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 8. 240 Liter ohne Pauschalgebühr
 
-83,40 Euro, 111,20 Euro, 166,80 Euro, 333,60 Euro.
+80,40 Euro, 107,20 Euro, 160,80 Euro, 321,60 Euro.
 
 (4) Die Gebühren bei einmaliger zusätzlicher Entleerung von Restabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
@@ -139,13 +139,13 @@ Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 6. 240 Liter
 
-2,20 Euro, 3,00 Euro, 3,55 Euro, 4,60 Euro, 6,75 Euro, 13,15 Euro.
+2,10 Euro, 2,90 Euro, 3,40 Euro, 4,45 Euro, 6,50 Euro, 12,70 Euro.
 
 (5) Die Gebühr bei zusätzlicher Entsorgung von Restabfall mittels eines Abfallnorm-
 
 sackes mit 50 Liter Füllraum beträgt
 
-3,15 Euro.
+3,05 Euro.
 
 (6) Die Gebühren bei einmaliger zusätzlicher Entleerung von Bioabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
@@ -161,7 +161,7 @@ sackes mit 50 Liter Füllraum beträgt
 
 4. 240 Liter
 
-3,55 Euro, 4,60 Euro, 6,75 Euro, 13,15 Euro.
+3,40 Euro, 4,45 Euro, 6,50 Euro, 12,70 Euro.
 
 7.02 Seite 3 von 4
 
@@ -179,7 +179,7 @@ sackes mit 50 Liter Füllraum beträgt
 
 4. 240 Liter
 
-41,70 Euro, 55,60 Euro, 83,40 Euro, 166,80 Euro.
+40,20 Euro, 53,60 Euro, 80,40 Euro, 160,80 Euro.
 
 (8) Die Gebühr für das Abholen von Sperrmüll beträgt je Abfuhr
 
@@ -195,15 +195,15 @@ fuhr
 
 20,00 Euro.
 
-(10) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Absatz 4 Satz 1 Abfallgebührensatzung 123,25 Euro/t. Die Mindestgebühr beträgt 24,00 Euro. Unter den Voraussetzungen des § 2 Absatz 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
+(10) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Absatz 4 Satz 1 Abfallgebührensatzung 134,70 Euro/t. Die Mindestgebühr beträgt 26,90 Euro. Unter den Voraussetzungen des § 2 Absatz 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
 
 1. Sperrmüll
 
-23,40 Euro/m³,
+25,50 Euro/m³,
 
 2. Kompostierbaren Gartenabfällen
 
-23,40 Euro/m³.
+25,50 Euro/m³.
 
 Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
@@ -243,7 +243,7 @@ b) über 1,0 m³ bis 2,0 m³
 
 10,00 Euro, 20,00 Euro.
 
-(12) Die Gebühren für die Abfuhr von Abfällen über Container setzen sich aus der gemäß Absatz 9 berechneten Entsorgungsgebühr und der Logistikgebühr zusammen. Diese beträgt:
+(12) Die Gebühren für die Abfuhr von Abfällen über Container setzen sich aus der gemäß Absatz 10 berechneten Entsorgungsgebühr und der Logistikgebühr zusammen. Diese beträgt:
 
 1. für die Lieferung, die Aufstellung bis zu 72 Stunden und die Abholung des Containers 73,50 Euro,
 2. für eine längere Standzeit des Containers je angefangene weitere 24 Stunden 10,00 Euro.
@@ -258,6 +258,6 @@ b) über 1,0 m³ bis 2,0 m³
 
 45,00 Euro.
 
-§3 Diese Satzung tritt am 1. Januar 2023 in Kraft.
+§3 Diese Satzung tritt am 1. Januar 2024 in Kraft.
 
-Oldenburg (Oldb), den 7. November 2022
+Oldenburg (Oldb), den 27. November 2023
