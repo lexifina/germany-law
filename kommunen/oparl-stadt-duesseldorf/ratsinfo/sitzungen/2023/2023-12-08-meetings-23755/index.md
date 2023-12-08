@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-12-08T16:00:00+01:00
+- Ende: 2023-12-08T18:22:00+01:00
+- Ort: Cäcilienstift, Paulistraße 3
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23755
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/23755
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 03.11.2023 - vertagt
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Hildener Straße, Umbau zwischen Betriebshof Rheinbahn und Am Buchholzer Busch - Empfehlung abweichend beschlossen
+- TOP 5.1.1: Hildener Straße, Umbau zwischen Betriebshof Rheinbahn und Am Buchholzer Busch - Änderungsantrag zur Vorlage OVA/177/2023 der Fraktion Bündnis 90/ Die Grünen - mehrheitlich beschlossen
+- TOP 5.2: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) „Hellerhof - Reisholz" - Gesamtstätische Stellungnahme - vertagt
+- TOP 5.3: Bericht zum interdisziplinären Ideenwettbewerb zur Integration des Schallschutzes in den Stadtraum von Düsseldorf in Folge des Infrastrukturausbaus zum Rhein-Ruhr-Express - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Überbauung Münchener Straße - zur Kenntnis genommen
+- TOP 5.6: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau am Wim-Wenders-Gymnasium, Schmiedestr. 25, Erweiterung und Umbau am Max-Planck-Gymnasium, Koetschaustr. 36 und GGS Steinkaul 27" - Empfehlung einstimmig beschlossen
+- TOP 5.7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2024 - Empfehlung mehrheitlich beschlossen
+- TOP 5.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Planungsstand Radschnellweg - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 6.5: Sauberkeit in Grünanlagen - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Denkmalbereichssatzung „Rathausviertel Benrath“, Vorlage 61/37/2017 - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Marien-Schule - Präventionsprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 9.2: ASB Region Düsseldorf e.V. - zentrum plus Holthausen - Adventssingen auf dem Kamper Acker 2023 - einstimmig beschlossen
+- TOP 9.3: St. Sebastianus Schützenbruderschaft von 1641 Düsseldorf Himmelgeist e.V. - Weihnachtsbaum 2023 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Temporeduzierung Koblenzer Straße - Beschluss der Bezirksvertretung 9 vom 10.03.2023; BV9/044/2023 - zur Kenntnis genommen
+- TOP 10.2: Park & Ride Parkplätze im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 10.10.2019; BV9/051/2019 - zur Kenntnis genommen
+- TOP 10.3: Beleuchtung des Fuß- und Radweges nach Itter - Beschluss der Bezirksvertretung 9 vom 22.09.2023; BV9/195/2023 - zur Kenntnis genommen
+- TOP 10.4: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B Nr. 2 Lärmschutzgutachten Hundeauslauf An der Ziegelei - Stellungnahme zur Beschlussvorlage vom 27.01.2023; BV9/008/2023 - zur Kenntnis genommen
+- TOP 10.5: Beschlusskontrolle der Bezirksvertretung 9 - 2.Halbjahr 2023 - zur Kenntnis genommen
+- TOP 10.6: Fußgängerüberweg Telleringstraße - Nachtrag zur Informationsvorlage BV9/281/2022 - zur Kenntnis genommen
+- TOP 10.7: Radweg vor der Eissporthalle an der Kappeler Straße - Beschluss der Bezirksvertretung 9 vom 18.08.2023; BV9/152/2023 - zur Kenntnis genommen
