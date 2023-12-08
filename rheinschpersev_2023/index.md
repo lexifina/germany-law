@@ -12,6 +12,7 @@
 - [§ 10 Übergangsbestimmungen für Tauglichkeitsuntersuchungen](0010.md)
 - [§ 11 Übergangsbestimmung für Befähigungszeugnisse auf Grund von Prüfungen nach Landesrecht zuständiger Behörden](0011.md)
 - [§ 12 Umtausch von Schifferdienstbüchern](0012.md)
+- [§ 12a Umschreibung von Behördenpatenten](0012a.md)
 - [§ 13 Nichtanwendung von Vorschriften](0013.md)
 - [Anlage 1 (zu § 1 Absatz 2 Nummer 1)Rheinschiffspersonalverordnung (RheinSchPersV)](anlage-1.md)
 - [Anlage 2 (zu § 1 Absatz 2 Nummer 2)Änderungen der Rheinschifffahrtspolizeiverordnung](anlage-2.md)

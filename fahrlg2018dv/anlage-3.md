@@ -42,7 +42,7 @@ gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-Ausbildun
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | Schaltnachweis inkl. Ausbildung nach § 5a FahrschAusbO | = SN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-|  | □ Die Ausbildung erfolgte in Kooperation als□ Auftrag gebende□ Auftrag nehmende Fahrschule mit folgender Fahrschule*** |  |  |  |  |  |  |  |
+|  | □ Die Ausbildung erfolgte in Kooperation als□ Auftrag gebende□ Auftrag nehmendeFahrschule mit folgender Fahrschule***) |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
@@ -53,7 +53,7 @@ gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 Fahrschüler-Ausbildun
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-|  | *** falls zutreffend bitte ausfüllen |  |  |  |  |  |  |  |
+|  | ***) falls zutreffend bitte ausfüllen |  |  |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | Ort, Datum |  | Unterschrift der/des Fahrschulinhaber/-inhabers/der verantwortlichen Leitung |  | Unterschrift der/des Fahrschülerin/Fahrschülers |

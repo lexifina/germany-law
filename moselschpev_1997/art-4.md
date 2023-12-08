@@ -193,16 +193,15 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   l) dessen Lichter oder Signalleuchten nicht den Vorschriften des § 3.02 Nummer 1 bis 3 oder 4 zweiter Halbsatz entsprechen,
   m) das nicht mit dem nach § 4.01 Nr. 1 Buchstabe a vorgeschriebenen Schallgerät ausgerüstet ist,
   n) das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet ist,
-  o) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
-  p) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
-  q) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
-  r) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
-  s) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
-  t) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
-  u) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
-  v) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
-  w) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
-  x) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
+  o) das entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 8 nicht mit einem Inland AIS Gerät oder einer dort genannten Sprechfunkanlage ausgerüstet ist,
+  p) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+  q) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
+  r) das entgegen § 4.07 Nummer 6 Satz 1 nicht ein dort genanntes Inland AIS Gerät verwendet,
+  s) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende Maschinenleistung nicht verfügt,
+  t) das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
+  u) das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite befindet,
+  v) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
+  w) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
 11a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
 11b. die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
 12. anordnet oder zuläßt, daß entgegen § 8.04 Satz 1 an der Spitze des Schubverbandes Trägerschiffsleichter eingesetzt werden,

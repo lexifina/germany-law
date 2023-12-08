@@ -54,6 +54,10 @@
 - [§ 20 Geplante Einheitsbeträge für die Zahlung für Mutterkühe](0020.md)
 - [§ 21 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterkühe](0021.md)
 
+### Abschnitt 4 Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen
+
+- [§ 21a Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen für das Antragsjahr 2023](0021a.md)
+
 ## Teil 4 Tatsächliche Einheitsbeträge
 
 - [§ 22 Grundsätze für die Berechnung der tatsächlichen Einheitsbeträge](0022.md)
