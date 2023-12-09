@@ -799,7 +799,7 @@ Versorgungslast](0290.md)
 - [§ 291a Erstattung von Invalidenrenten und Aufwendungen für
 Pflichtbeitragszeiten bei Erwerbsunfähigkeit](0291a.md)
 - [§ 291b Erstattung nicht beitragsgedeckter Leistungen](0291b.md)
-- [§ 291c (weggefallen)](0291c.md)
+- [§ 291c Anschubfinanzierung](0291c.md)
 - [§ 292 Verordnungsermächtigung](0292.md)
 - [§ 292a Verordnungsermächtigung für das Beitrittsgebiet](0292a.md)
 
