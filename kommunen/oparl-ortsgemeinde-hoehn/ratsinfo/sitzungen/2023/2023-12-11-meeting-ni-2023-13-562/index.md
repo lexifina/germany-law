@@ -1,0 +1,26 @@
+# Sitzung des Ortsgemeinderates der Gemeinde Höhn
+
+- Körperschaft: Ortsgemeinde Höhn
+- Beginn: 2023-12-11T18:35:00+01:00
+- Ende: 2023-12-11T19:30:00+01:00
+- Ort: Dorfgemeinschaftshaus Schönberg, Bahnhofstraße 66, 56462 Höhn
+- Status: durchgeführt
+- Gremium: https://westerburg.gremien.info/oparl/organization/13
+- Ratsinformationssystem: https://westerburg.gremien.info/oparl/meeting/ni_2023-13-562
+- OParl: https://westerburg.gremien.info/oparl/meeting/ni_2023-13-562
+- Quelle: https://westerburg.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2023-13-562
+- Ergebnisprotokoll: oeffentliches Protokoll https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-13-562
+- Wortprotokoll: oeffentliches Protokoll https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2023-13-562
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Bericht der Ortsbürgermeisterin
+- TOP 3: Beratung und Beschlussfassung über Auftragsvergaben
+- TOP 4: Verschiedenes
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: Bekanntgabe der Beschlüsse aus dem nichtöffentlichen Teil
