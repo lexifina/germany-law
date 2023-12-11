@@ -1,0 +1,74 @@
+# Haupt-, Finanz- und Steuerungsausschuss (129. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2023-12-11T17:00:00+01:00
+- Ende: 2023-12-11T20:52:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe7xoa3QGw3XvLfbG4RStLU
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17834
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUiqQjdgSoDRfvbw1J3SsZxTSPiEvUVjUv0Elbpp5GU/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_11.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY6OFRanT40s2ZxlBbpIGF-aNVu-D7fB7GJu__YIlYA-/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_11.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Wahl des Schriftführers / der Schriftführerin
+- TOP 1.1: Bestellung einer Schriftführung für den Haupt-, Finanz- und Steuerungsausschuss - Einstimmig
+- TOP 2.: Niederschrift über die letzte Sitzung vom 19.10.2023
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Fortschreibung des Brandschutzbedarfsplans der Stadt Emsdetten - Einstimmig
+- TOP 5.: Öffentlich-rechtliche Vereinbarung mit der Stadt Rheine zur Sicherstellung der Wasserrettung bzw. -bergung durch die Freiwillige Feuerwehr Rheine - Einstimmig
+- TOP 6.: Jahresabschluss des Abwasserwerkes zum 31.12.2022 - Einstimmig
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1: Feststellung des Jahresabschlusses 2022, Entlastung des Bürgermeisters - Einstimmig
+- TOP 8.: Beteiligungsbericht 2022 - Einstimmig
+- TOP 9.: Bericht über Erträge und Aufwendungen von anlässlich des Krieges in der Ukraine eingereisten Personen - Zur Kenntnis genommen
+- TOP 10.: Managementbericht zum 31.10.2023 - Zur Kenntnis genommen
+- TOP 11.: Änderung der Hundesteuersatzung - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Stadtwerke Emsdetten GmbH
+- TOP 12.1: Erteilung einer Handlungsvollmacht gem. § 13 Nr. 3 des Gesellschaftsvertrages - Einstimmig
+- TOP 12.2: Vertretung in der Gesellschafterversammlung der Stadtwerke Emsdetten GmbH - Einstimmig
+- TOP 13.: Altersteilzeit bei der Stadt Emsdetten - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Fortschreibung des Integrationskonzepts der Stadt Emsdetten - Einstimmig
+- TOP 15.: Beschluss des Feinkonzeptes im Rahmen des Landeswettbewerbs ways2work - 10 Ja-Stimme(n), 0 Gegenstimme(n), 6 Enthaltung(en)
+- TOP 16.: Übernahme der Elektroladeinfrastruktur durch die Stadt Emsdetten - Einstimmig
+- TOP 17.: THG-Bilanz 2022 Konzern Stadt Emsdetten (Stadtverwaltung, Abwasserwerk, Stadtwerke & TKRZ) - Zur Kenntnis genommen
+- TOP 18.: Vertrag zur finanziellen Beteiligung von Kommunen an Windenergieanlagen - Zur Kenntnis genommen
+- TOP 19.: Änderung der Gebührenordnung für Parkscheinautomaten im Gebiet der Stadt Emsdetten - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Neufassung der Beitrags- und Gebührensatzung der Stadt Emsdetten zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2024 - Einstimmig
+- TOP 21.: XII. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 22.: XVII. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 23.: Änderung der Anlage 1 zur Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 24.: Neugestaltung Stroetmanns Gelände - Beschluss über die Vorentwurfsplanung - Ohne Abstimmung
+- TOP 24.1: Neugestaltung Stroetmanns Gelände - Beschluss über die Vorentwurfsplanung - 1. Ergänzung - - Einstimmig
+- TOP 25.: Stroetmanns Fabrik e.V. – Verlängerung der temporären vertraglichen Regelung zum Umgang mit Defiziten/Überschüssen während der Bauphase - Einstimmig
+- TOP 26.: Umbau, Erweiterung sowie energetische Sanierung der Kardinal-von-Galen-Schule - Vorstellung der Vorentwurfsplanung - - Einstimmig
+- TOP 27.: Beschluss über die Mitgliedschaft in der Energieland Kreis Steinfurt Bürgerenergiegenossenschaft eG - Einstimmig
+- TOP 28.: Bebauungsplan
+- TOP 28.1: Vorhabenbezogener Bebauungsplan Nr. 6 "Lauge" - Satzungsbeschluss - Einstimmig
+- TOP 28.2: Außenbereichssatzung "Isendorf" - Satzungsbeschluss - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 28.3: Bebauungsplan Nr. 37 "Josefskirche", 6. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 28.4: Bebauungsplan Nr. 15 "Diemshoff", 11. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 29.: Allgemeine Stadtentwicklungsplanung
+- TOP 29.1: Umgestaltung Sandufer - Verkehrsuntersuchung zur Anbindung der Kirchstraße an die Wilhelmstraße - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 30.: Beschluss des Wirtschaftswegekonzeptes - Einstimmig
+- TOP 31.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 31.1: Bürgerbusverein Emsdetten Saerbeck e.V.: Beschaffung eines neuen Fahrzeugs - Ohne Abstimmung
+- TOP 32.: Schulangelegenheiten
+- TOP 32.1: Bildung der Grundschuleingangsklassen für das Schuljahr 2024/25 - Einstimmig
+- TOP 32.2: Antrag des Jugendrates vom 17.05.2023 "Bereitstellung von kostenlosen Menstruationsprodukten in analogen Spendern an den Toiletten der weiterführenden Schulen" - Einstimmig
+- TOP 33.: Antrag des Jugendrates vom 17.05.2023 "Anschaffung von iPads für alle Schüler*innen der weiterführenden Schulen in Emsdetten" - Zur Kenntnis genommen
+- TOP 34.: Antrag eines Bürgers auf Umbenennung der Wilhelmschule - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 35.: Allgemeine Umweltangelegenheiten
+- TOP 35.1: Kommunaler Masterplan Klimaschutz Stadt Emsdetten - Einstimmig
+- TOP 36.: Förderprogramm proKLIMA - Änderung der Förderrichtlinie - 10 Ja-Stimme(n), 4 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 37.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2024 - Einstimmig
+- TOP 38.: Wirtschaftsplan - Gebäudereinigung der Stadt Emsdetten für das Jahr 2024 - 14 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 39.: Stellenplan
+- TOP 39.1: Stellenplan 2024 - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 40.: Etat/Budget
+- TOP 40.1: Entwurf Haushaltssatzung und Haushaltsplan 2024 - 10 Ja-Stimme(n), 0 Gegenstimme(n), 6 Enthaltung(en)
+- TOP 41.: Verschiedenes
