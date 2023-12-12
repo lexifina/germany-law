@@ -1,0 +1,54 @@
+# Ausschuss für Mobilität, Umwelt und Klimaschutz (21. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-12-12T18:03:00+01:00
+- Ende: 2023-12-12T20:43:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWawMv2HpSkq7iGzqGlkFQE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5497
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Mobilität, Umwelt und Klimaschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWXv3e8whXp5RnhA_TZelIB-o5waZr7_bSsYh9-rVbwO/Oeffentliche_Niederschrift_Ausschuss_fuer_Mobilitaet-_Umwelt_und_Klimaschutz_12.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 16.05.2023
+- TOP 3.: Niederschrift vom 24.10.2023
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion Bündnis 90 Die Grünen vom 18.11.2023 Ergreifung geeigneter Maßnahmen zur Vermeidung massiver Geschwindigkeitsüberschreitungen auf der Enscheder Straße - Einstimmig, 1 Enthaltungen
+- TOP 4.2: Antrag der SPD-Fraktion vom 28.11.2023 Fahrradabstellanlagen in der Gronauer Innenstadt - Einstimmig, 0 Enthaltungen
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 7/2023; Bürgerantrag vom 18.09.2023 "Ruhebelästigung in der Innenstadt durch Raser & Poser im Bereich Berliner Platz, Alstätter Straße, Konrad-Adenauer-Straße und Enscheder Straße" - Einstimmig, 0 Enthaltungen
+- TOP 6.: Präsentation: CAES – Compressed Air Energy Storage, Druckluftspeicherung in Untergrundkavernen
+- TOP 7.: Straßenendausbau Maria-Martin-Straße (Bebauungsplan Nr. 211) - Einstimmig, 0 Enthaltungen
+- TOP 8.: (Teil-) Verlagerung des Bauhofes der Zentralen Bau- und Umweltdienste Genehmigung der Entwurfsplanung und Baubeschluss - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neubau eines Wertstoffhofes Eper Straße 73-77
+- TOP 9.1: Neubau eines Wertstoffhofes Eper Straße 73-77 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Durchlasserneuerung am Bösingbach im Bereich Klosterstraße - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wirtschaftsplan 2024 der Zentralen Bau- und Umweltdienste - Einstimmig, 0 Enthaltungen
+- TOP 12.: Planung Hundewald Ergebnisse der Standortprüfung Amelandsweg/Amelandsbrückenweg - Einstimmig, 0 Enthaltungen
+- TOP 13.: Maßnahmen zum Baumschutz - Einstimmig, 0 Enthaltungen
+- TOP 14.: Neuorganisation der Verkehrsführung im Bereich Kreisverkehr Herzogstraße, Steinstraße, Königstraße – Antrag der Fraktion Bündnis 90/Die Grünen vom 27.10.2021
+- TOP 15.: Antrag der Fraktion pro:Bürgerschaft vom 27.09.2023; Qualitätsoffensive für die innerörtlichen Radwege auf der Basis des Radwegeverkehrskonzept und unseres Antrages v. 10. Nov., VUET 27.11.2018 - Einstimmig, 3 Enthaltungen
+- TOP 16.: Fortschreibung der Prioritätenliste für den Endausbau von Straßen in Gronau und Epe
+- TOP 17.: Straßenbauprogramm für die Jahre 2024/ 2025/ 2026 - 12 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 18.: Errichtung eines Mehrzweckspielfeldes/Streetbasketballfeld auf dem Laga Gelände - Einstimmig, 0 Enthaltungen
+- TOP 19.: 3. Änderungssatzung zur Satzung der Stadt Gronau (Westf.) zur Umlage der Kosten der Gewässerunterhaltung gemäß § 64 LWG - Einstimmig, 0 Enthaltungen
+- TOP 20.: Antrag Bürgerbusverein: Restbetragsfinanzierung neues Fahrzeug - Einstimmig, 1 Enthaltungen
+- TOP 21.: Neuer Fahrplan 2024 Bürgerbus Gronau
+- TOP 22.: Baumfällungen Winter 2023/2024 1. Nachmeldung
+- TOP 23.: Winterdienst 2023/24
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 24.1: Einbahnstraße Bösingbachstiege
+- TOP 24.2: „Bahnhof Epe“ - Sachstandsbericht zu den Gesprächen mit der ZVM Antrag der Fraktion pro:Bürgerschaft vom 29.11.2023
+- TOP 24.3: Besetzung Klimaschutzstelle
+- TOP 24.4: Wegfall Fördermittel
+- TOP 24.5: Enscheder Straße/ Höhe Tankstelle
+- TOP 25.: Anfragen
+- TOP 25.1: Buslinie Epe (Anfrage von AM Doetkotte)
+- TOP 25.2: G-Mobil nicht buchbar (Anfrage von RM Große Dütting)
+- TOP 25.3: Müllvermeidung Plätzchen in den Sitzungen (Anfrage von RM Große Dütting)
+- TOP 25.4: Verkehrsversuch: Schilder in Folie (Anfrage von RM Krause)
+- TOP 25.5: Widmung Weg an der Schule Stadtwesten (Anfrage von RM Krause)
