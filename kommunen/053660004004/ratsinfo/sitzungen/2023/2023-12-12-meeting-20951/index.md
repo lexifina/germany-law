@@ -1,0 +1,79 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2023-12-12T18:00:00+01:00
+- Ende: 2023-12-12T21:30:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZexfcQfPO9oGwVQVVLakMew
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/20951
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZazFxBd7AA43RPAWCvGd9J2I5Ok7g_5dSak-C31MQVJW/Bekanntmachung_Rat_12.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSI7d9GZh53Ut6n4WhXPTsqYcXwJjjI6nWjgANxUBJyg/Oeffentliche_Niederschrift_Rat_12.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 24.10.2023 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Kindergartenbedarfssituation in Houverath; hier: weiteres Vorgehen - Einstimmiger Beschluss:
+- TOP -: Kindergartenbedarfssituation in Houverath; hier: Genehmigung einer überplanmäßigen Ausgabe nach Submissionsende - Einstimmiger Beschluss:
+- TOP 4.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 5.: Neubesetzung von Ausschüssen und Kommissionen hier: Nachfolgeregelung Karl Michalowski; Anträge der SPD-Fraktion vom 22.11.2023 und 29.11.2023 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP -: Neubesetzung von Ausschüssen und Kommissionen hier: Antrag der FDP-Fraktion vom 05.12.2023 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i.V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Bestellung von Mitgliedern für die Gesellschafterversammlung der NeT Hier: Nachfolgeregelung Karl Michalowski; Antrag der SPD-Fraktion vom 29.11.2023 - Einstimmiger Beschluss:
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Neubesetzung des Wahlausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 23.11.2023 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 10.: Beitritt zur Friedensorganisation "Mayors for Peace" hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 17.11.2023 - Beschluss s. RD-NR. 1230-XI/Z-1.
+- TOP -: Beitritt zur Friedensorganisation "Mayors for Peace" hier: Ausführung der Verwaltung - Beschluss mit 8 Ja- und 15 Nein-Stimmen sowie 6 Enthaltungen und damit abgelehnt.
+- TOP 11.: Spielwiese in Iversheim Hier: Antrag des Dorfverschönerungsvereins Iversheim e.V.; Antrag nach § 24 GO NRW - Einstimmiger Beschluss:Der Stadtverordnete Wilfried Schumacher, CDU-Fraktion, wirkt wegen Befangenheit nicht mit.
+- TOP 12.: Hauptsatzung der Stadt Bad Münstereifel hier: 2. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel vom 09.11.2020; Anpassung aufgrund einer Neufassung der Entschädigungsverordnung - Einstimmiger Beschluss:
+- TOP 13.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2024 (Hebesatzsatzung) - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 14.: Turnus der Biotonnenleerung im Herbst hier: Antrag der SPD-Fraktion vom 18.10.2023 - Beschluss siehe RD-Nr. 1190-XI/Z-2.
+- TOP -: Turnus der Biotonnenleerung im Herbst hier: Antrag der SPD-Fraktion vom 18.10.2023 – Ausführung der Verwaltung - Beschluss siehe RD-Nr. 1190-XI/Z-2.
+- TOP -: Turnus der Biotonnenleerung im Herbst hier: Beschlussempfehlung des Haupt- und Finanzausschusses - Einstimmiger Beschluss:
+- TOP 15.: 26. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Beschluss siehe RD-Nr. 1227-XI/Z-1.
+- TOP -: 26. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel; hier: Beschlussempfehlung des Haupt- und Finanzausschusses - Einstimmiger Beschluss:
+- TOP 16.: 37. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 17.: 45. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung; 1) Abwassergebühren (Kanalbenutzungsgebühren) 2024 2) Ermäßigung Niederschlagswassergebühr bei Zisternennutzung zur Gartenbewässerung - Beschluss mit 24 Ja- und 5 Nein-Stimmen:
+- TOP 18.: 27. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung; 1) Wassergebühren 2024 2) Grundgebühr Standrohrvermietung - Einstimmiger Beschluss:
+- TOP 19.: Entsorgungsgebühren Grundstücksentwässerungsanlagen 2024 hier: 18. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 20.: Änderung der Regelungen für die Standrohrvermietung; hier: 3. Satzung zur Änderung der Wasserversorgungssatzung - Einstimmiger Beschluss:
+- TOP 21.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 22.: Widmung der Straße "Scheurenbenden" in Bad Münstereifel-Mahlberg (Bebauungsplan Nr. 67) - Einstimmiger Beschluss:
+- TOP 23.: Wiederaufbau Feuerwehrgerätehaus in der Kölner Straße; hier: Beratung über die weiteren Verfahrensschritte - Einstimmiger Beschluss:
+- TOP 24.: Auftragsvergabe Verkehrssicherung im Friedwald hier: Festlegung der öffentlichen Ausschreibungskriterien - Einstimmiger Beschluss:
+- TOP 25.: 34. Änderung des Flächennutzungsplanes „Hundeübungsgelände Odesheim“ im Ortsteil Odesheim hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Einstimmiger Beschluss:
+- TOP 26.: Bebauungsplan Nr. 99 „Hundeübungsgelände Odesheim“ im Ortsteil Odesheim Hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss siehe RD-Nr. 1109-XI/Z-1.
+- TOP -: Bebauungsplan Nr. 99 „Hundeübungsgelände Odesheim“ im Ortsteil Odesheim Hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP 27.: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet - Beschluss siehe RD-Nr. 1216-XI/Z-3.
+- TOP -: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet; hier: Beschlussempfehlung des Haupt- und Finanzausschusses - Beschluss mit 26 Ja-Stimmen und 1 Nein-Stimme sowie 2 Enthaltungen:
+- TOP 28.: Unterbringungssituation Geflüchteter und Situation allgemein hier: aktueller Sachstand und Zustimmung zur Anmietung weiterer Unterbringungsmöglichkeiten - Einstimmiger Beschluss:
+- TOP -: Unterbringungssituation Geflüchteter und Situation allgemein hier: Prüfung evtl. Notunterkünfte für Geflüchtete in städt. Einrichtungen - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 29.: Erlass der Wirtschaftspläne 2024 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser; hier: Feststellung - Einstimmiger Beschluss:
+- TOP 30.: Erlass des Wirtschaftsplanes 2024 des Forstbetriebes der Stadt Bad Münstereifel hier: Einbringung des Entwurfes - Einstimmiger Beschluss:
+- TOP 31.: Genehmigung einer überplanmäßigen Ausgabe bei der Kostenstelle/Konto X2126100200/5251000; hier: Reparatur Drehleiterfahrzeug der Löschgruppe Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 32.: Erlass der Haushaltssatzung für das Haushaltsjahr 2024 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 33.: Stellenplan für das Haushaltsjahr 2024 - Einstimmiger Beschluss:
+- TOP 34.: Anfragen und Mitteilungen
+- TOP 34.1: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 34.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 34.3: Sachstand Wiederaufbau hier: Stand 01.12.2023
+- TOP 34.4: Bericht zum 30.09.2023 im Rahmen des Finanzcontrollings
+- TOP 34.5: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2024
+- TOP 34.6: Tax Compliance Management System (TCMS)/Steuerrichtlinie der Stadt Bad Münstereifel sowie Dienstanweisung Steuern
+- TOP 34.7: Bericht zum 30.11.2023 im Rahmen des Finanzcontrollings
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung von Windenergieanlagen hier: Abschluss eines Gestattungsvertrages; LOI zu finanziellen Beteiligungsmöglichkeiten - Einstimmiger Beschluss:
+- TOP 2.: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet - Beschluss siehe RD-Nr. 1216-XI/Z-2.
+- TOP -: Mögliche Errichtung einer weiteren Containeranlage zur Unterbringung von Geflüchteten im Gewerbegebiet; hier: Beschlussempfehlung des Haupt- und Finanzausschusses und Verhandlungsergebnis - Mehrheitlicher Beschluss bei 1 Nein-Stimme:
+- TOP 3.: Technische Gebäude Ausrüstung - Digitalisierung der Schulen in Bad Münstereifel hier: Ausschreibung und Auftragsvergabe der EDV Infrastruktur - Einstimmiger Beschluss:
+- TOP 4.: Anfragen und Mitteilungen
+- TOP 4.1: Erwerbsmöglichkeit eines Objektes zur Unterbringung geflüchteter und obdachloser Menschen hier: Mitteilung der Verhandlungsergebnisse
+- TOP 4.2: Unterbringungssituation Geflüchteter und Situation allgemein hier: Antrag auf vorübergehende Aussetzung von Neuzuweisungen
+- TOP 4.3: Ersatzbeschaffung eines Tragkraftspritzenfahrzeug (TSF – W) für die Löschgruppe Eschweiler sowie eines Tragkraftspritzenfahrzeug (TSF – W) für die Freiwillige Feuerwehr; hier: Mitteilung der wirtschaftlichsten Bieter
+- TOP 4.4: Sachstand Feuerwehrfahrzeug Mutscheid
+- TOP 4.5: Grundschule Bad Münstereifel hier: Klassenraum 208
+- TOP 4.6: Haltestellen Citybus hier: Anfrage des Stadtverordneten Thomas Bell, Die Linke
