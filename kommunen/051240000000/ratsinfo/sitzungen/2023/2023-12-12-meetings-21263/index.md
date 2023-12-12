@@ -1,0 +1,76 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-12-12T16:00:00+01:00
+- Ende: 2023-12-12T17:45:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21263
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21263
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00323020.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00324120.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Lagebericht 2021 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2022 der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2022 Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Bundesgartenschau Wuppertal 2031 gGmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2024 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan 2024 KIJU - ungeändert beschlossen
+- TOP 2.6: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Nachtrag zum Wirtschaftsplan 2023 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Neufassung des Gesellschaftsvertrages der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.2: Sicherung der Wirtschaftlichen Existenz der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.3: QUARTALSREPORT für Q3/2023 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 3.4: Zwischenbericht Zukunft GMW zur Aufbauorganisation und strategische Unternehmens-Zielsteuerung - Entgegennahme ohne Beschluss
+- TOP 3.5: Bestellung der Stellvertreterin des Vertreters der Stadt Wuppertal in der Verbandsversammlung des Verkehrsverbundes Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Aktueller Sachstand zum Projekt Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 5.2: Verkauf eines städtischen Grundstücks - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Überleitung und Anpassung der bestehenden Integrierten Städtebaulichen Entwicklungskonzepte (ISEKs) hinsichtlich der neuen Städtebauförderrichtlinie NRW 2023 - geändert beschlossen
+- TOP 6.2: Verlängerung der Anmietung von Räumlichkeiten in der Vogelsangstr. 106 (ehem. Landesfrauenklinik) zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 6.3: Anmietung eines Gerätehauses für die Freiwillige Feuerwehr Nächstebreck - ungeändert beschlossen
+- TOP 6.4: Brandschutzbedarfsplan 2023-2028; hier: vierte Wache - Funktionsbesetzungskonzepte eins und zwei - ungeändert beschlossen
+- TOP 6.5: Katastrophenschutzbedarfsplan 2023 - 2028 für die Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Verwendung des Bürger*innenbudgets 2023 - ungeändert beschlossen
+- TOP 6.7: Kostenneufestsetzung für laufende Schulprojekte - ungeändert beschlossen
+- TOP 6.8: Felsensicherung am Sportplatz Höfen und Erneuerung des Kunstrasenplatzes - ungeändert beschlossen
+- TOP 6.9: Annahme der Schenkung eines Kunstwerks - ungeändert beschlossen
+- TOP 6.10: Gleichstellungsplan der Stadtverwaltung Wuppertal 2023-2026 - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Bericht zum 31.10.2023 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Sachstand zur Nachverfolgung der Haushaltsbeschlüsse – Große Anfrage der Fraktionen von SPD, CDU und FDP vom 28.09.2023 - Entgegennahme ohne Beschluss
+- TOP 9.1.1: Sachstand zur Nachverfolgung der Haushaltsbeschlüsse - Entgegennahme ohne Beschluss
+- TOP 9.2: Struktur der Kassen- und Investitionskredite - Entgegennahme ohne Beschluss
+- TOP 9.2.1: Struktur der Kassen- und Investitionskredite - Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 28.11.2023 – Antwort der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 9.3: Projekt zur Entwicklung eines kommunalen Nachhaltigkeitshaushaltes - ungeändert beschlossen
+- TOP 9.4: Verwaltungsgebührensatzung 2024 - ungeändert beschlossen
+- TOP 9.5: Gebührensatzung zur Abfallwirtschaft 2024 - ungeändert beschlossen
+- TOP 9.6: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2024 - ungeändert beschlossen
+- TOP 9.7: Gebührendrucksache Trinkwasser 2024 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW III. Quartal 2023 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Wirtschaftsplan 2024 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 12.2: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal Jahresabschluss 2023 - ungeändert beschlossen
+- TOP 12.3: 18. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.4: 3. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.5: Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
