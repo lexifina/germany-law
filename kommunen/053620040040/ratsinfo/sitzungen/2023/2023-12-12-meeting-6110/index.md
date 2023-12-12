@@ -1,0 +1,51 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2023-12-12T18:00:00+01:00
+- Ende: 2023-12-12T20:00:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZS1o9jXT5hPMM7NZzNyzVvs
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6110
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfn-VHzgVxhFi8qery99k08UpkkZyvH-gKiONEVAH_N_/Einladung_Rat_12.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdOtGJJsQIp6QB9l21-rBoTchK1RNqScxtkVuVZfpI7C/Oeffentliche_Niederschrift_Rat_12.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Wahl einer Schiedsperson für den Schiedsamtsbezirk Wesseling I - Einstimmig, 0 EnthaltungenHerr Schöneberger erklärt, dass er die Wahl annimmt.Herr Bürgermeister Manzke gratuliert Herrn Schöneberger zur Wahl, dankt für die Bereitschaft, das Amt weiterhin zu übernehmen und wünscht für die Tätigkeit viel Erfolg.Herr Dr. 
+- TOP 7.: Einbringung des Entwurfs der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2024/2025 mit ihren Anlagen
+- TOP 8.: Satzungsänderung der Satzung über die Erhebung von Abwassergebühren, Kanalanschlussbeiträgen, Kos-tenersatz für Grundstückanschlüsse in der Stadt Wesseling in der Fassung vom 15. Dezember 2021 (Abwassergebührensatzung) - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 9.: Haushaltswirtschaft im Haushaltsjahr 2023
+- TOP 9.1.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 9.2.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer außerplanmäßigen Ausgabe - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 9.3.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 9.3.1.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung über- und außerplanmäßiger Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 9.4.: Genehmigung einer Dringlichkeitsentscheidung: Bereitstellung einer überplanmäßigen Ausgabe im Haushaltsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Finanzierung der Sanierung Brühler Straße 99, 1. Obergeschoss - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Namensgebung für die städtische Kindertageseinrichtung Josef-Kuth-Weg in Urfeld - Einstimmig, 0 Enthaltungen
+- TOP 13.: Festlegung der Klassenrichtzahl und der Klassenstärken für die erste Jahrgangsstufe für das Schuljahr 2024-2025 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Stadt Brühl und der Stadt Hürth zu einem infrastrukturellen Angebot an der Pestalozzischule Brühl - Einstimmig, 0 Enthaltungen
+- TOP 15.: Genehmigung einer Dringlichkeitsentscheidung: Benennung von Vertretern zur Teilnahme in den Gremien der NRW.URBAN Kommunale Entwicklung GmbH - Einstimmig, 0 Enthaltungen
+- TOP 16.: Genehmigung einer Dringlichkeitsentscheidung: hier: Übernahme der Kosten für die Teilnahme an der Jahrestagung für Mitglieder von Jugendhilfeausschüssen. - Einstimmig, 0 Enthaltungen
+- TOP 17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2024
+- TOP 18.1.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2024 hier: Änderungsantrag der Fraktionen CDU und Bündnis90/Die Grünen - Ja-Stimmen: Frau Bauer, Herr Daniel, Herr Engelmann, Frau Engels-Bremer, Frau Engels-Welter, Herr Fulda, Herr Gillet, Herr Hambach, Frau Keilhau, Frau Keller, Frau Limbach, Herr Dr. Löffler, Herr Marx, Herr Mollenhauer, Herr Nep, Herr Nürnberg, Herr Röttg
+- TOP 19.: Kommunale Partnerschaften mit der Ukraine hier: Auswahl einer Solidaritätspartnerstadt
+- TOP 19.1.: Kommunale Partnerschaften mit der Ukraine; Auswahl einer Solidaritätspartnerstadt hier: Änderungsantrag der Fraktionen CDU und Bündnis90/Die Grünen - 20 Ja-Stimmen, 17 Nein-Stimmen, 0 Enthaltungen
+- TOP 20.: Antrag der SPD-Fraktion: Resolution: Wesseling schlägt Alarm - Handlungsfähigkeit gefährdet! Hilferuf an Ministerpräsident Wüst - massive Steuererhöhungen vermeiden - Der Antrag wird mit 17 Ja-Stimmen, 19 Nein-Stimmen, 1 Enthaltung abgelehnt.
+- TOP 21.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Antrag der Fraktionen CDU und B90/Die Grünen: Kindertagespflege-Navigator - Einstimmig, 0 Enthaltungen
+- TOP 23.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2022 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Mitteilungen und Anfragen
+- TOP 2.: Presseveröffentlichungen
