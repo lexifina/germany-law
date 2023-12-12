@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 78 Absatz 6 des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990) in Verbindung mit § 1d Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, von denen § 1d Nummer 1 durch Artikel 1 der Verordnung vom 26. Juni 2021 (BGBl. I S. 2027) eingefügt worden ist, und in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz und nach Anhörung der Deutschen Bundesbank:
