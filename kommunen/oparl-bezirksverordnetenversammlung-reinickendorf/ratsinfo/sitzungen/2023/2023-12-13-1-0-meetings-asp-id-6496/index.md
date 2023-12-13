@@ -1,0 +1,127 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T19:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6496
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6496
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=468308
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 1.1: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Gelände der ehemaligen Karl-Bonhoeffer-Nervenklinik" - überwiesen
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 26. Sitzung der BVV am 13.12.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung über die Dringlichkeiten der 26. Sitzung der BVV am 13.12.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Bebauung des Uferbereich des Schäfersees - beantwortet
+- TOP 3.2: Durchfahrtverbot für Kraftfahrzeuge in der Schildower Straße in Hermsdorf - beantwortet
+- TOP 3.3: Sicherere Querungsmöglichkeit des Senftenberger Rings in Höhe des Busstopps "Märkische Zeile" - beantwortet
+- TOP 3.4: Auswirkungen auf die bezirkliche Wohnungslosenhilfe - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 26. Sitzung der BVV am 13.12.2023 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Status Quo zum Umbau des Gebiets um die Residenzstraße - beantwortet
+- TOP 5.2: Schnee- und Laubbeseitigung - beantwortet
+- TOP 5.3: Projektförderung in der Rollberge-Siedlung - beantwortet
+- TOP 5.4: Pressemitteilung 1019 des Bezirksamtes Reinickendorf "Bezirkstadträtin Schrod-Thiel empfängt Studierende aus Ludwigsburg" vom 02.11.2023 - beantwortet
+- TOP 5.5: Bauvorbescheidsantrag KBoN-Gelände - in der BVV zurückgezogen
+- TOP 5.6: Müllproblematik Räuschstraße/ Holzhauser Straße - beantwortet
+- TOP 5.7: Mobilitätskonzept City Foch - beantwortet
+- TOP 5.8: Pumps-Parade - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Nachwahl eines/einer Bürgerdeputierten in den Jugendhilfeausschuss (Antrag) - vertagt
+- TOP 6.2: KiTa-Gipfel für Reinickendorf (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Bushaltestellen Landesgrenze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Open Data Strategie für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: "Reinickendorfer Solarkonferenz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Bau eines Spielplatzes im Ortsteil Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Babyschaukeln für Reinickendorfer Spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Mehr Sicherheit im Dunkeln auf dem Saalmannsteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Städtepartnerschaft mit Polen - vertagt
+- TOP 8.8: Grüner Mittelstreifen Aroser Allee II - Bepflanzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Schleichweg verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Bericht Krebs in Berlin fortschreiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: LSBTIQ-Fahnen im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: BVG-Haltestellenhäuschen an der Buddestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Haltestelle Buddestraße mit Daisyanzeiger oder einer entsprechenden Anlage versehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Für mehr Sauberkeit - Taubenbefall am S-Bahnhof Frohnau bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.15: Mehr Sicherheit am Hermsdorfer S-Bahnhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Barrierefreiheit bei der Buslinie 125 in der Quäkersiedlung unterstützen (III) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: Fehlende Müllbehälter an den Sitzbänken im Grünstreifen der Techowpromenade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Straßenschild Möbelweg vergrößern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.19: Vermüllung hinter dem BSR-Recyclinghof beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.20: Sitzbänke an der Bushaltestelle Otisstraße/Quäkerstraße erneuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Jugendfreundliches Reinickendorf - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Behindertenparkplatz bei Nahkauf im Ortsteil Konradshöhe etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Anpassung der Parkplatzkapazitäten für PKW im Bereich der Cité Foch - vertagt
+- TOP 11.3: Nachhaltigen Tourismus in Reinickendorf stärken - in der BVV abgelehnt
+- TOP 11.4: Schwimmen lehren, Leben retten - Mehr Schwimmunterricht ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Parkour-Anlagen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Förderung von Präventionsangeboten für Kinder und Jugendliche - in der BVV abgelehnt
+- TOP 11.7: Leitfaden zur Vorgartengestaltung - vertagt
+- TOP 11.8: Baumpflanzungen in der Gorkistraße - vertagt
+- TOP 11.9: Baulückenkataster für Reinickendorf - in der BVV abgelehnt
+- TOP 11.10: Reinigung der Finsterwalder Brücke im Märkischen Viertel - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Soziale Begegnungsräume in der Cité Foch - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Notrufsäule am Flughafensee - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Parken an abgesenkten Bordsteinen konsequent kontrollieren - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Sitzbank im Waldseeweg erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Neuer Hundetreffpunkt für Reinickendorf Mitte/West - vertagt
+- TOP 11.16: Barrierefreiheit auch in der Graphothek - mit Änderungen in der BVV beschlossen
+- TOP 11.17: Grobscreening aktualisieren - mit Änderungen in der BVV beschlossen
+- TOP 11.18: Sondergenehmigungen für erweiterte Schankvorgärten für die Gastronomie in Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 11.19: Kurt-Schumacher-Denkmal instand halten und reinigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Durchführung einer öffentlichen Ausschreibung für den Kiosk am Schäfersee - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.22: Erhalt des "Wittenauer Stadtwaldes" auf dem KaBoN-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Beet-Einfassungen und Sitzbänke um den Schinkelbrunnen sanieren - vertagt
+- TOP 11.24: Breitensport weiter fördern - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Heinsestrasse - bauliche Tiefbauunterhaltung in den Haushaltsjahren 2024/2025 - überwiesen
+- TOP 11.26: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - überwiesen
+- TOP 11.27: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - überwiesen
+- TOP 11.28: barrierefreier Parkplatz am Max-Beckmann-Platz in Hermsdorf - überwiesen
+- TOP 11.29: Anwohnerfest in der Heinsestraße unterstützen - überwiesen
+- TOP 11.30: Heinsestrasse - bauliche Tiefbauunterhaltung in den Haushaltsjahren 2024/2025 - überwiesen
+- TOP 11.31: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - überwiesen
+- TOP 11.32: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - überwiesen
+- TOP 11.33: barrierefreier Parkplatz am Max-Beckmann-Platz in Hermsdorf - überwiesen
+- TOP 11.34: Anwohnerfest in der Heinsestraße unterstützen - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Solidarität mit der Kocasinan Moschee: Gemeinsam für Respekt und Toleranz in Reinickendorf! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Ausstellung über das Leben und Wirken von Emil Krebs - überwiesen
+- TOP 13.2: Kita-Zugang zu behindertengerechten Sanitäranlagen - überwiesen
+- TOP 13.3: Spielplatzentwicklungsplan - überwiesen
+- TOP 13.4: Sportplatz Borsigwalder Grundschule - überwiesen
+- TOP 13.5: Reparation des Erdlochs auf dem Bibliotheksparkplatz der Humboldt-Bibliothek - überwiesen
+- TOP 13.6: Vereine mit dem Schwerpunkt Kleinkinder und Kindersport entlasten - überwiesen
+- TOP 13.7: Obdachlosigkeit in Reinickendorf bekämpfen - überwiesen
+- TOP 13.8: Wartebereiche im Rathaus Reinickendorf - überwiesen
+- TOP 13.9: Übersicht über Sachbeschädigung und Vandalismus an den Reinickendorfer Schulen - überwiesen
+- TOP 13.10: Mobilitätskonzept für die Cité Foch auf mein.berlin.de und mein-reinickendorf.de veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Nachhaltigkeit des Leit- und Informationssystems im Märkischen Zentrum - überwiesen
+- TOP 14.2: Wartehäuschen auch am S-Bahnhof Hermsdorf - überwiesen
+- TOP 14.3: Fahrradwege Heiligensee - überwiesen
+- TOP 14.4: Weitere Kürzungsvorgaben des Landes beim Bezirkshaushalt entschieden zurückweisen! - in der BVV zurückgezogen
+- TOP 14.5: Oberschulmesse für alle Eltern zugänglich halten! - überwiesen
+- TOP 14.6: Einsatz von KI für die Verwaltungsdigitalisierung - überwiesen
+- TOP 14.7: Fahrradweg Heiligenseestraße - überwiesen
+- TOP 14.8: Überprüfung und Instandsetzung Beleuchtungsanlage Beyschlagtunnel A111 - überwiesen
+- TOP 14.9: Schwerpunkteinsätze zur Kontrolle des Grillverbots in den bezirklichen Grünflächen im kommenden Jahr - überwiesen
+- TOP 14.10: Förderung des "Zukunftstags" an Reinickendorfer Schulen - überwiesen
+- TOP 14.11: Arbeitsfähigkeit der Kommunalverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
