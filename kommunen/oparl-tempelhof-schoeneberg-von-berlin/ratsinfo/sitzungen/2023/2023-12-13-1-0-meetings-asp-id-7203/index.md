@@ -1,0 +1,93 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T20:00:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7203
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7203
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=435560
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 3.1: Feueralarm an der Ruppin-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Einrichtung eines Ortes mit Informationen zum Kinder- und Jugendparlament Tempelhof-Schöneberg (im Folgenden KJP T-S) in allen Schul- und Freizeitein-richtungen des Bezirks - überwiesen
+- TOP 3.3: Inklusionslotsen für die Schulen - überwiesen
+- TOP 3.4: Häufigere oder bessere Reinigung der Toiletten der Ruppin-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.5: Renovierung/Sanierung der Sanitäranlagen in der Johanna-Eck-Schule (ISS) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.6: Einheitliche Ausstattung der Schüler mit Schülerausweis und Schulplaner - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Pflege und Instandhaltung von Kunst und Denkmälern im öffentlichen Straßenraum – (k)eine Priorität? - beantwortet
+- TOP 4.2: Kein goldener Tampon: Niedrigschwellig Hygieneprodukte in Schulen bereitstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Kältehilfe 2023/2024 - beantwortet
+- TOP 4.4: Wie lässt sich Digitalisierung und analoge Teilhabe von Menschen in den Bezirksstrukturen künftig gut vereinbaren? - beantwortet
+- TOP 4.5: Stand und Perspektiven der Verwaltungsreform – welche Ziele verfolgt der Bezirk? - beantwortet
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: "Gehwegschäden" beseitigen - überwiesen
+- TOP 5.2: Dezentrale Beratungsangebote des Bezirks zum SGB XII entwickeln und stärken - überwiesen
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2022 - überwiesen
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Bestehenden Rahmenvertrag zur Graffitientfernung ausweiten - vertagt
+- TOP 9.2: Einschulungstag ist ein Familientag - ohne Parteien bitte - vertagt
+- TOP 9.3: Medizinische Notversorgung in Flüchtlingsunterkunft im Flughafen Tempelhof - vertagt
+- TOP 9.4: Bezirke am Gewerbesteueraufkommen beteiligen - überwiesen
+- TOP 9.5: Ausweitung der Parkraumbewirtschaftung in Tempelhof westlich der Manteuffelstraße prüfen - vertagt
+- TOP 9.6: Verlängerung der U9 - überwiesen
+- TOP 9.7: Gegen Mietwucher (§ 5 WiStG) wirksam vorgehen! - vertagt
+- TOP 9.8: Änderung § 51 der Geschäftsordnung – Einwohneranträge würdigen und als festen Bestandteil in die Tagesordnung integrieren - in der BVV abgelehnt
+- TOP 9.9: Ein P+R und B+R Parkhaus für Alt-Mariendorf - überwiesen
+- TOP 9.10: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Radnetzänderungen gemeinsam anmelden! - überwiesen
+- TOP 9.12: Prüfung nach Ausweitung der Parkzone 92 im nordwestlichen Bereich - im Ältestenrat zurückgezogen
+- TOP 9.13: Nachuntersuchung Parkraumbewirtschaftung - überwiesen
+- TOP 9.14: Kältebahnhöfe für obdachlose Menschen wieder öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Zugänglichkeit der Fahrradständer für Lastenräder an der SSH - überwiesen
+- TOP 9.16: Verkehrsanbindung für das Gewerbegebiet am Hossauerweg verbessern - überwiesen
+- TOP 9.17: Gehwege vor öffentlichen Grundstücken von Schnee und Eis befreien bzw. abstreuen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Guter Kinder- und Jugendarbeit von TIK e.V. weiterhin eine Chance geben - überwiesen
+- TOP 9.19: Eckenparken an der Kreuzung Waldsassener Straße / Tirschenreuther Ring - überwiesen
+- TOP 9.20: Parkplatz des OSZ Lotis effektiver nutzen - vertagt
+- TOP 9.21: Die BVV verurteilt die Beschädigung des Chanukka-Leuchters an der Urania - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Zahl der KiTa- und Krippenplätze in Tempelhof-Schöneberg - überwiesen
+- TOP 10.2: Umsetzung des Energieeffizienzgesetzes im Bezirk Tempelhof-Schöneberg - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Parkraumbewirtschaftung mit Augenmaß – Teil 1 - vertagt
+- TOP 11.2: Green Buddy Award: Fokus auf unseren Bezirk! - vertagt
+- TOP 11.3: Dem öffentlichen Drogenkonsum entgegentreten - vertagt
+- TOP 11.4: Respekt durch Präsenz - uniformierte Einsatzkräfte in die Mitte unserer Gesellschaft rücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Zügige Wohngeld-Weiterbewilligung ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Ein Geschichtsparcours für das Fliegerviertel - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Freigabe der seit zwei Jahren sanierten Räume 2112 und 2113 im Rathaus Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Mehr Sicherheit und Aufenthaltsqualität im Akazienkiez - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Tempelhofer Kiez für Menschen statt Kfz-Durchgangsverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Taubenmanagement in Tempelhof-Schöneberg voranbringen und Fördermittel nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Klimabildung für Kinder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Mehr Entsiegelung bei Baumscheiben ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 19 / 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 20 / 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Eine Zugabe für Kitty Kuse - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Gesetzlich legitimiertes Schulgremium arbeitsfähig machen – Bezirkselternausschuss Schule finanziell angemessen ausstatten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Aufwertung der Kindertagespflege - überwiesen
+- TOP 12.4: Öffentliche Toiletten auf Dauer kostenfrei - überwiesen
+- TOP 12.5: Das Buch „Maison de Santé“ wieder verfügbar machen - überwiesen
+- TOP 12.6: Beschlüsse des Bezirksamtes auf der Webseite übersichtlich veröffentlichen - überwiesen
+- TOP 12.7: Das Kino im Rathaus Schöneberg wieder nutzbar machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.8: Stadtteilkoordination Schöneberg Nord auch nach 2024 weiterführen - überwiesen
+- TOP 12.9: Den Flügel von Ursula Mamlok im Goldenen Saal unterbringen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.10: Fußgängerampel am Friedrich-Wilhelm-Platz - überwiesen
+- TOP 12.11: Menstruationsprodukte über das Landesverwaltungsamt beziehbar machen - überwiesen
+- TOP 12.12: Medizinische Erstversorgung für die Menschen in den Unterkünften am ehemaligen Flughafen Tempelhof sicherstellen - überwiesen
+- TOP 12.13: Bereichsentwicklungsplanung (BEP) Tempelhof-Schöneberg für den Geltungsbereich Tempelhof/Mariendorf Nord - überwiesen
+- TOP 12.14: Vorhabenliste des Bezirks Tempelhof-Schöneberg von Berlin - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
