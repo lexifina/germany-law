@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2023-12-13T15:00:00+01:00
+- Ende: 2023-12-13T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6693
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/6693
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00209572.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00209572.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00209572.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 13.09.2023 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 1.1: Niederschrift über die Sitzung des Rates vom 18.10.2023 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Bestellung der stellvertretenden Schriftführenden für die Sitzungen des Rates der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 3: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2022 - Einstimmiger Beschluss
+- TOP 4: Jahresabschluss 2022 - Beschluss über die Verwendung des Jahresergebnisses 2022 gemäß § 96 GO - Einstimmiger Beschluss
+- TOP 5: Umwidmung von Haushaltspositionen im Haushalt 2023; hier: Fraktionsantrag SPD: GRÜNE, FDP vom 14.11.2023 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Wirtschaftsplan 2024 der mags - Mit Stimmenmehrheit beschlossen
+- TOP 7: Siebter Nachtrag zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Mönchengladbach (Straßenreinigungs- und Gebührensatzung) - Kenntnisnahme
+- TOP 8: Schaffung von präventiven Angeboten zur Unterstützung von Familien mit vorübergehendem Unterstützungsbedarf (§ 20 Kinder- und Jugend Stärkungsgesetz) - Einstimmiger Beschluss
+- TOP 9: Wirtschaftsplan des Gebäudemanagement Mönchengladbach (gmmg) für das Jahr 2024 - Einstimmiger Beschluss
+- TOP 10: Kanalbenutzungsgebührensatzung - Einstimmiger Beschluss
+- TOP 11: Erster Nachtrag zur Betriebssatzung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 12: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Rathaus der Zukunft mg+ gemäß § 13 I der Betriebssatzung für das Wirtschaftsjahr 2024 - Einstimmiger Beschluss
+- TOP 13: Entwurf des Haushaltes 2024; Haushaltssatzung einschließlich Anlagen - Mit Stimmenmehrheit beschlossen
+- TOP 13.1: Vorlage 2639/X: Beratung des Entwurfs des Haushaltes 2024, hier: Förderung der Schwimmassistenz - Einstimmiger Beschluss
+- TOP 13.2: Haushalt 2024 - Projekt "Kunstrasen SC Broich-Peel" - Mit Stimmenmehrheit abgelehnt
+- TOP 13.3: Stellenplan 2024 - Mit Stimmenmehrheit beschlossen
+- TOP 13.3.1: Haushalt 2024: Antrag zum Stellenplan 2024; hier Antrag der CDU-Fraktion vom 22.11.2023 - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Beteiligung der Stadt Mönchengladbach an der Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 15: Beteiligung der WFMG - Wirtschaftsförderung Mönchengladbach GmbH; hier: Gründung der T7 Management GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 16: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Erweiterung des Gesellschafterkreises der WFMG - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beteiligung an der NEW AG - Einstimmiger Beschluss
+- TOP 18: Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 und Folgebericht zu BV 2561/X - Kenntnisnahme
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (3. Nachweisung) - Kenntnisnahme
+- TOP 20: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 12.900.000 € im Bereich "Hilfe zur Erziehung" - Mit Stimmenmehrheit beschlossen
+- TOP 21: Fünfter Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Mönchengladbach (Abfallsatzung - AbfS -), zum Siebter Nachtrag zur Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 22: Vierter Nachtrag zur Satzung für die Friedhöfe in der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 23: Nachwahl eines Personalvertreters des Verwaltungsrates der Stadtsparkasse Mönchengaldbach - Einstimmiger Beschluss
+- TOP 24: Vertretung der Stadt Mönchengladbach in Organen von Unternehmen und Einrichtungen mit städtischer Beteiligung - Einstimmiger Beschluss
+- TOP 25: Entwurf des Gesamtabschlusses der Stadt Mönchengladbach 2019 - Einstimmiger Beschluss
+- TOP 26: Entwurf des Gesamtabschlusses der Stadt Mönchengladbach 2020 - Einstimmiger Beschluss
+- TOP 27: 5. Fortschreibung Digitalisierungsstrategie - Kenntnisnahme
+- TOP 28: Ordnungsbehördliche Verordnung zum Schutz freilebender Katzen im Gebiet der Stadt Mönchengladbach (Katzenschutzverordnung) - Einstimmiger Beschluss
+- TOP 28.1: Änderungsantrag zur Beratungsvorlage Nr. 2672/X: Hier: Antrag von SPD, BÜNDNIS 90/DIE GRÜNEN und FDP vom - Mit Stimmenmehrheit beschlossen
+- TOP 29: Tarif des Städtischen Museums Abteiberg und Tarif des Städtischen Museums Schloss Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 30: Schulordnung für die Musikschule der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 31: Verlängerung der Sockelbetragsfinanzierung der Verbände der Freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 32: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. - Mit Stimmenmehrheit beschlossen
+- TOP 33: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 34: Zuschussvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchenglad-bach e.V. über die Erbringung von Fachleistungsstunden im Rahmen der Kooperation mit dem städtischen Familienzentrum Mühlenstraße 47 in Mönchengladbach - Einstimmiger Beschluss
+- TOP 35: Satzung über die Kindertagespflege in der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 36: „Soziale Stadt Gladbach und Westend: Auswirkungen aufgrund der Überarbeitung der Förderrichtlinien Städtebauförderung Nordrhein-Westfalen für die Stadt Mönchengladbach“ - Kenntnisnahme
+- TOP 37: Räumliche Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGS) durch Bestandserweiterung am Grundschulstandort Engelsholt (KGS Holt) - Einstimmiger Beschluss
+- TOP 38: Ausführung der Fenster- und Fassadensanierung des Berufskollegs Platz der Republik - Einstimmiger Beschluss
+- TOP 39: Räumliche Schaffung von Betreuungsplätzen für den Offenen Ganztag (OGS) durch Sanierung und Bestandserweiterung am Grundschulstandort Annakirchstr. 56 (KGS Annaschule) und Sanierung der WC-Anlage zur Herstellung der Barrierefreiheit - Einstimmiger Beschluss
+- TOP 40: Instandsetzung Schulhof Kath. Grundschule Uedding, Weiersweg 6 zur Wiederherstellung der Regenwasserversickerung - Einstimmiger Beschluss
+- TOP 41: Nachhaltiges Gewerbeflächenkonzept Mönchengladbach (NGK MG) - Einstimmiger Beschluss
+- TOP 42: Verein Metropolregion Rheinland e.V. hier: Vertretung für den Oberbürgermeister in der Mitgliederversammlung - Einstimmiger Beschluss
+- TOP 43: Wiederherstellung von Parkplätzen in Rheindahlen, Südwall in Höhe des Hauses Nr. 20 - Mit Stimmenmehrheit beschlossen
+- TOP 44: Trinkbrunnen im Stadtgebiet - Mit Stimmenmehrheit beschlossen
+- TOP 45: Kostenloser Eintritt zum Theater Mönchengladbach für Schüler*innen, Studierende (auch ohne AStA- - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Bekräftigung der Resolution „Gegen jeden Antisemitismus"; Hier: gem. Fraktionsantrag von SPD, BÜNDNIS 90/DIE GRÜNEN, FDP und CDU - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 47: OFF Space Kulturhaus - Zukunft des BIS; hier: Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und FDP vom 04.12.2023 - Verweisung in zuständige Fachausschüsse
+- TOP 48: Umbesetzung von Gremien; hier: Antrag der SPD-Ratsfraktion vom 04.12.2023 - Einstimmiger Beschluss
+- TOP 48.1: Umbesetzung von Gremien; hier: Antrag der CDU-Ratsfraktion vom 01.12.2023 - Einstimmiger Beschluss
+- TOP 49: Anfragen und Mitteilungen
+- TOP 49.1: Anfrage RH W. Schmitz, CDU, zur Fertigstellung der Beschilderung der Protected Bike Lane
+- TOP 49.2: Anfrage inkl. Antwort RH M. Heinen,CDU, zum Drogenhilfezentrum Krefeld
+- TOP 49.3: Anfrage inkl. Antwort RH M. Heinen, CDU, zu einer Umfrage der IHK
