@@ -1,0 +1,110 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T22:20:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4869
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=4869
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Kopfsteinpflaster im Wohngebiet Harzer Straße: Harzer Str.- Lohmühlenbrücke asphaltieren und Kontrolle der Geschwindigkeit - schriftlich beantwortet
+- TOP 1.2: Jugendeinrichtung Parkplatz Mollnerweg 31 - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 1124/XXI - Ferienzeiten der BVV Neukölln von Berlin im Jahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Kein funktionierendes Neukölln mit diesem Haushaltsbeschluss! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Solidarität mit den streikenden Beschäftigten im Bezirksamt Neukölln und in ganz Berlin - zurückgezogen
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan XIV-3-1 „Neuköllnische Allee / Schmalenbachstraße“ - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Ferienzeiten der BVV Neukölln von Berlin im Jahr 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl der Mitglieder des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 7.2: Wahl eines Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.3: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.4: Wahl einer Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 7.5: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - gewählt
+- TOP 7.6: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Fördert das Jobcenter Islamisten? - beantwortet
+- TOP 8.2: Haushaltsrisiko in Neukölln? - beantwortet
+- TOP 8.3: Zukunft der Musikschule "Paul Hindemith" Neukölln - beantwortet
+- TOP 8.4: Drittmittelfinanzierte Projekte auf dem Campus Dammweg - beantwortet
+- TOP 8.5: Honorar- und Werkverträge des Bezirksamtes und deren Überprüfung auf mögliche Scheinselbstständigkeit bzw. Sozialversicherungspflicht - beantwortet
+- TOP 8.6: Mobiles Bürgeramt in Neukölln - beantwortet
+- TOP 8.7: Auswirkungen der Haushaltssperre auf die Leistungsverträge im Kinder- und Jugendbereich - beantwortet
+- TOP 8.8: Nachfragen zum Schlussbericht: Neukölln als Modellregion für die Cannabislegalisierung - schriftlich beantwortet
+- TOP 8.9: Kürzungen an der Musikschule Paul Hindemith Neukölln? - schriftlich beantwortet
+- TOP 8.10: Friedhöfe gehören den Verstorbenen! - schriftlich beantwortet
+- TOP 8.11: Aus für die Neuköllner Rollheimer? - schriftlich beantwortet
+- TOP 8.12: Verkürzung der Öffnungszeiten in Neuköllns Bibliotheken - schriftlich beantwortet
+- TOP 8.13: Dauerbaustelle und (k)ein Ende in Sicht - schriftlich beantwortet
+- TOP 8.14: Sperrung des Klima- und Transformationsfonds - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: SOS Seepferdchen: Kinder, die nicht schwimmen können - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Energetische Sanierung Sportgelände - Fördermittel nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Das Interkulturelle Aufklärungsteam Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Einwohner*innenantrag: Reuterkiez für Menschen statt für Durchgangsverkehr - für einen lebenswerteren Reuterkiez - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Bruno-Bauer-Straße 21a: Fußläufigkeit gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Verkehrskonzept Fontanestraße/Flughafenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Durchfahrt durch die Grünanlagen Lessing- und Thomashöhe für Radfahrende erlauben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: RIAS-Gelände Wärmestrategie ohne fossile Verbrennung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.7: RIAS-Gelände - Photovoltaik auf die Dächer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.8: Verkehrskonzept für das Umfeld des RIAS-Gelände in Britz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.9: Neukölln als Modellregion für die Cannabis-Legalisierung - vertagt
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Unterbringung von Geflüchteten in der Haarlemer Straße - beantwortet
+- TOP 11.2: Maßnahmen im Vorfeld zu Silvester 2023/2024 in Neukölln - beantwortet
+- TOP 11.3: Wann kommt das Eisstadion Neukölln vom Glatteis? - beantwortet
+- TOP 11.4: Honorar-, Werkverträge und Lehraufträge des Bezirksamtes - beantwortet
+- TOP 11.5: Kulturzentrum Oyoun in der Lucy-Lameck-Straße - schriftlich beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Erneuerung Kunstrasen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Klima- und Hitzeschutz durch Bäume! - in der BVV abgelehnt
+- TOP 12.3: Hundeauslaufgebiet in Nordneukölln - in der BVV abgelehnt
+- TOP 12.4: Baumstümpfe ersetzen, Grünfläche schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Antidiskriminierungsbeauftragte an Neuköllner Schulen - in der BVV abgelehnt
+- TOP 12.6: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2022 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Erhalt der Rathauskantine - in der BVV abgelehnt
+- TOP 12.8: Neuausschreibung der Kantine im Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Tarifmittelsteigerungen in den Haushaltsberatungen auf Landesebene berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kinder- und Jugendparlament in der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Aktualisierung der Internetseite des Bezirksamtes und speziell der Webseite der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 12.12: Beitritt nur mit Zustimmung - in der BVV zurückgezogen
+- TOP 12.13: Demokratisierung des Worts des Bürgermeisters - überwiesen
+- TOP 12.14: Unfallschwerpunkt Schönefelder Straße / Ecke Neuhofer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Trinkwasserbrunnen - Ausbau für den Gesundheitsschutz vor Hitze für Neuköllner*innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Kampf dem Bettwanzenbefall: Einführung einer Meldepflicht - in der BVV abgelehnt
+- TOP 12.17: Patient*innen und ihre Fürsprecher*innen stärken - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Gemeinschaftshaus Gropiusstadt - schriftlich beantwortet
+- TOP 13.2: Wird Buckow abgehängt? - beantwortet
+- TOP 13.3: Finanzielle Auswirkung der nicht besetzten Stellen im Bezirk Neukölln - vertagt
+- TOP 13.4: Sparvorgaben der CDU-SPD-Landesregierung - vertagt
+- TOP 13.5: Islamischer Religionsunterricht - vertagt
+- TOP 13.6: Kein Herz für Volksfeste? Maientage und Britzer Baumblüte nicht gewollt? - vertagt
+- TOP 13.7: Werden soziale Einrichtungen in Neukölln hängengelassen? - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Ampelanpassung in der Hermannstraße und Karl-Marx-Straße - überwiesen
+- TOP 15.2: Buckow weiterhin anbinden! - überwiesen
+- TOP 15.3: Kein Beitritt mehr zu anderen Anträgen - überwiesen
+- TOP 15.4: Öffentliche Schwimmzeiten im Kombibad Gropiusstadt sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Hinter jeder Zahl steckt ein Mensch - Gesundheit in Neukölln weiterdenken - überwiesen
+- TOP 15.6: 2-jährige Leistungsverträge im Jugendbereich einführen - überwiesen
+- TOP 15.7: Hygienemängel bei Vivantes ahnden: Kontrollen ohne Ankündigung im Speisenverteilzentrum V2 in Neukölln - überwiesen
+- TOP 15.8: Neukölln kann Hermannplatz: Entwicklung des zentralen Neuköllner Platzes wieder dem Bezirk übertragen - überwiesen
+- TOP 15.9: Radverkehr auf der Oderbrücke sicherer gestalten - überwiesen
+- TOP 15.10: Räume für selbstorganisiertes Engagement im Bezirk erhalten - überwiesen
