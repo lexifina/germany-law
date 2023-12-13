@@ -1,0 +1,86 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4708
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4708
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Parkverbote im Jenbacher Weg - beantwortet
+- TOP 3.2: Queere und rassismussensible Jugendarbeit im Bezirk - beantwortet
+- TOP 3.3: Initiative zu den Shelterbikes - beantwortet
+- TOP 3.4: Werbung für die Volkshochschule - beantwortet
+- TOP 3.5: Anti-Islamisten-Razzia in Zehlendorf - beantwortet
+- TOP 3.6: Verkehrssicherheit für Radfahrer*innen auf übergeordneten Straßen im Bezirk - beantwortet
+- TOP 3.7: Ist das Bezirksamt auf eine (teilweise) Wahlwiederholung der Bundestagswahl in Berlin vorbereitet? - schriftlich beantwortet
+- TOP 3.8: Jugendbeteiligung beim ISEK - schriftlich beantwortet
+- TOP 3.9: Aktueller Stand Durchwegung Bundesarchiv - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für Wilma-Rudolph-OS-Alumni-Netzwerk e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Bebauungsplan 6-50 (Universitätsklinikum „Campus Benjamin Franklin") - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.9: Kinderarztpraxen entlasten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: KAT RETTER App - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Stellplätze für Mieter mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Verlängerung Linie 218 von Pfaueninsel nach Moorlake - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Überwuchs beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Dauernder Erhalt der Mittel aus dem „Netzwerk der Wärme“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Verkehr in Wannsee: Sicherheit für Kinder und Jugendliche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Friendship Days - Erinnerung an US-amerikanische Schutzmacht in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Fahrrad-Polizei im Süd-Westen verstärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Kriterien im Milieuschutz - in der BVV abgelehnt
+- TOP 4.19: Der Waldsiedlung Zehlendorf geht ein Licht auf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Überdachte Fahrradabstellanlage für die Große-Anna-Essinger-Gemeinschaftsschule am Tietzenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Reaktivierung des „Gabenzaunes“ - in der BVV abgelehnt
+- TOP 4.22: Personalausweisautomat auch für das Bürger*innenamt Zehlendorf - in der BVV abgelehnt
+- TOP 4.23: Kurzzeitparkplätze am S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Digitale Kompetenz von Senior*innen im Bezirk fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Asyl für Turnvater Jahn - in der BVV abgelehnt
+- TOP 4.26: Selbstverteidigungskurse für Mädchen und Frauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Display DAISY im Herzen von Lichterfelde-Ost reparieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Auch weibliche Straßenbenennungen für das Neubaugebiet in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Anbindung an den ÖPNV bei der Erschließung des Tanklagers Lankwitz miteinbeziehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Wie steht es um die Anna-Essinger-Gemeinschaftsschule? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2022 - überwiesen
+- TOP 5.2: Infrastruktur für Menschen ohne Obdach - überwiesen
+- TOP 5.3: Einsetzung eines bezirklichen Frauenbeirates für Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Ämterübergreifende Initiative zum Umgang mit Obdachlosigkeit fortführen - überwiesen
+- TOP 5.5: Verbesserung der Aufenthaltsqualität auf dem Platz vor der Lankwitzer Kirche - überwiesen
+- TOP 5.6: Dialogdisplay für die Moltkebrücke - überwiesen
+- TOP 5.7: Sofortige Unterbindung der antisemitischen Aktionen an der Freien Universität Berlin - überwiesen
+- TOP 5.8: Chatbot für die Webseiten des Bezirksamts: Steglitz-Zehlendorf zum Vorreiter machen - überwiesen
+- TOP 5.9: Zebrastreifen Leo-Baeck-Straße – Sicherheit erhöhen für Grundschüler der Schweizerhof-Grundschule und Parkbesucher - überwiesen
+- TOP 5.10: BVG-Haltestelle Teltowkanalstraße: Übergang des Radweges auf die Fahrbahn verbessern - überwiesen
+- TOP 5.11: Verlängerung Tempo 30 auf der gesamten Finckensteinallee und ggf. Mühlenstraße - überwiesen
+- TOP 5.12: „Nur ganz kurz“: In der Drakestraße helfen nur noch Poller gegen Falschparker*innen - überwiesen
+- TOP 5.13: Wohnen ist Daseinsvorsorge: Mietwucher verfolgen, ahnden, stoppen! - überwiesen
+- TOP 5.14: Einstiges Grundstück der Familie Wolffsohn: Aufarbeitung ermöglichen - überwiesen
+- TOP 5.15: Unterstützung der Gewerbetreibenden am S-Bahnhof Zehlendorf in Folge der Baumaßnahmen - überwiesen
+- TOP 5.16: Sderot-Platz: Märchen-Brunnen herrichten als Friedens- und Freiheitssymbol - überwiesen
+- TOP 5.17: Friedhofskultur: Würdigung und Respekt unserer Toten - überwiesen
+- TOP 5.18: Evaluation der Milieuschutzkriterien - überwiesen
+- TOP 5.19: Zentrale Impfstelle im Bezirk - überwiesen
+- TOP 5.20: Livestream der BVV - Wer vertritt die Bild- und Tonrechte? - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Relevante und irrelevante Ängste? Gruppenvergewaltigung am Schlachtensee - beantwortet
+- TOP 7.2: Die Gemeinschaftsunterkunft Finckensteinallee wird geschlossen – wie geht es für die Bewohner*innen weiter? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Keine Ehre für Kurt von Schleicher - in der BVV abgelehnt
+- TOP 8.3: Böllerverbot vor Seniorenwohnanlagen - in der BVV zurückgezogen
