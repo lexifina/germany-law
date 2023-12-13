@@ -1,0 +1,52 @@
+# 34. Sitzung des Kreistages Märkisch-Oderland
+
+- Körperschaft: Landkreis Märkisch-Oderland
+- Beginn: 2023-12-13T17:04:00+01:00
+- Ende: 2023-12-13T20:33:00+01:00
+- Ort: Erich-Weinert-Straße 13, 15306 Seelow
+- Status: 
+- Gremium: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://ratsinfo-online.net/landkreis-mol-bi/to010.asp?SILFDNR=1702
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=1702
+- Quelle: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=105&id=111282
+- Ergebnisprotokoll: Niederschrift https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=110&id=112298
+
+## Tagesordnung
+
+- TOP 1: Zur Geschäftsordnung
+- TOP 1.1: Begrüßung und Eröffnung
+- TOP 1.2: Prüfung der Ordnungsmäßigkeit der Ladung
+- TOP 1.3: Entscheidung über Einwendungen gegen die Niederschrift (Öffentlicher Teil) der 33. Sitzung vom 08.11.2023
+- TOP 1.4: Feststellung der Tagesordnung
+- TOP 1.5: Feststellung von Ausschließungsgründen gem. § 22 BbgKVerf
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anfragen der Kreistagsabgeordneten
+- TOP 4: Information des Landrates zur aktuellen Situation im Landkreis
+- TOP 5: Ernennung der Beigeordneten
+- TOP 6: Information zur aktuellen Situation in der Krankenhaus Märkisch-Oderland GmbH <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 7: Beteiligungsbericht des Landkreises Märkisch-Oderland über das Geschäftsjahr 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 8: Beratung und Beschlussfassung der Satzung über die Abfallentsorgung des Landkreises Märkisch-Oderland 2024 (Abfallentsorgungssatzung - AESMOL 2024) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 9: Beratung und Beschlussfassung der Abfallgebührensatzung des Landkreises Märkisch-Oderland 2024 (Abfallgebührensatzung - AGSMOL 2024) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 10: Beratung und Beschlussfassung des Wirtschaftsplanes 2024 des Entsorgungsbetriebes Märkisch-Oderland (EMO) - Eigenbetrieb des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 11: Beratung und Beschlussfassung über die Satzung zur Erhebung von Gebühren für Leistungen des Rettungsdienstes des Landkreises Märkisch-Oderland (Rettungsdienstgebührensatzung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 12: Beratung und Beschlussfassung zur Eigentumsübertragung KWO - Gelände Hoppegarten <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat; An der Fertigstellung der Beschlussvorlage wird derzeit noch erarbeitet.)</span> - geändert beschlossen
+- TOP 13: Beratung und Beschlussfassung der Richtlinie des Landkreises Märkisch-Oderland zur Förderung von Fahrzeugen, Fahrzeugausstattungen und kommunaler ÖPNV-Infrastrukturanlagen für die Jahre 2024/2025 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 14: Antrag zur Förderung kommunaler ÖPNV-Infrastrukturanlagen für den Bahnhofsvorplatz Letschin (Bezug: Richtlinie des Landkreises Märkisch-Oderland zur Förderung von Fahrzeugen, Fahrzeugausstattungen und kommunaler ÖPNV-Infrastrukturanlagen (ÖPNV-Investitionsrichtlinie)) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 15: Beratung und Beschlussfassung über die Zuschlagserteilung für den Ersatzneubau Brücke über den Jesargraben, K6408, Abschnitt 030, km 0,628 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 16: Beratung und Beschlussfassung über einen Ersatzneubau der Wohnstätte für körperlich und geistig beeinträchtigte Kinder am Standort Altlandsberg mit einer Kapazität von 18 Plätzen, Fredersdorfer Chaussee 21, 15345 Altlandsberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 17: Beratung und Beschlussfassung zur Auftragsvergabe Los 06 - Dachabdichtung mit Dach-Oberlichtern und Gründach für den Neubau der Förderschule mit Schwerpunkt „geistige Entwicklung“ am Oberschulcampus Altlandsberg, Fredersdorfer Chaussee 21, 15345 Altlandsberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 18: Beratung und Beschlussfassung zum Vertragsabschluss Objektplanung Gebäude und Innenräume, Innenausstattung für die Umnutzung und Erweiterung Haus 9, Klosterstraße 14, 15344 Strausberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 19: Beratung und Beschlussfassung zur Auftragsvergabe für das Los 01 - Baufeldfreimachung für den Neubau Gymnasium Strausberg II, Wriezener Straße 9, 15344 Strausberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 20: Beratung und Beschlussfassung zur Auftragsvergabe Los 02 - Rohbau- und Zimmererarbeiten, STIC Strausberg - TP 5 Bürogebäude, Garzauer Chaussee 1a, 15344 Strausberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 21: Beratung und Beschlussfassung zur Auftragsvergabe von Reinigungsleistungen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 22: Antrag zur Aussetzung der Erhebung der Gebühren für die Untersuchung auf Trichinen bei Wildschweinen für das Kalenderjahr 2024 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktionen SPD, Bauern und ländlicher Raum)</span> - ungeändert beschlossen
+- TOP 23: Beratung und Beschlussfassung von erheblichen überplanmäßigen Aufwendungen im Jugendbereich für das Haushaltsjahr 2023 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 24: Beratung und Beschlussfassung der Entgelt- und Honorarordnung der kreislichen Museen Brecht-Weigel-Haus in Buckow und Gedenkstätte & Museum Seelower Höhen in Seelow <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 25: Beratung und Beschlussfassung der Neufassung der Richtlinie zur Förderung des Sports im Landkreis Märkisch-Oderland (Sportförderrichtlinie) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 26: Beratung und Beschlussfassung zur Namensgebung des Neubaus der Schule mit dem sonderpädagogischen Förderschwerpunkt geistige Entwicklung in Altlandsberg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span> - ungeändert beschlossen
+- TOP 27: Beratung und Beschlussfassung zur Auftragsvergabe zur Betreibung der allgemeinen Sozialberatungsstelle in Seelow <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat; Die Angebotseröffnung erfolgte am 30.11.2023, die Beschlussvorlage wird derzeit erstellt.)</span> - ungeändert beschlossen
+- TOP 28: Informationen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
