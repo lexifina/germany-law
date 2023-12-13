@@ -1,0 +1,81 @@
+# 19. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2023-12-13T17:30:00+01:00
+- Ende: 2023-12-13T21:25:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7784
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7784
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=297777
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Eigentümerverhältnisse im Kino Colosseum - beantwortet
+- TOP 1.5.2: Dringend gesucht! Ausweichstandort für die Notunterkunft des Straßenfegers e.V. mit 30 Plätzen für obdachlose Menschen - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Bürgerdeputierten für den Ausschuss für Partizipation und Integration der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.9: Nachbesetzung eines stellvertretenden stimmberechtigten Mitgliedes bzw. stellvertretenden Bürgerdeputierten für den Kinder- und Jugendhilfeausschusses (KJHA) der Bezirksverordnetenversammlung für die IX. Wahlperiode - gewählt
+- TOP 1.10: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.11: Wahl von Prof. Antje Tölle für den Vorstand der Freunde Kolbergs e.V. - gewählt
+- TOP 1.12: Hinweisschilder und Erklärungstafel für den Großen Stein in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Sportboxen für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Der Interkulturelle Kalender für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Wohnungslosigkeit bekämpfen: Geschütztes Marktsegment auch für Menschen in der Schuldenfalle! - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sicherer Schulweg auch am temporären Schulstandort der Grundschule Wolkenstein - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Gehweg in der Sandbergstraße in Karow herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Optimierung der Ampelpassage am Antonplatz und an der Albertinenstraße über die Berliner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Presse und Öffentlichkeitsarbeit des Bezirksamtes Pankow verbessern: Auffindbarkeit der Pressemitteilungen des Bezirksamtes anwenderfreundlicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Latte Kiez – Auch außerhalb des S-Bahnrings sollen Wohngebiete Verkehrsberuhigt und sicher sein - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Sommer, Sonne, Sonnencreme – Sonnencreme für alle kostenfrei in Pankow zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Mitarbeiterinnen und Mitarbeiter des Bezirksamtes nicht allein lassen: Anleitung zum Kampf gegen Antisemitismus in Deutschland - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Sichere Schulwege für die Kinder der Schulen in der Galenusstraße - überwiesen
+- TOP 1.24: Sicheres Nutzen von Gehwegvorstreckungen - überwiesen
+- TOP 1.25: Mindeststandards in Obdachlosenunterkünften - überwiesen
+- TOP 1.26: Stelle der Beauftragten für Menschen mit Behinderungen gesetzeskonform ausschreiben und besetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Besseres Miteinander im Schlosspark - überwiesen
+- TOP 1.28: Bänke in Pankow mit der Botschaft „Hier ist kein Platz für Gewalt an Frauen“ versehen - überwiesen
+- TOP 1.29: Pro Kind ein Baum – Jahrgangspflanzungen mit den Berliner Forsten - überwiesen
+- TOP 1.30: Aufeinander achten – Mehr Rücksicht auf Fuß- und Radwegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Antragsmöglichkeit stationärer Ladezonen transparent kommunizieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Öffentliche Sportmöglichkeiten transparent machen - mit Änderungen in der BVV beschlossen
+- TOP 1.33: Inklusive Sitzgelegenheiten für Alle - Keine Verdrängung von obdachlosen Menschen im öffentlichen Raum - überwiesen
+- TOP 1.34: Notbetten für obdachlose Frauen schaffen, mit einer neuen 24/7 Unterkunft in Pankow! - überwiesen
+- TOP 1.35: Verkehrssicherheit für Fußgänger im Vienweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Besserer Bürgerservice auf dem Gelände Fröbelstraße 17 - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Soziale Infrastruktur erhalten – Bankengipfel umsetzen - in der BVV abgelehnt
+- TOP 1.38: Planungsgrundlage für die Verbesserung der Verkehrssicherheit - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Bürgerdemokratie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Leitlinien für die Bürger_innenbeteiligung, Information und Konsultation - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Bürger*innenbudget - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Grundlagen und Regeln für Straßenmusik im Mauerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Kulturstandort Freilichtbühne Weißensee sichern und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Kampagne „Luisa ist hier!“ anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Schritte zur Kommunalisierung der Schulreinigung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Rahmenplanung für Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Ortskern von Wilhelmsruh stärken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Wie nachhaltig ist Pankow? Eine Gemeinwohl-Bilanz für den Bezirk erstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Aktionstag der Pankower Schulen zur Personalgewinnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Schutz der Grünflächen am Rosenthaler Anger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bürgerbeteiligung für drei Pankower Stadtplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Ein Kontingent an Schutzplätzen für von Gewalt betroffenen Frauen und ihren Kindern bei allen landeseigenen Neubauprojekten festlegen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Kinder schützen: Tempo 30 in der Lessingstraße, Fontanestraße und Hertzstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: E-Learning-Angebot zum Schutz bei häuslicher Gewalt in Pankow publik machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Kinder- und Jugendeinrichtung OC 23 in Weißensee sichern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Evaluation und Weiterentwicklung des Pankower Bürger*innenhaushaltes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Biodiversität für Stadtbäume in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Planungsinstrumente des Baulandmobilisierungsgesetzes nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Beschilderung im Fußgängertunnel am S-Bahnhof Landsberger Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Aufhebung des Bezirksamtsbeschlusses IX-0516/2023 „Geregeltes Verfahren zur Benen-nung nach historischen Persönlichkeiten“ vom 25.04.2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennung und Abberufung bezirklicher Mitglieder der Trägerversammlung des Jobcenters Berlin Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Benennung einer öffentlichen Straße im Ortsteil Heinersdorf in „Beate-Hahn-Straße“ - mit Abschlussbericht zur Kenntnis genommen
