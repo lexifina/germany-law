@@ -1,0 +1,21 @@
+# Sportanlage "Eper Bülten"
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 581/2022 4. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-12-13
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZSAvLbbnETc71HdGy3rTxJU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16781
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Sportanlage "Eper Bülten") https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRDNiPcqz-4gPCw4vtGgmTSuZ7fE6vrPyWxEtLJgJLhf/Beschlussvorlage_581-2022_4._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Plausibilitätsprüfung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQRQzw8dYzbmLnjAAPGhfx0f5AiGh8fQQMFQ87i-8_vM/Plausibilitaetspruefung.pdf
+- Anlage: Beschlussvorlage (Zins- und Tilgungsdienst FC Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcszCYWEMJwBSipU2dABn9QGblOHWSbzvxCyBpOCcZjO/Zins-_und_Tilgungsdienst_FC_Epe.pdf
+- Anlage: Beschlussvorlage (Zins- und Tilgungsdienst TV Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsJfdOPs2P-o6xr4DSu5SvxytuHlSwHk2Fyvl2xquIG/Zins-_und_Tilgungsdienst_TV_Epe.pdf
+- Anlage: Beschlussvorlage (Finanzbedarf Stadt Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZStpQXYZyw8uBj2QaB0i__lQ7cRn6B-RD6OfsvHmc7fV/Finanzbedarf_Stadt_Gronau.pdf
+- Anlage: Beschlussvorlage (Gesamtübersicht) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTyBOYQdL7fCgI6r8mNkMbCGDyGMPfLqn18gwy2DpLbw/Gesamtuebersicht.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 7 SGE v. 15.11.2023) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTky2bRpTi2MAEwbwURxOcdK9DRXObx3sMyiZeNx4mxN/Auszug_TOP_7_SGE_v._15.11.2023.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 7 Auszug HFA) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR4BtnCfTdWSBapG7T_FiwcEqF7KbI6IlxNCXvnXq8om/Anlage_TOP_7_Auszug_HFA.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5478 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-145
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5458 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5467 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
