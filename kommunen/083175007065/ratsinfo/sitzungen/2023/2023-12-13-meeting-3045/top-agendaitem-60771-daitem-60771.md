@@ -1,0 +1,6 @@
+# TOP -: - Anfragen - Veranstaltungshinweise - Planung der nächsten Sitzung am 13.03.2024: Vorstellung des Sozialreports der Stadt Lahr
+
+- Sitzung: Stadtseniorenbeirat (4. Sitzung) (2023-12-13)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/60771
