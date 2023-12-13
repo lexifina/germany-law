@@ -1,0 +1,76 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T18:50:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4953
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4953
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung von Niederschriften über Sitzungen des Rates der Stadt:
+- TOP 3.1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 10.05.2023 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 23.08.2023 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Einbringung des Haushaltsplanentwurfs 2024 - ungeändert beschlossen
+- TOP 5: Antrag des „Bündnis für Vielfalt und Integration“ zur Ächtung des N*-Wortes - ungeändert beschlossen
+- TOP 6: Rad-Vorrang-Route Eilendorf und BrandUmgestaltung der Bismarckstraße zur Fahrradstraße - Ausführungsbeschluss und überplanmäßige Verpflichtungsermächtigung, Haushaltsjahr 2023 - geändert beschlossen
+- TOP 7: Innenstadtmobilität für morgenPlanungs- & Ausführungsbeschluss über die Änderung der Verkehrsführung – Neue Lenkung des Autoverkehrs und Bereitstellung überplanmäßiger Mittel, Haushaltsjahr 2023 - ungeändert beschlossen
+- TOP 8: AWO Fanprojekt Aachen - Fortführung ab Januar 2024 - ungeändert beschlossen
+- TOP 9: Umsetzung des § 5 des Landesgleichstellungsgesetztes (LGG): Erstellung, Überprüfung und Fortschreibung von Gleichstellungsplänen - ungeändert beschlossen
+- TOP 10: 8. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 11: Abfallgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2024 - ungeändert beschlossen
+- TOP 12: 9. Änderungssatzung der Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung) vom 10.12.2008 - ungeändert beschlossen
+- TOP 13: 23. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 14: 27. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt AachenNotwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 15: 6. Nachtrag zur Hundesteuersatzung - ungeändert beschlossen
+- TOP 16: Straßen- und Wegekonzept nach §8a Abs. 1 Kommunalabgabengesetz für das Land Nordrhein-Westfalen (KAG) - ungeändert beschlossen
+- TOP 17: Neufassung der Benutzungs- und Gebührensatzung der Stadt Aachen für die städtischen Unterkünfte zur Unterbringung von geflüchteten Menschen, wohnungslosen Menschen und Spätaussiedler*innen - ungeändert beschlossen
+- TOP 18: Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß §83 GO NRW „Park am alten Friedhof/Wurm-Haarbachaue“ IHK Haaren - ungeändert beschlossen
+- TOP 19: Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß §83 GO NRW „Zum Kirschbäumchen, Grünanalage“ - ungeändert beschlossen
+- TOP 20: „Wegesanierung Lousberg“ Überplanmäßige Mittelbereitstellung oberhalb der Erheblichkeitsgrenze gemäß § 83 GO NRW - ungeändert beschlossen
+- TOP 21: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen; Haushaltsjahr 2023; Produkt 021501 Brandbekämpfung, Ersatzbeschaffung Gerätewagen Nachschub - ungeändert beschlossen
+- TOP 21.1: Überplanmäßige Mittelbereitstellung: i.H.v. 35.524,85 € zur Übernahme der Nebenkostenabrechnung für das Kalenderjahr 2022 für das ehemalige Polizeipräsidium Aachen - ungeändert beschlossen
+- TOP 22: Änderung der öffentlich-rechtlichen Vereinbarung zum Betrieb des Euregionalen Medienzentrums der Stadt und der StädteRegion Aachen unter Beteiligung der Deutschsprachigen Gemeinschaft Belgiens - ungeändert beschlossen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2022 - ungeändert beschlossen
+- TOP 25: Auswirkungen auf die Eingruppierung der kommunalen Wahlbeamtinnen und Wahlbeamten auf Zeit aufgrund der Änderung des § 7 Eingruppierungsverordnung und der gestiegenen Einwohner*innenzahl der Stadt Aachen - ungeändert beschlossen
+- TOP 25.1: Eingruppierung der Oberbürgermeisterin: Eingruppierung von Frau Oberbürgermeisterin Sibylle Keupen in die Besoldungsgruppe B 10 LBesO B aufgrund der Änderung der Eingruppierungsverordnung und des Aufstiegs der Stadt Aachen in die nächst höhere Einwohner*innengrößenklasse zum nächstmöglichen Zeitpunkt - ungeändert beschlossen
+- TOP 26: Eingruppierung Beigeordnete: Eingruppierung von Frau Stadtdirektorin Annekathrin Grehling (Dez II), allgemeine Vertreterin der Oberbürgermeisterin, in die Besoldungsgruppe B 7 LBesO B aufgrund der Änderung der Eingruppierungsverordnung und des Aufstiegs der Stadt Aachen in die nächst höhere Einwohner*innengrößenklasse zum nächstmöglichen Zeitpunkt - ungeändert beschlossen
+- TOP 27: Eingruppierung Beigeordnete: Eingruppierung von Herrn Beigeordneten Prof. Dr. Manfred Sicking (Dez VI) in die Besoldungsgruppe B 6 LBesO B aufgrund der Änderung der Eingruppierungsverordnung und des Aufstiegs der Stadt Aachen in die nächst höhere Einwohner*innengrößenklasse zum nächstmöglichen Zeitpunkt - ungeändert beschlossen
+- TOP 28: Eingruppierung Beigeordnete: Eingruppierung von Herrn Beigeordneten Dr. Markus Kremer (Dez V) aufgrund seiner Wiederwahl zum Beigeordneten in die Besoldungsgruppe B 6 LBesO B ab dem Zeitpunkt der zweiten Amtszeit - ungeändert beschlossen
+- TOP 29: Schenkung Margit Palme an die Stadt Aachen, Kulturbetrieb, Ludwig Forum für Internationale Kunst - ungeändert beschlossen
+- TOP 30: Forschungsflugplatz Aachen-Merzbrück GmbH - Umfirmierung zur Forschungsflugplatz Würselen-Aachen GmbH - ungeändert beschlossen
+- TOP 31: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 31.1: Zweckverband Entsorgungsregion West (ZEW): Verbandsvorsteher und Stellvertretung - ungeändert beschlossen
+- TOP 31.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 12.12.2023 - ungeändert beschlossen
+- TOP 31.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 12.12.2023 - ungeändert beschlossen
+- TOP 31.4: Umbesetzungsantrag der CDU-Fraktion vom 12.12.2023 - ungeändert beschlossen
+- TOP 32: Anfragen:
+- TOP 32.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 32.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 33: Ratsanträge - ungeändert beschlossen
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 35: Auswirkungen der Sperre des Klima- und Transformationsfonds auf den städtischen Haushalt und städtische Projekte hier: Tagesordnungsantrag der CDU-Fraktion vom 29.11.2023 - ungeändert beschlossen
+- TOP 36: Kunst im öffentlichen Raum - ungeändert beschlossen
+- TOP 37: Überplanmäßige investive Aufwendungen/AuszahlungenHaushaltsjahr 2023- Produkt 030302 – Beschaffung von Mülltrennsystemen an städt. Schulen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
