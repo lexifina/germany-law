@@ -1,0 +1,65 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2023-12-13T17:00:00+01:00
+- Ende: 2023-12-13T21:23:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcSJes519MiHxlmpH5Cf9Y8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5467
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZJHfJXDhTKZw856sycZR3N_rrtwxRVueXdeQkgfsyCP/Bekanntmachung_Rat_13.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTgBJOfYGm5J3WYHYxo5EKFdwYUnAxHwmHeQgfyJXyOb/Oeffentliche_Niederschrift_Rat_13.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 08.11.2023
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der WEG-Fraktion vom 28.11.2023; "Fahrraderlebnis Gronau und Epe – Stärkung und Ausbau des hiesigen Fahrradtourismus" - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Antrag der CDU-Fraktion vom 02.12.2023; "Antrag auf Aufstockung der Jahresfördersumme für die Freiwilligenzentrale Gronau e.V. durch die Stadt Gronau"
+- TOP 4.2.1: Antrag der CDU-Fraktion vom 02.12.2023; "Antrag auf Aufstockung der Jahresfördersumme für die Freiwilligenzentrale Gronau e.V. durch die Stadt Gronau" - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Antrag der FDP-Fraktion vom 03.12.2023; "Tiny Forests als Puffer des lokalen Klimas und Ort für nachhaltige Bildung" - 27 Jastimmen, 10 Neinstimmen, 2 Enthaltungen
+- TOP 4.4: Antrag der UWG-Fraktion vom 04.12.2023; "Integrationskonzept der Stadt Gronau – 3. Fortschreibung / Hausordnung der Gemeinschaftsunterkünfte der Stadt Gronau" - Einstimmig, 0 Enthaltungen
+- TOP 5.: Interimslösung für eine vorübergehende Aufwertung des Kurt-Schumacher-Platzes und des Hertie-Areals - Einstimmig, 0 Enthaltungen
+- TOP 6.: Standortfrage der Bernhard-Overbergschule
+- TOP 6.1: Standortfrage der Bernhard-Overbergschule - 36 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Sportanlage "Eper Bülten" - 32 Jastimmen, 1 Neinstimmen, 7 Enthaltungen
+- TOP 8.: Neubau Familienzentrum Dinkelnest Standortalternativen (Prüfauftrag des Ausschusses für Planen, Bauen und Denkmalschutz aus der Sitzung vom 16.10.2023)
+- TOP 8.1: Neubau Familienzentrum Dinkelnest Standortalternativen (Prüfauftrag des Ausschusses für Planen, Bauen und Denkmalschutz aus der Sitzung vom 16.10.2023) - 36 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 9.: Einbringung des Haushalts 2024 - Einstimmig, 0 Enthaltungen
+- TOP 10.: 9. Änderungssatzung zur Hauptsatzung der Stadt Gronau
+- TOP 10.1: 9. Änderungssatzung zur Hauptsatzung der Stadt Gronau - 24 Jastimmen, 16 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Änderung der Wahlordnung für die Wahl des Beirates für Seniorinnen und Senioren der Stadt Gronau (Westf.)
+- TOP 11.1: Änderung der Wahlordnung für die Wahl des Beirates für Seniorinnen und Senioren der Stadt Gronau (Westf.) - 36 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 12.: 20. Änderungssatzung zur Abfallgebührensatzung der Stadt Gronau (Westf.) - 36 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 13.: 29. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 14.: 3. Änderungssatzung zur Satzung der Stadt Gronau (Westf.) zur Umlage der Kosten der Gewässerunterhaltung gemäß § 64 LWG - Einstimmig, 0 Enthaltungen
+- TOP 15.: Neubau eines Wertstoffhofes Eper Straße 73-77
+- TOP 15.1: Neubau eines Wertstoffhofes Eper Straße 73-77 - 32 Jastimmen, 3 Neinstimmen, 5 Enthaltungen
+- TOP 16.: (Teil-) Verlagerung des Bauhofes der Zentralen Bau- und Umweltdienste Genehmigung der Entwurfsplanung und Baubeschluss - 29 Jastimmen, 2 Neinstimmen, 8 Enthaltungen
+- TOP 17.: Wirtschaftsplan 2024 der Zentralen Bau- und Umweltdienste - Einstimmig, 7 Enthaltungen
+- TOP 18.: Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2024 Abwassergebührenkalkulation für das Jahr 2024 Erlass einer Änderungssatzung zur Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Fortschreibung des Abwasserbeseitigungskonzeptes der Stadt Gronau Hier Beschluss der 7. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Stadt Gronau (Westf.) für den Zeitraum 2024-2029 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Beteiligungsbericht 2021 der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 21.: Jahresabschluss 2022 der Forstdienstleistungen Gronau GbR - Einstimmig, 1 Enthaltungen
+- TOP 22.: Jahresabschluss der Stadt Gronau (Westf.) für das Haushaltsjahr 2022 1. Prüfung durch den Rechnungsprüfungsausschuss 2. Feststellung durch den Rat - Einstimmig, 0 Enthaltungen
+- TOP 23.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2022 - Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 24.: Erlass eines Betrauungsakts zugunsten der Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH (QEG)
+- TOP 24.1: Erlass eines Betrauungsakts zugunsten der Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH (QEG) - 33 Jastimmen, 5 Neinstimmen, 2 Enthaltungen
+- TOP 25.: Kapitalzuführung an die Quartiersentwicklungsgesellschaft für die Innenstadt Gronau mbH (QEG) - 29 Jastimmen, 10 Neinstimmen, 0 Enthaltungen
+- TOP 26.: Gewährung von laufenden Leistungen sowie einmaligen Beihilfen für (Bereitsschafts-) Pflegefamilien hier: Anhebung der derzeitigen Leistungssätze - Einstimmig, 0 Enthaltungen
+- TOP 27.: Anhebung der Honorare für die in der Euregio-Volkshochschule freiberuflich tätigen Dozierenden Umwandlung der Entgeltordnung in eine Gebührenordnung sowie die Anhebung der Gebühren Änderung der Satzung der Euregio-Volkshochschule der Stadt Gronau (Westf.) vom 23.03.2006 - Einstimmig, 0 Enthaltungen
+- TOP 28.: Anhebung der Honorare für die an der Musikschule beschäftigten Honorarkräfte Anpassung der Entgeltordnung für die Musikschule der Stadt Gronau (Westf.) vom 01.04.2016 - Einstimmig, 0 Enthaltungen
+- TOP 29.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertretungen in Organe städtischer Gesellschaften
+- TOP 30.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 31.: Mitteilungen der Verwaltung
+- TOP 31.1: Zusätzliche Ratssitzung 2024
+- TOP 32.: Anfragen
+- TOP 32.1: Sachstand Deilmann-Rathaus (Anfrage von RM Bügener)
+- TOP 32.2: Sachstand Schließanlage WZG (Anfrage von RM Doetkotte)
+- TOP 32.3: Sachstand Fahrradständer Bürgerhalle (Anfrage von RM Buchholz)
+- TOP 32.4: Sachstand Flughafen Twente (Anfrage von RM Buchholz)
