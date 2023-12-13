@@ -1,0 +1,112 @@
+# 21. Sitzung (Verabschiedung Haushalt 2024)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2023-12-13T16:15:00+01:00
+- Ende: 2023-12-13T21:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/12875
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/12875
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00539800.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Sicherheit auf den Wegen zur Kita/Schule
+- TOP 1.2: Aktueller Stand Bürger:innenrat
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Anregung zur Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Moratorium Gasometer - mehrheitlich abgelehnt
+- TOP 11.2: Verzicht auf Strafverfolgung wegen der Nutzung öffentlicher Verkehrsmittel ohne gültigen Fahrschein - mehrheitlich beschlossen
+- TOP 11.3: Reform der Abonnementstruktur für Inhaber*innen des Münster-Passes - mehrheitlich beschlossen
+- TOP 11.4: Busbeschleunigung umsetzen - mehrheitlich geändert beschlossen
+- TOP 11.5: Eine gute Zukunft für den Mühlenhof - mehrheitlich beschlossen
+- TOP -: Beratungen zum Haushalt 2024 - Reden der Vorsitzenden der Fraktionen, der Gruppe und des Einzelmitgliedes
+- TOP 12: Haushaltssatzung 2024 - mehrheitlich beschlossen
+- TOP 13: SAP S/4 HANA Digitalisierungsprojekt - zur Kenntnis genommen
+- TOP 14: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 14.1: Bewohnerparkausweis-Gebührenverordnung - mehrheitlich geändert beschlossen
+- TOP 14.2: Satzung zur Änderung der Anlage "Entgelttarif" der Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 14.3: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 14.4: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 14.5: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 14.6: Änderung der Tarifbestimmungen, Haus- und Badeordnung der städtischen Bäder - mehrheitlich geändert beschlossen
+- TOP 14.7: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2024 - einstimmig beschlossen
+- TOP 14.8: Abfallgebühren 2024 - einstimmig beschlossen
+- TOP 14.9: Straßenreinigungsgebühren 2024 - einstimmig beschlossen
+- TOP 14.10: Änderung der Friedhofssatzung und der Friedhofsgebührensatzung - einstimmig beschlossen
+- TOP 14.10.1: Änderung der Friedhofssatzung und der Friedhofsgebührensatzung
+- TOP 15: Wirtschaftspläne von Gesellschaften
+- TOP 15.1: Wirtschaftsplan 2024 der citeq - einstimmig beschlossen
+- TOP 15.2: Wirtschaftsplan 2024 von Münster Marketing - einstimmig beschlossen
+- TOP 15.3: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 16: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - mehrheitlich beschlossen
+- TOP 17: Abschluss von Betrauungsakten
+- TOP 17.1: Betrauungsakt Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 17.2: Betrauungsakt Münster Marketing - einstimmig beschlossen
+- TOP 17.3: Betrauungsakt Wirtschaftsförderung Münster GmbH (WFM) - einstimmig beschlossen
+- TOP 17.4: Betrauungsakt Theaterhaus Pumpenhaus gGmbH - mehrheitlich beschlossen
+- TOP 17.5: Betrauungsakt für die eigenbetriebsähnliche Einrichtung Theater Münster - einstimmig beschlossen
+- TOP 18: KonvOY GmbH: Erhöhung der konzerninternen Kreditlinie - einstimmig beschlossen
+- TOP 19: Beschluss zur Fortführung des Deutschlandtickets bis zum 30.04.2024 - einstimmig beschlossen
+- TOP 19.1: Beschluss zur Fortführung des Deutschlandtickets bis zum 30.04.2024
+- TOP 20: Tarifmaßnahmen 2024 im WestfalenTarif für das Münsterland (Tarifgemeinschaft Münsterland – Ruhr-Lippe) zum 01.08.2024 - zur Kenntnis genommen
+- TOP 21: Neue Stadtquartiere am Dortmund-Ems-Kanal: Auslobung eines Realisierungswettbewerbs - einstimmig beschlossen
+- TOP 22: 375 Jahre Westfälischer Friede - zur Kenntnis genommen
+- TOP 23: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 24: Überleitung außerunterrichtlicher Angebote (OGS)
+- TOP 24.1: Überleitung der außerunterrichtlichen Angebote (OGS) der Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 24.2: Überleitung der außerunterrichtlichen Angebote (OGS) der Clemensschule und Paul-Gerhardt-Schule - einstimmig beschlossen
+- TOP 24.3: Überleitung der außerunterrichtlichen Angebote (OGS) der Nikolaischule - einstimmig beschlossen
+- TOP 24.4: Überleitung der außerunterrichtlichen Angebote (OGS) der Norbertschule - einstimmig beschlossen
+- TOP 25: Errichtungs- und Baubeschluss für den Neubau einer Lagerhalle auf dem Betriebshofgelände Höltenweg - einstimmig geändert beschlossen
+- TOP 26: Externe Managementunterstützung zur Weiterentwicklung des städtischen Bäderbetriebs - mehrheitlich beschlossen
+- TOP 27: Neufassung der Sportförderrichtlinie der Stadt Münster zum 01.01.2024 - einstimmig beschlossen
+- TOP 28: Errichtungsbeschluss einer Beachvolleyballhalle - einstimmig beschlossen
+- TOP 29: Betriebliche Kindertageseinrichtung der Provinzial Holding AG - mehrheitlich beschlossen
+- TOP 30: Kommunaler Pflegebedarfsplan 2023-2026 - einstimmig beschlossen
+- TOP 31: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2022 - zur Kenntnis genommen
+- TOP 32: Bennohaus: Ergebnisbericht des Profilierungsprozesses und der Organisationsoptimierung sowie Mittelbereitstellung zur Durchführung eines weiterführenden Maßnahmenpaketes - einstimmig beschlossen
+- TOP 33: Erweiterung der bestehenden Wohnungsloseneinrichtung für Familien an der Nieberdingstraße 23 - einstimmig beschlossen
+- TOP 34: Vertragsverlängerung Ateliergemeinschaft Schulstraße und Zukunftswerkstatt Kreuzviertel e.V. - einstimmig beschlossen
+- TOP 35: Einführung eines Kulturtickets für junge Menschen - mehrheitlich beschlossen
+- TOP 36: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - von der Tagesordnung abgesetzt
+- TOP 37: 1. Rückbau der Einfachsporthalle auf dem Gelände der ehemaligen Josefschule, Stadtbezirk Mitte - einstimmig geändert beschlossen
+- TOP 38: Peter-Wust-Schule: Aufstellung von Fertigbauklassen - einstimmig beschlossen
+- TOP 39: Errichtungs und Baubeschluss - einstimmig beschlossen
+- TOP 40: Baubeschluss - mehrheitlich beschlossen
+- TOP 41: Beitritt der Stadt Münster zum Förderverein der Deutschen Gartenamtsleiterkonferenz (GALK e.V.) - einstimmig beschlossen
+- TOP 42: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 43: Bauleitplanung
+- TOP 43.1: Stadtbezirk Münster-Hiltrup
+- TOP 43.1.1: Bebauungsplan Hiltrup Nr. 13 "Kläranlagenerweiterung Hiltrup-West" - Beschluss zur Aufhebung - einstimmig beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 44.1: Zwischennutzung der Sporthalle der ehem. Wartburgschule prüfen - verwiesen
+- TOP 44.2: Parkraum gestalten – Bewohnerparken im Kreuzviertel und in Pluggendorf - verwiesen
+- TOP 44.3: Zeitnahe Durchführung des Forums „Stadt in der sozialen Balance“ - verwiesen
+- TOP 44.4: Anpassung der Aufwandsentschädigung für die sog. Ein-Euro-Jobber (Arbeitsgelegenheiten mit Mehraufwandsentschädigung) - verwiesen
+- TOP 44.5: Klimawäldchen - verwiesen
+- TOP 44.6: Pflege von Streuobstwiesen aus einer Hand gewährleisten - verwiesen
+- TOP 44.7: Wohn+Stadtbau weiterhin mit Eigenkapital stärken – Fortsetzung des 50-Mio-Euro-Pakets ab dem Jahr 2025 - verwiesen
+- TOP 44.8: Knoten Aegidiitor beschleunigt umgestalten - verwiesen
+- TOP 44.9: Den Westen der Stadt per ÖPNV schneller erschließen - Pendelverkehre im Umfeld des UKM umweltfreundlich gestalten - verwiesen
+- TOP 44.10: Betreuungszeiten in Kitas und OGS sichern, Verlässlichkeit schaffen - verwiesen
+- TOP 44.11: Qualität statt billig – Für einen zukunftsfähigen und leistungsstarken Busverkehr in Münster - verwiesen
+- TOP 44.12: Für generationengerechte Stadtfinanzen-„Wir haben kein Einnahme-, sondern ein Ausgabeproblem“ - verwiesen
+- TOP 44.13: Berufliche Bildung ernst nehmen – das Wilhelm-Emmanuel-von-Ketteler-Berufskolleg endlich zukunftsfest machen - verwiesen
+- TOP 44.14: Digitalisierung: Strategie weiterentwickeln und einen CDO einführen! - verwiesen
+- TOP 45: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 45.1: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 46: Verschiedenes
