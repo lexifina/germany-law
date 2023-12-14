@@ -1,0 +1,160 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2023-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7239105
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7239105
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung vom 16.11.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse Antrag des Miteinander Trudering e.V. vom 06.10.2022 Nachträgliche Erhöhung des Zuschussbeitrags um zusätzliche 719,95 €
+- TOP 2.1.2.: (E) Stadtbezirksbudget SV Gartenstadt Trudering e.V. Behebung von Feuchtigkeitsschäden 1.915,10 € / 0262.0-15-0504
+- TOP 2.1.3.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 15 Trudering Riem vom 01.01. - 31.12.2024 7.980,00€ / AZ 0262.0-15-0511
+- TOP 2.1.4.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Container Bezirk 15 Trudering Riem vom 01.01. - 31.12.2024 5.000,00 €/ AZ 0262.0-15-0512
+- TOP 2.1.5.: (E) Stadtbezirksbudget C.O.N. SONANZA e.V. Jahresabschluss- und Weihnachtskonzert am 16.12.2023 2.000,00 € / Az. 0262.0-15-0520
+- TOP 2.1.6.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarte von Januar bis Juni 2024 6.475,00 € / Az. 0262.0-15-0519
+- TOP 2.1.7.: (E) Stadtbezirksbudget TSV Trudering e.V. Stabhochsprungstäbe für Stabhochsprunganlage 1.998,75 € / Az. 0262.0-15-0521
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: Bahnhof Trudering: Errichtung einer überdachten Fahrradabstellanlage
+- TOP 2.2.2.: (E) Sichere Gestaltung der Brücke an der Straße „Am Mitterfeld“ für Schulkinder
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Emplstraße / Straßl ins Holz: Mehr Sicherheit für Verkehrsteilnehmer
+- TOP 3.2.2.: Waldtrudering: Maßnahmen zur Verbesserung der Schulwegsicherheit an der Strecke Wasserburger Landstraße über Von-Erckert-Straße – Tsingtauer Straße – Schramminger Weg – Friedenspromenade
+- TOP 3.2.3.: Birthälmer Straße / Westermeierstraße: Aufstellung von Parkbänken
+- TOP 3.2.4.: Wasserburger Landstraße / Von-Erckert-Straße: Verbesserung der Kreuzungssituation
+- TOP 3.2.5.: Friedrich-Creuzer-Straße: Anordnen von Haltverboten
+- TOP 3.2.6.: Schutz von Fahrradfahrenden und Verbesserung der Fahrradinfrastruktur
+- TOP 3.2.7.: Mauerseglerstraße /Wasserburger Landstraße: Montierung eines festen grünen Pfeils an der Kreuzung
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Tangastraße / Waterbergstraße: Aufstellung eines zusätzlichen Weißglascontainers
+- TOP 3.3.2.: Hoferichterweg: Fehlender Internetanschluss durch die Telekom
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Riemer Friedhof: Freigabe des kurzen Weges zum Osteingang
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Wertstoffsammlung direkt in den Nahversorgungszentren Truderings
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Erinnerung - die bleibt
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Huchenstraße: Ausbau des Endstücks zu einem Verkehrsberuhigten Bereich
+- TOP 5.2.2.: Sanierung Grünzug Bürgermeister-Keller-Straße Fortsetzung/Finalisierung der Planungen für den barrierefreien Ausbau der Unterführung Lehrer-Götz-Weg
+- TOP 5.2.3.: Wasserburger Landstraße: Situation für Radfahrende verbessern, ohne „das Kind mit dem Bade auszuschütten“
+- TOP 5.2.4.: Ampeln ausschalten, Bushaltestellen beleuchten
+- TOP 5.2.5.: Dringende verkehrssichere Ertüchtigung der Friedrich-Creuzer-Straße im Abschnitt Friedenspromenade bis Alexisweg
+- TOP 5.2.6.: Hafelhofweg – Gefahren für Fußgänger reduzieren
+- TOP 5.2.7.: blaue Zone in der Messestadt-Ost - wo sollen die Anwohner ihre Autos abstellen? Parkverbot für LKW über 3,5 t
+- TOP 5.2.8.: Tempo 50-Schild an der nördlichen Bajuwarenstraße entfernen oder durch Tempo 30-Schild ersetzen
+- TOP 5.2.9.: Querung Schrammingerweg / Am Hochacker sicherer machen
+- TOP 5.2.10.: Bauliche Veränderungen am Bahnhof Riem
+- TOP 5.2.11.: Ein attraktiver ÖPNV braucht ansprechende und barrierefreie Bushaltestellen – dies muss 2023 erst recht für „ältere Bestands-Haltepunkte“ auf stark befahrenen Linien und Verkehrsachsen gelten
+- TOP 5.2.12.: Bestellung und Aufstellung eines Dialog-Displays Am Schmuckerweg 8
+- TOP 5.2.13.: Am Mitterfeld: Aufstellung einer TOPO-Box
+- TOP 5.2.14.: Einbahnstraßen zur Optimierung des Verkehrsflusses Friedenspromenade - Turnerstraße
+- TOP 5.2.15.: Friedenspromenade: a) Sanierung der Querungen des 2-Richtungs-Fuß-Radwegs zwischen Truderinger Gymnasium und Florastraße b) Verbesserung der Markierung der Fahrradstraße zwischen Am Hochacker und Truderinger Gymnasium
+- TOP 5.2.16.: Riemer Park: Einrichtung von "Radlstationen"
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Bildung in und mit der Natur! – Ein Waldklassenzimmer für Trudering-Riem
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Nennung von Vorschlägen zur Einrichtung von Sommerstraßen 2024
+- TOP 7.2.2.: Von Schondorf lernen: Pilotprojekt „Miteinanderweg“ für Trudering-Riem BA-Antrag Nr. 20-26 / B 01014 Nennung konkreter Aufstellungsstellen
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Leibengerstr. 11 - Neubebauung eines Grundstücks mit 3 Einfamilienhäuser oder 2 Mehrfamilienhäuser - VORBESCHEID -
+- TOP 7.4.2.: Hererostr. 17 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Einfamilienhauses
+- TOP 7.4.3.: Am Eulenhorst 57 - Neubau von zwei Mehrfamilienhäusern mit je acht Wohneinheiten und einer Tiefgarage
+- TOP 7.4.4.: Wachtelweg 23 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage - VORBESCHEID -
+- TOP 7.4.5.: Stieglitzweg 13 - Errichtung eines Mehrfamilienhauses mit 9 Stellplätzen auf Unterflurparksystemen und einem oberirdischen Stellplatz - VORBESCHEID
+- TOP 7.4.6.: Am Hochacker 51b - Neubau einer Doppelhaushälfte mit 3 Wohneinheiten, einer Garage und einer Duplex-Garage
+- TOP 7.4.7.: Waldtruderinger Str. 5 - Neubau von vier Wohneinheiten - Dreispänner (Gebäudeklasse 3) und ein Einfamilenhaus (Gebäudeklasse 1) - mit Stellplätzen und Nebenanlagen - VORBESCHEID
+- TOP 7.4.8.: Ickelsamerstr. 39 - ÄNDERUNGSANTRAG zu 1.2-2023-17576-32 - hier: Änderung der Stellplätze, Änderung der straßenseitigen Gaube sowie Verkleinerung von drei Balkonen - Errichtung eines Mehrfamilienhauses mit einer Garage, einem Stellplatz und einem Unterparkflursystem
+- TOP 7.4.9.: Von-Erckert-Straße 65 - Neubau eines Einfamilienhauses mit Garage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Willy-Brandt-Allee: Errichtung eines Jugendcontainers
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Martin-Empl-Ring 3 Hermann-Schaller-Straße 2 Von-Gravenreuth-Straße 11 Bartholomäer Straße 4
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Am Eulenhorst 57 Am Eulenhorst 89 Am Messesee 2 Brachsenstr. 3 Büchmannstr. 15 Halleiner Str. 37 Helenenstr. 33 Hererostr. 5 Hererostr. 17 Hermann-Schaller-Str. 29 Hugo-Weiss-Str. 9 Kathreinweg 30 Leibengerstr. 11 Möwestr. 41a Samlandstr. 12 Samoastr. 21 Scheibmeirstr. 28a Stieglitzweg 13 Von-Erckert-Str. 33 Von-Erckert-Str. 38 Wachtelweg 19 Wachtelweg 23 Waldtruderinger Str. 5
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnungen nach §45 StVO: a) Corinthstraße b) Hafelhofweg c) Schrammingerweg d) Wasserburger Landstraße e) De-Gasperi-Bogen
+- TOP 10.2.2.: Aktueller Stand der Radwegverbindungen Bildungscampus Riem Joseph-Wild-Straße über Riemer Park - Kopfbau - nach Trudering
+- TOP 10.2.3.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 10.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.5.: Baumaßnahme wegen Stromnetzerweiterung a) Kreuzerweg
+- TOP 10.2.6.: Brenner-Nordzulauf: Abdrucks der städtischen Stellungnahme im Scoping-Verfahren zum Vorhaben "Neubau des S-Bahn München Betriebswerks in Steinhausen"
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: (U) Personal- und Sachmittelbedarfe anerkannter Anmeldungen zum Eckdatenbeschluss 2023 für den Haushalt 2024 1. Konsolidierung Grünordnungs- planung im Referat für Stadtplanung und Bauordnung 2. Münchner Nordosten 3. Schulbauoffensive (SBO) 4. Stadtentwicklungsplan STEP 2040 5. Klimaneutrales München 2035 6. Internationale Bauausstellung Metropolregion München 7. Rahmenplanung Gartenstadt 2.0 8. Stärkung Steuerungsunterstützung Bebauungsplanverfahren / Taskforce Bebauungsplan 9. Siedlungsschwerpunkt Freiham 10. Wohnen in München VII; Sukzessive Erhöhung der Zielzahlen für den bezahlbaren Wohnungsbau und der Fertigstellungszahlen für die städtische Wohnungsbaugesellschaft Münchner Wohnen 11. Konzeptioneller Mietwohnungsbau - Einführung eines befristeten Teuerungsausgleichs 12. Verbesserung der Servicequalität der LBK 13. Sektorale Bebauungspläne 14. Klimaschutz im Denkmal
+- TOP 10.3.2.: Mehrjahresinvestitionsprogramms 2023 – 2027 Verteilung der Unterlagen für die Beratung in den Fachausschüssen und der Vollversammlung im Dezember
+- TOP 10.3.3.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 10.3.4.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Solalindenstr. 33b b) Reiherweg 7 c) Graf-Lehndorff-Straße 19 d) Sulzer-Belchen-Weg 7 e) Hochkönigstraße 14 f) Wasserturmstraße 22 g) Otto-Lederer-Weg 49
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Dachsteinstr. 32 b) Hochkönigstraße c) Hochkönigstr. 14
+- TOP 10.4.3.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Empfang des Referats für Bildung und Sport am 17.10.2023
+- TOP 10.5.2.: (U) Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Planung und Neueröffnung an den Standorten • Anton-Ditt-Bogen 5 • Ottobrunner Straße 28g • Schultheißstraße (Planungsgebiet Muttenthalerstraße) Vorübergehender Aufbau einer Zeltstadt auf dem Gelände Messe-München • Zeltstadt 3 Verlängerung der bestehenden Unterkunft für Geflüchtete am Standort • Ottobrunner Straße 28h Verlängerung bestehender Hotels als Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 Verlängerung bestehender Leichtbauhallen als Unterkünfte für Geflüchtete an den Standorten • Maria-Goeppert-Mayer-Straße 21 • Neuherbergstraße 24 • Gerty-Spies-Straße 9 • Hansastraße 55 • Kronstadter Straße 36 • Hachinger-Bach-Straße 19 Verlängerung der dezentralen Erstanlaufstelle für Geflüchtete aus der Ukraine am Standort • Dachauer Straße 122 Eröffnung der Übergangswohnheime durch die Regierung von Oberbayern an den Standorten • Bachbauernstraße 4 • Winfriedstraße 3a / Christoph-Rapparini-Bogen 6
+- TOP 10.5.3.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 10.5.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 10.5.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 10.5.6.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 10.5.7.: Parkmeile entlang der Friedenspromenade weiter aufwerten, Platz für Spiel und Sport einrichten Antwort des BA 16 Ramersdorf-Perlach
+- TOP 10.5.8.: Ausgewählte temporäre KunstSpielOrte in der Messestadt Riem Sitzungsvorlage Nr. 20-26 / V 11818
+- TOP 10.5.9.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 10.5.10.: Aktualisierte Übersicht über Unterkünfte für Geflüchtete und Wohnungslose ab 48 Bettplätzen (Stand 30.09.2023)
+- TOP 10.6: UA Umwelt, Energie und Klimaschutz
+- TOP 10.6.1.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 10.6.2.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV: a) Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München b) Jahresgenehmigung für Reinigungsarbeiten an oberirdischen Verkehrsanlagen im gesamten Stadtgebiet München
+- TOP 10.6.3.: Graf-zu-Castell-Straße: Anzeige über das Abbrennen eines Feuerwerks durch einen gewerblichen Pyrotechniker auf städtischem Grund
+- TOP 10.6.4.: HfK Unnützstraße 28: Pläne zum Neubau der Kompakttrafostation an der Himalayastraße
+- TOP 10.6.5.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 1.3.1.: (N) Stadtteilwoche Trudering-Riem 2024: Angebote für die Zielgruppe Jugendliche / Junge Menschen
+- TOP 1.3.2.: (N) Durchführung des Weltspieltags und Weltkindertags 2024 im 15. Stadtbezirk
+- TOP 1.3.3.: (N) Protokoll des Ortstermins zur Verkehrsberuhigung der Damaschkestraße am 24.11.2023
+- TOP 7.5.2.: (N) Stadtteilwoche Trudering-Riem 2024: Angebote für die Zielgruppe Jugendliche / Junge Menschen
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.2.1.: (N) Durchführung des Weltspieltags und Weltkindertags 2024 im 15. Stadtbezirk
+- TOP 9.2.2.: (N) Protokoll des Ortstermins zur Verkehrsberuhigung der Damaschkestraße am 24.11.2023
