@@ -1,0 +1,97 @@
+# 24. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2023-12-14T17:00:00+01:00
+- Ende: 2023-12-14T21:25:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5400
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5400
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=381013
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 3.1: Keine Umbildung des Bezirksamts! - in der BVV zurückgezogen
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Änderung von Sitzungsterminen der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2024; Bezug DS/0481/IX - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl einer Schiedsperson für den Schiedsamtsbezirk Berlin-Lichtenberg 3 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Schulneugründung einer ISS am Standort Falkenberger Chaussee 74 in 13053 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Wirksam gegen Mietwucher vorgehen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Neue Hall of Fame in der Rummelsburger Bucht finanziell sichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Ein Pilotprojekt für Sozialbegleiter:innen im Familienzentrum ansiedeln - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Instandsetzung des Straßenbelags in der Einbecker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Trinkwasser und Verschattung für Lichtenberger Spielplätze - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Bewusstsein für seelische und psychische Gesundheit in der Bevölkerung erhöhen! - in der BVV abgelehnt
+- TOP 5.13: Bebauungsplan Ostkreuz mit Leben füllen und geplanten Wohnraum umsetzen - überwiesen
+- TOP 5.14: Calisthenics Park an der Rummelsburger Bucht einrichten - überwiesen
+- TOP 5.15: Informationen zur Rechtsgrundlage für Feuerwerkszündungen - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Bolzplatz für den Mauritius-Kiez - überwiesen
+- TOP 5.17: Nachhaltiges Müllmanagement in Lichtenberg - überwiesen
+- TOP 5.18: Erste Hilfe am Tier – Kursangebot an der VHS - überwiesen
+- TOP 5.19: Familienfreundliche Spielecke im Bürger:innenamt einrichten - überwiesen
+- TOP 5.20: Mähfrei im Mai! - überwiesen
+- TOP 5.21: Hundefreilauffläche im Hinkelpark / Nöldnerpark - überwiesen
+- TOP 5.22: Hundefreilauffläche in der Parkaue - überwiesen
+- TOP 5.23: Teilsanierung des Neuzeller Weges - überwiesen
+- TOP 5.24: Durchfahrt An der Mole auch bei Bauarbeiten sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.25: Rettungsweg in der Plauener Straße überprüfen und sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Dialogdisplay für die Feldtmannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Kompensationsmanagement soll auch Daten erfassen - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Self-Service-Terminals: Durch Digitalisierung Terminmangel in Bürgerämtern entschärfen und Flexibilität für Bürger erhöhen - überwiesen
+- TOP 5.29: Bauen oder Spielen? - Mehr Kommunikation auf Spielplatz-Baustellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: Schilder vor Vandalismus schützen - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Einsehbarkeit von Einmündungen und damit Schulwegsicherheit im Gensinger Viertel erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Sicherung des Geländes am Papenpfuhlbecken - ohne Änderungen in der BVV beschlossen
+- TOP 5.33: Eine Bank muss wandern, um Nachtruhe zu ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Sanierungsstau zukünftig vermeiden - Immobilien langfristig nutzbar halten - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: Ausbesserungsarbeiten der Gehwege um das Areal Waldowallee – die Gehwegsicherheit muss gewährleistet werden! - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Keramikbrunnen im Kiez Frankfurter Allee Süd schützen - überwiesen
+- TOP 5.37: Gemeinsam stark: Für wohnungs- und obdachlose Menschen – und ihre tierischen Begleiter! - überwiesen
+- TOP 5.38: Freie Fläche als Stellplatzanlage im Gensinger Viertel freigeben - überwiesen
+- TOP 5.39: Verkehrsberuhigung in Wartenberg - überwiesen
+- TOP 5.40: Die Schulgesundheitsfachkraft an der Gutenberg-Oberschule wird auch im Jahr 2024 benötigt - überwiesen
+- TOP 5.41: Gefahrenstelle an der Frankfurter Allee / Ecke Buchbergerstraße entschärfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.42: Für ein gesünderes Mikroklima und wirksamen Hitzeschutz – Weitere Ersatzpflanzungen für den Schulneubau in der Hauptstraße 9/Georg-Löwenstein-Straße 15 - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - erledigt
+- TOP 8.2: Wahl eines Vorstandmitgliedes - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 9.1: Die Arbeit des Lichtenberger Registers unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Naturschutz in Lichtenberg: Balkenmäher für weniger Tote auf der Wiese - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Geschwindigkeitsdarstellung und Geschwindigkeitsreduzierung in der Zechliner Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.4: Sicheres Abstellen von E-Scootern und Leihfahrrädern - überwiesen
+- TOP 9.5: Planungsziele Bebauungsplanverfahren „Spreeküste“ 11-47a-1 VE um Wohnnutzung erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Keine defensive Architektur in Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Das geflügelte Leid – „Hochzeitstauben“ verbieten - ohne Änderungen in der BVV beschlossen
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Sonderausschuss zur Aufklärung der Lage am Hönower Wiesenweg - in der BVV abgelehnt
+- TOP 10.2: Schulweg sicherer machen - Gehwegvorstreckungen in der Schleizer Straße und Plauener Straße einrichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.3: Zentralen Gedenkort für den Volkstrauertag in Lichtenberg schaffen - im Ausschuss abgelehnt
+- TOP 10.4: Für einen wirksamen Schutz vor Verdrängung und Zwangsräumung – Bearbeitung von Anträgen auf Wohngeld beschleunigen - mit Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Bahnhofsvorplatz Lichtenberg - schriftlich beantwortet
+- TOP 11.2: Eckpunkte zur Reform der Berliner Verwaltung - schriftlich beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Diversity-Management Lichtenbergs ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Städtepartnerschaften regelmäßig prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Einrichtung von provisorischen Haltestellen - in der BVV abgelehnt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Förderung privater Carsharing-Gemeinschaften im Raum von Parkbewirtschaftungszonen - im Ausschuss abgelehnt
+- TOP 14.2: Landschaftsschutzgebiet der Wartenberger und Falkenberger Feldflur für die Zukunft ertüchtigen - überwiesen
+- TOP 14.3: Neue Bänke rund um den neuen Kinderspielplatz im Seepark in Karlshorst aufstellen - in der BVV zurückgezogen
+- TOP 14.4: Schnelle Überquerung der B1 in Alt-Friedrichsfelde für Fußverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Lichtenberger Aktionsplan gegen Rassismus - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Für einen wirksamen Schutz der Radfahrenden entlang der Hauptstraße und Köpenicker Chaussee – das Mobilitätsgesetz des Landes Berlin umsetzen - überwiesen
+- TOP 15: Geschäftliche Mitteilungen des Vorstandes - erledigt
