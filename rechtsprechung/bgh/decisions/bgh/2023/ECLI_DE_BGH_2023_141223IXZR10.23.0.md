@@ -1,0 +1,433 @@
+---
+ecli: "ECLI:DE:BGH:2023:141223IXZR10.23.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-09"
+aktenzeichen: "IX ZR 10/23"
+decided: "2023-12-14"
+typ: "U"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2023&Sort=1&Seite=109&nr=136487&anz=3377&pos=3281&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-09_LE_2023-12-14_IX_ZR_10_23_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/aktg/0256.md", "germany/bund/acts/bgb/0134.md", "germany/bund/acts/bgb/0138.md", "germany/bund/acts/bgb/0157.md", "germany/bund/acts/bgb/0242.md", "germany/bund/acts/bgb/0310.md", "germany/bund/acts/bgb/0812.md", "germany/bund/acts/bgb/0814.md", "germany/bund/acts/bgb/0817.md", "germany/bund/acts/estg/0043.md", "germany/bund/acts/estg/0044.md", "germany/bund/acts/hgb/0232.md", "germany/bund/acts/hgb/0235.md", "germany/bund/acts/hgb/0264.md", "germany/bund/acts/inso/0129.md", "germany/bund/acts/inso/0134.md", "germany/bund/acts/inso/0136.md", "germany/bund/acts/inso/0140.md", "germany/bund/acts/stgb/0263.md", "germany/bund/acts/zpo/0286.md", "germany/bund/acts/zpo/0559.md"]
+---
+
+# Bundesgerichtshof, IX ZR 10/23 vom 2023-12-14
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+
+                                 URTEIL
+IX ZR 10/23
+
+                             in dem Rechtsstreit
+
+Nachschlagewerk:       ja
+
+BGHZ:               nein
+
+BGHR:                  ja
+
+
+
+InsO § 134 Abs. 1
+
+
+Die vollumfängliche Rückzahlung einer Einlage an einen stillen Gesellschafter stellt
+insoweit eine unentgeltliche Leistung dar, als die Einlage durch Verluste vermindert
+war und es im Zeitpunkt der angefochtenen Rechtshandlung keine weiteren Ansprüche auf den dem Verlust entsprechenden Betrag gab.
+
+
+
+
+BGH, Urteil vom 14. Dezember 2023 - IX ZR 10/23 - OLG Karlsruhe
+                                                   LG Konstanz
+
+
+
+
+ECLI:DE:BGH:2023:141223UIXZR10.23.0
+
+                                           -2-
+
+
+
+    Der IX. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 14. Dezember 2023 durch den Vorsitzenden Richter Prof. Dr. Schoppmeyer,
+    die Richter Röhl, Dr. Schultz, Weinland und Kunnes
+
+
+    für Recht erkannt:
+
+
+           Die Revision gegen das Urteil des 3. Zivilsenats des Oberlandesgerichts Karlsruhe vom 21. Dezember 2022 wird auf Kosten des
+           Beklagten zurückgewiesen.
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                       Tatbestand:
+
+1          Der Kläger ist Verwalter in dem auf Antrag vom 4. August 2016 am 2. Januar   2017    eröffneten    Insolvenzverfahren    über    das   Vermögen       der
+    E.             mbH & Co. KG (im Folgenden: Schuldnerin), welche Kapitalanlegern die Möglichkeit der Beteiligung als stille Gesellschafter bot. Die Schuldnerin
+    warb bei Anlegern Gelder ein und reichte sie auf der Grundlage eines Rahmenkreditvertrags in Tranchen weiter an ihre Gründungskommanditistin zu 90 %, die
+    L.            GmbH & Co. KG (im Folgenden: L.             ). Letztere sollte mit den
+    Geldern ein Luxuspfandhaus betreiben und aus den Einnahmen die Rückzahlung
+    der Darlehen nebst Zinsen an die Schuldnerin bewirken. Weiterer Kommanditist
+    der Schuldnerin zu 10 % war         M.        . Laut dem Gesellschaftsvertrag der
+    Schuldnerin waren deren Kommanditisten zur Geschäftsführung berufen; die
+    Komplementärin war demgegenüber von der Geschäftsführung ausgeschlossen.
+
+                                               -3-
+
+
+
+2          Der        Beklagte   ist   Alleinerbe    nach     seiner   verstorbenen      Ehefrau         F.         (im Folgenden: Erblasserin). Der Beklagte und die Erblasserin schlossen zwischen 2010 und 2013 jeweils drei stille Beteiligungen bei der
+    Schuldnerin über einen Gesamtbetrag von 1.605.000 € mit einer Laufzeit von jeweils 36 Monaten ab. Diesen sechs Anlagen lagen die Prospekte L.                     2 und
+    L.           P.       sowie die darin enthaltenen Gesellschaftsverträge zur Errichtung einer stillen Gesellschaft zugrunde.
+
+3          Tatsächlich betrieb die L.                ein Schneeballsystem und wurden die
+    von der Schuldnerin investierten Anlegergelder zweckwidrig für Darlehen innerhalb der Gruppe verwendet. Ein Pfandleihgeschäft wurde im großen Stil vorgetäuscht. Die Inpfandnahmen betrafen zumeist absichtlich zu hoch bewertete, gefälschte und wertlose Faustpfänder sowie Inhabergrundschuldbriefe oder Inhaberaktien nahestehender Personen oder Unternehmen. Aufgrund von Rahmenverrechnungsvereinbarungen            mit    der     Schuldnerin    verrechnete     die
+    L.      das fällige Darlehen mit einem neu ausgereichten, um eine tatsächliche
+    Rückerstattung an die Schuldnerin zu umgehen. Das neue Darlehen wurde für
+    einen Pfandkredit verwendet, der teils mit demselben Objekt wie zuvor, nur mit
+    neuer Pfandnummer und höherer Bewertung, gesichert war. Infolge dieser Geschäftspraxis waren die von der Schuldnerin an die L.                 ausgereichten Darlehen zum großen Teil nicht werthaltig.
+
+4          Der Beklagte und die Erblasserin erhielten von der Schuldnerin in den Jahren 2013 bis 2015 Auszahlungen in Höhe von insgesamt 154.642,18 € abzüglich
+    Kapitalertragsteuer in Höhe von 25 % und Solidaritätszuschlag in Höhe von
+    5,5 %. Ferner erhielten am 30. April 2013 der Beklagte eine Rückzahlung einer
+    Einlage in Höhe von 25.000 € und die Erblasserin eine Rückzahlung einer Einlage in Höhe von 500.000 €. Die neu aufgestellten Jahresabschlüsse der Schuld-
+
+                                            -4-
+
+
+
+    nerin für die Geschäftsjahre 2013 bis 2016 weisen allesamt ein negatives Ergebnis aus, ein Gewinn wurde in diesem Zeitraum nicht erwirtschaftet. Aufgrund der
+    erzielten Verluste waren die im Jahre 2010 gewährten Einlagen des Beklagten
+    und der Erblasserin am 30. April 2013 in Höhe von 5.412,73 € und in Höhe von
+    108.254,67 € vermindert. In dieser Höhe handelt es sich nach Ansicht des Klägers um Scheinguthaben. Über das Vermögen der L.          wurde am 5. Februar
+    2017 das Insolvenzverfahren eröffnet.
+
+5         Der Kläger hat den Beklagten unter dem Gesichtspunkt der unentgeltlichen Leistung gemäß § 134 InsO auf Rückgewähr der Auszahlungen sowie der
+    Rückzahlungen, soweit es sich nach seiner Auffassung um Scheinguthaben handelte, in Anspruch genommen. Das Landgericht hat die Klage abgewiesen. Auf
+    die Berufung des Klägers hat das Berufungsgericht den Beklagten zur Zahlung
+    von 268.309,58 € nebst Zinsen verurteilt und die Revision zugelassen.
+
+
+
+
+                                Entscheidungsgründe:
+
+
+6         Die zulässige Revision ist nicht begründet.
+
+
+
+
+                                             I.
+
+7         Das Oberlandesgericht hat zur Begründung seiner in ZInsO 2023, 212 ff
+    veröffentlichten Entscheidung im Wesentlichen Folgendes ausgeführt: Bei den
+    Auszahlungen der Schuldnerin in Höhe von 154.642,18 € habe es sich um
+    Scheingewinne und daher um unentgeltliche Leistungen gehandelt. Darüber hinaus habe in Höhe von 113.667,40 € kein Anspruch auf Rückzahlung der Einlagen
+    bestanden. Der Schuldnerin sei auch im Sinne von § 814 BGB bekannt gewesen,
+
+                                             -5-
+
+
+
+    dass sie zu den Leistungen nicht verpflichtet gewesen sei. Entweder erfolge eine
+    Zurechnung - wovon auszugehen sei - bereits aufgrund der Kenntnis des Geschäftsführers von der Rechtsgrundlosigkeit der Zahlungen oder jedenfalls aufgrund der Kenntnis des Hintermannes. Die Geltendmachung des Rückgewähranspruchs verstoße auch nicht gegen Treu und Glauben, weil der Schutz des Beklagten als einer der getäuschten Anleger es nicht gebiete, den Grundsatz der
+    Gläubigergleichbehandlung zurücktreten zu lassen. Die von den Auszahlungsbeträgen einbehaltene Kapitalertragsteuer und der Solidaritätszuschlag unterlägen
+    ebenfalls der Anfechtung. Die Abgeltungswirkung zugunsten des Beklagten sei
+    bereits mit dem Steuerabzug eingetreten, ohne dass es auf die Anmeldung und
+    Abführung der Steuer durch die Schuldnerin ankomme. Die Voraussetzungen für
+    eine Ausnahme von der Abgeltungswirkung gemäß § 43 Abs. 5 Satz 1 Halbsatz 2, § 44 Abs. 1 Satz 10 und 11, Abs. 5 EStG seien weder vorgetragen noch
+    sonst ersichtlich. Auch die Voraussetzungen für eine Entreicherung des Beklagten in Bezug auf die einbehaltenen Beträge seien nicht dargelegt.
+
+
+
+
+                                             II.
+
+8         Dies hält rechtlicher Nachprüfung stand.
+
+9         1. Die zugunsten des Beklagten und der Erblasserin innerhalb von vier
+    Jahren vor dem Antrag auf Insolvenzeröffnung erfolgten Zahlungen stellen unentgeltliche Leistungen der Schuldnerin gemäß § 134 Abs. 1 InsO dar. Infolge
+    des Vermögensabflusses haben die Zahlungen eine objektive Gläubigerbenachteiligung bewirkt (§ 129 Abs. 1 InsO).
+
+                                           -6-
+
+
+
+
+10         a) Zutreffend ist das Berufungsgericht von der rechtswirksamen Beteiligung des Beklagten und der Erblasserin als stille Gesellschafter an der Schuldnerin ausgegangen. Sittenwidrig im Sinne von § 138 BGB wäre lediglich das von
+     der Schuldnerin tatsächlich betriebene System, nicht aber die mit dem gutgläubigen Beklagten vereinbarte Kapitalanlage, und auch ein gesetzliches Verbot
+     (§ 134 BGB, § 263 StGB) richtete sich nur gegen die Schuldnerin (vgl. BGH, Urteil vom 22. Juli 2021 - IX ZR 26/20, NZI 2021, 973 Rn. 14 f).
+
+11         b) Auszahlungen an Anleger - sei es auf ihre Gewinnbeteiligung, sei es
+     auf ihre Einlage - sind gemäß § 134 Abs. 1 InsO anfechtbar, wenn der Schuldner
+     sie ohne Rechtsgrund vorgenommen hat und ihnen nach den Verhältnissen zum
+     Zeitpunkt der angefochtenen Rechtshandlung (§ 140 InsO) keine ausgleichende
+     Gegenleistung gegenübersteht (vgl. BGH, Urteil vom 20. April 2017 - IX ZR
+     252/16, BGHZ 214, 350 Rn. 10 mwN; vom 30. März 2023 - IX ZR 121/22, NZI
+     2023, 543 Rn. 11 f). Dies ist bei Leistungen ohne Rechtsgrund der Fall, wenn
+     kein Rückforderungsanspruch in das Vermögen des Schuldners gelangt ist. Zur
+     Annahme der Unentgeltlichkeit kann es daher führen, wenn eine rechtsgrundlose
+     Leistung in Kenntnis der Nichtschuld (§ 814 BGB) oder unter den Voraussetzungen des § 817 Satz 2 BGB vorgenommen wird (vgl. BGH, Urteil vom 20. April
+     2017, aaO Rn. 16; vom 27. Juni 2019 - IX ZR 167/18, BGHZ 222, 283 Rn. 95;
+     vom 1. Oktober 2020 - IX ZR 247/19, NZI 2021, 30 Rn. 10 f; vom 22. Juli 2021
+     - IX ZR 26/20, NZI 2021, 973 Rn. 12; vom 30. März 2023, aaO Rn. 16).
+
+12         aa) Nach diesen Maßstäben kann der Insolvenzverwalter die Auszahlung
+     von Scheingewinnen durch den späteren Insolvenzschuldner als objektiv unentgeltliche Leistung nach § 134 Abs. 1 InsO anfechten (BGH, Urteil vom 22. April
+     2010 - IX ZR 163/09, NZI 2010, 605 Rn. 6; vom 18. Juli 2013 - IX ZR 198/10, NZI
+
+                                            -7-
+
+
+
+     2013, 841 Rn. 9; vom 1. Oktober 2020 - IX ZR 247/19, NZI 2021, 30 Rn. 10 f;
+     vom 22. Juli 2021 - IX ZR 26/20, NZI 2021, 973 Rn. 12). Ausschlaggebend ist,
+     dass dem Anleger nach den vertraglichen Vereinbarungen nur ein Anspruch auf
+     eine Beteiligung am Gewinn zusteht, tatsächlich jedoch ein solcher Gewinn nicht
+     erzielt worden ist. Es handelt sich dann um eine Leistung ohne Rechtsgrund.
+     Dass die Schuldnerin ein Schneeballsystem betrieben haben soll, sagt hingegen
+     für sich genommen nichts darüber aus, ob die Voraussetzungen des § 134 InsO
+     erfüllt sind (BGH, Urteil vom 22. Juli 2021, aaO Rn. 35 mwN; Beschluss vom
+     26. Januar 2023 - IX ZR 17/22, NZI 2023, 332 Rn. 4).
+
+13         bb) Erhält der Anleger, der sich an einem betrügerischen Kapitalanlagemodell beteiligt hat, Auszahlungen, die sowohl auf Scheingewinne als auch auf
+     die Einlage erfolgen, so sind diese nur gemäß § 134 Abs. 1 InsO anfechtbar,
+     soweit es um Auszahlungen auf Scheingewinne geht. Auszahlungen auf die Einlage - etwa nach einer Kündigung der Beteiligung - sind keine unentgeltliche
+     Leistung. Die Rückzahlung der Einlage stellt in diesen Fällen den Gegenwert für
+     die vom Anleger erbrachte Einlage dar (BGH, Versäumnisurteil vom 22. April
+     2010 - IX ZR 225/09, NZI 2010, 605 Rn. 11). Dies setzt jedoch voraus, dass dem
+     Anleger ein entsprechender Anspruch auf Rückzahlung der Einlage zustand.
+
+14         cc) Nach den insoweit von der Revision nicht angegriffenen Feststellungen
+     des Berufungsgerichts erhielten der Beklagte und die Erblasserin außer den auf
+     Scheingewinne entfallenden Auszahlungen in Höhe von 154.642,18 € zudem
+     Rückzahlungen ihrer Einlagen aus dem Jahr 2010 nach Beendigung der diesbezüglichen stillen Gesellschaft (§ 10.1 des Vertrags über die Errichtung einer stillen Gesellschaft; im Folgenden: SGV), die in Höhe von 108.254,67 € und
+     5.412,73 € auf Scheinguthaben entfielen. Insoweit waren die Einlagen jeweils
+     durch Verlustzuweisungen nach § 6.3 des Vertrages über die Errichtung einer
+
+                                            -8-
+
+
+
+     stillen Gesellschaft zwischen der Schuldnerin und dem jeweiligen Anleger aufgebraucht.
+
+15         (1) Nimmt der stille Gesellschafter - wie im Streitfall - aufgrund der Vereinbarungen gemäß § 232 Abs. 2 HGB auch am Verlust teil, vermindert sich die
+     Einlage um den auf den stillen Gesellschafter entfallenden Verlust. Wird die stille
+     Gesellschaft - wie hier - durch Ablauf der vereinbarten Frist beendet (§ 10.1
+     SGV), fehlt es in dieser Höhe an einem Auseinandersetzungsanspruch gemäß
+     § 235 Abs. 1 HGB. Vorliegend trifft der Vertrag über die Errichtung der stillen
+     Gesellschaft keine abweichenden Regelungen. Die Rückzahlung der Einlage erfolgt bei einer unzutreffenden Ermittlung des Auseinandersetzungsanspruchs in
+     einem solchen Fall auf ein Scheinguthaben. Eine solche Überzahlung mag Ansprüche aus ungerechtfertigter Bereicherung aus § 812 Abs. 1 Satz 1 BGB begründen, denen hier jedoch, wie im Zusammenhang mit den Scheingewinnen
+     näher ausgeführt wird, der Einwand des § 814 Fall 1 BGB entgegensteht. Hingegen besteht nach Beendigung der stillen Gesellschaft in Ermangelung einer ausdrücklichen Vereinbarung kein gesellschaftsrechtlicher Anspruch auf Rückzahlung der zu Unrecht ausgezahlten Einlage; insbesondere trifft den ausgeschiedenen stillen Gesellschafter insoweit keine Erstattungspflicht (vgl. MünchKomm-HGB/Schmidt, 4. Aufl., § 230 Rn. 147). Ebenso wenig sieht der Vertrag über die
+     Errichtung der stillen Gesellschaft für diesen Fall einen Rückzahlungsanspruch
+     vor. Da ein Scheinguthaben keinen Gegenwert für die erbrachte Einlage darstellt,
+     handelt es sich bei den beiden zuletzt genannten Leistungen nicht um eine entgeltliche Einlagenrückzahlung, sondern unter den gleichen Voraussetzungen wie
+     im Fall der Scheingewinne um eine unentgeltliche Auszahlung.
+
+16         (2) Es kann offenbleiben, ob im Streitfall hinsichtlich der Einlagenrückgewähr der Tatbestand des § 136 InsO eröffnet ist; denn dadurch wird die Unentgeltlichkeitsanfechtung nicht ausgeschlossen. Nach der Gesetzesbegründung zu
+
+                                           -9-
+
+
+
+     § 136 InsO bleibt die Anfechtbarkeit als unentgeltliche Leistung unter den
+     Voraussetzungen des § 134 InsO unberührt, weil allgemein alle Anfechtungstatbestände miteinander konkurrieren (BT-Drucks. 12/2443, S. 161 zu § 151 RegE;
+     HmbKomm-InsO/Schröder, 9. Aufl., § 136 Rn. 18; Graf-Schlicker/Huber, InsO,
+     6. Aufl., § 136 Rn. 9).
+
+17          c) Die Revision macht in Bezug auf die Ausschüttungen geltend, entgegen
+     der Auffassung des Berufungsgerichts liege keine unentgeltliche Leistung vor.
+     Der Beklagte habe Anspruch auf die streitbefangenen Auszahlungen gehabt, weil
+     die Schuldnerin und die Anleger bei verständiger Auslegung des stillen Gesellschaftsvertrags an den festgestellten Jahresabschluss der Schuldnerin gebunden seien, solange dessen Nichtigkeit - wie hier - nicht analog § 256 AktG festgestellt sei. Dem kann nicht gefolgt werden.
+
+18          aa) Die von einem Unternehmen für eine Vielzahl von Gesellschaftsverträgen mit stillen Gesellschaftern vorformulierten Vertragsbedingungen unterliegen - unabhängig von der Bereichsausnahme des § 310 Abs. 4 BGB - gemäß
+     §§ 157, 242 BGB einer ähnlichen objektiven Auslegung und Inhaltskontrolle wie
+     Allgemeine Geschäftsbedingungen und können vom Revisionsgericht frei ausgelegt werden. Beides gilt auch für Vertragsbestimmungen in einem Emissionsprospekt, soweit dessen Inhalt in die (vorformulierten) Einzelverträge einbezogen ist
+     (vgl. BGH, Urteil vom 27. November 2000 - II ZR 218/00, NZI 2001, 201, zu § 23
+     Abs. 1 AGBG aF; vom 12. März 2013 - II ZR 73/11, ZIP 2013, 1222 Rn. 14).
+
+19          bb) Bei Anwendung dieser Grundsätze ist mit dem Berufungsgericht nicht
+     auf die fehlerhaften Jahresabschlüsse der Schuldnerin, sondern auf die von Seiten des Klägers neu aufgestellten, zutreffenden Jahresabschlüsse für die Geschäftsjahre ab 2013 abzustellen. Gemäß § 6.1 SGV ist für die Ergebnisbeteiligung des stillen Gesellschafters von dem Ergebnis der Beteiligungsgesellschaft
+
+                                           - 10 -
+
+
+
+     auszugehen, das sich aus dem Jahresabschluss der Beteiligungsgesellschaft gemäß § 5.2 SGV vor Berücksichtigung des auf den stillen Gesellschafter und gegebenenfalls weitere stille Gesellschafter entfallenden Ergebnisanteils ergibt.
+     Nach § 5.2 Satz 3 SGV ist der festgestellte Jahresabschluss der Beteiligungsgesellschaft für den stillen Gesellschafter verbindlich. Nach dem objektiven Inhalt
+     und typischen Sinn der in Frage stehenden Klauseln sind diese von verständigen
+     und redlichen Vertragspartnern unter Abwägung der Interessen der üblicherweise beteiligten Kreise dahin auszulegen, dass die materiellen Voraussetzungen der Ausschüttungen sich nach der objektiven (wahren) Ertragslage der
+     Schuldnerin bestimmen, nicht nach den - fehlerhaften - festgestellten Jahresabschlüssen der Schuldnerin und ihrer Wirksamkeit nach dem Aktiengesetz (vgl.
+     BGH, Urteil vom 1. Oktober 2020 - IX ZR 247/19, NZI 2021, 30 Rn. 21, zu Genussrechten). Aus der Verwendung des Begriffs "festgestellter Jahresabschluss"
+     ist nicht zu folgern, dass die Anleger an diesen - gleich Aktionären - solange gebunden sind, wie er nicht nach § 256 AktG nichtig ist. Denn aus dem Vertrag
+     ergibt sich nicht, dass die Ausschüttungsansprüche der stillen Gesellschafter in
+     irgendeiner Form mit der Rechtsstellung eines Aktionärs verknüpft wären (vgl.
+     BGH, Urteil vom 1. Oktober 2020, aaO Rn. 25).
+
+20         cc) Die Hilfserwägung des Berufungsgerichts, selbst wenn nicht von den
+     korrigierten und zutreffenden Jahresabschlüssen auszugehen wäre, sondern von
+     der objektiven (wahren) Ertragslage, hätte kein Anspruch des Beklagten bestanden, veranlasst zur Klarstellung, dass insoweit kein sachlicher Unterschied besteht. Der Senat hat in den vom Berufungsgericht hierzu angeführten Entscheidungen zur Auslegung von Genussrechtsverträgen darauf abgestellt, dass sich
+     die materiellen Voraussetzungen der Ausschüttungen nach der objektiven (wahren) Ertragslage der Schuldnerin bestimmen, nicht nach den endgültig festgestellten Jahresabschlüssen und ihrer Wirksamkeit nach dem Aktiengesetz (BGH,
+     Urteil vom 1. Oktober 2020 - IX ZR 247/19, NZI 2021, 30 Rn. 21; vom 22. Juli
+
+                                            - 11 -
+
+
+
+     2021 - IX ZR 26/20, NZI 2021, 973 Rn. 18; vom 7. April 2022 - IX ZR 107/20, NZI
+     2022, 563 Rn. 14). Nach der Senatsrechtsprechung kommt es allein darauf an,
+     ob die spätere Schuldnerin in den jeweils streitgegenständlichen Jahren tatsächlich Gewinne erwirtschaftet hat. Ob dies der Fall war, hängt davon ab, ob die
+     Jahresabschlüsse, welche jeweils Gewinne ausgewiesen haben, fehlerhaft und
+     bei fehlerfreier Erstellung der Jahresabschlüsse Gewinne nicht angefallen sind
+     (BGH, Urteil vom 22. Juli 2021, aaO Rn. 19). Letzteres lässt sich insbesondere
+     - und auch im vorliegenden Fall - anhand von zutreffenden Jahresabschlüssen
+     feststellen, die der Insolvenzverwalter hat aufstellen lassen. Denn es ist gerade
+     der Jahresabschluss der Kapitalgesellschaft, der unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kommanditgesellschaft zu vermitteln hat (§ 264a Abs. 1 Nr. 2 Fall 2, § 264 Abs. 2 HGB).
+
+21          2. Die Feststellung des Berufungsgerichts, dass den Zuwendungen der
+     Schuldnerin keine ausgleichende Gegenleistung gegenübersteht, weil die für die
+     Schuldnerin verantwortlich handelnden Personen positive Kenntnis im Sinne des
+     § 814 BGB vom Fehlen einer Auszahlungspflicht gehabt haben, hält den Angriffen der Revision stand.
+
+22          a) Zutreffend ist das Berufungsgericht davon ausgegangen, dass die Zahlungen an den Beklagten nicht nach § 134 InsO anfechtbar wären, wenn die
+     Schuldnerin sie ohne Rechtsgrund vorgenommen, ihr deswegen ein Bereicherungsanspruch zugestanden und der Beklagte diesem nicht § 814 BGB hätte entgegenhalten können (vgl. BGH, Urteil vom 22. Juli 2021 - IX ZR 26/20, NZI 2021,
+     973 Rn. 12). Nach § 814 Fall 1 BGB kann das zum Zwecke der Erfüllung einer
+     Verbindlichkeit Geleistete nicht zurückgefordert werden, wenn der Leistende gewusst hat, dass er zur Leistung nicht verpflichtet war. Erforderlich ist die positive
+     Kenntnis der Rechtslage im Zeitpunkt der Leistung. Zur Kenntnis der Nichtschuld
+
+                                          - 12 -
+
+
+
+     genügt es nicht, dass dem Leistenden die Tatsachen bekannt sind, aus denen
+     sich das Fehlen einer rechtlichen Verpflichtung ergibt; der Leistende muss vielmehr aus diesen Tatsachen nach der maßgeblichen Parallelwertung in der Laiensphäre auch eine im Ergebnis zutreffende rechtliche Schlussfolgerung gezogen haben (BGH, Urteil vom 1. Oktober 2020 - IX ZR 247/19, NZI 2021, 30
+     Rn. 30; vom 22. Juli 2021 - IX ZR 26/20, aaO Rn. 22). Weiß der Schuldner, dass
+     er keine Gewinne, sondern im Gegenteil Verluste erwirtschaftet und ein betrügerisches Schneeballsystem betreibt, dann weiß er auch, dass die vereinbarten
+     Voraussetzungen für die Ausschüttung nicht vorliegen und die Anleger keine Ansprüche auf die Ausschüttungen gegen ihn haben. Dagegen spricht nicht, dass
+     die festgestellten Jahresabschlüsse fälschlich Gewinne und keine Jahresfehlbeträge ausweisen und von einem Wirtschaftsprüfer bestätigt worden sind. Denn
+     der Schuldner hat aufgrund seiner Kenntnis, dass er nur noch Verluste erwirtschaftet und das eingeworbene Kapital ganz oder aber zu einem großen Teil benutzen muss, um die früheren Anleger zu bezahlen, auch Kenntnis davon, dass
+     die betroffenen Jahresabschlüsse fehlerhaft sind und keine Grundlage für die
+     vereinbarten Ausschüttungen darstellen können (BGH, Urteil vom 1. Oktober
+     2020 - IX ZR 247/19, aaO Rn. 31; vom 22. Juli 2021 - IX ZR 26/20, aaO Rn. 36).
+
+23         b) Die Beantwortung der Tatfrage, ob die für die Schuldnerin verantwortlich Handelnden wussten, dass keine Verpflichtung zu Zahlungen an den Beklagten bestand, obliegt dem Berufungsgericht. Grundsätzlich ist die Würdigung, ob
+     eine tatsächliche Behauptung für wahr oder für nicht wahr zu erachten ist, Sache
+     des Tatrichters, der unter Berücksichtigung des gesamten Inhalts der Verhandlung und des Ergebnisses einer Beweisaufnahme nach freier Überzeugung zu
+     entscheiden hat. Der Tatrichter ist bei einem auf Indizien gestützten Beweis
+     grundsätzlich frei, welche Beweiskraft er den Indizien im Einzelnen und in einer
+     Gesamtschau für seine Überzeugungsbildung beimisst. Das Revisionsgericht ist
+
+                                           - 13 -
+
+
+
+     an seine Feststellungen nach § 559 ZPO gebunden und überprüft die Beweiswürdigung lediglich dahin, ob sich der Tatrichter entsprechend dem Gebot des
+     § 286 Abs. 1 ZPO mit dem Prozessstoff und den Beweisergebnissen umfassend
+     und widerspruchsfrei auseinandergesetzt hat, die Beweiswürdigung also vollständig und rechtlich möglich ist und nicht gegen Denkgesetze oder Erfahrungssätze verstößt (BGH, Urteil vom 22. Juli 2021 - IX ZR 26/20, NZI 2021, 973
+     Rn. 23 mwN).
+
+24         c) Nach diesen Maßstäben ist die tatrichterliche Würdigung nicht zu beanstanden.
+
+25         aa) Anders als die Revision meint, kommt es nicht darauf an, ob der seit
+     Gründung mit Gesellschaftsvertrag vom 26. Juli 2011 bis mindestens zum
+     19. Mai 2014 zum Geschäftsführer der Schuldnerin bestellte         M.      Kenntnis von einem Schneeballsystem hatte. Vielmehr muss sich die Kenntnis darauf
+     beziehen, dass keine Gewinne, sondern Verluste erwirtschaftet werden und es
+     sich bei den an stille Gesellschafter ausgeschütteten Beträgen um Scheingewinne handelt. Diese Kenntnis hat das Berufungsgericht rechtsfehlerfrei damit
+     begründet, dass für       M.      aus den von ihm unterzeichneten Vertragskonstruktionen ersichtlich war, dass die Schuldnerin aufgrund des Gleichlaufs zwischen den von der L.           zu zahlenden Darlehenszinsen und der den Anlegern gegenüber dargestellten Gewinnbeteiligungen keine Gewinne erzielen
+     konnte, zumal jeweils 8,75 % der Fondsmittel zur freien Verfügung für "Sonstiges" aus dem Fondskapital entnommen werden konnten.
+
+26         bb) Entgegen der Auffassung der Revision hat das Berufungsgericht nicht
+     isoliert auf einen zweckwidrigen Mitteleinsatz abgestellt. Vielmehr hat es hervorgehoben, dass aufgrund der faktisch außer Kraft gesetzten Mittelverwendungs-
+
+                                                - 14 -
+
+
+
+     kontrolle durch die Rahmenverrechnungsvereinbarungen die Berechnungsgrundlage für die Darlehensverträge und Gewinnbeteiligungen aufgehoben war.
+     Denn die dortigen Zinsangaben bedingten die Einhaltung des prospektierten Geschäftsmodells, und eine Abweichung führte zu einer Neubewertung und
+     bei          M.      zur Erkenntnis, dass die ursprünglichen Zinsberechnungen
+     keine Grundlage mehr hatten.
+
+27         cc) Die Revision rügt weiter, das Berufungsgericht habe in Bezug auf die
+     zur ergänzenden Begründung herangezogene Auskunft von                      M.     vom
+     22. Januar 2015 außer Acht gelassen, dass die darin geäußerten Zweifel unvereinbar mit dem Wissen um ein Schneeballsystem seien. Auch insoweit muss sich
+     entgegen der Auffassung der Revision die Kenntnis nicht auf ein Schneeballsystem als solches, sondern darauf beziehen, dass keine Gewinne, sondern Verluste erwirtschaftet werden und es sich bei den an stille Gesellschafter ausgeschütteten Beträgen um Scheingewinne handelt. Ausgehend von diesem zutreffenden Maßstab hat das Berufungsgericht die Auskunft rechtsfehlerfrei gewürdigt. Demnach kamen bei               M.            bereits Anfang 2012 Zweifel an der
+     Redlichkeit der L.          und ihrer handelnden Personen auf und wurde ihm 2013
+     klar, dass        E.          , der nach den rechtsfehlerfreien Feststellungen des
+     Berufungsgerichts bei der L.           als Mehrheitsgesellschafterin der Schuldnerin eine beherrschende Rolle einnahm, ihn "angelogen" hatte. Überdies stellte
+     M.       bei Überprüfung einiger Darlehen im Frühjahr 2013 fest, dass die Erklärungen von E.          nicht haltbar waren. Demnach hatten die für die Schuldnerin
+     verantwortlich Handelnden Kenntnis, dass keine Gewinne erwirtschaftet wurden
+     und daher keine Ansprüche der Anleger auf Ausschüttungen bestanden.
+
+28         3. Da bereits die Hauptbegründung des Berufungsgerichts zur Anwendung
+     des § 814 BGB den Angriffen der Revision standhält, kommt es auf die Beanstandungen gegenüber der Hilfsbegründung nicht mehr an.
+
+                                           - 15 -
+
+
+
+
+29          4. Rechtsfehlerfrei hat das Berufungsgericht angenommen, dass sich der
+     Anfechtungsanspruch auf für die Scheingewinne einbehaltene Steuern erstreckt.
+     Demgegenüber rügt die Revision ohne Erfolg, das Berufungsgericht habe den
+     Vortrag des Beklagten nicht berücksichtigt, eine Abführung der Kapitalertragsteuer und des Solidaritätszuschlags an das Finanzamt sei durch die Schuldnerin
+     nicht erfolgt.
+
+30          a) Voraussetzung für den Nichteintritt der Abgeltungswirkung des Steuerabzugs ist gemäß § 43 Abs. 5 Satz 1 Halbsatz 2 EStG in Verbindung mit § 44
+     Abs. 5 Satz 2 Nr. 2 EStG, dass das die Kapitalerträge auszahlende inländische
+     Finanzdienstleistungsinstitut die Kapitalerträge zu Unrecht ohne Abzug der Kapitalertragsteuer ausgezahlt hat. Erforderlich ist positives Wissen, eine Vermutung
+     reicht nicht (Gersch in Kirchhof/Söhn/Mellinghoff, EStG, 2012, § 44 Rn. F 43).
+     Diese Kenntnis hat der Gläubiger der Kapitalerträge und Steuerschuldner im Fall
+     eines vorgenommenen Einbehalts, aber unterlassener Abführung nicht zwangsläufig, da er lediglich den Nettobetrag erhalten hat und ohne Einblick in die Organisation des Entrichtungspflichtigen nicht notwendig weiß, wo der einbehaltene
+     Betrag verblieben ist (Herkenroth in Herrmann/Heuer/Raupach, EStG/KStG,
+     2023, § 44 EStG Rn. 113). Das Wissen darum, dass es voraussichtlich nicht zur
+     Abführung kommen wird, reicht nicht aus (BFH BFH/NV 2004, 635).
+
+31          b) Die Revision zeigt keinen vom Berufungsgericht übergangenen Sachvortrag auf, aus dem sich das positive Wissen des Beklagten um die unterlassene
+     Abführung von Kapitalertragsteuer und Solidaritätszuschlag ergeben würde.
+     Auch dem als übergangen gerügten Vorbringen, die Schuldnerin habe systema-
+
+                                    - 16 -
+
+
+
+tisch keine Kapitalertragsteuer und keinen Solidaritätszuschlag an das Finanzamt abgeführt, ist nicht zu entnehmen, dass der Beklagte von der Nichtabführung
+gewusst hätte.
+
+
+
+
+Schoppmeyer                          Röhl                              Schultz
+
+
+                 Weinland                           Kunnes
+
+
+
+Vorinstanzen:
+LG Konstanz, Entscheidung vom 12.08.2021 - C 4 O 225/20 -
+OLG Karlsruhe, Entscheidung vom 21.12.2022 - 3 U 45/21 -
+
+                                   - 17 -
+
+
+
+IX ZR 10/23
+
+
+Verkündet am 14. Dezember 2023
+
+
+Preuß, Justizangestellte
+als Urkundsbeamtin der Geschäftsstelle
