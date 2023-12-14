@@ -1,0 +1,23 @@
+# Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2024 - Anträge zum Haushalt -
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 371/2023 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-12-14
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZajbWk39ooVTPL7wRwlSkVs
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10821
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2024
+- Anträge zum Haushalt -) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWDQ8yZBQoyKN8baYwimnAFOd2FwEToE-Z-lxscMUcGu/Beschlussvorlage_371-2023_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP vom 22.11.2023) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUVATY_9lZIIA2V_lZdbhXqe1gWMhdXtt7-7hksG8lL_/Antrag_CDU_Kueppers_FDP_vom_22.11.2023.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP vom 24.11.2023) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYddmANB2eoHWX02tet0Ck73tuLxNw7NV9EcR55zlUem/Antrag_CDU_Kueppers_FDP_vom_24.11.2023.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Haushaltseinsparungen und Anträge zur Änderung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZad0NVHKf3cv2VT_a9LxSk3olbhNJE1poD5U9U5QyYUE/Antrag_INTAKT_Haushaltseinsparungen_und_Antraege_zur_Aenderung.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Antrag Lärmaktionsplan) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrApg7RWi7lWm7tC4OiJshYNuMjGLqzotS9RYm3u-1M/Gruppe_INTAKT_Antrag_Laermaktionsplan.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Antrag auf Gymnastikraum Hagen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfxy1PVcBwM_Tw2pjj_Bqp_caeZOuF3ECJgSQF2ZIDN_/Gruppe_INTAKT_Antrag_auf_Gymnastikraum_Hagen.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Toilette Bahnhofsvorplatz) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcPX8oaEdL80xh8UUmvNS89YMquYpftGu7Br5W6HQYHH/Gruppe_INTAKT_Toilette_Bahnhofsvorplatz.pdf
+- Anlage: Beschlussvorlage (Antrag_Gruppe SPD-Grüne-WiR-Boldt_ÄA Haushalt 2024_v2-final) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb0iN9m_x9D2KeH0FrsSXB6fm4H7JZtqUGTtt8_-SVJj/Antrag_Gruppe_SPD-Gruene-WiR-Boldt_AeA_Haushalt_2024_v2-final.pdf
+- Anlage: Beschlussvorlage (Gemeinsamer Antrag_ÄA Haushalt 2024_v2-final) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSWeIFse9LL120XwM6yvFcqIeNSkTZiCS7LgDczUEV8w/Gemeinsamer_Antrag_A--A_Haushalt_2024_v2-final.pdf
+- Anlage: Beschlussvorlage (Antrag Gruppe INTAKT Lärmaktionsplan) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUqzg57wl05k4TRzWl5uE9Xr2HYiKGgXHRZ3WXRfTyXq/Antrag_Gruppe_INTAKT_Laermaktionsplan.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20874 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20870 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
