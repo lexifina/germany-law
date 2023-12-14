@@ -1,0 +1,22 @@
+# Ergebnisse der Eignungsprüfung der von der Gemeindevertretung vorgeschlagenen möglichen Gewerbegebietsflächen zur Fortschreibung des regionalen Flächennutzungsplanes
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 687/GV/XIX
+- Art: Kenntnisnahme
+- Datum: 2023-12-14
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZS81cjEnRsYOypRPqzYGLA0
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3806
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Kenntnisnahme (Ergebnisse der Eignungsprüfung der von der Gemeindevertretung vorgeschlagenen möglichen Gewerbegebietsflächen zur Fortschreibung des regionalen Flächennutzungsplanes) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbbCi97lxWofpZSetxFkXpdkiymUisTialcVzEcCid95/Kenntnisnahme_687-GV-XIX.pdf
+- Anlage: Kenntnisnahme (Anlage_1_Bewertungsmatrix_A3_2023-11-13) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtT2Um5hI1eHFdR5VXQSKZNK2sGJUZBeo22vtNJhauS/Anlage_1_Bewertungsmatrix_A3_2023-11-13.pdf
+- Anlage: Kenntnisnahme (Anlage_2_Varianten_1-1_1-2_1-5) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV90FqNep_JL1aA-1039Cte5Yr34CAO7hvX1TKakUOVU/Anlage_2_Varianten_1-1_1-2_1-5.pdf
+- Anlage: Kenntnisnahme (Anlage_3_Varianten_1-3_1-4) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcjCkzYN1-pcpUYVguBWkXi4Y1Q3v8a6TEBxcGqCP9Yr/Anlage_3_Varianten_1-3_1-4.pdf
+- Anlage: Kenntnisnahme (Anlage_4_Variante_2) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6DdBT0M2BqioEWXSNY0f2ov0fvqUiRwTvnQdOI86_K/Anlage_4_Variante_2.pdf
+- Anlage: Kenntnisnahme (Anlage_5_Variante_3) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVENPO8fJI4jiQjQCvVkPo5pu9azstPrWZVfQIS2fDh4/Anlage_5_Variante_3.pdf
+- Anlage: Kenntnisnahme (Anlage_6_Variante_4) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSNj7rNaDZmYh1R0rJDDHsIzpLuesZsSqsYUAMfSw4GD/Anlage_6_Variante_4.pdf
+- Anlage: Kenntnisnahme (Anlage_7_Variante_5) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUdhz4m8YLfWPem386AziugH1i6MTAtFWpfIM527hytp/Anlage_7_Variante_5.pdf
+- Anlage: Kenntnisnahme (Variante_1-1 - 1-5 Umweltpruefung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQB_O990D2PkXb1n6C8S5ypay6-ptP0yEZtpJoNWafxG/Variante_1-1_-_1-5_Umweltpruefung.pdf
+- Anlage: Kenntnisnahme (Variante_2 - 3_Umweltpruefung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZesXTrsONdmzqnAwf5I8i54ET0qd0GR4xhRgouE2aygE/Variante_2_-_3_Umweltpruefung.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2252 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2260 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-17
