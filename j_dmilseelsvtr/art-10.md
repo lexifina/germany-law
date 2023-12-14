@@ -1,4 +1,4 @@
-# Artikel 10
+# Art 10
 
 (1)
 Der Militärbundesrabbiner ist zuständig für alle religiösen Angelegenheiten im Zusammenhang mit der jüdischen Militärseelsorge, insbesondere für

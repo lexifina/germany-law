@@ -1,4 +1,4 @@
-# Artikel 22
+# Art 22
 
 (1)
 Die Vertragsschließenden werden eine etwa in Zukunft zwischen ihnen entstehende Meinungsverschiedenheit über die Auslegung einer Bestimmung dieses Vertrages auf freundschaftliche Weise beseitigen. In gleicher Weise werden sie sich über etwa notwendig werdende ergänzende Regelungen verständigen.

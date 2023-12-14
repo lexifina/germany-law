@@ -1,4 +1,4 @@
-# Artikel 13
+# Art 13
 
 (1)
 Das Bundesministerium der Verteidigung betraut im Einvernehmen mit dem Zentralrat der Juden in Deutschland mit der Leitung des Militärrabbinats einen Dienststellenleiter bzw. eine Dienststellenleiterin (Militärrabbinatsleiter oder Militärrabbinatsleiterin). Hierzu kann der Militärbundesrabbiner in Abstimmung mit dem Zentralrat der Juden in Deutschland Vorschläge unterbreiten. Der Militärrabbinatsleiter bzw. die Militärrabbinatsleiterin muss dem jüdischen Glauben angehören.

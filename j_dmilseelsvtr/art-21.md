@@ -1,3 +1,3 @@
-# Artikel 21
+# Art 21
 
 Den Militärrabbinern und Militärrabbinerinnen werden die zur Unterstützung bei religiösen Handlungen und Verwaltungsaufgaben im Zusammenhang mit der jüdischen Militärseelsorge erforderlichen Hilfskräfte zur Verfügung gestellt. Sie werden als Tarifbeschäftigte eingestellt. Die Hilfskräfte müssen dem jüdischen Glauben angehören, soweit diese bei religiösen Handlungen unterstützen. Sie müssen ihre Befähigung für den Hilfsdienst in der jüdischen Militärseelsorge erforderlichenfalls nachweisen. Die Entscheidung über das Erfordernis eines Nachweises der Befähigung für den Hilfsdienst erfolgt im Einvernehmen mit dem Zentralrat der Juden in Deutschland.

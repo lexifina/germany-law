@@ -1,4 +1,4 @@
-# Artikel 16
+# Art 16
 
 (1)
 Die Militärrabbiner und Militärrabbinerinnen werden auf Vorschlag des Militärbundesrabbiners und mit Zustimmung des Bundesministeriums der Verteidigung zunächst für die Dauer von drei Monaten probeweise in den Militärseelsorgedienst eingestellt. Die Erprobungszeit kann mit Zustimmung des Zentralrats der Juden in Deutschland um bis zu weitere drei Monate verlängert werden.

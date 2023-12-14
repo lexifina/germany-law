@@ -1,4 +1,4 @@
-# Artikel 17
+# Art 17
 
 (1)
 Nach der Erprobungszeit werden die Militärrabbiner und Militärrabbinerinnen in das Beamtenverhältnis auf Zeit berufen. Soweit sie dauernd für leitende Aufgaben in der Militärseelsorge verwendet werden sollen, werden sie in das Beamtenverhältnis auf Lebenszeit berufen.

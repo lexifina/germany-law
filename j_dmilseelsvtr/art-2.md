@@ -1,4 +1,4 @@
-# Artikel 2
+# Art 2
 
 (1)
 Die jüdische Militärseelsorge als Teil der religiösen Betreuung wird im Auftrag und unter Aufsicht des Zentralrats der Juden in Deutschland ausgeübt.

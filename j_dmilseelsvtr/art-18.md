@@ -1,4 +1,4 @@
-# Artikel 18
+# Art 18
 
 (1)
 Vorschläge zur Ernennung, Beförderung oder Versetzung der Militärrabbiner und Militärrabbinerinnen bedürfen des Einverständnisses des Zentralrats der Juden in Deutschland. Im Fall eines Dissens wird eine einvernehmliche Lösung angestrebt.

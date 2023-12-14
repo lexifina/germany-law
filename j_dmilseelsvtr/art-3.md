@@ -1,4 +1,4 @@
-# Artikel 3
+# Art 3
 
 (1)
 Die Militärseelsorge wird von Militärrabbinern und Militärrabbinerinnen hauptamtlich ausgeübt.

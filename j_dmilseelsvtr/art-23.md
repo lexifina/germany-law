@@ -1,4 +1,4 @@
-# Artikel 23
+# Art 23
 
 (1)
 Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch ein Bundesgesetz.

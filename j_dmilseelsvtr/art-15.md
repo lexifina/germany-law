@@ -1,4 +1,4 @@
-# Artikel 15
+# Art 15
 
 (1)
 Die Militärrabbiner und Militärrabbinerinnen müssen

@@ -1,6 +1,5 @@
 # Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden
 
-- [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Bestimmungen

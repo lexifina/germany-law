@@ -1,4 +1,4 @@
-# Artikel 19
+# Art 19
 
 (1)
 In religiösen Angelegenheiten unterstehen die Militärrabbiner und Militärrabbinerinnen der Leitung und Dienstaufsicht des Militärbundesrabbiners (Artikel 10 Absatz 1 Nummer 2). Dem Zentralrat der Juden in Deutschland obliegt die religiöse Fachaufsicht.

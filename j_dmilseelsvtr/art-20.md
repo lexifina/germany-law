@@ -1,4 +1,4 @@
-# Artikel 20
+# Art 20
 
 Die Militärrabbiner und Militärrabbinerinnen sind unter Beachtung der rechtlichen Vorgaben regelmäßig zu entlassen
 1. bei Wegfall der Anerkennung der Smicha durch den Zentralrat der Juden in Deutschland,

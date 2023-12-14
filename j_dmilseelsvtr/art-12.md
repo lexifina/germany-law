@@ -1,4 +1,4 @@
-# Artikel 12
+# Art 12
 
 (1)
 Zur Wahrnehmung der zentralen Verwaltungsaufgaben der jüdischen Militärseelsorge wird in Berlin ein Militärrabbinat als Bundesamt eingerichtet, das dem Bundesministerium der Verteidigung unmittelbar nachgeordnet ist.

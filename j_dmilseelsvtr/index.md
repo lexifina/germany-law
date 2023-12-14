@@ -4,50 +4,50 @@
 
 ## Abschnitt I Grundsätze
 
-- [Artikel 1](artikel-1.md)
-- [Artikel 2](artikel-2.md)
-- [Artikel 3](artikel-3.md)
-- [Artikel 4](artikel-4.md)
-- [Artikel 5](artikel-5.md)
+- [Art 1](art-1.md)
+- [Art 2](art-2.md)
+- [Art 3](art-3.md)
+- [Art 4](art-4.md)
+- [Art 5](art-5.md)
 
 ## Abschnitt II Einbindung der jüdischen Soldaten und Soldatinnen in jüdische Gemeinden vor Ort
 
-- [Artikel 6](artikel-6.md)
-- [Artikel 7](artikel-7.md)
+- [Art 6](art-6.md)
+- [Art 7](art-7.md)
 
 ## Abschnitt III Militärbundesrabbiner
 
-- [Artikel 8](artikel-8.md)
-- [Artikel 9](artikel-9.md)
-- [Artikel 10](artikel-10.md)
-- [Artikel 11](artikel-11.md)
+- [Art 8](art-8.md)
+- [Art 9](art-9.md)
+- [Art 10](art-10.md)
+- [Art 11](art-11.md)
 
 ## Abschnitt IV Militärrabbinat
 
-- [Artikel 12](artikel-12.md)
-- [Artikel 13](artikel-13.md)
+- [Art 12](art-12.md)
+- [Art 13](art-13.md)
 
 ## Abschnitt V Militärrabbiner und Militärrabbinerinnen
 
-- [Artikel 14](artikel-14.md)
-- [Artikel 15](artikel-15.md)
-- [Artikel 16](artikel-16.md)
-- [Artikel 17](artikel-17.md)
-- [Artikel 18](artikel-18.md)
-- [Artikel 19](artikel-19.md)
-- [Artikel 20](artikel-20.md)
+- [Art 14](art-14.md)
+- [Art 15](art-15.md)
+- [Art 16](art-16.md)
+- [Art 17](art-17.md)
+- [Art 18](art-18.md)
+- [Art 19](art-19.md)
+- [Art 20](art-20.md)
 
 ## Abschnitt VI Hilfskräfte
 
-- [Artikel 21](artikel-21.md)
+- [Art 21](art-21.md)
 
 ## Abschnitt VII Freundschafts- und Paritätsklausel
 
-- [Artikel 22](artikel-22.md)
+- [Art 22](art-22.md)
 
 ## Abschnitt VIII Zustimmung des Bundestages, Inkrafttreten
 
-- [Artikel 23](artikel-23.md)
+- [Art 23](art-23.md)
 - [Schlussformel](schlussformel.md)
 - [(XXXX) Schlussprotokoll](xxxx.md)
 - [Schlussformel](schlussformel-2.md)

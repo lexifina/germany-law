@@ -1,4 +1,4 @@
-# Artikel 9
+# Art 9
 
 (1)
 Der Militärbundesrabbiner wird vom Zentralrat der Juden in Deutschland bestimmt. Der Zentralrat der Juden in Deutschland versichert sich zuvor bei der Bundesregierung, dass vom staatlichen Standpunkt aus gegen die für das Amt des Militärbundesrabbiners vorgesehene Person keine schwerwiegenden Einwendungen erhoben werden.
