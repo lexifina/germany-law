@@ -1,0 +1,84 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-12-14T09:00:00+01:00
+- Ende: 2023-12-14T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25128
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25128
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507216.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507216.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507216.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 07.09.2023 (SI-RAT/006/2023) - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Corona-Masken, Corona-Test, Corona-Desinfektionsmittel, Corona-Hygieneartikel, etc. und deren Vernichtung - schriftlich beantwortet
+- TOP 3.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Erinnern an Kriege oder militärische Auseinandersetzungen durch das Hissen von Flaggen vor dem Rathaus Düsseldorf - schriftlich beantwortet
+- TOP 3.3: Anfrage des Ratsherrn Lemmer: Regelung des Parkens an E-Ladesäulen in der Nacht zwischen 22.00 und 07.00 Uhr - schriftlich beantwortet
+- TOP 3.4: Anfrage des Ratsherrn Lemmer: Werbung "Düsseldorf macht Schule - Bildung ist frei__aber nie umsonst - Darum fließt jeder zweite investierte Euro in unsere Schulen." - schriftlich beantwortet
+- TOP 3.5: Anfrage der Ratsfrau Krüger: Luftballons und deren Folgen für Tiere und Umwelt - schriftlich beantwortet
+- TOP 3.6: Anfrage der Ratsfrau Krüger: häusliche Gewalt, Frauen- und Männerhäuser - schriftlich beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: stark angespannte Verkehrssituation am 09.12.2023 in der Düsseldorfer Innenstadt - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 10: Etatberatung 2024 - Teil 1 - Haushaltsreden -
+- TOP 11: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2022 - Feststellung des Jahresabschlusses und Entlastung des Oberbürgermeisters - - mehrheitlich beschlossen
+- TOP 12: Beschluss über das Jahresergebnis 2022 - mehrheitlich beschlossen
+- TOP 13: Abschluss einer öffentlich-rechtlichen Vereinbarung über die Durchführung der Beihilfesachbearbeitung - einstimmig beschlossen
+- TOP 14: Gründung einer städtischen Digitalisierungsgesellschaft - mehrheitlich beschlossen
+- TOP 15: Weiteres Vorgehen mit strategisch bedeutsamen Flächen - insbesondere Glasmacherviertel - einstimmig beschlossen
+- TOP 16: Umsetzung der Wohnungsbauoffensive Düsseldorf 2030 und des Baulandmodells - Bericht und erste Meilensteine zur Umsetzung - mehrheitlich beschlossen
+- TOP 17: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf: Richtliniennovelle 2023 - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage AUS/048/2023 - mehrheitlich beschlossen
+- TOP 18: Neufassung der Vergnügungssteuersatzung der Landeshauptstadt Düsseldorf zum 01.01.2024 - mehrheitlich beschlossen
+- TOP 19: Neufassung der Hundesteuersatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 19.1: Ergänzungsantrag der Ratsgruppe Tierschutz/FREIE WÄHLER zur Vorlage HFA/046/2023 - mehrheitlich abgelehnt
+- TOP 20: Aktualisierung von beschlossenen Maßnahmen im Bereich Tageseinrichtungen für Kinder - einstimmig beschlossen
+- TOP 21: Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Aquazoo Löbbecke Museum - Sanierung Pflegebereich - einstimmig beschlossen
+- TOP 22: Worringer Straße 136-140 - Erweiterungsumbau des Proben- und Produktionszentrums Central als Spielstätte für das Junge Schauspiel und die Bürgerbühne/Stadt:Kollektiv des Düsseldorfer Schauspielhauses - mehrheitlich beschlossen
+- TOP 23: Ende des Projektes "Zentrales Aktendepot (ZAD)" / Einrichtung von fünf befristeten Stellen im Stadtarchiv - einstimmig beschlossen
+- TOP 24: Ausweitung der Öffnungszeiten der Stadtteilbücherei Bilk - einstimmig beschlossen
+- TOP 25: Bahnsteiglängen und Prioritäten beim barrierefreien Haltestellenausbau im Niederflurbahnnetz - einstimmig beschlossen
+- TOP 26: Rheinbrücke Josef-Kardinal-Frings-Brücke im Zuge der B1 – Übergabe der Straßenbaulast aus Anlass der Neufestsetzung der Ortsdurchfahrtsgrenze - mehrheitlich beschlossen
+- TOP 27: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2024 - mehrheitlich beschlossen
+- TOP 28: Hildener Straße, Umbau zwischen Betriebshof Rheinbahn und Am Buchholzer Busch - mehrheitlich beschlossen
+- TOP 29: Gasbeleuchtung – Neue Leitlinien zur Fortschreibung Masterplan „Energieeffiziente und historische Straßenbeleuchtung“ - mehrheitlich beschlossen
+- TOP 30: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme „Umgestaltung Schadowstraße, Oberflächenherstellung“ - mehrheitlich beschlossen
+- TOP 31: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsgangs (G9) am Humboldt-Gymnasium - einstimmig beschlossen
+- TOP 32: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau Städtisches Gymnasium Heinzelmännchenweg als vierzügiges Gymnasium mit Dreifeldhalle am Standort Grafental, Planstraße 03867, 40235 Düsseldorf" - einstimmig beschlossen
+- TOP 33: Änderung der Honorarordnung der Volkshochschule Düsseldorf - einstimmig beschlossen
+- TOP 33.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage SCHUA/030/2023 - mehrheitlich abgelehnt
+- TOP 34: Handlungsschwerpunkte bei schulischen Sanierungsprojekten neu bewerten – Masterplan Schulen 2.0 - einstimmig beschlossen
+- TOP 35: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses gemäß Ziffer 2.13 GA Bau in Verbindung mit der ZO "Neubau am Wim-Wenders-Gymnasium, Schmiedestr. 25, Erweiterung und Umbau am Max-Planck-Gymnasium, Koetschaustr. 36 und GGS Steinkaul 27" - einstimmig beschlossen
+- TOP 36: Umbesetzung der Mitgliederversammlung der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e. V." - mehrheitlich beschlossen
+- TOP 37: Betrieb der Realschule Borbecker Straße als gebundene Ganztagsschule - einstimmig beschlossen
+- TOP 38: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2024 - Beschluss - - einstimmig beschlossen
+- TOP 39: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2023-2027 - Beschluss - - mehrheitlich beschlossen
+- TOP 40: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum 01.01.2024 bis 31.12.2024 - Beschluss - - mehrheitlich beschlossen
+- TOP 41: Jahresabschluss zum 31.12.2022 und Lagebericht für das Wirtschaftsjahr 2022 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf (SEBD) - Beschluss - - einstimmig beschlossen
+- TOP 42: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 42.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/277/2023 - zurückgezogen
+- TOP 43: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 44: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 45: Aufsichtsrat der Klärschlammverwertung Buchenhofen GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 46: Entsendung von Mitgliedern in das Kuratorium der Wim-Wenders-Stiftung - mehrheitlich beschlossen
+- TOP 47: Auflösung des Aufsichtsrates einer mittelbaren Beteiligung - zur Kenntnis genommen
+- TOP 48: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 49: Satzungsänderung der Johanna Ey Foundation - einstimmig beschlossen
+- TOP 50: Bestellung eines Prüfers und Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 51: Etatberatung 2024 - Teil 2
+- TOP 51.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2024 mit Anlagen - mehrheitlich beschlossen
+- TOP 51.2: Veränderungsverzeichnis zum Haushaltsplan-Entwurf 2024/2025 ff. - mehrheitlich beschlossen
+- TOP 51.3: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für die Haushaltsjahre 2024 und 2025 mit Anlagen - zur Kenntnis genommen
+- TOP 51.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für die Haushaltsjahre 2024/2025 - mehrheitlich beschlossen
+- TOP 52: Polizeibeirat -Ersatzwahl- - einstimmig beschlossen
