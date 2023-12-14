@@ -1,0 +1,96 @@
+# 21. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2023-12-14T16:30:00+01:00
+- Ende: 2023-12-14T20:18:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6704
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6704
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=413874
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss für Schule (B) - gewählt
+- TOP 6.2: Wahl einer Bürgerdeputierten für den Ausschuss für Schule (B) - gewählt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-18 hier: - Zwischenbericht (Teil A) - erledigt
+- TOP 7.1: Bündnis für Wohnen in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Park am Altglienicker Straßenbahndepot - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Rechtsabbiegerampel Glienicker Weg / Adlergestell - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Sicherheit hat Vorfahrt – Schulwegsicherung an der Schule an der Wuhlheide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Adlergestell und Michael-Brückner-Straße zwischen Bürgeramt und S-Bahnhof Johannisthal als Sperrzone für Miet-E-Scooter ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Fußgängerschutzweg Segelfliegerdamm Ecke Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Schilder im Landschaftspark Johannisthal / Adlershof instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Selbstverpflichtung: Ein Baum für einen Baum. Baumdefizit abbauen und Grünerhalt zur Voraussetzung von bezirklichen Fällungen machen - überwiesen
+- TOP 10.8: Verkehrssicherheit auf der Forsthausallee erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Tempo 30 auf dem Adlergestell in Schmöckwitz ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Baumpatenschaften stärker fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Sanierung der Godbersenstraße in Schmöckwitz - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Tempo-30-Bereich auf der Treskowallee deutlicher kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Einrichtung einer Fußgängerampel an der Kreuzung Michael-Brückner-Straße Ecke Britzer Straße / Fennstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Bau einer Radverkehrsanlage in der Rummelsburger Landstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Fußgängerüberweg Kosmosviertel Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Abfallbehälter Ecke Genovevastraße / Däumlingsweg einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Straßenbeschilderung in der Altstadt Köpenick - überwiesen
+- TOP 10.18: Errichtung von Gedenkstelen zur Berliner Kolonialausstellung im Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Schild für den Platz "An der Kirche" in Baumschulenweg - überwiesen
+- TOP 10.20: Einrichtung einer Bedarfsampel an der Kreuzung Baumschulenstraße Ecke Glanzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Ehrenhain auf dem Friedhof Adlershof würdig gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Öffentliche und behindertengerechte Toilette in Müggelheim nahe Dorfanger errichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Querungshilfe auf dem Müggelheimer Damm / Ecke Ludwigshöheweg errichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Straßenschilder in Bohnsdorf-West ergänzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Bürgerwillen respektieren: Keine Großplakate auf dem Müggelheimer Dorfanger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.26: Verkehr(t) beruhigt in Adlershof?! - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Geh- und Fahrtauglichkeit der Dörpfeldstraße gegenüber dem Fritz-Lesch-Sportplatz - überwiesen
+- TOP 10.28: Drogen- und Suchtbericht für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.29: Ringlinie zwischen dem Krankenhaus Köpenick und Wendenschloß im Nahverkehrsplan 2024 - 2028 berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Bewerbung des queeren Jugendangebots im JuKuz - überwiesen
+- TOP 10.31: Inklusionssport fördern - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Energetische Sanierung öffentlicher Gebäude durch Abwärmenutzung - ohne Änderungen in der BVV beschlossen
+- TOP 10.33: Pro Kind ein Baum - mit Änderungen in der BVV beschlossen
+- TOP 10.34: Tierschutzpreis - auch in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.35: Bezirklicher Aktionsplan für queeres Leben und gegen Queerfeindlichkeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.36: Let' s do it - Teilnahme am Digital Clean Up Day 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 10.37: Aushang zum Berliner Register in allen Dienstgebäuden des Bezirks mit Publikumsverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Benennung der 31. Grundschule, Keplerstraße 10, 12459 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Behindertenparkplätze Ärztehaus Grünauer Straße 44 - überwiesen
+- TOP 12.2: Provisorischen Radweg an Baustelle S-Bhf Schöneweide entfernen - überwiesen
+- TOP 12.3: Bedarfsermittlung von Schulplätzen für autistische Kinder - überwiesen
+- TOP 12.4: Linksabbiegerampel an der Kreuzung Köpenicker Landstraße, Ecke Dammweg einrichten - überwiesen
+- TOP 12.5: Öffentlichkeitsarbeit im Straßen- und Grünflächenamt stärken - überwiesen
+- TOP 12.6: Park am ehemaligen Altglienicker Straßenbahndepot - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Einrichtung einer Busanbindung für die Bergseite in Müggelheim - überwiesen
+- TOP 12.8: Inklusive Spielplätze in Treptow-Köpenick - überwiesen
+- TOP 12.9: Autistische Kinder in Treptow-Köpenick bedarfsgerecht beschulen - überwiesen
+- TOP 12.10: Versorgung mit Getränken und Speisen im Rathaus Treptow - überwiesen
+- TOP 12.11: Leistungsfähigkeit des künftigen Autobahnanschlusses Am Treptower Park ermitteln - überwiesen
+- TOP 12.12: Kronkorkenspender für Treptow-Köpenick - überwiesen
+- TOP 12.13: Detailliertere Aufschlüsselung der Daten zum Drogenmissbrauch - überwiesen
+- TOP 12.14: Konzept der Öffentlichkeitsarbeit zur Bekanntmachung kommunaler Kulturveranstaltungs- sowie Gedenkkulturorte und ihrer Angebote verbessern - überwiesen
+- TOP 12.15: Machbarkeitsstudie für Tiefgarage am Bahnhof Plänterwald - überwiesen
+- TOP 12.16: Rechtsabbiegepfeil am Adlergestell - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Umbenennung der Wagner-Régeny-Allee - überwiesen
+- TOP 12.18: Stationäre psychiatrische Versorgung sichern: Psychiatrie des Krankenhauses Hedwigshöhe sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Wahrung des städtebaulichen Erbes und der architektonischen Ästhetik - überwiesen
+- TOP 12.20: Kreuzung Schönefelder Chaussee Ecke Dankmarsteig sicherer gestalten - überwiesen
+- TOP 12.21: Sichere Rad- und Gehwege - auch im Winter - überwiesen
+- TOP 12.22: Wickelmöglichkeiten auf bezirklichen Spielplätzen - überwiesen
+- TOP 12.23: Linke Sammel- und Petz-Portale abwickeln: Keine Kooperation mit dem Berliner Register - in der BVV abgelehnt
+- TOP 12.24: Künstliche Intelligenz zur Unterstützung für das Bezirksamt - überwiesen
+- TOP 12.25: Zukunft jetzt: Holen wir uns den "Zukunftstag" an die Schulen - überwiesen
+- TOP 12.26: Verantwortung leben: Erste Hilfe am Tier - überwiesen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Musikschulstandort Mörikestraße – Pfusch am Bau? - beantwortet
