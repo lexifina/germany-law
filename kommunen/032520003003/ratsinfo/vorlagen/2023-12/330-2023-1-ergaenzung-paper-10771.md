@@ -1,0 +1,21 @@
+# Änderung der Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Bad Pyrmont (Friedhofsgebührensatzung) - Vorstellung der Gebührenkalkulation - Zustimmung zur Änderung der Friedhofsgebührensatzung
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 330/2023 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-12-14
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQDhgU1FWff9ywxBykm_HpI
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10771
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Änderung der Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Bad Pyrmont (Friedhofsgebührensatzung)
+- Vorstellung der Gebührenkalkulation
+- Zustimmung zur Änderung der Friedhofsgebührensatzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS6LCBc3k4Oa7OBDCcWPNdarjKtlWb8YZYHso76P3cMD/Beschlussvorlage_330-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Bericht Friedhofsgebührenkalkulation) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTGczUHPlK94CskiHQgP-5VnYO2uUF8Ptm6Q_xk4i3sb/Bericht_Friedhofsgebuehrenkalkulation.pdf
+- Anlage: Beschlussvorlage (Anlage 2 zu Vorlage 330 1. Ergänzung.. - Gruppe Antrag Friedhof_20231108) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZo532_sMK2f9ONXikj5RiSZZFvf1Kxmwf2H0bVgHmYH/Anlage_2_zu_Vorlage_330_1._Ergaenzung.._-_Gruppe_Antrag_Friedhof_20231108.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20858 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-48
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20884 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20886 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-12
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20859 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-48
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20887 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-37
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20870 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
