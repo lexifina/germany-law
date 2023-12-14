@@ -1,0 +1,86 @@
+# Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-12-14T16:01:00+01:00
+- Ende: 2023-12-14T16:27:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21239
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/21239
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00323154.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00323936.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Festlegung der Geschäftskreise von Beigeordneten (nur Rat)
+- TOP 1.4: Bekanntgabe des Auftragsnehmers für die Planung des Pina Bausch Zentrums (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Auswirkungen des Urteils des Bundesverfassungsgerichts auf den Kommunalhaushalt 2023 und 2024
+- TOP 2.1.1: Auswirkungen des Urteils des Bundesverfassungsgerichts auf den Kommunalhaushalt 2023 und 2024
+- TOP 2.2: Fluktuation WSW-Fahrpersonal
+- TOP 2.2.1: Fluktuation WSW-Personal
+- TOP 2.3: Nutzfahrzeugbestand in Wuppertal
+- TOP 2.3.1: Nutzfahrzeugbestand in Wuppertal vom 21.11.2023
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Mehr Sauberkeit durch Mehrweg-Förderung
+- TOP 4.2: Terminierung Weiterqualifizierungskonferenz - ungeändert beschlossen
+- TOP 4.3: Anbahnung einer Projektpartnerschaft mit einer ukrainischen Stadt - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution zu Park&Ride-Parkplätzen am Bahnhof in W.-Ronsdorf - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Verwaltungsgebührensatzung 2024 - ungeändert beschlossen
+- TOP 6.2: Gebührensatzung zur Abfallwirtschaft 2024 - ungeändert beschlossen
+- TOP 6.3: 3. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Änderung der Trinkwassergebührensatzung, Trinkwasser 2024 - ungeändert beschlossen
+- TOP 6.5: Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: 18. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.7: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2024 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Projekt zur Entwicklung eines kommunalen Nachhaltigkeitshaushaltes - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2023 bis 31.12.2023 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2024 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.3: Neufassung des Gesellschaftsvertrages der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 8.4: Sicherung der Wirtschaftlichen Existenz der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2022 - Entlastung des Aufsichtsrates der BSW Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan 2024 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss und Lagebericht 2021 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.8: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2021 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1066 - Engineering Park Wuppertal (GOH-Kaserne) - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1286 - Elias-Eller-Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Felsensicherung am Sportplatz Höfen und Erneuerung des Kunstrasenplatzes - ungeändert beschlossen
+- TOP 10.2: Kostenneufestsetzung für laufende Schulprojekte - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gebärdendolmetscher:in für Gremien/barrierearmer Gremiendienst - Prüfung zu Gebärdensprachavataren - Entgegennahme ohne Beschluss
+- TOP 11.2: Verlängerung der Anmietung von Räumlichkeiten in der Vogelsangstr. 106 (ehem. Landesfrauenklinik) zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 11.3: Wirtschaftsplan 2024 Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.4: Annahme der Schenkung eines Kunstwerks - ungeändert beschlossen
+- TOP 11.5: Kommunale Wärmeplanung - zur Beratung und Entscheidung verwiesen
+- TOP 11.5.1: Änderungsantrag zu VO/1209/23 - Kommunale Wärmeplanung - zur Beratung und Entscheidung verwiesen
+- TOP 11.6: Beschlussfassung Nahverkehrsplan Stadt Wuppertal - Teil 2 - zur Beratung und Entscheidung verwiesen
+- TOP 11.6.1: Änderungsantrag TOP 11.6, Nahverkehrsplan Teil 2, VO/1178/23 - zur Beratung und Entscheidung verwiesen
+- TOP 11.6.2: Änderungsantrag zu VO/1178/23, Beschlussfassung Nahverkehrsplan Stadt Wuppertal - Teil 2 - zur Beratung und Entscheidung verwiesen
+- TOP 11.7: Verwendung des Bürger*innenbudgets 2023 - ungeändert beschlossen
+- TOP 11.8: Überleitung und Anpassung der bestehenden Integrierten Städtebaulichen Entwicklungskonzepte (ISEKs) hinsichtlich der neuen Städtebauförderrichtlinie NRW 2023 - geändert beschlossen
+- TOP 11.9: Katastrophenschutzbedarfsplan 2023 - 2028 für die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.10: Brandschutzbedarfsplan 2023-2028; hier: vierte Wache - Funktionsbesetzungskonzepte eins und zwei - zur Beratung und Entscheidung verwiesen
+- TOP 11.10.1: Brandschutzbedarfsplan 2023 - 2028 für die Stadt Wuppertal - zur Beratung und Entscheidung verwiesen
+- TOP 11.11: Quartalsbericht III/2023 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.12: Gleichstellungsplan der Stadtverwaltung Wuppertal 2023-2026 - geändert beschlossen
+- TOP 11.13: Durchführung von vorbereitenden Untersuchungen nach § 141 Baugesetzbuch (BauGB) im Stadtbezirk Vohwinkel (Zentrum und Kernareal Tesche der BUGA 2031) - ungeändert beschlossen
+- TOP 11.14: Veranstaltungen in den Innenstadtbereichen Barmen und Elberfeld - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 07./08. Mai 2024 in Neuss - Benennung der Delegierten der Stadt Wuppertal
+- TOP 12.2: Bestellung der/des Vorsitzenden des Verwaltungsrates der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 12.3: Bestellung der Stellvertreterin des Vertreters der Stadt Wuppertal in der Verbandsversammlung des Verkehrsverbundes Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.5: Teilnahme am europäischen Netzwerk: Europa fängt in der Gemeinde an - zurückgestellt
+- TOP 12.6: Besetzung des Beirats Bürgerbeteiligung - ungeändert beschlossen
