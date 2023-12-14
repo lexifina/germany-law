@@ -1,0 +1,25 @@
+# Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2024 - Anträge zum Haushalt -
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 371/2023 3. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-12-14
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTo04EdegPpsMgVPxDanq7s
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10823
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Haushaltsplan der Stadt Bad Pyrmont für das Haushaltsjahr 2024
+- Anträge zum Haushalt -) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaQKZ7R_eOfZTHM43TzpCGiOGeTosfp2ixiQj9TI7i3u/Beschlussvorlage_371-2023_3._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP vom 22.11.2023) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtX_0A-OHx7HXGptKZfWTpy_E0LwYVrlcdjgbXA7ysL/Antrag_CDU_Kueppers_FDP_vom_22.11.2023.pdf
+- Anlage: Beschlussvorlage (Antrag CDU Küppers FDP vom 24.11.2023) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVkZCOl3rFrWlGQL5CcHSdn3RsJhwuG8o_KyDwLAAQjD/Antrag_CDU_Kueppers_FDP_vom_24.11.2023.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Haushaltseinsparungen und Anträge zur Änderung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeq7qoyjBUHA4rmb3_JHwCkeQSJuWkWm5WRdfYGgZg5o/Antrag_INTAKT_Haushaltseinsparungen_und_Antraege_zur_Aenderung.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Antrag Lärmaktionsplan) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaz8FtbABQ_DG-_WbEWwQkomj8PshibnufT4b7a_GPex/Gruppe_INTAKT_Antrag_Laermaktionsplan.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Antrag auf Gymnastikraum Hagen) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjKlvlXhGleocCJowOLGYy7CqqgziqH8Yi_zTUf3a4p/Gruppe_INTAKT_Antrag_auf_Gymnastikraum_Hagen.pdf
+- Anlage: Beschlussvorlage (Gruppe INTAKT Toilette Bahnhofsvorplatz) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZRAlk5x7ARvD4GTCjzv-FyR_KMhPeo8Kk_KqnQN9h3/Gruppe_INTAKT_Toilette_Bahnhofsvorplatz.pdf
+- Anlage: Beschlussvorlage (Antrag_Gruppe SPD-Grüne-WiR-Boldt_ÄA Haushalt 2024_v2-final) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYhMIOggcUMpCUpAYDLovgB5iM5h46B8UDLDOjHoetaO/Antrag_Gruppe_SPD-Gruene-WiR-Boldt_AeA_Haushalt_2024_v2-final.pdf
+- Anlage: Beschlussvorlage (Gemeinsamer Antrag_ÄA Haushalt 2024_v2-final) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMD-D-BHJuwuywMPrvZiOXZ7WXnGU45EEPJhnFomET4/Gemeinsamer_Antrag_A--A_Haushalt_2024_v2-final.pdf
+- Anlage: Beschlussvorlage (Antrag Gruppe INTAKT Lärmaktionsplan) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRj-chPJfTu7ZwkxpJu_pE9hwAkSK5i5vexR1dU1AGiV/Antrag_Gruppe_INTAKT_Laermaktionsplan.pdf
+- Anlage: Beschlussvorlage (Antrag Gruppe INTAKT GHS Herderschule) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa2kEM_9es4Il5jzD47MOEljr6XRNwCuXDtzsIoSen8l/Antrag_Gruppe_INTAKT_GHS_Herderschule.pdf
+- Anlage: Beschlussvorlage (Antrag INTAKT Wählergemeinschaft zentrale Vergabestelle) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSU1DK8y2KmSK5cqUJNkQJS49_ATNHJDuanpRZ1boJvL/Antrag_INTAKT_Waehlergemeinschaft_zentrale_Vergabestelle.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20874 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20870 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
