@@ -1,0 +1,69 @@
+# 57. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2023-12-14T16:00:00+01:00
+- Ende: 2023-12-14T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/12485
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/12485
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00724348.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden. - Zustimmung
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 3: Bericht des Oberbürgermeisters - erledigt
+- TOP 4: Wahl des Gemeindewahlausschusses für die Kommunalwahlen am 9. Juni 2024 - gewählt
+- TOP 5: Besetzung des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - Zustimmung
+- TOP 6: Vertretung der Landeshauptstadt Dresden in der Verbandsversammlung des Zweckverbandes für Tierkörperbeseitigung Sachsen - Zustimmung
+- TOP 7: Umbesetzung im Ausschuss für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 8: Umbesetzung im Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Zustimmung
+- TOP 9: Umbesetzung im Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 11: Erwerb von Flurstücken in der Gemarkung Dobritz - Zustimmung mit Ergänzung
+- TOP 12: Bewerbung der Landeshauptstadt Dresden zur Durchführung der Bundesgartenschau 2033 (BUGA 2033) - punktweise Zustimmung mit Änderung
+- TOP 13: Erwerb von Wohnbeständen und Grundstücken durch die Landeshauptstadt Dresden und die WiD Wohnen in Dresden GmbH & Co. KG - Zustimmung mit Ergänzung
+- TOP 14: Konzept der SachsenEnergie AG zur schrittweisen Dekarbonisierung mit Fokus auf das Dresdner Fernwärmesystem - Zustimmung mit Änderung
+- TOP 15: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Oberschulen, Gymnasien, Gemeinschaftsschulen, Förderschulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - Vertagung nach 22 Uhr
+- TOP 16: Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben der Kinder- und Jugendhilfe im Bereich der Kindertagesbetreuung – Betriebskosten freier Träger 2023 und Ausgleich des nicht gedeckten Jahresverlustes 2022 des EB Kita - Zustimmung
+- TOP 17: Veränderungen der Planwerte von Auszahlungen und Einzahlungen für investive Maßnahmen des Finanzhaushaltes des Amtes für Schulen - Zustimmung
+- TOP 18: Flächennutzungsplan-Änderung Nr. 17, Stadtbezirk Prohlis, Teilbereich Michaelisstraße/Nickerner Weg - Vertagung nach 22 Uhr
+- TOP 19: Herrichtung des Objektes Alexander-Herzen-Straße 64 für eine Zwischennutzung als Unterbringungsobjekt für asylsuchende Menschen - Vertagung nach 22 Uhr
+- TOP 20: Umstellung des SAP-Systems auf S/4 HANA in der Landeshauptstadt Dresden und Anpassung der derzeit eingesetzten auf SAP basierenden zentralen Komponenten (Kommunalmaster Finanzen von Komm.ONE, Rechnungsworkflow von AFI Solutions, Suite4KA von Nagarro - Zustimmung
+- TOP 21: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2024 - Zustimmung
+- TOP 22: Bestimmung eines Wirtschaftsprüfungsunternehmens zur Prüfung des Jahresabschlusses 2023 sowie der Folgeabschlüsse 2024 bis 2027 des Eigenbetriebes Heinrich-Schütz-Konservatorium - Zustimmung
+- TOP 23: Berufung und Zusammensetzung des Beirates für Erinnerungskulturen - Vertagung nach 22 Uhr
+- TOP 24: Statusfeststellungsverfahren der Honorarlehrkräfte am Eigenbetrieb Heinrich-Schütz-Konservatorium - Vertagung nach 22 Uhr
+- TOP 25: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2023 und 2024 des Eigen-betriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 26: Satzung der Landeshauptstadt Dresden über die Erhebung von Verwaltungskosten in weisungs-freien Angelegenheiten - Zustimmung
+- TOP 27: Vertagungen aus der Sitzung vom 16./17.11.2023 - Vertagung nach 22 Uhr
+- TOP 27.1: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung nach 22 Uhr
+- TOP 27.2: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Vertagung nach 22 Uhr
+- TOP 27.3: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Vertagung nach 22 Uhr
+- TOP 27.4: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Vertagung nach 22 Uhr
+- TOP 27.5: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Vertagung nach 22 Uhr
+- TOP 27.6: Effektives Verwaltungsmanagement im Kontext Asyl und Migration - Vertagung nach 22 Uhr
+- TOP 27.7: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Vertagung nach 22 Uhr
+- TOP 27.8: Digitale Stadtpolitik für alle zugänglich machen – Die ganze Stadt im Blick - Vertagung nach 22 Uhr
+- TOP 27.9: Flüchtlingssozialarbeit effizienter gestalten - Vertagung nach 22 Uhr
+- TOP 27.10: Vermüllung von Dresdens Grünflächen stoppen - Maßnahmen zur Müllvermeidung entwickeln - Vertagung nach 22 Uhr
+- TOP 27.11: Transparenz für die städtischen Finanzen - Nachtragshaushalt erarbeiten - Vertagung nach 22 Uhr
+- TOP 27.12: E-Petition „Vonovia aufkaufen - Für mehr städtisches Wohneigentum" - Ersetzung
+- TOP 27.13: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Vertagung nach 22 Uhr
+- TOP 27.14: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Vertagung durch Einreicher
+- TOP 27.15: Gewährleistung der Aufkommensneutralität der Grundsteuergesamteinnahmen in Umsetzung der Grundsteuerreform - Vertagung nach 22 Uhr
+- TOP 27.16: Zusammenhalt und Fortschritt brauchen längeres gemeinsames Lernen: Einrichtung weiterer Gemeinschaftsschulen in Dresden - Vertagung nach 22 Uhr
+- TOP 28: Strategie Erfolgsfußball – Frauenfußball in Dresden voranbringen - Vertagung
+- TOP 29: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 30: Zukunft beginnt jetzt und braucht Vision: Erarbeitung einer „Strategie Leistungssport in Dresden 2030“ - Vertagung nach 22 Uhr
+- TOP 31: Luftbad Dölzschen erhalten. Finanzierung sichern. - Vertagung nach 22 Uhr
+- TOP 32: Verkehrsversuch Radwege auf dem Blauen Wunder - Vertagung nach 22 Uhr
+- TOP 33: Großansiedlung zum Erfolg für alle machen: Gewerbeflächen mit Nachbargemeinden entwickeln, Verdrängung lokaler Gewerbe vermeiden, Unterstützungsprogramm für ansässige Wirtschaft entwickeln - Vertagung nach 22 Uhr
+- TOP 34: TSMC-Ansiedelung in Klotzsche: Verdrängung des Mittelstands vermeiden - Vertagung nach 22 Uhr
+- TOP 35: Überprüfung der Partyveranstaltungen des Oberbürgermeisters durch das Rechnungsprüfungsamt - Vertagung nach 22 Uhr
+- TOP 36: Rechnungsprüfung Veranstaltung „nachtschicht_18“ im Rathaus - Vertagung nach 22 Uhr
+- TOP 40: Ergebnisse Verkehrsprognose Dresden und Region 2035 und Entwicklung des Pendlerverkehrs - zur Kenntnis genommen
+- TOP 41: Ersatzneubau Schwimmhalle Klotzsche - zur Kenntnis genommen
