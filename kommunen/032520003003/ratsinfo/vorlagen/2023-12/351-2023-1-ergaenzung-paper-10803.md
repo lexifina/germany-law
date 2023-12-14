@@ -1,0 +1,22 @@
+# Benutzungs- und Gebührenordnung für die Gemeinschaftseinrichtungen in den Ortsteilen inkl. STADT:RAUM
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 351/2023 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2023-12-14
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRZ5OEoDFDK3GAtVK9opeFE
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10803
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Benutzungs- und Gebührenordnung für die Gemeinschaftseinrichtungen in den Ortsteilen inkl. STADT:RAUM) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZefoCTACrEHKKPERPHmBYnXTdmZGmN3mE5avD7oq1Z-e/Beschlussvorlage_351-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 Benutzungsordnung Baarsen-01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWyoL993tt8bbwAmeSGwmpaAs4nUX6zqyuPLL-IS75wP/Anlage_1_Benutzungsordnung_Baarsen-01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 2 Benutzungsordnung Eichenborn-01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcAK_hGRWQXQW8xLPojnObcoSeTtg3KKl5CBCsYTpPD8/Anlage_2_Benutzungsordnung_Eichenborn-01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 3 Benutzungsordnung Großenberg 01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWvWqkMUjC16YBYnShkeaqm2gDcTqTbK0u0FMiwPpgc/Anlage_3_Benutzungsordnung_Grossenberg_01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 4 Benutzungsordnung Kleinenberg 01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUfPik-lDWmp46LiviFeLdW0WlhZniEGiKwBFE8URJFO/Anlage_4_Benutzungsordnung_Kleinenberg_01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 5 Benutzungsordnung Löwensen 01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdDSPFgsU-qwwnn2_8WPGOtFjP2jWl92fpKPaNvX9cvT/Anlage_5_Benutzungsordnung_Loewensen_01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 6 Benutzungsordnung Thal 01.01.24) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTZT10suScyyW9x7QhpzckII-gV2UoQIcKbjfULgm-yq/Anlage_6_Benutzungsordnung_Thal_01.01.24.pdf
+- Anlage: Beschlussvorlage (Anlage 7 STADTRAUM 01.01.2024) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ0S3PxLY0tUtVeOU65bo_LwW8Nadty4LN1OF7PoIuYN/Anlage_7_STADTRAUM_01.01.2024.pdf
+- Anlage: Beschlussvorlage (Anlage 8 zu Vorlage 351 -Evaluierung STADTRAUM) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX5HeHdb03YbrmGyXQYCrX01Zm-qP6BGKxpmycwna2l1/Anlage_8_zu_Vorlage_351_-Evaluierung_STADTRAUM.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20859 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-48
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20887 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-37
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/20870 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
