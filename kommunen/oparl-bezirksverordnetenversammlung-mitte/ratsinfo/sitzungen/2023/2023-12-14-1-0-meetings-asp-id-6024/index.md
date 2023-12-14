@@ -1,0 +1,146 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2023-12-14T17:30:00+01:00
+- Ende: 2023-12-14T23:10:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6024
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6024
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=566186
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Situation der Taxihalteplätze am Europaplatz - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - (offen)
+- TOP 5.1: Alle sechs geplanten Pavillons in die Karl-Marx-Allee - überwiesen
+- TOP 5.2: Stoppt SIGNAs Bebauungsplanverfahren! - überwiesen
+- TOP 5.3: Schutz des Umfeldes unserer Rathäuser - überwiesen
+- TOP 5.4: Jüdisches Leben sichtbar machen - überwiesen
+- TOP 5.5: Ehem. Diensterweg-Gymnasium Puttbusser Straße 12: Kontinuierliche Information und Einbeziehung der Bürger*innen und Initiativen im Brunnenviertel - überwiesen
+- TOP 5.6: Leopoldplatz: Konzept „Ein Platz für Alle“ an die veränderte Situation anpassen - überwiesen
+- TOP 5.7: Hansaplatz – endlich wieder grün und mit sicherer Querung - überwiesen
+- TOP 5.8: Geflüchtete Menschen in Berlin sicher unterbringen - überwiesen
+- TOP 5.9: Drogenszene macht nicht vor Jugendeinrichtungen halt – Kinder und Jugendliche schützen! - überwiesen
+- TOP 5.10: Maßnahmenplan für die Schaffung von Arbeitsplätzen für Menschen mit Behinderungen auf dem 1. Arbeitsmarkt - überwiesen
+- TOP 5.11: Internetseite des BA mit Maßnahmen zum Klimaschutz „Beratung und Förderprogramme“ ergänzen - überwiesen
+- TOP 5.12: Wohnen ist Daseinsvorsorge: Mietwucher verfolgen, ahnden, stoppen! - überwiesen
+- TOP 5.13: Sicherheit Sportplätze Berlin Mitte - überwiesen
+- TOP 5.14: Alternative Bildungsangebote für geflüchtete Kinder schaffen - überwiesen
+- TOP 5.15: Bauliche Entwicklung am Humboldthafen! - überwiesen
+- TOP 5.16: Barrierereduktion an der Kreuzung Oranienburger Straße / Tucholskystraße - überwiesen
+- TOP 5.17: Lützowufer für Fahrradfahrer*innen sicherer gestalten - überwiesen
+- TOP 5.18: Werkstatt-Beschäftigten mit dem „Budget für Arbeit“ Arbeit im Bezirksamt ermöglichen und Praxis der Neueinstellung schwerbehinderter Menschen überprüfen - überwiesen
+- TOP 5.19: Erstversorgung und perspektivische Teilhabe von Geflüchteten dürfen nicht beeinträchtigt werden! - überwiesen
+- TOP 5.20: Auswirkungen des Nahost-Kriegs auf junge Menschen in Berlin Mitte in der Jugendhilfe abfedern - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Chance auf Einbürgerung ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Barrierearmen Zugang zum Rathaus Tiergarten sicher ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.24: Dunkle Jahreszeit darf nicht zu Unsicherheit führen! - in der BVV abgelehnt
+- TOP 5.25: Beleuchtung in öffentlichen, bezirklichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Eine Zone für den Fußverkehr am Hackeschen Markt – lebenswert, sozial nachhaltig und generationengerecht - gegenstandslos
+- TOP 5.27: Mitte auf dem Weg zum 1,5° Ziel - Teil 1 Hochlauf regenerativer Wärmeversorgung in öffentlichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Lebensmittelpunkte in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.29: Safer Space für queere obdachlose und wohnungslose Menschen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.30: Mehr Flächen für islamische und alevitische Bestattungen in Berlin Mitte - mit Änderungen in der BVV beschlossen
+- TOP 5.31: Verbesserte und beschleunigte Genehmigungspraxis für Außengastronomie - ohne Änderungen in der BVV beschlossen
+- TOP 5.32: Mülleimer für die Inselbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 5.33: Bezirkliche Vergaberichtlinien aktualisieren und Prozesse transparent gestalten - mit Änderungen in der BVV beschlossen
+- TOP 5.34: Wesentliche Bestandteile des Gedenkortes Güterbahnhof Moabit sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 5.35: Kann das Bezirksamt Mitte von Berlin als "familienfreundlicher Betrieb" zertifiziert werden? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.36: Mehr Licht am Alexanderplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.37: Trinkwasser in allen Schulen in Mitte ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.38: Kinder und Jugendliche an Spielplatzentwicklung beteiligen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.39: Besucher*innenumfrage in Wohnungslosentagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.40: Landschaftsschutzgebiet in der Rehberge ausdehnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.41: Integrationsfond ist unverzichtbar - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.42: Toilettenhaus am Schillerpark einer neuen Nutzung zuführen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.43: Wünsche der Bürger:innen am Magdeburger Platz umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.44: Lage in der stationären Jugendhilfe - Kinderschutz in Gefahr! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.45: Testprojekt "Pop-Up-Markt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Bustransfer für den Schwimmunterricht für alle Schulen gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.47: Gewerbekontrollen diskriminierungsfrei und rechtsstaatlich durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.48: Verkehrssicherheit erhöhen - Mehr Geschwindigkeitskontrollen durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.49: Ein Jahr Mühlenstube - Evaluierung durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.50: Beratungsstelle für die Habersaathstraße wieder einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.51: Mehr Umsetzungen, weniger Abgase - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.52: Verjährung von Ansprüchen bei Höhergruppierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.53: Transfers steuern – Maßnahmen der Transfersteuerung (Jahresbericht 2022) – Risikoanalyse und Berichterstattung fortentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.54: Zielsystem für das Kalenderjahr 2023 – Bericht über das Erreichen der Ziele (Erfolgskontrolle) zum 31. August 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.55: Einsetzung einer Kommission „Erinnerungskultur im Stadtraum (KES) Bezirk Mitte“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.56: Mittelverteilung Integrationsfonds 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Thematische Stunde - (offen)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Aktueller Stand zum Sprengelhaus - beantwortet
+- TOP 7.2: Schließung der 24/7-Unterkunft für obdachlose Menschen in der Auguststraße - beantwortet
+- TOP 7.3: Quo vadis WKM? - beantwortet
+- TOP 7.4: Winterdienst für sichere Radwegen - beantwortet
+- TOP 7.5: Transparente Nutzung der Sporthalle Boyenstraße - beantwortet
+- TOP 7.6: Der Widerstandskämpferin gegen das NS-Regime Franziska Bereit gedenken - schriftlich beantwortet
+- TOP 7.7: Alle Jahre wieder - Weihnachtsbeleuchtung - schriftlich beantwortet
+- TOP 7.8: Sichere Querung der Behmstraße - schriftlich beantwortet
+- TOP 7.9: Heidestraße 45 – Chance für bezahlbaren Wohnraum? - schriftlich beantwortet
+- TOP 7.10: Einsatz von sachkundigen Personen für die eigenverantwortliche Wahrnehmung von Bewa-chungsaufgaben im Auftrag des Bezirksamtes - schriftlich beantwortet
+- TOP 7.11: Mehr- und herkunftssprachlicher Unterricht im Berliner Bildungssystem: wie sieht es in Mitte aus? - schriftlich beantwortet
+- TOP 7.12: Maßnahmen am Leopoldplatz - schriftlich beantwortet
+- TOP 7.13: Beusselstraße 43 - schriftlich beantwortet
+- TOP 7.14: Tatsächliche Versiegelung an Spreeufern - schriftlich beantwortet
+- TOP 7.15: Mittelabfluss Bauvorbereitungsmittel SIWANA IV – Sondervermögen Infrastruktur der Wachsenden Stadt (SIWA) - schriftlich beantwortet
+- TOP 7.16: Inakzeptable Zustände in der Rostocker Straße 50 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Beleuchtung in Grünanlagen III - beantwortet
+- TOP 9.2: Wie weiter mit dem Masterplan Barrierefreiheit (DS 0165/VI) - beantwortet
+- TOP 9.3: Mühlenstube - Sichtbare Ausweitung der Drogenszene ins Parkviertel? - beantwortet
+- TOP 9.4: Stadtteilmütter sind wichtig. Gibt es bald mehr davon? - beantwortet
+- TOP 9.5: Geheimwaffe “Grüner Gully” – Kampf gegen Parkplätze geht in die nächste Runde - beantwortet
+- TOP 9.6: Radverkehrsanlage Beusselstraße - mit oder ohne Anwohner und Gewerbetreibende? - schriftlich beantwortet
+- TOP 9.7: Vermüllung im Fritz-Schloss-Park neben der Schwimmhalle in der Seydlitzstraße - schriftlich beantwortet
+- TOP 9.8: Gebäudeleerstand im Bezirk - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: Sitzungskalender 2024 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Bei Veranstaltungen des Bezirks nicht die BVV vergessen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Unterstützung von Gastronomiebetrieben! - überwiesen
+- TOP 13.3: Mehr Sicherheit für Mitarbeiter der BVG am Leopoldplatz! - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Silvester geht auch anders – Polizei und Rettungskräfte entlasten und besser schützen - überwiesen
+- TOP 14.2: Streuen jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Mühlenstube - Die Interessen der Anwohner endlich ernst nehmen! - überwiesen
+- TOP 14.4: Europaplatz-Provisorium wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Solidarität mit Kriegsgegner*innen in unseren Partnerstädten Moskau und St. Petersburg! - in der BVV abgelehnt
+- TOP 15.2: Solidarität mit unseren jüdischen Mitbürgerinnen und Mitbürgen sowie mit Israel und unserer Partnerstadt Holon bei Tel-Aviv - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.3: Daseinsvorsorge im Bezirk Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Kein Parken mehr auf der Swinemünder Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Spielplatz am Humboldthain erhalten! - gegenstandslos
+- TOP 16.3: Desolate Zustände am Leopoldplatz endlich beenden! - in der BVV abgelehnt
+- TOP 16.4: Fahrradbügel in der Oudenarder Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 16.5: Späti-Kultur in Mitte erhalten! - mit Änderungen in der BVV beschlossen
+- TOP 16.6: Ausschusssitzungen der BVV per Stream zugänglich machen – Pilot Projekt Jugendhilfeausschuss und Schulausschuss - in der BVV abgelehnt
+- TOP 16.7: Kiezblock-light im nördlichen Teil der Wilhelmshavener Str. - mit Änderungen in der BVV beschlossen
+- TOP 16.8: Bewegungsräume ermöglichen – Sportflächen für Kinder und Jugendliche ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 16.9: Teileinziehung Märkisches Museum – Umfeld des Stadtmuseums aufwerten und den neuen Museumsstandort anbinden - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Berlin-Mitte zur Cannabis-Modellregion machen - ohne Änderungen in der BVV beschlossen
+- TOP 16.11: Evaluation der Mühlenstube – nicht die Anwohner vergessen! - vertagt
+- TOP 16.12: Bessere Bewässerung durch Bezirksamt & Bürgerschafltiches Engagement - vertagt
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes - vertagt
+- TOP 17.2: Der Bezirk-Mitte erkennt den Klimanotstand an - vertagt
+- TOP 17.3: Wildbienen auf der Catcherwiese – alternative Sportflächen in den Rehbergen dringend ge-sucht! - vertagt
+- TOP 17.4: Protokolle - vertagt
+- TOP 17.5: Erholung und Kultur am Plötzensee sichern! - vertagt
+- TOP 17.6: Kosten für Ungezieferbekämpfung gehören zu den Kosten der Unterkunft (KDU) - vertagt
