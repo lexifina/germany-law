@@ -65,6 +65,7 @@
 - [§ 40 Erstellung und Aktualisierung von Abwicklungsplänen](0040.md)
 - [§ 41 Vereinfachte Anforderungen; Verordnungsermächtigung](0041.md)
 - [§ 42 Mitwirkung des Instituts; Verordnungsermächtigung](0042.md)
+- [§ 42a Elektronische Kommunikation; Verordnungsermächtigung](0042a.md)
 - [§ 43 Zentrale Verwahrung und Verwaltung von Finanzkontrakten](0043.md)
 - [§ 44 Information der Abwicklungsbehörde über Vermögenswerte und Verbindlichkeiten](0044.md)
 - [§ 45 Mitwirkung Dritter; Verordnungsermächtigung](0045.md)
