@@ -1,0 +1,92 @@
+# Eingereichte Haushaltsanträge zu den Etatberatungen 2024
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2023-12-15T00:00:00+01:00
+- Ende: 2023-12-15T00:00:00+01:00
+- Ort: Eingereichte Haushaltsanträge zu den Etatberatungen 2024/2025
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400224
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25129
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25129
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsanträge der Liste B - RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507272.pdf
+- Ergebnisprotokoll: Haushaltsanträge der Liste B - RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507272.pdf
+- Wortprotokoll: Haushaltsanträge der Liste B - RAT 14.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00507272.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ankaufsetat für die strategische Bodenvorratspolitik - mehrheitlich beschlossen
+- TOP 2: Haushaltsantrag der Ratsfraktion DIE LINKE: Städtische Betriebsprüfer:innen im Bereich Gewerbesteuer einstellen - mehrheitlich abgelehnt
+- TOP 3: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Queeres Zentrum in Düsseldorf - mehrheitlich beschlossen
+- TOP 4: Haushaltsantrag der Ratsfraktionen von SPD und FDP: Haushaltsantrag der Ratsfraktionen von SPD und FDP: Mittel zur Förderung des Düsseldorfer Brauchtums - mehrheitlich abgelehnt
+- TOP 5: Haushaltsantrag der FDP-Ratsfraktion: Ausverkauf Düsseldorfer Karneval stoppen - mehrheitlich abgelehnt
+- TOP 6: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Düsseldorfer Brauchtum in den Stadtteilen - einstimmig beschlossen
+- TOP 7: Haushaltsantrag der FDP-Ratsfraktion: Endlich Grundlagen für Smart City schaffen - mehrheitlich abgelehnt
+- TOP 8: Haushaltsantrag der FDP-Ratsfraktion: Digitaler Kontakt für Bürgerinnen und Bürger zum Gesundheitsamt - mehrheitlich abgelehnt
+- TOP 9: Haushaltsantrag der Ratsfraktion DIE LINKE: Reduzierung der Ausgaben von Reinigungsleistungen durch private Reinigungsfirmen und Einstellung eigener Reinigungskräfte - mehrheitlich abgelehnt
+- TOP 10: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Umstellung der schulischen Toilettenreinigung - mehrheitlich beschlossen
+- TOP 11: Haushaltsantrag der SPD-Ratsfraktion: Kreis der Düsselpassberechtigten erweitern - mehrheitlich abgelehnt
+- TOP 12: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Förderung von Grundschulen in Quartieren mit besonderen Herausforderungen - mehrheitlich beschlossen
+- TOP 13: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Weiterführung des außerschulischen Bildungsprogramms „Adventure School“ - mehrheitlich beschlossen
+- TOP 14: Haushaltsantrag der FDP-Ratsfraktion: Kostenfreie Mittagsverpflegung für drei städtische Förderschulen mit dem Förderschwerpunkt Geistige Entwicklung - mehrheitlich abgelehnt
+- TOP 15: Haushaltsantrag der FDP-Ratsfraktion: Mittel für den aktiven Betrieb des Schumann Museums bereitstellen - mehrheitlich abgelehnt
+- TOP 16: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Neue Perspektiven für „Aquazoo Löbbecke Museum“: Jetzt die nächsten Schritte gehen - mehrheitlich beschlossen
+- TOP 17: Haushaltsantrag der Ratsfraktion DIE LINKE: Kein Geld für ein „Opernhaus der Zukunft“ - mehrheitlich abgelehnt
+- TOP 18: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Strategische Raumplanung für das zentrale und dezentrale Unterrichtsangebot der Clara-Schumann-Musikschule - mehrheitlich beschlossen
+- TOP 19: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Erweiterte Öffnungszeiten von zwei Stadtteilbüchereien im Probebetrieb - einstimmig beschlossen
+- TOP 20: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Machbarkeitsstudie Werkkunsthaus NRW - mehrheitlich beschlossen
+- TOP 21: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: „Kunstkauf“ in Düsseldorf - mehrheitlich beschlossen
+- TOP 22: Haushaltsantrag der FDP-Ratsfraktion: Förderung der Freien Szene - mehrheitlich abgelehnt
+- TOP 23: Haushaltsantrag der Ratsfraktionen von SPD und FDP: Freie Szene fördern - mehrheitlich abgelehnt
+- TOP 24: Haushaltsantrag der SPD-Ratsfraktion: Freie Szene fördern - mehrheitlich abgelehnt
+- TOP 25: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Fotostadt Düsseldorf - mehrheitlich beschlossen
+- TOP 26: Haushaltsantrag der FDP-Ratsfraktion: Intergenerativer Ansatz als Handlungsmaxime in der Stadtgesellschaft verankern - mehrheitlich abgelehnt
+- TOP 27: Haushaltsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Verlängerung der Erprobungsphase der zugehenden Hilfen und des Modellprojekts „plus_mobil“ der „zentren plus“ - einstimmig beschlossen
+- TOP 28: Haushaltsantrag der Ratsfraktionen von SPD, DIE LINKE und DIE PARTEI-KLIMA: Soziale Betreuung Geflüchteter - mehrheitlich abgelehnt
+- TOP 29: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Soziale Beratung in Flüchtlingsunterkünften durch die Liga Wohlfahrt - abweichend beschlossen
+- TOP 30: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Sozial- und Gesundheitsnetz in Düsseldorf stärken – Integration fördern: Zuschüsse an die freien Träger und sonstigen Initiativen - mehrheitlich beschlossen
+- TOP 31: Haushaltsantrag der Ratsfraktion DIE LINKE: Förderungen aus dem Stärkungspakt NRW im Haushalt verstetigen - mehrheitlich abgelehnt
+- TOP 32: Haushaltsantrag der Ratsfraktionen von DIE LINKE und SPD: Verstetigung des städtischen Programms „Einschulungshilfe“ - mehrheitlich abgelehnt
+- TOP 33: Haushaltsantrag der Ratsfraktion DIE LINKE: Düsselpass auch für Wohngeldberechtigte - mehrheitlich abgelehnt
+- TOP 34: Haushaltsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD: Förderung der Migrantenorganisationen und niedrigschwelligen Sprachkurse - mehrheitlich beschlossen
+- TOP 35: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: JHA-Beschlüsse vom 3. November 2023 - mehrheitlich beschlossen
+- TOP 36: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Teilhabe fördern und Erlebnisorte schaffen - beschlossen
+- TOP 37: Haushaltsantrag der SPD-Ratsfraktion: Sanierung bzw. (Ersatz-)Neubau von Jugendfreizeiteinrichtungen fortsetzen - Ersatzneubau für die städtische Kinder- und Jugendfreizeiteinrichtung 4-Kidz, Chemnitzer Str. 51a - mehrheitlich abgelehnt
+- TOP 38: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ersthelfer-App - einstimmig beschlossen
+- TOP 39: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Fortsetzung der Förderung von Mädchen in Sportvereinen - mehrheitlich beschlossen
+- TOP 40: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Förderung einer Willkommenskultur für alle Menschen in Sportvereinen - mehrheitlich beschlossen
+- TOP 41: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Sportanlagen fit halten: Planungsmittel für Modernisierungsmaßnahmen - einstimmig beschlossen
+- TOP 42: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Dirtbikepark in Heerdt entwickeln! - mehrheitlich beschlossen
+- TOP 43: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Unterstützung Zentrenmanagement - einstimmig beschlossen
+- TOP 44: Haushaltsantrag der FDP-Ratsfraktion: Zentrenmanagement sicherstellen - zurückgezogen
+- TOP 45: Haushaltsantrag der SPD-Ratsfraktion: Mittel für einen Fachkräftecampus - mehrheitlich abgelehnt
+- TOP 46: Haushaltsantrag der SPD-Ratsfraktion: Mittel für die Wohnungsbauoffensive 2030 - 8.000 bezahlbare Neubauwohnungen für Düsseldorf - mehrheitlich abgelehnt
+- TOP 47: Haushaltsantrag der FDP-Ratsfraktion: Wirksame Gründungsunterstützung für Wohnungsbaugenossenschaften - mehrheitlich abgelehnt
+- TOP 48: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Erhöhung Planungsmittel - mehrheitlich beschlossen
+- TOP 49: Haushaltsantrag der Ratsfraktion DIE LINKE: Gebühren für Wohnberechtigungsscheine abschaffen - mehrheitlich abgelehnt
+- TOP 50: Haushaltsantrag der Ratsfraktion DIE LINKE: Einrichtung eines Referats für bezahlbares Wohnen - mehrheitlich abgelehnt
+- TOP 51: Haushaltsantrag der SPD-Ratsfraktion: Mieter:innen schützen und Bestand an bezahlbaren Wohnungen sichern - mehrheitlich abgelehnt
+- TOP 52: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Sechs Radleitrouten für Düsseldorf - mehrheitlich beschlossen
+- TOP 53: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Planung von Quartiersgaragen voranbringen - mehrheitlich beschlossen
+- TOP 54: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Finanzmittel für die Schulwegesicherheit - beschlossen
+- TOP 55: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Streichung Haushaltsmittel P+R Südpark - mehrheitlich beschlossen
+- TOP 56: Haushaltsantrag der Ratsfraktion DIE LINKE: Sozialtarif für Strom, Gas, Nah- und Fernwärme - mehrheitlich abgelehnt
+- TOP 57: Haushaltsantrag der Ratsfraktion DIE LINKE: DeutschlandTicket Sozial für Düsselpassberechtigte vergünstigen - mehrheitlich abgelehnt
+- TOP 58: Haushaltsantrag der Ratsfraktion DIE LINKE: Autofreier Tag - mehrheitlich abgelehnt
+- TOP 59: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Masterplan Jugend- und Bolzplätze - einstimmig beschlossen
+- TOP 60: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Trendsportart „Padel-Tennis“ in Düsseldorf - mehrheitlich beschlossen
+- TOP 61: Haushaltsantrag der Ratsfraktion DIE LINKE: Einstellung von Rangerinnen und Rangern für Düsseldorfer Naturschutzgebiete - mehrheitlich abgelehnt
+- TOP 62: Haushaltsantrag der SPD-Ratsfraktion: Klimafreundlich zuhause und unterwegs - mehrheitlich abgelehnt
+- TOP 63: Haushaltsantrag der Ratsfraktion DIE LINKE: Förderprogramm für die Anschaffung von Lastenrädern 2024 und 2025 beibehalten - mehrheitlich abgelehnt
+- TOP 64: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Umsetzung einer KI-basierten Versiegelungskartierung und -veränderungsdetektion - einstimmig beschlossen
+- TOP 65: Haushaltsantrag der Ratsfraktion DIE LINKE: Anreize zur Änderung des Mobilitätsverhaltens zum Zweck der CO2-Einsparungen - mehrheitlich abgelehnt
+- TOP 66: Haushaltsantrag der Ratsfraktion DIE LINKE: Gewerbesteuer: Haushalt gerecht und nachhaltig finanzieren - mehrheitlich abgelehnt
+- TOP 67: Haushaltsantrag der SPD-Ratsfraktion: Sicherung des Grundstücks „Gerresheimer Wald“ an der Hagener Straße für stationäre Pflege - mehrheitlich abgelehnt
+- TOP 68: Haushaltsantrag der FDP-Ratsfraktion: Integrative Demenzstruktur in zukünftigen Neubauten - mehrheitlich abgelehnt
+- TOP 69: Haushaltsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Anpassung des Klimaetats an die Realität der akuten Klimakrise - mehrheitlich abgelehnt
+- TOP 70: Haushaltsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Etat für die Bewältigung der Folgen des Klimawandels - mehrheitlich abgelehnt
+- TOP 71: Haushaltsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Wiederaufnahme des Förderprogramms für Lastenräder - mehrheitlich abgelehnt
+- TOP 72: Haushaltsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Zuschussanträge für Kunst und Kultur - mehrheitlich beschlossen
+- TOP 73: Haushaltsantrag der Ratsfraktion DIE LINKE: Aktive Grundstücksbevorratung für den Wohnungsbau anstelle von Ausverkauf städtischer Wohnungsbaugrundstücke - mehrheitlich abgelehnt
+- TOP 74: Haushaltsantrag der Ratsfraktion DIE LINKE: Inflationsausgleich für das Klimaschutzprogramm - mehrheitlich abgelehnt
+- TOP 75: Haushaltsantrag der Ratsfraktion DIE LINKE: Erhöhung der Honorare für Dozierendentätigkeiten an der VHS - mehrheitlich abgelehnt
