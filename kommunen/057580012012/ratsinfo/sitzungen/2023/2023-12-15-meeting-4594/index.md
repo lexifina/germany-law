@@ -1,0 +1,59 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2023-12-15T17:00:00+01:00
+- Ende: 2023-12-15T19:25:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaap-IgTQwgdkGdBuB3GJGA
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4594
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaVQxb6KC2nlP23jNV3WeckelKk_SP80NELUK3WKuJ7x/Einladung_Rat_15.12.2023.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYeXoD44MeIq5qGgNraVK2T_7uEOvciRWC2pYNc5G_BW/Oeffentliche_Niederschrift_Rat_15.12.2023.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 27.10.2023
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Anregungen gemäß § 24 GO NRW
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2023 der Beteiligungsunternehmen zum 30.09.2023
+- TOP A.6b: Markthalle: Einlage von der Hansestadt Herford in den IAB Immobilien- und Abwasser-Betrieb Herford - Es liegt eine Ergänzungsvorlage vor.
+- TOP A.6b)1: Markthalle: Einlage von der Hansestadt Herford in den IAB Immobilien- und Abwasser-Betrieb Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6c: IAB Immobilien- und Abwasser-Betrieb Herford: Wirtschaftsplan 2024 Mittelfristplanung 2025-2028
+- TOP A.6c)1: IAB Immobilien- und Abwasser-Betrieb Herford: Wirtschaftsplan 2024 Mittelfristplanung 2025-2028 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6d: Pro Herford GmbH: Wirtschaftsplan 2024 Mittelfristplan 2025-2028 - Mehrheitlich und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6e: Stadtentwicklungsgesellschaft Hansestadt Herford GmbH: Wirtschaftsplan 2024 Mittelfristplan 2025-2028 - Mehrheitlich und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6f: HVV-Konzern: Wirtschaftspläne 2024 und Mittelfristpläne des HVV-Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Mit 32 Stimmen dafür, vier Stimmen dagegen und zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.6g: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen Lippe GmbH: Wirtschaftsplan 2024 und Mittelfristplan 2025-2028 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6h: Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford, Wirtschaftsplan 2024 und die Mittelfristplanung 2025 - 2028 - Mit 34 Stimmen dafür, drei Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.6i: Arbeitnehmermitbestimmung im Aufsichtsrat der HVV Herforder Versorgungs-und Verkehrs-Beteiligungs-GmbH
+- TOP A.6i)1: Arbeitnehmermitbestimmung im Aufsichtsrat der HVV Herforder Versorgungs-und Verkehrs-Beteiligungs-GmbH - Mit 37 Stimmen dafür, einer Stimme dagegen und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Gremienbesetzungen
+- TOP A.8: Prüfung und Bestätigung des Gesamtabschlusses 2019 der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: 3. Situationsbericht zur Haushaltswirtschaft 2023
+- TOP A.10: Prüfung und Feststellung des Jahresabschlusses 2022, Ergebnisverwendung und Entlastung des Bürgermeisters hier: Einbringung des Jahresabschlusses 2022 in den Rat
+- TOP A.11: Entwurf der Haushaltssatzung 2024 sowie mittelfristige Ergebnis- und Finanzplanung 2025 - 2027 hier: Einbringung des Entwurfs der Haushaltssatzung 2024 mit ihren Anlagen
+- TOP A.12: Stellenplan für den Haushalt 2024
+- TOP A.13: Erhebung einer Übernachtungssteuer
+- TOP A.14: Kommunalarchiv Herford: Neufassung der Gebührensatzung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Gebührenhaushalt Krankentransport und Notfallrettung: Neufassung der Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford in der Fassung der Anlage 1 mit Wirkung zum 01.01.2024.
+- TOP A.15a: Gebührenhaushalt Krankentransport und Notfallrettung: Neufassung der Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford in der Fassung der Anlage 1 mit Wirkung zum 01.01.2024. - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Gebührenhaushalt Straßenreinigung 13. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Mit 36 Stimmen dafür, zwei Gegenstimmen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Resolution der Kreise Herford und Minden-Lübbecke sowie der kreisangehörigen Kommunen zur finanziellen Situation der Städte, Gemeinden und Kreise - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.19: Änderung der AGB für die Benutzung der Sportstätten der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Anpassung des Integrierten Stadtentwicklungskonzeptes Innenstadt II an die Neuausrichtung der Städtebauförderung 2023 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Konzept Feuerwehr Herford 2033 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Bebauungsplan Nr. 5.28 "Lützowstraße" hier: Satzungsbeschluss - Mehrheitlich und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.23: Überbrückungsgeld für Kindertageseinrichtungen in freier Trägerschaft - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Öffentlicher Personennahverkehr im Stadtgebiet Herford: 1. Anwendung des Deutschlandticket-Tarifs als Höchsttarif im Stadtgebiet Herford 2. Umsetzung des „Deutschlandtickets sozial“ zum 01.02.2024 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Einführung eines deutschlandweiten Schülertickets für alle Schülerinnen und Schüler an den weiterführenden städtischen Schulen in Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.26: Deutschlandticket für Schüler in NRW - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Bau einer Konzerthalle auf dem Gelände des Janup - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28: Sitzungskalender 2024
+- TOP A.29: Mitteilungen
