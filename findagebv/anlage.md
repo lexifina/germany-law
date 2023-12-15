@@ -30,6 +30,7 @@ Inhaltsübersicht
 | 27 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2019/1238 |
 | 28 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2020/1503 |
 | 29 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierinstitutsgesetzes (WpIG) |
+| 30 | individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858 |
 | Nr. | Gebührentatbestand | Gebühr in Euro |
 | 1 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierhandelsgesetzes (WpHG) |  |
 | 1.1 | Maßnahmen nach § 15 Absatz 1 WpHG | nach Zeitaufwand |
@@ -538,3 +539,5 @@ Inhaltsübersicht
 | 29.6.6 | Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinstitut bestimmt sind (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG) | nach Zeitaufwand |
 | 29.6.7 | Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen (§ 79 Absatz 2 WpIG) | nach Zeitaufwand |
 | 29.7 | Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG | nach Zeitaufwand |
+| 30 | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858 |  |
+| 30.1 | Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der Verordnung (EU) 2022/858 | Nach Zeitaufwand |

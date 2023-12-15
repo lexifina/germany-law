@@ -43,7 +43,7 @@
 |  | Siebenter Teil | Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung | §§ 241 - 261 |
 |  | 1. | Abschnitt | Nichtigkeit von Hauptversammlungsbeschlüssen | §§ 241 - 255 |
 |  |  | 1. | Unterabschnitt | Allgemeines | §§ 241 - 249 |
-|  |  | 2. | Unterabschnitt | Nichtigkeit bestimmter Hauptversammlungsbeschlüsse | §§ 250 - 255 |
+|  |  | 2. | Unterabschnitt | Nichtigkeit bestimmter Hauptversammlungsbeschlüsse | §§ 250 – 255b |
 |  | 2. | Abschnitt | Nichtigkeit des festgestellten Jahresabschlusses | §§ 256 - 257 |
 |  | 3. | Abschnitt | Sonderprüfung wegen unzulässiger Unterbewertung | §§ 258 - 261a |
 |  | Achter Teil | Auflösung und Nichtigerklärung der Gesellschaft | §§ 262 – 277 |

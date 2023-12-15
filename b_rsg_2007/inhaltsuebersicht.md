@@ -76,7 +76,16 @@
 | § 41 | Auskunftserteilung |
 | § 42 | Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten |
 | § 43 | Verpflichtung des Insolvenzverwalters |
-| §§ 44 bis 47 | (weggefallen) |
+|  |
+| Abschnitt 4a |
+| Börsenmantelaktiengesellschaft zum Zweck der Börsenzulassung |
+|  |  |
+| § 44 | Begriffsbestimmungen, anwendbare Vorschriften |
+| § 45 | Einlage; Verwendungsabrede |
+| § 46 | Zuständigkeit der Hauptversammlung, Informationspflichten |
+| § 47 | Andienungsrecht der Aktionäre; Zulässigkeit der Einlagenrückgewähr |
+| § 47a | Aktienoptionen |
+| § 47b | Beendigung der Börsenmantelaktiengesellschaft; Auflösung; Abwicklung |
 |  |
 | Abschnitt 5 |
 | Freiverkehr, KMU-Wachstumsmarkt und organisiertes Handelssystem |

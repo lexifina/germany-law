@@ -19,7 +19,7 @@
 - [§ 9 Ausgabebetrag der Aktien](0009.md)
 - [§ 10 Aktien und Zwischenscheine](0010.md)
 - [§ 11 Aktien besonderer Gattung](0011.md)
-- [§ 12 Stimmrecht. Keine Mehrstimmrechte](0012.md)
+- [§ 12 Stimmrecht](0012.md)
 - [§ 13 Unterzeichnung der Aktien](0013.md)
 - [§ 14 Zuständigkeit](0014.md)
 - [§ 15 Verbundene Unternehmen](0015.md)
@@ -213,6 +213,7 @@ Hauptversammlung
 - [§ 134c Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern](0134c.md)
 - [§ 134d Offenlegungspflichten der Stimmrechtsberater](0134d.md)
 - [§ 135 Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde](0135.md)
+- [§ 135a Mehrstimmrechtsaktien](0135a.md)
 - [§ 136 Ausschluß des Stimmrechts](0136.md)
 - [§ 137 Abstimmung über Wahlvorschläge von Aktionären](0137.md)
 
@@ -446,6 +447,8 @@ Bilanzgewinns](0253.md)
 - [§ 254 Anfechtung des Beschlusses über die Verwendung des
 Bilanzgewinns](0254.md)
 - [§ 255 Anfechtung der Kapitalerhöhung gegen Einlagen](0255.md)
+- [§ 255a Gewährung zusätzlicher Aktien](0255a.md)
+- [§ 255b Kapitalerhöhung zur Gewährung zusätzlicher Aktien](0255b.md)
 
 #### Zweiter Abschnitt Nichtigkeit des
 festgestellten Jahresabschlusses

@@ -33,6 +33,7 @@
 - [§ 22 Meldepflichten](0022.md)
 - [§ 23 Anzeige von Verdachtsfällen](0023.md)
 - [§ 24 Verpflichtung des Insolvenzverwalters](0024.md)
+- [§ 24a Verordnungsermächtigung](0024a.md)
 
 ## Abschnitt 3 Marktmissbrauchsüberwachung
 
@@ -59,7 +60,7 @@
 
 - [§ 32b Zuständigkeit der Bundesanstalt nach der Verordnung (EU) 2020/1503](0032b.md)
 - [§ 32c Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503](0032c.md)
-- [§ 32d Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503](0032d.md)
+- [§ 32d Haftung für Angaben im Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503](0032d.md)
 - [§ 32e Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d](0032e.md)
 - [§ 32f Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung](0032f.md)
 
@@ -224,3 +225,4 @@
 - [§ 140 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte](0140.md)
 - [§ 141 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0141.md)
 - [§ 142 Übergangsvorschriften für das Schwarmfinanzierung-Begleitgesetz](0142.md)
+- [§ 143 Übergangsvorschrift zum Zukunftsfinanzierungsgesetz](0143.md)

@@ -75,7 +75,15 @@ an Wertpapierbörsen
 - [§ 41 Auskunftserteilung](0041.md)
 - [§ 42 Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten](0042.md)
 - [§ 43 Verpflichtung des Insolvenzverwalters](0043.md)
-- [(XXXX) §§ 44 bis 47](xxxx-44-bis-47.md)
+
+## Abschnitt 4a Börsenmantelaktiengesellschaft zum Zweck der Börsenzulassung
+
+- [§ 44 Begriffsbestimmungen, anwendbare Vorschriften](0044.md)
+- [§ 45 Einlage; Verwendungsabrede](0045.md)
+- [§ 46 Zuständigkeit der Hauptversammlung, Informationspflichten](0046.md)
+- [§ 47 Andienungsrecht der Aktionäre; Zulässigkeit der Einlagenrückgewähr](0047.md)
+- [§ 47a Aktienoptionen](0047a.md)
+- [§ 47b Beendigung der Börsenmantelaktiengesellschaft; Auflösung; Abwicklung](0047b.md)
 
 ## Abschnitt 5 Freiverkehr, KMU-Wachstumsmarkt und organisiertes Handelssystem
 

@@ -46,11 +46,16 @@
 - [§ 29 Leistungspflicht nur gegen Umtragung; Erlöschen](0029.md)
 - [§ 30 Außerordentliche Kündigung](0030.md)
 
-## Abschnitt 6 Bußgeldvorschriften
+## Abschnitt 6 Sondervorschriften für elektronische Aktien
+
+- [§ 30a Führung des Aktienregisters](0030a.md)
+- [§ 30b Umtragung bei Ausschluss säumiger Aktionäre](0030b.md)
+
+## Abschnitt 7 Bußgeldvorschriften
 
 - [§ 31 Bußgeldvorschriften](0031.md)
 
-## Abschnitt 7 Schlussvorschriften
+## Abschnitt 8 Schlussvorschriften
 
 - [§ 32 Anwendbares Recht](0032.md)
 - [§ 33 Übergangsregelung](0033.md)
