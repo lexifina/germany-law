@@ -1,0 +1,54 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2023-12-15T15:00:00+01:00
+- Ende: 2023-12-15T17:50:00+01:00
+- Ort: Gemeindehaus Bonneberg, von-Bodelschwingh-Str. 1, 32602 Vlotho, Gemeindesaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdtHYKBpev3tHtQX0vqNC0Q
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4617
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQz66Z7u5O8DIPghBMT6IMR_cyzT6Kf54SlL2d-mT2fn/Oeffentliche_Niederschrift_Rat_15.12.2023.pdf
+
+## Tagesordnung
+
+- TOP A: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 25. Sitzung vom 24.08.2023 - öffentlicher Teil -
+- TOP 2.: Niederschrift über die 26. Sitzung vom 26.10.2023 - öffentlicher Teil -
+- TOP 3.: Jahresrückblick 2023 / Ausblick 2024
+- TOP 4.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 5.: Resolution zur finanziellen Situation der Kreise Herford und Minden-Lübbecke sowie der jeweiligen kreisangehörigen Kommunen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 7.: Fragestunde für Einwohner*innen
+- TOP 8.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 8.1: Erschließung des Baugebietes „Auf dem Berkenstein II“ - 29 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 8.2: Keine großflächigen Baugebiete/Bauvorhaben ohne weiträumiges Verkehrskonzept - 27 Ja-Stimme(n), 0 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. V21 "Auf dem Berkenstein II" Änderung des Geltungsbereiches - 26 Ja-Stimme(n), 3 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 10.: 4. Änderung des Flächennutzungsplanes Erweiterung Wohnbebauung Berkenstein Beschluss zur frühzeitigen Beteiligung - 26 Ja-Stimme(n), 3 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 11.: Aufstellung des Bebauungsplanes Nr. V 21 "Auf dem Berkenstein II" Beschluss zur frühzeitigen Beteiligung - 26 Ja-Stimme(n), 3 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 12.: Änderung des Integrierten Stadtentwicklungskonzeptes „Vlotho AN der Weser“ - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Jahresabschluss 2020 der Vlothoer Wirtschaftsbetriebe - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Feststellung des Gesamtabschlusses der Stadt Vlotho 2019 sowie des Gesamtlageberichtes - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Fortschreibung des Straßen- und Wegekonzeptes (Zeitraum 2023-2027) - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Abwasser - für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Personal - für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Wirtschaftsplan für die Vlothoer Wirtschaftsbetriebe - Betriebssparte Straßen - für das Wirtschaftsjahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Gebührenbedarfsberechnung Abfallbeseitigung 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Gebührenbedarfsberechnung Bestattungswesen 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Gebührenbedarfsberechnung Straßenreinigung 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Gebührenbedarfsberechnung für die Übergangsheime und Notunterkünfte für das Jahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Änderung der Beitrags- und Gebührensatzungen der Stadt Vlotho hier: Artikelsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Vlotho - 29 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 26.: 7. Änderung der Betriebssatzung der Vlothoer Wirtschaftsbetriebe (VWB) vom 21. Dezember 2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Änderung der Satzung des Seniorenbeirates - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Anmeldeverfahren Grundschulen zum Schuljahr 2024/25 - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: Beteiligung an der Vlotho Marketing GmbH; hier: Erhöhung der Anteile am Gesellschaftskapital und des Stammkapitals der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Verordnung über das Offenhalten von Verkaufsstellen im Jahr 2024 - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: Übernahme der Grabstelle von Lengerke ab 2037 durch die Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 32.: Heimat-Preis für Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Bildung, Zusammensetzung und personelle Besetzung der Ausschüsse und Gremien nach den Kommunalwahlen vom 13.09.2020 - Einstimmig, 0 Enthaltung(en)
+- TOP 34.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 34.1: Zustimmung zur Erklärung "Lebenswerte Städte durch angemessene Geschwindigkeiten" - Zurückgezogen
+- TOP 35.: Anfragen nach § 17 der Geschäftsordnung und Mitteilungen
