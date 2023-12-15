@@ -1,0 +1,96 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2023-12-15T16:00:00+01:00
+- Ende: 2023-12-15T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6492
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6492
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 15.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00199578.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 15.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00199578.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 15.12.2023 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00199578.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Strukturwandel, Wirtschaft und Beschäftigung
+- TOP 5: Feststellung des Jahresabschlusses 2022 der Liegenschaften und Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss 2022, sowie Beschluss über die Entlastung der Betriebsleitung - einstimmig zugestimmt
+- TOP 6: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2024 - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 7: Vertrag mit der Jüdischen Gemeinde - einstimmig zugestimmt
+- TOP 8: Standentgeltentwicklung im Bereich Kirmessen und Märkte - Kostendeckungsgrad - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 9: Erftstraße zwischen Platz am Niedertor und Büttger Straße: Straßenwiederherstellung nach Kanalbauarbeiten - einstimmig zugestimmt
+- TOP 10: Knotenpunkt Hammer Landstraße / Langemarckstraße: Umbau im Zuge der Realisierung des Radschnellweges RS 5 - einstimmig zugestimmt
+- TOP 11: Spielraumplanung: Ausbauplanung Kinderspielplatzprogramm 2023/24 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 12: Festsetzung der Gebühren für die Städtischen Friedhöfe Neuss ab 2024 - mehrheitlich zugestimmt
+- TOP 13: Wirtschaftsplan 2024 für die Städtischen Friedhöfe Neuss (SFN) - mehrheitlich zugestimmt
+- TOP 14: Neufassung der Abfallsatzung und Verbesserung der Sauberkeit in Neuss - mehrheitlich zugestimmt
+- TOP -: Schulausschuss
+- TOP 15: Anträge Berufsförderung an Neusser Schulen 2024/25 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss III - Selikum, Reuschenberg, Weckhoven, Hoisten
+- TOP 16: Demontage der öffentlichen Beleuchtung auf der L142 zwischen Hochstadenstraße und Am Hummelbach - mehrheitlich zugestimmt
+- TOP 17: Hülchrather Straße, Bushaltestellenpaar "Willi-Graf-Straße": Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 18: Beschluss über Fördermaßnahmen ISEK Bahnhofsumfeld/ Schöner Ankommen in NRW - einstimmig zugestimmt
+- TOP 19: Beschluss über das Integrierte Stadtentwicklungskonzept (ISEK) Neuss - Neues Hammfeld - einstimmig zugestimmt
+- TOP 20: Selikumer Weg, Entwurf zur Ausbauplanung - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VIII - Rosellen
+- TOP 21: BPL 443 - Allerheiligen, Am Henselsgraben: Ausbau eines Fuß- und Radweges entlang einer Bahnstrecke - einstimmig zugestimmt
+- TOP 22: Knotenpunkt Neuenberger Straße / Neukirchener Straße / Waldstraße / Alte Hauptstraße: Barrierefreier Umbau hier: Aufhebung des Ausbaubeschlusses vom 12.03.2021 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 23: Dunantstraße: Sanierung eines Stichweges im Bereich der Häuser Nr. 43 - 49 sowie eines angrenzenden Fußweges - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 24: Handlungskonzept bezahlbarer Wohnraum - mehrheitlich zugestimmt
+- TOP -: Bauausschuss
+- TOP 25: 2. Änderungssatzung zur Änderung der Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Neuss - einstimmig zugestimmt
+- TOP 26: Verkehrliche Nutzung der Brücke über den Nordkanal an der Stadthalle - einstimmig zugestimmt
+- TOP 27: Wirtschaftsplan 2024 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 28: Satzungsänderungen für die Feuerwehr der Stadt Neuss - einstimmig zugestimmt
+- TOP 29: Festsetzung von Gebühren 2024 für den Bereich "Abfallentsorgung“ - einstimmig zugestimmt
+- TOP 30: Winterdienstsatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 30.1: Änderung der Hundesteuersatzung - mehrheitlich zugestimmt
+- TOP 31: Beratung des Haushaltsplan-Entwurfes 2024 - mehrheitlich zugestimmt
+- TOP 32: Erlass einer Hebesatzsatzung für das Jahr 2024 - mehrheitlich zugestimmt
+- TOP 33: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 34: Lindberghstraße, Einmündung Gladbacher Straße: Ausbau - einstimmig zugestimmt
+- TOP -: Bezirksausschuss VII - Uedesheim
+- TOP 35: Rheinfährstraße, Bushaltestellenpaar Stüttgen: Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Beteiligungsausschuss
+- TOP 36: Kauf von Gesellschaftsanteilen der “PD-Berater der öffentlichen Hand GmbH“ - einstimmig zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 37: Prüfung des Gesamtabschlusses 2021 - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 38: Wahl einer Schiedsperson - einstimmig zugestimmt
+- TOP 39: Wahl von Schiedspersonen - einstimmig zugestimmt
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Änderung der Hauptsatzung und der Geschäftsordnung des Rates der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 42: Übertragung der Aufgaben der örtlichen Fürsorgestelle auf den Rhein-Kreis Neuss - mehrheitlich zugestimmt
+- TOP 43: Vereinbarung über eine außerordentliche Dynamisierung von Zuschüssen an Träger in der Aufgabenwahrnehmung Soziales und Jugend in der Stadt Neuss für die Jahre 2024, 2025, 2026 - einstimmig zugestimmt
+- TOP 43.1: Mobilitätskonzept Stadtverwaltung - Unterstützung Jobticket - einstimmig zugestimmt
+- TOP 44: Wiederwahl eines Beigeordneten - mehrheitlich abgelehnt
+- TOP 45: Genehmigung DE Nr. 94: Gesamtabschluss-Entwurf 2021 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 46: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Ampeln fußgänger- und fahrradfreundlich umprogrammieren - verwiesen
+- TOP 47: Antrag der Fraktion Die PARTEI / DIE LINKE betr.: Breuer statt Benko - zurückgezogen
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 48: Vermarktungskonzept für die restlichen Wohnbaugrundstücke in der Klimaschutzsiedlung Blausteinsweg - zur Kenntnis genommen
+- TOP 49: Nordkanalallee zwischen Friedrich-Ebert-Platz und Knotenpunkt Nordkanalallee / An der Obererft / Selikumer Straße - Straßenwiederherstellung nach Kanalbau nach Stand der Technik: Bericht über die verbindliche Anliegerversammlung am 06.06.2023 - zur Kenntnis genommen
+- TOP 50: Memeler Straße - Grundhafte Sanierung: Bericht über die verbindliche Anliegerversammlung am 20.06.2023 - zur Kenntnis genommen
+- TOP 51: Sachbericht zum Integrierten Klimaschutzkonzept (IKK), Stichtag 14.08.2023 - zur Kenntnis genommen
+- TOP 52: Barrierefreier Umbau von Bushaltestellen im Stadtgebiet Neuss: Sachstandsbericht - zur Kenntnis genommen
+- TOP 53: - entfällt -
+- TOP 54: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
