@@ -1034,7 +1034,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 420 Übergangsregelung zur Novellierung der vermögensrechtlichen Vorschriften](0420.md)
 - [§ 421 Übergangsregelung zur Vergütung von pharmazeutischem Großhandel und von Apotheken für die Abgabe von COVID-19-Impfstoff](0421.md)
 - [§ 422 Übergangsregelung zur Vergütung und Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen](0422.md)
-- [§ 423 (weggefallen)](0423.md)
+- [§ 423 Rückwirkende Herabsetzung nach § 240 Absatz 4a Satz 4 festgesetzter Beiträge](0423.md)
 - [§ 424 Übergangsregelung aus Anlass des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes](0424.md)
 - [§ 425 Evaluierung des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes](0425.md)
 - [Anlage (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage.md)

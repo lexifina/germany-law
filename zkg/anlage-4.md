@@ -3,7 +3,7 @@
 Antrag auf Durchführung eines Verwaltungsverfahrens
 bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
 | Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags (§ 48 des Zahlungskontengesetzes) |
-| An die Bundesanstalt für Finanzdienstleistungsaufsicht Postfach 12 53 53002 Bonn |
+| An die Bundesanstalt für Finanzdienstleistungsaufsicht Postfach 12 53 53002 Bonn poststelle@bafin.de www.bafin.de/basiskonto |
 | Hiermit beantrage ich wegen der Ablehnung meines Antrags auf Abschluss eines Basiskontovertrags die Durchführung eines Verwaltungsverfahrens gegen . . . . . . (Name des Kreditinstituts). |
 | Meine Daten sind wie folgt: Herr/Frau . . . . . . Geburtsdatum . . . . . . Geburtsort . . . . . . Staatsangehörigkeit . . . . . . | (Vorname(n) und Nachname des Antragstellers) |
 | Wohnanschrift (Straße und Hausnummer)* . . . . . . Postleitzahl und Ort . . . . . . |

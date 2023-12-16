@@ -515,6 +515,7 @@
 - [§ 308c Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402](0308c.md)
 - [§ 309 Verschwiegenheitspflicht](0309.md)
 - [§ 310 Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung](0310.md)
+- [§ 310a Elektronische Übermittlung; Verordnungsermächtigung](0310a.md)
 
 ### Kapitel 2 Sichernde Maßnahmen
 

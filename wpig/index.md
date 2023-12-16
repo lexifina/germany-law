@@ -153,6 +153,12 @@
 - [§ 77 Prüferbestellung und Anzeige](0077.md)
 - [§ 78 Besondere Pflichten des Prüfers; Verordnungsermächtigung](0078.md)
 
+## Kapitel 7a DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+
+- [§ 78a Zuständigkeit](0078a.md)
+- [§ 78b Ausnahmen von der Erlaubnispflicht nach § 15](0078b.md)
+- [§ 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858](0078c.md)
+
 ## Kapitel 8 Maßnahmen bei Gefahr
 
 - [§ 79 Maßnahmen bei Gefahr](0079.md)

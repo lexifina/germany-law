@@ -12,6 +12,7 @@
 - [§ 2 Ausnahmen; Verordnungsermächtigung](0002.md)
 - [§ 3 Für Institute zugelassene Tätigkeiten und verbotene Geschäfte](0003.md)
 - [§ 4 Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen](0004.md)
+- [§ 4a Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung](0004a.md)
 - [§ 5 Zusammenarbeit mit anderen Behörden](0005.md)
 - [§ 6 Verschwiegenheitspflicht](0006.md)
 
@@ -129,11 +130,12 @@
 
 - [§ 59 Datenschutz](0059.md)
 
-## Abschnitt 12 Beschwerden und Außergerichtliche Streitbeilegung
+## Abschnitt 12 Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation
 
 - [§ 60 Beschwerden über Zahlungsdienstleister](0060.md)
 - [§ 61 Beschwerden über E-Geld-Emittenten](0061.md)
 - [§ 62 Streitbeilegung bei einem Zahlungsdienstleister](0062.md)
+- [§ 62a Kollektive Verbraucherinformation](0062a.md)
 
 ## Abschnitt 13 Strafvorschriften, Bußgeldvorschriften
 

@@ -23,7 +23,7 @@
 
 ### 2. Bundesanstalt für Finanzdienstleistungsaufsicht
 
-- [§ 5](0005.md)
+- [§ 5 Elektronische Kommunikation; Verordnungsermächtigung](0005.md)
 - [§ 6 Aufgaben](0006.md)
 - [§ 6a Besondere Aufgaben](0006a.md)
 - [§ 6b Aufsichtliche Überprüfung und Beurteilung](0006b.md)
@@ -142,6 +142,10 @@
 
 - [§ 26a Offenlegung durch die Institute](0026a.md)
 
+### 5d. Besondere Pflichten bei Kryptoverwahrung
+
+- [§ 26b Vermögenstrennung](0026b.md)
+
 ### 6. Prüfung und Prüferbestellung
 
 - [§ 27](0027.md)
@@ -199,6 +203,7 @@
 - [§ 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge](0046f.md)
 - [§ 46g Moratorium, Einstellung des Bank- und Börsenverkehrs](0046g.md)
 - [§ 46h Wiederaufnahme des Bank- und Börsenverkehrs](0046h.md)
+- [§ 46i Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung](0046i.md)
 - [§ 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014](0047.md)
 - [§ 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402](0048.md)
 
@@ -252,6 +257,14 @@
 - [§ 53p Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014](0053p.md)
 - [§ 53q Eigentumsrechte an Zentralverwahrern](0053q.md)
 
+## Abschnitt 6a DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+
+- [§ 53r Zuständigkeit](0053r.md)
+- [§ 53s Ausnahmen von der Erlaubnispflicht nach § 32](0053s.md)
+- [§ 53t DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme](0053t.md)
+- [§ 53u Unterlagen und Anträge nach der Verordnung (EU) 2022/858](0053u.md)
+- [§ 53v Betreiber organisierter Märkte](0053v.md)
+
 ## Siebenter Abschnitt Strafvorschriften, Bußgeldvorschriften
 
 - [§ 54 Verbotene Geschäfte, Handeln ohne Erlaubnis](0054.md)
@@ -260,7 +273,8 @@
 - [§ 55a Unbefugte Verwertung von Angaben über Millionenkredite](0055a.md)
 - [§ 55b Unbefugte Offenbarung von Angaben über Millionenkredite](0055b.md)
 - [§ 56 Bußgeldvorschriften](0056.md)
-- [(XXXX) §§ 57 und 58 (weggefallen)](xxxx-57-und-58.md)
+- [§ 57 Bußgeldvorschriften](0057.md)
+- [§ 58 (weggefallen)](0058.md)
 - [§ 59 Geldbußen gegen Unternehmen](0059.md)
 - [§ 60 Zuständige Verwaltungsbehörde](0060.md)
 - [§ 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0060a.md)

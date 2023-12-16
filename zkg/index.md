@@ -28,9 +28,9 @@
 
 ### Unterabschnitt 2 Vergleichswebsites
 
-- [§ 16 Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols](0016.md)
-- [§ 17 Anforderungen an Vergleichskriterien](0017.md)
-- [§ 18 Weitere Anforderungen an Vergleichswebsites](0018.md)
+- [§ 16 Betrieb einer Vergleichswebsite für Zahlungskonten durch die Bundesanstalt](0016.md)
+- [§ 17 Anforderungen an die Vergleichswebsite für Zahlungskonten, Meldepflicht für Zahlungsdienstleister](0017.md)
+- [§ 18 Weitere Anforderungen an die Vergleichswebsite](0018.md)
 - [§ 19 Verordnungsermächtigung; Verwaltungsvorschriften](0019.md)
 
 ## Abschnitt 3 Kontenwechselhilfe

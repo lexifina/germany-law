@@ -15,6 +15,7 @@
 | § 4g | Elektronische Zustellung durch Bereitstellung zum Abruf |
 | § 4h | Bekanntgabe und Zustellung im Ausland |
 | § 4i | Absehen von einer Anhörung |
+| § 4j | Anträge und Informationen in englischer Sprache |
 | Zweiter Abschnitt |
 |  | Organisation |
 | § 5 | Organe, Satzung |
@@ -52,7 +53,7 @@
 | § 16j | Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel |
 | § 16k | Aufgabenbereich Abwicklung |
 | § 16l | Aufgabenbereich Bilanzkontrolle |
-| § 16m | Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit |
+| § 16m | Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung |
 | § 16n | Festsetzung und Fälligkeit von Umlagevorauszahlungen |
 | § 16o | Differenz zwischen Umlagebetrag und Vorauszahlung |
 | § 16p | Säumniszuschläge; Beitreibung |

@@ -17,6 +17,7 @@
 - [§ 4g Elektronische Zustellung durch Bereitstellung zum Abruf](0004g.md)
 - [§ 4h Bekanntgabe und Zustellung im Ausland](0004h.md)
 - [§ 4i Absehen von einer Anhörung](0004i.md)
+- [§ 4j Anträge und Informationen in englischer Sprache](0004j.md)
 
 ## Zweiter Abschnitt Organisation
 
@@ -59,7 +60,7 @@ Deckung des Verwaltungsaufwands
 - [§ 16j Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel](0016j.md)
 - [§ 16k Aufgabenbereich Abwicklung](0016k.md)
 - [§ 16l Aufgabenbereich Bilanzkontrolle](0016l.md)
-- [§ 16m Entstehung der Umlageforderung, Festsetzung des Umlagebetrages und Fälligkeit](0016m.md)
+- [§ 16m Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung](0016m.md)
 - [§ 16n Festsetzung und Fälligkeit von Umlagevorauszahlungen](0016n.md)
 - [§ 16o Differenz zwischen Umlagebetrag und Vorauszahlung](0016o.md)
 - [§ 16p Säumniszuschläge; Beitreibung](0016p.md)

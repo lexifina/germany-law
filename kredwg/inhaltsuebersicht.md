@@ -21,7 +21,7 @@
 |  |
 |  | 2.Bundesanstalt für Finanzdienstleistungsaufsicht |
 |  |
-| § 5 | (weggefallen) |
+| § 5 | Elektronische Übermittlung von Verwaltungsakten; Verordnungsermächtigung |
 | § 6 | Aufgaben |
 | § 6a | Besondere Aufgaben |
 | § 6b | Aufsichtliche Überprüfung und Beurteilung |
@@ -140,6 +140,10 @@
 |  | 5c.Offenlegung |
 |  |
 | § 26a | Offenlegung durch die Institute |
+|  |  |
+|  | 5d.Besondere Pflichten bei Kryptoverwahrung |
+|  |  |
+| § 26b | Vermögenstrennung |
 |  |
 |  | 6.Prüfung und Prüferbestellung |
 |  |
@@ -198,6 +202,7 @@
 | § 46f | Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge |
 | § 46g | Moratorium, Einstellung des Bank- und Börsenverkehrs |
 | § 46h | Wiederaufnahme des Bank- und Börsenverkehrs |
+| § 46i | Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung |
 | § 47 | Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014 |
 | § 48 | Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402 |
 |  |
@@ -253,6 +258,15 @@
 | § 53p | Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014 |
 | § 53q | Eigentumsrechte an Zentralverwahrern |
 |  |  |
+| Abschnitt 6a |
+|  | DLT-Pilotregelung nach der Verordnung (EU) 2022/858 |
+|  |
+| § 53r | Zuständigkeit |
+| § 53s | Ausnahmen von der Erlaubnispflicht nach § 32 |
+| § 53t | DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme |
+| § 53u | Unterlagen und Anträge nach der Verordnung (EU) 2022/858 |
+| § 53v | Betreiber organisierter Märkte |
+|  |  |
 | Siebenter Abschnitt |
 |  | Strafvorschriften, Bußgeldvorschriften |
 |  |
@@ -262,7 +276,7 @@
 | § 55a | Unbefugte Verwertung von Angaben über Millionenkredite |
 | § 55b | Unbefugte Offenbarung von Angaben über Millionenkredite |
 | § 56 | Bußgeldvorschriften |
-| § 57 | (weggefallen) |
+| § 57 | Bußgeldvorschriften |
 | § 58 | (weggefallen) |
 | § 59 | Geldbußen gegen Unternehmen |
 | § 60 | Zuständige Verwaltungsbehörde |

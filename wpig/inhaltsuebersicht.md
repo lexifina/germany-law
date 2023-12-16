@@ -160,6 +160,11 @@ Prüferbestellung und Prüfung
 | § 76 | Vorlage von Rechnungslegungsunterlagen |
 | § 77 | Prüferbestellung und Anzeige |
 | § 78 | Besondere Pflichten des Prüfers; Verordnungsermächtigung |
+Kapitel 7a
+DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+| § 78a | Zuständigkeit |
+| § 78b | Ausnahmen von der Erlaubnispflicht nach § 15 |
+| § 78c | Unterlagen und Anträge nach der Verordnung (EU) 2022/858 |
 Kapitel 8
 Maßnahmen bei Gefahr
 | § 79 | Maßnahmen bei Gefahr |

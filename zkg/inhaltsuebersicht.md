@@ -25,9 +25,9 @@ Informationspflichten
 | § 15 | Allgemeine Verwendung der standardisierten Zahlungskontenterminologie |
 Unterabschnitt 2
 Vergleichswebsites
-| § 16 | Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols |
-| § 17 | Anforderungen an Vergleichskriterien |
-| § 18 | Weitere Anforderungen an Vergleichswebsites |
+| § 16 | Betrieb einer Vergleichswebsite für Zahlungskonten durch die Bundesanstalt |
+| § 17 | Anforderungen an die Vergleichswebsite für Zahlungskonten, Meldepflicht für Zahlungsdienstleister |
+| § 18 | Weitere Anforderungen an die Vergleichswebsite |
 | § 19 | Verordnungsermächtigung; Verwaltungsvorschriften |
 Abschnitt 3
 Kontenwechselhilfe
