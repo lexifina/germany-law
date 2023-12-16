@@ -343,8 +343,8 @@
 | Dreizehntes Kapitel |
 | Befristete Modellvorhaben |
 |  |
-| § 123 | Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung |
-| § 124 | Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat |
+| § 123 | Gemeinsame Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier |
+| § 124 | Wissenschaftliche Begleitung und Auswertung der gemeinsamen Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier |
 | § 125 | Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur |
 | § 125a | Modellvorhaben zur Erprobung von Telepflege |
 | § 125b | Kompetenzzentrum Digitalisierung und Pflege |
