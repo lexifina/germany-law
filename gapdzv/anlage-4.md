@@ -12,7 +12,7 @@
     | Geplanter Einheitsbetrag | 150 Euro | 200 Euro | 200 Euro | 200 Euro |
   c) § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
     |  | Antragsjahr 2023 | Antragsjahr 2024 | Antragsjahr 2025 | Antragsjahr 2026 |
-    | Geplanter Einheitsbetrag | 200 Euro | 200 Euro | 200 Euro | 200 Euro |
+    | Geplanter Einheitsbetrag | 150 Euro | 200 Euro | 200 Euro | 200 Euro |
   d) § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
     |  | Antragsjahr 2023 | Antragsjahr 2024 | Antragsjahr 2025 | Antragsjahr 2026 |
     | Geplanter Einheitsbetrag Stufe 1 | 900 Euro | 900 Euro | 900 Euro | 900 Euro |
