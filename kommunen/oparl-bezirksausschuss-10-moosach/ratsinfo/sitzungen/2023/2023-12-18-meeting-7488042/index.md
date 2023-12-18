@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2023-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7488042
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7488042
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 20.11.2023
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Ergreifung von Maßnahmen um die Sicherheit für Fußgänger in der verkehrsberuhigten Zone am Claudiusplatz wieder herzustellen
+- TOP 2.2.: Sorge für ein ausreichendes Heizen in der GWG-Siedlung Karlinger Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Triebstr. 36
+- TOP 3.3.1.2.: Baubergerstr. 34
+- TOP 3.3.1.3.: Gneisenaustr. 15
+- TOP 3.3.1.4.: Hanauer Str. 68
+- TOP 3.3.1.5.: N_ Holledauer Straße - Vorbescheid
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anfrage: Ampelanlage Dachauer Straße/ Pelkovenstraße - Zeiten Grünphasen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) + (U) Einrichtung einer Fahrradstraße in der Moosburger Straße Empfehlung Nr. 20-26 / E 00383 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 07.10.2021
+- TOP 6.: Anhörungen
+- TOP 6.1.: Verkehrsrechtliche Anhörung nach § 45 StVO: Hugo-Troendle-Straße - Elternanfahrtzone
+- TOP 6.2.: N_ Veranstaltung auf öffentlichem Verkehrsgrund: St.-Martinsplatz „Moosach Narrisch“, Straßenfasching am 03.02.2024
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sachstand Bebauung eines brachliegenden Grundstückes in der Hartmannshofer Straße [BA-Antrag Nr. 20-26/B 04254; Möglichkeit der Einforderung einer Bebauung oder Einfriedung besteht nicht. Lediglich gültiger Vorbescheidsantrag bis 25.06.2024 liegt vor.]
+- TOP 7.2.: Grünanlage "Am Oberwiesenfeld": Installation einer WC-Anlage [Schreiben BA10 vom 25.10.2023; Das Baureferat verfügt über keine Mittel zur Errichtung einer fest installierten WC-Anlage. Mobile Toiletten müßten vom BA finanziert werden.]
+- TOP 7.3.: Grünanlage parallel zur Hengeler- und Lampadiusstraße - Baumentnahmen und Nachpflanzungen [Schreiben BA10 vom 25.10.2023; lediglich 2 Baumentnahmen, Ersatzpflanzungen waren nicht notwendig. Aufforstungen nicht indiziert aufgrund dichtem Baumbestand.]
+- TOP 7.4.: Einrichtung Zweirichtungsradweg südliche Triebstraße/ Kreuzung Landshuter Allee [BA-Antrag Nr. 20-26/B 01643; seitens des MOR werden keine Maßnahmen ergriffen, da in Planung der Nord-Süd-Grünverbindung eine öffentlich nutzbare Verbindung nach Westen zur Riesstraße angedacht ist.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Feldmochinger Str. 8 2. Riesstr. 86
+- TOP 8.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2023 - 2027 (-> siehe Anhörung TOP 6.3 in Sitzung am 24.04.2023)
+- TOP 8.3.: Grundsatzbeschluss III - Fortschreibung des Klimabudgets (Vorabexemplar der SV Nr. 20-26/ V 10568)
+- TOP 8.4.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 8.5.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht - Bekanntgabe -
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 8.8.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.9.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 8.10.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 8.11.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.12.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 8.13.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 8.14.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 8.15.: Mehrjahresinvestitionsprogramm (MIP) 2023 - 2027 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.16.: Verzicht auf ein Vorkaufsrecht: Abbachstraße - nicht-öffentlich -
+- TOP 8.17.: Erweiterung Mobilfunkstandort: Pelkovenstraße - nicht-öffentlich -
+- TOP 6.3.: N_ Verkehrsrechtliche Anordnung nach § 45 StVO: Feldmochinger Str. 13b Eingeschränktes Haltverbot, Anordnung einer Lieferzone
+- TOP 1.2.: N_ Benennung Schaukasten-Beauftragte(r): U-Bahnhof, Westfriedhof (wegen Ausscheiden des ehem. Beauftragten aus BA)
+- TOP 3.3.2.1.: N_ Feldmochinger Str. 4
+- TOP 6.4.: N_ Zweckentfremdung von Wohnraum durch Nutzungsänderung: - nicht-öffentlich - Dachauer Straße
