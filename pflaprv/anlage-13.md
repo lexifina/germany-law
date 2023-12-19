@@ -8,4 +8,4 @@ Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
 | zu führen. |
 | Ort, Datum | (Siegel) |
 |  |  |
-| (Unterschrift) |  |
+| (Unterschrift oder qualifizierte elektronische Signatur) |  |

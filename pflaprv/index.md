@@ -78,12 +78,25 @@
 ### Abschnitt 2 Anerkennung von ausländischen Berufsabschlüssen, erforderliche Anpassungsmaßnahmen und Erbringung von Dienstleistungen
 
 - [§ 43 Allgemeines Verfahren, Bescheide, Fristen](0043.md)
+- [§ 43a Erforderliche Unterlagen](0043a.md)
 - [§ 44 Inhalt und Durchführung des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes](0044.md)
 - [§ 45 Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes](0045.md)
+- [§ 45a Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes als anwendungsorientierte Parcoursprüfung](0045a.md)
 - [§ 46 Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes](0046.md)
 - [§ 47 Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes](0047.md)
-- [§ 48 Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum](0048.md)
-- [§ 49 Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum](0049.md)
+- [§ 48 Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz](0048.md)
+- [§ 49 Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz](0049.md)
+
+### Abschnitt 2a Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes
+
+- [§ 49a Frist der Behörde für die Bestätigung des Antragseingangs](0049a.md)
+- [§ 49b Erforderliche Unterlagen](0049b.md)
+- [§ 49c Frist der Behörde für die Entscheidung über den Antrag](0049c.md)
+- [§ 49d Erlaubnisurkunde](0049d.md)
+
+### Abschnitt 2b Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+- [§ 49e Erforderliche Unterlagen](0049e.md)
 
 ### Abschnitt 3 Fachkommission und Bundesinstitut für Berufsbildung
 
@@ -113,8 +126,9 @@
 - [Anlage 7 (zu § 1 Absatz 2 Nummer 2, § 26 Absatz 2 Satz 1, § 28 Absatz 2 Satz 1)Stundenverteilung im Rahmen der praktischen Ausbildung der beruflichen Pflegeausbildung](anlage-7.md)
 - [Anlage 8 (zu § 19 Absatz 2 Satz 1)](anlage-8.md)
 - [Anlage 9 (zu § 44 Absatz 3 Satz 2)](anlage-9.md)
-- [Anlage 10 (zu § 45 Absatz 9)](anlage-10.md)
+- [Anlage 10 (zu § 45 Absatz 9, § 45a Absatz 9)](anlage-10.md)
 - [Anlage 11 (zu § 46 Absatz 3)](anlage-11.md)
 - [Anlage 12 (zu § 47 Absatz 5 Satz 2)](anlage-12.md)
+- [Anlage 12a (zu § 49d)](anlage-12a.md)
 - [Anlage 13 (zu § 42 Satz 1)](anlage-13.md)
-- [Anlage 14 (zu § 42 Satz 2)](anlage-14.md)
+- [Anlage 14 (weggefallen)](anlage-14.md)

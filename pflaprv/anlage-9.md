@@ -8,4 +8,4 @@ Bescheinigung über die Teilnahme am Anpassungslehrgang
 | Das Abschlussgespräch hat sie/er bestanden/nicht bestanden. |
 | Ort, Datum | (Stempel) |
 |  |  |
-| (Unterschrift(en) der Einrichtung) |  |
+| (Unterschrift(en) oder qualifizierte elektronische Signatur(en) der Einrichtung) |  |

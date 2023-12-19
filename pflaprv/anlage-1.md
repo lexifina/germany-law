@@ -10,7 +10,8 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     e) schlagen Pflegeziele vor, setzen gesicherte Pflegemaßnahmen ein und evaluieren gemeinsam die Wirksamkeit der Pflege,
     f) dokumentieren durchgeführte Pflegemaßnahmen und Beobachtungen in der Pflegedokumentation auch unter Zuhilfenahme digitaler Dokumentationssysteme und beteiligen sich auf dieser Grundlage an der Evaluation des Pflegeprozesses,
     g) integrieren in ihr Pflegehandeln lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
-    h) reflektieren den Einfluss der unterschiedlichen ambulanten und stationären Versorgungskontexte auf die Pflegeprozessgestaltung.
+    h) reflektieren den Einfluss der unterschiedlichen ambulanten und stationären Versorgungskontexte auf die Pflegeprozessgestaltung,
+    i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
   2. Pflegeprozesse und Pflegediagnostik bei Menschen aller Altersstufen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und evaluieren unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
     Die Auszubildenden
     a) erheben pflegebezogene Daten von Menschen aller Altersstufen mit gesundheitlichen Problemlagen sowie zugehörige Ressourcen und Widerstandsfaktoren,
@@ -19,7 +20,7 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     d) beziehen Angehörige in ihre pflegerische Versorgung von Menschen aller Altersstufen ein,
     e) nehmen Hinweiszeichen auf mögliche Gewaltausübung wahr und geben entsprechende Beobachtungen weiter,
     f) verfügen über ein grundlegendes Verständnis zu physischen, psychischen und psychosomatischen Zusammenhängen, die pflegerisches Handeln begründen,
-    g) erschließen sich neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin.
+    g) erschließen sich neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin unter Berücksichtigung auch von genderspezifischen Aspekten.
   3. Pflegeprozesse und Pflegediagnostik von Menschen aller Altersstufen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren.
     Die Auszubildenden
     a) pflegen, begleiten und unterstützen Menschen aller Altersstufen in Phasen fortschreitender Demenz oder schwerer chronischer Krankheitsverläufe,
@@ -42,7 +43,7 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     Die Auszubildenden
     a) wahren das Selbstbestimmungsrecht des zu pflegenden Menschen, insbesondere auch, wenn dieser in seiner Selbstbestimmungsfähigkeit eingeschränkt ist,
     b) unterstützen verantwortlich Menschen mit angeborener oder erworbener Behinderung bei der Kompensation eingeschränkter Fähigkeiten,
-    c) nutzen ihr grundlegendes Wissen über die langfristigen Alltagseinschränkungen, tragen durch rehabilitative Maßnahmen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei und integrieren hierzu auch technische Assistenzsysteme in das pflegerische Handeln,
+    c) nutzen ihr grundlegendes Wissen über die langfristigen Alltagseinschränkungen, tragen durch rehabilitative Maßnahmen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei und integrieren hierzu auch technische und digitale Assistenzsysteme in das pflegerische Handeln,
     d) verfügen über grundlegendes Wissen zu familiären Systemen und sozialen Netzwerken und schätzen deren Bedeutung für eine gelingende Zusammenarbeit mit dem professionellen Pflegesystem ein,
     e) stimmen die Interaktion sowie die Gestaltung des Pflegeprozesses auf den physischen, emotionalen und kognitiven Entwicklungsstand des zu pflegenden Menschen ab.
 II. Kommunikation und Beratung personen- und situationsorientiert gestalten.
@@ -77,7 +78,7 @@ III. Intra- und interprofessionelles Handeln in unterschiedlichen systemischen K
     Die Auszubildenden
     a) beachten die Anforderungen der Hygiene und wenden Grundregeln der Infektionsprävention in den unterschiedlichen pflegerischen Versorgungsbereichen an,
     b) wirken entsprechend den rechtlichen Bestimmungen an der Durchführung ärztlich veranlasster Maßnahmen der medizinischen Diagnostik und Therapie im Rahmen des erarbeiteten Kenntnisstandes mit,
-    c) beobachten und interpretieren die mit einem medizinischen Eingriff verbundenen Pflegephänomene und Komplikationen in stabilen Situationen,
+    c) beobachten und interpretieren die mit einem medizinischen Eingriff verbundenen Pflegephänomene und Komplikationen in stabilen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
     d) wirken entsprechend ihrem Kenntnisstand in der Unterstützung und Begleitung von Maßnahmen der Diagnostik und Therapie mit und übernehmen die Durchführung in stabilen Situationen,
     e) schätzen chronische Wunden prozessbegleitend ein und wenden die Grundprinzipien ihrer Versorgung an.
   3. In interdisziplinären Teams an der Versorgung und Behandlung von Menschen aller Altersstufen mitwirken und Kontinuität an Schnittstellen sichern.
@@ -105,7 +106,7 @@ V. Das eigene Handeln auf der Grundlage von wissenschaftlichen Erkenntnissen und
     Die Auszubildenden
     a) verstehen und anerkennen die Bedeutung einer wissensbasierten Pflege und die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns kontinuierlich zu überprüfen und gegebenenfalls zu verändern,
     b) erschließen sich wissenschaftlich fundiertes Wissen zu ausgewählten Themen und wenden einige Kriterien zur Bewertung von Informationen an,
-    c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von ausgewählten zentralen pflege- und bezugswissenschaftlichen Theorien, Konzepten, Modellen und evidenzbasierten Studien.
+    c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von ausgewählten zentralen pflege- und bezugswissenschaftlichen Theorien, Konzepten, Modellen und evidenzbasierten Studien sowie gendermedizinischen Erkenntnissen.
   2. Verantwortung für die Entwicklung (lebenslanges Lernen) der eigenen Persönlichkeit sowie das berufliche Selbstverständnis übernehmen.
     Die Auszubildenden
     a) bewerten das lebenslange Lernen als ein Element der persönlichen und beruflichen Weiterentwicklung, übernehmen Eigeninitiative und Verantwortung für das eigene Lernen und nutzen hierfür auch moderne Informations- und Kommunikationstechnologien,

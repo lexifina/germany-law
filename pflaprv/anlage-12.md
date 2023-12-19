@@ -10,4 +10,4 @@ für
 | hat am die staatliche Eignungsprüfung nach § 47 der Ausbildungs- und Prüfungsverordnung für die Pflegeberufe bestanden/nicht bestanden. |
 | Ort, Datum | (Siegel) |
 |  |  |
-| (Unterschrift der/des Vorsitzenden des Prüfungsausschusses) |  |
+| (Unterschrift oder qualifizierte elektronische Signatur der/des Vorsitzenden des Prüfungsausschusses) |  |

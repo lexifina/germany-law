@@ -71,7 +71,7 @@
 ### Abschnitt 1 Außerhalb des Geltungsbereichs des Gesetzes erworbene Berufsabschlüsse
 
 - [§ 40 Gleichwertigkeit und Anerkennung von Ausbildungen](0040.md)
-- [§ 41 Gleichwertigkeit entsprechender Ausbildungen; Verordnungsermächtigung](0041.md)
+- [§ 41 Gleichwertigkeit entsprechender Ausbildungen](0041.md)
 - [§ 42 Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten](0042.md)
 - [§ 43 Feststellungsbescheid](0043.md)
 
@@ -82,6 +82,11 @@
 - [§ 46 Meldung der dienstleistungserbringenden Person an die zuständige Behörde](0046.md)
 - [§ 47 Bescheinigungen der zuständigen Behörde](0047.md)
 - [§ 48 Verwaltungszusammenarbeit bei Dienstleistungserbringung](0048.md)
+
+### Abschnitt 2a Partielle Berufsausübung
+
+- [§ 48a Erlaubnis zur partiellen Berufsausübung](0048a.md)
+- [§ 48b Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung](0048b.md)
 
 ### Abschnitt 3 Aufgaben und Zuständigkeiten
 
@@ -116,9 +121,9 @@
 
 - [§ 63 Nichtanwendung des Berufsbildungsgesetzes](0063.md)
 - [§ 64 Fortgeltung der Berufsbezeichnung](0064.md)
+- [§ 64a Anspruch auf die Wahl einer anderen Berufsbezeichnung](0064a.md)
 - [§ 65 Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz](0065.md)
 - [§ 66 Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz](0066.md)
 - [§ 66a Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse](0066a.md)
 - [§ 67 Kooperationen von Hochschulen und Pflegeschulen](0067.md)
 - [§ 68 Evaluierung](0068.md)
-- [Anlage (zu § 41 Absatz 1 Satz 1)](anlage.md)

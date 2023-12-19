@@ -9,6 +9,7 @@
 | .............................................................................................................................................................................................................................................. |
 | hat in der Zeit vom .................................... bis ............................... regelmäßig an dem Anpassungslehrgang teilgenommen, der nach § 47 der Studien- und Prüfungsverordnung für Hebammen von der zuständigen Behörde festgelegt wurde. |
 | Ort, Datum |  |  |
-| .......... | (Stempel) |  |
-| .......... |  |  |
-| (Unterschrift(en) der durchführenden Institution(en)) |
+| ___________________ | (Stempel) |  |
+|  |  |  |
+| ___________________ |  |  |
+| (Unterschrift(en) oder qualifizierte elektronische Signatur(en)der durchführenden Institution(en)) |

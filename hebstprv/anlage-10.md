@@ -9,7 +9,8 @@
 | hat in der Zeit vom ................ bis ................ regelmäßig an dem Anpassungslehrgang teilgenommen, der nach den §§ 52 und 53 der Studien- und Prüfungsverordnung für Hebammen von der zuständigen Behörde festgelegt wurde. |
 | Das Abschlussgespräch hat sie/er bestanden/nicht bestanden. |
 | Ort, Datum |  |  |
-| .......... | (Stempel) |  |
-| .......... |  |  |
-| (Unterschrift(en) der durchführenden Institution(en)) |
+| ___________________ | (Stempel) |  |
+|  |  |  |
+| ___________________ |  |  |
+| (Unterschrift(en) oder qualifizierte elektronische Signatur(en)der durchführenden Institution(en)) |
 ________

@@ -10,7 +10,8 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     e) handeln die Pflegeprozessgestaltung mit den zu pflegenden Menschen aller Altersstufen und gegebenenfalls ihren Bezugspersonen aus, setzen gesicherte Pflegemaßnahmen ein und evaluieren gemeinsam die Wirksamkeit der Pflege,
     f) nutzen analoge und digitale Pflegedokumentationssysteme, um ihre Pflegeprozessentscheidungen in der Pflege von Menschen aller Altersstufen selbständig und im Pflegeteam zu evaluieren,
     g) entwickeln mit Menschen aller Altersstufen und ihren Bezugspersonen und dem sozialen Netz altersentsprechende lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
-    h) stimmen die Pflegeprozessgestaltung auf die unterschiedlichen ambulanten und stationären Versorgungskontexte ab.
+    h) stimmen die Pflegeprozessgestaltung auf die unterschiedlichen ambulanten und stationären Versorgungskontexte ab,
+    i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
   2. Pflegeprozesse und Pflegediagnostik bei Menschen aller Altersstufen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und evaluieren unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
     Die Absolventinnen und Absolventen
     a) erheben, erklären und interpretieren pflegebezogene Daten von Menschen aller Altersstufen auch in komplexen gesundheitlichen Problemlagen anhand von pflege- und bezugswissenschaftlichen Erkenntnissen,
@@ -18,7 +19,7 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     c) stärken die Kompetenzen von Angehörigen im Umgang mit pflegebedürftigen Menschen aller Altersstufen und unterstützen und fördern die Familiengesundheit,
     d) erkennen Hinweiszeichen auf eine mögliche Gewaltausübung in der Versorgung von Menschen aller Altersstufen und reflektieren ihre Beobachtungen im therapeutischen Team,
     e) verfügen über ein integratives Verständnis von physischen, psychischen und psychosomatischen Zusammenhängen in der Pflege von Menschen aller Altersstufen,
-    f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin zu ausgewählten Aspekten in der Versorgung von Menschen aller Altersstufen.
+    f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin zu ausgewählten Aspekten in der Versorgung von Menschen aller Altersstufen unter Berücksichtigung auch von genderspezifischen Aspekten.
   3. Pflegeprozesse und Pflegediagnostik von Menschen aller Altersstufen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren.
     Die Absolventinnen und Absolventen
     a) pflegen, begleiten, unterstützen und beraten Menschen aller Altersstufen sowie deren Bezugspersonen in Phasen fortschreitender Demenz oder schwerer chronischer Krankheitsverläufe sowie am Lebensende,
@@ -42,7 +43,7 @@ I. Pflegeprozesse und Pflegediagnostik in akuten und dauerhaften Pflegesituation
     Die Absolventinnen und Absolventen
     a) wahren das Selbstbestimmungsrecht der zu pflegenden Menschen aller Altersstufen, insbesondere auch, wenn sie in ihrer Selbstbestimmungsfähigkeit eingeschränkt sind,
     b) unterstützen Menschen aller Altersstufen mit angeborener oder erworbener Behinderung bei der Wiederherstellung, Kompensation und Adaption eingeschränkter Fähigkeiten, um sie für eine möglichst selbständige Entwicklung, Lebensführung und gesellschaftliche Teilhabe zu befähigen,
-    c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer Assistenzsysteme zum Erhalt und zur Wiedererlangung der Alltagskompetenz von Menschen aller Altersstufen bei und reflektieren die Potenziale und Grenzen technischer Unterstützung,
+    c) tragen durch rehabilitative Maßnahmen und durch die Integration technischer und digitaler Assistenzsysteme zum Erhalt und zur Wiedererlangung der Alltagskompetenz von Menschen aller Altersstufen bei und reflektieren die Potenziale und Grenzen technischer und digitaler Unterstützung,
     d) fördern und gestalten die Koordination und Zusammenarbeit zwischen familialen Systemen sowie den sozialen Netzwerken und den professionellen Pflegesystemen in der pflegerischen Versorgung von Menschen aller Altersstufen,
     e) stimmen die Interaktion sowie die Gestaltung des Pflegeprozesses auf den individuellen Entwicklungsstand der zu pflegenden Menschen aller Altersstufen ab und unterstützen entwicklungsbedingte Formen der Krankheitsbewältigung.
 II. Kommunikation und Beratung personen- und situationsorientiert gestalten.
@@ -79,7 +80,7 @@ III. Intra- und interprofessionelles Handeln in unterschiedlichen systemischen K
     Die Absolventinnen und Absolventen
     a) beachten umfassend die Anforderungen der Hygiene und wirken verantwortlich an der Infektionsprävention in den unterschiedlichen pflegerischen Versorgungsbereichen mit,
     b) führen entsprechend den rechtlichen Bestimmungen eigenständig ärztlich veranlasste Maßnahmen der medizinischen Diagnostik und Therapie bei Menschen aller Altersstufen durch,
-    c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Menschen aller Altersstufen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen,
+    c) beobachten und interpretieren die mit einem medizinischen Eingriff bei Menschen aller Altersstufen verbundenen Pflegephänomene und Komplikationen auch in instabilen oder krisenhaften gesundheitlichen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
     d) unterstützen und begleiten zu pflegende Menschen aller Altersstufen umfassend auch bei invasiven Maßnahmen der Diagnostik und Therapie,
     e) schätzen chronische Wunden bei Menschen aller Altersstufen prozessbegleitend ein, versorgen sie verordnungsgerecht und stimmen die weitere Behandlung mit der Ärztin oder dem Arzt ab,
     f) vertreten die im Rahmen des Pflegeprozesses gewonnenen Einschätzungen zu Pflegediagnosen und erforderlichen Behandlungskonsequenzen bei Menschen aller Altersstufen in der interprofessionellen Zusammenarbeit.
@@ -110,7 +111,7 @@ V. Das eigene Handeln auf der Grundlage von wissenschaftlichen Erkenntnissen und
     Die Absolventinnen und Absolventen
     a) vertreten die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns kontinuierlich zu überprüfen und gegebenenfalls zu verändern,
     b) erschließen sich pflege- und bezugswissenschaftliche Forschungsergebnisse bezogen auf die Pflege von Menschen aller Altersstufen und bewerten sie hinsichtlich der Reichweite, des Nutzens, der Relevanz und des Umsetzungspotenzials,
-    c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen,
+    c) begründen und reflektieren das Pflegehandeln kontinuierlich auf der Basis von vielfältigen oder spezifischen pflegewissenschaftlichen und bezugswissenschaftlichen evidenzbasierten Studienergebnissen, Theorien, Konzepten und Modellen sowie gendermedizinischen Erkenntnissen,
     d) leiten aus beruflichen Erfahrungen in der pflegerischen Versorgung und Unterstützung von Menschen aller Altersstufen und ihren Angehörigen mögliche Fragen an Pflegewissenschaft und -forschung ab.
   2. Verantwortung für die Entwicklung (lebenslanges Lernen) der eigenen Persönlichkeit sowie das berufliche Selbstverständnis übernehmen.
     Die Absolventinnen und Absolventen

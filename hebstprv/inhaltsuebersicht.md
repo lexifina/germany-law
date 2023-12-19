@@ -71,6 +71,7 @@ und erforderliche Anpassungsmaßnahmen
 Abschnitt 1
 Verfahren
 | § 43 | Fristen |
+| § 43a | Erforderliche Unterlagen |
 | § 44 | Bescheide bei Feststellung wesentlicher Unterschiede |
 Abschnitt 2
 Anpassungsmaßnahmen
@@ -95,6 +96,15 @@ einem anderen Vertragsstaat oder einem gleichgestellten Staat
 | § 54 | Nachweise der Zuverlässigkeit |
 | § 55 | Nachweise der gesundheitlichen Eignung |
 | § 56 | Aktualität von Nachweisen |
+Abschnitt 5
+Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes
+| § 56a | Frist der Behörde für die Bestätigung des Antragseingangs |
+| § 56b | Erforderliche Unterlagen |
+| § 56c | Frist der Behörde für die Entscheidung über den Antrag |
+| § 56d | Erlaubnisurkunde |
+Abschnitt 6
+Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+| § 56e | Erforderliche Unterlagen |
 Teil 5
 Übergangs- und Schlussvorschriften
 | § 57 | Übergangsvorschriften zur fachschulischen Ausbildung |
@@ -107,7 +117,10 @@ Teil 5
 | Anlage 4 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
 | Anlage 5 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
 | Anlage 6 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
+| Anlage 6a | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger” |
 | Anlage 7 | Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“ |
 | Anlage 8 | Bescheinigung über die Teilnahme am Anpassungslehrgang |
 | Anlage 9 | Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“ |
 | Anlage 10 | Bescheinigung über die Teilnahme am Anpassungslehrgang |
+| Anlage 11 | Urkunde über die Erlaubnis zur partiellen Berufsausübung |
+| Anlage 12 | Fächerkatalog gemäß Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG über den theoretischen und fachlichen Unterricht |

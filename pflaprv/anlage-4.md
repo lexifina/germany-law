@@ -8,9 +8,10 @@ I. Pflegebedarfe von alten Menschen erkennen sowie Pflege- und Betreuungsprozess
     c) nutzen angemessene Messverfahren bei alten Menschen und beschreiben den Pflegebedarf unter Hinzuziehung von Pflegediagnosen,
     d) schätzen diverse Pflegeanlässe und den Pflegebedarf bei alten Menschen auch in instabilen gesundheitlichen und vulnerablen Lebenssituationen ein,
     e) handeln die Pflegeziele mit dem zu pflegenden alten Menschen und gegebenenfalls seinen Bezugspersonen aus, setzen gesicherte Pflegemaßnahmen ein und bewerten gemeinsam die Wirksamkeit der Pflege,
-    f) nutzen Pflegedokumentationssysteme, um ihre Pflegeprozessentscheidungen in der Pflege von alten Menschen selbständig und im Pflegeteam zu bewerten,
+    f) nutzen analoge und digitale Pflegedokumentationssysteme, um ihre Pflegeprozessentscheidungen in der Pflege von alten Menschen selbständig und im Pflegeteam zu bewerten,
     g) entwickeln mit alten Menschen, ihren Bezugspersonen und dem sozialen Netz altersentsprechende lebensweltorientierte Angebote zur Auseinandersetzung mit und Bewältigung von Pflegebedürftigkeit und ihren Folgen,
-    h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für alte Menschen ab.
+    h) stimmen die Pflegeprozessgestaltung auf spezifische ambulante und stationäre Versorgungskontexte für alte Menschen ab,
+    i) verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
   2. Pflege bei alten Menschen mit gesundheitlichen Problemlagen planen, organisieren, gestalten, durchführen, steuern und bewerten unter dem besonderen Fokus von Gesundheitsförderung und Prävention.
     Die Absolventinnen und Absolventen
     a) unterstützen, pflegen, begleiten und beraten auf der Grundlage der durchgeführten Untersuchungen alte Menschen bei gesundheitlichen und präventiven Maßnahmen auch in komplexen gesundheitlichen Problemlagen auf der Grundlage von pflege- und bezugswissenschaftlichen Erkenntnissen,
@@ -18,7 +19,7 @@ I. Pflegebedarfe von alten Menschen erkennen sowie Pflege- und Betreuungsprozess
     c) erkennen Belastungen durch Pflege, beraten und stärken die Kompetenzen von Angehörigen im Umgang mit dem pflegebedürftigen alten Menschen,
     d) erkennen Hinweiszeichen auf eine mögliche Gewaltausübung in der Versorgung von alten Menschen und reflektieren ihre Beobachtungen im therapeutischen Team,
     e) verfügen über ein integratives Verständnis von physischen, psychischen und psychosomatischen Zusammenhängen in der Pflege von alten Menschen,
-    f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu geriatrischen Fragestellungen.
+    f) erkennen Wissensdefizite und erschließen sich bei Bedarf selbständig neue Informationen zu den Wissensbereichen der Pflege, Gesundheitsförderung und Medizin, insbesondere zu geriatrischen Fragestellungen unter Berücksichtigung auch von genderspezifischen Aspekten.
   3. Pflegebedarfe von alten Menschen erkennen und Pflege von alten Menschen in hoch belasteten und kritischen Lebenssituationen verantwortlich planen, organisieren, gestalten, durchführen, steuern und bewerten.
     Die Absolventinnen und Absolventen
     a) pflegen, begleiten, unterstützen und beraten alte Menschen sowie deren Bezugspersonen bei Demenz, psychischen Krisen und gerontopsychiatrischen Erkrankungen,
@@ -39,13 +40,13 @@ I. Pflegebedarfe von alten Menschen erkennen sowie Pflege- und Betreuungsprozess
     Die Absolventinnen und Absolventen
     a) erheben soziale, familiale und biografische Informationen sowie Unterstützungsmöglichkeiten durch Bezugspersonen und soziale Netzwerke bei alten Menschen und identifizieren Ressourcen und Herausforderungen in der Lebens- und Entwicklungsgestaltung,
     b) entwickeln gemeinsam mit alten Menschen mögliche Angebote zur sozialen und kulturellen Teilhabe und unterstützen diese,
-    c) berücksichtigen bei der Planung und Gestaltung von Alltagsaktivitäten die Bedürfnisse und Erwartungen, die kulturellen Kontexte sowie die sozialen Lagen und die Entwicklungsphase von alten Menschen,
+    c) berücksichtigen bei der Planung und Gestaltung von Alltagsaktivitäten die diversen Bedürfnisse und Erwartungen, die kulturellen und religiösen Kontexte sowie die sozialen Lagen und die Entwicklungsphase von alten Menschen,
     d) beziehen freiwillig Engagierte zur Unterstützung und Bereicherung der Lebensgestaltung in die Versorgungsprozesse von alten Menschen ein.
   6. Entwicklung und Autonomie in der Lebensspanne fördern.
     Die Absolventinnen und Absolventen
     a) wahren das Selbstbestimmungsrecht alter Menschen mit Pflegebedarf, insbesondere auch, wenn sie in ihrer Selbstbestimmungsfähigkeit eingeschränkt sind,
     b) unterstützen alte Menschen mit angeborener oder erworbener Behinderung bei der Wiederherstellung, Kompensation und Adaption eingeschränkter Fähigkeiten, um sie für eine möglichst selbständige Entwicklung, Lebensführung und gesellschaftliche Teilhabe zu befähigen,
-    c) tragen durch rehabilitative Maßnahmen bei alten Menschen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei,
+    c) tragen durch die Integration technischer und digitaler Assistenzsysteme und durch rehabilitative Maßnahmen bei alten Menschen zum Erhalt und zur Wiedererlangung von Alltagskompetenz bei,
     d) fördern und gestalten die Zusammenarbeit zwischen familialen Systemen sowie den sozialen Netzwerken und den professionellen Pflegesystemen in der pflegerischen Versorgung von alten Menschen,
     e) stimmen die Zusammenarbeit der Beteiligten sowie die Gestaltung des Pflegeprozesses auf den individuellen Entwicklungsstand des zu pflegenden alten Menschen ab und unterstützen entwicklungsbedingte Formen der Krankheitsbewältigung.
 II. Kommunikation und Beratung personen- und situationsorientiert gestalten.
@@ -81,7 +82,7 @@ III. Intra- und interprofessionelles Handeln in unterschiedlichen systemischen K
     Die Absolventinnen und Absolventen
     a) beachten umfassend die Anforderungen der Hygiene und wirken verantwortlich an der Infektionsprävention in den unterschiedlichen pflegerischen Versorgungsbereichen mit,
     b) führen entsprechend den rechtlichen Bestimmungen eigenständig ärztlich veranlasste Maßnahmen der medizinischen Diagnostik und Therapie bei alten Menschen durch,
-    c) beobachten und interpretieren die mit regelmäßig vorkommenden medizinischen Eingriffen und Untersuchungen bei alten Menschen verbundenen Pflegephänomene und Komplikationen, auch in instabilen oder krisenhaften gesundheitlichen Situationen,
+    c) beobachten und interpretieren die mit regelmäßig vorkommenden medizinischen Eingriffen und Untersuchungen bei alten Menschen verbundenen Pflegephänomene und Komplikationen, auch in instabilen oder krisenhaften gesundheitlichen Situationen unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
     d) unterstützen und begleiten zu pflegende alte Menschen umfassend auch bei invasiven Maßnahmen der Diagnostik und Therapie,
     e) schätzen chronische Wunden bei alten Menschen prozessbegleitend ein, versorgen sie verordnungsgerecht und stimmen die weitere Behandlung mit der Ärztin oder dem Arzt ab,
     f) vertreten die im Rahmen des Pflegeprozesses gewonnenen Einschätzungen zum Pflegebedarf und erforderlichen Behandlungskonsequenzen bei alten Menschen in der interprofessionellen Zusammenarbeit.
@@ -89,7 +90,7 @@ III. Intra- und interprofessionelles Handeln in unterschiedlichen systemischen K
     Die Absolventinnen und Absolventen
     a) übernehmen Mitverantwortung in der interdisziplinären Versorgung und Behandlung von alten Menschen und unterstützen die Kontinuität an interdisziplinären und institutionellen Schnittstellen,
     b) bringen sowohl die Perspektive der Betroffenen als auch die pflegefachliche Sichtweise in die interprofessionelle Kommunikation ein,
-    c) bearbeiten interprofessionelle Konflikte in einem gemeinsamen Aushandlungsprozess auf Augenhöhe,
+    c) bearbeiten interprofessionelle Konflikte in einem gemeinsamen Aushandlungsprozess auf Augenhöhe und beteiligen sich an der Entwicklung und Umsetzung einrichtungsbezogener Konzepte zum Schutz vor Gewalt,
     d) koordinieren die Pflege von alten Menschen in verschiedenen Versorgungskontexten und organisieren Termine sowie berufsgruppenübergreifende Leistungen,
     e) koordinieren die integrierte Versorgung von chronisch kranken alten Menschen in der Primärversorgung,
     f) bewerten den gesamten Versorgungsprozess gemeinsam mit dem therapeutischen Team im Hinblick auf Orientierung am Bewohner, Klienten, Patienten und auf seine Partizipation.
@@ -103,7 +104,7 @@ IV. Das eigene Handeln auf der Grundlage von Gesetzen, Verordnungen und ethische
   2. Versorgungskontexte und Systemzusammenhänge im Pflegehandeln berücksichtigen und dabei ökonomische und ökologische Prinzipien beachten.
     Die Absolventinnen und Absolventen
     a) üben den Beruf im Rahmen der gesetzlichen Vorgaben sowie unter Berücksichtigung ihrer ausbildungs- und berufsbezogenen Rechte und Pflichten eigenverantwortlich aus,
-    b) kennen den Einfluss gesamtgesellschaftlicher Veränderungen, ökonomischer Anforderungen sowie epidemiologischer und demografischer Entwicklungen auf die Versorgungsstrukturen,
+    b) kennen den Einfluss gesamtgesellschaftlicher Veränderungen, ökonomischer Anforderungen, technologischer sowie epidemiologischer und demografischer Entwicklungen auf die Versorgungsstrukturen,
     c) erkennen die Funktion der Gesetzgebung im Gesundheits- und Sozialbereich zur Sicherstellung des gesellschaftlichen Versorgungsauftrags in stationären, teilstationären und ambulanten Handlungsfeldern,
     d) überblicken auf der Grundlage eines ausreichenden Wissens ihre Handlungs- und Entscheidungsspielräume in unterschiedlichen Abrechnungssystemen,
     e) wirken an der Umsetzung von Konzepten und Leitlinien zur ökonomischen und ökologischen Gestaltung der Einrichtung mit.
@@ -112,10 +113,10 @@ V. Das eigene Handeln auf der Grundlage von wissenschaftlichen Erkenntnissen und
     Die Absolventinnen und Absolventen
     a) vertreten die Notwendigkeit, die Wissensgrundlagen des eigenen Handelns kontinuierlich zu überprüfen und gegebenenfalls zu verändern, und übernehmen Eigeninitiative und Verantwortung für das eigene Lernen,
     b) reflektieren die Bedeutung ihres Berufs im Kontext von gesellschaftlichen, soziodemografischen und ökonomischen Veränderungen,
-    c) handeln auf der Grundlage pflege- und bezugswissenschaftlicher Erkenntnisse bezogen auf die Pflege von alten Menschen und reflektieren und bewerten ihr Pflegehandeln hinsichtlich möglicher Verbesserungen.
+    c) handeln auf der Grundlage pflege- und bezugswissenschaftlicher Erkenntnisse sowie von gendermedizinischen Erkenntnissen bezogen auf die Pflege von alten Menschen und reflektieren und bewerten ihr Pflegehandeln hinsichtlich möglicher Verbesserungen.
   2. Verantwortung für die Entwicklung (lebenslanges Lernen) der eigenen Persönlichkeit sowie das berufliche Selbstverständnis übernehmen.
     Die Absolventinnen und Absolventen
-    a) bewerten das lebenslange Lernen als ein Element der persönlichen und beruflichen Weiterentwicklung und übernehmen Eigeninitiative und Verantwortung für das eigene Lernen,
+    a) bewerten das lebenslange Lernen als ein Element der persönlichen und beruflichen Weiterentwicklung und übernehmen Eigeninitiative und Verantwortung für das eigene Lernen und nutzen hierfür auch moderne Informations- und Kommunikationstechnologien,
     b) nehmen drohende Über- oder Unterforderungen frühzeitig wahr, erkennen die notwendigen Veränderungen am Arbeitsplatz und/oder des eigenen Kompetenzprofils und leiten daraus entsprechende Handlungsinitiativen ab,
     c) setzen Strategien zur Kompensation und Bewältigung unvermeidbarer beruflicher Belastungen gezielt ein und nehmen Unterstützungsangebote frühzeitig wahr oder fordern diese aktiv ein,
     d) reflektieren ihre persönliche Entwicklung als professionell Pflegende und entwickeln ein eigenes Pflegeverständnis sowie ein berufliches Selbstverständnis unter Berücksichtigung berufsethischer und eigener ethischer Überzeugungen,

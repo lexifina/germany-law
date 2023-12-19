@@ -81,6 +81,7 @@
 ### Abschnitt 1 Verfahren
 
 - [§ 43 Fristen](0043.md)
+- [§ 43a Erforderliche Unterlagen](0043a.md)
 - [§ 44 Bescheide bei Feststellung wesentlicher Unterschiede](0044.md)
 
 ### Abschnitt 2 Anpassungsmaßnahmen nach § 58 des Hebammengesetzes
@@ -104,6 +105,17 @@
 - [§ 55 Nachweise der gesundheitlichen Eignung](0055.md)
 - [§ 56 Aktualität von Nachweisen](0056.md)
 
+### Abschnitt 5 Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes
+
+- [§ 56a Frist der Behörde für die Bestätigung des Antragseingangs](0056a.md)
+- [§ 56b Erforderliche Unterlagen](0056b.md)
+- [§ 56c Frist der Behörde für die Entscheidung über den Antrag](0056c.md)
+- [§ 56d Erlaubnisurkunde](0056d.md)
+
+### Abschnitt 6 Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+- [§ 56e Erforderliche Unterlagen](0056e.md)
+
 ## Teil 5 Übergangs- und Schlussvorschriften
 
 - [§ 57 Übergangsvorschriften zur fachschulischen Ausbildung](0057.md)
@@ -117,7 +129,10 @@
 - [Anlage 4 (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-4.md)
 - [Anlage 5 (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-5.md)
 - [Anlage 6 (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-6.md)
+- [Anlage 6a (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“](anlage-6a.md)
 - [Anlage 7 (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“](anlage-7.md)
 - [Anlage 8 (zu § 47 Absatz 3)Bescheinigung über die Teilnahme am Anpassungslehrgang](anlage-8.md)
 - [Anlage 9 (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“](anlage-9.md)
 - [Anlage 10 (zu § 53 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang](anlage-10.md)
+- [Anlage 11 (zu § 56d)Urkunde über die Erlaubnis zur partiellen Berufsausübung](anlage-11.md)
+- [Anlage 12 (zu § 3 Absatz 1)Fächerkatalog gemäß Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG über den theoretischen und fachlichen Unterricht](anlage-12.md)

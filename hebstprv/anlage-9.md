@@ -8,7 +8,8 @@
 | ............................................................................................................................................................................................................................................. |
 | hat am ........................... die staatliche Kenntnisprüfung nach den §§ 48 bis 51 der Studien- und Prüfungsverordnung für Hebammen bestanden/nicht bestanden. |
 | Ort, Datum |  |  |
-| .......... | (Stempel) |  |
-| .......... |  |  |
-| (Unterschrift der Vorsitzenden des Prüfungsausschusses) |
+| ___________________ | (Stempel) |  |
+|  |  |  |
+| ___________________ |  |  |
+| (Unterschrift oder qualifizierte elektronische Signaturder Vorsitzenden des Prüfungsausschusses) |
 ________

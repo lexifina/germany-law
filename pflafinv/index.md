@@ -38,6 +38,7 @@
 ## Teil 3 Verarbeitung personenbezogener Daten; Inkrafttreten
 
 - [§ 27 Verarbeitung personenbezogener Daten](0027.md)
+- [§ 27a Datenverarbeitung nach § 62 des Pflegeberufegesetzes](0027a.md)
 - [§ 28 Inkrafttreten](0028.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne Mehrkosten der Ausbildungsvergütung](anlage-1.md)

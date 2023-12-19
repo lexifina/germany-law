@@ -2,13 +2,14 @@
 
 I. Wissenschaftsbasierte Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation auch von hochkomplexen Pflegeprozessen bei Menschen aller Altersstufen.
   Die Absolventinnen und Absolventen
-  1. erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren,
+  1. erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
   2. übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen mit besonderen gesundheitlichen Problemlagen unter Berücksichtigung von wissenschaftlich fundierten Ansätzen der Gesundheitsförderung, Prävention und Kuration,
   3. übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen in hochbelasteten und kritischen Lebens- und Pflegesituationen auch bei hochkomplexen Pflegebedarfen, spezifischen Klientengruppen und besonderen Verlaufsdynamiken wissenschaftsbasiert und fallorientiert,
   4. übernehmen die Organisation und Durchführung von Interventionen in lebensbedrohlichen Krisen- und in Katastrophensituationen bis zum Eintreffen der Ärztin oder des Arztes,
   5. fördern die Entwicklung und Autonomie der zu pflegenden Menschen unter Einbeziehung ihrer familialen Kontexte, Lebenslagen und Lebenswelten auf der Basis eines breiten pflege- und bezugswissenschaftlichen Wissens,
   6. unterstützen die zu pflegenden Menschen bei der Entwicklung von Alltagskompetenzen und bei der Lebensgestaltung unter Berücksichtigung eines vertieften pflege- und bezugswissenschaftlichen Wissens,
-  7. analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse.
+  7. analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse,
+  8. verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 II. Personen- und situationsorientierte Kommunikation und Beratung von zu pflegenden Menschen aller Altersstufen und ihren Bezugspersonen.
   Die Absolventinnen und Absolventen
   1. nutzen ein vertieftes und kritisches pflege- und bezugswissenschaftliches Wissen in hochkomplexen Kommunikations-, Interaktions- und Beratungssituationen,
@@ -18,7 +19,7 @@ II. Personen- und situationsorientierte Kommunikation und Beratung von zu pflege
 III. Verantwortliche Gestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten und Weiterentwicklung der gesundheitlichen und pflegerischen Versorgung von Menschen aller Altersstufen.
   Die Absolventinnen und Absolventen
   1. konzipieren und gestalten die pflegerische Arbeitsorganisation in qualifikationsheterogenen Pflegeteams und in unterschiedlichen Versorgungssettings auf der Basis gesicherter Forschungsergebnisse,
-  2. führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens durch,
+  2. führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens sowie gendermedizinischer Erkenntnisse durch,
   3. analysieren wissenschaftlich begründet die derzeitigen pflegerischen/gesundheitlichen Versorgungsstrukturen, die Steuerung von Versorgungsprozessen und Formen von intra- und interprofessioneller Zusammenarbeit und reflektieren diese kritisch,
   4. wirken an der Weiterentwicklung und Implementierung von wissenschaftsorientierten, innovativen Lösungsansätzen der Zusammenarbeit von Berufsgruppen und der Steuerung von Versorgungsprozessen in unterschiedlichen Versorgungsbereichen und über die Versorgungsbereiche hinweg mit.
 IV. Reflexion und Begründung des eigenen Handelns vor dem Hintergrund von Gesetzen, Verordnungen, ethischen Leitlinien und Mitwirkung an der Entwicklung und Implementierung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards.
@@ -28,7 +29,7 @@ IV. Reflexion und Begründung des eigenen Handelns vor dem Hintergrund von Geset
   3. beteiligen sich an gesellschaftlichen Aushandlungsprozessen zur Pflege- und Versorgungsqualität
 V. Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissenschaftlichen Erkenntnissen und berufsethischen Werthaltungen und Einstellungen sowie Beteiligung an der Berufsentwicklung.
   Die Absolventinnen und Absolventen
-  1. erschließen und bewerten gesicherte Forschungsergebnisse und wählen diese für den eigenen Handlungsbereich aus,
+  1. erschließen und bewerten gesicherte Forschungsergebnisse einschließlich gendermedizinischer Erkenntnisse und wählen diese für den eigenen Handlungsbereich aus,
   2. nutzen forschungsgestützte Problemlösungen und neue Technologien für die Gestaltung von Pflegeprozessen,
   3. gestalten die vorbehaltenen Tätigkeiten verantwortlich aus und positionieren pflegewissenschaftliche Erkenntnisse im intra- und interdisziplinären Team,
   4. identifizieren eigene und teamübergreifende berufsbezogene Fort- und Weiterbildungsbedarfe,

@@ -102,6 +102,7 @@
 - [§ 57 Anpassungsmaßnahmen](0057.md)
 - [§ 58 Eignungsprüfung oder Anpassungslehrgang](0058.md)
 - [§ 59 Kenntnisprüfung oder Anpassungslehrgang](0059.md)
+- [§ 59a Erlaubnis zur partiellen Berufsausübung](0059a.md)
 
 ## Teil 5 Erbringen von Dienstleistungen
 
@@ -111,6 +112,7 @@
 - [§ 60 Dienstleistungserbringende Personen](0060.md)
 - [§ 61 Meldung der Dienstleistungserbringung](0061.md)
 - [§ 62 Meldung wesentlicher Änderungen](0062.md)
+- [§ 62a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung](0062a.md)
 
 ### Abschnitt 2 Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in anderen gleichgestellten Staaten
 

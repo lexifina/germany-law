@@ -9,7 +9,8 @@
 |  |
 | hat am ..................................... die staatliche Eignungsprüfung nach den §§ 45 und 46 der Studien- und Prüfungsverordnung für Hebammen bestanden/nicht bestanden. |
 | Ort, Datum |  |  |
-| .......... | (Stempel) |  |
-| .......... |  |  |
-| (Unterschrift der Vorsitzenden des Prüfungsausschusses) |
+| ___________________ | (Stempel) |  |
+|  |  |  |
+| ___________________ |  |  |
+| (Unterschrift oder qualifizierte elektronische Signatur der Vorsitzenden des Prüfungsausschusses) |
 ________

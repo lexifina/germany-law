@@ -9,4 +9,4 @@
 | Ort, Datum |  |  |
 | .......... | (Siegel) |  |
 | .......... |  |  |
-| (Unterschrift) |  |  |
+| (Unterschrift oder qualifizierte elektronische Signatur) |  |  |
