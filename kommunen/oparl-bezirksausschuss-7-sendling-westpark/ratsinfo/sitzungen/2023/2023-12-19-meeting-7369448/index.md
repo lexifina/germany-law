@@ -1,0 +1,178 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2023-12-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7369448
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7369448
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-11
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Parksituation
+- TOP 6.2.: Beschwerde Schikane Parklizenzangebiet Nördliche Passauerstr./Eichendorffplatz
+- TOP 6.3.: im neuen Parklizenzgebiet werden Schilder mitten in den Gehweg gepflanzt
+- TOP 6.4.: Fahrradweg Brücke Westendstr.
+- TOP 6.5.: Verkehrssituation Südpark
+- TOP 6.6.: Extreme Lärmbelästigung-City Parkplatz Siegenburger Straße.
+- TOP 6.7.: Autoentfernung
+- TOP 6.8.: Straßenreinigung Sachsenkamstr.
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Erweiterung des erweiterten Vorstands um fraktionslose Mitglieder
+- TOP 7.2.: Änderungen in der UA-Besetzung
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Mittagsbetreuung Mittagsinsel e.V.
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget IKF Integrative Kinderförderung GmbH „Cool Strong Kids vom 25.01.2024 – 29.02.2024“ 2.400,00 € / AZ: 0262.0-7-0456
+- TOP 11.: Anträge
+- TOP 11.1.: Maßnahmen gegen Gänse im Westpark
+- TOP 11.2.: Narzissen im Westpark – westlicher Teil
+- TOP 11.3.: Gewofag Lastenräder für Sendling
+- TOP 11.4.: Sachsenkamstr. Tempo 30
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung UA-BSU
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung P und G
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Bericht des Vorsitzenden 2023-12
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hansastr.
+- TOP 15.2.: Bauvorhaben Euckenstr.
+- TOP 15.3.: Bauvorhaben Gerty-Spies-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 18.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 7 Sendling-Westpark Umstufung einer Teilstrecke der Welserstraße
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Beleuchtung von Gehwegen an der Oberfläche des Luise- Kiesselbach-Platzes
+- TOP 33.2.: Anbringung eines klappbaren Wickeltisches in einer Toilettenkabine der Toilettenanlage am Wasserspielplatz (Westpark Ostteil)
+- TOP 33.3.: Verbreiterung des Radwegs Gilmstraße
+- TOP 33.4.: Baumentfernungen
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Tram-Westtangente
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Rattenbefälle - Problematik Mülltonnen S-Bahnhof Harras Albert-Roßhaupter-Str.
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben 20.11-26.11.23
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Erhöhung der Verkehrssicherheit in der Einhornallee zwischen Luise- Kiesselbachplatz und Elmauer Str.
+- TOP 40.2.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 40.3.: Antrag auf Taktverdichtung der Buslinie 63er und dem Schienenersatzverkehr für die U3 und U6
+- TOP 40.4.: Jahresdrehgenehmigung 2024 "Aktenzeichen XY ... ungelöst"
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Fristverlängerungen
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Fristverlängerung GWG-Abriss- und Neubaugebiet Garmischer Straße Geeignet für Familienzentrum
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Zugang GeoPortal München
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Mehrjahresinvestitionsprogramm (MIP) 2023 - 2027 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 58.2.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung
+- TOP 60.2.: Ausnahmezulassung Reinigung Verkehrsanlagen
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Aktualisierte Übersicht über Unterkünfte für Geflüchtete und Wohnungslose
+- TOP 62.2.: (U) Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Planung und Neueröffnung an den Standorten • Anton-Ditt-Bogen 5 • Ottobrunner Straße 28g • Schultheißstraße (Planungsgebiet Muttenthalerstraße) Vorübergehender Aufbau einer Zeltstadt auf dem Gelände Messe-München • Zeltstadt 3 Verlängerung der bestehenden Unterkunft für Geflüchtete am Standort • Ottobrunner Straße 28h Verlängerung bestehender Hotels als Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 Verlängerung bestehender Leichtbauhallen als Unterkünfte für Geflüchtete an den Standorten • Maria-Goeppert-Mayer-Straße 21 • Neuherbergstraße 24 • Gerty-Spies-Straße 9 • Hansastraße 55 • Kronstadter Straße 36 • Hachinger-Bach-Straße 19 Verlängerung der dezentralen Erstanlaufstelle für Geflüchtete aus der Ukraine am Standort • Dachauer Straße 122 Eröffnung der Übergangswohnheime durch die Regierung von Oberbayern an den Standorten • Bachbauernstraße 4 • Winfriedstraße 3a / Christoph-Rapparini-Bogen 6
+- TOP 62.3.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 62.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 62.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 62.6.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2023 – 2027 Einzelplan 4 / Sozialbereich
+- TOP 62.7.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2023 – 2027 Einzelplan 4 / Jugendamtsbereich
+- TOP 62.8.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Strom-Projekt Cimbernstraße
+- TOP 63.2.: Flyer Fernwärme-Projekt Garmischer Straße
+- TOP 63.3.: Mehrjahresinvestitionsprogramms 2023 – 2027
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Neubau Mobilfunkstandort
+- TOP 12.5.1.: Protokoll MuW
+- TOP 13.7.1.: Bericht von der Kinder- und Jugendversammlung
+- TOP 13.7.2.: KuJ-V 23 - Status der Anträge 2023-12-05
+- TOP 13.7.3.: Zusage-Verlängerung-Öffnungszeiten-TATZ.
+- TOP 10.2.: (E) Stadtbezirksbudget SV München West e.V. (ehem. FC Ludwigsvorstadt München e.V.) „Ausstattung aller Trainer und Betreuer für die neu formierte Jugendabteilung vom 09.01.2024 – 31.03.2024“ 3.800,00 € / AZ: 0262.0-7-0457
+- TOP 37.2.: Genehmigung "Winterdorf unterm Maibaum"
+- TOP 6.9.: Lärmbelästigung durch Weihnachtsmarkt
+- TOP 53.1.: Bescheid, Luise-Kiesselbach-Platz, Winterdorf unterm Maibaum
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat Grundschule an der Werdenfelsstraße „Zeitgeister Garten Frühjahr/ Sommer 2024“ 14.323,50 € / AZ: 0262.0-7-0458
+- TOP 12.6.2.: Einladung P+G
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten
+- TOP 2.1.: Dringlichkeitsantrag Hr Utz - Eilantrag MessungLautstärkeChristkindlmarkt
+- TOP 13.9.1.: Wahl des Mieterbeirats ungültig
+- TOP 13.13.1.: Bericht von der BA-Sondersitzung
+- TOP 18.2.: BSL Bänke im Westpark
