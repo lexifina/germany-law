@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2023-12-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7253441
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7253441
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 28.11.2023
+- TOP 1.4.: Fragen von anwesenden Bürgerinnen und Bürgern sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Abschrägung aller Bordsteine an Straßenecken und Übergängen
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Levelingstr. 19 - Neubau eines gewerblich genutzten Gebäudes mit Tiefgarage - VORBESCHEID
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Bordsteinabsenkung an der Fehwiesenstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Zustand des Verbindungswegs zwischen Fehwiesenstr. und Echardinger Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Installation eines Rot-Blitzer für den Innbrucker Ring in südliche Richtung an der Kreuzung Grafinger Str. / Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Verkürzung des Halteverbots und Schaffung von neuen Parkplätzen am Innsbrucker Ring; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: Verlegung des Halteverbots in der Josephsburgstr. 73 wegen dem Lieferverkehr an der Postfiliale, Anhörung des Mobilitätsreferats
+- TOP 3.2.6.: Piusstraße (Westlicher Teil Höhe Einmündung Erika-Köth-Straße); Absolutes Haltverbot teils mit Zusatz „Feuerwehrzufahrt", Anhörung des Mobilitätsreferats
+- TOP 3.2.7.: St.-Veit-Straße/Josephsburgstraße: Verkehrszeichen Verkehrshelfer anbringen und Einsatz von Schulweghelfern ermöglichen, Antrag der Fraktion CSU
+- TOP 3.2.8.: Nachfrage zur Einschränkung des Durchgangsverkehrs und zur besseren Parkraumüberwachung in der Hansjakobstr., Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: digitale Abschlussveranstaltung Sommerstraße 2023, Vorschläge zu möglichen Standorten - vertagt aus der Plenumssitzung vom 28.11.2023 -
+- TOP 3.3.2.: Abschluss Sommerstraße 2023 und Aufruf für 2024
+- TOP 3.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget C.O.N. SONANZA e.V. Jahresabschluss- und Weihnachtskonzert am 16.12.2023 2.000,00 € / Az. 0262.0-14-0385
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hansjakobstr. 1
+- TOP 3.6.2.: Hansjakobstr. 70
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Erstellung der öffentlichen Grünfläche Baumkirchen Mitte
+- TOP 4.1.2.: Deutsche Bahn am Ostbahnhof soll sich an das geltende Tierschutzgesetz halten
+- TOP 4.1.3.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 4.1.4.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 4.1.5.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 4.1.6.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 4.1.7.: Beginn der Bebauung des Ackers an der Truderingerstr.
+- TOP 4.1.8.: Zweckentfremdung von Wohnraum
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing": Teilnahme am Modellprojekt "Smart Cities Smart Regions - Kommunale Digitalisierungsstrategien für Städtebau und Mobilität der Zukunft" des Bayerischen Staatsministeriums für Wohnen, Bau und Verkehr - Bekanntgabe der Ergebnisse
+- TOP 4.2.2.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 4.2.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht - Bekanntgabe -
+- TOP 4.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.5.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.2.6.: Gewerbeband Steinhausen Voglweideplatz (östlich) Bundesautobahn 94 (BAB 94) (südlich) Bahngleisanlagen (nördlich, westlich) Entwicklungsperspektive - Rahmenplanung Steinhausen - Verkehrsuntersuchung Stadtbezirk 13 - Bogenhausen
+- TOP 4.2.7.: Siedlungsentwicklung und Infrastrukturversorgungskonzept 2022-2026
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: FC Phönix München e. V. Investitionszuschuss für den Umbau eines Tennenplatzes in einen Kunstrasenplatz, Erneuerung des Ballfangzauns und der Flutlichtanlage auf dem Grundstück Flst. 265/13, Gemarkung Berg am Laim an der Langkofelstr. 3, 81671 München Vertragsverlängerung
+- TOP 4.3.2.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 4.3.3.: Ergebnisse 18. Jetzt - BA Beteiligung
+- TOP 4.4.: Bereich Soziales, Integration, Senioren, Familie
+- TOP 4.4.1.: (U) Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Planung und Neueröffnung an den Standorten • Anton-Ditt-Bogen 5 • Ottobrunner Straße 28g • Schultheißstraße (Planungsgebiet Muttenthalerstraße) Vorübergehender Aufbau einer Zeltstadt auf dem Gelände Messe-München • Zeltstadt 3 Verlängerung der bestehenden Unterkunft für Geflüchtete am Standort • Ottobrunner Straße 28h Verlängerung bestehender Hotels als Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 Verlängerung bestehender Leichtbauhallen als Unterkünfte für Geflüchtete an den Standorten • Maria-Goeppert-Mayer-Straße 21 • Neuherbergstraße 24 • Gerty-Spies-Straße 9 • Hansastraße 55 • Kronstadter Straße 36 • Hachinger-Bach-Straße 19 Verlängerung der dezentralen Erstanlaufstelle für Geflüchtete aus der Ukraine am Standort • Dachauer Straße 122 Eröffnung der Übergangswohnheime durch die Regierung von Oberbayern an den Standorten • Bachbauernstraße 4 • Winfriedstraße 3a / Christoph-Rapparini-Bogen 6
+- TOP 4.4.2.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.4.3.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.4.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 4.4.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Novellierung der Baumschutzverordnung Perspektiven zur weiteren Stärkung des Baumschutzes
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 1.2.1: Protokolle der Sitzung vom 28.11.2023
+- TOP 1.1.2.: Nachtrag TOP 3.6.3: Großvenediger Str. 39a
+- TOP 1.2.1.: Protokoll der Sitzung vom 28.11.2023
+- TOP 3.6.3.: Großvenediger Str. 39a
+- TOP 1.1.3.: Nachtrag TOP 3.2.9: Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" - Aufhebung der Sanierungssatzung, Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 18.01.2023
+- TOP 1.1.4.: Nachtrag TOP 3.4.1: Geplanter Beherbergungsbetrieb in der Englmannstr. 1
+- TOP 3.2.9.: Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" - Aufhebung der Sanierungssatzung, Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 18.01.2023
+- TOP 3.4.1.: Geplanter Beherbergungsbetrieb in der Englmannstr. 1
+- TOP 1.1.5.: Nachtrag TOP 3.6.4: Jella-Lepman-Str. 8
+- TOP 3.6.4.: Jella-Lepman-Str. 8
+- TOP 1.1.6.: Nachtrag TOP 3.5.2: (E) Stadtbezirksbudget Initiative Ad Parnassum Uraufführung des Werkzyklus „Ad Parnassum“ am 04.01.2024 3.173,00 € / Az. 0262.0-14-0386
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative Ad Parnassum Uraufführung des Werkzyklus „Ad Parnassum“ am 04.01.2024 3.173,00 € / Az. 0262.0-14-0386
