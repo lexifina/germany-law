@@ -1,0 +1,68 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2023-12-19T17:30:00+01:00
+- Ende: 2023-12-19T19:51:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfol16Fbrqix1F2MOeIllOg
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1604
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWroHafMOEeJJV8mUVgmZDT9RN00HLlKFDm7xu8FibRY/Bekanntmachung_Rat_19.12.2023.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYTdEFJIF7jYVCEGfdWfc3XthcV6tgNGPfwBaujwDGq5/Oeffentliches_Beschlussprotokoll_Rat_19.12.2023.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 05.10.2023
+- TOP 3.: Bericht des Bürgermeisters
+- TOP -: Verweisungsbeschlüsse
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Elternvertretung Primarbereich und Schülervertretungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.3: Antrag der Fraktion Bündnis 90/Die Grünen auf Erweiterung des Ausschusses für Kindergärten, Schulen und Bildung um drei Sitze - mehrheitlich mit 27 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 4.4: Einstellung und Berufung der Gleichstellungsbeauftragten - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Organisationsänderung der Verwaltung - mehrheitlich mit 23 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.2: Antrag der CDW/W-Fraktion auf Optimierung der Fahrradstraße im Ortsteil Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Antrag der SPD-Fraktion auf Umrüstung der Flutlichtanlagen auf LED-Beleuchtung an allen Sportanlagen der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.4: Antrag der SPD-Fraktion auf Einrichtung eines Kinderspielplatzes im Wohngebiet „Zum Gruthügel“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.5: Antrag der CDU-Fraktion auf Übernahme der Überwachung des fließenden Verkehrs durch die Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.6: Antrag der CDU-Fraktion auf Überprüfung der innerorts zugelassenen Verkehrsgeschwindigkeiten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.7: Antrag der CDU-Fraktion auf Freilaufflächen für Hunde - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.8: Antrag der CDU-Fraktion auf Balkonkraftwerke für Liegenschaften der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.9: Delegationsreise in die Partnergemeinde Stawiguda (Polen) - nicht gefasst:
+- TOP 5.10: Antrag der SPD-Fraktion auf Einrichtung eines verkehrsberuhigten Bereichs an der Klosterstraße in Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.11: Antrag der FDP-Fraktion auf Prüfung eines Ausbaus des Bereichs zwischen der Ruller Straße und der Straße Im Vogelpohle zu einem offiziellen Park- und Mitfahrparkplatz - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.12: Antrag der FDP-Fraktion auf Prüfung der Teilnahme am Projekt "Digitale Dörfer Niedersachsen" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.13: Antrag der FDP-Fraktion auf Prüfung einer Überwachung des fließenden Verkehrs - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Schulangelegenheiten
+- TOP 6.1: Öffentlich-rechtliche Vereinbarung und Erstattungsregelung zwischen dem Landkreis Osnabrück und der Gemeinde über den Schulsachkostenzuschuss und das Aussetzen der Kreisschulbaukasse gem. §§ 117, 118 NSchG. - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Finanzierung Bundesfreiwilligendienst / Freiwilliges Soziales Jahr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Neubau einer zehnten Kindertagesstätte - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Vereine und Bürgerengagement
+- TOP 8.1: Antrag des Bürgerbusvereins Wallenhorst-Wersen e.V. auf Erhöhung des Betriebskostenzuschusses für das Jahr 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Familie und Soziales
+- TOP 9.1: Bereitstellung kostenloser Menstruationsartikel in öffentlichen Gebäuden und Schulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sicherheit und Ordnung
+- TOP 10.1: 2. Änderung zur Satzung über die Benutzung und die Gebühren der Obdachlosenunterkünfte in der Gemeinde Wallenhorst vom 12.03.2013 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Straßenbau
+- TOP 11.1: Erneuerung der „Maria-Montessori-Straße“ Hier: Erstes Entwurfskonzept Maria-Montessori-Straße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Antrag der Fraktion „Bündnis 90 / Die Grünen“ auf zeitnahe Einrichtung von vier Fahrradstraßen sowie der Erstellung eines Fahrradstraßenkonzeptes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Umwelt- und Energieangelegenheiten
+- TOP 12.1: Förderprogramm der Gemeinde Wallenhorst für Zuschüsse zur Umsetzung von Umwelt- und Klimaschutzmaßnahmen hier: Anpassung der Förderrichtlinie - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 13.1: Konzeptvergabe „Grüne Wiese“ hier: Beschluss des Exposés - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 14.: Kämmereiangelegenheiten
+- TOP 14.1: Jahresabschluss für das Haushaltsjahr 2022 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2022 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.3: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2021 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2021 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.4: Haushaltswirtschaft für das Jahr 2024 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 23 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
+- TOP 15.1: Fahrradsituation an der Haltestelle Haupthügel
+- TOP 15.2: Fahrradsituation an der Haltestelle Wittekindstraße
+- TOP 15.3: Einhaltung der Redezeiten in der Ratssitzung
+- TOP 15.4: Fahrradstraßen
