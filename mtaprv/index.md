@@ -156,6 +156,17 @@
 
 - [§ 99 Verfahren bei der Erbringung von Dienstleistungen](0099.md)
 
+### Abschnitt 6 Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes
+
+- [§ 99a Frist der Behörde für die Bestätigung des Antragseingangs](0099a.md)
+- [§ 99b Erforderliche Unterlagen](0099b.md)
+- [§ 99c Frist der Behörde für die Entscheidung über den Antrag](0099c.md)
+- [§ 99d Erlaubnisurkunde](0099d.md)
+
+### Abschnitt 7 Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+- [§ 99e Erforderliche Unterlagen](0099e.md)
+
 ## Teil 5 Übergangs- und Schlussvorschriften
 
 - [§ 100 Übergangsvorschrift](0100.md)
@@ -174,3 +185,4 @@
 - [Anlage 11 (zu § 73 Absatz 2)](anlage-11.md)
 - [Anlage 12 (zu § 88 Absatz 2)](anlage-12.md)
 - [Anlage 13 (zu § 95 Absatz 2)](anlage-13.md)
+- [Anlage 14 (zu § 99d)Urkunde über die Erlaubnis zur partiellen Berufsausübung](anlage-14.md)

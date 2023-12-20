@@ -1,0 +1,18 @@
+# Anlage 14 (zu § 99d)Urkunde über die Erlaubnis zur partiellen Berufsausübung
+
+Urkunde über die Erlaubnis zur partiellen Berufsausübung
+| Name, Vorname |
+|  |
+|  |
+| Geburtsdatum |  | Geburtsort |
+|  |  |  |
+|  |  |  |
+erhält auf Grund des § 53 des Gesetzes über die Berufe in der medizinischen Technologie mit Wirkung vom heutigen Tage die Erlaubnis zur partiellen Berufsausübung.
+Folgende vorbehaltene Tätigkeiten werden von der Erlaubnis zur partiellen Berufsausübung umfasst (abschließende Aufzählung):
+Die Ausübung des Berufs erfolgt unter der Berufsbezeichnung des Staates, in dem die Berufsqualifikation erworben wurde, sowie mit dem Hinweis auf den Namen dieses Staates und die oben genannte(n) vorbehaltene(n) Tätigkeit(en), wie folgt:
+Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
+| Ort, Datum |  |  |
+|  |  | (Siegel) |
+|  |  |  |
+|  |  |  |
+| (Unterschrift oder qualifizierte elektronische Signatur) |

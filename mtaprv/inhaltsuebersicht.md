@@ -154,6 +154,15 @@ Mitgliedstaat der Europäischen Union oder
 einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum
 | § 99 | Verfahren bei der Erbringung von Dienstleistungen |
+Abschnitt 6
+Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes
+| § 99a | Frist der Behörde für die Bestätigung des Antragseingangs |
+| § 99b | Erforderliche Unterlagen |
+| § 99c | Frist der Behörde für die Entscheidung über den Antrag |
+| § 99d | Erlaubnisurkunde |
+Abschnitt 7
+Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+| § 99e | Erforderliche Unterlagen |
 Teil 5
 Übergangs- und Schlussvorschriften
 | § 100 | Übergangsvorschrift |
@@ -171,3 +180,4 @@ Teil 5
 | Anlage 11 | Bescheinigung über die Teilnahme am Anpassungslehrgang |
 | Anlage 12 | Bescheinigung über die staatliche Kenntnisprüfung |
 | Anlage 13 | Bescheinigung über die Teilnahme am Anpassungslehrgang |
+| Anlage 14 | Urkunde über die Erlaubnis zur partiellen Berufsausübung |

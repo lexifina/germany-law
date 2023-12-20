@@ -99,6 +99,7 @@
 - [§ 57 Zur Dienstleistungserbringung berechtigende Berufsqualifikation](0057.md)
 - [§ 58 Entscheidung über die Berechtigung zur Dienstleistungserbringung](0058.md)
 - [§ 59 Rechte und Pflichten der dienstleistungserbringenden Person](0059.md)
+- [§ 59a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung](0059a.md)
 
 ### Abschnitt 2 Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in gleichgestellten Staaten
 

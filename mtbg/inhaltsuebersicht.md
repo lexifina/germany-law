@@ -89,6 +89,7 @@ Dienstleistungen im Geltungsbereich dieses Gesetzes
 | § 57 | Zur Dienstleistungserbringung berechtigende Berufsqualifikation |
 | § 58 | Entscheidung über die Berechtigung zur Dienstleistungserbringung |
 | § 59 | Rechte und Pflichten der dienstleistungserbringenden Person |
+| § 59a | Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung |
 Abschnitt 2
 Dienstleistungserbringung
 in anderen Mitgliedstaaten,
