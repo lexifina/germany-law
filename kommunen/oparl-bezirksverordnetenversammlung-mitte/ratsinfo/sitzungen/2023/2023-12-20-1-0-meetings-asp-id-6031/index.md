@@ -1,0 +1,52 @@
+# 25. Öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung und Facility Management
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2023-12-20T17:30:00+01:00
+- Ende: 2023-12-20T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=57
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6031
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6031
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=566359
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=608549
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung - erledigt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: Protokollgenehmigungen (Es liegen keinen Protokolle zu Genehmigungen vor) - erledigt
+- TOP 6: Aktuelle Themen - (offen)
+- TOP 6.1: Rathenower Str. 63/64 (max. 30min) - erledigt
+- TOP 7: Mitteilungen - (offen)
+- TOP 7.1: der Vorsitzenden - erledigt
+- TOP 7.2: des Bezirksamts - erledigt
+- TOP 7.3: der Senior*innenvertretung Mitte - erledigt
+- TOP 8: Aktuelle Viertelstunde - erledigt
+- TOP 9: Beratung von Drucksachen - (offen)
+- TOP 9.1: Mitte auf dem Weg zum 1,5° Ziel - Teil 2 Milieuschutzgebiete in Mitte Leitlinien für eine nachhaltige Energiewende - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.2: Verwaltungsvereinbarung zwischen dem Stadtplanungsamt und der Organisationseinheit Zweckentfremdung - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.3: Prime Time Theater Open Air ermöglichen - vertagt
+- TOP 9.4: Karstadt / Galeria-Umbau als Chance – Voraussetzungen für ein „Haus der Hilfe“ jetzt schaffen! - mit Änderungen im Ausschuss beschlossen
+- TOP 9.5: Innovative Quartiersentwicklung am Neuen Ufer - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.6: Entscheidungen der Unteren und Oberen Denkmalschutzbehörde transparent machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.7: Denkmalschutz für den ehemaligen AEG-Tunnel unter der Rosa Luxemburg Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 9.8: Gemeinwohlorientierte Akteur*innen stärken: ein Flächenbedarfskataster für Mitte - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.9: Erweiterung des Denkmalschutzes bei den Kolonaden in der M-Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 9.10: Seestraße 110 – Mieter*innen schützen – Vorkaufsrecht nutzen! - gegenstandslos
+- TOP 9.11: Denkmalschutz für den Fluchttunnel Brunnenstraße 141 und die angrenzenden Brauereigewölbe der einstigen Oswald-Berliner-Brauerei einschließlich der historischen Brunnenanlage - mit Änderungen im Ausschuss beschlossen
+- TOP 9.12: Bürgerbeteiligung und Informationen für Alle in den geplanten Milieuschutz- und den Sanierungsgebieten - vertagt
+- TOP 9.13: Junge Planungsbüros in Wettbewerbsverfahren berücksichtigen und fördern - vertagt
+- TOP 9.14: Konzept für die Sicherheit vor und in bezirklichen Dienstgebäuden - vertagt
+- TOP 9.15: Barriere-Check der bezirklichen Dienstgebäude durchführen - vertagt
+- TOP 9.16: Gemeinwohlorientierte Flächen im Haus der Statistik sichern! - vertagt
+- TOP 9.17: Lichtverschmutzung verringern – Beleuchtung bezirklicher Gebäude auf dem Prüfstand - vertagt
+- TOP 9.18: Alle sechs geplanten Pavillons in die Karl-Marx-Allee - vertagt
+- TOP 9.19: Stoppt SIGNAs Bebauungsplanverfahren! - vertagt
+- TOP 9.20: Schutz des Umfeldes unserer Rathäuser - vertagt
+- TOP 9.21: Wohnen ist Daseinsvorsorge: Mietwucher verfolgen, ahnden, stoppen! - vertagt
+- TOP 9.22: Bauliche Entwicklung am Humboldthafen! - vertagt
+- TOP 10: Verschiedenes Themenspeicher: - Stromstr./Turmstr. - Luisenblock Ost - Zentraler Festplatz - Klimaschutz in der Bauleitplanung - Gartendenkmalpflege - Prozess zur Aufstellung eines Bebauungsplanes - Klimaschutz und Denkmalschutz - Haus der Statistik - Habersaathstr. – Wie geht es weiter? - Kaufland/Nahversorgung Brunnenviertel (weitere Themen folgen) - erledigt
