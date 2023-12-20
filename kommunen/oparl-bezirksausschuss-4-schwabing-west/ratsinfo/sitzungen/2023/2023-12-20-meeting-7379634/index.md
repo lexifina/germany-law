@@ -1,0 +1,125 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2023-12-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7379634
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7379634
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Verein Kindergarten Arbeitskreis Neue Erziehung e.V: Antrag auf Erhöhung des bereits gewährten Zuschusses für Sonnenschutz und Einrichtung der Räume
+- TOP 2.2.: Rathausclubbing 18.jetzt am 29.06.2024: Ansprechperson bzw. -team im BA 4?
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise und Sachberichte) a) Condrobs e.V.: Malerarbeiten im Kontaktladen „limit“ b) Condrobs e.V.: Therapeutisches Reiten c) Freundes- und Förderkreis: Theateraufführungen des Gisela-Gymnasiums d) Seniorenvertretung Schwabing West: Sommerfest im ASZ e) ClubIn: Fest zum 60jährigen Clubjubiläum
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 3.3.2.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 3.3.3.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.3.4.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 3.3.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Aktualisierung der Liste und Karte mit Standorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Vorbescheid Mainzer Str. 22: Aufstockung und Ausbau des Dachstuhls zu 2 Wohneinheiten
+- TOP 2.2.: Kurfürstenplatz: Errichtung eines temporären Containerbauwerks für eine Interims-Filiale der Stadtsparkasse München (auf öffentl. Grund)
+- TOP 2.3.: Hiltenspergerstr. 25: Dachgeschossausbau im Dachspitz als Erweiterung zweier Wohnungen, Anbau von Balkonen an der Hofseite
+- TOP 2.4.: Bauerstr. 12: Umbau Loggien mit Anbau und Erweiterung Balkone sowie Austausch Fenster
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Erlass zweier Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 04 (Schwabing-West) a) Satzungsbeschluss Satzung „Hohenzollernplatz“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Hohenzollernplatz“) b) Satzungsbeschluss Satzung „Birnauer Straße“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Birnauer Straße“) c) und d) Stadtratsanträge Stadtbezirk 04 Schwabing-West
+- TOP 3.2.2.: Bebauungsplan Nr. 2172 Clemensstraße (südlich), Fallmerayerstraße (westlich), Herzogstraße (nördlich), Erich-Kästner-Straße (östlich) - Satzungsbeschluss - Stadtbezirk 4 - Schwabing West
+- TOP 3.2.3.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 3.2.4.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 3.2.5.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Baugenehmigung Änderungsantrag Herzogstr. 86
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Straßenführung und Beleuchtung Schleißheimer Straße
+- TOP 1.2.: Bürger: Parkplätze vor Rümannstr. 61
+- TOP 1.3.: Bürger: Lastenrad-Stellplätze am Mildred-Scheel-Bogen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Erinnerungsverfahren Fußgänger*innenquerung Hörwarthstr. 33 / Mainzer Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Maßnahmen gegen das unzulässige Befahren des Stadtplatzes Ackermannbogen (Antwort des Mobilitätsreferats auf BA-Schreiben, TOP D 3.1.1 09/23)
+- TOP 3.1.2.: Lärm- und Luftqualitätsmessung an der Kreuzung Hohenzollern-/Schleißheimer Straße (Antwort des Referats für Klima- und Umweltschutz auf weitergeleitetes Bürgerinnenanliegen, TOP D 1.1 10/23)
+- TOP 3.1.3.: Protected Bike Lane in der Karl-Theodor-Straße erproben
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 3.4.2.: (U) Tram-Neubaustrecke „Tram Nordtangente“ und Verbesserung des anliegenden Straßenraums Trassierungsbeschluss für Planfeststellungsabschnitt 1 (PFA 1) Elisabethplatz – Franz-Joseph-Straße – Martiusstraße – Thiemestraße – Englischer Garten – Tivolistraße Wendeschleife
+- TOP 3.4.3.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 3.4.4.: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 3.4.5.: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Begrünung der Belgradstraße zwischen Kaiser- und Herzogstraße
+- TOP 1.2.: Bürger: Nisthilfen für Taubenprädatoren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Rümannstr. 60: Antrag auf Veränderung bzw. Fällung zweier Schwedischer Mehlbeeren
+- TOP 2.1.2.: Ainmillerstr. 44-46: Antrag auf Fällung einer Hängebirke
+- TOP 2.1.3.: Klopstockstr. 6: Antrag auf Fällung zweier Eschen
+- TOP 2.1.4.: Winzererstr. 124: Antrag auf Fällung einer Salweide
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Sommerstraßen: Abschluss 2023 und Aufruf für 2024
+- TOP 2.2.2.: „Nachtspaziergang“ mit dem Baureferat
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise und Sachberichte) a) „Mehr Biodiversität in der Schleißheimer Straße“
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Svapinga Consort e.V. Tanzmusik in den Sälen der Könige vom 18. - 21.01.2024 2.225,00 Euro, Az.: 0262.0-4-0481
+- TOP 2.1.2.: (E) Stadtbezirksbudget Tafelrunde der Schauburg e.V. „Schauburg Bunt! Kinder und Jugendliche gestalten die Publikumsbereiche von Februar 2024 – Juli 2024“ 4.663,40 € / AZ: 0262.0-4-0483
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "see the music - and dance!" Projekt "see the music - and dance!" vom 01. - 30.06.2024 2.000,00 Euro, Az.: 0262.0-4-0484
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: „Schwabinger Kiosk“, Hohenzollernstr. 61: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.2.: „Carina’s Papeterie“, Belgradstr. 45: 2 Postkartenständer
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Fahrradsicherheitscheck am 28.02.2024 im Petuelpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zahlreiche Baustellen im Umkreis des Elisabethplatzes: Auswirkungen auf den Elisabethmarkt (Antwort des Mobilitätsreferats auf BA-Schreiben, TOP A.4 10/23)
+- TOP 3.1.2.: Kölner Platz 7 "Trattoria La Piazza": Entfernung des Mobiliars im Grünbereich (Abschließende Antwort der Bezirksinspektion Nord auf BA-Schreiben, TOP A 3.2 09/23)
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise, Sachberichte) a) MORGEN e.V.: Kulturfestival 2023 b) Performance ZWINK
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Baraki“ (ehem. „Bar Café 300“), Schleißheimer Str. 246
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
+- TOP 2.3.: (E) Stadtbezirksbudget Stiftung Kinderklinik München Schwabing Geschwisterbetreuung vom 01.04.2024 - 31.03.2025 5.607,23 Euro, Az.: 0262.0-4-0486
+- TOP 2.1.5.: Fallmerayerstr. 9-9a: Antrag auf Fällung von 4 Robinien
+- TOP 2.1.4.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Jüdisches Leben im Stadtbezirk Schwabing-West vom 10. - 14.12.2023 2.500,00 Euro, Az.: 0262.0-4-0482
