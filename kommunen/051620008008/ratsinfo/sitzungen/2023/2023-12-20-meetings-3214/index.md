@@ -1,0 +1,73 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2023-12-20T18:39:00+01:00
+- Ende: 2023-12-20T21:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3214
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3214
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Neubau Lager- und Funktionshalle an der Feuerwache St.-Florian-Straße - einstimmig beschlossen
+- TOP 5: Verkehrsgesellschaft Rhein-Kreis Neuss mbH - einstimmig beschlossen
+- TOP 6: Gebührenbedarfsberechnung 2024 und 24. Änderung der Abfallgebührensatzung - einstimmig beschlossen
+- TOP 7: Gebührenbedarfsberechnung der Straßenreinigungsgebühren 2024 - einstimmig beschlossen
+- TOP 8: Ernennung zum Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 9: Standorte für die Unterbringung geflüchteter Menschen - mehrheitlich beschlossen
+- TOP 10: Aufstockung der Obdachlosenunterkunft an der Ringstraße - einstimmig beschlossen
+- TOP 11: Befreiung von der Aufstellung des Gesamtabschlusses 2022 - einstimmig beschlossen
+- TOP 12: Antrag nach § 24 GO - örtl. Verbrauchssteuer für Einweg-Takeaway-Verpackungen - Kenntnisnahme
+- TOP 13: Hallenbad Neukirchen - einstimmig beschlossen
+- TOP 14: Einbringung Haushalt 2024 - Kenntnisnahme
+- TOP 15: Beratungspunkte Ausschüsse
+- TOP 15.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 15.1.1: G 235 Satzungsbeschluss - einstimmig beschlossen
+- TOP 15.1.2: Handlungsprogramm "Nachhaltige Stadtplanung" - mehrheitlich beschlossen
+- TOP 15.2: Entscheidung über Beratungspunkte aus dem Schulausschuss
+- TOP 15.2.1: Namensgebung der 3. Gesamtschule Grevenbroich - mehrheitlich beschlossen
+- TOP 15.3: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 15.3.1: Neuberechnung 2021 - einstimmig beschlossen
+- TOP 15.3.2: Neuberechnung 2022 - einstimmig beschlossen
+- TOP 15.3.3: Abwassergebührenkalkulaton 2024 - einstimmig beschlossen
+- TOP 15.3.4: Wirtschaftsplan 2024 - einstimmig beschlossen
+- TOP 15.4: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 15.4.1: Kitabedarfsplanung für das Kindergartenjahr 2024/2025 - einstimmig beschlossen
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: "Runder Tisch Hülchrath" zur Ermöglichung gesellschaftlichen Lebens im historisch bedeutsamen Ort Hülchrath einrichten (Antrag Nr.: 68/2023) - Kenntnisnahme
+- TOP 16.2: Mehr Kontrolle und Sensibilisierung der Bevölkerung in Hülchrath erforderlich (Antrag Nr.:67/2023) - Kenntnisnahme
+- TOP 16.3: Sicherstellung der zukünftigen Kirmessen in den kleineren Stadtteilen (Antrag Nr.: 69/2023) - Kenntnisnahme
+- TOP 16.4: Fraktionsvorsitz als Doppelspitze (Anfrage Nr.:63/2023) - Kenntnisnahme
+- TOP 16.5: Digitale Anzeigen an Bushaltestellen (Antrag Nr.: 71/2023) - Kenntnisnahme
+- TOP 17: Schriftliche Anträge
+- TOP 17.1: Anträge der SPD-Fraktion
+- TOP 17.2: Anträge der CDU-Fraktion
+- TOP 17.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 17.3.1: Klimaschutzpreis (Antrag Nr.:84/2023) - einstimmig beschlossen
+- TOP 17.3.2: Glasfaserverkabelung (Antrag Nr.:85/2023) - einstimmig beschlossen
+- TOP 17.3.3: Umbesetzung (Antrag Nr.:86/2023) - einstimmig beschlossen
+- TOP 17.4: Anträge der FDP-Fraktion
+- TOP 17.4.1: NRW-Europa-Scheck Mittel in und für Grevenbroich nutzen (Antrag Nr.:81/2023) - einstimmig beschlossen
+- TOP 17.4.2: Hebräische Erweiterung der Beschilderung des Synagogenplatzes in der Stadtmitte (Antrag Nr.:82/2023) - einstimmig beschlossen
+- TOP 17.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 17.6: Anträge der UWG-Fraktion
+- TOP 18: Gemeinschaftsanträge
+- TOP 18.1: Wahl eines Behindertenbeauftragten (Antrag Nr.:88/2023) - mehrheitlich beschlossen
+- TOP 18.2: Planungswerkstatt- neue Perspektiven für Grevenbroich (Antrag Nr.:89/2023) - einstimmig beschlossen
+- TOP 19: Schriftliche Anfragen
+- TOP 19.1: Anfragen der SPD-Fraktion
+- TOP 19.2: Anfragen der CDU-Fraktion
+- TOP 19.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 19.4: Anfragen der FDP-Fraktion
+- TOP 19.4.1: Sachstand zur möglichen Zusammenführung der Feuerwehrstandorte Neukirchen und Hülchrath/Münchrath (Anfrage Nr.:83/2023) - Kenntnisnahme
+- TOP 19.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 19.6: Anfragen der UWG-Fraktion
+- TOP 19.7: Anfragen Einzelratsmitglieder
+- TOP 19.7.1: Aufnahme von Geflüchteten (Anfrage Nr.:87/2023) - Kenntnisnahme
+- TOP 20: Mitteilungen des Bürgermeisters - einstimmig beschlossen
