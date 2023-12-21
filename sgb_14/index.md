@@ -164,7 +164,6 @@
 - [§ 111 Träger der Sozialen Entschädigung](0111.md)
 - [§ 112 Sachliche Zuständigkeit](0112.md)
 - [§ 113 Örtliche Zuständigkeit](0113.md)
-- [§ 114 (zukünftig in Kraft)](0114.md)
 
 ### Abschnitt 2 (zukünftig in Kraft)
 
