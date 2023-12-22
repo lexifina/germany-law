@@ -1,6 +1,6 @@
 # Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten
 
-- [Inhaltsverzeichnis](inhaltsverzeichnis.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeines
 
