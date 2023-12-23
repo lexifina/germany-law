@@ -2,9 +2,11 @@
 
 Albanien
 Bosnien und Herzegowina
+Georgien
 Ghana
 Kosovo
-Mazedonien, ehemalige jugoslawische Republik
+Moldau, Republik
 Montenegro
+Nordmazedonien
 Senegal
 Serbien

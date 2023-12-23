@@ -173,6 +173,7 @@
 - [§ 87a Übergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen Änderungen](0087a.md)
 - [§ 87b Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen](0087b.md)
 - [§ 87c Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen](0087c.md)
+- [§ 87d Übergangsvorschrift aus Anlass der am 23. Dezember 2023 in Kraft getretenen Änderung](0087d.md)
 - [§ 88 Verordnungsermächtigungen](0088.md)
 - [§ 88a Bestimmungen zum Verwaltungsverfahren](0088a.md)
 - [§ 89 Einschränkung von Grundrechten](0089.md)
