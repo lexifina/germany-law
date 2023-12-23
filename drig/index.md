@@ -42,7 +42,6 @@
 - [§ 21 Entlassung aus dem Dienstverhältnis](0021.md)
 - [§ 22 Entlassung eines Richters auf Probe](0022.md)
 - [§ 23 Entlassung eines Richters kraft Auftrags](0023.md)
-- [§ 24 Beendigung des Dienstverhältnisses durch richterliche Entscheidung](0024.md)
 
 ### Abschnitt 4 Unabhängigkeit des Richters
 
@@ -109,7 +108,6 @@
 
 - [§ 61 Verfassung des Dienstgerichts](0061.md)
 - [§ 62 Zuständigkeit des Dienstgerichts](0062.md)
-- [§ 63 Disziplinarverfahren](0063.md)
 - [§ 64 Disziplinarmaßnahmen](0064.md)
 - [§ 65 Versetzungsverfahren](0065.md)
 - [§ 66 Prüfungsverfahren](0066.md)

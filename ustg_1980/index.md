@@ -25,7 +25,6 @@ Geltungsbereich
 Steuervergütungen
 
 - [§ 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen](0004.md)
-- [§ 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen](0004-2.md)
 - [§ 4a Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet](0004a.md)
 - [§ 4b Steuerbefreiung beim innergemeinschaftlichen Erwerb von
 Gegenständen](0004b.md)
