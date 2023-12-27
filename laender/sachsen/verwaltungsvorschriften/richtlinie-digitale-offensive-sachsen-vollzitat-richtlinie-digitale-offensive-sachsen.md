@@ -1,8 +1,8 @@
 # Richtlinie Digitale Offensive Sachsen Vollzitat: Richtlinie Digitale Offensive Sachsen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-12-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17836.2
+- Datum: 2023-12-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17836.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-27.12.2019
+27.12.2023
 bis
-26.12.2023
+13.10.2025
 
 Richtlinie Digitale Offensive Sachsen
 
@@ -447,7 +447,7 @@ Inkrafttreten, Außerkrafttreten
 
 1.
 
-Diese Richtlinie tritt am Tag nach der Unterzeichnung in Kraft und mit Ablauf des 31. Dezember 2023 außer Kraft, mit Ausnahme von Ziffer IV, die mit
+Diese Richtlinie tritt am Tag nach der Unterzeichnung in Kraft und mit Ablauf des 31. Dezember 2025 außer Kraft, mit Ausnahme von Ziffer IV, die mit
 
 Außerkrafttreten der Richtlinie „Förderung zur Unterstützung des Breitbandausbaus in der Bundesrepublik Deutschland“ des Bundesministeriums für Verkehr und digitale Infrastruktur außer Kraft tritt.
 
@@ -475,9 +475,9 @@ Fsn-Nr.: 551-V18.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 27. Dezember 2019
+Fassung gültig ab: 27. Dezember 2023
 
-Fassung gültig bis: 26. Dezember 2023
+Fassung gültig bis: 13. Oktober 2025
 
 Drucken/Speichern
 
@@ -502,7 +502,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17836.2
+https://www.revosax.sachsen.de/vorschrift/17836.3
 Stand vom
 18.11.2026
 
