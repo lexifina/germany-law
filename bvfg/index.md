@@ -22,7 +22,8 @@
 - [§ 14 Förderung einer selbständigen Erwerbstätigkeit](0014.md)
 - [§ 15 Bescheinigungen](0015.md)
 - [§ 16 Datenschutz](0016.md)
-- [(XXXX) §§ 17 bis 20 (weggefallen)](xxxx-17-bis-20.md)
+- [§ 17 Datenaufbewahrung](0017.md)
+- [(XXXX) §§ 18 bis 20 (weggefallen)](xxxx-18-bis-20.md)
 
 ## Dritter Abschnitt Behörden und Beiräte
 

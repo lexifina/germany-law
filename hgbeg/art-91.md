@@ -1,0 +1,6 @@
+# Art 91
+
+(1)
+§ 285 Nummer 30a, § 288 Absatz 1 Nummer 1 und § 314 Absatz 1 Nummer 22a des Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse für ein nach dem 30. Dezember 2023 endendes Geschäftsjahr anzuwenden.
+(2)
+§ 274 Absatz 3 und § 306 Satz 5 des Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse für ein nach dem 28. Dezember 2023 endendes Geschäftsjahr anzuwenden. § 274 Absatz 3 und § 306 Satz 5 des Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung dürfen bereits auf Jahres- und Konzernabschlüsse für ein nach dem 31. Dezember 2022 endendes Geschäftsjahr angewendet werden, sofern die Jahres- und Konzernabschlüsse bis zum Ablauf des 28. Dezember 2023 noch nicht festgestellt beziehungsweise gebilligt wurden und Angaben nach § 285 Nummer 30a und § 314 Absatz 1 Nummer 22a des Handelsgesetzbuchs in der ab dem 28. Dezember 2023 geltenden Fassung gemacht werden.
