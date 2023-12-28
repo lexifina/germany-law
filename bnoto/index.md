@@ -192,6 +192,7 @@
 
 - [§ 95 Einleitung eines Disziplinarverfahrens](0095.md)
 - [§ 95a Verjährung](0095a.md)
+- [§ 96 Anwendung der Vorschriften des Bundesdisziplinargesetzes; Verordnungsermächtigung](0096.md)
 - [§ 97 Disziplinarmaßnahmen](0097.md)
 - [§ 98 Verhängung der Disziplinarmaßnahmen](0098.md)
 - [§ 99 Disziplinargericht](0099.md)
@@ -200,9 +201,11 @@
 - [§ 102 Bestellung der richterlichen Mitglieder](0102.md)
 - [§ 103 Bestellung der notariellen Beisitzer](0103.md)
 - [§ 104 Rechte und Pflichten der notariellen Beisitzer](0104.md)
+- [§ 105 Anfechtung von Entscheidungen des Oberlandesgerichts](0105.md)
 - [§ 106 Besetzung des Bundesgerichtshofs](0106.md)
 - [§ 107 Bestellung der richterlichen Mitglieder](0107.md)
 - [§ 108 Bestellung der notariellen Beisitzer](0108.md)
+- [§ 109 Anzuwendende Verfahrensvorschriften](0109.md)
 - [§ 110 Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen](0110.md)
 - [§ 110a Tilgung](0110a.md)
 
