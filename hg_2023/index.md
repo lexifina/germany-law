@@ -38,3 +38,4 @@
 - [§ 24 Fortgeltung](0024.md)
 - [§ 25 Inkrafttreten](0025.md)
 - [Anlage Gesamtplan des Bundeshaushaltsplans 2023](anlage.md)
+- [(XXXX) Nachtrag zum Gesamtplan des Bundeshaushaltsplans 2023](xxxx.md)
