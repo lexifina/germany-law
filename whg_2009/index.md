@@ -128,6 +128,7 @@
 - [§ 68 Planfeststellung, Plangenehmigung](0068.md)
 - [§ 69 Abschnittsweise Zulassung, vorzeitiger Beginn](0069.md)
 - [§ 70 Anwendbare Vorschriften, Verfahren](0070.md)
+- [§ 70a Planfeststellungsverfahren bei Häfen im transeuropäischen Verkehrsnetz](0070a.md)
 - [§ 71 Enteignungsrechtliche Regelungen](0071.md)
 - [§ 71a Vorzeitige Besitzeinweisung](0071a.md)
 
@@ -196,3 +197,4 @@
 - [§ 108 Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen](0108.md)
 - [Anlage 1 (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik](anlage-1.md)
 - [Anlage 2 (zu § 7 Absatz 1 Satz 3)](anlage-2.md)
+- [Anlage 3 (zu § 70a Absatz 1 Satz 1 Nummer 1, Absatz 2 Satz 1 und Absatz 7)](anlage-3.md)
