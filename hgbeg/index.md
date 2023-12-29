@@ -257,8 +257,8 @@ Transparenzrichtlinie-Umsetzungsgesetz
 
 ## Einundfünfzigster Abschnitt Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
 
+- [Art 90](art-90.md)
 
 ## Zweiundfünfzigster Abschnitt Übergangsvorschrift zum Mindestbesteuerungsrichtlinie-Umsetzungsgesetz
 
-- [Art 90](art-90.md)
 - [Art 91](art-91.md)

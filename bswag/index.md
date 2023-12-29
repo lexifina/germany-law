@@ -13,4 +13,4 @@
 - [§ 10 Mitfinanzierung durch die Eisenbahn](0010.md)
 - [§ 11 Ersatzinvestitionen](0011.md)
 - [§ 12 Inkrafttreten](0012.md)
-- [Anlage (zu § 1)Bedarfsplan für die Bundesschienenwege](anlage.md)
+- [Anlage (zu § 1 Absatz 1)Bedarfsplan für die Bundesschienenwege](anlage.md)

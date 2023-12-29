@@ -67,7 +67,6 @@
 ### Kapitel 7 Struktur, Qualitätssicherung, Gewaltschutz und Verträge
 
 - [§ 36 Rehabilitationsdienste und -einrichtungen](0036.md)
-- [§ 36a Zuschuss zu Kosten für Erdgas, Wärme und andere Brennstoffe sowie Strom; Verordnungsermächtigung](0036a.md)
 - [§ 37 Qualitätssicherung, Zertifizierung](0037.md)
 - [§ 37a Gewaltschutz](0037a.md)
 - [§ 38 Verträge mit Leistungserbringern](0038.md)
