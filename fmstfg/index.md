@@ -78,7 +78,7 @@
 - [§ 26d Rechnungslegung](0026d.md)
 - [§ 26e Berichtspflichten; Parlamentarische Kontrolle](0026e.md)
 - [§ 26f Verwaltungskosten](0026f.md)
-- [§ 26g Befristung](0026g.md)
+- [§ 26g Befristung; Verordnungsermächtigung](0026g.md)
 
 ### Teil 4 Besteuerung
 
