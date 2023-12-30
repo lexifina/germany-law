@@ -63,3 +63,5 @@
 |  |  |  |  |
 | Fünfter Abschnitt |
 | Übergangsregelungen ......... | § 71 - 73 |
+|  |  |
+| Anlage | (zu § 10b Absatz 1) |

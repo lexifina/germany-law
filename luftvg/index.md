@@ -27,6 +27,8 @@
 - [§ 9](0009.md)
 - [§ 10](0010.md)
 - [§ 10a Zeugnis nach der Verordnung (EG) Nr. 216/2008](0010a.md)
+- [§ 10b Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz](0010b.md)
+- [§ 10c Berichterstattung an die Europäische Kommission](0010c.md)
 - [§ 11](0011.md)
 - [§ 12](0012.md)
 - [§ 13](0013.md)
@@ -199,6 +201,7 @@ und versorgungsrechtlichen Vorschriften](0055.md)
 - [§ 71](0071.md)
 - [§ 72](0072.md)
 - [§ 73](0073.md)
+- [Anlage (zu § 10b Absatz 1)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
 (BGBl. II 1990, 889, 1106)](anhang-ev.md)
