@@ -4,3 +4,5 @@ Anlage 2
 Anlage 3
 Anlage 4
 Anlage 5
+Anlage 6
+Anlage 7
