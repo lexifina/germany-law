@@ -1,0 +1,5 @@
+# § 17a Auskunftsrechte der Vollstreckungsbehörde
+(1) Kommt der Vollstreckungsschuldner seiner Pflicht, eine Vermögensauskunft nach § 17 Absatz 5 zu erteilen, nicht nach oder ist bei einer Vollstreckung in die in der Vermögensauskunft angeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung voraussichtlich nicht zu erwarten, darf die nach § 17 Absatz 5 Satz 1 zuständige Vollstreckungsbehörde folgende Daten erheben:
+1. bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch den Namen und die Vornamen oder die Firma sowie die Anschriften der derzeitigen Arbeitgeber eines versicherungspflichtigen Beschäftigungsverhältnisses des Vollstreckungsschuldners und
+2. beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 35 Absatz 1 Nummer 17 des Straßenverkehrsgesetzes.
+(2) Die innerhalb der letzten drei Monate erhobenen Daten darf die Vollstreckungsbehörde einer weiteren Vollstreckungsbehörde übermitteln, wenn die Voraussetzungen für die Datenerhebung auch bei dieser vorliegen.
