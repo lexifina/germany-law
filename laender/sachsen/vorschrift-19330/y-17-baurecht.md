@@ -8,7 +8,7 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  |  | Waldgesetz für den Freistaat Sachsen (SächsWaldG) |  | 
  |  | Verordnung über Heizkostenabrechnung (HeizkostenV) |  | 
  |  | Sächsische Bauordnung (SächsBO) |  | 
- |  | Durchführungsverordnung zur SächsBO (DVOBächsBO) |  | 
+ |  | Durchführungsverordnung zur SächsBO (DVOSächsBO) |  | 
  |  | Sächsische Versammlungsstättenverordnung (SächsVStättVO) |  | 
  | 1. | Begriffe und Gebührenberechnungsgrundlagen |  | 
  | 1.1 | Bauliche Anlagen im Sinne der nachfolgenden Tarifstellen sind bauliche Anlagen nach § 2 Abs. 1 SächsBO sowie andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 SächsBO. Im Übrigen gelten die Begriffsbestimmungen der Sächsischen Bauordnung und der aufgrund dieses Gesetzes erlassenen Rechtsvorschriften. |  | 
@@ -20,8 +20,8 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 1.5.2 | Bautechnische Nachweise für andere bauliche Anlagen Die Gebühr für die Prüfung der bautechnischen Nachweise für die Errichtung von baulichen Anlagen, die nicht Gebäude sind, ist unter Zugrundelegung der Herstellungssumme (Tarifstelle 1.3) entsprechend Tarifstelle 1.5.1 Abs. 1 Satz 2 und Abs. 2 zu berechnen. Als Mindestgebühr wird der zweifache Stundensatz erhoben. |  | 
  | 1.5.3 | Bautechnische Nachweise in Sonderfällen Für die Prüfung der bautechnischen Nachweise folgender Baumaßnahmen wird die Gebühr nach dem Zeitaufwand (Tarifstelle 1.4) berechnet: (1) Änderungen und Beseitigungen von Gebäuden und anderen baulichen Anlagen sowie genehmigungsbedürftige Baugrubensicherungen und weitere Baubehelfe, soweit sich die Herstellungskosten (Tarifstelle 1.3) nicht ermitteln lassen oder die so berechnete Gebühr in keinem angemessenen Verhältnis zum verursachten Prüfaufwand steht (2) Bauteile oder bauliche Anlagen, für die sich anrechenbare Rohbau- oder Herstellungskosten nach Tarifstelle 1.2 oder 1.3 nicht ermitteln lassen (3) für die in der Tarifstelle 4.8.7.1 genannten Fälle. Als Mindestgebühr wird der zweifache Stundensatz erhoben. |  | 
  | 2. | Auslagen Neben den Gebühren werden als Auslagen erhoben: |  | 
- | 2.1 | Vergütungen für die Tätigkeit der Prüfingenieure / der Prüfingenieurinnen und der Prüfämter nach § 40 Abs. 1 Satz 1 DVOBächsBO, die hierfür von der Bauaufsichtsbehörde nach § 15 Abs. 1 Satz 2 DVOBächsBO einen Auftrag erhalten haben, |  | 
- | 2.2 | Reisekosten im Rahmen der Prüftätigkeit der Prüfingenieure / der Prüfingenieurinnen und der Prüfämter nach § 40 Abs. 2 Satz 3 DVOBächsBO, die hierfür von der Bauaufsichtsbehörde nach § 15 Abs. 1 Satz 2 DVOBächsBO oder vom Bauherrn / von der Bauherrin nach § 15 Abs. 2 Satz 1 DVOBächsBO einen Auftrag erhalten haben, |  | 
+ | 2.1 | Vergütungen für die Tätigkeit der Prüfingenieure / der Prüfingenieurinnen und der Prüfämter nach § 40 Abs. 1 Satz 1 DVOSächsBO, die hierfür von der Bauaufsichtsbehörde nach § 15 Abs. 1 Satz 2 DVOSächsBO einen Auftrag erhalten haben, |  | 
+ | 2.2 | Reisekosten im Rahmen der Prüftätigkeit der Prüfingenieure / der Prüfingenieurinnen und der Prüfämter nach § 40 Abs. 2 Satz 3 DVOSächsBO, die hierfür von der Bauaufsichtsbehörde nach § 15 Abs. 1 Satz 2 DVOSächsBO oder vom Bauherrn / von der Bauherrin nach § 15 Abs. 2 Satz 1 DVOSächsBO einen Auftrag erhalten haben, |  | 
  | 2.3 | Vergütungen der Sachverständigen und sachverständigen Stellen nach der Honorarordnung für Architekten und Ingenieure, die von den Bauaufsichtsbehörden herangezogen werden. Tarifstelle 3.3 bleibt unberührt. |  | 
  | 3. | Ermäßigungen |  | 
  | 3.1 | Für mehrere gleiche Gebäude oder bauliche Anlagen auf einem Baugrundstück oder auf benachbarten Baugrundstücken ermäßigen sich die Gebühren nach den Tarifstellen 4.1.1, 4.1.2, 4.1.4, 4.2 und 4.4 bis 4.6.2, soweit die jeweiligen Mindestgebühren nicht unterschritten werden, für das zweite und jedes weitere Gebäude oder die zweite und jede weitere bauliche Anlage auf die Hälfte, wenn für die jeweiligen Gebäude oder baulichen Anlagen gleichzeitig eine oder mehrere Baugenehmigungen oder Vorbescheide beantragt werden. Die Ermäßigung ist auf alle Bauvorhaben umzulegen. |  | 
@@ -64,7 +64,7 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 4.8.7.2 | Die Gebühren nach den Tarifstellen 4.8.1, 4.8.2, 4.8.4 bis 4.8.6 für die Prüfung der rechnerischen Nachweise für bauliche Anlagen der Bauwerksklassen 3 bis 5 der Anlage 3, wenn diese nur durch besondere elektronische Vergleichsrechnung an komplexen räumlichen Tragsystemen (Untersuchung am Gesamtsystem) geprüft werden können, können bis auf das Doppelte der Gebühr nach Tarifstelle 4.8.1 erhöht werden. |  | 
  | 4.8.7.3 | Mit Zustimmung der obersten Bauaufsichtsbehörde kann die Gebühr für die Prüfung sicherheitstechnisch besonders bedeutsamer Gebäude und Bauteile von kerntechnischen Anlagen bis auf das Neunfache erhöht werden. |  | 
  | 4.8.7.4 | Die Gebühr nach Tarifstelle 4.8.4 kann für die Prüfung von Elementplänen des Fertigteilbaus sowie Ausführungszeichnungen mit hohem erforderlichem Detaillierungsgrad anstatt der üblichen Konstruktionszeichnungen um bis zur Hälfte der Gebühr nach Tarifstelle 4.8.1 erhöht werden. |  | 
- | 4.8.7.5 | Die Gebühr nach Tarifstelle 4.8.3 für zusätzlich zu den Brandschutznachweisen nach § 66 Abs. 3 Satz 3 Nr. 3 SächsBO enthaltenen Brandschutzplänen, Nachweisen und Angaben zu technischen Anlagen, Sonderkonstruktionen nach § 12 Abs. 4 Satz 3 und Satz 6 Nr. 2, 3, 4 und 5 DVOBächsBO sowie bei Abweichungen nach § 67 SächsBO kann um bis zu 50 Prozent erhöht werden. |  | 
+ | 4.8.7.5 | Die Gebühr nach Tarifstelle 4.8.3 für zusätzlich zu den Brandschutznachweisen nach § 66 Abs. 3 Satz 3 Nr. 3 SächsBO enthaltenen Brandschutzplänen, Nachweisen und Angaben zu technischen Anlagen, Sonderkonstruktionen nach § 12 Abs. 4 Satz 3 und Satz 6 Nr. 2, 3, 4 und 5 DVOSächsBO sowie bei Abweichungen nach § 67 SächsBO kann um bis zu 50 Prozent erhöht werden. |  | 
  | 4.8.7.6 | Die Gebühr nach Tarifstelle 4.8.3 kann für die Prüfung von Evakuierungsberechnungen und Brandsimulationen bei Sonderbauten und Mittel- und Großgaragen nach § 66 Abs. 3 Satz 3 Nr. 1 und 2 SächsBO um bis zu 50 Prozent erhöht werden. |  | 
  | 4.8.8 | Prüfung von Nachträgen zu den in den Tarifstellen 4.8.1, 4.8.2, 4.8.4 bis 4.8.6 genannten Nachweisen | Gebühr nach den Tarifstellen 4.8.1, 4.8.2, 4.8.4 bis 4.8.6 multipliziert mit dem Verhältnis des Umfangs der Nachträge zum ursprünglichen Umfang; soweit Tarifstelle 4.8.7.1 angewendet wird, gilt Hs. 1 bezogen auf den Zeitaufwand | 
  | 4.8.9 | Prüfung von Nachträgen zu dem in Tarifstelle 4.8.3 genannten Nachweis | Gebühr nach Tarifstelle 4.8.3 multipliziert mit dem Verhältnis des Umfangs der Nachträge zum ursprünglichen Umfang; soweit Tarifstelle 4.8.7.1 angewendet wird, gilt Hs. 1 bezogen auf den Zeitaufwand. | 
@@ -77,8 +77,8 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  |  |  | Anmerkungen zu den Tarifstellen 4.9.1 und 4.9.2: (1) Maßgebend ist die Rohbausumme oder Herstellungssumme, die der Berechnung der Gebühren zum Zeitpunkt der Genehmigung zugrunde lag. (2) Für genehmigungsfreigestellte Vorhaben erfolgt die Gebührenerhebung entsprechend den Tarifstellen 4.9.1 und 4.9.2. | 
  | 4.9.3 | für jede Wiederholung einer ergebnislos verlaufenen Bauzustandsbesichtigung | 50 Prozent der Gebühr nach der Tarifstelle 4.9.2, mindestens 35, höchstens für alle Wiederholungen das Zweifache der Gebühr nach Tarifstelle 4.9.2 | 
  | 4.9.4 | Prüfung von Bauausführungen aufgrund einer Anzeige nach § 82 Abs. 1 Satz 1 SächsBO | 50 Prozent der Gebühr nach Tarifstelle 4.9.2 | 
- | 4.9.5 | Bauüberwachung nach § 81 Abs. 2 Satz 1 Nr. 1 SächsBO von baulichen Anlagen zur Prüfung, ob (1) entsprechend den Nachweisen der Standsicherheit nach § 12 Abs. 1 und 2 DVOBächsBO gebaut wurde, (2) die erforderlichen Nachweise der Brauchbarkeit der Baustoffe, Bauteile und Einrichtungen vorliegen sowie die für ihre Verwendung oder Anwendung getroffenen Nebenbestimmungen eingehalten wurden | Gebühr nach Tarifstelle 1.4, höchstens 100 Prozent der Gebühr nach Tarifstelle 4.8.1 | 
- | 4.9.6 | Bauüberwachung nach § 81 Abs. 2 Satz 1 Nr. 2 SächsBO von baulichen Anlagen zur Prüfung, ob (1) entsprechend dem Brandschutznachweis nach § 12 Abs. 4 DVOBächsBO gebaut wurde, (2) die erforderlichen Nachweise der Brauchbarkeit der Baustoffe, Bauteile und Einrichtungen hinsichtlich des Brandschutzes vorliegen sowie die für ihre Verwendung oder Anwendung getroffenen Nebenbestimmungen eingehalten wurden | Gebühr nach Tarifstelle 1.4, höchstens 200 Prozent der Gebühr nach Tarifstelle 4.8.3 | 
+ | 4.9.5 | Bauüberwachung nach § 81 Abs. 2 Satz 1 Nr. 1 SächsBO von baulichen Anlagen zur Prüfung, ob (1) entsprechend den Nachweisen der Standsicherheit nach § 12 Abs. 1 und 2 DVOSächsBO gebaut wurde, (2) die erforderlichen Nachweise der Brauchbarkeit der Baustoffe, Bauteile und Einrichtungen vorliegen sowie die für ihre Verwendung oder Anwendung getroffenen Nebenbestimmungen eingehalten wurden | Gebühr nach Tarifstelle 1.4, höchstens 100 Prozent der Gebühr nach Tarifstelle 4.8.1 | 
+ | 4.9.6 | Bauüberwachung nach § 81 Abs. 2 Satz 1 Nr. 2 SächsBO von baulichen Anlagen zur Prüfung, ob (1) entsprechend dem Brandschutznachweis nach § 12 Abs. 4 DVOSächsBO gebaut wurde, (2) die erforderlichen Nachweise der Brauchbarkeit der Baustoffe, Bauteile und Einrichtungen hinsichtlich des Brandschutzes vorliegen sowie die für ihre Verwendung oder Anwendung getroffenen Nebenbestimmungen eingehalten wurden | Gebühr nach Tarifstelle 1.4, höchstens 200 Prozent der Gebühr nach Tarifstelle 4.8.3 | 
  |  | Anmerkungen zu den Tarifstellen 4.9.5 und 4.9.6: (1) Die Gebühren nach den Tarifstellen 4.9.5 und 4.9.6 werden neben der Gebühr nach der Tarifstelle 4.9.1 erhoben. (2) Für die Berechnung der Höchstgebühr gelten die Anmerkungen zu den Tarifstellen 4.9.1 und 4.9.2 entsprechend. |  | 
  | 4.9.7 | Abnahme von Feuerstätten sowie von Verbrennungsmotoren und Blockheizkraftwerken nach § 82 Abs. 3 Satz 2 und 3 SächsBO | Gebühr nach Tarifstelle 1.4 | 
  | 4.10 | Bauaufsichtliche Maßnahmen nach den §§ 78 bis 80 oder § 58 Abs. 2 Satz 2 in Verbindung mit § 3 Satz 1 SächsBO | 62 bis 3 200 | 
@@ -109,7 +109,7 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 6.6.1 | Erteilung der Ausführungsgenehmigung nach § 76 Abs. 2 Satz 1 SächsBO für Fliegende Bauten | 7 je angefangene 1 000 EUR der Herstellungssumme der betriebsfähigen Anlage, mindestens 125 | 
  |  |  | Anmerkung: Neben der Gebühr nach Tarifstelle 6.6.1 werden Gebühren nach Tarifstelle 4.8 erhoben. | 
  | 6.6.2 | Verlängerung der Geltungsdauer der Ausführungsgenehmigung für Fliegende Bauten nach § 76 Abs. 4 Satz 2 SächsBO | 125 bis 1 580 | 
- | 6.6.3 | Im Zusammenhang mit der Verlängerung der Geltungsdauer der Ausführungsgenehmigung für Fliegende Bauten erforderliche Ergänzungsprüfungen der rechnerischen Nachweise der Standsicherheit und der Konstruktionszeichnungen nach § 32 Abs. 3 DVOBächsBO | Gebühr nach Tarifstelle 1.4 | 
+ | 6.6.3 | Im Zusammenhang mit der Verlängerung der Geltungsdauer der Ausführungsgenehmigung für Fliegende Bauten erforderliche Ergänzungsprüfungen der rechnerischen Nachweise der Standsicherheit und der Konstruktionszeichnungen nach § 32 Abs. 3 DVOSächsBO | Gebühr nach Tarifstelle 1.4 | 
  | 6.6.4 | Gebrauchsabnahme von Fliegenden Bauten nach § 76 Abs. 6 Satz 2 SächsBO oder Nachabnahme nach § 76 Abs. 8 Satz 1 SächsBO | 67 bis 300 je Aufstellungsort | 
  | 6.6.5 | Bauaufsichtliche Maßnahmen nach § 76 Abs. 7 Satz 1 SächsBO | 123 bis 3 480 | 
  | 6.7 | Baulasten nach § 83 SächsBO |  | 
@@ -123,30 +123,30 @@ Lfd. Nr. | Tarif- stelle | Gegenstand | Gebühren EUR | Schlicht- hoheit- liche 
  | 7. | Sonstige Gebühren |  | 
  | 7.1 | Prüfingenieure/Prüfingenieurinnen für Standsicherheit und Brandschutz |  | 
  | 7.1.1 | Prüfingenieur/Prüfingenieurin für Standsicherheit |  | 
- | 7.1.1.1 | Anerkennung als Prüfingenieur/Prüfingenieurin für Standsicherheit nach § 13 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Satz 1 DVOBächsBO, je Fachrichtung | 497 | 
- |  |  | Anmerkung: Die Gebühr ist auch zu erheben, wenn die Genehmigung nach § 19 Abs. 2a Satz 2 DVOBächsBO als erteilt gilt. | 
- | 7.1.1.2 | Prüfungsverfahren zur Feststellung der fachlichen Eignung als Prüfingenieur/Prüfingenieurin für Standsicherheit nach § 25 Abs. 2 DVOBächsBO |  | 
- | 7.1.1.2.1 | Überprüfung des fachlichen Werdegangs nach § 25a DVOBächsBO, je Fachrichtung | 800 | 
- | 7.1.1.2.2 | Schriftliche Prüfung nach § 25b DVOBächsBO, je Fachrichtung | 1 000 | 
+ | 7.1.1.1 | Anerkennung als Prüfingenieur/Prüfingenieurin für Standsicherheit nach § 13 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Satz 1 DVOSächsBO, je Fachrichtung | 497 | 
+ |  |  | Anmerkung: Die Gebühr ist auch zu erheben, wenn die Genehmigung nach § 19 Abs. 2a Satz 2 DVOSächsBO als erteilt gilt. | 
+ | 7.1.1.2 | Prüfungsverfahren zur Feststellung der fachlichen Eignung als Prüfingenieur/Prüfingenieurin für Standsicherheit nach § 25 Abs. 2 DVOSächsBO |  | 
+ | 7.1.1.2.1 | Überprüfung des fachlichen Werdegangs nach § 25a DVOSächsBO, je Fachrichtung | 800 | 
+ | 7.1.1.2.2 | Schriftliche Prüfung nach § 25b DVOSächsBO, je Fachrichtung | 1 000 | 
  | 7.1.2 | Prüfingenieur/Prüfingenieurin für Brandschutz |  | 
- | 7.1.2.1 | Anerkennung als Prüfingenieur/Prüfingenieurin für Brandschutz nach § 13 Abs. 1 Satz 1 Nr. 2 DVOBächsBO | 497 | 
- |  |  | Anmerkung: Die Gebühr ist auch zu erheben, wenn die Genehmigung nach § 19 Abs. 2a Satz 2 DVOBächsBO als erteilt gilt. | 
- | 7.1.2.2 | Prüfungsverfahren zur Feststellung der fachlichen Eignung als Prüfingenieur/Prüfingenieurin für Brandschutz nach § 29 Abs. 2 DVOBächsBO |  | 
- | 7.1.2.2.1 | Überprüfung des fachlichen Werdegangs nach § 29a DVOBächsBO | 1 200 | 
- | 7.1.2.2.2 | Schriftliche Prüfung nach § 29b DVOBächsBO | 900 | 
- | 7.1.2.2.3 | Mündliche Prüfung nach § 29c DVOBächsBO | 800 | 
- | 7.1.3 | Genehmigung der Errichtung einer weiteren Niederlassung als Prüfingenieur/Prüfingenieurin nach § 19a Satz 1 DVOBächsBO | Gebühr nach Tarifstelle 1.4 | 
+ | 7.1.2.1 | Anerkennung als Prüfingenieur/Prüfingenieurin für Brandschutz nach § 13 Abs. 1 Satz 1 Nr. 2 DVOSächsBO | 497 | 
+ |  |  | Anmerkung: Die Gebühr ist auch zu erheben, wenn die Genehmigung nach § 19 Abs. 2a Satz 2 DVOSächsBO als erteilt gilt. | 
+ | 7.1.2.2 | Prüfungsverfahren zur Feststellung der fachlichen Eignung als Prüfingenieur/Prüfingenieurin für Brandschutz nach § 29 Abs. 2 DVOSächsBO |  | 
+ | 7.1.2.2.1 | Überprüfung des fachlichen Werdegangs nach § 29a DVOSächsBO | 1 200 | 
+ | 7.1.2.2.2 | Schriftliche Prüfung nach § 29b DVOSächsBO | 900 | 
+ | 7.1.2.2.3 | Mündliche Prüfung nach § 29c DVOSächsBO | 800 | 
+ | 7.1.3 | Genehmigung der Errichtung einer weiteren Niederlassung als Prüfingenieur/Prüfingenieurin nach § 19a Satz 1 DVOSächsBO | Gebühr nach Tarifstelle 1.4 | 
  | 7.1.4 | Verlegung des Geschäftssitzes | Gebühr nach Tarifstelle 1.4 | 
- | 7.1.5 | Erteilung einer Bestätigung nach § 22 Abs. 2 DVOBächsBO | Gebühr nach Tarifstelle 1.4 | 
- | 7.1.6 | Untersagung des erstmaligen Tätigwerdens als Prüfingenieur/Prüfingenieurin nach § 22 Abs. 2 DVOBächsBO | Gebühr nach Tarifstelle 1.4 | 
- | 7.1.7 | Erteilung einer Bescheinigung nach § 22 Abs. 3 DVOBächsBO | Gebühr nach Tarifstelle 1.4 | 
+ | 7.1.5 | Erteilung einer Bestätigung nach § 22 Abs. 2 DVOSächsBO | Gebühr nach Tarifstelle 1.4 | 
+ | 7.1.6 | Untersagung des erstmaligen Tätigwerdens als Prüfingenieur/Prüfingenieurin nach § 22 Abs. 2 DVOSächsBO | Gebühr nach Tarifstelle 1.4 | 
+ | 7.1.7 | Erteilung einer Bescheinigung nach § 22 Abs. 3 DVOSächsBO | Gebühr nach Tarifstelle 1.4 | 
  |  |  | Anmerkung: Neben der Gebühr nach Tarifstelle 7.1.7 werden Gebühren nach den Tarifstellen 7.1.1 oder 7.1.2 erhoben. | 
  | 7.2 | Ausstellung eines Befähigungszeugnisses für Verantwortliche für Veranstaltungstechnik nach § 39 Abs. 1 Satz 2 SächsVStättVO | 85 | 
- | 7.3 | Typenprüfungen nach § 32 DVOBächsBO |  | 
- | 7.3.1 | Prüfung von Standsicherheitsnachweisen von baulichen Anlagen oder Teilen von baulichen Anlagen, die in gleicher Ausführung an mehreren Stellen errichtet oder verwendet werden sollen (Typenprüfungen) nach § 32 Abs. 1 DVOBächsBO |  | 
+ | 7.3 | Typenprüfungen nach § 32 DVOSächsBO |  | 
+ | 7.3.1 | Prüfung von Standsicherheitsnachweisen von baulichen Anlagen oder Teilen von baulichen Anlagen, die in gleicher Ausführung an mehreren Stellen errichtet oder verwendet werden sollen (Typenprüfungen) nach § 32 Abs. 1 DVOSächsBO |  | 
  | 7.3.1.1 | bei ermittelbarer Rohbausumme oder Herstellungssumme von Gebäuden und baulichen Anlagen | das Zehnfache der Gebühr nach Tarifstelle 1.5.1 oder 1.5.2 | 
  | 7.3.1.2 | bei einzelnen Bauelementen | das Dreifache der Gebühr nach Tarifstelle 1.4 | 
- | 7.3.2 | Verlängerung der Geltungsdauer eines Typenprüfbescheides nach § 32 Abs. 2 Satz 3 DVOBächsBO | das Zweifache der Gebühr nach Tarifstelle 1.4 | 
+ | 7.3.2 | Verlängerung der Geltungsdauer eines Typenprüfbescheides nach § 32 Abs. 2 Satz 3 DVOSächsBO | das Zweifache der Gebühr nach Tarifstelle 1.4 | 
  | 7.4 | Bauprodukte und Bauarten |  | 
  | 7.4.1 | Erteilung einer vorhabenbezogenen Bauartgenehmigung nach § 16a Abs. 2 Satz 1 Nr. 2 SächsBO | 83 bis 6 650 | 
  | 7.4.2 | Zustimmungserteilung im Einzelfall zur Verwendung von Bauprodukten nach § 20 Satz 1 SächsBO | 83 bis 6 650 | 
