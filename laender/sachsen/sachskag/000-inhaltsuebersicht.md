@@ -4,7 +4,8 @@ Abschnitt 1 Allgemeine Vorschriften
 § 2 Rechtsgrundlage für Kommunalabgaben
 § 3 Verwaltungsverfahren
 § 3a Festsetzungsverjährung
-§ 4 Verwaltungshelfer
+§ 3b Abgabenbescheide mit Dauerwirkung
+§ 4 Beleihung von Verwaltungshelfern
 § 5 Abgabenhinterziehung
 § 6 Leichtfertige Abgabenverkürzung und Abgabengefährdung
 Abschnitt 2 Steuern
@@ -50,4 +51,5 @@ Abschnitt 7 Übergangs- und Schlussbestimmungen
 § 39 Aufhebung von Rechtsvorschriften
 § 39a Anpassung der Satzungen an die durch das Verwaltungsmodernisierungsgesetz geänderte Rechtslage
 § 39b Anpassung von Satzungen an die durch das Gesetz zur Änderung des Sächsischen Kommunalabgabengesetzes vom 26. Oktober 2016 geltende Rechtslage
+§ 39c Anpassung von Satzungen an die durch das Gesetz zur Änderung des Verwaltungsvollstreckungsrechts und weiterer verwaltungsverfahrensrechtlicher Vorschriften im Freistaat Sachsen vom 13. Dezember 2023 geltende Rechtslage
 § 40 Inkrafttreten

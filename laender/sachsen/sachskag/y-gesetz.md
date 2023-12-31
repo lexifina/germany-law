@@ -1,2 +1,2 @@
 # Sächsisches Kommunalabgabengesetz (SächsKAG)
-Rechtsbereinigt mit Stand vom 27. April 2019
+Rechtsbereinigt mit Stand vom 31. Dezember 2023
