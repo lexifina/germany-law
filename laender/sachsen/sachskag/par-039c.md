@@ -1,0 +1,2 @@
+# § 39c Anpassung von Satzungen an die durch das Gesetz zur Änderung des Verwaltungsvollstreckungsrechts und weiterer verwaltungsverfahrensrechtlicher Vorschriften im Freistaat Sachsen vom 13. Dezember 2023 geltende Rechtslage
+Satzungen, die aufgrund von § 8a in der bis zum 30. Dezember 2023 geltenden Fassung erlassen worden sind, gelten weiter und sind erforderlichenfalls bis zum 30. Juni 2024 anzupassen.
