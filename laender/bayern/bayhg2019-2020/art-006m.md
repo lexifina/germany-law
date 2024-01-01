@@ -1,0 +1,2 @@
+# Art. 6m Stellenhebungen an Grund- und Mittelschulen
+Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Einvernehmen mit dem Ausschuss für Staatshaushalt und Finanzfragen des Landtags durch Stellenplanüberleitung im Stellenplan des Einzelplans 05 des Haushaltsjahres 2020 bei Kapitel 05 12 (Öffentliche Grund- und Mittelschulen) 2 000 Stellenhebungen nach Besoldungsgruppe A12+AZ und nach Besoldungsgruppe A13 in Höhe von bis zu 12 000 000 € Jahreskosten vorzunehmen.

@@ -1,0 +1,2 @@
+# Art. 6j Stellenansparung – Lernzeitverlängerung am Gymnasium
+In den Jahren 2019 bis 2025 sind die am Gymnasium im Kapitel 05 19 in der Aufwuchsphase des neuen neunjährigen Gymnasiums im jeweiligen Schuljahr nicht benötigten Stellen längstens bis zum 31. Juli 2025 gesperrt. Die zahlenmäßige Festlegung des Gesamtumfangs der zum 1. August des jeweiligen Jahres nicht benötigten Stellen erfolgt in Abstimmung zwischen dem Staatsministerium für Unterricht und Kultus und dem Staatsministerium der Finanzen und für Heimat.
