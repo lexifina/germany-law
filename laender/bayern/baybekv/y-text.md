@@ -1,0 +1,1 @@
+Auf Grund des Art. 123 Abs. 1 Satz 1 der Gemeindeordnung (GO) und des Art. 10 Abs. 2 der Verwaltungsgemeinschaftsordnung (VGemO) in Verbindung mit Art. 27 Abs. 1 Satz 1 des Gesetzes über die kommunale Zusammenarbeit (KommZG) erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
