@@ -1,0 +1,4 @@
+# Art. 12a Auflösung des Fonds
+(1) Mit Ablauf des 31. Juli 2024 wird der Fonds aufgelöst. Für den Fonds ist ein Schlussergebnis zu ermitteln. Die Verbindlichkeiten und das Vermögen des Fonds mit allen Rechten und Pflichten gehen zu dem in Satz 1 genannten Zeitpunkt auf den Freistaat Bayern über.
+(2) Der Freistaat Bayern führt die Stabilisierungsmaßnahmen des Fonds bis zu ihrer Beendigung nach den Vorschriften dieses Gesetzes fort. Er kann sich unter den Voraussetzungen des Art. 11 Abs. 2 auch nach der Auflösung des Fonds an Unternehmen gemäß Art. 2 Abs. 2 beteiligen. Über Beteiligungen gemäß Satz 2 entscheidet das Staatsministerium für Wirtschaft, Landesentwicklung und Energie im Einvernehmen mit dem Staatsministerium der Finanzen und für Heimat.
+(3) Für die parlamentarische Begleitung und Kontrolle der Unterstützungsmaßnahmen ab dem Zeitpunkt gemäß Abs. 1 Satz 1 gilt Art. 12 Abs. 5.
