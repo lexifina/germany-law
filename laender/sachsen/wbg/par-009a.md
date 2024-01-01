@@ -2,7 +2,7 @@
 Das Staatsministerium für Kultus wird ermächtigt, durch Rechtsverordnung die näheren Bestimmungen zu erlassen über
 1. die Art der Berücksichtigung von Zuschüssen im Sinne von § 4 Absatz 2,
 2. die Voraussetzungen der Anerkennung nach § 5, das Anerkennungsverfahren sowie die Aufhebung der Anerkennung,
-3. die Voraussetzungen für eine angemessene Förderung der Träger von Volkshochschulen, Einrichtungen, Landesorganisation und Landesverbänden der Weiterbildung nach § 6, insbesondere
+3 die Voraussetzungen für eine angemessene Förderung der Träger von Volkshochschulen, Einrichtungen, Landesorganisation und Landesverbänden der Weiterbildung nach § 6, insbesondere
 a)
 die Voraussetzungen der Förderfähigkeit von Weiterbildungsveranstaltungen,
 b)
