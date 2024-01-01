@@ -1,5 +1,16 @@
-# Anlage zum Bremischen Beamtenversorgungsgesetz
+# Anlage zum Bremischen Beamtenversorgungsgesetz - Unfallausgleich nach § 39 BremBeamtVG
 Anlage zum Bremischen Beamtenversorgungsgesetz
+Unfallausgleich nach § 39 BremBeamtVG
+Der Unfallausgleich beträgt bei einem Grad der Schädigungsfolgen von:
+30 | 171 Euro,
+40 | 233 Euro,
+50 | 346 Euro,
+60 | 431 Euro,
+70 | 592 Euro,
+80 | 706 Euro,
+90 | 850 Euro,
+100 | 944 Euro.
+Ein bis zu fünf Grad geringerer Grad der Schädigungsfolgen wird vom höheren Zehnergrad mit umfasst.
 Zuschläge nach §§ 58 bis 60 BremBeamtVG
 § 58 BremBeamtVG |  |  | 
 Absatz 1 |  | Der Kindererziehungszuschlag beträgt für jeden Monat der Kindererziehungszeit | 2,94 Euro
