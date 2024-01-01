@@ -1,0 +1,2 @@
+# Art. 17a Risikokonzentration und Transaktionen zwischen Versorgungsanstalten
+Die Versorgungsanstalten haben der Aufsichtsbehörde zu Risikokonzentrationen und gruppeninternen Transaktionen entsprechend § 273 Abs. 1, 3 Satz 1 und 2 und Abs. 4 sowie § 274 Abs. 1, 3 und 4 Satz 1 VAG zu berichten. § 275 Abs. 2 Nr. 2 und § 276 Abs. 1 VAG gelten entsprechend. Die Bestimmungen des Datenschutzrechts bleiben unberührt.
