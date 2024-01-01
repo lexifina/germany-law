@@ -1,0 +1,5 @@
+# Art. 2a Kreditermächtigung – Kapitel 13 19 (Sonderfonds Corona-Pandemie)
+(1) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, zur Deckung von Ausgaben für Kapitel 13 18 (Corona-Investitionsprogramm), Kapitel 13 19 (Sonderfonds Corona-Pandemie) und die Hightech Agenda Plus sowie den in Kapitel 13 19 auszugleichenden Mindereinnahmen im Haushaltsjahr 2022 Kredite am Kreditmarkt bis zur Höhe von 5 806 256 000 € aufzunehmen. Die Kreditermächtigung kann übertragen werden, soweit diese Kreditmittel nicht bis zum Ablauf des Haushaltsjahres 2022 aufgenommen wurden und zur Deckung noch benötigt werden.
+(2) Das Staatsministerium der Finanzen und für Heimat wird ermächtigt, im Haushaltsjahr 2022 Kredite am Kreditmarkt aufzunehmen, soweit die Kreditermächtigung im vorausgegangenen Haushaltsjahr für Kapitel 13 19 (Sonderfonds Corona-Pandemie) bis zum Ablauf des Haushaltsjahres 2021 nicht in Anspruch genommen wurde und zur Deckung noch benötigt wird.
+(3) (außer Kraft)
+(4) Art. 2 Abs. 2 bis 4 gilt sinngemäß.
