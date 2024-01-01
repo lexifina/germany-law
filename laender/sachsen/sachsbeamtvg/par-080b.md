@@ -1,0 +1,2 @@
+# § 80b Monatliche Sonderzahlungen
+Versorgungsempfängerinnen und Versorgungsempfänger erhalten eine monatliche Sonderzahlung. Für die Berechnung der monatlichen Sonderzahlung werden die ruhegehaltfähigen Dienstbezüge um 4,1 Prozent der Summe aus dem Grundgehalt, der Amtszulage und dem Zuschlag nach § 61 des Sächsischen Besoldungsgesetzes, die der Berechnung ihrer ruhegehaltfähigen Dienstbezüge zugrunde liegen, erhöht.
