@@ -15,7 +15,7 @@ Unterabschnitt 2 Bürgerlich-rechtliche Angelegenheiten
 § 7 Unterlassungsklageverfahren
 § 8 Führung des Güterrechtsregisters
 Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
-§ 9 Führung des Vereins-, Handels-, Partnerschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
+§ 9 Führung des Vereins-, Handels-, Partnerschafts-, Gesellschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
 § 10 Gesellschaftsrechtliche Angelegenheiten
 § 11 Wertpapiererwerbs- und Übernahmegesetz
 § 12 Kartellrecht
