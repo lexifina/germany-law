@@ -1,3 +1,4 @@
+## Gesetz über den Kommunalen Sozialverband Sachsen (SächsKomSozVG)
 # Inhaltsübersicht
 Teil 1 Aufbau und Rechtsstellung
 § 1 Mitgliedskörperschaften, Gebiet
@@ -11,7 +12,7 @@ Abschnitt 1 Organe
 Abschnitt 2 Verbandsversammlung
 § 7 Zuständigkeit
 § 8 Zusammensetzung
-§ 9 Rechtsstellung der Verbandsräte
+§ 9 Rechtsstellung der Verbandsrätinnen und Verbandsräte
 § 10 Sitzungen
 Abschnitt 3 Verbandsausschuss
 § 11 Zuständigkeit
@@ -19,7 +20,7 @@ Abschnitt 3 Verbandsausschuss
 § 13 Ausscheiden, Ergänzung
 § 14 Fachausschüsse
 § 15 Einberufung und Geschäftsgang
-Abschnitt 4 Verbandsdirektor
+Abschnitt 4 Verbandsdirektorin oder Verbandsdirektor
 § 16 Rechtsstellung
 § 17 Aufgaben
 § 18 Beauftragung, rechtsgeschäftliche Vollmacht
@@ -31,3 +32,4 @@ Teil 3 Finanzwirtschaft
 § 22 Erhebung von Gebühren, Deckung des Finanzbedarfs, Kostenerstattung
 Teil 4 Aufsicht
 § 23 Aufsicht
+§ 24 (Inkrafttreten)
