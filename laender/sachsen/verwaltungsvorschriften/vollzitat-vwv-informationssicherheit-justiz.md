@@ -1,8 +1,8 @@
 # Vollzitat: VwV Informationssicherheit Justiz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-10-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19350.1
+- Datum: 2024-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19350.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.10.2021
+01.01.2024
 bis
-31.12.2023
+31.01.2026
 
 VwV Informationssicherheit Justiz
 
@@ -35,10 +35,10 @@ Vollzitat: VwV Informationssicherheit Justiz vom 17. September 2021 (SächsJMBl.
 
 I.
 
-Regelungsgegenstand
+Regelungsgegenstand, Begriffsbestimmung
 
 
-Diese Verwaltungsvorschrift dient der Schaffung eines Informationssicherheitsprozesses zur Gewährleistung der Informationssicherheit. Die allgemeinen Grundsätze und Ziele der Informationssicherheit, die Verantwortlichkeiten und Rollen sowie die Informationssicherheitsorganisation sind in der Leitlinie Informationssicherheit (Anlage 1) ausgeführt.
+Diese Verwaltungsvorschrift dient der Schaffung eines Informationssicherheitsprozesses zur Gewährleistung der Informationssicherheit. Die allgemeinen Grundsätze und Ziele der Informationssicherheit, die Verantwortlichkeiten und Rollen sowie die Informationssicherheitsorganisation sind in der Leitlinie Informationssicherheit (Anlage 1) ausgeführt. Staatliche Stellen im Sinne dieser Verwaltungsvorschrift sind das Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung und sämtliche ihm nachgeordneten Behörden sowie die Gerichte.
 
 
 II.
@@ -73,32 +73,41 @@ Information und Sensibilisierung der Bediensteten
 
 1.
 
-Die Bediensteten sind auf diese Verwaltungsvorschrift und die Anlage 1 sowie auf deren Ablageort im Intranet hinzuweisen. Auf Anforderung sind diese Verwaltungsvorschrift und die Anlage 1 in Papierform auszuhändigen.
-
+Bedienstete im Sinne dieser Verwaltungsvorschrift sind alle im Geschäftsbereich des Staatsministeriums der Justiz und für Demokratie, Gleichstellung und Europa tätigen Richterinnen und Richter, Beamtinnen und Beamten, Referendarinnen und Referendare sowie Tarifbeschäftigten und Auszubildenden. Für Praktika sowie andere Dienst- und Beschäftigtenverhältnisse gilt die Verwaltungsvorschrift entsprechend.
 
 2.
 
-Die Bediensteten sind über ihre Pflichten gemäß Nummer 3.3 der Anlage 1 zu informieren. Die Information erfolgt unverzüglich nach dem Dienstantritt der Bediensteten. Die staatlichen Stellen haben die Durchführung der Information aktenkundig zu machen. Bereits im Dienst befindliche Bedienstete sind binnen sechs Monaten nach Inkrafttreten dieser Verwaltungsvorschrift zu informieren.
+Die Bediensteten sind auf diese Verwaltungsvorschrift und die Anlage 1 sowie auf deren Ablageort im Intranet hinzuweisen. Auf Anforderung sind diese Verwaltungsvorschrift und die Anlage 1 in Papierform auszuhändigen.
 
 
 3.
 
-Die Bediensteten sind mittels geeigneter Maßnahmen fortlaufend zu sensibilisieren. Geeignete Maßnahmen können insbesondere Hinweise zum verantwortungsvollen Umgang mit IT-Technik, Informationen zu aktuellen und für die Justiz relevanten Geschehnissen aus der Informationssicherheit sowie Anweisungen zum informationssicheren Verhalten im Dienst und zum Umgang mit Hard- und Software sein.
+Die Bediensteten sind über ihre Pflichten gemäß Nummer 3.4 der Anlage 1 zu informieren. Die Information erfolgt unverzüglich nach dem Dienstantritt der Bediensteten. Die staatlichen Stellen haben die Durchführung der Information aktenkundig zu machen. Bereits im Dienst befindliche Bedienstete sind binnen sechs Monaten nach Inkrafttreten dieser Verwaltungsvorschrift zu informieren.
 
 
 4.
 
-Zukünftige, im Rahmen der Informationssicherheit erforderliche Belehrungen der Bediensteten haben unverzüglich zu erfolgen und sind jeweils aktenkundig zu machen.
+Die Bediensteten sind mittels geeigneter Maßnahmen fortlaufend zu sensibilisieren. Geeignete Maßnahmen können insbesondere Hinweise zum verantwortungsvollen Umgang mit IT-Technik, Informationen zu aktuellen und für die Justiz relevanten Geschehnissen aus der Informationssicherheit sowie Anweisungen zum informationssicheren Verhalten im Dienst und zum Umgang mit Hard- und Software sein.
 
 
 5.
 
-Die Bediensteten sind verpflichtet, sich zur Informationssicherheit durch Kenntnisnahme der im Intranet bereitgestellten Dokumente und der durch die Beauftragten für Informationssicherheit übermittelten Hinweise selbst laufend fortzubilden.
+Zukünftige, im Rahmen der Informationssicherheit erforderliche Belehrungen der Bediensteten haben unverzüglich zu erfolgen und sind jeweils aktenkundig zu machen.
 
 
 6.
 
-Die Bediensteten haben binnen sechs Monaten nach Dienstantritt das durch den Beauftragten für Informationssicherheit des Landes angebotene elektronische Lernprogramm zum Thema "Informationssicherheit am Arbeitsplatz" in der jeweils aktuellen Fassung zu absolvieren. Bereits im Dienst befindliche Bedienstete haben das elektronische Lernprogramm binnen eines Jahres nach Inkrafttreten dieser Verwaltungsvorschrift zu absolvieren. Dies gilt nicht, wenn ein Nachweis über die Absolvierung des Lernprogramms bereits erfolgt ist.
+Die Bediensteten sind verpflichtet, sich zur Informationssicherheit durch Kenntnisnahme der im Intranet bereitgestellten Dokumente und der durch die Beauftragten für Informationssicherheit übermittelten Hinweise selbst laufend fortzubilden.
+
+
+7.
+
+Die Bediensteten mit einem Active-Directory-Benutzerkonto (AD-Benutzerkonto) haben binnen zwei Monaten nach Dienstantritt das durch den Beauftragten für Informationssicherheit des Landes angebotene elektronische Lernprogramm zum Thema "Informationssicherheit am Arbeitsplatz" in der jeweils aktuellen Fassung zu absolvieren. Dies gilt nicht, wenn ein Nachweis über die Absolvierung des Lernprogramms bereits erfolgt ist.
+
+
+8.
+
+Bedienstete mit einer beabsichtigten Verweildauer unter zwei Monaten in der Dienststelle oder ohne AD-Benutzerkonto sind unverzüglich nach Dienstantritt unter Nutzung des Musters in Anlage 3 schriftlich zur Informationssicherheit am Arbeitsplatz zu belehren. Stattdessen können die Bediensteten das elektronische Lernprogramm absolvieren. Die Belehrung oder der Nachweis über die Absolvierung des Lernprogramms ist von der Dienstellenleitung aktenkundig zu machen.
 
 
 IV.
@@ -108,7 +117,7 @@ Externe Leistungserbringer
 
 1.
 
-Mit der Durchführung von Leistungen beauftragte externe Leistungserbringer sind gemäß Nummer 3.5 der Anlage 1 zur Gewährleistung der Einhaltung der Informationssicherheitsziele durch ihre Mitarbeiterinnen und Mitarbeiter sowie Beauftragten zu informieren. Hierzu sind diese Verwaltungsvorschrift und die Anlage 1 zu verwenden und in Papierform auszuhändigen.
+Soweit die staatlichen Stellen es für erforderlich halten, haben sie die von ihnen mit der Durchführung von Leistungen beauftragten Personen, Behörden und Unternehmen, die nicht zum Geschäftsbereich gehören (externe Leistungserbringer), gemäß Nummer 3.6 der Anlage 1 zur Gewährleistung der Einhaltung der Informationssicherheitsziele zu informieren. Hierzu sind diese Verwaltungsvorschrift und die Anlage 1 zu verwenden und in Papierform auszuhändigen. Die erfolgte Information ist von der staatlichen Stelle zu dokumentieren.
 
 
 2.
@@ -315,7 +324,7 @@ Informationssicherheitsmanagement-Team
 
 a)
 
-Um die Belange der Informationssicherheit bei allen strategischen Entscheidungen und Einzelmaßnahmen mit möglichen Auswirkungen auf die Informationssicherheit sicherzustellen, wird ein Informationssicherheitsmanagement-Team gemäß § 9 Satz 1 des Sächsischen Informationssicherheitsgesetzes gebildet.
+Beim Sächsischen Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung wird ein Informationssicherheitsmanagement-Team im Sinne von § 9 Satz 1 des Sächsischen Informationssicherheitsgesetzes gebildet. Zur Sicherstellung der Informationssicherheit wirkt das Informationssicherheitsmanagement-Team beratend an der Festlegung von strategischen Entscheidungen und Einzelmaßnahmen mit möglichen Auswirkungen auf die Informationssicherheit mit, die vom Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung festgesetzt werden.
 
 
 b)
@@ -426,50 +435,69 @@ die Sicherstellung der korrekten und verantwortungsbewussten Umsetzung der Stand
 
 c)
 
-die Steuerung und Koordinierung des Sicherheitsprozesses,
+die Beratung der jeweiligen staatlichen Stelle bei der organisatorischen Umsetzung strategischer Entscheidungen,
 
 
 d)
 
-die Mitwirkung bei der Erstellung von Sicherheitskonzepten,
+die Steuerung und Koordinierung des Sicherheitsprozesses,
 
 
 e)
 
-die Beschreibung von Sicherheitsmaßnahmen sowie die Initiierung und Prüfung ihrer Umsetzung,
+die Mitwirkung bei der Erstellung von Sicherheitskonzepten,
 
 
 f)
 
-die Beratung der Leitungsebene,
+die Beschreibung von Sicherheitsmaßnahmen sowie die Initiierung und Prüfung ihrer Umsetzung,
 
 
 g)
 
-die Berichterstattung an die Leitungsebene und an die Beauftragten für Informationssicherheit übergeordneter Stellen über den Status der Informationssicherheit im Zuständigkeitsbereich,
+die Beratung der Leitungsebene,
 
 
 h)
 
-die Mitwirkung bei der Koordinierung sicherheitsrelevanter Projekte,
+die Berichterstattung an die Leitungsebene und an die Beauftragten für Informationssicherheit übergeordneter Stellen über den Status der Informationssicherheit im Zuständigkeitsbereich,
 
 
 i)
 
-die Koordinierung und Dokumentation der Behandlung sicherheitsrelevanter Vorfälle,
+die Mitwirkung bei der Koordinierung sicherheitsrelevanter Projekte,
 
 
 j)
 
-die Initiierung und Koordinierung von Sensibilisierungs- und Schulungsmaßnahmen,
+die Koordinierung und Dokumentation der Behandlung sicherheitsrelevanter Vorfälle,
 
 
 k)
+
+die Initiierung und Koordinierung von Sensibilisierungs- und Schulungsmaßnahmen,
+
+
+l)
 
 die Gewährleistung des Zugangs der Bediensteten zu den erforderlichen Informationen.
 
 
 3.3
+
+Verantwortung der Leitstelle für Informationstechnologie der sächsischen Justiz
+
+
+a)
+
+Die Leitstelle für Informationstechnologie der sächsischen Justiz ist für die Umsetzung der technischen Aufgaben, die sich aus den strategischen Entscheidungen ergeben, verantwortlich.
+
+
+b)
+
+Zwischen den Beauftragten für Informationssicherheit beim Staatsministerium der Justiz und für Demokratie, Europa und Gleichstellung sowie bei der Leitstelle für Informationstechnologie der sächsischen Justiz finden regelmäßige Abstimmungen zur Umsetzung der technischen Aufgaben und zu den damit verbundenen weiterführenden Maßnahmen statt.
+
+3.4
 
 Verantwortung der Bediensteten
 
@@ -490,7 +518,7 @@ c)
 Jegliches Verhalten, das die Sicherheit von Daten, Informationen, IT-Systemen oder der Netze gefährdet, kann zu schwerwiegenden Folgen für Geschäftsprozesse und Schäden für den gesamten Geschäftsbereich führen und soll daher unterlassen werden. Bei Auftreten eines Sicherheitsvorfalls sind die jeweiligen Meldewege konsequent zu beachten. Die Bediensteten sind angehalten, auf mögliche Schwachstellen und Verbesserungsmöglichkeiten der Informationssicherheit hinzuweisen.
 
 
-3.4
+3.5
 
 Fachverantwortliche
 
@@ -530,13 +558,12 @@ c)
 die Frage, inwieweit die Informationen für die jeweiligen Geschäftsanforderungen zugänglich sein müssen.
 
 
-3.5
+3.6
 
 Beschäftigung externer Leistungserbringer
 
 
-Personen, Behörden und Unternehmen, die nicht zum Geschäftsbereich gehören, für diesen aber in dessen Auftrag Leistungen erbringen, haben die Vorgaben zur Einhaltung der Informationssicherheitsziele gemäß dieser Leitlinie einzuhalten. Der Auftraggeber informiert die Auftragnehmer über diese Regeln und verpflichtet sie in geeigneter Weise zur Einhaltung. Dazu gehört, dass die Auftragnehmer bei erkennbaren Mängeln und Risiken der durch ihn veranlassten Sicherheitsmaßnahmen den Auftraggeber nach Maßgabe des jeweiligen Auftragsverhältnisses zu informieren haben. Davon nicht umfasst sind durch andere staatliche Stellen des Freistaates Sachsen beauftragte externe Leistungserbringer.
-
+Die staatliche Stelle informiert, wenn sie dies nach Ziffer IV Nummer 1 für erforderlich hält, die externen Leistungserbringer über die Vorgaben zur Einhaltung der Informationssicherheitsziele gemäß dieser Leitlinie und verpflichtet sie diese einzuhalten. Die externen Leistungserbringer haben bei erkennbaren Mängeln und Risiken der von ihnen veranlassten Sicherheitsmaßnahmen die staatliche Stelle nach Maßgabe des jeweiligen Auftragsverhältnisses zu informieren.
 
 4.
 
@@ -565,14 +592,156 @@ Durch eine kontinuierliche Revision der Regelungen und deren Einhaltung wird das
 
 6.
 
+IT-Notfallmanagement
 
-Notfallmanagement
 
-
-Gleich dem Informationssicherheitsmanagementsystem ist ein Notfallmanagementsystem aufzubauen, um die Kontinuität des Geschäftsbetriebs in Notfällen sicherzustellen. Es gilt, Schäden durch Notfälle oder Krisen zu minimieren. Hierbei bilden ebenfalls die BSI-Standards in der jeweils gültigen Form die Grundlage.
+Es ist ein IT-Notfallmanagementsystem entsprechend dem Informationssicherheitsmanagement auf Grundlage der jeweils geltenden BSI-Standards aufzubauen, um die Kontinuität des Geschäftsbereichs in Notfällen sicherzustellen und Schäden durch Notfälle oder Krisen zu minimieren. Näheres bestimmt die Leitlinie IT-Notfallmanagement Justiz des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung vom 10. Februar 20231.
 
 
 Anlage 2
+
+Anlage 3
+(zu Ziffer III Nummer 8 Satz 1)
+
+……………………………………………………
+Dienststelle
+
+Belehrung zur Informationssicherheit am Arbeitsplatz
+
+I.
+
+Umgang mit Daten, Dokumenten und Informationen
+
+
+1.
+
+Es sind keine personenbezogenen Daten oder dienstlichen Dokumente und Informationen unbefugt an Dritte weiterzugeben (z. B. per E-Mail oder per Telefon), sie dürfen nicht unbefugt Dritten zur Kenntnis gelangen (etwa durch Einsichtnahme am Bildschirm oder Ausdrucke).
+
+
+2.
+
+Es ist untersagt, dienstliche Dokumente unbefugt zu scannen, zu kopieren oder zu anderen als dienstlichen Zwecken zu verwenden.
+
+
+3.
+
+Eventuelle Ausdrucke mit vertraulichen Informationen (z. B. personenbezogenen Daten) müssen sicher vernichtet werden, wenn sie nicht mehr benötigt werden. Insbesondere ist eine Entsorgung mit dem Haus- oder Papiermüll nicht zulässig. Unterlagen sind grundsätzlich in der Dienststelle nach den dort geltenden Vorgaben zu entsorgen.
+
+
+4.
+
+Dienstliche Dokumente und Informationen sind nicht zu veröffentlichen und vor allem nicht auf Social-Media-Plattformen zu verbreiten.
+
+
+5.
+
+Dienstliche Dokumente und Informationen dürfen per E-Mail nicht unverschlüsselt übermittelt werden. Z. B. sind Übermittlungen an Empfänger mit einer Sachsen.de-E-Mail-Adresse verschlüsselt.
+
+
+6.
+
+Mobile Datenträger und analoge Dokumente mit dienstlichen Inhalten dürfen nicht frei zugänglich aufbewahrt werden.
+
+
+7.
+
+Dienstliche Akten und Dokumente sind außerhalb der Dienststelle diebstahlsicher zu transportieren und aufzubewahren.
+
+
+8.
+
+Dienstliche Dokumente und Informationen dürfen nicht in der Öffentlichkeit bearbeitet werden.
+
+II.
+
+Umgang mit Hardware und Software
+
+
+9.
+
+Der dienstliche und der für dienstliche Zwecke genutzte private Computer ist mit einem komplexen Passwort bestehend aus mindestens 14 Stellen zu sichern.
+
+
+10.
+
+Passwörter sind stets sicher aufzubewahren.
+
+
+11.
+
+Beim Verlassen des Arbeitsplatzes ist der Computer zu sperren und nach Möglichkeiten das Arbeitszimmer zu verschließen.
+
+
+12.
+
+Der dienstliche oder für dienstliche Zwecke verwendete private Computer darf nicht mit freien WLAN-Hotspots (z. B. in Internet-Cafés, Bahn, Hotel, Supermärkten) verbunden werden.
+
+
+13.
+
+Auf dem für dienstliche Zwecke genutzten privaten Computer ist ein aktuelles Betriebssystem mit einem aktuellen Virenscanner zu verwenden.
+
+
+14.
+
+Software darf nur von der Leitstelle für Informationstechnologie der sächsischen Justiz auf dem dienstlichen Computer installiert werden.
+
+III.
+
+Umgang mit mobilen Datenträgern
+
+
+15.
+
+Justizfremde Datenträger (u. a. USB-Sticks, CDs, DVDs, SD-Karten) dürfen nicht an dem dienstlichen Computer angeschlossen und ausgelesen werden.
+
+
+16.
+
+Dienstliche Inhalte auf justizeigenen mobilen Datenträgern sind zwingend zu verschlüsseln.
+
+IV.
+
+Umgang mit Internet und E-Mail
+
+
+17.
+
+Die Nutzung von E-Mail und Internet ist nur im Rahmen der dienstlich übertragenen Aufgaben gestattet.
+
+
+18.
+
+Links in E-Mails sind vor dem Öffnen zu prüfen, indem die Maus über dem Link, ohne zu klicken, positioniert wird – sogenanntes Mouse-over. Die daraufhin angezeigte Internetadresse ist zu überprüfen, ob diese mit dem Link-Text in der E-Mail übereinstimmt und auf eine vertrauenswürde Internetadresse verweist. Beispiele für gefälschte Internetadressen sind https://www.sprakasse.de, https://www.arnazon.de, https://paypa1.com
+
+
+19.
+
+Anhänge und Links in verdächtigen E-Mails dürfen nicht geöffnet werden. Verdächtige E-Mails sind zwingend als Anhang einer neuen E-Mail mit aussagekräftigem, daher warnendem, Betreff an spammeldung@lit.justiz.sachsen.de zu senden.
+
+
+Unterschriftsfeld
+
+
+| Ort, Datum
+
+| Unterschrift
+
+
+|  
+
+|  
+
+
+| ..........................................................
+
+| ..........................................................
+
+
+| Ort, Datum
+
+| Unterschrift Bedienstete/Bediensteter
+
 
 Verweis auf Bundesgesetze
 
@@ -584,9 +753,9 @@ Fsn-Nr.: 20-V21.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Oktober 2021
+Fassung gültig ab:  1. Januar 2024
 
-Fassung gültig bis: 31. Dezember 2023
+Fassung gültig bis: 31. Januar 2026
 
 Drucken/Speichern
 
@@ -613,7 +782,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19350.1
+https://www.revosax.sachsen.de/vorschrift/19350.2
 Stand vom
 18.11.2026
 
