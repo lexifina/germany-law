@@ -1,0 +1,90 @@
+# Anlage 1 (zu § 3 Absatz 2 Satz 1 Nummer 2)Curriculum „Psychotherapie der Traumafolgestörungen“
+
+1. Auflage Berlin, 12. Februar 2016
+Herausgeber: Bundesärztekammer
+Die in diesem Werk verwandten Personen- und Berufsbezeichnungen sind, auch wenn sie nur in einer Form auftreten, gleichwertig auf beide Geschlechter bezogen.
+Inhaltsverzeichnis
+1. Vorbemerkungen
+2. Ziel, Aufbau und Durchführung
+3. Dauer und Gliederung
+4. Inhalte und Stundenverteilung
+1. Vorbemerkungen
+Belastende Lebensereignisse sind Bestandteil des menschlichen Daseins. Das Erleben von Traumata wie Unfälle, Gewalt, Missbrauch, Naturkatastrophen, Kriegseinsätze oder Flucht können zu großem psychischem Leiden führen und in Traumafolgestörungen münden.
+Um Patienten mit Traumafolgestörungen angemessen zu versorgen, bedarf es umfassender gesicherter Kenntnisse in Psychotraumatologie und in Psychotherapie von Traumafolgestörungen.
+Zur psychotherapeutischen Kompetenz gehören u. a. die Realisierung einer adäquaten therapeutischen Haltung, die professionelle Gestaltung einer therapeutischen Arbeitsbeziehung, die Durchdringung der Komplexität der Traumafolgen eines Patienten, die Berücksichtigung seines Umfeldes und seiner Ressourcen sowie die fachkundige Anwendung einer Behandlungsmethode.
+Das vorliegende Curriculum bietet eine an aktuellen Leitlinien zur Diagnostik und Behandlung von Posttraumatischen Belastungsstörungen und anderen Traumafolgestörungen orientierte Fortbildung für ärztliche und psychologische Psychotherapeuten an, die es erlaubt, vorhandene Kenntnisse und Erfahrungen systematisch aufzufrischen und weiter zu vertiefen.
+Die herausgebenden Kammern – die Bundesärztekammer und die Bundespsychotherapeutenkammer – wollen hierdurch zur weiteren Verbreitung und Implementierung evidenzbasierter Behandlungen von Traumafolgestörungen beitragen.
+Das Curriculum soll zugleich für die in der vertragsärztlichen Versorgung psychotherapeutisch tätigen Fachärzte, Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten einen Rahmen bieten, die gemäß Psychotherapie-Vereinbarung geforderte Qualifikation zur Durchführung von EMDR (Eye Movement Desensitization and Reprocessing) im Rahmen einer Behandlung mit einem Richtlinienverfahren sowie die Strukturvoraussetzungen für die Teilnahme am Psychotherapeutenverfahren der DGUV (Deutsche Gesetzliche Unfallversicherung) zu erfüllen.
+Das vorliegende Curriculum ist in Zusammenarbeit mit folgenden Experten erarbeitet worden:
+– Frau Dr. med. Ulla Baurhenn, Fachärztin für Psychosomatische Medizin und Psychotherapie, Allgemeinmedizin, wissenschaftliche Leitung des Curriculums Psychotraumatologie der ÄK Bremen, Leitung des Bremer Institutes für Psychotraumatologie
+– Herr Timo Harfst, Wissenschaftlicher Referent der BPtK, Psychologischer Psychotherapeut
+– Frau Dr. med. Susanne Hepe, Leiterin der Akademie für Fortbildung der ÄK Bremen
+– Frau Prof. Dr. Christine Knaevelsrud, Psychologische Psychotherapeutin, Klinische Psychologie und Psychotherapie Freie Universität Berlin
+– Herr Prof. Dr. med. Johannes Kruse, Facharzt für Psychosomatische Medizin und Psychotherapie, Psychoanalyse, Universitätsklinikum Gießen, Klinik für Psychosomatik und Psychotherapie, Universitätsklinikum Marburg, Klinik für Psychosomatische Medizin und Psychotherapie, Vorsitzender der DGPM
+– Frau Andrea Mrazek, M. A., M. S. (USA), Psychologische Psychotherapeutin, Kinder- und Jugendlichenpsychotherapeutin, Präsidentin der Ostdeutschen Psychotherapeutenkammer
+– Herr Dr. Dietrich Munz, Psychologischer Psychotherapeut, Präsident der Bundespsychotherapeutenkammer
+– Herr Priv.-Doz. Dr. med. Ingo Schäfer, Facharzt für Psychiatrie und Psychotherapie, Klinik für Psychiatrie und Psychotherapie, Universitätsklinikum Hamburg-Eppendorf, Vorsitzender der DeGPT
+– Frau Dipl.-Psych. Rahel Schüepp, Psychologische Psychotherapeutin, Leitung des Bremer Institutes für Psychotraumatologie, wissenschaftliche Leiterin des Curriculums Psychotraumatologie der ÄK Bremen
+– Frau Prof. Dr. med. Luise Reddemann, Fachärztin für Psychiatrie und Psychotherapie, Psychoanalytikerin, Begründerin von PITT (Psychodynamisch Imaginative Trauma Therapie)
+– Herr Dr. Bruno Waldvogel, Psychologischer Psychotherapeut, Sprecher der Kommission Zusatzqualifizierung der Bundespsychotherapeutenkammer, Vizepräsident der PtK Bayern
+– Herr Priv.-Doz. Dr. med. Wolfgang Wöller, Facharzt für Psychosomatische Medizin und Psychotherapie sowie für Neurologie und Psychiatrie, Psychoanalyse, Rhein Klinik Bad Honnef
+– Frau Dr. med. Justina Rozeboom, Leiterin des Dezernats 1 – Fortbildung, Prävention und Bevölkerungsmedizin der Bundesärztekammer
+– Frau Karin Brösicke Referentin Dezernats 1 – Fortbildung, Prävention und Bevölkerungsmedizin der Bundesärztekammer
+2. Ziel, Aufbau und Durchführung
+Das Fortbildungscurriculum „Psychotherapie der Traumafolgestörungen“ ist gemeinsam von Vertretern der Fachärzte für Psychiatrie und Psychotherapie, der Fachärzte für Psychosomatische Medizin und Psychotherapie sowie mit Vertretern der Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten erarbeitet worden und richtet sich an alle ärztlichen und psychologischen Psychotherapeuten, die Interesse haben, ihre Kenntnisse und Fertigkeiten in der Therapie von Traumafolgestörungen zu vertiefen und zu erweitern.
+Voraussetzungen für eine Teilnahme sind:
+– Ärzte:
+  – Berechtigung zum Führen der Gebietsbezeichnung
+    – Psychotherapeutische Medizin
+    – Psychosomatische Medizin und Psychotherapie
+    – Psychiatrie und Psychotherapie
+    – Neurologie und Psychiatrie
+    – Psychiatrie
+    – oder der Zusatzbezeichnung „Psychotherapie“ oder „Psychoanalyse“
+    – Kinder- und Jugendpsychiatrie und -psychotherapie,
+– approbierte Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten
+Theoriekenntnisse in Psychotraumatologie, insbesondere zu theoretischen Grundlagen, zur Diagnostik und Differentialdiagnostik von Traumafolgestörungen sowie zu Techniken der Ressourcenaktivierung und zur Förderung der Affektregulation, werden aufgrund der absolvierten Weiterbildung bzw. Ausbildung vorausgesetzt. Diese Kenntnisse können bei Bedarf im Rahmen von Fortbildungsveranstaltungen aufgefrischt werden (z. B. durch Teilnahme am 40 h Fortbildungscurriculum „Psychotraumatologie“ der BÄK).
+Es sollen mindestens zwei Behandlungsmethoden mit wissenschaftlich nachgewiesener Wirksamkeit unterrichtet werden, eine ausführlich, die andere im Überblick.
+Nach der positiven Bewertung der EMDR (Eye Movement Desensitization and Reprocessing) im Unterausschuss Methodenbewertung hat der G-BA mit Wirkung zum 3. Januar 2015 beschlossen, diese als Methode der Einzeltherapie bei Erwachsenen bei der Indikation posttraumatische Belastungsstörungen in die Psychotherapie-Richtlinie aufzunehmen, die im Rahmen einer Behandlung mit einem Richtlinienverfahren durchgeführt werden kann. Die Durchführung der EMDR-Behandlung im Rahmen einer Einzelpsychotherapie mit einem Richtlinienverfahren ist laut Psychotherapievereinbarung an eine Zusatzqualifikation gebunden. Wenn eine der zwei gemäß Curriculum zu vermittelnden Methoden EMDR ist, wird empfohlen, die Umsetzung des Curriculums in den Modulen II, III und VI so auszugestalten, dass mindestens die in der Psychotherapievereinbarung definierten Qualifikationsanforderungen zur EMDR erfüllt werden. Ein Teil der in der Psychotherapievereinbarung geforderten theoretischen Kenntnisse kann mit dem Absolvieren des Curriculums Psychotraumatologie der Bundesärztekammer bzw. in der Aus-, Weiter- oder Fortbildung erworben werden.
+Das Curriculum kann als Blended-Learning-Maßnahme durchgeführt werden. Der maximale eLearning-Anteil soll 25 Prozent nicht überschreiten.
+Das Curriculum muss im Vorfeld von der zuständigen Landesärztekammer/Landespsychotherapeutenkammer geprüft und anerkannt sein. Zuständig ist die Landesärztekammer/Landespsychotherapeutenkammer, in deren Bereich das Fortbildungscurriculum stattfindet.
+Über die Teilnahme wird eine Bescheinigung ausgestellt. Die Bescheinigung nennt u. a. die Behandlungsmethoden, die im Rahmen des Curriculums vermittelt wurden, und den Umfang der darin durchgeführten Behandlungen und Supervisionen.
+3. Dauer und Gliederung
+| Curriculum Psychotraumatherapie | 100 h |
+| Modul I | Behandlung akuter Traumafolgestörungen und Krisenintervention | 10 h |
+| Modul II | Behandlung der non-komplexen PTBS | 35 h |
+| Modul III | Behandlung von komplexen Traumafolgestörungen | 30 h |
+| Modul IV | Interkulturelle Kompetenzen, Asyl- und Flüchtlingsthematik | 5 h |
+| Modul V | Selbsterfahrung und Psychohygiene | 10 h |
+| Modul VI | Supervision von eigenen Behandlungsfällen (mindestens 40 h Behandlung) | mindestens 10 h |
+|  | Kollegiales Abschlussgespräch |  |
+|  |  |
+| h = UE = 45 Minuten. Die Stundenanzahlen sind als Mindestanforderungen zu betrachten. |
+4. Inhalte und Stundenverteilung
+| Modul I – Behandlung akuter Traumafolgestörungen und Krisenintervention | 10 h |
+| –Phasenverlauf und Symptomatik in der Folge akuter Traumatisierungen, traumaspezifische Beratung und Krisenintervention von akuten Belastungsreaktionen–Gesprächsführung in der akuten Situation–Unterstützung natürlicher Verarbeitungsprozesse, Einbeziehung von Angehörigen und des psychosozialen Umfelds–Umgang mit akuten Symptomen wie z. B. Dissoziation, Angstreaktionen, Suizidalität, Substanzmissbrauch–Kooperation mit Diensten am Einsatzort, Kriseninterventionsteam und Opferhilfe-Organisationen–Besonderheiten von Großschadenslagen–Besonderheiten von Arbeitsunfällen–Evidenzbasierung von Debriefing Maßnahmen–Einsatz von konfrontativen Behandlungstechniken in den ersten vier Wochen nach akuter Traumatisierung (Evidenzbasis, Darstellung der Vorgehensweisen, Information zum Stand der Wirksamkeit verschiedener Verfahren)–Risikoscreening |  |
+| Modul II – Behandlung der non-komplexen PTBS | 35 h |
+| Vermittelt werden sollen zwei Behandlungsmethoden mit wissenschaftlich nachgewiesener Wirksamkeit entsprechend den Empfehlungen der S3-Leitlinie in ihrer jeweils aktuellen Fassung. |  |
+| In Praxis –praktische Übungen–Beherrschen des Behandlungsprotokolls |  |
+| mit ergänzender Theorie –Krankheitsmodelle–Indikation–Kontraindikation–Differentialindikation |  |
+| Der praktische Anteil soll den Schwerpunkt bilden und deutlich überwiegen. |  |
+| Eine Methode soll ausführlich (mindestens 20 h), eine weitere im Überblick unterrichtet werden. |  |
+| Modul III – Behandlung von komplexen Traumafolgestörungen | 30 h |
+| Derzeit werden heterogene Konzepte und Beschreibungen verwandt um komplexe Folgesymptome von Traumatisierungen, insbesondere in der Kindheit oder unter extremen Bedingungen zu bezeichnen. Zusätzlich zu den Anforderungen an die Behandlung von Patienten mit non-komplexer PTBS sind folgende Behandlungsnotwendigkeiten zu berücksichtigen: |  |
+| Komorbide Symptomatik (z. B. Suchterkrankung, Angststörung, andere psychische Erkrankungen und sekundärpsychotische Phänomene) –Therapieplanung bei Komorbidität (Spezielle Bedingungen der Indikationsstellung konfrontativer Verfahren und Kontraindikationen, Hierarchisierung von Therapiezielen, Pharmakotherapie)–Störungsspezifische Ansätze bezogen auf die komorbide Problematik (Guidelines der International Society for Traumatic Stress Studies, ISTSS) |  |
+| komorbide persönlichkeitsprägende Symptomatik –Förderung der Beziehungsfähigkeit und der Fähigkeit zur interpersonellen Kompetenz, Autonomie und Nähe-Distanz-Regulation–Aufbau selbstfürsorglicher Verhaltensweisen, Förderung von Alltagsressourcen–Vermittlung von Strategien zum Umgang mit Krisensituationen–Bearbeitung traumaassoziierter Emotionen und dysfunktionaler Kognitionen (z. B. Scham, Schuldgefühle, Ekel, Ablehnung der eigenen Person) |  |
+| komorbide Dissoziative Störung zusätzlich:–Entwicklung von Fähigkeiten zur Distanzierung und Reorientierung–Förderung von Wahrnehmung, Verstehbarkeit und Steuerungsfähigkeit zuvor dissoziierter Bereiche des Erlebens |  |
+| körperliche Symptomatik–Differentialdiagnostik traumaassoziierter somatoformer Störungen, insbesondere somatoformer Schmerzstörungen–Klärung der Interaktion der Traumafolgestörung mit chronischen somatischen Erkrankungen |  |
+| Den Therapiemethoden für die Behandlung von Patienten mit komplexen, z. B. durch stärkere dissoziative Symptomatik geprägten Traumafolgestörungen ist gemeinsam, eine angemessene Verzahnung von stabilisierenden Schritten und Traumabearbeitungen, die eine äussere und innere Bewältigung des Erlebten ermöglichen. |  |
+| Die Vermittlung von Therapiestrategien soll methodenübergreifend und integrativ erfolgen. |  |
+| Vermittelt werden sollen zwei Behandlungsmethoden mit wissenschaftlich nachgewiesener Wirksamkeit. Eine Methode soll ausführlich (mindestens 20 h), eine weitere im Überblick unterrichtet werden. Techniken zur Ressourcenaktivierung und Affektregulation sollen besonders berücksichtigt werden. |  |
+| Modul IV – Interkulturelle Kompetenzen, Asyl- und Flüchtlingsthematik | 5 h |
+| Besonderheiten klinischer Symptomatik (kulturspezifischer Krankheitsausdruck, genderspezifische interkulturelle Aspekte) |  |
+| Krankheitskonzepte/Therapieerwartungen –Diagnostik, Istanbul Protokoll (u. a. Dokumentation von Folterspuren)–sequentielle Traumatisierung (Postmigrationsstressoren, komplexe PTBS)–rechtlicher Status–Einbindung in multiprofessionelles Netzwerk (Kooperation mit anderen Einrichtungen: Behandlungszentren, Sozialarbeiter, Integrationskurse, Rechtsanwälten etc.)–Dolmetscher gestützte Therapie (Regeln, Professionalisierung des Dolmetschers, Abrechnungsprozedere beim Sozialamt) |  |
+| Modul V – Selbsterfahrung und Psychohygiene | 10 h |
+| Themenzentrierte Selbsterfahrung bei von den Kammern anerkannten Supervisoren zu den Themen: –Selbstdiagnose von sekundärer Traumatisierung und Burnout–Verfahren zum Selbstschutz für Behandler–Besonderheiten in der Gestaltung der therapeutischen Beziehung |  |
+| Modul VI – Supervision von eigenen Behandlungsfällen | 10 h |
+| Regelmäßige Supervision eigener Behandlungsfälle (nach Möglichkeit videodokumentiert) durch von den Kammern anerkannte Supervisoren (u. a. Indikationsstellung und Behandlungsplanung) im Einzelsetting oder in Gruppen (maximal 6 Teilnehmer). |  |
+| Es sollen psychotherapeutische Behandlungen bei mindestens sechs verschiedenen Patienten mit insgesamt mindestens 40 Behandlungsstunden unter kontinuierlicher Supervision (mindestens 10 Stunden) durchgeführt und dokumentiert werden. Dabei sollen möglichst unterschiedliche Störungsbilder (Vollbild PTBS, komplexe Traumatisierung u. a. nach Kindheitstrauma – wenn möglich auch Akuttraumatisierung) Gegenstand der psychotherapeutischen Behandlung sein. Von den sechs Behandlungsfällen sollen vier eine volle Diagnostik (einschließlich mindestens drei traumaspezifische Testverfahren) beinhalten. |  |
+| Die Supervision der Behandlungsfälle erfolgt im Verhältnis 1:4. |  |
+| Supervisoren werden bei Bedarf vom Kursveranstalter vermittelt. |  |

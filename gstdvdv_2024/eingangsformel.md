@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250) neu gefasst worden ist, in Verbindung mit § 10 Absatz 1 und 2, § 10a Absatz 8 sowie Anlage 2 Nummer 19 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284), von denen § 10 Absatz 1 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) und Anlage 2 Nummer 19 durch Artikel 1 Nummer 2 Buchstabe d der Verordnung vom 27. Januar 2023 (BGBl. 2023 I Nr. 30) neu gefasst worden sind und § 10a Absatz 8 zuletzt durch Artikel 1 Nummer 7 Buchstabe d der Verordnung vom 16. August 2021 (BGBl. I S. 3582) geändert worden ist, verordnet das Bundesministerium der Finanzen:

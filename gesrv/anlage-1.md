@@ -1,0 +1,11 @@
+# Anlage 1 (zu § 2 Absatz 2 und § 4)Allgemeines Muster für Eintragungen in das Gesellschaftsregister
+
+| Gesellschaftsregister des Amtsgerichts München | Nummer der Gesellschaft: GsR 3142 |
+| Nummer der Eintragung | a)Nameb)Sitz, Anschrift, Zweig- niederlassungen, inländische Geschäftsanschrift der Zweigniederlassung | a)Allgemeine Vertretungsregelungb)Gesellschafter, Vertretungs- berechtigte und besondere Vertretungsbefugnis | a)Rechtsformb)Sonstige Rechts- verhältnisse | a)Tag der Ein- tragungb)Bemerkungen |
+| 1 | 2 | 3 | 4 | 5 |
+| 1 | a)Müller & Schmidt Immobilienverwaltung eingetragene Gesellschaft bürgerlichen Rechtsb)München Anschrift: Junkerstr. 7, 80117 München | a)Die Gesellschafter sind nur gemeinschaftlich zur Vertretung der Gesellschaft berechtigt.b)Gesellschafter: Müller, Petra, Starnberg, *18.05.1966; Schmidt, Christian, München, *13.01.1966 | a)Gesellschaft bürgerlichen Rechts | a)14.07.2024 Röcken |
+| 2 |  | a)Nach Änderung: Jeder Gesellschafter ist einzeln zur Vertretung der Gesellschaft berechtigt.b)Eingetreten als Gesellschafter: Schmidt, Lena, München, *18.08.1990 gemeinsam vertretungsberechtigt mit Petra Müller oder Christian Schmidt |  | a)20.08.2024 Schirmer |
+| 3 | a)Nach Namensänderung: Immobilienverwaltung Maxvorstadt eingetragene Gesellschaft bürgerlichen Rechts |  |  | a)03.03.2025 Schmidt |
+| 4 |  | a)Die Liquidatoren sind nur gemeinsam zur Vertretung der Gesellschaft berechtigt.b)Bestellt als Liquidator: Schmidt, Christian, München, *13.01.1966; Bestellt als Liquidator: Schmidt, Lena, München, *18.08.1990 | b)Die Gesellschaft ist aufgelöst. | a)09.10.2025 Röcken |
+| 5 |  |  | b)Die Gesellschaft ist erloschen. | a)22.12.2026 Röcken |
+Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 40 Satz 1 in Verbindung mit Satz 2 bis 4 des Zwölften Buches Sozialgesetzbuch, dessen Satz 1 durch Artikel 4 Nummer 4 des Gesetzes vom 29. April 2019 (BGBl. I S. 530), dessen Satz 2 durch Artikel 7 Nummer 1a Buchstabe b des Gesetzes vom 6. Juni 2023 (BGBl. 2023 I Nr. 146) geändert sowie dessen Satz 3 durch Artikel 7 Nummer 1a Buchstabe c des Gesetzes vom 6. Juni 2023 (BGBl. 2023 I Nr. 146) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen:
