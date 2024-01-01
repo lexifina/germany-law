@@ -46,9 +46,9 @@ Allgemeines Kostenverzeichnis:
 102.05 | Zuschlag bei Tatbestand nach 102.02 oder 102.03 mit anschließender Versteigerung eines Fahrzeugs | 60,00 Euro
 103 | Gebührenrechnung nach Zeitaufwand | 
 103.00 | Bei Gebührenberechnungen nach dem Zeitaufwand werden unter Berücksichtigung der Regelung in § 5 Absatz 1 des Bremischen Gebühren- und Beitragsgesetzes folgende Stundensätze in Anrechnung gebracht: | 
- | für einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 – A16) oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 87,00 Euro
- | für einen Beamten der Laufbahngruppe II erstes Einstiegsamt (A9 – A13S) oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 72,00 Euro
- | für einen Beamten der Laufbahngruppe I zweites Einstiegsamt (A5 – A9S) oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 52,00 Euro
+ | Für eine Beamtin oder einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 – A16) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 89,00 Euro
+ | für eine Beamtin oder einen Beamten der Laufbahngruppe II erstes Einstiegsamt (A9 – A13S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 73,00 Euro
+ | für eine Beamtin oder einen Beamten der Laufbahngruppe I zweites Einstiegsamt (A5 – A9S) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 57,00 Euro
 103.01 | Weiterberechnung von verauslagten Rechnungen | Nach Zeitaufwand bei Anwendung der Stundensätze nach 103.00
 103.02 | Gemeinkostenzuschlag für Lagermaterial | 20 % des Nettorechnungsbetrages
 104 | Aktenversendung bzw. -aushändigung | 
