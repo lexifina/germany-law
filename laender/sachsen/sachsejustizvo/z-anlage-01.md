@@ -45,3 +45,4 @@ Nummer | Gericht oder Staatsanwaltschaft
 41. | Sozialgericht Leipzig
 42. | Staatsanwaltschaft Zwickau
 43. | Sozialgericht Dresden
+44. | Generalstaatsanwaltschaft Dresden
