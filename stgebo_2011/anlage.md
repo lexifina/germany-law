@@ -327,7 +327,7 @@ Gebühren der Behörden im Landesbereich
 | 302.2 |  | der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins | 40,90 |
 | 302.3 |  | der Fahrschulerlaubnis |  |
 |  |  | – an eine natürliche Person | 102,00 |
-|  |  | – an eine juristische Person oder Personengesellschaft | 153,00 |
+|  |  | – an eine juristische Person oder rechtsfähige Personengesellschaft | 153,00 |
 | 302.4 |  | der Zweigstellenerlaubnis | 84,40 |
 | 302.5 |  | der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG | 102,00 bis 358,00 |
 | 302.6 |  | der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins | 33,20 bis 256,00 |
@@ -382,7 +382,7 @@ Gebühren der Behörden im Landesbereich
 | 398 |  | Androhung der Anordnung der im 2. Abschnitt genannten Maßnahmen, soweit bei den einzelnen Gebührennummern die Androhung nicht bereits selbst genannt ist | 10,20 |
 | 399 |  | Für andere als die in diesem Abschnitt aufgeführten Maßnahmen können Gebühren nach den Sätzen für vergleichbare Maßnahmen oder, soweit solche nicht bewertet sind, nach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Arbeitszeit erhoben werden. |  |
 | 400 |  | Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Gebühr in Höhe der Gebühr für die beantragte oder angefochtene Amtshandlung, mindestens jedoch 25,60 Euro; bei gebührenfreien angefochtenen Amtshandlungen 25,60 Euro. Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht. |
-|  | H. | Autonome-Fahrzeuge-Genehmigungs- und-Betriebs-Verordnung (AFGBV) |  |
+|  | H. | Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung (AFGBV) |  |
 | 400a |  | Genehmigung des festgelegten Betriebsbereichs für Kraftfahrzeuge mit autonomer Fahrfunktion |  |
 | 400a.1 |  | Prüfung eines Antrags zur Genehmigung eines festgelegten Betriebsbereichs für den Einsatz von Kraftfahrzeugen mit autonomer Fahrfunktion nach § 8 AFGBV einschließlich Begehung des Betriebsbereichs, Sachverhaltsaufklärung, Abstimmung mit zu beteiligenden Dritten, Prüfung der zugrundeliegenden Betriebserlaubnis des Kraftfahrzeugs mit autonomer Fahrfunktion sowie Entscheidung über den Antrag hinsichtlich Erteilung, Änderung, Verlängerung, Ablehnung oder Aufhebung, einschließlich Eintragung | 790,60 bis 79 060,00 |
 | 400a.2 |  | Begutachtung und Prüfung von Nachträgen für einen festgelegten Betriebsbereich für bereits genehmigte festgelegte Betriebsbereiche sowie Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung eines genehmigten festgelegten Betriebsbereichs nach Personal- und Sachaufwand je Stunde und Person | 49,00 bis 129,00 |

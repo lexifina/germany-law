@@ -106,8 +106,8 @@ Heizkessel für feste Brennstoffe
 | Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.) | Wärmespeicher vorhanden[ ] ja [ ] nein | Wärmespeichervolumen Liter |
 | Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1): | [ ] ja [ ] nein |
 | Vorhandenes Wärmespeichervolumen ausreichend (§ 5 Absatz 4): | [ ] ja [ ] nein |
-| Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§ 19 Absatz 1 Nummer 1): | [ ] ja [ ] nein |
-| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Nummer 2): | [ ] ja [ ] nein |
+| ausreichende Höhe und Firstnähe der Schornsteinmündung (§ 19 Absatz 1 Satz 1 bis 4, Absatz 2 Satz 1 Nummer 1): | [ ] ja [ ] nein |
+| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2): | [ ] ja [ ] nein |
 | Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4 Absatz 1) bzw. § 5 Absatz 2 und 3 geeignet: | [ ] ja [ ] nein |
 | Messergebnis (Werte im Abgas): | Kohlenmonoxidgehalt | Staubgehalt |
 | Wärmeträgertemperatur °C | Sauerstoffgehalt % | Grenzwert (§ 5 Absatz 1 bzw. § 25 Absatz 2) | g/m3 | g/m3 |
@@ -143,7 +143,7 @@ Einzelraumfeuerungsanlagen für feste Brennstoffe
 | Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz 1): | [ ] ja [ ] nein |
 | Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4 Absatz 1) geeignet: | [ ] ja [ ] nein |
 | Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§ 19 Absatz 1 Nummer 1): | [ ] ja [ ] nein |
-| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Nummer 2): | [ ] ja [ ] nein |
+| Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19 Absatz 1 Satz 5, Absatz 2 Satz 1 Nummer 2): | [ ] ja [ ] nein |
 | [ ] Das Ergebnis entspricht der Verordnung. |
 | [ ] Das Ergebnis entspricht nicht der Verordnung, weil |
 | [ ] Die Mängel sind zu beseitigen. Danach ist bis zum …………………………………………… eine Wiederholungsüberprüfung erforderlich. Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5). |

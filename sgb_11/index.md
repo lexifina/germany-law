@@ -41,8 +41,7 @@
 Personenkreis
 
 - [§ 20 Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung](0020.md)
-- [§ 21 Versicherungspflicht in der sozialen Pflegeversicherung
-für sonstige Personen](0021.md)
+- [§ 21 Versicherungspflicht in der sozialen Pflegeversicherung für sonstige Personen](0021.md)
 - [§ 21a Versicherungspflicht in der sozialen Pflegeversicherung bei Mitgliedern von Solidargemeinschaften](0021a.md)
 - [§ 22 Befreiung von der Versicherungspflicht](0022.md)
 - [§ 23 Versicherungspflicht für Versicherte der privaten Krankenversicherungsunternehmen](0023.md)
@@ -93,19 +92,23 @@ Kurzzeitpflege
 - [§ 41 Tagespflege und Nachtpflege](0041.md)
 - [§ 42 Kurzzeitpflege](0042.md)
 
-#### Dritter Titel Vollstationäre Pflege
+#### Dritter Titel Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson
+
+- [§ 42a Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson](0042a.md)
+
+#### Vierter Titel Vollstationäre Pflege
 
 - [§ 43 Inhalt der Leistung](0043.md)
 
-#### Vierter Titel Pauschalleistung für die Pflege von Menschen mit Behinderungen
+#### Fünfter Titel Pauschalleistung für die Pflege von Menschen mit Behinderungen
 
 - [§ 43a Inhalt der Leistung](0043a.md)
 
-#### Fünfter Titel Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
+#### Sechster Titel Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
 
 - [§ 43b Inhalt der Leistung](0043b.md)
 
-#### Sechster Titel Pflegebedingter Eigenanteil bei vollstationärer Pflege
+#### Siebter Titel Pflegebedingter Eigenanteil bei vollstationärer Pflege
 
 - [§ 43c Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen](0043c.md)
 
@@ -143,8 +146,7 @@ Kurzzeitpflege
 
 ### Dritter Abschnitt Meldungen
 
-- [§ 50 Melde- und Auskunftspflichten bei Mitgliedern der
-sozialen Pflegeversicherung](0050.md)
+- [§ 50 Melde- und Auskunftspflichten bei Mitgliedern der sozialen Pflegeversicherung](0050.md)
 - [§ 51 Meldungen bei Mitgliedern der privaten Pflegeversicherung](0051.md)
 
 ### Vierter Abschnitt Wahrnehmung der

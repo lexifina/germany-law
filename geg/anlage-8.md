@@ -1,6 +1,6 @@
-# Anlage 8 (zu den §§ 69, 70 und 71 Absatz 1)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
+# Anlage 8 (zu den §§ 69 und 70)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
 
-1. Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen in den Fällen des § 69 und § 71 Absatz 1
+1. Wärmedämmung von Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen
   a) Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen sind wie folgt zu dämmen:
     aa) Bei Leitungen und Armaturen mit einem Innendurchmesser von bis zu 22 Millimetern beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 20 Millimeter.
     bb) Bei Leitungen und Armaturen mit einem Innendurchmesser von mehr als 22 Millimetern und bis zu 35 Millimetern beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 30 Millimeter.
@@ -9,11 +9,15 @@
     ee) Bei Leitungen und Armaturen nach den Doppelbuchstaben aa bis dd, die sich in Wand- und Deckendurchbrüchen, im Kreuzungsbereich von Leitungen, an Leitungsverbindungsstellen oder bei zentralen Leitungsnetzverteilern befinden, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, die Hälfte des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
     ff) Bei Wärmeverteilungsleitungen nach den Doppelbuchstaben aa bis dd, die nach dem 31. Januar 2002 in Bauteilen zwischen beheizten Räumen verschiedener Nutzer verlegt werden, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, die Hälfte des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
     gg) Bei Leitungen und Armaturen nach Doppelbuchstabe ff, die sich in einem Fußbodenaufbau befinden, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 6 Millimeter.
-    hh) Soweit in den Fällen des § 69 Wärmeverteilungs- und Warmwasserleitungen an Außenluft grenzen, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
-  b) In den Fällen des § 69 ist Buchstabe a nicht anzuwenden, soweit sich Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe durch frei liegende Absperreinrichtungen beeinflusst werden kann.
-  c) In Fällen des § 69 ist Buchstabe a nicht anzuwenden auf Warmwasserleitungen bis zu einem Wasserinhalt von 3 Litern, die weder in den Zirkulationskreislauf einbezogen noch mit elektrischer Begleitheizung ausgestattet sind (Stichleitungen) und sich in beheizten Räumen befinden.
+    hh) Soweit in den Fällen des § 69 Absatz 1 Wärmeverteilungs- und Warmwasserleitungen an Außenluft grenzen, beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, das Zweifache des jeweiligen Wertes nach den Doppelbuchstaben aa bis dd.
+    Die Wärmeleitfähigkeiten der Wärmedämmung sind jeweils auf eine Mitteltemperatur von 40 Grad Celsius zu beziehen.
+  b) In den Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden, soweit sich Wärmeverteilungsleitungen nach Buchstabe a Doppelbuchstabe aa bis dd in beheizten Räumen oder in Bauteilen zwischen beheizten Räumen eines Nutzers befinden und ihre Wärmeabgabe durch frei liegende Absperreinrichtungen beeinflusst werden kann.
+  c) In Fällen des § 69 Absatz 1 ist Buchstabe a nicht anzuwenden auf Warmwasserleitungen bis zu einem Wasserinhalt von 3 Litern, die weder in den Zirkulationskreislauf einbezogen noch mit elektrischer Begleitheizung ausgestattet sind (Stichleitungen) und sich in beheizten Räumen befinden.
 2. Wärmedämmung von Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen in den Fällen des § 70
-  Bei Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen von Raumlufttechnik- und Klimakältesystemen beträgt die Mindestdicke der Dämmschicht, bezogen auf eine Wärmeleitfähigkeit von 0,035 Watt pro Meter und Kelvin, 6 Millimeter.
+  Bei Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen von Raumlufttechnik- und Klimakältesystemen mit einem Innendurchmesser
+  a) von bis zu 22 Millimetern beträgt die Mindestdicke der Dämmschicht 9 Millimeter, bezogen auf eine Wärmeleitfähigkeit der Dämmschicht von 0,035 Watt pro Meter und Kelvin,
+  b) von mehr als 22 Millimetern beträgt die Mindestdicke der Dämmschicht 19 Millimeter, bezogen auf eine Wärmeleitfähigkeit der Dämmschicht von 0,035 Watt pro Meter und Kelvin.
+  Die Wärmeleitfähigkeit der Kältedämmung ist jeweils auf eine Mitteltemperatur von 10 Grad Celsius zu beziehen.
 3. Materialien mit anderen Wärmeleitfähigkeiten
   Bei Materialien mit anderen Wärmeleitfähigkeiten als 0,035 Watt pro Meter und Kelvin sind die Mindestdicken der Dämmschichten entsprechend umzurechnen. Für die Umrechnung und die Wärmeleitfähigkeit des Dämmmaterials sind die in anerkannten Regeln der Technik enthaltenen Berechnungsverfahren und Rechenwerte zu verwenden.
 4. Gleichwertige Begrenzung

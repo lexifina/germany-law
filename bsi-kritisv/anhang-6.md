@@ -150,7 +150,7 @@ Anlagenkategorien und Schwellenwerte
 | Leistungsfälle private Krankenversicherung/Jahr oder | 2 000 000 |
 | Schadensfälle Kompositversicherung/Jahr | 500 000 |
 | 5.2 | Leistungen der Sozialversicherung sowie der Grundsicherung für Arbeitsuchende |
-| 5.2.1 | Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und Pflegeversicherung | Anzahl der Versicherten | 3 000 000 |
+| 5.2.1 | Verwaltungs- und Zahlungssystem der gesetzlichen Kranken- und Pflegeversicherung | Anzahl der Versicherten | 500 000 |
 | 5.2.2 | Leistungssystem | Leistungsfälle Sozialversicherungsträger der gesetzlichen Unfall- und Arbeitslosenversicherung/Jahr oder | 500 000 |
 | Anzahl der Versicherungskonten des Sozialversicherungsträgers der gesetzlichen Rentenversicherung oder | 500 000 |
 | Leistungsfälle zur Sicherung des Lebensunterhalts in der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch | 500 000 |

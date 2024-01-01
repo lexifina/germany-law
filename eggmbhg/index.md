@@ -11,3 +11,4 @@
 - [§ 9 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0009.md)
 - [§ 10 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0010.md)
 - [§ 11 Übergangsvorschriften zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0011.md)
+- [§ 12 Veränderung der Gesellschafterliste in Bezug auf eine Gesellschaft bürgerlichen Rechts](0012.md)

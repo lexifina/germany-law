@@ -10,7 +10,7 @@
 - [§ 4 Sonstige Eintragungen](0004.md)
 - [§ 5 Lichtbild](0005.md)
 - [§ 6 Gültigkeitsdauer](0006.md)
-- [§ 7 Verwaltungsverfahren](0007.md)
+- [§ 7 (weggefallen)](0007.md)
 
 ## Zweiter Abschnitt Ausweis für sonstige Personen
 zur unentgeltlichen Beförderung im öffentlichen Personenverkehr

@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 9 Absatz 3 und § 10 Absatz 6)Prüfungsniederschrift
 
 | zur Triebfahrzeugführerscheinprüfung vom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| durch (Prüfungsorganisation/Prüfer(in)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+| durch (Prüfstelle/Prüfer(in)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
 | Ort: . . . . . . . . . . . . . . . . . . . . |  |  |
 | Schriftlicher Teil der Prüfung am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
 | Prüfungsbeginn: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  | Prüfungsende: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |

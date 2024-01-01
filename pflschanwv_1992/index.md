@@ -3,8 +3,6 @@
 - [§ 1 Vollständiges Anwendungsverbot](0001.md)
 - [§ 2 Eingeschränktes Anwendungsverbot](0002.md)
 - [§ 3 Anwendungsbeschränkungen](0003.md)
-- [§ 3a Besondere Abgabebedingungen](0003a.md)
-- [§ 3b Besondere Anwendungsbedingungen](0003b.md)
 - [§ 4 Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz](0004.md)
 - [§ 4a Verbot der Anwendung an Gewässern](0004a.md)
 - [§ 5 Einfuhrverbote](0005.md)
@@ -17,4 +15,3 @@
 
 Eingeschränktes Anwendungsverbot](anlage-2.md)
 - [Anlage 3 (zu den §§ 3 und 4)Anwendungsbeschränkungen](anlage-3.md)
-- [Anlage 4 (zu § 3a)Besondere Abgabebedingungen](anlage-4.md)

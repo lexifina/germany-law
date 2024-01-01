@@ -45,13 +45,9 @@
 | § 28a | Leistungen an Integrationsprojekte |
 | § 29 | Leistungen zur Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen |
 |  |  |
-|  | 3. UnterabschnittLeistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben |
+|  | 3. Unterabschnitt(weggefallen) |
 |  |  |
-| § 30 | Förderungsfähige Einrichtungen |
-| § 31 | Förderungsvoraussetzungen |
-| § 32 | Förderungsgrundsätze |
-| § 33 | Art und Höhe der Leistungen |
-| § 34 | Tilgung und Verzinsung von Darlehen |
+| §§ 30 bis 34 | (weggefallen) |
 |  |  |
 |  | Dritter Abschnitt |
 |  |  |
@@ -81,5 +77,5 @@
 |  |  |
 |  | Schlußvorschriften |
 |  |  |
-| § 46 | Übergangsregelungen |
+| § 46 | Übergangsvorschrift |
 | § 47 | Inkrafttreten, Außerkrafttreten |

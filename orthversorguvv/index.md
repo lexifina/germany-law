@@ -9,5 +9,5 @@
 - [§ 6](0006.md)
 - [§ 7](0007.md)
 - [§ 8](0008.md)
-- [§ 9](0009.md)
+- [§ 9 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0009.md)
 - [§ 10](0010.md)

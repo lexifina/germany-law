@@ -6,11 +6,11 @@ Abschnitt 1: Übersicht Module Erwerb/Aktualisierung der Fachkunde
 Tabelle 1: Fachkunde-Module
 | Kürzel | Module | Mindest- anzahl LE |
 | Erwerb der Fachkunde |
-| GK | Grundlagen der Haut und deren Anhangsgebilde | 80 |
-| OS | Optische Strahlung | 120 |
-| US | Ultraschall | 40 |
-| EK | EMF (Hochfrequenzgeräte) in der Kosmetik | 40 |
-| ES | EMF (Niederfrequenz-, Gleichstrom- und Magnetfeldgeräte) zur Stimulation | 24 |
+| GK | Grundlagen der Haut und deren Anhangsgebilde | 78 |
+| OS | Optische Strahlung | 117 |
+| US | Ultraschall | 38 |
+| EK | EMF (Hochfrequenzgeräte) in der Kosmetik | 38 |
+| ES | EMF (Niederfrequenz-, Gleichstrom- und Magnetfeldgeräte) zur Stimulation | 23 |
 | Aktualisierung der Fachkunde (Aktualisierungsschulung) |
 | AGK | Aktualisierung von GK | 2 |
 | AOS | Aktualisierung von OS | 6 |
@@ -20,12 +20,12 @@ Tabelle 1: Fachkunde-Module
 Tabelle 2: Fachkundegruppen
 | Fachkundegruppe | Bezug | Erwerb | Aktualisierung |
 |  |  | erforderliche Module | LE | erforderliche Module | LE |
-| Laser/Intensive Lichtquellen | § 5 NiSV | GK, OS | 200 | AGK, AOS | 8 |
-| Ultraschall | § 9 NiSV | GK, US | 120 | AGK, AUS | 8 |
-| EMF-Kosmetik | § 6 NiSV | GK, EK | 120 | AGK, AEK | 8 |
-| EMF-Muskelstimulation | § 7 Absatz 1 NiSV | ES | 24 | AES | 6 |
-| EMF-Stimulation | § 7 Absatz 2 NiSV | ES | 24 | AES | 6 |
-| EMF-Stimulation zu kosmetischen Zwecken | § 7 Absatz 3 NiSV | GK, ES | 104 | AGK, AES | 8 |
+| Laser/Intensive Lichtquellen | § 5 NiSV | GK, OS | 195 | AGK, AOS | 8 |
+| Ultraschall | § 9 NiSV | GK, US | 116 | AGK, AUS | 8 |
+| EMF-Kosmetik | § 6 NiSV | GK, EK | 116 | AGK, AEK | 8 |
+| EMF-Muskelstimulation | § 7 Absatz 1 NiSV | ES | 23 | AES | 6 |
+| EMF-Stimulation | § 7 Absatz 2 NiSV | ES | 23 | AES | 6 |
+| EMF-Stimulation zu kosmetischen Zwecken | § 7 Absatz 3 NiSV | GK, ES | 101 | AGK, AES | 8 |
 Abschnitt 2: Übersicht Fachkunde für spezifische Anwendungen
 Die Anforderungen an die Fachkunde sind abhängig von der Art der Anwendung (Fachkundegruppen).
 Die Fachkunde für die Anwendung von Lasereinrichtungen und intensiven Lichtquellen (Fachkundegruppe Laser/Intensive Lichtquellen) wird durch die erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des Moduls "Grundlagen der Haut und deren Anhangsgebilde" und einer Schulung mit den Lerninhalten des Moduls "optische Strahlung" erworben.
@@ -35,14 +35,14 @@ Die Fachkunde für die Anwendung von Niederfrequenzgeräten, Gleichstromgeräten
 Die Fachkunde für die Anwendung von Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur transkutanen elektrischen Nervenstimulation, zur Muskelstimulation oder zur Magnetfeldstimulation jeweils zu kosmetischen Zwecken im Bereich des Gesichts und der Halsvorderseite (Fachkundegruppe EMF-Stimulation zu kosmetischen Zwecken) wird durch die erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des Moduls "Grundlagen der Haut und deren Anhangsgebilde" und einer Schulung mit den Lerninhalten des Moduls "Elektromagnetische Felder zur Stimulation" erworben.
 Die Fachkunde für die Anwendung von Ultraschall (Fachkundegruppe Ultraschall) wird durch die erfolgreiche Teilnahme an einer Schulung mit den Lerninhalten des Moduls "Grundlagen der Haut und deren Anhangsgebilde" und einer Schulung mit den Lerninhalten des Moduls "Ultraschall" erworben.
 Abschnitt 3: Gleichwertigkeit mit Fachkunde-Modul Teil B
-Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des Moduls "Grundlagen der Haut und deren Anhangsgebilde" ist nicht erforderlich, wenn eine Person
+Die erfolgreiche Teilnahme an einer Schulung mit dem Lerninhalt des Moduls „Grundlagen der Haut und deren Anhangsgebilde“ ist nicht erforderlich, wenn eine Person
 1. eine staatlich anerkannte Berufsausbildung zum Kosmetiker/zur Kosmetikerin erfolgreich absolviert hat,
 2. einen Bildungsgang staatlich geprüfter Kosmetiker/staatlich geprüfte Kosmetikerin erfolgreich absolviert hat,
 3. die Meisterprüfung im Kosmetikgewerbe erfolgreich absolviert hat oder
 4. am 5. Dezember 2021 über eine berufliche Praxis im Kosmetikgewerbe von mindestens fünf Jahren verfügt.
 Der Tag des Eintritts der jeweiligen Bedingung nach Ziffer 1 bis 4 gilt als Bezugsdatum im Sinne von § 4 Absatz 3 Satz 3. Liegt dieser Zeitpunkt vor dem 5. Dezember 2021, gilt stattdessen dieser Stichtag als Bezugsdatum.
 Teil B: Fachkunde-Modul „Grundlagen der Haut und deren Anhangsgebilde“
-Lerninhalte (Mindestanzahl LE 80)
+Lerninhalte (Mindestanzahl LE 78)
 1. Anatomie
 2. Beurteilung der Haut
 3. Physiologie der Haut und ihrer Anhangsgebilde
@@ -50,9 +50,8 @@ Lerninhalte (Mindestanzahl LE 80)
 5. Kenntnisse über die Wirkung von Strahlung
 6. Aufklärung von Personen
 7. Übungen
-8. Prüfung
 Teil C: Fachkunde-Modul „Optische Strahlung“
-Lerninhalte (Mindestanzahl LE 120)
+Lerninhalte (Mindestanzahl LE 117)
 1. Gesetzliche Grundlagen
 2. Anatomie und Physiologie der Haut und ihrer Anhangsgebilde
 3. Physikalische Grundlagen kohärenter und inkohärenter Strahlung
@@ -66,9 +65,8 @@ Lerninhalte (Mindestanzahl LE 120)
 11. Anwendungsplanung, Aufklärung von Personen und Dokumentation
 12. Übungen
 13. Selbständige Durchführung von unterschiedlichen Anwendungen unter Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit entsprechender ärztlicher Weiterbildung oder Fortbildung
-14. Prüfung
 Teil D: Fachkunde-Modul „Elektromagnetische Felder (Hochfrequenzgeräte) in der Kosmetik“
-Lerninhalte (Mindestanzahl LE 40)
+Lerninhalte (Mindestanzahl LE 38)
 1. Gesetzliche Grundlagen
 2. Anatomie und Physiologie
 3. Physikalische Grundlagen über hochfrequente elektromagnetische Felder
@@ -81,11 +79,10 @@ Lerninhalte (Mindestanzahl LE 40)
 10. Anwendungsplanung, Aufklärung von Personen und Dokumentation
 11. Übungen
 12. Selbständige Durchführung von unterschiedlichen Anwendungen unter Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit entsprechender ärztlicher Weiterbildung oder Fortbildung
-13. Prüfung
 Teil E: Fachkunde-Modul „Elektromagnetische Felder (Niederfrequenz-, Gleichstrom- oder Magnetfeldgeräte) zur Stimulation“
 Abschnitt 2 enthält Anforderungen, die sich nur auf die Fachkunde nach § 7 Absatz 1 beziehen. Die Anforderungen in Abschnitt 1 beziehen sich dagegen auf die Fachkunde nach § 7 Absatz 1, 2 und 3.
 Abschnitt 1: Übersicht der Inhalte des Fachkunde-Moduls
-Lerninhalte (Mindestanzahl LE 24)
+Lerninhalte (Mindestanzahl LE 23)
 1. Gesetzliche Grundlagen
 2. Anatomie und Physiologie bei Nerven- und Muskelstimulation
 3. Physikalische Grundlagen elektrischer, magnetischer und elektromagnetischer Felder
@@ -97,11 +94,10 @@ Lerninhalte (Mindestanzahl LE 24)
 9. Anwendungsplanung, Aufklärung von Personen und Dokumentation
 10. Übungen
 11. Selbständige Durchführung von unterschiedlichen Anwendungen unter Aufsicht einer approbierten Ärztin oder eines approbierten Arztes mit entsprechender ärztlicher Weiterbildung oder Fortbildung
-12. Prüfung
 Abschnitt 2: Zusätzliche Anforderungen für den Erwerb der Fachkunde nach § 7 Absatz 1
 Voraussetzung für die Teilnahme an diesem Modul ist der Nachweis einer Lizenz als Übungsleiterin oder Übungsleiter mit einer Ausbildung von mindestens 120 Lerneinheiten oder mindestens einer C-Lizenz als Trainerin oder Trainer mit einer Ausbildung von mindestens 120 Lerneinheiten oder einer vergleichbaren Ausbildung. Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über die Erfüllung der Anforderungen nach Teil E stehen inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Unterlagen nach Satz 2 sind auf Verlangen im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 Teil F: Fachkunde-Modul „Ultraschall“
-Lerninhalte (Mindestanzahl LE 40)
+Lerninhalte (Mindestanzahl LE 38)
 1. Gesetzliche Grundlagen
 2. Anatomie und Physiologie der Haut und ihrer Anhangsgebilde
 3. Physikalische Grundlagen von Ultraschall
@@ -115,4 +111,3 @@ Lerninhalte (Mindestanzahl LE 40)
 11. Anwendungsplanung, Aufklärung von Personen und Dokumentation
 12. Übungen
 13. Selbständige Durchführung von unterschiedlichen Anwendungen unter ärztlicher Aufsicht
-14. Prüfung

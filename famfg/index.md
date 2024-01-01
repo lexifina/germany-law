@@ -565,7 +565,7 @@
 
 ### Abschnitt 2 Zuständigkeit
 
-- [§ 376 Besondere Zuständigkeitsregelungen](0376.md)
+- [§ 376 Besondere Zuständigkeitsregelungen; Verordnungsermächtigung](0376.md)
 - [§ 377 Örtliche Zuständigkeit](0377.md)
 
 ### Abschnitt 3 Registersachen

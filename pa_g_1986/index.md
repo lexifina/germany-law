@@ -41,4 +41,4 @@
 
 - [§ 27 Allgemeine Verwaltungsvorschriften](0027.md)
 - [§ 27a Regelungsbefugnisse der Länder](0027a.md)
-- [§ 28 Übergangsregelungen](0028.md)
+- [§ 28 Übergangsvorschrift für Kinderreisepässe](0028.md)

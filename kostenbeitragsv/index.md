@@ -8,6 +8,5 @@ vorläufige Maßnahmen in der Kinder- und Jugendhilfe
 - [§ 4 Berücksichtigung weiterer Unterhaltspflichten](0004.md)
 - [§ 5 Behandlung hoher Einkommen](0005.md)
 - [§ 6 Heranziehung der Eltern bei Leistungen für junge Volljährige](0006.md)
-- [§ 7 Einsatz des Kindergelds](0007.md)
 - [Schlussformel](schlussformel.md)
 - [Anlage](anlage.md)

@@ -6,3 +6,4 @@
 | 2021 | 103 Euro | 51,50 Euro |
 | 2022 | 104 Euro | 52 Euro |
 | 2023 | 116 Euro | 58 Euro |
+| 2024 | 130 Euro | 65 Euro |

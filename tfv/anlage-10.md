@@ -24,8 +24,8 @@
   | 7.1 | Datum der Ausstellung der Zusatzbescheinigung | JJJJ-MM-TT | Verbindlich |
   | 8 | Datum des Ablaufs der Gültigkeit der Zusatzbescheinigung |
   | 8.1 | Gültigkeit der Zusatzbescheinigung: unbefristet | Text | Verbindlich |
-  | 9 | Bezeichnung des ausstellenden Unternehmens |
-  | 9.1 | Bezeichnung des ausstellenden Unternehmens | Text | Verbindlich |
+  | 9 | Bezeichnung des ausstellenden Unternehmers |
+  | 9.1 | Bezeichnung des ausstellenden Unternehmers | Text | Verbindlich |
   | 11 | Lichtbild des Inhabers |
   | 11.1 | Lichtbild | Original oder eingescanntes Bild | Verbindlich |
   | 12 | Unterschrift des Inhabers |
@@ -77,7 +77,7 @@
   Aufzeichnungen in Verbindung mit den grundlegenden Anforderungen
   bei der Erteilung einer Zusatzbescheinigung und den Ergebnissen der regelmäßigen Überprüfungen
   | 29 | Sprachkenntnisse |
-  | 29.1 | Grundlegende Anforderung | Arbeitssprache(n), für die erklärt wurde, dass die Anforderungen der Anlage 7 Nummer 6 TfV erfüllt waren | Text | Verbindlich |
+  | 29.1 | Grundlegende Anforderung | Arbeitssprache(n), für die erklärt wurde, dass die Anforderungen der Anlage 7 Abschnitt 6 TfV erfüllt waren | Text | Verbindlich |
   | 29.2 | Regelmäßige Überprüfung | Datum der Kenntnis- bescheinigung (Prüfung bestanden) für jede Sprache | JJJJ-MM-TT | Verbindlich |
   | 30 | Fahrzeugkenntnis |
   | 30.1 | Grundlegende Anforderung | Fahrzeuge, für die erklärt wurde, dass die Anforderungen der Anlage 6 TfV erfüllt waren | Text | Verbindlich |
@@ -86,8 +86,8 @@
   | 31.1 | Grundlegende Anforderung | Infrastruktur, für die erklärt wurde, dass Anforderungen der Anlage 7 TfV erfüllt waren | Text | Verbindlich |
   | 31.2 | Regelmäßige Überprüfung | Datum der regelmäßigen Überprüfung (bescheinigte Kenntnisse) | JJJJ-MM-TT | Verbindlich |
 2. Auskunftsrechte
-  Auskunft aus dem Register der Zusatzbescheinigungen ist den folgenden Berechtigten zur Echtheits- und Gültigkeitsfeststellung von Zusatzbescheinigungen zu erteilen:
+  Auskunft aus dem Register der Zusatzbescheinigungen ist den folgenden Berechtigten zur Echtheits- und Gültigkeitsfeststellung von Zusatzbescheinigungen sowie zur Feststellung des Vorliegens der nach § 5 Absatz 2 erforderlichen Voraussetzungen zu erteilen:
   a) der zuständigen Behörde;
   b) den zuständigen Behörden der anderen Mitgliedstaaten, in denen der Unternehmer seiner Geschäftstätigkeit nachgeht und in denen der Triebfahrzeugführer auf mindestens einer Strecke des Netzes Züge führen darf, betreffend der grenzüberschreitenden Tätigkeiten;
-  c) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+  c) der Bundesstelle für Eisenbahnunfalluntersuchung oder jeder Untersuchungsstelle eines anderen Mitgliedstaates der Europäischen Union im Sinne der Richtlinie (EU) 2016/798 zur Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb und
   d) den Eisenbahnaufsichtsbehörden der Länder.

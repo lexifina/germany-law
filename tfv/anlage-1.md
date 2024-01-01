@@ -1,9 +1,9 @@
-# Anlage 1 (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)Gemeinschaftsmodell für den Triebfahrzeugführerschein
+# Anlage 1 (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)Modell der Europäischen Union für den Triebfahrzeugführerschein
 
 A. Anfertigung des Triebfahrzeugführerscheins
-  Der Triebfahrzeugführerschein wird von der Bundesdruckerei GmbH im Auftrag der zuständigen Behörde gefertigt. Die Herstellung, Personalisierung und Lieferung der Triebfahrzeugführerscheine erfolgt auf der Grundlage eines Vertrages zwischen der zuständigen Behörde und der Bundesdruckerei GmbH. Näheres wird durch Verwaltungsvorschrift geregelt.
+  Der Triebfahrzeugführerschein wird von der Bundesdruckerei GmbH im Auftrag der zuständigen Behörde gefertigt. Die Herstellung, Personalisierung und Lieferung der Triebfahrzeugführerscheine erfolgt auf der Grundlage eines Vertrages zwischen der zuständigen Behörde und der Bundesdruckerei GmbH.
 B. Gestaltung des Triebfahrzeugführerscheins
-  Der Triebfahrzeugführerschein richtet sich nach dem Gemeinschaftsmodell und den Referenzfarben Pantone Reflex Blue und Pantone Yellow.
+  Der Triebfahrzeugführerschein richtet sich nach dem Modell der Europäischen Union und den Referenzfarben Pantone Reflex Blue und Pantone Yellow.
   1. Die Vorderseite des Triebfahrzeugführerscheins enthält folgende Angaben:
     a) in Blockbuchstaben die Aufschrift „Triebfahrzeugführerschein“;
     b) die Aufschrift „Bundesrepublik Deutschland“ als ausstellenden Staat mit deutscher Flagge;
@@ -18,7 +18,7 @@ B. Gestaltung des Triebfahrzeugführerscheins
       gg) Nummer 5: Nummer des Triebfahrzeugführerscheins, die im nationalen Register Zugriff auf Daten ermöglicht,
       hh) Nummer 6: Lichtbild des Inhabers und
       ii) Nummer 7: Unterschrift des Inhabers.
-    Die Nummer des Triebfahrzeugführerscheins nach Doppelbuchstabe gg wird als Europäische Identifikationsnummer nach Anhang IV der Verordnung (EG) Nr. 653/2007 der Kommission vom 13. Juni 2007 zur Verwendung eines einheitlichen europäischen Formats für Sicherheitsbescheinigungen und Antragsunterlagen gemäß Artikel 10 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates und zur Gültigkeit von gemäß der Richtlinie 2001/14/EG des Europäischen Parlaments und des Rates ausgestellten Sicherheitsbescheinigungen (ABl. L 153 vom 14.6.2007, S. 9), die durch die Verordnung (EU) Nr. 445/2011 (ABl. L 122 vom 11.5.2011, S. 22) geändert worden ist, gebildet.
+    Die Nummer des Triebfahrzeugführerscheins nach Doppelbuchstabe gg wird gebildet als Europäische Identifikationsnummer nach Artikel 3 Absatz 10 der Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission (ABl. L 129 vom 25.5.2018, S. 49) in der jeweils geltenden Fassung.
     Die zwei Ziffern der Europäischen Identifikationsnummer für die Art des Dokuments lauten wie folgt:
     71 für den 1. bis 9 999. Triebfahrzeugführerschein pro Jahr;
     72 für den 10 000. bis 19 999. Triebfahrzeugführerschein pro Jahr;
@@ -34,6 +34,6 @@ B. Gestaltung des Triebfahrzeugführerscheins
     Zudem ist die Aufschrift „Modell der Europäischen Union“ aufzudrucken.
 C. Nummerierung des Triebfahrzeugführerscheins
   Die Nummer wird bei Erteilung des Triebfahrzeugführerscheins von der zuständigen Behörde vergeben und bei einer Verlängerung, Änderung oder Ausstellung eines Ersatzführerscheins beibehalten. Bei der Verlängerung nach zehn Jahren wird der Triebfahrzeugführerschein mit einem neuen Lichtbild und einem neuen Datum des Ablaufs der Gültigkeit versehen.
-D. Gemeinschaftsmodell für den Triebfahrzeugführerschein
+D. Modell der Europäischen Union für den Triebfahrzeugführerschein
   [Bild: bgbl1_2011_j0705-1_0010.jpg]
   [Bild: bgbl1_2011_j0705-1_0020.jpg]

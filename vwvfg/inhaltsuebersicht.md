@@ -48,7 +48,9 @@ Verfahrensgrundsätze
 | § 25 | Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung |
 | § 26 | Beweismittel |
 | § 27 | Versicherung an Eides statt |
-| § 27a | Öffentliche Bekanntmachung im Internet |
+| § 27a | Bekanntmachung im Internet |
+| § 27b | Zugänglichmachung auszulegender Dokumente |
+| § 27c | Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit |
 | § 28 | Anhörung Beteiligter |
 | § 29 | Akteneinsicht durch Beteiligte |
 | § 30 | Geheimhaltung |
@@ -164,4 +166,5 @@ Schlussvorschriften
 | § 100 | Landesgesetzliche Regelungen |
 | § 101 | Stadtstaatenklausel |
 | § 102 | Übergangsvorschrift zu § 53 |
+| § 102a | Übergangsregelung für die Durchführung von Verwaltungsverfahren |
 | § 103 | (Inkrafttreten) |

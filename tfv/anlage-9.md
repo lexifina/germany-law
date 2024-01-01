@@ -61,10 +61,10 @@
   | 19 | Änderung(en) |
   | 19.1 | Datum der Änderung | JJJJ-MM-TT | Verbindlich |
   | 19.2 | Grund der Änderung | Text | Verbindlich |
-  | 20 | Aussetzung(en) nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV |
+  | 20 | Aussetzung(en) nach § 19a Absatz 1 in Verbindung mit § 5 Absatz 1 TfV |
   | 20.1 | Dauer der Aussetzung | Von (Datum) bis (Datum) | Verbindlich |
   | 20.2 | Grund der Aussetzung –Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 4 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 5 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 6 TfV | Text | Verbindlich |
-  | 21 | Entziehung nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV |
+  | 21 | Entziehung nach § 19a Absatz 1 in Verbindung mit § 5 Absatz 1 TfV |
   | 21.1 | Datum der Entziehung | JJJJ-MM-TT | Verbindlich |
   | 21.2 | Grund der Entziehung –Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 4 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 5 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 6 TfV | Text | Verbindlich |
   | 22 | Als verloren gemeldeter Triebfahrzeugführerschein |
@@ -98,10 +98,10 @@
   | 28.2 | Datum der Prüfung |  | JJJJ-MM-TT | Verbindlich |
   | 28.3 | Nachfolgende Überprüfungen |  | JJJJ-MM-TT | Verbindlich |
 2. Auskunftsrechte
-  Auskunft aus dem Register der Triebfahrzeugführerscheine ist den folgenden Berechtigten über den aktuellen Status von Triebfahrzeugführerscheinen zur Echtheits- und Gültigkeitsfeststellung zu erteilen:
+  Auskunft aus dem Register der Triebfahrzeugführerscheine ist den folgenden Berechtigten über den aktuellen Status von Triebfahrzeugführerscheinen zur Echtheits- und Gültigkeitsfeststellung sowie zur Feststellung des Vorliegens der nach § 5 Absatz 1 erforderlichen Voraussetzungen zu erteilen:
   a) Unternehmern, die Triebfahrzeugführer beschäftigen oder unter Vertrag genommen haben;
   b) jedem Arbeitgeber von Triebfahrzeugführern, die einen Triebfahrzeugführer zu beschäftigen beabsichtigen;
   c) den zuständigen Behörden der anderen Mitgliedstaaten zur Kontrolle der im Gebiet ihrer Rechtshoheit verkehrenden Züge oder in Bezug auf die Einhaltung der Richtlinie 2007/59/EG durch alle im Gebiet ihrer Rechtshoheit tätigen Triebfahrzeugführer;
-  d) der Europäischen Eisenbahnagentur, um die Umsetzung der Richtlinie 2007/59/EG zu untersuchen;
-  e) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+  d) der Eisenbahnagentur der Europäischen Union, um die Umsetzung der Richtlinie 2007/59/EG zu untersuchen;
+  e) der Bundesstelle für Eisenbahnunfalluntersuchung oder jeder Untersuchungsstelle eines anderen Mitgliedstaates der Europäischen Union im Sinne der Richtlinie (EU) 2016/798 zur Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb und
   f) den Eisenbahnaufsichtsbehörden der Länder.

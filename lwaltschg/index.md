@@ -9,8 +9,7 @@ landwirtschaftlicher Unternehmen
 ## Teil 2 Änderung von Vertragsinhalten bei
 Rangrücktrittsvereinbarungen über landwirtschaftliche Altschulden
 
-- [§ 2 Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche
-Altschulden](0002.md)
+- [§ 2 Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche Altschulden](0002.md)
 - [§ 3 Erhöhung des Abführungssatzes](0003.md)
 - [§ 4 Veräußerung nicht betriebsnotwendiger Vermögens- und Betriebsteile](0004.md)
 - [§ 5 Überprüfung der Sanierungsabsicht](0005.md)

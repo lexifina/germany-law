@@ -2,8 +2,10 @@
 
 Gebührenverzeichnis
 Teil 1
-Eintragungen
-in das Handelsregister Abteilung A und das Partnerschaftsregister
+Eintragungen in
+das Handelsregister
+Abteilung A, das Gesellschafts-
+register und das Partnerschaftsregister
 | Nr. | Gebührentatbestand | Gebührenbetrag |
 | Vorbemerkung 1: (1) Für Eintragungen, die juristische Personen (§ 33 HGB) und Europäische wirtschaftliche Interessenvereinigungen betreffen, bestimmen sich die Gebühren nach den für Eintragungen bei Gesellschaften mit bis zu 3 eingetragenen Gesellschaftern geltenden Vorschriften. Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen eines Unternehmens mit Hauptniederlassung oder Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Unternehmen geltenden Vorschriften sind anzuwenden. (2) Wird die Hauptniederlassung oder der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register der bisherigen Hauptniederlassung oder des bisherigen Sitzes keine Gebühr erhoben. (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben. (4) Für die Eintragung des Erlöschens der Firma oder des Namens sowie des Schlusses der Abwicklung einer Europäischen wirtschaftlichen Interessenvereinigung werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt. |
 |  |  |  |

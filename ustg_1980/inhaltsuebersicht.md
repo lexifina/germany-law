@@ -70,6 +70,7 @@
 |  | § 22d | Steuernummer und zuständiges Finanzamt |
 |  | § 22e | Untersagung der Fiskalvertretung |
 |  | § 22f | Besondere Pflichten für Betreiber einer elektronischen Schnittstelle |
+|  | § 22g | Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung |
 | VI. | Sonderregelungen |
 |  | § 23 | (weggefallen) |
 |  | § 23a | Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes |

@@ -135,8 +135,9 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 26b. ein Fahrzeug führt,
   a) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgerüstet ist,
   b) auf dem das Inland AIS Gerät entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1, auch in Verbindung mit Satz 2, den dort jeweils genannten Vorschriften nicht entspricht oder entgegen § 4.07 Nummer 1 Satz 2 oder Nummer 6 Satz 3 nicht in einem guten Betriebszustand ist,
-  c) das entgegen § 4.07 Nummer 3 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
-  d) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht auf Empfang geschaltet oder in einem guten Betriebszustand ist,
+  c) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+  d) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht oder
+  e) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht auf Empfang geschaltet oder in einem guten Betriebszustand ist,
 26c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht, nicht rechtzeitig oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
 27. einer Vorschrift über
   a) die Zusammenstellung der Verbände nach § 6.21 Nr. 1, 2 Satz 1 oder 2 oder Nr. 3, die Begehbarkeit der Schubverbände nach § 8.07 oder die Zusammenstellung der Schleppverbände nach § 8.08,
@@ -208,13 +209,14 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
   n) das entgegen § 4.05 Nummer 4 Satz 1 nicht mit einer Sprechfunkanlage für die dort genannten Verkehrskreise ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.05 Nummer 4 Satz 2 nicht die gleichzeitige Hörbereitschaft auf zwei Verkehrskreisen gewährleistet,
   o) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgerüstet ist,
   p) auf dem ein Inland AIS Gerät entgegen § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1, auch in Verbindung mit Satz 2, den dort jeweils genannten Vorschriften nicht entspricht oder entgegen § 4.07 Nummer 1 Satz 2 oder Nummer 6 Satz 3 nicht in einem guten Betriebszustand ist,
-  q) das entgegen § 4.07 Nummer 3 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
-  r) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht in einem guten Betriebszustand ist,
-  s) das entgegen § 6.21 Nr. 1 über eine ausreichende Maschinenleistung nicht verfügt,
-  t) das entgegen § 6.21 Nr. 2 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
-  u) das sich entgegen § 6.21 Nr. 2 Satz 2 nicht an der Steuerbordseite befindet,
-  v) das entgegen § 6.21 Nr. 3 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
-  w) das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen Höchstabmessungen überschreitet,
+  q) das entgegen § 4.07 Nummer 3 Satz 1 nicht mit einem dort genannten Gerät ausgestattet ist,
+  r) auf dem ein Inland ECDIS Gerät entgegen § 4.07 Nummer 3 Satz 2 nicht den dort genannten Bestimmungen entspricht,
+  s) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht in einem guten Betriebszustand ist,
+  t) das entgegen § 6.21 Nr. 1 über eine ausreichende Maschinenleistung nicht verfügt,
+  u) das entgegen § 6.21 Nr. 2 Satz 1 zum Schleppen, Schieben oder zur Fortbewegung gekuppelter Fahrzeuge verwendet wird,
+  v) das sich entgegen § 6.21 Nr. 2 Satz 2 nicht an der Steuerbordseite befindet,
+  w) das entgegen § 6.21 Nr. 3 längsseits gekuppelt fährt, schleppt oder geschleppt wird oder
+  x) das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen Höchstabmessungen überschreitet,
 10a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 10b. die Inbetriebnahme eines Fahrzeugs mit einer Länge über 110 m anordnet oder zulässt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
 10c. die Inbetriebnahme eines Fahrzeugs, ausgenommen ein Fahrgastschiff, mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,

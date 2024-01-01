@@ -236,6 +236,7 @@
 - [§ 96 Kommunikationsserver](0096.md)
 - [§ 97 Annahmestellen](0097.md)
 - [§ 98 Weiterleitung der Daten durch die Einzugsstellen](0098.md)
+- [§ 98a Datei der Stammdaten der an den Meldeverfahren beteiligten Träger der sozialen Sicherung](0098a.md)
 
 ### Dritter Titel Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung
 
@@ -252,12 +253,17 @@
 
 ## Achter Abschnitt Elektronisches Antrags- und Bescheinigungsverfahren
 
-- [§ 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 11 Absatz 3 Buchstabe b, Absatz 4, 5, Artikel 12 Absatz 1, Artikel 13 Absatz 1 Buchstabe a oder Buchstabe b Ziffer i und Artikel 16 der Verordnung (EG) Nr. 883/2004](0106.md)
-- [§ 106a Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei selbständiger Erwerbstätigkeit nach Artikel 11 Absatz 4 und Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004](0106a.md)
+- [§ 106 Elektronischer Antrag des Arbeitgebers auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Beschäftigung in einem oder mehreren Mitgliedsstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland](0106.md)
+- [§ 106a Elektronischer Antrag durch Selbständige und Mehrfacherwerbstätige auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Erwerbstätigkeit in einem oder mehreren Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland](0106a.md)
+- [§ 106b Elektronischer Antrag auf Freistellung von der Anwendung der Rechtsvorschriften des Wohnmitgliedstaates nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 883/2004](0106b.md)
+- [§ 106c Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Tätigkeit in einem Vertragsstaat, mit dem die Bundesrepublik Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über die anzuwendenden Rechtsvorschriften geschlossen hat](0106c.md)
+- [§ 106d Gemeinsame Grundsätze zu den Inhalten der Anträge und den zu übermittelnden Datensätzen nach den §§ 106 bis 106c](0106d.md)
 - [§ 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen](0107.md)
 - [§ 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger](0108.md)
 - [§ 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld](0108a.md)
+- [§ 108b Unbedenklichkeitsbescheinigungen der Einzugsstellen](0108b.md)
 - [§ 109 Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber](0109.md)
+- [§ 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit](0109a.md)
 - [§ 110 (weggefallen)](0110.md)
 
 ## Neunter Abschnitt Aufbewahrung von Unterlagen
@@ -280,9 +286,10 @@
 - [§ 116a (weggefallen)](0116a.md)
 - [§ 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner](0117.md)
 - [§ 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst](0118.md)
-- [§ 119 (weggefallen)](0119.md)
+- [§ 119 Berücksichtigung von Versorgungskrankengeld](0119.md)
 - [§ 120 (weggefallen)](0120.md)
 - [§ 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen](0121.md)
+- [§ 122 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0122.md)
 - [§ 123 Übergangsregelung](0123.md)
 - [§ 124 (weggefallen)](0124.md)
 - [§ 125 (weggefallen)](0125.md)

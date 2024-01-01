@@ -425,6 +425,7 @@
 |  |
 | § 128 | Versicherungsfreiheit |
 | § 129 | Kürzung der Renten |
+| § 130 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
 |  |
 | Anlage 1 | (weggefallen) |
 |  |

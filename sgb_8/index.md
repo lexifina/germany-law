@@ -19,6 +19,7 @@
 - [§ 9a Ombudsstellen](0009a.md)
 - [§ 10 Verhältnis zu anderen Leistungen und Verpflichtungen](0010.md)
 - [§ 10a Beratung](0010a.md)
+- [§ 10b Verfahrenslotse](0010b.md)
 
 ## Zweites Kapitel Leistungen der Jugendhilfe
 
@@ -280,5 +281,5 @@
 ## Elftes Kapitel Übergangs- und Schlussvorschriften
 
 - [§ 106 Einschränkung eines Grundrechts](0106.md)
-- [§ 107 (zukünftig in Kraft)](0107.md)
+- [§ 107 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0107.md)
 - [§ 108 Übergangsregelung](0108.md)

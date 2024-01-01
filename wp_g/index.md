@@ -59,8 +59,7 @@ Widerrufs](0018.md)
 
 - [§ 35 Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots](0035.md)
 - [§ 36 Nichtberücksichtigung von Stimmrechten](0036.md)
-- [§ 37 Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe
-eines Angebots](0037.md)
+- [§ 37 Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots](0037.md)
 - [§ 38 Anspruch auf Zinsen](0038.md)
 - [§ 39 Anwendung der Vorschriften des Abschnitts 3 und 4](0039.md)
 

@@ -211,6 +211,7 @@
 - [§ 80 (weggefallen)](0080.md)
 - [§ 81 (weggefallen)](0081.md)
 - [§ 82 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0082.md)
+- [§ 82 (weggefallen)](0082-2.md)
 - [§ 83 Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze](0083.md)
 - [§ 84 (weggefallen)](0084.md)
 - [§ 85 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0085.md)

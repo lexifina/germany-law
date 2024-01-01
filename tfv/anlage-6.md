@@ -1,4 +1,4 @@
-# Anlage 6 (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1 und § 7 Absatz 7)Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+# Anlage 6 (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1, § 7 Absatz 7 und § 7a Absatz 3 Satz 1)Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
 1. Prüfungen und Kontrollen
   Der Triebfahrzeugführer muss am Triebfahrzeug die Vorbereitungs- und Abschlussarbeiten durchführen und hierbei insbesondere

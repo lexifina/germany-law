@@ -2,7 +2,7 @@
 
 Erwerb forstwirtschaftlicher Flächen nach § 3 Abs. 8 des Ausgleichsleistungsgesetzes durch frühere Eigentümer
 1. Unterlagen über die Voraussetzungen der Berechtigung nach § 1 Abs. 1, 3, 6 oder 7 des Vermögensgesetzes sowie § 1 des Ausgleichsleistungsgesetzes
-2. Sofern Gesellschafter einer Personengesellschaft:
+2. Sofern Gesellschafter einer rechtsfähigen Personengesellschaft:
   Bestätigung der Gesellschaft über die Stellung des Kaufbewerbers als unbeschränkt haftender Gesellschafter
 3. Sofern Mitglied einer Erbengemeinschaft:
   Nachweis der zustehenden beziehungsweise übertragenen Erbanteile

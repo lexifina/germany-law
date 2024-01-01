@@ -17,6 +17,7 @@
 | § 9a | Ombudsstellen |
 | § 10 | Verhältnis zu anderen Leistungen und Verpflichtungen |
 | § 10a | Beratung |
+| § 10b | Verfahrenslotse |
 |  |  |
 | Zweites Kapitel |
 | Leistungen der Jugendhilfe |
@@ -298,6 +299,6 @@
 | Elftes Kapitel |
 | Übergangs- und Schlussvorschriften |
 | § 106 | Einschränkung eines Grundrechts |
-| § 107 | (zukünftig in Kraft) |
+| § 107 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
 | § 108 | Übergangsregelung |
 |  |  |

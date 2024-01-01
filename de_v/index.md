@@ -38,7 +38,7 @@ durch Datenübertragung
 
 ### Erster Unterabschnitt Allgemeines
 
-- [§ 16 (weggefallen)](0016.md)
+- [§ 16 Technische Standards für die Meldeverfahren](0016.md)
 - [§ 17 Datenübertragungsverfahren](0017.md)
 
 ### Zweiter Unterabschnitt Systemprüfung

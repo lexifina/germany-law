@@ -10,7 +10,7 @@ Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgl
 6. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 7. Benennung der am 1. Oktober 1994 im Eigentum des Berechtigten stehenden landwirtschaftlich genutzten Flächen
 8. Benennung der bei Kaufantrag vom Betrieb bewirtschafteten landwirtschaftlich genutzten Flächen
-9. Sofern Gesellschafter einer Personengesellschaft, die selbst Pächter der Flächen gemäß § 3 Abs. 1 und 2 des Ausgleichsleistungsgesetzes ist, zusätzlich
+9. Sofern Gesellschafter einer rechtsfähigen Personengesellschaft, die selbst Pächter der Flächen gemäß § 3 Abs. 1 und 2 des Ausgleichsleistungsgesetzes ist, zusätzlich
   - Nachweis der zum Zeitpunkt des Kaufantrags geltenden Beteiligungsregelung
   - Nachweis über die unbeschränkte Haftung des Bewerbers als Gesellschafter
   - Nachweis über die Einigung mit den unbeschränkt haftenden Mitgesellschaftern betreffend die Ausübung der Erwerbsmöglichkeit nach § 3 des Ausgleichsleistungsgesetzes

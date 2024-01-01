@@ -69,23 +69,30 @@ der Barabfindung](0030.md)
 #### Erster Abschnitt Verschmelzung unter Beteiligung von Personengesellschaften
 
 
-##### Erster Unterabschnitt Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
+##### Erster Unterabschnitt Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts
 
-- [§ 39 Ausschluß der Verschmelzung](0039.md)
+- [§ 39 Ausschluss der Verschmelzung](0039.md)
+- [§ 39a Verschmelzungsbericht](0039a.md)
+- [§ 39b Unterrichtung der Gesellschafter](0039b.md)
+- [§ 39c Beschluss der Gesellschafterversammlung](0039c.md)
+- [§ 39d Widerspruch gegen den Beschluss der Gesellschafterversammlung](0039d.md)
+- [§ 39e Prüfung der Verschmelzung](0039e.md)
+- [§ 39f Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter](0039f.md)
+
+##### Zweiter Unterabschnitt Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
+
 - [§ 40 Inhalt des Verschmelzungsvertrags](0040.md)
-- [§ 41 Verschmelzungsbericht](0041.md)
-- [§ 42 Unterrichtung der Gesellschafter](0042.md)
-- [§ 43 Beschluß der Gesellschafterversammlung](0043.md)
-- [§ 44 Prüfung der Verschmelzung](0044.md)
-- [§ 45 Zeitliche Begrenzung der Haftung persönlich haftender
-Gesellschafter](0045.md)
+- [§ 41 Widerspruch gegen den Beschluss der Gesellschafterversammlung](0041.md)
+- [§ 42 Entsprechend anzuwendende Vorschriften](0042.md)
+- [§ 43 (weggefallen)](0043.md)
+- [§ 44 (weggefallen)](0044.md)
+- [§ 45 (weggefallen)](0045.md)
 
-##### Zweiter Unterabschnitt Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
+##### Dritter Unterabschnitt Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
 
 - [§ 45a Möglichkeit der Verschmelzung](0045a.md)
 - [§ 45b Inhalt des Verschmelzungsvertrages](0045b.md)
-- [§ 45c Verschmelzungsbericht und
-Unterrichtung der Partner](0045c.md)
+- [§ 45c Verschmelzungsbericht und Unterrichtung der Partner](0045c.md)
 - [§ 45d Beschluß der Gesellschafterversammlung](0045d.md)
 - [§ 45e Anzuwendende Vorschriften](0045e.md)
 
@@ -313,8 +320,7 @@ auf Gegenseitigkeit
 - [§ 154 Eintragung der Ausgliederung](0154.md)
 - [§ 155 Wirkungen der Ausgliederung](0155.md)
 - [§ 156 Haftung des Einzelkaufmanns](0156.md)
-- [§ 157 Zeitliche Begrenzung der Haftung für übertragene
-Verbindlichkeiten](0157.md)
+- [§ 157 Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten](0157.md)
 
 ##### Dritter Unterabschnitt Ausgliederung zur Neugründung
 
@@ -455,7 +461,7 @@ der Barabfindung](0208.md)
 #### Erster Abschnitt Formwechsel von Personengesellschaften
 
 
-##### Erster Unterabschnitt Formwechsel von Personenhandelsgesellschaften
+##### Erster Unterabschnitt Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften
 
 - [§ 214 Möglichkeit des Formwechsels](0214.md)
 - [§ 215 Formwechselbericht](0215.md)
@@ -467,8 +473,7 @@ der Barabfindung](0208.md)
 - [§ 221 Beitritt persönlich haftender Gesellschafter](0221.md)
 - [§ 222 Anmeldung des Formwechsels](0222.md)
 - [§ 223 Anlagen der Anmeldung](0223.md)
-- [§ 224 Fortdauer und zeitliche Begrenzung der persönlichen
-Haftung](0224.md)
+- [§ 224 Fortdauer und zeitliche Begrenzung der persönlichen Haftung](0224.md)
 - [§ 225 Prüfung des Abfindungsangebots](0225.md)
 
 ##### Zweiter Unterabschnitt Formwechsel von Partnerschaftsgesellschaften

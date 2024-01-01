@@ -107,7 +107,6 @@ Erlaubnis](0047.md)
 
 - [§ 54 Vollzug durch die Länder](0054.md)
 - [§ 54a Vollzug durch die Bundeswehr](0054a.md)
-- [§ 54b Vollzug durch das Eisenbahn-Bundesamt](0054b.md)
 
 ## 11. Abschnitt Angleichung an Gemeinschaftsrecht
 
@@ -119,11 +118,7 @@ Erlaubnis](0047.md)
 - [§ 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung](0057.md)
 - [§ 58 Aufwendungserstattung](0058.md)
 - [§ 59 Arbeits- und sozialrechtliche Sondervorschriften](0059.md)
-- [§ 60 Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe](0060.md)
-- [§ 61 Gesundheitsschadensanerkennung](0061.md)
-- [§ 62 Heilbehandlung](0062.md)
-- [§ 63 Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen](0063.md)
-- [§ 64 Zuständige Behörde für die Versorgung](0064.md)
+- [XXXX (§§ 60 bis 64) (weggefallen)](xxxx-60-bis-64.md)
 - [§ 65 Entschädigung bei behördlichen Maßnahmen](0065.md)
 - [§ 66 Zahlungsverpflichteter](0066.md)
 - [§ 67 Pfändung](0067.md)

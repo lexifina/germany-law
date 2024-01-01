@@ -163,9 +163,7 @@ oder sonstigen Existenzgrundlage](0284.md)
 - [§ 289 Meldepflicht](0289.md)
 - [§ 290 Erstattungspflicht](0290.md)
 - [§ 291 Verhältnis zu Aufbaudarlehen](0291.md)
-- [§ 292 Verhältnis zur Sozialhilfe, zur Kriegsopferfürsorge
-sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung
-des Lebensunterhalts](0292.md)
+- [§ 292 Verhältnis zur Sozialhilfe, zur Sozialen Entschädigung sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts](0292.md)
 
 #### Fünfter Titel Vorschriften für die Zahlung der
 Kriegsschadenrente nach dem 31. Dezember 2005

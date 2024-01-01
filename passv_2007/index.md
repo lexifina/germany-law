@@ -5,10 +5,10 @@
 ## Kapitel 1 Passmuster
 
 - [§ 1 Muster des Reisepasses; Änderung von Daten](0001.md)
-- [§ 2 Muster des Kinderreisepasses; Änderung von Daten](0002.md)
-- [§ 3 Muster des vorläufigen Reisepasses; Änderung von Daten](0003.md)
-- [§ 4 Muster des amtlichen Passes; Änderung von Daten](0004.md)
-- [§ 5 Lichtbild](0005.md)
+- [§ 2 Muster des vorläufigen Reisepasses; Änderung von Daten](0002.md)
+- [§ 3 Muster des amtlichen Passes; Änderung von Daten](0003.md)
+- [§ 4 Lichtbild](0004.md)
+- [§ 5 (weggefallen)](0005.md)
 
 ## Kapitel 2 Befreiung von der Passpflicht und Passersatzpapiere
 
@@ -39,7 +39,7 @@
 - [Anlage 1b Muster des Aufklebers zur Änderung des Wohnortes](anlage-1b.md)
 - [Anlage 1c Muster des Aufklebers zur Änderung des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes](anlage-1c.md)
 - [Anlage 1d Muster des Aufklebers zur Eintragung amtlicher Vermerke](anlage-1d.md)
-- [Anlage 2 Passmuster Kinderreisepass](anlage-2.md)
+- [Anlage 2 (weggefallen)](anlage-2.md)
 - [Anlage 3](anlage-3.md)
 - [Anlage 4 Passmuster Dienstpass](anlage-4.md)
 - [Anlage 5 Passmuster Diplomatenpass](anlage-5.md)

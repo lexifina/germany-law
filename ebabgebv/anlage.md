@@ -30,7 +30,7 @@ Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V. m. VwVfG
 | 2.2 | Plangenehmigung | § 18 Absatz 1 AEG i. V. m. § 74 Absatz 6 VwVfG | a)9 000 Euro bei anrechenbaren Baukosten bis 2 Mio Eurob)16 000 Euro bei anrechenbaren Baukosten von über 2 Mio Euro |
 | 2.3 | Entscheidung über das Entfallen der Planfeststellung und Plangenehmigung | § 18 Absatz 1 AEG i. V. m. § 74 Absatz 7 VwVfG | 2 900 Euro |
 | 2.4 | Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung nach Baubeginn | § 77 i. V. m. § 75 Absatz 1a VwVfG | nach Zeitaufwand bis zu 75 % der Gebühr nach Nummer 2.1 oder 2.2 |
-| 2.5 | Anhörungsverfahren, auch bei Plangenehmigung, bei der eine Umweltverträglichkeitsprüfung durchzuführen ist | § 18 Absatz 1 AEG i. V. m.: –§ 73 VwVfG,–§ 18b AEG,–§§ 17 bis 27 UVPG oder–§ 73 Absatz 3 Satz 1 und Satz 5 bis 7 VwVfG | a)42 000 Euro bei anrechenbaren Baukosten bis 5 Mio. Eurob)98 000 Euro bei anrechenbaren Baukosten von über 5 bis 15 Mio. Euroc)166 000 Euro bei anrechen- baren Bau- kosten von über 15 Mio. Euro |
+| 2.5 | Anhörungsverfahren, auch bei Plangenehmigung, bei der eine Umweltverträglichkeitsprüfung durchzuführen ist | § 18 Absatz 1 AEG i. V. m.: –§ 73 VwVfG,–§ 18b AEG,–§§ 17 bis 27 UVPG oder–§ 73 Absatz 3 Satz 1 und 2 sowie Absatz 5 bis 7 VwVfG | a)42 000 Euro bei anrechenbaren Baukosten bis 5 Mio. Eurob)98 000 Euro bei anrechenbaren Baukosten von über 5 bis 15 Mio. Euroc)166 000 Euro bei anrechen- baren Bau- kosten von über 15 Mio. Euro |
 | 2.6 | Verlängerung der Gültigkeit des Planfeststellungsbeschlusses oder der Plangenehmigung | § 18c Nummer 1 bis 3 AEG | nach Zeitaufwand, mindestens 2 500 und höchstens 9 000 Euro |
 | 2.7 | Planänderung durch neues Planfeststellungsverfahren | § 18 Absatz 1 AEG i. V. m. § 76 Absatz 1 VwVfG | nach Tafel 1 des Anhangs zu dieser Anlage |
 | 2.8 | Planänderung durch neues Plangenehmigungsverfahren | § 74 Absatz 6 VwVfG i. V. m. § 76 Absatz 1 VwVfG | a)9 000 Euro bei anrechenbaren Baukosten bis 2 Mio. Eurob)16 000 Euro bei anrechenbaren Baukosten von über 2 Mio. Euro |
@@ -130,12 +130,19 @@ Individuell zurechenbare öffentliche Leistungen nach der TfV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |
 | 10.1 | Ausstellung eines vorläufigen Führerscheins und Erteilung eines neuen, geänderten oder verlängerten Triebfahrzeugführerscheins oder eines Ersatzführerscheins | § 8 Absatz 1 i. V. m. Absatz 2 und 3 TfV | 175 Euro |
 | 10.2 | Erteilung eines neuen, geänderten oder verlängerten Triebfahrzeugführerscheins oder eines Ersatzführerscheins | § 8 Absatz 1 i. V. m. Absatz 3 TfV | 150 Euro |
-| 10.3 | Aussetzung oder Entziehung eines Triebfahrzeugführerscheins | § 19 Absatz 3 Satz 1 TfV | 150 Euro |
+| 10.3 | Aussetzung oder Entziehung eines Triebfahrzeugführerscheins | § 19a Absatz 1 TfV | 150 Euro |
 | 10.4 | Erteilung einer Auskunft aus dem Register der Triebfahrzeugführerscheine | § 10 Absatz 3 TfV | 50 Euro |
-| 10.5 | Anerkennung einer Person oder Stelle als Ausbilder | § 14 Absatz 1 und 6 TfV | 850 Euro |
-| 10.6 | Anerkennung einer Person oder Stelle als Prüfer | § 15 Absatz 1 TfV | 850 Euro |
-| 10.7 | Anerkennung als Arzt, Psychologe oder Stelle zur Durchführung von Tauglichkeitsuntersuchungen | § 16 Absatz 1 TfV | 850 Euro |
-| 10.8 | Umstellung einer Fahrerlaubnis auf einen Triebfahrzeugführerschein | § 21 Absatz 3 TfV | 150 Euro |
+| 10.5 | Anerkennung und Überwachung einer Person als Ausbilder | § 14 Absatz 2 und§ 18 Absatz 3 oder § 14d und§ 18 Absatz 3 TfV | 1 320 Euro |
+| 10.6 | Anerkennung und Überwachung einer Stelle als Ausbildungsstelle | § 14 Absatz 3 und § 18 Absatz 3 oder § 14d und§ 18 Absatz 3 TfV | 2 340 Euro |
+| 10.7 | Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als Ausbilder | § 14 Absatz 2 i. V. m. § 14c Absatz 2 und§ 18 Absatz 3 oder § 14d und§ 18 Absatz 3 TfV | 852 Euro |
+| 10.8 | Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als Ausbildungsstelle | § 14 Absatz 3 i. V. m. § 14c Absatz 2 und § 18 Absatz 3 oder § 14d und§ 18 Absatz 3 TfV | 1 320 Euro |
+| 10.9 | Anerkennung und Überwachung einer Person als Prüfer | § 15 Absatz 2 und§ 18 Absatz 3 TfV | 1 320 Euro |
+| 10.10 | Anerkennung und Überwachung einer Stelle als Prüfstelle | § 15 Absatz 3 und§ 18 Absatz 3 TfV | 2 340 Euro |
+| 10.11 | Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als Prüfer | § 15 Absatz 2 i. V. m. § 15c Absatz 2 und§ 18 Absatz 3 TfV | 852 Euro |
+| 10.12 | Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als Prüfstelle | § 15 Absatz 3 i. V. m. § 15c Absatz 2 und § 18 Absatz 3 TfV | 1 320 Euro |
+| 10.13 | Anerkennung und Überwachung einer Person als Arzt oder Psychologe für die Durchführung von Untersuchungen nach Anlage 4 TfV | § 16 Absatz 2 und § 18 Absatz 3 oder§ 16 Absatz 3 und§ 18 Absatz 3 oder § 16b Absatz 2 und§ 18 Absatz 3 TfV | 996 Euro |
+| 10.14 | Anerkennung und Überwachung einer Stelle als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 TfV | § 16 Absatz 4 und§ 18 Absatz 3 oder § 16b Absatz 2 und§ 18 Absatz 3 TfV | 1 596 Euro |
+| 10.15 | Umstellung einer Fahrerlaubnis auf einen Triebfahrzeugführerschein | § 21 Absatz 2 TfV | 150 Euro |
 Abschnitt 11
 Individuell zurechenbare öffentliche Leistungen nach der EPSV, EPSPV
 | Nr. | Gegenstand | Rechtsgrundlage | Gebühr |

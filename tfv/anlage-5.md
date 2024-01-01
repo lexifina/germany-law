@@ -1,4 +1,4 @@
-# Anlage 5 (zu § 5 Absatz 1 Satz 1 Nummer 5 und § 6 Absatz 1)Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
+# Anlage 5 (zu § 5 Absatz 1 Satz 1 Nummer 5, § 6 Absatz 1, § 7a Absatz 3 Satz 1 und § 11 Absatz 3 Satz 1)Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
 
 1. Ziele der allgemeinen Ausbildung
   Erwerb von theoretischen und praktischen Grundkenntnissen

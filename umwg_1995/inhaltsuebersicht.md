@@ -11,8 +11,9 @@
 |  |  |  |  |  |
 | Zweiter Teil | Besondere Vorschriften | §§ 39 bis 122 |
 | Erster Abschnitt | Verschmelzung unter Beteiligung von Personengesellschaften | §§ 39 bis 45e |
-| Erster Unterabschnitt | Verschmelzung unter Beteiligung von Personenhandelsgesellschaften | §§ 39 bis 45 |
-| Zweiter Unterabschnitt | Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften | §§ 45a bis 45e |
+| Erster Unterabschnitt | Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts | §§ 39 bis 39f |
+| Zweiter Unterabschnitt | Verschmelzung unter Beteiligung von Personenhandelsgesellschaften | §§ 40 bis 45 |
+| Dritter Unterabschnitt | Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften | §§ 45a bis 45e |
 |  |  |  |  |  |
 | Zweiter Abschnitt | Verschmelzung unter Beteiligung von Gesellschaften mit beschränkter Haftung | §§ 46 bis 59 |
 | Erster Unterabschnitt | Verschmelzung durch Aufnahme | §§ 46 bis 55 |
@@ -95,7 +96,7 @@
 |  |  |  |  |  |
 | Zweiter Teil | Besondere Vorschriften | §§ 214 bis 304 |
 | Erster Abschnitt | Formwechsel von Personengesellschaften | §§ 214 bis 225c |
-| Erster Unterabschnitt | Formwechsel von Personenhandelsgesellschaften | §§ 214 bis 225 |
+| Erster Unterabschnitt | Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften | §§ 214 bis 225 |
 | Zweiter Unterabschnitt | Formwechsel von Partnerschaftsgesellschaften | §§ 225a bis 225c |
 |  |  |  |  |  |
 | Zweiter Abschnitt | Formwechsel von Kapitalgesellschaften | §§ 226 bis 257 |
@@ -114,14 +115,15 @@
 | Fünfter Abschnitt | Formwechsel von Versicherungsvereinen auf Gegenseitigkeit | §§ 291 bis 300 |
 |  |  |  |  |  |
 | Sechster Abschnitt | Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts | §§ 301 bis 304 |
-|  |
+|  |  |  |
 | Sechstes Buch | Grenzüberschreitende Umwandlung | §§ 305 bis 345 |
-| Erster Teil | Grenzüberschreitende Verschmelzung | §§ 305 bis 319 |
-|  |  |  |
-| Zweiter Teil | Grenzüberschreitende Spaltung | §§ 320 bis 332 |
-|  |  |  |
-| Dritter Teil | Grenzüberschreitender Formwechsel | §§ 333 bis 345 |
 |  |  |  |  |  |
+| Erster Teil | Grenzüberschreitende Verschmelzung | §§ 305 bis 319 |
+|  |  |  |  |  |
+| Zweiter Teil | Grenzüberschreitende Spaltung | §§ 320 bis 332 |
+|  |  |  |  |  |
+| Dritter Teil | Grenzüberschreitender Formwechsel | §§ 333 bis 345 |
+|  |
 | Siebentes Buch | Strafvorschriften und Zwangsgelder | §§ 346 bis 350 |
 |  |
 | Achtes Buch | Übergangs- und Schlussvorschriften | §§ 351 bis 355 |

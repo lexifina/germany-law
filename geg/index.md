@@ -14,6 +14,7 @@
 - [§ 7 Regeln der Technik](0007.md)
 - [§ 8 Verantwortliche](0008.md)
 - [§ 9 Überprüfung der Anforderungen an zu errichtende und bestehende Gebäude](0009.md)
+- [§ 9a Länderregelung](0009a.md)
 
 ## Teil 2 Anforderungen an zu errichtende Gebäude
 
@@ -57,25 +58,25 @@
 - [§ 32 Vereinfachtes Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude](0032.md)
 - [§ 33 Andere Berechnungsverfahren](0033.md)
 
-### Abschnitt 4 Nutzung von erneuerbaren Energien zur Wärme- und Kälteerzeugung bei einem zu errichtenden Gebäude
+### Abschnitt 4 (weggefallen)
 
-- [§ 34 Nutzung erneuerbarer Energien zur Deckung des Wärme- und Kälteenergiebedarfs](0034.md)
-- [§ 35 Nutzung solarthermischer Anlagen](0035.md)
-- [§ 36 Nutzung von Strom aus erneuerbaren Energien](0036.md)
-- [§ 37 Nutzung von Geothermie oder Umweltwärme](0037.md)
-- [§ 38 Nutzung von fester Biomasse](0038.md)
-- [§ 39 Nutzung von flüssiger Biomasse](0039.md)
-- [§ 40 Nutzung von gasförmiger Biomasse](0040.md)
-- [§ 41 Nutzung von Kälte aus erneuerbaren Energien](0041.md)
-- [§ 42 Nutzung von Abwärme](0042.md)
-- [§ 43 Nutzung von Kraft-Wärme-Kopplung](0043.md)
-- [§ 44 Fernwärme oder Fernkälte](0044.md)
-- [§ 45 Maßnahmen zur Einsparung von Energie](0045.md)
+- [§ 34 (weggefallen)](0034.md)
+- [§ 35 (weggefallen)](0035.md)
+- [§ 36 (weggefallen)](0036.md)
+- [§ 37 (weggefallen)](0037.md)
+- [§ 38 (weggefallen)](0038.md)
+- [§ 39 (weggefallen)](0039.md)
+- [§ 40 (weggefallen)](0040.md)
+- [§ 41 (weggefallen)](0041.md)
+- [§ 42 (weggefallen)](0042.md)
+- [§ 43 (weggefallen)](0043.md)
+- [§ 44 (weggefallen)](0044.md)
+- [§ 45 (weggefallen)](0045.md)
 
-## Teil 3 Bestehende Gebäude
+## Teil 3 Anforderungen an bestehende Gebäude
 
 
-### Abschnitt 1 Anforderungen an bestehende Gebäude
+### Abschnitt 1 (weggefallen)
 
 - [§ 46 Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften](0046.md)
 - [§ 47 Nachrüstung eines bestehenden Gebäudes](0047.md)
@@ -84,13 +85,13 @@
 - [§ 50 Energetische Bewertung eines bestehenden Gebäudes](0050.md)
 - [§ 51 Anforderungen an ein bestehendes Gebäude bei Erweiterung und Ausbau](0051.md)
 
-### Abschnitt 2 Nutzung erneuerbarer Energien zur Wärmeerzeugung bei bestehenden öffentlichen Gebäuden
+### Abschnitt 2 (weggefallen)
 
-- [§ 52 Pflicht zur Nutzung von erneuerbaren Energien bei einem bestehenden öffentlichen Gebäude](0052.md)
-- [§ 53 Ersatzmaßnahmen](0053.md)
-- [§ 54 Kombination](0054.md)
-- [§ 55 Ausnahmen](0055.md)
-- [§ 56 Abweichungsbefugnis](0056.md)
+- [§ 52 (weggefallen)](0052.md)
+- [§ 53 (weggefallen)](0053.md)
+- [§ 54 (weggefallen)](0054.md)
+- [§ 55 (weggefallen)](0055.md)
+- [§ 56 (weggefallen)](0056.md)
 
 ## Teil 4 Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung
 
@@ -107,6 +108,7 @@
 - [§ 58 Betriebsbereitschaft](0058.md)
 - [§ 59 Sachgerechte Bedienung](0059.md)
 - [§ 60 Wartung und Instandhaltung](0060.md)
+- [§ 60a Prüfung und Optimierung von Wärmepumpen](0060a.md)
 
 ### Abschnitt 2 Einbau und Ersatz
 
@@ -130,9 +132,25 @@
 - [§ 69 Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen](0069.md)
 - [§ 70 Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen](0070.md)
 
-#### Unterabschnitt 4 Nachrüstung bei heizungstechnischen Anlagen; Betriebsverbot für Heizkessel
+#### Unterabschnitt 4 Anforderungen an Heizungsanlagen; Betriebsverbot für Heizkessel
 
-- [§ 71 Dämmung von Wärmeverteilungs- und Warmwasserleitungen](0071.md)
+- [§ 71 Anforderungen an eine Heizungsanlage](0071.md)
+- [§ 71a Gebäudeautomation](0071a.md)
+- [§ 71b Anforderungen bei Anschluss an ein Wärmenetz und Pflichten für Wärmenetzbetreiber](0071b.md)
+- [§ 71c Anforderungen an die Nutzung einer Wärmepumpe](0071c.md)
+- [§ 71d Anforderungen an die Nutzung einer Stromdirektheizung](0071d.md)
+- [§ 71e Anforderungen an eine solarthermische Anlage](0071e.md)
+- [§ 71f Anforderungen an Biomasse und Wasserstoff einschließlich daraus hergestellter Derivate](0071f.md)
+- [§ 71g Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse](0071g.md)
+- [§ 71h Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung](0071h.md)
+- [§ 71i Allgemeine Übergangsfrist](0071i.md)
+- [§ 71j Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes](0071j.md)
+- [§ 71k Übergangsfristen bei einer Heizungsanlage, die sowohl Gas als auch Wasserstoff verbrennen kann; Festlegungskompetenz](0071k.md)
+- [§ 71l Übergangsfristen bei einer Etagenheizung oder einer Einzelraumfeuerungsanlage](0071l.md)
+- [§ 71m Übergangsfrist bei einer Hallenheizung](0071m.md)
+- [§ 71n Verfahren für Gemeinschaften der Wohnungseigentümer](0071n.md)
+- [§ 71o Regelungen zum Schutz von Mietern](0071o.md)
+- [§ 71p Verordnungsermächtigung zu dem Einsatz von Kältemitteln in elektrischen Wärmepumpen und Wärmepumpen-Hybridheizungen](0071p.md)
 - [§ 72 Betriebsverbot für Heizkessel, Ölheizungen](0072.md)
 - [§ 73 Ausnahme](0073.md)
 
@@ -194,6 +212,7 @@
 - [§ 112 Übergangsvorschriften für Energieausweise](0112.md)
 - [§ 113 Übergangsvorschriften für Aussteller von Energieausweisen](0113.md)
 - [§ 114 Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik](0114.md)
+- [§ 115 Übergangsvorschrift für Geldbußen](0115.md)
 - [Anlage 1 (zu § 15 Absatz 1)Technische Ausführung des Referenzgebäudes (Wohngebäude)](anlage-1.md)
 - [Anlage 2 (zu § 18 Absatz 1)Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)](anlage-2.md)
 - [Anlage 3 (zu § 19)Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude)](anlage-3.md)
@@ -201,7 +220,7 @@
 - [Anlage 5 (zu § 31 Absatz 1)Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude](anlage-5.md)
 - [Anlage 6 (zu § 32 Absatz 3)Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude](anlage-6.md)
 - [Anlage 7 (zu § 48)Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden](anlage-7.md)
-- [Anlage 8 (zu den §§ 69, 70 und 71 Absatz 1)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen](anlage-8.md)
+- [Anlage 8 (zu den §§ 69 und 70)Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen](anlage-8.md)
 - [Anlage 9 (zu § 85 Absatz 6)Umrechnung in Treibhausgasemissionen](anlage-9.md)
 - [Anlage 10 (zu § 86)Energieeffizienzklassen von Wohngebäuden](anlage-10.md)
 - [Anlage 11 (zu § 88 Absatz 2 Nummer 2)Anforderungen an die Inhalte der Schulung für die Berechtigung zur Ausstellung von Energieausweisen](anlage-11.md)

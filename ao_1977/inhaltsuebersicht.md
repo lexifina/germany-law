@@ -115,6 +115,7 @@
 | § 59 | Voraussetzung der Steuervergünstigung |
 | § 60 | Anforderungen an die Satzung |
 | § 60a | Feststellung der satzungsmäßigen Voraussetzungen |
+| § 60b | Zuwendungsempfängerregister |
 | § 61 | Satzungsmäßige Vermögensbindung |
 | § 62 | Rücklagen und Vermögensbildung |
 | § 63 | Anforderungen an die tatsächliche Geschäftsführung |

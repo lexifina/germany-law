@@ -301,4 +301,4 @@ Verfahrens und besondere Verfahrensvorschriften
 - [(XXXX) §§ 211 bis 217 (weggefallen)](xxxx-211-bis-217.md)
 - [§ 218](0218.md)
 - [§ 219](0219.md)
-- [(XXXX) §§ 220 bis 223 (weggefallen)](xxxx-220-bis-223.md)
+- [§ 220 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0220.md)

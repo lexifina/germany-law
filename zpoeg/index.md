@@ -47,5 +47,5 @@
 - [§ 42 Informationspflichten aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung](0042.md)
 - [§ 43 (weggefallen)](0043.md)
 - [§ 44 Vorrang- und Beschleunigungsgebot](0044.md)
-- [§ 45 (zukünftig in Kraft)](0045.md)
+- [§ 45 Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz](0045.md)
 - [§ 46 Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz](0046.md)

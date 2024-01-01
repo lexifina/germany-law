@@ -31,4 +31,4 @@
 | Übergangs- und Schlussvorschriften |
 | § 18 | Übergangsvorschrift |
 | § 19 | Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes |
-| § 20 | (weggefallen) |
+| § 20 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |

@@ -786,6 +786,7 @@ Beitrittsgebiet](0279a.md)
 - [§ 287d Erstattungen in besonderen Fällen](0287d.md)
 - [§ 287e Veränderung des Bundeszuschusses im Beitrittsgebiet](0287e.md)
 - [§ 287f Getrennte Abrechnung](0287f.md)
+- [§ 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027](0287g.md)
 - [§ 288](0288.md)
 
 ##### Fünfter Titel Erstattungen
@@ -905,10 +906,15 @@ für Renten nach den Vorschriften des Beitrittsgebiets
 
 - [§ 319b Übergangszuschlag](0319b.md)
 
+#### Elfter Unterabschnitt Gesetz zur Regelung des Sozialen Entschädigungsrechts
+
+- [§ 319d Berücksichtigung von Versorgungskrankengeld](0319d.md)
+
 ## Sechstes Kapitel Bußgeldvorschriften
 
 - [§ 320 Bußgeldvorschriften](0320.md)
 - [§ 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten](0321.md)
+- [§ 322 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0322.md)
 - [Anlage 1 Durchschnittsentgelt in Euro/DM/RM](anlage-1.md)
 - [Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM](anlage-2.md)
 - [Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM](anlage-2a.md)

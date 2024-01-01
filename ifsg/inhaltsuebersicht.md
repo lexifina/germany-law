@@ -113,11 +113,11 @@
 | § 57 | Verhältnis zur Sozialversicherung und zur Arbeitsförderung |
 | § 58 | Aufwendungserstattung |
 | § 59 | Arbeits- und sozialrechtliche Sondervorschriften |
-| § 60 | Versorgung bei Impfschaden und bei Gesundheitsschäden durch andere Maßnahmen der spezifischen Prophylaxe |
-| § 61 | Gesundheitsschadensanerkennung |
-| § 62 | Heilbehandlung |
-| § 63 | Konkurrenz von Ansprüchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, Übergangsregelungen zum Erstattungsverfahren an die Krankenkassen |
-| § 64 | Zuständige Behörde für die Versorgung |
+| § 60 | (weggefallen) |
+| § 61 | (weggefallen) |
+| § 62 | (weggefallen) |
+| § 63 | (weggefallen) |
+| § 64 | (weggefallen) |
 | § 65 | Entschädigung bei behördlichen Maßnahmen |
 | § 66 | Zahlungsverpflichteter |
 | § 67 | Pfändung |

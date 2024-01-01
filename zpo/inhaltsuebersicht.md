@@ -817,8 +817,8 @@
 | § 732 | Erinnerung gegen Erteilung der Vollstreckungsklausel |
 | § 733 | Weitere vollstreckbare Ausfertigung |
 | § 734 | Vermerk über Ausfertigungserteilung auf der Urteilsurschrift |
-| § 735 | Zwangsvollstreckung gegen nicht rechtsfähigen Verein |
-| § 736 | Zwangsvollstreckung gegen BGB-Gesellschaft |
+| § 735 | (weggefallen) |
+| § 736 | Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister |
 | § 737 | Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch |
 | § 738 | Vollstreckbare Ausfertigung gegen Nießbraucher |
 | § 739 | Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner |

@@ -403,6 +403,7 @@ von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung
 
 - [§ 128 Versicherungsfreiheit](0128.md)
 - [§ 129 Kürzung der Renten](0129.md)
+- [§ 130 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0130.md)
 - [Anlage 1](anlage-1.md)
 - [Anlage 2](anlage-2.md)
 - [Anlage 3](anlage-3.md)

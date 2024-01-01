@@ -84,6 +84,7 @@ Gegenständen](0004b.md)
 - [§ 22d Steuernummer und zuständiges Finanzamt](0022d.md)
 - [§ 22e Untersagung der Fiskalvertretung](0022e.md)
 - [§ 22f Besondere Pflichten für Betreiber einer elektronischen Schnittstelle](0022f.md)
+- [§ 22g Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung](0022g.md)
 
 ## Sechster Abschnitt Sonderregelungen
 

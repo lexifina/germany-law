@@ -74,13 +74,13 @@ Ende des Zivildienstes; Versorgung
 | § 45 | Ausschluss |
 | § 45a | Mitteilungen in Strafsachen |
 | § 46 | Dienstzeitbescheinigung und Dienstzeugnis |
-| § 47 | Versorgung |
-| § 47a | Versorgung in besonderen Fällen |
-| § 47b | Unfallschutz in besonderen Fällen |
-| § 48 | Heilbehandlung in besonderen Fällen |
-| § 49 | Versorgungskrankengeld in besonderen Fällen |
-| § 50 | Ausgleich für Zivildienstbeschädigungen |
-| § 51 | Durchführung der Versorgung |
+| § 47 | (weggefallen) |
+| § 47a | (weggefallen) |
+| § 47b | (weggefallen) |
+| § 48 | (weggefallen) |
+| § 49 | (weggefallen) |
+| § 50 | (weggefallen) |
+| § 51 | (weggefallen) |
 | § 51a | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands |
 Abschnitt 6
 Straf-, Bußgeld- und Disziplinarvorschriften

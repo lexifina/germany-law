@@ -440,9 +440,9 @@ Berichterstattung
 - [§ 309 Allgemeine Meldepflicht](0309.md)
 - [§ 310 Meldepflicht bei Wechsel der Zuständigkeit](0310.md)
 
-#### Zweiter Unterabschnitt Anzeige- und Bescheinigungspflichten
+#### Zweiter Unterabschnitt Anzeige-, Nachweis- und Bescheinigungspflichten
 
-- [§ 311 Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit](0311.md)
+- [§ 311 Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung](0311.md)
 - [§ 312 Arbeitsbescheinigung](0312.md)
 - [§ 312a Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts](0312a.md)
 - [§ 313 Nebeneinkommensbescheinigung](0313.md)
@@ -719,7 +719,9 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung](0449.md)
 - [§ 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung](0450.md)
 - [§ 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0451.md)
+- [§ 452 Gesetz zur Regelung des Sozialen Entschädigungsrechts](0452.md)
 - [§ 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze](0453.md)
 - [§ 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung](0454.md)
 - [§ 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0455.md)
 - [§ 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0456.md)
+- [§ 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0457.md)

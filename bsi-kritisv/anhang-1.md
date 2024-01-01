@@ -5,7 +5,7 @@ Grundsätze und Fristen
 1. Für die in Teil 3 Spalte B genannten Anlagenkategorien gelten vorrangig die Begriffsbestimmungen nach § 3 des Energiewirtschaftsgesetzes und nach § 2 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung.
 2. Im Sinne von Anhang 1 ist oder sind
   2.1 Erzeugungsanlage
-    eine Anlage im Sinne des § 3 Nummer 18c des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
+    eine Anlage im Sinne des § 3 Nummer 18d des Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes.
   2.2 Anlage oder System zur Bündelung und Steuerung elektrischer Leistung
     eine Anlage oder ein System zur Bündelung elektrischer Leistung und Steuerung von Erzeugungsanlagen oder dezentraler Energieerzeugungsanlagen, insbesondere zur Anwendung bei Direktvermarktungsunternehmen im Sinne des § 3 Nummer 17 des Erneuerbare-Energien-Gesetzes. Unter den Begriff der Steuerung fallen auch die die Anlagen betreffenden Schalthandlungen.
   2.3 Übertragungsnetz
@@ -23,10 +23,10 @@ Grundsätze und Fristen
   2.9 Gasgrenzübergabestelle
     eine Netzkoppelstelle, die in der Regel zwischen einem deutschen Fernleitungsnetz und dem eines anderen Staates besteht, soweit diese nicht von einem deutschen Fernleitungsnetzbetreiber als Bestandteil dessen Fernleitungsnetzes betrieben wird.
   2.10 Gasspeicher
-    eine Speicheranlage im Sinne des § 3 Nummer 31 des Energiewirtschaftsgesetzes.
+    eine Speicheranlage im Sinne des § 3 Nummer 19c des Energiewirtschaftsgesetzes.
   2.11 Gasverteilernetz
     ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des Energiewirtschaftsgesetzes.
-  2.12 Gashandelssystem
+  2.12 Gas- oder Kapazitätshandelssystem
     eine Anlage oder ein elektronisches Handelssystem für den Handel von Gasmengen oder -kapazitäten.
   2.13 LNG-Anlage
     schwimmende oder landgebundene stationäre Anlagen oder Systeme zur Verflüssigung von Gas nach § 3 Nr. 19a EnWG oder zur Einfuhr, Entladung und Wiederverdampfung von verflüssigtem Gas, einschließlich der Anlagenteile für Hilfsdienste und für die vorübergehende Speicherung von verflüssigtem Erdgas, die für die Wiederverdampfung und die anschließende Einspeisung in das Fernleitungsnetz erforderlich sind.
@@ -66,8 +66,8 @@ Berechnungsformeln zur Ermittlung der Schwellenwerte
   Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im Jahr entspricht im Falle der Nummern 1.1.1 und 1.1.2 einer installierten Nettonennleistung von:
   | 104 MW ≈ (908 GWh/Jahr) / (8 760 h/Jahr) |
   Der Schwellenwert von 36 MW für zur Erbringung von Primärregelleistung präqualifizierter Anlagen ergibt sich aus Artikel 5 Absatz 3 der Verordnung (EU) 2016/631 der Kommission vom 14. April 2016 zur Festlegung eines Netzkodex mit Netzanschlussbestimmungen für Stromerzeuger.
-9. Der für die Anlagenkategorien des Teils 3 Nummer 1.4.1 genannte Schwellenwert ist unter Annahme eines Gesamthandelsvolumens von rund 600 000 GWh und eines Durchschnittshandelsvolumens pro Person pro Jahr von 7,46 MWh und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
-  | 3,7 TWh ≈ 7,46 MWh / Jahr x 500 000 |
+9. Der für die Anlagenkategorien des Teils 3 Nummer 1.4.1 genannte Schwellenwert ist unter Annahme eines Gesamthandelsvolumens rund 7 400 TWh und eines Durchschnittshandelsvolumens pro Person pro Jahr von 92,6 MWh und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
+  | 46,3 TWh ≈ 92,6 MWh/Jahr x 500 000 |
 10. Der für die Anlagenkategorien des Teils 3 Nummer 2 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs von 10 380 kWh pro versorgter Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
   | 5 190 GWh/Jahr = 10 380 kWh/Jahr x 500 000 |
 11. Der für die Anlagenkategorien des Teils 3 Nummer 3.1.2, 3.1.3, 3.2.2, 3.2.3, 3.3.1 und 3.3.3 genannte Schwellenwert ist unter Annahme einer durchschnittlichen Produktionsmenge von 0,84 Tonnen Kraftstoff zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
@@ -110,7 +110,8 @@ Anlagenkategorien und Schwellenwerte
 | 2.3 | Gasverteilung |
 |  | Gasverteilernetz | Entnommene Arbeit in GWh/Jahr | 5 190 |
 | 2.4 | Gashandel |
-| 2.4.1 | Gashandelssystem | Energie der gehandelten Gasmengen oder ‑kapazitäten in GWh/Jahr | 5 190 |
+| 2.4.1 | Gas- oder Kapazitätshandelssystem | Energie der gehandelten Gasmengen in GWh/Jahr oder | 5 190 |
+|  |  | Menge der gehandelten Gastransportkapazitäten in GWh/h/Jahr | 5 190 |
 | 3 | Kraftstoff- und Heizölversorgung |
 | 3.1 | Erdölförderung und Produktenherstellung |
 | 3.1.1 | Ölförderanlage | Gefördertes Erdöl in Tonnen/Jahr | 4 400 000 |

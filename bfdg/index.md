@@ -17,4 +17,4 @@
 - [§ 15 Beirat für den Bundesfreiwilligendienst](0015.md)
 - [§ 16 Übertragung von Aufgaben](0016.md)
 - [§ 17 Kosten](0017.md)
-- [§ 18 (weggefallen)](0018.md)
+- [§ 18 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0018.md)

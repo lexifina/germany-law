@@ -67,7 +67,7 @@
 - [§ 51 Sperrjahr](0051.md)
 - [§ 52 Sicherung für Gläubiger](0052.md)
 - [§ 53 Schadensersatzpflicht der Liquidatoren](0053.md)
-- [§ 54 Nicht rechtsfähige Vereine](0054.md)
+- [§ 54 Vereine ohne Rechtspersönlichkeit](0054.md)
 
 ##### Kapitel 2 Eingetragene Vereine
 
@@ -944,6 +944,7 @@ erbrachter Leistung](0281.md)
 - [§ 559b Geltendmachung der Erhöhung, Wirkung der Erhöhungserklärung](0559b.md)
 - [§ 559c Vereinfachtes Verfahren](0559c.md)
 - [§ 559d Pflichtverletzungen bei Ankündigung oder Durchführung einer baulichen Veränderung](0559d.md)
+- [§ 559e Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage](0559e.md)
 - [§ 560 Veränderungen von Betriebskosten](0560.md)
 - [§ 561 Sonderkündigungsrecht des Mieters nach Mieterhöhung](0561.md)
 
@@ -1383,44 +1384,88 @@ bisherigen Nutzung](0590.md)
 
 #### Titel 16 Gesellschaft
 
-- [§ 705 Inhalt des Gesellschaftsvertrags](0705.md)
-- [§ 706 Beiträge der Gesellschafter](0706.md)
-- [§ 707 Erhöhung des vereinbarten Beitrags](0707.md)
-- [(XXXX) §§ 707a bis 707c (zukünftig in Kraft)](xxxx-707a-bis-707c.md)
+
+##### Untertitel 1 Allgemeine Bestimmungen
+
+- [§ 705 Rechtsnatur der Gesellschaft](0705.md)
+
+##### Untertitel 2 Rechtsfähige Gesellschaft
+
+
+##### Kapitel 1 Sitz; Registrierung
+
+- [§ 706 Sitz der Gesellschaft](0706.md)
+- [§ 707 Anmeldung zum Gesellschaftsregister](0707.md)
+- [§ 707a Inhalt und Wirkungen der Eintragung im Gesellschaftsregister](0707a.md)
+- [§ 707b Entsprechend anwendbare Vorschriften des Handelsgesetzbuchs](0707b.md)
+- [§ 707c Statuswechsel](0707c.md)
 - [§ 707d Verordnungsermächtigung](0707d.md)
-- [§ 708 Haftung der Gesellschafter](0708.md)
-- [§ 709 Gemeinschaftliche Geschäftsführung](0709.md)
-- [§ 710 Übertragung der Geschäftsführung](0710.md)
-- [§ 711 Widerspruchsrecht](0711.md)
-- [§ 712 Entziehung und Kündigung der Geschäftsführung](0712.md)
-- [§ 713 Rechte und Pflichten der geschäftsführenden Gesellschafter](0713.md)
-- [§ 714 Vertretungsmacht](0714.md)
-- [§ 715 Entziehung der Vertretungsmacht](0715.md)
-- [§ 716 Kontrollrecht der Gesellschafter](0716.md)
-- [§ 717 Nichtübertragbarkeit der Gesellschafterrechte](0717.md)
-- [§ 718 Gesellschaftsvermögen](0718.md)
-- [§ 719 Gesamthänderische Bindung](0719.md)
-- [§ 720 Schutz des gutgläubigen Schuldners](0720.md)
-- [§ 721 Gewinn- und Verlustverteilung](0721.md)
-- [§ 722 Anteile am Gewinn und Verlust](0722.md)
-- [§ 723 Kündigung durch Gesellschafter](0723.md)
-- [§ 724 Kündigung bei Gesellschaft auf Lebenszeit oder fortgesetzter Gesellschaft](0724.md)
-- [§ 725 Kündigung durch Pfändungspfandgläubiger](0725.md)
-- [§ 726 Auflösung wegen Erreichens oder Unmöglichwerdens des Zweckes](0726.md)
-- [§ 727 Auflösung durch Tod eines Gesellschafters](0727.md)
-- [§ 728 Auflösung durch Insolvenz der Gesellschaft oder eines Gesellschafters](0728.md)
-- [§ 729 Fortdauer der Geschäftsführungsbefugnis](0729.md)
-- [§ 730 Auseinandersetzung; Geschäftsführung](0730.md)
-- [§ 731 Verfahren bei Auseinandersetzung](0731.md)
-- [§ 732 Rückgabe von Gegenständen](0732.md)
-- [§ 733 Berichtigung der Gesellschaftsschulden; Erstattung der Einlagen](0733.md)
-- [§ 734 Verteilung des Überschusses](0734.md)
-- [§ 735 Nachschusspflicht bei Verlust](0735.md)
-- [§ 736 Ausscheiden eines Gesellschafters, Nachhaftung](0736.md)
-- [§ 737 Ausschluss eines Gesellschafters](0737.md)
-- [§ 738 Auseinandersetzung beim Ausscheiden](0738.md)
-- [§ 739 Haftung für Fehlbetrag](0739.md)
-- [§ 740 Beteiligung am Ergebnis schwebender Geschäfte](0740.md)
+
+##### Kapitel 2 Rechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft
+
+- [§ 708 Gestaltungsfreiheit](0708.md)
+- [§ 709 Beiträge; Stimmkraft; Anteil an Gewinn und Verlust](0709.md)
+- [§ 710 Mehrbelastungsverbot](0710.md)
+- [§ 711 Übertragung und Übergang von Gesellschaftsanteilen](0711.md)
+- [§ 711a Übertragbarkeit von Gesellschafterrechten](0711a.md)
+- [§ 712 Ausscheiden eines Gesellschafters; Eintritt eines neuen Gesellschafters](0712.md)
+- [§ 712a Ausscheiden des vorletzten Gesellschafters](0712a.md)
+- [§ 713 Gesellschaftsvermögen](0713.md)
+- [§ 714 Beschlussfassung](0714.md)
+- [§ 715 Geschäftsführungsbefugnis](0715.md)
+- [§ 715a Notgeschäftsführungsbefugnis](0715a.md)
+- [§ 715b Gesellschafterklage](0715b.md)
+- [§ 716 Ersatz von Aufwendungen und Verlusten; Vorschusspflicht; Herausgabepflicht; Verzinsungspflicht](0716.md)
+- [§ 717 Informationsrechte und -pflichten](0717.md)
+- [§ 718 Rechnungsabschluss und Gewinnverteilung](0718.md)
+
+##### Kapitel 3 Rechtsverhältnis der Gesellschaft zu Dritten
+
+- [§ 719 Entstehung der Gesellschaft im Verhältnis zu Dritten](0719.md)
+- [§ 720 Vertretung der Gesellschaft](0720.md)
+- [§ 721 Persönliche Haftung der Gesellschafter](0721.md)
+- [§ 721a Haftung des eintretenden Gesellschafters](0721a.md)
+- [§ 721b Einwendungen und Einreden des Gesellschafters](0721b.md)
+- [§ 722 Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter](0722.md)
+
+##### Kapitel 4 Ausscheiden eines Gesellschafters
+
+- [§ 723 Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens](0723.md)
+- [§ 724 Fortsetzung mit dem Erben; Ausscheiden des Erben](0724.md)
+- [§ 725 Kündigung der Mitgliedschaft durch den Gesellschafter](0725.md)
+- [§ 726 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters](0726.md)
+- [§ 727 Ausschließung aus wichtigem Grund](0727.md)
+- [§ 728 Ansprüche des ausgeschiedenen Gesellschafters](0728.md)
+- [§ 728a Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag](0728a.md)
+- [§ 728b Nachhaftung des ausgeschiedenen Gesellschafters](0728b.md)
+
+##### Kapitel 5 Auflösung der Gesellschaft
+
+- [§ 729 Auflösungsgründe](0729.md)
+- [§ 730 Auflösung bei Tod oder Insolvenz eines Gesellschafters](0730.md)
+- [§ 731 Kündigung der Gesellschaft](0731.md)
+- [§ 732 Auflösungsbeschluss](0732.md)
+- [§ 733 Anmeldung der Auflösung](0733.md)
+- [§ 734 Fortsetzung der Gesellschaft](0734.md)
+
+##### Kapitel 6 Liquidation der Gesellschaft
+
+- [§ 735 Notwendigkeit der Liquidation; anwendbare Vorschriften](0735.md)
+- [§ 736 Liquidatoren](0736.md)
+- [§ 736a Gerichtliche Berufung und Abberufung von Liquidatoren](0736a.md)
+- [§ 736b Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren](0736b.md)
+- [§ 736c Anmeldung der Liquidatoren](0736c.md)
+- [§ 736d Rechtstellung der Liquidatoren](0736d.md)
+- [§ 737 Haftung der Gesellschafter für Fehlbetrag](0737.md)
+- [§ 738 Anmeldung des Erlöschens](0738.md)
+- [§ 739 Verjährung von Ansprüchen aus der Gesellschafterhaftung](0739.md)
+
+##### Untertitel 3 Nicht rechtsfähige Gesellschaft
+
+- [§ 740 Fehlende Vermögensfähigkeit; anwendbare Vorschriften](0740.md)
+- [§ 740a Beendigung der Gesellschaft](0740a.md)
+- [§ 740b Auseinandersetzung](0740b.md)
+- [§ 740c Ausscheiden eines Gesellschafters](0740c.md)
 
 #### Titel 17 Gemeinschaft
 
@@ -1625,7 +1670,6 @@ Rechte an Grundstücken
 - [§ 897 Kosten der Berichtigung](0897.md)
 - [§ 898 Unverjährbarkeit der Berichtigungsansprüche](0898.md)
 - [§ 899 Eintragung eines Widerspruchs](0899.md)
-- [§ 899a Maßgaben für die Gesellschaft bürgerlichen Rechts](0899a.md)
 - [§ 900 Buchersitzung](0900.md)
 - [§ 901 Erlöschen nicht eingetragener Rechte](0901.md)
 - [§ 902 Unverjährbarkeit eingetragener Rechte](0902.md)

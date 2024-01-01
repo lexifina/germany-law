@@ -88,18 +88,22 @@
 | § 42 | Kurzzeitpflege |
 |  |  |
 | Dritter Titel |
+| Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson |
+| § 42a | Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson |
+|  |  |
+| Vierter Titel |
 | Vollstationäre Pflege |
 | § 43 | Inhalt der Leistung |
 |  |  |
-| Vierter Titel |
+| Fünfter Titel |
 | Pauschalleistung für die Pflege von Menschen mit Behinderungen |
 | § 43a | Inhalt der Leistungen |
 |  |  |
-| Fünfter Titel |
+| Sechster Titel |
 | Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen |
 | § 43b | Inhalt der Leistung |
 |  |  |
-| Sechster Titel |
+| Siebter Titel |
 | Pflegebedingter Eigenanteil bei vollstationärer Pflege |
 |  |  |
 | § 43c | Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen |

@@ -1,42 +1,64 @@
 # Inhaltsübersicht
 
 Kapitel 1
-(zukünftig in Kraft)
-| § 1 | (zukünftig in Kraft) |
+Allgemeine Vorschriften
+| § 1 | Aufgabe und Anwendungsbereich der Sozialen Entschädigung |
 | § 2 | Berechtigte der Sozialen Entschädigung |
-| § 3 | (zukünftig in Kraft) |
+| § 3 | Leistungen der Sozialen Entschädigung |
 Kapitel 2
-(zukünftig in Kraft)
+Anspruch auf Leistungen
+der Sozialen Entschädigung
 Abschnitt 1
-(zukünftig in Kraft)
-| §§ 4 bis 12 | (zukünftig in Kraft) |
+Allgemeine Voraussetzungen
+| § 4 | Anspruch auf Leistungen für Geschädigte |
+| § 5 | Grad der Schädigungsfolgen, Verordnungsermächtigung |
+| § 6 | Anspruch auf Leistungen für Angehörige, Hinterbliebene und Nahestehende |
+| § 7 | Anspruch auf Leistungen für Ausländerinnen und Ausländer |
+| § 8 | Konkurrenz von Ansprüchen |
+| § 9 | Ausschluss der Pfändbarkeit von Ansprüchen |
+| § 10 | Antragserfordernis |
+| § 11 | Beginn der Leistungserbringung, Kostenregelung für die erste Inanspruchnahme Schneller Hilfen |
+| § 12 | Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie Kommunikationshilfen |
 Abschnitt 2
-(zukünftig in Kraft)
+Entschädigungstatbestände
 Unterabschnitt 1
-(zukünftig in Kraft)
-| §§ 13 bis 20 | (zukünftig in Kraft) |
+Gewalttaten
+| § 13 | Opfer von Gewalttaten |
+| § 14 | Gleichstellungen |
+| § 15 | Anspruch auf Leistungen bei Gewalttaten im Ausland |
+| § 16 | Ausschluss von Ansprüchen und Leistungen |
+| § 17 | Versagung von Leistungen |
+| § 18 | Ansprüche bei Gebrauch eines Kraftfahrzeugs |
+| § 19 | Ausschluss von Ansprüchen und Leistungen für Angehörige, Hinterbliebene und Nahestehende, Konkurrenzen |
+| § 20 | Versagung von Leistungen für Angehörige, Hinterbliebene und Nahestehende |
 Unterabschnitt 2
-(zukünftig in Kraft)
-| §§ 21 und 22 | (zukünftig in Kraft) |
+Kriegsauswirkungen beider Weltkriege
+| § 21 | Opfer von Kriegsauswirkungen beider Weltkriege |
+| § 22 | Versagung, Entziehung und Minderung der Leistung |
 Unterabschnitt 3
-(zukünftig in Kraft)
-| § 23 | (zukünftig in Kraft) |
+Ereignisse im Zusammenhang
+mit der Ableistung des Zivildienstes
+| § 23 | Geschädigte durch Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes |
 Unterabschnitt 4
-(zukünftig in Kraft)
-| § 24 | (zukünftig in Kraft) |
+Schutzimpfungen oder andere Maßnahmen
+der spezifischen Prophylaxe
+| § 24 | Geschädigte durch Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe |
 Kapitel 3
-(zukünftig in Kraft)
-| §§ 25 bis 28 | (zukünftig in Kraft) |
+Leistungsgrundsätze
+| § 25 | Voraussetzungen |
+| § 26 | Leistungsformen |
+| § 27 | Vorrang von Leistungen zur Teilhabe |
+| § 28 | Verhältnis zu Leistungen anderer Träger |
 Kapitel 4
-(zukünftig in Kraft)
+Schnelle Hilfen
 Abschnitt 1
-(zukünftig in Kraft)
-| § 29 | (zukünftig in Kraft) |
+Leistungen der Schnellen Hilfen
+| § 29 | Leistungen und Leistungsart |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 30 | (zukünftig in Kraft) |
+Fallmanagement
+| § 30 | Leistungen des Fallmanagements |
 Abschnitt 3
-(zukünftig in Kraft)
+Traumaambulanz
 | § 31 | Leistungen in einer Traumaambulanz |
 | § 32 | Psychotherapeutische Frühintervention |
 | § 33 | Psychotherapeutische Intervention in anderen Fällen |
@@ -46,127 +68,213 @@ Abschnitt 3
 | § 37 | Vereinbarungen mit Traumaambulanzen |
 | § 38 | Verordnungsermächtigung |
 Abschnitt 4
-(zukünftig in Kraft)
-| § 39 | (zukünftig in Kraft) |
+Kooperationsvereinbarungen
+| § 39 | Kooperationsvereinbarungen für Beratungs- und Begleitangebote |
 | § 40 | Verordnungsermächtigung |
 Kapitel 5
-(zukünftig in Kraft)
+Krankenbehandlung
+der Sozialen Entschädigung
 Abschnitt 1
-(zukünftig in Kraft)
-| §§ 41 bis 53 | (zukünftig in Kraft) |
+Leistungen und Nachweispflicht
+| § 41 | Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung |
+| § 42 | Krankenbehandlung |
+| § 43 | Ergänzende Leistungen der Krankenbehandlung |
+| § 44 | Sachleistungsprinzip, Kostenbeteiligung |
+| § 45 | Nachweispflicht |
+| § 46 | Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung und Wäsche |
+| § 47 | Krankengeld der Sozialen Entschädigung |
+| § 48 | Beihilfe bei erheblicher Beeinträchtigung der Erwerbsgrundlage |
+| § 49 | Zuschüsse bei Zahnersatz |
+| § 50 | Erstattung von Kosten bei selbst beschaffter Krankenbehandlung |
+| § 51 | Erstattung von Kosten für Krankenbehandlung bei vorübergehendem Auslandsaufenthalt |
+| § 52 | Beiträge zur Arbeitsförderung, zur gesetzlichen Rentenversicherung und zur Alterssicherung |
+| § 53 | Reisekosten |
 Abschnitt 2
-(zukünftig in Kraft)
-| §§ 54 bis 56 | (zukünftig in Kraft) |
+Vergütung der Leistungserbringer
+| § 54 | Vergütung für Leistungen der Krankenbehandlung |
+| § 55 | Vergütung für ergänzende Leistungen |
+| § 56 | Vergütung für die Versorgung mit Hilfsmitteln |
 Abschnitt 3
-(zukünftig in Kraft)
-| §§ 57 bis 59 | (zukünftig in Kraft) |
+Zuständigkeit und Datenübermittlung
+| § 57 | Zuständigkeit |
+| § 58 | Zuständigkeit zur Entscheidung über Widersprüche |
+| § 59 | Datenübermittlung |
 Abschnitt 4
-(zukünftig in Kraft)
-| §§ 60 und 61 | (zukünftig in Kraft) |
+Erstattungen von
+Aufwendungen und Verwaltungskosten
+| § 60 | Erstattung an Krankenkassen |
+| § 61 | Erstattung an Unfallkassen der Länder |
 Kapitel 6
-(zukünftig in Kraft)
-| §§ 62 bis 70 | (zukünftig in Kraft) |
+Leistungen zur Teilhabe
+| § 62 | Leistungsumfang |
+| § 63 | Leistungen zur Teilhabe am Arbeitsleben |
+| § 64 | Unterhaltssichernde und andere ergänzende Leistungen |
+| § 65 | Leistungen zur Teilhabe an Bildung |
+| § 66 | Leistungen zur Sozialen Teilhabe |
+| § 67 | Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches |
+| § 68 | Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches |
+| § 69 | Wunsch- und Wahlrecht |
+| § 70 | Besonderheiten der Leistungsbemessung |
 Kapitel 7
-(zukünftig in Kraft)
+Leistungen bei Pflegebedürftigkeit
 Abschnitt 1
-(zukünftig in Kraft)
-| §§ 71 bis 73 | (zukünftig in Kraft) |
+Anspruch und Pflegebedürftigkeit
+| § 71 | Anspruch auf Leistungen bei Pflegebedürftigkeit |
+| § 72 | Pflegebedürftigkeit und Pflegegrad |
+| § 73 | Kostenübernahme vor Pflegebedürftigkeit im Sinne des Elften Buches |
 Abschnitt 2
-(zukünftig in Kraft)
-| §§ 74 bis 76 | (zukünftig in Kraft) |
+Umfang der Leistungen
+bei Pflegebedürftigkeit
+| § 74 | Leistungen bei Pflegebedürftigkeit |
+| § 75 | Ergänzende Leistungen bei Pflegebedürftigkeit |
+| § 76 | Häusliche Pflege im Arbeitgebermodell |
 Abschnitt 3
-(zukünftig in Kraft)
-| §§ 77 bis 79 | (zukünftig in Kraft) |
+Zuständigkeit und Erstattung
+| § 77 | Zuständigkeit |
+| § 78 | Widersprüche |
+| § 79 | Datenübermittlung |
 Abschnitt 4
-(zukünftig in Kraft)
-| §§ 80 und 81 | (zukünftig in Kraft) |
+Erstattungen von
+Aufwendungen und Verwaltungskosten
+| § 80 | Erstattung an Pflegekassen |
+| § 81 | Erstattung an Unfallkassen der Länder |
 Kapitel 8
-(zukünftig in Kraft)
-| § 82 | (zukünftig in Kraft) |
+Leistungen bei hochgradiger
+Sehbehinderung, Blindheit und Taubblindheit
+| § 82 | Anspruch und Umfang |
 Kapitel 9
-(zukünftig in Kraft)
+Entschädigungszahlungen
 Abschnitt 1
-(zukünftig in Kraft)
-| §§ 83 und 84 | (zukünftig in Kraft) |
+Entschädigungszahlungen
+an Geschädigte
+| § 83 | Monatliche Entschädigungszahlung |
+| § 84 | Abfindung |
 Abschnitt 2
-(zukünftig in Kraft)
-| §§ 85 bis 88 | (zukünftig in Kraft) |
+Entschädigungszahlungen
+an Hinterbliebene
+| § 85 | Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft |
+| § 86 | Abfindung für Witwen und Witwer |
+| § 87 | Monatliche Entschädigungszahlung an Waisen |
+| § 88 | Monatliche Entschädigungszahlung an hinterbliebene Eltern |
 Kapitel 10
-(zukünftig in Kraft)
-| §§ 89 und 90 | (zukünftig in Kraft) |
+Berufsschadensausgleich
+| § 89 | Voraussetzung und Höhe |
+| § 90 | Feststellung |
 | § 91 | Verordnungsermächtigung |
 Kapitel 11
-(zukünftig in Kraft)
-| §§ 92 bis 98 | (zukünftig in Kraft) |
+Besondere Leistungen im Einzelfall
+| § 92 | Anspruch und Umfang |
+| § 93 | Leistungen zum Lebensunterhalt |
+| § 94 | Leistung zur Förderung einer Ausbildung |
+| § 95 | Leistungen zur Weiterführung des Haushalts |
+| § 96 | Leistungen in sonstigen Lebenslagen |
+| § 97 | Wunsch- und Wahlrecht |
+| § 98 | Besonderheiten der Leistungsbemessung |
 Kapitel 12
-(zukünftig in Kraft)
-| § 99 | (zukünftig in Kraft) |
+Überführung und Bestattung
+| § 99 | Leistungen bei Überführung und Bestattung |
 Kapitel 13
-(zukünftig in Kraft)
-| § 100 | (zukünftig in Kraft) |
+Härtefallregelung
+| § 100 | Ausgleich in Härtefällen |
 Kapitel 14
-(zukünftig in Kraft)
-| § 101 | (zukünftig in Kraft) |
+Regelungen bei Wohnsitz oder
+gewöhnlichem Aufenthalt im Ausland
+| § 101 | Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland |
 Kapitel 15
-(zukünftig in Kraft)
-| §§ 102 bis 104 | (zukünftig in Kraft) |
+Besonderheiten der Leistungserbringung
+für einzelne Entschädigungstatbestände
+| § 102 | Leistungen bei Gewalttaten im Ausland |
+| § 103 | Leistungen für Zivildienstgeschädigte und Hinterbliebene |
+| § 104 | Krankengeld der Sozialen Entschädigung für Zivildienstgeschädigte |
 Kapitel 16
-(zukünftig in Kraft)
-| §§ 105 bis 108 | (zukünftig in Kraft) |
+Einsatz von Einkommen und Vermögen
+| § 105 | Grundsätze |
+| § 106 | Berücksichtigung von Einkommen |
+| § 107 | Einkommensgrenze |
+| § 108 | Berücksichtigung von Vermögen |
 | § 109 | Verordnungsermächtigung |
 Kapitel 17
-(zukünftig in Kraft)
-| § 110 | (zukünftig in Kraft) |
+Anpassung
+| § 110 | Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung |
 Kapitel 18
-(zukünftig in Kraft)
+Organisation, Durchführung und Verfahren
 Abschnitt 1
-(zukünftig in Kraft)
+Organisation und Durchführung
 | § 111 | Träger der Sozialen Entschädigung |
 | § 112 | Sachliche Zuständigkeit |
 | § 113 | Örtliche Zuständigkeit |
-| § 114 | (zukünftig in Kraft) |
+| § 114 | Aufgaben des Bundesministeriums für Arbeit und Soziales |
 Abschnitt 2
-(zukünftig in Kraft)
+Verfahren zur Prüfung
+des Leistungsanspruchs
 | § 115 | Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen |
 | § 116 | Weiteres Verfahren |
-| §§ 117 bis 119 | (zukünftig in Kraft) |
+| § 117 | Beweiserleichterungen |
+| § 118 | Beiziehung von Unterlagen und Anhörung |
+| § 119 | Vorzeitige Leistungen und vorläufige Entscheidung |
 Abschnitt 3
-(zukünftig in Kraft)
-| §§ 120 bis 122 | (zukünftig in Kraft) |
+Weitere Regelungen
+| § 120 | Ansprüche gegen Schadensersatzpflichtige |
+| § 121 | Erstattung von Leistungen durch öffentlich-rechtliche Stellen |
+| § 122 | Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten |
 Kapitel 19
-(zukünftig in Kraft)
-| §§ 123 bis 125 | (zukünftig in Kraft) |
+Bundesstelle für Soziale Entschädigung
+| § 123 | Bundesstelle für Soziale Entschädigung |
+| § 124 | Aufgaben der Bundesstelle für Soziale Entschädigung |
+| § 125 | Fachbeirat Soziale Entschädigung |
 Kapitel 20
-(zukünftig in Kraft)
-| §§ 126 bis 132 | (zukünftig in Kraft) |
+Statistik und Bericht
+| § 126 | Amtliche Statistik |
+| § 127 | Erhebungsmerkmale |
+| § 128 | Erhebungsmerkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung |
+| § 129 | Hilfsmerkmale |
+| § 130 | Stichtag für die Erhebungen |
+| § 131 | Auskunftspflicht, Übermittlung statistischer Daten |
+| § 132 | Bericht |
 Kapitel 21
-(zukünftig in Kraft)
-| §§ 133 bis 136 | (zukünftig in Kraft) |
+Kostentragung
+| § 133 | Aufteilung der Kosten zwischen Bund und Ländern |
+| § 134 | Kostentragung durch den Bund |
+| § 135 | Kostentragung durch die Länder |
+| § 136 | Kostentragung beim Zusammentreffen von Ansprüchen |
 Kapitel 22
-(zukünftig in Kraft)
-| § 137 | (zukünftig in Kraft) |
+Übergangsvorschriften
+| § 137 | Zeitlicher Geltungsbereich |
 | § 138 | Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten |
-| §§ 139 bis 141 | (zukünftig in Kraft) |
+| § 139 | Besonderer zeitlicher Geltungsbereich für Kriegsopfer beider Weltkriege |
+| § 140 | Besonderer zeitlicher Geltungsbereich für Zivildienstgeschädigte |
+| § 141 | Besonderer zeitlicher Geltungsbereich für Geschädigte durch Schutzimpfungen oder einer anderen Maßnahme der spezifischen Prophylaxe |
 Kapitel 23
-(zukünftig in Kraft)
+Vorschriften zu Besitzständen
 Abschnitt 1
-(zukünftig in Kraft)
-| §§ 142 bis 148 | (zukünftig in Kraft) |
+Grundsätze und Leistungen
+| § 142 | Grundsätze |
+| § 143 | Heil- und Krankenbehandlung |
+| § 144 | Geldleistungen |
+| § 145 | Befristete oder auf Zeit erbrachte Leistungen |
+| § 146 | Pflegeleistungen für Geschädigte |
+| § 147 | Pflegeausgleich bei langjähriger schädigungsbedingter Pflege |
+| § 148 | Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod |
 Abschnitt 2
-(zukünftig in Kraft)
-| §§ 149 und 150 | (zukünftig in Kraft) |
+Neufeststellungen und Anpassung
+| § 149 | Neufeststellungen |
+| § 150 | Anpassung, Verordnungsermächtigung |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 151 | (zukünftig in Kraft) |
+Vertrauensschutz
+für die Absicherung gegen Krankheit
+| § 151 | Absicherung gegen Krankheit |
 Abschnitt 4
-(zukünftig in Kraft)
-| §§ 152 und 153 | (zukünftig in Kraft) |
+Wahlrecht
+| § 152 | Wahlrecht |
+| § 153 | Schriftform |
 Abschnitt 5
-(zukünftig in Kraft)
-| § 154 | (zukünftig in Kraft) |
+Anrechnung
+| § 154 | Anrechnungsvorschrift |
 Abschnitt 6
-(zukünftig in Kraft)
-| §§ 155 bis 157 | (zukünftig in Kraft) |
+Kostentragung und Zuständigkeit
+| § 155 | Kostentragung |
+| § 156 | Pauschaliertes Abrechnungsverfahren |
+| § 157 | Zuständigkeit |
 Abschnitt 7
-(zukünftig in Kraft)
-| § 158 | (zukünftig in Kraft) |
+Umsetzung
+| § 158 | Umsetzungsbegleitung |

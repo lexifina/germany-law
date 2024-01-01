@@ -55,14 +55,13 @@ Betreuung schwerbehinderter Menschen](0028.md)
 - [§ 28a Leistungen an Inklusionsbetriebe](0028a.md)
 - [§ 29 Leistungen zur Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen](0029.md)
 
-### 3. Unterabschnitt Leistungen für Einrichtungen
-zur Teilhabe schwerbehinderter Menschen am Arbeitsleben
+### 3. Unterabschnitt (weggefallen)
 
-- [§ 30 Förderungsfähige Einrichtungen](0030.md)
-- [§ 31 Förderungsvoraussetzungen](0031.md)
-- [§ 32 Förderungsgrundsätze](0032.md)
-- [§ 33 Art und Höhe der Leistungen](0033.md)
-- [§ 34 Tilgung und Verzinsung von Darlehen](0034.md)
+- [§ 30 (weggefallen)](0030.md)
+- [§ 31 (weggefallen)](0031.md)
+- [§ 32 (weggefallen)](0032.md)
+- [§ 33 (weggefallen)](0033.md)
+- [§ 34 (weggefallen)](0034.md)
 
 ## Dritter Abschnitt Ausgleichsfonds
 
@@ -94,5 +93,5 @@ Mittel des Ausgleichsfonds
 
 ## Vierter Abschnitt Schlußvorschriften
 
-- [§ 46 Übergangsregelungen](0046.md)
+- [§ 46 Übergangsvorschrift](0046.md)
 - [§ 47 Inkrafttreten, Außerkrafttreten](0047.md)

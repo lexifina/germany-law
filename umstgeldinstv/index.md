@@ -16,7 +16,7 @@ Aktiven und der Passiven](0001.md)
 - [§ 5 Verfügungsbeschränkungen](0005.md)
 - [§ 6 Wertpapiere und unverbriefte Anteilsrechte an
 Kapitalgesellschaften](0006.md)
-- [§ 7 Anteile an Personengesellschaften](0007.md)
+- [§ 7 Anteile an rechtsfähigen Personengesellschaften](0007.md)
 - [§ 8 Eigene Aktien und eigene Schuldverschreibungen](0008.md)
 - [§ 9 Konsortialkredite](0009.md)
 - [§ 10 Grundstücke](0010.md)

@@ -1,11 +1,11 @@
-# Anlage 2 (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2)Gemeinschaftsmodell für die Zusatzbescheinigung
+# Anlage 2 (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2) Europäisches Modell für die Zusatzbescheinigung
 
 A. Inhalt
   1. Die Zusatzbescheinigung enthält folgende Angaben:
     a) einen Verweis auf die Nummer des Triebfahrzeugführerscheins,
     b) den Namen des Inhabers,
     c) den Vornamen des Inhabers,
-    d) Datum der Ausstellung und des Ablaufs der Gültigkeit der Zusatzbescheinigung: da die Zusatzbescheinigung unbefristet gültig ist, sind in die Felder, die für das Datum des Ablaufs der Gültigkeitsdauer vorgesehen sind, Striche einzutragen sowie
+    d) Datum der Ausstellung und des Ablaufs der Gültigkeit der Zusatzbescheinigung: ist die Zusatzbescheinigung unbefristet gültig, sind in die Felder, die für das Datum des Ablaufs der Gültigkeitsdauer vorgesehen sind, Striche einzutragen; hat der Unternehmer die Gültigkeitsdauer befristet, ist das Datum des Ablaufs der Gültigkeitsdauer einzutragen sowie
     e) Angaben zur ausstellenden Organisationseinheit des Unternehmens und Stempel.
   2. Die Zusatzbescheinigung enthält weiter die folgenden Angaben unter Verwendung der folgenden Nummern:
     a) Nummer 1: Angaben zum Arbeitgeber, im Einzelnen:
@@ -31,7 +31,7 @@ A. Inhalt
       |  | = umfassende Klasse B |
       |  | = Klasse B, Unterklasse 2 |
     d) Nummer 4: Zusätzliche interne Angaben des Unternehmers.
-    e) Nummer 5: Angaben zu Sprachkenntnissen außer der Muttersprache, die für den Betrieb auf der entsprechenden Infrastruktur nötig sind und in denen der Triebfahrzeugführer Kenntnisse besitzt, die den Anforderungen von Anlage 7 Nummer 6 entsprechen.
+    e) Nummer 5: Angaben zu Sprachkenntnissen außer der Muttersprache, die für den Betrieb auf der entsprechenden Infrastruktur nötig sind und in denen der Triebfahrzeugführer Kenntnisse besitzt, die den Anforderungen von Anlage 7 Abschnitt 6 entsprechen.
     f) Nummer 6: Einschränkungen des Leistungsvermögens und der Fähigkeiten des Triebfahrzeugführers in Bezug auf den Inhalt der Zusatzbescheinigung, wie „nur für Tagfahrten zugelassen“; beziehen sich die Einschränkungen auf Fahrzeuge oder die Infrastruktur, erfolgen die Angaben in Textform im Feld „Hinweise“ neben den betreffenden Fahrzeugen und Infrastrukturen.
     g) Nummer 7: Angaben zu Fahrzeugen, die der Triebfahrzeugführer führen darf.
       Die Angaben werden in den folgenden Feldern ausgewiesen:
@@ -44,7 +44,7 @@ A. Inhalt
       bb) ein Feld für Betriebsverfahren, Zugbeeinflussungssysteme und Signalsysteme, die der Triebfahrzeugführer beherrscht; eine Liste der für die Bundesrepublik Deutschland aktuell geltenden Betriebsverfahren, Zugbeeinflussungssysteme und Signalsysteme wird von der zuständigen Behörde auf ihrer Internetseite veröffentlicht;
       cc) ein Feld für Hinweise zur Bestätigung der erworbenen Fachkenntnisse, für das Datum der voraussichtlich nächsten Überprüfung oder andere wesentliche Angaben, wie in Buchstabe f ausgeführt.
 B. Äußere Merkmale der Zusatzbescheinigung
-  Das Gemeinschaftsmodell der Zusatzbescheinigung ist ein Faltdokument in der Größe 10 cm × 21 cm (ungefaltet) mit drei Außen- und drei Innenseiten.
+  Das Europäische Modell der Zusatzbescheinigung ist ein Faltdokument in der Größe 10 cm × 21 cm (ungefaltet) mit drei Außen- und drei Innenseiten.
   1. Die Vorderseite weist folgende Angaben auf:
     a) Nummer des Triebfahrzeugführerscheins,
     b) Name und Vorname des Inhabers,
@@ -69,6 +69,6 @@ C. Fälschungsschutz
     c) ein Stempel sowie
   2. die Überprüfung im Rahmen der Überwachung des Sicherheitsmanagementsystems, dass die Angaben auf der Zusatzbescheinigung gültig sind und nicht verändert worden sind.
   Alle Änderungen sind mit Datum und Stempel auf dem Dokument zu bestätigen und müssen den Angaben im Register entsprechen.
-D. Gemeinschaftsmodell für die Zusatzbescheinigung
+D. Europäisches Modell für die Zusatzbescheinigung
   |  |
   |  |

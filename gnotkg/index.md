@@ -107,7 +107,7 @@
 - [§ 55 Einmalige Erhebung der Gebühren](0055.md)
 - [§ 56 Teile des Verfahrensgegenstands](0056.md)
 - [§ 57 Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung](0057.md)
-- [§ 58 Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister; Verordnungsermächtigung](0058.md)
+- [§ 58 Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister; Verordnungsermächtigung](0058.md)
 
 ### Abschnitt 2 Wertvorschriften
 

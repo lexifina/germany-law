@@ -28,10 +28,10 @@ Gebühren
 | Nr. | Gebührentatbestand | Gebührenbetrag |
 | Hauptabschnitt 1 Register- und Grundbuchangelegenheiten |
 | Abschnitt 1 Rechtsdienstleistungsregister |
-| 1110 | Registrierung nach dem RDG .......... Bei Registrierung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten. | 150,00 € |
+| 1110 | Registrierung nach dem RDG .......... Bei Registrierung einer juristischen Person oder einer rechtsfähigen Personengesellschaft wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten. | 150,00 € |
 | 1111 | Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1110 abgegolten ist: je Person .......... | 150,00 € |
 | 1112 | Widerruf oder Rücknahme der Registrierung .......... | 75,00 € |
-| Abschnitt 2 (weggefallen) |
+| Abschnitt 2(weggefallen) |
 |  |
 | Abschnitt 3 Bundeszentral- und Gewerbezentralregister |
 | Vorbemerkung 1.1.3: Die Gebühr 1130 wird nicht erhoben, wenn ein Führungszeugnis zur Ausübung einer ehrenamtlichen Betreuung (§ 19 Abs. 1, § 21 BtOG) oder einer ehrenamtlichen Tätigkeit benötigt wird, die für eine gemeinnützige Einrichtung, für eine Behörde oder im Rahmen eines der in § 32 Abs. 4 Nr. 2 Buchstabe d EStG genannten Dienste ausgeübt wird. |
@@ -117,6 +117,7 @@ Gebühren
 | 1437 | eines Berichts zur Gleichstellung und Entgeltgleichheit nach § 22 Abs. 4 EntgTranspG .......... | 55,00 € |
 | 1438 | eines gesonderten nichtfinanziellen Berichts nach § 289b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB oder eines gesonderten nichtfinanziellen Konzernberichts nach § 315b Abs. 3 Satz 1 Nr. 2 Buchstabe a HGB .......... | 55,00 € |
 | 1439 | eines Ertragsteuerinformationsberichts nach § 342m HGB .......... | 220,00 € |
+|  |  |  |
 | Abschnitt 4Sonstige Gebühren |
 | 1440 | Übermittlung zur Einsichtnahme von Unterlagen, die nach § 326 Abs. 2 Satz 1 oder § 325 Abs. 2b Nr. 3 HGB zur dauerhaften Hinterlegung eingestellt wurden:für jede übermittelte Unterlage .......... | 1,00 € |
 | 1441 | Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die Identitätsprüfung erfolgt anhand |  |

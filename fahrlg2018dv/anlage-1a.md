@@ -18,7 +18,7 @@ für den Fahrschulbetriebswirtschaftslehrgang
 | – | juristische Personen (GmbH, e. V., AG) |
 |  | verantwortlicher Leiter des Ausbildungsbetriebes |
 | – | BGB-Gesellschaft, Gemeinschaftsfahrschulen |
-| – | Personengesellschaften |
+| – | rechtsfähige Personengesellschaften |
 | – | Kooperationen |
 | 2.4 |  | Die Fahrschulerlaubnis und die Behörden | Jurist, Fahrlehrer |
 | – | Fahrschulerlaubnisbehörde, Antragsverfahren, Eröffnung, Verlegung, Erweiterung, Widerruf, Rücknahme, Ruhen, Erlöschen, Zweigstellen |
@@ -40,7 +40,7 @@ für den Fahrschulbetriebswirtschaftslehrgang
 | Natürliche Personen: |
 | – | Verzicht, Stilllegung, Verkauf, Verpachtung |
 | – | Tod des Inhabers |
-| Juristische Personen, Personengesellschaften: |
+| Juristische Personen, rechtsfähige Personengesellschaften: |
 | – | Gesamtvollstreckung/Konkurs, Liquidation |
 | – | Ausscheiden der für die verantwortliche Leitung des Ausbildungsbetriebes bestellten Person, Fristen |
 | 3. | 4 | Investitionen, Finanzierung |  |

@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 5 Absatz 1 Satz 1 Nummer 3 und 4, § 12 Absatz 4 sowie § 16)Medizinische und psychologische Anforderungen
+# Anlage 4 (zu § 5 Absatz 1 Satz 1 Nummer 3 und 4, § 11 Absatz 3 Satz 3 und 4, § 12 Absatz 5, §§ 16 bis 16b)Medizinische und psychologische Anforderungen
 
 1. Allgemeine Anforderungen
   1.1 Ein Triebfahrzeugführer darf nicht unter gesundheitlichen Störungen leiden oder Arzneimittel oder Stoffe nehmen, die insbesondere Folgendes auslösen können:
@@ -29,12 +29,12 @@
     a) Es darf kein Hördefizit von über 40 dB bei 500 und 1 000 Hz vorliegen;
     b) es darf kein Hördefizit von über 45 dB bei 2 000 Hz bei dem Ohr, das die schlechtere Schallleitung aufweist, vorliegen;
     c) keine Anomalie des Vestibularapparats;
-    d) keine chronische Sprachstörung auf Grund der Notwendigkeit, Mitteilungen laut und deutlich auszutauschen;
-    e) die Verwendung von Hörhilfen ist in bestimmten Fällen zulässig.
+    d) die Verwendung von Hörhilfen ist in bestimmten Fällen zulässig.
+    Es darf keine chronische Sprachstörung vorliegen aufgrund der Notwendigkeit, Mitteilungen laut und deutlich auszutauschen.
 2. Mindestinhalt der Einstellungsuntersuchung
   2.1 Ärztliche Untersuchungen
-    a) allgemeine ärztliche Untersuchung;
-    b) Untersuchung der sensorischen Funktionen: Sehvermögen, Hörvermögen, Farbwahrnehmung;
+    a) allgemeine ärztliche Untersuchung, die auch die Prüfung der Anforderungen des Unterabschnittes 1.1 umfasst;
+    b) Untersuchung der sensorischen Funktionen (Sehvermögen und Hörvermögen) und des Sprachvermögens, die die Prüfung der Anforderungen der Unterabschnitte 1.2 und 1.3 umfasst;
     c) Blut- oder Urinanalysen, um unter anderem eine eventuelle Zuckerkrankheit festzustellen, soweit sie zur Beurteilung der körperlichen Eignung des Bewerbers erforderlich sind;
     d) Ruhe-Elektrokardiogramm (EKG);
     e) Untersuchung auf psychotrope Stoffe wie beispielsweise verbotene Drogen oder psychotrope Arzneimittel sowie auf Alkoholmissbrauch, die die berufliche Eignung in Frage stellen.
@@ -43,10 +43,17 @@
     b) Kommunikation;
     c) psychomotorische Fähigkeiten: Reaktionsgeschwindigkeit, Koordination der Hände;
     d) tätigkeitsrelevante Persönlichkeits- und Einstellungsfaktoren.
-3. Mindestinhalt der regelmäßigen ärztlichen Untersuchung
-  Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die regelmäßigen Untersuchungen mindestens
-  a) eine allgemeine ärztliche Untersuchung;
-  b) eine Untersuchung der sensorischen Funktionen: Sehvermögen, Hörvermögen, Farbwahrnehmung;
-  c) eine Blut- oder Urinanalyse zur Feststellung von Diabetes mellitus und anderen Krankheiten entsprechend dem Ergebnis der klinischen Untersuchung;
-  d) eine Untersuchung auf Drogen, sofern klinisch angezeigt.
+3. Mindestinhalt der regelmäßigen und anlassbezogenen ärztlichen Untersuchungen sowie der anlassbezogenen psychologischen Untersuchungen
+  3.1 Regelmäßige und anlassbezogene ärztliche Untersuchungen
+    Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die regelmäßigen und die anlassbezogenen Untersuchungen mindestens
+    a) eine allgemeine ärztliche Untersuchung, die auch die Prüfung der Anforderungen des Unterabschnittes 1.1 umfasst;
+    b) eine Untersuchung der sensorischen Funktionen (Sehvermögen und Hörvermögen) und des Sprachvermögens, die die Prüfung der Anforderungen der Unterabschnitte 1.2 und 1.3 umfasst;
+    c) eine Blut- oder Urinanalyse zur Feststellung von Diabetes mellitus und anderen Krankheiten entsprechend dem Ergebnis der klinischen Untersuchung;
+    d) eine Untersuchung auf Betäubungsmittel, psychotrope Arzneimittel und Alkoholmissbrauch, sofern jeweils klinisch angezeigt.
   Ferner muss bei Triebfahrzeugführern, die älter als 40 Jahre sind, ein Ruhe-EKG durchgeführt werden.
+  3.2 Anlassbezogene psychologische Untersuchungen
+    Erfüllt ein Triebfahrzeugführer die Anforderungen der Einstellungsuntersuchung, so umfassen die anlassbezogenen Untersuchungen folgende Bereiche:
+    a) kognitive Fähigkeiten: Aufmerksamkeit und Konzentration, Gedächtnis, Wahrnehmungsfähigkeit, Urteilsvermögen;
+    b) Kommunikation;
+    c) psychomotorische Fähigkeiten: Reaktionsgeschwindigkeit, Koordination der Hände;
+    d) tätigkeitsrelevante Persönlichkeits- und Einstellungsfaktoren.

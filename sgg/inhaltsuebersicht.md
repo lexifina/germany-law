@@ -26,3 +26,4 @@
 |  | Zweiter Unterabschnitt | Vollstreckung | §§ 198 bis 201 |
 | Dritter Teil |
 | Übergangs- und Schlussvorschriften | §§ 202 bis 219 |
+|  |  | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts | § 220 |

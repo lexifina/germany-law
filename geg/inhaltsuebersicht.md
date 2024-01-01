@@ -12,6 +12,7 @@ Allgemeiner Teil
 | § 7 | Regeln der Technik |
 | § 8 | Verantwortliche |
 | § 9 | Überprüfung der Anforderungen an zu errichtende und bestehende Gebäude |
+| § 9a | Länderregelung |
 Teil 2
 Anforderungen an zu errichtende Gebäude
 Abschnitt 1
@@ -51,26 +52,23 @@ Berechnungsgrundlagen und -verfahren
 | § 32 | Vereinfachtes Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude |
 | § 33 | Andere Berechnungsverfahren |
 Abschnitt 4
-Nutzung
-von erneuerbaren Energien
-zur Wärme- und Kälteerzeugung
-bei einem zu errichtenden Gebäude
-| § 34 | Nutzung erneuerbarer Energien zur Deckung des Wärme- und Kälteenergiebedarfs |
-| § 35 | Nutzung solarthermischer Anlagen |
-| § 36 | Nutzung von Strom aus erneuerbaren Energien |
-| § 37 | Nutzung von Geothermie oder Umweltwärme |
-| § 38 | Nutzung von fester Biomasse |
-| § 39 | Nutzung von flüssiger Biomasse |
-| § 40 | Nutzung von gasförmiger Biomasse |
-| § 41 | Nutzung von Kälte aus erneuerbaren Energien |
-| § 42 | Nutzung von Abwärme |
-| § 43 | Nutzung von Kraft-Wärme-Kopplung |
-| § 44 | Fernwärme oder Fernkälte |
-| § 45 | Maßnahmen zur Einsparung von Energie |
+(weggefallen)
+| § 34 | (weggefallen) |
+| § 35 | (weggefallen) |
+| § 36 | (weggefallen) |
+| § 37 | (weggefallen) |
+| § 38 | (weggefallen) |
+| § 39 | (weggefallen) |
+| § 40 | (weggefallen) |
+| § 41 | (weggefallen) |
+| § 42 | (weggefallen) |
+| § 43 | (weggefallen) |
+| § 44 | (weggefallen) |
+| § 45 | (weggefallen) |
 Teil 3
-Bestehende Gebäude
-Abschnitt 1
 Anforderungen an bestehende Gebäude
+Abschnitt 1
+(weggefallen)
 | § 46 | Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften |
 | § 47 | Nachrüstung eines bestehenden Gebäudes |
 | § 48 | Anforderungen an ein bestehendes Gebäude bei Änderung |
@@ -78,14 +76,12 @@ Anforderungen an bestehende Gebäude
 | § 50 | Energetische Bewertung eines bestehenden Gebäudes |
 | § 51 | Anforderungen an ein bestehendes Gebäude bei Erweiterung und Ausbau |
 Abschnitt 2
-Nutzung erneuerbarer
-Energien zur Wärmeerzeugung
-bei bestehenden öffentlichen Gebäuden
-| § 52 | Pflicht zur Nutzung von erneuerbaren Energien bei einem bestehenden öffentlichen Gebäude |
-| § 53 | Ersatzmaßnahmen |
-| § 54 | Kombination |
-| § 55 | Ausnahmen |
-| § 56 | Abweichungsbefugnis |
+(weggefallen)
+| § 52 | (weggefallen) |
+| § 53 | (weggefallen) |
+| § 54 | (weggefallen) |
+| § 55 | (weggefallen) |
+| § 56 | (weggefallen) |
 Teil 4
 Anlagen
 der Heizungs-, Kühl- und
@@ -101,6 +97,7 @@ Betreiberpflichten
 | § 58 | Betriebsbereitschaft |
 | § 59 | Sachgerechte Bedienung |
 | § 60 | Wartung und Instandhaltung |
+| § 60a | Prüfung und Optimierung von Wärmepumpen |
 Abschnitt 2
 Einbau und Ersatz
 Unterabschnitt 1
@@ -120,11 +117,25 @@ Wärmedämmung von Rohrleitungen und Armaturen
 | § 69 | Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen |
 | § 70 | Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen |
 Unterabschnitt 4
-Nachrüstung
-bei heizungstechnischen
-Anlagen; Betriebsverbot für Heizkessel
-| § 71 | Dämmung von Wärmeverteilungs- und Warmwasserleitungen |
-| § 72 | Betriebsverbot für Heizkessel, Ölheizungen |
+Anforderungen an Heizungsanlagen; Betriebsverbot für Heizkessel
+| § 71 | Anforderungen an eine Heizungsanlage |
+| § 71a | Gebäudeautomation |
+| § 71b | Anforderungen bei Anschluss an ein Wärmenetz und Pflichten für Wärmenetzbetreiber |
+| § 71c | Anforderungen an die Nutzung einer Wärmepumpe |
+| § 71d | Anforderungen an die Nutzung einer Stromdirektheizung |
+| § 71e | Anforderungen an eine solarthermische Anlage |
+| § 71f | Anforderungen an Biomasse und Wasserstoff einschließlich daraus hergestellter Derivate |
+| § 71g | Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse |
+| § 71h | Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung |
+| § 71i | Allgemeine Übergangsfrist |
+| § 71j | Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes |
+| § 71k | Übergangsfristen bei einer Heizungsanlage, die sowohl Erdgas als auch Wasserstoff verbrennen kann; Festlegungskompetenz |
+| § 71l | Übergangsfrist bei einer Etagenheizung oder einer Einzelraumfeuerungsanlage |
+| § 71m | Übergangsfrist bei einer Hallenheizung |
+| § 71n | Verfahren für Gemeinschaften der Wohnungseigentümer |
+| § 71o | Regelungen zum Schutz von Mietern |
+| § 71p | Verordnungsermächtigung zu dem Einsatz von Kältemitteln in elektrischen Wärmepumpen und Wärmepumpen-Hybridheizungen |
+| § 72 | Betriebsverbot für Heizkessel |
 | § 73 | Ausnahme |
 Abschnitt 3
 Energetische Inspektion von Klimaanlagen
@@ -183,6 +194,7 @@ Teil 9
 | § 112 | Übergangsvorschriften für Energieausweise |
 | § 113 | Übergangsvorschriften für Aussteller von Energieausweisen |
 | § 114 | Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik |
+| § 115 | Übergangsvorschrift für Geldbußen |
 | Anlage 1 | Technische Ausführung des Referenzgebäudes (Wohngebäude) |
 | Anlage 2 | Technische Ausführung des Referenzgebäudes (Nichtwohngebäude) |
 | Anlage 3 | Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude) |

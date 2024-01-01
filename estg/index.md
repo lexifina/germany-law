@@ -305,7 +305,7 @@
 - [§ 69 Datenübermittlung an die Familienkassen](0069.md)
 - [§ 70 Festsetzung und Zahlung des Kindergeldes](0070.md)
 - [§ 71 Vorläufige Einstellung der Zahlung des Kindergeldes](0071.md)
-- [§ 72 Festsetzung und Zahlung des Kindergeldes an Angehörige des öffentlichen Dienstes](0072.md)
+- [§ 72 (weggefallen)](0072.md)
 - [§ 73 (weggefallen)](0073.md)
 - [§ 74 Zahlung des Kindergeldes in Sonderfällen](0074.md)
 - [§ 75 Aufrechnung](0075.md)

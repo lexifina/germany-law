@@ -1,9 +1,9 @@
-# Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne Mehrkosten der Ausbildungsvergütung
+# Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne die Mehrkosten der Ausbildungsvergütung nach § 27 Absatz 1 Satz 1 des Pflegeberufegesetzes und ohne die Kosten der Ausbildungsvergütung nach § 39a Absatz 1 des Pflegeberufegesetzes
 
-Aufstellung über die im Rahmen der Vereinbarung von Ausbildungsbudgets zu finanzierenden Tatbestände nach Teil 2 Abschnitt 3 und nach Teil 5 des Pflegeberufegesetzes
+Aufstellung über die im Rahmen der Vereinbarung von Ausbildungsbudgets zu finanzierenden Tatbestände der Pflegeausbildung
 | Lfd. Nr. | Kostenarten (zu finanzierende Tatbestände) | Kostenartengruppen |
 | A. | Kosten der Pflegeschule |
-| 1. | Kosten des haupt- und nebenberuflichen Lehrpersonals einschließlich Kosten der Praxisbegleitung | Theoretischer und praktischer Unterricht |
+| 1. | Kosten des haupt- und nebenberuflichen Lehrpersonals einschließlich Kosten der Praxisbegleitung | Theoretischerund praktischerUnterricht |
 | 1.1 | Schulleitung (insbesondere administrative und organisatorische Aufgaben, auch soweit Aufgaben des Lehrpersonals) |
 | 1.2 | Hauptamtliches Lehrpersonal |
 | 1.3 | Nebenberufliches Lehrpersonal |
@@ -36,9 +36,9 @@ Aufstellung über die im Rahmen der Vereinbarung von Ausbildungsbudgets zu finan
 |  | Mietnebenkosten für Ausbildungsräume |  |
 | 6. | Sonstige Gemeinkosten |  |
 | B. | Kosten des Trägers der praktischen Ausbildung |
-| 1. | Kosten der Praxisanleitung | Praktische Ausbildung |
+| 1. | Kosten der Praxisanleitung | PraktischeAusbildung |
 | 1.1 | Praktische Anleitung durch Praxisanleiterinnen und Praxisanleiter einschließlich Reisekosten |
-| 1.2 | Kosten der Organisation nach § 8 des Pflegeberufegesetzes einschließlich Reisekosten |
+| 1.2 | Kosten der Organisation nach den §§ 8 und 38a des Pflegeberufegesetzes einschließlich Reisekosten |
 | 1.3 | Arbeitsausfallkosten für die Teilnahme an Weiterbildungs- und Qualifizierungsmaßnahmen zur Praxisanleiterin oder zum Praxisanleiter |
 | 1.4 | Kosten der Qualifikation von Praxisanleiterinnen und Praxisanleitern, einschließlich der erforderlichen Fortbildungskosten |
 | 1.5 | Kosten der Auszubildenden während der Praxiseinsätze mit Ausnahme der Ausbildungsvergütung (z. B. Fahrtkostenerstattung) |

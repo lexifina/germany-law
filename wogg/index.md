@@ -91,6 +91,7 @@
 - [§ 42d Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0042d.md)
 - [§ 43 Fortschreibung des Wohngeldes](0043.md)
 - [§ 44 Übergangsregelung bei Fortschreibung des Wohngeldes](0044.md)
+- [§ 45 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0045.md)
 - [Anlage 1 (zu § 12 Absatz 1)](anlage-1.md)
 - [Anlage 2 (zu § 19 Absatz 1)](anlage-2.md)
 - [Anlage 3 (zu § 19 Absatz 2)](anlage-3.md)

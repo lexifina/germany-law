@@ -248,6 +248,7 @@
 - [§ 106a Sonderregelungen zur Bewältigung der COVID-19-Pandemie](0106a.md)
 - [§ 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0107.md)
 - [§ 107a Übergangsregelung zur Minderung der Förderungsdauer](0107a.md)
+- [§ 108 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0108.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 
 (BGBl. II 1990, 889, 1146)

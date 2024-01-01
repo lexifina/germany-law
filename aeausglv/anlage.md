@@ -1,6 +1,5 @@
 # Anlage (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 1977, 1468 - 1469
 Als Kostenbestandteile im Sinne von § 2 AEAusglV sind folgende Positionen in Ansatz zu bringen:
 1. Energie, Treib- und Heizstoffkosten sind nach LSP Nr. 15 einzusetzen.
 2a. Sonstiges Material (einschließlich der nicht aktivierten geringwertigen Wirtschaftsgüter)
@@ -40,7 +39,7 @@ Als Kostenbestandteile im Sinne von § 2 AEAusglV sind folgende Positionen in An
 7. Kalkulatorische Abschreibungen
   Ausgangsbasis für die kalkulatorischen Abschreibungen sind die Anschaffungs- oder Herstellungskosten, vermindert um Investitionszuschüsse der öffentlichen Hand. Die in der Handels- und Steuerbilanz vorgenommenen Regel- und Sonderabschreibungen bleiben außer Betracht.
 8. Kalkulatorischer Unternehmerlohn
-  Für die Mitarbeit des Unternehmers in Einzelunternehmen und Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
+  Für die Mitarbeit des Unternehmers in Einzelunternehmen und rechtsfähigen Personengesellschaften und ggf. unentgeltlich mithelfende Familienangehörige sind angemessene Kosten einzusetzen.
 9. Kalkulatorische Zinsen (vgl. Nr. 43 LSP)
   Für die Ermittlung des betriebsnotwendigen Kapitals gilt Ziffer 7 entsprechend.
 Kostenermittlungsbogen

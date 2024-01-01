@@ -434,8 +434,8 @@
 | § 310 | Meldepflicht bei Wechsel der Zuständigkeit |
 |  |  |
 | Zweiter Unterabschnitt |
-| Anzeige- und Bescheinigungspflichten |
-| § 311 | Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit |
+| Anzeige-, Nachweis- und Bescheinigungspflichten |
+| § 311 | Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung |
 | § 312 | Arbeitsbescheinigung |
 | § 312a | Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts |
 | § 313 | Nebeneinkommensbescheinigung |
@@ -700,7 +700,9 @@
 | § 449 | Gesetz zur Modernisierung und Stärkung der beruflichen Bildung |
 | § 450 | Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung |
 | § 451 | Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
+| § 452 | Gesetz zur Regelung des Sozialen Entschädigungsrechts |
 | § 453 | Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze |
 | § 454 | Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung |
 | § 455 | Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes |
 | § 456 | Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes |
+| § 457 | Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
