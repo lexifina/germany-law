@@ -16,12 +16,12 @@ Leipzig I | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 7. | (gestrichen) |  | 
 8. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
 9. | Betriebsprüfung
-a) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
+a) | Betriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
 Görlitz | Görlitz Löbau
-b) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 12 Millionen Euro | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
+b) | Betriebsprüfung Großbetriebe | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
 Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Mittweida Schwarzenberg Stollberg Zschopau
 Dresden-Nord | Dresden-Nord Dresden-Süd Meißen Pirna
 Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
@@ -100,73 +100,9 @@ Altchemnitz |  |  |  |
  | Markersdorf |  |  |  | 
  | Morgenleite |  |  |  | 
  | Reichenhain |  |  |  | 
-Döbeln | Vom Landkreis Mittelsachsen die Gemeinden Döbeln, Großweitzschen, Hartha, Leisnig, Ostrau, Roßwein, Waldheim, Zschaitz-Ottewig |  |  |  | 
-Dresden-Nord, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile | Bewertung des Grundbesitzes | Dresden-Süd |  | 
- | Albertstadt |  |  |  | 
- | Äußere Neustadt |  |  |  | 
- | Bühlau/Weißer Hirsch |  |  |  | 
- | Dresdner Heide |  |  |  | 
- | Flughafen/Industriegebiet Klotzsche |  |  |  | 
- | Gönnsdorf/Pappritz |  |  |  | 
- | Hellerau/Wilschdorf |  |  |  | 
- | Hellerberge |  |  |  | 
- | Hosterwitz/Pillnitz |  |  |  | 
- | Innere Neustadt |  |  |  | 
- | Kaditz |  |  |  | 
- | Klotzsche |  |  |  | 
- | Langebrück/Schönborn |  |  |  | 
- | Leipziger Vorstadt |  |  |  | 
- | Loschwitz/Wachwitz |  |  |  | 
- | Mickten |  |  |  | 
- | Pieschen-Nord/Trachenberge |  |  |  | 
- | Pieschen-Süd |  |  |  | 
- | Radeberger Vorstadt |  |  |  | 
- | Schönfeld/Schullwitz |  |  |  | 
- | Trachau |  |  |  | 
- | Weißig |  |  |  | 
- | Weixdorf |  |  |  | 
-Dresden-Süd, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Bewertung des Grundbesitzes | Dresden-Nord
- | Altfranken/Gompitz |  |  |  | 
- | Blasewitz |  |  |  | 
- | Briesnitz |  |  |  | 
- | Coschütz/Gittersee |  |  |  | 
- | Cossebaude/Mobschatz/Oberwartha |  |  |  | 
- | Cotta |  |  |  | 
- | Friedrichstadt |  |  |  | 
- | Gorbitz-Nord/Neu-Omsewitz |  |  |  | 
- | Gorbitz-Ost |  |  |  | 
- | Gorbitz-Süd |  |  |  | 
- | Großzschachwitz |  |  |  | 
- | Gruna |  |  |  | 
- | Innere Altstadt |  |  |  | 
- | Johannstadt-Nord |  |  |  | 
- | Johannstadt-Süd |  |  |  | 
- | Kleinpestitz/Mockritz |  |  |  | 
- | Kleinzschachwitz |  |  |  | 
- | Laubegast |  |  |  | 
- | Leuben |  |  |  | 
- | Leubnitz-Neuostra |  |  |  | 
- | Löbtau-Nord |  |  |  | 
- | Löbtau-Süd |  |  |  | 
- | Lockwitz |  |  |  | 
- | Naußlitz |  |  |  | 
- | Niedersedlitz |  |  |  | 
- | Pirnaische Vorstadt |  |  |  | 
- | Plauen |  |  |  | 
- | Prohlis-Nord |  |  |  | 
- | Prohlis-Süd |  |  |  | 
- | Räcknitz/Zschertnitz |  |  |  | 
- | Reick |  |  |  | 
- | Seevorstadt-Ost/Großer Garten |  |  |  | 
- | Seidnitz/Dobritz |  |  |  | 
- | Strehlen |  |  |  | 
- | Striesen-Ost |  |  |  | 
- | Striesen-Süd |  |  |  | 
- | Striesen-West |  |  |  | 
- | Südvorstadt-Ost |  |  |  | 
- | Südvorstadt-West |  |  |  | 
- | Tolkewitz/Seidnitz-Nord |  |  |  | 
- | Wilsdruffer Vorstadt/ Seevorstadt-West |  |  |  | 
+Döbeln | Vom Landkreis Mittelsachsen die Gemeinden Döbeln, Großweitzschen, Hartha, Jahnatal, Leisnig, Roßwein, Waldheim |  |  |  | 
+Dresden-Nord, Dresden | Von der Kreisfreien Stadt Dresden die Stadtbezirke Neustadt, Pieschen, Klotzsche und Loschwitz sowie die Ortschaften Weixdorf, Langebrück, Schönborn und Schönfeld-Weißig | Bewertung des Grundbesitzes | Dresden-Süd |  | 
+Dresden-Süd, Dresden | Von der Kreisfreien Stadt Dresden die Stadtbezirke Altstadt, Blasewitz, Leuben, Prohlis, Plauen und Cotta sowie die Ortschaften Altfranken, Cossebaude, Oberwartha, Mobschatz und Gompitz |  |  | Bewertung des Grundbesitzes | Dresden-Nord
 Eilenburg | Vom Landkreis Nordsachsen die Gemeinden Bad Düben, Delitzsch, Doberschütz, Eilenburg, Jesewitz, Krostitz, Laußig, Löbnitz, Rackwitz, Schkeuditz, Schönwölkau, Taucha, Wiedemar, Zschepplin |  |  |  | 
 Freiberg | Vom Landkreis Mittelsachsen die Gemeinden Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Dorfchemnitz, Eppendorf, Flöha, Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Halsbrücke, Leubsdorf, Lichtenberg/Erzgeb., Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Sayda, Weißenborn/Erzgeb. |  |  |  | 
 Görlitz | Vom Landkreis Görlitz die Gemeinden Bad Muskau, Boxberg/O.L., Gablenz, Görlitz, Groß Düben, Hähnichen, Hohendubrau, Horka, Kodersdorf, Königshain, Krauschwitz/O.L., Kreba-Neudorf, Markersdorf, Mücka, Neißeaue, Niesky, Quitzdorf am See, Reichenbach/O.L., Rietschen, Rothenburg/O.L., Schleife, Schöpstal, Trebendorf, Vierkirchen, Waldhufen, Weißkeißel, Weißwasser/O.L. |  |  |  | 
