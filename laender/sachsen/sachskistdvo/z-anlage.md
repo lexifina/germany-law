@@ -4,17 +4,15 @@ Verzeichnis der steuerberechtigten Körperschaften, deren Kirchensteuer von den 
 a)
 Evangelisch-Lutherische Landeskirche Sachsens
 b)
-Evangelische Kirche der Kirchenprovinz Sachsen
+Evangelische Kirche in Mitteldeutschland
 c)
-Evangelische Kirche des Görlitzer Kirchengebiets
+Evangelische Kirche Berlin-Brandenburg-schlesische Oberlausitz
 d)
-Evangelische Kirche in Berlin-Brandenburg
-e)
-Evangelisch-Lutherische Kirche in Thüringen
+Evangelisch-reformierte Kirche
 2. Im Bereich der Katholischen Kirche:
 a)
 Bistum Dresden-Meißen
 b)
-Apostolische Administratur Görlitz
+Bistum Görlitz
 c)
-Bischöfliches Amt Magdeburg
+Bistum Magdeburg
