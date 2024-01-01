@@ -1,8 +1,8 @@
 # Auslandsreisekostenverordnung - Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder
 
 - Herausgeber: Land Brandenburg
-- Datum: 2023-01-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/auslandsreisekostenverordnung_2022
+- Datum: 2024-01-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/arv_2023
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,25 +10,25 @@
 
 Auslandsreisekostenverordnung - Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder
 
-vom 24. Oktober 2022
+vom 27. Oktober 2023
 
-(ABl./22, [Nr. 46], S.906)
+(ABl./23, [Nr. 46], S.1119)
 
-Als Anlage wird die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder (ARVVwV) des Bundesministeriums des Innern und für Heimat vom 13. Oktober 2022, die am 1. Januar 2023 in Kraft treten wird, bekannt gegeben.
+Als Anlage wird die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder (ARVVwV) des Bundesministeriums des Innern und für Heimat vom 17. Oktober 2023, die am 1. Januar 2024 in Kraft treten wird, bekannt gegeben.
 
-Die Anlage zur ARVVwV berücksichtigt das durch die Wechselkurs- und Verbraucherpreisentwicklung veränderte Preis­niveau für die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder.
+Die Anlage zur ARVVwV berücksichtigt das durch die Wechselkurs- und Verbraucherpreisentwicklung veränderte Preisniveau für die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder.
 
-Für den Landesbereich gilt die ARVVwV mit der Maßgabe, dass die durch die erhöhten Auslandstage- und Auslandsübernachtungsgelder bedingten Mehrausgaben ab 1. Januar 2023 weiterhin durch entsprechende Einsparungen innerhalb der bei dem Reisekosten-Titel verfügbaren Ausgaben zu decken sind.
+Für den Landesbereich gilt die ARVVwV mit der Maßgabe, dass die durch die erhöhten Auslandstage- und Auslandsübernachtungsgelder bedingten Mehrausgaben ab 1. Januar 2024 weiterhin durch entsprechende Einsparungen innerhalb der bei dem Reisekosten-Titel verfügbaren Ausgaben zu decken sind.
 
-Für im Jahr 2022 durchgeführte Dienstreisen, die erst im Jahr 2023 abgerechnet werden, gelten die Auslandstage- und Auslandsübernachtungsgelder, die bis zum 31. Dezember 2022 festgesetzt sind.
+Für im Jahr 2023 durchgeführte Dienstreisen, die erst im Jahr 2024 abgerechnet werden, gelten die Auslandstage- und Auslandsübernachtungsgelder, die bis zum 31. Dezember 2023 festgesetzt sind.
 
 Anlage 1
 
 zum MdFE-Rundschreiben
 
-- 12-FD 2762.24/2022#01#01 -
+- 12-FD 2762.24/2023#01#01 -
 
-vom 24. Oktober 2022
+vom 27. Oktober 2023
 
 Allgemeine Verwaltungsvorschrift
 
@@ -38,9 +38,9 @@ und Auslandsübernachtungsgelder
 
 (ARVVwV)
 
-Vom 13. Oktober 2022
+Vom 17. Oktober 2023
 
-Nach § 16 des Bundesreisekostengesetzes (BRKG) wird im Einvernehmen mit dem Auswärtigen Amt folgende allgemeine Verwaltungsvorschrift zu § 3 Absatz 1 Satz 1 der Auslandsreise­kostenverordnung (ARV) vom 21. Mai 1991 (BGBl. I S. 1140), zuletzt geändert durch Artikel 1 der Verordnung vom 27. März 2021 (BGBl. I S. 660), erlassen:
+Nach § 16 des Bundesreisekostengesetzes (BRKG) wird im Einvernehmen mit dem Auswärtigen Amt folgende allgemeine Verwaltungsvorschrift zu § 3 Absatz 1 Satz 1 der Auslandsreisekostenverordnung (ARV) vom 21. Mai 1991 (BGBl. I S. 1140), zuletzt geändert durch Artikel 1 der Verordnung vom 27. März 2021 (BGBl. I S. 660), erlassen:
 
 Artikel 1
 
@@ -48,17 +48,17 @@ Die Auslandstage- und Auslandsübernachtungsgelder werden in Höhe der aus der A
 
 Artikel 2
 
-(1) Wird anlässlich einer Auslandsdienstreise die Mittagsverpflegung in einer Kantine  eingenommen, beträgt das Auslandstagegeld nach § 3 Absatz 1 und 2 ARV 80 Prozent  des in Spalte 2 der Anlage ausgewiesenen Betrages.
+(1) Wird anlässlich einer Auslandsdienstreise die Mittagsverpflegung in einer Kantine eingenommen, beträgt das Auslandstagegeld nach § 3 Absatz 1 und 2 ARV 80 Prozent des in Spalte 2 der Anlage ausgewiesenen Betrages.
 
 (2) Für notwendige Übernachtungen ohne belegmäßigen Nachweis beträgt das Auslandsübernachtungsgeld nach § 3 Absatz 1 und 2 ARV 50 Prozent des in Spalte 3 der Anlage ausgewiesenen Betrages, höchstens jedoch 30 Euro.
 
 Artikel 3
 
-(1) Diese Verwaltungsvorschrift tritt am 1. Januar 2023 in Kraft.
+(1) Diese Verwaltungsvorschrift tritt am 1. Januar 2024 in Kraft.
 
-(2) Zum gleichen Zeitpunkt tritt die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder vom 2. Oktober 2020 (GMBl 2020 S. 959) sowie das Rundschreiben zur Fortgeltung der Festsetzung für das Kalenderjahr 2022 vom 20. Oktober 2021 (GMBl 2021 S. 1330) außer Kraft.
+(2) Zum gleichen Zeitpunkt tritt die Allgemeine Verwaltungsvorschrift über die Neufestsetzung der Auslandstage- und Auslandsübernachtungsgelder vom 13. Oktober 2022 (GMBl 2022 S. 849) außer Kraft.
 
-Berlin, den 13. Oktober 2022
+Berlin, den 17. Oktober 2023
 
 Bundesministerium des Innern und für Heimat
 
@@ -70,9 +70,9 @@ Anlage 2
 
 zum MdFE-Rundschreiben
 
-- 12-FD 2762.24/2022#01#01 -
+- 12-FD 2762.24/2023#01#01-
 
-vom 24. Oktober 2022
+vom 27. Oktober 2023
 
 | 
 
@@ -82,12 +82,14 @@ Land/Ort
 | 
 
 
-Auslands-tagegeld
+Auslandstagegeld
 
 | 
 
 
-Auslandsübernachtungsgeld
+Auslandsüber-
+
+nachtungsgeld
 
 bis zu … Euro
 
@@ -211,7 +213,7 @@ Angola
 | 
 
 
-30
+35
 
 | 
 
@@ -297,12 +299,12 @@ Canberra
 | 
 
 
-42
+61
 
 | 
 
 
-158
+186
 
 | 
 
@@ -312,12 +314,12 @@ Sydney
 | 
 
 
-56
+47
 
 | 
 
 
-184
+173
 
 | 
 
@@ -327,12 +329,12 @@ im Übrigen
 | 
 
 
-42
+47
 
 | 
 
 
-158
+173
 
 | 
 
@@ -372,12 +374,12 @@ Barbados
 | 
 
 
-43
+45
 
 | 
 
 
-165
+206
 
 | 
 
@@ -475,12 +477,12 @@ Brasilia
 | 
 
 
-47
+42
 
 | 
 
 
-127
+88
 
 | 
 
@@ -490,12 +492,12 @@ Rio de Janeiro
 | 
 
 
-47
+57
 
 | 
 
 
-145
+140
 
 | 
 
@@ -505,12 +507,12 @@ Sao Paulo
 | 
 
 
-44
+38
 
 | 
 
 
-132
+151
 
 | 
 
@@ -520,12 +522,12 @@ im Übrigen
 | 
 
 
-42
+38
 
 | 
 
 
-84
+88
 
 | 
 
@@ -636,12 +638,12 @@ Hongkong
 | 
 
 
-61
+59
 
 | 
 
 
-145
+169
 
 | 
 
@@ -721,7 +723,7 @@ Costa Rica
 | 
 
 
-Côte d'Ivoire
+Côte d‘Ivoire
 
 | 
 
@@ -756,12 +758,12 @@ Dominikanische Republik
 | 
 
 
-37
+41
 
 | 
 
 
-147
+167
 
 | 
 
@@ -771,12 +773,12 @@ Dschibuti
 | 
 
 
-54
+64
 
 | 
 
 
-305
+255
 
 | 
 
@@ -846,12 +848,12 @@ Fidschi
 | 
 
 
-28
+26
 
 | 
 
 
-69
+183
 
 | 
 
@@ -861,12 +863,12 @@ Finnland
 | 
 
 
-41
+45
 
 | 
 
 
-136
+171
 
 | 
 
@@ -884,9 +886,11 @@ Frankreich
 
 Paris sowie die
 
-Départements der
+Départements
 
-Île de France**
+der Île de
+
+France (1)
 
 | 
 
@@ -951,12 +955,12 @@ Georgien
 | 
 
 
-29
+37
 
 | 
 
 
-88
+87
 
 | 
 
@@ -1037,12 +1041,12 @@ Guinea
 | 
 
 
-38
+49
 
 | 
 
 
-118
+140
 
 | 
 
@@ -1099,21 +1103,6 @@ Indien
 
 | 
 
-
-| 
-
-
-Bangalore
-
-| 
-
-
-35
-
-| 
-
-
-155
 
 | 
 
@@ -1284,27 +1273,27 @@ Mailand
 | 
 
 
-37
+35
 
 | 
 
 
-158
+191
 
 | 
 
 
-Rom
+Rom (2)
 
 | 
 
 
-33
+40
 
 | 
 
 
-135
+150
 
 | 
 
@@ -1314,12 +1303,12 @@ im Übrigen
 | 
 
 
-33
+35
 
 | 
 
 
-135
+150
 
 | 
 
@@ -1329,12 +1318,12 @@ Jamaika
 | 
 
 
-47
+32
 
 | 
 
 
-138
+171
 
 | 
 
@@ -1355,12 +1344,12 @@ Tokio
 | 
 
 
-55
+41
 
 | 
 
 
-233
+285
 
 | 
 
@@ -1430,12 +1419,12 @@ Kamerun
 | 
 
 
-41
+46
 
 | 
 
 
-180
+275
 
 | 
 
@@ -1456,12 +1445,12 @@ Ottawa
 | 
 
 
-39
+51
 
 | 
 
 
-142
+214
 
 | 
 
@@ -1471,12 +1460,12 @@ Toronto
 | 
 
 
-42
+45
 
 | 
 
 
-161
+392
 
 | 
 
@@ -1486,12 +1475,12 @@ Vancouver
 | 
 
 
-41
+52
 
 | 
 
 
-140
+304
 
 | 
 
@@ -1501,12 +1490,12 @@ im Übrigen
 | 
 
 
-39
+45
 
 | 
 
 
-134
+214
 
 | 
 
@@ -1516,12 +1505,12 @@ Kap Verde
 | 
 
 
-25
+31
 
 | 
 
 
-105
+90
 
 | 
 
@@ -1601,7 +1590,9 @@ Kolumbien
 | 
 
 
-Kongo, Demokratische Republik
+Kongo,
+
+Demokratische Republik
 
 | 
 
@@ -1631,7 +1622,9 @@ Kongo, Republik
 | 
 
 
-Korea, Demokratische Volksrepublik
+Korea,
+
+Demokratische Volksrepublik
 
 | 
 
@@ -1696,12 +1689,12 @@ Kuba
 | 
 
 
-38
+42
 
 | 
 
 
-228
+170
 
 | 
 
@@ -1726,12 +1719,12 @@ Laos
 | 
 
 
-27
+29
 
 | 
 
 
-96
+71
 
 | 
 
@@ -1771,12 +1764,12 @@ Libanon
 | 
 
 
-49
+57
 
 | 
 
 
-123
+146
 
 | 
 
@@ -1846,12 +1839,12 @@ Madagaskar
 | 
 
 
-28
+27
 
 | 
 
 
-87
+116
 
 | 
 
@@ -1936,12 +1929,12 @@ Marokko
 | 
 
 
-35
+34
 
 | 
 
 
-129
+87
 
 | 
 
@@ -1981,12 +1974,12 @@ Mauritius
 | 
 
 
-45
+36
 
 | 
 
 
-220
+172
 
 | 
 
@@ -2041,7 +2034,7 @@ Mongolei
 | 
 
 
-22
+19
 
 | 
 
@@ -2071,12 +2064,12 @@ Mosambik
 | 
 
 
-31
+42
 
 | 
 
 
-146
+208
 
 | 
 
@@ -2131,12 +2124,12 @@ Neuseeland
 | 
 
 
-46
+48
 
 | 
 
 
-153
+148
 
 | 
 
@@ -2221,12 +2214,12 @@ Norwegen
 | 
 
 
-66
+62
 
 | 
 
 
-182
+139
 
 | 
 
@@ -2251,12 +2244,12 @@ Oman
 | 
 
 
-33
+41
 
 | 
 
 
-108
+117
 
 | 
 
@@ -2352,12 +2345,12 @@ Paraguay
 | 
 
 
-31
+32
 
 | 
 
 
-108
+124
 
 | 
 
@@ -2377,17 +2370,17 @@ Peru
 | 
 
 
-Philippinen***
+Philippinen (3)
 
 | 
 
 
-27
+34
 
 | 
 
 
-116
+140
 
 | 
 
@@ -2549,7 +2542,9 @@ im Übrigen
 | 
 
 
-Russische Föderation
+Russische
+
+Föderation
 
 | 
 
@@ -2827,12 +2822,12 @@ Sierra Leone
 | 
 
 
-40
+47
 
 | 
 
 
-161
+145
 
 | 
 
@@ -2867,7 +2862,9 @@ Singapur
 | 
 
 
-Slowakische Republik
+Slowakische
+
+Republik
 
 | 
 
@@ -2918,22 +2915,24 @@ Barcelona
 | 
 
 
-118
+144
 
 | 
 
 
-Kanarische Inseln
+Kanarische
+
+Inseln
 
 | 
 
 
-33
+30
 
 | 
 
 
-115
+103
 
 | 
 
@@ -2943,27 +2942,29 @@ Madrid
 | 
 
 
-33
+35
 
 | 
 
 
-118
+131
 
 | 
 
 
-Palma de Mallorca
+Palma de
+
+Mallorca
 
 | 
 
 
-29
+36
 
 | 
 
 
-121
+142
 
 | 
 
@@ -2978,7 +2979,7 @@ im Übrigen
 | 
 
 
-115
+103
 
 | 
 
@@ -2988,12 +2989,12 @@ Sri Lanka
 | 
 
 
-35
+30
 
 | 
 
 
-100
+112
 
 | 
 
@@ -3074,12 +3075,12 @@ Südsudan
 | 
 
 
-28
+42
 
 | 
 
 
-150
+159
 
 | 
 
@@ -3189,19 +3190,19 @@ Tonga
 | 
 
 
-Trinidad
+Trinidad und
 
-und Tobago****
-
-| 
-
-
-37
+Tobago (4)
 
 | 
 
 
-177
+55
+
+| 
+
+
+203
 
 | 
 
@@ -3211,17 +3212,19 @@ Tschad
 | 
 
 
-53
+35
 
 | 
 
 
-163
+155
 
 | 
 
 
-Tschechische Republik
+Tschechische
+
+Republik
 
 | 
 
@@ -3302,7 +3305,7 @@ Tunesien
 | 
 
 
-115
+144
 
 | 
 
@@ -3397,21 +3400,6 @@ Usbekistan
 | 
 
 
-Vatikanstaat
-
-| 
-
-
-43
-
-| 
-
-
-160
-
-| 
-
-
 Venezuela
 
 | 
@@ -3427,7 +3415,9 @@ Venezuela
 | 
 
 
-Vereinigte Arabische Emirate
+Vereinigte
+
+Arabische Emirate
 
 | 
 
@@ -3442,9 +3432,7 @@ Vereinigte Arabische Emirate
 | 
 
 
-Vereinigte Staaten von
-
-Amerika (USA)
+Vereinigte Staaten von Amerika (USA)
 
 | 
 
@@ -3605,7 +3593,9 @@ im Übrigen
 | 
 
 
-Vereinigtes Königreich von Großbritannien
+Vereinigtes
+
+Königreich von Großbritannien
 
 und Nordirland
 
@@ -3683,12 +3673,12 @@ Zentralafrikanische Republik
 | 
 
 
-38
+44
 
 | 
 
 
-74
+210
 
 | 
 
@@ -3705,21 +3695,12 @@ Zypern
 
 125
 
-| *
+* Darüber hinaus Erstattung gemäß § 3 Absatz 1 Satz 3 ARV.
 
-| Darüber hinaus Erstattung gemäß § 3 Absatz 1 Satz 3 ARV.
+(1) Hierzu zählen die Départements 75 - Paris, 77 - Seine-et-Marne, 78 - Yvelines, 91 - l’Essonne, 92 - Hauts-de-Seine, 93 - Seine-Saint-Denis, 94 - Val-de-Marne, 95 - Val-d’Oise
 
+(2) Die für Rom festgesetzten Beträge gelten auch für Vatikanstaat.
 
-| **
+(3) Die für die Philippinen festgesetzten Beträge gelten auch für Mikronesien.
 
-| Hierzu zählen die Départements 75 - Paris, 77 - Seine-et-Marne, 78 - Yvelines, 91 - l’Essonne, 92 - Hauts-de-Seine, 93 - Seine-Saint-Denis, 94 - Val-de-Marne, 95 - Val-d’Oise.
-
-
-| ***
-
-| Die für die Philippinen festgesetzten Beträge gelten auch für Mikronesien.
-
-
-| ****
-
-| Die für Trinidad und Tobago festgesetzten Beträge gelten auch für die zu dessen Amtsbezirk gehörenden Staaten Antigua und Barbuda, Dominica, Grenada, Guyana, St. Kitts und Nevis, St. Lucia, St. Vincent und Grenadinen sowie Suriname.
+(4) Die für Trinidad und Tobago festgesetzten Beträge gelten auch für die zu dessen Amtsbezirk gehörenden Staaten Antigua und Barbuda, Dominica, Grenada, Guyana, St. Kitts und Nevis, St. Lucia, St. Vincent und Grenadinen sowie Suriname.
