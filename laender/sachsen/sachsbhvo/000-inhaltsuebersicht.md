@@ -70,7 +70,7 @@ Abschnitt 6 Aufwendungen bei dauernder Pflegebedürftigkeit
 § 49a Ambulant betreute Wohngruppen
 § 49b Leistungen zur sozialen Sicherung der Pflegepersonen
 § 50 Teilstationäre Pflege
-§ 51 Häusliche Pflege bei Verhinderung der Pflegeperson
+§ 51 Verhinderungspflege
 § 52 Kurzzeitpflege
 § 53 Angebote zur Unterstützung im Alltag und Entlastungsbetrag
 § 54 Pflegehilfsmittel und Maßnahmen zur Verbesserung des individuellen oder gemeinsamen Wohnumfeldes
@@ -78,17 +78,21 @@ Abschnitt 6 Aufwendungen bei dauernder Pflegebedürftigkeit
 § 56 Vollstationäre Einrichtung der Behindertenhilfe
 Abschnitt 7 Umfang der Beihilfe
 § 57 Bemessung der Beihilfe
-§ 58 Begrenzung der Beihilfe
+§ 58 (weggefallen)
 § 59 Eigenbeteiligungen
-§ 60 Selbstbehalt
+§ 60 (weggefallen)
 § 61 Belastungsgrenzen
 Abschnitt 8 Verfahrensvorschriften
 § 62 Verfahren
 § 63 Antragsfrist
 § 64 Verwaltungsvorschriften
-Abschnitt 9 Übergangsvorschriften
-§ 65 Übergangsvorschriften
-§ 66 Übergangsvorschriften aus Anlass des Zweiten und Dritten Pflegestärkungsgesetzes
+Abschnitt 9 Pauschale Beihilfe
+§ 65 Antragstellung und Bewilligung
+§ 66 Zahlung der pauschalen Beihilfe
+§ 67 Beamtinnen und Beamte mit Anspruch auf Heilfürsorge
+Abschnitt 10 Übergangsvorschriften
+§ 68 Übergangsvorschriften
+§ 69 Übergangsvorschriften aus Anlass des Zweiten und Dritten Pflegestärkungsgesetzes
 Anlage 1 (zu § 4 Absatz 4 Satz 2)
 Ausgeschlossene und teilweise ausgeschlossene Untersuchungs- und Behandlungsmethoden
 Anlage 2 (zu § 9)
@@ -111,3 +115,7 @@ Anlage 9 (zu § 62 Absatz 1)
 Kurzantrag auf Gewährung von Beihilfe
 Anlage 10 (zu § 62 Absatz 1)
 Aufwendungen für dauernde Pflege (Anlage „Pflege“)
+Anlage 11 (zu § 62 Absatz 1)
+Antrag auf Gewährung von Pflegegeld
+Anlage 12 (zu § 65 Absatz 1)
+Antrag auf pauschale Beihilfe nach § 80a des Sächsischen Beamtengesetzes
