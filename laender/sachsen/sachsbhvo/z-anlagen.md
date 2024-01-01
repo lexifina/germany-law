@@ -10,3 +10,5 @@ Anlage 7 Beihilfefähigkeit der Aufwendungen für eine künstliche Befruchtung
 Anlage 8 Antrag auf Gewährung von Beihilfe
 Anlage 9 Kurzantrag auf Gewährung von Beihilfe
 Anlage 10 Aufwendungen für dauernde Pflege (Anlage „Pflege“)
+Anlage 11 Antrag auf Gewährung von Pflegegeld
+Anlage 12 Antrag auf pauschale Beihilfe nach § 80a des Sächsischen Beamtengesetzes
