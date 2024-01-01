@@ -90,6 +90,8 @@ Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 78 Arbeitsschutz
 § 79 Jugendarbeitsschutz
 § 80 Beihilfe in Krankheits-, Pflege-, Geburts- und sonstigen Fällen
+§ 80a Pauschale Beihilfe
+§ 80b Erstattung von Beiträgen zur Kranken- und Pflegeversicherung
 § 81 Ersatz von Sachschäden
 § 81a Erfüllungsübernahme bei Schmerzensgeldansprüchen
 § 82 Jubiläumszuwendungen
