@@ -1,8 +1,8 @@
 # Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz Vollzitat: Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwir
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.8
+- Datum: 2024-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12058.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2023
+01.01.2024
 bis
-31.12.2023
+21.01.2026
 
 Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen für die Mitwirkung im Katastrophenschutz
 
@@ -101,9 +101,7 @@ der Erwerb einer Fahrerlaubnis der Klasse C beziehungsweise CE für ehrenamtlich
 Errichtung und Einrichtung von Gebäuden zur Unterbringung von Katastrophenschutzeinheiten der privaten Hilfsorganisationen einschließlich Erwerb, Um- und Anbau einschließlich der technischen Ertüchtigung (Stützpunkthärtung) von Gebäuden für diesen Zweck.
 
 
-Für den Einsatzzug nach § 1 Absatz 4 der 
-
-Sächsischen Katastrophenschutzverordnung gilt Satz 1 entsprechend.
+Für den Einsatzzug nach § 1 Absatz 4 der Sächsischen Katastrophenschutzverordnung gilt Satz 1 entsprechend.
 
 
 III.
@@ -324,9 +322,7 @@ Höhe der Zuwendung
 4.
 
 
-Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr. 3 im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung, die als Zuschuss bewilligt wird, beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 20 000 Euro; für Kraftfahrzeuge
-
-beträgt sie höchstens 30 000 Euro.
+Für Investitionen von mindestens 1 000 EUR werden Zuwendungen nach Ziffer II Nr. 3 im Wege der Projektförderung als Anteilsfinanzierung gewährt. Die Höhe der Zuwendung, die als Zuschuss bewilligt wird, beträgt 75 Prozent der zuwendungsfähigen Ausgaben, höchstens jedoch 20 000 Euro; für trägereigene Kraftfahrzeuge im Sinne der Sächsischen Katastrophenschutzverordnung für Mannschaftstransportkraftwagen höchstens 50 000 Euro und für Mehrzweckfahrzeuge/Einsatzleitwagen 1 höchstens 100 000 Euro.
 
 
 5.
@@ -573,9 +569,9 @@ Fsn-Nr.: 5536-V11.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2023
+Fassung gültig ab:  1. Januar 2024
 
-Fassung gültig bis: 31. Dezember 2023
+Fassung gültig bis: 21. Januar 2026
 
 Drucken/Speichern
 
@@ -602,7 +598,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12058.8
+https://www.revosax.sachsen.de/vorschrift/12058.9
 Stand vom
 18.11.2026
 
