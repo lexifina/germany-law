@@ -11,7 +11,6 @@
 - [§ 8 Anpassung](0008.md)
 - [§ 9 Übergang gesetzlicher Schadensersatzansprüche](0009.md)
 - [§ 10 Kostenträger](0010.md)
-- [§ 10 Kostenträger](0010-2.md)
 - [§ 11 Zuständigkeit, Verfahren](0011.md)
 - [§ 12 Rechtsweg](0012.md)
 - [§ 13 Übergangsvorschriften](0013.md)
