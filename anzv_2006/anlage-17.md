@@ -1,3 +1,3 @@
-# Anlage 17 (zu § 9a Absatz 2 Satz 2 AnzV)
+# Anlage 17
 
-
+[Bild: bgbl1_2023_j04110_0050.jpg]

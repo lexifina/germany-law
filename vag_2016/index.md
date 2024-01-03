@@ -62,6 +62,7 @@
 ##### Unterabschnitt 1 Abschlussprüfung
 
 - [§ 35 Pflichten des Abschlussprüfers](0035.md)
+- [§ 35a Bestimmung von Prüfungsinhalten](0035a.md)
 - [§ 36 Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag](0036.md)
 - [§ 37 Vorlage bei der Aufsichtsbehörde](0037.md)
 - [§ 38 Rechnungslegung und Prüfung öffentlich-rechtlicher Versicherungsunternehmen](0038.md)

@@ -290,7 +290,7 @@
 - [§ 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet](0063a.md)
 - [§ 64 Nachfolgeunternehmen der Deutschen Bundespost](0064.md)
 - [§ 64a Übergangsvorschrift zum Risikoreduzierungsgesetz](0064a.md)
-- [§ 64b (weggefallen)](0064b.md)
+- [§ 64b Übergangsvorschrift zu § 24 Absatz 1d](0064b.md)
 - [§ 64c (weggefallen)](0064c.md)
 - [§ 64d (weggefallen)](0064d.md)
 - [§ 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen](0064e.md)

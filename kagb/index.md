@@ -155,7 +155,7 @@
 - [§ 100a Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens](0100a.md)
 - [§ 100b Übertragung auf eine andere Kapitalverwaltungsgesellschaft](0100b.md)
 - [§ 101 Jahresbericht](0101.md)
-- [§ 102 Abschlussprüfung](0102.md)
+- [§ 102 Prüfung](0102.md)
 - [§ 103 Halbjahresbericht](0103.md)
 - [§ 104 Zwischenbericht](0104.md)
 - [§ 105 Auflösungs- und Abwicklungsbericht](0105.md)

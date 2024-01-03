@@ -1,3 +1,3 @@
-# Anlage 13 (zu § 9a Absatz 1 Satz 1 AnzV)
+# Anlage 13
 
-
+[Bild: bgbl1_2023_j04110_0010.jpg]

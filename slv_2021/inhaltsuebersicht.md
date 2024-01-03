@@ -5,6 +5,7 @@ Allgemeines
 | § 1 | Persönlicher Geltungsbereich, Dienstgradbezeichnungen |
 | § 2 | Dienstliche Beurteilung |
 | § 3 | Beurteilungsverfahren |
+| § 3a | Referenzgruppen |
 | § 4 | Ordnung der Laufbahnen |
 | § 5 | Einstellung |
 | § 6 | Zusicherung der Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten |

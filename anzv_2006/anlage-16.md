@@ -1,3 +1,3 @@
-# Anlage 16 (zu § 9a Absatz 2 Satz 1 AnzV)
+# Anlage 16
 
-
+[Bild: bgbl1_2023_j04110_0040.jpg]

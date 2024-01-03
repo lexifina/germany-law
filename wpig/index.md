@@ -121,14 +121,14 @@
 
 - [§ 61 Einbezug von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests](0061.md)
 - [§ 62 Qualifikation von Geschäftsleitern und Mitgliedern des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft; Tätigkeitsuntersagung; Verwarnung](0062.md)
-- [§ 63 Gemischte Finanzholdinggesellschaften](0063.md)
+- [§ 63 Gemischte Holdinggesellschaften](0063.md)
 
 ### Abschnitt 5 Anzeigepflichten; Wertpapierinstitute mit Mutterunternehmen im Drittstaat
 
 - [§ 64 Anzeigepflichten für alle Wertpapierinstitute](0064.md)
 - [§ 65 Anzeigepflichten für Große Wertpapierinstitute](0065.md)
 - [§ 66 Anzeigepflichten für Kleine und Mittlere Wertpapierinstitute](0066.md)
-- [§ 67 Anzeigepflichten von Geschäftsleitern und Investmentholdinggesellschaften](0067.md)
+- [§ 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften](0067.md)
 - [§ 68 Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung](0068.md)
 - [§ 69 Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken](0069.md)
 

@@ -7,6 +7,7 @@
 - [§ 1 Persönlicher Geltungsbereich, Dienstgradbezeichnungen](0001.md)
 - [§ 2 Dienstliche Beurteilung](0002.md)
 - [§ 3 Beurteilungsverfahren](0003.md)
+- [§ 3a Referenzgruppen](0003a.md)
 - [§ 4 Ordnung der Laufbahnen](0004.md)
 - [§ 5 Einstellung](0005.md)
 - [§ 6 Zusicherung der Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten](0006.md)

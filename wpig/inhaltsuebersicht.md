@@ -123,7 +123,7 @@ Investmentholdinggesellschaften, gemischte
 Finanzholdinggesellschaften und gemischte Unternehmen
 | § 61 | Einbezug von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests |
 | § 62 | Qualifikation von Geschäftsleitern und Mitgliedern des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft; Tätigkeitsuntersagung; Verwarnung |
-| § 63 | Gemischte Finanzholdinggesellschaften |
+| § 63 | Gemischte Holdinggesellschaften |
 Abschnitt 5
 Anzeigepflichten;
 Wertpapierinstitute mit
@@ -131,7 +131,7 @@ Mutterunternehmen im Drittstaat
 | § 64 | Anzeigepflichten für alle Wertpapierinstitute |
 | § 65 | Anzeigepflichten für Große Wertpapierinstitute |
 | § 66 | Anzeigepflichten für Kleine und Mittlere Wertpapierinstitute |
-| § 67 | Anzeigepflichten von Geschäftsleitern und Investmentholdinggesellschaften |
+| § 67 | Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften |
 | § 68 | Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung |
 | § 69 | Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken |
 Kapitel 6

@@ -203,9 +203,10 @@
 - [§ 85a Geldleistungen der Wohnungshilfe](0085a.md)
 - [§ 86 Erstattung von Sachschäden und besonderen Aufwendungen](0086.md)
 
-## Teil 4 Fürsorgeleistungen an frühere Soldaten auf Zeit bei Arbeitslosigkeit
+## Teil 4 Fürsorgeleistungen in besonderen Fällen
 
 - [§ 86a Arbeitslosenbeihilfe](0086a.md)
+- [§ 86b Überbrückungsgeld](0086b.md)
 
 ## Teil 5 Organisation, Verfahren, Rechtsweg
 

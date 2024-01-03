@@ -1,4 +1,4 @@
-# Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen
+# Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gebührenverzeichnis](0001.md)

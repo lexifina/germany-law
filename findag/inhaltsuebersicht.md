@@ -56,10 +56,11 @@
 | § 16m | Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung |
 | § 16n | Festsetzung und Fälligkeit von Umlagevorauszahlungen |
 | § 16o | Differenz zwischen Umlagebetrag und Vorauszahlung |
-| § 16p | Säumniszuschläge; Beitreibung |
-| § 16q | Festsetzungsverjährung |
-| § 16r | Zahlungsverjährung |
-| § 16s | Erstattung überzahlter Umlagebeträge |
+| § 16p | Stundung; Erlass |
+| § 16q | Säumniszuschläge; Beitreibung |
+| § 16r | Festsetzungsverjährung |
+| § 16s | Zahlungsverjährung |
+| § 16t | Erstattung überzahlter Umlagebeträge |
 | § 17 | Zwangsmittel; Bekanntgabe von Allgemeinverfügungen |
 | Sechster Abschnitt |
 |  | Finanzierung gesonderter Aufgaben |

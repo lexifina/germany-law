@@ -35,6 +35,8 @@
 | § 25 | Wahlrecht; Amtsverhältnisse |
 | § 26 | Verlust des Dienstgrades |
 | § 27 | Laufbahnvorschriften |
+| § 27a | Dienstliche Beurteilung; Verordnungsermächtigung |
+| § 27b | Referenzgruppen; Verordnungsermächtigung |
 | § 28 | Urlaub |
 | § 28a | Urlaub bis zum Beginn des Ruhestandes |
 | § 29 | Personalakte |
@@ -74,6 +76,7 @@
 | § 45a | Umwandlung |
 | § 46 | Entlassung |
 | § 47 | Zuständigkeit, Anhörungspflicht und Fristen bei der Entlassung |
+| § 47a | Besondere Verfahrensvorschriften für die Entlassung nach § 46 Absatz 2a |
 | § 48 | Verlust der Rechtsstellung eines Berufssoldaten |
 | § 49 | Folgen der Entlassung und des Verlustes der Rechtsstellung eines Berufssoldaten |
 | § 50 | Versetzung in den einstweiligen Ruhestand |
