@@ -81,9 +81,9 @@
 - [§ 39f Kostenverteilung](0039f.md)
 - [§ 39g Geltungsdauer und Evaluierung](0039g.md)
 
-## Teil 8 Veröffentlichungs- und Informationspflichten
+## Teil 8 (weggefallen)
 
-- [§ 40 Veröffentlichungspflichten](0040.md)
+- [§ 40 (weggefallen)](0040.md)
 
 ## Teil 9 Wechsel des Gaslieferanten
 

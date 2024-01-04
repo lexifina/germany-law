@@ -31,8 +31,8 @@
 ## Abschnitt 3 Planfeststellung
 
 - [§ 18 Erfordernis einer Planfeststellung](0018.md)
-- [§ 19 Antrag auf Planfeststellungsbeschluss](0019.md)
-- [§ 20 Antragskonferenz, Festlegung des Untersuchungsrahmens](0020.md)
+- [§ 19 (weggefallen)](0019.md)
+- [§ 20 (weggefallen)](0020.md)
 - [§ 21 Einreichung des Plans und der Unterlagen](0021.md)
 - [§ 22 Anhörungsverfahren](0022.md)
 - [§ 23 Umweltverträglichkeitsprüfung](0023.md)

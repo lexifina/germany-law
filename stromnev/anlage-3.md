@@ -1,8 +1,7 @@
 # Anlage 3 (zu § 14 Abs. 3)Kostenträger
 
-Fundstelle des Originaltextes: BGBl. I 2005, 2240
 1. Die Kosten der Höchstspannungsebene umfassen die Kosten der Hauptkostenstellen "Systemdienstleistungen" und "Höchstspannungsnetz 380 und 220 Kilovolt".
-1a. Die gemeinsamen Kosten der Höchstspannungsebene der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung ergeben sich aus der Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 14b Absatz 2.
+1a. Die gemeinsamen Kosten der Höchstspannungsebene der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung ergeben sich aus der Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 24 Absatz 3 und des § 24 Absatz 4 des Energiewirtschaftsgesetzes.
 2. Die Kosten der Umspannung Höchst- zu Hochspannungsebene umfassen die gewälzten anteiligen Kosten der Höchstspannungsebene sowie die Kosten der Hauptkostenstelle "Umspannung 380/110 Kilovolt bzw. 220/110 Kilovolt".
 2a. Die gemeinsamen Kosten der Umspannung Höchst- zu Hochspannungsebene der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung ergeben sich aus der Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 14b Absatz 2.
 3. Die Kosten der Hochspannungsebene umfassen die gewälzten anteiligen Kosten der Umspannung Höchst- zu Hochspannung sowie die Kosten der Hauptkostenstelle "Hochspannungsnetz 110 Kilovolt".

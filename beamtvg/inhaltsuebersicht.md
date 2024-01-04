@@ -131,12 +131,14 @@
 | § 69k | Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften |
 | § 69l | Übergangsregelung zu § 55 |
 | § 69m | Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes |
+| § 69n | Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen |
 |  |  |
 | Abschnitt 11 |
 | Anpassung der Versorgungsbezüge |
 | § 70 | Allgemeine Anpassung |
 | § 71 | Erhöhung der Versorgungsbezüge |
-| §§ 72 bis 76 | (weggefallen) |
+| § 72 | Sonderzahlung zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023 |
+| §§ 73 bis 76 | (weggefallen) |
 |  |  |
 | Abschnitt 12 |
 | (weggefallen) |

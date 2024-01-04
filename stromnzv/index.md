@@ -8,7 +8,7 @@
 - [§ 1 Anwendungsbereich](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Grundlagen des Netzzugangs](0003.md)
-- [§ 3a Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone](0003a.md)
+- [§ 3a (weggefallen)](0003a.md)
 
 ## Teil 2 Zugang zu Übertragungsnetzen
 
@@ -39,7 +39,7 @@ Elektrizitätsversorgungsnetzen
 
 - [§ 14 Lieferantenwechsel](0014.md)
 - [§ 15 Engpassmanagement](0015.md)
-- [§ 16 Allgemeine Zusammenarbeitspflichten](0016.md)
+- [§ 16 (weggefallen)](0016.md)
 - [§ 17 (weggefallen)](0017.md)
 - [§ 18 Messung](0018.md)
 - [§ 18a (weggefallen)](0018a.md)

@@ -72,7 +72,7 @@
 - [§ 30 Fehlende oder unzureichende Daten](0030.md)
 - [§ 31 (weggefallen)](0031.md)
 - [§ 32 Festlegungen oder Genehmigungen der Regulierungsbehörde](0032.md)
-- [§ 33 Evaluierung und Berichte der Bundesnetzagentur](0033.md)
+- [§ 33 (weggefallen)](0033.md)
 
 ## Teil 5 Schlussvorschriften
 

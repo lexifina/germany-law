@@ -34,7 +34,7 @@
 
 ### Kapitel 3 Technische Vorgaben zur Gewährleistung von Datenschutz und Datensicherheit beim Einsatz von Smart-Meter-Gateways
 
-- [§ 19 Allgemeine Anforderungen an Messsysteme](0019.md)
+- [§ 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung](0019.md)
 - [§ 20 Anbindbarkeit von Messeinrichtungen für Gas an das Smart-Meter-Gateway](0020.md)
 - [§ 21 Mindestanforderungen an intelligente Messsysteme](0021.md)
 - [§ 22 Mindestanforderungen an das Smart-Meter-Gateway durch Schutzprofile und Technische Richtlinien](0022.md)

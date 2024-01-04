@@ -60,7 +60,7 @@
 
 ## Teil 4 Pflichten der Netzbetreiber
 
-- [§ 27 Veröffentlichungspflichten](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 - [§ 28 Dokumentation](0028.md)
 - [§ 29 Mitteilungen gegenüber der Regulierungsbehörde](0029.md)
 
@@ -69,7 +69,7 @@
 - [§ 30 Festlegungen der Regulierungsbehörde](0030.md)
 - [§ 31 Ordnungswidrigkeiten](0031.md)
 - [§ 32 Übergangsregelungen](0032.md)
-- [§ 32a Übergangsregelung zur schrittweisen Vereinheitlichung der Übertragungsnetzentgelte](0032a.md)
+- [§ 32a (weggefallen)](0032a.md)
 - [§ 32b Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen](0032b.md)
 - [§ 33 Inkrafttreten](0033.md)
 - [Schlussformel](schlussformel.md)

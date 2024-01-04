@@ -5,7 +5,7 @@ Allgemeine Bestimmungen
 | § 1 | Anwendungsbereich |
 | § 2 | Begriffsbestimmungen |
 | § 3 | Grundlagen des Netzzugangs |
-| § 3a | Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone |
+| § 3a | (weggefallen) |
 Teil 2
 Zugang zu Übertragungsnetzen
 Abschnitt 1
@@ -29,7 +29,7 @@ Teil 4
 Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen
 | § 14 | Lieferantenwechsel |
 | § 15 | Engpassmanagement |
-| § 16 | Allgemeine Zusammenarbeitspflichten |
+| § 16 | (weggefallen) |
 | § 17 | (weggefallen) |
 | § 18 | Messung |
 | § 18a | (weggefallen) |

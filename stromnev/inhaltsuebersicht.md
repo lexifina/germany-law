@@ -50,7 +50,7 @@
 | § 26 | (weggefallen) |
 | Teil 4 |
 |  | Pflichten der Netzbetreiber |
-| § 27 | Veröffentlichungspflichten |
+| § 27 | (weggefallen) |
 | § 28 | Dokumentation |
 | § 29 | Mitteilungen gegenüber der Regulierungsbehörde |
 | Teil 5 |
@@ -58,6 +58,6 @@
 | § 30 | Festlegungen der Regulierungsbehörde |
 | § 31 | Ordnungswidrigkeiten |
 | § 32 | Übergangsregelungen |
-| § 32a | Übergangsregelung zur schrittweisen Vereinheitlichung der Übertragungsnetzentgelte |
+| § 32a | (weggefallen) |
 | § 32b | Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen |
 | § 33 | Inkrafttreten |
