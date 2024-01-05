@@ -18,6 +18,7 @@
 
 - [§ 5 Voraussetzungen](0005.md)
 - [§ 5a Schutz des Kernbereichs privater Lebensgestaltung](0005a.md)
+- [§ 5b Schutz zeugnisverweigerungsberechtigter Personen](0005b.md)
 - [§ 6 Prüf-, Kennzeichnungs- und Löschungspflichten, Zweckbindung](0006.md)
 - [§ 7 Übermittlungen durch den Bundesnachrichtendienst](0007.md)
 - [§ 7a Übermittlungen durch den Bundesnachrichtendienst an ausländische öffentliche Stellen](0007a.md)
