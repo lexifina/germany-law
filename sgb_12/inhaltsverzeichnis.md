@@ -321,10 +321,11 @@
 | § 139 | Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020 |
 | § 140 | Übergangsregelung für die Bedarfe für Unterkunft während der Karenzzeit |
 | § 141 | Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
-| § 142 | Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung |
+| § 142 | Verpflegung in Gemeinschaftsunterkünften |
 | § 143 | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten |
 | § 144 | Einmalzahlung für den Monat Juli 2022 |
 | § 145 | Sofortzuschlag |
 | § 146 | Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung |
+| § 147 | Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts |
 Anlage zu § 28
 Anlage zu § 34

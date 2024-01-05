@@ -9,4 +9,5 @@
 - [§ 7](0007.md)
 - [§ 8](0008.md)
 - [§ 9](0009.md)
-- [Anlage (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen](anlage.md)
+- [Anlage 1 (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen](anlage-1.md)
+- [Anlage 2 (zu § 1 Absatz 3)](anlage-2.md)

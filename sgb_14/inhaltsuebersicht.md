@@ -103,6 +103,7 @@ Abschnitt 4
 Erstattungen von
 Aufwendungen und Verwaltungskosten
 | § 60 | Erstattung an Krankenkassen |
+| § 60a | Datenerhebung |
 | § 61 | Erstattung an Unfallkassen der Länder |
 Kapitel 6
 Leistungen zur Teilhabe
@@ -137,7 +138,7 @@ Abschnitt 4
 Erstattungen von
 Aufwendungen und Verwaltungskosten
 | § 80 | Erstattung an Pflegekassen |
-| § 81 | Erstattung an Unfallkassen der Länder |
+| § 81 | (weggefallen) |
 Kapitel 8
 Leistungen bei hochgradiger
 Sehbehinderung, Blindheit und Taubblindheit
@@ -217,6 +218,7 @@ Weitere Regelungen
 | § 120 | Ansprüche gegen Schadensersatzpflichtige |
 | § 121 | Erstattung von Leistungen durch öffentlich-rechtliche Stellen |
 | § 122 | Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten |
+| § 122a | Zahlung |
 Kapitel 19
 Bundesstelle für Soziale Entschädigung
 | § 123 | Bundesstelle für Soziale Entschädigung |
@@ -250,6 +252,7 @@ Abschnitt 1
 Grundsätze und Leistungen
 | § 142 | Grundsätze |
 | § 143 | Heil- und Krankenbehandlung |
+| § 143a | Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln |
 | § 144 | Geldleistungen |
 | § 145 | Befristete oder auf Zeit erbrachte Leistungen |
 | § 146 | Pflegeleistungen für Geschädigte |

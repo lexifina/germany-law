@@ -38,7 +38,7 @@ vereinfachtes Verfahren
 | § 12 | Vorhaben- und Erschließungsplan |
 | § 13 | Vereinfachtes Verfahren |
 | § 13a | Bebauungspläne der Innenentwicklung |
-| § 13b | Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren |
+| § 13b | (weggefallen) |
 Zweiter Teil
 Sicherung der Bauleitplanung
 Erster Abschnitt
@@ -351,6 +351,7 @@ Vierter Abschnitt
 Planerhaltung
 | § 214 | Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren |
 | § 215 | Frist für die Geltendmachung der Verletzung von Vorschriften |
+| § 215a | Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung |
 | § 216 | Aufgaben im Genehmigungsverfahren |
 Dritter Teil
 Verfahren vor den
@@ -400,7 +401,7 @@ Schlussvorschriften
 | § 246a | Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete |
 | § 246b | Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie |
 | § 246c | Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung |
-| § 246d | Sonderregelung für Biogasanlagen |
+| § 246d | Sonderregelungen für Biogasanlagen |
 | § 247 | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland |
 | § 248 | Sonderregelung zur sparsamen und effizienten Nutzung von Energie |
 | § 249 | Sonderregelungen für Windenergieanlagen an Land |

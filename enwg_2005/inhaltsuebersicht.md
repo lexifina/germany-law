@@ -58,7 +58,7 @@
 | § 12a | Szenariorahmen für die Netzentwicklungsplanung |
 | § 12b | Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen |
 | § 12c | Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde |
-| § 12d | Umsetzungsbericht der Übertragungsnetzbetreiber und Monitoring durch die Regulierungsbehörde |
+| § 12d | Monitoring und Controlling der Umsetzung des Netzentwicklungsplans |
 | § 12e | Bundesbedarfsplan |
 | § 12f | Herausgabe von Daten |
 | § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
@@ -74,12 +74,12 @@
 | § 13h | Verordnungsermächtigung zur Kapazitätsreserve |
 | § 13i | Weitere Verordnungsermächtigungen |
 | § 13j | Festlegungskompetenzen |
-| § 13k | (weggefallen) |
+| § 13k | Nutzen statt Abregeln |
 | § 14 | Aufgaben der Betreiber von Elektrizitätsverteilernetzen |
 | § 14a | Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen |
 | § 14b | Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung |
 | § 14c | Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz |
-| § 14d | Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz |
+| § 14d | Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung |
 | § 14e | Gemeinsame Internetplattform; Festlegungskompetenz |
 | § 15 | Aufgaben der Betreiber von Fernleitungsnetzen |
 | § 15a | Netzentwicklungsplan der Fernleitungsnetzbetreiber |
@@ -89,16 +89,16 @@
 |  |
 | Abschnitt 2 |
 | Netzanschluss |
-| § 17 | Netzanschluss, Verordnungsermächtigung |
-| § 17a | Bundesfachplan Offshore des Bundesamtes für Seeschifffahrt und Hydrographie |
-| § 17b | Offshore-Netzentwicklungsplan |
-| § 17c | Prüfung und Bestätigung des Offshore-Netzentwicklungsplans durch die Regulierungsbehörde sowie Offshore-Umsetzungsbericht der Übertragungsnetzbetreiber |
+| § 17 | Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz |
+| § 17a | (weggefallen) |
+| § 17b | (weggefallen) |
+| § 17c | (weggefallen) |
 | § 17d | Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans |
 | § 17e | Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen |
 | § 17f | Belastungsausgleich |
 | § 17g | Haftung für Sachschäden an Windenergieanlagen auf See |
 | § 17h | Abschluss von Versicherungen |
-| § 17i | Evaluierung |
+| § 17i | Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen |
 | § 17j | Verordnungsermächtigung |
 | § 18 | Allgemeine Anschlusspflicht |
 | § 19 | Technische Vorschriften |
@@ -106,10 +106,10 @@
 |  |
 | Abschnitt 3 |
 | Netzzugang, Messstellenbetrieb |
-| § 20 | Zugang zu den Energieversorgungsnetzen |
+| § 20 | Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz |
 | § 20a | Lieferantenwechsel |
-| § 21 | Bedingungen und Entgelte für den Netzzugang |
-| § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung |
+| § 21 | Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz |
+| § 21a | Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz |
 | § 21b | Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz |
 | § 21c | (weggefallen) |
 | § 21d | (weggefallen) |
@@ -124,9 +124,10 @@
 | § 23b | Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz |
 | § 23c | Veröffentlichungspflichten der Netzbetreiber |
 | § 23d | Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu den Energieversorgungsnetzen |
-| § 24 | Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung |
-| § 24a | Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse; Festlegungskompetenz |
+| § 24 | Bundeseinheitliche Übertragungsnetzentgelte |
+| § 24a | Bundeszuschüsse; Festlegungskompetenz |
 | § 24b | Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten |
+| § 24c | Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten |
 | § 25 | Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen |
 | § 26 | Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas |
 | § 27 | Zugang zu den vorgelagerten Rohrleitungsnetzen |
@@ -142,7 +143,7 @@
 | § 28f | Feststellung der Netzkosten durch die Bundesnetzagentur |
 | § 28g | Zahlungsanspruch zur Deckung der Netzkosten |
 | § 28h | Anspruch auf Herausgabe von Engpasserlösen |
-| § 28i | Verordnungsermächtigung |
+| § 28i | (weggefallen) |
 |  |  |
 | Abschnitt 3b |
 | Regulierung von Wasserstoffnetzen |
@@ -154,6 +155,10 @@
 | § 28o | Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung |
 | § 28p | Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen |
 | § 28q | Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff |
+|  |  |
+| Abschnitt 3c |
+| Regelungen zum Wasserstoff-Kernnetz |
+| § 28r | Wasserstoff-Kernnetz |
 |  |  |
 | Abschnitt 4 |
 | Befugnisse der Regulierungsbehörde, Sanktionen |
@@ -222,12 +227,14 @@
 | § 46a | Auskunftsanspruch der Gemeinde |
 | § 47 | Rügeobliegenheit, Präklusion |
 | § 48 | Konzessionsabgaben |
+| § 48a | Duldungspflicht bei Transporten |
 |  |
 | Teil 6 |
 | Sicherheit und Zuverlässigkeit der Energieversorgung |
-| § 49 | Anforderungen an Energieanlagen, Verordnungsermächtigung |
+| § 49 | Anforderungen an Energieanlagen, Verordnungsermächtigung; Festlegungskompetenz |
 | § 49a | Elektromagnetische Beeinflussung |
 | § 49b | Temporäre Höherauslastung |
+| § 49c | Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen |
 | § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
 | § 50a | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung |
 | § 50b | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve |
@@ -244,7 +251,7 @@
 | § 52 | Meldepflichten bei Versorgungsstörungen |
 | § 53 | Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich |
 | § 53a | Sicherstellung der Versorgung von Haushaltskunden mit Erdgas |
-| § 53b | (weggefallen) |
+| § 53b | Transport von Großtransformatoren auf Schienenwegen, Verordnungsermächtigung |
 |  |
 | Teil 7 |
 | Behörden |
@@ -282,7 +289,7 @@
 | § 65 | Aufsichtsmaßnahmen |
 | § 66 | Einleitung des Verfahrens, Beteiligte |
 | § 66a | Vorabentscheidung über Zuständigkeit |
-| § 67 | Anhörung, mündliche Verhandlung |
+| § 67 | Anhörung, Akteneinsicht, mündliche Verhandlung |
 | § 68 | Ermittlungen |
 | § 68a | Zusammenarbeit mit der Staatsanwaltschaft |
 | § 69 | Auskunftsverlangen, Betretungsrecht |
@@ -299,6 +306,7 @@
 | § 76 | Aufschiebende Wirkung |
 | § 77 | Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung |
 | § 78 | Frist und Form |
+| § 78a | Musterverfahren |
 | § 79 | Beteiligte am Beschwerdeverfahren |
 | § 80 | Anwaltszwang |
 | § 81 | Mündliche Verhandlung |
@@ -307,6 +315,7 @@
 | § 83a | Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör |
 | § 84 | Akteneinsicht |
 | § 85 | Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung |
+| § 85a | Entsprechende Anwendung auf fachlich qualifizierte Stellen |
 |  |
 | Abschnitt 3 |
 | Rechtsbeschwerde |
@@ -363,11 +372,12 @@
 | § 111d | Einrichtung einer nationalen Informationsplattform |
 | § 111e | Marktstammdatenregister |
 | § 111f | Verordnungsermächtigung zum Marktstammdatenregister |
+| § 111g | Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform |
 |  |
 | Teil 10 |
 | Evaluierung, Schlussvorschriften |
-| § 112 | Evaluierungsbericht |
-| § 112a | Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung |
+| § 112 | (weggefallen) |
+| § 112a | (weggefallen) |
 | § 112b | Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
 | § 113 | Laufende Wegenutzungsverträge |
 | § 113a | Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen |
@@ -379,6 +389,7 @@
 | § 117 | Konzessionsabgaben für die Wasserversorgung |
 | § 117a | Regelung bei Stromeinspeisung in geringem Umfang |
 | § 117b | Verwaltungsvorschriften |
+| § 117c | Umgang mit geheimhaltungsbedürftigen Informationen |
 | § 118 | Übergangsregelungen |
 | § 118a | Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation |
 | § 118b | Befristete Sonderregelungen für Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung |

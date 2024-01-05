@@ -38,3 +38,4 @@ Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, § 2 Absat
 | 2.11 | Radonmaßnahmenplan nach § 122 Absatz 1 des Strahlenschutzgesetzes |
 | 2.12 | Aktionspläne nach § 40d des Bundesnaturschutzgesetzes |
 | 2.13 | Klimaschutzprogramme nach § 9 des Bundes-Klimaschutzgesetzes |
+| 2.14 | Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 26 des Wärmeplanungsgesetzes |

@@ -118,6 +118,7 @@
 ### Abschnitt 4 Erstattungen von Aufwendungen und Verwaltungskosten
 
 - [§ 60 Erstattung an Krankenkassen](0060.md)
+- [§ 60a Datenerhebung](0060a.md)
 - [§ 61 Erstattung an Unfallkassen der Länder](0061.md)
 
 ## Kapitel 6 Leistungen zur Teilhabe
@@ -156,7 +157,7 @@
 ### Abschnitt 4 Erstattungen von Aufwendungen und Verwaltungskosten
 
 - [§ 80 Erstattung an Pflegekassen](0080.md)
-- [§ 81 Erstattung an Unfallkassen der Länder](0081.md)
+- [§ 81 (weggefallen)](0081.md)
 
 ## Kapitel 8 Leistungen bei hochgradiger Sehbehinderung, Blindheit und Taubblindheit
 
@@ -246,6 +247,7 @@
 - [§ 120 Ansprüche gegen Schadensersatzpflichtige](0120.md)
 - [§ 121 Erstattung von Leistungen durch öffentlich-rechtliche Stellen](0121.md)
 - [§ 122 Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten](0122.md)
+- [§ 122a Zahlung](0122a.md)
 
 ## Kapitel 19 Bundesstelle für Soziale Entschädigung
 
@@ -285,6 +287,7 @@
 
 - [§ 142 Grundsätze](0142.md)
 - [§ 143 Heil- und Krankenbehandlung](0143.md)
+- [§ 143a Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln](0143a.md)
 - [§ 144 Geldleistungen](0144.md)
 - [§ 145 Befristete oder auf Zeit erbrachte Leistungen](0145.md)
 - [§ 146 Pflegeleistungen für Geschädigte](0146.md)

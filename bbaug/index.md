@@ -41,7 +41,6 @@
 - [§ 12 Vorhaben- und Erschließungsplan](0012.md)
 - [§ 13 Vereinfachtes Verfahren](0013.md)
 - [§ 13a Bebauungspläne der Innenentwicklung](0013a.md)
-- [§ 13b Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren](0013b.md)
 
 ### Zweiter Teil Sicherung der Bauleitplanung
 
@@ -390,6 +389,7 @@
 
 - [§ 214 Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren](0214.md)
 - [§ 215 Frist für die Geltendmachung der Verletzung von Vorschriften](0215.md)
+- [§ 215a Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung](0215a.md)
 - [§ 216 Aufgaben im Genehmigungsverfahren](0216.md)
 
 ### Dritter Teil Verfahren vor den Kammern (Senaten) für Baulandsachen
@@ -442,7 +442,7 @@
 - [§ 246a Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete](0246a.md)
 - [§ 246b Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie](0246b.md)
 - [§ 246c Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung](0246c.md)
-- [§ 246d Sonderregelung für Biogasanlagen](0246d.md)
+- [§ 246d Sonderregelungen für Biogasanlagen](0246d.md)
 - [§ 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland](0247.md)
 - [§ 248 Sonderregelung zur sparsamen und effizienten Nutzung von Energie](0248.md)
 - [§ 249 Sonderregelungen für Windenergieanlagen an Land](0249.md)

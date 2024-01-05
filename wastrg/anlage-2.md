@@ -8,3 +8,6 @@
 | 5 | Unter- und Außenelbe |
 | 6 | Unter- und Außenweser |
 | 7 | Elbe-Seitenkanal |
+| 8 | Rhein |
+| 9 | Nord-Ostsee-Kanal |
+| 10 | Wesel-Datteln-Kanal |

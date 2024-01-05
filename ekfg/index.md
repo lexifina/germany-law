@@ -10,4 +10,5 @@
 - [§ 7 Rechnungslegung](0007.md)
 - [§ 8 Berichtspflichten](0008.md)
 - [§ 9 Verwaltungskosten](0009.md)
-- [§ 10 Inkrafttreten](0010.md)
+- [§ 10 Bekanntmachungserlaubnis](0010.md)
+- [§ 11 Inkrafttreten](0011.md)

@@ -60,7 +60,7 @@
 - [§ 12a Szenariorahmen für die Netzentwicklungsplanung](0012a.md)
 - [§ 12b Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen](0012b.md)
 - [§ 12c Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde](0012c.md)
-- [§ 12d Umsetzungsbericht der Übertragungsnetzbetreiber und Monitoring durch die Regulierungsbehörde](0012d.md)
+- [§ 12d Monitoring und Controlling der Umsetzung des Netzentwicklungsplans](0012d.md)
 - [§ 12e Bundesbedarfsplan](0012e.md)
 - [§ 12f Herausgabe von Daten](0012f.md)
 - [§ 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung](0012g.md)
@@ -76,12 +76,12 @@
 - [§ 13h Verordnungsermächtigung zur Kapazitätsreserve](0013h.md)
 - [§ 13i Weitere Verordnungsermächtigungen](0013i.md)
 - [§ 13j Festlegungskompetenzen](0013j.md)
-- [§ 13k (weggefallen)](0013k.md)
+- [§ 13k Nutzen statt Abregeln](0013k.md)
 - [§ 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen](0014.md)
 - [§ 14a Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen](0014a.md)
 - [§ 14b Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung](0014b.md)
 - [§ 14c Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz](0014c.md)
-- [§ 14d Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz](0014d.md)
+- [§ 14d Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung](0014d.md)
 - [§ 14e Gemeinsame Internetplattform; Festlegungskompetenz](0014e.md)
 - [§ 15 Aufgaben der Betreiber von Fernleitungsnetzen](0015.md)
 - [§ 15a Netzentwicklungsplan der Fernleitungsnetzbetreiber](0015a.md)
@@ -91,16 +91,16 @@
 
 ### Abschnitt 2 Netzanschluss
 
-- [§ 17 Netzanschluss, Verordnungsermächtigung](0017.md)
-- [§ 17a Bundesfachplan Offshore des Bundesamtes für Seeschifffahrt und Hydrographie](0017a.md)
-- [§ 17b Offshore-Netzentwicklungsplan](0017b.md)
-- [§ 17c Prüfung und Bestätigung des Offshore-Netzentwicklungsplans durch die Regulierungsbehörde sowie Offshore-Umsetzungsbericht der Übertragungsnetzbetreiber](0017c.md)
+- [§ 17 Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz](0017.md)
+- [§ 17a (weggefallen)](0017a.md)
+- [§ 17b (weggefallen)](0017b.md)
+- [§ 17c (weggefallen)](0017c.md)
 - [§ 17d Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans](0017d.md)
 - [§ 17e Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen](0017e.md)
 - [§ 17f Belastungsausgleich](0017f.md)
 - [§ 17g Haftung für Sachschäden an Windenergieanlagen auf See](0017g.md)
 - [§ 17h Abschluss von Versicherungen](0017h.md)
-- [§ 17i Evaluierung](0017i.md)
+- [§ 17i Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen](0017i.md)
 - [§ 17j Verordnungsermächtigung](0017j.md)
 - [§ 18 Allgemeine Anschlusspflicht](0018.md)
 - [§ 19 Technische Vorschriften](0019.md)
@@ -108,10 +108,10 @@
 
 ### Abschnitt 3 Netzzugang
 
-- [§ 20 Zugang zu den Energieversorgungsnetzen](0020.md)
+- [§ 20 Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz](0020.md)
 - [§ 20a Lieferantenwechsel](0020a.md)
-- [§ 21 Bedingungen und Entgelte für den Netzzugang](0021.md)
-- [§ 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung](0021a.md)
+- [§ 21 Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz](0021.md)
+- [§ 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz](0021a.md)
 - [§ 21b Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz](0021b.md)
 - [§ 21c (weggefallen)](0021c.md)
 - [§ 21d (weggefallen)](0021d.md)
@@ -126,9 +126,10 @@
 - [§ 23b Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz](0023b.md)
 - [§ 23c Veröffentlichungspflichten der Netzbetreiber](0023c.md)
 - [§ 23d Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu Energieversorgungsnetzen](0023d.md)
-- [§ 24 Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung](0024.md)
-- [§ 24a Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse; Festlegungskompetenz](0024a.md)
+- [§ 24 Bundeseinheitliche Übertragungsnetzentgelte](0024.md)
+- [§ 24a Bundeszuschüsse; Festlegungskompetenz](0024a.md)
 - [§ 24b Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten](0024b.md)
+- [§ 24c Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten](0024c.md)
 - [§ 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen](0025.md)
 - [§ 26 Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
 - [§ 27 Zugang zu den vorgelagerten Rohrleitungsnetzen](0027.md)
@@ -144,7 +145,7 @@
 - [§ 28f Feststellung der Netzkosten durch die Bundesnetzagentur](0028f.md)
 - [§ 28g Zahlungsanspruch zur Deckung der Netzkosten](0028g.md)
 - [§ 28h Anspruch auf Herausgabe von Engpasserlösen](0028h.md)
-- [§ 28i Verordnungsermächtigung](0028i.md)
+- [§ 28i (weggefallen)](0028i.md)
 
 ### Abschnitt 3b Regulierung von Wasserstoffnetzen
 
@@ -156,6 +157,10 @@
 - [§ 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung](0028o.md)
 - [§ 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen](0028p.md)
 - [§ 28q Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff](0028q.md)
+
+### Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz
+
+- [§ 28r Wasserstoff-Kernnetz](0028r.md)
 
 ### Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen
 
@@ -224,12 +229,14 @@
 - [§ 46a Auskunftsanspruch der Gemeinde](0046a.md)
 - [§ 47 Rügeobliegenheit, Präklusion](0047.md)
 - [§ 48 Konzessionsabgaben](0048.md)
+- [§ 48a Duldungspflicht bei Transporten](0048a.md)
 
 ## Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung
 
-- [§ 49 Anforderungen an Energieanlagen; Verordnungsermächtigung](0049.md)
+- [§ 49 Anforderungen an Energieanlagen; Verordnungsermächtigung; Festlegungskompetenz](0049.md)
 - [§ 49a Elektromagnetische Beeinflussung](0049a.md)
 - [§ 49b Temporäre Höherauslastung](0049b.md)
+- [§ 49c Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen](0049c.md)
 - [§ 50 Vorratshaltung zur Sicherung der Energieversorgung](0050.md)
 - [§ 50a Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung](0050a.md)
 - [§ 50b Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve](0050b.md)
@@ -246,7 +253,7 @@
 - [§ 52 Meldepflichten bei Versorgungsstörungen](0052.md)
 - [§ 53 Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich](0053.md)
 - [§ 53a Sicherstellung der Versorgung von Haushaltskunden mit Erdgas](0053a.md)
-- [§ 53b (weggefallen)](0053b.md)
+- [§ 53b Transport von Großtransformatoren auf Schienenwegen; Verordnungsermächtigung](0053b.md)
 
 ## Teil 7 Behörden
 
@@ -284,7 +291,7 @@
 - [§ 65 Aufsichtsmaßnahmen](0065.md)
 - [§ 66 Einleitung des Verfahrens, Beteiligte](0066.md)
 - [§ 66a Vorabentscheidung über Zuständigkeit](0066a.md)
-- [§ 67 Anhörung, mündliche Verhandlung](0067.md)
+- [§ 67 Anhörung, Akteneinsicht, mündliche Verhandlung](0067.md)
 - [§ 68 Ermittlungen](0068.md)
 - [§ 68a Zusammenarbeit mit der Staatsanwaltschaft](0068a.md)
 - [§ 69 Auskunftsverlangen, Betretungsrecht](0069.md)
@@ -301,6 +308,7 @@
 - [§ 76 Aufschiebende Wirkung](0076.md)
 - [§ 77 Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung](0077.md)
 - [§ 78 Frist und Form](0078.md)
+- [§ 78a Musterverfahren](0078a.md)
 - [§ 79 Beteiligte am Beschwerdeverfahren](0079.md)
 - [§ 80 Anwaltszwang](0080.md)
 - [§ 81 Mündliche Verhandlung](0081.md)
@@ -309,6 +317,7 @@
 - [§ 83a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0083a.md)
 - [§ 84 Akteneinsicht](0084.md)
 - [§ 85 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung](0085.md)
+- [§ 85a Entsprechende Anwendung auf fachlich qualifizierte Stellen](0085a.md)
 
 ### Abschnitt 3 Rechtsbeschwerde
 
@@ -365,11 +374,12 @@
 - [§ 111d Einrichtung einer nationalen Informationsplattform](0111d.md)
 - [§ 111e Marktstammdatenregister](0111e.md)
 - [§ 111f Verordnungsermächtigung zum Marktstammdatenregister](0111f.md)
+- [§ 111g Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform](0111g.md)
 
 ## Teil 10 Evaluierung, Schlussvorschriften
 
-- [§ 112 Evaluierungsbericht](0112.md)
-- [§ 112a Bericht der Bundesnetzagentur zur Einführung einer Anreizregulierung](0112a.md)
+- [§ 112 (weggefallen)](0112.md)
+- [§ 112a (weggefallen)](0112a.md)
 - [§ 112b Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung](0112b.md)
 - [§ 113 Laufende Wegenutzungsverträge](0113.md)
 - [§ 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen](0113a.md)
@@ -381,6 +391,7 @@
 - [§ 117 Konzessionsabgaben für die Wasserversorgung](0117.md)
 - [§ 117a Regelung bei Stromeinspeisung in geringem Umfang](0117a.md)
 - [§ 117b Verwaltungsvorschriften](0117b.md)
+- [§ 117c Umgang mit geheimhaltungsbedürftigen Informationen](0117c.md)
 - [§ 118 Übergangsregelungen](0118.md)
 - [§ 118a Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation](0118a.md)
 - [§ 118b Befristete Sonderregelungen für Energielieferverträge mit Haushalts kunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung](0118b.md)
