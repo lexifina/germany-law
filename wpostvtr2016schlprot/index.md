@@ -1,1 +1,0 @@
-# Schlussprotokoll zum Weltpostvertrag
