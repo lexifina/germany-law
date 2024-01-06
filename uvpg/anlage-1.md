@@ -429,7 +429,8 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 19.1.1 | einer Länge von mehr als 15 km und mit einer Nennspannung von 220 kV oder mehr, | X |  |
 | 19.1.2 | einer Länge von mehr als 15 km und mit einer Nennspannung von 110 kV bis zu 220 kV, |  | A |
 | 19.1.3 | einer Länge von 5 km bis 15 km und mit einer Nennspannung von 110 kV oder mehr, |  | A |
-| 19.1.4 | einer Länge von weniger als 5 km und einer Nennspannung von 110 kV oder mehr; |  | S |
+| 19.1.4 | einer Länge von über 200 Metern und weniger als 5 km und einer Nennspannung von 110 kV oder mehr; |  | S |
+| 19.1.5 | einer Länge von bis zu 200 Metern und einer Nennspannung von 110 kV oder mehr, wenn die Hochspannungsfreileitung in einem Natura 2000-Gebiet nach § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes liegt |  | S |
 | 19.2 | Errichtung und Betrieb einer Gasversorgungsleitung im Sinne des Energiewirtschaftsgesetzes, ausgenommen Anlagen, die den Bereich eines Werksgeländes nicht überschreiten, mit |  |  |
 | 19.2.1 | einer Länge von mehr als 40 km und einem Durchmesser von mehr als 800 mm, | X |  |
 | 19.2.2 | einer Länge von mehr als 40 km und einem Durchmesser von 300 mm bis zu 800 mm, |  | A |

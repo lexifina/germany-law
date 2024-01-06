@@ -6,7 +6,7 @@
 |  | Unbeschränkte Steuerpflicht | § 1 |
 |  | Option zur Körperschaftsbesteuerung | § 1a |
 |  | Beschränkte Steuerpflicht | § 2 |
-|  | Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden | § 3 |
+|  | Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden | § 3 |
 |  | Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts | § 4 |
 |  | Befreiungen | § 5 |
 |  | Einschränkung der Befreiung von Pensions-, Sterbe-, Kranken- und Unterstützungskassen | § 6 |

@@ -6,6 +6,7 @@
 
 - [§ 1 Steuerpflichtige Vorgänge](0001.md)
 - [§ 2 Persönliche Steuerpflicht](0002.md)
+- [§ 2a Rechtsfähige Personengesellschaft](0002a.md)
 - [§ 3 Erwerb von Todes wegen](0003.md)
 - [§ 4 Fortgesetzte Gütergemeinschaft](0004.md)
 - [§ 5 Zugewinngemeinschaft](0005.md)

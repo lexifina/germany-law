@@ -17,4 +17,5 @@
 - [§ 13 Anwendung des Bundesdatenschutzgesetzes](0013.md)
 - [§ 13a Unabhängige Datenschutzkontrolle](0013a.md)
 - [§ 14 Besondere Auslandsverwendungen](0014.md)
-- [§ 15 Einschränkung von Grundrechten](0015.md)
+- [§ 15 Besondere Eigensicherungsbefugnisse](0015.md)
+- [§ 16 Einschränkung von Grundrechten](0016.md)

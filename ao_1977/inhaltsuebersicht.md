@@ -22,6 +22,8 @@
 | § 12 | Betriebstätte |
 | § 13 | Ständiger Vertreter |
 | § 14 | Wirtschaftlicher Geschäftsbetrieb |
+| § 14a | Personenvereinigungen |
+| § 14b | Körperschaften mit Sitz im Ausland |
 | § 15 | Angehörige |
 |  |  |
 | Dritter Abschnitt |
@@ -355,7 +357,8 @@
 | § 180 | Gesonderte Feststellung von Besteuerungsgrundlagen |
 | § 181 | Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht |
 | § 182 | Wirkungen der gesonderten Feststellung |
-| § 183 | Empfangsbevollmächtigte bei der einheitlichen Feststellung |
+| § 183 | Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen |
+| § 183a | Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen |
 |  |  |
 | II. Festsetzung von Steuermessbeträgen |
 | § 184 | Festsetzung von Steuermessbeträgen |
@@ -499,7 +502,7 @@
 | § 264 | Vollstreckung gegen Nießbraucher |
 | § 265 | Vollstreckung gegen Erben |
 | § 266 | Sonstige Fälle beschränkter Haftung |
-| § 267 | Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen |
+| § 267 | Vollstreckungsverfahren gegen Personenvereinigungen |
 |  |  |
 | 2. Unterabschnitt |
 | Aufteilung einer Gesamtschuld |

@@ -47,6 +47,19 @@ Wehrwissenschaftliches Institut für Werk- und Betriebsstoffe.
 Die Ämter der Leiter von unteren Verwaltungsbehörden mit einem beim jeweiligen Dienstherrn örtlich begrenzten Zuständigkeitsbereich sowie die Ämter der Leiter von allgemeinbildenden oder beruflichen Schulen dürfen nur in Besoldungsgruppen der Bundesbesoldungsordnung A eingestuft werden. Die Ämter der Leiter besonders bedeutender und zugleich besonders großer unterer Verwaltungsbehörden der Zollverwaltung dürfen auch in Besoldungsgruppen der Bundesbesoldungsordnung B eingestuft werden.
 3. Zuordnung von Funktionen zu den Ämtern
 Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die diesen Ämtern zugeordnet werden können, nicht abschließend.
+3a. Ruhegehaltfähigkeit von Stellenzulagen
+(1)
+Zulagen nach den Nummern 4, 4a, 8, 9, 9a, 10 und 11 dieses Abschnitts gehören zu den ruhegehaltfähigen Dienstbezügen, wenn der Beamte oder Soldat
+1. mindestens zehn Jahre zulageberechtigend verwendet worden ist oder
+2. mindestens zwei Jahre zulageberechtigend verwendet worden ist und das Dienstverhältnis wegen Todes oder Dienstunfähigkeit infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, beendet worden ist.
+(2)
+Eine Stellenzulage nach Nummer 9 ist darüber hinaus ruhegehaltfähig, wenn der Beamte oder Soldat mindestens zwei Jahre zulageberechtigend verwendet worden ist und infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, nach amtsärztlicher Feststellung eine Polizeidiensttauglichkeit oder Feldjägerdiensttauglichkeit nicht mehr gegeben und aus diesem Grund ein Laufbahn- oder Verwendungswechsel erfolgt ist.
+(3)
+Eine Stellenzulage nach Nummer 10 ist darüber hinaus ruhegehaltfähig, wenn der Beamte oder Soldat mindestens zwei Jahre zulageberechtigend verwendet worden ist und infolge einer Krankheit, Verwundung oder sonstigen Beschädigung, die der Beamte oder Soldat ohne grobes Verschulden bei der Ausübung oder aus Veranlassung des Dienstes erlitten hat, nach amtsärztlicher Feststellung eine Feuerwehrdiensttauglichkeit nicht mehr gegeben und aus diesem Grund ein Verwendungswechsel erfolgt ist.
+(4)
+Der für die ruhegehaltfähige Zulage maßgebende Betrag ergibt sich aus der zum Zeitpunkt des letztmaligen Bezuges der Stellenzulage geltenden Anlage IX. Die Konkurrenzvorschriften bei den einzelnen Stellenzulagen gelten entsprechend auch bei den ruhegehaltfähigen Dienstbezügen.
+(5)
+Zeiten nach den Absätzen 1 bis 3 vor dem 1. Januar 2024 sind zu berücksichtigen. Als zulageberechtigende Zeiten werden auch solche Zeiträume berücksichtigt, während denen auf Grund von Konkurrenzvorschriften die Zulage nicht gewährt wurde.
 II. Stellenzulagen
 4. Zulage für militärische Führungsfunktionen
 (1)
@@ -102,7 +115,7 @@ Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten in Besoldungsgrup
 2. als Luftfahrzeugführer mit der Erlaubnis zum Führen sonstiger strahlgetriebener Flugzeuge oder sonstiger Luftfahrzeuge oder als Luftfahrzeugoperationsoffizier,
 3. als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
 4. als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
-Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2023.
+Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für verantwortliche Luftfahrzeugführer, die mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2027.
 (2)
 Die zuletzt nach Absatz 1 Satz 1 gewährte Stellenzulage wird nach Beendigung der Verwendung, auch über die Besoldungsgruppe A 16 hinaus, für fünf Jahre weitergewährt, wenn der Beamte oder Soldat
 1. mindestens fünf Jahre in einer Tätigkeit nach Absatz 1 verwendet worden ist oder
@@ -162,7 +175,7 @@ Beamte erhalten eine Stellenzulage nach Anlage IX, wenn sie verwendet werden
 Die Stellenzulage wird neben einer Stellenzulage nach Nummer 9 nur gewährt, soweit sie diese übersteigt.
 8c. Zulage für Beamte und Soldaten bei dem Bundesamt für Migration und Flüchtlinge
 (1)
-Beamte und Soldaten erhalten, wenn sie bei dem Bundesamt für Migration und Flüchtlinge verwendet werden, bis zum 31. Dezember 2023 eine Stellenzulage nach Anlage IX.
+Beamte und Soldaten erhalten, wenn sie bei dem Bundesamt für Migration und Flüchtlinge verwendet werden, bis zum 31. Dezember 2027 eine Stellenzulage nach Anlage IX.
 (2)
 Durch die Stellenzulage werden die mit dem Dienst allgemein verbundenen Erschwernisse und Aufwendungen mit abgegolten.
 9. Zulage für Beamte und Soldaten mit vollzugspolizeilichen Aufgaben
@@ -209,7 +222,7 @@ Die Zulage erhält auch hauptamtliches feuerwehrdiensttaugliches Personal zentra
 Durch die Stellenzulage nach Absatz 1 werden die Besonderheiten des Einsatzdienstes der Feuerwehr, insbesondere der mit dem Nachtdienst verbundene Aufwand sowie der Aufwand für Verzehr mit abgegolten.
 11. Zulage für Beamte der Bundeswehr als Gebietsärzte sowie für Soldaten als Rettungsmediziner oder als Gebietsärzte
 (1)
-Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2023
+Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2027
 1. Beamte der Bundeswehr der Besoldungsgruppen A 13 bis A 16 mit der Approbation als Arzt, die die Weiterbildung zum Gebietsarzt erfolgreich abgeschlossen haben und in diesem Fachgebiet in einer kurativen Sanitätseinrichtung der Bundeswehr verwendet werden,
 2. Soldaten der Besoldungsgruppen A 13 bis A 16 als Sanitätsoffiziere mit der Approbation als Arzt, die
   a) über die Zusatzqualifikation Rettungsmedizin verfügen und dienstlich zur Erhaltung dieser Qualifikation verpflichtet sind oder

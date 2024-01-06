@@ -55,5 +55,6 @@ Erteilung der Unbedenklichkeitsbescheinigung
 ## Neunter Abschnitt Übergangs- und Schlußvorschriften
 
 - [§ 23 Anwendungsbereich](0023.md)
-- [(XXXX) §§ 24 bis 27 (weggefallen)](xxxx-24-bis-27.md)
+- [§ 24 Rechtsfähige Personengesellschaften](0024.md)
+- [(XXXX) §§ 25 bis 27 (weggefallen)](xxxx-25-bis-27.md)
 - [§ 28](0028.md)

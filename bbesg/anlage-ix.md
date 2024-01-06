@@ -1,7 +1,7 @@
-# Anlage IX (zu den Anlagen I und III)Gültig ab 1. April 2022
+# Anlage IX (zu den Anlagen I und III)Gültig ab 1. März 2024
 
 Zulagen
-– in der Reihenfolge der Gesetzesstellen –
+– in der Reihenfolge der Fundstellen im Gesetz –
 |  | Dem Grunde nach geregelt in | Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage I oder Anlage III geregelt | Monatsbetrag in Euro |
 | 1 | 2 | 3 |
 | 1 | Anlage I (Bundesbesoldungsordnungen A und B) |
@@ -154,26 +154,26 @@ Zulagen
 | 122 | – A 10 bis A 13 | 60,00 |
 | 123 | – A 14 und höher | 80,00 |
 | 124 | Amtszulagen |
-| 125 | Besoldungs- gruppe | Fußnote |  |  |
-| 126 | A 3 | 1 |  | 44,68 |
-| 127 |  | 2 |  | 82,42 |
-| 128 |  | 3 |  | 41,61 |
-| 129 | A 4 | 1 |  | 44,68 |
-| 130 |  | 2 |  | 82,42 |
-| 131 |  | 4 |  | 8,98 |
-| 132 | A 5 | 1 |  | 44,68 |
-| 133 |  | 3 |  | 82,42 |
-| 134 | A 6 | 2, 5 |  | 44,68 |
-| 135 | A 7 | 5 |  | 55,49 |
-| 136 | A 8 | 1 |  | 71,48 |
-| 137 | A 9 | 1 |  | 332,63 |
-| 138 | A 13 | 1 |  | 338,04 |
-| 139 |  | 7 |  | 154,51 |
-| 140 | A 14 | 5 |  | 231,76 |
-| 141 | A 15 | 3 |  | 308,99 |
-| 142 |  | 8 |  | 231,76 |
-| 143 | A 16 | 6 |  | 259,18 |
-| 144 | B 10 | 1 |  | 535,57 |
+| 125 | Besoldungs- gruppe | Fußnote(n) |  |  |
+| 126 | A 3 | 1 |  | 49,73 |
+| 127 |  | 2 |  | 91,73 |
+| 128 |  | 3 |  | 46,31 |
+| 129 | A 4 | 1 |  | 49,73 |
+| 130 |  | 2 |  | 91,73 |
+| 131 |  | 4 |  | 9,99 |
+| 132 | A 5 | 1 |  | 49,73 |
+| 133 |  | 3 |  | 91,73 |
+| 134 | A 6 | 2, 5 |  | 49,73 |
+| 135 | A 7 | 5 |  | 61,76 |
+| 136 | A 8 | 1 |  | 79,56 |
+| 137 | A 9 | 1 |  | 370,22 |
+| 138 | A 13 | 1 |  | 376,24 |
+| 139 |  | 7 |  | 171,97 |
+| 140 | A 14 | 5 |  | 257,95 |
+| 141 | A 15 | 3 |  | 343,91 |
+| 142 |  | 8 |  | 257,95 |
+| 143 | A 16 | 6 |  | 288,47 |
+| 144 | B 10 | 1 |  | 596,09 |
 | 145 | Anlage III (Bundesbesoldungsordnung R) |
 | 146 | Stellenzulage |
 | 147 | Vorbemerkung |  |  |
@@ -182,7 +182,7 @@ Zulagen
 | 150 |  | – R 5 bis R 7 | 470,00 |
 | 151 |  | – R 8 und höher | 540,00 |
 | 152 | Amtszulagen |
-| 153 | Besoldungs- gruppe | Fußnote(n) |  |  |
-| 154 | R 2 | 1 |  | 256,24 |
-| 155 | R 7 | 1 |  | 381,06 |
-| 156 | R 8 | 1 |  | 512,38 |
+| 153 | Besoldungs- gruppe | Fußnote |  |  |
+| 154 | R 2 | 1 |  | 285,20 |
+| 155 | R 7 | 1 |  | 424,12 |
+| 156 | R 8 | 1 |  | 570,28 |

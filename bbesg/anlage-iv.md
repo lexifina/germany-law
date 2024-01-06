@@ -1,63 +1,63 @@
-# Anlage IV (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)Gültig ab 1. April 2022
+# Anlage IV (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)Gültig ab 1. März 2024
 
 Grundgehalt
 1. Bundesbesoldungsordnung A
 | Besol- dungs- gruppe | Grundgehalt (Monatsbetrag in Euro) |
 | Stufe 1 | Stufe 2 | Stufe 3 | Stufe 4 | Stufe 5 | Stufe 6 | Stufe 7 | Stufe 8 |
-| A 3 | 2 370,74 | 2 424,23 | 2 477,74 | 2 520,81 | 2 563,87 | 2 606,95 | 2 650,03 | 2 693,09 |
-| A 4 | 2 420,35 | 2 484,28 | 2 548,22 | 2 599,12 | 2 650,03 | 2 700,93 | 2 751,81 | 2 798,82 |
-| A 5 | 2 438,59 | 2 518,20 | 2 582,14 | 2 644,81 | 2 707,47 | 2 771,42 | 2 834,04 | 2 895,40 |
-| A 6 | 2 490,79 | 2 583,48 | 2 677,42 | 2 749,20 | 2 823,61 | 2 895,40 | 2 974,99 | 3 044,17 |
-| A 7 | 2 614,79 | 2 697,03 | 2 805,37 | 2 916,26 | 3 024,59 | 3 134,23 | 3 216,46 | 3 298,67 |
-| A 8 | 2 766,18 | 2 865,38 | 3 005,00 | 3 145,99 | 3 286,92 | 3 384,81 | 3 483,99 | 3 581,88 |
-| A 9 | 2 985,43 | 3 083,32 | 3 237,34 | 3 393,94 | 3 547,92 | 3 652,61 | 3 761,51 | 3 867,71 |
-| A 10 | 3 195,55 | 3 329,98 | 3 524,46 | 3 719,80 | 3 918,78 | 4 057,26 | 4 195,70 | 4 334,22 |
-| A 11 | 3 652,61 | 3 858,28 | 4 062,62 | 4 268,31 | 4 409,46 | 4 550,62 | 4 691,78 | 4 832,97 |
-| A 12 | 3 916,11 | 4 159,44 | 4 404,10 | 4 647,41 | 4 816,81 | 4 983,50 | 5 151,55 | 5 322,29 |
-| A 13 | 4 592,31 | 4 820,84 | 5 048,02 | 5 276,57 | 5 433,86 | 5 592,51 | 5 749,77 | 5 904,36 |
-| A 14 | 4 722,70 | 5 017,10 | 5 312,87 | 5 607,27 | 5 810,26 | 6 014,63 | 6 217,60 | 6 421,96 |
-| A 15 | 5 772,62 | 6 038,82 | 6 241,80 | 6 444,82 | 6 647,81 | 6 849,46 | 7 051,12 | 7 251,40 |
-| A 16 | 6 368,18 | 6 677,40 | 6 911,29 | 7 145,22 | 7 377,79 | 7 613,07 | 7 846,97 | 8 078,22 |
+| A 3 | 2 706,99 | 2 763,31 | 2 819,66 | 2 865,01 | 2 910,36 | 2 955,72 | 3 001,08 | 3 046,42 |
+| A 4 | 2 759,23 | 2 826,55 | 2 893,88 | 2 947,47 | 3 001,08 | 3 054,68 | 3 108,26 | 3 157,76 |
+| A 5 | 2 778,44 | 2 862,26 | 2 929,59 | 2 995,58 | 3 061,57 | 3 128,91 | 3 194,84 | 3 259,46 |
+| A 6 | 2 833,40 | 2 931,00 | 3 029,92 | 3 105,51 | 3 183,86 | 3 259,46 | 3 343,26 | 3 416,11 |
+| A 7 | 2 963,97 | 3 050,57 | 3 164,65 | 3 281,42 | 3 395,49 | 3 510,94 | 3 597,53 | 3 684,10 |
+| A 8 | 3 123,39 | 3 227,85 | 3 374,87 | 3 523,33 | 3 671,73 | 3 774,80 | 3 879,24 | 3 982,32 |
+| A 9 | 3 354,26 | 3 457,34 | 3 619,52 | 3 784,42 | 3 946,56 | 4 056,80 | 4 171,47 | 4 283,30 |
+| A 10 | 3 575,51 | 3 717,07 | 3 921,86 | 4 127,55 | 4 337,08 | 4 482,89 | 4 628,67 | 4 774,53 |
+| A 11 | 4 056,80 | 4 273,37 | 4 488,54 | 4 705,13 | 4 853,76 | 5 002,40 | 5 151,04 | 5 299,72 |
+| A 12 | 4 334,26 | 4 590,49 | 4 848,12 | 5 104,32 | 5 282,70 | 5 458,23 | 5 635,18 | 5 814,97 |
+| A 13 | 5 046,30 | 5 286,94 | 5 526,17 | 5 766,83 | 5 932,45 | 6 099,51 | 6 265,11 | 6 427,89 |
+| A 14 | 5 183,60 | 5 493,61 | 5 805,05 | 6 115,06 | 6 328,80 | 6 544,01 | 6 757,73 | 6 972,92 |
+| A 15 | 6 289,17 | 6 569,48 | 6 783,22 | 6 997,00 | 7 210,74 | 7 423,08 | 7 635,43 | 7 846,32 |
+| A 16 | 6 916,29 | 7 241,90 | 7 488,19 | 7 734,52 | 7 979,41 | 8 227,16 | 8 473,46 | 8 716,97 |
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6
 – für Beamte des mittleren Dienstes sowie
 – für Soldaten in der Laufbahngruppe der Unteroffiziere sowie für Fahnenjunker und Seekadetten
-um 23,89 Euro.
+um 25,15 Euro.
 Es erhöht sich in den Besoldungsgruppen A 9 und A 10
 – für Beamte des gehobenen Dienstes sowie
 – für Offiziere
-um 10,42 Euro.
+um 10,97 Euro.
 Beträge für die weggefallene Besoldungsgruppe A 2
-Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
+Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesministerium des Innern und für Heimat im Bundesgesetzblatt bekannt.
 2. Bundesbesoldungsordnung B
 | Besoldungsgruppe | Grundgehalt (Monatsbetrag in Euro) |
-| B 1 | 7 251,40 |
-| B 2 | 8 423,70 |
-| B 3 | 8 919,75 |
-| B 4 | 9 438,66 |
-| B 5 | 10 034,23 |
-| B 6 | 10 600,22 |
-| B 7 | 11 146,01 |
-| B 8 | 11 717,33 |
-| B 9 | 12 425,82 |
-| B 10 | 14 626,52 |
-| B 11 | 15 074,80 |
+| B 1 | 7 846,32 |
+| B 2 | 9 080,76 |
+| B 3 | 9 603,10 |
+| B 4 | 10 149,51 |
+| B 5 | 10 776,64 |
+| B 6 | 11 372,63 |
+| B 7 | 11 947,35 |
+| B 8 | 12 548,95 |
+| B 9 | 13 294,99 |
+| B 10 | 15 612,33 |
+| B 11 | 16 084,36 |
 3. Bundesbesoldungsordnung W
 | Besoldungsgruppe | Grundgehalt (Monatsbetrag in Euro) |
-| W 1 | 5 046,69 |
+| W 1 | 5 524,76 |
 |  | Stufe 1 | Stufe 2 | Stufe 3 |
-| W 2 | 6 269,77 | 6 638,59 | 7 007,40 |
-| W 3 | 7 007,40 | 7 499,15 | 7 990,90 |
+| W 2 | 6 812,67 | 7 201,04 | 7 589,39 |
+| W 3 | 7 589,39 | 8 107,20 | 8 625,02 |
 4. Bundesbesoldungsordnung R
-| Besoldungsgruppe | Grundgehalt (Monatsbetrag in Euro) |
+| Besol- dungs- gruppe | Grundgehalt (Monatsbetrag in Euro) |
 | Stufe 1 | Stufe 2 | Stufe 3 | Stufe 4 | Stufe 5 | Stufe 6 | Stufe 7 | Stufe 8 |
-| R 2 | 5 580,37 | 5 866,75 | 6 151,76 | 6 541,62 | 6 934,14 | 7 325,37 | 7 717,93 | 8 110,48 |
-| R 3 | 8 919,75 |
-| R 5 | 10 034,23 |
-| R 6 | 10 600,22 |
-| R 7 | 11 146,01 |
-| R 8 | 11 717,33 |
-| R 9 | 12 425,82 |
-| R 10 | 15 074,80 |
+| R 2 | 6 086,73 | 6 388,29 | 6 688,40 | 7 098,93 | 7 512,25 | 7 924,21 | 8 337,58 | 8 750,94 |
+| R 3 | 9 603,10 |
+| R 5 | 10 776,64 |
+| R 6 | 11 372,63 |
+| R 7 | 11 947,35 |
+| R 8 | 12 548,95 |
+| R 9 | 13 294,99 |
+| R 10 | 16 084,36 |
 Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
-Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
+Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bundesministerium des Innern und für Heimat im Bundesgesetzblatt bekannt.

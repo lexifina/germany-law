@@ -7,8 +7,7 @@
 - [§ 1 Unbeschränkte Steuerpflicht](0001.md)
 - [§ 1a Option zur Körperschaftsbesteuerung](0001a.md)
 - [§ 2 Beschränkte Steuerpflicht](0002.md)
-- [§ 3 Abgrenzung der Steuerpflicht bei nichtrechtsfähigen
-Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden](0003.md)
+- [§ 3 Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden](0003.md)
 - [§ 4 Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts](0004.md)
 - [§ 5 Befreiungen](0005.md)
 - [§ 6 Einschränkung der Befreiung von Pensions-, Sterbe-, Kranken- und Unterstützungskassen](0006.md)

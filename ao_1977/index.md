@@ -25,6 +25,8 @@
 - [§ 12 Betriebstätte](0012.md)
 - [§ 13 Ständiger Vertreter](0013.md)
 - [§ 14 Wirtschaftlicher Geschäftsbetrieb](0014.md)
+- [§ 14a Personenvereinigungen](0014a.md)
+- [§ 14b Körperschaften mit Sitz im Ausland](0014b.md)
 - [§ 15 Angehörige](0015.md)
 
 ### Dritter Abschnitt Zuständigkeit der Finanzbehörden
@@ -394,7 +396,8 @@ von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
 - [§ 180 Gesonderte Feststellung von Besteuerungsgrundlagen](0180.md)
 - [§ 181 Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht](0181.md)
 - [§ 182 Wirkungen der gesonderten Feststellung](0182.md)
-- [§ 183 Empfangsbevollmächtigte bei der einheitlichen Feststellung](0183.md)
+- [§ 183 Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen](0183.md)
+- [§ 183a Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen](0183a.md)
 
 ##### II. Festsetzung von Steuermessbeträgen
 
@@ -552,7 +555,7 @@ Rechts](0255.md)
 - [§ 264 Vollstreckung gegen Nießbraucher](0264.md)
 - [§ 265 Vollstreckung gegen Erben](0265.md)
 - [§ 266 Sonstige Fälle beschränkter Haftung](0266.md)
-- [§ 267 Vollstreckungsverfahren gegen nicht rechtsfähige Personenvereinigungen](0267.md)
+- [§ 267 Vollstreckungsverfahren gegen Personenvereinigungen](0267.md)
 
 #### 2. Unterabschnitt Aufteilung einer Gesamtschuld
 
@@ -685,7 +688,7 @@ Handlungen, Duldungen oder Unterlassungen
 - [§ 349](0349.md)
 - [§ 350 Beschwer](0350.md)
 - [§ 351 Bindungswirkung anderer Verwaltungsakte](0351.md)
-- [§ 352 Einspruchsbefugnis bei der einheitlichen Feststellung](0352.md)
+- [§ 352 Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung](0352.md)
 - [§ 353 Einspruchsbefugnis des Rechtsnachfolgers](0353.md)
 - [§ 354 Einspruchsverzicht](0354.md)
 

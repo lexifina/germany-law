@@ -306,14 +306,23 @@
 - [§ 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen](0174.md)
 - [§ 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen](0175.md)
 
-## Teil 8 Maßnahmen des Ausschusses
+## Teil 8 Weitere Befugnisse
+
+
+### Kapitel 1 Maßnahmen des Ausschusses
 
 - [§ 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen](0176.md)
 - [§ 177 Prüfungen vor Ort nach der SRM-Verordnung](0177.md)
 - [§ 178 Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder](0178.md)
 
+### Kapitel 2 Untersuchungsbefugnisse der Abwicklungsbehörde
+
+- [§ 178a Auskunfts- und Vorlageverlangen](0178a.md)
+- [§ 178b Vornahme von Prüfungen und Prüfungen vor Ort](0178b.md)
+
 ## Teil 9 Rechtsbehelf und Ausschluss anderer Maßnahmen
 
 - [§ 179 Rechtsschutz](0179.md)
+- [§ 179a Besondere Vorschriften für das Verwaltungsverfahren](0179a.md)
 - [§ 180 Unterbrechung von gerichtlichen Verfahren in Zivilsachen](0180.md)
 - [§ 181 Haftungsbeschränkung](0181.md)
