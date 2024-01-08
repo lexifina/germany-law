@@ -1,0 +1,123 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-01-08T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7981762
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7981762
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Umzug in eine andere Wohnung
+- TOP 2.2.: Abfallsituation am Quartiersplatz Theresienhöhe
+- TOP 2.3.: Konzept LHM-Grünpaten-Förderprogramm
+- TOP 2.4.: Zustandsbericht aus dem Münchner Süden
+- TOP 2.5.: Wasserstand im Sendlinger Loch
+- TOP 2.6.: „Sendlinger Loch“ eine Gefährdung der öffentlichen Sicherheit
+- TOP 2.7.: Schließung der Gaststätte "Zum blauen Stern"
+- TOP 2.8.: Abtransport von Kehrgut
+- TOP 2.9.: Wolt-Werbung an Straßenlaternen
+- TOP 2.10.: Beparkte Geh- und Radwege in der Brudermühlstr. 51 und 53
+- TOP 2.11.: Vermüllung öffentlicher Grünflächen um das Sendlinger Loch
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag auf Baumfällung - Fällung einer Lärche in der Meindlstr. 5
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 4.3.2.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 4.3.3.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 4.3.4.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 4.3.5.: Baustellensicherung am „Sendlinger Loch“ durch ausreichende Beleuchtung
+- TOP 4.3.6.: Denkmalgeschützte Wohnanlage an der Fall-/Zechstraße
+- TOP 4.3.7.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP 4.3.8.: Neueröffnung ALDI SÜD in der Radlkoferstraße in Sendling am 14.12.2023
+- TOP 4.3.9.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 4.3.10.: Geplante Baumaßnahme rückwärtig der Lindenschmitstraße 25
+- TOP 4.3.11.: Sanierung der Sportanlage des FC Wacker
+- TOP 4.3.12.: Lichtbelästigung an der Lindenschmitstraße 14
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Erhalt der Vereinsgaststätte nach Neubau der Sportanlage Demleitnerstraße 2 / Wackersberger Straße 65 (Antrag der SPD-Fraktion & Fraktion Bündnis 90/DIE GRÜNEN)
+- TOP 4.4.2.: Antrag Sportgaststätten bei Neubau/Modernisierungsmaßnahmen erhalten (Antrag der Fraktion FDP/Freie Wähler)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Anordnung einer Einbahnstraßen-Regelung in der Lenggrieser Straße Empfehlung Nr. 20-26 / E 00984 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 25.10.2022
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Ausnahmezulassung Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV
+- TOP 5.3.2.: Ausnahmezulassung Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 5.3.3.: Komposttoiletten für öffentliche Grünanlagen
+- TOP 5.3.4.: Antrag Gotzinger Platz Kinder- und Jugendforum Sendling Bürgeranfrage vom 14.09.2023 und Behandlung in der BA-Sitzung am 09.10.2023 Antwort des Referats
+- TOP 5.3.5.: Offener Bücherschrank am Herzog-Ernst-Platz
+- TOP 5.3.6.: Änderung VAO Brudermühlstr. - Winterphase (Verlegung einer 110kV-Leitung)
+- TOP 5.3.7.: Erinnerungsverfahren Straßenbaumaßnahme Plinganserstr./Kreuzung Steinerstr. 23
+- TOP 5.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.9.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Hier: Eisenbahnüberführung über die Tumblingerstraße im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt und im 6. Stadtbezirk Sendling Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Tumblingerstraße durch die DB AG
+- TOP 5.3.10.: U-Bahn Haltestelle Harras - Ausgang Bodenehrstr.
+- TOP 5.3.11.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht - Bekanntgabe -
+- TOP 5.3.12.: Ausnahmezulassung: Jahresgenehmigung 2024 Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 5.3.13.: Informationen zu aktuellen Baumaßnahmen der SWM
+- TOP 5.3.14.: BA-Antrag 20-26 20-26 /01797 Aufstellung Wertstoffcontainer in der Wackersbergerstr. 60
+- TOP 5.3.15.: Valleystr. 44 - Straßenmarkierung
+- TOP 5.3.16.: Linienbusverkehre der MVG; Änderungen zum Fahrplanwechsel am 10.12.2023 (Leistungsprogramm 2024)
+- TOP 5.3.17.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für den vorzeitigen Einsatz von Müllsammelfahrzeugen im Stadtgebiet München für das Jahr 2024
+- TOP 5.3.18.: Montage WC-Anlage Brudermühlstraße / Roter-Turm-Platz
+- TOP 5.3.19.: Versammlungsanzeige "Keine Waffen in Kriegsgebiete...." für den 12.01.2023 (Am Harras)
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball in Sendling, Bezirk 06 vom 01.01. - 31.12.2024 7.500,00 € / AZ 0262.0-6-0470
+- TOP 6.1.2.: (E) Stadtbezirksbudget Hockey-Club Wacker e.V. München „Geräuschminimierung Hockeytore Forza vom 04.01.2024 – 31.03.2024“ 1.404,57 € / AZ: 0262.0-6-0476
+- TOP 6.1.3.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinsamen Leben e.V. „Sozialraumkarte vom 01.01.2024 – 30.06.2024“ 6.475,00 € / AZ: 0262.0-6-0474
+- TOP 6.1.4.: (E) Stadtbezirksbudget Elternbeirat der St. Maria-Probst-Realschule „Stark wie ein Löwe“ 1.300,00 € / AZ: 0262.0-6-0475
+- TOP 6.1.5.: (E) Stadtbezirksbudget animato münchner orchester e.V. „Vorbereitung für das Konzert in der Himmelfahrtskirche in Sendling 03.02.2024 vom 12.12.2023 – 03.02.2024“ 1.823,00 € / AZ: 0262.0-6-0477
+- TOP 6.1.6.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024“ 1.800,00 € / AZ: 0262.0-6-0478
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Antrag Nr. 20-26 / B 03393 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 09.12.2021; "MVG-Zeitkarten für Bezirksausschussmitglieder"
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Bestellung einer städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling
+- TOP 6.3.2.: Haushaltsbeschluss 2024 / Stadtbezirksbudgets 2024
+- TOP 6.3.3.: Verwendungsnachweise zu Mitteln aus dem BA-Budget - Jahr 2023
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 7.3.2.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 7.3.3.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 7.3.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 7.3.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 7.3.6.: Freiräume für junge Menschen schaffen - Jugendcontainer an der Hans-Fischer-Str. errichten
+- TOP 7.3.7.: Ergreifen von geeigneten Maßnahmen gegen die Verunreinigung des Grünbereichs rund um die städt. Sportanlage Gaißacher Straße
+- TOP 7.3.8.: Sendlinger Bewerbung für das Projekt "Vom Weltspieltag zum Weltkindertag 2024"
+- TOP 7.3.9.: Lärm und Umweltverschmutzung am Flaucher und an den Isarauen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Fortführung der Schank- und Speisewirtschaft "Moments"
+- TOP 8.3.2.: Gasteig - Interimsquartiere Anpassungen
+- TOP 8.3.3.: Weihnachtsmarkt am Harras - Rückmeldung der Bürger*innen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Sommerfest 2023 der Diakonie München und Oberbayern - Kurzbericht
+- TOP 8.5.2.: Sendlinger Mordweihnacht 2023/Pressemitteilung
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
