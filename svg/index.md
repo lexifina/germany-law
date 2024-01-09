@@ -219,6 +219,7 @@
 - [§ 89 (weggefallen)](0089.md)
 - [§ 89a Dienstbezüge](0089a.md)
 - [§ 89b Anpassung der Versorgungsbezüge](0089b.md)
+- [§ 89c Sonderzahlungen zur Abmilderung gestiegener Verbraucherpreise im Jahr 2023](0089c.md)
 - [§ 90 Anrechnung von Geldleistungen](0090.md)
 - [§ 91 (weggefallen)](0091.md)
 - [§ 91a Begrenzung der Ansprüche aus einer Wehrdienstbeschädigung](0091a.md)
@@ -249,6 +250,7 @@
 - [§ 106a Sonderregelungen zur Bewältigung der COVID-19-Pandemie](0106a.md)
 - [§ 107 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes](0107.md)
 - [§ 107a Übergangsregelung zur Minderung der Förderungsdauer](0107a.md)
+- [§ 107b Übergangsregelung aus Anlass der Einführung von Stellenzulagen](0107b.md)
 - [§ 108 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts](0108.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III
 
