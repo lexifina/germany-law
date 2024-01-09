@@ -1,0 +1,155 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8133340
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8133340
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Wie soll künftig die Zerstörung der Grünfläche verhindert werden? Antwort auf BV-Anfrage Nr. 20-26 / Q 00351
+- TOP 6.2.: WC U-Bahn Josephsplatz - Antwort auf BA-Antrag Nr. 20-26 / B 04090
+- TOP 6.3.: Luftmessung am Altstadtringtunnel - Antwort auf BA-Antrag Nr. 20-26 / B 06014
+- TOP 6.4.: BR-Studiobau erhalten - Antwort auf BA-Antrag Nr. 20-26 / B 06016
+- TOP 6.5.: Kunstareal München - Antwort auf BA-Antrag Nr. 20-26 / B 06011
+- TOP 6.6.: entfällt
+- TOP 6.7.: Auslobung eines Architekturpreises mit der TU München, Großflächiger, vernetzter Ausbau erneuerbarer Energie in Industriegebieten und gute Architektur dürfen kein Widerspruch sein
+- TOP 6.8.: Luisenstr. 22, Fl.Nr. 5453/0, Gemarkung Sektion III Umbau Paul-Heyse-Villa Anfrage Nr. 20-26 / Q 00354 aus der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 15.11.2023
+- TOP 6.9.: Bespielung des Königsplatzes
+- TOP 6.10.: Standorte für Graffiti im Umgriff des Kunstareals
+- TOP 6.11.: Bewerbung der Maxvorstadt als Street-Art-Pilotbezirk
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Zwei Vorschläge zur Aufwertung des Viertels:
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Nachfrage Baumpflanzungen in der Kreittmayrstraße
+- TOP 1.2.2.: Pappenheimstraße 14 – Möglichkeit der Zwischennutzung prüfen
+- TOP 1.2.3.: Dachauer Str. 16 – Wohnraum in der Maxvorstadt erhalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 47 - 50
+- TOP 2.1.2.: WEB-Listen der LBK: KW 46 - 48
+- TOP 2.1.3.: Augustenstr. 37: Dachgeschossumbau mit Rückbau einer bestehenden Wohneinheit und Erstellung zweier neuer Wohneinheiten, Anbau von Aufzug und Balkonen, Fassadenumgestaltung in Anlehnung an die historische Fassade im EG
+- TOP 2.1.4.: Augustenstr. 63: Nutzungsänderung: Verkaufsladen in einen Imbissladen mit alkoholfreien Getränken
+- TOP 2.1.5.: Dachauer Str. 16: Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 06.12.2023 auf dem Grundstück Nymphenburger Str. 21a
+- TOP 3.2.2.: Fällungsantrag vom 22.11.2023 auf dem Grundstück Geschwister-Scholl-Pl. 1
+- TOP 3.2.3.: Fällungsantrag vom 22.11.2023 auf dem Grundstück Ludwigstr. 28
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 5.2.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 5.3.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 5.4.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 5.5.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.: Ausnahmezulassungen gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 5.8.: Ausnahmezulassung gem. 32. BImSchV
+- TOP 5.9.: Zweitschrift der Beschlussvorlage Sportbauprogramm - Sachstandsbericht 2023
+- TOP 5.10.: (U) Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 5.11.: Abdruck Baugenehmigung Schellingstr. 15
+- TOP 5.12.: Baumaßnahmen der Stadtwerke München - Stichtag vom 04.12.2023 bis 18.12.2023
+- TOP 5.13.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 5.14.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 03 (Maxvorstadt) und 09 (Neuhausen-Nymphenburg) Satzungsbeschluss Satzung „St.-Benno-Viertel“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „St.-Benno-Viertel“) Stadtbezirk 03 Maxvorstadt Stadtbezirk 09 Neuhausen-Nymphenburg
+- TOP 5.15.: EH-Genehmigungen
+- TOP 5.16.: Bürger*innenanliegen Adamstr. 4 //Zweckentfremdung AirBnB - TOP B 1.1.1/ 10 2023
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Div. Beanstandungen im Bereich der Zieblandstr. / Augustenstr. und Schellingstr.
+- TOP 1.1.2.: entfällt
+- TOP 1.1.3.: Radwegbrücke über Schwere Reiter Str Höhe Heßstr.
+- TOP 1.1.4.: Flink an der Karlstrasse 44
+- TOP 1.1.5.: Betreff: Bürgerpost: Alter botanischer Garten
+- TOP 1.1.6.: Mehr Bäume und Radabstellplätze in der Karlstraße/Katharina-von-Bora-Straße.
+- TOP 1.1.7.: entfällt
+- TOP 1.2: Anträge
+- TOP 1.2.2.: Vorrang für die Buslinie 154 beim Linksabbiegen in die Ludwigstr.
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schellingstraße 108, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Hiltensperger Str. 15- Aufstellen neuer Verkaufseinrichtungen
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 3.2.: Antwort auf Bürger*innenanliegen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: MVG Baumaßnahmen U2
+- TOP 3.5.: Freimeldung 2023 und Antrag 2024 / Maillingerstr.3-5
+- TOP 3.6.: Abdruck (Bez. 3) Anordnung Schutzstreifen in der Pappenheimstr.
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Blutenburgstraße e.V. Deutsch- und Lernunterstützung benachteiligter Kinder der Blutenburgschule vom 15.01. - 31.07.2024 3.000,00 Euro, Az.: 0262.0-3-0502
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 4.2.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.3.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 4.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.6.: Erinnerungszeichen zum Gedenken an Olga Maier
+- TOP 4.7.: (U) Neueröffnung von Unterkünften zur Unterbringung Geflüchteter an den Standorten • Frankfurter Ring 20 - 22 • Nymphenburger Straße 48 • Ridlerstraße 13 und 15 • Schwanseestraße 14 und 16 Verlängerung und Umbau einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort • Meglinger Straße 7 3. Stadtbezirk – Maxvorstadt 8. Stadtbezirk – Schwanthalerhöhe 11. Stadtbezirk – Milbertshofen-Am Hart 17. Stadtbezirk – Obergiesing-Fasangarten 19. Stadtbezirk – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP 4.8.: (U) Hilfsangebote für Seniorinnen und Senioren ausweiten Antrag Nr. 20-26 / A 04117..... 3. Stadtbezirk – Maxvorstadt 11. Stadtbezirk – Milbertshofen-Am Hart 12. Stadtbezirk – Schwabing-Freimann 21. Stadtbezirk – Pasing-Obermenzing 24. Stadtbezirk – Feldmoching-Hasenbergl
+- TOP 4.9.: Verwendungsnachweise
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "1:16" Ausstellung 1:16 vom 28.01. - 08.02.2024 1.750,00 Euro, Az.: 0262.0-3-0500
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Child in Time" Ausstellung "Child in Time" vom 15.03. - 15.05.2024 3.000,00 Euro, Az.: 0262.0-3-0498
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "ZACK" Videoausstellung "ZACK" vom 14.02. - 29.02.2024 881,00 Euro, Az.: 0262.0-3-0501
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise
+- TOP 4.2.: Kunstprojekt Justizzentrum an der Nymphenburger Straße- Eilentscheid
+- TOP 4.3.: Public Art
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Kinder- und Bürgerfest am 20.07.2024: Ort?
+- TOP 1.2.: BA-Schaukasten St. Markus
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 3.2.4.: Generalsanierung und Umbau Kindergarten St. Benno mit neuem Anbau Lothstr. 16 - Fällungsantrag vom 29.12.2023
+- TOP 5.17.: Zwei Eilentscheide zu Bauvorhaben
+- TOP 2.1.: Haushaltsbeschluss 2024 / Stadtbezirksbudgets 2024 / Konsolidierungsbeitrag in Höhe von 6,49 %
+- TOP 5.2.1.: AWM – Vorstellung Wertstoffinseln
+- TOP 6.12.: Antwort auf Nachfrage bzgl. der Mittel für die Maßnahme Modifizierte Alternative 5 des Mehrjahresinvestitionsprogramms 2023-2027
+- TOP 3.2.5.: Deroystr. 4: Fällungsantrag vom 14.12.2023 I 17.01.2024
+- TOP 1.1.8.: Augustenstraße Hilfe
+- TOP 2.3.1.: Freischankfläche: Gaststätte "Calvello&#039;s, Heßstr. 57, 80798 München
+- TOP 2.4.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz"!) am 14.09.2024 1.600,00 Euro, Az.: 0262.0-3-0504
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Die Lückenfüller" Die Lückenfüller am 02./03.02.2024 325,00 Euro, Az.: 0262.0-3-0503
+- TOP 1.3.: MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 1.2.1.: Pro-Palästina Demonstrationen am Königsplatz verlegen
