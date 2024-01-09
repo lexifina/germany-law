@@ -1,0 +1,84 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968700
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968700
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Bericht über die BA-Arbeit an der Carl-von-Linde-Realschule
+- TOP 4.2.: Konzept LHM-Grünpaten-Förderprogramm
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Sanierung des ehemaligen Parkwärterhauses zur zukünftigen Nutzung als Jugendeinrichtung
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Gewerbehof Westend: Ostfassade sanieren - Zwischennachricht Empfehlung Nr. 20-26 / E 01170
+- TOP 6.3.2.: Meldelisten Bauvorhaben
+- TOP 6.3.3.: STEP2040 - Digitale Informationsveranstaltung
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Einrichtung von weiteren Wasserspielmöglichkeiten in der Schwanthalerhöhe
+- TOP 7.3.2.: 18.jetzt - Das Rathausclubbing am 29.06.2024
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Abschluss Sommerstraße 2023 und Aufruf für 2024
+- TOP 8.2.2.: Georg-Freundorfer-Platz Nachbarschaftsflohmärkte 2024
+- TOP 8.2.3.: Gollierplatz Nachbarschaftsflohmärkte 2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: KiKS-Blende 2 und Kinder-Kultur-Sommer 2024
+- TOP 8.3.2.: Versammlung am Georg-Freundorfer-Platz am 31.12.2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Errichtung eines Fußgängerüberwegs über die Ganghoferstraße auf Höhe der Anglerstraße
+- TOP 9.1.2.: (E) + (U) Gefährdung von Radfahrenden auf der Hackerbrücke: Überholverbot für Kfz einführen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Bergmannstraße 20
+- TOP 9.2.2.: Baumfällung Bergmannstraße 20a
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Abschlussbericht und Evaluierung Kazmair Allee
+- TOP 9.3.2.: Überfüllte Wertstoffsammelcontainer Bergmannstraße - Gollierstraße
+- TOP 9.3.3.: Straßenzug „Ridlerstraße" - Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 9.3.4.: Meldelisten Bauvorhaben SWM
+- TOP 9.3.5.: Besserer Schutz für Bäume, Pflanzen und Blumen
+- TOP 9.3.6.: Mehr Sauberkeit durch eine größere Zahl von Abfalleimern und häufigere Reinigung der Spielplätze
+- TOP 9.3.7.: Fällung von Gefahrenbäumen im öffentlichen Raum
+- TOP 9.3.8.: Präsentation der Informationsveranstaltung zur Novellierung der Baumschutzverordnung
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget West and Hell e.V. Straßenfest am 20.07.2024 2.265,00€; Az. 0262.0-8-0378
+- TOP 10.1.2.: (E) Stadtbezirksbudget Hans Sauer Stiftung Veranstaltungsreihe Lebensmittelpunkt fürs Westend vom 15.01.2024 -30.04.2024 2.750,00€; Az. 0262.0-8-0379
+- TOP 10.1.3.: (E) Stadtbezirksbudget SV München West e.V. Ausstattung der neuen Jugendabteilung mit Mützen und Halswärmer ab 09.01.2024 6.177,48€; Az. 0262.0-8-0380
+- TOP 10.1.4.: (E) Stadtbezirksbudget Westendzeltlager "Westendzeltlager -WZL goes Phantasy" vom 27.07.2024 -02.08.2024 1.492,49€; Az. 0262.0-8-0382
+- TOP 10.1.5.: (E) Stadtbezirksbudget Auferstehungskirche München Westend "Westend Vibes" vom 25.01. -09.05.2024 9.725,00€; Az. 0262.0-8-0383
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Ankündigung BA-Newsletter
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 12.3.2.: -NACHTRAG- Infoschreiben: Haushaltsbeschluss 2024 / Stadtbezirksbudgets 2024
+- TOP 4.3.: -NACHTRAG- Entfernung eines Hochbeetes an der Ecke Holzapfel-/Westendstraße
+- TOP 8.3.3.: -NACHTRAG- Versammlung an der Heimeranstraße am 09.01.2024
+- TOP 11.1.: -NACHTRAG- Auswirkungen der städtischen „Superblockstrategie“ für die Schwanthalerhöhe
+- TOP 7.3.3.: Einrichtung von mehr Erfrischungsmöglichkeiten z.B. im Bavariapark und in der Schießstättstraße Erweiterung des Spielplatzes vor dem "Schwanthaler Forum" Ecke Schießstättstraße / Gollierstraße
+- TOP 12.2.1.: - NACHTRAG - MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 10.1.6.: (E) Stadtbezirksbudget DPSG Stamm St. Rupert Neues Küchenzelt 3.065,85€; Az. 0262.0-8-0377
