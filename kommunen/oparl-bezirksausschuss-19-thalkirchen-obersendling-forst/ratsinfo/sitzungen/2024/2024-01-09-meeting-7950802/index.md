@@ -1,0 +1,72 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7950802
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7950802
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.12.2023
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München Solln e.V. Erstellung eines Basketspielfeldes 23.581,00€; Az. 0262.0-19-0486
+- TOP 3.3.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Picknicktische und -bänke östlich vom Flugzeugspielplatz in Obersendling
+- TOP 3.4.: (E) Stadtbezirksbudget Initiative "Kerims Nase": Kerims Nase vom 15.02. bis 28.02.2024" 526,50€; Az. 0262.0-19-0494
+- TOP 3.5.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V.: Sozialraumkarten vom 01.01. bis 30.06.2024 6.475,00 Euro, Az.: 0262.0-19-0490
+- TOP 3.6.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Fahrradlifte am Isarhochufer
+- TOP 3.7.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling: Schlageronkel vom 01.02.2024 bis 31.01.2025 810,00€; Az. 0262.0-19-0495
+- TOP 3.8.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling: Rhythmik vom 01.02.2024 bis 31.01.2025 1.620,00€; Az. 0262.0-19-0496
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (BV) Inschutznahmeverfahren der Freiflächen westlich der Wolfratshauser Straße und südlich der Siemens-Allee als Landschaftsschutzgebiet Isar-Solln
+- TOP 4.4.: (BV) Lärmbelästigung in der Tölzer Straße
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Sommerstraßen 2024
+- TOP 5.3.: (U) Verkehrsrechtliche Anordnung: Kemptener Straße Haltverbote an Feuerwehrzufahrten
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Machtlfinger Straße Haltverbot im Ampelstauraum zur Kistlerhofstraße
+- TOP 5.5.: (BV) Täglicher Halt der Oberlandzüge in Obersendling und Solln
+- TOP 5.6.: (BV) Lärmschutzmaßnahmen für die Garmischer Autobahn (A95)
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Zitzelsbergerstraße Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 5.8.: (U) Verkehrsrechtliche Anordnung: Gmunder Straße Regelungen nach Straßenbaumaßnahme
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Ergebnisse Workshop Forstenried: Dorfanger im Dorfkern
+- TOP 6.1.2: Ergebnisse Workshop Forstenried: Ensembleschutz Dorfkern
+- TOP 6.1.3: Ergebnisse Workshop Forstenried: Sicherung des Dorfkerns Forstenried
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Waldmüllerstraße 18 (VB)
+- TOP 6.2.2: Sörgelstraße 8
+- TOP 6.2.3: Fürstenackerstraße 3
+- TOP 6.2.4: Diemendorfer Straße 14
+- TOP 6.2.5: Kistlerhofstraße 127
+- TOP 6.3.: (A) Vollzug des Bayerischen Denkmalschutzgesetzes: Münchner Straße 22 Nachtrag in die Denkmalliste - Teil A: Baudenkmäler Landeshauptstadt München
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Nachtspaziergang mit dem Baureferat: Sicherheitsgefühl im öffentlichen Raum erhöhen
+- TOP 7.3.: (Antrag) Aufnahme von Mädchen an den Ball e.V. in die städtische Regelförderung
+- TOP 7.4.: Lotsenpunktbus im Quartier Am Südpark
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Forstenrieder Volkslauf am 13.04.2024
+- TOP 9: Verschiedenes
+- TOP 5.1.1: Fahrradparkhäuser am S-Bahnhof Solln
+- TOP 5.9.: - NACHTRAG - (A) Verkehrsrechtliche Anordnung: Würmseestraße Beschilderung mit Gefahrzeichen Z 136 StVO und Zusatzzeichen „Schule“
+- TOP 3.9.: - NACHTRAG - (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 2.100,00€; Az. 0262.0-19-0498
+- TOP 3.10.: - NACHTRAG - (E) Stadtbezirksbudget Leocor gGmbH Naturgartentreff und Hummelkioske von Februar -Dezember 2024 1.130,00€; Az. 0262.0-19-0497
+- TOP 3.1.1: Bestellung städtischer Leistung: Spielgeräte im 19. Stadtbezirk
