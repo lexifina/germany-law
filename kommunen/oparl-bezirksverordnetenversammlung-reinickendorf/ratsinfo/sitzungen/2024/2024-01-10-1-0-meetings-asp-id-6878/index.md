@@ -1,0 +1,135 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-01-10T17:00:00+01:00
+- Ende: 2024-01-10T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6878
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6878
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=472690
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Bauvorhaben Schildower Straße - beantwortet
+- TOP 3.2: Gespräche mit Vertretern der Gemeinde Glienicke - beantwortet
+- TOP 3.3: Anspruch auf Entschädigung für Anwohner und Gewerbetreibende bei umfangreichen Baumaßnahmen auf öffentlichem Straßenland - beantwortet
+- TOP 3.4: Unterstützung für Mieter der Gewobag in Tegel Süd - beantwortet
+- TOP 3.5: Betriebskostenabrechnungen der Gewobag in Tegel Süd - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 27. Sitzung der BVV am 10.01.2024 - mit Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Krankenhausbeirat in der Vitanas Klinik Geriatrie - beantwortet
+- TOP 5.2: Schülerinnen und Schüler mit Behinderung in schulischen Gremien - beantwortet
+- TOP 5.3: Auswirkungen auf den Bezirkshaushalt - beantwortet
+- TOP 5.4: 125 Jahres-Feier VfB Hermsdorf - beantwortet
+- TOP 5.5: Bauvorbescheidsantrag KBoN-Gelände - beantwortet
+- TOP 5.6: Einsatz- und Schutzhelme - beantwortet
+- TOP 5.7: Pankower Allee 1/3 Ecke Roedernallee 109 - beantwortet
+- TOP 5.8: Anliegerparkplätze im Heiligental - beantwortet
+- TOP 5.9: Zukunft der Avenue Charles de Gaulle 36 - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Nachwahl eines/einer Bürgerdeputierten und eines/einer stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 6.2: KiTa-Gipfel für Reinickendorf (Beschlussempfehlung) - mit Änderungen in der BVV beschlossen
+- TOP 6.3: Städtepartnerschaft mit Polen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Jugendfreundliches Reinickendorf (Große Anfrage) - beantwortet
+- TOP 6.5: Anpassung der Parkplatzkapazitäten für PKW im Bereich der Cité Foch (Beschlussempfehlung) - in der BVV zurückgezogen
+- TOP 6.6: Leitfaden zur Vorgartengestaltung (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.7: Baumpflanzungen in der Gorkistraße (Beschlussempfehlung) - vertagt
+- TOP 6.8: Neuer Hundetreffpunkt für Reinickendorf Mitte/West (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.9: Beet-Einfassungen und Sitzbänke um den Schinkelbrunnen sanieren (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Namensgebung für die Grünfläche an der Dianstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Schließfächer für obdachlose Menschen - überwiesen
+- TOP 8.3: Toilette am Spielplatz Am Seegeluchbecken-Wolkenhain - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen - vertagt
+- TOP 8.5: Parkplatzbeleuchtung an der Quickborner Straße 105 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Barrierefreier Übergang zum Dorfanger und zur Dorfkirche Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Mehr Sicherheit am Fußgängerüberweg Heinsestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Busse nach Scharfenberg für Fahrten nach Tegel nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Untersuchungen für Jugendliche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: 10-Minuten-Takt für den Bus 322 - vertagt
+- TOP 8.11: Instandsetzung und Reinigung der historischen Laternen an der Greenwichpromenade in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Ärztlichen Bereitschaftsdienst der Kassenärztlichen Vereinigung an allen Rettungsstellen der Krankenhäuser etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Kita-Sozialarbeit zur Prävention von Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Erlass der Verordnung über die Veränderungssperre 12-63a / 47 gemäß § 14 Abs. 1 Baugesetz-buch (BauGB) für das Grundstück Trettachzeile 5 im Bezirk Reinickendorf, Ortsteil Borsigwalde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Integration Geflüchteter und Umsetzung der Schulpflicht - vertagt
+- TOP 9.2: Unterbringung/Wohnsituation Geflüchteter in Reinickendorf - vertagt
+- TOP 9.3: Rechtsanspruch Kita - Kann das der Bezirk leisten? - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Entwurf des Wirtschaftsflächenkonzepts für den Bezirk Reinickendorf von Berlin - überwiesen
+- TOP 10.2: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Verlegung Bushaltestelle 125er / Zeltinger Platz - in der BVV abgelehnt
+- TOP 11.2: Verkehrszählgeräte - vertagt
+- TOP 11.3: Übernahme der Unterhaltung der zukünftigen Hochwasserschutzanlage im Bereich ehemaliger Mäckeritzgraben durch den Bezirk - erledigt
+- TOP 11.4: Hochwasserschutz in den Mäckeritzwiesen - erledigt
+- TOP 11.5: Rückkehr des Schrägparkens in Alt-Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Radwanderrouten wieder einführen - in der BVV abgelehnt
+- TOP 11.7: Mehr Aufenthaltsqualität für den Borsigplatz in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Fußgängerfreundliche Ampelschaltung - Wilhelmsruher Damm/U8-Aufzug - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Heidekrautbahn über den Mauerweg führen - in der BVV abgelehnt
+- TOP 11.11: Mehr Verkehrssicherheit für die Kinder und Eltern der Kita NEMO sowie für Anwohnerinnen und Anwohner - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Notwasserbrunnen für die Cité Foch - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Verkehrsinfarkt verhindern - Roedernallee als leistungsfähige Bundesstraße erhalten - erledigt
+- TOP 11.14: Fahrradbügel für mehr Verkehrssicherheit in Alt-Wittenau - in der BVV abgelehnt
+- TOP 11.15: Sicheres Radfahren auf der Bernauer Straße in Tegel - vertagt
+- TOP 11.16: Option für weitere 200 Doppeldecker von Alexander Dennis London nutzen - in der BVV abgelehnt
+- TOP 11.17: Nächtliches Tempolimit in der Heiligenseestraße komplettieren - mit Änderungen in der BVV beschlossen
+- TOP 11.18: Parkplatz an der Sportanlage Königshorster Straße 15 - vertagt
+- TOP 11.19: Fußweg in der Glienicker Straße herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Baumaßnahme Schmitzweg - erledigt
+- TOP 11.21: Poller für Versickerungsbecken vervollständigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Ausweitung der Betriebsstunden in der Servicestelle Berliner Straße in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Toilette für Menschen mit komplexer Behinderung in Reinickendorf einrichten - mit Änderungen in der BVV beschlossen
+- TOP 11.24: Fahrradstraße in der Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Endlich durchstarten, Verlängerung der U8 und Anbindung des Tegel Nachfolgequartiers an die U-Bahn - erledigt
+- TOP 11.26: Parkplätze im Märkischen Viertel - erledigt
+- TOP 11.27: Die bestehenden Fahrradwege in Alt-Heiligensee sanieren - erledigt
+- TOP 11.28: Parkplätze in der Veitstraße erhalten - erledigt
+- TOP 11.29: Halteverbot Regenwalder Weg/Stolpmünder Weg - ohne Änderungen in der BVV beschlossen
+- TOP 11.30: Mobilfunkversorgung in Heiligensee - mit Änderungen in der BVV beschlossen
+- TOP 11.31: Ortseingangsschilder für Hermsdorf - mit Änderungen in der BVV beschlossen
+- TOP 11.32: Barrierefreiheit am Falkenplatz in Konradshöhe - ohne Änderungen in der BVV beschlossen
+- TOP 11.33: Beschilderung S-Bhf. Hermsdorf - vertagt
+- TOP 11.34: Barrierefreiheit am S-Bhf. Hermsdorf (I) - ohne Änderungen in der BVV beschlossen
+- TOP 11.35: Fahrbahninstandsetzung der Gabrielenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.36: Steganlagenkonzeption veröffentlichen - vertagt
+- TOP 11.37: Weitere Bänke für die Heiligenseer Gräben - ohne Änderungen in der BVV beschlossen
+- TOP 11.38: Videoüberwachung auf den Stationen - in der BVV zurückgezogen
+- TOP 11.39: Reinigungsklassen überprüfen - überwiesen
+- TOP 11.40: Weitere Sitzbank für die Gorkistraße - mit Änderungen in der BVV beschlossen
+- TOP 11.41: Karrierebus des Landes Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.42: Reinickendorf blüht auf! Mitmach-Kampagne für einen liebenswerten Bezirk starten - ohne Änderungen in der BVV beschlossen
+- TOP 11.43: Grundstück Bernauer Straße 138 mit Mietwohnungen bebauen - ohne Änderungen in der BVV beschlossen
+- TOP 11.44: 60 Jahre Städtepartnerschaft mit Antony rechtzeitig planen - erledigt
+- TOP 11.45: Verlängerung des Aufenthaltes der Kleingartenbesitzer in der Pankower Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.46: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2022 Berichterstatter/in: Bezirksbürgermeisterin Emine Demirbüken-Wegner - ohne Änderungen in der BVV beschlossen
+- TOP 11.47: Öffentliche Widmung der Straßen in der Cite Guynemer nicht ohne Vorleistung - vertagt
+- TOP 11.48: Bevölkerung über Optionen der Organ- und Knochenmarkspende informieren - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Demokratisierung und politische Bildung stärken: Entwicklung eines Planspiels für Partizipation und Kommunalpolitik für Reinickendorfs Jugend - überwiesen
+- TOP 13.2: Ausweisung von Parkplätzen für Schwerbehinderte (Verkehrszeichen 314) - überwiesen
+- TOP 13.3: Siedlung Waldidyll in Tegel-Süd - überwiesen
+- TOP 13.4: Elektromobilität durch reservierte Parkflächen unterstützen - überwiesen
+- TOP 13.5: Gegen das Vergessen: die Stolperstein Deutschland App im Bezirk Reinickendorf bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Trauungen an Samstagen und an besonderen Orten weiter ermöglichen - überwiesen
+- TOP 13.7: Den Weltraum in die Reinickendorfer Schulen holen- Bekanntmachung der mobilen Planetariumskuppel - überwiesen
+- TOP 13.8: Reinickendorfer Einbürgerungsfeier fortführen - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Max Artists in Residenz auch in Reinickendorf - überwiesen
+- TOP 14.2: Landespsychiatriebeirates Berlin - überwiesen
+- TOP 14.3: Radverkehrszählstellen einrichten - überwiesen
+- TOP 14.4: Investitionen für die TXL-Nachnutzung sichern - überwiesen
+- TOP 14.5: "Mietwucher" in Reinickendorf effektiv bekämpfen! - überwiesen
+- TOP 14.6: GEWOBAG-Mieter in Tegel-Süd beim Umgang mit Betriebkostenabrechnungen 2022 unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
