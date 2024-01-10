@@ -1,0 +1,8 @@
+# TOP 9.2: Unterbringung/Wohnsituation Geflüchteter in Reinickendorf
+
+- Sitzung: 27. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2024-01-10)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=58812
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=58812
