@@ -31,9 +31,6 @@
 - [§ 9g Schutz von minderjährigen Personen bei Übermittlungen an ausländische Stellen und an über- oder zwischenstaatliche Stellen](0009g.md)
 - [§ 9h Übermittlung zum Schutz der betroffenen Person](0009h.md)
 
-### Unterabschnitt 5 Gemeinsame Dateien
-
-
 ### Unterabschnitt 2 Datenübermittlung an den Bundenachrichtendienst und Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen durch den Bundesnachrichtendienst
 
 - [§ 10 Übermittlung von personenbezogenen Daten an den Bundesnachrichtendienst](0010.md)
@@ -52,6 +49,9 @@
 - [§ 11e Übermittlung an ausländische öffentliche Stellen und an über- oder zwischenstaatliche Stellen](0011e.md)
 - [§ 11f Übermittlung an nicht öffentliche ausländische Stellen](0011f.md)
 - [§ 11g Übermittlung von personenbezogenen Daten aus einer Vertraulichkeitsbeziehung an ausländische Stellen sowie über- oder zwischenstaatliche Stellen](0011g.md)
+
+### Unterabschnitt 5 Gemeinsame Dateien
+
 - [§ 12 Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen](0012.md)
 - [§ 13 Gemeinsame Dateien mit ausländischen öffentlichen Stellen](0013.md)
 - [§ 14 Führung gemeinsamer Dateien durch den Bundesnachrichtendienst mit ausländischen öffentlichen Stellen](0014.md)

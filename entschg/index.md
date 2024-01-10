@@ -10,8 +10,7 @@ Verbindlichkeiten](0002a.md)
 - [§ 5 Bemessungsgrundlage der Entschädigung für Forderungen
 und Schutzrechte](0005.md)
 - [§ 5a Bemessungsgrundlage der Entschädigung für bewegliche Sachen](0005a.md)
-- [§ 6 Anrechnung einer erhaltenen Gegenleistung oder einer
-Entschädigung](0006.md)
+- [§ 6 Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung](0006.md)
 - [§ 7 Kürzungsbeträge](0007.md)
 - [§ 8 Entschädigung bei Abzug von Lastenausgleich](0008.md)
 - [§ 9 Entschädigungsfonds](0009.md)

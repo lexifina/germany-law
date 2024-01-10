@@ -129,7 +129,6 @@
 - [§ 24 Bundeseinheitliche Übertragungsnetzentgelte](0024.md)
 - [§ 24a Bundeszuschüsse; Festlegungskompetenz](0024a.md)
 - [§ 24b Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten](0024b.md)
-- [§ 24c Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten](0024c.md)
 - [§ 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen](0025.md)
 - [§ 26 Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas](0026.md)
 - [§ 27 Zugang zu den vorgelagerten Rohrleitungsnetzen](0027.md)
