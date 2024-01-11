@@ -8,6 +8,7 @@
 - [§ 5 Härteausgleich, Hilfe bei Wohnsitz im Ausland](0005.md)
 - [§ 6 Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit](0006.md)
 - [§ 7 Beginn, Änderung und Zahlung der Hilfe](0007.md)
+- [§ 7a Bestandsschutz](0007a.md)
 - [§ 8 Anpassung](0008.md)
 - [§ 9 Übergang gesetzlicher Schadensersatzansprüche](0009.md)
 - [§ 10 Kostenträger](0010.md)

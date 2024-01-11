@@ -26,6 +26,8 @@
 - [§ 14 Entwicklungs- und Erprobungsvorhaben](0014.md)
 - [§ 14a Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen](0014a.md)
 - [§ 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577](0014b.md)
+- [§ 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau](0014c.md)
+- [§ 14d Bau von Radwegen an Bundesstraßen](0014d.md)
 
 ### Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung
 
