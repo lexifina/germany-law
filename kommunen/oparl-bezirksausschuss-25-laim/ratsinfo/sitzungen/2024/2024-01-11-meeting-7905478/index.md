@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905478
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905478
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 14.12.23: Anhörung Laimer Faschingstreiben Am Laimer Anger am 10.02.24 (Frist 22.01.24)
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.12.23: Instandsetzung Lokhalle Werk München Landsberger Str. 158, Plangenehmigungsverfahren (Frist 12.01.24)
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.12.23: Beklebung eines Multifunktionsgehäuses (Art Verteilerschränke) mit Informationen rund um das Produkt Glasfaser (nicht werblich), robuste Alu-Dibond-Platten mit Anti-Graffiti-Beschichtung Agricolastr. 2, Grundstück 230/16-Laim (Frist 20.01.24)
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Schaukasten Am Laimer Bahnhof Hier: Zwischennutzung bis Ende 2026 und Schaukastenbetreuung
+- TOP 6.2.: Digitale Informationsveranstaltung zum überarbeiteten Entwurf zu STEP 2040
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Mobilität vom 13.11.23
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 28.11.23
+- TOP 7.3.: Protokoll BA-Sitzung vom 07.12.23
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Büro OB vom 23.11.23: Tram-Westtangente
+- TOP 8.2.: Schreiben Referat für Bildung und Sport vom 20.11.23: Haus für Kinder (KITZ) an der Zschokkestraße/Hans-Thonauer-Straße
+- TOP 8.3.: Schreiben Mobilitätsreferat vom 28.11.23: Verkehrsanordnung Gotthardstraße vom 21.11.23-29.05.24
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 24.11.23: Beschilderung Elsenheimerstr. 6
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 30.11.23: Jahresdrehgenehmigung 2024 "Aktenzeichen XY ... ungelöst"
+- TOP 8.6.: Schreiben Mobilitätsreferat und SWM vom 15.12.23: Fahrplanwechsel 10.12.23, Buslinie 130/157
+- TOP 8.7.: Schreiben Baureferat vom 24.11.23: Da geht noch mehr! Spielplatz Jörgplatz
+- TOP 8.8.: Schreiben Baureferat vom 22.11.23: Komposttoiletten für öffentliche Grünanlagen (BA 20)
+- TOP 8.9.: Schreiben Baureferat vom 30.11.23: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 8.10.: Bautenliste 20.11.23-26.11.23: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Reutterstr. 38
+- TOP 8.11.: Bautenliste 27.11.23-03.12.23: A) Erstantragsverfahren 1. Rappstr. 19
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.12.23: Präsentation Novellierung der Baumschutzverordnung
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.12.23: Agnes-Bernauer-Str. 92-94, Flurnr. 33/2 Vorbescheid
+- TOP 8.14.: Schreiben Sozialreferat vom 28.11.23: Gesamtliste Unterkünfte Stand 30.09.23
+- TOP 8.15.: Schreiben Sozialreferat vom 23.11.23: Information zum geplanten Wohnprojekt Joergstr. 78
+- TOP 8.16.: Schreiben Sozialreferat vom 19.12.23: Zweckentfremdung von Wohnraum, Aindorferstr.
+- TOP 8.17.: Schreiben Sozialreferat vom 18.12.23: AKIM Bericht 2023
+- TOP 8.18.: Schreiben Sozialreferat vom 05.12.23: Ergänzung und Korrekturen Protokoll Nachtspaziergang 13.09.23
+- TOP 8.19.: Schreiben Kreisjugendring vom 28.11.23: Mädchenworkshop zur Vorbereitung der Nachtspaziergänge
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 04.12.23: Auf Silvesterböllerei verzichten
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 04.12.23: Lärmproblematik - Café Burgkmairstr.
+- TOP 8.22.: Schreiben Referat für Klima- und Umweltschutz vom 28.11.23: Ausnahmezulassung Reinigungsarbeiten Münchner U-Bahnhöfe
+- TOP 8.23.: Schreiben Referat für Klima- und Umweltschutz vom 04.12.23 Ausnahmezulassungen von Geräten und Maschinen im Rahmen für Reinigungsarbeiten im Auftrag der SWM (U-Bahnhöfe und Oberfläche
+- TOP 8.24.: Schreiben Referat für Klima- und Umweltschutz vom 05.12.23: Ausnahmezulassungen für den Betrieb von Geräten und Maschinen im Rahmen von Reinigungsarbeiten im Auftrag der SWM (U-Bahnhöfe)
+- TOP 8.25.: Schreiben Referat für Klima- und Umweltschutz vom 30.11.23: Taubenfütterung U-Bahnstation Westendstraße
+- TOP 8.26.: Schreiben Referat für Klima und Umweltschutz vom 13.12.23: Ausnahmezulassung 2024 für Einsatz Müllsammelfahrzeuge
+- TOP 8.27.: Schreiben Direktorium vom Dezember 2023: Verwendungsnachweise
+- TOP 8.28.: Schreiben Stadtwerke München vom 04.12.23: Baumaßnahmen
+- TOP 8.29.: Schreiben Stadtwerke München vom 18.12.23: Baumaßnahmen
+- TOP 8.30.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.31.: Beschluss des Bauausschusses vom 05.12.23: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 8.32.: Beschluss des Bauausschusses vom 05.12.23: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 8.33.: Beschluss des Bauausschusses vom 05.12.23: (U) Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing im 21. Stadtbezirk Pasing - Obermenzing und im 25. Stadtbezirk Laim Rohbauarbeiten Baulos 2 Ausführungsgenehmigung Eröffnung U-Bahnhof an der Willibaldstraße BA-Antrag Nr. 20-26 / B 05985 des Bezirksausschusses des Stadtbezirkes 25 Laim vom 12.10.2023
+- TOP 8.34.: Beschluss der Vollversammlung des Stadtrates vom 29.11.23: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 8.35.: Beschluss des Mobilitätsausschusses vom 13.12.23: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 8.39.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Entwurf des Mehrjahresinvestitionsprogramms 2023 – 2027 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.40.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 8.41.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 8.42.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 8.43.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.44.: Beschluss des Bildungsausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 06.12.23: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 8.45.: Beschluss des Bildungsausschusses und des Sportausschusses des Stadtrates in der gemeinsamen Sitzung vom 06.12.23: Mehrjahresinvestitionsprogramm (MIP) 2023 - 2027 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.46.: Beschluss der Vollversammlung des Stadtrates vom 29.11.23: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 8.47.: Kurzübersicht zum Beschluss des Kommunalausschusses vom 07.12.23: (U) Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 8.48.: Beschluss des Ausschusses für Klima- und Umweltschutz vom 12.12.23: Haushalt 2024 des Referates für Klima- und Umweltschutz • Aufstellung des produktorientierten Haushalts 2024 • Produkte • Ziele • Umsetzung der Konsolidierung • Einplanung der Inflations- und Tarifsteigerungen • Teilergebnis- und Teilfinanzhaushalt • Investitionen (Mehrjahresinvestitionsplanung) • Beantwortung der Fragen des BA 20 und BA 21
+- TOP 8.49.: Beschluss der Vollversammlung des Stadtrates vom 29.11.23: Sportbauprogramm - Sachstandsbericht 2023 A Ausgangslage - Inhalt und Umfang des Sportbauprogramms B Bericht zum Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den laufenden Projekten des 2., 3. Maßnahmenpakets un zum 4. Maßnahmenpaket 3. Evaluierung der Maßnahmenprojekte 4. Fortschreibung des Standardraumprogramms für die städtischen Freisportanlagen C Bericht zum Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung D Bericht zum Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung E Personal- und Sachmittelbedarfe der beteiligten Dienststellen 1. Personal- und Sachmittelbedarfe im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarfe im Baureferat F Anträge und Empfehlungen G Beteiligungen und Anhörungen
+- TOP 8.50.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 8.51.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 8.52.: Beschluss des Gesundheitsausschusses vom 14.12.23: Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 8.53.: Beschluss des Mobilitätsausschusses vom 13.12.23: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 8.54.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Mobilitätsstrategie 2035 Teilstrategie Digitalisierung – Erste Stufe Grundsatzbeschluss Digitalisierung im Mobilitäts- und Verkehrssektor Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre ab 2024
+- TOP 8.55.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Tram-Westtangente (Beantwortung durch Vorstand)
+- TOP 9.2.: Konzept LHM-Grünpaten-Förderung (Vertagung in den UA Umwelt, Klima und Baumschutz)
+- TOP 2.1.: Beschilderung verbessern
+- TOP 2.2.: Einen Pflegestützpunkt für Laim
+- TOP 2.3.: Außensprechstunde des ASZ
