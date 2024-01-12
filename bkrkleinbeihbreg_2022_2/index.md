@@ -1,1 +1,0 @@
-# Regelung zur vorübergehenden Gewährung geringfügiger Beihilfen im Geltungsbereich der Bundesrepublik Deutschlandauf der Grundlage des Befristeten Krisenrahmens (BKR) der Europäischen Kommission für staatliche Beihilfen zur Stützung der Wirtschaft infolge der Aggression Russlands gegen die Ukraine
