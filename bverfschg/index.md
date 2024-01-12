@@ -50,11 +50,11 @@
 - [§ 25d Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen](0025d.md)
 - [§ 26 Nachberichtspflicht](0026.md)
 - [§ 26a Übermittlung durch Landesverfassungsschutzbehörden an Strafverfolgungs- und Sicherheitsbehörden](0026a.md)
-- [§ 26b Besondere Eigensicherungsbefugnisse](0026b.md)
-- [§ 26c Verfahren; Kernbereichsschutz](0026c.md)
 
 ## Vierter Abschnitt Schlußvorschriften
 
+- [§ 26b Besondere Eigensicherungsbefugnisse](0026b.md)
+- [§ 26c Verfahren; Kernbereichsschutz](0026c.md)
 - [§ 27 Anwendung des Bundesdatenschutzgesetzes](0027.md)
 - [§ 28 Unabhängige Datenschutzkontrolle](0028.md)
 - [§ 29 Einschränkung von Grundrechten](0029.md)
