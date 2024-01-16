@@ -14,6 +14,6 @@
 - [§ 10 Kostenträger](0010.md)
 - [§ 11 Zuständigkeit, Verfahren](0011.md)
 - [§ 12 Rechtsweg](0012.md)
-- [§ 13 Übergangsvorschriften](0013.md)
+- [§ 13 Besitzstände](0013.md)
 - [(XXXX) §§ 14 und 15 (weggefallen)](xxxx-14-und-15.md)
 - [§ 16 Inkrafttreten](0016.md)
