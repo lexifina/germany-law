@@ -1,0 +1,7 @@
+# Eingangsformel
+
+Auf Grund
+– des § 48a Absatz 1 und 1a in Verbindung mit § 48b Satz 1 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274) verordnet die Bundesregierung unter Berücksichtigung des Beschlusses des Bundestages vom 6. Juli 2023,
+– des § 7 Absatz 1 Satz 1 Nummer 1, 3 und 4, Absatz 1a bis 3, des § 23 Absatz 1 Satz 1 Nummer 1, 3 und 4 des Bundes-Immissionsschutzgesetzes, von denen § 7 Absatz 1 Satz 1 Nummer 4 durch Artikel 10 Nummer 1 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146), § 23 Absatz 1 Satz 1 durch Artikel 1 Nummer 9 des Gesetzes vom 30. November 2016 (BGBl. I S. 2749) geändert worden ist, verordnet die Bundesregierung nach Anhörung der beteiligten Kreise,
+– des § 7 Absatz 1 Satz 1 Nummer 2 und des § 23 Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 48b Satz 1 des Bundes-Immissionsschutzgesetzes, von denen § 23 Absatz 1 Satz 1 durch Artikel 1 Nummer 9 des Gesetzes vom 30. November 2016 (BGBl. I S. 2749) geändert worden ist, verordnet die Bundesregierung nach Anhörung der beteiligten Kreise und unter Berücksichtigung des Beschlusses des Bundestages vom 6. Juli 2023, sowie
+– des § 7 Absatz 4 und 5, des § 27 Absatz 4 Satz 1 und 3, des § 37 Satz 1, des § 48a Absatz 3 und des § 58e des Bundes-Immissionsschutzgesetzes, von denen § 27 Absatz 4 Satz 3 zuletzt durch Artikel 103 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, verordnet die Bundesregierung:

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 14 Absatz 3 Satz 1, 3 und 4 in Verbindung mit § 24 Absatz 1 Satz 3 des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990) in Verbindung mit § 1d Nummer 2 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, von denen § 1d Nummer 2 durch Artikel 1 der Verordnung vom 26. Juni 2021 (BGBl. I S. 2027) eingefügt worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Wertpapierinstitute:
