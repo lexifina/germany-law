@@ -38,7 +38,6 @@ vereinfachtes Verfahren
 | § 12 | Vorhaben- und Erschließungsplan |
 | § 13 | Vereinfachtes Verfahren |
 | § 13a | Bebauungspläne der Innenentwicklung |
-| § 13b | (weggefallen) |
 Zweiter Teil
 Sicherung der Bauleitplanung
 Erster Abschnitt

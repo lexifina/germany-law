@@ -14,5 +14,3 @@
 - [§ 11 Übergangsvorschriften](0011.md)
 - [§ 11a Anwendungsvorschrift](0011a.md)
 - [§ 12 Bericht](0012.md)
-- [§ 12a (Gegenstandslose Übergangsvorschrift)](0012a.md)
-- [§ 13 (weggefallen)](0013.md)
