@@ -1,0 +1,63 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-16T15:00:00+01:00
+- Ende: 2024-01-16T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29620
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29620
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage aus der Sitzung des Integrationsrates vom 25.10.2023 (AN/1911/2023) betreffend "Aktivitäten zum 20. Jahrestag des Nagelbombenanschlages in der Keupstraße" - Kenntnis genommen
+- TOP -: Anfrage zu 20. Jahrestag Nagelbombenanschlag in der Keupstraße
+- TOP 3.2: Beantwortung der schriftlichen Anfrage einer SPD Fraktion vom 30.08.2023 zum Thema "Arbeitsmarktintegration und Bleiberechte von geflüchteten Frauen" (AN/1547/2023) - Kenntnis genommen
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage des Integrationsratsmitgliedes Turan Özkücük aus der Sitzung des Integrationsrates vom 14.11.2023 (AN 1912/2023) betreffend "Bonitätsprüfung-Verpflichtungserklärungen" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Anfrage zu Bonitätsprüfung im Ausländeramt
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage des Integrationsratsmitgliedes Gönul Topuz aus der Sitzung des Integrationsrates vom 14.11.2023 (AN 1913/2023) betreffend "Novellierung des Staatsangehörigkeitsgesetzes" - Kenntnis genommen
+- TOP -: Anfrage zu Mehrstaatigkeit, Einbürgerungsanträge während der Novellierung des Staatsangehörigkeitsgesetzes
+- TOP 3.5: Beantwortung einer schriftlichen Anfrage von Dr. John Akude, Carine Weber, Luziano Gonzalez Tejon vom 05.09.2023 (AN/1644/2023) betreffend „WLAN am Wohnheim für Geflüchtete Poller Holzweg“ - Kenntnis genommen
+- TOP -: Anfrage zu WLAN am Wohnheim für Geflüchtete Poller Holzweg
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgsstraße - zurückgestellt
+- TOP 4.2: Anfrage zum Positionspapier der Interkulturellen Zentren zu Bedarfen von älteren Menschen mit internationaler Familiengeschichte - zurückgestellt
+- TOP 4.3: Anfrage zu den Anträgen der Kölner Bürger*innen (Erziehungsberechtigten) mit internationaler Familiengeschichte für die Einrichtung eines neuen Standortes für den Herkunftssprachlichen Unterrichtes - zurückgestellt
+- TOP 4.4: Anfrage der GOL zum Thema "Sicherheitsdienst für Unterkünfte für Schutzsuchende" - zurückgestellt
+- TOP 4.5: Anfrage der GOL zum Thema "Besetzung der Co-Direktion im Rautenstrauch-Joest-Museum (RJM)" - zurückgestellt
+- TOP 4.6: Anfrage der GOL zum Thema "NSU Mahnmal Keupstraße" - zurückgestellt
+- TOP 4.7: Anfrage der GOL zum Thema "Senior*innenNetzwerke / Offene Altenarbeit" - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Rückständige Nutzungsgebühren bei untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 5.2: Mitteilung zur Beschlussvorlage Nr. 2929/2023 "Mehrsprachiges Vermittlungsangebot des Museumsdienstes (Umsetzung Kulturentwicklungsplanung)" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 5.4: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Straße in Köln-Gremberg durch einen Totalunternehmer (0934/2023) – Mitteilung über die Beschlussfassung des Rates - Kenntnis genommen
+- TOP 5.5: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.6: Mindeststandards zur Betreuung Geflüchteter – Fortführung der Maßnahmen bis 31.12.2024 nach Beschluss durch den Rat der Stadt Köln - Kenntnis genommen
+- TOP 5.7: Mehrsprachige Veranstaltungsreihe zu Gesundheitsthemen für Senior*innen mit internationaler Familiengeschichte durch die Interkulturellen Zentren der Stadt Köln - Kenntnis genommen
+- TOP 5.8: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 5.9: Neuauflage der Broschüre „Wegweiser Wohnen in Köln" - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag der GOL für eine Zusatzerklärung für unter das Gaststättengesetz fallenden Betriebe - zurückgestellt
+- TOP 6.2: Antrag der FDP auf stadtweite Einbürgerungsfeiern - zurückgestellt
+- TOP 6.3: Antrag des FachAK 3 auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - zurückgestellt
+- TOP 6.4: Antrag der GOL auf eine Verlängerung des Expert*innenbeirats zum (Post)kolonialen Erbe der Stadt Köln um die Dauer der aktuellen Legislaturperiode - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Errichtung eines Wohngebäudes zur Unterbringung Geflüchteter an der Gießener Str. durch einen Totalunternehmer - ungeändert beschlossen
+- TOP 8.2: Aufwandsneutrale Gewährung von Sachkosten für das Case Management des Kommunalen Integrationsmanagements (KIM) - ungeändert beschlossen
+- TOP 8.3: Verteilung der Fördermittel 2024 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 8.4: Leitbild für kulturelle Teilhabe in Vielfalt - ungeändert beschlossen
+- TOP 8.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Trierer Str. o. Nr., 50674 Köln-Neustadt/Süd - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 8.6: Freigabe und Verteilung der Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2024 - ungeändert beschlossen
+- TOP 8.7: Freigabe und Verteilung rassismuskritischer Projektmittel 2024- 1. Schritt - zurückgestellt
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
