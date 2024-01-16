@@ -1,0 +1,161 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951544
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951544
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 2.4.1.: STEP 2040 - Einladung zur digitalen Informationsveranstaltung zum überarbeiteten Entwurf
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Initiative „Kindergarten St. Helena“ „Klettergerüst für den kath. Kindergarten St. Helena München-Giesing vom 01.02.2024 – 31.05.2024“ 10.691,30 € / AZ: 0262.0-18-0369
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative „Gedenkbuch“ "Gedenkbuch für die Opfer der Shoah aus Giesing und Harlaching 1933-1945 vom 28.12.2023 – 31.07.2024“ 6.000,00 € / AZ: 0262.0-18-0367
+- TOP 3.1.2.3.: Einsatz von Dialog-Displays für das Gebiet des Stadtbezirks Untergiesing-Harlaching – im ersten Schritt in der Schönstraße 76 bzw. 99
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise
+- TOP 3.1.6.2.: Haushaltsbeschluss 2024; Stadtbezirksbudgets 2024
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Modernisierungsmaßnahmen Bezirksportanlagen in München (Antrag der SPD-Fraktion)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Gottesdienst am 24.12.2023 auf der Grünanlage Rosengarten (Sachsenstraße) - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.2.: Ausnahmegenehmigung zum 1860 Fan-Treffen am Candidplatz - Saison 23/24 (Eilentscheidung des BA-Vorstands da Fristsetzung bis 15.01.2024)
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Antrag für Fahrrad-Abstellplätze in der Voßstraße; Bürgeranliegen
+- TOP 3.3.3.2.: U-Bahn in Harlaching
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Am Hollerbusch; Aufstellen von Abweisblenden zur Unterbindung des Parkens auf dem Seitenstreifen
+- TOP 3.3.4.2.: Abschluss Sommerstraße 2023 und Aufruf für 2024
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Unfallschwerpunkt Kreuzung Bruckenfischerstraße/Weyarner Straße
+- TOP 3.3.5.2.: Sanierung der Wände im U-Bahnhof Candidplatz.
+- TOP 3.3.5.3.: Instandsetzung des Radwegs in der Oberbiberger Straße
+- TOP 3.3.5.4.: Zwischennachrichten der Referate zu BA-Anträgen aus dem Bereich Mobilität
+- TOP 3.3.5.5.: Errichtung einer Kurzparkzone/Behindertenparkplatz Grünwalder Straße 190 (Antrag der SPD-Fraktion)
+- TOP 3.3.5.6.: Installation eines Fahrradstellplatzes am Tierpark, Flamingoeingang
+- TOP 3.3.5.7.: Fortführung des Vorhabens zur Umgestaltung und Aufwertung des Tegernseer Platzes im Stadtbezirk 17
+- TOP 3.3.5.8.: Stau durch Fahrradspur auf der Martin-Luther-Straße/Ichostraße
+- TOP 3.3.5.9.: Radweg Oberbiberger Str. - Bürgeranliegen
+- TOP 3.3.5.10.: Antwortschreiben zu Bürger*innen-Anliegen "Verkehrssituation während erhöhtem Schneefall"
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Oberbiberger Straße: Absolutes Halteverbot (Z. 283 StVO)
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Konzept für die Grünpaten-Förderung der LHM; Bürgeranliegen
+- TOP 3.4.3.2.: Regelmäßigere Straßenreinigung am Wettersteinplatz / Säbener Straße; Bürgeranliegen
+- TOP 3.4.3.3.: Mülltonnenproblematik am Mangfallplatz 8; Bürgeranliegen
+- TOP 3.4.3.4.: Straßenreinigung vor der Emmauskirche und Baumpflanzungen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Albrecht-Dürer-Str. 3 - Fritz-Lange-Str. 5 - Lindenstr. 30 - Portiastr. 8 - Säbener Str. 218 - Tierparkstr. 30
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Erreichbarkeit der Wertstoffinseln im Umfeld des Neubaugebietes Living Isar (Hellabrunner Straße)
+- TOP 3.4.5.2.: Müllproblematik in der Reichenhaller Straße
+- TOP 3.4.5.3.: Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Ausnahmezulassungen gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.6.2.: Lärm und Umweltverschmutzung am Flaucher und an den Isarauen
+- TOP 3.4.6.3.: Baumfällung in der Bruggspergerstr. 48
+- TOP 3.4.6.4.: Baumfällung in der Alois-Wohlmuth-Str. 3
+- TOP 3.4.6.5.: Baumfällung in der Naupliastr. 35
+- TOP 3.4.6.6.: Baumfällung in der Konradinstr. 8
+- TOP 3.4.6.7.: Baumfällung in der Tierparkstr. 30
+- TOP 3.4.6.8.: Baumfällung in der Humboldtstr. 2a
+- TOP 3.4.6.9.: Baumfällung in der Naupliastr. 41a-43
+- TOP 3.4.6.10.: Baumfällung in der Naupliastr. 21
+- TOP 3.4.6.11.: Baumfällung in der Methfesselstr. 2
+- TOP 3.4.6.12.: Baumfällung in der Autharistraße
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Obdachlose in Container für Jugendliche am Skatepark Candidplatz; Bürgeranliegen
+- TOP 3.5.3.2.: Pfadfinderstamm Pegasus sucht neues Zuhause; Bürgeranliegen
+- TOP 3.5.3.3.: Verbesserung der Situation um die öffentlichen WCs am Wettersteinplatz
+- TOP 3.5.3.4.: Angebote für Jugendliche in Harlaching
+- TOP 3.5.3.5.: Aufstellung eines Abholschrankes am Hans-Mielich-Platz
+- TOP 3.5.3.6.: Dringlichkeitsantrag zur Schließung des EDEKA in der Säbener Str. 21; SPD-Antrag
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Lärmbelästigungen am Wettersteinplatz
+- TOP 3.5.5.2.: Instandsetzung der Bank vor dem Caritas Altenheim St. Franziskus
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Unterstützung des Kiosks Isarwahn; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Hochkalterstraße: Neubau eines Mehrfamilienhauses mit TG - GENEHMIGUNGSVERLÄNGERUNG
+- TOP 3.6.4.1.2.: Candidplatz 11: Aufstockung der Bestandsgebäude Nr. 11 und 13 in Holz-Hybridbauweise zur Nutzung als Sonderwohnform Azubi- und Studentenwohnen - VORBESCHEID
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Prüfung der Denkmaleigenschaft bzw. des Ensembleschutzes in der Schönchenstraße
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: An alle Bezirksausschüsse: Anhörung zu BA-Antrag Nr. 20-26 / B03393 MVG-Zeitkarten für BA-Mitglieder
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel - Freiheit für alle politischen Gefangen
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.5.6.1.: Antrag auf unveränderte Fortführung der Gaststätte "Roody"
