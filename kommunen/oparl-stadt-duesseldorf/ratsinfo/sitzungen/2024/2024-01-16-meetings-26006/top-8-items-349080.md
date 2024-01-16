@@ -1,0 +1,6 @@
+# TOP 8: Mündlicher Sachstandsbericht: Digitale Schulanmeldung
+
+- Sitzung: Schulausschuss (2024-01-16)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/349080
