@@ -1,0 +1,7 @@
+# TOP 1: Feststellung der Beschlussfähigkeit
+
+- Sitzung: Ordnungs- und Verkehrsausschuss (2024-01-17)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/348821
+- Ergebnis: einstimmig beschlossen
