@@ -1,0 +1,60 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-01-17T17:00:00+01:00
+- Ende: 2024-01-17T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4713
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4713
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Einwohneranträge - erledigt
+- TOP 3.1: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 3.1.1: Den Blumenkiez nach Fertigstellung der Moltkebrücke wieder lebenswerter und attraktiver machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: „Böllerverbot" und Präventionsarbeit mit Jugendlichen - beantwortet
+- TOP 4.2: Stellenbesetzung Wohnungsamt - beantwortet
+- TOP 4.3: Systemstörungen im Bürgeramt - beantwortet
+- TOP 4.4: Flüchtlingsunterbringung in Heckeshorn - schriftlich beantwortet
+- TOP 4.5: Wackelt der Baustart in Lichterfelde-Süd? - schriftlich beantwortet
+- TOP 4.6: Ausfall von Heizungsanlagen an bezirklichen Schulen - schriftlich beantwortet
+- TOP 4.7: Verkehrsblockade Schönower Straße in Zehlendorf - schriftlich beantwortet
+- TOP 4.8: Auswirkungen von Softwarepannen auf Wahl - zurückgezogen
+- TOP 4.9: Wie steht es um die Erstellung eines digitalen Flächenkatasters? - schriftlich beantwortet
+- TOP 4.10: Stand Schuldächer mit PV-Anlagen ausstatten - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Aufzug an der Rönnebypromenade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Die notwendigen Klimaziele im Bezirk erreichen: Einen eigenständigen Klimaausschuss unter Einbeziehung der Einwohner*innen und des gesamten Bezirksamtes einrichten - in der BVV abgelehnt
+- TOP 5.3: Flyer über die BVV erstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Erweiterte Spielplatzformen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Instandsetzung Prausestraße - überwiesen
+- TOP 6.3: Gehweg Trippsteinstraße - überwiesen
+- TOP 6.4: Gedenken an Franz Kafka zum 100. Todestag am 3. Juni 2024 - überwiesen
+- TOP 6.5: Start des Wohnungsbaus in Lichterfelde-Süd muss gesichert sein - überwiesen
+- TOP 6.6: FU: Übungsleiter für Sportvereine gewinnen - überwiesen
+- TOP 6.7: Eine CO2-Ampel für die BVV - überwiesen
+- TOP 6.8: Nora Schimming in die Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 6.9: Angemessene Jugendbeteiligung beim ISEK Zehlendorf-Mitte - überwiesen
+- TOP 6.10: Straßensozialarbeit für Steglitz-Zehlendorf - überwiesen
+- TOP 6.11: Regelmäßiger Bericht über die Stellensituation im Bezirksamt - überwiesen
+- TOP 6.12: Fußgängerüberweg Mühlenstraße/Jänickestraße - überwiesen
+- TOP 6.13: Sundgauer Straße – Tempo 30 - überwiesen
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 7.1: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Nach Worten nun Taten - Frauenbeirat endlich ins Leben rufen - in der BVV abgelehnt
+- TOP 7.1.2: Volle Transparenz herstellen - Videos der BVV-Sitzungen für alle Bürger*innen online stellen - in der BVV abgelehnt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Insolvent und wohnungslos durch Heizkostenfalle? - beantwortet
+- TOP 8.2: Brand im Geisterhaus Weddigenweg in der Nacht von Samstag auf Sonntag - beantwortet
