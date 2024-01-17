@@ -2,13 +2,14 @@
 
 I. Untersuchungen mit ionisierender Strahlung und radioaktiven Stoffen – ohne Interventionen – mit Ausnahme von Untersuchungen mittels konventioneller Projektionsradiographie und mittels digitaler Volumentomographie der Zähne und des Kiefers
   1) Bezogen auf eine Gruppe von Personen
-    Jede Überschreitung des Mittelwertes über die letzten 20 aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart um mehr als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen Untersuchung um 200 Prozent überschritten wurde.
+    Jede Überschreitung des Mittelwertes über die letzten 20 aufeinanderfolgenden Untersuchungen gleicher Untersuchungsart am selben Gerät um mehr als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen Untersuchung um 200 Prozent überschritten wurde.
   2) Bezogen auf eine einzelne Person
     a) Jede Überschreitung des volumenbezogenen Computertomographie-Dosisindex einer computertomographischen Anwendung am Gehirn von 120 Milligray und einer sonstigen computertomographischen Anwendung am Körper von 80 Milligray sowie jede Überschreitung des Gesamt-Dosisflächenproduktes einer Röntgendurchleuchtung von 20 000 Zentigray mal Quadratzentimeter. Für Anwendungen mit Geräten zur digitalen Volumentomographie gilt der zuerst überschrittene Wert von Computertomographie oder Durchleuchtung.
       Jede durch radioaktive Stoffe verursachte Überschreitung der vorgesehenen effektiven Dosis um mehr als 20 Millisievert oder einer Organdosis um mehr als 100 Millisievert bei einer einzelnen Untersuchung; zur Überprüfung der Einhaltung dieser Werte kann der Strahlenschutzverantwortliche die vom Bundesamt für Strahlenschutz veröffentlichten Aktionsschwellen für Aktivitäten in Megabecquerel für Untersuchungen mit radioaktiven Stoffen heranziehen.
     b) Jede Wiederholung einer Anwendung, insbesondere auf Grund einer Körperteilverwechslung, eines Einstellungsfehlers oder eines vorausgegangenen Gerätedefekts, wenn für die daraus resultierende gesamte zusätzliche Exposition das Kriterium nach Buchstabe a erfüllt ist.
     c) Jede Personenverwechslung, wenn für die daraus resultierende gesamte zusätzliche Exposition das Kriterium nach Buchstabe a erfüllt ist.
     d) Jedes Auftreten einer deterministischen Wirkung, die für die festgelegte Untersuchung nicht zu erwarten war.
+    e) Jede Verwechslung des radioaktiven Stoffs, wenn für die daraus resultierende gesamte zusätzliche Exposition das Kriterium nach Buchstabe a erfüllt ist.
 II. Interventionen
   1) Bezogen auf eine Gruppe von Personen
     Jede Überschreitung des Mittelwertes über die letzten 20 aufeinanderfolgenden Interventionen gleicher Untersuchungsart um mehr als 100 Prozent des jeweiligen diagnostischen Referenzwertes, sobald der diagnostische Referenzwert einer einzelnen Untersuchung um 200 Prozent überschritten wurde.

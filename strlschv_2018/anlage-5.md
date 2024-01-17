@@ -1,16 +1,17 @@
 # Anlage 5 (zu § 27 und Anlage 7)Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen
 
-1. Bei der Verwertung oder Beseitigung von Rückständen gilt für repräsentativ ermittelte Werte CU238max und CTh232max der größten spezifischen Aktivitäten der Radionuklide der Nuklidketten U-238sec und Th-232sec in Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende Summenformel:
+1. Bei der Verwertung oder Beseitigung von Rückständen gilt für repräsentativ ermittelte Werte CU238max und CTh232max der größten spezifischen Aktivitäten der Radionuklide der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe in Becquerel durch Gramm (Bq/g), jeweils bezogen auf Trockenmasse, die folgende Summenformel:
   CU238max + CTh232max≤ C mit der Überwachungsgrenze C = 1 Bq/g.
+  Für Stoffe, für die keine Trockenmasse bestimmt werden kann, insbesondere für Öle, ist ein geeignetes Verfahren zur Bestimmung der spezifischen Aktivitäten anzuwenden.
 2. Abweichend von Nummer 1 gilt CU238max + CTh232max≤ 0,5 Bq/g, wenn
-  a) im Einzugsbereich eines nutzbaren Grundwasserleiters im Kalenderjahr mehr als 5 000 Tonnen Rückstände deponiert werden oder
+  a) im Einzugsbereich eines nutzbaren Grundwasserleiters im Kalenderjahr mehr als 5 000 Megagramm Rückstände deponiert werden oder
   b) bei Baustoffen bei der Verwertung im Straßen-, Wege-, Landschafts- oder Wasserbau im Bereich von Sport- und Spielplätzen oder in sonstigen Bereichen mehr als 50 Prozent Rückstände zugesetzt werden.
   Satz 1 gilt nicht für die Verwertung von Schlacken im Straßen-, Wege-, Landschafts- oder Wasserbau in sonstigen Bereichen.
 3. Abweichend von Nummer 1 gilt CU238max + CTh232max≤ 5 Bq/g bei der untertägigen Verwertung oder Deponierung von Rückständen.
-4. Ist die größte spezifische Aktivität der Radionuklide des Pb-210+ gegenüber der größten spezifischen Aktivität der übrigen Radionuklide der U-238sec-Nuklidkette um einen Faktor A größer 5 erhöht, so gilt abweichend von den Nummern 1 bis 3: R ∙ CU238max + CTh232max≤ C. Der Faktor R nimmt bei der übertägigen Verwertung oder Beseitigung den Wert 0,5 an. Für die untertägige Verwertung oder Beseitigung ist der Faktor R aus der folgenden Tabelle zu entnehmen.
+4. Ist die größte spezifische Aktivität der Radionuklide des Pb-210 und seiner relevanten Folgeprodukte Bi-210 und Po-210 gegenüber der größten spezifischen Aktivität der übrigen Radionuklide der U-238-Zerfallsreihe um einen Faktor A größer 5 erhöht, so gilt abweichend von den Nummern 1 bis 3: R ∙ CU238max + CTh232max≤ C. Der Faktor R nimmt bei der übertägigen Verwertung oder Beseitigung den Wert 0,5 an. Für die untertägige Verwertung oder Beseitigung ist der Faktor R aus der folgenden Tabelle zu entnehmen.
   | Faktor A | Faktor R |
   | 5 < A ≤ 10 | 0,3 |
   | 10 < A ≤ 20 | 0,2 |
   | 20 < A | 0,1 |
 5. Abweichend von den Nummern 1 und 2 gelten die Bedingungen CU238max≤ 0,2 Bq/g und CTh232max≤ 0,2 Bq/g, wenn bei der Deponierung oder Verwertung im Straßen-, Wege- oder Landschaftsbau, auch im Bereich von Sport- und Spielplätzen, im Einzugsbereich eines nutzbaren Grundwasserleiters eine Fläche von mehr als 1 Hektar mit Nebengestein belegt wird.
-Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der Nuklidkette U-238sec berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid einer der Nuklidketten U-238sec oder Th-232sec unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
+Expositionen durch Radionuklide der U-235-Zerfallsreihe sind in der U-238-Zerfallsreihe berücksichtigt und müssen nicht gesondert betrachtet werden. Liegt zudem die spezifische Aktivität für jedes Radionuklid der U-238-Zerfallsreihe oder der Th-232-Zerfallsreihe unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.

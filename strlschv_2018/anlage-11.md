@@ -117,7 +117,7 @@ Tochternuklide sind zu berücksichtigen.
   1.1 Inhalation
     Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Luft darf
     1.1.1 für Fortluftströme Q ≤ 10⁴ m³ h-¹ nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 2 oder Tabelle 8 Spalte 2 oder
-    1.1.2 für Fortluftströme 10⁴ m³ h-¹< Q ≤ 10⁵ m³ h-¹ nicht höher sein als die jeweiligen Werte der Spalte 2 der Tabellen 4 oder 6;
+    1.1.2 für Fortluftströme 10⁴ m³ h-¹< Q ≤ 10⁵ m³ h-¹ nicht höher sein als die jeweiligen Werte der Spalte 2 der Tabellen 6 oder 8;
   1.2 Submersion
     Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Luft darf
     1.2.1 für Fortluftströme Q ≤ 10⁴ m³ h-¹ nicht höher sein als das Zehnfache der Werte der Tabelle 7 Spalte 2 oder
@@ -126,7 +126,7 @@ Tochternuklide sind zu berücksichtigen.
   2.1 Ingestion
     Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Wasser darf
     2.1.1 für Abwassermengen ≤ 10⁵ m³ a-¹ nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4 oder
-    2.1.2 für Abwassermengen > 10⁵ m³ a-¹ nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
+    2.1.2 für Abwassermengen 10⁵ m³ a-¹< Q ≤ 10⁶ m³ a-¹ nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
 Tabelle 6
 Aktivitätskonzentration Ci aus Strahlenschutzbereichen
 (zu Teil D Nummer 1.1 und 2)

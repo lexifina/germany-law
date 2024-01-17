@@ -21,6 +21,7 @@ und Anzeigebedürftigkeit
 einer Tätigkeit; Ausnahmen
 von Genehmigungsvoraussetzungen
 | § 5 | Genehmigungsfreier Umgang |
+| § 5a | Genehmigungsfreier Zusatz radioaktiver Stoffe |
 | § 6 | Genehmigungsfreier Besitz von Kernbrennstoffen |
 | § 7 | Genehmigungs- und anzeigefreier Betrieb von Anlagen zur Erzeugung ionisierender Strahlung |
 | § 8 | Genehmigungsfreier Betrieb von Störstrahlern |
@@ -63,7 +64,7 @@ Freigabe
 | § 36 | Spezifische Freigabe |
 | § 37 | Freigabe im Einzelfall |
 | § 38 | Freigabe von Amts wegen |
-| § 39 | Einvernehmen bei der spezifischen Freigabe zur Beseitigung |
+| § 39 | Einvernehmen bei der spezifischen Freigabe zur Beseitigung und bei der spezifischen Freigabe von Metallschrott zum Recycling |
 | § 40 | Abfallrechtlicher Verwertungs- und Beseitigungsweg |
 | § 41 | Festlegung des Verfahrens |
 | § 42 | Pflichten des Inhabers einer Freigabe |
@@ -177,7 +178,7 @@ oder radioaktiver Stoffe am Menschen
 Unterabschnitt 1
 Technische Anforderungen
 | § 114 | Anforderungen an die Ausrüstung bei der Anwendung am Menschen |
-| § 115 | Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung |
+| § 115 | Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung; Bezugswertfestlegung |
 | § 116 | Konstanzprüfung |
 | § 117 | Aufzeichnungen |
 | § 118 | Bestandsverzeichnis |
@@ -191,7 +192,7 @@ Zusammenhang mit der Anwendung am Menschen
 | § 123 | Anforderungen im Zusammenhang mit dem Betrieb einer Röntgeneinrichtung zur Teleradiologie |
 | § 124 | Informationspflichten |
 | § 125 | Diagnostische Referenzwerte; Bevölkerungsdosis |
-| § 126 | Risikoanalyse vor Strahlenbehandlungen |
+| § 126 | Risikobeurteilung vor Strahlenbehandlungen |
 | § 127 | Aufbewahrung, Weitergabe und Übermittlung von Aufzeichnungen, Röntgenbildern, digitalen Bilddaten und sonstigen Untersuchungsdaten |
 | § 128 | Bestimmung von ärztlichen und zahnärztlichen Stellen zur Qualitätssicherung |
 | § 129 | Mitteilung der Aufnahme und Beendigung einer Tätigkeit an eine ärztliche oder zahnärztliche Stelle |
@@ -257,7 +258,7 @@ Schutz vor Radioaktivität in Bauprodukten
 | § 159 | Ermittlung der spezifischen Aktivität |
 Kapitel 3
 Radioaktive Altlasten
-| § 160 | Ermittlung der Exposition der Bevölkerung |
+| § 160 | Ermittlung der Exposition |
 | § 161 | Prüfwerte bei radioaktiven Altlasten und bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus |
 | § 162 | Emissions- und Immissionsüberwachung bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus |
 | § 163 | Grundsätze für die Optimierung von Sanierungsmaßnahmen |

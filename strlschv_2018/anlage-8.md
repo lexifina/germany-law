@@ -1,4 +1,4 @@
-# Anlage 8 (zu den §§ 35, 36, 37 sowie Anlage 4)Festlegungen zur Freigabe
+# Anlage 8 (zu den §§ 35, 36, 37, 39 sowie Anlage 4)Festlegungen zur Freigabe
 
 Teil A: Allgemeines
 1. Sofern in den folgenden Teilen B bis G nichts anderes bestimmt ist, gilt Folgendes:
@@ -15,8 +15,9 @@ Teil A: Allgemeines
 Teil B: Uneingeschränkte Freigabe von festen Stoffen, Ölen und ölhaltigen Flüssigkeiten, organischen Lösungs- und Kühlmitteln
 Die Werte der Anlage 4 Tabelle 1 Spalte 3 gelten für
 1. feste Stoffe,
-2. Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt, und
-3. Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
+2. Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende Masse nicht mehr als 1 000 Megagramm im Kalenderjahr beträgt,
+3. Bodenaushub, der auf Grund seiner stofflichen Eigenschaften nicht als durchwurzelbare Bodenschicht im Sinne des § 2 Satz 1 Nummer 5 der Bundes-Bodenschutz- und Altlastenverordnung aufgebracht werden kann, wenn die freizugebende Masse nicht mehr als 37 500 Megagramm im Kalenderjahr beträgt, und
+4. Öle und ölhaltige Flüssigkeiten, organische Lösungs- und Kühlmittel.
 Teil C: Spezifische Freigabe zur Beseitigung
 1. Eine spezifische Freigabe zur Beseitigung setzt voraus, dass die Stoffe, für die eine wirksame Feststellung nach § 42 Absatz 1 getroffen wurde, auf einer Deponie abgelagert oder in einer Verbrennungsanlage beseitigt werden. Eine Verwertung oder Wiederverwendung außerhalb einer Deponie oder Verbrennungsanlage sowie der Wiedereintritt der Stoffe in den Wirtschaftskreislauf muss ausgeschlossen sein.
 2. Die Werte der Anlage 4 Tabelle 1 Spalte 8 bis 11 gelten nicht für Bauschutt und Bauschutt einschließlich anhaftenden Bodens, wenn die freizugebende Masse mehr als 1 000 Megagramm im Kalenderjahr betragen kann.
@@ -59,5 +60,5 @@ Teil F: Spezifische Freigabe von Bauschutt
 Teil G: Spezifische Freigabe von Metallschrott zum Recycling
 1. Eine Freigabe von Metallschrott zum Recycling setzt voraus, dass der Metallschrott, für den eine Feststellung nach § 42 Absatz 1 getroffen wurde, eingeschmolzen wird.
 2. Die Werte der Anlage 4 Tabelle 1 Spalte 14 gelten nicht für Verbundstoffe aus metallischen und nichtmetallischen Komponenten.
-3. Es sind nur solche Schmelzbetriebe geeignet, bei denen ein Mischungsverhältnis von 1:10 von freigegebenem Metallschrott zu anderen Metallen gewährleistet werden kann oder die einen Durchsatz von mindestens 40 000 Tonnen im Kalenderjahr aufweisen.
+3. Es sind nur solche Schmelzbetriebe geeignet, bei denen ein Mischungsverhältnis von 1:10 von freigegebenem Metallschrott zu anderen Metallen gewährleistet werden kann oder die einen Durchsatz von mindestens 40 000 Megagramm im Kalenderjahr aufweisen.
 4. Bei einer Freigabe von Metallschrott zum Recycling, der nur mit einem einzelnen der Radionuklide Be-7, C-14, Mn-53, Mn-54, Co-57, Ni-59, Ni-63, Nb-93m, Mo-93, Tc-97, Tc-99, Ru-103, Ag-105, Ag-108m, Cd-109, Sb-125, Te-132, I-129, Eu-155, Ti-204, Pa-231, Es-254 oder Fm-255 kontaminiert ist, ist die Masse auf 10 Megagramm im Kalenderjahr beschränkt. Eine Kontamination mit einem einzelnen Radionuklid liegt dann vor, wenn alle anderen Radionuklide zusammen einen Aktivitätsanteil von einem Tausendstel nicht überschreiten.

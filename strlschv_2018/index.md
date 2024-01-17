@@ -21,6 +21,7 @@
 #### Abschnitt 1 Ausnahmen von der Genehmigungs- und Anzeigebedürftigkeit einer Tätigkeit; Ausnahmen von Genehmigungsvoraussetzungen
 
 - [§ 5 Genehmigungsfreier Umgang](0005.md)
+- [§ 5a Genehmigungsfreier Zusatz radioaktiver Stoffe](0005a.md)
 - [§ 6 Genehmigungsfreier Besitz von Kernbrennstoffen](0006.md)
 - [§ 7 Genehmigungs- und anzeigefreier Betrieb von Anlagen zur Erzeugung ionisierender Strahlung](0007.md)
 - [§ 8 Genehmigungsfreier Betrieb von Störstrahlern](0008.md)
@@ -66,7 +67,7 @@
 - [§ 36 Spezifische Freigabe](0036.md)
 - [§ 37 Freigabe im Einzelfall](0037.md)
 - [§ 38 Freigabe von Amts wegen](0038.md)
-- [§ 39 Einvernehmen bei der spezifischen Freigabe zur Beseitigung](0039.md)
+- [§ 39 Einvernehmen bei der spezifischen Freigabe zur Beseitigung und bei der spezifischen Freigabe von Metallschrott zum Recycling](0039.md)
 - [§ 40 Abfallrechtlicher Verwertungs- und Beseitigungsweg](0040.md)
 - [§ 41 Festlegung des Verfahrens](0041.md)
 - [§ 42 Pflichten des Inhabers einer Freigabe](0042.md)
@@ -184,7 +185,7 @@
 ##### Unterabschnitt 1 Technische Anforderungen
 
 - [§ 114 Anforderungen an die Ausrüstung bei der Anwendung am Menschen](0114.md)
-- [§ 115 Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung](0115.md)
+- [§ 115 Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung; Bezugswertfestlegung](0115.md)
 - [§ 116 Konstanzprüfung](0116.md)
 - [§ 117 Aufzeichnungen](0117.md)
 - [§ 118 Bestandsverzeichnis](0118.md)
@@ -198,7 +199,7 @@
 - [§ 123 Anforderungen im Zusammenhang mit dem Betrieb einer Röntgeneinrichtung zur Teleradiologie](0123.md)
 - [§ 124 Informationspflichten](0124.md)
 - [§ 125 Diagnostische Referenzwerte; Bevölkerungsdosis](0125.md)
-- [§ 126 Risikoanalyse vor Strahlenbehandlungen](0126.md)
+- [§ 126 Risikobeurteilung vor Strahlenbehandlungen](0126.md)
 - [§ 127 Aufbewahrung, Weitergabe und Übermittlung von Aufzeichnungen, Röntgenbildern, digitalen Bilddaten und sonstigen Untersuchungsdaten](0127.md)
 - [§ 128 Bestimmung von ärztlichen und zahnärztlichen Stellen zur Qualitätssicherung](0128.md)
 - [§ 129 Mitteilung der Aufnahme und Beendigung einer Tätigkeit an eine ärztliche oder zahnärztliche Stelle](0129.md)
@@ -268,7 +269,7 @@
 
 ### Kapitel 3 Radioaktive Altlasten
 
-- [§ 160 Ermittlung der Exposition der Bevölkerung](0160.md)
+- [§ 160 Ermittlung der Exposition](0160.md)
 - [§ 161 Prüfwerte bei radioaktiven Altlasten und bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus](0161.md)
 - [§ 162 Emissions- und Immissionsüberwachung bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus](0162.md)
 - [§ 163 Grundsätze für die Optimierung von Sanierungsmaßnahmen](0163.md)
@@ -338,12 +339,12 @@
 - [§ 200 Behördlich bestimmte Sachverständige (§ 181)](0200.md)
 - [Anlage 1 (zu § 2)Liste der nicht gerechtfertigten Tätigkeitsarten](anlage-1.md)
 - [Anlage 2 (zu den §§ 3 und 4)Erforderliche Unterlagen zur Prüfung der Rechtfertigung von Tätigkeitsarten](anlage-2.md)
-- [Anlage 3 (zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten](anlage-3.md)
+- [Anlage 3 (zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten](anlage-3.md)
 - [Anlage 4 (zu den §§ 5, 10, 11, 12, 16, 31, 35, 36, 37, 52, 57, 58,61, 70, 83, 87, 88, 89, 92, 104, 106, 167, 187 und Anlage 3)Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination, Liste der Radionuklide und bei den Berechnungen berücksichtigte Tochternuklide](anlage-4.md)
 - [Anlage 5 (zu § 27 und Anlage 7)Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen](anlage-5.md)
 - [Anlage 6 (zu den §§ 28, 100, 101)Grundsätze für die Ermittlung von Expositionen bei Rückständen](anlage-6.md)
 - [Anlage 7 (zu § 29 Absatz 4)Voraussetzungen für die Entlassung aus der Überwachung bei gemeinsamer Deponierung von überwachungsbedürftigen Rückständen mit anderen Rückständen und Abfällen](anlage-7.md)
-- [Anlage 8 (zu den §§ 35, 36, 37 sowie Anlage 4)Festlegungen zur Freigabe](anlage-8.md)
+- [Anlage 8 (zu den §§ 35, 36, 37, 39 sowie Anlage 4)Festlegungen zur Freigabe](anlage-8.md)
 - [Anlage 9 (zu den §§ 84, 85, 167, 168, 192)Liste der Daten über hochradioaktive Strahlenquellen (HRQ), die im Register über hochradioaktive Strahlenquellen (HRQ-Register) erfasst werden](anlage-9.md)
 - [Anlage 10 (zu den §§ 91, 92)Strahlenzeichen](anlage-10.md)
 - [Anlage 11 (zu den §§ 100, 101, 102, 160, 168, Anlage 6 und Anlage 8)Annahmen bei der Berechnung der Exposition](anlage-11.md)

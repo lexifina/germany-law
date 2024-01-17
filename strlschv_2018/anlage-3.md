@@ -1,4 +1,4 @@
-# Anlage 3 (zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
+# Anlage 3 (zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
 
 Teil A:
 Genehmigungsfrei nach § 5 Absatz 1 ist die Anwendung von Stoffen am Menschen, wenn die spezifische Aktivität der Stoffe 500 Mikrobecquerel je Gramm nicht überschreitet.
@@ -14,7 +14,7 @@ Genehmigungsfrei nach § 5 Absatz 1 ist
 8. der Umgang mit natürlichen radioaktiven Stoffen zum Zwecke der Nutzung der Radioaktivität zu Lehr- und Ausbildungszwecken, wenn die Ortsdosisleistung des jeweiligen Stoffes 1 Mikrosievert durch Stunde in 0,1 Meter Abstand von der berührbaren Oberfläche nicht überschreitet, oder
 9. der Umgang mit abgereichertem Uran in Form von Uranylverbindungen zu chemisch-analytischen oder zu chemisch-präparativen Zwecken mit einer Gesamtmasse des Urans von bis zu 30 Gramm.
 Teil C:
-Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
+Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
 Teil D:
 Genehmigungsfrei nach § 8 ist der Betrieb von Störstrahlern,
 1. bei denen die Spannung zur Beschleunigung der Elektronen 30 Kilovolt nicht überschreitet, wenn
@@ -32,3 +32,5 @@ Genehmigungs- und anmeldefrei nach § 14 ist die Verbringung von
 3. Arzneimitteln, die nach § 2 Absatz 1 Satz 2 der Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel in Verkehr gebracht worden sind,
 4. Vorrichtungen, deren Bauart nach § 45 Absatz 1 des Strahlenschutzgesetzes zugelassen ist, oder
 5. aus der Luft gewonnenen Edelgasen, wenn das Isotopenverhältnis im Gas demjenigen in der Luft entspricht.
+Teil F:
+Genehmigungsfrei nach § 5a ist der Zusatz von Kalium-40 als natürlich vorkommendes Radionuklid zu Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136), das zuletzt durch Artikel 2 Absatz 13 des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2752) geändert worden ist, bis zu 10 Becquerel je Gramm im Produkt.

@@ -35,7 +35,8 @@ Die Prüfungen sind an unterschiedlichen Systemen oder in unterschiedlichen Eins
 | D 2 | Bestrahlungsvorrichtungen für Brachytherapie | 5 | 2 | Falls die Qualifikation unabhängig von D 1 erworben wird, müssen beim Erwerb der Qualifikation zwei Prüfungen den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen. |
 | E | Nichtmedizinisch genutzte Systeme |
 | E 1 | Anlagen zur Erzeugung ionisierender Strahlung, die einer Errichtungsgenehmigung bedürfen | 2 | 2 | Beim Erwerb der Qualifikation muss eine Prüfung den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen. |
-| E 2 | Anlagen zur Erzeugung ionisierender Strahlung, ausgenommen E 1 | 5 | 2 | Beim Erwerb der Qualifikation müssen zwei Prüfungen den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen. |
+| E 2 | Anlagen zur Erzeugung ionisierender Strahlung, ausgenommen E 1 und E 2a | 5 | 2 | Beim Erwerb der Qualifikation müssen zwei Prüfungen den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen. |
+| E 2a | Laseranlagen mit Bestrahlungsstärken bis 1016 W/cm2 | 5 | 2 | Bei Erwerb oder Erhalt einer Qualifikation zusätzlich zu der Qualifikation für Prüfungen von Anlagen nach E 2 reduzieren sich die Zahlen der zu prüfenden Systeme auf 2 (Spalte 2) und 1 (Spalte 3). |
 | E 3 | Bestrahlungsvorrichtungen mit radioaktiven Quellen | 2 | 2 | Beim Erwerb der Qualifikation müssen beide Prüfungen den Umfang einer Erstprüfung inklusive des baulichen Strahlenschutzes umfassen. Entsprechende Prüfungen nach D 1, D 2 oder E 1 werden angerechnet. |
 | E 4 | Geräte für die Gammaradiographie | 5 | 2 |  |
 | F | Umschlossene radioaktive Stoffe (Dichtheitsprüfungen) | 100 | 50 | Beim Erwerb der Qualifikation müssen die Dichtheitsprüfungen alle relevanten Prüfverfahren abdecken. |
