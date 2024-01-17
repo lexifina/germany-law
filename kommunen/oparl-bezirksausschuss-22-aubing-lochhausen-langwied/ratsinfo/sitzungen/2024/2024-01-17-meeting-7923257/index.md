@@ -1,0 +1,122 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923257
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923257
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Konzept LHM-Grünpaten-Förderung
+- TOP 2.1.2.: Straßenplanung Freiham / Stellplatzsituation mit Gehbehinderung, vertagt aus der Sitzung vom 13.12.23
+- TOP 2.1.3.: Gehsteig- und Straßenmissstände im Feldmeierbogen und der Kastelburgstraße
+- TOP 2.1.4.: Zustand des Gehsteigs in der Grete-Weil-Straße
+- TOP 2.1.5.: Deutschkursangebot in Neuaubing/Freiham
+- TOP 2.1.6.: (N) - S-Bahn Haltepunkt Freiham verschönern
+- TOP 2.1.7.: (N) - Tiefgarageneinfahrt des Einkaufszentrum neben dem Schulcampus Freiham
+- TOP 2.1.8.: (N) - Entfernung Schild am Aubinger Friedhof
+- TOP 2.1.9.: (N) - Unfälle und Verkehrssituation Am Langwieder Bach
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: - Aubinger Str. 174 - Kronwinkler Str. 53 - Lochhausener Str. 252 - Krähenweg 49 (2x)
+- TOP 3.1.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, Schr. Baureferat vom 30.11.23
+- TOP 4.: Anträge
+- TOP 4.1.: Anfrage: Stand Baumkataster (Bündnis 90/Die Grünen)
+- TOP 4.2.: Anfrage: Stand Ökokonten im 22. Stadtbezirk (Bündnis 90/Die Grünen)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget SV Aubing e.V. Renovierung/Sanierung der Platzwartwohnung zur Nutzung als Umkleide für Mädchen ab Dezember 2023 6.986,58 Euro, Az.: 0262.0-22-0244
+- TOP 5.2.: (N) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz"!) am 14.09.2024 2.100,00 Euro, Az.: 0262.0-22-0245
+- TOP 5.3.: (N) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche zwischen April und November 2024 5.857,00 Euro, Az.: 0262.0-22-0246
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Veranstaltung im Freien in einer städt. Grünanlage, hier: Langwieder Seenplatte Disc Golfturnier am 16.-17.03.24, Anhörung KVR vom 27.12.23
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Büros für Vereine am Sportcampus Freiham, Schr. Ref. f. Bildung u. Sport vom 03.01.24
+- TOP 6.1.2.2.: Haushaltsbeschluss 2024; Stadtbezirksbudgets 2024, Schr. Direktorium vom 28.12.23
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: AKIM Bericht 2. Hälfte 2023, Schr. Sozialreferat vom 18.12.23
+- TOP 6.2.2.2.: Dringender Bedarf eines zweiten Grundschulstandortes und einer weiteren Turnhalle am Standort Schubingweg in Lochhausen, Schr. Ref. f. Bildung u. Sport vom 20.12.23
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: - Einkaufszentrum ZAM Freiham, Hinweisbeschilderung mit Zeichen 432, Anhörung Mobilitätsreferat vom 21.12.23 - Autobahnzubringer Freiham, Beschilderung mit Zeichen 250 "Anlieger frei", Anhörung Mobilitätsreferat vom 21.12.23 - Mainaustraße, Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen, Anhörung Mobilitätsreferat vom 27.12.23
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnungen, hier: - Zwernitzer Str., Zeitenänderung an der Betriebshaltestelle der Linie 267, Schr. Mobilitätsreferat vom 13.12.23 - Kunreuthstr. 9-15 mit Seite Riesenburgstr., Arbeiten im Straßenraum, SWM Fernwärme, Vollsperre in der Kunreuthstr., Engstellensanierung in der Riesenburgstr. - Wiedehopfweg, Aufhebung von Halteverboten, Schr. Mobilitätsreferat vom 21.12.23
+- TOP 6.3.2.2.: Planfeststellungsverfahren für das Vorhaben "HST Nr. 6 München-Pasing Nordbahnsteig", Schr. Ref. f. Stadtplanung u. Bauordnung vom 11.12.23
+- TOP 6.3.2.3.: Verkehrssituation Überlinger Weg / Mainaustraße, Schr. Baureferat vom 06.12.23
+- TOP 6.3.2.4.: Autos mit extrem überhöhter Geschwindigkeit in der Helmut-Schmidt-Allee, Schr. Polizeiinspektion 45 vom 11.12.23
+- TOP 6.3.2.5.: Anfrage: Barrierefreier Ausbau Busendhaltestelle Linie 830 Lochhausen-Bahnhof, Schr. Mobilitätsreferat vom 07.11.23
+- TOP 6.3.2.6.: Anfrage: Weiterführung des Projekts Smarter Together in Westkreuz/Neuaubing/Freiham und weiteren Teilen des 22. Stadtbezirkes, Schr. Mobilitätsreferat vom 07.12.23
+- TOP 6.3.2.7.: Henschelstr. 8 und ggü., Folgegenehmigung der verkehrsaufsichtlichen Erlaubnis vom 10.11.2023, Schr. Mobilitätsreferat vom 13.12.23
+- TOP 6.3.2.8.: Lochhausener Str. Kreuzung Osterangerstr., Umbau der Kreuzung zur Herstellung der Zufahrt des Neubaugebiets und Herstellung einer Bushaltestelle v. 15.11.-13.12.23, Schr. Baureferat vom 19.12.23
+- TOP 6.3.2.9.: Fehlendes Wartehäuschen an der Bushaltestelle Aubinger Straße, Fahrbahnbelag Ravensburger Ring, Sicherheitsrisiko E-Roller am S-Bahnhof Westkreuz, Schr. Mobilitätsreferat vom 19.12.23
+- TOP 6.3.2.10.: Sicherer Schulweg für die Kinder des Neubaugebietes Osterangerstraße, Schr. Mobilitätsreferat vom 29.11.23
+- TOP 6.3.2.11.: Reinigungspflichten; Busanzeige; Schneeräum-Pläne; Straßenreinigung GS Ravensburger Ring, Schr. MVG vom 19.12.23 und Schr. Baureferat vom 27.12.23
+- TOP 6.3.2.12.: Schneebelastung Ubostraße, Eichenauer Straße und Germeringer Weg, Schr. Baureferat vom 29.12.23
+- TOP 6.3.2.13.: Ehrenbürgstr. 9, Gehweg und Straßenteil sauber halten, Schr. Baureferat vom 27.12.23
+- TOP 6.3.2.14.: (N) - Fahrbahnsanierung Federseestraße zwischen Henschelstraße und Ziegeleistraße, Schr. Baureferat vom 08.12.23
+- TOP 6.3.2.15.: (N) - Situation in der Aubing-Ost-Straße auf Höhe Hornbergerstraße, Schr. Mobilitätsreferat vom 03.01.24
+- TOP 6.3.2.16.: (N) - Parksituation in der Aubing-Ost-Straße, Schr. Mobilitätsreferat vom 03.01.24
+- TOP 6.3.2.17.: (N) - Straßenübergänge für die Hellenstein- und Aubing-Ost-Straße, Schr. Mobilitätsreferat vom 18.12.23
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: (N) - Hoheneckstr. 27, Neubau eines Mehrfamilienhauses mit 8 WE und Tiefgarage, Anhörung Planungsreferat vom 09.01.24
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: v. 04.12.-10.12.23, v. 11.12.-17.12.23, v. 18.12.-24.12.23
+- TOP 6.4.2.2.: Neue Müllhalde Aubinger Allee, Schr. Baureferat vom 07.12.23
+- TOP 6.4.2.3.: Planungen am Böhmerweiher, Schr. Baureferat vom 18.12.23
+- TOP 6.4.2.4.: Vermüllung der Wohnanlagen durch Wochenzeitungen, Schr. Baureferat vom 21.12.23
+- TOP 6.4.2.5.: (N) - Schlimme Restmüllcontainer vor Aubinger Einkehr und Ehrenbürgstr., Schr. AWM vom 05.01.24
+- TOP 6.4.2.6.: (N) - Recyclingcontainer in der Ehrenbürgstraße, Bodenplatten, Schr. Kommunalreferat vom 08.01.24
+- TOP 6.4.2.7.: (N) - Bauzaun an der Mathilde-Berghofer-Weichner-Str. / Fritz-Bauer-Str. entfernen, Schr. Baureferat vom 02.01.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: (N) - MVG-Zeitkarten für Bezirksausschussmitglieder, Antrag des BA 16, Anhörung Direktorium vom 04.01.24
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Angebot für die Bezirksausschüsse zum Versand eigener Newsletter über das Newsletterportal, Schr. Direktorium vom 19.12.23
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Vollversammlung vom 29.11.23
+- TOP 9.1.1.: Sportbauprogramm - Sachstandsbericht 2023 A Ausgangslage - Inhalt und Umfang des Sportbauprogramms B Bericht zum Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den laufenden Projekten des 2., 3. Maßnahmenpakets un zum 4. Maßnahmenpaket 3. Evaluierung der Maßnahmenprojekte 4. Fortschreibung des Standardraumprogramms für die städtischen Freisportanlagen C Bericht zum Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung D Bericht zum Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung E Personal- und Sachmittelbedarfe der beteiligten Dienststellen 1. Personal- und Sachmittelbedarfe im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarfe im Baureferat F Anträge und Empfehlungen G Beteiligungen und Anhörungen
+- TOP 9.2: Ausschuss für Klima- und Umweltschutz vom 12.12.23
+- TOP 9.2.1.: Haushalt 2024 des Referates für Klima- und Umweltschutz • Aufstellung des produktorientierten Haushalts 2024 • Produkte • Ziele • Umsetzung der Konsolidierung • Einplanung der Inflations- und Tarifsteigerungen • Teilergebnis- und Teilfinanzhaushalt • Investitionen (Mehrjahresinvestitionsplanung) • Beantwortung der Fragen des BA 20 und BA 21
+- TOP 9.3: Kommunalausschuss vom 07.12.23
+- TOP 9.3.1.: Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 9.4: Gesundheitsausschuss vom 14.12.23
+- TOP 9.4.1.: (U) Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 9.5: Vollversammlung vom 20.12.23
+- TOP 9.5.1.: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 9.5.2.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 9.5.3.: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 9.5.4.: Mobilitätsstrategie 2035 Teilstrategie Digitalisierung – Erste Stufe Grundsatzbeschluss Digitalisierung im Mobilitäts- und Verkehrssektor Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre ab 2024
+- TOP 9.5.5.: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 9.6: Mobilitätsausschuss vom 13.12.23
+- TOP 9.6.1.: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 9.7: Ausschuss für Stadtplanung und Bauordnung vom 10.01.24
+- TOP 9.7.1.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 21.02.24 um 19.00 Uhr im Campus Freiham, Helmut-Schmidt-Allee 41 (Mensa Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 08.01.23 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 09.01.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 10.01.23, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 11.01.24, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.10.: (N) - Gehweg für Buszugang rutschsicher halten
+- TOP 6.4.1.2.: (N) - Wiesenthauer Str. 9, Neubau von vier Stadthäusern sowie von zwei Doppelparkern, hier: Haus 1, Anhörung Planungsreferat vom 11.01.24
+- TOP 6.4.1.3.: (N) - Wiesenthauer Str. 9, Neubau von vier Stadthäusern sowie von zwei Doppelparkern, hier: Haus 2, Anhörung Planungsreferat vom 11.01.24
+- TOP 6.4.1.4.: (N) - Wiesenthauer Str. 9, Neubau von vier Stadthäusern sowie von zwei Doppelgaragen, hier: Haus 3, Anhörung Planungsreferat vom 11.01.24
+- TOP 6.4.1.5.: (N) - Wiesenthauer Str. 9, Neubau von vier Stadthäusern sowie von zwei Doppelparkern, hier: Haus 4, Anhörung Planungsreferat vom 11.01.24
+- TOP 6.4.1.6.: (N) - Am Bahnsportplatz 20, Neubau von drei Reihenhäusern, Anhörung Planungsreferat vom 12.01.24
+- TOP 2.1.11.: (N) - Unterführung in der Bodenseestraße Höhe Campus
+- TOP 2.1.12.: (N) - Grundstückszufahrt schnell sperren
+- TOP 6.1.1.2.: (N) - Antrag für einen stationären Kofferanhänger im Skate-Park Freiham, Hans-Dietrich-Genscher-Straße, Anhörung KVR vom 15.01.24
