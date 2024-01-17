@@ -1,0 +1,70 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2024-01-17T17:00:00+01:00
+- Ende: 2024-01-17T21:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7375
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7375
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=436698
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Umsetzung des Fahrradnebenroutenkonzeptes - beantwortet
+- TOP 4.2: Den Lebensraum unserer gefiederten Mitbewohner erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: IT-Ausfall im Bürgeramt - beantwortet
+- TOP 4.4: Unterstützung Mieter_innen bei Betriebs-und Heizkosten-Abrechnungschaos - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Bestehenden Rahmenvertrag zur Graffitientfernung ausweiten - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Besetzung eines beratenden Mitglieds im Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 9 AG KJHG - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Verlängerung der Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Sozialen Wohnhilfen - überwiesen
+- TOP 6.2: Die Grundstücksneuordnung der Neuen Mitte Tempelhof - überwiesen
+- TOP 6.3: Beförderung von Mehrfachnutzung (MFN) auf Flächen und in Gebäuden des Bezirks Tempelhof-Schöneberg - überwiesen
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Einschulungstag ist ein Familientag - ohne Parteien bitte - in der BVV abgelehnt
+- TOP 9.2: Medizinische Notversorgung in Flüchtlingsunterkunft im Flughafen Tempelhof - mit Änderungen in der BVV beschlossen
+- TOP 9.3: Ausweitung der Parkraumbewirtschaftung in Tempelhof westlich der Manteuffelstraße prüfen - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Gegen Mietwucher (§ 5 WiStG) wirksam vorgehen! - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Parkplatz des OSZ Lotis effektiver nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Marode Bäume als Gefahr für Leib und Leben – unverzügliches und systematisches Handeln erforderlich! - vertagt
+- TOP 9.7: Inklusionssport fördern - überwiesen
+- TOP 9.8: Selbstständig(er)en Einkauf für Rollstuhlnutzer*innen ermöglichen - überwiesen
+- TOP 9.9: Verkehrskonzept Gartenstadt - vertagt
+- TOP 9.10: Klare Markierung verhindert Wettbewerbsverzerrung - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Bessere Information zu den Zahlungsmöglichkeiten in den Bürgerämtern - im Ältestenrat zurückgezogen
+- TOP 9.12: Eine Zukunft für schützende Wohnprojekte in Tempelhof-Schöneberg - überwiesen
+- TOP 9.13: Ergänzung der Geschäftsordnung der BVV Tempelhof-Schöneberg - überwiesen
+- TOP 9.14: Website des Gesundheitsamtes als Serviceseite neu konzipieren - überwiesen
+- TOP 9.15: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Regenwetter und der Rennsteig wird zum See - überwiesen
+- TOP 10: Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Dem öffentlichen Drogenkonsum entgegentreten - vertagt
+- TOP 11.2: Parkraumbewirtschaftung mit Augenmaß – Teil 1 - vertagt
+- TOP 11.3: Bürger*innenräte in Tempelhof-Schöneberg - vertagt
+- TOP 11.4: Green Buddy Award: Fokus auf unseren Bezirk! - vertagt
+- TOP 11.5: Fortführende Beschäftigung für auslaufende Maßnahmen zu Solidarischem Grundeinkommen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Nachuntersuchung Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Buslinie 275 - Auch am Stadtrand sollte man den Bus nutzen können! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Radvorrangnetz in Lichtenrade ausweiten - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Gefahrenstellen der Gehwege instand setzen oder absperren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: "Gehwegschäden" beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Verlängerung der U9 - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Zugänglichkeit der Fahrradständer für Lastenräder an der SSH - vertagt
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Initiativbewerbungen ermöglichen -Verfahren zu deren Nutzung sicherstellen - überwiesen
+- TOP 12.2: Stopp: Wir wollen Gewalt gegen Queers effektiv bekämpfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Testkäufe erweitern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Ein Boot fürs Rathaus Schöneberg – Solidarität mit den sich weltweit auf der Flucht befindenden Menschen - überwiesen
+- TOP 12.5: Flutlichter auf dem Sportplatz Halker Zeile - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Termin der nächsten Sitzung - erledigt
