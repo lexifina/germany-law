@@ -1,0 +1,21 @@
+# Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2024/2025
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/0889/IX
+- Art: Dringliche Beschlussempfehlung
+- Datum: 2024-01-17
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=10011
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=10011
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=372887
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5385 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5384 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5404 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=76
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5378 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5412 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5416 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=75
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5401 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: mitberatend https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5403 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=72
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5411 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5398 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=5
