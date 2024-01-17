@@ -1,0 +1,39 @@
+---
+ecli: "ECLI:DE:BVerwG:2024:170124B1B25.23.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "1 B 25/23"
+decided: "2024-01-17"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202400233.xml"
+neuris_doknr: "WBRE202400233"
+---
+
+# Bundesverwaltungsgericht, 1 B 25/23 vom 2024-01-17
+
+## Tenor
+
+Die Beschwerde des Klägers gegen die Nichtzulassung der Revision in dem Urteil des Oberverwaltungsgerichts Berlin-Brandenburg vom 19. April 2023 wird zurückgewiesen.
+
+Der Kläger trägt die Kosten des Beschwerdeverfahrens mit Ausnahme der außergerichtlichen Kosten der Beigeladenen, die diese selbst trägt.
+
+Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 5 000 € festgesetzt.
+
+## Gründe
+
+1 Die allein auf den Zulassungsgrund der grundsätzlichen Bedeutung gestützte Beschwerde hat keinen Erfolg.
+
+2 Grundsätzliche Bedeutung im Sinne des § 132 Abs. 2 Nr. 1 VwGO kommt einer Rechtssache nur zu, wenn sie eine für die erstrebte Revisionsentscheidung erhebliche Frage des revisiblen Rechts aufwirft, die im Interesse der Einheit und Fortbildung des Rechts revisionsgerichtlicher Klärung bedarf (BVerwG, Beschluss vom 8. Mai 2018 - 5 B 18.18 - juris Rn. 3). Das Darlegungserfordernis des § 133 Abs. 3 Satz 3 VwGO setzt insoweit die Formulierung einer bestimmten, höchstrichterlich noch ungeklärten und für die Revisionsentscheidung erheblichen Rechtsfrage des revisiblen Rechts und außerdem die Angabe voraus, worin die allgemeine, über den Einzelfall hinausgehende Bedeutung besteht. Die Beschwerde muss erläutern, dass und inwiefern die Revisionsentscheidung zur Klärung einer bisher revisionsgerichtlich nicht beantworteten fallübergreifenden Rechtsfrage des revisiblen Rechts führen kann (vgl. BVerwG, Beschluss vom 19. August 1997 - 7 B 261.97 - Buchholz 310 § 133 <n. F.> VwGO Nr. 26 S. 14). Die Begründungspflicht verlangt, dass sich die Beschwerde mit den Erwägungen des angefochtenen Urteils, auf die sich die aufgeworfene Frage von angeblich grundsätzlicher Bedeutung bezieht, substantiiert auseinandersetzt und aufzeigt, aus welchen Gründen der Rechtsauffassung, die der aufgeworfenen Frage zugrunde liegt, zu folgen ist (stRspr, vgl. BVerwG, Beschlüsse vom 4. April 2012 - 5 B 58.11 - juris Rn. 2 und vom 12. März 2018 - 5 B 26.17 D - juris Rn. 3 m. w. N.).
+
+3 Nach diesen Grundsätzen ist die Revision nicht im Hinblick auf die von der Beschwerde für rechtsgrundsätzlich klärungsbedürftig gehaltene Frage zuzulassen,
+
+"ob bei einem bestehenden und weiterhin aktuellen Ausweisungsinteresse gem. § 5 Abs. 1 Nr. 2 AufenthG für die Erteilung eines nationalen Visums zur Familienzusammenführung eine Ausnahme von der Regel anzunehmen oder das Ermessen gemäß § 27 Abs. 3 Satz 2 AufenthG auf Null reduziert ist, wenn keine Ausweisung verfügt wurde und die Frist eines Einreise- und Aufenthaltsverbots gem. § 11 Abs. 1 AufenthG bei einer unterstellten Ausweisung bereits abgelaufen wäre."
+
+4 Es kann dahinstehen, ob die aufgeworfene Frage überhaupt jenseits des Einzelfalls abstrakt klärungsfähig ist. Letzteres ist auch deswegen fraglich, weil aus Gründen der öffentlichen Sicherheit und Ordnung im Fall einer Ausweisung das Einreise- und Aufenthaltsverbot nach § 11 Abs. 4 Satz 4 AufenthG verlängert werden kann.
+
+5 Die vom Kläger aufgeworfene Rechtsfrage ist jedenfalls nicht mehr klärungsbedürftig, weil sie sich auf Grundlage der vom Berufungsgericht zutreffend herangezogenen Rechtsprechung beantworten lässt. Danach kommt es für das Vorliegen eines Ausweisungsinteresses nach § 5 Abs. 1 Nr. 2 AufenthG nicht darauf an, ob der Ausländer tatsächlich ausgewiesen werden könnte, was etwa dann nicht der Fall ist, wenn er sich noch nie im Inland aufgehalten hat (BVerwG, Urteil vom 25. Mai 2023 - 1 C 6.22 - NVwZ 2023, 1655 Rn. 11 f.). Vielmehr reicht es aus, dass ein Ausweisungsinteresse gleichsam abstrakt - d. h. nach seinen tatbestandlichen Voraussetzungen - vorliegt, wie es insbesondere im Katalog des § 54 AufenthG normiert ist (BVerwG, Urteil vom 12. Juli 2018 - 1 C 16.17 - BVerwGE 162, 349 Rn. 15). Außerhalb des Bundesgebietes begangene Handlungen, die im Bundesgebiet eine schwere Straftat darstellen - wie die vom Kläger in Frankreich verwirklichten Drogendelikte -, begründen nach § 54 Abs. 2 Nr. 9 AufenthG ein schwer wiegendes Ausweisungsinteresse.
+
+6 Der Begriff des Ausweisungsinteresses verweist auf das Ausweisungsrecht und greift die in § 53 Abs. 1, § 54 AufenthG gewählte und anhand von Beispielen erläuterte Begriffsbildung auf. Diese Vorschriften regeln die Aufenthaltsbeendigung bei Vorliegen eines öffentlichen Ausweisungsinteresses. Umgekehrt setzt die Begründung eines rechtmäßigen Aufenthalts durch Erteilung einer Aufenthaltserlaubnis gemäß § 5 Abs. 1 Nr. 2 AufenthG in der Regel voraus, dass kein Ausweisungsinteresse besteht. § 5 Abs. 1 Nr. 2 AufenthG knüpfte in seiner bis zur Neuregelung geltenden Fassung an die damalige Terminologie des Ausweisungsrechts an und setzte in der Regel voraus, dass kein "Ausweisungsgrund" im Sinne der §§ 53 ff. AufenthG a. F. vorlag. Die geänderte Fassung des § 5 Abs. 1 Nr. 2 AufenthG stellt nach den Gesetzesmaterialien lediglich eine Folgeänderung zur Neuordnung des Ausweisungsrechts in den §§ 53 ff. AufenthG dar (vgl. Gesetzentwurf der Bundesregierung vom 25. Februar 2015, BT-Drs. 18/4097 S. 35). Eine Abwägung mit den privaten Bleibeinteressen erfolgt - sofern sie nicht durch § 10 Abs. 3 AufenthG ausgeschlossen ist - erst - wie vom Berufungsgericht zutreffend angenommen (UA Bl. 8) - im Rahmen der Frage, ob eine Abweichung vom Regelfall im Sinne des § 5 Abs. 1 AufenthG vorliegt oder im Rahmen einer - wie hier in § 27 Abs. 3 Satz 2 AufenthG - spezialgesetzlich vorgesehenen Ermessensentscheidung (BVerwG, Urteil vom 12. Juli 2018 - 1 C 16.17 - BVerwGE 162, 349 Rn. 15). Entgegen der Auffassung der Beschwerde ist dieses Ermessen in Fällen wie dem vorliegenden nicht grundsätzlich auf Null reduziert.
+
+7 Etwas anderes folgt auch nicht aus dem Beschwerdevorbringen, ein nicht ausgewiesener Ausländer - wie der Kläger - dürfe nicht schlechter gestellt werden als ein ausgewiesener Ausländer. Zwar wird gegen einen Ausländer im Falle seiner Ausweisung nach § 11 Abs. 1 Satz 1 AufenthG ein Einreise- und Aufenthaltsverbot erlassen, dessen Befristung mit der Ausreise zu laufen beginnt (§ 11 Abs. 2 Satz 4 AufenthG). Darauf kommt es nach der gesetzlichen Systematik vorliegend indes nicht an. Denn dem Zweck des Fernhaltens eines nicht eingereisten visumpflichtigen Ausländers, der im Ausland Ausweisungsinteressen verwirklicht hat, wird durch die Grundkonzeption des Aufenthaltsgesetzes anderweitig hinreichend Rechnung getragen. Gemäß § 4 Abs. 1 AufenthG bedarf es für die Einreise und den Aufenthalt eines Ausländers im Bundesgebiet eines Aufenthaltstitels. Bei Vorliegen von Ausweisungsinteressen fehlt es an der allgemeinen Regelerteilungsvoraussetzung des § 5 Abs. 1 Nr. 2 AufenthG. Die Einreise ohne den nach § 4 AufenthG erforderlichen Aufenthaltstitel gilt als unerlaubt (§ 14 Abs. 1 Nr. 2 AufenthG) und ein Ausländer, der unerlaubt an den für eine legale Einreise allein zugelassenen Grenzübergangsstellen (§ 13 Abs. 1 Satz 1 AufenthG) einreisen will, wird nach § 15 Abs. 1 AufenthG an der Grenze zurückgewiesen (BVerwG, Urteil vom 25 Mai 2023 - 1 C 6.22 - NVwZ 2023, 1655 Rn. 20). Für die von der Beschwerde zusätzlich für erforderlich gehaltene Berücksichtigung der Dauer eines hypothetischen Einreise- und Aufenthaltsverbots ist insoweit kein Raum, zumal im Hinblick auf die Regelerteilungsvoraussetzung des § 5 Abs. 1 Nr. 2 AufenthG - worauf das Berufungsgericht zutreffend hingewiesen hat - die Sach- und Rechtslage im Zeitpunkt der behördlichen oder gerichtlichen Entscheidung maßgeblich ist.
+
+8 Die Kostenentscheidung folgt aus § 154 Abs. 2 und § 162 Abs. 3 VwGO. Die Festsetzung des Streitwerts ergibt sich aus § 47 Abs. 1 und 3, § 52 Abs. 2 GKG.
