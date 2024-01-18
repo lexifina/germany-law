@@ -1,0 +1,171 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2024-01-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7843283
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7843283
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung vom 14.12.2023
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 15 Trudering Riem vom 01.01. - 31.12.2024 7.980,00€ / AZ 0262.0-15-0511
+- TOP 2.1.2.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarte von Januar bis Juni 2024 6.475,00 € / Az. 0262.0-15-0519
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative „echt jetzt 2024“ echt jetzt 2024 vom 20.01.-31.12.2024 10.000,00 € / Az. 0262.0-15-0522
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative Hoch die Hände Kulturwochenende! Hoch die Hände Kulturwochenende! vom 18.-27.01.2024 3.000,00€ / Az. 0262.0-15-0523
+- TOP 2.1.5.: (E) Stadtbezirksbudget Miteinander Trudering e.V. Interkulturelle Begegnungsangebote zum Spracherwerb f. d. intern. Nachbarschaft vom 17.01. - 20.12.2024 7.131,58 Euro / Az. 0262.0-15-0525
+- TOP 2.1.6.: (E) Stadtbezirksbudget Chorgemeinschaft St. Peter und Paul Trudering Das große Truderinger Neujahrskonzert vom 21.01.2024 1.642,50 Euro / Az. 0262.0-15-0527
+- TOP 2.1.7.: (E) Stadtbezirksbudget TSV Maccabi München e.V. Socca5 Turnier in seeligen Andenken an Fred Brauner vom 04. und 11. Februar 2024 3.200,00 Euro / Az. 0262.0-15-0526
+- TOP 2.1.8.: (E) Stadtbezirksbudget animato münchner orchester e.V. Vorbereitung und Durchführung des Konzertes in Riem am 04.02.2023 1.893,00 € / Az. 0262.0-15-0528
+- TOP 2.1.9.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 „Kommerz!“)“ 2.100,00 Euro; Az. 0262.0-15-0530
+- TOP 2.1.10.: (E) Stadtbezirksbudget barbacas - Physical Theatre WinterdRIEM - barbacas - Physical Theatre im Kopfbau in Riem vom 05.02 - 03.03.2024 5.000,00 Euro / Az. 0262.0-15-0529
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) + (U) Sanierung des Truderinger Ortskerns: Abbiegespur in den Schmuckerweg
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Lehrer-Wirth-Straße: Versetzen des Haltverbots und bessere Kennzeichnung der Parkregelung
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.4.1.: Tribüne Nord in der Messestadt-Riem: Projektvorstellung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Riemer See: Verkotung des Sees aufgrund von Gänsen
+- TOP 3.6.2.: Bürgerliche Stadtbegrünung durch Grünpatenschaften
+- TOP 3.6.3.: Parkanlage entlang der Friedenspromenade: Vermüllung von Bürgersteigen und Bushaltestellen
+- TOP 3.6.4.: Riemer Park: Abbau des Lochsegels am Bewegungsparcours
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Finanzierung von Kursen für Schulen zur Digitalen Bildung
+- TOP 4.7.2.: Neue Fahrradstraßen westlich vom Riemer Park
+- TOP 4.7.3.: Generalinstandsetzung der Bezirkssportanlagen-Gebäude an der Feldbergstraße
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Hinweistafeln für Helmut Schmid
+- TOP 5.1.2.: Biku e.V. Mädchen am Ball: Aufnahme in die Regelförderung des Sozialreferats
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Sanierung Grünzug Bürgermeister-Keller-Straße Fortsetzung/Finalisierung der Planungen für den barrierefreien Ausbau der Unterführung Lehrer-Götz-Weg
+- TOP 5.2.2.: Am Eulenhorst: Anbringen von Halte- bzw. Parkverbotsschildern
+- TOP 5.2.3.: Truderinger-Festwiese: Errichtung einer Toilettenanlage
+- TOP 5.2.4.: Radweg am Horst Salzmann Weg
+- TOP 5.2.5.: Turnerstraße: Bitte um Prüfung des folgenden Lösungsvorschlags gegen die Parkplatznot 1. Aufhebung des absoluten Haltverbotes (Z. 283) auf einer der beiden Straßenseiten. 2. Anbringung von Stempen auf dem gegenüberliegenden Gehweg auf der der Fahrbahn zugewandten Seite. Dies in einem solchen Abstand, dass ein Befahren des Gehweges nicht mehr möglich ist.
+- TOP 5.2.6.: Batschkastrasse, Oberseestraße, Königseestraße und Friedenspromenade: Maßnahmen gegen Gehwegparker
+- TOP 5.2.7.: Busbahnhof Trudering: Schaltung der Fußgängerampel
+- TOP 5.2.8.: Status der geplanten Umsetzung der baulichen Maßnahmen am Elisabeth-Castonier-Platz
+- TOP 5.2.9.: Am Hüllgraben/ Paul-Wassermann-Straße: Verkehrssicherheitsmaßnahme an dem Fahrradweg
+- TOP 5.2.10.: Ortstermin und Prüfantrag zur barrierefreien Fuß-Radweg-Unterführung am Lehrer-Götz-Weg
+- TOP 5.2.11.: E-Scooter auf Fahrrad- und Fußwegen sowie in Grünanlagen
+- TOP 5.2.12.: Am Mitterfeld: Tempo 30 zwischen Linnenbrüggerstraße und Bildungscampus
+- TOP 5.2.13.: Fahrradfreundliches Trudering/Riem – fest installierte „Reparaturspots“ auch im Stadtbezirk
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Ladensituation in Waldtrudering im Bereich Wasserburger Landstraße / Phantasiestraße
+- TOP 5.3.2.: Forderungen zum Vorplanungsauftrag des Sozialbürgerhauses Trudering
+- TOP 5.3.3.: Ortskern Trudering: Errichtung oder Bereitstellung öffentlicher Toiletten
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Bitte an den Deutschen Städtetag: Erhalt von Baumstandorten in §34-Gebieten
+- TOP 5.6.2.: Optimierung der Rücklauftemperatur in der Geothermie Riem
+- TOP 5.6.3.: Vogel- und Artenschutz in Neubaugebieten des Stadtbezirk 15
+- TOP 5.6.4.: Spielplatz Ruppanerstraße / Steffelhofstraße: Aufstellung von "Hunde verboten"-Schildern
+- TOP 5.6.5.: Weiterer Ausbau der Fernwärme in Neutrudering / Waldtrudering
+- TOP 5.6.6.: Der Truderinger Hüllgraben – Perspektiven hinsichtlich Neugestaltung, Begehbar- und Erlebbarkeit
+- TOP 5.6.7.: Antrag für eine gesicherte Freifläche für Hunde in Waldtrudering
+- TOP 5.6.8.: Außenbereich Kopfbau herstellen
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Kirchtruderinger Straße 4: Aufstellung eines mobilen Kreislaufschrankes an der naheliegenden städtischen Grünfläche
+- TOP 7.1.2.: Angebot zum Versand von Bezirksausschussnewsletter
+- TOP 7.1.3.: Anhörung zu BA-Antrag Nr. 20-26 / B03393 des BA 16 Ramersdorf-Perlach MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Am Hüllgraben / Am Moosfeld: Austausch einer Lichtsignalanlage
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Stieglitzweg 12 - Neubau eines Zweifamilienhauses mit Tiefgarage
+- TOP 7.4.2.: Iltisstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.3.: Hererostr. 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.4.: Bergerwaldstr. 23 - Neubau eines Gebäudes (5 WE) und eines Doppelhauses mit Tiefgarage (7 Stpl.) - ÄNDERUNGSANTRAG zu 1.23-2021-9806-32
+- TOP 7.4.5.: Funtenseestr. 11 - Neubau 2er Doppelhäuser mit 2 Unterflurparkern (Haus 1 - 4) - hier: Haus 1 - ÄNDERUNGSANTRAG zu 1.23-2021-24253-32 - jetzt: mit 2 Doppelcarports
+- TOP 7.4.6.: Funtenseestr. 11 - Neubau 2er Doppelhäuser mit 2 Unterflurparkern (Haus 1 - 4) - hier: Haus 2 - ÄNDERUNGSANTRAG zu 1.23-2021-24256-32 - jetzt: mit 2 Doppelcarports
+- TOP 7.4.7.: Funtenseestr. 11 - Neubau 2er Doppelhäuser mit 2 Unterflurparkern (Haus 1 - 4) - hier: Haus 3 - ÄNDERUNGSANTRAG zu 1.23-2021-24257-32 - jetzt: mit 2 Doppelcarports
+- TOP 7.4.8.: Funtenseestr. 11 - Neubau 2er Doppelhäuser mit 2 Unterflurparkern (Haus 1 - 4) - hier: Haus 4 - ÄNDERUNGSANTRAG zu 1.23-2021-24258-32 - jetzt: mit 2 Doppelcarports
+- TOP 7.4.9.: Nikolaus-Prugger-Weg 11 - Nutzungsänderung von Büro zu Wohnung und Erweiterungsbau für 3 Wohneinheiten - mit Mobilitätskonzept
+- TOP 7.4.10.: Ruppanerstr. 6 - Neubau eines Mehrfamilienhauses mit 4 WE einem Doppelparker und einem Unterflurparker
+- TOP 7.4.11.: Heinrich-Wieland-Str. 99 - Errichtung eines Flexi-Heimes zur Unterbringung von wohnungslosen Familien (Var. 1) - mit Mobilitätzkonzept
+- TOP 7.4.12.: Werner-Eckert-Str. - Tribünenkopfbau Riem, Neuschaffung einer begrünten Platzsituation mit Neubau einer Zuschauerbox mit Einblick in den historischen Bestand der ehemaligen Zuschauertribüne
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Halleiner Straße 37 Hippelstraße 38 Mönchbergstraße 39 Samoastraße 21 Solalindenstraße 35 Waldtruderinger Straße 25 Wasserturmstraße 12 Zehntfeldstraße 160
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Edeltraudstr. 8 Ernastr. 43 Fauststr. 56 Funtenseestr. 11 - Haus 1 Funtenseestr. 11 - Haus 2 Funtenseestr. 11 - Haus 3 Funtenseestr. 11 - Haus 4 Günderodestr. 14a Iltisstr. 31a Leonhardiweg Mattseestr. 7 Nikolaus-Prugger-Weg 11 Solalindenstr. 21 Sulzer-Belchen-Weg 3 Teuchertstr. 33 Togostr. 45a
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Veranstaltung in geschlossenen Räumen: Familienfaschingsball der Pfarrei Christi Himmelfahrt am 28.01.2024 im Pfarrheim Waldschulstraße 4 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.3.: Veranstaltung auf öffentlichem Verkehrsgrund: Gottesdienst "Sternsingeraktion 2024" des Pfarrverband Vier Heilige Trudering-Riem am 06.01.2024 auf dem Platz der Menschenrechte Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Graf-Lehndorff-Straße 47: Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 10.1.3.: Verwendungsnachweise des Stadtbezirksbudgets
+- TOP 10.1.4.: Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 10.1.5.: Freunde der Freiwilligen Feuerwehr Riem: Dankschreiben und Einladung zur Einweihungsfeier der neuen Fahne
+- TOP 10.1.6.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 10.1.7.: Haushaltsbeschluss 2024: Stadtbezirksbudgets für 2024
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 10.2.2.: Mobilitätsstrategie 2035 Teilstrategie Digitalisierung – Erste Stufe Grundsatzbeschluss Digitalisierung im Mobilitäts- und Verkehrssektor Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre ab 2024
+- TOP 10.2.3.: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 10.2.4.: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 10.2.5.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 10.2.6.: Verkehrsrechtliche Anordnungen nach §45 StVO: a) Am Mitterfeld / Joseph-Wild-Straße b) Lohnrößlerweg / Steffelholzstraße / Westermeierstraße / Eisgruberstraße / Fabinistraße / Karlsburger Straße c) Damaschkestraße d) Am Moosfeld 58a
+- TOP 10.2.7.: Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Anträge
+- TOP 10.2.8.: 2. Stammstrecke: Planfeststellungsbeschluss zum PFA 3 Ost
+- TOP 10.2.9.: Aktueller Sachstand zur Radwegverbindung Bildungscampus Riem Joseph-Wild-Straße über Riemer Park, Kopfbau nach Trudering
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Von-Gravenreuth-Straße 32 b) Kranichweg 33 c) Rotfuchsweg 7
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Karlsburger Straße 4 b) Sonnenspitzstr. 3 c) Wachtelweg 23
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 10.5.2.: Sportbauprogramm - Sachstandsbericht 2023 A Ausgangslage - Inhalt und Umfang des Sportbauprogramms B Bericht zum Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den laufenden Projekten des 2., 3. Maßnahmenpakets un zum 4. Maßnahmenpaket 3. Evaluierung der Maßnahmenprojekte 4. Fortschreibung des Standardraumprogramms für die städtischen Freisportanlagen C Bericht zum Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung D Bericht zum Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung E Personal- und Sachmittelbedarfe der beteiligten Dienststellen 1. Personal- und Sachmittelbedarfe im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarfe im Baureferat F Anträge und Empfehlungen G Beteiligungen und Anhörungen
+- TOP 10.5.3.: Einladung zum Fachtag: "Soziale Räume miteinander gestalten"
+- TOP 10.5.4.: Messe Riem: Eröffnung der Leichtbauhallen-Unterkünfte für Geflüchtete und Wohnungslose
+- TOP 10.5.5.: AKIM Bericht für das 2. Halbjahr 2023
+- TOP 10.5.6.: Messestadt: Umsetzung der ausgewählten KustSpielOrte 2024
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 10.6.2.: Präsentation der Novellierung der Baumschutzverordnung
+- TOP 10.6.3.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV: Betrieb von Müllsammelfahrzeugen
+- TOP 10.6.4.: Zwischennachricht zur Renaturierung des Truderinger Hüllgrabens
+- TOP 1.3.1.: (N) Flexiheim Heinrich-Wieland-Str. 99-101 der Umgebung anpassen
+- TOP 4.7.4.: (N) Flexiheim Heinrich-Wieland-Str. 99-101 der Umgebung anpassen
+- TOP 1.3.2.: (N) Belange der Wasserwacht am Riemer See nicht länger auf die lange Bank schieben
+- TOP 4.7.5.: (N) Belange der Wasserwacht am Riemer See nicht länger auf die lange Bank schieben
