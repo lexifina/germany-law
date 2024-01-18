@@ -1,0 +1,7 @@
+# TOP 4: Vortrag zum Thema "KI - Was ist das und was kann das?"
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Bürgerdienste, Digitalisierung und Verwaltungsmodernisierung (2024-01-18)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=58925
+- Ergebnis: erledigt
