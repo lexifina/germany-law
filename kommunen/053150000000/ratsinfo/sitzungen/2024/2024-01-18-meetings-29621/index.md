@@ -1,0 +1,76 @@
+# 22. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-18T15:30:00+01:00
+- Ende: 2024-01-18T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29621
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29621
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht zu den Plänen zur Ausgestaltung des Filialnetzes der Sparkasse KölnBonn im Kölner Stadtgebiet - Sache ist erledigt
+- TOP -: B Aufwertung des Neumarkts - Kenntnis genommen
+- TOP -: C Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: D Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Beantwortung der schriftlichen Anfrage der SPD Fraktion vom 30.08.2023 zum Thema "Arbeitsmarktintegration und Bleiberechte von geflüchteten Frauen" (AN/1547/2023) - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik betreffend Senior*innenticket - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten - Sache ist erledigt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten - zurückgestellt
+- TOP 3.2: Weitere Schließung von Sparkassen Filialen in der Stadt Köln ablehnen - endgültig zurückgezogen
+- TOP 3.3: Präsenz der Sparkasse KölnBonn im Stadtgebiet Köln - Sache ist erledigt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Verteilung der Fördermittel 2024 "SeniorenNetzwerke / Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4.2: Verteilung der Globalmittel 2024 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4.3: Anregung der Bezirksvertretung Porz aus ihrer Sitzung am 30.11.2023, TOP 8.13 - ungeändert beschlossen
+- TOP 4.4: Förderung Frauenberatungsstelle Paula e.V. 2024 - ungeändert beschlossen
+- TOP 4.5: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit", hier: 3. Maßnahmenbewilligung - geändert beschlossen
+- TOP -: TOP 4.5: Zusätzliche Hilfen für obdachlose Menschen - Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit", hier: 3. Maßnahmenbewilligung - geändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Strategische Sozialplanung - Herausforderungen und Ziele - zurückgestellt
+- TOP 5.2: Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch: - ungeändert empfohlen
+- TOP 5.3: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - endgültig zurückgezogen
+- TOP 5.4: Aufwandsneutrale Gewährung von Sachkosten für das Case Management des Kommunalen Integrationsmanagements (KIM) - ungeändert empfohlen
+- TOP 5.5: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - zurückgestellt
+- TOP 5.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Trierer Str. o. Nr., 50674 Köln-Neustadt/Süd - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Aktuelle Situation von Geflüchteten in Köln
+- TOP 7.1: Mindeststandards zur Betreuung Geflüchteter – Fortführung der Maßnahmen bis 31.12.2024 nach Beschluss durch den Rat der Stadt Köln - Kenntnis genommen
+- TOP 7.2: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8: Wohnen
+- TOP 9: Jobcenter Köln
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - zurückgestellt
+- TOP 10.1.2: Filialschließungen der Stadtsparkasse KölnBonn – Auswirkungen auf ältere Kundinnen und Kunden - Sache ist erledigt
+- TOP 10.1.3: Sommerhilfe für wohnungslose Kölnerinnen und Kölner - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der FDP-Fraktion vom 11.08.2023 aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 17.08.2023 betreffend Sommerhilfe für wohnungslose Kölnerinnen und Kölner (AN/1370/2023) - Kenntnis genommen
+- TOP 10.1.4: Kosten der Unterkunft: Was ist angemessener Wohnraum in Köln? - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion vom 13.11.2023 (AN/1972/2023) betreffend "Kosten der Unterkunft: Was ist angemessener Wohnraum in Köln?" - Kenntnis genommen
+- TOP 10.1.5: Armut in Köln: Entwicklung Köln-Pass - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion vom 13.11.2023 aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 16.11.2023 betreffend Armut in Köln: Entwicklung Köln-Pass AN/1971/2023 - Kenntnis genommen
+- TOP 10.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Auswirkungen auf die dezentrale Versorgung mit Geld, insbesondere für die ältere Kundschaft - Sache ist erledigt
+- TOP 10.2.2: veraltete Richtlinie zur Berücksichtigung der Bedarfe für Unterkunft und Heizung (BfU) im SGB II - zurückgestellt
+- TOP 10.2.3: Anfrage der GOL zum Thema "Senior*innenNetzwerke / Offene Altenarbeit" - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Inklusionsbericht 2022 - Kenntnis genommen
+- TOP 12.2: Mitteilung zu Standort und Betrieb des Drogenkonsumraums Mülheim - Kenntnis genommen
+- TOP 12.3: Aufwertung des Neumarkts – Aktueller Stand - Kenntnis genommen
+- TOP 12.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 12.5: Mehrsprachige Veranstaltungsreihe zu Gesundheitsthemen für Senior*innen mit internationaler Familiengeschichte durch die Interkulturellen Zentren der Stadt Köln - Kenntnis genommen
+- TOP 12.6: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - zurückgestellt
+- TOP 12.7: Stand der Umsetzung der Handlungsempfehlungen im Rahmen der Evaluation des Drogenhilfekonzeptes - Kenntnis genommen
+- TOP 12.8: Kölner Innovationspreis Behindertenpolitik 2023 vergeben - Kenntnis genommen
+- TOP 12.9: Neuauflage der Broschüre „Wegweiser Wohnen in Köln„ - Kenntnis genommen
+- TOP 12.10: Fortführung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes (3201/2023) - zurückgestellt
