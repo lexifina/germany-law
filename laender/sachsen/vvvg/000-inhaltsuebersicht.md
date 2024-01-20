@@ -13,7 +13,7 @@ Abschnitt 1 Vertrauensperson, Unterstützungsunterschriften und deren Bestätigu
 Abschnitt 2 Einreichung, Prüfung und Kosten
 § 8 Einreichung und Stellungnahme
 § 9 (weggefallen)
-§ 10 Prüfung durch den Landtagspräsidenten
+§ 10 Prüfung
 § 11 Zuständigkeit und Verfahren des Verfassungsgerichtshofs
 § 12 Entscheidung des Verfassungsgerichtshofs
 § 13 Veröffentlichung
@@ -28,7 +28,7 @@ Abschnitt 2 Unterstützungsunterschriften und deren Bestätigung durch die Gemei
 § 19 Unterstützungsunterschriften und deren Bestätigung durch die Gemeinde
 Abschnitt 3 Einreichung, Prüfung und Kosten
 § 20 Unterstützungsfrist
-§ 21 Prüfung durch den Landtagspräsidenten
+§ 21 Prüfung
 § 22 Feststellung des Ergebnisses
 § 23 Zuständigkeit, Verfahren und Entscheidung des Verfassungsgerichtshofs
 § 24 Kostenerstattung für die Organisation
@@ -58,7 +58,7 @@ Abschnitt 3 Ermittlung, Feststellung und Bekanntgabe des Abstimmungsergebnisses
 § 41 Bekanntgabe des Abstimmungsergebnisses
 Abschnitt 4 Zustandekommen und Prüfung
 § 42 Annahme eines Gesetzentwurfs
-§ 43 Prüfung des Volksentscheids durch den Landtagspräsidenten
+§ 43 Prüfung
 § 44 Beschwerde zum Verfassungsgerichtshof
 Abschnitt 5 Vorschriften über besondere Abstimmungen
 § 45 Nachabstimmung
@@ -77,3 +77,4 @@ Teil 6 Schlussbestimmungen
 § 54 Fristen und Termine
 § 54a Einschränkung von Grundrechten
 § 55 Inkrafttreten
+Anlage Prüfraster für die Verhältnismäßigkeitsprüfung
