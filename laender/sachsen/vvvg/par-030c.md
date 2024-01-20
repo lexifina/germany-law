@@ -1,5 +1,5 @@
 # § 30c Ehrenämter
-(1) Die Beisitzer der Abstimmungsausschüsse und Mitglieder der Abstimmungsvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme dieses Ehrenamtes ist jeder Stimmberechtigte verpflichtet. Das Ehrenamt darf nur aus wichtigen Gründen abgelehnt werden.
+(1) Die Beisitzerinnen und Beisitzer der Abstimmungsausschüsse sowie die Mitglieder der Abstimmungsvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme dieses Ehrenamtes ist jede und jeder Stimmberechtigte verpflichtet. Das Ehrenamt darf nur aus wichtigen Gründen abgelehnt werden.
 (2) Die Übernahme eines Abstimmungsehrenamtes können ablehnen:
 1. Mitglieder des Europäischen Parlamentes, des Deutschen Bundestages oder eines Landtages,
 2. Mitglieder der Bundes- oder einer Landesregierung,
