@@ -1,0 +1,2 @@
+# § 18a Kinder- und Jugendfeuerwehren
+In den Freiwilligen Feuerwehren können Kinderfeuerwehren und Jugendfeuerwehren gebildet werden. Mitglieder der Kinderfeuerwehr sollen mindestens das fünfte Lebensjahr vollendet haben. Mitglied der Jugendfeuerwehr kann in der Regel sein, wer das achte Lebensjahr vollendet hat. Die Bildung kombinierter Kinder- und Jugendfeuerwehren ist möglich. § 18 Absatz 4 bis 9 gilt entsprechend.

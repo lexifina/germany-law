@@ -1,0 +1,10 @@
+# § 69a Zuweisungen im Brandschutz
+(1) Der Freistaat Sachsen gewährt den kreisangehörigen Städten und Gemeinden Zuweisungen zu den bei der Abwehr eines Großschadensereignisses einschließlich der dringlichen vorläufigen Schadensbeseitigung nach § 64 Satz 1 und § 65 Absatz 2 entstandenen Kosten. Soweit ein Kostenerstattungsanspruch besteht, ist nachzuweisen, dass durch das Kostenerstattungsverfahren kein vollständiger Kostenersatz erlangt wurde und mit hinreichender Wahrscheinlichkeit nicht mehr erlangt werden kann. Das Abrechnungsverfahren nach Satz 1 führt die zuständige untere Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörde für die beteiligten kreisangehörigen Städte und Gemeinden durch.
+(2) Der Freistaat Sachsen kann den kreisangehörigen Städten und Gemeinden für die durch einen Einsatz ihrer Feuerwehr entstandenen Kosten Zuweisungen gewähren, soweit
+1. der Einsatz mindestens der Führungsstufe C nach der nach § 16 Absatz 3 eingeführten Feuerwehr-Dienstvorschrift 100 zugeordnet wird, länger andauert und ein Einsatz mehrerer Gemeindefeuerwehren erfolgt, sowie
+2. die der kreisangehörigen Stadt oder Gemeinde verbleibenden Kosten des Einsatzes deren finanzielle Leistungsfähigkeit gefährden.
+Absatz 1 Satz 2 gilt entsprechend.
+(3) Das Staatsministerium des Innern regelt im Einvernehmen mit dem Staatsministerium der Finanzen nach Anhörung der kommunalen Landesverbände durch Rechtsverordnung das Nähere zu den Voraussetzungen nach den Absätzen 1 und 2, zur Höhe und zum Abrechnungsverfahren der Zuweisungen, zur Selbstbeteiligung der kreisangehörigen Städte und Gemeinden sowie zu den Zuständigkeiten für die Bewilligung.
+(4) Für die Fälle des Absatzes 2, in denen eine Führungsunterstützung oder Übernahme der Einsatzleitung nach § 49 Absatz 7 Satz 2 nicht erfolgt ist, bestimmt die Verordnung zudem insbesondere das Nähere zu vorzulegenden Nachweisen
+1. über die Zuordnung des Einsatzes zur Führungsstufe C und
+2. zur fachlichen Erforderlichkeit des Einsatzes der taktischen Einheiten, welche die besondere finanzielle Belastung der Gemeinde verursacht haben.

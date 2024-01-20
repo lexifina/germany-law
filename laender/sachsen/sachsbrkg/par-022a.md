@@ -1,0 +1,4 @@
+# § 22a Brandverhütungsschau in Wäldern
+(1) In Wäldern im Sinne des § 2 des Waldgesetzes für den Freistaat Sachsen vom 10. April 1992 (SächsGVBl. S. 137), in der jeweils geltenden Fassung, führen die unteren Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörden die Brandverhütungsschauen durch.
+(2) Die unteren Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörden können Ersatz der ihnen entstandenen Kosten nach § 17 der Sächsischen Feuerwehrverordnung vom 21. Oktober 2005 (SächsGVBl. S. 291), in der jeweils geltenden Fassung, von den Eigentümern der der Brandverhütungsschau unterliegenden Wälder verlangen.
+(3) Die oberste Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörde wird ermächtigt, das Nähere zur Durchführung der Brandverhütungsschauen in Wäldern sowie zu den fachlichen Voraussetzungen der für die Durchführung Verantwortlichen im Sinne des Absatzes 1 und zur Mitwirkung anderer Behörden durch Rechtsverordnung zu regeln.
