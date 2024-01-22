@@ -1,0 +1,54 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973287
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973287
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 18.12.2023
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Seydlitzstr. 3
+- TOP 3.3.1.2.: Dachauer Str. 334a
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Bericht des Kassier zum Kontostand des Verwaltungskontos (§17 Abs. 3 Satz 2 BA-Satzung)
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Sportplatz Amicita vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-10-0360 -> vertagt aus Sitzung am 20.11.2023
+- TOP 5.2.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Sportplatz Olympia vom 01.01. - 31.12.2024 7.980,00 Euro, Az.: 0262.0-10-0359 -> vertagt aus Sitzung am 20.11.2023
+- TOP 5.3.: (E) Stadtbezirksbudget Kindergruppe Moosach e.V. Neuausstattung Kita mit kindergeeigneten Holzstühlen und Tischen 2.005,47€; Az. 0262.0-10-0362
+- TOP 5.4.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 1.800,00€; Az. 0262.0-10-0364
+- TOP 5.5.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches MFM-Projekt für die 5. Klassen im Februar/März 2024 1.561,80 Euro, Az.: 0262.0-10-0365
+- TOP 5.6.: (E) Stadtbezirksbudget Initiative "Goldie" Lesungen "Goldie" vom 20.02. - 15.03.2024 1.737,50 Euro, Az.: 0262.0-10-0368
+- TOP 5.7.: (E) Stadtbezirksbudget Pflegezentrum Moosach Archenoris gGmbH Seniorinnen und Senioren besuchen Museen vom 01.03. - 23.12.2024 1.200,00 Euro, Az.: 0262.0-10-0367
+- TOP 5.8.: (E) + (U) Lichtzeichenanlagen und Baustelleneinrichtungen für mobilitätseingeschränkte Personen verbessern: 1. Nachrüstung LZA Kreuzung Dachauer Straße/ Pelkovenstraße/ Bunzlauer Straße/ Baubergerstraße 2. Generelle Konzeptionen Baustellensicherungen zum selbständigen Passieren von blinden und sehbehinderten Personen 3. Ausstattung der LZA an der Einmündung Dachauer Straße in Donauwörther Straße mit Zusatzeinrichtungen (alternative Wegstrecke zum Bahnhof Moosach) 4. Erneuerung der Zusatzeinrichtung für Blinde an der LZA Kreuzung Dachauer Straße/ Gröbenzeller Straße Empfehlung Nr. 20-26 / E 01384 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 05.07.2023
+- TOP 5.9.: (E) + (U) Instandsetzung der Gebäude in der Baubergerstr. 4-6 und Dachauer Str. 401-403 (GWG) Empfehlung Nr. 20-26 / E 01395 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 05.07.2023
+- TOP 6.: Anhörungen
+- TOP 6.1.: MVG-Zeitkarten für Bezirksausschussmitglieder hier: Antrag Nr. 20-26/B 03393 des BA 16
+- TOP 6.2.: Veranstaltung in städtischen Grünanlagen: Simmerleinplatz 1. "Wintergrillen" am 23.02.2024 und 2. "Pflanzentauschbörse" am 04.05.2024
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Neues Cargoterminal am Rangierbahnhof München Nord - frühzeitige Einbindung des BA 10 sicherstellen (Verkehrskonzept) [BA-Antrag Nr. 20-26/B 05690; Einbindung BA, sobald fundierte neue Erkenntnisse vorliegen, die über die bereits präsentierten Informationen hinausgehen.]
+- TOP 7.2.: Umgehende Optimierung der mangelhaften Baustellenbeschilderung in der Bauberger Straße zwischen Gubestraße und Großbeerenstraße [BA-Antrag Nr. 20-26/B 06141; Hinweise des BA10 werden bei künftig notwendigen Beschilderungen aufgenommen.]
+- TOP 7.3.: Grünanlage parallel zur Hengeler- und Lampadiusstraße ("SWM-Wäldchen Borstei"): Konzept für Erhaltung, Baumentnahmen und -nachpflanzungen [Schreiben BA10 vom 25.10.2023; 9 Fällungen, dichter Altbaumbestand; Nachpflanzungen erst wenn größere Lücke im Bestand entsteht.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm -> hier: Ergänzung vom 30.11.2023: Stellungnahme BA10 + Antwort RBS, Seite 6 und 7! A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 8.2.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 8.3.: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 8.4.: Mitteilung über ein Grundstücksgeschäft: Bauberger Straße - nicht-öffentlich - Sacheinlage/ Veräußerung von Miteigentumsanteilen
