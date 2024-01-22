@@ -1,0 +1,74 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-22T15:00:00+01:00
+- Ende: 2024-01-22T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29622
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29622
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Aktuelle Stunde zur Schulplatzsituation im Primarbereich - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: A. Präsentation genderneutrale Toiletten - Kenntnis genommen
+- TOP -: B. Präsentation Konzept Kommunales Medienzentrum - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Fortschreibung der Schulentwicklungsplanung Köln 2023 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Stadt AG Behindertenpolitik vom 11.01.2024 zu TOP 2.1 betreffend "Fortschreibung der Schulentwicklungsplanung Köln 2023" - Sache ist erledigt
+- TOP -: Stellungnahme der Verwaltung vom 17.01.2024 zum Änderungsantrag der Stadt AG Behindertenpolitik vom 11.01.2024 zu TOP 2.1 - Kenntnis genommen
+- TOP -: Änderungsantrag zum Änderungsantrag AN/0071/2024 der Fraktionen Bündnis 90 / Die Grünen, CDU, SPD, DIE LINKE, FDP und Volt vom 22.01.2024 betreffend „Fortschreibung der Schulentwicklungsplanung 2023“ - ungeändert empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 22.01.2024 zu TOP 2.1 "Fortschreibung der Schulentwicklungsplanung 2023" - ungeändert empfohlen
+- TOP 2.2: Beantwortung von Nachfragen zur Präsentation der Schulentwicklungsplanung Köln 2023 - Kenntnis genommen
+- TOP 2.3: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim - zurückgestellt
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 10.01.2024 betreffend "Akkreditierung als Konsortium für das EU-Programm Erasmus+" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 08.01.2024 betreffend "Baurunden an Schulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "Verkehrskonzept am Knotenpunkt Wasseramselweg/Teichrohrsängerweg/Am Wassermann" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "OGS Montessori-Grundschule Ferdinandstraße" - zurückgestellt
+- TOP 5.3: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 17.11.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.4: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.4.1: Anfrage der Fraktion Die Fraktion vom 15.11.2023 betreffend "Sachstand "Sponsoringvereinbarung Stadt Köln 2021-22"?" - zurückgestellt
+- TOP 5.5: Anfrage der Fraktion SPD vom 11.09.2023 betreffend "Ausnahmezustand am Maximilian-Kolbe-Gymnasium" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 21.09.2023 - Kenntnis genommen
+- TOP 5.6: Anfrage der Fraktion Die Linke vom 22.05.2023 betreffend "Verbesserungsmöglichkeiten des Aufnahmeverfahrens und der Bildungsgerechtigkeit an Grundschulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 02.10.2023 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Schulrechtliche Errichtung einer 3-zügigen Grundschule am Standort Friedrich-Karl-Straße 64, 50737 Köln-Weidenpesch, bei gleichzeitiger Änderung der Montessori-Grundschule GGS Gilbachstr. - ungeändert empfohlen
+- TOP 6.2: Änderung des Bildungsganges Einjährige Berufsfachschule im Fachbereich Technik/ Naturwissenschaften durch die Einführung der Profilklasse Ingenieurstechnik am Berufskolleg Porz zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.3: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit 3 Sportübungseinheiten im Stadtbezirk Nippes - ungeändert empfohlen
+- TOP 6.4: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Nippes - hier: Ersatz der Vorlage 0604/2023 - mit Änderungen empfohlen
+- TOP 6.5: Einrichtung des Interims für das Gymnasium Rondorf, Eygelshovener Str. 19, 50999 Köln - ungeändert empfohlen
+- TOP 6.6: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 7: Entscheidungen
+- TOP 7.1: Beschluss über die kommunale Klassenrichtzahl, die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2022/23 - Kenntnis genommen
+- TOP 8.2: Mündliche Anfrage aus der Sitzung vom 23.01.2023 betreffend Raumsituation ehemalige Hauptschule Rodenkirchen - Kenntnis genommen
+- TOP 8.3: Beantwortung einer schriftlichen Anfrage der SPD Fraktion - Kenntnis genommen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Beantwortung einer mündlichen Anfrage von RM Seeck, SPD-Fraktion aus der Sitzung am 21. August 2023 bezüglich "Verzögerungen in der Gesamtschule Heliosschule" - Kenntnis genommen
+- TOP 8.6: Empfehlungen des Expert*innenbeirats Inklusion Köln - Kenntnis genommen
+- TOP 8.7: Sachstand zum Pilotprojekt für die Reinigung schadstoffbelasteter Luft in Städten - Kenntnis genommen
+- TOP 8.8: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/ Die Grünen im Ausschuss Schule und Weiterbildung vom 20.11.2023 - Kenntnis genommen
+- TOP 8.13: Aktualisierter Schulsozialindex des Landes - Kenntnis genommen
+- TOP 8.14: Neues Programm: Volkshochschule setzt auf Zusammenhalt - Kenntnis genommen
+- TOP 8.15: Ergebnisse des Projektes "Verbesserung der Verpflegungsqualität des Mittagessens an Kölner Grundschulen" - Kenntnis genommen
+- TOP 8.16: Beantwortung einer mündlichen Anfrage von Maria Westphal aus der Sitzung des Ausschusses Schule und Weiterbildung vom 20.11.2023 betreffend das Nikolaus-August-Otto-Berufskolleg - Kenntnis genommen
+- TOP 8.17: Beantwortung einer mündlichen Anfrage von Bärbel Hölzing der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschuss Schule und Weiterbildung vom 20.11.2023 betreffend: "Bündelungsgymnasien - Container für das Kaiserin-Theophanu-Gymnasium" - Kenntnis genommen
+- TOP 8.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.19: Tag der Jugend im Rathaus 2023 - Evaluation - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.20: Zwischenergebnisse der Evaluation in neun Kölner Familiengrundschulzentren: Fachkräftebefragung - Kenntnis genommen
+- TOP 8.21: Beantwortung einer schriftlichen Anfrage betreffend "Anträgen der Kölner Bürger*innen (Erziehungsberechtigten) mit internationaler Familiengeschichte für die Einrichtung eines neuen Standortes für den Herkunftssprachlichen Unterrichtes" - Kenntnis genommen
+- TOP 8.22: Organisatorisches Konzept des Kommunalen Medienzentrums der Stadt Köln - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
