@@ -1,0 +1,62 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-23T16:00:00+01:00
+- Ende: 2024-01-23T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26068
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26068
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509217.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509217.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509217.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen
+- TOP 3.1: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens - Empfehlung einstimmig beschlossen
+- TOP 3.2: Flächennutzungsplanänderung Nr. 213 und Bebauungsplan-Vorentwurf Nr. 02/021 - Eduard-Schloemann-Straße - Empfehlung einstimmig beschlossen
+- TOP 3.3: Aufhebung der Sanierungssatzung Kölner Straße - Empfehlung einstimmig beschlossen
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Erneuerung von Kunstrasenbelägen auf Sportanlagen im Stadtbezirk 2 - einstimmig beschlossen
+- TOP 3.7: Zuwendungen und Zuschüsse für Bauunterhalt Dritter (Liste C) - Terrassenüberdachung Suchthilfezentrum - mehrheitlich beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Aufführung des English Theatre Düsseldorf (ETD) „Belfast Girls im Weltkunstzimmer - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.2: Förderung des Theaterprojekts Belfast vom English Theatre Düsseldorf aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 4.3: Bezirksbezogene Haushaltsmittel für die Theater-Aufführung „Belfast Girls“ - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 4.4: Bezirksbezogene Haushaltsmittel für das Stadtteil-Event „Kauf und Plausch“ - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 4.5: Prüfung sicherer Schulwege zur Carl-Sonnenschein-Grundschule und zur Dependence der Heinrich-Heine-Gesamtschule - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.6: Reduzierung der Fahrbahn Einmündung Vennhauser Straße in die Behrenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.7: Anschreiben der Leitung des Gartenamtes vom 17.11.2023 zum Masterplan Kinderspielplätze / Auswahl von Maßnahmen für das Haushaltsjahr 2025 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.8: Reinigung Schallschutzwände Stadtwerkepark - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 4.9: Durchfahrtmöglichkeit für große Fahrzeuge auf der Paulusstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 4.10: repräsentative Parkraumerhebung zum Anwohnerparken - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion - vertagt
+- TOP 5.2: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 5.3: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Sicherung des ehemaligen Telekom-Gebäudes an der Sohnstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anfragen zur aktuellen Sitzung
+- TOP 6.1: Versiegelung von Verkehrsinseln und Verkehrsrestflächen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.2: Nachverfolgung von Meldungen zu Falschparker*innen im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.3: Wohnungsbau im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.4: Ergebnis Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.5: Toilette Hermannplatz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Die Einrichtung eines Gesundheitskiosks im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/170/2023 - zur Kenntnis genommen
+- TOP 7.2: Prüfung Ackerstraße als Fahrradstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/120/2022 - zur Kenntnis genommen
+- TOP 7.3: Aufstellung von Fahrradständern Ecke Hallbergstraße / Mathildenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/121/2022 - zur Kenntnis genommen
+- TOP 7.4: Tempo 30 Gerresheimer Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/253/2023 - zur Kenntnis genommen
+- TOP 7.5: Geschwindigkeitsanzeigetafel Achenbachstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/255/2023 - zur Kenntnis genommen
+- TOP 7.6: Verbesserung der Straßenbeleuchtung auf der Lindenstraße - Beschluss Der Bezirksvertretung 2, Vorlage BV2/257/2023 - zur Kenntnis genommen
+- TOP 7.7: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 7.8: Neuer Zugang zum TC13 - Beschluss der Bezirksvertretung 2, Vorlage BV2/213/2023 - zur Kenntnis genommen
+- TOP 7.9: Ausstattung des Spielplatzes Eduard-Schloemann-Straße 55 - Beschluss der Bezirksvertretung 2, Vorlage BV2/031/2023 - zur Kenntnis genommen
