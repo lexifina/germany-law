@@ -292,4 +292,5 @@
 - [§ 139b Übergangsregelung für den bis zum 31. Dezember 2003 geltenden § 51a](0139b.md)
 - [§ 140 (weggefallen)](0140.md)
 - [§ 141 Inkrafttreten](0141.md)
-- [Anlage (zu § 122 Satz 1)](anlage.md)
+- [Anlage 1 (zu § 57 Absatz 3a Satz 1 und § 57c Absatz 1 Satz 4)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
+- [Anlage 2 (zu § 122 Satz 1) Gebührenverzeichnis](anlage-2.md)

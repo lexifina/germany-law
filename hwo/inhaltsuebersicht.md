@@ -25,8 +25,8 @@
 | Erster Abschnitt: | Bußgeldvorschriften | §§ 117 – 118a |
 | Zweiter Abschnitt: | Übergangs- vorschriften | §§ 119 – 124c |
 | Dritter Abschnitt: | Schlussvorschriften | §§ 125 – 126 |
-| Anlage A: | Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können | Nr. 1 – 53 |
-| Anlage B: | Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können |  |
+| Anlage A: | Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Absatz 2) | Nr. 1 – 53 |
+| Anlage B: | Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2) |  |
 |  | Abschnitt 1 | Nr. 1 – 56 |
 |  | Abschnitt 2 | Nr. 1 – 57 |
 | Anlage C: | Wahlordnung für die Wahlen der Mitglieder der Vollver- sammlung der Handwerks- kammern |  |
@@ -50,9 +50,12 @@
 |  | Beschwerdeverfahren, Kosten | §§ 21 – 22 |
 |  | Anlage: |  |
 |  | Muster des Wahlberechtigungsscheins |
-| Anlage D | Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle sowie in dem Verzeichnis der Sachverständigen |
+| Anlage D: | Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle sowie in dem Verzeichnis der Sachverständigen |
 |  | I. | Handwerksrolle |  |
 |  | II. | Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes |
 |  | III. | Lehrlingsrolle |  |
 |  | IV. | Verzeichnis der Unternehmer |  |
 |  | V. | Verzeichnis der Sachverständigen |
+| Anlage E: | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen (§ 106 Absatz 4 Satz 1) |
+|  | I. | Begriffsbestimmungen |
+|  | II. | Zu prüfende Kriterien |

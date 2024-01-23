@@ -206,3 +206,4 @@
 | § 159 | Übergangsregelung zu § 34a |
 | § 160 | Übergangsregelungen zu den §§ 34c und 34i |
 | § 161 | Übergangsregelung zu § 14 Absatz 4 |
+| Anlage (zu § 36 Absatz 4a Satz 1) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |

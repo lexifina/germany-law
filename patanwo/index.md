@@ -320,4 +320,5 @@
 
 - [§ 161 Maßgabe nach dem Einigungsvertrag](0161.md)
 - [§ 162 Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften](0162.md)
-- [Anlage (zu § 146 Satz 1 und § 148 Satz 1)Gebührenverzeichnis](anlage.md)
+- [Anlage 1 (zu § 52a Absatz 4 Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
+- [Anlage 2 (zu § 146 Satz 1 und § 148 Satz 1)Gebührenverzeichnis](anlage-2.md)

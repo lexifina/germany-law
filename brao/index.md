@@ -435,4 +435,5 @@
 - [§ 209a Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften](0209a.md)
 - [§ 210 Bestehenbleiben von Rechtsanwaltskammern](0210.md)
 - [§ 211 Befreiung von der Voraussetzung der Befähigung zum Richteramt](0211.md)
-- [Anlage (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis](anlage.md)
+- [Anlage 1 (zu § 59a Absatz 4 Satz 1) Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
+- [Anlage 2 (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis](anlage-2.md)

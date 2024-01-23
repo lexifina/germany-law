@@ -360,4 +360,5 @@ Handlungen und Unterlassungen
 - [§ 166 Fortgeltung bisheriger Vorschriften](0166.md)
 - [§ 167 Freie und Hansestadt Hamburg](0167.md)
 - [§ 168 Inkrafttreten des Gesetzes](0168.md)
-- [Anlage (zu § 146 Satz 1)Gebührenverzeichnis](anlage.md)
+- [Anlage 1 (zu § 86 Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
+- [Anlage 2 (zu § 146 Satz 1)Gebührenverzeichnis](anlage-2.md)

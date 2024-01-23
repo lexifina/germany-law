@@ -313,4 +313,5 @@ Schlussvorschriften
 | § 166 | Fortgeltung bisheriger Vorschriften |
 | § 167 | Freie und Hansestadt Hamburg |
 | § 168 | Inkrafttreten des Gesetzes |
-| Anlage(zu § 146 Satz 1) | Gebührenverzeichnis |
+| Anlage 1 (zu § 86 Absatz 3a Satz 1) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |
+| Anlage 2 (zu § 146 Satz 1) | Gebührenverzeichnis |

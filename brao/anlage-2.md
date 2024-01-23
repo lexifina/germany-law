@@ -1,4 +1,4 @@
-# Anlage (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis
+# Anlage 2 (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis
 
 Gliederung
 Teil 1 Anwaltsgerichtliche Verfahren

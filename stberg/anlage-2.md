@@ -1,4 +1,4 @@
-# Anlage (zu § 146 Satz 1)Gebührenverzeichnis
+# Anlage 2 (zu § 146 Satz 1)Gebührenverzeichnis
 
 | Gliederung |
 |  |

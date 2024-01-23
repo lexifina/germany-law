@@ -263,4 +263,5 @@ Elfter Teil
 | § 139b | Übergangsregelung für den bis zum 31. Dezember 2003 geltenden § 51a |
 | § 140 | (weggefallen) |
 | § 141 | Inkrafttreten |
-| Anlage | (zu § 122 Satz 1) |
+| Anlage 1(zu § 57 Absatz 3a Satz 1 und § 57c Absatz 1 Satz 4) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |
+| Anlage 2(zu § 122 Satz 1) | Gebührenverzeichnis |
