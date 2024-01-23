@@ -1,0 +1,52 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-01-23T17:00:00+01:00
+- Ende: 2024-01-23T19:11:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6915
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6915
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=479338
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Wahl eines/einer Vorsitzenden - gewählt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Zweitzugang am S-Bahnhof Frohnau - im Ausschuss abgelehnt
+- TOP 4.2: Durchgang zu den Sportstätten am U-Bahnhof Scharnweberstraße gewährleisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Absolutes Halteverbot zum Wohle des ÖPNV an der Einmündung in den Ludolfinger Platz - vertagt
+- TOP 4.4: Barrierefreiheit am S-Bhf. Hermsdorf (II) - vertagt
+- TOP 4.5: Natürliche Ufergestaltung in Tegelort - im Ausschuss abgelehnt
+- TOP 4.6: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Parkraummanagement für Reinickendorf-Ost - im Ausschuss abgelehnt
+- TOP 4.8: Erhöhung der Verkehrssicherheit beim Queren der Grußdorfstraße - im Ausschuss abgelehnt
+- TOP 4.9: Fußgängerüberweg Bernauer Str. - im Ausschuss abgelehnt
+- TOP 4.10: Sichere Schulwege in Heiligensee - mit Änderungen im Ausschuss beschlossen
+- TOP 4.11: Mehr Sicherheit für Fahrradabstellanlagen durch Videoüberwachung und ausreichende Beleuchtung - vertagt
+- TOP 4.12: Barrierefreiheit im Märkischen Viertel - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: Barrierefreiheit in Konradshöhe - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Mehr Sicherheit auf der Kreuzung Am Nordgraben/Schorfheidestraße - im Ausschuss abgelehnt
+- TOP 4.15: Einbahnstraße für erhöhte Verkehrssicherheit in der Illerzeile - vertagt
+- TOP 4.16: Grünpfeil für Radfahrende an der Kreuzung Karolinenstr. / Waidmannsluster Damm - vertagt
+- TOP 4.17: Bessere Erreichbarkeit des Tegeler Sees aus dem Märkischen Viertel - vertagt
+- TOP 4.18: Verkehrssicherheit in Heiligensee - vertagt
+- TOP 4.19: Erhalt von Dauerkleingartenanlagen - vertagt
+- TOP 4.20: Straßensperrungen vermeiden - vertagt
+- TOP 4.21: Neubau der Ollenhauerstraße mit regelkonformen Fuß- und Radwegen zügig vorantreiben - vertagt
+- TOP 4.22: Errichtung eines Schutzgitters an der Schulzendorfer Straße - vertagt
+- TOP 4.23: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm an der Martin-Luther-Straße - vertagt
+- TOP 4.24: Zuwegung für Rettungsfahrzeuge sicherstellen - vertagt
+- TOP 4.25: Halteverbot von Kfz über 3,5 Tonnen vor der Gemeinschaftsschule Campus Hannah-Höch (Grundstufe) - vertagt
+- TOP 4.26: BVG-Haltestelle "Marthastraße" aufwerten II - vertagt
+- TOP 4.27: BVG-Haltestelle "Marthastraße" aufwerten I - vertagt
+- TOP 4.28: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - vertagt
+- TOP 4.29: Elektrokleinbusse in den Randortsteilen nutzen - vertagt
+- TOP 4.30: Zebrastreifen für Waldseespielplatz einrichten - vertagt
+- TOP 4.31: Mehr Parkmöglichkeiten für Dienstleister im Schumacher Quartier - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - (offen)
