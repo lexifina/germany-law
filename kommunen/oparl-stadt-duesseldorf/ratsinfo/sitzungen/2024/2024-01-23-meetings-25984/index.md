@@ -1,0 +1,55 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-23T17:00:00+01:00
+- Ende: 2024-01-23T20:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25984
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25984
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509305.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509305.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509305.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Bau- und Planungsangelegenheiten
+- TOP 4.1: Aufhebung der Sanierungssatzungen Berger Hafen/Zollhafen - einstimmig beschlossen
+- TOP 4.2: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung - einstimmig beschlossen
+- TOP 4.3: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung südlich der Innenstadt, 1. Anschlussprogramm (GPWS II) - einstimmig beschlossen
+- TOP 4.4: Aufhebung der Sanierungssatzung Kölner Straße - einstimmig beschlossen
+- TOP 4.5: Aufhebung der Sanierungssatzung Rheinuferstraße - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Vorstellung Aufgaben Fußverkehrsbeauftragte (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens - einstimmig beschlossen
+- TOP 5.3: Winterquartier für obdachlose Menschen in Oberbilk (mdl. Bericht) - zur Kenntnis genommen
+- TOP 6: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 6.1: Genehmigung einer Dringlichkeitsentscheidung nach § 36 Abs. 5 Satz 2 GO NRW - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schule - Haushalt 2023 - einstimmig beschlossen
+- TOP 6.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorherigen Sitzungen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: GGS Regenbogenschule (Anfrage SPD-Fraktion) - zur Kenntnis genommen
+- TOP 7.2: Aktuelle Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Situation der insolventen Wohnungsbauunternehmen im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 7.2.4: Sachstand Quartier Mintropplatz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Verwendung der bezirksbezogenen Haushaltsmittel 2024 (Antrag BÜNDNINS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Karolingerstraße zur Fahrradstraße machen - zur Kenntnis genommen
+- TOP 9.2: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 9.3: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
