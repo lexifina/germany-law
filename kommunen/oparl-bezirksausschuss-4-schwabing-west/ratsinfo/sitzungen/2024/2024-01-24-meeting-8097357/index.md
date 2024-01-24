@@ -1,0 +1,112 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-01-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8097357
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8097357
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Casa empower gGmbH Antidiskriminierungstraining vom 29.01. - 26.07.2024 4.320,00 Euro, Az.: 0262.0-4-0487
+- TOP 2.2.: Kinder- und Jugendforum
+- TOP 2.3.: Sozialraumkarte
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise und Sachberichte) a) EKI Stadtpiraten e.V.: Anschaffung eines Krippenwagens
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Fahrradabstellplätze Herzogstr. 50
+- TOP 1.2.: Bürger: Parkplätze für MVG-Nutzer*innen am Scheidplatz
+- TOP 1.3.: Bürgerin (Punkt 3 und 4 des Schreibens): a) Maßnahmen zur Durchsetzung von Tempo 30 in der Bonner Straße b) Car Sharing-Angebot auf dem Kölner Platz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Umgestaltung der Schwere-Reiter-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fahrradabstellanlagen in der Clemens-/Ecke Fallmerayerstraße (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen, TOP D 1.5 10/23)
+- TOP 3.1.2.: Bestellung städtischer Leistung: Dialog-Displays in der Clemens- bzw. Schleißheimer Straße (Zwischennachricht des Baureferats zum BA-Antrag Nr. 20-26 / B 05802)
+- TOP 3.1.3.: Parkplätze vor Rümannstr. 61 (TOP D 1.2 12/23: Reaktionen des Bürgers auf Antwortschreiben des BA)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Errichtung eines Fußgängerüberweges in der Infanteriestraße
+- TOP 3.2.2.: Erweiterung des Halteverbots an der Ostseite der Rankestraße nördlich Emanuelstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Begrünung Kurfürstenplatz
+- TOP 1.2.: Bürger: Fragen zu Geothermie im Stadtbezirk (z.B. ehem. Karstadt-Gelände)
+- TOP 1.3.: Bürgerin (Punkt 1 und 2 des Schreibens): a) Planungsstand Umgestaltung Bonner Platz? b) Begrünung Speyerer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Ainmillerstr. 27-27a: Antrag auf Fällung einer Blutpflaume
+- TOP 2.1.2.: Ainmillerstr. 43: Antrag auf Fällung einer Linde
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Nachfrage zur Umgestaltung und Begrünung der Rankestraße (Antwort des Baureferats Tiefbau auf weitergeleitetes Bürgeranliegen, TOP A 4 11/23)
+- TOP 3.1.2.: Bestellung städtischer Leistungen: Sitzgruppe für Grünfläche Viktoriaplatz (Zwischennachricht des Baureferats Gartenbau, vgl. TOP E 3.1.1 10/23)
+- TOP 3.1.3.: Lichtinstallation und Beleuchtung im Petuelpark (Zwischennachricht des Baureferats zu BA-Anfrage TOP E 1.1 11/23)
+- TOP 3.1.4.: Bürgerfest zum 20jährigen Jubiläum des Petuelparks (Antwort des BA 11 Milbertshofen-Am Hart zu weitergeleitetem BA-Antrag TOP E 1.3 11/23)
+- TOP 3.1.5.: Herzogstr. 51: Pflanzung eines kleinen Baumes möglich? (Antwort des Baureferats Tiefbau auf weitergeleitetes Bürger*innenanliegen TOP E 1.2 08/23)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Klopstockstr. 6: Genehmigung zur Fällung zweier Eschen
+- TOP 3.2.2.: Fallmerayerstr. 9: Genehmigung zur Fällung von vier Robinien
+- TOP 3.2.3.: Bevorstehende Entfernung von Gefahrenbäumen an Straßen und in öffentlichen Grünflächen (Übersicht des Baureferats Gartenbau)
+- TOP 3.2.4.: Ainmillerstr. 44: Genehmigung zur Fällung einer Birke
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Gleiserneuerung Scheidplatz: Verlängerung der Ausnahmegenehmigung für Sonntagsarbeit bis 28.01.2024 und für Nachtarbeit bis 20.01.2024
+- TOP 3.4.2.: Präsentation der Novellierung der Baumschutzverordnung
+- TOP 3.4.3.: Verlängerung der Ausnahmegenehmigung für baustellenbedingte Mülleinsammlung ab 05.30 Uhr in den Einsatzbereichen Belgradstraße zwischen Kurfürstenplatz und Destouchesstraße sowie Belgradstraße über Nordendstraße bis Elisabethplatz
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz"!) am 14.09.2024 1.600,00 Euro, Az.: 0262.0-4-0489
+- TOP 2.1.2.: (E) Stadtbezirksbudget Initiative "Evocations of Noor" Evocations of NOOR: Multidirektionale Erinnerungen vom 20.02. - 30.03.2024 3.060,00 Euro, Az.: 0262.0-4-0488
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "Kinderoper" Rahmen- und Vermittlungsprogramm für die Kinderoper "Bösemann" vom 15.01. - 29.02.2024 2.000,00 Euro, Az.: 0262.0-4-0490
+- TOP 2.1.4.: (E) Stadtbezirksbudget Lesereihe werk[statt] Lesereihe werk[statt] - 4 Termine zwischen April und November 2024 1.908,00 Euro, Az.: 0262.0-4-0491
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise, Sachberichte) a) Svapinga Consort: „Musik für die Neue Welt“, 14. bis 18.06.2023 b) Absage des geförderten Filmprojekts „Schwabinger Geschichte(n)“ (vgl. TOP F 2.1.1 10/21) c) München – Zeitreisen: Filmprojekt „München in den 50er Jahren“ d) Initiative „Fast Fashion: Tanztheater vom 18. Bis 20.09.2023 e) Ateliergemeinschaft Leonrodhaus: „RÄUME(N) – 3 Tage offene Ateliers im Kreativquartier“ f) Ackermannbogen e.V.: Upgrade der Quartierswerkstatt vom 01.10. bis 31.12.2023
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „YOISUSHI“, Georgenstr. 62
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Il Borgo“, Georgenstr. 144
+- TOP 3.4.3.: Schank- und Speisewirtschaft „Korfu bei Dimi“, Lerchenauer Str. 14
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: MVG-Zeitkarten für Bezirksausschussmitglieder (Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach vom 09.12.2021)
+- TOP G.2.: BA-Newsletter
+- TOP H: Termine
