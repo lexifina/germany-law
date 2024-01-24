@@ -1,0 +1,98 @@
+# 20. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2024-01-24T17:30:00+01:00
+- Ende: 2024-01-24T21:21:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7802
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7802
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=299722
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Fragen an das Bezirksamt zur Sperrung des Nesselwegs - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.9: Berufung eines beratenden Mitglieds und eines stellvertretenden beratenden Mitglieds aus der Jugendhilfe sachverwandten Bereichen für den Kinder- und Jugendhilfeausschuss (KJHA) der Bezirksverordnetenversammlung für die IX. Wahlperiode gemäß § 35 Abs. 7 Nr. 9 AG KJHG. - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Informationsmaterialien für Eltern zur Früh- und Zwangsverheiratung bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Ausweisung zweier Behindertenparkplätze Schulstraße Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Bedarfsermittlung von Schulplätzen für autistische Kinder - Kleinklassen Autismus in Pankow ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Landesgleichberechtigungsgesetzes (LBGB) für den Bereich Kinder und Jugend in Pankow vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Kulturorte für Menschen mit Migrationsgeschichte - Vielfalt in Pankow fördern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Eingliederung ins Arbeitsleben stärken - Clearingstelle für kommunale Eingliederungsleistungen im Jobcenter Pankow einrichten - in der BVV abgelehnt
+- TOP 1.16: Ein Dreiecksplatz entsteht - Wohnen, Gedenken, Mobilität und Klimaresilienz aus einem Guss an der Hufelandstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Finanzielle Mittel für „Kunst am Bau“ an Schulen reduzieren und freigewordene Mittel für Schulbauten einsetzen - in der BVV abgelehnt
+- TOP 1.18: Wasserdurchlässige Oberflächen für Parkplätze - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Eine Verkehrsinsel auf der Kniprodestraße für Besucher des Anton-Saefkow-Parks in der Grünen Stadt - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Erhöhung der Verkehrssicherheit an der Kreuzung Triftstraße und Schützenstraße in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verkehrssicherheit auf der Brücke der Bucher Straße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Bestäubergerechtes Pankow durch „Pollinator Pathmaker“ Kunstwerk-Beete - in der BVV abgelehnt
+- TOP 1.23: Die Nette Toilette auch in Pankow - in der BVV abgelehnt
+- TOP 1.24: Müll und Mobilität – Miteinander statt Gegeneinander - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Untätigkeit beenden – Ringschluss zwischen Tram 50 und M1 endlich ernsthaft angehen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Den beliebten Berliner Skatepark in Französisch Buchholz wieder im alten Glanz erstrahlen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Mindeststandards in Obdachlosenunterkünften - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Keine Windkraftanlagen im Bucher Forst - in der BVV abgelehnt
+- TOP 1.29: Schließfächer für obdachlose Menschen einrichten - überwiesen
+- TOP 1.30: Schluss mit Schlamm- und Modderweg – Schlossallee soll ihren Namen verdienen - überwiesen
+- TOP 1.31: Straßenfeger retten – Ersatzimmobilie finden! - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Zebrastreifen an der Straßenbahnstation Heinersdorf - überwiesen
+- TOP 1.33: Tram-Querung Wisbyer Straße zwischen Gudvanger Straße und Talstraße für den MIV schließen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: P+R Parkplatz S-Bahn Pankow-Heinersdorf reanimieren - überwiesen
+- TOP 1.35: Heizkosten und CO2 einsparen an der Bornholmer Grundschule - überwiesen
+- TOP 1.36: "Berliner Hausbesuche" auch in Pankow - überwiesen
+- TOP 1.37: Schule auf dem Gelände des ehemaligen Säuglings- und Kinderkrankenhauses Weißensee zügig umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: U-Bahnhof Eberswalder Straße für Inklusionssportpark fit machen. Zweiten Fahrstuhl am Nordende planen jetzt! - überwiesen
+- TOP 1.39: Unterbringung von Flüchtlingen verträglich organisieren - überwiesen
+- TOP 1.40: Informationen zu Spielplatz-Baustellen - in der BVV abgelehnt
+- TOP 1.41: Einfahrverbot für LKW in der Walter-Friedrich-Straße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Verkehrsanbindung des Stadtquartiers „Wilhelmsruher Tor“ / B-Plan 3-18 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Verkehrssicherheit an der Klecksgrundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Rahmen und Verfahren für den Blankenburger Süden vom Kopf auf die Füße stellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: „Kurze Beine - kurze Wege“ auch für Erstklässler im Gebiet Alter Schlachthof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Aufhebung des Bezirksamtsbeschluss VIII-0361/2018 zum Schlussbericht zur Drucksache VIII-0307 vom 13. Februar 2018 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Umgestaltung der Piazza in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Angebot der Kinderbetreuung an Volkshochschulen stärken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Musikalische Früherziehung fördern – Kooperationen zwischen Musikschule und Kitas ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Geordnete städtebauliche Entwicklung nordöstlich des Bahnhofs Wilhelmsruh einleiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Berufung einer/s Beauftragten für „Gute Arbeit“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Weiteres Verfahren zum Bebauungsplan 3-18 „Wilhelmsruher Tor“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Realisierung des Schulneubaus auf dem Georgen-Parochial-Friedhof III - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Rahmenplan für Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Fußgänger:innenüberweg in der Damerowstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Sicherer Schulweg, gefahrlos zum Ortskern: Pflege und Unterhaltung des Weges zwischen Hauptstraße und Elfenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Wohnraum schaffen – Versiegelte Flächen ökologisch überbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Fußgängerüberweg über die Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Schulwegsicherheit am Heinrich-Schliemann-Gymnasium herstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Informationen zu Hilfsmöglichkeiten bei häuslicher Gewalt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Gemeinschaftsschule am Standort des Kinderkrankenhauses Weißensee endlich umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Baustellenampeln in der Triftstraße in Französisch Buchholz nachts abschalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Freizeitangebote für Kinder und Jugendliche besser sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bundesmittel für die Klimaanpassung in Pankow nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Milieuschutz um den Weißen See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Häusliche Gewalt aus der Grauzone holen - Information und Sensibilisierung! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Förderung von Pankow-Songs - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Lesbische Sichtbarkeit und Angebote für queere Frauen* in Pankow fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Existenzgefährdungen durch Preissteigerungen bei freien Trägern abwenden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Prävention von Kinder- und Familienarmut in Pankow - Koordinationsstelle und bezirkliche Gesamtstrategie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Sonne für Alle - Solaranlagen in städtebaulichen Erhaltungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Ein Biblio-Fahrrad für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Park am Velodrom aufwerten - Grünflächen verschönern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: BVG-Richtungsschilder im Tunnel am S-Greifswalder Straße bewahren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Ukrainische Bücher der Stadtteilbibliothek Karow bei ukrainischen Flüchtlingen bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Benennungsabsicht der Straße 5 im Ortsteil Heinersdorf in „Emblastraße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Bebauungsplan 3-60 „Pankower Tor“ für das Gelände des ehemaligen Rangierbahnhofs Pankow und angrenzender Flächen sowie Bebauungsplan XVIII-36 „Idunastraße“ für das Gelände an der Idunastraße, Neukirchstraße, Heimdallstraße, beide gelegen im Bezirk Pankow, Ortsteile Pankow und Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Umsetzung des bezirklichen Nachbarschaftsprogramms (Integrationsfonds) im Rahmen des Gesamtkonzepts zur Integration und Partizipation Geflüchteter für das Haushaltsjahr 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Monitoring-Bericht 2022/2023 für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Umsetzung des Beschlusses der Taskforce Schulbau „Stärkung der Koordinierung der BSO auf Bezirksebene“, (Nr. 01/2023) - mit Abschlussbericht zur Kenntnis genommen
