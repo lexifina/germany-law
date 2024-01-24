@@ -1,0 +1,97 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-01-24T17:05:00+01:00
+- Ende: 2024-01-24T22:30:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5227
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5227
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Notfallpläne an Neuköllner Schulen - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Neukölln für alle Neuköllner*innen. Jetzt und in Zukunft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wir sind alle Neukölln! Niemand darf abgeschoben werden! - in der BVV abgelehnt
+- TOP 4.3: Sofortige Räumung des vom Kulturzentrum Oyoun besetzten Gebäudes in der Lucy-Lameck-Straße (vormals Wissmannstraße) - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Verkehr und Tiefbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Veränderungssperre 8-114/39 für das Grundstück Lipschitzallee 20/22 im Bezirk Neukölln, Ortsteil Gropiusstadt im Geltungsbereich des Bebauungsplanentwurfes 8-114 - überwiesen
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Neuer Bodenbelag in der Bezirkssporthalle Oderstraße - verlieren Vereine ihre Trainingshalle? - beantwortet
+- TOP 8.2: Safe Places in Neukölln - beantwortet
+- TOP 8.3: Wie ist der Stand des Schüler*innenhaushalts 2024? - beantwortet
+- TOP 8.4: Mängel in der Weißen Siedlung - beantwortet
+- TOP 8.5: Brandbrief der Berliner Polizei an die Elternschaft zum Jahreswechsel 2023/24 in Neukölln - beantwortet
+- TOP 8.6: AG Schulwegsicherheit - beantwortet
+- TOP 8.7: Nutzung öffentlicher Räume durch freie Träger in der Jugend- und Familienarbeit - beantwortet
+- TOP 8.8: 48 Stunden Neukölln - beantwortet
+- TOP 8.9: Kürzungen an der Musikschule Paul Hindemith Neukölln - II - beantwortet
+- TOP 8.10: Querungshilfe Stubenrauchstraße - beantwortet
+- TOP 8.11: Schillerkiez als Kiezblock - auf dem Weg zur Verkehrswende? - schriftlich beantwortet
+- TOP 8.12: Termin Britzer Baumblüte - schriftlich beantwortet
+- TOP 8.13: Spekulativer Leerstand im Wohnpark St. Marien? - schriftlich beantwortet
+- TOP 8.14: Mag Neukölln keine Poller? - schriftlich beantwortet
+- TOP 8.15: Illegaler Hundewelpenhandel in Neukölln - schriftlich beantwortet
+- TOP 8.16: Umsetzung Drucksache 0755/XXI - Hannemannstraße - schriftlich beantwortet
+- TOP 8.17: Rathaus-Kantine neu ausgeschrieben? - schriftlich beantwortet
+- TOP 8.18: Turnhalle Hermann-von-Helmholtz-Schule - schriftlich beantwortet
+- TOP 8.19: Sportflächen auf dem Tempelhofer Feld durch Baumaßnahmen bedroht? - in der BVV zurückgezogen
+- TOP 8.20: Verliert Neukölln die Teupe? - schriftlich beantwortet
+- TOP 8.21: B-Plan 8-76B - schriftlich beantwortet
+- TOP 8.22: Kein Räumdienst auf vielen Neuköllner Rad- und Fußwegen - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Böllerverbotszonen aussprechen! Silvester darf kein Alptraum für Neuköllner*innen sein - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Der Emmaus-Wald ist ein Wald - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Wohnungsbaupotentiale nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: CariSatt-Laden in der Steinbockstraße für Menschen mit Behinderung besser zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Bearbeitung bzw. Neufassung des „Leitfadens Obdachlosigkeit“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.4: Bürger*innenhaushalt überarbeiten - Beteiligung transparent gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Das Gesundheitszentrum Lipschitzallee muss bleiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Eingeschränktes Haltverbot Steinbockstraße 25 (CariSatt-Laden) einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.7: Auskömmliche Finanzierung der Diakonie „Haltestelle“ Standorte in Neukölln sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Chanukkah sameach - ein fröhliches Chanukkah! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Bebauungsplan XIV-3-1 „Neuköllnische Allee / Schmalenbachstraße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Neukölln als Modellregion für die Cannabis-Legalisierung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.2: Finanzielle Auswirkung der nicht besetzten Stellen im Bezirk Neukölln - beantwortet
+- TOP 11.3: Sparvorgaben der CDU-SPD-Landesregierung - beantwortet
+- TOP 11.4: Islamischer Religionsunterricht - schriftlich beantwortet
+- TOP 11.5: Kein Herz für Volksfeste? Maientage und Britzer Baumblüte nicht gewollt? - beantwortet
+- TOP 11.6: Werden soziale Einrichtungen in Neukölln hängengelassen? - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Wohnpark St. Marien auf illegalen Leerstand prüfen - in der BVV abgelehnt
+- TOP 12.2: Nutzung des § 5 Wirtschaftsstrafrecht - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bargeld ist Freiheit: Barzahlung in allen Neuköllner Bürgerämtern möglich machen - in der BVV abgelehnt
+- TOP 12.4: Verbesserung der Schaltung der Lichtsignalanlage U-Bhf. Grenzallee Süd - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ricam-Hospiz / Seniorenheim Haus Rixdorf - Krankentransporte und Warenlieferung sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Buckow weiterhin anbinden! - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Gesundheitsgefährdenden Hygienenotstand bei Vivantes Neukölln nicht länger dulden - in der BVV abgelehnt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Abschluss der Leistungsverträge mit den Freien Trägern der Jugendhilfe - beantwortet
+- TOP 13.2: Was tut das Bezirksamt gegen die fehlenden Schulplätze in Neukölln? - beantwortet
+- TOP 13.3: Honorar- und Werkverträge des Bezirksamtes und deren Überprüfung auf mögliche Scheinselbstständigkeit bzw. Sozialversicherungspflicht - vertagt
+- TOP 13.4: Wie ist der Stand der Einführung der Parkraumbewirtschaftung? - vertagt
+- TOP 13.5: Geplante Sparmaßnahmen bei den Betriebskosten für die freien Träger - schriftlich beantwortet
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Zumutbarer Schulweg zur Theodor-Storm-Schule - überwiesen
+- TOP 15.2: Sportflächen auf dem Tempelhofer Feld erhalten - überwiesen
+- TOP 15.3: Freie Träger auch weiterhin von den Betriebskosten befreien - überwiesen
+- TOP 15.4: Aufhebung der Baustellenabsperrung vor der Seniorenwohnanlage Rollbergstraße 22 - überwiesen
+- TOP 15.5: Das Umfeld der Theodor-Storm-Grundschule soll ein Schwerpunktgebiet für Kontrollen des Ordnungsamtes werden! - überwiesen
+- TOP 15.6: Teupe-Standort für wohnungslose Menschen sichern - überwiesen
+- TOP 15.7: Räumungstitel und Zwangsräumungen erfassen - überwiesen
