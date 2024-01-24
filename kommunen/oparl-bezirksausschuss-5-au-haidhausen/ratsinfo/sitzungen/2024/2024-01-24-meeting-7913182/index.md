@@ -1,0 +1,150 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2024-01-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7913182
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7913182
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokolle der Sitzung vom 13.12.2023
+- TOP 4.: Bürger*innen haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Bäume für den Haidenauplatz
+- TOP 5.2.: Ostbahnhof: Ticketentwerter für alle Bahnsteige
+- TOP 5.3.: Rad-Bus-Spur auf der Luitpoldbrücke
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: MVG-Zeitkarten für Bezirksausschussmitglieder, Antrag Nr. 20-26 / B 03393 des Bezirksausschusses des Stadtbezirkes 16 – Ramersdorf-Perlach vom 09.12.2021
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt Januar 2024
+- TOP 6.2.2.: (U) Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 6.2.3.: Haushaltsbeschluss 2024; Stadtbezirksbudgets für 2024
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des/der Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative „Penis – eine Umarmung“ Penis – eine Umarmung vom 29.01. - 11.03.2024 5.480,00 € / Az. 0262.0-5-0515
+- TOP II.2.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 „Kommerz!“)“ 1.600,00 Euro; Az. 0262.0-5-0526
+- TOP II.3.: (E) Stadtbezirksbudget Initiative Hoch die Hände Kulturwochenende! Hoch die Hände Kulturwochenende! vom 18.-27.01.2024 3.000,00€ / Az. 0262.0-5-0516
+- TOP II.4.: (E) Stadtbezirksbudget Initiative „Maria & Elisabeth“ Orgelkonzert „MARIA & ELISABETH“ vom 23.-26.04.2024 3.730,00 € / Az. 0262.0-5-0514
+- TOP II.5.: Kunstaktion "Copper Lick" vom 19.03.-19.06.2024 an der Zellstraße/Meillerweg; Unterrichtung
+- TOP II.6.: Valentin Karlstadt Musäum in Au-Haidhausen
+- TOP II.7.: Korrektur oder Entfernung der den Stadtteil Au beschreibenden Text auf der offiziellen Website des BA5; Bürgeranliegen
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) + (U) Kampagne gegen Antisemitismus und Homophobie hier: Schreiben Fachstelle für Demokratie vom 20.12.2023
+- TOP 1.2.: (E) Stadtbezirksbudget Caritas München Ost, Alten- und Service Zentrum Au Herrenfrühstück vom 19.01. - 01.12.2024 491,25 Euro / Az. 0262.0-5.0521
+- TOP 1.3.: (E) Stadtbezirksbudget Caritas München Ost, Alten- und Service Zentrum Au Tanzcafé vom 24.01. - 31.12.2024 975,15 Euro / Az. 0262.0-5-0518
+- TOP 1.4.: (E) Stadtbezirksbudget Caritas München Ost, Alten- und Servicezentrum Au Wander- und Pilgerangebot ab Mitte Februar bis 31.12.2024 142,50 Euro / 0262.0-5-0520
+- TOP 1.5.: (E) Stadtbezirksbudget Caritas Alten- und Service Zenrum Spaziergruppe im ASZ Au vom 01.05. - 30.11.2024 450,00 Euro / Az. 0262.0-5-0519
+- TOP 1.6.: (E) Stadtbezirksbudget REGSAM e.V. Broschüre „Rund um die Geburt in der Au, Haidhausen und Bogenhausen“ 2.791,50 € / Az. 0262.0-5-0513
+- TOP 1.7.: Nachtspaziergang Au-Haidhausen am 06. Februar 2024, Festlegung der Orte
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bericht AKIM zweite Hälfte 2023
+- TOP 3.2.: Inbetriebnahme der WC-Anlage Hypopark
+- TOP 3.3.: Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 3.4.: Sportbauprogramm - Sachstandsbericht 2023 A Ausgangslage - Inhalt und Umfang des Sportbauprogramms B Bericht zum Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den laufenden Projekten des 2., 3. Maßnahmenpakets un zum 4. Maßnahmenpaket 3. Evaluierung der Maßnahmenprojekte 4. Fortschreibung des Standardraumprogramms für die städtischen Freisportanlagen C Bericht zum Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung D Bericht zum Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung E Personal- und Sachmittelbedarfe der beteiligten Dienststellen 1. Personal- und Sachmittelbedarfe im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarfe im Baureferat F Anträge und Empfehlungen G Beteiligungen und Anhörungen
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Pfadfinderstamm Pegasus sucht neues Zuhause
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Fahrradsicherheitscheck auf dem Bordeauxplatz am 21.03.2024
+- TOP 2.2.: Nutzungsanfrage Weinfest auf dem Mariahilfplatz vom 29.05.-02.06.2024
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versiegelung vor dem „Rosi Kaffeehaus & Bar“, Rosenheimer Str. 2
+- TOP 3.2.: Kiosk Pariser Platz Antwort Bezirksinspektion zum Beschluss der BV-Empfehlung Nr. 1124
+- TOP 4.: Anliegen von Bürger*innen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Steinstr. 70 - Nutzungsänderung Büros zu Wohnungen
+- TOP 2.2.: Prinzregentenstr. 142 - Teilung eines Ladens mit Ladenwohnung in Friseursalon und Wohnung
+- TOP 2.3.: Kirchenstr. 14 - Umbau und Sanierung des Gebäudes mit einem Büro und 2 Wohneinheiten mit Veränderung der Fassaden, inkl. hofseitigem Balkonanbau, Dachterrasse und Dachgaube, sowie Veränderung der Innenaufteilung
+- TOP 2.4.: Orleanspl. 3 - Funktionsanpassung einer best. Arztpraxis mit Erweiterung durch Nutzungsänderung einer Gaststätte zu Arztpraxis im 3.OG sowie Änderung der Raumaufteilung in einem 5 stöckigen Gebäude der Gebäudeklasse 5 - Sonderbau in dem Mischnutzungen wie Handel-Verkauf, Gewerbe, Büros und Arztpraxen untergebracht sind
+- TOP 2.5.: Metzgerstr. 5 - Neubau eines inklusiven Gemeinschaftswohnhauses als Großcluster mit community space - metso`metso
+- TOP 2.6.: Boosstr. 7 - Errichtung einer hofseitigen Balkonanlage
+- TOP 2.7.: Schleibingerstr. 7 - Vergrößerung der Dacheinschnitte in DG1 und Errichtung zweier Gauben in DG1
+- TOP 2.8.: Hochstr. 3 - Energetische Fassadensanierung der Obergeschosse (Holiday Inn)
+- TOP 2.9.: Schneckenburgerstr. 8 - Neubau eines Zentrums für Digitale Medizin und Gesundheit (ZDMG) -ZUSTIMMUNGSVERFAHREN nach Art.73 BayBO (Az.: 1.4-2023-23664-21)
+- TOP 2.10.: Schneckenburgerstr. 8 - Errichtung von Büro - u. Labormodulen (Klinikum rechts der Isar) - hier: Verlängerung der befristeten Errichtung um weitere 3 Jahre -ZUSTIMMUNGSVERFAHREN nach Art.73 BayBO- (Az: 1.4-2023-23799-21)
+- TOP 2.11.: Preysingstr. 8 - Sanierung eines Dachstuhls in einzeldenkmalgeschütztem MFH mit Schaffung von drei neuen Wohneinheiten und einer Dachterrasse, Einbau eines Personenliftes ins Treppenauge und Neubau einer aufgeständerten Holzterrasse im EG RG.
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Hochstr. 71-73, Neubau eines Mehrfamilienhauses (Änderungsantrag) Antwort LBK zur Stellungnahme BA 5
+- TOP 3.2.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 4.: Anliegen von Bürger*innen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Gehweg am Preysingplatz verbreitern vertagt in der Sitzung am 18.10.2023, Ortstermin am 17.01.2024
+- TOP 2.: Anhörungen
+- TOP 2.1.: Projekt "Saisonale Stadträume - Sommerstraßen und Parklets" 2024 vertagt in der Sitzung am 13.12.2023
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verlängerung der Ampelschaltung an der Kreuzung Grillparzerstrasse/ Einsteinstrasse
+- TOP 3.2.: Tempo 30 in der Wörthstraße
+- TOP 3.3.: Radverkehr in der Leonhardstraße erlauben
+- TOP 3.4.: Radfahrer auf dem Gehweg Prinzregentenplatz-Lucile-Grahn-Straße trotz Verbot bzw. Radentscheid-konforme Radwege auf dem Prinzregentenplatz und in der Grillparzer Straße Antwortschreiben vom 06.12.2023
+- TOP 3.5.: Hochbeete in der Fußgängerzone Weißenburger Straße Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.6.: Verkehrskontrolle in der Wohnanlage Michael-Huber-Weg Antwort Bayerisches Staatsministerium des Innern zum Schreiben BA 5
+- TOP 3.7.: Verkehrsrechtliche Anordnung: Am Nockherberg – Edelweißstraße – Sankt-Bonifatius-Straße; Änderung der Markierung auf der Fahrbahn bzw. im Einmündungsbereich Edelweißstraße
+- TOP 3.8.: Radweg entlang der Orleansstraße zwischen Balanstraße und Ostbahnhof ausbauen
+- TOP 3.9.: Neuplanung Radweg Einsteinstraße vor "daseinstein"
+- TOP 3.10.: Radweg Max-Planck-Straße
+- TOP 3.11.: Unfallgefahr am Nockherberg – Einrichtung eines Radwegs bergauf
+- TOP 3.12.: Gehwegparken und Gehwegnasenparken im Franzosenviertel
+- TOP 3.13.: Ladezone Sedan-/Metzstraße
+- TOP 3.14.: Verbesserung der Situation für Radfahrer auf der Orleansstraße zwischen Balanstraße und Rosenheimer Straße
+- TOP 3.15.: Protokoll aqt Fokusgruppe BA 5 und BA 17 vom 20.11.2023
+- TOP 3.16.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) i. V. m. § 73 VwVfG für das Vorhaben 2. Stammstrecke - PFA 3 Ost Bahn-km 107,853 bis 110,711 der Strecke 5547 Bf München Laim - München Leuchtenbergring Bft in der Landeshauptstadt München“ Planfeststellungsbeschluss zum PFA 3 Ost des Eisenbahn-Bundesamtes vom 31.10.2023
+- TOP 3.17.: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 3.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.19.: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 3.20.: Mobilitätsstrategie 2035 Teilstrategie Digitalisierung – Erste Stufe Grundsatzbeschluss Digitalisierung im Mobilitäts- und Verkehrssektor Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre ab 2024
+- TOP 3.21.: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 3.22.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Kirchliches Zentrum, Öffnung zur Breisacher Straße vertagt in der Sitzung am 13.12.2023
+- TOP 4.2.: Verkehrssituation in der Humboldtstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Preysingstr. 20
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Grundsatzbeschluss III Fortschreibung des Klimabudgets
+- TOP 3.2.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 3.3.: Präsentation der Novellierung der Baumschutzverordnung
+- TOP 3.4.: Elektrisch betriebene Reinigungsfahrzeuge bei der LHM ?
+- TOP 3.5.: Rahmenplan Innerstädtische Isar (Anfrage)
+- TOP 3.6.: Brunnen und Spazierweg wieder herstellen
+- TOP 3.7.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Konzept LHM-Grünpaten-Förderung
+- TOP 4.2.: Rückblick Runder Tisch Mehrweg 28.11.2023
+- TOP 4.3.: Vorschläge für Standorte von Taubenhäusern
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 19.02.2024 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 19.02.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 20.02.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 21.02.2024 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 21.02.2024 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 22.02.2024 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 28.02.2024, 19.00 Uhr, Katholische Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 13.02.2024, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 5.4.: N - Barrierefreiheit am Rosenheimer Platz
+- TOP 1.8.: N - Detailauskünfte zu den TOPs 2.2 - 2.6
+- TOP 4.1.: N - Sachstand Anwesen Kellerstraße 3
+- TOP II.8.: N - Tunnel am Ostbahnhof, Bericht von "Die Städtischen" und "Kollektivis e.V."
+- TOP II.9.: N - Fat Cat GmbH zu Vermietungen, Einbindung örtlicher Künstler, Nutzung des Aufzugs
+- TOP 5.: Sonstiges
+- TOP 5.1.: N - Orange Bänke Zonta
+- TOP 4.3.: N - Wartehäuschen /Anzeigetafel Haltestelle Haidenauplatz
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 4.1: Sachstand Anwesen Kellerstraße 3 - A-Teil, TOP 5.4: Barrierefreiheit am Rosenheimer Platz - UA Kultur, TOP 8: Tunnel am Ostbahnhof, Bericht von "Die Städtischen" und "Kollektivis e.V." - UA Kultur, TOP 9: Fat Cat GmbH zu Vermietungen, Einbindung örtlicher Künstler, Nutzung des Aufzugs - UA Soziales, TOP 1.8: Detailauskünfte zu den TOPs 2.2 - 2.6 - UA Soziales, TOP 5.1: Orange Bänke Zonta - UA Mobilität, TOP 4.3: Wartehäuschen /Anzeigetafel Haltestelle Haidenauplatz - Nichtöffentlicher Teil: 2 Bürgeranliegen zu TOP 1.1
+- TOP II.10.: Detailauskünfte zu den TOPs 1, 3 und 4
