@@ -1,0 +1,51 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-24T17:00:00+01:00
+- Ende: 2024-01-24T18:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25749
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25749
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509275.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509275.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509275.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung von Niederschriften
+- TOP 3.1: Genehmigung der Niederschrift vom 29.11.2023 - einstimmig beschlossen
+- TOP 4: Anfragen / Anträge
+- TOP 4.1: Anfrage der SPD-Ratsfraktion: Sachstand Unterrather Hallenbad - beantwortet
+- TOP -: Bauleitplanung
+- TOP 5: Flächennutzungsplanänderung Nr. 213 und Bebauungsplan-Vorentwurf Nr. 02/021 - Eduard-Schloemann-Straße - mehrheitlich beschlossen
+- TOP 6: Bebauungsplan-Entwurf Nr. 07/017 - Im Heidewinkel Ost - Empfehlung einstimmig beschlossen
+- TOP 7: Plan Nr. 08/021 - Darmstädter Straße/Klein-Eller - einstimmig beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 13: Verlosung EFH am Areal Pastor-Dörr-Ring und Bonifatiusstraße - passieren lassen
+- TOP 14: Auswahlverfahren Vermarktung öffentlich geförderter und frei finanzierter Wohnungen im Erbbaurecht auf dem Grundstück "Flinger Richtweg 60" - einstimmig beschlossen
+- TOP 14.1: Ergänzungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD zur Vorlage APS/144/2023 - mehrheitlich beschlossen
+- TOP 15: Anhandgabeverfahren "Baugemeinschaft Regerstraße" - Maßgebliche Kriterien der Ausschreibung - vertagt
+- TOP -: Sonstiges
+- TOP 16: Sitzungstermine des Ausschusses für Planung und Stadtentwicklung im Jahre 2024 - aktualisiert - zur Kenntnis genommen
+- TOP 17: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 18: Umbenennung historisch belasteter Straßennamen in Düsseldorf - passieren lassen
+- TOP 19: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 20: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 21: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 22: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 23: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung mehrheitlich beschlossen
+- TOP 24: Konrad-Adenauer-Platz - Weiterführung des Kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - passieren lassen
+- TOP 25: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) „Hellerhof - Reisholz" - Gesamtstädtische Stellungnahme - Empfehlung mehrheitlich beschlossen
+- TOP 26: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens - passieren lassen
+- TOP 27: Verfahren zur Einbindung des Sportamtes in das städtische Planungsverfahren/Bauleitplänen - einstimmig beschlossen
