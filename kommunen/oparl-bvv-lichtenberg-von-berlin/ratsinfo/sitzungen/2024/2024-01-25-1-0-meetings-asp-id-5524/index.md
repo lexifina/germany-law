@@ -1,0 +1,88 @@
+# 25. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-01-25T17:00:00+01:00
+- Ende: 2024-01-25T21:30:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5524
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5524
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=383743
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 4.1: Namen für den westlichen Vorplatz am S-Bahnhof Wartenberg - erledigt
+- TOP 4.2: BVV-Beschlüsse nicht länger ignorieren, Bezirksverwaltungsgesetz achten – Bezirksamtsprotokolle veröffentlichen! - zurückgezogen
+- TOP 4.3: Solidarität mit der israelischen Zivilbevölkerung zeigen: Übernahme einer Patenschaft für israelische Geiseln der Hamas - zurückgezogen
+- TOP 4.4: Tempo-30-Zone vor der Grundschule an der Victoriastadt - zurückgezogen
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Nachwahl einer stellvertretenden Bürgerdeputierten für den Ausschuss Klima-, Umwelt-, Natur- und Tierschutz sowie Grünflächen (KUNT) - gewählt
+- TOP 5.2: Einrichtung von provisorischen Haltestellen - in der BVV abgelehnt
+- TOP 5.3: Digitale Sprachkurse schaffen - Volkshochschule unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Kurse für Gebärdensprache an der VHS Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Familienzentrum im Anna-Ebermann-Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Fest am Rathaus Lichtenberg am 1. Mai - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Natur erleben und verstehen - Naturlehrpfad am Malchower See errichten - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Infrastrukturmaßnahmen im Dorf Malchow: Anliegerinteressen an der Dorfstraße wahren! - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Grünflächen seltener mähen - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Pilotprojekt: Zero-Waste-Konzept für Lichtenbergs öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Mietverträge vereinfachen - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Planerische Sicherung der Straßenverbindung zur Umfahrung der Lückstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Bessere Informationen zu den Städtepartnerschaften von Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Chronologie Barther Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Mehr Mobilität für Malchow und Margaretenhöhe - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Lichtenberg wird Pilotbezirk - Geschwindigkeitsanzeigen für Fahrradfahrer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Antrag zur Überprüfung und ökologischen Umgestaltung der Beleuchtung auf öffentlichen Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Ersatz für die JFE Linse - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Solidarität mit der israelischen Zivilbevölkerung zeigen: Übernahme einer Patenschaft für israelische Geiseln der Hamas - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Stellungnahme zu einer möglichen Bebauung auf Hof 7 in Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: Dialogdisplays auf dem Malchower Weg - überwiesen
+- TOP 5.22: Errichtung einer jüdischen Begegnungsstätte in Lichtenberg - überwiesen
+- TOP 5.23: Erhöhung der Taktfrequenz für den öffentlichen Nahverkehr in Alt-Hohenschönhausen - überwiesen
+- TOP 5.24: Ausstellung „One Thousand Times“ nach Lichtenberg holen - überwiesen
+- TOP 5.25: Treppen zum Innenhof Gensinger Straße beleuchten - überwiesen
+- TOP 5.26: Die Zukunft ist digital: Online-Informationen statt Mail-Anfragen - Transparenz steigern und Personal entlasten - überwiesen
+- TOP 5.27: Citytoilette im Bereich Traberweg / Liepnitzstraße in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.28: Elektromobilität auf dem Wasser fördern - überwiesen
+- TOP 5.29: Frankfurter Allee Süd und Kaskelkiez sicher verbinden - Fußgängerüberweg an der Ecke Buchberger Straße/Schulze-Boysen-Straße einrichten - überwiesen
+- TOP 5.30: Entfernung von beschädigten und inaktiven Telefonzellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.31: Gesamtkonzept für Lichtenbergs Schultoiletten schaffen - überwiesen
+- TOP 5.32: Auf neuen Standort der Verbraucherzentrale hinweisen - ohne Änderungen in der BVV beschlossen
+- TOP 5.33: Bänke entlang des Traberwegs in Karlshorst zügig sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Schutzblinker an der LSA Alt-Friedrichsfelde / Rosenfelder Straße anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 5.35: Lebensretter gesucht: Mehr Schwung bei Blutspendeaktionen in Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 5.36: Regenrückhaltebecken in Alt-Hohenschönhausen neu aktivieren - überwiesen
+- TOP 5.37: Jugendlicher Freiraum im Ostseekarree: Gemeinsame Planung eines überdachten Aufenthaltsortes für Jugendliche - überwiesen
+- TOP 5.38: Wöchentliche Reinigung am U-Bhf Lichtenberg - überwiesen
+- TOP 5.39: Transparenz zu runden Tischen im Bezirk - überwiesen
+- TOP 5.40: Kostenfreies und frei zugängliches WLAN in öffentlichen Gebäuden - überwiesen
+- TOP 5.41: Reparatur der Infotafeln im Stadion- Friedrichsfelde - überwiesen
+- TOP 5.42: Jahresbericht zur Flächenversiegelung - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - (offen)
+- TOP 8.2: Wahl eines Vorstandmitgliedes - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung (s. TOP 5.2) - (offen)
+- TOP 10: Prioritäten der Fraktionen - erledigt
+- TOP 10.1: Kiezblocks kritisch prüfen - Gerichtsverfahren vermeiden - überwiesen
+- TOP 10.2: TVO: Keine Schnellstraße auf der künftigen Schienentrasse “Nahverkehrstangente Ost”! - überwiesen
+- TOP 10.3: Umsetzung der BVV-Beschlüsse zu Falkenhöhe - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Jährlicher Bericht über die Umsetzung der ethnischen Quotierung nach dem Berliner Partizipationsgesetz im Bezirksamt - in der BVV abgelehnt
+- TOP 10.5: Für weiteren Wohnraum – Ein Baugebot für das Grundstück Möllendorffstraße 75A/Alfred-Jung-Straße 10 - überwiesen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Mit dem Hund ins Büro - in der BVV abgelehnt
+- TOP 11.2: Fußgängerschutz am U-Bahnhof Magdalenenstraße verbessern - in der BVV abgelehnt
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Verlängerung der Buslinie 256 zum Friedhof Friedrichsfelde - überwiesen
+- TOP 12.2: Wegfall der KITA Glücksallee in Karlshorst verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schulwegsicherheit in Neu-Hohenschönhausen verbessern! - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Schulweg in der Nöldnerstraße sicherer gestalten - überwiesen
+- TOP 12.5: Seminar gegen Stammtischparolen an der Volkshochschule anbieten - überwiesen
+- TOP 13: Geschäftliche Mitteilungen des Vorstandes - erledigt
