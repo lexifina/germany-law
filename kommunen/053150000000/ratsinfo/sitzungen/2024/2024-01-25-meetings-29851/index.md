@@ -1,0 +1,89 @@
+# 24. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-25T16:00:00+01:00
+- Ende: 2024-01-25T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29851
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29851
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Unterstützung der Trierer Erklärung zu Demokratie und Menschenwürde
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohneranfrage - Illegale Werbung auf Hauswänden in Köln-Innenstadt
+- TOP -: Illegale Werbung auf Hauswänden in Köln - endgültig abgelehnt
+- TOP 1.2: Einwohnerfrage - Entwicklung der Zahl der Hunde in den Stadtteilen Altstadt/Nord und Neustadt/Nord sowie Hundefreilaufflächen - zurückgestellt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Dauerhafte Aufstellung der Rodin-Skultpur am Neumarkt - geändert beschlossen
+- TOP 3.2: Parkraumbewirtschaftung Parkplatz Judenkirchhofsweg in Köln-Deutz - geändert beschlossen
+- TOP 3.3: Fortschreibung der Schulentwicklungsplanung Köln 2023 - Sache ist erledigt
+- TOP 3.3.1: Genehmigung DE - Fortschreibung der Schulentwicklungsplanung Köln 2023 - ungeändert beschlossen
+- TOP 3.4: Höhenentwicklungskonzept für die Innere Stadt Köln - geändert beschlossen
+- TOP 3.5: Brandschutzsanierung und Neugestaltung der Stadtbahnhaltestelle Bf Deutz/Messe - ungeändert beschlossen
+- TOP 3.6: Schulrechtliche Errichtung einer 3-zügigen Grundschule am Standort Friedrich-Karl-Straße 64, 50737 Köln-Weidenpesch, bei gleichzeitiger Änderung der Montessori-Grundschule GGS Gilbachstr. - ungeändert beschlossen
+- TOP 3.7: Ordnungsbehördliche Verordnung für das Jahr 2024 über das Offenhalten von Verkaufsstellen an Sonntagen - abgelehnt (in der Vorberatung)
+- TOP 3.8: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 3.9: Baubeschluss Generalsanierung des Römisch-Germanischen Museums der Stadt Köln, Roncalliplatz 4, 50676 Köln - ungeändert beschlossen
+- TOP 3.10: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Trierer Str. o. Nr., 50674 Köln-Neustadt/Süd - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 3.11: Genehmigung DE - 7. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 3.12: Genehmigung DE - Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren“ - ungeändert beschlossen
+- TOP -: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren“ - Sache ist erledigt
+- TOP 3.13: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren" - geändert beschlossen
+- TOP 3.14: Genehmigung DE - Förderung der Veedelszüge - Mittelvergabe - ungeändert beschlossen
+- TOP 3.15: Genehmigung DE - Straßenkarneval 2024 – Durchführung einer dezentralen Veranstaltung – Entscheidung und Mittelvergabe - ungeändert beschlossen
+- TOP 3.16: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das 1. und 2. Halbjahr 2024 - ungeändert beschlossen
+- TOP 3.17: Erweiterter Planungsbeschluss für die Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Friesenplatz - geändert beschlossen
+- TOP 3.18: Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke Erweiterter Planungsbeschluss - zurückgestellt
+- TOP 3.19: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 3.20: Veedelszüge in der Innenstadt - Mittelvergabe 2024 - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO Bücherschrank auf dem Spielplatz Buschgasse / An der Eiche - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - zurückgestellt
+- TOP 5.1.2: Parken von Wohnmobilen/Wohnanhängern im Stadtbezirk Innenstadt, gem. Antrag SPD und Die Partei - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Überweg Rheinuferstraße Römerpark Richtung Rheinufer/Kap am Südkai gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.2: Neuordnung von Parkraum am Düxer Bock, Antrag CDU - zurückgestellt
+- TOP 5.2.3: Freigabe Altenberger Straße für den Radverkehr, gem. Antrag Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.4: Erbbaurechtsvertrag Gotland e.V., gem. Dringlichkeitsantrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.3: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.4: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Entsiegelung und Umbau Maternuskirchplatz 2023, Anfrage B90/Die Grünen - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Bündnis 90/Die Grünen-Fraktion aus der Sitzung der Bezirksvertretung 1 (Innenstadt) vom 24.08.2023 (Session-Nr. AN/1451/2023) betreffend „Sachstand Entsiegelung und Umbau Maternuskirchplatz“ - zurückgestellt
+- TOP 6.1.6: Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024, Anfrag B90/Die Grünen - zurückgestellt
+- TOP 6.1.7: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.8: Sanierung des Quäker-Nachbarschaftsheims/Norbert-Burger-Bürgerzentrum, Anfrage SPD - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - Kenntnis genommen
+- TOP 9.2: Temporäre Einrichtung von zusätzlichen Fahrradabstellplätzen auf der Trankgasse - Kenntnis genommen
+- TOP 9.3: Mitteilung zur Bürgereingabe nach § 24 GO– Blindenleitstreifen Deutzer Bahnhof, Aktenzeichen: 96/23 - Kenntnis genommen
+- TOP 9.4: Mitteilung zur Bürgereingabe nach § 24 GO - Vermüllung und Verwahrlosung öffentlicher Flächen im Bereich Grünflächen Zoo-/Flora-Umfeld, Aktenzeichen 162/23 - Kenntnis genommen
+- TOP 9.5: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 9.6: Mitteilung zur Bürgereingabe nach § 24 GO - Verkehrsversuche in Köln / Überprüfung des Eifelwalls, Aktenzeichen 150/23 - zurückgestellt
+- TOP 9.7: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 9.8: Sachstand zum Pilotprojekt für die Reinigung schadstoffbelasteter Luft in Städten - Kenntnis genommen
+- TOP 9.9: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken in der Deutz-Kalker-Straße, Köln-Deutz, Aktenzeichen: 93/23 - Kenntnis genommen
+- TOP 9.11: Teileinziehung von Straßenteilstücken im Bereich der Ehrenstraße und der Breite Straße - zurückgestellt
+- TOP 9.12: Deutzer Hafen – Wettbewerb Baufeld Ost 03 - Kenntnis genommen
+- TOP 9.13: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - zurückgestellt
+- TOP 9.14: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Altstadt - zurückgestellt
+- TOP 9.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Gesperrte Zülpicher Straße-Schleichweg über die Uni-Wiese, Aktenzeichen 172/23 - Kenntnis genommen
+- TOP 9.16: Sachstand Alfred-Schütte-Allee - Kenntnis genommen
+- TOP 9.17: Sachstandsbericht - Kenntnis genommen
+- TOP 9.18: Weihnachtsverkehr 2023 - zurückgestellt
+- TOP 9.19: Auswertung Verkehrsversuch Deutzer Freiheit - zurückgestellt
