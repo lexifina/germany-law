@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-25T16:00:00+01:00
+- Ende: 2024-01-25T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29760
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29760
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Rheindeiche" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung der Verwaltung betr.: "Rheindeiche" (AN/1920/2023) - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion Die Linke. betr.: "Rückfragen zu Steinkohle für das HKW Rostock" - zurückgestellt
+- TOP 1.2.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE (AN/2032/2023) betr.: - zurückgestellt
+- TOP 1.3: Anfrage der Fraktionen Bündnis 90/Die Grünen und CDU betr.: "Kleingärten in Köln" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer schriftlichen Anfrage der Fraktionen Fraktion Bündnis 90/Die Grünen und CDU-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN/1965/2023) betreffend "Kleingärten in Köln" - Kenntnis genommen
+- TOP 1.4: Anfrage der SPD-Fraktion betr.: "Tieffrequenter Lärm im rechtsrheinischen Köln" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die Linke. betr.: "Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens" - endgültig abgelehnt
+- TOP 2.1.1: Stellungnahme der Verwaltung betr.: "Ermittlung des CO2-Fußabdrucks bei der Bebauung des Deutzer Hafens" (AN/1206/2023) - Kenntnis genommen
+- TOP 2.2: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.2.1: Stellungnahme der Verwaltung zum Antrag AN/1970/2023 aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 betreffend "Bestandsschutz der Kleingartenanlage "Kölsche Kiwis" am Maarweg" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Anregung der Bezirksvertretung Nippes, Bürgerzentrum Turmstraße, Entsiegelung - mit Änderungen empfohlen
+- TOP 4.1.2: Rondorf Nord-West, Entflechtungsstraße Änderungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert empfohlen
+- TOP 4.1.4: Zuschussgewährung "Tag des guten Lebens" 2024 - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung für das Kooperationsgräberfeld "Bestattungsgärten" auf Flur 75 des Friedhofs Melaten - geändert beschlossen
+- TOP 4.2.2: Ersatz von vier Kolonnenfahrzeugen als Elektrofahrzeuge, hier Ersatzbeschaffung von 3 Kolonnenfahrzeugen sowie Umrüstung von einem Kolonnenfahrzeug für - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Ehrenfeld, hier: Vergabe der Restmittel - Kenntnis genommen
+- TOP 7.2: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2023 im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 7.4: Stadtklima / Stadtverschönerungsprogramm 2023 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.5: Kalkberg Machbarkeitsstudie - Kenntnis genommen
+- TOP 7.6: Bahnhof Belvedere / Fällgenehmigung für die Platane 1 - Kenntnis genommen
+- TOP 7.7: Digitales Berichtswesen - Kenntnis genommen
+- TOP 7.8: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen im Rechnungsprüfungsausschuss vom 09.05.2023 betreffend "Einsatz von Pferden im Rosenmontagszug" - Kenntnis genommen
+- TOP 7.9: Sachstand zum Pilotprojekt für die Reinigung schadstoffbelasteter Luft in Städten - Kenntnis genommen
+- TOP 7.10: Mitteilung zum Beschluss AN/2063/2021 Beleuchtung Rautenstrauchkanal vom 07.10.2021 - Kenntnis genommen
+- TOP 7.11: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Besserer Schutz des NSG 18 - Kiesgrubensee Gremberghoven, Aktenzeichen 204/23 - Kenntnis genommen
+- TOP 7.12: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 7.13: Optimierung der Antragsbearbeitung im Förderprogramm „Gebäudesanierung und Erneuerbare Energien“ sowie neue Anforderung bei Förderung von Steckersolargeräten in den Förderprogrammen „Photovoltaik – klimafreundliches Wohnen und Arbeiten“ - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Grundwasserschäden durch Gaswerksrückstände in Nippes - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 betreffend „Aktueller Sachstand zu privaten Kleinflugzeugen am Flughafen Köln/Bonn“ - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Beantwortung von Fragen der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 24.08.2023 betreffend "Flughafen Köln/Bonn: Fluglärmminderung und Klimaschutz" (1599/2023) - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Mündliche Anfrage der FDP-Fraktion betr.: "Hochwasser"
+- TOP 9.2: Mündliche Anfrage der CDU-Fraktion betr.: "Igelstation auf Gut Leidenhausen"
+- TOP 9.3: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Photovoltaikanlagen"
