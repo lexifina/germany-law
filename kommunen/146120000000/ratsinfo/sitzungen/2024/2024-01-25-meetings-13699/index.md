@@ -1,0 +1,75 @@
+# 58. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-01-25T16:00:00+01:00
+- Ende: 2024-01-25T21:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13699
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13699
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00730534.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Antrag Aktuelle Stunde: Jüdisches Leben gehört zu Dresden - erledigt
+- TOP 4: Aktuelle Stunde zum Thema „Probleme mit Straßenkunst in Dresden“ - erledigt
+- TOP 5: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Satzung Straßenkunst) - Verweisung
+- TOP 6: Nachbesetzung von einer Stellvertretung im Umlegungsausschuss - Zustimmung
+- TOP 7: Ausscheiden eines Stadtbezirksbeirates im Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 8: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 9: Neubau und Modernisierung der Bildungsinfrastruktur in den kreisfreien Städten - Stadtbudget der Landeshauptstadt Dresden 2023/2024 - Maßnahmeplan "Schulen in freier Trägerschaft" - Vertagung
+- TOP 10: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Oberschulen, Gymnasien, Gemeinschaftsschulen, Förderschulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - punktweise Zustimmung mit Ergänzung
+- TOP 11: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) vom 25. März 2022 - Zustimmung mit Änderung
+- TOP 12: Neufassung der Satzung der LHD über die Entschädigung für die ehrenamtliche Tätigkeit bei Wahlen, Volks- und Bürgerentscheiden - Zustimmung
+- TOP 13: Berufung und Zusammensetzung des Beirates für Erinnerungskulturen - Zustimmung mit Änderung
+- TOP 14: Herrichtung des Objektes Alexander-Herzen-Straße 64 für eine Zwischennutzung als Unterbringungsobjekt für asylsuchende Menschen - Zustimmung
+- TOP 15: Grundhafter Ausbau der Lockwitztalstraße zwischen Schongauer Straße und Dohnaer Straße - Zustimmung mit Änderung
+- TOP 16: Neuerrichtung und Betrieb öffentlicher Toilettenanlagen (Toilettenkonzept) - Ersetzung
+- TOP 17: Flächennutzungsplan-Änderung Nr. 17, Stadtbezirk Prohlis, Teilbereich Michaelisstraße/Nickerner Weg - Zustimmung
+- TOP 18: Bebauungsplan Nr. 3071, Dresden-Nickern Nr. 6, Sondergebiet Nickerner Weg - Zustimmung mit Ergänzung
+- TOP 19: Vertagungen aus der Sitzung vom 14.12.2023 - erledigt
+- TOP 19.1: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung durch Einreicher
+- TOP 19.2: Eine Transparenzsatzung für Dresden - Transparenz öffentlicher Daten und Anspruch auf Informationsfreiheit gewährleisten - Ersetzung
+- TOP 19.3: Einrichtung von Mieter:innenbeiräten in den Immobilien der WID - Zustimmung
+- TOP 19.4: Nachhaltig Kosten senken – preiswertes Schulessen ermöglichen! - Ablehnung
+- TOP 19.5: Vermarktungspotentiale der dresden.de-Domain besser nutzen: Webmail-Portal für Dresden - Ablehnung
+- TOP 19.6: Effektives Verwaltungsmanagement im Kontext Asyl und Migration - Ablehnung
+- TOP 19.7: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Vertagung durch Einreicher
+- TOP 19.8: Digitale Stadtpolitik für alle zugänglich machen – Die ganze Stadt im Blick - Zustimmung
+- TOP 19.9: Flüchtlingssozialarbeit effizienter gestalten - Ablehnung
+- TOP 19.10: Vermüllung von Dresdens Grünflächen stoppen - Maßnahmen zur Müllvermeidung entwickeln - Zustimmung mit Ergänzung
+- TOP 19.11: Transparenz für die städtischen Finanzen - Nachtragshaushalt erarbeiten - Ablehnung
+- TOP 19.12: Einrichtung saisonale Fährverbindung zwischen Dresden-Pieschen und dem Ostragehege - Ablehnung
+- TOP 19.13: Weiterer Umgang mit einer Elbquerung im Bereich Pieschen/Ostragehege - Ersetzung - punktweise Abstimmung
+- TOP 19.14: Gewährleistung der Aufkommensneutralität der Grundsteuergesamteinnahmen in Umsetzung der Grundsteuerreform - Vertagung durch Einreicher
+- TOP 19.15: Zusammenhalt und Fortschritt brauchen längeres gemeinsames Lernen: Einrichtung weiterer Gemeinschaftsschulen in Dresden - Zustimmung
+- TOP 19.16: Strategie Erfolgsfußball – Frauenfußball in Dresden voranbringen - Ersetzung
+- TOP 19.17: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 19.18: Zukunft beginnt jetzt und braucht Vision: Erarbeitung einer „Strategie Leistungssport in Dresden 2030“ - Vertagung nach 21 Uhr
+- TOP 19.19: Luftbad Dölzschen erhalten. Finanzierung sichern. - Vertagung durch Einreicher
+- TOP 19.20: Verkehrsversuch Radwege auf dem Blauen Wunder - Vertagung nach 21 Uhr
+- TOP 19.21: Großansiedlung zum Erfolg für alle machen: Gewerbeflächen mit Nachbargemeinden entwickeln, Verdrängung lokaler Gewerbe vermeiden, Unterstützungsprogramm für ansässige Wirtschaft entwickeln - Vertagung nach 21 Uhr
+- TOP 19.22: TSMC-Ansiedelung in Klotzsche: Verdrängung des Mittelstands vermeiden - Vertagung nach 21 Uhr
+- TOP 19.23: Überprüfung der Partyveranstaltungen des Oberbürgermeisters durch das Rechnungsprüfungsamt - Vertagung nach 21 Uhr
+- TOP 19.24: Rechnungsprüfung Veranstaltung „nachtschicht_18“ im Rathaus - Vertagung nach 21 Uhr
+- TOP 20: Polizeiverordnung der Landeshauptstadt Dresden als Kreis- sowie Ortspolizeibehörde zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung in Dresden (PolVO Sicherheit und Ordnung) - Vertagung durch Einreicher
+- TOP 21: Hochwasserrisikomanagementplan (HWRM-P) für das Lotzebachsystem - Zustimmung mit Ergänzung
+- TOP 22: Erlass der Satzung der Landeshauptstadt Dresden über die Durchführungen einer Kommunalstatistik zur Erhebung von Daten für die Erstellung des qualifizierten Dresdner Mietspiegels (Mietspiegel-Satzung) - Vertagung nach 21 Uhr
+- TOP 23: Abschluss einer Finanzierungsvereinbarung „Altverbindlichkeiten“ zwischen der Technische Werke Dresden GmbH und der Landeshauptstadt Dresden - Vertagung nach 21 Uhr
+- TOP 24: Aufhebung des Beschlusses P0091/21 "Dresden soll sicherer Hafen werden!" - Vertagung nach 21 Uhr
+- TOP 25: Fuß- und Radwegbeleuchtung am Dresdner Elbradweg verbessern bzw. schaffen - Vertagung nach 21 Uhr
+- TOP 26: Datenschutzwidrige Nutzung städtischer Facebook-Auftritte beenden - Vertagung nach 21 Uhr
+- TOP 27: Das Stauseebad Cossebaude erhalten. Eine Perspektive für das Pumpspeicherwerk Niederwartha entwickeln. - Vertagung nach 21 Uhr
+- TOP 28: Zukunft des Pumpspeicherwerks Niederwartha und des Stauseebads Cossebaude - Vertagung nach 21 Uhr
+- TOP 29: Für eine saubere Stadt! Graffiti-Schmierereien beseitigen - Vertagung nach 21 Uhr
+- TOP 30: Gefährdung für Beschäftigte der Landeshauptstadt Dresden neu bewerten - Vertagung nach 21 Uhr
+- TOP 31: Zweckentfremdungsverbot für Wohnungen unverzüglich umsetzen! - Vertagung nach 21 Uhr
+- TOP 32: Gewerbeansiedlungen aktiv gestalten - Vertagung nach 21 Uhr
+- TOP 33: Ja zu den Filmnächten am Elbufer - Vertagung
+- TOP 34: Übertragung der Stadtbezirksbeiratsmittel 2023 auf das Haushaltsjahr 2024 - punktweise Zustimmung
+- TOP 38: Beteiligungsbericht 2022 der Landeshauptstadt Dresden - erledigt
+- TOP 39: Information über die Haushaltsbewirtschaftung 2024 - erledigt
