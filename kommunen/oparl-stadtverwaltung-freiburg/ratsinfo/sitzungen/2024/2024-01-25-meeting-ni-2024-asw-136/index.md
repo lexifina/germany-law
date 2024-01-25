@@ -1,0 +1,16 @@
+# 1. Sitzung des Ausschusses für Schulen und Weiterbildung
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2024-01-25T16:08:00+01:00
+- Ende: 2024-01-25T19:30:00+01:00
+- Ort: Neuer Ratssaal des Rathauses, Rathausplatz 2 - 4, 79098 Freiburg im Breisgau
+- Status: durchgeführt
+- Gremium: https://ris.freiburg.de/oparl/organization/ASW
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2024-ASW-136
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2024-ASW-136
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Erfüllung Rechtsanspruch Ganztagsbetreuung - Sachstand
+- TOP 2: Regionale Schulentwicklung - Abgabe von dualen Ausbildungsgängen an Beruflichen Schulen an andere Landkreise
