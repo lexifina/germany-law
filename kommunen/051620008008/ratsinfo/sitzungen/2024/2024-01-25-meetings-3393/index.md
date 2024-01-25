@@ -1,0 +1,53 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-01-25T18:43:00+01:00
+- Ende: 2024-01-25T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3393
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3393
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Fragestunde der Einwohnerinnen und Einwohner
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 4.1: Bekanntmachung über- und außerplanmäßigen Mittelbereitstellung April bis Dezember 2023 - Kenntnisnahme
+- TOP 5: Neuwahl der Schiedsperson für den Schiedsamtsbezirk IV (Wevelinghoven, Tüschenbroich und Langwaden) - einstimmig beschlossen
+- TOP 6: Vergleichsbericht 2022 - Ertrags- und Aufwandslage im im interkommunalen Vergleich - Kenntnisnahme
+- TOP 7: Weiterentwicklung Besucher*innenleitsystem um QR-Codes mit hinterlegten Informationen - einstimmig beschlossen
+- TOP 8: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 8.1: Schaffung einer Verbraucherzentrale in Grevenbroich (Antrag Nr.:77/2023) - Kenntnisnahme
+- TOP 8.2: Sicheres Grevenbroich-Weiterentwicklung des Ordnungs- und Servicedienstes (Antrag Nr.:16/2023) - Kenntnisnahme
+- TOP 8.3: Breitbandversorgung/flächendeckende Glasfaserleitung (Antrag Nr.: 50/2022) - Kenntnisnahme
+- TOP 8.4: Glasfaserverkabelung (Antrag Nr.:85/2023) - Kenntnisnahme
+- TOP 9: Schriftliche Anträge
+- TOP 9.1: Anträge der SPD-Fraktion
+- TOP 9.2: Anträge der CDU-Fraktion
+- TOP 9.2.1: Erstellung eines gesonderten Konzeptes im Rahmen eines "Masterplan Kraftwerksdörfer" für den Ortsteil Gindorf (Antrag Nr. 06/2024) - einstimmig beschlossen
+- TOP 9.2.2: Prüfung der Kosten für das Einrichten von E Scooter Abstellplätzen an weiterführenden Schulen (Antrag Nr. 07/2024) - einstimmig beschlossen
+- TOP 9.2.3: Prüfung einer möglichen Videoüberwachung der Fahrradabstellplätze an Schulen (Antrag Nr. 08/2024) - einstimmig beschlossen
+- TOP 9.2.4: Kontaktaufnahme mit der spanischen Stadt Cangas de Onis (Asturien) zwecks Etablierung einer Städtepartnerschaft (Antrag Nr. 09/2024) - einstimmig beschlossen
+- TOP 9.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 9.4: Anträge der FDP-Fraktion
+- TOP 9.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 9.5.1: Öffentliche Informationsveranstaltung zur Darstellung des Konzepts zur Zukunftsausrichtung des Rheinland Klinikums und dessen Auswirkungen auf das Elisabeth-Krankenhaus durch die Gesellschafter Stadt Neuss und Rhein-Kreis Neuss (Antrag Nr. 02/2024) - einstimmig beschlossen
+- TOP 9.5.2: Müllgefäße in der Innenstadt/Fußgängerzone (Antrag Nr. 03/2024) - einstimmig beschlossen
+- TOP 9.6: Anträge der UWG-Fraktion
+- TOP 10: Gemeinschaftsanträge
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfragen der SPD-Fraktion
+- TOP 11.2: Anfragen der CDU-Fraktion
+- TOP 11.2.1: Durchschnittliche Kosten und Aufenthaltsdauer von Flüchtlingen (Anfrage Nr. 04/2024) - Kenntnisnahme
+- TOP 11.2.2: Verwendung der Bundesfördermittel für die Turnhalle an der Käthe-Kollwitz-Gesamtschule (Anfrage Nr. 05/2024) - Kenntnisnahme
+- TOP 11.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 11.4: Anfragen der FDP-Fraktion
+- TOP 11.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 11.5.1: CO²-Ampeln in Grevenbroich (Anfrage Nr. 01/2024) - Kenntnisnahme
+- TOP 11.6: Anfragen der UWG-Fraktion
+- TOP 12: Mitteilungen des Bürgermeisters
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
