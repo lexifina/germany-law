@@ -1,0 +1,73 @@
+# 22. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-25T17:00:00+01:00
+- Ende: 2024-01-25T18:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29875
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29875
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage vom 12.01.2024 betreff "Sicherer Schulweg neuer Standort Katholische Grundschule Kalk Vietorstraße" - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - "Änderung der Eingruppierung Abfallentsorgungsverordnung" /AZ: 14/23 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 25.01.2024 "Sicherung der Haltestelle Flehbachstr. in Köln-Brück" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 25.01.2024 "Absenkung der Bordsteine an der Einfahrt von dem Stichweg von der Germaniastrasse aus" - ungeändert beschlossen
+- TOP 7.3: Umbenennung des Bürgerparks in Köln Kalk - endgültig abgelehnt
+- TOP 7.4: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 25.01.2024 "Abgekühlt! - Wassersprühanlagen für Kalk" - geändert beschlossen
+- TOP 7.5: Informationsbereitstellung zum aktuellen Stand der Betreuungssituation in der Ganztagsbetreuung in der Grundschule vor dem Hintergrund des Rechtsanspruchs ab August 2026 - ungeändert beschlossen
+- TOP 7.6: (Wieder)Aufnahme in Betrieb einer Unterführung zwischen Gottlieb-Hagen-Str./Lüderichstr. und Dillenburger Str. - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Genehmigung der Dringlichkeitsentscheidung: "Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Kalk 2023/2024 - Mittelvergabe" - ungeändert beschlossen
+- TOP 8.1.2: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Kalk 2023/2024 - hier:Förderprogramm - ungeändert beschlossen
+- TOP 8.1.3: Genehmigung der Dringlichkeitsentscheidung: "7. Satzung zur Änderung der Sondernutzungssatzung" - ungeändert beschlossen
+- TOP 8.1.4: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept Kalk (1. Zyklus) - ungeändert beschlossen
+- TOP 8.1.5: Beschlussvorlage für das Fahrradstraßenkonzept Kalk - geändert beschlossen
+- TOP 8.1.6: Einziehung der Platzfläche Eiler Straße vor den Häusern Eiler Straße 129-129 c in Köln-Rath/Heumar, Gemarkung Heumar, Flur 6, Teilfläche aus Flurstück 725 - ungeändert beschlossen
+- TOP 8.1.7: Vergabe von Teilen der bezirksorientierten Mittel für das Jahr 2023/2024 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Höhenentwicklungskonzept für die Innere Stadt Köln - zurückgestellt
+- TOP 8.2.2: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.2.3: Ordnungsbehördliche Verordnung für das Jahr 2024 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreff: "Konzept Schwammstadt" (AN/1932/2023) in der Sitzung der BV-Kalk vom 23.11.2023 TOP 9.2.2 - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der Fraktion Die LINKE. in der Sitzung der BV-Kalk vom 21.09.2023 TOP 9.2.3 (AN/1649)2023): "Städtischer Sozialer Wohnungsbau im Bezirk Kalk" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung der Anfrage der Bündnis 90/Die Grünen-Fraktion vom 21.09.2023 (AN/1650/2023) betreff "Bedarf an öffentlichen Mülleimern dem Bevölkerungswachstum und Wandel in den Stadtteilen anpassen" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 11.05.2023 betreffend die "Auswirkungen der temporären KVB-Angebotsreduzierungen im Stadtbezirk Kalk", AN/0795/2023 - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünenin der Sitzung der Bezirksvertretung Kalk vom 24.08.2023 (AN/1426/2023) bezüglich "Standsicherheit der Hallen 76 und 77" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: "Festgestellte Parkverstöße im Stadtbezirk Kalk 2022 und 2023" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen: "Entwicklung der Grünflächen im Stadtteil Kalk" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der CDU-Fraktion: "Neueinrichtung absolutes Halteverbot auf der Eiler Straße zwischen Gestütt Röttgen und Eisenbahnbrücke" - Kenntnis genommen
+- TOP 9.2.4: Anfrage der SPD-Fraktion: "Sachstand Nachbesetzung der Stelle Schulleiter*in am Städt. Kaiserin-Theophanu-Gymnasium in Kalk" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen: "Optimale Nutzung der Flächen im Kalker Stadtgarten" - Kenntnis genommen
+- TOP 9.2.6: Anfrage der CDU-Fraktion: "Leerstehende Immobilie (ehem. Kiosk) auf Rolshover Str. zwischen dem Haus Nr. 78 und der Eisenbahnbrücke" - Kenntnis genommen
+- TOP 9.2.7: Anfrage der SPD-Fraktion: "Weitere Vorgehensweise Schulstraße Diesterwegstraße" - Kenntnis genommen
+- TOP 9.2.8: Anfrage der CDU-Fraktion: "Instandsetzung des Radwegs Köln-Brück, Olpener Str. Höhe Matthias Claudius Heim" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 9.4: Beantwortung von Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 10.2.2: Kalkberg Machbarkeitsstudie - Kenntnis genommen
+- TOP 10.2.3: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zum Leitbild-Beschluss "Besser durch Köln" - Kenntnis genommen
+- TOP 10.2.5: RadPendlerRouten-Netz Köln - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe - Rösrather Straße, Strandbad Rather See, Aktenzeichen 161/23 - Kenntnis genommen
+- TOP 10.2.7: Mitteilung über den Verfahrensstand der zweiten Phase des Masterplan Stadtgrün - Kenntnis genommen
+- TOP 10.2.8: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.9: Zukunft und Entwicklung des Osthofs im Plangebiet Hallen Kalk - Kenntnis genommen
