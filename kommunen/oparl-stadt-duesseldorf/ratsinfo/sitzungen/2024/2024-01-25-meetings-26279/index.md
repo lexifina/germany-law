@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-25T18:00:00+01:00
+- Ende: 2024-01-25T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26279
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26279
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO vom 25.01.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510047.pdf
+- Ergebnisprotokoll: NachtragsTO vom 25.01.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510047.pdf
+- Wortprotokoll: NachtragsTO vom 25.01.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510047.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 11.01.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 07.12.2023
+- TOP 4: Information zum Zentrenmanagement Gumbertstraße: Abschluss und Ausblick - Bericht der Verwaltung
+- TOP 5: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens - Empfehlung abweichend beschlossen
+- TOP 5.1: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens (Änderungsantrag CDU-Fr - Empfehlung abweichend beschlossen
+- TOP 6: Plan Nr. 08/021 - Darmstädter Straße/Klein-Eller - Empfehlung abweichend beschlossen
+- TOP 6.1: Plan Nr. 08/021 - Darmstädter Straße/Klein-Eller - Aufstellung, Öffentlichkeitsbeteiligung (Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - Empfehlung abweichend beschlossen
+- TOP 7: Geschwindigkeits- und Verkehrsüberwachung im Stadtbezirk 8 - Bericht der Verwaltung
+- TOP 8: Umbenennung der GHS Bernburger Straße - Empfehlung einstimmig beschlossen
+- TOP 9: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2024 - einstimmig beschlossen
+- TOP 10: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2024 - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - einstimmig beschlossen
+- TOP 13: Erfahrungen mit dem RheinTakt (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Bau- und Planungsprojekte im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Verkehrsregelung Zum Zault / Gerresheimer Landstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Parken von Wohnwagen und Anhängern im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Video-Stream-Übertragung der Sitzungen der Bezirksvertretung 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Verbesserung der Stadtsauberkeit im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 20: Bürgerhäuser, Kultur- und Begegnungshäuser, Stadtbüchereien, Jugendfreizeit (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 21: Klimaanpassung und Biodiversität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 22: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 23: Sauberkeit auf dem Parkplatz Eller Mitte S-Bahnhof und Eller Süd S-Bahnhof - zur Kenntnis genommen
+- TOP 24: Auto-Poser-Szene am Parkplatz Eller Mitte - zur Kenntnis genommen
+- TOP 25: Paketstation Eller-Süd S - zur Kenntnis genommen
+- TOP 26: Erweiterung des Kita-Standortes Offenbacher Weg 43 - zurückgezogen
+- TOP 27: Geschwindigkeits- und Verkehrsüberwachung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Geschwindigkeitskontrollen A 46 - zur Kenntnis genommen
+- TOP 29: Reinigung Denkmal Unterbach und Hochkreuz Friedhof Eller - zur Kenntnis genommen
+- TOP 30: Gubener Straße – Planung für Verkehrssicherheit und Radverkehr - zur Kenntnis genommen
+- TOP 31: Fahrradstraße Reichenbacher Weg - zur Kenntnis genommen
+- TOP 32: Parken von Wohnwagen und Anhängern im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Verbindung für Fahrradfahrer im Bereich der Kleingärten Kissinger Straße - zur Kenntnis genommen
