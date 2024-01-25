@@ -1,5 +1,4 @@
-# Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer
-Stellvertreterin durch Soldatinnen der Bundeswehr
+# Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen durch Soldatinnen der Bundeswehr
 
 - [Eingangsformel](eingangsformel.md)
 
@@ -37,6 +36,6 @@ Stellvertreterin durch Soldatinnen der Bundeswehr
 
 ## Abschnitt 4 Übergangs- und Schlussvorschriften
 
-- [§ 24 (weggefallen)](0024.md)
+- [§ 24 Übergangsvorschriften](0024.md)
 - [§ 25 Sonderregelungen für die Nachrichtendienste](0025.md)
 - [§ 26 Inkrafttreten](0026.md)
