@@ -1,0 +1,120 @@
+# 26. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-25T17:30:00+01:00
+- Ende: 2024-01-25T20:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29454
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29454
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Hundefreilauffläche Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage zur Sitzung des BV Nippes am 25.01.2024 (Vorlagen-Nummer 0110/2024)
+- TOP 1.2: Hundefreilauffläche im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0208/2024) betreffend Johannes-Giesberts-Park
+- TOP 1.3: Hundefreilauffläche im Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.4: Flächennutzung Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage zu Sitzung der BV 5 am 25.01.2024 (0211/2024) betreffend Johannes-Giesberts-Park
+- TOP 1.5: Hundefreilauffläche - zurückgestellt
+- TOP 1.6: Hundefreilauffläche im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0218/2024) betreffend Johannes-Giesberts-Park
+- TOP 1.7: Freizeitsport im Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.8: Hundefreilauffläche im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage zur Sitzung der BV am 25.01.2024 (0243/2024) betreffend Johannes-Giesberts-Park
+- TOP 1.9: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.10: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.11: Freilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.12: Hundelauffläche Johannes Giesberts Park - zurückgestellt
+- TOP 1.13: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.14: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.15: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.16: Spielplatz im Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.17: Hundefreilauffläche Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung einer Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0276/2024) betreffend Johannes-Giesberts-Park
+- TOP 1.18: Flächennutzungsplan Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.19: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.20: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.21: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.22: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.23: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.24: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – „Mülheimer Brücke: Bauphase 2 als Verkehrsversuch nutzen und Fahrspuren nach Abschluss der Sanierung umwidmen“, Aktenzeichen 42/23 B - endgültig zurückgezogen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO - Vermüllung und Verwahrlosung öffentlicher Flächen im Bereich Grünflächen Zoo-/Flora-Umfeld, Aktenzeichen 162/23 - Kenntnis genommen
+- TOP 2.3: Mitteilung zur Bürgereingabe nach § 24 GO - Fahrradwege in Köln-Nippes, Aktenzeichen 20/23 - Kenntnis genommen
+- TOP 2.4: Mitteilung zur Bürgereingabe nach § 24 GO - Öffnung der Privatstraße KVB oder Merkenicher Straße für Anlieger, Aktenzeichen 202/23 - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Niehler Straße – Errichtung von LSA - zurückgestellt
+- TOP 7.1.4: Namibiastraße -- kein Parken gegenüber von Einzelgaragen - zurückgestellt
+- TOP 7.1.5: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.6: Bezug Deutschlandticket in Köln - zurückgestellt
+- TOP 7.1.7: Umsetzung des Landschaftspflegerischen Begleitplan an der KVB-Abstellanlage in Weidenpesch - zurückgestellt
+- TOP 7.1.8: Kreisverkehr Robert-Perthel-Straße/Longericher Straße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Bezirksvertretung Nippes vom 19.10.2023 (AN/1739/2023) betreffend „Kreisverkehr Robert-Perthel-Straße/Longericher Straße“ - Kenntnis genommen
+- TOP 7.1.9: Zweiter Zaun der Mathilde-von-Mevissen-Schule - zurückgestellt
+- TOP 7.1.10: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.11: Baugebot o.ä. möglich bei Gelände Xantener Straße (Südseite)? - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage gem. §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen, Anfrage der Grünen aus der Sitzung der BV 5 am 19.10.2023 (AN 1809/2023) - Kenntnis genommen
+- TOP 7.1.12: Lärmschutz im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.13: Busverkehr und Bus-Haltemöglichkeiten an Schulen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Busverkehr und Bus-Haltemöglichkeiten an Schulen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.14: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baumaßnahmen an den Kindertagesstätten am Merheimer Platz - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Umgestaltung Riehler Gürtel 2-4 "Riehler Plätzchen" - geändert beschlossen
+- TOP 8.1.2: Öffentlichkeitswirksame Fahrradpark-Anlage - geändert beschlossen
+- TOP -: Öffentlichkeitswirksame Fahrradpark-Anlage
+- TOP 8.1.3: Baumscheiben und Gehweg „Am Botanischen Garten“ in Riehl - ungeändert beschlossen
+- TOP 8.1.4: Instandsetzung Rad- und Gehweg entlang der Hochbahn in Niehl - zurückgestellt
+- TOP 8.1.5: Nicht-Beantwortung von Anfragen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Öffnung zweier Kundenzentren in der Zeit zwischen Weihnachten und Neujahr - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung eines offenen Bücherschranks auf der Platzfläche in der Naumannstraße - ungeändert beschlossen
+- TOP 9.1.2: Flächennutzung Johannes-Giesberts-Park - geändert beschlossen
+- TOP -: Ergänzungen Giesbertspark: Vergrößerung Hundewiese
+- TOP 9.1.3: Finanzielle Unterstützung der Nippeser Veedelsumzüge 2024 - ungeändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an Zurück in die Zukunft e.V. - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an unisono e.V. - geändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an den SKM Köln e.V. - endgültig zurückgezogen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr 1903 e.V. - 1 - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an die KKG Nippeser Bürgerwehr 1903 e.V. - 2 - ungeändert beschlossen
+- TOP 9.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an Zug um Zug e.V. - ungeändert beschlossen
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an Wipe a tear e.V. - ungeändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an den Ambulanten Kinder- und Jugendhospizdienst Köln - ungeändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an den Bürgerverein Bilderstöckchen e.V. - ungeändert beschlossen
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an den die Theatergruppe Ost.Brise - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Höhenentwicklungskonzept für die Innere Stadt Köln - ungeändert empfohlen
+- TOP 9.2.2: Satzung über die abweichende Herstellung der Erschließungsanlage Feldgärtenstraße von Sebastianstraße bis Haus Nr. 120 bzw. 127 einschließlich - ungeändert empfohlen
+- TOP 9.2.3: Schulrechtliche Errichtung einer 3-zügigen Grundschule am Standort Friedrich-Karl-Straße 64, 50737 Köln-Weidenpesch, bei gleichzeitiger Änderung der Montessori-Grundschule GGS Gilbachstr. - ungeändert empfohlen
+- TOP 9.2.4: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit 3 Sportübungseinheiten im Stadtbezirk Nippes - ungeändert empfohlen
+- TOP 9.2.5: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Nippes - hier: Ersatz der Vorlage 0604/2023 - mit Änderungen empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 10.2.3: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 10.2.4: Grundwasserschäden durch Gaswerksrückstände in Nippes - Kenntnis genommen
+- TOP 10.2.5: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.6: Gesamtinstandsetzung Mülheimer Brücke – Sachstand und Anliegerführungen - Kenntnis genommen
+- TOP 10.2.7: Räumliches Entwicklungskonzept LiebigQuartier - Auswertung der Online-Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10.2.8: Sachstandsinformation zur Durchführung eines zweiphasigen städtebaulichen Wettbewerbsverfahrens für die Erweiterung der DEVK-Zentrale in Köln-Riehl - Kenntnis genommen
+- TOP 10.2.9: Beteiligungskonzept "HEY Nippes-Check mit uns dein Veedel!" - Kenntnis genommen
