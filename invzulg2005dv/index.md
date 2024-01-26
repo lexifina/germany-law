@@ -3,5 +3,5 @@ Investitionszulagengesetzes 2005
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Einzelnotifizierungspflicht](0001.md)
-- [Schlussformel](schlussformel.md)
 - [§ 2 Inkrafttreten](0002.md)
+- [Schlussformel](schlussformel.md)
