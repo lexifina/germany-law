@@ -1,0 +1,80 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-26T14:00:00+01:00
+- Ende: 2024-01-26T18:13:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26206
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26206
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509134.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509134.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00509134.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 24.11.2023 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die gemeinsame Sitzung des Ordnungs- und Verkehrsausschusses und der Bezirksvertretung 1 vom 16.08.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Bürgeranträge gemäß § 24 GO NRW
+- TOP 4.1: Übertragung der öffentlichen Sitzungen der Bezirksvertretung 1 im Live-Stream - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: D-Live zu Erfahrungen Weihnachtsmarkt 2023 - zur Kenntnis genommen
+- TOP 5.2: Rückblick/Ausblick Stadtstrände - zur Kenntnis genommen
+- TOP 5.3: Europäischer Bücherschrank im Stadtbezirk 1 - Projekt "27, EU Library Street" - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Konrad-Adenauer-Platz - Weiterführung des Kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - Empfehlung mehrheitlich beschlossen
+- TOP 5.7: Plangenehmigungsverfahren nach § 18 Abs. 1 AEG i.V.m.§ 74 Abs. 6 VwVfG für das RRX- Bauvorhaben "Temporäre Ersatzhalte im Zuge der Baumaßnahmen im Planfeststellungsabschnitt 2.1 Reisholz – Wehrhahn“ – Herstellung des Benehmens - Empfehlung einstimmig beschlossen
+- TOP 5.8: Aufhebung der Sanierungssatzungen Berger Hafen/Zollhafen - Empfehlung einstimmig beschlossen
+- TOP 5.9: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung - Empfehlung einstimmig beschlossen
+- TOP 5.10: Aufhebung der Sanierungssatzung Rheinuferstraße - Empfehlung einstimmig beschlossen
+- TOP 5.11: Veranstaltungen auf dem Burgplatz – Jahresprogramm 2024 - Empfehlung abweichend beschlossen
+- TOP 5.12: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2025 - zur Kenntnis genommen
+- TOP 5.13: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2023 - mehrheitlich beschlossen
+- TOP 5.14: Repräsentationsaufwendungen der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 5.15: Bereitstellung von Mitteln für den Jahresempfang 2024 - mehrheitlich beschlossen
+- TOP 5.16: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 5.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.19: Fischmärkte auf dem Tonhallenufer im Jahre 2024 - zur Kenntnis genommen
+- TOP 5.20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2024 - einstimmig beschlossen
+- TOP 5.21: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 1 - vertagt
+- TOP 5.22: Verbesserungen für den ÖPNV am Knotenpunkt Kennedydamm / Kaiserswerther Straße - zur Kenntnis genommen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Baumaßnahme Tannenstraße 2-6 - (ehemaliges Gebäude des Forschungszentrums der Zementindustrie - beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Sichere und wettergeschützte Fahrradabstellanlagen in der Altstadt - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 7: Anfragen
+- TOP 7.1: Paul-Spiegel-Platz - Anfrage der SPD-Fraktion
+- TOP 7.2: Zukunft des Radschlägermarktes - Anfrage der Fraktion Bündnis90/Die Grünen - beantwortet
+- TOP 7.3: Verkehrsversuch Mühlenstraße/Burgplatz zum Taxenparkplatz - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Antrag auf Anbringen von Pfandringen an allen Mülleimern des Typs Tara im Stadtbezirk 1 - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.2: Antrag auf eindeutige Markierung der Bismarckstraße als Fahrradstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.3: Gestaltung Schulhof Maxschule - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.4: Zurückgenommene Radfahrstreifen auf der Fischerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Parkbuchten Mauerstraße 2-14 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.6: Schulwegsicherung im Rahmen der Querung der Rather Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Fahrradstation aus dem Modulsystem der Connected Mobility Düsseldorf GmbH auf der Mauerstraße – überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.8: Versetzung der Altkleidercontainer Schinkelstraße 53/55 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9.2: Altkleidercontainer im Stadtbezirk 1 häufiger leeren; Beschluss der Bezirksvertretung 1 vom 24.11.2023; BV1/267/2023 - zur Kenntnis genommen
+- TOP 9.3: Anwohnerparkplatz; Beschluss der Bezirksvertretung 1 vom 24.11.2023; BV1/276/2023 - zur Kenntnis genommen
+- TOP 9.4: Verkehrssituation Schadowstraße / Liesegangstraße ; Beschluss der Bezirksvertretung 1 vom 24.11.2023; BV1/270/2023 - zur Kenntnis genommen
+- TOP 9.5: Campus Golzheim Versorgung; Beschluss der Bezirksvertretung 1 vom 24.11.2023; BV1/274/2023 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e. V. - abweichend beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Gemeinschaftsgrundschule Lennéstraße - abweichend beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Rinde am Rhein - einstimmig beschlossen
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Ballspielverein 04 e. V. - einstimmig beschlossen
+- TOP 10.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Iouri Grankin - einstimmig beschlossen
+- TOP 10.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Max Wetter - abweichend beschlossen
+- TOP 10.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Oliver Kolibabka - einstimmig beschlossen
+- TOP 10.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KG Tills Freunde Düsseldorf - Derendorf e.V. - einstimmig beschlossen
