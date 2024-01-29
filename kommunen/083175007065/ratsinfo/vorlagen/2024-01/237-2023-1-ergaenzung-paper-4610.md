@@ -1,0 +1,21 @@
+# Änderung der Hauptsatzung
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 237/2023 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-01-29
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQBh8b9B_L2Q5uQQxpmDKW8
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/4610
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Änderung der Hauptsatzung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaV-a7WacJF60vfBYjOpith2kqtLsoRewEFAdieiWwiT/Beschlussvorlage_237-2023_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 0) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfbH3BKlz63lKdFGyyz6Rao-T7uSGIKSUwKfwBz7-4KQ/Anlage_0.pdf
+- Anlage: Beschlussvorlage (Anlage 1 Satzung zur Änderung der Hauptsatzung 1. Ergänzung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZO2UfOSPEvTdLF_bRTWN1ZnVwNJG8PPs7qlZtKU0Hul/Anlage_1_Satzung_zur_Aenderung_der_Hauptsatzung_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 2 Erläuterungen zur Änderungssatzung 1. Ergänzung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeOynhIwHCdRWMD2lXP8SrVsVp0yV_07jrN_WkfpO5Q4/Anlage_2_Erlaeuterungen_zur_Aenderungssatzung_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 3 BV 114/2006 Begründung von Mehr- und Minderkosten) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-nj8jDwT9esQeMjLgoQdl4ltYw9YUkJNl_jhUNkmnZ/Anlage_3_BV_114-2006_Begruendung_von_Mehr-_und_Minderkosten.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3380 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-33
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3316 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-39
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3315 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-38
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3352 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-37
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3157 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-36
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3169 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-60
