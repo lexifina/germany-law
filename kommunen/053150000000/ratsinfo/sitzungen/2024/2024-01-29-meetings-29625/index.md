@@ -1,0 +1,72 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-29T17:00:00+01:00
+- Ende: 2024-01-29T18:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29625
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29625
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2023 des Büros für Europa und Internationales - zurückgestellt
+- TOP 2.2: Sachstandsmitteilung zum Ratsbeschluss AN/0117/2018 "Kölns Städtepartnerschaften im Stadtbild sichtbar machen" vom 06.02.2018 - Kenntnis genommen
+- TOP 2.3: Aufwertung der Sitzbänke am Norbert-Burger-Platz (Hohenzollernbrücke), Deutz - Kenntnis genommen
+- TOP 2.4: Unterstützung des Hilfsdienstes für ehemalige Zwangsarbeiter*innen in Wolgograd für 2024 - ungeändert beschlossen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen im Rechnungsprüfungsausschuss vom 09.05.2023 betreffend "Einsatz von Pferden im Rosenmontagszug" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage von RM Dr. Krupp aus der Sitzung des AVR vom 27.11.2023 betreffend TOP 4.5 "Dritter Sachstandbericht zur Unterbringung und Betreuung von Geflüchteten 3192/2023" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 4.2: Personalbericht 2022 - Kenntnis genommen
+- TOP 4.3: Bilanz 11.11.2023 - Kenntnis genommen
+- TOP 4.4: Kalkberg Machbarkeitsstudie - Kenntnis genommen
+- TOP 4.5: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 4.6: Dienstvereinbarungen zur Flexibilisierung der Arbeitszeit und zum Mobilen Arbeiten - Kenntnis genommen
+- TOP 4.7: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 18. Januar 2024 - Kenntnis genommen
+- TOP 4.8: Mitteilung zum aktuellen Sachstand und Informationen zum Auswahlverfahren der Deutzer Kirmes - Kenntnis genommen
+- TOP 4.9: Weihnachtsverkehr 2023 - Kenntnis genommen
+- TOP 4.10: Urteil des Oberverwaltungsgericht NRW zum Brüsseler Platz - Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 4.11: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Ersatzfreiheitsstrafen wegen Fahrens ohne gültigen Fahrschein" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der FDP-Fraktion betreffend "Kölner Verkehrs-Betriebe AG:" AN/1406/2023 - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - zurückgestellt
+- TOP 6.3: Anfrage der SPD-Fraktion betreffend "Einstellungsquote von Menschen mit Behinderung bei der Stadt und weitere Fragen zum Inklusionsbericht 2022" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion vom 22.11.2023 (Session-Nr. AN/2085/2023) betreffend der Einstellungsquote von Menschen mit Behinderung bei der Stadt und weitere Fragen zum Inkluisionsbericht 2022 - Kenntnis genommen
+- TOP 6.4: Anfrage der fDP-Fraktion betreffend "Verfahrensstruktur "Sag's uns"-Anwendung der Stadt Köln auf der Homepage" - Sache ist erledigt
+- TOP -: Verfahrensstruktur "Sag`s uns" - Anwendung der Stadt Köln auf der Homepage - Kenntnis genommen
+- TOP 6.5: Anfrage der FDP-Fraktion betreffend "Personalnot bei der Stadt Köln wirksam entgegentreten - was ist bisher passiert?" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion für die Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen/Vergabe/Internationales (AN/0121/2024) am 29.01.2024 betreffend "Personalnot bei der Stadt Köln wirksam entgegentreten" - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Die Linke betreffend "Teilnahme städtischer Mitarbeiterin am Treffen für einen "Geheimplan gegen Deutschland" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke für die Sitzung des AVR (AN/0134/2024) am 29.01.2024 betreffend "Teilnahme städtischer Mitarbeiterin am Treffen für einen Geheimplan gegen Deutschland" - Kenntnis genommen
+- TOP 6.7: Anfrage der SPD-Fraktion betreffend "Maßnahmen im Straßenkarneval 2024 zum Schutz vor Queerfeindlichkeit" - Sache ist erledigt
+- TOP 6.8: Anfrage des Bündnis 90/Die Grünen und der Volt-Fraktion betreffend "Silvesterfeuerwerk 2023/2024" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Rechtssitation unter Brücken
+- TOP 7.2: Mündliche Anfrage der AfD-Fraktion betreffen "Beschwerden Antoniastraße"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der FDP-Fraktion betreffend "Stadtweite Einbürgerungsfeiern" - zurückgestellt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, Volt KLIMA Freunde zu TOP 3.1.8 betreffend "Stadtweite Einbürgerungsfeiern" - zurückgestellt
+- TOP 8.2: Antrag der FDP-Fraktion betreffend "Schöner heiraten in Köln" - geändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion betreffend "Ehrenamt in Köln stärken: Einrichtung einer/s Ehrenamtslots*in und Erstellung eines Konzeptes zur Förderung des ehrenamtlichen Engagements in den Veedeln und der Brauchtumspflege" - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das 1. und 2. Halbjahr 2024 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - endgültig zurückgezogen
+- TOP 10.2: Aufwandsneutrale Gewährung von Sachkosten für das Case Management des Kommunalen Integrationsmanagements (KIM) - ungeändert beschlossen
+- TOP 10.3: Schulrechtliche Errichtung einer 3-zügigen Grundschule am Standort Friedrich-Karl-Straße 64, 50737 Köln-Weidenpesch, bei gleichzeitiger Änderung der Montessori-Grundschule GGS Gilbachstr. - ungeändert beschlossen
+- TOP 10.4: Ordnungsbehördliche Verordnung für das Jahr 2024 über das Offenhalten von Verkaufsstellen an Sonntagen - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Mitgliedschaft der Stadt Köln in der Genossenschaft ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen IT-Dienstleister eG - ungeändert beschlossen
+- TOP 10.7: 4. Satzung zur Änderung der Satzung zur Erhebung einer Kulturförderabgabe im Gebiet der Stadt Köln vom 18.11.2014 - ungeändert beschlossen
+- TOP 10.8: Räumliche Einbauten und Vitrinen für die Ausstellung "Faszination Schmuck. 7000 Jahre Schmuckkunst im MAKK" - ungeändert beschlossen
+- TOP 10.9: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 10.10: Erhöhung der Transferaufwendungen gem. § 13 Abs. 1 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
