@@ -1,0 +1,7 @@
+# TOP 6: Nächste Sitzung am 26. Februar 2024
+
+- Sitzung: 24. öffentliche Sitzung des Ausschusses für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit (2024-01-29)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=47372
+- Ergebnis: erledigt
