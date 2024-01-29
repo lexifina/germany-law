@@ -1,0 +1,91 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-29T17:00:00+01:00
+- Ende: 2024-01-29T20:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29963
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29963
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Antrag auf Aktuelle Stunde der Fraktion DIE LINKE; Leerstehende Wohnungen in der GAG- Siedlung in Köln- Stammheim
+- TOP -: A Austausch mit dem Beigeordneten William Wolfgramm, Dezernat VIII Klima, Umwelt, Grün und Liegenschaften
+- TOP -: B Vorstellung Ergebnisse einer hydraulischen Untersuchung des rrh. Kölner Randkanals
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Rad- und Gehwege Bergisch Gladbacher Straße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - "Verkehrssituation Stadtgarten Mülheim" . 125/23 B - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/1956/2023 der Fraktion Die PARTEI betreffend den Diebstahl der Skulpturen des Märchenbrunnens im Stadtpark Mülheim - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung Mülheim vom 17.04.2023 (AN/0600/2023) betreffend „Radverkehrsinfrastruktur im Bezirk Köln-Mülheim“ - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer mündlichen Anfrage des Bezirksvertreters Krüger (CDU-Fraktion) in der Sitzung am 27.11.2023 zum Baumwollquartier - Kenntnis genommen
+- TOP 7.1.4: Vorkommnisse im Umfeld der Geflüchtetenunterkunft Luzerner Weg - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Auenweg - bewohnter Sperrmüll - Ergänzung - Kenntnis genommen
+- TOP 7.2.2: BMX Nutzungsmöglichkeiten - Kenntnis genommen
+- TOP 7.2.3: Brandgefährdung Elektrobus - Kenntnis genommen
+- TOP 7.2.4: Höhenhaus – Umsetzungsstand Beschluß AN/0443/2020 zum Höhenhauser Ring / Entwässerung Bahnunterführung - Kenntnis genommen
+- TOP 7.2.5: Wohnungs-und obdachlose Menschen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.6: Winterhilfe im Stadtbezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.7: Und jedes Jahr auf`s Neue- Schneechaos auch im Bezirk Köln- Mülheim - Kenntnis genommen
+- TOP 7.2.8: Regelmäßige Überflutung der Höhenhäuer Ring bei Dauer- oder Starkregen - Kenntnis genommen
+- TOP 7.2.9: Gesundheitsversorgung von Geflüchteten verbessern - Kenntnis genommen
+- TOP 7.2.10: Windrad Stammheim - Kenntnis genommen
+- TOP 7.2.10.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks (FDP) zur Sitzung der Bezirksvertretung Mülheim am 29.01.2024 betreffend Windrad Stammheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Öffnungszeiten Tiefgarage Mülheimer Stadthalle - ungeändert beschlossen
+- TOP 8.1.2: Steb und Windgenerator - endgültig abgelehnt
+- TOP 8.1.3: Leerstehende Wohnungen in der GAG- Siedlung in Köln- Stammheim - ungeändert beschlossen
+- TOP 8.1.4: Unverzügliche Sanierung der Deckbeschichtung der Fußgänger*innen- und Fahrradfahrer*innenbrücke in Köln- Buchforst, die in unmittelbarer Nähe zur Stadtbahnhaltestelle „Stegerwaldsiedlung“ über den Pfälzischen Ring führt - ungeändert beschlossen
+- TOP 8.1.5: Erhöhung der Freizeitattraktivität der Grünfläche entlang des Mülheimer Rheinufers im Bereich vor und hinter der „Katzenbuckel- Brücke“ - ungeändert beschlossen
+- TOP 8.1.6: Erstellung eines unabhängigen Gutachtens zum geplanten Abriss von Wohnhäusern in der GAG- Siedlung in Köln-Stammheim - ungeändert beschlossen
+- TOP 8.1.7: Schwer nachvollziehbare Bevölkerungsprognose zum Stadtbezirk Mülheim überprüfen - ungeändert beschlossen
+- TOP 8.1.8: Rechtsrheinische Buslinien stärken - ungeändert beschlossen
+- TOP 8.1.9: Verkehrssituation auf dem Gauweg - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Mülheim; Förderprogramm und Mittelvergabe Session 2023/24 - ungeändert beschlossen
+- TOP 9.1.2: Beschlussvorlage für das Fahrradstraßenkonzept Mülheim - zurückgestellt
+- TOP 9.1.3: Förderprogramm der Bezirksvertretung Mülheim für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW im Stadtbezirk Köln-Mülheim für das Jahr 2024 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Höhenentwicklungskonzept für die Innere Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - geändert beschlossen
+- TOP 9.2.3: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums - wird vertagt -
+- TOP 9.2.4: Anhörung zur Bedarfsfeststellung für eine Schulbaumaßnahme zur kurzfristigen Schaffung von Schulplätzen an Grund- und Förderschulen - ungeändert beschlossen
+- TOP 9.2.5: Änderung des Planungsbeschlusses für die Generalsanierung der Bezirkssportanlage Thuleweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.6: 208. Änderung des FNP - Lindgens-Areal in Köln-Mülheim - Feststellungsbeschluss - zurückgestellt
+- TOP 9.2.7: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke – Sachstand und Anliegerführungen - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zu Standort und Betrieb des Drogenkonsumraums Mülheim - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 10.2.6: Kalkberg Machbarkeitsstudie - Kenntnis genommen
+- TOP 10.2.7: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 10.2.8: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.9: Unterkunft für Geflüchtete am Luzerner Weg - Kenntnis genommen
+- TOP 10.2.10: Niederschrift 11. Runder Tisch Radverkehr Mülheim - Kenntnis genommen
+- TOP 10.2.11: Umgestaltung Platz an der Herler Straße in Buchheim - Kenntnis genommen
+- TOP 10.2.12: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 10.2.13: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - Kenntnis genommen
+- TOP 10.2.14: Ergänzende Information zur Schließung des Spielplatzes Fritz-Haber-Straße zur Gefahrenabwehr - Kenntnis genommen
+- TOP 10.2.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Schutz des Landschaftsschutzgebiet an der Otto-Kayser-Straße Köln-Dellbrück - AZ 01/22 - Kenntnis genommen
+- TOP 10.2.16: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Waltherstr. 69-89, Absenkung der Geschwindigkeit auf 30 km/h, Aktenzeichen 128/23 - Kenntnis genommen
+- TOP 10.2.17: Offenlage Bebauungsplan-Entwurf Nr. 70470/11, Arbeitstitel: Deutz-Areal in Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.18: Leerstehende Wohnungen in der GAG-Siedlung Köln- Stammheim/ Moses-Hess-Straße, Adolf-Kober-Straße, Georg-Breuer-Straße, Elias-Gut-Straße - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
