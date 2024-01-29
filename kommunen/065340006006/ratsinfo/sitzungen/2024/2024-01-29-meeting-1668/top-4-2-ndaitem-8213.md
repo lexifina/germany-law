@@ -1,0 +1,7 @@
+# TOP 4.2: Jahresabschluss 2022
+
+- Sitzung: Gemeindevertretung (22. Sitzung) (2024-01-29)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/8213
+- Beratung: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/consultation/3606
