@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-29T16:00:00+01:00
+- Ende: 2024-01-29T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29555
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29555
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zum Thema KITA Weyertal 113
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Einrichtung eines Gehweges auf der Max-Planck-Straße, Aktenzeichen 32/23 - Kenntnis genommen
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parkverbot und Tempo 30 Marsdorfer Straße, Aktenzeichen 190/23 - Kenntnis genommen
+- TOP 5.1.3: Mitteilung zur Bürgereingabe nach 24 GO - Tempo 30 Gleueler Straße/Zülpicher Straße, Aktenzeichen 154/23 - Kenntnis genommen
+- TOP 5.1.4: Mitteilung wurde zurückgezogen
+- TOP 5.1.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Erweiterung des inneren Grüngürtels - Bäume, Aktenzeichen 188/23 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Verkehrsentwicklung auf der Luxemburger Straße in Sülz und Klettenberg - Kenntnis genommen
+- TOP 7.2.2: Nächtliche Geschwindigkeitsüberschreitungen an der Aachener Straße - zurückgestellt
+- TOP 7.2.3: Einrichtung von Schulstraßen im Stadtbezirk Lindenthal - zurückgestellt
+- TOP 7.2.4: Anfrage zur Schaffung der Barrierefreiheit an 10 oberirdischen Haltestellen der KVB Linie 13 - Kenntnis genommen
+- TOP 7.2.5: Anfrage zu zwei Baulücken an der Luxemburger Straße/Sülzburgstraße - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Verkehrsleitende Maßnahmen Jakob-Kaiser Straße - ungeändert beschlossen
+- TOP 8.1.2: Maßnahmen zur Verkehrsberuhigung an der Decksteiner Mühle - ungeändert beschlossen
+- TOP 8.1.3: Einführung eines Fahrrad-Piktogrammkette auf der Dürener Straße zwischen Universitätsstraße und Gürtel (beide Fahrtrichtungen) - ungeändert beschlossen
+- TOP 8.1.4: Bewohnerparken Junkersdorf - ungeändert beschlossen
+- TOP 8.1.5: Beseitigung von Graffiti und Begrünung des Kiosks an der Ecke Siebengebirgsallee/Gottesweg/Luxemburger Straße - zurückgestellt
+- TOP 8.1.6: Fahrradnadeln in der Klosterstraße - ungeändert beschlossen
+- TOP 8.1.7: Maßnahmen zur Verkehrssicherheit am Zufahrtsweg zum Kindergarten in Verlängerung der Kronstädter Straße - zurückgestellt
+- TOP 8.1.8: Bewegungsparcours an der LöWi-Arena - ungeändert beschlossen
+- TOP 8.1.9: Maßnahmen gegen das „wilde Abstellen“ von E-Scootern im Bereich der S-Bahnstation Köln-Lövenich - ungeändert beschlossen
+- TOP 8.1.10: Fußgängerschutz in der Heckgasse - ungeändert beschlossen
+- TOP 8.1.11: Aufstellung von Hinweisschildern für die Mobiltoilette im Klettenbergpark - ungeändert beschlossen
+- TOP 8.1.12: Platane Belvedere - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Umgestaltung des öffentlichen Spielplatzes Stolberger Straße/Geilenkircher Straße in Braunsfeld - ungeändert beschlossen
+- TOP 9.1.2: Hinweistafeln Friedrich Ludwig Jahn - Alternative beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.2 - ungeändert beschlossen
+- TOP 9.2.3: Ordnungsbehördliche Verordnung für das Jahr 2024 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9.2.4: Höhenentwicklungskonzept für die Innere Stadt Köln - geändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 11.3.2: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 11.3.3: Sachstandsbericht der Verwaltung zur Verlagerung des Autonomen Zentrums in die Liegenschaft In den Reihen 16 in Köln-Kalk - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 16.2.3: Besetzung der stellvertretenden Schulleitung an der Gemeinschaftsgrundschule Freiligrathstr. 60, 50935 Köln - Kenntnis genommen
