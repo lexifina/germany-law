@@ -1,0 +1,191 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-01-30T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7964790
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7964790
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2023-12
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Weihnachtsmarkt Luise-Kiesselbach-Platz
+- TOP 6.2.: Parklizenzbereich Albert-Roßhaupter-Str.
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Amtseinführung Damskis
+- TOP 7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Mittagsbetreuung Mittagsinsel e.V.
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Elternbeirat des Ludwigsgymnasiums München Öffentliche Aufführung des Musicals „Ludwig, Lola und die Löwen vom 01.03.2024 – 31.07.2023“ 4.500,00 € / AZ: 0262.0-7-0459
+- TOP 10.2.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024“ 1.800,00 € / AZ: 0262.0-7-0462
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Gilmsraße 46 „Komm, wir finden eine Lösung! – Projekt vom 01.02.2024 – 31.07.2024“ 720,00 € / AZ: 0262.0-7-0461
+- TOP 11.: Anträge
+- TOP 11.1.: Änderun der Sitze in den UA
+- TOP 11.2.: GebärdendolmetscherInnen
+- TOP 11.3.: Abstellflächen für Elektro-Kleinfahrzeuge
+- TOP 11.4.: Barrierfreie Straßenüberquerungen
+- TOP 11.5.: U-Bahnhof Partnachplatz
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung-UA
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung UA SuK
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.5.1.: Einladung UA MuW
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.7.1.: Antrag KuJ-V Radweg Gilmstraße
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.11.1.: Protokoll Runder Tisch Region
+- TOP 13.11.2.: Protokoll REGSAM
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Hammersbacherstr.-Kramm
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Hansastr.
+- TOP 15.2.: Bauvorhaben Pilsenseestr.
+- TOP 15.3.: Bauvorhaben Breitbrunner Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Anhörung, Luise-Kiesselbach-Platz, Circus Sorento
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Hafenfest im Westpark
+- TOP 18.: Baureferat
+- TOP 18.1.: Bestellung städtischer Leistungen: Neue Parkbänke für den Westpark
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Anhörung, Satzungsänderung MVG-Zeitkarten für BA-Mitglieder (Antrag BA 16)
+- TOP 20.2.: BA Newsletter
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Bestellung von Familien- und Ferienpässen für Familien, Kinder und Jugendliche im Stadtbezirk Sendling-Westpark
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Absenkung Bordstein Heiterwanger / Fernpaßstr
+- TOP 33.2.: Multifunktionsfelder Surheimer Weg
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 34.1.: Tram-Westtangente
+- TOP 34.2.: OB-Bürgersprechstunde: Tempo 30 Hansastr. / Am Westpark
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Christkindlmarkt Luise-Kiesselbach-Platz
+- TOP 37.2.: Veranstaltungsflächen auf dem Luise-Kiesselbach-Platz
+- TOP 37.3.: Anzahl von Veranstaltungstagen auf dem Luise-Kiesselbach-Platz
+- TOP 37.4.: Befahren von Grünflächen zum Aufbau und Anlieferung für Veranstaltungen am Luise-Kiesselbach-Platz
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baumfällung Bielitzer Str.
+- TOP 39.2.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Stationäre Geschwindigkeitskontrolle Albert-Roßhaupter-Straße
+- TOP 40.2.: Zwischennachricht Entsiegelung und Begrünung Rattenberger
+- TOP 40.3.: Strengere Regeln für das Abstellen von E-Tretrollern
+- TOP 40.4.: Sofortmaßnahmen gegen die Gefährdungen durch falsch abgestellte E-Tretroller
+- TOP 40.5.: Parksituation Bernrieder Straße
+- TOP 40.6.: Einfahrt von der Lindauer Autobahn in die Garmischer Straße Richtung Süden: Fahrbahnmarkierungen
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Litfaßsäule Murnauer Str
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Wickeltisch BSA Surheimer Weg
+- TOP 42.2.: Bildungslokal Beschlussvorlage
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Fertigstellung des kommunalen Wärmeplans für München; Umsetzung der Fernwärmeversorgung im 7. Stadtbezirk
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Zwischenmitteilung Seniorenbriefe
+- TOP 46.2.: Belegung der Geflüchtetenunterkünfte in SWP
+- TOP 46.3.: Ratschbankerl
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Fristverlängerung Wertstoffcontainerstandort südlich des LKP
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Baumentfernung und Gehölzpflegemaßnahmen
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Infoschreiben Kürzung Stadtbezirksbudget 2024
+- TOP 51.2.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Vorkaufsrecht Albert-Roßhaupter-Straße
+- TOP 52.2.: Vorkaufsrecht Krüner Straße
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Versammlungsanzeige, Streikkundgebung Hansastraße
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Baustelleneinrichtung Hansastraße
+- TOP 56.2.: ÖPNV-Bauprogramme Sitzungsvorlage 20 26 / V 11452
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Ausnahmezulassung Müllsammelfahrzeuge_2024
+- TOP 60.2.: Ersatzneubau der Kreuzhofbrücken Baumfällungen
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Zweckentfremdung - Hasenthalweg
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Protokoll BA-Vorsitzende Treffen
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Vorkaufsrecht Albert-Roßhaupter-Str.
+- TOP 65.2.: Erweiterung des Mobilfunkstandortes
+- TOP 65.3.: Erstinformation bei Neubau-Suchkreisanzeige
+- TOP 12.5.2.: MuW Protokoll
+- TOP 12.6.1.: Protokoll PuG
+- TOP 47.2.: Antwort Mittagsinsel
+- TOP 12.4.2.: Protokoll_SuK_01_2024
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für die Januar
+- TOP 6.3.: Abbau Weihnachtsmarkt Luise Kiesselbachplatz
+- TOP 6.4.: Luise-Kiesselbach-Platz
+- TOP 6.5.: ANTRAG zu Abbau Veranstaltungen am LKB-Platz
+- TOP 6.6.: Müll Luise-Kiesselbach-Platz
+- TOP 7.2.: Besetzung UAs
+- TOP 7.4.: Wahl Mieterbeira
+- TOP 12.1.2.: BSU_Protokol
+- TOP 13.10.1.: Bericht Migrationsbeauftragter
+- TOP 12.2.1.: Protokoll BuS
+- TOP 12.3.1.: Protokoll HHA
+- TOP 47.3.: Antwort Maibaumverein
