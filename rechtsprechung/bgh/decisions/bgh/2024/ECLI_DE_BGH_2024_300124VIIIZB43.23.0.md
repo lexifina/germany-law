@@ -1,0 +1,405 @@
+---
+ecli: "ECLI:DE:BGH:2024:300124VIIIZB43.23.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-08"
+aktenzeichen: "VIII ZB 43/23"
+decided: "2024-01-30"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2024&Sort=1&Seite=10&nr=136815&anz=3636&pos=329&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-08_LE_2024-01-30_VIII_ZB_43_23_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0002.md", "germany/bund/acts/bgb/0307.md", "germany/bund/acts/bgb/0309.md", "germany/bund/acts/bgb/0362.md", "germany/bund/acts/bgb/0535.md", "germany/bund/acts/bgb/0536.md", "germany/bund/acts/bgb/0536a.md", "germany/bund/acts/zpo/0091a.md", "germany/bund/acts/zpo/0098.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, VIII ZB 43/23 vom 2024-01-30
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                            BESCHLUSS
+VIII ZB 43/23
+                                   vom
+
+                             30. Januar 2024
+
+                            in dem Rechtsstreit
+
+
+Nachschlagewerk:       ja
+BGHZ:               nein
+BGHR:                  ja
+
+
+
+BGB § 307 Abs. 1 Satz 1, Abs. 1 Satz 2, Abs. 2 Nr. 1 Bb, § 535 Abs. 1 Satz 2
+
+a) Gegen eine Kostenentscheidung nach § 91 a ZPO darf die Rechtsbeschwerde nicht aus materiell-rechtlichen Gründen zugelassen werden, da
+   es nicht Zweck des Kostenverfahrens ist, Rechtsfragen von grundsätzlicher
+   Bedeutung zu klären oder das Recht fortzubilden, soweit es um Fragen des
+   materiellen Rechts geht. Lässt das Beschwerdegericht unter Missachtung
+   dieses Grundsatzes die Rechtsbeschwerde gleichwohl zu, ist das Rechtsbeschwerdegericht daran nach § 574 Abs. 3 Satz 1 ZPO gebunden
+   (st. Rspr.; im Anschluss an BGH, Beschluss vom 27. April 2021 - VIII ZB
+   44/20, NJW-RR 2021, 737 Rn. 10 mwN).
+
+b) Beruft der Mieter sich auf die Unwirksamkeit einer formularvertraglichen
+   Überwälzung der Verpflichtung zur Vornahme laufender Schönheitsreparaturen unter dem Gesichtspunkt, dass ihm die Wohnung unrenoviert oder
+   renovierungsbedürftig überlassen worden ist, trägt er für diesen Umstand
+   die Darlegungs- und Beweislast (im Anschluss an BGH, Urteil vom 18. März
+   2015 - VIII ZR 185/14, BGHZ 204, 302 Rn. 32).
+
+
+
+
+ECLI:DE:BGH:2024:300124BVIIIZB43.23.0
+
+                                     -2-
+
+
+
+c) Die Unwirksamkeit einer formularvertraglichen Quotenabgeltungsklausel
+   führt nicht zur Unwirksamkeit einer formularvertraglichen Vornahmeklausel
+   (im Anschluss an BGH, Urteil vom 18. Juni 2008 - VIII ZR 224/07, WuM
+   2008, 472 Rn. 14; Beschluss vom 18. November 2008 - VIII ZR 73/08, WuM
+   2009, 36 Rn. 1).
+
+
+
+BGH, Beschluss vom 30. Januar 2024 - VIII ZB 43/23 - LG Detmold
+                                                     AG Blomberg
+
+                                             -3-
+
+
+
+    Der VIII. Zivilsenat des Bundesgerichtshofs hat am 30. Januar 2024 durch den
+    Vorsitzenden Richter Dr. Bünger, den Richter Kosziol sowie die Richterinnen
+    Dr. Liebert, Wiegand und Dr. Böhm
+
+
+    beschlossen:
+
+
+           Die Rechtsbeschwerde der Klägerin gegen den Beschluss der
+           3. Zivilkammer des Landgerichts Detmold vom 25. Mai 2023
+           wird zurückgewiesen.
+
+           Die Klägerin hat die Kosten des Rechtsbeschwerdeverfahrens
+           zu tragen.
+
+           Der Gegenstandswert des Rechtsbeschwerdeverfahrens wird
+           auf bis 13.000 € festgesetzt.
+
+
+
+
+                                           Gründe:
+
+1          I. Die Parteien streiten um die Kosten eines Rechtsstreits, nachdem sie
+    bereits in der ersten Instanz einen Vergleich geschlossen, darin den Rechtsstreit
+    in der Hauptsache übereinstimmend für erledigt erklärt und bestimmt haben, dass
+    über die Kosten des Rechtsstreits einschließlich der Kosten des selbständigen
+    Beweisverfahrens das Gericht in analoger Anwendung des § 91a ZPO entscheiden soll.
+
+2          Die Klägerin ist aufgrund eines "Dauernutzungsvertrages" vom 13. Oktober 2008 Mieterin einer in B.          gelegenen Wohnung der Beklagten, welche
+    zum 1. Mai 2015 als Rechtsnachfolgerin der ursprünglichen Vermieterin, der
+
+                                           -4-
+
+
+
+    W.                    , in das Mietverhältnis eingetreten ist. Der Formularmietvertrag sieht eine Verpflichtung zur Ausführung der Schönheitsreparaturen durch
+    den Mieter nach Ablauf bestimmter, von dem Beginn seiner Nutzungszeit an berechneter flexibler Fristen vor, die sich - wie zusätzlich ausdrücklich festgehalten
+    wird - entsprechend dem Zustand der Wohnung und dem Grad der Abnutzung
+    verlängern oder verkürzen können. Ferner soll der Mieter für den Umfang der im
+    Laufe seiner Nutzungszeit ausgeführten Schönheitsreparaturen beweispflichtig
+    sein. Des Weiteren enthält der Vertrag eine Quotenabgeltungsklausel.
+
+3         Die Klägerin hat mit ihrer Klage - nach einem vorangegangenen selbständigen Beweisverfahren - einen Kostenvorschuss zur Durchführung von Schönheitsreparaturen in der Mietwohnung in Höhe von 26.210 € sowie die Feststellung begehrt, dass sie berechtigt sei, die von ihr derzeit gezahlte Miete bis zur
+    Durchführung von Schönheitsreparaturen um 10 % zu mindern.
+
+4         Das Amtsgericht hat nach der im Vergleich enthaltenen übereinstimmenden Erledigungserklärung der Parteien durch Beschluss die Kosten des Rechtsstreits der Beklagten auferlegt. Auf die sofortige Beschwerde der Beklagten hat
+    das Landgericht die amtsgerichtliche Entscheidung geändert und die Kosten des
+    Rechtsstreits einschließlich der Kosten des selbständigen Beweisverfahrens der
+    Klägerin auferlegt. Mit der vom Beschwerdegericht - wegen der von ihm als
+    grundsätzlich angesehenen Frage der Wirksamkeit der in dem Mietvertrag verwendeten Schönheitsreparaturklauseln - zugelassenen Rechtsbeschwerde begehrt die Klägerin die Wiederherstellung der amtsgerichtlichen Entscheidung.
+
+5         II. Die Rechtsbeschwerde hat keinen Erfolg.
+
+6         1. Das Beschwerdegericht hat zur Begründung seiner Entscheidung im
+    Wesentlichen ausgeführt:
+
+                                           -5-
+
+
+
+7          Die Kosten des Rechtsstreits seien der Klägerin aufzuerlegen, da ihre
+     Klage in dem maßgeblichen Zeitpunkt des Vergleichsschlusses als erledigendem
+     Ereignis hätte abgewiesen werden müssen. Denn die Beklagte sei nach dem
+     zwischen den Parteien bestehenden Mietvertrag zur Ausführung von Schönheitsreparaturen in der Wohnung der Klägerin nicht verpflichtet gewesen, vielmehr sei
+     die Verpflichtung zur Ausführung von Schönheitsreparaturen durch die entsprechenden Klauseln des Mietvertrags wirksam auf die Klägerin übertragen worden.
+
+8          Zwar dürfe der Mieter durch Allgemeine Geschäftsbedingungen nur zu
+     den auf seine eigene Vertragszeit entfallenden Renovierungsleistungen verpflichtet werden, was bei der hier gegebenen Vornahmeklausel dann nicht gewährleistet sei, wenn die Wohnung in unrenoviertem oder renovierungsbedürftigen Zustand an den Mieter übergeben worden sei. Dieser Gesichtspunkt führe
+     jedoch nicht generell, sondern nur dann zur Unwirksamkeit der Vornahmeklausel,
+     wenn die Wohnung im konkreten Fall tatsächlich in unrenoviertem oder renovierungsbedürftigem Zustand überlassen worden sei, was der Mieter darzulegen
+     und im Bestreitensfall zu beweisen habe. Derartiger Vortrag der Klägerin fehle im
+     vorliegenden Fall.
+
+9          Die Vornahmeklausel enthalte auch keinen unzulässigen starren Fristenplan, sondern ermögliche ungeachtet der ohnehin nur für den Regelfall bestimmten Fristen deren Abänderung in Abhängigkeit vom Zustand der Wohnung und
+     dem Grad der Abnutzung. Die Klausel sei ferner nicht wegen Intransparenz unwirksam.
+
+10         Die in dem Mietvertrag getroffene Regelung, nach welcher der Mieter für
+     den Umfang der im Laufe der Nutzungszeit ausgeführten Schönheitsreparaturen
+     beweispflichtig sei, entspreche den allgemeinen Grundsätzen der Beweislast.
+
+                                           -6-
+
+
+
+11          Die Unwirksamkeit der Vornahmeklausel ergebe sich letztlich auch nicht
+     daraus, dass die Quotenabgeltungsklausel gemäß § 307 Abs. 1 Satz 1 BGB unwirksam sei. Die Quotenabgeltungsklausel habe einen eigenständigen Regelungsgehalt und könne gestrichen werden, ohne dass der Sinn der Vornahmeklausel darunter leide.
+
+12          2. Diese Beurteilung hält rechtlicher Nachprüfung stand; die Rechtsbeschwerde ist daher zurückzuweisen.
+
+13          a) Das Rechtsmittel ist nach § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthaft und
+     auch im Übrigen zulässig.
+
+14          Die Entscheidung des Beschwerdegerichts über die Zulassung der
+     Rechtsbeschwerde ist für den Senat bindend (§ 574 Abs. 3 Satz 2 ZPO). Hierbei
+     kommt es nicht darauf an, ob das Beschwerdegericht die Voraussetzungen des
+     § 574 Abs. 2 zutreffend beurteilt hat (Senatsbeschlüsse vom 8. Mai 2012 - VIII ZB
+     91/11, WuM 2012, 332 Rn. 3; vom 9. Januar 2019 - VIII ZB 26/17, NJW-RR 2019,
+     332 Rn. 7; vom 27. April 2021 - VIII ZB 44/20, NJW-RR 2021, 737 Rn. 10). Es ist
+     daher unschädlich, dass - was das Beschwerdegericht verkannt hat - gegen eine
+     Kostenentscheidung die Rechtsbeschwerde nicht aus materiell-rechtlichen Gründen zugelassen werden darf, da es nicht Zweck des Kostenverfahrens ist,
+     Rechtsfragen von grundsätzlicher Bedeutung zu klären oder das Recht fortzubilden (st. Rspr.; Senatsbeschlüsse vom 9. Januar 2019 - VIII ZB 26/17, aaO; vom
+     27. April 2021 - VIII ZB 44/20, aaO; vom 25. Oktober 2022 - VIII ZB 58/21, NJW
+     2022, 3778 Rn. 6).
+
+15          b) Die Rechtsbeschwerde hat in der Sache keinen Erfolg. Das Beschwerdegericht hat zu Recht entschieden, dass die Klägerin die Kosten des Rechtsstreits zu tragen hat.
+
+                                           -7-
+
+
+
+16         aa) Die Kostenentscheidung nach übereinstimmender Erledigungserklärung ist unter Berücksichtigung des bisherigen Sach- und Streitstandes nach billigem Ermessen zu treffen (§ 91a Abs. 1 Satz 1 ZPO). Dem steht § 98 Satz 2
+     ZPO nicht entgegen, wonach die Kosten eines Rechtsstreits, der sich - wie hier -
+     durch Vergleich erledigt hat, als gegeneinander aufgehoben anzusehen sind,
+     ohne dass es auf weiteres ankäme. Denn diese Norm kommt nicht zur Anwendung, wenn die Parteien sie ausgeschlossen und die Kostentragung einer gerichtlichen Entscheidung unterstellt haben (BGH, Beschlüsse vom 6. Oktober
+     1964 - Ia ZR 74/63, NJW 1965, 103 unter 2; vom 8. Dezember 2006 - V ZR
+     249/05, NJW 2007, 835 Rn. 1 mwN). So liegt es hier. Der Vergleich enthält die
+     Regelung, dass über die Kosten des Rechtsstreits das erkennende Gericht in
+     analoger Anwendung des § 91a ZPO entscheiden soll.
+
+17         bb) Vorliegend entspricht es unter Berücksichtigung des bisherigen Sachund Streitstands billigem Ermessen, die Kosten des Rechtsstreits der Klägerin
+     aufzuerlegen, denn diese wäre bei Fortführung des Rechtsstreits voraussichtlich
+     in der Sache unterlegen.
+
+18         Die im Mietvertrag enthaltene formularvertragliche Überwälzung der Verpflichtung zur Vornahme laufender Schönheitsreparaturen auf den Mieter hält einer Überprüfung am Maßstab des § 307 Abs. 1, 2 Nr. 1 BGB stand, so dass die
+     Vermieterin nicht zur Ausführung von Schönheitsreparaturen verpflichtet war. Die
+     Nichtausführung der Schönheitsreparaturen durch die Vermieterin begründete
+     daher auch keinen Sachmangel der Wohnung, weshalb sowohl der von der Klägerin geltend gemachte Vorschussanspruch gemäß § 536a Abs. 2 Nr. 1 BGB
+     (vgl. hierzu Senatsurteil vom 8. Juli 2020 - VIII ZR 163/18, BGHZ 226, 208 Rn. 14)
+     nicht besteht als auch eine Mietminderung nach § 536 Abs. 1 BGB ausscheidet.
+
+                                           -8-
+
+
+
+19         (1) Das Beschwerdegericht ist zunächst zutreffend davon ausgegangen,
+     dass die in der entsprechenden Klausel des Mietvertrags vorgesehenen Renovierungsfristen nicht - was zur Unwirksamkeit der Formularklausel führen würde -
+     unveränderbar sind, sondern durch ihre flexible Gestaltung Raum lassen, den
+     konkreten Renovierungsbedarf der Mieträume zu berücksichtigen, so dass die
+     genannten Fristen letztlich nur den Charakter einer Richtlinie oder unverbindlichen Orientierungshilfe haben (vgl. Senatsurteile vom 23. Juni 2004 - VIII ZR
+     361/03, NJW 2004, 2586 unter II 2 a; vom 26. September 2007 - VIII ZR 143/06,
+     NJW 2007, 3632 Rn. 12; vom 18. März 2015 - VIII ZR 21/13, NJW 2015, 1874
+     Rn. 14).
+
+20         (2) Entgegen der Ansicht der Rechtsbeschwerde hat das Beschwerdegericht auch zu Recht einen Verstoß der genannten Regelungen gegen das Transparenzgebot des § 307 Abs. 1 Satz 2 BGB verneint.
+
+21         Auch in der Zusammenschau des flexiblen Fristenplans mit der zusätzlich
+     vorgesehenen Verlängerung oder Verkürzung der Renovierungsfristen ist für den
+     verständigen und redlichen durchschnittlichen Mieter hinreichend erkennbar,
+     dass sich die Fälligkeit der Schönheitsreparaturen nach dem objektiven, tatsächlichen Renovierungsbedarf der Wohnung bestimmt.
+
+22         (3) Das Beschwerdegericht hat auch zutreffend erkannt, dass die Vornahmeklausel gewährleisten muss, dass der Mieter nur zu den auf seine Vertragszeit
+     entfallenden Renovierungsleistungen verpflichtet wird beziehungsweise bei einer
+     unrenoviert oder renovierungsbedürftig überlassenen Wohnung einen angemessenen Ausgleich für seine Renovierungsleistungen erhält. Es hat jedoch in Übereinstimmung mit der Senatsrechtsprechung eine hierauf gestützte Unwirksamkeit
+     der Regelung mit der Begründung verneint, dass die hierfür darlegungs- und beweispflichtige Klägerin nicht dargetan habe, dass die Wohnung bei Mietbeginn
+     unrenoviert oder renovierungsbedürftig gewesen sei.
+
+                                           -9-
+
+
+
+23         (a) Nach der neueren Senatsrechtsprechung ist eine Klausel, die den
+     Mieter einer unrenoviert oder renovierungsbedürftig übergebenen Wohnung
+     während der Mietzeit nach Ablauf bestimmter, von Beginn der Mietzeit oder Übergabe der Wohnung an berechneter flexibler (bedarfsorientierter) Fristen ohne angemessenen Ausgleich verpflichtet, Schönheitsreparaturen vorzunehmen, nach
+     § 307 Abs. 1, 2 Nr. 1 BGB unwirksam (Senatsurteile vom 18. März 2015 - VIII ZR
+     185/14, BGHZ 204, 302 Rn. 15, 24 ff., und VIII ZR 242/13, NJW 2015, 1871
+     Rn. 22; vom 22. August 2018 - VIII ZR 277/16, NJW 2018, 3302 Rn. 20; vom
+     8. Juli 2020 - VIII ZR 163/18, BGHZ 226, 208 Rn. 15).
+
+24         Der Senat hat für derartige Vornahmeklauseln bereits entschieden, dass
+     sie nicht schon deshalb unwirksam sind, weil sie so formuliert sind, dass sie sowohl auf renoviert als auch auf unrenoviert oder renovierungsbedürftig überlassene Wohnungen Anwendung finden können, sondern dass maßgeblich danach
+     zu unterscheiden ist, ob Gegenstand der Renovierungsverpflichtung des Mieters
+     eine bei Vertragsbeginn renovierte oder eine unrenovierte beziehungsweise renovierungsbedürftige Wohnung ist (Senatsurteil vom 18. März 2015 - VIII ZR
+     185/14, aaO Rn. 28 mwN). Die Darlegungs- und Beweislast dafür, dass die Wohnung bereits bei Mietbeginn unrenoviert oder renovierungsbedürftig war, trifft den
+     Mieter (Senatsurteil vom 18. März 2015 - VIII ZR 185/14, aaO Rn. 32 mwN). An
+     einer Darlegung der Klägerin, dass ihr die Wohnung unrenoviert beziehungsweise renovierungsbedürftig übergeben worden sei, fehlt es nach den von der
+     Rechtsbeschwerde nicht angegriffenen Feststellungen des Beschwerdegerichts
+     jedoch im vorliegenden Fall.
+
+25         (b) Die von der Rechtsbeschwerde gegen diese Rechtsprechung des Senats geltend gemachten Bedenken greifen nicht durch.
+
+26         (aa) Zu Unrecht meint die Rechtsbeschwerde - ausgehend von der These,
+     die Durchführung der Schönheitsreparaturen durch den Vermieter entspreche
+
+                                           - 10 -
+
+
+
+     dem gesetzlichen Leitbild des § 535 Abs. 1 Satz 2 BGB -, es obliege dem Klauselverwender, die deshalb gemäß § 307 Abs. 2 Nr. 1 BGB im Zweifel anzunehmende Unwirksamkeit der Klausel zu entkräften (so auch BeckOGK-BGB/H.
+     Schmidt, Stand: 1. Oktober 2023, § 535 Rn. 403.3; Graf v. Westphalen, NZM
+     2016, 10, 16 f.; Kappus, NZM 2016, 609, 615 f.; Schmidt, NJW 2016, 1201,
+     1203).
+
+27            Diese Auffassung berücksichtigt bei ihrer Argumentation nicht hinreichend, dass Vornahmeklauseln, welche die Verpflichtung zur Vornahme von
+     Schönheitsreparaturen im laufenden Mietverhältnis auf den Mieter überwälzen,
+     trotz der in § 535 Abs. 1 Satz 2 BGB enthaltenen Regelung im Grundsatz zulässig
+     sind. Dies entspricht nicht nur der jahrzehntelangen ständigen Senatsrechtsprechung (so ausführlich bereits Senatsbeschlüsse vom 30. Oktober 1984
+     - VIII ARZ 1/84, BGHZ 92, 363, 367 f.; vom 1. Juli 1987 - VIII ARZ 9/86, BGHZ
+     101, 253, 261 ff.; vom 6. Juli 1988 - VIII ARZ 1/88, BGHZ 105, 71, 79 ff. [jeweils
+     zu § 9 AGBG]; vgl. auch Senatsurteile vom 3. Juni 1998 - VIII ZR 317/97, NJW
+     1998, 3114 unter III 1 [zu § 9 AGBG]; vom 23. Juni 2004 - VIII ZR 361/03, NJW
+     2004, 2586 unter II 2 a), sondern auch dem in den Materialien zum Entwurf eines
+     Gesetzes zur Neugliederung, Vereinfachung und Reform des Mietrechts vom
+     19. Juni 2001 (Mietrechtsreformgesetz, BGBl. I S. 1149) zum Ausdruck gekommenen Willen des Gesetzgebers (vgl. BT-Drucks. 14/4553, S. 40).
+
+28            (bb) Die Senatsrechtsprechung steht entgegen der Auffassung der
+     Rechtsbeschwerde (ebenso Schmidt, NJW 2016, 1201, 1203; BeckOK-BGB/H.
+     Schmidt, Stand: 1. Oktober 2023, § 535 Rn. 403.3) auch nicht im Widerspruch
+     zur Rechtsprechung des Gerichtshofs der Europäischen Union, nach welcher ein
+     nationales Gericht im - vorliegend eröffneten - Anwendungsbereich der Richtlinie
+     93/13/EWG des Rates vom 5. April 1993 über missbräuchliche Klauseln in Verbraucherverträgen (Abl. L 95 S. 29; im Folgenden: Klauselrichtlinie) von Amts
+
+                                           - 11 -
+
+
+
+     wegen verpflichtet ist, die Missbräuchlichkeit einer Vertragsklausel zu berücksichtigen, sobald es über die hierzu erforderlichen rechtlichen und tatsächlichen
+     Grundlagen verfügt (vgl. EuGH, Urteile vom 26. Oktober 2006 - C-168/05, NJW
+     2007, 135 Rn. 38 - Mostaza Claro; vom 4. Juni 2009 - C-243/08, NJW 2009, 2367
+     Rn. 32 - Pannon; vom 14. Juni 2012 - C-618/10, NJW 2012, 2257 Rn. 43 - Banco
+     Español de Crédito; vom 21. Februar 2013 - C-472/11, NJW 2013, 987 Rn. 22 f.
+     - Banif Plus Bank; vom 7. November 2019 - C-419/18 und C-483/18, WM 2019,
+     2239 Rn. 63 - Profi Credit Polska; vom 11. März 2020 - C-511/17, WM 2020, 684
+     Rn. 26 - Lintner).
+
+29          Diesem unionsrechtlichen Erfordernis ist im deutschen Zivilprozessrecht
+     bereits dadurch Rechnung getragen, dass das Gericht auf der Basis des ihm vorgetragenen Sachverhalts eine AGB-Klausel auf ihre Wirksamkeit prüfen muss,
+     ohne dass sich der Gegner des Verwenders auf deren Unwirksamkeit berufen
+     müsste (vgl. BGH, Urteile vom 1. Juni 2022 - VIII ZR 287/20, BGHZ 233, 339
+     Rn. 58; vom 4. Juli 1997 - V ZR 405/96, NJW 1997, 3022 unter II 1 [zu § 9
+     AGBG]).
+
+30          (cc) Vergeblich hält die Rechtsbeschwerde der vom Senat angenommenen Verteilung der Darlegungs- und Beweislast entgegen, dass der Vermieter,
+     der während oder nach Beendigung des Mietverhältnisses gegen den Mieter Ansprüche auf Durchführung der auf diesen übertragenen Schönheitsreparaturen
+     oder Schadensersatz wegen deren Nichtdurchführung geltend macht, beweispflichtig für deren Fälligkeit sei (vgl. MünchKommBGB/Häublein, 9. Aufl., § 535
+     Rn. 188) und deshalb auch beweisen müsse, dass der Renovierungsbedarf auf
+     der Nutzung durch den Mieter beruhe. Dies trifft nicht zu. Die Fälligkeit der Verpflichtung zur Durchführung von Schönheitsreparaturarbeiten richtet sich allein
+     nach dem Renovierungszustand der Wohnung (vgl. Senatsurteil vom 18. März
+     2015 - VIII ZR 185/14, BGHZ 204, 302 Rn. 27).
+
+                                           - 12 -
+
+
+
+31           (4) Ebenfalls zu Recht hat das Beschwerdegericht in der im Mietvertrag
+     enthaltenen Beweislastregelung, wonach der Mieter für den Umfang der während
+     seiner Nutzungszeit ausgeführten Schönheitsreparaturen beweispflichtig ist,
+     keine gemäß § 309 Nr. 12 BGB unzulässige Beweislastumkehr zum Nachteil des
+     Mieters gesehen.
+
+32           Eine solche Regelung entspricht für den hier gegebenen Fall der Wirksamkeit der Überwälzung der Verpflichtung zur Vornahme laufender Schönheitsreparaturen den allgemeinen prozessualen Regelungen zur Beweislast, wonach der
+     Schuldner beweispflichtig für die - gemäß § 362 Abs. 1 BGB zum Erlöschen der
+     gegen ihn gerichteten Forderung führenden - Erfüllung ist (vgl. Senatsurteil vom
+     3. Juni 1998 - VIII ZR 317/97, NJW 1998, 3114 unter III 2 c [zu § 11 Nr. 15
+     AGBG]). Dies gilt nicht nur für den Fall, dass der Schuldner auf Erfüllung in Anspruch genommen wird, sondern auch für den Fall, dass der Gläubiger Rechte
+     wegen Nichterfüllung geltend macht (BGH, Urteil vom 17. Dezember 1992 - III ZR
+     133/91, NJW 1993, 1704 unter I 4 b mwN; MünchKommBGB/Fetzer, 9. Aufl.,
+     § 363 Rn. 2; Grüneberg/Grüneberg, BGB, 83. Aufl., § 363 Rn. 1; BeckOGK-BGB/Riehm, Stand: 1. August 2023, § 280 Rn. 345; Staudinger/Kern, BGB, Neubearb. 2022, § 363 Rn. 4; siehe auch Lützenkirchen/Lützenkirchen, Mietrecht,
+     3. Aufl., § 535 BGB Rn. 689 [zur Erfüllung der Verpflichtung von auf den Mieter
+     übertragenen Schönheitsreparaturen]).
+
+33           Die Ansicht der Rechtsbeschwerde, mit der Klausel werde auch die den
+     Vermieter treffende Beweislast für die Fälligkeit der Vornahme von auf den Mieter
+     übertragenen Schönheitsreparaturen erfasst, trifft nicht zu. Die Fälligkeit eines
+     Anspruchs und dessen Erfüllung sind gesondert zu prüfende Umstände und unterliegen jeweils eigenen Beweislastregeln (vgl. Lützenkirchen/Lützenkirchen,
+     aaO).
+
+                                           - 13 -
+
+
+
+34         (5) Das Beschwerdegericht hat schließlich - entgegen der Auffassung der
+     Rechtsbeschwerde - auch zutreffend erkannt, dass die Unwirksamkeit der Quotenabgeltungsklausel nach § 307 Abs. 1 Satz 1 BGB (vgl. hierzu Senatsurteil vom
+     18. März 2015 - VIII ZR 242/13, NJW 2015, 1871 Rn. 24 ff.) nicht zur Unwirksamkeit der Vornahmeklausel führt.
+
+35         Der Senat hat bereits entschieden, dass eine unwirksame Quotenabgeltungsklausel nicht zur Unwirksamkeit der formularmäßigen Übertragung der
+     Schönheitsreparaturen führt (Senatsurteil vom 18. Juni 2008 - VIII ZR 224/07,
+     WuM 2008, 472 Rn. 14; Senatsbeschluss vom 18. November 2008 - VIII ZR
+     73/08, WuM 2009, 36 Rn. 1). Der Zweck der Abgeltungsklausel besteht darin,
+     dem Vermieter, der von dem ausziehenden Mieter mangels Fälligkeit der Schönheitsreparaturen keine Endrenovierung verlangen kann, wenigstens einen prozentualen Anteil an Renovierungskosten seit den letzten Schönheitsreparaturen
+     während der Mietzeit zu sichern. Sie ergänzt deshalb die Verpflichtung des Mieters zur Durchführung von Schönheitsreparaturen für den Fall, dass die Renovierungspflicht noch nicht fällig ist. Das Zusammentreffen einer unwirksamen Abgeltungsklausel mit der allgemeinen Schönheitsreparaturklausel führt daher nicht
+     zur Unwirksamkeit der letzteren Klausel (Senatsurteil vom 18. Juni 2008 - VIII ZR
+     224/07, aaO).
+
+36         An dieser Senatsrechtsprechung hat sich - entgegen der auf ein von ihr so
+     bezeichnetes "Prinzip der Gesamtinfektion" abstellenden Auffassung der Rechtsbeschwerde - nichts dadurch geändert, dass der Senat in anderen Entscheidungen ausgesprochen hat, die Pflicht zur Vornahme von Schönheitsreparaturen
+     stelle eine einheitliche, nicht in Einzelmaßnahmen aufspaltbare Rechtspflicht dar,
+     was zur Folge habe, dass die Unwirksamkeit der einen Einzelaspekt dieser einheitlichen Pflicht betreffenden Bestimmung in der gebotenen Gesamtschau zur
+     Unwirksamkeit der gesamten Vornahmeklausel führe (vgl. Senatsurteile vom
+
+                                          - 14 -
+
+
+
+     18. Februar 2009 - VIII ZR 210/08, NJW 2009, 1408 Rn. 12 ff.; vom 10. Februar
+     2010 - VIII ZR 222/09, WuM 2010, 231 Rn. 18 f.; vom 18. März 2015 - VIII ZR
+     21/13, NJW 2015, 1874 Rn. 17).
+
+37         Denn diese Rechtsprechung ist, was die Rechtsbeschwerde verkennt, auf
+     die Frage beschränkt, welche Auswirkungen die Unwirksamkeit eines Teilaspekts der Vornahmeklausel auf die Vornahmeklausel im Ganzen hat. Sie gilt nicht
+     im Verhältnis einer unwirksamen Quotenabgeltungsklausel zu der durch diese
+     lediglich ergänzten und isoliert betrachtet wirksamen Vornahmeklausel. Zwar
+     baut die Quotenabgeltungsklausel auf der Vornahmeklausel dergestalt auf, dass
+     sie eine Renovierungspflicht des Mieters voraussetzt, sie hat jedoch mit der von
+     ihr postulierten Zahlungspflicht des Mieters einen über die Vornahme von Schönheitsreparaturen hinausgehenden eigenständigen Regelungsgehalt. Die Verpflichtung des Mieters zur Vornahme von Schönheitsreparaturen ist ihrerseits
+     auch ohne die Quotenabgeltungsklausel sprachlich verständlich und inhaltlich
+     vollständig und damit von dieser trennbar. Sie kann daher im Rahmen einer Klauselkontrolle aufrechterhalten werden, ohne gegen das Verbot der geltungserhaltenden Reduktion zu verstoßen (vgl. BGH, Urteile vom 27. September 2000
+
+                                   - 15 -
+
+
+
+- VIII ZR 155/99, BGHZ 145, 203, 212 [zu § 9 AGBG]; vom 13. Februar 2020
+- IX ZR 140/19, BGHZ 224, 350 Rn. 26; vom 31. März 2021 - IV ZR 221/19, BGHZ
+229, 266 Rn. 64).
+
+
+
+
+Dr. Bünger                        Kosziol                        Dr. Liebert
+
+
+
+
+                Wiegand                          Dr. Böhm
+
+
+
+
+Vorinstanzen:
+AG Blomberg, Entscheidung vom 24.01.2023 - 4 C 111/22 -
+LG Detmold, Entscheidung vom 25.05.2023 - 3 T 21/23 -
