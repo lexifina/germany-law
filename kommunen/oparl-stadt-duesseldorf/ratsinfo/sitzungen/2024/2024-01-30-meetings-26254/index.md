@@ -1,0 +1,62 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-30T17:00:00+01:00
+- Ende: 2024-01-30T20:04:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26254
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26254
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitgliedes der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 16.01.2024 eingegangene Fragen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der öffentlichen und nichtöffentlichen Niederschrift vom 28.11.2023 - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Bebauungsplan-Entwurf Nr. 07/017 - Im Heidewinkel Ost - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: "Demokratie-Lernen" – mündlicher Vortrag - zur Kenntnis genommen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Künstler- und Handwerkermarkt auf dem Gerricusplatz im Jahre 2024 - einstimmig beschlossen
+- TOP 5.6: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6: Anträge
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Versetzung der Tore auf dem Bolzplatz auf der Spielwiese Tetragon oberhalb der Quadenhofstraße (Höhe Hardenbergstraße) - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Hinweisschilder zum Krankenhaus an der Haltestelle: Gerresheim Krankenhaus - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 6.6: Straßenreinigung Rad- und Fußweg Zweibrückenstraße von Dreherstraße bis Brombachweg - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Nutzung des Karl-Ludwig-Resch-Wegs im Rahmen der Nord-Süd-Fahrradachse Rath - Vennhausen anstatt der Limburgstraße - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 6.9: Verlegung des Kinderspielplatzes Karl-Ludwig-Resch Weg an die Freifläche Altenbergstraße - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Verkehrsberuhigung historisches Zentrum Gerresheim - Anfrage der Fraktionen von Bündnis 90/Die Grünen, SPD und FDP - - zur Kenntnis genommen
+- TOP 7.2: Stand der Herrichtung Haltestelle Neuenhaus (BV7/268/2021) - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Zentrum Plus Ludenberg - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.8: Verkehrskonzept Cirque du Soleil - Anfrage der CDU-Fraktion - - vertagt
+- TOP 8: Anfragen
+- TOP 8.1: Einsatz von Streusalz im Stadtbezirk 7 - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 8.2: Planungen für die Nutzung der Teilfläche II im Rahmen der Baureifmachung der städtischen Flächen im Bereich „Nach den Mauresköthen“ - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 9.2: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2025 - - zur Kenntnis genommen
+- TOP 9.3: Sicherung des Wasserstands im Ostparkweiher - Informationsvorlage zum Beschluss der BV 7 vom 22.06.2021 - - zur Kenntnis genommen
+- TOP 9.4: Instandsetzung des Sportplatzes an der Gemeinschaftshauptschule Graf-Recke-Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.03.2023 - - zur Kenntnis genommen
+- TOP 9.5: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 9.6: Legales Graffiti-Sprayen im Dreherpark (Alter Friedhof) - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 9.7: Pilotprojekt Sonntagsöffnung Stadtbücherei Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 10.11.2020 - - zur Kenntnis genommen
+- TOP 9.8: Haushalt 2024 / 2025: Bereitstellung von Mitteln für die Instandsetzung der Zaunanlage an der Bergischen Landstraße zwischen Gräulinger Straße und Hahnenfurther Straße - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 9.9: Haushalt 2024 / 2025: Bereitstellung von Mitteln zur Fortführung des Projekts „das.Rund“ in Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 9.10: Anbringung von Erläuterungstafeln an Straßenschildern mit Frauennamen jetzt - Informationsvorlage zum Beschluss der BV 7 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 9.11: Rodungsarbeiten von 70 Bäumen an der Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 9.12: Baumaßnahme Bergische Landstraße / Gräulinger Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
