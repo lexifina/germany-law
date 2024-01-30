@@ -1,0 +1,72 @@
+# 22. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-30T15:35:00+01:00
+- Ende: 2024-01-30T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29789
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29789
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Darstellende Künste - Kenntnis genommen
+- TOP -: Szenebericht Darstellende Künste - Nachtrag - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Fraktionen SPD und Die Linke: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung - zurückgestellt
+- TOP 3.2: Antrag der SPD-Fraktion: Verlängerung der Stelle „Referentin für Geschichtsinitiativen“ - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen und CDU - ungeändert beschlossen
+- TOP 3.3: Dringlichkeitsantrag der Fraktionen Bündnis90/Die Grünen, CDU, Volt: Quartalsberichterstattung Dezernat VII - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bestellung einer stellvertretenden Schriftführung für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - ungeändert beschlossen
+- TOP 4.2: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktionen SPD und FDP - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Leitbild für kulturelle Teilhabe in Vielfalt - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Bedarfsfeststellungsbeschluss über die Vergabe von vier Rahmenvereinbarungen für die Restaurierung und Digitalisierung von Großformaten - ungeändert beschlossen
+- TOP 4.5: Baubeschluss Generalsanierung des Römisch-Germanischen Museums der Stadt Köln, Roncalliplatz 4, 50676 Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU, Volt - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/24 - "Fonds Festivals" - ungeändert beschlossen
+- TOP 4.7: Räumliche Einbauten und Vitrinen für die Ausstellung "Faszination Schmuck. 7000 Jahre Schmuckkunst im MAKK" - ungeändert beschlossen
+- TOP 4.8: Live-Stream der Sitzungen des Ausschusses Kunst und Kultur - geändert beschlossen
+- TOP 4.9: Mittelfreigabe "Reallabor Westspitze" - ungeändert beschlossen
+- TOP 4.10: Zuschuss für Rosenmontagszug und die Straßendekoration an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 4.11: Kommunaler Fonds Kulturelle Bildung - Juryempfehlungen - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung des Werks „Born Athlete American: Laurie Hernandez II" (2020) der Künstlerin Jeanette Mundt an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sachstandsbericht Kulturraummanagement - 01/2024 - Kenntnis genommen
+- TOP 8.2: Jahresüberblick 2023/2024 der Stadtbibliothek Köln - Kenntnis genommen
+- TOP 8.3: Umwandlung der Rechtsform des NRW KULTURsekretariats in einen Zweckverband - Kenntnis genommen
+- TOP 8.4: Geschäftsbericht Kulturamt 2022 - zurückgestellt
+- TOP 8.5: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 8.6: Strukturförderfonds 2023/2024 - Förderprogramm des Kulturamtes 2024 - zurückgestellt
+- TOP 8.7: Referat für Geschichtsinitiativen - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 10. November 2023 - endgültig zurückgezogen
+- TOP -: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 11. Januar 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 10. Januar 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Sachstände „Kunst im öffentlichen Raum“ (KEP) - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Bündnispartner aus der Sitzung des Ausschusses Kunst und Kultur vom 24.08.2024 betr. Kunst im öffentlichen Raum - zurückgestellt
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: Zugang zum Areal Hallen Kalk - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 01.12.2023 - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Fraktion Die Linke: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Kulturamt als Servicestelle - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Kunststandort Köln strategisch weiterentwickeln! - zurückgestellt
+- TOP 11.6: Schriftliche Anfrage der SPD-Fraktion: Vergnügungssteuer für Tanzveranstaltungen - zurückgestellt
+- TOP -: Beantwortung der Verwaltung vom 30.11.2023 - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der SPD-Fraktion: Kulturförderung der Europäischen Union und Sicherung des kommunalen Förderanteils - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur betreffend "Kulturförderung der EU und Sicherung des kommunalen Förderanteils" (AN/1486/2023) - zurückgestellt
+- TOP 11.8: Schriftliche Anfrage der FDP-Fraktion: Sachstand Hallen Kalk 76 und 77 - zurückgestellt
+- TOP 11.9: Schriftliche Anfrage der SPD-Fraktion: Finanzierung des Germania Judaica e.V. - zurückgestellt
+- TOP 12: Mündliche Anfragen
