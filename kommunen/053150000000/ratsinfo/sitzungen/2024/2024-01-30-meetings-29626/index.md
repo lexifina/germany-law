@@ -1,0 +1,67 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-01-30T14:05:00+01:00
+- Ende: 2024-01-30T15:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29626
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29626
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zu "Cultural Points" - Kenntnis genommen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: Widerrufe - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Interkulturelles Begegnungs- und Bildungszentrum Köln e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anwendung des § 55 Abs. 2, Satz 2 KiBiz für das Kitajahr 2024/25 - ungeändert beschlossen
+- TOP 2.3.2: Jugendhilfeplanung in der Kindertagesbetreuung 2024/25 als Grundlage für die Beantragung von Landeszuschüssen nach § 24 KiBiz (Kinderbildungsgesetz) - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Strategische Sozialplanung - Herausforderungen und Ziele - ohne Votum in nachfolgende Gremien
+- TOP -: TOP 4.1 Strategische Sozialplanung - Herausforderungen und Ziele - geändert beschlossen
+- TOP 4.2: Neuwahl stellvertretend stimmberechtigtes Mitglied DGB Region Köln-Bonn für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Situation der wohnungslosen Kinder und Jugendlichen in Köln - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN-1693-2023 der FDP-Fraktion aus der Sitzung des JHA am 26.09.2023 zur Situation der wohnungslosen Kinder und Jugendlichen in Köln - Kenntnis genommen
+- TOP 6.1.2: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 6.1.3: Kommunaler Anteil an der Refinanzierung der Kindertagesstätten - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/2100/2023 der LIGA zum kommunalen Anteil an der Refinanzierung der Kindertagesstätten aus der Sitzung des Jugendhilfeausschusses vom 28.11.2023 - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Aktuelle Daten zu Kinder- und Jugendarmut in Köln - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen, Stand 2022/23 - Kenntnis genommen
+- TOP 8.2.2: Elternbrief an alle Kindertageseinrichtungen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 8.2.3: Zwischenergebnisse der Evaluation in neun Kölner Familiengrundschulzentren: Fachkräftebefragung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Internationale Jugendarbeit in Köln - Jahresplanung 2024 - Kenntnis genommen
+- TOP 8.4.2: Tag der Jugend im Rathaus 2023 - Evaluation - Kenntnis genommen
+- TOP 8.4.3: Neue Ausgabe der "Spielebroschüre": Digitale Spiele pädagogisch beurteilt Band 33 ist erschienen - Kenntnis genommen
+- TOP 8.4.4: Update aus dem Kooperativen Kinder- und Jugendbüro: Rückblick 2. Halbjahr 2023 und Ausblick 1.Halbjahr 2024 - Kenntnis genommen
+- TOP 8.4.5: Beteiligungskonzept "HEY Nippes-Check mit uns dein Veedel!" - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.2: Stand der Umsetzung der Handlungsempfehlungen im Rahmen der Evaluation des Drogenhilfekonzeptes - Kenntnis genommen
+- TOP 8.5.3: Leitlinie Kindeswohlaspekte - Sicherstellung von Kindeswohlaspekten bei der Prüfung von Bleibeperspektiven und im Rahmen aufenthaltsbeendender Maßnahmen - Kenntnis genommen
+- TOP 8.5.4: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 8.5.5: Jahresübersicht 2023: Zugriffszahlen auf den Live-Stream des Jugendhilfeausschusses - Kenntnis genommen
