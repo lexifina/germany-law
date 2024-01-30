@@ -1,0 +1,56 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-01-30T17:00:00+01:00
+- Ende: 2024-01-30T19:20:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25679
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25679
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510012.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510012.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00510012.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften vom 28.11.2023 - einstimmig beschlossen
+- TOP 2.1: Genehmigungen der Niederschriften vom 22.08.2023 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Repräsentationsfonds des Bezirksbürgermeisters - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Auswirkungen von Kürzungen der Sportförderung - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.2: Verschiebung des Rheintaktes 2023/24 - Anfrage der SPD-Fraktion und CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Ampelschaltung Kreuzung Hellerhofweg/Carlo-Schmid-Str./Bertha von Suttner Str. in Düsseldorf Hellerhof - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: „Weinfest" am 20.-22.10.2023 in Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.2: Gefahren durch Zustand des S-Bahnhofs in Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Verkehrssicherungspflicht Hellerhofer Brücke über Frankfurter Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Grünordnungsplan II im Stadtbezirk 10 - Antrag der Fraktion Bü90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 7.3: Verhinderung illegaler Müllablagerungen - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Aufstellung einer Bank im Garather Schlosspark - Informationsvorlage zum Beschluss BV10/184/2023 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.2: Reinigung der Unterführung Koblenzer Straße - Informationsvorlage zum Beschluss BV10/179/2023 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.3: Aufstellen einer Bank mit Armstützen - Ergänzende Informationsvorlage zum Beschluss BV10/121/2023 vom 22.08.2023 - - zur Kenntnis genommen
+- TOP 8.4: Regelung zur Verbesserung der Verkehrssicherheit auf der Carlo-Schmid-Straße im Bereich Parkplatzeinfahrt - Informationsvorlage zum Beschluss BV10/178/2023 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.5: Planfestellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) "Hellerhof- Reisholz" - Informationsvorlage zur Stellungnahme der BV 10 zur Beschlussvorlage OVA/194/2023 - - zur Kenntnis genommen
+- TOP 8.6: Versorgung von Hellerhof mit Glasfaseranschlüssen durch die Telekom - Informationsvorlage zum Beschluss BV10/190/2023 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.7: Standortwechsel des Trinkwasserbrunnens in Garath vom Hauptzentrum zum Parkourplatz - Informationsvorlage zum Beschluss BV10/188/2023 vom 28.11.2023 - - vertagt
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
