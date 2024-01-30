@@ -1,0 +1,123 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-01-30T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894113
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894113
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 19.12.2023
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 19.12.2023
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Neumarkter Str. 87 - Umbau eines Bürohauses mit Tiefgarage (Entkernung, Ergänzung und Aufstockung des Bestandsgebäudes) - VORBESCHEID
+- TOP 3.1.2.: August-Everding-Str. - Neubau Haus für Kinder und Begegnungszentrum
+- TOP 3.1.3.: Anzinger Str. 1 - ÄNDERUNGSANTRAG zu 1.1-2022-23380-32 - Sanierung und Umbau von Bestandsgebäuden, Errichtung dreier Gebäude mit Tiefgarage jeweils mit Büronutzung, Kreativwirtschaft und Gastronomie mit Mobilitätskonzept (Anzinger Str. 1/ Rosenheimer Str. 145, 145 a-c, 145 e-i)
+- TOP 3.1.4.: Überseeplatz 19 - ÄNDERUNGSANTRAG zu 1.2-2023-21365-32 - Neubau eines Einfamilienhauses mit Garage Hier: und Carport
+- TOP 3.1.5.: Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses
+- TOP 3.1.6.: Blombergstr. 21 - Neubau eines Mehrfamilienhauses (8WE) mit Tiefgarage
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Installation eines Verkehrsspiegels und Umsetzung eines Halteverbots in der Neumarkter Str. 23, Anliegen aus der Bürgerschaft - vertagt aus der Plenumssitzung vom 28.11.2023 -
+- TOP 3.2.2.: Situation an der Fehwiesenstr., Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Fahrbahnverengungen in der Hansjakobstr. zur Reduzierung der Geschwindigkeit, Antrag aus dem UA- Städtebauliche Entwicklung, Mobilität, Wohnen, Gewerbe und Digitalisierung
+- TOP 3.2.4.: Blockierte Radwege in der Berg-am-Laim-Str., Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: absolutes Halteverbot beim Wendehammer in der Eigenhausstr., Anhörung des Mobilitätsreferats
+- TOP 3.2.6.: Situation am Prima Markt in der Schlüsselbergstr., Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Abschluss Sommerstraße 2023 und Aufruf für 2024 - vertagt aus der Plenumssitzung vom 19.12.2023 -
+- TOP 3.3.2.: Räumlichkeiten für Künstlergruppe in den Gewerbehöfen, Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Förderkreisverein der Grundschule an der Grafinger Str. 71 Projekte „Theateraufführung“ und „Bewegung und Musik“ vom 13.01. - 31.07.2024 3.885,00 € / Az. 0262.0-14-0388
+- TOP 3.5.2.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 „Kommerz!“)“ 1.800,00 Euro; Az. 0262.0-14-0390
+- TOP 3.5.3.: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ „Erweiterung der Gruppe in der Mittagsbetreuung an der Grundschule Grafingerstr.“ 5.214,00 Euro; Az. 0262.0-14-0389
+- TOP 3.5.4.: MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 3.5.5.: Haushaltsbeschluss 2024 / Stadtbezirksbudgets 2024
+- TOP 3.5.6.: Eine gemeinsame Tagesordnungsliste für alle öffentlichen und nicht-öffentlichen Punkte einer BA-Sitzung, Antrag der Freien Wähler/ÖDP Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Neumarkter Str. 87
+- TOP 3.6.2.: August-Everding-Str.
+- TOP 3.6.3.: Michaeliburgstr. 13
+- TOP 3.6.4.: Überseeplatz 19
+- TOP 3.6.5.: Kranzhornstr. 9
+- TOP 3.6.6.: Neumarkter Str. 19
+- TOP 3.6.7.: Blombergstr. 21
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Weiternutzung des Stroms in den Parzellen des Kleingartenvereins SO1 e.V. ermöglichen
+- TOP 4.1.2.: Spender für Hundekotbeutel am Schüleinplatz anbringen
+- TOP 4.1.3.: Reinigung und Neugestaltung der Fußgänger- und Fahrradunterführung zwischen Echardinger Grünstreifen und Erdinger Park
+- TOP 4.1.4.: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 4.1.5.: Wildnis im Michaelianger erhalten
+- TOP 4.1.6.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 4.1.7.: Mülleimer an der Schlüsselberg- /Ecke Berg-am Laim-Str. anbringen
+- TOP 4.1.8.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 4.1.9.: Antwortschreiben auf Anfrage bezüglich der Hochriesstr. 7 - Neubau einer DHH mit Garage
+- TOP 4.1.10.: Weiterleitung vom BA 13 - Renovierung der Unterführung Berg am Laim
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Installation eines Rot-Blitzer für den Innbrucker Ring in südliche Richtung an der Kreuzung Grafinger Str. / Innsbrucker Ring
+- TOP 4.2.2.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 4.2.3.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 4.2.4.: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 4.2.5.: Mobilitätsstrategie 2035 Teilstrategie Digitalisierung – Erste Stufe Grundsatzbeschluss Digitalisierung im Mobilitäts- und Verkehrssektor Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre ab 2024
+- TOP 4.2.6.: Parken 4.0 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre ab 2024 (EDB MOR-001)
+- TOP 4.2.7.: Förderprojekte im Mobilitätsreferat Darstellung der Finanzierung der Projekte • SUM • DeineStadt • metaCCAZE der Projektskizzen • TRIMM • zukunVT der Projektanträge • MoveRegioM – Phase 3 • M Cube – Phase 2 Produkt 43111000 Overheadkosten Referats- und Geschäftsleitung Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Beschluss über die Finanzierung für die Jahre 2023 - 2029
+- TOP 4.2.8.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 4.2.9.: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 4.2.10.: Neubau Gewerbehof Ostbahnhof: Perspektive für Bestandsmieter nach dem Umbau anbieten
+- TOP 4.2.11.: Lichtsignalanlage an der Grafinger Str./ Innsbrucker Ring
+- TOP 4.2.12.: Schulwegsicherheit im Bereich der Grundschule Grafinger Straße 71
+- TOP 4.2.13.: Verhinderung des unsachgemäßen Parken von E-Scootern
+- TOP 4.2.14.: Rückmeldung zu (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Sitzungsvorlage Nr. 20-26 / V 11197
+- TOP 4.2.15.: Blinkanlage an der Grundschule in der Grafinger Str.
+- TOP 4.2.16.: bestehende Sackgassenschilder angepasst in der Buchbacher Str. und Mühldorfer Str.
+- TOP 4.2.17.: A) Sachstandsbericht zum Gewerbeflächenentwicklungsprogramm (GEWI) B) Anträge
+- TOP 4.2.18.: Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Anträge
+- TOP 4.2.19.: Schaffung eines Fußgängerübergangs zwischen Piusplatz und Piuskirche
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Netz und Sportgeräte für den Bolzplatz Kreillerstraße 21
+- TOP 4.3.2.: Effizientere Raumnutzung durch Anbringung von wandmontierten Fahrradständern im Keller des Michaeli-Gymnasiums
+- TOP 4.3.3.: Sportbauprogramm - Sachstandsbericht 2023 A Ausgangslage - Inhalt und Umfang des Sportbauprogramms B Bericht zum Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den laufenden Projekten des 2., 3. Maßnahmenpakets un zum 4. Maßnahmenpaket 3. Evaluierung der Maßnahmenprojekte 4. Fortschreibung des Standardraumprogramms für die städtischen Freisportanlagen C Bericht zum Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung D Bericht zum Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Fortschreibung der Projektliste 2023 2. Bericht zu den lfd. Projekten 3. Finanzierung E Personal- und Sachmittelbedarfe der beteiligten Dienststellen 1. Personal- und Sachmittelbedarfe im Referat für Bildung und Sport 2. Personal- und Sachmittelbedarfe im Baureferat F Anträge und Empfehlungen G Beteiligungen und Anhörungen
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 4.4.2.: AKIM Bericht 2. Hälfte 2023
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: (U) Mehrjahresinvestitionsprogramm 2023 - 2027 Maßnahmen im Bereich des Kommunalreferates Programmentwurf
+- TOP 4.5.2.: Verwendungsnachweis für KJR München-Stadt hier: Demokratie im Einsatz - Demokratiemobil München am 22.09.2023
+- TOP 4.5.3.: Verwendungsnachweis für Bürgerkreis Berg am Laim e.V. hier: Straßenfest Baumkirchner Str. am 10.09.2023
+- TOP 4.5.4.: Verwendungsnachweis für den Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. hier: Whiteboard für den Unterrichtsraum
+- TOP 4.5.5.: Verwendungsnachweis für München-Zeitenfilm hier: München in den 1950er Jahren
+- TOP 4.5.6.: Verwendungsnachweis für München-Zeitenfilm hier: München in den 1950er Jahren
+- TOP 4.5.7.: Verwendungsnachweis für FC Phönix München e.V. hier: Ertüchtigung der Rasenplätze und Reparatur des Traktors
+- TOP 4.5.8.: Verwendungsnachweis für KulturBürgerHaus Berg am Laim e.V. hier: White Dinner am 11.08.2023
+- TOP 4.5.9.: Verwendungsnachweis für Culture Clouds e.V. hier: Fotoprojekt
+- TOP 4.5.10.: Verwendungsnachweis für ESV München-Ost e.V. hier: Fit im Echardinger Park 2023 vom 01.05.-31.08.2023
+- TOP 4.5.11.: Verwendungsnachweis für Kunst Kioske hier: Kiosk Josephsburg
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 4.6.2.: Hansjakobstr. 1
+- TOP 4.6.3.: Josef-Ritz-Weg 58
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Klimadult Wunschbaum-Zettel: Vorgeschlagene Maßnahmen
