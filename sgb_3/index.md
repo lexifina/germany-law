@@ -189,9 +189,6 @@ Versicherungspflichtige
 ##### Erster Titel Regelvoraussetzungen
 
 - [§ 95 Anspruch](0095.md)
-
-#### Fünfter Unterabschnitt Anordnungsermächtigung
-
 - [§ 96 Erheblicher Arbeitsausfall](0096.md)
 - [§ 97 Betriebliche Voraussetzungen](0097.md)
 - [§ 98 Persönliche Voraussetzungen](0098.md)
