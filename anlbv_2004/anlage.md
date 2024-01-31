@@ -108,6 +108,8 @@
   a) die Angaben nach Nummer 2.1.1 Satz 2 Buchstabe c und d sowie
   b) der Nachweis über das Vorliegen der Voraussetzungen nach Satz 1
   übermittelt werden können.
+2.5.2 Internationale Liniendienste
+  Einem internationalen Liniendienst kann auf schriftlichen Antrag bei der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
 2.6 Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 (ABl. L 283 vom 29.10.2010, S. 1)
   Meldungen, die nach der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG abzugeben sind und den verschiedenen zuständigen Behörden und den Mitgliedstaaten zur Verfügung zu stellen sind, können über die Zentrale Meldestelle abgegeben werden. Für Sicherheitsmeldungen nach § 10 Absatz 3 der See-Eigensicherungsverordnung ist die elektronische Übermittlung im Sinne des Abschnitt A Nummer 5 des Anhangs der Richtlinie 2010/65/EU über das Zentrale Meldeportal des Bundes im Internet unter www.national-single-window.de vorzunehmen.
 3 Meldungen bei Anlaufen bestimmter Seegebiete
