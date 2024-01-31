@@ -209,7 +209,7 @@ Gebühren der Behörden im Landesbereich
 | 221.1.2 |  | Tageszulassung eines Fahrzeugs | 45,90 |
 | 221.1.3 |  | Internetbasierte Tageszulassung | 14,90 |
 | 221.2 |  | Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.2.1 | 27,10 |
-| 221.2.1 |  | Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel | 12,10 |
+| 221.2.1 |  | Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel. Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro. | 12,10 |
 | 221.3 |  | Entscheidung über die Zuteilung eines Ausfuhrkennzeichens | 31,40 |
 | 221.4 |  | Entscheidung über die Zuteilung von Kurzzeitkennzeichen | 10,20 |
 | 221.5 |  | Entscheidung über die Zuteilung von roten Kennzeichen | 25,60 bis 205,00 |
@@ -393,25 +393,25 @@ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugtei
 |  | 1. | Prüfung von Bewerbern um eine Fahrerlaubnis |  |
 |  |  | Die Gebühren zu den Nummern 401 bis 403 schließen etwaige Reisekosten des amtlich anerkannten Sachverständigen oder Prüfers für den Kraftfahrzeugverkehr ein. |  |
 | 401 |  | Theoretische Prüfung |  |
-| 401.1 |  | für eine Fahrerlaubnis aller Klassen, je | 10,00 |
+| 401.1 |  | für eine Fahrerlaubnis aller Klassen, je | 11,10 |
 |  |  | Werden mehrere Prüfungen an einem Termin durchgeführt, wird nur einmal die Gebühr erhoben. |  |
-| 401.2 |  | nach § 5 FeV (Mofa 25) | 4,10 |
+| 401.2 |  | nach § 5 FeV (Mofa 25) | 4,60 |
 | 401.3 |  | Zu den Gebühren nach den Nummern 401.1 und 401.2 werden erhoben: |  |
-|  |  | – Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25) | 7,00 |
-|  |  | – Prüfung am PC | 8,90 |
+|  |  | – Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25) | 7,80 |
+|  |  | – Prüfung am PC | 9,90 |
 |  |  | – Einzelprüfung durch den Sachverständigen/Prüfer oder durch vom Bewerber gesondert zu bezahlenden Gebärdendolmetscher | je angefangene Viertel-stunde Gebühr entsprechend Nummer 499 |
 | 402 |  | Praktische Prüfung für eine Fahrerlaubnis oder eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes |  |
 |  |  | In den Fällen, in denen der Termin für den theoretischen und praktischen Teil der Prüfung auf Antrag des Bewerbers auf einen Tag festgesetzt wird, der Bewerber jedoch den theoretischen Teil der Prüfung nicht besteht, wird für beide Prüfungsteile die volle Gebühr erhoben. Können der praktische oder der theoretische Teil ohne Verschulden des amtlich anerkannten Sachverständigen oder Prüfers und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht beendet werden, wird die volle Gebühr für den ausgefallenen Prüfungsteil erhoben. Verkürzt sich die Dauer der praktischen Prüfung nach Anlage 7 Abschnitt 2.3 oder 2.5.1 FeV, ermäßigt sich die Gebühr entsprechend. |  |
-| 402.1 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A, A2 oder A1 | 123,16 |
-| 402.1a |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge der Stufenregelung nach § 15 Absatz 3 und 4 FeV | 106,83 |
+| 402.1 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A, A2 oder A1 | 136,70 |
+| 402.1a |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge der Stufenregelung nach § 15 Absatz 3 und 4 FeV | 118,60 |
 | 402.2 |  | (weggefallen) |  |
-| 402.3 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE | 98,26 |
-| 402.4 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE | 148,16 |
-| 402.5 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 148,16 |
-| 402.6 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1 | 148,16 |
-| 402.7 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E | 141,16 |
-| 402.8 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse AM | 98,26 |
-| 402.9 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse T | 123,16 |
+| 402.3 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE | 109,10 |
+| 402.4 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE | 164,50 |
+| 402.5 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 164,50 |
+| 402.6 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1 | 164,50 |
+| 402.7 |  | Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E | 156,70 |
+| 402.8 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse AM | 109,10 |
+| 402.9 |  | Praktische Prüfung für eine Fahrerlaubnis der Klasse T | 136,70 |
 | 403 |  | (weggefallen) |  |
 |  | 2. | Prüfungen von Fahrzeugen und Fahrzeugteilen |  |
 | 410 |  | Grundgebühr für Typprüfungen oder Musterprüfungen nach StVZO/EU/ECE/FzTV Mit den Grundgebühren ist folgender Aufwand abgedeckt: |  |
@@ -494,41 +494,42 @@ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugtei
 | 412 |  | Soweit der Aufwand nicht durch die Grundgebühren nach den Nummern 410.1 bis 410.8, 411.1 und 411.2 abgegolten ist, wird zusätzlich der Zeitaufwand berechnet. Die Gebühr hierfür beträgt je Sachverständigen und je angefangene Viertelstunde mindestens 20,30 Euro und höchstens 27,00 Euro. Der Stundensatz kann bis zu 50 v. H. über- |  |
 |  |  | schritten werden, wenn die Schwierigkeit der Leistung und besondere Umstände den Einsatz besonders spezialisierter Sachverständiger erfordern (z. B. Elektronikexperten). Der Einsatz mehrerer Sachverständiger bei einem Prüfauftrag und die Hinzuziehung von Prüfgehilfen wird mit dem Auftraggeber vorher abgestimmt. Der Zeitaufwand für den Prüfgehilfen wird mit 70 v. H. der vorgenannten Sätze berechnet. |  |
 | 413 |  | Prüfung einzelner Fahrzeuge |  |
-|  |  | Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV |  |  |  |
-| Komplettfahrzeug | Gutachten nach § 21 StVZO nach technischen Änderungen (§ 19 Absatz 2 StVZO) | Änderungsabnahme nach § 19 Absatz 3 StVZO1 | Hauptuntersuchung (HU) nach § 29 StVZO , , , , , | Sicherheitsprüfung (SP) nach § 29 StVZO5 |
-| Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23 StVZO, 6 | Gutachten nach § 21 StVZO auf Grund § 14 Absatz 2 Satz 46 |
+|  | Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV |  |  |
+| Komplettfahrzeug | Gutachten nach § 21 StVZO nach technischen Änderungen (§ 19Absatz 2 StVZO) | Änderungsabnahme nach § 19 Absatz 3 StVZO | Hauptuntersuchung (HU) nach§ 29 StVZO,,,,, | Sicherheitsprüfung (SP) nach § 29 StVZO |
+| Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23 StVZO, | Gutachten nach § 21 StVZO auf Grund § 16 Absatz 2 Satz 6 FZV |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | Euro | Euro | Euro | Euro | Euro | Euro |
-| 413.1 | Kleinkrafträder, Fahrräder mit Hilfsmotor, leichte vierrädrige Kraftfahrzeuge, Krankenfahrstühle | 49,70 | 31,10 | 17,00 bis 28,40 | 12,80 bis 23,00 | – | – |
-| 413.2 | Anhänger ohne Bremsanlage | 49,70 | 31,10 | 17,00 bis 28,40 | 12,80 bis 23,00 | 12,60 bis 23,30 | – |
-| 413.3 | Krafträder | 58,00 | 37,00 | 19,20 bis 35,30 | 15,70 bis 29,30 | 22,70 bis 34,20 | – |
+| 413.1 | Kleinkrafträder, Fahrräder mit Hilfsmotor, leichte vierrädrigeKraftfahrzeuge, Krankenfahrstühle | 55,70 | 34,80 | 19,00 bis 31,80 | 14,30 bis 25,80 | – | – |
+| 413.2 | Anhänger ohne Bremsanlage | 55,70 | 34,80 | 19,00 bis 31,80 | 14,30 bis 25,80 | 14,10 bis 26,10 | – |
+| 413.3 | Krafträder | 65,00 | 41,40 | 21,50 bis 39,50 | 17,60 bis 32,80 | 25,40 bis 38,30 | – |
 | 413.4 | Kraftfahrzeuge oder Anhänger mit einer zulässigen Gesamtmasse ... |  |  |  |  |  |  |
-| 413.4.1 | ... von nicht mehr als 3,5 t, soweit nicht unter den Nummern 413.1 bis 413.3 genannt | 87,40 | 57,10 | 29,20 bis 49,40 | 22,20 bis 42,90 | 29,40 bis 46,10 | 24,40 bis 29,80 |
-| 413.4.2 | ... von nicht mehr als 7,5 t, soweit nicht unter den Nummern 413.1 bis 413.4.1 genannt | 95,50 | 70,70 | 37,60 bis 66,40 | 26,30 bis 52,20 | 50,00 bis 63,40 | 43,40 bis 54,20 |
-| 413.4.3 | ... von nicht mehr als 12 t, soweit nicht unter den Nummern 413.1 bis 413.4.2 genannt | 108,00 | 83,10 | 43,30 bis 69,30 | 26,30 bis 52,20 | 63,00 bis 79,60 | 48,80 bis 62,30 |
-| 413.4.4 | ... von nicht mehr als 18 t, soweit nicht unter den Nummern 413.1 bis 413.4.3 genannt | 120,00 | 89,40 | 46,20 bis 72,10 | 26,30 bis 52,20 | 68,40 bis 87,70 | 54,20 bis 67,70 |
-| 413.4.5 | ... von nicht mehr als 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.4 genannt | 138,00 | 95,50 | 49,00 bis 74,90 | 26,30 bis 52,20 | 76,50 bis 95,80 | 59,60 bis 75,90 |
-| 413.4.6 | ... über 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.5 genannt | 157,00 | 102,00 | 51,80 bis 77,80 | 26,30 bis 52,20 | 90,10 bis 112,00 | 73,10 bis 92,10 |
+| 413.4.1 | ... von nicht mehr als 3,5 t, soweit nicht unter den Nummern 413.1 bis 413.3 genannt | 97,90 | 64,00 | 32,70 bis 55,30 | 24,90 bis 48,00 | 32,90 bis 51,60 | 27,30 bis 33,40 |
+| 413.4.2 | ... von nicht mehr als 7,5 t, soweit nicht unter den Nummern 413.1 bis 413.4.1 genannt | 107,00 | 79,20 | 42,10 bis 74,40 | 29,50 bis 58,50 | 56,00 bis 71,00 | 48,60 bis 60,70 |
+| 413.4.3 | ... von nicht mehr als 12 t, soweit nicht unter den Nummern 413.1 bis 413.4.2 genannt | 121,00 | 93,10 | 48,50 bis 77,60 | 29,50 bis 58,50 | 70,60 bis 89,20 | 54,70 bis 69,80 |
+| 413.4.4 | ... von nicht mehr als 18 t, soweit nicht unter den Nummern 413.1 bis 413.4.3 genannt | 134,40 | 100,10 | 51,70 bis 80,80 | 29,50 bis 58,50 | 76,60 bis 98,20 | 60,70 bis 75,80 |
+| 413.4.5 | ... von nicht mehr als 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.4 genannt | 154,60 | 107,00 | 54,90 bis 83,90 | 29,50 bis 58,50 | 85,70 bis 107,30 | 66,80 bis 85,00 |
+| 413.4.6 | ... über 32 t, soweitnicht unter den Nummern 413.1 bis 413.4.5 genannt | 175,80 | 114,20 | 58,00 bis 87,10 | 29,50 bis 58,50 | 100,90 bis 125,40 | 81,90 bis 103,20 |
+_______________
 | Gebühren- Nummer | Gegenstand | Gebühr Euro |
 | 413.5 |  | Abgasuntersuchung bestimmter Kraftfahrzeuge entsprechend der Durchführungs-Richtlinie für die Untersuchung der Abgase |  |
 |  |  | Wird die Abgasuntersuchung als Teiluntersuchung der Hauptuntersuchung durchgeführt, ergibt sich der zulässige Gebührenrahmen durch Multiplikation der festgeschriebenen Gebühren mit 0,85. |  |
 | 413.5.1 |  | Kraftfahrzeuge – ohne Krafträder |  |
-| 413.5.1.1 |  | Abgasuntersuchungen mit Abgasmessung am Auspuffendrohr | 21,20 bis 98,00 |
-| 413.5.1.2 |  | Abgasuntersuchungen ohne Abgasmessung am Auspuffendrohr | 11,95 bis 55,20 |
-| 413.5.2 |  | Krafträder | 8,20 bis 24,50 |
+| 413.5.1.1 |  | Abgasuntersuchungen mit Abgasmessung am Auspuffendrohr | 23,70 bis 109,80 |
+| 413.5.1.2 |  | Abgasuntersuchungen ohne Abgasmessung am Auspuffendrohr | 13,40 bis 61,80 |
+| 413.5.2 |  | Krafträder | 9,20 bis 27,40 |
 | 413.6 |  | Gasanlagenprüfungen |  |
-| 413.6.1 |  | Für die Untersuchung der Gasanlage im Rahmen der Hauptuntersuchung nach § 29 StVZO ohne vorliegenden Nachweis über eine durchgeführte Gasanlagenprüfung durch eine entsprechend anerkannte Kraftfahrzeugwerkstatt wird zur Gebühr nach den Nummern 413.3 und 413.4 folgende zusätzliche Gebühr erhoben | 22,00 |
-| 413.6.2 |  | Gassystemeinbauprüfung nach § 41a Absatz 5 StVZO | 110,00 |
-| 413.6.3 |  | Gasanlagenprüfung ohne Hauptuntersuchung | 28,00 |
-| 414 |  | Nachprüfung einzelner Fahrzeuge im Sinne der Nummern 413.1 bis 413.6 | 1,50 Euro bis 2/3 der Gebühr nach den Num-mern 413.1 bis 413.6.3 |
+| 413.6.1 |  | Für die Untersuchung der Gasanlage im Rahmen der Hauptuntersuchung nach § 29 StVZO ohne vorliegenden Nachweis über eine durchgeführte Gasanlagenprüfung durch eine entsprechend anerkannte Kraftfahrzeugwerkstatt wird zur Gebühr nach den Nummern 413.3 und 413.4 folgende zusätzliche Gebühr erhoben | 24,60 |
+| 413.6.2 |  | Gassystemeinbauprüfung nach § 41a Absatz 5 StVZO | 123,20 |
+| 413.6.3 |  | Gasanlagenprüfung ohne Hauptuntersuchung | 31,40 |
+| 414 |  | Nachprüfung einzelner Fahrzeuge im Sinne der Nummern 413.1 bis 413.6 | 1,70 Euro bis 2/3 der Gebühr nach den Num-mern 413.1 bis 413.6.3 |
 | 415 |  | Prüfungen nach den §§ 41 und 42 BOKraft |  |
 |  |  | Im Rahmen der Hauptuntersuchung nach § 29 StVZO werden zur Gebühr nach Nummer 413 folgende zusätzliche Gebühren erhoben: |  |
-| 415.1 |  | Kraftomnibusse | 13,50 bis 30,30 |
-| 415.2 |  | Taxen, Mietwagen | 6,70 bis 15,20 |
-| 415.3 |  | Nachprüfungen | 4,50 Euro bis 2/3 der Gebühr nach Nummer 415.1 beziehungsweise 415.2 |
+| 415.1 |  | Kraftomnibusse | 15,10 bis 33,90 |
+| 415.2 |  | Taxen, Mietwagen | 7,50 bis 17,00 |
+| 415.3 |  | Nachprüfungen | 5,00 Euro bis 2/3 der Gebühr nach Nummer 415.1 beziehungsweise 415.2 |
 |  |  | Im Bereich einer Technischen Prüfstelle dürfen in einem Land bei den Gebührennummern 413 bis 415 jeweils nur einheitliche Gebühren erhoben werden. Die Höhe der jeweiligen Gebühr kann von der Zustimmung der nach § 13 des Kraftfahrsachverständigengesetzes zuständigen Behörde abhängig gemacht werden. |  |
-| 416 |  | Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 StVZO | 0,50 |
-| 417 |  | Erstellen einer Zweitschrift des Berichts über die Hauptuntersuchung nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach Nummer 1.2.1.1 der Anlage VIII StVZO | 3,00 |
+| 416 |  | Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 StVZO | 0,60 |
+| 417 |  | Erstellen einer Zweitschrift des Berichts über die Hauptuntersuchung nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach Nummer 1.2.1.1 der Anlage VIII StVZO | 3,40 |
 | 418 |  | Kann eine der unter den Nummern 413, 414 und 415 genannten Prüfungen am festgesetzten Tag nicht begonnen oder nicht zu Ende geführt werden aus Gründen, die der amtlich anerkannte Sachverständige oder Prüfer nicht zu vertreten hat, ist die für die Prüfung vorgesehene Gebühr fällig; waren mehrere Fahrzeuge zur Prüfung angemeldet, ist die Gebühr nur für das Fahrzeug fällig, für das die höchste Gebühr vorgesehen ist. Für die Fortsetzung einer derartig unterbrochenen Prüfung ist eine Gebühr bis zur Hälfte der Gebührensätze zu berechnen. Dies gilt auch, wenn die Prüfung wegen der Notwendigkeit besonderer Untersuchungen am festgesetzten Tag nicht beendet werden kann. |  |
 | 419 |  | Reisekosten/ReisezeitenBei Prüfungen und Leistungen außerhalb der Anlagen der Technischen Prüfstelle werden zu den Gebühren die anfallenden Reisekosten in Rechnung gestellt, soweit in den einzelnen Gebührennummern nichts anderes bestimmt ist. Sie setzen sich zusammen aus den Fahrtkosten für öffentliche Verkehrsmittel und den steuerrechtlichen Höchstsätzen für Kilometer-, Tage- und Übernachtungsgeld. Höhere Kosten müssen begründet und nachgewiesen werden. Dies gilt auch für Reisenebenkosten. Bei Flugreisen von mehr als 12 Stunden Dauer können Kosten der Business-Klasse berechnet werden.Für die im Zusammenhang mit der Prüftätigkeit anfallenden Reisezeiten wird für jede begonnene Viertelstunde eine Gebühr nach Gebührennummer 499 berechnet. |  |
 | 420 |  | Bei Verwendung von Klebesiegeln oder Klebestempeln erhöhen sich die Gebühren des Unterabschnitts 2 je Klebesiegel oder Klebestempel um 0,30 Euro. |  |
@@ -542,4 +543,4 @@ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugtei
 |  |  | – an Feiertagen zwischen 0.00 und 24.00 Uhr 120 v. H. |  |
 |  |  | als Zuschlag erhoben. |  |
 |  | 5. | Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs |  |
-| 499 |  | Für andere als die in diesem Abschnitt aufgeführten Prüfungen und Untersuchungen können Gebühren nach den Sätzen für vergleichbare Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder, soweit solche nicht bewertet sind, je angefangene Viertelstunde mindestens 20,30 Euro und höchstens 27,00 Euro erhoben werden. Der Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes berechnet. |  |
+| 499 |  | Für andere als die in diesem Abschnitt aufgeführten Prüfungen und Untersuchungen können Gebühren nach den Sätzen für vergleichbare Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder, soweit solche nicht bewertet sind, je angefangene Viertelstunde mindestens 22,70 Euro und höchstens 30,20 Euro erhoben werden. Der Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes berechnet. |  |
