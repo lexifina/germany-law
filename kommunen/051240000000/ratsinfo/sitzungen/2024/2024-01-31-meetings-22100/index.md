@@ -1,0 +1,62 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-01-31T19:00:00+01:00
+- Ende: 2024-01-31T21:18:00+01:00
+- Ort: Stadtbibliothek Wuppertal, Veranstaltungssaal 2. Etage, Kolpingstr. 8, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22100
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22100
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00325027.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00325669.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung einer Bezirksvertreterin
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Sachstandsbericht zur Sanierung der Historischen Stadthalle
+- TOP 6: Fernwärmeversorgung in Elberfeld - Sachstandsbericht von WSW und Stadtverwaltung
+- TOP 7: Bericht zur Nachnutzung des Kaufhofgebäudes
+- TOP 8: Bericht zur Umsetzung von Beschlüssen der Bezirksvertretung im Bereich von Ressort 104 - vertagen
+- TOP 9: Bürgerantrag gemäß § 24 GO NRW - Gehwegparken Hombüchel - vertagen
+- TOP 10: Bürgerantrag gemäß § 24 GO NRW - Parken mit Zusatzzeichen für neuen Wupper Parkplatz Südost - ungeändert beschlossen
+- TOP 11: Bürgerantrag gemäß § 24 GO NRW - Eingeschränktes Haltverbot Diakonische Altenhilfe Luisenstraße - ungeändert beschlossen
+- TOP 12: Bürgerantrag gemäß $ 24 GO NRW - Überprüfung baustellenbedingter Schäden Islandufer - ungeändert beschlossen
+- TOP 13: Bürgerantrag gemäß § 24 GO NRW - Verkehrsversuch "Autofreie Luisenstraße" - ungeändert beschlossen
+- TOP 14: Bürgerantrag gemäß § 24 GO NRW - Ergänzung Zeichen 297 Rechtsabbieger Morianstraße - vertagen
+- TOP 15: Bürgerantrag gemäß § 24 GO NRW - Bauliche Trennung Radfahrstreifen Wall - ungeändert beschlossen
+- TOP 16: Parkplatzsituation Schusterstraße - Umsetzung des Beschlusses vom 29.11.23
+- TOP 17: Harmoniestraße Vollausbau - vertagen
+- TOP 18: Bebauungsplan 827A - Hofaue / Morianstraße - 1. Änderung des Bebauungsplanes - Aufstellungs- und Offenlegungsbeschluss - - ungeändert beschlossen
+- TOP 19: Bebauunsplan 1293 - Hofkamp / Georg-Abeler-Treppe- (mit Flächennutzungsplanberichtigung 162B) - erneuter Aufstellungsbeschluss - Bebauungsplan 50 - erneuter Aufstellungsbeschluss zur Teilaufhebung - Fluchtlinienpläne 564, 783, 10006 -erneuter Aufste - ungeändert beschlossen
+- TOP 20: Durchführungsplan 62A Fluchtlinien für das Gebiet Kleeblatt-Bundesbahngelände-Diestelbeck-Gerstenstraße-Hospitalstraße-Weststraße-Malzstraße-Gambrinusstraße - Satzungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 21: Fluchtlinienplan 591 - Verbindungsstraße vom Dorrenberg nach Mirke nördlich der Staatseisenbahn - - ungeändert beschlossen
+- TOP 22: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2024/2025 - ungeändert beschlossen
+- TOP 23: Grundlagen für die Einrichtung und die Fortführung von außerunterrichtlichen Ganztags- und Betreuungsangeboten in der Primarstufe - ungeändert beschlossen
+- TOP 24: Einbringung des Haushaltsplanentwurfes 2024/2025 - vertagen
+- TOP 25: Entwurfsfassung Nahverkehrsplan Stadt Wuppertal - Teil 3 - Ergänzung flexible Bedienungsformen und Nachtverkehr - Entgegennahme ohne Beschluss
+- TOP 26: 3. Zwischenbericht InnenBandStadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 26.1: Sachstandsbericht zur Fahradstraße Hardtufer - Entgegennahme ohne Beschluss
+- TOP 27: Sachstandsbericht „Schlüsselprojekte des Oberbürgermeisters“ - Entgegennahme ohne Beschluss
+- TOP 28: Fällung von Einzelbäumen - Auslichtungsmaßnahmen in Grünanlagen und im Forst im Frühjahr 2024 - Entgegennahme ohne Beschluss
+- TOP 29: Anträge
+- TOP 29.1: Bürger*innenbeteiligung im Rahmen der Gestaltungsplanungen Aue - Antrag der Fraktion Bündnis 90/ Die Grünen - ungeändert beschlossen
+- TOP 29.2: Elberfeld braucht einen attraktiven Wochenmarkt - Gemeinsamer Antrag von SPD, Bündnis 90/ Die Grünen und CDU - ungeändert beschlossen
+- TOP 29.3: Bushaltestelle Klever Platz - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 29.4: Aufstellung eines Briefkastens am Döppersberg - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 29.5: Laurentiusstraße zwischen Kolpingstraße und Friedrich-Ebert-Straße wird zur Fußgängerzone - Gemeinsamer Antrag von SPD und Bündnis 90/ Die Grünen - geändert beschlossen
+- TOP 30: Anfragen
+- TOP 30.1: Situation der Stadtbibliothek Wuppertal in der Kolpingstraße - Große Anfrage der SPD Fraktion
+- TOP 30.1.1: Antwort auf die Große Anfrage der SPD-Fraktion an die BV Elberfeld zur Stadtbibliothek - Entgegennahme ohne Beschluss
+- TOP 30.2: Montagstiftung initiiert Pilotprojekt "Schule statt Leerstand" - Große Anfrage der SPD Fraktion
+- TOP 30.3: Detaillierte Anfrage zu Bodendenkmälern in der Elberfelder Innenstadt - Große Anfrage der SPD Fraktion
+- TOP 30.4: Antwort auf die Große Anfrage zu Bodendenkmälern in der Elberfelder Innenstadt - Entgegennahme ohne Beschluss
+- TOP 31: Freie Mittel
+- TOP 31.1: Mitgliedsbeiträge
+- TOP 31.2: Antrag des Vereins Knicklicht e.V.
+- TOP 31.3: Antrag des Vereins Nachbarschaftsheim Wuppertal e. V.
+- TOP 31.4: Antrag des Bergischen Vereins für Familienkunde e.V.
