@@ -1,0 +1,51 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2024-01-31T17:00:00+01:00
+- Ende: 2024-01-31T18:51:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=5198
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=5198
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Bestellung einer Schriftführerin - ungeändert beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 5: Entgegennahme des Bürger*innengutachtens - ungeändert beschlossen
+- TOP 6: Wahl der/des 2. ehrenamtlichen Stellvertreterin/Stellvertreters der Oberbürgermeisterin - ungeändert beschlossen
+- TOP 6.1: Einführung und Verpflichtung der/des 2. ehrenamtlichen Stellvertreterin/Stellvertreters der Oberbürgermeisterin
+- TOP 7: Wirtschaftsplan 2024 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 8: Friedhofsgebühren der Stadt Aachen - Gebührenbedarfsberechnung 2024 - ungeändert beschlossen
+- TOP 9: 16. Änderungssatzung zur Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000 - geändert beschlossen
+- TOP 10: Wirtschaftsplan 2024 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 11: Jahresabschluss zum 31.12.2022 und Lagebericht 2022 Volkshochschule Aachen - ungeändert beschlossen
+- TOP 12: Entwurf Wirtschaftsplan 2024 der Volkshochschule Aachen einschließlich mittelfristige Ergebnis- und Finanzplanung 2024 bis 2028 - ungeändert beschlossen
+- TOP 13: Verlegung von Stolpersteinen- Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 14: Beschluss über eine Veränderungssperre im Stadtbezirk Aachen-Mitte, Gemarkung Aachen, Flur 60, Flurstücke 462, 460 teilweise - ungeändert beschlossen
+- TOP 15: Benennung von Delegierten und Gästen für die Mitgliederversammlung 2024 des Städtetages Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 16.1: Umbesetzungsantrag der AfD-Ratsgruppe vom 16.01.2024 - ungeändert beschlossen
+- TOP 16.2: Umbesetzungsantrag der CDU-Fraktion vom 17.01.2024 - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der SPD-Fraktion vom 22.01.2024 - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 18: Ratsanträge - ungeändert beschlossen
+- TOP 19: Mitteilungen der Verwaltung
+- TOP 20: Wahl einer/eines Beigeordneten für das Dezernat Wohnen, Soziales und Wirtschaft (Dez VI) - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
