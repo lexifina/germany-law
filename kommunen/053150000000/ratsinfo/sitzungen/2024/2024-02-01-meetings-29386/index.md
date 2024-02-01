@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-01T17:03:00+01:00
+- Ende: 2024-02-01T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29386
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29386
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Information und Austausch zum Thema Partizipation "Misch MIT! – Kinder- und Jugendbeteiligung in Köln"
+- TOP -: B - Sachstand Porz Mitte
+- TOP -: C - Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, - endgültig abgelehnt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Anpassung des Radverkehrshauptnetzes - zurückgestellt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Höhenentwicklungskonzept für die Innere Stadt Köln - ungeändert beschlossen
+- TOP 7.2: Prioritätenliste Kunststoffrasen #6: Planungsbeschluss Generalsanierung Sportanlage Bieselwald - ungeändert beschlossen
+- TOP 7.3: Erweiterung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes Nr. 76399/04 Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - ungeändert beschlossen
+- TOP 7.4: Beschluss über die Aufhebung der Einleitung zur Änderung eines Teilbereich des Bebauungsplan 7441/02 sowie Beschluss zur einfachen Änderung des gesamten Bebauungsplan 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung - zurückgestellt
+- TOP 7.5: Ordnungsbehördliche Verordnung für die Jahre 2024 - 2026 über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 7.6: 236. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz Arbeitstitel: "Leidenhausener Straße" in Köln-Porz/ Eil hier: Feststellungsbeschluss - ungeändert beschlossen
+- TOP 7.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 76403/02 Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - ungeändert beschlossen
+- TOP 7.8: Einleitungsbeschluss betreffend die Änderung des Bebauungsplanes Nr. 74403/02 Arbeitstitel: Schulstandort Urbacher Weg in Köln-Porz - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Schulstandstandort Urbacher Weg, Vorlage 4033/2023" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Schulstandort Urbacher Weg, UN-Behindertenrechtskonvention" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Änderung des Bebauungsplanes Urbacher Weg" - ungeändert beschlossen
+- TOP 7.9: Änderung des Bildungsganges Einjährige Berufsfachschule im Fachbereich Technik/ Naturwissenschaften durch die Einführung der Profilklasse Ingenieurstechnik am Berufskolleg Porz zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Ansiedlung eines zweiten Vollversorger-Supermarkts in Poll: Prüfung des Grundstücks gegenüber ehemaliger Laukat-Wagenhalle" - endgültig abgelehnt
+- TOP -: Stellungnahme der Verwaltung zum Antrag der SPD-Fraktion AN/2013/2023 betreffend "Ansiedlung eines zweiten Vollversorger-Supermarkts in Poll" - Kenntnis genommen
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Abbau der beiden Parkbänke auf dem an den Bahndamm angrenzenden Grünstreifen in Porz- Finkenberg" - endgültig zurückgezogen
+- TOP 8.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Poller Holzweg/Baumschulenweg, Bürgereingabe aus der Sitzung vom 31.08.2023" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Poller Holzweg/Baumschulenweg" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Ausbau der Frankfurter Straße einschließlich ÖPNV" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündis 90/Die Grünen "Ausbau der Frankfurter Straße" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Ausbau der Frankfurter Straße" - ungeändert beschlossen
+- TOP 8.5: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Maßnahmen auf der Alfred-Schütte-Allee" - endgültig zurückgezogen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der SPD-Fraktion "Alfred-Schütte-Allee" - Sache ist erledigt
+- TOP 8.6: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Tag des guten Lebens in Porz 2025" - ungeändert beschlossen
+- TOP 8.7: Dringlichkeitsantrag CDU und Bündnis 90/Die Grünen "Neu eingerichtete Bushaltestelle Leidenhausener Straße" - geändert beschlossen
+- TOP 8.8: Dringlichkeitsantrag der SPD-Fraktion "Sicherstellung der Schülerverkehre zwischen Wahn S-Bahn und Schulzentrum Zündorf" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Straßenbenennung Baugebiet Fuchskaule" - ungeändert beschlossen
+- TOP 8.10: Dringlichkeitsantrag der SPD-Fraktion "NEIN zur Schließung weiterer Zweigstellen der Sparkasse KölnBonn im Stadtbezirk" - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen "Sparkasse Köln Bonn" - endgültig zurückgezogen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Anfrage Dritter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Beantwortung zweier Anfragen der CDU-Fraktion aus der Sitzung 30.11.2023 (AN/2140/2023 und AN/2141/2023) - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU Fraktion aus der Sitzung der Bezirksvertretung Porz vom 30.11.2023, AN/2140/2023; TOP 9.2.10 - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Lichtverschmutzung, Blendgefahr und Baufortschritt Hauptstraße GAG Baustelle Haus Nr. 352, Köln Porz" - Sache ist erledigt
+- TOP -: Anfrage der CDU-Fraktion "Ausbau der Freiflächen, Baufortschritt Hauptstraße GAG Baustelle Haus Nr. 340-352" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündis - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen "Planungen für den evtl. Bau der Rheinspange" - Sache ist erledigt
+- TOP 9.1.4: Beantwortung der Anfrage der CDU-Fraktion betreffend "Vermarktungsstand des GE-Gebietes Porz-Lind", AN/2126/2023 - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Vermarktungsstand des GE-Gebietes Porz-Lind" - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer schriftlichen Anfrage AN/2096/2023 der SPD-Fraktion bezüglich der Mängel nach Sanierung / Neubau der Turnhallen Förderschule „Auf dem Sandberg“ und Janusz-Korzcak-Grundschule, Siegburger Straße - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Mängel nach Sanierung / Neubau der Turnhallen Förderschule „Auf dem Sandberg“ und Janusz-Korzcak-Grundschule, Siegburger Straße" - Sache ist erledigt
+- TOP 9.1.6: Errichtung von vier Wohngebäuden (89 WE) mit Tiefgarage - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Mitteilung 3266/2023 zur Sitzung am 19.10.2023 - Errichtung von vier Wohngebäuden (89 WE) mit Tiefgarage" - Sache ist erledigt
+- TOP 9.1.7: Beantwortung einer Anfrage der SPD-Fraktion "Situation Samstagsmarkt auf dem Marktplatz in Ensen" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Situation Samstagsmarkt auf dem Marktplatz in Ensen" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Sachstand der Bebauung des B-Plan-Gebietes Poller Damm" - zurückgestellt
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen "Bebauungsplan Haus Wolle" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage (BV) zum Thema "Bebauungsplan Haus Wolle" - Sache ist erledigt
+- TOP 9.2.4: Anfrage der CDU-Fraktion "Transparenz der Verkehrssituation um die Hohenstaufenstraße herstellen" - zurückgestellt
+- TOP 9.2.5: Anfrage der SPD-Fraktion "Verkauf des Hauses Hauptstraße 352, 51143 Köln" - zurückgestellt
+- TOP 9.2.6: Anfrage der CDU-Fraktion "Umsetzung Radverkehrshauptnetz Porz" - zurückgestellt
+- TOP 9.2.7: Anfrage der CDU Fraktion "Winterdienst in Porz" - zurückgestellt
+- TOP 9.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 10.2.2: Stellungnahme zum Antrag der SPD-Fraktion aus der Sitzung der BV Porz vom 02.02.2023 (AN/0229/2023) - Kenntnis genommen
+- TOP 10.2.3: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 10.2.4: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.5: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 10.2.6: Sachstand Alfred-Schütte-Allee - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
