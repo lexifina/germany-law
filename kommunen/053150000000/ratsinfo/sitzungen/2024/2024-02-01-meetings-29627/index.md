@@ -1,0 +1,84 @@
+# 24. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-01T15:07:00+01:00
+- Ende: 2024-02-01T17:43:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29627
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29627
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer mündl. Anfrage vom RM Seiger aus der Sitzung des StEA vom 28.09.2023 - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Nachfrage von SE Paul Intveen und RM Tokyürek (LINKE) aus der Sitzung des Stadtentwicklungsausschusses vom 28.09.2023 betreffend die Bilanz zum Projekt „Wie inklusiv ist das Quartier?“ und dem Kriterienkatalog für barrie - Kenntnis genommen
+- TOP 1.3: Beantwortung einer mündlichen Anfrage von RM Kienitz (CDU-Fraktion) aus der Sitzung des StEA am 30.11.2023 (TOP 8.2) betreffend die Erschließung und Entwässerung am Falkenweg in Köln-Rondorf - Kenntnis genommen
+- TOP 1.4: Beantwortung von mündlichen Anfragen der RM Pakulat und Kienitz aus der Sitzung des Stadtentwicklungsausschusses am 30.11.2023 betreffend "Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz" - zurückgestellt
+- TOP 1.5: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 30.11.2023 betreffend „Ost-West-Achse–Zeithorizont zur Beschlussfassung und Beschleunigungsmöglichkeiten" - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Anfrage der FDP-Fraktion betreffend "Strommast behindert Sichtachse zum Weltkulturerbe Kölner Dom" - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer Anfrage der FDP-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 31.08.2023 (AN/1331/2023) betreffend "Strommast behindert Sichtfläche zum Weltkulturerbe Kölner Dom" - Kenntnis genommen
+- TOP 2.1.2: Beantwortung einer mündl. Anfrage der FDP-Fraktion aus der Sitzung des Stadtentwicklungsausschusses vom 31.08.2023 (AN/1331/2023) betreffend "Strommast behindert Sichtachse zum Weltkulturerbe Kölner Dom" zu Frage 5 ergänzende Beantwortung (3452/2023) - Kenntnis genommen
+- TOP 2.2: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen - zurückgestellt
+- TOP 3: Anträge
+- TOP 3.1: Die Transparenz vorhandener Beteiligungsgremien verbessern und die Intensität der Beteiligung erhöhen - endgültig abgelehnt
+- TOP 3.2: Direkterwerb Otto Langen Quartier für eine gemeinwohlorientierte Entwicklung - ungeändert beschlossen
+- TOP 3.3: Deutzer Hafen – Besetzung Begleitgremium - ungeändert beschlossen
+- TOP 3.4: Antrag der Fraktion DIE LINKE betreffend "Mitgliederwechsel im Begleitgremium Deutzer Hafen" - ungeändert beschlossen
+- TOP 3.5: Qualitätskriterien bei Hochhausplanungen verbindlich anwenden - endgültig abgelehnt
+- TOP 3.6: Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg - zurückgestellt
+- TOP 3.6.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Höhenentwicklungskonzept für die Innere Stadt Köln - zurückgestellt
+- TOP 4.1.1: Städtebaulicher Masterplan Innenstadt. Höhenentwicklungskonzept für die Innere Stadt Köln; hier: Beschluss von Grundsätzen für die Entwicklung des Räumlichen Plans - zurückgestellt
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Brandschutzsanierung und Neugestaltung der Stadtbahnhaltestelle Bf Deutz/Messe - ungeändert beschlossen
+- TOP 6.2: Rondorf Nord-West, Entflechtungsstraße Änderungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.2.1: Änderungsantrag zu TOP 6.2 Rondorf Nord-West, Entflechtungsstraße Änderungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP -: Präsentation der Verwaltung - Kenntnis genommen
+- TOP 6.3: Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke Erweiterter Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Umsetzung des Förderprojektes „Netzwerkarbeit für die Kölner City" im Bundesprogramm „Zukunftsfähige Innenstädte und Zentren" - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 208. Änderung des FNP - Lindgens-Areal in Köln-Mülheim - Feststellungsbeschluss - ungeändert empfohlen
+- TOP 7.2: 236. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz Arbeitstitel: "Leidenhausener Straße" in Köln-Porz/ Eil hier: Feststellungsbeschluss - ungeändert empfohlen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Durchführung der Frühzeitigen Öffentlichkeitsbeteiligung zum Städtebaulichen Entwurf Falkenweg in Köln-Rondorf - zurückgestellt
+- TOP 8.1.1: Änderungssantrag zu Top 8.2 - endgültig zurückgezogen
+- TOP 8.1.2: Änderungsantrag zu Top 8.1 - zurückgestellt
+- TOP 8.2: Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - städtebauliches Planungskonzept - Arbeitstitel: Max Becker-Areal in Köln-Ehrenfeld - geändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - zurückgestellt
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 76403/02 Arbeitstitel: Leidenhausener Straße in Köln-Porz-Eil - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Einleitungsbeschluss betreffend die Änderung des Bebauungsplanes Nr. 74403/02 Arbeitstitel: Schulstandort Urbacher Weg in Köln-Porz - unter Vorbehalt beschlossen
+- TOP 13.2: Beschluss über die Aufhebung der Einleitung zur Änderung eines Teilbereich des Bebauungsplan 7441/02 sowie Beschluss zur einfachen Änderung des gesamten Bebauungsplan 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung - zurückgestellt
+- TOP 13.3: Beschluss über die Aufhebung des Einleitungsbeschlusses zum B-Plan Ehrenfeldgürtel 125 – Wohnen und Einzelhandel - und Beschluss über die Einleitung eines B-Plans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Ehrenfeldgürtel 125 - zurückgestellt
+- TOP 13.4: Erweiterung des Geltungsbereiches des in Aufstellung befindlichen Bebauungsplanes Nr. 76399/04 Arbeitstitel: Östlich Im Falkenhorst in Köln-Porz-Urbach - unter Vorbehalt beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Ehrenfeld vom 23.10.2023 zur Aufstellung eines Bebauungsplanes und Veränderungssperre für den Bereich Leyendeckerstraße 25-27 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 16.2: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betr.: Beschluss über die Aufstellung eines Bebauungsplanes - zurückgestellt
+- TOP 17: Offenlage von Bauleitplänen - Kenntnis genommen
+- TOP 17.1: Offenlage Bebauungsplan-Entwurf Nr. 70470/11, Arbeitstitel: Deutz-Areal in Köln-Mülheim
+- TOP 18: Mitteilungen
+- TOP 18.1: Deutzer Hafen – Wettbewerb Baufeld Ost 03 - Kenntnis genommen
+- TOP 18.2: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 18.3: Umsetzung der Stadtstrategie "Kölner Perspektiven 2030+": Schlüsselprojekte 2023 - Kenntnis genommen
+- TOP 18.4: Beauftragung der Erarbeitung der verbindlichen Bauleitplanung (fünf Teilbebauungspläne und ein Bebauungsplan-Änderungsverfahren) und der Mitwirkung bei der Vergabe von Fachgutachten für das Städtebauprojekt Parkstadt Süd - Kenntnis genommen
+- TOP 18.5: Umsetzung des Förderprojektes "Netzwerkarbeit für die Kölner City" im Bundesprogramm "Zukunftsfähige Innenstädte und Zentren" - Kenntnis genommen
+- TOP 18.6: Räumliches Entwicklungskonzept LiebigQuartier - Auswertung der Online-Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 18.7: Sachstandsinformation zur Durchführung eines zweiphasigen städtebaulichen Wettbewerbsverfahrens für die Erweiterung der DEVK-Zentrale in Köln-Riehl - Kenntnis genommen
+- TOP 18.8: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 18.9: Sachstandsbericht der Verwaltung zur Verlagerung des Autonomen Zentrums in die Liegenschaft In den Reihen 16 in Köln-Kalk - Kenntnis genommen
+- TOP 18.10: Ergebnisse der Prüfung einer möglichen Anwendung der Grundsteuer C in Köln - Kenntnis genommen
+- TOP 18.11: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
