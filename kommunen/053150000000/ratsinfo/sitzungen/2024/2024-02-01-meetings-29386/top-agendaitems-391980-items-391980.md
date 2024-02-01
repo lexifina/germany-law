@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Fraktion Bündis 90/Die Grünen "Ausbau der Frankfurter Straße"
+
+- Sitzung: Sitzung der Bezirksvertretung Porz (2024-02-01)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/391980
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/181730
