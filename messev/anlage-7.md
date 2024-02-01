@@ -41,7 +41,7 @@ Tabelle 1
 | 5.3 | Messgeräte für Flüssigkeiten in ruhendem Zustand |  |
 | 5.3.1 | Messwerkzeuge für Flüssigkeiten mit Ausnahme der Messwerkzeuge nach den Nummern 5.3.2 und 5.3.3 | 3 |
 | 5.3.2 | Messwerkzeuge für Flüssigkeiten mit festen Maßwänden, bei denen der Maßraum und die Maßraumeinstellung einsehbar sind | nicht befristet |
-| 5.3.3 | Volumenmessgeräte, bei denen die messwertbestimmenden Teile aus Glas sind | nicht befristet |
+| 5.3.3 | Volumenmessgeräte, bei denen die messwertbestimmenden Teile aus Glas sind mit Ausnahme der Einrichtungen nach Nummer 6.8 | nicht befristet |
 | 5.3.4 | Lagerbehälter und Lagergefäße, soweit sie nicht zu den Lagerbehältern nach Nummer 5.3.5 oder 5.3.6 gehören | 12 |
 | 5.3.5 | Lagergefäße, Haupt- und Zwischensammelgefäße nach dem Branntweinmonopolrecht | nicht befristet |
 | 5.3.6 | Lagerbehälter, bei denen die Messbeständigkeit des Maßraums durch eine vollständige Vermessung frühestens fünf Jahre nach der Konformitätsbewertung oder nach einer vorausgegangenen Eichung festgestellt ist und der Sumpf bei Behältern mit voll aufliegendem Boden nicht in den Maßraum einbezogen ist | nicht befristet |
@@ -68,21 +68,22 @@ Tabelle 1
 | 5.6.8 | Wirkdruckgaszähler, wenn ein Filter vorgeschaltet ist, das durch Differenzdruckmessung mit Maximumanzeige überwacht wird, oder Wirkdruckgaszähler ohne Filter, wenn die Blenden mindestens nach 2 Jahren von einer Eichbehörde oder einer staatlich anerkannten Prüfstelle überprüft werden und keine Beschädigungen oder Verschmutzungen aufweisen | 4 |
 | 5.6.9 | Temperatur-, Zustands- und Dichte-Mengenumwerter für Gase | 5 |
 | 5.6.10 | mechanische Zusatzeinrichtungen für Gasmessgeräte mit Ausnahme der Gebergeräte und der Schalteinrichtungen | 5 |
-| 5.6.11 | elektronische Zusatzeinrichtungen für Gasmessgeräte, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
+| 5.6.11 | elektronische Zusatzeinrichtungen für Gasmessgeräte, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit Ausnahme der Einrichtungen nach Nummer 6.8 | 8 |
 | 5.6.12 | Gebergeräte für Gasmessgeräte und für deren Zusatzeinrichtungen | nicht befristet |
 | 5.6.13 | Umschalt- und Zuschalteinrichtungen für Gaszähler | nicht befristet |
 | 6. | Messgeräte zur Bestimmung von Messgrößen bei der Lieferung von Elektrizität |  |
 | 6.1 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit Induktionsmesswerk einschließlich Doppeltarifzähler, mit Ausnahme der Zähler nach Nummer 6.2 | 16 |
 | 6.2 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit Induktionsmesswerk als Messwandlerzähler, als mechanische Mehrtarif-, Maximum- und Überverbrauchszähler sowie mechanische Zusatzeinrichtungen für Elektrizitätszähler | 12 |
-| 6.3 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit elektronischem Messwerk für direkten Anschluss und Anschluss an Messwandler sowie eingebaute und getrennt angeordnete elektronische Zusatzeinrichtungen für Elektrizitätszähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
+| 6.3 | Elektrizitätszähler in der Ausführung als Einphasen- und Mehrphasen-Wechselstromzähler mit elektronischem Messwerk für direkten Anschluss und Anschluss an Messwandler sowie eingebaute und getrennt angeordnete elektronische Zusatzeinrichtungen für Elektrizitätszähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit Ausnahme der Einrichtungen nach Nummer 6.8 | 8 |
 | 6.4 | Elektrizitätszähler für Gleichstrom mit Ausnahme der Elektrizitätszähler nach der Nummer 6.5 | 4 |
 | 6.5 | Elektrizitätszähler für Gleichstrom mit elektronischem Messwerk | 8 |
 | 6.6 | Messwandler für Elektrizitätszähler | nicht befristet |
-| 6.7 | Messgeräte und Zusatzeinrichtungen bei der Lieferung von Elektrizität für Elektrofahrzeuge und an Ladepunkten | 8 |
+| 6.7 | Messgeräte und Zusatzeinrichtungen bei der Lieferung von Elektrizität für Elektrofahrzeuge und an Ladepunkten mit Ausnahme der Einrichtungen nach Nummer 6.8 | 8 |
+| 6.8 | Smart-Meter-Gateways, die den technischen Vorgaben des Teils 2 Kapitel 3 des Messstellenbetriebsgesetzes entsprechen sowie Kommunikationsadapter zur Anbindung von Messgeräten und Messeinrichtungen nach § 2 Satz 1 Nummer 10 des Messstellenbetriebsgesetzes an ein Smart-Meter-Gateway | nicht befristet |
 | 7. | Messgeräte zur Bestimmung der Wärmemenge (Wärme und Kälte in Kreislaufsystemen) |  |
 | 7.1 | Wärmezähler und Kältezähler | 6 |
 | 7.2 | Warm- und Heißwasserzähler für Wärmetauscher-Kreislaufsysteme | 6 |
-| 7.3 | elektronische Zusatzeinrichtungen für Wärme- und Kältezähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
+| 7.3 | elektronische Zusatzeinrichtungen für Wärme- und Kältezähler, sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit Ausnahme der Einrichtungen nach Nummer 6.8 | 8 |
 | 8. | Messgeräte zur Bestimmung von Dichte oder Massenanteil oder Massenkonzentration oder Volumenkonzentration von Flüssigkeiten |  |
 | 8.1 | Dichte- oder Gehaltsmessgeräte, bei denen die messwertbestimmenden Teile aus Glas hergestellt sind | nicht befristet |
 | 8.2 | hydrostatische Waagen, Tauchkörper und Pyknometer aus Metall | 4 |
