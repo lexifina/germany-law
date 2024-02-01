@@ -1,0 +1,58 @@
+# 38. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-01T17:00:00+01:00
+- Ende: 2024-02-01T18:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30080
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30080
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vereidigung eines neuen Mitgliedes der Bezirksvertretung Chorweiler
+- TOP -: Aktuelle Stunde zur Situation der Rheinfähre Köln-Langel - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Absolutes Halteverbot Cohnenhofstraße, Köln-Chorweiler, Aktenzeichen 174/23 - Kenntnis genommen
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO - Zugverbindung S11 zwischen Köln Blumenberg und Neuss, Aktenzeichen 178/23 - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage bezüglich der ehemaligen Postbank-Filiale Lyoner Passage
+- TOP 7.2.2: Aktualisierung des Kinderstadtplans für den Bezirk Chorweiler
+- TOP 7.2.3: Schließung des Chorweilerbads aufgrund von Personalmangel
+- TOP 7.2.4: S-Bahnstation Chorweiler
+- TOP 7.2.5: Weniger freie Grundschulplätze für die Einschulung
+- TOP 7.2.6: Beschilderung Parkplatzzufahrt Liverpooler Platz
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Antrag zur Sicherung des Betriebs der Rheinfähre Köln-Langel /Hitdorf - geändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Chorweiler 2023/2024 - Mittelvergabe - ungeändert beschlossen
+- TOP 9.1.2: Sicherer Schulweg Ernstbergstraße in Köln-Blumenberg - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Höhenentwicklungskonzept für die Innere Stadt Köln - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Einbeziehung von Wohnwegen im Baugebiet Damiansweg Köln-Volkhoven/Weiler - Kenntnis genommen
+- TOP 10.2.3: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv“ 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 10.2.5: Aktionsplan Klimaschutz - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
