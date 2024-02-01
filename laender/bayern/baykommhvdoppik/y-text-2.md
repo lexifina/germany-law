@@ -1,0 +1,3 @@
+1. Art. 123 Abs. 1 der Gemeindeordnung für den Freistaat Bayern (Gemeindeordnung – GO) in der Fassung der Bekanntmachung vom 22. August 1998 (GVBl S. 796, BayRS 2020-1-1-I), zuletzt geändert durch § 7 des Gesetzes vom 10. April 2007 (GVBl S. 271),
+2. Art. 109 Abs. 1 der Landkreisordnung für den Freistaat Bayern (Landkreisordnung – LKrO) in der Fassung der Bekanntmachung vom 22. August 1998 (GVBl S. 826, BayRS 2020-3-1-I), zuletzt geändert durch § 2 des Gesetzes vom 8. Dezember 2006 (GVBl S. 975),
+3. Art. 103 Abs. 1 der Bezirksordnung für den Freistaat Bayern (Bezirksordnung – BezO) in der Fassung der Bekanntmachung vom 22. August 1998 (GVBl S. 850, BayRS 2020-4-2-I), zuletzt geändert durch § 3 des Gesetzes vom 8. Dezember 2006 (GVBl S. 975),
