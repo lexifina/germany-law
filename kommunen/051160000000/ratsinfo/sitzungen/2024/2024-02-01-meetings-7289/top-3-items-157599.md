@@ -1,0 +1,8 @@
+# TOP 3: Verbesserung für den Fuß- und Radverkehr auf der Gelderner Straße, Poststraße, Rossweide und Hochstadenstraße
+
+- Sitzung: Ausschuss für Umwelt und Mobilität (2024-02-01)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/157599
+- Ergebnis: Mit Stimmenmehrheit beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/34661
