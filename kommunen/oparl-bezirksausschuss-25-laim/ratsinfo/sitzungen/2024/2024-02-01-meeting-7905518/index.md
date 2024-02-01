@@ -1,0 +1,72 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-02-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905518
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905518
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A): Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A).1.: null
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 2: Anträge
+- TOP 2.1.: Informationsveranstaltung zum Planungsstand Neubaugebiet Zschokke-/Westendstraße
+- TOP 2.2.: Tagesordnung des BA 25 an zentralen Haltestellen der MVG aushängen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Trister Sandstreifen am umgestalteten Willibaldplatz
+- TOP 3.2.: (E) Stadtbezirksbudget Kirchenstiftung Zu den Heiligen Zwölf Aposteln, Kita-Verbund, Kiga Zu den Heiligen Zwölf Aposteln Anschaffung von 2 iPads und 2 iPhones für die Teilnahme an der Kampagne „Kita digital“ 2.920,00 Euro, Az.: 0262.0-25-0317
+- TOP 3.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 1.600,00 Euro, Az.: 0262.0-25-0320
+- TOP 3.4.: (E) Stadtbezirksbudget Münchner Heldentheater e.V. Ich bin Sturm vom 16.01. - 24.02.2024 2.368,34 Euro, Az.: 0262.0-25-0319
+- TOP 3.5.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche zwischen April und November 2024 5.857,00 Euro, Az.: 0262.0-25-0321
+- TOP 3.6.: Schreiben Münchner Filmwerkstatt vom 03.01.24: Filmworkshop für Kinder und Jugendliche
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Mobilitätsreferat vom 01.12.23: Abschluss Sommerstraßen 2023 und Aufruf für 2024 (Frist: 02.02.24)
+- TOP 4.3.: Schreiben Direktorium vom 04.01.24: MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 08.01.24: Familien-Flohmarkt Laimer Strolche auf dem Hogenbergplatz am 09.03.24 (Ersatz 16.03.24)
+- TOP 4.5.: Schreiben Bolt vom 11.01.24: E-Scooter in Laim
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Rappstr. 19, Neubau eines Wohngebäudes mit TG und Gewerbeeinheit im EG Grundstück: 1418/7-Pasing (Frist 02.02.24)
+- TOP 5.2.: Reutterstr. 38, Neubau eines Mehrfamilienhauses mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.23-2022-2219-23 Grundstück: 1418/9-Pasing (Frist 02.02.24)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Soziales vom 23.11.23
+- TOP 7.2.: Protokoll UA Kultur vom 12.12.23
+- TOP 7.3.: Protokoll UA Mobilität vom 14.12.23
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 09.01.24
+- TOP 7.5.: Protokoll BA-Sitzung vom 11.01.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 28.12.23: Haushaltsbeschluss 2024; Stadtbezirksbudget für 2024
+- TOP 8.2.: Schreiben Mobilitätsreferat vom 28.12.23: Beseitigungsgebühr für störend abgestellte Elektro-Roller einführen
+- TOP 8.3.: Schreiben Mobilitätsreferat vom 10.01.24: Sicherheit im Straßenverkehr vor dem Hintergrund der alternden Gesellschaft
+- TOP 8.4.: Schreiben Baureferat vom 14.12.23: Fußgänger- und Fahrradsteg nach Nymphenburg bei Planung der Feuerwache Laim berücksichtigen
+- TOP 8.5.: Bautenliste 18.12.-24.12.23: A) Erstantragsverfahren 1. Hans-Thonauer-Str. 3e
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.01.24: Fällung Eckermannstr. 21
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.01.24: Fällungen entlang Romanplatz/Wotanstraße/Fürstenrieder Straße
+- TOP 8.8.: Schreiben Kommunalreferat vom 11.01.24: Großraumbehälter für Glas und Plastik
+- TOP 8.9.: Schreiben Direktorium vom Januar 2024: Verwendungsnachweise
+- TOP 8.10.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 8.11.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Beschlussvollzugskontrolle (BVK) Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 8.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: Beschlussvollzugskontrolle (BVK) In-House-Vergabe (Bauträgerauswahl) Bebauungsplan mit Grünordnung Nr. 2027 „Zschokkestraße“, Teilfläche WA 3 OST an die GEWOFAG Wohnen GmbH bzw. Münchner Wohnen GmbH Stadtbezirk 25 Laim
+- TOP 8.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 8.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 8.15.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 8.16.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 8.17.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: Stadtteilgesundheit für München Produkt 33414300 Gesundheitsplanung Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Änderung des MIP 2023-2027 Beschluss über die Finanzierung ab dem Jahr 2024
+- TOP 8.18.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.23: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 5,7 und 21
+- TOP 8.19.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.11.2023 a) Rechte der Bezirksausschüsse beim Baumschutz stärken Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirks 21 – Pasing-Obermenzing am 15.03.2023 b) Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren BA-Antrags-Nr. 20-26 / B 04834 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 08.12.2022 c) Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrags-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirks 06 – Sendling vom 05.12.2022 d) Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund BA-Antrags-Nr. 20-26 / B 05899 des Bezirksausschusses des Stadtbezirks 15 – Trudering-Riem vom 21.09.2023 e) Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Hönigschmidplatz (Verweisung an BA 20 und Schreiben an Bürgerin)
+- TOP 9.2.: Parklizenzbereich Friedenheim und Umwandlung eines Teils der Straubinger Str. zur Einbahnstraße (Vertagung in UA Mobilität)
+- TOP 9.3.: Straßenbeleuchtung historische Stadtlohnerstraße (Schreiben an Baureferat)
+- TOP 9.4.: Wertstoffcontainer Zschokkestraße (Schreiben)
+- TOP 9.5.: Bordsteinabsenkung an der Camerloherstr. 68 (Vertagung in UA Mobilität)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 31.01.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Frühlingsflohmarkt Drachenburg e.V am Laimer Platz 16.03.2024 (Ersatz 23.03.2024)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 30.01.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Flohmarkt Klötzchen e.V., Spielplatz Valpichlerstr./Von-der-Pfordten-Str. am 13.04.2024 (Ersatz 20.04.2024)
