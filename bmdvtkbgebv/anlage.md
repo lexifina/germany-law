@@ -12,8 +12,8 @@ Abschnitt 1 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Eur
   Unterabschnitt 9 Intra-EU-Kommunikation
   Unterabschnitt 10 Roaming
 Abschnitt 2 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
-Abschnitt 3 (zukünftig in Kraft)
-Abschnitt 4 (zukünftig in Kraft)
+Abschnitt 3 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
+Abschnitt 4 Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 Abschnitt 1
 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zu Endkundenentgelten für regulierte intra-EU-Kommunikation sowie zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und der Verordnung (EU) Nr. 2022/612 vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union
 Unterabschnitt 1
@@ -156,6 +156,38 @@ Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
 | 3 | Maßnahme nach § 30 Absatz 2 TTDSG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TTDSG | nach Zeitaufwand |
 | 4 | Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TTDSG | nach Zeitaufwand |
 Abschnitt 3
-(zukünftig in Kraft)
+Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
+| 1 | Erteilung des Qualifikationsstatus für Vertrauensdiensteanbieter und die von ihnen erbrachten Vertrauensdienste nach Artikel 21 Absatz 2 der Verordnung (EU) Nr. 910/2014 | nach Zeitaufwand |
+| 2 | Beaufsichtigung qualifizierter Vertrauensdiensteanbieter und der von ihnen erbrachten qualifizierten Vertrauensdienste nach Artikel 17 Absatz 3 Buchstabe a, Absatz 4 der Verordnung (EU) Nr. 910/2014 in Verbindung mit § 4 Absatz 2 VDG | nach Zeitaufwand |
+| 3 | Durchführung von Aufsichtsmaßnahmen in Bezug auf nichtqualifizierte Vertrauensdiensteanbieter nach Artikel 17 Absatz 3 Buchstabe b, Absatz 4 der Verordnung (EU) Nr. 910/2014 in Verbindung mit § 4 Absatz 2 VDG | nach Zeitaufwand |
+| 4 | Untersagung des Betriebs nach § 4 Absatz 3 VDG | nach Zeitaufwand |
+| 5 | Anerkennung von Zertifizierungsstellen nach Artikel 30 Absatz 1 der Verordnung (EU) Nr. 910/2014 | nach Zeitaufwand |
 Abschnitt 4
-(zukünftig in Kraft)
+Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
+| 1 | Maßnahmen im Rahmen der Prüfung |  |
+| 1.1 | Durchführung einer Erstprüfung für die Klasse A im Rahmen der §§ 3 bis 7 AFuV | 71,50 |
+| 1.2 | Durchführung einer Erstprüfung für die Klasse E im Rahmen der §§ 3 bis 7 AFuV | 56,00 |
+| 1.3 | Durchführung einer Wiederholungsprüfung für Klasse A oder E im Rahmen der §§ 3 bis 7 AFuV | 46,00 |
+| 1.4 | Durchführung einer Zusatzprüfung für Inhaber der Zeugnisklasse E zum Erwerb einer Prüfungsbescheinigung oder eines Amateurfunkzeugnisses der Klasse A im Rahmen der §§ 3 bis 7 AFuV | 41,00 |
+| 1.5 | Durchführung einer Zusatzprüfung Morsen im Rahmen der §§ 3 bis 7 AFuV | 84,00 |
+| 1.6 | Ausstellung einer Amateurfunk-Prüfungsbescheinigung oder Amateurfunk-Zeugnisurkunde als Zweitschrift oder im Rahmen der Regelungen nach § 8 Absatz 1 Satz 2 AFuV | 16,00 |
+| 1.7 | Prüfen und Anerkennen einer Amateurfunk-Genehmigung anderer Verwaltungen oder einer nicht CEPT-konformen Prüfungsbescheinigung nach § 8 Absatz 2 AFuV | 35,00 |
+| 2 | Maßnahmen für Zulassungen und Zuteilungen |  |
+| 2.1 | Erteilung der Zulassung zur Teilnahme am Amateurfunkdienst und Zuteilung eines personengebundenen Rufzeichens nach § 9 Absatz 1 AFuV | 20,00 |
+| 2.2 | Zuteilung eines Ausbildungsrufzeichens nach § 12 Absatz 1 AFuV | 22,00 |
+| 2.3 | Zuteilung eines Klubstationsrufzeichens nach § 14 Absatz 1 AFuV mit 1-, 2- oder 3-buchstabigem Suffix | 24,50 |
+| 2.4 | Zuteilung eines Klubstationsrufzeichens nach § 14 Absatz 1 AFuV mit einem aus vier bis sieben Zeichen bestehenden Suffix | 39,00 |
+| 2.5 | Rufzeichenzuteilung für eine fernbediente oder automatisch arbeitende Amateurfunkstelle nach § 13 Absatz 1 und 3, auch in Verbindung mit § 16 Absatz 2 Satz 2 und 3 AFuV. Sofern Verträglichkeitsuntersuchungen erforderlich sind, werden außerdem entsprechende Gebühren nach Nummer 2.7 erhoben. | 54,00 |
+| 2.6 | Erweiterung des Umfangs oder Verlängerung einer Rufzeichenzuteilung für eine fernbediente oder automatisch arbeitende Amateurfunkstelle nach § 13 Absatz 1 und 3 oder § 16 Absatz 2 Satz 2 und 3 AFuV einschließlich der Ausstellung einer geänderten Zuteilungsurkunde. Sofern Frequenzkoordinierungsaufwände (zum Beispiel Verträglichkeitsuntersuchungen) entstehen, werden außerdem entsprechende Gebühren nach Nummer 2.7 erhoben. | 37,00 |
+| 2.7 | Durchführung der Verträglichkeitsuntersuchung einer Frequenz nach § 13 Absatz 2 AFuV, zusätzlich zu den Nummern 2.5 oder 2.6 | nach Zeitaufwand |
+| 3 | Maßnahmen im Rahmen der Teilnahme am Amateurfunkdienst |  |
+| 3.1 | Verzicht auf die Zulassung zur Teilnahme am Amateurfunkdienst gemäß § 10 Absatz 1 AFuV, sofern dieser nicht im Rahmen der Bearbeitung nach der Nummer 2.1 erfolgt | 15,00 |
+| 3.2 | Änderung des Namens und/oder der Anschrift des Inhabers einer Zulassung zur Teilnahme am Amateurfunkdienst oder Verlegung des Betriebsortes einer ortsfesten Amateurfunkstelle nach § 9 Absatz 4 AFuV sowie Ausstellung einer Amateurfunkzulassungsurkunde und eventuell vorhandener Zuteilungsurkunden für weitere Rufzeichenzuteilungen nach § 10 Absatz 2 AFuV | 18,50 |
+| 3.3 | Widerspruch oder Rücknahme eines Widerspruchs nach § 15 Absatz 3 Satz 1 AFuV gegen die Eintragung in die nach § 15 Absatz 1 AFuV zu veröffentlichende Rufzeichenliste | 15,00 |
+| 4 | Maßnahmen im Rahmen von Verstößen |  |
+| 4.1 | Maßnahmen zur Ermittlung oder Beseitigung von Verstößen gegen Bestimmungen des Amateurfunkgesetzes oder der Amateurfunkverordnung | nach Zeitaufwand |
+| 4.2 | Widerruf einer Rufzeichenzuteilung oder Zulassung zur Teilnahme am Amateurfunkdienst nach erfolgter Feststellung und Abmahnung im Zusammenhang mit fortgesetzten Verstößen im Sinne von § 3 Absatz 4 Satz 2 AFuG | nach Zeitaufwand |
+| 5 | Sonstiges |  |
+| 5.1 | Gebühr für eine sonstige öffentliche Leistung nach AFuG und AFuV, soweit nicht ein Gebührentatbestand nach den Nummern 1.1 bis 4.2 vorliegt | nach Zeitaufwand |
