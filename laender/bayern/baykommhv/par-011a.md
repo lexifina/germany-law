@@ -1,0 +1,2 @@
+# § 11a Kosten- und Leistungsrechnung
+Zur Unterstützung der Verwaltungssteuerung und für die Beurteilung der Wirtschaftlichkeit und Leistungsfähigkeit bei der Aufgabenerfüllung für alle Verwaltungsbereiche soll eine Kosten- und Leistungsrechnung geführt werden. Die Ausgestaltung ist nach den örtlichen Bedürfnissen durch Dienstanweisung zu regeln. Die Kosten sind aus der Buchführung nachprüfbar herzuleiten.

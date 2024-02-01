@@ -1,0 +1,1 @@
+Auf Grund von Art. 123 Abs. 1 der Gemeindeordnung (GO), Art. 109 Abs. 1 der Landkreisordnung (LKrO) und Art. 103 Abs. 1 der Bezirksordnung (BezO) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:

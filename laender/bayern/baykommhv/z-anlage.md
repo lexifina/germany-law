@@ -1,0 +1,6 @@
+# Anlage (zu § 48) Bestimmungen über die Entgegennahme von Schecks
+1. Schecks sollen als Einzahlung nur angenommen werden, wenn sie innerhalb der Vorlagefrist dem bezogenen Kreditinstitut vorgelegt werden können.
+2. 1Der angenommene Scheck ist unverzüglich als Verrechnungsscheck zu kennzeichnen, wenn er diesen Vermerk nicht bereits trägt.2Die Nummer des Schecks, das bezogene Kreditinstitut, die Kontonummer des Ausstellers, der Betrag und ein Hinweis, durch den die Verbindung mit der Buchführung hergestellt werden kann, sind in ein Schecküberwachungsbuch einzutragen.3Von der Führung des Schecküberwachungsbuchs kann abgesehen werden, wenn in anderer Weise die Angaben festgehalten werden und die Einlösung der Schecks überwacht wird.
+3. 1Angenommene Schecks sind unverzüglich bei einem Kreditinstitut zur Gutschrift auf einem Konto der Kasse einzureichen.2Ihre Einlösung ist zu überwachen.
+4. Bevor der Scheck eingelöst ist, dürfen Leistungen darauf nur erbracht werden, wenn der Scheck unter Vorlage einer Scheckkarte übergeben wurde und er den darin angegebenen Bedingungen des Kreditinstituts entspricht oder der Aussteller und das bezogene Kreditinstitut als vertrauenswürdig bekannt sind.
+5. Auf Schecks dürfen Geldbeträge nicht bar ausgezahlt werden.
