@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-06-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.8
+- Datum: 2024-02-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-30.06.2023
+02.02.2024
 bis
-01.02.2024
+18.07.2024
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -44,7 +44,20 @@ Zuwendungszweck, Rechtsgrundlagen
 Die Förderung hat zum Zweck, die Gründung und das Tätigwerden von neuen Erzeugerzusammenschlüssen im Sinne dieser Förderrichtlinie zu unterstützen sowie die Wettbewerbsfähigkeit von Unternehmen der Verarbeitung und Vermarktung landwirtschaftlicher Erzeugnisse zu verbessern. Dadurch sollen die Voraussetzungen für die Absatzsicherung oder Erlösvorteile auf der Erzeugerebene geschaffen werden.
 
 
-Die Förderung leistet einen Beitrag dazu, die Erfassung, Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen im Hinblick auf Art, Menge und Qualität des Angebotes an die Erfordernisse des Marktes anzupassen. Die Förderung soll darüber hinaus einen Beitrag zur Verbesserung der Effizienz des Ressourceneinsatzes, insbesondere von Wasser und Energie, leisten und damit die ressourcensparende Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen entsprechend den Anforderungen des Marktes unterstützen.
+Die Förderung leistet einen Beitrag dazu, die Erfassung, Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen im Hinblick auf Art, Menge und Qualität des Angebotes an die Erfordernisse des Marktes anzupassen. Die Förderung soll darüber hinaus einen Beitrag leisten zur
+
+
+a)
+
+Verringerung von klimaschädlichen Emissionen oder zur
+
+
+b)
+
+Verbesserung der Effizienz des Ressourceneinsatzes
+
+
+und damit die nachhaltige, klima- und ressourcenschonende Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen entsprechend den Anforderungen des Marktes unterstützen.
 
 2.
 
@@ -80,7 +93,7 @@ Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung 
 
 e)
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2021/1237 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist,
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2023/1315 der Kommission vom 30. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist,
 
 
 f)
@@ -119,7 +132,7 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 
 4.
 
-Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/1017 (ABl. L 224 vom 24.6.2021, S. 1) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
+Qualitätsprodukte sind solche landwirtschaftlichen Erzeugnisse und Produkte, die nach Qualitätsregelungen gemäß Artikel 20 Absatz 2 der Verordnung (EU) 2022/2472 hergestellt werden.
 
 
 III.
@@ -242,7 +255,9 @@ c)
 
 Die Erzeugerzusammenschlüsse müssen auf Dauer, mindestens aber für fünf Jahre, angelegt sein. Die dem Erzeugerzusammenschluss zugrunde liegenden Verträge bedürfen der Schriftform und müssen der Zielsetzung der Förderung entsprechen.
 
-Sie müssen von der zuständigen Behörde auf Basis ihres vorgelegten Geschäftsplans förmlich anerkannt werden. Der Geschäftsplan enthält zumindest die in Artikel 5 Absatz 1 der Delegierten Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2019/94 (ABl. L 19 vom 22.1.2019, S. 5) geändert worden ist, in der jeweils geltenden Fassung, bestimmten Angaben. Dabei darf die Mitgliedschaft vor dem Schluss des dritten vollen Geschäftsjahres unter Einhaltung einer Kündigungsfrist von mindestens zwölf Monaten nicht gekündigt werden können und nur dann, wenn die Fördervoraussetzungen weiterhin gegeben sind.
+Sie müssen von der zuständigen Behörde auf Basis ihres vorgelegten Geschäftsplans förmlich anerkannt werden.
+
+Der Geschäftsplan enthält zumindest Angaben zur Ausgangssituation der Antragstellenden und den geplanten Maßnahmen einschließlich ihrer Zwischen- und Endziele. Dabei darf die Mitgliedschaft vor dem Schluss des dritten vollen Geschäftsjahres unter Einhaltung einer Kündigungsfrist von mindestens zwölf Monaten nicht gekündigt werden können und nur dann, wenn die Fördervoraussetzungen weiterhin gegeben sind.
 
 
 d)
@@ -286,7 +301,9 @@ Die Auszahlung der letzten Tranche der Zuwendungen zu den Organisationskosten ka
 
 h)
 
-Die Zuwendungen dürfen nur gewährt werden, wenn die Erzeuger vor der Gründung des Erzeugerzusammenschlusses einen Antrag auf Gewährung der Zuwendung gestellt haben. Der Antragt muss mindestens folgende Angaben enthalten:
+Die Zuwendungen dürfen nur gewährt werden, wenn die Erzeuger vor der Gründung des Erzeugerzusammenschlusses einen Antrag auf Gewährung der Zuwendung gestellt haben.
+
+Der Antrag muss mindestens folgende Angaben enthalten:
 
 
 aa)
@@ -491,7 +508,7 @@ Abschreibungsbeiträge für Investitionen,
 
 h)
 
-Aufwendungen, die dem Absatz auf der Erzeuger- und Einzelhandelsstufe dienen,
+Aufwendungen, die unmittelbar dem Absatz auf der Erzeuger- und Einzelhandelsstufe dienen,
 
 
 i)
@@ -516,12 +533,12 @@ Investitionen im Zusammenhang mit der Erzeugung von Biokraftstoffen aus Nahrungs
 
 m)
 
-anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 6 des Gesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr. 6) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
+anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 202) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
 
 
 n)
 
-Investitionen zur Erfüllung geltender EU-Normen (Umwelt- und Hygienevorschriften),
+Investitionen, die nach Ablauf der im Unionsrecht vorgesehenen Übergangsfrist ausschließlich zur Erfüllung von EU-Normen (insbesondere Umwelt- und Hygienevorschriften) getätigt werden,
 
 
 o)
@@ -536,7 +553,8 @@ Vorhaben, deren Förderung zu einem Verstoß gegen in der Verordnung (EU) Nr. 13
 
 q)
 
-Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
+Aufwendungen für Trockenmilcherzeugnisse, Butter und
+H-Milch,
 
 
 r)
@@ -551,7 +569,7 @@ die Errichtung von neuen Großmärkten für Blumen und Zierpflanzen,
 
 t)
 
-Ölmühlen, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 2022/2472 sind,
+Ölmühlen, soweit die Unternehmen größer als kleine oder mittlere Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 2022/2472 sind,
 
 
 u)
@@ -601,7 +619,7 @@ Es sind Wirtschaftlichkeitsberechnungen vorzulegen, in denen plausibel nachzuwei
 
 d)
 
-Begünstigte gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag. Zuwendungen bis 2.500 Euro werden nicht gewährt.
+Begünstigte gemäß Ziffer IV Nummer 4 Buchstabe b werden für Investitionen nach Ziffer IV Nummer 2 nur gefördert, sofern das zuwendungsfähige Investitionsvolumen mindestens 30 000 Euro je Antrag beträgt. Für Investitionen in den Sektor ökologische Produkte beträgt das Mindestinvestitionsvolumen 10 000 Euro je Antrag. Zuwendungen bis 2.500 Euro werden nicht gewährt. Die Zuwendung je Antrag ist auf maximal 1 000 000 Euro begrenzt.
 
 
 e)
@@ -651,7 +669,11 @@ Art der Beihilfe (Zuschuss).
 
 g)
 
-Die Gewährung von Zuwendungen zu Investitionsausgaben ist an eine Verbesserung der Effizienz des Ressourceneinsatzes gebunden. Eine Verbesserung der Effizienz des Ressourceneinsatzes beinhaltet grundsätzlich deren Einsparung, insbesondere von Wasser und Energie. Die verbesserte Ressourcennutzung ist in geeigneter Weise darzustellen.
+Die Gewährung von Zuwendungen zu Investitionsausgaben ist an eine Verringerung von klimaschädlichen Emissionen oder eine Verbesserung der Effizienz des Ressourceneinsatzes gebunden.
+
+Eine Verbesserung der Effizienz des Ressourceneinsatzes beinhaltet grundsätzlich deren Einsparung, insbesondere von Wasser und Energie.
+
+Die Verringerung von klimaschädlichen Emissionen oder die verbesserte Ressourcennutzung ist in geeigneter Weise darzustellen.
 
 
 h)
@@ -881,9 +903,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 30. Juni 2023
+Fassung gültig ab:  2. Februar 2024
 
-Fassung gültig bis:  1. Februar 2024
+Fassung gültig bis: 18. Juli 2024
 
 Drucken/Speichern
 
@@ -908,7 +930,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.8
+https://www.revosax.sachsen.de/vorschrift/16242.9
 Stand vom
 18.11.2026
 
