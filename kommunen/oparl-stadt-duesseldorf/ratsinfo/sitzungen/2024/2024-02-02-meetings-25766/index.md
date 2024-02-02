@@ -1,0 +1,63 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-02T16:05:00+01:00
+- Ende: 2024-02-02T19:20:00+01:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße  231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25766
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25766
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 03.11.2023 und 08.12.2023 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Architekturwettbewerb zur Umgestaltung des Westflügels von Schloss Benrath - Vorstellung der Ergebnisse
+- TOP 6: Vorstellung der Fußverkehrsbeauftragten
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) „Hellerhof - Reisholz" - Gesamtstätische Stellungnahme - Empfehlung abweichend beschlossen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Teilaufhebung der Sanierungssatzung Benrath - Empfehlung einstimmig beschlossen
+- TOP 7.5: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung südlich der Innenstadt, 1. Anschlussprogramm (GPWS II) - Empfehlung einstimmig beschlossen
+- TOP 7.6: Aufhebung der Sanierungssatzung Hassels-Nord - Empfehlung einstimmig beschlossen
+- TOP 7.7: Städtebaulich-landschaftsplanerisches Gutachterverfahren Nr. 09/032 - Nördlich Wimpfener Straße - Empfehlung abweichend beschlossen
+- TOP 7.7.1: Städtebaulich-landschaftsplanerisches Gutachterverfahren Nr. 09/032 - Nördlich Wimpfener Straße - Änderungsantrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 7.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Denkmalbereichssatzung „Rathausviertel Benrath“, Vorlage 61/37/2017 - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Fernwärme in Holthausen - Anfrage der SPD-Fraktion - schriftlich beantwortet
+- TOP 10: Anträge
+- TOP 10.1: Hochwasser-Katastrophenplan Himmelgeist/ Itter - Antrag der Fraktion Bündnis 90/ Die Grünen - einstimmig beschlossen
+- TOP 10.2: Rollstuhlgerechter Zugang Schlosspark Benrath - Antrag der Fraktion Bündnis 90/ Die Grünen - abweichend beschlossen
+- TOP 10.3: Kinderparlament für den Stadtbezirk 9 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 11: Verfügungsmittel
+- TOP 11.1: Raum für Kunst - Kunstwerkstatt Urdenbach - Ausstellung und Musikevent Düsseldorf Süd - Kunst am Fluss - einstimmig beschlossen
+- TOP 11.2: Heimatverein Werstener Jonges e.V. - Aufarbeitung des Sternmotors in Zusammenarbeit mit dem Albrecht-Dürer-Berufskolleg - einstimmig beschlossen
+- TOP 11.3: GGS Steinkaul - Präventionstheater "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 11.4: Repräsentationen 2024 - einstimmig beschlossen
+- TOP 11.5: Närrische Frauen Himmelgeist e. V. - Gardekostüme 2024 - einstimmig beschlossen
+- TOP 11.6: Evangelisches Jugendzentrum im Hinterhof - Schaukasten 2024 - einstimmig beschlossen
+- TOP 11.7: Ev. Montessori Kinderhaus Leichlinger Straße - Selbstbehauptungs- und Resilienzkurs 2024 - einstimmig beschlossen
+- TOP 11.8: Schützenbruderschaft St. Cäcilia Benrath - Gestaltung Schützenplatz - einstimmig beschlossen
+- TOP 11.9: Heimatgemeinschaft Groß-Benrath e.V. - Anschaffung einer Druckerpresse zur Lilli-Marx-Ausstellung 2024 - einstimmig beschlossen
+- TOP 11.10: Paulsmühler Jecken e.V. - Veedelszoch 2024 - einstimmig beschlossen
+- TOP 11.11: Spielmannszug Benrath - Anschaffung Jacken 2024 - einstimmig beschlossen
+- TOP 11.12: XU-Kulturprojekt e.V. - Ausstellung Ost:West-Brücken Bauen 2024 - einstimmig beschlossen
+- TOP 11.13: GGS Urdenbach - Zirkusprojekt "Zirkus ohne Grenzen" 2024 - einstimmig beschlossen
+- TOP 11.14: LT Düsseldorf-Süd e. V. - 16. Benrather Schlosslauf 2024 - einstimmig beschlossen
+- TOP 11.15: KG Reisholzer Quatschköpp - Veedelszoch 2024 - einstimmig beschlossen
+- TOP 11.16: SV Wersten 1964 e. V. - Schachseminar 2024 - einstimmig beschlossen
+- TOP 11.17: KGS Buchenstraße - "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 12: Informationsvorlagen
+- TOP 12.1: Abschaltung der Bedarfsanforderung an der Kreuzung Münchener/ Ickerswarder Straße - Beschluss der Bezirksvertretung 9 vom 04.11.2022; BV9/225/2022 - zur Kenntnis genommen
+- TOP 12.2: Sachstandsbericht zu Auswirkungen der Marktraumumstellung auf die Gasbeleuchtung - Beschluss der Bezirksvertretung 9 vom 28.01.2022; BV9/026/2022 - zur Kenntnis genommen
+- TOP 12.3: Kappeler Straße - Tempo 30 zw. Brücke Münchener Straße und Marbacher Straße - Beschluss der Bezirksvertretung 9 vom 03.11.2023; BV9/227/2023 - zur Kenntnis genommen
+- TOP 12.4: Sichtbehinderndes Parken in Kurvenbereichen - Beschluss der Bezirksvertretung 9 vom 03.11.2023; BV9/229/2023 - zur Kenntnis genommen
+- TOP 12.5: Masterplan Kinderspielplätze - Auswahl von Maßnahmen für das Haushaltsjahr 2025 - zur Kenntnis genommen
