@@ -1,0 +1,1 @@
+# Verordnung (EU) 2022/612 des Europäischen Parlaments und des Rates über das Roaming in öffentlichen Mobilfunknetzen in der Union (Neufassung)
