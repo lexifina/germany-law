@@ -1,0 +1,77 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-05T14:33:00+01:00
+- Ende: 2024-02-05T15:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29629
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29629
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.11.2023 - Kenntnis genommen
+- TOP 2.3: 40. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.4: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 2.5: Aufteilung der Mittel des Strukturförderfonds 2024 - Kenntnis genommen
+- TOP 2.6: Umwandlung der Rechtsform des NRW KULTURsekretariats in einen Zweckverband - Kenntnis genommen
+- TOP 2.7: Start des verwaltungsinternen Haushaltsaufstellungsverfahrens - Kenntnis genommen
+- TOP 2.8: Kölner Verkehrs-Betriebe AG: Bürgschaftserklärung Anschlussfinanzierung Nord-Süd-Stadtbahn-Darlehen - Kenntnis genommen
+- TOP 2.9: ÖPNV-Gesamtbericht der Stadt Köln gemäß Art. 7 Abs. 1 Verordnung (EG) 1370/2007, geändert durch Verordnung (EU) 2016/2338 - Kenntnis genommen
+- TOP 2.10: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 2.11: Strukturförderfonds 2023/2024 - Förderprogramm des Kulturamtes 2024 - Kenntnis genommen
+- TOP 2.12: Ergebnisse der Prüfung einer möglichen Anwendung der Grundsteuer C in Köln - Kenntnis genommen
+- TOP 2.13: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.12.2023 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Haushaltsrechtliche Unterrichtung - Kenntnis genommen
+- TOP 6.2.2: Umgestaltung Platz an der Herler Straße in Buchheim - Kenntnis genommen
+- TOP 6.3: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2025 bis 2027 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Ersatz von vier Kolonnenfahrzeugen als Elektrofahrzeuge, hier Ersatzbeschaffung von 3 Kolonnenfahrzeugen sowie Umrüstung von einem Kolonnenfahrzeug für - ungeändert beschlossen
+- TOP 7.2: Prioritätenliste Kunststoffrasen #6: Planungsbeschluss Generalsanierung Sportanlage Bieselwald - ungeändert beschlossen
+- TOP 7.3: Prioritätenliste Kunststoffrasen #8: Planungsbeschluss Generalsanierung Sportanlage Am Damm - zurückgestellt
+- TOP 7.4: Räumliche Einbauten und Vitrinen für die Ausstellung "Faszination Schmuck. 7000 Jahre Schmuckkunst im MAKK" - ungeändert beschlossen
+- TOP 7.5: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - unter Vorbehalt beschlossen
+- TOP 7.6: Einrichtung und Mittelfreigabe für den Erweiterungsbau des Barbara-von-Sell-Berufskollegs, Niehler Kirchweg 118 in Köln-Nippes - unter Vorbehalt beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - endgültig zurückgezogen
+- TOP 10.2: Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch: - geändert beschlossen
+- TOP 10.2.1: Änderungsantrag zu TOP 10.2 - Auf dem Ginsterberg 2 - 34 in 50737 Köln Weidenpesch (2814/2023) - ungeändert beschlossen
+- TOP 10.3: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - ohne Votum in nachfolgende Gremien
+- TOP 10.3.1: Bedarfsfeststellung für ein Zentraldepot der Museen der Stadt Köln + erweiterte Grundlagenermittlung - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Anregung der Bezirksvertretung Nippes, Bürgerzentrum Turmstraße, Entsiegelung - geändert beschlossen
+- TOP 10.5: Änderung des Planungsbeschlusses für die Generalsanierung der Bezirkssportanlage Thuleweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 10.6: Brandschutzsanierung und Neugestaltung der Stadtbahnhaltestelle Bf Deutz/Messe - ungeändert beschlossen
+- TOP 10.7: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - zurückgestellt
+- TOP 10.8: Bedarfsfeststellungsbeschluss über die Vergabe von vier Rahmenvereinbarungen für die Restaurierung und Digitalisierung von Großformaten - ungeändert beschlossen
+- TOP 10.9: Schulrechtliche Errichtung einer 3-zügigen Grundschule am Standort Friedrich-Karl-Straße 64, 50737 Köln-Weidenpesch, bei gleichzeitiger Änderung der Montessori-Grundschule GGS Gilbachstr. - ungeändert beschlossen
+- TOP 10.10: Baubeschluss Generalsanierung des Römisch-Germanischen Museums der Stadt Köln, Roncalliplatz 4, 50676 Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.10.1: Änderungsantrag TOP 4.5 – Baubeschluss Generalsanierung des Römisch-Germanischen Museums der Stadt Köln, Roncalliplatz 4, 50667 Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Trierer Str. o. Nr., 50674 Köln-Neustadt/Süd - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 10.12: Stadtentwässerungsbetriebe Köln (StEB Köln), AöR: Abwasserbeseitigungskonzept (ABK), - ungeändert beschlossen
+- TOP 10.13: Erweiterter Planungsbeschluss für die Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Friesenplatz - zurückgestellt
+- TOP 10.14: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2024 - ungeändert beschlossen
+- TOP 10.15: Mitgliedschaft der Stadt Köln in der Genossenschaft ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen IT-Dienstleister eG - ungeändert beschlossen
+- TOP 10.16: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche eines Investors*einer Investorin mit Grundstück zur Planung und Errichtung einer Sporthalle mit 3 Sportübungseinheiten im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 10.17: Durchführung eines europaweiten Ausschreibungsverfahrens zur Suche einer Investorin oder eines Investors mit Grundstück zur Planung und Errichtung eines Gesamtschulgebäudes für den Stadtbezirk Nippes - hier: Ersatz der Vorlage 0604/2023 - endgültig zurückgezogen
+- TOP 10.18: 4. Satzung zur Änderung der Satzung zur Erhebung einer Kulturförderabgabe im Gebiet der Stadt Köln vom 18.11.2014 - ungeändert beschlossen
+- TOP 10.19: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 10.20: Einrichtung des Interims für das Gymnasium Rondorf, Eygelshovener Str. 19, 50999 Köln - ungeändert beschlossen
+- TOP 10.21: Zuschussgewährung "Tag des guten Lebens" 2024 - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2022 - ungeändert beschlossen
+- TOP 10.23: Zuschuss für Rosenmontagszug und die Straßendekoration an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
