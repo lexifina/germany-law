@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-02-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7950868
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7950868
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 09.01.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: (A) Mieterbeiratswahl 2024 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 2.5.: (A) Satzungsänderung: MVG-Zeitkarten für Bezirksausschussmitglieder
+- TOP 2.6.: Bestellung der/des stellvertretenden Unterausschussvorsitzenden Mobilität
+- TOP 2.7.: Wahl der/des neuen Vorsitzenden des Unterausschusses Umwelt
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München Solln e.V.: Erstellung eines Basketspielfeldes 23.581,00€; Az. 0262.0-19-0486
+- TOP 3.3.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Picknicktische und -bänke östlich vom Flugzeugspielplatz in Obersendling
+- TOP 3.4.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V.: Sozialraumkarten vom 01.01. bis 30.06.2024 6.475,00 Euro, Az.: 0262.0-19-0490
+- TOP 3.5.: (E) Stadtbezirksbudget HIDALGO gGmbH: Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 2.100,00€; Az. 0262.0-19-0498
+- TOP 3.6.: (E) Stadtbezirksbudget Leocor gGmbH: Naturgartentreff und Hummelkioske von Februar bis Dezember 2024 1.130,00€; Az. 0262.0-19-0497
+- TOP 3.7.: (E) Stadtbezirksbudget Imkerverein München und Umgebung e.V.: Neue Schleuder und Asbest-Entsorgung vom 21.02. bis 30.03.2024 2.918,80 Euro / Az. 0262.0-19-0499
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (BV) Installierung von Mülleimern bei der Bushaltestelle am Ratzinger Platz
+- TOP 4.4.: (Antrag) Lärmschutz Bezirkssportanlage Thalkirchen
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verbesserung der Kreuzung Noestraße / Wolfratshauser Straße
+- TOP 5.1.2: Verbesserung der Verkehrssituation beim Leeren der Container an der Forstenrieder Allee 120
+- TOP 5.1.3: Kurzparkzone und Haltverbot Forst-Kasten-Allee
+- TOP 5.2.: (BV) Freihalten von Gehwegen durch Grundstückseigentümer
+- TOP 5.3.: (BV) Schaffung von Fahrradabstellplätzen in Obersendling
+- TOP 5.4.: (A) Kurzparkplätze Koppstraße
+- TOP 5.5.: (Antrag) Tempolimit auf der A95
+- TOP 5.6.: Verkehrstechnische Untersuchung Solln
+- TOP 5.7.: (Antrag) Parkregelung in der Drygalski-Allee
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Boschetsrieder Straße 119 (VB)
+- TOP 6.2.2: Herterichstraße 57a
+- TOP 6.2.3: Zentralländstraße 40
+- TOP 6.2.4: Lichtenbergerweg 6 (T)
+- TOP 6.2.5: Appenzeller Straße 94 (VB)
+- TOP 6.2.6: Stäblistraße 45 (T)
+- TOP 6.2.7: Moraltstraße 7a (VB)
+- TOP 6.2.8: Badstraße 16 (VB)
+- TOP 6.2.9: Züricher Straße 100-238 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Baustopp Kinderhaus Herterichstr. 30
+- TOP 7.2.: (A) Einrichtung eines Kommunikationszentrums für Krebskranke Empfehlung Nr. 20-26 / E 01516 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 26.10.2023 Sitzungsvorlage Nr. 20-26 / V 11928
+- TOP 7.3.: (BV) Öffentlicher Heil- und Sinnesgarten im Siemens-Sportpark
+- TOP 7.4.: (BV) Erhalt der Grünfläche am Hermann-Hahn-Platz Modernisierung der Spielplätze Schuchwäldchen, Stockmannstraße und Allescherstraße
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 5.1.4: Tölzer Straße an aktuelle Anforderungen anpassen
+- TOP 8.2.: -NACHTRAG- (A) Circus Gastspiel an der Forstenrieder Allee, Flst. 23/0
+- TOP 5.1.5: Ampelschaltung Kreuzung Drygalski-Allee - Züricher Straße – Kistlerhofstraße
+- TOP 8.3.: -NACHTRAG- (U) Verkaufsstand an der Forstenrieder Allee, Flst. 23/0
+- TOP 7.5.: -NACHTRAG- (Antrag) Aufstockung des Personals in der künftigen Freizeitstätte im Jungen Quartier Obersendling
+- TOP 0.1.: Test
