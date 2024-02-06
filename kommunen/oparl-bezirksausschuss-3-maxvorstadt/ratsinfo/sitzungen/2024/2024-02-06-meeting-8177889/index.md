@@ -1,0 +1,148 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8177889
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8177889
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: AIRBNB Angebot in der Maxvorstadt, Adamstraße 4, Hinterhof. Zweckentfremdung prüfen und ggf. sanktionieren.
+- TOP 6.2.: entfällt
+- TOP 6.3.: Einsatz des Stadtklimamodells „PALM-4U“
+- TOP 6.4.: Was unternimmt die LH München gegen die jahrelangen Wohnungsleerstände infolge von Bauanträgen?
+- TOP 6.5.: Antwort auf Nachfrage bzgl. der Mittel für die Maßnahme Modifizierte Alternative 5 des Mehrjahresinvestitionsprogramms 2023-2027
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Hausverkauf Schleißheimer Straße 75
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 51 - 52 und KW 01 - 03 von 2024
+- TOP 2.1.2.: WEB-Liste der LBK: KW 01 - 02
+- TOP 2.1.3.: Veterinärstr. 8: Sanierung eines denkmalgeschützten Wohngebäudes, Nutzungsänderung von einem Mehrfamilienhaus in ein Einfamilienhaus, Neubau eines Rück- und Verbindungsgebäudes mit Unterkellerung, Abbruch des best. Werkstattgebäudes (Kaulbachstr. 41 / Veterinärstr. 8)
+- TOP 2.1.4.: Schleißheimer Str. 4: Nutzungsänderung und Aufstockung eines bestehenden Rückgebäudes mit Büro in eine Wohneinheit - VORBESCHEID
+- TOP 2.1.5.: Karlstr. 20: Umbau, Sanierung und Umnutzung von Flüchtlingsunterkunft ( 2016-2018, zuvor Verwaltung) zu Wohnen
+- TOP 2.1.6.: Gabelsbergerstr. 26: Umbau und Sanierung eines Wohn- und Geschäftshauses - VORBESCHEID
+- TOP 2.1.7.: Schönfeldstr. 30: Energetische Sanierung des Bestandes, Erneuerung und Ausbau des Dachstuhles zu einer Wohneinheit, mit zwei Dachterrassen und Dachgauben I 15.02.2024
+- TOP 2.1.8.: Augustenstr. 3: Anbau von Balkonanlagen mit Einbau Austrittsgauben, Ertüchtigung Dach-stuhl, Rückbau Gauben und Rettungsbalkone I 15.02.2024
+- TOP 2.1.9.: Augustenstr. 43: Nutzungsänderung Einheit E5 von Bürofläche in gewerbliches Wohnen auf Zeit ("Boarding-House") mit 4 Wohn-Schlafräumen I 15.02.2024
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative "Hochbeete" Hochbeete in der Georgenstraße vom 01.03. - 15.08.2024 1.639,30 Euro, Az.: 0262.0-3-0493
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative "Baumscheiben" Umwandlung von 2 Baumscheiben in der Schleißheimer Straße 73 und 130 in Staudenbeete vom 01.04. - 31.08.2024 1.252,80 Euro, Az.: 0262.0-3-0508
+- TOP 2.2.3.: (E) Stadtbezirksbudget Initiative "Artenschutz" Artenschutz an der Blumenwiese in der Georgenstraße vom 01.04. - 31.08.2024 579,40 Euro, Az.: 0262.0-3-0510
+- TOP 2.2.4.: (E) Stadtbezirksbudget Initiative "Grünpaten-Leihwerkzeuge" Anschaffung von Grünpatenleihwerkzeuge vom 01.03. - 31.05.2024 219,36 Euro, Az.: 0262.0-3-0509
+- TOP 2.3: BV Empfehlungen
+- TOP 2.3.1.: (E) Müllsituation am Königsplatz
+- TOP 2.3.2.: (E) Fehlende Mülleimer bei Grünflächen
+- TOP 2.3.3.: (E) Größeren Papierkorb Luisenstraße Ecke Karlstraße
+- TOP 2.4: Anhörung
+- TOP 2.4.1.: Verbot von Laubbläsern mit Verbrennungsmotor
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 07.01.2024 auf dem Grundstück Theresienstr. 60
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 5.2.: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 5.3.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 5.4.: entfällt
+- TOP 5.5.: Abdruck Baugenehmigung Augustenstr. 73
+- TOP 5.6.: Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 Gliederungsziffern 3601 Baum- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 5,7 und 21
+- TOP 5.7.: Geförderter Wohnungsbau in München Bekanntgabe der Mietfachstelle für die Jahre 2020 – 2022 a) Förderung bis zum 31.12.2001 - Klassischer 1. Förderweg (Mietpreisprüfungen) b) Förderungen ab dem 01.01.2002 - „Wohnen in München“ (Prüfung der Miete
+- TOP 5.8.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.08.2022 – 31.07.2023
+- TOP 5.9.: BA 3 Info Ergebnisse der Machbarkeitsstudie Begrünung im Straßenraum
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Fahrrad- und Fußgängerfreundliche Kreuzung am Lenbachplatz
+- TOP 1.2.2.: Wassergebundener Kies am Königsplatz
+- TOP 1.2.3.: Provisorische Toiletten am Josephsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kfz-Stellplatzumwandlung in der Arnulfstraße zugunsten der Herstellung von bauzeitlichen Fahrradstellplätzen
+- TOP 2.1.2.: Prinz-Ludwig-Straße.Zeichen 286 StVO., 3. Stadtbezirk
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Augustenstraße 37, Pretty Bun, Antrag auf FSF
+- TOP 2.3.2.: BA 3 Vorlage für die Sitzung am 06.02.2024 - Antrag auf Kleinstfläche: Erlaubnisfreie Gaststätte "Tillu coffee", Augustenstr. 106
+- TOP 2.3.4.: erl. freie Gaststätte: "Patatez-Kumpir", Dachauerstr. 149, 80335 München, Antrag auf FSF
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Antwort auf Bürger*innenanliegen Fahrradabstellplätze an der Kreuzung Blüten-/Nordendstr.
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Sammelbeschluss Ressourcenausweitungen für 2024 Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung; 43122300 Straßenverkehr Beschluss über die Finanzierung ab 2024
+- TOP 3.4.: Zweitschriften Sitzungsvorlage 20-26 / V 11938 "On-Demand-Mobilität für die LHM, Einstieg Mobilitätsangebote"
+- TOP 3.5.: Antwort auf Bürger*innenanliegen: Errichtung von Fahrradabstellanlagen
+- TOP 3.6.: Antwort des Oberbürgermeisters auf Antrag eines mobilen Fahrradständers
+- TOP 3.7.: (U) Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids
+- TOP 3.8.: ÖPNV-Bauprogramme a) Sachstandsbericht zum 1. & 2. ÖPNV-Bauprogramm b) Finanzierung Fortschreibung der Kosten des 1. & 2. ÖPNV-Bauprogramms Anmeldung des 3. ÖPNV-Bauprogrammes
+- TOP 3.9.: Arbeiten im Straßenraum; Lothstr. zw. Heßstr. und Infanteriestr. (Einbau einer Gasleitung)
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Zwischennutzung in der Pappenheimstr. 14
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.: (E) Weitere Tischtennisplatten für den Königsplatz
+- TOP 2.3.: (E) Verbesserung der Beleuchtung auf der Sportanlage am Alten Nordfriedhof
+- TOP 2.1.: (E) Ausbau der Spielkapazitäten an den Tischtennisplatten am Nordfriedhof
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Dienststellenverständigung - Haus für Kinder an der Katharina-von-Bora-Str. 8c
+- TOP 4.2.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 4.3.: entfällt
+- TOP 4.4.: Information der Anwohnerschaft zur Unterkunft für Geflüchtete in der Nymphenburger Str. 48
+- TOP 4.5.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz"!) am 14.09.2024 1.600,00 Euro, Az.: 0262.0-3-0504
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Klangkunst" KlangKunst - Konzert und Vernissage vom 30.04. - 01.05.2024 734,75 Euro, Az.: 0262.0-3-0506
+- TOP 2.3.: (E) Stadtbezirksbudget Kath. Kirchenstiftung St. Joseph Chor- und Orchesterkonzert am 13.10.2024 1.000,00 Euro, Az.: 0262.0-3-0512
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Kinder- und Bürgerfest am 20.07.2024: Ort?
+- TOP 1.2.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.11.2023 a) Rechte der Bezirksausschüsse beim Baumschutz stärken Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirks 21 – Pasing-Obermenzing am 15.03.2023 b) Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren BA-Antrags-Nr. 20-26 / B 04834 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 08.12.2022 c) Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrags-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirks 06 – Sendling vom 05.12.2022 d) Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund BA-Antrags-Nr. 20-26 / B 05899 des Bezirksausschusses des Stadtbezirks 15 – Trudering-Riem vom 21.09.2023 e) Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 1.3.: Sommerstraße Adamstraße 2024
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.2.1.: Erinnerungsverfahren Schleißheimer Str. 105
+- TOP 2.3.3.: erlaubnisfreie Gaststäfte,,delicious burgef&#039;, Augustenstr. 107, 80978 München - Freischankfläche
+- TOP 1.6.: Mieterbeiratswahl 2024 - Entsendung stimmberechtigtes Mitglied
+- TOP 4.1.: Dienststellenverständigung - Haus für Kinder an der Katharina-von-Bora-Str. 8c
+- TOP 4.2.: (U) Stadtübergreifender Ausstellungsort für Subkultur im Kunstareal Empfehlung Nr. 20-26 / E 01625 der Bürgerversammlung des Stadtbezirks 03 – Maxvorstadt am 15.11.2023, eingegangen am 15.11.2023
+- TOP 1.2.1.: Eilantrag Grüne und SPD vom 06.05.2024 Sofortige Einbindung des BA in die weitere Entwicklung der Zwischennutzung des Gesundheitshauses
+- TOP 1.1.2.: Brunnen Neureuther Platz Bürger*innenanliegen vom 04.01.2024
+- TOP 1.7.: (E) + (U) Bürger dürfen bei der nächsten Versammlung ihre Ergebnisse aus Anträgen vortragen
