@@ -1,0 +1,86 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968759
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968759
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Ergebnisse Regsam-Schwerpunktgebiet Inklusion
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Zustand der Haltestelle der Buslinie 153 "Donnersbergerbrücke"
+- TOP 4.2.: Bezuschussung Sidewalkcultures-Festival 2024
+- TOP 4.3.: Kazmair Allee - Parkprobleme Kazmairstr.
+- TOP 4.4.: Parkverhalten vor dem Kinderhaus Kazmairstr. 66
+- TOP 4.5.: Bereitstellung von Klimmzug- und Dip-Stangen im Westend, Theresienwiese, Bavariapark oder am Quartiersplatz
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Trappentreustraße Fl.Nr. 8422
+- TOP 6.2.2.: Bauvorhaben Heimeranstraße 65
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Mieterbeiratswahl 2024 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Sport für alle, kostenlos und niederschwellig - Einrichtung von barrierearmen Outdoor Fitnessgeräten für alle Altersgruppen in der Schwanthalerhöhe
+- TOP 7.3.2.: Anwohner*innen-Information zur Unterkunft für Geflüchtete in der Ridlerstraße 13 und 15
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Tischtennisturnier des BA8 am 29.06.24
+- TOP 8.3: Unterrichtungen
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Max-Hirschberg-Weg/Hans-Fischer-Straße: Gefährliche Fuß- und Fahrradweg-Kreuzung entschärfen
+- TOP 9.1.2.: (E) + (U) Gollierplatz: Bessere Visualisierung der Tempo-30-Zone durch Aufstellen von Verkehrszeichen „Höchstgeschwindigkeit 30 km/h“
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Ganghoferstraße 35
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Mehr Aufenthaltsqualität für den Heimeranplatz
+- TOP 9.3.1.1: Umgestaltung und Aufwertung des Heimeranplatzes
+- TOP 9.3.2.: Temporäre Behindertenparkplätze Karl-Spengler-Str. 7
+- TOP 9.3.3.: Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle; Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids u.a. in der Ridlerstraße Sitzungsvorlagen Nr. 20-26 / V 12113
+- TOP 9.3.4.: Pilotversuch „Gelbe Systeme“ ab 01.02.2024
+- TOP 9.3.5.: Baumaßnahmen SWM
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarten von Ende November 2023 - April 2024 5.800,00 Euro, Az.: 0262.0-8-0371
+- TOP 10.1.2.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 1.600,00€; Az. 0262.0-8-0384
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Höhe Stadtbezirksbudget 2024
+- TOP 10.3.2.: - NACHTRAG - (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Informationsschreiben Umgang mit Spenden
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 9.3.6.: -NACHTRAG- Entfernung eines Hochbeetes an der Ecke Holzapfel-/Westendstraße
+- TOP 10.1.1.1: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V.; Sozialraumkarten von Ende November 2023 - April 2024 - Prüfung der Fördermöglichkeit durch das Sozialreferat
+- TOP 7.3.3.: - NACHTRAG - REGSAM-Schwerpunktarbeit ab 2025
+- TOP 6.3.2.: - NACHTRAG - Bauvorhaben Bergmannstraße 13 - Bescheid
+- TOP 9.3.7.: - NACHTRAG - Das Bürgerschaftliche "Sommerprojekt Kazmairallee" verstetigen
+- TOP 4.6.: - NACHTRAG - Schließung der Unterkunft Ankerzentrum Garmischer Straße 2; Schüler*innen der Grundschule Schwanthalerstr. 87 betroffen
+- TOP 6.3.3.: - NACHTRAG - Hotel Krone, Theresienhöhe 8; Nutzung Frühstücksraum
+- TOP 6.3.4.: - NACHTRAG - Gollierstraße 4; Belästigung durch Foyerbeleuchtung
+- TOP 7.3.4.: - NACHTRAG - Anlaufstelle Inklusion für die Schwanthalerhöhe
+- TOP 7.3.5.: - NACHTRAG - Protokoll der öffentlichen Sitzung des Mieterbeirates vom 22.01.2024
+- TOP 9.3.8.: - NACHTRAG - Fernwärmeanschluss Schwanthalerstraße 119 - Vollsperrung
+- TOP 10.1.3.: - NACHTRAG - (E) Stadtbezirksbudget Evang.-Luth. Dekanatsbezirk München, Evang. Migrationszentrum im Griechischen Haus Lesung mit Alois Prinz im Rahmen der Internationalen Wochen gegen Rassismus vom 20.03.2024 986,00 Euro / Az. 0262.0-8-0385
+- TOP 10.1.4.: - NACHTRAG - (E) Stadtbezirksbudget Initiative "Strandkorb.Laden für neue Perspektiven." Konzert und Text "Spui&#039;maNovas - bavarian grooves and more" vom 18.07.2024 618,00 Euro / Az. 0262.0-8-0386
