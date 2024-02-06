@@ -17,8 +17,7 @@
 - [§ 8 Anrufung des Oberlandesgerichts](0008.md)
 - [§ 9 Mitwirkung des Jugendamts an Verfahren](0009.md)
 
-## Abschnitt 3 Gerichtliche Zuständigkeit und
-Zuständigkeitskonzentration
+## Abschnitt 3 Gerichtliche Zuständigkeit und Zuständigkeitskonzentration
 
 - [§ 10 Örtliche Zuständigkeit für die Anerkennung und Vollstreckung](0010.md)
 - [§ 11 Örtliche Zuständigkeit nach dem Haager Kindesentführungsübereinkommen](0011.md)
@@ -34,8 +33,7 @@ Zuständigkeitskonzentration
 ## Abschnitt 5 Zulassung der Zwangsvollstreckung, Anerkennungsfeststellung und Wiederherstellung des Sorgeverhältnisses im Anwendungsbereich des Haager Kinderschutzübereinkommens und des Europäischen Sorgerechtsübereinkommens
 
 
-### Unterabschnitt 1 Zulassung der Zwangsvollstreckung im
-ersten Rechtszug
+### Unterabschnitt 1 Zulassung der Zwangsvollstreckung im ersten Rechtszug
 
 - [§ 16 Antragstellung](0016.md)
 - [§ 17 Zustellungsbevollmächtigter](0017.md)
@@ -77,8 +75,7 @@ ersten Rechtszug
 
 - [§ 36 Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten](0036.md)
 
-## Abschnitt 6 Verfahren nach dem Haager
-Kindesentführungsübereinkommen
+## Abschnitt 6 Verfahren nach dem Haager Kindesentführungsübereinkommen
 
 - [§ 37 Anwendbarkeit](0037.md)
 - [§ 38 Besondere Verfahrensvorschriften](0038.md)
