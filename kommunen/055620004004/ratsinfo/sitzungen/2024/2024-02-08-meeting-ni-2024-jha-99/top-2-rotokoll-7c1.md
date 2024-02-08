@@ -1,0 +1,6 @@
+# TOP 2: Einwände gegen die letzte Niederschrift
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2024-02-08)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-JHA-99%7CProtokoll%7C1
