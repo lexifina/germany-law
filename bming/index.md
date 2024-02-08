@@ -1,5 +1,4 @@
-# Gesetz über die Rechtsverhältnisse der Mitglieder der
-Bundesregierung
+# Gesetz über die Rechtsverhältnisse der Mitglieder der Bundesregierung
 
 - [§ 1](0001.md)
 - [§ 2](0002.md)
