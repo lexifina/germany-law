@@ -12,6 +12,7 @@
 | § 4b | Zertifizierung in Bezug auf Drittstaaten |
 | § 4c | Pflichten der Transportnetzbetreiber |
 | § 4d | Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen |
+| § 4e | Zertifizierung des Betreibers einer Gasspeicheranlage |
 | § 5 | Anzeige der Energiebelieferung |
 | § 5a | Speicherungspflichten, Veröffentlichung von Daten |
 | § 5b | Anzeige von Verdachtsfällen, Verschwiegenheitspflichten |
@@ -173,11 +174,11 @@
 | Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit |
 | § 35a | Allgemeines |
 | § 35b | Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung |
-| § 35c | Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit |
+| § 35c | Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit |
 | § 35d | Freigabeentscheidung |
 | § 35e | Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung |
 | § 35f | Evaluierung |
-| § 35g | Inkrafttreten, Außerkrafttreten |
+| § 35g | Anwendungsbestimmungen |
 | § 35h | Außerbetriebnahme und Stilllegung von Gasspeichern |
 |  |
 | Teil 4 |

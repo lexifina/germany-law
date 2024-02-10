@@ -14,6 +14,7 @@
 - [§ 4b Zertifizierung in Bezug auf Drittstaaten](0004b.md)
 - [§ 4c Pflichten der Transportnetzbetreiber](0004c.md)
 - [§ 4d Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen](0004d.md)
+- [§ 4e Zertifizierung des Betreibers einer Gasspeicheranlage](0004e.md)
 - [§ 5 Anzeige der Energiebelieferung](0005.md)
 - [§ 5a Speicherungspflichten, Veröffentlichung von Daten](0005a.md)
 - [§ 5b Anzeige von Verdachtsfällen, Verschwiegenheitspflichten](0005b.md)
@@ -175,11 +176,11 @@
 
 - [§ 35a Allgemeines](0035a.md)
 - [§ 35b Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung](0035b.md)
-- [§ 35c Ausschreibung von strategischen Optionen zur Vorhaltung von Gas; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit](0035c.md)
+- [§ 35c Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit](0035c.md)
 - [§ 35d Freigabeentscheidung](0035d.md)
 - [§ 35e Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung](0035e.md)
 - [§ 35f Evaluierung](0035f.md)
-- [§ 35g Inkrafttreten, Außerkrafttreten](0035g.md)
+- [§ 35g Anwendungsbestimmungen](0035g.md)
 - [§ 35h Außerbetriebnahme und Stilllegung von Gasspeichern](0035h.md)
 
 ## Teil 4 Energielieferung an Letztverbraucher

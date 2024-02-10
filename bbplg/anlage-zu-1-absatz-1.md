@@ -161,8 +161,8 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 | 85 | Höchstspannungsleitung Güstrow – Wessin – Görries – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom Nennspannung 380 kV | A1, G |
 | 86 | Höchstspannungsleitung Emden Ost – Bundesgrenze (NL);Drehstrom Nennspannung 380 kV | A2 |
 | 87 | Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom, Nennspannung 380 kV mit den Bestandteilen |  |
-|  | –Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide | A1, F, G |
-|  | –Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin) |  |
+|  | –Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide |  |
+|  | –Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin) | A1, F, G |
 |  | –Malchow – Bezirke Mitte/Reinickendorf (Berlin) – Reuter | A1, F, G |
 |  | –Reuter – Teufelsbruch | F |
 | 88 | Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen – Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380 kV | A1 |
