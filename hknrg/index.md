@@ -1,4 +1,4 @@
-# Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung eines Herkunftsnachweisregisters für gasförmige Energieträger und eines Herkunftsnachweisregisters für Wärme oder Kälte aus erneuerbaren Energien
+# Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 - [§ 1 Zweck dieses Gesetzes](0001.md)
