@@ -1,0 +1,104 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-02-14T17:00:00+01:00
+- Ende: 2024-02-14T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6879
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6879
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=479136
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 28. Sitzung der BVV am 14.02.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 28. Sitzung der BVV am 14.02.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Schildower Straße im Waldseeviertel zukünftig als überörtliche Verbindungsstraße? - beantwortet
+- TOP 3.2: Bauvorhaben Schildower Straße - beantwortet
+- TOP 3.3: Aufwandsentschädigungen für ehrenamtlich in Reinickendorf engagierte Bürgerinnen und Bürger - beantwortet
+- TOP 3.4: Verkehrssicherheit, Neubau und Verdichtung am Schäfersee - Betonierung statt Renaturierung - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 28. Sitzung der BVV am 14.02.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Ausbleibende Verbesserungen Müllproblematik Räuschstraße/Holzhauser Straße Borsigwalde - beantwortet
+- TOP 5.2: Nachzahlungsbescheid für das Barbara-Schulz-Haus in Alt-Hermsdorf - beantwortet
+- TOP 5.3: Räumung Obdachlosen-Lagerstätte - beantwortet
+- TOP 5.4: Schulhausmeister - beantwortet
+- TOP 5.5: Wie wird die berlinweit zuletzt unpräziseste Bauüberhangserhebung in Reinickendorf zukünftig verbessert? - beantwortet
+- TOP 5.6: Sitzungen des Mobilitätsrats - beantwortet
+- TOP 5.7: Entwicklung Gebäude Avenue Charles de Gaulle 15 - beantwortet
+- TOP 5.8: Tempo-30-Regelung - beantwortet
+- TOP 5.9: Schulhof Borsigwalder Grundschule - beantwortet
+- TOP 5.10: Defekte Aufzüge - schriftlich beantwortet
+- TOP 5.11: Kita am Elchdamm - in der BVV zurückgezogen
+- TOP 5.12: Schulwegsicherheit Katholische-Schule Salvator - in der BVV zurückgezogen
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Baumpflanzungen in der Gorkistraße (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.2: Beet-Einfassungen und Sitzbänke um den Schinkelbrunnen sanieren (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.3: Daten aus Dialogdisplays der Öffentlichkeit zur Verfügung stellen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: 10-Minuten-Takt für den Bus 322 (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Unterbringung/Wohnsituation Geflüchteter in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 6.6: Integration Geflüchteter und Umsetzung der Schulpflicht (Große Anfrage) - vertagt
+- TOP 6.7: Rechtsanspruch Kita - Kann das der Bezirk leisten? (Große Anfrage) - vertagt
+- TOP 6.8: Verkehrszählgeräte (Beschlussempfehlung) - erledigt
+- TOP 6.9: Sicheres Radfahren auf der Bernauer Straße in Tegel (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.10: Parkplatz an der Sportanlage Königshorster Straße 15 (Beschlussempfehlung) - vertagt
+- TOP 6.11: Beschilderung S-Bhf. Hermsdorf (Beschlussempfehlung) - vertagt
+- TOP 6.12: Steganlagenkonzeption veröffentlichen (Beschlussempfehlung) - vertagt
+- TOP 6.13: Öffentliche Widmung der Straßen in der Cite Guynemer nicht ohne Vorleistung (Beschlussempfehlung) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Übergang Alt-Tegel/Treskowstraße barrierefrei machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Barrierefreie Überquerung der Illerzeile in Tegel ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Baumstammbarriere am "Tivoli" ersetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Programm "Nachhaltige Erneuerung" verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Fußgängerzone Gorkistraße - Felsenbrunnen wieder in Betrieb nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Barrierefreiheit für Sehbehinderte und Senior:innen im öffentlichen Straßenland verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Trampelpfad in der Grünanlage am Seggeluchbecken wieder begrünen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Halteverbot im Abbiegebereich Brunowstraße Ecke Buddestraße in Tegel ausweiten und durch "Zick-Zack-Linie" verdeutlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Rufbus für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Mülleimer am Nordgraben wieder aufstellen - in der BVV zurückgezogen
+- TOP 8.11: Krankenhausbeirat in der Vitanas Klinik für Geriatrie Märkisches Viertel gründen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Kita- und Tagespflegeplätze in Reinickendorf - vertagt
+- TOP 9.2: Resilienzstrategie in Reinickendorf umsetzen - vertagt
+- TOP 9.3: Wie stark leidet Reinickendorf unter der Finanzpolitik des Senats? - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Benennung von Mitgliedern der Bezirksverordnetenversammlung Reinickendorf für den bezirklichen Beirat an der Vitanas Klinik für Geriatrie Märkisches Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wahl eines Patientenfürsprechenden für die Klinik Medical Park Berlin Humboldtmühle - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Durchquerungsmöglichkeiten für Flughafengebiet - vertagt
+- TOP 11.2: Gebärdendolmetscher*innen für Bürger- und Standesämter - in der BVV abgelehnt
+- TOP 11.3: Sozialberatungen für Senior*innen ausweiten - in der BVV abgelehnt
+- TOP 11.4: Hitzehilfe für obdachlose Menschen in Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Gedenkstelle für Herbert Bauer erneuern - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Gemeinsam statt einsam: Einsame nicht allein lassen! - erledigt
+- TOP 11.7: Maßnahmen zum Hitzeschutz - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Obdachlosigkeit in Reinickendorf bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Ergänzung der Geschäftsordnung § 49 Abs. 3 - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Bildung und Gesellschaft e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - SOPRORO e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Heiligenseer Kanu-Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Schulfarm Insel Scharfenberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - RVP Saffonia e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Sondermittelantrag an die BVV für das Jahr 2024 - SC Tegeler Forst e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Auswahl der Quartiere für die Verausgabung der Mittel des Kiezfonds 2024 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: § 38 Geschäftsordnung - überwiesen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Bodenbelag in der Schramberger Straße sanieren - überwiesen
+- TOP 13.2: Austausch zwischen Künstlern aus Melle und Reinickendorf ermöglichen - überwiesen
+- TOP 13.3: Sicherer Gehweg in der Zeltinger Straße - überwiesen
+- TOP 13.4: Zufahrt Koca-Sinan-Moschee sanieren und barrierefrei gestalten - überwiesen
+- TOP 13.5: Begrünung von Baumscheiben - überwiesen
+- TOP 13.6: Mehr Sportangebote für Kinder und Jugendliche mit Behinderungen - überwiesen
+- TOP 13.7: Erstellung eines Tätigkeitsberichts der Integrationsbeauftragten - ohne Änderungen in der BVV beschlossen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Kunstrasen der EM-Fanmeile für bezirkliche Bolzplätze - überwiesen
+- TOP 14.2: Polizeipräsenz vor der Koca-Sinan-Moschee erhöhen! - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
