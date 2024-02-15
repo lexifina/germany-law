@@ -1,0 +1,8 @@
+# TOP 9: Aktuell praktizierte Handlungsansätze und potentielle Handlungsmöglichkeiten zur Reduzierung von Wohnungsleerständen i. V. m. dem Quartalsbericht III/2023 zur Wohnraumentwicklung
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen (2024-02-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/126907
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/59310
