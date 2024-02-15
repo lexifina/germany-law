@@ -1,0 +1,8 @@
+# TOP 9: Verfügungsfonds Ortsvorsteher 2024
+
+- Sitzung: 46. Sitzung des Ortschaftsrates Cossebaude (2024-02-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/197401
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/60547
