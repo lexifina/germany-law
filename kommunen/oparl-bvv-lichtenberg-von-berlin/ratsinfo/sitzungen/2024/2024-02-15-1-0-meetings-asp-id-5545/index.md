@@ -1,0 +1,65 @@
+# 26. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-02-15T17:00:00+01:00
+- Ende: 2024-02-15T20:13:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5545
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5545
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=386217
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Anpassung der Ausschüsse an die Mehrheits- und Stärkeverhältnisse - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Hausbäume für Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Sportstätte sichern, Rollsport fördern - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Entsorgung von Gartenabfällen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Nutzungszeiten für den Spielplatz in der Edgarstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Staat oder Staatenbund – Geschichte am sowjetischen Ehrenmal in Hohenschönhausen herausstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Gemeinsam stark: Für wohnungs- und obdachlose Menschen – und ihre tierischen Begleiter! - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: BVV-Sondermittel für das erste Bachfest der Ev. Paul-Gerhardt-Kirchengemeinde Lichtenberg in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: BVV Sondermittel für Wartenberger Osterlauf - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Teilhabe vegan lebender Kinder und Jugendlicher am Schulessen ermöglichen - überwiesen
+- TOP 5.11: Regierungsvorhaben eines Hauses des Engagements in Lichtenberg umsetzen - überwiesen
+- TOP 5.12: Boulebahnen für Karlshorst - überwiesen
+- TOP 5.13: Die Aufenthalts- und Wasserqualität am Barther und Wolfgangpfuhl sowie am Dorfteich Wartenberg in Lichtenberg nachhaltig verbessern - überwiesen
+- TOP 5.14: Höhere Verkehrssicherheit für die entstehende Grundschule am Blockdammweg 60-64 - überwiesen
+- TOP 5.15: Schutz der Fußgänger in der S-Bahn-Unterführung Rummelsburg - überwiesen
+- TOP 5.16: BVV vollständig über Bauvorhaben informieren - überwiesen
+- TOP 5.17: Büsche vor der JFE Pia Olymp radikal stutzen – Schutz vor Angriffen und mehr Sichtbarkeit für die Jugendfreizeiteinrichtung! - überwiesen
+- TOP 5.18: Öffnungszeiten des Familienbüros erweitern - überwiesen
+- TOP 5.19: Dialogdisplays für mehr Schulwegsicherheit - überwiesen
+- TOP 5.20: Am 15. Januar des Sturms auf die Stasi-Zentrale gedenken - überwiesen
+- TOP 5.21: Illegale Altkleidercontainer entfernen - überwiesen
+- TOP 5.22: Nachhaltige Insektenhotels für Lichtenberg errichten! - überwiesen
+- TOP 5.23: Werbefilm für mehr Lehrer:innen in Lichtenberg! - überwiesen
+- TOP 5.24: Klimaziele einhalten - Heizkosten in Schulen und öffentlichen Gebäuden senken - überwiesen
+- TOP 5.25: Zusagen einhalten: Baustelle Rheinpfalzallee verträglich für die Nachbarschaft organisieren - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Vorstandsmitgliedes - in der BVV abgelehnt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Valide Entscheidungsgrundlage schaffen - Verkehrsuntersuchung erweitern - überwiesen
+- TOP 10.2: Grundstück Massower Straße 3/Ecke Robert-Uhrig-Straße als öffentliche Grünfläche sichern - überwiesen
+- TOP 10.3: Sozialen Zusammenhalt im Bürgerhaushalt Lichtenberg in den Fokus rücken - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - erledigt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - im Ausschuss abgelehnt
+- TOP 13.1: Maßnahmen gegen Hundekot im Bereich Alt-Friedrichsfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge zur Beschlussfassung - erledigt
+- TOP 14.1: Schlaglöcher sanieren! - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Gedenkstätte der Sozialisten für Rollstuhlfahrer:innen zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Anlässlich des 35. Jahrestages des 15. Januar 1990: U-Bahnhof Magdalenenstraße (Campus für Demokratie) - ohne Änderungen in der BVV beschlossen
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
