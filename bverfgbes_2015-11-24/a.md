@@ -1,6 +1,6 @@
 # A.
 
-Mit Wirkung vom 1. Januar 2023 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
   1. des Asylrechts;
   2. des Aufenthaltsrechts und der internationalen Rechtshilfe in Strafsachen;
@@ -14,18 +14,16 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
   8. des Bußgeldverfahrens;
   9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
   1. des Vertriebenenrechts;
   2. des Körperschaftsteuerrechts und des Umwandlungssteuerrechts;
   3. des Waffenrechts;
   4. des Petitionsrechts;
   5. des Rechts der Zwangsversteigerung und der Zwangsvollstreckung im Sinne des Achten Buchs der Zivilprozessordnung (ZPO), wenn der angegriffene Hoheitsakt durch das Vollstreckungsgericht erlassen wurde und dieses nicht nur in unmittelbarer oder entsprechender Anwendung von § 769 Absatz 2 ZPO tätig geworden ist;
   6. des Insolvenzrechts (ausgenommen Verfahren, in denen eine Verletzung von Artikel 12 GG gerügt wird);
-  7. des Kaufrechts;
-  8. des Rechts des Versicherungswesens;
-  9. des sonstigen Deliktsrechts,
+  7. des sonstigen Deliktsrechts,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
   1. Allgemeines Persönlichkeitsrecht;
   2. Recht der Glaubens- und Bekenntnisfreiheit (Artikel 4 Absatz 1 und 2 GG);
   3. Recht der freien Meinungsäußerung, Informations-, Rundfunk- und Pressefreiheit (Artikel 5 GG);
@@ -50,7 +48,9 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2023 eingehen, aus d
   22. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
   23. Vollstreckung öffentlich-rechtlicher Forderungen;
   24. Wohnungseigentumsrecht;
-  25. Dienst- und Werkvertragsrecht,
+  25. Dienst- und Werkvertragsrecht;
+  26. Kaufrecht;
+  27. Recht des Versicherungswesens,
   jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
   1. bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
