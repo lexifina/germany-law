@@ -19,7 +19,7 @@
 - [§ 10 Im Jahresmittel einzuhaltende Emissionsgrenzwerte](0010.md)
 - [§ 11 Ableitungsbedingungen für Abgase](0011.md)
 - [§ 12 Behandlung der bei der Abfallverbrennung und Abfallmitverbrennung entstehenden Rückstände](0012.md)
-- [§ 13 Wärmenutzung](0013.md)
+- [§ 13 Energieeffizienz](0013.md)
 
 ## Abschnitt 3 Messung und Überwachung
 
@@ -27,9 +27,10 @@
 - [§ 15 Messverfahren und Messeinrichtungen](0015.md)
 - [§ 16 Kontinuierliche Messungen](0016.md)
 - [§ 17 Auswertung und Beurteilung von kontinuierlichen Messungen](0017.md)
-- [§ 18 Einzelmessungen](0018.md)
-- [§ 19 Berichte und Beurteilung von Einzelmessungen](0019.md)
+- [§ 18 Periodische Messungen](0018.md)
+- [§ 19 Berichte und Beurteilung von periodischen Messungen](0019.md)
 - [§ 20 Besondere Überwachung der Emissionen an Schwermetallen](0020.md)
+- [§ 20a Besondere Überwachung während Betriebszuständen außerhalb des Normalbetriebs](0020a.md)
 - [§ 21 Störungen des Betriebs](0021.md)
 - [§ 22 Jährliche Berichte über Emissionen](0022.md)
 
@@ -44,8 +45,11 @@
 - [§ 26 Zugänglichkeit und Gleichwertigkeit von Normen und Arbeitsblättern](0026.md)
 - [§ 27 Ordnungswidrigkeiten](0027.md)
 - [§ 28 Übergangsregelungen](0028.md)
-- [Anlage 1 (zu § 8 Absatz 1, § 18 Absatz 5 und § 20 Absatz 1)Emissionsgrenzwerte für Schwermetalle und krebserzeugende Stoffe](anlage-1.md)
-- [Anlage 2 (zu Anlage 1 Buchstabe d)Äquivalenzfaktoren](anlage-2.md)
-- [Anlage 3 (zu § 9, § 10 Absatz 2, § 16 Absatz 1 und 4, § 17 Absatz 1 und 5, § 18 Absatz 2, § 19 Absatz 2, § 21 Absatz 3, § 22 Absatz 1 und § 28 Absatz 5 und 6)Emissionsgrenzwerte für die Mitverbrennung von Abfällen](anlage-3.md)
+- [Anlage 1 (zu § 8 Absatz 1, § 18 Absatz 5 und 6 und § 20 Absatz 1)Emissionsgrenzwerte für Schwermetalle und krebserzeugende Stoffe](anlage-1.md)
+- [Anlage 2 (zu Anlage 1 Buchstabe d und e)Äquivalenzfaktoren – polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB](anlage-2.md)
+- [Anlage 2a (zu § 18 Absatz 3)Zu ermittelnde polybromierte Dibenzo-p-dioxine und Furane](anlage-2a.md)
+- [Anlage 3 (zu § 9, § 10 Absatz 2, § 16 Absatz 1 und 4, § 17 Absatz 1 und 5, § 18 Absatz 2, § 19 Absatz 2, § 21 Absatz 3 und § 22 Absatz 1)Emissionsgrenzwerte für die Mitverbrennung von Abfällen](anlage-3.md)
 - [Anlage 4 (zu § 15 Absatz 1, § 16 Absatz 1 und § 17 Absatz 5)Anforderungen an die kontinuierlichen Messeinrichtungen und die Validierung der Messergebnisse](anlage-4.md)
 - [Anlage 5 (zu § 2 Absatz 12)Umrechnungsformel](anlage-5.md)
+- [Anlage 6 (zu § 4 Absatz 1)Umweltmanagementsysteme](anlage-6.md)
+- [Anlage 7 (zu § 13 Absatz 3)Energieeffizienz von Abfallverbrennungsanlagen](anlage-7.md)

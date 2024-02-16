@@ -54,7 +54,7 @@ Tabelle 1
 | 5.5 | Messgeräte für strömendes Wasser |  |
 | 5.5.1 | Wasserzähler für Kaltwasser und ihre mechanischen Zusatzeinrichtungen mit Ausnahme der Einrichtungen nach Nummer 5.5.5 | 6 |
 | 5.5.2 | Wasserzähler für Warmwasser mit Ausnahme der Zähler nach Nummer 5.5.4 | 6 |
-| 5.5.3 | elektronische Zusatzeinrichtungen für Wasserzähler (Kalt- und Warmwasser), sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist | 8 |
+| 5.5.3 | elektronische Zusatzeinrichtungen für Wasserzähler (Kalt- und Warmwasser), sofern diese netzbetrieben sind und bei batteriebetriebenen Geräten die Lebensdauer der Batterie mindestens für diesen Zeitraum ausreicht oder ein Batteriewechsel ohne Verletzung von Kennzeichen möglich ist mit Ausnahme der Einrichtungen nach Nummer 6.8 | 8 |
 | 5.5.4 | Kondensatwasserzähler | 8 |
 | 5.5.5 | Einrichtungen zur Messwertübertragung einschließlich der zugehörigen Messwertgeber an Wasserzählern | nicht befristet |
 | 5.6 | Messgeräte für strömende Gase |  |

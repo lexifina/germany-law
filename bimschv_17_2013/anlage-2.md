@@ -1,6 +1,6 @@
-# Anlage 2 (zu Anlage 1 Buchstabe d)Äquivalenzfaktoren
+# Anlage 2 (zu Anlage 1 Buchstabe d und e)Äquivalenzfaktoren – polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB
 
-Für den nach Anlage 1 zu bildenden Summenwert für polychlorierte Dibenzodioxine, Dibenzofurane und di-PCB sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine, Furane und di-PCB mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren.
+Für den nach Anlage 1 zu bildenden Summenwert für polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB sind die im Abgas ermittelten Konzentrationen der nachstehend genannten Dioxine, Furane und dl-PCB mit den angegebenen Äquivalenzfaktoren zu multiplizieren und zu summieren.
 | Stoff | Äquivalenzfaktor |
 | Polychlorierte Dibenzodioxine (PCDD) | WHO-TEF 2005 |
 | 2,3,7,8 | – Tetrachlordibenzodioxin (TCDD) | 1 |

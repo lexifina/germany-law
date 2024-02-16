@@ -12,5 +12,5 @@
   i) | Ammoniak | 40 Prozent. |
   Für Quecksilber bezieht sich abweichend von Satz 1 Buchstabe h der genannte Prozentsatz auf die für den Tagesmittelwert festgelegte Emissionsbegrenzung und soweit für den kontinuierlich zu überwachenden Luftschadstoff keine für den Jahresmittelwert festgelegte Emissionsbegrenzung vorgegeben ist, bezieht sich Satz 1 insoweit auf die für den Tagesmittelwert festgelegte Emissionsbegrenzung.
 2. Abweichend von Nummer 1 bezieht sich der in Buchstabe d festgelegte Prozentsatz für Gesamtstaub auf die für den Halbstundenmittelwert festgelegte Emissionsbegrenzung, sofern die Emissionsbegrenzung einen Tagesmittelwert von 10 mg/m³ unterschreitet.
-3. Die validierten Halbstunden- und Tagesmittelwerte werden auf Grund der gemessenen Halbstundenmittelwerte und nach Abzug des in der Kalibrierung bestimmten Konfidenzintervalls bestimmt.
+3. Die validierten Halbstunden- und Tagesmittelwerte werden auf Grund der gemessenen Halbstundenmittelwerte und nach Abzug des in der Kalibrierung ermittelten erweiterten Messunsicherheit bestimmt.
 4. Die Halbstundenmittelwerte vor Abzug der in der Kalibrierung ermittelten Messunsicherheit (normierte Werte) müssen für die Zwecke der nach § 22 zu ermittelnden Jahresemissionsfrachten verfügbar sein.
