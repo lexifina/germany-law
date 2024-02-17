@@ -47,8 +47,8 @@ Abschnitt 3 Schutzanforderungen
 § 43 Protokollierung
 § 44 Kenntlichmachung innerhalb der Anstalt
 § 45 Erkenntnisse aus Beaufsichtigungs-, Überwachungs- und Kontrollmaßnahmen
-Abschnitt 4 Schutz von Berufsgeheimnisträgern
-§ 46 Berufsgeheimnisträger
+Abschnitt 4 Schutz von Berufsgeheimnisträgerinnen und Berufsgeheimnisträgern
+§ 46 Berufsgeheimnisträgerinnen und Berufsgeheimnisträger
 § 47 Offenbarungspflicht
 § 48 Offenbarungsbefugnis
 § 49 Benachrichtigung der Gefangenen über Offenbarungen
