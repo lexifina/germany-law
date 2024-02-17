@@ -24,10 +24,11 @@ Teil 3 Unterbringung und Versorgung der Untersuchungsgefangenen
 § 20 Gesundheitsfürsorge
 § 21 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 § 22 Medizinische Leistungen, Kostenbeteiligung
+§ 22a Schwangerschaft, Geburt, Mutterschaft
 § 23 Verlegung, Überstellung und Ausführung zur medizinischen Behandlung
 Teil 4 Arbeit, Bildung, Freizeit
 § 24 Arbeit und Bildung
-§ 25 Arbeitsentgelt und Ausbildungsbeihilfe, Taschengeld
+§ 25 Vergütung, Taschengeld
 § 26 Freizeit und Sport
 § 27 Zeitungen und Zeitschriften
 § 28 Rundfunk, Informations- und Unterhaltungselektronik
@@ -91,7 +92,7 @@ Teil 12 Aufbau der Anstalt
 § 78 Arbeitsbetriebe, Einrichtungen zur schulischen und beruflichen Bildung
 § 79 Anstaltsleitung
 § 80 Bedienstete
-§ 81 Seelsorger
+§ 81 Seelsorgerinnen und Seelsorger
 § 82 Medizinische Versorgung
 § 83 Mitverantwortung der Untersuchungsgefangenen
 § 84 Hausordnung
