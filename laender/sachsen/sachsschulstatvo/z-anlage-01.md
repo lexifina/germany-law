@@ -44,3 +44,7 @@ Abschnitt 3: Daten zu Abgängerinnen und Abgängern sowie Absolventinnen und Abs
 – Zeitform des Unterrichts
 – Fachrichtung
 – neu erworbener Abschluss
+Abschnitt 4: Daten zu Betreuungsangeboten für jede Schülerin und jeden Schüler der Klassenstufen 1 bis 4
+– Klassenstufe
+– Wochenstundenanzahl, die die Schülerin oder der Schüler in schulischen und außerschulischen Angeboten nach § 24 Absatz 4 des Achten Buches Sozialgesetzbuch verbringt
+– Art der Betreuungsangebote nach § 24 Absatz 4 des Achten Buches Sozialgesetzbuch.
