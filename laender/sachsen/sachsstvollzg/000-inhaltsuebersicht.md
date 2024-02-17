@@ -11,7 +11,7 @@ Teil 2 Aufnahme, Diagnose, Vollzugs- und Eingliederungsplanung
 § 8 Vollzugs- und Eingliederungsplanung
 § 9 Inhalt des Vollzugs- und Eingliederungsplans
 Teil 3 Unterbringung, Verlegung
-§ 10 Trennung von männlichen und weiblichen Gefangenen
+§ 10 Trennungsgrundsätze
 § 11 Unterbringung während der Einschlusszeiten
 § 12 Aufenthalt außerhalb der Einschlusszeiten
 § 13 Wohngruppenvollzug
@@ -73,6 +73,7 @@ Teil 10 Vergütung, Gelder der Gefangenen und Kosten
 § 62 Überbrückungsgeld
 Teil 11 Gesundheitsfürsorge
 § 63 Art und Umfang der medizinischen Leistungen, Kostenbeteiligung
+§ 63a Schwangerschaft, Mutterschaft, Geburt
 § 64 Durchführung der medizinischen Leistungen, Forderungsübergang
 § 65 Ärztliche Behandlung zur sozialen Eingliederung
 § 66 Gesundheitsschutz und Hygiene
@@ -117,7 +118,7 @@ Teil 18 Aufbau und Organisation der Anstalten
 § 98 Festsetzung der Belegungsfähigkeit, Verbot der Überbelegung
 § 99 Anstaltsleitung
 § 100 Bedienstete
-§ 101 Seelsorger
+§ 101 Seelsorgerinnen und Seelsorger
 § 102 Medizinische Versorgung
 § 103 Mitverantwortung der Gefangenen
 § 104 Hausordnung
