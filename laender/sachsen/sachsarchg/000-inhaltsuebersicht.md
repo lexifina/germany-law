@@ -3,7 +3,7 @@ Abschnitt 1 Führen der geschützten Berufsbezeichnung, Berufsaufgaben
 § 1 Berufsbezeichnungen
 § 2 Berufsaufgaben
 § 3 Berufspflichten
-§ 4 Pflichten der qualifizierten Brandschutzplaner
+§ 4 Pflichten der qualifizierten Brandschutzplanerinnen und Brandschutzplaner
 § 5 Architektenliste, Stadtplanerliste, Liste der qualifizierten Brandschutzplaner, Sachverständigenliste
 § 6 Listenführung
 § 7 Versagung der Eintragung
@@ -29,6 +29,7 @@ Abschnitt 3 Architektenkammer Sachsen
 § 24 Datenverarbeitung, Auskunft
 § 25 Finanzwesen der Architektenkammer Sachsen
 § 26 Versorgungswerk
+§ 26a Auskünfte
 § 27 Aufsicht
 § 28 Zusammenarbeit mit anderen Kammern
 Abschnitt 4 Ahndung von Berufsvergehen
@@ -41,7 +42,7 @@ Abschnitt 5 Besondere Regelungen für ausländische Abschlüsse
 § 33a Voraussetzungen für das Führen einer Berufsbezeichnung nach § 1 Absatz 1
 § 34 Eintragungsverfahren
 § 34a Ausgleichsmaßnahmen
-§ 35 Vorübergehende und gelegentliche Dienstleistungserbringung; Führen der Berufsbezeichnung durch auswärtige Architekten und Stadtplaner ohne Listeneintragung
+§ 35 Vorübergehende und gelegentliche Dienstleistungserbringung; Führen der Berufsbezeichnung durch auswärtige Architektinnen, Architekten, Stadtplanerinnen und Stadtplaner ohne Listeneintrag
 § 36 Anzeigeverfahren, Verzeichniseintragung, Berufspflichten
 Abschnitt 6 Europäischer Berufsausweis, gemeinsamer Ausbildungsrahmen, gemeinsame Ausbildungsprüfungen und Europäischer Vorwarnmechanismus
 § 36a Europäischer Berufsausweis

@@ -4,7 +4,7 @@ Das Studium nach § 5 Absatz 2 Satz 1 Nummer 2 muss je nach Fachrichtung folgend
 A. Für die Fachrichtung Architektur:
 I. Der Studiengang muss eine Regelstudienzeit von mindestens acht Semestern auf Vollzeitbasis oder einer entsprechenden Dauer auf Teilzeitbasis mit einem Diplom-, Master- oder Bachelorabschluss an einer deutschen Hochschule aufweisen.
 II. Bei einem Studiengang zu I müssen mindestens 240 ECTS-Leistungspunkte (Credit Points) in Studienfächern entsprechend Artikel 46 Absatz 2 Buchstabe a bis k der Richtlinie 2005/36/EG erworben werden, die folgende Anforderungen erfüllen:
-Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 1) sowie auf die beruflichen Fähigkeiten und Tätigkeiten des Architekten ausgerichtet sein.
+Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 1) sowie auf die beruflichen Fähigkeiten und Tätigkeiten der Architektin und des Architekten ausgerichtet sein.
 1.
 Zu den beruflichen Fähigkeiten gehören insbesondere folgende Methoden und Techniken:
 a)
@@ -42,7 +42,7 @@ Moderation, Gutachten, Wettbewerbe.
 B. Für die Fachrichtung Innenarchitektur
 I. Der Studiengang muss eine Regelstudienzeit von mindestens acht Semestern auf Vollzeitbasis oder einer entsprechenden Dauer auf Teilzeitbasis mit einem Diplom-, Master- oder Bachelorabschluss an einer deutschen Hochschule aufweisen.
 II. Bei einem Studiengang zu I müssen mindestens 240 ECTS-Leistungspunkte (Credit Points) in Studienfächern erworben werden, die folgende Anforderungen erfüllen:
-Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 2) sowie auf die beruflichen Fähigkeiten und Tätigkeiten des Innenarchitekten ausgerichtet sein.
+Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 2) sowie auf die beruflichen Fähigkeiten und Tätigkeiten der Innenarchitektin und des Innenarchitekten ausgerichtet sein.
 1.
 Zu den beruflichen Fähigkeiten gehören insbesondere folgende Methoden und Techniken:
 a)
@@ -76,7 +76,7 @@ Moderation, Gutachten, Wettbewerbe.
 C. Für die Fachrichtung Landschaftsarchitektur
 I. Der Studiengang muss eine Regelstudienzeit von mindestens acht Semestern auf Vollzeitbasis oder einer entsprechenden Dauer auf Teilzeitbasis mit einem Diplom-, Master- oder Bachelorabschluss an einer deutschen Hochschule aufweisen.
 II. Bei einem Studiengang zu I müssen mindestens 240 ECTS-Leistungspunkte (Credit Points) in Studienfächern erworben werden, die folgende Anforderungen erfüllen:
-Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 3) sowie auf die beruflichen Fähigkeiten und Tätigkeiten des Landschaftsarchitekten ausgerichtet sein.
+Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 3) sowie auf die beruflichen Fähigkeiten und Tätigkeiten der Landschaftsarchitektin und des Landschaftsarchitekten ausgerichtet sein.
 1.
 Zu den beruflichen Fähigkeiten gehören insbesondere folgende Methoden und Techniken:
 a)
@@ -118,7 +118,7 @@ Moderation, Gutachten, Wettbewerbe.
 D. Für die Fachrichtung Stadtplanung
 I. Der Studiengang muss eine Regelstudienzeit von mindestens acht Semestern auf Vollzeitbasis oder einer entsprechenden Dauer auf Teilzeitbasis mit einem Diplom-, Master- oder Bachelorabschluss an einer deutschen Hochschule aufweisen.
 II. Bei einem Studiengang zu I müssen mindestens 240 ECTS-Leistungspunkte (Credit Points) in Studienfächern erworben werden, die folgende Anforderungen erfüllen:
-Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 4) sowie auf die beruflichen Fähigkeiten und Tätigkeiten des Stadtplaners ausgerichtet sein.
+Die Inhalte des Studienganges müssen auf die Berufsaufgaben (§ 2 Abs. 4) sowie auf die beruflichen Fähigkeiten und Tätigkeiten der Stadtplanerin und des Stadtplaners ausgerichtet sein.
 1.
 Zu den beruflichen Fähigkeiten gehören insbesondere folgende Methoden und Techniken:
 a)
