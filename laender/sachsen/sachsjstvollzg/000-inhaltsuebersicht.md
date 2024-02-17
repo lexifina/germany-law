@@ -26,7 +26,7 @@ Teil 2 Planung des Vollzugs
 § 21 Hilfe zur Entlassung, Nachsorge
 § 22 Fortführung von Maßnahmen nach der Entlassung
 Teil 3 Unterbringung und Versorgung der Gefangenen
-§ 23 Trennung von männlichen und weiblichen Gefangenen
+§ 23 Trennungsgrundsätze
 § 24 Unterbringung während der Einschlusszeiten
 § 25 Aufenthalt außerhalb der Einschlusszeiten
 § 26 Wohngruppen
@@ -38,7 +38,7 @@ Teil 3 Unterbringung und Versorgung der Gefangenen
 § 32 Gesundheitsfürsorge
 § 33 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 § 34 Medizinische Leistungen, Kostenbeteiligung
-§ 35 (aufgehoben)
+§ 35 Schwangerschaft, Geburt, Mutterschaft
 § 36 Durchführung der medizinischen Leistungen, Krankenbehandlung in besonderen Fällen, Forderungsübergang
 Teil 4 Arbeitstherapeutische Maßnahmen, Arbeitstraining, schulische und berufliche Qualifizierungsmaßnahmen, Arbeit
 § 37 Arbeitstherapeutische Maßnahmen, Arbeitstraining, schulische und berufliche Qualifizierungsmaßnahmen, Arbeit
@@ -112,7 +112,7 @@ Teil 14 Aufbau der Jugendstrafvollzugsanstalt
 § 91 Einrichtungen zur schulischen und beruflichen Bildung, Arbeitsbetriebe
 § 92 Anstaltsleitung
 § 93 Bedienstete
-§ 94 Seelsorger
+§ 94 Seelsorgerinnen und Seelsorger
 § 95 Medizinische Versorgung
 § 96 Sozialtherapeutische Abteilung
 § 97 Mitverantwortung der Gefangenen
