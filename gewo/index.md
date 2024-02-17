@@ -237,3 +237,4 @@ Handwerkskammern, Innungsverbände
 - [§ 159 Übergangsregelung zu § 34a](0159.md)
 - [§ 160 Übergangsregelungen zu den §§ 34c und 34i](0160.md)
 - [§ 161 Übergangsregelung zu § 14 Absatz 4](0161.md)
+- [Anlage (zu § 36 Absatz 4a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage.md)
