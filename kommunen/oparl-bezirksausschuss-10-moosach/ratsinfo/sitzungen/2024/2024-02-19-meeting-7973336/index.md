@@ -1,0 +1,67 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973336
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973336
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 22.01.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Anträge zur Überprüfung und Verbesserung des Mieterschutzes in der Karlinger Straße: 1. Zusicherung von qualitativ gleichwertigen Ersatzwohnraum 2. Prüfen auf Ersatzwohnraum zum gleichen Preis 3. Offfenlegen der bisherigen Schadstoffgutachten; Ergänzen von Schadstoffgutachten in den typischen Ersatzwohnungen 4. Transparentes Gestalten von Mietangeboten mit Energieausweis und Grundrissen 5. Finanzielle Umzugshilfe für die Mieter des 3. Bauabschnittes, welche trotz Anspruch auf eine Ersatzwohnung verzichten 6. Stopp der Entmietung für den Bauabschnitt 4 und 5 und Wiederholung der "Siedlergespräche"
+- TOP 2.2.: Parksituation in der Welzenbachstraße (nach Inbetriebnahme der Sport- und Schwimmhalle der Grundschule am Amphionpark)
+- TOP 2.3.: Erneuerung der Eisenbahnüberführung Dachauer Straße: 1. Veränderung der Ampelschaltung Gröbenzeller -/ Dachauer Straße 2. Parallele Ableitung des Verkehrs durch Donauwörther Straße zur Allacher Straße 3. Entlastung der Gröbenzeller Straße auch für Polizei-Einsatzfahrzeuge notwendig
+- TOP 2.4.: Erneuerung der Eisenbahnüberführung Dachauer Straße: 1. Veränderung der Ampelschaltung Gröbenzeller -/ Dachauer Straße 2. Generelle Optimierungen der Ampelschaltungen an den Umfahrungsstraßen
+- TOP 2.5.: Erneuerung der Eisenbahnüberführung Dachauer Straße: 1. Ampelschaltung Max-Born-/ Dachauer Straße: Verlängerung Grünphase Linksabbiegespur 2. Ampelschaltung Gröbenzeller -/ Dachauer Straße: Verlängerung Grünphase Linksabbiegespur
+- TOP 2.6.: Erneuerung der Eisenbahnüberführung Dachauer Straße: Abschaltung der gesamten Ampelanlage Gröbenzeller - /Dachauer Straße
+- TOP 2.7.: Erneuerung der Eisenbahnüberführung Dachauer Straße: Vorschriftswidriger Durchgangsverkehr in Lauterbachstraße und Lechelstraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Baubergerstr. 34 (Abbruch Bestandsgebäude)
+- TOP 3.3.1.2.: Baubergerstr. 34 (Neubau mit Mobilitätskonzept)
+- TOP 3.3.1.3.: Gaggenaystr. 22
+- TOP 3.3.1.4.: Naumburger Str. 36b
+- TOP 3.3.1.5.: Gärtnerstr. 39
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Anbringen eines Abfallbehälters vor der Grundschule am Amphionpark
+- TOP 4.1.2.: Namensänderung der neu entstehenden Grundschule im Bebauungsgebiet "Botanikum"
+- TOP 4.1.3.: Ordentliche Einfriedung des zwischen der Bingener Str. 4 und der Feldmochinger Str. 38 befindlichen Grundstückes (Flurstück Nr. 989)
+- TOP 4.1.4.: Zurverfügungstellung ausreichender Wahlkabinen insbesondere bei zeitintensiven Wahlvorgängen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarte vom 15.12.2023 -30.05.2024 6.475,00€; 0262.0-10-0361
+- TOP 5.2.: (E) Stadtbezirksbudget AG Buhlstraße e.V. / Freizeitstätte Bommerang Naturerlebnistage, Sozialkompetenztraining vom 21. - 24.05.2024 2.844,98 Euro / Az. 0262.0-10-0363
+- TOP 5.3.: (E) Stadtbezirksbudget Erzählkunst Bayern e.V. Die Geschichtenstunde - Erzählen in der Schule vom 01.05. - 23.12.2024 2.500,00 Euro / Az. 0262.0-10-0370
+- TOP 6.: Anhörungen
+- TOP 6.1.: Mieterbeiratswahl 2024: Entsendung von stimmberechtigten Mitgliedern
+- TOP 6.2.: Verkehrsrechtliche Anordnung gemäß § 45 StVO: Bautzener Straße: Errichtung absolutes Haltverbot
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sicherer Zugangsbereich für das städtische Haus für Kinder in der Postillonstr. 11a [BA-Antrag Nr. 20-26/B 06139; weitere verkehrsrechtliche Maßnahmen im Straßenraum sind nicht angedacht; keine Verbesserung von Sichtbeziehungen möglich.]
+- TOP 7.2.: Umbau der Einmündung Batzenhoferstraße in die Feldmochinger Straße und Aufwertung der Straßenfläche zum baumbestandenen Quartiersplatz [BA-Antrag Nr. 20-26/B 05851; die Kreuzungssituation wird nach Umsetzung der Neubaumaßnahme Feldmochinnger Str. 7 neu untersucht.]
+- TOP 7.3.: Beschleunigung des Radverkehrs durch Anbringen eines Grünpfeils für Radfahrende - Kreuzungsbereich Schragenhofstraße/ Menzinger Straße [BA-Antrag Nr. 20-26/B 05852; Der Grünpfeil wurde seitens des Mobilitätsreferates bereits montiert.]
+- TOP 7.4.: Grünanlage "Am Claudiusplatz": Einrichtung einer mehrjährigen Blühfläche [Schreiben BA10 vom 22.11.2023; Vorschlag wird im Rahmen eines städtischen Gesamtkonzeptes geprüft. Ersatzpflanzungen für Baumentnahmen wurden ausreichend vorgenommen.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Ergebnis Machbarkeitsuntersuchung von Baumpflanzungen im öffentlichen Raum (Selektion Stb. 10 -> Seiten 31,59 und 67 bis 84)
+- TOP 8.2.: Verkehrsrechtliche Anordnung gemäß § 45 StVO: Pelkovenstr (zwischen Dachauer- und Hanauer Str): Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 8.3.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.11.2023 a) Rechte der Bezirksausschüsse beim Baumschutz stärken Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirks 21 – Pasing-Obermenzing am 15.03.2023 b) Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren BA-Antrags-Nr. 20-26 / B 04834 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 08.12.2022 c) Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrags-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirks 06 – Sendling vom 05.12.2022 d) Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund BA-Antrags-Nr. 20-26 / B 05899 des Bezirksausschusses des Stadtbezirks 15 – Trudering-Riem vom 21.09.2023 e) Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.4.: (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 8.5.: (U) Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids
+- TOP 8.6.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: Gaggenaystraße - nicht-öffentlich -
+- TOP 6.3.: N_ Veranstaltung auf öffentlichem Verkehrsgrund: St.-Martinsplatz „Moosacher Maibaumfest“ vom 25.04. – 01.05.2024
+- TOP 3.3.1.6.: N_ Ehrenbreitsteiner Str. 28
+- TOP 2.8.: N_ Erneuerung der Eisenbahnüberführung Dachauer Straße: 1. Anpassung der Ampelanlage Gröbenzeller -/ Dachauer Straße 2. Anbringen von deutlichen Hinweisschildern auf Sperre in der Max-Born-Straße und auf Höhe der Borstei
+- TOP 3.3.2.1.: N_ Weidmannstr. 3
