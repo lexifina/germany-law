@@ -1,0 +1,6 @@
+# TOP 12: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Höhn (2024-02-19)
+- Körperschaft: Ortsgemeinde Höhn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2024-13-563%7CVerschNoe%7C2
