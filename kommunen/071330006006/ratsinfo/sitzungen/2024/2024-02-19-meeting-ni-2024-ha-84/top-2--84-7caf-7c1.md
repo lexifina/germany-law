@@ -1,0 +1,7 @@
+# TOP 2: Anträge der Fraktionen zur Sitzung
+
+- Sitzung: 2. Sitzung des Haupt- und Personalausschusses (2024-02-19)
+- Körperschaft: Stadt Bad Kreuznach
+- Öffentlich: ja
+- OParl: https://bad-kreuznach-stadt.gremien.info/oparl/agendaItem/ni_2024-HA-84%7CAF%7C1
+- Beschluss (Datei): Beschluss - Top 2 https://bad-kreuznach-stadt.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-HA-84%7CAF%7C1
