@@ -1,0 +1,174 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-02-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951663
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951663
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024“
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche vom 01. - 05.04.24 oder 27. - 31.05.24 oder 02. - 06.09.24 oder 28.10. - 01.11.24 5.857,00 Euro / Az. 0262.0-18-0371
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Münchner Heldentheater e.V. „Ich bin Sturm vom 13.01.2024 – 24.02.2024“ 2.368,33 € / AZ: 0262.0-18-0368
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Pfarrkirchenstiftung Hl. Familie „Pfingstfahrt vom 19. – 25.05.2024, Zeltlager vom 03.-10.08.2024“ 8.000,00 € / AZ: 0262.0-18-0372
+- TOP 3.1.2.5.: Einrichtung des Athener Spielplatzes in Harlaching (BSL-Antrag)
+- TOP 3.1.2.6.: Unterkünfte für Igel und Fledermäuse, Hangbereich Eckgrundstück, Am Hohen Weg/Säbener Straße im 18. Stadtbezirk (BSL-Antrag)
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Namensgebung für den grünen Platz zwischen Achleitnerstraße/Lindenstraße/Josef-Humar-Straße/Über der Klause; CSU-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Greifvögelvorführung im Naturkindergarten Isarauen e.V. am 30.04.2024
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Abdruck der Ausnahmegenehmigung für das 1860 Fan-Treffen am Candidplatz in der Saison 23/24
+- TOP 3.2.6.2.: Absage der 1. Laufveranstaltung des TSV 1860 München vom Trainingsgelände in Richtung Harlachinger Einkehr am 24.03.2024
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Verkehrssituation in der Humboldtstraße; Bürgeranliegen
+- TOP 3.3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.3.: Parksituation für Schulbusse in der Kurzstraße; Bürgeranliegen
+- TOP 3.3.3.4.: Zeitnahe Beseitigung der Frostaufbruchschäden auf Münchens Straßen; CSU-Antrag
+- TOP 3.3.3.5.: Sturz- und Schüttelfalle Schyrenstraße; Bürgeranliegen
+- TOP 3.3.3.6.: Aufstellung eines Dialog-Displays im Münchner-Kindl-Weg; Bürgeranliegen
+- TOP 3.3.3.7.: Parksituation in der Säbener Straße (südl. der Naupliastraße); Bürgeranliegen
+- TOP 3.3.3.8.: Straßenmarkierungen im Bereich Grundschule Rotbuchenstraße; Bürgeranliegen
+- TOP 3.3.3.9.: Ersetzung der Gelb-Rot Lichtzeichenanlage am Theodolindenplatz mit einer gelben Blinklichtampel; CSU-Antrag
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Bruckenfischerstraße: Gefahrzeichen "Kreuzung oder Einmündung" (Z. 102 StVO)
+- TOP 3.3.4.2.: Fahrbahnsanierung am Hollerbusch (zwischen Naupliastraße und Rotbuchenstraße)
+- TOP 3.3.4.3.: Fahrbahnsanierung in der Schyrenstraße
+- TOP 3.3.4.4.: Fahrbahnsanierung in der Säckingenstraße (zwischen am Perlacher Forst und Bruggsperger Straße)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Verkehrssituation am Tierpark verbessern: „IsarTiger“ von U-Bahn-Halt Thalkirchen zu U-Bahn-Halt Mangfallplatz
+- TOP 3.3.5.2.: Prüfung der Vorschläge zur Radverbindung am Tierparkberg
+- TOP 3.3.5.3.: Zeitnahe Umsetzung der Verbesserungsanträge zum Kurvenbereich Lindenstrasse /Ecke Tierparkberg, Karolinger Allee
+- TOP 3.3.5.4.: Grüner Pfeil in der Grünwalderstrasse Ecke Langobardenstraße (am Authariplatz) soll zeitnah wieder angebracht werden!
+- TOP 3.3.5.5.: Stellungnahme des Mobilitätsreferats zur Sanierung des Straßenbelags in der Candidstraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 3.3.6.2.: Fristverlängerungen der Referate zu BA-Anträgen aus dem Bereich Mobilität
+- TOP 3.3.6.3.: Rückmeldung des Baureferats zu BA-Antrag 20-26 / B 06164: Beleuchtung auf dem öffentlichen Weg zum Friedhofstor Anna Kircherl
+- TOP 3.3.6.4.: St.-Magnus-Straße: verkehrliche Maßnahmen nach Straßenumbau
+- TOP 3.3.6.5.: Parkplatz-Situation im Bereich Tiroler Platz
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Starker Mistelbefall von zwei Bäumen am Theodolindenplatz; Bürgeranliegen
+- TOP 3.4.3.2.: Informationsveranstaltungen zu Kanalsanierungsmaßnahmen in Harlaching; Bürgeranliegen
+- TOP 3.4.3.3.: Befestigung der Müllcontainer in der südlichen Harthauser Straße; Bürgeranliegen
+- TOP 3.4.3.4.: Schnellstmögliche Entfernung von Misteln in zahlreich befallenen Bäumen im 18. Stadtbezirk; CSU-Antrag
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Arminiusstr. 14 - Athener Str. 52 - Benediktenwandstr. 10 - Grünwalder Str. 31 - Königswarterstr. 15a - Latemarstr. 6 - Naupliastr. 105 - Prößlstr. 2 - Seybothstr. 39 - Reinekestr. 26 - Söltlstr. 31 - Tegelbergstr. 31 - Tierparkstr. 30 - Traminer Str. 19 - Weyarner Str. 46
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Ergebnis der Machbarkeitsuntersuchung zu den vom BA 18 eingereichten Standortvorschlägen für Baumpflanzungen im Strassenraum
+- TOP 3.4.5.2.: Antwortschreiben des Baureferats zur Bitte um regelmäßigere Straßenreinigung am Wettersteinplatz (Säbener Straße)
+- TOP 3.4.5.3.: Umsetzung der Trinkwasserrichtlinie der EU; Installation von öffentlichen Trinkwasserbrunnen an allen wichtigen Plätzen des 18. Stadtbezirks Untergiesing-Harlaching
+- TOP 3.4.5.4.: Antwortschreiben des Baureferats zur Umsetzung des LHM-Grünpaten-Förderungskonzepts
+- TOP 3.4.5.5.: Antwortschreiben des Baureferats zu den Themen Straßenreinigung vor der Emmauskirche und Baumpflanzungen am Laurinplatz
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Harthauser Str. 129
+- TOP 3.4.6.2.: Baumfällung in der Albrecht-Dürer-Str. 3
+- TOP 3.4.6.3.: Baumfällung in der Fritz-Lange-Str. 5
+- TOP 3.4.6.4.: Baumfällung in der Arminiusstr. 27
+- TOP 3.4.6.5.: Baumfällung in der Portiastr. 8
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Marsch der Ultras des TSV 1860 München durch Wohngebiet am 20.1.24; Bürgeranliegen
+- TOP 3.5.3.2.: Ein Pflegestützpunkt für Harlaching; CSU-Antrag
+- TOP 3.5.3.3.: Wegfall der Münchner Förderformel - Angst um Kitaplätze; Bürgeranliegen
+- TOP 3.5.3.4.: Bedarfsangepasste Mobilitätsangebote (z.B. Taxigutscheine für Menschen mit Behinderungen bei Schnee und Eis im Winter, bessere Zugänglichkeit des ASZ Harlaching); Grünen-Antrag
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Stellungnahmen zum Thema Obdachlose in Container für Jugendliche am Skatepark Candidplatz
+- TOP 3.5.5.2.: Verbesserung der Situation mit öffentlichen WCs am Wettersteinplatz
+- TOP 3.5.5.3.: Antwort des Kommunalreferats zur Suche nach neuen Räumlichkeiten für die Gemeinschaftspraxis in der Humboldtstraße 27
+- TOP 3.5.5.4.: Dringlichkeitsantrag zur Schließung des EDEKA in der Säbener Str. 21
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Antrag auf unveränderte Fortführung der Gaststätte "Roody"
+- TOP 3.5.6.2.: Protokoll zur öffentlichen Sitzung des Mieterbeirates vom 22.01.2024
+- TOP 3.5.6.3.: Antrag auf unveränderte Fortführung der Gaststätte "Roj Bistro Bar"
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Unterstützung des Kiosks Isarwahn; Bürgeranliegen
+- TOP 3.6.3.2.: Situation zum Bauvorhaben in der Grünwalder Straße 103 bis 105; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Lautererstraße 25: Neubau eines Wohnhauses mit Garage
+- TOP 3.6.4.1.2.: Naupliastraße 103: Neubau eines Einfamilienhauses mit Carport und versenkbaren Parker (für Bestand)
+- TOP 3.6.4.1.3.: Friedrich-Ebert-Str. 22 - Neubau eines Einfamilienhauses mit einer Garage
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Antwortschreiben des KVR zum fehlenden Kanalanschluss für das Kiosk Isarwahn
+- TOP 3.6.5.2.: Antwortschreiben des Baureferats zum Kanalanschluss des Kiosks Isarwahn
+- TOP 3.6.5.3.: Baugenehmigungsverfahren im Bereich Gartenstadt-Harlaching
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: (U) Aktueller Sachstand zum Standort Candid-Tor Anträge und Empfehlungen Stadtbezirk 18 Untergiesing-Harlaching
+- TOP 3.6.6.2.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 3.6.6.3.: Baugenehmigung für die Naupliastraße 78 - Neubau eines Wohnhauses mit Garagen und Stellplatz
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: BA-Informationsschreiben zum Umgang mit Spenden und Geschenken
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
