@@ -1,0 +1,53 @@
+# Ausschuss für Mobilität, Umwelt und Klimaschutz (22. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-02-20T18:00:00+01:00
+- Ende: 2024-02-20T21:09:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcMCTwQ--5lmt8fkaQdKiSg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6003
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Mobilität, Umwelt und Klimaschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWmpu2WtktgwcI5uZiQJAsUNg8Q4qRhZ5U1QqABii7kC/Oeffentliche_Niederschrift_Ausschuss_fuer_Mobilitaet-_Umwelt_und_Klimaschutz_20.02.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 12.12.2023
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Antrag der SPD-Fraktion vom 05.01.2024; "Situation G-Mobil" - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Antrag der Fraktion pro:Bürgerschaft vom 16.01.2024 "Gutachtenvorlage, Neueinrichtung der Bahnhaltestelle Gronau-Ost
+- TOP 4.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 9/2023; Bürgerantrag vom 19.12.2023 Querungsmöglichkeit Gildehauser Straße - Einstimmig, 0 Enthaltungen
+- TOP 5.: Straßenendausbau Lärchenwinkel - Einstimmig, 0 Enthaltungen
+- TOP 6.: Veloroute / Knotenpunkt Ochtruper Straße – Steinfurter Straße
+- TOP 7.: Konzept zur Qualitätssteigerung des Gronauer Tier- und Stadtparkes Antrag der FDP-Fraktion vom 01.03.2021 - Einstimmig, 1 Enthaltungen
+- TOP 8.: Unterstützung der Arbeit des Naturschutzbundes Deutschland (NABU) Kreisverbandes Borken e. V. Antrag vom 19.01.2024 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Endausbau Maria- Martin- Straße/ hier: Bereitstellung von investiven Haushaltsmitteln - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bereitstellung von konsumtiven Mitteln für die Maßnahme "Bogenbrücke: Sanierung der Brückenbohlen" - Einstimmig, 0 Enthaltungen
+- TOP 11.: Budgetentwurf 2024 hier: Teilbudget des Vorstandsbereiches 4 – Planen, Bauen und Umwelt - Einstimmig, 4 Enthaltungen
+- TOP 11.1: Budgetentwurf 2024 hier: Teilbudget des Vorstandsbereiches 4 – Planen, Bauen und Umwelt - Einstimmig, 2 Enthaltungen
+- TOP 12.: Nachfolgeregelung (bis zum 31.03.2026) für einen vorzeitig ausscheidenden Naturschutzbeauftragten für den Außendienst im Rahmen des städtischen Vorschlagsrechts - 11 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Benennung von Geh- und Radwegen 1) Benennung des Dinkelradweges nach Anke Engels 2) Benennung des Geh- und Radweges zwischen der Steinstraße und der Königstraße - Einstimmig, 1 Enthaltungen
+- TOP 14.: Benennung von Straßen im Gewerbegebiet "Östlich der Eßseite" Gem. Epe, Flur48, Bebauungsplan 248 - Einstimmig, 1 Enthaltungen
+- TOP 15.: Anna-Merian-Straße – Korrektur des Straßennamens - Einstimmig, 1 Enthaltungen
+- TOP 16.: Ausbauprogramm für den Schoppenkamp und den Riekenmaateweg (von der Klosterstraße bis Zum Brookacker) auf der Grundlage des Bestandsplans - Einstimmig, 0 Enthaltungen
+- TOP 17.: Hochbauplanung zur Erweiterung des Hotels Seeblick und Flächenplanung für die Wassersportabteilung des SV Vorwärts Gronau 09 e.V. Präsentationen aus der Sitzung des Haupt- und Finanzausschusses vom 17.01.2024
+- TOP 18.: Baumfällungen Winter 2023/2024 2. Nachmeldung
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Querungshilfe Gildehauser Straße
+- TOP 20.: Anfragen
+- TOP 20.1: Tiny Forrest
+- TOP 20.2: Schlaglöcher Geschwister Scholl Straße
+- TOP 20.3: Lkw-Verbot Verkehrsversuch
+- TOP 20.4: FGÜ Kardinal-von-Galen-Ring
+- TOP 20.5: Bordsteine Ahauser Straße
+- TOP 20.6: Verkehrsmöbel Verkehrsversuch
+- TOP 20.7: Verkehrsversuch Gronauer Straße
+- TOP 20.8: Entfernung Hecken
+- TOP 20.9: Zählung Verkehrsversuch
+- TOP 20.10: Wärmeplanung
+- TOP 20.11: Klimaschutzmanager
+- TOP 20.12: Baustelle Gildehauser Damm
+- TOP 20.13: Hundekotbeutel
