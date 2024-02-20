@@ -1,0 +1,59 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-02-20T16:00:00+01:00
+- Ende: 2024-02-20T17:15:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22049
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22049
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00326002.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00327102.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2022/2023 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2022 Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2024 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2024 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Bundesgartenschau Wuppertal 2031 gGmbH: Gesellschafterbeschlüsse - ungeändert beschlossen
+- TOP 3.2: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: QUARTALSREPORT für Q4/2023 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 5.2: Sachstandsbericht zum Projekt SAP S4/HANA - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Harmoniestraße Vollausbau – Finanzierung - ungeändert beschlossen
+- TOP 6.2: Dynamisierung der Zuschussmittel an die freien Träger - ungeändert beschlossen
+- TOP 6.3: Zuschüsse zur Förderung der Jugendverbandsarbeit 2024 - ungeändert beschlossen
+- TOP 6.4: Grundlagen für die Einrichtung und die Fortführung von außerunterrichtlichen Ganztags- und Betreuungsangeboten in der Primarstufe - ungeändert beschlossen
+- TOP 6.5: Reduzierung der Kita-Beiträge - Antrag der Fraktionen von CDU, SPD und FDP vom 02.06.2023 sowie Beschluss des Jugendhilfeausschusses vom 05.12.2023 - ungeändert beschlossen
+- TOP 6.6: Städtische Einnahmen durch Überlassung und Vermietung von Sportstätten - Entgegennahme ohne Beschluss
+- TOP 6.6.1: Antwort der Verwaltung auf die Große Anfrage der Freien Wähler vom 31.01.2024 zum Thema „Städtische Einnahmen durch Überlassung und Vermietung von Sportstätten“ - Entgegennahme ohne Beschluss
+- TOP 6.7: Verlängerung Nutzungsrecht der Grabstätte Dr. Alfred-Springorum - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Investitions- und Kassenkredite zum 31.12.2023 - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 30.11.2023 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Einbringung des Haushaltsplanentwurfes 2024/2025 - Entgegennahme ohne Beschluss
+- TOP 9.2: Haushaltsantrag auf die Bezuschussung von Sanierungs- und Instandsetzungsmaßnahmen im Freibad Eckbusch - vertagen
+- TOP 9.3: Gemeinsamer Antrag: Fördermittel für Baumaßnahmen zum Ausbau des Offenen Ganztages vollständig ausschöpfen - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW IV. Quartal 2023 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
