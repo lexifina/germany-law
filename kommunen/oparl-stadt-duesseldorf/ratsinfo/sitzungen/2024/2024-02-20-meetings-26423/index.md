@@ -1,0 +1,56 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-20T16:00:00+01:00
+- Ende: 2024-02-20T17:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26423
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26423
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00511866.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00511866.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00511866.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschriften SI-BV2/008/2023 vom 28.11.2023 und SI-BV2/001/2024 vom 23.01.2024 - mehrheitlich beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung - Empfehlung einstimmig beschlossen
+- TOP 4.2: Aufhebung der Sanierungssatzung Grafenberger Allee - Empfehlung einstimmig beschlossen
+- TOP 4.3: Flächennutzungsplanänderung Nr. 145, Bebauungsplan-Vorentwurf Nr. 02/019 - Froschkönigweg-Dornröschenweg - mehrheitlich beschlossen
+- TOP 4.4: Ergebnis Testbetrieb zur Sperrung des Höherweges, geänderte Verkehrsführung ab Kreisverkehr Albertstraße - zurückgezogen
+- TOP 4.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anträge
+- TOP 5.1: Unterflurcontainer am Schillerplatz - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 5.2: Frühblüher Graf-Recke-Straße - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2023 für den Stadtbezirk 2 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.6: Temporärer provisorischer Fußgängerüberweg Bruchstraße/Einmündung SchwelmerStraße - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Barrierefreie Ladeinfrastruktur - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6.2: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.3: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Versiegelung von Verkehrsinseln und Verkehrsrestflächen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 6.9: Nachverfolgung von Meldungen zu Falschparker*innen im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.10: Wohnungsbau im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.11: Ergebnis Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Anfrage der SPD-Fraktion - vertagt
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Fahrradabstellanlagen - Anfrage der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 7.2: Fahradweg Lindenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Fortschrittsbericht über den Bau der Fernwärmepumpstation am Schillerplatz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Durchfahrtmöglichkeit für große Fahrzeuge auf der Paulusstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/015/2024 - zur Kenntnis genommen
+- TOP 8.2: Einführung von Tempo 30 auf der gesamten Bruchstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/161/2023 - zur Kenntnis genommen
+- TOP 8.3: Mitteilung der Verwaltung zum Thema „Besserer Schutz des Rad- und Fußverkehrs vor Unfällen mit abbiegenden Fahrzeugen“ (OVA/100/2023) - zur Kenntnis genommen
