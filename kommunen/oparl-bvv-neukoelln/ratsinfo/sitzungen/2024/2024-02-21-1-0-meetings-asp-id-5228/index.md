@@ -1,0 +1,89 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-02-21T17:00:00+01:00
+- Ende: 2024-02-21T22:20:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5228
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5228
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Abfallmanagement - beantwortet
+- TOP 1.2: Obdachlosigkeit - schriftlich beantwortet
+- TOP 1.3: Einführung der Parkzone 100 zum 01.02.2024 - schriftlich beantwortet
+- TOP 1.4: Verkehrskonzept Reuterkiez - beantwortet
+- TOP 1.5: Nistplätze von Gebäudebrütern wie z.B. Spatzen retten durch eine Meldedatenbank - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 1212/XXI - Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Verkehr und Tiefbau - erledigt
+- TOP 2.2: 1213/XXI - Zielvereinbarung für die Beschleunigung der Genehmigungsverfahren im Glasfaserausbau im Land Berlin - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Neukölln fordert das Ende des Kriegs in Gaza! Für sofortige Waffenruhe und Stopp der Waffenlieferungen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Zielvereinbarung zur Optimierung der Zusammenarbeit im Amtlichen Vermessungswesen und zur Qualitätssicherung von Kernprozessen des Amtlichen Vermessungswesens für das Jahr 2024 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Zielvereinbarung für die Beschleunigung der Genehmigungsverfahren im Glasfaserausbau im Land Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Verkehr und Tiefbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von Bürgerdeputierten in den Ausschuss für Partizipation und Integration - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Neuer Mietwohnungsboom durch Ende der Zweckentfremdung? - beantwortet
+- TOP 8.2: Zerstörte Gedenktafel für das Zwangsarbeiterlager in der Hufeisensiedlung - beantwortet
+- TOP 8.3: Finanzierung der Safe Places - beantwortet
+- TOP 8.4: Illegale Ferienwohnungen in Wohngebieten - beantwortet
+- TOP 8.5: Stand der Personaleinstellungen zur Umsetzung der Parkraumbewirtschaftung im Bezirk Neukölln - beantwortet
+- TOP 8.6: Schließung der Kita Riesestraße - beantwortet
+- TOP 8.7: Pflanzenmarkt Rudow ohne Perspektive vor die Tür gesetzt? - beantwortet
+- TOP 8.8: Nachfrage zu KA/287/XXI „IT-Ausstattung im Bezirksamt Neukölln“ - beantwortet
+- TOP 8.9: Einsamkeitsbetroffene in Neukölln - beantwortet
+- TOP 8.10: Verbesserung der Lage von Suchtkranken und von Anwohnenden an Konsumschwerpunkten: Wie ist der Umsetzungsstand? - schriftlich beantwortet
+- TOP 8.11: Sperrung des Klima- und Transformationsfonds – Neuer Stand? - schriftlich beantwortet
+- TOP 8.12: Plakatieren aber richtig! - schriftlich beantwortet
+- TOP 9: Mitteilungen - (offen)
+- TOP 9.1: Antisemitismus und Israelfeindlichkeit dürfen in Neukölln keinen Platz haben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 10.1: Eindeutige Vorfahrt für die Oderstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Ehrendes Gedenken für Kurt Löwenstein am 27.2.2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Erhalt der „Teupe“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.4: Erinnerung an 85 Jahre Pogromnacht in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Honorar- und Werkverträge des Bezirksamtes und deren Überprüfung auf mögliche Scheinselbstständigkeit bzw. Sozialversicherungspflicht - beantwortet
+- TOP 11.2: Wie ist der Stand der Einführung der Parkraumbewirtschaftung? - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Mythos#Israel1948 in Jugendfreizeiteinrichtungen - in der BVV abgelehnt
+- TOP 12.2: Einrichtung eines "Runden Tisches" zu Rassismus gegen muslimisch (gelesene) Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kein Beitritt mehr zu anderen Anträgen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: 2-jährige Leistungsverträge im Jugendbereich einführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Runden Tisch zur Sicherung und Förderung jüdischen Lebens in Neukölln einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Mythos#Israel1948 in Schulen - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Versetzung der öffentlichen Toilette in Alt-Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Ausschreibung zur Nutzung des Geländes am Dammweg - beantwortet
+- TOP 13.2: Spielen im Amt für Weiterbildung und Kultur parteipolitische Überlegungen in der Zusammenarbeit mit freien Trägern eine Rolle? - beantwortet
+- TOP 13.3: Neue Bezirkszentralbibliothek im C&A-Gebäude? - vertagt
+- TOP 13.4: Offene Stellen Abteilung Sozialwesen - vertagt
+- TOP 13.5: Verkehrsordnungswidrigkeiten in Neukölln - vertagt
+- TOP 13.6: Wie will das Bezirksamt das Recht von Kindern auf frühkindliche Sprachförderung sicherstellen? - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Wahl von Bürgerdeputierten in den Partizipations- und Integrationsausschuss - überwiesen
+- TOP 15.2: Evas Obdach ohne Obdach in Neukölln - überwiesen
+- TOP 15.3: SOKO Müll am Sasarsteig einsetzen - überwiesen
+- TOP 15.4: Bezirkszentralbibliothek im ehemaligen C&A-Gebäude - überwiesen
+- TOP 15.5: Rettung der Skulptur „Der seltene Fang“ aus dem Kreuzberger Victoria-Park durch den Bezirk Neukölln - überwiesen
+- TOP 15.6: Durchblick für die Senioren in der Freizeitstätte Bruno Taut - überwiesen
+- TOP 15.7: Sicherheit auf dem Bat-Yam-Platz und Lipschitzplatz - überwiesen
+- TOP 15.8: Ausweichcontainer Blueberry auf dem Boddinspielplatz dauerhaft für Kinder, Jugend und Familienarbeit sowie Stadtteilarbeit erhalten - überwiesen
+- TOP 15.9: Wuchermieten in den Peters-Problemimmobilien ahnden - überwiesen
+- TOP 15.10: Verkehrssicherheit auf dem Wildmeisterdamm - überwiesen
+- TOP 15.11: Lückenschluss Asphaltierung zwischen den U-Bahnhöfen Lipschitzallee und Wutzkyallee - überwiesen
+- TOP 15.12: Maßnahmen gegen illegale Werbung von Autohändlern an parkenden Autos im öffentlichen Raum - überwiesen
