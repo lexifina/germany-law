@@ -1,0 +1,74 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-02-21T17:00:00+01:00
+- Ende: 2024-02-21T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4731
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4731
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Lebendiger Kranold-Markt-Platz - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Wasserspielplatz Harry-S.-Truman-Allee - beantwortet
+- TOP 4.2: Wann geht die Klinikschule an den Start? - beantwortet
+- TOP 4.3: Wo darf ich für meine Erdwärmeheizung bohren? - beantwortet
+- TOP 4.4: Antisemitismus an der FU - beantwortet
+- TOP 4.5: Die Dauerbaustelle am Hindenburgdamm und das geschädigte Kleingewerbe - beantwortet
+- TOP 4.6: Maßnahmen gegen überhöhte Mieten im Bezirk - schriftlich beantwortet
+- TOP 4.7: Windräder in Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 4.8: Deckenertüchtigung ohne Ende am Steglitzer Kreisel? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 5.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Berufung eines beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Umfahrung Zehlendorfer Schönow-Kiez untersuchen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Milieuschutz braucht Mitwirkung - Milieuschutzbeirat in Steglitz-Zehlendorf initiieren - in der BVV abgelehnt
+- TOP 5.5: Fußverkehr sichern an der Prinzregent-Ludwig-Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Fußverkehr sichern an der Eugen-Kleine-Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Die Sporthalle der Athene-Grundschule wieder für Wettkämpfe am Wochenende nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Qualitätsstandards bei Genehmigungsverlängerungen von Steganlagen schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Anhänger-Dauerparken durch das Ordnungsamt sanktionieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Verlängerung Tempo 30 auf der Königstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Erinnerung an Präsenz der Amerikaner im Outpost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: BVG-Haltestelle Teltowkanalstraße: Übergang des Radweges auf die Fahrbahn verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Verlängerung Tempo 30 auf der gesamten Finckensteinallee und ggf. Mühlenstraße - in der BVV abgelehnt
+- TOP 5.14: Unterstützung der Gewerbetreibenden am S-Bahnhof Zehlendorf in Folge der Baumaßnahmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Evaluation der Milieuschutzkriterien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Schwerpunktkontrollen von Radfahrern - überwiesen
+- TOP 6.2: Ladezonen - überwiesen
+- TOP 6.3: Buslinie X11 - überwiesen
+- TOP 6.4: Nahverkehrsplan 2030 - überwiesen
+- TOP 6.5: Instandsetzung und Inbetriebnahme des „Spucki“ - überwiesen
+- TOP 6.6: Sensorgesteuerte Sektionsbeleuchtung Wannseebadweg - überwiesen
+- TOP 6.7: Verkehrssicherung Wannseebadweg - überwiesen
+- TOP 6.8: Bezirkliche Straßenbenennungsliste fortlaufend aktualisieren - überwiesen
+- TOP 6.9: Hedwig Wollmann (1892-1979) in die bezirkliche Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 6.10: Den Widerstandskämpfer Dr. Franz Hering (1902–1990) in die bezirkliche Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 6.11: Stolpersteine für zwischen 1933 und 1945 verfolgte, inhaftierte, zur Flucht und in den Freitod gezwungene Kommunalpolitiker*innen aus Steglitz und Zehlendorf - überwiesen
+- TOP 6.12: 1933 abgesetzte und verfolgte Kommunalpolitiker*innen namentlich sichtbar machen - überwiesen
+- TOP 6.13: Bürgernahes Standesamt: Hochzeitsvilla grundsätzlich samstags öffnen - überwiesen
+- TOP 6.14: Barrierefreier Livestream für Gehörlose - überwiesen
+- TOP 6.15: Parkmöglichkeiten für Anhänger - überwiesen
+- TOP 6.16: Aufklärung zu den neuen RSV-Impfungen - überwiesen
+- TOP 6.17: Die Bäke beim Umbau von Schloßstraße/Unter den Eichen mitdenken - überwiesen
+- TOP 6.18: Digitalisierung der regionalhistorischen Literatur des Kulturamtes - überwiesen
+- TOP 6.19: Freie Raumkapazitäten für Musikschulkurse in bezirklichen Freizeiteinrichtungen - überwiesen
+- TOP 6.20: Trägerwohnungen in städtebaulichen Verträgen vorsehen - überwiesen
+- TOP 6.21: Ladestationen für E-Bikes - überwiesen
+- TOP 6.22: Teilhabe und Gemeinschaft durch eine Bibliothek für Alle – Für einen ausgeweiteten Bibliotheksstandort für Lichterfelde-Süd - überwiesen
+- TOP 6.23: Langer Tag des Gedenkens an Auschwitz-Deportierte - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Hoffnung auf „Spucki“-Saison 2024 verbrannt? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Steglitz-Zehlendorf zur Cannabis-Modellregion machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Queere Aufklärung für Flüchtlinge - in der BVV abgelehnt
+- TOP 8.3: Dialogdisplay für die Moltkebrücke - in der BVV abgelehnt
+- TOP 8.4: Angemessene Jugendbeteiligung beim ISEK Zehlendorf-Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
