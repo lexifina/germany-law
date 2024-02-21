@@ -1,0 +1,84 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-02-21T16:27:00+01:00
+- Ende: 2024-02-21T18:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13645
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13645
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00545669.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Maßnahmenplan zur Klimaneutralität der Stadt Münster bis 2030
+- TOP 2.2: Behelfsbrücke zwischen Pleistermühlenweg-Brücke und Prozessionsweg-Brücke
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 10.1: Ausbau des Bahnhaltepunktes Münster-Albachten - verwiesen
+- TOP 10.2: Pumptrackanlage in Roxel - verwiesen
+- TOP 10.3: Trinkbrunnen auf öffentlichen Spielplätzen - verwiesen
+- TOP 10.4: Änderung der Satzung des Jugendrates der Stadt Münster - verwiesen
+- TOP 10.5: Satzung des Jugendrates der Stadt Münster - Änderung der Sitzverteilung - verwiesen
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11.1: Barrierefreie Veranstaltungen in Münster - verwiesen
+- TOP 11.2: Bericht über den Bearbeitungsstand von Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen (KIB) und weiterer Gremien - verwiesen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12.1: Image der Sparkasse verbessern - mehrheitlich abgelehnt
+- TOP 12.2: Ertüchtigung der Räumlichkeiten und Einführung der Möglichkeit von hybriden Sitzungen in den Ausschüssen der Stadt Münster - einstimmig beschlossen
+- TOP 12.3: Gegen Rechtsextremismus und Faschismus - Nie wieder ist jetzt - mehrheitlich geändert beschlossen
+- TOP 13: Bestellung einer Schriftführung für die Sitzungen des Rates - einstimmig beschlossen
+- TOP 14: Feststellung des Jahresabschlusses 2022 der Stadt Münster, Korrektur zur Feststellung des Jahresabschlusses 2019 der Stadt Münster - einstimmig beschlossen
+- TOP 15: Änderung der Satzung für die Wahl des Jugendrates der Stadt Münster (Wahlordnung Jugendrat) - einstimmig beschlossen
+- TOP 16: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 16.1: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien
+- TOP 17: Freilichtmuseum Mühlenhof: Jahresberichte - zur Kenntnis genommen
+- TOP 18: KonvOY GmbH: Anpassung der Regelung in § 3 Abs. 3 der Geschäftsordnung des Aufsichtsrates (GO AR) zur Vertretung der Gemeinde im Aufsichtsrat - einstimmig beschlossen
+- TOP 19: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2024 - mehrheitlich geändert beschlossen
+- TOP 20: Westfälische Bauindustrie GmbH - Neufassung der Geschäftsordnung für die Geschäftsführung - einstimmig beschlossen
+- TOP 21: Bericht über die Beteiligungen der Stadt Münster im Jahr 2022 (Beteiligungsbericht 2022) - zur Kenntnis genommen
+- TOP 22: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 23: Nachtbürgermeister/in für Münster - zur Kenntnis genommen
+- TOP 24: Klimagerechte Stadtentwicklung – Rechtsexpertise zum Einsatz "energetischer Sanierungssatzungen" - zur Kenntnis genommen
+- TOP 25: Beitritt zum Netzwerk Stadtentwicklung NRW - einstimmig beschlossen
+- TOP 26: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept - mehrheitlich geändert beschlossen
+- TOP 26.1: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept
+- TOP 26.1.1: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept
+- TOP 27: Fortschreibung 3. Nahverkehrsplan - Einstieg in die ÖPNV-Hochleistungsachsen im Korridor Coerde - Hauptbahnhof - mehrheitlich geändert beschlossen
+- TOP 28: Absicherung von Förderschulkapazitäten durch die Erweiterung der Papst-Johannes-Schule - Aufstellung von Fertigbauklassen - einstimmig beschlossen
+- TOP 29: Überleitung der Jugendhilfe an der Kompass-Schule in die Trägerschaft der freien Jugendhilfe - einstimmig beschlossen
+- TOP 30: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - mehrheitlich beschlossen
+- TOP 30.1: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle
+- TOP 31: Baugebiet „Handorf – Hobbeltstraße / Kirschgarten / Heriburgstraße“ – - mehrheitlich geändert beschlossen
+- TOP 32: Bürgerpark im York Quartier - einstimmig geändert beschlossen
+- TOP 33: Bauleitplanung
+- TOP 33.1: Stadtbezirk Münster-Hiltrup
+- TOP 33.1.1: Satzung gemäß § 34 BauGB für den Bereich „Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 33.1.2: Beschluss zur 117. FNP-Änderung, Beschluss zur Änderung des Aufstellungsbeschlusses VBP 626: Gasometer - mehrheitlich beschlossen
+- TOP 33.1.3: Bebauungsplan Nr. 647: Hiltrup - Westfalenstraße (gegenüber Hallenbad) - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33.2: Stadtbezirk Münster-Südost
+- TOP 33.2.1: 43. FNP-Änderung - Mömax - Abschließender Beschluss - einstimmig beschlossen
+- TOP 33.2.2: Bebauungsplan Nr. 604 - Mömax - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Münster gründet einen Inklusionsbetrieb - verwiesen
+- TOP 34.2: Erreichbarkeit der neuen Justizvollzugsanstalt verbessern - verwiesen
+- TOP 34.3: Pragmatisch und schnell – für leistbares Wohnen in Münster - verwiesen
+- TOP 34.4: Patenschaft zu Braunsberg evaluieren - verwiesen
+- TOP 34.5: Bericht zu Berichtspflichten - verwiesen
+- TOP 34.6: Anmeldeverfahren für weiterführende Schulen reformieren! - verwiesen
+- TOP 34.7: Einführung des „Orientierungssystem Gütersloher Modell (OGM)“ in den städt. Schulen - verwiesen
+- TOP 34.8: Für verbesserte Beschäftigungschancen von Menschen mit Behinderungen - verwiesen
+- TOP 35: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 35.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 36: Verschiedenes
