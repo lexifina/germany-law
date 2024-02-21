@@ -1,0 +1,96 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2024-02-21T17:00:00+01:00
+- Ende: 2024-02-21T21:40:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7376
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7376
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=438938
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 2.1: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Demokratie verteidigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Milieuschutz in Tempelhof-Schöneberg - schriftlich beantwortet
+- TOP 4.2: Die Sonne soll auf das Rathaus Schöneberg scheinen - überwiesen
+- TOP 4.3: Sperrung der Sportanlage – Wie geht es weiter im Volkspark Mariendorf? - beantwortet
+- TOP 4.4: Pläne ohne den Bezirk für das ehemaliges Straßenbahndepot - beantwortet
+- TOP 4.5: Verkehrskonzept Gartenstadt - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Flächendeckender verlässlicher Winterdienst - überwiesen
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Marode Bäume als Gefahr für Leib und Leben – unverzügliches und systematisches Handeln erforderlich! - in der BVV abgelehnt
+- TOP 9.2: Unterbringung von sichergestellten Tieren im Rahmen des Tierschutzes - vertagt
+- TOP 9.3: Verbundeinsatz von Polizei und Ordnungsamt beim Crellemarkt erneut ermöglichen - vertagt
+- TOP 9.4: Zukunft des Grundstücks Hauptstraße 162/Willmanndamm 22 kooperativ und gemeinbedarforientiert weiterentwickeln - vertagt
+- TOP 9.5: Mehr jüdisches Leben und jüdische Geschichte in die Besuchsprogramme unserer Städtepartnerschaften integrieren - vertagt
+- TOP 9.6: Parkbänke im Grünstreifen des Bundesring reparieren - vertagt
+- TOP 9.7: Gedenken an Hatun Sürücü - vertagt
+- TOP 9.8: Blutspenden stärker bewerben - vertagt
+- TOP 9.9: Dauerhafte Verkehrsberuhigung in der nördlichen Steinmetzstraße - vertagt
+- TOP 9.10: Öffentlichkeitsarbeit der Bezirksverordnetenversammlung - vertagt
+- TOP 9.11: Tierwohl und Veterinäraufsicht in Not – Kapazitäten der Tiersammelstelle und Unterbringung in Berlin ausbauen! - vertagt
+- TOP 9.12: Schließfächer für Obdachlose - vertagt
+- TOP 9.13: Hundeauslauf auf dem Mittelstreifen An der Urania prüfen - vertagt
+- TOP 9.14: Auflagen für temporären Spielstraßen zurücknehmen - vertagt
+- TOP 9.15: Mobilitätseingeschränkte Bewohner am Stadtrand nicht vergessen – Gehweg Mozartstraße durchgängig begehbar herstellen - vertagt
+- TOP 9.16: Ausstellung 75 Jahre Menschenrechte in unserem Bezirk zeigen - vertagt
+- TOP 9.17: Gehweg der Blohmstraße zwischen Egestorff- und Illigstraße sanieren und damit barrierefrei gestalten - vertagt
+- TOP 9.18: Berichterstattung über Abrissanträge und deren Genehmigung - vertagt
+- TOP 9.19: Fahrradbügel für die Ceciliengärten - vertagt
+- TOP 9.20: Schließfächer für Obdachlose einrichten - vertagt
+- TOP 9.21: Straßenbäume erhalten – unser Stadtklima schützen - vertagt
+- TOP 9.22: BVG-Fahrscheine für ALLE ehrenamtliche Helfer:innen im Bezirk - vertagt
+- TOP 9.23: Wohnungsanmeldungen für alle ermöglichen - vertagt
+- TOP 9.24: Bessere Beleuchtung in der Frobenstraße für Sexarbeitende - vertagt
+- TOP 9.25: Verkehrssicherheit gewährleisten: Tempo 30 auf Tempelhof-Schönebergs Hauptstraßen nicht abordnen - vertagt
+- TOP 10: Große Anfragen - vertagt
+- TOP 10.1: Was spricht für und was spricht gegen ein Bezahlkartensystem für Geflüchtete? - schriftlich beantwortet
+- TOP 10.2: Gegenwart und Zukunft des Ehrenamtlichen Dienstes in den Sozialkommissionen des Bezirks - vertagt
+- TOP 10.3: Gremien für Mobilität an den Schulen im Bezirk Tempelhof-Schöneberg - vertagt
+- TOP 10.4: Qualität für das beitragsfreie Schulmittagessen gewährleisten - vertagt
+- TOP 10.5: Berliner Senat plant mit Rekordausgaben, aber kürzt bei den Bezirken – was bedeutet das für unseren Bezirk? - schriftlich beantwortet
+- TOP 10.6: „Schneller Bauen“ in Berlin durch große Verwaltungsverwirrung? - vertagt
+- TOP 11: Beschlussempfehlungen - vertagt
+- TOP 11.1: Dem öffentlichen Drogenkonsum entgegentreten - vertagt
+- TOP 11.2: Parkraumbewirtschaftung mit Augenmaß – Teil 1 - vertagt
+- TOP 11.3: Bürger*innenräte in Tempelhof-Schöneberg - vertagt
+- TOP 11.4: Green Buddy Award: Fokus auf unseren Bezirk! - vertagt
+- TOP 11.5: Zugänglichkeit der Fahrradständer für Lastenräder an der SSH - vertagt
+- TOP 11.6: Planungen zum Haus der Jugend endlich voranbringen - vertagt
+- TOP 11.7: Gesprächsrunde für Vertreter von Kleingartenanlagen - vertagt
+- TOP 11.8: Ein P+R und B+R Parkhaus für Alt-Mariendorf - vertagt
+- TOP 11.9: Verkehrsanbindung für das Gewerbegebiet am Hossauerweg verbessern - vertagt
+- TOP 11.10: Eckenparken an der Kreuzung Waldsassener Straße / Tirschenreuther Ring - vertagt
+- TOP 11.11: Regenwetter und der Rennsteig wird zum See - vertagt
+- TOP 11.12: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 01 / 2024 - vertagt
+- TOP 11.13: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 02 / 2024 - vertagt
+- TOP 11.14: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 04 / 2024 - vertagt
+- TOP 11.15: Inklusionssport fördern - vertagt
+- TOP 11.16: Selbstständig(er)en Einkauf für Rollstuhlnutzer*innen ermöglichen - vertagt
+- TOP 12: Mitteilungen zur Kenntnisnahme - vertagt
+- TOP 12.1: Jahresbericht Rechtsamt vorlegen - vertagt
+- TOP 12.2: GREEN BUDDY AWARD zukünftig mit stärkerer Beteiligung der Bezirksverordnetenversammlung - vertagt
+- TOP 12.3: Kitasanierung: Ämterübergreifende Arbeitsgruppe einrichten. - vertagt
+- TOP 12.4: Unterstützung von sozial – ökologischen Projekten mit gemeinnützigem Charakter - vertagt
+- TOP 12.5: Queere Jugendarbeit in Tempelhof-Schöneberg endlich ausbauen - vertagt
+- TOP 12.6: Seniorengerechte Bänke im öffentlichen Raum - vertagt
+- TOP 12.7: Stark gegen Sexismus: Tempelhof-Schöneberg geht voran - vertagt
+- TOP 12.8: Sportplatz Monumentenstraße – das Grün muss weg - vertagt
+- TOP 12.9: Blümelteich – Informationstafeln über das Badeverbot aufstellen - vertagt
+- TOP 12.10: Aufhebung des Bezirksamtsbeschlusses vom 14.04.2015 (Beschluss Nr. 1504/XIX des Bezirksamts Tempelhof-Schöneberg) zur Aufstellung des vorhabenbezogenen Bebauungsplans 7-72 VE für das Grundstück Hauptstr. 162 / Willmanndamm 22 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - vertagt
+- TOP 12.11: Änderung des Geltungsbereiches des Landschaftsplanes 7-L- 6 „Landschaftspark Marienfelde“ - vertagt
+- TOP 12.12: Evaluation der AG Milieuschutz und die Folgen für den Bezirk Tempelhof-Schöneberg - vertagt
+- TOP 13: Termin der nächsten Sitzung - erledigt
