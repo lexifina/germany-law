@@ -1,0 +1,8 @@
+# TOP 2: Evaluation der Zulassung von Solaranlagen in
+
+- Sitzung: 24. Sitzung (2024-02-21)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/252379
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/85009
