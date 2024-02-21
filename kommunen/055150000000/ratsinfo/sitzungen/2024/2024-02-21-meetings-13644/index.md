@@ -1,0 +1,53 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-02-21T16:03:00+01:00
+- Ende: 2024-02-21T18:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13644
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13644
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00544426.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Evaluation der Zulassung von Solaranlagen in - zur Kenntnis genommen
+- TOP 3: Arbeitsmarkt- und Integrationsprogramm 2024 des Jobcenters der Stadt Münster - einstimmig beschlossen
+- TOP 4: Ratsantrag A-R 17/2022 der FDP "Städtische Reserveflächen der Friedhöfe für Ausgleichsmaßnahmen nutzbar machen" - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Feststellung des Jahresabschlusses 2022 der Stadt Münster, Korrektur zur Feststellung des Jahresabschlusses 2019 der Stadt Münster - einstimmig beschlossen
+- TOP 6: Änderung der Satzung für die Wahl des Jugendrates der Stadt Münster (Wahlordnung Jugendrat) - einstimmig beschlossen
+- TOP 7: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 7.1: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien
+- TOP 8: Freilichtmuseum Mühlenhof: Jahresberichte - zur Kenntnis genommen
+- TOP 9: KonvOY GmbH: Anpassung der Regelung in § 3 Abs. 3 der Geschäftsordnung des Aufsichtsrates (GO AR) zur Vertretung der Gemeinde im Aufsichtsrat - einstimmig beschlossen
+- TOP 10: Anpassung der Fahrpreise im Gebiet der Stadt Münster innerhalb des WestfalenTarifs zum 1. August 2024 - ohne Beschlussfassung geschoben
+- TOP 11: Westfälische Bauindustrie GmbH - Neufassung der Geschäftsordnung für die Geschäftsführung - einstimmig beschlossen
+- TOP 12: Bericht über die Beteiligungen der Stadt Münster im Jahr 2022 (Beteiligungsbericht 2022) - zur Kenntnis genommen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2023 - zur Kenntnis genommen
+- TOP 14: Nachtbürgermeister/in für Münster - zur Kenntnis genommen
+- TOP 15: Klimagerechte Stadtentwicklung – Rechtsexpertise zum Einsatz "energetischer Sanierungssatzungen" - zur Kenntnis genommen
+- TOP 16: Beitritt zum Netzwerk Stadtentwicklung NRW - einstimmig beschlossen
+- TOP 17: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept - ohne Beschlussfassung geschoben
+- TOP 17.1: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept
+- TOP 17.1.1: Mobilstationskonzept der Stadt Münster - Teil B: Standortkonzept
+- TOP 18: Fortschreibung 3. Nahverkehrsplan - Einstieg in die ÖPNV-Hochleistungsachsen im Korridor Coerde - Hauptbahnhof - mehrheitlich geändert beschlossen
+- TOP 19: Absicherung von Förderschulkapazitäten durch die Erweiterung der Papst-Johannes-Schule - Aufstellung von Fertigbauklassen - einstimmig beschlossen
+- TOP 20: Überleitung der Jugendhilfe an der Kompass-Schule in die Trägerschaft der freien Jugendhilfe - einstimmig beschlossen
+- TOP 21: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle - ohne Beschlussfassung geschoben
+- TOP 21.1: Rathaus-Stadtweinhaus: Umgestaltung der Bürgerhalle
+- TOP 22: Baugebiet „Handorf – Hobbeltstraße / Kirschgarten / Heriburgstraße“ – - ohne Beschlussfassung geschoben
+- TOP 23: Bürgerpark im York Quartier - ohne Beschlussfassung geschoben
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Hiltrup
+- TOP 24.1.1: Satzung gemäß § 34 BauGB für den Bereich „Angelmodde - Hiltruper Straße / Westlich Am Sandbach" - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.1.2: Beschluss zur 117. FNP-Änderung, Beschluss zur Änderung des Aufstellungsbeschlusses VBP 626: Gasometer - einstimmig beschlossen
+- TOP 24.1.3: Bebauungsplan Nr. 647: Hiltrup - Westfalenstraße (gegenüber Hallenbad) - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk Südost
+- TOP 24.2.1: 43. FNP-Änderung - Mömax - Abschließender Beschluss - einstimmig beschlossen
+- TOP 24.2.2: Bebauungsplan Nr. 604 - Mömax - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25: Verschiedenes
