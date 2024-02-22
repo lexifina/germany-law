@@ -1,0 +1,100 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-22T14:05:00+01:00
+- Ende: 2024-02-22T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26037
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26037
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512931.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512931.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512931.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 09.11.2023 (SI-RAT/007/2023) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Durchsetzung der Wohnraumschutzsatzung an der Adresse Am Wehrhahn 43 - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Wechsel der Ordnungsdezernentin Zur zur Deutschen Bahn - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass der SPD-Ratsfraktion: „Elterntaxi-Erlass“ des Landes NRW - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Demonstration am 27. Januar 2024 und Überlegungen, Anstrengungen und Unterstützungen zu einer noch deutlich höheren Teilnahme bei künftigen Demonstrationen dieser Art und mit diesem Anlass - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Weihnachtsmarkt auf der Schadowstraße Dezember 2023 und Radfahrverbot im Zeitraum von 11.00 bis 22.00h - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion DIE LINKE: Folgen der Insolvenzen von Signa-Projekten in Düsseldorf - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen der Düsseldorfer Ausländerbehörde 2023 - beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Bahnhofsseite Oberbilk – Was passiert mit dem Bertha-von-Suttner-Platz? - schriftlich beantwortet
+- TOP 4.6: Anfrage der SPD-Ratsfraktion: Klimaneutralität 2035 – Was ist mit dem Stadtbahnsystem? - schriftlich beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion DIE PARTEI-Klima-Fraktion: Anti-Rassismus-Training - schriftlich beantwortet
+- TOP 4.8: Anfrage der AfD-Ratsfraktion: Teilnahme der Stadtspitze bei Düsseldorfer Demonstrationen gegen Rechts am 27.01.2024 - schriftlich beantwortet
+- TOP 4.8.1: Anfrage der AfD-Ratsfraktion: Definition der Begriffe „Rechts“, „Rechtsradikal“, „Antidemokratisch“ und „Rechtsextrem“ im politischen Sprachgebrauch des Oberbürgermeisters und städtischer Repräsentanten - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfrau Vorspel: Emissionsbelastung durch den Düsseldorfer Flughafen - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Dr. Panhaus: Kontakt- und Hilfsangebote für drogenabhängige Menschen an der Moskauer Straße - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Volkenrath: Aufenthaltsmöglichkeiten für wohnungslose und suchtkranke Menschen im Bahnhofsumfeld - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Krüger: Zerstörung der Lebensgrundlagen vieler Tiere in städtischen Grünanlagen - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Jörres: Plant die Stadt Düsseldorf die Einführung einer Bezahlkarte für Asylbewerber? - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Kraljic: Welche Maßnahmen werden in Düsseldorfer Schulen ergriffen und bereits umgesetzt, um Vorfälle mit dem Hintergrund „religiöser Extremismus“ zu verhindern? - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Born: Kosten der Handball-Europameisterschaft - schriftlich beantwortet
+- TOP 4.16: Anfrage des Ratsherrn Lemmer: Sitzungen und Aufwendungen der Fraktionen und Gruppen des Rates sowie an die Fraktionen der Bezirksvertretungen im Zeitraum 1.1.2023 bis 31.12.2023 - schriftlich beantwortet
+- TOP 4.17: Anfrage des Ratsherrn Lemmer: Bürger aus der Ukraine in Düsseldorf - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Krüger: Pferde im Karneval - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Klimahilfe (wird zurückgezogen) - zurückgezogen
+- TOP 7: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 11: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 11.1: Änderungsantrag der Ratsgruppe Tierschutz FREIE WÄHLER zu Vorlage APS/097/2023
+- TOP 12: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 12.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage APS/098/2023/1
+- TOP 13: Umbenennung historisch belasteter Straßennamen in Düsseldorf - zurückgezogen
+- TOP 13.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage APS/099/2023/1
+- TOP 14: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 15: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 16: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 17: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage APS/102/2023/1
+- TOP 17.2: Ergänzungsantrag der AfD-Ratsfraktion zu den Vorlagen APS/097/2023 bis APS/103/2023 - Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich abgelehnt
+- TOP 18: Verlosung EFH am Areal Pastor-Dörr-Ring und Bonifatiusstraße - abweichend beschlossen
+- TOP 18.1: Änderungsantrag der SPD-Ratsfraktion zur Vorlage APS/145/2023 - mehrheitlich abgelehnt
+- TOP 18.2: Änderungsantrag von DIE PARTEI-Klima-Fraktion zur Vorlage APS/145/2023 Erbpacht statt Verkauf - mehrheitlich abgelehnt
+- TOP 18.3: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Beschlussvorlage APS/145/2023 - mehrheitlich beschlossen
+- TOP 18.4: mündlicher Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Beschlussvorlage APS/145/2023 - mehrheitlich beschlossen
+- TOP 19: Bebauungsplan-Entwurf Nr. 07/017 - Im Heidewinkel Ost - mehrheitlich beschlossen
+- TOP 20: Umsetzung des Ratsbeschlusses „Solaroffensive - Wir machen Düsseldorf zur Sonnenstadt“ - zur Kenntnis genommen
+- TOP 21: Zweckverband Verkehrsverbund Rhein Ruhr; Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG-NRW) für das Jahr 2024 - einstimmig beschlossen
+- TOP 22: Änderung der Bestimmungen über die Vergabe der Förderpreise Kunst - mehrheitlich beschlossen
+- TOP 23: Aufbau eines kommunalen Bikesharing-Systems in Düsseldorf - mehrheitlich beschlossen
+- TOP 24: Konrad-Adenauer-Platz - Weiterführung des Kooperativen Verfahrens zur Entwicklung des Bahnhofsumfeldes - mehrheitlich beschlossen
+- TOP 24.1: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage OVA/146/2023/1 - mehrheitlich abgelehnt
+- TOP 25: Neuwahl einer Schiedsperson - mehrheitlich beschlossen
+- TOP 26: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 2.0) „Hellerhof - Reisholz" - Gesamtstädtische Stellungnahme - mehrheitlich beschlossen
+- TOP 27: Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 28: Abberufung von Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 29: Umbenennung der GHS Bernburger Straße - einstimmig beschlossen
+- TOP 30: Vorschlag zur Wahl des Verbandsvorstehers (Deichgräf) der Neuen Deichschau Heerdt - Beschluss - - einstimmig beschlossen
+- TOP 31: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Wiederbestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 33: Verbandsversammlung des Zweckverbandes NRW KULTURsekretariat - Bestellung einer Vertretung für die Stadt - - mehrheitlich beschlossen
+- TOP 34: Mitgliederversammlung des Städtetages NRW vom 7. - 8. Mai 2024 in Neuss -Bestellung stimmberechtigter Delegierter- - mehrheitlich beschlossen
+- TOP 35: Besetzung der Ausschüsse durch den Jugendrat - einstimmig beschlossen
+- TOP 36: Kuratorium der ZERO-foundation - Ersatzwahl - mehrheitlich beschlossen
+- TOP 37: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - Neuwahl der Arbeitnehmervertreter/innen - - einstimmig beschlossen
+- TOP 38: Aufsichtsrat der Düsseldorf Congress GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 39: Anträge
+- TOP 39.1: Antrag der FDP-Ratsfraktion: Heinrich-Heine-Platz - mehrheitlich abgelehnt
+- TOP 39.2: Antrag der Ratsfraktion DIE LINKE: Jährlicher Bericht der Kommission Flughafen - abweichend beschlossen
+- TOP 39.3: Antrag der Ratsfraktion DIE LINKE: Einrichtung einer temporären gesicherten Radweganlage während der UEFA EURO 2024 - mehrheitlich abgelehnt
+- TOP 39.3.1: Änderungsantrag der Ratsfraktion von BÜNDNIS90/ DIE GRÜNEN zu RAT/022/2024 - mehrheitlich beschlossen
+- TOP 39.4: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, FDP, DIE LINKE und Die PARTEI-Klima: Demokratie verteidigen - mehrheitlich beschlossen
+- TOP 39.5: Antrag der Ratsfraktionen von SPD, DIE LINKE und Die PARTEI-Klima: Szenetreffpunkt zur Zwischennutzung am Gesundheitsamt/Kölner Straße einrichten - mehrheitlich abgelehnt
+- TOP 39.6: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Mietwohnungen für die Mitte – Konzept für städtische Förderdarlehn
+- TOP 39.6.1: Änderungsantrag der SPD-Ratsfraktion zum Antrag RAT/035/2024
+- TOP 39.6.2: Ergänzungsantrag der FDP-Ratsfraktion zu TOP Ö 39.6, RAT/035/2024
+- TOP 39.6.3: Änderungsantrag der Ratsfraktion DIE PARTEI-Klima_Fraktion zum Antrag RAT/035/2024
+- TOP 39.7: Antrag der Ratsfraktion DIE LINKE: Resolution für besseren Nahverkehr in Düsseldorf
+- TOP 39.8: Antrag der AfD-Ratsfraktion: Ja zur Meinungsfreiheit, Nein zu Gewaltaufrufen gegen einzelne Parteien und deren Mitglieder
