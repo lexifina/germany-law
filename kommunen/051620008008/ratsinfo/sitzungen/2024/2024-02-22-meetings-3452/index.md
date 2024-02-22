@@ -1,0 +1,51 @@
+# Hauptausschuss der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-02-22T15:05:00+01:00
+- Ende: 2024-02-22T17:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3452
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3452
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bürgeranträge nach § 24 GO NRW
+- TOP 3: Sonstige Anträge zur Tagesordnung
+- TOP 3.1: Anträge der SPD-Fraktion
+- TOP 3.2: Anträge der CDU-Fraktion
+- TOP 3.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 3.3.1: Reduzierung von Büroflächen (Antrag Nr.:23/2024)
+- TOP 3.3.2: Gründung einer kommunalen Gesellschaft zur Nutzung regenerativer Energien (Antrag Nr.:24/2024) - einstimmig beschlossen
+- TOP 3.4: Anträge der FDP-Fraktion
+- TOP 3.4.1: Dachsanierung Turnverein Orken 1896 e.V. (Antrag Nr.:10/2024)
+- TOP 3.4.2: Einrichtung einer Arbeitsgruppe "Zukunft der Kirmessen und Schützenfeste" in Grevenbroich mit Vereinsvertretern, Politik und Verwaltung (Antrag Nr.:16/2024) - einstimmig beschlossen
+- TOP 3.4.3: Investitionen in die Gebäudeinfrastruktur am Sportplatz in Wevelinghoven (Antrag Nr.:11/2024)
+- TOP 3.4.4: Faire Rückerstattung von Kita-Beiträgen bei langfristig gekürzten Angeboten ermöglichen (Antrag Nr.:12/2024)
+- TOP 3.4.5: Betriebskindergarten für städtische Mitarbeiterinnen und Mitarbeiter (Antrag Nr.:14/2024) - einstimmig beschlossen
+- TOP 3.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 3.6: Anträge der UWG-Fraktion
+- TOP 3.6.1: Verzicht auf Steuereinnahmen, bei denen der Verwaltungsaufwand höher ist als die Summe der zu erzielenden Einnahmen (Antrag Nr.:19/2024) - einstimmig beschlossen
+- TOP 3.6.2: Kauf der Photovoltaik-Anlage am Neurather und Herrichtung für die städtische Nutzung (Antrag Nr.:20/2024) - einstimmig beschlossen
+- TOP 4: Sonstige Anfragen zur Tagesordnung
+- TOP 4.1: Flutlichtscheinwerfer auf dem Aschenplatz in der Südstadt (Anfrage Nr.:17/2024)
+- TOP 5: Haushaltsangelegenheiten
+- TOP 5.1: Schriftliche Anfragen von Fraktionen für das Haushaltsjahr 2024
+- TOP 5.1.1: Fragen zum Haushaltsentwurf 2024 (Anfrage Nr. 28/2024)
+- TOP 5.1.1.1: Fragen zum Haushaltsentwurf 2024 (Anfrage Nr. 28/2024); hier: Beantwortung - Kenntnisnahme
+- TOP 5.2: Für das Haushaltsjahr 2024 haushaltsrelevante schriftliche Anträge von Fraktionen
+- TOP 5.2.1: Digitale Gremiensitzungen ermöglichen (Antrag Nr.:22/2024) - mehrheitlich beschlossen
+- TOP 5.2.2: Verzicht auf die Zutrittskontrollen im Bürgerbüro (Antrag Nr.:13/2024)
+- TOP 5.2.3: Mehr Mittel für die Schulung der Mitarbeiter für die Nutzung der Digitalisierung der Verwaltung (Antrag Nr.:18/2024)
+- TOP 5.2.4: Barrierefreie Kommunikation - für mehr Bürgernähe (Antrag Nr. 29/2024) - mehrheitlich beschlossen
+- TOP 5.2.5: Sicherstellung der kleineren Kirmessen durch Erlass von Marktstandgebühren (Antrag Nr.:15/2024) - einstimmig beschlossen
+- TOP 5.2.6: Übertragung der nicht verbrauchten Geldmittel für das Inklusionskonzept in den Haushalt 2024 (Antrag Nr.:25/2024)
+- TOP 5.2.7: Förderung von Demokratie und Ehrenamt in Grevenbroich (Antrag Nr. 27/2024) - einstimmig beschlossen
+- TOP 5.2.8: 1 Million Euro Entlastung für die Familien (Antrag Nr. 26/2024) - einstimmig beschlossen
+- TOP 5.2.9: Bereitstellung von 100.000 € für die Förderung von Balkonkraftwerken (Antrag Nr.:21/2024) - mehrheitlich abgelehnt
+- TOP 5.2.10: Zielbild und Handlungskonzept Innenstadt (Antrag Nr. 30/2024)
+- TOP 5.3: Haushalt 2024 - einstimmig beschlossen
+- TOP 6: Mitteilungen des Bürgermeisters
