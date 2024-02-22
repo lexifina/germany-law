@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 5 Absatz 2 Nummer 1 und 1a in Verbindung mit Absatz 1 Nummer 1 Buchstabe b und des § 22 Absatz 1 Nummer 4 in Verbindung mit Absatz 3 des Saatgutverkehrsgesetzes in der Fassung der Bekanntmachung vom 16. Juli 2004 (BGBl. I S. 1673), die jeweils zuletzt durch Artikel 372 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, verordnet das Bundesministerium für Ernährung und Landwirtschaft:
