@@ -1,58 +1,72 @@
-# Anlage 1 (zu § 3 Abs. 1 Nr. 1)Hinweis auf Kraftstoffverbrauch und CO2-Emissionen und Stromverbrauch
+# Anlage 1 Hinweis über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen
 
-A.
-Anforderungen an den Hinweis gemäß § 3 Absatz 1 Nummer 1
-Abschnitt I
+Teil I
 Inhalt und Gestaltung des Hinweises
-auf den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch
-1. Die Größe des Hinweises beträgt 297 mm x 210 mm (DIN A4).
-2. Der Hinweis ist einheitlich nach dem Formblatt in Abschnitt II dieser Anlage zu erstellen. Die Anwendung einer vom Formblatt abweichenden Schriftart auf dem Hinweis ist zulässig, soweit Schrifthöhe und Schriftgrad unverändert bleiben und die gewählte Schriftart auch für die anderen zum Fahrzeug am Verkaufsort gemachten Angaben verwendet wird.
-3. Nach der Überschrift „Information über Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch i.S.d. Pkw-EnVKV“ sind folgende Angaben zum Fahrzeug zu machen: Marke, Modell, konkretisiert durch Typ, Variante und Version, Leistung, Kraftstoff, andere Energieträger und Masse des Fahrzeugs.
-4. Anschließend sind die zum jeweiligen Fahrzeug gehörigen und in der EG-Übereinstimmungsbescheinigung (Certificate of Conformity – CoC) im Sinne der Verordnung (EG) Nr. 385/2009 der Kommission vom 7. Mai 2009 zur Ersetzung des Anhangs IX der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge („Rahmenrichtlinie“) (ABl. L 118 vom 13.5.2009, S. 13) ausgewiesenen Werte des offiziellen Kraftstoffverbrauchs (Testzyklen innerorts und außerorts sowie kombiniert), der offiziellen spezifischen CO2-Emissionen im kombinierten Testzyklus und gegebenenfalls der offizielle Stromverbrauch im kombinierten Testzyklus anzugeben. Bei Fahrzeugen, die nicht über eine EG-Übereinstimmungsbescheinigung (Certificate of Conformity – CoC) im Sinne der Verordnung (EG) Nr. 385/2009 verfügen, sind abweichend von Satz 1 die in den Genehmigungsdokumenten im Sinne der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) ausgewiesenen Werte des offiziellen Kraftstoffverbrauchs (Testzyklen innerorts und außerorts sowie kombiniert), der offiziellen spezifischen CO2-Emissionen im kombinierten Testzyklus und gegebenenfalls der offizielle Stromverbrauch im kombinierten Testzyklus anzugeben. Bei Fahrzeugen mit mehr als einem flüssigen oder gasförmigen Energieträger sind unter „Kraftstoff“ sämtliche Kraftstoffe getrennt durch einen Schrägstrich aufzuführen [z. B. Super/Super Plus/E85], wobei derjenige Kraftstoff kursiv hervorzuheben ist, auf den sich die Angaben zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen beziehen. Als Werte für den offiziellen Kraftstoffverbrauch und die offiziellen spezifischen CO2-Emissionen werden die Werte desjenigen Kraftstoffs mit den geringsten offiziellen spezifischen CO2-Emissionen eingetragen, wobei die Zahlenwerte für den offiziellen Kraftstoffverbrauch und für die offiziellen spezifischen CO2-Emissionen dieses Kraftstoffs kursiv hervorzuheben sind. Bei rein elektrisch betriebenen Fahrzeugen wird bei der Angabe der offiziellen spezifischen CO2-Emissionen eine „0“ eingetragen. Bei extern aufladbaren Hybridelektrofahrzeugen und Brennstoffzellenfahrzeugen sind nur die Werte des offiziellen Kraftstoffverbrauchs, der offiziellen spezifischen CO2-Emissionen und des offiziellen Stromverbrauchs im kombinierten Testzyklus nach Maßgabe des Satzes 1 anzugeben; eine Angabe zum offiziellen Kraftstoffverbrauch für die Testzyklen innerorts und außerorts ist nicht vorzunehmen und durch die Eintragung „entfällt“ im Formblatt nach Abschnitt II zu kennzeichnen. Die Werte der kombinierten Testzyklen für den offiziellen Kraftstoffverbrauch, für die offiziellen spezifischen CO2-Emissionen und den offiziellen Stromverbrauch des Fahrzeugs müssen sich in allen Fällen der Nummer 4 durch einen größeren Schriftgrad aus dem gesamten Text herausheben.
-5. Den Angaben nach Nummer 4 können folgende Hinweise hinzugefügt werden:
-  a) Die angegebenen Werte wurden nach dem vorgeschriebenen Messverfahren (§ 2 Nrn. 5, 6, 6a Pkw-EnVKV in der jeweils geltenden Fassung) ermittelt.
-  b) CO2-Emissionen, die durch die Produktion und Bereitstellung des Kraftstoffes bzw. anderer Energieträger entstehen, werden bei Ermittlung der CO2-Emissionen gemäß der Richtlinie 1999/94/EG nicht berücksichtigt.
-  c) Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen den verschiedenen Fahrzeugtypen.
-6. Darunter sind unter der Überschrift „Hinweis nach Richtlinie 1999/94/EG“ folgende Informationen aufzunehmen:
-  „Der Kraftstoffverbrauch und die CO2-Emissionen eines Fahrzeugs hängen nicht nur von der effizienten Ausnutzung des Kraftstoffs durch das Fahrzeug ab, sondern werden auch vom Fahrverhalten und anderen nichttechnischen Faktoren beeinflusst. CO2 ist das für die Erderwärmung hauptsächlich verantwortliche Treibhausgas. Ein Leitfaden über den Kraftstoffverbrauch und die CO2-Emissionen aller in Deutschland angebotenen neuen Personenkraftfahrzeugmodelle ist unentgeltlich an jedem Verkaufsort in Deutschland erhältlich, an dem neue Personenkraftfahrzeuge ausgestellt oder angeboten werden.“
-7. Nach Nummer 6 ist unter der Überschrift „CO2-Effizienz“ und dem in fett hervorgehobenen Hinweis „Auf der Grundlage der gemessenen CO2-Emissionen unter Berücksichtigung der Masse des Fahrzeugs ermittelt“ eine grafische Darstellung unter Verwendung der in § 3a Absatz 2 festgelegten CO2-Effizienzklassen für das jeweilige Fahrzeug anzufügen. Die grafische Darstellung muss dem in Teil A Abschnitt II beschriebenen Formblatt entsprechen. Dabei sind folgende Farbzusammensetzungen zur Darstellung der CO2-Effizienzklassen zu verwenden:
-  A +, A 100 % Cyan, 100 % Gelb
+1. Die Größe des Hinweises hat 297 mm x 210 mm (DIN A4) zu betragen.
+2. Der Hinweis ist einheitlich nach den Mustern in Teil II zu erstellen. Auf dem Hinweis darf auch eine andere Schriftart verwendet werden als die in den Mustern verwendete, wenn
+  a) die Schriftfarbe unverändert bleibt,
+  b) der mindestens einzuhaltende Schriftgrad gewahrt wird und
+  c) die gewählte Schriftart einheitlich auch für die anderen zum Fahrzeug am Verkaufsort gemachten Angaben verwendet wird.
+  Alle Angaben auf dem Hinweis müssen, soweit nicht im Folgenden ausdrücklich anders geregelt, schwarz auf weißem Hintergrund sein.
+3. Die Überschrift der Hinweise („Information über den Energieverbrauch und die CO2-Emissionen des neuen Pkw“) muss im Schriftgrad 26 pt fett gedruckt sein. Bei einer freiwilligen Kennzeichnung für gebrauchte Personenkraftwagen muss die Überschrift zu „Information über den Energieverbrauch und die CO2-Emissionen des gebrauchten Pkw“ geändert und im Schriftgrad 26 pt fett gedruckt werden. Bei einer freiwilligen Kennzeichnung von neuen Personenkraftwagen, für die dem Hersteller noch keine verbindlichen WLTP-Werte vorliegen, ist der Überschrift das Wort „(vorläufig)“ im Schriftgrad 26 pt fett anzufügen.
+4. Nach der Überschrift sind im ersten Kasten folgende Angaben zum jeweiligen Fahrzeug zu machen:
+  a) Marke („Fabrikmarke“ nach Nummer 0.1 der Übereinstimmungsbescheinigung),
+  b) Handelsbezeichnung („Handelsbezeichnung“ nach Nummer 0.2.1 der Übereinstimmungsbescheinigung),
+  c) Antriebsart des Personenkraftwagens sowie
+  d) Kraftstoff („Kraftstoff“ nach Nummer 26 der Übereinstimmungsbescheinigung, unterschieden lediglich nach den Begriffen Benzin, Diesel oder komprimiertem Erdgas sowie gegebenenfalls nach anderen Energieträgern; bei Ottokraftstoffen und Dieselkraftstoffen kann auf den Zusatz „schwefelfrei“ verzichtet werden).
+  Die Angaben in diesem Kasten sollen einen Schriftgrad von 16 pt haben, dürfen jedoch einen Schriftgrad von 14 pt nicht unterschreiten.
+5. Im zweiten Kasten anzugeben sind die zum jeweiligen Fahrzeug gehörigen Werte
+  a) des Energieverbrauchs (Verbrauch von flüssigem Kraftstoff, komprimiertem Erdgas, Wasserstoff oder Strom) („CO2-Emissionen/Kraftstoffverbrauch/Stromverbrauch“ nach Nummer 49.1 der Übereinstimmungsbescheinigung) und
+  b) der CO2-Emissionen („CO2-Emissionen/Kraftstoffverbrauch/Stromverbrauch“ nach Nummer 49.1 der Übereinstimmungsbescheinigung).
+  Dabei sind die kombinierten Werte maßgeblich. Bei extern aufladbaren Hybridelektrofahrzeugen sind jedoch die gewichtet kombinierten Werte maßgeblich („CO2-Emissionen/Kraftstoffverbrauch/Stromverbrauch“ nach Nummer 49.4 der Übereinstimmungsbescheinigung). Bei rein elektrisch betriebenen Fahrzeugen und Brennstoffzellenfahrzeugen mit Wasserstoff als Energieträger wird bei der Angabe der CO2-Emissionen „0“ eingetragen. Die Angabe ist mit einer Fußnote zu versehen, die darauf verweist, dass nur die CO2-Emissionen berücksichtigt werden, die durch den Betrieb des Fahrzeugs entstehen.
+  Sofern es sich um ein rein elektrisch betriebenes Fahrzeug handelt, ist zusätzlich die elektrische Reichweite anzugeben („Elektrische Reichweite“ nach Nummer 49.2 der Übereinstimmungsbescheinigung). Bei extern aufladbaren Hybridelektrofahrzeugen ist hierfür der elektrische Reichweitewert EAER (Equivalent All Electric Range, gleichwertige vollelektrische Reichweite) gemäß Anhang B8 Nummer 4.5.7.3 der UN-Regelung Nr. 154 anzugeben („Elektrische Reichweite EAER“ nach Nummer 49.5 der Übereinstimmungsbescheinigung).
+  Die Angaben in diesem Kasten sollen einen Schriftgrad von 16 pt haben, dürfen jedoch einen Schriftgrad von 14 pt nicht unterschreiten.
+6. Im dritten Kasten auf der linken Seite auf einer Breite von mindestens zwei Dritteln der Seitenbreite ist unter der Überschrift „CO2-Klasse“ und dem Hinweis „Auf Grundlage der CO2-Emissionen kombiniert“ eine grafische Darstellung unter Verwendung der in § 3a festgelegten CO2-Klassen für das jeweilige Kraftfahrzeug anzufügen. Bei extern aufladbaren Hybridelektrofahrzeugen lautet der Hinweis „Auf Grundlage der CO2-Emissionen gewichtet kombiniert“ sowie rechts danebenstehend „bei entladener Batterie“. Die Einteilung in die jeweiligen CO2-Klassen erfolgt nach den jeweiligen CO2-Emissionen des Kraftfahrzeugs. Die grafische Darstellung muss den Mustern in Teil II entsprechen. Dabei sind folgende Farbzusammensetzungen zur Darstellung der CO2-Klassen zu verwenden:
+  A 100 % Cyan, 100 % Gelb
   B 70 % Cyan, 100 % Gelb
   C 30 % Cyan, 100 % Gelb
   D 100 % Gelb
   E 30 % Magenta, 100 % Gelb
-  F 70 % Magenta, 100 % Gelb
-  G 100 % Magenta, 100 % Gelb.
-  Die CO2-Effizienz des Fahrzeugs wird mittels eines in schwarz-weiß dargestellten Pfeils ausgedrückt, der in weißer Schriftfarbe auch den Kennzeichnungsbuchstaben der entsprechenden CO2-Effizienzklasse trägt. Die Spitze dieses Pfeils muss der Spitze des Pfeils der CO2-Effizienzklasse genau gegenüberstehen. Der Pfeil mit dem Kennzeichnungsbuchstaben darf nicht kleiner sein als der Pfeil mit Angabe der CO2-Effizienzklasse, darf aber auch nicht mehr als doppelt so groß sein.
-8. Anschließend sind die Jahressteuer für das jeweilige Fahrzeug, ausgenommen Elektrofahrzeuge, sowie die jährlichen Energieträgerkosten bei einer Laufleistung von 20 000 Kilometern, unterteilt in Kraftstoffkosten und gegebenenfalls Stromkosten anzugeben. Hinter dem Begriff Kraftstoffkosten ist in Klammern derjenige Kraftstoff anzugeben, auf den sich die Angaben zum offiziellen Kraftstoffverbrauch und zu den offiziellen spezifischen CO2-Emissionen im Sinne der Anlage 1 Abschnitt I Nummer 4 beziehen. Sofern es sich um ein Fahrzeug mit mehr als einem flüssigen oder gasförmigen Energieträger handelt, ist der in Klammern anzugebende Kraftstoff in Übereinstimmung zur Darstellung im Sinne der Anlage 1 Abschnitt 1 Nummer 4 kursiv hervorzuheben. Für die Angabe der Kraftstoff- und gegebenenfalls Stromkosten sind diejenigen Preisangaben zugrunde zu legen, die das Bundesministerium für Wirtschaft und Energie jährlich im Bundesanzeiger veröffentlicht. Die erste Preisliste wird mit Verkündung dieser Verordnung im Bundesanzeiger veröffentlicht. In den Folgejahren aktualisiert das Bundesministerium für Wirtschaft und Energie die Preisangaben jährlich durch Veröffentlichung im Bundesanzeiger zum 30. Juni eines Jahres. Die jeweils zum 30. Juni eines Jahres im Bundesanzeiger aktualisierten Preise sind für neue Personenkraftwagen, die nach dem 30. Juni eines Jahres ausgestellt oder zum Kauf oder Leasing angeboten werden, spätestens nach drei Monaten ab dem Datum der Veröffentlichung im Bundesanzeiger anzuwenden. Die Preisliste erfasst Kraftstoffe im Sinne der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung und Strom, sofern für den jeweiligen Kraftstoff beziehungsweise für den Strom ein marktgängiger Preis feststellbar ist.
-9. Darunter ist die Angabe „Erstellt am:“ einzufügen und das Datum der Erstellung des Hinweises mit Tages-, Monats- und Jahreszahlangabe einzutragen.
-Abschnitt II
-Formblatt für den Hinweis auf den Kraftstoffverbrauch,
-die CO2-Emissionen und den Stromverbrauch
-B.
-Anforderungen an den Hinweis
-gemäß § 3 Absatz 1 Nummer 1 mit weiteren Effizienzklassen
-Abschnitt I
-Inhalt und Gestaltung des Hinweises
-auf den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch
-1. Es gelten die Anforderungen des Teils A, Abschnitt I dieser Anlage, soweit nachfolgend nichts anderes bestimmt ist.
-2. Unter der Überschrift „CO2-Effizienz“ und dem in fett hervorgehobenen Hinweis „Auf der Grundlage der gemessenen CO2-Emissionen unter Berücksichtigung der Masse des Fahrzeugs ermittelt“ ist eine grafische Darstellung unter Verwendung der in § 3a Absatz 3 festgelegten CO2-Effizienzklassen für das jeweilige Fahrzeug anzufügen. Sie muss dem in Teil B Abschnitt II beziehungsweise Abschnitt III beschriebenen Formblatt entsprechen. Bei Einführung der Klasse A ++ sind folgende Farbzusammensetzungen zur Darstellung der CO2-Effizienzklassen zu verwenden:
-  A ++, A + 100 % Cyan, 100 % Gelb
-  A 70 % Cyan, 100 % Gelb
-  B, C 30 % Cyan, 100 % Gelb
-  D 100 % Gelb
-  E 70 % Magenta, 100 % Gelb
-  F, G 100 % Magenta, 100 % Gelb.
-  Bei Einführung der Klasse A +++ oder bei gleichzeitiger Einführung der Klassen A ++ und A +++ sind die folgenden Farbzusammensetzungen zur Darstellung der CO2-Effizienzklassen zu verwenden:
-  A +++, A ++ 100 % Cyan, 100 % Gelb
-  A + 70 % Cyan, 100 % Gelb
-  A, B 30 % Cyan, 100 % Gelb
-  C 100 % Gelb
-  D 70 % Magenta, 100 % Gelb
-  E, F, G 100 % Magenta, 100 % Gelb.
-Abschnitt II
-Formblatt für den Hinweis auf den Kraftstoffverbrauch,
-die CO2-Emissionen und den Stromverbrauch bei Einführung der Effizienzklasse A ++
-Abschnitt III
-Formblatt für den Hinweis auf den Kraftstoffverbrauch,
-die CO2-Emissionen und den Stromverbrauch bei Einführung der Effizienzklasse A +++
+  F 70 % Magenta, 100% Gelb
+  G 100 % Magenta, 100 % Gelb
+  Die CO2-Klasse des Kraftfahrzeugs wird durch einen in schwarz dargestellten Pfeil angezeigt, dessen Spitze der Spitze des Pfeils der einschlägigen CO2-Klasse genau gegenübersteht. Der schwarze Pfeil trägt den Kennzeichnungsbuchstaben der einschlägigen CO2-Klasse in der weißen Farbe des Hintergrunds. Der schwarze Pfeil darf nicht kleiner sein als der Pfeil mit Angabe der CO2-Klasse, darf aber auch nicht mehr als doppelt so groß sein.
+  Bei extern aufladbaren Hybridelektrofahrzeugen ist ein zweiter Pfeil rechts neben dem ersten Pfeil anzugeben. Der zweite Pfeil gibt die CO2-Emissionen bei entladener Batterie (Wert für „kombiniert (erhaltend)“ nach Nummer 49.4 der Übereinstimmungsbescheinigung) an. Die beiden Pfeile werden durch eine vertikale schwarze Linie optisch voneinander getrennt.
+  Die Angaben in diesem Kasten sollen einen Schriftgrad von 16 pt haben, dürfen jedoch einen Schriftgrad von 14 pt nicht unterschreiten.
+7. Im dritten Kasten auf der rechten Seite sind weitere Angaben zum Energieverbrauch aufzunehmen.
+  Für alle extern aufladbaren Hybridelektrofahrzeuge sind anzugeben:
+  a) der kombinierte Wert sowie die phasenspezifischen Werte für den „Stromverbrauch bei rein elektrischem Betrieb“ nach Nummer 49.4 der Übereinstimmungsbescheinigung und
+  b) der kombinierte Wert sowie die phasenspezifischen Werte für den „Kraftstoffverbrauch bei entladener Batterie“ nach Nummer 49.4 der Übereinstimmungsbescheinigung.
+  Bei extern aufladbaren Hybridelektrofahrzeugen, die mit komprimiertem Erdgas betankt werden, ist der Kraftstoffverbrauch in kg je 100 km anzugeben.
+  Bei den Antriebsarten Verbrennungsmotor oder Brennstoffzelle sind anzugeben:
+  a) der aus Nummer 49.1 der Übereinstimmungsbescheinigung ausgewiesene kombinierte Wert sowie
+  b) die aus Nummer 49.1 der Übereinstimmungsbescheinigung ausgewiesenen phasenspezifischen Werte des Kraftstoffverbrauchs.
+  Bei rein elektrisch betriebenen Fahrzeugen sind anzugeben:
+  a) der aus Nummer 49.1 der Übereinstimmungsbescheinigung ausgewiesene kombinierte Wert sowie
+  b) die aus Nummer 49.1 der Übereinstimmungsbescheinigung ausgewiesenen phasenspezifischen Werte des Stromverbrauchs.
+  Die Angaben in diesem Kasten dürfen einen Schriftgrad von 12 pt nicht unterschreiten.
+8. Sodann sind im vierten Kasten die Energiekosten bei einer Jahresfahrleistung von 15 000 Kilometern anzugeben (Kraftstoff-, Wasserstoff- oder Strompreis und bei extern aufladbaren Hybridelektrofahrzeugen Kraftstoff- und Strompreis). Die Energiekosten sind zu bestimmen, indem der jeweils einschlägige vom Bundesministerium für Wirtschaft und Klimaschutz bekannt gegebene Durchschnittspreis des relevanten Energieträgers multipliziert wird mit dem Energieverbrauch des jeweiligen Fahrzeugs und dem Faktor 150. Für den jeweils einschlägigen Durchschnittspreis des Energieträgers sind zunächst noch diejenigen Preisangaben zugrunde zu legen, die das Bundesministerium für Wirtschaft und Klimaschutz zuletzt am 30. Juni 2023 im Bundesanzeiger veröffentlicht hat. Zukünftig, erstmals zum 30. Juni 2024, hat das Bundesministerium für Wirtschaft und Klimaschutz die maßgeblichen Preisangaben jährlich auf seiner Homepage zu veröffentlichen. Sie werden jedes Jahr zum 30. Juni aktualisiert. Die jeweils aktuellen Preisangaben sind für neue Personenkraftwagen, die nach dem 30. Juni ausgestellt oder zum Kauf, zur Langzeitmiete oder zum Leasing angeboten werden, spätestens ab dem 1. Oktober des jeweiligen Jahres anzuwenden. Die Preisliste erfasst Kraftstoffe im Sinne der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung und Strom, sofern für den jeweiligen Kraftstoff oder für den Wasserstoff oder für den Strom ein marktgängiger Preis feststellbar ist. Das jeweils relevante Jahr und der jeweils zugrunde liegende durchschnittliche Kraftstoff-, Strom- oder Wasserstoffpreis in diesem Jahr sind in Klammern unter der Angabe der jährlichen Energiekosten anzugeben.
+  Anschließend sind die CO2-Kosten als „Mögliche CO2-Kosten über die nächsten 10 Jahre (15 000 km/Jahr)“ anzugeben. Darunter sind drei verschiedene Angaben zu den CO2-Kosten zu machen, um die Unsicherheiten in den CO2-Preisprognosen zu verdeutlichen. Der jeweils zur Berechnung herangezogene CO2-Preis ist anzugeben. Die CO2-Kosten sind mit einer Fußnote zu versehen, die darauf verweist, dass die angenommene CO2-Preisentwicklung unsicher ist, sodass die Berechnung anhand von drei verschiedenen CO2-Preisen über den maßgeblichen zehnjährigen Zeitraum erfolgt. Die Jahre, mit denen dieser Zeitraum beginnt und endet, sind anzugeben. Des Weiteren enthält die Fußnote die Hinweise, dass die tatsächlichen CO2-Preise sowohl höher oder niedriger als in den hier zugrunde liegenden Modellrechnungen sein können und dass die CO2-Kosten beim Tanken mit den Kraftstoffkosten zu entrichten sind. Für weitere Informationen verweist die Fußnote auf eine entsprechende Informationsplattform.
+  Es sind drei verschiedene Werte für die Angabe der CO2-Kosten zu berechnen. Jeder Berechnung liegt ein anderer für den zehnjährigen Zeitraum angenommener durchschnittlicher CO2-Preis zu Grunde. Die einzelnen Angaben zu den CO2-Kosten sind zu berechnen, indem jeweils einer der vom Bundesministerium für Wirtschaft und Klimaschutz bekannt gegebenen angenommenen durchschnittlichen CO2-Preise multipliziert wird mit den CO2-Emissionen des jeweiligen Kraftfahrzeugs und dem Faktor 0,15. Das Ergebnis ist kaufmännisch auf die zweite Nachkommastelle zu runden. Für die Berechnung der anzugebenden CO2-Kosten sind zunächst die folgenden angenommenen durchschnittlichen CO2-Preise zugrunde zu legen:
+  | CO2-Kosten | angenommener durchschnittlicher CO2-Preis in Euro pro Tonne |
+  | Angabe 1 | 115,00 |
+  | Angabe 2 | 50,00 |
+  | Angabe 3 | 190,00 |
+  Zukünftig, erstmals zum 30. Juni 2024, veröffentlicht das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz sowie dem Bundesministerium für Digitales und Verkehr die aktualisierten maßgeblichen angenommenen durchschnittlichen CO2-Preise jährlich auf seiner Homepage. Die CO2-Preise werden jedes Jahr zum 30. Juni aktualisiert. Die jeweils aktuellen Preise sind für neue Personenkraftwagen, die nach dem 30. Juni ausgestellt, zum Kauf, zur Langzeitmiete oder zum Leasing angeboten werden, spätestens ab dem 1. Oktober des jeweiligen Jahres anzuwenden. Solange keine aktualisierten CO2-Preise veröffentlicht sind, sind weiterhin die zuletzt veröffentlichten CO2-Preise maßgeblich. Das erste Jahr des zehnjährigen Zeitraums ist jeweils das auf die Bekanntmachung folgende Jahr.
+  Zuletzt ist die Kraftfahrzeugsteuer (Jahressteuer) für das jeweilige Fahrzeug anzugeben. Sofern Fahrzeuge aufgrund fahrzeugspezifischer Merkmale von der Kraftfahrzeugsteuer befreit sind, ist die Steuerbefreiung durch die Eintragung „befristet steuerbefreit“ im Muster nach Teil II zu kennzeichnen und mit einer Fußnote zu versehen, die das Ende der Befristung nennt. Sofern im Kraftfahrzeugsteuergesetz für die Inanspruchnahme der Kraftfahrzeugsteuerbefreiung ein befristeter Zeitraum, abhängig vom Erstzulassungsdatum des Fahrzeuges, vorgesehen ist, ist die Eintragung längstens bis zum Ablauf der Befristung vorzunehmen.
+  Die Angaben in diesem Kasten dürfen einen Schriftgrad von 12 pt nicht unterschreiten.
+9. Anschließend sind im fünften Kasten die in Teil II Muster 1 bis 5 aufgeführten Erläuterungen aufzunehmen und an den entsprechend gekennzeichneten Stellen zu ergänzen (Internetseite der von den Herstellern bestimmten Stelle sowie das Anfangs- und Endjahr des für die CO2-Kosten maßgeblichen zehnjährigen Zeitraumes). Der Schriftgrad dieser Informationen darf 10 pt nicht unterschreiten.
+10. Unterhalb des fünften Kastens sind links die Fahrzeug-Identifizierungsnummer (nach Nummer 0.10 der Übereinstimmungsbescheinigung) und rechts das Erstellungsdatum des Hinweises anzugeben. Der Schriftgrad dieser Informationen darf 10 pt nicht unterschreiten.
+Teil II
+Muster für den Hinweis über den Energieverbrauch und die CO2-Emissionen
+neuer Personenkraftwagen
+Die folgenden Muster 1 bis 5 visualisieren die Anforderungen an die vorgeschriebenen Hinweise für verschiedene Antriebs- und Kraftstoffkombinationen. Die Abbildungen sind verkleinert dargestellt.
+1. Muster 1 für Personenkraftwagen mit Verbrennungsmotor, angetrieben durch flüssige Kraftstoffe:
+  [Bild: bgbl1_2024_j00500_0010.jpg]
+2. Muster 2 für Personenkraftwagen mit Verbrennungsmotor, angetrieben durch komprimiertes Methan:
+  [Bild: bgbl1_2024_j00500_0020.jpg]
+3. Muster 3 für Personenkraftwagen mit extern aufladbarem hybridelektrischen Antrieb:
+  [Bild: bgbl1_2024_j00500_0030.jpg]
+4. Muster 4 für Personenkraftwagen mit rein elektrischem Antrieb:
+  [Bild: bgbl1_2024_j00500_0040.jpg]
+5. Muster 5 für ein Brennstoffzellenfahrzeug:
+  [Bild: bgbl1_2024_j00500_0050.jpg]
