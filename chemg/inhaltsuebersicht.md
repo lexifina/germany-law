@@ -45,6 +45,9 @@
 | § 16d | Mitteilungspflichten bei Gemischen |
 | § 16e | Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen |
 | § 16f | Informationspflicht der Lieferanten |
+|  | Abschnitt 4a |
+|  | (zukünftig in Kraft) |
+| §§ 16g bis 16l | (zukünftig in Kraft) |
 |  | Fünfter Abschnitt |
 |  | Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten |
 | § 17 | Verbote und Beschränkungen |

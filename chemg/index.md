@@ -56,6 +56,10 @@
 - [§ 16e Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen](0016e.md)
 - [§ 16f Informationspflicht der Lieferanten](0016f.md)
 
+## Abschnitt 4a (zukünftig in Kraft)
+
+- [(XXXX) §§ 16g bis 16l (zukünftig in Kraft)](xxxx-16g-bis-16l.md)
+
 ## Fünfter Abschnitt Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
 
 - [§ 17 Verbote und Beschränkungen](0017.md)
