@@ -1,0 +1,70 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-02-26T16:00:00+01:00
+- Ende: 2024-02-26T19:20:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22025
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22025
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00326175.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00326917.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Verwendung des Bürger*innenbudgets für das Tierschutzzentrum - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Verwendung des Bürger*innenbudgets für das Tierschutzzentrum - Entgegennahme ohne Beschluss
+- TOP 2.2: Prozessergebnisse der Phase 0 für eine neue Zentralbibliothek - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Prozessergebnisse der Phase 0 für eine neue Zentralbibliothek - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Umgang mit elektronischen Nachrichten in der Verwaltung -Anregung gem. § 24 Gemeindeordnung-
+- TOP 4: Anträge
+- TOP 4.1: Für eine wehrhafte Demokratie: Rat der Stadt unterstützt Trierer Erklärung - ungeändert beschlossen
+- TOP 4.2: Gemeinsamer Antrag: Fördermittel für Baumaßnahmen zum Ausbau des Offenen Ganztages vollständig ausschöpfen - ungeändert beschlossen
+- TOP 4.3: Einführung von hybriden Sitzungen in den Wuppertaler Ausschüssen - zurückgestellt
+- TOP 4.3.1: Änderungsantrag zu: Einführung von hybriden Sitzungen in den Wuppertaler Ausschüssen/VO/0052/24 - ungeändert beschlossen
+- TOP 4.4: Einführung einer Bezahlkarte für Flüchtlinge - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Dynamisierung der Zuschussmittel an die freien Träger - ungeändert beschlossen
+- TOP 7.2: Harmoniestraße Vollausbau – Finanzierung - ungeändert beschlossen
+- TOP 7.3: Zuschüsse zur Förderung der Jugendverbandsarbeit 2024 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2022 Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan 2024 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Fluchtlinienplan 591 - Verbindungsstraße vom Dorrenberg nach Mirke nördlich der Staatseisenbahn - - ungeändert beschlossen
+- TOP 9.2: Stellungnahme zum Neubau einer Maßregelvollzugsklinik an der Parkstraße - Entgegennahme ohne Beschluss
+- TOP 9.3: Planfeststellungsbeschluss für den Ausbau der L 419 von Lichtscheid bis Erbschlö (1. Bauabschnitt) - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2024/2025 - ungeändert beschlossen
+- TOP 11.2: Grundlagen für die Einrichtung und die Fortführung von außerunterrichtlichen Ganztags- und Betreuungsangeboten in der Primarstufe - ungeändert beschlossen
+- TOP 11.3: Entscheidung über die Durchführung einer Veranstaltung - geändert beschlossen
+- TOP 11.4: Öffentlich geförderter Wohnungsbau in Wuppertal (Bericht und Empfehlung) - ungeändert beschlossen
+- TOP 11.5: Reduzierung der Kita-Beiträge - ungeändert beschlossen
+- TOP 11.6: Machbarkeitsprüfung zur Errichtung von Container-Klassen für die steigende Schülerzahl zum Schuljahr 2025/2026 – Beauftragung PD - Berater der öffentlichen Hand GmbH - ungeändert beschlossen
+- TOP 11.7: Gremientätigkeiten von Herrn Oberbürgermeister Prof. Dr. Uwe Schneidewind - Entgegennahme ohne Beschluss
+- TOP 11.8: Quartalsbericht IV/2023 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.9: Sachstandsbericht „Schlüsselprojekte des Oberbürgermeisters“ - Entgegennahme ohne Beschluss
+- TOP 11.10: Verlängerung Nutzungsrecht der Grabstätte Dr. Alfred-Springorum - ungeändert beschlossen
+- TOP 11.11: 3. Zwischenbericht InnenBandStadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.12: Schließung der städt. Tageseinrichtung für Kinder Simonsstr. 30 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Änderungen im Beirat - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung - Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung im Ausschuss für Stadtentwicklung und Bauen - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung im Ausschuss für Wirtschaft, Arbeit und Nachhaltigkeit - ungeändert beschlossen
+- TOP 12.5: Vorschlag des Tanztheater Wuppertal Pina Bausch GmbH zur Umbesetzung in der Ratskommission zur Begleitung und Steuerung des Projektes Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 12.6: Abberufung und Bestellung des Vertreters der Stadt Wuppertal in der KDN-Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.7: Bildung einer Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW) – Bestimmung der von der Dienststelle zu benennenden Beisitzer*innen - ungeändert beschlossen
+- TOP 12.8: Gremienumbesetzung Ausschuss für Integration - Antrag der AfD-Fraktion vom 16.02.2024 - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.10: Umbesetzung im Ausschuss für Wirtschaft, Arbeit und Nachhaltigkeit - zurückgezogen
+- TOP 12.11: Gremienbesetzung / Benennung - ungeändert beschlossen
