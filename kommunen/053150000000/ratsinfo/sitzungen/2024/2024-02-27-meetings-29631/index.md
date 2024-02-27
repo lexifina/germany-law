@@ -1,0 +1,63 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-27T15:00:00+01:00
+- Ende: 2024-02-27T17:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29631
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29631
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP -: Präsentation: Erstellung des Zeiten Kölner Lebenslagenberichts, ISG - Institut für Sozialforschung und Gesellschaftspolitik, Dr. Dietrich Engels und Seren Muratdagi
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 2.1: Förderprogramm "Gleichstellung von Frauen und Männern 2024" - Kenntnis genommen
+- TOP 2.2: Stadt Köln unterzeichnet Charta zum Landesprogramm „Vereinbarkeit Beruf & Pflege“ - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der GOL vom 09.01.2024 (AN/0028/2024) betreffend "Sicherheitsdienst für Unterkünfte für Schutzsuchende" - Kenntnis genommen
+- TOP -: Anfrage der GOL zum Thema "Sicherheitsdienst für Unterkünfte für Schutzsuchende"
+- TOP 3.2: Beantwortung einer schriftlichen Anfrage betreffend "Anträgen der Kölner Bürger*innen (Erziehungsberechtigten) mit internationaler Familiengeschichte für die Einrichtung eines neuen Standortes für den Herkunftssprachlichen Unterrichtes" - Kenntnis genommen
+- TOP -: Anfrage zu den Anträgen der Kölner Bürger*innen (Erziehungsberechtigten) mit internationaler Familiengeschichte für die Einrichtung eines neuen Standortes für den Herkunftssprachlichen Unterrichtes
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt für die Sitzung des Integrationrates (AN/0137/2024) am 27.02.2024 betreffend "Bilanz der Einbürgerungen" - Kenntnis genommen
+- TOP -: Bilanz der Einbürgerungen durch die Ausländer*innenbehörde Köln
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage der Liste GOL aus den Sitzungen des Integrationsrates v. 16.01. und des Ausschusses für Soziales, Seniorinnen und Senioren v. 18.01.2024 (AN/0045/2024) betreffend „Thema: SeniorenNetzwerke/Offene Altenarbeit“ - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Anfrage der GOL zum Thema "Senior*innenNetzwerke / Offene Altenarbeit"
+- TOP 3.5: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0044/2024 der GOL zum Thema "NSU Mahnmal Keupstraße“ in Köln-Mülheim aus der Sitzung des Integrationsrates vom 16.01.2024. - Kenntnis genommen
+- TOP -: Anfrage der GOL zum Thema "NSU Mahnmal Keupstraße"
+- TOP 3.6: Beantwortung einer Anfrage aus der Sitzung des Integrationsrates vom 15.08.2023 (AN/1358/2023) zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgstraße - Kenntnis genommen
+- TOP -: Anfrage zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgsstraße
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage der GOL zum Thema "Besetzung der Co-Direktion im Rautenstrauch-Joest-Museum (RJM)" - zurückgestellt
+- TOP 4.2: Anfrage zum Positionspapier der Interkulturelle Zentren zu Bedarfen von älteren Menschen mit internationaler Familiengeschichte - zurückgestellt
+- TOP 4.3: Strukturerhaltende Maßnahmen für die Interkulturellen Zentren – welche sind in der Umsetzung und gibt es weitere Planungen? - zurückgestellt
+- TOP 4.4: Thema: Ausländer:innenbehörde zur Willkommensbehörde - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 5.2: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 5.3: Mitteilung zur Beschlussvorlage Nr. 2929/2023 "Mehrsprachiges Vermittlungsangebot des Museumsdienstes (Umsetzung Kulturentwicklungsplanung)" - Kenntnis genommen
+- TOP 5.4: Kommunales Integrationsmanagement (KIM) Jahresbericht 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 5.5: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag auf Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz - zurückgestellt
+- TOP -: Änderungsantrag zu Antrag auf Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz
+- TOP 6.2: Antrag auf Durchführung einer Jubiläumsveranstaltung anlässlich des 40-jährigen Bestehens des direkt gewählten Integrationsrates der Stadt Köln - geändert beschlossen
+- TOP 6.3: Antrag auf eine Zusatzerklärung für unter das Gaststättengesetz fallenden Betriebe - geändert beschlossen
+- TOP 6.4: Antrag der FDP-Fraktion auf Stadtweite Einbürgerungsfeiern - ungeändert beschlossen
+- TOP -: Änderungs- bzw. Zusatzantrag der Grünen – Stadtweite Einbürgerungsfeiern
+- TOP 6.5: Antrag auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - zurückgestellt
+- TOP 6.6: „Aufstehen!“ – aktiv für Demokratie am 21. März 2024 - geändert beschlossen
+- TOP 6.7: Antrag zu Beschlussvorlage Nr. 2929/2023 "Mehrsprachiges Vermittlungsnagebot des Museumsdienstes (Umsetzung Kulturentwicklungsplanung)
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Benennung von 3 Mitgliedern des Integrationsrates für das Kuratorium für ein Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - zurückgestellt
+- TOP 8.2: Strukturförderfonds 2023 / 2024 - ungeändert beschlossen
+- TOP 8.3: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
