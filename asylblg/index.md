@@ -30,3 +30,4 @@
 - [§ 17 Einmalzahlung für den Monat Juli 2022](0017.md)
 - [§ 18 Übergangsregelung für Personen mit Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes oder entsprechender Fiktionsbescheinigung](0018.md)
 - [§ 19 Einmalzahlung für Kinder](0019.md)
+- [§ 20 Übergangsregelung für die Änderung der Dauer des Grundleistungsbezuges](0020.md)
