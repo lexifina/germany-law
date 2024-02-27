@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-27T17:00:00+01:00
+- Ende: 2024-02-27T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26180
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26180
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512928.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512928.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512928.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sondersitzung der Bezirksvertretung 1, der Bezirksvertretung 3, der Bezirksvertretung 5 und des Ordnungs- und Verkehrsausschusses vom 16. August 2023 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 30. Januar 2024 - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Ausbau des Glasfasernetzes im Stadtbezirk 5 - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aufhebung der Sanierungssatzung Kaiserswerth - Empfehlung einstimmig beschlossen
+- TOP 10: Stadtbahnstrecke U81/2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord – Handweiser – Aufteilung der Verkehrsflächen bei der Rheinquerung als Brückenvariante - Empfehlung einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem Messeparkplatz P1 von März bis Mai 2024 - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 (Liste B), Pflanz- und Pflegemaßnahmen Rathaus Kaiserswerth sowie Maßnahmen an den Kita-Einrichtungen Heinrich-Holtschneider-Weg 20 und Angeraue 3 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 13: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 14: Elektrifizierung der Anlegestelle für Schiffe in Kaiserswerth - beantwortet
+- TOP 15: Ausblick auf weitere Ladesäulen im Stadtbezirk 5 - vertagt
+- TOP 16: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - vertagt
+- TOP 17: E-Ladesäulen am Kaiserswerther Markt - Weshalb informiert die Verwaltung nicht? - vertagt
+- TOP 18: Neue Beschilderung "Überholverbot einspuriger Fahrzeuge, Verkehrszeichen 227.1" auf der Angermunder Straße, Brückenbauwerk ab Querungshilfe bis Ende der Brücke (beide Fahrtrichtungen)? - beantwortet
+- TOP 19: Der Bus 760 hat Probleme mit dem Durchkommen in der Lantzallee wegen parkenden Autos auf der rechten Seite - beantwortet
+- TOP 20: Wieviele Papiercontainer stehen im BV5-Gebiet überirdisch und wieviele Papiercontainer sind unterirdisch gebaut worden? - beantwortet
+- TOP 21: Kaiserswerther Markt - Denkmalbereichssatzung und Werbeschild - vertagt
+- TOP 22: Straßenbauinstandsetzung Arnheimer Straße - beantwortet
+- TOP -: Neue Anfragen
+- TOP 23: Verkehrschaos im Düsseldorfer Norden wegen großer internationaler Messen und gleichzeitig stattfindenden Fortuna Spielen - vertagt
+- TOP 24: Sind unsere Stromnetze im Düsseldorfer Norden überlastet oder können die bisherigen Stromnetze den Strommehrbedarf aufnehmen, der durch Wallboxen und elektrische Wärmepumpen entsteht? - beantwortet
+- TOP 25: Wir bitten die Verwaltung um eine Reparatur der Rhein Uferpromenade in Kaiserswerth - beantwortet
+- TOP 26: Warum werden Liegenschaften der SWD an private Investoren verkauft, anstatt dort bezahlbaren Wohnraum zu errichten? - beantwortet
+- TOP -: Anträge
+- TOP 27: Optimierung des Parkfeldes auf der Niederrheinstraße vor der Hausnummer 79 - einstimmig beschlossen
+- TOP 28: Wettbewerb Nördlich Kalkumer Schlossallee – Siegerentwurf in Kaiserswerth ausstellen - einstimmig beschlossen
+- TOP 29: Rheinuferweg Kaiserswerth – Alternativen für einen konfliktreduzierten Rad- und Fußweg - mehrheitlich beschlossen
+- TOP -: Informationsvorlage
+- TOP 30: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 31: Verschiedenes
+- TOP 31.1: Umbenennung der Heinz-Ingenstau-Straße - zur Kenntnis genommen
