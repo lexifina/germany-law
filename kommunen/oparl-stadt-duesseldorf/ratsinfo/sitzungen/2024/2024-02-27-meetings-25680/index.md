@@ -1,0 +1,52 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-27T17:00:00+01:00
+- Ende: 2024-02-27T18:30:00+01:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25680
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25680
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513179.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513179.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513179.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung der Kandidaten und Kandidatin zur Seniorenwahl 2024
+- TOP 4.2: Aufhebung der Sanierungssatzung Garath-Südost - Empfehlung einstimmig beschlossen
+- TOP 4.3: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an das Gymnasium Koblenzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Garath 2.0 - Ein Stadtteil in Bewegung -Vorstellung der Büros/Auftragnehmer Quatiersmanagement: SOS Kinderdorf und Citymanagement: Stadt+ Handel gGmbH - zur Kenntnis genommen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Radwegeplanung Koblenzer Straße im Abschnitt zwischen Josef-Maria-Olbrich-Straße und Wilhelm-Kreis-Straße - Empfehlung einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Bezirklicher Bauunterhalt 2024 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Haushalt 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.9: Bezirklicher Bauunterhalt 2024 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Verkehrssicherungspflicht Hellerhofer Brücke über Frankfurter Straße - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Bezieher von Wohngeld im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Bedarfsabdeckung Ganztagsbetreuung im Stadtbezirk 10 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Bedarfsgerechtes Angebot an OGS- Plätzen in den Schulen im Stadtbezirk 10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Am Kapeller Feld - Ausweisung von Ausweichzonen - zur Kenntnis genommen
+- TOP 8.2: Grünordnungsplan II im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/015/2024 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.3: Stadtwerke Düsseldorf- Fernwärmekunden Garath nicht länger warten lassen - Informationsvorlage zum Beschluss BV10/010/2024 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.4: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express (RXX), Planfeststellungsabschnitt (PFA 2.0) "Hellerhof-Reisholz"- Stellungnahme zur Nachfrage zur Informationsvorlage BV10/013/2024 vom 30.01.2024 zur Beschlussvorlage OVA/194/2023 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
