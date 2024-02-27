@@ -1,0 +1,188 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7965945
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7965945
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-01
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Wertstoffinseln zu oft voll
+- TOP 6.2.: Altglascontainer Krüner Platz
+- TOP 6.3.: Straßenbeleuchtung Säulingstraße bis Westpark
+- TOP 6.4.: Lizenzgebiet und Carsharing
+- TOP 6.5.: Auslaufen der MFF Betreuungsplätze
+- TOP 6.6.: Hilferuf zur Entscheidung MFF
+- TOP 6.7.: Münchner Förderformel MFF.
+- TOP 6.8.: Münchner Förderformel Anpassung neues Modell
+- TOP 6.9.: Hilfe sonst muss ich kündigen und statt als Volljurist zu arbeiten meine Kinder betreuen
+- TOP 6.10.: Feuchtbiotop im Westpark
+- TOP 6.11.: Baumfällung am Harras
+- TOP 6.12.: Korrektur Anmerkung Protokoll
+- TOP 6.13.: Geplantes Quartiersviertel Sendling Westpark
+- TOP 6.14.: Baumfällungen Marbachstraße
+- TOP 6.15.: Antrag Tempo-30 Kinderkrippe Königskinder, Albert-Roßhaupter-Str.
+- TOP 6.16.: Dank für Zuschuss zu Defibrillator
+- TOP 6.17.: Lärmbelästigung Parkplatz Siegenburger Str - BMW Park
+- TOP 6.18.: MTV Sportausch Bordeaux
+- TOP 6.19.: Einbrüche Gottfried-Böhm-Ring
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Vorstellung des Projekts: NaturErlebnisRaum
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget SV von 1880 München e.V. „Winterfreizeit vom 10.02.2024 – 17.02.2024“ 2.660,80 € / AZ: 0262.0-7-0464
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat des Ludwigsgymnasiums München „Neugestaltung des Schultores an der Fürstenrieder Straße 159a Frühjahr 2024“ 1.880,00 € / AZ: 0262.0-7-0467
+- TOP 10.3.: (E) Stadtbezirksbudget Helferkreis H.-Thonauer-/ Elsenheimer- / Hansa- / Gerty-Spies-Straße Jahresprogramm 2024 des Helferkreises vom 15.03. - 31.12.2024 2.500,00 Euro / Az. 0262.0-7-0468
+- TOP 11.: Anträge
+- TOP 11.1.: Kreuzhofbrücken
+- TOP 11.2.: U-Bahn Partnachplatz barrierefrei
+- TOP 11.3.: Antrag neue TOPO-Boxen-Einsätze
+- TOP 11.4.: Renovierung Thai-Sala-Westpark
+- TOP 11.5.: Fahrradabstellbügel Ehrwalder- Fürstenriederstr.
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.1.1.: Einladung UA-Bau,Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung Suk
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Verwendung der Verwaltungskostenpauschale 2023
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.9.1.: Protokoll öffentliche Sitzung des Mieterbeirates
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Marbachstr.
+- TOP 15.2.: Bauvorhaben Garmischer Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, Kreuz & Quer, Quartiersfest
+- TOP 16.2.: Mini-Ausstellung für das RKU, verschiedene Grünanlagen
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, Theatron Freiluftgottesdienst der Baptisten
+- TOP 17.2.: Westpark, große Zirkuswiese, Zirkus Leopoldini
+- TOP 17.3.: Anhörung, Westpark, Seebühne und Asienensemble, Vesakh-Fest
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Austausch einer Lichtsignalanlage (LSA)- Standort Johann-Clanze-/ Passauerstr.
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Standort Albert-Roßhaupter Straße
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Kreuzungsbereiche Kössener Straße
+- TOP 33.2.: Halteverbot Ettalstraße
+- TOP 33.3.: Info Ergebnisse der Machbarkeitsstudie Begrünung im Straßenraum
+- TOP 33.4.: Fristverlängerung Bepflanzung Mittelstreifen Hinterbärenbadstraße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Kosten für die Wiederherstellung von Grünflächen nach Veranstaltungen
+- TOP 37.2.: Veranstaltung findet nicht statt Circus Sorento
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Tempo 30 in der Hansastraße / Am Westpark
+- TOP 40.2.: Überquerung der Fürstenrieder Straße für Radfahrer Ludwigs- und Erasmus-Grasser Gymnasium
+- TOP 40.3.: Antwort auf Bürgerschreiben Pfrontener Platz
+- TOP 40.4.: Antrag zur Ertüchtigung vorhandener Fahrradstraßen in München
+- TOP 40.5.: Verkehrszahlen Murnauer Str.
+- TOP 40.6.: Antwortschreiben Kurzparken_Lieferzone
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Bildungslokal im Stadtbezirk Sendling-Westpark
+- TOP 42.2.: GWG-Abriss- und Neubaugebiet Garmischer Straße Geeignet für Bildungscampus ?
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Die Untere Naturschutzbehörde wird aufgefordert, im Rahmen des Pilotquartiers Klimaschutz eine Aktion „PflanzGut“ speziell im Stadtbezirk anzubieten und entsprechend zu bewerben
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Zuschuss Anschaffung Defibrillator
+- TOP 47.2.: Auslastung Öffentliche Lastenradl Sendling-Westpark
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Hafenfest im Westpark, Nordufer Mollsee
+- TOP 53.2.: Bescheid, Mini-Ausstellungen für das RKU, verschiedene Grünanlagen
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Anschreiben REGSAM-Schwerpunktgebiete ab 2025
+- TOP 62.2.: Erhaltungssatzung Kriegersiedlung
+- TOP 62.3.: Erhaltungssatzung Euckenstr.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Strom-Projekt Hansastraße
+- TOP 63.2.: Flyer Strom-Projekt Martin-Behaim-Str.
+- TOP 63.3.: Info Cultureclouds
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 10.4.: (E) Stadtbezirksbudget Theater Blaue Maus 2.0 „Kunststucken vom 05.05.2024 – 08.05.2024“ 1.700,00 € / AZ: 0262.0-7-0466
+- TOP 17.4.: Anhörung, Westpark, Westparklauf
+- TOP 30.1.: Planänderungsantrag Tram-WesttangenteRomanplatz bis Wendeschleife am Waldfriedhof
+- TOP 17.5.: Anhörung, Westpark, Seebühne, Meskel-Kreuzfindungstag
+- TOP 16.3.: Anhörung, Luise-Kiesselbach-Platz, Maibaumfest mit Kunsthandwerksmarkt
+- TOP 12.6.1.: Protokoll PuG
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für die Februar
+- TOP 13.13.1.: Protokoll erweiterter Vorstand 15-02-2024
+- TOP 13.13.2.: Protokoll PlanRef - LBK 20-02-2024
+- TOP 7.2.: Mieterbeiratswahl 2024
+- TOP 12.4.2.: Protokoll SuK
+- TOP 13.10.1.: Bericht des Beauftragten für Migration & Integration
+- TOP 12.3.1.: Protokoll HHA
+- TOP 13.7.1.: Bericht KJB
