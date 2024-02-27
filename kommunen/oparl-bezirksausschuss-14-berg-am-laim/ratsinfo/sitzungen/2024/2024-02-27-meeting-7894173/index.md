@@ -1,0 +1,112 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-02-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894173
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894173
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 30.01.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 30.01.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) + (U) Umsetzung einer 30 km/h Zone in der St.-Veit-Straße zwischen der Waldstraße und der Heinrich-Wieland-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Mühldorfstr. 15 - Abbruch Bestandsgebäude und Errichtung Ersatzgebäude für Büro- und Verwaltung, Labor-, Forschungs- und Entwicklungsflächen mit Tiefgarage - (Ampfingstr. 33 / Mühldorfstr. 15 / Trausnitzstr. 6) - VORBESCHEID
+- TOP 3.1.2.: kostenlose Toiletten an der U-Bahnstation Innsbrucker Ring; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.1.3.: Grundstück Berg-am-Laim-Straße 38 (ehem. Landwirtschaftsschule): Bezirksausschuss einbeziehen, soziale Bedarfe berücksichtigen!; Antrag der Fraktion CSU
+- TOP 3.1.4.: Errichtung einer Wertstoffinsel im Bereich St.-Veit-Straße/Kreillerstraße/Josephsburgstraße; Antrag der Fraktion CSU
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Installation eines Verkehrsspiegels und Umsetzung eines Halteverbots in der Neumarkter Str. 23, Anliegen aus der Bürgerschaft - vertagt aus der Plenumssitzung vom 30.01.2024 -
+- TOP 3.2.2.: Schulweg an der St.-Veit-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Bürgerinformation zur Einführung von Parklizenzgebieten in Berg am Laim; Antrag der Fraktion CSU
+- TOP 3.2.4.: Tunnel Thomas-Hauser-Straße: Konzept für mehr Sicherheit; Antrag der Fraktion CSU
+- TOP 3.2.5.: Gewerbegebiet Neumarkter Straße/Temmler-Areal; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.2.6.: Grundlagen des Demographie Berichts für Berg am Laim; Antrag der Fraktion CSU
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Rio Artistik (Zirkus-Musical-Theater) vom 07.06. – 16.06.2024 in der Grünanlage an der St.-Veit-Str., Frist bis zum 05.03.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: Fahrradständer in der Grundschule in der Berg-am-Laim Str.; Anliegen aus der Bürgerschaft
+- TOP 3.3.3.: Kinderrechte stärken - Partizipation auf Augenhöhe leben
+- TOP 3.3.4.: Zeitnahe Einbindung der Grundschule an der Berg-am-Laim-Straße 142 in den Pilotversuch Gelbe Systeme; Antrag der Fraktion CSU
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Einrichtung eines Pflegestützpunkts in Berg am Laim; Antrag der Fraktion CSU
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Interkultureller Kindertag am 02.03.2024 300,00 Euro / Az. 0262.0-14-0391
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative "Maria & Elisabeth" Maria & Elisabeth, Orgelkonzert mit Gesang und Tanz vom 04. - 05.07.2024 5.760,00 Euro / Az. 0262.0-14-0392
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Hohenbrunner Str. 7a
+- TOP 3.6.2.: Josef-Ritz-Weg 11
+- TOP 3.6.3.: Baumkirchner Str. 20
+- TOP 3.6.4.: Mühldorfstr. 15
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Ausbau des Fernwärmenetzes in Berg am Laim
+- TOP 4.1.2.: Werksviertel: Ausreichend Grünflächen schaffen!
+- TOP 4.1.3.: Truderinger Str. - Neubau einer Wohnanlage
+- TOP 4.1.4.: Campus Ost, Fehwiesenstraße 115-121 | Baumschutzmaßnahmen für Verlegung Fernwärme
+- TOP 4.1.5.: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 4.1.6.: Einrichtung einer öffentlichen Toilette im ehemaligen Kiosk der U Bahn Haltestelle Josephsburg, Aus- gang Kreillerstraße
+- TOP 4.1.7.: Ergebnisse der Machbarkeitsuntersuchung zur Beleuchtung von Jugendspieleinrichtungen zeitnah umsetzen: Xaver-Weismor-Straße
+- TOP 4.1.8.: Zweckentfremdung von Wohnraum
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: (U) Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids
+- TOP 4.2.2.: Behindertenparkplatz in der Kreillerstraße
+- TOP 4.2.3.: Antrag: Gleichstellung von Fahrrädern als zulässige Fortbewegungsmittel für gehbehinderte Menschen in Fußgängerzonen
+- TOP 4.2.4.: Platz für künftige Bahnsteige der Flughafen-S-Bahn in Berg am Laim freihalten
+- TOP 4.2.5.: Mögliche Verkehrsberuhigung in der Hachinger-Bach-Str. zwischen Großvenedigerstr. und St.-Veit-Str.
+- TOP 4.2.6.: Verkürzung des Halteverbots und Schaffung von neuen Parkplätzen am Innsbrucker Ring
+- TOP 4.2.7.: Machbarkeitsstudie Aufzug Michaelibad
+- TOP 4.2.8.: Blinkanlage an der Grundschule an der Grafinger Str.
+- TOP 4.2.9.: Einrichtung einer Schulbushaltestelle in der Haager Str.
+- TOP 4.2.10.: Pächterwechsel Gaststätte "Isareckstüberl"
+- TOP 4.2.11.: konkrete Maßnahmen in der Neumarkter Str. bei der Umsetzung des Gewerbeflächenentwicklungsprogramms (GEWI)
+- TOP 4.2.12.: Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" a) Aufhebung der Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes "Innsbrucker Ring / Baumkirchner Straße" b) Treuhändertätigkeit der Münchner Gesellschaft für Stadterneuerung mbH im Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" Stadtbezirk 14 - Berg-am-Laim Stadtbezirk 16 - Ramersdorf-Perlach
+- TOP 4.2.13.: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 4.2.14.: Brenner-Nordzulauf – Kernforderungen an den Bundestag; Sachstand Anschlussprojekte der Deutschen Bahn im Münchner Osten Anträge
+- TOP 4.2.15.: Sperrung Tunnelkette Mittlerer Ring Ost, Arbeiten im Straßenraum
+- TOP 4.2.16.: Tempo 30 Markierung in der Sonnwendjochstr.
+- TOP 4.2.17.: barrierefreie Querungen im Fuß- und Radverkehr vom Ostbahnhof (Friedenstr.) bis in das Werksviertel (östliche Friedenstr.)
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Kunstrasenplatz für den FC Phönix: Städtische Zusagen einhalten, Finanzierung endlich bereitstellen!
+- TOP 4.3.2.: TZ-Artikel wegen Abriss in der Haager Str.; Anliegen aus der Bürgerschaft
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Information an BA 14 Berg am Laim zu neuem BIWAQ-Projekt "Brückenschlag"
+- TOP 4.4.2.: Demokratiemobil Evaluation 2023
+- TOP 4.4.3.: (U) Unterkünfte zur Unterbringung von Geflüchteten aus der Ukraine und aus anderen Herkunftsländern Planung und Neueröffnung an den Standorten • Anton-Ditt-Bogen 5 • Ottobrunner Straße 28g • Schultheißstraße (Planungsgebiet Muttenthalerstraße) Vorübergehender Aufbau einer Zeltstadt auf dem Gelände Messe-München • Zeltstadt 3 Verlängerung der bestehenden Unterkunft für Geflüchtete am Standort • Ottobrunner Straße 28h Verlängerung bestehender Hotels als Unterkünfte für Geflüchtete an den Standorten • Seidlstraße 2 • Stahlgruberring 28 • Rambergstraße 6 Verlängerung bestehender Leichtbauhallen als Unterkünfte für Geflüchtete an den Standorten • Maria-Goeppert-Mayer-Straße 21 • Neuherbergstraße 24 • Gerty-Spies-Straße 9 • Hansastraße 55 • Kronstadter Straße 36 • Hachinger-Bach-Straße 19 Verlängerung der dezentralen Erstanlaufstelle für Geflüchtete aus der Ukraine am Standort • Dachauer Straße 122 Eröffnung der Übergangswohnheime durch die Regierung von Oberbayern an den Standorten • Bachbauernstraße 4 • Winfriedstraße 3a / Christoph-Rapparini-Bogen 6
+- TOP 4.4.4.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.4.5.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.6.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 4.4.7.: (U) Haushaltsplan 2024 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 4.5.2.: Verwendungsnachweis für Pepe Arts hier: Freeman Festival 2023
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Ergebnis der Machbarkeitsuntersuchung Baumpflanzungen im Straßenraum
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.3.5: Pilotbezirke Street Art und Graffiti; Anhörung des Kulturreferats
+- TOP 3.3.5.: Pilotbezirke Street Art und Graffiti; Anhörung des Kulturreferats
+- TOP 1.1.2.: Nachtrag TOP 4.2.18: St.-Veit-Straße/Josephsburgstraße: Verkehrszeichen Verkehrshelfer anbringen und Einsatz von Schulweghelfern ermöglichen
+- TOP 4.2.18.: St.-Veit-Straße/Josephsburgstraße: Verkehrszeichen Verkehrshelfer anbringen und Einsatz von Schulweghelfern ermöglichen
+- TOP 1.1.3.: Nachtrag TOP 3.2.7: Ladesäulen-Infrastruktur für E-Autos in Berg am Laim, Antrag aus dem UA- Städtebauliche Entwicklung, Mobilität, Wohnen, Gewerbe und Digitalisierung
+- TOP 3.2.7.: Ladesäulen-Infrastruktur für E-Autos in Berg am Laim
