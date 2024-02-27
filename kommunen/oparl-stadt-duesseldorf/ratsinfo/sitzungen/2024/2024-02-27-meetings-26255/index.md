@@ -1,0 +1,59 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-02-27T17:00:00+01:00
+- Ende: 2024-02-27T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26255
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26255
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag Sitzung BV 7 am 27.02.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513020.pdf
+- Ergebnisprotokoll: 1. Nachtrag Sitzung BV 7 am 27.02.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513020.pdf
+- Wortprotokoll: 1. Nachtrag Sitzung BV 7 am 27.02.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513020.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß §22 Geschäftsordnung des Rates, für bis zum 13.02.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 30.01.2024 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Jugend) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.2: Präsentation der Kandidatin und Kandidaten für die Wahl des Seniorenrates 2024
+- TOP 4.3: kommunale Maßnahmen zur Klimaanpassung und Verbesserung der Biodiversität im Stadtbezirk 7 – mündlicher Vortrag - zur Kenntnis genommen
+- TOP 4.4: Sachstand Realisierung der CO-Pipeline und eines Alarm- und Gefahrenabwehrplanes der Feuerwehr – mündlicher Vortrag - zur Kenntnis genommen
+- TOP 4.5: Workshop und Online-Beteiligung vor Wettbewerb - Bergische Kaserne - zur Kenntnis genommen
+- TOP 4.6: Aufhebung der Sanierungssatzung Gerresheim - Empfehlung einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.8: Ergänzung und Vervollständigung der Fahrbahnmarkierungen auf der Grafenberger Allee, zwischen den Haltestellen Uhlandstraße und Staufenplatz, zur Verbesserung des ÖPNV-Betriebsablaufs - vertagt
+- TOP 4.9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7, städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - einstimmig beschlossen
+- TOP 4.10: Heyestraße 178 - Temporäre Nutzung als Veranstaltungsstätte - einstimmig beschlossen
+- TOP 4.11: Landpartie Grafenberg - Empfehlung einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Bau einer Inklusionsschaukel auf dem Spielplatz Heinrich-Könn-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.3: Bau einer Fußgänger- und Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Stand der Herrichtung Haltestelle Neuenhaus (BV7/268/2021) - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Verkehrskonzept Cirque du Soleil - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.5: Einsatz von Streusalz im Stadtbezirk 7 - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7: Anfragen
+- TOP 7.1: Leerung der Mülleimer am Wildpark/Heinrich-Könn-Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Bau einer Fußgänger-/Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch - Informationsvorlage zu den Beschlüssen der BV 7 vom 23.03.2021 und 22.02.2022 - - zur Kenntnis genommen
+- TOP 8.2: Parkstreifen entlang Morper Straße - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.3: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.4: E-Ladesäule auf dem Parkplatz am Waldfriedhof - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 8.5: Entfernung eines Schildes an der Gräulinger Straße - Informationsvorlage zum Beschluss der BV 7 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.6: Ruhebank im Bereich Benderstraße (Stich) – Ursula-Trabalski-Straße- Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.7: Hinweisschilder zum Krankenhaus an der Haltestelle: Gerresheim Krankenhaus - Informationsvorlage zum Beschluss der BV 7 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.8: Versetzung der Tore auf dem Bolzplatz Spielwiese Tetragon oberhalb der Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.9: Ampelschaltung Vautierstraße Richtung Staufenplatz verbessern - Informationsvorlage zum Beschluss der BV 7 vom 21.06.2022 - - zur Kenntnis genommen
+- TOP 8.10: Sitzbank im Bereich Pilgerweg/Norbert-Schmidt-Straße - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.11: Tempo 30 Bertastraße und Zamenhofweg - Informationsvorlage zum Beschluss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
