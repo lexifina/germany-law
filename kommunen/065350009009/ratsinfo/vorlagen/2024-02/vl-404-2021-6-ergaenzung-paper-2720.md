@@ -1,0 +1,24 @@
+# Vorstudie zur Reaktivierung der Ohmtalbahn
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-404/2021 6. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-02-27
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZV1ZFd9fQHE89jZfVyZLF80
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2720
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Vorstudie zur Reaktivierung der Ohmtalbahn) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYzNdkwpPPQbtxQPXfO129RqWY03_N5me4uVNLnGOYM9/Beschlussvorlage_VL-404-2021_6._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (B-Plan BPlan Radweg auf ehemaliger Bahntrasse Ober-Ofleiden bis Krebsbachbrücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXyUpM5zza3r11M2PO3O90vRvX-gcEc5gMG3j-3Eyvwv/B-Plan_BPlan_Radweg_auf_ehemaliger_Bahntrasse_Ober-Ofleiden_bis_Krebsbachbruecke.pdf
+- Anlage: Beschlussvorlage (TF BPlan Radweg auf ehemaliger Bahntrasse Ober-Ofleiden bis Krebsbachbrücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZetUFJB75Epf5z-Nq8iyuecZEljvmz3R2OoxiPmH1YLz/TF_BPlan_Radweg_auf_ehemaliger_Bahntrasse_Ober-Ofleiden_bis_Krebsbachbruecke.pdf
+- Anlage: Beschlussvorlage (Vorstudie Reaktivierung Ohmtalbahn_FINAL) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfOleusCwm9bJ0dKI5rG7IZOhUh3jiogXrl9z8jbn8DX/Vorstudie_Reaktivierung_Ohmtalbahn_FINAL.pdf
+- Anlage: Beschlussvorlage (Antrag SPD - Änderung der Planung Radweg auf der ehemaligen Bahntrasse) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWzJxDP-c77GhlUkS7npiVyOsKLwi4YFmSrJEj_Klk9b/Antrag_SPD_-_Aenderung_der_Planung_Radweg_auf_der_ehemaligen_Bahntrasse.pdf
+- Anlage: Beschlussvorlage (Anlage zum Antrag der SPD.docx) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW4pm7tbEs3FhCtd0ifuJg78GCj4HSXfxK29eTDLxxDD/Anlage_zum_Antrag_der_SPD.docx.pdf
+- Anlage: Beschlussvorlage (Problempunkte Reaktivierung der Ohmtalbahn oder Bau eines Radweges auf der ehemaligen Bahntrasse) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRvbQPt1d9HdNsIRVoUltidxxDLHc5VVT2qxE7tbx53u/Problempunkte_Reaktivierung_der_Ohmtalbahn_oder_Bau_eines_Radweges_auf_der_ehemaligen_Bahntrasse.pdf
+- Anlage: Beschlussvorlage (VL 404-2021, 6.Erg.  Anlage - Neuer Sachverhalt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU9T_FKtaYx5L-wvxlww1G6hj-e4ohMO69O4NTdkSxgB/VL_404-2021-_6.Erg.__Anlage_-_Neuer_Sachverhalt.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/919 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/971 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/989 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1195 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-17
