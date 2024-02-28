@@ -1,0 +1,126 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-02-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8097496
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8097496
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Antrag: Teilnahme am Pilotprojekt zur Durchführung einer Kinder- und Jugendeinwohnerversammlung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Infanteriestraße Streitschlichterausbildung vom 08.04. - 30.06.2024 900,00 Euro, Az.: 0262.0-4-0492
+- TOP 2.2.: (E) Stadtbezirksbudget MobilSpiel e.V. MobilSpiel-Fest 2024 - Viele Projekte, ein Fest am 21.04.2024 5.440,00 Euro, Az.: 0262.0-4-0493
+- TOP 2.3.: (E) Stadtbezirksbudget Condrobs e.V. Therapeutisches Reiten für junge suchtkranke Erwachsene von April - Dezember 2024 1.320,00 Euro, Az.: 0262.0-4-0495
+- TOP 2.4.: (E) Stadtbezirksbudget CVJM München e.V. Anschaffung eines Aeortrim Großspielgerät 4.000,00 Euro, Az.: 0262.0-4-0496
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: a) Initiative FREISPRUCH: FREISPRUCH – Ein Ermächtigungsprojekt
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: REGSAM-Schwerpunktarbeit ab 2025
+- TOP 3.4.2.: CultureClouds e.V.: 2024 und 2025 keine BA-finanzierten Einsätze möglich
+- TOP 3.4.3.: Vorstellung einer Multimedia-Reportage über das neue Haus für Kinder in der Infanteriestraße
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Mieterbeiratswahl 2024: Entsendung von stimmberechtigten Mitgliedern
+- TOP 2.2.: Kaiserstr. 63: Nutzungsänderung einer als Bäckerei genutzten Gewerbefläche in eine Wohnung
+- TOP 2.3.: Tektur Ansprengerstr. 19: Dachgeschossausbau und -umbau (zu einer Wohneinheit), Wohnraumerweiterung der Wohneinheit E2 (EG/UG) und Anbau von zwei neuen Balkonanlagen hofseitig - Hier: Teilweise Abbruch und Neubau eines Daches, Dachgeschossausbau und - umbau (zu einer Wohneinheit) sowie Anbau zweier neuen Balkonanlagen hofseitig und Einbau eines Innenaufzuges (im Treppenhaus)
+- TOP 2.4.: Lerchenauer Str. 38 - VORBESCHEID: Variante 1: Erweiterung des 5.OGs, Aufstockung um zwei Staffelgeschosse sowie Umbau der Loggien zu Wohnraum und Anbau von Balkonen Variante 2: Erweiterung des 5.OGs, Aufstockung um zwei bzw. drei Staffelgeschosse sowie Umbau der Loggien zu Wohnraum und Anbau von Balkonen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Übersicht über bereits erteilte, aber nicht umgesetzte Baugenehmigungen? (Antwort der LBK auf BA-Anfrage, TOP C 2 01/24)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Mieterbeirat der LH München: Protokoll der öffentlichen Sitzung vom 22.01.2024
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Fahrradabstellplätze vor EDEKA in der Herzogstr. 43
+- TOP 1.2.: Bürger: Fehlender Schienenersatzverkehr für U2 an Wochenenden
+- TOP 1.3.: Bürgerin: a) Verkehrssituation Farinelli-/Friedrich-Loy-Straße b) Verkehrssituation Tengstraße
+- TOP 1.4.: Bürger: Anfrage zur Umwandlung von Stellplätzen in der Ainmillerstraße
+- TOP 1.5.: Bürgerin: Neuer Schilderwald Ainmillerstraße
+- TOP 1.6.: Bürgerin: Lob für Stellplatzumwandlung in der Ainmillerstraße
+- TOP 1.7.: Bürger: Durchfahrtsverbot am Stadtplatz Ackermannbogen durchsetzen
+- TOP 1.8.: Bürger: Häufung von Halteverboten im Parklizenzbereich „Bayernplatz“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) + (U) Sicherer Schulweg für die radfahrenden Schüler*innen des Willi-Graf-Gymnasiums Empfehlung Nr. 20-26 / E 00787 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 14.09.2022
+- TOP 2.2.: Erinnerungsverfahren Schleißheimer Str. 105: Sanierung einer Parkbucht (Taxistand)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Errichtung einer Fahrradabstellanlage im Kreuzungsbereich Georgen-/Kurfürsten-/Nordendstraße (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen, TOP D1.2 07/23)
+- TOP 3.1.2.: Radwegführung in der Schleißheimer Straße nördlich der Hohenzollernstraße (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen, TOP D1.1 12/23)
+- TOP 3.1.3.: Parkplätze für MVG-Nutzer*innen am Scheidplatz (Antwort des Mobilitätsreferats auf weitergeleitetes Bürgeranliegen, TOP D 1.2 01/24)
+- TOP 3.1.4.: Umgestaltung und Begrünung Düsseldorfer Str. 9-13 (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen, TOP D 1.2 11/23)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Verlegung einer Gasleitung in der Lothstraße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Umgestaltung der Karl-Theodor-Straße zwischen Schleißheimer Straße und Bonner Platz (Rückmeldung des Baureferats Tiefbau zur BA-Stellungnahme zu den Planungen, TOP D 2.1 10/23)
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Vorschläge zur Umgestaltung des Luitpoldparks (vertagt aus 01/24)
+- TOP 1.2.: Bürger: Blühwiese im Nordwesten des Luitpoldparks
+- TOP 1.3.: Bürger: Steintürmchen im Luitpoldpark
+- TOP 1.4.: Bürgerin: LHM-Grünpaten-Förderung
+- TOP 1.5.: Bürgerin: Rauchgaswäsche / Toxische Emissionen im Ackermannbogen
+- TOP 1.6.: Bürgerin: Entfernen von Efeu zum Schutz der Bäume (Düsseldorfer Str. 18-18 b und Bonner Str. 35)
+- TOP 1.7.: Bürger: Probleme beim Recycling-Pilotprojekt „Gelbe Tonne“
+- TOP 1.8.: Antrag: Bonner Platz: Entsiegelung, Stärkung blaue und grüne Infrastruktur
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Kurfürstenstr. 29: Antrag auf Fällung einer Birke
+- TOP 2.1.2.: Schleißheimer Str. 276: Antrag auf Fällung eines Silberahorns
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Petuelpark: Bürgerfest zum 20-jährigen Jubiläum
+- TOP 3.1.2.: Baumpflanzungen im öffentlichen Raum – hier: Baumpflanzungen auf vorwiegend befestigten Flächen im Straßenraum (Schreiben des Baureferats Tiefbau)
+- TOP 3.1.3.: Nisthilfen für Taubenprädatoren (Antwort des Kreisverwaltungsreferats auf weitergeleitetes Bürger*innenanliegen, TOP E 1.2 12/23)
+- TOP 3.1.4.: Petuelpark: Baumbestand prüfen. Blaue Infrastruktur stärken
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Umgestaltung Pündterplatz: Neue Pläne der Schüler*innen und Antwort Baureferat Gartenbau
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: Pilotprojekt „Street Art und Graffiti“
+- TOP 2.1.2.: (E) Stadtbezirksbudget Chorbande Schwabing e.V. Chorprobenphase der Chorbande Schwabing e.V. vom 21. - 23.06.2024 9.880,00 Euro / Az. 0262.0-4-0494
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: MobilSpielfest am 21.04.2024 im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: a) Kunstzentrat e.V.: Ic Ice Festival für neue anatolische Musik b) schwere reiter gUG: Sommerresidenz im schwere reiter
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- u. Speisewirtschaft mit Kegelbahn, „Olympia Bowling“, Klopstockstr. 4
+- TOP 3.4.2.: Schank- u. Speisewirtschaft „Pizza Hut“, Lerchenauer Str. 42
+- TOP 3.4.3.: Nutzungsänderung Laden in Schank- und Speisewirtschaft „Kreta Kafè“, Nordendstr. 60
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Fahrradsicherheitscheck am 28.02.2024 im Petuelpark
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP H: Termine
