@@ -1,0 +1,172 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2024-02-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7913494
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7913494
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Protokolle der Sitzung vom 24.01.2024
+- TOP 4.: Bürger*innen haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Anfrage: „St.-Wolfgangs-Platz“ – Platzumgestaltung im Rahmen des Radschnellwegs an der Balanstraße?
+- TOP 5.2.: Einrichtung eines Fahrradabstellplatzes an der Ecke Aurbacherstraße/Drächslstraße (also vor Aurbacherstraße 1)
+- TOP 5.3.: Entlang der Isar: Mehr Platz am Karl-Müller-Weg
+- TOP 5.4.: Photovoltaik auf der Turnhalle der Grundschule Kirchenstr. 11
+- TOP 5.5.: Nachbesserungen Bus- und Tram-Haltestelle Carl-Amery-Platz
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.11.2023 a) Rechte der Bezirksausschüsse beim Baumschutz stärken Empfehlung Nr. 20-26 / E 01091 der Bürgerversammlung des Stadtbezirks 21 – Pasing-Obermenzing am 15.03.2023 b) Rechtzeitige Beteiligung der Bezirksausschüsse in allen Bebauungsplanverfahren BA-Antrags-Nr. 20-26 / B 04834 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 08.12.2022 c) Marktveranstaltungen als Entscheidungsrecht in die BA-Satzung aufnehmen BA-Antrags-Nr. 20-26 / B 04816 des Bezirksausschusses des Stadtbezirks 06 – Sendling vom 05.12.2022 d) Anhörungsrecht für die BAs auch bei größeren Veranstaltungen auf Privatgrund BA-Antrags-Nr. 20-26 / B 05899 des Bezirksausschusses des Stadtbezirks 15 – Trudering-Riem vom 21.09.2023 e) Änderungen der BA-Satzung und BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Satzung zur Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 6.2.2.: (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 6.2.3.: Infoblatt Februar
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des/der Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative "Buntes Viertel" Buntes Viertel - Graffitigestaltung am Tassiloplatz von 01.04.2024 - Ende 2024 4.000,00 / Az. 0262.0-5-0527
+- TOP II.2.: (E) Stadtbezirksbudget Initiative "AlmResidency" AlmResidency #8 3.955,00 Euro / Az. 0262.0-5-0529
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Junges Theater“ Theaterstück „Kerims Nase“ vom 18.04. bis 04.05.2024 712,50 Euro; Az. 0262.0-5-0532
+- TOP II.4.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 „Kommerz!“)“ 1.600,00 Euro; Az. 0262.0-5-0526 vertagt in der Sitzung am 24.01.2024
+- TOP II.5.: Filmworkshop für Kinder und Jugendliche; Verlegung des vom BA 5 bezuschussten Projekts vom 12.-16.02.2024 auf 01.04.-05.04.2024 (Unterrichtung)
+- TOP II.6.: Verlängerung Temporäre Kunstaktion "Müllfisch" bis 31.12.2024, Grünanlage Ecke Reichenbachbrücke/Eduard-Schmid-Straße (Unterrichtung)
+- TOP II.7.: Räumlichkeiten für Künstlergruppe in den Gewerbehöfen, Schreiben BA 14 Berg am Laim
+- TOP II.8.: Korrektur oder Entfernung der den Stadtteil Au beschreibenden Text auf der offiziellen Website des BA5; Bürgeranliegen vertagt in der Sitzung am 24.01.2024
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Theatergruppe der staatlichen FOSBOS München Theateraufführung 2024 vom 10. - 12.04.2024 5.253,72 Euro / Az. 0262.0-5-0525
+- TOP 1.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. „Demokratie im Einsatz - Demokratiemobil München am 13.05.2024“ 800,00 Euro; Az. 0262.0-5-0535
+- TOP 2.: Anhörungen
+- TOP 2.1.: Mieterbeiratswahl 2024, Entsendung von stimmberechtigten Mitgliedern (Bewerbung BA 5 vom 20.10.2023 gilt weiterhin)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schallpegelmessung des Kirchengeläutes der Mariahilfkirche
+- TOP 3.2.: Freigabe eines Teils des Bordeauxplatzes für Hundebesitzer*innen Antwort Baureferat zum Schreiben BA 5
+- TOP 3.3.: Errichtung eines Trinkbrunnens am Mikroplatz Entenbachstraße / Schlotthauerstraße
+- TOP 3.4.: Kronepark, Informationen zur Kitabeteiligung
+- TOP 3.5.: REGSAM-Schwerpunktarbeit ab 2025
+- TOP 3.6.: Informationsschreiben bezüglich mobiler Kunst - Spiel - Aktionen 2024 von Culture Clouds
+- TOP 3.7.: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Spende einer Sitzbank für die Breisacher Straße 12 N - Rücknahme des Antrags
+- TOP 4.2.: Neue Trainingsgeräte für die Sommerstockbahn / Trainingspark an der Flurstraße verwiesen in den UA in der Sitzung am 24.01.2024
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative "Straßenfest in der kleinen Kellerstraße" Straßenfest in der kleinen Kellerstr. vom 11.07.2024 5.550,00 Euro / Az. 0262.0-5-0530
+- TOP 1.2.: (E) Stadtbezirksbudget Initiative "Parklet und Stadtterrasse" Parklet und Stadtterrasse am Breisässer Platz vom 20.03. - 31.11.2024 4.660,00 Euro / Az. 0262.0-5-0533
+- TOP 2.: Anhörungen
+- TOP 2.1.: Leuchtenbergring - WH 1972 - Umrüstung 1 digitale Werbevitrine - innen digital - außen statisch
+- TOP 2.2.: Leuchtenbergring - WH 1973 - Umrüstung 1 digitale Werbevitrine - innen digital - außen statisch
+- TOP 2.3.: "Lastenrad Promo-Aktion Re Think“ an der Schweigerstraße / Ecke Mariahilfplatz am 28.04.2024 Anhörungsfrist: 29.02.2024
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Mitteilung über 2 Märkte auf dem Orleansplatz in 2024
+- TOP 3.2.: Dokumentation Workshop zur Gestaltung des Mariahilfplatzes
+- TOP 3.3.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität) vertagt in der Sitzung am 13.12.2023
+- TOP 3.4.: Zusätzliche Mülleimer und mobile Spielgeräte auf dem Mariahilfplatz (Nachgang zum Workshop)
+- TOP 3.5.: City-Logistik: Pakete per Rad ausliefern
+- TOP 3.6.: Anbieteroffene Paketboxen für Au-Haidhausen
+- TOP 3.7.: Strandveranstaltung an der Corneliusbrücke (Bastion) vom 01.05. - 09.09.2024: Änderung der Veranstaltungszeiten, Anordnung zu Beleuchtung, Auflagen Referat für Klima- und Umweltschutz
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Antrag für die Zwischennutzung der Grünfläche bis zur Neugestaltung durch das Kaffeehaus Rosi, Rosenheimer Str. 2
+- TOP 4.2.: Beschwerdeschreiben an die Postbank Haidhausen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Humboldtstr. 29 - Aufstockung eines Wohn - und Geschäftsgebäudes (Humboldtstr. 29 / Pilgersheimer Str. 4) - VORBESCHEID
+- TOP 2.2.: Humboldtstr. 27 - Aufstockung eines Wohn -und Geschäftsgebäudes- VORBESCHEID
+- TOP 2.3.: Einsteinstr. 46 - Nutzungsänderung einer Physiothrapiepraxis zu einer Kindertagesstätte (1 Gruppe Kinderkrippe mit 15 Kindern) - mit Mobilitätskonzept
+- TOP 2.4.: Orleansstr. 70 - Interimsweise Verschiebung von Parkplätzen
+- TOP 2.5.: Rosenheimer Str. 30 - Nutzungsänderung: von Büroflächen in Wohnflächen (6. OG), von Wohnflächen in Lagerflächen (7.OG)
+- TOP 2.6.: Oefelestr. 5 - Umnutzung und Umbau einer Werkstatt zur Wohneinheit (EG),Umnutzung einer Ladenwohnung zu Gewerbe/Ausstellung (EG), Ergänzung von 6 Balkonen und Traggerüst Haupttreppe, Umbau eines Dachgeschosses und Beseitigung von Brandschutzmängeln, Anbau von Fluchtleitern mit Balkonen in der Oefelestr. 5 - ÄNDERUNGSANTRAG zu 1.2-2021-5455-21 - Hier: Umbau dreier Wohneinheiten zu zwei Wohneinheiten im DG sowie Erneuerung der Decke über TH, geänderte Wohnungstrennung zwischen W12 und W13 im 3.OG
+- TOP 2.7.: Trogerstr. 12 - Sanierung und Nutzungsänderung eines denkmalgeschützten Wohngebäudes zu Bürogebäude für die studentische Nutzung als StudiTUM
+- TOP 2.8.: Ohlmüllerstr. 32 - Nutzungsänderung der Schalterzentrale zur Gastronomie
+- TOP 2.9.: Tassilopl. 25 - Umnutzung von Büro in eine Psychosomatische Tagesklinik im Teil EG und 1.OG (nur Vordergebäude)
+- TOP 2.10.: Einsteinstr. 127 - Nutzungsänderung der Einheiten 02, 09, 10 und 12
+- TOP 2.11.: Boosstr. 7- ÄNDERUNGSANTRAG zu 1.23-2023-23988-21 - Errichtung einer hofseitigen Balkonanlage
+- TOP 2.12.: Max-Planck-Str. 12 - Umbaumaßnahmen in einem Wohnhaus, Einbau eines Aufzuges, Dachgeschossausbau zu einer Wohneinheit
+- TOP 2.13.: Orleansstr. 44 - Schulbauoffensive - Erweiterungsbau, Abbruch und Neubau einer FOS / BOS (Orleansstr. 44-46 / Orleansplatz 13 - ÄNDERUNGSANTRAG zu 1.1-2022-5548-21- Hier: neue Fußwegrampe, Lage Schallschutzwand, KFZ- Rampe Orleansplatz - KFZ-Rampe Ostbagnhof Bestand bleibt, Anpassungen der Außenanlagen sowie zusätzliche Räume, Grundrissänderungen, Anpassen der Fassaden
+- TOP 2.14.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1956c Bothestraße (südlich), Leuchtenbergring (westlich), Bahnlinie München - Rosenheim (nördlich) (Teiländerung des Bebauungsplanes Nr. 491) Beteiligung der Öffentlichkeit: Unterrichtungs- und Äußerungsmöglichkeit für die Öffentlichkeit gemäß § 13a Abs. 3 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) vom 25. Januar mit 26. Februar 2024
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schutz der Bestandsmieterinnen und Bestandsmieter vor Mieterhöhungen
+- TOP 4.: Anliegen von Bürger*innen
+- TOP VI.: UA Mobilität
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung der Initiative "Haidhausen für alle" zur Mitgestaltung der Fußgängerzone in der Weißenburger Straße
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Leonhardstraße zum Radfahren freigeben
+- TOP 1.2.: (E) + (U) Innere Balanstraße als Fahrradstraße
+- TOP 1.3.: (E) + (U) a) Rücknahme des Parkverbots auf dem Gehweg in der Hochstraße b) generelle Einbahnstraßenregelung von Paulaner bis zur Pöppelstraße
+- TOP 1.4.: Antrag: Rad-Bus-Spur auf der Luitpoldbrücke vertagt in der Sitzung am 24.01.2024
+- TOP 1.5.: Antrag: Gehweg am Preysingplatz verbreitern vertagt in der Sitzung am 24.01.2024
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch einer Lichtsignalanlage (LSA): a) Standort Breisacher-/ Wörthstr. b) Standort Wörth-/Comeniusstr. Fristverlängerung bis 01.03.2024
+- TOP 2.2.: Neue Fahrradabstellanlagen in der Grillparzerstraße
+- TOP 2.3.: Herstellung der Elsässer Straße und Flurstraße im Vollausbau in Asphalt
+- TOP 2.4.: Erinnerungsverfahren a) Einsteinstraße, Fahrbahnsanierung b) Einsteinstr. 130, Befestigung Baumgraben für Fahrradständer c) Maria-Theresia-Straße, Fahrbahnsanierung d) Max-Planck-Straße, Radwegsanierung e) Max-Planck-Straße, DSK Deckensanierung Fristverlängerung bis 29.02.2024 N - Antrag SPD: Fuß-Rad-Aufstellfläche am Max-Weber-Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Radverkehr in der Leonhardstraße erlauben vertagt in der Sitzung am 24.01.2024 siehe auch TOP 1.1
+- TOP 3.2.: Errichtung von Pollern an der Wohnanlage Michael-Huber-Weg
+- TOP 3.3.: Behindertengerechte Plasterung der Gehwege
+- TOP 3.4.: Lichtsignalanlage (LSA) Preysing-/ Steinstraße - Rückbau LSA, Ersatz durch erforderliche Fußgängerüberwege, Kreuzungsteilumbau
+- TOP 3.5.: Lichtsignalanlage Hochstraße / Rosenheimer Straße
+- TOP 3.6.: Fahrradtaugliche Induktionsschleife
+- TOP 3.7.: Wartehäuschen /Anzeigetafel Haltestelle Haidenauplatz Antwort MVG zum Schreiben BA 5
+- TOP 3.8.: Anliegen zum Carl-Amery-Platz
+- TOP 3.9.: Markierung des Gehwegs in der Steinstraße
+- TOP 3.10.: Dokumentation Workshop zur Gestaltung des Mariahilfplatzes
+- TOP 3.11.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität) BA-Antrag 20-26 / B 05351 vertagt in der Sitzung am 13.12.2023
+- TOP 3.12.: Verkehrliche Anordnungen wegen Arbeiten im Straßenraum a) Sperrung Tunnelkette Mittlerer Ring Ost wegen Wartungsarbeiten vom 18.03.-22.03.2024 (Nachtarbeit jeweils von 22:00 Uhr bis 05:30 Uhr) b) Gravelottestr. 1a-3, Arbeiten am Fernwärmenetz vom 19.02.-12.04.2024 c) Preysingstr. 105 (Kreuzungsbereich Preysing-, Metz- und Leonhardstraße), vorbereitende Arbeiten für Dampfnetzumstellung vom 19.02.-28.06.2024
+- TOP 3.13.: Verkehrsrechtliche Anordnungen a) Bogenstraße, Lizenzgebiet Klinikviertel; Anpassung der Beschilderung b) Prinzregentenstraße/ Ecke Braystraße; Sicht-Haltverbot Südseite
+- TOP 3.14.: Beschluss zu On-Demand-Mobilität für die Landeshauptstadt München Einstieg in flexible und nachfrageorientierte Mobilitätsangebote Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Änderung des MIP 2023 - 2027 Beschluss über die Finanzierung für die Jahre 2024 - 2029
+- TOP 3.15.: (U) Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Umwidmung von KfZ-Stellplätzen in Fahrradstellplätze in der Ackerstraße
+- TOP 4.2.: Widersprüchliche Beschilderung Behelfsbrücke Zweibrückenstraße
+- TOP 4.3.: Nachfrage zu Forderungen zur Verbesserung der Schulwegsicherheit an der Ernst-Reuter-Grundschule an der Ernst-Reuter-Straße
+- TOP 4.4.: Wolt und Flink im Motorama, ungelöste Problematik
+- TOP VII.: Klima und Umwelt
+- TOP 0.: Vorstellung im Unterausschuss
+- TOP 0.1.: Vorstellung der Pläne für das Bauvorhaben Dampfnetzumstellung 2024 durch die Stadtwerke (inkl. Baumfällungen) N - Antrag Die Grünen: Wiederherstellung Balanstraße
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Versailler Str. 18c, Baumfällung
+- TOP 2.2.: Preysingstr., Baumfällung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Seeriederstr. 5-29, Fällungsgenehmigung
+- TOP 3.2.: Komposttoiletten für öffentliche Grünanlagen
+- TOP 3.3.: Stellungnahme Einsatz für Tiere e.V. zu den von verschiedenen Referaten aufgeführten Argumenten gegen einen Taubenschlag im FOS/BOS Gebäude an der Orleansstraße
+- TOP 3.4.: Schulbauprojekt FOS/BOS Orleansstr. 44 - Ankündigung von 2 Baumfällungen (in 2023 genehmigt)
+- TOP 3.5.: Nachbarschaftliches Gärtnern am „Entenbachplatz“ nach Umgestaltung wieder ermöglichen
+- TOP 3.6.: Flussrunde - Protokoll und Präsentation zum Auftakttermin am 24.01.2024
+- TOP 3.7.: Mehrweg Rücknahmeautomat für die Gastronomie Antwort rehab republic zum Schreiben BA 5
+- TOP 3.8.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen; Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Antwort Baureferat zum Schreiben BA 5
+- TOP 3.9.: Baumpflanzungen gemäß den Vorschlägen aus den Bezirksausschüssen hier: Baumpflanzungen auf vorwiegend befestigten Flächen im Straßenraum (Ergebnis der Machbarkeitsuntersuchung)
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Begrünung der Asamstraße vertagt in der Sitzung am 13.12.2023
+- TOP 4.2.: Antrag auf Begrünung der Drächslstraße (obere Au) vertagt in der Sitzung am 13.12.2023
+- TOP 4.3.: Umgestaltung Vorplatz Tassilopark / Baumpflanzung in der Welfenstraße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 11.03.2024 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 11.03.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 12.03.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 13.03.2024 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 13.03.2024 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 14.03.2024 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 20.03.2024, 19.00 Uhr, Katholische Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 05.03.2024, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 5.: Verschiedenes
+- TOP 2.2.: N - Aufstellung von Fitnessgeräten an der Eduard-Schmid-Straße
+- TOP 1.3.: Detailauskunft zu TOP 1.2
+- TOP 3.8.: N - EIL-ANTRAG wegen der angekündigten Schließung des St.Josefs-Heims in Haidhausen -> Fraktionsübergreifender Antrag: Aufnahme der historischen Anwesen Preysingstraße 19 und 21 als Einzeldenkmäler in die Denkmalliste
+- TOP 1.6.: N - Entscheidung über die testweise Einrichtung einer Fußgängerzone zwischen Weißenburger Platz und Pariser Platz für ein Jahr
+- TOP 3.16.: N - Weiterhin fehlende Beschriftung „Schritt-Tempo“ am Wiener Platz Antwort Baureferat zur Nachfrage BA 5
+- TOP II.9.: N - Einrichtung eines „Georg Elser Raum" im „neuen" Gasteig
+- TOP II.10.: Detailauskünfte zu den Budgetanträgen TOP 1 - 4
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Kultur, TOP 9: Einrichtung eines „Georg Elser Raum" im „neuen" Gasteig - UA Soziales, TOP 2.2: Aufstellung von Fitnessgeräten an der Eduard-Schmid-Straße - UA Soziales, TOP 3.8: EIL-ANTRAG wegen der angekündigten Schließung des St.Josefs-Heims in Haidhausen, BA-Antrag Nr. 06222 sowie Fraktionsübergreifender Antrag: Aufnahme der historischen Anwesen Preysingstraße 19 und 21 als Einzeldenkmäler in die Denkmalliste - UA Mobilität, TOP 1.6: Entscheidung über die testweise Einrichtung einer Fußgängerzone zwischen Weißenburger Platz und Pariser Platz für ein Jahr - UA Mobilität, zu TOP 2.4: Antrag SPD: Fuß-Rad-Aufstellfläche am Max-Weber-Platz - UA Mobilität, TOP 3.16: Weiterhin fehlende Beschriftung „Schritt-Tempo“ am Wiener Platz - UA Klima, zu TOP 0.1: Antrag Die Grünen: Wiederherstellung Balanstraße
