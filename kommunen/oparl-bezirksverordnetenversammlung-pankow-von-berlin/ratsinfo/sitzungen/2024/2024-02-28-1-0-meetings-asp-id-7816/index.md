@@ -1,0 +1,86 @@
+# 21. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2024-02-28T17:30:00+01:00
+- Ende: 2024-02-28T21:32:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7816
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7816
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=301750
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Pankower Tor" auf Antrag der Fraktion der SPD - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - (offen)
+- TOP 1.6.1: Auflösung der Pauschalen Minderausgaben - Kürzungen bei den freiwilligen sozialen Leistungen? - beantwortet
+- TOP 1.6.2: Fest an der Panke 2023 - beantwortet
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Nachwahl einer stellvertretenden Bürgerdeputierten auf Antrag der Fraktion der SPD - gewählt
+- TOP 1.10: Wahl eines Bürgerdeputierten auf Antrag der Linksfraktion - gewählt
+- TOP 1.11: Vorschlagslisten für die Programmplanung 2025 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Hielscherstraße zur Fahrradstraße entwickeln - in der BVV abgelehnt
+- TOP 1.13: Roadmap zum Ausbau von Solarenergie in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Parkpflegewerk Schlosspark Schönhausen für Stadtnatur und Klimagesundheit - in der BVV abgelehnt
+- TOP 1.15: Straßenteilentsiegelungen im Blumenviertel als Kompensation modelhaft umsetzen - in der BVV abgelehnt
+- TOP 1.16: Speedanzeigen für den Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Weltweit Leben retten: Informationsoffensive zur Möglichkeit der Stammzellenspende gegen Blutkrebs in Pankow starten - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: VHS-Angebote auf Englisch ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Barrierefreie Räume für den Teilhabefachbereich Jugend - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Christine soll schöner werden – Verkehrsberuhigung und Entsiegelung in der Christinenstraße vereinen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2022 - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Bötzowviertel verkehrsberuhigt und lebenswert - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Vinetakiez für Menschen statt Kfz-Durchgangsverkehr! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Netzwerk der Wärme fortführen! - in der BVV abgelehnt
+- TOP 1.25: Notbetten für obdachlose Frauen schaffen, mit einer neuen 24/7 Unterkunft in Pankow! - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Träger und Einrichtung vor der Schließung schützen! - überwiesen
+- TOP 1.27: Bauen verboten? Blockade und Stillstand wichtiger Pankower Projekte durch ideologisches „Handeln“ des Bezirksamts Pankow. - beantwortet
+- TOP 1.28: Keine Unterbrechung der Straßenbahn M1 für 6-8 Jahre in der Schönhauser Allee - überwiesen
+- TOP 1.29: Über die Hansastraße zum Sport – sicherer und besser ankommen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Öffentliches WLAN in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Zurück zu Transparenz und Wertschätzung: Bezirksamtsprotokolle den Fraktionsvorsitzenden wieder zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Mittel für Infrastruktur bei Flüchtlingsunterkünften anfordern - vertagt
+- TOP 1.33: Barrierefreiheit für den Kindergarten-Verbund Syringenweg - vertagt
+- TOP 1.34: Integrationsfördernde Standorte für Flüchtlingsunterkünfte finden - vertagt
+- TOP 1.35: Weißenseer Kultursommer als Fest mit Tanz und Musik sichern - vertagt
+- TOP 1.36: Transparenz bei öffentlichen Baumfällungen – regelmäßige und vollständige Listen - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vorsorge für weiter wachsenden Bezirk treffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Keine überörtliche Straßenverbindung durch die Erholungsanlage Blankenburg und Reduzierung der Flächeninanspruchnahme für eine Straßenbahnstrecke zum Bahnhof Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Querungssicherheit Ecke Bucher Chaussee/ Hofzeichendamm erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Querungssicherheit Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Gehwegschäden in Berlin Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Kampagne „Luisa ist hier!“ anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Berufung einer/s Beauftragten für „Gute Arbeit“ - vertagt
+- TOP 2.9: Fußgängerüberweg zum Eingang des Botanischen Volksparks Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Fußgängerüberweg auf der Blankenfelder Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Denkmalschutz für Elemente des ehemaligen Mauerstreifens am S-Bahnhof Wollankstraße / Schulzestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Personelle Ausstattung zur Umsetzung und Weiterentwicklung des Sportentwicklungsplans für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Zufluchtswohnungen in Pankow – Mehr Schutzplätze für Frauen schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Erste Schritte zur Wohnumfeldverbesserung im Sanierungsgebiet Langhansstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Denkmalpflegeplan mit Bürger:innenbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Orientierung für Menschen mit Sehbehinderungen im Bezirksamt verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Push statt Pull: Mit KiezRadar zum direkten Draht zwischen Amt und Bürger:in - vertagt
+- TOP 2.18: Bundesmittel für die Klimaanpassung in Pankow nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Geregeltes Verfahren zur Benennung nach historischen Persönlichkeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Optimierung der Kreuzung Giersstraße/Hansastraße am ehemaligen Kinderkrankenhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Angebot „Täterarbeit häusliche Gewalt“ als Präventionsmaßnahme - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Mehr Verkehrssicherheit in der Achillesstraße zwischen Lossebergplatz und Bucher Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Räume zur Zwischennutzung für kulturelle Zwecke identifizieren - vertagt
+- TOP 2.24: Lernen, Wohnen und Arbeiten an der Greifswalder Straße - vertagt
+- TOP 2.25: Sportboxen für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Gegen das Vergessen: Die Stolperstein-App mit Pankows Möglichkeiten verbreiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Optimierung der Ampelpassage am Antonplatz und an der Albertinenstraße über die Berliner Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Latte Kiez – Auch außerhalb des S-Bahnrings sollen Wohngebiete Verkehrsberuhigt und sicher sein - vertagt
+- TOP 2.29: Öffentliche Sportmöglichkeiten transparent machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Weitergabe der BA-Protokoll an die Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Benennung der Straße 5 im Ortsteil Heinersdorf in „Emblastraße“ - mit Abschlussbericht zur Kenntnis genommen
