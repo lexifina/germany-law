@@ -153,6 +153,7 @@
 - [§ 62a Vollzug der Abschiebungshaft](0062a.md)
 - [§ 62b Ausreisegewahrsam](0062b.md)
 - [§ 62c Ergänzende Vorbereitungshaft](0062c.md)
+- [§ 62d Bestellung eines anwaltlichen Vertreters](0062d.md)
 
 ## Kapitel 6 Haftung und Gebühren
 
@@ -235,7 +236,7 @@
 ## Kapitel 9 Straf- und Bußgeldvorschriften
 
 - [§ 95 Strafvorschriften](0095.md)
-- [§ 96 Einschleusen von Ausländern](0096.md)
+- [§ 96 Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet](0096.md)
 - [§ 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen](0097.md)
 - [§ 97a Geheimhaltungspflichten](0097a.md)
 - [§ 98 Bußgeldvorschriften](0098.md)
