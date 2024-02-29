@@ -1,0 +1,83 @@
+# 23. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-29T15:40:00+01:00
+- Ende: 2024-02-29T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29632
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29632
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP -: C Information zur Situation der Kölner Bürgerhäuser /-zentren - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Förderprogramm "Gleichstellung von Frauen und Männern 2024" - Kenntnis genommen
+- TOP 1.2: Stadt Köln unterzeichnet Charta zum Landesprogramm „Vereinbarkeit Beruf & Pflege“ - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten - Kenntnis genommen
+- TOP 2.3: Mittel zur Förderung von anerkannten Interkulturellen Zentren für das Jahr 2024 - Kenntnis genommen
+- TOP 2.4: Kommunales Integrationsmanagement (KIM) Jahresbericht 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Wohnungs- und Obdachlosigkeit bekämpfen – passgenaue Wohnraumversorgung für Familien in Wohnungsnot vorhalten - zurückgestellt
+- TOP 3.2: Erweiterung des Personenkreises, welcher von der Stadtverwaltung mit kostenlosen Tickets zur Nutzung der KVB ausgestattet wird - ungeändert beschlossen
+- TOP 3.3: Vergabe von Grundstücken primär an Wohnungsbaugesellschaften mit der Ausrichtung an Versorgungskriterien - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3.4: Ergänzende Förderzuschüsse zur Umwandlung von Badewannen in ebenerdige Duschbäder und für barierearme Häuser - Sache ist erledigt
+- TOP 3.5: Städtische Wohnungspolitik unter Gesichtspunkten des altersgerechten Wohnens in Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3.6: Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - ohne Votum in nachfolgende Gremien
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Strukturförderfonds 2023 / 2024 - ungeändert beschlossen
+- TOP 4.2: Strukturförderfonds 2023 / 2024 - geändert beschlossen
+- TOP -: TOP 4.2: Strukturförderfonds 2023/2024 hier:Förderprogramm für Zuwendungen aus dem Strukturförderfonds des DezernatesV, Soziales, Gesundheit und Wohnen zur Abmilderung der steigenden Personal-und Betriebs-Energiekosten in Folge des Ukraine-Krieges im - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - zurückgestellt
+- TOP 5.2: Strategische Sozialplanung - Herausforderungen und Ziele - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 5.2 „Strategische Sozialplanung – Herausforderungen und Ziele“, Vorlage 4069/2022 - geändert beschlossen
+- TOP -: Änderungsantrag zum Änderungsantrag verschiedener Antragsteller zur Beschlussvorlage „Strategische Sozialplanung - Herausforderungen und Ziele“, Ds.-Nr. 4069/2022, TOP 5.2 - geändert beschlossen
+- TOP 5.3: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2024 - 30.06.2025 - ungeändert empfohlen
+- TOP 5.4: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 5.5: Kölner Konzept zur Bekämpfung von Wohnungslosigkeit - zurückgestellt
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 7.2: Fortführung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes (3201/2023) - Kenntnis genommen
+- TOP 7.3: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2023 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 9.2: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Anfrage der GOL zum Thema "Senior*innenNetzwerke / Offene Altenarbeit" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Liste GOL aus den Sitzungen des Integrationsrates v. 16.01. und des Ausschusses für Soziales, Seniorinnen und Senioren v. 18.01.2024 (AN/0045/2024) betreffend „Thema: SeniorenNetzwerke/Offene Altenarbeit“ - Kenntnis genommen
+- TOP 10.1.2: veraltete Richtlinie zur Berücksichtigung der Bedarfe für Unterkunft und Heizung (BfU) im SGB II - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 18.01.2024 (AN/0062/2024) - Kenntnis genommen
+- TOP 10.1.3: Obdach- und Wohnungslosigkeit bekämpfen: Wie viele wohnungslose Familien werden in Köln in Beherbergungsbetrieben wie Hotels untergebracht? - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Auschusses für Soziales, Seniorinnen und Senioren vom 25.11.2023 Obdach- und Wohnugslosigkeit bekämpfen. (AN/1060/2023) - Kenntnis genommen
+- TOP 10.1.4: Beantwortung einer Anfrage aus der Sitzung des Integrationsrates vom 15.08.2023 (AN/1358/2023) zur Gesundheitsversorgung der Bewohner*innen der Notschlafstelle Vorgebirgstraße - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Wohnungsmisere für Senior*innen in Köln - zurückgestellt
+- TOP 10.2.2: Barrierearmut von Altbaubeständen - Fahrstühle und Parterrewohnungen - zurückgestellt
+- TOP 10.2.3: Ergebnis der Wohnraumförderung - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke (AN/0265/2024) betreffend "Ergebnis der Wohnraumförderung" - Kenntnis genommen
+- TOP 10.2.4: Armut in Köln: Wohnungs- und Obdachlosigkeit 2023 - zurückgestellt
+- TOP 10.2.5: Armut in Köln: Welche sozialen Maßnahmen plant die Stadt in den Stadtteilen mit akutem sozia-lem Handlungsbedarf? - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Köln Nachhaltigkeit: Information zum Voluntary Local Review 2023 - Kenntnis genommen
+- TOP 12.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 12.3: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 12.4: Aktionstag „gesund & mobil im Alter“ in Kooperation mit dem 14. Kölner Vorsorge-Tag am 21.03.2024 - Kenntnis genommen
+- TOP 12.5: Zweiter "Aktionstag Senior*innen" des Kriminalpräventiven Rats (KPR) gemeinsam mit der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 12.6: Einkommensverteilung in Köln - Ergebnisse der Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 12.7: Bauunterhaltung/Instandhaltung der Kölner Bürgerhäuser/Bürgerzentren - Kenntnis genommen
+- TOP 12.8: Öffentlichkeitsarbeit und Baumaßnahme Drogenkonsumraum Kalk - Kenntnis genommen
+- TOP 12.9: Open Drug Scene Cologne Survey 2023, Studienergebnisse - zurückgestellt
+- TOP 12.10: Stadtradeln 2024 - zurückgestellt
+- TOP 12.11: Projekt "Zukunft Pflege Köln" – Realisierung einer Pflegeeinrichtung im Neubaugebiet Rondorf Nord-West - zurückgestellt
