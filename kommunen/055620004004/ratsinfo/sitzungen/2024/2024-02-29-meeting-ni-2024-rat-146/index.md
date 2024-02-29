@@ -1,0 +1,62 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2024-02-29T17:00:00+01:00
+- Ende: 2024-02-29T21:41:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: terminiert
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RAT-146
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2024-RAT-146
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-RAT-146
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RAT-146
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-RAT-146
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Gemeinsamer Antrag der Fraktionen CDU, FWI und FDP vom 28.01.2024_Antrag auf Rücknahme der rechtswidrigen Verwaltungsakte nach § 130 Abgebordnung (AO) für die Abwassergebühren der Jahre 2021 und 2022
+- TOP 3: Bürgeranträge gemäß §24 GO NRW _ Rückerstattung der Abwassergebühren für die Jahr 2021 und 2022
+- TOP 4: Bürgerantrag gemäß § 24 GO NRW vom 28.12.2023 _ Ordnen des Parkens an der Clemensstraße durch Beschilderung und Markierung
+- TOP 5: Bürgerantrag gemäß § 24 GO NRW vom 28.12.2023_Entsiegelung und Bepflanzung der Nebenanlagen der Clemensstraße
+- TOP 6: Sachstandsbericht zur Grundsteuerreform zum 01.01.2025
+- TOP 6.1: Gemeinsamer Antrag der Fraktionen SPD und B90/ Die Grünen vom 27.02.2024_Resolution: Lastenverschiebung bei der Grundsteuer zwischen Gewerbe- und Wohngrundstücken verhindern - Land muss handeln!
+- TOP 7: Zustimmung zum Wirtschaftsplan des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur
+- TOP 8: Beschluss über die Übertragung von Haushaltsermächtigungen in das Haushaltsjahr 2024
+- TOP 8.1: Ergänzungsvorlage zur Vorlage 2024/039 "Beschluss über die Übertragung von Haushalts-ermächtigungen in das Haushaltsjahr 2024"
+- TOP 9: Nebentätigkeit des Hauptverwaltungsbeamten im Jahr 2023 Vorlage gem. § 8 Korruptionsbekämpfungsgesetz
+- TOP 10: Weitere außerplanmäßige Mittelbereitstellung nach § 83 GO aus den Landes- und Bundeszuwendungen zur Beteiligung an den Kosten der Kommunen für die Schaffung, Unterhaltung und Herrichtung von Unterbringungsmöglichkeiten für Geflüchtete; hier: Genehmigung der Dringlichkeitsentscheidung vom 22.12.2023
+- TOP 11: Außerplanmäßige Mittelbereitstellung gem. § 83 GO beim Kostenträger 310402 (Verwaltung und Betrieb von Einrichtungen für Asylbewerber, Geduldete und Obdachlose) aus dem Sondervermögen des Landes zur "Bewältigung der Krisensituation in Folge des russischen Angriffskrieges in der Ukraine"; hier: Genehmigung der Dringlichkeitsentscheidung vom 14.12.2023
+- TOP 12: Neufassung der Sondernutzungssatzung der Stadt Castrop-Rauxel
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2024
+- TOP 14: Brandschutzbedarfsplan der Stadt Castrop-Rauxel
+- TOP 15: Antrag der Die FRAKTION-Fraktion vom 07.02.2024_Erhöhung der Parkgebühren für SUV
+- TOP 16: Antrag der FWI-Fraktion vom 19.01.2024_Prüfauftrag zur Aufstellung einer autarken Toilettenanlage
+- TOP 17: Umbesetzung Betriebsausschuss 02
+- TOP 18: Lärmaktionsplanung der 4. Stufe Hier: Entwurf Lärmaktionsplan 4. Stufe
+- TOP 19: 13. Änderung des Flächennutzungsplans "Wohngebiet Dingen" hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Feststellungsbeschluss des Plans und Billigung der Begründung mit Umweltbericht c) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde
+- TOP 20: 4. Änderung des Flächennutzungsplans der Stadt Castrop-Rauxel "Änderung der Konzentrationsflächen für Windkraftanlagen" hier: a) Entscheidung über die Stellungnahmen (Abwägung) b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Feststellungsbeschluss des Planes und Billigung der Begründung mit Umweltbericht d) Vorlage zur Genehmigung bei der höheren Verwaltungsbehörde
+- TOP 21: Sofortprogramm Innenstadt - Städtebauliche Neuordnung der nordwestlichen Innenstadt Hier: Einbringung des Endberichtes
+- TOP 22: Antrag der FDP Fraktion vom 16.01.2024 "Barrierefreie Umgestaltung der Altglascontainer im Stadtgebiet"
+- TOP 23: Antrag der Fraktionen SPD, B90/Die Grünen, CDU und FWI vom 09.02.2024_Beitritt zur "Europäischen Städte-Koalition gegen Rassismus"
+- TOP 24: Antrag der CDU-Fraktion vom 12.02.2024_Demokratieförderung
+- TOP 25: Gemeinsamer Antrag CDU Fraktion und FDP Fraktion vom 15.01.2024_Umgang mit Pressemitteilungen
+- TOP 26: Gemeinsamer Antrag der Fraktionen SPD und B90 / Die Grünen vom 13.02.2024_ Resolution gegen die kleinteilige Entwicklung des NewParks
+- TOP 27: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 28: Halbjahresbericht Städtepartnerschaften 2. Halbjahr 2023
+- TOP 29: Antrag der SPD-Fraktion vom 12.02.2024_Ausschussumbesetzung
+- TOP 30: Gemeinsamer Antrag von SPD und Bündnis 90/Die Grünen vom 14.02.2024_Aktivitäten nach Befragung der Einzelhändler*innen der Altstadt
+- TOP 31: Ausschussumbesetzung Jugendhilfeausschuss
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Anfragen der Ratsmitglieder
+- TOP 33.1: Anfrage der FDP Ratsfraktion vom 16.01.2024_Mobile Blitzer
+- TOP 33.2: Anfrage der FDP Ratsfraktion vom 19.01.2024_Ehrenamtskarte
+- TOP 33.3: Anfrage der FDP-Fraktion vom 25.01.2024_Datumsangaben in Verwaltungsschreiben
+- TOP 33.4: Anfrage der FDP-Fraktion vom 16.01.2024 - Bericht über die geplanten Marktplatzsperrungen für Veranstaltungen in 2024
+- TOP 33.5: Anfrage der FDP-Fraktion vom 15.01.2024 - Digitales Händlerportal
+- TOP 33.6: Anfrage der UBP-Fraktion vom 08.02.2024_Demonstration "gegen rechts" am 18.01.2024 und "Bündnis für Demokratie"
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
