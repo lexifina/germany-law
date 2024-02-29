@@ -1,0 +1,53 @@
+# 22. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-02-29T17:00:00+01:00
+- Ende: 2024-02-29T18:27:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29740
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29740
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeine Beschlussvorlagen
+- TOP 1.1: Freigabe von Fördermitteln aus der Kulturförderabgabe - Jugendkonferenz TINCON 2024 - ungeändert beschlossen
+- TOP 1.2: Freigabe von Fördermitteln zur Finanzierung von Projekten der Medien- und Kreativwirtschaft - ungeändert beschlossen
+- TOP 1.3: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2024 - 30.06.2025 - ungeändert empfohlen
+- TOP 1.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.5: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.6: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.7: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.8: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.9: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.10: Satzungen über Anbringungsort, Abmessungen und Ausgestaltungen von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 1.11: Auswahlverfahren für die Vergabe städtischer Grundstücke in großflächigen Gewerbegebieten ab dem 01.01.2024 - zurückgestellt
+- TOP -: Änderungsantrag zu Top „Auswahlverfahren für die Vergabe städtischer Grundstücke in großflächigen Gewerbegebieten ab dem 01.01.2024 (2411/2023)“ Top 1.1 - zurückgestellt
+- TOP 2: Präsentation, anschließend Meinungsaustausch
+- TOP 2.1: Präsentation Wirtschaftsfaktoranalyse "Tourismus Freizeit-/Geschäftsreisen" von Hr. Dr. Amann (KölnTourismus)
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Kölner Wirtschaft; Stärke durch Vielfalt - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betreffend "Kölner Wirtschaft; Stärke durch Vielfalt", AN/0806/2023 - Kenntnis genommen
+- TOP -: Beantwortung der mündlichen Nachfragen der SPD-Fraktion im Wirtschaftsausschuss vom 16.11.2023 zur Beantwortung "Kölner Wirtschaft; Stärke durch Vielfalt", 2447/2023 - Kenntnis genommen
+- TOP 4: Mitteilungen
+- TOP 4.1: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 4.2: Aktualisierung der Kurzfassung zum Gewerbe und Industrieflächengutachten von 2019 - Kenntnis genommen
+- TOP 4.3: Einkommensverteilung in Köln - Ergebnisse der Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 4.4: Gewerbeflächenbereitstellungskonzept (GFBK); Stand 31.12.2023 - Kenntnis genommen
+- TOP 4.5: Der Kölner Rahmen [ ] - Förderprogramm für innovative Ideen - Kenntnis genommen
+- TOP 4.6: Stadtradeln 2024 - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten
+- TOP 6: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 7.1: Förderung des Einzelhandels – Sonderförderprogramm zur Steigerung der Aufenthaltsqualität - geändert beschlossen
+- TOP 8: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 9: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 10: Marktwesen
+- TOP 11: "koeln.de"
+- TOP 12: Medien- und Internetwirtschaft in Köln
+- TOP 13: Wirtschafts- und Arbeitsmarktsituation
+- TOP 14: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 15: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 16: Mündliche Anfragen
