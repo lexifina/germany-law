@@ -1,0 +1,66 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-03-01T16:05:00+01:00
+- Ende: 2024-03-01T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6993
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/6993
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 01.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00202920.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 01.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00202920.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 01.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00202920.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 4: Einwohner*innenfragestunde - beraten ohne Abstimmung
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 5: Einrichtung einer Arbeitsgruppe Organisation, Personal und Digitalisierung - einstimmig zugestimmt
+- TOP -: Integrationsausschuss
+- TOP 6: Verwendung von Mitteln der Integrationsförderung - mehrheitlich zugestimmt
+- TOP -: Bauausschuss
+- TOP 7: Hammer Landstraße: Verbreiterung der südlichen Nebenanlage in Teilbereichen des Wendersplatzes (gegenüber der Einmündung Industriestraße) - einstimmig zugestimmt
+- TOP 8: Selikumer Weg: Ausbau - zurückgezogen
+- TOP 9: Aufweitung des Hochwasserschutztores Nr. 13 im Bereich Wendersplatz - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 10: Hammer Landstraße und Hessentordamm: Verbesserung der Querungssituation zum Wendersplatz / zur Landesgartenschau für Fußgänger - mehrheitlich zugestimmt
+- TOP 11: Nordkanalallee: Plananpassung aufgrund geänderter Richtlinien zur Führung des Radverkehrs - mehrheitlich zugestimmt
+- TOP 12: Zweckgebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) zur Umsetzung von Zielen des Innenstadtstärkungsprogramms 2024 - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V - Norf
+- TOP 13: Mainstraße: Herstellung eines Gehwegs zwischen P+R Parkplatz und Hausnummer 16 - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 14: Benennung von Delegierten für die Mitgliederversammlung des Städtetages Nordrhein-Westfalen am - einstimmig zugestimmt
+- TOP 15: Jahresabschluss 2022 - einstimmig zugestimmt
+- TOP 16: Kindertageseinrichtungen: KiBiz und Trägeranteile - einstimmig zugestimmt
+- TOP 17: Grundsatzentscheidung zur (Neu-)Organisation der Grünpflege - vertagt
+- TOP -: Anträge
+- TOP 18: Antrag der AfD-Fraktion betr.: Kosten-Nutzen-Untersuchung der Maßnahmen des Integrierten Klimaschutzkonzeptes - mehrheitlich abgelehnt
+- TOP 19: Antrag der AfD-Fraktion betr.: Verwendung einer regelkonformen deutschen Sprache im Amts- und Dienstverkehr der Stadt Neuss - mehrheitlich abgelehnt
+- TOP 20: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Fortführung des Jugendbus-Angebotes prüfen - verwiesen
+- TOP 21: Antrag der AfD-Fraktion betr.: Arbeitsgruppe (runder Tisch) zum Thema Prävention von religiösem Extremismus und Gewaltkriminalität von Jugendbanden - mehrheitlich abgelehnt
+- TOP 22: Antrag der FRaktion JETZT! betr.: Abriss und Neubau Wetthalle - verwiesen
+- TOP 23: Antrag der CDU-Fraktion betr.: Alternative für den Jugendbus - verwiesen
+- TOP 24: Antrag der CDU-Fraktion betr.: Schlechter Pflegezustand des Bahnhofs bremst Mobilitätswende aus - Pflege und Reinigung verbessern - einstimmig zugestimmt
+- TOP 25: Antrag der Fraktionen von CDU, FRaktion JETZT!, UWG/Freie Wähler - Aktiv für Neuss und FDP betr.: Kurskorrektur erforderlich - für einen realistischen und wohlstandswahrenden Klimaschutz - mehrheitlich zugestimmt
+- TOP 26: Antrag der Fraktion Die PARTEI / DIE LINKE betr.: Kaufhofgelände durch Abriss vernünftig entwickeln - mehrheitlich abgelehnt
+- TOP 27: Antrag der Fraktion Linke/Tierschutz betr.: Pilotprojekt „Schulstraßen in Neuss" - mehrheitlich zugestimmt
+- TOP -: Anfragen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 29: Schlosserarbeiten zur Geländererhöhung an Brücken und sonstigen Bauwerken – Ergebnis Prüfauftrag - zur Kenntnis genommen
+- TOP 30: Anmeldeverfahren weiterführende Schulen - Bildung einer 7. Eingangsklasse am Norfer Gymnasium - zur Kenntnis genommen
+- TOP 31: Unterbringung von Asylbewerbern und Geflüchteten - zur Kenntnis genommen
+- TOP 32: Kreishaushalt 2024 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
