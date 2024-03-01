@@ -1,0 +1,64 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-01T14:00:00+01:00
+- Ende: 2024-03-01T17:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26207
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26207
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512676.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512676.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00512676.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Austausch mit Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 3: Vorstellung der Kandidaten des Stadtbezirks 1 zur Seniorenratswahl 2024 - zur Kenntnis genommen
+- TOP 4: Genehmigung von Niederschriften
+- TOP 4.1: Genehmigung der Niederschrift über die Sondersitzung der Bezirksvertretung 1, der Bezirksvertretung 3, der Bezirksvertretung 5 und des Ordnungs- und Verkehrsausschusses vom 16.08.2023 - einstimmig beschlossen
+- TOP 4.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 26.01.2024 - abweichend beschlossen
+- TOP 5: Zulassung von Sachverständigen
+- TOP 6: Verwaltungsvorlagen und mündliche Berichte
+- TOP 6.1: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 1 - Empfehlung abweichend beschlossen
+- TOP 6.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2024 - abweichend beschlossen
+- TOP 6.3: Rather Straße / Spichernstraße / Elfriede-Bial-Straße in Derendorf – Errichtung einer Lichtsignalanlage - einstimmig beschlossen
+- TOP 6.4: Bebauungsplan-Entwurf Nr. 01/022 - Uerdinger Straße 67 - - Empfehlung einstimmig beschlossen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Bücherbummel auf der Königsallee im Jahre 2024 - einstimmig beschlossen
+- TOP 6.7: Büchermeile auf der Rheinuferpromenade im Jahre 2024 - einstimmig beschlossen
+- TOP 6.8: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: AW-0218/23, Yorckstraße 19-23 - Befreiung von der Fassadenbegrünung - zurückgezogen
+- TOP 6.11: Umgang mit der historischen Person Franz Jürgens - Empfehlung einstimmig beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Paul-Spiegel-Platz - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8: Anfragen
+- TOP 8.1: Festungsmauer Bastion Diamantstein Maria Amalia am Spee'schen Graben - Anfrage der CDU-Fraktion
+- TOP 8.2: Bauvorhaben Ulmenstraße 97 - Nutzung der ehemaligen Gefängniskapelle Ulmer Höh` - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Zukunft der ehemaligen Gefängniskapelle Ulmer Höh‘ nach Insolvenz von Investor Interboden - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 9: Anträge
+- TOP 9.1: Errichtung von Fahrradabstellanlagen an den Nebeneingängen des Nordfriedhofs - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 9.2: Barrierefreier Haltestellenumbau Merziger Straße, OVA/063/2023 - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 9.3: Errichtung von Fahrradabstellanlagen auf den Flächen, die für die Verschwenkung der ehemaligen Radfahrspur an der Eulerstraße stadtauswärts gepflastert wurden - mehrheitlich beschlossen
+- TOP 9.4: Finanzierung einer Bühne für die neuen Seminar- und Veranstaltungsräume der Mahn- und Gedenkstätte - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 9.5: Gedenk-Litfaßsäulen auf der Königsallee zur Geschichte der Straße im Nationalsozialismus - überfraktionaller Antrag - einstimmig beschlossen
+- TOP 9.6: Baumnachpflanzungen Kapellstrasse - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9.7: Aalschokker im Alten Hafenbecken - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9.8: Bänke vor der Mariensäule - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 9.9: Mögliche Ladestationen für Elektrofahrzeuge (Duisburger Straße / Ecke Marschallstraße) - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 10.2: Taubenschläge am Worringer Platz/Hauptbahnhof und Münsterplatz; Beschluss der Bezirksvertretung 1 vom 29.09.2023; BV1/227/2023 - zur Kenntnis genommen
+- TOP 10.3: Versetzung der Altkleidercontainer Schinkelstraße 53/55; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/030/2024 - zur Kenntnis genommen
+- TOP 10.4: Parkbuchten Mauerstraße 2-14 ; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/022/2024 - zur Kenntnis genommen
+- TOP 10.5: Zurückgenommene Radfahrstreifen auf der Fischerstraße; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/021/2024 - zur Kenntnis genommen
+- TOP 10.6: Bordsteinabsenkungen in Golzheim; Beschluss der Bezirksvertretung 1 vom 16.06.2023; BV1/160/2023 - zur Kenntnis genommen
+- TOP 10.7: Antrag auf Anbringen von Pfandringen an allen Mülleimern des Typs Tara im Stadtbezirk 1; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/015/2024 - zur Kenntnis genommen
+- TOP 11: Verfügungsmittel der Bezirksvertretung 1
+- TOP 11.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Künstlerinitiative Weide/Bedenbecker - einstimmig beschlossen
+- TOP 11.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Female Photoclub e.V. - einstimmig beschlossen
