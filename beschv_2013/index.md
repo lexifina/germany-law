@@ -8,10 +8,11 @@
 ## Teil 2 Qualifizierte Beschäftigungen
 
 - [§ 2 Vermittlungsabsprachen](0002.md)
+- [§ 2a Anerkennungspartnerschaft](0002a.md)
 - [§ 3 Leitende Angestellte, Führungskräfte und Spezialisten](0003.md)
 - [§ 4 (weggefallen)](0004.md)
 - [§ 5 Wissenschaft, Forschung und Entwicklung](0005.md)
-- [§ 6 Beschäftigung in ausgewählten Berufen bei ausgeprägter berufspraktischer Erfahrung](0006.md)
+- [§ 6 Beschäftigung bei ausgeprägter berufspraktischer Erfahrung](0006.md)
 - [§ 7 (weggefallen)](0007.md)
 - [§ 8 Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen](0008.md)
 - [§ 9 Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt](0009.md)
@@ -28,6 +29,7 @@
 - [§ 15a Saisonabhängige Beschäftigung](0015a.md)
 - [§ 15b Schaustellergehilfen](0015b.md)
 - [§ 15c Haushaltshilfen](0015c.md)
+- [§ 15d Kurzzeitige kontingentierte Beschäftigung](0015d.md)
 
 ## Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer
 
@@ -41,6 +43,7 @@
 ## Teil 5 Besondere Berufs- oder Personengruppen
 
 - [§ 22 Besondere Berufsgruppen](0022.md)
+- [§ 22a Beschäftigung von Pflegehilfskräften](0022a.md)
 - [§ 23 Internationale Sportveranstaltungen](0023.md)
 - [§ 24 Schifffahrt- und Luftverkehr](0024.md)
 - [§ 24a Berufskraftfahrerinnen und Berufskraftfahrer](0024a.md)

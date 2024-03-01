@@ -44,6 +44,7 @@
 - [§ 16d Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen](0016d.md)
 - [§ 16e Studienbezogenes Praktikum EU](0016e.md)
 - [§ 16f Sprachkurse und Schulbesuch](0016f.md)
+- [§ 16g Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer](0016g.md)
 - [§ 17 Suche eines Ausbildungs- oder Studienplatzes](0017.md)
 
 ### Abschnitt 4 Aufenthalt zum Zweck der Erwerbstätigkeit
@@ -113,6 +114,7 @@
 - [§ 44a Verpflichtung zur Teilnahme an einem Integrationskurs](0044a.md)
 - [§ 45 Integrationsprogramm](0045.md)
 - [§ 45a Berufsbezogene Deutschsprachförderung; Verordnungsermächtigung](0045a.md)
+- [§ 45b Informations- und Beratungsangebote; Verordnungsermächtigung und Vorintegrationsmaßnahmen](0045b.md)
 
 ## Kapitel 4 Ordnungsrechtliche Vorschriften
 

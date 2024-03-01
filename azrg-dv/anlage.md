@@ -332,7 +332,7 @@ Allgemeiner Datenbestand
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-Gesetzes |
 | Aufenthaltserlaubnisse/Aufenthaltstitel |  |  | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen | I)–Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der poli- zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizei- vollzugsbehörden der Länder–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes–deutsche Auslands- vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren–Statistisches BundesamtII)–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden–Bundeskriminalamt–Landeskriminalämter–sonstige nicht in Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes–Staatsanwaltschaften–Gerichte–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–Behörden der Zoll- verwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes–Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes–die für die Durch- führung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Träger der Deutschen Rentenversicherung–Staatsangehörigkeitsbehörden–Zollkriminalamt |
 | a) | Aufenthalt zum Zweck der Ausbildung nach |  |  |
-|  | aa) | § 16a Absatz 1 AufenthG (betriebliche Berufsausbildung/ Weiterbildung) |  | (2)* |
+|  | aa) | § 16a Absatz 1 AufenthG (betriebliche Berufsausbildung/Weiterbildung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | bb) | § 16a Absatz 2 AufenthG (schulische Berufsausbildung) |  | (2)* |
@@ -351,16 +351,16 @@ Allgemeiner Datenbestand
 |  |  | ccc) | studienvorbereitendes Praktikum ohne Zulassung zum Studium |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  | ee) | § 16b Absatz 7 AufenthG (Studium bei in einem anderen Mitgliedstaat international Schutzberechtigten) |  | (2)* |
+|  | ee) | § 16b Absatz 7 AufenthG (Studium in einem anderen Mitgliedstaat international Schutzberechtigten) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ff) | § 16d Absatz 1 AufenthG (Durchführung einer Qualizierungsmaßnahme) |  | (2)* |
+|  | ff) | § 16d Absatz 1 AufenthG (Durchführung einer Qualifizierungsmaßnahme) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | gg) | § 16d Absatz 1 in Verbindung mit Absatz 2 AufenthG (Durchführung einer Qualifizierungsmaßnahme mit Beschäftigung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | hh) | § 16d Absatz 3 AufenthG (Anerkennung der Berufsqualifikation während einer Beschäftigung) |  | (2)* |
+|  | hh) | § 16d Absatz 3 AufenthG (Anerkennungspartnerschaft) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | ii) | § 16d Absatz 4 Nummer 1 AufenthG (Anerkennung der Berufsqualifikation aufgrund einer Absprache der Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und Gesundheitsbereich) |  | (2)* |
@@ -372,41 +372,69 @@ Allgemeiner Datenbestand
 |  | kk) | § 16d Absatz 5 AufenthG (Ablegung einer Prüfung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ll) | § 16e Absatz 1 AufenthG (Studienbezogenes Praktikum EU) |  | (2)* |
+|  | ll) | § 16d Absatz 6 AufenthG (Aufenthalt zur Qualifikationsanalyse) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | mm) | § 16f Absatz 1 AufenthG (Sprachkurse, Schüleraustausch) |  | (2)* |
+|  | mm) | § 16e Absatz 1 AufenthG (Studienbezogenes Praktikum EU) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | nn) | § 16f Absatz 2 AufenthG (Schulbesuch, allgemeinbildend) |  | (2)* |
+|  | nn) | § 16f Absatz 1 AufenthG (Sprachkurse, Schüleraustausch) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | oo) | § 17 Absatz 1 AufenthG (Ausbildungsplatzsuche) |  | (2)* |
+|  | oo) | § 16f Absatz 2 AufenthG (Schulbesuch, allgemeinbildend) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | pp) | § 17 Absatz 2 AufenthG (Studienbewerbung) |  | (2)* |
+|  | pp) | § 16g Absatz 1 AufenthG (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer, Anspruch) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | qq) | § 16g Absatz 5 Satz 1 AufenthG (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer, Suche nach weiterem Ausbildungsplatz) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | rr) | § 16g Absatz 5 Satz 2 AufenthG (Aufenthaltserlaubnis für ausreisepflichtige Ausländer, Arbeitsplatzsuche nach Ausbildungsabschluss) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | ss) | § 16g Absatz 6 AufenthG (Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer, Ermessen) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | tt) | § 16g Absatz 8 AufenthG (Aufenthaltserlaubnis für ausreisepflichtige Ausländer zur Beschäftigung im Anschluss an eine Ausbildung) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | uu) | § 17 Absatz 1 AufenthG (Ausbildungsplatzsuche) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | vv) | § 17 Absatz 2 AufenthG (Studienbewerbung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 | b) | Aufenthalt zum Zweck der Erwerbstätigkeit nach |  |  |
 |  | aa) | § 18a AufenthG (Fachkraft mit Berufsausbildung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | bb) | § 18b Absatz 1 AufenthG (Fachkraft mit akademischer Ausbildung) |  | (2)* |
+|  | bb) | § 18b AufenthG (Fachkraft mit akademischer Ausbildung) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | cc) | § 18b Absatz 2 Satz 1 AufenthG (Blaue Karte EU, Fachkräfte mit akademischer Ausbildung, Regelberufe) |  | (2)* |
+|  | cc) | § 18d Absatz 1 AufenthG (Forscher) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | dd) | § 18b Absatz 2 Satz 2 AufenthG (Blaue Karte EU, Fachkräfte mit akademischer Ausbildung, Mangelberufe) |  | (2)* |
+|  | dd) | § 18d Absatz 6 AufenthG (in einem anderen Mitgliedstaat als international Schutzberechtigte anerkannte Forscher) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ee) | § 18d Absatz 1 AufenthG (Forscher) |  | (2)* |
+|  | ee) | § 18f Absatz 1 AufenthG (mobile Forscher) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ff) | § 18d Absatz 6 AufenthG (in einem anderen Mitgliedstaat als international Schutzberechtigte anerkannte Forscher) |  | (2)* |
-|  |  | erteilt am |  |  |
-|  |  | befristet bis |  |  |
-|  | gg) | § 18f Absatz 1 AufenthG (mobile Forscher) |  | (2)* |
+|  | ff) | § 18g AufenthG (Blaue Karte EU) |  |  |
+|  |  | aaa) | § 18g Absatz 1 Satz 1 AufenthG (Regelberufe) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | § 18g Absatz 1 Satz 2 Nummer 1 AufenthG (Mangelberufe) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ccc) | § 18g Absatz 1 Satz 2 Nummer 2 AufenthG (Berufsanfänger) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | ddd) | § 18g Absatz 2 AufenthG (IT-Spezialisten) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  | gg) | § 18g i. V. m. § 18i AufenthG (Blaue Karte EU mit Voraufenthalt in … [Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates]) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | hh) | § 19 Absatz 1 AufenthG (ICT-Karte) |  | (2)* |
@@ -416,7 +444,7 @@ Allgemeiner Datenbestand
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | jj) | § 19c Absatz 1 AufenthG (Beschäftigung unabhängig von der Qualifikation nach der Beschäftigungsverordnung) |  |  |
-|  |  | aaa) | § 3 BeschV, LeitendeAngestellte, Führungskräfte und Spezialisten |  | (2)* |
+|  |  | aaa) | § 3 BeschV, Leitende Angestellte, Führungskräfte und Spezialisten |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  |  | bbb) | § 5 Nummer 1 und 2 BeschV, Wissenschaft und Forschung |  | (2)* |
@@ -428,7 +456,7 @@ Allgemeiner Datenbestand
 |  |  | ddd) | § 10 Absatz 1 Nummer 1 BeschV, internationaler Personalaustausch |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | eee) | § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV, Auslandsprojekte |  | (2)* |
+|  |  | eee) | § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV, internationaler Personalaustausch |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  |  | fff) | § 11 Absatz 1 BeschV, Sprachlehrer |  | (2)* |
@@ -443,28 +471,28 @@ Allgemeiner Datenbestand
 |  |  | iii) | § 14 Absatz 1 Nummer 1 BeschV, Freiwilligendienst |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | jjj) | § 14 Absatz 1 Nummer 2, BeschV, Beschäftigung aus karitativen Gründen |  | (2)* |
+|  |  | jjj) | § 14 Absatz 1 Nummer 2 BeschV, Beschäftigung aus karitativen Gründen |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  |  | kkk) | § 14 Absatz 1a BeschV, Beschäftigung aus religiösen Gründen |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | lll) | § 15 Nummer 3 und 5 BeschV, öffentlich geförderte Praktika |  | (2)* |
+|  |  | lll) | § 15d BeschV, Kurzzeitige kontingentierte Beschäftigung |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | mmm) | § 15 Nummer 4 und 6 BeschV, Praktika |  | (2)* |
+|  |  | mmm) | § 19 Absatz 2 BeschV, Beschäftigung im Rahmen von Werklieferungsverträgen |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | nnn) | § 19 Absatz 2 BeschV, Beschäftigung im Rahmen von Werklieferungsverträgen |  | (2)* |
+|  |  | nnn) | § 21 BeschV, vorübergehende Dienstleistungserbringung |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | ooo) | § 21 BeschV, vorübergehende Dienstleistungserbringung |  | (2)* |
+|  |  | ooo) | § 22 Nummer 4 BeschV, Berufssportler und -trainer |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | ppp) | § 22 Nummer 4 BeschV, Berufssportler und -trainer |  | (2)* |
+|  |  | ppp) | § 22 Nummer 5 BeschV, eSportler |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | qqq) | § 22 Nummer 5 BeschV, eSportler |  | (2)* |
+|  |  | qqq) | § 22a BeschV, Beschäftigung von Pflegehilfskräften |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  |  | rrr) | § 24 Nummer 3 BeschV, Personal auf Binnenschiffen |  | (2)* |
@@ -494,10 +522,11 @@ Allgemeiner Datenbestand
 |  |  | zzz) | übrige Beschäftigungssachverhalte der BeschV |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  | kk) | § 19c Absatz 2 AufenthG (non-formale qualifizierte Beschäftigung in Verbindung mit § 6 BeschV) |  | (2)* |
-|  |  | erteilt am |  |  |
-|  |  | befristet bis |  |  |
+|  | kk) | § 19c Absatz 2 AufenthG (non-formale qualifizierte Beschäftigung in Verbindung mit § 6 BeschV) |  |  |
 |  |  | aaa) | § 6 BeschV, Beschäftigung in ausgewählten Berufen bei ausgeprägter berufspraktischer Erfahrung |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | § 6 Absatz 1 Satz 3 BeschV, Beschäftigung in IT-Berufen bei ausgeprägter berufspraktischer Erfahrung |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  | ll) | § 19c Absatz 3 AufenthG (Beschäftigung im öffentlichen Interesse) |  | (2)* |
@@ -507,47 +536,57 @@ Allgemeiner Datenbestand
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 |  | nn) | § 19d AufenthG |  |  |
-|  |  | aaa) | § 19d Absatz 1 Nummer 1 Buchstabe a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Berufsausbildung in Deutschland) |  | (2)* |
+|  |  | aaa) | § 19d Absatz 1 Nummer 1 Buchstabe a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Berufsausbildung oder inländischem Hochschulabschluss in Deutschland) |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | bbb) | § 19d Absatz 1 Nummer 1 Buchstabe b AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit Hochschulabschluss) |  | (2)* |
+|  |  | bbb) | § 19d Absatz 1 Nummer 1 Buchstabe b AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete mit einem ausländischen Hochschulabschluss) |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
 |  |  | ccc) | § 19d Absatz 1 Nummer 1 Buchstabe c AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete, die seit drei Jahren ununterbrochen eine Beschäftigung ausgeübt haben) |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  | ddd) | § 19d Absatz 1a AufenthG (Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine Ausbildungsduldung) |  | (2)* |
+|  |  | ddd) | § 19d Absatz 4 AufenthG (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 5 AufenthG) |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
-|  |  |  | widerrufen am |  |  |
 |  | oo) | § 19e Absatz 1 AufenthG (europäischer Freiwilligendienst) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | pp) | § 20 Absatz 1 AufenthG (Arbeitsplatzsuche für Fachkraft mit Berufsausbildung) |  | (2)* |
+|  | pp) | § 20 Absatz 1 Nummer 1 AufenthG (Arbeitsplatzsuche nach Studium in Deutschland) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | qq) | § 20 Absatz 2 AufenthG (Arbeitsplatzsuche für Fachkraft mit akademischer Ausbildung) |  | (2)* |
+|  | qq) | § 20 Absatz 1 Nummer 2 AufenthG (Arbeitsplatzsuche nach Forschungstätigkeit) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | rr) | § 20 Absatz 3 Nummer 1 AufenthG (Arbeitsplatzsuche nach Studium in Deutschland) |  | (2)* |
+|  | rr) | § 20 Absatz 1 Nummer 3 AufenthG (Arbeitsplatzsuche nach qualifizierter Berufsausbildung in Deutschland) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ss) | § 20 Absatz 3 Nummer 2 AufenthG (Arbeitsplatzsuche nach Forschungstätigkeit) |  | (2)* |
+|  | ss) | § 20 Absatz 1 Nummer 4 AufenthG (Arbeitsplatzsuche nach Feststellung der Gleichwertigkeit der Berufsqualifikation oder Erteilung der Berufsausübungserlaubnis) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | tt) | § 20 Absatz 3 Nummer 3 AufenthG (Arbeitsplatzsuche nach qualifizierter Berufsausbildung in Deutschland) |  | (2)* |
+|  | tt) | § 20 Absatz 1 Nummer 5 AufenthG (Arbeitsplatzsuche nach Abschluss einer Assistenz- oder Helferausbildung im Bundesgebiet) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | uu) | § 20 Absatz 3 Nummer 4 AufenthG (Arbeitsplatzsuche nach Feststellung der Gleichwertigkeit der Berufsqualifikation) |  | (2)* |
+|  | uu) | § 20a AufenthG (Chancenkarte) |  |  |
+|  |  | aaa) | § 20a Absatz 3 (Chancenkarte) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  |  | bbb) | § 20a Absatz 5 Satz 2 (Chancenkarte Verlängerung) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | befristet bis |  |  |
+|  | vv) | § 21 Absatz 1 AufenthG (selbständige Tätigkeit – wirtschaftliches Interesse) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | vv) | § 21 Absatz 1 AufenthG (selbständige Tätigkeit – wirtschaftliches Interesse) erteilt am |  | (2)* |
+|  | ww) | § 21 Absatz 2 AufenthG (selbständige Tätigkeit – völkerrechtliche Vergünstigung) |  | (2)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ww) | § 21 Absatz 2 AufenthG (selbständige Tätigkeit – völkerrechtliche Vergünstigung) erteilt am |  | (2)* |
+|  | xx) | § 21 Absatz 2a AufenthG (selbständige Tätigkeit – Absolvent inländischer Hochschule oder vormaliger Forscher) |  | (2)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | xx) | § 21 Absatz 2a AufenthG (selbständige Tätigkeit – Absolvent inländischer Hochschule) erteilt am |  | (2)* |
+|  | yy) | § 21 Absatz 2b AufenthG (Gründungsstipendium) |  | (2)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | yy) | § 21 Absatz 5 AufenthG (freiberufliche Tätigkeit) erteilt am |  | (2)* |
+|  | zz) | § 21 Absatz 5 AufenthG (freiberufliche Tätigkeit) |  | (2)* |
+|  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 | c) | Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen nach |  |  |
 |  | aa) | § 22 Satz 1 AufenthG (Aufnahme aus dem Ausland) erteilt am |  | (2)* |
@@ -648,13 +687,19 @@ Allgemeiner Datenbestand
 |  |  | befristet bis |  |  |
 |  | uu) | § 36 Absatz 2 AufenthG (Nachzug sonstiger Familienangehöriger) erteilt am |  | (2)* |
 |  |  | befristet bis |  |  |
-|  | vv) | § 36a Absatz 1 Satz 1 erste Alternative AufenthG (Ehegattennachzug zu subsidiär Schutzberechtigten) |  | (2)* |
+|  | vv) | § 36 Absatz 3 Satz 1 erster Halbsatz AufenthG (Nachzug Eltern zu Inhabern von Erwerbstiteln) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | ww) | § 36a Absatz 1 Satz 1 zweite AlternativeAufenthG (Kindesnachzug zu subsidiär Schutzberechtigten) |  | (2)* |
+|  | ww) | § 36 Absatz 3 Satz 1 zweiter Halbsatz AufenthG (Nachzug Schwiegereltern zu Inhabern von Erwerbstiteln) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
-|  | xx) | § 36a Absatz 1 Satz 2 AufenthG (Elternnachzug zu minderjährigen subsidiär Schutzberechtigten) |  | (2)* |
+|  | xx) | § 36a Absatz 1 Satz 1 erste Alternative AufenthG (Ehegattennachzug zu subsidiär Schutzberechtigten) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | yy) | § 36a Absatz 1 Satz 1 zweite AlternativeAufenthG (Kindesnachzug zu subsidiär Schutzberechtigten) |  | (2)* |
+|  |  | erteilt am |  |  |
+|  |  | befristet bis |  |  |
+|  | zz) | § 36a Absatz 1 Satz 2 AufenthG (Elternnachzug zu minderjährigen subsidiär Schutzberechtigten) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
 | e) | besondere Aufenthaltsrechte nach |  |  |
@@ -810,7 +855,7 @@ Allgemeiner Datenbestand
 | d) | Abschiebung angeordnet am aa)zugestellt ambb)vollziehbar seitcc)Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)dd)Art der der Ausschreibung zugrundeliegenden Straftat –Strafvorschrift–rechtliche Bezeichnung der Tat–Art und Höhe der Strafe | (5)(7)(7) |
 | e) | Abschiebungsanordnung gemäß § 34a AsylG aa)erlassen ambb)zugestellt amcc)vollziehbar seitdd)Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)ee)Art der der Ausschreibung zugrundeliegenden Straftat –Strafvorschrift–rechtliche Bezeichnung der Tat–Art und Höhe der Strafe | (5)(7)(7) |
 | f) | Abschiebungsanordnung gemäß § 58a AufenthG aa)erlassen ambb)zugestellt amcc)vollziehbar seitdd)Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)ee)Art der der Ausschreibung zugrundeliegenden Straftat –Strafvorschrift–rechtliche Bezeichnung der Tat–Art und Höhe der Strafe | (5)(7)(7) |
-| g) | Abschiebung aufgrund Ausweisung vollzogen am | (4) |
+| g) | Abschiebung aufgrund Ausweisungvollzogen am | (4) |
 | h) | Abschiebung vollzogen am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Abschiebung | (4) |  |
 | i) | Abschiebung vollzogen am Wirkung unbefristet | (4) |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
@@ -850,28 +895,24 @@ Allgemeiner Datenbestand
 | 17 | Personenkreis | Zeitpunkt der Übermittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
 | Bezeichnung der Daten (§ 3 des AZR-Gesetzes) |
 | § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 |  |  |  | §§ 15, 16, 17, 17a, 18, 18a, 18b, 19, 21, 23, 23a des AZR-Gesetzes |
-| Duldung a)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 1 AufenthGerteilt ambefristet biswiderrufen am |  | (2) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis p, r und s–mit grenzpolizeilichen Aufgaben betraute Behörde zu Spalte A Buchstabe q und s | –Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden–Bundesagentur für Arbeit zur Aufgabenerfüllung nach den §§ 18 und 18b des AZR-Gesetzes |
+| Duldung a)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 1 AufenthGerteilt ambefristet biswiderrufen am |  | (2) | –Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis l, n und o–mit grenzpolizeilichen Aufgaben betraute Behörde zu Spalte A Buchstabe m und o | –Ausländerbehörden–Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes–Bundesamt für Migration und Flüchtlinge–Bundespolizei–andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden–oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind–sonstige Polizeivollzugsbehörden–Bundesagentur für Arbeit zur Aufgabenerfüllung nach den §§ 18 und 18b des AZR-Gesetzes |
 | b)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 1 AufenthG aa)wegen fehlender Reisedokumentebb)aus medizinischen Gründencc)aufgrund familiärer Bindungen | (1) | (2) |
-| dd)weil konkrete Maßnahmen zur Aufenthaltsbeendigung bevorstehenee)wegen eines Asylfolgeantragsff)als unbegleiteter Minderjähriger gemäß § 58 Absatz 1a AufenthGgg)bei fehlendem, aber erforderlichem Einvernehmen der Staatsanwaltschaft oder der Zeugenschutzdienststelle nach § 72 Absatz 4 AufenthGhh)bei fehlendem Absehen von einer Vollstreckung nach § 456a StPOii)bei stattgegebenem Eilantrag gemäß § 123 VwGOjj)bei Anordnung der aufschiebenden Wirkung nach § 80 Absatz 5 VwGOkk)bei Vorliegen von Abschiebungshindernissen nach § 60 Absatz 1 bis 5 sowie 7 AufenthGll)aus sonstigen Gründenerteilt ambefristet biswiderrufen amerloschen am |  |  |  | –Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis r–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden |
+| dd)weil konkrete Maßnahmen zur Aufenthaltsbeendigung bevorstehenee)wegen eines Asylfolgeantragsff)als unbegleiteter Minderjähriger gemäß § 58 Absatz 1a AufenthGgg)bei fehlendem, aber erforderlichem Einvernehmen der Staatsanwaltschaft oder der Zeugenschutzdienststelle nach § 72 Absatz 4 AufenthGhh)bei fehlendem Absehen von einer Vollstreckung nach § 456a StPOii)bei stattgegebenem Eilantrag gemäß § 123 VwGOjj)bei Anordnung der aufschiebenden Wirkung nach § 80 Absatz 5 VwGOkk)bei Vorliegen von Abschiebungshindernissen nach § 60 Absatz 1 bis 5 sowie 7 AufenthGll)aus sonstigen Gründenerteilt ambefristet biswiderrufen amerloschen am |  |  |  | –Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis n–deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren–Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes–für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden |
 | c)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 2 AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  | –Bundeskriminalamt–Landeskriminalämter–Staatsanwaltschaften–Gerichte–Behörden der Zollverwaltung–Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen |
-| d)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  | –die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Statistisches Bundesamt zu Spalte A Buchstabe a bis r–Staatsangehörigkeitsbehörden–Zollkriminalamt |
-| e)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60c Absatz 1 AufenthG (Ausbildungsduldung, Anspruch)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |
-| f)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60c Absatz 6 Satz 1 AufenthG (Suche nach weiterem Ausbildungsplatz)erteilt ambefristet bis |  | (2) |  |  |
-| g)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60c Absatz 6 Satz 2 AufenthG (Arbeitsplatzsuche nach Ausbildungsabschluss)erteilt ambefristet bis |  | (2) |  |  |
-| h)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60c Absatz 7 AufenthG (Ausbildungsduldung, Ermessen)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| i)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 1 AufenthG (Beschäftigungsduldung, Regelanspruch, Beschäftigter)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| j)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 1 AufenthG (Beschäftigungsduldung, Regelanspruch, Ehegatte/Lebenspartner)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| k)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 2 AufenthG |  | (2) |  |  |
+| d)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  | –die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen–Jugendämter–Statistisches Bundesamt zu Spalte A Buchstabe a bis n–Staatsangehörigkeitsbehörden–Zollkriminalamt |
+| e)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 1 AufenthG (Beschäftigungsduldung, Regelanspruch, Beschäftigter)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
+| f)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 1 AufenthG (Beschäftigungsduldung, Regelanspruch, Ehegatte/Lebenspartner)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
+| g)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 2 AufenthG |  | (2) |  |  |
 | (Beschäftigungsduldung, Regelanspruch, minderjährige ledige Kinder)erteilt ambefristet biswiderrufen amerloschen am |  |  |  |  |
-| l)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 AufenthG (Beschäftigungsduldung, Ermessen, Beschäftigter)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| m)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 in Verbindung mit Absatz 1 AufenthG (Beschäftigungsduldung, Ermessen, Ehegatte/Lebenspartner)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| n)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 in Verbindung mit Absatz 2 AufenthG (Beschäftigungsduldung, Ermessen, minderjährige ledige Kinder) |  | (2) |  |  |
+| h)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 AufenthG (Beschäftigungsduldung, Ermessen, Beschäftigter)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
+| i)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 in Verbindung mit Absatz 1 AufenthG (Beschäftigungsduldung, Ermessen, Ehegatte/Lebenspartner)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
+| j)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 3 AufenthG in Verbindung mit § 60d Absatz 4 in Verbindung mit Absatz 2 AufenthG (Beschäftigungsduldung, Ermessen, minderjährige ledige Kinder) |  | (2) |  |  |
 | erteilt ambefristet biswiderrufen amerloschen am |  |  |  |  |
-| o)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 4 AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
-| p)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60b Absatz 1 AufenthG (Duldung für Personen mit ungeklärter Identität)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
-| q)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2a AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
-| r)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2b AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
-| s)Nummer der Bescheinigung |  | (2) |  |  |
+| k)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2 Satz 4 AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
+| l)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60b Absatz 1 AufenthG (Duldung für Personen mit ungeklärter Identität)erteilt ambefristet biswiderrufen amerloschen am |  | (2) |  |  |
+| m)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2a AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
+| n)Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Absatz 2b AufenthGerteilt ambefristet biswiderrufen am |  | (2) |  |  |
+| o)Nummer der Bescheinigung |  | (2) |  |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  |  |
 | Duldung | (2) | –wie vorstehend – | –wie vorstehend – | –wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes |
 | –wie vorstehend – |  |  |  |  |
@@ -903,9 +944,9 @@ Allgemeiner Datenbestand
 | b) | Ausreiseaufforderung vomFrist bisaa)zugestellt ambb)unanfechtbar seitcc)Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)dd)Art der der Ausschreibung zugrundeliegenden Straftat –Strafvorschrift–rechtliche Bezeichnung der Tat–Art und Höhe der Strafe | (5)(7)(7) |
 | c) | Abschiebung angedroht am |  |
 |  | aa)zugestellt ambb)vollziehbar seitcc)Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)dd)Art der der Ausschreibung zugrundeliegenden Straftat –Strafvorschrift–rechtliche Bezeichnung der Tat–Art und Höhe der Strafe | (5)(7)(7) |
-| d) | zurückgeschoben am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Zurückschiebung | (4) |
+| d) | zurückgeschoben am Wirkung befristet bisfür die Dauer von … Jahren/… Monaten ab Zurückschiebung | (4) |
 | e) | zurückgeschoben am Wirkung unbefristet | (4) |
-| f) | abgeschoben am Wirkung befristet bis für die Dauer von … Jahren/… Monaten ab Abschiebung | (4) |
+| f) | abgeschoben am Wirkung befristet bisfür die Dauer von … Jahren/… Monaten ab Abschiebung | (4) |
 | g) | abgeschoben am Wirkung unbefristet | (4) |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 | (2) |  |  |  |  |  |
 | Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1 bis 1b AufenthG und Hinweis auf Begründungstext | – wie vorstehend – | – wie vorstehend – | – wie vorstehend – |
