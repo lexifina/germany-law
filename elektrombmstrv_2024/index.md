@@ -1,0 +1,17 @@
+# Verordnung über die Meisterprüfung in den Teilen I und II im Elektromaschinenbauer-Handwerk
+
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Meisterprüfungsberufsbild](0003.md)
+- [§ 4 Ziel und Gliederung der Prüfung in Teil I](0004.md)
+- [§ 5 Meisterprüfungsprojekt](0005.md)
+- [§ 6 Fachgespräch](0006.md)
+- [§ 7 Situationsaufgabe](0007.md)
+- [§ 8 Gewichtung, Bestehen der Prüfung in Teil I](0008.md)
+- [§ 9 Ziel und Gliederung der Prüfung in Teil II](0009.md)
+- [§ 10 Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“](0010.md)
+- [§ 11 Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“](0011.md)
+- [§ 12 Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“](0012.md)
+- [§ 13 Gewichtung, Bestehen der Prüfung in Teil II](0013.md)
+- [§ 14 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0014.md)
+- [§ 15 Übergangsvorschrift](0015.md)
