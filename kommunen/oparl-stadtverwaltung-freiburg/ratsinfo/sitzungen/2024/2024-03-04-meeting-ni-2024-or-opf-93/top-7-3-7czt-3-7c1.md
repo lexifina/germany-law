@@ -1,0 +1,7 @@
+# TOP 7: Doppelhaushalt 2025/2026 Mittelanmeldungen für den Finanzhaushalt
+
+- Sitzung: 3. Sitzung des Ortschaftsrates Opfingen (2024-03-04)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2024-OR_OPF-93%7Czt_3%7C1
+- Beschluss (Datei): Beschluss - Top 7 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-OR_OPF-93%7Czt_3%7C1
