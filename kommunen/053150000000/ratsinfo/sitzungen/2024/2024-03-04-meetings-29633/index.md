@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-04T15:17:00+01:00
+- Ende: 2024-03-04T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29633
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29633
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Anmeldeverfahren
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim - Alternative beschlossen
+- TOP -: Änderungsantrag der Fraktion SPD vom 04.03.2024 betreffend "Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim" - endgültig abgelehnt
+- TOP 2.2: Anfrage der Fraktion FDP vom 16.05.2023 betreffend "André-Thomkins-Schule" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17.11.2023 - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.3: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 21.02.2024 betreffend "Schulbudgets" - ungeändert beschlossen
+- TOP 3.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 21.02.2024 betr. "Sachstand zur Anmietung von Räumlichkeiten für die FS Auguststr. 1 u. Rochusstr. 80 (derzeit aufgrund Überflutung ausgelagert in die Paul-Humburg-Str. 13)" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 27.02.2024 - Kenntnis genommen
+- TOP 3.5: Antrag der Fraktion FDP vom 22.02.2024 betreffend "Anmeldeverfahren an weiterführenden Schulen digitalisieren und vereinfachen" - geändert beschlossen
+- TOP -: Stellungnahme der Verwaltung vom 01.03.2024 - Kenntnis genommen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 04.03.2024 betreffend "Anmeldeverfahren an weiterführenden Schulen digitalisieren und vereinfachen" - geändert beschlossen
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 28.02.2024 betreffend "Verkehrssituation am Interim- Standort Gymnasium Rondorf" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "OGS Montessori-Grundschule Ferdinandstraße" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 17.01.2024 - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion FDP vom 08.01.2024 betreffend "Baurunden an Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 29.02.2024 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.3.1: Anfrage der Fraktion Die Fraktion vom 15.11.2023 betreffend "Sachstand "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 5.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU u. Volt vom 15.11.2023 betreffend "Verkehrskonzept am Knotenpunkt Wasseramsel-weg/Teichrohrsängerweg/Am Wassermann" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 26.02.2024 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 6.2: Errichtung des Bildungsganges Fachpraktiker*in im Gesundheitswesen am Barbara-von-Sell-Berufskolleg zum Schuljahr 2024/25 - ungeändert empfohlen
+- TOP 6.3: Schulrechtliche Erweiterung des Bildungsganges PIA Erzieher*in von 2 auf 3 Züge zum Schuljahr 2024/25 am Berufskolleg Ehrenfeld - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 7.1: Einrichtung und Mittelfreigabe für den Erweiterungsbau des Barbara-von-Sell-Berufskollegs, Niehler Kirchweg 118 in Köln-Nippes - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantwortung einer mündlichen Anfrage von RM Kockerbeck aus dem Ausschuss Schule und Weiterbildung vom 20.11.2023 und RM Brust im Betriebsausschuss Gebäudewirtschaft vom 27.11.2023 zur Mensa der Mathilde-von-Mevissen-Grundschule Gellertstraße - Kenntnis genommen
+- TOP 8.2: Tag der Jugend im Rathaus 2023 - Evaluation - Kenntnis genommen
+- TOP 8.3: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 8.4: Beantwortung einer schriftlichen Anfrage AN/2096/2023 der SPD-Fraktion bezüglich der Mängel nach Sanierung / Neubau der Turnhallen Förderschule „Auf dem Sandberg“ und Janusz-Korzcak-Grundschule, Siegburger Straße - Kenntnis genommen
+- TOP 8.5: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 8.6: Bildungslandschaft Altstadt/Nord, Sachstand Stand 23. Januar 2024 - Fertigstellungsfortschritt und voraussichtliche Gesamtfertigstellung Baufeld A Hansa-Gymnasium - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von Bärbel Hölzing der Fraktion Bündnis 90/Die Grünen aus der Sitzung des ASW vom 06.03.2023 TOP 9.2 Mündliche Anfragen, betreffend: "Verwaltungsassistenten für Schulen". - Kenntnis genommen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Umsetzung kommunaler Fonds Kulturelle Bildung 2024 - Kenntnis genommen
+- TOP 8.11: Prüfauftrag des Rates zum Lehrschwimmbecken im Rahmen der Planung und Errichtung eines 2-zügigen Grundschulgebäudes mit 2 Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West (Vorlagen-Nummer 1384/2023) - Kenntnis genommen
+- TOP 8.12: Beantwortung einer mündliche Anfrage der Fraktion DIE LINKE von Heiner Kockerbeck aus dem Fachgespräch des Ausschusses für Schule und Weiterbildung vom 19.10.2023 betreffend "Schülerspezialverkehr" - Kenntnis genommen
+- TOP 8.13: PISA-Studie, ausgewählte Reaktionen und Position der Bildungsverwaltung Köln - Kenntnis genommen
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15: Beantwortung einer mündlichen Anfrage der Stadtschulpflegschaft von Nathalie Binz aus der Sitzung Ausschuss Schule und Weiterbildung vom 18.09.2023 betr. "Anmeldezahlen an Förderschulen" u. "Anzahl der Ablehnungen von Schüler*innen mit Förderbedarf" - Kenntnis genommen
+- TOP 8.16: Ausbauplanung Schulsozialarbeit an Kölner Schulen 2.0 - Kenntnis genommen
+- TOP 8.17: Stadtradeln 2024 - Kenntnis genommen
+- TOP 8.18: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen
+- TOP 8.19: Zügigkeitserweiterung am Gymnasium Severinstraße 241, 50676 Köln - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
