@@ -1,0 +1,72 @@
+# 13. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-03-04T10:00:00+01:00
+- Ende: 2024-03-04T11:35:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-68
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-68
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VA-68
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VA-68
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP 2.1: Vortrag von Prof. Dr. Martin Junkernheinrich zum Kommunalfinanzbericht
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm 'Kommunaler Straßenbau 2024'
+- TOP 3.2: Förderprogramm 'Nahmobilität 2024'
+- TOP 3.3: Programmvorschlag Städtebauförderprogramm 2024 hier: Unterrichtung
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der Revierpark Wischlingen GmbH - Finanzielle Beteiligung des RVR über das Jahr 2023 hinaus
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftervereinbarungen 2024
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Strategie Geonetzwerk.metropoleRuhr
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Regionale Radwegepflege - Pilotprojekt zur Analyse möglicher zentraler Dienstleistungen durch den RVR
+- TOP 10.2: Regionales Radwegenetz für die Metropole Ruhr Hier: Integration des Freizeitnetzes in das Regionale Radwegenetz
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Strategie Grüne Infrastruktur Metropole Ruhr
+- TOP 11.2: Regionale Biodiversitätsstrategie Ruhrgebiet - Projektantrag im Bundesförderprogramm 'chance.natur'
+- TOP 11.2.1: Regionale Biodiversitätsstrategie Ruhrgebiet - Projektantrag im Bundesförderprogramm 'chance.natur'
+- TOP 11.3: Sachstand und weitere Vorgehensweise zum Ausbau der erneuerbaren Energien auf RVR-Liegenschaften
+- TOP 11.3.1: Sachstand und weitere Vorgehensweise zum Ausbau der erneuerbaren Energien auf RVR-Liegenschaften
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Förderung der FISU World University Games Rhine-Ruhr 2025 mit den Ruhr Games als Teil des Rahmenprogramms
+- TOP 12.2: Verlängerung des Vertrages über die Präsentation von Dauerausstellungen im Baukunstarchiv NRW
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Bestellung der weiteren stellvertretenden Schriftführung für den Verbandsausschuss in der 14. Wahlperiode
+- TOP 16.2: Änderung der Verbandsordnung hier: Anpassung der Verbandsordnung aufgrund überarbeiteter Entschädigungsverordnung
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Auswirkungen der Ausbaupläne der Deutschen Bahn auf das Verkehrskonzept der IGA
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Tischvorlagen
+- TOP -: Förderprogramm 'Radschnellverbindungen / Nahmobilität 2024'
+- TOP -: Deponie-Standorte
+- TOP -: Anfrage der SPD im Ruhrparlament: Evaluation der Wirksamkeit der Ruhrkonferenz
