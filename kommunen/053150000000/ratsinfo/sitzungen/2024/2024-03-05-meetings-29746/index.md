@@ -1,0 +1,73 @@
+# 32. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-05T16:10:00+01:00
+- Ende: 2024-03-05T18:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29746
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29746
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Erhaltung Fährverbindung Köln-Langel – Leverkusen-Hitdorf - endgültig zurückgezogen
+- TOP 1.2: Erhalt Fährverbindung Köln-Langel – Leverkusen-Hitdorf - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 1.2 - Erhalt Fährverbindung Köln-Langel – Leverkusen-Hitdorf - AN/0231/2024 - geändert beschlossen
+- TOP 1.3: Notfallfahrplan für die KVB - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof - im ersten Durchgang verwiesen
+- TOP -: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Festlegung der Variante zur Planung der Bahnsteiganhebungen an den Haltestellen Nußbaumerstr. und Subbelrather Str./Gürtel - zurückgestellt
+- TOP 4.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP -: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Erweiterter Planungsbeschluss für die Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Friesenplatz - ohne Votum in nachfolgende Gremien
+- TOP -: Erweiterter Planungsbeschluss für die Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Friesenplatz sowie das Führen eines 2. Aufzugs an die Oberfläche im Rahmen der Aufzugsnachrüstung - endgültig abgelehnt
+- TOP 4.4: Brandschutzsanierung und Neugestaltung der Stadtbahnhaltestelle Bf Deutz/Messe - Sache ist erledigt
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Feldgärtenstraße von Sebastianstraße bis Haus Nr. 120 bzw. 127 einschließlich - ungeändert empfohlen
+- TOP 4.6: StadtBahn Süd - Verzicht auf südlichen Abschnitt der Bödinger Straße - ungeändert empfohlen
+- TOP 4.7: Baubeschluss für.die Sanierung/Umbau d. Neusser Landstraße im Abschnitt zw. Kurzer Damm und Haus-Nr. 439 in Köln-Worringen sowie Freigabe von investiven Auszahlungsermächtigungen- hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Kapazitätserweiterung auf der Ost-West-Achse - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion die Linke aus der Sitzung des Verkehrsausschusses vom 21.11.2023 (AN/2031/2023) betreffend "Kapazitätserweiterung auf der Ost-West-Achse" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.1.2: KVB Tantiemen - zurückgestellt
+- TOP 5.1.3: Adventsverkehr-Konzept - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 23.01.2024 betreffend "Adventsverkehr-Konzept" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.1.4: Fragen an Straßen.NRW - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt vom 19.12.2023 betr. Fragen an Straßen.NRW, AN/2184/2023 - Kenntnis genommen
+- TOP 5.1.5: Ausfälle bei der KVB im Jahr 2023 - zurückgestellt
+- TOP 5.1.6: Erbpachtverträge bei Tiefgaragen / Parkhäusern auf städtischem Grund - Sache ist erledigt
+- TOP -: Anfrage der SPD-Fraktion zu "Erbpachtverträge bei Tiefgaragen / Parkhäusern auf städtischem Grund" (AN/1918/2023) - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Personalsituation im Dezernat III-Mobilität - zurückgestellt
+- TOP 5.2.2: ADAC-Studie - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Seniorenvertreterin Wedde zur Sitzung des Verkehrsausschusses am 05.03.2024 betr. "ADAC-Studie" - zurückgestellt
+- TOP 5.2.3: Förderprogramm Nahmobilität - zurückgestellt
+- TOP 5.2.4: Auswertung des Projekts Parkpilot in Nippes - zurückgestellt
+- TOP 5.2.5: Quartiersgaragen im Betrieb - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Sachstand zur Umgestaltung Barbarossaplatz - endgültig zurückgezogen
+- TOP 6.2.2: Sachstand Alfred-Schütte-Allee - Kenntnis genommen
+- TOP 6.2.3: Kommunikationskonzept Venloer Straße - Kenntnis genommen
+- TOP 6.2.4: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - zurückgestellt
+- TOP 6.2.5: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Altstadt - Kenntnis genommen
+- TOP 6.2.6: Weihnachtsverkehr 2023 - Kenntnis genommen
+- TOP 6.2.7: Köln Nachhaltigkeit: Information zum Voluntary Local review 2023 - Kenntnis genommen
+- TOP 6.2.8: Beantwortung von mündlichen Anfragen der RM Pakulat und Kienitz aus der Sitzung des Stadtentwicklungsausschusses am 30.11.2023 betreffend "Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz" - Kenntnis genommen
+- TOP 6.2.9: Umsetzung von Grüngleisen im Gleisnetz der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 6.2.10: Sachstand aktuelles Vorgehen E-Scooter - Kenntnis genommen
+- TOP 6.2.11: Stadtradeln 2024 - Kenntnis genommen
+- TOP 6.2.12: Abschlussbericht Mobilitätserhebung 2022 - zurückgestellt
+- TOP 6.2.13: Gesamtinstandsetzung Mülheimer Brücke - Schienenersatzkonzept - hier: Ergebnis des Prüfauftrages des Rates - Kenntnis genommen
+- TOP 6.2.14: polisMOBILITY 2024 | Anpassung des Veranstaltungskonzeptes - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Verzicht auf Stellung von Strafanträgen wegen Beförderungserschleichung seitens der KVB AG - Sache ist erledigt
+- TOP 7.2: Sicherheit am Ebertplatz
