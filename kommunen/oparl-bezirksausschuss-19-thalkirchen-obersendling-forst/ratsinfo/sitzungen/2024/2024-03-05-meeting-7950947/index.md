@@ -1,0 +1,75 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-03-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7950947
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7950947
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 06.02.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget TSV München Solln e.V. Erstellung eines Basketspielfeldes 23.581,00€; Az. 0262.0-19-0486
+- TOP 3.3.: (E) Stadtbezirksbudget Verein zur Förderung der Teilhabe von alten Menschen und Menschen mit Einschränkungen am gemeinschaftlichen Leben e.V. Sozialraumkarten vom 01.01. -30.06.2024 6.475,00 Euro, Az.: 0262.0-19-0490
+- TOP 3.4.: (E) Stadtbezirksbudget Kinderhaus Kühlschruppe e.V. Gartengrundlage mit Hackschnitzel ausstreuen ab 05.03.2024 598,05€; Az. 0262.0-19-0500
+- TOP 3.5.: (E) Stadtbezirksbudget Biku e.V. Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 19 vom 11.03. -31.12.2024 535,00€; Az. 0262.0-19-0501
+- TOP 3.6.: (E) Stadtbezirksbudget Munich Circus Arts Heiduk Liu Pietsch GbR “Munich Circus Arts auf dem Sugar Mountain vom 01.02.2024 - 31.10.2024“ 7.653,00 € / AZ: 0262.0-6-0483
+- TOP 3.7.: (E) Stadtbezirksbudget Förderverein Berner Grundschule e.V. MFM Workshops KörperWunderWerkstatt vom 18.04. -24.04.2024 1.297,50€; Az. 0262.0-19-0504
+- TOP 3.8.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion – Der Anstoß zum Miteinander vom 09. – 18.04.2024 2.980,00 Euro / Az. 0262.0-19-0505
+- TOP 3.9.: (E) Stadtbezirksbudget Initiative "Stadt.Wald.Fluss" Themenwoche STADT.WALD.FLUSS vom 18. - 25.04.2024 5.250,00 Euro / Az. 0262.0-19-0503
+- TOP 3.10.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. Klassenprojekt Upcyclen - Erziehung von Kindern zu einem umweltbewussten Verhalten vom 04. - 22.03.2024 1.803,75 Euro / Az. 0262.0-19-0502
+- TOP 3.11.: - NACHTRAG - (E) Stadtbezirksbudget Init. Kerims Nase" Kerims Nase vom 29.04. -02.05.2024 762,50€; Az. 0262.0-19-0506
+- TOP 3.12.: Budgetantrag des EKiM-Kinderhauses Andreas für ein Krippen-Klettergerüst; Verwendung der Budgetmittel für einen anderen Zweck
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Installierung von Mülleimern bei der Bushaltestelle am Ratzinger Platz
+- TOP 4.4.: (A) Wertstoffinsel Baierbrunner Straße
+- TOP 4.5.: - NACHTRAG - Mobilfunk-Suchkreismeldung im Umfeld Thurgaustraße
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Abstellen von E-Scootern, Mietfahrrädern und E-Mietmotorrollern im Stadtbezirk
+- TOP 5.2.: VTU Solln - Sachstandsbericht
+- TOP 5.3.: (E) + (U) Geschwindigkeitsbegrenzung auf 30km/h Höchstgeschwindigkeit in der Zentralländstraße
+- TOP 5.4.: Verkehrssituation Forstenrieder Allee zwischen Stäblistraße und Fritz-Baer-Straße
+- TOP 5.5.: Schulwegsicherheit Grundschule Boschetsrieder Straße
+- TOP 5.6.: (Antrag) Gehwegnase Filchnerstraße
+- TOP 5.7.: Schulwegsicherheit Grundschule Aidenbachstraße
+- TOP 5.8.: - NACHTRAG - (A) Verkehrsrechtliche Anordnungen: Baierbrunner Straße 61 PKW-Parken zur Sicherung der Sichtbeziehungen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Herterichstraße 57
+- TOP 6.2.2: Badstraße 5 (VB)
+- TOP 6.2.3: Appenzeller Straße 102
+- TOP 6.2.4: Zuger Straße 9 (VB)
+- TOP 6.2.5: Tölzer Straße 1 (T)
+- TOP 6.2.6: - TOP abgesetzt -
+- TOP 6.2.7: Herterichstraße 141 (VB)
+- TOP 6.2.8: Bauweberstraße Flurnummer 568/5 (VB)
+- TOP 6.3.: (E) Ziffer 1: Feststellung der Nichtzulässigkeit und Gewährung von Akteneinsicht im Bezug auf die Vergnügungsstätte in der Drygalski-Allee 117
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Neueröffnung/Verlängerung von Unterkünften zur Unterbringung Geflüchteter
+- TOP 7.3.: (Antrag) Soziale Begegnung und sportliche Aktivität befreit von Konsumzwang fördern
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Dorffest Forstenried am 07. und 08. September 2024
+- TOP 8.3.: Pilotbezirke Street Art und Graffiti, Flächenpool
+- TOP 8.4.: (Antrag) Kriegerdenkmal Forstenried
+- TOP 9: Verschiedenes
