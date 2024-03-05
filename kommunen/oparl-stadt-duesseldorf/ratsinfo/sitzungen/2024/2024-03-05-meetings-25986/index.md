@@ -1,0 +1,64 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-05T17:00:00+01:00
+- Ende: 2024-03-05T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25986
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25986
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513914.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513914.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00513914.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sondersitzung der Bezirksvertretung 1, der Bezirksvertretung 3, der Bezirksvertretung 5 und des Ordnungs- und Verkehrsausschusses vom 16.08.2023 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 28.11.2023 - einstimmig beschlossen
+- TOP 2.3: Genehmigung der Niederschrift der öffentlichen Sitzung vom 23.01.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4.1: Clemensstraße – Anregung zur Errichtung eines Bücherschrankes (§24 GO) - abweichend beschlossen
+- TOP 4.2: Weitere Anregungen
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Erarbeitung von Sozialen Erhaltungssatzungen in der Landeshauptstadt Düsseldorf (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Erweiterung des Schulstandortes Redinghovenstraße 16-20 um eine Vierfachsporthalle und ein Bistro“ - einstimmig beschlossen
+- TOP 5.3: Zuschuss an den GSV Golf Sport- Verein Düsseldorf e.V. - einstimmig beschlossen
+- TOP 5.4: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 5.5: Umgang mit der historischen Person Franz Jürgens - einstimmig beschlossen
+- TOP 5.5.1: Änderungsantrag der Fraktion BÜNDNINS 90/DIE GRÜNEN, zu TO 5.5 "Umgang mit der historischen Person Franz Jürgens" in der Sitzung der Bezirksvertretung 3 am 05.03.2024 - einstimmig beschlossen
+- TOP 5.6: Stadtbaumkonzept für Düsseldorf (5. Pflanzperiode) - zur Kenntnis genommen
+- TOP 5.7: Umgestaltung Mitte Süd – Friedrichstraße inkl Querstraßen Bachstraße, Kirchfeldstraße und Herzogstraße sowie Graf-Adolf-Platz - zur Kenntnis genommen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Herzogstraße 85a, 85b Hinterhof: Neubau zwei Mehrfamilienhäuser mit Tiefgarage - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 7.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Situation der insolventen Wohnungsbauunternehmen im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.4: Sachstand Quartier Mintropplatz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - vertagt
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Fürstenwall 186a (Anfrage BÜNDNINS 90/DIE GRÜNEN) - vertagt
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: NAchbarschaftszone - Schlossmannstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Einrichtung weiterer Tempo-30-Zonen auf der Ulenbergstraße (Antrag SPD-Fraktion) - abweichend beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Mitteilung der Verwaltung zum Thema „Besserer Schutz des Rad- und Fußverkehrs vor Unfällen mit abbiegenden Fahrzeugen“ - zur Kenntnis genommen
+- TOP 10.2: Schlüsselräume rund um den Hauptbahnhof - zur Kenntnis genommen
+- TOP 10.3: Ersatzflächen suchen - vertagt
+- TOP 10.4: Konzept Parksituation auf Parkplatz (Redinghovenstr./Ecke Bittweg) am Stoffeler Friedhof entflechten - zur Kenntnis genommen
+- TOP 10.5: Vorstellung der Ergebnisse von Check´D und ReCheck´D für den Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
