@@ -1,0 +1,185 @@
+---
+ecli: "ECLI:DE:BGH:2024:050324ANWZ.BRFG.36.23.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Anwaltsenat"
+aktenzeichen: "AnwZ(Brfg) 36/23"
+decided: "2024-03-05"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2024&Sort=1&Seite=23&nr=137553&anz=3636&pos=718&Blank=1.pdf"
+corpus_doc_id: "BGH_Anwaltsenat_NA_2024-03-05_NA_AnwZBrfg_36_23_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/brao/0003.md", "germany/bund/acts/brao/0046.md", "germany/bund/acts/brao/0112e.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/vwgo/0124.md", "germany/bund/acts/vwgo/0124a.md"]
+---
+
+# Bundesgerichtshof, AnwZ(Brfg) 36/23 vom 2024-03-05
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                           BESCHLUSS
+AnwZ (Brfg) 36/23
+                                   vom
+
+                              5. März 2024
+
+                in der verwaltungsrechtlichen Anwaltssache
+
+
+
+
+wegen Zulassung als Syndikusrechtsanwältin
+
+
+
+
+ECLI:DE:BGH:2024:050324BANWZ.BRFG.36.23.0
+
+                                         -2-
+
+
+
+    Der Bundesgerichtshof, Senat für Anwaltssachen, hat durch die Präsidentin des
+    Bundesgerichtshofs Limperg, den Richter Dr. Remmert, die Richterin Dr. Liebert
+    sowie den Rechtsanwalt Dr. Lauer und die Rechtsanwältin Niggemeyer-Müller
+
+
+    am 5. März 2024
+
+
+    beschlossen:
+
+
+          Auf Antrag der Klägerin wird die Berufung gegen das Urteil des
+          2. Senats     des     Hessischen        Anwaltsgerichtshofs   vom
+          6. Februar 2023 zugelassen.
+
+
+
+
+                                        Gründe:
+
+
+                                          I.
+
+
+1         Die Beigeladene ist seit 1994 im Bezirk der Beklagten als Rechtsanwältin
+    zugelassen. Mit Beschluss der Gesellschafterversammlung der D.
+    Gesellschaft                                  mbH (im Folgenden: D.    GmbH)
+    vom 1. Dezember 2020 wurde sie zur Geschäftsführerin dieser Gesellschaft bestellt. Dort ist sie seither auf Grundlage eines mit "GmbH-Geschäftsführer-Vertrag" überschriebenen, am 3. Dezember 2020 geschlossenen Vertrags tätig.
+
+
+2         Mit am 5. Januar 2021 bei der Beklagten eingegangenem Schreiben beantragte die Beigeladene für diese Tätigkeit ihre Zulassung als Syndikusrechtsanwältin. Die Klägerin wurde angehört und ist dem Antrag entgegengetreten. Die
+
+                                          -3-
+
+
+
+    Beklagte ließ die Beigeladene mit Bescheid vom 24. August 2021 als Syndikusrechtsanwältin zu. Hiergegen hat die Klägerin Klage erhoben, mit der sie die Aufhebung des Zulassungsbescheids erreichen will.
+
+
+3          Der Anwaltsgerichtshof hat die Klage abgewiesen. Die Voraussetzungen
+    für die Zulassung der Beigeladenen als Syndikusrechtsanwältin gemäß § 46a
+    Abs. 1, § 46 Abs. 2 bis 5 BRAO seien erfüllt. Das Geschäftsführerdienstverhältnis
+    könne insbesondere als Arbeitsverhältnis im Sinne des § 46 Abs. 2 BRAO qualifiziert werden.
+
+
+4          Die Klägerin beantragt die Zulassung der Berufung gegen das Urteil des
+    Anwaltsgerichtshofs.
+
+
+                                           II.
+
+
+5          Der nach § 112e Satz 2 BRAO, § 124a Abs. 4 VwGO statthafte und auch
+    im Übrigen zulässige Antrag auf Zulassung der Berufung hat Erfolg. Die Berufung
+    ist zuzulassen, weil die Klägerin hinreichend dargelegt hat, dass mindestens ein
+    Verfahrensfehler vorliegt, auf dem die angefochtene Entscheidung beruhen kann
+    (§ 112e Satz 2 BRAO, § 124 Abs. 2 Nr. 5 VwGO; hierzu unter 1.). Die Klägerin
+    macht zudem mit Erfolg das Vorliegen von grundsätzlicher Bedeutung (§ 112e
+    Satz 2 BRAO, § 124 Abs. 2 Nr. 3 VwGO) und ernstlichen Zweifeln an der Richtigkeit des Urteils (§ 112e Satz 2 BRAO, § 124 Abs. 2 Nr. 1 VwGO) geltend
+    (hierzu unter 2.).
+
+
+6          1. Zutreffend beruft sich die Klägerin darauf, dass der Anwaltsgerichtshof
+    ihren Anspruch auf rechtliches Gehör (Art. 103 Abs. 1 GG) verletzt hat, indem er
+    sie nicht zur mündlichen Verhandlung am 6. Februar 2023 geladen, diese sodann
+
+                                            -4-
+
+
+
+    in ihrer Abwesenheit durchgeführt und auf Grundlage der Verhandlung das angefochtene Urteil verkündet hat (vgl. BVerwG, Beschluss vom 25. Januar 2005
+    - 7 B 93/04, juris Rn. 3). Das diesbezügliche Vorbringen der Klägerin in ihrer Begründung des Zulassungsantrags wird durch den Inhalt der erstinstanzlichen
+    Akte bestätigt. Hiernach wurden zwar die Beklagte und die Beigeladene zur
+    mündlichen Verhandlung geladen, nicht jedoch die Klägerin.
+
+
+7           Es kann nicht ausgeschlossen werden, dass die angefochtene Entscheidung des Anwaltsgerichtshofs auf diesem Verfahrensfehler beruht (§ 112e
+    Satz 2 BRAO, § 124 Abs. 2 Nr. 5 VwGO). Da die Klägerin nicht nur eine unzureichende Aufklärung des dem Gericht unterbereiteten Prozessstoffs, sondern
+    die verfahrensfehlerhafte Verhinderung ihrer Teilnahme an der mündlichen Verhandlung rügt, ist von ihr kein hypothetischer Sachvortrag dazu zu verlangen,
+    was sie gegebenenfalls vorgetragen hätte, wenn sie hätte teilnehmen können
+    (vgl. Senat, Beschlüsse vom 22. August 2023 - AnwZ (Brfg) 7/23, juris Rn. 17;
+    vom 18. Mai 2020 - AnwZ (Brfg) 63/18, juris Rn. 18; jeweils mwN).
+
+
+8           Im Hinblick darauf, dass die Berufung bereits wegen dieses Verfahrensverstoßes zuzulassen ist, kann offenbleiben, ob die Berufung auch auf Grund der
+    weiteren von der Klägerin geltend gemachten Verfahrensmängel zuzulassen
+    wäre.
+
+
+9           2. Mit Erfolg beruft sich die Klägerin darüber hinaus auf das Vorliegen von
+    grundsätzlicher Bedeutung (§ 112e Satz 2 BRAO, § 124 Abs. 2 Nr. 3 VwGO) und
+    ernstlichen Zweifeln an der Richtigkeit des angefochtenen Urteils (§ 112e Satz 2
+    BRAO, § 124 Abs. 2 Nr. 1 VwGO). Die Klägerin macht unter Verweis auf diese
+    Zulassungsgründe unter anderem geltend, das Urteil sei deshalb unzutreffend,
+    weil die Beigeladene für ihre Tätigkeit als Geschäftsführerin der D.   GmbH nicht
+
+                                          -5-
+
+
+
+     als Syndikusrechtsanwältin zugelassen werden könne, da das Dienstverhältnis
+     eines Geschäftsführers einer GmbH kein Arbeitsverhältnis im Sinne von
+     § 46 Abs. 2, 3 BRAO sei. Über die vom Senat bislang nicht entschiedene Frage,
+     ob die Zulassung eines GmbH-Geschäftsführers schon deshalb zu versagen ist,
+     weil sein Anstellungsverhältnis kein Arbeitsvertrag, sondern ein auf die Geschäftsbesorgung durch Ausübung des Geschäftsführeramts gerichteter freier
+     Dienstvertrags ist (vgl. Senat, Urteile vom 13. Mai 2022 - AnwZ (Brfg) 21/21,
+     NJW-RR 2022, 1354 Rn. 28; vom 7. Dezember 2020 - AnwZ (Brfg) 17/20, NJW
+     2021, 629 Rn. 8; Beschluss vom 25. Oktober 2021 - AnwZ (Brfg) 37/20,
+     NZG 2022, 286 Rn. 17), ist im Berufungsverfahren zu entscheiden.
+
+
+
+
+                                           III.
+
+
+10         Das Verfahren wird als Berufungsverfahren fortgesetzt; der Einlegung
+     einer Berufung bedarf es nicht (§ 112e Satz 2 BRAO, § 124a Abs. 5 Satz 5
+     VwGO).
+
+
+
+
+     Rechtsmittelbelehrung:
+     Die Berufung ist innerhalb eines Monats nach Zustellung des Beschlusses über
+     die Zulassung der Berufung zu begründen. Die Begründung ist beim Bundesgerichtshof, Herrenstraße 45a, 76133 Karlsruhe einzureichen. Die Begründungsfrist
+     kann auf einen vor ihrem Ablauf gestellten Antrag von der Vorsitzenden verlängert werden. Die Begründung muss einen bestimmten Antrag sowie die im Einzelnen anzuführenden Gründe der Anfechtung (Berufungsgründe) enthalten.
+     Wegen der Verpflichtung, sich im Berufungsverfahren vertreten zu lassen, wird
+
+                                     -6-
+
+
+
+auf die Rechtsmittelbelehrung in der angefochtenen Entscheidung Bezug genommen. Mangelt es an einem dieser Erfordernisse, so ist die Berufung unzulässig.
+
+
+Limperg                            Remmert                           Liebert
+
+
+                  Lauer                        Niggemeyer-Müller
+
+
+
+
+Vorinstanzen:
+AGH Frankfurt, Entscheidung vom 06.02.2023 - 2 AGH 9/21 -
