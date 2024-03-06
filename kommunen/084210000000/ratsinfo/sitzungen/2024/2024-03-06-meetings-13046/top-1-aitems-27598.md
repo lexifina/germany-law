@@ -1,0 +1,8 @@
+# TOP 1: Inklusion aus einer Hand - Kinder- und Jugendstärkungsgesetz und deren praktische Umsetzung -
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2024-03-06)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/27598
+- Ergebnis: Kenntnis genommen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/11183
