@@ -1,0 +1,52 @@
+# 22. öffentliche Sitzung Sitzung des Ausschusses für Verkehr und Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2024-03-06T17:30:00+01:00
+- Ende: 2024-03-06T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6086
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6086
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=570822
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=588355
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Protokollgenehmigungen (Es liegen keine Prototolle zur Genehmigung vor) - erledigt
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: der Vorsitzenden - erledigt
+- TOP 3.2: des Bezirksamtes - erledigt
+- TOP 3.3: der Seniorenvertretung - erledigt
+- TOP 3.4: des Behindertenbeirats - erledigt
+- TOP 4: Aktuelle Viertelstunde - erledigt
+- TOP 5: Aktuelle Themen - erledigt
+- TOP 6: Beratung von Drucksachen - (offen)
+- TOP 6.1: Demokratie stärken! Bereitstellung von unbürokratischen Infoständen in Mitte - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.2: Gesellschaftliches Klima retten - Bürgerinnen und Bürger einbeziehen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.3: Teileinziehung Helgoländer Ufer sofort stoppen! - vertagt
+- TOP 6.4: Ladezonen in der Straße Alt-Moabit - mit Änderungen im Ausschuss beschlossen
+- TOP 6.5: Silvester geht auch anders – Polizei und Rettungskräfte entlasten und besser schützen - vertagt
+- TOP 6.6: Genehmigte Schankvorgärten für Bürger*innen und Besucher*innen nachvollziehbar machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.7: Maßnahmen für blühende Gastwirtschaft am Schiffbauerdamm - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.8: Hansaplatz – endlich wieder grün und mit sicherer Querung - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.9: Barrierereduktion an der Kreuzung Oranienburger Straße / Tucholskystraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.10: Lützowufer für Fahrradfahrer*innen sicherer gestalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.11: Mehr Sicherheit für Mitarbeiter der BVG am Leopoldplatz! - mit Änderungen im Ausschuss beschlossen
+- TOP 6.12: Sichere Straßenüberquerung vor dem Sportplatz Behmstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.13: Bebauungspläne den Anforderungen der Zeit anpassen - vertagt
+- TOP 6.14: Verkehrssicherheit gewährleisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.15: Mehr Sicherheit für Mitarbeiter des Ordnungsamtes - im Ausschuss abgelehnt
+- TOP 6.16: Prüfung von Kiezblocks in Mitte (I) - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.17: Prüfung von Kiezblocks in Mitte (II) - im Ausschuss abgelehnt
+- TOP 6.18: Banner in der Triftstraße entfernen - Sicherheit für Verkehrsteilnehmer gewährleisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.19: Haltestellenkonzept für Sightseeing-Busse vorantreiben - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.20: Unkenntnis beenden, Statistiken führen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.21: Fahrradbügel in der Torstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.22: Unterstützung für die wichtige Arbeit der BSR - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.23: Änderungen der bestehenden Verkehrsinfrastrukturen werden nur noch unter hinreichender Berücksichtigung von § 19 Abs. 2 und 3 des Mobilitätsgesetzes durchgeführt - vertagt
+- TOP 6.24: Lade- und Lieferzonen in der Triftstraße erweitern; Kurzzeitparken ermöglichen; vor Ort intensiver kontrollieren - vertagt
+- TOP 7: Themen der nächsten Sitzung - erledigt
+- TOP 8: Verschiedenes - erledigt
