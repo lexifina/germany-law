@@ -14,8 +14,7 @@
 - [§ 6 Satzung und Programm](0006.md)
 - [§ 7 Gliederung](0007.md)
 - [§ 8 Organe](0008.md)
-- [§ 9 Mitglieder- und Vertreterversammlung (Parteitag,
-Hauptversammlung)](0009.md)
+- [§ 9 Mitglieder- und Vertreterversammlung (Parteitag, Hauptversammlung)](0009.md)
 - [§ 10 Rechte der Mitglieder](0010.md)
 - [§ 11 Vorstand](0011.md)
 - [§ 12 Allgemeine Parteiausschüsse](0012.md)
@@ -48,18 +47,19 @@ Prüfung durch den Bundesrechnungshof](0021.md)
 - [§ 26 Begriff der Einnahme](0026.md)
 - [§ 26a Begriff der Ausgabe](0026a.md)
 - [§ 27 Einzelne Einnahmearten](0027.md)
+- [§ 27a Werbemaßnahmen anderer](0027a.md)
 - [§ 28 Vermögensbilanz](0028.md)
 - [§ 29 Prüfung des Rechenschaftsberichts](0029.md)
 - [§ 30 Prüfungsbericht und Prüfungsvermerk](0030.md)
 - [§ 31 Prüfer](0031.md)
 
-## Sechster Abschnitt Verfahren bei unrichtigen
-Rechenschaftsberichten sowie Strafvorschriften
+## Sechster Abschnitt Verfahren bei unrichtigen Rechenschaftsberichten sowie Straf- und Bußgeldvorschriften
 
 - [§ 31a Rückforderung der staatlichen Finanzierung](0031a.md)
 - [§ 31b Unrichtigkeit des Rechenschaftsberichts](0031b.md)
 - [§ 31c Rechtswidrig erlangte oder nicht veröffentlichte Spenden](0031c.md)
 - [§ 31d Strafvorschriften](0031d.md)
+- [§ 31e Bußgeldvorschriften](0031e.md)
 
 ## Siebter Abschnitt Vollzug des Verbots
 verfassungswidriger Parteien
