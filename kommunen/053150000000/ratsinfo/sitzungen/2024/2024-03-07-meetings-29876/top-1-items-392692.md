@@ -1,0 +1,6 @@
+# TOP 1: Einwohnerfragestunde
+
+- Sitzung: 23. Sitzung der Bezirksvertretung Kalk (2024-03-07)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/392692
