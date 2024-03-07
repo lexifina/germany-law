@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-07T18:00:00+01:00
+- Ende: 2024-03-07T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26280
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26280
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00514791.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00514791.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00514791.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 22.02.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25.01.2024 - einstimmig beschlossen
+- TOP 4: Bericht des Marktamtes
+- TOP 5: Planungsidee Radweg Vennhauser Allee - Bericht der Verwaltung
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 8: Zuschuss an den Reit- und Pony-Club Düsseldorf e.V. - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - einstimmig beschlossen
+- TOP 11: Geplante MobilitätStationen und SharingStationen im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 12: Düssel-Brücke Coburger Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Baustellen in Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Gebäude Werstener Feld 203 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Verkehrsentlastung Erfurter Weg (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Altkleidercontainer Neusalzer Weg (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Förderungen der Europäischen Union im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Barrierefreiheit im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Video-Stream-Übertragung der Sitzungen der Bezirksvertretung 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Verbesserung der Stadtsauberkeit im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Bürgerhäuser, Kultur- und Begegnungshäuser, Stadtbüchereien, Jugendfreizeit (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 23: Radfahrstreifen Gubener Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Kontrolle Kinderspielplätze im Stadtbezirk 8 (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Piktogramm Kissinger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Regenrückhaltebecken Heidelberger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Radwege in Unterbach - zur Kenntnis genommen
+- TOP 28: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Schlesische Straße - zur Kenntnis genommen
+- TOP 30: Gespräch mit dem Marktamt - zur Kenntnis genommen
+- TOP 31: Parkplatzsituation in Unterbach - zur Kenntnis genommen
+- TOP 32: Kapelle auf dem Unterbacher Friedhof - zur Kenntnis genommen
+- TOP 33: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Förderungen der Europäischen Union im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Barrierefreiheit im Stadtbezirk 8 - zur Kenntnis genommen
