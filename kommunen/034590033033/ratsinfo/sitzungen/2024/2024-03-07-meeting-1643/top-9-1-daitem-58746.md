@@ -1,0 +1,9 @@
+# TOP 9.1: Weiteres Vorgehen für eine Skateanlage in der Gemeinde Wallenhorst
+
+- Sitzung: Rat (13. Sitzung) (2024-03-07)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/58746
+- Ergebnis: einstimmig, mit 0 Enthaltung(en) gefasst:
+- Beratung: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/17326
+- Beschluss (Datei): Beschlusstext (Weiteres Vorgehen für eine Skateanlage in der Gemeinde Wallenhorst) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfQ_EU7P5Bo5sj2jPLXkfZpcqVysj9i6rpGnV5w6D3XM/Beschlusstext_26-2024__-oeffentlich-_Rat_07.03.2024.pdf
