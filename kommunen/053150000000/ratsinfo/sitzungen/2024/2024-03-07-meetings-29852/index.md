@@ -1,0 +1,101 @@
+# 25. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-07T16:00:00+01:00
+- Ende: 2024-03-07T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29852
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29852
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfrage - Entwicklung der Zahl der Hunde in den Stadtteilen Altstadt/Nord und Neustadt/Nord sowie Hundefreilaufflächen
+- TOP -: Beantwortung einer Einwohneranfrage zur Sitzung der BV 1 am 07.03.2024 - Kenntnis genommen
+- TOP 1.2: Illegale Werbung auf Hauswänden in Köln - Kenntnis genommen
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 3.2: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - ungeändert beschlossen
+- TOP 3.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.5: Satzungen über Anbringungsort, Abmessungen und Ausgestaltungen von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.6: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.7: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.8: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.9: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert beschlossen
+- TOP 3.10: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof - geändert beschlossen
+- TOP -: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof, Änderungsantrag aus dem VA - ungeändert beschlossen
+- TOP 3.11: Genehmigung DE - Straßenkarneval 2024 – Durchführung einer dezentralen Veranstaltung – Entscheidung und Mittelvergabe - ungeändert beschlossen
+- TOP 3.12: Umgestaltung Wasserspielangebot Spielplatz Buschgasse in Altstadt/Süd - ungeändert beschlossen
+- TOP 3.13: Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke Erweiterter Planungsbeschluss - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 3.13 (Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke Erweiterter Planungsbeschluss 0200/2024), Antrag SPD - ungeändert beschlossen
+- TOP -: ÄA zu 0200/2023 Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke, Antrag B90/Die Grünen - geändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 5.1.1 (Umbenennung der Mohrenstraße in Altstadt-Nord, Antrag SPD AN/1311/2020), gem. Antrag SPD, B90/Die Grünen, Die Linke, FDP und KlimaFreunde - ungeändert beschlossen
+- TOP 5.1.2: Neuordnung von Parkraum am Düxer Bock, Antrag CDU - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Wüste Trankgasse wird Blühende Landschaft, Antrag Klima-Gut aus dem VA - Sache ist erledigt
+- TOP -: ÄA zu AN/0035/2024 "Wüste Trankgasse wird Blühende Landschaft", Antrag Klima-Gut aus dem VA, Änderungsantrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.2: Haushaltmittel für Bürgervereine, Kultur sowie Stadtklima- und Stadtverschönerungsmittel, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.3: Parkraumbewirtschaftung Deutz-Kalker Straße, Antrag B90/Die Grünen - geändert beschlossen
+- TOP 5.2.4: eScooter Angebote im gesamten Innenstadtbereich auf stationsbasiertes Modell umstellen, Antrag CDU - zurückgestellt
+- TOP -: Änderungsantrag zur Umstellung des eScooter-Angebots in der Innenstadt, Antrag B90/Die Grünen - zurückgestellt
+- TOP 5.2.5: Parken an Kreuzungen / Schulwegen, gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.6: Mobilitätswende gemeinsam - Mediation für die zukünftige Gestaltung der Deutzer Freiheit gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und die Partei - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag zu AN/0269/2024 („Mobilitätswende gemeinsam - Mediation für die zukünftige Gestaltung der Deutzer Freiheit, gem. Antrag B 90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei“), gem. Antrag CDU und FDP - endgültig abgelehnt
+- TOP 5.2.7: Schutz des Kinderspielplatzes und Erhalt der Bäume sowie Baustelleneinrichtung Am Salzmagazin, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.8: KVB Sicherheitskräfte a U-Bahn Haltestellen gem. Dringlichkeitsantrag B90/Die Grünen, SPD, Die Linke, FDP und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.3: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.4: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Sachstand Entsiegelung und Umbau Maternuskirchplatz 2023, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Bündnis 90/Die Grünen-Fraktion aus der Sitzung der Bezirksvertretung 1 (Innenstadt) vom 24.08.2023 (Session-Nr. AN/1451/2023) betreffend „Sachstand Entsiegelung und Umbau Maternuskirchplatz“ - Kenntnis genommen
+- TOP 6.1.6: Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024, Anfrag B90/Die Grünen - zurückgestellt
+- TOP 6.1.7: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.8: Sanierung des Quäker-Nachbarschaftsheims/Norbert-Burger-Bürgerzentrum, Anfrage SPD - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Motorrad und Motorroller-Parken im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Mitteilung zur Bürgereingabe nach § 24 GO - Verkehrsversuche in Köln / Überprüfung des Eifelwalls, Aktenzeichen 150/23 - Kenntnis genommen
+- TOP 9.2: Teileinziehung von Straßenteilstücken im Bereich der Ehrenstraße und der Breite Straße - zurückgestellt
+- TOP 9.3: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - zurückgestellt
+- TOP 9.4: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Altstadt - Kenntnis genommen
+- TOP 9.5: Weihnachtsverkehr 2023 - Kenntnis genommen
+- TOP 9.6: Auswertung Verkehrsversuch Deutzer Freiheit - Kenntnis genommen
+- TOP 9.7: Mitteilung zum aktuellen Sachstand und Informationen zum Auswahlverfahren der Deutzer Kirmes - Kenntnis genommen
+- TOP 9.8: Umsetzung von Grüngleisen im Gleisnetz der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 9.9: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 9.10: Urteil des Oberverwaltungsgericht NRW zum Brüsseler Platz - Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 9.11: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 9.12: Aufwertung der Sitzbänke am Norbert-Burger-Platz (Hohenzollernbrücke), Deutz - Kenntnis genommen
+- TOP 9.13: Bildungslandschaft Altstadt/Nord, Sachstand Stand 23. Januar 2024 - Fertigstellungsfortschritt und voraussichtliche Gesamtfertigstellung Baufeld A Hansa-Gymnasium - Kenntnis genommen
+- TOP 9.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verlegung Ladezone, Parkverbot durch Poller, Aktenzeichen 51/23 - Kenntnis genommen
+- TOP 9.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Neugestaltung Lütticher Straße, Aktenzeichen 12/23 - Kenntnis genommen
+- TOP 9.16: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Umgestaltung der Verkehrsführung am Kölner Neumarkt, Aktenzeichen 78/23 - Kenntnis genommen
+- TOP 9.17: Beteiligung der Öffentlichkeit nach § 3 Absatz 2 BauGB und Beteiligung der Behörden nach § 4 Abs. 2 i.V. mit § 4a Abs. 3 BauGB Bebauungsplan (Entwurf) Nr. 69449/05 „Östlich Reitweg (Campus Deutz der TH Köln) in Köln-Deutz - Kenntnis genommen
+- TOP 9.18: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 9.19: 231. Änderung des Flächennutzungsplans im Stadtbezirk 1, Köln-Innenstadt - Kenntnis genommen
+- TOP 9.20: Deutzer Hafen: 3. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 9.21: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bänke Dagobertstraße - Im Krahnenhof, Aktenzeichen: 167/23 - Kenntnis genommen
+- TOP 9.22: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel Vierter Sachstands-, Erfahrungsbericht - Kenntnis genommen
+- TOP 9.23: Sachstandsbericht - Kenntnis genommen
+- TOP 9.24: Bauunterhaltung/Instandhaltung der Kölner Bürgerhäuser/Bürgerzentren - Kenntnis genommen
+- TOP 9.25: Bearbeitung von Bürgereingaben nach § 24 GO NRW im Dezernat für Mobilität - Kenntnis genommen
+- TOP 9.26: Open Drug Scene Cologne Survey 2023, Studienergebnisse - Kenntnis genommen
+- TOP 9.27: Stadtradeln 2024 - Kenntnis genommen
+- TOP 9.28: Beantwortung einer mündlichen Anfrage zu: Beschluss von Grundsätzen für die Entwicklung des Räumlichen Plans (3276/2023) - Kenntnis genommen
+- TOP 9.29: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen
+- TOP 9.30: Stellungnahme zum Antrag AN/0325/2023 der Grünen in der Aktuellen Stunde am 09.03.2023 zu den Restriktionen für das Volksfest in Deutz - Kenntnis genommen
+- TOP 9.31: Mitteilung und abschließende Information zum Auswahlverfahren der Deutzer Volksfeste (Frühlings- und Herbstvolksfest) 2024 - Kenntnis genommen
