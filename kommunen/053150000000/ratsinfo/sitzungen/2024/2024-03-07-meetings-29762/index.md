@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-07T16:00:00+01:00
+- Ende: 2024-03-07T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29762
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29762
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Die Linke. betr.: "Rückfragen zu Steinkohle für das HKW Rostock" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE (AN/2032/2023) betr.: - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betr.: "Tieffrequenter Lärm im rechtsrheinischen Köln" - Kenntnis genommen
+- TOP 1.2.1: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 25.01.2024 betreffend "Tieffrequenter Lärm im rechtsrheinischen Köln" (AN/0091/2024) - Kenntnis genommen
+- TOP 1.3: Anfrage der FDP-Fraktion betr.: "Windenergie und Naturschutz in Stammheim" - zurückgestellt
+- TOP 1.4: Anfrage der SPD-Fraktion betr.: "Sachstand Plattform Wärmebereitstellung WEGs" - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Einsatz von Pferden im Karneval" - zurückgestellt
+- TOP 1.6: Anfrage der FDP-Fraktion betr.: "Optimierung des Konzeptes der Klärschlammverbrennung in Köln" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion betr.: "Veröffentlichung des CO2-Verbrauches der städtischen Gebäude und Fahrzeuge" - endgültig abgelehnt
+- TOP 2.2: Dringlichkeitsantrag der Fraktionen CDU, SPD und FDP betr.: "Fällung der Platane 1 im Garten des Bahnhofes Belvedere" - zurückgestellt
+- TOP 2.3: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Elektroschrott reduzieren - Freie Software für alte Computer" - geändert beschlossen
+- TOP 2.3.1: Stellungnahme der Verwaltung zu dem Antrag der Ratsgruppe KLIMA FREUNDE & GUT betreffend "Elektroschrott reduzieren - Freie Software für alte Computer" (AN/0248/2024) - Kenntnis genommen
+- TOP 2.3.2: Gem. Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt zu TOP 2.3 – AN/0248/2024 "Elektroschrott reduzieren – Freie Software für alte Computer" - Sache ist erledigt
+- TOP 2.3.3: Änderungsantrag zu Top 2.3 AN/0248/2024 Elektroschrott reduzieren - Freie Software für alte Computer - ungeändert beschlossen
+- TOP 2.4: Antrag der Fraktion Die Linke. betr.: "Kommunale Wärmeplanung von Anfang an richtigmachen" - Sache ist erledigt
+- TOP 2.5: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Regenwasserableitung an städtischen Gebäuden" - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stb. Konzept "Am Bilderstöckchen"; Anhörung der BV5 zu den Ergebn. der Frühz. Öffentlichkeitsb., Beschluss über die Vorgaben zur Ausarbeitung BP-Etwurf (VEP) - ungeändert empfohlen
+- TOP 4.1.2: Neuwahl eines ordentlichen Mitglieds für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.1.3: Neuwahl mehrerer Mitglieder für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.1.4: Neuwahl mehrerer Mitglieder für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.1.5: Kommunale Wärmeplanung: Aufstellungsbeschluss - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Entscheidung über die Erteilung einer Fällerlaubnis in Zusammenhang mit dem Bauvorhaben „Frankfurter Straße 446, 51145 Köln“ (Gemarkung: Elsdorf, Flur: 1, Flurstück: 583/0) - zurückgestellt
+- TOP 4.2.2: Pflege- und Entwicklungsplan zum Naturschutzgebiet N22 "Baadenberger Senke, Stöckheimer See und Große Laache" - ungeändert beschlossen
+- TOP 4.2.3: gLB Bahnhof Belvedere; Befreiung zur Fällung einer Platane - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 19. Dezember 2023 - Kenntnis genommen
+- TOP 7.2: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 7.3: Kompensationszahlung für Flugreisen 2023 - Kenntnis genommen
+- TOP 7.4: Stadtradeln 2024 - Kenntnis genommen
+- TOP 7.5: Veränderte Berechnungsverfahren und deren Auswirkungen auf die Ergebnisse der Lärmkartierung und dem Lärmaktionsplan - Kenntnis genommen
+- TOP 7.6: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 15. Februar 2024 - Kenntnis genommen
+- TOP 7.7: Umsetzung von Grüngleisen im Gleisnetz der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 25.01.2024 betreffend "Hochwasser" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
