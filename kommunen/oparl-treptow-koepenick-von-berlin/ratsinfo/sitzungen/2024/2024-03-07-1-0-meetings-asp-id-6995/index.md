@@ -1,0 +1,112 @@
+# 23. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-03-07T16:30:00+01:00
+- Ende: 2024-03-07T22:02:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6995
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6995
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=420672
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Sondermittel für den "Förderverein Grünauer Friedenskirche e. V." (SM 24-05) - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - vertagt
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Abberufung eines Bezirksamtsmitglieds - vertagt
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-20 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Wegweiser zur Mittelpunktbibliothek am S-Bahnhof Schöneweide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Querungshilfe Fürstenwalder Allee 72-82 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Querungshilfe Dammweg Nähe Bergaustraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Radgerechter Straßenbelag - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Videosprechstunden und kontaktloses Bezahlen anbieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Errichtung eines Fuß- und Radweges entlang des Königsheideweges - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Querungshilfe auf dem Segelfliegerdamm (vor dem Landschaftspark Johannisthal) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Zusammenarbeit mit dem Anna-Seghers-Museum anlässlich Gedenkjahr intensivieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Querungshilfe Ingeborg-Hunzinger-Straße Höhe Alter Hegemeisterweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.10: Ordnungswidriges Parken im Püttbergeweg unterbinden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.11: Bau einer Radverkehrsanlage in der Rummelsburger Landstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.12: Pro Kind ein Baum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Park-and-Ride-Konzeption für Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Busspuren auf der Elsenbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Kompensationsmaßnahme "Schwimminseln" am Spreeufer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Pilotprojekt ergänzen und Fahrradbezirk stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Ausbau Radweg im Rahmen des Radwegekonzeptes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Zusätzliche Planstellen für das Dokumentationszentrum NS-Zwangsarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - überwiesen
+- TOP 7.2.8: Sondermittel für den Verein "Kommunale Ökumene Treptow-Köpenick e. V." (SM 22-12) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Renaturierung LSG Neue Wiesen - überwiesen
+- TOP 7.2.10: Galeriestandort Johannisthal erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Aufwertung Don-Ugoletti-Platz Grünau - überwiesen
+- TOP 7.2.12: Attraktivitätssteigerung der Arbeitsplätze im Bezirksamt Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Akkus von Elektroklein- und -kleinstfahrzeugen auch im Bezirksamt laden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Öffentlichkeitsarbeit des Bezirksamtes bedarfsorientierter gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Sichere Querung in der Fürstenwalder Allee auf Höhe "Am Schonungsberg" schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.16: Ausreichend Fahrradstellplätze am Bahnhof Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.17: Verkehrssicherheit in der Bahnhofstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.18: Nutzung von Grünanlagen für Angebote und Maßnahmen der Jugendarbeit und Jugendsozialarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.19: Mehr Schulwegsicherheit für die Schüler /-innen der Kiefholz-Grundschule aus dem Einzugsbereich Plänterwald - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.20: Weitere öffentliche Toilette im Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.21: Die Ruben-Wolf-Straße, die Schwarzkoppenstraße und die Agnes-Hacker-Straße zum verkehrsberuhigten Bereich umgestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.22: Einführung eines Mülltrennungssystems an der Volkshochschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.23: Abfallbehälter Ecke Genovevastraße / Däumlingsweg einrichten - überwiesen
+- TOP 7.2.24: Energetische Sanierung öffentlicher Gebäude durch Abwärmenutzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.25: Pro Kind ein Baum - überwiesen
+- TOP 8: Mündliche Anfragen - schriftlich beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sondermittel für den Verein "Mengerzeile e. V." (SM 24-03) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sondermittel für den Verein "Freunde des Emmy-Noether-Gymnasiums e. V." (SM 24-04) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Sondermittel für die "Aufbaugruppe Dryaden im BdP LV BBB" (SM 24-11) - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für die Sozialkommission 1 (SM 24-12) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sondermittel für den Verein "Industriesalon Schöneweide e. V." (SM 24-13) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Sondermittel für den Verein "Deutsch-Polnische Gesellschaft Berlin e. V." (SM 24-14) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Neue Straßenbahnhaltestelle an der Regattastraße für die Linie 68 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bezirkshaushaltsrechnung 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Erhalt der Naturrasenplätze - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Realisierung und Abschluss Landschaftsplan XVI-L-2 "Vollkropfwiesen" - überwiesen
+- TOP 10.5: Planungen zur Wilhelminenhofbrücke zügig abschließen und Entscheidungen treffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bewerbung des queeren Jugendangebots im JuKuz - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Kronkorkenspender für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Tabus brechen und Frauen in den Wechseljahren stärken! Beratungsangebote zur Menopause aufzeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Schließfächer für Obdachlose auch in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Zugang zur Straßenbahnhaltestelle auf der Edisonstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Gegen Mietpreisüberhöhung (§ 5 WiStG) wirksam vorgehen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Den Volkstrauertag in Treptow-Köpenick würdevoll begehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Öffentlichkeitsarbeit im Straßen- und Grünflächenamt stärken - in der BVV zurückgezogen
+- TOP 10.14: Beflaggung öffentlicher Gebäude - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Generationsübergreifendes Stadtteilzentrum für Treptow-Köpenick - zurückgezogen
+- TOP 12.2: Weg in die Königsheide vom Königsheideweg - überwiesen
+- TOP 12.3: Beteiligung am Aktionstag "Kollege Hund" - überwiesen
+- TOP 12.4: Mehr Licht und Sicherheit für Rauchfangswerder - überwiesen
+- TOP 12.5: Gemeinsam gegen Sexismus im Bezirk! - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Querungsmöglichkeiten rund um Späthsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Köpenick besser an den Flughafen anbinden – Buslinie 164 bis zum BER-Terminal verlängern - überwiesen
+- TOP 12.8: Evaluation der neuen Verwaltungshomepages - überwiesen
+- TOP 12.9: Sanierung des Geh- und Radwegs auf dem Adlergestell - überwiesen
+- TOP 12.10: Parkplatznot im Bezirk effektiv bekämpfen – Mehr Stellplätze bei Neubauvorhaben einfordern - überwiesen
+- TOP 12.11: Keine neuen Unsicherheiten für Zufußgehende und Radfahrende auf der Elsenstraße - Tempo 30 bleibt! - überwiesen
+- TOP 12.12: Illegalen Werbekärtchen an Pkw den Kampf ansagen! - überwiesen
+- TOP 12.13: Plauderbänke in Treptow-Köpenick - überwiesen
+- TOP 12.14: Berliner Bezirke an den Erlösen der Stromproduktion von Windenergieanlagen beteiligen - überwiesen
+- TOP 12.15: Zusagen einhalten – Hauptstadtzulage auch für freie Träger - überwiesen
+- TOP 12.16: Probestunden im Rahmen des bezirklichen Musikunterrichts einführen - überwiesen
+- TOP 12.17: Bewegungs- und Sportangebote online leichter zugänglich machen - überwiesen
+- TOP 12.18: Schaffung einer KV-Notdienstpraxis für Erwachsene und einer KV-Notdienstpraxis für Kinder auch in Treptow-Köpenick - überwiesen
+- TOP 12.19: Ladestationen für E-Bikes - überwiesen
+- TOP 12.20: Anhebung der Wassertemperatur in den Schwimmhallen Treptow-Köpenicks auf 28°C - überwiesen
+- TOP 12.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.22: Snack it: SnackBox für Treptow-Köpenick - überwiesen
+- TOP 13: Große Anfragen - (offen)
