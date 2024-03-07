@@ -1,0 +1,84 @@
+# 23. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-07T17:03:00+01:00
+- Ende: 2024-03-07T20:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29876
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29876
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Aktuelle Stunde
+- TOP -: AKTUELLE STUNDE Antrag der SPD Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Sicherstellung des öffentlichen Auftrags der Sparkasse KölnBonn im Stadtbezirk Kalk"
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP -: Einwohneranfrage betreff: "Weitere bauliche und städtebauliche Entwicklung des Geländes Buchheimer Weg 34, 51107 Köln: Kirche und Gebäude „Zu den heiligen Engeln“"
+- TOP -: Beantwortung einer Einwohneranfrage nach § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln Betreff: " Weitere bauliche und städtebauliche Entwicklung Kirche und Gebäude "Zu den heiligen Engeln"
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gem. Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Fraktion Die LINKE. Betreff: "Haushaltmittel für Bürgervereine, Kultur sowie Stadtklima- und Stadtverschönerungsmittel sichern" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen Betreff ":Bekämpfung von illegalen Wettbüros mehr Priorität einräumen" - geändert beschlossen
+- TOP 7.3: Antrag der CDU Fraktion Betreff: "Antrag zur Einrichtung eines Zebrastreifens auf der Eiler Straße in Höhe der Kirche St. Cornelius" - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion Die LINKE. Betreff: "Ende mit Schrecken statt Schrecken ohne Ende" - endgültig abgelehnt
+- TOP 7.5: Antrag der Fraktion Bündnis 90/Die Grünen Betreff: "Sichtachse vom Kalkberg zum Dom bei Bauprojekten beachten" - geändert beschlossen
+- TOP 7.6: Antrag der Fraktion Bündnis 90/Die Grünen Betreff: "Mehr Raum für Kalk – Aufwertung des Fred-Sauer-Platzes in Köln-Kalk" - ungeändert beschlossen
+- TOP 7.7: Gem. Antrag der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Fraktion Die LINKE. Betreff: "Eimerchen, Förmchen, Schäufelchen - Sandspielzeug gemeinsam nutzen" - geändert beschlossen
+- TOP 7.8: Gem. Antrag der Fraktion Bündnis 90/Die Grünen und CDU-Fraktion Betreff: "Schulstraße an der Grundschule Diesterwegstraße" - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Abriss und Entsorgung des ehemaligen Umkleidehauses auf der Sportanlage Pohlstadtsweg, Köln-Kalk - ungeändert beschlossen
+- TOP 8.1.2: Vergabe der bezirksorientierten Mittel für das Jahr 2024 - ungeändert beschlossen
+- TOP 8.1.3: Projektanträge im Rahmen des sechsten Antragsdurchlaufs des Verfügungsfonds für das Soziale-Stadt-Gebiet „Ostheim und Neubrück“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Höhenentwicklungskonzept für die Innere Stadt Köln - endgültig abgelehnt
+- TOP 8.2.2: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - geändert beschlossen
+- TOP 8.2.3: Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - geändert beschlossen
+- TOP 8.2.4: Entwicklungsbereich Hallen Kalk, hier: Machbarkeitsstudie Halle 71 als Grundlage der weiteren Bearbeitung - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer mündliche Nachfrage der SPD-Fraktion: TOP 9.3.1 aus der letzten Sitzung der BV8 vom 25.01.2024 - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 25.01.2024 (AN/0095/2024) betreffend „Sachstand Nachbesetzung der Stelle Schulleiter*in am städt. Kaiserin-Theophanu-Gymnasium in Kalk" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer Anfrage der CDU Fraktion aus der Sitzung der BV8 vom 18.01.2024 (AN/0106/2024) betr. "Instandsetzung des Radweges Köln-Brück, Olpener Str. Höhe Matthias Claudius Heim" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Verkehrsschau im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Barrierefreiheit der Stadtbahn- und Bushaltestellen im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Vermüllung der Trimbornstr." - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Einschränkungen durch Verlängerung der Straßenbahnen" - Kenntnis genommen
+- TOP 9.2.5: Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Umsetzung des ganzheitlichen Toilettenkonzepts im Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2.6: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Versteckte Kosten an Schulen" - Kenntnis genommen
+- TOP 9.2.7: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Raum in der Grundschule Kapitelstraße für 1. Kölner Karateclub Bushido e.V." - Kenntnis genommen
+- TOP 9.2.8: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Umgestaltung des Marktplatzes im Klimaveedel Neubrück" - Kenntnis genommen
+- TOP 9.2.9: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Mehr Grün für den Kalker Stadtgarten?" - Kenntnis genommen
+- TOP 9.2.10: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk am 07.03.2024 "Sachstand Kreisel Dattenfelder/Hans-Schulten Str., Köln Brück und Bachbett-/Straßensanierung Abshofstr., Köln-Merheim" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 9.4: Beantwortung von Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ehrenamtspreis "KölnEngagiert 2024" - Kenntnis genommen
+- TOP 10.2.2: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 10.2.3: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.4: Sachstandsbericht der Verwaltung zur Verlagerung des Autonomen Zentrums in die Liegenschaft In den Reihen 16 in Köln-Kalk - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Schaffung eines öffentlichen Fußball-/Bolzplatzes, Aktenzeichen 168/23
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Öffentliche Toiletten und Konsumräume für Köln Kalk, Aktenzeichen 209/23 - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Eiler Straße/Rath- Heumar - Erweiterung des zeitlich begrenzten Durchfahrtverbots für LKW´s in ein generelles Durchfahrtverbot für LKW´s, Aktenzeichen 134/23 - Kenntnis genommen
+- TOP 10.2.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Park in der Kapellenstraße, Köln-Kalk, Aktenzeichen 217/23
+- TOP 10.2.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - "Einrichtung Einbahnstraße und Sanierung der Rolshover Straße", Aktenzeichen 171/23 - Kenntnis genommen
+- TOP 10.2.10: Bauunterhaltung/Instandhaltung der Kölner Bürgerhäuser/Bürgerzentren - Kenntnis genommen
+- TOP 10.2.11: Bearbeitung von Bürgereingaben nach § 24 GO NRW im Dezernat für Mobilität - Kenntnis genommen
+- TOP 10.2.12: Öffentlichkeitsarbeit und Baumaßnahme Drogenkonsumraum Kalk - Kenntnis genommen
+- TOP 10.2.13: Niederschrift 10. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.14: Niederschrift 11. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.15: Niederschrift 12. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.16: Niederschrift 13. Runder Tisch Radverkehr Kalk - Kenntnis genommen
+- TOP 10.2.17: Stadtradeln 2024 - Kenntnis genommen
+- TOP 10.2.18: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - zurückgestellt
+- TOP 10.2.19: Beantwortung einer schriftlichen Einwohneranfrage nach § 39 der Geschäftsordnung des Rates zum Umzug des Autonomen Zentrums nach Köln-Kalk - Kenntnis genommen
