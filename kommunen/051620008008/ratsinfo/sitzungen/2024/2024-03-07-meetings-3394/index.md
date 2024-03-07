@@ -1,0 +1,64 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-03-07T18:30:00+01:00
+- Ende: 2024-03-07T21:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3394
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3394
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00148891.pdf
+- Ergebnisprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00148891.pdf
+- Wortprotokoll: Nachtrags-Tagesordnung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00148891.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: 6. Änderungssatzung zur Satzung über die Erhebung von Marktstandsgeld für die Wochen- und Jahrmärkte (Kirmessen) sowie sonstigen Märkte im Gebiet der Stadt Grevenbroich vom 06.04.1976 - einstimmig beschlossen
+- TOP 5: Haushalt 2024 - mehrheitlich beschlossen
+- TOP 6: Wiederwahl von Mitgliedern für den Umlegungsausschuss der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 7: Beteiligung des Rhein-Kreis Neuss als Mitgesellschafter an einer noch zu gründenden privatrechtlichen Gesellschaft der öffentlichen Hand zur Entwicklung von Flächen am Kraftwerksstandort Frimmersdorf II („Frimmersdorf GmbH“) - einstimmig beschlossen
+- TOP 8: Beratungspunkte Ausschüsse
+- TOP 8.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 8.1.1: Regionalplanänderung "Gewerbeflächen für den Strukturwandel im Rheinischen Revier" - einstimmig beschlossen
+- TOP 8.1.2: 37. FNP Änd. Gewerbegebiet Buchholzer Straße - Beschluss gem. § 6 BauGB - mehrheitlich beschlossen
+- TOP 8.1.3: 44. FNP Änd. Beschluss gemäß § 6 BauGB - einstimmig beschlossen
+- TOP 8.1.4: 36. FNP Änd. An der Heckstraße - ern. Beschluss gem. § 6 BauGB - einstimmig beschlossen
+- TOP 8.2: Entscheidung über Beratungspunkte aus dem Schulausschuss
+- TOP 8.2.1: Satzung der Stadt Grevenbroich über die Erhebung von Elternbeiträgen für die Teilnahme an Ganztags- und Betreuungsangeboten in der Sekundarstufe I - von der Tagesordnung abgesetzt
+- TOP 8.2.1.1: Satzung der Stadt Grevenbroich über die Erhebung von Elternbeiträgen für die Teilnahme an Ganztags- und Betreuungsangeboten in der Sekundarstufe I - einstimmig beschlossen
+- TOP 9: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Sozialer Wohnungsbau in Grevenbroich (Anfrage Nr.: 75/2023) - Kenntnisnahme
+- TOP 9.2: Beantwortung Anfragen zur Bekanntmachung über- und außerplanmäßigen Mittelbereitstellung April bis Dezember 2023 - Kenntnisnahme
+- TOP 9.3: Öffentliche Informationsveranstaltung zur Darstellung des Konzepts zur Zukunftsausrichtung des Rheinland Klinikums und dessen Auswirkungen auf das Elisabeth-Krankenhaus durch die Gesellschafter Stadt Neuss und Rhein-Kreis Neuss (Antrag Nr. 02/2024) - Kenntnisnahme
+- TOP 9.4: Verwendung der Bundesfördermittel für die Turnhalle an der Käthe-Kollwitz-Gesamtschule (Anfrage Nr. 05/2024) - Kenntnisnahme
+- TOP 9.5: Sachstand zur möglichen Zusammenführung der Feuerwehrstandorte Neukirchen und Hülchrath/Münchrath (Anfrage Nr.:83/2023) - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.1.1: Ausschussumbesetzung (Antrag Nr.:36/2024) - einstimmig beschlossen
+- TOP 10.1.2: Brauchtum weiter unterstützen (Antrag Nr.:37/2024) - einstimmig beschlossen
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.2.1: Antrag zur Prüfung der Überdachung öffentlicher Parkplätze mit Photovoltaikanlagen (Antrag Nr.:31/2024) - einstimmig beschlossen
+- TOP 10.2.2: Pflegeauftrag und Sanierung des Schulsportplatzes am Pascal Gymnasium (Antrag Nr.:32/2024) - einstimmig beschlossen
+- TOP 10.2.3: Antrag zur Erneuerung der Beleuchtungsanlage Museum (Antrag Nr.:33/2024) - einstimmig beschlossen
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.3.1: Aufhebung von Beschlüssen zu Straßenbaumaßnahmen (Antrag Nr.:39/2024) - von der Tagesordnung abgesetzt
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: Umbesetzung des Aufsichtsrates der Segelflugplatzgesellschaft Grevenbroich mit beschränkter Haftung (Antrag Nr.:38/2024) - einstimmig beschlossen
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 11: Gemeinschaftsanträge
+- TOP 11.1: Landesweit einheitliche Bezahlkarte für Geflüchtete erforderlich (Antrag Nr.:34/2024) - mehrheitlich beschlossen
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der SPD-Fraktion
+- TOP 12.1.1: Strukturen verbessern - Impulsgesellschaft Grevenbroich (Anfrage Nr.:35/2024) - Kenntnisnahme
+- TOP 12.2: Anfragen der CDU-Fraktion
+- TOP 12.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 12.4: Anfragen der FDP-Fraktion
+- TOP 12.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 12.6: Anfragen der UWG-Fraktion
+- TOP 13: Mitteilungen des Bürgermeisters
