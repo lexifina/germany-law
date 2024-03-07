@@ -1,0 +1,52 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2024-03-07T17:30:00+01:00
+- Ende: 2024-03-07T19:03:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZM2O0wGAv5uDnI91woxURk
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1643
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdznwOoJuB7OFBILvldl5gEx1zAH7cFbWPmpYAnIXWEW/Bekanntmachung_Rat_07.03.2024.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSUwdoFkENR9bsxzHI5xmPDLcF54MIeAQ3HYabjvRW1O/Oeffentliches_Beschlussprotokoll_Rat_07.03.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 19.12.2023
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verkehrsentwicklung Fahrradstraße Wessels Straße/Pyer Straße
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Berufung zur Gleichstellungsbeauftragten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Wirtschaftsangelegenheiten
+- TOP 5.1: Änderung des Gesellschaftsvertrages der oleg Osnabrücker Land-Entwicklungsgesellschaft mbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Kommunale Betrauung der oleg Osnabrücker Land - Entwicklungsgesellschaft mbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Delegationsreise in die Partnergemeinde Stawiguda (Polen) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Sicherheit und Ordnung
+- TOP 7.1: Freilaufflächen für Hunde - mehrheitlich mit 23 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 7.2: Erweiterung des Kirmesgeländes für die Klib 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Umwelt- und Energieangelegenheiten
+- TOP 8.1: EU-Umgebungslärmrichtlinie – 4. Stufe hier: Vorstellung des Entwurfs des Lärmaktionsplans und Phase 2 der öffentlichen Beteiligung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Weiteres Vorgehen für eine Skateanlage in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Vorbereitung und Durchführung der städtebaulichen Maßnahme "Gewerbeflächen am Schwarzen See" durch die Niedersächsische Landgesellschaft mbH (NLG) hier: 2. Änderungsvereinbarung zum städtebaulichen Vertrag vom Februar 2015 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Vermarktung – ehemaliges Spielplatzgrundstück – „Annette-Kolb-Straße“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.4: Antrag der FDP-Fraktion Wallenhorst auf Prüfung eines Park- und Mitfahrparkplatzes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Kindertagesstätten
+- TOP 10.1: Vorstellung der Planungsentwürfe für die Erweiterung des Franziskus Kindergartens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Umbau der Kindertagesstätte St. Johannes Rulle - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 10.3: Grundstück für den Neubau einer zwölften Kindertagesstätte - mehrheitlich mit 18 Ja-Stimme(n), 7 Gegenstimme(n), 3 Stimmenthaltung(en) gefasst:
+- TOP 10.4: Neufassung des Vertrags zum Betrieb und zur Finanzierung der Kindertagesstätten in Trägerschaft des Katholischen Kirchengemeindeverbands Kindertagesstätten Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sportangelegenheiten
+- TOP 11.1: Antrag der SPD-Fraktion auf Umrüstung der Flutlichtanlagen auf LED-Beleuchtung an allen Sportplätzen der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Sanierung Tribünenanlage Sportplatz Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Baumschutz im Gemeindegebiet
+- TOP 12.2: Feuerwerksfreie Zonen in Wallenhorst
+- TOP 12.3: Müllsituation am Kreisel Butke/ Edeka in Lechtingen
+- TOP 12.4: Entsorgungsproblem von Zigarettenstummeln
+- TOP 12.5: Baustellenbarken am Lingemann Kreisel in Rulle
