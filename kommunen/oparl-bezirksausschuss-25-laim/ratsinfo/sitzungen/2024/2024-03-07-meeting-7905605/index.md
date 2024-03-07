@@ -1,0 +1,121 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905605
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905605
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Aufzug Laim S-Bahn
+- TOP 1.2.2.: Neue Dialog-Displays mit Geschwindigkeitsmessung (Vertagung in UA Mobilität)
+- TOP 1.2.3.: Verkehrssituation Agricolastraße (Vertagung in UA Mobilität)
+- TOP 1.2.4.: Einrichtung einer Kurzparkzone in der Senftenauerstr. 9-17 (Vertagung in UA Mobilität)
+- TOP 2: Anträge
+- TOP 2.1.: U-Bahn-Haltestelle “Landschaftspark West”
+- TOP 2.2.: Name für neuen U-Bahnhof in Laim
+- TOP 2.3.: Valpichlerstraße zur beidseitigen Befahrung für Radfahrerinnen öffnen
+- TOP 2.4.: Beleuchtung Fürstenrieder Straße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) + (U) Tempo-30-Zone in der Guido-Schneble-Straße
+- TOP 3.2.: (E) + (U) Radwege an der Elsenheimerstraße
+- TOP 3.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz!") am 14.09.2024 1.600,00 Euro, Az.: 0262.0-25-0320
+- TOP 3.4.: (E) Stadtbezirksbudget Münchner Filmwerkstatt e.V. Filmworkshop für Kinder und Jugendliche zwischen April und November 2024 5.857,00 Euro, Az.: 0262.0-25-0321
+- TOP 3.5.: Schreiben Münchner Filmwerkstatt vom 03.01.24: Filmworkshop für Kinder und Jugendliche
+- TOP 3.6.: (E) Stadtbezirksbudget Förderverein Handball Laim e.V. Kinderfasching am 03.02.2024 387,00 Euro, Az.: 0262.0-25-0322
+- TOP 3.7.: (E) Stadtbezirksbudget Helferkreis H.-Thonauer-/Elsenheimer-/Hansa-/Gerty-Spies-Straße Jahresprogramm 2024 des Helferkreises vom 15.03. - 31.12.2024 2.500,00 Euro, Az.: 0262.0-25-0323
+- TOP 3.8.: (E) Stadtbezirksbudget Paul-Gerhardt-Chor München-Laim Konzert am 17.03.2024 2.500,00 Euro, Az.: 0262.0-25-0324
+- TOP 3.9.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratie im Einsatz - Demokratiemobil München am 08.06.2024 800,00 Euro, Az.: 0262.0-25-0325
+- TOP 3.10.: Schreiben Kreisjugendring vom 06.02.24: Demokratiemobil in Laim
+- TOP 3.11.: (E) Stadtbezirksbudget wohlBEDACHT e.V. Ausstattung der Räumlichkeiten der Nachtpflege München-Allach vom 12.02. - 30.04.2024 2.700,00 Euro, Az.: 0262.025-0326
+- TOP 3.12.: Schreiben wohlBEDACHT vom 14.02.24: Antrag auf Unterstützung für erste Münchner Nachtpflegeeinrichtung
+- TOP 3.13.: (E) Stadtbezirksbudget Laimer Maibaumfreunde e.V. Maifest 2024 am 01.05.2024 5.400,00 Euro, Az.: 0262.0-25-0327
+- TOP 3.14.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Genehmigung einer Parkstand-Freischankfläche am Laimer PI. 2 Seite Guido-Schneble-Str.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.01.24: Fällungsantrag anlässlich Tram-Westtangente-Maßnahmen Camerloherstraße Einmündung Fürstenrieder Str., öffentlicher Grünstreifen hier: auf Höhe Camerloherstr. 67 Fl.Nr. 75/2, Gemarkung: Laim
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.02.24 und 16.02.24: Planänderungsantrag (Tektur D), Tam-Westtangente, PFA 1, Romanplatz bis Wendeschleife am Waldfriedhof (Komplette Unterlagen stehen in der Kooperationsplattform Alfresco zur Verfügung)
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.02.24: Gesamtstädt. Stellungnahme zur Kenntnis Planänderungsantrag (Tektur D), Tam-Westtangente, PFA 1, Romanplatz bis Wendeschleife am Waldfriedhof
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.02.24: PERSPEKTIVE MÜNCHEN - Entwurf des Stadtentwicklungsplans STEP 2040, „München – Stadt im Gleichgewicht“, Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe STEP 2040
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 06.02.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Bez. 25, Weißenfelderplatz, Flohmarkt für Kinderbekleidung und Spielzeug, Frühjahr/Herbst Die Bärchen e.V. am 05.05. und 15.09.2024
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 09.02.24: Veranstaltung in einer städtischen Grünanlage; Hier: Bez. 25, Hogenbergplatz –“Flohmarkt vom Familienzentrum Laim“ am 20.04.2024 + 28.09.2024 (Ersatztermine: 27.04. und 12.10.24)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 13.02.24: Veranstaltung in einer städtischen Grünanlage; Hier: Familienflohmarkt Drachenei e.V. am 13.04.2024 (Ersatztermin: 11.05.2024) um 10.00 – 14.00 Uhr Aufbau ab 8.30, Abbau bis 17.00 Uhr
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 15.02.24: Veranstaltung in einer städtischen Grünanlage; Hier: Familienflohmarkt Drachenei e.V. am 14.09.2024 (Ersatztermin: 19.10.2024) um 10.00 – 14.00 Uhr
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 15.02.24: Veranstaltung in einer städtischen Grünanlage bzw. Straßenbegleitgrün Hier: SWM Spatenstich am 12.03.2024 am Kärtner Platz – Stegener Weg (Frist 08.03.24)
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 26.02.24: Veranstaltung in Grünanlagen: Zirkus Pumpernudl am Joergplatz vom 11.10.-13.10.24
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 27.02.24: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Bladenight 2024 ab 06.05.2024 Start/Ziel: Am Bavariapark (Bez. 8) Termin: 10.04.2024
+- TOP 4.13.: Schreiben Kreisverwaltungsreferat vom 28.02.24: Veranstaltung in einer städtischen Grünanlage; Hier: Flohmarkt, Agricolaplatz am 13.04.2024 (Ersatztermin: 20.04.2024) Termin: 09.04.2024
+- TOP 4.14.: Schreiben Sozialreferat vom 17.01.24: Mieterbeiratswahl 2024 Entsendung von stimmberechtigten Mitgliedern
+- TOP 4.15.: Schreiben Direktorium vom 26.02.24: Neues Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Vorstellung: Verkehrsführung Fürstenrieder Straße TWT
+- TOP 6.2.: Schreiben Direktorium vom 20.12.23: Angebot zum Versand von Bezirksausschussnewsletter
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA Sitzung vom 01.02.24
+- TOP 7.2.: Protokoll UA Kultur vom 08.01.24
+- TOP 7.3.: Protokoll UA Bau vom 25.01.24
+- TOP 7.4.: Protokoll UA Umwelt, Klima und Baumschutz vom 29.01.24
+- TOP 7.5.: Protokoll UA Mobilität vom 24.01.24
+- TOP 7.6.: Protokoll UA Mobilität vom 21.02.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben SWM vom 25.01.24: Information zu Baumfällungen in Laim
+- TOP 8.2.: Schreiben Deutsche Bahn AG vom 24.01.24 und 30.01.24: Außerbetriebnahme und Rückbau des Aufzugs an der S-Bahn Station Laim
+- TOP 8.3.: Schreiben CultureClouds vom 09.02.24: Informationsschreiben Bezirksausschüsse
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 25.01.24: Gehweg in der Fürstenrieder Straße für Fußgänger*innen freihalten
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 18.01.24: Attraktive Nord-Süd-Radwegverbindung im Münchner-Westen BA-Antrag Nr. 02295 vom 06.05.21 Hier: Zwischennachricht
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 17.01.24 und 31.01.24: Fürstenrieder Straße/Ammerseestraße - TWT Vorabmaßnahme
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 31.01.24 und 12.02.24: VA U 00109/24; 2. Zwischenphase vom 12.02. bis 22.03.2024 zu U 01935/24; Kanal Von-der-Pfordten-Str. Nord und VA Gotthardstr. vom 19.02.2024 bis 29.05.2024 (U 00195/24; Hauptbaumaßnahme BPh 280)
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 15.02.24: Gefahrzeichen Fußgänger Westendstraße/Ammerseestraße
+- TOP 8.9.: Schreiben Baureferat vom 05.02.24: Mehr Grün statt Teer: Entsiegelung in Laim BA 25-Antrag-Nr. 04429
+- TOP 8.10.: Schreiben Baureferat vom 22.01.24: Brunnenoffensive für Laim – Trinkbrunnen für Laimer Spielplätze
+- TOP 8.11.: Schreiben Baureferat vom 25.01.24: Info Ergebnis Machbarkeitsuntersuchung Baumpflanzungen im Strassenraum
+- TOP 8.12.: Schreiben Baureferat vom 14.02.24: Bereitstellung mobiler Toiletten am Laimer S-Bahnhof während der Bauphase
+- TOP 8.13.: Schreiben MVG vom 01.02.24: Taubendreck auf MVG - Leihrädern an der Leihstation bei der U-Bahnstation Westendstraße
+- TOP 8.14.: Schreiben SWM vom 29.01.24: Baumaßnahmen
+- TOP 8.15.: Schreiben SWM vom 15.02.24: Fernwärme-Projekt - BV Ossietzkystr.11
+- TOP 8.16.: Schreiben SWM vom 15.02.24: Fernwärme-Projekt - BV Perhamerstr. 12
+- TOP 8.17.: Schreiben Referat für Arbeit und Wirtschaft vom 15.02.24: Schließung Edeka Ecke Agnes-Bernauer-Straße / Friedenheimer Straße
+- TOP 8.18.: Schreiben Referat für Bildung und Sport vom 21.02.24: Informationen zur neuen freiwilligen Förderung der Kindertageseinrichtungen in München, Defizitausgleichsmodell
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.02.24: Fällung Agnes-Bernauer-Str.
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.02.24: Landsberger Str. 208, Fl.Nr. 238/7 Aufstockung eines Gewerbegebäudes mit Errichtung eines Stadthotels-Vorbescheid
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.01.24: Plangenehmigungsverfahren Erneuerung Infrastruktur Lokhalle
+- TOP 8.22.: Bautenliste 22.01.-28.01.24: A) Erstantragsverfahren 1. Burgkmairstr. 42
+- TOP 8.23.: Bautenliste 12.02.-18.02.24: A) Erstantragsverfahren 1. Sandratstr. 22 B) Vorbescheid 1. Agricolastraße
+- TOP 8.24.: Schreiben Sozialreferat vom 07.02.24: Neueröffnung/Verlängerung von Unterkünften zur Unterbringung Geflüchteter; Sitzungsvorlage Nr. 20-26 / V 12348 Hier: Eilentscheidung
+- TOP 8.25.: Schreiben Mieterbeirat vom 30.01.24: Protokoll Mieterbeirat vom 22.01.24
+- TOP 8.26.: Schreiben Sozialreferat vom 29.01.24: REGSAM-Schwerpunktgebiete
+- TOP 8.27.: Schreiben Direktorium vom Januar 2024: Verwendungsnachweise
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 15.02.24: Antrag auf unveränderte Fortführung des Gaststättenbetriebes Restaurant Parwan
+- TOP 8.29.: Schreiben Kreisverwaltungsreferat vom 20.02.24: Anzeige einer Versammlung unter freiem Himmel: Newroz Feier (Kurdisches Neujahrsfest)
+- TOP 8.30.: Schreiben Kreisverwaltungsreferat vom 21.02.24: Anzeige einer Versammlung unter freiem Himmel: EU-Wahl 2024
+- TOP 8.31.: Schreiben AWM vom 21.02.24: Wertstoffcontainer Zschokkestraße
+- TOP 8.32.: Schreiben Referat für Klima- und Umweltschutz vom 22.02.24: Ausschreibungshinweis Gebietsbetreuung München West und München Nord-Ost
+- TOP 8.33.: Beschluss der Vollversammlung vom 29.11.23: (U) Umsetzung des Öffentlichkeitsbeteiligungs- konzepts in der Landeshauptstadt München Einführung eines Einwohner*innenbudgets
+- TOP 8.34.: Beschluss der Vollversammlung vom 20.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.35.: Beschluss der Vollversammlung vom 20.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement und Geschäftsleitung/Sozialplanung
+- TOP 8.36.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.12.23: (U) Entwurf des Mehrjahresinvestitionsprogramms 2023 – 2027 Einzelplan 4 / Jugendamtsbereich
+- TOP 8.37.: Beschluss des Sozialausschusses vom 14.12.23: (U) Haushaltsplan 2024 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2024 Vollzug des Haushaltsplanes 2024 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung
+- TOP 8.38.: Beschluss des Mobilitätsausschusses vom 24.01.24: (U) Mehr Verkehrssicherheit und höhere Aufenthaltsqualität für alle Aktueller Stand und weiteres Vorgehen bei der Umsetzung des Radentscheids
+- TOP 8.39.: Beschluss des Bauausschusses vom 13.06.23: (U) Spielangebote für Mädchen, Jungen, trans, nicht-binäre und intergeschlechtliche junge Menschen – Gendergerechte Spielraumgestaltung, Handlungs- und Planungsempfehlungen
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: (U) Beteiligung der Bevölkerung bei Planungen zur Stadtentwicklung Empfehlung Nr. 20-26 / E 01322 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.06.2023
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: In-House-Vergabe (Bauträgerauswahl) Bebauungsplan mit Grünordnung Nr. 2027 „Zschokkestraße“, Teilfläche WA 3 OST an die GEWOFAG Wohnen GmbH bzw. Münchner Wohnen GmbH Stadtbezirk 25 Laim
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.24: 48. städtischer Fassadenwettbewerb; Auszeichnung der von der ehrenamtlichen Gutachterkommission vorgeschlagenen Fassaden im Rahmen des Fassadenwettbewerbs 2023
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Mobilitätspunkte in Laim (Weitergabe an Mobilitätsreferat)
+- TOP 9.2.: Unhaltbarer Zustand für Fußgänger am Laimer Platz (Beantwortung durch UA Mobilität)
+- TOP 9.3.: Fürstenrieder Straße (Weitergabe an Referat für Stadtplanung und Bauordnung und Info an Bürger*innen)
+- TOP 9.4.: Verkehrsführung Fürstenrieder Straße/Gotthardstraße (Weitergabe an Mobilitätsreferat)
+- TOP 9.5.: Stroblstraße (Weitergabe an Mobilitätsreferat und Baureferat)
+- TOP 9.6.: Schneebeseitigung (Weitergabe an Baureferat)
+- TOP 9.7.: Schwierigkeiten mit Telekommunikationsunternehmen (Weitergabe an das Telekommunikationsunternehmen)
+- TOP 9.8.: Baumfällung im Park an der U-Bahn Haltestelle Friedenheimerstraße (Vertagung in den UA Umwelt, Klima und Baumschutz)
+- TOP 9.9.: Nutzung zum ehemaligen Busbahnhof-Gelände in der Friedenheimerstraße (Weiterleitung an das Referat für Stadtplanung und Bauordnung)
+- TOP 9.10.: Möglichkeit einer Förderung eines internationalen Austauschs - Mittelschule Schrobenhausener Str. 15 (Weiterleitung an das Referat für Bildung und Sport)
