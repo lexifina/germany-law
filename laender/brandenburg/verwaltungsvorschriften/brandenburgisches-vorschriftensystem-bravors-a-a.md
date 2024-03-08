@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2023-03-09 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/belohnungen_1993
+- Datum: 2024-03-08 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/gem_erlass_bebauungsplaene
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -28,66 +28,101 @@ A |
 Aktuelle Fassung
 Änderungshistorie
 
-Aussetzung von Belohnungen für die Mitwirkung von Privatpersonen bei der Aufklärung strafbarer Handlungen oder der Ergreifung gesuchter Straftäter
+Gemeinsamer Erlass des Ministeriums für Infrastruktur und Raumordnung und des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Anwendung des § 8 Abs. 2 Satz 3 des Waldgesetzes des Landes Brandenburg auf Bebauungspläne
 
-vom 12. August 1993
+vom 14. August 2008
 
-(ABl./93, [Nr. 79], S.1549)
+(ABl./08, [Nr. 38], S.2189)
 
-zuletzt geändert durch Gemeinsamen Runderlass des MdJ und MIK vom 9. März 2023
+geändert durch Bekanntmachung des MLUK und MIL vom 8. März 2024
 
-(ABl./23, [Nr. 35], S.953)
+(ABl./24, [Nr. 14], S.244)
 
-1.1. Die Leitenden Oberstaatsanwälte können Belohnungen bis zu 2.500,00 EUR und mit Zustimmung des Generalstaatsanwalts Belohnungen bis zu 5.000,00 EUR für die Mitwirkung von Privatpersonen bei der Aufklärung strafbarer Handlungen oder der Ergreifung oder Wiederergreifung flüchtiger Straftäter aussetzen. Ebenso kann der Generalstaatsanwalt bei Straftaten, deren Verfolgung ihm obliegt, Belohnungen bis zu 5.000,00 EUR aussetzen. Führt die Mitwirkung von Privatpersonen zu der Erkenntnis, daß eine Straftat nicht stattgefunden hat, so kann ein Teil der ausgelobten Beträge ausgekehrt werden. Die Festsetzunge der Höhe des Teilbetrages wird in das Ermessen des Leiters der Auslobungsbehörde gestellt.
+Im Rahmen der kommunalen Planungshoheit sind die Kommunen befugt, bewaldete Flächen durch die Bauleitplanung zu überplanen und dadurch für eine andere Nutzungsart vorzusehen. Stehen der Waldumwandlung (das heißt Änderung der Nutzungsart) keine öffentlichen und/oder privaten Belange entgegen, werden die dafür erforderlichen Maßnahmen zum Ausgleich der Schutz- und Erholungsfunktion des Waldes entweder bereits im Bebauungsplan festgesetzt oder sind Gegenstand des späteren Zulassungsverfahrens (zum Beispiel Baugenehmigungsverfahren). Nachstehende Erläuterungen beziehen sich vorrangig auf die Umsetzung im qualifizierten Bebauungsplan gemäß § 30 des Baugesetzbuches (BauGB). Dieses Verfahren bietet die Möglichkeit, bereits im Vorfeld umfassende Regelungen festzulegen. Das hat den Vorteil, dass Investoren, Bauherren und die planende Gemeinde bereits in der Planungsphase genau wissen, welche Kompensationsmaßnahmen bei einer Inanspruchnahme des Waldes erforderlich werden. Da die Kompensationsmaßnahmen Teil der Investitionskosten sind, ist es von erheblicher Bedeutung, präzise Angaben dazu vorzulegen.
 
-Über die Auslobungen ist dem Ministerium der Justiz unverzüglich zu berichten. Die Höhe der Belohnung ist in dem vorgegebenen Rahmen in das pflichtgemäße Ermessen des Behördenleiters gestellt. Zu berücksichtigen sind dabei insbesondere die Schwere der Tat, die Gefährlichkeit des Straftäters für die Allgemeinheit, das öffentliche Interesse am Tatgeschehen und die sich aufgrund der Beweislage ergebenden Probleme bei der Strafverfolgung.
+1 Rechtsgrundlage
 
-Belohnungen über 5.000,00 EUR dürfen nur mit Zustimmung des Ministeriums der Justiz ausgesetzt werden.
+Wird Wald im Plangebiet in Anspruch genommen, bedarf es gemäß § 8 Abs. 1 Satz 1 des Waldgesetzes des Landes Brandenburg (LWaldG) der Genehmigung der unteren Forstbehörde. Dieser Genehmigung steht gleich, wenn nach § 8 Abs. 2 Satz 3 LWaldG in einem rechtsgültigen Bebauungsplan nach § 30 BauGB eine anderweitige Nutzung vorgesehen ist, sofern darin die hierfür erforderlichen forstrechtlichen Kompensationen zum Ausgleich der nachteiligen Wirkungen festgesetzt sind. In diesem Fall werden alle Aussagen zu forstrechtlichen Kompensationsmaßnahmen im Bebauungsplan getroffen. Dadurch wird die Beteiligung der Forstbehörde im Zulassungsverfahren (Baugenehmigungsverfahren) entbehrlich.
 
-1.2. In der Auslobung ist zum Ausdruck zu bringen:
+Der Träger der Bauleitplanung muss sich bereits zum Beginn der Planungen entscheiden, wie er die Vorschriften zum Umweltschutz umsetzen möchte. In der Bauleitplanung ist nicht nur darüber zu entscheiden, ob sich die Eingriffe in Natur und Landschaft im Planbereich rechtfertigen lassen, sondern auch darüber, ob und in welchem Umfang angesichts vorrangiger städtebaulicher Erfordernisse für unvermeidbare Beeinträchtigungen Ausgleich und Ersatz zu leisten ist (vgl. BATTIS/KRAUTZBERGER/LÖHR Kommentar BauGB, 10. Auflage, § 1a, Rn 23). Das Baugesetzbuch versteht unter Ausgleichsmaßnahmen auch Ersatzmaßnahmen, vgl. § 200a Satz 1 BauGB. Diese müssen nicht in unmittelbarem räumlichen Zusammenhang mit dem Eingriff in Natur und Landschaft stehen.
 
-für welche Art der Mitwirkung bei der Aufklärung der Straftat die Belohnung ausgesetzt ist (z. B. für Hinweise, die zur Ermittlung oder Ergreifung des Täters führen, oder für die Herbeischaffung von Beweismitteln),
+Gemäß § 1a Abs. 3 Satz 2 bis 4 BauGB erfolgt der Ausgleich durch geeignete Darstellungen und Festsetzungen nach den §§ 5 und 9 BauGB als Flächen oder Maßnahmen. Soweit dies mit einer nachhaltigen städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist, können die Darstellungen und Festsetzungen auch an anderer Stelle als am Ort des Eingriffs erfolgen. Anstelle von Darstellungen und Festsetzungen können auch vertragliche Vereinbarungen gemäß § 11 BauGB getroffen werden. Die Kommune muss durch die vertraglichen Regelungen sicherstellen, dass der tatsächliche Erfolg der Kompensation hierdurch ebenso sichergestellt wird wie durch eine ansonsten mögliche bauplanerische Festsetzung (BATTIS/KRAUTZBERGER/ LÖHR a. a. O., § 1a, Rn 27).
 
-daß über die Zuerkennung und Verteilung der Belohnung unter Ausschluß des Rechtsweges entschieden wird,
+2 Bebauungspläne gemäß § 30 BauGB und forstrechtliche Kompensationsanforderungen
 
-daß die Belohnungen ausschließlich für Privatpersonen und nicht für Beamte und die ihnen gleichgestellten Angestelltengruppen, zu deren Berufspflicht die Verfolgung strafbarer Handlungen gehört, bestimmt ist,
+Damit ein Bebauungsplan[1] die Anforderungen zur Waldumwandlung und deren Kompensation gemäß § 8 Abs. 2 Satz 3 LWaldG erfüllt, muss er zu nachfolgend genannten Inhalten Aussagen enthalten. Die Kompensationsmaßnahmen für die Waldinanspruchnahme werden im B-Plan nach Art und Umfang geregelt. Die zeitliche Abfolge der Maßnahmen, die besonderen Genehmigungstatbestände (hier nach Naturschutzrecht, UVP-Recht) werden ebenfalls abschließend im B-Plan dargelegt.
 
-welche Stellen Mitteilungen entgegennehmen.
+Art und Umfang der Kompensationsmaßnahme - nach Forstrecht
 
-Ferner sollen in der Auslobung die Umstände, die Anhaltspunkte für Mitteilungen aus der Bevölkerung geben können (z. B. Täterbeschreibung oder Hinweise auf benutzte Tatwerkzeuge oder Pkw's), möglichst genau aufgeführt werden. Der Untersuchungszweck darf hierdurch jedoch nicht gefährdet werden.
 
-1.3. Die Auslobung ist durch Bekanntgabe in den Medien (vornehmlich in den Tageszeitungen), durch Plakatanschlag oder in sonstiger Weise bekanntzumachen.
+Erstaufforstungsfläche
 
-1.4. Über die Zuerkennung, Verteilung und Auszahlung des ausgelobten Betrages entscheidet der Behördenleiter, der die Belohnung ausgesetzt hat, es sei denn, daß sich das Ministerium der Justiz im Einzelfall die Entscheidung vorbehalten hat.
+und/oder Waldumbaufläche
 
-Soweit das Ministerium der Justiz sich die Entscheidung nach Absatz 1 vorbehalten hat, erstattet der Behördenleiter den für diese Entscheidung erforderlichen Bericht nach rechtskräftiger Erledigung der Strafsache. In Ausnahmefällen kann der Bericht auch schon vorher erstattet und die Belohnung ausgezahlt werden. Ein solcher Ausnahmefall kann namentlich dann vorliegen, wenn der Täter in erster Instanz verurteilt wurde und er sein Rechtsmittel auf das Strafmaß beschränkt hat, wenn der Täter freigesprochen wurde, weil er in Notwehr gehandelt hat oder unzurechnungsfähig war, oder wenn das Verfahren aus einem solchen Grunde eingestellt wurde. Ist die Belohnung für Hinweise ausgesetzt worden, die zur Ergreifung einer bestimmten Person führen, so kann der Bericht auch schon nach der Festnahme dieser Person erstattet werden. Der Bericht, dem die Strafakten beizufügen sind, muß einen begründeten Vorschlag für die Verteilung der Belohnung enthalten. Es sind unter Angabe der Fundstelle in den Akten alle Personen aufzuführen, die aus eigenem Antrieb zur Aufklärung der Straftat beigetragen haben. Ferner muß aus dem Bericht zu ersehen sein, in welcher Weise und mit welchem Beitrag jede einzelne Person bei der Aufklärung mitgewirkt hat. Soll eine Person wegen der Mitteilungen, die sie der Polizei oder einer anderen Behörde gemacht hat, bei der Verteilung der Belohnung berücksichtigt werden, so wird diese Behörde in aller Regel zu hören sein.
+und/oder Waldrandgestaltung
 
-Einer aktenkundig zu machenden besonderen Begründung bedarf es, wenn ausnahmsweise auch solche Personen an der Belohnung beteiligt werden sollen, die erst durch die Staatsanwaltschaft, die Polizei oder eine andere Behörde zu ihren Angaben veranlaßt worden sind. Dies gilt auch für den Fall, daß der Behördenleiter die Entscheidung über die Zuerkennung, Verteilung und Auszahlung des ausgelobten Betrages in eigener Zuständigkeit trifft.
+gegebenenfalls weitere Maßnahmen mit Flächenangabe oder anderer geeigneter Bezugsgrößen
 
-Soweit das Strafverfahren aus besonderen Gründen nicht zu einem rechtskräftigen Urteil führen kann, ist der Bericht nach der Einstellung oder anderweitiger Erledigung des Verfahrens zu erstatten.
+Maßnahmebeschreibung
 
-1.5. Die vorstehenden Bestimmungen gelten entsprechend für die Aussetzung von Belohnungen für die Ergreifung oder Wiederergreifung flüchtiger Personen, gegen die ein Strafverfahren anhängig ist oder die bereits rechtskräftig verurteilt worden sind. Den nach Nr. 1.4 erforderlichen Bericht erstattet der Leitende Oberstaatsanwalt nach Ergreifung der gesuchten Person.
 
-1.6. Von den aufgrund dieser Bestimmung zu leistenden Ausgaben sind zu buchen:
+Pflanzenanzahl
 
-die Kosten der Bekanntmachung als Auslagen in Rechtssachen,
+und Baumart(en)
 
-die Belohnungen bei Kap. 04040 Tit. 532 19.
+und Kulturpflege bis zur gesicherten Kultur
 
-2. Soweit es im Einzelfall angemessen erscheint, auch ohne eine Auslobung an Privatpersonen für deren Mitwirkung bei der Aufklärung einer Straftat oder der Ergreifung oder Wiederergreifung flüchtiger Straftäter eine Belohnung aus Mitteln der Justizverwaltung zu zahlen, ist dem Ministerium der Justiz zu berichten. Die Bestimmungen in Nr. 1.4  Abs. 2 bis 4 gelten hierfür entsprechend.
+und Nachbesserung
 
-3. Geldbeträge, die der Staatsanwaltschaft von privater Seite zur Auslobung von Belohnungen oder zur Verteilung an die in einer Strafsache tätig gewordenen Justiz- und Polizeibeamten angeboten werden, dürfen nicht angenommen werden. Im Rahmen der Veröffentlichung von amtlichen Auslobungen kann auf private Auslobungen hingewiesen werden. Im übrigen ist auf die Möglichkeit einer eigenen Auslobung gemäß §§ 657 bis 660 BGB hinzuweisen.
+Fristsetzung für Maßnahmedurchführung
 
-4. Für die Polizeibehörden gelten die vorstehenden Ausführungen sinngemäß. Ergänzend wird folgendes bestimmt:
+Zeitpunkte für Zwischen- und Schlussabnahmen
 
-4.1. Die Polizeipräsidien und das Landeskriminalamt, soweit es in eigener Zuständigkeit tätig wird, sind berechtigt, nach Maßgabe verfügbarer Haushaltsmittel für die Mitwirkung von Privatpersonen bei der Aufklärung strafbarer Handlungen oder der Ergreifung flüchtiger Straftäter Belohnungen bis zu 2.500,00 EUR auszusetzen.
+Besondere Genehmigungstatbestände
 
-4.2. In Ausnahmefällen sind die zuständigen Polizeibehörden berechtigt, Geldbelohnungen auch ohne Auslobung zu gewähren. Diese sollen in der Regel 500,00 EUR nicht übersteigen.
 
-Erscheint eine Geldbelohnung nicht angebracht, können Sachzuwendungen gewährt werden (z. B. Buch, Blumenstrauß).
+Entlassung beziehungsweise Ausnahmegenehmigungen für Schutzgebiete nach Naturschutzrecht oder Biotope gemäß § 32 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG)
 
-4.3. Die Kosten für die Bekanntmachung der Auslobung sowie die Kosten für Geldleistungen und Sachzuweisungen sind in den dafür vorgesehenen Kapiteln und Titeln nachzuweisen.
+Prüfpflichten gemäß dem Gesetz über die Umweltverträglichkeitsprüfung (UVPG) und dem Brandenburgischen Gesetz über die Umweltverträglichkeitsprüfung (BbgUVPG) bei Erreichen der Schwellenwerte für Waldrodung und/oder Erstaufforstung
 
-5. Staatsanwaltschaften und Polizeibehörden sollen sich über beabsichtigte Auslobungen gegenseitig informieren und abstimmen.
+Erstaufforstungsgenehmigung für Ausgleichs- und Ersatzflächen
 
-6. Die Allgemeine Verfügung des Ministers der Justiz vom 29. Mai 1991 (4701-III.1) und der Runderlaß des Ministeriums des Innern vom 24. Juni 1992 (IV/8-6451; Amtsblatt 1993 S. 1055) werden aufgehoben und durch diesen Gemeinsamen Runderlaß ersetzt.
+Flächenverfügbarkeit durch unwiderrufliche Sicherung der Ersatz- und Ausgleichsflächen bis zum Zeitpunkt der Inanspruchnahme.
+
+3 Flächenbereitstellung und Umsetzung der Maßnahmen
+
+3.1 Flächenbereitstellung
+
+Die planende Gemeinde hat verschiedene Möglichkeiten, Flächen für die Kompensation einer Waldinanspruchnahme bereitzustellen.
+
+Die Flächen liegen im B-Plangebiet selbst. Die erforderlichen Flächen werden festgesetzt und textlich in der Begründung beziehungsweise durch den Umweltbericht näher beschrieben.
+
+Die Flächen liegen im Gemeindegebiet, aber außerhalb des Geltungsbereiches des B-Planes. Hier ist gegebenenfalls ein Rückgriff auf den Flächennutzungsplan der Gemeinde oder eine Änderung des Flächennutzungsplanes angezeigt.
+
+Die Flächen liegen außerhalb der Gemeinde. Hierbei ist eine Beteiligung der betroffenen anderen Gemeinden erforderlich. Die Flächen müssen über vertragliche Regelungen gesichert werden. Außerdem ist die potenzielle Genehmigungsfähigkeit für Erstaufforstungen seitens der unteren Naturschutzbehörde und der unteren Forstbehörde vorab abschließend zu klären.
+
+Eine unwiderrufliche Sicherung der Ausgleichs- und Ersatzflächen ist im Zusammenhang mit dem B-Plan erforderlich. Das kann entweder durch zivilrechtliche Verträge oder öffentlich-rechtliche Verträge erfolgen. Die tatsächliche Verfügbarkeit der Flächen muss gewährleistet sein. Hierbei sind gegebenenfalls langfristige Pachtverträge und deren Kündigungsmodalitäten zu berücksichtigen.
+
+3.2 Umsetzung der Ersatzmaßnahmen
+
+Eine parzellenweise Umsetzung ist zielführend bei einer schrittweisen Inanspruchnahme des Waldes. Jeder einzelne Vorhabensträger erbringt seine Kompensationsmaßnahme und erhält dafür eine Fristsetzung zur Durchführung der Maßnahmen.
+
+Eine Einmalleistung ist gerechtfertigt, wenn der Wald zeitgleich in Anspruch genommen wird. Das kommt in Betracht bei gewerblichen Planungen. Die planende Gemeinde oder der Investor erbringt die Kompensation gemäß Fristsetzung in zeitlichem und räumlichem Zusammenhang.
+
+Eine Einmalleistung ist auch als Vorleistung (vorgezogene Maßnahme) möglich. Falls es allerdings nicht zur Inanspruchnahme der Waldflächen kommt, wurde gegebenenfalls zuviel erbracht. Dieser Nachteil könnte durch eine Weitergabe der Flächen an andere Kompensationspflichtige aufgewogen werden.
+
+4 Verfahrenshinweise
+
+Werden im B-Plan nur teilweise, unvollständige beziehungsweise nicht hinreichende Regelungen zur Waldkompensation getroffen, darf von § 8 Abs. 2 Satz 3 LWaldG kein Gebrauch gemacht werden. In diesem Fall ist über die Waldumwandlung im anschließenden konkreten Genehmigungsverfahren zu entscheiden (zum Beispiel Baugenehmigungsverfahren) und die untere Forstbehörde muss beteiligt werden.
+
+Beabsichtigt die Gemeinde in einem Bebauungsplan die Kompensation einer geplanten Waldumwandlung umfassend zu regeln, ist bereits in der Phase der frühzeitigen TÖB-Beteiligung gegenüber der unteren Forstbehörde eine entsprechende Erklärung zielführend. Dann kann die Gemeinde auf Hinweis der Forstbehörde gegebenenfalls noch unvollständige Planungsunterlagen nachbessern und den Planentwurf vervollständigen.
+
+Außerdem sind durch die Regelungen der Kompensation einer Waldinanspruchnahme andere Behörden ebenfalls fachlich betroffen (zum Beispiel untere Naturschutzbehörde). Daher müssen spätestens zu Beginn der öffentlichen Auslegung und der Behördenbeteiligung die Unterlagen vollständig vorliegen, um einer Beurteilung zugängig zu sein. Das sichert außerdem die Einhaltung des zeitlichen Ablaufes für den Träger der Planung.
+
+[1] Dazu zählen:
+
+qualifizierter Bebauungsplan (§ 30 Abs. 1 BauGB)
+
+vorhabenbezogener Bebauungsplan (§ 30 Abs. 2 BauGB)
+
+einfacher Bebauungsplan (§ 30 Abs. 3 BauGB).
