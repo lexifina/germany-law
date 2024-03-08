@@ -1,0 +1,51 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2024-03-08T17:15:00+01:00
+- Ende: 2024-03-08T21:25:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaFOVMMZ5xmEssv-6sqYp7k
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4927
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZab9QKfX9OFDxfvqjPW4SxDwBKOc8Ph46y4RoxxqdOFE/Einladung_Rat_08.03.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpScpPlBCGfr-gFu_vTQo5HXFXF--5l1SFtxA7luOhn/Oeffentliche_Niederschrift_Rat_08.03.2024.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.2a: Antrag auf Absetzung des Tagesordnungspunktes A.9 zur Beratung im Bau- und Umweltausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 16.02.2024
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Entwurf der Haushaltssatzung 2024 sowie mittelfristige Ergebnis- und Finanzplanung 2025 - 2027 hier: Einbringung des Entwurfs der Haushaltssatzung 2024 mit ihren Anlagen
+- TOP A.7a: Haushaltssatzung 2024 sowie mittelfristige Ergebnis- und Finanzplanung 2025 - 2027 hier: Verabschiedung der Haushaltssatzung 2024 mit ihren Anlagen - Mit 24 Stimmen dafür und 18 Stimmen dagegen und ohne Enthaltung wird folgender Gesamtbeschluss gefasst:
+- TOP A.7b: Stellenplan für den Haushalt 2024 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c: Änderungsantrag: Haushaltsbegleitbeschluss der Grünen 2024 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7d: Haushaltsbegleitbeschluss (Die Linke): Armutsbekämpfung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7e: Haushaltsbegleitbeschluss (Die Linke): Jugendzentren - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7f: Haushaltsbegleitbeschluss (Die Linke): City-Wache - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7g: Haushaltsbegleitbeschluss: Gemeinsamer Antrag der CDU und der SPD - Mit 24 Stimmen dafür, 18 Stimmen dagegen und keiner Enthaltung wird folgender Haushaltsbegleitbeschluss gefasst.
+- TOP A.8: Genehmigung von überplanmäßigen und außerplanmäßigen Aufwendungen und/oder Auszahlungen gem. § 83 GO NRW für das Haushaltsjahr 2023 - Mit 38 Stimmen dafür, drei Ablehnungen und einer Enthaltung wird folgender Beschluss gefasst. 
+- TOP A.9: Städtebauliche Entwicklung der Flächen zwischen Janup und Löhrstraße als Lückenschluss des Quartiers Radewig - Mit 26 Stimmen dafür, 15 Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9a: Gemeinsamer Antrag der FDP, Bürger für Herford, Die Linke, Liste 2004 und UWG HBB: Prüfauftrag an die Verwaltung zur Errichtung eines Kulturhauses am Janup sowie zur Sanierung des Stadttheaters - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Projekt "OWL-Forum"
+- TOP A.10a: Beschlussantrag zum OWL-Forum - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10b: Antrag auf Beschlussänderung des Ratsmitgliedes Andreas Gorsler (CDU) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Steuerung von Drittorganisationen:
+- TOP A.11a: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Geschäftsordnung für die Geschäftsführung - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst.
+- TOP A.11b: Pro Herford GmbH: Grobkonzept Weihnachtsmarkt 2024, Änderung Wirtschaftsplan 2024 - Mit 28 Stimmen dafür, zwei Stimmen dagegen und zehn Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.12: Gremienbesetzungen
+- TOP A.12a: Mitwirkung des Seniorenbeirates in städtischen Ausschüssen hier: Entsendung eines Mitgliedes des Seniorenbeirates als beratendes stellvertretendes Mitglied in den Verkehrsausschuss gem. § 3 der Satzung des Seniorenbeirates - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.12b: Antrag zur Gremienumbesetzung (CDU) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Änderung der „Hauptsatzung des Rates der Hansestadt Herford“ zur Anpassung an die neue EntschVO NRW - Mit 39 Stimmen dafür und mit einer Stimme dagegen wird folgender Beschluss gefasst:
+- TOP A.14: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.15: Jugendhilfeplanung und Kindertagesbetreuung: Kindertagesbetreuungsbedarfsplanung 2024/25 - Einstimmig und mit drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.16: Familienhilfen: Neufassung der öffentlich-rechtlichen Vereinbarung zwischen der Stadt Bünde, dem Kreis Herford und der Hansestadt Herford zur Durchführung des Babylotsendiensts im Klinikum Herford - Mit 38 Stimmen dafür und zwei Stimmen dagegen wird folgender Beschluss gefasst:
+- TOP A.17: Durchführung des Ostervolksfestes im Bereich "Auf der Freiheit/ Janup" - Mit 37 Stimmen dafür, einer Stimme dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Durchführung von verkaufsoffenen Sonntagen am 14.04., 25.08. und 13.10.2024 - Mit 29 Stimmen dafür, fünf Stimmen dagegen und sechs Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.19: Mitteilungen
