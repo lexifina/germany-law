@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-11T17:00:00+01:00
+- Ende: 2024-03-11T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29636
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29636
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Stadt Köln unterzeichnet Charta zum Landesprogramm „Vereinbarkeit Beruf & Pflege“ - Kenntnis genommen
+- TOP 1.2: Förderprogramm "Gleichstellung von Frauen und Männern 2024" - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Tätigkeitsbericht 2023 des Büros für Europa und Internationales - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung mehrerer mündlicher Anfragen der Fraktion Bündnis 90/Die Grünen und des sachkundigen Einwohners Axel Hopfauf aus der Sitzung des AVR vom 27.11.2023 (1416/2023) betreffend Sachstandsbericht Prozess "Postkoloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: TOP 4.1 verschoben auf TOP 6.6
+- TOP 4.2: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 4.3: Kompensationszahlung für Flugreisen 2023 - Kenntnis genommen
+- TOP 4.4: Bilanz Straßenkarneval 2024 - Kenntnis genommen
+- TOP 4.5: Stadtradeln 2024 - Kenntnis genommen
+- TOP 4.6: Jahresreporting der digitalen Kanäle für die externe Kommunikation - Kenntnis genommen
+- TOP 4.7: Übernahme von Auszubildenden mit Behinderung - Kenntnis genommen
+- TOP 4.8: polisMOBILITY 2024 | Anpassung des Veranstaltungskonzeptes - Kenntnis genommen
+- TOP 4.9: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 11. März 2024 - Kenntnis genommen
+- TOP 4.10: Mitteilung und abschließende Information zum Auswahlverfahren der Deutzer Volksfeste (Frühlings- und Herbstvolksfest) 2024 - Kenntnis genommen
+- TOP 4.11: Arbeitskräftemangel bekämpfen - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Silvesterfeuerwerk 2023/2024" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis90/Die Grünen und der Volt-Fraktion aus der Sitzung des AVR vom 29.01.2024 betreffend "Silvesterfeuerwek 2023/2024" (AN/0143/2022) - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - zurückgestellt
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales vom 25.09.2023 betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - zurückgestellt
+- TOP 6.3: Anfrage der Fraktionen CDU und Volt betreffend "Fahrdienstleister Uber" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion und der Volt-Fraktion betreffend "Fahrdienstleister UBER" (AN/0380/2024) - Kenntnis genommen
+- TOP 6.4: Anfrage der AfD-Fraktion betreffend "Sachstand fristlose Kündigung einer Mitarbeiterin der Kölner Stadtverwaltung" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion für die Sitzung des AVR am 11.03.2024 (AN/0401/2024) betreffend "Sachstand fristlose Kündigung einer Mitarbeiterin der Kölner Stadtverwaltung" - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Gibt es ein Gesamtkonzept für die künftige Büroflächenplanung der Verwaltung?" - zurückgestellt
+- TOP 6.6: Einstellungsquote von Menschen mit Behinderung bei der Stadt und weitere Fragen zum Inklusionsbericht 2022; Referenz: AN/2085/2023 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Anfrage der AfD-Fraktion betreffend "Reaktivierung von Schutzräumen"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Ehrenamt in Köln stärken: Einrichtung einer/s Ehrenamtslots*in und Erstellung eines Konzeptes zur Förderung des ehrenamtlichen Engagements in den Veedeln und der Brauchtumspflege" - geändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion betreffend "Bilder über das kulturelle Leben, die Vielfalt, den Alltag und die Attraktivität Kölns in einer Bilddatenbank kostenlos und gemeinfrei zur Verfügung stellen" - endgültig abgelehnt
+- TOP 8.3: Antrag der FDP-Fraktion betreffend "Stadtweite Einbürgerungsfeiern" - endgültig abgelehnt
+- TOP -: Zusatzantrag der Frationen Bündnis 90/Die Grünen, CDU, Volt, Klima Freunde & GUT betreffend "Stadtweite Einbürgerungsfeiern" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend "Stadtweite Einbürgerungsfeiern" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2024 - 30.06.2025 - ungeändert beschlossen
+- TOP 10.2: Neubau Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - Baubeschluss - geändert beschlossen
+- TOP 10.3: 16. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert beschlossen
+- TOP 10.4: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - ohne Votum in nachfolgende Gremien
+- TOP -: TOP 10.4 Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Erlass einer ordnungsbehördlichen Verordnung zur Verhütung von Unfällen mit Kampfmitteln im ehemals militärisch genutzten Bereich der Wahner Heide. - ungeändert beschlossen
+- TOP 10.6: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
