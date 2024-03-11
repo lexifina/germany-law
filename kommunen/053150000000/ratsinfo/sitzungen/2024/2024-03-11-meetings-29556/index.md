@@ -1,0 +1,66 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-11T16:00:00+01:00
+- Ende: 2024-03-11T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29556
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29556
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung StEB Sanierung des Klettenbergparkweihers
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Neue Bürgereingaben
+- TOP 5.1.1: Bürgereingabe nach § 24 GO - Erweiterung der Benennung des Auerbachplatzes in Köln-Sülz um Ida, Edith und Dr. Lisbeth Auerbach - ungeändert beschlossen
+- TOP 5.1.2: Bürgereingabe nach § 24 GO – Verbesserungen für den Radverkehr in Köln-Weiden, Aktenzeichen: 100/23 - geändert beschlossen
+- TOP 5.1.3: Bürgereingabe nach § 24 GO – Parken auf Grünflächen, Aktenzeichen 203/23 B - ungeändert beschlossen
+- TOP 5.2: Mitteilungen zur Bürgereingaben
+- TOP 5.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Einrichtung Tempo 30 in Köln Lövenich – Moltkestraße; Geschwindigkeitsreduzierung / Fußgängerüberweg an der Kreuzung Saarstraße, Aktenzeichen 220/23 - Kenntnis genommen
+- TOP 5.2.2: Bearbeitung von Bürgereingaben nach § 24 GO NRW im Dezernat für Mobilität - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der BV3 vom 28.08.2023 (AN/1387/2023) betreffend: "Überprüfung der Möglichkeit zur Errichtung einer Stadtteilbibliothek auf ehem. Büroflächen des Rhein-Centers in Köln-Weiden" - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Lindenthal vom 29.01.2024 betreffend der Schaffung der Barrierefreiheit an 10 oberirdischen Haltestellen der KVB Linie 13 (AN/0122/2024) - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Lindenthal vom 21.01.2024 betreffend "Verkehrsentwicklung auf der Luxemburger Straße in Sülz und Klettenberg", AN/0118/2024. - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Bus Widdersdorf
+- TOP 7.2.2: Anfrage zur Haltestelle Bahnstraße
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Fahrradnadeln vor dem Gottesweg 153 - ungeändert beschlossen
+- TOP 8.1.2: Überprüfung der Möglichkeit einen alten Durchgang zur Weißhausstraße in Köln – Sülz - ungeändert beschlossen
+- TOP 8.1.3: Abbau von Telefonzellen - geändert beschlossen
+- TOP 8.1.4: Querungshilfen auf der Friedrich-Schmidt-Straße - ungeändert beschlossen
+- TOP 8.1.5: Sicherung Gerhard-Marcks-Weg, Egelspfad - geändert beschlossen
+- TOP 8.1.6: Maßnahmen zur Verkehrssicherheit am Zufahrtsweg zum Kindergarten in Verlängerung der Kronstädter Straße - geändert beschlossen
+- TOP 8.1.7: Dringlichkeitsantrag Platane Belvedere - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63457/03, Arbeitstitel: Wohnbebauung Alsdorfer Straße in Köln-Braunsfeld/Ehrenfeld - ungeändert beschlossen
+- TOP 9.2.2: Änderung des Bebauungsplanes Nummer 63459/04 - Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Umsetzung von Grüngleisen im Gleisnetz der Kölner Verkehrs-Betriebe AG (KVB) - Kenntnis genommen
+- TOP 11.3.2: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 11.3.3: Aufstellung einer Mobiltoilette im Bereich Nikolausplatz - Kenntnis genommen
+- TOP 11.3.4: Stadtradeln 2024 - Kenntnis genommen
+- TOP 11.3.5: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen
+- TOP 11.3.6: Mitteilung über die erstmalige Herstellung der Nebenanlagen inkl. Anschluss der öffentl. Verkehrsfläche an den vorhandenen Kanal auf der Hauptstr./ den Freimersdorfer Weg in K-Widdersdorf für den Abschnitt Haltestelle Indianapolisstr. bis Haus Rath - Kenntnis genommen
+- TOP 11.3.7: Provisorische Erschließung des Schulstandortes Wasseramselweg und Optimierung des umliegenden Straßenlandes am Girlitzweg - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
