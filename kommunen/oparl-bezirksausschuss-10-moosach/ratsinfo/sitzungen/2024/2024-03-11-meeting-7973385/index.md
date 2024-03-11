@@ -1,0 +1,57 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973385
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973385
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 19.02.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Erneuerung der Eisenbahnunterführung Dachauer Straße
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Hanauer Str. 46
+- TOP 3.3.1.2.: Triebstr. 16
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Haldenbergerstr. 12
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Erhöhung der Verkehrssicherheit: Errichtung eines vorgezogenen Seitenraums (sog. "Gehwegnase") an der Feldmochinger Straße, Höhe Einmündung Gerastraße
+- TOP 4.1.2.: Bestellung einer städt. Leistung: Aufstellen eines Dialog-Displays am Standort Feldmochinger Str. 55-59
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K. d. ö. R. Demokratie im Einsatz – Demokratiemobil München am 07.06.2024 800,00 Euro / Az. 0262.0-10-0371
+- TOP 5.2.: (E) Stadtbezirksbudget PSV München e.V. Ludwig-Jall-Sportfest vom 11.05.2024 8.290,00 Euro / Az. 0262.0-10-0369
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 6.2.: Perspektive München - Entwurf des Stadtentwicklungsplans Step 2040 - "München - Stadt im Gleichgewicht"
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund: ab Olympiapark "Wings for Life 2024" am 05.05.2024
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Errichtung zweier Bedarfsampeln für die Freiwillige Feuerwehr Moosach während der Zeit der Bauarbeiten im Fernwärmenetz [BA-Antrag Nr. 20-26/B 04980; Arbeiten beginnen nicht vor 2026: Vorschläge BA10 werden in Vorplanungsgespräche aufgenommen.)
+- TOP 7.2.: Update zu BA-Antrag Nr. 14-20/B 07296: Riesstr. 4 bis 86 - Aufnahme der Olympia-Pressestadt in den Umgriff für die Bewerbung "Welterbe Olympiapark [Die für "Welterbe-Nominierung" relevanten Merkmale sind bei der Olympia-Pressestadt nicht ausreichend gegeben, jedoch fällt sie in den schützenswerten Bereich und soll künftig unter Ensembleschutz gestellt werden.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Wechsel des Stadttaubenmanagements vom RKU zum KVR
+- TOP 8.2.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 8.3.: Sachstandsbericht zu den SIGNA-Baustellen in der Landeshauptstadt München
+- TOP 8.4.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 8.5.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch: Eggmühler Straße - nicht-öffentlich -
+- TOP 8.6.: Mobilfunk: geplante Errichtung von Mobilfunksendeanlagen (diverse Suchkreise im 10. Stadtbezirk) - nicht-öffentlich -
+- TOP 6.4.: N_ Anzeige über das Abbrennen eines Feuerwerks auf Privatgrund: Moosacher St.- Martinsplatz 2: „20jähriges Bestehen „Pelkovenschlössl“ am 15.03.2024
+- TOP 3.3.1.3.: N_ Moosburger Str. 18 (Errichtung Mobilfunkanlage)
+- TOP 6.5.: N_ Beschlussentwurf: Genehmigungsantragsauflagen für die Panzerteststrecke
+- TOP 6.6.: N_ Beschlussentwurf: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 6.7.: N_ MVG-Leistungsprogramm 2025
+- TOP 3.2.2.: N_ Protokoll der Unterausschusssitzung zum Thema "Eisenbahnunterführung Dachauer Straße" am 05.03.2024
