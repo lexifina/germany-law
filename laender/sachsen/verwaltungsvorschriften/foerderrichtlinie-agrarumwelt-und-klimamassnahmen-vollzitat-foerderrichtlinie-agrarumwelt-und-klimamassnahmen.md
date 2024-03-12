@@ -1,8 +1,8 @@
 # Förderrichtlinie Agrarumwelt- und Klimamaßnahmen Vollzitat: Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.2
+- Datum: 2024-03-12 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.10.2023
+12.03.2024
 bis
-11.03.2024
+26.08.2024
 
 Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
@@ -339,7 +339,7 @@ Die Förderung erfolgt nur für die der Maßnahme entsprechenden zulässigen Bod
 Allgemeine Förderverpflichtungen
 
 
-Die Begünstigten haben folgende allgemeine Förderverpflichtungen für die Dauer des Verpflichtungszeitraums gemäß Teil C Ziffer II Nummer 1 einzuhalten:
+Die Begünstigten haben folgende allgemeine Förderverpflichtungen für die Dauer des Verpflichtungszeitraums gemäß Teil D Ziffer II Nummer 1 einzuhalten:
 
 
 a)
@@ -657,6 +657,9 @@ Sonstiges:
 Die Maßnahme kann maximal im Umfang von drei Prozent des Ackerlandes des antragstellenden Betriebes gefördert werden.
 
 
+Abweichend von Satz 1 ist ein Umfang von bis zu 0,5 Hektar auch dann begünstigungsfähig, wenn dies mehr als 3 Prozent des förderfähigen Ackerlandes des Betriebs ausmacht.
+
+
 Die Maßnahme kann auf Flächen, die nach Öko-Regelung 1a (gemäß § 20 Absatz 1 GAPDZG) angemeldet sind, durchgeführt werden.
 
 4.1.7
@@ -739,6 +742,9 @@ Je Bruttoschlag werden Flächen bis 10 ha gefördert.
 Die Maßnahme kann maximal im Umfang von drei Prozent des Ackerlandes des antragstellenden Betriebes gefördert werden.
 
 
+Abweichend von Satz 1 ist ein Umfang von bis zu 0,5 Hektar auch dann begünstigungsfähig, wenn dies mehr als 3 Prozent des förderfähigen Ackerlandes des Betriebs ausmacht.
+
+
 Die Maßnahme kann auf Flächen, die nach Öko-Regelung 1a (gemäß § 20 Absatz 1 GAPDZG) angemeldet sind, durchgeführt werden.
 
 4.1.8
@@ -759,7 +765,7 @@ folgende Förderverpflichtungen müssen von den Begünstigten eingehalten werden
 
 b)
 
-Anbau von Getreide zur Körnerernte entweder mindestens jedes zweite Verpflichtungsjahr oder bei zweijährigem Ackerfutterbau Anbau von Getreide zur Körnerernte mindestens dreimal in fünf Jahren,
+Anbau von Getreide zur Körnerernte entweder mindestens jedes zweite Verpflichtungsjahr, aber mindestens dreimal in fünf Jahren oder bei zweijährigem Ackerfutterbau Anbau von Getreide zur Körnerernte mindestens dreimal in fünf Jahren,
 
 
 c)
@@ -2406,8 +2412,7 @@ ortsfeste Durchführung der Maßnahme.
 Sonstiges:
 
 
-Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 5 des Gesetzes vom 3. Juli 2023 (BGBl. 2023 I Nr. 176) geändert worden ist, in der jeweils geltenden Fassung, liegen.
-
+Die Fläche muss in einem Vorrang- oder Vorbehaltsgebiet „Waldmehrung“ entsprechend der aktuellen Regionalplanung oder in einem festgesetzten „Hochwasserentstehungsgebiet“ gemäß § 76 Absatz 1 Satz 2 des Sächsischen Wassergesetzes, in Verbindung mit § 78d Absatz 2 Satz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen.
 
 Die Maßnahme wird nach Maßgabe und unter Einhaltung der Voraussetzungen von Artikel 41 der Verordnung (EU) 2022/2472 umgesetzt. Bewilligungen kommen nur unter Beachtung der einschlägigen Veröffentlichungs- und Informationspflichten in Betracht.
 
@@ -2488,14 +2493,14 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie ÖBL/2023
 
 
-Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 (SächsABl. 2023, S. 334) ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
+Eine Kombination von Maßnahmen dieser Förderrichtlinie mit einer Bewirtschaftung nach der Förderrichtlinie Ökologischer/Biologischer Landbau vom 4. Oktober 2022 (SächsABl. 2023, S. 334), die durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1420) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, ist möglich. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Maßnahmen der Förderrichtlinie ÖBL/2023 sind unter https://www.lsnq.de/auk2023 veröffentlicht. Die Bemessung der Zuwendungen erfolgt in Abhängigkeit der Maßnahmen.
 
 1.2.3
 
 Kombination mit Förderrichtlinie ISA/2021
 
 
-Eine Kombination von Grünlandmaßnahmen nach dieser Förderrichtlinie und der Grünlandmaßnahme I_GL nach der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239) in der jeweils geltenden Fassung ist ausgeschlossen.
+Eine Kombination von Grünlandmaßnahmen nach dieser Förderrichtlinie und der Grünlandmaßnahme I_GL nach der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315) in der jeweils geltenden Fassung ist ausgeschlossen.
 
 
 Die Ackerlandmaßnahmen der Förderrichtlinie ISA/2021 I_AL 1 und I_AL 2 können sich in einem Bruttoschlag befinden, in dem auch Flächenanteile nach dieser Förderrichtlinie gefördert werden. Diese Regelung trifft auf folgende Maßnahmen dieser Förderrichtlinie zu:
@@ -2508,7 +2513,7 @@ AL 1, AL 2, AL 3, AL 4, AL 6a, AL 6b, AL 7, AL 8, AL 9, AL 11, AL 12, AL 13, AL 
 Kombination mit Förderrichtlinie AZL/2015
 
 
-Für die nach dieser Förderrichtlinie geförderten Flächen kann in der Regel zusätzlich eine Förderung nach der Förderrichtlinie Ausgleichszulage vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 17. März 2023 (SächsABl. S. 458) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, gewährt werden. Einzelheiten können dem entsprechenden Merkblatt unter https://www.lsnq.de/azl entnommen werden.
+Für die nach dieser Förderrichtlinie geförderten Flächen kann in der Regel zusätzlich eine Förderung nach der Förderrichtlinie Ausgleichszulage vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1419) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, gewährt werden. Einzelheiten können dem entsprechenden Merkblatt unter https://www.lsnq.de/azl entnommen werden.
 
 2.
 
@@ -2579,7 +2584,7 @@ Deiche, es sei denn, dass eine der Maßnahme konforme Bewirtschaftung uneingesch
 Flächenzugänge
 
 
-Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
+Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil D Ziffer II Nummer 1.2 wird verwiesen.
 
 5.
 
@@ -2674,7 +2679,7 @@ der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. Apri
 
 c)
 
-der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 
 d)
@@ -2689,8 +2694,7 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
-
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 g)
 
@@ -2846,7 +2850,7 @@ Die erstmalig vergebene Schlagbezeichnung ist über die Dauer der Verpflichtung 
 Maßnahmenspezifische Förderverpflichtungen
 
 
-Die nachfolgend aufgeführten Fördervoraussetzungen und -verpflichtungen sind in allen Jahren des Verpflichtungszeitraums gemäß Teil C Ziffer II Nummer 1 einzuhalten.
+Die nachfolgend aufgeführten Fördervoraussetzungen und -verpflichtungen sind in allen Jahren des Verpflichtungszeitraums gemäß Teil D Ziffer II Nummer 1 einzuhalten.
 
 4.1
 
@@ -3193,7 +3197,7 @@ Deiche, es sei denn, dass eine der Maßnahme konforme Bewirtschaftung uneingesch
 Flächenzugänge
 
 
-Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil C Ziffer II Nummer 1.2 wird verwiesen.
+Flächenzugänge für bereits bewilligte Maßnahmen sind förderfähig, wenn hierfür ein entsprechender Erweiterungsantrag gestellt und bewilligt wird. Auf Teil D Ziffer II Nummer 1.2 wird verwiesen.
 
 5.
 
@@ -3246,6 +3250,284 @@ Zu beachtende Vorschriften
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in diesen Förderrichtlinien Abweichungen zugelassen worden sind.
 
 Teil C
+GAK-finanzierte Maßnahme: Erschwernisausgleich von Kosten und Einkommensverlusten für Pflanzenschutzmittelverbote
+
+I.
+Zuwendungszweck, Rechtsgrundlagen
+
+1.
+
+Zweck ist der Ausgleich wirtschaftlicher Nachteile aufgrund besonderer Einschränkungen bei der Verwendung von Pflanzenschutzmitteln im Zusammenhang mit der Umsetzung der Fauna-Flora-Habitat-Richtlinie und der Vogelschutzrichtlinie zum Schutz der Biodiversität sowie Erhalt und Entwicklung von Lebensräumen und Arten.
+
+2.
+
+Der Freistaat Sachsen gewährt die Zuwendungen nach:
+
+
+a)
+
+Maßgabe dieser Förderrichtlinie,
+
+
+b)
+
+der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+
+
+c)
+
+der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
+
+
+d)
+
+dem Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ in der Fassung der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055), das zuletzt durch Artikel 1 des Gesetzes vom 11. Oktober 2016 (BGBl. I S. 2231) geändert worden ist,
+
+
+e)
+
+dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ (GAK-Rahmenplan),
+
+
+f)
+
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
+
+g)
+
+der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (2022/C 485/01) (ABl. C 458 vom 21.12.2022, S. 1) – Agrarrahmen –
+
+
+in den jeweils geltenden Fassungen.
+
+3.
+
+Der Erschwernisausgleich wird für Flächen in Natura-2000-Gebieten auf der Grundlage des Beschlusses der Europäischen Kommission vom 16. Dezember 2022 im Verfahren SA.102118 (2022/N) unter dem Betreff „Bund: Förderung besonders nachhaltiger Verfahren im Zusammenhang mit der Umsetzung der FFH und der Vogelschutzrichtlinie“ gewährt. Für Flächen außerhalb der Natura-2000-Kulisse kommt eine Bewilligung erst in Betracht, wenn die Europäische Kommission auch für diese Flächen eine beihilferechtliche Genehmigung erteilt hat. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
+
+4.
+
+Ein Anspruch der Begünstigten auf Gewährung des Erschwernisausgleichs besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel nach Maßgabe dieser Förderrichtlinie.
+
+
+II.
+Gegenstand der Förderung/des Erschwernisausgleichs
+
+Förder-/ausgleichsfähig ist der in § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), die zuletzt durch Artikel 2 der Verordnung vom 1. Juni 2022 (BGBl. I S. 867) geändert worden ist, in der jeweils geltenden Fassung festgelegte Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel in Naturschutzgebieten, Nationalparks, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 3 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2240) geändert worden ist.
+
+III.
+Begünstigte
+
+1.
+
+Begünstigte im Sinne dieser Förderrichtlinie sind natürliche oder juristische Personen oder Vereinigungen sowie Zusammenschlüsse natürlicher oder juristischer Personen, unabhängig von der Rechtsform, die eine landwirtschaftliche Tätigkeit im Sinne von § 3 der GAP-Direktzahlungen-Verordnung ausüben.
+
+2.
+
+Die Zuwendungen dürfen nicht an Unternehmen gewährt werden, bei denen es sich um Unternehmen in Schwierigkeiten im Sinne von Randnummer 33 Absatz 63 des Agrarrahmens handelt oder die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
+
+
+IV.
+Fördervoraussetzungen und Förderverpflichtungen
+
+1.
+
+Allgemeine Fördervoraussetzungen
+
+
+a)
+
+Mindestschlaggröße: 0,1000 ha.
+
+
+b)
+
+Die zur Förderung nach dieser Förderrichtlinie beantragten Flächen müssen im Gebiet des Freistaates Sachsen und in einem Feldblock des für Sachsen geltenden Landwirtschaftlichen Flächeninformationssystems (LPIS) liegen.
+
+
+c)
+
+Die Förderung erfolgt in Naturschutzgebieten, im Nationalpark, im Nationalen Naturmonument, in Naturdenkmälern und geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen Trockenmauern im Weinbau. Die Förderung erfolgt nur für Flächen der entsprechend zulässigen Bodennutzungskategorie.
+
+2.
+
+Allgemeine Förderverpflichtungen
+
+
+Die Begünstigten haben die Vorgaben und Einsatzverbote zur Pflanzenschutzmittelanwendung aufgrund des § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung in der jeweils geltenden Fassung auf den beantragten Flächen jährlich vollständig ohne Ausnahmen einzuhalten.
+
+
+V.
+Art und Umfang, Höhe der Zuwendung
+
+1.
+
+Art und Umfang der Zuwendung
+
+
+Art und Umfang der Zuwendung
+
+
+| Definition
+
+| Erläuterung
+
+
+| Zuwendungsart:
+
+| Projektförderung
+
+
+| Finanzierungsart:
+
+| Festbetragsfinanzierung
+
+
+| Form der Zuwendung:
+
+| Zuschuss
+
+
+2.
+
+Höhe der Zuwendung
+
+
+Die Höhe der Zuwendung beträgt:
+
+
+382 Euro je Hektar produktiv genutzter Ackerfläche,
+
+
+1.527 Euro je Hektar produktiv genutzter Dauerkulturen.
+
+3.
+
+Bagatellgrenze:
+
+
+Abweichend zu Nummer 1.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung kann die Maßnahme ohne eine Mindestzuwendungssumme gefördert werden.
+
+
+VI.
+Sonstige Bestimmungen
+
+1.
+
+Kombinationen, Mehrfachförderungen
+
+
+Eine Kombination der Förderung des Erschwernisausgleichs mit den Maßnahmen AL 6a (Naturschutzgerechte Ackerbewirtschaftung für wildkrautreiche Äcker), AL 6b (Naturschutzgerechte Ackerbewirtschaftung für Vögel der Feldflur) und AL 7 (Artenreiche Ackerrandstreifen) nach Teil A dieser Förderrichtlinie ist mit um den Betrag des Erschwernisausgleichs reduzierter Zuwendung möglich. Darüber hinaus sind Kombinationen mit Maßnahmen nach Teil A und B ausgeschlossen. Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie sind unter https://www.lsnq.de/auk2023 veröffentlicht.
+
+2.
+
+Kombination mit Öko-Regelungen der 1. Säule
+
+
+Eine Kombination der Förderung des Erschwernisausgleichs ist mit der Öko-Regelung 2 (Anbau vielfältiger Kulturen) und der Öko-Regelung 7 (Natura 2000) gemäß § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes bei Gewährung beider Zuwendungen möglich. Darüber hinaus sind Kombinationen mit den Öko-Regelungen ausgeschlossen. Zulässige Kombinationen sind unter https://www.lsnq.de/auk2023 veröffentlicht.
+
+3.
+
+Kombination mit Förderrichtlinie ÖBL/2023
+
+Die Förderung des Erschwernisausgleichs und nach der Förderrichtlinie ÖBL/2023 für die selbe Fläche ist ausgeschlossen.
+
+4.
+
+Kombination mit Förderrichtlinie ISA/2021
+
+Eine Kombination der Förderung des Erschwernisausgleichs mit Maßnahmen der Förderrichtlinie ISA/2021 ist ausgeschlossen.
+
+5.
+
+Kombination mit Förderrichtlinie AZL/2015
+
+Eine Kombination der Förderung des Erschwernisausgleichs mit Maßnahmen der Förderrichtlinie AZL/2015 ist zulässig.
+
+6.
+
+Förderfähige Flächen
+
+
+Die Zuwendung wird für landwirtschaftliche Flächen, die der Definition gemäß § 4 Absatz 1 der GAP-Direktzahlungen-Verordnung entsprechen, gewährt. Hierzu gehören auch angrenzende oder eingeschlossene Landschaftselemente (Bruttoschlag), die zum jeweiligen Antrag auf Direktzahlungen und Agrarförderung anzugeben sind.
+
+7.
+
+Nicht förderfähige Flächen
+
+
+Für nachfolgende Flächen werden keine Zuwendungen nach dieser Förderrichtlinie gewährt:
+
+
+a)
+
+Flächen, die zu einer Anlage gehören, die dem Wege-, Straßen-, Schienen- oder Schiffsverkehr von Personen oder Fahrzeugen dient,
+
+
+b)
+
+dem Luftverkehr dienende Funktionsflächen, insbesondere Roll-, Start- und Landebahnen,
+
+
+c)
+
+Flächen, die für Freizeit- oder Erholungszwecke oder zum Sport genutzt werden und hierfür eingerichtet sind oder in einem hierfür bestimmten Zustand erhalten werden, es sei denn, die Fläche wird außerhalb der Vegetationsperiode für den Wintersport genutzt,
+
+
+d)
+
+Parkanlagen, Ziergärten,
+
+
+e)
+
+Flächen auf Truppenübungsplätzen, soweit die Flächen vorrangig militärisch genutzt werden,
+
+
+f)
+
+Flächen, auf denen sich Anlagen zur Nutzung von solarer Strahlungsenergie befinden,
+
+
+g)
+
+Deponien vor Ablauf der Stilllegungsphase,
+
+
+h)
+
+Betriebsgelände, Gewerbegebiete, allgemein der gewerblichen Nutzung dienende Flächen,
+
+
+i)
+
+Kompensationsflächen entsprechend der bau- und naturschutzrechtlichen Eingriffsregelung,
+
+
+j)
+
+Deiche, es sei denn, dass eine der Maßnahme konforme Bewirtschaftung uneingeschränkt möglich ist und
+
+
+k)
+
+Flächen, für die im Antragsjahr eine Ausnahme nach § 4 Absatz 2 der Pflanzenschutz-Anwendungsverordnung zugelassen wird.
+
+8.
+
+Transparenz
+
+
+Die beihilferechtlichen Transparenzverpflichtungen erfordern bei Überschreiten des einschlägigen Schwellenwertes des Agrarrahmens eine Veröffentlichung von Einzelbeihilfen in der öffentlichen Beihilfetransparenzdatenbank (TAM).
+
+9.
+
+Zu beachtende Vorschriften
+
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in diesen Förderrichtlinien Abweichungen zugelassen worden sind.
+
+
+Teil D
 Gemeinsame Bestimmungen
 
 I.
@@ -3268,7 +3550,7 @@ Antragstellung
 
 2.1.1
 
-Teilnahmeantrag
+Teilnahmeantrag (gilt nicht für Teil C)
 
 
 Für die Gewährung einer Zuwendung nach dieser Förderrichtlinie ist ein Teilnahmeantrag vor Beginn der Verpflichtungen für die beabsichtigten Maßnahmen und Flächenumfänge notwendig. Sofern im Verpflichtungszeitraum weitere Maßnahmen beantragt werden, ist vor Beginn der Verpflichtungen ein weiterer Teilnahmeantrag notwendig.
@@ -3291,6 +3573,9 @@ Sofern im Verpflichtungszeitraum weitere Flächen für eine bereits bewilligte M
 
 
 Wird eine Umwandlung in eine naturschutzfachlich höherwertigere Maßnahme auf fachliche Empfehlung der Naturschutzfachbehörde während des laufenden Verpflichtungszeitraumes vorgenommen, ist die höherwertige Maßnahme im Rahmen des Auszahlungsantrages zu beantragen.
+
+
+Die Auszahlung der Zuwendung nach Teil B und C erfolgt nach Nummer 7.6 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung (Erstattungsverfahren).
 
 
 2.2
@@ -3319,7 +3604,7 @@ Antragstellende, deren Auszahlungsanträgen nicht oder nicht vollständig entspr
 Verwendungsnachweis
 
 
-Der Verwendungsnachweis für eine Förderung nach Teil B besteht aus den übermittelten Daten zur Größe der Flächen aus dem Antragsverfahren gemäß Nummer 2.1.2.
+Der Verwendungsnachweis für eine Förderung nach Teil B und C besteht aus den übermittelten Daten zur Größe der Flächen aus dem Antragsverfahren gemäß Nummer 2.1.2.
 
 2.4
 
@@ -3369,12 +3654,10 @@ Ablehnung, Kürzung, Sanktionierung, Rückforderung und Verzinsung
 
 Es gelten die Vorschriften der Europäischen Union zu Ablehnungen, Rücknahmen und Sanktionen, insbesondere der Artikel 57, 59, 62, 84 und 85 der Verordnung (EU) 2021/2116 und die Artikel 7 ff. der delegierten Verordnung (EU) 2022/1172 sowie die nationalen Umsetzungsregelungen und § 1 Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den §§ 48 und 49 des Verwaltungsverfahrensgesetzes in der jeweils geltenden Fassung.
 
-
 Stellt die Bewilligungsbehörde fest, dass die Begünstigten nicht alle Flächen gemäß Artikel 8 der Durchführungsverordnung (EU) 2022/1173 angegeben haben oder liegen Übererklärungen vor, wird entsprechend § 46 f. GAPInVeKoSV die Auszahlung ganz oder teilweise abgelehnt oder die Förderung ganz oder teilweise zurückgenommen.
 
 
 Stellt die Bewilligungsbehörde fest, dass andere Fördervoraussetzungen oder Förderverpflichtungen als Größe der Fläche nicht erfüllt sind, wird auf der Grundlage des Artikels 57 Absatz 1 der Verordnung (EU) 2021/2116 die Auszahlung abgelehnt oder die Förderung ganz oder teilweise gemäß § 1 SächsVwVfZG in Verbindung mit §§ 48 und 49 des Verwaltungsverfahrensgesetzes zurückgenommen. Dabei sind nach Artikel 59 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2021/2116 Schwere, Ausmaß, Dauer und Häufigkeit des Verstoßes zu berücksichtigen.
-
 
 Ein Verstoß gegen die Grundanforderungen an die Betriebsführung (GAB) gemäß Unionsrecht und die auf nationaler Ebene aufgestellten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) nach Artikel 12 Absatz 1 und Artikel 13 in Verbindung mit Anhang III der Verordnung (EU) 2021/2115 aufgrund einer unmittelbar der begünstigten Person anzulastenden Handlung oder Unterlassung führt nach den Artikeln 12 Absatz 2 der Verordnung (EU) 2021/2115, den Artikeln 83 ff. der Verordnung (EU) 2021/2116, der Artikel 6 ff. der delegierten Verordnung (EU) 2022/1172, den §§ 19 ff. GAP-Konditionalitäten-Gesetz (GAPKondG) und §§ 36 ff. GAPKondV dazu, dass der Gesamtbetrag der in dem betreffenden Kalenderjahr zu gewährenden Förderung gekürzt oder keinerlei Zahlung geleistet wird.
 
@@ -3416,18 +3699,18 @@ Verpflichtungszeitraum
 Der Verpflichtungszeitraum für eine beantragte Maßnahme beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Für Flächen, die auf Grund eines Erweiterungsantrages im Rahmen des Auszahlungsantrages neu in die Verpflichtung genommen werden, müssen alle Förderverpflichtungen der betroffenen Maßnahme ab 1. Januar des aktuellen Antragsjahres eingehalten werden.
 
 
-Bei den Maßnahmen nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre.
+Bei den Maßnahmen nach Teil A und B nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre, in den sonstigen Fällen ein Jahr.
 
 1.1
 
-Nichteinhaltung des fünfjährigen Verpflichtungszeitraums
+Nichteinhaltung des fünfjährigen Verpflichtungszeitraums (gilt nicht für Teil C)
 
 
 Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des Integrierten Verwaltungs- und Kontrollsystems zum Antragsendtermin und zur Fristversäumnis. Wird ein Auszahlungsantrag nicht oder so verspätet eingereicht, dass er nach diesen Vorschriften als unzulässig anzusehen ist, gilt der fünfjährige Verpflichtungszeitraum als nicht eingehalten und es ist keine Zuwendung für das betroffene Verpflichtungsjahr auszubezahlen. Bereits gewährte Zuwendungen sind zurückzufordern, soweit aufgrund der Umstände keine andere Entscheidung gerechtfertigt ist.
 
 1.2
 
-Anpassung/Verlängerung des Verpflichtungszeitraums
+Anpassung/Verlängerung des Verpflichtungszeitraums (gilt nicht für Teil C)
 
 
 Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahme beantragt, beginnt ein neuer fünfjähriger Verpflichtungszeitraum, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den erstmaligen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
@@ -3437,7 +3720,10 @@ Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahm
 Förderausschlüsse
 
 
-Maßnahmen, zu deren Durchführung oder Unterlassung die Begünstigten auf Grund von rechtlichen Bestimmungen verpflichtet sind, sind von einer Förderung nach dieser Förderrichtlinie ausgeschlossen. Hierzu zählen auch Kompensationsverpflichtungen nach Bau- und Naturschutzrecht. Neben einer Flächenförderung nach dieser Förderrichtlinie dürfen keine anderen öffentlichen Mittel für dieselben Förderverpflichtungen in Anspruch genommen werden.
+Neben einer Flächenförderung nach dieser Förderrichtlinie dürfen keine anderen öffentlichen Mittel für dieselben Förderverpflichtungen in Anspruch genommen werden.
+
+
+Für Maßnahmen nach Teil A und B gilt zudem, dass die Begünstigten nicht zu deren Durchführung oder Unterlassung auf Grund von rechtlichen Bestimmungen verpflichtet sein dürfen. Hierzu zählen auch Kompensationsverpflichtungen nach Bau- und Naturschutzrecht.
 
 3.
 
@@ -3478,7 +3764,7 @@ eine Tierseuche, der Ausbruch einer Pflanzenkrankheit oder das Auftreten eines P
 
 4.
 
-Anwendung Baseline
+Anwendung Baseline (gilt nicht für Teil C)
 
 
 Soweit in dieser Förderrichtlinie keine abweichenden Regelungen getroffen werden, sind:
@@ -3508,7 +3794,7 @@ einzuhalten.
 
 5.
 
-Anwendung Konditionalität
+Anwendung Konditionalität (gilt nicht für Teil C)
 
 
 Das System zur Durchführung und Kontrolle der Einhaltung verbindlicher Grundanforderungen gilt gemäß Artikel 83 Absatz 1 b) der Verordnung (EU) 2021/2116 auch für die Flächenförderung nach Artikel 70 der Verordnung (EU) 2021/2115 und daher ebenso für Umwelt-, Klima- und andere Bewirtschaftungsverpflichtungen.
@@ -3518,7 +3804,7 @@ Damit sind durch die Begünstigten die Grundanforderungen an die Betriebsführun
 
 6.
 
-Anwendung Revisionsklausel bei Anpassungen
+Anwendung Revisionsklausel bei Anpassungen (gilt nicht für Teil C)
 
 
 Nach Artikel 70 Absatz 7 Unterabsatz 1 der Verordnung (EU) 2021/2115 ist in die aufgrund dieser Förderrichtlinie ergehenden Bewilligungsbescheide eine Revisionsklausel aufzunehmen, wonach bei Änderungen der einschlägigen verpflichtenden Standards, Anforderungen oder Auflagen gemäß Artikel 70 Absatz 3 der Verordnung (EU) 2021/2115 die Inhalte der Verpflichtungen dieser Förderrichtlinie so angepasst werden können, dass diese weiterhin über den Vorgaben nach Artikel 70 Absatz 3 der Verordnung (EU) 2021/2115 liegen. Wird eine solche Anpassung von den Begünstigten nicht akzeptiert, so endet die Verpflichtung, ohne dass für den tatsächlichen Verpflichtungszeitraum eine Rückzahlung der im Rahmen dieser Verpflichtung geleisteten Zahlungen gefordert wird.
@@ -3539,6 +3825,9 @@ Aufbewahrungsfrist
 
 
 Grundsätzlich sind alle im Zusammenhang mit der Förderung bedeutsamen Unterlagen für die Dauer von sechs Jahren nach Ablauf des Verpflichtungszeitraums aufzubewahren.
+
+
+Für Vorhaben nach Teil C gilt eine Aufbewahrungspflicht von zehn Jahren.
 
 
 III.
@@ -3623,7 +3912,7 @@ das GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) vom 10
 14.
 
 
-die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist,
+die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 1a der Verordnung vom 17. Oktober 2023 (BGBl. 2023 I Nr. 281) geändert worden ist,
 
 15.
 
@@ -3631,7 +3920,7 @@ das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022
 
 16.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 29. August 2023 (BGBl. 2023 I Nr. 238) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 4. Dezember 2023 (BGBl. 2023 I Nr. 343) geändert worden ist,
 
 17.
 
@@ -3647,8 +3936,7 @@ die Sächsische GAP-Umsetzungsverordnung vom 2. Januar 2023 (SächsGVBl. S. 8),
 
 20.
 
-das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist.
-
+das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist.
 
 Verweis auf Bundesgesetze
 
@@ -3660,9 +3948,9 @@ Fsn-Nr.: 5563-V23.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. Oktober 2023
+Fassung gültig ab: 12. März 2024
 
-Fassung gültig bis: 11. März 2024
+Fassung gültig bis: 26. August 2024
 
 Drucken/Speichern
 
@@ -3687,7 +3975,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19912.2
+https://www.revosax.sachsen.de/vorschrift/19912.3
 Stand vom
 18.11.2026
 
