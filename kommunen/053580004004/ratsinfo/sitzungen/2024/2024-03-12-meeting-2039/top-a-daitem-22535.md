@@ -1,0 +1,6 @@
+# TOP A.: ÖFFENTLICHE SITZUNG
+
+- Sitzung: Bauverwaltungsausschuss (13. Sitzung) (2024-03-12)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/22535
