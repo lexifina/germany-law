@@ -1,0 +1,109 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968828
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968828
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Anlaufstelle Inklusion für die Schwanthalerhöhe
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Notwendigkeit für das Durchfahrtsverbot an der Trappentreustraße
+- TOP 4.2.: Sperrung der Theresienwiese während der Aufbauzeit für das Oktoberfest
+- TOP 4.3.: Zustand der Sitzgelegenheiten am Georg-Freundorfer-Platz
+- TOP 4.4.: Klappbares Tempo-30-Schild Ecke Kazmairstraße (Süd-Ost) Ecke Trappentreustraße dauerhaft aufklappen
+- TOP 4.5.: - NACHTRAG - Kulturtage in der Alten Westend Apotheke Der Schneckenmarkt, ein Markt veranstaltet von Midnightbazar und Thrive International Das Straßenfest der Ligsalzstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Gollierstraße 14
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Garmischer Straße 7
+- TOP 6.2.2.: Stadtentwicklungsplanung STEP2040
+- TOP 6.2.3.: Bauvorhaben Westendstraße 160
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Baustelleneinrichtung Bauvorhaben Rischart; Theresienhöhe / Hans-Fischer-Straße
+- TOP 6.3.3.: Gollierstraße 4; Belästigung durch Foyerbeleuchtung
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: - NACHTRAG - Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 7.2.2.: - NACHTRAG - Ausschreibung "Ran an die Stadtteil-Koffer!" 2025
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Vorankündigung: Treffen der Sozialreferentin mit den Bezirksausschüssen am 27.06.2024
+- TOP 7.3.2.: Kinderrechte stärken - Partizipation auf Augenhöhe leben - Fristverlängerung bis 31.12.2024
+- TOP 7.3.3.: Jugendcontainer Hans-Fischer-Straße; Protokoll vom Ortstermin vom 18.01.2024
+- TOP 7.3.4.: Vorankündigung CultureClouds; Veranstaltung Straße.Oase in der Schnaderböckstraße 2 – 6 von 18.07. bis 20.07.2024
+- TOP 7.3.5.: Vorankündigung KJR-Demokratiemobil am Forum Schwanthalerhöhe am 07.05.2024
+- TOP 7.3.6.: Elterninformationen zur neuen freiwilligen Förderung der Kindertageseinrichtungen in München
+- TOP 7.3.7.: - NACHTRAG - Neue Tischtennisplatten am Georg-Freundorfer-Platz sowie am Spielplatz am Gießerweg
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung Sidewalk-Cultures-Festival am Georg-Freundorfer-Platz von 26.07.2024 bis 28.07.2024
+- TOP 8.2.2.: Festumzug und Freibierausschank Frühlingsfest, Theresienwiese am19.04.2024
+- TOP 8.2.3.: Pilotbezirke Street Art und Graffiti, Flächenpool
+- TOP 8.2.4.: Bladenight 2024 Am Bavariapark ab 06.05.2024
+- TOP 8.2.5.: 5. Welt-Vespa-Oldtimertreffen / Vespa Akrobatikshow auf der Fläche Am Bavariapark und im Verkehrszentrum vom 10. - 12.05.2024
+- TOP 8.2.6.: Straßenfest "30 Jahre Geburtshaus München" in der Fäustlestraße am 15.06.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Sanierung Ostfassade Gewerbehof Westend - Umsetzung eines Kunstprojektes
+- TOP 8.3.2.: Begehbare Karte des jüdischen Lebens im Stadtbezirk Schwanthalerhöhe
+- TOP 8.3.3.: Versammlung Josef-Thurner-Platz am 13.03.2024
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Sperrung Schneckenplatz für Fahrzeuge während Oktoberfest
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Fahrbahnsanierung Theresienhöhe 26 - 40
+- TOP 9.2.2.: Fahrbahnsanierung Martin-Greif-Str. 1 - 11
+- TOP 9.2.3.: Fahrbahnsanierung Schwanthalerstr. 106 - 110
+- TOP 9.2.4.: Baumfällung Bergmannstraße 7
+- TOP 9.2.5.: - NACHTRAG - MVG-Leistungsprogramm 2025
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Entfernung von Schmierereien am Arnulfsteg
+- TOP 9.3.2.: Baumpflanzungen im öffentlichen Raum - Vorschläge des BA8
+- TOP 9.3.3.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.4.: Asphaltierungsarbeiten auf der Theresienwiese im Zusammenhang mit Cirque du Soleil
+- TOP 9.3.5.: Änderung der Ansprechpartner bei der MVG
+- TOP 9.3.6.: Verschmutzte Grünfläche am Anwesen Westendstr. / Bergmannstr.
+- TOP 9.3.7.: Mobilfunk - Suchkreismeldung
+- TOP 9.3.8.: Superblock für die Schwanthalerhöhe; das Karree Kazmair-, Ganghofer-, Schwanthaler- und Schießstättstraße soll vom Durchgangsverkehr befreit und Fußgänger*- und Fahrradfaher*innen Vorrang eingeräumt werden - Zwischennachricht
+- TOP 9.3.8.1: Superblock für die Schwanthalerhöhe - Zwischennachricht
+- TOP 9.3.9.: Errichtung einer Mobilitätsinseln für Räder und E-Scooter am Mobilitätspunkt Heimeranplatz – Trappentreustraße
+- TOP 9.3.10.: BA-Antrag 5672 Rasengleis Tramstrecke Landsberger Str. - Fristverlängerung bis 31.12.2024
+- TOP 9.3.11.: Einladung zur Informationsveranstaltung Kommunale Wärmeplanung München und Transformationsplan Fernwärme am Mittwoch, den 10. April 2024 von 17:00 bis 19:00 Uhr
+- TOP 9.3.12.: Parkverhalten vor dem Kinderhaus Kazmairstr. 66
+- TOP 9.3.13.: - NACHTRAG - Baumfällung Hotel Krone, Theresienhöhe 8
+- TOP 9.3.14.: - NACHTRAG - Umplanung Fahrradständer Schießstättstraße
+- TOP 9.3.15.: Behindertengerechtes Abstellen von E-Rollern; Entwicklung eines städtischen Abstellkonzeptes
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Lora Förderverein e.V. Podiumsdiskussion: Wohin entwickelt sich das Westend? am 03.05.2024 2.125,00€; Az. 0262.0-8-0387
+- TOP 10.1.2.: (E) Stadtbezirksbudget Helferkreis H.-Thonauer-/Elsenheimer-/Hansa-/Gerty-Spies-Straße Jahresprogramm 2024 des Helferkreises vom 15.03.- 31.12.2024 2500,00€; Az. 0262.0-8-0388
+- TOP 10.1.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K. d. ö. R. Demokratie im Einsatz – Demokratiemobil München am 07.05.2024 800,00 Euro / Az. 0262.0-8-0390
+- TOP 10.1.4.: (E) Stadtbezirksbudget Migration macht Gesellschaft e.V. Lesung und Gespräch "Am Abgrund der Menschlichkeit" vom 21.03.2024 1.000,00 Euro / Az. 0262.0-8-0389
+- TOP 10.1.5.: (E) Stadtbezirksbudget Sozialverband VdK Ortsverband Neufriedenheim/Westend Horizonteausfahrt zur Landesgartenschau in Kirchheim am 14.09.2024 850,00€; Az. 0262.0-8-0391
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Einrichtung von temporären Spielstraßen in der Schwanthalerhöhe
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Neues Verfahren zur Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Information: Behandlung von Mobilfunksuchkreismeldungen in öffentlicher Sitzung
+- TOP 12.3.2.: Wechsel Dienststellenleitung PI 14 Westend
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 12.2.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2024 bis 2028
