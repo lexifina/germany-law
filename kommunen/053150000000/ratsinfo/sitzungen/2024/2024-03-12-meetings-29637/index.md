@@ -1,0 +1,66 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-12T14:05:00+01:00
+- Ende: 2024-03-12T15:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29637
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29637
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktueller Sachstand zur Beschlussvorlage zum Strukturförderfonds
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation zur Jugendberufshilfe
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: Diakonie Kitas Köln und Region gGmbH - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Schulrechtliche Erweiterung des Bildungsganges PIA Erzieher*in von 2 auf 3 Züge zum Schuljahr 2024/25 am Berufskolleg Ehrenfeld - ungeändert beschlossen
+- TOP 4.2: Mitgliederwechsel im JHA: Nachbesetzung eines stellvertretend stimmberechtigten Mitgliedes für den Caritasverband Köln e.V. und Wechsel eines beratenden sowie stellvertretend beratenden Mitgliedes für den SKM Köln e.V. - ungeändert beschlossen
+- TOP 4.3: Mitgliederwechsel im Jugendhilfeausschuss, hier: Brücke Köln e.V. - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Misch MIT! Weiter entwickeln - ungeändert beschlossen
+- TOP -: Stellungnahme zum Antrag "Misch MIT! weiter entwickeln" AN/0355/2024 - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Jugendschutzpartys in Köln an Karneval - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des Jugendhilfeausschuss am 30.01.2024 zur Wirkung und Datenlage des Förderprogramms Familienhäuser - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Jugendhilfeausschuss am 30.01.2024 zum Thema "Kostenlose Ferienangebote" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer mündlichen Anfrage zum Elternbrief an alle Kindertageseinrichtungen in Köln, Vorlage 3920/2023 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Trägerwechsel von 2 Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.2: PISA-Studie, ausgewählte Reaktionen und Position der Bildungsverwaltung Köln - Kenntnis genommen
+- TOP 8.2.3: Ausbauplanung Schulsozialarbeit an Kölner Schulen 2.0 - Kenntnis genommen
+- TOP 8.2.4: Pilotprojekt Quereinstieg in der Kita – Kinderpflege „QuiK-K“ - Kenntnis genommen
+- TOP 8.2.5: Überbrückungshilfe des Landes zur Abfederung der gestiegenen Personalkosten von Kitas - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 2. Halbjahr 2023 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Mitteilung Sachstand Kinderschutzentwicklungsplanung - Kenntnis genommen
+- TOP 8.4.2: Zwischenbericht zum Kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 und zur 3. Sitzung des Begleitgremiums zum Kommunalen Kinder- und Jugendförderplan - Kenntnis genommen
+- TOP 8.4.3: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Förderprogramm "Gleichstellung von Frauen und Männern 2024" - Kenntnis genommen
+- TOP 8.5.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 8.5.3: Kommunales Integrationsmanagement (KIM) Jahresbericht 2023 und Ausblick 2024 - Kenntnis genommen
+- TOP 8.5.4: Umsetzung kommunaler Fonds Kulturelle Bildung 2024 - Kenntnis genommen
+- TOP 8.5.5: Stadtradeln 2024 - Kenntnis genommen
