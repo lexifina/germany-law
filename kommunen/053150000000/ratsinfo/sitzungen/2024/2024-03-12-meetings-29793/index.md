@@ -1,0 +1,81 @@
+# 23. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-12T15:37:00+01:00
+- Ende: 2024-03-12T20:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29793
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29793
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner*innen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Filmkultur & Musik
+- TOP -: Szenebericht Musik - Kenntnis genommen
+- TOP -: Szenebericht Filmkultur - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - Sache ist erledigt
+- TOP -: Besetzungsverfahren von Leitungsfunktionen im Kulturbereich - Kenntnis genommen
+- TOP 3.2: Quartalsberichterstattung Dezernat VII - ungeändert beschlossen
+- TOP 3.3: Dringlichkeitsantrag: Kunstbeirat stärken! Fachgespräch mit Politik und Verwaltung schnellstmöglich durchführen! - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Neue Atelierförderstrategie - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis90/Die Grünen, CDU, Volt - geändert beschlossen
+- TOP 4.2: Freigabe von Mitteln aus der Kulturförderabgabe 2023 - "Bauliche Maßnahmen für die Sanierung und Erhaltung von Denkmälern inklusive geerbte Denkmäler" - ungeändert beschlossen
+- TOP 4.3: Vergabe der Förderungen in den Schwerpunkten "Produktionen und Sonderprojekte" und "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.4: Freigabe Mittel Open Air 2024, Projektförderung von Open Air-Veranstaltungen - ungeändert beschlossen
+- TOP 4.5: Entwicklungsbereich Hallen Kalk, hier: Machbarkeitsstudie Halle 71 als Grundlage der weiteren Bearbeitung - ungeändert beschlossen
+- TOP 4.6: Zwischennutzung Ebertplatz 2024 - Freigabe von Mitteln aus der Kulturförderabgabe und anderweitige Verwendung von Transfermitteln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sachstandsbericht Kulturraummanagement / KRM - 02/2024 - Kenntnis genommen
+- TOP 8.2: Geschäftsbericht Kulturamt 2022 - Kenntnis genommen
+- TOP 8.3: Strukturförderfonds 2023/2024 - Förderprogramm des Kulturamtes 2024 - Kenntnis genommen
+- TOP 8.4: Vorstellung des Spielplans 2024/2025 der Puppenspiele - Kenntnis genommen
+- TOP 8.5: Generalsanierung Zentralbibliothek – aktueller Planungsstand der Umzüge - Kenntnis genommen
+- TOP 8.6: Systematische Bestandsprüfung auf NS-Raubgut im Kölnischen Stadtmuseum - Kenntnis genommen
+- TOP 8.7: Stadtradeln 2024 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 23. Februar 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 22. Februar 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 27. Februar 2024 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu den Hallen Kalk - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 28.11.2023 betreffend "Bahnhof Belvedere/Fällgenehmigung für die Platane 1" (3945/2023) - Kenntnis genommen
+- TOP 10.2: 3. Ergänzung zur Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis90/Die Grünen, CDU und Volt aus der Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern vom 23.10.2023 (3214/2023) - Kenntnis genommen
+- TOP 10.3: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0044/2024 der GOL zum Thema "NSU Mahnmal Keupstraße“ in Köln-Mülheim aus der Sitzung des Integrationsrates vom 16.01.2024. - Kenntnis genommen
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 28.11.2023 betreffend Nachhaltigkeit in der Kultur - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 30.01.2024 (AN 4074/2023) betreffend "Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/2024" - zurückgestellt
+- TOP 10.6: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 29.08.2023 betreffend „Sachstandsbericht Kulturpass" - Kenntnis genommen
+- TOP 10.7: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Bauausschusses vom 27.11.2023 (AN/2079/2023) betreffend "Zukunft des historischen Zeughauses" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Sachstände „Kunst im öffentlichen Raum“ (KEP) - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Bündnispartner aus der Sitzung des Ausschusses Kunst und Kultur vom 24.08.2024 betr. Kunst im öffentlichen Raum - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: Zugang zum Areal Hallen Kalk - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 26.09.2023 (AN1702/2023) betreffend "Zugang zum Areal Kalk" - zurückgestellt
+- TOP 11.3: Schriftliche Anfrage der Fraktion Die Linke: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - zurückgestellt
+- TOP 11.4: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Kulturamt als Servicestelle - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Grüne und Volt aus der Sitzung des Ausschusses Kunst und Kultur vom 26.09.2023 (AN/1711/2023) betreffend "Kulturamt als Servicestelle" - zurückgestellt
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Kunststandort Köln strategisch weiterentwickeln! - zurückgestellt
+- TOP 11.6: Schriftliche Anfrage der SPD-Fraktion: Vergnügungssteuer für Tanzveranstaltungen - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion zur Vergnügungssteuer für Tanzveranstaltungen (AN/2084/2023) - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der SPD-Fraktion: Kulturförderung der Europäischen Union und Sicherung des kommunalen Förderanteils - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur betreffend "Kulturförderung der EU und Sicherung des kommunalen Förderanteils" (AN/1486/2023) - Kenntnis genommen
+- TOP 11.8: Schriftliche Anfrage der FDP-Fraktion: Sachstand Hallen Kalk 76 und 77 - zurückgestellt
+- TOP 11.9: Schriftliche Anfrage der SPD-Fraktion: Finanzierung des Germania Judaica e.V. - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der CDU-Fraktion: Sachstandsbericht Wiedererrichtung der Historischen Wasserpumpe
+- TOP 12.2: Mündliche Anfrage der CDU-Fraktion: Sachstandsbericht des denkmalgeschützten Hauses in Köln-Porz
+- TOP 12.3: Mündliche Anfrage der CDU-Fraktion: Sachstandsbericht zur Skulptur "Standortmitte" von Lutz Fritsch
+- TOP 12.4: Mündliche Anfrage der CDU-Fraktion: Sachstandsbericht 4. Historischer Rathausteppich
+- TOP 12.5: Mündliche Anfrage GUT Köln: Sachstandsbericht Historische Mitte
+- TOP 12.6: Mündliche Anfrage der SPD-Fraktion: Sachstandsbericht Kunst- und Museumsbibliothek
+- TOP 12.7: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Schlosspark Stammheim
+- TOP 12.8: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen: Musik im Park
