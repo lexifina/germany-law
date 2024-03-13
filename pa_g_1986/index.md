@@ -1,7 +1,7 @@
 # Paßgesetz
 
 
-## Erster Abschnitt Paßvorschriften
+## Erster Abschnitt Passvorschriften
 
 - [§ 1 Passpflicht](0001.md)
 - [§ 2 Befreiung von der Passpflicht; Verordnungsermächtigung](0002.md)
@@ -10,9 +10,9 @@
 - [§ 5 Gültigkeitsdauer](0005.md)
 - [§ 6 Ausstellung eines Passes](0006.md)
 - [§ 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung](0006a.md)
-- [§ 7 Paßversagung](0007.md)
-- [§ 8 Paßentziehung](0008.md)
-- [§ 9 Speicherung von paßrechtlichen Maßnahmen](0009.md)
+- [§ 7 Passversagung](0007.md)
+- [§ 8 Passentziehung](0008.md)
+- [§ 9 Speicherung von passrechtlichen Maßnahmen](0009.md)
 - [§ 10 Untersagung der Ausreise](0010.md)
 - [§ 11 Ungültigkeit](0011.md)
 - [§ 12 Einziehung](0012.md)
@@ -26,8 +26,8 @@
 - [§ 18 Verwendung im nichtöffentlichen Bereich](0018.md)
 - [§ 19 Zuständigkeit](0019.md)
 - [§ 20 Gebühren und Auslagen, Verordnungsermächtigung](0020.md)
-- [§ 21 Paßregister](0021.md)
-- [§ 22 Verarbeitung und Nutzung der Daten im Paßregister](0022.md)
+- [§ 21 Passregister](0021.md)
+- [§ 22 Verarbeitung und Nutzung der Daten im Passregister](0022.md)
 - [§ 22a Datenübertragung und automatisierter Abruf von Lichtbildern](0022a.md)
 - [§ 23 Weisungsbefugnis](0023.md)
 
@@ -37,7 +37,7 @@
 - [§ 25 Ordnungswidrigkeiten](0025.md)
 - [§ 26 Bußgeldbehörden](0026.md)
 
-## Dritter Abschnitt Schlußvorschriften
+## Dritter Abschnitt Schlussvorschriften
 
 - [§ 27 Allgemeine Verwaltungsvorschriften](0027.md)
 - [§ 27a Regelungsbefugnisse der Länder](0027a.md)
