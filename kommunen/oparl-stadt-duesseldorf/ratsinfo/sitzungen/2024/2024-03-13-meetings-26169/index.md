@@ -1,0 +1,55 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-13T17:00:00+01:00
+- Ende: 2024-03-13T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26169
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26169
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1.1: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 1.2: Verpflichtung eines Mitgliedes der Bezirksvertretung 6
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 6. Dezember 2023 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 vom 31. Januar 2024 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Absatz 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 6: ZUHÖR Bänke (mdl. Vortrag)
+- TOP 7: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße
+- TOP 8: Anfrage der SPD-Fraktion: OGS Krahnenburgstraße - beantwortet
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anfrage der CDU-Fraktion: Schaffung einer Quartiersgarage auf dem Vogelsanger Weg (Schützenplatz) - beantwortet
+- TOP 11: Anfrage der CDU-Fraktion: Realisierung von Mehrgenerationenwohnen und einer Tagespflege für Senioren am Zaunkönigweg
+- TOP 12: Anfrage der SPD-Fraktion: Gleisbauarbeiten Kalkumer Straße - beantwortet
+- TOP 13: Anfrage der SPD-Fraktion: Ahrensplatz
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der Fraktion BÜ 90/Die Grünen: Sachstand des Projektes "Platz für Jugendliche" auf dem Unterrather Autobahndeckel
+- TOP 16: Anfrage der Fraktion BÜ 90/Die Grünen: Autobahndeckel A44: Austausch der Laterne entlang des Spazierwegs - beantwortet
+- TOP 17: Antrag der CDU-Fraktion: Befestigung der Fußwegeverbindungen am Ratherbroicher Grenzgraben - einstimmig beschlossen
+- TOP 18: Antrag der CDU-Fraktion: Workshopverfahren Unterrather Schwimmbad/Mettlacher Straße - Mehrwert für Unterrath - abweichend beschlossen
+- TOP 19: Antrag der CDU-Fraktion: Hundeauslaufplatz Kartäuserpark - Reduzierung des Lärmpegels - abweichend beschlossen
+- TOP 20: Antrag der SPD-Fraktion: Ersatzhaltestellen - abweichend beschlossen
+- TOP 21: Antrag der Fraktion BÜ90/Die Grünen: Radweg zwischen Vogelsanger Weg und Grashofstraße ertüchtigen - einstimmig beschlossen
+- TOP 22: Antrag der BÜ90/Die Grünen: Fragestunde für Bürger*innen einrichten - mehrheitlich abgelehnt
+- TOP 23: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 24: Zuschuss an den Turn- und Sportverein Düsseldorf Nord e.V. 1904 - einstimmig beschlossen
+- TOP 25: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Renovierung/Gestaltung der Stadtteilbücherei Rath - einstimmig beschlossen
+- TOP 26: Bauunterhaltungsmittel 2024 Teil B - sonstige städtische Einrichtungen - Antrag der JFE Ekkehardtstraße für die Pflege und die Erneuerung der Hochbeete - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf-Rath - Seniorenfrühstück am Schützenfestmontag - einstimmig beschlossen
+- TOP 28: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Stamm-Gesellschaft Düsseldorf-Unterrath in der St. Sebastianus Schützenbruderschaft Unterrath e. V. - 100 Jahre Jubiläumsfeierlichkeiten - abweichend beschlossen
+- TOP 29: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des TuS Nord e. V., Fußballmannschaft C2 - Jugendmannschaftsfahrt - einstimmig beschlossen
+- TOP 30: Beschlusskontrolle der Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 31: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 32: Zugang zum Park über dem Flughafentunnel am Projektbüro U81 - Vorlage BV6/098/2023 - zur Kenntnis genommen
+- TOP 33: Tempo 30 Piktogramme auf der Straße "Am Röttchen" - Vorlage BV6/204/2022 - zur Kenntnis genommen
+- TOP 34: Rollerparkplatz An der Piwipp/Lemgoer Weg - Vorlage BV6/037/2023 - zur Kenntnis genommen
+- TOP 35: Energieversorgung Schwimmbad Unterrath - Vorlage BV6/016/2024 - zur Kenntnis genommen
+- TOP 36: Poller am Altkleidercontainer auf dem Segeberger Weg - Vorlage BV6/064/2023 - zur Kenntnis genommen
+- TOP 37: Heinrichstraße Geh- und Radverkehr - Vorlage BV6/072/2023 - zur Kenntnis genommen
+- TOP 38: Baumfällungen im Stadtbezirk 6 ab der 5. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 6 ab der 8. Kalenderwoche 2024 - zur Kenntnis genommen
