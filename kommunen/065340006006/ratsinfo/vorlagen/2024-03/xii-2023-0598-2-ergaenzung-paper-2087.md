@@ -1,0 +1,22 @@
+# Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2024, Investitionsprogramm 2023-2027
+
+- Körperschaft: Gemeinde Cölbe
+- Drucksache/Vorlage: XII-2023-0598 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-03-13
+- Ratsinformationssystem: https://rim.ekom21.de/coelbe/vorgang/?__=UGhVM0hpd2NXNFdFcExjZb29V79vBkbejQAeowb1RMc
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/paper/2087
+- Quelle: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltssatzung und Stellenplan der Gemeinde Cölbe für das Haushaltsjahr 2024, Investitionsprogramm 2023-2027) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRdnYojITtgEqNVOYuxeu-Jr7T0fe-010NpTXatjVhnl/Beschlussvorlage_XII-2023-0598_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1_Zusammenstellung Ansatzkorrekturen_Haushalt 2024.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ0qzTz7kKce62Utrx3bqZ7zFRfCGzeufK_y-LR54LKH/Anlage_1_Zusammenstellung_Ansatzkorrekturen_Haushalt_2024.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 2_Zusammenfassung der Stellungnahmen Ortsbeiräte_Kita.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTLPQ5ki_eq22PktN_eKiY-I72HerhaGqtcvqZn8VK6e/Anlage_2_Zusammenfassung_der_Stellungnahmen_Ortsbeiraete_Kita.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 3_fortgeschriebene HH-Satzung 2024.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbePQ9pxhd2s0oIurv3D1MfYTwBQ6I11Uc8yfiSn3YBe/Anlage_3_fortgeschriebene_HH-Satzung_2024.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 4_fortgeschriebener Ergebnis- und Finanzhaushalt.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbOKNMTGSjX_ws8TXW2ghka5X9PGK_SAmf-O1t2nCFw2/Anlage_4_fortgeschriebener_Ergebnis-_und_Finanzhaushalt.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 5_fortgeschriebenes Inv.-Programm 2023-2027.pdf) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV7RmN-XsBRDO7XckiKfnrUxHu1dffGMnA9-6yDryZFR/Anlage_5_fortgeschriebenes_Inv.-Programm_2023-2027.pdf.pdf
+- Anlage: Beschlussvorlage (Anlage 6_Haushaltsvorbericht 2024_Stand HPE 29.01.2024) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcFks8xPAfYibPpezMQPUqLE6Qv76zaN_6isZ36pFaOz/Anlage_6_Haushaltsvorbericht_2024_Stand_HPE_29.01.2024.pdf
+- Anlage: Beschlussvorlage (Anlage 7_Stellenplan_Stand HPE 29.01.2024) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeLjUjpMN-6LDZnwlAghdYcKyWKI4ciW1VGDbm3snWbv/Anlage_7_Stellenplan_Stand_HPE_29.01.2024.pdf
+- Anlage: Beschlussvorlage (1. Änd.-Antrag GRÜNE Haushalt 2024 vom 26.02.2024) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcVcij60wG4UkeO7PX95mDzVYW_jXIv4GyzJztgkKEd0/1._Aend.-Antrag_GRUeNE_Haushalt_2024_vom_26.02.2024.pdf
+- Anlage: Beschlussvorlage (2. Änd.-Antrag GRÜNE Haushalt 2024 vom 26.02.2024) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTyznWZPUI1eorJmlDsybx6LK3Pl2ycZOmlUAhP0Lu30/2._Aend.-Antrag_GRUeNE_Haushalt_2024_vom_26.02.2024.pdf
+- Anlage: Beschlussvorlage (3. Änd.-Antrag GRÜNE Haushalt 2024 vom 11.03.2024) https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaCBwu6nA5BsYM5RrhSg_aRENz0QGESOPkgQMAv9cMpQ/3._Aend.-Antrag_GRUeNE_Haushalt_2024_vom_11.03.2024.pdf
+- Beratung:  https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/meeting/1703 https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/organization/3-10
