@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreisausschusses
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2024-03-13T15:00:00+01:00
+- Ende: 2024-03-13T17:18:00+01:00
+- Ort: NE, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/2
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4462
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/4462
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreisausschuss 13.03.2024 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00093094.pdf
+- Ergebnisprotokoll: Einladung Kreisausschuss 13.03.2024 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00093094.pdf
+- Wortprotokoll: Einladung Kreisausschuss 13.03.2024 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00093094.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit - Feststellung Beschlussfähigkeit
+- TOP 2: Bestätigung von Beschlüssen der Ausschüsse
+- TOP 2.1: Ausschuss für Rettungswesen, Feuer- und Katastrophenschutz vom 25.01.2024 - einstimmig beschlossen
+- TOP 2.2: Ausschuss für Soziales und Wohnen vom 01.02.2024 - einstimmig beschlossen
+- TOP 2.3: Naturschutzbeirat am 06.02.2024 - einstimmig beschlossen
+- TOP 2.4: Jugendhilfeausschuss am 07.02.2024 - einstimmig beschlossen
+- TOP 2.5: Ausschuss für Innovation, Digitalisierung und Standortmarketing vom 15.02.2024 - einstimmig beschlossen
+- TOP 2.6: Kulturausschuss am 19.02.2024 - einstimmig beschlossen
+- TOP 3: Kenntnisnahme von Niederschriften
+- TOP 3.1: Gesundheitsausschuss vom 23.11.2023 - zur Kenntnis genommen
+- TOP 3.2: Partnerschaftskomitee Europäische Nachbarn am 05.02.2024 - zur Kenntnis genommen
+- TOP 4: Antrag der Kreistagsfraktion UWG/Freie Wähler/Zentrum vom 01.02.2024 - Umbesetzung Kommission Silberner Plan - einstimmig beschlossen
+- TOP 5: Strukturwandel, Braunkohlenplanung und Energiewirtschaft - zur Kenntnis genommen
+- TOP 6: Regionalarbeit - zur Kenntnis genommen
+- TOP 7: Region Köln/Bonn e. V.: Gesteigerter Nutzen des Ausbaus des Vereins für den Rhein-Kreis Neuss
+- TOP 8: Vereidigung stellvertretender Mitglieder des Kreisausschusses
+- TOP 9: Wirtschafts - und Beschäftigungsförderung (Stand März) - zur Kenntnis genommen
+- TOP 10: Entwicklung der Kosten der Unterkunft und der Bedarfsgemeinschaften - zur Kenntnis genommen
+- TOP 11: Anregung gem. § 21 KrO NRW
+- TOP 12: Wettbewerb „Unser Dorf hat Zukunft“ 2024 als Vorentscheidung für den Landeswettbewerb 2025 - einstimmig beschlossen
+- TOP 13: Anträge
+- TOP 14: Vorbesprechung der Tagesordnung der Sitzung des Kreistages am 20.03.2024 - öffentlicher Teil - - einstimmig beschlossen
+- TOP 15: Mitteilungen
+- TOP 15.1: Rhein-Kreis Neuss bei WhatsApp
+- TOP 16: Anfragen
+- TOP 16.1: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 26.02.2024 zum Thema "Bezahlkarte für geflüchtete Personen im Rhein-Kreis Neuss"
+- TOP 16.1.1: Tischvorlage: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen vom 26.02.2024 zum Thema "Bezahlkarte für geflüchtete Personen im Rhein-Kreis Neuss"
+- TOP 16.2: Tischvorlage: Anfrage der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen zum Thema Genehmigungen von Windenergieanlagen (WEA) vom 04.03.2024
+- TOP 16.3: Tischvorlage: Anfrage der AfD Kreistagsfraktion zum Thema "Windräder" vom 04.03.2024
+- TOP 16.4: Tischvorlage: Anfrage der AfD Kreistagsfraktion zum Thema "Abbau von Bürokratie" vom 04.03.2024
+- TOP 16.5: Anfrage der AfD Kreistagsfraktion zum Thema "Stand der Digitalisierung" vom 03.03.2024
+- TOP 16.5.1: Tischvorlage: Anfrage der Kreistagsfrakton AfD vom 03.03.2024
+- TOP 17: Bericht der Verwaltung/ Beschlusskontrolle
+- TOP 18: Einwohnerfragestunde
