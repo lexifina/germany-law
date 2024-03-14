@@ -1,0 +1,63 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-03-14T17:00:00+01:00
+- Ende: 2024-03-14T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13677
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13677
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00545424.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder der Bezirksvertretung
+- TOP 2: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 3: Anregungen gemäß § 24 GO NRW
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Anliegen des Jugendrates
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage an die Verwaltung "Sachstand Oxford-Quartier" - beantwortet
+- TOP 6: Berichte
+- TOP 6.1: Aktuelle Pflegeinfrastruktur in Münster-Nienberge - zur Kenntnis genommen
+- TOP 6.2: Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 6.3: Bericht über die Anträge auf Baukostenzuschuss von Münsteraner Sportvereinen mit Antrag auf förderunschädlichen vorzeitigen Baubeginn - zur Kenntnis genommen
+- TOP 7: Entscheidungen
+- TOP 7.1: Unterhaltung der städtischen Immobilien 2024 im Stadtbezirk Münster-West, geplante Instandsetzungsmaßnahmen -Baubeschlüsse- - einstimmig beschlossen
+- TOP 8: Anhörungen
+- TOP 8.1: 133. FNP-Änderung - Beschluss zur Änderung - Vorhabenbezogener B-Plan 648 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 8.2: Weiterführung und Ausweitung des Pilotprojektes LOOPmünster - ÖPNV on Demand - einstimmig beschlossen
+- TOP 8.3: Kanalbau Wenningweg - Erschließung der Streusiedlung - Baubeschluss Kanalbau - - einstimmig beschlossen
+- TOP 8.4: Ersatzneubau Brücke Rüschhausweg (K1) / Hunnebecke BW0800366 - einstimmig beschlossen
+- TOP 8.5: 1. Änderung des „Allgemeinen Rahmens zur Aufnahme von Schülerinnen und Schülern in die städtischen Schulen ( - einstimmig beschlossen
+- TOP 8.6: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster
+- TOP 8.6.1: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 8.7: Baugebiet "Albachten - Südlich Weseler Straße / Östlich Höhe Geist" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - einstimmig beschlossen
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Sicherer (Fahrrad-)Schulweg zur neuen Gesamtschule Münster-West - eingebracht
+- TOP 9.2: Endlich auf der sicheren Seite - Tempo 30 für die Sendener Stiege - eingebracht
+- TOP 9.3: "Perspektiven für das Seniorenzentrum der Caritas / Pflegeeinrichtungen in Nienberge" - eingebracht
+- TOP 9.4: Geschwindigkeitsbegrenzung auf dem Rüschhausweg im Bereich der Wartburg-Grundschule - eingebracht
+- TOP 9.5: Tempolimit für Welsingheide - eingebracht
+- TOP 9.6: Spielplatz Heroldstraße (25406) gegen Überschwemmung sichern - eingebracht
+- TOP 9.7: Ökologische Aufwertung von Grünflächen in Mecklenbeck - Stellungnahme zur Kenntnis genommen
+- TOP 9.8: Sicherheit ernst nehmen: Mängel am Feuerwehrgerätehaus des Löschzuges der Freiwilligen Feuerwehr Häger-Uhlenbrock - eingebracht
+- TOP 9.9: Verlegung der Baustelle in der Ortsmitte von Sentrup - eingebracht
+- TOP 9.10: Geschwindigkeitsmessung auf dem Eupener Weg (Stadtteil: Sentruper Höhe) - eingebracht
+- TOP 9.11: Durchfahrtsverbot für LKW (Anlieger frei) und Anbringen eines Hinweisschilds "Bitte ganz rechts parken" für den Eupener Weg - eingebracht
+- TOP 9.12: Kreuzung Schmeddingstraße / Soetenkamp verkehrssicherer gestalten - eingebracht
+- TOP 9.13: Baustelle Waldeyerstraße (u.a. V/0210/2022): Schaffung von Parkmöglichkeiten - eingebracht
+- TOP 9.14: Klimafreundliche öffentliche Toiletten in Münster-West - eingebracht
+- TOP 9.15: Theresiengrund: Sicherheit für Radfahrende erhöhen - eingebracht
+- TOP 9.16: Sentruper Straße / Kardinal-von-Galen-Ring: Rechtsabbiegung für Radfahrende sinnvoll gestalten - eingebracht
+- TOP 9.17: Radverkehrsverbindung Von-Esmarch-Straße kurzfristig und kostengünstig durch Markierung von großzügigem Radfahrstreifen verbessern - eingebracht
+- TOP 9.18: Steinfurter Straße / Wasserweg: überflüssige Ampel abschalten - eingebracht
+- TOP 9.19: Sammelbehälter für Hundekotbeutel am Theresiengrund/Obstwiese - eingebracht
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Bordstein Dingbängerweg auf Höhe Lidl / Sparkasse absenken - Stellungnahme zur Kenntnis genommen
+- TOP 10.2: Überholverbot für Zweiradfahrer*innen auf der Brücke Am Rohrbusch in Roxel - Stellungnahme zur Kenntnis genommen
+- TOP 10.3: Infotafeln zur Erhöhung der Verkehrssicherheit auf der Rüschhausbrücke - Stellungnahme zur Kenntnis genommen
+- TOP 10.4: Zukünftige Nutzung der Einfachsporthalle auf dem Oxfordgelände - Zwischenmitteilung zur Kenntnis genommen
+- TOP 11: Verschiedenes - zur Kenntnis genommen
