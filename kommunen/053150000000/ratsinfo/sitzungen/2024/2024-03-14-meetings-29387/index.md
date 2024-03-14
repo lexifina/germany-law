@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-14T17:06:00+01:00
+- Ende: 2024-03-14T20:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29387
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29387
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 - Antrag SPD-Fraktion auf die Durchführung einer Aktuellen Stunde zum Thema "Anmeldeproblematik von Porzer Schulkindern an weiterführenden Schulen" - Sache ist erledigt
+- TOP -: A - Sachstand Schulbau in Porz
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Anpassung des Radverkehrshauptnetzes - zurückgestellt
+- TOP 6.2: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2024 - ungeändert beschlossen
+- TOP 6.3: Straßenbaumkonzept Porz - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Straßenbaumkonzept Porz" - ungeändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Änderungsantrag der SPD-Fraktion "Straßenbaumkonzept (neu)" - endgültig abgelehnt
+- TOP -: Stellungnahme: Änderungsantrag zur öffentlichen Sitzung der Bezirksvertretung Porz am 31.08.2023 Top 6.1 Straßenbaumkonzept Porz AN/1290/2023
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beschluss über die Aufhebung der Einleitung zur Änderung eines Teilbereich des Bebauungsplan 7441/02 sowie Beschluss zur einfachen Änderung des gesamten Bebauungsplan 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Änderung eines Teilbereichs des Bebauungsplanes 7441" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Gewerbegebiet Eil" - ungeändert beschlossen
+- TOP 7.2: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen "Machbarkeitsstudie Verlängerung Stadtbahn" - ungeändert beschlossen
+- TOP -: Machbarkeitsstudie Verlängerung der Stadtbahn vom Deutzer Hafen bis zum Deutzer Bahnhof - Kenntnis genommen
+- TOP 7.3: Erlass einer ordnungsbehördlichen Verordnung zur Verhütung von Unfällen mit Kampfmitteln im ehemals militärisch genutzten Bereich der Wahner Heide. - ungeändert beschlossen
+- TOP 7.4: Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Niedrigschwellige Suchthilfe" - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Einrichtung von „Schulstraßen“ im Bezirk Porz" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Einrichtung von Schulstraßen" - endgültig abgelehnt
+- TOP 8.2: Antrag der Fraktionen CDU, SPD und Grüne "Suche nach einem neuen Standort für die freiwillige Feuerwehr, Löschgruppe Ensen-Westhoven" - ungeändert beschlossen
+- TOP -: "Suche nach einem neuen Standort für die freiwillige Feuerwehr, Löschgruppe Ensen-Westhoven", Stellungnahme zu einem Antrag (AN 0336/2024) - Kenntnis genommen
+- TOP 8.3: Antrag der SPD-Fraktion "Standorte für Papierkörbe mit Pendelklappen in Grünlagen" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Sicherheit auf der Gilgaustraße in Ensen" - zurückgestellt
+- TOP -: Änderungsantrag SPD-Fraktion "Verbesserung der Sicherheit auf der Gilgaustraße in Ensen" - zurückgestellt
+- TOP 8.5: Antrag der SPD-Fraktion "Prüfung geeigneter Maßnahmen zur Sicherung des Fahrradstreifens vor dem Kaiserkiosk in Köln-Porz-Urbach" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Dringliche Einrichtung einer zusätzlichen Wechselweiche auf der KVBLinie 7" - geändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Parksituation im Bereich der Zufahrt zum Standort / Gerätehaus der freiwilligen Feuerwehr Löschgruppe Ensen, Annastraße / Heinrich-Renard- - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion "Städtebauförderprogramm 2023" - endgültig zurückgezogen
+- TOP -: Integriertes Stadtentwicklungskonzept (ISEK) Porz-Mitte - Kenntnis genommen
+- TOP 8.9: Antrag der SPD-Fraktion "Dringliche Einrichtung einer zusätzlichen Wechselweiche auf der KVB-Linie 7" - Sache ist erledigt
+- TOP 8.10: Antrag der SPD-Fraktion "Schulwegsicherung im Bereich des seitlichen Eingangs zur GGS Hohe, Gilgaustraße, Ensen" - zurückgestellt
+- TOP 8.11: Antrag der SPD-Fraktion "Temporäre Sperrung von Straßen, die Schulweg zur Friedrich-List-Grundschule sind" - zurückgestellt
+- TOP 8.12: Antrag der SPD-Fraktion "Feste Abgabeplätze von Sharing-Angeboten" - ungeändert beschlossen
+- TOP 8.13: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Vorlage 2385/2023 Rat" - endgültig zurückgezogen
+- TOP 8.14: Dringlichkeitsantrag SPD "Kontakt- und Anlaufstelle für drogen- und suchtmittelabhängige Menschen" - endgültig zurückgezogen
+- TOP 8.15: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Abtrennung von Porz Langel vom 19.03.24 bis 25.04.24" - ungeändert beschlossen
+- TOP 8.16: Dringlichkeitsantrag der Fraktionen CDU, SPD und Grüne "Nutzung des Zirkuszeltes des Zirkushofs in der Zeit vom 22.03.2024 bis zum 31.10.24 mit Aussicht auf Verlängerung für die Wintersaison am Bürgerzentrum Engelshof" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Transparenz der Verkehrssituation um die Hohenstaufenstraße herstellen - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Transparenz der Verkehrssituation um die Hohenstaufenstraße herstellen" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage (BV) zum "Sachstand der Bebauung des B-Plan-Gebietes Poller Damm" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand der Bebauung des B-Plan-Gebietes Poller Damm" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer Anfrage zu "Straßenbaumaßnahme Elisabethstraße" - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Ortstermin Sperrflächen im Bereich der Straßenbiegung Martin-Luther- - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Information der Bezirksvertretung bei Bauvorhaben" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Aufstellung von Fahrradständern Turnhalle und Gymnastikhalle der GGS Don-Bosco TOP 8.10 Ö in der Sitzung der Bezirksvertretung 7 vom - zurückgestellt
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Aus welchen Gründen erfolgt der Brückenabriss des Brückenbauwerks "Gilgaustraße" ohne eine qualifizierte Information der Bezirksvertretung Porz? - zurückgestellt
+- TOP 9.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.2: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln - Kenntnis genommen
+- TOP 10.2.3: Errichtung von 3 Wohngebäuden mit 27 WE und einer Tiefgarage - Kenntnis genommen
+- TOP 10.2.4: Deutzer Hafen: 3. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 10.2.5: Bauunterhaltung/Instandhaltung der Kölner Bürgerhäuser/Bürgerzentren - Kenntnis genommen
+- TOP 10.2.6: Bearbeitung von Bürgereingaben nach § 24 GO NRW im Dezernat für Mobilität - Kenntnis genommen
+- TOP 10.2.7: Stadtradeln 2024 - Kenntnis genommen
+- TOP 10.2.8: ISEK Porz-Mitte - Gestaltung Parkanlage Glashüttenstraße - Kenntnis genommen
+- TOP 10.2.9: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen
+- TOP 10.2.10: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW, hier: Abschluss des Förderprogramms im Bezirkszentrum Porz - Kenntnis genommen
+- TOP 10.2.11: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 10.2.12: Förderprogramm "Ehrenamt und Klimaschutz" Bürgerschaftliches Engagement für den Klimaschutz in den Kölner Bezirken stärken - Kenntnis genommen
+- TOP 10.2.13: Stellungnahme zu einem Antrag der CDU-Fraktion aus der Sitzung der Bezirksvertretung Porz am 30.11.2023 (AN/2022/2023) betreffend "Ausbau der palliativen Versorgungsstruktur in Porz/im Rechtsrheinischen" - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
