@@ -1,0 +1,73 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-14T17:00:00+01:00
+- Ende: 2024-03-14T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30081
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30081
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme eines Geschenks gem. Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Dauerlärm in Merkenich durch den Abriss der alten Leverkusener Autobahnbrücke
+- TOP 7.2.2: Anfrage bezüglich des Zustands der Fahrradwege im Bezirk Chorweiler
+- TOP 7.2.3: Barrierefreier Zugang im Bezirk Chorweiler - endgültig zurückgezogen
+- TOP 7.2.4: Anfrage bezüglich Sicherheitsmaßnahmen an der Bushaltestelle in Köln Seeberg Herstattalle
+- TOP 7.2.5: Anfrage zur Umsetzung von Stadtverschönerungsmaßnahmen durch Finanzierung und Förderung der Bezirksvertretung
+- TOP 7.2.6: Anfrage bezüglich Marktöffnungszeiten und Marktstandkontrolle auf dem Chorweiler Markt
+- TOP 7.2.7: Sanierung Bezirkssportanlage Merianstraße
+- TOP 7.2.8: Schul- und Kindergartenplätze im Stadtbezirk
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Stadtverschönerungsprogramms 2024 - Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Die Grünen, Fraktion DIE LINKE und Lilo Heinrich und FDP, zur Sitzung der Bezirksvertretung Chorweiler am 14.03.2024 - ungeändert beschlossen
+- TOP 8.2.4: Antrag auf Installation eines 24/7 Smart Terminals für Ausweisdokumente im Stadtbezirk Chorweiler - ungeändert beschlossen
+- TOP 8.2.4.1: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.2.5: Antrag zur Verbesserung der Verkehrssicherheit rund um die Grundschulen KGS und GGS An den Kaulen - endgültig zurückgezogen
+- TOP 8.2.5.1: Sicherer Schulweg in Worringen - ungeändert beschlossen
+- TOP 8.2.6: Prüfantrag auf Einführung eines 7-Tage-Busdienstes für Blumenberg - ungeändert beschlossen
+- TOP 8.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.8: Ausbau des Blumenbergswegs und Anschluss an die A57 an der Ausfahrt Worringen - ungeändert beschlossen
+- TOP 8.2.9: Haushaltsmittel für Bürgervereine, Kultur sowie Stadtklima- und Stadtverschönerungsmittel - ungeändert beschlossen
+- TOP 8.2.10: Parksituation und Verkehrsicherheit vor Grundschulen im Bezirk Chorweiler - endgültig abgelehnt
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Baubeschluss für.die Sanierung/Umbau der Neusser Landstraße im Abschnitt zwischen Kurzer Damm und Haus-Nr. 439 in Köln-Worringen sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP 9.2.2: Pflege- und Entwicklungsplan zum Naturschutzgebiet N22 "Baadenberger Senke, Stöckheimer See und Große Laache" - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 10.2.2: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.3: Bauunterhaltung/Instandhaltung der Kölner Bürgerhäuser/Bürgerzentren - Kenntnis genommen
+- TOP 10.2.4: Bearbeitung von Bürgereingaben nach § 24 GO NRW im Dezernat für Mobilität - Kenntnis genommen
+- TOP 10.2.5: Stadtradeln 2024 - Kenntnis genommen
+- TOP 10.2.6: Krebelshof in Köln-Worringen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 10.2.7: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 10.2.8: Fühlinger See Veranstaltungsplanung 2024 - Kenntnis genommen
+- TOP 10.2.9: Förderprogramm "Ehrenamt und Klimaschutz" Bürgerschaftliches Engagement für den Klimaschutz in den Kölner Bezirken stärken - Kenntnis genommen
+- TOP 10.2.10: Information über die Prüfung der eingereichten Verwendungsnachweise über die bezirksorientierten Mittel 2023 - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Mündliche Anfrage der CDU-Fraktion Unzumutbare Wohnbedingungen in Häusern (Wohnblocks) - im Besitz eines Investmentfonds der Genossenschaftsbank – in Köln Chorweiler
+- TOP 11.2.2: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen Verkehrswidriges Verhalten von Autofahrenden im Mutzerather Weg in Köln-Heimersdorf
+- TOP 11.3: Anfragen der Seniorenvertretung
