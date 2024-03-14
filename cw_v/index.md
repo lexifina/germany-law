@@ -8,6 +8,7 @@
 - [§ 4 Meldepflichten bei Produktion, Verarbeitung und Verbrauch](0004.md)
 - [§ 5 Meldearten und -angaben](0005.md)
 - [§ 6 Meldepflichten bei Ein- und Ausfuhr](0006.md)
+- [§ 6a Aufklärung von Transferdiskrepanzen](0006a.md)
 - [§ 7 Weitere Meldevorschriften](0007.md)
 - [§ 8 Formvorschriften](0008.md)
 - [§ 9 Ausnahmen für geringe Konzentrationen](0009.md)
