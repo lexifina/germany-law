@@ -1,0 +1,94 @@
+# 25. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-14T15:10:00+01:00
+- Ende: 2024-03-14T17:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29638
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29638
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung von mündlichen Anfragen der RM Pakulat und Kienitz aus der Sitzung des Stadtentwicklungsausschusses am 30.11.2023 betreffend "Baubeschluss für die Bahnsteiganhebung der Haltestelle Barbarossaplatz" - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Anfrage von RM Roß-Belkner (CDU-Fraktion) aus der Sitzung des StEA am 01.02.2024 (TOP 8.1, bzw. 1.3) betreffend die Erschließung und Entwässerung am Falkenweg in Köln-Rondorf - Kenntnis genommen
+- TOP 1.3: Autonomes Zentrum - Beantwortung von Anfragen zum Sachstandsbericht - Kenntnis genommen
+- TOP 1.4: Wohnungsbaubericht - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen - zurückgestellt
+- TOP 2.2: Qualitätskriterien bei Hochhausplanungen; hier: noch näher zu definierende Qualifizierungsschritte - Kenntnis genommen
+- TOP 2.2.1: Beantwortung Anfrage AN/0425/2024 Qualitätskriterien bei Hochhausplanungen; hier: noch näher zu definierende Qualifizierungsschritte - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg - zurückgestellt
+- TOP 3.1.1: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP 3.1.2: Stellungnahme zum Antrag der Ratsgruppe KLIMA FREUNDE & GUT betreffend: "Bestandsschutz der Kleingartenanlage „Kölsche Kiwis“ am Maarweg" - zurückgestellt
+- TOP 3.2: Geförderten Wohnungsbau in größeren §34er-BauGB Projekten sicherstellen - zurückgestellt
+- TOP 3.2.1: Stellungnahme zum Antrag (AN/2132/2023) gemäß § 3 der Geschäftsordnung des Rates hier: Verbesserung der Transparenz vorhanderner Beteiligungsgremien und Erhöhung der Intensität der Beteiligung - Kenntnis genommen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Höhenentwicklungskonzept für die Innere Stadt Köln - ungeändert beschlossen
+- TOP 4.1.1: Städtebaulicher Masterplan Innenstadt. Höhenentwicklungskonzept für die Innere Stadt Köln; hier: Beschluss von Grundsätzen für die Entwicklung des Räumlichen Plans - Sache ist erledigt
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Kommunale Wärmeplanung: Aufstellungsbeschluss - ungeändert empfohlen
+- TOP 6.2: Erbbaurecht-Baustein 2: Grundstücke für soziokulturelle Nutzung - zurückgestellt
+- TOP 6.3: Entwicklungsbereich Hallen Kalk, hier: Machbarkeitsstudie Halle 71 als Grundlage der weiteren Bearbeitung - ungeändert empfohlen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Beschluss zur Durchführung der Frühzeitigen Öffentlichkeitsbeteiligung zum Städtebaulichen Entwurf Falkenweg in Köln-Rondorf - ungeändert beschlossen
+- TOP 8.1.1: Änderungsantrag zu Top 8.1 - Sache ist erledigt
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - zurückgestellt
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Arbeitstitel: Widdersdorfer Straße 158 und 188a in Köln-Ehrenfeld Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.3: Stb. Konzept "Am Bilderstöckchen"; Anhörung der BV5 zu den Ergebn. der Frühz. Öffentlichkeitsb., Beschluss über die Vorgaben zur Ausarbeitung BP-Etwurf (VEP) - ungeändert beschlossen
+- TOP 9.4: Planungskonzept stb. Entwicklung Longericher Str. in Köln-Bilderstöckchen, Anhörung der BV 5 zu den Ergebnissen der frühz. Öffentlichkeitsbet., Beschluss über die Vorgaben zur Ausarbeitung des BP-Entwurfes - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Einleitungsbeschluss zur Aufhebung des Bebauungsplanes Nr. 7549/02 Arbeitstitel: Hatzfeldstraße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.2: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.3: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.4: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.5: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.6: Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.7: Satzungen über Anbringungsort, Abmessungen und Ausgestaltungen von Werbeanlagen, über die äußere Gestaltung baulicher Anlagen für einen Teil der Ortslage in Köln - ungeändert empfohlen
+- TOP 12.8: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 63482/02, Arbeitstitel: Rochusstraße in Köln-Ossendorf - zurückgestellt
+- TOP 12.9: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63457/03, Arbeitstitel: Wohnbebauung Alsdorfer Straße in Köln-Braunsfeld/Ehrenfeld - ungeändert empfohlen
+- TOP 12.10: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf) 63459/02 Arbeitstitel: Widdersdorfer Straße in Köln-Ehrenfeld, 1. Änderung - ungeändert empfohlen
+- TOP 12.11: Beschluss über die Stellungnahmen sowie Satzungsbeschluss betreffend den Entwurf zur Änderung des Bebauungsplans Nr. 71380/03 - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Einleitungsbeschluss betreffend die Änderung des Bebauungsplanes Nr. 74403/02 Arbeitstitel: Schulstandort Urbacher Weg in Köln-Porz - ungeändert beschlossen
+- TOP 13.2: Beschluss über die Aufhebung der Einleitung zur Änderung eines Teilbereich des Bebauungsplan 7441/02 sowie Beschluss zur einfachen Änderung des gesamten Bebauungsplan 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung - zurückgestellt
+- TOP 13.2.1: Ergänzungsantrag Beschluss Aufhebung Einleitung zur Änderung Teilbereich Bebauungsplan 7441/02 sowie Beschluss einfache Änderung des gesamten Bebauungsplanes 7441/02; Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung (4064/2023) TOP 13.2 - zurückgestellt
+- TOP 13.3: Beschluss über die Aufhebung des Einleitungsbeschlusses zum B-Plan Ehrenfeldgürtel 125 – Wohnen und Einzelhandel - und Beschluss über die Einleitung eines B-Plans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Ehrenfeldgürtel 125 - geändert beschlossen
+- TOP 13.4: Änderung des Bebauungsplanes Nummer 63459/04 - Arbeitstitel „Stolberger Straße in Köln-Braunsfeld/-Ehrenfeld, 1. Änderung“ - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Aufhebung des Aufstellungsbeschlusses des Bebauungsplanes Nr. 7549/03 Arbeitstitel: Hatzfeldstraße/Radiumstraße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Fraktion Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT), betr.: Beschluss über die Aufstellung eines Bebauungsplanes - zurückgestellt
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB), Bebauungsplan-Entwurf 6250/03, 2. Änderung, Arbeitstitel: 2. Änderung Von-Hünefeld-Straße in Köln-Ossendorf - Kenntnis genommen
+- TOP 17.2: 231. Änderung des Flächennutzungsplans im Stadtbezirk 1, Köln-Innenstadt - Kenntnis genommen
+- TOP 17.3: Beteiligung der Öffentlichkeit nach § 3 Absatz 2 BauGB und Beteiligung der Behörden nach § 4 Abs. 2 i.V. mit § 4a Abs. 3 BauGB Bebauungsplan (Entwurf) Nr. 69449/05 „Östlich Reitweg (Campus Deutz der TH Köln) in Köln-Deutz - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Beantwortung einer mündlichen Anfrage zu: Beschluss von Grundsätzen für die Entwicklung des Räumlichen Plans (3276/2023) - Kenntnis genommen
+- TOP 18.2: Ergebnis der Wohnraumförderung mit Mitteln des Landes Nordrhein-Westfalen im Jahr 2023 - Kenntnis genommen
+- TOP 18.3: Deutzer Hafen: 3. Sitzung des Begleitgremiums; Ergebnisprotokoll - Kenntnis genommen
+- TOP 18.4: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates, AN/0044/2024 der GOL zum Thema "NSU Mahnmal Keupstraße“ in Köln-Mülheim aus der Sitzung des Integrationsrates vom 16.01.2024. - Kenntnis genommen
+- TOP 18.5: Änderung (Teilaufhebung) des Bebauungsplanes Nr. 60499/03 - Kenntnis genommen
+- TOP 18.6: Beteiligung der Öffentlichkeit nach § 3 Absatz 2 BauGB und Beteiligung der Behörden nach § 4 Abs. 2 i.V. mit § 4a Abs. 3 BauGB Bebauungsplan (Ent-wurf) Nr. 69449/05 „Östlich Reitweg (Campus Deutz der TH Köln) in Köln-Deutz - Kenntnis genommen
+- TOP 18.7: Umsetzung der Sozialen Erhaltungssatzung Severinsviertel Vierter Sachstands-, Erfahrungsbericht - Kenntnis genommen
+- TOP 18.8: Aktualisierung der Kurzfassung zum Gewerbe und Industrieflächengutachten von 2019 - Kenntnis genommen
+- TOP 18.9: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 18.10: Einkommensverteilung in Köln - Ergebnisse der Strukturdatenerhebung 2023 - Kenntnis genommen
+- TOP 18.11: Veranstaltungsreihe Kölner Perspektiven 2024 - Kenntnis genommen
+- TOP 18.12: Gewerbeflächenbereitstellungskonzept (GFBK); Stand 31.12.2023 - Kenntnis genommen
+- TOP 18.13: Bahnhof Belvedere / Fällgenehmigung für die Platane 1 - Kenntnis genommen
+- TOP 18.14: Stadtradeln 2024 - Kenntnis genommen
+- TOP 18.15: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
