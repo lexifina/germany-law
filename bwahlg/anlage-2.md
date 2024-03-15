@@ -42,8 +42,8 @@
 |  |  |  | die Gemeinden Felm, Gettorf, Lindau, Neudorf-Bornstein, Neuwittenbek, Osdorf, Schinkel, Tüttendorf |
 |  |  |  | Amt Eiderkanal |
 |  |  |  | die Gemeinden Bovenau, Haßmoor, Ostenfeld (Rendsburg), Osterrönfeld, Rade b. Rendsburg, Schacht-Audorf, Schülldorf |
-|  |  |  | Amt Flintbek |
-|  |  |  | die Gemeinden Böhnhusen, Flintbek, Schönhorst, Techelsdorf |
+|  |  |  | Amt Eidertal |
+|  |  |  | die Gemeinden Blumenthal, Böhnhusen, Flintbek, Mielkendorf, Molfsee, Rodenbek, Rumohr, Schierensee, Schönhorst, Techelsdorf |
 |  |  |  | Amt Fockbek |
 |  |  |  | die Gemeinden Alt Duvenstedt, Fockbek, Nübbel, Rickert |
 |  |  |  | Amt Hohner Harde |
@@ -54,8 +54,6 @@
 |  |  |  | die Gemeinden Brinjahe, Embühren, Haale, Hamweddel, Hörsten, Jevenstedt, Luhnstedt, Schülp b. Rendsburg, Stafstedt, Westerrönfeld |
 |  |  |  | Amt Mittelholstein |
 |  |  |  | die Gemeinden Arpsdorf, Aukrug, Beldorf, Bendorf, Beringstedt, Bornholt, Ehndorf, Gokels, Grauel, Hanerau-Hademarschen, Heinkenborstel, Hohenwestedt, Jahrsdorf, Lütjenwestedt, Meezen, Mörel, Nienborstel, Nindorf, Oldenbüttel, Osterstedt, Padenstedt, Rade b. Hohenwestedt, Remmels, Seefeld, Steenfeld, Tackesdorf, Tappendorf, Thaden, Todenbüttel, Wapelfeld |
-|  |  |  | Amt Molfsee |
-|  |  |  | die Gemeinden Blumenthal, Mielkendorf, Molfsee, Rodenbek, Rumohr, Schierensee |
 |  |  |  | Amt Nortorfer Land |
 |  |  |  | die Gemeinden Bargstedt, Bokel, Borgdorf-Seedorf, Brammer, Dätgen, Eisendorf, Ellerdorf, Emkendorf, Gnutz, Groß Vollstedt, Krogaspe, Langwedel, Nortorf, Oldenhütten, Schülp b. Nortorf, Timmaspe, Warder |
 |  |  |  | Amt Schlei-Ostsee |
@@ -74,12 +72,12 @@
 | 7 | Pinneberg | Kreis Pinneberg |
 | 8 | Segeberg – Stormarn-Mitte | Vom Kreis Segeberg |
 |  |  |  | amtsfreie Gemeinden Bad Segeberg, Ellerau, Henstedt-Ulzburg, Kaltenkirchen, Norderstedt, Wahlstedt |
+|  |  |  | Amt Auenland Südholstein |
+|  |  |  | die Gemeinden Alveslohe, Hartenholm, Hasenmoor, Lentföhrden, Nützen, Schmalfeld |
 |  |  |  | Amt Bornhöved |
 |  |  |  | die Gemeinden Bornhöved, Damsdorf, Gönnebek, Schmalensee, Stocksee, Tarbek, Tensfeld, Trappenkamp |
 |  |  |  | Amt Itzstedt |
 |  |  |  | die Gemeinden Itzstedt, Kayhude, Nahe, Oering, Seth, Sülfeld, (ohne Tangstedt, s. Kreis Stormarn) |
-|  |  |  | Amt Kaltenkirchen-Land |
-|  |  |  | die Gemeinden Alveslohe, Hartenholm, Hasenmoor, Lentföhrden, Nützen, Schmalfeld |
 |  |  |  | Amt Kisdorf |
 |  |  |  | die Gemeinden Hüttblek, Kattendorf, Kisdorf, Oersdorf, Sievershütten, Struvenhütten, Stuvenborn, Wakendorf II, Winsen |
 |  |  |  | Amt Leezen |
@@ -102,7 +100,7 @@
 |  |  |  | die Gemeinden Badendorf, Barnitz, Feldhorst, Hamberge, Heidekamp, Heilshoop, Klein Wesenberg, Mönkhagen, Rehhorst, Wesenberg, Westerau, Zarpen |
 |  |  | (Übrige Gemeinden s. Wkr. 8, 10) |
 | 10 | Herzogtum Lauenburg – Stormarn-Süd | Vom Kreis Herzogtum Lauenburg |
-|  | amtsfreie Gemeinden Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf bei Hamburg |
+|  |  |  | amtsfreie Gemeinden Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf bei Hamburg |
 |  |  |  | Amt Breitenfelde |
 |  |  |  | die Gemeinden Alt-Mölln, Bälau, Borstorf, Breitenfelde, Grambek, Hornbek, Lehmrade, Niendorf/Stecknitz, Schretstaken, Talkau, Woltersdorf |
 |  |  |  | Amt Büchen |
@@ -337,7 +335,7 @@
 |  |  |  | die Gemeinden Lahn, Lorup, Rastdorf, Vrees, Stadt Werlte |
 |  |  | (Übrige Gemeinden s. Wkr. 31) |
 | 26 | Friesland – Wilhelmshaven – Wittmund | Kreisfreie Stadt Wilhelmshaven |
-|  |  | Landkreis Friesland |
+|  | Landkreis Friesland |
 |  |  | Landkreis Wittmund |
 | 27 | Oldenburg – Ammerland | Kreisfreie Stadt Oldenburg (Oldenburg) |
 |  |  | Landkreis Ammerland |
@@ -413,7 +411,7 @@
 |  |  | (Übrige Gemeinden s. Wkr. 30) |
 | 36 | Harburg | Landkreis Harburg |
 | 37 | Lüchow-Dannenberg – Lüneburg | Landkreis Lüchow-Dannenberg |
-|  |  | Landkreis Lüneburg |
+|  | Landkreis Lüneburg |
 | 38 | Osnabrück-Land | Vom Landkreis Osnabrück |
 |  |  |  | die Gemeinden Bad Essen, Stadt Bad Iburg, Bad Laer, Bad Rothenfelde, Bissendorf, Bohmte, Stadt Bramsche, Stadt Dissen am Teutoburger Wald, Glandorf, Hilter am Teutoburger Wald, Stadt Melle, Ostercappeln |
 |  |  |  | Samtgemeinde Artland |
@@ -434,14 +432,12 @@
 |  |  |  | die Gemeinden Stadt Nienburg (Weser), Stadt Rehburg-Loccum, Flecken Steyerberg |
 |  |  |  | Samtgemeinde Heemsen |
 |  |  |  | die Gemeinden Flecken Drakenburg, Haßbergen, Heemsen, Rohrsen |
-|  |  |  | Samtgemeinde Liebenau |
-|  |  |  | die Gemeinden Binnen, Flecken Liebenau, Pennigsehl |
-|  |  |  | Samtgemeinde Marklohe |
-|  |  |  | die Gemeinden Balge, Marklohe, Wietzen |
 |  |  |  | Samtgemeinde Mittelweser |
 |  |  |  | die Gemeinden Estorf, Husum, Landesbergen, Leese, Stolzenau |
 |  |  |  | Samtgemeinde Steimbke |
 |  |  |  | die Gemeinden Linsburg, Rodewald, Steimbke, Stöckse |
+|  |  |  | Samtgemeinde Weser-Aue |
+|  |  |  | die Gemeinden Balge, Binnen, Flecken Liebenau, Marklohe, Pennigsehl, Wietzen |
 |  |  | (Übrige Gemeinden s. Wkr. 33) |
 | 41 | Stadt Hannover I | „Hannover-Nord“, nördlicher Teil der Stadt Hannover, mit den Stadtteilen |
 |  |  |  | Anderten, Bothfeld, Brink-Hafen, Burg, Groß-Buchholz, Hainholz, Heideviertel, Isernhagen-Süd, Kleefeld, Lahe, Ledeburg, Leinhausen, List, Marienwerder, Misburg-Nord, Misburg-Süd, Nordhafen, Oststadt, Sahlkamp, Stöcken, Vahrenheide, Vahrenwald, Vinnhorst, Zoo |
@@ -469,7 +465,7 @@
 |  |  |  | die Gemeinden Groß Oesingen, Schönewörde, Ummern, Wagenhoff, Wahrenholz, Wesendorf |
 |  |  | (Übrige Gemeinden s. Wkr. 51) |
 | 46 | Hameln-Pyrmont – Holzminden | Landkreis Hameln-Pyrmont |
-|  |  | Landkreis Holzminden |
+|  | Landkreis Holzminden |
 |  |  | vom Landkreis Northeim |
 |  |  |  | die Gemeinden Flecken Bodenfelde, Stadt Uslar und das gemeindefreie Gebiet Solling |
 |  |  | (Übrige Gemeinden s. Wkr. 52) |
@@ -478,11 +474,9 @@
 |  |  | (Übrige Gemeinden s. Wkr. 41, 42, 43) |
 | 48 | Hildesheim | Landkreis Hildesheim |
 | 49 | Salzgitter – Wolfenbüttel | Kreisfreie Stadt Salzgitter |
-|  |  | Landkreis Wolfenbüttel |
+|  | Landkreis Wolfenbüttel |
 |  |  | vom Landkreis Goslar |
 |  |  |  | die Gemeinden Stadt Langelsheim, Liebenburg, Stadt Seesen |
-|  |  |  | Samtgemeinde Lutter am Barenberge |
-|  |  |  | die Gemeinden Hahausen, Flecken Lutter am Barenberge, Wallmoden |
 |  |  | (Übrige Gemeinden s. Wkr. 52) |
 | 50 | Braunschweig | Kreisfreie Stadt Braunschweig |
 | 51 | Helmstedt – Wolfsburg | Kreisfreie Stadt Wolfsburg |
@@ -494,8 +488,8 @@
 |  |  |  | Samtgemeinde Brome |
 |  |  |  | die Gemeinden Bergfeld, Flecken Brome, Ehra-Lessien, Parsau, Rühen, Tiddische, Tülau |
 |  |  | (Übrige Gemeinden s. Wkr. 45) |
-| 52 | Goslar – Northeim – Osterode | Vom Landkreis Göttingen |
-|  |  |  | die Gemeinden Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das gemeindefreie Gebiet Harz (Landkreis Göttingen) |
+| 52 | Goslar – Northeim – Göttingen II | Vom Landkreis Göttingen |
+|  |  | die Gemeinden Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das gemeindefreie Gebiet Harz (Landkreis Göttingen) |
 |  |  |  | Samtgemeinde Hattorf am Harz |
 |  |  |  | die Gemeinden Elbingerode, Hattorf am Harz, Hörden am Harz, Wulften am Harz |
 |  |  | (Übrige Gemeinden s. Wkr. 53) |
@@ -505,7 +499,7 @@
 |  |  | vom Landkreis Northeim |
 |  |  |  | die Gemeinden Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen, Kalefeld, Katlenburg-Lindau, Stadt Moringen, Flecken Nörten-Hardenberg, Stadt Northeim |
 |  |  | (Übrige Gemeinden s. Wkr. 46) |
-| 53 | Göttingen | Vom Landkreis Göttingen |
+| 53 | Göttingen I | Vom Landkreis Göttingen |
 |  |  |  | die Gemeinden Flecken Adelebsen, Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa, Flecken Bovenden, Stadt Duderstadt, Friedland, Gleichen, Stadt Göttingen, Stadt Hann. Münden, Stadt Herzberg am Harz, Rosdorf, Staufenberg |
 |  |  |  | Samtgemeinde Dransfeld |
 |  |  |  | die Gemeinden Bühren, Stadt Dransfeld, Jühnde, Niemetal, Scheden |
@@ -523,7 +517,7 @@
 |  |  |  | die Stadtteile Neustadt, Obervieland, Huchting (Ortsteile 211 bis 244) |
 |  |  | (Übrige Stadt- und Ortsteile s. Wkr. 55) |
 | 55 | Bremen II – Bremerhaven | Von der kreisfreien Stadt Bremen |
-|  |  |  | der Stadtbezirk West (Ortsteile 411 bis 445) |
+|  |  | der Stadtbezirk West (Ortsteile 411 bis 445) |
 |  |  |  | der Stadtbezirk Nord (Ortsteile 511 bis 535) |
 |  |  |  | vom Stadtbezirk Mitte |
 |  |  |  | der Stadtteil Häfen (Ortsteile 122 bis 125) |
@@ -559,7 +553,7 @@
 |  |  |  | amtsfreie Gemeinden Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Schönwalde-Glien, Wustermark |
 |  |  | (Übrige Gemeinden s. Wkr. 56, 60) |
 | 59 | Märkisch-Oderland – Barnim II | Landkreis Märkisch-Oderland |
-|  |  | vom Landkreis Barnim |
+|  | vom Landkreis Barnim |
 |  |  |  | amtsfreie Gemeinden Ahrensfelde, Bernau bei Berlin, Panketal, Werneuchen |
 |  |  | (Übrige Gemeinden s. Wkr. 57) |
 | 60 | Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I | Kreisfreie Stadt Brandenburg an der Havel |
@@ -584,16 +578,13 @@
 |  |  | (Übrige Gemeinden s. Wkr. 61, 62) |
 | 61 | Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II | Kreisfreie Stadt Potsdam |
 |  | vom Landkreis Potsdam-Mittelmark |
-|  |  |  | amtsfreie Gemeinden Kleinmachnow, Michendorf, Nuthetal, Schwielowsee, Stahnsdorf, Teltow |
+|  |  | amtsfreie Gemeinden Kleinmachnow, Michendorf, Nuthetal, Schwielowsee, Stahnsdorf, Teltow |
 |  |  | (Übrige Gemeinden s. Wkr. 60) |
 |  |  | vom Landkreis Teltow-Fläming |
 |  |  |  | amtsfreie Gemeinde Ludwigsfelde |
 |  |  | (Übrige Gemeinden s. Wkr. 60, 62) |
-| 62 | Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I | Landkreis Dahme-Spreewald |
-|  | vom Landkreis Oberspreewald-Lausitz |
-|  |  | amtsfreie Gemeinde Lübbenau/Spreewald |
-|  |  | (Übrige Gemeinden s. Wkr. 65) |
-|  |  | vom Landkreis Teltow-Fläming |
+| 62 | Dahme-Spreewald – Teltow-Fläming III | Landkreis Dahme-Spreewald |
+|  | vom Landkreis Teltow-Fläming |
 |  |  |  | amtsfreie Gemeinden Am Mellensee, Baruth/Mark, Blankenfelde-Mahlow, Großbeeren, Luckenwalde, Nuthe-Urstromtal, Rangsdorf, Trebbin, Zossen |
 |  |  |  | Amt Dahme/Mark |
 |  |  |  | die Gemeinden Dahme/Mark, Dahmetal, Ihlow, Niederer Fläming |
@@ -602,32 +593,13 @@
 |  |  | Landkreis Oder-Spree |
 | 64 | Cottbus – Spree-Neiße | Kreisfreie Stadt Cottbus |
 |  |  | Landkreis Spree-Neiße |
-| 65 | Elbe-Elster – Oberspreewald-Lausitz II | Landkreis Elbe-Elster |
-|  |  | vom Landkreis Oberspreewald-Lausitz |
-|  |  |  | amtsfreie Gemeinden Calau, Großräschen, Lauchhammer, Schipkau, Schwarzheide, Senftenberg, Vetschau/Spreewald |
-|  |  |  | Amt Altdöbern |
-|  |  |  | die Gemeinden Altdöbern, Bronkow, Luckaitztal, Neu-Seeland, Neupetershain |
-|  |  |  | Amt Ortrand |
-|  |  |  | die Gemeinden Frauendorf, Großkmehlen, Kroppen, Lindenau, Ortrand, Tettau |
-|  |  |  | Amt Ruhland |
-|  |  |  | die Gemeinden Grünewald, Guteborn, Hermsdorf, Hohenbocka, Ruhland, Schwarzbach |
-|  |  | (Übrige Gemeinde s. Wkr. 62) |
+| 65 | Elbe-Elster – Oberspreewald-Lausitz | Landkreis Elbe-Elster |
+|  | Landkreis Oberspreewald-Lausitz |
 | Sachsen-Anhalt |
-| 66 | Altmark | Altmarkkreis Salzwedel |
-|  |  | Landkreis Stendal |
-| 67 | Börde – Jerichower Land | Landkreis Börde |
+| 66 | Altmark – Jerichower Land | Altmarkkreis Salzwedel |
 |  |  | Landkreis Jerichower Land |
-| 68 | Harz | Landkreis Harz |
-|  |  | vom Salzlandkreis |
-|  |  |  | die Gemeinden Aschersleben, Seeland |
-|  |  | (Übrige Gemeinden s. Wkr. 69, 71) |
-| 69 | Magdeburg | Kreisfreie Stadt Magdeburg |
-|  |  | vom Salzlandkreis |
-|  |  |  | die Gemeinden Barby, Bördeland, Calbe (Saale), Schönebeck (Elbe) |
-|  |  | (Übrige Gemeinden s. Wkr. 68, 71) |
-| 70 | Dessau – Wittenberg | Kreisfreie Stadt Dessau-Roßlau |
-|  |  | Landkreis Wittenberg |
-| 71 | Anhalt | Landkreis Anhalt-Bitterfeld |
+|  |  | Landkreis Stendal |
+| 67 | Börde – Salzlandkreis | Landkreis Börde |
 |  |  | vom Salzlandkreis |
 |  |  |  | die Gemeinden Bernburg (Saale), Hecklingen, Könnern, Nienburg (Saale), Staßfurt |
 |  |  |  | Verbandsgemeinde Egelner Mulde |
@@ -635,258 +607,277 @@
 |  |  |  | Verbandsgemeinde Saale-Wipper |
 |  |  |  | die Gemeinden Alsleben (Saale), Giersleben, Güsten, Ilberstedt, Plötzkau |
 |  |  | (Übrige Gemeinden s. Wkr. 68, 69) |
-| 72 | Halle | Kreisfreie Stadt Halle (Saale) |
+| 68 | Harz | Landkreis Harz |
+|  |  | vom Salzlandkreis |
+|  |  |  | die Gemeinden Aschersleben, Seeland |
+|  |  | (Übrige Gemeinden s. Wkr. 67, 69) |
+| 69 | Magdeburg | Kreisfreie Stadt Magdeburg |
+|  |  | vom Salzlandkreis |
+|  |  |  | die Gemeinden Barby, Bördeland, Calbe (Saale), Schönebeck (Elbe) |
+|  |  | (Übrige Gemeinden s. Wkr. 67, 68) |
+| 70 | Anhalt – Dessau – Wittenberg | Kreisfreie Stadt Dessau-Roßlau |
+|  |  | Landkreis Wittenberg |
+|  |  | vom Landkreis Anhalt-Bitterfeld |
+|  |  |  | die Gemeinden Bitterfeld-Wolfen, Muldestausee, Raguhn-Jeßnitz, Zerbst/Anhalt |
+|  |  | (Übrige Gemeinden s. Wkr. 71, 73) |
+| 71 | Halle | Kreisfreie Stadt Halle (Saale) |
+|  |  | vom Landkreis Anhalt-Bitterfeld |
+|  |  |  | die Gemeinden Sandersdorf-Brehna, Zörbig |
+|  |  | (Übrige Gemeinden s. Wkr. 70, 73) |
 |  |  | vom Saalekreis |
 |  |  |  | die Gemeinden Kabelsketal, Landsberg, Petersberg |
-|  |  | (Übrige Gemeinden s. Wkr. 73, 74) |
-| 73 | Burgenland – Saalekreis | Burgenlandkreis |
+|  |  | (Übrige Gemeinden s. Wkr. 72, 73) |
+| 72 | Burgenland – Saalekreis | Burgenlandkreis |
 |  |  | vom Saalekreis |
-|  |  |  | die Gemeinden Bad Dürrenberg, Braunsbedra, Leuna, Schkopau |
-|  |  | (Übrige Gemeinden s. Wkr. 72, 74) |
-| 74 | Mansfeld | Landkreis Mansfeld-Südharz |
+|  |  |  | die Gemeinden Bad Dürrenberg, Braunsbedra, Leuna, Merseburg, Schkopau |
+|  |  | (Übrige Gemeinden s. Wkr. 71, 73) |
+| 73 | Mansfeld | Landkreis Mansfeld-Südharz |
+|  |  | vom Landkreis Anhalt-Bitterfeld |
+|  |  |  | die Gemeinden Aken (Elbe), Köthen (Anhalt), Osternienburger Land, Südliches Anhalt |
+|  |  | (Übrige Gemeinden s. Wkr. 70, 71) |
 |  |  | vom Saalekreis |
-|  |  |  | die Gemeinden Bad Lauchstädt, Merseburg, Mücheln (Geiseltal), Querfurt, Salzatal, Teutschenthal, Wettin-Löbejün |
+|  |  |  | die Gemeinden Bad Lauchstädt, Mücheln (Geiseltal), Querfurt, Salzatal, Teutschenthal, Wettin-Löbejün |
 |  |  |  | Verbandsgemeinde Weida-Land |
 |  |  |  | die Gemeinden Barnstädt, Farnstädt, Nemsdorf-Göhrendorf, Obhausen, Schraplau, Steigra |
-|  |  | (Übrige Gemeinden s. Wkr. 72, 73) |
+|  |  | (Übrige Gemeinden s. Wkr. 71, 72) |
 | Berlin |
-| 75 | Berlin-Mitte | Bezirk Mitte |
-| 76 | Berlin-Pankow | Bezirk Pankow |
+| 74 | Berlin-Mitte | Bezirk Mitte |
+| 75 | Berlin-Pankow | Bezirk Pankow |
 |  |  |  | ohne das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich der Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen Friedhofs |
-|  |  | (Übriger Bezirk s. Wkr. 83) |
-| 77 | Berlin-Reinickendorf | Bezirk Reinickendorf |
-| 78 | Berlin-Spandau – Charlottenburg Nord | Bezirk Spandau |
-|  |  | vom Bezirk Charlottenburg-Wilmersdorf |
+|  |  | (Übriger Bezirk s. Wkr. 82) |
+| 76 | Berlin-Reinickendorf | Bezirk Reinickendorf |
+| 77 | Berlin-Spandau – Charlottenburg Nord | Bezirk Spandau |
+|  | vom Bezirk Charlottenburg-Wilmersdorf |
 |  |  |  | das Gebiet nördlich der Spree |
-|  |  | (Übriger Bezirk s. Wkr. 80) |
-| 79 | Berlin-Steglitz-Zehlendorf | Bezirk Steglitz-Zehlendorf |
-| 80 | Berlin-Charlottenburg-Wilmersdorf | Bezirk Charlottenburg-Wilmersdorf |
-|  |  |  | ohne das Gebiet nördlich der Spree |
-|  |  | (Übriger Bezirk s. Wkr. 78) |
-| 81 | Berlin-Tempelhof-Schöneberg | Bezirk Tempelhof-Schöneberg |
-| 82 | Berlin-Neukölln | Bezirk Neukölln |
-| 83 | Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost | Bezirk Friedrichshain-Kreuzberg |
+|  |  | (Übriger Bezirk s. Wkr. 79) |
+| 78 | Berlin-Steglitz-Zehlendorf | Bezirk Steglitz-Zehlendorf |
+| 79 | Berlin-Charlottenburg-Wilmersdorf | Bezirk Charlottenburg-Wilmersdorf |
+|  |  | ohne das Gebiet nördlich der Spree |
+|  |  | (Übriger Bezirk s. Wkr. 77) |
+| 80 | Berlin-Tempelhof-Schöneberg | Bezirk Tempelhof-Schöneberg |
+| 81 | Berlin-Neukölln | Bezirk Neukölln |
+| 82 | Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost | Bezirk Friedrichshain-Kreuzberg |
 |  | vom Bezirk Pankow |
 |  |  |  | das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich der Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen Friedhofs |
-|  |  | (Übriger Bezirk s. Wkr. 76) |
-| 84 | Berlin-Treptow-Köpenick | Bezirk Treptow-Köpenick |
-| 85 | Berlin-Marzahn-Hellersdorf | Bezirk Marzahn-Hellersdorf |
-| 86 | Berlin-Lichtenberg | Bezirk Lichtenberg |
+|  |  | (Übriger Bezirk s. Wkr. 75) |
+| 83 | Berlin-Treptow-Köpenick | Bezirk Treptow-Köpenick |
+| 84 | Berlin-Marzahn-Hellersdorf | Bezirk Marzahn-Hellersdorf |
+| 85 | Berlin-Lichtenberg | Bezirk Lichtenberg |
 | Nordrhein-Westfalen |
-| 87 | Aachen I | Von der Städteregion Aachen |
+| 86 | Aachen I | Von der Städteregion Aachen |
 |  |  |  | die Stadt Aachen |
-|  |  | (Übrige Gemeinden s. Wkr. 88) |
-| 88 | Aachen II | Von der Städteregion Aachen |
-|  |  |  | die Gemeinden Alsdorf, Baesweiler, Eschweiler, Herzogenrath, Monschau, Roetgen, Simmerath, Stollberg (Rhld.), Würselen |
-|  |  | (Übrige Gemeinde s. Wkr. 87) |
-| 89 | Heinsberg | Kreis Heinsberg |
-| 90 | Düren | Kreis Düren |
-| 91 | Rhein-Erft-Kreis I | Vom Rhein-Erft-Kreis |
+|  |  | (Übrige Gemeinden s. Wkr. 87) |
+| 87 | Aachen II | Von der Städteregion Aachen |
+|  |  |  | die Gemeinden Alsdorf, Baesweiler, Eschweiler, Herzogenrath, Monschau, Roetgen, Simmerath, Stolberg (Rhld.), Würselen |
+|  |  | (Übrige Gemeinde s. Wkr. 86) |
+| 88 | Heinsberg | Kreis Heinsberg |
+| 89 | Düren | Kreis Düren |
+| 90 | Rhein-Erft-Kreis I | Vom Rhein-Erft-Kreis |
 |  |  |  | die Gemeinden Bedburg, Bergheim, Elsdorf, Frechen, Hürth, Kerpen, Pulheim |
-|  |  | (Übrige Gemeinden s. Wkr. 92) |
-| 92 | Euskirchen – Rhein-Erft-Kreis II | Kreis Euskirchen |
+|  |  | (Übrige Gemeinden s. Wkr. 91) |
+| 91 | Euskirchen – Rhein-Erft-Kreis II | Kreis Euskirchen |
 |  |  | vom Rhein-Erft-Kreis |
 |  |  |  | die Gemeinden Brühl, Erftstadt, Wesseling |
-|  |  | (Übrige Gemeinden s. Wkr. 91) |
-| 93 | Köln I | Von der kreisfreien Stadt Köln |
+|  |  | (Übrige Gemeinden s. Wkr. 90) |
+| 92 | Köln I | Von der kreisfreien Stadt Köln |
 |  |  |  | vom Stadtbezirk 1 Innenstadt |
 |  |  |  | die Stadtteile Altstadt-Nord, Deutz, Neustadt-Nord |
-|  |  | (Übrige Stadtteile s. Wkr. 94) |
+|  |  | (Übrige Stadtteile s. Wkr. 93) |
 |  |  |  | die Stadtbezirke 7 Porz, 8 Kalk |
-|  |  | (Übrige Stadtbezirke s. Wkr. 94, 95, 101) |
-| 94 | Köln II | Von der kreisfreien Stadt Köln |
+|  |  | (Übrige Stadtbezirke s. Wkr. 93, 94, 100) |
+| 93 | Köln II | Von der kreisfreien Stadt Köln |
 |  |  |  | vom Stadtbezirk 1 Innenstadt |
 |  |  |  | die Stadtteile Altstadt-Süd, Neustadt-Süd |
-|  |  | (Übrige Stadtteile s. Wkr. 93) |
+|  |  | (Übrige Stadtteile s. Wkr. 92) |
 |  |  |  | die Stadtbezirke 2 Rodenkirchen, 3 Lindenthal |
-|  |  | (Übrige Stadtbezirke s. Wkr. 93, 95, 101) |
-| 95 | Köln III | Von der kreisfreien Stadt Köln |
+|  |  | (Übrige Stadtbezirke s. Wkr. 92, 94, 100) |
+| 94 | Köln III | Von der kreisfreien Stadt Köln |
 |  |  |  | die Stadtbezirke 4 Ehrenfeld, 5 Nippes, 6 Chorweiler |
-|  |  | (Übrige Stadtbezirke s. Wkr. 93, 94, 101) |
-| 96 | Bonn | Kreisfreie Stadt Bonn |
-| 97 | Rhein-Sieg-Kreis I | Vom Rhein-Sieg-Kreis |
+|  |  | (Übrige Stadtbezirke s. Wkr. 92, 93, 100) |
+| 95 | Bonn | Kreisfreie Stadt Bonn |
+| 96 | Rhein-Sieg-Kreis I | Vom Rhein-Sieg-Kreis |
 |  |  |  | die Gemeinden Eitorf, Hennef (Sieg), Lohmar, Much, Neunkirchen-Seelscheid, Niederkassel, Ruppichteroth, Siegburg, Troisdorf, Windeck |
-|  |  | (Übrige Gemeinden s. Wkr. 98) |
-| 98 | Rhein-Sieg-Kreis II | Vom Rhein-Sieg-Kreis |
-|  |  |  | die Gemeinden Alfter, Bad Honnef, Bornheim, Königswinter, Meckenheim, Rheinbach, Sankt Augustin, Swisttal, Wachtberg |
 |  |  | (Übrige Gemeinden s. Wkr. 97) |
-| 99 | Oberbergischer Kreis | Oberbergischer Kreis |
-| 100 | Rheinisch-Bergischer Kreis | Rheinisch-Bergischer Kreis |
-| 101 | Leverkusen – Köln IV | Kreisfreie Stadt Leverkusen |
+| 97 | Rhein-Sieg-Kreis II | Vom Rhein-Sieg-Kreis |
+|  |  |  | die Gemeinden Alfter, Bad Honnef, Bornheim, Königswinter, Meckenheim, Rheinbach, Sankt Augustin, Swisttal, Wachtberg |
+|  |  | (Übrige Gemeinden s. Wkr. 96) |
+| 98 | Oberbergischer Kreis | Oberbergischer Kreis |
+| 99 | Rheinisch-Bergischer Kreis | Rheinisch-Bergischer Kreis |
+| 100 | Leverkusen – Köln IV | Kreisfreie Stadt Leverkusen |
 |  |  | von der kreisfreien Stadt Köln |
 |  |  |  | der Stadtbezirk 9 Mülheim |
-|  |  | (Übrige Stadtbezirke s. Wkr. 93, 94, 95) |
-| 102 | Wuppertal I | Von der kreisfreien Stadt Wuppertal |
+|  |  | (Übrige Stadtbezirke s. Wkr. 92, 93, 94) |
+| 101 | Wuppertal I | Von der kreisfreien Stadt Wuppertal |
 |  |  |  | die Stadtbezirke 0 Elberfeld, 1 Elberfeld West, 2 Uellendahl-Katernberg, 3 Vohwinkel, 5 Barmen, 6 Oberbarmen, 7 Heckinghausen, 8 Langerfeld-Beyenburg |
-|  |  | (Übrige Stadtbezirke s. Wkr. 103) |
-| 103 | Solingen – Remscheid – Wuppertal II | Kreisfreie Stadt Remscheid |
+|  |  | (Übrige Stadtbezirke s. Wkr. 102) |
+| 102 | Solingen – Remscheid – Wuppertal II | Kreisfreie Stadt Remscheid |
 |  | Kreisfreie Stadt Solingen |
 |  |  | von der kreisfreien Stadt Wuppertal |
 |  |  |  | die Stadtbezirke 4 Cronenberg, 9 Ronsdorf |
-|  |  | (Übrige Stadtbezirke s. Wkr. 102) |
-| 104 | Mettmann I | Vom Kreis Mettmann |
+|  |  | (Übrige Stadtbezirke s. Wkr. 101) |
+| 103 | Mettmann I | Vom Kreis Mettmann |
 |  |  |  | die Gemeinden Erkrath, Haan, Hilden, Langenfeld (Rheinland), Mettmann, Monheim am Rhein |
-|  |  | (Übrige Gemeinden s. Wkr. 105) |
-| 105 | Mettmann II | Vom Kreis Mettmann |
-|  |  |  | die Gemeinden Heiligenhaus, Ratingen, Velbert, Wülfrath |
 |  |  | (Übrige Gemeinden s. Wkr. 104) |
-| 106 | Düsseldorf I | Von der kreisfreien Stadt Düsseldorf |
+| 104 | Mettmann II | Vom Kreis Mettmann |
+|  |  |  | die Gemeinden Heiligenhaus, Ratingen, Velbert, Wülfrath |
+|  |  | (Übrige Gemeinden s. Wkr. 103) |
+| 105 | Düsseldorf I | Von der kreisfreien Stadt Düsseldorf |
 |  |  |  | die Stadtbezirke 1, 2, 4, 5, 6, 7 |
-|  |  | (Übrige Stadtbezirke s. Wkr. 107) |
-| 107 | Düsseldorf II | Von der kreisfreien Stadt Düsseldorf |
-|  |  |  | die Stadtbezirke 3, 8, 9, 10 |
 |  |  | (Übrige Stadtbezirke s. Wkr. 106) |
-| 108 | Neuss I | Vom Rhein-Kreis Neuss |
+| 106 | Düsseldorf II | Von der kreisfreien Stadt Düsseldorf |
+|  |  |  | die Stadtbezirke 3, 8, 9, 10 |
+|  |  | (Übrige Stadtbezirke s. Wkr. 105) |
+| 107 | Neuss I | Vom Rhein-Kreis Neuss |
 |  |  |  | die Gemeinden Dormagen, Grevenbroich, Neuss, Rommerskirchen |
-|  |  | (Übrige Gemeinden s. Wkr. 110) |
-| 109 | Mönchengladbach | Kreisfreie Stadt Mönchengladbach |
-| 110 | Krefeld I – Neuss II | Von der kreisfreien Stadt Krefeld |
+|  |  | (Übrige Gemeinden s. Wkr. 109) |
+| 108 | Mönchengladbach | Kreisfreie Stadt Mönchengladbach |
+| 109 | Krefeld I – Neuss II | Von der kreisfreien Stadt Krefeld |
 |  |  |  | die Stadtbezirke 1 West, 5 Süd, 6 Fischeln, 7 Oppum-Linn, 9 Uerdingen |
-|  |  | (Übrige Stadtbezirke s. Wkr. 114) |
+|  |  | (Übrige Stadtbezirke s. Wkr. 113) |
 |  |  | vom Rhein-Kreis Neuss |
 |  |  |  | die Gemeinden Jüchen, Kaarst, Korschenbroich, Meerbusch |
-|  |  | (Übrige Gemeinden s. Wkr. 108) |
-| 111 | Viersen | Kreis Viersen |
-| 112 | Kleve | Kreis Kleve |
-| 113 | Wesel I | Vom Kreis Wesel |
+|  |  | (Übrige Gemeinden s. Wkr. 107) |
+| 110 | Viersen | Kreis Viersen |
+| 111 | Kleve | Kreis Kleve |
+| 112 | Wesel I | Vom Kreis Wesel |
 |  |  |  | die Gemeinden Alpen, Hamminkeln, Hünxe, Kamp-Lintfort, Rheinberg, Schermbeck, Sonsbeck, Voerde (Niederrhein), Wesel, Xanten |
-|  |  | (Übrige Gemeinden s. Wkr. 114, 117) |
-| 114 | Krefeld II – Wesel II | Von der kreisfreien Stadt Krefeld |
+|  |  | (Übrige Gemeinden s. Wkr. 113, 116) |
+| 113 | Krefeld II – Wesel II | Von der kreisfreien Stadt Krefeld |
 |  |  |  | die Stadtbezirke 2 Nord, 3 Hüls, 4 Mitte, 8 Ost |
-|  |  | (Übrige Stadtbezirke s. Wkr. 110) |
+|  |  | (Übrige Stadtbezirke s. Wkr. 109) |
 |  |  | vom Kreis Wesel |
 |  |  |  | die Gemeinden Moers, Neukirchen-Vluyn |
-|  |  | (Übrige Gemeinden s. Wkr. 113, 117) |
-| 115 | Duisburg I | Von der kreisfreien Stadt Duisburg |
+|  |  | (Übrige Gemeinden s. Wkr. 112, 116) |
+| 114 | Duisburg I | Von der kreisfreien Stadt Duisburg |
 |  |  |  | die Stadtbezirke 600 Rheinhausen, 700 Süd |
 |  |  |  | vom Stadtbezirk 500 Mitte |
 |  |  |  | die Stadtteile 501 Altstadt, 502 Neuenkamp, 503 Kaßlerfeld, 505 Neudorf-Nord, 506 Neudorf-Süd, 507 Dellviertel, 508 Hochfeld, 509 Wanheimerort |
-|  |  | (Übrige Stadtbezirke und der Stadtteil 504 Duissern des Stadtbezirks Mitte s. Wkr. 116) |
-| 116 | Duisburg II | Von der kreisfreien Stadt Duisburg |
+|  |  | (Übrige Stadtbezirke und der Stadtteil 504 Duissern des Stadtbezirks Mitte s. Wkr. 115) |
+| 115 | Duisburg II | Von der kreisfreien Stadt Duisburg |
 |  |  |  | die Stadtbezirke 100 Walsum, 200 Hamborn, 300 Meiderich/Beeck, 400 Homberg/Ruhrort/Baerl |
 |  |  |  | vom Stadtbezirk 500 Mitte |
 |  |  |  | der Stadtteil 504 Duissern |
-|  |  | (Übrige Stadtbezirke und Stadtteile des Stadtbezirks Mitte s. Wkr. 115) |
-| 117 | Oberhausen – Wesel III | Kreisfreie Stadt Oberhausen |
+|  |  | (Übrige Stadtbezirke und Stadtteile des Stadtbezirks Mitte s. Wkr. 114) |
+| 116 | Oberhausen – Wesel III | Kreisfreie Stadt Oberhausen |
 |  |  | vom Kreis Wesel |
 |  |  |  | die Gemeinde Dinslaken |
-|  |  | (Übrige Gemeinden s. Wkr. 113, 114) |
-| 118 | Mülheim – Essen I | Kreisfreie Stadt Mülheim an der Ruhr |
+|  |  | (Übrige Gemeinden s. Wkr. 112, 113) |
+| 117 | Mülheim – Essen I | Kreisfreie Stadt Mülheim an der Ruhr |
 |  |  | von der kreisfreien Stadt Essen |
 |  |  |  | der Stadtbezirk IV |
-|  |  | (Übrige Stadtbezirke s. Wkr. 119, 120) |
-| 119 | Essen II | Von der kreisfreien Stadt Essen |
-|  |  |  | die Stadtbezirke I, V, VI, VII |
-|  |  | (Übrige Stadtbezirke s. Wkr. 118, 120) |
-| 120 | Essen III | Von der kreisfreien Stadt Essen |
-|  |  |  | die Stadtbezirke II, III, VIII, IX |
 |  |  | (Übrige Stadtbezirke s. Wkr. 118, 119) |
-| 121 | Recklinghausen I | Vom Kreis Recklinghausen |
+| 118 | Essen II | Von der kreisfreien Stadt Essen |
+|  |  |  | die Stadtbezirke I, V, VI, VII |
+|  |  | (Übrige Stadtbezirke s. Wkr. 117, 119) |
+| 119 | Essen III | Von der kreisfreien Stadt Essen |
+|  |  |  | die Stadtbezirke II, III, VIII, IX |
+|  |  | (Übrige Stadtbezirke s. Wkr. 117, 118) |
+| 120 | Recklinghausen I | Vom Kreis Recklinghausen |
 |  |  |  | die Gemeinden Castrop-Rauxel, Recklinghausen, Waltrop |
-|  |  | (Übrige Gemeinden s. Wkr. 122, 125) |
-| 122 | Recklinghausen II | Vom Kreis Recklinghausen |
+|  |  | (Übrige Gemeinden s. Wkr. 121, 124) |
+| 121 | Recklinghausen II | Vom Kreis Recklinghausen |
 |  |  |  | die Gemeinden Datteln, Haltern am See, Herten, Marl, Oer-Erkenschwick |
-|  |  | (Übrige Gemeinden s. Wkr. 121, 125) |
-| 123 | Gelsenkirchen | Kreisfreie Stadt Gelsenkirchen |
-| 124 | Steinfurt I – Borken I | Vom Kreis Borken |
+|  |  | (Übrige Gemeinden s. Wkr. 120, 124) |
+| 122 | Gelsenkirchen | Kreisfreie Stadt Gelsenkirchen |
+| 123 | Steinfurt I – Borken I | Vom Kreis Borken |
 |  |  |  | die Gemeinden Ahaus, Gronau (Westf.), Heek, Legden, Schöppingen |
-|  |  | (Übrige Gemeinden s. Wkr. 126) |
+|  |  | (Übrige Gemeinden s. Wkr. 125) |
 |  |  | vom Kreis Steinfurt |
 |  |  |  | die Gemeinden Horstmar, Metelen, Neuenkirchen, Ochtrup, Rheine, Steinfurt, Wettringen |
-|  |  | (Übrige Gemeinden s. Wkr. 127, 128) |
-| 125 | Bottrop – Recklinghausen III | Kreisfreie Stadt Bottrop |
+|  |  | (Übrige Gemeinden s. Wkr. 126, 127) |
+| 124 | Bottrop – Recklinghausen III | Kreisfreie Stadt Bottrop |
 |  |  | vom Kreis Recklinghausen |
 |  |  |  | die Gemeinden Dorsten, Gladbeck |
-|  |  | (Übrige Gemeinden s. Wkr. 121, 122) |
-| 126 | Borken II | Vom Kreis Borken |
+|  |  | (Übrige Gemeinden s. Wkr. 120, 121) |
+| 125 | Borken II | Vom Kreis Borken |
 |  |  |  | die Gemeinden Bocholt, Borken, Gescher, Heiden, Isselburg, Raesfeld, Reken, Rhede, Stadtlohn, Südlohn, Velen, Vreden |
-|  |  | (Übrige Gemeinden s. Wkr. 124) |
-| 127 | Coesfeld – Steinfurt II | Kreis Coesfeld |
+|  |  | (Übrige Gemeinden s. Wkr. 123) |
+| 126 | Coesfeld – Steinfurt II | Kreis Coesfeld |
 |  |  | vom Kreis Steinfurt |
 |  |  |  | die Gemeinden Altenberge, Laer, Nordwalde |
-|  |  | (Übrige Gemeinden s. Wkr. 124, 128) |
-| 128 | Steinfurt III | Vom Kreis Steinfurt |
+|  |  | (Übrige Gemeinden s. Wkr. 123, 127) |
+| 127 | Steinfurt III | Vom Kreis Steinfurt |
 |  |  |  | die Gemeinden Emsdetten, Greven, Hörstel, Hopsten, Ibbenbüren, Ladbergen, Lengerich, Lienen, Lotte, Mettingen, Recke, Saerbeck, Tecklenburg, Westerkappeln |
-|  |  | (Übrige Gemeinden s. Wkr. 124, 127) |
-| 129 | Münster | Kreisfreie Stadt Münster |
-| 130 | Warendorf | Kreis Warendorf |
-| 131 | Gütersloh I | Vom Kreis Gütersloh |
+|  |  | (Übrige Gemeinden s. Wkr. 123, 126) |
+| 128 | Münster | Kreisfreie Stadt Münster |
+| 129 | Warendorf | Kreis Warendorf |
+| 130 | Gütersloh I | Vom Kreis Gütersloh |
 |  |  |  | die Gemeinden Borgholzhausen, Gütersloh, Halle (Westf.), Harsewinkel, Herzebrock-Clarholz, Langenberg, Rheda-Wiedenbrück, Rietberg, Steinhagen, Verl, Versmold |
-|  |  | (Übrige Gemeinden s. Wkr. 132, 136) |
-| 132 | Bielefeld – Gütersloh II | Kreisfreie Stadt Bielefeld |
+|  |  | (Übrige Gemeinden s. Wkr. 131, 135) |
+| 131 | Bielefeld – Gütersloh II | Kreisfreie Stadt Bielefeld |
 |  |  | vom Kreis Gütersloh |
 |  |  |  | die Gemeinde Werther (Westf.) |
-|  |  | (Übrige Gemeinden s. Wkr. 131, 136) |
-| 133 | Herford – Minden-Lübbecke II | Kreis Herford |
+|  |  | (Übrige Gemeinden s. Wkr. 130, 135) |
+| 132 | Herford – Minden-Lübbecke II | Kreis Herford |
 |  |  | vom Kreis Minden-Lübbecke |
 |  |  |  | die Gemeinde Bad Oeynhausen |
-|  |  | (Übrige Gemeinden s. Wkr. 134) |
-| 134 | Minden-Lübbecke I | Vom Kreis Minden-Lübbecke |
+|  |  | (Übrige Gemeinden s. Wkr. 133) |
+| 133 | Minden-Lübbecke I | Vom Kreis Minden-Lübbecke |
 |  |  |  | die Gemeinden Espelkamp, Hille, Hüllhorst, Lübbecke, Minden, Petershagen, Porta Westfalica, Preußisch Oldendorf, Rahden, Stemwede |
-|  |  | (Übrige Gemeinde s. Wkr. 133) |
-| 135 | Lippe I | Vom Kreis Lippe |
+|  |  | (Übrige Gemeinde s. Wkr. 132) |
+| 134 | Lippe I | Vom Kreis Lippe |
 |  |  |  | die Gemeinden Bad Salzuflen, Barntrup, Blomberg, Detmold, Dörentrup, Extertal, Kalletal, Lage, Lemgo, Leopoldshöhe, Oerlinghausen |
-|  |  | (Übrige Gemeinden s. Wkr. 136) |
-| 136 | Höxter – Gütersloh III – Lippe II | Kreis Höxter |
+|  |  | (Übrige Gemeinden s. Wkr. 135) |
+| 135 | Höxter – Gütersloh III – Lippe II | Kreis Höxter |
 |  |  | vom Kreis Gütersloh |
 |  |  |  | die Gemeinde Schloß Holte-Stukenbrock |
-|  |  | (Übrige Gemeinden s. Wkr. 131, 132) |
+|  |  | (Übrige Gemeinden s. Wkr. 130, 131) |
 |  |  | vom Kreis Lippe |
 |  |  |  | die Gemeinden Augustdorf, Horn-Bad Meinberg, Lügde, Schieder-Schwalenberg, Schlangen |
-|  |  | (Übrige Gemeinden s. Wkr. 135) |
-| 137 | Paderborn | Kreis Paderborn |
-| 138 | Hagen – Ennepe-Ruhr-Kreis I | Kreisfreie Stadt Hagen |
+|  |  | (Übrige Gemeinden s. Wkr. 134) |
+| 136 | Paderborn | Kreis Paderborn |
+| 137 | Hagen – Ennepe-Ruhr-Kreis I | Kreisfreie Stadt Hagen |
 |  |  | vom Ennepe-Ruhr-Kreis |
 |  |  |  | die Gemeinden Breckerfeld, Ennepetal, Gevelsberg, Schwelm |
-|  |  | (Übrige Gemeinden s. Wkr. 139) |
-| 139 | Ennepe-Ruhr-Kreis II | Vom Ennepe-Ruhr-Kreis |
-|  |  |  | die Gemeinden Hattingen, Herdecke, Sprockhövel, Wetter (Ruhr), Witten |
 |  |  | (Übrige Gemeinden s. Wkr. 138) |
-| 140 | Bochum I | Von der kreisfreien Stadt Bochum |
+| 138 | Ennepe-Ruhr-Kreis II | Vom Ennepe-Ruhr-Kreis |
+|  |  |  | die Gemeinden Hattingen, Herdecke, Sprockhövel, Wetter (Ruhr), Witten |
+|  |  | (Übrige Gemeinden s. Wkr. 137) |
+| 139 | Bochum I | Von der kreisfreien Stadt Bochum |
 |  |  |  | die Stadtbezirke 1 Bochum-Mitte, 2 Bochum-Wattenscheid, 5 Bochum-Süd, 6 Bochum-Südwest |
-|  |  | (Übrige Stadtbezirke s. Wkr. 141) |
-| 141 | Herne – Bochum II | Kreisfreie Stadt Herne |
+|  |  | (Übrige Stadtbezirke s. Wkr. 140) |
+| 140 | Herne – Bochum II | Kreisfreie Stadt Herne |
 |  |  | von der kreisfreien Stadt Bochum |
 |  |  |  | die Stadtbezirke 3 Bochum-Nord, 4 Bochum-Ost |
-|  |  | (Übrige Stadtbezirke s. Wkr. 140) |
-| 142 | Dortmund I | Von der kreisfreien Stadt Dortmund |
+|  |  | (Übrige Stadtbezirke s. Wkr. 139) |
+| 141 | Dortmund I | Von der kreisfreien Stadt Dortmund |
 |  |  |  | vom Stadtbezirk 0 Innenstadt |
 |  |  |  | die Stadtteile Innenstadt-West, Innenstadt-Ost |
 |  |  |  | die Stadtbezirke 6 Hombruch, 8 Huckarde, 7 Lütgendortmund, 9 Mengede |
-|  |  | (Übrige Stadtbezirke und übriger Stadtteil s. Wkr. 143) |
-| 143 | Dortmund II | Von der kreisfreien Stadt Dortmund |
+|  |  | (Übrige Stadtbezirke und übriger Stadtteil s. Wkr. 142) |
+| 142 | Dortmund II | Von der kreisfreien Stadt Dortmund |
 |  |  |  | vom Stadtbezirk 0 Innenstadt |
 |  |  |  | der Stadtteil Innenstadt-Nord |
 |  |  |  | die Stadtbezirke 4 Aplerbeck, 3 Brackel, 1 Eving, 5 Hörde, 2 Scharnhorst |
-|  |  | (Übrige Stadtbezirke und Stadtteile s. Wkr. 142) |
-| 144 | Unna I | Vom Kreis Unna |
+|  |  | (Übrige Stadtbezirke und Stadtteile s. Wkr. 141) |
+| 143 | Unna I | Vom Kreis Unna |
 |  |  |  | die Gemeinden Bergkamen, Bönen, Fröndenberg/Ruhr, Holzwickede, Kamen, Schwerte, Unna |
-|  |  | (Übrige Gemeinden s. Wkr. 145) |
-| 145 | Hamm – Unna II | Kreisfreie Stadt Hamm |
+|  |  | (Übrige Gemeinden s. Wkr. 144) |
+| 144 | Hamm – Unna II | Kreisfreie Stadt Hamm |
 |  |  | vom Kreis Unna |
 |  |  |  | die Gemeinden Lünen, Selm, Werne |
-|  |  | (Übrige Gemeinden s. Wkr. 144) |
-| 146 | Soest | Kreis Soest |
-| 147 | Hochsauerlandkreis | Hochsauerlandkreis |
-| 148 | Siegen-Wittgenstein | Kreis Siegen-Wittgenstein |
-| 149 | Olpe – Märkischer Kreis I | Kreis Olpe |
+|  |  | (Übrige Gemeinden s. Wkr. 143) |
+| 145 | Soest | Kreis Soest |
+| 146 | Hochsauerlandkreis | Hochsauerlandkreis |
+| 147 | Siegen-Wittgenstein | Kreis Siegen-Wittgenstein |
+| 148 | Olpe – Märkischer Kreis I | Kreis Olpe |
 |  |  | vom Märkischen Kreis |
 |  |  |  | die Gemeinden Halver, Herscheid, Kierspe, Lüdenscheid, Meinerzhagen, Schalksmühle |
-|  |  | (Übrige Gemeinden s. Wkr. 150) |
-| 150 | Märkischer Kreis II | Vom Märkischen Kreis |
-|  |  |  | die Gemeinden Altena, Balve, Hemer, Iserlohn, Menden (Sauerland), Nachrodt-Wiblingwerde, Neuenrade, Plettenberg, Werdohl |
 |  |  | (Übrige Gemeinden s. Wkr. 149) |
+| 149 | Märkischer Kreis II | Vom Märkischen Kreis |
+|  |  |  | die Gemeinden Altena, Balve, Hemer, Iserlohn, Menden (Sauerland), Nachrodt-Wiblingwerde, Neuenrade, Plettenberg, Werdohl |
+|  |  | (Übrige Gemeinden s. Wkr. 148) |
 | Sachsen |
-| 151 | Nordsachsen | Landkreis Nordsachsen |
-| 152 | Leipzig I | Von der kreisfreien Stadt Leipzig |
+| 150 | Nordsachsen | Landkreis Nordsachsen |
+| 151 | Leipzig I | Von der kreisfreien Stadt Leipzig |
 |  |  |  | die Stadtbezirke Alt-West, Nord, Nordost, Nordwest, Ost |
-|  |  | (Übrige Stadtbezirke s. Wkr. 153) |
-| 153 | Leipzig II | Von der kreisfreien Stadt Leipzig |
-|  |  |  | die Stadtbezirke Mitte, Süd, Südost, Südwest, West |
 |  |  | (Übrige Stadtbezirke s. Wkr. 152) |
-| 154 | Leipzig-Land | Landkreis Leipzig |
-| 155 | Meißen | Landkreis Meißen |
-| 156 | Bautzen I | Vom Landkreis Bautzen |
+| 152 | Leipzig II | Von der kreisfreien Stadt Leipzig |
+|  |  |  | die Stadtbezirke Mitte, Süd, Südost, Südwest, West |
+|  |  | (Übrige Stadtbezirke s. Wkr. 151) |
+| 153 | Leipzig-Land | Landkreis Leipzig |
+| 154 | Meißen | Landkreis Meißen |
+| 155 | Bautzen I | Vom Landkreis Bautzen |
 |  |  |  | die Gemeinden Bautzen, Bernsdorf, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal, Hochkirch, Hoyerswerda, Kamenz, Königswartha, Kubschütz, Lauta, Lohsa, Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau, Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal, Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau |
 |  |  |  | Verwaltungsgemeinschaft Bischofswerda |
 |  |  |  | die Gemeinden Bischofswerda, Rammenau |
@@ -902,66 +893,64 @@
 |  |  |  | die Gemeinden Großnaundorf, Lichtenberg, Ohorn, Pulsnitz, Steina |
 |  |  |  | Verwaltungsverband Am Klosterwasser |
 |  |  |  | die Gemeinden Crostwitz, Nebelschütz, Panschwitz-Kuckau, Räckelwitz, Ralbitz-Rosenthal |
-|  |  | (Übrige Gemeinden s. Wkr. 160) |
-| 157 | Görlitz | Landkreis Görlitz |
-| 158 | Sächsische Schweiz-Osterzgebirge | Landkreis Sächsische Schweiz-Osterzgebirge |
-| 159 | Dresden I | Von der kreisfreien Stadt Dresden |
+|  |  | (Übrige Gemeinden s. Wkr. 159) |
+| 156 | Görlitz | Landkreis Görlitz |
+| 157 | Sächsische Schweiz-Osterzgebirge | Landkreis Sächsische Schweiz-Osterzgebirge |
+| 158 | Dresden I | Von der kreisfreien Stadt Dresden |
 |  |  |  | die Ortsamtsbereiche Altstadt, Blasewitz, Leuben, Plauen, Prohlis |
-|  |  | (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 160) |
-| 160 | Dresden II – Bautzen II | Von der kreisfreien Stadt Dresden |
+|  |  | (Übrige Ortsamtsbereiche und Ortschaften s. Wkr. 159) |
+| 159 | Dresden II – Bautzen II | Von der kreisfreien Stadt Dresden |
 |  |  |  | die Ortsamtsbereiche Cotta, Klotzsche, Loschwitz, Neustadt, Pieschen |
 |  |  |  | die Ortschaften Altfranken, Cossebaude, Gompitz, Langebrück, Mobschatz, Oberwartha, Schönborn, Schönfeld-Weißig, Weixdorf |
-|  |  | (Übrige Ortsamtsbereiche s. Wkr. 159) |
+|  |  | (Übrige Ortsamtsbereiche s. Wkr. 158) |
 |  |  | vom Landkreis Bautzen |
 |  |  |  | die Gemeinden Arnsdorf, Großröhrsdorf, Ottendorf-Okrilla, Radeberg, Wachau |
-|  |  | (Übrige Gemeinden s. Wkr. 156) |
-| 161 | Mittelsachsen | Vom Landkreis Mittelsachsen |
-|  |  |  | die Gemeinden Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln, Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim |
+|  |  | (Übrige Gemeinden s. Wkr. 155) |
+| 160 | Mittelsachsen | Vom Landkreis Mittelsachsen |
+|  |  |  | die Gemeinden Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln, Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha, Jahnatal, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim |
 |  |  |  | Verwaltungsgemeinschaft Lichtenberg-Weißenborn |
 |  |  |  | die Gemeinden Lichtenberg/Erzgeb., Weißenborn/Erzgeb. |
 |  |  |  | Verwaltungsgemeinschaft Mittweida |
 |  |  |  | die Gemeinden Altmittweida, Mittweida |
-|  |  |  | Verwaltungsgemeinschaft Ostrau |
-|  |  |  | die Gemeinden Ostrau, Zschaitz-Ottewig |
 |  |  |  | Verwaltungsgemeinschaft Sayda/Dorfchemnitz |
 |  |  |  | die Gemeinden Dorfchemnitz, Sayda |
-|  |  | (Übrige Gemeinden s. Wkr. 163) |
-| 162 | Chemnitz | Kreisfreie Stadt Chemnitz |
-| 163 | Chemnitzer Umland – Erzgebirgskreis II | Vom Erzgebirgskreis |
+|  |  | (Übrige Gemeinden s. Wkr. 162) |
+| 161 | Chemnitz | Kreisfreie Stadt Chemnitz |
+| 162 | Chemnitzer Umland – Erzgebirgskreis II | Vom Erzgebirgskreis |
 |  |  | die Gemeinden Hohndorf, Jahnsdorf/Erzgeb., Neukirchen/Erzgeb., Oelsnitz/Erzgeb., Thalheim/Erzgeb. |
 |  |  |  | Verwaltungsgemeinschaft Burkhardtsdorf |
 |  |  |  | die Gemeinden Auerbach, Burkhardtsdorf, Gornsdorf |
 |  |  |  | Verwaltungsgemeinschaft Lugau |
 |  |  |  | die Gemeinden Lugau/Erzgeb., Niederwürschnitz |
-|  |  |  | Verwaltungsgemeinschaft Stollberg/Erzgeb. |
+|  |  | . | Verwaltungsgemeinschaft Stollberg/Erzgeb. |
 |  |  |  | die Gemeinden Niederdorf, Stollberg/Erzgeb. |
 |  |  |  | von der Verwaltungsgemeinschaft Zwönitz |
 |  |  |  | die Gemeinde Zwönitz |
-|  |  | (Übrige Gemeinden s. Wkr. 164) |
+|  |  | (Übrige Gemeinden s. Wkr. 163) |
 |  |  | vom Landkreis Mittelsachsen |
 |  |  |  | die Gemeinden Claußnitz, Erlau, Geringswalde, Hartmannsdorf, Königshain-Wiederau, Lichtenau, Lunzenau, Penig, Wechselburg |
 |  |  |  | Verwaltungsgemeinschaft Burgstädt |
 |  |  |  | die Gemeinden Burgstädt, Mühlau, Taura |
 |  |  |  | Verwaltungsgemeinschaft Rochlitz |
 |  |  |  | die Gemeinden Königsfeld, Rochlitz, Seelitz, Zettlitz |
-|  |  | (Übrige Gemeinden s. Wkr. 161) |
+|  |  | (Übrige Gemeinden s. Wkr. 160) |
 |  |  | vom Landkreis Zwickau |
 |  |  |  | die Gemeinden Callenberg, Gersdorf, Hohenstein-Ernstthal, Oberlungwitz |
 |  |  |  | Verwaltungsgemeinschaft Limbach-Oberfrohna |
 |  |  |  | die Gemeinden Limbach-Oberfrohna, Niederfrohna |
 |  |  |  | Verwaltungsgemeinschaft Rund um den Auersberg |
 |  |  |  | die Gemeinden Bernsdorf, Lichtenstein/Sa., St. Egidien |
-|  |  | (Übrige Gemeinden s. Wkr. 165) |
-| 164 | Erzgebirgskreis I | Vom Erzgebirgskreis |
+|  |  | (Übrige Gemeinden s. Wkr. 164) |
+| 163 | Erzgebirgskreis I | Vom Erzgebirgskreis |
 |  |  |  | die Gemeinden Amtsberg, Annaberg-Buchholz, Aue-Bad Schlema, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein |
 |  |  |  | Verwaltungsgemeinschaft Bärenstein-Königswalde |
 |  |  |  | die Gemeinden Bärenstein, Königswalde |
-|  |  |  | Verwaltungsgemeinschaft Geyer |
+|  |  |  | Verwaltungsgemeinschaft Geyer-Tannenberg |
 |  |  |  | die Gemeinden Geyer, Tannenberg |
+|  |  |  | Verwaltungsgemeinschaft Kurort Seiffen – Deutschneudorf – Heidersdorf |
+|  |  |  | die Gemeinden Deutschneudorf, Heidersdorf, Kurort Seiffen/Erzgeb. |
 |  |  |  | Verwaltungsgemeinschaft Scheibenberg-Schlettau |
 |  |  |  | die Gemeinden Scheibenberg, Schlettau |
-|  |  |  | Verwaltungsgemeinschaft Seiffen/Erzgeb. |
-|  |  |  | die Gemeinden Deutschneudorf, Heidersdorf, Kurort Seiffen/Erzgeb. |
 |  |  |  | Verwaltungsgemeinschaft Zschopau |
 |  |  |  | die Gemeinden Gornau/Erzgeb., Zschopau |
 |  |  |  | Verwaltungsgemeinschaft Zschorlau |
@@ -970,8 +959,8 @@
 |  |  |  | die Gemeinde Elterlein |
 |  |  |  | Verwaltungsverband Wildenstein |
 |  |  |  | die Gemeinden Börnichen/Erzgeb., Grünhainichen |
-|  |  | (Übrige Gemeinden s. Wkr. 163) |
-| 165 | Zwickau | Vom Landkreis Zwickau |
+|  |  | (Übrige Gemeinden s. Wkr. 162) |
+| 164 | Zwickau | Vom Landkreis Zwickau |
 |  |  |  | die Gemeinden Fraureuth, Glauchau, Hartenstein, Langenbernsdorf, Langenweißbach, Lichtentanne, Mülsen, Neukirchen/Pleiße, Reinsdorf, Werdau, Wildenfels, Wilkau-Haßlau, Zwickau |
 |  |  |  | Verwaltungsgemeinschaft Crimmitschau-Dennheritz |
 |  |  |  | die Gemeinden Crimmitschau, Dennheritz |
@@ -981,134 +970,133 @@
 |  |  |  | die Gemeinden Meerane, Schönberg |
 |  |  |  | Verwaltungsgemeinschaft Waldenburg |
 |  |  |  | die Gemeinden Oberwiera, Remse, Waldenburg |
-|  |  | (Übrige Gemeinden s. Wkr. 163) |
-| 166 | Vogtlandkreis | Vogtlandkreis |
+|  |  | (Übrige Gemeinden s. Wkr. 162) |
+| 165 | Vogtlandkreis | Vogtlandkreis |
 | Hessen |
-| 167 | Waldeck | Vom Landkreis Kassel |
+| 166 | Waldeck | Vom Landkreis Kassel |
 |  |  |  | die Gemeinden Bad Emstal, Bad Karlshafen, Baunatal, Breuna, Calden, Grebenstein, Habichtswald, Hofgeismar, Immenhausen, Liebenau, Naumburg, Reinhardshagen, Schauenburg, Trendelburg, Wesertal, Wolfhagen, Zierenberg und der Gutsbezirk Reinhardswald |
-|  |  | (Übrige Gemeinden s. Wkr. 168) |
+|  |  | (Übrige Gemeinden s. Wkr. 167) |
 |  |  | vom Landkreis Waldeck-Frankenberg |
 |  |  |  | die Gemeinden Bad Arolsen, Bad Wildungen, Diemelsee, Diemelstadt, Edertal, Korbach, Lichtenfels, Twistetal, Volkmarsen, Waldeck, Willingen (Upland) |
-|  |  | (Übrige Gemeinden s. Wkr. 170) |
-| 168 | Kassel | Kreisfreie Stadt Kassel |
+|  |  | (Übrige Gemeinden s. Wkr. 169) |
+| 167 | Kassel | Kreisfreie Stadt Kassel |
 |  |  | vom Landkreis Kassel |
 |  |  |  | die Gemeinden Ahnatal, Espenau, Fuldabrück, Fuldatal, Helsa, Kaufungen, Lohfelden, Nieste, Niestetal, Söhrewald, Vellmar |
-|  |  | (Übrige Gemeinden s. Wkr. 167) |
-| 169 | Werra-Meißner – Hersfeld-Rotenburg | Landkreis Hersfeld-Rotenburg |
+|  |  | (Übrige Gemeinden s. Wkr. 166) |
+| 168 | Werra-Meißner – Hersfeld-Rotenburg | Landkreis Hersfeld-Rotenburg |
 |  | Werra-Meißner-Kreis |
-| 170 | Schwalm-Eder | Schwalm-Eder-Kreis |
+| 169 | Schwalm-Eder | Schwalm-Eder-Kreis |
 |  |  | vom Landkreis Waldeck-Frankenberg |
-|  |  |  | die Gemeinden Allendorf (Eder), Battenberg (Eder), Bromskirchen, Burgwald, Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Rosenthal, Vöhl |
-|  |  | (Übrige Gemeinden s. Wkr. 167) |
-| 171 | Marburg | Landkreis Marburg-Biedenkopf |
-| 172 | Lahn-Dill | Lahn-Dill-Kreis |
+|  |  |  | die Gemeinden Allendorf (Eder), Battenberg (Eder), Burgwald, Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Rosenthal, Vöhl |
+|  |  | (Übrige Gemeinden s. Wkr. 166) |
+| 170 | Marburg | Landkreis Marburg-Biedenkopf |
+| 171 | Lahn-Dill | Lahn-Dill-Kreis |
 |  |  | vom Landkreis Gießen |
 |  |  |  | die Gemeinden Biebertal, Wettenberg |
-|  |  | (Übrige Gemeinden s. Wkr. 173) |
-| 173 | Gießen | Vom Landkreis Gießen |
-|  |  |  | die Gemeinden Allendorf (Lumda), Buseck, Fernwald, Gießen, Grünberg, Heuchelheim a. d. Lahn, Hungen, Langgöns, Laubach, Lich, Linden, Lollar, Pohlheim, Rabenau, Reiskirchen, Staufenberg |
 |  |  | (Übrige Gemeinden s. Wkr. 172) |
+| 172 | Gießen | Vom Landkreis Gießen |
+|  |  |  | die Gemeinden Allendorf (Lumda), Buseck, Fernwald, Gießen, Grünberg, Heuchelheim a. d. Lahn, Hungen, Langgöns, Laubach, Lich, Linden, Lollar, Pohlheim, Rabenau, Reiskirchen, Staufenberg |
+|  |  | (Übrige Gemeinden s. Wkr. 171) |
 |  |  | vom Vogelsbergkreis |
 |  |  |  | die Gemeinden Alsfeld, Antrifttal, Feldatal, Gemünden (Felda), Homberg (Ohm), Kirtorf, Mücke, Romrod |
-|  |  | (Übrige Gemeinden s. Wkr. 174, 175) |
-| 174 | Fulda | Landkreis Fulda |
+|  |  | (Übrige Gemeinden s. Wkr. 173, 174) |
+| 173 | Fulda | Landkreis Fulda |
 |  |  | vom Vogelsbergkreis |
 |  |  |  | die Gemeinden Freiensteinau, Grebenau, Grebenhain, Herbstein, Lauterbach (Hessen), Lautertal (Vogelsberg), Schlitz, Schwalmtal, Ulrichstein, Wartenberg |
-|  |  | (Übrige Gemeinden s. Wkr. 173, 175) |
-| 175 | Main-Kinzig – Wetterau II – Schotten | Vom Main-Kinzig-Kreis |
+|  |  | (Übrige Gemeinden s. Wkr. 172, 174) |
+| 174 | Main-Kinzig – Wetterau II – Schotten | Vom Main-Kinzig-Kreis |
 |  |  | die Gemeinden Bad Orb, Bad Soden-Salmünster, Biebergemünd, Birstein, Brachttal, Flörsbachtal, Freigericht, Gelnhausen, Gründau, Jossgrund, Linsengericht, Schlüchtern, Sinntal, Steinau an der Straße, Wächtersbach und der Gutsbezirk Spessart |
-|  |  | (Übrige Gemeinden s. Wkr. 180) |
+|  |  | (Übrige Gemeinden s. Wkr. 179) |
 |  |  | vom Vogelsbergkreis |
 |  |  |  | die Gemeinde Schotten |
-|  |  | (Übrige Gemeinden s. Wkr. 173, 174) |
+|  |  | (Übrige Gemeinden s. Wkr. 172, 173) |
 |  |  | vom Wetteraukreis |
 |  |  |  | die Gemeinden Altenstadt, Büdingen, Gedern, Glauburg, Hirzenhain, Kefenrod, Limeshain, Ortenberg |
-|  |  | (Übrige Gemeinden s. Wkr. 177) |
-| 176 | Hochtaunus | Vom Hochtaunuskreis |
-|  |  |  | die Gemeinden Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach, Neu-Anspach, Oberursel (Taunus), Schmitten, Usingen, Wehrheim, Weilrod |
-|  |  | (Übrige Gemeinden s. Wkr. 181) |
+|  |  | (Übrige Gemeinden s. Wkr. 176) |
+| 175 | Hochtaunus | Vom Hochtaunuskreis |
+|  |  |  | die Gemeinden Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach, Neu-Anspach, Oberursel (Taunus), Schmitten im Taunus, Usingen, Wehrheim, Weilrod |
+|  |  | (Übrige Gemeinden s. Wkr. 180) |
 |  |  | vom Landkreis Limburg-Weilburg |
 |  |  |  | die Gemeinden Beselich, Löhnberg, Mengerskirchen, Merenberg, Runkel, Villmar, Weilburg, Weilmünster, Weinbach |
-|  |  | (Übrige Gemeinden s. Wkr. 178) |
-| 177 | Wetterau I | Vom Wetteraukreis |
+|  |  | (Übrige Gemeinden s. Wkr. 177) |
+| 176 | Wetterau I | Vom Wetteraukreis |
 |  |  |  | die Gemeinden Bad Nauheim, Bad Vilbel, Butzbach, Echzell, Florstadt, Friedberg (Hessen), Karben, Münzenberg, Nidda, Niddatal, Ober-Mörlen, Ranstadt, Reichelsheim (Wetterau), Rockenberg, Rosbach v. d. Höhe, Wölfersheim, Wöllstadt |
-|  |  | (Übrige Gemeinden s. Wkr. 175) |
-| 178 | Rheingau-Taunus – Limburg | Rheingau-Taunus-Kreis |
+|  |  | (Übrige Gemeinden s. Wkr. 174) |
+| 177 | Rheingau-Taunus – Limburg | Rheingau-Taunus-Kreis |
 |  |  | vom Landkreis Limburg-Weilburg |
 |  |  |  | die Gemeinden Bad Camberg, Brechen, Dornburg, Elbtal, Elz, Hadamar, Hünfelden, Limburg a. d. Lahn, Selters (Taunus), Waldbrunn (Westerwald) |
-|  |  | (Übrige Gemeinden s. Wkr. 176) |
-| 179 | Wiesbaden | Kreisfreie Stadt Wiesbaden |
-| 180 | Hanau | Vom Main-Kinzig-Kreis |
-|  |  |  | die Gemeinden Bruchköbel, Erlensee, Großkrotzenburg, Hammersbach, Hanau, Hasselroth, Langenselbold, Maintal, Neuberg, Nidderau, Niederdorfelden, Rodenbach, Ronneburg, Schöneck |
 |  |  | (Übrige Gemeinden s. Wkr. 175) |
-| 181 | Main-Taunus | Main-Taunus-Kreis |
+| 178 | Wiesbaden | Kreisfreie Stadt Wiesbaden |
+| 179 | Hanau | Vom Main-Kinzig-Kreis |
+|  |  |  | die Gemeinden Bruchköbel, Erlensee, Großkrotzenburg, Hammersbach, Hanau, Hasselroth, Langenselbold, Maintal, Neuberg, Nidderau, Niederdorfelden, Rodenbach, Ronneburg, Schöneck |
+|  |  | (Übrige Gemeinden s. Wkr. 174) |
+| 180 | Main-Taunus | Main-Taunus-Kreis |
 |  |  | vom Hochtaunuskreis |
 |  |  |  | die Gemeinden Königstein im Taunus, Kronberg im Taunus, Steinbach (Taunus) |
-|  |  | (Übrige Gemeinden s. Wkr. 176) |
-| 182 | Frankfurt am Main I | Von der kreisfreien Stadt Frankfurt am Main |
-|  |  |  | die Ortsteile Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim, Gallusviertel, Ginnheim, Griesheim, Gutleutviertel, Hausen, Heddernheim, Höchst, Innenstadt, Nied, Niederursel, Praunheim, Rödelheim, Sindlingen, Sossenheim, Unterliederbach, Westend, Zeilsheim |
-|  |  | (Übrige Ortsteile s. Wkr. 183) |
-| 183 | Frankfurt am Main II | Von der kreisfreien Stadt Frankfurt am Main |
-|  |  |  | die Ortsteile Bergen-Enkheim, Berkersheim, Bonames, Bornheim, Eckenheim, Fechenheim, Frankfurter Berg, Harheim, Kalbach, Nieder-Erlenbach, Nieder-Eschbach, Niederrad, Nordend, Oberrad, Ostend, Preungesheim, Riederwald, Sachsenhausen, Schwanheim, Seckbach |
-|  |  | (Übrige Ortsteile s. Wkr. 182) |
-| 184 | Groß-Gerau | Landkreis Groß-Gerau |
-| 185 | Offenbach | Kreisfreie Stadt Offenbach am Main |
+|  |  | (Übrige Gemeinden s. Wkr. 175) |
+| 181 | Frankfurt am Main I | Von der kreisfreien Stadt Frankfurt am Main |
+|  |  |  | die Stadtteile Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim, Gallus, Ginnheim, Griesheim, Gutleutviertel, Hausen, Heddernheim, Höchst, Innenstadt, Nied, Niederursel, Praunheim, Rödelheim, Sindlingen, Sossenheim, Unterliederbach, Westend-Nord, Westend-Süd, Zeilsheim |
+|  |  | (Übrige Stadtteile s. Wkr. 182) |
+| 182 | Frankfurt am Main II | Von der kreisfreien Stadt Frankfurt am Main |
+|  |  |  | die Stadtteile Bergen-Enkheim, Berkersheim, Bonames, Bornheim, Eckenheim, Fechenheim, Flughafen, Frankfurter Berg, Harheim, Kalbach-Riedberg, Nieder-Erlenbach, Nieder-Eschbach, Niederrad, Nordend-Ost, Nordend-West, Oberrad, Ostend, Preungesheim, Riederwald, Sachsenhausen-Nord, Sachsenhausen-Süd, Schwanheim, Seckbach |
+|  |  | (Übrige Stadtteile s. Wkr 181) |
+| 183 | Groß-Gerau | Landkreis Groß-Gerau |
+| 184 | Offenbach | Kreisfreie Stadt Offenbach am Main |
 |  |  | vom Landkreis Offenbach |
 |  |  |  | die Gemeinden Dietzenbach, Dreieich, Egelsbach, Heusenstamm, Langen (Hessen), Mühlheim am Main, Neu-Isenburg, Obertshausen |
-|  |  | (Übrige Gemeinden s. Wkr. 187) |
-| 186 | Darmstadt | Kreisfreie Stadt Darmstadt |
+|  |  | (Übrige Gemeinden s. Wkr. 186) |
+| 185 | Darmstadt | Kreisfreie Stadt Darmstadt |
 |  |  | vom Landkreis Darmstadt-Dieburg |
 |  |  |  | die Gemeinden Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim, Messel, Modautal, Mühltal, Münster (Hessen), Ober-Ramstadt, Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt |
-|  |  | (Übrige Gemeinden s. Wkr. 187) |
-| 187 | Odenwald | Odenwaldkreis |
+|  |  | (Übrige Gemeinden s. Wkr. 186) |
+| 186 | Odenwald | Odenwaldkreis |
 |  |  | vom Landkreis Darmstadt-Dieburg |
 |  |  |  | die Gemeinden Babenhausen, Dieburg, Fischbachtal, Groß-Bieberau, Groß-Umstadt, Groß-Zimmern, Otzberg, Reinheim, Schaafheim |
-|  |  | (Übrige Gemeinden s. Wkr. 186) |
+|  |  | (Übrige Gemeinden s. Wkr. 185) |
 |  |  | vom Landkreis Offenbach |
 |  |  |  | die Gemeinden Hainburg, Mainhausen, Rodgau, Rödermark, Seligenstadt |
-|  |  | (Übrige Gemeinden s. Wkr. 185) |
-| 188 | Bergstraße | Landkreis Bergstraße |
+|  |  | (Übrige Gemeinden s. Wkr. 184) |
+| 187 | Bergstraße | Landkreis Bergstraße |
 | Thüringen |
-| 189 | Eichsfeld – Nordhausen – Kyffhäuserkreis | Landkreis Eichsfeld |
+| 188 | Eichsfeld – Nordhausen – Kyffhäuserkreis | Landkreis Eichsfeld |
 |  | Landkreis Kyffhäuserkreis |
 |  |  | Landkreis Nordhausen |
-| 190 | Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis | Kreisfreie Stadt Eisenach |
-|  | Landkreis Unstrut-Hainich-Kreis |
-|  |  | Landkreis Wartburgkreis |
-| 191 | Jena – Sömmerda – Weimarer Land I | Kreisfreie Stadt Jena |
+| 189 | Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis | Landkreis Unstrut-Hainich-Kreis |
+|  | Landkreis Wartburgkreis |
+| 190 | Jena – Sömmerda – Weimarer Land I | Kreisfreie Stadt Jena |
 |  | Landkreis Sömmerda |
 |  |  | vom Landkreis Weimarer Land |
 |  |  |  | verwaltungsgemeinschaftsfreie Gemeinden Apolda, Bad Berka, Blankenhain, Ilmtal-Weinstraße |
 |  |  |  | Erfüllende Gemeinde Am Ettersberg |
 |  |  |  | die Gemeinden Am Ettersberg, Ballstedt, Ettersburg, Neumark |
 |  |  |  | Erfüllende Gemeinde Bad Sulza |
-|  |  |  | die Gemeinden Bad Sulza, Eberstedt, Großheringen, Niedertrebra, Obertrebra, Rannstedt, Schmiedehausen |
+|  |  |  | die Gemeinden Bad Sulza, Eberstedt, Großheringen, Niedertrebra, Obertrebra, Schmiedehausen |
 |  |  |  | Verwaltungsgemeinschaft Kranichfeld |
 |  |  |  | die Gemeinden Hohenfelden, Klettbach, Kranichfeld, Nauendorf, Rittersdorf, Tonndorf |
 |  |  |  | Verwaltungsgemeinschaft Mellingen |
 |  |  |  | die Gemeinden Buchfart, Döbritschen, Frankendorf, Großschwabhausen, Hammerstedt, Hetschburg, Kapellendorf, Kiliansroda, Kleinschwabhausen, Lehnstedt, Magdala, Mechelroda, Mellingen, Oettern, Umpferstedt, Vollersroda, Wiegendorf |
-|  |  | (Übrige Gemeinden s. Wkr. 193) |
-| 192 | Gotha – Ilm-Kreis | Landkreis Gotha |
+|  |  | (Übrige Gemeinden s. Wkr. 192) |
+| 191 | Gotha – Ilm-Kreis | Landkreis Gotha |
 |  |  | Landkreis Ilm-Kreis |
-| 193 | Erfurt – Weimar – Weimarer Land II | Kreisfreie Stadt Erfurt |
-|  |  | Kreisfreie Stadt Weimar |
+| 192 | Erfurt – Weimar – Weimarer Land II | Kreisfreie Stadt Erfurt |
+|  | Kreisfreie Stadt Weimar |
 |  |  | vom Landkreis Weimarer Land |
 |  |  |  | verwaltungsgemeinschaftsfreie Gemeinde Grammetal |
-|  |  | (Übrige Gemeinden s. Wkr. 191) |
-| 194 | Gera – Greiz – Altenburger Land | Kreisfreie Stadt Gera |
+|  |  | (Übrige Gemeinden s. Wkr. 190) |
+| 193 | Gera – Greiz – Altenburger Land | Kreisfreie Stadt Gera |
 |  |  | Landkreis Altenburger Land |
 |  |  | Landkreis Greiz |
-| 195 | Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis | Landkreis Saale-Holzland-Kreis |
+| 194 | Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis | Landkreis Saale-Holzland-Kreis |
 |  | Landkreis Saale-Orla-Kreis |
-|  | Landkreis Saalfeld-Rudolstadt |
-| 196 | Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg | Kreisfreie Stadt Suhl |
+|  |  | Landkreis Saalfeld-Rudolstadt |
+| 195 | Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg | Kreisfreie Stadt Suhl |
 |  | Landkreis Hildburghausen |
 |  |  | Landkreis Schmalkalden-Meiningen |
 |  |  | Landkreis Sonneberg |
 | Rheinland-Pfalz |
-| 197 | Neuwied | Landkreis Altenkirchen (Westerwald) |
+| 196 | Neuwied | Landkreis Altenkirchen (Westerwald) |
 |  |  | Landkreis Neuwied |
-| 198 | Ahrweiler | Landkreis Ahrweiler |
+| 197 | Ahrweiler | Landkreis Ahrweiler |
 |  |  | vom Landkreis Mayen-Koblenz |
 |  |  |  | verbandsfreie Gemeinden Andernach, Mayen |
 |  |  |  | Verbandsgemeinde Maifeld |
@@ -1119,8 +1107,8 @@
 |  |  |  | die Gemeinden Kretz, Kruft, Nickenich, Plaidt, Saffig |
 |  |  |  | Verbandsgemeinde Vordereifel |
 |  |  |  | die Gemeinden Acht, Anschau, Arft, Baar, Bermel, Boos, Ditscheid, Ettringen, Hausten, Herresbach, Hirten, Kehrig, Kirchwald, Kottenheim, Langenfeld, Langscheid, Lind, Luxem, Monreal, Münk, Nachtsheim, Reudelsterz, Sankt Johann, Siebenbach, Virneburg, Weiler, Welschenbach |
-|  |  | (Übrige Gemeinden s. Wkr. 199) |
-| 199 | Koblenz | Kreisfreie Stadt Koblenz |
+|  |  | (Übrige Gemeinden s. Wkr. 198) |
+| 198 | Koblenz | Kreisfreie Stadt Koblenz |
 |  |  | vom Landkreis Mayen-Koblenz |
 |  |  |  | verbandsfreie Gemeinde Bendorf |
 |  |  |  | Verbandsgemeinde Rhein-Mosel |
@@ -1129,15 +1117,15 @@
 |  |  |  | die Gemeinden Niederwerth, Urbar, Vallendar, Weitersburg |
 |  |  |  | Verbandsgemeinde Weißenthurm |
 |  |  |  | die Gemeinden Bassenheim, Kaltenengers, Kettig, Mülheim-Kärlich, Sankt Sebastian, Urmitz, Weißenthurm |
-|  |  | (Übrige Gemeinden s. Wkr. 198) |
+|  |  | (Übrige Gemeinden s. Wkr. 197) |
 |  |  | vom Rhein-Lahn-Kreis |
 |  |  |  | verbandsfreie Gemeinde Lahnstein |
 |  |  |  | Verbandsgemeinde Loreley |
 |  |  |  | die Gemeinden Auel, Bornich, Braubach, Dachsenhausen, Dahlheim, Dörscheid, Filsen, Kamp-Bornhofen, Kaub, Kestert, Lierschied, Lykershausen, Nochern, Osterspai, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt Sankt Goarshausen, Sauerthal, Weisel, Weyer |
-|  |  |  | von der Verbandsgemeinde Bad Ems-Nassau |
+|  |  | von der Verbandsgemeinde Bad Ems-Nassau |
 |  |  |  | die Gemeinden Arzbach, Bad Ems, Becheln, Dausenau, Fachbach, Frücht, Kemmenau, Miellen, Nievern |
-|  |  | (Übrige Gemeinden s. Wkr. 204) |
-| 200 | Mosel/Rhein-Hunsrück | Landkreis Cochem-Zell |
+|  |  | (Übrige Gemeinden s. Wkr. 203) |
+| 199 | Mosel/Rhein-Hunsrück | Landkreis Cochem-Zell |
 |  |  | Rhein-Hunsrück-Kreis |
 |  |  | vom Landkreis Bernkastel-Wittlich |
 |  |  |  | verbandsfreie Gemeinde Morbach |
@@ -1147,21 +1135,22 @@
 |  |  |  | die Gemeinden Berglicht, Breit, Büdlich, Burtscheid, Deuselbach, Dhronecken, Etgert, Gielert, Gräfendhron, Heidenburg, Hilscheid, Horath, Immert, Lückenburg, Malborn, Merschbach, Neunkirchen, Rorodt, Schönberg, Talling, Thalfang |
 |  |  |  | von der Verbandsgemeinde Traben-Trarbach |
 |  |  |  | die Gemeinden Burg (Mosel), Enkirch, Irmenach, Lötzbeuren, Starkenburg, Traben-Trarbach |
-|  |  | (Übrige Gemeinden s. Wkr. 202) |
-| 201 | Kreuznach | Landkreis Bad Kreuznach |
+|  |  | (Übrige Gemeinden s. Wkr. 201) |
+| 200 | Kreuznach | Landkreis Bad Kreuznach |
 |  |  | Landkreis Birkenfeld |
-| 202 | Bitburg | Eifelkreis Bitburg-Prüm |
+| 201 | Bitburg | Eifelkreis Bitburg-Prüm |
 |  |  | Landkreis Vulkaneifel |
 |  |  | vom Landkreis Bernkastel-Wittlich |
 |  |  |  | verbandsfreie Gemeinde Wittlich |
 |  |  |  | Verbandsgemeinde Wittlich-Land |
-|  |  |  | die Gemeinden Altrich, Arenrath, Bergweiler, Bettenfeld, Binsfeld, Bruch, Dierfeld, Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath, Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler, Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld, Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen, Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt, Schwarzenborn, Sehlem, Wallscheid |
+|  |  |  | die Gemeinden Altrich, Arenrath, Bergweiler, Bettenfeld, Binsfeld, Bruch, Dierfeld, Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath, Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler, Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld, |
+|  |  |  | Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen, Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt, Schwarzenborn, Sehlem, Wallscheid |
 |  |  |  | von der Verbandsgemeinde Traben-Trarbach |
 |  |  |  | die Gemeinden Bausendorf, Bengel, Diefenbach, Flußbach, Hontheim, Kinderbeuern, Kinheim, Kröv, Reil, Willwerscheid |
-|  |  | (Übrige Gemeinden s. Wkr. 200) |
-| 203 | Trier | Kreisfreie Stadt Trier |
+|  |  | (Übrige Gemeinden s. Wkr. 199) |
+| 202 | Trier | Kreisfreie Stadt Trier |
 |  |  | Landkreis Trier-Saarburg |
-| 204 | Montabaur | Westerwaldkreis |
+| 203 | Montabaur | Westerwaldkreis |
 |  |  | vom Rhein-Lahn-Kreis |
 |  |  |  | Verbandsgemeinde Aar-Einrich |
 |  |  |  | die Gemeinden Allendorf, Berghausen, Berndroth, Biebrich, Bremberg, Burgschwalbach, Dörsdorf, Ebertshausen, Eisighofen, Ergeshausen, Flacht, Gutenacker, Hahnstätten, Herold, Kaltenholzhausen, Katzenelnbogen, Klingelbach, Kördorf, Lohrheim, Mittelfischbach, Mudershausen, Netzbach, Niederneisen, Niedertiefenbach, Oberfischbach, Oberneisen, Reckenroth, Rettert, Roth, Schiesheim, Schönborn |
@@ -1171,8 +1160,8 @@
 |  |  |  | die Gemeinden Berg, Bettendorf, Bogel, Buch, Diethardt, Ehr, Endlichhofen, Eschbach, Gemmerich, Hainau, Himmighofen, Holzhausen an der Haide, Hunzel, Kasdorf, Kehlbach, Lautert, Lipporn, Marienfels, Miehlen, Nastätten, Niederbachheim, Niederwallmenach, Oberbachheim, Obertiefenbach, Oberwallmenach, Oelsberg, Rettershain, Ruppertshofen, Strüth, Weidenbach, Welterod, Winterwerb |
 |  |  |  | von der Verbandsgemeinde Bad Ems-Nassau |
 |  |  |  | die Gemeinden Attenhausen, Dessighofen, Dienethal, Dornholzhausen, Geisig, Hömberg, Lollschied, Misselberg, Nassau, Obernhof, Oberwies, Pohl, Schweighausen, Seelbach, Singhofen, Sulzbach, Weinähr, Winden, Zimmerschied |
-|  |  | (Übrige Gemeinden s. Wkr. 199) |
-| 205 | Mainz | Kreisfreie Stadt Mainz |
+|  |  | (Übrige Gemeinden s. Wkr. 198) |
+| 204 | Mainz | Kreisfreie Stadt Mainz |
 |  |  | vom Landkreis Mainz-Bingen |
 |  |  |  | verbandsfreie Gemeinden Bingen am Rhein, Budenheim, Ingelheim am Rhein |
 |  |  |  | Verbandsgemeinde Gau-Algesheim |
@@ -1181,8 +1170,8 @@
 |  |  |  | die Gemeinden Essenheim, Jugenheim in Rheinhessen, Klein-Winternheim, Nieder-Olm, Ober-Olm, Sörgenloch, Stadecken-Elsheim, Zornheim |
 |  |  |  | Verbandsgemeinde Rhein-Nahe |
 |  |  |  | die Gemeinden Bacharach, Breitscheid, Manubach, Münster-Sarmsheim, Niederheimbach, Oberdiebach, Oberheimbach, Trechtingshausen, Waldalgesheim, Weiler bei Bingen |
-|  |  | (Übrige Gemeinden s. Wkr. 206) |
-| 206 | Worms | Kreisfreie Stadt Worms |
+|  |  | (Übrige Gemeinden s. Wkr. 205) |
+| 205 | Worms | Kreisfreie Stadt Worms |
 |  |  | Landkreis Alzey-Worms |
 |  |  | vom Landkreis Mainz-Bingen |
 |  |  |  | Verbandsgemeinde Bodenheim |
@@ -1191,8 +1180,8 @@
 |  |  |  | die Gemeinden Dalheim, Dexheim, Dienheim, Dolgesheim, Dorn-Dürkheim, Eimsheim, Friesenheim, Guntersblum, Hahnheim, Hillesheim, Köngernheim, Ludwigshöhe, Mommenheim, Nierstein, Oppenheim, Selzen, Uelversheim, Undenheim, Weinolsheim, Wintersheim |
 |  |  |  | Verbandsgemeinde Sprendlingen-Gensingen |
 |  |  |  | die Gemeinden Aspisheim, Badenheim, Gensingen, Grolsheim, Horrweiler, Sankt Johann, Sprendlingen, Welgesheim, Wolfsheim, Zotzenheim |
-|  |  | (Übrige Gemeinden s. Wkr. 205) |
-| 207 | Ludwigshafen/Frankenthal | Kreisfreie Stadt Frankenthal (Pfalz) |
+|  |  | (Übrige Gemeinden s. Wkr. 204) |
+| 206 | Ludwigshafen/Frankenthal | Kreisfreie Stadt Frankenthal (Pfalz) |
 |  |  | Kreisfreie Stadt Ludwigshafen am Rhein |
 |  |  | vom Rhein-Pfalz-Kreis |
 |  |  |  | verbandsfreie Gemeinden Bobenheim-Roxheim, Böhl-Iggelheim, Limburgerhof, Mutterstadt |
@@ -1204,8 +1193,8 @@
 |  |  |  | die Gemeinden Birkenheide, Fußgönheim, Maxdorf |
 |  |  |  | von der Verbandsgemeinde Rheinauen |
 |  |  |  | die Gemeinden Altrip, Neuhofen |
-|  |  | (Übrige Gemeinden s. Wkr. 208) |
-| 208 | Neustadt – Speyer | Kreisfreie Stadt Neustadt an der Weinstraße |
+|  |  | (Übrige Gemeinden s. Wkr. 207) |
+| 207 | Neustadt – Speyer | Kreisfreie Stadt Neustadt an der Weinstraße |
 |  |  | Kreisfreie Stadt Speyer |
 |  |  | Landkreis Bad Dürkheim |
 |  |  | vom Rhein-Pfalz-Kreis |
@@ -1214,8 +1203,8 @@
 |  |  |  | die Gemeinden Dudenhofen, Hanhofen, Harthausen, Römerberg |
 |  |  |  | von der Verbandsgemeinde Rheinauen |
 |  |  |  | die Gemeinden Otterstadt, Waldsee |
-|  |  | (Übrige Gemeinden s. Wkr. 207) |
-| 209 | Kaiserslautern | Kreisfreie Stadt Kaiserslautern |
+|  |  | (Übrige Gemeinden s. Wkr. 206) |
+| 208 | Kaiserslautern | Kreisfreie Stadt Kaiserslautern |
 |  |  | Donnersbergkreis |
 |  |  | Landkreis Kusel |
 |  |  | vom Landkreis Kaiserslautern |
@@ -1225,8 +1214,8 @@
 |  |  |  | die Gemeinden Frankelbach, Heiligenmoschel, Hirschhorn/Pfalz, Katzweiler, Mehlbach, Niederkirchen, Olsbrücken, Otterbach, Otterberg, Schallodenbach, Schneckenhausen, Sulzbachtal |
 |  |  |  | Verbandsgemeinde Weilerbach |
 |  |  |  | die Gemeinden Erzenhausen, Eulenbis, Kollweiler, Mackenbach, Reichenbach-Steegen, Rodenbach, Schwedelbach, Weilerbach |
-|  |  | (Übrige Gemeinden s. Wkr. 210) |
-| 210 | Pirmasens | Kreisfreie Stadt Pirmasens |
+|  |  | (Übrige Gemeinden s. Wkr. 209) |
+| 209 | Pirmasens | Kreisfreie Stadt Pirmasens |
 |  |  | Kreisfreie Stadt Zweibrücken |
 |  |  | Landkreis Südwestpfalz |
 |  |  | vom Landkreis Kaiserslautern |
@@ -1236,106 +1225,106 @@
 |  |  |  | die Gemeinden Bann, Hauptstuhl, Kindsbach, Krickenbach, Landstuhl, Linden, Mittelbrunn, Oberarnbach, Queidersbach, Schopp, Stelzenberg, Trippstadt |
 |  |  |  | Verbandsgemeinde Ramstein-Miesenbach |
 |  |  |  | die Gemeinden Hütschenhausen, Kottweiler-Schwanden, Niedermohr, Ramstein-Miesenbach, Steinwenden |
-|  |  | (Übrige Gemeinden s. Wkr. 209) |
-| 211 | Südpfalz | Kreisfreie Stadt Landau in der Pfalz |
+|  |  | (Übrige Gemeinden s. Wkr. 208) |
+| 210 | Südpfalz | Kreisfreie Stadt Landau in der Pfalz |
 |  |  | Landkreis Germersheim |
 |  |  | Landkreis Südliche Weinstraße |
 | Bayern |
-| 212 | Altötting | Landkreis Altötting |
+| 211 | Altötting | Landkreis Altötting |
 |  |  | Landkreis Mühldorf a. Inn |
-| 213 | Erding – Ebersberg | Landkreis Ebersberg |
+| 212 | Erding – Ebersberg | Landkreis Ebersberg |
 |  |  | Landkreis Erding |
-| 214 | Freising | Landkreis Freising |
+| 213 | Freising | Landkreis Freising |
 |  |  | Landkreis Pfaffenhofen a. d. Ilm |
 |  |  | vom Landkreis Neuburg-Schrobenhausen |
 |  |  |  | die Gemeinden Aresing, Schrobenhausen |
 |  |  |  | Verwaltungsgemeinschaft Schrobenhausen |
 |  |  |  | die Gemeinden Berg im Gau, Brunnen, Gachenbach, Langenmosen, Waidhofen |
-|  |  | (Übrige Gemeinden s. Wkr. 216) |
-| 215 | Fürstenfeldbruck | Landkreis Dachau |
+|  |  | (Übrige Gemeinden s. Wkr. 215) |
+| 214 | Fürstenfeldbruck | Landkreis Dachau |
 |  |  | vom Landkreis Fürstenfeldbruck |
 |  |  |  | die Gemeinden Alling, Egenhofen, Eichenau, Emmering, Fürstenfeldbruck, Gröbenzell, Maisach, Moorenweis, Olching, Puchheim, Türkenfeld |
 |  |  |  | Verwaltungsgemeinschaft Grafrath |
 |  |  |  | die Gemeinden Grafrath, Kottgeisering, Schöngeising |
 |  |  |  | Verwaltungsgemeinschaft Mammendorf |
 |  |  |  | die Gemeinden Adelshofen, Althegnenberg, Hattenhofen, Jesenwang, Landsberied, Mammendorf, Mittelstetten, Oberschweinbach |
-|  |  | (Übrige Gemeinde s. Wkr. 224) |
-| 216 | Ingolstadt | Kreisfreie Stadt Ingolstadt |
+|  |  | (Übrige Gemeinde s. Wkr. 223) |
+| 215 | Ingolstadt | Kreisfreie Stadt Ingolstadt |
 |  |  | Landkreis Eichstätt |
 |  |  | vom Landkreis Neuburg-Schrobenhausen |
 |  |  |  | die Gemeinden Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg a. d. Donau, Oberhausen, Rennertshofen, Weichering |
 |  |  |  | Verwaltungsgemeinschaft Neuburg a. d. Donau |
 |  |  |  | die Gemeinden Bergheim, Rohrenfels |
-|  |  | (Übrige Gemeinden s. Wkr. 214) |
-| 217 | München-Nord | Von der kreisfreien Stadt München |
+|  |  | (Übrige Gemeinden s. Wkr. 213) |
+| 216 | München-Nord | Von der kreisfreien Stadt München |
 |  |  |  | die Stadtbezirke 3, 4, 10 bis 12, 24 |
-|  |  | (Übrige Stadtbezirke s. Wkr. 218, 219, 220) |
-| 218 | München-Ost | Von der kreisfreien Stadt München |
-|  |  |  | die Stadtbezirke 1, 5, 13 bis 16 |
-|  |  | (Übrige Stadtbezirke s. Wkr. 217, 219, 220) |
-| 219 | München-Süd | Von der kreisfreien Stadt München |
-|  |  |  | die Stadtbezirke 6, 7, 17 bis 20 |
-|  |  | (Übrige Stadtbezirke s. Wkr. 217, 218, 220) |
-| 220 | München-West/Mitte | Von der kreisfreien Stadt München |
-|  |  |  | die Stadtbezirke 2, 8, 9, 21 bis 23, 25 |
 |  |  | (Übrige Stadtbezirke s. Wkr. 217, 218, 219) |
-| 221 | München-Land | Landkreis München |
-| 222 | Rosenheim | Kreisfreie Stadt Rosenheim |
+| 217 | München-Ost | Von der kreisfreien Stadt München |
+|  |  |  | die Stadtbezirke 1, 5, 13 bis 16 |
+|  |  | (Übrige Stadtbezirke s. Wkr. 216, 218, 219) |
+| 218 | München-Süd | Von der kreisfreien Stadt München |
+|  |  |  | die Stadtbezirke 6, 7, 17 bis 20 |
+|  |  | (Übrige Stadtbezirke s. Wkr. 216, 217, 219) |
+| 219 | München-West/Mitte | Von der kreisfreien Stadt München |
+|  |  |  | die Stadtbezirke 2, 8, 9, 21 bis 23, 25 |
+|  |  | (Übrige Stadtbezirke s. Wkr. 216, 217, 218) |
+| 220 | München-Land | Landkreis München |
+| 221 | Rosenheim | Kreisfreie Stadt Rosenheim |
 |  |  | Landkreis Rosenheim |
-| 223 | Bad Tölz-Wolfratshausen – Miesbach | Landkreis Bad Tölz-Wolfratshausen |
-|  |  | Landkreis Miesbach |
-| 224 | Starnberg – Landsberg am Lech | Landkreis Landsberg am Lech |
-|  |  | Landkreis Starnberg |
+| 222 | Bad Tölz-Wolfratshausen – Miesbach | Landkreis Bad Tölz-Wolfratshausen |
+|  | Landkreis Miesbach |
+| 223 | Starnberg – Landsberg am Lech | Landkreis Landsberg am Lech |
+|  | Landkreis Starnberg |
 |  |  | vom Landkreis Fürstenfeldbruck |
 |  |  |  | die Gemeinde Germering |
-|  |  | (Übrige Gemeinden s. Wkr. 215) |
-| 225 | Traunstein | Landkreis Berchtesgadener Land |
+|  |  | (Übrige Gemeinden s. Wkr. 214) |
+| 224 | Traunstein | Landkreis Berchtesgadener Land |
 |  |  | Landkreis Traunstein |
-| 226 | Weilheim | Landkreis Garmisch-Partenkirchen |
+| 225 | Weilheim | Landkreis Garmisch-Partenkirchen |
 |  |  | Landkreis Weilheim-Schongau |
-| 227 | Deggendorf | Landkreis Deggendorf |
+| 226 | Deggendorf | Landkreis Deggendorf |
 |  |  | Landkreis Freyung-Grafenau |
 |  |  | vom Landkreis Passau |
-|  |  |  | die Gemeinden Aicha vorm Wald, Eging a.See, Fürstenstein, Hofkirchen |
-|  |  | (Übrige Gemeinden s. Wkr. 229) |
-| 228 | Landshut | Kreisfreie Stadt Landshut |
+|  |  |  | die Gemeinden Aicha vorm Wald, Eging a. See, Fürstenstein, Hofkirchen |
+|  |  | (Übrige Gemeinden s. Wkr. 228) |
+| 227 | Landshut | Kreisfreie Stadt Landshut |
 |  |  | Landkreis Kelheim |
 |  |  | vom Landkreis Landshut |
-|  |  |  | die Gemeinden Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch a.Erlbach, Eching, Ergolding, Essenbach, Geisenhausen, Hohenthann, Kumhausen, Neufahrn i.NB, Niederaichbach, Pfeffenhausen, Rottenburg a. d. Laaber, Tiefenbach, Vilsbiburg, Vilsheim |
+|  |  |  | die Gemeinden Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch a. Erlbach, Eching, Ergolding, Essenbach, Geisenhausen, Hohenthann, Kumhausen, Neufahrn i. NB, Niederaichbach, Pfeffenhausen, Rottenburg a. d. Laaber, Tiefenbach, Vilsbiburg, Vilsheim |
 |  |  |  | Verwaltungsgemeinschaft Altfraunhofen |
 |  |  |  | die Gemeinden Altfraunhofen, Baierbach |
 |  |  |  | Verwaltungsgemeinschaft Ergoldsbach |
-|  |  |  | die Gemeinden Bayerbach b.Ergoldsbach, Ergoldsbach |
+|  |  |  | die Gemeinden Bayerbach b. Ergoldsbach, Ergoldsbach |
 |  |  |  | Verwaltungsgemeinschaft Furth |
 |  |  |  | die Gemeinden Furth, Obersüßbach, Weihmichl |
 |  |  |  | Verwaltungsgemeinschaft Velden |
 |  |  |  | die Gemeinden Neufraunhofen, Velden, Wurmsham |
-|  |  | (Übrige Gemeinden s. Wkr. 230) |
-| 229 | Passau | Kreisfreie Stadt Passau |
+|  |  | (Übrige Gemeinden s. Wkr. 229) |
+| 228 | Passau | Kreisfreie Stadt Passau |
 |  |  | vom Landkreis Passau |
-|  |  |  | die Gemeinden Aldersbach, Bad Füssing, Bad Griesbach i.Rottal, Breitenberg, Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham, Kößlarn, Neuburg a. Inn, Neuhaus a. Inn, Neukirchen vorm Wald, Obernzell, Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott, Salzweg, Sonnen, Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an der Donau, Wegscheid, Windorf |
+|  |  |  | die Gemeinden Aldersbach, Bad Füssing, Bad Griesbach i. Rottal, Breitenberg, Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham, Kößlarn, Neuburg a. Inn, Neuhaus a. Inn, Neukirchen vorm Wald, Obernzell, Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott, Salzweg, Sonnen, Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an der Donau, Wegscheid, Windorf |
 |  |  |  | Verwaltungsgemeinschaft Aidenbach |
 |  |  |  | die Gemeinden Aidenbach, Beutelsbach |
 |  |  |  | Verwaltungsgemeinschaft Rotthalmünster |
 |  |  |  | die Gemeinden Malching, Rotthalmünster |
 |  |  |  | Verwaltungsgemeinschaft Tittling |
 |  |  |  | die Gemeinden Tittling, Witzmannsberg |
-|  |  | (Übrige Gemeinden s. Wkr. 227) |
-| 230 | Rottal-Inn | Landkreis Dingolfing-Landau |
+|  |  | (Übrige Gemeinden s. Wkr. 226) |
+| 229 | Rottal-Inn | Landkreis Dingolfing-Landau |
 |  |  | Landkreis Rottal-Inn |
 |  |  | vom Landkreis Landshut |
 |  |  |  | Verwaltungsgemeinschaft Gerzen |
 |  |  |  | die Gemeinden Aham, Gerzen, Kröning, Schalkham |
 |  |  |  | Verwaltungsgemeinschaft Wörth a. d. Isar |
 |  |  |  | die Gemeinden Postau, Weng, Wörth a. d. Isar |
-|  |  | (Übrige Gemeinden s. Wkr. 228) |
-| 231 | Straubing | Kreisfreie Stadt Straubing |
+|  |  | (Übrige Gemeinden s. Wkr. 227) |
+| 230 | Straubing | Kreisfreie Stadt Straubing |
 |  |  | Landkreis Regen |
 |  |  | Landkreis Straubing-Bogen |
-| 232 | Amberg | Kreisfreie Stadt Amberg |
+| 231 | Amberg | Kreisfreie Stadt Amberg |
 |  |  | Landkreis Amberg-Sulzbach |
 |  |  | Landkreis Neumarkt i.d.OPf. |
-| 233 | Regensburg | Kreisfreie Stadt Regensburg |
+| 232 | Regensburg | Kreisfreie Stadt Regensburg |
 |  |  | vom Landkreis Regensburg |
 |  |  |  | die Gemeinden Barbing, Beratzhausen, Bernhardswald, Hagelstadt, Hemau, Köfering, Lappersdorf, Mintraching, Neutraubling, Nittendorf, Obertraubling, Pentling, Pettendorf, Pfatter, Regenstauf, Schierling, Sinzing, Tegernheim, Thalmassing, Wenzenbach, Wiesent, Zeitlarn |
 |  |  |  | Verwaltungsgemeinschaft Alteglofsheim |
@@ -1343,35 +1332,35 @@
 |  |  |  | Verwaltungsgemeinschaft Donaustauf |
 |  |  |  | die Gemeinden Altenthann, Bach a. d. Donau, Donaustauf |
 |  |  |  | Verwaltungsgemeinschaft Kallmünz |
-|  |  |  | die Gemeinden Duggendorf, Holzheim a.Forst, Kallmünz |
+|  |  |  | die Gemeinden Duggendorf, Holzheim a. Forst, Kallmünz |
 |  |  |  | Verwaltungsgemeinschaft Laaber |
 |  |  |  | die Gemeinden Brunn, Deuerling, Laaber |
 |  |  |  | Verwaltungsgemeinschaft Pielenhofen-Wolfsegg |
 |  |  |  | die Gemeinden Pielenhofen, Wolfsegg |
 |  |  |  | Verwaltungsgemeinschaft Sünching |
 |  |  |  | die Gemeinden Aufhausen, Mötzing, Riekofen, Sünching |
-|  |  | (Übrige Gemeinden s. Wkr. 234) |
-| 234 | Schwandorf | Landkreis Cham |
+|  |  | (Übrige Gemeinden s. Wkr. 233) |
+| 233 | Schwandorf | Landkreis Cham |
 |  |  | Landkreis Schwandorf |
 |  |  | vom Landkreis Regensburg |
 |  |  |  | Verwaltungsgemeinschaft Wörth a. d. Donau |
 |  |  |  | die Gemeinden Brennberg, Wörth a. d. Donau |
-|  |  | (Übrige Gemeinden s. Wkr. 233) |
-| 235 | Weiden | Kreisfreie Stadt Weiden i.d.OPf. |
+|  |  | (Übrige Gemeinden s. Wkr. 232) |
+| 234 | Weiden | Kreisfreie Stadt Weiden i.d.OPf. |
 |  |  | Landkreis Neustadt a. d. Waldnaab |
 |  |  | Landkreis Tirschenreuth |
-| 236 | Bamberg | Kreisfreie Stadt Bamberg |
+| 235 | Bamberg | Kreisfreie Stadt Bamberg |
 |  |  | vom Landkreis Bamberg |
 |  |  |  | die Gemeinden Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt, Pommersfelden, Schlüsselfeld, Stegaurach, Strullendorf, Walsdorf |
 |  |  |  | Verwaltungsgemeinschaft Burgebrach |
-|  |  |  | die Gemeinden Burgebrach, Schönbrunn i.Steigerwald |
+|  |  |  | die Gemeinden Burgebrach, Schönbrunn i. Steigerwald |
 |  |  |  | Verwaltungsgemeinschaft Ebrach |
 |  |  |  | die Gemeinden Burgwindheim, Ebrach |
 |  |  |  | Verwaltungsgemeinschaft Lisberg |
 |  |  |  | die Gemeinden Lisberg, Priesendorf |
-|  |  | (Übrige Gemeinden s. Wkr. 240) |
+|  |  | (Übrige Gemeinden s. Wkr. 239) |
 |  |  | vom Landkreis Forchheim |
-|  |  |  | die Gemeinden Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf, Langensendelbach, Neunkirchen a.Brand |
+|  |  |  | die Gemeinden Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf, Langensendelbach, Neunkirchen a. Brand |
 |  |  |  | Verwaltungsgemeinschaft Dormitz |
 |  |  |  | die Gemeinden Dormitz, Hetzles, Kleinsendelbach |
 |  |  |  | Verwaltungsgemeinschaft Effeltrich |
@@ -1380,8 +1369,8 @@
 |  |  |  | die Gemeinden Kunreuth, Pinzberg, Wiesenthau |
 |  |  |  | Verwaltungsgemeinschaft Kirchehrenbach |
 |  |  |  | die Gemeinden Kirchehrenbach, Leutenbach, Weilersbach |
-|  |  | (Übrige Gemeinden s. Wkr. 237) |
-| 237 | Bayreuth | Kreisfreie Stadt Bayreuth |
+|  |  | (Übrige Gemeinden s. Wkr. 236) |
+| 236 | Bayreuth | Kreisfreie Stadt Bayreuth |
 |  |  | Landkreis Bayreuth |
 |  |  | vom Landkreis Forchheim |
 |  |  |  | die Gemeinden Egloffstein, Gößweinstein, Obertrubach, Pretzfeld, Wiesenttal |
@@ -1389,14 +1378,14 @@
 |  |  |  | die Gemeinden Ebermannstadt, Unterleinleiter |
 |  |  |  | Verwaltungsgemeinschaft Gräfenberg |
 |  |  |  | die Gemeinden Gräfenberg, Hiltpoltstein, Weißenohe |
-|  |  | (Übrige Gemeinden s. Wkr. 236) |
-| 238 | Coburg | Kreisfreie Stadt Coburg |
+|  |  | (Übrige Gemeinden s. Wkr. 235) |
+| 237 | Coburg | Kreisfreie Stadt Coburg |
 |  |  | Landkreis Coburg |
 |  |  | Landkreis Kronach |
 |  |  | vom Landkreis Hof |
 |  |  |  | die Gemeinde Geroldsgrün |
-|  |  | (Übrige Gemeinden s. Wkr. 239) |
-| 239 | Hof | Kreisfreie Stadt Hof |
+|  |  | (Übrige Gemeinden s. Wkr. 238) |
+| 238 | Hof | Kreisfreie Stadt Hof |
 |  |  | Landkreis Wunsiedel i. Fichtelgebirge |
 |  |  | vom Landkreis Hof |
 |  |  |  | die Gemeinden Bad Steben, Berg, Döhlau, Helmbrechts, Köditz, Konradsreuth, Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach a. Wald, Schwarzenbach a. d. Saale, Selbitz, Stammbach, Zell im Fichtelgebirge |
@@ -1408,8 +1397,8 @@
 |  |  |  | die Gemeinden Leupoldsgrün, Schauenstein |
 |  |  |  | Verwaltungsgemeinschaft Sparneck |
 |  |  |  | die Gemeinden Sparneck, Weißdorf |
-|  |  | (Übrige Gemeinde s. Wkr. 238) |
-| 240 | Kulmbach | Landkreis Kulmbach |
+|  |  | (Übrige Gemeinde s. Wkr. 237) |
+| 239 | Kulmbach | Landkreis Kulmbach |
 |  |  | Landkreis Lichtenfels |
 |  |  | vom Landkreis Bamberg |
 |  |  |  | die Gemeinden Bischberg, Breitengüßbach, Gundelsheim, Heiligenstadt i.OFr., Kemmern, Litzendorf, Memmelsdorf, Oberhaid, Rattelsdorf, Scheßlitz, Viereth-Trunstadt, Zapfendorf |
@@ -1417,17 +1406,17 @@
 |  |  |  | die Gemeinden Baunach, Gerach, Lauter, Reckendorf |
 |  |  |  | Verwaltungsgemeinschaft Steinfeld |
 |  |  |  | die Gemeinden Königsfeld, Stadelhofen, Wattendorf |
-|  |  | (Übrige Gemeinden s. Wkr. 236) |
-| 241 | Ansbach | Kreisfreie Stadt Ansbach |
+|  |  | (Übrige Gemeinden s. Wkr. 235) |
+| 240 | Ansbach | Kreisfreie Stadt Ansbach |
 |  |  | Landkreis Ansbach |
 |  |  | Landkreis Weißenburg-Gunzenhausen |
-| 242 | Erlangen | Kreisfreie Stadt Erlangen |
+| 241 | Erlangen | Kreisfreie Stadt Erlangen |
 |  |  | Landkreis Erlangen-Höchstadt |
 |  |  | vom Landkreis Neustadt a. d. Aisch-Bad Windsheim |
 |  |  |  | Verwaltungsgemeinschaft Uehlfeld |
 |  |  |  | die Gemeinden Dachsbach, Gerhardshofen, Uehlfeld |
-|  |  | (Übrige Gemeinden s. Wkr. 243) |
-| 243 | Fürth | Kreisfreie Stadt Fürth |
+|  |  | (Übrige Gemeinden s. Wkr. 242) |
+| 242 | Fürth | Kreisfreie Stadt Fürth |
 |  |  | Landkreis Fürth |
 |  |  | vom Landkreis Neustadt a. d. Aisch-Bad Windsheim |
 |  |  |  | die Gemeinden Bad Windsheim, Burghaslach, Dietersheim, Emskirchen, Ipsheim, Markt Erlbach, Neustadt a. d. Aisch, Obernzenn |
@@ -1443,57 +1432,46 @@
 |  |  |  | die Gemeinden Langenfeld, Markt Bibart, Markt Taschendorf, Oberscheinfeld, Scheinfeld, Sugenheim |
 |  |  |  | Verwaltungsgemeinschaft Uffenheim |
 |  |  |  | die Gemeinden Ergersheim, Gollhofen, Hemmersheim, Ippesheim, Markt Nordheim, Oberickelsheim, Simmershofen, Uffenheim, Weigenheim |
-|  |  | (Übrige Gemeinden s. Wkr. 242) |
-| 244 | Nürnberg-Nord | Von der kreisfreien Stadt Nürnberg |
+|  |  | (Übrige Gemeinden s. Wkr. 241) |
+| 243 | Nürnberg-Nord | Von der kreisfreien Stadt Nürnberg |
 |  |  |  | die Bezirke 01 bis 13, 22 bis 30, 64, 65, 70 bis 87, 90 bis 95 |
-|  |  | (Übrige Bezirke s. Wkr. 245) |
-| 245 | Nürnberg-Süd | Kreisfreie Stadt Schwabach |
+|  |  | (Übrige Bezirke s. Wkr. 244) |
+| 244 | Nürnberg-Süd | Kreisfreie Stadt Schwabach |
 |  |  | von der kreisfreien Stadt Nürnberg |
 |  |  |  | die Bezirke 14 bis 21, 31 bis 55, 60 bis 63, 96, 97 |
-|  |  | (Übrige Bezirke s. Wkr. 244) |
-| 246 | Roth | Landkreis Nürnberger Land |
+|  |  | (Übrige Bezirke s. Wkr. 243) |
+| 245 | Roth | Landkreis Nürnberger Land |
 |  |  | Landkreis Roth |
-| 247 | Aschaffenburg | Kreisfreie Stadt Aschaffenburg |
+| 246 | Aschaffenburg | Kreisfreie Stadt Aschaffenburg |
 |  |  | Landkreis Aschaffenburg |
-| 248 | Bad Kissingen | Landkreis Bad Kissingen |
+| 247 | Bad Kissingen | Landkreis Bad Kissingen |
 |  |  | Landkreis Haßberge |
 |  |  | Landkreis Rhön-Grabfeld |
-| 249 | Main-Spessart | Landkreis Main-Spessart |
+| 248 | Main-Spessart | Landkreis Main-Spessart |
 |  |  | Landkreis Miltenberg |
-| 250 | Schweinfurt | Kreisfreie Stadt Schweinfurt |
+| 249 | Schweinfurt | Kreisfreie Stadt Schweinfurt |
 |  |  | Landkreis Kitzingen |
 |  |  | Landkreis Schweinfurt |
-| 251 | Würzburg | Kreisfreie Stadt Würzburg |
+| 250 | Würzburg | Kreisfreie Stadt Würzburg |
 |  |  | Landkreis Würzburg |
-| 252 | Augsburg-Stadt | Kreisfreie Stadt Augsburg |
-|  |  | vom Landkreis Augsburg |
-|  |  |  | die Gemeinde Königsbrunn |
-|  |  | (Übrige Gemeinden s. Wkr. 253, 254) |
-| 253 | Augsburg-Land | Vom Landkreis Aichach-Friedberg |
+| 251 | Augsburg-Stadt | Kreisfreie Stadt Augsburg |
+| 252 | Augsburg-Land | Vom Landkreis Aichach-Friedberg |
 |  |  |  | die Gemeinden Affing, Aichach, Friedberg, Hollenbach, Kissing, Merching, Rehling, Ried |
 |  |  |  | Verwaltungsgemeinschaft Dasing |
 |  |  |  | die Gemeinden Adelzhausen, Dasing, Eurasburg, Obergriesbach, Sielenbach |
 |  |  |  | Verwaltungsgemeinschaft Mering |
 |  |  |  | die Gemeinden Mering, Schmiechen, Steindorf |
-|  |  | (Übrige Gemeinden s. Wkr. 254) |
+|  |  | (Übrige Gemeinden s. Wkr. 253) |
 |  |  | vom Landkreis Augsburg |
-|  |  |  | die Gemeinden Adelsried, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben, Fischach, Gablingen, Gersthofen, Graben, Horgau, Kutzenhausen, Langweid a.Lech, Meitingen, Neusäß, Schwabmünchen, Stadtbergen, Thierhaupten, Wehringen, Zusmarshausen |
+|  |  |  | die Gemeinden Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben, Gablingen, Gersthofen, Horgau, Königsbrunn, Kutzenhausen, Langweid a. Lech, Meitingen, Neusäß, Stadtbergen, Thierhaupten, Wehringen, Zusmarshausen |
 |  |  |  | Verwaltungsgemeinschaft Gessertshausen |
 |  |  |  | die Gemeinden Gessertshausen, Ustersbach |
-|  |  |  | Verwaltungsgemeinschaft Großaitingen |
-|  |  |  | die Gemeinden Großaitingen, Kleinaitingen, Oberottmarshausen |
-|  |  |  | Verwaltungsgemeinschaft Langerringen |
-|  |  |  | die Gemeinden Hiltenfingen, Langerringen |
-|  |  |  | Verwaltungsgemeinschaft Lechfeld |
-|  |  |  | die Gemeinden Klosterlechfeld, Untermeitingen |
 |  |  |  | Verwaltungsgemeinschaft Nordendorf |
 |  |  |  | die Gemeinden Allmannshofen, Ehingen, Ellgau, Kühlenthal, Nordendorf, Westendorf |
-|  |  |  | Verwaltungsgemeinschaft Stauden |
-|  |  |  | die Gemeinden Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten, Walkertshofen |
 |  |  |  | Verwaltungsgemeinschaft Welden |
 |  |  |  | die Gemeinden Bonstetten, Emersacker, Heretsried, Welden |
-|  |  | (Übrige Gemeinden s. Wkr. 252, 254) |
-| 254 | Donau-Ries | Landkreis Dillingen a. d. Donau |
+|  |  | (Übrige Gemeinden s. Wkr. 255, 257) |
+| 253 | Donau-Ries | Landkreis Dillingen a. d. Donau |
 |  |  | Landkreis Donau-Ries |
 |  |  | vom Landkreis Aichach-Friedberg |
 |  |  |  | die Gemeinde Inchenhofen |
@@ -1503,45 +1481,30 @@
 |  |  |  | die Gemeinden Kühbach, Schiltberg |
 |  |  |  | Verwaltungsgemeinschaft Pöttmes |
 |  |  |  | die Gemeinden Baar (Schwaben), Pöttmes |
-|  |  | (Übrige Gemeinden s. Wkr. 253) |
-|  |  | vom Landkreis Augsburg |
-|  |  |  | die Gemeinde Altenmünster |
-|  |  | (Übrige Gemeinden s. Wkr. 252, 253) |
-| 255 | Neu-Ulm | Landkreis Günzburg |
+|  |  | (Übrige Gemeinden s. Wkr. 252) |
+| 254 | Neu-Ulm | Landkreis Günzburg |
 |  |  | Landkreis Neu-Ulm |
-|  |  | vom Landkreis Unterallgäu |
-|  |  |  | Verwaltungsgemeinschaft Babenhausen |
-|  |  |  | die Gemeinden Babenhausen, Egg a. d. Günz, Kettershausen, Kirchhaslach, Oberschönegg, Winterrieden |
-|  |  |  | Verwaltungsgemeinschaft Boos |
-|  |  |  | die Gemeinden Boos, Fellheim, Heimertingen, Niederrieden, Pleß |
-|  |  |  | Verwaltungsgemeinschaft Erkheim |
-|  |  |  | die Gemeinden Erkheim, Kammlach, Lauben, Westerheim |
-|  |  |  | Verwaltungsgemeinschaft Pfaffenhausen |
-|  |  |  | die Gemeinden Breitenbrunn, Oberrieden, Pfaffenhausen, Salgen |
-|  |  | (Übrige Gemeinden s. Wkr. 257) |
+| 255 | Memmingen – Unterallgäu | Kreisfreie Stadt Memmingen |
+|  |  | Landkreis Unterallgäu |
+|  |  | vom Landkreis Augsburg |
+|  |  |  | die Gemeinden Fischach, Schwabmünchen |
+|  |  |  | Verwaltungsgemeinschaft Stauden |
+|  |  |  | die Gemeinden Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten, Walkertshofen |
+|  |  | (Übrige Gemeinden s. Wkr. 252, 257) |
 | 256 | Oberallgäu | Kreisfreie Stadt Kempten (Allgäu) |
 |  |  | Landkreis Lindau (Bodensee) |
 |  |  | Landkreis Oberallgäu |
 | 257 | Ostallgäu | Kreisfreie Stadt Kaufbeuren |
-|  |  | Kreisfreie Stadt Memmingen |
 |  |  | Landkreis Ostallgäu |
-|  |  | vom Landkreis Unterallgäu |
-|  |  |  | die Gemeinden Bad Wörishofen, Buxheim, Ettringen, Markt Rettenbach, Markt Wald, Mindelheim, Sontheim, Tussenhausen und das gemeindefreie Gebiet Ungerhauser Wald |
-|  |  |  | Verwaltungsgemeinschaft Bad Grönenbach |
-|  |  |  | die Gemeinden Bad Grönenbach, Wolfertschwenden, Woringen |
-|  |  |  | Verwaltungsgemeinschaft Dirlewang |
-|  |  |  | die Gemeinden Apfeltrach, Dirlewang, Stetten, Unteregg |
-|  |  |  | Verwaltungsgemeinschaft Illerwinkel |
-|  |  |  | die Gemeinden Kronburg, Lautrach, Legau |
-|  |  |  | Verwaltungsgemeinschaft Kirchheim i. Schw. |
-|  |  |  | die Gemeinden Eppishausen, Kirchheim i. Schw. |
-|  |  |  | Verwaltungsgemeinschaft Memmingerberg |
-|  |  |  | die Gemeinden Benningen, Holzgünz, Lachen, Memmingerberg, Trunkelsberg, Ungerhausen |
-|  |  |  | Verwaltungsgemeinschaft Ottobeuren |
-|  |  |  | die Gemeinden Böhen, Hawangen, Ottobeuren |
-|  |  |  | Verwaltungsgemeinschaft Türkheim |
-|  |  |  | die Gemeinden Amberg, Rammingen, Türkheim, Wiedergeltingen |
-|  |  | (Übrige Gemeinden s. Wkr. 255) |
+|  |  | vom Landkreis Augsburg |
+|  |  |  | die Gemeinde Graben |
+|  |  |  | Verwaltungsgemeinschaft Großaitingen |
+|  |  |  | die Gemeinden Großaitingen, Kleinaitingen, Oberottmarshausen |
+|  |  |  | Verwaltungsgemeinschaft Langerringen |
+|  |  |  | die Gemeinden Hiltenfingen, Langerringen |
+|  |  |  | Verwaltungsgemeinschaft Lechfeld |
+|  |  |  | die Gemeinden Klosterlechfeld, Untermeitingen |
+|  |  | (Übrige Gemeinden s. Wkr. 252, 255) |
 | Baden-Württemberg |
 | 258 | Stuttgart I | Vom Stadtkreis Stuttgart |
 |  |  |  | die Stadtbezirke Birkach, Degerloch, Hedelfingen, Möhringen, Plieningen, Sillenbuch, Stuttgart-Mitte, Stuttgart-Nord, Stuttgart-Süd, Stuttgart-West, Vaihingen |
@@ -1625,7 +1588,7 @@
 |  |  | (Übrige Gemeinden s. Wkr. 282, 288) |
 | 282 | Lörrach – Müllheim | Landkreis Lörrach |
 |  |  | vom Landkreis Breisgau-Hochschwarzwald |
-|  |  |  | die Gemeinden Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim am Rhein, Heitersheim, Müllheim, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau, Sulzburg |
+|  |  |  | die Gemeinden Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim am Rhein, Heitersheim, Müllheim im Markgräflerland, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau, Sulzburg |
 |  |  | (Übrige Gemeinden s. Wkr. 281, 288) |
 | 283 | Emmendingen – Lahr | Landkreis Emmendingen |
 |  |  | vom Ortenaukreis |
@@ -1693,4 +1656,4 @@
 |  |  | (Übrige Gemeinden s. Wkr. 298) |
 |  |  | vom Regionalverband Saarbrücken |
 |  |  |  | die Gemeinden Friedrichsthal, Quierschied, Sulzbach/Saar |
-|  |  | (Übrige Gemeinden s. Wkr. 296, 298). |
+|  |  | (Übrige Gemeinden s. Wkr. 296, 298) |
