@@ -1,0 +1,77 @@
+# 13. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-03-15T10:00:00+01:00
+- Ende: 2024-03-15T11:55:00+01:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-VV-61
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-VV-61
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-VV-61
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2024-VV-61
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2024-VV-61
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Benennung von sachkundigen Bürgern
+- TOP 1.2.2: Benennung von beratenden Mitglieder
+- TOP 2: Aktuelles
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm "Kommunaler Straßenbau 2024"
+- TOP 3.2: Förderprogramm "Nahmobilität 2024"
+- TOP 3.2.1: Förderprogramm "Radschnellverbindungen / Nahmobilität 2024"
+- TOP 3.3: Programmvorschlag Städtebauförderprogramm 2024 hier: Unterrichtung
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.1.1: 1. Änderung des Regionalplans Ruhr zum Ausbau der Windenergie
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der Revierpark Wischlingen GmbH - Finanzielle Beteiligung des RVR über das Jahr 2023 hinaus
+- TOP 8.1.1: Angelegenheiten der Revierpark Wischlingen GmbH - Finanzielle Beteiligung des RVR über das Jahr 2023 hinaus
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Gesellschaftervereinbarungen 2024
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 9.1: Strategie Geonetzwerk.metropoleRuhr
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Regionale Radwegepflege - Pilotprojekt zur Analyse möglicher zentraler Dienstleistungen durch den RVR
+- TOP 10.2: Regionales Radwegenetz für die Metropole Ruhr Hier: Integration des Freizeitnetzes in das Regionale Radwegenetz
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Strategie Grüne Infrastruktur Metropole Ruhr
+- TOP 11.1.1: Fragen zur Strategie Grüne Infrastruktur Metropole Ruhr
+- TOP 11.2: Regionale Biodiversitätsstrategie Ruhrgebiet - Projektantrag im Bundesförderprogramm "chance.natur"
+- TOP 11.2.1: Regionale Biodiversitätsstrategie Ruhrgebiet - Projektantrag im Bundesförderprogramm "chance.natur"
+- TOP 11.3: Sachstand und weitere Vorgehensweise zum Ausbau der erneuerbaren Energien auf RVR-Liegenschaften
+- TOP 11.3.1: Sachstand und weitere Vorgehensweise zum Ausbau der erneuerbaren Energien auf RVR-Liegenschaften
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 12.1: Förderung der FISU World University Games Rhine-Ruhr 2025 mit den Ruhr Games als Teil des Rahmenprogramms
+- TOP 12.2: Verlängerung des Vertrages über die Präsentation von Dauerausstellungen im Baukunstarchiv NRW
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Änderung der Verbandsordnung hier: Anpassung der Verbandsordnung aufgrund überarbeiteter Entschädigungsverordnung
+- TOP 16.2: Bestellung der weiteren stellvertretenden Schriftführung für die Verbandsversammlung in der 14. Wahlperiode
+- TOP 16.3: Entwurf des NKF-Gesamtabschlusses zum 31.12.2022
+- TOP 16.4: Überplanmäßige Mittelbereitstellung für das Projekt "Hoesch-Hafenbahn-Weg - 1. BA" (Investitionsnr. I08300-001)
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 17.1: Bürgernahe Verwaltung
+- TOP 17.2: Resolution der Verbandsversammlung im Regionalverband Ruhr: Für eine Stärkung der Kommunalfinanzen!
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.2: Anfrage der SPD im Ruhrparlament: Evaluation der Wirksamkeit der Ruhrkonferenz
+- TOP 18.1.3: Anfrage Die Grünen Verhandlungen zu RuhrFutur
+- TOP 18.1.4: Deponie-Standorte
+- TOP 18.2: Mitteilungen
+- TOP -: Tischvorlagen
+- TOP -: Überplanmäßige Mittelbereitstellungen für das Projekt "Hoesch-Hafenbahn-Weg - 1. BA" (I08300-001 / KTR 0700004)
+- TOP -: Resolution der Verbandsversammlung im Regionalverband Ruhr: Für eine Stärkung der Kommunalfinanzen!
+- TOP -: Antwort auf die Anfrage der CDU-Fraktion Deponie-Standorte
