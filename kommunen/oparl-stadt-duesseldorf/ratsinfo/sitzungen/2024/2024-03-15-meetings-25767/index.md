@@ -1,0 +1,54 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-15T16:00:00+01:00
+- Ende: 2024-03-15T17:40:00+01:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25767
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25767
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 01.03.2024 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 02.02.2024 - einstimmig beschlossen
+- TOP 4: Vorstellung des Programmes Demokratie-Lernen vom Amt für Statistik und Wahlen - zur Kenntnis genommen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Zulassung von Mitgliedern des Jugendrates - einstimmig beschlossen
+- TOP 5.2: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 5.5: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2024 - einstimmig beschlossen
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Verkehrseinrichtungen und -hindernisse auf Radwegen - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verfügungsmittel
+- TOP 8.1: Selma Lagerlöf Schule - "Mein Körper gehört mir" und "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 8.2: St.-Cäcilia-Schule - Präventionsprojekt "Mut tut gut" 2024 - einstimmig beschlossen
+- TOP 8.3: Verein Himmelgeist 1100 e. V. - Himmelgeister Jüchtlauf 2024 - einstimmig beschlossen
+- TOP 8.4: Düsseldorfer Künstler e. V. - Projekt "Natürlich Kunst" 2024 - einstimmig beschlossen
+- TOP 8.5: Städtisches Gymnasium Koblenzer Straße - Einweihungsveranstaltung der Anatol-Skulpturen - einstimmig beschlossen
+- TOP 8.6: Benrather Kulturkreis e. V. - Ausstellung Benrather Rundgang 2024 inklusive der Veranstaltung "Eine gute Stunde Kultur" - einstimmig beschlossen
+- TOP 8.7: Benrather Kulturkreis e. V. - Veranstaltung "Wort und Ton im Atelier 2024" - einstimmig beschlossen
+- TOP 8.8: Caritasverband zentrum plus Wersten - Kulturcafé in Kooperation mit der Stadtbücherei Wersten 2024 - einstimmig beschlossen
+- TOP 8.9: Aktionsgemeinschaft Benrath e. V. - Förderung eines Stadtteilhausmeisters 2024 - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Fußgänger- und fahrradfreundlicher Ortsteil Paulsmühle - Beschluss der Bezirksvertretung 9 vom 16.03.2018; 179/48/2018 - zur Kenntnis genommen
+- TOP 9.2: Fahrradzone Paulsmühle - Beschluss der Bezirksvertretung 9 vom 15.05.2020; BV9/097/2020 - zur Kenntnis genommen
+- TOP 9.3: Beleuchtung Paulinenpark in Reisholz - Beschluss der Bezirksvertretung 9 vom 03.11.2023; BV9/225/2023 - zur Kenntnis genommen
+- TOP 9.4: Nachtrag zur Informationsvorlage BV9/201/2023 Markierung von festen Abstellflächen für E-Scooter auf dem Kamper Acker vom 03.11.2023 - zur Kenntnis genommen
+- TOP 9.5: Kinderparlament für den Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 02.02.2024, BV9/019/2024 - zur Kenntnis genommen
+- TOP 9.6: Ergebnisse der Beratungen über die Haushaltsanträge der BV 9 zur Aufstellung des Haushaltsplans 2024 - zur Kenntnis genommen
+- TOP 9.7: Zufahrt Wasserwerk Flehe, Fahrradstraße - Beschluss der Bezirksvertretung 9 vom 28.02.2020; BV9/061/2020 - zur Kenntnis genommen
+- TOP 9.8: Nachtrag zur Informationsvorlage BV9/210/2023 Straßenzustand im Bezirk 9 der BV9 Sitzung vom 03.11.2023 - zur Kenntnis genommen
