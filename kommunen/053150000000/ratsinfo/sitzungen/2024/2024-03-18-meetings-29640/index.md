@@ -1,0 +1,64 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-03-18T14:33:00+01:00
+- Ende: 2024-03-18T15:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29640
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29640
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Sachstand Green Bond Platzierung - Kenntnis genommen
+- TOP 2.3: Vierter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.4: Prüfauftrag des Rates zum Lehrschwimmbecken im Rahmen der Planung und Errichtung eines 2-zügigen Grundschulgebäudes mit 2 Sportübungseinheiten im Stadtteil Köln-Rondorf Nord-West (Vorlagen-Nummer 1384/2023) - Sache ist erledigt
+- TOP 2.5: Stadtradeln 2024 - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.01.2024 - Kenntnis genommen
+- TOP 2.7: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.9: Strukturförderfonds des Dezernates der Oberbürgermeisterin 2024 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.1.2: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.3: Haushaltsrechtliche Unterrichtung des Rates gemäß § 62 Abs. 4 Gemeindeordnung NRW, hier: Entwurf Jahresabschluss 2022 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Prioritätenliste Kunststoffrasen #8: Planungsbeschluss Generalsanierung Sportanlage Am Damm - ungeändert beschlossen
+- TOP 7.2: Prioritätenliste Kunststoffrasen #7: Planungsbeschluss Generalsanierung Bezirkssportanlage Merheimer Straße - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilergebnisplan des Amtes für Stadtentwicklung und Statistik in der Produktgruppe 0902 - Stadtentwicklung für das Haushaltsjahr 2024 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Anregung der Bezirksvertretung Kalk zu "Bereitstellung von Mitteln für eine pädagogische Betreuung am Dirttrack der AbenteuerHallen Kalk" - Alternative beschlossen
+- TOP 10.2: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.07.2024 - 30.06.2025 - ungeändert beschlossen
+- TOP 10.3: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - zurückgestellt
+- TOP 10.4: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - zurückgestellt
+- TOP 10.5: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP 10.5.1: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Melaten, Junkersdorf, Mohnweg, Bahnstraße, Weiden Zentrum, Weiden Römergrab und Weiden West - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Neubau Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 10.7: Erweiterter Planungsbeschluss für die Nachrüstung von zwei Zugangstreppen an der Stadtbahnhaltestelle Friesenplatz - geändert beschlossen
+- TOP 10.8: Neue Geh- und Radwegebrücke südlich der Hohenzollernbrücke Erweiterter Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Baubeschluss für.die Sanierung/Umbau der Neusser Landstraße im Abschnitt zwischen Kurzer Damm und Haus-Nr. 439 in Köln-Worringen sowie Freigabe von investiven Auszahlungsermächtigungen - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 10.10.1: TOP 10.10: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Kommunale Wärmeplanung: Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 10.12: Kölner Konzept zur Bekämpfung von Wohnungslosigkeit - zurückgestellt
+- TOP 10.13: Baubeschluss für den 1. Bauabschnitt zur Neukonzeption der Bezirkssportanlage Scheibenstraße in Köln-Weidenpesch: Generalsanierung Platz 2 - ungeändert beschlossen
+- TOP 10.14: Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" durch den Betrieb des Drogenkonsumraums in Kalk - ohne Votum in nachfolgende Gremien
+- TOP 10.15: 16. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln (AVwGebS) - ungeändert beschlossen
+- TOP 10.16: Sanierung der Bühnen am Offenbachplatz, Erweiterung der Verpflichtungs- und Kreditermächtigungen - ungeändert beschlossen
+- TOP 10.17: Erweiterung des Schulgebäudes und Errichtung einer 6-fach-Turnhalle Willy-Brandt-Gesamtschule Im Weidenbruch, 51061 Köln – Kostenfortschreibungsbeschluss gem. § 13 IV S.2 der Betriebssatzung der GW i,V.m. § 16 V S.1 der Eigenbetriebsverordnung NRW - ungeändert beschlossen
+- TOP 10.18: Zusätzliche Hilfen für obdachlose Menschen - Fortschreibung Förderprogramm "Weiterentwicklung der Kölner Hilfen für Menschen im Kontext Obdachlosigkeit" - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Änderung der Satzungen der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
