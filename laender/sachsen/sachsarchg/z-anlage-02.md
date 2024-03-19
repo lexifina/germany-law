@@ -1,4 +1,4 @@
-# Anlage 2 Berufspraktikum
+# Anlage 2 (zu § 5 Absatz 2 Satz 1 Nummer 3 Buchstabe b)
 Berufspraktikum
 Die Durchführung des Berufspraktikums dient dazu, sowohl die Anforderung an die Eintragung in die Architektenliste nach § 5 Absatz 2 Satz 1 Nummer 3 Buchstabe b als auch die Anforderungen nach Artikel 46 Absatz 1 Buchstabe b in Verbindung mit Absatz 4 der Richtlinie 2005/36/EG erfüllen zu können.
 I. Anerkennung von ausgestellten Bescheinigungen anderer Länder der Bundesrepublik Deutschland oder anderer Mitgliedstaaten der Europäischen Union oder diesen durch Abkommen gleichgestellten Staaten

@@ -55,3 +55,4 @@ Abschnitt 7 Ordnungswidrigkeiten, Rechtsverordnungen, Übergangs- und Schlussbes
 § 40 Übergangsvorschriften zum Versorgungswerk
 Anlage 1 Studienanforderungen
 Anlage 2 Berufspraktikum
+Anlage 3 Prüfraster für die Verhältnismäßigkeitsprüfung
