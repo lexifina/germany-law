@@ -1,0 +1,175 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966063
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966063
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-02
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Lizenzgebiet und Carsharing
+- TOP 6.2.: Änderung der vorgeschlagenen neuen Kita-Förderformel
+- TOP 6.3.: Autoverkehr und Gehwegparken am Luise-Kiesselbach-Platz
+- TOP 6.4.: Monolithen Wessobrunner Str.
+- TOP 6.5.: Parkplätze vor der Kita
+- TOP 6.6.: Ampel und Übergang Fürstenrieder Straße-Waldfriedhof Haupteingang stadteinwärts
+- TOP 6.7.: Baumfällungen Marbachstraße_S-Bahn-Grünanlage
+- TOP 6.8.: Mülleimer für Ersatzhaltestellen der Busse für die Tram-Linie18 Westendstraße
+- TOP 6.9.: Antrag Parkverbot für LKW in der Murnauerstrasse
+- TOP 6.10.: Antrag auf Siedlungsbus
+- TOP 6.11.: Halteverbot Ettalstrasse
+- TOP 6.12.: LKW Verkehr auf der Waldfriedhofstr.
+- TOP 6.13.: Drachenseestr_Ecke Ötztaler - Rückblick
+- TOP 6.14.: Verkehrs- und Parkplatzsituation Luise-Kiesselbach-Platz
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) + (U) Ausweitung der 30 km/h Beschränkung auf der Hansastraße in Richtung Westpark
+- TOP 8.2.: (E) Toilettenanlage am Luise Kiesselbach-Platz zur Sanitäranlage ausbauen und unter städtischer Leitung betreiben Empfehlung Nr. 20-26 / E 01638 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 16.11.2023
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Init. "Bodenakrobatik" Bodenakrobatik Training mit Airtrack vom 10.04. -25.07.2024 7.240,89€; AZ. 0262.0-7-0469
+- TOP 11.: Anträge
+- TOP 11.1.: Neuprofilierung Murnauer Str.
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Luise-Kiesselbach-Platz, Mini-Ausstellung im Auftrag des RKU
+- TOP 16.2.: Anhörung, Luise-Kiesselbach-Platz, Quartierspräsenz im Auftrag des RKU
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, drei kleinere Konzerte von ars musica
+- TOP 17.2.: Westpark, Ostteil, Bundesjugendspiele der Grundschule an der Fernpaßstraße
+- TOP 18.: Baureferat
+- TOP 18.1.: Bestellung einer städtischen Leistung: Outdoorkicker auf dem Spielplatz Eichendorffplatz
+- TOP 18.2.: Gerti-Spies-Str_Änderung der Radwegführung, Zweirichtungsradweg
+- TOP 18.3.: Inninger Str._Fahr- und Gehbahnsanierung im Bestand
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Beschluss Hybridsitzungen
+- TOP 20.2.: Anhörung, Berechnung BA-Größen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Nestroystr. beidseitig
+- TOP 25.2.: Peter-Schlemihl-Str. zwischen Florian-Geyer-Str.
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Beschlussvorlage Fortschreibung Schulentwicklungsplanung für Realschulen und Gymnasien
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Beschlussvorlage STEP2040
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Ausschreibung Ran an die Stadtteil-Koffer: für den Einsatz in einem Stadtteil 2025
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: MVG-Leistungsprogramm 2025 Anhörung der Bezirksausschüsse
+- TOP 33.: Baureferat
+- TOP 33.1.: Fahrradabstellanlage Johann-Clanze- / Gerokstraße
+- TOP 33.2.: Barrierfreie Straßenüberquerungen
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 37.1.: Christkindlmarkt Luise-Kiesselbach-Platz
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Meldemöglichkeit für falsch abgestellte E-Scooter
+- TOP 40.2.: MVG-E-Lastenräder in Sendling-Westpark
+- TOP 40.3.: Fristverlängerung Antrag auf Taktverdichtung der Buslinie 63
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Wohnungsbaugesellschaft „Münchner Wohnen“ Lastenräder für Sendling-Westpark
+- TOP 46.: Sozialreferat
+- TOP 46.1.: GWG-Abriss- und Neubaugebiet Garmischer Straße Geeignet für Familienzentrum ?
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Broschüre Pfarrverband Laim
+- TOP 47.2.: SZ-Berichterstattung
+- TOP 47.3.: Planungen für den Bereich der Garmischer Straße (West) zwischen Preßburger und Krüner Straße
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Westparklauf
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Am Westpark Tempo30 Kita/Lärm
+- TOP 56.2.: Sonnenlängstraße, Am Radenhölzl_Haltverbote für die Müllabfuhr
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Erstinformation über die geplante Errichtung von Mobilfunksendeanlagen
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Strom-Projekt-Ortlerstraße.
+- TOP 63.2.: Fernwärme-Projekt Hansastraße
+- TOP 63.3.: Baumaßnahme Fernwärme-Projekt - BV Nestroystraße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Vorkaufsrecht Objekt Schlegelstraße
+- TOP 65.2.: Vorkaufsrecht Objekt Krüner Straße
+- TOP 65.3.: Abgeschlossenheitsbescheinigungen
+- TOP 18.4.: Tübinger Str._Fahrsanierung im Bestand, südliche Fahrbahnen
+- TOP 13.13.1.: Protokoll BMW-Park - FCB 06-03-202
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße “Robotik-Workshop für die 4. Klassen vom 03.01.2024 – 31.07.2024“ 800,00 € / AZ: 0262.0-7-0465
+- TOP 30.2.: Beschlussvorlage Masterplanungen in den Münchner Parkmeilen
+- TOP 12.5.1.: Protokoll UA MuW 2024-03
+- TOP 12.6.1.: UA PuG Protokoll
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative „Märchen im Westpark“ „Märchen im Westpark für Kinder (Kindergarten- und Schulalter) im August 2024 6.530,00 € 7 AZ: 0262.0-7-0470
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für die März
+- TOP 13.7.1.: Bericht_KJB
+- TOP 17.3.: Veranstaltung in div. städtischen Grünanlagen Fit im Park ab 01.05.2024 bis 30.09.2024
+- TOP 12.3.1.: Protokoll HHA
+- TOP 17.4.: Anhörung, Westpark, Nepalpagode, buddhistische Meditationen
