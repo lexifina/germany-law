@@ -1,0 +1,57 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2024-03-19T18:00:00+01:00
+- Ende: 2024-03-19T21:41:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZJxHo_z7PrTNeRprMpLP9s
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21169
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe7woUyolNarmZxwt6p_9o-2JW6gIS0YxVZBCrSqJDMo/Bekanntmachung_Rat_19.03.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdUnij6TD4luJ7Gx5e7gf1nKiQiYs8u4zjh-qSWjGTu3/Oeffentliche_Niederschrift_Rat_19.03.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 06.02.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Antrag Errichtung einer Wirtschaftsförderungsgesellschaft hier: Vorstellung der Kreiswirtschaftsförderung - Kein Beschluss erforderlich.
+- TOP 5.: Aufwertung des eifelbads zur zentralen Kurmittelabgabestelle hier: Fortführung der Planung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 6.: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Antrag der Gemeinschaftsgrundschule nach § 24 GO NRW - Beschluss s. RD Nr. 1269-XI/Z-1.
+- TOP -: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Antrag der Gemeinschaftsgrundschule nach § 24 GO NRW - Einstimmiger Beschluss:
+- TOP 7.: Umbesetzung im Betriebsausschuss "Forstbetrieb der Stadt Bad Münstereifel" hier: Antrag der SPD-Fraktion vom 14.02.2024 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. §§ 50 und 58 GO NRW nicht mit.
+- TOP 8.: Umbesetzung von Ausschüssen hier: Antrag der CDU-Fraktion vom 04.03.2024 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. §§ 50 und 58 GO NRW nicht mit.
+- TOP 9.: Vertretung der Stadt Bad Münstereifel in der Delegiertenversammlung des Erftverbandes hier: Nachfolge für den Stadtverordneten Frank Terschanksi in der Delegiertenversammlung - Beschluss s. RD-Nr. 40-XI/Z-3.
+- TOP -: Vertretung der Stadt Bad Münstereifel in der Delegiertenversammlung des Erftverbandes hier: Nachfolge für den Stadtverordneten Frank Terschanksi in der Delegiertenversammlung; Empfehlungsbeschluss des Betriebsausschusses „Stadtwerke Bad Münstereifel“ - Einstimmiger Beschluss:
+- TOP 10.: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal hier: Nachfolge für den Stadtverordneten Frank Terschanski; Nachfolge Willi Müller - Beschluss s. RD-Nr. 81-XI/Z-3.
+- TOP -: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal hier: Nachfolge für den Stadtverordneten Frank Terschanski; Nachfolge Willi Müller; Empfehlungsbeschluss des Betriebsausschusses „Stadtwerke Bad Münstereifel“ - Einstimmiger Beschluss:
+- TOP 11.: Beitritt zur "Trierer Erklärung" des Deutschen Städtetages hier: Antrag der Fraktion Bündnis 90/DieGrünen vom 28.02.2024 - Einstimmiger Beschluss:Ohne Mitwirkung des Stadtverordneten Willi Hoever, CDU-Fraktion.
+- TOP 12.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Stadtgebiet Bad Münstereifel 2024 - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 13.: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel – Sondernutzungssatzung -; Umsetzung HSK-Maßnahme hier: 13. Änderungssatzung - Einstimmiger Beschluss:
+- TOP 14.: Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkünfte für Aussiedler, Asylbewerber, Flüchtlinge und Obdachlose vom 08.05.2018 hier: 1. Änderungssatzung - Beschluss s. RD-Nr. 1302-XI/Z-1.
+- TOP -: Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkünfte für Aussiedler, Asylbewerber, Flüchtlinge und Obdachlose vom 08.05.2018 hier: 1. Änderungssatzung; redaktionelle Änderungen aufgrund Vorberatung im Haupt- und Finanzausschuss - Einstimmiger Beschluss:
+- TOP 15.: 6. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an einer offenen Ganztagsschule im Primarbereich der Stadt Bad Münstereifel - Mehrheitlicher Beschluss mit 18 Ja- und 6 Nein-Stimmen sowie 4 Enthaltungen:
+- TOP 16.: Bebauungsplan Nr. 58 "Gelände ehemalige Dr. Friedrich-Haass Hauptschule", 1. Änderung im vereinfachten Verfahren gemäß § 13 BauGB hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse erfolgen alle einstimmig. Nach der Abwägung zu 05.1 verlässt der Stadtverordnete Christof Milischewski, FDP-Fraktion, erneut den Sitzungssaal.
+- TOP 17.: Feststellung Jahresabschluss zum 31.12.2022 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser - Einstimmiger Beschluss:
+- TOP 18.: Feststellung Jahresabschluss zum 31.12.2022 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - Einstimmiger Beschluss:
+- TOP 19.: Entlastung für das Wirtschaftsjahr 2022 Hier: Entlastung des Betriebsausschusses Stadtwerke durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses „Stadtwerke Bad Münstereifel“ nicht mit.
+- TOP -: Entlastung für das Wirtschaftsjahr 2022 Entlastung des Betriebsausschusses Stadtwerke durch den Rat Hier: Bestätigungsvermerk des unabhängigen Abschlussprüfers für Wasser und Abwasser - Beschluss s. RD-Nr. 1295-XI.
+- TOP 20.: Erlass der Haushaltssatzung für das Haushaltsjahr 2024 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: 3. Veränderungsliste sowie Haushaltssicherungskonzept - Beschluss s. RD-Nr. 1235-XI/Z-19.
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2024 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Beschlussfassung - Mehrheitlicher Beschluss mit 23 Ja- und 5 Nein-Stimmen sowie 1 Enthaltung
+- TOP 21.: Stellenplan für das Haushaltsjahr 2024 hier: Beschlussfassung - Einstimmiger Beschluss:
+- TOP 22.: Anfragen und Mitteilungen
+- TOP 22.1: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 22.2: Bildungs- und Sozialausschuss hier: Ausscheiden des stellvertretenden sachkundigen Bürgers Tobias Kohn
+- TOP 22.3: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 22.4: Sachstand Wiederaufbau hier: Stand 06.03.2024
+- TOP 22.5: Wiederaufbau Archiv hier: Sachstand
+- TOP 22.6: Genehmigung des Wirtschaftsplanes 2024 des Forstbetriebes der Stadt Bad Münstereifel hier: Verfügung des Kreises Euskirchen vom 09.02.2024
+- TOP 22.7: Unterbringungssituation Geflüchteter und Situation allgemein hier: Schreiben der CDU-Fraktion vom 07.03.2024
+- TOP 22.8: Nachbesserung Europaplatz
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Mehrheitlicher Beschluss mit 4 Nein-Stimmen:
+- TOP 2.: Anfragen und Mitteilungen
+- TOP 2.1: Sachstand Schleidpark hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
