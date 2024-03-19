@@ -1,0 +1,70 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-19T16:00:00+01:00
+- Ende: 2024-03-19T18:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen
+- TOP 3.1: Errichtung der Mobilitätsstation Engerstraße im Kontext der Richtlinie zur Förderung der Vernetzten Mobilität und des Mobilitätsmanagements (FöRi-MM) - Empfehlung einstimmig beschlossen
+- TOP 3.2: Ergänzung und Vervollständigung der Fahrbahnmarkierungen auf der Grafenberger Allee, zwischen den Haltestellen Uhlandstraße und Staufenplatz, zur Verbesserung des ÖPNV-Betriebsablaufs - Empfehlung mehrheitlich beschlossen
+- TOP 3.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (Liste B) - einstimmig beschlossen
+- TOP 3.4: Zuschuss an den Tanzsportclub Düsseldorf Rot-Weiss e.V. - einstimmig beschlossen
+- TOP 3.5: Zuschuss an den Deutschen Sportklub Düsseldorf e.V. - einstimmig beschlossen
+- TOP 3.6: Blumenoasen Pro Düsseldorf - einstimmig beschlossen
+- TOP 3.7: Durchführung einer Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 2 - einstimmig beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Zuschuss an die Evang. Emmaus-Gemeinde für "Musik in Matthäi 2024" aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.2: Bezirksbezogene Haushaltsmittel für Musik an Matthäi - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.3: Zuschuss an die Evang. Emmaus-Gemeinde für "Musik an Matthäi 2024„ aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 4.4: Mitfinanzierung Sommerfest und 45. Jubiläum Kinderspielhaus - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.5: Bezirksbezogene Haushaltsmittel für das Sommerfest zum 45. Jubiläum des Kinderspielhauses - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 4.6: Zuwendung an das Kinderspielhaus aus bezirksbezogenen Haushaltsmitteln zur Durchführung eines Sommerfestes zum 45jährigen Jubiläum - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 4.7: Straßenfest Wülfrather- und Wetterstaße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.8: Zuschuss zur Durchführung eines Straßenfestes durch AnwohrnerInnen Wülfrather-/Wetterstraße am 31.08.2024 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 4.9: Bezirksbezogene Haushaltsmittel für das Straßenfest auf der Wülfrather- und Wetterstraße - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 4.10: Unterstützung für den BBK Düsseldorf e. V. zur Durchführung der Projekt-/Seminarreihe im zweiten Halbjahr 2024 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 4.11: Zuwendungsantrag Projekt-/Seminarreihe des BBK Kunstforums Düsseldorf - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 4.12: Bezirksbezogene Haushaltsmittel für die BBK Sommerakademie - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 4.13: „Restfläche" zwischen dem Wohngebäude Dorotheenstraße 83 und dem Aufgang zum Bahnhof Flingern S - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.17: tagesbezogene Höchstgebühr für das Kurzzeitparken - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 4.18: Unterflurcontainer Graf-Recke-Str. 103 - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.19: Zusatzbeschilderung an Straßennamen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 4.20: Machbarkeitsprüfung und Finanzierung von Standorten für Trinkwasserbrunnen im Stadtbezirk 2 im Rahmen und aus Mitteln der kommunalen Maßnahmen zur Klimaanpassung und Verbesserung der Biodiversität inklusive deren Umsetzung - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 4.21: Einziger Parkplatz mit barrierefreier E-Ladesäule im Stadtbezirk 2 - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 5.2: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.3: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Versiegelung von Verkehrsinseln und Verkehrsrestflächen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.6: Ergebnis Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Anfrage der SPD-Fraktion - vertagt
+- TOP 5.7: Fahrradabstellanlagen - Anfrage der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 5.8: Fahradweg Lindenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen zur aktuellen Sitzung
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Baustelleneinrichtung Bruch-/Schwelmer-Straße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Wohnungsbau im Stadtbezirk 2 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Entwicklung und aktuelle Situation der Versorgung mit Pflegeheimplätzen und Seniorenwohnanlagen im Stadtbezirk 2 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Stationsbasierte Abstellfläche für E-Scooter auf der Grunerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/215/2023 - zur Kenntnis genommen
+- TOP 7.2: Sharing Station auf dem Hellweg - Beschluss der Bezirksvertretung 2, Vorlage BV2/211/2023 - zur Kenntnis genommen
+- TOP 7.3: Haarnadel Fahrradständer im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/217/2023 - zur Kenntnis genommen
+- TOP 7.4: Bank Brahmsplatz (Hausnummer 1-3) - Beschluss der Bezirksvertretung 2, Vorlage BV2/241/2023 - zur Kenntnis genommen
+- TOP 7.5: Container Bruchstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/32/2024 - zur Kenntnis genommen
+- TOP 7.6: Reinigung Schallschutzwände Stadtwerkepark - Beschluss der Bezirksvertretung 2, Vorlage BV2/008/2024 - zur Kenntnis genommen
+- TOP 7.7: Blühwiesenstrategie - zur Kenntnis genommen
