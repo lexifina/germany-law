@@ -35,6 +35,7 @@ Unterabschnitt 4 Wahlvorschläge, Stimmzettel
 § 28 Aufforderung zur Einreichung von Wahlvorschlägen
 § 29 Beteiligungsanzeige, Beseitigung von Mängeln
 § 30 Inhalt und Form der Kreiswahlvorschläge, voneinander abweichende Erklärungen der Vertrauenspersonen
+§ 30a Besondere Anforderungen an Kreiswahlvorschläge nach § 20 Absatz 2 Satz 2 und 3 des Sächsischen Wahlgesetzes
 § 31 Vorprüfung der Kreiswahlvorschläge durch die Kreiswahlleiterin oder den Kreiswahlleiter
 § 32 Zulassung der Kreiswahlvorschläge
 § 33 Beschwerde gegen Entscheidungen des Kreiswahlausschusses
@@ -55,7 +56,7 @@ Unterabschnitt 1 Allgemeine Bestimmungen
 § 45 Eröffnung der Wahlhandlung
 § 46 Öffentlichkeit und Ordnung im Wahlraum
 § 47 Stimmabgabe
-§ 48 Stimmabgabe von Wählerinnen und Wählern mit Behinderungen
+§ 48 Stimmabgabe unter Inanspruchnahme einer Hilfsperson
 § 49 Stimmabgabe von Inhaberinnen und Inhabern eines Wahlscheines
 § 50 Schluss der Wahlhandlung
 Unterabschnitt 2 Besondere Regelungen
