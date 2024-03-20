@@ -107,6 +107,7 @@ Erlaubnis](0047.md)
 
 - [§ 54 Vollzug durch die Länder](0054.md)
 - [§ 54a Vollzug durch die Bundeswehr](0054a.md)
+- [§ 54b Vollzug durch das Eisenbahn-Bundesamt](0054b.md)
 
 ## 11. Abschnitt Angleichung an Gemeinschaftsrecht
 
