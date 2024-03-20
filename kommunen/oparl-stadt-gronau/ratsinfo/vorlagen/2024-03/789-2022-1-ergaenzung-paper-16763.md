@@ -1,0 +1,22 @@
+# Bedarfsplanung Schulsozialarbeit an allen Schulstandorten in der Stadt Gronau 2023 bis 2026 - Teil II
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 789/2022 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-03-20
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdrVL_3K37JX4PcLU9vPfZg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/16763
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bedarfsplanung Schulsozialarbeit an allen Schulstandorten in der Stadt Gronau 2023 bis 2026 - Teil II) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRQztoQIrN-_d8hHbHayPFMvaFiBhvMyccVj-IC_DoOB/Beschlussvorlage_789-2022_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Vorlage Bedarfsplanung Schulsozialarbeit 789-2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYT-lqbfxOwHjAMB3CHaZU1u1biBEafKvnNU_dHCSbwj/Vorlage_Bedarfsplanung_Schulsozialarbeit_789-2022.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 9 - Auszug JHA - Schulsozialarbeit) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTYfOs9HY6N8ofuGfv2c8APg35fPxmEmYVqJstn9Rx-v/Anlage_TOP_9_-_Auszug_JHA_-_Schulsozialarbeit.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 9.789_2022 JHA mit Diskusssion) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWuD4gc6otULAqrasNGjQP510r4QAE2uZ5QMGluzYAKE/Auszug_TOP_9.789_2022_JHA_mit_Diskusssion.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 9. 789_2022 Rat 15.02.2023 (A47912-2)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaq5T8m_u70uXwUIdhDM4dPwOnHK-1B8SgWLD6Lx0_5g/Auszug_TOP_9._789_2022_Rat_15.02.2023_-A47912-2-.pdf
+- Anlage: Beschlussvorlage (Anlage Vorlage 789 2022 1 Erg) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWvZOS4oWUCU6irhpvsCWANreMo3xjm0iQKGKqp6DO5z/Anlage_Vorlage_789_2022_1_Erg.pdf
+- Anlage: Beschlussvorlage (Auszug Rat v. 21.02.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcCevWoU1T-VF7lKdigO_cBqkytz_u1e_2xPFfSe1f1o/Auszug_Rat_v._21.02.2024.pdf
+- Anlage: Beschlussvorlage (TOP 10 - Auszug HFA) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbufuaXJKmQ8UNJrC0pMTrTEo5yOdq9X3KM0eYfMk5qk/TOP_10_-_Auszug_HFA.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6002 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5952 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5999 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6007 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-82
