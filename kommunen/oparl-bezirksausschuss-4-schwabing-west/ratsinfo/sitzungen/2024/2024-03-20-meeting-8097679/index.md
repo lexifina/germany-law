@@ -1,0 +1,115 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8097679
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8097679
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 2.2.: Ausschreibung „Ran an die Stadtteil-Koffer“ für den Einsatz in einem Stadtteil 2025
+- TOP 2.3.: (E) Stadtbezirksbudget Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V. Erzieherin für die ELKI Spielgruppe vom 01.04.2024 - 31.03.2025 3.600,00 Euro, Az.: 0262.0-4-0497
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Anpassung der Ausgleichszahlungen EKI-Plus für Münchner Eltern-Kind-Initiativen (Antwort des Referats für Bildung und Sport auf BA-Schreiben, TOP B 2.2 10/23)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise und Sachberichte) a) kontrapunkt gGmbH: die h.alle – Repaircafé und Atelier b) Ackermannbogen e.V.: ÄlwA-Wohncafé c) Johanniter-Unfall-Hilfe e.V.: Spielprogramm „Umsonst & Draußen“ 2023
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Erstanträge KW 08 sowie Tekturen KW 08, 09 und 10
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Radfahren gegen Einbahnrichtung in der Winzererstraße am Obelisken
+- TOP 1.2.: Bürger: Ladezone vor Schreibwarengeschäft/DHL-Partnerfiliale Belgradstr. 64
+- TOP 1.3.: Bürger: Tempo 30 in der Nordendstraße
+- TOP 1.4.: Bürgerin: Geänderte Abfahrtszeiten Buslinie 144 – Zusatzbus vor Schulbeginn
+- TOP 1.5.: Bürger: Zusätzliche Frage zu Radabstellplätzen Ainmillerstraße (vgl. TOP D 1.4 02/24)
+- TOP 1.6.: Bürger: Fahrradabstellanlagen a) an der Kreuzung Habsburger-/Hohenstaufenstraße (West- und Ostseite) b) vor Tengstr. 31
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Fahrradabstellplatz vor Agnesstr. 58: AWM bittet um Teilentfernung
+- TOP 2.2.: Dialog-Displays: Einverständnis mit Standort Clemensstraße und Kostenübernahme?
+- TOP 2.3.: Konzept für geteilte Mobilität im Stadtbezirk 4
+- TOP 2.4.: (E) + (U) Halteverbote vor Außengastronomie
+- TOP 2.5.: MVG-Leistungsprogramm 2025
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Schaffung von Fahrradabstellmöglichkeiten in der Hohenzollernstr. 48 und 78 (Antwort des Baureferats Tiefbau auf weitergeleitete Bürger*innenanliegen, TOP D 1.2 06/22 bzw. D 1.1 11/23)
+- TOP 3.1.2.: Verkehrssituation am Scheidplatz während der Gleisbauarbeiten (Antwort der Polizeiinspektion 13 auf Anfrage des Seniorenvertreters, TOP A 3 02/24)
+- TOP 3.1.3.: Stadtplatz Ackermannbogen: Durchfahrtsverbot durchsetzen (Antwort der Polizeiinspektion 43 auf BA-Schreiben, TOP D 1.7 02/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Alkoholisierte Gruppen am Hohenzollernplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Keuslinstr. 13: Antrag auf Fällung einer Birke
+- TOP 2.1.2.: Brunnerstr. 39 (Innenhof): Antrag auf Fällung eines Bergahorns
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative "Baumscheibe" Umwandlung einer Baumscheibe in der Georgenstraße Ecke Hiltenspergerstraße in ein Staudenbeet vom 12.04. - 15.06.2024 830,00 Euro, Az.: 0262.0-4-0498
+- TOP 2.2.2.: (E) Stadtbezirksbudget Initiative "Insektenhotels" Insektenhotels für die Georgenstraße vom 15.04. - 15.06.2024 579,40 Euro, Az. 0262.0-4-0499
+- TOP 2.2.3.: (E) Stadtbezirksbudget Initiative "Grünpaten-Leihwerkzeuge" Grünpatenwerkzeuge vom 12.04. - 15.06.2024 219,36 Euro, Az.: 0262.0-4-0500
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Ergänzung der Beleuchtung und Lichtinstallation im Petuelpark (Antwort des Baureferats auf BA-Anfrage zum Sachstand, TOP E 1.1 11/23)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Suchkreismitteilung zu Mobilfunksendeanlagen: Versorgungsziele Neureutherstraße, Herzogstraße, Winzererstraße, Hiltenspergerstraße und Nordbad
+- TOP 3.4.2.: Ausnahmegenehmigung für nächtliche Arbeiten an der Trambahn-Fahrleitung am 03./04.03.2024 in der Belgradstr. 75
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Chorgemeinschaft Ackermannbogen Aufführung "Stabat Mater" am 17.03.2024 1.035,00 Euro, Az.: 0262.0-4-0501
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: „Wings for Life“-Lauf am 05.05.2024
+- TOP 2.3.2.: „Kinder laufen für Kinder“ am 10.05.2024 im Luitpoldpark
+- TOP 2.3.3.: Blade Night 2024 (Strecke Nord an mehreren Terminen ab 10.06.2024)
+- TOP 2.3.4.: „Green Dinner“ am 13.07.2024 auf dem Hohenzollernplatz
+- TOP 2.3.5.: Fahrradsicherheitscheck am 13.06.2024 in der Grünanlage Bayernplatz
+- TOP 2.3.6.: Temporäre Kunstaktion „TetrapAct-on-foodwaste“ vom 17.06. bis 08.08.2024 auf dem Hohenzollernplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise, Sachberichte) a) „Triptychtrip“: Kunstkiosk im U-Bahnhof Petuelring b) Tanztendenz München e.V.: STANDPUNKTe – welcome to my world 2023 c) Signal e.V.: Platzverweis – ein Punkmusical
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Drehgenehmigung für einen Werbefilm am 18.03.2024 in der Grünanlage Scheidplatz 1 a
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.6.1.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Anhörung zum Entwurf des Stadtentwicklungsplans STEP2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess - Weiteres Vorgehen, Ressourcenbedarfe
+- TOP G.2.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP H: Termine
