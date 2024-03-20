@@ -1,0 +1,124 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2024-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7913578
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7913578
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürger*innen haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Geplante Fußgängerzone Weißenburger Platz- Pariser Platz: Einrichtung von 3 (Kurzzeit)Parkplätzen für Menschen mit Gehbehinderung
+- TOP 5.2.: Geplante Fußgängerzone Weißenburger Platz- Pariser Platz: Entwicklung eines Mikromobilitätskonzepts
+- TOP 5.3.: Tunnel für Radverkehr endlich freigeben
+- TOP 5.4.: Der Bezirksausschuss 5 Au-Haidhausen beschließt einen Pflegestützpunkt für den Stadtteil Au- Haidhausen
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 6.2: Unterrichtungen
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des/der Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Förderverein Katholische Stiftungshochschule (KSH) München e.V. „Ausstellungswände für das Foyer der KSH“ 5.432,74 Euro; Az. 0262.0-5-0537
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „Isarbaumköpfe“ Temporäres Kunstwerk „Isarbaumköpfe“ 2.500,00 Euro; Az. 0262.0-5-0538
+- TOP II.3.: Pilotbezirke Street Art und Graffiti, Flächenpool; Anhörung Kulturreferat
+- TOP II.4.: Ehemaliges Musikhaus in der Buchbacher Straße - Suche nach neuen Räumlichkeiten in Au-Haidhausen; Bürgeranliegen
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Skateboard Mobil und KURSE High Five an der Postwiese an verschiedenen Terminen im Zeitraum vom 08.04. - 24.10.2024
+- TOP 2.2.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ganztagsbetreuung Grundschulkinder mit Bibliothek für die Untere Au
+- TOP 3.2.: Informationen zur neuen freiwilligen Förderung der Kindertageseinrichtungen in München (Defizitausgleichsystem)
+- TOP 3.3.: Rundschreiben 2024 MobilSpiel e.V.
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Probleme Kinderbetreuung obere Au - Vorhaben Gründung Eltern-Kind-Initiative
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative "Parklet und Stadtterrasse" Parklet und Stadtterrasse am Breisässer Platz vom 20.03. - 31.11.2024 4.660,00 Euro / Az. 0262.0-5-0533 vertagt in der Sitzung am 28.02.2024
+- TOP 1.2.: (E) Stadtbezirksbudget Erfindergarten Foundation gUG / Münchner Werkzeugbibliothek „Werkzeugbibliothek Lastenfahrrad“ 5.000,00 Euro; Az. 0262.0-5-0534
+- TOP 1.3.: Genehmigung von Freischankflächen a) "Korean Soul Kitchen", Einsteinstr. 121 b) "Subowl", Lucile-Grahn-Str. 25 c) "Grazia", Rosenheimer Str. 4 d) "Paris 36", Pariser Str. 36 N - e) MeetGreek Coffee, Wörthstr. 30
+- TOP 2.: Anhörungen
+- TOP 2.1.: Bladenight 2024 ab 06.05.2024
+- TOP 2.2.: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 04.05.2024 sowie 21.09.2024
+- TOP 2.3.: Betriebszeitänderung von bisher 22.00 Uhr auf gesetzliche Sperrzeit, Gaststätte "Xiang Ju", Metzstr. 8
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Antrag auf Erweiterung der Freischankfläche des Kaffeehaus Rosi, Rosenheimer Str. 2 vertagt in der Sitzung am 28.02.2024
+- TOP 4.2.: Public Viewing während der EM vor dem "La Sophia", Kolumbusstr. 1
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative „Mieter*innenstammtisch“ „#22. Münchner Mieter*innen Stammtisch“ 200,00 Euro; Az. 0262.0-5-0536
+- TOP 2.: Anhörungen
+- TOP 2.1.: PERSPEKTIVE MÜNCHEN; Entwurf des Stadtentwicklungsplans STEP2040 „München – Stadt im Gleichgewicht“
+- TOP 2.2.: Ohlmüllerstr. 32 - ÄNDERUNGSANTRAG zu 1.1-2023-24427-21 - Nutzungsänderung der Schalterzentrale in Gaststätte mit Bäckereiverkauf (NE1) und in SB-Terminal Bank (NE2)Ohlmüllerstr. 3 -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 3.2.: Schandfleck Brachfläche Falkenstraße 21 – Wann beginnt der Bau? Sind Kriterien für ein Zweckentfremdungsverfahren erfüllt? Bodenspekulation unterbinden! (Anfrage)
+- TOP 4.: Anliegen von Bürger*innen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Konzept für geteilte Mobilität im Stadtbezirk 5
+- TOP 2.2.: MVG-Leistungsprogramm 2025: Anhörung der Bezirksausschüsse
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Anschlussbereich östlich der äußeren Ludwigsbrücke - Zufahrt von der Rosenheimer Straße zur Zellstraße im 5. Stadtbezirk Au - Haidhausen 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 3.2.: Lieferzonen in der Rosenheimer Straße sichtbarer markieren
+- TOP 3.3.: Verkehrswende konkret: Klenzesteg schnellstmöglich realisieren
+- TOP 3.4.: (E) + (U) Eduard-Schmid-Straße zur Fahrradstraße umwidmen Empfehlung Nr. 20-26 / E 00116 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 08.07.2021 - endgültige Entscheidung durch den Oberbürgermeister -
+- TOP 3.5.: Verkehrsrechtliche Anordnungen a) Entenbachstraße, Parklizenzgebiet „Südliche Au“; Anordnung „Kurzzeit-/Bewohnerparken“ b) Zeppelinstraße 43 und 45 Seite Eduard-Schmid-Straße; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 3.6.: Ausnahmegenehmigung für Arbeiten im Straßenraum wegen Arbeiten am Fernwärmenetz der SWM; Vollsperre in der Belfortstr. 12-14 vom 25.03.-24.05.2024
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Parkplatzsituation in der Versailler Straße
+- TOP 4.2.: Fremdes Parken auf den Carsharing Parkplätzen Kolumbusstr. 32
+- TOP 4.3.: Rad-Stellplätze am Motorama
+- TOP 4.4.: Blockieren des taktilen Leitsystems durch Roller an der Ecke Einsteinstraße/Kuglerstraße
+- TOP 4.5.: Aussetzung des Provisorium Weißenburger Straße und Erarbeitung und Vorstellung eines gestalterischen Vorentwurfs für die Fußgängerzone Weißenburger Straße
+- TOP 4.6.: Echte Bürgerbeteiligung durch einen Bürgerworkshop mit Erarbeitung einer Mobilitätslösung für das ganze Viertel im Umgriff der Weißenburger Straße
+- TOP 4.7.: Gesamtkonzept Mobilität Haidhausen / Umgriff Weißenburger Straße
+- TOP 4.8.: Keine Belieferung der Fußgängerzone Weißenburger Straße bei Nacht, um die Ruhezeiten der Anwohner einzuhalten
+- TOP 4.10.: Umwidmung von KfZ-Stellplätzen in Fahrradstellplätze in der Ackerstraße vertagt in der Sitzung am 28.02.2024 (Prüfung verkehrsberuhigter Bereich)
+- TOP 4.11.: Verhinderung des Parkens vor dem "La Sophia", Kolumbusstr. 1
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar „Natürlich Isar“ Sachstandsbericht und weiteres Vorgehen
+- TOP 3.2.: Blühstreifen für Au-Haidhausen hier: Antwort Baureferat zur Nachfrage BA
+- TOP 3.3.: Ausnahmegenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram; Nächtliche Arbeiten an der Unterführung Haidenauplatz vom 18.03.-19.03.2024
+- TOP 3.4.: Flussrunde - Aktualisierung Protokoll zum Auftakttermin 24.1. und Zusammenfassung Rückmeldungen
+- TOP 3.5.: Suchkreismitteilung zu Mobilfunkanlagen: Versorgungsziel Prinregentenstraße und Boosstraße
+- TOP 3.6.: Stellungnahme Einsatz für Tiere e.V. zu den von verschiedenen Referaten aufgeführten Argumenten gegen einen Taubenschlag im FOS/BOS Gebäude an der Orleansstraße - Kein Aufruf in der Sitzung am 28.02.2024, Erarbeitung eines fraktionsübergreifenden Beschlusses -
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Petition zum Thema Artenschutz: Klarere Definition des Einsatzes von Laubbläsern in Stadtwäldern sowie in Grün- und Parkanlagen, insbesondere in der Grünanlage Flurstraße und der städtischen Kindertagesstätte in der Flurstraße 8
+- TOP 4.2.: Begrünung Wörthstraße
+- TOP 4.3.: Grünstreifen in der AU wird regelmässig als Parkfläche missbraucht - Baumschutz
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 08.04.2024 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 08.04.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, Termin steht noch nicht fest, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 10.04.2024 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 10.04.2024 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 11.04.2024 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 17.04.2024, 19.00 Uhr, Katholische Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Donnerstag, 28.03.2024, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Bürgerversammlung Au, 09.04.2024, 19 Uhr, Pestalozzigymnasium, Eingang Zeppelinstraße Bürgerversammlung Haidhausen, 23.04.2024, 19 Uhr, Hofbräukeller, Innere Wiener Str. 19
+- TOP 5.: Verschiedenes
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - A-Teil, TOP 5.5: Angekündigte Schließung von Kinderheim, Kita und Hort im St. Josefs-Heim - UA Soziales, TOP 5.1: Ergebnis Ortsbegehung Toilettenanlage Tassiloplatz 13.03.24, 9.30 Uhr - UA Wirtschaft, TOP 1.3e: Freischankfläche MeetGreek Coffee, Wörthstr. 30 - UA Wirtschaft, TOP 2.4: Streckenänderung München Marathon am 13.10.2024 - UA Wirtschaft, TOP 4.3: Doppel-Parklet in der Weißenburger Straße 31
+- TOP 5.5.: N - Angekündigte Schließung von Kinderheim, Kita und Hort im St. Josefs-Heim
+- TOP 5.1.: N - Ergebnis Ortsbegehung Toilettenanlage Tassiloplatz 13.03.24, 9.30 Uhr
+- TOP 2.4.: N - Vorab-Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; in städtischen Grünanlagen und auf Privatgrund, Hier: Streckenänderung München Marathon am 13.10.2024 Frist: 04.04.2024
+- TOP 4.3.: N - Doppel-Parklet in der Weißenburger Straße 31
+- TOP 5.: Verschiedenes
+- TOP 4.9.: Bordeauxplatz ungerade Seite zwischen Metzstraße und Breisacher Straße: Verlegung des Radwegs auf die Straße Verweisung in den UA in der Sitzung am 28.02.2024 (ohne Unterlagen) N - dazu: Antrag Radweg am Bordeauxplatz
+- TOP 4.4.: Tassiloplatz zusätzliche Bäume und Umgestaltung bzw. Neubau
