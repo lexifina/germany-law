@@ -1,0 +1,58 @@
+# Rat (37. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-03-20T18:00:00+01:00
+- Ende: 2024-03-20T22:00:00+01:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZc_2E_KDItJVbwpxWi0rh2M
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6007
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX0jdJ9O5f5Xmop81Uyn5DE5lwfYTQfwtGg14cUQcxjh/Bekanntmachung_Rat_20.03.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe0rox-62ssiHqBAiyzvhpt7VssRLCL9XGHxNrdf4tw-/Oeffentliche_Niederschrift_Rat_20.03.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 21.02.2024
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Wahl einer/eines Ersten Beigeordneten - 22 Jastimmen, 19 Neinstimmen, 2 Enthaltungen
+- TOP 4.1: Wahl einer/eines Ersten Beigeordneten
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 27.02.2024; "Sofortiger Start der Ertüchtigung unseres Rathauses, Konrad-Adenauer-Str. 1" - 42 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 5.2: Gemeinsamer Antrag der Fraktionen Bündnis 90/Die Grünen, GAL/Die Linke, pro:Bürgerschaft, SPD, UWG und WEG vom 08.03.2024; "Wahl einer/eines Ersten Beigeordneten"
+- TOP 5.3: Antrag der UWG-Fraktion vom 10.03.2024; "20 Jahre Jubiläum rock‘n‘popmuseum Gronau" - 29 Jastimmen, 14 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Vorprüfung der Zulässigkeit des kassatorischen Bürgerbegehrens "Stimme für den Bürger" gegen die 1. Änderungssatzung vom 22.06.2023 zur Satzung über die Abfallentsorgung in der Stadt Gronau (Westf.) vom 14.05.2021 (nachfolgend: Abfallentsorgungssatzung) sowie gegen die 2. Änderungssatzung vom 24.10.2023 zur Abfallentsorgungssatzung gem. § 26 Abs. 2 S. 7 Gemeindeordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 7.: 1. Änderungssatzung zur Satzung für die Durchführung von Bürgerentscheiden in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 8.: Zukunft der Chance gGmbH und der GfA mbH - 16 Jastimmen, 22 Neinstimmen, 2 Enthaltungen
+- TOP 9.: Zukunft der GfA mbH - 38 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 10.: Bedarfsplanung Schulsozialarbeit an allen Schulstandorten in der Stadt Gronau 2023 bis 2026 - Teil II - Einstimmig, 1 Enthaltungen
+- TOP 11.: Einrichtung eines Klimaschutz- und Umweltfonds der Stadt Gronau zur Förderung privater Maßnahmen zur Einsparung und nachhaltigen Erzeugung von Energie und für nachhaltigen Klima- und Umweltschutz
+- TOP 11.1: Einrichtung eines Klimaschutz- und Umweltfonds der Stadt Gronau zur Förderung privater Maßnahmen zur Einsparung und nachhaltigen Erzeugung von Energie und für nachhaltigen Klima- und Umweltschutz - Einstimmig, 2 Enthaltungen
+- TOP 12.: Haushaltskonsolidierung
+- TOP 12.1: Haushaltskonsolidierung - Einstimmig, 1 Enthaltungen
+- TOP 13.: Neubau Kita Dinkelnest hier: Raumprogramm - 28 Jastimmen, 13 Neinstimmen, 0 Enthaltungen
+- TOP 14.: 114. Änderung des Flächennutzungsplans für den Bereich "Westlich der Franz-Kerkhoff-Straße" Vorhabenbezogener Bebauungsplan "Errichtung eines Wohn- und Geschäftshauses für das Modehaus Bruno Kleine", Stadtteil Gronau Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Vorhabenbezogener Bebauungsplan "Wohnanlage Laurenzstraße/Gildehauser Damm", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB (Offenlage) Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB (Offenlage) Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Satzungsbeschluss - 30 Jastimmen, 4 Neinstimmen, 5 Enthaltungen
+- TOP 16.: Wirtschaftsweg Am Glanerfeld (zwischen Schwarzenbergstraße und Glanemanns Weg) - Einstimmig, 1 Enthaltungen
+- TOP 17.: Nebentätigkeiten des Bürgermeisters für das Jahr 2023
+- TOP 18.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreter/innen in Organe, Beiräte juristischer Personen und Personenvereinigungen - Einstimmig, 0 Enthaltungen
+- TOP 19.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Besichtigungstermine Morgensternsiedlung und Pfarrer-Reukes-Straße
+- TOP 20.2: Redaktionelle Korrektur eines Protokolls
+- TOP 21.: Anfragen
+- TOP 21.1: Kontaktperson für Glasfaseranschlüsse (Anfrage von RM Bieber)
+- TOP 21.2: Gegenstände im Baum (Anfrage von RM Dzietko)
+- TOP 21.3: Ausschreibung OGS (Anfrage von RM Speer)
+- TOP 21.4: Denkmal Morgensternsiedlung (Anfrage von RM Buchholz)
+- TOP 21.5: Beschilderung am Jüdischen Friedhof (Anfrage von RM Buchholz)
+- TOP 21.6: Wasserschaden Euregio-Gesamtschule (Anfrage von RM Doetkotte)
+- TOP 21.7: Bauarbeiten Driland & Waterpark (Anfrage von RM Doetkotte)
+- TOP 21.8: Schlaglöcher Moltkestraße (Anfrage von RM Gabbe)
+- TOP 21.9: Räumung Hofbräugarten (Anfrage von RM Schabbing)
+- TOP 21.10: Drohnenaufnahmen im Bereich Buterland, Dornhagen, Amelandsweg (Anfrage von RM Krefter)
+- TOP 21.11: Brandschutzmaßnahmen WZG (Anfrage von RM Bügener)
+- TOP 21.12: Maßnahmen Kurt-Schumacher-Platz (Anfrage von RM Dr. Kuhlmann-Eckel)
