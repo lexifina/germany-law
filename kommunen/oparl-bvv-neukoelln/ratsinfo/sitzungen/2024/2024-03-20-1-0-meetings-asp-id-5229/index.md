@@ -1,0 +1,105 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-03-20T17:00:00+01:00
+- Ende: 2024-03-20T22:30:00+01:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5229
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5229
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Tankstelle an der Ecke Sonnenallee und Hobrechtstr. - schriftlich beantwortet
+- TOP 1.2: Broschüre Mythos 1948 - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 1244 - Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: 1261 - Wahl einer Bürgerdeputierten in den Gesundheitsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.3: 1263 - Einstellung B-Plan-Verfahren ehem. Bahnhof Rudow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.4: 1262 - Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 4.1: Bibliotheken an Neuköllner Schulen - überwiesen
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Ramadan bedeutet Frieden! Neukölln fordert das Ende des Kriegs in Gaza! Für sofortige Waffenruhe und Stopp der Waffenlieferungen - in der BVV abgelehnt
+- TOP 5.2: Verurteilung der Störaktionen während der BVV-Sitzung vom 21. Februar 2024 - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.4: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.5: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Ordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bezirkliche Kitaentwicklungsplanung (Jahresplanung 2023) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Anmeldung städtebaulicher Maßnahmen für das Förderprogramm Lebendige Zentren und Quartiere (Karl-Marx-Straße / Sonnenallee und Schillerpromenade) für das Programmjahr 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Priorisierung und Anmeldung von Bauprojekten in Quartiersmanagement-Gebieten für eine Förderung aus dem Programm Sozialer Zusammenhalt für das Programmjahr 2025 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Wahl - (offen)
+- TOP 8.1: Wahl von stellvertretenden Bürgerdeputierten in den Ausschuss für Partizipation und Integration - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Bürgerdeputierten in den Ausschuss für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik - gewählt
+- TOP 8.3: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 8.4: Wahl einer Beisitzerin in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 8.5: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 8.6: Wahl einer Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Parkraumbewirtschaftung 100 Mittelstreifen Sonnenallee schon wieder Aufgegeben? - beantwortet
+- TOP 9.2: Neukölln wählt Europa - beantwortet
+- TOP 9.3: Zusätzliche gesamtstädtische Mittel im Rahmen des Jugendfördergesetzes - beantwortet
+- TOP 9.4: Geschichtsverfälschung mit Hilfe des Bezirksamts durch das Projekt Mythos#Israel 1948? - beantwortet
+- TOP 9.5: Barrierefreiheit in Neuköllner Schulen - beantwortet
+- TOP 9.6: Ausschreibung Wachschutz an Schulen - beantwortet
+- TOP 9.7: Unbegleitete Minderjährige in Neuköllner Unterkünften - beantwortet
+- TOP 9.8: Welche Träger, Vereine, Initiativen sollen zukünftig die Container auf dem Boddinplatz nutzen? - beantwortet
+- TOP 9.9: Amtsermittlungsverfahren wegen spekulativen Leerstands im Wohnpark St. Marien - beantwortet
+- TOP 9.10: C&A Gebäude - schriftlich beantwortet
+- TOP 9.11: Weitere Sabotage der Verkehrswende durch CDU-Senatsverwaltung? - schriftlich beantwortet
+- TOP 9.12: Neukölln braucht die Maientage - schriftlich beantwortet
+- TOP 9.13: Umgang mit dem sogenannten Herero-Stein - schriftlich beantwortet
+- TOP 9.14: Fehlende Hausmeister*innen an Neuköllner Schulen - schriftlich beantwortet
+- TOP 9.15: Belegung der PMA - schriftlich beantwortet
+- TOP 9.16: Sollen Räume für selbstorganisiertes Engagement abgeschafft werden? - schriftlich beantwortet
+- TOP 10: Mitteilungen - (offen)
+- TOP 10.1: Das Umfeld der Theodor-Storm-Grundschule soll ein Schwerpunktgebiet für Kontrollen des Ordnungsamtes werden! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Hinweisschilder für das Stadtteilzentrum Buckow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 11.1: Querungshilfe Stubenrauchstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: Hitzeschutz auf Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Neue Bezirkszentralbibliothek im C&A-Gebäude? - beantwortet
+- TOP 12.2: Offene Stellen Abteilung Sozialwesen - beantwortet
+- TOP 12.3: Verkehrsordnungswidrigkeiten in Neukölln - beantwortet
+- TOP 12.4: Wie will das Bezirksamt das Recht von Kindern auf frühkindliche Sprachförderung sicherstellen? - beantwortet
+- TOP 13: Beschlussempfehlungen - (offen)
+- TOP 13.1: Safe Places in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Hinter jeder Zahl steckt ein Mensch - Gesundheit in Neukölln weiterdenken - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Wahl von Bürgerdeputierten in den Partizipations- und Integrationsausschuss - in der BVV abgelehnt
+- TOP 13.4: Aufhebung der Baustellenabsperrung vor der Seniorenwohnanlage Rollbergstraße 22 - in der BVV abgelehnt
+- TOP 13.5: Sportflächen auf dem Tempelhofer Feld erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Räume für selbstorganisiertes Engagement im Bezirk erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Hygienemängel bei Vivantes ahnden: Kontrollen ohne Ankündigung im Speisenverteilzentrum V2 in Neukölln - in der BVV abgelehnt
+- TOP 13.8: Zumutbarer Schulweg zur Theodor-Storm-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Durchblick für die Senioren in der Freizeitstätte Bruno Taut - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Ausweichcontainer Blueberry auf dem Boddinspielplatz dauerhaft für Kinder, Jugend und Familienarbeit sowie Stadtteilarbeit erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Obdachlosenhilfe in Neukölln - beantwortet
+- TOP 14.2: Zaun um den Görli - Auswirkung für Neukölln? - vertagt
+- TOP 14.3: Musikschule Neukölln in der Krise? - vertagt
+- TOP 14.4: Unterbringung von Flüchtlingen im Bezirk Neukölln - vertagt
+- TOP 14.5: Familienzentrum Shehrazad - vertagt
+- TOP 14.6: Haushaltschaos im Land - Folgen für Neukölln? - vertagt
+- TOP 14.7: Einhaltung von Reinigungsverträgen - vertagt
+- TOP 15: Große Anfragen - schriftlich - erledigt
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Zugang zu Häusern im Löwensteinring besser ausleuchten - überwiesen
+- TOP 16.2: Sicherheit am Europaspielplatz - überwiesen
+- TOP 16.3: Gemeinsam gegen Sexismus im Bezirk! - überwiesen
+- TOP 16.4: Angebote für Kinder und Jugendliche mit palästinensischem Hintergrund schaffen - überwiesen
+- TOP 16.5: Die Fußball-Europameisterschaft 2024 mit und für Neukölln zum Erfolg machen - überwiesen
+- TOP 16.6: Kleingärten statt Neuköllner Sumpflandschaft - überwiesen
+- TOP 16.7: Prävention von Wohnungsverlust durch Kooperation mit Wohnungsbaugesellschaften - überwiesen
+- TOP 16.8: Baudenkmal Walter-Gropius-Schule - überwiesen
+- TOP 16.9: Toilettennutzung auf städtischen Friedhöfen - überwiesen
+- TOP 16.10: Einstellung B-Plan-Verfahren ehem. Bahnhof Rudow - ohne Änderungen in der BVV beschlossen
