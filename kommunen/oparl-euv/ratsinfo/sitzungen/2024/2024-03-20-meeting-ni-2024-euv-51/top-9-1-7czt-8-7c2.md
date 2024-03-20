@@ -1,0 +1,6 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Verwaltungsrates EUV (2024-03-20)
+- Körperschaft: EUV
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-EUV-51%7Czt_8%7C2
