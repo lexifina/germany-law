@@ -1,0 +1,121 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923398
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923398
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellung der Rahmenplanung Siedlungsschwerpunkt Freiham, Freiham Nord 2. Realisierungsabschnitt durch Vertreter*innen des Planungsreferates
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Deutschkursangebot in Neuaubing/Freiham
+- TOP 2.1.2.: Deutliche Fußgängergefährdung
+- TOP 2.1.3.: Anmerkung zur Hochhausstudie
+- TOP 2.1.4.: Dialogdisplays anfordern
+- TOP 2.1.5.: Behinderungen durch parkende Autos in und aus der Streitbergstraße
+- TOP 2.1.6.: Extreme Vermüllung Wiese Richtung Birkensee
+- TOP 2.1.7.: Errichtung von Parkplätzen in der Bodenseestraße
+- TOP 2.1.8.: Ampelanlage Kreuzung Lochhausener Str. / Am Langwieder Bach
+- TOP 2.1.9.: Antrag für mehr Sicherheit unserer Kinder
+- TOP 2.1.10.: Parksituation auf der Seldeneckstraße
+- TOP 2.1.11.: (N)- Parkplatzsituation Ranertstraße
+- TOP 2.1.12.: (N) - Auswirkungen der geplanten Busbetriebshöfe/ Busabstellanlagen
+- TOP 2.1.13.: (N) - Schranke am Hörweg
+- TOP 2.1.14.: (N) - Reste/Müll von Silvesterböllern am Hörweg
+- TOP 2.1.15.: (N) - Einbindung des Neubaugebiets Osterangerstr. in die Buslinie 159
+- TOP 2.1.16.: (N) - Straßenplanung Freiham / Stellplatzsituation mit Gehbehinderung
+- TOP 2.1.17.: (N) - Tempo 30 in der Marianne-Hoppe-Straße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Kunreuthstr. 61 - Kunreuthstr. 32 - Kunreuthstr. 4 - Streitbergstr. 18 (N) - Bergsonstr. 142 (N) - Industriestr. 75 (N) - Ehrenbürgstr. 2 c (N) - Kastelburgstr. 22 (N) - Huttererstr. 16
+- TOP 3.1.2.: Baumfällungsbescheide: - Reichenaustr. 24-28, Schr. Planungsreferat vom 27.02.24 - Am Loferfeld 19, Schr. Planungsreferat vom 27.02.24 - Kohlmeisenstr. 31a, Schr. Planungsreferat vom 21.02.24 (N) - Lichtenfelser Str. 15, Schr. Planungsreferat vom 05.03.24
+- TOP 4.: Anträge
+- TOP 4.1.: Nachfrage nach zusätzlichen Stellen für Streetwork in Freiham (Interfraktioneller Antrag)
+- TOP 4.2.: Für Geburtsbäume - für jedes neugeborene Kind wird ein Baum im Stadtbezirk gepflanzt (Arning)
+- TOP 4.3.: Störungen im S-Bahnbetrieb - Ausfall der S-Bahnlinie 20 (Brenner)
+- TOP 4.4.: Fehlende Verkehrszeichen (Bündnis 90/Die Grünen Fraktion)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget wohlBEDACHT e.V. Ausstattung der Räumlichkeiten der Nachtpflege München-Allach vom 12.02. - 30.04.2024 2.700,00 Euro, Az.: 0262.0-22-0247
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung, hier: Skatekurse und Mobil in städt. Grünanlagen/Skateparks (Gleisdreieck, Wiesentfelser Straße und Freiham), Anhörung KVR vom 22.02.24
+- TOP 6.1.1.2.: BSL: Erläuterungsschilder Moritz-Bloch-Weg, Anhörung Kommunalreferat vom 05.03.24
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Stadtratsantrag Nr. 20-26 A03623; Pilotbezirke Street Art und Graffiti, Flächenpool, Schr Kulturreferat vom 14.02.24 (vertagt aus 02/24)
+- TOP 6.1.2.2.: Sachstand - Barrierefreies Baden am Lußsee ermöglichen, Schr. Baureferat vom 22.02.24
+- TOP 6.1.2.3.: Mehr öffentlich zugängliche Toiletten am Sportcampus Freiham, Schr. Ref. f. Bildung u. Sport vom 15.02.24
+- TOP 6.1.2.4.: (N) - Sportinfrastruktur im Stadtbezirk 22, Schr. Ref. f. Bildung u. Sport vom 09.02.24
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien, Anhörung Ref. f. Bildung u. Sport vom 04.03.24
+- TOP 6.2.1.2.: (N) - Ran an die Stadtteil-Koffer 2025, Bewerbung, Anhörung Sozialreferat vom 05.03.24
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: AKIM im 22. Stadtbezirk, Schr. AKIM vom 26.02.24
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: MVG-Leistungsprogramm 2025, Anhörung MVG vom 04.03.24
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Grüne Dächer - Bushaltestellen sollen gepflanzt werden, Schr. MVG vom 22.02.24
+- TOP 6.3.2.2.: Bushaltestellendächer begrünen - Ausstattung mit elektronischen Anzeigern
+- TOP 6.3.2.3.: Unterführung in der Bodenseestraße Höhe Campus, Schr. Baureferat vom 29.02.24
+- TOP 6.3.2.4.: Vekehrsrechtliche Anordnungen, hier: - Freihamer Allee, südlich Bodenseestraße; Änderung der Beschilderung nach Widmungsänderung, Schr. Mobilitätsreferat vom 28.02.24
+- TOP 6.3.2.5.: Tempo 30 in der Altostraße, Schr. Mobilitätsreferat vom 22.02.24
+- TOP 6.3.2.6.: Sanierung Lochhausener Straße / A99, Schr. Baureferat vom 26.02.24
+- TOP 6.3.2.7.: Unfälle und Verkehrssituation Am Langwieder Bach, Schr. Mobilitätsreferat vom 19.02.24
+- TOP 6.3.2.8.: Verkehrskonzept 22: Parkraummanagement Freiham, Schr. Mobilitätsreferat vom 01.03.24
+- TOP 6.3.2.9.: (N) - Was passiert im 22. Bezirk für Fußgänger, Radfahrer und S-Bahn-Nutzer bis 2028?, Schr. Mobilitätsreferat vom 04.03.24 und 12.03.24
+- TOP 6.3.2.10.: (N) - Ladesäulen in der Ilse-Fehling-Straße, Schr. Mobilitätsreferat vom 06.03.24
+- TOP 6.3.2.11.: (N) - Bescheid: Arbeiten im Straßenraum, Helmut-Schmidt-Allee 31 und Amelie-Nacken-Str. 7-10, Verlegung von Kanal und Fernwärme v. 18.03.-31.05.24, Schr. Mobilitätsreferat vom 05.03.24
+- TOP 6.3.2.12.: (N) - Bescheid: Arbeitsstelle im Straßenraum, Hellensteinstr. 30-34 vom 25.03.-31.03.24, Schr. Mobilitätsreferat vom 11.03.24
+- TOP 6.3.2.13.: (N) - Bescheid: Arbeitsstelle im Straßenraum, Änderung/Ergänzung, Henschelstr. 8 und ggü. vom 11.03.-30.04.24, Schr. Mobilitätsreferat vom 11.03.24
+- TOP 6.3.2.14.: (N) - Bescheid: Arbeiten im Straßenraum, Waidachanger 1-13 vom 25.03.-28.06.24, Erneuerung der Versorgungsleitung), Schr. Mobilitätsreferat vom 08.03.24
+- TOP 6.3.2.15.: (N) - Wiederinbetriebnahme der Schranke am Hörweg, Schr. Baureferat vom 15.03.24
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Siedlungsschwerpunkt Freiham, Freiham-Nord - Rahmenplanung 2. Realisierungsabschnitt, Anhörung Planungsreferat vom 29.01.24 (vertagt aus 02/24)
+- TOP 6.4.1.2.: Perspektive München - Entwurf des Stadtentwicklungsplans STEP 2040 "München - Stadt im Gleichgewicht", Anhörung Planungsreferat vom 26.02.24
+- TOP 6.4.1.3.: Antrag auf Sondernutzung städt. öffentlicher Grünanlage, hier: Solarkiosk am Quartiersplatz Wiesentfelser Str., Anhörung KVR vom 28.02.24
+- TOP 6.4.1.4.: (N) - Naherholungskonzept Aubinger Lohe / Feldflur Freiham, Anhörung Planungsreferat vom 11.03.24
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Nächtliche Ruhestörung durch Baukran, Schr. Planungsreferat vom 26.02.24
+- TOP 6.4.2.2.: Hecken schneiden, Bodenseestraße, Schr. Baureferat vom 20.02.24
+- TOP 6.4.2.3.: Grundstück Lochhauserstraße / Ecke Mälzereistraße, Schr. Planungsreferat vom 22.02.24
+- TOP 6.4.2.4.: Lärmquelle Gewerbepark (ehemaliges historisches Instandsetzungswerk der DB) Gleisharfe / Neuaubing, Schr. Planungsreferat vom 20.02.24
+- TOP 6.4.2.5.: Vertretung des BA 22 im Interkommunalen Zweckverband München West sicherstellen, Schr. Planungsreferat vom 26.02.24
+- TOP 6.4.2.6.: Pumuckl in Freiham sichtbar werden lassen, Schr. Planungsreferat vom 16.02.24
+- TOP 6.4.2.7.: Bauanträge im 22. Stadtbezirk: 12.02.-18.02.24, 19.02.-25.02.24, 26.02.-03.03.24, (N) - 04.03.-10.03.24
+- TOP 6.4.2.8.: Baumaßnahmen der Stadtwerke, Stichtag: 26.01.-13.02.24, (N) - 26.02.-11.03.24
+- TOP 6.4.2.9.: (N) - Kiefernbaum wieder geeignet unterstützen, Schr. Baureferat vom 04.03.24
+- TOP 6.4.2.10.: (N) - Rettet die Bienen - für Bienenfutterautomaten im Stadtbezirk 22, Schr. Ref. f. Klima- u. Umweltschutz vom 05.03.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse, Anhörung Direktorium vom 26.02.24
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mobilfunk-Suchkreis, Bodenseestr. 228, Schr. Ref. f. Klima- u. Umweltschutz vom 23.02.24
+- TOP 8.2.: Unveränderte Fortführung, hier: - Kiosk Lußsee, Kreuzkapellenstr. 89, Schr. KVR vom 28.02.24 - "Un Momento", Altenburgstr. 35, Schr. KVR vom 15.02.24 - Asia Imbiss "Kim Phuc", Bodenseestr. 275, Schr. KVR vom 28.02.24
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Ausschuss für Stadtplanung und Bauordnung vom 06.03.24
+- TOP 9.1.1.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 9.1.2.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 17.04.24 um 19.00 Uhr im Campus Freiham, Helmut-Schmidt-Allee 41 (Mensa Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 11.03.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 12.03.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 13.03.24, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 14.03.24, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.18.: (N) - Parkplatzbucht an der B2
+- TOP 2.1.19.: Zugeparkte Gehwege an der Kreuzung Wiesentfelser Str./ Riesenburgstr.
+- TOP 2.1.20.: Verkehrsanbindung ÖPNV Clara-Schumann-Str./ Maria-Arndts-Str.
+- TOP 2.1.21.: Ampelanlage Aubinger Str. - Stockacher Str.
+- TOP 2.1.22.: Beseitigung gefährlicher Stufen durch barrierefreien Zugang vom Radweg an der Eichenauer Str, in Höhe des Koch Hofladens
