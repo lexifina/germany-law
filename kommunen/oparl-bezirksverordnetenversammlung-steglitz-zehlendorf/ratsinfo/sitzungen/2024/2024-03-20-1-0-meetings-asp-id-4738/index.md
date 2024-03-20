@@ -1,0 +1,82 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-03-20T17:00:00+01:00
+- Ende: 2024-03-20T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4738
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4738
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wärmehilfe im Bezirk - beantwortet
+- TOP 3.2: Gut älter werden in Steglitz-Zehlendorf - wie funktioniert es mit den Hausbesuchen? - beantwortet
+- TOP 3.3: Instandsetzungsarbeiten im Outpost - beantwortet
+- TOP 3.4: Haftungsrisiko beim Schulschwänzen? - beantwortet
+- TOP 3.5: Wie lange bleibt die Altensteinstraße für Radfahrer*innen gefährlich - beantwortet
+- TOP 3.6: Wann gibt es auch in Steglitz-Zehlendorf eine „Panchina Rossa“? - schriftlich beantwortet
+- TOP 3.7: Zum Zustand der Sanitäranlagen an der Ronnebypromenade/ Schiffsanlegestelle Wannsee? - schriftlich beantwortet
+- TOP 3.8: Wann endet der „Schildbürgerstreich“ in der Taylorstraße? - schriftlich beantwortet
+- TOP 3.9: Umsetzungen von Fahrzeugen durch das Bezirksamt - schriftlich beantwortet
+- TOP 3.10: Flaggenmasten vor dem Rathaus Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für den Royal Rangers-Stamm 590 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Sondermittel der BVV für den Lankwitzer Kulturverein e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Sondermittel der BVV für die LiteraturInitiative - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Entsiegelungskataster für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Pilotprojekt Ladesäule für Wassersport - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: An Förderaufruf "Fahrradparkhäuser an Bahnhöfen" beteiligen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Entsiegelung an der Sembritzkistraße/Ecke Grabertstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Infrastruktur für Menschen ohne Obdach - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Einsetzung eines bezirklichen Frauenbeirates für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Friedhofskultur: Würdigung und Respekt unserer Toten - in der BVV abgelehnt
+- TOP 4.16: Zentrale Impfstelle im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Gedenken an Franz Kafka zum 100. Todestag am 3. Juni 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: FU: Übungsleiter für Sportvereine gewinnen - in der BVV abgelehnt
+- TOP 4.19: Nora Schimming in die Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Bezirkliches Zentren- und Einzelhandelskonzept Steglitz-Zehlendorf (3. Fortschreibung 2023) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Abberufung einer Bürgerdeputierten - überwiesen
+- TOP 5.2: Abberufung eines Bürgerdeputierten - überwiesen
+- TOP 5.3: Buslinie 285 - überwiesen
+- TOP 5.4: Illegalen Werbekärtchen an Pkw den Kampf ansagen! - überwiesen
+- TOP 5.5: Ein Radweg für die Thielallee statt (leerer) Autoparkplätze - überwiesen
+- TOP 5.6: Kunst statt grauer Betonsäulen am Breitenbachplatz - überwiesen
+- TOP 5.7: Baustellenchaos am Steglitzer Kreisel nicht länger zu Lasten von Nutzer*innen des ÖPNV sowie Radfahrer*innen und Fußgänger*innen - überwiesen
+- TOP 5.8: Für die Vision Zero und gegen die Wiedereinführung von Tempo 50 in der Albrechtstraße und Leonorenstraße - überwiesen
+- TOP 5.9: Ein weiterer Bouleplatz für Steglitz-Zehlendorf - überwiesen
+- TOP 5.10: Ohne Elterntaxis gibt's ein Gutti – Augsburg macht es vor - überwiesen
+- TOP 5.11: Friedvolles miteinander: Fahrradverkehrskontrollen an Bushaltestellen durchführen - überwiesen
+- TOP 5.12: Pilotprojekt „00-Toleranz für Toiletten-Vandalismus“ - überwiesen
+- TOP 5.13: Würdigung des Hitler-Attentäters Oberst Claus Schenk Graf von Stauffenberg zum 80. Jahrestag des Attentats am 20. Juli 2024 - überwiesen
+- TOP 5.14: Düppel-Süd bei U3 Verlängerung mitdenken - überwiesen
+- TOP 5.15: Ein Freiluftkino in Steglitz - überwiesen
+- TOP 5.16: Aktive Trägersuche Gedenkort Stalag III d - überwiesen
+- TOP 5.17: Bäke in Gewässergüteprogramm der Senatsverwaltung aufnehmen - überwiesen
+- TOP 5.18: Den Waldsee beim Ausbau der U3 mitdenken - überwiesen
+- TOP 5.19: Gemeinsamer Ausschuss mit den Umlandgemeinden - überwiesen
+- TOP 5.20: Photovoltaikanlage für die Große Anna-Essinger-Gemeinschaftsschule - überwiesen
+- TOP 5.21: Chancen nutzen für ein Zusammenkommen am Breitenbachplatz – ein Nachbarschaftspicknick auf der gesperrten Brücke prüfen - überwiesen
+- TOP 5.22: Gedenktafel für SPD-Parteivorsitzenden Arthur Crispien - überwiesen
+- TOP 5.23: Fußgängerschutz in der Clayallee - überwiesen
+- TOP 5.24: Gedenken an den Widerstand des 20. Juli 1944 - überwiesen
+- TOP 6: Bebauungspläne - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bebauungsplan 6-30 (Lichterfelde-Süd) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Wie lange nimmt das Ordnungsamt die Verwahrlosung (Dreck, Müll, Fäkalien) unter der Tiburtius-Brücke noch hin? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Solidarität mit den Schüler*innen in Steglitz-Zehlendorf und ihren Protesten für Frieden, Freiheit und Demokratie - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Trägerwohnungen in städtebaulichen Verträgen vorsehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
