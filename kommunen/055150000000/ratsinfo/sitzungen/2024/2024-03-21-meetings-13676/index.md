@@ -1,0 +1,55 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-03-21T17:00:00+01:00
+- Ende: 2024-03-21T19:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13676
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13676
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00545945.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung für die Sitzung am 21.03.2024 - einstimmig beschlossen
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Verkehrsuntersuchung zum Erfordernis des Ausbaus der B51 - zur Kenntnis genommen
+- TOP 4.3: Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 4.4: Bericht über die Anträge auf Baukostenzuschuss von Münsteraner Sportvereinen mit Antrag auf förderunschädlichen vorzeitigen Baubeginn - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 5.1.1: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster
+- TOP 5.2: Baubeschluss - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung einer Schriftführung für die Sitzungen der Bezirksvertretung Münster-Ost - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anträge
+- TOP 7.1: Verbesserung der Verkehrssicherheit für Radfahrer und Fußgänger im Bereich Willingrott/Dorbaumstraße - einstimmig beschlossen
+- TOP 8: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 8.1: Beleuchtung an der Hobbeltstraße verbessern - eingebracht
+- TOP 8.2: Mögliche Standorte Pumptrack in Gelmer - eingebracht
+- TOP 8.3: Alter Mühlenweg zwischen Handorf und Wolbeck als Fahrradstraße ""BASIS" klassifizieren - eingebracht
+- TOP 8.4: Anregung zur Vorlage V/0095/2024 - eingebracht
+- TOP 8.5: Umgestaltung des Straßenraumes der Handorfer Straße - eingebracht
+- TOP 8.6: Informationen zur Mobilstation in Gelmer - eingebracht
+- TOP 8.7: Planung für den Neubau der Matthias-Claudius-Schule Handorf - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 9.1: Schutzstreifen Hobbeltstraße für den Radverkehr (ursprüngliche Nr. A-O/0005/2023) - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.2: Beleuchtung auf dem neuen Radweg am Schifffahrter Damm - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Alte Schulbushaltestelle am alten Schifffahrter Damm wieder in Betrieb nehmen - Stellungnahme zur Kenntnis genommen
+- TOP 9.4: Schleichverkehr auf dem Pleistermühlenweg eindämmen - Stellungnahme zur Kenntnis genommen
+- TOP 9.5: Anregung zur Vorlage V/0555/2023 - Erweiterung der Margaretenschule - Schulhof naturnah gestalten - Stellungnahme zur Kenntnis genommen
+- TOP 9.6: Wegeführung des Werseradweges bei "Nobis Krug" verbessern - Stellungnahme zur Kenntnis genommen
+- TOP 9.7: Reflektoren für die Poller am Pleistermühlenweg - Stellungnahme zur Kenntnis genommen
+- TOP 9.8: Anpassung der Ampelschaltung am Verkehrsknoten um das neue Brückenbauwerk Umgehungsstraße/Wolbecker Straße - Stellungnahme zur Kenntnis genommen
+- TOP 9.9: Ausbau DEK-Pleistermühlenbrücke - Rodungsarbeiten/Baumfällungen - Stellungnahme zur Kenntnis genommen
+- TOP 9.10: Sanierung der Wehre an der Werse - Stellungnahme zur Kenntnis genommen
+- TOP 9.11: Planungen Breitbandausbau in Handorf, Gelmer und Dyckburg - Stellungnahme zur Kenntnis genommen
+- TOP 9.12: Mehr Pflegeplätze in Münster-Ost - Stellungnahme zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 11: Verschiedenes
