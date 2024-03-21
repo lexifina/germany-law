@@ -1,0 +1,96 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-03-21T14:00:00+01:00
+- Ende: 2024-03-21T18:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26038
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26038
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 21.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00515599.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 21.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00515599.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 21.03.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00515599.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 14.12.2023 (SI-RAT/008/2023) - einstimmig beschlossen
+- TOP 4: Wiederwahl von Frau Beigeordneter Cornelia Zuschke - einstimmig beschlossen
+- TOP 5: Anfragen aus aktuellem Anlass
+- TOP 5.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Anti-AfD-Demonstration am 16. März 2024 im Zoopark Düsseldorf (1) - beantwortet
+- TOP 5.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Anti-AfD-Demonstration am 16. März 2024 im Zoopark Düsseldorf (2) - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der FDP-Ratsfraktion: Digitale Hundemarke und Preissteigerung der Hundesteuer - beantwortet
+- TOP 6.2: Anfrage der FDP-Ratsfraktion: E-Ladesäulen in Düsseldorf - beantwortet
+- TOP 6.3: Anfrage der SPD-Ratsfraktion: Cannabislegalisierung - beantwortet
+- TOP 6.4: Anfrage der SPD-Ratsfraktion: Neuaufstellung des Nahverkehrsplans - beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion DIE LINKE: Was tun gegen die Glücksspielsucht - beantwortet
+- TOP 6.6: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Rechts- und Linksextremistische Straftaten - beantwortet
+- TOP 6.7: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Vollsortimenter auf dem Dreiecksplatz in Kaiserswerth - schriftlich beantwortet
+- TOP 6.8: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Umsetzung der Bundesmeldedatenverordnung - schriftlich beantwortet
+- TOP 6.9: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Haltung der Stadt Düsseldorf zu Femiziden - schriftlich beantwortet
+- TOP 6.10: Anfrage der Ratsfraktion DIE LINKE: Wer zahlt die Rechnung für den Neubau des Düsseldorfer Opernhauses? - schriftlich beantwortet
+- TOP 6.11: Anfrage der Ratsfrau Fobbe: Unterführung Gerresheim - schriftlich beantwortet
+- TOP 6.12: Anfrage des Ratsherrn Lemmer: besserer Schutz der Düsseldorfer vor kriegsbedingten Gefahren - schriftlich beantwortet
+- TOP 6.13: Anfrage des Ratsherrn Lemmer: Beleuchtung im öffentlichen Raum anlässlich des islamischen Fastenmonats Ramadan - schriftlich beantwortet
+- TOP 6.14: Anfrage der Ratsfrau Krüger: Tierversuche in Düsseldorf - schriftlich beantwortet
+- TOP 6.15: Anfrage der Ratsfrau Krüger: Kinder in Not- Pflegefamilien und Heimplätzen - schriftlich beantwortet
+- TOP 6.16: Anfrage der Ratsfrau Fobbe: Verkehrschaos Cirque du Soleil - schriftlich beantwortet
+- TOP 6.17: Anfrage des Ratsherrn Neuenhaus: Was plant die Verwaltung zur Verbesserung des Altstadtpflasters? - schriftlich beantwortet
+- TOP 6.18: Anfrage des Ratsherrn Jörres: Kommunale Vorsorge im Falle eines Blackouts - schriftlich beantwortet
+- TOP 7: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission "Neuzuschnitt der Kommunalwahlbezirke" - zur Kenntnis genommen
+- TOP 10: (Teil-)Aufhebungen von Sanierungssatzungen
+- TOP 10.1: Teilaufhebung der Sanierungssatzung Benrath - einstimmig beschlossen
+- TOP 10.2: Aufhebung der Sanierungssatzungen Berger Hafen/Zollhafen
+- TOP 10.3: Aufhebung der Sanierungssatzung Garath-Südost
+- TOP 10.4: Aufhebung der Sanierungssatzung Gerresheim
+- TOP 10.5: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung
+- TOP 10.6: Aufhebung der Sanierungssatzung Gebietsprogramm zur Wohnumfeldverbesserung südlich der Innenstadt, 1. Anschlussprogramm (GPWS II)
+- TOP 10.7: Aufhebung der Sanierungssatzung Grafenberger Allee
+- TOP 10.8: Aufhebung der Sanierungssatzung Hassels-Nord
+- TOP 10.9: Aufhebung der Sanierungssatzung Kaiserswerth
+- TOP 10.10: Aufhebung der Sanierungssatzung Kölner Straße
+- TOP 10.11: Aufhebung der Sanierungssatzung Münsterstraße
+- TOP 10.12: Aufhebung der Sanierungssatzung Rheinuferstraße
+- TOP 11: Förderung der Gleichstellung von Frauen und Männern 2019 bis 2024 - einstimmig beschlossen
+- TOP 12: Einrichtung einer Geschäftsstelle Notfallmanagement und Kulturgutschutz im Kulturamt - einstimmig beschlossen
+- TOP 13: Neubau Annexbauten im Malkastenpark - 2. Nachfinanzierung - einstimmig beschlossen
+- TOP 14: Umgang mit der historischen Person Franz Jürgens - mehrheitlich beschlossen
+- TOP 15: Mobilitätsstationen im Förderprojekt Multi-Mo-DUS zur Förderung von Nahmobilität und Intermodalität im Alltag – Realisierungsphase 1 - mehrheitlich beschlossen
+- TOP 16: Stadtbahnstrecke U81/2. Bauabschnitt MERKUR SPIEL-ARENA/Messe Nord – Handweiser – Aufteilung der Verkehrsflächen bei der Rheinquerung als Brückenvariante - mehrheitlich beschlossen
+- TOP 17: Einkünfte aus Nebentätigkeiten im Jahr 2023 für Herrn Oberbürgermeister Dr. Stephan Keller - zur Kenntnis genommen
+- TOP 18: Nachwahl zum Beirat bei der Unteren Naturschutzbehörde - einstimmig beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Erweiterung des Schulstandortes Redinghovenstraße 16-20 um eine Vierfachsporthalle und ein Bistro“ - einstimmig beschlossen
+- TOP 21: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für die Personal- und Inventarkosten des Projektes "Neubau Schloß-Gymnasium Benrath und Realschule Benrath an der Benrodestraße/Marbacher Straße" - einstimmig beschlossen
+- TOP 22: Anträge
+- TOP 22.1: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Mietwohnungen für die Mitte – Konzept für städtische Förderdarlehn - mehrheitlich beschlossen
+- TOP 22.1.1: Änderungsantrag der SPD-Ratsfraktion zum Antrag RAT/035/2024
+- TOP 22.1.1.1: Ergänzungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/061/2024
+- TOP 22.1.2: Ergänzungsantrag der FDP-Ratsfraktion zu TOP Ö 39.6, RAT/035/2024 - mehrheitlich abgelehnt
+- TOP 22.1.3: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zum Antrag RAT/035/2024 Ökologische Kriterien beim Wohnungsbau berücksichtigen - mehrheitlich abgelehnt
+- TOP 22.2: Antrag der Ratsfraktion DIE LINKE: Resolution für besseren Nahverkehr in Düsseldorf - mehrheitlich abgelehnt
+- TOP 22.3: Antrag der AfD-Ratsfraktion: Ja zur Meinungsfreiheit, Nein zu Gewaltaufrufen gegen einzelne Parteien und deren Mitglieder - mehrheitlich abgelehnt
+- TOP 22.4: Antrag der Ratsfraktion DIE LINKE: Düsseldorf mit größter Lärmbelastung deutschlandweit: Tempo 30 jetzt! - verwiesen
+- TOP 22.4.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/087/2024 - verwiesen
+- TOP 22.5: Antrag der Ratsfraktion DIE LINKE: Lehrkräfteausbildung ausbauen und Arbeitsbedingungen verbessern - mehrheitlich abgelehnt
+- TOP 22.6: Antrag der FDP-Ratsfraktion: Begehung der Altstadt zur Überprüfung der Verkehrsbeschilderung - mehrheitlich abgelehnt
+- TOP 22.7: Antrag der AfD-Ratsfraktion: Beendigung der Mitgliedschaft der Landeshauptstadt Düsseldorf bei „Seebrücke“ und Bündnis „Städte Sicherer Häfen“ - mehrheitlich abgelehnt
+- TOP 22.7.1: Änderungsantrag der Ratsfraktion Die PARTEI-Klima-Fraktion zur Vorlage RAT/102/2024 - zurückgezogen
+- TOP 22.8: Antrag der AfD-Ratsfraktion: Umgehende Zurücknahme des Verbotes der Mitnahme von E-Scootern im ÖPNV - mehrheitlich abgelehnt
+- TOP 22.9: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Einrichtung von temporären Schulstraßen - mehrheitlich beschlossen
+- TOP 22.9.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/106/2024
+- TOP 22.9.2: Änderungsantrag der SPD-Ratsfraktion zur Vorlage RAT/106/2024 - mehrheitlich abgelehnt
+- TOP 23: Aufsichtsrat der Düsseldorf Marketing GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 24: Aufsichtsrat der Düsseldorf Tourismus GmbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 25: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 26: Aufsichtsrat der D.LIVE GmbH & Co. KG - Ersatzwahl - mehrheitlich beschlossen
+- TOP 27: Aufsichtsrat der Düsseldorf Marketing GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 28: Aufsichtsrat der Düsseldorf Tourismus GmbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 29: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland -Ersatzbestellung- - mehrheitlich beschlossen
+- TOP 30: Kuratorium der Stiftung Schloss und Park Benrath - Ersatzwahl - einstimmig beschlossen
