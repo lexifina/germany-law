@@ -1,0 +1,169 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2024-03-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7843487
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7843487
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwurf der Sondersitzung am 08.02.2024
+- TOP 1.2.2.: Protokollentwürfe der Sitzung am 22.02.2024
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget TSV Trudering e.V. Erwerb einheitlicher Trainerbekleidung von Trigema ab 18.03.2024 3.214,51€; Az. 0262.0-15-0531
+- TOP 2.1.2.: (E) Stadtbezirksbudget Condrobs e.V. Ausstattung Jugendcafé Messestadt Riem von Mai – Dezember 2024 7.000,00 Euro / Az. 0262.0-15-0533
+- TOP 2.1.3.: (E) Stadtbezirksbudget Förderverein des Gymnasiums München-Trudering Teilnahme der Big Band des Gymnasiums Trudering an der Stadtteilwoche vom 06. -12-06.2024 1.500,00€; Az. 0262.0-15-0532
+- TOP 2.1.4.: (E) Stadtbezirksbudget Erfindergardengarden Foundation gUG Lastenfahrrad Trudering-Riem vom 04.03. -31.12.2024 6.000,00€; Az. 0262.0-15-0534
+- TOP 2.1.5.: (E) Stadtbezirksbudget Init. "Konzertreihe" noch 4 weitere Konzerte für die Messestädter*innen vom 01.09. -31.12.2024 4.215,00€ ; Az. 0262.0-15-0535
+- TOP 2.1.6.: (E) Stadtbezirksbudget staatliche Berufsschule - Kleine-Nestler-Schule gem. GmbH KNS Dance Camp #01 vom 29.07. -02.08.2024 1.570,50€; Az. 0262.0-15-0536
+- TOP 2.1.7.: (E) Stadtbezirksbudget Bewohner-Initiative Den-Haag-Straße 3+5 Ausstattung des Quartiersladens der WoGeNo München in der Messestadt Riem-West ab 15.07.2024 3.550,00€; Az. 0262.0-15-0537
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) + (U) Verbesserung der Verkehrssituation an der Kreuzung Nauestraße / Fauststraße
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Felicitas-Füss-Straße: Beschwerde zur Anzahl der montierten Fahrradanlehnbügel
+- TOP 3.2.2.: Schmuckerweg und Schwablhofstraße: Einrichtung eines Fußgängerüberwegs
+- TOP 3.2.3.: BSA Feldbergstraße: Neugestaltung der Verkehrssituation
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.3.1.: Messestadt Riem: Schließung einer Post-Filiale in den Arcaden
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Waldtrudering: Renaturierung des Teichs in der Heuluss
+- TOP 3.6.2.: Grünanlage Rofanstraße / Waldstraße / Groschenweg: Aktueller Sachstand zur Errichtung eines Sendemasts
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.2.1.: Adele-Konzerte auf dem Gelände der Messe München: Freikarten-Kontingente für Trudering, Riem und die Messestadt wieder ermöglichen und Funktionierendes Verkehrs- und Müllkonzept sicherstellen
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.3.1.: Städtischer Kauf des Grundstücks der Bayerischen Hausbau im 5. Bauabschnitt der Messestadt
+- TOP 4.3.2.: Anfrage zur Sozialstruktur im 5. BA der Messestadt
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Restmüll reduzieren – Anreize schaffen
+- TOP 4.7.2.: Ladestationen im Stadtbezirk erweitern
+- TOP 4.7.3.: Wasserstelle an der Hochspannungsleitung
+- TOP 4.7.4.: Für eine aktive und sichere Parkmeile – Grünzug in Trudering weiterentwickeln Teil 1: Aufwertung des Platzes vor dem Truderinger Gymnasium und Aktivitätenband entlang der Friedenspromenade ausbauen
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Friedenspromenade: 2-Richtungs-Fuß-Radweg an hohe Nutzungsfrequenz anpassen
+- TOP 5.2.2.: Beschlussempfehlungen zur Ertüchtigung des Radwegs entlang der Friedenspromenade zwischen WaBuLa und Gymnasium vs. Aufhebung der Radbenutzungspflicht
+- TOP 5.2.3.: Erinnerungs-Antrag: Truderinger-Riemer Fahrradoffensive Teil 2 – Zweirichtungs-Fuß-Radweg an der Friedenspromenade den Bedürfnissen der hohen Nutzungsfrequenz anpassen
+- TOP 5.2.4.: Kreuzung Bajuwarenstraße/Wasserburger Landstraße: Forderung eines rot markierten Fahrradweges
+- TOP 5.2.5.: Truderinger-Riemer Fahrradoffensive Teil 1 - Fahrradstraße Schramminger Weg - Vorrang für Verkehrssicherheit auf Schul- und Freizeitwegen
+- TOP 5.2.6.: Von Schondorf lernen: Pilotprojekt „Miteinanderweg“ für Trudering-Riem
+- TOP 5.2.7.: Heinrich-Böll-Straße / Mutter-Theresa-Straße: Einrichtung von Fahrradabstellplätzen
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Hoferichterweg 2, 2a, 2b: Fehlender Internetanschluss durch einen Mobilfunkanbieter
+- TOP 5.4: UA Planung
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Arbeit des Bildungslokal Riem auf Trudering ausweiten: Auch in Trudering verdienen Kinder und Familien Unterstützung
+- TOP 5.5.2.: Experimente-Busse
+- TOP 5.5.3.: Herrichten der temporären BAUMA-Stellplatzanlage "Am Mitterfeld" als Bezirkssportanlage vorrangig für Frauen- und Mädchensport
+- TOP 5.5.4.: Ausstattung der KITA im 5. Bauabschnitt mit einer Küche und Einstellung eines/r KöchIn oder HauswirtschaftsleiterIn
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Bitte an den Deutschen Städtetag: Erhalt von Baumstandorten in §34-Gebieten
+- TOP 5.6.2.: Bürgerliche Stadtbegrünung durch Grünpatenschaften
+- TOP 5.6.3.: Der Truderinger Hüllgraben – Perspektiven hinsichtlich Neugestaltung, Begehbar- und Erlebbarkeit
+- TOP 5.6.4.: Riemer Park: Abbau des Lochsegels am Bewegungsparcours
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung im Freien auf Privatgrund: ADELE Konzertreihe im Zeitraum 02.08. bis 31.08.2024 auf der Freifläche Nord der Messe München Riem mit 80.000 Pax zeitgleich
+- TOP 7.1.2.: Veranstaltung im Freien in einer städtischen Grünanlage: Truderinger Festwoche im Zeitraum vom 03.05.-12.05.24 auf dem Truderinger Festplatz
+- TOP 7.1.3.: Veranstaltung auf stadteigenem Grund: Dinosaurierausstellung vom 08.04. - 05.05.2024 an der Olof-Palme-Straße / Joseph-Wild-Straße
+- TOP 7.1.4.: Veranstaltung in öffentlichen Grünanlagen: Zirkus Pumpernudl vom 19.04. - 17.10.2024
+- TOP 7.1.5.: Veranstaltung in städtischen Grünanlagen: Skateboard Mobil und Kurse High Five vom 08.04. - 24.10.2024
+- TOP 7.1.6.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Paul-Wassermann-Straße: Einrichtung eines absoluten Haltverbots
+- TOP 7.2.2.: Zaunkönigweg: Einrichtung eines absoluten Haltverbots
+- TOP 7.2.3.: MVG-Leistungsprogramm 2025: Anhörung der Bezirksausschüsse
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: PERSPEKTIVE MÜNCHEN: Entwurf des Stadtentwicklungsplans STEP2040 „München – Stadt im Gleichgewicht“
+- TOP 7.3.2.: Flughafenanbindung – viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen Ergebnisse der Feinvariantenuntersuchung sowie weiteres Vorgehen
+- TOP 7.3.3.: Gemeinde Haar: 43. Änderung des Flächennutzungsplanes (Photovoltaik) Behördenbeteiligung nach § 4 Abs. 1 BauGB
+- TOP 7.3.4.: Masterplanungen in den Münchner Parkmeilen – Erste Ergebnisse für Feldmochinger Anger und Trudering-Neuperlach sowie Fortsetzung der Planungen und Maßnahmen
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Plenklweberweg 4 - Nutzungsänderung einer Teilfläche von Lager 3 und Flur zu einem Café (Personal-WC befindet sich in der Spielothek)
+- TOP 7.4.2.: Zehntfeldstr. 169 - Neuerrichtung einer Wohnanlage mit fünf Baukörpern und Tiefgarage - VORBESCHEID
+- TOP 7.4.3.: Jagdhornstr. 8 - Neubau Haus 1 mit 5 WE und Haus 2 mit 3 WE sowie 4 Duplex-Parker und PV
+- TOP 7.4.4.: Jagdhornstr. 8 - ÄNDERUNGSASNTRAG zu 1.23-2024-1541-32 - Neubau Haus 1 (5 WE) und Haus 2 (3 WE) sowie 4 Duplex-Parker und PV
+- TOP 7.4.5.: Friedenspromenade 79 - Abbruch Bestandsbebauung, Neubau zweier Einfamilienhäuser (kommun angebaut) und eines freistehenden Mehrfamilienhauses mit gemeinsamer Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2020-19105-32
+- TOP 7.4.6.: Leibengerstraße - Neubau einer Wohnanlage mit Tiefgarage und Freianlagen - VORBESCHEID
+- TOP 7.4.7.: Nikolaus-Prugger-Weg 11 - Nutzungsänderung von Büro zu Wohnung und Erweiterungsbau für 3 Wohneinheiten Abbruch eines Anbaus sowie Nachlegalisierung des planabweichenden Bestandes, Müllboxen im Vorgarten und Änderung Wandhöhe
+- TOP 7.4.8.: Xaver-Weismor-Str. 86 - Neubau von 2 Mehrfamilienhäuser und 2 Doppelhaushälften mit Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Anmeldung als Pilot-Stadtbezirk sowie Abfrage potentieller Flächen für Street Art- und Graffiti-Projekte
+- TOP 7.5.2.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 7.5.3.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Masterplanungen in den Münchner Parkmeilen – Erste Ergebnisse für Feldmochinger Anger und Trudering-Neuperlach sowie Fortsetzung der Planungen und Maßnahmen
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Fabinistr. 13 Großfriedrichsburgerstr. 4 Hermann-Schaller-Str. 29 Kreuzerweg Martin-Empl-Ring 15 Sulzer-Belchen-Weg 17
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Anechostr. 21a Anechostr. 88 Askaripfad 8 Barschweg 9 Gerstäckerstraße Himalajastraße 40 Ingeborgstr. 54 Kreuzerweg Nikolaus-Prugger-Weg 11 Otto-Lederer-Weg 19 Spieljochstr. 13 Spieljochstr. 14 Tangastraße Tsingtauer Str. 103
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Helmut-Schmid-Festwiese: Festlegung der Standorte für die Hinweisschilder
+- TOP 9.1.3.: Kontenaufstellung und Verwaltungskosten 2023
+- TOP 9.1.4.: Sitzordnung im Plenum
+- TOP 9.1.5.: Versetzung der TOPO-Box Am Mitterfeld in nördliche Richtung zwischen Kirtaweg und Linnenbrüggerstraße
+- TOP 9.1.6.: Veranstaltung in städtischen Grünanlagen: div. Spielbus-Veranstaltungen des Quax im Riemer Park am 26./27.03.2024, 27.-29.05.2024, 12.-14.08.2024 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.7.: Veranstaltung in städtischen Grünanlagen: Spielbus-Veranstaltung des Quax im Riemer Park Höhe Kopfbau am 28.03.2024 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Aktuelle Sachstände zu den Themen: a) Fußgängerüberwege am Edinburghplatz / an der Einfahrt zur Arcaden-Tiefgarage b) Vorfahrtsregelung am Knoten Adlerstraße / Bahnstraße / Schneiderhofstraße / Drosselweg c) Mobilitätspunkt an der Hugo-Weiss-Straße d) BA-Beteiligung / BA-Hearing zum Neuen Radwegenetz
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Feldbergstraße 65: Unveränderte Fortführung des Gaststättenbetriebes
+- TOP 10.1.2.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.3.: Verwendungsnachweise des Stadtbezirksbudgets
+- TOP 10.1.4.: Hinweise zur Erledigung von BA-Anträgen / Vorgehen bei Rück- und Folgefragen
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Bekassinenweg
+- TOP 10.2.2.: Adlerstraße: Baumaßnahme zur Erneuerung der Trinkwasserleitungen
+- TOP 10.2.3.: Präsentation zur Anwohnerinformationsveranstaltung der Daglfinger und Truderinger Kurve (DTK) zum Thema Erschütterung vom 27.02.2024
+- TOP 10.2.4.: Bajuwarenstraße: Beschwerde über die Einrichtung von Stellflächen für Carsharingfahrzeuge
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 10.3.2.: Fortführung und Verstetigung des Beteiligungsverfahrens zum 5. Bauabschnitt der Messestadt München-Riem: Ergebnisse des Runden Tisches am 25.01.2024
+- TOP 10.3.3.: Info-Veranstaltungen zum STEP2040: Protokolle und Präsentation
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 10.4.2.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Funtenseestr. 11 Haus 1, 3 und 4 b) Solalindenstr. 21
+- TOP 10.4.3.: Satzung über das Verbot der Zweckentfremdung von Wohnraum – Abbruchanzeige: a) Von-Erckert-Straße 65 b) Helgastraße 2
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Informationen zur neuen freiwilligen Förderung der Kindertageseinrichtungen in München
+- TOP 10.5.2.: Bezirkssportanlage Feldbergstraße: Modernisierung im Rahmen des Sportbauprogramms Ergebnisprotokoll Ortstermin 31.01.2024
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Suchkreismitteilung zu Mobilfunkanlagen: a) Bognerhofweg b) Wasserburger Landstraße c) Am Eulenhorst
+- TOP 10.6.2.: Kopfbau im Riemer Park: Baumfällungen sowie Überarbeitung des Vorplatzes
+- TOP 1.3.3.: (N) Keine sozialen Bauprojekte wenn sich die KPI der Stadtteilstudie verschlechtern Empfehlung Nr. 20-26 / E 00467 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem
+- TOP 7.5.4.: (N) Keine sozialen Bauprojekte wenn sich die KPI der Stadtteilstudie verschlechtern Empfehlung Nr. 20-26 / E 00467 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem
+- TOP 1.3.2.: (N) Friedenspromenade 79 - Abbruch Bestandsbebauung, Neubau zweier Einfamilienhäuser (kommun angebaut) und eines freistehenden Mehrfamilienhauses mit gemeinsamer Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2020-19105-32
+- TOP 7.4.9.: (N) Friedenspromenade 79 - Abbruch Bestandsbebauung, Neubau zweier Einfamilienhäuser (kommun angebaut) und eines freistehenden Mehrfamilienhauses mit gemeinsamer Tiefgarage -ÄNDERUNGSANTRAG zu 1.2-2020-19105-32
+- TOP 1.3.1.: (N) Wann und Wie geht es weiter mit dem Ausbau der Ladeinfrastruktur?
+- TOP 4.7.5.: (N) Wann und Wie geht es weiter mit dem Ausbau der Ladeinfrastruktur?
