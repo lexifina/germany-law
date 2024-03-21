@@ -1,0 +1,8 @@
+# TOP 4: Kommunales Unternehmensrecht; hier: Beteiligungsbericht 2022
+
+- Sitzung: Sitzung des Stadtrates (2024-03-21)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/33437
+- Ergebnis: Ohne Abstimmung
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/consultations/11865
