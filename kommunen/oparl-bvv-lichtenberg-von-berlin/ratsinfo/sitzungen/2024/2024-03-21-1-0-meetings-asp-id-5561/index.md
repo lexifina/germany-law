@@ -1,0 +1,122 @@
+# 27. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-03-21T17:00:00+01:00
+- Ende: 2024-03-21T22:00:00+01:00
+- Ort: Herzbergstraße 129, 10365 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5561
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5561
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=389764
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Verordnung über die Veränderungssperre XVII 19a/34 für das Grundstück Rummelsburger Straße 100/108 (Gemarkung Lichtenberg, Flur 512, Flurstück 429) ausgenommen der nordöstlichen Fläche aus dem Geltungsbereich des Bebauungsplans XVII-VE3 im Bezirk Lichtenberg, Ortsteil Friedrichsfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Kultur- und Bildungszentrum Hohenschönhausen (KuBiz) in I-Planung absichern - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Pro Kind ein Baum für Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Einbootungsstelle (Slipanlage) in der Rummelsburger Bucht schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Mehr Platz für den Freiaplatz in der Frankfurter Allee Nord (FAN) - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Grünflächenversorgung im Weitlingkiez verbessern: Münsterlandplatz erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Lichtenberger Kindertagesstättenentwicklungsplan 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Aufenthaltsqualität auf dem Spielplatz an der Edgarstraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Dem Barther Pfuhl stinkt’s - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Bebauungsplan Ostkreuz mit Leben füllen und geplanten Wohnraum umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Sichtbare kostenfreie Sportangebote im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Sportliche Aktivitäten in Lichtenberg fördern. Die SportBox - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: BVV Sondermittel für Berliner Wohnforum: Aktionsküche – Essen verbindet - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Verkehrsberuhigung in Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Für weiteren Wohnraum – Ein Baugebot für das Grundstück Möllendorffstraße 75A/Alfred-Jung-Straße 10 - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Transparenz zu runden Tischen im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: BVV-Sondermittel für den 27. Hohenschönhausener Gartenlauf des KGV Falkenhöhe-Nord - ohne Änderungen in der BVV beschlossen
+- TOP 5.21: BVV-Sondermittel für den Förderverein Kita "Hoppetosse" für 25 Jahre Kita "Hoppetosse" an der Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Gedenktafel in den Karlshorster Treskowhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.23: Bessere Räumungsarbeiten auf Fuß- und Radwegen während der Winterzeit - überwiesen
+- TOP 5.24: Bogensport in Lichtenberg weiterhin ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 5.25: Erich-Kuttner-Straße trockenlegen - ohne Änderungen in der BVV beschlossen
+- TOP 5.26: Durchwegung von der Lückstraße zur KGA Sanssouci - ohne Änderungen in der BVV beschlossen
+- TOP 5.27: Bauvorhaben Landsberger Allee - Anwohnende rechtzeitig informieren und beteiligen - überwiesen
+- TOP 5.28: Parkplätze im Victoria-Center für den Kaskelkiez öffnen - überwiesen
+- TOP 5.29: Das Kunsthaus 360° in Hohenschönhausen bewahren! - überwiesen
+- TOP 5.30: Fahrradbarometer in Lichtenberg - überwiesen
+- TOP 5.31: Storchenhofcenter unterstützen, Sicherheitsgefühl steigern – Standort stärken - überwiesen
+- TOP 5.32: Wasserfest in der Rummelsburger Bucht ermöglichen - überwiesen
+- TOP 5.33: Durchwegung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.34: Unsere Werte hoch hängen - überwiesen
+- TOP 5.35: Schluss mit Hundekot am Denkmal: Klare Regeln gegen braune Exkremente schützen Geschichte und Respekt! - überwiesen
+- TOP 5.36: Schutz, Renaturierung und Pflege des Trockenrasens und der Wildbienenwiese in der Rummelsburger Bucht - überwiesen
+- TOP 5.37: Tempo 30 in der Gehrenseestraße ausweiten - überwiesen
+- TOP 5.38: Suermondtstraße: Nachts Tempo runter für ruhigen Schlaf und flüssigen Verkehr! - überwiesen
+- TOP 5.39: Einbahnstraße im Fennpfuhl für den gegenläufigen Radverkehr freigeben - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.40: Landschaftsschutzgebiet Herzberge - überwiesen
+- TOP 5.41: Bordsteinkante an der Alfred-Jung-Straße sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.42: Bordsteinabsenkung an der Kreuzung Rosenfelder Straße / Skandinavische Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.43: Bordsteinabsenkung an der Kreuzung Köpenicker Allee und Rheinsteinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.44: Bogensport weiterhin in Lichtenberg ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.45: Kund*innen parken erleichtern: Kurzzeit-Parkplätze im Kaskelkiez - mit Änderungen in der BVV beschlossen
+- TOP 5.46: Kleingartenanlage „Querweg“ sichern – Spekulation den Boden entziehen - überwiesen
+- TOP 5.47: Verkehrssicherheit für die Krokofanten - überwiesen
+- TOP 5.48: Fahrradstraße in der Große-Leege-Straße - überwiesen
+- TOP 5.49: Leerstehendes Wohnhaus in der Konrad-Wolf-Straße 14 - überwiesen
+- TOP 5.50: Gemeinsam gegen Sexismus im Bezirk! - ohne Änderungen in der BVV beschlossen
+- TOP 5.51: Die Geschichte von Anton M’bonga Egiomue und Josef Bohinge Boholle dauerhaft sichtbar machen! - überwiesen
+- TOP 5.52: Den Senat in die Pflicht nehmen: Mehr Lehrkräfte für Lichtenberg! - überwiesen
+- TOP 5.53: Die grüne Revolution: Fassadenbegrünungen und Gründacher in Lichtenberg - überwiesen
+- TOP 5.54: Ausgewiesene Carsharing-Parkplätze für Lichtenberg - überwiesen
+- TOP 5.55: Radierkurse fortführen und neue Räumlichkeiten für das Graphik-Collegium - ohne Änderungen in der BVV beschlossen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitglieds - in der BVV abgelehnt
+- TOP 8.2: Wahl eines Mitglieds im Vorstand der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 8.3: Wahl einer Bürgerdeputierten für den Ausschuss Ökologische Stadtentwicklung, Mieter:innenschutz und Facility Management (ÖSM/FM) - gewählt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Priorität der Fraktion der CDU - (offen)
+- TOP 10.1.1: Einwohner*innenantrag: Kaskelkiez für Menschen statt Durchgangsverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 10.1.2: Kiezblocks kritisch prüfen - Gerichtsverfahren vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 10.1.3: Sperrung der Stadthausstraße vorläufig aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.1.4: Kiezgewerbe stärken: Wirtschaftsförderung für den Kaskelkiez - überwiesen
+- TOP 10.1.5: Einwohnerantrag Kaskelkiez - überwiesen
+- TOP 10.2: Priorität der Fraktion Die Linke - (offen)
+- TOP 10.2.1: Familiengutscheine für alle Lichtenberger Familien - überwiesen
+- TOP 10.3: Priorität der Fraktion der SPD - (offen)
+- TOP 10.3.1: Unterstützung Aikido- und Judo-Gruppe - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - erledigt
+- TOP 12: VzK/Aufhebungsanträge - erledigt
+- TOP 13: Geschäftliche Mitteilungen des Vorstandes - erledigt
+- TOP 14: Vertagte Verhandlungsgegenstände - (offen)
+- TOP 14.1: Priorität der Fraktion der AfD - (offen)
+- TOP 14.1.1: Endlich für Sicherheit in der Siedlung „Mein Falkenberg“ sorgen - Schluss mit Verantwortungsdiffusion! - vertagt
+- TOP 14.2: Priorität der Fraktion Bündnis 90/ Die Grünen - erledigt
+- TOP 14.2.1: Bezahlkarte - vertagt
+- TOP 14.3: Priorität der Fraktion des BSW - (offen)
+- TOP 14.3.1: Übermittlungssperre für persönliche Daten an die Bundeswehr ermöglichen - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Umsetzungsstand StEP Wohnen 2030 in Lichtenberg - vertagt
+- TOP 16: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 16.1: Ein größerer und grünerer Tuchollaplatz im Kaskelkiez - vertagt
+- TOP 16.2: Baustellenkoordination reformieren - vertagt
+- TOP 17: Anträge zur Beschlussfassung - (offen)
+- TOP 17.1: Zwischennutzung Garagenstandort Arnimstraße ermöglichen - vertagt
+- TOP 17.2: Cannabis legal konsumieren - Jugendliche schützen - vertagt
+- TOP 17.3: Ausflüge für Schulklassen und Kitagruppen vereinfachen - vertagt
+- TOP 17.4: Wohnungslosigkeit abwenden – Hilfe für Bewohner der Garten- und Siedlungsanlage Falkenhöhe - vertagt
+- TOP 17.5: Tierthik/Tierrechte in die Schule - vertagt
+- TOP 17.6: Besserer Bolzplatz für den Grünen Campus Malchow - vertagt
+- TOP 17.7: Entscheidung zum Drehscheibenschulstandort jetzt! - vertagt
+- TOP 17.8: Lichtenberg setzt als Berliner Modellbezirk verpflichtende Arbeit für Asylbewerber nach § 5 des Asylbewerberleistungsgesetzes um - vertagt
+- TOP 17.9: Abschlag auf Wohngeld zahlen - vertagt
+- TOP 17.10: Arnimstraße / Gehrenseebrücke – Klarheit im Verkehr schaffen – Nebenstraße entlasten - vertagt
+- TOP 17.11: Neustart eines jährlichen Liedersommers im Stadtpark Lichtenberg - vertagt
+- TOP 17.12: Mülleimer im Bereich Hohenschönhauser Straße / Weißenseer Weg aufstellen - vertagt
+- TOP 17.13: Überquerung der Straße „Am Tierpark“ am Bärenschaufenster sicherer gestalten - vertagt
