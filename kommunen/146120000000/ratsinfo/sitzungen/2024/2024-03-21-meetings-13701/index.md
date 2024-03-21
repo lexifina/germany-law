@@ -1,0 +1,65 @@
+# 60. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-03-21T16:00:00+01:00
+- Ende: 2024-03-21T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13701
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13701
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00742730.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Aktuelle Stunde zum Thema „Bezahlkarte für Asylbewerber“ - erledigt
+- TOP 4: Dresden als Modellregion: Bezahlkarte statt Bargeld, Sachleistungsprinzip für Asylbewerber konsequent umsetzen - Zustimmung
+- TOP 5: Aktuelle Stunde zum Thema „TSMC-Ansiedlung bereits jetzt zum Erfolg machen: Kurz-, mittel- und langfristige Chancen und Herausforderungen anpacken." - erledigt
+- TOP 6: Großansiedlung zum Erfolg für alle machen: Gewerbeflächen mit Nachbargemeinden entwickeln, Verdrängung lokaler Gewerbe vermeiden, Unterstützungsprogramm für ansässige Wirtschaft entwickeln - punktweise Zustimmung mit Änderung
+- TOP 7: TSMC-Ansiedelung in Klotzsche: Verdrängung des Mittelstands vermeiden - Ablehnung
+- TOP 8: Gewerbeansiedlungen aktiv gestalten - Zustimmung mit Ergänzung
+- TOP 9: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 10: Abschluss einer Finanzierungsvereinbarung „Verlustausgleich Dresdner Verkehrsbetriebe AG“ zwischen der Landeshauptstadt Dresden, der Technische Werke Dresden GmbH und der Dresdner Verkehrsbetriebe AG - Zustimmung
+- TOP 11: Abschluss einer Finanzierungsvereinbarung „Altverbindlichkeiten“ zwischen der Technische Werke Dresden GmbH und der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Anteilige Finanzierung von Wohnbauvorhaben der WiD Wohnen in Dresden GmbH & Co. KG durch die Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 13: Erlass der Satzung der Landeshauptstadt Dresden über die Durchführungen einer Kommunalstatistik zur Erhebung von Daten für die Erstellung des qualifizierten Dresdner Mietspiegels (Mietspiegel-Satzung) - Zustimmung
+- TOP 14: Satzung der Landeshauptstadt Dresden über Stellplätze und Abstellplätze für Fahrräder (Stellplatz- und Fahrradabstellplatzsatzung - SteFaS) - Verweisung
+- TOP 15: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Satzung Straßenkunst) - Zustimmung mit Ergänzung
+- TOP 16: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Satzung Straßenkunst) - Ablehnung
+- TOP 17: Vertagungen aus der Sitzung 29.02.2024 - erledigt
+- TOP 17.1: Entwicklungskonzept für Skateanlagen in der Landeshauptstadt Dresden (Skatekonzept Dresden) - Zustimmung mit Ergänzung
+- TOP 17.2: Zugänglichkeit und Ausweitung des Dresden-Passes - Vertagung durch Einreicher
+- TOP 17.3: Kommunalen Einfluss bei Quartiersentwicklung „Alter Leipziger Bahnhof“ sicherstellen - Ablehnung
+- TOP 17.4: Gewährleistung der Aufkommensneutralität der Grundsteuergesamteinnahmen in Umsetzung der Grundsteuerreform - Zustimmung
+- TOP 17.5: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 17.6: Zukunft beginnt jetzt und braucht Vision: Erarbeitung einer „Strategie Leistungssport in Dresden 2030“ - punktweise Abstimmung mit Ersetzung
+- TOP 17.7: Verkehrsversuch Radwege auf dem Blauen Wunder - Ablehnung
+- TOP 17.8: Überprüfung der Partyveranstaltungen des Oberbürgermeisters durch das Rechnungsprüfungsamt - Zustimmung
+- TOP 17.9: Rechnungsprüfung Veranstaltung „nachtschicht_18“ im Rathaus - Zustimmung
+- TOP 17.10: Aufhebung des Beschlusses P0091/21 "Dresden soll sicherer Hafen werden!" - Ersetzung
+- TOP 17.11: Fuß- und Radwegbeleuchtung am Dresdner Elbradweg verbessern bzw. schaffen - Vertagung nach 21 Uhr
+- TOP 17.12: Datenschutzwidrige Nutzung städtischer Facebook-Auftritte beenden - Vertagung nach 21 Uhr
+- TOP 17.13: Das Stauseebad Cossebaude erhalten. Eine Perspektive für das Pumpspeicherwerk Niederwartha entwickeln. - Zustimmung mit Änderung
+- TOP 17.14: Zukunft des Pumpspeicherwerks Niederwartha und des Stauseebads Cossebaude - Zustimmung mit Änderung
+- TOP 17.15: Für eine saubere Stadt! Graffiti-Schmierereien beseitigen - Vertagung nach 21 Uhr
+- TOP 17.16: Gefährdung für Beschäftigte der Landeshauptstadt Dresden neu bewerten - Vertagung nach 21 Uhr
+- TOP 17.17: Neue Multifunktionsarena für Spitzensport und Spitzenveranstaltungen - Margon Arena für Breitensport sanieren - Vertagung nach 21 Uhr
+- TOP 17.18: Einbürgerungsverfahren verbessern und beschleunigen - Vertagung nach 21 Uhr
+- TOP 18: Satzung über den Klimabeirat der Landeshauptstadt Dresden (Klimabeiratssatzung) - Vertagung nach 21 Uhr
+- TOP 19: Fortschreibung Bäderkonzept 2025/2030 - Vertagung
+- TOP 20: Investitionsförderung von lokal agierenden Klein- und Kleinstunternehmen in den EFRE-Fördergebieten der Stadtteilentwicklungsprojekte „Dresden Südwest/Cottaer Bogen“ und „Johannstadt/Pirnaische Vorstadt 2“ - Zustimmung
+- TOP 21: Dresdner Straßen- und Stadtteilfeste erhalten - Vertagung nach 21 Uhr
+- TOP 22: Vonovia-Erwerb für kleingenossenschaftliche Mietmodelle nutzen! - Vertagung durch Einreicher
+- TOP 23: Für ein schönes Bahnhofsumfeld – Vorplatz Hauptbahnhof Ost neu gestalten - Vertagung nach 21 Uhr
+- TOP 24: Zustand der Dresdner Brücken - Vertagung nach 21 Uhr
+- TOP 25: Fortführung der Planung des Promenadenrings zwischen Dr.-Külz-Ring, Rathausplatz und Kreuzstraße (Promenadenring Süd-Ost) sowie zwischen Pirnaischem Platz, Akademiestraße und Elbe (Promenadenring Nord-Ost) - Vertagung nach 21 Uhr
+- TOP 26: Fahrradflundern für Dresden – unkomplizierte Bedarfsermittlung für Fahrrad-Stellplätze - Vertagung nach 21 Uhr
+- TOP 27: Begrünung verstetigen und Aufenthaltsqualität vor dem Kulturpalast verbessern - Vertagung nach 21 Uhr
+- TOP 28: Ja zu den Filmnächten am Elbufer - Vertagung
+- TOP 29: Entwicklung der Schulbibliotheken fortsetzen - Vertagung nach 21 Uhr
+- TOP 30: Bewerbung der Landeshauptstadt Dresden um die Austragung des Supercups im Frauenfußball - Zustimmung
+- TOP 34: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2023 - erledigt
+- TOP 35: Tanzplattform Deutschland 2026 - erledigt
