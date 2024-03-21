@@ -1,0 +1,121 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2024-03-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8031920
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8031920
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse; Frist: 03.05.2024
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 5.1.: Benennung der/des stellvertretenden Vorsitzenden des Unterausschusses Mobilität und öffentlicher Raum
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Vorstellung St.-Lukas-Kirche Innensanierung und WC-Anbau
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Baumpflanzung Müllerstraße 30/32
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Hochbrückenstr. 20 Sanierung eines Wohnhauses, Dachgeschossausbau sowie Nutzungsänderung eines Speichers zu Wohnung, Anbau einer Balkonanlage vom EG bis 3.OG - ÄNDERUNGSANTRAG zu 1.2-2022-13342-21; Frist: 23.03.2024
+- TOP 3.1.2.: Neuhauser Str. 20 Aufteilung eines bestehenden Kaufhauses in zwei separate Einheiten durch Teilabbruch der Bestandsbrücke im 1. OG und Schließen des Durchgangs im UG, Umbau und Nutzungsänderung der Einheit Neuhauser Str. 20 zu einem Gebäude mit Büro-, Gastronomie- und Einzelhandelsnutzung und Errichtung von Dachterrassen - ÄNDERUNGSANTRAG zu 1.111-2021-24039-21; Frist: 26.03.2024
+- TOP 3.1.3.: Liebigstr. 24 Vordergebäude: Aufstockung des Bestands mit einem Vollgeschoss und Dachgeschoss, Anbau von Balkonen und Vorbau, Änderung der Fassaden und Grundrisse, Rückgebäude: Teilabriss des Bestands, Zusammenlegung von 3 Wohneinheiten zu 1 Wohneinheit sowie Errichten einer Garage, Änderung der Fassaden / ÄNDERUNGSANTRAG zu 1.23-2023-2969-21 - hier RGB: Änderung Parksystem, Teilunterkellerung, Änderung Dachform; Frist: 07.04.2024
+- TOP 3.1.4.: Sendlinger Str. 54 Ausbau und Dachaufstockung VGB zu 2 Wohneinheiten sowie Nachverdichtung RGB / Innenhof zu 5 Wohneinheiten - ÄNDERUNGSANTRAG zu 1.23-2022-23379-21; Frist: 07.04.2024
+- TOP 3.1.5.: Blumenstr. 4 Nutzungsänderung einer Verkaufsfläche zu Café und Restaurant sowie Erweiterung eines Wirtsgartens; Frist: 07.04.2024
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Gewürzmühlstr. 8: Antrag auf Fällung eines Silberahorns und 3 Robinien; Frist: 25.03.2024
+- TOP 3.2.2.: PERSPEKTIVE MÜNCHEN, Entwurf des Stadtentwicklungsplans STEP2040, Sitzungsvorlage Nr. 20-26 / V 10661, Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung (Termin: 09.04.2024)
+- TOP 3.2.3.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien; Frist: 09.04.2024
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Pilotprojekt gelbe Systeme
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Einrichtung eines Fahrradweges für das Luitpold-Gymnasium, TOP 2024.02 A 3
+- TOP 1.2.: Bürger*innenanliegen Einrichtung eines verkehrsberuhigten Bereiches in der Seeaustraße, TOP 2024.02 A 3
+- TOP 1.3.: Bürger*innenanliegen kaputtes Fahrrad Altheimer Eck und Personal Stadtverwaltung, TOP 2024.02 A 3
+- TOP 1.4.: Bürger*innenanliegen Beschwerde Filmcasino
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Tram 16: Verspätung durch Falschparker
+- TOP 2.2.: (E) Rückbau des Platzes vor Thierschstraße 14 zur Platzanlage
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Projekt am Max-Joseph-Platz, TOP 2024.02 C 3.2.3, Frist: 03.04.2024
+- TOP 3.2.2.: MVG-Leistungsprogramm 2025; Frist: 19.04.2024
+- TOP 3.2.3.: Rad-Bus-Spur auf der Luitpoldbrücke, Antrag des BA 5
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Aufstellen eines Bücherschrankes im nördlichen Lehel - weiteres Vorgehen + Alternativen
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen: Temporärer Spielplatz St. Lukas Kirche
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Init. "Zeitbilder" Zeitbilder: Es war einmal und ist noch heut! Kunstausstellung & Begleitprogramm vom 28.03. -09.04.2024 1.630,00€; Az. 0262.0-1-0363
+- TOP 2.1.2.: (E) Stadtbezirksbudget Zamanand gUG Kinderbereich der Zamanand Festivals am 01./02.06. und 14./15.09.2024 3.000,00 Euro, Az.: 0262.0-1-0364
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Infoveranstaltung zum Tag gegen den Lärm am 20.04.2024 (Termin: 05.04.2024)
+- TOP 3.2.: Auftakt Impfwoche am Karlsplatz am 18.07.2024 gem. §29 der StVO (Termin: 28.03.2024)
+- TOP 3.3.: Strandveranstaltung „Isarflimmern“ an der Steinsdorfstraße vom 17.05. – 25.08.2024 (Termin: 15.04.2024)
+- TOP 3.4.: Lesung aus verbrannten Büchern am 10.05.2024 auf dem sog. Odeonsplatz (Termin: 02.04.2024)
+- TOP 3.5.: SportScheck RUN 30.06.2024 Leopold-/Martius-/Thiemestr. (Geschw.-Sch.-/Prof.-Huber-Pl./Ludwigstr.) (Termin: 03.04.2024)
+- TOP 3.6.: Lange Nacht der Musik am 11.05.2024 auf dem sog. Odeonsplatz (Termin: 03.04.2024)
+- TOP 3.7.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025; Frist: 10.06.2024
+- TOP 3.8.: Griech. orthodoxe Karfreitagsprozession, Auferstehungsfeier Salvatorpl. bis Marienplatz am 03. und 04.05.2024 (Termin: 05.04.2024)
+- TOP 3.9.: Infoveranstaltung mit Sammlung BRH Rettungshundestaffel am 06.04.2024 auf dem sog. Odeonsplatz (Termin: 28.03.2024)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Flussrunde - Aktualisierung Protokoll zum Auftakttermin 24.01.2024 und Zusammenfassung Rückmeldungen
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP B 4.4.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, TOP 2024.01 B 4.5, Antwortschreiben Baureferat
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Fußgängerquerung Ludwigsstraße / Von-der-Tann-Straße
+- TOP C 4.3.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar „Natürlich Isar“ Sachstandsbericht und weiteres Vorgehen
+- TOP C 4.4.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP C 4.5.: Brunnen Isartorplatz, TOP 2023.05 C 1.13, Antwortschreiben Baureferat
+- TOP C 4.6.: Fahrradabstellmöglichkeiten vor dem Edeka (Liebigstr./Seitzstr.) im mittleren Lehel/Baumpflanzungen im Lehel, TOP 2024.01 C 1.1, Antwortschreiben Baureferat
+- TOP C 4.7.: Tramausbauprojekt „ Maxmonument“, TOP 2023.08 C 0.1, Antwortschreiben SWM
+- TOP C 4.8.: Bürger*innenanliegen Fahrradstellplätze Oettingenstr. 8, TOP 2023.03 C 1.2, Antwortschreiben Baureferat
+- TOP C 4.9.: Bürger*innenanliegen elektronische Zeitanzeige, Haltestelle Reitmorstraße/Sammlung Schack, TOP 2024.01 C 1.4, Antwortschreiben SWM
+- TOP C 4.10.: Bürger*innenanliegen Verkehrsfluss Liebigstraße, TOP 2022.07 C 1.1, Schreiben Mobilitätsreferat
+- TOP C 4.11.: Verkehrliche Entlastung der Liebigstraße, TOP 2021.12 C 0, Antwortschreiben Mobilitätsreferat
+- TOP C 4.12.: Bürger*innenanliegen Einrichtung eines Radwegs, Bepflanzung und Durchfahrt der Sternstraße, TOP 2021.09 C 1.2, Antwortschreiben Mobilitätsreferat
+- TOP C 4.13.: Stachus: bitte den Radweg beim Übergang farblich markieren, Schreiben Mobilitätsreferat
+- TOP C 4.14.: Bürger*innenanliegen Vorschlag für „Pilotprojekt - Zukunft Stadt“ in der Müllerstrasse, Beschluss des BA 2
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Versammlungen unter freiem Himmel
+- TOP D 4.5.: Informationsschreiben bezüglich mobiler Kunst - Spiel - Aktionen
+- TOP 4.2.: Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2024 bis 2028, Frist: 29.04.2024
+- TOP 1.5.: Bürger*innenanliegen Müll im Durchgangsbereich Thomas-Wimmer-Ring/Herrnstraße/Alte Stadtmauer
+- TOP 1.6.: Bürger*innenanliegen Unhaltbare Verkehrssituation für Fahrradfahrer*innen, Fußgänger*innen, Anwohner*innen Oettingenstraße und Widenmayerstraße
+- TOP 2.3.1.: (E) Ausführliche Information von der Stadtregierung zur Umwandlung des Gewerbes im Tal 38 in Gastronomie
+- TOP 3.10.: Vorab-Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; in städtischen Grünanlagen und auf Privatgrund, Hier: Streckenänderung München Marathon am 13.10.2024 (Termin: 04.04.2024)
+- TOP 3.1.1.: Lieferzone Kreuzstraße 17-19; Frist: 12.04.2024
+- TOP 1.7.: Bürger*innenanliegen Abfallbehälter Westenriederstraße
+- TOP 1.8.: Antrag des UA MÖR: Fußgängerquerung Stachus / Prielmayerstraße
