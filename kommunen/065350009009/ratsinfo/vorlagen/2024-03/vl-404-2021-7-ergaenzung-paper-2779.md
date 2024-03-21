@@ -1,0 +1,25 @@
+# Vorstudie zur Reaktivierung der Ohmtalbahn
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-404/2021 7. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-03-21
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQIihrkEePD6K2CrMhhcWKk
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2779
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Vorstudie zur Reaktivierung der Ohmtalbahn) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUdy4jFca7PWNlA2Qa4i1YxWmoG_sgwewi38tzQlsqvN/Beschlussvorlage_VL-404-2021_7._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (B-Plan BPlan Radweg auf ehemaliger Bahntrasse Ober-Ofleiden bis Krebsbachbrücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW0zNaqzCEkNPlAWUttn40TJCAyskrU-mVUbJ_dbN8ux/B-Plan_BPlan_Radweg_auf_ehemaliger_Bahntrasse_Ober-Ofleiden_bis_Krebsbachbruecke.pdf
+- Anlage: Beschlussvorlage (TF BPlan Radweg auf ehemaliger Bahntrasse Ober-Ofleiden bis Krebsbachbrücke) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdFj0fGnytrS1ysd03Myd_3Xg7dRXi8jW1FwI5_m-mN/TF_BPlan_Radweg_auf_ehemaliger_Bahntrasse_Ober-Ofleiden_bis_Krebsbachbruecke.pdf
+- Anlage: Beschlussvorlage (Vorstudie Reaktivierung Ohmtalbahn_FINAL) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYw9Gxj1uuIcxtUfjlDnMPAf1CQ6gYII1kQ3g320FH1C/Vorstudie_Reaktivierung_Ohmtalbahn_FINAL.pdf
+- Anlage: Beschlussvorlage (Antrag SPD - Änderung der Planung Radweg auf der ehemaligen Bahntrasse) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV7s2iDEhmdMxwCbfILcsJERUv7B4QMzmkK4B0SqJGPW/Antrag_SPD_-_Aenderung_der_Planung_Radweg_auf_der_ehemaligen_Bahntrasse.pdf
+- Anlage: Beschlussvorlage (Anlage zum Antrag der SPD.docx) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSVwaGeizET3sgpQ7HbMcfxBlYEXUBO0vnNU9ufkFtb5/Anlage_zum_Antrag_der_SPD.docx.pdf
+- Anlage: Beschlussvorlage (Problempunkte Reaktivierung der Ohmtalbahn oder Bau eines Radweges auf der ehemaligen Bahntrasse) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZft905q69VaZYL8pbHPyHOFQpBW63gfRbi8sl3BU7rjT/Problempunkte_Reaktivierung_der_Ohmtalbahn_oder_Bau_eines_Radweges_auf_der_ehemaligen_Bahntrasse.pdf
+- Anlage: Beschlussvorlage (VL 404-2021, 6.Erg.  Anlage - Neuer Sachverhalt) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcmBNowQHQbEcSq1sPLZGO03z6rk8CqNwylIDEQ2ERQq/VL_404-2021-_6.Erg.__Anlage_-_Neuer_Sachverhalt.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/862 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/919 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/971 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/975 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/989 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1195 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1208 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-17
