@@ -1,0 +1,96 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-03-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894231
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894231
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 27.02.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 27.02.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Helmut-Dietl-Straße
+- TOP 2.2.: Antrag auf Aufstellung eines Kreislaufschranks am Grünen Markt
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Anzinger Str. 29 - Neubau eines Büro- und Verwaltungsgebäudes mit Tiefgarage (1. UG), Nebenräumen (2. UG), Kinderkrippe und einer Mitarbeiterkantine (EG) <> - ÄNDERUNGSANTRAG zu 1.1-2020-26259-32
+- TOP 3.1.2.: Mühldorfstr. 15 - Abbruch Bestandsgebäude und Errichtung Ersatzgebäude für Büro- und Verwaltung, Labor-, Forschungs- und Entwicklungsflächen mit Tiefgarage - (Ampfingstr. 33 / Mühldorfstr. 15 / Trausnitzstr. 6) - VORBESCHEID - vertagt aus der Plenumssitzung vom 27.02.2024 -
+- TOP 3.1.3.: Annabrunner Str. 7 - Neubau eines Mehrfamilienhauses mit 7 WE und Tiefgarage
+- TOP 3.1.4.: Schildensteinstr. 15 - ÄNDERUNGSANTRAG zu 1.1-2023-17619-32 Offenbarungskirche, Neubau Pfarramt, Gemeinderäume, Jugendraum, Pfarrwohnung, Apartment und zwei Wohngruppen der Diakonie mit je 6 Apartments für Menschen mit Epilepsie
+- TOP 3.1.5.: Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses
+- TOP 3.1.6.: Michaeliburgstr. 12 - Neubau eines Zweifamilienhauses (2WE) und einer Einzelgarage
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Parkverbot am Haus für Kinder "Bach-Spiel-Haus" Hachinger-Bach-Straße 11, siehe TOP 4.2.4; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: MVG-Leistungsprogramm 2025; Anhörung der MVG
+- TOP 3.2.3.: Absenkung der Bordsteinkanten des Überweges über die Heinrich-Wieland-Str. zwischen Michaeliburgstr. und Eingang Michaelibad auf Fahrbahnhöhe; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Parkende Autos vor dem abgesenkten Bordstein in der Pertisaustr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.5.: PERSPEKTIVE MÜNCHEN, Entwurf des Stadtentwicklungsplans STEP2040, „München – Stadt im Gleichgewicht“; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien; Anhörung des Referats für Bildung und Sport
+- TOP 3.3.2.: "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget AKA - Aktiv für interKulturellen Austausch e.V. Formularservice - Unterstützung von Bürger*innen beim Ausfüllen von Anträgen und Formularen vom 01.03. bis 31.12.2024 2.106,50 Euro; Az. 0262.0-14-0393
+- TOP 3.5.2.: Neues Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 3.5.3.: Termine für BA-Sitzungen und BV 2025
+- TOP 3.5.4.: Kalkulation Kinderfest 2024
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Mühldorfstr. 15
+- TOP 3.6.2.: Annabrunner Str. 7
+- TOP 3.6.3.: Kranzhornstr. 9
+- TOP 3.6.4.: Bepflanzung der Baumscheiben in der Hermann-Weinhauser-Str.; Anliegen aus der Bürgerschaft
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Februar 2024
+- TOP 4.1.2.: Baumbilanz für das Werksviertel
+- TOP 4.1.3.: Transparenz bei Baumaßnahmen an Spielplätzen und Freizeitflächen
+- TOP 4.1.4.: Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Erfassung und Nachverfolgung der verfügbaren Parkplätze im öffentlichen Straßenraum
+- TOP 4.2.2.: Weitere Planungen für die Kreillerstraße/Berg-am-Laim-Straße/Wasserburger Landstraße (B304): Bürgerbefragung zugrunde legen!
+- TOP 4.2.3.: Antrag: Bürger*innenbeirat zur Verkehrsentwicklung im Münchner Osten
+- TOP 4.2.4.: Hachinger-Bach-Straße 11; Hol- und Bringzone für die Kindertagesstätte – eingeschränktes Haltverbot mit Zeitzusatz
+- TOP 4.2.5.: Maria-Eck-Platz/ Siegsdorfer Straße; Gefahrzeichen Kinder
+- TOP 4.2.6.: Baustelleneinrichtung und Zufahrt in die Grünanlage Echardinger Grünstreifen
+- TOP 4.2.7.: Machbarkeitsstudie zur Installation eines Aufzugs an der U-Bahn Haltestelle Michaelibad, Schreiben des FAK Mobilität des Behindertenbeirats
+- TOP 4.2.8.: Josephsburgstraße 69-71; Verlegung und Verkürzung der Haltverbotzone
+- TOP 4.2.9.: Verständigungsdienst „Straßenzug „St.-Veit-Straße" - Geschwindigkeitsbegrenzung auf 30 km/h mit Begründung Verkehrslärmschutz
+- TOP 4.2.10.: Absolutes Haltverbot in der Piusstr. teils mit Zusatz „Feuerwehrzufahrt“
+- TOP 4.2.11.: Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" a) Aufhebung der Sanierungssatzung über die förmliche Festlegung des Sanierungsgebietes "Innsbrucker Ring / Baumkirchner Straße" b) Treuhändertätigkeit der Münchner Gesellschaft für Stadterneuerung mbH im Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" Stadtbezirk 14 - Berg-am-Laim Stadtbezirk 16 - Ramersdorf-Perlach
+- TOP 4.2.12.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 4.2.13.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 4.2.14.: Arbeiten im Straßenraum, Truderinger Str. 41-47, Vollsperre der Unterführung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Antwortschreiben des RBS auf Bürgeranfragen zum neuen Defizitausgleichsmodell
+- TOP 4.3.2.: Vorschlag über eine Räumlichkeit vom BA 5 für die Künstlergruppe
+- TOP 4.3.3.: Rückmeldung über eine Räumlichkeit vom BA 16 für die Künstlergruppe
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Modernes Seniorenwohnen an der Truderinger Straße!, Beschlussvorlage sowie den eingereichten Änderungsantrag
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Neumarkter Str. 66
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.5.5: Europawahl 2024 - Wahlbezirke und Wahlräume im Stadtbezirk 14; Anhörung des Kreisverwaltungsreferats
+- TOP 3.5.5.: Europawahl 2024 - Wahlbezirke und Wahlräume im Stadtbezirk 14; Anhörung des Kreisverwaltungsreferats
