@@ -1,0 +1,160 @@
+---
+ecli: "ECLI:DE:BGH:2024:260324VIaZR3.23.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-06a"
+aktenzeichen: "VIa ZR 3/23"
+decided: "2024-03-26"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2024&Sort=1&Seite=33&nr=137492&anz=3636&pos=996&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-06a_NA_2024-03-26_VIa_ZR_3_23_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0031.md", "germany/bund/acts/bgb/0823.md", "germany/bund/acts/bgb/0826.md", "germany/bund/acts/zpo/0128.md", "germany/bund/acts/zpo/0561.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VIa ZR 3/23 vom 2024-03-26
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+                                URTEIL
+VIa ZR 3/23
+
+                                                   Verkündet am:
+                                                   26. März 2024
+                                                   Neumayer
+                                                   Justizangestellte
+                                                   als Urkundsbeamtin
+                                                   der Geschäftsstelle
+
+                             in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2024:260324UVIAZR3.23.0
+
+                                             -2-
+
+    Der VIa. Zivilsenat des Bundesgerichtshofs hat im schriftlichen Verfahren gemäß
+    § 128 Abs. 2 ZPO, in dem Schriftsätze bis zum 8. März 2024 eingereicht werden
+    konnten, durch die Richterin am Bundesgerichtshof Dr. C. Fischer als Vorsitzende, die
+    Richterin Dr. Krüger, den Richter Dr. Götz, die Richterin Dr. Vogt-Beheim und den
+    Richter Dr. Katzenstein
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Klägerin wird der Beschluss des 1. Zivilsenats des
+          Oberlandesgerichts Nürnberg vom 13. Dezember 2022 im Kostenpunkt
+          und insoweit aufgehoben, als die Berufungsanträge zu I, zu III und zu IV
+          zurückgewiesen worden sind.
+
+          Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und
+          Entscheidung, auch über die Kosten des Revisionsverfahrens, an das
+          Berufungsgericht zurückverwiesen.
+
+          Der Streitwert für die Revision wird auf bis 25.000 € festgesetzt.
+
+                                     Von Rechts wegen
+
+
+
+
+                                         Tatbestand:
+
+1         Die Klägerin nimmt die Beklagte wegen der Verwendung unzulässiger
+    Abschalteinrichtungen in einem Kraftfahrzeug in Anspruch.
+
+2         Die Klägerin erwarb am 14. Mai 2020 einen von der Beklagten hergestellten,
+    gebrauchten BMW 320d, der mit einem von der Beklagten hergestellten Dieselmotor
+    der Baureihe B47 (Schadstoffklasse Euro 6) ausgerüstet ist.
+
+3         Das Landgericht hat die auf Zahlung von Schadensersatz in Höhe des Kaufpreises abzüglich des Werts der gezogenen Nutzungen nebst Zinsen und Deliktszinsen Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs, Feststellung
+    des Annahmeverzugs und die Freistellung von vorgerichtlichen Rechtsanwaltskosten
+
+                                              -3-
+
+    gerichtete Klage abgewiesen. Die Berufung der Klägerin ist erfolglos geblieben. Mit
+    der vom Senat nur im Umfang der tenorierten Aufhebung zugelassenen Revision verfolgt die Klägerin ihre Berufungsanträge abgesehen von dem Deliktszinsen betreffenden Antrag weiter.
+
+
+                                     Entscheidungsgründe:
+
+4           Die Revision der Klägerin hat Erfolg.
+
+                                                    I.
+
+5           Das Berufungsgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:
+
+6           Der Klägerin stehe kein Anspruch aus §§ 826, 31 BGB zu. Denn bei einer im
+    gewöhnlichen Fahrbetrieb wie auch im Betrieb auf dem Prüfstand arbeitenden Einrichtung, wie etwa dem Thermofenster, bedürfe es zur Begründung der Sittenwidrigkeit
+    besonderer Umstände. Solche habe die darlegungspflichtige Klägerin nicht hinreichend vorgetragen, insbesondere nicht, dass die Beklagte das Kraftfahrt-Bundesamt
+    durch bewusst falsche Angaben im Verfahren der EG-Typgenehmigung getäuscht
+    habe.
+
+7           Ebenso wenig stehe der Klägerin ein Schadensersatzanspruch gemäß § 823
+    Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV zu, weil in den genannten Bestimmungen jedenfalls bezogen auf den hier geltend gemachten Schaden keine
+    Schutzgesetze lägen.
+
+                                                    II.
+
+8           Diese Erwägungen halten der Überprüfung im Revisionsverfahren teilweise
+    nicht stand.
+
+9           1.     Zwar begegnen die von der Klägerin angegriffenen Erwägungen, auf die
+    das Berufungsgericht die Verneinung eines Schadensersatzanspruchs gemäß §§ 826,
+    31 BGB gestützt hat, mit Rücksicht auf die höchstrichterlich geklärten Maßstäbe für
+    Einrichtungen der Emissionskontrolle ohne Prüfstandsbezug einerseits (vgl. etwa
+    BGH, Beschlüsse vom 19. Januar 2021 - VI ZR 433/19, NJW 2021, 921 Rn. 16 ff. und
+
+                                              -4-
+
+     vom 9. März 2021 - VI ZR 889/20, NJW 2021, 1814 Rn. 26 ff.) und für die an den
+     Klägervortrag zu stellenden Anforderungen andererseits (vgl. etwa BGH, Urteil vom
+     13. Juli 2021 - VI ZR 128/20, VersR 2021, 1252 Rn. 20 ff.; Beschluss vom 4. Mai 2022
+     - VII ZR 733/21, juris Rn. 20 f.) keinen revisionsrechtlichen Bedenken.
+
+10         2.     Die Revision wendet sich jedoch mit Erfolg dagegen, dass das Berufungsgericht eine Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 6
+     Abs. 1, § 27 Abs. 1 EG-FGV abgelehnt hat. Wie der Senat nach Erlass des angefochtenen Beschlusses entschieden hat, sind die Bestimmungen der § 6 Abs. 1, § 27
+     Abs. 1 EG-FGV Schutzgesetze im Sinne des § 823 Abs. 2 BGB, die das Interesse des
+     Fahrzeugkäufers gegenüber dem Fahrzeughersteller wahren, nicht durch den Kaufvertragsabschluss eine Vermögenseinbuße im Sinne der Differenzhypothese zu erleiden, weil das Fahrzeug entgegen der Übereinstimmungsbescheinigung eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 Satz 1 der Verordnung (EG)
+     Nr. 715/2007 aufweist (vgl. BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ
+     237, 245 Rn. 29 bis 32).
+
+11         Das Berufungsgericht hat daher zwar zu Recht einen Anspruch der Klägerin auf
+     die Gewährung sogenannten "großen" Schadensersatzes verneint (vgl. BGH, Urteil
+     vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 22 bis 27). Es hat jedoch nicht
+     berücksichtigt, dass der Klägerin nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1,
+     § 27 Abs. 1 EG-FGV ein Anspruch auf Ersatz eines erlittenen Differenzschadens zustehen kann (vgl. BGH, Urteil vom 26. Juni 2023, aaO, Rn. 28 bis 32; ebenso BGH,
+     Urteile vom 20. Juli 2023 - III ZR 267/20, WM 2023, 1839 Rn. 21 ff.; - III ZR 303/20,
+     juris Rn. 16 f.; Urteil vom 12. Oktober 2023 - VII ZR 412/21, juris Rn. 20). Demzufolge
+     hat das Berufungsgericht - von seinem Rechtsstandpunkt aus folgerichtig - weder der
+     Klägerin Gelegenheit zur Darlegung eines solchen Schadens gegeben, noch hat es
+     Feststellungen zu einer deliktischen Haftung der Beklagten wegen des zumindest fahrlässigen Einbaus einer unzulässigen Abschalteinrichtung getroffen.
+
+                                               III.
+
+12         Die Berufungsentscheidung ist demnach im tenorierten Umfang aufzuheben
+     (§ 562 Abs. 1 ZPO), weil sie sich insoweit auch nicht aus anderen Gründen als richtig
+     darstellt (§ 561 ZPO). Die Sache ist zur neuen Verhandlung und Entscheidung an das
+
+                                        -5-
+
+Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO). Das Berufungsgericht wird auf der Grundlage der mit Urteil des Senats vom 26. Juni 2023 in der Sache
+VIa ZR 335/21 aufgestellten Grundsätze die erforderlichen Feststellungen zu einer
+Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27
+Abs. 1 EG-FGV zu treffen haben, nachdem es der Klägerin Gelegenheit gegeben hat,
+den Differenzschaden zu berechnen und dazu vorzutragen.
+
+
+C. Fischer                             Krüger                                   Götz
+
+
+                 Vogt-Beheim                              Katzenstein
+
+
+
+
+Vorinstanzen:
+LG Nürnberg-Fürth, Entscheidung vom 18.08.2022 - 6 O 1679/22 -
+OLG Nürnberg, Entscheidung vom 13.12.2022 - 1 U 2662/22 -
