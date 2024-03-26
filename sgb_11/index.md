@@ -272,7 +272,7 @@ Pflegeleistungen
 ### Sechster Abschnitt (weggefallen)
 
 
-## Neuntes Kapitel Datenschutz und Statistik
+## Neuntes Kapitel Datenschutz, Statistik und Interoperabilität
 
 
 ### Erster Abschnitt Informationsgrundlagen
@@ -299,6 +299,7 @@ Pflegekassen
 - [§ 101 Pflegeversichertennummer](0101.md)
 - [§ 102 Angaben über Leistungsvoraussetzungen](0102.md)
 - [§ 103 Kennzeichen für Leistungsträger und Leistungserbringer](0103.md)
+- [§ 103a IT-Sicherheit der Pflegekassen](0103a.md)
 
 ### Zweiter Abschnitt Übermittlung von Leistungsdaten, Nutzung der Telematikinfrastruktur
 
@@ -317,6 +318,10 @@ Pflegekassen
 ### Vierter Abschnitt Statistik
 
 - [§ 109 Pflegestatistiken](0109.md)
+
+### Fünfter Abschnitt Interoperabilität
+
+- [§ 109a Recht auf Interoperabilität](0109a.md)
 
 ## Zehntes Kapitel Private Pflegeversicherung
 

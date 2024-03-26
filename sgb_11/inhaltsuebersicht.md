@@ -269,7 +269,7 @@
 | § 92e | Verfahren für die Umrechnung |
 | § 92f | Pflichten der Beteiligten |
 | Neuntes Kapitel |
-| Datenschutz und Statistik |
+| Datenschutz, Statistik und Interoperabilität |
 |  |
 | Erster Abschnitt |
 | Informationsgrundlagen |
@@ -294,6 +294,7 @@
 | § 101 | Pflegeversichertennummer |
 | § 102 | Angaben über Leistungsvoraussetzungen |
 | § 103 | Kennzeichen für Leistungsträger und Leistungserbringer |
+| § 103a | IT-Sicherheit der Pflegekassen |
 |  |  |
 | Zweiter Abschnitt |
 | Übermittlung von Leistungsdaten, Nutzung der Telematikinfrastruktur |
@@ -313,7 +314,11 @@
 | Statistik |
 | § 109 | Pflegestatistiken |
 |  |  |
-| Zehntes Kapitel |
+| Fünfter Abschnitt |
+| Interoperabilität |
+|  |
+| § 109a | Recht auf Interoperabilität |
+|  |  |
 | Private Pflegeversicherung |
 | § 110 | Regelungen für die private Pflegeversicherung |
 | § 110a | Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben |
