@@ -47,4 +47,4 @@
 - [§ 14b](0014b.md)
 - [§ 15 (weggefallen)](0015.md)
 - [§ 16](0016.md)
-- [Anlage (zu § 3 Abs. 1 Satz 2)](anlage.md)
+- [Anlage (zu § 3 Absatz 1 Satz 2)](anlage.md)
