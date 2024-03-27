@@ -22,6 +22,7 @@
 - [§ 9 Darlegung positiver Versorgungseffekte](0009.md)
 - [§ 10 Studien zum Nachweis positiver Versorgungseffekte](0010.md)
 - [§ 11 Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen](0011.md)
+- [§ 11a Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse](0011a.md)
 - [§ 12 Nachweis für diagnostische Instrumente](0012.md)
 - [§ 13 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises](0013.md)
 - [§ 14 Begründung der Versorgungsverbesserung](0014.md)
