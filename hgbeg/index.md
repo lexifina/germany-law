@@ -266,3 +266,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Zweiundfünfzigster Abschnitt Übergangsvorschrift zum Mindestbesteuerungsrichtlinie-Umsetzungsgesetz
 
 - [Art 91](art-91.md)
+
+## Dreiundfünfzigster Abschnitt Übergangsvorschrift zum Wachstumschancengesetz
+
+- [Art 92](art-92.md)

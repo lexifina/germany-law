@@ -167,6 +167,8 @@
 | Beiträge |
 | § 54 | Grundsatz |
 | § 55 | Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung |
+| § 55a | Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung |
+| § 55b | Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern |
 | § 56 | Beitragsfreiheit |
 | § 57 | Beitragspflichtige Einnahmen |
 | § 58 | Tragung der Beiträge bei versicherungspflichtig Beschäftigten |
