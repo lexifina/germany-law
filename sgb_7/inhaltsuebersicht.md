@@ -51,7 +51,8 @@
 | § 26 | Grundsatz |
 |  |  |  |  |  | Zweiter Unterabschnitt |
 |  |  |  |  |  |  | Heilbehandlung |
-| § 27 | Umfang der Heilbehandlung |
+| § 27 | Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur |
+| § 27a | Nutzung der Telematikinfrastruktur |
 | § 28 | Ärztliche und zahnärztliche Behandlung |
 | § 29 | Arznei- und Verbandmittel |
 | § 30 | Heilmittel |

@@ -225,8 +225,6 @@ Versorgung](0072.md)
 - [§ 74 Stufenweise Wiedereingliederung](0074.md)
 - [§ 75 Inhalt und Umfang der Sicherstellung](0075.md)
 - [§ 75a Förderung der Weiterbildung](0075a.md)
-- [§ 75b Richtlinie zur IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0075b.md)
-- [§ 75c IT-Sicherheit in Krankenhäusern](0075c.md)
 - [§ 76 Freie Arztwahl](0076.md)
 
 #### Zweiter Titel Kassenärztliche und Kassenzahnärztliche
@@ -796,7 +794,7 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 294 Pflichten der Leistungserbringer](0294.md)
 - [§ 294a Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden](0294a.md)
-- [§ 295 Übermittlungspflichten und Abrechnung bei ärztlichen Leistungen](0295.md)
+- [§ 295 Übermittlungspflichten, Verpflichtung zur Empfangsbereitschaft und Abrechnung bei ärztlichen Leistungen](0295.md)
 - [§ 295a Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen](0295a.md)
 - [§ 296 Datenübermittlung für Wirtschaftlichkeitsprüfungen](0296.md)
 - [§ 297 Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen](0297.md)
@@ -852,6 +850,8 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 317 Beirat der Gesellschaft für Telematik](0317.md)
 - [§ 318 Aufgaben des Beirats](0318.md)
+- [§ 318a Digitalbeirat der Gesellschaft für Telematik](0318a.md)
+- [§ 318b Evaluierung](0318b.md)
 
 #### Dritter Titel Schlichtungsstelle der Gesellschaft für Telematik
 
@@ -866,7 +866,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 324 Zulassung von Anbietern von Betriebsleistungen](0324.md)
 - [§ 325 Zulassung von Komponenten und Diensten der Telematikinfrastruktur](0325.md)
 - [§ 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung](0326.md)
-- [§ 327 Weitere Anwendungen der Telematikinfrastruktur; Bestätigungsverfahren](0327.md)
+- [§ 327 Nutzung von Diensten der Telematikinfrastruktur durch weitere Dienste und Anwendungen; Bestätigungsverfahren](0327.md)
 - [§ 328 Gebühren und Auslagen; Verordnungsermächtigung](0328.md)
 
 ### Vierter Abschnitt Überwachung von Funktionsfähigkeit und Sicherheit
@@ -899,6 +899,7 @@ von Leistungsdaten, Datentransparenz
 ##### Erster Untertitel Angebot und Einrichtung der elektronischen Patientenakte
 
 - [§ 342 Angebot und Nutzung der elektronischen Patientenakte](0342.md)
+- [§ 342a Ombudsstellen](0342a.md)
 - [§ 343 Informationspflichten der Krankenkassen](0343.md)
 - [§ 344 Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte](0344.md)
 - [§ 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen](0345.md)
@@ -909,8 +910,8 @@ von Leistungsdaten, Datentransparenz
 - [§ 347 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer](0347.md)
 - [§ 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser](0348.md)
 - [§ 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte](0349.md)
-- [§ 350 Anspruch der Versicherten auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
-- [§ 351 Übertragung von Daten aus der elektronischen Gesundheitsakte und aus Anwendungen nach § 33a in die elektronische Patientenakte](0351.md)
+- [§ 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
+- [§ 351 Übertragung von Daten aus Anwendungen nach § 33a in die elektronische Patientenakte; Bereitstellung von Daten der elektronischen Patientenakte im grenzübergreifenden Austausch](0351.md)
 
 ##### Dritter Untertitel Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
 
@@ -920,7 +921,7 @@ von Leistungsdaten, Datentransparenz
 ##### Vierter Untertitel Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
 
 - [§ 354 Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte](0354.md)
-- [§ 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans, der elektronischen Notfalldaten und der elektronischen Patientenkurzakte](0355.md)
+- [§ 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte](0355.md)
 
 #### Dritter Titel Erklärungen des Versicherten zur Organ- und Gewebespende sowie Hinweise auf deren Vorhandensein und Aufbewahrungsort
 
@@ -930,10 +931,11 @@ von Leistungsdaten, Datentransparenz
 
 - [§ 357 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen](0357.md)
 
-#### Fünfter Titel Elektronischer Medikationsplan und elektronische Notfalldaten
+#### Fünfter Titel Elektronischer Medikationsplan, elektronische Notfalldaten und elektronische Rechnung
 
 - [§ 358 Elektronische Notfalldaten, elektronische Patientenkurzakte und elektronischer Medikationsplan](0358.md)
-- [§ 359 Zugriff auf den elektronischen Medikationsplan, die elektronischen Notfalldaten und die elektronische Patientenkurzakte](0359.md)
+- [§ 359 Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten, Nutzung der elektronischen Patientenkurzakte in der grenzüberschreitenden Versorgung](0359.md)
+- [§ 359a Elektronische Rechnung](0359a.md)
 
 #### Sechster Titel Übermittlung ärztlicher Verordnungen
 
@@ -943,7 +945,7 @@ von Leistungsdaten, Datentransparenz
 
 #### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
 
-- [§ 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr](0362.md)
+- [§ 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte, für sonstige heilfürsorgeberechtigte Beamte oder für Soldaten der Bundeswehr](0362.md)
 - [§ 362a Nutzung der elektronischen Gesundheitskarte bei Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch](0362a.md)
 - [§ 362b Nutzung der Telematikinfrastruktur durch das Zentrale Vorsorgeregister](0362b.md)
 
@@ -966,11 +968,11 @@ von Leistungsdaten, Datentransparenz
 ### Siebter Abschnitt Anforderungen an Schnittstellen in informationstechnischen Systemen
 
 - [§ 371 Integration offener und standardisierter Schnittstellen in informationstechnische Systeme](0371.md)
-- [§ 372 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0372.md)
-- [§ 373 Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung](0373.md)
+- [§ 372 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0372.md)
+- [§ 373 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung](0373.md)
 - [§ 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben](0374.md)
 - [§ 374a Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten](0374a.md)
-- [§ 375 Verordnungsermächtigung](0375.md)
+- [§ 375 (weggefallen)](0375.md)
 
 ### Achter Abschnitt Finanzierung und Kostenerstattung
 
@@ -983,20 +985,18 @@ von Leistungsdaten, Datentransparenz
 - [§ 382 Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten](0382.md)
 - [§ 383 Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0383.md)
 
-## Zwölftes Kapitel Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal
+## Zwölftes Kapitel Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal
 
 - [§ 384 Begriffsbestimmungen](0384.md)
-- [§ 385 Interoperabilitätsverzeichnis](0385.md)
-- [§ 386 Beratung durch Experten](0386.md)
-- [§ 387 Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik](0387.md)
-- [§ 388 Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen](0388.md)
-- [§ 389 Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz](0389.md)
-- [§ 390 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0390.md)
-- [§ 391 Beteiligung der Fachöffentlichkeit](0391.md)
-- [§ 392 Informationsportal](0392.md)
-- [§ 393 Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis](0393.md)
-- [§ 394 Bericht über das Interoperabilitätsverzeichnis](0394.md)
-- [§ 394a Verordnungsermächtigung](0394a.md)
+- [§ 385 Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung](0385.md)
+- [§ 386 Recht auf Interoperabilität](0386.md)
+- [§ 387 Konformitätsbewertung](0387.md)
+- [§ 388 Verbindlichkeitsmechanismen](0388.md)
+- [§ 389 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0389.md)
+- [§ 391 IT-Sicherheit in Krankenhäusern](0391.md)
+- [§ 392 IT-Sicherheit der gesetzlichen Krankenkassen](0392.md)
+- [§ 393 (weggefallen)](0393.md)
+- [§ 394 (weggefallen)](0394.md)
 - [§ 395 Nationales Gesundheitsportal](0395.md)
 
 ## Dreizehntes Kapitel Straf- und Bußgeldvorschriften

@@ -57,7 +57,8 @@ Dienst](0024.md)
 
 #### Zweiter Unterabschnitt Heilbehandlung
 
-- [§ 27 Umfang der Heilbehandlung](0027.md)
+- [§ 27 Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur](0027.md)
+- [§ 27a Nutzung der Telematikinfrastruktur](0027a.md)
 - [§ 28 Ärztliche und zahnärztliche Behandlung](0028.md)
 - [§ 29 Arznei- und Verbandmittel](0029.md)
 - [§ 30 Heilmittel](0030.md)

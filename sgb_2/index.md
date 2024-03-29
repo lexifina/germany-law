@@ -48,7 +48,7 @@
 - [§ 16g Förderung bei Wegfall der Hilfebedürftigkeit](0016g.md)
 - [§ 16h Förderung schwer zu erreichender junger Menschen](0016h.md)
 - [§ 16i Teilhabe am Arbeitsmarkt](0016i.md)
-- [§ 16j Bürgergeldbonus](0016j.md)
+- [§ 16j (weggefallen)](0016j.md)
 - [§ 16k Ganzheitliche Betreuung](0016k.md)
 - [§ 17 Einrichtungen und Dienste für Leistungen zur Eingliederung](0017.md)
 - [§ 18 Örtliche Zusammenarbeit](0018.md)
@@ -214,3 +214,4 @@
 - [§ 83 Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze](0083.md)
 - [§ 84 (weggefallen)](0084.md)
 - [§ 85 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes](0085.md)
+- [§ 86 Zweites Haushaltsfinanzierungsgesetz 2024](0086.md)
