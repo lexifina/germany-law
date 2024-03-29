@@ -1,8 +1,8 @@
 # Förderrichtlinie KitaBau Vollzitat: Förderrichtlinie KitaBau
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-08-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18888.2
+- Datum: 2024-03-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18888.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-10.08.2023
+29.03.2024
 bis
-28.03.2024
+24.12.2025
 
 Förderrichtlinie KitaBau
 
@@ -270,7 +270,7 @@ Inkrafttreten, Außerkrafttreten
 
 1.
 
-Diese Förderrichtlinie tritt am 1. Januar 2021 in Kraft und am 31. Dezember 2024 außer Kraft.
+Diese Förderrichtlinie tritt am 1. Januar 2021 in Kraft und am 31. Dezember 2025 außer Kraft.
 
 2.
 
@@ -292,9 +292,9 @@ Fsn-Nr.: 5581-V20.5
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 10. August 2023
+Fassung gültig ab: 29. März 2024
 
-Fassung gültig bis: 28. März 2024
+Fassung gültig bis: 24. Dezember 2025
 
 Drucken/Speichern
 
@@ -319,7 +319,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18888.2
+https://www.revosax.sachsen.de/vorschrift/18888.3
 Stand vom
 18.11.2026
 
