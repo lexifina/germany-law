@@ -82,7 +82,7 @@
 - [§ 53 Hinausschieben des Eintritts in den Ruhestand](0053.md)
 - [§ 54 Einstweiliger Ruhestand](0054.md)
 - [§ 55 Einstweiliger Ruhestand bei organisatorischen Veränderungen](0055.md)
-- [§ 56 Beginn des einstweiligen Ruhestands](0056.md)
+- [§ 56 Beginn des einstweiligen Ruhestands; Bekenntnis zu der freiheitlichen demokratischen Grundordnung](0056.md)
 - [§ 57 Erneute Berufung](0057.md)
 - [§ 58 Ende des einstweiligen Ruhestands](0058.md)
 - [§ 59 Zuständigkeit bei Versetzung in den Ruhestand](0059.md)
@@ -147,7 +147,7 @@
 - [§ 102 Regressanspruch für die Haftung aus angeordneter Nebentätigkeit](0102.md)
 - [§ 103 Erlöschen der mit dem Hauptamt verbundenen Nebentätigkeit](0103.md)
 - [§ 104 Erlass ausführender Rechtsverordnungen](0104.md)
-- [§ 105 Anzeigepflicht nach Beendigung des Beamtenverhältnisses](0105.md)
+- [§ 105 Anzeige- und Genehmigungspflicht nach Beendigung des Beamtenverhältnisses](0105.md)
 
 ### Unterabschnitt 4 Personalaktenrecht
 

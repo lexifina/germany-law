@@ -56,9 +56,9 @@ anderen Verfahren](0023.md)
 
 - [§ 32 Einstellungsverfügung](0032.md)
 - [§ 33 Disziplinarverfügung](0033.md)
-- [§ 34 Erhebung der Disziplinarklage](0034.md)
+- [§ 34 Disziplinarbefugnisse](0034.md)
 - [§ 35 Grenzen der erneuten Ausübung der Disziplinarbefugnisse](0035.md)
-- [§ 36 Verfahren bei nachträglicher Entscheidung im Straf- oder Bußgeldverfahren](0036.md)
+- [§ 36 Wiederaufgreifen des Verfahrens](0036.md)
 - [§ 37 Kostentragungspflicht](0037.md)
 
 ### Kapitel 4 Vorläufige Dienstenthebung und Einbehaltung
@@ -66,7 +66,7 @@ von Bezügen
 
 - [§ 38 Zulässigkeit](0038.md)
 - [§ 39 Rechtswirkungen](0039.md)
-- [§ 40 Verfall und Nachzahlung der einbehaltenen Beträge](0040.md)
+- [§ 40 Verfall, Erstattung und Nachzahlung](0040.md)
 
 ### Kapitel 5 Widerspruchsverfahren
 
@@ -75,7 +75,7 @@ von Bezügen
 - [§ 43 Grenzen der erneuten Ausübung der Disziplinarbefugnisse](0043.md)
 - [§ 44 Kostentragungspflicht](0044.md)
 
-## Teil 4 Gerichtliches Disziplinarverfahren
+## Teil 4 Gerichtliches Verfahren
 
 
 ### Kapitel 1 Disziplinargerichtsbarkeit
@@ -88,20 +88,17 @@ von Bezügen
 - [§ 50 Entbindung vom Amt des Beamtenbeisitzers](0050.md)
 - [§ 51 Senate für Disziplinarsachen](0051.md)
 
-### Kapitel 2 Disziplinarverfahren vor dem
-Verwaltungsgericht
+### Kapitel 2 Verfahren vor dem Verwaltungsgericht
 
 
 #### Abschnitt 1 Klageverfahren
 
 - [§ 52 Klageerhebung, Form und Frist der Klage](0052.md)
-- [§ 53 Nachtragsdisziplinarklage](0053.md)
-- [§ 54 Belehrung der Beamten](0054.md)
-- [§ 55 Mängel des behördlichen Disziplinarverfahrens oder der Klageschrift](0055.md)
+- [(XXXX) §§ 53 bis 55 (weggefallen)](xxxx-53-bis-55.md)
 - [§ 56 Beschränkung des Disziplinarverfahrens](0056.md)
 - [§ 57 Bindung an tatsächliche Feststellungen aus anderen Verfahren](0057.md)
 - [§ 58 Beweisaufnahme](0058.md)
-- [§ 59 Entscheidung durch Beschluss](0059.md)
+- [§ 59 (weggefallen)](0059.md)
 - [§ 60 Mündliche Verhandlung, Entscheidung durch Urteil](0060.md)
 - [§ 61 Grenzen der erneuten Ausübung der Disziplinarbefugnisse](0061.md)
 
@@ -111,8 +108,7 @@ Verwaltungsgericht
 - [§ 63 Antrag auf Aussetzung der vorläufigen Dienstenthebung und der
 Einbehaltung von Bezügen](0063.md)
 
-### Kapitel 3 Disziplinarverfahren vor dem
-Oberverwaltungsgericht
+### Kapitel 3 Verfahren vor dem Oberverwaltungsgericht
 
 
 #### Abschnitt 1 Berufung
@@ -126,14 +122,12 @@ Oberverwaltungsgericht
 - [§ 67 Statthaftigkeit, Form und Frist der Beschwerde](0067.md)
 - [§ 68 Entscheidung des Oberverwaltungsgerichts](0068.md)
 
-### Kapitel 4 Disziplinarverfahren vor dem
-Bundesverwaltungsgericht
+### Kapitel 4 Verfahren vor dem Bundesverwaltungsgericht
 
 - [§ 69 Form, Frist und Zulassung der Revision](0069.md)
 - [§ 70 Revisionsverfahren, Entscheidung über die Revision](0070.md)
 
-### Kapitel 5 Wiederaufnahme des gerichtlichen
-Disziplinarverfahrens
+### Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens
 
 - [§ 71 Wiederaufnahmegründe](0071.md)
 - [§ 72 Unzulässigkeit der Wiederaufnahme](0072.md)
@@ -150,8 +144,7 @@ Disziplinarverfahrens
 ## Teil 5 Unterhaltsbeitrag bei Entfernung aus dem
 Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
 
-- [§ 79 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei
-Aberkennung des Ruhegehalts](0079.md)
+- [§ 79 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts](0079.md)
 - [§ 80 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten](0080.md)
 - [§ 81 Begnadigung](0081.md)
 

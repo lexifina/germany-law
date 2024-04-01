@@ -78,10 +78,14 @@ Vorbemerkung
 | 8.3 | Abhängigkeit | nein | nein | – | – |
 | 8.4 | nach Abhängigkeit (Entwöhnungsbehandlung) | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | – | – |
 | 9. | Betäubungsmittel, andere psychoaktiv wirkende Stoffe und Arzneimittel |  |  |  |  |
-| 9.1 | Einnahme von Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes (ausgenommen Cannabis) | nein | nein | – | – |
+| 9.1 | Einnahme von Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes | nein | nein | – | – |
+| Krankheiten, Mängel | Eignung oder bedingte Eignung | Beschränkungen/Auflagen bei bedingter Eignung |
+| Klassen A, A1, A2,B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1,DE, D1E, FzF | Klassen A, A1, A2,B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF |
 | 9.2 | Einnahme von Cannabis |  |  |  |  |
-| 9.2.1 | Regelmäßige Einnahme von Cannabis | nein | nein | – | – |
-| 9.2.2 | Gelegentliche Einnahme von Cannabis | ja wenn Trennung von Konsum und Fahren und kein zusätzlicher Gebrauch von Alkohol oder anderen psychoaktiv wirkenden Stoffen, keine Störung der Persönlichkeit, kein Kontrollverlust | ja wenn Trennung von Konsum und Fahren und kein zusätzlicher Gebrauch von Alkohol oder anderen psychoaktiv wirkenden Stoffen, keine Störung der Persönlichkeit, kein Kontrollverlust | – | – |
+| 9.2.1 | Missbrauch (Das Führen von Fahrzeugen und ein die Fahrsicherheit beeinträchtigender Cannabiskonsum können nicht hinreichend sicher getrennt werden.) | nein | nein | – | – |
+| 9.2.2 | nach Beendigung des Missbrauchs | ja wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist | ja wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist | – | – |
+| 9.2.3 | Abhängigkeit | nein | nein | – | – |
+| 9.2.4 | nach Abhängigkeit (Entwöhnungsbehandlung) | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | – | – |
 | 9.3 | Abhängigkeit von Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes oder von anderen psychoaktiv wirkenden Stoffen | nein | nein | – | – |
 | 9.4 | missbräuchliche Einnahme (regelmäßig übermäßiger Gebrauch) von psychoaktiv wirkenden Arzneimitteln und anderen psychoaktiv wirkenden Stoffen | nein | nein | – | – |
 | 9.5 | nach Entgiftung und Entwöhnung | ja nach einjähriger Abstinenz | ja nach einjähriger Abstinenz | regelmäßige Kontrollen | regelmäßige Kontrollen |

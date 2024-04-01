@@ -46,15 +46,15 @@
 |  | Abschlussentscheidung |
 | § 32 | Einstellungsverfügung |
 | § 33 | Disziplinarverfügung |
-| § 34 | Erhebung der Disziplinarklage |
+| § 34 | Disziplinarbefugnisse |
 | § 35 | Grenzen der erneuten Ausübung der Disziplinarbefugnisse |
-| § 36 | Verfahren bei nachträglicher Entscheidung im Straf- oder Bußgeldverfahren |
+| § 36 | Wiederaufgreifen des Verfahrens |
 | § 37 | Kostentragungspflicht |
 |  | Kapitel 4 |
 |  | Vorläufige Dienstenthebung und Einbehaltung von Bezügen |
 | § 38 | Zulässigkeit |
 | § 39 | Rechtswirkungen |
-| § 40 | Verfall und Nachzahlung der einbehaltenen Beträge |
+| § 40 | Verfall, Erstattung und Nachzahlung |
 |  | Kapitel 5 |
 |  | Widerspruchsverfahren |
 | § 41 | Erforderlichkeit, Form und Frist des Widerspruchs |
@@ -62,7 +62,7 @@
 | § 43 | Grenzen der erneuten Ausübung der Disziplinarbefugnisse |
 | § 44 | Kostentragungspflicht |
 | Teil 4 |
-|  | Gerichtliches Disziplinarverfahren |
+|  | Gerichtliches Verfahren |
 |  | Kapitel 1 |
 |  | Disziplinargerichtsbarkeit |
 | § 45 | Zuständigkeit der Verwaltungsgerichtsbarkeit |
@@ -73,17 +73,17 @@
 | § 50 | Entbindung vom Amt des Beamtenbeisitzers |
 | § 51 | Senate für Disziplinarsachen |
 |  | Kapitel 2 |
-|  | Disziplinarverfahren vor dem Verwaltungsgericht |
+|  | Verfahren vor dem Verwaltungsgericht |
 |  | Abschnitt 1 |
 |  | Klageverfahren |
 | § 52 | Klageerhebung, Form und Frist der Klage |
-| § 53 | Nachtragsdisziplinarklage |
-| § 54 | Belehrung des Beamten |
-| § 55 | Mängel des behördlichen Disziplinarverfahrens oder der Klageschrift |
+| § 53 | (weggefallen) |
+| § 54 | (weggefallen) |
+| § 55 | (weggefallen) |
 | § 56 | Beschränkung des Disziplinarverfahrens |
 | § 57 | Bindung an tatsächliche Feststellungen aus anderen Verfahren |
 | § 58 | Beweisaufnahme |
-| § 59 | Entscheidung durch Beschluss |
+| § 59 | (weggefallen) |
 | § 60 | Mündliche Verhandlung, Entscheidung durch Urteil |
 | § 61 | Grenzen der erneuten Ausübung der Disziplinarbefugnisse |
 |  | Abschnitt 2 |
@@ -91,7 +91,7 @@
 | § 62 | Antrag auf gerichtliche Fristsetzung |
 | § 63 | Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen |
 |  | Kapitel 3 |
-|  | Disziplinarverfahren vor dem Oberverwaltungsgericht |
+|  | Verfahren vor dem Oberverwaltungsgericht |
 |  | Abschnitt 1 |
 |  | Berufung |
 | § 64 | Statthaftigkeit, Form und Frist der Berufung |
@@ -102,11 +102,11 @@
 | § 67 | Statthaftigkeit, Form und Frist der Beschwerde |
 | § 68 | Entscheidung des Oberverwaltungsgerichts |
 |  | Kapitel 4 |
-|  | Disziplinarverfahren vor dem Bundesverwaltungsgericht |
+|  | Verfahren vor dem Bundesverwaltungsgericht |
 | § 69 | Form, Frist und Zulassung der Revision |
 | § 70 | Revisionsverfahren, Entscheidung über die Revision |
 |  | Kapitel 5 |
-|  | Wiederaufnahme des gerichtlichen Disziplinarverfahrens |
+|  | Wiederaufnahme des gerichtlichen Verfahrens |
 | § 71 | Wiederaufnahmegründe |
 | § 72 | Unzulässigkeit der Wiederaufnahme |
 | § 73 | Frist, Verfahren |

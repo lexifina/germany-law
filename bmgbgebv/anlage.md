@@ -16,12 +16,13 @@ Inhaltsübersicht
 | Abschnitt 12 | Gendiagnostikgesetz |
 | Abschnitt 13 | Stammzellgesetz |
 | Abschnitt 14 | Bundeskrebsregisterdatengesetz |
+| Abschnitt 15 | Medizinal-Cannabisgesetz |
 Abschnitt 1
 Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (BtMAHV)
 | Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
 | Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
 | 1 | Erteilung einer Erlaubnis nach § 3 BtMG |  |
-| 1.1 | Für jede der nachfolgenden Verkehrsarten je Betäubungsmittel (§ 3 Absatz 1 Nummer 1 BtMG) und Betriebsstätte Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes Betäubungsmittel zu berechnen. |  |
+| 1.1 | Für jede der nachfolgenden Verkehrsarten je Betäubungsmittel (§ 3 Absatz 1 Nummer 1 BtMG) und Betriebsstätte |  |
 | 1.1.1 | Anbau einschließlich Gewinnung | 240 |
 | 1.1.2 | Herstellung, mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden | 480 |
 | 1.1.2.1 | Wenn die hergestellten Betäubungsmittel ausschließlich diagnostischen oder analytischen Zwecken dienen, ohne am oder im menschlichen oder tierischen Körper angewendet zu werden | 240 |
@@ -31,7 +32,7 @@ Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (Bt
 | 1.1.4 | Außenhandel einschließlich Binnenhandel | 1 040 |
 | 1.1.4.1 | Befristete Einmalerlaubnis, wenn gleiche Betäubungsmittel innerhalb von zwölf Monaten nicht wiederholt gehandelt werden | 520 |
 | 1.1.4.2 | Jedoch insgesamt je Betriebsstätte nicht mehr als | 15 600 |
-| 1.2 | Für jede der nachfolgenden Vekehrsarten je Betäubungsmittel und Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung erfolgt Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes Betäubungsmittel zu berechnen. |  |
+| 1.2 | Für jede der nachfolgenden Vekehrsarten je Betäubungsmittel und Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung erfolgt |  |
 | 1.2.1 | Anbau einschließlich Gewinnung | 190 |
 | 1.2.1.1 | Anbau von Papaver somniferum bis zu 10 m² durch Privatpersonen zu nicht gewerblichen Zierzwecken oder zur nicht gewerblichen Samengewinnung | 95 |
 | 1.2.2 | Herstellung (mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken) | 190 |
@@ -55,7 +56,7 @@ Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (Bt
 | 2 | Bearbeitung einer Anzeige nach § 4 Absatz 3 BtMG |  |
 | 2.1 | Anzeige einer Neugründung, eines Betreiberwechsels oder einer Rechtsformänderung einer Apotheke oder eines Apothekenverbundes | 250 |
 | 2.2 | Anzeige einer Änderung des Namens oder der Anschrift einer Apotheke oder eines Apothekenbetreibers | 110 |
-| 3 | Erteilung einer neuen Erlaubnis nach § 8 Absatz 3 Satz 2 i. V. m. § 3 BtMG Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes Betäubungsmittel zu berechnen. |  |
+| 3 | Erteilung einer neuen Erlaubnis nach § 8 Absatz 3 Satz 2 i. V. m. § 3 BtMG |  |
 | 3.1 | Erteilung einer neuen Erlaubnis auf Grund neu aufgenommener Verkehrsarten, Betäubungsmittel oder ausgenommener Zubereitungen | Die unter Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG festgelegte Gebühr |
 | 3.2 | Erteilung einer neuen Erlaubnis auf Grund einer Änderung in der Person des Erlaubnisinhabers | 50 Prozent der unter Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG festgelegten Gebühr |
 | 3.3 | Erteilung einer neuen Erlaubnis auf Grund einer Änderung der Lage der Betriebsstätte, ausgenommen innerhalb eines Gebäudes | 50 Prozent der unter Nummer 1 für die Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr |
@@ -64,11 +65,11 @@ Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (Bt
 | 4.2 | Änderung einer Erlaubnis zum Anbau von Papaver somniferum bis zu 10 m² durch Privatpersonen zu nicht gewerblichen Zierzwecken oder zur nicht gewerblichen Samengewinnung, je Änderung | 45 |
 | 4.3 | Änderung einer Erlaubnis für den Anbau von Papaver somniferum zu gewerblichen Zierzwecken oder zur gewerblichen Samengewinnung, je Änderung | 95 |
 | 4.4 | Änderung einer Erlaubnis in allen anderen Fällen, je Änderung | 190 |
-| 5 | Verlängerung einer nach § 9 Absatz 2 Nummer 1 BtMG erteilten befristeten Erlaubnis Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes Betäubungsmittel zu berechnen. | 25 Prozent der unter Nummer 1 für die Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr |
+| 5 | Verlängerung einer nach § 9 Absatz 2 Nummer 1 BtMG erteilten befristeten Erlaubnis | 25 Prozent der unter Nummer 1 für die Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr |
 | 6 | Nachträgliche Änderung einer Erlaubnis nach § 9 Absatz 2 Nummer 2 BtMG | 190 |
 | 7 | Anordnung einer Sicherungsmaßnahme nach § 15 Satz 2 BtMG | 150 |
 | 8 | Besichtigungen nach § 22 Absatz 1 Nummer 3 BtMG | 660 bis 15 000 |
-| 9 | Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV oder einer Durchfuhrgenehmigung nach § 13 Absatz 2 BtMAHV, je Betäubungsmittel oder je ausgenommene Zubereitung Anmerkung: Bei „Cannabis (Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen)“ ist jede Sorte als eigenes Betäubungsmittel zu berechnen. | 70 |
+| 9 | Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV oder einer Durchfuhrgenehmigung nach § 13 Absatz 2 BtMAHV, je Betäubungsmittel oder je ausgenommene Zubereitung | 70 |
 | 9.1 | Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Betäubungsmittel oder je ausgenommene Zubereitung | 35 |
 | 10 | Vernichtung von Betäubungsmitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 16 Absatz 2 BtMG, bei Stoffen und nicht abgeteilten Zubereitungen je angefangenes Kilogramm, bei abgeteilten Zubereitungen je angefangene 500 Stück | 60 |
 | 11 | Sonstige auf Antrag vorgenommene individuell zurechenbare öffentliche Leistungen |  |
@@ -1437,3 +1438,46 @@ Bundeskrebsregisterdatengesetz (BKRG)
 | 2 | Verfahren nach § 8 Absatz 6 BKRG (Anträge auf Bereitstellung pseudonymisierter Einzeldatensätze) |  |
 | 2.1 | a)Prüfung der Antragsunterlagen sowie Vorlage des Antrages beim wissenschaftlichen Ausschussb)Prüfung der Stellungnahme des wissenschaftlichen Ausschusses, sofern dieser zur Abgabe einer Stellungnahme aufgefordert wurdec)Prüfung des Vorliegens der Voraussetzungen des § 8 Absatz 7 BKRG, gegebenenfalls Verpflichtung des Antragstellenden zur Geheimhaltung nach § 8 Absatz 7 Satz 2 BKRGd)Erstellung eines Bescheidese)Bereitstellung der Daten gemäß § 8 Absatz 6 BKRG bei positiver Bescheidung | Jeweils nach Zeitaufwand Gebührenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen |
 | 2.2 | Reisekosten der Mitglieder des wissenschaftlichen Ausschusses zu den Sitzungen des wissenschaftlichen Ausschusses | In Höhe der tatsächlich entstandenen Aufwendungen Auslagenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen |
+Abschnitt 15
+Medizinal-Cannabisgesetz (MedCanG)
+| Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
+| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
+| 1 | Erteilung einer Erlaubnis nach § 4 MedCanG |  |
+| 1.1 | Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken und je Betriebsstätte Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. |  |
+| 1.1.1 | Anbau einschließlich Gewinnung | 240 |
+| 1.1.2 | Herstellung, mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden | 480 |
+| 1.1.2.1 | Wenn das hergestellte Cannabis zu medizinischen Zwecken und Cannabis zu medizinisch-wissenschaftlichen Zwecken ausschließlich diagnostischen oder analytischen Zwecken dienen soll, ohne am oder im menschlichen oder tierischen Körper angewendet zu werden | 240 |
+| 1.1.3 | Binnenhandel | 590 |
+| 1.1.3.1 | Befristete Einmalerlaubnis | 295 |
+| 1.1.3.2 | Höchstgrenze je Betriebsstätte | 8 850 |
+| 1.1.4 | Außenhandel einschließlich Binnenhandel | 1 040 |
+| 1.1.4.1 | Befristete Einmalerlaubnis | 520 |
+| 1.1.4.2 | Höchstgrenze je Betriebsstätte | 15 600 |
+| 1.2 | Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken und je Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung erfolgt Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. |  |
+| 1.2.1 | Anbau einschließlich Gewinnung | 190 |
+| 1.2.2 | Herstellung (mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken) | 190 |
+| 1.2.3 | Erwerb | 190 |
+| 1.2.3.1 | Wenn mehrere Arten an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken umfasst sind, insgesamt je Betriebsstätte nicht mehr als Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. | 4425 |
+| 1.2.4 | Abgabe | 190 |
+| 1.2.5 | Einfuhr | 190 |
+| 1.2.6 | Ausfuhr | 190 |
+| 2 | Erteilung einer neuen Erlaubnis nach § 8 Absatz 2 Satz 1 MedCanG in Verbindung mit § 4 MedCanG |  |
+| 2.1 | Erteilung einer neuen Erlaubnis aufgrund neu aufgenommener Verkehrsarten oder Arten an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. | Die in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegte Gebühr |
+| 2.2 | Erteilung einer neuen Erlaubnis aufgrund einer Änderung in der Person der Erlaubnisinhaberin oder des Erlaubnisinhabers | 50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr |
+| 2.3 | Erteilung einer neuen Erlaubnis aufgrund einer Änderung der Lage der Betriebsstätte, ausgenommen innerhalb eines Gebäudes | 50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr |
+| 3 | Erteilung einer geänderten Erlaubnis nach § 8 Absatz 2 Satz 1 in Verbindung mit § 4 MedCanG |  |
+| 3.1 | Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Änderung | 90 |
+| 3.2 | Änderung einer Erlaubnis in allen anderen Fällen, je Änderung | 190 |
+| 4 | Verlängerung einer nach § 10 Nummer 1 MedCanG erteilten befristeten Erlaubnis | 25 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr |
+| 5 | Nachträgliche Änderung einer Erlaubnis nach § 10 Nummer 2 MedCanG | 190 |
+| 6 | Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 9 Absatz 1 BtMAHV, je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. | 70 |
+| 6.1 | Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 9 Absatz 1 BtMAHV, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen. | 35 |
+| 7 | Begehungen nach § 18 Absatz 1 Satz 1 Nummer 3 MedCanG | 660 bis 15 000 |
+| 8 | Erlass einer Sicherungsanordnung nach § 21 Absatz 2 MedCanG | 150 |
+| 9 | Sonstige auf Antrag vorgenommene individuell zurechenbare öffentliche Leistungen |  |
+| 9.1 | Nicht einfache schriftliche Fachauskünfte | 50 bis 500 |
+| 9.2 | Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese nicht von § 12 AGebV erfasst sind | 50 bis 250 |
+| 9.3 | Fachliche Beratung der antragstellenden Person (Beratungsgespräch) | 500 bis 5 000 |
+| 10 | Auslagen |  |
+| 10.1 | Kosten für Dienstreisen im Fall der Nummer 7 | In tatsächlich entstandener Höhe |
+| 10.2 | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |

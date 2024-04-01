@@ -11,11 +11,10 @@ Gliederung
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 10 bis 17 |
 | Vorbemerkung:Das Verfahren über den Antrag auf Wiederaufnahme gilt als neuer Rechtszug. |
 | Abschnitt 1Klageverfahren erster Instanz |
-|  | Verfahren über eine Disziplinarklage mit dem Antrag auf |  |
+|  | Verfahren über die Klage gegen eine Disziplinarverfügung, in der als Disziplinarmaßnahme ausgesprochen worden ist |  |
 | 10 | – Entfernung aus dem Beamtenverhältnis .......... | 360,00 € |
 | 11 | – Aberkennung des Ruhegehalts .......... | 360,00 € |
 | 12 | – Zurückstufung .......... | 240,00 € |
-|  | Verfahren über die Klage gegen eine Disziplinarverfügung, in der als Disziplinarmaßnahme ausgesprochen worden ist |  |
 | 13 | – Kürzung der Dienstbezüge .......... | 180,00 € |
 | 14 | – Kürzung des Ruhegehalts .......... | 180,00 € |
 | 15 | – Geldbuße .......... | 120,00 € |
@@ -57,7 +56,7 @@ Gliederung
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 10 bis 17 und 40 |
 | Abschnitt 6Beschwerde |
 | 60 | Verfahren über die Beschwerde gegen die Entscheidung über den Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen .......... | 1,5 |
-| 61 | Verfahren über die Beschwerde gegen eine Entscheidung in der Hauptsache durch Beschluss nach § 59 BDG .......... | 1,5 |
+| 61 | (weggefallen) |  |
 | 62 | Verfahren über die Beschwerde gegen die Nichtzulassung der Revision:Die Beschwerde wird verworfen oder zurückgewiesen .......... | 1,5 |
 | 63 | Beendigung des gesamten Verfahrens durch |  |
 |  | 1.Zurücknahme der Beschwerde, der Klage oder des Antrags a)vor dem Schluss der mündlichen Verhandlung oderb)wenn eine solche nicht stattfindet, vor Ablauf des Tages, an dem die Entscheidung über die Beschwerde der Geschäftsstelle übermittelt wird, oder2.Erledigungserklärungen, wenn keine Entscheidung über die Kosten ergeht oder die Entscheidung einer zuvor mitgeteilten Einigung der Beteiligten über die Kostentragung oder der Kostenübernahmeerklärung eines Beteiligten folgt: |  |

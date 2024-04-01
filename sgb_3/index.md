@@ -103,6 +103,7 @@ Versicherungspflichtige
 #### Erster Unterabschnitt Übergang von der Schule in die Berufsausbildung
 
 - [§ 48 Berufsorientierungsmaßnahmen](0048.md)
+- [§ 48a Berufsorientierungspraktikum](0048a.md)
 - [§ 49 Berufseinstiegsbegleitung](0049.md)
 - [§ 50 Anordnungsermächtigung](0050.md)
 
@@ -138,6 +139,7 @@ Versicherungspflichtige
 #### Vierter Unterabschnitt Berufsausbildung
 
 - [§ 73 Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen](0073.md)
+- [§ 73a Mobilitätszuschuss](0073a.md)
 - [§ 74 Assistierte Ausbildung](0074.md)
 - [§ 75 Begleitende Phase der Assistierten Ausbildung](0075.md)
 - [§ 75a Vorphase der Assistierten Ausbildung](0075a.md)
@@ -157,6 +159,9 @@ Versicherungspflichtige
 
 - [§ 81 Grundsatz](0081.md)
 - [§ 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer](0082.md)
+- [§ 82a Qualifizierungsgeld](0082a.md)
+- [§ 82b Höhe und Bemessung des Qualifizierungsgeldes](0082b.md)
+- [§ 82c Anrechnung von Nebeneinkommen und sonstigen Zahlungen des Arbeitgebers](0082c.md)
 - [§ 83 Weiterbildungskosten](0083.md)
 - [§ 84 Lehrgangskosten](0084.md)
 - [§ 85 Fahrkosten](0085.md)
@@ -722,3 +727,4 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0455.md)
 - [§ 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0456.md)
 - [§ 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0457.md)
+- [§ 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung](0458.md)

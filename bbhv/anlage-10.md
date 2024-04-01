@@ -5,7 +5,7 @@ Die Beihilfefähigkeit setzt voraus, dass das Heilmittel in einem der folgenden 
   a) Physiotherapeutin oder Physiotherapeut,
   b) Masseurin und medizinische Bademeisterin oder Masseur und medizinischer Bademeister,
   c) Krankengymnastin oder Krankengymnast,
-2. Bereich Stimm-, Sprech- und Sprachtherapie
+2. Bereich Stimm-, Sprech-, Sprach- und Schlucktherapie
   a) Logopädin oder Logopäde,
   b) Sprachtherapeutin oder Sprachtherapeut,
   c) staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst-Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,

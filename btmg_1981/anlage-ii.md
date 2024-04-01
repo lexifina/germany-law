@@ -200,7 +200,8 @@
 | - | SDB-006 | N-Benzyl-1-pentyl-1H-indol-3-carboxamid |
 | Secbutabarbital | Butabarbital | 5-(Butan-2-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
 | - | STS-135 (5F-2NE1) | N-(Adamantan-1-yl)-1-(5-fluorpentyl)-1H-indol-3-carboxamid |
-| - | Δ9-Tetrahydrocannabinol(Δ9-THC) | 6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ9-Tetrahydrocannabinol (Δ9-THC) | 6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| – ausgenommen, a)wenn es sich um Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken im Sinne des Medizinal-Cannabisgesetzes handelt, oderb)wenn es sich um eine nichtsynthetische Form handelt, die zu nichtmedizinischen Zwecken im Verkehr ist. |
 | - | Tetrahydrofuranylfentanyl (THF-F) | N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]tetrahydrofuran-2-carboxamid |
 | - | Tetrahydrothebain | 4,5α-Epoxy-3,6-dimethoxy-17-methylmorphinan |
 | Thebacon | Acetyldihydrocodeinon | (4,5α-Epoxy-3-methoxy-17-methylmorphin-6-en-6-yl)acetat |

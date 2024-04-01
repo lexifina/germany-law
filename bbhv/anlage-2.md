@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 6 Absatz 3 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
+# Anlage 2 (zu § 6 Absatz 5 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
 
 | Nummer | Leistungsbeschreibung | vereinbarterHöchstbetrag |
 | 1 – 10 | Allgemeine Leistungen |

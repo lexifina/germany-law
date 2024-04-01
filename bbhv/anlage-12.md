@@ -1,6 +1,6 @@
 # Anlage 12 (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
 
-Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen (§ 6 Absatz 1) sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben (§ 25 Absatz 2) oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
+Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen (§ 6 Absatz 3) sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben (§ 25 Absatz 2) oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
 1.1 Adju-Set/-Sano
 1.2 Angorawäsche
 1.3 antiallergene Matratzen, Matratzenbezüge und Bettbezüge
@@ -23,7 +23,7 @@ Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notw
 2.10 Bildschirmbrille
 2.11 Bill-Wanne
 2.12 Blinden-Uhr
-2.13 Blutdruckmessgerät
+2.13 (weggefallen)
 2.14 Brückentisch
 3.1 (frei)
 4.1 Dusche
@@ -37,7 +37,7 @@ Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notw
 5.8 Elektronic-Muscle-Control (EMC 1000)
 5.9 Erektionshilfen
 5.10 Ergometer
-5.11 Ess- und Trinkhilfen
+5.11 (weggefallen)
 5.12 Expander
 6.1 Fieberthermometer
 6.2 Fußgymnastik-Rolle, Fußwippe (zum Beispiel Venentrainer)
@@ -66,10 +66,9 @@ Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notw
 11.5 Kolorimeter
 11.6 Kommunikationssystem
 11.7 Kraftfahrzeug einschließlich behindertengerechter Umrüstung
-11.8 Krankenunterlagen, es sei denn,
-  a) sie sind in direktem Zusammenhang mit der Behandlung einer Krankheit erforderlich (Blasen- oder Darminkontinenz im Rahmen einer Dekubitusbehandlung oder bei Dermatitiden),
-  b) neben der Blasen- oder Darminkontinenz liegen so schwere Funktionsstörungen vor (zum Beispiel Halbseitenlähmung mit Sprachverlust), dass sonst der Eintritt von Dekubitus oder Dermatitiden droht,
-  c) die Teilnahme am gesellschaftlichen Leben wird damit wieder ermöglicht
+11.8 Krankenunterlagen (saugende Bettschutzeinlagen), es sei denn,
+  a) sie sind zur Sicherung der Behandlung einer Krankheit bei Harn- oder Stuhlinkontinenz erforderlich oder
+  b) die Teilnahme am gesellschaftlichen Leben wird damit wieder ermöglicht.
 11.9 Kreislaufgerät
 12.1 Lagerungskissen/-stütze, ausgenommen Nummer 1.1 der Anlage 11
 12.2 Language-Master

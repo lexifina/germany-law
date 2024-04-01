@@ -100,6 +100,7 @@
 | Übergang von der |
 | Schule in die Berufsausbildung |
 | § 48 | Berufsorientierungsmaßnahmen |
+| § 48a | Berufsorientierungspraktikum |
 | § 49 | Berufseinstiegsbegleitung |
 | § 50 | Anordnungsermächtigung |
 |  |  |
@@ -135,6 +136,7 @@
 | Vierter Unterabschnitt |
 | Berufsausbildung |
 | § 73 | Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen |
+| § 73a | Mobilitätszuschuss |
 | § 74 | Assistierte Ausbildung |
 | § 75 | Begleitende Phase der Assistierten Ausbildung |
 | § 75a | Vorphase der Assistierten Ausbildung |
@@ -153,6 +155,9 @@
 | Berufliche Weiterbildung |
 | § 81 | Grundsatz |
 | § 82 | Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer |
+| § 82a | Qualifizierungsgeld |
+| § 82b | Höhe und Bemessung des Qualifizierungsgeldes |
+| § 82c | Anrechnung von Nebeneinkommen und sonstigen Zahlungen des Arbeitgebers |
 | § 83 | Weiterbildungskosten |
 | § 84 | Lehrgangskosten |
 | § 85 | Fahrkosten |
@@ -706,3 +711,4 @@
 | § 455 | Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes |
 | § 456 | Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes |
 | § 457 | Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze |
+| § 458 | Gesetz zur Stärkung der Aus- und Weiterbildungsförderung |

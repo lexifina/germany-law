@@ -23,8 +23,6 @@
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 0,02 vom Hundert oder je abgeteilte Form bis zu 0,25 mg Brotizolam enthalten - |
 | Buprenorphin | - | (5R,6R,7R,14S)-17-Cyclopropyl-methyl-4,5-epoxy-7-[(S)-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-6,14-ethanomorphinan-3-ol |
 | Camazepam | - | (7-Chlor-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1H-1,4-enzodiazepin-3-yl)(dimethylcarbamat) |
-| - | Cannabis (Marihuana, Pflanzen und Pflan- zenteile der zur Gattung Cannabis gehörenden Pflanzen) | - |
-| - nur aus einem Anbau, der zu medizinischen Zwecken unter staatlicher Kontrolle gemäß den Artikeln 23 und 28 Absatz 1 des Einheits-Übereinkommens von 1961 über Suchtstoffe erfolgt, sowie in Zubereitungen, die als Fertigarzneimittel zugelassen sind - |
 | Cathin | (+)-Norpseudoephedrin (D-Norpseudoephedrin) | (1S,2S)-2-Amino-1-phenylpropan-1-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 5 vom Hundert als Lösung, jedoch nicht mehr als 1 600 mg je Packungseinheit oder je abgeteilte Form bis zu 40 mg Cathin, berechnet als Base, enthalten - |
 | Chlordiazepoxid | - | 7-Chlor-2-methylamino-5-phenyl-3H-1,4-benzodiazepin-4-oxid |
@@ -50,7 +48,6 @@
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 1 vom Hundert als Sirup oder Tropflösung, jedoch nicht mehr als 250 mg je Packungseinheit, oder je abgeteilte Form bis zu 10 mg Diazepam enthalten - |
 | Dihydrocodein | - | 4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-ol |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III bis zu 2,5 vom Hundert oder je abgeteilte Form bis zu 100 mg Dihydrocodein, berechnet als Base, enthalten. Für ausgenommene Zubereitungen, die für betäubungsmittel- oder alkoholabhängige Personen verschrieben werden, gelten jedoch die Vorschriften über das Verschreiben und die Abgabe von Betäubungsmitteln. - |
-| Dronabinol | - | (6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
 | Estazolam | - | 8-Chlor-6-phenyl-4H-[1,2,4]triazolo[4,3-a]benzodiazepin |
 | -ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 2 mg Estazolam enthalten - |
 | Ethylloflazepat | - | Ethyl[7-chlor-5-(2-fluorphenyl)-2-oxo-2,3-dihydro-1H-1,4-benzodiazepin-3-carboxylat] |

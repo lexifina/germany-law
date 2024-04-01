@@ -35,7 +35,7 @@
 | § 22 | Überwachungsmaßnahmen |
 | § 23 | Probenahme |
 | § 24 | Duldungs- und Mitwirkungspflicht |
-| § 24a | Anzeige des Anbaus von Nutzhanf |
+| § 24a | (weggefallen) |
 | § 25 | (weggefallen) |
 | Fünfter Abschnitt |
 |  | Vorschriften für Behörden |

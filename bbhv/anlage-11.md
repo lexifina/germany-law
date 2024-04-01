@@ -8,7 +8,7 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 1.3 Adaptionshilfen
 1.4 Anpassungen für diverse Gebrauchsgegenstände (zum Beispiel Universalhalter für Schwerstbehinderte zur Erleichterung der Körperpflege und zur Nahrungsaufnahme)
 1.5 Alarmgerät für Epileptikerinnen oder Epileptiker
-1.6 Anatomische Brillenfassung
+1.6 (weggefallen)
 1.7 Anus-praeter-Versorgungsartikel
 1.8 Anzieh- oder Ausziehhilfen
 1.9 Aquamat
@@ -37,14 +37,15 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 2.11 Blindenführhund (einschließlich Geschirr, Leine, Halsband, Maulkorb)
 2.12 Blindenleitgerät (Ultraschallbrille, Ultraschallleitgerät)
 2.13 Blindenstock, -langstock oder -taststock
-2.14 Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichem Herzklappenersatz)
-2.15 Blutlanzette
-2.16 Blutzuckermessgerät
-2.17 Bracelet
-2.18 Bruchband
+2.14 Blutdruckmessgerät
+2.15 Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichem Herzklappenersatz)
+2.16 Blutlanzette
+2.17 Blutzuckermessgerät
+2.18 Bracelet
+2.19 Bruchband
 3.1 Clavicula-Bandage
 3.2 Cochlea-Implantate einschließlich Zubehör
-3.3 Communicator (bei dysarthrischen Sprechstörungen)
+3.3 Communicator bei Sprech- oder Sprachstörungen
 3.4 Computerspezialausstattung für Behinderte; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
 4.1 Defibrillatorweste
 4.2 Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
@@ -54,28 +55,29 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 5.1 Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse
 5.2 Einmal-Schutzhose bei Querschnittgelähmten
 5.3 Ekzemmanschette
-5.4 Elektroscooter bis zu 2 500 Euro, ausgenommen Zulassung und Versicherung
+5.4 Elektromobil bis zu 2 500 Euro, ausgenommen Zulassung und Versicherung
 5.5 Elektrostimulationsgerät
 5.6 Epicondylitisbandage oder -spange mit Pelotten
 5.7 Epitrainbandage
 5.8 Ernährungssonde
-6.1 Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
-6.2 Fersenschutz (Kissen, Polster, Schale, Schoner)
-6.3 Fingerling
-6.4 Fingerschiene
-6.5 Fixationshilfen
-6.6 Fußteil-Entlastungsschuh (Einzelschuhversorgung)
+6.1 Farberkennungsgerät
+6.2 Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
+6.3 Fersenschutz (Kissen, Polster, Schale, Schoner)
+6.4 Fingerling
+6.5 Fingerschiene
+6.6 Fixationshilfen
+6.7 Fußteil-Entlastungsschuh (Einzelschuhversorgung)
 7.1 Gehgipsgalosche
 7.2 Gehhilfen und -übungsgeräte
 7.3 Gehörschutz
 7.4 Genutrain-Aktiv-Kniebandage
 7.5 Gerät zur Behandlung mit elektromagnetischen Wechselfeldern bei atropher Pseudarthrose, Endoprothesenlockerung, idiopathischer Hüftnekrose oder verzögerter Knochenbruchheilung (in Verbindung mit einer sachgerechten chirurgischen Therapie)
-7.6 Gerät zur kontinuierlichen Gewebezuckermessung (Continuous Glucose Monitoring – CGM, Flash Glucose Monitoring – FGM) einschließlich Sensoren bei Personen mit einem insulinpflichtigen Diabetes mellitus; daneben sind Aufwendungen für übliche Blutzuckermessgeräte einschließlich der erforderlichen Blutteststreifen beihilfefähig
+7.6 Gerät zur kontinuierlichen Gewebezuckermessung (Continuous Glucose Monitoring – CGM, Flash Glucose Monitoring – FGM) einschließlich Sensoren bei Personen mit einer behandlungsbedürftigen Stoffwechselerkrankung wie einem behandlungsbedürftigen Diabetes mellitus; daneben sind Aufwendungen für übliche Blutzuckermessgeräte einschließlich der erforderlichen Blutteststreifen beihilfefähig
 7.7 Gesichtsteilersatzstücke (Ektoprothese, Epithese)
 7.8 Gilchrist-Bandage
 7.9 Gipsbett, Liegeschale
 7.10 Glasstäbchen
-7.11 Gummihose bei Blasen- oder Darminkontinenz
+7.11 Gummihose sowie saugende körpernah getragene Inkontinenzhilfen (insbesondere Fixierhosen für Inkontinenzvorlagen, saugende Inkontinenzhosen und -vorlagen) bei Blasen- oder Darminkontinenz
 7.12 Gummistrümpfe
 8.1 Halskrawatte, Hals-, Kopf-, Kinnstütze
 8.2 Handgelenkriemen
@@ -84,7 +86,7 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 8.5 Helfende Hand, Scherenzange
 8.6 Herz-Atmungs-Überwachungsgerät oder -monitor
 8.7 Hochtontherapiegerät
-8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte] sowie In-dem-Ohr-Geräte [IdO-Geräte] einschließlich Otoplastik, Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
+8.8 Hörgeräte (Hinter-dem-Ohr-Geräte [HdO-Geräte] sowie In-dem-Ohr-Geräte [IdO-Geräte] einschließlich Otoplastik, Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte [C.R.O.S.-Geräte, Contralateral Routing of Signals], drahtlose Hörhilfen), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Gehörlosigkeit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
 9.1 Impulsvibrator
 9.2 Infusionsbesteck oder -gerät und Zubehör
 9.3 Inhalationsgerät, einschließlich Sauerstoff und Zubehör, jedoch keine Luftbefeuchter, -filter, -wäscher
@@ -112,7 +114,7 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 11.18 Korrektursicherungsschuh
 11.19 Krabbler für Spastikerinnen und Spastiker
 11.20 Krampfaderbinde
-11.21 Krankenfahrstuhl und Zubehör
+11.21 Krankenfahrstuhl (auch elektrisch) und Zubehör
 11.22 Krankenpflegebett
 11.23 Krankenstock
 11.24 Kreuzstützbandage
@@ -156,30 +158,31 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 18.5 Rollbrett
 18.6 Rutschbrett
 19.1 Schede-Rad
-19.2 Schrägliegebrett
-19.3 Schutzbrille für Blinde
-19.4 Schutzhelm für Behinderte
-19.5 Schwellstromapparat
-19.6 Segofix-Bandagensystem
-19.7 Sitzkissen für Oberschenkelamputierte
-19.8 Sitzschale, wenn Sitzkorsett nicht ausreicht
-19.9 Skolioseumkrümmungsbandage
-19.10 Spastikerhilfen (Gymnastik-/Übungsgeräte)
-19.11 Spezialschuhe für Diabetiker, abzüglich eines Eigenanteils von 64 Euro
-19.12 Sphinkter-Stimulator
-19.13 Sprachverstärker nach Kehlkopfresektion
-19.14 Spreizfußbandage
-19.15 Spreizhose/-schale/-wagenaufsatz
-19.16 Spritzen
-19.17 Stabilisationsschuhe bei Sprunggelenkschäden, Achillessehnenschäden oder Lähmungszuständen (eine gleichzeitige Versorgung mit Orthesen oder Orthesenschuhen ist ausgeschlossen)
-19.18 Stehübungsgerät
-19.19 Stomaversorgungsartikel, Sphinkter-Plastik
-19.20 Strickleiter zum Aufrichten und Übersetzen Gelähmter
-19.21 Stubbies
-19.22 Stumpfschutzhülle
-19.23 Stumpfstrumpf
-19.24 Suspensorium
-19.25 Symphysengürtel
+19.2 Schlafpositionsgerät zur Lagetherapie bei positionsabhängiger obstruktiver Schlafapnoe (eine gleichzeitige Versorgung mit einem Atemtherapiegerät ist ausgeschlossen)
+19.3 Schrägliegebrett
+19.4 Schutzbrille für Blinde
+19.5 Schutzhelm für Behinderte
+19.6 Schwellstromapparat
+19.7 Segofix-Bandagensystem
+19.8 Sitzkissen für Oberschenkelamputierte
+19.9 Sitzschale, wenn Sitzkorsett nicht ausreicht
+19.10 Skolioseumkrümmungsbandage
+19.11 Spastikerhilfen (Gymnastik-/Übungsgeräte)
+19.12 Spezialschuhe für Diabetiker, abzüglich eines Eigenanteils von 64 Euro
+19.13 Sphinkter-Stimulator
+19.14 Sprachverstärker nach Kehlkopfresektion
+19.15 Spreizfußbandage
+19.16 Spreizhose/-schale/-wagenaufsatz
+19.17 Spritzen
+19.18 Stabilisationsschuhe bei Sprunggelenkschäden, Achillessehnenschäden oder Lähmungszuständen (eine gleichzeitige Versorgung mit Orthesen oder Orthesenschuhen ist ausgeschlossen)
+19.19 Stehübungsgerät
+19.20 Stomaversorgungsartikel, Sphinkter-Plastik
+19.21 Strickleiter zum Aufrichten und Übersetzen Gelähmter
+19.22 Stubbies
+19.23 Stumpfschutzhülle
+19.24 Stumpfstrumpf
+19.25 Suspensorium
+19.26 Symphysengürtel
 20.1 Talocrur (Sprunggelenkmanschette nach Dr. Grisar)
 20.2 Therapeutische Bewegungsgeräte (nur mit Spasmenschaltung)
 20.3 Therapiestuhl
@@ -192,7 +195,7 @@ Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel,
 21.3 Urinale
 21.4 Urostomiebeutel
 22.1 Verbandschuhe (Einzelschuhversorgung)
-22.2 Vibrationstrainer bei Taubheit
+22.2 Vibrationstrainer bei Gehörlosigkeit
 23.1 Wasserfeste Gehhilfe
 23.2 Wechseldruckgerät
 24.1 (frei)
@@ -221,11 +224,10 @@ Blindenhilfsmittel und Mobilitätstraining
 1. Aufwendungen für zwei Langstöcke sowie gegebenenfalls elektronische Blindenleitgeräte nach ärztlicher Verordnung sind beihilfefähig.
 2. Aufwendungen für die erforderliche Unterweisung im Gebrauch dieser Hilfsmittel (Mobilitätstraining) sind in folgendem Umfang beihilfefähig:
   a) Aufwendungen für eine Ausbildung im Gebrauch des Langstockes sowie für eine Schulung in Orientierung und Mobilität bis zu folgenden Höchstbeträgen:
-    aa) | Unterrichtsstunde à 60 Minuten, einschließlich 15 Minuten Vor- und Nachbereitung sowie der Erstellung von Unterrichtsmaterial, bis zu 100 Unterrichtsstunden | 63,50 Euro, |
-    bb) | Fahrtzeit der Trainerin oder des Trainers je Zeitstunde, wobei jede angefangene Stunde im 5-Minuten-Takt anteilig berechnet wird | 50,48 Euro, |
+    aa) | Unterrichtsstunde à 60 Minuten, einschließlich 15 Minuten Vor- und Nachbereitung sowie der Erstellung von Unterrichtsmaterial, bis zu 100 Unterrichtsstunden | 85 Euro, |
+    bb) | Fahrtzeit der Trainerin oder des Trainers je Zeitstunde, wobei jede angefangene Stunde im 5-Minuten-Takt anteilig berechnet wird | 68 Euro, |
     cc) Fahrtkosten der Trainerin oder des Trainers je gefahrenen Kilometer 0,30 Euro oder
-      die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels,
-    dd) | notwendige Unterkunft und Verpflegung der Trainerin oder des Trainers, soweit eine tägliche Rückkehr zum Wohnort der Trainerin oder des Trainers nicht zumutbar ist, je Tag | 26 Euro. |
+      die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels.
     Das Mobilitätstraining wird grundsätzlich als Einzeltraining ambulant oder stationär in einer Spezialeinrichtung durchgeführt. Werden an einem Tag mehrere Blinde unterrichtet, können die genannten Aufwendungen der Trainerin oder des Trainers nur anteilig berücksichtigt werden,
   b) Aufwendungen für ein erforderliches Nachtraining (zum Beispiel bei Wegfall eines noch vorhandenen Sehrestes, Wechsel des Wohnortes) werden entsprechend Buchstabe a anerkannt,
   c) Aufwendungen für ein ergänzendes Training an Blindenleitgeräten können in der Regel bis zu 30 Stunden anerkannt werden, gegebenenfalls einschließlich der Kosten für Unterkunft und Verpflegung sowie der Fahrtkosten der Trainerin oder des Trainers in entsprechendem Umfang. Die Anerkennung weiterer Stunden ist möglich, wenn die Trainerin oder der Trainer oder eine Ärztin oder ein Arzt die Notwendigkeit bescheinigt.
@@ -271,9 +273,9 @@ Brillengläser zur Verbesserung des Visus
   g) Brillenversicherungen,
   h) Gläser für eine sogenannte Zweitbrille, deren Korrektionsstärken bereits den vorhandenen Gläsern entsprechen (Mehrfachverordnung),
   i) Gläser für eine sogenannte Reservebrille, die zum Beispiel aus Gründen der Verkehrssicherheit benötigt werden,
-  j) Gläser für Sportbrillen, außer im Fall des Unterabschnitts 1 Nummer 5,
+  j) Gläser für Sportbrillen, außer im Fall des Unterabschnitts 1 Nummer 4,
   k) Brillenetuis,
-  l) Brillenfassungen, außer im Fall des Unterabschnitts 1 Nummer 5.
+  l) Brillenfassungen, außer im Fall des Unterabschnitts 1 Nummer 4.
 Unterabschnitt 3
 Kontaktlinsen zur Verbesserung des Visus
 1. Aufwendungen für Kontaktlinsen zur Verbesserung des Visus sind beihilfefähig bei:
@@ -289,14 +291,17 @@ Kontaktlinsen zur Verbesserung des Visus
 2. Aufwendungen für Kurzzeitlinsen sind je Kalenderjahr nur beihilfefähig
   a) für sphärische Kontaktlinsen bis zu 154 Euro,
   b) für torische Kontaktlinsen bis zu 230 Euro.
-3. Bei Vorliegen einer Indikation nach Nummer 1 sind zusätzlich Aufwendungen für eine Brille nach Unterabschnitt 2 ungeachtet von Unterabschnitt 1 Nummer 2 beihilfefähig. Liegt keine Indikation nach Nummer 1 vor, sind nur die vergleichbaren Kosten für Gläser beihilfefähig.
+3. Beihilfefähig sind
+  a) bei Vorliegen einer Indikation nach Nummer 1 zusätzlich Aufwendungen für Brillengläser nach Unterabschnitt 2 ungeachtet von Unterabschnitt 1 Nummer 2,
+  b) bei Nichtvorliegen einer Indikation nach Nummer 1 einmalig nur die vergleichbaren Kosten für Brillengläser; im Falle einer Ersatzbeschaffung gelten die Regelungen nach Unterabschnitt 1 Nummer 2 Buchstabe a und b.
 4. Nicht beihilfefähig sind:
   a) Kontaktlinsen als postoperative Versorgung (auch als Verbandlinse oder Verbandschale) nach nicht beihilfefähigen Eingriffen,
   b) Kontaktlinsen in farbigen Ausführungen zur Veränderung oder Verstärkung der körpereigenen Farbe der Iris,
   c) One-Day-Linsen,
-  d) multifokale Mehrstärkenkontaktlinsen,
+  d) multifokale Kontaktlinsen oder Mehrstärkenkontaktlinsen,
   e) Kontaktlinsen mit Lichtschutz und sonstigen Kantenfiltern,
-  f) Reinigungs- und Pflegemittel für Personen, die das 18. Lebensjahr vollendet haben.
+  f) orthokeratologische Kontaktlinsen (Nachtlinsen) zur Korrektur von Fehlsichtigkeit im Schlaf,
+  g) Reinigungs- und Pflegemittel für Kontaktlinsen für Personen, die das 18. Lebensjahr vollendet haben.
 Unterabschnitt 4
 Vergrößernde Sehhilfen zur Verbesserung der Sehschärfe
 1. Aufwendungen für folgende ärztlich verordnete vergrößernde Sehhilfen sind beihilfefähig:

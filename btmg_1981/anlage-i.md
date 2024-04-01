@@ -31,15 +31,6 @@
 | - | 25B-NBOMe(2C-B-NBOMe) | 2-(4-Brom-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamin |
 | Brolamfetamin | Dimethoxybromamfetamin (DOB) | (RS)-1-(4-Brom-2,5-dimethoxy-phenyl)propan-2-ylazan |
 | - | Bromdimethoxyphenethylamin (BDMPEA, 2C-B) | 4-Brom-2,5-dimethoxyphenethyl-azan |
-| - | Cannabis(Marihuana, Pflanzen und Pflanzenteile der zur Gattung Cannabis gehörenden Pflanzen) | - |
-| - ausgenommen |  |  |
-| a) | deren Samen, sofern er nicht zum unerlaubten Anbau bestimmt ist, |
-| b) | wenn sie aus dem Anbau in Ländern der Europäischen Union mit zertifiziertem Saatgut von Hanfsorten stammen, die am 15. März des Anbaujahres im gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten aufgeführt sind und die nach Artikel 17 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung durch die Europäische Kommission im Amtsblatt der Europäischen Union Reihe C veröffentlicht sind, oder ihr Gehalt an Tetrahydrocannabinol 0,3 Prozent nicht übersteigt und der Verkehr mit ihnen (ausgenommen der Anbau) ausschließlich gewerblichen oder wissenschaftlichen Zwecken dient, die einen Missbrauch zu Rauschzwecken ausschließen, |
-| c) | wenn sie als Schutzstreifen bei der Rübenzüchtung gepflanzt und vor der Blüte vernichtet werden, |
-| d) | wenn sie von Unternehmen der Landwirtschaft angebaut werden, dieaa)Voraussetzungen des § 1 Absatz 4 des Gesetzes über die Alterssicherung der Landwirte erfüllen, mit Ausnahme von Unternehmen der Forstwirtschaft, des Garten- und Weinbaus, der Fischzucht, der Teichwirtschaft, der Imkerei, der Binnenfischerei und der Wanderschäferei, oderbb)für eine Direktzahlung nach dem GAP-Direktzahlungen-Gesetz in Betracht kommen |
-|  | und der Anbau ausschließlich aus zertifiziertem Saatgut von Hanfsorten erfolgt, die am 15. März des Anbaujahres im gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten aufgeführt sind und die nach Artikel 17 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils geltenden Fassung durch die Europäische Kommission im Amtsblatt der Europäischen Union Reihe C veröffentlicht sind (Nutzhanf) oder |
-| e) | zu den in Anlage III bezeichneten Zwecken - |
-| - | Cannabisharz(Haschisch, das abgesonderte Harz der zur Gattung Cannabis gehörenden Pflanzen=) | - |
 | Carfentanil | - | Methyl[1-phenethyl-4-(N-phenyl-propanamido)piperidin-4-carboxylat] |
 | Cathinon | - | (S)-2-Amino-1-phenylpropan-1-on |
 | - | 2C-C | 2-(4-Chlor-2,5-dimethoxyphenyl)ethanamin |
@@ -174,13 +165,14 @@
 | - | Salvia divinorum (Pflanzen und Pflanzenteile) | - |
 | Tenamfetamin | Methylendioxyamfetamin (MDA) | (RS)-1-(1,3-Benzodioxol-5-yl)propan-2-ylazan |
 | Tenocyclidin | TCP | 1-[1-(2-Thienyl)cyclohexyl]piperidin |
-|  | Tetrahydrocannabinole, folgende Isomeren und ihre stereochemischen Varianten: |  |
-| - | Δ6a(10a)-Tetrahydrocannabinol(Δ6a(10a)-THC) | 6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6H-benzo[c]chromen-1-ol |
-| - | Δ6a-Tetrahydrocannabinol(Δ6a-THC) | (9R,10aR)-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetra-hydro-6H-benzo[c]chromen-1- ol(6aR,9R,10aR)-6,6,9-Trimethyl-3-pentyl-6a,9,10,10a-tetrahydro-6H-benzo[c] chromen-1-ol |
-| - | Δ7-Tetrahydrocannabinol(Δ7-THC) |
-| - | Δ8-Tetrahydrocannabinol(Δ8-THC) | (6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetra-hydro-6H-benzo[c]chromen- 1-ol(6aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9-tetrahydro-6H-benzo[c]chromen-1-ol |
-| - | Δ10-Tetrahydrocannabinol(Δ10-THC) |
-| - | Δ9(11)-Tetrahydrocannabinol(Δ9(11)-THC) | (6aR,10aR)-6,6-Dimethyl-9-methylen-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c] chromen-1-ol |
+| - | Tetrahydrocannabinole, folgende Isomeren und ihre stereochemischen Varianten: |  |
+| - | Δ6a(10a)-Tetrahydrocannabinol (Δ6a(10a)-THC) | 6,6,9-Trimethyl-3-pentyl-7,8,9,10-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ6a-Tetrahydrocannabinol (Δ6a-THC) | (9R,10aR)-6,6,9-Trimethyl-3-pentyl-8,9,10,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ7-Tetrahydrocannabinol (Δ7-THC) | (6aR,9R,10aR)-6,6,9-Trimethyl-3-pentyl-6a,9,10,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ8-Tetrahydrocannabinol (Δ8-THC) | (6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ10-Tetrahydrocannabinol (Δ10-THC) | (6aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Δ9(11)-Tetrahydrocannabinol (Δ9(11)-THC) | (6aR,10aR)-6,6-Dimethyl-9-methylen-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1-ol |
+| – ausgenommen, a)wenn es sich um Cannabis zu medizinisch-wissenschaftlichen Zwecken im Sinne des Medizinal-Cannabisgesetzes handelt, oderb)wenn es sich um eine nichtsynthetische Form handelt, die zu nichtmedizinischen Zwecken im Verkehr ist. |
 | - | Thenylfentanyl | N-Phenyl-N-(1-thenyl-4-piperidyl)propanamid |
 | - | Thienoamfetamin(Thiopropamin) | 1-(Thiophen-2-yl)propan-2-amin |
 | - | Thiofentanyl | N-Phenyl-N-{1-[2-(2-thienyl)ethyl]-4-piperidyl}propanamid |

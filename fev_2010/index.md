@@ -30,6 +30,7 @@
 - [§ 11 Eignung](0011.md)
 - [§ 12 Sehvermögen](0012.md)
 - [§ 13 Klärung von Eignungszweifeln bei Alkoholproblematik](0013.md)
+- [§ 13a Klärung von Eignungszweifeln bei Cannabisproblematik](0013a.md)
 - [§ 14 Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel](0014.md)
 - [§ 15 Fahrerlaubnisprüfung](0015.md)
 - [§ 16 Theoretische Prüfung](0016.md)

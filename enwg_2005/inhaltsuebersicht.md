@@ -236,15 +236,15 @@
 | § 49b | Temporäre Höherauslastung |
 | § 49c | Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen |
 | § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
-| § 50a | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve; Verordnungsermächtigung |
-| § 50b | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Pflicht zur Betriebsbereitschaft und Brennstoffbevorratung für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve |
-| § 50c | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, Ende der befristeten Teilnahme am Strommarkt und ergänzende Regelungen zur Kostenerstattung |
-| § 50d | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung |
-| § 50e | Verordnungsermächtigung zu Maßnahmen zur Ausweitung des Stromerzeugungsangebots und Festlegungskompetenz der Bundesnetzagentur |
-| § 50f | Verordnungsermächtigung für Maßnahmen zur Reduzierung der Gasverstromung zur reaktiven und befristeten Gaseinsparung |
+| § 50a | (weggefallen) |
+| § 50b | (weggefallen) |
+| § 50c | (weggefallen) |
+| § 50d | (zukünftig in Kraft) |
+| § 50e | (weggefallen) |
+| § 50f | (weggefallen) |
 | § 50g | Flexibilisierung der Gasbelieferung |
-| § 50h | Vertragsanalyse der Gaslieferanten für Letztverbraucher |
-| § 50i | Verhältnis zum Energiesicherungsgesetz |
+| § 50h | (weggefallen) |
+| § 50i | (weggefallen) |
 | § 50j | Evaluierung der Maßnahmen nach den §§ 50a bis 50h |
 | § 51 | Monitoring der Versorgungssicherheit |
 | § 51a | Monitoring des Lastmanagements |
