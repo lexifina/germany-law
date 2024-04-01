@@ -39,11 +39,6 @@ Allgemeines Kostenverzeichnis:
 102.00 | Erteilung eines Ge- oder Verbotes sowie Androhung von Zwangsmitteln nach den §§ 11 und 17 des Bremischen Verwaltungsvollstreckungsgesetzes oder entsprechenden anderen Rechtsvorschriften | gebührenfrei
 102.01 | Tatbestand nach 102.00 nach erfolgter vergeblicher Anmahnung des Tuns, Lassens oder der Duldung | 30,00 Euro bis 600,00 Euro
 102.02 | Festsetzung von Zwangsgeld und der Kosten für vorher schriftlich angedrohte Ersatzvornahme nach dem Bremischen Verwaltungsvollstreckungsgesetz | 5 v. H. des festgesetzten Zwangsgeldes bzw. der Aufwendungen für die Ersatzvornahme mindestens 21,00 Euro
-102.03 | Anordnen einer vorher nicht schriftlich angedrohten Ersatzvornahme nach §§ 15 und 19 des Bremischen Verwaltungsvollstreckungsgesetzes oder entsprechenden anderen Rechtsvorschriften im Zusammenhang mit verbotswidrig abgestellten Fahrzeugen (z. B. Abschleppen bei Halteverboten) | 58,00 Euro
- | Anmerkung zu 102.03: | 
- | Dies gilt auch, sofern nach der Anordnung die Ersatzvornahme aus Gründen, die nicht von der Behörde zu vertreten sind, nicht oder nicht vollständig durchgeführt wird. Wird die nach Nr. 102.03 zu erhebende Gebühr durch einen Leistungsbescheid festgesetzt, so wird für die Festsetzung keine zusätzliche Gebühr erhoben. | 
-102.04 | Zuschlag bei Tatbestand nach 102.02 oder 102.03 mit anschließender Verschrottung eines Fahrzeugs | 36,00 Euro
-102.05 | Zuschlag bei Tatbestand nach 102.02 oder 102.03 mit anschließender Versteigerung eines Fahrzeugs | 60,00 Euro
 103 | Gebührenrechnung nach Zeitaufwand | 
 103.00 | Bei Gebührenberechnungen nach dem Zeitaufwand werden unter Berücksichtigung der Regelung in § 5 Absatz 1 des Bremischen Gebühren- und Beitragsgesetzes folgende Stundensätze in Anrechnung gebracht: | 
  | Für eine Beamtin oder einen Beamten der Laufbahngruppe II zweites Einstiegsamt (A13 – A16) oder Arbeitnehmerinnen oder Arbeitnehmer in vergleichbarer Entgeltgruppe | 89,00 Euro
