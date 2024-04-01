@@ -5,20 +5,22 @@ Kostenverzeichnis Wirtschaft
 Nr. | Kostentatbestand | Kostensatz | 
 12 | Öffentliche Sicherheit und Ordnung |  | 
 123 | Geldwäscheprävention nach dem Geldwäschegesetz (GwG) |  | 
-123.01 | Befreiung von der Dokumentation der Risikoanalyse nach § 5 GwG | 50,00 bis 1 000,00 | 
-123.02 | Anzeige der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 50,00 bis 1 000,00 | 
-123.03 | Untersagung der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 50,00 bis 1 000,00 | 
-123.04 | Anordnung zur Schaffung interner Sicherungsmaßnahmen nach § 6 Absatz 8 GwG | 50,00 bis 1 000,00 | 
+123.01 | Befreiung von der Dokumentation der Risikoanalyse nach § 5 Absatz 4 GwG | 73,00 bis 1 022,00 | 
+123.02 | Anzeige der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 73,00 bis 1 022,00 | 
+123.03 | Untersagung der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 73,00 bis 1 022,00 | 
+123.04 | Anordnung zur Schaffung interner Sicherungsmaßnahmen nach § 6 Absatz 8 GwG | 73,00 bis 1 022,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.05 | Anordnung nach § 6 Absatz 9 GwG | 50,00 bis 1 000,00 | 
+123.05 | Anordnung nach § 6 Absatz 9 GwG | 73,00 bis 1 022,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.06 | Befreiung von der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 2 GwG | 50,00 bis 1 000,00 | 
-123.07 | Anordnung der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 3 GwG | 50,00 bis 1 000,00 | 
+123.06 | Befreiung von der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 2 GwG | 73,00 bis 1 022,00 | 
+123.07 | Anordnung der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 3 GwG | 73,00 bis 1 022,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.08 | Anordnung der Abberufung eines Geldwäschebeauftragten nach § 7 Absatz 4 GwG | 50,00 bis 1 000,00 | 
-123.09 | Anordnung nach § 9 Absatz 3 GwG | 50,00 bis 1 000,00 | 
-123.10 | Anordnung nach § 15 Absatz 8 GwG | 50,00 bis 1 000,00 | 
-123.11 | Anordnung, Untersagung oder Widerruf nach § 51 Absatz 5 GwG | 50,00 bis 1 000,00 | 
+123.08 | Anordnung der Abberufung eines Geldwäschebeauftragten nach § 7 Absatz 4 GwG | 73,00 bis 1 022,00 | 
+123.09 | Anordnung nach § 9 Absatz 3 GwG | 73,00 bis 1 022,00 | 
+123.10 | Anordnung nach § 15 Absatz 8 GwG | 73,00 bis 1 022,00 | 
+123.11 | Prüfung der Einhaltung der im Geldwäschegesetz festgelegten Anforderungen nach § 51 Absatz 3 GwG, sofern die oder der Verpflichtete besonderen Anlass zur Durchführung der Kontrolle gegeben hat | nach Zeitaufwand gemäß Stundensatz AllKostV Ziffer 103.00 zzgl. Auslagen | 
+123.12 | Anordnung, Untersagung oder Widerruf nach § 51 Absatz 5 GwG | 73,00 bis 1 825,00 | 
+123.13 | Sonstige Maßnahmen und Anordnungen nach § 51 Absatz 2 GwG, soweit nicht vorstehend geregelt | nach Zeitaufwand gemäß Stundensatz AllKostV Ziffer 103.00 zzgl. Auslagen | 
 130 | Vollzug des Prostituiertenschutzgesetzes (ProstSchG) |  | 
 130.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen nach dem ProstSchG, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
 130.01 | Anmeldebescheinigung nach § 5 ProstSchG | 16,00 | 
@@ -35,7 +37,7 @@ Nr. | Kostentatbestand | Kostensatz |
 130.11 | Rücknahme und Widerruf von Erlaubnissen nach § 23 ProstSchG | 250,00 bis 25 000,00 | 
  | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
 130.12 | Beschäftigungs-/Tätigkeitsverbot nach § 25 Absatz 3 ProstSchG | 250,00 bis 2 500,00 | 
-130.13 | Nachkontrolle eines Prostitutionsgewerbebetriebes nach den §§ 29 bis 31 ProstSchG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | nach Zeit- und Sachaufwand zzgl. Auslagen | 
+130.13 | Überwachung eines Prostitutionsgewerbebetriebes nach § 29 ProstSchG. | nach Zeitaufwand gemäß Stundensatz AllKostV Ziffer 103.00 zzgl. Auslagen | 
 15 | Gewerbewesen (aus genommen Gaststättenwesen) |  | 
 150 | Gewerbeordnung (GewO) und Durchführungsvorschriften |  | 
 150.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gewerbeangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
@@ -47,6 +49,7 @@ Nr. | Kostentatbestand | Kostensatz |
 150.03 | Anzeige über den Beginn oder die Verlegung eines Gewerbebetriebes sowie über Veränderungen und die Aufgabe des Gewerbes einschließlich des Empfangs der Anzeigebescheinigung (§ 14 Absatz 1 i.V.m. § 15 Absatz 1 GewO) |  | 
  | Gewerbeanmeldung | 32,00 | 
  | Gewerbeummeldung | 18,00 | 
+ | Gewerbeberichtigung | 18,00 | 
  | Gewerbeabmeldung | gebührenfrei | 
 150.04 | Beanstandung einer Gewerbeanzeige | 18,00 | 
 150.05 | je Mehr- oder Ersatzausfertigung | 9,00 | 
@@ -62,19 +65,17 @@ Nr. | Kostentatbestand | Kostensatz |
 150.12 | Erlaubnis zum Betrieb des Pfandleih- oder Pfandleihvermittlungsgewerbes nach § 34 GewO | 192,00 | 
  | Bewachungsgewerbe |  | 
 150.13 | Erlaubnis zum Betrieb des Bewachungsgewerbes nach § 34a GewO | 435,00 bis 1 920,00 | 
-150.14 | Meldung je Wachperson gemäß § 9 Absatz 3 Bewachungsverordnung (BewachV) | 80,00 | 
+150.14 | Meldung je Wachperson gemäß § 16 Absatz 2 Bewachungsverordnung (BewachV) | 80,00 | 
 150.15 | Überprüfung eines Bewachungsgewerbetreibenden oder einer Wachperson nach § 34a Absatz 1 (i.V.m. § 34a Absatz 1a) GewO oder aus besonderem Anlass | 80,00 bis 1 800,00 | 
-150.16 | Abmeldung je Wachperson nach § 9 Absatz 3 BewachV | 8,00 | 
-150.17 | Abmeldung je Wachperson nach § 9 Absatz 3 BewachV nach behördlichem Hinweis | 48,00 | 
+150.16 | Abmeldung je Wachperson nach § 16 Absatz 6 BewachV | 8,00 | 
+150.17 | Abmeldung je Wachperson nach § 16 Absatz 6 BewachV nach behördlichem Hinweis | 48,00 | 
 150.18 | Untersagung der Beschäftigung einer Wachperson nach § 34a Absatz 4 GewO | 94,00 bis 581,00 | 
  | Versteigerergewerbe |  | 
 150.19 | Versteigerererlaubnis nach § 34b GewO | 128,00 | 
  | Maklergewerbe |  | 
 150.20 | Erlaubnis nach § 34c Absatz 1 GewO | 294,00 bis 1 001,00 | 
- | Gewerbeuntersagung |  | 
-150.21 | Untersagung eines Gewerbes wegen Unzuverlässigkeit oder aus anderen Gründen nach § 35 GewO | 250,00 bis 4 740,00 | 
- | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
-150.22 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 424,00 | 
+ | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes |  | 
+150.21 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 424,00 | 
  | Überwachungsbedürftiges Gewerbe |  | 
 150.23 | Zuverlässigkeitsüberprüfung nach § 38 Absatz 1 Satz 1 GewO | 59,00 bis 929,00 | 
 150.24 | Auskunftsanforderung nach § 38 Absatz 1 Satz 3 GewO (zusätzlich zu den Kosten für das Führungszeugnis oder/und die Gewerbezentralregisterauskunft) Erlöschen von Erlaubnissen | 41,00 | 
@@ -98,7 +99,7 @@ Nr. | Kostentatbestand | Kostensatz |
 151 | Bremisches Spielhallengesetz (BremSpielhG) |  | 
 151.01 | Erlaubnis zum Betrieb eines Spielhallengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nummer 151.02 anzuwenden. Für die Rücknahme und den Widerruf ist die Nr. 150.38 anzuwenden. | 477,00 bis 8 866,00 | 
 151.02 | Anordnung und Auflage nach § 2 Absatz 3 BremSpielhG | 95,00 bis 1 210,00 | 
-151.03 | Fristverlängerung nach § 2 Absatz 5 Satz 2 BremSpielhG | 18,00 bis 71,00 | 
+151.03 | Fristverlängerung nach § 2b Satz 2 BremSpielhG | 18,00 bis 71,00 | 
 151.04 | Nachkontrolle eines Spielhallenbetriebs nach § 7 BremSpielhG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 59,00 bis 871,00 | 
 151.05 | Anordnung nach § 9 Absatz 1 BremSpielhG | 95,00 bis 1 210,00 | 
 152 | Gewerberechtliche Nebengesetze |  | 
@@ -106,22 +107,20 @@ Nr. | Kostentatbestand | Kostensatz |
 16 | Gaststättenwesen |  | 
 160 | Amtshandlungen nach dem Bremischen Gaststättengesetz (BremGastG) und der Bremischen Gaststättenverordnung (BremGastV) |  | 
 160.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gaststättenangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist Nummer 160.04 anzuwenden. Für die Rücknahme und den Widerruf ist Nummer 150.38 anzuwenden. | 189,00 | 
+160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist Nummer 160.04 anzuwenden. Für die Rücknahme und den Widerruf ist Nummer 150.38 anzuwenden. | 389,00 | 
 160.02 | Vorübergehende Erlaubnis zum Betrieb eines Gaststättengewerbes nach § 2 Absatz 3 BremGastG | 53,00 | 
 160.03 | Fristverlängerung nach § 2 Absatz 5 BremGastG | 18,00 | 
 160.04 | Anordnungen und Auflagen nach Erteilung der Erlaubnis nach § 2 Absatz 2 BremGastG und Anordnungen bei erlaubnisfreien Gaststättenbetrieben nach § 2 Absatz 6 BremGastG | nach Zeit- und Sachaufwand zzgl. Auslagen | 
 160.05 | Beschäftigungsverbot nach § 5 BremGastG | 424,00 | 
 160.06 | Nachkontrolle eines Gaststättenbetriebs nach § 7 BremGastG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 59,00 bis 871,00 | 
-160.07 | Sperrzeitverkürzung oder Sperrzeitaufhebung (§ 4 BremGastV) |  | 
- | im Einzelfall | 18,00 | 
- | für einen Kalendermonat, bis zu einem Jahr | 128,00 | 
-160.08 | Ausnahmen von der Sperrzeit nach § 4 BremGastV durch Allgemeinverfügung | gebührenfrei | 
-160.09 | Anzeigepflicht nach § 5 Absatz 1 BremGastV | 128,00 | 
-160.10 | Meldung je Wachperson gemäß § 5 Absatz 2 BremGastV | 53,00 | 
-160.11 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 59,00 bis 581,00 | 
-160.12 | Abmeldung je Wachperson gemäß § 5 Absatz 2 BremGastV | 8,00 | 
-160.13 | Abmeldung je Wachperson gemäß § 5 Absatz 2 BremGastV nach behördlichem Hinweis | 48,00 | 
-160.14 | Auskunftsanforderung gemäß § 5 Absatz 3 BremGastV (zusätzlich zu den Kosten für das Führungszeugnis) | 36,00 | 
+160.07 | Sperrzeitänderungen im Einzelfall bei Spielhallen und Wettvermittlungsstellen im Sinne des § 1 Absatz 3 BremGastV | nach Zeitaufwand gemäß Stundensatz AllKostV Ziffer 103.00 zzgl. Auslagen | 
+160.08 | Sperrzeitfestsetzung für Gaststättenbetriebe und öffentliche Vergnügungsstätten im Sinne des § 2 Absatz 2 BremGastV | nach Zeitaufwand gemäß Stundensatz AllKostV Ziffer 103.00 zzgl. Auslagen | 
+160.09 | Anzeigepflicht gemäß § 3 Absatz 1 BremGastV | 128,00 | 
+160.10 | Meldung je Wachperson gemäß § 3 Absatz 2 Satz 1 BremGastV | 128,00 | 
+160.11 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 80,00 bis 1 800,00 | 
+160.12 | Abmeldung je Wachperson gemäß § 3 Absatz 2 Satz 2 BremGastV | 8,00 | 
+160.13 | Abmeldung je Wachperson gemäß § 3 Absatz 2 Satz 2 BremGastV nach behördlichem Hinweis | 48,00 | 
+160.14 | Auskunftsanforderung gemäß § 3 Absatz 3 BremGastV(zusätzlich zu den Kosten für das Führungszeugnis) | 36,00 | 
 165.00 | Nachkontrolle eines Gewerbebetriebes, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 55,00 bis 605,00 | 
 170 | Bergbauberechtigungen |  | 
 170.00 | Einteilung einer Erlaubnis (§§ 6, 7, 11) |  | 
