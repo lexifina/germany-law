@@ -1,0 +1,52 @@
+# 12. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-04-03T19:00:00+02:00
+- Ende: 2024-04-03T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5569
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5569
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=391090
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - erledigt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Überwiesene Drucksachen - erledigt
+- TOP 5.1: Die Grünfläche am S-Bahn-Durchgang Karlshorst an der Straße Am Carlsgarten umgestalten und ein Rosenrondell schaffen - vertagt
+- TOP 5.2: Wegsanierung um den Orankesee - vertagt
+- TOP 5.3: Aufenthaltsqualität für Anwohnende Ecke Rudolf-Reusch- und Normannenstraße steigern - vertagt
+- TOP 5.4: Volleyball auch am Abend ermöglichen - vertagt
+- TOP 5.5: Skateanlage an der Kiezspinne noch in diesem Jahr - vertagt
+- TOP 5.6: Bolzplatz an der Fischerstraße - vertagt
+- TOP 5.7: Calisthenics Park an der Rummelsburger Bucht einrichten - vertagt
+- TOP 5.8: Bolzplatz für den Mauritius-Kiez - mit Änderungen im Ausschuss beschlossen
+- TOP 5.9: Nachhaltiges Müllmanagement in Lichtenberg - vertagt
+- TOP 5.10: Hundefreilauffläche im Hinkelpark / Nöldnerpark - vertagt
+- TOP 5.11: Hundefreilauffläche in der Parkaue - vertagt
+- TOP 5.12: Teilsanierung des Neuzeller Weges - vertagt
+- TOP 5.13: Die Schulgesundheitsfachkraft an der Gutenberg-Oberschule wird auch im Jahr 2024 benötigt - vertagt
+- TOP 5.14: Errichtung einer jüdischen Begegnungsstätte in Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 5.15: Die Zukunft ist digital: Online-Informationen statt Mail-Anfragen - Transparenz steigern und Personal entlasten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.16: Regenrückhaltebecken in Alt-Hohenschönhausen neu aktivieren - vertagt
+- TOP 5.17: Jugendlicher Freiraum im Ostseekarree: Gemeinsame Planung eines überdachten Aufenthaltsortes für Jugendliche - vertagt
+- TOP 5.18: Reparatur der Infotafeln im Stadion- Friedrichsfelde - vertagt
+- TOP 5.19: Regierungsvorhaben eines Hauses des Engagements in Lichtenberg umsetzen - vertagt
+- TOP 5.20: Boulebahnen für Karlshorst - vertagt
+- TOP 5.21: Öffnungszeiten des Familienbüros erweitern - vertagt
+- TOP 5.22: Werbefilm für mehr Lehrer:innen in Lichtenberg! - vertagt
+- TOP 5.23: Klimaziele einhalten - Heizkosten in Schulen und öffentlichen Gebäuden senken - vertagt
+- TOP 5.24: BVV-Sondermittel für den „Dance Slam“ am 06.07.2024 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.25: Das Kunsthaus 360° in Hohenschönhausen bewahren! - vertagt
+- TOP 5.26: Fahrradbarometer in Lichtenberg - vertagt
+- TOP 5.27: Wasserfest in der Rummelsburger Bucht ermöglichen - vertagt
+- TOP 5.28: Familiengutscheine für alle Lichtenberger Familien - vertagt
+- TOP 5.29: Die grüne Revolution: Fassadenbegrünungen und Gründacher in Lichtenberg - vertagt
+- TOP 5.30: BVV-Sondermittel für das Familienfest beim Familienrenntag auf der Trabrennbahn Karlshorst - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.31: BVV Sondermittel für das Sommer-Gecko-Fest der KiTa Pinocchio - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Sonstiges - erledigt
