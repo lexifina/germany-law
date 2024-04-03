@@ -23,10 +23,13 @@
 
 ## Kapitel 4 Gemeinschaftlicher Eigenanbau und kontrollierte Weitergabe von Cannabis und Vermehrungsmaterial in Anbauvereinigungen zum Eigenkonsum
 
-- [§ 11 bis 15 (zukünftig in Kraft)](0011-bis-15.md)
+
+### Abschnitt 1 (zukünftig in Kraft)
+
 
 ### Abschnitt 1 Erlaubnis für den gemeinschaftlichen Eigenanbau und die Weitergabe von Cannabis in Anbauvereinigungen
 
+- [(XXXX) §§ 11 bis 15 (zukünftig in Kraft)](xxxx-11-bis-15.md)
 
 ### Abschnitt 2 Gemeinschaftlicher Eigenanbau in Anbauvereinigungen
 

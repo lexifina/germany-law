@@ -18,7 +18,6 @@
 - [§ 15 Geschäftsstatistik](0015.md)
 - [§ 16 Bußgeldvorschriften](0016.md)
 - [§ 17 Datenaustausch und Auskunftspflichten](0017.md)
-- [§ 17 Datenaustausch und Auskunftspflichten](0017-2.md)
 - [§ 18 Ermächtigungen](0018.md)
 - [§ 19 Anwendungsvorschriften und Übergangsvorschriften](0019.md)
 - [Anlage 1 (zu § 11)](anlage-1.md)
