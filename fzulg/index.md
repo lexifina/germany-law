@@ -17,4 +17,5 @@
 - [§ 14 Verordnungsermächtigung](0014.md)
 - [§ 15 Bekanntmachungserlaubnis](0015.md)
 - [§ 16 Anwendungsregelung](0016.md)
+- [§ 16a Anonymisierung und Datenverarbeitung](0016a.md)
 - [§ 17 Evaluierung und wissenschaftliche Forschung](0017.md)

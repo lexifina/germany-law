@@ -28,6 +28,7 @@
 - [§ 10 Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland](0010.md)
 - [§ 11 Anwesenheit von inländischen Bediensteten in anderen Mitgliedstaaten](0011.md)
 - [§ 12 Gleichzeitige Prüfung](0012.md)
+- [§ 12a Gemeinsame Prüfung](0012a.md)
 - [§ 13 Zustellungsersuchen an andere Mitgliedstaaten](0013.md)
 - [§ 14 Zustellungsersuchen von anderen Mitgliedstaaten](0014.md)
 

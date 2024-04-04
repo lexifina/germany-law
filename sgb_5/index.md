@@ -911,6 +911,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser](0348.md)
 - [§ 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte](0349.md)
 - [§ 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte](0350.md)
+- [§ 350a Anspruch der Versicherten auf Digitalisierung von in Papierform vorliegenden medizinischen Informationen; Übertragung in die elektronische Patientenakte](0350a.md)
 - [§ 351 Übertragung von Daten aus Anwendungen nach § 33a in die elektronische Patientenakte; Bereitstellung von Daten der elektronischen Patientenakte im grenzübergreifenden Austausch](0351.md)
 
 ##### Dritter Untertitel Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
@@ -942,6 +943,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen](0360.md)
 - [§ 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur](0361.md)
 - [§ 361a Einwilligungsbasierte Übermittlung von Daten aus vertragsärztlichen elektronischen Verordnungen; Verordnungsermächtigung](0361a.md)
+- [§ 361b Zugriff auf ärztliche Verordnungen digitaler Gesundheitsanwendungen in der Telematikinfrastruktur](0361b.md)
 
 #### Siebter Titel Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
 
@@ -964,6 +966,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 369 Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit](0369.md)
 - [§ 370 Entscheidung der Schlichtungsstelle](0370.md)
 - [§ 370a Unterstützung der Kassenärztlichen Vereinigungen bei der Vermittlung telemedizinischer Angebote durch die Kassenärztliche Bundesvereinigung, Verordnungsermächtigung](0370a.md)
+- [§ 370b Technische Verfahren in strukturierten Behandlungsprogrammen mit digitalisierten Versorgungsprozessen; Verordnungsermächtigung](0370b.md)
 
 ### Siebter Abschnitt Anforderungen an Schnittstellen in informationstechnischen Systemen
 
@@ -983,6 +986,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 380 Finanzierung der den Hebammen, Physiotherapeuten und anderen Heilmittelerbringern, Hilfsmittelerbringern, zahntechnischen Laboren, Erbringern von Soziotherapie nach § 37a sowie weiteren Leistungserbringern entstehenden Ausstattungs- und Betriebskosten](0380.md)
 - [§ 381 Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten](0381.md)
 - [§ 382 Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten](0382.md)
+- [§ 382a Erstattung der den Betriebsärzten entstehenden Ausstattungs- und Betriebskosten](0382a.md)
 - [§ 383 Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung](0383.md)
 
 ## Zwölftes Kapitel Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal
@@ -993,6 +997,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 387 Konformitätsbewertung](0387.md)
 - [§ 388 Verbindlichkeitsmechanismen](0388.md)
 - [§ 389 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung](0389.md)
+- [§ 390 IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0390.md)
 - [§ 391 IT-Sicherheit in Krankenhäusern](0391.md)
 - [§ 392 IT-Sicherheit der gesetzlichen Krankenkassen](0392.md)
 - [§ 393 (weggefallen)](0393.md)
