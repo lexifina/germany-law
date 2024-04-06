@@ -12,7 +12,7 @@
 | Erster Abschnitt | Übersicht über die Leistungen ....... | § 11 |
 | Zweiter Abschnitt | Gemeinsame Vorschriften ............. | §§ 12 bis 19 |
 | Dritter Abschnitt | Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe ....... | §§ 20 bis 24i |
-| Vierter Abschnitt | Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten ....... | §§ 25 und 26 |
+| Vierter Abschnitt | Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten ....... | §§ 25 bis 26 |
 | Fünfter Abschnitt | Leistungen bei Krankheit |  |
 | Erster Titel | Krankenbehandlung ................... | §§ 27 bis 43c |
 | Zweiter Titel | Krankengeld ......................... | §§ 44 bis 51 |
@@ -85,7 +85,7 @@
 |  |  |
 | Zehntes Kapitel | Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz |  |
 | Erster Abschnitt | Informationsgrundlagen |  |
-| Erster Titel | Grundsätze der Datenverwendung ...... | §§ 284 bis 287a |
+| Erster Titel | Grundsätze der Datenverwendung ...... | §§ 284 bis 287 |
 | Zweiter Titel | Informationsgrundlagen der Krankenkassen ....................... | §§ 288 bis 293a |
 | Zweiter Abschnitt | Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz |  |
 | Erster Titel | Übermittlung von Leistungsdaten ....... | §§ 294 bis 303 |

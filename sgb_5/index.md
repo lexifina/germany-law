@@ -85,6 +85,7 @@ Europäischen Wirtschaftsraum](0018.md)
 
 - [§ 25 Gesundheitsuntersuchungen](0025.md)
 - [§ 25a Organisierte Früherkennungsprogramme](0025a.md)
+- [§ 25b Datengestützte Erkennung individueller Gesundheitsrisiken durch die Kranken- und Pflegekassen](0025b.md)
 - [§ 26 Gesundheitsuntersuchungen für Kinder und Jugendliche](0026.md)
 
 ### Fünfter Abschnitt Leistungen bei Krankheit
@@ -765,7 +766,6 @@ Datenschutz, Datentransparenz
 - [§ 285 Personenbezogene Daten bei den Kassenärztlichen Vereinigungen](0285.md)
 - [§ 286 Datenübersicht](0286.md)
 - [§ 287 Forschungsvorhaben](0287.md)
-- [§ 287a Federführende Datenschutzaufsicht in der Versorgungs- und Gesundheitsforschung](0287a.md)
 
 #### Zweiter Titel Informationsgrundlagen der
 Krankenkassen
@@ -796,6 +796,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 294a Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden](0294a.md)
 - [§ 295 Übermittlungspflichten, Verpflichtung zur Empfangsbereitschaft und Abrechnung bei ärztlichen Leistungen](0295.md)
 - [§ 295a Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen](0295a.md)
+- [§ 295b Vorabübermittlung vorläufiger Daten zur Abrechnung bei ärztlichen Leistungen](0295b.md)
 - [§ 296 Datenübermittlung für Wirtschaftlichkeitsprüfungen](0296.md)
 - [§ 297 Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen](0297.md)
 - [§ 298 Übermittlung versichertenbezogener Daten](0298.md)
@@ -809,7 +810,7 @@ von Leistungsdaten, Datentransparenz
 #### Zweiter Titel Datentransparenz
 
 - [§ 303a Wahrnehmung der Aufgaben der Datentransparenz; Verordnungsermächtigung](0303a.md)
-- [§ 303b Datenzusammenführung und -übermittlung](0303b.md)
+- [§ 303b Datenzusammenführung und -übermittlung; Verordnungsermächtigung](0303b.md)
 - [§ 303c Vertrauensstelle](0303c.md)
 - [§ 303d Forschungsdatenzentrum](0303d.md)
 - [§ 303e Datenverarbeitung](0303e.md)
@@ -953,7 +954,7 @@ von Leistungsdaten, Datentransparenz
 
 #### Achter Titel Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
 
-- [§ 363 Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken](0363.md)
+- [§ 363 Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken; Verordnungsermächtigung](0363.md)
 
 ### Sechster Abschnitt Telemedizinische Verfahren
 
