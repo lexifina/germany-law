@@ -1,2 +1,0 @@
-# § 71d Gegenseitige Unterstützung
-Die einheitliche Stelle und die zuständigen Behörden wirken gemeinsam auf eine ordnungsgemäße und zügige Verfahrensabwicklung hin; die Pflicht zur Unterstützung besteht auch gegenüber einheitlichen Stellen oder sonstigen Behörden des Bundes oder anderer Länder. Die zuständigen Behörden stellen der einheitlichen Stelle insbesondere die erforderlichen Informationen zum Verfahrensstand zur Verfügung.

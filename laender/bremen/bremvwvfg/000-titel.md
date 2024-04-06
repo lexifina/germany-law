@@ -1,1 +1,1 @@
-# Bremisches Verwaltungsverfahrensgesetz (BremVwVfG) in der Fassung der Bekanntmachung vom 9. Mai 2003
+# Bremisches Verwaltungsverfahrensgesetz (BremVwVfG) vom 13. März 2024

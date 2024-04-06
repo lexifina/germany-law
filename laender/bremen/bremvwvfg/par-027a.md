@@ -1,4 +1,0 @@
-# § 27a Öffentliche Bekanntmachung im Internet
-(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, soll die Behörde deren Inhalt zusätzlich im Internet veröffentlichen. Dies wird dadurch bewirkt, dass der Inhalt der Bekanntmachung auf einer Internetseite der Behörde oder ihres Verwaltungsträgers zugänglich gemacht wird. Bezieht sich die Bekanntmachung auf zur Einsicht auszulegende Unterlagen, sollen auch diese über das Internet zugänglich gemacht werden. Soweit durch Rechtsvorschrift nichts anderes geregelt ist, ist der Inhalt der zur Einsicht ausgelegten Unterlagen maßgeblich.
-(2) In der öffentlichen oder ortsüblichen Bekanntmachung ist die Internetseite anzugeben.
-(3) Die Vorschriften des Bremischen Bekanntmachungsgesetzes über amtliche Bekanntmachungen im Internet bleiben unberührt.
