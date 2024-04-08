@@ -1,0 +1,7 @@
+# TOP 2: Einwohnerfragestunde
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Langenhahn (2024-04-08)
+- Körperschaft: Ortsgemeinde Langenhahn
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2024-16-81%7CEinwohner%7C1
+- Beschluss (Datei): Beschluss - Top 2 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-16-81%7CEinwohner%7C1
