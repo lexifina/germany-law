@@ -1,0 +1,70 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2024-04-08T17:00:00+02:00
+- Ende: 2024-04-08T00:00:00+02:00
+- Ort: Alte Synagoge
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1537
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1537
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00062649.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00062999.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorinformation zum Haushaltsentwurf
+- TOP 2: Verwaltungshaushalt
+- TOP 2.1: Beratung des Verwaltungshaushaltes 2024 mit Finanzplanung 2023 - 2027
+- TOP 2.1.1: Fragen der SPD-Fraktion zum Verwaltungshaushalt 2024 - Ohne Abstimmung
+- TOP 2.1.2: Anfrage von Stadtrat Paul Entwicklung Wohnmobilstellplatz und Schiffsanlagestelle
+- TOP 2.1.3: Anfrage von Stadtrat Müller Entwicklung der Gewerbesteuereinnahmen
+- TOP 2.2: Budgetfestlegung
+- TOP 2.2.1: Budgetfestlegung für das Haushaltsjahr 2024; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 2.2.2: Budgetfestlegung für das Haushaltsjahr 2024; Budget Musikschule - UA 3331 - - beschlossen
+- TOP 2.2.3: Budgetfestlegung für das Haushaltsjahr 2024 Budget der Alten Synagoge – UA 3420 - beschlossen
+- TOP 2.2.4: Budgetfestlegung für das Haushaltsjahr 2024; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 2.2.5: Budgetfestlegungen für das Haushaltsjahr 2024 ; Budget Stadtbücherei - UA 3521 - beschlossen
+- TOP 2.2.6: Budgetantrag 2024; jungStil - beschlossen
+- TOP 2.2.7: Budgetfestlegung für das Haushaltsjahr 2024; Budget Gärtnerei - UA 5821 - beschlossen
+- TOP 2.2.8: Budgetfestlegung für das Haushaltsjahr 2024; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 2.2.9: Budgetfestlegung für das Haushaltsjahr 2024; Budget Touristinfo – UA 7901 - beschlossen
+- TOP 3: Vermögenshaushalt
+- TOP 3.1: Bildung von Haushaltsausgaberesten des Haushaltsjahres 2023 zur Übertragung in das Haushaltsjahr 2024 (Neufassung) - beschlossen
+- TOP 3.2: Beratung des Vermögenshaushaltes 2024 mit Finanzplanung 2023 - 2027
+- TOP 3.2.1: HHST 0241.9345/7901.9345 - Einrichtung einer neuen Website Anfrage von Stadtrat Sanzenbacher
+- TOP 3.2.2: HHST 0601.9350 - Informations- und Kommunikationstechnik, neue Netapp, Switche, Notebooks
+- TOP 3.2.3: HHST 1101.9350 - Kameraüberwachung von Abfallentsorgungsanlagen Anfrage von Stadtrat Sanzenbacher
+- TOP 3.2.4: HHST 1400.9500 - Planungs- und Baukosten Slipstelle Anfrage von Stadtrat Sanzenbacher - abgelehnt
+- TOP 3.2.5: HHST 1142.9880 - Richtlinie zur Umsetzung des Förderprogramms der Stadt Kitzingen zur Anschaffung von Lastenfahrrädern (Förderprogramm Lastenfahrräder); hier: Begrenzung der Gültigkeit zum 15.04.2024 - beschlossen
+- TOP 3.2.6: HHST 1400.9590 - Durchführung Schwachstellenanalyse zum Hochwasserschutz
+- TOP 3.2.7: HHST 3601.9581 - Renaturierung Sickerbach, Planungskosten Anfrage von Stadtrat Sanzenbacher - abgelehnt
+- TOP 3.2.8: HHST 4351.9420 - Obdachlosenunterkunft Anfrage von Stadträtin Schmidt
+- TOP 3.2.9: HHST 4649.9450 - KITA Etwashausen, Erweiterung um 2 Kiga- und 2 Krippengruppen Antrag der SPD-Fraktion - abgelehnt
+- TOP 3.2.10: HHST 5830.9501 - Park- und Stellplatzanlage am Deusterareal HHST 5830.9502/9590 - Bay. Staatsarchiv, Planungs- und Baukosten
+- TOP 3.2.11: HHST 5931.9503/9504 - Neubau Spielplatz Marshall Heights Anfrage von Stadträtin Schmidt
+- TOP 3.2.12: HHST 6101.9590 - Allg. Gutachten, B-Plan- und Flächennutzungsplanänderung
+- TOP 3.2.13: HHST 6101.9591 - Fortschreibung Flächennutzungsplan und Landschaftsplan
+- TOP 3.2.14: HHST 6151.9592 - Quartierskonzept Hindenburgring Süd/Wörthstraße/Glauberstraße
+- TOP 3.2.15: HHST 6151.9880 - Kommunales Förderprogramm
+- TOP 3.2.16: HHST 6309.9503 - Nordtangente, Anbindung an die ST 2272 Anfrage von Stadtrat Moser
+- TOP 3.2.17: HHST 6404.9560 - Bau- und Baunebenkosten, Straßen gem. Prioritätenliste Anfrage von Stadtrat Moser
+- TOP 3.2.18: HHST 6151.9883 - Richtlinie zur Umsetzung des Förderprogramms der Stadt Kitzingen zur Flächenentsiegelung, Nachbegrünung und Biodiversität (Förderprogramm Flächenentsiegelung) hier: Begrenzung der Gültigkeit zum 31.12.2024 - beschlossen
+- TOP 3.2.19: HHST 6151.9881 - Richtlinie zur Umsetzung des Förderprogramms der Stadt Kitzingen zur Gewährung von Zuschüssen zur Nutzung regenerativer Energiequellen für private Wohngebäude; hier: Reduzierung des Fördertopfes auf jährlich 25.000,00 € - beschlossen
+- TOP 3.2.20: HHST 6402.9506/9596 - Amalienweg, Planungs- und Baukosten
+- TOP 3.2.21: HHST 6300.9560 - Spurrillenbeseitigung Süd- und Westtangente Anfrage von Stadtrat Sanzenbacher
+- TOP 3.2.22: HHST 6482.9590 - Alte Mainbrücke, Wettbewerb für Generalsanierung
+- TOP 3.2.23: HHST 6709.9582 - Straßenbeleuchtung, Umrüstung auf LED - beschlossen
+- TOP 3.2.24: HHST 7000.9350 - Überarbeitung Generalentwässerungsplan gesamtes Stadtgebiet
+- TOP 3.2.25: UA 7080 - Kläranlage Kitzingen
+- TOP 3.2.26: HHST 7901.9390 - Erstellung Studie Wirtschaftsfaktor Tourismus Antrag von Stadtrat Sanzenbacher - abgelehnt
+- TOP 3.2.27: HHST 7902.9630 - Wohnmobilstellplatz, Neuanschaffung Toilettencontainer
+- TOP 3.2.28: HHST 8802.9322 - Sonstige bebaute Grundstücke, verschiedene Objekte, Altstadthäuser, Gebäude Innenstadt
+- TOP 3.2.29: HHST 8802.9452 - Sanierung Herrnstraße 18
+- TOP 3.2.30: Gemeinsamer Antrag der Fraktionen: FW - FBW Kitzingen, USW Kitzingen, Pro Kitzingen, Uwe Hartmann und Bürgermeisterin Astrid Glos zum Vermögenshaushalt 2024 - Ohne Abstimmung
+- TOP 3.2.31: Antrag der FW-FBW, UsW, ProKT, Bgmin. Glos, StR Hartmann Nochmalige Beratung Bahnhof mit ZOB und Umgestaltung Kaiserstraße im Gremium
+- TOP 3.2.32: Anfrage von Stadtrat Paul, Leasing statt Kauf
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2024 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2023 - 2027
+- TOP 5: Sonstiges
+- TOP 5.1: Veranstaltungshinweis von Stadträtin Tröge Straßenfest Armin-Knab-Straße am 08.06.2024
