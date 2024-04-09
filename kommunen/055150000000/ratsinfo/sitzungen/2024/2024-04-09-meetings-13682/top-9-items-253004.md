@@ -1,0 +1,6 @@
+# TOP 9: Landesberichterstattung Gesundheitsfachberufe des Landes NRW
+
+- Sitzung: Sitzung (2024-04-09)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/253004
