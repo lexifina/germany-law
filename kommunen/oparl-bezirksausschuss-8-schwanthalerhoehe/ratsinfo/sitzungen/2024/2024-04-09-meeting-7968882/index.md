@@ -1,0 +1,87 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968882
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968882
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Aktionstag Klima.DULT im Westend am 21.07.2024
+- TOP 4.2.: Parkplatzsituation zwischen Karl-Spengler-Str. einschließlich Theresienhöhe
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Westendstraße 147
+- TOP 6.2.2.: Bauvorhaben Schwanthalerstraße 142
+- TOP 6.2.3.: Bauvorhaben Bergmannstraße 2
+- TOP 6.2.4.: Stadtentwicklungsplanung STEP2040
+- TOP 6.2.5.: Bauvorhaben Barthstraße 12 - 22
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: KiKs-Festival Am Bavariapark und Alte Kongresshalle von 21.06.2024 bis 23.06.2024
+- TOP 8.2.2.: Tanzserenade Am Bavariapark am 16.06.2024
+- TOP 8.2.3.: Spielaktion Spiellandschaft Stadt am Georg-Freundorfer-Platz von 13. – 14.06.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Eröffnungsfest des MKJZ "Jetzt geht&#039;s los" am Georg-Freundorfer-Platz am 12.04.2024
+- TOP 8.3.2.: Nutzung der Theresienwiese - aktueller Sachstand
+- TOP 8.3.3.: Erfahrungsbericht Oktoberfest 2023
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Bergmannstraße 7
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Ein besseres Mobilitätskonzept für das Oktoberfest Sitzungsvorlage Nr. 20-26 / V 11590
+- TOP 9.3.2.: Pilotprojekt Radwegeinfärbung Bushaltestelle Donnersbergerbrücke
+- TOP 9.3.3.: Haltverbot für zuverlässige Leerung der Wertstoffcontainer Bergmannstraße / Gollierstraße
+- TOP 9.3.4.: Stellungnahmen zum MVG-Leistungsprogramm; Arbeitskreis attraktiver Nahverkehr und Fahrgastverband Pro Bahn
+- TOP 9.3.5.: Fällung von Gefahrenbäume in der Grünfläche Ridlerstraße 26 und Gollierstraße 70
+- TOP 9.3.6.: Leistungsbilanz Baureferat - Tiefbau und Gartenbau
+- TOP 9.3.7.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.8.: Nutzung der eingezäunten Fläche am ehemaligen Gärtnerhaus als Parkplatz am Wiesn Eröffnungstag
+- TOP 9.3.9.: Ausstattung der Bushaltestelle an der Westseite der Trappentreustraße / Kazmairstraße (Linie 53) mit einer Wartehalle oder zumindest mit einer Sitzgelegenheiten - Zwischennachricht / Fristverlängerung
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "Umlenken" Umlenken -Räder pflegen statt Gas geben vom 01.04. -31.10.2024 5.000,00€; Az. 0262.0-8-0393
+- TOP 10.1.2.: (E) Stadtbezirksbudget Mischwald e.V. Verein für Musik, Kultur und Medienkunst Westend Stories -Streunen Stolpern Sammeln vom 16.04. -05.05.2024 5.310,00€; Az. 0262.0-8-0394
+- TOP 10.1.3.: (E) Stadtbezirksbudget Asociacion Cultural Peruana "Chasqui" e.V. Clan-Destino -am Rande der Gesellschaft vom 10.05. -14.06.2024 1.018,45€; Az. 0262.0-8-0395
+- TOP 10.1.4.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged wir Society e.V. Begehbare Karte im Stadtbezirk 8 vom 01.06. -31.12.2024 2.700,00€; Az. 0262.0-8-0396
+- TOP 10.1.5.: (E) Stadtbezirksbudget United Cultures Initiative e.V. Sidewalk Cultures Festival vom 26. -28.07.2024 7.000,00€; Az. 0262.0-8-0397
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Neues Verfahren zur Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 12.2.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2024 bis 2028
+- TOP 12.2.3.: Europawahl am 09.06.2024; Einteilung der Wahlbezirke und Wahlräume
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Hinweise zur Erledigung von BA-Anträgen / Vorgehen bei Rück- und Folgefragen
+- TOP 12.3.2.: Städtische Kampagne: Sei ein Mensch! - gegen Rechtsextremismus
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 12.3.3.: Sitzungstermine BA8 und Bürgerversammlung 2025
+- TOP 12.3.4.: Antrag auf Kostenerstattung für die Betreuung von Kindern unter 12 Jahren, für Kinder mit Behinderung und für die Betreuung von Angehörigen mit festgestelltem Pflegegrad während der Teilnahme an Sitzungen
+- TOP 8.2.4.: Selbsthilfeförderung der Initiative UMLENKEN
+- TOP 4.3.: Informationen zur Einführung der Gelben Tonne
+- TOP 6.2.6.: Bauvorhaben Schrenkstr. 6 / Westendstr. 66 a - Änderungsantrag
+- TOP 4.4.: Nächtliche Lärmbelästigung durch die Kundschaft des Kiosk Parkstraße 25
+- TOP 2.1.: Dringlichkeitsantrag: Poller an der Straßenführung August-Kühn-Straße Ecke Carlamaria-Heim-Straße durch „feuerwehrgerechte“ Absperrungen ersetzen
