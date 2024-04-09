@@ -1,0 +1,72 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-04-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951010
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951010
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 05.03.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Neues Verfahren zur Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 2.4.: (A) Stadtentwicklungsplanung STEP2040
+- TOP 2.5.: (A) Beschlussvorlage Masterplanungen in den Münchner Parkmeilen
+- TOP 2.6.: (A) Europawahl am 09.06.2024: Einteilung Stimmbezirke und Wahlräume
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Zur Enttabuisierung der Menstruation: Spender für Periodenprodukte vom 08.04. -31.07.2024 281,25€; Az. 0262.0-19-0507
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Baierbrunner Straße 53 Kinder erleben Zirkus vom 24.06. -05.07.2024 12.750,00€; Az. 0262.0-19-0508
+- TOP 3.4.: (E) Stadtbezirksbudget Init. "SABBIA" SABBIA vom 19.08. -31.08.2024 4.489,20€; Az. 0262.0-19-0509
+- TOP 3.5.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Bayrisches Brauchtum /Gründung einer Mikrobrauerei vom 01.05. -30.04.2025 1.350,00€; Az. 0262.0-19-0511
+- TOP 3.6.: (A) Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2024 bis 2028
+- TOP 3.7.: Jahresempfang des Bezirksausschuss 19
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Lärmschutz Bezirkssportanlage Thalkirchen
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Begrünung der Böschungsbefestigungsmauer oberhalb des Greinerbergs
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Parkregelung in der Drygalski-Allee
+- TOP 5.1.2: Sanierung der öffentlichen Toiletten im Zwischengeschoss an der U-Bahn Haltestelle Forstenrieder Allee
+- TOP 5.2.: (A) MVG-Leistungsprogramm 2025
+- TOP 5.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schaffhauser Str. 26
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Warnbergstraße Schulweg
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Boschetsrieder Straße Flurnummer 323/0 (VB)
+- TOP 6.2.2: - TOP abgesetzt -
+- TOP 6.2.3: Bannwaldseestraße 69 (T)
+- TOP 6.2.4: Seebergerstraße 8
+- TOP 6.2.5: Scheidegger Straße 14
+- TOP 6.2.6: Machtlfinger Straße 4 (VB)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Aufnahme von Mädchen an den Ball e.V. in die städtische Regelförderung
+- TOP 7.1.2: Informationsveranstaltung zur geplanten Flüchtlingsunterkunft Schultheißstraße
+- TOP 7.2.: (A) Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 7.3.: Ausschreibung "Ran an die Stadtteil-Koffer" 2025
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Kulturbühne 2024 am Kiosk 1917; Tierparkstraße 2 von 19.05.2024 bis 08.09.2024
+- TOP 8.3.: (A) Veranstaltung einer Rallye mit Einfahrt in das und Ziel im Stadtgebiet München "333-Minuten-Rallye" am 16.06.2024
+- TOP 8.4.: Tag des offenen Denkmals am 08.09.2023
+- TOP 9: Verschiedenes
+- TOP 3.8.: (E) Stadtbezirksbudget Condrobs e.V. Erlebnispädagogische Freizeitfahrt für suchtmittelgefährdete Jugendliche im August 2024 4.061,00€; Az. 0262.0-19-0510
+- TOP 3.9.: (E) Stadtbezirksbudget bo.MUC -Blasorchester München Green & Gold Frühjahrs Konzert am 04.05.2024 1.035,00€; Az. 0262.0-19-0512
+- TOP 5.5.: Bisherige Linienführung des Busses 132 erhalten
+- TOP 5.6.: null
