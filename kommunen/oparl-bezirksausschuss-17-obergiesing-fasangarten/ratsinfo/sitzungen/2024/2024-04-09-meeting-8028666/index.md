@@ -1,0 +1,157 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8028666
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8028666
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.2.1.: evtl. Nachtrag; 2.1.2.13 Bürgeranliegen; Graffiti - Frage nach öffentlichen Flächen (FF UA Kultur)
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Fußgängerzone im Stadtbezirk 17 (FF UA MuV)
+- TOP 2.1.2.2.: Bürgeranliegen; Sofortiger Stopp der Ausgabe von Green City Pflanzen an neue Grünpaten (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Neugestaltung Zugspitzplätzchen (FF UA Umwelt)
+- TOP 2.1.2.4.: Bürgeranliegen; Suche nach Musik-und Proberäumen (FF UA Kultur)
+- TOP 2.1.2.5.: Bürgeranliegen; Parklizenzgebiet Hohenwangauplatz (FF UA MuV)
+- TOP 2.1.2.6.: Bürgeranliegen; Parkprobleme in der Simseestr. (FF UA MuV)
+- TOP 2.1.2.7.: Bürgeranliegen; Gefährliche Kreuzung für Radfahrer (FF UA MuV)
+- TOP 2.1.2.8.: Bürgeranliegen; Ampel St.- Quirin - Platz (FF UA MuV)
+- TOP 2.1.2.9.: Bürgeranliegen; Antrag auf Bürgerbefragung (FF UA BPW)
+- TOP 2.1.2.10.: Bürgeranliegen; Gewerbe in reinem Wohngebiet (FF UA BPW)
+- TOP 2.1.2.11.: Bürgeranliegen; Sozialpastorales Zentrum - Baumschutz (FF UA Umwelt)
+- TOP 2.1.2.12.: Bürgeranliegen; Perlacher Str. - Fehlende Halteverbote vor den Grünflächen (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Chiemgaustr. 7
+- TOP 3.10.2.: Pennstr. 77; Fristablauf 29.03.2024 - siehe TOP 3.10.3
+- TOP 3.10.3.: Pennstr. 77; Fällbescheid (Genehmigung der UNB)
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Antrag von Bündnis 90 / Die Grünen Quartalshefte "Münchner Statistik" für BA - Mitglieder kostenfrei
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) (Vertagung aus der März Sitzung) Verein der Freunde und Förderer der Grundschule an der Weißenseestraße Gesund und Munter mit kreativen Methoden Selbstwirksamkeit entwickeln vom 01.03. -31.12.2024 5.300,00€; Az. 0262.0-17-0433
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Init. "Konzert-kreative Musik" kreative Musik am 21.06.2024 und 13.12.2024 4.350,00€; 0262.0-17-0436
+- TOP 5.1.3.: (E) Beratungsstelle für natürliche Geburt und Elternsein e.V. (FF UA FSA) 15-jähriges Jubiläum von wellcome München am 15.04.2024 1.154,00€; Az. 0262.0-17-0435
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Wirtschaft) Perlacher Feuerwehrverein e.V. Cannyboard -Digitalisierung vom 01.05. -01.06.2024 3.661,00€; Az. 0262.0-17-0438
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA FSA) FABI -Paritätische Familienbildungsstätte München e.V. Glücksrad, Kreativstation & Infostand bei "Sommer im Park" am 28.06.2024 280,00€; Az. 0262.0-17-0437
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Werinherstr. - Errichtung einer digitalen Stadtinformationsanlage 10,5 m², es werden nur Standbilder im 10-Sek.-Takt gezeigt, die Leistungsstufe gemäß LAI beträgt von 06:00 Uhr - 22:00 Uhr 8% und von 22:00 - 6: 00 Uhr 4% (Anlage1) - Az.: 1.91-2024-1984-6W
+- TOP 6.1.3.2.: Werinherstr. - Errichtung einer digitalen Stadtinformationsanlage 10,5 m², es werden nur Standbilder im 10-Sek.-Takt gezeigt, die Leistungsstufe gemäß LAI beträgt von 06:00 Uhr - 22:00 Uhr 8% und von 22:00 - 6: 00 Uhr 1% (Anlage1) - Az.: 1.91-2024-1967-6W
+- TOP 6.1.3.3.: Perspektive München; Entwurf des Stadtentwicklungsplan STEP2024 "München - Stadt im Gleichgewicht" Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen Ressourcenbedarf - Sitzungsvorlage Nr. 20-26 / V10661 Anhörung der BA - Frist bis 09.04.2024 (Vertagung von der März Sitzung - Fristverlängerung bis 11.04.2024)
+- TOP 6.1.3.4.: Tegernseer Landstr. 161 - Nutzungsänderung einer Büroeinheit zu Physiotherapie und Yogaräumen und einer Betriebskantine zu einem Fitnesscenter sowie eine Nutzungsänderung der Personalräume zu Gastronomie
+- TOP 6.1.3.5.: Schwanseestr. 89 - Befristete Nutzungsgenehmigung einer Großtagespflegeeinrichtung f(max. 10 Kinder, 1 - 3 Jahre)im EG
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung Scharfreiterplatz hier: Scharfreiterplatz 2
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" Mit dem Kinder-Aktions-Koffer und dem Kita-Stadtteil-Koffer Stadtteile kinderfreundlicher gestalten. (Bewerbungsfrist bis 10.06.2024)
+- TOP 6.2.3.2.: Beschlussvorlage zur Stellungnahme - Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien (Frist 10.04.2024)
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Einstellung eines Streetworkers im Bereich der Substitutionspraxis
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: MVG - Leistungsprogramm 2025 - Anhörung der Bezirksausschüsse (Frist bis 19.04.2024) Hierzu: Stellungnahmen des Arbeitskreises AAN des Münchner Forums und des Fahrgastverbands Pro Bahn zum MVG-Leistungsprogramm
+- TOP 6.3.3.2.: Anfrage wegen Neubau/Austausch einer Lichtsignalanlage (LSA) - Standort St. Quirin Platz (Frist 17.04.2024)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes hier: Arbeitsstellen im Straßenraum, Änderung/Ergänzung des Bescheid vom 23.12.2024 Severinstr. 2-6 und weitere Baumaßnahmen
+- TOP 6.3.4.2.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum hier Werinherstr. zwischen Ungsteiner- und Schlierseestr. Bauphase 6
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Schaffung einer Christbaumsammelstelle der Landeshauptstadt München in der Siedlung am Perlacher Forst Empfehlung Nr. 20-26 / E 01486 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing am 24.10.2023
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Vollzug der Grünanlagensatzung vom 15.06.2021 - Grünzug Giesinger Bahnhof hier: Baustelleneinrichtung und Zufahrt
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung in städtischen Grünanlagen - Weißenseeplatz hier: Spielaktion vom 21.05. - 25.05.2024 (Frist 26.04.2024)
+- TOP 6.5.3.2.: Veranstaltung in städtischer Grünanlage - Weißenseeplatz (Frist 30.4.2024) hier: Bewegungsmobil mit Pavillon von 30.07. - 05.09.2024
+- TOP 6.5.3.3.: Veranstaltung in städtischer Grünanlage - Weißenseepark hier: Offenes Spielangebot am Weltkindertag am 20.09.2024 (Frist 30.04.2024)
+- TOP 6.5.3.4.: Veranstaltung in städtischer Grünanlage - Spitzingplatz (Frist 30.04.2024) hier: ICF- Kinder- und Familienprogramm am 03.07., 07.08, 11.09, 9..10.2024
+- TOP 6.5.3.5.: Veranstaltung auf öffentlichen Verkehrsgrund - Tegernseer Platz 1-3 (Frist 10.05.2024) hier: Demokratiemobil am 04.06.202.4
+- TOP 6.5.3.6.: Veranstaltung auf öffentlichen Verkehrsgrund - Giesinger Kirchplatzfest (Frist 31.05.2024) am 05.07. - 07.07.2024
+- TOP 6.5.3.7.: Veranstaltung auf öffentlicher Grünfläche - St. Martins Platz (Frist 12.04.204) hier: Spielsachenflohmarkt der städt. KITZ
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeister hier: Aufstellung von neunen Verkaufseinrichtungen auf öffentl. Grund - Tegernseer Landstr. 76
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Welche M-WLAN-Standorte plant M-net in München ?
+- TOP 6.6.4.2.: Grünspitz; Betrieb von Kiosk und Bühne
+- TOP 6.6.4.3.: Unveränderte Fortführung eines Gaststättenbetriebes hier; Play Bar (rechts) und Play83 (links) Schlierseestr. 83
+- TOP 6.6.4.4.: Unveränderte Fortführung eines Gaststättenbetriebes hier: Herzblut, St. Martin Str. 35
+- TOP 6.6.4.5.: Hotspot durch die Telekom am Auguste - Kent Platz
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 7.2.2.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 - 2028
+- TOP 7.2.3.: Europawahl am 09.06.2024 - Einteilung der Wahlbezirke und Wahlräume
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Hinweise zur Erledigung von BA - Anträgen / Vorgehen bei Rück- und Folgefragen
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.2.: 5.1.6 Änderungsantrag zum Stadtbezirksbudgetantrag Natya Fest (FF UA Kultur) der Antrag wurde bereits in der März - Sitzung behandelt unter TOP 5.1.1
