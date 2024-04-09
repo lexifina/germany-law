@@ -1,0 +1,173 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8222131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8222131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: AKIM stellt sich vor
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Sachstand Augustenstr. 103-105
+- TOP 6.2.: Antwort auf Rückfrage des BA 3 zu Antwortschreiben BA-Antrag Nr. 20-26 / B 06050 aus 02/24
+- TOP 6.3.: Antwort auf zweite Nachfrage bzgl. der Mittel für die Maßnahme Modifizierte Alternative 5 des Mehrjahresinvestitionsprogramms 2023-2027
+- TOP 6.4.: Unverträglichkeit von Jugendschutz und Freischankflächen von Spielhallen
+- TOP 6.5.: Sport im öffentlichen Raum fördern
+- TOP 6.6.: Trinkwasserbrunnen an Spielplätzen
+- TOP 6.7.: Provisorische Toiletten am Josephsplatz
+- TOP 6.8.: Fuß- und Radquerungen am Verkehrsknoten Elisenstraße / Sophienstraße / Ottostraße / Lenbachplatz / Karlsplatz (Stachus)
+- TOP 6.9.: Nachfrage Baumpflanzungen in der Kreittmayrstraße
+- TOP 6.10.: Radkonzept für die Arnulfstraße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bürger*innenanliegen vom 11.03.2024: Und täglich grüßt das Murmeltier: Hundetreff Arnulfpark
+- TOP 1.1.2.: Bürger*innenanliegen vom 26.02.2024: Frage zu Verkauf Mehrfamilienhaus Arcisstraße 52
+- TOP 1.1.3.: Bürger*innenanliegen vom 04.03.2024: Christbaumsammelstelle versetzen // Versauerung der Böden von Grünarealen
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Die Grünen vom 25.03.2024 Akademiestraße durch Baumpflanzungen aufwerten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 08 - 11
+- TOP 2.1.2.: WEB-Liste der LBK: KW 08 - 11
+- TOP 2.2: Entwurf des Stadtentwicklungsplans STEP2040 „München – Stadt im Gleichgewicht“
+- TOP 2.2.1.: Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe Sitzungsvorlage Nr. 20-26 / V 10661 Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung
+- TOP 2.3: BV-Empfehlungen
+- TOP 2.3.1.: (E) Kunst - und Verbundstoffrecyclingcontainer als Unterflurcontainer Empfehlung Nr. 20-26 / E 01636 der Bürgerversammlung des Stadtbezirkes 03 – Maxvorstadt am 15.11.2023
+- TOP 2.3.2.: (E) Glasflaschenverbot ab 19.00 Uhr in der Maxvorstadt
+- TOP 2.3.3.: (E) Bäume im St.-Benno Viertel setzen
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 30.01.2024 auf dem Grundstück Deroystr. 4
+- TOP 3.2.2.: Fällungsantrag vom 29.01.2024 auf dem Grundstück Gabelsbergerstr. 49
+- TOP 3.2.3.: Linprunstraße 57|19.04.24
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Baumaßnahmen der Stadtwerke München
+- TOP 5.2.: Antwort der Stadtverwaltung auf Bürger*innenanliegen aus 02/24: Hausverkauf Schleißheimerstr.
+- TOP 5.3.: Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Fahrleitung Tram
+- TOP 5.4.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume
+- TOP 5.5.: Erhaltungssatzungs-Genehmigungen
+- TOP 5.6.: Baumschnitt / -pflege diese Woche - Pausenhof --- Schellingstr.
+- TOP 5.7.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 5.8.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 5.9.: Antwort der Stadtverwaltung auf Bürger*innenanliegen: Zwei Vorschläge zur Aufwertung des Viertels, B 1.1.1 aus 01/24
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bürger*innenanliegen vom 28.02.2024 Verkehrssituation
+- TOP 1.1.2.: Bürger*innenanliegen vom 04.03.2023 Sicherheit für Grundschulkinder an der Schellingstraße Ecke Lothstraße
+- TOP 1.1.3.: Bürger*innenanliegen vom 01.03.2024 Nächtliche Ruhestörung
+- TOP 1.1.4.: Bürger*innenanliegen vom 11.03.2024: Baustelle Schleissheimer Ecke Görrestr
+- TOP 1.1.5.: Bürger*innenanliegen vom 05.03.2024: Antrag für Fahrradabstellanlage für BA 03
+- TOP 1.1.6.: Bürger*innenanliegen vom 20.03.2024 Aktueller Stand Carsharing Parkplätze
+- TOP 1.1.7.: Bürger*innenanliegen vom 20.03.2024: Antrag auf Rückverlegung Haltelinie Linksabbiegespur Elisabethstraße in Schleißheimer Straße
+- TOP 1.1.8.: Bürger*innenanliegen vom 22.03.2024: Antrag zur Verbesserung eines Fußgängerüberwegs
+- TOP 1.1.9.: Bürger*innenanliegen vom 22.03.2024: Straßenbelag Luisenstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Parteiübergreifender Antrag vom 19.03.2024: Keine Zufahrtszonen für Elterntaxis an Schulen und KITAS
+- TOP 1.2.2.: Antrag die Grünen vom 21.03.2024: Fahrrad- und Fußgängerfreundliche Kreuzung am Lenbachplatz
+- TOP 1.2.3.: Antrag SPD vom 22.03.2024: Schaffung zweier Halteplätze (Kiss & Ride) am Hauptbahnhof Nord
+- TOP 1.2.4.: Antrag SPD vom 22.03.2024: Vorbereitung Toilettenstandort Elisen-/ Dachauer Straße
+- TOP 1.2.5.: Antrag SPD vom 22.03.2024: Tempo 30 Nachfrage
+- TOP 1.2.6.: Antrag CSU vom 22.03.2024: Einbindung des Bezirksausschusses, Anwohnern und Gewerbetreibenden zur Fußgängerzone Brienner Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anhörung zu geplanter verkehrsrechtlicher Anordnung: Marlene-Dietrich-Straße; Z. 357-10 StVO
+- TOP 2.1.2.: MVG-Leistungsprogramm 2025: Anhörung der Bezirksausschüsse
+- TOP 2.1.3.: Konzept für geteilte Mobilität im Stadtbezirk 3 I Frist: 19.04.2024
+- TOP 2.1.4.: Erinnerungsverfahren Arnulfstr 52 - Radschutzstreifen I 11.04.2024
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Beschlussvorlage: Antrag auf eine Freischankfläche in Parkständen (sog. Schanigarten) - Gaststätte "Pretty Pizza", Schellingstr. 15
+- TOP 2.3.2.: Beschlussvorlage: Antrag auf eine Freischankfläche in Parkständen (sog. Schanigarten) - Ausdehnungsantrag - Gaststätte "Eclipse", Heßstr. 51
+- TOP 2.3.3.: Beschlussvorlage: Antrag auf eine Freischankfläche in Parkständen (sog. Schanigarten) - Änderungsantrag: Gaststätte "Il Grappolo", Adalbertstr. 28
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung: Königsplatz (Bez.3) - Gedenkveranstaltung "München liest aus verbrannten Büchern" am 10.05.2024 – Termin 25.04.2024
+- TOP 2.4.2.: Anhörung | Bezirksübergreifende Veranstaltung in Grünanlagen, Zirkus Pumpernudl vom 19.04. - 17.10.2024 | Frist: 11.04.2024
+- TOP 2.4.3.: Anhörung (Stadtbezirk 3) Veranstaltung in div. städtischen Grünanlagen; Fit im Park der LHM ab 01.05.2024 bis 30.09.2024, Frist: 26.04.2024
+- TOP 2.4.4.: Ortstermin mit Park+Ride
+- TOP 2.4.5.: Vorab-Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; in städtischen Grünanlagen und auf Privatgrund, Hier: Streckenänderung München Marathon am 13.10.2024 – Frist: 12.04.2024
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Antwort auf Bürger*innenanliegen: Erschwerte Einfahrt zur Garage im Hinterhof Nordendstr. 19 - Beschilderung anpassen
+- TOP 3.4.: Erlaubnis Parade zum St.Patricks-Day (Start: Feilitzschstraße) am 17.03.2024 und Veranstaltung auf dem Odeonsplatz am 16./17.03.2024
+- TOP 3.5.: Unveränderte Gaststättenfortführungen
+- TOP 3.6.: Eilentscheid der Vorsitzenden: Oskar-von-Miller-Ring 1/ Ecke Brienner Str. 16 | Anhörung § 29 StVO für "Tag des Bayerischen Bieres 2024" am 23.04.2024 | Anhörungsfrist: 29.03.2024
+- TOP 3.7.: Parkplatz für Roller / Fahrräder Antwort auf Anfrage im Bezirksausschuss des Stadtbezirkes 03 – Maxvorstadt am 15.11.2022
+- TOP 3.8.: Parkplatz für E-Roller/Fahrräder Josephsplatz wird nicht genutzt
+- TOP 3.9.: Abstellchaos am Nördlichen Hauptbahnhof
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag SPD vom 22.03.2024: Freikartenkontingent für größere Konzerte
+- TOP 1.2.2.: Antrag CSU vom 22.03.2024: „Präventionsautomat“ am Stiglmaierplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Türkenstraße 68 Musikaufführung "Peter und der Wolf" für alle Klassen am 21.03.2024 1.700,00 Euro, Az.: 0262.0-3-0514
+- TOP 2.2.: Beschlussvorlage zur Stellungnahme -Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 2.3.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. Jüdisches Leben in der Maxvorstadt: Präsentationen vor Ort mit begehbarer Karte vom 16.04. - 31.12.2024 2.700,00 Euro, Az.: 0262.0-3-0519
+- TOP 2.4.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025; Bewerbungsfrist: 10.06.2024
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Europawahl 2024; Wahlbezirke und Wahlräume im Stadtbezirk 3
+- TOP 4.3.: AKIM im 3. Stadtbezirk
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bürger*innenanliegen vom 01.03.2024: Anfrage Ausstellung in der U-Bahn Galerie des Bezirksausschusses Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Antrag Die Grünen vom 21.03.2024: Stand der Dinge: Gestaltung der Fassade des Heizkraftwerks Theresienstraße 36
+- TOP 1.2.2.: Antrag CSU vom 22.03.2024 Graffitis an der Schwindschule und der Mauer des Alten Nördlichen Friedhofs entfernen – Wände an der TU professionell gestalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Zamanand gUG Kinderbereich der Zamanand Festivals am 01./02.06. und 14./15.09.2024 3.000,00 Euro, Az.: 0262.0-3-0520
+- TOP 2.2.: (E) Stadtbezirksbudget Radentscheid München / ADFC München e.V. Kulturprogramm zur Radsternfahrt am 21.04.2024 3.500,00 Euro, Az.: 0262.0-3-0521
+- TOP 2.3.: (E) Stadtbezirksbudget MUCA Foundation KULAB - der Nachwuchs Kunstmarkt am 27./28.04.2024 1.991,25 Euro, Az.: 0262.0-3-0518
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Kassenprüfung
+- TOP 1.2.: Berechnung BA-Größen| 26.04.2024
+- TOP 1.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 I Frist: 29.04.2024
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Neubesetzung der Unterausschüsse aufgrund der Mitgliederwechsel
+- TOP 1.7.: Wechsel der BA-Sitzungen auf Montag ab 2025, Antrag der CSU-Fraktion
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.3.: Steinheilstr. 7 ÄNDERUNGSANTRAG zu 1.1-2023-16082-22 - Aufstockung eines bestehenden Hotels samt Grundrissänderung und Errweiterung um ein fünfgeschossiges Rückgebäude mit einem Außenaufzug, Anbringung eines WDV-Systems, Anbringen von straßenseitigen Erkern, Errichtung einer Fluchttreppe, einer Rettungstreppe und eines Rettungssteges, Errichtung einer Fahrrasstellplatzanglage, sowie Errichtung eines Autoaufzugs.
+- TOP 2.1.4.: Gabelsbergerstr. 26 Aufstockung eines Wohn- und Geschäftshauses - VORBESCHEID
+- TOP 2.1.5.: Rottmannstr. 9 Errichtung eines Dachgeschosses auf ein bestehendes Flachdach mit Veränderung der Fassade im 4. OG Ost
+- TOP 2.1.6.: Augustenstr. 16 Nutzungsänderung: Vordergebäude Änderung eines Ladens in eine Gaststätte
+- TOP 2.3.4.: Gaststätte: "Pretty Bun", Augustenstr. 37- Schanigarten
+- TOP 3.2.4.: Fällungsantrag vom 05.02.2024 auf dem Grundstück Adalbertstr. 10
+- TOP 1.2.2.: Fraktionsübergreifender Antrag vom 05.04.2024: Sektoralen Bebauungsplanes für das Karree Schellingstr./ Amalienstr./ Adalbertstr./ Türken-str.
+- TOP 2.2.1.: Anhörung: Frist 23.04.2024, temporäre Kunstaktion "TetrapAct-on-foodwaste, Tetra-Totems", Alter Botanischer Garten vom 17.06.-08.08.2024
+- TOP 2.4.6.: Vorab-Anhörung zu zwei Veranstaltungen - Bez. 3, Arnulfpark | ICF Kinder-+Familienprogramm ab 05.05. (VA-Reihe) und 07.07. (Sommerfest)
