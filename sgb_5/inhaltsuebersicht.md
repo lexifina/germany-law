@@ -97,4 +97,5 @@
 | Dreizehntes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 396 bis 399 |
 | Vierzehntes Kapitel | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands ....... | §§ 400 bis 402 |
 | Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 423 |
-Anlage zu § 307
+Anlage 1 (zu § 135d)
+Anlage 2 (zu § 307 Absatz 1 Satz 3)

@@ -188,6 +188,7 @@ Beweismittel
 - [§ 88c Informationsaustausch über kapitalmarktbezogene Gestaltungen](0088c.md)
 - [§ 89 Beratung, Auskunft](0089.md)
 - [§ 89a Vorabverständigungsverfahren](0089a.md)
+- [§ 89b Internationale Risikobewertungsverfahren](0089b.md)
 - [§ 90 Mitwirkungspflichten der Beteiligten](0090.md)
 - [§ 91 Anhörung Beteiligter](0091.md)
 - [§ 92 Beweismittel](0092.md)
@@ -247,6 +248,7 @@ und der Sachverständigen
 - [§ 117b Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten](0117b.md)
 - [§ 117c Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten](0117c.md)
 - [§ 117d Statistiken über die zwischenstaatliche Amts- und Rechtshilfe](0117d.md)
+- [§ 117e Besondere Formen der Amtshilfe mit Drittstaaten](0117e.md)
 
 ### Zweiter Abschnitt Verwaltungsakte
 

@@ -176,6 +176,7 @@
 | § 88c | Informationsaustausch über kapitalmarktbezogene Gestaltungen |
 | § 89 | Beratung, Auskunft |
 | § 89a | Vorabverständigungsverfahren |
+| § 89b | Internationale Risikobewertungsverfahren |
 | § 90 | Mitwirkungspflichten der Beteiligten |
 | § 91 | Anhörung Beteiligter |
 | § 92 | Beweismittel |
@@ -226,6 +227,7 @@
 | § 117b | Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten |
 | § 117c | Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten |
 | § 117d | Statistiken über die zwischenstaatliche Amts- und Rechtshilfe |
+| § 117e | Besondere Formen der Amtshilfe mit Drittstaaten |
 |  |  |
 | Zweiter Abschnitt |
 | Verwaltungsakte |
