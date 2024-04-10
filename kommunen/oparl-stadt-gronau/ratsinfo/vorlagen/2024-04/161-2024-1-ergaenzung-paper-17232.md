@@ -1,0 +1,27 @@
+# Haushaltskonsolidierung
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 161/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-04-10
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcEKKtLmZX3JfMTKD9L1ul4
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17232
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Haushaltskonsolidierung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZqjDKhvLl2es9CCKgR1qjErymR2vyHgVq8JV89CA4Ba/Beschlussvorlage_161-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Änderungen zum Haushaltsansatz Prioritätenliste II 14.03.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdgcHIPcg-WIjW3oj04MfjjIBFtBCyxvjgSMQdqAaIsM/Aenderungen_zum_Haushaltsansatz_Prioritaetenliste_II_14.03.2024.pdf
+- Anlage: Beschlussvorlage (Teilfinanzplan A und B 01.12.01.00) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEBSsyKue-IN366t9uYuPvRTdC3WtQhfkr8-d_9Yd_Q/Teilfinanzplan_A_und_B_01.12.01.00.pdf
+- Anlage: Beschlussvorlage (Produkt 12.01.01 Bereitstellung von Verkehrsflächen, besondere Ingenieurbauten, Straßenbeleuchtung mit Änderungen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMGtzhQHnpLtipHl4q4pYVr4fpjaNnz9TO53SgdM0PR/Produkt_12.01.01_Bereitstellung_von_Verkehrsflaechen-_besondere_Ingenieurbauten-_Strassenbeleuchtung_mit_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Produkt 12.01.01 Bereitstellung von Verkehrsflächen, besondere Ingenieurbauten, Straßenbeleuchtung_Einnahmen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQCQBF1ZMRWwW1v_-TaNnEXjVOzFXFIj6aozeeq4POIG/Produkt_12.01.01_Bereitstellung_von_Verkehrsflaechen-_besondere_Ingenieurbauten-_Strassenbeleuchtung_Einnahmen.pdf
+- Anlage: Beschlussvorlage (Produkt 13.01.01 Natur- und Landschaftspflege, Grünanlagen, Gewässer mit Änderungen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe38HH8zJ1gh9kKLbveRqPLIEzN1WAMqlby7ooDuLYQ4/Produkt_13.01.01_Natur-_und_Landschaftspflege-_Gruenanlagen-_Gewaesser_mit_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Produkt 13.01.01 Natur- und Landschaftspflege, Grünanlagen, Gewässer mit Änderungen_Einnahmen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4666V8GQxjuMV_73u9_-pKCikGeNHkhkldK0WknbBI/Produkt_13.01.01_Natur-_und_Landschaftspflege-_Gruenanlagen-_Gewaesser_mit_Aenderungen_Einnahmen.pdf
+- Anlage: Beschlussvorlage (Auszug Rat 20.03.2024 TOP 12.1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXt6GO5biLGiAnZ2SuNke4ispfTC3J3yHW_gkiE0Oi2x/Auszug_Rat_20.03.2024_TOP_12.1.pdf
+- Anlage: Beschlussvorlage (Beantwortung Prüfauftrag HFA v. 06.03.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVQZ8GLwCJAnlBEVCTjvDfnTD2e-DiZIK5QCEoIPvzOL/Beantwortung_Pruefauftrag_HFA_v._06.03.2024.pdf
+- Anlage: Beschlussvorlage (Antrag CDU-Fraktion v. 09.04.2024 - vakante Stellen streichen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeoBtSw2u49IBqUZdHAm5esmTc_DzgqR5m4qG8JSA0hK/Antrag_CDU-Fraktion_v._09.04.2024_-_vakante_Stellen_streichen.pdf
+- Anlage: Beschlussvorlage (Antrag CDU-Fraktion v. 09.04.2024 - Stellenstreichungen II) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXieIrivrdC6v3qeyMS9osRAIdgh5Kw4JLPC3kNXdNmv/Antrag_CDU-Fraktion_v._09.04.2024_-_Stellenstreichungen_II.pdf
+- Anlage: Beschlussvorlage (Anlage CDU-Fraktion - Personal- und Haushaltskompetenzen des Rates der Stadt Gronau_25.03.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYlnDLUxElTGnt88QIMOmaQD5wR6rIZgM5cIUVXRbkDE/Anlage_CDU-Fraktion_-_Personal-_und_Haushaltskompetenzen_des_Rates_der_Stadt_Gronau_25.03.2024.pdf
+- Anlage: Beschlussvorlage (Antrag CDU-Fraktion v. 09.04.2024 - Alter Postweg) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYBN4dkbnQp1hO8G4vRASJaG072G9WLX1z5pMuI6kQG1/Antrag_CDU-Fraktion_v._09.04.2024_-_Alter_Postweg.pdf
+- Anlage: Beschlussvorlage (Antrag CDU-Fraktion v. 10.04.2024 - OGS schieben) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc3EZywWqqyMBlWUJLYUevFT3BzHazkSRvDCopYPsZNa/Antrag_CDU-Fraktion_v._10.04.2024_-_OGS_schieben.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 7 SMVB v. 09.04.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasFTX6ZaAg9cQyCGLO3WnMHXwNf4zNIfrJvC3_tR4ck/Auszug_TOP_7_SMVB_v._09.04.2024.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6007 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6072 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-52
