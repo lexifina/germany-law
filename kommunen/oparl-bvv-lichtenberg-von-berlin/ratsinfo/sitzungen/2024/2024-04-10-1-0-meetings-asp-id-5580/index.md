@@ -1,0 +1,51 @@
+# 28. Sitzung in der IX. Wahlperiode des Ausschusses Öffentliche Ordnung und Verkehr
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-04-10T19:00:00+02:00
+- Ende: 2024-04-10T22:01:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5580
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5580
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=391395
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls der letzten Sitzung - erledigt
+- TOP 3: BürgerInnenanfragen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 4.1: Bericht über den Umsetzungsstand der Fahrradstraßen - erledigt
+- TOP 5: Überwiesene Drucksachen - (offen)
+- TOP 5.1: Aufenthaltsqualität für Anwohnende Ecke Rudolf-Reusch- und Normannenstraße steigern - erledigt
+- TOP 5.2: Aufstellung von Fahrrad-Parkbügeln im öffentlichen Raum in der Parkstadt - erledigt
+- TOP 5.3: Sicheres Abstellen von E-Scootern und Leihfahrrädern - mit Änderungen im Ausschuss beschlossen
+- TOP 5.4: Sauberkeit und Ordnung im Rathauspark - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.5: Kriminalprävention Am Tierpark - erledigt
+- TOP 5.6: Dialogdisplays auf dem Malchower Weg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Nachhaltiges Müllmanagement in Lichtenberg - erledigt
+- TOP 5.8: Erhöhung der Taktfrequenz für den öffentlichen Nahverkehr in Alt-Hohenschönhausen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.9: Schulweg in der Nöldnerstraße sicherer gestalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.10: Elektromobilität auf dem Wasser fördern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.11: Frankfurter Allee Süd und Kaskelkiez sicher verbinden - Fußgängerüberweg an der Ecke Buchberger Straße/Schulze-Boysen-Straße einrichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.12: Verlängerung der Buslinie 256 zum Friedhof Friedrichsfelde - mit Änderungen im Ausschuss beschlossen
+- TOP 5.13: Wöchentliche Reinigung am U-Bhf Lichtenberg - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.14: Höhere Verkehrssicherheit für die entstehende Grundschule am Blockdammweg 60-64 - vertagt
+- TOP 5.15: Valide Entscheidungsgrundlage schaffen - Verkehrsuntersuchung erweitern - vertagt
+- TOP 5.16: Dialogdisplays für mehr Schulwegsicherheit - mit Änderungen im Ausschuss beschlossen
+- TOP 5.17: Illegale Altkleidercontainer entfernen - vertagt
+- TOP 5.18: Bessere Räumungsarbeiten auf Fuß- und Radwegen während der Winterzeit - vertagt
+- TOP 5.19: Bauvorhaben Landsberger Allee - Anwohnende rechtzeitig informieren und beteiligen - vertagt
+- TOP 5.20: Parkplätze im Victoria-Center für den Kaskelkiez öffnen - vertagt
+- TOP 5.21: Fahrradbarometer in Lichtenberg - vertagt
+- TOP 5.22: Storchenhofcenter unterstützen, Sicherheitsgefühl steigern – Standort stärken - vertagt
+- TOP 5.23: Schluss mit Hundekot am Denkmal: Klare Regeln gegen braune Exkremente schützen Geschichte und Respekt! - vertagt
+- TOP 5.24: Tempo 30 in der Gehrenseestraße ausweiten - vertagt
+- TOP 5.25: Suermondtstraße: Nachts Tempo runter für ruhigen Schlaf und flüssigen Verkehr! - vertagt
+- TOP 5.26: Verkehrssicherheit für die Krokofanten - vertagt
+- TOP 5.27: Fahrradstraße in der Große-Leege-Straße - vertagt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Fahrradbügel an Kreuzungen aufstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7: Sonstiges - erledigt
