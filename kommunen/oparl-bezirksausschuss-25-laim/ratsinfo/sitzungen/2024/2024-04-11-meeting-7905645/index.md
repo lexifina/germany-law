@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 2: Anträge
+- TOP 2.1.: Standort- Benennung aller in Laim geplanten Nachpflanzungen im Rahmen der Tram-Westtangente
+- TOP 2.2.: Wände am Spielplatz Laimer Anger schön gestalten
+- TOP 2.3.: Die Laimer Röhre endlich verkehrssicher für Fussgänger
+- TOP 2.4.: Spielplatz Laimer Platz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) + (U) Parksituation auf Gehwegen und Ausfahrten (Ziffer 1, 2, 3, und 4)
+- TOP 3.2.: (E) + (U) Tempo-30-Zone in der Guido-Schneble-Straße
+- TOP 3.3.: (E) + (U) Radwege an der Elsenheimerstraße
+- TOP 3.4.: (E) Stadtbezirksbudget Laimer Maibaumfreunde e.V. Anschaffung eines Zeltes 648,67 Euro, Az.: 0262.0-25-0328
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Baureferat vom 05.02.24: Projekt Elsenheimerstraße Radweg zwischen Lautensackstraße und Westendstraße
+- TOP 4.3.: Schreiben Sozialreferat vom 05.03.24: Ausschreibung Stadtteil-Koffer 2025
+- TOP 4.4.: Schreiben MVG vom 04.03.24: MVG-Leistungsprogramm 2025
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 01.03.24: Konzept für geteilte Mobilität im Stadtbezirk 25
+- TOP 4.6.: Schreiben Direktorium vom 26.02.24: Neues Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse
+- TOP 4.7.: Schreiben Referat für Bildung und Sport vom 04.03.24: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 15.03.24: Veranstaltung in einer städtischen Grünanlage: Laimer Maifest, Am Laimer Anger am 01.05.24
+- TOP 4.9.: Schreiben Stadtkämmerei vom 14.03.24: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2024 bis 2028
+- TOP 4.10.: Schreiben Mobilitätsreferat vom 19.03.24: Zugang der Kleingartenanlage am Freiburger Platz 4
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 15.03.24: Sondernutzung auf öffentlichem Verkehrsgrund: Radlsicherheitscheck am 28.07.24 am Laimer Anger
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 21.03.24: Veranstaltung im Freien in städtischer Grünanlage: Grünanlage Hogenbergplatz, Flohmarkt Laimer Schlümpfe e.V. am 04.05.24
+- TOP 4.13.: Europawahl am 09.06.2024; Einteilung der Wahlbezirke und Wahlräume im Stadtbezirk 25
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 20.12.23: Angebot zum Versand von Bezirksausschussnewsletter
+- TOP 6.2.: Bemalung S-Bahnhof Hirschgarten
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll BA-Sitzung vom 07.03.24
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 04.03.24
+- TOP 7.3.: Protokoll UA Kultur vom 19.02.24
+- TOP 7.4.: Protokoll UA Mobilität vom 25.03.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 01.03.24: Einnerungsverfahren BV.: Agnes-Bernauer-Str. 107- 151 Projekt-Nr. 24 01609 MT208 Hier: Eilentscheidung
+- TOP 8.2.: Schreiben Baureferat vom 07.03.24: Straßenbeleuchtung historische Stadtlohner Straße München-Laim
+- TOP 8.3.: Schreiben Baureferat vom 07.02.24: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 8.4.: Schreiben Baureferat vom 18.03.24: Schneebeseitigung
+- TOP 8.5.: Schreiben Baureferat vom 20.03.24: Stroblstraße
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 06.03.24: Info-Veranstaltungen zum STEP2040 - Protokolle und Präsentation
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 04.03.24: VA Gotthardstr. vom 06.03. bis 29.05.2024 - Hauptbaumaßnahme BPh280 Index A (U 00360/24)
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 14.02.24: E-Scooter Abstellplätze für Laim
+- TOP 8.9.: Scheriben Mobilitätsreferat vom 14.02.24: E-Roller nur an markierten Stellen abstellen
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 12.03.24: Arbeiten im Straßenraum - Gotthardstr. 100m östlich Von-der-Pfordten-Str. bis Fischer-von-Erlach-Str., Mitterfeldstr., Fischer-von-Erlach-Str., sowie die Einmündungsbereiche Von-der-Pfordten-Str., Stöberlstr., Agricolastr., Geyerspergerstr., Reutterstr., Genovevaweg und Willibaldstr.
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 22.03.24: Kita - Bereich Senftenauerstr. 9 bis 17 / Kurzparkzone?
+- TOP 8.12.: Schreiben BA 20 vom 13.03.24: Kurzparkzone vor der Kita Kitarino in der Senftenauerstraße
+- TOP 8.13.: Schreiben SWM vom 05.03.24: Neue SW//M-MVG Anweisung: V 2024-024 L 518 SEV Tram 18 West GON-WS 11.03.-09.06.24
+- TOP 8.14.: Schreiben Stadtwerke München vom 11.03.24: Umleitungen der Buslinien 62, N 44, 130, 157 wegen Fernwärmebau (Bereich Hansastraße)
+- TOP 8.15.: Schreiben SWM vom 11.03.24: Baumaßnahmen
+- TOP 8.16.: Schreiben Referat für Bildung und Sport vom 05.03.24: Antwortschreiben des RBS auf Bürgeranfragen zum neuen Defizitausgleichsmodell
+- TOP 8.17.: Bautenliste 26.02.-03.03.24 A) Erstantragsverfahren: 1. Landsberger Str. 291 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Eringerstr. 24 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 2 2. Berchemstr. 91 3. Lautensackstr. 4
+- TOP 8.18.: Bautenliste 19.02.-25.02.24: A) Erstantragsverfahren 1. Schäufeleinstr. 2 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Agnes-Bernauer-Str. 16 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Lautensackstr. 15
+- TOP 8.19.: Bautenliste 04.03.-10.03.24 A) Erstantragsverfahren 1. Kirchmairstr. 24 2. Weichselbaumerstr. 18 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Guido-Schneble-Str. 9a 2. Agnes-Bernauer-Str. 16
+- TOP 8.20.: Bautenliste 11.03.-17.03.24: A) Erstantragsverfahren: 1. Dichtlstr. 8 2. Eringerstr. 42 3. Veit-Stoß-Str. 9 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Hans-Thonauer-Str. 5 2. Haus-Thonauer-Str.
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.03.24: Camerloherstr. 67
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.03.24: Änderungsplanfeststellungsbeschluss (Tektur D): Tram-Westtangente, PFA 1 Romanplatz bis Wendeschleife am Waldfriedhof
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.03.24: Fällung Eringerstr. 14
+- TOP 8.24.: Schreiben Sozialreferat vom 26.03.24: Außensprechstunde des ASZ Laim
+- TOP 8.25.: Schreiben AKIM vom 08.03.24: Saisonauftakt und Vorstellung AKIM
+- TOP 8.26.: Schreiben Referat für Klima- und Umweltschutz vom 07.03.24: Ausschreibungshinweis Gebietsbetreuung München West und München Nord-Ost
+- TOP 8.27.: Schreiben Referat für Arbeit und Wirtschaft vom 05.03.24: Verunziertes Häuschen am Agricolaplatz schön gestalten
+- TOP 8.28.: Schreiben Münchner Forum e.V. vom 21.03.24: Stellungnahme: Arbeitskreis &#039;Attraktiver Nahverkehr&#039; (AAN) zum MVG-Leistungsprogramm 2025
+- TOP 8.29.: Schreiben pro-bahn vom 21.03.24: MVG Leistungsprogramm 2024/25
+- TOP 8.30.: Schreiben Direktorium vom 26.03.24: Tagesordnung des BA 25 an zentralen Haltestellen der MVG aushängen
+- TOP 8.31.: Schreiben Direktorium vom März 2024: Verwendungsnachweise
+- TOP 8.32.: Schreiben CultureClouds vom 20.03.24: Kurzbericht über die bezuschussten POP UPS - mobile Kunst - Spiel - Aktionen 2023
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.03.24 Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.03.24 Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 8.35.: Beschluss des Sozialausschusses vom 14.03.24: Neueröffnung von Unterkünften zur Unterbringung Geflüchteter an den Standorten Baierbrunner Str. 30, Savitsstraße (Flst. 792/1, Daglfing) Verlängerung einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort - Hans-Thonauer-Straße 3d 13. Stadtbezirk - Bogenhausen 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 25. Stadtbezirk - Laim
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Parksituation in der Kirchmairstr./ Hogenbergstr. (Weitergabe an PI 41)
+- TOP 9.2.: Fußgängerübergang Elsenheimerstr./ Hauzenbergerstr. (Punkt 1 und 2 Vertagung in UA Mobilität, Punkt 3 Weitergabe an Remondis)
+- TOP 9.3.: Laimer Unterführung (Vertagung in UA Mobilität)
+- TOP 9.4.: Fußgänger Überweg Von-der-Pfordten-/Valpichler-Straße (Vertagung in UA Mobilität)
+- TOP 9.5.: Namen-Vorschlag für neuen U-Bahnhof "Willibaldstraße" (Weiterleitung an Kommunalreferat)
+- TOP 9.6.: Geschädigter Baum Stroblstraße (Vertagung in UA Umwelt, Klima und Baumschutz)
+- TOP 9.7.: U-Bahn/ Straßenbahn-Baustellen Laim: rechtzeitige Information der Anwohner / Effizientere Verkehrsführung / Überwachung des Halteverbots in der Fürstenrieder Straße (Vertagung in UA Mobilität)
