@@ -1,0 +1,7 @@
+# TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 8. (ordentliche, öffentliche) Sitzung des Rechnungsprüfungsausschusses (B) (2024-04-11)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=67164
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
