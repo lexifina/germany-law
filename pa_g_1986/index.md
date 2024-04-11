@@ -1,4 +1,4 @@
-# Paßgesetz
+# Passgesetz
 
 
 ## Erster Abschnitt Passvorschriften
