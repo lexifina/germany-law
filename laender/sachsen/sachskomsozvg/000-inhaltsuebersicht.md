@@ -1,4 +1,3 @@
-## Gesetz über den Kommunalen Sozialverband Sachsen (SächsKomSozVG)
 # Inhaltsübersicht
 Teil 1 Aufbau und Rechtsstellung
 § 1 Mitgliedskörperschaften, Gebiet
