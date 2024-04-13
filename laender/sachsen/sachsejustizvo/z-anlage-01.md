@@ -46,3 +46,5 @@ Nummer | Gericht oder Staatsanwaltschaft
 42. | Staatsanwaltschaft Zwickau
 43. | Sozialgericht Dresden
 44. | Generalstaatsanwaltschaft Dresden
+48. | Sächsisches Oberverwaltungsgericht
+49. | Verwaltungsgericht Dresden
