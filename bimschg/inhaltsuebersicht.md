@@ -65,7 +65,7 @@ Bewältigung einer Gasmangellage
 | § 31h | Abweichungen von der Vierten Verordnung zum Bundes-Immissionsschutzgesetz |
 | § 31i | Abweichungen von der Technischen Anleitung zur Reinhaltung der Luft |
 | § 31j | Überschreitung von Immissionsrichtwerten der Technischen Anleitung zum Schutz gegen Lärm |
-| § 31k | Abweichungen von Vorgaben zu nächtlichen Geräuschwerten und zur Vermeidung von Schattenwurf bei Windenergieanlagen |
+| § 31k | (weggefallen) |
 | § 31l | Übergangsregelungen zu den §§ 31e bis 31k |
 Dritter Teil
 Beschaffenheit von Anlagen,
