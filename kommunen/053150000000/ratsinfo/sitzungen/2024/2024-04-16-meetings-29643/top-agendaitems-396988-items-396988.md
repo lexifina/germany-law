@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 6.2 - Antrag der SPD-Liste und der SPD-Fraktion zur Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz
+
+- Sitzung: Sitzung des Integrationsrates (2024-04-16)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/396988
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/183780
