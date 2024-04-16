@@ -1,0 +1,64 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-16T15:00:00+02:00
+- Ende: 2024-04-16T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29643
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29643
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP -: Sachstand zum Prozess von Ausländeramt zur Willkommensbehörde, Ausländeramt Christina Boeck
+- TOP -: Präsentation über das Kommunale Integrationsmanagement Köln (KIM), Jens Klussmann
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 2.1: Elternbefragung zur Corona-Pandemie - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der Liste GOL aus den Sitzungen des Integrationsrates v. 16.01. und des Ausschusses für Soziales, Seniorinnen und Senioren v. 18.01.2024 (AN/0045/2024) betreffend „Thema: SeniorenNetzwerke/Offene Altenarbeit“ - Kenntnis genommen
+- TOP 3.2: Beantwortung einer schriftlichen Anfrage des FachAK4 aus der Sitzung des Intregrationsrates vom 12.09.2023 (AN/1645/2023) betreffend das Positionspapier der Interkulturellen Zentren zu Bedarfen von älteren Menschen mit internat. Familiengeschichte - Kenntnis genommen
+- TOP -: Anfrage zum Positionspapier der Interkulturelle Zentren zu Bedarfen von älteren Menschen mit internationaler Familiengeschichte
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung des Integrationsrates vom 27.02.2024 (AN/0262/2024) betreffend "Strukturerhaltende Maßnahmen für die Interkulturellen Zentren - welche sind in der Umsetzung und gibt es weitere Planungen?" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage der GOL zum Thema "Besetzung der Co-Direktion im Rautenstrauch-Joest-Museum (RJM)" - zurückgestellt
+- TOP 4.2: Anfrage der SPD zu den strukturerhaltenden Maßnahmen für die Interkulturellen Zentren – welche sind in der Umsetzung und gibt es weitere Planungen? - Sache ist erledigt
+- TOP 4.3: Anfrage von GOL zum Thema: Ausländer:innenbehörde zur Willkommensbehörde - Sache ist erledigt
+- TOP 4.4: Rückfragen zur Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Bilanz der Einbürgerungen" - zurückgestellt
+- TOP 4.5: Anfrage der GOL zum Thema "Jobturbo" - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Stadtradeln 2024 - Kenntnis genommen
+- TOP 5.2: Anerkennung als Träger der freien Jugendhilfe, hier: Interkulturelles Begegnungs- und Bildungszentrum e.V. - Kenntnis genommen
+- TOP 5.3: Zwischenbericht zum Kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 und zur 3. Sitzung des Begleitgremiums zum Kommunalen Kinder- und Jugendförderplan - Kenntnis genommen
+- TOP 5.4: Sachbericht des Kölner Flüchtlingsrates e.V. zum Projekt „Brückenbauer*“ für das Jahr 2023 - Kenntnis genommen
+- TOP 5.5: EHAP Plus Projekt INKA - In Köln Ankommen - Sachstandsbericht für den Zeitraum 01.10.2022 bis 31.12.2023 - Kenntnis genommen
+- TOP 5.6: Leitbild "Kulturelle Teilhabe in Vielfalt": Aktualisierte Fassung nach Änderungsantrag - Kenntnis genommen
+- TOP 5.7: Geschäftsbericht Wohnen in Köln 2022 - Fakten, Zahlen und Ergebnisse 2022 - Kenntnis genommen
+- TOP 5.8: Sachstand Willkommensbehördenprozess - Maßnahmenkonzept des beauftragten Dienstleiters - Kenntnis genommen
+- TOP 5.9: Jahresbericht 2023 zur Gewaltschutzkoordination in den Unterkünften für Geflüchtete in Köln - Kenntnis genommen
+- TOP 5.10: Mitteilung über die Kostenerhöhung von Sanierungsmaßnahmen an vier Einfamilienhäusern zur Unterbringung Geflüchteter unter den Anschriften Elisabethstr. 3, 9, 11 und 13 in 51147 Köln-Porz - Kenntnis genommen
+- TOP 5.11: Gedenkveranstaltung „Birlikte - Zusammenhalten“ - Kenntnis genommen
+- TOP 5.12: Jahresbericht des Auszugsmanagements 2023 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag von FachAK 3 auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - zurückgestellt
+- TOP -: Stellungnahme zu Antrag auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - Stellungnahme der Verwaltung
+- TOP 6.2: Antrag zur Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz - endgültig zurückgezogen
+- TOP -: Änderungsantrag auf Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 6.2 - Antrag der SPD-Liste und der SPD-Fraktion zur Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz - ungeändert beschlossen
+- TOP 6.3: Antrag auf Errichtung einer Vorbereitungsgruppe anlässlich des 40-jährigen Jubiläums des Integrationsrates - ungeändert beschlossen
+- TOP 6.4: Antrag auf eine Kooperation von DOMiD e.V., Verwaltung und Integrationsrat zur Dokumentation der Geschichte des Kölner Integrationsrates - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu Antrag des FachAK 1 auf eine Kooperation von DOMiD e.V., Verwaltung und Integrationsrat zur Dokumentation der Geschichte des Kölner Integrationsrates - ungeändert beschlossen
+- TOP 6.5: Antrag auf Erneuerung der Gedenktafel zur Einreise des millionsten sog. Gastarbeiters - zurückgestellt
+- TOP 6.6: Antrag zu einer Resolution an die Landesregierung hinsichtlich Kürzungen von landesgeförderten Stellen- und Projekten von Kölner Trägern - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Benennung von 3 Mitgliedern des Integrationsrates für das Kuratorium für ein Denkmal zu den Anschlägen des NSU in der Keupstraße und der Probsteigasse - ungeändert beschlossen
+- TOP 8.2: Mittelverteilung zur Realisierung einer mehrsprachigen Veranstaltungsreihe zu Gesundheitsthemen für Menschen mit internationaler Familiengeschichte durch die Interkulturellen Zentren der Stadt Köln - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
