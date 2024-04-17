@@ -1,0 +1,93 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-04-17T17:00:00+02:00
+- Ende: 2024-04-17T22:30:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5230
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5230
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Sanierungs- und Investitionsbedarfe an der Fritz-Karsen-Schule - beantwortet
+- TOP 1.2: Fritz-Karsen-Schule: Notfallplan 4-6 Gebäude - beantwortet
+- TOP 1.3: Raumbedarfe Fritz-Karsen Schule - beantwortet
+- TOP 1.4: Machbarkeitsstudie/Zügigkeit der Fritz-Karsen-Schule - schriftlich beantwortet
+- TOP 1.5: Monitoring 2022/23 zur Schulplatznachfrage im Bereich der öffentlichen allgemeinbildenden Schulen der Senatsverwaltung für Bildung, Jugend und Familie für den Bezirk Neukölln - schriftlich beantwortet
+- TOP 1.6: Musikschule Paul Hindemith - beantwortet
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: 1306/XXI - Wahl einer stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - erledigt
+- TOP 2.2: 1307/XXI - Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - erledigt
+- TOP 2.3: 1308/XXI - Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Jugendhilfeausschuss - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Anträge des Kinder- und Jugendparlaments Neukölln - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Frieden für Gaza und Israel! Neukölln fordert sofortigen Waffenstillstand! - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Sozialen Wohnhilfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Aufhebung der Veränderungssperre 8-113/37 für das Grundstück Zeitzer Straße 6 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-113 - vertagt
+- TOP 8: Vorlagen zur Wahl - (offen)
+- TOP 8.1: Wahl eines Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 8.2: Wahl einer Bürgerdeputierten in den Ausschuss für Ordnung - gewählt
+- TOP 8.3: Wahl einer stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 8.4: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Bürgeramtskoffer - beantwortet
+- TOP 9.2: Jahresabschluss 2023 - beantwortet
+- TOP 9.3: Wie steht es um die geplante Jugendfreizeiteinrichtung in der Gerlinger Straße? - beantwortet
+- TOP 9.4: PR-Show für Wahlkampf um SPD-Vorsitz? - beantwortet
+- TOP 9.5: SOS Gesundheitsamt - Warum laufen dem Stadtrat die Mitarbeiter weg? - beantwortet
+- TOP 9.6: Schulgewalt kein Thema für das Jugendamt? - beantwortet
+- TOP 9.7: Honorarverträge im Gesundheitsamt - beantwortet
+- TOP 9.8: Neuer Stand beim Leerstand im Wohnpark St. Marien - beantwortet
+- TOP 9.9: Wasserschäden bei Starkregen in der Blue Box im Frauenviertel in Rudow - beantwortet
+- TOP 9.10: Sicherstellung der Tariftreue und Essensversorgung beim Schulcatering - schriftlich beantwortet
+- TOP 9.11: Bau Watch Überwachung des Grundstücks der R.-Villa in Alt-Buckow - schriftlich beantwortet
+- TOP 9.12: Spart der Senat bei der Neuköllner Suchthilfe? - schriftlich beantwortet
+- TOP 9.13: Asiatische Tigermücke - schriftlich beantwortet
+- TOP 10: Mitteilungen - (offen)
+- TOP 10.1: Ehrendes Gedenken an Jutta Limbach - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 11.1: Mieterstromprojekte fördern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: Trinkwasserbrunnen - Ausbau für den Gesundheitsschutz vor Hitze für Neuköllner*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Zaun um den Görli - Auswirkung für Neukölln? - beantwortet
+- TOP 12.2: Musikschule Neukölln in der Krise? - beantwortet
+- TOP 12.3: Unterbringung von Flüchtlingen im Bezirk Neukölln - schriftlich beantwortet
+- TOP 12.4: Familienzentrum Shehrazad - beantwortet
+- TOP 12.5: Haushaltschaos im Land - Folgen für Neukölln? - beantwortet
+- TOP 12.6: Einhaltung von Reinigungsverträgen - beantwortet
+- TOP 13: Beschlussempfehlungen - (offen)
+- TOP 13.1: Antrag auf Aufhebung der Halteverbotsbereiche in Alt-Rudow an Sonntagen - in der BVV abgelehnt
+- TOP 13.2: Radverkehr auf der Oderbrücke sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Aktuelle halbe Stunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Seniorenvertretung in der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.5: Freie Träger auch weiterhin von den Betriebskosten befreien - vertagt
+- TOP 13.6: Rettung der Skulptur „Der seltene Fang“ aus dem Kreuzberger Victoria-Park durch den Bezirk Neukölln - in der BVV abgelehnt
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Warum unterstützt das Bezirksamt die Geschichtsverfälschungen der Broschüre Mythos#Israel 1948? - vertagt
+- TOP 14.2: Entstandene Kosten infolge der Räumung der "R. Villa" in Alt-Buckow - vertagt
+- TOP 15: Große Anfragen - schriftlich - erledigt
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Hinweisschilder Cannabis-Verbotszone - überwiesen
+- TOP 16.2: Grünschutz auf der Sonnenallee - überwiesen
+- TOP 16.3: Trinkwasserspender an/in öffentlichen Gebäuden - überwiesen
+- TOP 16.4: Zukunftsfeste und bedarfsgerechte Musikschule - überwiesen
+- TOP 16.5: Barrierefreiheit in allen Neuköllner Schulen - überwiesen
+- TOP 16.6: Plauderbänke gegen Einsamkeit - überwiesen
+- TOP 16.7: Rollheimer unterstützen - überwiesen
+- TOP 16.8: Standesamtliche Trauung im SchwuZ - überwiesen
+- TOP 16.9: Familienzentrum Alt-Buckow 37 - überwiesen
+- TOP 16.10: Neue Wege zur Energieeinsparung in der Verwaltung - überwiesen
+- TOP 16.11: Bahnschienen Kanalstraße - überwiesen
+- TOP 16.12: Gedenken an Hatun Sürücü 07.02.2025 - überwiesen
+- TOP 16.13: Fahrradbügel am U-Bahnhof Rudow - überwiesen
+- TOP 16.14: Umnutzung der „Clan Villa“ zur Bibliothek für alle Neuköllner - überwiesen
