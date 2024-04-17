@@ -227,3 +227,4 @@
 | § 173 | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz |
 | § 174 | Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst |
 | § 175 | Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie |
+| § 176 | Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften |

@@ -7,7 +7,7 @@
 ## Art 1
 
 
-### Erster Abschnitt Wegfall des Versicherungsnachweises bei Fahrzeugen aus den anderen Mitgliedstaaten der Europäischen Union
+### Abschnitt 1 Ausnahmen von der Pflicht zum Mitführen und Aushändigen eines Versicherungsnachweises bei Fahrzeugen aus anderen Mitgliedstaaten der Europäischen Union
 
 
 ### Art 1
@@ -16,25 +16,7 @@
 ### Art 1
 
 
-### Zweiter Abschnitt Bestimmungen für Fahrzeuge aus Nicht-EU-Mitgliedstaaten und Nicht-EWR-Vertragsstaaten
-
-
-### Art 1
-
-
-### Art 1
-
-
-### Art 1
-
-
-### Art 1
-
-
-### Art 1
-
-
-### Art 1
+### Abschnitt 2 Ausnahmen von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises bei Fahrzeugen aus anderen Vertragsstaaten des Europäischen Wirtschaftsraums und aus Drittstaaten
 
 
 ### Art 1

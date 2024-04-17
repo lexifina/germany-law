@@ -234,3 +234,4 @@ Nachschusspflicht der Mitglieder
 - [§ 173 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz](0173.md)
 - [§ 174 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst](0174.md)
 - [§ 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie](0175.md)
+- [§ 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften](0176.md)

@@ -1,0 +1,6 @@
+# Art 93
+
+(1)
+§ 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2023 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung sind letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2024 beginnende Geschäftsjahr anzuwenden.
+(2)
+§ 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung dürfen bereits auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2022 beginnende Geschäftsjahr angewendet werden, jedoch nur insgesamt. Wird von dieser Möglichkeit Gebrauch gemacht, sind die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2023 beginnende Geschäftsjahr anzuwenden.

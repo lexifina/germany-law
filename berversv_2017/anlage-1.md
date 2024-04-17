@@ -388,7 +388,7 @@ zu Versicherungszweigen (Vz) und die dafür zu setzenden Kennzahlen (Kz)
 | übernommenes Versicherungsgeschäft: | 1 bis 24 |
 _________________
 Anmerkungen zum Abschnitt C
-| 1 | Hierzu zählen alle Landfahrzeuge, die nicht der Pflichtversicherung in der Kraftfahrzeug-Haftpflichtversicherung gemäß § 2 Absatz 1 Nummer 6 des Pflichtversicherungsgesetzes unterliegen. |
+| 1 | Hierzu zählen alle Landfahrzeuge, deren durch die Bauart bedingte Höchstgeschwindigkeit 6 Kilometer pro Stunde nicht übersteigt oder deren Halter gemäß § 2a des Pflichtversicherungsgesetzes nicht der Pflichtversicherung in der Kraftfahrzeug-Haftpflichtversicherung unterliegen. |
 | 2 | Jeweils einschließlich der Kaskoversicherung nicht versicherungspflichtiger Landfahrzeuge (mit und ohne eigenen Antrieb) gemäß Fußnote 1. |
 | 3 | Hierzu gehören alle Versicherungen des Hausrats im In- und Ausland, unabhängig davon, nach welchen Versicherungsbedingungen sie abgeschlossen wurden und ob sie eine oder mehrere Risikoarten umfassen; einschließlich der lebenslänglichen Hausratsversicherung. |
 | 4 | Hierzu gehören alle Versicherungen von Wohngebäuden im In- und Ausland, unabhängig davon, nach welchen Versicherungsbedingungen sie abgeschlossen wurden und ob sie eine oder mehrere Risikoarten umfassen. |
