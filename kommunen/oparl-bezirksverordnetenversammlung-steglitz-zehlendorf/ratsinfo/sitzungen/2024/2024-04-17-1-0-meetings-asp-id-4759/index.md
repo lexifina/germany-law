@@ -1,0 +1,56 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-04-17T17:00:00+02:00
+- Ende: 2024-04-17T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4759
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4759
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Kranoldmarkt erhalten - überwiesen
+- TOP 3: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Neuorganisation des Jugendamtes gegen die Beschäftigten? - beantwortet
+- TOP 4.2: Fehlende Veranstaltungsorte für Kulturfestivals - beantwortet
+- TOP 4.3: Aktueller Stand und Maßnahmen zur Sanierung und Wiedereröffnung des Sommerbads Spucki - beantwortet
+- TOP 4.4: Wann kommen die Hinweistafeln am Hindenburgdamm? - beantwortet
+- TOP 4.5: Nach Cannabis-Freigabe: Handlungsempfehlungen an Mitarbeiter des Bezirksamts? - beantwortet
+- TOP 4.6: Wie lange wird die CDU-Senatsverwaltung noch den Radweg in der Thielallee blockieren? - beantwortet
+- TOP 4.7: Altersarmut im Bezirk - schriftlich beantwortet
+- TOP 4.8: Wie steht es mit dem Schutz der Kleingartenanlagen? (Sicherung der Kleingartenanlagen der Kleingartenvereinsgruppe Berlin-Steglitz-Ost e.V.) - schriftlich beantwortet
+- TOP 4.9: Wird der Bierpinsel sein 20. Leerstandjubiläum erleben? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 5.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Inklusionssportplanung für und mit den Nutzern - in der BVV abgelehnt
+- TOP 5.5: Wohnen ist Daseinsvorsorge: Mietwucher verfolgen, ahnden, stoppen! - in der BVV abgelehnt
+- TOP 5.6: Instandsetzung und Inbetriebnahme des „Spucki“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Die Bäke beim Umbau von Schloßstraße/Unter den Eichen mitdenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 6.1: Bezeichnung des U-Bahnhofes Oskar-Helene-Heim mit dem Zusatz Clayallee ergänzen - überwiesen
+- TOP 6.2: Ungenehmigte Ferienwohnungen in Steglitz-Zehlendorf aufspüren und wieder dem Wohnungsmarkt zuführen - überwiesen
+- TOP 6.3: Darstellende Kunst im Rathaus Zehlendorf – höchste Zeit für ein Update - überwiesen
+- TOP 6.4: Überprüfung der Verbindungen von Bernhard Butzke (1876–1952) mit dem Nationalsozialismus - überwiesen
+- TOP 6.5: Kompostierungsgelände an der Clauertstraße - überwiesen
+- TOP 6.6: Was nicht erlaubt ist, muss auch klar gemacht werden - überwiesen
+- TOP 6.7: Symbole der Verbundenheit mit Israel und der Ukraine - überwiesen
+- TOP 6.8: Ein Flüssigbaum für Steglitz-Zehlendorf - überwiesen
+- TOP 6.9: Haltelinien für die Ampelanlage Albrechtstraße - überwiesen
+- TOP 6.10: Zweigleisiger Ausbau der S-Bahn nach Teltow - überwiesen
+- TOP 6.11: Fördermittellage für Kunstwerke im öffentlichen Raum prüfen - überwiesen
+- TOP 6.12: Erstellung einer Liste von öffentlichen Gebäuden und Kunstwerken im öffentlichen Raum aus der NS-Zeit - überwiesen
+- TOP 6.13: Säuberung des Stangenpfuhlteichs und Umfeld in Lichterfelde-Süd - überwiesen
+- TOP 6.14: Abkühlung für die Menschen in der Thermometersiedlung - überwiesen
+- TOP 6.15: Kleinwindkraftanlagen - überwiesen
+- TOP 6.16: Dank den Schülern und Unternehmen, die aktiv die Umwelt durch Baumpflanzung schützen - überwiesen
+- TOP 6.17: Rhododendron vor dem Rathaus - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Klare Zahlen statt Bauchgefühle: Unterstützungsangebote für Obdachlose in der Schloßstraße - beantwortet
