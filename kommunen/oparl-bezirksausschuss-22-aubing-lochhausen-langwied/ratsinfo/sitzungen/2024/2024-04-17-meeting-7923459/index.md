@@ -1,0 +1,117 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-04-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923459
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923459
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: Tiny-Forest für Ehrenbürgstraße 1
+- TOP 2.1.2.: Störung bei der S4 und S20 im Bereich München West
+- TOP 2.1.3.: Sofortiger Stopp Ausgabe von Pflanzen an Green-City-Paten
+- TOP 2.1.4.: Parkplatzsituation in der Neideckstraße und umliegenden Straßen
+- TOP 2.1.5.: Missstände in Lochhausen
+- TOP 2.1.6.: Ausbau der A 99 und Zufahrtsmöglichkeiten von Puchheim aus
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.2.: Baumfällungsbescheide, hier: - Kastelburgstr. 22
+- TOP 4.: Anträge
+- TOP 4.1.: Neuer Standort für den Träger Anderwerk-Deutschkurse in Freiham/Neuaubing (Interfraktioneller Antrag)
+- TOP 4.2.: Anfragen zu Baumpflanzungen (Liedl)
+- TOP 4.3.: Dringender Sanierungsbedarf der Lochhausener Straße (Bündnis 90/Die Grünen)
+- TOP 4.4.: Anfrage: Standort Berufsfeuerwehr im 22. Stadtbezirk (Bündnis 90/Die Grünen)
+- TOP 4.5.: Ampelschaltzeiten an der Mainaustraße zur Radolfzellerstraße überprüfen (Schrott, Bergmann, Kriesel)
+- TOP 4.6.: Errichtung eines Briefkastens im Neubaugebiet an der Osterangerstraße in Lochhausen (Kriesel, Stockmann, Götz-Schubach)
+- TOP 4.7.: Aufstellung von Hundekotbeutelspendern im Grünzug an der Osterangerstraße in Lochhausen (Kriesel, Stockmann, Götz-Schubach)
+- TOP 4.8.: Ausweisung von begrenzten Parkzeiten in der Ranertstraße in Lochhausen (Kriesel, Stockmann, Götz-Schubach)
+- TOP 4.9.: Verstärkung des ÖPNV-Angebots in Lochhausen (Kriesel, Stockmann, Götz-Schubach)
+- TOP 4.10.: Errichtung einer Wertstoffinsel im Neubaugebiet an der Osterangerstraße in Lochhausen (Kriesel, Stockmann, Götz-Schubach)
+- TOP 4.11.: Anfrage: Wildtiere im Landschaftsschutzgebiet an der Osterangerstraße zwischen Langwieder Hauptstraße und Eschenriederstraße schützen (Götz-Schubach, Schrott, Spannagl, Stockmann)
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Veranstaltung unter freiem Himmel auf Privatgrund und in einer Grünanlage: Wiesentfelser Str. 49, "Maibaumfest St. Markus" am 01.05.24, Anhörung KVR vom 18.03.24
+- TOP 6.1.1.2.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund: Abzweigung Langwieder Hauptstr. Verkehrsinsel und Feuerwehrhaus, "Maifest 2024" am 01.05.24, Fassl-Club Lochhausen e.V., Anhörung KVR vom 19.03.24
+- TOP 6.1.1.3.: Veranstaltungen in städtischen Grünanlagen und auf öffentlichem Verkehrsgrund im 22. Statdtbezirk: Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2024 von Mai bis Oktober 2024, Anhörung KVR vom 26.03.24
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Ausnahmegenehmigung Skatekurse und Mobil in städt. Grünanlagen / Skateparks, hier: Gleisdreieck, Freiham und Wiesentfelser Str. vom 08.04.-24.10.24, Schr. KVR vom 27.03.24
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Ran an die Stadtteil-Koffer 2025, Bewerbung, Anhörung Sozialreferat vom 05.03.24 (vertagt aus 03/24)
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Anfrage: Wann ist mit einer Eröffnung der Integrierten Einrichtung in Lochhausen mit Angeboten für Offene Kinder- und Jugendarbeit, für ältere Menschen und für Bewohner im Quartier zu rechnen? Schr. Sozialreferat vom 25.03.24
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnungen, hier: - Aubinger Allee 19, Errichtung einer Tempo 30 km/h-Geschwindigkeitsbeschränkung im Bereich der Kindertagesstätte, Anhörung Mobilitätsreferat vom 22.03.24
+- TOP 6.3.1.2.: Entscheidungsvorschlag zur künftigen Raumaufteilung der Lochhausener Straße, Anhörung Mobilitätsreferat vom 20.03.24
+- TOP 6.3.1.3.: Benehmen-Herstellung: Planfeststellung 30. Planänderung PFA 1 2. S-Bahn-Stammstrecke mit Ökokontoflächen LK Dachau und LK Landshut, Anhörung Ref. f. Stadtplanung u. Bauordnung vom 28.03.24
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Zugeparkte Gehwege an der Kreuzung Wiesentfelser Str./ Riesenburgstr., Schr. Polizeiinspektion 45 vom 26.03.24
+- TOP 6.3.2.2.: Behinderungen durch parkende Autos in und aus der Streitbergstraße, Schr. KVR und Schr. Polizeiinspektion 45 vom 26.03.24
+- TOP 6.3.2.3.: Parkplatzbucht an der B2, Schr. Polizeiinspektion 45 vom 26.03.24
+- TOP 6.3.2.4.: Stellungnahme des Arbeitskreis "Attraktiver Nahverkehr" (AAN) zum MVG-Leistungsprogram 2025, Schr. Münchner Forum e.V. vom 21.03.24
+- TOP 6.3.2.5.: Anfrage: Zwischenstand Planoption Querung Wiesentfelser Straße Höhe Albert-Camus-Straße sichern, Schr. Mobilitätsreferat vom 18.03.24
+- TOP 6.3.2.6.: Straßenplanung Freiham / Stellplatzsituation mit Gehbehinderung, Schr. Baureferat vom 28.03.24
+- TOP 6.3.2.7.: Parksituation in der Henschelstraße, Schr. Baureferat vom 18.03.24
+- TOP 6.3.2.8.: Clarita-Bernhard-Straße, westlicher Teil - Sackgassenbeschilderung, Schr. Mobilitätsreferat vom 27.03.24
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Antrag auf Sondernutzung städt. öffentlicher Grünanlage, hier: Solarkiosk am Quartiersplatz Wiesentfelser Str., Anhörung KVR vom 28.02.24 (vertagt aus 03/24)
+- TOP 6.4.1.2.: Rupert-Bodner-Str., Neubau von sieben Gebäuden für gewerbliche Nutzung, Anhörung Ref. f. Stadtplanung u. Bauordnung vom 21.03.24
+- TOP 6.4.1.3.: Bodenseestr. 290, Neubau von zwei Mehrfamilienhäusern und Tiefgarage mit den erforderlichen Stellplätzen (Vorbecheid), Anhörung Ref. f. Stadtplanung u. Bauordnung vom 15.03.24
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: 11.03-17.03.24, 18.03.-24.03.24
+- TOP 6.4.2.2.: Extreme Vermüllung Wiese Richtung Birkensee, Schr. Baureferat vom 26.03.24
+- TOP 6.4.2.3.: Aktuelle Aktivitäten im Bereich des Aubinger Moos Projekts, Schr. Ref. f. Klima- u. Umweltschutz vom 19.03.24
+- TOP 6.4.2.4.: Spielplatzerneuerung Bad-Stebener-Weg, Schr. Baureferat vom 28.03.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mehrjahresinvestitionsprogramm, Anhörungsverfahren, Fortschreibung für die Jahre 2024 bis 2028, Anhörung Stadtkämmerei vom 14.03.24
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europawahl 2024; Wahlbezirke und Wahlräume im Stadtbezirk 22, Schr. KVR vom 21.03.24
+- TOP 8.2.: Unveränderte Fortführung, hier: - "Zur Aubinger Einkehr", Gößweinsteinplatz 7, Schr. KVR vom 20.03.24
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1: Ausschuss für Stadtplanung und Bauordnung vom 10.04.24
+- TOP 9.1.1.: Keine neuen Bürohäuser
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 15.05.24 um 19.00 Uhr im Campus Freiham, Helmut-Schmidt-Allee 41 (Mensa Süd) Unterausschüsse: - UA Planen/Bauen/Umwelt: Dienstag, 09.04.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 09.04.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 10.04.24, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 11.04.24, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk: - Am Loferfeld 18 - Hoheneckstr. 29 - Kräheneckstr. 16a - Lichteneckstr. 11 - Pretzfelder Str. 8 - Brunhamstr. (N) - Richard-Seewald-Bogen
+- TOP 6.3.2.9.: (N) - Schulbusbeförderung aus dem Neubaugebiet Osterangerstraße, Schr. Referat f. Bildung u. Sport vom 03.04.24
+- TOP 6.3.2.10.: (N) - Verkehrsrechtliche Anordnungen, hier: - Plankenfelser Straße, Südseite, östlich Freienfelsstraße, Anordnung eines absoluten Halteverbots, Schr. Mobilitätsreferat vom 04.04.24 - Mainaustraße, Erleichterte streckenbezogene Anordung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen, Schr. Mobilitätsreferat vom 05.04.24
+- TOP 2.1.7.: (N) - Parkplätze für eine WG mit jungen Erwachsenen mit Pflegebedarf in der Otto-Meitinger-Straße
+- TOP 6.3.2.11.: (N) - Baubeginn Henschelstraße: Barrierefreier Bushaltestellenumbau Haltestelle Lochhausen Bahnhof, Schr. Baureferat vom 27.03.24
+- TOP 6.3.2.12.: (N) - Flyer SWM-Trinkwasserprojekt Waidachanger 13. KW-26. KW, Schr. SWM vom 05.04.24
+- TOP 2.1.8.: (N) - Verschmutzung Radweg Freiham-Germering
+- TOP 2.1.9.: (N) - Marianne-Hoppe-Straße, Straßenschild
+- TOP 6.3.2.13.: (N) - Ampelanlage Aubinger Str. - Stockacher Str., Schr. Mobilitätsreferat vom 08.04.24
+- TOP 6.3.2.14.: N - Ausstattung mit elektronischen Anzeigern, Farbe Display, Schr. MVG vom 03.04.24
+- TOP 5.1.: (N) Stadtbezirksbudget Init. "Schule damals, Schule heute" „Schule damals, Schule heute. Dreharbeiten zwischen 06.05.2024 – 16.05.2024“ 3.200,00 € /AZ: 0262.0-22-0248
+- TOP 6.1.1.4.: (N) - Veranstaltung im Freien in einer städtischen Grünanlage; hier: Skatepark Freiham am 08.06.2024; 20.09.2024; 11.10.2024, Anhörung KVR vom 09.04.24
+- TOP 6.1.1.5.: (N) Veranstaltung Tauschschrank Einweihungsfeier im Freien auf öffentlichen Verkehrsgrund;hier: Ziegeleistr. am 19.04.2024, Anhörung KVR vom 09.04.24
+- TOP 2.1.10.: (N) - Neues Parkverbot Zwernitzer Straße, Unmut bei Anliegern
+- TOP 2.1.11.: (N) - Aubinger Friedhof - Anpflanzung von schattenspendenden Bäumen
+- TOP 2.1.12.: (N) - Verkehrssituation Lochhausen; Sperrung Henschelstraße
+- TOP 6.4.1.4.: (N) - Digitale Stadtinformationsanlage (einseitig 9m²), Brunhamstraße, Fl.Nr. 251-4, Anhörung Planungsreferat vom 11.04.24
+- TOP 2.1.13.: (N) - Mehr Blumen im Stadtbezirk
+- TOP 2.1.14.: (N) - E-Roller
+- TOP 2.1.15.: (N) - Haltverbot Elisabeth-Jost-Straße
+- TOP 2.1.16.: (N) - Entsorgung Lochhausen
+- TOP 2.1.17.: (N) - Parkverbot Osterangerstraße
+- TOP 2.1.18.: (N) - Zeitplan Glasfaserausbau in Aubing
+- TOP 2.1.19.: (N) - Nachfrage zum Abriss der Grundschule an der Limesstraße
