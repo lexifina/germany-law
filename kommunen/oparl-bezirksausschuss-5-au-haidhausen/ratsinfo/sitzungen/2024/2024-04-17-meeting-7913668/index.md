@@ -1,0 +1,146 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2024-04-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7913668
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7913668
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung im UA Klima und Umwelt
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürger*innen haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Anfrage zur Krise des St. Josefs-Heims in Haidhausen
+- TOP 5.2.: Grüner Pfeil für den Radverkehr
+- TOP 5.3.: Zukunft der Kindervilla Kellerstraße
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.1.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Hinweise zur Erledigung von BA-Anträgen / Vorgehen bei Rück- und Folgefragen
+- TOP 6.2.2.: Infoblatt April 2024
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des/der Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Initiative „Isarbaumköpfe“ Temporäres Kunstwerk „Isarbaumköpfe“ 2.500,00 Euro; Az. 0262.0-5-0538 vertagt in der Sitzung am 20.03.2024
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „100 Portraits of Munich“ Kulturprojekt „100 Portraits of Munich“ 1.900,00 Euro; Az. 0262.0-5-0540
+- TOP II.3.: (E) Stadtbezirksbudget Initiative „Kreative Musik“ „Musik als soziale Kommunikation“ 4.750,00 Euro; Az. 0262.0-5-0541
+- TOP II.4.: Ortstermin zur Nutzung des Unionsbräu in der Einsteinstr. 42
+- TOP II.5.: Anfrage zur Zukunft des Üblacker-Häusls in der Preysingstr. 58
+- TOP II.6.: Errichtung einer Gedenkstätte für die Opfer der Coronapandemie in Form eines Gedenkkreuzes vor der Alten Haidhauser Kirche; Schreiben Pfarrverband Haidhausen
+- TOP II.7.: Suche nach Räumlichkeiten für Musiker Antwort zum Schreiben BA 5
+- TOP II.8.: Fußgängerzone Weißenburger Straße: Durchführung von BA-Veranstaltungen ?
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München-Freising e.V.; Fachbereich Integration/Alveni Ferienaktion mit den Bewohner*innen der Gemeinschaftsunterkunft Pariserstraße vom 27.05. bis 29.05.2024 4.900,00 Euro; Az. 0262.0-5-0539
+- TOP 1.2.: (E) Stadtbezirksbudget siaf e.V. „Soziale Teilhabe in einem barrierefreien café glanz mit Beschäftigungsprojekt“ – Umbau Küche sowie Umgestaltung Treffpunkt café glanz 15.000,00 Euro; Az. 0262.0-5-0542
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ausschreibung „Ran an die Stadtteil-Koffer!“ Mit dem Kinder-Aktions-Koffer und dem Kita-Stadtteil-Koffer Stadtteile kinderfreundlicher gestalten
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Nutzungsanfrage Mariahilfplatz 10 Antwort Kommunalreferat zum Schreiben BA 5
+- TOP 3.2.: (U) Errichtung eines Hauses für Kinder mit 3 Krippen- und 2 Kindergartengruppen im Baugebiet 2, Regerstraße 44 5. Stadtbezirk - Au-Haidhausen Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 3.3.: Ganztagsbetreuung Grundschulkinder mit Bibliothek für die Untere Au
+- TOP 3.4.: Kostenloses Training in den Frühlingsanlagen vom 09.04.2024 bis Ende Mai 2024 der Organisation "Outdoor Against Cancer" Vorabzustimmung durch den Vorsitzenden
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Spende einer Sitzbank Ecke Leonhard- und Wolfgangstraße
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative "Parklet und Stadtterrasse" Parklet und Stadtterrasse am Breisässer Platz vom 20.03. - 31.11.2024 4.660,00 Euro / Az. 0262.0-5-0533 vertagt in der Sitzung am 20.03.2024
+- TOP 1.2.: (E) Stadtbezirksbudget Erfindergarten Foundation gUG / Münchner Werkzeugbibliothek „Werkzeugbibliothek Lastenfahrrad“ 5.000,00 Euro; Az. 0262.0-5-0534 vertagt in der Sitzung am 20.03.2024
+- TOP 2.: Anhörungen
+- TOP 2.1.: 15. Jubiläum Kita Le Papillon auf dem Gehweg Preysingstr. 14 bis 18 am 14.06.2024 Fristverlängerung bis 18.04.2024
+- TOP 2.2.: Partnerschaftsfest auf dem Bordeauxplatz am 25.05.2024
+- TOP 2.3.: "Ratschen und Boulen am Bordeauxplatz, Mitreden, Mitspielen" am 18.05.2024
+- TOP 2.4.: 50 Jahre Jubiläumsfest AKA e.V. auf der Postwiese am 15.06.2024
+- TOP 2.5.: Europawahl am 09.06.2024; Einteilung der Wahlbezirke und Wahlräume Fristverlängerung bis 18.04.2024
+- TOP 2.6.: Nutzungsanfrage Mariahilfplatz für ein Familientheater vom 14.06.-16.06.2024
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Überarbeitete Dokumentation Workshop zur Gestaltung des Mariahilfplatzes - UA Wirtschaft und UA Mobilität und UA Klima - vertagt in der Sitzung am 28.02.2024
+- TOP 3.2.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität und UA Klima) vertagt in der Sitzung am 28.02.2024
+- TOP 3.3.: Zusätzliche Mülleimer und mobile Spielgeräte auf dem Mariahilfplatz (Nachgang zum Workshop) Antwort Baureferat zum Schreiben BA 5
+- TOP 3.4.: Schließung der Filiale in der Orleansstraße Antwort Postbank zum Schreiben BA 5
+- TOP 4.: Anliegen von Bürger*innen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Welfenstr. 39 - Abbruch einer Garagenanlage und Neubau eines Wohngebäudes im Innenhof mit 6 Wohneinheiten und Tiefgarage
+- TOP 2.2.: Belfortstr. 10 - Senkrechtaufzug auf Balkon im 1.OG (4m Höhe) für barrierefreien Zugang zur Wohnung, Erforderlich wegen M5-Erkrankung
+- TOP 2.3.: Oefelestr. 4 - Sanierung und Erweiterung eines Mehrfamilienhauses, Nutzungsänderung von Laden und Lagern zu 3 Wohneinheiten (EG), Aufstockung zur Errichtung von 6 Wohneinheiten (4. OG, DG), Anbau von Balkonen und eines Außenaufzugs - hier: Entfall der Traufbalkone und des erdgeschossigen Rückgebäudes, Überdachung des Lichthofes (EG) - ÄNDERUNGSANTRAG zu 1.201-2020-11098-21 - hier: Änderung der Dachkontur im Bereich Dachterrasse, Anbau von straßenseitigen Balkonen, Errichtung einer hofseitigen Terrasse statt Balkon im EG, Vergrößerung des hofseitigen Lichtschachts
+- TOP 2.4.: Preysingstr. 18 - Nutzungsänderung von Fitnesscenter in Café und Tagesbar
+- TOP 2.5.: Simon-Knoll-Platz 3 - Schulbauoffensive, Brandschutzmaßnahme: Umbau einer außenlliegenden Fluchttreppe incl. Fahrradstellplatz
+- TOP 2.6.: Vollzug des Bayerischen Denkmalschutzgesetzes: Balanstr. 31; Nachtrag in die Denkmalliste, Benehmensverfahren
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sanierung Johannisplatz: Finanzierung aus dem MIP
+- TOP 3.2.: Aufnahme der historischen Anwesen Preysingstraße 19 und 21 als Einzeldenkmäler in die Denkmalliste
+- TOP 3.3.: Sachstand Anwesen Kellerstraße 3
+- TOP 3.4.: Protokoll der Erörterungsveranstaltung am 08.02.2024: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1956c Bothestraße (südlich), Leuchtenbergring (westlich), Bahnlinie München - Rosenheim (nördlich) (Teiländerung des Bebauungsplanes Nr. 491)
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Leerstand und Verwahrlosung des Anwesens Preysingplatz 8
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Antrag SPD: Radweg am Bordeauxplatz vertagt in der Sitzung am 20.03.2024
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch einer Lichtsignalanlage a) Standort Elsässer-/ Orleansstraße b) Orleansplatz Nord c) Orleansplatz Süd
+- TOP 2.2.: Sommerstraße 2024 in der Drächslstraße - Anfrage Sommerstraße 2025
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ganzheitliches Fahrradabstellkonzept für den Ostbahnhof erarbeiten !
+- TOP 3.2.: Grenzmarkierung Tiefgarageneinfahrt Seeriederstr. 1-5
+- TOP 3.3.: Autonomes Fahren: Testgebiet in Au-Haidhausen ?
+- TOP 3.4.: Radweg am Mariahilfplatz
+- TOP 3.5.: Unterseite auf www.muenchen.de für die Sammlung von O-Bikes einrichten
+- TOP 3.6.: MVG-Leihradstationen in Au-Haidhausen
+- TOP 3.7.: Lichtsignalanlage Hochstraße / Rosenheimer Straße Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.8.: Verkehrssituation in der Humboldtstraße Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.9.: Tunnel für Radverkehr endlich freigeben Antwort Deutsche Bahn zur Anfrage BA 5
+- TOP 3.10.: Genoveva-Schauer-Platz/ Steinstraße 44; Zusätzliches Schild "Fußgängerzone", verkehrsrechtliche Anordnung
+- TOP 3.11.: Ausnahmegenehmigung für Arbeiten im Straßenraum wegen Einsenkungssanierung: Prinzregentenplatz vom 02.04.-19.04.2024
+- TOP 3.12.: Überarbeitete Dokumentation Workshop zur Gestaltung des Mariahilfplatzes - UA Wirtschaft und UA Mobilität und UA Klima - vertagt in der Sitzung am 28.02.2024
+- TOP 3.13.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität und UA Klima) vertagt in der Sitzung am 28.02.2024
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Maßnahmen gegen Fahrradfahrer auf Gehwegen in der Au
+- TOP 4.2.: Probleme an der Nockherstraße: Müllansammlung auf Bahngelände / Absenkung des Gehwegs Ecke Tauben-/Nockherstraße
+- TOP 4.3.: Schließen der gefährlichen Radweglücke in der Ohlmüllerstraße zwischen Zeppelinstraße und Eduard-Schmid-Straße
+- TOP 4.4.: Aufstellfläche für Radfahrer an der Ampel am Gebsattelberg
+- TOP 4.5.: Reger Durchgangsverkehr in der Fußgängerzone Genoveva-Schauer-Platz
+- TOP 4.6.: Petition „Durchsetzung bestehendes Tempolimit 30 km/h in Haidhausen“
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Brunnen und Spazierweg wieder herstellen Ortstermin vom 27.03.2024
+- TOP 3.2.: Schulbauprojekt FOSBOS Orleansstr. 44 - Ankündigung 2 Baumfällungen (in 2023 genehmigt) Antwort Baureferat zum Schreiben BA 5
+- TOP 3.3.: Mobilfunk Suchkreismeldung Ostbahnhof
+- TOP 3.4.: Überarbeitete Dokumentation Workshop zur Gestaltung des Mariahilfplatzes - UA Wirtschaft und UA Mobilität und UA Klima - vertagt in der Sitzung am 28.02.2024
+- TOP 3.5.: Parkplatz Mariahilfplatz: Pachtvertrag nicht verlängern (UA Wirtschaft und UA Mobilität und UA Klima) vertagt in der Sitzung am 28.02.2024
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Sofortiger Stopp der Ausgabe von Pflanzen an Green-City-Paten
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 06.05.2024 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 06.05.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 07.05.2024, 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 08.05.2024 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 08.05.2024 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 08.05.2024 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 15.05.2024, 19.00 Uhr, Cafeteria in der AWO, Gravelottestr. 8 BA-Vorstand, Dienstag, 30.04.2024, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Sitzungs- und Bürgerversammlungstermine 2025
+- TOP 5.: Verschiedenes
+- TOP 2.7.: Isarinfomobil mit Pavillon vom Kommunikationsteam des Kommunalen Außendienstes von 15.04.2024 - 30.04.2024 in den Isar-Auen in der Nähe Frühlingsanlagen und Schyrenplatz Anhörungsfrist 11.04.2024
+- TOP 1.3.: Detailauskunft zu TOP 1.1 Caritas Ferienaktion
+- TOP 3.1.: - Protokolle der Sitzung vom 28.02.2024 - Protokolle der Sitzung vom 20.03.2024
+- TOP 2.8.: Zellstraßerstrand - Tauffest am 08.06.2024
+- TOP 3.14.: Verkehrssituation in der Humboldtstraße
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - UA Soziales, TOP 3.5: Verschiedenes: - MIP 2024-2028 -- Antrag zur Kindervilla (SPD) - UA Wirtschaft, TOP 1.3: Freischankfläche (Kleinstfläche) „i Siculi concept store“, Weißenburger Straße 24 - UA Wirtschaft, TOP 1.4: Schanigarten „Vinaiolo“, Steinstraße 42, Seite Steinstraße - UA Wirtschaft, TOP 1.7: Isarinfomobil mit Pavillon von 15.04.2024 - 30.04.2024 - UA Wirtschaft, TOP 1.8: Zellstraßerstrand - Tauffest am 08.06.2024 - UA Mobilität, TOP 3.14: Verkehrssituation in der Humboldtstraße
+- TOP II.9.: Detailauskünfte zu den TOPs 1 und 2
+- TOP 3.5.: Verschiedenes: - MIP 2024-2028 - Antrag zur Kindervilla (SPD)
+- TOP 1.3.: Freischankfläche (Kleinstfläche) „i Siculi concept store“, Weißenburger Straße 24
+- TOP 1.4.: Schanigarten „Vinaiolo“, Steinstraße 42, Seite Steinstraße
+- TOP 1.5.: Detailauskünfte zu den TOPs 1 und 2
