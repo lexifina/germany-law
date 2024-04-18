@@ -1,0 +1,140 @@
+# 24. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-04-18T16:30:00+02:00
+- Ende: 2024-04-18T20:32:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6996
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6996
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=424673
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Abberufung eines Bezirksamtsmitglieds - in der BVV abgelehnt
+- TOP 6.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mitteilungen des Vorstehers Nr. IX-20 hier:- Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Sicherheit für Radfahrende auf der Fürstenwalder Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Konzept für Spielplatz auf dem alten Altglienicker Straßenbahndepot erstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Planung zur grundhaften Instandsetzung der Salvador-Allende-Straße zwischen Wendenschloßstraße und Pablo-Neruda-Straße zeitnah aufnehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Eichhörnchenbrücke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Verkehrs- und Baustellenkoordination in Treptow-Köpenick einrichten - Überblick in eine Hand - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Neue Brücke der Westumfahrung der Bahnhofstraße im Design der "Alten Försterei" gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Renaturierung des öffentlichen Grillplatzes im Landschaftspark Johannisthal / Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Straßenschilder in Bohnsdorf-West ergänzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Novellierung Berliner Straßengesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Müngersdorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Eidechsenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Modifizierung von Pflegeverträgen in Landschaftsschutzgebieten (LSG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Verkehrssicherheit auf dem Radweg der Schönefelder Chaussee auf Höhe des Kosmosviertels wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Barrierefreiheit an der Straßenbahnwendeschleife am S-Bahnhof Schöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Brückenschlag Wuhlemündung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Sicherheit auf der Langen Brücke erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Radverkehr Oberspreestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Eindeutiger Hinweis der Linksabbiegefahrspur von der Oberspreestraße in die Ottomar-Geschke-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Unterführung am Bahnhof Hirschgarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Variante Einrichtungsverkehr beim Bohnsdorfer Kreisel vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Schöner Parken und Leben am ehemaligen Görlitzer Bahndamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Neue Mülleimer an FlixBus-Haltestelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Öffentliche Toilette Kreuzung Puschkinallee Ecke Elsenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.16: Pilotprojekt "Eco-Toilette" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.17: Beleuchteter Schulweg durch den Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.18: Öffentlicher Spielplatz in Adlershof für unterschiedliche Altersgruppen öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.19: Elektro-Ladeinfrastruktur an Durchgangsstraßen ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.20: Sicher über den Britzer Verbindungskanal radeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.21: Sondermittel für den "Förderverein KIEZKLUB Bohnsdorf e. V." (SM 21-16) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.22: Sondermittel für die Evangelisch-freikirchliche Gemeinde Berlin-Köpenick (Hofkirche) (SM 21-20) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.23: Ohne Saft geht nix – mehr Ladesäulen für Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.24: Schotter- und Steingärten bei Bebauungen verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.25: Verkehrssicherheit am Ortseingang Müggelheim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.26: Information, Zuwegung und Beleuchtung zum barrierefreien Zugang zum Rathaus Treptow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.27: Sondermittel für den Förderverein "KIEZ KLUB Johannisthal e. V." (SM 22-03) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.28: Sondermittel für den Förderverein "KIEZKLUB Bohnsdorf e. V." (SM 22-15) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.29: Sondermittel für den "Förderverein Haus der Begegnung e. V." (SM 22-16) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.30: Sondermittel für den Förderverein "KIEZKLUB Alte Schule e. V." (SM 22-19) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.31: Neuer Bahnhof an der Ringbahn: S-Bahnhof Kiefholzstraße planen und umsetzen und Alt-Treptow und Plänterwald besser erschließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.32: Wirtschaftsflächenkonzept Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.33: Sondermittel für den Verein "SchöneVibes Kollektiv e. V. i. G. (Cielo Faccio, Sofie Müller, Frederico Egidi)" (SM 23-15) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.34: Installation von Infotafeln bezüglich des Fütterns von Wasservögeln und Fischen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.35: Sondermittel für die Wärmestube Arche, Ev. Kirchengemeinde Berlin-Treptow (SM 23-13) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.36: Gymnasium in Kiefholzstraße 274 zeitnah in Konzept für "Barrierefreiheit für öffentliche Gebäude" einbeziehen und als barrierearmen Standort ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.37: Seniorennetz Berlin unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sondermittel für den "Förderverein Grünauer Friedenskirche e. V." (SM 24-05) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: - Entwurf des Bebauungsplans 9-75 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-75 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - überwiesen
+- TOP 9.3: Sondermittel für das Schlossplatztheater / c/o Verein "Alte Möbelfabrik e. V." (SM 24-15) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für die "Mosaizistas von Halle und Schock GbR" (SM 24-16) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 10.1: Sicher und mit Spaß in Treptow und Köpenick skaten - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kommunalen Klimaschutz voranbringen - Pilotprojekt zu neuen Mobilitätsmodellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Renaturierung LSG Neue Wiesen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Pro Kind ein Baum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Flächenentsiegelung bei Bauvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: "Ein Klavier, ein Klavier!" Ein öffentliches Klavier für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bedarfsermittlung von Schulplätzen für autistische Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Einrichtung einer Busanbindung für die Bergseite in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Inklusive Spielplätze in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kreuzung Schönefelder Chaussee Ecke Dankmarsteig sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sichere Rad- und Gehwege - auch im Winter - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Wickelmöglichkeiten auf bezirklichen Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Zukunft jetzt: Holen wir uns den "Zukunftstag" an die Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Kostenlose Mieterberatung evaluieren und bedarfsgerecht ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: König Fußball: Für eine Bolzplatz-Offensive in Treptow-Köpenick (I) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: König Fußball: Für eine Bolzplatz-Offensive in Treptow-Köpenick (II) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: König Fußball: Kunstrasen für Treptow-Köpenick - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.18: Keine Windkraftanlagen in den Wäldern von Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.19: Köpenick besser an den Flughafen anbinden – Buslinie 164 bis zum BER-Terminal verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Parkplatznot im Bezirk effektiv bekämpfen – Mehr Stellplätze bei Neubauvorhaben einfordern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Bewegungs- und Sportangebote online leichter zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Anhebung der Wassertemperatur in den Schwimmhallen Treptow-Köpenicks auf 28°C - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.24: Stark in Europa: Teilnahme am Netzwerk "Europa fängt in der Gemeinde an" - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Beteiligung am Aktionstag "Kollege Hund" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.26: Evaluation der neuen Verwaltungshomepages - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Berliner Bezirke an den Erlösen der Stromproduktion von Windenergieanlagen beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Zusagen einhalten – Hauptstadtzulage auch für freie Träger - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Snack it: SnackBox für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Errichtung von Urnenwandgrabstätten in Form von Urnenstelen in der Abt. B V auf dem landeseigenen Friedhof Grünau, Rabindranath-Tagore-Str. 18-20 – 12527 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Einwohnerantrag "Mobilitäts- und Infrastrukturkonzept für ein lebenswertes Plänterwald unter Beteiligung der Anwohner /-innen" - überwiesen
+- TOP 12.2: Neubau einer Mehrzweckhalle mit Sporthalle an der Schule am Berg - überwiesen
+- TOP 12.3: Outdoorspielplätze finanzieren - überwiesen
+- TOP 12.4: Bürokratieabbau fördern und belohnen - überwiesen
+- TOP 12.5: Tempobeschränkung 30 km/h auf dem Adlergestell aufheben - überwiesen
+- TOP 12.6: Zügige Unterschutzstellung der Wuhlheide einleiten - überwiesen
+- TOP 12.7: Sauberer Bezirk: Null Abfall in Treptow-Köpenick (Zero-Waste-Konzept) - überwiesen
+- TOP 12.8: Schulwegsicherheit in der Chaukenstraße und Verkehrssicherheit am Spielplatz Lugierring - überwiesen
+- TOP 12.9: Reinigung von Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: KiTa-Stärkung durch mehr Personal - überwiesen
+- TOP 12.11: Nahversorgung in Bohnsdorf sichern – Ziele des B-Planverfahrens 9-79 anpassen - überwiesen
+- TOP 12.12: Keine Bebauung der Trabrennbahn Karlshorst - überwiesen
+- TOP 12.13: Zusatzschild zur "Lauffener Straße" in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Tempolimit für die Tram in der Karl-Ziegler-Straße und der Hermann-Dorner-Allee - überwiesen
+- TOP 12.15: Ausführungsvorschrift "Benennung" ernst nehmen – Geschlechterparität herstellen - überwiesen
+- TOP 12.16: Umbenennung der Igo-Etrich-Straße in Ilse-Essers-Straße - überwiesen
+- TOP 12.17: Sicherer zur Schule - Dialog-Display in der Siriusstraße - überwiesen
+- TOP 12.18: Würdiges Gedenken an Ort des Grauens: "Durchgangslager Ost" zum Gedenk- und außerschulischen Lernort entwickeln - überwiesen
+- TOP 12.19: Wickeltische in den Verwaltungsgebäuden mit Publikumsverkehr - überwiesen
+- TOP 12.20: Städtepartnerschaft mit Kommune in Tansania - überwiesen
+- TOP 12.21: Lichtzeichenanlage Siriusstraße Ecke Schönefelder Chaussee - überwiesen
+- TOP 12.22: Vielfalt Treptow-Köpenicks auf Fußgängerampeln - überwiesen
+- TOP 12.23: Europa im Blick: Projekt "PolenMobil" in den Schulen - überwiesen
+- TOP 12.24: Öffentliche Toiletten für den Spielplatz am Kaisersteg - überwiesen
+- TOP 12.25: Update für die BVG-Auslastungsinfo (Beta) - überwiesen
+- TOP 12.26: Inklusive Rollstuhlballsportarten für Menschen mit und ohne Handicap im Bezirk anbieten - überwiesen
+- TOP 12.27: "Der Mensch dahinter" – für mehr Respekt gegenüber Einsatzkräften - überwiesen
+- TOP 12.28: Voll abgespaced! INTENSE Universe an die Schulen - überwiesen
+- TOP 13: Große Anfragen - (offen)
