@@ -1,0 +1,80 @@
+# 61. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-04-18T16:00:00+02:00
+- Ende: 2024-04-18T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13703
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13703
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00749400.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtrats und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 3: Bericht des Oberbürgermeisters - erledigt
+- TOP 4: Fragestunde der Mitglieder des Stadtrates - 1 Runde - erledigt
+- TOP 4.1: Würdiges Gedenken an Marwa El-Sherbini endlich umsetzen
+- TOP 4.2: Parkplätze am Krankenhaus Friedrichstadt
+- TOP 4.3: Öffnungszeiten der Dresdner Freibäder 2024
+- TOP 4.4: Verkehrsversuche in der Landeshauptstadt Dresden
+- TOP 4.5: Aufrechterhaltung des Angebots der HSKD
+- TOP 4.6: Umsetzung des Schwarzdeckenprogramms
+- TOP 4.7: Erneuerung Fahrgastunterstände
+- TOP 4.8: Verkehrsversuch am Blauen Wunder
+- TOP 5: Aktuelle Stunde zum Thema „Integration fördern und fordern“ - erledigt
+- TOP 6: Widerspruch aus der Sitzung vom 21./22.03.2024 - erledigt
+- TOP 6.1: Dresden als Modellregion: Bezahlkarte statt Bargeld, Sachleistungsprinzip für Asylbewerber konsequent umsetzen - Keine Zuständigkeit
+- TOP 7: Bestimmung der Ausschussgröße gemäß § 10 Absatz 2 d Hauptsatzung - Verweisung
+- TOP 8: Umbesetzungen Ausschüsse - erledigt
+- TOP 8.1: Umbesetzung Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - erledigt
+- TOP 8.2: Umbesetzung Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - erledigt
+- TOP 8.3: Umbesetzung Ausschuss für Finanzen - erledigt
+- TOP 8.4: Umbesetzung Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden) - erledigt
+- TOP 8.5: Umbesetzung Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - erledigt
+- TOP 8.6: Umbesetzung Ausschuss für Petitionen und Bürgerbeteiligung - erledigt
+- TOP 8.7: Umbesetzung Ausschuss für Soziales und Wohnen - erledigt
+- TOP 8.8: Umbesetzung Ausschuss für Sport (Eigenbetrieb Sportstätten) - erledigt
+- TOP 8.9: Umbesetzung Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - erledigt
+- TOP 8.10: Umbesetzung Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - erledigt
+- TOP 8.11: Umbesetzung Ausschuss für Wirtschaftsförderung - erledigt
+- TOP 9: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 10: Übernahme Ausfallbürgschaft zugunsten der Stadtentwässerung Dresden GmbH - Zustimmung
+- TOP 11: Beförderung von Kultur- und Nachbarschaftszentren in Dresden - vierter Umsetzungsschritt - Zustimmung
+- TOP 12: Vertagungen aus der Sitzung 21./22.03.2024 - erledigt
+- TOP 12.1: Zugänglichkeit und Ausweitung des Dresden-Passes - Zustimmung mit Änderung
+- TOP 12.2: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 12.3: Fuß- und Radwegbeleuchtung am Dresdner Elbradweg verbessern bzw. schaffen - Zustimmung mit Änderung
+- TOP 12.4: Datenschutzwidrige Nutzung städtischer Facebook-Auftritte beenden - erledigt
+- TOP 12.5: Für eine saubere Stadt! Graffiti-Schmierereien beseitigen - Vertagung nach 22 Uhr
+- TOP 12.6: Gefährdung für Beschäftigte der Landeshauptstadt Dresden neu bewerten - Vertagung durch Einreicher
+- TOP 12.7: Neue Multifunktionsarena für Spitzensport und Spitzenveranstaltungen - Margon Arena für Breitensport sanieren - Vertagung nach 22 Uhr
+- TOP 12.8: Einbürgerungsverfahren verbessern und beschleunigen - Vertagung nach 22 Uhr
+- TOP 12.9: Satzung über den Klimabeirat der Landeshauptstadt Dresden (Klimabeiratssatzung) - Zustimmung mit Änderung
+- TOP 12.10: Fortschreibung Bäderkonzept 2025/2030 - Vertagung nach 22 Uhr
+- TOP 12.11: Dresdner Straßen- und Stadtteilfeste erhalten - Vertagung nach 22 Uhr
+- TOP 12.12: Vonovia-Erwerb für kleingenossenschaftliche Mietmodelle nutzen! - Vertagung nach 22 Uhr
+- TOP 12.13: Für ein schönes Bahnhofsumfeld – Vorplatz Hauptbahnhof Ost neu gestalten - Vertagung nach 22 Uhr
+- TOP 12.14: Zustand der Dresdner Brücken - Vertagung nach 22 Uhr
+- TOP 12.15: Fortführung der Planung des Promenadenrings zwischen Dr.-Külz-Ring, Rathausplatz und Kreuzstraße (Promenadenring Süd-Ost) sowie zwischen Pirnaischem Platz, Akademiestraße und Elbe (Promenadenring Nord-Ost) - Vertagung nach 22 Uhr
+- TOP 12.16: Fahrradflundern für Dresden – unkomplizierte Bedarfsermittlung für Fahrrad-Stellplätze - Vertagung nach 22 Uhr
+- TOP 12.17: Begrünung verstetigen und Aufenthaltsqualität vor dem Kulturpalast verbessern - Vertagung nach 22 Uhr
+- TOP 12.18: Ja zu den Filmnächten am Elbufer - Vertagung
+- TOP 12.19: Entwicklung der Schulbibliotheken fortsetzen - Vertagung nach 22 Uhr
+- TOP 13: Satzung der Landeshauptstadt Dresden für den Integrations- und Ausländerbeirat - Vertagung nach 22 Uhr
+- TOP 14: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen im Wirtschaftsjahr 2023 durch Übertragung der Liegenschaft und Gebäude Jakob-Weinheimer-Straße 16 in 01465 Dresden an die Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 15: Vorschlag zur Straßenbenennung einer neuen öffentlichen Verkehrsfläche zwischen Käthe-Kollwitz-Ufer und Florian-Geyer-Straße - Vertagung nach 22 Uhr
+- TOP 16: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 17: Freiflächen und nichtkommerzielle Open Air Veranstaltungen für Dresden - Vertagung nach 22 Uhr
+- TOP 18: Kulturentwicklungsplan 2020 umsetzen – Atelierräume für Künstlerinnen und Künstler in Dresden sichern - Vertagung nach 22 Uhr
+- TOP 19: Revitalisierung kommunaler Liegenschaften befördern – Kreislaufwirtschaft Materialkreisläufe für Kulturbetriebe und Veranstalter unterstützen - Vertagung durch Einreicher
+- TOP 20: Pilotprojekt zur Anpassung an verändernde klimatische Bedingungen im Stadtteil Pieschen - Vertagung nach 22 Uhr
+- TOP 21: Entkriminalisierung des Fahrens ohne Fahrschein bei den Dresdner Verkehrsbetrieben - Vertagung nach 22 Uhr
+- TOP 22: Insourcing der Speisenversorgung am Städtischen Klinikum Dresden - Vertagung nach 22 Uhr
+- TOP 23: Abmietung des Objektes Hermann-Mende-Straße 1 - Vertagung nach 22 Uhr
+- TOP 24: Für Naherholung, Lebensqualität und Gesundheit: Erlebnisbad Elbamare erhalten. - Vertagung durch Einreicher
+- TOP 25: Sozialen Wohnungsbau in Dresden in Schwung bringen und Erwerb von Vonovia-Grundstücken für gemeinwohlorientierte Wohnformen nutzen! - Vertagung nach 22 Uhr
+- TOP 27: Übertragung der investiven Budgetreste vom Haushaltsjahr 2023 nach 2024 - erledigt
