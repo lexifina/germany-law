@@ -1,0 +1,15 @@
+# Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ernennung und Entlassung von Beamtinnen und Beamten](0001.md)
+- [§ 2 Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesbeamtengesetz](0002.md)
+- [§ 3 Übertragung von Zuständigkeiten nach der Bundeslaufbahnverordnung](0003.md)
+- [§ 4 Übertragung von Zuständigkeiten nach dem Bundesbesoldungsgesetz](0004.md)
+- [§ 5 Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz](0005.md)
+- [§ 6 Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesdisziplinargesetz](0006.md)
+- [§ 7 Zuständigkeit bei Funktionsübertragungen](0007.md)
+- [§ 8 Übertragung von Zuständigkeiten nach der Arbeitszeitverordnung](0008.md)
+- [§ 9 Übertragung von Befugnissen und Zuständigkeiten auf dem Gebiet des Haushalts-, Kassen- und Rechnungswesens](0009.md)
+- [§ 10 Übertragung von Zuständigkeiten nach anderen Vorschriften](0010.md)
+- [§ 11 Vorbehaltsklausel](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
