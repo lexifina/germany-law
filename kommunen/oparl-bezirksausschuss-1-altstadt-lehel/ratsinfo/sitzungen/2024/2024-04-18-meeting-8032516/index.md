@@ -1,0 +1,115 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2024-04-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8032516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8032516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Bekanntgabe der neuen Fraktion "SPD/ÖDP", Benennung Fraktionssprecher*in und Vertretungsregelung
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Urbaner Waldgarten
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Tal 22 Sanierung Aus- und Umbau (v.a. Abbruch und Ersetzung Dachstuhl Mitte, Einbau Aufzug, Umbau Eingangsbereich) nebst Nutzungsänderung (Wohnen in Gewerbe / Büro in OG 1 bis 3) und Einbau einer neuen WE im OG 5; Frist: 22.04.2024
+- TOP 3.1.2.: Rosental 16 Generalsanierung und Umbau des Münchner Stadtmuseums (Rosental 16 / St.-Jakobs-Pl. 1); Frist: 22.04.2024
+- TOP 3.1.3.: Hotterstr. 12 Umbau und Nutzungsänderung einer ehem. Turbinenhalle der SWM zu einem Museum für Urban and Contemporary Art, Büro- und Lagerflächen sowie ein Museumscafé inkl. Restaurant befristet auf weitere 5 Jahre - ÄNDERUNGSANTRAG zu 1.1-2018-28216-21; Frist: 26.04.2024
+- TOP 3.1.4.: Platzl 4a Errichtung einer Freischankfläche (45,17 m² / 30 Sitzpl.); Frist: 26.04.2024
+- TOP 3.1.5.: Blumenstr. 4 Nutzungsänderung einer Verkaufsfläche zu Café und Restaurant sowie Erweiterung eines Wirtsgartens; Frist: 22.04.2024
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Radschnellverbindung Münchner Norden / Altstadtradlring: Abschnitt Brienner Straße, Odeonsplatz, Ludwigstraße Vorstellung durch das Mobilitätsreferat, TOP 2024.02 A 6
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag der Freie Wähler/FDP Fraktion: Reinigung Viktualienmarkt
+- TOP 1.2.: Antrag der Freie Wähler/FDP Fraktion: Absage an die Lockerung der Sperrbezirksregelung
+- TOP 1.3.: Bürger*innenanliegen Fahrradstellplätze Unterer Anger 3 und 15
+- TOP 1.4.: Bürger*innenanliegen Lärm/Tempo 30 in der Steinsdorfstraße, TOP 2024.03 D 3.3
+- TOP 1.5.: Bürger*innenanliegen Bepflanzung der 4 Steintröge Ecke Kanalstraße Ecke Thomas-Wimmer-Ring
+- TOP 1.6.: Bürger*innenanliegen Tauben füttern verboten
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Fahrradstellplätze Angertorstraße
+- TOP 2.2.: (E) Videoüberwachung zum Schutz vor Lärmexzessen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Infos zur Sommerstraße 2024 im BA 01; Sommerstraße 2025
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Herrnstraße Medienprojekt über die Demokratieprojekte an der Herrnschule vom 13. -17.05.2024 960,00€; Az. 0262.0-1-0367
+- TOP 2.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Herrnstraße Kunst Projekt in der Projektwoche 75 Jahre Grundgesetz/ Demokratie vom 13. -17.05.2024 1.650,00€; Az. 0262.0-1-0366
+- TOP 2.1.3.: (E) Stadtbezirksbudget Bellevue di Monaco eG Straßenfest vom Bellevue di Monaco und Bürgerhaus Glockenbachwerkstatt vom 12.05. -09.06.2024 1.725,00€; Az. 0262.0-1-0365
+- TOP 2.1.4.: (E) Stadtbezirksbudget Hofspielhaus gGmbH Theater für Alle ohne Eintritt am Kosttor und in der Falkenturmstraße vor dem Hofspielhaus vom 04. -25.07.2024 4.980,00€; Az. 0262.0-1-0368
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Gaststätte "Starbucks", Antrag FSF Sendlinger Str. 37, Frist: 19.04.2024
+- TOP 2.2.2.: Gaststätte „Indian Mango“, Zweibrückenstr. 15, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.3.: Gaststätte „EmMy“, Zweibrückenstr. 15, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.4.: Schank- und Speisewirtschaft „Gelateria Garda“, Zweibrückenstr. 17, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.5.: Schank- und Speisewirtschaft „Jin“, Kanalstr. 14, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.6.: Gaststätte „Stadtcafe“, St.Jakobs-Platz 1, Temporäre Verlegung der Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Theaterprojekt „Novoflot“ im Rahmen der Münchner Biennale vom 05.06.-09.06.2024 (Termin: 15.05.2024)
+- TOP 3.2.: Münchner Brauertag am 15.06.2024 (Termin: 24.05.2024)
+- TOP 3.3.: DGB-Veranstaltungen (Kultur- u. Familienfest sowie open air Jugendfest) am 01.05.2024 auf dem Marienplatz mit Rosenstr., Kaufingerstr. u. Prunkhof (Termin: 12.04.2024)
+- TOP 3.4.: 75 Jahre Grundgesetz Walk of Democracy Marienplatz, Rindermarkt Sendlingerstr. 14. und 15.05.24 (Termin: 25.04.2024)
+- TOP 3.5.: Stadtgeburtstag am 08.-09.06.2024 in der Innenstadt rund um den Marienplatz (Termin: 13.05.2024)
+- TOP 3.6.: Videomapping Rathaus 75 Jahre Grundgesetz Marienplatz, 15.-17.05.2024 (Termin: 25.04.2024)
+- TOP 3.7.: InfoVA Sanitätsdienst Bundeswehr am Karlsplatz am 07.05.2024 (Termin: 26.04.2024)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Bürger*innenanliegen Kommunikation mit Bürgern, die Anträge stellen; Kommunikation mit Anwohnern/Anliegern, Antwortschreiben Direktorium
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Entwicklung des Bunkers an der Blumenstraße 22
+- TOP B 4.4.: Keine neuen Bürohäuser
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürgerinitiative Tal, Antrag auf Auskunft zum Planungsstand und Grundlage der Berechnung der Anwohnerplätze nach Wegfall Blauer Zone TOP 23.12 A 3, Antwortschreiben Mobilitätsreferat
+- TOP C 4.3.: Bürger*innenanliegen Wasserspender entlang der Laufstrecke an der Isar, Antwortschreiben Baureferat
+- TOP C 4.4.: Neuordnung der Verkehrssituation am Radspielerbrunnen - Hackenstraße/Ecke Brunnstraße
+- TOP C 4.5.: Bürger*innenanliegen Beschwerde Filmcasino, Antwortschreiben Lokalbaukommission
+- TOP C 4.6.: Bürger*innenanliegen Beschwerde Filmcasino, Antwortschreiben Referat für Klima- und Umwelt
+- TOP C 4.7.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen: Temporärer Spielplatz St. Lukas Kirche, TOP 2024.03 B 1.2
+- TOP 1.1.: Antrag der Freie Wähler/FDP Fraktion: Absage an die Lockerung der Sperrbezirksregelung
+- TOP C 4.8.: Bürger*innenanliegen Beschwerde Filmcasino, Antwortschreiben Sozialreferat
+- TOP 3.8.: Bennofest Frauenplatz etc. am 08. und 09.06.2024 (Termin: 15.05.2024)
+- TOP 3.9.: Widenmayerstr. (Isarpromenade, Bez.1) - Bücherflohmarkt am 08.06.2024 (Ersatz: 15.06.2024) (Termin: 24.05.2024)
+- TOP 3.10.: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 30.05.2024 (Termin: 08.05.2024)
+- TOP 2.3.1.: Abhalten eines Flohmarktes am 08.06.2024 (Ersatztermin: 15.06.2024) auf der Isarpromenade entlang der Widenmayerstr. (zwischen Maximilianstr. Und Liebigstraße bis zur Praterinsel)
+- TOP 3.1.1.: Anhörung Verstetigung verkehrsberuhigter Bereich Am Kosttor; Frist: 24.04.2024
+- TOP A 7.2.: Eilentscheid Europawahl 2024: Wahlbezirke und Wahlräume im Stadtbezirk 1
+- TOP D 4.5.: Eilentscheid Installation „Coming Home Soon“ am 12.04.2024
+- TOP D 4.6.: Eilentscheid Anhörung Kulturstrand "Satellit" am Maximiliansplatz / Grünfläche hinter dem Wittelsbacherbrunnen ab 01.05.24 -09.09.24
