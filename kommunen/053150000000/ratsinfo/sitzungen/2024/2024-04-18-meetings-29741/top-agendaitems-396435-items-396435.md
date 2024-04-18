@@ -1,0 +1,8 @@
+# TOP -: Beantwortung der Anfrage betreffend "Sicherstellung Geschäftsbetrieb Großmarkt während Abrissarbeiten"
+
+- Sitzung: 23. Sitzung des Wirtschaftsausschusses (2024-04-18)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/396435
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/177529
