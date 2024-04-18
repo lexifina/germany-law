@@ -40,7 +40,10 @@ Nr. | Kostentatbestand | Kostensatz in Euro |
 800.04 | Nutzung eines Bergungsfasses | bis 30 Tage je begonnenem Tag | 10,00
  |  | Jede weitere begonnene Woche | 100,00
 800.05 | Nutzung eines Begasungsplatzes für einen Container für einen Zeitraum von bis zu 3 Tagen | 20,00 | 
-800.06 | Bearbeitung und Erstellung einer Zuverlässigkeitsbescheinigung nach § 16 Bremisches Hafensicherheitsgesetz | 45,00 | 
+800.06 | Bearbeitung einer Zuverlässigkeitsbescheinigung nach § 16 Bremisches Hafensicherheitsgesetz |  | 
+ | Erstellung eines positiven Bescheides |  | 90,00
+ | Erstellung eines negativen Bescheides |  | 111,00
+ | Kosten bei Zurückziehung des Antrags |  | 59,00
 811 | Bezeichnung der Fischereifahrzeuge |  | 
 811.00 | Eintragungsscheine nach der Verordnung betreffend die Eintragung und Bezeichnung der zur Fischerei in der Nordsee außerhalb der Küstengewässer bestimmten Fahrzeuge vom 1. Juni 1884 (SaBremR 9510-a-1) | 34,50 | 
 82 | Schifffahrt - Binnenschifffahrt |  | 
