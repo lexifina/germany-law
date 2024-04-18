@@ -1,0 +1,8 @@
+# TOP 8: Freiwilliger städtischer Zuschuss zu den gesetzlichen Trägeranteilen von öffentlich-geförderten Kindertageseinrichtungen in Münster
+
+- Sitzung: Sitzung (2024-04-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/254201
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/85843
