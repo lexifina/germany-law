@@ -1,0 +1,162 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2024-04-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7843586
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7843586
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung am 21.03.2024
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund: Abhalten eines Flohmarktes am 04.05.2024 (Ersatztermin: 11.05.2024) auf dem Willy-Brandt-Platz (südl. des Brunnens)
+- TOP 2.1.2.: (E) Stadtbezirksbudget Erfindergardengarden Foundation gUG Lastenfahrrad Trudering-Riem vom 04.03. -31.12.2024 6.000,00€; Az. 0262.0-15-0534
+- TOP 2.1.3.: (E) Stadtbezirksbudget TSV Maccabi München e.V. Sportfest am 05.05.2024 4.105,00€; Az. 0262.0-15-0539
+- TOP 2.1.4.: (E) Stadtbezirksbudget Freundeskreis des Sonderpädagogischen Förderzentrums München-Ost „Druck der Schülerzeitung „Eastsider“ Juni 2024 1.188,50 € / AZ: 0262.0-15-0546
+- TOP 2.1.5.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 5. Interkulturelles Tanz- und Musikfest am 24.11.2024 3.300,00 Euro / Az. 0262.0-15-0538
+- TOP 2.1.6.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Astrid-Lindgren Straße 11 Zaubershow Grundschule Astrid-Lindgren Straße 11 am 30.04.2024 803,25€; Az. 0262.0-15-0540
+- TOP 2.1.7.: (E) Stadtbezirksbudget Echo e.V. PKW-Hänger zur Verstetigung des Sitzsackprojekts in der Messestadt Riem (AKIM) ab 04.05.2024 5.659,49 Euro / Az. 0262.0-15-0545
+- TOP 2.1.8.: (E) Stadtbezirksbudget SOS-Kinderdorf e.V. Kinder- und Familientreff Messestadt Ost Interkulturelles Maifest am 15.05.2024 1.230,31€; Az. 0262.0-15-0542
+- TOP 2.1.9.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. 150-Jahr-Feier mit historischen Abend am 03.05. und 05.05.2024 2.102,50€; Az. 0262.0-15-0544
+- TOP 2.1.10.: (E) Stadtbezirksbudget TSV Trudering e.V. Beschaffung Fahnenband und Erinnerungsband für 100-Jahr-Feier TSV Trudering e.V. vom 01.06. -31.12.2024 983,10€; Az. 0262.0-15-0543
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.2.1.: (E) + (U) Einrichtung eines Fußgängerüberwegs mit Lichtsignal (Bedarfsampel) Heinrich- Wieland-Straße Kreuzung Zehntfeldstraße
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.5.1.: (E) Jugendfreizeitstätte in der Messestadt Einrichtung einer Jugendfreizeitstätte in der Messestadt Empfehlung Nr. 20-26 / E 01760 ................................
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Gorch-Fock-Straße: Einrichtung eines Parkverbots gegenüber Haus-Nr. 18
+- TOP 3.2.2.: Solalindenstraße: Einrichtung eines einseitigen Parkverbots
+- TOP 3.2.3.: Heilwigstraße: Einrichtung eines einseitigen Haltverbots zwischen Marthastraße und Friedenspromenade
+- TOP 3.2.4.: Sulzweg / Kästlenstraße: Einrichtung eines einseitigen Haltverbots
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Erhalt des Klinikums Neuperlach als zweiter Maximalversorger
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.6.1.: Maria-Montessori-Straße / Mutter-Teresa-Straße: Beschädigung des Grünstreifens
+- TOP 3.6.2.: Sofortigen Stopp der Ausgabe von Green-City-Pflanzen an neue Grünpaten
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobiltät
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.5.1.: Freikarten für Konzerte auf dem Messegelände nach sozialen und transparenten Kriterien verteilen
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Für eine aktive und sichere Parkmeile – Grünzug in Trudering weiterentwickeln Teil 1: Aufwertung des Platzes vor dem Truderinger Gymnasium und Aktivitätenband entlang der Friedenspromenade ausbauen
+- TOP 4.7.2.: Für mehr Badefreude - Schwimmende Badeinsel auf dem Riemer See
+- TOP 4.7.3.: Bodenhülsen für Sonnenschirme am Riemer See
+- TOP 4.7.4.: Pfad zwischen Haffstraße und Horst-Salzmann-Weg dauerhaft herrichten
+- TOP 4.7.5.: Projekt „Ottobahn“ für eine Verbindung zwischen den neuen Wohngebieten am Rappenweg, dem 5. Bauabschnitt, mit Anschluss der Riem ARCADEN und der Messe München
+- TOP 4.7.6.: KFZ-Verkehr in Grünstreifen
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Friedenspromenade: 2-Richtungs-Fuß-Radweg an hohe Nutzungsfrequenz anpassen
+- TOP 5.2.2.: Beschlussempfehlungen zur Ertüchtigung des Radwegs entlang der Friedenspromenade zwischen WaBuLa und Gymnasium vs. Aufhebung der Radbenutzungspflicht
+- TOP 5.2.3.: Erinnerungs-Antrag: Truderinger-Riemer Fahrradoffensive Teil 2 – Zweirichtungs-Fuß-Radweg an der Friedenspromenade den Bedürfnissen der hohen Nutzungsfrequenz anpassen
+- TOP 5.2.4.: Abstellmöglichkeiten für E-Roller
+- TOP 5.2.5.: Helsinkistraße: Gefährliches Verkehrsaufkommen an der Grundschule
+- TOP 5.2.6.: Zur Verkehrswende gehört auch der Anschluss der Stadtrandgebiete!
+- TOP 5.2.7.: So kann die Verkehrswende nicht gelingen
+- TOP 5.2.8.: Leistungsfähigkeit der Kreuzung Wasserburger Land- / Schwablhofstraße / Friedenspromenade mit einfachen Mitteln erhöhen
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.3.1.: Tangastraße / Waterbergstraße: Aufstellung eines zusätzlichen Weißglascontainers
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Antrag zum Bauvorhaben Wasserburger Landstraße 7-11: Neubau einer Wohnanlage mit Gewerbeeinheit und Tiefgarage
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: SC Arcadia: Aufrechterhaltung des Trainings- und Spielbetriebs
+- TOP 5.5.2.: Finanzierung von Kursen für Schulen zur Digitalen Bildung
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Fernwärmeversorgung Trudering-Riem ausbauen: Anträge Nr. B03523, B03595 und B04761
+- TOP 5.6.2.: Bürgerliche Stadtbegrünung durch Grünpatenschaften
+- TOP 5.6.3.: Belange der Wasserwacht am Riemer See nicht länger auf die lange Bank schieben
+- TOP 5.6.4.: Vogel- und Artenschutz in Neubaugebieten des Stadtbezirk 15
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028
+- TOP 7.1.2.: Veranstaltung in städtischen Grünanlagen: div. Kunst- und Medienbus-Veranstaltungen des Quax im Riemer Park Höhe Ruth-Beutler-Str. am orangenen Würfel
+- TOP 7.1.3.: Veranstaltung in div. städtischen Grünanlagen: Fit im Park der LHM ab 01.05.2024 bis 30.09.2024 im Riemer Park
+- TOP 7.1.4.: Veranstaltung im Freien und geschl. Räumen auf Privatgrund und in einer städt. Grünanlage: „Tag der offenen Tür mit Sommerfest“ der Freiwilligen Feuerwehr Michaeliburg in Feuerwehr-Gerätehaus am 29.06.2024
+- TOP 7.1.5.: Veranstaltung in städtischen Grünanlagen: Vaudeville- das Zirkus- und Varietefestival im Kopfbau vom 03.05. bis 12.05.2024
+- TOP 7.1.6.: Veranstaltung im Freien in einer städtischen Grünanlage: 15. Truderinger Sonnenwendfeuer am Truderinger Festplatz am 22.06.2024 (Ersatztermin: 23.06.2024)
+- TOP 7.1.7.: Veranstaltungen in städtischen Grünanlagen und auf öffentlichem Verkehrsgrund: Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2024 von Mai bis Oktober 2024
+- TOP 7.1.8.: Veranstaltung auf öffentlichem Verkehrsgrund und in einer städtischen Grünanlage: Gesundheitstag in der Messestadt auf dem Platz der Menschenrechte und im Riemer Park (Höhe Stockholmstr.) am 21.06.2024
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: MVG-Leistungsprogramm 2025: Anhörung der Bezirksausschüsse
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Masterplanungen in den Münchner Parkmeilen – Erste Ergebnisse für Feldmochinger Anger und Trudering-Neuperlach sowie Fortsetzung der Planungen und Maßnahmen
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Otto-Lederer-Weg 50 - Neubau von 4 Reihenhäusern mit 4 Stellplätzen
+- TOP 7.4.2.: Gerstäckerstr. 22 - Neubau Einfamilienhaus mit Tiefgarage - VORBESCHEID
+- TOP 7.4.3.: Stahlgruberring - Errichtung eines Gebäudekomplexes mit Büronutzung, Gewerbefläche und Tiefgarage - VORBESCHEID
+- TOP 7.4.4.: Hochkönigstr. 4 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 7.4.5.: Dachsteinstr. 20 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.6.: Matterhornstr. 26 - Neubau eines Dreispänners und zweier Doppelhäuser mit drei Garagen und vier Carports
+- TOP 7.4.7.: Graf-Lehndorff-Str. - Erweiterung einer staatlichen Berufsschule München-Land in Riem mit Wohngebäude - VORBESCHEID
+- TOP 7.4.8.: Iltisstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.9.: Wasserburger Landstr. 7 - Neubau Wohnanlage mit Gewerbeeinheit und Tiefgarage-VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Masterplanungen in den Münchner Parkmeilen – Erste Ergebnisse für Feldmochinger Anger und Trudering-Neuperlach sowie Fortsetzung der Planungen und Maßnahmen
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Am Eulenhorst 67a Birkhahnweg 50a Dachsteinstr. 20 Emil-Nolde-Str. 17 Gerstäckerstr. 22 Gerstäckerstr. 26 Graf-Lehndorff-Str. Hans-Pfann-Str. 154 Lachenmeyrstr. 16 Lohnrößlerweg 26 Lohnrößlerweg 30 Martin-Empl-Ring 14 Matterhornstr. 26 Mattseestr. 10 Max-Beckmann-Str. 39 Otto-Lederer-Weg 50 Samlandstr. 11 Sansibarstr. 7 Spieljochstr. 8 St.-Augustinus-Str. 52 Tsingtauer Str. 98 Wasserburger Landstr. 7 Wiesbachhornstr. 41 Zehntfeldstr. 195
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Veranstaltung im Freien in einer städtischen Grünanlage: Truderinger Festwoche im Zeitraum vom 03.05.-12.05.24 auf dem Truderinger Festplatz Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Beschädigung der orangen Zonta-Bank in der Messestadt
+- TOP 9.2.2.: Bericht über die Veranstaltung zur kommunalen Wärmeplanung am 11.04.2024
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Kurzbericht über die bezuschussten POP UPS – mobile Kunst – Spiel – Aktionen 2023
+- TOP 10.1.3.: Europawahl am 09.06.2024: Einteilung der Wahlbezirke und Wahlräume
+- TOP 10.1.4.: Max-Rothschild-Straße: Unveränderte Fortführung eines Gaststättenbetriebes
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Florastraße / Kästlenstraße: Endgültige Bedarfs- und Konzeptgenehmigung für den Kreuzungsumbau
+- TOP 10.2.2.: Truderinger Ortskern: Verhinderung des Gehwegparkens
+- TOP 10.2.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Gerstäckerstraße b) Lehrer-Wirth-Straße
+- TOP 10.2.4.: Am Mitterfeld: Ergebnisse der TOPO-Box Messung vom 28.02. bis 05.03.2024
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Versorgung der Messestadt mit Postdiensten: Aktueller Sachstand
+- TOP 10.3.2.: Beteiligung der Öffentlichkeit zum Fünften Bauabschnitt Messestadt Riem: Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches (BauGB) vom 15. April mit 15. Mai 2024
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Bajuwarenstr. 98
+- TOP 10.4.2.: Keine neuen Bürohäuser
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: TSV Maccabi München e. V. Verlängerung des bestehenden Erbbaurechtsvertrags (FlSt. 1533/3, Gemarkung Trudering) gemäß den Konditionen der Sportförderrichtlinien der Landeshauptstadt München Stadtbezirk 15 - Trudering-Riem
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Suchkreismitteilung zu Mobilfunkanlagen: a) Truderinger Straße / Schatzbogen
+- TOP 10.6.2.: Bäume auf Tiefgaragen Zwischennachricht zu BA-Antrag Nr. 20-26 / B 05121
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: (N) BSA Feldbergstraße: Neugestaltung der Verkehrssituation (BA-Antrag Nr. 20-26 / B 06518) Durchführung eines Ortstermins
+- TOP 9.2.4.: (N) BSA Feldbergstraße: Neugestaltung der Verkehrssituation (BA-Antrag Nr. 20-26 / B 06518) Durchführung eines Ortstermins
+- TOP 1.3.1.: (N) "Vorwegnehmende" Bebauungsplanung für die WaBuLa
+- TOP 1.3.4.: (N) Sachstand der Planungen für den Weltkindertag / Weltspieletag
+- TOP 4.7.7.: (N) "Vorwegnehmende" Bebauungsplanung für die WaBuLa
+- TOP 9.2.5.: (N) Sachstand der Planungen für den Weltkindertag / Weltspieletag
