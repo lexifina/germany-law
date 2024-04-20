@@ -64,7 +64,7 @@
 - [Anlage 5 (zu § 7 Satz 1)Anforderungen an die Herstellung oder Behandlung von Lebensmitteln tierischen Ursprungs im Einzelhandel](anlage-5.md)
 - [Anlage 6 (zu § 9 Absatz 1 Satz 2 Nummer 1)](anlage-6.md)
 - [Anlage 7 (zu § 10 Absatz 2)Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nummer 1 in Verbindung mit Nummer 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen](anlage-7.md)
-- [Anlage 8 (zu § 12 Absatz 1)Muster](anlage-8.md)
+- [Anlage 8 (zu § 12)Muster](anlage-8.md)
 - [Anlage 8a (zu § 2b Absatz 2, § 4 Absatz 3 und § 4a)Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)](anlage-8a.md)
 - [Anlage 8b (zu § 13a)Gebiet, in dem abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt V Kapitel III Nummer 1 Satz 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 Hackfleisch aus nicht gekühltem Fleisch hergestellt und in den Verkehr gebracht werden darf](anlage-8b.md)
 - [Anlage 9 (zu § 17 Absatz 2 Satz 1 Nummer 1 und 2, § 18 Absatz 1 und 2 und § 21 Absatz 3 Nummer 4)Anforderungen an Vorzugsmilch](anlage-9.md)
