@@ -60,7 +60,8 @@
 |  |  | bis 31.8.2016 | 25 606 | 27 483 | 28 422 |  |
 |  |  | bis 31.12.2018 | 26 784 | 28 747 | 29 729 |  |
 |  |  | bis 31.8.2021 | 28 739 | 30 846 | 31 899 |  |
-|  |  | ab 1.9.2021 | 29 630 | 31 802 | 32 888 |  |
+|  |  | bis 30.11.2023 | 29 630 | 31 802 | 32 888 |  |
+|  |  | ab 1.12.2023 | 32 978 | 35 396 | 36 604 |  |
 |  |  |  |  |  |  |  |
 | 2. | Mittlerer Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -120,7 +121,8 @@
 |  |  | bis 31.8.2016 | 28 889 | 32 996 | 35 049 |  |
 |  |  | bis 31.12.2018 | 30 218 | 34 514 | 36 661 |  |
 |  |  | bis 31.8.2021 | 32 424 | 37 034 | 39 337 |  |
-|  |  | ab 1.9.2021 | 33 429 | 38 182 | 40 556 |  |
+|  |  | bis 30.11.2023 | 33 429 | 38 182 | 40 556 |  |
+|  |  | ab 1.12.2023 | 37 206 | 42 497 | 45 139 |  |
 |  |  |  |  |  |  |  |
 | 3. | Gehobener Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -180,7 +182,8 @@
 |  |  | bis 31.8.2016 | 35 139 | 40 371 | 42 991 |  |
 |  |  | bis 31.12.2018 | 36 755 | 42 228 | 44 969 |  |
 |  |  | bis 31.8.2021 | 39 438 | 45 311 | 48 252 |  |
-|  |  | ab 1.9.2021 | 40 661 | 46 716 | 49 748 |  |
+|  |  | bis 30.11.2023 | 40 661 | 46 716 | 49 748 |  |
+|  |  | ab 1.12.2023 | 45 256 | 51 995 | 55 370 |  |
 |  |  |  |  |  |  |  |
 | 4. | Höherer Dienst | Bis zum vollendeten 35. Lebensjahr DM | Bis zum vollendeten 45. Lebensjahr DM | Bis zum vollendeten 55. Lebensjahr DM | Ab vollendetem 55. Lebensjahr DM |
 |  | Erreichbare Dienstbezüge |  |  |  |  |
@@ -239,4 +242,6 @@
 |  |  | bis 31.8.2016 | 44 914 | 50 988 | 54 026 | 57 062 |
 |  |  | bis 31.12.2018 | 46 980 | 53 333 | 56 511 | 59 687 |
 |  |  | bis 31.8.2021 | 50 410 | 57 226 | 60 636 | 64 044 |
-|  |  | ab 1.9.2021 | 51 973 | 59 000 | 62 516 | 66 029 |
+|  |  | bis 30.11.2023 | 51 973 | 59 000 | 62 516 | 66 029 |
+|  |  |  | Bis zum vollendeten 35. Lebensjahr Euro | Bis zum vollendeten 45. Lebensjahr Euro | Ab vollendetem 45. Lebensjahr Euro |  |
+|  |  | ab 1.12.2023 | 57 846 | 65 667 | 69 580 |  |
