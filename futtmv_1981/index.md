@@ -15,7 +15,7 @@
 ### Unterabschnitt 2 Kennzeichnung und Inverkehrbringen
 
 - [§ 3 (weggefallen)](0003.md)
-- [§ 4 Kennzeichnung bestimmter Futtermittel](0004.md)
+- [§ 4 (weggefallen)](0004.md)
 - [§ 5 Kennzeichnung von Futtermitteln bei Fernabsatzverträgen](0005.md)
 - [§ 6 Angaben](0006.md)
 - [§ 7 Kennzeichnung](0007.md)
@@ -25,20 +25,17 @@
 - [§ 11 Verbotene Stoffe](0011.md)
 - [§ 12 Inverkehrbringensverbote](0012.md)
 
-### Unterabschnitt 3 Futtermittelzusatzstoffe
+### Unterabschnitt 3 Fütterung
 
-- [§ 13 Zugelassene Futtermittelzusatzstoffe](0013.md)
-
-### Unterabschnitt 4 Fütterung
-
+- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Fütterungsvorschriften](0014.md)
 - [§ 15 Ausnahmen vom Verfütterungsverbot](0015.md)
 
-### Unterabschnitt 5 Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+### Unterabschnitt 4 Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
 - [§ 16 Mitwirkung](0016.md)
 
-### Unterabschnitt 6 Anforderungen an Betriebe
+### Unterabschnitt 5 Anforderungen an Betriebe
 
 - [§ 17 Zulassungsbedürftige Betriebe](0017.md)
 - [§ 18 Zulassung](0018.md)
@@ -58,22 +55,16 @@
 - [§ 29 Untersuchung von Futtermitteln auf Pestizidrückstände](0029.md)
 - [§ 30 Aufbewahrung von Buchführungsunterlagen](0030.md)
 
-## Abschnitt 4 Verbringen in das und aus dem Inland
+## Abschnitt 4 (weggefallen)
 
-- [§ 31 Einfuhrverbote](0031.md)
-- [§ 32 Einfuhrregelungen für Guarkernmehl](0032.md)
-- [§ 33 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft](0033.md)
-- [§ 34 Ausnahmen von Verbringungsverboten](0034.md)
-- [§ 35 Eingangsstellen, Anmeldepflicht](0035.md)
-- [§ 36 Dokumentenprüfung, Nämlichkeitskontrolle, Warenuntersuchung](0036.md)
-- [§ 37 Bescheinigungen](0037.md)
+- [(XXXX) §§ 31 bis 37 (weggefallen)](xxxx-31-bis-37.md)
 
 ## Abschnitt 5 Straftaten und Ordnungswidrigkeiten
 
 
 ### Unterabschnitt 1 Straftaten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung
 
-- [§ 38 Straftaten](0038.md)
+- [§ 38 (weggefallen)](0038.md)
 
 ### Unterabschnitt 2 Straftaten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
 
@@ -88,12 +79,12 @@
 - [§ 40a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001](0040a.md)
 - [§ 41 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1831/2003](0041.md)
 - [§ 42 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 183/2005](0042.md)
-- [§ 43 Ordnungswidrigkeiten bei Zuwiderhandlungen gegen die Verordnung (EG) Nr. 669/2009](0043.md)
+- [§ 43 (weggefallen)](0043.md)
 - [§ 44 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 767/2009](0044.md)
-- [§ 45 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) Nr. 884/2014](0045.md)
-- [§ 46 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2015/175](0046.md)
+- [§ 45 (weggefallen)](0045.md)
+- [§ 46 (weggefallen)](0046.md)
 - [§ 46a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786](0046a.md)
-- [§ 47 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2016/6](0047.md)
+- [§ 47 (weggefallen)](0047.md)
 - [§ 47a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354](0047a.md)
 
 ## Abschnitt 6 Schlussbestimmungen
@@ -107,4 +98,4 @@
 - [Anlage 2 (zu § 6 Absatz 1)Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln](anlage-2.md)
 - [Anlage 3 (zu § 6 Absatz 2)Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren ersetzt](anlage-3.md)
 - [Anlage 4 (zu § 18 Absatz 2)Anforderungen und Pflichten für Betriebe gemäß § 17 Absatz 2](anlage-4.md)
-- [Anlage 5 (zu § 32 Absatz 1 und 2)Liste der nach Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2015/175 in Deutschland für Futtermittel benannten Eingangsorte](anlage-5.md)
+- [Anlage 5 (weggefallen)](anlage-5.md)
