@@ -48,7 +48,7 @@ Metallbearbeitung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstä
 10.1 Kaltes Umformen von Blechen aus Stahl und Nichteisenmetallen mit und ohne Vorrichtungen im Schraubstock durch freies Runden und Schwenkbiegen
 11. Fügen (Schraub-, Bolzen-, Stift- und Pressverbindungen)
 11.1 Prüfen von Bauteilen auf Oberflächenbeschaffenheit der Fügeflächen und Formtoleranz sowie Fixieren in montagegerechter Lage
-11.2 Verbinden und Sichern von Bauteile mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugdrehmomentes sowie der Werkstoffpaarung
+11.2 Verbinden und Sichern von Bauteilen mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugdrehmomentes sowie der Werkstoffpaarung
 Elektrofertigung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstätte
 1. Theoretische Grundlagen
 1.1 Beschreiben der fünf Sicherheitsregeln, der Gefahren des elektrischen Stromes und des Verhaltens bei Stromunfällen
@@ -76,7 +76,7 @@ Elektrofertigung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstät
 3.9 Lesen und Erstellen von Schaltplänen
 4. Grundkenntnisse der elektrischen Messtechnik
 4.1 Unterscheiden von Messgeräten
-4.2 Auswählen von Messgeräten nach Art, der zu messenden Größen
+4.2 Auswählen von Messgeräten nach Art der zu messenden Größen
 4.3 Aufbauen von Messschaltungen und Darstellen von Signalinformationen
 4.4 Unterscheiden, Klassifizieren und Berechnen von Messfehlern
 5. Bedienen, Programmieren und Anwenden von Rechnern und speicherprogrammierbaren Bausteinen

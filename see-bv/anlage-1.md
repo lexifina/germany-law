@@ -6,6 +6,7 @@ Für Befähigungszeugnisse und Befähigungsnachweise im nautischen Schiffsdienst
 |  | NEO | Erster Offizier |
 |  | NK | Kapitän |
 |  | NWO 500 | Nautischer Wachoffizier küstennahe Fahrt BRZ 500 |
+|  | NK 500 | Kapitän küstennahe Fahrt BRZ 500 |
 |  | NK 100 | Kapitän nationale Fahrt BRZ 100 |
 |  | NWB | Wachbefähigung Brücke |
 |  | NVM | Vollmatrose Deck |

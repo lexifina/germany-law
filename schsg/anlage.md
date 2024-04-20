@@ -168,6 +168,10 @@ I.2/1 Zu Kapitel II-1 der Anlage zu SOLAS (Bauart - Bauweise, Unterteilung und S
   Leistungsnormen für Wasserstandsmelder auf Massengutschiffen und sonstigen Frachtschiffen mit nur einem Laderaum (MSC.188(79))
   Angenommen am 3. Dezember 2004
   (VkBl. 2006 S. 520)
+  - Änderung von 2022
+    (MSC.188(79)/Rev.1)
+    Angenommen am 28. April 2022
+    (VkBl. 2022 S. 416)
 I.2/2 Zu Kapitel II-2 der Anlage zu SOLAS (Bauart der Schiffe - Brandschutz, Feueranzeige und Feuerlöschung):
   Zu Regel 3:
   a) Internationaler Code für die Anwendung von Brandprüfverfahren (FTP-Code 2010) (MSC.307(88))
@@ -290,7 +294,7 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
   Zu Regel 1-2:
   Internationaler Code für die Beförderung von Schüttgut über See (IMSBC-Code) (MSC.268(85))
   Angenommen am 4. Dezember 2008
-  (VkBl. 2009 S. 775, Anlagenband C 8145)
+  (VkBl. 2009 S. 775, Anlagenband C 8145, korrigiert durch VkBl. 2023 S. 432)
   - Änderung von 2011 (MSC.318(89))
     Angenommen am 20. Mai 2011
     (VkBl. 2011 S. 990), korrigiert durch Bekanntmachung vom 8. August 2012
@@ -311,6 +315,10 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
   - Änderung von 2019 (MSC.462(101))
     Angenommen am 13. Juni 2019
     (VkBl. 2020 S. 852)
+  - Änderung von 2022
+    (MSC.500(105))
+    Angenommen am 28. April 2022
+    (VkBl. 2023 S. 515)
   - Änderung von 2017 (MSC.426(98))
     Angenommen am 15. Juni 2017
     (VkBl. 2017 S. 1096)
@@ -391,6 +399,10 @@ I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
   - Änderung von 2020 (MSC.476(102))
     Angenommen am 11. November 2020
     (VkBl. 2022 S. 246)
+  - Änderung vom Oktober 2021
+    (MSC.492(104))
+    Angenommen am 8. Oktober 2021
+    (VkBl. 2024 S. 118)
   Zu Regel 14:
   Internationaler Code für die sichere Beförderung von verpackten bestrahlten Kernbrennstoffen, Plutonium und hochradioaktiven Abfällen mit Seeschiffen (INF-Code) (MSC.88(71))
   Angenommen am 27. Mai 1999
@@ -438,6 +450,10 @@ I.10 Zu Kapitel X der Anlage zu SOLAS (Sicherheitsmaßnahmen für Hochgeschwindi
     - Änderung von 2018 (MSC.438(99))
       Angenommen am 25. Mai 2018
       (VkBl. 2020 S. 21)
+    - Änderung von 2022
+      (MSC.498(105))
+      Angenommen am 28. April 2022
+      (VkBl. 2024 S. 28)
   b) - Für Schiffe, die am oder nach dem 1. Juli 2002 gebaut worden sind -
       Internationaler Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code 2000) (MSC.97(73))
       Angenommen am 5. Dezember 2000
@@ -460,6 +476,10 @@ I.10 Zu Kapitel X der Anlage zu SOLAS (Sicherheitsmaßnahmen für Hochgeschwindi
     - Änderung von 2018 (MSC.439(99))
       Angenommen am 24. Mai 2018
       (VkBl. 2020 S. 23)
+    - Änderung von 2022
+      (MSC.499(105))
+      Angenommen am 28. April 2022
+      (VkBl. 2024 S. 36)
 I.11/1 Zu Kapitel XI-1 der Anlage zu SOLAS (Besondere Maßnahmen zur Erhöhung der Sicherheit der Schifffahrt):
   Zu Regel 1:
   Code für anerkannte Organisationen (RO-Code) (Entschließung MSC.349(92))
@@ -520,6 +540,10 @@ I.12 Zu Kapitel XII der Anlage zu SOLAS (Zusätzliche Sicherheitsmaßnahmen für
   Leistungsnormen für Wasserstandsmelder auf Massengutschiffen und sonstigen Frachtschiffen mit nur einem Laderaum (MSC.188(79))
   Angenommen am 3. Dezember 2004
   (VkBl. 2006 S. 520)
+  - Änderung von 2022
+    (MSC.188(79)/Rev.1)
+    Angenommen am 28. April 2022
+    (VkBl. 2023 S. 416)
   Zu Regel 14:
   Normen und Kriterien für die Seitenverbände von Massengutschiffen in Einhüllenbauweise (MSC.168(79))
   Angenommen am 9. Dezember 2004
@@ -663,6 +687,10 @@ II.0.36 Änderungen vom November 2020
   (Entschließung MEPC.324(75))
   Angenommen am 20. November 2020
   (BGBl. 2022 II S. 155)
+II.0.37 Änderungen vom Juni 2021
+  (Entschließungen MEPC.328(76), MEPC.329(76), MEPC.330(76))
+  Angenommen am 17. Juni 2021
+  (BGBl. 2024 II Nr. 37)
 II.1 Zu Anlage I:
   Zu Regel 1:
   Festlegung des Datums, an dem die Änderungen von Regel 1 Absatz 11 der Anlage I von MARPOL hinsichtlich des Sondergebiets der Gewässer vor der Südküste Südafrikas in Kraft treten (Entschließung MEPC.167(56))
@@ -900,6 +928,10 @@ VI. Regel I/2 Absatz 11, I/4 und I/14 sowie - soweit es sich um die Verantwortli
   (BGBl. 1982 II S. 297);
   zuletzt geändert durch die Elfte Verordnung über Änderungen der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten vom 14. November 2018
   (BGBl. 2018 II S. 514)
+  - Änderung vom Mai 2021
+    (MSC.486(103))
+    Angenommen am 13. Mai 2021
+    (BGBl. 2023 II Nr. 83)
 VI.1 Zu Kapitel VIII der Anlage zum STCW-Übereinkommen:
   Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code)
   (BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013);
@@ -909,6 +941,10 @@ VII. Artikel 40, 45 Abs. 1 und Artikel 46 der Konstitution der Internationalen F
   (BGBl. 1996 II S. 1306, 2001 II S. 365, 390)
 VIII. Internationales Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen (AFS-Übereinkommen)
   (BGBl. 2008 II S. 520)
+  - Änderung von 2021
+    (MEPC.331(76))
+    Angenommen am 17. Juni 2021
+    (BGBl. 2024 II Nr. 37)
 IX. Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (Ballastwasser-Übereinkommen) vom 13. Februar 2004
   (BGBl. 2013 II S. 42, 44; 2017 II S. 1239)
 IX.0.1 Änderungen vom April 2018
@@ -1142,6 +1178,10 @@ II.0 Zu Hafenauffanganlagen:
   Vom 1. März 2018
   (VkBl. 2021 S. 134)
 II.1 Zu Anlage I:
+  Zu Regel 3 Absatz 7 und Regel 9 Absatz 2:
+  Richtlinien für die Befreiung von unbemannten Bargen ohne eigenen Antrieb (UNSP) von bestimmten Vorschriften für die Besichtigung und Zeugnisausstellung nach dem MARPOL-Übereinkommen (MEPC-Rundschreiben MEPC.1/Circ.892)
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 594)
   - Zu Regel 14 Abs. 7:
     Neufassung der Richtlinien und Spezifikationen für Ausrüstung zur Verhütung der Meeresverschmutzung für Maschinenraumbilgen von Schiffen (MEPC.107(49))
     Angenommen am 18. Juli 2003
@@ -1216,6 +1256,10 @@ II.2 Zu Anlage II:
     Angenommen am 15. Mai 2015
     (VkBl. 2015 S. 843, Sonderband C 8146)
 II.3 Zu Anlage IV:
+  Zu Regel 3 Absatz 2 und Regel 7 Absatz 2:
+  Richtlinien für die Befreiung von unbemannten Bargen ohne eigenen Antrieb (UNSP) von bestimmten Vorschriften für die Besichtigung und Zeugnisausstellung nach dem MARPOL-Übereinkommen (MEPC-Rundschreiben MEPC.1/Circ.892)
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 594)
   Zu Regel 9:
   Empfehlung zu internationalen Ausflussnormen und Richtlinien für die Prüfung von Abwasser-Aufbereitungsanlagen
   (Entschließung MEPC.2(VI))
@@ -1256,9 +1300,19 @@ II.4 Zu Anlage V:
     Angenommen am 15. Mai 2015
     (VkBl. 2015 S. 843, Sonderband C 8146)
 II.5 Zu Anlage VI:
-  Richtlinien für Abgasreinigungssysteme 2015 (Entschließung MEPC.259(68), korrigiert durch MEPC.68/21/Add.1/Corr.2)
+  Zu Regel 3 Absatz 4:
+  Richtlinien für die Befreiung von unbemannten Bargen ohne eigenen Antrieb (UNSP) von bestimmten Vorschriften für die Besichtigung und Zeugnisausstellung nach dem MARPOL-Übereinkommen (MEPC-Rundschreiben MEPC.1/Circ.892)
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 594)
+  Zu Regel 4:
+  Richtlinien für Abgasreinigungssysteme 2015
+  (Entschließung MEPC.259(68), korrigiert durch MEPC.68/21/Add.1/Corr.2)
   Angenommen am 15. Mai 2015
   (VkBl. 2019 S. 120)
+  Richtlinien für Abgasreinigungssysteme von 2021
+  (Entschließung MEPC.340(77))
+  Angenommen am 26. November 2021
+  (VkBl. 2023 S. 194)
   Zu Regel 5 Absatz 4:
   Richtlinien von 2014 über Besichtigungen im Hinblick auf den Energieeffizienz-Kennwert (EEDI) und die Ausstellung von Zeugnissen darüber (MEPC.254(67))
   Angenommen am 17. Oktober 2014
@@ -1270,6 +1324,10 @@ II.5 Zu Anlage VI:
     (Entschließung MEPC.309(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
     Angenommen am 26. Oktober 2018
     (VkBl. 2020 S. 690)
+    Richtlinien von 2022 über Besichtigungen im Hinblick auf den erreichten Energieeffizienz-Kennwert für vorhandene Schiffe (EEXI) und die Ausstellung von Zeugnissen darüber
+    (Entschließung MEPC.351(78))
+    Angenommen am 24. Juni 2022
+    (VkBl. 2022 S. 902)
     Musterbeispiel für eine Übereinstimmungsbestätigung
     Übereinstimmungsbestätigung – Teil II des SEEMP (MEPC.1/Rundschreiben 876)
     Vom 16. April 2018
@@ -1373,6 +1431,135 @@ II.5 Zu Anlage VI:
   (Entschließung MEPC.282(70), korrigiert durch MEPC 70/18/Add.1/Corr.1)
   Angenommen am 28. Oktober 2016
   (VkBl. 2018 S. 896)
+  Zu Regel 22 Absatz 2:
+  Richtlinien von 2012 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+  (Entschließung MEPC.212(63))
+  Angenommen am 2. März 2012
+  (VkBl. 2013 S. 128)
+  - Änderungen der Richtlinien von 2012 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.224(64))
+    Angenommen am 5. Oktober 2012
+    (VkBl. 2014 S. 638)
+  Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts für Schiffsneubauten
+  (Entschließung MEPC.245(66))
+  Angenommen am 4. April 2014
+  (VkBl. 2018 S. 771)
+  - Änderung der Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.245(66)) (Entschließung MEPC. 263(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2018 S. 791)
+  - Änderungen der Richtlinien von 2014 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.245(66), in der mit Entschließung MEPC.263(68) geänderten Fassung)
+    (Entschließung MEPC.281(70), korrigiert durch MEPC.70/18/Corr.1)
+    Angenommen am 28. Oktober 2016
+    (VkBl. 2018 S. 792)
+  Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+  (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+  Angenommen am 26. Oktober 2018
+  (VkBl. 2020 S. 663; 2021 S. 186)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.308(73))
+    (Entschließung MEPC.322(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 692)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.332(76))
+    Angenommen am 17. Juni 2021
+    (VkBl. 2022 S. 285)
+  Vorläufige Richtlinie für die Berechnung des Koeffizienten für die Abnahme der Schiffsgeschwindigkeit bei repräsentativen Seebedingungen fw zur versuchsweisen Anwendung
+  (MEPC.1/Rundschreiben 796)
+  Vom 12. Oktober 2012
+  (VkBl. 2021 S. 114)
+  Anleitung von 2013 zur Behandlung innovativer Energieeffizienztechnologien bei der Berechnung und Überprüfung des erreichten EEDI
+  (MEPC.1/Rundschreiben 815)
+  Vom 17. Juni 2013
+  (VkBl. 2021 S. 125)
+  Zu Regel 22 Absatz 3:
+  Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+  (Entschließung MEPC.308(73), korrigiert durch MEPC 73/19/Add.1/Corr.1)
+  Angenommen am 26. Oktober 2018
+  (VkBl. 2020 S. 663; 2021 S. 186)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.308(73))
+    (MEPC.322(74))
+    Angenommen am 17. Mai 2019
+    (VkBl. 2020 S. 692)
+  - Änderungen der Richtlinien von 2018 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+    (Entschließung MEPC.332(76))
+    Angenommen am 17. Juni 2021
+    (VkBl. 2022 S. 285)
+  Zu Regel 23:
+  Richtlinien von 2022 über die Methode zur Berechnung des erreichten Energieeffizienz-Kennwerts für vorhandene Schiffe (EEXI)
+  (Entschließung MEPC.350(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 896)
+  Zu Regel 24:
+  a) Richtlinien über die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI)
+    (Entschließung MEPC.215(63), korrigiert durch MEPC 63/23/Add.1/Corr.1)
+    Angenommen am 2. März 2012
+    (VkBl. 2013 S. 325; 2020 S. 853)
+  b) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI)
+    (Entschließung MEPC.231(65))
+    Angenommen am 17. Mai 2013
+    (VkBl. 2018 S. 889)
+  c) Richtlinien von 2013 für die Berechnung von Referenzlinien zur Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) von für Kreuzfahrten eingesetzten Fahrgastschiffen mit nicht-konventionellen Antriebssystemen
+    (Entschließung MEPC.233(65))
+    Angenommen am 17. Mai 2013
+    (VkBl. 2015 S. 182)
+  Zu Regel 24 Absatz 5:
+  Interimsrichtlinien von 2013 für die Festlegung der Mindestantriebsleistung, die benötigt wird, um die Manövrierfähigkeit von Schiffen unter ungünstigen Bedingungen aufrechtzuerhalten
+  (Entschließung MEPC.232(65))
+  Angenommen am 17. Mai 2013
+  (VkBl. 2015 S. 248)
+  - Änderung vom Oktober 2014
+    (MEPC.255(67))
+    Angenommen am 17. Oktober 2014
+    (VkBl. 2018 S. 198)
+  - Änderung vom Mai 2015
+    (MEPC.262(68))
+    Angenommen am 15. Mai 2015
+    (VkBl. 2018 S. 199)
+  Richtlinien für die Festlegung der Mindestantriebsleistung, die benötigt wird, um die Manövrierfähigkeit von Schiffen unter ungünstigen Bedingungen aufrechtzuerhalten
+  (MEPC.1/Circ.850/Rev.3)
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 715)
+  Zu Regel 25:
+  Richtlinien von 2021 über das System zur Drosselung der Wellen-/Motorleistung zur Einhaltung der EEXI-Anforderungen und über die Nutzung einer Leistungsreserve
+  (Entschließung MEPC.335(76))
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 643)
+  Zu Regel 26:
+  Richtlinien von 2022 für die Erstellung eines Schiffsenergieeffizienz-Managementplans (SEEMP)
+  (Entschließung MEPC.346(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 857)
+  Richtlinien für die Überprüfung des Unternehmensaudits zu Teil III des Schiffsenergieeffizienz-Managementplans (SEEMP) durch die Verwaltung
+  (Entschließung MEPC.347(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 881)
+  Zu Regel 28 Absatz 1:
+  Richtlinien von 2022 zu den betrieblichen Kohlenstoffintensitätsindikatoren und Berechnungsmethoden (KII-Richtlinien, G1)
+  (Entschließung MEPC.352(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 909)
+  Zu Regel 28 Absatz 4:
+  Richtlinien von 2022 zu den Referenzlinien zur Anwendung auf betriebliche Kohlenstoffintensitätsindikatoren (Richtlinien zu den KII – Referenzlinien, G2)
+  (Entschließung MEPC.353(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 911)
+  Richtlinien von 2021 zu den betrieblichen Kohlenstoffintensitäts-Reduktionsfaktoren (Richtlinien zu den KII-Reduktionsfaktoren, G3)
+  (Entschließung MEPC.338(76))
+  Angenommen am 17. Juni 2021
+  (VkBl. 2022 S. 605)
+  Zu Regel 28 Absatz 6:
+  Richtlinien von 2022 über die betriebliche Kohlenstoffintensitätsklasse von Schiffen (Richtlinien über die KII-Klasse, G4)
+  (Entschließung MEPC.354(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 913)
+  Vorläufige Richtlinien von 2022 zu Korrekturfaktoren und Reiseanpassungen für die Berechnung der KII (KII-Richtlinien, G5)
+  (Entschließung MEPC.355(78))
+  Angenommen am 24. Juni 2022
+  (VkBl. 2022 S. 917)
 II.6 Zur technischen NOx-Vorschrift:
   Zu Kapitel 2 Nummer 2.2.5:
   Richtlinien von 2011 über zusätzliche Aspekte der Technischen NOx-Vorschrift 2008 in Bezug auf besondere Anforderungen an Schiffsdieselmotoren mit Systemen zur selektiven katalytischen Reduktion (SCR)
@@ -1447,6 +1634,10 @@ VI.2 Zur Anlage:
   Richtlinien für die Ballastwasser-Behandlung und die Erstellung von Ballastwasser-Behandlungsplänen (G4) MEPC.127(53), korrigiert durch MEPC 53/24/Add.1/Corr.1)
   Angenommen am 22. Juli 2005
   (VkBl. 2010 S. 188)
+  - Änderung vom Oktober 2018
+    (MEPC.306(73))
+    Angenommen am 26. Oktober 2018
+    (VkBl. 2020 S. 364)
   Zu Regel B–4.2:
   Richtlinien für den Ballastwasser-Austausch von 2017 (G6) (MEPC.288(71))
   Angenommen am 7. Juli 2017
@@ -1498,7 +1689,7 @@ D. Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union:
   5. Bezogen auf die Inbetriebnahme von Sportbooten und Wassermotorrädern:
     Artikel 4, Artikel 6 in Verbindung mit Artikel 2 und 16 und den Anhängen II und III der Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG (ABl. L 354 vom 28.12.2013, S. 90), die zuletzt durch die Berichtigung der Richtlinie 2013/53/EU (ABl. L 297 vom 13.11.2015, S. 9) geändert worden ist
   6. Bezogen auf die Überwachung nach § 1 Nummer 6 des Seeaufgabengesetzes sowie auf die Regelungen über den Wachdienst nach Abschnitt A Nummer VI und VI.1 dieser Anlage:
-    Artikel 3, 5 Absatz 10, Artikel 11 Absatz 2 und 3, Artikel 12 Absatz 1, 2, 2a und 2b, Artikel 13 bis 16, 18, 19 und 22 bis 24 der Richtlinie 2008/106/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33), zuletzt geändert durch Artikel 1 der Richtlinie 2019/1159/EU (ABl. L 188 vom 12.7.2019, S. 94)
+    Artikel 3, Artikel 4 Absatz 11, Artikel 12, Artikel 13 Absatz 1, Absatz 2, Absatz 3, Absatz 4, Artikel 14 bis 17, Artikel 19, Artikel 20, Artikel 23 bis 25 der Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45)
   7. Artikel 3, 4 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1, Artikel 5, 6 Absatz 2, Artikel 8 bis 11 und 14 in Verbindung mit den Anhängen I und II sowie Artikel 1 und 2 der Richtlinie 2009/15/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen und die einschlägigen Maßnahmen der Seebehörden (ABl. L 131 vom 28.05.2009, S. 47), zuletzt geändert durch Artikel 1 der Durchführungsrichtlinie 2014/111/EU der Kommission vom 17. Dezember 2014 zur Änderung der Richtlinie 2009/15/EG hinsichtlich der Annahme bestimmter Codes und diesbezüglicher Änderungen bestimmter Übereinkommen und Protokolle durch die Internationale Seeschifffahrtsorganisation (IMO)
     (ABl. L 366 vom 20.12.2014, S. 83)
   8. Artikel 4 bis 6, Artikel 7 Absatz 1 und 2, Artikel 8 und 9, Artikel 11 bis 13, Artikel 14 Absatz 1 bis 3, Absatz 4 Satz 1, Artikel 14a, Artikel 15 Absatz 1 bis 3, Artikel 16 bis 18, Artikel 18a Absatz 1 bis 6 und 8, Artikel 19 Absatz 1 bis 6 und 8 bis 10, Artikel 20 bis 22, Artikel 23 Absatz 4, Artikel 24 Absatz 2 und 3, Artikel 29 in Verbindung mit den Anhängen I bis XI, XIV und XVII sowie den Artikeln 1 bis 3 der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom 28.5.2009, S. 57), zuletzt geändert durch Artikel 14 der Richtlinie (EU) 2017/2110 (ABl. L 315 vom 30.11.2017, S. 61), in Verbindung mit Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur Erstellung eines einheitlichen Musters für die Ausweise der Besichtiger der Hafenstaatkontrolle (ABl. L 196 vom 7.8.1996, S. 8)
@@ -1551,6 +1742,9 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
         - Änderung von 2014 (MSC.383(94))
           Angenommen am 21. November 2014
           (VkBl. 2015 S. 472)
+        - Änderung von 2022 (MSC.505(105))
+          Angenommen am 28. April 2022
+          (VkBl. 2024 S. 112)
     b) für Plattformen, deren Kiellegung am oder nach dem 1. Januar 2012 erfolgt oder die sich zu diesem Zeitpunkt in einem entsprechenden Bauzustand befinden –
       - Code für den Bau und die Ausrüstung beweglicher Offshore-Bohrplattformen (2009 MODU-Code) (Entschl. A.1023(26))
         Angenommen am 2. Dezember 2009
@@ -1569,6 +1763,9 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
       - Änderungen von 2017 (MSC.435(98))
         Angenommen am 9. Juni 2017
         (VkBl. 2018 S. 193)
+      - Änderungen von 2022 (MSC.506(105))
+        Angenommen am 28. April 2022
+        (VkBl. 2024 S. 113)
   3. Richtlinien für die Verwendung von Kunststoffrohren auf Schiffen
     (Entschließung A.753(18))
     Angenommen am 4. November 1993
@@ -1588,6 +1785,9 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
         (VkBl. 1996 S. 636)
       - Änderung von 2004 (MSC.183(79))
         (VkBl. 2009 S. 272)
+      - Änderung von 2022 (MSC.502(105))
+        Angenommen am 28. April 2022
+        (VkBl. 2024 S. 94)
     b) für Schiffe, die am oder nach dem 1. Januar 2009 gebaut oder als Spezialschiffe zugelassen worden sind –
       - Code über die Sicherheit von Spezialschiffen von 2008 (Entschl. MSC.266(84))
         Angenommen am 13. Mai 2008
@@ -1607,6 +1807,9 @@ E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare an
       - Änderung von 2019 (MSC.464(101))
         Angenommen am 7. Dezember 2018
         (VkBl. 2020 S. 48)
+      - Änderung von 2022 (MSC.503(105))
+        Angenommen am 28. April 2022
+        (VkBl. 2024 S. 102)
   5. Richtlinien für Sicherungsvorkehrungen bei der Beförderung von Straßenfahrzeugen mit Ro-Ro-Schiffen (Entschl.A.581(14))
     Angenommen am 20. November 1985
     (BAnz. 1988 S. 4439)
