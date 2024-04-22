@@ -1,0 +1,56 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-22T15:05:00+02:00
+- Ende: 2024-04-22T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29647
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29647
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Aktuelle Stunde: Was ist beim Anmeldeverfahren für Grundschulkinder schiefgelaufen? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Bildung eines Schuleinzugsbereiches für die GGS Kunterbunt, Görlinger Zentrum, und die KGS Mengenicher Straße in Bocklemünd/Mengenich - ohne Votum in nachfolgende Gremien
+- TOP 2.2: Prüfergebnis Grundstück Holzheimer Weg als Standort für eine vierzügige Gesamtschule - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktion KLIMAFREUNDE & GUT vom 13.11.2023 betreffend "Bestandsschutz der Kleingartenanlage "Kölsche Kiwis" am Maarweg" - zurückgestellt
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 23.02.2024 - zurückgestellt
+- TOP 3.2: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT) vom 25.01.2024 betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP 3.3: Antrag zu PKW-Abstellmöglichkeiten für Senioren am Eingang Sporthalle der Schule Albert-Schweitzer-Str. - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion SPD vom 15.04.2024 betreffend "Schulweg der neuen Montessori Grundschule Friedrich-Karl-Straße / Köln-Nippes" - zurückgestellt
+- TOP 4.2: Anfrage der Stadtschulpflegschaft vom 17.04.2024 betreffend "Gebäudeklima" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen und Volt vom 17.04.2024 betreffend "Professionelle Sprach- und Kulturmittlung in AO SF-Verfahren" - zurückgestellt
+- TOP 4.4: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 17.04.2024 betreffend "Broschüre Hitzeaktionsplan für Schulen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 28.02.2024 betreffend "Verkehrssituation am Interim- Standort Gymnasium Rondorf" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP -: Anfrage der Fraktion Die Fraktion vom 15.11.2023 betreffend "Sachstand "Sponsoringvereinbarung Stadt Köln 2021-22" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 22.04.2024 zu TOP 6.1 betreffend "Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012" - ungeändert beschlossen
+- TOP 6.2: Zügigkeitserweiterung der KGS Gutnickstraße, Gutnickstraße 37, 50769 Köln-Roggendorf/Thenhoven, Schulnr. 111405, zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 6.3: Einrichtung des Erweiterungsbaus für den Ganztag und Einrichtung nach der Generalinstandsetzung des Hauptgebäudes des Drei König Gymnasiums, Escherstraße 247, 50733 Köln-Nippes, - ungeändert empfohlen
+- TOP 6.4: Zügigkeitserweiterung der Gemeinschaftsgrundschule Clarenhofschule, Schulstraße 2, 50859 Köln-Weiden, Schulnr. 184184, zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 6.5: Zügigkeitserweiterung der GGS An den Kaulen, An den Kaulen 62-64, 50769 Köln-Worringen zum Schuljahr 2025/26 bei gleichzeitiger Bildung eines Teilstandortes in der Bolligstr. 20, 50769 Köln-Worringen - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2023 - Kenntnis genommen
+- TOP 8.2: Zwischenbericht zum Kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 und zur 3. Sitzung des Begleitgremiums zum Kommunalen Kinder- und Jugendförderplan - Kenntnis genommen
+- TOP 8.3: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 8.4: Sachbericht des Kölner Flüchtlingsrates e.V. zum Projekt „Brückenbauer*“ für das Jahr 2023 - Kenntnis genommen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Sachstandsmitteilung zur Umsetzung des Förderprogramms "DigitalPakt NRW" für die Kölner Schulen - Kenntnis genommen
+- TOP 8.7: Bericht zur kommunalen Elternberatung Inklusion im Amt für Schulentwicklung - zurückgestellt
+- TOP 8.8: Gemeinsames Lernen - zurückgestellt
+- TOP 8.9: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 8.10: Beantwortung einer mündliche Anfrage der Stadtschulpflegschaft von Achim Schmitz aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 22.05.23 betreffend "Anmeldeverfahren der Sekundarstufe I (Überleiterverfahren) zum Schuljahr 2023/2024" - zurückgestellt
+- TOP 8.11: Anmeldeverfahren an weiterführenden Schulen in Köln - Kenntnis genommen
+- TOP 8.12: Aktionsprogramm Ankommen nach Corona; hier: Niedrigschwellige Versorgung der Kölner Kinder und Jugendlichen in psychischen Notlagen" - zurückgestellt
+- TOP 9: Mündliche Anfragen
