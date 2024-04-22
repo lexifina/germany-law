@@ -1,0 +1,7 @@
+# TOP 4.: Jahresabschluss Kurbetrieb 2022
+
+- Sitzung: Haupt- und Finanzausschuss (14. Sitzung) (2024-04-22)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/3095
+- Ergebnis: (kein Text vorhanden)
