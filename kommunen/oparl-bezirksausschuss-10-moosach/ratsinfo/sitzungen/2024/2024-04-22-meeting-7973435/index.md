@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-04-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973435
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973435
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 11.03.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Verkehrssituation Feldmochinger Straße: a) Anordnung durchgehendes Haltverbot zwischen Merseburger Straße und Bingener Straße; b) Regelmäßige Radarkontrollen im Tempo30-Bereich zwischen Torgauer Straße und Bingener Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Ambossstr. 10
+- TOP 3.3.1.2.: Triebstraße (öffentliche Grünfläche)
+- TOP 3.3.1.3.: Hartmannshofer Str. 5
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Wiederherstellung bzw. Neuauftrag von Piktogrammen (Verkehrszeichen 244.1 StVO - Fahrradstraße) entlang des Fahrradstraßenzuges Karl-Lipp-Straße - Gleißmüllerstraße - Welzenbachstraße - Templestraße
+- TOP 4.1.2.: Ertüchtigung der nächtlichen Beleuchtung entlang des baustellenbedingten provisorischen Geh- und Radweges zwischen Riesengebirgstraße und Eisenbahnunterführung Dachauer Straße
+- TOP 4.1.3.: Einschränkung des beparkbaren Bereiches (Westseite) im Einmündungsbereich Dresdner Straße in die Pelkovenstraße
+- TOP 4.1.4.: Aufstellung einer Mobiltoilette in der Grünanlage "Amphionpark"
+- TOP 4.1.5.: Baldmögliche Ersatzpflanzungen in der Grünanlage Kreuzung Bingener Straße/ Feldmochinger Straße
+- TOP 4.1.6.: Durchführung von Baumpflegemaßnahmen auf dem städtischen Grundstück an der Bingener Str. 6-8
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlingerstraße Street Art Karlingerstraße 32 vom 20.04. -10.06.2024 1.800,00€; Az. 0262.0-10-0374
+- TOP 5.2.: (E) Stadtbezirksbudget The Tent Jugendübernachtungscamp, KJR München-Stadt Lasten E-Bike für die Einrichtung The Tent ab 06.04.2024 3.164,00€; Az. 0262.0-10-0373
+- TOP 5.3.: (E) Stadtbezirksbudget Projektteam „The End“ – Letzte Offene Ateliers im Botanikum „The End – Offene Ateliers und Abschiedsveranstaltung 2024 im Botanikum vom 24.05.2024 – 26.05.2024“ 1.600,00 € / AZ: 0262.0-10-0375
+- TOP 5.4.: (E) Stadtbezirksbudget Initiative „Percussion im Klassenzimmer“ „Percussion im Klassenzimmer“ in der Grundschule Dieselstr. Vom 10.10.2024 – 19.12.2024“ 1.000,00 € / AZ: 0262.0-10-0376
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anhörung der Bezirksausschüsse zu einem neuen Verfahren für die Berechnung der Anzahl der Mitglieder der Bezirksausschüsse (-> vertagt aus Sitzung am 11.03.2024)
+- TOP 6.2.: Fortschreibung Standortsicherung Bürgerbüros
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2024 bis 2028 (Selektion Stadtbezirk 10)
+- TOP 6.4.: Bettfedernreinigung auf städt. Flurstück, Ecke Allacher Straße / Waldhornstraße vom 30.04. bis 03.05.2024 und 05.09. bis 11.09.2024
+- TOP 6.5.: Veranstaltungen in städtischen Grünanlagen und auf öffentlichem Verkehrsgrund: diverse "Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2024" von Mai bis Oktober 2024
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund und städtischem Privatgrund: Moosacher St.-Martins-Platz "Moosacher Dorffest" am 20.07.2ß024
+- TOP 6.7.: Veranstaltung in städtischer Grünanlage: Am Hartmannshofer Bächl "Kunstprojekt "Der fahrende Raum"" vom 02.05. bis 21.07.2024
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund, in einer städtischen Grünanlage und Privatgrund: Am Hartmannshofer Bächl, Manzostraße und Grünanlage ggü der Arche; "Sommerfest der Arche München" am 04.07.2024
+- TOP 6.9.: Veranstaltung in städtischer Grünanlage: Welzenbachstraße/ Nanga-Parbat-Straße; "Aktion Spielwiese" vom 05.06. bis 24.07.2024
+- TOP 6.10.: Errichtung eines personengebundenen Behindertenparkplatzes - nicht-öffentlich - Naumburger Straße
+- TOP 6.11.: Genehmigung Zweckentfremdung von Wohnraum durch Erteilung eines Negativattestes: Dachauer Straße - nicht-öffentlich -
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Ausstattung weiterer Spielplätze mit Trinkbrunnen [BA-Antrag Nr. 20-26/B 06038; benannte Spielplätze sind vorgemerkt. Das Baureferat wird zur Abstimmung der Standorte zu gegebener Zeit auf den BA10 zugehen.]
+- TOP 7.2.: Abringen eines Abfallbehälters vor der Grundschule am Amphionpark [BA-Antrag Nr. 20-26/B 06384; weitere Abfallbehälter wurden wunschgemäß aufgestellt]
+- TOP 7.3.: Ordentliche Einfriedung des zwischen der Bingener Str. 4 und der Feldmochinger Str. 38 befindlichen Grundstückes (Flurstück Nr. 989) [BA-Antrag Nr. 20-26/B 06385; Einfriedung kann baurechtlicherseits nicht gefordert werden, Grundstückeigentümer wurde jedoch angeschrieben]
+- TOP 7.4.: Neubau einer Schulturnhalle Mittelschule Leipziger Str. 7 [Schreiben BA10 vom 22.11.2023: Zeitnahe Sanierung bzw. Erweiterung der Mittelschule kann wegen notwendigen Priorisierungen nicht in Aussicht gestellt werden.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Stadtbezirksbudget: Projekt "Ökologische Aufwertung der Ausgleichsfläche in den Kirschen"; Verlängerung Bewilligungszeitraum bis 31.05.2024
+- TOP 8.2.: Grünpatenschaften im Rahmen des Projektes von Green City e.V.; hier: Stellungnahme des Baureferates zu einem stadtweit bei den BA´s eingereichten Bürgeranliegens vom 18.03.2024
+- TOP 8.3.: Europawahl am 09.06.2024; Einteilung der Wahlbezirke und Wahlräume
+- TOP 8.4.: Pilotprojekt Radwegeinfärbungen an Bushaltestellen; hier: ausgewählte Pilot-Örtlichkeiten (u.a. Haltestelle Olympia-Einkaufszentrum West)
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Hugo-Troendle-Straße (Ostseite); Einrichtung einer Elternanfahrtszone
+- TOP 8.6.: Anpassung einer verkehrsrechtlichen Anordnung nach § 45 StVO vom 18.01.2018: Feldmochinger Straße; Erweiterung eines Haltverbots-Bereiches
+- TOP 8.7.: (U) Machbarkeitsstudie zur urbanen Seilbahn am Frankfurter Ring Bekanntgabe der Ergebnisse des Förderprojekts Abschließende Empfehlungen -> Erledigung des BA-Antrages Nr. 14-20/B 06938 "Seilbahn nach Moosach" vom 14.10.2019
+- TOP 8.8.: (U) Entscheidungsvorschlag zur künftigen Raumaufteilung Knotenpunkt Dachauer Straße / Wintrichring / Georg-Brauchle-Ring (Stadtbezirk 10) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung -> Erledigung des BA-Antrages "Änderung dder Verkehrsführung Kreuzung Dachauer Straqße - Wintrichring - Georg-Brauchle-Ring stadteinwärts (in den Georg-Brauchle-Ring) im Rahmen des geplanten Kreuzungsumbaus" vom 19.12.2022
+- TOP 8.9.: Keine neuen Bürohäuser
+- TOP 8.10.: Genehmigung Zweckentfremdung von Wohnraum: Kapellenäckerstraße - nicht-öffentlich -
+- TOP 3.2.1.: Vorstellung Planungen Untermenzinger Straße (-> Bericht aus UA-Sitzung am 09.04.2024; Präsentation des MOR)
+- TOP 3.2.2.: Sicherer Zugangsbereich für das städtische Haus für Kinder in der Postillonstr. 11a (Antwortschreiben MOR auf BA-Antrag Nr. 20-26/B 06139) -> Wiedervorlage aus der Sitzung am 19.02.2024
