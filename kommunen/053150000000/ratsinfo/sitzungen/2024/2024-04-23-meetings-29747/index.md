@@ -1,0 +1,88 @@
+# 33. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-23T16:03:00+02:00
+- Ende: 2024-04-23T20:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29747
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29747
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde: Quo vadis, Verkehrswende? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Wüste Trankgasse wird Blühende Landschaft - geändert beschlossen
+- TOP 1.2: Barrierefreiheit Stadtbahn-Haltestellen - endgültig abgelehnt
+- TOP -: Ersetzungsantrag zu TOP 1.2 AN/0492/2024 Stadtbahn Haltestellen der KVB: Barrierefreiheit engagiert gestalten statt nur „abzuhaken“! - endgültig abgelehnt
+- TOP 1.3: Abstellflächen für E-Scooter im öffentlichen Raum - ungeändert beschlossen
+- TOP -: Änderungsantrag zu Top 1.3 "Abstellflächen für E-Scooter im öffentlichen Raum" - endgültig abgelehnt
+- TOP 1.4: Beschleunigung des Ausbaus der Radinfrastruktur - ungeändert beschlossen
+- TOP 1.5: KVB-Liniennetz europäischer machen - endgültig abgelehnt
+- TOP 1.6: Mobilitätswende voranbringen und Prioritäten schaffen - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Anregung der Bezirksvertretung Nippes, Ersatz-Fährverbindung von Alt-Niehl zu den Niehler Auen - zurückgestellt
+- TOP 2.2: Anregung der Bezirksvertretung Ehrenfeld zu "Mehr Freiheit und Sicherheit auf den Bürgersteigen - Neuordnung der Abstellmöglichkeiten für E-Roller - AN/0073/2024 - Sache ist erledigt
+- TOP 2.3: Anregung der Bezirksvertretung Nippes, Verstärkerfahrten Linie 15 im Schulverkehr beibehalten - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 2.3 Beschlussvorlage 1061/2024 „Verstärkerfahrten Linie 15 im Schulverkehr beibehalten“ - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Raumbuch Mobilstationen - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Festlegung der Variante zur Planung der Bahnsteiganhebungen an den Haltestellen Nußbaumerstr. und Subbelrather Str./Gürtel - mit Änderungen empfohlen
+- TOP -: Ersetzungsantrag zu TOP 4.1 Beschlussvorlage 3118/2023 „Festlegung der Variante zur Planung der Bahnsteiganhebungen an den Haltestellen Nußbaumerstraße und Subbelrather Straße/Gürtel“ - endgültig abgelehnt
+- TOP 4.2: Baubeschluss für die Sanierung/Umbau der Neusser Landstraße im Abschnitt zwischen Kurzer Damm und Haus-Nr. 439 in Köln-Worringen sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 4.3: 292. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.4: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - zurückgestellt
+- TOP 4.5: 8. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 4.6: 293. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - zurückgestellt
+- TOP 4.8: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestelle Junkersdorf - zurückgestellt
+- TOP 4.9: Baubeschluss für die Umgestaltung des Albertus-Magnus-Platzes (Flächen der Stadt Köln) - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beantwortung einer schriftlichen Anfrage der Seniorenvertreterin Wedde zur Sitzung des Verkehrsausschusses am 05.03.2024 betr. "ADAC-Studie" - Sache ist erledigt
+- TOP 5.1.2: KVB Tantiemen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD-Fraktion betreffend "KVB Tantiemen" (Vorlagen-Nr.: AN/2074/2023) - Kenntnis genommen
+- TOP 5.1.3: Ausfälle bei der KVB im Jahr 2023 - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses vom 23.01.2024 (AN/0010/2024) betreffend "Ausfälle bei der KVB im Jahr 2023" - Kenntnis genommen
+- TOP 5.1.4: Quartiersgaragen im Betrieb - zurückgestellt
+- TOP 5.1.5: Personalsituation im Dezernat III-Mobilität - zurückgestellt
+- TOP 5.1.6: Auswertung des Projekts Parkpilot in Nippes - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP Fraktion vom 29.02.2024 aus der Sitzung des Verkehrsauschusses am 05.03.2024 betreffend "Auswertung des Projektes Parkpilot in Nippes", AN/0308/2024 - Kenntnis genommen
+- TOP 5.1.7: Förderprogramm Nahmobilität - zurückgestellt
+- TOP 5.1.8: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 23.01.202 betreffend "Adventsverkehr-Konzept", AN/2186/2023 ,0307/2024 - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Anfrage: Aktiver Schutz der Kölnerinnen und Kölnern vor Lärm - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsfraktion Volt vom 21.03.2024 betreffend "Aktiver Schutz der Kölnerinnen und Kölnern vor Lärm", AN/0486/2024 - Kenntnis genommen
+- TOP 5.2.2: Betrieb der 90m-Züge auf der Ost-West-Achse (OWA) - zurückgestellt
+- TOP 5.2.3: Parken in Poll - zurückgestellt
+- TOP 5.2.4: Sachstand Rückbau freilaufender Rechtsabbieger - zurückgestellt
+- TOP 5.2.5: Neuaufstellung der verkehrlichen Bedarfspläne - zurückgestellt
+- TOP 5.2.6: Oh-Weh-Achse - zurückgestellt
+- TOP 5.2.7: Verkehrssicherheit Kempener Straße - zurückgestellt
+- TOP 5.2.8: Rodenkirchener Brücke – was tut die Stadt Köln gegen Abriss und Neubau? - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - Kenntnis genommen
+- TOP 6.2.2: Abschlussbericht Mobilitätserhebung 2022 - Kenntnis genommen
+- TOP 6.2.3: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 6.2.4: Entwicklungsplanung Weststadt, hier: Mitteilung über die Beauftragung zur Erarbeitung der Entwicklungsplanung Weststadt und über die Erhöhung des Auftragswertes - Kenntnis genommen
+- TOP 6.2.5: Kraftfahrzeuge in Köln - Ergebnis der Kraftfahrzeugsstatistik zum 31.12.2023 - Kenntnis genommen
+- TOP 6.2.6: Lärmaktionsplanung nach § 47 d BImSchG: Öffentliche Auslegung zur Fortschreibung des Lärmaktionsplanes im Rahmen der vierten Stufe nach EU-Umgebungslärmrichtlinie - Kenntnis genommen
+- TOP 6.2.7: 3. Baustufe Nord-Süd Stadtbahn - Projektstand im April 2024 - Kenntnis genommen
+- TOP 6.2.8: Direkte Radführung an der rechtsrheinischen Abfahrt der Deutzer Brücke - Kenntnis genommen
+- TOP 6.2.9: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 6.2.10: Mehr Verkehrssicherheit auf der Vorgebirgstraße - Planung eines Fahrradschutzstreifens auf dem Abschnitt zwischen "Am Vorgebirgstor" und "Raderthalgürtel" - Kenntnis genommen
+- TOP 6.2.11: Ergebnisse der Öffentlichkeitsbeteiligung „Fuß- und radverkehrsfreundliche Neugestaltung der Kalker Hauptstraße“ - Kenntnis genommen
+- TOP 6.2.12: Öffentlichkeitsbeteiligung „Fuß- und radverkehrsfreundliche Neugestaltung der Kalker Hauptstraße“ – Konzept öffentliche Veranstaltung - Kenntnis genommen
+- TOP 6.2.13: Zukünftige Radverkehrsführung Mülheimer Brücke - Kenntnis genommen
+- TOP 6.2.14: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Machbarkeitsstudie Linie 4
+- TOP 7.2: Umfrage zum nachhaltigen Mobilitätsplan - Technischer Fehler
+- TOP 7.3: KVB-Flyer - Unfallzahlen
