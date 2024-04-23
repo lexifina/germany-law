@@ -1,0 +1,6 @@
+# TOP 6.: Wehrgärten - Verschiedenes, z.B. Bachlauf, Bäume und Pflege
+
+- Sitzung: Ortsbeirat Kettenbach (1. Sitzung) (2024-04-23)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/29033
