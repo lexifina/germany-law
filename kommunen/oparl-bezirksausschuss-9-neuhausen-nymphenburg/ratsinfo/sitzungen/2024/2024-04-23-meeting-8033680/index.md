@@ -1,0 +1,229 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2024-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8033680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8033680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle (Entwürfe: öffentliche + nicht-öffentliche Sitzung) der Sitzung vom 19.03.2024
+- TOP 2.: Vorstellung "Wohnen im Viertel"
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Verkehrsberuhigter Bereich in der Margarethe-Danzi-Straße
+- TOP 3.1.2.: (E) + (U) Verkehrsschild behindert Fußweg an der Ecke Olgastr. ab 1 / Alfonsstraße
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: FDP-Fraktion: Antrag - Verkehrschaos an der Landshuter Allee / Nymphenburger Straße beenden - Bezug: TOP 3.2.1 aus 02/2024 - WV in 04/2024 -
+- TOP 3.2.2.: FDP-Fraktion: Antrag - Umgestaltung Leonrodstraße zwischen Leonrodplatz und Landshuter Allee
+- TOP 3.2.3.: SPD-Fraktion: Antrag - Fahrradweg markieren an der Arnulfstraße / Richelstraße und wenn möglich verbreitern
+- TOP 3.2.4.: SPD-Fraktion: Antrag - Kapazitäten der Tram 16 und 17 zur Rush-Hour erhöhen
+- TOP 3.2.5.: Wildparken Rosa-Bavarese-Straße / Termin CA Immo
+- TOP 3.2.6.: Parkplatzproblem Winthirplatz - Bezug: TOP 2.1.2 aus 03/2024 - WV in 04/2024 -
+- TOP 3.2.7.: Parklet Gabrielenstraße 9
+- TOP 3.2.8.: Verkehrssituation (Wohngebiet zwischen Hirschgarten / Wilhelm-Hale-Straße / S-Bahn-Stammstrecke)
+- TOP 3.2.9.: Verkehrssicherung vor der Schule Hirschbergstraße
+- TOP 3.2.10.: Ausweitung der Tempo-30-Zone auf der Romanstraße
+- TOP 3.2.11.: Schulweg Verkehrssituation Menzinger Straße (Bereich Maria-Ward-Straße bis Nördliche Auffahrtsallee)
+- TOP 3.2.12.: Verkehrssituation 2024 im Rondell Neuwittelsbach
+- TOP 3.2.13.: Verwirrende Verkehrsschilder
+- TOP 3.2.14.: Erwiderung des Bürgers auf ein Antwortschreiben der SWM zum Anliegen "Öffentliche Ladestationen im Parklizenzgebiet Rotkreuzplatz Nord"
+- TOP 3.2.15.: Laimer Tunnel - Treppenanlage mit Grünflächen am NW-Eingang
+- TOP 3.2.16.: Verkehrssituation vor dem Rupprecht-Gymnasium
+- TOP 3.2.17.: Probleme mit der Großbaustelle im Arnulfpark? Wehe dem, der diese anspricht!
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: BA-Antrag "Lieferzonen für Neuhausen" (Parklizenzgebiet Rotkreuzplatz Süd) --> Stellungnahmeersuchen des MOR, ob mit der Einrichtung der genannten Lieferzonen seitens des BA Einverständnis besteht - Bezug: TOP 3.2.9 aus 11/2023 -
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Antrag - Knotenpunkt Fasolt- / Ginhardtstraße gestalten BA-Antrag Nr. 20-26 / B 05927 --> schriftliche Rückmeldung des BAU vom 01.03.2024 auf das Anschreiben des BA 9 vom 02.02.2024 - Bezug: TOP 3.4.6 aus 01/2024 -
+- TOP 3.4.2.: FDP-Fraktion: Antrag - Verkehrsspiegel an der Landshuter Allee 134 anbringen
+- TOP 3.4.3.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema: "Antrag zur Einschränkung des Durchgangsverkehrs Dom-Pedro-Straße über die Merianstraße zur Dachauer Straße" - Antwortschreiben des MOR - Bezug: TOP 3.2.1 aus 11/2023 -
+- TOP 3.4.4.: Zeitungsständer an Radwegen gefahrenfrei positionieren
+- TOP 3.4.5.: Besserer Schutz für den Fußverkehr an den Kreuzungen Gern, Klugstraße - Antwortschreiben des MOR (BA-Antrags-Nr. 20-26 / B 05521) - Bezug: TOP 3.4.2 aus 10/2023 -
+- TOP 3.4.6.: Margarethe-Danzi-Straße - Kindergefährdung durch Wohnmobile und LKW - Antwortschreiben der kommunalen Verkehrsüberwachung - Bezug: TOP 3.2.5 aus 03/2024 -
+- TOP 3.4.7.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Gefährliche und schlechte Situation für Fußgänger; Kreuzung Winthirstraße / Wendl-Dietrich-Straße" - Antwortschreiben des MOR
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum; Blutenburgstraße 59-65 / Blutenburgstraße 71 mit Seite Landshuter Allee (Kanalsanierung) vom 08.04.2024 bis 10.05.2024
+- TOP 3.5.2.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum; Taxisstraße 33-41 (Neubau Fernwärme) vom 13.05.2024 bis 18.07.2024 (50 Arbeitstage)
+- TOP 3.5.3.: Änderungsplanfeststellungsbeschluss (Tektur D), Tram-Westtangente, PFA 1 Romanplatz bis Wendeschleife am Waldfriedhof
+- TOP 3.5.4.: Verkehrsrechtliche Anordnung - Errichtung von absoluten Halteverboten in der Fuetererstraße, zwischen Volkartstraße und Hübnerstraße, Nordostseite, zur Kenntnisnahme
+- TOP 3.5.5.: Verkehrsrechtliche Anordnung - Errichtung eines Halteverbots in der Johann-Schmaus-Straße, ab der Einmündung in die Braganzastraße, auf der Westseite, zur Kenntnisnahme
+- TOP 3.5.6.: Verkehrsrechtliche Anordnung - Aufhebung eines Standplatzes / einer Haltestelle für Streetworkerbus; Mettenstraße 28
+- TOP 3.5.7.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum; Romanplatz / Wotanstraße / Arnulfstraße / Gaßnerstraße Spartenaußenphase Tram-Westtangente vom 26.03.2024 bis 19.04.2024
+- TOP 3.5.8.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum; Birkerstraße / Arnulfstraße / Weiglstraße (Austausch Rohrleitungen) vom 13.05.2024 bis 25.07.2024
+- TOP 3.5.9.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum; Landshuter Allee (Begrünung) - Terminverschiebung vom 08.04.2024 bis 31.05.2024
+- TOP 3.5.10.: Parklizenzgebiete in Neuhausen / Grenzstraßenregelung für den Winthirplatz - Informationsschreiben des MOR zur Kenntnisnahme
+- TOP 3.5.11.: Pilotprojekt Radwegeinfärbungen an Bushaltestellen - Informationsschreiben des MOR z.K.
+- TOP 3.5.12.: Abschluss Sommerstraße 2023 und Aufruf für 2024 - Informationsschreiben des MOR z.K.
+- TOP 3.5.13.: Tiefbauarbeiten Horemansstraße / Nymphenburger Straße - Stromprojekt Stadtbezirk 9 - Antwortschreiben der SWM auf ein Bürgeranliegen
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Nachfrage bei MVG bezüglich U1 - Antwortschreiben der SWM z.K. - Bezug: TOP 3.6.2 aus 02/2024 -
+- TOP 3.6.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.1.1.: (E) + (U) Bebauung Leonrodplatz
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Klarastraße 7 ABBRUCH / Neubau eines Geschoßwohnungsbaus mit Tiefgarage
+- TOP 4.3.2.: Südliche Auffahrtsallee 30 Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 4.3.3.: Andréestraße 4 Hinterhofbebauung mit einem Wohngebäude - VORBESCHEID
+- TOP 4.3.4.: Frundsbergstraße 21 ÄNDERUNGSANTRAG - Neubau eines Rückgebäudes mit Teilrückbau des Bestandsrückgebäudes
+- TOP 4.3.5.: Frundsbergstraße 21 ÄNDERUNGSANTRAG - Nutzungsänderung Spitzboden von Speicher zu Wohnen, Errichtung eines Außenaufzugs, Errichtung einer neuen Heizungsanlage
+- TOP 4.3.6.: Sophie-Stehle-Straße 7 Neubau eines Einfamilienhauses mit Garage
+- TOP 4.3.7.: Palestrinastraße 19 Abbruch und Neubau eines Wohngebäudes mit Tiefgarage / Haus 1 - VORBESCHEID
+- TOP 4.3.8.: Palestrinastraße 19 Abbruch und Neubau eines Wohngebäudes mit Tiefgarage / Haus 2 - VORBESCHEID
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Baustelle an der Südlichen Auffahrtsallee / Ecke Montenstraße" sowie "Grundstück Arnulfstraße / Nibelungenstraße" - Antwortschreiben der LBK - Bezug: TOP 4.2.1 aus 02/2024 -
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Keine neuen Bürohäuser
+- TOP 4.5.2.: GI und Umbau der Jutier- und Tonnenhalle mit Neubau einer Tiefgarage - Informationsschreiben des BAU z.K.
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Platzfläche Ambigon, Nymphenburg Süd
+- TOP 4.6.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Reduzierung der Straßenreinigung in der Maillingerstraße
+- TOP 5.1.2.: (E) Einrichtung eines Spiel- und Auslaufplatzes für Hunde in Neuhausen
+- TOP 5.1.3.: (E) Keine kommerziellen Veranstaltungen in Grünanlagen!
+- TOP 5.1.4.: (E) Übersicht über alle Ausnahmegenehmigungen für Veranstaltungen in Grünanlagen!
+- TOP 5.1.5.: (E) Information des BA über jede Ausnahme vom Veranstaltungsverbot in Grünanlagen!
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: Hundeplage Arnulfpark / Kleinkindspielplatz
+- TOP 5.2.2.: Mehr Grün im Bereich "Hirschgarten" (westlich der Brücke) und im Bereich von der S-Bahnstation "Donnersbergerbrücke" in Richtung Arnulfstraße
+- TOP 5.2.3.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Christbaumsammelstelle versetzen / Versauerung der Böden von Grünarealen"
+- TOP 5.2.4.: Leonrodplatz vor Edeka --> Mülleimer
+- TOP 5.2.5.: Kreislaufschrank für Neuhausen
+- TOP 5.2.6.: Herrenloses Fahrrad steht seit 2020 angekettet im Grünstreifen Höhe Waisenhausstraße 76 / 78 und zwei weitere Fahrräder sind seitdem dazugekommen
+- TOP 5.2.7.: Donnersbergerstraße 16 - "Schrott-Räder"
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Suchkreismeldung zu Mobilfunkanlagen: Versorgungsziel Neuhausen-Nymphenburg - Stellungnahmeersuchen des RKU -
+- TOP 5.3.2.: Anhörung zu Baumfällungsantrag: Rheingoldstraße 10
+- TOP 5.3.3.: Anhörung zu Baumfällungsantrag: Nördliche Auffahrtsallee 75
+- TOP 5.3.4.: Anhörung zu Baumfällungsantrag: Romanstraße 88
+- TOP 5.3.5.: Anhörung zu Baumfällungsantrag: Romanstraße 78 - 82
+- TOP 5.3.6.: Anhörung zu Baumfällungsantrag: Zamboninistraße 7 A
+- TOP 5.3.7.: Anhörung zu Baumfällungsantrag: Heßstraße 121
+- TOP 5.3.8.: Anhörung zu Baumfällungsantrag: Mettenstraße 54 - 70
+- TOP 5.3.9.: Anhörung der Bezirksausschüsse zur Beschlussvorlage "Änderung der Straßenreinigungssatzung" Sitzungsvorlage Nr. 20-26 / V 12815
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Bürgeranliegen an den Bezirksausschuss 9 Neuhausen-Nymphenburg zum Thema "Taubenfütterung im Bereich der Rosa-Bavarese-Straße 1-5" mit der Bitte an das KVR um Prüfung des Standortvorschlags am S-Bahnhof Laim - Antwortschreiben des KVR (Stadttaubenmanagement) - Bezug: TOP 5.4.2 aus 01/2024 -
+- TOP 5.4.2.: Fernwärme Nymphenburg - Bezug: TOP 5.4.1 aus 12/2023 - WV in 04/2024 -
+- TOP 5.4.3.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Müllplatz Landshuter Allee 4" - Antwortschreiben des BAU - Bezug: TOP 5.2.6 aus 03/2024 -
+- TOP 5.4.4.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Baumpflanzung Volpinistraße" - Antwortschreiben des BAU - Bezug: TOP 5.2.6 aus 01/2024 -
+- TOP 5.4.5.: Antrag - Solarbetriebene und intelligente Mülleimer für Neuhausen-Nymphenburg
+- TOP 5.4.6.: Sofortiger Stopp der Ausgabe von Green-City-Pflanzen an neue Grünpaten --> Bürgeranliegen + Antwortschreiben des BAU z.K.
+- TOP 5.4.7.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Display PV-Anlage Straßenreinigungsstützpunkt Arnulfstraße 288" - Antwortschreiben des BAU - Bezug: TOP 5.2.9 (Ziffer 1) aus 02/2024 -
+- TOP 5.4.8.: Zustände Postwiese und Spielplatz - Antwortschreiben des BAU z.K. - Bezug: TOP 5.2.6 aus 02/2024 -
+- TOP 5.4.9.: Antrag - Aufstellen von Containern für Leichtverpackungen an der Sedlmayrstraße / Arnulfstraße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV --> Blutenburgstraße 61-65, 80636 München Grabenlose Kanalsanierung in Nachtarbeit vom 15.04.2024 bis 18.04.2024
+- TOP 5.5.2.: Beschwerde Baustellenstraße zweite Stammstrecke
+- TOP 5.5.3.: Lärmbelastung Anwohner durch neue Station Laim
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 5.6.2.: Luftreinhalteplan
+- TOP 5.6.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Beratungsstelle für Natürliche Geburt und Elternsein e.V. 15-jähriges Jubiläum von wellcome München am 15.04.2024 1.154,00 Euro; Az. 0262.0-9-0729
+- TOP 6.1.2.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V. Treff Mosaik „Ferienprogramm Pfingstferien 2024 vom 21.05.2024 – 29.05.2024“ 1.614,75 € / AZ: 0262.0-9-0740
+- TOP 6.1.3.: (E) Stadtbezirksbudget Verein für Stadtteilkultur Neuhausen-Nymphenburg e.V. „Golden Age Disco“ vom 30.04.2024 bis 31.12.2024 3.396,10 Euro; Az. 0262.0-9-0736
+- TOP 6.1.4.: (E) Stadtbezirksbudget AWO Begegnungszentrum Reinmarplatz Begleitendes Projekt für Jugendliche zur Gewalt- und Konfliktprävention vom 02.05.2024 bis 02.05.2025 5.000,00 Euro; Az. 0262.0-9-0744
+- TOP 7.1.8.: (N) (E) Stadtbezirksbudget Initiative „Paradiessucher“ Theaterprojekt mit Jugendlichen „Paradiessucher“ vom 01.07. bis 31.12.2024 3.650,00 Euro; Az. 0262.0-9-0742
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Platzierung Dixi-Klo Grünwaldpark
+- TOP 6.2.2.: BA 9 Neuhausen-Nymphenburg: Antrag - Das Demokratiemobil stärken - Schaffung weiterer Stellen.
+- TOP 6.2.3.: Fraktion DIE LINKE: Antrag - Wir brauchen ein größeres Bürgerbüro in Neuhausen-Nymphenburg! - Bezug: TOP 6.2.3 aus 03/2024 - WV in 04/2024 -
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025
+- TOP 6.3.2.: Fortschreibung Standortsicherung Bürgerbüros - Anhörung nach § 13 BA-Satzung - Stellungnahmeersuchen des KVR bis zum 24.04.2024 -
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: CSU-Fraktion: Antrag - Adventszauber vorm Schloss Nymphenburg Einrichtung eines Weihnachtsmarkts vorm Schloss Nymphenburg --> Weitergeleitet an die Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen - Antwortschreiben - Bezug TOP 6.2.1 aus 02/2024 -
+- TOP 6.4.2.: Nachfrage des BA 9 - Flächen für GOROD - Antwortschreiben des KR - Bezug: TOP 6.4.1 aus 09/2023 -
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Postbank-Filiale Winthirstraße 4-6; Wegfall von Post- und DHL-Dienstleistungen - Informationsschreiben des RAW z.K.
+- TOP 6.5.2.: Vollzug der Erhaltungssatzung "Neuhausen"
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Berichte der Beauftragten
+- TOP 6.6.2.: Öffentlichkeitsarbeit des UA
+- TOP 6.6.3.: AKIM in Neuhausen-Nymphenburg
+- TOP 6.6.4.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Theater Perlach e.V. Theaterstück „Wir wollten Wölfe sein“ von Mai bis September 2024 7.730,00 Euro; Az. 0262.0-9-0732
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative „Tradition in Transition“ Ausstellung „Tradition in Transition“ vom 13.05. bis 20.05.2024 3.540,00 Euro; Az. 0262.0-9-0725
+- TOP 7.1.3.: (E) Stadtbezirksbudget Kunst und Kulturverein KulturBox e.V. Kulturfestival „Piano Summer“ 2024 7.000,00 Euro; Az. 0262.0-9-0728
+- TOP 7.1.4.: (E) Stadtbezirksbudget Initiative „Mystic Choir Kollektiv“ „Walpurgisnacht 2024 – Wir erobern uns die Nacht zurück am 30.04.2024“ 2.700,00 € / AZ: 0262.0-9-0739
+- TOP 7.1.5.: (E) Stadtbezirksbudget You e.V. Ausstellung „Was niemals stirbt. Das Leben von Takashi und Midori Nagai“ 5.430,90 Euro; Az. 0262.0-9-0735
+- TOP 7.1.6.: (E) Stadtbezirksbudget Initiative „Alice im Wunderland“ Theaterstück „Alice im Wunderland“ 4.184,00 Euro; Az. 0262.0-9-0741
+- TOP 7.1.7.: (E) Stadtbezirksbudget Matri Mandir Kulturverein e.V. Durgapuja Fest 2024 7.127,00 Euro; Az. 0262.0-9-0743
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.2.1.: Vorschlag aus dem UA Kultur BA 25 - Bemalung S-Bahnhof Hirschgarten
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 7.6.2.: Berichte Veranstaltungen
+- TOP 7.6.3.: Bericht und Empfehlung der Initiative "Graffiti Rückwand Wertstoffhof"
+- TOP 7.6.4.: Vorstellung "Kreativlabor open" - Tag der offenen Tür am 13. und 14. Juli (Projektvorstellung durch die Produktionsleitung)
+- TOP 7.6.5.: Anschreiben des BA 9 zu "Das Vinzenz als freie Bühne" --> Antwortschreiben des KULT zur Kenntnisnahme - Bezug: TOP 7.6.6 aus 02/2024 -
+- TOP 7.6.6.: Terminankündigung "Erinnerungszeichen in Neuhausen-Nymphenburg" am 17.05.2024
+- TOP 7.6.7.: Vorstellung Geschäftsführerin Neuhauser-Trafo
+- TOP 7.6.8.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Freundeskreis der städt. Rudolf-Diesel-Realschule Kulturwoche der städt. Rudolf-Diesel-Realschule vom 22.07. bis 24.07.2024 5.423,00 Euro; Az. 0262.0-9-0731
+- TOP 8.1.2.: (E) Stadtbezirksbudget FC Teutonia München Anschaffung einer Baumbank (Rundbank) 450,00 Euro; Az. 0262.0-9-0730
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: Samuel-Heinicke-Realschule - Gebäudeerneuerung / Klimaanpassung
+- TOP 8.2.2.: Die FT Gern und die Sportlerinnen
+- TOP 8.2.3.: Öffentlicher Fußballplatz in Neuhausen - Bezug: TOP 8.2.4 aus 03/2024 - WV in 04/2024 -
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Zukunft Elterninitiativen des Waisenhaus-Geländes - Antwortschreiben des SOZ
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 8.6.2.: Termin des BA mit dem RBS zum Thema "Schulhoföffnung"
+- TOP 8.6.3.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2024 bis 2028 (Anschreiben der Stadtkämmerei + Selektion für den Stadtbezirk 9) - Rückmeldefrist bis zum 29.04.2024 -
+- TOP 9.3.2.: Anhörung Veranstaltung im Freien in einer städtischen Grünanlage hier: Frühling in Blau und Gelb am 18.05.2024 im Hirschgarten - Stellungnahmeersuchen des KVR bis zum 25.04.2024 -
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gemäß § 29 StVO hier: Johanniter / LiLaLu Girls-Boys-Day am 28.04.2024 auf dem Rotkreuzplatz - Stellungnahmeersuchen des KVR bis zum 11.04.2024 -
+- TOP 9.5.2.: Europawahl am 09.06.2024; Einteilung der Wahlbezirke und Wahlräume im 9. Stadtbezirk - Stellungnahmeersuchen des KVR bis zum 15.04.2024 -
+- TOP 9.5.3.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gemäß § 29 StVO hier: Bürger*innenbeteiligung des BA 9 am 14.04.2024; Platz zwischen Volkartstraße 84 und Dom-Pedro-Straße 9 B - Stellungnahmeersuchen des KVR bis zum 05.04.2024 -
+- TOP 9.5.4.: Anhörung Veranstaltung in städtischen Grünanlagen und auf öffentlichem Verkehrsgrund hier: Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt, Mai 2024 bis Oktober 2024 - Stellungnahmeersuchen des KVR bis zum 22.04.2024 -
+- TOP 9.6: Verschiedenes
+- TOP 10.: Nicht-öffentliche Sitzung
+- TOP 5.6.4.: Luftreinhalteplan
+- TOP 9.3.3.: Anhörung: Auf- und Abbau einer Veranstaltung in einer Grünanlage hier: AUF- und ABBAU "Sommer Tollwood Festival 2024" (Aufbau ab 09.05.2024, Abbau bis 11.08.2024; Veranstaltungszeit vom 21.06.2024 bis 21.07.2024; Ort: Theaterfestivalgelände (Spiridon-Louis-Ring) - Stellungnahmeersuchen des KVR bis zum 28.04.2024 -
+- TOP 9.3.4.: Anhörung Veranstaltung im Freien in einer städtischen Grünanlage hier: Himmelfahrtsgottesdienst im Grünwaldpark am 09.05.2024 - Anhörungsersuchen des KVR bis zum 25.04.2024 -
+- TOP 5.2.8.: Wohnanlage Pandion Gardens - Altglascontainer in der Josef-Obenhin-Straße (Ziffer 1 des Anliegens)
+- TOP 5.2.9.: Wohnanlage Pandion Gardens - Überwucherter Bürgersteig in der Sedlmayrstraße 1 (Ziffer 3 des Anliegens)
+- TOP 9.3.5.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund hier: Temporäre Spielstraße Hanebergstraße ab dem 06.06.2024 und weitere Termine - Stellungnahmeersuchen des KVR bis zum 08.05.2024 -
+- TOP 9.3.6.: Anhörung im Freien in einer städtischen Grünanlage hier: Eröffnungsfest Spiellandschaft Stadt am 12.05.2024 am Wasserspielplatz im Hirschgarten - Anhörungsersuchen des KVR bis zum 30.04.2024 -
+- TOP 7.1.9.: Stadtbezirksbudget - Antrag auf Gewährung einer Zuwendung für die Maßnahme "INSIDE KLSDKP" vom 01.04. bis 15.12.2024 (Sitzungsvorlage Nr. 20-26 / V 12446) --> Entscheidung des BA, ob nach dem aktualisierten Kostenplan abgerechnet werden darf - Bezug: TOP 7.1.1 aus 03/2024 -
+- TOP 2.1.: Vorstellung "DAHEIM" im Vierteil (NICHT: Wohnen im Viertel)
+- TOP 3.6.4.: Wohnanlage Pandion Gardens zu Schäringer Straße (Ziffer 2 des Anliegens)
+- TOP 3.6.5.: BA 25: Ortstermin Laimer Unterführung
+- TOP 3.6.6.: Guntherstraße Sanierung Radweg (BA-Antrags-Nr. 20-26 / B 00765)
+- TOP 3.6.7.: Stellungnahme Ablehnung Streckenfahrverbot Landshuter Allee
+- TOP 9.2.1.: Dringlichkeitsantrag zu Händen des Oberbürgermeisters der LH München zum Thema „Erhalt der Filiale des Galeria Kaufhof am Rotkreuzplatz“ als fraktionsübergreifender BA-Antrag
+- TOP 4.6.4.: Elvirastraße 17: einstimmiger Beschluss: WV in 07/2025
+- TOP 4.6.5.: Radwegeverbindung unter der Donnersbergerbrücke
