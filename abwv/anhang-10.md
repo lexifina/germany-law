@@ -1,8 +1,8 @@
-# Anhang 10 Fleischwirtschaft
+# Anhang 10 Schlachtung von Tieren
 
 A Anwendungsbereich
 (1)
-Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Schlachtung, der Bearbeitung und Verarbeitung von Fleisch einschließlich der Darmbearbeitung sowie der Herstellung von Fertiggerichten auf überwiegender Basis von Fleisch stammt.
+Dieser Anhang gilt für Abwasser, dessen Schadstofffracht im Wesentlichen aus der Schlachtung von Tieren und der Darmbearbeitung stammt.
 (2)
 Dieser Anhang gilt nicht für Abwasser aus Kleineinleitungen im Sinne des § 8 des Abwasserabgabengesetzes mit einer Schadstofffracht im Rohabwasser von weniger als 10 kg BSB5 je Woche sowie aus indirekten Kühlsystemen und aus der Betriebswasseraufbereitung.
 B Allgemeine Anforderungen
