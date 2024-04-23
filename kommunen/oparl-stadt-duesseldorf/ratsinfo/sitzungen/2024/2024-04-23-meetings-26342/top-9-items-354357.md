@@ -1,0 +1,8 @@
+# TOP 9: Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I)
+
+- Sitzung: Bauausschuss (2024-04-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/354357
+- Ergebnis: passieren lassen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/128482
