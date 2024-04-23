@@ -1,0 +1,54 @@
+# öffentliche Sitzung des Ausschusses für Mobilität und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-04-23T17:00:00+02:00
+- Ende: 2024-04-23T19:02:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=94
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6957
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6957
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=493501
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung (27.02. und 20.03.) - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.2: Investitionsmittel für den Ortsteil Hermsdorf insbesondere im weiteren Bereich Heinsestrasse - vertagt
+- TOP 3.3: Mobilität in Reinickendorf sichern, Verkehrsbelastung verringern - im Ausschuss abgelehnt
+- TOP 3.4: Anbindung des Schumacher Quartiers an den ÖPNV - im Ausschuss abgelehnt
+- TOP 3.5: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen II - im Ausschuss abgelehnt
+- TOP 3.6: Erhöhung der Verkehrssicherheit für Radfahrende in Kreuzungsbereichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.7: Parkraumbewirtschaftung in Frohnau und Hermsdorf - im Ausschuss abgelehnt
+- TOP 3.8: Straßenüberflutungen beim Platenhofer Weg entgegenwirken! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.9: A111-Sanierung: Keine Umleitungen durch Heiligensee! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.10: Standorte für Fahrradparkhäuser vorschlagen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.11: Buslinie 322 - Fahrzeiten anpassen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.12: Zusätzliche Fahrradständer an der Bushaltestelle Heiligenseestraße in Höhe Konradshöher Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.13: Dialog Display Schulzendorfer Straße in Hermsdorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.14: Zaun zum S-Bahn Damm instand setzen - vertagt
+- TOP 3.15: Lärmschutz für Anwohner an Bahnstrecke Frohnau - mit Änderungen im Ausschuss beschlossen
+- TOP 3.16: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - vertagt
+- TOP 3.17: Fahrradwege Heiligensee - erledigt
+- TOP 3.18: Überprüfung und Instandsetzung Beleuchtungsanlage Beyschlagtunnel A111 - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.19: Reparatur des Erdlochs auf dem Bibliotheksparkplatz der Humboldt-Bibliothek - erledigt
+- TOP 3.20: Fahrradweg Heiligenseestraße - vertagt
+- TOP 3.21: Wartehäuschen auch am S-Bahnhof Hermsdorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.22: Elektromobilität durch reservierte Parkflächen unterstützen - im Ausschuss abgelehnt
+- TOP 3.23: Radverkehrszählstellen einrichten - vertagt
+- TOP 3.24: Bodenbelag in der Schramberger Straße sanieren - vertagt
+- TOP 3.25: Sicherer Gehweg in der Zeltinger Straße - vertagt
+- TOP 3.26: Zufahrt Koca-Sinan-Moschee sanieren und barrierefrei gestalten - vertagt
+- TOP 3.27: Beseitigung von Angst-Orten - vertagt
+- TOP 3.28: Verkehrssicherheit in Heiligensee - vertagt
+- TOP 3.29: Städtebauliche Integration und Erhöhung der Verkehrssicherheit im Kreuzungsbereich Habicht-/Specht-/Dohlenstraße - vertagt
+- TOP 3.30: ParkYourBike in Reinickendorf nutzbar machen - vertagt
+- TOP 3.31: BVG-Auslastungsinfo BETA auf neuen Stand bringen - vertagt
+- TOP 3.32: Versickerungsmulden für den Maximiliankorso - vertagt
+- TOP 3.33: Beschilderung der bezirklichen Radrouten - vertagt
+- TOP 3.34: Eingeschränktes Halteverbot in der Horber Straße - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
