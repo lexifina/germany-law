@@ -1,0 +1,56 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2024-04-23T18:00:00+02:00
+- Ende: 2024-04-23T23:30:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZabz3hgCqKBWp6jF_VAXFN8
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6183
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYwPynI2IpIhCJFiU1tUZtTk7udGG5lzsYdv0gZOjWlq/Einladung_Rat_23.04.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYcjPE6QZA7xLPdvkTbRmBpCCATJAkH3rZy26JP6kiBZ/Oeffentliche_Niederschrift_Rat_23.04.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2021 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Einbringung des Entwurfs des Jahresabschlusses zum 31.12.2022 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2024/2025 und seiner Anlagen
+- TOP 8.1.: Haushaltsreden
+- TOP 8.2.: Einwendungen gegen den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2024/2025 mit ihren Anlagen - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.3.: Neufassung der Satzung über die Errichtung und Unterhaltung von Obdachlosenunterkünften und der Gebührensatzung für die Benutzung der Obdachlosenunterkünfte - Einstimmig, 0 Enthaltungen
+- TOP 8.4.: Errichtung einer Wohneinrichtung für Geflüchtete - 21 Ja-Stimmen, 14 Nein-Stimmen, 2 Enthaltungen
+- TOP 8.5.: Unterbringung von zugewiesenen Geflüchteten - Einstimmig, 1 Enthaltung
+- TOP 8.5.1.: SPD-Änderungsantrag zur Vorlage 79/2024: Unbedingte Trennung der Themen „Unterbringung geflüchteter Personen“ und „Weiterer Betrieb des Schulschwimmbads“
+- TOP 8.6.: Antrag des Seniorenbeirates der Stadt Wesseling: Einrichtung einer Schuldnerberatungsstelle für die Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 8.7.: Rückgabe der Trägerschaft für die Kindertageseinrichtung Wilhelm-Rieländer-Str. von „Dibber Deutschland“ und Übernahme der Trägerschaft durch die Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 8.8.: Einsatz von Kita-Helferinnen und -Helfern in städtischen Kindertageseinrichtungen - Einstimmig, 0 Enthaltungen
+- TOP 8.9.: Antrag der SPD-Fraktion: Kommunale Betriebsprüfer*in für die Gewerbesteuer - 16 Ja-Stimmen, 21 Nein-Stimmen, 0 EnthaltungenDer Antrag ist somit abgelehnt.
+- TOP 8.10.: Antrag der SPD-Fraktion zur Ergänzung der Hauptsatzung: Gewährung einer Aufwandsentschädigung für sämtliche Ausschussvorsitzende als Sitzungsgeld - 15 Ja-Stimmen, 21 Nein-Stimmen, 1 EnthaltungDer Antrag ist somit abgelehnt.
+- TOP 8.11.: 2. Veränderungsnachweis und Feststellung der Budgets
+- TOP 8.12.: Haushalt 2024/2025: Stellenplan - Einstimmig, 0 EnthaltungenIm Anschluss erfolgt eine Sitzungsunterbrechung von 22:15 Uhr bis 22:50 Uhr.
+- TOP 8.13.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für die Wirtschaftsjahre 2024 und 2025 - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.14.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für die Wirtschaftsjahre 2024 und 2025 - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.15.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für die Wirtschaftsjahre 2024 und 2025 - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.16.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für die Wirtschaftsjahre 2024 und 2025 - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.17.: Leitentscheidungen
+- TOP 8.18.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2024/2025
+- TOP 9.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer überplanmäßigen Ausgabe - 31 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 10.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer überplanmäßigen Ausgabe - Einstimmig, 0 Enthaltungen
+- TOP 11.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - Einstimmig, 0 Enthaltungen
+- TOP 12.: Überarbeitung der Richtlinie zur Vergabe des Integrationspreises der Stadt Wesseling - Einstimmig, 1 Enthaltung
+- TOP 13.: Genehmigung einer Dringlichkeitsentscheidung: hier: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Stadt Brühl und der Stadt Hürth zu einem infrastrukturellen Angebot an der Pestalozzischule Brühl - Einstimmig, 0 Enthaltungen
+- TOP 14.: Genehmigung einer Dienstreise in die Partnerstadt Leuna - Einstimmig, 0 Enthaltungen
+- TOP 15.: Mitteilungen und Anfragen
+- TOP 15.1.: Belebung der Städtepartnerschaft zwischen West Devon und Wesseling
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bildung einer Einigungsstelle gemäß § 67 Abs. 1 Landespersonalvertretungsgesetz (LPVG) - Einstimmig, 0 Enthaltungen
+- TOP 2.: Mitteilungen und Anfragen
+- TOP 3.: Presseveröffentlichungen
