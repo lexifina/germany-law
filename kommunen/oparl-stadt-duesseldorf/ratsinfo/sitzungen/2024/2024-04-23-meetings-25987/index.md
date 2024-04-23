@@ -1,0 +1,58 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-23T17:00:00+02:00
+- Ende: 2024-04-23T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25987
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25987
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Vertretungen betroffener Bevölkerungsgruppen (Senioren) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Bebauungsplan-Vorentwurf Nr. 03/042 - Witzelstraße/Mecumstraße - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Volmerswerther Straße 336a - Volmerswertherstraße 340a: Errichtung von 3 Wohnhäusern - einstimmig beschlossen
+- TOP 5.4: Aderkirchweg 52 -54: Errichtung von zwei Mehrfamilienhäusern - einstimmig beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Präsentation der Kriminalitäts- und Unfallstatistik 2023 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 6.2: Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I) - einstimmig beschlossen
+- TOP 6.3: Klimaangepasste Aufwertung Quartiersplatz Dormagener Straße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - abweichend beschlossen
+- TOP 6.4: Ulenbergstraße – Einrichtung einer gesicherten Querungshilfe (Mittelinsel mit Fußgängerüberweg) - einstimmig beschlossen
+- TOP 6.5: Festlegung des Trassenverlaufs des Radschnellweg Neuss, Düsseldorf, Langengeld im Rahmen des Linienbestimmungsverfahrens - einstimmig beschlossen
+- TOP 6.6: Errichtung der Mobilitätsstation Fürstenplatz im Kontext der Richtlinie zur Förderung der vernetzten Mobilität und des Mobilitätsmanagements (FöRi-MM) - einstimmig beschlossen
+- TOP 6.7: Errichtung der Mobilitätsstation Hamm S im Kontext der Richtlinie zur Förderung der vernetzten Mobilität und des Mobilitätsmanagements (FöRi-MM) - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhalt - Haushaltsjahr 2024 Stadtbezirk 3 - Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - abweichend beschlossen
+- TOP 7.3: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 7.4: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Situation der insolventen Wohnungsbauunternehmen im Stadtbezirk 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.1.3: Sachstand Quartier Mintropplatz (Anfrage BÜNDNIS 90/DIE GRÜNEN, SPD) - zur Kenntnis genommen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Fürstenwall 186a (Anfrage BÜNDNINS 90/DIE GRÜNEN) - vertagt
+- TOP 8.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8: NAchbarschaftszone - Schlossmannstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Geschwindigkeit auf der Aachener Straße zwischen Aachener Platz und Volmerswerther Straße auf Tempo 30 reduzieren. (Antrag BÜNDNIS 90/DIE GRÜNEN) - abweichend beschlossen
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Ersatzflächen suchen - zurückgezogen
+- TOP 10.2: Gestaltung Brunnenstraße - zur Kenntnis genommen
+- TOP 10.3: Nachbarschaftszone Schlossmannstraße - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
