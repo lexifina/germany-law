@@ -1,0 +1,54 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-04-23T17:00:00+02:00
+- Ende: 2024-04-23T19:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13693
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13693
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00547724.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 20.02.2024
+- TOP 4: Eingänge/Mitteilungen
+- TOP 4.1: Vorstellung Arbeitsprogramm - Amt für Immobilienmanagement
+- TOP 5: Wohnen
+- TOP 5.1: Bericht zur Umsetzung des Gesetzes zur Erhöhung des Wohngeldes (Wohngeld-Plus-Gesetz) - zur Kenntnis genommen
+- TOP 6: Liegenschaften
+- TOP 6.1: Baugebiet "Amelsbüren - Nordwestlich Am Dornbusch" Vermarktungskonzept für Mehrfamilienhaus-Grundstücke und Übertragung von Grundstücken auf die Wohn + Stadtbau GmbH - mehrheitlich geändert beschlossen
+- TOP 6.2: Baugebiet "Albachten - Südlich Weseler Straße / Östlich Höhe Geist" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - mehrheitlich geändert beschlossen
+- TOP 7: Finanzen
+- TOP 7.1: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2024 - einstimmig beschlossen
+- TOP 7.2: Antrag der CDU an den Rat (A-R/0074/2023) – Qualität statt billig – Für einen zukunftsfähigen und leistungsstarken Busverkehr in Münster - ohne Beschlussfassung geschoben
+- TOP 7.3: Bauwerke Münster GmbH: Beschlussfassung über die Genehmigung einer Geschäftsordnung für den Aufsichtsrat (GO AR) - einstimmig beschlossen
+- TOP 7.4: Digitaler Haushalt - einstimmig beschlossen
+- TOP 7.5: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt - zur Kenntnis genommen
+- TOP 7.6: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 7.7: Gigabitversorgung im Stadtgebiet Münster - Ausbau der grauen Flecken im Rahmen der neuen Richtlinie zur Förderung des Gigabitausbaus in Deutschland (Gigabit-RL 2.0) - einstimmig beschlossen
+- TOP 7.8: Bedarfsplan für den Brandschutz und die Hilfeleistung in der Stadt Münster (Brandschutzbedarfsplan) Fortschreibung - von der Tagesordnung abgesetzt
+- TOP 7.9: "Arbeitswelt. Zukunft." Neukonzeption der städtischen Büroraumplanung und Baubeschluss für das Stadthaus 4 - mehrheitlich geändert beschlossen
+- TOP 7.10: Weiterführung und Ausweitung des Pilotprojektes LOOPmünster - ÖPNV on Demand - mehrheitlich geändert beschlossen
+- TOP 7.11: Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 7.12: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - von der Tagesordnung abgesetzt
+- TOP 7.13: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.05.2024 bis 31.07.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 7.14: Erhöhung des Betriebskostenzuschusses f. d. den Betrieb der Jugendverkehrsschule Münster - einstimmig beschlossen
+- TOP 7.15: Freiwilliger städtischer Zuschuss zu den gesetzlichen Trägeranteilen von öffentlich-geförderten Kindertageseinrichtungen in Münster - einstimmig geändert beschlossen
+- TOP 7.16: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow - einstimmig geändert beschlossen
+- TOP 7.16.1: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow
+- TOP 7.17: Überleitung der außerunterrichtlichen Angebote (OGS) der Pötterhoekschule - einstimmig beschlossen
+- TOP 7.18: Überleitung der außerunterrichtlichen Angebote (OGS) der Hermannschule - einstimmig beschlossen
+- TOP 7.19: Überleitung der außerunterrichtlichen Angebote (OGS) der Overbergschule - einstimmig beschlossen
+- TOP 7.20: Entgeltordnung für das Stadtmuseum - einstimmig beschlossen
+- TOP 7.21: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2022/2023 - einstimmig beschlossen
+- TOP 7.22: Baubeschluss - einstimmig beschlossen
+- TOP 7.23: Anbringung von Energieausweisen in öffentlichen Gebäuden - einstimmig beschlossen
+- TOP 7.24: Sanierung Vereinssporthalle York, 2. Bauabschnitt - einstimmig beschlossen
+- TOP 7.24.1: Sanierung Vereinssporthalle York, 2. Bauabschnitt
+- TOP 7.25: Entwicklung des ehemaligen Offizierskasinos im York-Quartier zu einem Bürger- und Begegnungshaus inkl. Bürgerpark York - ohne Beschlussfassung geschoben
+- TOP 8: Verschiedenes
