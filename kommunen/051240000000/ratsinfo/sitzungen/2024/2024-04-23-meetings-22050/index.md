@@ -1,0 +1,69 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-04-23T16:00:00+02:00
+- Ende: 2024-04-23T17:25:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22050
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22050
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00328973.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00330337.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Lagebericht 2022 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2023 der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2022 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2022 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan GMW 2024 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2024 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2023 der Bundesgartenschau Wuppertal 2031 gGmbH - ungeändert beschlossen
+- TOP 3.2: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2023/2024 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 3.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2023 der APH Service GmbH - ungeändert beschlossen
+- TOP 3.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2024 für die Einrichtung Am Diek - ungeändert beschlossen
+- TOP 3.5: Abberufung der stellvertretenden Betriebsleitung KIJU - ungeändert beschlossen
+- TOP 3.6: Beteiligungsbericht 2022 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Sachstandsbericht zur Flächenstrategie der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 5.2: Bericht zur Personal- und Organisationsentwicklung 2023 (Personalbericht) - Entgegennahme ohne Beschluss
+- TOP 5.3: Ausbildung von (jungen) Menschen mit kognitiven Einschränkungen bei der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Haushalt der Unteren Naturschutzbehörde & Einsatz von Ersatzgeldern zur Fördermittelakquise - Bürgerantrag nach § 24 GO - ungeändert beschlossen
+- TOP 6.2: Stärkung des privaten Schulbaus bei den weiterführenden Schulen - ungeändert beschlossen
+- TOP 6.3: Projektmanagement "ELBERFELD 2030" Finanzierungs- und Durchführungsbeschluss - ungeändert beschlossen
+- TOP 6.4: Vorkaufssatzung für das Gebiet Vogelsaue in Wuppertal Elberfeld-West - ungeändert beschlossen
+- TOP 6.5: Strategische Kooperation mit der Plattform / App Bliggit - ungeändert beschlossen
+- TOP 6.6: Überplanmäßige Mittelbereitstellung im Versicherungswesen - ungeändert beschlossen
+- TOP 6.7: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Investitions- und Kassenkredite zum 31.03.2024 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Feststellung des Jahresabschlusses 2022 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.2: Gewerbesteuer - Entgegennahme ohne Beschluss
+- TOP 9.2.1: Antwort der Verwaltung auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 20.03.2024 zum Thema „Gewerbesteuer" - Entgegennahme ohne Beschluss
+- TOP 9.3: Grundsteuer
+- TOP 9.3.1: Struktur der Grundsteuer und Auswirkungen der Neuberechnung - Entgegennahme ohne Beschluss
+- TOP 9.3.2: Antwort der Verwaltung auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.04.2024 zum Thema „Struktur der Grundsteuer und Auswirkungen der Neuberechnung" - Entgegennahme ohne Beschluss
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW I. Quartal 2024 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 12.1.1: Entlastung Betriebsleitung Jahresabschluss 2022 WAW - ungeändert beschlossen
+- TOP 12.2: Fortschreibung des Wasserversorgungskonzeptes gemäß § 38 Abs. 3 Landeswassergesetz NRW (LWG) - ungeändert beschlossen
+- TOP 12.3: Vertrag über die Durchleitung von Abwasser aus dem Einzugsgebiet der Kläranlage Schwelm durch das Kanalnetz der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
