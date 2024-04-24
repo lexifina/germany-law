@@ -1,7 +1,7 @@
 # Anlage 1 (zu § 5 Absatz 1 Satz 1)
 Gerichte und Verfahrensarten
-Nummer | Gericht oder Staatsanwaltschaft
-Nummer | Gericht oder Staatsanwaltschaft
+Nummer | Gericht, Staatsanwaltschaft oder Bußgeldbehörde
+Nummer | Gericht, Staatsanwaltschaft oder Bußgeldbehörde
 1. | Landgericht Dresden
 2. | Amtsgericht Dresden
 3. | Sozialgericht Chemnitz
@@ -46,5 +46,8 @@ Nummer | Gericht oder Staatsanwaltschaft
 42. | Staatsanwaltschaft Zwickau
 43. | Sozialgericht Dresden
 44. | Generalstaatsanwaltschaft Dresden
+45. | Jobcenter Zwickau, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+46. | Jobcenter Vogtland, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+47. | Landratsamt des Vogtlandkreises
 48. | Sächsisches Oberverwaltungsgericht
 49. | Verwaltungsgericht Dresden
