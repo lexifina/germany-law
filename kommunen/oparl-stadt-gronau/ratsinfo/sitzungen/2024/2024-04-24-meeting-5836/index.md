@@ -1,0 +1,59 @@
+# Rat (38. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-04-24T17:00:00+02:00
+- Ende: 2024-04-24T21:12:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbJi9Lyc5ltDBsY3Hj93qHc
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5836
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdeQUdERw6F5dLWYN2hKmcr51Dqj_KCHBJy9A3dzyugl/Bekanntmachung_Rat_24.04.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-k-VcSQe57OYD5uaeGeZqhIcu_r2SixRcsg6Rqx9hS/Oeffentliche_Niederschrift_Rat_24.04.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 20.03.2024
+- TOP 4.: Beschlusskontrolle
+- TOP 5.: Ausschreibung Trägerschaft OGS und ÜMI Zusätzlicher Finanzbedarf für den Haushalt 2024 Ansatzerhöhung im Produkt 03.01.01 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau - Einstimmig, 2 Enthaltungen
+- TOP 6.1: Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau (Bäume)
+- TOP 7.: Lückenschluss Fahrradstraßen Epe - 28 Jastimmen, 6 Neinstimmen, 9 Enthaltungen
+- TOP 8.: Oberflächenbehandlung auf Stadtstraße und Wirtschaftswege 2024 -Vorzeitige Bereitstellung von Haushaltsmitteln- - 26 Jastimmen, 2 Neinstimmen, 15 Enthaltungen
+- TOP 9.: Abschließende Beratung des Gesamtbudgets 2024 Verabschiedung der Haushaltssatzung
+- TOP 9.1: Abschließende Beratung des Gesamtbudgets 2024 Verabschiedung der Haushaltssatzung
+- TOP 10.: Abschließende Prüfung der Zulässigkeit des kassatorischen Bürgerbegehrens "Stimme für den Bürger" gegen die 1. Änderungssatzung vom 22.06.2023 zur Satzung über die Abfallentsorgung in der Stadt Gronau (Westf.) vom 14.05.2021 (nachfolgend: Abfallentsorgungssatzung) sowie gegen die 2. Änderungssatzung vom 24.10.2023 zur Abfallentsorgungssatzung gem. § 26 Abs. 2 S. 7 Gemeindeordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 11.: Neubau Kita Dinkelnest hier: Raumprogramm - 40 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Antrag der SPD Fraktion: Benennung einer Fläche im Stadtpark als „Platz für Vielfalt und Toleranz“ - 38 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 13.: Anna-Merian-Straße – Korrektur des Straßennamens - 31 Jastimmen, 7 Neinstimmen, 4 Enthaltungen
+- TOP 14.: 115. Änderung des Flächennutzungsplans für den Bereich "Lasterfeld - Biogasanlage Preister", Stadtteil Epe Vorhabenbezogener Bebauungsplan "Biogasanlage Preister", Stadtteil Epe Aufstellungsbeschluss - Einstimmig, 11 Enthaltungen
+- TOP 15.: Leitbild und Markenprozess für die Stadt Gronau - 22 Jastimmen, 13 Neinstimmen, 7 Enthaltungen
+- TOP 16.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - 41 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 18.: Mitteilungen der Verwaltung
+- TOP 18.1: Tag der Städtebauförderung
+- TOP 18.2: Stadtradeln 2024
+- TOP 18.3: Gemeinsames Wahlstudio zur Europawahl am 09.06.2024 mit der Gemeinde Enschede
+- TOP 19.: Anfragen
+- TOP 19.1: Verkehrsversuch Epe Straße (Anfrage von RM Drees)
+- TOP 19.2: Wahlbüros bei der Europawahl für die unmittelbare Briefwahl vor Ort (Anfrage von RM Ricking)
+- TOP 19.3: Foto der Ratsmitglieder (Anfrage von RM Hüsing-Hackfort)
+- TOP 19.4: Ampelanlage Eper Straße/Hermann-Ehlers-Straße (Anfrage von RM Greitenevert)
+- TOP 19.5: Verkehrsversuch Eper Straße (Anfrage von RM Gabbe)
+- TOP 19.6: Ältestenrat am 02.05.2024 (Anfrage von RM Gabbe)
+- TOP 19.7: Verkehrsschild Harberskamp/Riekenhofweg (Anfrage von RM Laschke)
+- TOP 19.8: Schülerverkehr Steinfurter Straße / Laurenzstraße (Anfrage von RM Krefter)
+- TOP 19.9: Wohnungsmarkt (Anfrage von RM Reinhoffer)
+- TOP 19.10: Wasserstoffspeicherung im Eper Venn (Anfrage von RM Doetkotte)
+- TOP 19.11: Sportförderrichtlinie (Anfrage von RM Doetkotte)
+- TOP 19.12: Störungen im Telefonnetz und beim Internet (Anfrage von RM Buchholz)
+- TOP 19.13: Baumkataster (Anfrage von RM Buchholz)
