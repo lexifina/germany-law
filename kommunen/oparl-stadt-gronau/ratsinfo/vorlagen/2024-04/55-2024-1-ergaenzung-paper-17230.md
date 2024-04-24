@@ -1,0 +1,21 @@
+# Anna-Merian-Straße – Korrektur des Straßennamens
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 55/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-04-24
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZU5Js5eSXt6VMKvJ5EFB4b4
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17230
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Anna-Merian-Straße – Korrektur des Straßennamens) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfAKqQ5hKqD_fcKBWHp0-z1r5tE1ZiAQBhVOk7E-cIoU/Beschlussvorlage_55-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Herr Bohn) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSTpXt7GnexyZbwz_qP-JMhVd8BChu_Nx-x2D2taAnQg/Antrag_Herr_Bohn.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Stadtarchiv Merianstrasse) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSwfGjv4yFwQSC4XTVgAqx7wwxdHe2XFXqcNsttb_A1W/Stellungnahme_Stadtarchiv_Merianstrasse.pdf
+- Anlage: Beschlussvorlage (Anna-Merian-Strasse-Lageplan) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUnY-QPAYt9kqZmjckfNg1rZ63oB7DmgE5DvzydhxiNf/Anna-Merian-Strasse-Lageplan.pdf
+- Anlage: Beschlussvorlage (Leitfaden für die Benennung von Straßen, Wegen, Plätzen und Gebäuden) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVxtLGesoIg7aHW-F9GE7TxsEM4QmbQmw3gpt7-hkfRW/Leitfaden_fuer_die_Benennung_von_Strassen-_Wegen-_Plaetzen_und_Gebaeuden.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 10 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZce9rTmEB5MzhJGmMcRXa8q9q8Tfw0-bm-pyYX-Sdh6U/Anlage_TOP_10_-_Auszug_MUK.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 13 - Auszug Rat 21.02.24) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7x31TUYZMhwjiiErXakq6LGeM9lUhZAmhLT9DTjoxc/Anlage_TOP_13_-_Auszug_Rat_21.02.24.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 13 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVFLW1-votXukWP4ZNYQna8ElckC7i8Kg2NGRVqL-2t7/Anlage_TOP_13_-_Auszug_MUK.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6003 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5952 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5834 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5836 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
