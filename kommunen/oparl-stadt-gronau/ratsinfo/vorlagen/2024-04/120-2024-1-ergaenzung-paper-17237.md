@@ -1,0 +1,21 @@
+# Lückenschluss Fahrradstraßen Epe
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 120/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-04-24
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZX1LuW4WA05Ld8sOXamIOR4
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17237
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Lückenschluss Fahrradstraßen Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUH4iw-164znjgH5otv6o6CCBZcbuN2VPC8PyK0fhUFc/Beschlussvorlage_120-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 (Klosterstraße, Zum Bahnhof)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQe5HWmrMKrRD4Nms4K8wQZmV1LeMo_8uZ7JWUTrHaEL/Anlage_1_-Klosterstrasse-_Zum_Bahnhof-.pdf
+- Anlage: Beschlussvorlage (Anlage 2 (Variante 4a und 4b)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZZhu-zhBjzbgBUo3HFFx0Y6BusPpMbEPHFNSoPOxeNE/Anlage_2_-Variante_4a_und_4b-.pdf
+- Anlage: Beschlussvorlage (Anlage 3 (Übersichtsplan)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZH4SJKumPmR5dpE-ltlPmw5UeCe12UAjDi0IRqUTst/Anlage_3_-Uebersichtsplan-.pdf
+- Anlage: Beschlussvorlage (Anlage 4 (Variante 1)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOFOCSG5koThRe4ROqPONPYgUks2xXODEVG4x0OS3b2/Anlage_4_-Variante_1-.pdf
+- Anlage: Beschlussvorlage (Anlage 5 (Variante 2)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSk0OKuMM22_6QNUujHSJLk4YSuZ3pTTWWcTL1deYTsX/Anlage_5_-Variante_2-.pdf
+- Anlage: Beschlussvorlage (Anlage 6 (Variante 3)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUOlBxY969zP6UTZb2HF0td1jbH3kA7h5FQ2L28K1a5E/Anlage_6_-Variante_3-.pdf
+- Anlage: Beschlussvorlage (Anlage 7 (Stellungnahme Fahrradstraßen Epe)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXRrIPY_ufGBYZrphru3wfYRDo1hmHSr7sGsWM19X6kX/Anlage_7_-Stellungnahme_Fahrradstrassen_Epe-.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 7 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfalk9pYhAOQY9JJYV7KP-eq6sdg5QAA8xjYgXDI_ebg/Anlage_TOP_7_-_Auszug_MUK.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5829 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5834 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5836 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
