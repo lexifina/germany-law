@@ -1,0 +1,66 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-04-24T16:06:00+02:00
+- Ende: 2024-04-24T21:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13694
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13694
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00547912.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Korruptionsprävention - einstimmig beschlossen
+- TOP 3: Bearbeitungsstand Ratsanträge - 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 4: KIB-Bericht 2019 bis 2023 - von der Tagesordnung abgesetzt
+- TOP 5: Antrag der CDU an den Rat (A-R/0074/2023) – Qualität statt billig – Für einen zukunftsfähigen und leistungsstarken Busverkehr in Münster - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 7: "Zebrastreifen" in Regenbogenfarben - ohne Beschlussfassung geschoben
+- TOP 8: "Arbeitswelt. Zukunft." Neukonzeption der städtischen Büroraumplanung und Baubeschluss für das Stadthaus 4 - ohne Beschlussfassung geschoben
+- TOP 8.1: "Arbeitswelt. Zukunft." Neukonzeption der städtischen Büroraumplanung und Baubeschluss für das Stadthaus 4
+- TOP 9: Gigabitversorgung im Stadtgebiet Münster - Ausbau der grauen Flecken im Rahmen der neuen Richtlinie zur Förderung des Gigabitausbaus in Deutschland (Gigabit-RL 2.0) - einstimmig beschlossen
+- TOP 10: Bauwerke Münster GmbH: Beschlussfassung über die Genehmigung einer Geschäftsordnung für den Aufsichtsrat (GO AR) - einstimmig beschlossen
+- TOP 11: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt - ohne Beschlussfassung geschoben
+- TOP 12: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2024 - einstimmig beschlossen
+- TOP 13: Mitgestaltende Öffentlichkeitsbeteiligung stärken – digitale Beteiligungsinstrumente ausbauen: aktueller Stand und nächste Schritte - von der Tagesordnung abgesetzt
+- TOP 14: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - von der Tagesordnung abgesetzt
+- TOP 15: Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 16: Masterplan Mobilität Münster 2035+ - ohne Beschlussfassung geschoben
+- TOP 17: Integriertes Parkraumkonzept Münster - von der Tagesordnung abgesetzt
+- TOP 18: Einführung von radbox.nrw als neues Buchungs- und Zugangssystem für die Leezenboxen - einstimmig beschlossen
+- TOP 19: Weiterführung und Ausweitung des Pilotprojektes LOOPmünster - ÖPNV on Demand - ohne Beschlussfassung geschoben
+- TOP 20: Öffentlich-rechtliche Vereinbarungen mit dem Kreis Coesfeld und dem Kreis Warendorf - einstimmig beschlossen
+- TOP 21: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.05.2024 bis 31.07.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 22: Eintrittspreise Friedenssaal - einstimmig beschlossen
+- TOP 23: Erhöhung des Betriebskostenzuschusses f. d. den Betrieb der Jugendverkehrsschule Münster - einstimmig beschlossen
+- TOP 24: 1. Änderung des „Allgemeinen Rahmens zur Aufnahme von Schülerinnen und Schülern in die städtischen Schulen ( - einstimmig beschlossen
+- TOP 25: Freiwilliger städtischer Zuschuss zu den gesetzlichen Trägeranteilen von öffentlich-geförderten Kindertageseinrichtungen in Münster - ohne Beschlussfassung geschoben
+- TOP 26: Kommunal finanziertes Personal der Schulsozialarbeit und der Fördeinseln für das Schuljahr 2024/2025 - einstimmig beschlossen
+- TOP 26.1: Kommunal finanziertes Personal der Schulsozialarbeit und der Fördeinseln für das Schuljahr 2024/2025
+- TOP 27: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow - ohne Beschlussfassung geschoben
+- TOP 27.1: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow
+- TOP 28: Überleitung der außerunterrichtlichen Angebote (OGS) der Pötterhoekschule - einstimmig beschlossen
+- TOP 29: Überleitung der außerunterrichtlichen Angebote (OGS) der Hermannschule - einstimmig beschlossen
+- TOP 30: Überleitung der außerunterrichtlichen Angebote (OGS) der Overbergschule - einstimmig beschlossen
+- TOP 31: Entgeltordnung für das Stadtmuseum - einstimmig beschlossen
+- TOP 32: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2022/2023 - einstimmig beschlossen
+- TOP 33: Baubeschluss - einstimmig beschlossen
+- TOP 34: Baugebiet "Amelsbüren - Nordwestlich Am Dornbusch" Vermarktungskonzept für Mehrfamilienhaus-Grundstücke und Übertragung von Grundstücken auf die Wohn + Stadtbau GmbH - ohne Beschlussfassung geschoben
+- TOP 35: Baugebiet "Albachten - Südlich Weseler Straße / Östlich Hohe Geist" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - ohne Beschlussfassung geschoben
+- TOP 36: Sanierung Vereinssporthalle York, 2. Bauabschnitt - einstimmig beschlossen
+- TOP 36.1: Sanierung Vereinssporthalle York, 2. Bauabschnitt
+- TOP 37: Entwicklung des ehemaligen Offizierskasinos im York-Quartier zu einem Bürger- und Begegnungshaus inkl. Bürgerpark York - einstimmig beschlossen
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk West
+- TOP 38.1.1: 133. FNP-Änderung - Beschluss zur Änderung - Vorhabenbezogener B-Plan 648 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 38.2: Stadtbezirk Hiltrup
+- TOP 38.2.1: Veränderungssperre Nr. 115 für den Bereich Hiltrup - Westfalenstraße (gegenüber Hallenbad) - einstimmig beschlossen
+- TOP 38.3: Stadtbezirk Südost
+- TOP 38.3.1: Zweite Änderung des Bebauungsplans Nr. 404: Loddenheide - Albersloher Weg / An den Loddenbüschen [Mosecker] - Satzungsbeschluss - einstimmig beschlossen
+- TOP 39: Verschiedenes
