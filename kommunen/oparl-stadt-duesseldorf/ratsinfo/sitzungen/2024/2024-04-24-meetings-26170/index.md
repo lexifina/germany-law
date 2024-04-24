@@ -1,0 +1,66 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-24T17:00:00+02:00
+- Ende: 2024-04-24T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26170
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26170
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung am 13. März 2024 - einstimmig beschlossen
+- TOP 3: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Landes NRW - Seniorenrat - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Richtlinie zur Vergabe von Fördermitteln für das Hof- und Fassadenprogramm - Empfehlung einstimmig beschlossen
+- TOP 7: Städtebaulicher Workshop Lebendiges Stadtteilzentrum Unterrath (Nr. 06/029 - Mettlacher Straße 55) - Empfehlung abweichend beschlossen
+- TOP 8: Richtlinie zur Vergabe von Zuwendungen aus dem Verfügungsfonds - Empfehlung einstimmig beschlossen
+- TOP 9: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses „Ersatzneubau der zweizügigen Katholischen Grundschule Rather Kreuzweg inkl. Zweifeld-Sporthalle" - Empfehlung einstimmig beschlossen
+- TOP 10: Städtisches Weiterbildungskolleg, Auflösung des Teilstandortes Emil-Barth-Straße 45 und Umzug des Bildungsgangs Abendrealschule an den Standort Rückertstraße 6 - Empfehlung einstimmig beschlossen
+- TOP 11: Ersatzmaßnahme Kinderspielplatz Müllers Wiese / Rather Steig - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - abweichend beschlossen
+- TOP 12: Münsterstraße 400, 400a-j, 402 - Neubau von 11 Mehrfamilienhäusern und einer Tiefgarage - einstimmig beschlossen
+- TOP -: Anfragen (wurden bereits Übersandt)
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der CDU-Fraktion: Realisierung von Mehrgenerationenwohnen und einer Tagespflege für Senioren am Zaunkönigweg - beantwortet
+- TOP 16: Anfrage der SPD-Fraktion: Ahrensplatz - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage der Fraktion BÜ 90/Die Grünen: Sachstand des Projektes "Platz für Jugendliche" auf dem Unterrather Autobahndeckel - beantwortet
+- TOP -: Anfragen
+- TOP 19: Anfrage der SPD-Fraktion: Park- und Halteverbot vor der GGS Max-Halbe-Straße - beantwortet
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage der Fraktion BÜ90/Die Grünen: Flughafenparkplätze auf unbefestigten Flächen und ohne Baugenehmigung am Vogelsanger Weg: Nachfragen zum aktuellen Stand - vertagt
+- TOP 22: Anfrage der Fraktion BÜ90/Die Grünen: Lösungen für die Wurzelaufbrüche auf dem Radweg zwischen der Bochumer Straße und der Theodorstraße - vertagt
+- TOP -: Anträge
+- TOP 23: Antrag der CDU-Fraktion und der FDP-Fraktion: Erhöhung Budget für "Ökologische Erneuerung" und Streichung Budget "Förderung der Kultur" - einstimmig beschlossen
+- TOP 24: Antrag der CDU-Fraktion und der FDP-Fraktion: Neupflanzungen von Bäumen im öffentlichen Raum und auf Sportanlagen sowie Schaffung von Pocket-Parks im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Schulwegsicherung der Gemeinschaftsgrundschule Max-Halbe-Straße 14 - einstimmig beschlossen
+- TOP 26: Antrag der SPD-Fraktion: Umwandlung der Ampel am Rather Kreuzweg Höhe Vallourec in eine Bedarfsampel - einstimmig beschlossen
+- TOP 27: Antrag der FDP-Fraktion: Standortprüfung und Kosten für einen urbanen Photo-Reaktor (Flüssige Bäume) am Mörsenbroicher Ei - mehrheitlich beschlossen
+- TOP 28: Antrag der Fraktion BÜ90/Die Grünen: Anbindung des Unterrather S-Bahnhofs ans Radhauptnetz - abweichend beschlossen
+- TOP 29: Antrag der Fraktion BÜ90/Die Grünen: Angebot für Jugendliche auf Fläche des Opernfundus einplanen - einstimmig beschlossen
+- TOP 30: Antrag der Fraktion BÜ90/Die Grünen: Blumenkübel und Geschwindigkeitsmessung auf der Krahnenburgstraße - mehrheitlich abgelehnt
+- TOP 31: Antrag der Fraktion BÜ90/Die Grünen: Absenkung des Bordsteins an der Ecke Dinslakener Straße/Bottroper Straße - zurückgezogen
+- TOP -: Verwaltungsvorlagen
+- TOP 32: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Projekt Blumenoasen und -schiffchen - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Projekt Blumenkübel und Blumenkästen im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 34: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der KGS St. Franziskus Schule - Theaterpädagogische Werkstatt, Prävention Gewalt / sexueller Missbrauch - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des DJK AGON 08 / Mörsenbroicher Sportverein e. V. Düsseldorf - Sport statt Straße 2024 - einstimmig beschlossen
+- TOP 36: Verfügungsmittel 2024 - Zuschussvergabe 2024 - Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf-Rath Besucherakquise zum Rather Schützen- und Volksfest - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Lavendelhöfe - Vorlage BV6/187/2023 - zur Kenntnis genommen
+- TOP 38: Bau eines barrierefreien Zugangs vom Wohngebiet Mintarder Weg zur Hamborner Straße und bessere Beleuchtung der Treppe - Vorlage BV6/140/2020 - zur Kenntnis genommen
+- TOP 39: Fehlende Begrünung am Rather Kreuzweg - Parkplatz vor dem Bunker - Vorlage BV6/029/2023 - zur Kenntnis genommen
+- TOP 40: Parkscheibenregelung Tiefenbroicher Weg - Vorlage BV6/189/2023 - zur Kenntnis genommen
+- TOP 41: Verbesserung des Zustands der Unterführung Rath S - Vorlage BV6/190/2023 - zur Kenntnis genommen
+- TOP 42: Sicherheit im Stadtbezirk 6 - Vorlage BV6/014/2024 - zur Kenntnis genommen
+- TOP 43: Autobahndeckel A44: Austausch der Laterne entlang des Spazierwegs - Vorlage BV6/045/2024 - zur Kenntnis genommen
+- TOP 44: Baumfällungen im Stadtbezirk 6 ab der 11. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 45: Baumfällungen im Stadtbezirk 6 ab der 14. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 46: Workshopverfahren Unterrather Schwimmbad/Mettlacher Straße - Mehrwert für Unterrath - Vorlage BV6/035/2024 - zur Kenntnis genommen
