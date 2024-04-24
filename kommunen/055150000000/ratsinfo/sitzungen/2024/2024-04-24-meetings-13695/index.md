@@ -1,0 +1,85 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-04-24T16:36:00+02:00
+- Ende: 2024-04-24T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13695
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13695
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00549653.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Unterstützungsmaßnahmen der Stadt Münster für Kitas - Verhinderung der Zahlungsunfähigkeit
+- TOP 1.2: Unterstützungsmaßnahmen der Stadt Münster für Kitas - Refinanzierung der tatsächlichen Personalkosten
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 8.1: Vergabe von Wohnungen an Seniorinnen und Senioren im Baugebiet "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - verwiesen
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Hitzeschutz auf Münsters Schulhöfen und Außenspielflächen der Kitas kurzfristig sicherstellen - verwiesen
+- TOP 11.2: Volle Fahrt Richtung Zukunft - Münster soll Champion im Bereich Batterieforschung bleiben - mehrheitlich geändert beschlossen
+- TOP 11.3: Münster fordert beschleunigten Ausbau der A1 - mehrheitlich abgelehnt
+- TOP 12: Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 13: "Zebrastreifen" in Regenbogenfarben - mehrheitlich geändert beschlossen
+- TOP 14: "Arbeitswelt. Zukunft." Neukonzeption der städtischen Büroraumplanung und Baubeschluss für das Stadthaus 4 - mehrheitlich beschlossen
+- TOP 14.1: "Arbeitswelt. Zukunft." Neukonzeption der städtischen Büroraumplanung und Baubeschluss für das Stadthaus 4
+- TOP 15: Gigabitversorgung im Stadtgebiet Münster - Ausbau der grauen Flecken im Rahmen der neuen Richtlinie zur Förderung des Gigabitausbaus in Deutschland (Gigabit-RL 2.0) - einstimmig beschlossen
+- TOP 16: Bauwerke Münster GmbH: Beschlussfassung über die Genehmigung einer Geschäftsordnung für den Aufsichtsrat (GO AR) - einstimmig beschlossen
+- TOP 17: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt - zur Kenntnis genommen
+- TOP 18: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2024 - einstimmig beschlossen
+- TOP 19: Mitgestaltende Öffentlichkeitsbeteiligung stärken – digitale Beteiligungsinstrumente ausbauen: aktueller Stand und nächste Schritte - von der Tagesordnung abgesetzt
+- TOP 20: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - von der Tagesordnung abgesetzt
+- TOP 21: Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 22: Masterplan Mobilität Münster 2035+ - mehrheitlich geändert beschlossen
+- TOP 23: Integriertes Parkraumkonzept Münster - von der Tagesordnung abgesetzt
+- TOP 24: Einführung von radbox.nrw als neues Buchungs- und Zugangssystem für die Leezenboxen - mehrheitlich beschlossen
+- TOP 25: Weiterführung und Ausweitung des Pilotprojektes LOOPmünster - ÖPNV on Demand - mehrheitlich geändert beschlossen
+- TOP 26: Öffentlich-rechtliche Vereinbarungen mit dem Kreis Coesfeld und dem Kreis Warendorf - einstimmig beschlossen
+- TOP 27: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.05.2024 bis 31.07.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 28: Eintrittspreise Friedenssaal - mehrheitlich beschlossen
+- TOP 29: Erhöhung des Betriebskostenzuschusses f. d. den Betrieb der Jugendverkehrsschule Münster - einstimmig beschlossen
+- TOP 30: 1. Änderung des „Allgemeinen Rahmens zur Aufnahme von Schülerinnen und Schülern in die städtischen Schulen ( - einstimmig beschlossen
+- TOP 31: Freiwilliger städtischer Zuschuss zu den gesetzlichen Trägeranteilen von öffentlich-geförderten Kindertageseinrichtungen in Münster - einstimmig geändert beschlossen
+- TOP 32: Kommunal finanziertes Personal der Schulsozialarbeit und der Fördeinseln für das Schuljahr 2024/2025 - einstimmig beschlossen
+- TOP 32.1: Kommunal finanziertes Personal der Schulsozialarbeit und der Fördeinseln für das Schuljahr 2024/2025
+- TOP 33: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow - einstimmig geändert beschlossen
+- TOP 33.1: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS" sow
+- TOP 34: Überleitung der außerunterrichtlichen Angebote (OGS) der Pötterhoekschule - einstimmig beschlossen
+- TOP 35: Überleitung der außerunterrichtlichen Angebote (OGS) der Hermannschule - einstimmig beschlossen
+- TOP 36: Überleitung der außerunterrichtlichen Angebote (OGS) der Overbergschule - einstimmig beschlossen
+- TOP 37: Entgeltordnung für das Stadtmuseum - mehrheitlich beschlossen
+- TOP 38: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2022/2023 - einstimmig beschlossen
+- TOP 39: Baubeschluss - mehrheitlich beschlossen
+- TOP 40: Baugebiet "Amelsbüren - Nordwestlich Am Dornbusch" Vermarktungskonzept für Mehrfamilienhaus-Grundstücke und Übertragung von Grundstücken auf die Wohn + Stadtbau GmbH - mehrheitlich geändert beschlossen
+- TOP 41: Baugebiet "Albachten - Südlich Weseler Straße / Östlich Hohe Geist" Vermarktungskonzept und Übertragung von Grundstücken an die Wohn + Stadtbau GmbH - mehrheitlich geändert beschlossen
+- TOP 42: Sanierung Vereinssporthalle York, 2. Bauabschnitt - einstimmig beschlossen
+- TOP 42.1: Sanierung Vereinssporthalle York, 2. Bauabschnitt
+- TOP 43: Entwicklung des ehemaligen Offizierskasinos im York-Quartier zu einem Bürger- und Begegnungshaus inkl. Bürgerpark York - einstimmig beschlossen
+- TOP 44: Bauleitplanung
+- TOP 44.1: Stadtbezirk Münster-West
+- TOP 44.1.1: 133. FNP-Änderung - Beschluss zur Änderung - Vorhabenbezogener B-Plan 648 - Beschluss zur Aufstellung - mehrheitlich geändert beschlossen
+- TOP 44.2: Stadtbezirk Münster-Hiltrup
+- TOP 44.2.1: Veränderungssperre Nr. 115 für den Bereich Hiltrup - Westfalenstraße (gegenüber Hallenbad) - einstimmig beschlossen
+- TOP 44.3: Stadtbezirk Münster-Südost
+- TOP 44.3.1: Zweite Änderung des Bebauungsplans Nr. 404: Loddenheide - Albersloher Weg / An den Loddenbüschen [Mosecker] - Satzungsbeschluss - einstimmig beschlossen
+- TOP 45: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 45.1: Weg mit den Bürokratielasten, rein ins Handeln - Ein kommunales Bürokratieabbau-Programm aufstellen - verwiesen
+- TOP 45.2: Eine Strategie für die Sanierung und Neuanlage von Kunstrasenplätzen - verwiesen
+- TOP 45.3: Antrag zur vollständigen Digitalisierung der Verwaltungsdienstleistungen in Münster und Einführung eines Dienste-Portals - verwiesen
+- TOP 45.4: Gedenkstättenfahrten gegen das Vergessen! - verwiesen
+- TOP 45.5: Demografischen Wandel im Blick - Planen wir für die Zukunft - verwiesen
+- TOP 46: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 46.1: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 47: Verschiedenes
