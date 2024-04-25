@@ -1,0 +1,94 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2024-04-25T17:30:00+02:00
+- Ende: 2024-04-25T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6116
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6116
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=574103
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Zerstörung des Biotops auf dem Gelände der Charlotte-Pfeffer-Schule - beantwortet
+- TOP 2.3: Nachfragen zu angedachten und umgesetzten Verkehrsberuhigungsmaßnahmen in Berlin Mitte sowie Widersprüche/ Beschwerden und Beteiligung aller Akteure - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Wahl eines Stadtrates für das Bezirksamt Mitte - (offen)
+- TOP 4.1: Wahl eines Stadtrates - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: des Vorstandes - erledigt
+- TOP 5.2: der Fraktionen - erledigt
+- TOP 5.3: der Ausschüsse - erledigt
+- TOP 5.4: des Bezirksamtes - erledigt
+- TOP 6: Konsenslisten - (offen)
+- TOP 6.1: Drei 24/7-Einrichtungen für wohnungslose Menschen in Mitte - überwiesen
+- TOP 6.2: Leopoldplatz häufiger reinigen - für mehr Aufenthaltsqualität und Sicherheit - überwiesen
+- TOP 6.3: Wohnraum im Schillerpark-Center Müllerstr. schaffen - überwiesen
+- TOP 6.4: Förderung des „Weimarer Dreieck“ in der Hauptstadtmitte - überwiesen
+- TOP 6.5: Belegungs- und Mietpreisbindungen sichern - überwiesen
+- TOP 6.6: Trinkbrunnen für Grünanlagen - überwiesen
+- TOP 6.7: Umzug des Berlin-Kollegs an den Saatwinkler Damm prüfen - überwiesen
+- TOP 6.8: Workshopreihe für ehrenamtliches Engagement in Mitte entwickeln - überwiesen
+- TOP 6.9: Pilotprojekt „Kooperation Kita/ Senioreneinrichtung" - überwiesen
+- TOP 6.10: Hausbäume für Mitte - überwiesen
+- TOP 6.11: Änderungen der Leitlinien für die Bürgerbeteiligung im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 6.12: Eine Gedenktafel für Ella Trebe in der Togostr. 78 - ohne Änderungen in der BVV beschlossen
+- TOP 6.13: Verstetigungsprozesse der QM-Gebiete jetzt vorbereiten und Leuchtturmprojekte stärken - ohne Änderungen in der BVV beschlossen
+- TOP 6.14: Fair gehandelte Sportartikel für den Schulsport - mit Änderungen in der BVV beschlossen
+- TOP 6.15: Prüfung von Kiezblocks in Mitte (I) - ohne Änderungen in der BVV beschlossen
+- TOP 6.16: Prüfung von Kiezblocks in Mitte (II) - in der BVV abgelehnt
+- TOP 6.17: Verstetigung des Modellprojektes zur Unterstützung rumänischer Roma in der Unterkunft AWO-Refugium sichern - ohne Änderungen in der BVV beschlossen
+- TOP 6.18: Anna-Lindh-Schule: Chance nutzen und endlich neubauen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.19: Aufsicht und Begleitung des Busshuttles der Anna-Lindh-Schule einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.20: Entscheidungsgremium Prävention im Öffentlichen Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Thematische Stunde - (offen)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Sprengelhaus verkauft: Wie geht es weiter für die Mieter:innen? - beantwortet
+- TOP 8.2: Kostenloses Trinkwasser im Bezirk Mitte - beantwortet
+- TOP 8.3: Barrierefreiheit der Wahllokale bei den Wahlen zum EU-Parlament am 9.6. im Bezirk Mitte - beantwortet
+- TOP 8.4: Wie weiter mit der Kita am Schillerpark - schriftlich beantwortet
+- TOP 8.5: Verbesserung der Ampelschaltungen für Fußgänger:innen in Mitte - eine endlose Geschichte? - schriftlich beantwortet
+- TOP 8.6: „Schneller-Bauen-Gesetz“ oder „Schneller-Fällen-Gesetz?" - schriftlich beantwortet
+- TOP 8.7: Spielplatzreinigung durch die BSR im Bezirk Mitte - schriftlich beantwortet
+- TOP 8.8: Wartezeiten auf Geburtsurkunden und auf Hochzeitstermine - immer länger oder was? - schriftlich beantwortet
+- TOP 8.9: Wirtschaftsflächenkonzept Mitte - schriftlich beantwortet
+- TOP 8.10: Medizinische Versorgung von Geflüchteten - schriftlich beantwortet
+- TOP 8.11: Informationsveranstaltung zum geplanten Kiezblock Auguststraße - schriftlich beantwortet
+- TOP 8.12: Jugendgruppen am Bolzplatz Singerstraße - schriftlich beantwortet
+- TOP 8.13: Abholzung der Bäume in der Singerstraße - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Spritzeneimer für Mitte - beantwortet
+- TOP 10.2: Soziale Maßnahmen für den Leopoldplatz: Gibt es einen Zeitplan für den Einsatz der Mittel des Sicherheitsgipfels? - beantwortet
+- TOP 10.3: Geflüchtete in Unterkünften - beantwortet
+- TOP 10.4: Vorbereitung zur Europawahl – welche Schlüsse zog/zieht das BA aus den Wiederholungswahlen? - schriftlich beantwortet
+- TOP 10.5: Gedenken Zwangsarbeit in der Zeit des Nationalsozialismus - schriftlich beantwortet
+- TOP 10.6: Welche neuen Verantwortlichkeiten könnten auf das BA durch die Freigabe von Cannabis zukommen? - schriftlich beantwortet
+- TOP 10.7: Singerstraße – Poller vs. Schranke - schriftlich beantwortet
+- TOP 10.8: Parkplatzwegfall in der Limburger Straße und dem ganzen Brüsseler Kiez - schriftlich beantwortet
+- TOP 10.9: Fahrradbügel und Poller im Bezirk Berlin-Mitte - schriftlich beantwortet
+- TOP 10.10: Beschwerden und Widersprüche: Fahrradstraßen, Umbauten im Straßennetz und Kiezblöcke in Mitte - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13.1: Klimaschutz- und Klimaanpassungskonzept des Bezirksamtes Mitte von Berlin - mit Änderungen in der BVV beschlossen
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: Sitzbänke auf dem Boulevard Unter den Linden austauschen - überwiesen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Angsträume zurückdrängen – Tatsächliche Sicherheit erhöhen - überwiesen
+- TOP 15.2: Kruppstraße - in der BVV abgelehnt
+- TOP 15.3: Begrüne Deinen Kiez, bewässere Deinen Baum! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Verkehrskonzept für die Schule in der Adalbertstraße: Schulwegsicherheit mitdenken & Konflikte in der Nachbarschaft antizipieren - ohne Änderungen in der BVV beschlossen
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Mehr Pflege für den Grünzug Ruheplatzstraße - mit Änderungen in der BVV beschlossen
+- TOP 17.2: Erneuerungsstart der Bastion im Schillerpark - Noch dieses Jahr! - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Reaktivierung der Liegenschaft Putbusser Straße 12 als Schulstandort - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Chance auf Einbürgerung ermöglichen! - mit Abschlussbericht zur Kenntnis genommen
