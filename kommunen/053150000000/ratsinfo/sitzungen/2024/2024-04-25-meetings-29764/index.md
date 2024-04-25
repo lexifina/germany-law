@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-25T16:00:00+02:00
+- Ende: 2024-04-25T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29764
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29764
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Präsentation "Solarkataster"
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der FDP-Fraktion betr.: "Windenergie und Naturschutz in Stammheim" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer Anfrage der FDP-Fraktion betr.: " Windenergie und Naturschutz in Stammheim" (AN/0022/2024) - Kenntnis genommen
+- TOP 1.2: Anfrage der SPD-Fraktion betr.: "Sachstand Plattform Wärmebereitstellung WEGs" - Kenntnis genommen
+- TOP 1.2.1: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Ausschusses Klima, Umwelt und Grün am 07.03.2024, betreffend "Plattform für Wärmebereitstellung der RheinEnergie", AN/0363/2024 - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Einsatz von Pferden im Karneval" - zurückgestellt
+- TOP 1.4: Anfrage der FDP-Fraktion betr.: "Optimierung des Konzeptes der Klärschlammverbrennung in Köln" - Kenntnis genommen
+- TOP 1.4.1: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion (AN/0365/2024) betr.: - Kenntnis genommen
+- TOP 1.5: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betr.: "Kontrolle der Mehrwegangebotspflicht" - zurückgestellt
+- TOP 1.6: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Wärmeversorgung des Neubaugebiets Deutzer Hafen" - zurückgestellt
+- TOP 1.7: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "St.Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V." - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Dringlichkeitsantrag der Fraktionen CDU, SPD und FDP betr.: "Fällung der Platane 1 im Garten des Bahnhofes Belvedere" - Sache ist erledigt
+- TOP 2.2: Dringlichkeitsantrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Igelschutz jetzt!" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Bewegungskonzept im Kölner Grün - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Entscheidung über die Erteilung einer Fällerlaubnis in Zusammenhang mit dem Bauvorhaben „Frankfurter Straße 446, 51145 Köln“ (Gemarkung: Elsdorf, Flur: 1, Flurstück: 583/0) - ungeändert beschlossen
+- TOP 4.2.2: gLB Bahnhof Belvedere; Befreiung zur Fällung einer Platane - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Ersatzbeschaffung von sechs Kolonnenfahrzeugen als E-Fahrzeuge für den Bereich Friedhöfe; hier: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre - Kenntnis genommen
+- TOP 7.2: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 7.3: Beantwortung von mündlichen Anfragen der Fraktion Bündnis 90/Die Grünen im RPA vom 05.12.2023 und im AVR vom 29.01.2024 betreffend "Dopingproben von Pferden im Rosenmontagszug" (3330/2023) - Kenntnis genommen
+- TOP 7.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 28.11.2023 betreffend Nachhaltigkeit in der Kultur - Kenntnis genommen
+- TOP 7.5: Kraftfahrzeuge in Köln - Ergebnis der Kraftfahrzeugsstatistik zum 31.12.2023 - Kenntnis genommen
+- TOP 7.6: Entwicklungsplanung Weststadt, hier: Mitteilung über die Beauftragung zur Erarbeitung der Entwicklungsplanung Weststadt und über die Erhöhung des Auftragswertes - Kenntnis genommen
+- TOP 7.7: Lärmaktionsplanung nach § 47 d BImSchG: Öffentliche Auslegung zur Fortschreibung des Lärmaktionsplanes im Rahmen der vierten Stufe nach EU-Umgebungslärmrichtlinie - Kenntnis genommen
+- TOP 7.8: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 7.9: Mitteilung zur Umsetzung über die Einrichtung eines Solarkatasters für die Stadt Köln - Kenntnis genommen
+- TOP 7.10: Zeitplanung der laufenden Regionalplanverfahren im Regierungsbezirk Köln - Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 16. April 2024 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung einer mündlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 07.03.2024 betreffend Sachstand Frechener Bach - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 25.01.2024 betr.: "Photovoltaikanlagen" - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
