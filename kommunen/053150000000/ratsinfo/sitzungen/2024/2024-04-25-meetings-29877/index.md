@@ -1,0 +1,63 @@
+# 24. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-25T17:00:00+02:00
+- Ende: 2024-04-25T18:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29877
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29877
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Beantwortung einer schriftlichen Einwohneranfrage nach § 39 der Geschäftsordnung des Rates zum "Sicherer Schulweg KGS Vietorstraße in Köln-Kalk" - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion "Neugestaltung der Flächen Oranienstraße/Würzburger Straße in Köln-Höhenberg" - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu "Neugestaltung der Flächen Oranienstraße/Würzburger Straße in Köln-Höhenberg"
+- TOP 7.2: Antrag der CDU-Fraktion "Wiederherrichtung der problemlosen Ausfahrt der Freiwilligen Feuerwehr Löschgruppe Heumar in der Forstraße" - ungeändert beschlossen
+- TOP 7.3: Gem. Antrag der SPD- und CDU-Fraktion "Verbesserte Straßenbeleuchtung in der Trimbornstraße" - ungeändert beschlossen
+- TOP 7.4: Gem. Dringlichkeitsantrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen und Fraktion Die LINKE "Hallen 75-77 vor Einsturz bewahren" - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe von Teilen der bezirksorientierten Mittel für das Jahr 2024/2025 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP 8.2.2: Anhörung der Bezirksvertretung 8 [Kalk] zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 71454/02 Arbeitstitel: Oranienstraße in Köln-Höhenberg - geändert beschlossen
+- TOP -: Gem. Änderungsantrag SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Fraktion Die LINKE. in der Bezirksvertretung Kalk zur Beschlussvorlage 1043/2024
+- TOP 8.2.3: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 8.2.4: 293. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - endgültig abgelehnt
+- TOP 8.2.5: Bewegungskonzept im Kölner Grün - geändert beschlossen
+- TOP -: Gem. Änderungsantrag SPD-Fraktion, Fraktion Bündnis 90/Die Grünen und Fraktion Die LINKE. zu TOP 8.2.5 Vorlage 0968/2024 – „Bewegungskonzept im Kölner Grün“
+- TOP 8.2.6: Lüderichstr. 1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Niederlegung des maroden Sozialhauses sowie die Bebauung und die Errichtung eines Mehrfamilienhauses zur öffentlich- rechtlichen Unterbringung von obdachlosen und von Obdach - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk am 07.03.2024 betr. "Verkehrsschau im Stadtbezirk Kalk", AN/0332/2024 - Kenntnis genommen
+- TOP 9.1.2: Barrierefreiheit der Stadtbahn- und Bushaltestellen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.3: Schriftliche Anfrage der Bezirksvertretung Kalk, Fraktion Bündnis 90 / Die Grünen - Kenntnis genommen
+- TOP 9.1.4: Beantwortung der Anfrage der Fraktion Die Linke (AN/0350/2024) zur Umgestaltung des Marktplatzes im Klimaveedel Neubrück - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage der SPD-Fraktion aus der Bezirksvertretung 8 vom 03.12.2020 betreffend "Fehlende Neupflanzung von Bäumen an der Lüttringhauser Straße, Remscheider Straße und Wipperfürther Straße in Köln-Kalk (AN/1342/2020)" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion Betreff "Gründe für den Ausfall der Aufzüge an Kalk Post" - Kenntnis genommen
+- TOP 9.2.2: Gemeinsame Anfrage der SPD-Fraktion und Fraktion Bündnis 90/Die Grünen Betreff "Vietorstraße im Vorbehaltsnetz der Stadt Köln" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Die LINKE. betreff "Schülerinnenwanderungen" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 9.4: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 10.2.2: Förderprogramm "Ehrenamt und Klimaschutz" Bürgerschaftliches Engagement für den Klimaschutz in den Kölner Bezirken stärken - Kenntnis genommen
+- TOP 10.2.3: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023 - Kenntnis genommen
+- TOP 10.2.4: Neubau einer Containeranlage für eine Gesamtschule auf dem Grundstück Neuerburgstr./Dillenburger Str. - Kenntnis genommen
+- TOP 10.2.5: Stand der Entwicklung eines selbstverwalteten Wohn- und Arbeitsprojektes in der Winterberger Str. 9 - Kenntnis genommen
+- TOP 10.2.6: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW - Kenntnis genommen
+- TOP 10.2.7: Ergebnisse der Öffentlichkeitsbeteiligung „Fuß- und radverkehrsfreundliche Neugestaltung der Kalker Hauptstraße“ - Kenntnis genommen
+- TOP 10.2.8: Öffentlichkeitsbeteiligung „Fuß- und radverkehrsfreundliche Neugestaltung der Kalker Hauptstraße“ – Konzept öffentliche Informationsveranstaltung - Kenntnis genommen
