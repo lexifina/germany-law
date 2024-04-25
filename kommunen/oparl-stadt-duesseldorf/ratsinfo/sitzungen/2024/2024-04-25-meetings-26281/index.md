@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-25T18:00:00+02:00
+- Ende: 2024-04-25T20:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26281
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26281
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö Stand 25.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518663.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö Stand 25.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518663.pdf
+- Wortprotokoll: Sitzungspaket Ö Stand 25.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518663.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 11.04.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 07.03.2024
+- TOP 4: Verbesserung der Stadtsauberkeit - Bericht der Verwaltung und der AWISTA
+- TOP 5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - beschlossen
+- TOP 6: Unterhaltung von Schulen im Stadtbezirk 8, Liste A - einstimmig beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - einstimmig beschlossen
+- TOP 8: Unterbacher See - Instandsetzung Wassermatschbahn Spielplatz Nord - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Überflutete Keller im Bereich Vennhausen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 11: Lärmschutz an der A46 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 12: Wohnungsbau im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 13: Errichtung von drei B+R-Anlagen der Rheinbahn AG (Anfrage SPD-Fraktion) - beantwortet
+- TOP 14: Polleranlage Gertrudisplatz (Anfrage SPD-Fraktion) - beantwortet
+- TOP 15: Bausubstanz der Grundschule Gumbertstraße (Anfrage CDU-Fraktion, SPD-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Optimierung der Schaltung von Bedarfsampeln (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 17: Parken an der Vennhauser Allee (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 18: Sicherheit für Fahrradfahrer im Bereich Vennhauser Allee (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 19: Kinderspielplatz Coburger Weg, Sicherung zur Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 20: Akustische Querungshilfen für Blinde und Sehbehinderte (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 21: Parkraumsituation an der Kita Am Schabernack (Antrag Fraktion Bündnis 90/Die Grünen) - zurückgezogen
+- TOP 22: Öffnung Schützenplatz Unterbach - zur Kenntnis genommen
+- TOP 23: Überplanung Schlossallee - zur Kenntnis genommen
+- TOP 24: Historische Öffentliche Beleuchtung - Musterstrecke zur Umsetzung Ratsbeschluss - zur Kenntnis genommen
+- TOP 25: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Verkehrsentlastung Erfurter Weg - zur Kenntnis genommen
+- TOP 27: Radfahrstreifen Gubener Straße in FR Eller - zur Kenntnis genommen
+- TOP 28: Bau- und Planungsprojekte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Erfahrungen mit dem RheinTakt - zur Kenntnis genommen
+- TOP 30: Abfahrtstafeln an Eller Mitte S und Vennhauser Allee - zur Kenntnis genommen
+- TOP 31: Verbesserung der Stadtsauberkeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Baustellen in Unterbach - zur Kenntnis genommen
+- TOP 33: Erneuerung der Fußgängerbrücke Mündrathweg (BW 8009) - zur Kenntnis genommen
+- TOP 34: Fahrradstraße Alt-Eller und Ellerkirchstraße - zur Kenntnis genommen
+- TOP 35: Parkraumüberwachung - zur Kenntnis genommen
