@@ -1,0 +1,79 @@
+# 26. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-25T16:00:00+02:00
+- Ende: 2024-04-25T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29853
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29853
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch der Bezirksvertretung mit der Oberbürgermeisterin Henriette Reker
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfragestunde - Fort I - abgelehnt (in der Vorberatung)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - geändert beschlossen
+- TOP 3.2: Vergabe Stadtklima- und Stadtverschönerungsmittel 2024 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.3: Bedarfsfeststellungbeschluss für die Neuausstattung der Zentralbibliothek nach Abschluss der Generalsanierung - ungeändert beschlossen
+- TOP 3.4: 292. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.5: Planfeststellungsverfahren für die Erneuerung der Gewölbereihe 38-39 in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.6: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - zurückgestellt
+- TOP 3.7: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 3.8: 293. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 3.9: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - zurückgestellt
+- TOP 3.10: Raumbuch Mobilstationen - zurückgestellt
+- TOP 3.11: Bewegungskonzept im Kölner Grün - ungeändert beschlossen
+- TOP 3.12: Ausweitung der Bewohnerreservierung im Bewohnerparkgebiet Deutz II - geändert beschlossen
+- TOP 3.13: Baubeschluss für die Generalinstandsetzung der Straßen Pantaleonsmühlengasse (im Abschnitt Neue Weyerstraße bis Panatleonswall) und Michaelstraße (im Abschnitt Am Weidenbach bis Panatleonsmühlengasse) - geändert beschlossen
+- TOP 3.14: Integration Kreutzer Straße in das Bewohnerparkgebiet Belgisches Viertel - ungeändert beschlossen
+- TOP 3.15: Vergabe von bezirksorientierte Mittel und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2024 Teil 1 - ungeändert beschlossen
+- TOP 3.16: Genehmigung DE - Feierabendmarkt auf dem Chlodwigplatz - ungeändert beschlossen
+- TOP 3.17: Fan Zone Heumarkt zur UEFA EURO 2024 - Platznutzungskonzept - zurückgestellt
+- TOP 3.18: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Schwachstellenanalyse und Handlungspaket zur Qualitätsverbesserung der Stadtbahnlinie 4 (Az.: 02-1600-43-22) - geändert beschlossen
+- TOP 4.2: Bürgereingabe nach §24 GO betr. Schaffung eines Zugangs zum Römischen Hafentor am Kurt-Hackenberg-Platz Aktenzeichen 136/23 - geändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Neuordnung von Parkraum am Düxer Bock, Antrag CDU - geändert beschlossen
+- TOP 5.1.2: eScooter Angebote im gesamten Innenstadtbereich auf stationsbasiertes Modell umstellen, Antrag CDU - zurückgestellt
+- TOP 5.1.3: Änderungsantrag zur Umstellung des eScooter-Angebots in der Innenstadt, Antrag B90/Die Grünen - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Graffiti-Wand am Kap am Südkai, gem. Antrag Grüne, SPD, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.2: Planungen für die neue Karnevalssession, gem. Antrag CDU, B90/Die Grünen, Die Linke, FDP und KlimaFreunde - ungeändert beschlossen
+- TOP 5.2.3: Törchen für die Interimssschule am Venloer Wall, gem. Antrag Die Linke, B90/Die Grünen, SPD, CDU, KlimaFreunde und Die Partei - geändert beschlossen
+- TOP 5.2.4: Umsetzung der Architektenpläne fürs Stadt-Archiv am Eifelwall, gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.3: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.4: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024, Anfrag B90/Die Grünen - zurückgestellt
+- TOP 6.1.6: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.7: Sanierung des Quäker-Nachbarschaftsheims/Norbert-Burger-Bürgerzentrum, Anfrage SPD - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage Sanierung des Quäker-Nachbarschaftsheims/Norbert-Burger-Bürgerzentrum, Anfrage der SPD AN/1957/2023 - Kenntnis genommen
+- TOP 6.1.8: Motorrad und Motorroller-Parken im Bezirk Innenstadt, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0256/2024) in der BV Innenstadt - Kenntnis genommen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Teileinziehung von Straßenteilstücken im Bereich der Ehrenstraße und der Breite Straße - Kenntnis genommen
+- TOP 9.2: Ergebnisse der Überprüfung bereits umgesetzter verkehrlicher Maßnahmen zur Einschränkung des Individualverkehrs auf Rechtmäßigkeit - Kenntnis genommen
+- TOP 9.3: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 9.4: Aufstellung einer Mobiltoilette im Bereich Klingelpützpark, Ecke Adolf-Fischer-Straße/ Gereonswall - Kenntnis genommen
+- TOP 9.5: Förderprogramm "Ehrenamt und Klimaschutz" Bürgerschaftliches Engagement für den Klimaschutz in den Kölner Bezirken stärken - Kenntnis genommen
+- TOP 9.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Namensvorschläge zum kleinen Offenbachplatz - Kenntnis genommen
+- TOP 9.7: Stellungnahme des Kunstbeirats zur Aufstellung einer Infotafel am Kunstwerk "Diana mit springender Antilope" von Fritz Behn - Kenntnis genommen
+- TOP 9.8: Mitteilung zu einem Bürgerschreiben - Genehmigungen von Gaststätten, Kneipen, Bars, Kiosken usw. – Lärmprognose - Kenntnis genommen
+- TOP 9.9: Sachstandsbericht - Kenntnis genommen
+- TOP 9.10: Direkte Radführung an der rechtsrheinischen Abfahrt der Deutzer Brücke - Kenntnis genommen
+- TOP 9.11: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - Kenntnis genommen
+- TOP 9.12: Sachstandsmitteilung zu Veranstaltungen im Stadtgebiet - Kenntnis genommen
+- TOP 9.13: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Alter Deutzer Friedhof, Aktenzeichen 04/24 - Kenntnis genommen
