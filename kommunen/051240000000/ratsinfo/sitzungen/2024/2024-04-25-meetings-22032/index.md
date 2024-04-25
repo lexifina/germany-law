@@ -1,0 +1,83 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-04-25T16:00:00+02:00
+- Ende: 2024-04-25T16:42:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22032
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22032
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00329115.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00330334.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Preiswürdiges Döppersberg-Umfeld
+- TOP 2.1.1: Preiswürdiges Döppersberg-Umfeld
+- TOP 2.2: WSW Cabs On-Demand-Verkehr
+- TOP 2.3: Windparks der WSW
+- TOP 2.3.1: Windparks der WSW
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Bezahlkarte für Leistungen aus dem Asylbewerberleistungsgesetz - vertagen
+- TOP 4.1.1: Einführung einer Bezahlkarte für Flüchtlinge - vertagen
+- TOP 4.2: Änderung des Regionalplans Düsseldorf für die Fläche W_17 (Adolf-Vorwerk-Straße) im Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 4.2.1: Bebauung im Bereich Adolf-Vorwerk-Straße - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3: Resolution: Lachgas als Partydroge – gesetzlicher Schutz für Kinder und Jugendliche - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Veränderung der gemeinsamen Bezirksgrenze der Stadtbezirke Oberbarmen und Heckinghausen - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 12.05.2024 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Vorkaufssatzung für das Gebiet Vogelsaue in Wuppertal Elberfeld-West - ungeändert beschlossen
+- TOP 6.4: 8. Änderung der Hauptsatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Überplanmäßige Mittelbereitstellung im Versicherungswesen - ungeändert beschlossen
+- TOP 7.2: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2022 - Entgegennahme ohne Beschluss
+- TOP 7.3: Feststellung des Jahresabschlusses 2022 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan GMW 2024 - ungeändert beschlossen
+- TOP 8.3: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2024 für die Einrichtung Am Diek - ungeändert beschlossen
+- TOP 8.4: Beteiligungsbericht 2022 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.5: Jahresabschluss und Lagebericht 2022 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2022 - ungeändert beschlossen
+- TOP 8.7: Entlastung Betriebsausschuss Jahresabschluss 2022 WAW - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan 2024 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Durchführungsplan 62A Fluchtlinien für das Gebiet Kleeblatt-Bundesbahngelände-Diestelbeck-Gerstenstraße-Hospitalstraße-Weststraße-Malzstraße-Gambrinusstraße - Satzungsbeschluss zur Teilaufhebung - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1021/1 - Uellendahler Straße/Am Haken - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Entscheidung über die Beanstandung eines Beschlusses der Bezirksvertretung Oberbarmen vom 22. August 2023 (nur Rat)
+- TOP 11.2: Stärkung des privaten Schulbaus bei den weiterführenden Schulen - ungeändert beschlossen
+- TOP 11.3: Strategische Kooperation mit der Plattform / App Bliggit - zur Beratung und Entscheidung verwiesen
+- TOP 11.4: Abschlussbericht Bürger*innenbudget 2023 - Entgegennahme ohne Beschluss
+- TOP 11.5: Antrag auf Einrichtung von Bildungsgängen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.6: Projektmanagement "ELBERFELD 2030" Finanzierungs- und Durchführungsbeschluss - ungeändert beschlossen
+- TOP 11.7: Antrag Parkgebührenordnung - zur Vorberatung verwiesen
+- TOP 11.8: Vertrag über die Durchleitung von Abwasser aus dem Einzugsgebiet der Kläranlage Schwelm durch das Kanalnetz der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.9: Sachstand Fortführung On-Demand-Verkehr über das Jahr 2024 hinaus - Entgegennahme ohne Beschluss
+- TOP 11.10: Fortschreibung des Wasserversorgungskonzeptes gemäß § 38 Abs. 3 Landeswassergesetz NRW (LWG) - ungeändert beschlossen
+- TOP 11.11: Standortverlagerung wegen der Sanierung der Realschule Vohwinkel, Blücherstr. 19, 42329 Wuppertal - ungeändert beschlossen
+- TOP 11.12: Nachtrag zur Fortführung des Ausbaus von OGS-Plätzen zum Schuljahr 2024/25 - ungeändert beschlossen
+- TOP 11.13: Anpassung der Nutzungsverträge für städtische Landwirtschaftsflächen bei Neuverpachtung - abgelehnt
+- TOP 11.14: Beschlussfassung Nahverkehrsplan Stadt Wuppertal - Teil 3 - Ergänzung flexible Bedienungsformen und Nachtverkehr - ungeändert beschlossen
+- TOP 11.15: Gestaltung des Platzes Ost mit Integration des Denkmals für die Opfer des NSU (10+1 Bäume) - Platz Ost - ungeändert beschlossen
+- TOP 11.16: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 11.17: Sachstandsbericht zur den aktuellen Entwicklungen Smart Tec Campus Wuppertal - ungeändert beschlossen
+- TOP 11.18: Einreichung einer Projektskizze für den Aufbau des Lern- und Gedenkortes „Konzentrationslager Kemna“ im Rahmen des Projektaufrufes des Bundes zur Förderung von Investitionen in nationale Projekte des Städtebaus zum 30. April 2024 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht für das Land Nordrhein-Westfalen (OVG NRW) (nur Rat)
+- TOP 12.2: Besetzung des Aufsichtsrates der AWG Abfallwirtschaftsgesellschaft mbH
+- TOP 12.3: Abberufung und Bestellung von Vertretern der Stadt Wuppertal im Betriebsausschuss des KDN.sozial - ungeändert beschlossen
+- TOP 12.4: Abberufung der stellvertretenden Betriebsleitung KIJU - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.6: Bildung eines Dialog-Beirates Neubau Moschee
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung Auswahlkommission Verwaltungsvorstand - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.10: Gremienumbesetzungen - ungeändert beschlossen
