@@ -1,0 +1,72 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-26T14:00:00+02:00
+- Ende: 2024-04-26T19:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26208
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26208
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518333.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518333.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518333.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Genehmigung der Niederschrift über die gemeinsame Sitzung des Bauausschusses, der Bezirksvertretung 1, des Kulturausschusses, des Ausschusses für öffentliche Einrichtungen, Stadtökologie, Abfallmanagement und Bevölkerungsschutz und des Ausschusses fü - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 01.03.2024 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Umgestaltung Kinderspielplatz Berty-Albrecht-Park - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 4.2: UEFA EURO 2024 im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 4.3: Kriminalstatistik 2023 im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 01/017 - Kennedydamm 55 - Empfehlung mehrheitlich beschlossen
+- TOP 4.7: Bauanträge UEFA EURO 2024 - Fan Zones - zur Kenntnis genommen
+- TOP 4.8: Förderprojekt Multi-Mo-DUS, 2. Sachstandsbericht - zur Kenntnis genommen
+- TOP 4.9: Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I) - Empfehlung einstimmig beschlossen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2024 - einstimmig beschlossen
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Pläne zur Aufwertung der Fahrradstraße Bismarckstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 5.2: Kaiserstraße, Radweg-Querung von der Stern- in die Inselstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.3: Festungsmauer Bastion Diamantstein Maria Amalia am Spee'schen Graben - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Grundstück Ecke Roßstraße 86 / Hans-Böckler-Straße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.2: Altkleidercontainer im Stadtbezirk 1 - Anfrage der SPD-Fraktion
+- TOP 6.3: Zustand der Fahrbahnen Roßstraße - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6.4: Baumpflanzungen auf dem Mittelstreifen des Kennedydammes - Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Standortvorschläge für die verbleibenden 5 Pfandringe - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.2: Zebrastreifen Wielandstraße/ Ecke Am Wehrhahn - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.3: Errichtung von Fahrradabstellanlagen an der Ecke Augustastraße / Moltkestraße anstelle der Waschbetonpoller - abweichend beschlossen
+- TOP 7.4: Bücherschrank im Umfeld des Reeser Platzes - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Installation einer Linksabbiegersignalanlage auf der Toulouser Allee an der nördlichen Ecke der Marc-Chagall-Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.6: Konzept zur langfristigen Erhaltung und Ausbau der Vegetation am Spee´schen Graben/Berger Allee - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.7: Parkhaus Hohestraße / Siegfried-Klein-Straße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Handlungsbedarf an der Zufahrt zur Schadowstraße neben dem Kö-Bogen auf der Berliner Allee; Beschluss der Bezirksvertretung 1 vom 24.11.2023; BV1/272/2023 - zur Kenntnis genommen
+- TOP 8.3: Gestaltung der Karlstraße; Beschluss der Bezirksvertretung 1 vom 29.09.2023; BV1/230/2023 - zur Kenntnis genommen
+- TOP 8.4: Bänke vor der Mariensäule; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/048/2024 - zur Kenntnis genommen
+- TOP 8.5: Errichtung von Fahrradabstellanlagen an den Nebeneingängen des Nordfriedhofs ; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/048/2024 - zur Kenntnis genommen
+- TOP 8.6: Aalschokker im Alten Hafenbecken; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/048/2024 - zur Kenntnis genommen
+- TOP 8.7: Baumnachpflanzungen Kapellstrasse; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/047/2024 - zur Kenntnis genommen
+- TOP 8.8: Fahrradstation aus dem Modulsystem der Connected Mobility Düsseldorf GmbH auf der Mauerstraße; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/025/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Bankstraßenfest - abweichend beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Eine Welt Forum e.V. - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Irene Kurka - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Freundschaftsgesellschaft BRD-Kuba e.V., Regionalgruppe Düsseldorf - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Hochschule Düsseldorf - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Aurore e.V. - abweichend beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Schulsozialarbeit des Luisen-Gymnasiums - einstimmig beschlossen
+- TOP 9.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Schulsozialarbeit der Paul-Klee-Schule - abweichend beschlossen
+- TOP 9.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Pia Maria Lukas-Larsen - abweichend beschlossen
+- TOP 10: Verschiedenes
