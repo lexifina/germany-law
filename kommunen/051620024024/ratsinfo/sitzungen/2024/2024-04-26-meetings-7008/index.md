@@ -1,0 +1,64 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-04-26T16:00:00+02:00
+- Ende: 2024-04-26T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7008
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7008
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 26.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00206063.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 26.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00206063.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 26.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00206063.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - beraten ohne Abstimmung
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bauausschuss
+- TOP 5: Langemarckstraße: Bau einer barrierefreien Zuwegung zum Kirmesplatz - einstimmig zugestimmt
+- TOP 6: Selikumer Weg: Ausbau - mehrheitlich zugestimmt
+- TOP -: Bezirksausschuss II - Nordstadt
+- TOP 7: Standort des Löschzuges 19 (Furth) - einstimmig zugestimmt
+- TOP 8: Viersener Straße, Stichweg im Bereich der Häuser Viersener Straße Nr. 102 bis 104c: punktuelle Maßnahmen zur Verbesserung der Verkehrssituation - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 9: Spielraumplanung: Grundsatzbeschluss Kinderspielplatzprogramm 2024/25 - einstimmig zugestimmt
+- TOP 10: Einrichtungsscharfe Jugendhilfeplanung Kindertagesbetreuung 2024/25 - einstimmig zugestimmt
+- TOP 11: Gleichstellung der LuKita bei Zuschuss "Trägerpluralität" - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 12: Knotenpunkt Stresemannallee / Langemarckstraße / Hammfelddamm: Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 13: Weberstraße, barrierefreier Ausbau der Haltestelle Pomona - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 14: Grundsatzentscheidung zur (Neu-)Organisation der Grünpflege - mehrheitlich zugestimmt
+- TOP -: Schulausschuss
+- TOP 15: Anpassung der OGS-Budgets zum Schuljahr 2023/24 und 2024/25 - einstimmig zugestimmt
+- TOP 16: Satzung über die Erhebung von Elternbeiträgen im Rahmen außerunterrichtlicher Betreuungsangebote außerhalb der OGS - einstimmig zugestimmt
+- TOP 17: Schülerspezialverkehr zur Rita-Süssmuth-Realschule - einstimmig zugestimmt
+- TOP 18: Musikschule der Stadt Neuss: Satzungsänderungen zur Einführung einer Online-Anmeldung und zur Umstellung auf monatliche Zahlweise - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 19: Richtlinien für die Vergabe des Inklusionsförderpreises - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 20: Wahl von stellvertretenden Schiedspersonen - einstimmig zugestimmt
+- TOP 21: Verwendung von Mitteln der Integrationsförderung - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 22: Antrag der CDU-Fraktion betr.: Grimlinghausen neu denken - mehrheitlich zugestimmt
+- TOP 23: Antrag der CDU-Fraktion betr.: Taxistand auf die Sebastianusstraße zurückholen - mehrheitlich zugestimmt
+- TOP 24: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Winterdienst auf Radwegen ausweiten - mehrheitlich zugestimmt
+- TOP 25: Antrag der Fraktionen von SPD und Bündnis 90/Die Grünen betr.: Bezahlbaren Wohnraum auf dem ehemaligen Alexianer-Areal vorantreiben - mehrheitlich abgelehnt
+- TOP 26: Antrag der SPD-Fraktion betr.: Kleingarten-Offensive in der Stadt Neuss - beraten ohne Abstimmung
+- TOP 27: Antrag der Fraktion Die PARTEI/Linke betr.: Kaufhof Gebäude Planungssicherheit schaffen - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 29: Änderung des Geschäfts- und Dezernatsverteilungsplan ab 01.05.2024 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde
