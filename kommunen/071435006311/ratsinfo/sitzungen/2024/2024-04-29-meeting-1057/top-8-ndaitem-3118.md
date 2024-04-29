@@ -1,0 +1,7 @@
+# TOP 8.: Bebauungsplan Nr. 4 „Ortslage“, 26. Änderung – Bereich Neuer Weg hier: Abwägungs- und Satzungsbeschluss
+
+- Sitzung: Gemeindevertretung (23. Sitzung) (2024-04-29)
+- Körperschaft: Gemeinde Willingen (Upland)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/willingen/webservice/oparl/v1.1/body/1/agendaitem/3118
+- Ergebnis: (kein Text vorhanden)
