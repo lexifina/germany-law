@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-29T17:00:00+02:00
+- Ende: 2024-04-29T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29652
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29652
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Elternbefragung zur Corona-Pandemie - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Nachfrage zum Tätigkeitsbericht 2023 des Bereichs Europa und Internationales, 0333/2024 aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen/Vergabe Internationales vom 11.03.2024 betreffend wirtschaftliche Zusamm - Kenntnis genommen
+- TOP 3.2: Beantwortung von mündlichen Anfragen der Fraktion Bündnis 90/Die Grünen im RPA vom 05.12.2023 und im AVR vom 29.01.2024 betreffend "Dopingproben von Pferden im Rosenmontagszug" (3330/2023) - Kenntnis genommen
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 30.11.2023 (AN/1993/2023) betreffend Online-Umfragen - Kenntnis genommen
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Volt-Fraktion betreffend „Anfrage zur Neuorganisation der Hausmeister*innendienste an Schulen" (AN/0403/2024) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Arbeitskräftemangel bekämpfen - Kenntnis genommen
+- TOP 4.2: Dieser ursprüngliche Tagesordnungspunkt ist unter 13.1 zu finden. - Übergang zum nächsten Tagesordnungspunkt
+- TOP 4.3: Vorstellung des Jahresberichts 2022-2023 des Zentrums für Kriminalprävention und Sicherheit (ZKS) der Stadt Köln - zurückgestellt
+- TOP 4.4: Entwicklungsplanung Weststadt, hier: Mitteilung über die Beauftragung zur Erarbeitung der Entwicklungsplanung Weststadt und über die Erhöhung des Auftragswertes - Kenntnis genommen
+- TOP 4.5: Sachstand Willkommensbehördenprozess - Maßnahmenkonzept des beauftragten Dienstleiters - Kenntnis genommen
+- TOP 4.6: Gedenkveranstaltung „Birlikte - Zusammenhalten“ - Kenntnis genommen
+- TOP 4.7: Gutachten zur Funktionsfähigkeit des Kölner Taxigewerbes - Kenntnis genommen
+- TOP 4.8: Rückbau der Geschwindigkeitsmessanlagen auf der BAB 3 - Heumarer Dreieck - Kenntnis genommen
+- TOP 4.9: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 18. April 2024 - Kenntnis genommen
+- TOP 4.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Änderung der Hauptsatzung der Stadt Köln - § 23, Aktenzeichen 08/24 B - Kenntnis genommen
+- TOP 4.11: Sachstandsmitteilung zu Veranstaltungen im Stadtgebiet - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der AfD-Fraktion betreffend "Sachstand fristlose Kündigung einer Mitarbeiterin der Kölner Stadtverwaltung" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion für die Sitzung des AVR am 11.03.2024 (AN/0401/2024) betreffend "Sachstand fristlose Kündigung einer Mitarbeiterin der Kölner Stadtverwaltung" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Gibt es ein Gesamtkonzept für die künftige Büroflächenplanung der Verwaltung?" - Sache ist erledigt
+- TOP 6.3: Anfrage der SPD-Fraktion betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales vom 25.09.2023 betreffend "Geplante Projekte in der interkommunalen Zusammenarbeit" - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion Die Linke betreffend "Fristlose Kündigung einer städtischen Mitarbeitern im Zusammenhang mit dem Potsdamer Treffen" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke. betreffend "Fristlose Kündigung einer städtischen Mitarbeitern im Zusammenhang mit dem Potsdamer Treffen" (AN/0623/2024) - Kenntnis genommen
+- TOP 6.5: Aufstellung und Betrieb von „Tiny Houses“ in Köln - zurückgestellt
+- TOP 6.6: Arbeitskräftemangel bei der Stadt: Aktuelle Personalsituation 2024 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - zurückgestellt
+- TOP 8.2: Antrag von Klima-Gut betreffend Fortbildungsangebote zu Nachhaltigkeit für städtische Mitarbeitende ab 2025 - geändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion betreffend "Mehr Inklusion bei der Stadtverwaltung Köln: Fünf Prozent der Neueinstellungen sollen Menschen mit Behinderung, Einschränkung oder Lernbeeinträchtigung sein" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Mitgliedschaft der Stadt Köln in der Deutschen Gesellschaft für Projektmanagement e. V. (GPM) - ungeändert empfohlen
+- TOP 10.2: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - zurückgestellt
+- TOP 10.3: Anregung der Bezirksvertretung Nippes, Öffnung zweier Kundenzentren in der Zeit zwischen Weihnachten und Neujahr - Kenntnis genommen
+- TOP 10.4: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10.5: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 10.5 von den Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012" - ungeändert empfohlen
+- TOP 10.6: Neubau Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Kölner Konzept zur Bekämpfung von Wohnungslosigkeit - ungeändert empfohlen
+- TOP 10.8: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - zurückgestellt
+- TOP 10.9: Erhöhung der Transferaufwendungen gem. § 13 Abs. 1 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023/2024 - ungeändert beschlossen
+- TOP 10.10: Fan Zone Heumarkt zur UEFA EURO 2024 - Platznutzungskonzept - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
