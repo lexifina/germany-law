@@ -1,0 +1,58 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-30T17:00:00+02:00
+- Ende: 2024-04-30T18:20:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25681
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25681
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518610.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518610.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518610.pdf
+
+## Tagesordnung
+
+- TOP 1: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Landes NRW – Seniorenrat – Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 5.2: Städtisches Weiterbildungskolleg, Auflösung des Teilstandortes Emil-Barth-Straße 45 und Umzug des Bildungsgangs Abendrealschule an den Standort Rückertstraße 6 - Empfehlung einstimmig beschlossen
+- TOP 5.3: Festlegung des Trassenverlaufs des Radschnellweg Neuss, Düsseldorf, Langengeld im Rahmen des Linienbestimmungsverfahrens - Empfehlung einstimmig beschlossen
+- TOP 5.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des "2. After-Work-Konzertes" - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.5: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Stellplatzverpflichtung Tedi-Markt, Ricarda-Huch-Straße 33 - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Nutzungsänderungsgenehmigung für das ehemalige Hotel und Restaurant Achteck, beziehungsweise Oktogon in Garath/Mitte - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.6: „Weinfest" am 20.-22.10.2023 in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Taubenhaus Hellerhof - Anfrage der SPD-Fraktion - - beantwortet
+- TOP 7.2: Nachfrage zur fehlenden Antwort auf die schriftliche Nachfrage zur Vorlage BV10/105/2022 (Nutzungsänderungsgenehmigung für das ehemalige Hotel "Acht Eck", bzw.Oktagon" - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Blühwiesen im Stadtteil Düsseldorf Garath- Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7.8: Baustelle im Kreuzungsbereich Peter-Behrens Straße/ Koblenzer Straße im Stadtteil - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 7.9: Taubenbekämpfung in Hellerhof - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - beantwortet
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Ampelschaltung Kreuzung Mathias-Erzberger-Straße/Frankfurter Straße/Koblenzer Straße in Düsseldorf Garath - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Standort Bücherschrank Hellerhof - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 8.5: Entschärfung Unfallhäufungsstelle Emil-Barth-Straße/Koblenzer Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - abweichend beschlossen
+- TOP 8.6: Aufstellen neuer Papierkörbe bzw. Ersatz alter Papierkörbe im Stadtbezirk 10 - Antrag der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 8.7: Fortführung des Arbeitskreises „Wohnen im Alter“ des Seniorenrates - Antrag der CDU-Fraktion, SPD-Fraktion und der Fraktion BÜ90/DIE GRÜNEN - - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Sanierung des Belages der Brücke über den Garather Mühlenbach und eines Teils des Weges im Bereich Heinrich-Lersch-Straße - zur Kenntnis genommen
+- TOP 9.2: Nachfrage vom 27.02.2024 zur Vorlage APS/003/2024 "Aufhebung der Sanierungssatzung Garath-Südost" - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 10: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 11: Verschiedenes
