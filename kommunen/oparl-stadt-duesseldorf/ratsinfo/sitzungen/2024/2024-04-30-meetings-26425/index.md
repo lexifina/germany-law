@@ -1,0 +1,78 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-30T16:00:00+02:00
+- Ende: 2024-04-30T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26425
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26425
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518340.pdf
+- Ergebnisprotokoll: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518340.pdf
+- Wortprotokoll: NachtragsTO 1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518340.pdf
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Oberbürgermeister Dr. Stephan Keller
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 2 gemäß §22 Geschäftsordnung des Rates, für bis zum 16.04..2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschriften SI-BV2/002/2024 vom 20.02.2022 und SI-BV2/003/2024 vom 19.03.2024 - einstimmig beschlossen
+- TOP 6: Berichte und Verwaltungsvorlagen
+- TOP 6.1: Neuwahl einer Schiedsperson - Vorstellung der Bewerber*innen - Empfehlung mehrheitlich beschlossen
+- TOP 6.2: Bezirklicher Bauunterhalt- Haushaltsjahr 2024 Stadtbezirk 2 - Liste A Schulen - mehrheitlich beschlossen
+- TOP 6.3: Durchführung einer Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 2 - einstimmig beschlossen
+- TOP 6.4: Birkenstraße / Flurstraße – Barrierefreier Ausbau der Haltestelle Flingern-S - Empfehlung mehrheitlich beschlossen
+- TOP 7: Anträge
+- TOP 7.1: Regenbogenbank Hanielpark - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Finanzielle Unterstützung des Kulturprogramms des 44. Internationalen Straßenfestes der Bürgerinitiative Flingern aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.4: Unterstützung des Kulturprogramms zum 44. Internationalen Straßenfest am 1. Juni 2024 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7.5: Bezirksbezogene Haushaltsmittel für das Straßenfest der Bürgerinitiative Flingern - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.6: Finanzielle Unterstützung des Projekts Stadtentdeckerinner:innen des Vereins Kabawil aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.7: Kabawil Projekt „Wir sind Stadtentdecker*innen“ - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 7.8: Zuwendung an den SKFM Düsseldorf e. V. aus bezirksbezogenen Haushaltsmitteln zur Steigerung des Ansehens des Karl-Wagner-Platzes - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 7.9: Finanzielle Förderung eines orientalischen Straßenfestivals durch das Künstlerkollektiv Habibi Act im Zakk aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.10: Unterstützung für das Orientalische Straßenfestival des Kollektivs „Habibi Act" im ZAKK - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 7.11: Bezirksbezogene Haushaltsmittel für die Flingern Lichtspiele 2024 - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.12: Open-Air-Kino in der Filmwerkstatt Düsseldorf - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7.13: Finanzielle Unterstützung der Filmwerkstatt zur Durchführung der Flingern Lichtspiele 2024 aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 7.14: Bezirksbezogene Haushaltsmittel für die Jubiläumsveranstaltungen des Vereins Binational in Düsseldorf e. V. - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.15: Bezirksbezogene Haushaltsmittel – Binational in Düsseldorf e.V. - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 7.16: Mitfinanzierung des Straßenfestes Birkenstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 7.17: Bezirksbezogene Haushaltsmittel für das Straßenfest auf der Birkenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.18: Bezirksbezogene Haushaltsmittel für einen Seniorenausflug - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.19: Ausstattung des Spielplatzes „Zum Märchenland“ mit zwei Tischtennisplatten - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 7.20: Kinderspielplatz “Zum Märchenland” - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 7.21: Bunte Bank am Hermannplatz - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 7.22: Treppenaufgang von der Schwelmer Straße zur Cranachstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 7.23: Zeitnahe Aufstellung von Fahrradbügeln zum Schutz von Baumscheiben - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 7.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.25: Finanzierung der Sitzbank am Brahmsplatz - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.26: Zweit-Radweg am Hellweg abschaffen - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 7.27: Ertüchtigung der Hundeauslauffläche Hanielpark - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 8: Anfragen aus vorherigen Sitzungen
+- TOP 8.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 8.2: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 8.3: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Versiegelung von Verkehrsinseln und Verkehrsrestflächen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.6: Ergebnis Konzepterstellung Schulwegsituation Brehmschule durch ein externes Büro - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8.7: Fahrradabstellanlagen - Anfrage der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 8.8: Fahradweg Lindenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 9: Anfragen zur aktuellen Sitzung - vertagt
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Graffitis im öffentlichen Raum - Anfrage der CDU-Fraktion - beantwortet
+- TOP 9.4: Mobilitätsstation Hermannplatz - Anfrage der CDU-Fraktion - vertagt
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Geschwindigkeitskontrollen auf der Ackerstraße westlich des Lastrings - Beschluss der Bezirksvertretung 2, Vorlage BV2/184/2023 - zur Kenntnis genommen
+- TOP 10.2: Bahnunterführung Wetterstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/139/2023 - zur Kenntnis genommen
+- TOP 10.3: Rethelstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/061/2024 - zur Kenntnis genommen
+- TOP 10.4: Unterflurcontainer Graf-Recke-Str. 103 - Beschluss der Bezirksvertretung 2; Vorlage BV2/064/2024 - zur Kenntnis genommen
+- TOP 10.5: Frühblüher Graf-Recke-Straße - Beschluss der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 10.6: Taxenhalte - Beschluss der Bezirksvertretung 2; Vorlage BV2/033/2024 - zur Kenntnis genommen
+- TOP 10.7: Temporärer provisorischer Fußgängerüberweg Bruchstraße/Einmündung SchwelmerStraße - Beschluss der Bezirksvertretung 2: Vorlage BV2/038/2024 - zur Kenntnis genommen
