@@ -1,0 +1,64 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-30T17:00:00+02:00
+- Ende: 2024-04-30T19:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26181
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26181
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518973.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518973.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518973.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 27. Februar 2024 - öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Zulassung der Vertreter*innen des Seniorenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Verkehrskonzept Düsseldorf Nord – Umsetzungsprogramm - mehrheitlich beschlossen
+- TOP 11: Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I) - Empfehlung einstimmig beschlossen
+- TOP 12: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 13: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2024 - einstimmig beschlossen
+- TOP 14: Sportanlage Neusser Weg 94 - Umbau Rasenkleinspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 (Liste B), Blumenoasen im Stadtbezirk 5 - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 16: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 17: Ausblick auf weitere Ladesäulen im Stadtbezirk 5 - beantwortet
+- TOP 18: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - vertagt
+- TOP 19: E-Ladesäulen am Kaiserswerther Markt - Weshalb informiert die Verwaltung nicht? - beantwortet
+- TOP 20: Verkehrschaos im Düsseldorfer Norden wegen großer internationaler Messen und gleichzeitig stattfindenden Fortuna Spielen - beantwortet
+- TOP -: Neue Anfragen
+- TOP 21: Wieso wird das Unkraut, das die zweigeteilte obere Hochwasserschutz Mauer sprengt, nicht komplett und richtig entfernt und was hat der im Februar 2024 erneut angekündigte Drohnen Flug ergeben? - vertagt
+- TOP 22: Absperrgitter auf der Einbrunger Straße - Ecke Heinrich-Holtschneider-Weg - vertagt
+- TOP 23: Planungsstand RRX zum S-Bahnhof Angermund (Parkplätze) - vertagt
+- TOP 24: Kaiserswerther Markt: Warum antwortet die Verwaltung innerhalb eines Jahres nicht auf Fragen der BV5? - vertagt
+- TOP 25: Graf-Engelbert-Straße: Gehweg nutzbar machen! - vertagt
+- TOP 26: Ausbau des Fahrradweges auf der Kalkumer Schlossallee - vertagt
+- TOP 27: Abfallbehälter im Umfeld des Kinderspielplatzes Wacholderweg/Eichenbruch/Goldregenweg - beantwortet
+- TOP 28: Sicherheit für alle Verkehrsteilnehmer auf dem Fuß- und Radweg an der Straße "Am Roten Haus" - vertagt
+- TOP 29: Radweg Kalkumer Schlossallee - Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - 3.0 - vertagt
+- TOP 30: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP -: Anträge
+- TOP 31: Einrichtung einer temporären Schulstraße an der Gemeinschaftsgrundschule Kaiserswerth - mehrheitlich beschlossen
+- TOP 32: Wohnraumschaffung und Infrastrukturplanung im Düsseldorfer Norden realistisch und bedarfsorientiert angehen: die Planung am Fettpott (Supermarkt und Wohnen) sowie Dreiecksparkplatz (Supermarkt) Kaiserswerth vorantreiben! - mehrheitlich abgelehnt
+- TOP 33: Geschichte nicht demontieren – Gemeinsam Lösungen für Gedenkeinrichtungen entlang der Straßen im Stadtbezirk 5 finden! - einstimmig beschlossen
+- TOP 34: Die Bankette an der Wittgatt nachhaltiger ausbessern. - einstimmig beschlossen
+- TOP 35: Freigabe des Cannabiskonsums zum 1. April 2024 – Kinder und Jugendliche im Stadtbezirk 5 wirksam schützen! - einstimmig beschlossen
+- TOP 36: Geschwindigkeitsbegrenzung für die Zeppenheimer Straße vereinheitlichen/ Anpassungen an den Zeppenheimer Weg - Sicherheit für alle Verkehrsteilnehmer wahren! - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP -: Beschlussvorlagen zur Kenntnisnahme
+- TOP 38: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 39: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - Empfehlung einstimmig beschlossen
+- TOP 40: Verschiedenes
+- TOP 41: Lantz´scher Skulpturenpark - Kuratorisches Konzept 2025 - zur Kenntnis genommen
