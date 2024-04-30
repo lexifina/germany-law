@@ -1,0 +1,52 @@
+# 13. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-04-30T19:00:00+02:00
+- Ende: 2024-04-30T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5616
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5616
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=394498
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - erledigt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Investitionsplanung - erledigt
+- TOP 6: Überwiesene Drucksachen - (offen)
+- TOP 6.1: Die Grünfläche am S-Bahn-Durchgang Karlshorst an der Straße Am Carlsgarten umgestalten und ein Rosenrondell schaffen - im Ausschuss abgelehnt
+- TOP 6.2: Wegsanierung um den Orankesee - mit Änderungen im Ausschuss beschlossen
+- TOP 6.3: Aufenthaltsqualität für Anwohnende Ecke Rudolf-Reusch- und Normannenstraße steigern - mit Änderungen im Ausschuss beschlossen
+- TOP 6.4: Volleyball auch am Abend ermöglichen - mit Änderungen im Ausschuss beschlossen
+- TOP 6.5: Skateanlage an der Kiezspinne noch in diesem Jahr - vertagt
+- TOP 6.6: Calisthenics Park an der Rummelsburger Bucht einrichten - vertagt
+- TOP 6.7: Nachhaltiges Müllmanagement in Lichtenberg - vertagt
+- TOP 6.8: Hundefreilauffläche im Hinkelpark / Nöldnerpark - vertagt
+- TOP 6.9: Hundefreilauffläche in der Parkaue - vertagt
+- TOP 6.10: Teilsanierung des Neuzeller Weges - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.11: Die Schulgesundheitsfachkraft an der Gutenberg-Oberschule wird auch im Jahr 2024 benötigt - mit Änderungen im Ausschuss beschlossen
+- TOP 6.12: Regenrückhaltebecken in Alt-Hohenschönhausen neu aktivieren - vertagt
+- TOP 6.13: Jugendlicher Freiraum im Ostseekarree: Gemeinsame Planung eines überdachten Aufenthaltsortes für Jugendliche - zurückgezogen
+- TOP 6.14: Reparatur der Infotafeln im Stadion- Friedrichsfelde - vertagt
+- TOP 6.15: Regierungsvorhaben eines Hauses des Engagements in Lichtenberg umsetzen - vertagt
+- TOP 6.16: Boulebahnen für Karlshorst - vertagt
+- TOP 6.17: Werbefilm für mehr Lehrer:innen in Lichtenberg! - vertagt
+- TOP 6.18: Klimaziele einhalten - Heizkosten in Schulen und öffentlichen Gebäuden senken - vertagt
+- TOP 6.19: Das Kunsthaus 360° in Hohenschönhausen bewahren! - vertagt
+- TOP 6.20: Fahrradbarometer in Lichtenberg - vertagt
+- TOP 6.21: Wasserfest in der Rummelsburger Bucht ermöglichen - vertagt
+- TOP 6.22: Besserer Bolzplatz für den Grünen Campus Malchow - vertagt
+- TOP 6.23: Familiengutscheine für alle Lichtenberger Familien - vertagt
+- TOP 6.24: Die grüne Revolution: Fassadenbegrünungen und Gründächer in Lichtenberg - vertagt
+- TOP 6.25: 40 Jahre Neu-Hohenschönhausen – 4 x 40 neue Bäume für Neu-Hohenschönhausen - vertagt
+- TOP 6.26: BVV-Sondermittel für das Gedenkturnier des Jugendfußballclubs Berlin e.V. zum 1. Todestag von Paul Püschel - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.27: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen - vertagt
+- TOP 6.28: Instandsetzung des Ballspielplatzes an der Landsberger Allee 225/227 - vertagt
+- TOP 6.29: BVV Sondermittel für Pilotprojekt Selbstverteidigungskurs für Senior*innen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.30: BVV Sondermittel für Berit Petzsch / Stadtlichter 2024 - ohne Änderungen im Ausschuss beschlossen
+- TOP 7: Sonstiges - erledigt
