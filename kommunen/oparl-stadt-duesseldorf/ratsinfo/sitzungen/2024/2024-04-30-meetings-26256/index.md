@@ -1,0 +1,61 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-30T17:00:00+02:00
+- Ende: 2024-04-30T19:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26256
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26256
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518567.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518567.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00518567.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 16.04.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 27.02.2024 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe (Senioren) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Ergänzung und Vervollständigung der Fahrbahnmarkierungen auf der Grafenberger Allee, zwischen den Haltestellen Uhlandstraße und Staufenplatz, zur Verbesserung des ÖPNV-Betriebsablaufs - Empfehlung einstimmig beschlossen
+- TOP 4.4: Fahrradstraßen Limburg- und Gutenbergstraße - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Temporäre Nutzung als Ausstellungsstätte - Heyestraße 178 - Balloon-Ausstellung - einstimmig beschlossen
+- TOP 4.6: Blühwiesenstrategie - zur Kenntnis genommen
+- TOP 4.7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Zukünftige Nutzung des Areals „Bergische Kaserne“ - Antrag der FDP-Fraktion - - mehrheitlich beschlossen
+- TOP 5.2: Fahrbahnmarkierung Grafenberger Allee (OVA/002/2024) - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 5.3: Versorgung mit Bargeld im Stadtbezirk 7 durch Geldautomaten der Stadtsparkasse Düsseldorf - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.4: Tempo 30 auf der Benderstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.5: Reparaturmaßnahmen auf der Benderstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen auf vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Einsatz von Streusalz im Stadtbezirk 7 - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.3: Leerung der Mülleimer am Wildpark/Heinrich-Könn-Straße - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Hochwasser – Sachstand der Schadensbeseitigung - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Gewährleistung der Verfügbarkeit von Postdienstleistungen gemäß Post-Universaldienstleistungsverordnung in Knittkuhl und Hubbelrath - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Parkmöglichkeiten in der Josef-Neuberger-Str.- Informationsvorlage zum Beschluss der BV 7 vom 28.02.2023 - - zur Kenntnis genommen
+- TOP 8.2: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.3: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.4: Straßenreinigung Rad- und Fußweg Zweibrückenstraße von Dreherstraße bis zum Brombachweg - Informationsvorlage zum Beschluss der BV 7 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.5: Bau einer Fußgänger- und Fahrradbrücke über die nördliche Düssel zwischen Fröbelstraße und Am Quellenbusch - Informationsvorlage zum Beschluss der BV 7 vom 27.02.2024 - - zur Kenntnis genommen
+- TOP 8.6: Verkehrsberuhigte Zone Nachtigallstraße - Informationsvorlage zum Beschluss der BV 7 vom 23.11.2021 - - zur Kenntnis genommen
+- TOP 8.7: Verkehrsführung historisches Zentrum - Informationsvorlage zum Beschluss der BV 7 vom 25.01.2022 - - zur Kenntnis genommen
+- TOP 8.8: Instandsetzung und barrierefreie Nutzung des Staufenplatzes in Grafenberg - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
+- TOP 8.9: Bau einer Inklusionsschaukel auf dem Spielplatz Heinrich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 27.02.2024 - - zur Kenntnis genommen
+- TOP 8.10: Baumfällungen im Stadtbezirk 07 - Informationsvorlage zum Beschluss der BV 7 vom 30.01.2024 - - zur Kenntnis genommen
+- TOP 8.11: Fußweg Alter Gallberg - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 8.12: Wiederherstellung der Treppe zwischen Bergischer Landstraße und dem Wanderweg am Regenrückhaltebecken bzw. Fuß- und Radweg am Pillebach - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 8.13: Kennzeichnung eines neuen Zebrastreifens auf der Diepenstraße - Informationsvorlage zum Beschluss der BV 7 vom 01.12.2020 - - zur Kenntnis genommen
+- TOP 8.14: Sachstand zur Buslinie Flughafen – Ratingen – Knittkuhl – Hubbelrath – Erkrath - Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 28.11.2023 - - zur Kenntnis genommen
