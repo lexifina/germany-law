@@ -1,0 +1,104 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-04-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894307
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894307
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 26.03.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 26.03.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Antrag auf Aufstellung eines Kreislaufschranks am Grünen Markt - Vertagt aus der Plenumssitzung vom 26.03.2024 -
+- TOP 2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Kreillerstr. 2 - Errichtung eines Mehrfamilienhauses mit Gewerbe und Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2021-12703-32
+- TOP 3.1.2.: Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses
+- TOP 3.1.3.: Risserkogelstr. 5 - Neubau von 2 Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID
+- TOP 3.1.4.: Tiny Forest bzw. Microforest für Berg am Laim; Antrag aus dem UA-Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.5.: Umwandlung von Parkplätzen in eine Grüninsel mit Baumbepflanzung auf der Nordseite der Kreillerstr.; Antrag aus dem UA-Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.6.: "Änderung der Straßenreinigungssatzung"; Sitzungsvorlage Nr. 20-26 / V 12815; Anhörung des Baureferats
+- TOP 3.1.7.: Situation an der Kirche St. Michael; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: 2. Planänderung für das Bauvorhaben „Neubau ESTW München Ost Phf, Teil 1: S-Bahn“; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.1.9.: Vogelnistkästen in den Grünflächen von „Münchner Wohnen“; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Durchgangsverkehr Sonnwendjochstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Verkehrssituation an der Kreuzung Baumkirchner/Neumarkter/Hansjakobstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Überquerung Baumkirchner Straße am Grünen Markt
+- TOP 3.2.4.: Fußgängerbrücke über den Hachinger Bach an der Kampenwandstr.; Antrag aus dem UA- Städtebauliche Entwicklung, Mobilität, Wohnen, Gewerbe und Digitalisierung
+- TOP 3.2.5.: Schlaglöcher am Fußgängerübergang über die Baumkirchner Str. von der Litfaßsäule zur Bäckerei Orex; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Errichtung von seniorenfreundlichen Wohnungen an der Baumkirchnerstraße; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Spielaktion am Piusplatz vom 21.-.25.05.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: Kinderrechte stärken - Partizipation auf Augenhöhe leben
+- TOP 3.3.3.: Kinderbetreuung in Baumkirchen Mitte sicherstellen; Antrag der Fraktion CSU
+- TOP 3.3.4.: Errichtung einer „Schaukelanlage“ im Michaelianger; Antrag der Fraktion FW/ÖDP
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Standort Klinikum Neuperlach; Anliegen aus der Bürgerschaft
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 5. Interkulturelles Tanz- und Musikfest am 24.11.2024 1.045,00 Euro / Az. 0262.0-14-0394
+- TOP 3.5.2.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. „150-Jahr-Feier mit historischem Abend“ am 03.05. und 05.05.2024 2.102,50 Euro; Az. 0262.0-14-0395
+- TOP 3.5.3.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e.V. Maifeier 2024 am 01.05.2024 2.010,00 Euro; Az. 0262.0-14-0379
+- TOP 3.5.4.: (E) Stadtbezirksbudget ESV München-Ost e.V. Fit im Echardinger Park vom 01.05. bis 31.08.2024 3.950,00 Euro; Az. 0262.0-14-0396
+- TOP 3.5.5.: (E) Stadtbezirksbudget Initiative "Kinderyoga" Kinderyoga vom 10.06. bis 15.07.2024 510,00 Euro; Az. 0262.0-14-0398
+- TOP 3.5.6.: Ergänzung der Schaukästen für den Stadtbezirk 14 Berg am Laim um weitere Standorte; Antrag der Fraktion DIE GRÜNEN und DIE LINKE
+- TOP 3.5.8.: Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2024 bis 2028; Anhörung der Stadtkrämmerei
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Kranzhornstr. 9
+- TOP 3.6.2.: Josephsburgstr. 112
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten März 2024
+- TOP 4.1.2.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 4.1.3.: Informationen über Wegeverbindung in der Grünanlage am Echardinger Anger
+- TOP 4.1.4.: Werksviertel Bebauungsplan mit Grünordnung Nr. 2061 WA 2(1) und WA 2(2) In-House-Vergabe; WA 1 Senior*innenwohnanlage mit Mehrgenerationenanteil Wohnen in Holzbauweise Modellprojekt Fahrradwohnen
+- TOP 4.1.5.: kostenlose Toiletten an der U-Bahnstation Innsbrucker Ring
+- TOP 4.1.6.: Hochbeete für Berg am Laim
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Erika-Köth-Straße: Parken auf provisorischem „Gehweg“ vorübergehend erlauben
+- TOP 4.2.2.: Neumarkter Straße für den Radverkehr sicherer machen
+- TOP 4.2.3.: Ergebnisse der turnusmäßigen Erhebung des Einzelhandels 2021 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München
+- TOP 4.2.4.: Erhöhung der Verkehrssicherheit und Aufenthaltsqualität im Straßenraum – Umsetzung des Radentscheidprojekts Truderinger Straße zwischen Baumkirchner Straße und Haringerweg (Stadtbezirk 14)
+- TOP 4.2.5.: Teilwiderrufe Absolutes Haltverbot, verkehrliche Anpassung nach Baumaßnahme "Macherei" in der Levelingstr.
+- TOP 4.2.6.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 4.2.7.: Grundlagen des Demographie Berichts für Berg am Laim
+- TOP 4.2.8.: Haltverbot in der Grafinger Str. zwischen Innsbrucker Ring und Ampfingstr. zur Verbesserung der Zuverlässigkeit des Linienbusverkehrs
+- TOP 4.2.9.: Verschmälerung der Aschheimer Str. durch die Einführung der Busspur
+- TOP 4.2.10.: Suchkreismitteilung zu Mobilfunkanlagen: a) Truderinger Straße / Schatzbogen
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Kurzbericht zu den mobilen Kunst-Spiel-Aktionen von CultureClouds
+- TOP 4.3.2.: Grüner Markt - Maifeier am 01.05.2023 Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.3.3.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Zustimmung zu den Baumfällungen an der Schildensteinstr. 15
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.2.7: Änderung der Zuleitungspraxis der Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Fahrleitung Tram
+- TOP 3.2.7.: Änderung der Zuleitungspraxis der Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Fahrleitung Tram
+- TOP 1.1.2.: Nachtrag TOP 3.3.5: Grünanlage an der St.-Veit-Str. "Kinderfest des Bezirksausschusses 14 - Berg am Laim" am 22.06.2024, Frist: 07.05.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.5.: Grünanlage an der St.-Veit-Str. "Kinderfest des Bezirksausschusses 14 - Berg am Laim" am 22.06.2024, Frist: 07.05.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 1.1.3.: Nachtrag TOP 3.5.7 (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e.V. (für Weha-Treff) Feier „10 Jahre Weha-Treff“ am 07.06.2024 3.445,00 Euro; Az. 0262.0-14-0399
+- TOP 3.5.7.: (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e.V. (für Weha-Treff) Feier „10 Jahre Weha-Treff“ am 07.06.2024 3.445,00 Euro; Az. 0262.0-14-0399
