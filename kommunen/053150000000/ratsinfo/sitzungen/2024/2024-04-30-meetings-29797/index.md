@@ -1,0 +1,75 @@
+# 24. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-30T15:37:00+02:00
+- Ende: 2024-04-30T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29797
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29797
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Popkultur
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der FDP-Fraktion: Transparenz bei Besucherstatistik der Kölner Philharmonie schaffen - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bedarfsfeststellungbeschluss für die Neuausstattung der Zentralbibliothek nach Abschluss der Generalsanierung - ungeändert beschlossen
+- TOP 4.2: Freigabe von Mitteln der Kulturförderabgabe zur Förderung des "Film Festival Cologne 2024" - ungeändert beschlossen
+- TOP 4.3: Zuwendung des Nachlasses des Künstlerehepaares Bernard Schultze und Ursula Schultze-Bluhm an die Kunststiftung im Museum Ludwig - ungeändert beschlossen
+- TOP 4.4: Konzept "Open-Air-Kulturflächen" - zurückgestellt
+- TOP 4.5: Umsetzung einer Maßnahme der Kulturentwicklungsplanung: Materialkarussell der Kölner Kultur - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen in 2024 - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Sachstandsbericht Kulturraummanagement (KRM) - 03/2024 - Kenntnis genommen
+- TOP 8.2: Leitbild "Kulturelle Teilhabe in Vielfalt": Aktualisierte Fassung nach Änderungsantrag - Kenntnis genommen
+- TOP 8.3: Gedenkveranstaltung „Birlikte - Zusammenhalten“ - Kenntnis genommen
+- TOP 8.4: Referat für Geschichtsinitiativen - Kenntnis genommen
+- TOP 8.5: Verlängerung der Stelle „Referent*in für Geschichtsinitiativen" - Kenntnis genommen
+- TOP 8.6: Besucher*innenzahlen der Museen der Stadt Köln 2023 - Kenntnis genommen
+- TOP 8.7: Zeughaus/Alte Wache - Ergebnisbericht der baufachlichen Untersuchung - Kenntnis genommen
+- TOP 8.8: Eröffnung des neuen Kölnischen Stadtmuseums - Rückblick und Ausblick - Kenntnis genommen
+- TOP 8.9: Sonderausstellungsprogramm des Kölnischene Stadtmuseums (KSM), hier: Ankündigung einer Intervention in der Open Space - Area zum Thema "Migrantischer Fußball" - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 23. April 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 8. April 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 19. April 2024 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu den Hallen Kalk - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 30.01.2024 (AN 4074/2023) betreffend "Freigabe von Finanzmitteln aus der Kulturförderabgabe 2023/2024" - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 29.08.2024 betreffend Rechtsstreit Volksbühne am Rudolfplatz - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 12.03.2024 betreffend Skulpturenpark Köln-Stammheim - Kenntnis genommen
+- TOP 10.6: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 31.01.2023 (AN/0198/2023) betreffend "Werbemaßnahmen für (Sonder-) Ausstellungen" - Kenntnis genommen
+- TOP 10.7: Ergänzende Beantwortung einer schriftlichen Anfrage (AN1506/2023) der Bündnispartner aus der Sitzung des Ausschusses Kunst und Kultur vom 28.08.2023 betr. Sachstand "Kunst im öffentlichen Raum" (KEP). Erstmalige Beantwortung 0367/2024. - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der SPD-Fraktion: Zugang zum Areal Hallen Kalk - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 26.09.2023 (AN1702/2023) betreffend "Zugang zum Areal Kalk" - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Bündnispartner Bündnis90/Die Grünen, CDU & Volt: Kulturamt als Servicestelle - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Grüne und Volt aus der Sitzung des Ausschusses Kunst und Kultur vom 26.09.2023 (AN/1711/2023) betreffend "Kulturamt als Servicestelle" - Kenntnis genommen
+- TOP -: Ergänzende Antwort der Verwaltung vom 15.04.2024 - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Vergnügungssteuer für Tanzveranstaltungen - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion zur Vergnügungssteuer für Tanzveranstaltungen (AN/2084/2023) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage zur Vorlage 3941/2023 aus der Sitzung des Ausschusses für Kunst und Kultur zum Thema: Vergnügungssteuer für Tanzveranstaltungen - Kenntnis genommen
+- TOP 11.4: Schriftliche Anfrage der Fraktion Die Linke: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 12.04.2024 - Kenntnis genommen
+- TOP 11.5: Schriftliche Anfrage der SPD-Fraktion: Kunststandort Köln strategisch weiterentwickeln! - Kenntnis genommen
+- TOP -: Antwort der Verwaltung 29.04.2024 - Kenntnis genommen
+- TOP 11.6: Schriftliche Anfrage der FDP-Fraktion: Sachstand Hallen Kalk 76 und 77 - zurückgestellt
+- TOP 11.7: Schriftliche Anfrage der SPD-Fraktion: Finanzierung des Germania Judaica e.V. - zurückgestellt
+- TOP 11.8: Schriftliche Anfrage der SPD-Fraktion: Museumsstandort MoK attraktiver machen – Leerstand im Museumscafé beenden - zurückgestellt
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen, Frau von Bülow: Planungsgruppe Kulturbaumaßnahmen
+- TOP 12.2: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen, Frau von Bülow: Sachstand Rheinisches Bildarchiv
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen, Frau von Duiven: Mietvertrag mit Raum13
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6: Tagesordnungspunkt (betrifft Privatpersonen)
