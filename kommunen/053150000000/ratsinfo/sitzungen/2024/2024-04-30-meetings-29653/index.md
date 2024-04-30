@@ -1,0 +1,64 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-04-30T14:10:00+02:00
+- Ende: 2024-04-30T16:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29653
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29653
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation: Steigende Queerfeindlichkeit an Kölner Schulen - Kenntnis genommen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung von Kindertagespflegepersonen - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Anregung der Bezirksvertretung Kalk zu "Bereitstellung von Mitteln für eine pädagogische Betreuung am Dirttrack der AbenteuerHallen Kalk" - geändert beschlossen
+- TOP -: Bereitstellung von Mitteln für eine pädagogische Betreuung am Dirttrack der AbenteuerHallen Kalk - Kenntnis genommen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des öffentlichen Spielplatzes Am Westhover Berg in Köln-Westhoven - ungeändert beschlossen
+- TOP 3.2: Strukturförderfonds 2024 - geändert beschlossen
+- TOP -: Zu TOP 3.2 Strukturförderfonds 2024 - geändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Kölner Konzept zur Bekämpfung von Wohnungslosigkeit - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Jugendschutzpartys in Köln an Karneval - Kenntnis genommen
+- TOP -: Jugendschutzparties in Köln an Karneval - Kenntnis genommen
+- TOP 6.1.2: Absage einer partizipativ vereinbarten Jugendveranstaltung (Open Air Kino) durch den Bürgerverein Volkhoven/Weiler - Kenntnis genommen
+- TOP -: Absage einer Kinoveranstaltung durch den Bürgerverein Volkhoven/Weiler auf einer von ihm gepachteten städtischen Fläche - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Schulpsychologischer Dienst - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Qualitätsentwicklungsprozess Familienzentren - Kenntnis genommen
+- TOP 8.2.2: Trägerwechsel zum 01.08.2024 von Muuzepückelchen e.V. nach Niehlpferdchen e.V. - Kenntnis genommen
+- TOP 8.2.3: Pilotprojekt QiK - Quereinstieg in Kita Kinderpflege - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Elternbefragung zur Corona-Pandemie - Kenntnis genommen
+- TOP 8.5.2: Sachstandsbericht zur Fortschreibung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - Kenntnis genommen
+- TOP 8.5.3: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2023 - Kenntnis genommen
+- TOP 8.5.4: Sachbericht des Kölner Flüchtlingsrates e.V. zum Projekt „Brückenbauer*“ für das Jahr 2023 - Kenntnis genommen
+- TOP 8.5.5: EHAP Plus Projekt INKA - In Köln Ankommen - Sachstandsbericht für den Zeitraum 01.10.2022 bis 31.12.2023 - Kenntnis genommen
+- TOP 8.5.6: Weiterführung des Angebots "Plan27" - Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre zur Überleitung ins Regelsystem und Entwicklung einer beruflichen Perspektive - Kenntnis genommen
+- TOP 8.5.7: Bericht zur kommunalen Elternberatung Inklusion im Amt für Schulentwicklung - Kenntnis genommen
+- TOP 8.5.8: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 8.5.9: Steigende Queerfeindlichkeit an Schulen - Kenntnis genommen
