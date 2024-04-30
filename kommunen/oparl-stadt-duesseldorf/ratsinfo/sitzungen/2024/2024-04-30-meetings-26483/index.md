@@ -1,0 +1,57 @@
+# Gemeinsame Sitzung: Opernhaus der Zukunft Ausschuss für öffentliche Einrichtungen, Stadtökologie, Abfallmanagement und Bevölkerungsschutz, Ausschuss für Planung und Stadtentwicklung, Bauausschuss und Kulturausschuss, Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-04-30T12:00:00+02:00
+- Ende: 2024-04-30T14:52:00+02:00
+- Ort: CCD Congress Center Düsseldorf Stockumer Kirchstraße 61 40474 Düsseldorf Raum 2
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/400213, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/17, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26483
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26483
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519007.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023 - abweichend beschlossen
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023 - abweichend beschlossen
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023 - abweichend beschlossen
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023 - abweichend beschlossen
+- TOP 3.1: Genehmigung der Niederschrift zur Sondersitzung Opernhaus der Zukunft am 07.06.2023 - abweichend beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - passieren lassen
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - passieren lassen
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - passieren lassen
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - Empfehlung mehrheitlich abgelehnt
+- TOP 4.1: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - passieren lassen
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - passieren lassen
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - passieren lassen
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - passieren lassen
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - zur Kenntnis genommen
+- TOP 4.2: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - passieren lassen
