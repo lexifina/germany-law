@@ -1,0 +1,5 @@
+# § 32a Untätigkeit im Wahlprüfungsverfahren
+(1) Hat der Landtag über einen Einspruch ohne zureichenden Grund innerhalb der Frist des § 13 Absatz 1 Satz 2 des Sächsisches Wahlprüfungsgesetzes vom 22. Juni 1994 (SächsGVBl. S. 1249), das durch Artikel 1 des Gesetzes vom 17. April 2024 (SächsGVBl. S. 432) geändert worden ist, in der jeweils geltenden Fassung, nicht entschieden, so kann abweichend von § 32 die Beschwerde über die Gültigkeit der Wahl oder den Verlust der Mitgliedschaft im Landtag erhoben werden.
+(2) Liegt ein zureichender Grund dafür vor, dass über den Einspruch noch nicht entschieden worden ist, so setzt der Verfassungsgerichtshof das Verfahren bis zum Ablauf einer von ihm bestimmten Frist, die verlängert werden kann, aus.
+(3) Wird dem Einspruch innerhalb der vom Verfassungsgerichtshof gesetzten Frist durch den Landtag stattgegeben, stellt der Verfassungsgerichtshof das Verfahren ein.
+(4) Entscheidet der Landtag nicht innerhalb der vom Verfassungsgerichtshof gesetzten Frist nach Absatz 2, entscheidet der Verfassungsgerichtshof über die Gültigkeit der Wahl. Das Wahlprüfungsverfahren gilt als beendet.
