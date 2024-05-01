@@ -44,6 +44,7 @@ Abschnitt 2 Straf- und Bußgeldsachen
 § 25 Bußgeldverfahren
 Abschnitt 3 Fachgerichtsbarkeiten
 § 26 Fachkammern bei den Sozialgerichten
+§ 26a Asylstreitigkeiten
 Teil 3 Verwaltungsaufgaben
 § 27 Anerkennung ausländischer Entscheidungen in Ehesachen
 § 28 Befugnisse nach dem Gesetz über internationale Patentübereinkommen
