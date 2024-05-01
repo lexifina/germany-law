@@ -72,7 +72,7 @@ Unterabschnitt 4 Verlust der Beamtenrechte
 § 62 Wiederaufnahmeverfahren
 Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis
 Unterabschnitt 1 Allgemeine Pflichten und Rechte
-§ 63 Diensteid
+§ 63 Verpflichtung zur Verfassungstreue, Diensteid
 § 64 Verantwortung für Amtshandlungen von Vollzugsbeamtinnen und Vollzugsbeamten
 § 65 Beamtenrechtliche Folgen der Ausübung eines Mandats
 § 66 Unparteilichkeit bei Amtshandlungen
@@ -83,7 +83,7 @@ Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 71 Fernbleiben vom Dienst
 § 72 Wohnort
 § 73 Aufenthalt in der Nähe des Dienstorts
-§ 74 Dienstkleidung
+§ 74 Dienstkleidung, Erscheinungsbild
 § 75 Dienstvergehen von Ruhestandsbeamtinnen und Ruhestandsbeamten
 § 76 Verjährung von Schadenersatzansprüchen
 § 77 Mutterschutz und Elternzeit
@@ -158,6 +158,7 @@ Unterabschnitt 1 Laufbahnen der Fachrichtung Polizei
 § 134 Gemeinschaftsunterkunft
 § 135 Heilfürsorge
 § 136 Dienstkleidung
+§ 136a Wechselkennzeichnung
 § 137 Verbot der Führung der Dienstgeschäfte
 § 138 Polizeidienstunfähigkeit
 § 138a Gesundheitsvorsorge
@@ -194,4 +195,6 @@ Abschnitt 12 Übergangs- und Schlussvorschriften
 § 162 Übergangsregelung zur Übertragung eines Amtes mit leitender Funktion im Beamtenverhältnis auf Zeit
 § 163 Übergangsregelung zur Neuregelung des Nebentätigkeitsrechts
 § 164 Übergangsregelung zur Altersteilzeit
+§ 164a Übergangsregelung für das Verfahren zur Überprüfung der Verfassungstreue
 § 165 Verwaltungsvorschriften
+§ 166 Einschränkung eines Grundrechts
