@@ -239,10 +239,10 @@
 | § 50a | (weggefallen) |
 | § 50b | (weggefallen) |
 | § 50c | (weggefallen) |
-| § 50d | (zukünftig in Kraft) |
+| § 50d | Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung |
 | § 50e | (weggefallen) |
 | § 50f | (weggefallen) |
-| § 50g | Flexibilisierung der Gasbelieferung |
+| § 50g | (weggefallen) |
 | § 50h | (weggefallen) |
 | § 50i | (weggefallen) |
 | § 50j | Evaluierung der Maßnahmen nach den §§ 50a bis 50h |

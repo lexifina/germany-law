@@ -7,7 +7,7 @@ Die Prüfer haben folgende Rechte und Pflichten:
 – in der Prüfung den Umfang der Befähigung des Bewerbers festzustellen;
 – in der Prüfungskommission über Bestehen oder Nichtbestehen der Prüfung, über Erteilung oder Nichterteilung der Fahrerlaubnis sowie ggf. über zu erteilende Auflagen zu entscheiden;
 – während der Prüfung Ruhe und Ordnung aufrechtzuerhalten, um im Interesse aller Bewerber einen ordnungsgemäßen Prüfungsablauf zu gewährleisten;
-– alle Entscheidungen nach Maßgabe der gesetzlichen Vorschriften zu treffen und dabei die Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur, die sonstigen Anordnungen der Verbände sowie die Weisungen der zuständigen Fachaufsichtsbehörde zu beachten;
+– alle Entscheidungen nach Maßgabe der gesetzlichen Vorschriften zu treffen und dabei die Richtlinien des Bundesministeriums für Digitales und Verkehr, die sonstigen Anordnungen der Verbände sowie die Weisungen der zuständigen Fachaufsichtsbehörde zu beachten;
 – sich bei Entscheidungen, die nach pflichtgemäßem Ermessen zu treffen sind, ausschließlich von sachgerechten Erwägungen leiten zu lassen und sachfremde Überlegungen nicht zu berücksichtigen;
 – sich den Bewerbern gegenüber höflich, aber bestimmt zu verhalten.
 Über die Belehrung ist eine Niederschrift nach Anhang 1 zu Anlage 7 zu führen.

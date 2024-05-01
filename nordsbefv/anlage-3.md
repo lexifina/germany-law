@@ -2289,7 +2289,7 @@ II. Niedersachsen
 | 4. | Greetsieler Legde | 53°33,49'N, 7°1,70'E |
 | 5. | Hechtsand | 53°50,506'N, 8°17,836'E |
 | 6. | Hullbalje | 53°44,65'N, 7°39'E |
-| 7. | Jadebusen | 53°28,96'N, 8°10,92'E |
+| 7. | Jadebusen* | 53°28,96'N, 8°10,92'E |
 | 8. | Juist Bill (für in Juist und Norderney beheimatete Boote) | 53°39,82'N, 6°53,52'E (im Umkreis von 120 m) |
 | 9. | Kaiserbalje | 53°38,1'N, 8°15'E |
 | 10. | Knechtsand* | 53°44,84'N, 8°20,46'E |

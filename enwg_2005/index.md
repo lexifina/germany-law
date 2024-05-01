@@ -244,7 +244,7 @@
 - [§ 50d Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung](0050d.md)
 - [§ 50e (weggefallen)](0050e.md)
 - [§ 50f (weggefallen)](0050f.md)
-- [§ 50g Flexibilisierung der Gasbelieferung](0050g.md)
+- [§ 50g (weggefallen)](0050g.md)
 - [§ 50h (weggefallen)](0050h.md)
 - [§ 50i (weggefallen)](0050i.md)
 - [§ 50j Evaluierung der Maßnahmen nach den §§ 50a bis 50h](0050j.md)
