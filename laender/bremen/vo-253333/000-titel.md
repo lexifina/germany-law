@@ -1,1 +1,1 @@
-# Verordnung über das Verbot der Straßenprostitution in der Stadt Bremerhaven vom 10. April 2019
+# Verordnung über das Verbot der Straßenprostitution in der Stadt Bremerhaven vom 20. November 2024
