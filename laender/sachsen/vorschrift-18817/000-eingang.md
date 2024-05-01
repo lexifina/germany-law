@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung über die Ausbildung und Prüfung im Vorbereitungsdienst für die erste Einstiegsebene der Laufbahngruppe 2 der Fachrichtung Justiz mit dem fachlichen Schwerpunkt Justizdienst (Sächsische Ausbildungs- und Prüfungsordnung Rechtspfleger – SächsAPORPfl)
 erlassen als Artikel 1 der Verordnung des Sächsischen Staatsministeriums der Justiz und für Demokratie, Europa und Gleichstellung zur Änderung der Ausbildungs- und Prüfungsordnungen für die erste Einstiegsebene der Laufbahngruppe 2 der Fachrichtung Justiz mit dem fachlichen Schwerpunkt Justizdienst des Freistaates Sachsen
 Vom 15. Juli 2020
+Rechtsbereinigt mit Stand vom 1. Mai 2024
