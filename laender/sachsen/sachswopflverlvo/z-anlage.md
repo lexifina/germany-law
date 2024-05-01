@@ -1,7 +1,8 @@
 # Anlage (zu § 1)
 Staatenliste
+Ägypten
 Algerien
-Andorra
+Angola
 Äquatorialguinea
 Argentinien
 Armenien
@@ -10,9 +11,12 @@ Australien
 Bangladesch
 Belarus
 Benin
+Bhutan
 Bolivien, Plurinationaler Staat
 Brasilien
 Burkina Faso
+Burundi
+Chile
 Costa Rica
 Côte d’Ivoire
 Dominikanische Republik
@@ -20,20 +24,19 @@ Dschibuti
 Ecuador
 Gabun
 Gambia
-Georgien
-Guatemala
 Guinea-Bissau
 Haiti
-Honduras
 Indien
+Indonesien
+Israel
 Japan
 Jordanien
 Kambodscha
 Kamerun
-Kanada
 Kasachstan
 Kenia
 Kolumbien
+Komoren
 Kongo
 Kongo, Demokratische Republik
 Korea, Republik
@@ -41,43 +44,45 @@ Kuba
 Libanon
 Liberia
 Libyen
+Madagaskar
 Malawi
-Malaysia
 Mali
 Marokko
 Mauretanien
 Mauritius
 Mexiko
-Moldau, Republik
 Mongolei
 Mosambik
 Namibia
 Nepal
-Neuseeland
 Nicaragua
 Niger
 Nigeria
 Pakistan
+Panama
 Paraguay
 Peru
 Russische Föderation
+Sambia
+São Tomé und Príncipe
 Schweiz
 Sierra Leone
 Simbabwe
 Sri Lanka
-St. Kitts und Nevis
-St. Lucia
 Südafrika
 Tadschikistan
 Tansania, Vereinigte Republik
 Thailand
+Timor-Leste
 Togo
 Tschad
 Tunesien
+Türkei
 Turkmenistan
-Uganda
 Ukraine
 Usbekistan
+Vereinigte Arabische Emirate
 Vereinigte Staaten
 Vereinigtes Königreich
 Vietnam
+Zentralafrikanische Republik.
