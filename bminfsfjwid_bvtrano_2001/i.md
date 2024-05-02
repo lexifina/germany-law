@@ -1,3 +1,0 @@
-# I. Erlass von Widerspruchsbescheiden
-
-Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 126 Abs. 3 Nr. 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) übertrage ich die Befugnis, Widerspruchsbescheide in Beihilfeangelegenheiten zu erlassen dem Bundesverwaltungsamt, soweit es den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen oder den Erlass eines Verwaltungsaktes oder einen Anspruch abgelehnt hat und Beamtinnen und Beamte aus dem Bundesministerium für Familie, Senioren, Frauen und Jugend, der Bundesprüfstelle für jugendgefährdende Schriften sowie dem Bundesamt für den Zivildienst betroffen sind.
