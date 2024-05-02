@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-05-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905685
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905685
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Kitaförderung Laim
+- TOP 2: Anträge
+- TOP 2.1.: Familien- und Ferienpässen für Einrichtungen im Stadtbezirk Laim
+- TOP 2.2.: Die Laimer Röhre endlich verkehrssicher für Fussgänger
+- TOP 2.3.: Planung Parklizenzgebiete in Laim umsetzen
+- TOP 2.4.: Information Öffentlichkeitsbeteiligung Bauleitpläne
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget wohlBEDACHT e.V. Ausstattung der Räumlichkeiten der Nachtpflege München-Allach vom 12.02. - 30.04.2024 2.700,00 Euro, Az.: 0262.025-0326
+- TOP 3.2.: (E) Stadtbezirksbudget Pfarrjugend Fronleichnam neue Zelte für unser Zeltlager vom 26.07. - 05.08.2024 2.219,00 Euro / Az. 0262.0-25-0329
+- TOP 3.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Beschluss des Bezirksausschusses des Stadtbezirkes 25 - Laim vom 02.05.2024 Öffentliche Sitzung Freischankfläche: Inderstorferstr. 15, 80689 München
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 03.04.24: Veranstaltung in einer städtischen Grünanlage; Hier: Bez. 25, Laimer Anger, POP UP STAGE am 08.06.2024 (ohne Ersatztermin);
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 08.04.24: Veranstaltung in einer städtischen Grünanlage; Hier: Grünfläche Ecke Schrobenhausener Straße 1 / Ilse-Weber-Straße, Sommerfest zum Patrozinium am 30.06.2024
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 12.04.24: Veranstaltung in einer städtischen Grünanlage; Hier: Bez. 25, Von-der-Pfordten-Str. 59 –“Quartiersfest kreuz&quer“ am 16.07.2024 (Ohne Ersatztermin);
+- TOP 4.5.: Schreiben Mobilitätsreferat vom 08.04.24: Verkehrsrechtliche Anordnung Senftenauerstraße
+- TOP 4.6.: Schreiben Sozialreferat vom 05.03.24: Ausschreibung Stadtteil-Koffer 2025
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 291, Grundstück 292/29-Laim Umnutzung Bürofläche in 2 Ferienwohnung, keine Änderung der Gebäudehülle, keinen Eingriff in statische Bauteile
+- TOP 5.2.: Eringerstr. 24, Grundstück 1575/112-Pasing Umbau und Erweiterung des bestehenden Wohnhauses - ÄNDERUNGSANTRAG zu 1.23-2023-17568-23 - jetzt: Erweiterung eines bestehenden Einfamilienhauses um eine Kelleraußentreppe mit Einhausung im EG und Erweiterung des Windfangs
+- TOP 5.3.: Agnes-Bernauer-Str. 16, grundstück 314/45-Laim Neubau eines Wohngebäudes mit Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2015-18994-23
+- TOP 5.4.: Eringerstr. 42, Grundstück: 1585/22-Pasing Um- und Anbau eines Einfamilienhauses
+- TOP 5.5.: Hans-Thonauer-Str., Grundstück: 8485/15-Sektion V Neubauprojekt WZebm auf dem Areal Westend- / Zschokkestraße WA1 - VORBESCHEID (Hans-Thonauer-Str. / Kiem-Pauli-Weg)
+- TOP 5.6.: Hans-Thonauer-Str. 5, Grundstück: 8487/17-Sektion V Neubau WBO 2.0 Werkswohnbebauung mit Kindertagesstätte und Tiefgarage auf dem Areal Westend- / Zschokkestraße WA1 - VORBESCHEID
+- TOP 5.7.: Landsberger Str. 212, Grundstück: 238/2-Neuhausen Vorhaben Nutzungsänderung "Papier Stein" EG Nordteil: Büro-in Veranstaltungsnutzung mit Schankgarten UG Nordteil: Lager-in Veranstaltungsnutzung
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Soziales und Bildung /Gesundheit vom 16.01.24
+- TOP 7.2.: Protokoll UA Soziales vom 28.02.24
+- TOP 7.3.: Protokoll UA Umwelt, Klima und Baumschutz vom 09.04.24
+- TOP 7.4.: Protokoll BA-Sitzung vom 11.04.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.04.24: Fällung Siglstr.. 1 - 5, Agnes-Bernauer-Str. 29
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.04.24: Fällung Riegerhofstr. 3
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.03.24: Fällung Agnes-Bernauer-Str. 103
+- TOP 8.4.: Bautenliste 18.03.24-24.03.24: A) Erstantragsverfahren 1. Kärntner Platz 3 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Kärntner Platz 3
+- TOP 8.5.: Bautenliste 25.03.24-31.03.24: A) Erstantragsverfahren: 1. Landsberger Str. 212
+- TOP 8.6.: Bautenliste 01.04.24 - 07.04.24: A) Erstantragsverfahren 1. Ronpeckhstr. 18 B) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Landsberger Str. 180
+- TOP 8.7.: Schreiben SWM vom 27.03.24: Verlegung Abspannmasten Westendstraße
+- TOP 8.8.: Schreiben SWM vom 03.04.24: Baumaßnahmen
+- TOP 8.9.: Schreiben SWM vom 08.04.24: Baumaßnahmen
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 04.04.24: Einbahnregelung Straubingerstraße
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 10.04.24: Zwischennachricht wegen Fristverlängerung, BA-Antrag Bessere Beschilderung; Nr. 06298
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 09.04.24: Attraktive Nord-Süd-Radwegverbindung im Münchner Westen
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 05.04.24: Verkehrsführung Fürstenrieder Straße/Gotthardstraße
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 28.03.24: VA Gotthardstraße
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 27.03.24: Stroblstraße
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 25.03.24: Bescheid Berchemstr. 93
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 12.04.24: VA Gotthardstr._U_00726_24_V_2.Zwischenphase
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.04.24: Keine neuen Bürohäuser
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.03.24: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 8.20.: Beschluss der Vollversammlung des Stadtrates vom 20.03.24: (U) Neueröffnung von Unterkünften zur Unterbringung Geflüchteter an den Standorten - Baierbrunner Str. 30, - Savitsstraße (Flst. 792/1, Daglfing) Verlängerung einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort - Hans-Thonauer-Straße 3d 13. Stadtbezirk - Bogenhausen 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 25. Stadtbezirk - Laim
+- TOP 8.21.: Beschluss der Vollversammlung des Stadtrates vom 20.12.23: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 8.22.: Beschluss des gemeinsamen Mobilitätsausschusses mit dem Ausschuss für Klima- und Umweltschutz vom 17.04.24: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Busschleife Laimer Platz (Weiterleitung an Baureferat)
+- TOP 9.2.: Ampel Ecke Siglstraße/Ludwig-Richter-Straße Begrenzung Pfarrer-Endres-Weg (Vertagung in UA Mobilität)
+- TOP 9.3.: Defekter Zaun am Spielplatz Walter-Scott-Str. 9 (Weiterleitung an Baureferat)
+- TOP 4.7.: Schreiben Direktorium vom 19.04.24: Stärkung der Rechte der Bezirksausschüsse, hier: Anhörungsrecht bei Sportentwicklungsplanung, Antrag BA 24 Feldmoching-Hasenbergl vom 17.10.2023
+- TOP 4.8.: Schreiben Referat für Arbeit und Wirtschaft vom 15.04.2024: Neuausschreibung der City-Light-Säulen
+- TOP 4.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.04.24: Planänderungsantrag (Tektur G), Tram-Westtangente, PFA 1 Romanplatz bis Wendeschleife am Waldfriedhof
