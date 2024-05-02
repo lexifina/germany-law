@@ -16,8 +16,8 @@ Vorbemerkung:
 7. Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
   Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
   Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
-  Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen. Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines Leerzeichens voranzustellen.
-8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
+  Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen. Ihm ist die Zeichenfolge „GEB.“ unter Hinzufügung eines Leerzeichens voranzustellen.
+8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Reise-, Dienst- und Diplomatenpass in dem Datenfeld „Doktorgrad“, im vorläufigen Reise-, Diplomaten- und Dienstpass in dem Datenfeld „Name“ eingetragen. Die Anzahl der für den Namenseintrag vorgesehenen Zeichen verringert sich um die für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigte Zeichenzahl, sofern diese Eintragung im Datenfeld „Name“ vorgenommen wird.
 9. Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
   Beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und sieben Ziffern.
 10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x 45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen Reisepass, im Dienstpass sowie im Diplomatenpass in den Abmessungen 32 x 41 mm verkleinert darzustellen.
@@ -50,7 +50,8 @@ Tabelle 1: Reisepass, Dienst- und Diplomatenpass
 | 11 | Wohnort (Seite 1) | 35 Zeichen pro Zeile; 3 Zeilen (insgesamt 105 Zeichen) | Nicht zulässig |
 | 12 | Größe (Seite 1) | 3 Zeichen pro Zeile; 1 Zeile (insgesamt 3 Zeichen) | Nicht zulässig |
 | 13 | Augenfarbe (Seite 1) | 35 Zeichen pro Zeile; 1 Zeile (insgesamt 35 Zeichen) | Nicht zulässig |
-| 14 | Ordens- oder Künstlername (Seite 1) | 35 Zeichen pro Zeile; 1 Zeile (insgesamt 35 Zeichen) | Nicht zulässig |
+| 14 | [a] Doktorgrad (Seite 1) | [a] 31 Zeichen pro Zeile; 1 Zeile | [a] Nicht zulässig |
+| [b] Ordens- oder Künstlername (Seite 1) | [b] 31 Zeichen pro Zeile; 1 Zeile (insgesamt 62 Zeichen) | [b] Nicht zulässig |
 | 11 | Dienstort und Dienstbezeichnung (Seite 1) | 35 Zeichen pro Zeile; 9 Zeilen (insgesamt 315 Zeichen) | Nicht zulässig |
 | ohne | Passaktennummer(Seite 1) | 35 Zeichen pro Zeile; 1 Zeile (insgesamt 35 Zeichen) | Nicht zulässig |
 | ohne | Behörde bzw. Ausstellungsort (Seite 2) | 35 Zeichen pro Zeile; 3 Zeilen (insgesamt 105 Zeichen) | Nicht zulässig |

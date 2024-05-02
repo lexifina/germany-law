@@ -15,7 +15,7 @@ Vorbemerkung:
   Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind unzulässig.
   Bei der Personalisierung des Aufklebers zur Änderung der Anschrift auf dem Personalausweis ist die Seriennummer in der Schriftgröße 3 einzutragen. Die Eintragungen zur Postleitzahl, zum Wohnort sowie zur Straße und Hausnummer sind in der Schriftgröße 3 im Fettsatz vorzunehmen.
 7. Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, ist der Geburtsname in einer eigenen Zeile einzutragen. Bei vorläufigen Personalausweisen und Ersatz-Personalausweisen ist dem Geburtsnamen die Zeichenfolge „GEB.“ unter Hinzufügung eines Leerzeichens voranzustellen.
-8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser oder werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
+8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Personalausweis im Datenfeld „Doktorgrad“, im vorläufigen Personalausweis im Datenfeld „Name“ eingetragen. Die Anzahl der für den Namenseintrag vorgesehenen Zeichen verringert sich um die für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigte Zeichenzahl, sofern diese Eintragung im Datenfeld „Name“ vorgenommen wird.
 9. Die alphanummerische Seriennummer des Personalausweises wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet. Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
 10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x 45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen Personalausweis verkleinert mit den Abmessungen 29 x 37 mm darzustellen.
 | Datenfelder | Anzahl der zur Verfügung stehenden Zeichen |
@@ -30,7 +30,8 @@ Vorbemerkung:
 | Straße und Hausnummer | 25 Zeichen pro Zeile; 2 Zeilen (insgesamt 50 Zeichen) | Einträge in Schriftgröße 2 sind unzulässig |
 | Größe | 3 Zeichen pro Zeile; 1 Zeile (insgesamt 3 Zeichen) | Einträge in Schriftgröße 2 sind unzulässig |
 | Farbe der Augen | 19 Zeichen pro Zeile; 1 Zeile (insgesamt 19 Zeichen) | Einträge in Schriftgröße 2 sind unzulässig |
-| Ordens- und Künstlername | 20 Zeichen pro Zeile; 1 Zeile (insgesamt 20 Zeichen) | 30 Zeichen pro Zeile; 2 Zeilen (insgesamt 60 Zeichen) |
+| Doktorgrad | 20 Zeichen pro Zeile; 1 Zeile (insgesamt 20 Zeichen) | 31 Zeichen pro Zeile; 1 Zeile (insgesamt 32 Zeichen) |
+| Ordens- und Künstlername | 20 Zeichen pro Zeile; 1 Zeile (insgesamt 20 Zeichen) | 31 Zeichen pro Zeile; 1 Zeile (insgesamt 32 Zeichen) |
 | ausstellende Behörde | 19 Zeichen pro Zeile; 2 Zeilen (insgesamt 38 Zeichen) | 28 Zeichen pro Zeile; 3 Zeilen (insgesamt 84 Zeichen) |
 | Tag der Ausstellung | 8 Zeichen pro Zeile; 1 Zeile (insgesamt 8 Zeichen) | Einträge in Schriftgröße 2 sind unzulässig |
 | Datenfelder – der Aufkleber fürAnschriftänderungen | Anzahl der zur Verfügung stehenden Zeichen |
