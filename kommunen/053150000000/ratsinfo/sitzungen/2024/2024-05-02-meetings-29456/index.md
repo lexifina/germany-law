@@ -1,0 +1,91 @@
+# 28. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-02T17:30:00+02:00
+- Ende: 2024-05-02T20:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29456
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29456
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Hundefreilauffläche im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0210/2024) betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.2: Spielplatz im Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.3: Flächennutzungsplan Johannes-Giesberts-Park - Kenntnis genommen
+- TOP -: Beantwortung der Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0277/2024) betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.4: Abgeschlossenheitsbescheinigungen 2022 und 2023 für Straßen im Stadtteil Nippes - Kenntnis genommen
+- TOP -: Ergänzende Stellungnahme zur Vorlage 0740/2024 - Nippes braucht eine Soziale Erhaltungssatzung - Kenntnis genommen
+- TOP 1.5: Hundefreilauffläche Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.6: Flächennutzung Johannes-Giesberts-Park - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Niehler Straße – Errichtung von LSA - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Nippes vom 16.03.2023(AN/0464/2023), TOP Ö 7,2,5,betreffend " Niehler Straße-Errichtung von LSA" - Kenntnis genommen
+- TOP 7.1.4: Namibiastraße -- kein Parken gegenüber von Einzelgaragen - Kenntnis genommen
+- TOP -: Namibiastraße - kein Parken gegenüber Einzelgaragen - Kenntnis genommen
+- TOP 7.1.5: Umsetzung des Landschaftspflegerischen Begleitplan an der KVB-Abstellanlage in Weidenpesch - zurückgestellt
+- TOP 7.1.6: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.7: Zweiter Zaun der Mathilde-von-Mevissen-Schule - zurückgestellt
+- TOP 7.1.8: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.9: Lärmschutz im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.10: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.1.11: Anmeldesituation bei weiterführenden Schulen - zurückgestellt
+- TOP 7.1.12: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Zebrastreifen an den Kreuzungen Merkenicher Straße/Halfengasse/Franz-Denhoven-Straße und Merkenicher Straße/Hermesgasse in Alt-Niehl - ungeändert beschlossen
+- TOP 8.1.2: Situation "Am Molenkopf" verbessern - ungeändert beschlossen
+- TOP 8.1.3: Baumscheiben auf der Amsterdamer Straße in Köln-Riehl entsiegeln - ungeändert beschlossen
+- TOP 8.1.4: Verkehrssicherheit in der Longericher Straße erhöhen - ungeändert beschlossen
+- TOP 8.1.5: Hygienische Situation auf dem Grünstreifen neben dem Marktplatz an der Schallstraße in Longerich - ungeändert beschlossen
+- TOP 8.1.6: Austausch zu den Flächenkonflikten im Johannes-Giesberts-Park in Köln-Nippes - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Freigabe von Autoparkflächen für umweltfreundliche Mobilitätsalternativen und Sharing Angebote
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung eines offenen Bücherschranks auf dem Nibelungenplatz in Köln-Mauenheim - geändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an Stephanie Watin - geändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an das Handwerkerinnenhaus Köln e.V. - geändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an die St. Engelbertus Schützenbruderschaft Riehl - ungeändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an die Seniorenvertretung Nippes - ungeändert beschlossen
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an das Theaterpädagogische Zentrum e.V. - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an jfc Medienzentrum e.V. - geändert beschlossen
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an KLuG e.V. - geändert beschlossen
+- TOP 9.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.11: Vergabe bezirksorientierter Mittel an Nachbarschaft Clouth e.V. - ungeändert beschlossen
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an den Förderverein Willkommen in Nippes e.V. - geändert beschlossen
+- TOP 9.1.13: Vergabe bezirksorientierter Mittel an disdance project gUG - geändert beschlossen
+- TOP 9.1.14: Vergabe bezirksorientierter Mittel an Wilhelm - Der Verein e.V. - geändert beschlossen
+- TOP 9.1.15: Vergabe bezirksorientierter Mittel an das Senioren-Netzwerk Weidenpesch - ungeändert beschlossen
+- TOP 9.1.16: Vergabe bezirksorientierter Mittel an den 1. FSV Köln 99 - endgültig abgelehnt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Bewegungskonzept im Kölner Grün - ungeändert empfohlen
+- TOP 9.2.2: Raumbuch Mobilstationen - ungeändert empfohlen
+- TOP 9.2.3: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert empfohlen
+- TOP 9.2.4: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - mit Änderungen empfohlen
+- TOP -: ÄA Ergänzungen zum Regelwerk zur Anordnung und Gestaltung der Außengastronomie
+- TOP 9.2.5: Einrichtung des Erweiterungsbaus für den Ganztag und Einrichtung nach der Generalinstandsetzung des Hauptgebäudes des Drei König Gymnasiums, Escherstraße 247, 50733 Köln-Nippes, - ungeändert empfohlen
+- TOP 9.2.6: Anerkennung als Träger der freien Jugendhilfe; hier: "Niehlpferdchen e.V." - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sportentwicklungsplanung - Innovation durch öffentliche Sportangebote - Kenntnis genommen
+- TOP 10.2.2: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 10.2.3: Fahrradstraße Etzelstraße - Kenntnis genommen
+- TOP 10.2.4: Zukünftige Radverkehrsführung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.5: Bezug eines neuen Gerätehauses für die Löschgruppe Longerich - zurückgestellt
