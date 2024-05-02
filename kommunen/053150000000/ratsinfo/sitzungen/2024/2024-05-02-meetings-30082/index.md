@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-02T17:00:00+02:00
+- Ende: 2024-05-02T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30082
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30082
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vereidigung
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe nach § 24 GO - Spielplatz am Fühlinger See, Az.; 75/23 - ungeändert beschlossen
+- TOP -: Ersetzungsantrag der FDP - endgültig zurückgezogen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstandanfrage zum Zebrastreifen Grundschule an den Kaulen AN/2191/2021
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage des Mitglieds der Bezirksvertretung Stuhlweißenburg (CDU-Fraktion) aus der Sitzung der Bezirksvertretung 6 am 14.03.2024 betr. „Unzumutbare Wohnbedingungen in Häusern (Wohnblocks)"
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Spielplatz Olof-Palme Park in Chorweiler
+- TOP 7.2.2: ÖPNV-Verbindungen der KVB im SB-Chorweiler
+- TOP 7.2.3: S-Bahnsituation in Chorweiler
+- TOP 7.2.4: Lärmbelästigung von der BAB 1 in Pesch
+- TOP 7.2.5: Anfrage zur Verbesserung der Verkehrssituation in der Robert-Grosche-Straße/Herstattallee
+- TOP 7.2.6: Anfrage zum Einbau neuer Spielgeräte in der Olaf-Palme-Park Spielplatzanlage
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Erhalt der Einrichtung "Die Kümmerei" in Chorweiler - endgültig zurückgezogen
+- TOP -: Änderungsantrag der CDU, SPD, Bündnis 90/Die Grünen, FDP Joshua Schlimgen - ungeändert beschlossen
+- TOP 8.2.2: Aufstellung einer Luftmessstation im Ortsteil Merkenich - ungeändert beschlossen
+- TOP 8.2.3: Antrag zur Einrichtung eines Zebrastreifens an der Kreuzung Pescher Straße / Escher Straße - geändert beschlossen
+- TOP 8.2.4: Antrag zur Einrichtung einer Kurzzeitparkzone für Besucher des Friedhofs in Köln Weiler Damiansweg - geändert beschlossen
+- TOP 8.2.5: Sanierung des Rad- und Gehwegs zwischen den Straßen Am Palmkäulchen und Hermann-Löns.Straße - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Öffentlichkeitsbeteiligung zur Erstellung einer Bewegungsstation - ungeändert beschlossen
+- TOP 9.1.2: Austausch der asbesthaligen Brandschutzklappen im Worringer Vereinshaus, Sankt-Tönnis-Str. 68, 50769 Köln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP 9.2.2: Zügigkeitserweiterung der KGS Gutnickstraße, Gutnickstraße 37, 50769 Köln-Roggendorf/Thenhoven, Schulnr. 111405, zum Schuljahr 2025/26 - geändert beschlossen
+- TOP 9.2.3: Raumbuch Mobilstationen - ungeändert beschlossen
+- TOP 9.2.4: Bewegungskonzept im Kölner Grün - ungeändert beschlossen
+- TOP 9.2.5: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 9.2.6: Satzung der Sport- und Erholungsanlage Fühlinger See - geändert beschlossen
+- TOP -: Änderungsantrag der FDP - geändert beschlossen
+- TOP 9.2.7: Zügigkeitserweiterung der GGS An den Kaulen, An den Kaulen 62-64, 50769 Köln-Worringen zum Schuljahr 2025/26 bei gleichzeitiger Bildung eines Teilstandortes in der Bolligstr. 20, 50769 Köln-Worringen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Statusbericht zur Priorisierenden Schulbaumaßnahmenliste, Stand: 31.12.2023
+- TOP 10.2.2: Sportentwicklungsplanung - Innovation durch öffentliche Sportangebote
+- TOP 10.2.3: Information über die Prüfung der eingereichten Verwendungsnachweise über die bezirksorientierten Mittel 2023
+- TOP 10.2.4: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln
+- TOP 10.2.5: Krebelshof in Köln-Worringen
+- TOP 10.2.6: Bürgerschaftliches Engagement im Bezirk Chorweiler
+- TOP 10.2.7: Besuch der Bezirksvertretung durch Ascan Egerer Beigeordneter für Mobilität
+- TOP 10.2.8: Sanierungspläne zum Wohnungsbestand der ZBI/ZBVV in Köln-Chorweiler
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Mündl. Anfrage Bündnis90/Die Grünen: Schotter auf dem Gehweg Stallagsweg an der Ecke Volkhovener Weg
+- TOP 11.2.2: Mündl. Anfrage Bündnis90/Die Grünen: Sanierung des Schwimmbads in Chorweiler
+- TOP 11.2.3: Mündl. Anfrage der CDU-Fraktion: Absolutes Verkehrschaos rund um Merkenich seit Öffnung der neuen Autobahnbrücke
+- TOP 11.3: Anfragen der Seniorenvertretung
