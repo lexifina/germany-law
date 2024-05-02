@@ -1,0 +1,76 @@
+# 26. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-02T15:08:00+02:00
+- Ende: 2024-05-02T17:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29655
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29655
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Autonomes Zentrum - Beantwortung von Anfragen zum Sachstandsbericht - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.1.1: Beantwortung einer Anfrage der FDP-Fraktion v. 29.01.2024 aus der Sitzung des Stadtentwicklungsausschusses v. 01.02.2024 zum Thema: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen (AN/0164/2024) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anträge
+- TOP 3.1: Geförderten Wohnungsbau in größeren §34er-BauGB Projekten sicherstellen - zurückgestellt
+- TOP 3.1.1: Geförderten Wohnungsbau in größeren 34er-BauGB Projekten sicherstellen - zurückgestellt
+- TOP 3.2: Kitas für Merkenich - geändert beschlossen
+- TOP 3.3: Neubesetzung Begleitgremium Parkstadt Süd - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 4.1: Planfeststellungsverfahren für die Erneuerung der Gewölbereihe 38-39 in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Integriertes Stadtentwicklungskonzept Porz-Mitte - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Erbbaurecht-Baustein 2: Grundstücke für soziokulturelle Nutzung - mit Änderungen empfohlen
+- TOP 6.2: Grundsatzbeschluss – Konzeptvergabeverfahren von städtischen Grundstücken an gemeinschaftliche Wohnbauprojekte - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Umsetzung Stadtentwicklungskonzept Wohnen, hier: Beschluss über die Aufhebung der Sozialen Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet Stegerwaldsiedlung in Köln-Mülheim - ungeändert empfohlen
+- TOP 6.4: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - mit Änderungen empfohlen
+- TOP 6.6: Baubeschluss für die Umgestaltung des Albertus-Magnus-Platzes (Flächen der Stadt Köln) - ungeändert empfohlen
+- TOP 6.7: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 216. Änderung des FNP - "Mülheim-Süd und Mülheimer Hafen" in Köln-Mülheim - Feststellungsbeschluss - mit Änderungen empfohlen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - zurückgestellt
+- TOP 9.2: Anhörung der Bezirksvertretung 8 [Kalk] zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 71454/02 Arbeitstitel: Oranienstraße in Köln-Höhenberg - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Wohnpark Bayenthal in Köln-Bayenthal - geändert beschlossen
+- TOP 10.1.1: Top 10.1: Wohnpark Bayenthal – Planungssicherheit für eine stadtraumverträgliche Nachverdichtung - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 63482/02, Arbeitstitel: Rochusstraße in Köln-Ossendorf - zurückgestellt
+- TOP 12.2: Beschluss über Stellungsnahmen sowie Satzungsbeschluss bettreffend der Teilaufhebung Bebauungsplan Nr. 76403/02 (7048 Sa/02) Arbeitstitel: Münsterer Straße in Köln-Mülheim - ungeändert empfohlen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 6250/03 Arbeitstitel: „Von-Hünefeld-Straße in Köln-Ossendorf, 2. Änderung - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Aufhebung der Einleitung zur Änderung eines Teilbereich des Bebauungsplan 7441/02 sowie Beschluss zur einfachen Änderung des gesamten Bebauungsplan 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung - geändert beschlossen
+- TOP 13.1.1: Ergänzungsantrag Beschluss Aufhebung Einleitung zur Änderung Teilbereich Bebauungsplan 7441/02 sowie Beschluss einfache Änderung des gesamten Bebauungsplanes 7441/02; Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1.Änderung (4064/2023) TOP 13.2 - endgültig abgelehnt
+- TOP 13.1.2: Stellungnahme der Verwaltung zum Ergänzungsantrag der SPD-Fraktion - Kenntnis genommen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 77359/04 Arbeitstitel "Senkelsgraben" in Köln-Porz-Lind - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Unterausschusses Wohnen vom 15.01.2024 betreffend des leerstehenden Parkhauses - Kenntnis genommen
+- TOP 18.2: Kraftfahrzeuge in Köln - Ergebnis der Kraftfahrzeugsstatistik zum 31.12.2023 - Kenntnis genommen
+- TOP 18.3: Änderungen der Wohnraumförderung 2024 einschließlich Übersicht der bezugsfertigen Wohnungen 2017 bis 2023 - Kenntnis genommen
+- TOP 18.4: Wohnungsmarktbericht für Köln 2024 liegt vor - Kenntnis genommen
+- TOP 18.5: Entwicklungsplanung Weststadt, hier: Mitteilung über die Beauftragung zur Erarbeitung der Entwicklungsplanung Weststadt und über die Erhöhung des Auftragswertes - Kenntnis genommen
+- TOP 18.6: Planfeststellungsbeschluss Flughafen Köln/Bonn - Kenntnis genommen
+- TOP 18.7: Abschlussbericht der Maßnahme "Büro für Quartiersmanagement und Aktivierung" im Soziale-Stadt-Gebiet Humboldt/Gremberg und Kalk - Kenntnis genommen
+- TOP 18.8: Geschäftsbericht Wohnen in Köln 2022 - Fakten, Zahlen und Ergebnisse 2022 - Kenntnis genommen
+- TOP 18.9: Umsetzung der Sozialen Erhaltungssatzung Mülheim Süd-West Zweiter Sachstands-, Erfahrungsbericht - Kenntnis genommen
+- TOP 18.10: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 18.11: Zeitplanung der laufenden Regionalplanverfahren im Regierungsbezirk Köln - Kenntnis genommen
+- TOP 18.12: Sachstand Hallen Kalk - Kenntnis genommen
+- TOP 18.13: Auswertung der Kölner Bautätigkeitsstatistik 2023 - Kenntnis genommen
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
