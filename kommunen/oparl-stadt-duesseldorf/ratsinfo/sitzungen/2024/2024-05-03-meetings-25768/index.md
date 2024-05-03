@@ -1,0 +1,59 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-05-03T16:00:00+02:00
+- Ende: 2024-05-03T17:50:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25768
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25768
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 03.05.2024, Stand 29.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519136.pdf
+- Ergebnisprotokoll: BV9 Einladung 03.05.2024, Stand 29.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519136.pdf
+- Wortprotokoll: BV9 Einladung 03.05.2024, Stand 29.04.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519136.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 15.03.2024 - einstimmig beschlossen
+- TOP 4: Zulassung einer Vertretung des Seniorenrates - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Festlegung des Trassenverlaufs des Radschnellweg Neuss, Düsseldorf, Langenfeld im Rahmen des Linienbestimmungsverfahrens - Empfehlung abweichend beschlossen
+- TOP 5.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - einstimmig beschlossen
+- TOP 5.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5.4: Benrather Maimarkt im Jahre 2024 - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Bonner Straße, Umleitungsbeschilderung/- maßnahmen für den Fuß- und Radverkehr - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Lärmschutz und Geschwindigkeitsreduzierung auf der Kappeler Straße zwischen Brücke Münchener Straße und Marbacher Straße - Interfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.4: Verkehrssicherheit auf der Kappeler Straße zwischen Brücke Münchener Straße und Marbacher Straße - Interfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.5: Umgang mit Anwohnerparken auf Fahrbahnen mit Gegenverkehr und einer Breite von weniger als 5,2 Meter -Antrag der Ratsfraktion DIE LINKE- - vertagt
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Chorverband Düsseldorf e.V. - Unterstützung der Chöre im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 9.2: Wir in Wersten e.V. - Osterfeuer 2024 - einstimmig beschlossen
+- TOP 9.3: Hermann-Gmeiner-Schule - "Die große Nein-Tonne" und "Mein Körper gehört mir" 2024 - einstimmig beschlossen
+- TOP 9.4: AWO Familienglobus gGmbH, Familientreff Holthausen - Sommerfest Geeststraße 2024 - einstimmig beschlossen
+- TOP 9.5: Diakonie Düsseldorf - zentrum plus Benrath - Konzert "Magische Melodien und Filmhits" - einstimmig beschlossen
+- TOP 9.6: KG Räbbelche 1962 e. V. - Anschaffung einer Musikanlage - einstimmig beschlossen
+- TOP 9.7: KG Räbbelche 1962 e. V. - Ausstattung der Tanzgarde - einstimmig beschlossen
+- TOP 9.8: Wäschte 161 Kulturbud Wersten gUG - Nachbarschaftsfest Büdchen open - einstimmig beschlossen
+- TOP 9.9: Wäschte 161 Kulturbud Wersten gUG - Bandcontest für Jungmusizierende ohne Bühnenerfahrung - einstimmig beschlossen
+- TOP 9.10: Der Kinderschutzbund OV Düsseldorf e.V. - Veranstaltung "Alle machen mit!" - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Nachtrag zur Informationsvorlage BV9/136/2023 Erhöhung der Sicherheit für den Radverkehr auf der Hasselsstraße in der BV9 Sitzung vom 18.08.2023 - zur Kenntnis genommen
+- TOP 10.2: Rollstuhlgerechter Zugang Schlosspark Benrath - Beschluss der Bezirksvertretung 9 vom 02.02.2024; BV9/017/2024 - zur Kenntnis genommen
+- TOP 10.3: Nachtrag zur Beschlussvorlage BV9/109/2023 Karl-Hohmann-Straße - Erneuerung Öffentliche Beleuchtung; Rückbau Gas (nicht denkmalwert) und Neubau Strom in der BV9 Sitzung am 02.06.2023 - zur Kenntnis genommen
+- TOP 10.4: Altenbrückstraße - 2 Fahrradständer vor Haus Nr. 17 zur Freihaltung der Sichtbeziehungen - zur Kenntnis genommen
+- TOP 10.5: Hochwasser-Katastrophenplan Himmelgeist / Itter - Beschluss der Bezirksvertretung 9 vom 02.02.2024; BV9/016/2024 - zur Kenntnis genommen
+- TOP 10.6: Sichtbehinderndes Parken in Kurvenbereichen - Nachtrag zur Informationsvorlage zur BV9 Sitzung am 02.02.2024; BV9/259/2023 - zur Kenntnis genommen
