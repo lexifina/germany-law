@@ -24,10 +24,10 @@
 - [§ 10 Ausnahmen](0010.md)
 - [§ 11 Verbotene Stoffe](0011.md)
 - [§ 12 Inverkehrbringensverbote](0012.md)
+- [§ 13 (weggefallen)](0013.md)
 
 ### Unterabschnitt 3 Fütterung
 
-- [§ 13 (weggefallen)](0013.md)
 - [§ 14 Fütterungsvorschriften](0014.md)
 - [§ 15 Ausnahmen vom Verfütterungsverbot](0015.md)
 
