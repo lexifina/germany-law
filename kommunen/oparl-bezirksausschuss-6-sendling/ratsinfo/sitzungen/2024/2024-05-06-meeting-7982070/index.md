@@ -1,0 +1,134 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-05-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982070
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982070
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Wertstoffinsel Spitzwegstraße / Lipowskystraße
+- TOP 2.2.: Tauben und Ratten am Sendlinger Loch – Aushang zum Fütterungsverbot
+- TOP 2.3.: Sendlinger Loch – Gegenmaßnahmen zu Mückenplage
+- TOP 2.4.: Vorschlag zur Errichtung von Fahhradstellplätzen im Bereich Brudermühlstr. / Lenggrieser Str.
+- TOP 2.5.: Giesinger Bräu in der Oberländerstr. - Schanigarten
+- TOP 2.6.: Betreuungssituation in Sendling
+- TOP 2.7.: Tempo 30-Zone in der Thalkirchner Str. - Lärmschutz
+- TOP 2.8.: Quartiersplatz – Konsum von Cannabis und Beschädigungen durch E-Scooter
+- TOP 2.9.: Antrag für Fahrradabstellplätze am Gotzinger Platz 3-6
+- TOP 2.10.: Parksituation im Bereich der Zechstr. und der Fallstr.
+- TOP 2.11.: Verkehrsführungsproblematik in der Leipartstr.
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Ein Platz für die Alramstraße! (Green City e. V.)
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung auf dem Grundstück der Lindenschmitstr. 9c
+- TOP 4.2.2.: Baumfällung auf dem Grundstück der Thalkirchner Str. 141
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Keine neuen Bürohäuser Empfehlung Nr. 20-26 / E 00474 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl vom 05.10.2021 Sitzungsvorlage Nr. 20-26 / V 12448
+- TOP 4.3.2.: Implerstr. 17 Flurstücke Nrn. 10441/16, 10442/5 der Gemarkung München, Sektion VI Satzung über die erste Verlängerung der Veränderungssperre Nr. 658
+- TOP 4.3.3.: Lindenschmitstr. 25 – Verstoß gegen die Abwendungserklärung
+- TOP 4.3.4.: Genehmigung zu Baumfällungen in der Aberlestr. 3 - 13a
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Tempo-30-Zone in der Zechstraße
+- TOP 5.1.2.: (E) Kreuzung Leipartstraße / Schöttlstraße sicher machen
+- TOP 5.1.3.: (E) Bremsschwellen am Wackerplatz
+- TOP 5.1.4.: (E) Bau von kostenlosen stationären Toiletten im gesamten Stadtgebiet
+- TOP 5.1.5.: (E) Erneuerung der Bürgersteige in der Zechstraße
+- TOP 5.1.6.: (E) Entfernung von Schrottfahrrädern außerhalb des Mittleren Rings
+- TOP 5.1.7.: (E) Wildes Parken im Bereich der Thalkirchner Straße
+- TOP 5.1.8.: (E) Zusätzlicher Weißglascontainer an der Wertstoffinsel in der Zechstr. Empfehlung Nr. 20-26 / E 01677 der Bürgerversammlung des Stadtbezirkes 06 – Sendling am 22.11.2023
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Veranstaltung in einer städtischen Grünanlage; Sommerfest Naturkindergarten Flaucherfüchse, Grünanlage Am Isarkanal / Ecke Hans-Preißinger-Str. am 13.07.2024 (Ersatztermin: 19.07.)
+- TOP 5.2.2.: Erinnerung und Infos zur Sommerstraße 2024 im BA 6 - Sendling
+- TOP 5.2.3.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Eisenbahnunterführung Thalkirchner Straße – Informationen über Verkehrsbeschränkungen
+- TOP 5.3.2.: Erlaubnis zu Foto-, Film- und/oder Tonaufnahmen auf öffentl. Verkehrsgrund – Engelhardstr. 35
+- TOP 5.3.3.: SWM Baumaßnahme – Strom-Projekt Seidlstraße
+- TOP 5.3.4.: SWM Baumaßnahme – Fernwärme-Projekt Fallstraße
+- TOP 5.3.5.: SWM Baumaßnahme – Strom-Projekt Thalkirchner Straße
+- TOP 5.3.6.: Fußgängerampel in der Radlkoferstraße (20-26 / E 00985) - Zwischenmitteilung
+- TOP 5.3.7.: Verkehrskonzept am Wertstoffhof Sendling / Thalkirchen (Thalkirchner Str. 260, Empfeh-lung Nr. 20-26 / E 01668) - Zwischennachricht
+- TOP 5.3.8.: Ausnahmegenehmigung Veranstaltung Grünanlage: Greifvogel-Vorführung Naturkindergarten Flaucherfüchse e.V. Am Isarkanal / Ecke Hans-Preißinger-Str. am 11.06.2024
+- TOP 5.3.9.: Vollzug der Straßenverkehrsordnung; Drehgenehmigung „Polizeiruf 110 - Jenseits des Rechts“ am 19.04.2024 in der Plinganserstr.
+- TOP 5.3.10.: Palmen und Blumenkübel am Harras (BA-Antrag-Nr. 20-26 / B 06480)
+- TOP 5.3.11.: Verständigungsdienst „Schäftlarnstraße" - Geschwindigkeitsbegrenzung auf 30 km/h mit Begründung Verkehrslärmschutz
+- TOP 5.3.12.: Straßenbauarbeiten in der Brudermühlstr. – Verlegung einer 110kV-Leitung (Phase 2)
+- TOP 5.3.13.: Einzelantrag Radabstellplatz – Lindwurmstr. / Ecke Senserstr.
+- TOP 5.3.14.: Ausnahmegenehmigung Grünanlage: Nachbarschaftsflohmarkt (Hausgemeinschaft Gotzinger Pl. 3-6) Grünanlage Gotzinger Platz am 11.05.2024
+- TOP 5.3.15.: Erlaubnis zu Foto-, Film- und/oder Tonaufnahmen am Flaucher
+- TOP 5.4.: Anträge
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Anhörungsrecht bei Sportentwicklungsplanung BA-Antrag 20-26 / B05994 des BA 24 – Feldmoching-Hasenbergl
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweis – Weihnachtsoratorium des Kantorat an der Himmelfahrtskirche
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Antrag auf Freischankfläche durch die Gaststätte TenInch, Gotzinger Str. 19
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Valley Bolzplatz umgestalten – Verletzungsrisiko senken
+- TOP 8.3.2.: Erfahrungsbericht Oktoberfest 2023
+- TOP 8.3.3.: Erinnerungszeichen für Wilhelm Gögel am 15.04.2024 in der Aberlestr. 42
+- TOP 8.3.4.: Erhalt der Vereinsgaststätte nach Neubau der Sportanlage Demleitnerstraße 2 / Wackersberger Straße 65 (BA-Antrag 20-26 / B 06329) - Zwischennachricht -
+- TOP 8.3.5.: Ausbesserung des Bodens bei den Tischtennisplatten der Grünanlage am Dietramszeller Platz
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 5.2.4.: Konzept für geteilte Mobilität im Stadtbezirk 6 - Sendling
+- TOP 5.2.5.: Veranstaltung/Sondernutzung auf öffentlichem Verkehrsgrund Erste-Hilfe-Tag des GSR Am Harras (nördliche Platzfläche) am 20.07.2024
+- TOP 5.3.16.: Sperrung des Luise-Kiesselbach-Tunnels
+- TOP 8.3.6.: Ausnahmegenehmigung: Veranstaltung in einer städtischen Grünanlage, Skate-Competition "Titus Locals Only", Wacker Skatepark Harras, BSA Untersendling (Demleitnerstr. 2) am 30.06.2024
+- TOP 5.3.17.: Neues Lastenrad für Sendling
+- TOP 2.12.: Parkplätze für die Alte Utting
+- TOP 5.3.18.: Autovermietung MILES - Vans rund um den Dietramszeller Platz
+- TOP 5.3.19.: Anzeige einer Ordnungswidrigkeit – verparkte Radfahrstreifen in der Implerstr.
+- TOP 5.3.20.: Schäftlarnstraße 112 - Einbeziehen in bestehendes Parklizenzgebiet Brudermühlviertel
+- TOP 5.3.21.: Barrierefreier Ausbau der Haltestelle Schäftlarnstraße – Zwischennachricht
+- TOP 5.3.22.: Vollzug der Straßenverkehrs-Ordnung (StVO); Film-, Foto- und/oder Tonaufnahmen Grünanlage Plinganserstraße – Produktion Polizeiruf 110
+- TOP 5.3.23.: Vollzug der Straßenverkehrs-Ordnung (StVO); Film-, Foto- und/oder Tonaufnahmen auf öffentlichem Verkehrsgrund Engelhardstr. 35 – Produktion Polizeiruf 110
+- TOP 2.13.: Platz für neue Fahrradabstellplätze in der Pfeuferstraße 2-2a
+- TOP 2.14.: Sachstand zum Sendlinger Loch
+- TOP 4.3.5.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 4.3.6.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 5.3.24.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 5.3.25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.7.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 2.15.: Parklet Ecke Thalkirchner Straße / Gotzinger Platz
+- TOP 2.16.: Wiederherstellung eines Bürgersteigs und verschmutzte Grünanlage am U-Bahnhof Implerstraße – erneute Anfrage
+- TOP 5.3.26.: Fahrradzonen + Fahrradstr. in Sendling bringen mehr Sicherheit BA-Antrags-Nr. 20-26 / B 01125 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 05.10.2020
+- TOP 4.3.7.: Unterstützung Blumengroßmarkt München
+- TOP 5.3.27.: Versammlung zum Thema "Unterschriftenaktion zu 5 Volksbegehren..." am 11.05.2024
+- TOP 2.17.: Tauben am U-Bahnhof Harras
+- TOP 2.18.: Schäftlarnstraße – eingeschränktes Parken
+- TOP 2.19.: Haltverbot in der Lenggrieser Str. / Einmündung zur Brudermühlstr. - Kennzeichnung durch Zickzacklinie (Zeichen 299)
+- TOP 2.20.: Erhalt der Gaststätte "Zum blauen Stern" auf der Bezirkssportanlage an der Demleitnerstraße
+- TOP 5.2.6.: Antrag zu einem Schanigarten für den Sendlinger Augustiner
