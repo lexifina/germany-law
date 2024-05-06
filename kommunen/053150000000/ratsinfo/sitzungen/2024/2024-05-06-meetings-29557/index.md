@@ -1,0 +1,70 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-06T16:10:00+02:00
+- Ende: 2024-05-06T17:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29557
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29557
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Beschlussvorlagen
+- TOP 5.1.1: Bürgereingabe nach § 24 GO– Verkehrssituation auf der Hauptstraße in Widdersdorf (AZ 97/23) - Kenntnis genommen
+- TOP 5.1.2: Bürgereingabe gem. § 24 GO, betr.: „Sperrung der am 7.2.2022 frei gegebenen Parkplätze in der Würselener Straße“ (Az.: 02-1600-58-22) - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1.2 - geändert beschlossen
+- TOP 5.2: Mitteilungen
+- TOP 5.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW – Ladezone und Verkehrssituation auf der Berrenrather Straße, Aktenzeichen 149/23 S - Kenntnis genommen
+- TOP 5.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bewohnerparkplätze für Anwohner der Kerpener Straße, Aktenzeichen 213/23 B - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Vorstellung Nutzungskonzept Uniwiesen Karneval 2024/2025 - ungeändert beschlossen
+- TOP 8.1.2: Aufstellen einer Bank und Abfalleimer neben dem Bücherschrank am Georg-Büschner-Gymnasium - ungeändert beschlossen
+- TOP 8.1.3: Barrierefreie Bushaltestellen in Müngersdorf - ungeändert beschlossen
+- TOP 8.1.4: Reduzierung der Unfallgefahr Dürener Straße-Überquerung Stadtwaldgürtel in Richtung Stadtwald - ungeändert beschlossen
+- TOP 8.1.5: Ertüchtigung der Bus-Linien 149/148 - zurückgestellt
+- TOP 8.1.6: Aus Verkehrssicherheitsgründen (für Fahrradfahrer) abzusenkende Bordsteinkante zu Beginn der Zufahrt zum P3 am Brauweiler Weg in Köln Junkersdorf. - ungeändert beschlossen
+- TOP 8.1.7: Prüfung von Nutzungsmöglichkeiten für ein offenbar seit längerem leerstehendes Gebäude in der Lindenburger Allee 15 - ungeändert beschlossen
+- TOP 8.1.8: Antrag auf verkehrsleitende Maßnahmen Decksteiner Straße - ungeändert beschlossen
+- TOP 8.1.9: Überprüfung der Möglichkeiten, die Verkehrssicherheit für Radfahrende an der Kreuzung Sülzgürtel/Luxemburger Straße zu verbessern - ungeändert beschlossen
+- TOP 8.1.10: Prüfantrag:Abschnitte der Bachemer Str. in Köln Lindenthal als Einbahnstraße - geändert beschlossen
+- TOP 8.1.11: Fahrradstraße vom Hildegard-von-Bingen-Gymnasium zum Gottesweg
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Baubeschluss für die Generalinstandsetzung des Stüttgenweges im Teilabschnitt „KVB-Haltestelle Stüttgenhof“ und Bachemer Landstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: 292. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - zurückgestellt
+- TOP 9.2.3: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 9.2.4: Baubeschluss für die Umgestaltung des Albertus-Magnus-Platzes (Flächen der Stadt Köln) - ungeändert beschlossen
+- TOP 9.2.5: Raumbuch Mobilstationen - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 9.2.5 - ungeändert beschlossen
+- TOP 9.2.6: Bewegungskonzept im Kölner Grün - ungeändert beschlossen
+- TOP 9.2.7: Zügigkeitserweiterung der Gemeinschaftsgrundschule Clarenhofschule, Schulstraße 2, 50859 Köln-Weiden, Schulnr. 184184, zum Schuljahr 2025/26 - geändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung zu einem Bürgerschreiben - Genehmigungen von Gaststätten, Kneipen, Bars, Kiosken usw. – Lärmprognose - Kenntnis genommen
+- TOP 11.3.2: Sportentwicklungsplanung - Innovation durch öffentliche Sportangebote - Kenntnis genommen
+- TOP 11.3.3: Entwicklungsplanung Weststadt, hier: Mitteilung über die Beauftragung zur Erarbeitung der Entwicklungsplanung Weststadt und über die Erhöhung des Auftragswertes - Kenntnis genommen
+- TOP 11.3.4: Beantwortung einer mündlichen Anfrage des sachkundigen Einwohners Eckstein aus der Sitzung vom 29. Januar 2024 des Betriebsausschusses Gebäudewirtschaft zur defekten Lüftung und Heizung am Hildegard-von-Bingen Gymnasium - Kenntnis genommen
+- TOP 11.3.5: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 11.3.6: Förderprogramm "Ehrenamt und Klimaschutz" Bürgerschaftliches Engagement für den Klimaschutz in den Kölner Bezirken stärken - Kenntnis genommen
+- TOP 11.3.7: Sportentwicklungsplanung - Öffnung der Bezirkssportanlage Weiden für den Individualsport - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
