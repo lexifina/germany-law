@@ -1,0 +1,61 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-06T14:33:00+02:00
+- Ende: 2024-05-06T15:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29659
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29659
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner*innen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Strukturförderfonds 2023 / 2024 - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 29.02.2024 - Kenntnis genommen
+- TOP 2.4: Weiterführung des Angebots "Plan27" - Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre zur Überleitung ins Regelsystem und Entwicklung einer beruflichen Perspektive - Kenntnis genommen
+- TOP 2.5: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 2.6: Sachstandsbericht zum Cash Pooling / Liquiditätsverbund - Kenntnis genommen
+- TOP 2.7: Grundsteuerreform: Aktueller Sachstand - Kenntnis genommen
+- TOP 2.8: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2022 - Beteiligungsbericht 2022 - Kenntnis genommen
+- TOP 2.9: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 31.03.2024 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Ersatzbeschaffung von sechs Kolonnenfahrzeugen als E-Fahrzeuge für den Bereich Friedhöfe; hier: Haushaltsrechtliche Unterrichtung des Rates gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 Punkt 2 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre - Kenntnis genommen
+- TOP 6.2.2: Mitteilung über die Kostenerhöhung von Sanierungsmaßnahmen an vier Einfamilienhäusern zur Unterbringung Geflüchteter unter den Anschriften Elisabethstr. 3, 9, 11 und 13 in 51147 Köln-Porz - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Kölner Konzept zur Bekämpfung von Wohnungslosigkeit - ungeändert beschlossen
+- TOP 10.2: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2022 - ungeändert beschlossen
+- TOP 10.3: Jahresabschluss 2021 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.4: Vergabe Stadtklima- und Stadtverschönerungsmittel 2024 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 10.5: Bewirtschaftung von Parkplätzen an städtischen Schulen; Modifizierung Ratsbeschluss 2131/2012 - geändert beschlossen
+- TOP 10.6: Erweiterung des „Aufsuchende Suchtclearing (ASC)“ in Köln sowie Ergänzung des Förderprogramms "Niedrigschwellige Suchthilfe" - endgültig zurückgezogen
+- TOP 10.7: Bedarfsfeststellungbeschluss für die Neuausstattung der Zentralbibliothek nach Abschluss der Generalsanierung - ungeändert beschlossen
+- TOP 10.8: Neubau Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - Baubeschluss - zurückgestellt
+- TOP 10.9: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10.10: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - zurückgestellt
+- TOP 10.11: Lüderichstr. 1: Bedarfsfeststellungs-, Planungs- und Baubeschluss für die Niederlegung des maroden Sozialhauses sowie die Bebauung und die Errichtung eines Mehrfamilienhauses zur öffentlich- rechtlichen Unterbringung von obdachlosen und von Obdach - ungeändert beschlossen
+- TOP 10.12: Baubeschluss für die Umgestaltung des Albertus-Magnus-Platzes (Flächen der Stadt Köln) - ungeändert beschlossen
+- TOP 10.13: Zuwendung des Nachlasses des Künstlerehepaares Bernard Schultze und Ursula Schultze-Bluhm an die Kunststiftung im Museum Ludwig - ungeändert beschlossen
+- TOP 10.14: Einrichtung des Erweiterungsbaus für den Ganztag und Einrichtung nach der Generalinstandsetzung des Hauptgebäudes des Drei König Gymnasiums, Escherstraße 247, 50733 Köln-Nippes, - ungeändert beschlossen
+- TOP 10.15: Zügigkeitserweiterung der KGS Gutnickstraße, Gutnickstraße 37, 50769 Köln-Roggendorf/Thenhoven, Schulnr. 111405, zum Schuljahr 2025/26 - ohne Votum in nachfolgende Gremien
+- TOP 10.16: Zügigkeitserweiterung der GGS An den Kaulen, An den Kaulen 62-64, 50769 Köln-Worringen zum Schuljahr 2025/26 bei gleichzeitiger Bildung eines Teilstandortes in der Bolligstr. 20, 50769 Köln-Worringen - ungeändert beschlossen
+- TOP 10.17: Zügigkeitserweiterung der Gemeinschaftsgrundschule Clarenhofschule, Schulstraße 2, 50859 Köln-Weiden, Schulnr. 184184, zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 10.18: Strukturförderfonds 2024 - geändert beschlossen
+- TOP 10.19: Deutschlandticket Schule für Schülerinnen und Schüler an weiterführenden Schulen der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.20: Umsetzung einer Maßnahme der Kulturentwicklungsplanung: Materialkarussell der Kölner Kultur - ohne Votum in nachfolgende Gremien
+- TOP 10.21: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen in 2024 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
