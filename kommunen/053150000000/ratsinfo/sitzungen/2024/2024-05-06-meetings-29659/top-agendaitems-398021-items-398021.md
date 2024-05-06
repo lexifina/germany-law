@@ -1,0 +1,6 @@
+# TOP -: Verpflichtung sachkundiger Einwohner*innen
+
+- Sitzung: Sitzung des Finanzausschusses (2024-05-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/398021
