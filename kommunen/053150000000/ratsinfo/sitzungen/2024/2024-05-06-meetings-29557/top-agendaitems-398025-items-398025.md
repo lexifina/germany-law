@@ -1,0 +1,8 @@
+# TOP -: Ergänzungsantrag zu TOP 9.2.5
+
+- Sitzung: Sitzung der Bezirksvertretung Lindenthal (2024-05-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/398025
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/184293
