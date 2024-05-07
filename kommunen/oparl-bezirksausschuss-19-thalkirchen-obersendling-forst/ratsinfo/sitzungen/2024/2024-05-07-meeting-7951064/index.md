@@ -1,0 +1,78 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951064
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951064
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 09.04.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Terminplanung BA-Sitzungen 2025
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Baierbrunner Straße 53 Kinder erleben Zirkus vom 24.06. -05.07.2024 12.750,00€; Az. 0262.0-19-0508
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Boschetsrieder Straße Bewegtes lernen am 12.09.2024 10.988,47€; Az. 0262.0-19-0513
+- TOP 3.4.: (E) Stadtbezirksbudget ESV München e.V. Neubau Spielplatz Bootshaus vom 22.05. -30.06.2024 1.949,00€; Az. 0262.0-19-0515
+- TOP 3.5.: (E) Stadtbezirksbudget Förderverein der Grundschule Boschetsrieder Straße e.V. Zaubershow beim Schulfest am 03.05.2024 300,00€; Az. 0262.0-19-0514
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Mobilfunk-Suchkreismeldung Maxhof
+- TOP 4.4.: (BV) Aufstellung von Wertstoffcontainern im Bereich der Einkaufsläden in der Baierbrunner Str. 75 Empfehlung Nr. 20-26 / E 01509 der Bürgerversammlung des Stadtbezirkes 19 – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 26.10.2023
+- TOP 4.5.: (A) Neuausschreibung der City-Light-Säulen
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Änderung Sitzungsvorlage Nr.20-26 / V11970 Halt der Oberlandzüge
+- TOP 5.1.2: Ausbau Geh- und Radweg in der Wolfratshauser Straße zwischen Melchiorstraße und Stadtgrenze
+- TOP 5.1.3: Erinnerungsverfahren zum Ersatzneubau Kreuzhofbrücken
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Haltverbot in der Forstenrieder Allee für Buslinie 132
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Haltverbot in der Höglwörther Straße für Buslinie 132
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Haltverbot in der Königswieser Straße für Buslinie 166
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Haltverbot in der Maxhofstraße für Buslinie 166
+- TOP 5.6.: (BV) Vergrößerung der Fahrradstellplätze am Eingangsbereich der Stockdorferstraße zur U-Bahnstation Fürstenried-West
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Geschwindigkeitsbegrenzung auf 30km/h in der Herterichstraße
+- TOP 5.8.: (Antrag) Thomas-Mann-Gymnasium: Schulweg sichern
+- TOP 5.9.: (Antrag) Schulwegsicherheit an der Königswieser Grundschule
+- TOP 5.10.: (Antrag) Parksituation Vinzenz-Schüpfer-Straße, Argelsriederstraße, Buchloerstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Helfenriederstraße 12
+- TOP 6.2.2: Scherzerstraße 1
+- TOP 6.2.3: - TOP abgesetzt -
+- TOP 6.2.4: Geisenbrunner Straße 82
+- TOP 6.2.5: Boschetsrieder Straße 139 (VB)
+- TOP 6.2.6: Heilmannstraße 25 (T)
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Satzungsänderung: Anhörungsrecht bei Sportentwicklungsplanung
+- TOP 7.3.: (BV) Erhöhtes Sicherheitsrisiko in der Nachbarschaft Südpark
+- TOP 7.4.: (A) Errichtung einer Spiel- und Liegewiese mit Hundepollern in der St-Wendel-Straße
+- TOP 7.5.: (Antrag) Thomas-Mann-Gymnasium: Schatten spenden im Außenbereich
+- TOP 7.6.: (Antrag) Berücksichtigung der ehrenamtlichen Kinder- und Jugendsportgruppen bei der städtischen Hallennutzungsvergabe
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Tag des offenen Denkmals am 08.09.2024
+- TOP 8.3.: (U) Temporäre Kunstaktion "TetrapAct-on-foodwaste/Feugueu Diaay" am Schweizer Platz vom 17.06.24-08.08.24
+- TOP 8.4.: (A) CultureClouds e.V.: Tanz. Die. Invasion. Christel-Küpper-Platz, 27.06-29.06.2024
+- TOP 8.5.: (A) Veranstaltung: Sommerfest Thalkirchner Platz vom 28.06. bis 30.06.2024
+- TOP 9: Verschiedenes
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: Aufhebung von Tempo 30 Drygalski-Allee 2
+- TOP 8.6.: (A) Werbeveranstaltung: Selle Royal Support Cyclists on the Road, Thalkirchner Platz, 13.07.2024
+- TOP 8.7.: (A) Vermietung stadteigenes Grundstück: Forstenrieder Allee am 06.07.2024:Tag der offenen Tür: Freiwillige Feuerwehr Forstenried
+- TOP 8.8.: (U) Gaststättenfortführung: Sollner Straße
+- TOP 5.1.1.1: (E) + (U) Täglicher Halt der Oberlandzüge in Obersendling und Solln
