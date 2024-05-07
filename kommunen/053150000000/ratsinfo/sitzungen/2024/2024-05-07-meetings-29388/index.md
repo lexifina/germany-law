@@ -1,0 +1,91 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-05-07T17:05:00+02:00
+- Ende: 2024-05-07T19:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29388
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29388
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Sanierung von zwei Teilbauwerken der Fußgängerbrücke Theodor-Heuss-Straße in Porz-Finkenberg - ungeändert beschlossen
+- TOP 6.2: Integriertes Stadtentwicklungskonzept Porz-Mitte - geändert beschlossen
+- TOP 6.3: Punktuelle Ausweitung von Bewohnerreservierungen im Bewohnerparkgebiet Grengel (GRE) - Alternative beschlossen
+- TOP 6.4: Vergabe von bezirksorientierten Finanzmittel gemäß § 37 GO NRW im Jahr 2024 - ungeändert beschlossen
+- TOP 6.5: Sportanlage Oberstraße - Kunststoffrasen Belagserneuerung - ungeändert beschlossen
+- TOP 6.6: Umgestaltung des öffentlichen Spielplatzes Am Westhover Berg in Köln-Westhoven - ungeändert beschlossen
+- TOP 6.7: Genehmigung einer Dringlichkeitsentscheidung - Änderungsverordnung für die Jahre 2024-2026 über das Offenhalten von Verkaufsstellen an Sonntagen. - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Raumbuch Mobilstationen - zurückgestellt
+- TOP 7.2: 8. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 7.3: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Regelwerk zur Anordnung und Gestaltung der Außengastronomie" - ungeändert beschlossen
+- TOP 7.4: Bewegungskonzept im Kölner Grün - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Vermeidung von Starkregenschäden durch gezielte Ausschreibung bei Straßensanierung ein Beitrag zur Schwammstadt ohne zusätzliche Kosten" - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion "Umsetzung der zeitweisen Straßensperrung und verstärkten Kontrollen auf der Alfred-Schütte-Allee" - zurückgestellt
+- TOP 8.3: Antrag "Nutzung des Zirkuszeltes des Zirkushofs in der Zeit bis zum 25.10.24 mit Aussicht für die Wintersaison am Bürgerzentrum Engelshof" - endgültig zurückgezogen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Verbesserung der Sicherheit auf der Gilgaustraße in Ensen" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Grüne "Verkehrssicherheit Gilgaustraße" - ungeändert beschlossen
+- TOP -: Änderungsantrag SPD-Fraktion "Verbesserung der Sicherheit auf der Gilgaustraße in Ensen" - endgültig zurückgezogen
+- TOP 8.5: Antrag der SPD-Fraktion "Maßnahmen zur Verkehrssicherheit auf der Müllergasse in Poll umsetzen" - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion "Schulwegsicherung an der Grundschule Poller Hauptstraße durch temporäre Sperrung von Straßen / Einrichtung einer Schulstraße" - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion "Temporäre Sperrung von Straßen, die Schulweg zur Friedrich-List-Grundschule sind" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Öffnung der Hohenstaufenstraße" - endgültig abgelehnt
+- TOP 8.9: Antrag der SPD-Fraktion "Verkehrskontrollen im Porzer Zentrum" - ungeändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Hundefreilauffläche an der Waldstraße in Porz-Urbach" - ungeändert beschlossen
+- TOP 8.11: Antrag der SPD-Fraktion "Parksituation Friedensstraße in Porz-Elsdorf" - endgültig abgelehnt
+- TOP 8.12: Antrag zu PKW-Abstellmöglichkeiten für Senioren am Eingang Sporthalle der Schule Albert-Schweitzer-Str. - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "PKW-Abstellmöglichkeiten für Senioren am Eingang der Sporthalle Wahn" - ungeändert beschlossen
+- TOP 8.13: Dringlichkeitsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "Vier Einfamilienhäuser Elisabethstraße" - geändert beschlossen
+- TOP 8.14: Dringlichkeitsantrag der SPD-Fraktion "Bauvorhaben Poller Kirchweg 106 - 116" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage SPD-Fraktion - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Aufstellung von Fahrradständern Turnhalle und Gymnastikhalle der GGS Don-Bosco TOP 8.10 Ö in der Sitzung der Bezirksvertretung 7 vom - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 30.11.2023 (AN/1993/2023) betreffend Online-Umfragen - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Porz vom 02.02.2023 betreffend "Verbesserung der Verkehrsführung Wahner Str. - St. Sebastianusstr. - Liburer Landstr." (AN/0088/2023) - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen "Verbesserung der Verkehrsführung Wahner Str. - Skt. Sebastianusstr. - Liburer Landstr.“ - Sache ist erledigt
+- TOP 9.1.4: Mangel an Gesamtschulplätzen beheben – Grundstück Porzer Ringstraße nutzen - AN/1497/2023 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "AN/1693/2021 – Beschluss der Bezirksvertretung Porz vom 02.09.2021 – Mangel an Gesamtschulplätzen beheben – Grundstück Porzer Ringstraße nutzen" - Sache ist erledigt
+- TOP 9.1.5: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 14.03.2024 (AN/0341/2024) betreffend Information der Bezirksvertretung bei Bauvorhaben - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Information der Bezirksvertretung bei Bauvorhaben" - Sache ist erledigt
+- TOP 9.1.6: Anfrage Ausfall von Klassenfahrten und pädagogischen Ausflügen - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Beantwortung einer Anfrage der SPD-Fraktion "Verkauf des Hauses Hauptstraße 352, 51134 Köln" - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Verkauf des Hauses Hauptstraße 352, 51143 Köln" - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Sachstandsbericht zum Treppenabgang Ohmstraße/Kaiserstraße" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Open-Air Location Südbrücke" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Trinkwasserbrunnen" - zurückgestellt
+- TOP 9.2.4: Anfrage der Fraktion Bündnis 90/Die Grünen "Spielplätze im Stadtbezirk Porz" - zurückgestellt
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen "Alternierendes Parken Lülsdorfer Str" - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Aktueller Stand Prozess „Misch MIT!“ – Entwicklung eines kommunalen Gesamtkonzepts zur Kinder- und Jugendbeteiligung in Köln - Kenntnis genommen
+- TOP 10.2.2: Planfeststellungsbeschluss Flughafen Köln/Bonn - Kenntnis genommen
+- TOP 10.2.3: Niederschrift 18. Runder Tisch Radverkehr Porz - Kenntnis genommen
+- TOP 10.2.4: Niederschrift 19. Runder Tisch Radverkehr Porz - Kenntnis genommen
+- TOP 10.2.5: Mitteilung über die Kostenerhöhung von Sanierungsmaßnahmen an vier Einfamilienhäusern zur Unterbringung Geflüchteter unter den Anschriften Elisabethstr. 3, 9, 11 und 13 in 51147 Köln-Porz - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur alternativen Führung der RadPendlerRoute 4 im Teilabschnitt Nord - Kenntnis genommen
+- TOP 10.2.7: Mitteilung über die Veröffentlichung gemäß § 3 Abs. 2 BauGB des Bebauungsplanentwurfs Nr. 77359/04 Arbeitstitel "Senkelsgraben" in Köln-Porz-Lind - Kenntnis genommen
+- TOP 10.2.8: Errichtung eines Beherbergungsbetriebs - Kenntnis genommen
+- TOP 10.2.9: Errichtung eines Beherbergungsbetriebs - Kenntnis genommen
+- TOP 10.2.10: Errichtung eines Beherbergungsbetriebs - Kenntnis genommen
+- TOP 10.2.11: Errichtung einer Tiefgarage - Kenntnis genommen
+- TOP 10.2.12: Ergebnisse der Öffentlichkeitsbeteiligung zur Umgestaltung der Bahnhofstraße - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
