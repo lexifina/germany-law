@@ -1,0 +1,61 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-05-08T18:30:00+02:00
+- Ende: 2024-05-08T19:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3397
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3397
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Förderung Sanierung kommunaler Einrichtungen für Sanierung Dreifachturnhalle Grevenbroich-Süd - einstimmig beschlossen
+- TOP 5: Beratungspunkte Ausschüsse
+- TOP 5.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 5.1.1: W 55 Gesamtschule am Heyerweg - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 5.1.2: G 170 A "Neurather Straße" - Aufstellung - einstimmig beschlossen
+- TOP 5.2: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses
+- TOP 5.2.1: Änderung der Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 5.2.2: Änderung der Satzung über die Erhebung von Kostenbeiträgen für die Inanspruchnahme der Kindertagespflege in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 5.2.3: Änderung der Satzung der Stadt Grevenbroich über die Förderung von Kindern in der Kindertagespflege - einstimmig beschlossen
+- TOP 5.3: Entscheidung über Beratungspunkte aus der Sitzung des Schulausschusses
+- TOP 5.3.1: Änderung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule - einstimmig beschlossen
+- TOP 6: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 6.1: Kauf der Photovoltaik-Anlage am Neurather und Herrichtung für die städtische Nutzung (Antrag Nr.:20/2024) - Kenntnisnahme
+- TOP 6.2: Vergleichsbericht 2022 - Ertrags- und Aufwandslage im im interkommunalen Vergleich - Kenntnisnahme
+- TOP 6.3: Fußball-Europameisterschaft der Männer in Deutschland - Public-Viewing auch in Grevenbroich? (Anfrage Nr.:46/2024) - Kenntnisnahme
+- TOP 6.4: Finanzielle Beteiligung der Kommunen am Ausbau erneuerbarer Energien gemäß EEG 2023 (Anfrage Nr.:54/2023) - Kenntnisnahme
+- TOP 6.5: CO²-Ampeln in Grevenbroich (Anfrage Nr. 01/2024) - Kenntnisnahme
+- TOP 7: Schriftliche Anträge
+- TOP 7.1: Anträge der SPD-Fraktion
+- TOP 7.1.1: Aufwertung Spielplatz An St. Lambertus in Neurath (Antrag Nr.:47/2024) - einstimmig beschlossen
+- TOP 7.1.2: Errichtung einer überdachten Bushaltestelle mit digitaler Anzeige an der Käthe-Kollwitz-Gesamtschule (Anfrage Nr.:48/2024) - einstimmig beschlossen
+- TOP 7.1.3: Ausschussumbesetzung (Antrag Nr.:50/2024) - einstimmig beschlossen
+- TOP 7.2: Anträge der CDU-Fraktion
+- TOP 7.2.1: Prüfauftrag "zusätzliche Reinigungsstufe Kläranlagen" (Antrag Nr.:56/2024) - einstimmig beschlossen
+- TOP 7.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 7.3.1: Abstellmöglichkeiten für Fahrradständer am Platz der Deutschen Einheit (Antrag Nr.:52/2024) - einstimmig beschlossen
+- TOP 7.4: Anträge der FDP-Fraktion
+- TOP 7.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 7.5.1: Ausschussumbesetzung (Antrag Nr.:54/2024) - einstimmig beschlossen
+- TOP 7.6: Anträge der UWG-Fraktion
+- TOP 7.6.1: Benennung des Kirmesplatzes in Grevenbroich Elsen an der Kirche als "Roland Geller Platz" (Antrag Nr.:41/2024) - einstimmig beschlossen
+- TOP 8: Gemeinschaftsanträge
+- TOP 8.1: Photovoltaikanlagen auf öffentlichen Gebäuden und städtischen Liegenschaften (Antrag Nr.:49/2024) - einstimmig beschlossen
+- TOP 8.2: Prüfauftrag Zielabweichungsverfahren (Antrag Nr.:55/2024) - einstimmig beschlossen
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: Anfragen der SPD-Fraktion
+- TOP 9.2: Anfragen der CDU-Fraktion
+- TOP 9.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 9.3.1: Welche Straßen an Schulen kommen für temporäre Sperrungen für Elterntaxis infrage? (Anfrage Nr.:51/2024) - Kenntnisnahme
+- TOP 9.4: Anfragen der FDP-Fraktion
+- TOP 9.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 9.6: Anfragen der UWG-Fraktion
+- TOP 10: Mitteilungen des Bürgermeisters
+- TOP 10.1: Haushaltssatzung 2024 der Stadt Grevenbroich - Kenntnisnahme
