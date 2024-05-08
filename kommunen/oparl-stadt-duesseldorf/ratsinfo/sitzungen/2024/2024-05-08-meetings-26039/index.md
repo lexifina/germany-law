@@ -1,0 +1,95 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-05-08T14:09:00+02:00
+- Ende: 2024-05-08T18:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26039
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26039
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 08.05.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519803.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 08.05.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519803.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 08.05.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00519803.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 22.02.2024 (SI-RAT/001/2024) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Tod eines Pferdes während eines Rennens am 5. Mai 2024 auf der Galopprennbahn Düsseldorf - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsgruppe Tierschutz/FREIE WÄHLER: Unwetter mit Regen, Hagel und Gewitter am 2. Mai 2024 und Folgen, insbesondere für den Düsseldorfer Süden - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Unwetter mit Regen, Hagel und Gewitter am 2. Mai 2024 und Folgen, insbesondere für den Düsseldorfer Norden - beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Schutz von Tieren und Bepflanzungen an der Lilienthalstrasse (Baustelle U 81) durch eine zusätzliche Bewässerung nach stundenlangem Starkregen - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Zahl der Gewaltfälle an Schulen in Düsseldorf seit 2014 bis heute - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Bademeister in Düsseldorfer Schwimmbädern - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: modernisiertes Staatsbürgerschaftsrecht - beantwortet
+- TOP 4.4: Anfrage der FDP-Ratsfraktion: Heinrich-Heine-Platz - beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Ein Drittel frei finanzierter Wohnungsbau auf städtischen Flächen - zu welchem Preis? - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion DIE LINKE: Abläufe bei der Überprüfung von Kurzzeitvermietungsangeboten auf Einhaltung der Wohnraumschutzsatzung - schriftlich beantwortet
+- TOP 4.7: Anfrage der FDP-Ratsfraktion: Quartiersentwicklung Altstadt (Ratsbeschluss RAT/314/2023) - schriftlich beantwortet
+- TOP 4.8: Anfrage der SPD-Ratsfraktion: Ein Jahr Masterplan Handwerk – Perspektiven nach dem ersten Spitzengespräch - schriftlich beantwortet
+- TOP 4.9: Anfrage der SPD-Ratsfraktion: Plan °C für Düsseldorf - Gesundheitsschutz für alle - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Rechtliche Fragen zum geplanten Neubau eines Opernhauses - schriftlich beantwortet
+- TOP 4.11: Anfrage der AfD-Ratsfraktion: Aggressives Betteln im Verkehrsraum - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Lemmer: Anschlag auf die Crocus City Hall Moskau am 22. März 2024 und die Reaktion in und aus Düsseldorf - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau Spillner: Aktueller Sachstand im Verfahren zum 39er Denkmal und zum Reeser Platz - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Lehmann: Beflaggung des Rathauses am Internationalen Tag der Roma - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Lemmer: Brandschutz in Düsseldorfer U-Bahnhöfen und U-Bahnzügen, die dort durchfahren und anhalten - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau Krüger: Auswirkungen und Einschränkungen für Gastronomen, Bauherren, u.a., Umwelt und Tiere im Stadtgebiet während der Fußball-Europameisterschaft 2024 - schriftlich beantwortet
+- TOP 4.17: Anfrage der Ratsfrau Krüger: Absperrung auf der Rasenfläche Kö-Bogen II - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Mirus: Umgang der Stadt Düsseldorf mit Kunst am Bau und Baudenkmälern - schriftlich beantwortet
+- TOP 4.19: Anfrage des Ratsherrn Fix: CO2 – Ernährungsbilanz und dadurch entstehenden Kosten durch städtische Betriebe - schriftlich beantwortet
+- TOP 4.20: Anfrage des Ratsherrn Fix: Bildung für nachhaltige Entwicklung in städtischen Bildungseinrichtungen - schriftlich beantwortet
+- TOP 4.21: Anfrage der Ratsfrau Mirus: Stadtverpflegung - schriftlich beantwortet
+- TOP 4.22: Anfrage der Ratsfrau Opelt: Kriminalitätsstatistik 2023: Wie wird Düsseldorf endlich wieder sicher? - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zurückgezogen
+- TOP 8: Änderung bei Besetzung des örtlichen Beirats der gemeinsamen Einrichtung (Jobcenter) - einstimmig beschlossen
+- TOP 9: Richtlinie zur Vergabe von Fördermitteln für das Hof- und Fassadenprogramm - einstimmig beschlossen
+- TOP 10: Flächennutzungsplanänderung Nr. 173 (Entwurf) - Heerdter Landstraße: Bau- und Gartenfachmarkt - Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 11: Bebauungsplan-Entwurf Nr. 04/009 - Bau- und Gartenfachmarkt Heerdter Landstraße - einstimmig beschlossen
+- TOP 12: Flächennutzungsplanänderung Nr. 208 (Entwurf) - Hansaallee / Schwalmstraße - einstimmig beschlossen
+- TOP 13: Richtlinie zur Vergabe von Zuwendungen aus dem Verfügungsfonds - einstimmig beschlossen
+- TOP 14: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 01/017 - Kennedydamm 55 - mehrheitlich beschlossen
+- TOP 15: Beitritt der Landeshauptstadt Düsseldorf zum Bund der Wasserstoffregionen - einstimmig beschlossen
+- TOP 16: Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I) - einstimmig beschlossen
+- TOP 16.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage BAU/009/2024, Grundsatzbeschluss zur Umsetzung von feuerwehrorganisatorischen Maßnahmen ab 2024 – Feuerwehrorganisatorische Maßnahmen I (FOM I) - mehrheitlich abgelehnt
+- TOP 17: Entwurf Jahresabschluss 2023 - mehrheitlich beschlossen
+- TOP 18: Entwurf des NKF-Gesamtabschlusses 2020 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 19: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - vertagt
+- TOP 20: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - vertagt
+- TOP 21: Herbeiführung eines Bedarfsbeschlusses für die Errichtung eines Hochregallagers als Lagerstätte des Opernfundus der Deutschen Oper am Rhein - vertagt
+- TOP 22: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 23: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 24: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses „Ersatzneubau der zweizügigen Katholischen Grundschule Rather Kreuzweg inkl. Zweifeld-Sporthalle" - einstimmig beschlossen
+- TOP 25: Beschlussvorlage zur Herbeiführung eines Änderungsbeschlusses für das Projekt „Gesamtschule Aldekerkstraße mit Dreifachsporthalle“ - einstimmig beschlossen
+- TOP 26: Namensänderung des Franz-Jürgens-Berufskollegs in Technisches Berufskolleg Färberstraße - mehrheitlich beschlossen
+- TOP 27: Städtisches Weiterbildungskolleg, Auflösung des Teilstandortes Emil-Barth-Straße 45 und Umzug des Bildungsgangs Abendrealschule an den Standort Rückertstraße 6 - einstimmig beschlossen
+- TOP 28: Entsendung von Mitgliedern des Seniorenrates als sachkundige Einwohnerinnen/Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 29: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Aufgaben- und Umgrifferweiterung der Kleinen Kommission Kö-Bogen und Umbenennung in Kleine Kommission „Kö-Bogen & KAP“ - einstimmig beschlossen
+- TOP 31: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH- Ersatzwahl - - mehrheitlich beschlossen
+- TOP 32: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 33: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft mbH & Co. KG - Ersatzwahl der Arbeitnehmervertreter/innen - einstimmig beschlossen
+- TOP 34: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 35: Beirat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 36: Anträge
+- TOP 36.1: Antrag der FDP-Ratsfraktion: Einrichtung eines Runden Tisches „Alter Hafen“ - mehrheitlich abgelehnt
+- TOP 36.2: Antrag der Ratsfraktion DIE LINKE: Erhalten statt abreißen! Kulturbauten sanieren statt Oper neu bauen - mehrheitlich abgelehnt
+- TOP 36.3: Antrag der Ratsfraktion DIE LINKE: Nie wieder ist jetzt! Der Tag der Befreiung vom Faschismus muss Feiertag werden - mehrheitlich abgelehnt
+- TOP 36.4: Antrag der Ratsfraktionen Die PARTEI-Klima-Fraktion und DIE LINKE: Unterstützung der Seenotrettung - mehrheitlich abgelehnt
+- TOP 36.5: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Kostenlimit für den Neubau des Opernhauses - vertagt
+- TOP 36.6: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Hochhausrahmenplan beachten: Die Schutzzone Altstadt und Königsallee gilt auch für ein neues Opernhaus - vertagt
+- TOP 36.7: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Gartendenkmal Hofgarten schützen - vertagt
+- TOP 36.8: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Preisgericht des Architekturwettbewerbs für den Neubau des Opernhauses demokratisch besetzen - vertagt
+- TOP 36.9: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Unterzeichnung des “Plant Based Treaty” - mehrheitlich abgelehnt
+- TOP 36.10: Antrag der AfD-Ratsfraktion: Anbringung einer Verbotsbeschilderung vor den Eingängen aller Düsseldorfer Schulen - mehrheitlich abgelehnt
+- TOP 36.11: Antrag der AfD-Ratsfraktion: Einführung einer Bezahlkarte für Asylbewerber in der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 36.12: Antrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD und FDP: Städtebündnis „Sichere Häfen“ - mehrheitlich beschlossen
+- TOP 37: Bericht aus der Kleinen Kommission Kunstpalast - zur Kenntnis genommen
+- TOP 38: Düsseldorfer Gesundheitskonferenz - Ersatzbestellung eines ordentlichen Mitglieds - mehrheitlich beschlossen
+- TOP 39: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW - einstimmig beschlossen
