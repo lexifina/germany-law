@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-05-08T15:00:00+02:00
+- Ende: 2024-05-08T17:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7206
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7206
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00234209.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00234209.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00234209.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 28.02.2024 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: Wahl einer/eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 3: Übersicht zum Umsetzungsstand der im Rat beschlossenen Fraktionsanträge (Berichtszeitraum 2023) - Kenntnisnahme
+- TOP 4: Feststellung des Gesamtabschlusses zum 31.12.2019 - Einstimmiger Beschluss
+- TOP 5: Feststellung des Gesamtabschlusses 31.12.2020 - Einstimmiger Beschluss
+- TOP 6: Zweiter Nachtrag zur Betriebssatzung Neue Verwaltungsgebäude Rheydt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 7: Bericht über die Annahme von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01.2023 bis 31.12.2023 - Kenntnisnahme
+- TOP 8: Ausschüttungsverzicht für den Betrieb gewerblicher Art (BgA) Verpachtung von Wohnungen - Einstimmiger Beschluss
+- TOP 9: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW Smart City GmbH an der NEW Stadtentfalter Quartiere GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der NEW AG über NEW Smart City GmbH an der Hub2Go GmbH - Einstimmiger Beschluss
+- TOP 11: Beteiligung der NEW Kommunalholding über die NEW AG und die NEW Re GmbH an der BMR Windenergie Wassenberg GmbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 12: Zweite Verlängerung zum Weiterbetrieb des City-WLAN-Netzes „MG WiFi" in Mönchengladbach und Rheydt - Einstimmiger Beschluss
+- TOP 13: Neuordnung der NEW Viersen GmbH mit Umfirmierung in die NEW Kreis Viersen GmbH sowie Einlage von Netzen in die Gesellschaft bei Beteiligung der ENNI Energie & Umwelt Niederrhein GmbH an der Gesellschaft - Mit Stimmenmehrheit beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2023 (5. Nachweisung) - Kenntnisnahme
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (1. Nachweisung) - Kenntnisnahme
+- TOP 16: Mündlicher Finanzbericht des Kämmerers - Kenntnisnahme
+- TOP 17: Ordnungsbehördliche Verordnungen über das Offenhalten von Verkaufsstellen an Sonn-oder Feiertagen in den Stadtteilen der Stadt Mönchengladbach für das Jahr 2024 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Zweite Verordnung zur Änderung der Verordnung über die Beförderungsbedingungen und Beförderungsentgelte für den Gelegenheitsverkehr mit Taxen der Stadt Mönchengladbach (Taxentarif) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 19: Fortführung des vergünstigten Deutschlandtickets für alle SuS in MG - Einstimmiger Beschluss
+- TOP 20: Der ehrenamtliche Sprachenpool des Kommunalen Integrationszentrums – eine Säule der Integrationsarbeit - In den nächsten Ratszug geschoben
+- TOP 21: Projekt Südosteuropa (SOE) – Hilfestellung für Zugewanderte und Akteur*innen des Hilfesystems - Mit Stimmenmehrheit beschlossen
+- TOP 22: Grundsatzbeschluss zur Vorbereitung der Gründung einer Betreuungs gGmbH – Ergebnis der Prüfung - Mit Stimmenmehrheit beschlossen
+- TOP 23: ÖPNV-Qualitätsbericht als Basis für eine Fortschreibung des Nahverkehrsplans - Einstimmiger Beschluss
+- TOP 24: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend – Aufwertung und Umgestaltung der Lüpertzender Straße (zwischen Stepgesstraße und Weiherstraße) als Fahrradstraße - Mit Stimmenmehrheit beschlossen
+- TOP 25: Bestandsertüchtigung des Schulstandortes Karl-Barthold-Weg 8 - Einstimmiger Beschluss
+- TOP 26: Fortschreibung Schulentwicklungsplan 8 Sekundarstufe I: Erstellung eines Maßnahmen¬papiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Mit Stimmenmehrheit beschlossen
+- TOP 26.1: Fortschreibung des Schulentwicklungsplanes SEK I - Priorisierung der Raumbedarfe - Vom Antragsteller zurückgezogen
+- TOP 27: Entsendung von sachkundigen Einwohner*innen in Ausschüsse der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 28: Niersverband: Ersatzwahl für ein vorzeitig ausgeschiedenes Mitglied der Verbandsversammlung - Einstimmiger Beschluss
+- TOP 29: Nachwahlen im Beirat der Unteren Naturschutzbehörde der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 30: Nachwahlen im Beirat bei der Unteren Naturschutzbehörde der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 31: Umbau Knotenpunkt Poststraße - Trompeterallee - In den nächsten Ratszug geschoben
+- TOP 31.1: Änderungsantrag zu Beratungsvorlage Nr. 2951/X: Umbau Knotenpunkt Poststraße – Trompeterallee - In den nächsten Ratszug geschoben
+- TOP 32: Planung Gewerbegebiet JHQ - Einstimmiger Beschluss
+- TOP 33: Umbesetzung von Ausschüssen / Gremien; hier: Fraktionsantrag DIE LINKE vom 24.04.2024 - Einstimmiger Beschluss
+- TOP 34: Umbesetzung von Gremien; hier: Fraktionsantrag CDU vom 29.04.2024 - Einstimmiger Beschluss
+- TOP 35: Umbesetzung von Gremien; hier: Fraktionsantrag CDU vom 29.04.2024 - Kenntnisnahme
+- TOP 36: Umbesetzung von Gremien; hier: Fraktionsantrag SPD vom 26.04.2024 - Einstimmiger Beschluss
+- TOP 36.1: Sachstandsbericht Situation in den Meldestellen
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Anfrage von RH Eibenberger (CDU)
