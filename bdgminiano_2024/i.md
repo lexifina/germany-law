@@ -1,4 +1,4 @@
-# I Geschäftsbereich des Bundesministeriums des Innern und für Heimat ohne Bundespolizei
+# I. Geschäftsbereich des Bundesministeriums des Innern und für Heimat ohne Bundespolizei
 
 1. Den Leiterinnen und Leitern der Behörden des Geschäftsbereichs werden für die ihnen nachgeordneten Beamtinnen und Beamten folgende Befugnisse übertragen:
   a) Festsetzung der Kürzung der Dienstbezüge gemäß § 34 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes,

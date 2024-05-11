@@ -1,0 +1,7 @@
+# II. Bundespolizei
+
+1. Die in § 1 Absatz 1 Nummer 2 und 3 der Verordnung zu § 82 des Bundesdisziplinargesetzes genannten Dienstvorgesetzten können im Rahmen ihrer Zuständigkeit gemäß der Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums des Innern vom 20. April 2020 eine Kürzung der Dienstbezüge bis zum Höchstmaß festsetzen.
+2. Die Zuständigkeit zum Ausspruch einer Zurückstufung oder einer Entfernung aus dem Beamtenverhältnis gegen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte wird auf die in § 1 Absatz 1 Nummer 2 und 3 der Verordnung zu § 82 des Bundesdisziplinargesetzes genannten Vorgesetzen im Rahmen ihrer Zuständigkeit gemäß der Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums des Innern vom 20. April 2020 übertragen.
+3. Die Zuständigkeit zum Erlass von Widerspruchsbescheiden wird auf die in § 1 Absatz 1 Nummer 2 und 3 der Verordnung zu § 82 des Bundesdisziplinargesetzes genannten Vorgesetzten übertragen, soweit diese oder die in § 1 Absatz 1 Nummer 4 und 5 der Verordnung zu § 82 des Bundesdisziplinargesetzes genannten Vorgesetzten den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen haben.
+4. Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren gegen Ruhestandsbeamtinnen und Ruhestandsbeamte werden den vor Beginn des Ruhestandes zuständigen Einleitungsbehörden übertragen.
+5. Die vorstehenden Regelungen gelten für Verwaltungsbeamtinnen und Verwaltungsbeamte entsprechend.
