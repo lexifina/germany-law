@@ -1,0 +1,24 @@
+# Vorbereitende Untersuchungen nach § 141 Baugesetzbuch in der östlichen Innenstadt – Analysebericht und vorläufige Sanierungsziele, Sachstand und weiteres Vorgehen
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0901/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2024-05-13
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=28529
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=28529
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=561860&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5326 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5308 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5348 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=109
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5399 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5370 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5246 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=105
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5371 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5237 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5361 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=108
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5345 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=16
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5263 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=5307 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=5272 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=90
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=52, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=2, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=5, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=9, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=12, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=13, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=15, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=17, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=18, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=21, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=31, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=65, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=32, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=76, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=6, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=37, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=38
