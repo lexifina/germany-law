@@ -1,0 +1,59 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-05-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973484
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973484
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 22.04.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Verkehrssituation um die Grundschule Emmy-Noether-Straße (Bring- und Abholverkehr)
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Vorstellung Planungen Untermenzinger Straße (-> vertagt aus der Sitzung am 22.04.2024; Präsentation des MOR)
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Aufwertung des Stadtteilzentrums Moosacher Bahnhof und Erhöhung der Sicherheit für Fußgänger*innen und Radfahrer*innen durch Ausweisung des Straßenzuges Bunzlauer Platz, Bunzlauer Straße und Breslauer Straße als "Verkehrsberuhigter Geschäftsbereich" gemäß StVO § 45 Abs. 1d.
+- TOP 4.1.2.: Öffnung der Breslauer Straße für Fahrradverkehr in beiden Fahrtrichtungen ermöglichen
+- TOP 4.1.3.: Zwischennutzung des Vorbehaltsgrundstücks zwischen Dachauer - und Leipziger Straße in der Zeit bis zur Bebauung als „Urban Gardening“- Fläche
+- TOP 4.1.4.: Künstlerische Gestaltung der Fassade im Winterbereich des Dantebades (auf Seiten der ehem. Umkleiden und des Restaurants) durch lokale Künstler
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget REGSAM, Trägerverein für regionale soziale Arbeit e.V. „26. Moosacher Stadtteilkulturtage vom 08.06.2024 – 16.06.2024“ 5.370,00 € / AZ: 0262.0-10-0378
+- TOP 5.2.: (E) Stadtbezirksbudget Schachfestival München e.V. „2. Schachfestival München (Moosacher Teil) vom 26.05.2024 – 02.06.2024“ 8.000,00 € / AZ: 0262.0-10-0377
+- TOP 5.3.: (E) Stadtbezirksbudget Kinder- und Jugendtreff Mooskito „Sommerferienprogramm 2024 vom 30.07.2024 – 09.09.2024“ AZ: 0262.0-10-0379 / 6.000,00 €
+- TOP 5.4.: (E) + (U) Anordnung Tempo 30 in der Pelkovenstraße Empfehlung Nr. 20-26 / E 00381 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 07.10.2021
+- TOP 5.5.: (E) Entziehung der Konzessionen zum Verleih von E-Tretroller aller Anbieterfirmen
+- TOP 6.: Anhörungen
+- TOP 6.1.: Stärkung der Rechte der Bezirksausschüsse - hier: Anhörungsrecht bei Sportentwicklungsplanung
+- TOP 6.2.: Beschlussentwurf: Fahrradstraßen - Pilotrouten; Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 6.3.: Information zur Neuausschreibung der City-Light-Säulen (Selektion Stadtbezirk 10)
+- TOP 6.4.: Veranstaltung in städtischer Grünanlage: Am Hartmannshofer Bächl "Spielefest" am 07.06.2024
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Ehrenbreitsteiner Straße; Einrichtung von absoluten Haltverboten
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebes: Nederlinger Str. 80
+- TOP 8.3.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund + Hinweis/Ergänzung vom 15.04.2024 + Neufassung vom 17.04.2024
+- TOP 8.6.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 8.7.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 8.8.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 8.9.: (U) Genehmigungsantragsauflagen für die Panzerteststrecke Empfehlung Nr. 20-26 / E 00256 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 26.07.2021
+- TOP 8.10.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 8.11.: Vollzug der Erhaltungssatzung Moosach: - nicht-öffentlich - Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen: Scharnhorststraße
+- TOP 8.12.: Genehmigung Zweckentfremdung von Wohnraum: Eininger Straße - nicht-öffentlich -
