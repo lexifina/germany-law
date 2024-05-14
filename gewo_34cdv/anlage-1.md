@@ -28,7 +28,7 @@ A. Inhaltliche Anforderungen an die Weiterbildung für Immobilienmakler
 3.7 Makler- und Bauträgerverordnung
 3.8 Informationspflichten des Maklers
 3.8.1 Dienstleistungs-Informationspflichten-Verordnung
-3.8.2 Telemediengesetz
+3.8.2 Digitale-Dienste-Gesetz
 3.8.3 Preisangabenverordnung
 3.8.4 Energieeinsparverordnung
 4. Wettbewerbsrecht
@@ -79,7 +79,7 @@ B. Inhaltliche Anforderungen an die Weiterbildung für Wohnimmobilienverwalter
 2.11 Grundzüge des Mietprozess- und Zwangsvollstreckungsrechts
 2.12 Informationspflichten des Verwalters
 2.12.1 Dienstleistungs-Informationspflichten-Verordnung
-2.12.2 Telemediengesetz
+2.12.2 Digitale-Dienste-Gesetz
 2.12.3 Preisangabenverordnung
 2.12.4 Energieeinsparverordnung
 3. Kaufmännische Grundlagen
