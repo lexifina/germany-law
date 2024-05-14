@@ -176,7 +176,7 @@
 - [§ 100h Weitere Maßnahmen außerhalb von Wohnraum](0100h.md)
 - [§ 100i Technische Ermittlungsmaßnahmen bei Mobilfunkendgeräten](0100i.md)
 - [§ 100j Bestandsdatenauskunft](0100j.md)
-- [§ 100k Erhebung von Nutzungsdaten bei Telemediendiensten](0100k.md)
+- [§ 100k Erhebung von Nutzungsdaten bei digitalen Diensten](0100k.md)
 - [§ 101 Verfahrensregelungen bei verdeckten Maßnahmen](0101.md)
 - [§ 101a Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei Verkehrs- und Nutzungsdaten](0101a.md)
 - [§ 101b Statistische Erfassung; Berichtspflichten](0101b.md)
