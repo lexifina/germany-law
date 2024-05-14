@@ -1,0 +1,109 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968936
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968936
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Fahrradabstellplatz in Parkbucht Carlamaria-Heim-Straße 3 - 5
+- TOP 4.2.: Nutzung der Fläche Ganghoferstraße, Linus-Pauling-Straße, Quartiersplatz (MK2-Gelände)
+- TOP 4.3.: Verkehrsführung im Bereich Kazmairstraße und Killiansplatz - Sicherheit und Barrierefreiheit
+- TOP 4.4.: Ganghoferstr. 47 MK2-Gelände; Baustelle PROBAT / Fassaden-MockUps / Container / Müll + Unrat
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Gollierstraße 70
+- TOP 6.1.2.: Freischankfläche Karl-Spengler-Straße 4
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Schwanthalerstraße 115
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Bescheid Bauvorhaben Schwanthalerstraße 142
+- TOP 6.3.3.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 6.3.4.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: (U) Sanierung und Aufwertung des Spielplatzes und der Aufenthaltsangebote auf dem Gollierplatz im 8. Stadtbezirk Schwanthalerhöhe Ausführungsgenehmigung
+- TOP 7.3.2.: Einladung 30 Jahre Geburtshaus München Fäustlestraße am 15.06.2024
+- TOP 7.3.3.: Leistungsbilanz des Sozialreferates 2024; Stadtbezirk 8 - Schwanthalerhöhe
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) + (U) GWG: Ehemalige Maschinenfabrik Strobl umnutzen zum Wohn- und Kreativquartier Empfehlung Nr. 20-26 / E 01181 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 02.05.2023
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Schallplattenflohmarkt Am Bavariapark am 13.07.2024
+- TOP 8.2.2.: Veranstaltung "World-Refugee-Day" Ganghoferstr. 14 und Fläche zwischen Linus-Pauling-Str. und Ben-Chorin-Str. am 21.06.2024
+- TOP 8.2.3.: Das "Fest der Nachbarn" auf dem Georg-Freundorfer-Platz am 15.06.2024
+- TOP 8.2.4.: Spielaktionen "Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen vom 02.07. - 07.09.2024
+- TOP 8.2.5.: Straßenfest des Griechischen Hauses inkl. Flohmarkt am 22.06.2024 in der Bergmannstr. 35a bis 48
+- TOP 8.2.6.: "Schneckenmarkt" und Flohmarkt am 07.06.2024 und 08.06.24 auf der Fläche Am Bavariapark
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Städtische Spielplätze inklusionsgerecht gestalten
+- TOP 8.3.2.: Veranstaltungen im Rahmen des MUCs Projektes
+- TOP 8.3.3.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 8.3.4.: 5. Welt-Vespa-Oldtimertreffen vom 10.05.2024 bis 12.05.2024 auf der Fläche Am Bavariapark und im Verkehrszentrum
+- TOP 8.3.5.: Genehmigung „Straßenfest 30 Jahre Geburtshaus München" am 15.06.24
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Westendstraße 135 - 137a
+- TOP 9.2.2.: Baumfällung Bergmannstraße 7
+- TOP 9.2.3.: Hans-Fischer-Straße - Rischart und Cocoon; Hotelanfahrts- und Lieferzone
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Meldeliste Baumaßnahmen SWM
+- TOP 9.3.2.: Sperrung der Theresienwiese während der Aufbauzeit des Oktoberfestes
+- TOP 9.3.3.: Rischart´s Backhaus; Gestaltung Vorplatz und Mobilitätsangebot
+- TOP 9.3.4.: Überprüfung eines Anhängers in der Holzkirchner Str. durch die Polizei
+- TOP 9.3.5.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 9.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget D`Schwanthalerhöh&#039; Trägerverein Kultur- und Vereinskeller Westendstraße 76 e.V. Kunst- und Kulturtage 2024 Westend hat ein Gesicht - "Respekt & Akzeptanz" vom 15.06. - 10.08.2024 9.240,00 Euro / Az. 0262.0-8-0398
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. "Umlenken" Umlenken -Räder pflegen statt Gas geben vom 01.04. -31.10.2024 5.000,00€; Az. 0262.0-8-0393
+- TOP 10.1.3.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged wir Society e.V. Begehbare Karte im Stadtbezirk 8 vom 01.06. -31.12.2024 2.700,00€; Az. 0262.0-8-0396
+- TOP 10.1.4.: (E) Stadtbezirksbudget Migration macht Gesellschaft e.V. Kulturveranstaltung World Refugee Day 2024 - "Vielfalt feiern" am 21.06.2024 1.470,00 Euro, Az.: 0262.0-8-0399
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung
+- TOP 12.2.2.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Einladung der Baureferentin zum Informationsgespräch am 04.06.2024
+- TOP 12.3.2.: Nächtliche Lärmbelästigung durch die Kundschaft des Kiosk Parkstraße 25
+- TOP 13: Protokoll und Umlauf
+- TOP 7.3.4.: Sanierung des ehem. Parkwärterhauses zur zukünftigen Nutzung als Jugendeinrichtung
+- TOP 9.2.4.: Wanderbaumallee in der Parkstraße
+- TOP 9.3.7.: Sicherheitsbedenken bezüglich der kurzen Grünphase an der Kreuzung Bavariaring und Schwanthalerstraße
+- TOP 9.3.8.: Nächtliche Ampelabschaltung prüfen - Antwortschreiben BA-Antrag Nr. 20-26 / Q 00425
+- TOP 10.1.5.: (E) Stadtbezirksbudget Koordinationsstelle Kinder-Kultur-Sommer c/o Kultur & Spielraum e.V. „Programmbeiträge Klimaparlament auf Einladung des KiKS-Veranstalterkreises vom 17.06.2024 – 23.06.2024“ 2.700,00 € / AZ: 0262.0-8-0401
+- TOP 8.3.6.: Veranstaltung "Bladenight 2024" ab 06.05.2024 am Bavariapark
+- TOP 6.3.5.: Einladung der Baureferentin zum Jahresaustausch am 04.06.2024, Anmeldefrist 15.05.2024
+- TOP 9.3.9.: SWM Baumaßnahme Fernwärme-Projekte Westendstraße 85 und Schwanthalerstraße 139
+- TOP 9.3.10.: Antwortschreiben Mobilitätsreferat: Begrenzung der Durchfahrt durch den Gollierplatz; Anfrage Nr. 20-26 / Q00436
+- TOP 9.3.11.: Antwortschreiben Mobilitätsreferat: Verkehrssicherheit an der Kreuzung Bavariaring/Schwanthalerstraße; Anfrage Nr.20-26 / Q 00437
+- TOP 10.1.6.: (E) Stadtbezirksbudget Verein zur Förderung der selbstbestimmten Geburt e.V. „Straßenfest in der Fäustlestraße und das 30 - Jähriges Bestehen des Geburtshaus Münchens am 15.06.2024“ 11.557,57 € / AZ: 0262.0-8-0400
+- TOP 6.1.3.: Freischankfläche Parkstraße 4
+- TOP 12.3.3.: Unterstützung für Kommunalpolitiker*innen im Umgang mit Anfeindungen / Angriffen
+- TOP 9.3.12.: Absolutes Haltverbot mit Zusatz Feuerwehrzufahrt, Ganghoferstr.78
+- TOP 9.3.13.: Auswirkungen der städtischen „Superblockstrategie“ für die Schwanthalerhöhe
+- TOP 9.3.14.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram
+- TOP 7.3.5.: Präventive Schulprojekte und Medienschulungen für Kinder und Jugendliche in der Mittelschule an der Ridlerstraße und der Carl-von-Linde-Realschule
+- TOP 9.3.8.1: Nächtliche Ampelschaltung prüfen
+- TOP 9.3.10.1: Begrenzung der Durchfahrt durch den Gollierplatz
+- TOP 9.3.11.1: Verkehrssicherheit an der Kreuzung Bavariaring/Schwanthalerstraße
+- TOP 10.1.7.: (E) Stadtbezirksbudget Green City e.V. Wanderbaumallee in der Parkstraße vom 16.06. -31.08.2024 2.100,00€; Az. 0262.0-8-0403
