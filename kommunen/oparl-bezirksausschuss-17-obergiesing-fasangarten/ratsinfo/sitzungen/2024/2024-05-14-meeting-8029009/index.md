@@ -1,0 +1,153 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8029009
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8029009
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; "Giasing hoit zam!" 2 Bänke und kleiner Gartenteich (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen; Anbringung eines Verkehrsspiegel in der Oberaudorferstr. / Ecke Schwanseestr. (FF UA MuV)
+- TOP 2.1.2.3.: Bürgeranliegen; Anwohnerparken - Parklizenzgebiet (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen; Wildblumenwiese am Hohenschwangauplatz (FF UA Umwelt)
+- TOP 2.1.2.5.: Bürgeranliegen; Dauerhafte Einrichtung einer Tempo 30 Zone vor dem Kindergarten Balanstr. 361 (FF UA MuV)
+- TOP 2.1.2.6.: Bürgeranliegen; Urbaner Waldgarten (FF UA Umwelt)
+- TOP 2.1.2.7.: Bürgeranliegen; Parklet in Giesing (FF UA MuV)
+- TOP 2.1.2.8.: Bürgeranliegen; Halteverbot vor den Grünflächen - Kontrolle (UA MuV)
+- TOP 2.1.2.9.: Bürgeranliegen; Spielplatz Obergiesing-Fasangarten (FF UA FSA)
+- TOP 2.1.2.10.: Bürgeranliegen; Ampel St.-Quirin-Platz (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Münchberger Str. 6 (Genehmigung der UNB) -Unterrichtung-
+- TOP 3.10.2.: Winlandstr. 7
+- TOP 3.10.3.: Stadelheimer Str. 12
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) Gesellschaft für Soziale Arbeit. München gGmbH (Familientreffpunkt Giesing) Deutschkurse (Anfänger:innen und Fortgeschrittene) vom 15.05. -31.12.2024 3.000,00€; Az. 0262.0-17-0440
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) Freundschaft zwischen Ausländern und Deutschen e.V. SommerHofKonzerte -Konzert-Reihe am ´Nachbarschaftstreff am Walchenseeplatz` vom 16.06. -15.09.2024 1.095,00€; Az. 0262.0-17-0439
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA FSA) AKitZ gGmbH Umwandlung GTP in Mini-Kita zur Sicherung von 10 Betreuungsplätzen im U3-Bereich vom 06. – 17.05.2024 11.553,00 Euro / Az. 0262.0-17-0441
+- TOP 5.1.4.: (E) Lebenshilfe München e.V. Stadt und Landkreis OBA (FF UA FSA) Inklusives Cafe im Garten 2024 vom 26.04. -18.10.2024 1.104,00€; Az. 0262.0-17-0443
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA Kultur) Academia Rromai – Verein für Rroma zu Rroma e.V. „80 Jahre Auschwitz – Widerstand: Die Erinnerung an seine Helden am 17.05.2024“ 2.971,50 € / AZ: 0262.0-17-0444
+- TOP 5.1.6.: (E) Stadtbezirksbudget (FF UA FSA) AWO München gemeinnützige BetriebsGmbH, Freizeitstätte RED DRAGON „3D Makerspace RED DRAGON September 2024“ 3.990,37 € / AZ: 0262.0-17-0445
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Anhörungsverfahren un Information zur Neuausschreibung der City-Light-Säulen
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 6.1.4.2.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 6.1.4.3.: Keine neuen Bürohäuser
+- TOP 6.1.4.4.: Vollzug der Satzung über das Verbot der Zweckentfremdung von Wohnraum hier: Münchberger Str.
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: (U) Einrichtung von Wohnungen für betreutes Wohnen für Ältere ab 75 Jahren im Münchenstift St. Martin Empfehlung Nr. 20-26 / E 01476 ... Ammietung weiterer Räume im Haus St. Martin für das ASZ Obergiesing-Fasangarten Empfehlung Nr. 20-26 / E 01477 ...
+- TOP 6.2.4.2.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 6.2.4.3.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Verkehrsrechtlichen Anordnung nach § 45 StVO hier: Neuregelung der Parkordnung im Wendehammer - Oberaudorfer Str.
+- TOP 6.3.3.2.: Anhörung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; hier: Änderungen im Parklizenzgebiet St. Martin-Platz - Maxlrainstr. - Spitzingplatz zwischen Eintrachtstr. und Schlierseestr. - Schlierseestr. zwischen St.-Martin Str. und Spitzingplatz
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Antwort vom MOR auf ein Bürgeranliegen vom März 2024 hier: Tempo 30 Zone in der Lincolnstr.
+- TOP 6.3.4.2.: Antwort vom Baureferat auf ein Bürgeranliegen vom Jan. 2024 hier: Felsen im Grünstreifen - Wei?enseestr. 126
+- TOP 6.3.4.3.: Die aufgrund von Fernwärmeleitungsbaumaßnahmen derzeit bestehende Sperrung der Zufahrt in die Emersonstraße von der TeLa her, wird auch nach Abschluss dieser Baumaßnahmen beibehalten und bis zum Jahresende verlängert, ggfs. dauerhaft belassen
+- TOP 6.3.4.4.: Ausweisung der Raintaler Straße zwischen St.-Martin-Straße und Perlacher Straße als Fahrradstraße (Ziffer 2 des Anliegens)
+- TOP 6.3.4.5.: Radweg in Einbahnbereich der Cincinnatistraße ermöglichen
+- TOP 6.3.4.6.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 6.3.4.7.: Antwort MOR: Widmung einer Teilstrecke der St.-Quirin Str.
+- TOP 6.3.4.8.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Forggenseestraße 24/26
+- TOP 6.3.4.9.: Rückmeldung zu BA - Antrag Nr. 20-26 / B 05877 Antrag auf einen Fahrrad- oder Lastenfahrradabstellplatz
+- TOP 6.3.5.: Anträge
+- TOP 6.3.5.1.: Antrag CSU-Fraktion: 10 Minuten-Taktung für Buslinie 145 am Samstag wieder einführen
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 6.4.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung in städt. Grünanlagen - Weißenseepark hier: Sommer im Park 2024 am 28.06.2024 (Frist: 15.05.2024)
+- TOP 6.5.3.2.: Veranstaltung auf öffentlichen Grund - Schlierseestr. 47 (Anton Fingerle - Zentrum) hier: Demokratiemobil am 04.06.2024 (Frist 15.05.2024)
+- TOP 6.5.3.3.: Veranstaltung in städt. Grünanlagen - Weißenseepark hier: Beats 6 Art X Krewnity - One People under a groove - am 06.07.2024 (Frist 31.05.2024)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Vollzug der städt. Grünanlagensatzung - St. Martin- Platz hier: Kindersachenflohmarkt der städt. KiTZ
+- TOP 6.5.4.2.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 6.5.4.3.: Vollzug der städt. Grünanlagensatzung - Walchenseeplatz hier: Sommertreff mit Spielmobil vom 15.04. - 31.10.2024
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Bürgeranliegen; Gewerbe in reinem Wohngebiet (Vertagung aus der Sitzung vom April 2024 und Verweisung an den UA Wirtschaft)
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Verlängerung der Ladenschlusszeiten auf 21 Uhr während des Stadtteilfestes "Ois Giasing"
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Stärkung der Rechte der Bezirksausschüsse (FF UA FSA und UA Kultur) hier: Anhörungsrecht bei Sportentwicklungsplanung BA- Antrag Nr. 20-26 / B 05994 des BA 24 vom 17.10.2023
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: Sitzungstermine 2025
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
