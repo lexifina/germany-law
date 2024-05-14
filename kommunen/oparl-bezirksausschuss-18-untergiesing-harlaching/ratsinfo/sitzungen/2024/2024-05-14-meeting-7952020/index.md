@@ -1,0 +1,192 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7952020
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7952020
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.4: Neubesetzung des Unterausschuss Bau durch die SPD-Fraktion
+- TOP 1.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Ernennung eines/r neuen Kinder- und Jugendbeauftragten für den BA 18
+- TOP 1.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget AKitZ gGmbH „Umwandlung GTP in Mini-Kita zur Sicherung von 10 Betreuungsplätzen im U3-Bereich vom 06.05.2024 – 17.05.2024“ AZ: 0262.0-18-0379 / 9.114,00 €
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Spiellandschaft Stadt e.V. „Komm, spielt – Familienfest mit Kindern, Zirkus und Spielattraktionen vom 16.08.2024 – 19.08.2024“ 3.590,00 € / AZ: 0262.0-18-0380
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Init. "Straßenfest“ „Straßenfest für und mit Giesing (Straßenfest vs. Urbanes Tennis meets Hofflohmärkte am 08.06.2024“ 4.500,00 € / AZ: 0262.0-18-0382
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Luma e.V. „Kulturelles Kinderprogramm vom 01.05.2024 – 31.12.2024“ 8.800,00 € / AZ: 0262.0-18-0381
+- TOP 3.1.2.5.: (E) Stadtbezirksbudget Initiative „Nachbarschaftsfest“ „Integratives Nachbarschaftsfest 29.06., 30.06. oder 06.07., 07.07.2024“ 1.884,00 € / AZ: 0262.0-18-0375
+- TOP 3.1.2.6.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt "Fromundstraßenfest 2024 am 12.07.2024" 5.400,00 € / AZ: 0262.0-18-0383
+- TOP 3.1.2.7.: (E) Stadtbezirksbudget Förderverein der Grundschule München am Agilolfingerplatz Die Geschichtenstunde: Erzählen-Zuhören-Weitererzählen, ein Jahresprojekt von September 2024 bis Juli 2025 6.000,00 Euro / Az. 0262.0-18-0374
+- TOP 3.1.2.8.: (E) Stadtbezirksbudget Siedler- und Eigenheimvereinigung Harlaching e.V. „Stadtteil-Musik-Kultur-Fest am Mangfallplatz am 26.07.2024“ AZ: 0262.0-18-0384 / 1.960,00 €
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.5.1.: Antwortschreiben des Baureferats zur Einrichtung des Athener Spielplatzes in Harlaching (BSL)
+- TOP 3.1.5.2.: Antwortschreiben der Münchner Wohnen Service GmbH zur Initiative Nachbarschaftsfest
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Neubau bzw. Sanierung eines öffentlich zugänglichen Fußballplatzes in Harlaching sowie Ergänzung um einen sog. Trainingspark; Antrag JU Harlaching
+- TOP 3.2.3.2.: Erneuerung der Boulderwand am Wörnbrunner Platz; SPD-Antrag
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Abnahme des Deutschen Sportabzeichens auf der Grünanlage und in der Sporthalle an der Säbenerstraße 49 am 15.06.2024
+- TOP 3.2.4.2.: Sommerfest der Anwohner am Rondell der Steingadener Straße am 22.06.2024
+- TOP 3.2.4.3.: Fromundstraßenfest des Kreisjugendrings am 12.07.2024 von 15:00 bis 22:00 Uhr
+- TOP 3.2.4.4.: Kinder Zirkus Attraktionen in der Oberbibergerstraße (auf der Waldwiese neben dem KindlHeim) vom 13.08. - 24.08.2024
+- TOP 3.2.4.5.: Anhörungsrecht bei Sportentwicklungsplanung (Anhörung zu BA 24-Antrag Nr. 20-26 / B 05994)
+- TOP 3.2.4.6.: Spielaktionen "Straße.Oase" von CultureClouds e.V. auf Straßen und Plätzen (bezirksübergreifend) vom 02.07. - 07.09.2024
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Modernisierungsmaßnahmen Bezirksportanlagen in München
+- TOP 3.2.5.2.: Weitere Optimierung der Toilettensituation am städtischen Stadion an der Grünwalder Straße
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Isarinfomobil mit Pavillon vom Kommunikationsteam des KAD ab 15.04.2024 (Bezirke 5 und 18) - Eilentscheidung der BA-Vorsitzenden
+- TOP 3.2.6.2.: Flohmarkt des Kirschbaumkindergarten e.V. am Hans-Mielich-Platz am 14.04.2024 - Abdruck der Erlaubnis
+- TOP 3.2.6.3.: Greifvögelvorführung des Naturkindergarten Isarauen e.V. am 30.04.2024 - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.4.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 3.2.6.5.: Harlachinger Burschenfest 2024 - Abdruck Erlaubnis und Gestattung
+- TOP 3.2.6.6.: Maifest des Maibaumvereins am Hans-Mielich-Platz - Abdruck Erlaubnis und Gestattungen
+- TOP 3.2.6.7.: Dankschreiben des TSV Turnerbund München e.V.
+- TOP 3.2.6.8.: Fit im Park der LHM - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.9.: Konzept zu einem Basketballturnier auf dem Schyrensportplatz
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Schnellstmögliche Errichtung von Trambahnhäuschen an den Tramhaltestellen Theodolindenplatz, Klinikum Harlaching und Menterschwaige; Antrag JU Harlaching
+- TOP 3.3.3.2.: Verkehrssituation in der Humboldtstraße; Bürgeranliegen
+- TOP 3.3.3.3.: Wild geparkte E-Roller in Harlaching; Bürgeranliegen
+- TOP 3.3.3.4.: Gehwegparken im Parkbereich Mondstraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Gefahrzeichen "Lichtsignalanlage" (Z. 131 StVO) in der Geiselgasteigstraße
+- TOP 3.3.4.2.: Schaffung von Fahrradabstellplätzen in der Voßstraße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Fußgängerampel Geiselgasteigstraße auf Höhe Schilcherweg
+- TOP 3.3.5.2.: Hans-Mielich-Platz (Ecke Gerhardstraße): Einrichtung einer E-Scooter-Abstellfläche statt eines KfZ-Stellplatzes und eines fest installierten Fahrradständers
+- TOP 3.3.5.3.: Fehlende Radabstellanlagen an den neu installierten Trambahn-Haltestellen entlang der Trambahnlinie 25 wieder installieren
+- TOP 3.3.5.4.: Wartehäuschen und elektronische Abfahrtszeiten der Trambahn-Linie 25 zeitnah wieder installieren
+- TOP 3.3.5.5.: Standseilbahn Siemenswerke - Hellabrunn - Wettersteinplatz - Befürwortung des Projekts - Bitte um Prüfung / weitere Planung
+- TOP 3.3.5.6.: Verkehrssituation in der Naupliastraße
+- TOP 3.3.5.7.: Parksituation für Schulbusse in der Kurzstraße
+- TOP 3.3.5.8.: Gefährliche Ampelschaltung für Fußgänger am Candidplatz
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Bruckenfischerstraße: Gefahrzeichen „Kreuzung oder Einmündung“ (Z. 102 StVO)
+- TOP 3.3.6.2.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 3.3.6.3.: Fristverlängerungen der Referate zu BA-Anträgen aus dem Bereich Mobilität
+- TOP 3.3.6.4.: Absolutes Halteverbot (Z. 283 StVO) in der Holzkirchner Straße an der Einmündung zur Geiselgasteigstraße
+- TOP 3.3.6.5.: Kurzparkregelung in der Grünwalder Str. 190
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Genehmigung einer Entsorgungsstätte für Gartenabfälle in Harlaching; Antrag JU Harlaching
+- TOP 3.4.3.2.: Wiederöffnung des Hangwegs vom Biergarten Menterschwaige hinunter zur Isar; Bürgeranliegen
+- TOP 3.4.3.3.: Städtische Flächen für das Projekt “Urbaner Waldgarten”; Bürgeranliegen
+- TOP 3.4.3.4.: Kommunale Wärmeplanung für Harlaching; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Agatharieder Str. 17 - Am Perlacher Forst 192b - Gabriel-Max-Str. 18 - Grünwalder Str. 225 - Hauensteinstr. 12 - Heinrich-Kröller-Str. 3 - Meichelbeckstr. 3 - Pistorinistr. 30 - Portiastr. 16 - Rotbuchenstr. 71 - Säbener Str. 244 - Schmorellplatz 8 - Schönstr. 98 - Schyrenstr. 12 - Terhallestr. 51 - Tierparkstr. 30 - Vollmarstr. 6a
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Fakten & Qualitätscheck des Grünpaten-Programms der LHM Green City e.V.
+- TOP 3.4.5.2.: Entfernung eines Anhängers mit Sperrmüllablagerung in der Holzkirchener Straße
+- TOP 3.4.5.3.: Verschmutzung der Fahrbahn und des Fußweges in der Theodolindenstraße
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Athener Str. 14
+- TOP 3.4.6.2.: Baumfällung in der Haselburgstr. 16
+- TOP 3.4.6.3.: Genehmigungsbescheid für eine Röstanlage der Fausto Kaffeerösterei GmbH - Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) sowie des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG)
+- TOP 3.4.6.4.: Baumfällung in der Veroneser Str. 3
+- TOP 3.4.6.5.: Baumfällung in der Säbener Str. 244
+- TOP 3.4.6.6.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 3.4.6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Veränderung des Schanigartens in der Oberen Weidenstraße 1
+- TOP 3.5.2.2.: Erweiterung einer bestehenden Freischankfläche für die Tamjo Gaststätten GmbH
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Vandalismus in Giesing; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Genehmigung eines Abholschrankes für das Kartoffekombinat am Hans-Mielich-Platz
+- TOP 3.5.5.2.: Entfernung von Schmierereien im 18. Stadtbezirk
+- TOP 3.5.5.3.: Lärmbelästigung durch Schießanlage am Perlacher Forst
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 3.5.6.2.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 3.5.6.3.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 3.5.6.4.: Fristverlängerungen der Referate zu BA-Anträgen aus dem Bereich Soziales
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Thelemannstr. 7: Neubau eines Mehrfamilienhauses mit 3 Wohneinheiten und Tiefgarage
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Bürgerinformation zur Kanalsanierung in der Hochederstraße
+- TOP 3.6.5.2.: Gestaltung der Flyer zu den Baumaßnahmen der Stadtwerke München
+- TOP 3.6.5.3.: Wiederherstellung der öffentlichen Flächen im Bereich Tauernstraße 4-8
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Keine neuen Bürohäuser
+- TOP 3.6.6.2.: SWM-Baumaßnahme: Strom-Projekt in der Lohstraße
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Hinweise zur Erledigung von BA-Anträgen / Vorgehen bei Rück- und Folgefragen
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.4.4.: Anordnung eines zeitlich beschränkten absoluten Haltverbots vor dem Albert-Einstein-Gymnasium
+- TOP 3.3.4.3.: Naupliastr. 72-88 - Radwegsanierung im Bestand
+- TOP 3.2.4.7.: Isarinfomobil mit Pavillon vom Kommunikationsteam des KAD - Verlängerung der Aktion für den Zeitraum 02.06.2024 bis 25.08.2024
+- TOP 3.2.3.3.: Bücherschrank in der Claude-Lorrain-Straße; Bürgeranliegen
