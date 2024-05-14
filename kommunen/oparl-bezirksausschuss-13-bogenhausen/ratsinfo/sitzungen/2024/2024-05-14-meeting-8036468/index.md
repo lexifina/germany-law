@@ -1,0 +1,178 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2024-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8036468
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8036468
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokoll der Sitzung vom 16.04.2024
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2.1: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.2.1.1.: 2. Planänderung für das Bauvorhaben „Neubau ESTW München Ost Phf, Teil 1: S-Bahn“; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.2.1.2.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen; Anhörung des Referats für Arbeit und Wirtschaft
+- TOP 2.2.1.3.: Kattowitzer Str. 25 - Neubau einer temporären Wohnanlage in Modulbauweise für Studenten / Auszubildende - VORBESCHEID
+- TOP 2.2.1.4.: Hofererweg 3 - Derzeit befinden sich auf dem Grundstück zwei Bestandsgebäude. Die bestehenden Gebäude auf dem Grundstück sollen abgerissen werden und durch einen Neubau - Wohnungsbau (Mietwohnungen) ersetzt werden. Das Gebäude soll in Holz- bzw. Holzhybridbauweise errichtet werden. Der Grad der Modularisierung ist im Planungsprozess zu definieren. Die Pkw-Stellplätze werden mit der Errichtung einer Tiefgarage sichergestellt - mit Mobilitätskonzept - VORBESCHEID
+- TOP 2.2.1.5.: Hornsteinstr. 7 - Neubau eines Einfamilienhauses auf best. Untergeschoss mit Doppelgarage
+- TOP 2.2.1.6.: Seeligerstr. 4 - Neubau einer Wohnanlage mit Tiefgarage -VORBESCHEID
+- TOP 2.2.1.7.: Dirschauer Str. 20 - Neubau eines Doppelhauses mit Garagen
+- TOP 2.2.1.8.: Anfrage des BA 13 an die LHM zum viergleisigen Ausbau der Bahnstrecke Johanneskirchen bis Zamdorf; Antrag der CSU-Fraktion
+- TOP 2.2.1.9.: Nachlese zum SEM-Workshop
+- TOP 2.2.1.10.: Cosimastr. 204 - Neubau Interimsmaßnahme Kindertagesstätte St. Thomas Apostel - ÄNDERUNGSANTRAG zu 1.1-2023-4128-31
+- TOP 2.2.1.11.: Ida-Pfeiffer-Str. 3 - Neubau einer Doppelhaushälfte - VORBESCHEID
+- TOP 2.2.1.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.1.13.: Verschiedenes, Termine
+- TOP 2.2.1.14.: Denninger Str. - WH 2089 - Umrüstung 1 digitale Werbevitrine - innen digital - außen statisch (Denninger Str. / Richard-Strauss-Str. / Arabellastr.)
+- TOP 2.2.2: Baumfällungen lt. Plan
+- TOP 2.2.2.1.: Kattowitzer Str. 25 - Neubau einer temporären Wohnanlage in Modulbauweise für Studenten / Auszubildende - VORBESCHEID
+- TOP 2.2.2.2.: Hornsteinstr. 7 - Neubau eines Einfamilienhauses auf best. Untergeschoss mit Doppelgarage
+- TOP 2.2.2.3.: Hofererweg 3 - Derzeit befinden sich auf dem Grundstück zwei Bestandsgebäude. Die bestehenden Gebäude auf dem Grundstück sollen abgerissen werden und durch einen Neubau - Wohnungsbau (Mietwohnungen) ersetzt werden. Das Gebäude soll in Holz- bzw. Holzhybridbauweise errichtet werden. Der Grad der Modularisierung ist im Planungsprozess zu definieren. Die Pkw-Stellplätze werden mit der Errichtung einer Tiefgarage sichergestellt - mit Mobilitätskonzept - VORBESCHEID
+- TOP 2.2.2.4.: Seeligerstr. 4 - Neubau einer Wohnanlage mit Tiefgarage -VORBESCHEID
+- TOP 2.2.2.5.: Dirschauer Str. 20 - Neubau eines Doppelhauses mit Garagen
+- TOP 2.2.2.6.: Cosimastr. 204 - Neubau Interimsmaßnahme Kindertagesstätte St. Thomas Apostel - ÄNDERUNGSANTRAG zu 1.1-2023-4128-31
+- TOP 2.3: Unterausschuss Verkehr und Mobilität
+- TOP 2.3.1.: (E) Bessere Beschilderung der Tempo-30-Zone im Bereich Johanneskirchner Straße
+- TOP 2.3.2.: (E) “Parken nur für PKW“ in der Franz-Wolter-Straße
+- TOP 2.3.3.: (E) Aufheben der Ruhezone an der Ecke Walpurgis-/Stuntzstraße
+- TOP 2.3.4.: Teilstrategie Shared Mobility - Konzept für den Stadtbezirk 13; Anhörung des Mobilitätsreferats
+- TOP 2.3.5.: Erschließungskonzept der SEM
+- TOP 2.3.6.: Verbesserung der Verkehrssituation in der Gotthelfstraße und angrenzende Nebenstraßen; Anliegen aus der Bürgerschaft
+- TOP 2.3.7.: Situation am Nachbargrundstück Musenbergstraße 40 (Theaterfabrik); Anliegen aus der Bürgerschaft (vertagt aus der Sitzung 04/24)
+- TOP 2.3.8.: Problematische Verkehrssituation an der Grundschule Knappertsbuschstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Anpassung der Schutzzeit an der Fußgängerampel in der Johanneskirchener Str. (Höhe Ringofenweg); Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Autofahrten in die Grünanlage zwischen Bruno-Walter-Ring, Knappersbuschstraße und Fideliostraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: Kreuzung Donaustraße/Delpstraße durch Bodenmarkierung entschärfen und Sicherheit verbessern; Antrag der CSU-Fraktion
+- TOP 2.3.12.: Prüfauftrag zur Verlängerung der Buslinie 191 bis Daglfing; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.13.: Radwegsanierung Englschalkinger Südseite zwischen Arabellastraße und der Kreuzung Cosima-/Vollmannstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.14.: Umverlegung eines Radspur-Teilabschnitts der Vollmannstraße; Antrag der SPD-Fraktion
+- TOP 2.3.15.: Bauliche Maßnahmen gegen rechtswidriges Parken an der Kreuzung Schnorr-von-Carolsfeld-Straße/Barlowstraße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.16.: Posener Platz: 1. Parken von Wohnanhängern und Wohnmobilen; 2. Durchführung von Radarkontrollen; Anliegen aus der Bürgerschaft
+- TOP 2.3.17.: Anbringung eines Tempo 30 Schildes an der Einbiegung von der Gebelestraße in die Niedermayerstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.18.: Kreuzung Prinzregentenstraße/Vogelweideplatz: Eigene Ampelphase für Fußgänger/Radfahrer; Anliegen aus der Bürgerschaft
+- TOP 2.3.19.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.20.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Budget und Satzung
+- TOP 2.4.1.: (E) Stadtbezirksbudget Initiative "Remember Nature" Remember Nature vom 02. - 05.05.2024 1.690,00 Euro / Az. 0262.0-13-0427 (vertagt aus der Sitzung 04/24)
+- TOP 2.4.2.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 5. Interkulturelles Tanz- und Musikfest am 24.11.2024 1.045,00 Euro / Az. 0262.0-13-0432
+- TOP 2.4.3.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. GMU-Maidult, &#039;Thailand: Kultur und taube Community&#039; am 01.05.2024 2.343,75 Euro / Az. 0262.0-13-0434
+- TOP 2.4.4.: (E) Stadtbezirksbudget REGSAM e.V. Sommerfest im 13er am 05.07.2024 5.794,60 Euro / Az. 0262.0-13-0436
+- TOP 2.4.5.: (E) Stadtbezirksbudget Initiative "Papiertheaterfestival" 8. Münchner Papiertheaterfestival "alles papier" vom 17. - 20.10.2024 4.500,00 Euro, Az.: 0262.0-13-0437
+- TOP 2.4.6.: (E) Stadtbezirksbudget Jugendabteilung des SV Helios-Daglfing Fußballtraining für Kinder und Jugendliche im Alter von 4-19 Jahren ab 06.07.2024 1.627,40 Euro / Az. 0262.0-13-0439
+- TOP 2.4.7.: (E) Stadtbezirksbudget Condrobs e.V. Erlebnispädagogische Männerfreizeit mit Klientel unserer therap. WG Inizio vom 29.07. - 02.08.2024 3.060,00 Euro / Az. 0262.0-13-0435
+- TOP 2.4.8.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. Beschaffung einheitlicher T-Shirts für alle aktiven Helfer zur 150-Jahrfeier vom 12. – 14.07.2024 867,75 Euro / Az. 0262.0-13-0442
+- TOP 2.4.9.: (E) Stadtbezirksbudget Turnerschaft Jahn München von 1887 e.V. Sportfest - Tag des Sportabzeichens für Mitglieder und alle Bewohner*innen Bogenhausens am 15.06.2024 6.550,00 Euro / Az. 0262.0-13-0440
+- TOP 2.4.10.: Budgetantrag: Wave of Hope für Zukunftsperspektiven und Flüchtlinge - offene Fragen
+- TOP 2.4.11.: Anhörungsrecht bei Sportentwicklungsplanung; Anhörung des Direktoriums
+- TOP 2.4.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.13.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Bildung und Sport
+- TOP 2.5.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2025; Anhörung des Sozialreferats (vertagt aus der Sitzung 04/24)
+- TOP 2.5.2.: Förderung Schulprojekte "Jetzt schlägt&#039;s 13" - Rückmeldung des Direktorium
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.1: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.6.1.1.: Vorstellung der Wärmeplanung für den 13. Stadtbezirk durch Vertreter des Referats für Klima- und Umweltschutz
+- TOP 2.6.1.2.: Fernwärmeanschluss für Altbogenhausen; Antrag der CSU-Fraktion (vertagt aus der Sitzung 04/24)
+- TOP 2.6.1.3.: (E) + (U) Fernwärme in der Westpreußenstraße Empfehlung Nr. 20-26 / E 01543 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 07.11.2023
+- TOP 2.6.1.4.: (E) U-Bahnhof Böhmerwaldplatz: Anbringung Solarpanele auf dem Dach des Fahrradstellplatzes
+- TOP 2.6.1.5.: U-Bahnhof Böhmerwaldplatz: Anbringung Solarpanele auf dem Dach des Fahrradstellplatzes; Rückmeldung des Baureferats
+- TOP 2.6.1.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.1.7.: Verschiedenes, Termine
+- TOP 2.6.2: Baumfällungen (Anhörungen)
+- TOP 2.6.2.1.: Wimmerstr. 25
+- TOP 2.6.2.2.: Denninger Str. 194
+- TOP 2.6.2.3.: Nettelbeckstr. 18
+- TOP 2.6.2.4.: Asgardstr. 28
+- TOP 2.6.2.5.: Mauerkircherstr. 86
+- TOP 2.6.2.6.: Gröbenstr. 8
+- TOP 2.6.2.7.: Hoyerweg 6
+- TOP 2.7: Unterausschuss Kultur, Soziales und Vereine
+- TOP 2.7.1.: "Bei Monti&#039;s", Schreberweg 31: Anfrage wegen Betriebszeitänderung in gesetzliche Sperrzeit; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.2.: An der Cosimastr. / Englschalkinger Str.: Platzanfrage für öffentliches Sommerfest am 29.06.2024; Anhörung des Kommunalreferats
+- TOP 2.7.3.: An der Cosimastr. / Englschalkinger Str.: Platzanfrage für "Sommerfest im 13er // Popup-Stage" am 04.07. und 05.07.2024; Anhörung des Kommunalreferats
+- TOP 2.7.4.: Ismaninger Str. 95: Kindergarten Sommerfest am 12.07.2024 im Bürgermeistergarten; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.5.: Gottesdienst im Rahmen der Fronleichnamsprozession des Pfarrverband Bogenhausen Süd am 02.06.2024 in der Schwarzwaldstr.; Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.6.: Sommerfest im 13er - Anmeldung
+- TOP 2.7.7.: Soziale Projekte beim Spielplatz und Park Regina-Ullmann-Str./Isabella-von-Braun-Weg; Anliegen aus der Bürgerschaft
+- TOP 2.7.8.: Baulicher Zustand des Höchl-Schlössls - Organisation des Ortstermins -
+- TOP 2.7.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.7.10.: Verschiedenes, Termine
+- TOP 3: Berichte der BA-Beauftragten, Anträge von Bürger*innen (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Anträge von Bürger*innen
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Gefährlicher Fahrradweg in der Eggenfeldener Straße
+- TOP 6.2.: Einrichtung der Barlowstraße in eine Einbahnstraße - Parkverbot vor der Barlowstraße 11; Anliegen aus der Bürgerschaft - Antwortschreiben des Mobilitätsreferat -
+- TOP 6.3.: 1. gemeinsames Nutzen des "Salzsenderwegs" von Fußgängern und Fahrrädern 2. Anbringung eines Gehwegs auf der Brodersenstraße Richtung Osten; Anliegen aus der Bürgerschaft - Rückmeldung des Referats für Stadtplanung und Bauordnung -
+- TOP 6.4.: Bürgerinformation zur Einführung des Parkraummanagements in Bogenhausen
+- TOP 6.5.: Baum- und Bieberschutz am Hüllgraben (hinter Küstnerstr. 4, Anfahrt über Küstnerstr. Südseite Park)
+- TOP 6.6.: Rad-Bus-Spur auf der Luitpoldbrücke; Antrag der SPD-Fraktion - Rückmeldung des Mobilitätsreferats -
+- TOP 6.7.: Bäume pflanzen am Huuezziplatz (Gleißenbachstr. vor dem Johanniskircherl und freie Fläche Johanniskirchner Str.)
+- TOP 6.8.: Aktueller Stand der Gebäudesanierung Freischützstr. / Johanneskirchner Str.
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 7.3: Mobiliätsreferat
+- TOP 7.3.1.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 7.3.2.: Cosimastraße (Ostseite auf Höhe Hs.Nr. 2049: Kurzzeitparken mit Zeitzusatz
+- TOP 7.3.3.: Ruth-Drexel-Straße gegenüber Hausnummer 173: Absolutes Haltverbot Baumnase (Z. 283 StVO) mit bayr. Zusatz „Feuerwehranfahrt“
+- TOP 7.3.4.: Ostpreußenstr. 23-27: Kurzzeitparken mit Zeitbeschränkung
+- TOP 7.3.5.: E-Scooter Parkzone auf Privatgelände - Rückmeldung des Mobilitätsreferats
+- TOP 7.4: Kommunalreferat
+- TOP 7.5: Kreisverwaltungsreferat
+- TOP 7.5.1.: Unterrichtung über unveränderte Gaststättenfortführung: - Westpreußenstr. 60 - Schreberweg 31
+- TOP 7.6: Kulturreferat
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.1.: Keine neuen Bürohäuser
+- TOP 7.7.2.: Brenner-Nordzulauf in München / Transeuropäische Netze - Viergleisiger Ausbau der Strecke Daglfing-Johanneskirchen Ergebnisse der Feinvariantenuntersuchung sowie weiteres Vorgehen
+- TOP 7.7.3.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 7.7.4.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 7.7.5.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 7.7.6.: Johann-Straub-Weg 4
+- TOP 7.7.7.: Rudliebstr. 8
+- TOP 7.7.8.: Hagelstangestr. 46
+- TOP 7.7.9.: Planfeststellungsverfahren "Tram Nordtangente PFA 3 - Johanneskirchen" - Tektur B - Abdruck der Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.1.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP 7.8.2.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 7.9: Sozialreferat
+- TOP 7.9.1.: (U) Neueröffnung von Unterkünften zur Unterbringung Geflüchteter an den Standorten - Baierbrunner Str. 30, - Savitsstraße (Flst. 792/1, Daglfing) Verlängerung einer bestehenden Unterkunft zur Unterbringung Geflüchteter am Standort - Hans-Thonauer-Straße 3d 13. Stadtbezirk - Bogenhausen 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 25. Stadtbezirk - Laim
+- TOP 7.9.2.: (U) Unterbringung von Geflüchteten 13. Stadtbezirk - Bogenhausen
+- TOP 7.9.3.: Vollzug der Zweckentfremdungssatzung
+- TOP 7.9.4.: (U) Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung des Anwesens Jankstr. 13 zur Errichtung einer Kindertageseinrichtung 13. Stadtbezirk - Bogenhausen
+- TOP 7.10: Personal- und Organisationsreferat
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: MIP 2024-2028 - Abdruck der Weiterleitung der BA13-Stellungnahme an die zuständigen Referate
+- TOP 7.11.2.: Mehrjahresinvestitionsprogramm (MIP) 2023 - 2027 1. Investitionsmaßnahmen für Bildungseinrichtungen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 7.12: Referat für Arbeit und Wirtschaft
+- TOP 7.13: MVG
+- TOP 7.14: IT-Referat
+- TOP 7.15: Referat für Klima- und Umweltschutz
+- TOP 7.15.1.: Suchkreismitteilung zu Mobilfunkanlagen
+- TOP 7.16: Gesundheitsreferat
+- TOP 7.17: Sonstige (Bahn AG, Post)
+- TOP 7.18: sonst. städt. Betriebe (SWM, Messe)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.1.15.: Richard-Strauss-Str.: WH 2087 - Umrüstung 1 digitale Werbevitrine - innen digital - außen statisch (Richard-Strauss-Str. / Arabellastr.)
+- TOP 2.2.1.16.: Richard-Strauss-Str. 93: WH 1927 - Umrüstung 1 digitale Werbevitrine - innen digital-außen statisch
+- TOP 2.6.1.8.: Standortvorschläge für die Installation von zusätzlichen Trinkwasserbrunnen in Bogenhausen; Antrag der CSU-Fraktion
