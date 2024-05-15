@@ -1,0 +1,162 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2024-05-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7913750
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7913750
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürger*innen haben das Wort
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1.: Baulücke Einsteinstr. 96 / Lucile-Grahn-Str. 23 dazu: Schreiben L HOMES GmbH
+- TOP 5.2.: Baum für die Lucile-Grahn-Straße
+- TOP 5.3.: Aufstellen von klappbaren Stühlen an der Haltestelle Carl-Amery-Platz
+- TOP 6.: Allgemeine Anhörungen und Unterrichtungen
+- TOP 6.1: Anhörungen
+- TOP 6.2: Unterrichtungen
+- TOP 6.2.1.: Infoblatt
+- TOP B: Berichte der Beauftragten und aus den Unterausschüssen
+- TOP I.: Bericht des/der Vorsitzenden und der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget WunderkammAA GbR „Fluide Axiome“ – Symposium und Workshop, vom 03.06. bis 30.11.2024 3.820,00 Euro; Az. 0262.0-5-0545
+- TOP II.2.: (E) Stadtbezirksbudget Initiative „Isarfestspiele“ Isarfestspiele am 29., 30. und 31.08.2024 600,00 Euro; Az. 0262.0-5-0543
+- TOP II.3.: zu TOP 2: Schreiben BA 1 Altstadt-Lehel
+- TOP II.4.: (E) Stadtbezirksbudget Galerie artoxin GbR 2 Kunstprojekte: „NATUR_RAUM“ und „Beauties on the Edge“ 1.762,50 Euro; Az. 0262.0-5-0544
+- TOP II.5.: (E) Stadtbezirksbudget You e.V. Konzert: Musiker aus Italien führen Stücke aus aller Welt vor, am 04.05.2024 1.458,12 Euro; Az. 0262.0-5-0547
+- TOP II.6.: (E) Stadtbezirksbudget Initiative „People of Fat Cat“ Kunstprojekt „People of Fat Cat“ vom 02.04.2024 bis 30.11.2024 8.890,00 Euro; Az. 0262.0-5-0549
+- TOP II.7.: (E) Stadtbezirksbudget Initiative „Kreative Musik“ „Musik als soziale Kommunikation“ 4.750,00 Euro; Az. 0262.0-5-0541 vertagt in der Sitzung am 17.04.2024
+- TOP II.8.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP II.9.: Fußgängerzone Weißenburger Straße: Durchführung von BA-Veranstaltungen
+- TOP II.10.: Ortstermin zur Nutzung des Unionsbräu in der Einsteinstr. 42 am 15.05.2024
+- TOP II.11.: Errichtung einer Gedenkstätte für die Opfer der Coronapandemie in Form eines Gedenkkreuzes vor der Alten Haidhauser Kirche; Schreiben Pfarrverband Haidhausen Ergebnis Ortstermin vom 27.03.2024
+- TOP III.: UA Soziales, Gesundheit und Inklusion
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget siaf e.V. „Soziale Teilhabe in einem barrierefreien café glanz mit Beschäftigungsprojekt“ – Umbau Küche sowie Umgestaltung Treffpunkt café glanz 15.000,00 Euro; Az. 0262.0-5-0542 vertagt in der Sitzung am 17.04.2024
+- TOP 1.2.: (E) Stadtbezirksbudget IfF Refugio München e.V. Jubiläumsveranstaltung „30 Jahre Refugio München“ am 18.07.2024 3.283,00 Euro; Az. 0262.0-5-0550
+- TOP 2.: Anhörungen
+- TOP 2.1.: "Tanz. Die. Invasion." am Bordeauxplatz vom 18.07.-20.07.2024
+- TOP 2.2.: Spielaktionen "Straße.Oase" in der Drächslstraße 10.07. - 12.07.2024
+- TOP 2.3.: Standortbeurteilung für die öffentliche Toilettenanlage am Tassiloplatz
+- TOP 2.4.: Stärkung der Rechte der Bezirksausschüsse Hier: Anhörungsrecht bei Sportentwicklungsplanung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 4.: Anliegen von Bürger*innen
+- TOP IV.: UA Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Initiative München-Bordeaux e.V. 60 Jahre Städtepartnerschaft München-Bordeaux, Jubiläumsfest auf dem Bordeauxplatz an 25.05.2024 4.095,00 Euro; Az. 0262.0-5-0546
+- TOP 1.2.: Freischankflächenantrag Gaststätte "Chopan", Rosenheimer Str. 6 UND 8
+- TOP 1.3.: Freischankflächenantrag Gaststätte "Zen Panasia", Rosenheimer Str. 6
+- TOP 1.4.: Schanigartenantrag Bäckerei Wimmer, Pariser Str. 31
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen
+- TOP 2.2.: Freundschaftstreffen der Biergartenfreunde vom 01.06. - 16.06.2024 am Orleansplatz
+- TOP 2.3.: Infomobil „trotz ms DIE ROADSHOW 2024“ am 14.09.2024 auf dem Weißenburger Platz Anhörungsfrist: 16.05.2024
+- TOP 2.4.: Sommerfest der Grundschule Kirchenstraße auf dem Johannisplatz am 05.07.2024
+- TOP 2.5.: Spendenlauf des Pestalozzi-Gymnasiums am 16.07.2024 in den Isarauen
+- TOP 2.6.: "Tag der Ersten Hilfe" am 20.07.2024 auf dem Orleansplatz
+- TOP 2.7.: Kellerstraße-Straßenfest am 11.07.2024
+- TOP 2.8.: Tag der offenen Tür der Polizeiinspektion 21 am 17.07.2024, Am Neudeck 1
+- TOP 2.9.: Sommerfest Jugendpension unter der Eisenbahnunterführung in der Nähe Kolumbusplatz am 27.06.2024
+- TOP 2.10.: ASZ-Sommerfest auf dem Gehweg Kolumbusplatz sowie Kolumbusstr. 33 am 27.06.2024
+- TOP 2.11.: Werbeveranstaltungen „Selle Royal Support Cyclists on the Road“ am 11.07.2024 auf dem Weißenburger Platz
+- TOP 3.: Unterrichtungen
+- TOP 4.: Anliegen von Bürger*innen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Kostensparende, gesundheits- und umweltschützende Sanierung des Gasteig Kulturzentrum Sanierung Gasteig
+- TOP 2.: Anhörungen
+- TOP 2.1.: Flurstr. 8 - Umbau mit Errichtung einer Spielzone
+- TOP 2.2.: Rosenheimer Str. 30 - Unterschreitung der erforderlichen Mindestbreite für Rettungswege
+- TOP 2.3.: Orleansstr. 24 - Nutzung einer Dachterrasse für Pausen und Veranstaltungen im 6. Obergeschoss
+- TOP 2.4.: Wörthstr. 24 - Nutzungsänderung von Wohnen in eine Arztpraxis
+- TOP 2.5.: Orleansstr. 64 - Abgrabung zur Entfernung von Altlasten
+- TOP 2.6.: Steinstr. 15 - Ausbau eines Speiches als Erweiterung einer best. Wohnung
+- TOP 2.7.: Chorherrstr. 6 - Erweiterung einer Gewerbeeinheit im UG sowie Einbau einer Verbindungstreppe
+- TOP 2.8.: Grillparzerstr. 10 - Nutzungsänderung einer Büroteilfläche in Laborfläche
+- TOP 2.9.: Eduard-Schmid-Str. 35 - Umbau einer Dachgeschosswohnung im Baudenkmal, D-62-000-1421, 91, Vergrößerung Gauben zur Straßenseite
+- TOP 2.10.: Ohlmüllerstr. 3 - Dachsanierung und Errichtung von Dachgauben für den Einbau von 2 Wohnungen - ÄNDERUNGSANTRAG zu 1.23-2023-4971-21
+- TOP 2.11.: Ismaninger Str. 33 - Nutzungsänderung zweier gewerblicher Nutzungseinheiten in zwei Wohnungen im 1. Obergeschoss des Gewerbe- und Mehrfamilienwohnhauses
+- TOP 2.12.: Ackerstr. 17 - Umbau Reihenhaus - Vergrößerung Balkon, hofseitige Dachterrasse und Nachgenehmigung Bestandsgaube, Nutzungsänderung Laden in Wohnen mit Anpassung Eingangstür
+- TOP 2.13.: Asamstr. 5 - Anhebung und Ausbau des Dachgeschosses mit Spitzboden - ÄNDERUNGSANTRAG zu 1.2-2021-3845-21 Hier: Änderung Lage Dachflächenfenster, neues Dachflächenfenster und geänderte Treppe vom OG 5 ins DG, Wintergarten statt Terrasse Straßenseite
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ohlmüllerstr. 19, Nutzungsänderung von Einzelhandel zu Schulungsräumen (Yogastudio) Antwort LBK zur Stellungnahme BA 5
+- TOP 3.2.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 3.3.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 3.4.: Keine neuen Bürohäuser
+- TOP 3.5.: (U) Ausübung des Vorkaufsrechts und Ausweitung des kommunalen Wohnungsbestands Empfehlung Nr. 20-26 / E 01312 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing-West am 15.06.2023 Vorkaufsrecht wahrnehmen um bezahlbaren Wohnraum zu schaffen Empfehlung Nr. 20-26 / E 01296 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 25.05.2023 Städtisches Vorkaufsrecht wieder vollumfänglich ausüben Empfehlung Nr. 20-26 / E 01115 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 30.03.2023
+- TOP 4.: Anliegen von Bürger*innen
+- TOP VI.: UA Mobilität
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sommerstraßen 2025 - Meldung der Drächslstraße für eine Pilotierung sowie Ortstermin Sommerstraße Drächslstraße am 06.05.2024, 14 Uhr
+- TOP 2.2.: Fahrradstraßen - Pilotrouten; Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen Anhörungsfrist: 16.05.2024
+- TOP 2.3.: 2. Planänderung für das Bauvorhaben „Neubau ESTW München Ost Phf, Teil 1: S-Bahn“ Anhörungsfrist: 17.05.2024
+- TOP 2.4.: Einrichtung eines Längsparkstreifens an der Westseite des Johannisplatz zur Verbesserung des Tramlinienverkehrs
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Lastenradstellplätze mit Lademöglichkeit auf öffentlichem Grund und in Garagen
+- TOP 3.2.: Franziskaner Straße – Langsamfahrstelle beseitigen
+- TOP 3.3.: Anregung VCD Neuordnung Trambahn
+- TOP 3.4.: Rad-/Fußgängerampel am Maximilianeum
+- TOP 3.5.: Wolt und Flink im Motorama, ungelöste Problematik
+- TOP 3.6.: Blockieren des taktilen Leitsystems durch Roller an der Ecke Einsteinstraße/Kuglerstraße Antwort Bezirksinspektion zum Schreiben BA 5
+- TOP 3.7.: Fremdes Parken auf den Carsharing-Parkplätzen Kolumbusstr. 32 Antwort KVR zum Schreiben BA 5
+- TOP 3.8.: Austausch der Lichtsignalanlagen Elsässer-/ Orleansstraße, Orleansplatz Nord und Orleansplatz Süd Antwort Mobilitätsreferat zum Schreiben BA 5
+- TOP 3.9.: Fahrradzone im nördlichen Haidhausen (Anfrage)
+- TOP 3.10.: Verhinderung des Parkens vor dem "La Sophia", Kolumbusstr. 1
+- TOP 3.11.: Grüner Pfeil für den Radverkehr in die Rosenheimer Straße
+- TOP 3.12.: Rad-Bus-Spur für die Luitpoldbrücke Antwort Mobilitätsreferat zum Schreiben BA
+- TOP 3.13.: Autonomes Fahren: Testgebiet in Au-Haidhausen ? hier: Antwortschreiben vom 29.04.2024
+- TOP 3.14.: Verkehrssituation in der Humboldtstraße vertagt in der Sitzung am 17.04.2024
+- TOP 3.15.: Verkehrsrechtliche Genehmigungen wegen Arbeiten im Straßenraum a) Preysingstr. 105 vom 22.04.-28.06.2024 (Vorbereitung Dampfnetzumstellung) b) Prinzregentenplatz 14 vom 20.04.-17.05.2024 (Einlenkungssanierung)
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Radwegführung am Mariahilfplatz während der Dulten
+- TOP 4.2.: Aufstellen von Metallbügeln zum Schutz der Grünstreifen und Bäume an der Franziskaner-/Schornstraße und Franziskaner-/Giesebrechtstraße
+- TOP 4.3.: Bürgeranliegen aus der Bürgerversammlung am 09.04.2024: Sicherstellung der 30er-Zone Falkenstraße
+- TOP 4.4.: Bürgeranliegen aus der Bürgerversammlung am 09.04.2024: Einführung Tempo 30 in der Franziskanerstraße
+- TOP 4.5.: Bürgeranliegen aus der Bürgerversammlung am 23.04.2024: Unterführung am Gasteig verkommt zu Berlin Kreuzberg
+- TOP 4.6.: Parken auf dem Rasen neben der Loretokapelle / St. Nikolai am Gastei
+- TOP 4.7.: Umwandlung der Balanstraße zu einer Fahrradstraße
+- TOP 4.8.: Absenkung des Gehwegs Ecke Tauben-/Nockherstraße
+- TOP VII.: Klima und Umwelt
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nockherstr. 52, Baumfällung
+- TOP 2.2.: Entenbachstr. 28, Baumfällung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baumfällung Preysingstr. 58
+- TOP 3.2.: Fällgenehmigung von 2 Linden in der Versailler Str. 18c-18d
+- TOP 3.3.: Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge; Nachfrage Eggernstraße Antwort Baureferat zum Schreiben BA 5
+- TOP 3.4.: Brunnen und Spazierweg wieder herstellen Ergebnis Ortstermin vom 27.03.2024 vertagt in der Sitzung am 17.04.2024
+- TOP 3.5.: Blühstreifen für Au-Haidhausen hier: Schreiben Baureferat vom 29.04.2024
+- TOP 3.6.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Bürgeranliegen aus der Bürgerversammlung am 09.04.2024: Mehr Bäume in der Au, z.B. Pöppelstraße, Senftlstraße
+- TOP C: Verschiedenes und Termine
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Soziales, 10.06.2024 um 19.30 Uhr, Technisches Rathaus, Friedenstr. 40 UA Mobilität, 10.06.2024 um 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Wirtschaft, 11.06.2024, 19.30 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Klima und Umwelt, 12.06.2024 um 19.00 Uhr, Diakonie, Elsässer Str. 30/Rgb. UA Kultur, 12.06.2024 um 19.30 Uhr, kim-kino, Einsteinstr. 42 UA Planung, 13.06.2024 um 19:30 Uhr, Diakonie, Elsässer Str. 30/Rgb.
+- TOP 3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 19.06.2024, 19.00 Uhr, Kath. Stiftungshochschule, Preysingstr. 95 BA-Vorstand, Dienstag, 04.06.2024, 19.30 Uhr, Friedenstraße 40 bzw. Videokonferenz
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Sitzungs- und Bürgerversammlungstermine 2025 vertagt in der Sitzung am 17.04.2024
+- TOP 5.: Verschiedenes
+- TOP 1.5.: Freischankflächen-/Schanigartenantrag Gaststätte "Cafe Glanz", Sedanstr. 37
+- TOP 1.6.: Detailauskunft zu TOP 1
+- TOP 3.1.: Protokolle der Sitzung vom 17.04.2024
+- TOP 1.3.: Detailauskünfte zu TOP 1 und 2
+- TOP 2.1.: Die Tagesordnung wird wie folgt ergänzt: - zu TOP A 5.1: Schreiben L HOMES GmbH - UA Kultur, TOP 12: Detailauskünfte - UA Soziales, TOP 1.3: Detailauskünfte - UA Wirtschaft, TOP 1.5: Freischankflächen-/Schanigartenantrag Gaststätte "Cafe Glanz", Sedanstr. 37 - UA Wirtschaft, TOP 1.6: Detailauskunft zu TOP 1.1 - UA Wirtschaft, TOP 2.12: Isarinfomobil, Verlängerung - UA Klima, TOP 4.2: Vorstellung zur Gestaltung des "Entenbachplatzes"
+- TOP II.12.: Detailauskünfte zu den TOPs 1, 4 und 6
+- TOP 2.12.: Isarinfomobil mit Pavillon vom Kommunikationsteam des Kommunalen Außendienstes - Verlängerung der Aktion im Zeitraum 02.06.2024 bis 25.08.2024 Anhörungsfrist: 17.05.2024
+- TOP 4.2.: Vorstellung zur Gestaltung des "Entenbachplatzes"
