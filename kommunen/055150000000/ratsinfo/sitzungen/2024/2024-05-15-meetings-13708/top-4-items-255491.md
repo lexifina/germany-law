@@ -1,0 +1,8 @@
+# TOP 4: Ringlinie (Linie 33/34) und Linie 14
+
+- Sitzung: Sitzung (2024-05-15)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/255491
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/86192
