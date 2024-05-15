@@ -8,6 +8,7 @@
 - [§ 2 Einschränkungen des Anwendungsbereichs](0002.md)
 - [§ 3 Begriffsbestimmungen](0003.md)
 - [§ 4 Grundlegende Anforderungen an Funkanlagen](0004.md)
+- [§ 4a Erwerb von Funkanlagen ohne Ladenetzteil](0004a.md)
 - [§ 5 Bereitstellung von Informationen über die Konformität von Kombinationen von Funkanlagen und Software](0005.md)
 - [§ 6 Registrierung von Funkanlagen bestimmter Kategorien](0006.md)
 - [§ 7 Bereitstellung auf dem Markt, Inbetriebnahme und Nutzung](0007.md)
@@ -45,7 +46,7 @@
 
 ### Unterabschnitt 2 Marktüberwachung, Schutz von Personen
 
-- [§ 24 Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht](0024.md)
+- [§ 24 Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht oder die grundlegende Anforderungen nicht erfüllen](0024.md)
 - [§ 25 Maßnahmen bei nichtkonformen Funkanlagen](0025.md)
 - [§ 26 Maßnahmen auf Messen und Ausstellungen](0026.md)
 - [§ 27 Maßnahmen bei fehlerhaften technischen Unterlagen](0027.md)

@@ -1,4 +1,4 @@
-# Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien
+# Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei digitalen Diensten
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
@@ -38,7 +38,7 @@
 - [§ 17 Endnutzerverzeichnisse](0017.md)
 - [§ 18 Bereitstellen von Endnutzerdaten](0018.md)
 
-## Teil 3 Telemediendatenschutz, Endeinrichtungen
+## Teil 3 Datenschutz bei digitalen Diensten, Endeinrichtungen
 
 
 ### Kapitel 1 Technische und organisatorische Vorkehrungen, Verarbeitung von Daten zum Zweck des Jugendschutzes und zur Auskunftserteilung

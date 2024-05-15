@@ -35,7 +35,7 @@ Bereitstellen von Endnutzerdaten
 | § 17 | Endnutzerverzeichnisse |
 | § 18 | Bereitstellen von Endnutzerdaten |
 Teil 3
-Telemediendatenschutz, Endeinrichtungen
+Datenschutz bei digitalen Diensten, Endeinrichtungen
 Kapitel 1
 Technische und
 organisatorische Vorkehrungen,

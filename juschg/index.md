@@ -43,9 +43,7 @@
 - [§ 23 Vereinfachtes Verfahren](0023.md)
 - [§ 24 Führung der Liste jugendgefährdender Medien](0024.md)
 - [§ 24a Vorsorgemaßnahmen](0024a.md)
-- [§ 24b Überprüfung der Vorsorgemaßnahmen](0024b.md)
-- [§ 24c Leitlinie der freiwilligen Selbstkontrolle](0024c.md)
-- [§ 24d Inländischer Empfangsbevollmächtigter](0024d.md)
+- [§ 24b Befugnisse und Verfahren](0024b.md)
 - [§ 25 Rechtsweg](0025.md)
 
 ## Abschnitt 5 Verordnungsermächtigung

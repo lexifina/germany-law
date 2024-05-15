@@ -64,7 +64,7 @@
 
 - [§ 38 Zuständigkeit, Aufgabe und gegenseitige Information](0038.md)
 - [§ 38a Übermittlung von Daten über den Internethandel](0038a.md)
-- [§ 38b Unterrichtung von Telemediendiensteanbietern](0038b.md)
+- [§ 38b Unterrichtung von Anbietern digitaler Dienste](0038b.md)
 - [§ 39 Maßnahmen der für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden](0039.md)
 - [§ 39a Maßnahmen der für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden](0039a.md)
 - [§ 40 Information der Öffentlichkeit](0040.md)
