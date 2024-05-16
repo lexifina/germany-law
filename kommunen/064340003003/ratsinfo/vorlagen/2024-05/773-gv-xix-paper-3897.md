@@ -1,0 +1,25 @@
+# Auftrag für die Erneuerung der Eichwaldstraße, auf Basis der Ausschreibungsergebnisse in der Dattenbachstraße.
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 773/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2024-05-16
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYEV8odiQBFUpfTPnmQlZBc
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3897
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Auftrag für die Erneuerung der Eichwaldstraße, auf Basis der Ausschreibungsergebnisse in der Dattenbachstraße.) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV6kI3NtP2U_trUk6FatXSZEQGgfOLmk_Ek-AcrOOCkv/Beschluss-Vorlage_773-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (2129_24 Vergabevorschlag) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSEXviQuAwx_QNdpVITafO_df-KD10IZqronANJaMt0Z/2129_24_Vergabevorschlag.pdf
+- Anlage: Beschluss-Vorlage (2129-24-1.1-BVA) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZKZr42rWFkkMDAbcg1T-h8CDByrGhN5y6YjtW5JruD2/2129-24-1.1-BVA.pdf
+- Anlage: Beschluss-Vorlage (2129-24-1.2) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZvo7LcS4ErfMFJ-uRF98_0bgypSELYv-5qK7QXNmZ4/2129-24-1.2.pdf
+- Anlage: Beschluss-Vorlage (2129-24-2.1) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbDRmpKPMOqLmirWTrY__-TwtfePnGvHUOQ0UZL_J4bE/2129-24-2.1.pdf
+- Anlage: Beschluss-Vorlage (2129-24-2.2) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcQ-L57omWqsucEC2CXGfklGwYRI-9XJ6lqCcAgwieUg/2129-24-2.2.pdf
+- Anlage: Beschluss-Vorlage (2129-24-3) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSuAMKBOz7SrJRmfgHZVeZO-a57vtvAPB4DYOyM4JkSW/2129-24-3.pdf
+- Anlage: Beschluss-Vorlage (2129-24-4) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWr6dAhN5NcWmVmcLzTmjMs68THRbo5bNadk4QoRwdET/2129-24-4.pdf
+- Anlage: Beschluss-Vorlage (2129-24-5) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf8i4La3d6Pa0Z8SM0xEMG_hZgx7vVLp4jHb5s85HTUT/2129-24-5.pdf
+- Anlage: Beschluss-Vorlage (Angebot Fa. Schäfer Eichwaldstraße 26.03.2024) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsoWNnyPLT1l-9lbV67uND81IzX5GWTxcrDUrbqaLpP/Angebot_Fa._Schaefer_Eichwaldstrasse_26.03.2024.pdf
+- Anlage: Beschluss-Vorlage (Anlage 1 - Flächenermittlung K W K) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSQJz_gUT4Ov-rPrywg5zCXNeMa_TkuDv52wE1uAOPnC/Anlage_1_-_Flaechenermittlung_K_W_K.pdf
+- Anlage: Beschluss-Vorlage (Anlage 2 Erm. Baukosten Oberflächen) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQA3ddSoDY97Iv7bxC0Sb8ungYNSHuNf9nG-YZw9o-9G/Anlage_2_Erm._Baukosten_Oberflaechen.pdf
+- Anlage: Beschluss-Vorlage (Kostensplit Fa. Schäfer Prozente eingegeben) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeVA5blCNStLNJuqzATl8h1qo6txuxPxBFqZyvMZg3i9/Kostensplit_Fa._Schaefer_Prozente_eingegeben.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2386 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2403 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-7
