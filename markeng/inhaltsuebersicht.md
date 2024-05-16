@@ -241,3 +241,4 @@
 | § 157 | Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte |
 | § 158 | Übergangsvorschriften |
 | § 159 | Schutzdauer und Verlängerung |
+| § 160 |  |  |  | Geändertes Unionsrecht |

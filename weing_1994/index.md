@@ -117,3 +117,4 @@
 - [§ 56 Übergangsregelungen](0056.md)
 - [§ 57 Fortbestehen anderer Vorschriften](0057.md)
 - [§ 57a Ermächtigung zur Aufhebung von Rechtsvorschriften](0057a.md)
+- [§ 57b Geändertes Unionsrecht](0057b.md)

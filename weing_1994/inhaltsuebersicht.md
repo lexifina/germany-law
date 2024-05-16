@@ -106,3 +106,4 @@
 | § 56 | Übergangsregelungen |
 | § 57 | Fortbestehen anderer Vorschriften |
 | § 57a | Ermächtigung zur Aufhebung von Rechtsvorschriften |
+| § 57b | Geändertes Unionsrecht |
