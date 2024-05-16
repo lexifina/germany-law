@@ -1,0 +1,81 @@
+# 62. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-05-16T16:00:00+02:00
+- Ende: 2024-05-16T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13704
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13704
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00755955.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - Nichtbefassung
+- TOP 3: Aktuelle Stunde zur verkehrlichen Entwicklung in Dresden - erledigt
+- TOP 4: Fragestunde der Mitglieder des Stadtrates - 1 Runde - erledigt
+- TOP 4.1: Sanierung der Augsburger Strasse - aktueller Stand - erledigt
+- TOP 4.2: Sicherheit am Wahltag - erledigt
+- TOP 4.3: Aktuelle Situation der Wirtschaft in der Landeshauptstadt Dresden - erledigt
+- TOP 4.4: Amt für Schulen - erledigt
+- TOP 4.5: Fragen zur Zukunft des Open-Air-Geländes im Ostra-Gehege - erledigt
+- TOP 4.6: Schulhoföffnung - erledigt
+- TOP 4.7: geplante Müllverbrennungsanlage der Sachsen Energie - erledigt
+- TOP 5: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 6: Umbesetzung im Gemeindeswahlausschuss für die Kommunalwahlen am 9. Juni 2024 - Zustimmung
+- TOP 7: Erwerb eines Grundstücks in der Gemarkung Altstadt I und Entwicklung der ehemaligen Robotronkantine als geänderter Standort des Kunsthauses Dresden als Teil der Museen der Stadt Dresden sowie als Ausstellungs- und Veranstaltungsort - punktweise Abstimmung mit Änderung
+- TOP 8: Annahme und Verwendung der Spenden der Gebr. Arnhold oHG sowie der Brüder Stiftung für das „Haus der Brücke - Interkulturelles Begegnungszentrum“ in der Stadt Dresden - Zustimmung
+- TOP 9: Neubenennungen einer Straße, zweier Wege und eines Platzes - Vertagung durch Einreicher
+- TOP 10: Neubenennung von Straßen, hier Benennung einer Straße im Bebauungsplan Nr. 3027 A, Dres-den-Altstadt I Nr. 52, Ferdinandplatz/ Verwaltungszentrum in "Gebrüder-Arnhold-Platz" - Vertagung durch Einreicher
+- TOP 11: Benennungskonzept für Straßen und Plätze rund um das neue Verwaltungszentrum - Vertagung durch Einreicher
+- TOP 12: Ergebnisse des Statusfeststellungsverfahrens für Honorarlehrkräfte am Eigenbetrieb Heinrich-Schütz-Konservatorium Dresden (HSKD) - punktweise Zustimmung mit Änderung
+- TOP 12: Anfrage zum Heinrich-Schütz-Konservatorium - erledigt
+- TOP 13: Eigenbetrieb Heinrich-Schütz-Konservatorium: Anpassung der Allgemeinen Geschäftsbedingungen und Entgeltordnung ab August 2024 - Zustimmung mit Ergänzung
+- TOP 14: Entgeltordnung Staatsoperette Dresden ab der Spielzeit 2024/25 - Zustimmung mit Änderung
+- TOP 15: Neufassung der Archivsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Bebauungsplan Nr. 31, Dresden-Leubnitz-Neuostra Nr. 2, Wilhelm-Franke-Straße - Vertagung durch Einreicher
+- TOP 17: Abschluss eines Mietvertrages und Durchführung von baulichen Maßnahmen bezüglich Mietflächen für das Stadtarchiv im Areal der ehemaligen Heeresbäckerei - Zustimmung
+- TOP 18: Flächennutzungsplan-Änderung Nr. 7, Stadtbezirk Altstadt, Teilbereich Waltherstraße/Friedrichstraße - Zustimmung
+- TOP 19: Bebauungsplan Nr. 3061 B, Dresden-Friedrichstadt Nr. 15, Waltherstraße/Friedrichstraße Teil Süd (Erweiterung Städtisches Klinikum) - Zustimmung
+- TOP 20: Ergänzungssatzung Nr. 451, Dresden-Altstadt I Nr. 2, Am Zwingerteich - Zustimmung
+- TOP 21: Varianten zur Instandsetzung des Hofkellers in den Technischen Sammlungen Dresden, Junghansstraße 1 – 3 - Zustimmung
+- TOP 22: Standortkonzept für die geordnete Aufstellung von Altkleidercontainern auf öffentlichen Straßen und in öffentlichen Grünanlagen der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 23: Wasserskianlage und Gastronomie an der Kiesgrube Leuben sichern! – Einrichtung einer offiziellen Badestelle „Baden auf eigene Gefahr“ - Zustimmung
+- TOP 24: Eilantrag: Saison 2024 der Wasserski- und Wakeboard-Anlage im Kiessee Leuben sichern - Zustimmung
+- TOP 25: Vertagungen aus der Sitzung 18.04.2024 - erledigt
+- TOP 25.1: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 25.2: Für eine saubere Stadt! Graffiti-Schmierereien beseitigen - Vertagung nach 22 Uhr
+- TOP 25.3: Gefährdung für Beschäftigte der Landeshauptstadt Dresden neu bewerten - zurückgezogen
+- TOP 25.4: Neue Multifunktionsarena für Spitzensport und Spitzenveranstaltungen - Margon Arena für Breitensport sanieren - Vertagung nach 22 Uhr
+- TOP 25.5: Einbürgerungsverfahren verbessern und beschleunigen - Vertagung nach 22 Uhr
+- TOP 25.6: Fortschreibung Bäderkonzept 2025/2030 - Vertagung nach 22 Uhr
+- TOP 25.7: Dresdner Straßen- und Stadtteilfeste erhalten - Vertagung nach 22 Uhr
+- TOP 25.8: Vonovia-Erwerb für kleingenossenschaftliche Mietmodelle nutzen! - Vertagung nach 22 Uhr
+- TOP 25.9: Für ein schönes Bahnhofsumfeld – Vorplatz Hauptbahnhof Ost neu gestalten - Vertagung nach 22 Uhr
+- TOP 25.10: Zustand der Dresdner Brücken - Vertagung nach 22 Uhr
+- TOP 25.11: Fortführung der Planung des Promenadenrings zwischen Dr.-Külz-Ring, Rathausplatz und Kreuzstraße (Promenadenring Süd-Ost) sowie zwischen Pirnaischem Platz, Akademiestraße und Elbe (Promenadenring Nord-Ost) - Vertagung nach 22 Uhr
+- TOP 25.12: Fahrradflundern für Dresden – unkomplizierte Bedarfsermittlung für Fahrrad-Stellplätze - Zustimmung mit Änderung
+- TOP 25.13: Begrünung verstetigen und Aufenthaltsqualität vor dem Kulturpalast verbessern - Vertagung nach 22 Uhr
+- TOP 25.14: Ja zu den Filmnächten am Elbufer - Vertagung nach 22 Uhr
+- TOP 25.15: Entwicklung der Schulbibliotheken fortsetzen - Vertagung nach 22 Uhr
+- TOP 25.16: Satzung der Landeshauptstadt Dresden für den Integrations- und Ausländerbeirat - Vertagung nach 22 Uhr
+- TOP 25.17: Vorschlag zur Straßenbenennung einer neuen öffentlichen Verkehrsfläche zwischen Käthe-Kollwitz-Ufer und Florian-Geyer-Straße - Vertagung nach 22 Uhr
+- TOP 25.18: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 25.19: Freiflächen und nichtkommerzielle Open Air Veranstaltungen für Dresden - Vertagung durch Einreicher
+- TOP 25.20: Kulturentwicklungsplan 2020 umsetzen – Atelierräume für Künstlerinnen und Künstler in Dresden sichern - Vertagung nach 22 Uhr
+- TOP 25.21: Revitalisierung kommunaler Liegenschaften befördern – Kreislaufwirtschaft Materialkreisläufe für Kulturbetriebe und Veranstalter unterstützen - Zustimmung mit Änderung
+- TOP 25.22: Pilotprojekt zur Anpassung an verändernde klimatische Bedingungen im Stadtteil Pieschen - Vertagung nach 22 Uhr
+- TOP 25.23: Entkriminalisierung des Fahrens ohne Fahrschein bei den Dresdner Verkehrsbetrieben - Vertagung nach 22 Uhr
+- TOP 25.24: Insourcing der Speisenversorgung am Städtischen Klinikum Dresden - Vertagung nach 22 Uhr
+- TOP 25.25: Abmietung des Objektes Hermann-Mende-Straße 1 - Vertagung nach 22 Uhr
+- TOP 25.26: Für Naherholung, Lebensqualität und Gesundheit: Erlebnisbad Elbamare erhalten. - Vertagung nach 22 Uhr
+- TOP 25.27: Sozialen Wohnungsbau in Dresden in Schwung bringen und Erwerb von Vonovia-Grundstücken für gemeinwohlorientierte Wohnformen nutzen! - Vertagung nach 22 Uhr
+- TOP 26: Neufassung der Rahmenregelung für Vereinbarungen von Fachleistungsstunden nach § 77 SGB VIII i. V. m. § 17 Abs. 5 LJHG - Zustimmung mit Änderung
+- TOP 27: 1. Änderung der Fachförderrichtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für soziale Angebote und Projekte im Bereich Soziales - Zustimmung mit Änderung
+- TOP 28: Bangen um die Zukunft – Unterstützung für Dresdner Clubs und Livemusikspielstätten - Verweisung
+- TOP 29: Endgültige Stilllegung des Pumpspeicherwerkes Niederwartha rechtskonform? - Vertagung nach 22 Uhr
+- TOP 32: Zweite Evaluierung des Verkehrsentwicklungsplans 2025plus - erledigt
+- TOP 33: Bericht des Sächsischen Rechnungshofes: Prüfung der Haushalts- und Wirtschaftsführung der Komm24 GmbH - erledigt
