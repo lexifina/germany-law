@@ -7,6 +7,7 @@ Landesbehindertenbeauftragte, Landesbehindertenbeauftragter
 Leitende Branddirektorin, Leitender Branddirektor
 - als Leiterin oder als Leiter der Feuerwehr Bremen -
 Leitende Direktorin1), Leitender Direktor1)
+Leitende Direktorin der Landesantidiskriminierungsstelle, Leitender Direktor der Landesantidiskriminierungsstelle
 Leitende Kriminaldirektorin, Leitender Kriminaldirektor
 - bei der Polizei Bremen -
 Leitende Polizeidirektorin, Leitender Polizeidirektor
