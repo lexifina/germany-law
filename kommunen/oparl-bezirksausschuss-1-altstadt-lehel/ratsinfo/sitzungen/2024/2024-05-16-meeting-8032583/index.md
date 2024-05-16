@@ -1,0 +1,138 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2024-05-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8032583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8032583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Stärkung der Rechte der Bezirksausschüsse; hier: Anhörungsrecht bei Sportentwicklungsplanung; BA-Antrags-Nr. 20-26 / B 05994 des Bezirksausschusses des Stadtbezirkes 24 - Feldmoching-Hasenbergl vom 17.10.2023
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Sitzungstermine für das Jahr 2025
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Löwengrube 18 Nutzungsänderung und Umbau des Erdgeschosses von Kundenräumen einer Bank in einen Bar- und Lounge-Betrieb sowie eines Keller-Teilbereichs in Gasträume des Gastronomiebetriebs "Hugo`s" sowie Umbau der Gaststätte und Einbau von 2 Büroeinheiten (Löwengrube 18 / Promenadepl. 3) - ÄNDERUNGSANTRAG zu 1.112-2016-8313-21 - hier: Nutzungsänderung von Bürofläche im EG in eine Gastronomiefläche Bistro/Bar mit Freischankfläche; Frist: 20.05.2024
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Bericht Ortstermin Fahrradabstellsituation mittleres Lehel 24.04.2024
+- TOP 0.2.: Bericht Ortstermin Luitpoldgymnasium 30.04.2024
+- TOP 0.3.: Bericht Ortstermin Sommerstraße 06.05.2024
+- TOP 0.4.: Bericht Workshop St.-Anna-Straße 25.04.2024
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Inbetriebnahme der Dialogdisplays in der Sternstraße + Oettingenstraße
+- TOP 1.2.: Bürger*innenanliegen Beruhigung der Prälat-Zistl-Straße
+- TOP 1.3.: Bürger*innenanliegen Fußgängerüberweg Thierschstraße
+- TOP 1.4.: Online-Wortmeldung Bürgerversammlung 11.04.2024: Ampel Widenmayerstraße / Paradiesstraße
+- TOP 1.5.: Online-Wortmeldung Bürgerversammlung 11.04.2024: Wiesen vor der Staatskanzlei
+- TOP 1.6.: Bürger*innenanliegen Betteln Zweibrückenstraße
+- TOP 1.7.: Antrag des UA MÖR zum Hackenplatz/ Radspielerbrunnen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Parklizenzplätze Thierschstraße
+- TOP 2.2.: Marienplatz 1; Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.3.: Mannhardtstraße 4; Antrag auf Errichtung eines Parklets
+- TOP 2.4.: (E) Verhinderung des Schleichverkehrs von der Steinsdorfstraße in die Thierschstraße über den Mariannenplatz
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Austausch einer Lichtsignalanlage Standort Oettingen-/ Seeaustr.; Frist: 27.05.2024
+- TOP 3.2.2.: Austausch einer Lichtsignalanlage Standort Robert-Koch-/ Sternstr.; Frist: 04.06.2024
+- TOP 3.2.3.: Anträge auf Errichtung von Fahrradabstellflächen - Michael Lasher / Mike´s Bike Tours; Frist: 17.05.2024
+- TOP 3.2.4.: Sondernutzung Aufstellen einer Sterneninsel Standort Neuhauser Str. und Sendlinger Str.; Frist: 17.05.2024
+- TOP 3.2.5.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Cannabiskonsum im Englischen Garten
+- TOP 1.2.: Online-Wortmeldung Bürgerversammlung 11.04.2024: Abschaffung der Schanigärten bei Kneipen/Restaurants
+- TOP 1.3.: Bürger*innenanliegen Empfehlung durch den BA 14 - Suche nach Räumlichkeiten für klassische Musiker
+- TOP 1.4.: Bürger*innenanliegen Der englische Garten und der Eisbach
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Init. "Neugestaltung Wehranlage" Mural -Praterinsel vom 01.07. -31.08.2024 3.288,00€; Az. 0262.0-1-0369
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: Gaststätte „Onni“, Lueg ins Land 2, Genehmigung einer Freischankfläche auf Parkständen („Schanigarten“)
+- TOP 2.2.2.: Ladengeschäft „Boutique & Feinkost“, Angertorstr. 4, Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.3.: Gaststätte "Starbucks", Sendlinger Str. 37, Genehmigung einer Freischankfläche
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: CSD-Veranstaltung Innenstadt am 22. und 23.06.2024 gem. §29 der StVO (Termin: 24.05.2024)
+- TOP 3.2.: Zamanand / Corso Leopold am 01./02.06.24 (Aufbau in Fußgängerbereichen ab 31.05.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) (Termin: 21.05.2024)
+- TOP 3.3.: Falckenbergstr./Hildegardstr. – Straßenfest mit Tag der offenen Tür bei den Münchner Kammerspielen am 29.06.2024 (Termin: 06.06.2024)
+- TOP 3.4.: Bennofest Frauenplatz etc. am 08. und 09.06.2024 (Termin: 17.05.2024)
+- TOP 3.5.: Tal 50 - Innenhof des Isartors – Sommerfest am 11./12.07.2024 (Termin: 24.06.2024)
+- TOP 3.6.: St.-Anna-Straße - Pfarrfest am 23.06.2024 (Termin: 14.06.2024)
+- TOP 3.7.: Sommerlese Literaturhaus Salvatorplatz am 09, 16. und 23.07.2024 (Termin: 31.05.2024)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: (U) Schul- und Kitabauoffensive - 5. Schulbauprogramm A Erläuterung der Ausgangslage im Hinblick auf die Erstellung von Schul- und Kitabauprogrammen B Einflussfaktoren auf den Schul- und Kitabau C 5. Schulbauprogramm D Ausblick auf weitere Schulbauprogramme E Personalbedarfe F Sonstige konsumtive Kosten und deren Finanzierung im Zusammenhang mit der Erstausstattung und dem Ausbau der Ladeinfrastruktur G Genehmigung der Raumprogramme für das Pädagogische Institut - Zentrum für Kommunales Bildungsmanagement und das Münchner Haus der Schülerinnen und Schüler für das Projekt MK2 an der Ganghoferstraße H Behandlung von Bezirksausschussanträgen, Bürgerversammlungsempfehlungen und einer Anfrage I Beteiligung der Bezirksausschüsse J Abstimmung
+- TOP B 4.4.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP B 4.5.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP B 4.6.: Hotterstr. 12, TOP 2024.04 B 3.1.3, Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP B 4.7.: Bescheid zum Fällungsantrag vom 06.02.2024 auf dem Grundstück Ettstr. 2 – 4, Schreiben Referat für Stadtplanung und Bauordnung
+- TOP B 4.8.: Protokoll der Sitzung der Stadtgestaltungskommission vom 19.03.2024
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Ladeinfrastruktur für Pkw in München – weiteres Vorgehen zur Umsetzung auf öffentlichem Grund
+- TOP C 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.4.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP C 4.5.: (U) Max-Joseph-Platz Interimsgestaltung im 1. Stadtbezirk Altstadt - Lehel 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2024 ‒ 2028 4. Gutachten Beweissicherung
+- TOP C 4.6.: Probephase Gelber Sack
+- TOP C 4.7.: Informationen zur Müllentsorgung mit gelben Säcken
+- TOP C 4.8.: Bürger*innenanliegen Beschwerde Filmcasino, TOP 2024.03 C 1.4, Antwortschreiben Polizeiinspektion 11
+- TOP C 4.9.: Rückbau des Platzes vor Thierschstraße 14 zur Platzanlage, BV-Empfehlung Nr.20-26/ E 01229, Antwortschreiben Baureferat
+- TOP C 4.10.: Bürger*innenanliegen Carsharing Parkplätze Knöbelstr., Antwortschreiben Mobilitätsreferat
+- TOP C 4.11.: Fußgängerampel Nußbaumpark / Lindwurmstraße geplant?
+- TOP C 4.12.: OB-Entscheidung: Straßenreinigung in der Westenriederstraße Ecke Viktualienmarkt / Kostenumlegung auf Anwohner, Empfehlung Nr. 20-26 / E 01235; Straßenreinigung und Müllentsorgung – Pläne der Stadt, Empfehlung Nr. 20-26 / E 01197
+- TOP C 4.13.: Rad-Bus-Spur auf der Luitpoldbrücke, Antwortschreiben Mobilitätsreferat/BA5
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Versammlungen unter freiem Himmel
+- TOP D 4.5.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP D 4.6.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP D 4.7.: Eilentscheidung Bez. 1: Anhörung Kulturstrand "Satellit", Stellungnahme Kreisverwaltungsreferat
+- TOP D 4.8.: Gemeinschaftliche Unterstützung des LEC 2024 XPO-Event auf dem Odeonsplatz, Schreiben des Referenten für Arbeit und Wirtschaft
+- TOP D 4.9.: Eilentscheid Kulturstrand „Satellit“ am Maximiliansplatz/ Grünfläche hinter dem Wittelsbacherbrunnen ab 01.05.2024 – 09.09.2024 (neuer Plan Stand 26.05.2024)
+- TOP D 4.10.: Eilentscheid Temporäre Kunstaktion „The Citizen is Present“, Sendlingerstr.19
+- TOP D 4.11.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen, Stand 31.03.2024
+- TOP 3.8.: Fronleichnamsprozession von St. Peter am 02.06.2024, 400 Personen zeitgleich Rindermarkt bis Marienplatz (Termin: 17.05.2024)
+- TOP 2.1.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged with Society e.V. 50 mal Ja! zum jüdischen Leben! Haussegnungen vom 01.07. - 31.12.2024 2.375,00 Euro, Az.: 0262.0-1-0370
+- TOP 2.2.4.: Bäckerei Wimmer, Liebherrstraße 22, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.5.: La Spezia Gastronomie GmbH, Steindorfstraße 22, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.6.: Morso cafe, Tattenbachstraße 20, Genehmigung einer Freischankfläche (Schanigarten)
+- TOP 2.2.7.: Sushi Sano, Zweibrückenstraße 19, Genehmigung einer Freischankfläche
+- TOP C 4.14.: Müllerstraße: Einfahrt frei für Radfahrende
+- TOP 2.2.8.: Morso cafe, Tattenbachstraße 20, Genehmigung einer Freischankfläche
+- TOP 3.9.: Brotmarkt vom 04.06.-08.06.2024 sowie Aufstellen des Backbuses vom 03.06.-07.06.2024 (Termin: 27.05.2024)
+- TOP 3.10.: Anhörung: Veranstaltungsende Strandveranstaltung „Satellit“ am Maximiliansplatz
+- TOP 1.8.: Interfraktioneller Antrag: Ampel Übergang Thomas-Wimmer-Ring
+- TOP 1.9.: Interfraktioneller Antrag: Gehwegparken Pestalozzistraße - behinderungsfreie Gehwege schaffen - ohne Parkplatzentfall
+- TOP 0.5.: Parkraummanagement Lehel gesamt
+- TOP 3.2.6.: temporäre Kunstaktion "TetrapAct-on-foodwaste" vom 17.06.24-08.08.24, Perusastr.; Frist: 27.05.2024
