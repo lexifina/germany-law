@@ -1,0 +1,6 @@
+# TOP 1.: Präsentation Lückenschluss Eschweg - Innenstadt: Variantenvergleich
+
+- Sitzung: Ortstermin des Ausschusses MUK - Lückenschluss Fahrradverbindung Eschweg - Innenstadt (2024-05-16)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/62873
