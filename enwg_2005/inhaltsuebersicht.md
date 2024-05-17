@@ -64,6 +64,7 @@
 | § 12f | Herausgabe von Daten |
 | § 12g | Schutz europäisch kritischer Anlagen, Verordnungsermächtigung |
 | § 12h | Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen |
+| § 12i | Systemstabilitätsbericht, Monitoring der Systemstabilität |
 | § 13 | Systemverantwortung der Betreiber von Übertragungsnetzen |
 | § 13a | Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich |
 | § 13b | Stilllegungen von Anlagen |
@@ -199,6 +200,7 @@
 | § 41e | Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern |
 | § 42 | Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung |
 | § 42a | Mieterstromverträge |
+| § 42b | Gemeinschaftliche Gebäudeversorgung |
 |  |
 | Teil 5 |
 | Planfeststellung, Wegenutzung |
@@ -235,6 +237,7 @@
 | § 49a | Elektromagnetische Beeinflussung |
 | § 49b | Temporäre Höherauslastung |
 | § 49c | Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen |
+| § 49d | Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung |
 | § 50 | Vorratshaltung zur Sicherung der Energieversorgung |
 | § 50a | (weggefallen) |
 | § 50b | (weggefallen) |

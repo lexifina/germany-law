@@ -22,9 +22,12 @@
 - [§ 8 Anschluss](0008.md)
 - [§ 9 Technische Vorgaben](0009.md)
 - [§ 10 Ausführung und Nutzung des Anschlusses](0010.md)
-- [§ 10a Messstellenbetrieb](0010a.md)
+- [§ 10a Messstellenbetrieb; Übergangsregelung für Steckersolargeräte](0010a.md)
 - [§ 10b Vorgaben zur Direktvermarktung](0010b.md)
+- [§ 10c Zuordnung geringfügiger Verbräuche](0010c.md)
 - [§ 11 Abnahme, Übertragung und Verteilung](0011.md)
+- [§ 11a Recht zur Verlegung von Leitungen](0011a.md)
+- [§ 11b Recht zur Überfahrt während der Errichtung und des Rückbaus](0011b.md)
 
 ### Abschnitt 2 Kapazitätserweiterung und Einspeisemanagement
 
@@ -49,7 +52,7 @@
 - [§ 21 Einspeisevergütung und Mieterstromzuschlag](0021.md)
 - [§ 21a Sonstige Direktvermarktung](0021a.md)
 - [§ 21b Zuordnung zu einer Veräußerungsform, Wechsel](0021b.md)
-- [§ 21c Verfahren für den Wechsel](0021c.md)
+- [§ 21c Verfahren für die Zuordnung und den Wechsel](0021c.md)
 
 ### Abschnitt 2 Allgemeine Bestimmungen zur Zahlung
 
@@ -109,8 +112,9 @@
 - [§ 37 Gebote für Solaranlagen des ersten Segments](0037.md)
 - [§ 37a Sicherheiten für Solaranlagen des ersten Segments](0037a.md)
 - [§ 37b Höchstwert für Solaranlagen des ersten Segments](0037b.md)
-- [§ 37c Besondere Zuschlagsvoraussetzung für benachteiligte Gebiete; Verordnungsermächtigung für die Länder](0037c.md)
-- [§ 37d Erlöschen von Zuschlägen für Solaranlagen des ersten Segments](0037d.md)
+- [§ 37c Nichtberücksichtigung von Geboten in benachteiligten Gebieten; Verordnungsermächtigung für die Länder](0037c.md)
+- [§ 37d Besonderes Zuschlagsverfahren für Solaranlagen des ersten Segments](0037d.md)
+- [§ 37e Erlöschen von Zuschlägen für Solaranlagen des ersten Segments](0037e.md)
 - [§ 38 Zahlungsberechtigung für Solaranlagen des ersten Segments](0038.md)
 - [§ 38a Ausstellung von Zahlungsberechtigungen für Solaranlagen des ersten Segments](0038a.md)
 - [§ 38b Anzulegender Wert für Solaranlagen des ersten Segments](0038b.md)
@@ -244,6 +248,7 @@
 - [§ 85a Festlegung zu den Höchstwerten bei Ausschreibungen](0085a.md)
 - [§ 85b Auskunftsrecht und Datenübermittlung](0085b.md)
 - [§ 85c Festlegung zu den besonderen Solaranlagen](0085c.md)
+- [§ 85d Festlegung zu flexibler Speichernutzung](0085d.md)
 - [§ 86 Bußgeldvorschriften](0086.md)
 - [§ 87 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten](0087.md)
 

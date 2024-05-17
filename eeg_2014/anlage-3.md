@@ -3,9 +3,8 @@
 I. Voraussetzungen der Flexibilitätsprämie
 1. Anlagenbetreiber können die Flexibilitätsprämie verlangen,
   a) wenn für den gesamten in der Anlage erzeugten Strom keine Einspeisevergütung in Anspruch genommen wird und für diesen Strom unbeschadet des § 27 Absatz 3 und 4, des § 27a Absatz 2 und des § 27c Absatz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Juli 2014 geltenden Fassung dem Grunde nach ein Vergütungsanspruch nach § 19 in Verbindung mit § 100 Absatz 2 besteht, der nicht nach § 52 in Verbindung mit § 100 Absatz 2 verringert ist,
-  b) wenn die Bemessungsleistung der Anlage im Sinne der Nummer II.1 erster Spiegelstrich mindestens das 0,2fache der installierten Leistung der Anlage beträgt,
-  c) wenn der Anlagenbetreiber die zur Registrierung der Inanspruchnahme der Flexibilitätsprämie erforderlichen Angaben an das Register übermittelt hat und
-  d) sobald ein Umweltgutachter mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass die Anlage für den zum Anspruch auf die Flexibilitätsprämie erforderlichen bedarfsorientierten Betrieb nach den allgemein anerkannten Regeln der Technik technisch geeignet ist.
+  b) wenn die Bemessungsleistung der Anlage im Sinne der Nummer II.1 erster Spiegelstrich mindestens das 0,2fache der installierten Leistung der Anlage beträgt und
+  c) sobald ein Umweltgutachter mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass die Anlage für den zum Anspruch auf die Flexibilitätsprämie erforderlichen bedarfsorientierten Betrieb nach den allgemein anerkannten Regeln der Technik technisch geeignet ist.
 2. Die Höhe der Flexibilitätsprämie wird kalenderjährlich berechnet. Die Berechnung erfolgt für die jeweils zusätzlich bereitgestellte installierte Leistung nach Maßgabe der Nummer II. Auf die zu erwartenden Zahlungen sind monatliche Abschläge in angemessenem Umfang zu leisten.
 3. Anlagenbetreiber müssen dem Netzbetreiber die erstmalige Inanspruchnahme der Flexibilitätsprämie vorab mitteilen.
 4. Die Flexibilitätsprämie ist für die Dauer von zehn Jahren zu zahlen. Beginn der Frist ist der erste Tag des zweiten auf die Meldung nach Nummer I.3 folgenden Kalendermonats.

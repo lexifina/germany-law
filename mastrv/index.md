@@ -33,7 +33,7 @@
 
 ## Abschnitt 5 Meldepflichten und Veröffentlichungen nach dem Erneuerbare-Energien-Gesetz
 
-- [§ 18 Zusätzliche Meldepflichten](0018.md)
+- [§ 18 Zusätzliche Meldepflicht](0018.md)
 - [§ 19 Veröffentlichungen](0019.md)
 
 ## Abschnitt 6 Sonstige Bestimmungen
@@ -43,4 +43,4 @@
 - [§ 22 Festlegungen](0022.md)
 - [§ 23 Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz](0023.md)
 - [§ 24 Übergangsbestimmungen](0024.md)
-- [Anlage Im Marktstammregister zu erfassende Daten](anlage.md)
+- [Anlage Im Marktstammdatenregister zu erfassende Daten](anlage.md)

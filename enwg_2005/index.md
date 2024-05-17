@@ -66,6 +66,7 @@
 - [§ 12f Herausgabe von Daten](0012f.md)
 - [§ 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung](0012g.md)
 - [§ 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen](0012h.md)
+- [§ 12i Systemstabilitätsbericht, Monitoring der Systemstabilität](0012i.md)
 - [§ 13 Systemverantwortung der Betreiber von Übertragungsnetzen](0013.md)
 - [§ 13a Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich](0013a.md)
 - [§ 13b Stilllegungen von Anlagen](0013b.md)
@@ -201,6 +202,7 @@
 - [§ 41e Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern](0041e.md)
 - [§ 42 Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung](0042.md)
 - [§ 42a Mieterstromverträge](0042a.md)
+- [§ 42b Gemeinschaftliche Gebäudeversorgung](0042b.md)
 
 ## Teil 5 Planfeststellung, Wegenutzung
 
@@ -237,6 +239,7 @@
 - [§ 49a Elektromagnetische Beeinflussung](0049a.md)
 - [§ 49b Temporäre Höherauslastung](0049b.md)
 - [§ 49c Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen](0049c.md)
+- [§ 49d Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung](0049d.md)
 - [§ 50 Vorratshaltung zur Sicherung der Energieversorgung](0050.md)
 - [§ 50a (weggefallen)](0050a.md)
 - [§ 50b (weggefallen)](0050b.md)

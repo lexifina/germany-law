@@ -19,6 +19,7 @@
 - [§ 6 Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans](0006.md)
 - [§ 7 Übergang vom Bundesfachplan Offshore und vom Offshore-Netzentwicklungsplan](0007.md)
 - [§ 8 Änderung und Fortschreibung des Flächenentwicklungsplans](0008.md)
+- [§ 8a Erklärung bestehender Gebiete zu Beschleunigungsflächen](0008a.md)
 
 ### Abschnitt 2 Zentrale Voruntersuchung von Flächen
 
