@@ -269,8 +269,8 @@ Transparenzrichtlinie-Umsetzungsgesetz
 
 ## Dreiundfünfzigster Abschnitt Übergangsvorschrift zum Wachstumschancengesetz
 
+- [Art 92](art-92.md)
 
 ## Vierundfünfzigster Abschnitt Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
 
-- [Art 92](art-92.md)
 - [Art 93](art-93.md)
