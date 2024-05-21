@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Ronsdorf
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-05-21T18:00:00+02:00
+- Ende: 2024-05-21T20:12:00+02:00
+- Ort: Sitzungszimmer im Bürgerbüro Ronsdorf, Marktstr. 21, 42369 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/48
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22057
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22057
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00329555.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00331432.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Wuppertaler Jugendrat
+- TOP 3: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 4: Vorstellung der Quartiersarbeit im Bezirk Rehsiepen
+- TOP 5: Bürgerantrag gem. § 24 GO NRW - Einrichten eines verkehrsberuhigten Bereichs, Holthauser Str. 71a - 87 - in der Sache erledigt
+- TOP 6: Anträge und Große Anfragen
+- TOP 6.1: Ausbau der L 419 in Ronsdorf
+- TOP 6.1.1: Antwort auf die Große Anfrage der SPD-Fraktion zur Realisierung der L 419 - Entgegennahme ohne Beschluss
+- TOP 6.2: Fragen zur Blombachtalbrücke im Zusammenhang mit dem Ausbau der L 419
+- TOP 6.2.1: Antwort auf die Große Anfrage der CDU-Fraktion zur Blombachtalbrücke im Zusammenhang mit dem Ausbau der L 419 - Entgegennahme ohne Beschluss
+- TOP 6.3: Schaffung von Fahrradabstellmöglichkeiten auf dem Gelände aller Ronsdorfer Grundschulen - ungeändert beschlossen
+- TOP 7: CleanAir Asphalt Erbschlöer Straße - ungeändert beschlossen
+- TOP 8: Kostenerhöhung Jägerhofstraße - abgelehnt
+- TOP 9: Stellungnahme der Verwaltung zur Gehwegfreigabe Am Grünen Streifen/Boxbergstraße
+- TOP 10: Grundlagenermittlung und Vorplanung für einen Radwegering vor dem Hintergrund der Bundesgartenschau 2031 - ungeändert beschlossen
+- TOP 11: Errichtung einer Carsharing-Station Blombachstraße - vertagen
+- TOP 12: Informationen zum digitalisierten Straßenhierarchieplan - Entgegennahme ohne Beschluss
+- TOP 13: Bebauungsplan 1234 - Rädchen Süd - - ungeändert beschlossen
+- TOP 14: Bebauungsplan 1280 - Holthauser Straße - - ungeändert beschlossen
+- TOP 15: Bebauungsplan 398 - Erbschlöer Straße - 4. Änderung - ungeändert beschlossen
+- TOP 16: Maßnahmenkonzept gesamtstädtisches Mobilitätskonzept - ungeändert beschlossen
+- TOP 17: Handlungsprogramm Gewerbeflächen - Fortschreibung 2024 - ungeändert beschlossen
+- TOP 18: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen - ungeändert beschlossen
+- TOP 19: Neue Gewerbeflächenpotenziale: Strukturkonzepte zu den Standorten Jägerhaus / Linde und Lichtscheid - Entgegennahme ohne Beschluss
+- TOP 20: Stadtentwässerung - Maßnahmenkatalog 2025/Katalogentwurf 2026 - ungeändert beschlossen
+- TOP 21: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2024 - ungeändert beschlossen
+- TOP 22: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk Ronsdorf - vertagen
+- TOP 23: Gewährung von freien Mitteln
+- TOP 23.1: - Antrag der Aidshilfe Wuppertal e.V. auf Gewährung freier Mittel zur Durchführung eines Testangebotes in Ronsdorf sowie zur Anschaffung von Selbst- und Schnelltests - vertagen
+- TOP 23.2: - Antrag der Sport- und Spielgemeinschaft Ronsdorf e.V. auf Gewährung eines Zuschusses zur Errichtung einer Vereinssporthalle - vertagen
+- TOP 23.3: - Bereitstellung von freien Mitteln zur Wahrnehmung von Repräsentationsaufgaben im Stadtbezirk
+- TOP 24: Gewährung von GFG-Mitteln
+- TOP 24.1: - Antrag der Sport- und Spielgemeinschaft Ronsdorf e.V. auf Gewährung eines Zuschusses zur Errichtung eines öffentlich zugänglichen Sport-Außenbereichs - vertagen
+- TOP 24.2: - Gewährung von GFG-Mitteln zur Erneuerung der Beleuchtung/Lichttechnik in der Aula der Erich-Fried-Gesamtschule
+- TOP 24.3: - Aufhebung von Beschlüssen über die Gewährung von GFG-Mitteln (Boule-Platz- Rasengittersteine Bandwirkerplatz) zugunsten der Sanierung des Bandwirkerplatzes
