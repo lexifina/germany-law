@@ -1,0 +1,84 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-05-22T17:00:00+02:00
+- Ende: 2024-05-22T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4771
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4771
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Brand Firma Diehl Metal Applications - beantwortet
+- TOP 3.2: Neuausschreibung zum Schulmittagessen - beantwortet
+- TOP 3.3: Reaktionszeit Bauaufsicht - beantwortet
+- TOP 3.4: Studie zum Grundstück der Familie Wolffsohn am Stölpchensee - beantwortet
+- TOP 3.5: Wie können gepflegte Baumscheiben vor Vandalismus und Falschparker*innen geschützt werden? - beantwortet
+- TOP 3.6: Wann kommt wenigstens eine kleine Verkehrswende auf dem Hindenburgdamm? - schriftlich beantwortet
+- TOP 3.7: Gratulationsdienst wird eingestellt - schriftlich beantwortet
+- TOP 3.8: Zecken – Risikogebiet Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den Kirchbauverein St. Annen - St. Annenchor - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sondermittel der BVV für die Ev. Paulus-Kirchengemeinde Berlin-Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Standards für Inklusive Sportanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Cybergrooming und Cybermobbing bekämpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Respekt durch Präsenz – uniformierte Einsatzkräfte in die Mitte unserer Gesellschaft rücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Steglitz-Zehlendorf unterstützt Teltowkanallinie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Flächendeckendes WLAN in allen sieben Seniorenfreizeiteinrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: E-Wasser-Shuttles für den ÖPNV - in der BVV abgelehnt
+- TOP 4.11: Stele für Erich Fellgiebel - in der BVV abgelehnt
+- TOP 4.12: Chatbot für die Webseiten des Bezirksamts: Steglitz-Zehlendorf zum Vorreiter machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: „Nur ganz kurz“: In der Drakestraße helfen nur noch Poller gegen Falschparker*innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Sundgauer Straße – Tempo 30 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Digitalisierung der regionalhistorischen Literatur des Kulturamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Teilhabe und Gemeinschaft durch eine Bibliothek für Alle – Für einen ausgeweiteten Bibliotheksstandort für Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Gedenken an den Widerstand des 20. Juli 1944 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Pilotprojekt „00-Toleranz für Toiletten-Vandalismus“ - in der BVV abgelehnt
+- TOP 4.19: Bäke in Gewässergüteprogramm der Senatsverwaltung aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Den Waldsee beim Ausbau der U3 mitdenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Ungenehmigte Ferienwohnungen in Steglitz-Zehlendorf aufspüren und wieder dem Wohnungsmarkt zuführen - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Grauwasserrecycling im Bezirk verbindlich einführen - überwiesen
+- TOP 5.2: Erheblicher „Parkdruck“: Mehr Fahrradbügel für Lichterfelde-Süd - überwiesen
+- TOP 5.3: Für Baumschutz und mehr Verkehrssicherheit: Autoparkplätze auf Baumscheiben an der Athene-Grundschule abordnen - überwiesen
+- TOP 5.4: Sicherere Überquerung der Haydnstraße entlang der Bäke sicherstellen - überwiesen
+- TOP 5.5: Runder Tisch „Hilfe für obdachlose Menschen in Steglitz-Zehlendorf“ - überwiesen
+- TOP 5.6: Sicherer Schulweg zur Athene-Grundschule – auch für Kinder, die die Jägerndorfer Zeile überqueren müssen - überwiesen
+- TOP 5.7: Parken am Teltower Damm wieder ermöglichen - überwiesen
+- TOP 5.8: Gemeindepark Lankwitz: Füttern verboten - überwiesen
+- TOP 5.9: Weiterhin Partnerschaftsschilder des Bezirkes auch auf dem neu gestalteten Hermann-Ehlers-Platz - überwiesen
+- TOP 5.10: Sicherheit an Bushaltestellen - überwiesen
+- TOP 5.11: Unfallgefährdende Situation am Lerbacher Weg beenden - überwiesen
+- TOP 5.12: Radwege Kohlhasenbrücker Straße zwischen Alsenbrücke und Stadtgrenze - überwiesen
+- TOP 5.13: Wappen des Bezirkes auf dem neu gestalteten Hermann-Ehlers-Platz - überwiesen
+- TOP 5.14: Nachhaltige Sitzmöglichkeiten in den Wäldern rund um den Wannsee/die Havel/Kleiner Wannsee/Stölpchensee/Pohlesee - überwiesen
+- TOP 5.15: Ein zentrales Bezirksamtsarchiv - überwiesen
+- TOP 5.16: Kältehilfe digitalisieren – freie Notunterkünfte in Echtzeit anzeigen - überwiesen
+- TOP 5.17: LKW-Verbot durchsetzen - überwiesen
+- TOP 5.18: Parkplatzsituation an der Seniorenfreizeitstätte Süd - überwiesen
+- TOP 5.19: Sitzgelegenheit am Uferweg (Moorlake) - überwiesen
+- TOP 5.20: Unterstützung des Weltalphabetisierungstages durch das Bezirksamt - überwiesen
+- TOP 5.21: Verkehrszählung für Hauptpendler-Routen - überwiesen
+- TOP 5.22: Aufklärung über HPV-Impfung in Schulen sichern - überwiesen
+- TOP 5.23: Handlungskonzept Obdachlosigkeit - überwiesen
+- TOP 5.24: Keine Großwindanlagen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.25: Radverkehr am U-Bahnhof Podbielskiallee - überwiesen
+- TOP 5.26: Barfußpfade - überwiesen
+- TOP 5.27: Pilotprojekt Bürohunde im Rathaus Zehlendorf - überwiesen
+- TOP 5.28: "Urban Gardening" am Stangenpfuhl-Teich in der Thermometersiedlung - überwiesen
+- TOP 5.29: Schließfächer für Obdachlose - überwiesen
+- TOP 5.30: Biotopflächenfaktor verbindlich in neuen und zu ändernden Landschaftsplänen festsetzen - überwiesen
+- TOP 5.31: Kreuzungsbereiche sicherer gestalten - überwiesen
+- TOP 5.32: Abarbeitung offener Beschlüsse der BVV - überwiesen
+- TOP 6: Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bürokratie gegen Eltern, statt Kinderbetreuung? - beantwortet
+- TOP 7.2: Badesaison: Schutz für Mensch und Natur am Schlachtensee und Umgebung - beantwortet
