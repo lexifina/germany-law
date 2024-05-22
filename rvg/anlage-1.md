@@ -49,7 +49,7 @@
 |  | Abschnitt 2 | Einzeltätigkeiten |
 |  |  |  |  |
 | Teil 6 | Sonstige Verfahren |
-|  | Abschnitt 1 | Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof |
+|  | Abschnitt 1 | Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof |
 |  |  | Unterabschnitt 1 | Verfahren vor der Verwaltungsbehörde |
 |  |  | Unterabschnitt 2 | Gerichtliches Verfahren |
 |  | Abschnitt 2 | Disziplinarverfahren, berufsgerichtliche Verfahren wegen der Verletzung einer Berufspflicht |
@@ -466,9 +466,9 @@ Sonstige Verfahren
 | Nr. | Gebührentatbestand | Gebühr |
 | Wahlverteidiger oder Verfahrensbevollmächtigter | gerichtlich bestellter oder beigeordneter Rechtsanwalt |
 | Vorbemerkung 6: (1) Für die Tätigkeit als Beistand für einen Zeugen oder Sachverständigen in einem Verfahren, für das sich die Gebühren nach diesem Teil bestimmen, entstehen die gleichen Gebühren wie für einen Verfahrensbevollmächtigten in diesem Verfahren. (2) Die Verfahrensgebühr entsteht für das Betreiben des Geschäfts einschließlich der Information. (3) Die Terminsgebühr entsteht für die Teilnahme an gerichtlichen Terminen, soweit nichts anderes bestimmt ist. Der Rechtsanwalt erhält die Terminsgebühr auch, wenn er zu einem anberaumten Termin erscheint, dieser aber aus Gründen, die er nicht zu vertreten hat, nicht stattfindet. Dies gilt nicht, wenn er rechtzeitig von der Aufhebung oder Verlegung des Termins in Kenntnis gesetzt worden ist. |
-| Abschnitt 1 Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof |
+| Abschnitt 1 Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen,Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof |
 | Unterabschnitt 1 Verfahren vor der Verwaltungsbehörde |
-| Vorbemerkung 6.1.1: Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber der Bewilligungsbehörde in Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen. |
+| Vorbemerkung 6.1.1: Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber der Bewilligungsbehörde in Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen oder dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz. |
 | 6100 | Verfahrensgebühr .......... | 55,00 bis 374,00 € | 172,00 € |
 | Unterabschnitt 2 Gerichtliches Verfahren |
 | 6101 | Verfahrensgebühr .......... | 110,00 bis 759,00 € | 348,00 € |

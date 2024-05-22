@@ -11,4 +11,5 @@
 - [§ 7 Strafvorschriften](0007.md)
 - [§ 8 Bußgeldvorschriften](0008.md)
 - [§ 9 Einziehung](0009.md)
+- [§ 9a Geändertes Unionsrecht](0009a.md)
 - [§ 10 Inkrafttreten](0010.md)

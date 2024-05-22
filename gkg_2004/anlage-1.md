@@ -89,7 +89,7 @@
 |  |  |  |
 | Hauptabschnitt 6 |  | Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
 |  |  |  |
-| Teil 3 | Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen |
+| Teil 3 | Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen |
 |  |  |  |
 | Hauptabschnitt 1 |  | Offizialverfahren |
 |  |  |  |
@@ -540,8 +540,8 @@ Insolvenzverfahren und ähnliche Verfahren
 | 2600 | Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 321a ZPO, § 4 InsO, § 3 Abs. 1 Satz 1 SVertO, § 38 StaRUG): Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen .......... | 66,00 € |
 Teil 3
 Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz,
-auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Verfahren nach
-dem Gesetz über die internationale Rechtshilfe in Strafsachen
+auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie
+Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen
 | Nr. | Gebührentatbestand | Gebühr oder Satz der jeweiligen Gebühr 3110 bis 3117, soweit nichts anderes vermerkt ist |
 | Vorbemerkung 3: (1) § 473 Abs. 4 StPO und § 74 JGG bleiben unberührt. (2) Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. Dies gilt auch für das Wiederaufnahmeverfahren, das sich gegen einen Strafbefehl richtet (§ 373a StPO). |
 | Hauptabschnitt 1 Offizialverfahren |
@@ -655,10 +655,10 @@ dem Gesetz über die internationale Rechtshilfe in Strafsachen
 | 3830 | Verfahren über den Antrag auf Aussetzung des Vollzugs einer Maßnahme der Vollzugsbehörde oder auf Erlass einer einstweiligen Anordnung: Der Antrag wird zurückgewiesen .......... | 0,5 |
 | Hauptabschnitt 9 Sonstige Verfahren |
 | Abschnitt 1 Vollstreckungshilfeverfahren wegen einer im Ausland rechtskräftig verhängten Geldsanktion |
-| Vorbemerkung 3.9.1: Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen. |
+| Vorbemerkung 3.9.1: Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie für Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz. |
 | 3910 | Verfahren über den Einspruch gegen die Entscheidung der Bewilligungsbehörde: Der Einspruch wird verworfen oder zurückgewiesen .......... | 54,00 € |
 |  | Wird auf den Einspruch wegen fehlerhafter oder unterlassener Umwandlung durch die Bewilligungsbehörde die Geldsanktion umgewandelt, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist. Dies gilt auch, wenn hinsichtlich der Höhe der zu vollstreckenden Geldsanktion von der Bewilligungsentscheidung zugunsten des Betroffenen abgewichen wird. |  |
-| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG: Der Antrag wird verworfen.......... | 33,00 € |
+| 3911 | Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG oder § 7 Absatz 2 Satz 2 DECHPolVtrUG: Der Antrag wird verworfen .......... | 33,00 € |
 | 3912 | Verfahren über die Rechtsbeschwerde: Die Rechtsbeschwerde wird verworfen oder zurückgewiesen .......... | 81,00 € |
 |  | (1) Die Anmerkung zu Nummer 3910 gilt entsprechend. (2) Die Gebühr entfällt bei Rücknahme der Rechtsbeschwerde vor Ablauf der Begründungsfrist. |  |
 | Abschnitt 2 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör |
