@@ -1,0 +1,52 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-05-23T17:02:00+02:00
+- Ende: 2024-05-23T20:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13718
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13718
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00551419.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Vorstellung der Aktionswoche zum Thema Sichtbarkeit der Arbeitsfelder der Offenen Kinder- und Jugendarbeit und der Aufsuchenden Jugendsozialarbeit
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Anfrage zur Vorlage V/0093/2024 Kleinräumige Bevölkerungsprognose 2022-2033 - zur Kenntnis genommen
+- TOP 3.5: 91. Änderung FNP - Entwurf zur Veröffentlichung - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster - einstimmig beschlossen
+- TOP 4.2: Prozessionsweg, Regenrückhaltebecken Graelbach - einstimmig beschlossen
+- TOP 4.3: Bebauungsplan 562 "Handorf-Hobbeltstraße / Kirschgarten / Heriburgstraße" - einstimmig beschlossen
+- TOP 4.4: Gewässer 3299922 und 32999224 zwischen Coppenrathsweg und Dingstiege - einstimmig beschlossen
+- TOP 4.5: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungen
+- TOP 5.1: Bebauungsplan 562 "Handorf - Hobbeltstraße / Kirschgarten / Heriburgstraße" - mehrheitlich beschlossen
+- TOP 5.2: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Ost für das 1. Halbjahr 2024 - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anträge
+- TOP 6.1: Kostenübernahme für den Entwurf von Lackaffen.de - einstimmig beschlossen
+- TOP 7: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 7.1: Durchfahrverbot für LKW (Anlieger frei) für Stichstraße Hobbeltstraße zur neuen Kita - eingebracht
+- TOP 7.2: Anregung zur Vorlage V/0016/2024 Verkehrsuntersuchung zum Erfordernis des Ausbaus der B 51 - eingebracht
+- TOP 7.3: Seniorengerechter Wohnraum in Gelmer - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 8.1: Versorgung mit Postfilialen bzw. Agenturen im Stadtteil Mauritz-Ost zeitnah verbessern (ursprüngliche Nr. A-O/0004/2023) - zur Kenntnis genommen
+- TOP 8.2: Versorgung von Mauritz-Ost mit Postdienstleistungen verbessern - zur Kenntnis genommen
+- TOP 8.3: Verbesserung der Verkehrssicherheit für Radfahrer und Fußgänger im Bereich Willingrott/Dorbaumstraße (ursprüngliche Nr. A-O/0002/2024) - zur Kenntnis genommen
+- TOP 8.4: Beleuchtung auf dem Franz-Reuter-Weg - zur Kenntnis genommen
+- TOP 8.5: Mögliche Standorte Pumptrack in Gelmer - zur Kenntnis genommen
+- TOP 8.6: Verkehrssituation an der Einmündung der August-Schepers-Straße in die Wolbecker Straße - zur Kenntnis genommen
+- TOP 8.7: Aufnahme in den Lärmsanierungsplan der DB Sudmühle/Mariendorf - zur Kenntnis genommen
+- TOP 8.8: Planung für den Neubau der Matthias-Claudius-Schule Handorf - zur Kenntnis genommen
+- TOP 8.9: Anfrage zum Waldfriedhof Lauheide - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 10: Verschiedenes
