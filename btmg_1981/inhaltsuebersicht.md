@@ -35,8 +35,7 @@
 | § 22 | Überwachungsmaßnahmen |
 | § 23 | Probenahme |
 | § 24 | Duldungs- und Mitwirkungspflicht |
-| § 24a | (weggefallen) |
-| § 25 | (weggefallen) |
+| § 25 |  | (weggefallen) |
 | Fünfter Abschnitt |
 |  | Vorschriften für Behörden |
 | § 26 | Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz |
