@@ -1,0 +1,57 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-05-24T14:00:00+02:00
+- Ende: 2024-05-24T16:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26209
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26209
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520266.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520266.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520266.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung von Niederschriften
+- TOP 2.1: Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 26.04.2024 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung KreativRaum D - zur Kenntnis genommen
+- TOP 4.2: Rahmenplan Einzelhandel 2016 5. Änderung - Zentrum Kalkumer Straße/Ulmenstraße & Standort Nahversorgung An der Piwipp - Entwurf - Empfehlung mehrheitlich beschlossen
+- TOP 4.3: Flächennutzungsplanänderung Nr. 178 (Entwurf) - Südlich An der Piwipp - Empfehlung mehrheitlich beschlossen
+- TOP 4.4: Bebauungsplan-Entwurf Nr. 01/009 - Südlich An der Piwipp - Empfehlung mehrheitlich beschlossen
+- TOP 4.5: Büchermeile auf der Rheinuferpromenade im Jahre 2024 - einstimmig beschlossen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2024 - einstimmig beschlossen
+- TOP 4.7: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2024 - einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2024 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.12: Yorckstraße 19-23 - Befreiung von der Fassadenbegrünung - abweichend beschlossen
+- TOP 4.13: Veranstaltungen Ehrenhof - Empfehlung einstimmig beschlossen
+- TOP 4.14: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Baumpflanzungen auf dem Mittelstreifen des Kennedydammes - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 5.2: Verkehrsversuch Mühlenstraße/Burgplatz zum Taxenparkplatz - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 5.3: Altkleidercontainer im Stadtbezirk 1 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Baufertigstellung der Hinterhofbebauung Am Wehrhahn 71 - Anfrage der CDU-Fraktion
+- TOP 6.2: Gewerbliche Vermietung der Wohnungen Am Wehrhahn 71 - Anfrage der CDU-Fraktion
+- TOP 6.3: Wohnungsleerstand Bismarckstraße 52 - Anfrage der SPD-Fraktion
+- TOP 6.4: Leerstand Wohnanlage Kreuzstraße 28 - Anfrage der SPD-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Aufwertung Parkhaus Bendemannstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.2: Anwohnerparkgebiet nördlich der Johannstraße und Heinrich-Erhardt Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Bauarbeiten Kölner Straße Ecke Börnestraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8.2: Antrag auf eindeutige Markierung der Bismarckstraße als Fahrradstraße; Beschluss der Bezirksvertretung 1 vom 26.01.2024; BV1/016/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an St. Sebastianus Schützenverein Derendorf 1655 e.V. - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die KGS Thomas-Schule - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Schäferstraßenfest - abweichend beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Mosaik e.V. - abweichend beschlossen
