@@ -548,6 +548,9 @@ Allgemeiner Datenbestand
 |  |  | ddd) | § 19d Absatz 4 AufenthG (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 5 AufenthG) |  | (2)* |
 |  |  |  | erteilt am |  |  |
 |  |  |  | befristet bis |  |  |
+|  |  | eee) | § 19d Absatz 1a AufenthG(Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine Ausbildungsduldung) |  | (2)* |
+|  |  |  | erteilt am |  |  |
+|  |  |  | widerrufen am |  |  |
 |  | oo) | § 19e Absatz 1 AufenthG (europäischer Freiwilligendienst) |  | (2)* |
 |  |  | erteilt am |  |  |
 |  |  | befristet bis |  |  |
