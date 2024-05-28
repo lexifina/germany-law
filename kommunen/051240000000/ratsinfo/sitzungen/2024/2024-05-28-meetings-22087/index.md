@@ -1,0 +1,66 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-05-28T18:00:00+02:00
+- Ende: 2024-05-28T19:55:00+02:00
+- Ort: Konsumgenossenschaft "Vorwärts", Münzstr. 53, 42281 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22087
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22087
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00330972.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00332277.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 3: Bericht aus dem Jugendrat
+- TOP 4: Hatzfeldtrasse - Sachstandsbericht
+- TOP 5: Bürgerantrag gemäß §24 GO: Tempo 30 Rudolfstraße - vertagen
+- TOP 6: Antrag auf Erteilung einer Sondernutzungserlaubnis für die Veranstaltung "Blaulichtmeile" am 05.05.2024 - ungeändert beschlossen
+- TOP 7: Veranstaltung "Barmer Sommerkirmes" vom 07.06. bis 10.06.2024 in der Barmer Innenstadt - ungeändert beschlossen
+- TOP 8: Benennung des Weges zwischen Münzstraße und Dr.-Werner-Jackstädt-Weg im Bereich Neubaugebiet Bhf. Heubruch - ungeändert beschlossen
+- TOP 9: Radbügel Bendahlerstraße - ungeändert beschlossen
+- TOP 10: Einrichtung einer Carsharing-Station Martin-Luther-Straße - vertagen
+- TOP 11: Errichtung einer Carsharing-Station Ulmenstr. - vertagen
+- TOP 11.1: Antrag nach § 24 GO NRW - Rotter Bürgerverein
+- TOP 12: InnenBandStadt - Umsetzung der Reallabore in Barmen und Elberfeld - ungeändert beschlossen
+- TOP 12.1: InnenBandStadt: Reallabor Loher Straße Lebenswert - ungeändert beschlossen
+- TOP 13: Antrag auf Erteilung einer Sondernutzungserlaubnis für die Veranstaltung "Beer & Food Festival" auf dem Johannes-Rau-Platz - ungeändert beschlossen
+- TOP 14: Sanierung des Kinderspielplatzes Am Anger / Buchenring - ungeändert beschlossen
+- TOP 15: Anträge
+- TOP 15.1: Verwendung der freien Mittel -gemeinsamer Antrag SPD, CDU, Linkes Bündnis Wuppertal, FW, FDP - geändert beschlossen
+- TOP 15.2: Verwendung von GFG-Mitteln - gemeinsamer Antrag SPD, CDU, Linkes Bündnis Wuppertal, FW, FDP - ungeändert beschlossen
+- TOP 15.3: Entschärfung / Änderung der Verkehrssituation in der Hünefeldstr.- gemeinsamer Antrag SPD, CDU, Linkes Bündnis Wuppertal - ungeändert beschlossen
+- TOP 15.4: Barmen als Bildungsstandort der Zentralbibliothek aufwerten - Antrag CDU-Fraktion - geändert beschlossen
+- TOP 15.4.1: Barmen als Bildungsstandort der Zentralbibliothekk aufwerten – Änderungsantrag Bündnis 90/Die Grünen - zurückgezogen
+- TOP 15.5: Fahrradverkehr entgegen der Fahrrichtung in in Einbahnstraßen in der Virchow-Sander- Liebig-, Humboldt- und Esmarchstraße Antrag Bündni 90/Die Grünen - ungeändert beschlossen
+- TOP 15.6: Verkehrsberuhigung in den Straßen Amalienstraße und Dickmannstraße - Antrag Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 15.7: Trinkwasserbrunnen im Bezirk - Antrag Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 15.8: Erhalt der Wegeverbindung über die Schafbrücke - Antrag Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 16: Anfragen
+- TOP 16.1: Umleitung wg. der Sperrung Schönebecker Straße - Große Anfrage Bündnis 90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 16.1.1: Bericht zur großen Anfrage - Umleitung wg. der Sperrung Schönebecker Straße - Entgegennahme ohne Beschluss
+- TOP 16.2: Loher Brücke und Sperrung Schönebecker Straße - Große Anfrage Bündnis 90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 16.2.1: Antwort auf die Große Anfrage zur "Loher Brücke und Sperrung Schönebecker Straße"
+- TOP 16.3: Sportplatz Rudolfstraße - Große Anfrage SPD-Fraktion - Entgegennahme ohne Beschluss
+- TOP 16.3.1: Antwort auf die Große Anfrage der SPD VO/0633/24 zum Sportplatz Rudolfstraße - Entgegennahme ohne Beschluss
+- TOP 17: Grundlagenermittlung und Vorplanung für einen Radwegering vor dem Hintergrund der Bundesgartenschau 2031 - ungeändert beschlossen
+- TOP 18: Umsetzung Talachsenradweg: Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Unterdörnen 3. Bauabschnitt Hier: Freigabe für den Radverkehr in Gegenrichtung - ungeändert beschlossen
+- TOP 19: Umsetzung Talachsenradweg: Abschnitt Hardtufer/Hünefeldstraße - Einrichtung einer Fahrradstraße - abgelehnt
+- TOP 20: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2024 - ungeändert beschlossen
+- TOP 21: Verlängerung des Vorläuferquartiers für die Grundschule Gewerbeschulstraße am Standort-Rudolf-Steiner-Straße 10 - ungeändert beschlossen
+- TOP 22: Bebauungsplan 1296 - Hatzfelder Büsche - - ungeändert beschlossen
+- TOP 23: Bebauungsplan 1241/2A - Bahnhof Heubruch-Süd - - ungeändert beschlossen
+- TOP 24: Maßnahmenkonzept gesamtstädtisches Mobilitätskonzept - ungeändert beschlossen
+- TOP 25: Handlungsprogramm Gewerbeflächen - Fortschreibung 2024 - ungeändert beschlossen
+- TOP 26: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen - ungeändert beschlossen
+- TOP 27: Neue Gewerbeflächenpotenziale: Strukturkonzepte zu den Standorten Jägerhaus / Linde und Lichtscheid - Entgegennahme ohne Beschluss
+- TOP 28: Stadtentwässerung - Maßnahmenkatalog 2025/Katalogentwurf 2026 - ungeändert beschlossen
+- TOP 29: Sachstandsbericht zur Flächenstrategie der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 30: Sachstandsbericht Bebauungsplan 1281 - Barmer Bogen Siegesstraße - Entgegennahme ohne Beschluss
+- TOP 31: Baulandentwicklung Adolf-Vorwerk-Straße "Marpe" - Entgegennahme ohne Beschluss
+- TOP 32: Einrichtung einer Fahrradstraße zwischen der Schafbrücke und der Rödiger Straße - Entgegennahme ohne Beschluss
+- TOP 33: Informationen zum digitalisierten Straßenhierarchieplan - Entgegennahme ohne Beschluss
