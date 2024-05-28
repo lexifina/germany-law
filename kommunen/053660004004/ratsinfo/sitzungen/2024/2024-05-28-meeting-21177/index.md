@@ -1,0 +1,59 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2024-05-28T18:00:00+02:00
+- Ende: 2024-05-28T20:09:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXUyAg78MapiTsOquIIczOc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21177
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpnfavbwK2c97rynkH3B-PBv4QRfIGRFYXVF1wcWn7K/Bekanntmachung_Rat_28.05.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZULvPPR46OJb0Ons9rO_laNxquEB2mYSIHjV_-rZVvtp/Oeffentliche_Niederschrift_Rat_28.05.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 19.03.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Reduzierung Vandalismus am Bahnhof Bad Münstereifel hier: Antrag nach § 24 GO NRW vom 10.04.2024 - Einstimmiger Beschluss:
+- TOP 5.: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Antrag der Gemeinschaftsgrundschule nach § 24 GO NRW; Ortstermin vom 11.04.2024 - Einstimmiger Beschluss:
+- TOP -: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Gemeinschaftsantrag zur Planung und Errichtung einer neuen Grundschule in der Kernstadt vom 23.04.2024 - Beschluss s. RD-Nr. 1269-XI/Z-4.
+- TOP -: Mängelbeseitigung am/im Schulgebäude und Verbesserung der Lern-/Lehrumgebung hier: Empfehlungsbeschluss zum Gemeinschaftsantrag zur Planung und Errichtung einer neuen Grundschule in der Kernstadt vom 23.04.2024 - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 1 Enthaltung:
+- TOP 6.: Nordeifel Tourismus GmbH hier: Zuschusserhöhung ab dem Jahr 2025 infolge Tarifergebnisse für den TVÖD - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 7.: Genehmigung einer überplanmäßigen Leistung hier: Mittel für die Inanspruchnahme externer Dienstleister für Rettungsschwimmer - Einstimmiger Beschluss:
+- TOP 8.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Beschluss der Fortschreibung und Beratung über eine weitere Förderphase - Beschluss s. RD-Nr. 369-XI/Z-9.
+- TOP -: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Beschluss der Fortschreibung und Beratung über eine weitere Förderphase - Einstimmiger Beschluss:
+- TOP 9.: Bebauungsplan Nr. 103 "John-Wiles-Straße" in Bad Münstereifel hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen einstimmig, die zu den Nr. 01.3, 03.2, 06.3, 08.4 und 08.5 bei 4 Enthaltungen:
+- TOP 10.: 4. Änderung des Bebauungsplans Nr. 5 b "Gewerbegebiet Bad Münstereifel" (Bereich Flaches Feld/Steinsmühle) im beschleunigten Verfahren gem. § 13 a BauGB „Bebauungspläne der Innenentwicklung“ hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 11.: Hochwasserschutzmaßnahmen im Bereich Kirspenich hier: Antrag der CDU-Fraktion vom 29.04.2024 - Beschluss s. RD-Nr. 1356-XI/Z-1.
+- TOP -: Hochwasserschutzmaßnahmen im Bereich Kirspenich hier: Stellungnahme der Verwaltung zum Antrag - Kein Beschluss erforderlich.
+- TOP 12.: Endgültige Herstellung von Erschließungsanlagen - Abweichungssatzung – Kostenspaltung Hier: Im Bendchen - Einstimmiger Beschluss:
+- TOP 13.: Endgültige Herstellung von Erschließungsanlagen - Abweichungssatzung -Kostenspaltung hier: Varusstraße - Einstimmiger Beschluss:
+- TOP 14.: Widmung der "Ludger-Steinmann-Straße" in Bad Münstereifel - Kein Beschluss erforderlich.
+- TOP 15.: Winterdienst im Stadtgebiet hier: Aufstellung und Festlegung der städtischen Straßen für den Räum- und Streudienst nach Dringlichkeitsstufen - Einstimmiger Beschluss:
+- TOP 16.: Vorstellung der aktualisierten Winterdienstverträge für den maschinellen und händischen Winterdienst im Stadtgebiet hier: Ausschreibungstext und Bewertungsmatrix - Einstimmiger Beschluss:
+- TOP 17.: Verpachtung einer Forstfläche für Mobilfunkmast in der Gemarkung Münstereifel - Einstimmiger Beschluss:
+- TOP 18.: Feststellung Jahresabschluss zum 31.12.2022 des Forstbetriebes Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 19.: Entlastung für das Wirtschaftsjahr 2022 Hier: Entlastung des Betriebsausschusses "Forstbetrieb" durch den Rat - Einstimmiger Beschluss:Hier wirken die Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“ nicht mit.
+- TOP 20.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Sachstandsbericht - Einstimmiger Beschluss:
+- TOP -: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Fortschreibung und Ergänzung des Wiederaufbauplan zur Vorlage bei der Bezirksregierung - Einstimmiger Beschluss:
+- TOP 21.: Antrag über die Gewährung von Billigkeitsleistungen des Landes NRW zur Beseitigung von Schäden an öffentlicher Infrastruktur sowie zum Wiederaufbau anlässlich der Starkregen-und Hochwasserkatastrophe im Juli 2021 hier: Auftragsvergaben für die Maßnahmen des Wiederaufbauplans - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Haushaltssatzung für das Haushaltsjahr 2024 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Bericht über den Sachstand des Genehmigungsverfahrens - Einstimmiger Beschluss:
+- TOP 23.: Beratungen zur Verlängerung der Optionsregelung zur Anwendung des § 2b Umsatzsteuergesetz - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Verschiedene Ausschüsse hier: Ausscheiden des stellvertretenden sachkundigen Bürgers Sebastian Fuchs
+- TOP 24.2: Bericht zum 31.03.2024 im Rahmen des Finanzcontrollings
+- TOP 24.3: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 24.4: Aufstellung eines Sachlichen Teilplans Erneuerbare Energien zum Regionalplan für den Regierungsbezirk Köln hier: Beschluss des Vorentwurfs durch den Regionalrat
+- TOP -: Aufstellung eines Sachlichen Teilplans Erneuerbare Energien zum Regionalplan für den Regierungsbezirk Köln hier: aktualisierte Zeitplanung der Bezirksregierung Köln und weiteres Vorgehen
+- TOP 24.5: Sachstand kommunale Wärmeplanung
+- TOP 24.6: 4. Änderung des Bebauungsplanes Nr. 5d "Gewerbegebiet Bad Münstereifel - Flaches Feld" hier: Anfrage des Stadtverordneten Andreas Bühl, UWV-Fraktion
+- TOP 24.7: QR-Code Wahlbenachrichtigung hier: Anfrage des Stadtverordneten Martin Finder, CDU-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Anfragen und Mitteilungen
+- TOP 2.: eifelbad Bad Münstereifel hier: Mitteilung bzgl. vorübergehender Schließung
+- TOP 3.: Mikrofonanlage Rats- und Bürgersaal hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 4.: Außengelände Kita Kirspenich hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion
