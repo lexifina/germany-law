@@ -1,0 +1,209 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-05-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966296
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966296
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-04
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Vorschlag Verkehrszeichen für Kindertagesstätte
+- TOP 6.2.: Mittlerer Ring: Passauerstr. stadteinwärts
+- TOP 6.3.: aktuelle Verkehrssituation und Gefahren auf dem Schulweg
+- TOP 6.4.: Vorschlag neue Lastenradstation
+- TOP 6.5.: Mülleimer an der Ökologischen Ausgleichfläche Distlhofweg
+- TOP 6.6.: Westpark und Mountainbiken, Toiletten
+- TOP 6.7.: Miet E-Scooter
+- TOP 6.8.: Parkplatzsituation Säulingstraße
+- TOP 6.9.: Verkehrssituation Garmischer Straße/Gefährdung für Kinder der Kitas
+- TOP 6.10.: Luise Kiesselbach Platz Tunnel Einfahrt Richtung Norden immer noch gesperrt
+- TOP 6.11.: Verbrennungsmotor im Westpark
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: (E) Beleuchtung für Fußweg vom Westpark zur Straße Am Westpark Parkbeleuchtung am Westpark
+- TOP 8.2.: (E) Verbreiterung und Bepflanzung des Mittelstreifens in der Hinterbärenbadstraße mit Bäumen und Sträuchern
+- TOP 8.3.: (E) Keine unnötige Verengung auf dem Gehweg Eichendorffplatz / Johann-Clanze-Straße durch Parklizenzschild
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget SV von 1880 München e.V. „Kinderfasching 15.02.2025 – 22.02.2025“ 605,00 € / AZ: 0262.0-7-0476
+- TOP 10.2.: (E) Stadtbezirksbudget SV von 1880 München e.V. „Sommerfest am 80er am 06.07.2024“ 6.550,00 € / AZ: 0262.0-7-0475
+- TOP 10.3.: (E) Stadtbezirksbudget Init. "Bodenakrobatik" Bodenakrobatik Training mit Airtrack vom 10.04. -25.07.2024 4.931,89€; AZ. 0262.0-7-0469
+- TOP 10.4.: (E) Stadtbezirksbudget LUMA e.V. „Kulturelles Kinderprogramm von LUMA e.V. im Café Gans am Wasser – 2024 vom 01.06.2024 – 31.12.2024“ 6.532,50 € / AZ: 0262.0-7-0477
+- TOP 10.5.: (E) Stadtbezirksbudget MTV München von 1879 e.V. „Ersatz von Hürden vom 01.07.2024 – 31.12.2024“ 1.991,29 € / AZ: 0262.0-7-0480
+- TOP 10.6.: (E) Stadtbezirksbudget Sport-Verein von 1880 München e.V. „Ramadam am 80er am 15.06.2024“ 2.700,00 € / AZ: 0262.0-7-0478
+- TOP 10.7.: (E) Stadtbezirksbudget SV von 1880 München e.V. „Winterfreizeit vom 02.03.2025 – 08.03.2025“ 5.146,00 € / AZ: 0262.0-7-0474
+- TOP 10.8.: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-7-0482
+- TOP 11.: Anträge
+- TOP 11.1.: Umbenennung Ostmarkstraße
+- TOP 11.2.: Umbenennung Ostmarkstraße in SarahSonja-Lerch-Straße
+- TOP 11.3.: Anfrage grundhafte Erneuerung Straßen
+- TOP 11.4.: Priorisierung ÖPNV während Bau TWT
+- TOP 11.5.: Schutz vor Durchgangsverkehr aufgrund Bau TWT
+- TOP 11.6.: Anfrage Toilettenanlage am Partnachplatz-Platz
+- TOP 11.7.: Wiederherstellung Spielwiese und Schotterrasen Luise-Kiesselbach-Platz
+- TOP 11.8.: Verkehrslenkende Maßnahmen bei der Sperrung des Luise-Kiesselbach- oder Heckenstaller Tunnels
+- TOP 11.9.: Fürstenrieder Straße: Erhebliche Gefährdung von Schülerinnen und Schülern am Fußgängerübergang vor den Gymnasien
+- TOP 11.10.: Fürstenrieder Straße: Temporäre Busspur zwischen der Meier-Helmbrecht-Straße und nördlich der Andreas-Vöst-Straße
+- TOP 11.11.: Fürstenrieder Straße: Unterrichtung / Anhörung der betroffenen BAs bei baustellenbedingten Änderungen der Verkehrsführung
+- TOP 11.12.: Fürstenrieder Straße: Verlängerung der Bushaltestelle Andreas-Vöst-Straße in Richtung Norden
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung PuG
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Nestroystr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Spielaktionen Straße.Oase von CultureClouds e.V.
+- TOP 16.2.: Anhörung, Straßenfest in der Johann-Houis-Str.
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, kleine Zirkuswiese, Sommerfest Montessori Kinderhaus
+- TOP 17.2.: Anhörung, Westpark, Fronleichnamsprozession mit Picknick im Westpark
+- TOP 17.3.: Anhörung, Luise-Kiesselbach-Platz, Sommerfest des Maibaumvereins
+- TOP 17.4.: Anhörung, Westpark, Rundhütten, Märchenerzählungen im August
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Johann-Clanze-Str. Sichthaltverbot für den Radverkehr
+- TOP 25.2.: Landaubogen Aufhebung allgemeine Behindertenstellplätze
+- TOP 25.3.: BA-Anhörung Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 26.1.: Anhörungsverfahren zur Neuausschreibung City Light Säulen
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: Bitte um einseitiges Halteverbot Bernrieder Str. zwischen Ettalstr. und Staltacher Str.
+- TOP 33.: Baureferat
+- TOP 33.1.: Antwort Antrag Inninger Str. Fahr- und Gehbahnsanierung im Bestand
+- TOP 33.2.: Gehwegschäden und Straßenbeschädigungen Mittenwalder Straße
+- TOP 33.3.: Renovierung Thai-Sala-Pagode im Westpark
+- TOP 33.4.: Maßnahmen gegen Gänse im Westpark
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Funktionen im RIS
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Zwischennachricht Ausweichrouten
+- TOP 40.2.: Mehr Sicherheit für den Radverkehr in der Waldfriedhofstraße in Höhe der Hausnummern 88 – 90
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Zwischennachricht Verleih von E-Scootern
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Pausenkiosk in der Grundschule an der Werdenfelsstraße
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 44.1.: Energieberatung Krüner Platz
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Info Ergebnisse der Machbarkeitsstudie Begrünung im Straßenraum
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Westpark, Seebühne, Musikalisches Weinfest
+- TOP 53.2.: Bescheid Spielaktionen Spiellandschaft Stadt
+- TOP 53.3.: Ausnahmegenehmigung Veranstaltung in div. städtischen Grünanlagen Fit im Park
+- TOP 53.4.: Bescheid Glaubensverkündigung Neokatechumenat
+- TOP 53.5.: Bescheid, Westpark, Westseite, Teamstaffellauf
+- TOP 53.6.: Bescheid, Westpark, Spendenlauf
+- TOP 53.7.: Bescheid, Westpark, Theatron, Outdoor Gottesdienste
+- TOP 53.8.: Bescheid, Westpark, Theatron, Theateraufführungen, Shakespeares Theatre
+- TOP 53.9.: Bescheid, Westpark, kl. Zirkuswiese, Sommerfest des Montessori Kinderhause
+- TOP 53.10.: Bescheid, Westpark, kleine und große Zirkuswiese, Zirkuslus
+- TOP 53.11.: Bescheid, Westpark, Seebühne, Kino, Mond und Sterne
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Martin-Behaim-Str Radfrei
+- TOP 56.2.: Pfaffenwinkel
+- TOP 56.3.: Zwischennachricht e-scooter im Straßenverkehr BV Stadtbezirk
+- TOP 56.4.: Albert-Roßhaupter-Straße Haltverbot Seitenstreifen
+- TOP 56.5.: Hinterbärenbadstraße Kurzparken mit Parkscheibe
+- TOP 56.6.: Hinterbärenbadstraße Lieferzone
+- TOP 56.7.: Westpark Parkplatz
+- TOP 56.8.: Zillertalstr Behindertenparkplatz
+- TOP 56.9.: Drehgenehmigung Grünanlage Hansastr. 59
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 57.1.: Bescheid, Westpark, Theatron, Outdoor Gottesdienste
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Baumfällung Ammergaustr.
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Wohnungslose
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Strom-Projekt Hansastraße
+- TOP 64.: Verschiedenes
+- TOP 64.1.: Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 16.3.: Anhörung, Fronleichnamsprozession, mit Grünanlage und Halteverboten
+- TOP 7.1.: UA-Besetzungen der SPD im BA 7
+- TOP 12.3.1.: Einladung UA-Haushalt
+- TOP 12.5.1.: Protokoll 2024/05
+- TOP 13.13.1.: Protokoll MOR Tunnelsperre
+- TOP 42.2.: Gilmschule Ausstattungsgegenstände
+- TOP 17.5.: Anhörung, Westpark, Große Wiese West, Eid-/Opferfest
+- TOP 62.2.: Zweckentfremdung Breitbrunner Straße
+- TOP 13.1.1.: Bericht des Vorsitzenden 2024/05
+- TOP 17.6.: Anhörung, Seebühne Westpark, Gottesdienst Hillsong Church
+- TOP 8.4.: BV-Empfehlung Nr.20-2 / E01641 und Maßnahmen zur Beleuchtung von Angsträumen
+- TOP 13.7.1.: Bericht Jugendbeauftragten
+- TOP 16.4.: Anhörung, Straßen-/Stadtteilfest, Hinterbärenbadstraße
+- TOP 12.6.2.: Protokoll
+- TOP 13.8.1.: Bericht Kinderbeauftragte
+- TOP 13.11.1.: Protokoll
+- TOP 6.12.: Erhalt/Erneuerung des Schwesternwohnheims Partnachplatz statt weitere Flüchtlingsunterkunft
+- TOP 12.2.1.: Protokoll UA-BuS 22.5.2024
+- TOP 12.2.2.: Protokoll UA-BuS Ortstermin 23.05.2024
+- TOP 8.5.: Beschluss Mobilität auf den städtischen Friedhöfen_GSR_stadtweite Abstimmung
+- TOP 12.3.2.: Protokoll HHA
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für die Mai-Sitzung
+- TOP 64.2.: Einladung Spatenstich Tram-Westtangente
+- TOP 12.1.1.: Protokoll UA BSU
