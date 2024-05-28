@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-05-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 30.04.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 30.04.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Truderinger Str. - ÄNDERUNGSANTRAG zu 1.1-2023-18043-32 - Neubau einer Wohnanlage, bestehend aus 3 Wohngebäuden, einer erdgeschossigen Kindertageseinrichtung sowie einem Untergeschoss mit Tiefgarage - mit Mobilitätskonzept
+- TOP 3.1.2.: Haager Str. 4 - Neubau eines Gewerbehofs und Technologiezentrums mit Gastronomie und Tiefgarage ( Friedenstr. 18-18a / Haager Str. 4-10a) - VORBESCHEID
+- TOP 3.1.3.: Umwandlung von Parkplätzen in eine Grüninsel mit Baumbepflanzung auf der Nordseite der Kreillerstr.; Antrag aus dem UA-Planung, Bauvorhaben und Baumschutz, Umweltschutz - vertagt aus der Plenumssitzung vom 30.04.2024 -
+- TOP 3.1.4.: Einführung eines städtischen Preises für Bausünden: Nominierung Quartier an der Truderinger Straße; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums; Anhörung des Mobilitätsreferats
+- TOP 3.2.2.: August-Everding-Straße: Einrichtung eines absoluten Haltverbots (Anfahrtszone Förderschulbusse); Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Information zur Neuauschreibung der City-Light-Säulen; Anhörung des Referats für Arbeit und Wirtschaft
+- TOP 3.2.4.: Baumkirchner Str. 12 - 1 x LED-Board beantragt an bestehender Außenfassade
+- TOP 3.2.5.: Konzept für geteilte Mobilität im Stadtbezirk 14; Anhörung des Mobilitätsreferats
+- TOP 3.2.6.: Truderinger Str. - 1 digitale Stadtinformationsanlage
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Errichtung einer „Schaukelanlage“ im Michaelianger; Antrag der Fraktion FW/ÖDP - vertagt aus der Plenumssitzung vom 30.04.2024 -
+- TOP 3.3.2.: „Johannifeuer" am 22.06.2024 in der Grünanlage an der St.-Veit-Str.; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.3.: Jahresbericht Gipfelstürmer*innen
+- TOP 3.3.4.: "Serenade im Rosengarten" am 28.06.2024 im Behrpark; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.5.: „Familien- und Nachbarschaftsfest“ vom 22.06 – 23.06.2024 am Piusplatz; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.6.: „Sommerfest Elterninitiative Ali Baba“ am 13.07.2024 im Behrpark (Ersatztermin: 14.07.2024); Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.7.: “Kinderfest Veranstaltung“ am 16.06.2024 am Piusplatz; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget SOS Kinderdorf e.V., SOS-Kinderdorf München, SOS Beratungs- und Familienzentrum Sommerfest am 29.06.2024 1.230,00 Euro; Az. 0262.0-14-0401
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderkreis Verein der Grundschule an der Grafinger Str. 71 Kunstworkshop „Was krabbelt, flattert, bellt und faucht – Tiere nebenan!“ vom 13.05. bis 27.07.2024 3.463,00 Euro; Az. 0262.0-14-0400
+- TOP 3.5.3.: (E) Stadtbezirksbudget MAGs – München Aktiv für Gesundheit e.V. Deutschförderkurs für Vorschulkinder und Frauencafé mit Kindern vom 10.06. bis 24.12.2024 3.385,00 Euro; Az. 0262.0-14-0402
+- TOP 3.5.4.: Stärkung der Rechte der Bezirksausschüsse, Hier: Anhörungsrecht bei Sportentwicklungsplanung; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Haager Str. 4
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.2.: Wie sieht es mit der Fernwärme Planung für Berg am Laim aus?
+- TOP 4.1.3.: Jahresgenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Nächtliche Mäharbeiten
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 4.2.2.: Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 4.2.3.: (U) Ausstattung der Fußgängerzone und der Sommerstraßen Kein Tropfen auf den heißen Stein - 2: Coole Straßen (erneut), mehr Trinkwasserbrunnen, Kühlungsangebote und ein ‚Cool Places‘ Plan Antrag Nr. 20-26 / A 04101 der Stadtratsfraktion ÖDP/München-Liste vom 21.08.2023
+- TOP 4.2.4.: Umbenennung der Hansjakobstraße
+- TOP 4.2.5.: (U) Erhöhung der Verkehrssicherheit und Aufenthaltsqualität im Straßenraum – Umsetzung des Radentscheidprojekts Truderinger Straße zwischen Baumkirchner Straße und Haringerweg (Stadtbezirk 14) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 4.2.6.: (U) Ausübung des Vorkaufsrechts und Ausweitung des kommunalen Wohnungsbestands Empfehlung Nr. 20-26 / E 01312 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing-West am 15.06.2023 Vorkaufsrecht wahrnehmen um bezahlbaren Wohnraum zu schaffen Empfehlung Nr. 20-26 / E 01296 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 25.05.2023 Städtisches Vorkaufsrecht wieder vollumfänglich ausüben Empfehlung Nr. 20-26 / E 01115 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 30.03.2023
+- TOP 4.2.7.: E-Fahrrad ÖPNV Kombination unterstützen
+- TOP 4.2.8.: Bürgerinformation zur Einführung von Parklizenzgebieten in Berg am Laim
+- TOP 4.2.9.: Verkehrshelferübergang Josephsburgstr./St.-Veit-Str.
+- TOP 4.2.10.: Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 4.2.11.: Keine neuen Bürohäuser
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Zeitnahe Einbindung der Grundschule an der Berg-am-Laim-Straße 142 in den Pilotversuch Gelbe Systeme
+- TOP 4.3.2.: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 4.3.3.: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 4.3.4.: Dienststellenverständigung - Städtischer Hort Kreuzerweg 28
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Rückmeldung zur Anfrage vom BA 14 zum MIP 2024-2028
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Hohenbrunnerstr. 7a
+- TOP 4.6.2.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 3.3.8.: „Kulturveranstaltung Kindertheatervorstellung“ am 05.07.2024 (Ersatztermin: 18.07.2024) in der Grünfläche an der Bad-Kreuther-Str.; Anhörung des Kreisverwaltungsreferats
+- TOP 4.1.4.: Baulisten April 2024
+- TOP 3.5.5.: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-14-0404
+- TOP 3.5.6.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. „Zelt und Pavillion für Veranstaltungen ab 15.06.2024“ 1.216,25 € / AZ: 0262.0-14-0403
+- TOP 1.1.1.: Nachtrag TOP 3.3.8: „Kulturveranstaltung Kindertheatervorstellung“ am 05.07.2024 (Ersatztermin: 18.07.2024) in der Grünfläche an der Bad-Kreuther-Str.; Anhörung des Kreisverwaltungsreferats
+- TOP 1.1.2.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-14-0404
+- TOP 1.1.3.: Nachtrag TOP 3.5.6: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. „Zelt und Pavillion für Veranstaltungen ab 15.06.2024“ 1.216,25 € / AZ: 0262.0-14-0403
+- TOP 1.1.4.: Nachtrag TOP 4.1.4: Baulisten April 2024
