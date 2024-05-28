@@ -1,0 +1,61 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-05-28T17:04:00+02:00
+- Ende: 2024-05-28T19:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13722
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13722
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00549709.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Wahl einer 1. Stellvertretung des Bezirksbürgermeisters im Stadtbezirk Münster-Mitte - mehrheitlich geändert beschlossen
+- TOP 5.2: Zuschüsse an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Mitte - einstimmig beschlossen
+- TOP 5.3: Bestellung einer Trägervertretung für die städt. Kindertageseinrichtung Burgstraße (ehemals Hornstraße) und für die städt. Kindertageseinrichtung Am Inselbogen - einstimmig geändert beschlossen
+- TOP 5.4: Fuß- / und Radwegeverbindung auf der ehemaligen Gleistrasse zwischen der Kanalstraße und dem Haltepunkt Münster Zentrum Nord - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Maßnahmenpaket Busbeschleunigung - zur Kenntnis genommen
+- TOP 6.2: „ÖPNV-Hauptachse Weseler Straße“ – Konzept zur Optimierung des Linienbusverkehrs - zur Kenntnis genommen
+- TOP 7: Anhörungen
+- TOP 7.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster - einstimmig geändert beschlossen
+- TOP 7.1.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster
+- TOP 7.2: Innenstadt stärken: Auswahl von Maßnahmen des Integrierten städtebaulichen Entwicklungskonzeptes Münster-Innenstadt (INSEK Münster-Innenstadt, 2023) für die Städtebauförderung 2025-2035 - einstimmig beschlossen
+- TOP 7.3: Musik-Campus - Auslobung des städtebaulich-freiräumlichen Wettbewerbs - mehrheitlich abgelehnt
+- TOP 7.4: Bebauungsplan Nr. 649 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.5: Vorhabenbezogener Bebauungsplan Nr. 614 - Beschluss zur Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Robertstraße - Erneuerung des Mischwasserkanals - Baubeschluss Kanalbau - einstimmig beschlossen
+- TOP 7.8: Ringlinie (Linie 33/34) und Linie 14 - einstimmig beschlossen
+- TOP 7.9: Warendorfer Straße - Umweltspur zwischen Dodostraße und Gereonstraße - einstimmig beschlossen
+- TOP 7.10: Mauritzstraße - Busonderfahrstreifen zwischen Winkelstraße und Eisenbahnstraße - einstimmig beschlossen
+- TOP 7.11: Friedrich-Ebert-Straße - Verstetigung des Verkehrsversuches Bussonderfahrstreifen mit Kfz-Parken - einstimmig beschlossen
+- TOP 7.12: Hammer Straße - Wiedereinrichtung der Busspur zwischen Grevingstraße und Münstermannweg - einstimmig beschlossen
+- TOP 7.13: ÖPNV Weseler Straße: Optimierung des Busbetriebs durch Vernetzung von Lichtsignalanlagen und Aufbau einer modernen ÖPNV-Infrastruktur-Kommunikation via C-ITS - einstimmig beschlossen
+- TOP 7.14: Grevener Straße (Yorkring bis Kristiansandstraße) - einstimmig beschlossen
+- TOP 7.15: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - einstimmig beschlossen
+- TOP 7.16: Errichtungsbeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs sowie Umzug des Teilstandortes - einstimmig beschlossen
+- TOP 7.17: Erweiterung Annette-von-Droste-Hülshoff-Gymnasium G8/G9 und Neubau Sporthalle - einstimmig beschlossen
+- TOP 7.18: Erweiterung des Pascal-Gymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der festgelegten Zügigkeit - einstimmig beschlossen
+- TOP 7.19: Erhöhung der Zügigkeit der Erich-Klausener-Schule, städtische Realschule, auf 4-Züge - einstimmig beschlossen
+- TOP 7.20: Überleitung der außerunterrichtlichen Angebote (OGS) der Mauritzschule - einstimmig beschlossen
+- TOP 7.21: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kita für die Regenbogenkinder e.V. am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 7.22: Neubau und Erweiterung der katholischen Kindertageseinrichtung St. Antonius am Antoniuskirchplatz - einstimmig beschlossen
+- TOP 7.23: Schillergymnasium - Baubeschluss - von der Tagesordnung abgesetzt
+- TOP 7.24: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen - einstimmig beschlossen
+- TOP 8: Anregungen/Anträge und Anfragen
+- TOP 8.1: Stadtfreundliche Lieferverkehre ermöglichen, nachhaltige Unternehmen stärken - einstimmig beschlossen
+- TOP 8.2: Autoarme Altstadt - Zeitnahe Umsetzung voranbringen - einstimmig beschlossen
+- TOP 9: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 10: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 11: Verschiedenes
