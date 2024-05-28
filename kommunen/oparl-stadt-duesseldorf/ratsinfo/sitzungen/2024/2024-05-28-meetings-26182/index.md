@@ -1,0 +1,56 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-05-28T17:00:00+02:00
+- Ende: 2024-05-28T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26182
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26182
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520934.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520934.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00520934.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 30. April 2024 - öffentlicher Teil - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Kittelbach-Renaturierung Niederrheinstraße - Mündung (W-0002000000) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 6: Zuschuss an den Angermunder Tennisclub e.V. - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 (Liste B), Aquazoo Löbbecke Museum, Ausbesserungs- und Verschönerungsarbeiten - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 8: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 9: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - vertagt
+- TOP 10: Wieso wird das Unkraut, das die zweigeteilte obere Hochwasserschutz Mauer sprengt, nicht komplett und richtig entfernt und was hat der im Februar 2024 erneut angekündigte Drohnen Flug ergeben? - beantwortet
+- TOP 11: Absperrgitter auf der Einbrunger Straße - Ecke Heinrich-Holtschneider-Weg - beantwortet
+- TOP 12: Planungsstand RRX zum S-Bahnhof Angermund (Parkplätze) - vertagt
+- TOP 13: Kaiserswerther Markt: Warum antwortet die Verwaltung innerhalb eines Jahres nicht auf Fragen der BV5? - vertagt
+- TOP 14: Graf-Engelbert-Straße: Gehweg nutzbar machen! - vertagt
+- TOP 15: Ausbau des Fahrradweges auf der Kalkumer Schlossallee - vertagt
+- TOP 16: Sicherheit für alle Verkehrsteilnehmer auf dem Fuß- und Radweg an der Straße "Am Roten Haus" - vertagt
+- TOP 17: Radweg Kalkumer Schlossallee - Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - 3.0 - vertagt
+- TOP 18: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP -: Neue Anfragen
+- TOP 19: Spielplätze in Wittlaer-Einbrungen - beantwortet
+- TOP 20: Fahrrad-Pendlerverkehr zwischen Duisburg und Düsseldorf - vertagt
+- TOP 21: Warum sind so viele Gaslaternen im Gebiet der BV 5 gar nicht mehr funktionsfähig? - beantwortet
+- TOP 22: Notwendige Erhöhung der Unkrautbeseitigung am Kaiserswerther Markt ab dem Jahre 2024 - vertagt
+- TOP 23: Prüfantrag, ob solarbetriebene Mülltonnen beleuchtet sein können und mit einem Solarmodul aufgestellt werden können? - beantwortet
+- TOP 24: Unzureichende Beteiligung der Bezirksvertretung beim Vorbescheid Am Mühlenkamp 15 - beantwortet
+- TOP 25: Nutzung der Ausweichbahn 05L/23R - beantwortet
+- TOP 26: Umsetzungsdefizite beim Lärmschutzprogramm des Flughafens - beantwortet
+- TOP -: Anträge
+- TOP 27: Temporäre Straßensperrung an der Montessori Grundschule am Farnweg - abweichend beschlossen
+- TOP 28: Wasserwerksweg - Die Fahrbahndecke nachhaltig ausbessern oder sanieren - mehrheitlich beschlossen
+- TOP 29: Wohnungen für Feuerwehrleute in Kaiserswerth sicherstellen - Zusagen einhalten - Wohnraum zügig schaffen! - mehrheitlich abgelehnt
+- TOP 30: Unterführung am Dreiecksparkplatz neu und freundlich gestalten! Ergebnis der Befragung von Kindern und Jugendlichen (Jugend checkt) - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Verschiedenes
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Bebauungsplan-Vorentwurf Nr. 05/005 - Dreiecksparkplatz - Weiteres Vorgehen - Empfehlung einstimmig beschlossen
