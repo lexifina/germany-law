@@ -26,4 +26,18 @@ Bundes und parlamentarische Kontrolle
 - [§ 6 Sammelschuldbuchforderungen](0006.md)
 - [§ 7 Einzelschuldbuchforderungen](0007.md)
 - [§ 8 Öffentlicher Glaube des Bundesschuldbuchs](0008.md)
-- [§ 9 (weggefallen)](0009.md)
+
+## Teil 3 Sicherungsmaßnahmen zum Compliance-Management
+
+- [§ 9 Sicherungsmaßnahmen](0009.md)
+- [§ 10 Verarbeitung personenbezogener Daten durch die Bundesrepublik Deutschland – Finanzagentur GmbH](0010.md)
+- [§ 11 Durchführung durch Dritte](0011.md)
+- [§ 12 Private Finanzgeschäfte der Beschäftigten der Bundesrepublik Deutschland – Finanzagentur GmbH](0012.md)
+- [§ 13 Speicherung und Verarbeitung personenbezogener Daten](0013.md)
+- [§ 14 Allgemeine Sorgfaltspflichten](0014.md)
+- [§ 15 Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung](0015.md)
+- [§ 16 Überprüfung von Angaben zum Zweck der Identifizierung](0016.md)
+- [§ 17 Erfüllung der Sorgfaltspflichten durch Dritte](0017.md)
+- [§ 18 Besondere Aufzeichnungspflichten](0018.md)
+- [§ 19 Aufzeichnungs- und Aufbewahrungspflicht](0019.md)
+- [§ 20 Freistellung von der Verantwortlichkeit](0020.md)

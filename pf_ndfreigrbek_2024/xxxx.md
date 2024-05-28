@@ -7,7 +7,7 @@ Auf Grund des § 850c Absatz 4 Satz 1 der Zivilprozessordnung in der Fassung der
     Nummer 2 von 322,72 auf 343,31 Euro wöchentlich,
     Nummer 3 von 64,54 auf 68,66 Euro täglich,
   b) in Absatz 2 Satz 1
-    Nummer 1 von 527,76 auf 560,90 Euro monatlich,
+    Nummer 1 von 527,76 auf 561,43 Euro monatlich,
     Nummer 2 von 121,46 auf 129,21 Euro wöchentlich,
     Nummer 3 von 24,29 auf 25,84 Euro täglich,
   c) in Absatz 2 Satz 2
