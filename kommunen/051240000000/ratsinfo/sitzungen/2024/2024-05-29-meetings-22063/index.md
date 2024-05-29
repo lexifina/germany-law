@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld-West
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-05-29T18:00:00+02:00
+- Ende: 2024-05-29T20:26:00+02:00
+- Ort: Caritas-Altenzentrum Paul-Hanisch-Haus, Stockmannsmühle 23, 42115 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/40
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22063
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22063
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00329557.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00332500.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Bezirksbürgermeisterin
+- TOP 2: Bericht aus dem Wuppertaler Jugendrat
+- TOP 3: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 4: Offene Bürger*innen-Sprechzeit
+- TOP 5: Bericht über die Planungen zur BUGA 2031
+- TOP 6: Bebauungsplan 1294 - BUGA 2 / Hängebrücke - - ungeändert beschlossen
+- TOP 7: Flächennutzungsplanänderung 166 - ungeändert beschlossen
+- TOP 8: Grundlagenermittlung und Vorplanung für einen Radwegering vor dem Hintergrund der Bundesgartenschau 2031 - ungeändert beschlossen
+- TOP 9: Fraktionsanträge
+- TOP 9.1: Die BUGA 2031 absagen - abgelehnt
+- TOP 9.2: Waffenstillstand in Palästina - Israel jetzt
+- TOP 10: Maßnahmenkonzept gesamtstädtisches Mobilitätskonzept - ungeändert beschlossen
+- TOP 11: Handlungsprogramm Gewerbeflächen - Fortschreibung 2024 - ungeändert beschlossen
+- TOP 12: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen - ungeändert beschlossen
+- TOP 13: Informationen zum digitalisierten Straßenhierarchieplan - Entgegennahme ohne Beschluss
+- TOP 14: Stadtentwässerung - Maßnahmenkatalog 2025/Katalogentwurf 2026 - ungeändert beschlossen
+- TOP 15: Sicherung des Hanges an der Friedrich-Ebert-Straße - 2. und 3. Bauabschnitt - ungeändert beschlossen
+- TOP 16: Neugestaltung und Sanierung von Spiel- und Bolzplätzen 2024 - ungeändert beschlossen
+- TOP 17: Grundschule Nützenberger Straße - Verbesserung Schulwegsicherheit - ungeändert beschlossen
+- TOP 18: Temporäre Aufstellung eines Parklets auf einer öffentlichen Parkfläche im Bereich Simonsstr./Fröbelstr. - ungeändert beschlossen
+- TOP 19: Antrag auf Erteilung einer Sondernutzungserlaubnis zur Aufstellung von Entsorgungscontainern durch die AWG - hier: Benrather Straße - ungeändert beschlossen
+- TOP 20: Fahrradstraße Rutenbecker Weg - ungeändert beschlossen
+- TOP 21: Radabstellanlage Milchstraße - ungeändert beschlossen
+- TOP 22: Radabstellanlage Masurenstraße - ungeändert beschlossen
+- TOP 23: Radabstellanlage Bärenstraße - ungeändert beschlossen
+- TOP 24: Radabstellanlage Simonsstraße - vertagen
+- TOP 25: Radabstellanlage Arrenberger Straße - ungeändert beschlossen
+- TOP 26: Radabstellanlagen Arrenberg - nicht umsetzbare Standorte - Entgegennahme ohne Beschluss
+- TOP 27: Gewährung von freien Mitteln
+- TOP 27.1: - Antrag der Sophienschule auf Gewährung freier Mittel zur Durchführung des Präventionsprojektes Mein Körper gehört mir"
+- TOP 27.2: - Antrag des Vereins Fahrradstadt Wuppertal e.V. auf Gewährung freier Mittel zur Reparatur des Lastenpedelecs Fienchen II und anderer im Bezirk Elberfeld-West stationierter
+- TOP 27.3: - Antrag der Ev. Kirchengemeinde Wuppertal-Sonnborn (Jugendzentrum) auf Gewährung freier Mittel zur Durchführung eines Ausflugs in den Sommerferien
+- TOP 28: Gewährung von GFG-Mitteln
+- TOP 28.1: Beleuchtung des Fußwegs Garterlaie - Am Thurn - ungeändert beschlossen
+- TOP 28.2: Neuanschaffung einer Schaukel für den Kinderspielplatz Stockmannsmühle - ungeändert beschlossen
+- TOP 28.3: Antrag der Bürgerinitiative Trassentauben Wuppertal auf Gewährung von GFG-Mitteln für den Bau und Betrieb eines Taubenhauses an der Nordbahntrasse
+- TOP 28.4: Installation einer überdachten Fahrradabstellanlage am Robert-Daum-Platz - ungeändert beschlossen
+- TOP 28.5: Anschaffung einer weiteren Bank für den Bereich des Nützenbergparks - Verwendung von Restmitteln
