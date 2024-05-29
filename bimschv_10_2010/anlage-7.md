@@ -1,4 +1,4 @@
-# Anlage 7 (zu § 13 Absatz 1 Satz 1 Nummer 5)Zeichen Ethanolkraftstoff
+# Anlage 7 (zu § 13 Absatz 1 Satz 1 Nummer 5)Zeichen Paraffinischer Diesel XTL
 
 |  |  |
 | Teil a | Teil b |

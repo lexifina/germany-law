@@ -86,8 +86,11 @@
 - [§ 14d Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung](0014d.md)
 - [§ 14e Gemeinsame Internetplattform; Festlegungskompetenz](0014e.md)
 - [§ 15 Aufgaben der Betreiber von Fernleitungsnetzen](0015.md)
-- [§ 15a Netzentwicklungsplan der Fernleitungsnetzbetreiber](0015a.md)
-- [§ 15b Umsetzungsbericht der Fernleitungsnetzbetreiber](0015b.md)
+- [§ 15a Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz](0015a.md)
+- [§ 15b Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz](0015b.md)
+- [§ 15c Erstellung des Netzentwicklungsplans Gas und Wasserstoff](0015c.md)
+- [§ 15d Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde](0015d.md)
+- [§ 15e Herausgabe von Daten](0015e.md)
 - [§ 16 Systemverantwortung der Betreiber von Fernleitungsnetzen](0016.md)
 - [§ 16a Aufgaben der Betreiber von Gasverteilernetzen](0016a.md)
 
@@ -154,14 +157,15 @@
 - [§ 28k Rechnungslegung und Buchführung](0028k.md)
 - [§ 28l Ordnungsgeldvorschriften](0028l.md)
 - [§ 28m Entflechtung](0028m.md)
-- [§ 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung](0028n.md)
+- [§ 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz](0028n.md)
 - [§ 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung](0028o.md)
 - [§ 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen](0028p.md)
-- [§ 28q Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff](0028q.md)
+- [§ 28q Wasserstoff-Kernnetz](0028q.md)
 
 ### Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz
 
-- [§ 28r Wasserstoff-Kernnetz](0028r.md)
+- [§ 28r Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz](0028r.md)
+- [§ 28s Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber](0028s.md)
 
 ### Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen
 
@@ -386,7 +390,7 @@
 - [§ 112b Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung](0112b.md)
 - [§ 113 Laufende Wegenutzungsverträge](0113.md)
 - [§ 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen](0113a.md)
-- [§ 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber](0113b.md)
+- [§ 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff](0113b.md)
 - [§ 113c Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben](0113c.md)
 - [§ 114 Wirksamwerden der Entflechtungsbestimmungen](0114.md)
 - [§ 115 Bestehende Verträge](0115.md)

@@ -84,8 +84,11 @@
 | § 14d | Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung |
 | § 14e | Gemeinsame Internetplattform; Festlegungskompetenz |
 | § 15 | Aufgaben der Betreiber von Fernleitungsnetzen |
-| § 15a | Netzentwicklungsplan der Fernleitungsnetzbetreiber |
-| § 15b | Umsetzungsbericht der Fernleitungsnetzbetreiber |
+| § 15a | Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz |
+| § 15b | Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz |
+| § 15c | Erstellung des Netzentwicklungsplans Gas und Wasserstoff |
+| § 15d | Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde |
+| § 15e | Herausgabe von Daten |
 | § 16 | Systemverantwortung der Betreiber von Fernleitungsnetzen |
 | § 16a | Aufgaben der Betreiber von Gasverteilernetzen |
 |  |
@@ -152,14 +155,15 @@
 | § 28k | Rechnungslegung und Buchführung |
 | § 28l | Ordnungsgeldvorschriften |
 | § 28m | Entflechtung |
-| § 28n | Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung |
+| § 28n | Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz |
 | § 28o | Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung |
 | § 28p | Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen |
-| § 28q | Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff |
+| § 28q | Wasserstoff-Kernnetz |
 |  |  |
 | Abschnitt 3c |
 | Regelungen zum Wasserstoff-Kernnetz |
-| § 28r | Wasserstoff-Kernnetz |
+| § 28r | Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz |
+| § 28s | Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber |
 |  |  |
 | Abschnitt 4 |
 | Befugnisse der Regulierungsbehörde, Sanktionen |
@@ -384,7 +388,7 @@
 | § 112b | Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung |
 | § 113 | Laufende Wegenutzungsverträge |
 | § 113a | Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen |
-| § 113b | Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber |
+| § 113b | Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff |
 | § 113c | Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben |
 | § 114 | Wirksamwerden der Entflechtungsbestimmungen |
 | § 115 | Bestehende Verträge |

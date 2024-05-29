@@ -32,7 +32,7 @@
 |  | § 12 | Gruppenauskunft |
 |  | § 13 | Aufzeichnungspflicht bei Datenübermittlung |
 |  | § 14 | Datenübermittlung an alle öffentlichen Stellen |
-|  | § 15 | Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz |
+|  | § 15 | Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz |
 |  | § 15a | Automatisierte Datenübermittlung an Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge |
 |  | § 16 | Datenübermittlung an Gerichte |
 |  | § 17 | Datenübermittlung an das Zollkriminalamt |
@@ -60,6 +60,7 @@
 |  | Datenübermittlung an nichtöffentliche Stellen, Behörden anderer Staaten und über- oder zwischenstaatliche Stellen |
 |  | § 25 | Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen |
 |  | § 26 | Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen |
+|  | § 26a | Datenübermittlung an die Europäische Kommission nach Artikel 27 der Richtlinie 2001/55/EG |
 |  | § 27 | Datenübermittlung an sonstige nichtöffentliche Stellen |
 |  |
 | Kapitel 3 |
