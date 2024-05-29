@@ -1,0 +1,26 @@
+# Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 172/2024 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-05-29
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXMgm5p4Sf-nyDplQ0GzkKY
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17365
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Lückenschluss Fahrradverbindung Eschweg-Innenstadt Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQLjDeg8FRdztyC00CgO8mkaauNgpZbTs_M-NgWGjZhA/Beschlussvorlage_172-2024_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 - Variante 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdmBPVSvYQwIejoAoF0-MYaPk_1O1vMMHaDwOKFlvy2u/Anlage_1_-_Variante_1.pdf
+- Anlage: Beschlussvorlage (Anlage 2 - Vorplanung Variante 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQFapucRzmJlTqFs44h3sMJ4YQzZ-0Lkm3r4g3N1nTyT/Anlage_2_-_Vorplanung_Variante_1.pdf
+- Anlage: Beschlussvorlage (Anlage 3 - Vorplanung Variante 1) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2k0piTTcoIK6EeWLZShnHysg3TyxnLooK6Bg8OadjA/Anlage_3_-_Vorplanung_Variante_1.pdf
+- Anlage: Beschlussvorlage (Anlage 4 - Variante 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWufQju5PLQ8RccgNNLBJCy9pm9FsmL3EMiRLK9d0_zg/Anlage_4_-_Variante_2.pdf
+- Anlage: Beschlussvorlage (Anlage 5 - Vorplanung Variante 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXlfsQQ0aEEvBvRfun_0buYXvxSAH8i72cWYMkzlWEbh/Anlage_5_-_Vorplanung_Variante_2.pdf
+- Anlage: Beschlussvorlage (Anlage 6 - Vorplanung Variante 2) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-N8vhRk_4VUdsU14w3LsequvwPulPsicXqMIarTwEQ/Anlage_6_-_Vorplanung_Variante_2.pdf
+- Anlage: Beschlussvorlage (Anlage 7 - Varinate 3) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRfyDrzGs29AvtUwCnznn3I5wcSqG2Pmh2AlPz00wj1Q/Anlage_7_-_Varinate_3.pdf
+- Anlage: Beschlussvorlage (Anlage 8 - Verkehrszählung Park Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZpG5VOSuRZzvUS6XrBQWfTnIp56EIA_7e6jVX-qpP0_/Anlage_8_-_Verkehrszaehlung_Park_Gronau.pdf
+- Anlage: Beschlussvorlage (Anlage 9 - Stellungnahme Fahrradbeauftragter) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTiAozWc8wZxFLEDK01MxOFbBo-H9LEXMMH007MvoCJP/Anlage_9_-_Stellungnahme_Fahrradbeauftragter.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 6 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTRcTRg-swWZF9drEVIg_QFlUObAqmuzIhofsBvjN1_c/Anlage_TOP_6_-_Auszug_MUK.pdf
+- Anlage: Beschlussvorlage (Anlage 10 - Variantenvergleich) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX1BdJSHYSQyf2Gjm_e83GcXKXOkFHyOEN6gR8J84vHH/Anlage_10_-_Variantenvergleich.pdf
+- Anlage: Beschlussvorlage (Anlage 11 - Variante 3a) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR7qZSLPugg3v5m-aB954fKKCapdBpr_WRFw9KqZSCx6/Anlage_11_-_Variante_3a.pdf
+- Anlage: Beschlussvorlage (Anlage 12 - Variante 4a) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSERpGE2pOPgOAt9ipKVAiG8t9-VrJ35Kt9lK1xj7DkB/Anlage_12_-_Variante_4a.pdf
+- Anlage: Beschlussvorlage (Anlage TOP 6 - Auszug MUK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbi0GQdRXfBN8RtQzWN7WKnPVT4ergOb-GxGiGwP1eeI/Anlage_TOP_6_-_Auszug_MUK.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5842 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-146
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5843 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
