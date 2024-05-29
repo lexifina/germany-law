@@ -1,0 +1,135 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-05-29T17:00:00+02:00
+- Ende: 2024-05-29T22:23:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5231
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5231
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Ehrenamt und Parkraumbewirtschaftung - beantwortet
+- TOP 1.2: Schulenburgpark Drogen und Säuberung an den Wochenenden - schriftlich beantwortet
+- TOP 1.3: Kontrolle der Parkraumbewirtschaftung, erste Ergebnisse - schriftlich beantwortet
+- TOP 1.4: Sanierungs- und Investitionsbedarfe Fritz-Karsen-Schule - beantwortet
+- TOP 1.5: Nachfragen Notfallplan Grundstufengebäudes - beantwortet
+- TOP 2: Aktuelle halbe Stunde "Haushaltswahrheit - Haushaltsklarheit" - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 1365/XXI - Trilaterale Zielvereinbarung nach §48b SGB II-2024 - erledigt
+- TOP 3.2: 1366/XXI - Neukölln lässt sich nicht einschüchtern! - ohne Änderungen in der BVV beschlossen
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - erledigt
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Gute Kitas für Neukölln: Entlastung jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Solidarität mit Schwarz-Rot-Gold: Das Zeigen der Nationalfarben verdient Anerkennung und Respekt - in der BVV abgelehnt
+- TOP 6.3: Neukölln lässt sich nicht einschüchtern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Trilaterale Zielvereinbarung nach §48b SGB II-2024 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Aufhebung der Veränderungssperre 8-113/37 für das Grundstück Zeitzer Straße 6 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-113 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl von Mitgliedern des Ehrenamtlichen Dienstes in Sozialkommissionen bzw. Sondersozialkommissionen - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Schrankenzäune Schierker Straße - nur Deko oder kommen die auch mal weg? - beantwortet
+- TOP 10.2: Volkshochschule ohne Angebot in Neukölln? - beantwortet
+- TOP 10.3: Wie ist der Stand der Inbetriebnahme des Schulneubaus des Leonardo-da-Vinci-Gymnasiums? - beantwortet
+- TOP 10.4: Drastischer Abbau von Schulplätzen an Neuköllner Grundschulen - schriftlich beantwortet
+- TOP 10.5: Vom Regen in die Traufe? - beantwortet
+- TOP 10.6: Aktivitäten für die Weiße Siedlung - beantwortet
+- TOP 10.7: Maientage auf dem Vorfeld - Stand der Umsetzung - beantwortet
+- TOP 10.8: Neuer Stand beim Leerstand im Wohnpark St. Marien - schriftlich beantwortet
+- TOP 10.9: Bauvorhaben ehemaliges BLUB-Gelände - schriftlich beantwortet
+- TOP 10.10: Tiny Houses / Safe Places / Little Homes - nur Phantome oder Obdach für Bedürftige? - schriftlich beantwortet
+- TOP 10.11: Vertragsverlängerungen der freien Lehrkräfte an der Neuköllner Musikschule und der VHS - beantwortet
+- TOP 10.12: Verkauf von Lachgas an Minderjährige - schriftlich beantwortet
+- TOP 10.13: Vereine finden Neuköllner Sporthallen teilweise in unzumutbarem Zustand vor - schriftlich beantwortet
+- TOP 10.14: Antisemitische und israelfeindliche Propaganda an den Neuköllner Schulen - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Zebrastreifen Kreuzung Teupitzer Straße Ecke Kiehlufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Teupe-Standort für wohnungslose Menschen sichern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Umnutzung der „Clan Villa“ zur Bibliothek für alle Neuköllner - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Lückenschluss Asphaltierung zwischen den U-Bahnhöfen Lipschitzallee und Wutzkyallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Herta-/Benda-/Ringbahnstraße - Kreuzung sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Träger der Jugendhilfe gleichstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Überquerung Rufacher Weg auf Höhe Fläzsteinpfad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Ein Spielstraßenmobil für Neukölln! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Außerschulische Bildungsstätte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Kinder- und Jugend - Ehrenamtsauszeichnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Kita-Belegungsrechte für benachteiligte Kinder sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.8: Finanzierung der Träger in der Kinder- und Jugendhilfe sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.9: Schulwegsicherheit Hermann-Nohl-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.10: Gesundheitskollektiv weiterhin fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.11: Unabhängige Beschwerdestelle für von Wohnungslosigkeit betroffene Personen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.12: Armutsbeauftragte/r auf Landesebene - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.13: Unfallschwerpunkt Schönefelder Straße / Ecke Neuhofer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.14: Nutzung des § 5 Wirtschaftsstrafrecht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.15: Buckow weiterhin anbinden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Freie Träger auch weiterhin von den Betriebskosten befreien - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Warum unterstützt das Bezirksamt die Geschichtsverfälschungen der Broschüre Mythos#Israel 1948? - beantwortet
+- TOP 13.3: Entstandene Kosten infolge der Räumung der "R. Villa" in Alt-Buckow - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Zugang zu Häusern im Löwensteinring besser ausleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sicherheit am Europaspielplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Gemeinsam gegen Sexismus im Bezirk! - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Toilettennutzung auf städtischen Friedhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Maßnahmen gegen illegale Werbung von Autohändlern an parkenden Autos im öffentlichen Raum - in der BVV abgelehnt
+- TOP 14.6: Die Fußball-Europameisterschaft 2024 mit und für Neukölln zum Erfolg machen - in der BVV abgelehnt
+- TOP 14.7: Neukölln kann Hermannplatz: Entwicklung des zentralen Neuköllner Platzes wieder dem Bezirk übertragen - in der BVV abgelehnt
+- TOP 14.8: Bezirkszentralbibliothek im ehemaligen C&A-Gebäude - in der BVV abgelehnt
+- TOP 14.9: Zukunftsfeste und bedarfsgerechte Musikschule - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Plauderbänke gegen Einsamkeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Fahrradbügel am U-Bahnhof Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Bahnschienen Kanalstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Trinkwasserspender an/in öffentlichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Neue Wege zur Energieeinsparung in der Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Gedenken an Hatun Sürücü 07.02.2025 - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Grünschutz auf der Sonnenallee - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Rollheimer unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Obdachlosigkeit von Frauen wirksam im Bezirk Neukölln verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Evas Obdach ohne Obdach in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Räumungstitel und Zwangsräumungen erfassen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Asbestbelasteter Supermarkt an der Jugendeinrichtung „Blockpark 447“ - beantwortet
+- TOP 15.2: Schließung der Kita Paster-Behrens-Straße - beantwortet
+- TOP 15.3: Verschleppt das Bezirksamt den Klimaschutz in Neukölln? - vertagt
+- TOP 15.4: Neuköllner Freibäder im Sommer - vertagt
+- TOP 15.5: (K)Eine Zukunft für die Jugendkunstschule Young Arts in der Donaustraße? - vertagt
+- TOP 15.6: Hat das Bezirksamt einen Plan, um den massiven Raummangel an der Fritz-Karsen-Schule anzugehen? - vertagt
+- TOP 16: Große Anfragen - schriftlich - (offen)
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Verkehrszeichen auf Mittelstreifen Karl-Marx-Straße - überwiesen
+- TOP 17.2: Weiße Siedlung: Mängel beseitigen, Eigentümerin in die Pflicht nehmen, Mieter:innen entlasten - überwiesen
+- TOP 17.3: Information zu Hitzeschutz und Hitzevorsorge in Neukölln - überwiesen
+- TOP 17.4: Maientage in 2025 wiederbeleben - überwiesen
+- TOP 17.5: Austausch Hinweisschild „Oyoun“ Kreuzung Hermannplatz/Hasenheide - überwiesen
+- TOP 17.6: Grünanlage am Ibisweg aufwerten - überwiesen
+- TOP 17.7: Förderzentrum Neukölln - überwiesen
+- TOP 17.8: Schließfächer für obdachlose Menschen - überwiesen
+- TOP 17.9: Milieuschutz für die Weiße Siedlung - überwiesen
+- TOP 17.10: Grünanlage am Denkmal von Burak Bektas aufwerten - überwiesen
+- TOP 17.11: Schließfächer für das Hab und Gut von obdachlosen Menschen - überwiesen
+- TOP 17.12: Feierlichkeiten 650 Jahre Britz - überwiesen
+- TOP 17.13: Mensa-Ausbau bedarfsorientiert beschleunigen: Mensaentwicklungsplan für Neukölln - überwiesen
+- TOP 17.14: Klimaschutz in Neukölln ernst nehmen – Beschlüsse einhalten! - überwiesen
+- TOP 17.15: Taxistand am Rathaus Neukölln - überwiesen
+- TOP 17.16: Kameraüberwachung der kriminalitätsbelasteten Orte (kbO) in Neukölln - überwiesen
+- TOP 17.17: 70 Jahre Jumelage - überwiesen
+- TOP 17.18: Ersatzfläche für Nutzer*innen BVG Werk-Erweiterung - überwiesen
+- TOP 17.19: Schulentwicklungsplanung für Neukölln vorlegen - überwiesen
+- TOP 17.20: Maientage 2025! Neukölln möchte Zuckerwatte und Geisterbahn - überwiesen
+- TOP 17.21: Fuß- und Fahrradfreundliche Silbersteinstraße - überwiesen
+- TOP 17.22: Die Hasenheide: heute entscheiden - an morgen denken - überwiesen
+- TOP 17.23: Rollkunstlauf soll weiterhin in der Oderhalle angeboten werden - überwiesen
+- TOP 17.24: Austausch der maroden Bänke auf dem Sportplatz Britz-Süd - überwiesen
+- TOP 17.25: Mobilitätspunkt U Parchimer Allee - überwiesen
+- TOP 17.26: Sportplatz Britz-Süd Bewässerungssysteme prüfen - überwiesen
+- TOP 17.27: Einstellung des B-Plan-Verfahrens für den Karstadt Hermannplatz - in der BVV abgelehnt
