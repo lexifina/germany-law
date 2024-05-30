@@ -32,11 +32,15 @@ Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verke
 e)
 RL Lastenfahrrad vom 29. Januar 2021 (SächsABl. S. 195), in der jeweils geltenden Fassung,
 f)
-Billigkeitsleistungen nach der RL Corona-Billigkeitsleistungen ÖPNV vom 15. September 2020 (SächsABl. SDr. S. S 390), die durch die Richtlinie vom 18. Dezember 2020 (SächsABl. 2021 S. 25) geändert worden ist, in der jeweils geltenden Fassung, und sonstige Billigkeitsleistungen nach § 53 der Sächsischen Haushaltsordnung im öffentlichen Personennahverkehr und
+Billigkeitsleistungen nach der RL Corona-Billigkeitsleistungen ÖPNV vom 15. September 2020 (SächsABl. SDr. S. S 390), die durch die Richtlinie vom 18. Dezember 2020 (SächsABl. 2021 S. 25) geändert worden ist, in der jeweils geltenden Fassung, und sonstige Billigkeitsleistungen nach § 53 der Sächsischen Haushaltsordnung im öffentlichen Personennahverkehr,
 g)
-Förderung von Maßnahmen zur Verbesserung des Rad- und Fußverkehrs, die nicht unter Buchstabe b fallen, einschließlich der Förderung von Vereinen zur Förderung des Rad- und Fußverkehrs.
+Förderung von Maßnahmen zur Verbesserung des Rad- und Fußverkehrs, die nicht unter Buchstabe b fallen, einschließlich der Förderung von Vereinen zur Förderung des Rad- und Fußverkehrs und
+h)
+RL Mobilität EFRE/JTF 2021 bis 2027 vom 28. März 2024 (SächsABl. S. 419), in der jeweils geltenden Fassung.
 4. Die VDI/VDE Innovation + Technik GmbH ist für die Durchführung folgender Fördermaßnahmen zuständig:
 a)
-Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des Gemeinsamen Unternehmens ECSEL (Electronic Components and Systems for European Leadership) und
+Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des Gemeinsamen Unternehmens ECSEL (Electronic Components and Systems for European Leadership),
 b)
-Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des EUREKA-Clusters „Pan European Partnership in Micro- and Nano-Technologies and Applications“ (PENTA).
+Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des EUREKA-Clusters „Pan European Partnership in Micro- and Nano-Technologies and Applications“ (PENTA) und
+c)
+Förderung sächsischer Projektteile gemeinsam mit dem Bundesministerium für Bildung und Forschung im Rahmen des Gemeinsamen Unternehmens für Chips.
