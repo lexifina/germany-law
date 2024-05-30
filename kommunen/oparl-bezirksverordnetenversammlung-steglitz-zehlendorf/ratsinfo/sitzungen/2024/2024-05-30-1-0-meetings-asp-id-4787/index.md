@@ -1,0 +1,66 @@
+# 20. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-05-30T17:30:00+02:00
+- Ende: 2024-05-30T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4787
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4787
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Lebendiger Kranold-Markt-Platz - vertagt
+- TOP 2.2: Kranoldmarkt erhalten - vertagt
+- TOP 3: Genehmigung des Protokolls vom 25.04.2024 - erledigt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Anträge - erledigt
+- TOP 5.1: Schulwegsicherheit Clemens-Brentano-Grundschule - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.2: Baustellenkoordinierung - Störungen für Verkehr, Radfahrer und Fußgänger minimieren - vertagt
+- TOP 5.3: Gesellschaftliches Klima retten - Bürgerinnen und Bürger einbeziehen! - vertagt
+- TOP 5.4: Zebrastreifen von der Dreilinden-Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 5.5: Zebrastreifen Leo-Baeck-Straße – Sicherheit erhöhen für Grundschüler der Schweizerhof-Grundschule und Parkbesucher - mit Änderungen im Ausschuss beschlossen
+- TOP 5.6: Instandsetzung Prausestraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.7: Fußgängerüberweg Mühlenstraße/Jänickestraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.8: Schwerpunktkontrollen von Radfahrern - im Ausschuss abgelehnt
+- TOP 5.9: Ladezonen - mit Änderungen im Ausschuss beschlossen
+- TOP 5.10: Buslinie X11 - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.11: Nahverkehrsplan 2030 - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.12: Sensorgesteuerte Sektionsbeleuchtung Wannseebadweg - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.13: Verkehrssicherung Wannseebadweg - vertagt
+- TOP 5.14: Bezirkliche Straßenbenennungsliste fortlaufend aktualisieren - vertagt
+- TOP 5.15: Parkmöglichkeiten für Anhänger - im Ausschuss abgelehnt
+- TOP 5.16: Ladestationen für E-Bikes - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.17: Buslinie 285 - im Ausschuss abgelehnt
+- TOP 5.18: Illegalen Werbekärtchen an Pkw den Kampf ansagen! - vertagt
+- TOP 5.19: Ein Radweg für die Thielallee statt (leerer) Autoparkplätze - vertagt
+- TOP 5.20: Kunst statt grauer Betonsäulen am Breitenbachplatz - vertagt
+- TOP 5.21: Baustellenchaos am Steglitzer Kreisel nicht länger zu Lasten von Nutzer*innen des ÖPNV sowie Radfahrer*innen und Fußgänger*innen - vertagt
+- TOP 5.22: Für die Vision Zero und gegen die Wiedereinführung von Tempo 50 in der Albrechtstraße und Leonorenstraße - vertagt
+- TOP 5.23: Ohne Elterntaxis gibt's ein Gutti – Augsburg macht es vor - vertagt
+- TOP 5.24: Friedvolles miteinander: Fahrradverkehrskontrollen an Bushaltestellen durchführen - vertagt
+- TOP 5.25: Düppel-Süd bei U3 Verlängerung mitdenken - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.26: Chancen nutzen für ein Zusammenkommen am Breitenbachplatz – ein Nachbarschaftspicknick auf der gesperrten Brücke prüfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.27: Fußgängerschutz in der Clayallee - vertagt
+- TOP 5.28: Bezeichnung des U-Bahnhofes Oskar-Helene-Heim mit dem Zusatz Clayallee ergänzen - vertagt
+- TOP 5.29: Haltelinien für die Ampelanlage Albrechtstraße - vertagt
+- TOP 5.30: Zweigleisiger Ausbau der S-Bahn nach Teltow - vertagt
+- TOP 5.31: Erheblicher „Parkdruck“: Mehr Fahrradbügel für Lichterfelde-Süd - vertagt
+- TOP 5.32: Sicherere Überquerung der Haydnstraße entlang der Bäke sicherstellen - vertagt
+- TOP 5.33: Sicherer Schulweg zur Athene-Grundschule – auch für Kinder, die die Jägerndorfer Zeile überqueren müssen - vertagt
+- TOP 5.34: Parken am Teltower Damm wieder ermöglichen - vertagt
+- TOP 5.35: Weiterhin Partnerschaftsschilder des Bezirkes auch auf dem neu gestalteten Hermann-Ehlers-Platz - vertagt
+- TOP 5.36: Sicherheit an Bushaltestellen - vertagt
+- TOP 5.37: Unfallgefährdende Situation am Lerbacher Weg beenden - vertagt
+- TOP 5.38: Radwege Kohlhasenbrücker Straße zwischen Alsenbrücke und Stadtgrenze - vertagt
+- TOP 5.39: Wappen des Bezirkes auf dem neu gestalteten Hermann-Ehlers-Platz - vertagt
+- TOP 5.40: LKW-Verbot durchsetzen - vertagt
+- TOP 5.41: Parkplatzsituation an der Seniorenfreizeitstätte Süd - vertagt
+- TOP 5.42: Verkehrszählung für Hauptpendler-Routen - vertagt
+- TOP 5.43: Radverkehr am U-Bahnhof Podbielskiallee - vertagt
+- TOP 5.44: Kreuzungsbereiche sicherer gestalten - vertagt
+- TOP 6: Verschiedenes - erledigt
