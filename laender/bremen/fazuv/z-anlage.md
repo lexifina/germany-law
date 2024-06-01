@@ -25,7 +25,7 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
  |  |  | 2.6 | Besteuerung von land- und forstwirtschaftlichen Betrieben nach § 13 des Einkommensteuergesetzes
  |  |  | 2.7 | Besteuerung der Betreiber von Seeschiffen (Reeder und Bereederer)
  |  |  | 2.8 | Bearbeitung von Anträgen nach § 1a des Körperschaftsteuergesetzes
-3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
+3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
  |  |  | 3.3 | Ausstellung der Bescheinigungen für
  |  |  | 3.3.1 | die Bildung und die Änderung der Lohnsteuerabzugsmerkmale nach § 39 Absatz 2 Satz 2 des Einkommensteuergesetzes für Arbeitnehmer, die nach § 1 Absatz 2 des Einkommensteuergesetzes unbeschränkt einkommensteuerpflichtig sind, nach § 1 Absatz 3 des Einkommensteuergesetzes als unbeschränkt einkommensteuerpflichtig zu behandeln sind oder nach § 1 Absatz 4 des Einkommensteuergesetzes beschränkt einkommensteuerpflichtig sind
@@ -35,3 +35,4 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
  |  |  | 3.6 | Durchführung von Lohnsteuer-Nachschauen nach § 42g des Einkommensteuergesetzes
  |  |  | 3.7 | Abgleich der angemeldeten Beträge der Lohnsteueranmeldungen mit den bescheinigten Beträgen der Lohnsteuerbescheinigungen eines Arbeitgebers
  |  |  | 3.8 | Kassen-Nachschau nach § 146b der Abgabenordnung
+ |  |  | 3.9 | Umsatzsteuer-Nachschau nach § 27b des Umsatzsteuergesetzes
