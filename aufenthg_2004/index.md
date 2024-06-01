@@ -66,7 +66,9 @@
 - [§ 19d Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung](0019d.md)
 - [§ 19e Teilnahme am europäischen Freiwilligendienst](0019e.md)
 - [§ 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18d, 18e, 18f, 18g und 19e](0019f.md)
-- [§ 20 Arbeitsplatzsuche für Fachkräfte](0020.md)
+- [§ 20 Arbeitsplatzsuche im Anschluss an Aufenthalte im Bundesgebiet](0020.md)
+- [§ 20a Chancenkarte; Verordnungsermächtigung](0020a.md)
+- [§ 20b Punktevergabe für die Chancenkarte; Verordnungsermächtigung](0020b.md)
 - [§ 21 Selbständige Tätigkeit](0021.md)
 
 ### Abschnitt 5 Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
@@ -267,3 +269,4 @@
 - [§ 105d Ermächtigung zur vorübergehenden Ausübung von Heilkunde](0105d.md)
 - [§ 106 Einschränkung von Grundrechten](0106.md)
 - [§ 107 Stadtstaatenklausel](0107.md)
+- [Anlage (zu § 20a Absatz 3 Nummer 2, § 20b)](anlage.md)
