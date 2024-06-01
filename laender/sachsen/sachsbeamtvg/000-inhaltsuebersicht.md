@@ -121,6 +121,7 @@ Unterabschnitt 2 Hinterbliebenengeld
 Unterabschnitt 3 Weitere Bestimmungen
 § 101 Anzuwendende Vorschriften
 § 102 Erneute Berufung von auf Antrag entlassenen ehemaligen Beamtinnen und Beamten ins Beamtenverhältnis
+§ 102a Nachteilsausgleich bei Wechsel in einen Mitgliedstaat der Europäischen Union
 Abschnitt 4 Schlussvorschriften
 Unterabschnitt 1 Allgemeines
 § 103 Anwendungsbereich
