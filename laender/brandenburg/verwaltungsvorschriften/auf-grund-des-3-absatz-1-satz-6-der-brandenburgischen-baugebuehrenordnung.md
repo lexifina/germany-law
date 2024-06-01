@@ -1,28 +1,28 @@
 # Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung
 
 - Herausgeber: Land Brandenburg
-- Datum: 2023-06-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2023
+- Datum: 2024-06-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2024
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Baupreisindexzahl für 2023
+Baupreisindexzahl für 2024
 
-vom 4. April 2023
+vom 22. April 2024
 
-(ABl./23, [Nr. 16], S.399)
+(ABl./24, [Nr. 18], S.353)
 
-Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch die Verordnung vom 12. Mai 2021 (GVBl. II Nr. 50) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
+Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch Verordnung vom 12. Mai 2021 (GVBl. II Nr. 50) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
 
-Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,415.
+Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,520.
 
-Die sich daraus ergebenden fortgeschriebenen anrechen­baren Bauwerte werden in der nachstehenden Tabelle veröffentlicht.
+Die sich daraus ergebenden fortgeschriebenen anrechenbaren Bauwerte werden in der nachstehenden Tabelle veröffentlicht.
 
 Tabelle der anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt
 
-gültig ab 1. Juni 2023
+gültig ab 1. Juni 2024
 
 | 
 
@@ -37,11 +37,9 @@ Gebäudeart
 | 
 
 
-Anrechenbare Bauwerte
+Anrechenbare Bauwerte in Euro/m3
 
-in Euro/m³
-
-2023
+2024
 
 | 
 
@@ -56,7 +54,7 @@ Wohngebäude
 | 
 
 
-173
+185
 
 | 
 
@@ -71,7 +69,7 @@ Wochenendhäuser
 | 
 
 
-151
+163
 
 | 
 
@@ -86,7 +84,7 @@ Büro- und Verwaltungsgebäude, Banken und Arztpraxen
 | 
 
 
-233
+251
 
 | 
 
@@ -101,7 +99,7 @@ Schulen
 | 
 
 
-221
+237
 
 | 
 
@@ -116,7 +114,7 @@ Kindertageseinrichtungen
 | 
 
 
-198
+213
 
 | 
 
@@ -131,7 +129,7 @@ Hotels, Pensionen, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, San
 | 
 
 
-198
+213
 
 | 
 
@@ -146,7 +144,7 @@ Hotels, Wohnheime, Gebäude gemäß § 2 Absatz 4 Nummer 9 BbgBO, Sanatorien üb
 | 
 
 
-231
+248
 
 | 
 
@@ -161,7 +159,7 @@ Krankenhäuser
 | 
 
 
-258
+277
 
 | 
 
@@ -176,7 +174,7 @@ Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 
 | 
 
 
-198
+213
 
 | 
 
@@ -191,7 +189,7 @@ Hallenbäder
 | 
 
 
-214
+230
 
 | 
 
@@ -214,7 +212,7 @@ eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt-
 | 
 
 
-bis 5 000 m³ Brutto-Rauminhalt
+bis 5 000 m3 Brutto-Rauminhalt
 
 | 
 
@@ -230,7 +228,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-96
+103
 
 | 
 
@@ -243,7 +241,7 @@ Bauart schwer1)
 | 
 
 
-85
+91
 
 | 
 
@@ -256,7 +254,7 @@ sonstige Bauart
 | 
 
 
-72
+78
 
 | 
 
@@ -266,7 +264,7 @@ sonstige Bauart
 | 
 
 
-der 5 000 m³ übersteigende Brutto-Rauminhalt bis 20 000 m³
+der 5 000 m3 übersteigende Brutto-Rauminhalt bis 20 000 m3
 
 | 
 
@@ -282,7 +280,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-85
+91
 
 | 
 
@@ -295,7 +293,7 @@ Bauart schwer1)
 | 
 
 
-72
+78
 
 | 
 
@@ -308,7 +306,7 @@ sonstige Bauart
 | 
 
 
-59
+64
 
 | 
 
@@ -318,7 +316,7 @@ sonstige Bauart
 | 
 
 
-der 20 000 m³ übersteigende Brutto-Rauminhalt bis 50 000 m³
+der 20 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3
 
 | 
 
@@ -334,7 +332,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-72
+78
 
 | 
 
@@ -347,7 +345,7 @@ Bauart schwer1)
 | 
 
 
-59
+64
 
 | 
 
@@ -360,7 +358,7 @@ sonstige Bauart
 | 
 
 
-47
+50
 
 | 
 
@@ -370,7 +368,7 @@ sonstige Bauart
 | 
 
 
-der 50 000 m³ übersteigende Brutto-Rauminhalt
+der 50 000 m3 übersteigende Brutto-Rauminhalt
 
 | 
 
@@ -386,7 +384,7 @@ Bauart schwer1) und mit nicht geringen Einbauten2)
 | 
 
 
-59
+64
 
 | 
 
@@ -399,7 +397,7 @@ Bauart schwer1)
 | 
 
 
-47
+50
 
 | 
 
@@ -412,7 +410,7 @@ sonstige Bauart
 | 
 
 
-34
+36
 
 | 
 
@@ -427,7 +425,7 @@ andere eingeschossige Verkaufsstätten, Sportstätten
 | 
 
 
-130
+140
 
 | 
 
@@ -442,7 +440,7 @@ andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude
 | 
 
 
-116
+125
 
 | 
 
@@ -457,7 +455,7 @@ mehrgeschossige Verkaufsstätten
 | 
 
 
-177
+190
 
 | 
 
@@ -472,7 +470,7 @@ mehrgeschossige Fabrik-, Werkstatt- und Lagergebäude
 | 
 
 
-153
+164
 
 | 
 
@@ -487,7 +485,7 @@ eingeschossige Garagen, ausgenommen offene Kleingaragen
 | 
 
 
-127
+137
 
 | 
 
@@ -502,7 +500,7 @@ mehrgeschossige Mittel- und Großgaragen
 | 
 
 
-153
+164
 
 | 
 
@@ -517,7 +515,7 @@ Tiefgaragen
 | 
 
 
-236
+254
 
 | 
 
@@ -532,7 +530,7 @@ Schuppen, Kaltställe, Nebengebäude für Abstellräume, offene Feldscheunen, of
 | 
 
 
-61
+65
 
 | 
 
@@ -560,7 +558,7 @@ bis 1 500 m3 Brutto-Rauminhalt
 | 
 
 
-47
+50
 
 | 
 
@@ -575,31 +573,9 @@ der 1 500 m3 übersteigende Brutto-Rauminhalt
 | 
 
 
-25
+27
 
-| 
-
-
-| 
-
-
-| 
-
-
-| 
-
-
--
-
-| 
-
-
-Zuschlag für Hallenbereiche mit Kranbahnen
-
-| 
-
-
-69 €/m².
+-            Zuschlag für Hallenbereiche mit Kranbahnen                                                              74 €/m2
 
 1) Gebäude mit Tragwerken, die überwiegend in Massivbauart oder schwerem Stahlbau errichtet werden
 
