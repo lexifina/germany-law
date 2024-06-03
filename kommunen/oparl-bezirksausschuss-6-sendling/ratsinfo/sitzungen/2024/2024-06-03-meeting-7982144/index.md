@@ -1,0 +1,139 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-06-03T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982144
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982144
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Schreiben des BUND Naturschutz in Bayern e.V. – Nachverdichtung Innenhof Lindenschmitstraße 25
+- TOP 2.2.: Ruhestörung durch manipulierte Motorräder
+- TOP 2.3.: Nutzung des Fahrradweges unter der Zugbrücke durch Motorräder
+- TOP 2.4.: Zugeparkter Radfahrstreifen auf Höhe der Implerstr. 27
+- TOP 2.5.: Reinigung Herzog-Ernst-Platz
+- TOP 2.6.: WEG Aberlestraße 3-13a, München - Wassereintritt an diversen Stellen der Tiefgarage des Anwesens
+- TOP 2.7.: Fahrradfahrer auf dem Gehweg in der Aberlestr.
+- TOP 2.8.: Toilettenanlage in der Spiel- und Sportanlage am Neuhofer Berg
+- TOP 2.9.: Unbenannte Straße zwischen Esswurmstr. und Demleitnerstr. – Erhöhung der Verkehrssicherheit
+- TOP 2.10.: Gewerbeeinheit am Harras/Neubau GWG
+- TOP 2.11.: Reinigung des Quartiersplatz (Boden und Sitzbänke)
+- TOP 2.12.: Anliegen für den Bezirksausschuss: • Errichtung eines Bücherschranks • Veranstaltung eines Flohmarkts am Harras • Radweg für die Meindlstr. bis zum Harras
+- TOP 2.13.: Antrag für Parkbank in der Kochelseestraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: Wahl zum Mieterbeirat der Landeshauptstadt München
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Baumfällung auf dem Grundstück der Lindenschmitstr. 9c
+- TOP 4.2.2.: Baumfällung auf dem Grundstück der Thalkirchner Str. 141
+- TOP 4.2.3.: Antrag auf Baumveränderung oder Fällung vom 23.04.2024 auf dem Grundstück Maronstr. 2
+- TOP 4.2.4.: Nutzungsänderung eines auf einer Brücke stehenden Dampfers für einen Gastronomie- und Veranstaltungsbetrieb (Alte Utting)
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Abriss der Häuser Dietramszeller Straße 2-6
+- TOP 4.3.2.: Denkmalgeschützte Wohnanlage an der Fall-/Zechstraße – Schreiben des Denkmalnetz Bayern an das Referat für Stadtplanung und Bauordnung
+- TOP 4.3.3.: Neubau der Großmarkthalle an der Schäftlarnstraße – alle Händler auf dem derzeitigen Großmarkthallengelände kommen in diesem unter BA-Antrags-Nr. 20-26 / B 06189 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 04.12.2023 Mögliche Zukunft des Blumengroßmarkts in Sendling BA-Antrags-Nr. 20-26 / B 06342 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 05.02.2024
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Antrag zu zwei Sitzbänken in der Kyreinstr. 9 und 10 (Antrag des Seniorenbeirats)
+- TOP 4.4.2.: § 176 BauGB – eine mögliche Anwendung für das „Sendlinger Loch“? (Anfrage der SPD-Fraktion)
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Kreuzung Leipartstraße / Schöttlstraße sicher machen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Konzept für geteilte Mobilität im Stadtbezirk 6 - Sendling
+- TOP 5.2.2.: Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-) Raums Sitzungsvorlage Nr. 20-26 / V 11904
+- TOP 5.2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ganghoferstr. 126
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Vorplatzartige Fläche (große Gehwegnase) für den Kindergarten in der Karwendelstraße
+- TOP 5.3.2.: Eisenbahnunterführung Lindwurmstraße – Information über Verkehrsbeschränkungen
+- TOP 5.3.3.: Verständigungsdienst „Schäftlarnstraße" – Geschwindigkeitsbegrenzung auf 30 km/h mit Begründung Verkehrslärmschutz
+- TOP 5.3.4.: Antwortschreiben zu Bürger*innen-Anliegen "Missstände Bereich Sendling"
+- TOP 5.3.5.: Aufstellung einer neuen Sitzbank an der Ecke Valley- / Daiserstr. 50 BA-Antrags-Nr. 20-26 / B 06192
+- TOP 5.3.6.: Mängel im Stadtbezirk
+- TOP 5.3.7.: Taubenplage am U-Bahnhof Harras
+- TOP 5.3.8.: Kita-Anfahrtszone auf Höhe der Plinganser Str. 61
+- TOP 5.3.9.: Alois-Gilg-Weg; Verlängerung Haltverbot
+- TOP 5.3.10.: Implerstr. 11, 13-21 (Edeka/ Tankstelle) – Anordnung Achtungszeichen und Piktogramme
+- TOP 5.3.11.: "Aufruf zur Europawahl" am 18.05.2024 (Am Harras) - Versammlungsanzeige
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Neuordnung der Parkplätze entlang der Karwendelstraße (Bündnis 90 / Die Grünen und SPD)
+- TOP 5.4.2.: Verkürzung des linken Parkstreifens auf der Brudermühlstraße Nr 48/50 (Antrag des Seniorenbeirats)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative Gruppe "Sojus" „Aktiv, gemeinsam Natur und Kultur erleben. Unterstützung im Alltag. Integration. Vom 15.04.2024 – 28.02.2025“ 5.000,00 € / AZ: 0262.0-6-0495
+- TOP 6.1.2.: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-6-0497
+- TOP 6.1.3.: (E) Stadtbezirksbudget Sendlinger Kulturschmiede e.V. „Sommer-Feier-Abend“ der Sendlinger Kulturschmiede in der Daiserstraße am 27.07.2024“ 4.075,00 € / AZ: 0262.0-6-0499
+- TOP 6.1.4.: (E) Stadtbezirksbudget Stemmerhof Management GmbH & Co KG „Sendlinger Hof- und Bürgerfest am 03.08.2024, Ausweichtermin am 10.08.2024“ 3.500,00 € / AZ: 0262.0-6-0496
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Errichtung eines Hauses für Kinder mit 2 Krippen und 2 Kindergartengruppen an der Hans-Klein-Str. 9
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Veranstaltung in Grünanlagen/Privatgrund: Musiktheater Münchener Biennale (KulturR) in den Isarauen und im Gasteig HP8 (Saal X) am 02.+09.06.2024 (Proben: 30.05.-02.06.); TERMIN: 23.05.2024
+- TOP 8.2.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Konzert "Sommerabend am Sendlinger Kirchplatz" am Sendlinger Kirchplatz/Ecke Kidlerstr. am 29.06.2024
+- TOP 8.2.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Straßenfest "Sommerfeierabend Daiserstraße" in der Daiserstr. (zwischen Alramstr. und Oberländerstr.) am 27.07.2024
+- TOP 8.2.4.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte „beirutbeirut“
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Hockey-Club-Wacker e.V. München Neubau eines zweiten Hockey-Kunstrasenplatzes Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München Stadtbezirk 6 - Sendling
+- TOP 8.3.2.: Lasst uns mal ran! – Antragsschluss für Projektanträge am 10.06.2024
+- TOP 8.3.3.: Schlussbericht Oktoberfest 2023
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Besuch des BA 6 – Sendling zum Oktoberfest 2024
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV – nächtliches Mähen des Straßenbegleitgrüns
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.14.: Vorschlag: Plauderbänke für Sendling
+- TOP 2.15.: Sanierung des Flaucherstegs
+- TOP 5.3.12.: Tauben am U-Bahnhof und S-Bahnhof Harras
+- TOP 5.3.13.: Arbeiten im Straßenraum; Oberländerstr. 20 und Danklstr. 11 – Verlegung Fernwärmeleitung
+- TOP 4.3.4.: Spielplatz an der Karwendelstraße
+- TOP 5.3.14.: Fußgängerquerung an der Implerstraße
+- TOP 6.2.1.: Anhörung zu BA-Antrag Nr. 20-26 / B 06273 BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 6.2.2.: Anhörung zu BV-Empfehlungen Nr. 20-26 / E 01779 und Nr. 20-26 / E 01928 "Mehr Mitentscheidung beim Klimaschutz"
+- TOP 6.2.3.: Anhörung zur BV-Empfehlung 20-26 / E01885 "Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse"
+- TOP 4.3.5.: Gotzinger Platz, Aufwertung – weiteres Vorgehen
+- TOP 5.3.15.: Sperrung Luise-Kiesselbach-Tunnel
+- TOP 2.16.: Denkmal „Klohäuschen“ an der Großmarkthalle
+- TOP 5.3.16.: Mehr Raum für Fußgänger*innen in der Senserstraße - Zwischennachricht Empfehlung-Nr.: 20-26 / E 00422
+- TOP 6.1.5.: (E) Stadtbezirksbudget JR MIROLL e.V. „Teilnahme an der Mini EM München 2024 vom 31.05.2024 – 02.06.2024“ 1.596,00 € / AZ: 0262.0-6-0494
+- TOP 2.17.: Anzeigen zu Ordnungswidrigkeiten vor der Penny-Filiale in der Implerstraße
+- TOP 4.3.6.: Begrünung Kyreinstraße zwischen Implerstraße und Gotzinger Straße
+- TOP 4.3.7.: Information über anstehende Gewerbemieterkündigungen an der Hans-Preißinger-Straße
+- TOP 5.3.17.: Arbeiten im Straßenraum Mittlerer Ring, ab Passauer Straße (Verlegung einer 110 kV-Leitung)
+- TOP 5.1.2.: (E) Tempo-30-Zone in der Lindwurmstr. bis zur Aberlestr. und Pfeuferstr.
+- TOP 5.2.4.: Radlkoferstraße - Zeichen 298 StVO (Sperrflächenmarkierung)
+- TOP 5.2.5.: Brudermühlstraße (Nordseite/ Heizkraftwerk Süd) - Zeichen 240 in beide Richtungen
+- TOP 5.3.18.: Einladung Infoveranstaltung Sommerstraße 2024 am 11.06.2024
+- TOP 8.2.5.: Veranstaltung auf öffentlichem Grund Eröffnung 7. Klohäuschen Biennale/Jubiläum „15 Jahre KloHäuschen in der Thalkirchner Str./Ecke Oberländerstr. am 13.07.2024“
+- TOP 6.1.6.: (E) Stadtbezirksbudget Initiative Schöttlsommer „Schöttlsommer 2024 vom 30.06.2024 – 30.09.2024“ 3.531,00 € / AZ: 0262.0-6-0501
+- TOP 8.2.6.: Veranstaltung in Grünanlage: Geländepraktikum Studierende der LMU Geographie in den Isarauen Flaucheranlagen vom 19.07. - 03.08.2024
+- TOP 8.2.7.: Veranstaltung auf öffentlichem Grund: Sommerstraßen Warm-Up MOR-GB2 in der Schöttlstr. (Höhe Hausnr. 3-7) am 17.07.2024 (Ersatztermin: 24.07.)
+- TOP 8.2.8.: Veranstaltung in Grünanlage: Sommerfest KiGa Matschknödel Am Isarkanal/Ecke Schäftlarnstr. am 12.07.2024 (gfs. Ersatztermin: 20./26.07.)
+- TOP 5.3.19.: Versammlunganzeige zur Veranstaltung „Bargeld, Frieden, Pandemievertrag" für den 14.06.2024 (Am Harras)
+- TOP 5.3.20.: Versammlunganzeige zur "Unterschriftenaktion zu Volksbegehren" für den 01./11.06.2024 (Am Harras)
+- TOP 8.2.9.: Sondernutzung auf öffentlichem Grund: Erinnerungszeichen Am Harras, vor Hausnr. 12 (auf Platzfläche) am 29.07.2024
+- TOP 4.4.3.: Überprüfung des Sachstandes zum Thema Prüfstatik und Zusendung der Prüfberichte zur Baustelle Alramstraße/Sendlinger Loch (Anfrage Bündnis 90 / Die Grünen)
+- TOP 3.1.: Fernwärmeausbau Sendling - aktueller Stand (SWM)
