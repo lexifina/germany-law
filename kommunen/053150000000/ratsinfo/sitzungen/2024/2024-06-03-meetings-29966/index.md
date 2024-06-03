@@ -1,0 +1,73 @@
+# 29.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-03T17:00:00+02:00
+- Ende: 2024-06-03T18:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29966
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29966
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 Gemeindeordnung - Sicherung des Schulweges Gehweg Ecke Bergisch-Gladbacher-Straße/Urnenstraße in Köln - Dellbrück- Aktenzeichen 225/23 B - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks aus der Sitzung der Bezirksvertretung Mülheim vom 18.09.2023 (AN/1577/2023) betreffend „Überlegungen der Verwaltung zur Anlage einer Fahr“ - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage der CDU Fraktion zu "Hochbelastung im Bezirksausländeramt Mülheim" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage der Koalitionsfraktionen CDU und SPD sowie der FDP aus der Sitzung der BV 9 Mülheim am 02.08.23 betr. "Holweide–Abzweigendes Teilstück (Weg) d. Iddelsfelder Straße zw. Auf dem Pützacker/Iddelsfelder Straße" (AN/1329/2024) - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion, der CDU-Fraktion und des Einzelmandatsträgers Tücks aus der Sitzung der Bezirksvertretung Mülheim vom 14.08.2023 (AN/1286/2023) betreffend "Radspur Ostseite Heidelbergerstraße" - Kenntnis genommen
+- TOP 7.1.5: Beantwortung der Anfrage der Einzelmandatsträgerin Dworeck-Danielowski (AfD) vom 15. April 2024 in der BV 9 betreffend "Kein Schutzraum in Mülheim - wo bleibt Edelgard?" (AN/0578/2024) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: KVB-Linien 3 und 4 - Kenntnis genommen
+- TOP 7.2.2: Artenreiche Wiesen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.3: Zustand von Wald- und Forstwegen im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.4: Lokale Fahrradstreifen/ Fahrradpolizei im Bezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.4.1: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE zur Sitzung der Bezirksvertretung Mülheim am 03.06..2024 betreffend Lokale Fahrradstreifen/ Fahrradpolizei im Bezirk Köln-Mülheim (AN/0802/2024) - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Kein Kreisverkehr an der Piccoloministraße / Honschaftsstraße - ungeändert beschlossen
+- TOP 8.1.2: Vermüllung der Wiese am Katzenbuckel verhindern - ungeändert beschlossen
+- TOP 8.1.3: Konsequent Tempo 30 auf der Dünnwalder Straße - ungeändert beschlossen
+- TOP 8.1.4: Nachpflanzung dreier klimagerechter Bäume im Bereich der verwaisten Baumscheiben an der Straße „Mülheimer Freiheit“ Hausnummern 45, 75 und 81 - ungeändert beschlossen
+- TOP 8.1.5: Verbesserte Sicherheit für Passant*Innen und Radfahrende im Bereich der Bus- und Straßenbahnhaltestelle Herler Ring und des Elisabeth Schäfer Weges durch Analyse und daraus ableitenden Maßnahmen herstellen - ungeändert beschlossen
+- TOP 8.1.6: Kontinuierlicher Ausbau weiterer Sitzplätze für KVB- Nutzer*innen an Haltestellen entlang der Stadtbahnlinien im Bezirk Köln- Mülheim nach dem Vorbild der Haltestelle “Dellbrücker Hauptstraße“ - geändert beschlossen
+- TOP 8.1.7: Prüfung zur möglichen Schließung der Lücke des Fußgänger- und Fahrradwegs entlang des Birkenwegs in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8.1.8: Umgehende Umsetzung des einstimmig gefassten Beschlusses der Bezirksvertretung Mülheim aus Oktober 2023 (AN/1840/2023) zur Barrierefreiheit auf dem Piccoplatz in Holweide - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Barrierefreier Übergang Pfälzischer Ring - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Einbeziehung einer Erschließungsstraße in die Von-Ketteler-Straße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.1.2: Vergabe der bezirksorientierten Mittel für das Haushaltsjahr 2024; Vergabe der Restmittel nach verlängerter Antragsfrist - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - geändert beschlossen
+- TOP -: Änderungsantrag zu Stadtbahnanbindung Mülheimer Süden, Vorlage 2360/2023
+- TOP 9.2.2: Raumbuch Mobilstationen - ungeändert beschlossen
+- TOP 9.2.3: Bewegungskonzept im Kölner Grün - zurückgestellt
+- TOP 9.2.4: Aufstellungsbeschluss zur 13. Änderung des Landschaftsplans Köln - ungeändert beschlossen
+- TOP 9.2.5: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Teilbauwerke - Kenntnis genommen
+- TOP 10.2.4: Fachkreis "Plätze mit besonderem Handlungsbedarf" Sachstandsmitteilung der AG Wiener Platz - Kenntnis genommen
+- TOP 10.2.5: von der Verwaltung zurückgezogen
+- TOP 10.2.6: Sachstandsbericht zu "Zukunft der Holweider Heide" (AN/1481/2010) - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken auf der Schönrather Straße, Aktenzeichen 28/24 - Kenntnis genommen
+- TOP 10.2.8: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.9: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023 - Kenntnis genommen
+- TOP 10.2.10: Zoobrücke / Stadtautobahn B55a - passive Schutzeinrichtungen - Kenntnis genommen
+- TOP 10.2.11: 41. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 10.3: Bemerkungen zur Niederschrift
