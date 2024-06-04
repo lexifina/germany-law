@@ -1,0 +1,184 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2024-06-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8104733
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8104733
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Ablehnung der Sitzungsvorlage des MOR bzgl. der Erledigung der BV Anträge zu Verkehrskonzepten für den Münchner Westen im Kontext der Behandlung des Verkehrskonzeptes zu Pasing Nord (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 2.2.2.: Planung neue Feuerwache am Pasinger Heuweg / Mühlangerstraße, Schreiben BA vom 16.04.24 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 2.2.3.: Frauendorferstraße, Ortstermin vom 30.04.24 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 2.2.4.: Aufstellung von 2 Tischtennisplatten am Immermannplatz und Spielplatz Ecke Fasanenstraße / Freseniusstraße
+- TOP 2.2.5.: Sommerstraße Otto-Engl-Platz 3
+- TOP 2.2.6.: Busspur Haberlandstraße
+- TOP 2.2.7.: Schilder gegen Wildunfälle auf der Blumenauer Straße
+- TOP 2.2.8.: Baustelle im Kreuzungsbereich Lortzingstraße / Josef-Felder-Straße / Haberlandstraße
+- TOP 2.2.9.: Zugang zu BA-Sitzungen in Pasing-Obermenzing
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Weingartnerstr. 36. 1 Schwarzkiefer
+- TOP 3.1.2.: Planegger Str. 125: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.3.: Paosostr. 10: 1 Weide
+- TOP 3.1.4.: Thalanderlstr. 7: Baumbestandsplan
+- TOP 3.1.5.: Schnabelstr. 2a: 1 Esche
+- TOP 3.1.6.: Zündterstr. 10: 1 Fichte
+- TOP 3.1.7.: Ennslandstr. 1: 2 Fichten
+- TOP 3.1.8.: Prangerlstr. 5: 1 Birke
+- TOP 3.1.9.: Oneginstr. 29: 1 Kiefer
+- TOP 3.1.10.: Menzinger Str. 72-72a: 3 Fichten
+- TOP 3.1.11.: Benedikt-Hagn-Str. 6: Baumbestandsplan
+- TOP 3.1.12.: Freseniusstr. 38: Freiflächengestaltungs- und Baumbestandsplan
+- TOP 3.1.13.: Melßheimerstr. 17: 2 Fichten
+- TOP 3.1.14.: Korfiz-Holm-Str. 13: 1 Fichte
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung und Mobilität + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur, Heimatpflege, Organisation + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales, Bildung und Sport + Beschlussfassung über Empfehlungen
+- TOP 7.1.: Bericht Freiwilligenmesse 2024
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 9.1.: Protokoll der Kindersprechstunde vom 26.04.24
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Heimat- und Volkstrachtenverein D&#039;Würmtaler Menzing e.V. Anschaffung von Trachten 6.876,00 Euro, Az.: 0262.0-21-0432 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.1.1: dazu weiterer Kostenvoranschlag
+- TOP 10.2.: (E) Stadtbezirksbudget Turn- und Sportclub Obermenzing e.V. Anschaffung von vier TW-Ausrüstungen 5.718,00 Euro, Az.: 0262.0-21-0436 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.3.: (E) Stadtbezirksbudget Verein Pasinger Mariensäule e.V. Pasinger Christkindlmarkt vom 30.11. - 22.12.2024 7.500,00 Euro, Az.: 0262.0-21-0439 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.4.: (E) Stadtbezirksbudget Münchner Volkshochschule, Stadtbereich West Ausstellung "Café Exter - Der Weg zur Abstraktion" vom 01.07. - 30.09.2024 1.875,00 Euro, Az.: 0262.0-21-0438 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.5.: (E) Stadtbezirksbudget Förderverein der Grundschule Peslmüllerstraße e.V. Anschaffung von Büchern für die Schulbücherei und 50-Jahr-Feier im September/Oktober 2024 4.800,00 Euro, Az.: 0262.0-21-0441 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.6.: (E) Stadtbezirksbudget Initiative "Wunderbuch" Theaterreise "Wunderbuch" vom 01.10.2024 - 30.09.2025 3.200,00 Euro, Az.: 0262.0-21-0443 (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 10.6.1: dazu Stellungnahmen der beteiligten Grundschulen Grandlstraße, Schererplatz, An der Schäferwiese
+- TOP 10.7.: (E) Stadtbezirksbudget Diakonie München & Oberbayern/Abteilung Kinder, Jugend & Familie/LebensRäume Sommerfest der LebensRäume am 19.07.2024 1.686,00 Euro, Az.: 0262.0-21-0444
+- TOP 10.8.: (E) Start der Planung für die Fußgängerbrücke von Neupasing zur zukünftigen U-Bahnhaltestelle Am Knie
+- TOP 10.9.: (E) Fußgängerübergang / Bedarfsampel an der Landsberger Straße (Ziffer 1 des Antrags)
+- TOP 10.10.: (E) Bessere Kennzeichnung der Rad- und Fußwege im Durchblick
+- TOP 10.11.: (E) Parksituation in der Freseniusstraße
+- TOP 10.12.: (E) Stadtbezirksbudget Verein Pasinger Mariensäule e.V. Anschaffung einer Markthütte für den Pasinger Christkindlmarkt 2.510,00 Euro, Az.: 0262.0-21-0448
+- TOP 10.13.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Pasing Sommerfest am 04.07.2024 281,25 Euro, Az.: 0262.0-21-0440
+- TOP 10.14.: (E) Anlegen einer einfachen Wassertretanlage an der Würm gegenüber der Renaturierungsfläche in Obermenzing
+- TOP 10.15.: (E) Reparatur der (Eis-) Stockbahn im Stadtpark Pasing
+- TOP 10.16.: (E) Ablegen von Findlingen entlang des Seldweges und Unterführung unter der Verdistraße
+- TOP 10.17.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. - 31.07.2024 2.322,90 Euro, Az.: 0262.0-21-0446
+- TOP 10.18.: (E) Stadtbezirksbudget Pfarrkirchenstiftung Leiden Christi Konzertveranstaltung "Die 1. Walpurgisnacht" am 15.06.2024 2.450,00 Euro, Az.: 0262.0-21-0445
+- TOP 10.19.: (E) Stadtbezirksbudget Pfarrkirchenstiftung Leiden Christi Kauf eines Jugendzeltes 1.289,00 Euro, Az.: 0262.0-21-0447
+- TOP 10.20.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.18; Spiegelstr. 8
+- TOP 10.21.: (E) Baumpflanzungen im öffentlichen Straßenraum der Verdistraße (Antrag 1)
+- TOP 11.: Anhörungen
+- TOP 11.1.: Lützowstr. 12: Neubau eines Mehrfamilienhauses mit der Tiefgarage (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 11.2.: Planegger Str. 125: Umbau und Nutzungsänderung eines Gebäudes in ein Wohn-heim für soziale Zwecke - hier: Verlängerung der Befristung -, Änderungsantrag (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 11.3.: Blumenauer Straße: Errichtung einer Telekommunikationsvermittlungsstelle, hier: Versorgung kritischer Infrastruktur für den Großraum in München - Vorbescheid (Vertagung aus der BA-Sitzung am 07.05.24)
+- TOP 11.4.: Thalanderlstr. 7: Aufstockung und Umbau eines Einfamilienhauses
+- TOP 11.5.: Seldweg 15; 38. Obermenzinger Dorffest am 09.06.2024
+- TOP 11.6.: Rückbau DB Regio Bahnbetriebswerk Pasing
+- TOP 11.7.: Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 11.8.: Tektur c / Planänderung im Verfahren "Verlängerung der U5 West - Abschnitt PA 77"
+- TOP 11.9.: Alte Allee / Ecke Marschnerstr. – Marschnerstr. 3a; Gemeindefest am 07.07.24
+- TOP 11.10.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse
+- TOP 11.12.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 11.13.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen Empfehlung Nr. 20-26 / E 01779 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 29.02.24 und Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz Empfehlung Nr. 20-26 / E 01928 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 11.04.24
+- TOP 11.14.: Pasinger Marienplatz; temporäre Kunstaktion "TetrapAct-on-foodwaste" vom 17.06.24-08.08.24
+- TOP 11.15.: Beschlussentwurf für den Gesundheitsausschuss am 18.07.24: Mobilität auf städtischen Friedhöfen, u.a. Elektrofahrzeuge für Friedhöfe (Empfehlung Nr. 20-26 / E 01097 aus der Bürgerversammlung des Stadtbezirkes 21- Pasing-Obermenzing am 15.03.23)
+- TOP 11.16.: Pasinger Marienplatz; Green Dinner am 20.07.24
+- TOP 11.17.: Dauerhaften Fahrplanänderungen bei den Tramlinien 20 und 29
+- TOP 11.18.: Abstimmung neues Radverkehrsnetz für München - IR III
+- TOP 11.19.: Benedikt-Hagn-Str. 6: Antrag auf Bauvorbescheid für 7 Wohnhäuser und gemeinsame Tiefgarage - Vorbescheid
+- TOP 11.20.: Landschaftsbezogene Wegekonzeption für den Grüngürtel – Vertiefung Münchner Westen, Vorstellung der Studienergebnisse und Beschluss über das weitere Vorgehen; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 11.21.: Freseniusstr. 38: Neubau eines Mehrfamilienhauses mit 5 Wohneinheiten und Tiefgarage
+- TOP 12.: Anträge und Anfragen
+- TOP 13.: Unterrichtungen
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Bauausschuss vom 05.12.23: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 14.3.: Vollversammlung vom 20.04.24: (U) Ergebnisse der Machbarkeitsstudien Pasing Nord • Machbarkeitsstudie zum direkten Bahnhofsumfeld auf der Nordseite des Bahnhofs Pasing • Machbarkeitsstudie zum erweiterten Umfeld Pasing Nord
+- TOP 14.4.: Ausschuss für Stadtplanung und Bauordnung vom 30.04.24: "Wohnen in München VII! Erfahrungsbericht für das Jahr 2023 Programm "Bezahlbares Wohnen und Leben in München" Erfahrungsbericht für das Jahr 2023
+- TOP 14.5.: Ausschuss für Stadtplanung und Bauordnung vom 30.04.24: (U) „Clubs sind Kultur“ – Die Clubkultur in der LH München fördern, erhalten und weiterentwickeln
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Oktoberfest 2024, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (3. Bürgermeisterin Dietl, 06.05.24)
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Vorschlag zur Verschönerung des Freizeitangebots Obermenzing im Rahmen des Stadtbezirksbudget
+- TOP 15.1.2.2.: Zustand der Wege in der Grünanlage Manzingerweg
+- TOP 15.1.2.3.: Denkmal am Irmonherplatz; Gestaltung der Grünfläche
+- TOP 15.1.2.4.: Pressetermin Freigabe Brücke über die Offenbachstraße (Nord)
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: Berduxstraße, östlich Zugang Anwesen Nr. 23; verkehrsrechtliche Anordnung
+- TOP 15.1.3.2.: Anton-Meindl-Straße
+- TOP 15.1.3.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Oselstraße; verkehrsrechtliche Anordnung
+- TOP 15.1.3.4.: Ampel Verdistr. 74; Änderung der Schaltung (Empfehlung Nr. 20-26 / E 01152 der Bürgerversammlung am 25.04.23); Zwischenmitteilung
+- TOP 15.1.3.5.: Öffnung der Von-Frays-Straße zwischen Kaspar-Kerll-Straße und Anton-Meindl-Straße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung
+- TOP 15.1.3.6.: Öffnung der Berduxstraße zwischen Tiefgaragenzufahrt Hermine-von-Parish-Str. 15 auf Seiten Berduxstraße und Einmündung Hermine-von-Parish-Straße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung
+- TOP 15.1.3.7.: Verbesserung der Verkehrssituation in der Planegger Straße III: Aufhebung der Radwegbenutzungspflicht in der Planegger Straße
+- TOP 15.1.3.8.: Perlschneiderstraße, Ecke Lackerbauerstraße, Aufhebung Sackgasse (Zeichen 357 StVO), Anordnung einer für Fußgänger durchlässigen Sackgasse (Zeichen 257-51 StVO); Grenzmarkierung
+- TOP 15.1.3.9.: Drehgenehmigungen für - 29.05.24, Oneginstr. 16 - 07.06.24, Baumschule, Dirtpark und Spielplätze
+- TOP 15.1.3.10.: Ausbau der Infrastruktur von Elektroladesäulen
+- TOP 15.1.3.11.: Baustelle Landsberger Str. 519
+- TOP 15.1.3.12.: Hieberplatz, Aufhebung der absoluten Haltverbote mit Zeitzusatz (Zeichen 283 StVO mit Zusatzzeichen); verkehrsrechtliche Anordnung
+- TOP 15.1.3.13.: Antrag zur Ausweisung einer Tempo-Zone 30 im Bereich der Kindertagesstätte Minihaus Pasing, Pippinger Straße / Lortzingstraße
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Vollzug der Baumschutzverordnung - Am Stadtpark 45 - Freseniusstraße - Sedelhofstr. 7 - Pippinger Str. 102
+- TOP 15.1.4.2.: Benehmen-Herstellung: Planfeststellung 30. Planänderung PFA 1 2. S-Bahn-Stammstrecke mit Ökokontoflächen LK Dachau und LK Landshut
+- TOP 15.1.4.3.: Haberlandstraße; ungenehmigter Lagerplatz
+- TOP 15.1.4.4.: Kaflerstr. 15, Aufstockung eines gewerblich genutzten Gebäudes mit Wohnungen
+- TOP 15.1.4.5.: Bauseweinallee 100; Errichtung eines Wohnheims für Studierende durch Anbau und Aufstockung eines Wohnhauses mit Atelier sowie Einbau einer Gewerbeeinheit durch Nutzungsänderung im UG
+- TOP 15.1.5.: Sozialreferat
+- TOP 15.1.5.1.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 15.1.5.2.: Einladung zur Informationsveranstaltung für die Bezirksausschüsse am 27.06.24
+- TOP 15.1.6.: Kreisverwaltungsreferat
+- TOP 15.1.6.1.: Dauerparken von Anhängern
+- TOP 15.1.6.2.: Versammlungsanzeige für 25.05.24; Pasinger Bahnhofsplatz, Thema: Pasing ist bunt
+- TOP 15.1.7.: Städtische Friedhöfe München
+- TOP 15.1.7.1.: Anfrage bzgl. Erweiterung der Aussegnungshalle im Friedhof Pasing
+- TOP 15.1.8.: Referat für Arbeit und Wirtschaft, SWM, MVG
+- TOP 15.1.8.1.: Probleme mit der Post-Zustellung
+- TOP 15.1.8.2.: Baumaßnahmen der Stadtwerke; Stromprojekt Pflegerstraße
+- TOP 15.1.9.: Referat für Bildung und Sport
+- TOP 15.1.9.1.: Schulhoföffnung Grundschule Hermine-von-Parish-Str. 15; Ortstermin am 06.06.24
+- TOP 15.1.9.2.: Änderung der Einzugsgebiete von der Mittelschule Reichenaustraße zur Mittelschule Wiesentfelser Straße zum Schuljahr 2025 / 26
+- TOP 15.1.9.3.: Renovierung des Kunstwerks am Eingangsbereich Kindertagesstätte Richard-Riemerschmid-Allee 32
+- TOP 15.1.10.: Kommunalreferat
+- TOP 15.1.10.1.: Östlicher Teil der Hildachstraße; Eintragung in städtisches Kartenwerk
+- TOP 15.1.10.2.: Künftige Nutzung des Pasinger Rathauses
+- TOP 15.1.10.3.: Wertstoffinsel Sanderplatz
+- TOP 15.1.10.4.: Überfüllte Wertstoffcontainer Manzingerweg
+- TOP 15.1.11.: Referat für Klima- und Umweltschutz
+- TOP 15.1.11.1.: Lärmschutzwand entlang Gleise zur Beruflichen Schule Bergsonstraße
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: BIKU e.V.: Mädchen an den Ball: Mädchen im öffentlichen Raum sichtbar machen
+- TOP 15.2.2.: Regionalmanagement München Südwest e.V. Nachbereitung 3. Fach-Workshop Multimodale Mobilitätstrategie
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.1.1.: - BA-Sitzung 02.07.24, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 30.07.24, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 16.2.1.: Überfüllte Wertstoffcontainer Manzingerweg
+- TOP 16.2.2.: Sanierung Menzinger Straße
+- TOP 16.2.3.: Loichingerstraße, schlechter Zustand des Straßenbelags
+- TOP 16.2.4.: Defekter Fahrbahnbelag nach Glasfaserverlegung in der Neufeldstraße und Betschartstraße
+- TOP 16.2.5.: Zustände E-Scooter Bahnhof Pasing Nord
+- TOP 16.2.6.: Calisthenics-Park im Stadtpark - seit 12 Monaten gesperrt
+- TOP 11.22.: Rahmenplanung Gartenstadt 2.0 – Endbericht und Evaluation der Steuerungsinstrumente; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 11.23.: Longinusstr. 16 - 19; Nachbarschaftsfest am 22.06.24
+- TOP 15.1.3.14.: Arbeiten im Straßenraum; Lochhausener Str. Kreuzung Mühlangerstr. bis Lochhausener Str. Kreuzung Purpurweidenweg vom 03.06. – 08.09.24
+- TOP 2.2.10.: Parksituation Lochhausener Straße / Carl-Hanser-Straße
+- TOP 11.11.: Schreiben Direktorium vom 21.05.24: Anhörung zur BV-Empfehlung 20-26 / E01885 "Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse"
+- TOP 15.2.3.: Regionalmanagement München Südwest e.V.: Protokoll der Mitgliederversammlung vom 16.05.24
+- TOP 15.1.3.15.: Arbeiten im Straßenraum; Josef-Felder-Straße Höhe Kreuzung Emil-Neuburger-Straße, Vorbereitende Maßnahmen für die Verlängerung der U5 (Los 2), Umbau Mittelteiler, Baufeld BF021 vom 24.06. - 31.07.24
+- TOP 16.2.7.: Unzureichende Abfallbehälter im Pasinger Stadtpark, Wiesenflächen nähe Westbad
+- TOP 2.2.11.: Situation am Pasinger Bahnhof
+- TOP 2.2.12.: Beschwerde über den Betrieb des Brunnen auf dem Passeo
+- TOP 15.1.3.16.: Arbeiten im Straßenraum; Franckensteinstr. 6 a und auf gegenüberliegender Straßenseite, Neuverlegung eines Mehrspartenhausanschlusses vom 03.06. – 28.07.24
+- TOP 11.24.: Einrichtung eines Lkw-Durchfahrtsverbot für den Straßenzug Grandlstraße in beide Fahrtrichtungen
+- TOP 15.1.11.2.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV / Weichenwartung Tram Stadtwerke München; nächtliche Arbeiten im Zeitraum 03.06. – 07.06.24
