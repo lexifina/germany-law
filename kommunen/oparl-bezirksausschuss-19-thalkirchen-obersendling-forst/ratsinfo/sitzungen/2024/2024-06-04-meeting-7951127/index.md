@@ -1,0 +1,62 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-06-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 07.05.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: (A) Satzungsänderung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Boschetsriederstraße Bewegtes lernen am 12.09.2024 10.988,47€; Az. 0262.0-19-0513
+- TOP 3.3.: (E) Stadtbezirksbudget Förderverein Montessori-Kinderhaus Kühlschruppe e.V. „Rhythmik für die Kinder im Montessori-Kinderhaus Kühlschruppe e.V. vom 01.09.2024 – 31.07.2025“ 5.698,80 € / AZ: 0262.0-19-0517
+- TOP 3.4.: (E) Stadtbezirksbudget Die Klosterspatzen e.V. „Klosterspatzen vom 05.06.2024 – 31.08.2024“ 9.000,00 € / AZ: 0262.0-19-0518
+- TOP 3.5.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation -Bildung in Frieden vom 12.09.2024 -01.08.2025 4.000,00€; Az. 0262.0-19-0519
+- TOP 3.6.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Samberger Straße 14 Selbstbehauptung und Resilienz -Stark und clever vom 03. -26.06.2024 4.104,00€; Az. 0262.0-19-0520
+- TOP 3.7.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. -31.07.2024 2.322,90€; Az. 0262.0-19-0521
+- TOP 3.8.: (E) Stadtbezirksbudget Condrobs e.V. Neue Terrassenausstattung für den sozialen Gastrobetrieb VIVA CLARA von Juli -September 2024 5.580,94€; Az. 0262.0-19-0522
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Satzungsänderung: Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (BV) Vorschläge und Runder Tisch zur Verbesserung der Verkehrssicherheit in der Maxhofstraße
+- TOP 5.3.: (E) Sondernutzungserlaubnis: Freischankfläche Boschetsrieder Straße 121
+- TOP 5.4.: (A) Abstimmung neues Radverkehrsnetz für München
+- TOP 5.5.: (Antrag) Tempo 30 in der Fraunbergstraße und in der Schäftlarnstraße am Thalkirchner Platz
+- TOP 5.6.: Schulwegsicherheit Grundschule Königswieser Straße
+- TOP 5.7.: (Antrag) Fahrzeuganhänger Hermann-Hahn-Platz
+- TOP 5.8.: (BV) Beendigung des verkehrsbehindernden Abstellens von E-Scootern
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Bauweberstraße 7a (VB)
+- TOP 6.2.2: Beuerberger Straße 9
+- TOP 6.3.: (A) Flächen an der Muttenthalerstraße Sitzungsvorlage Nr.20-26 / V12413
+- TOP 6.4.: (A) Satzungsänderung: Stärkung der Entscheidungsrechte der Bezirksausschüsse bei bedeutenden Bauvorhaben
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (U) Abschlussbericht Aktivierende Befragung Wohnquartier Am Südpark
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 9: Verschiedenes
+- TOP 4.4.: (A) Neupflanzung von 180 Bäumen im Zuge der Nachverdichtung in der Appenzeller Straße; BV-Empfehlung Nr. 20-26 / E 01512
+- TOP 7.1.1: Antwortschreiben des Baureferats zum BA-Antrag Nr. 20-26 / B 06455 „Soziale Begegnung und sportliche Aktivität befreit von Konsumzwang fördern“
+- TOP 3.9.: Forstenrieder Tintenkleckse e.V.: Umwidmung und Erhöhung des Zuschusses
