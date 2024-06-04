@@ -1,0 +1,170 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-06-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8222520
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8222520
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Besseres Verkehrsmanagement bei Baustellen und Großveranstaltungen
+- TOP 6.2.: Pro-Palästina Demonstrationen am Königsplatz verlegen
+- TOP 6.3.: Zwischennachricht zu BA-Antrag Nr. 20-26 / B 05178
+- TOP 6.4.: Sachstand Umgestaltung Augustenstraße
+- TOP 6.5.: Übersicht Sportstättenbelegung
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK: KW 17 - 19
+- TOP 2.1.2.: 1.7-2432-2024-22 Kreittmayrstr. 30 Abbruch Garage und Neubau Hofhaus mit Wohnen und Lagerräumen – VORBESCHEID I 06.06.2024
+- TOP 2.1.3.: 1.7-2906-2024-22 Görresstr. 33 Aufstockung und Ausbau eines Dachgeschosses mit Errichtung zweier Balkonanlagen – VORBESCHEID I 06.06.2024
+- TOP 2.1.4.: 1.7-2823-2024-22 Theresienstr. 132 Neubau Rückgebäude als Mehrfamilienhaus mit 8 Wohneinheiten – VORBESCHEID I 06.06.2024
+- TOP 2.1.5.: 1.7-3489-2024-22 Professor-Huber-Pl. 1 Umbau und Renovierung Bestandsgebäude mit Nutzungsänderung und Ausbau DG Ludwigsbau; Ersatzneubau für Josephsbau mit Rampengebäude Tiefgarage – VORBESCHEID I 06.06.2024
+- TOP 2.1.6.: 1.23-4114-2024-22 Dachauer Str. 74 Abbruch bestehender Garagen, Neubau mit einer Maisonettewohnung und zwei Gewerbeeinheiten I 06.06.2024
+- TOP 2.1.7.: 1.232-3168-2024-22 Heßstr. 14 VGB: Aufstockung (4. OG, DG1 + DG 2) und Aufzugsanbau hofseitig, RGB: Neubau eines Studentenwohnheims (3 Obergeschosses DG) und Errichtung einer Duplexgarage (4 Stpl.) ÄNDERUNGSANTRAG I 06.06.2024
+- TOP 2.1.8.: 1.23-4723-2024-22 Isabellastr. 6 Anbau dreier Wohneinheiten an ein Wohnhaus I 06.06.2024
+- TOP 2.1.9.: 1.7-4561-2024-22 Schellingstr. 123 Aufstockung eines Wohn- und Geschäftshauses VORBESCHEID I 06.06.2024
+- TOP 2.1.10.: 1.7-4931-2024-22 Schleißheimer Str. 4 Nutzungsänderung und Aufstockung eines best. Rückgebäudes VORBESCHEID I 06.06.2024
+- TOP 2.1.11.: 1.23-5334-2024-22 Augustenstr. 4 Neubau eines Wohngebäudes I 06.06.2024
+- TOP 2.1.12.: 1.23-5503-2024-22 Augustenstr. 95 Dachgeschossausbau zu zwei Wohnungen mit Dachterrasse I 06.06.2024
+- TOP 2.1.13.: 1.1-4649-2024-22 Hopfenstr. 4 Nutzungsänderung einer bisherigen Bürofläche in zwei Großraumbüro Mieteinheiten I 06.06.2024
+- TOP 2.1.14.: 1.23-5125-2024-22 Schleißheimer Str. 61 Energetische Sanierung des Dachgeschosses mit Änderung der Dachgauben und Neubau von Dachterrassen I 06.06.2024
+- TOP 2.1.15.: 1.7-5672-2024-22 Kurfürstenstr. 8 Aufstockung des Wohn- und Geschäftsgebäudes mit Anbau eines Aufzugs und Anbau von Balkonen – VORBESCHEID I 06.06.2024
+- TOP 2.1.16.: 1.2-2024-4597-22 Nutzungsänderung: 2 Hausmeisterwohnungen im 6. OG zu Büroräumen Hirtenstr. 4 I 07.06.2024
+- TOP 2.1.17.: 1.232-2024-5115-22 Steinheilstr. 14 VGB: Aufstockung und DG-Ausbau zur Errichtung 2er Wohneinheiten, Anbau Balkone und Außenaufzug, Neubau hofseitiger Anbau I 07.06.2024
+- TOP 2.1.18.: 1.202-2024-6268-22 Königinstr. 11 Sanierung Haus-Nr. 11 mit Nutzungsänderung, Sanie- rung: 3. OG und DG mit Nutzungsänderung Wohnen in Verwaltung, Neubau: Erschließung 2. OG - 3. OG, Dachausbau mit Dachausstiegsfenster, Abbruch: Spindeltreppe 2. OG - 3. OG, Teildeckenabbruch 3. OG – ÄNDERUNGSANTRAG I 07.06.2024
+- TOP 2.1.19.: Die Anträge für die Ottostraße 19 (1.7-3523-2024-22) und die Augustenstr. 85a (1.23-5066-2024-22) wurden zurückgezogen.
+- TOP 2.2: BV-Empfehlungen
+- TOP 2.2.1.: (E) Verminderung der Lärmbelastung durch die Party-Location im ehemaligen Gesundheitsreferat
+- TOP 2.3: Sonstiges
+- TOP 2.3.1.: Anhörung Denkmalschutzgesetz: Amalienstr. 49-49a
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Abbruch eines Bestandsdachstuhls und Neubau eines zum Wohnzwecke ausgebauten Daches, sowie der Anbau einer Wohneinheit im Hinterhof ( Georgenstr.105/Schwarzmannstr.) - VORBESCHEID Georgenstr. 105 Sind die Baumfällungen möglich ? I Frist: 27.06.2024
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag vom 07.05.2024 auf dem Grundstück Kaulbachstr. 15 I Frist: 07.06.2024
+- TOP 3.2.2.: Fällungsantrag vom 22.04.2024 auf dem Grundstück Barer Str. 50 I Frist: 07.06.2024
+- TOP 3.2.3.: Fällungsantrag vom 04.04.2024 auf dem Grundstück Barer Str. 29 I Frist: 07.06.2024
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Baumaßnahmen der SWM
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Antwort auf Bürger*innenanliegen: Brunnen Neureuther Platz
+- TOP 5.4.: Abdruck Baugenehmigung
+- TOP 5.5.: Gehölzschnittmaßnahmen im Alten Botanischen Garten
+- TOP 5.6.: Grundschule Dachauer Str. 98 Kurzfristige Baumfällung Gefahrenbaum: Mitteilung vorab
+- TOP 5.7.: Bescheid zum Fällungsantrag auf dem Grundstück Gabelsbergerstr. 49
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Holzfiguren Alter Nordfriedhof Bürger*innenanliegen vom 13.05.2024
+- TOP 1.1.2.: Fahrradabstellplätze an der Heßstraße/Augustenstraße Bürger*innenanliegen vom 10.05.2024
+- TOP 1.1.3.: Fahrradabstellmöglichkeiten Hauptbahnhof Nordseite Bürger*innenanliegen vom 17.05.2024
+- TOP 1.1.4.: Straßenampel Ludwig/Theresienstr. Bürger*innenanliegen vom 18.05.2024
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Parteiübergreifender Antrag: Beteiligung des BA3 bei der Revitalisierung und dem Erhalt der U-Bahnhöfe in der Maxvorstadt
+- TOP 1.2.2.: Antrag SPD vom 21.05.2024: Attraktivere Sitzgelegenheiten am Spielplatz Blutenburgstraße
+- TOP 1.2.3.: Antrag SPD vom 21.05.2024: Ampelschaltung Gabelsberger- / Luisenstraße anpassen
+- TOP 1.2.4.: Antrag SPD vom 21.05.2024: Belag am Fußballplatz Blutenburgstraße
+- TOP 1.2.5.: Antrag SPD vom 21.05.2024: Schaltung bestimmter Signalanlagen in Randzeiten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) Einbahnstraßenregelung für Fahrradfahrer an der Barer/Ottostraße Richtung Stachus
+- TOP 2.1.2.: Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 2.1.3.: Anhörung zu geplanten verkehrsrechtlichen Anordnungen
+- TOP 2.1.4.: Konzept Shared Mobility im Bezirk Maxvorstadt
+- TOP 2.1.5.: BA-Anhörung zu dauerhaften Fahrplanänderungen bei den Tramlinien 20 und 29
+- TOP 2.1.6.: Abstimmung neues Radverkehrsnetz für München
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Barer Str. 48, gastronomischer Betrieb "Das METTA"; Neuantrag fassadenseitige Freischankfläche
+- TOP 2.3.2.: erl. fr. Gaststätte: "Cafe Bato", Heßstr. 71, 80798- FSF Neuantrag
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Werbeveranstaltungen „Selle Royal Support Cyclists on the Road“ im Zeitraum 11.07. bis 13.07.2024
+- TOP 2.4.2.: Anhörung: Königsplatz (Bez. 3) Oben Ohne Open Air am 20.07.2024 – Termin: 27.06.2024
+- TOP 2.4.3.: Anhörung: Königsplatz (Bez. 3) Münchner Sportfestival am 06./07.07.2024 – Termin: 24.06.2024
+- TOP 2.4.4.: Anhörung: Königsplatz (Bez. 3) Konzerte mit Peter Maffay und Roland Kaiser am 28.06. bzw. 29.06.2024 – Termin: 14.06.2024
+- TOP 2.4.5.: Bez. 3, Alter Botanischer Garten | Anhörung für "Spielnachmittage" | Frist: 07.06.2024
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Unveränderte Gaststättenfortführungen
+- TOP 3.4.: Stellungnahme zu Bürger*innen-Anliegen an den BA3, "Straßenbelag Luisenstraße" (TOP C 1.1.9 aus 04/24)
+- TOP 3.5.: Erlaubnisbescheid: Königsplatz (Bez.3) - Gedenkveranstaltung "München liest aus verbrannten Büchern" am 10.05.2024
+- TOP 3.6.: Bürgeranliegen an den Bezirksausschuss 9 Neuhausen-Nymphenburg zum Thema "Hundeplage Arnulfpark / Kleinkinderspielplatz" - Weiterleitung zur Kenntnisnahme an den BA 3
+- TOP 3.7.: Ausnahmegenehmigung der Veranstaltungsreihe „Kinder- und Familienprogramm“ des ICF im Arnulfpark/Helmholtzstraße
+- TOP 3.8.: Unterrichtung Eilentscheid, -Frist 24.05.2024, temporäre Kunstaktion "VerhandelBar", Grünanlage Josef-Ruederer-Str., Bez. 3, 13.06.-30.11.2024
+- TOP 3.9.: Eilentscheid Verlängerungsantrag bis 31.07.2024, Sondernutzungserlaubnis für die Kunstaktion "Autoeater" am Stachus auf dem Gehweg östlich des Justizpalastes| 21.05.24
+- TOP 3.10.: Bescheid/Bestätigung VA konfess. öff. Grund: Große Stadtfronleichnam mit Gottesdienst u. Prozession ab Marienpl. über Ludwigstr. am 30.05.2024
+- TOP 3.11.: Ausnahmegenehmigung Grünanlagensatzung
+- TOP 3.12.: Einholung einer Entscheidung des Oberbürgermeisters bezüglich einer beantragten Freischankfläche in der Adalberstr. 33
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. - 31.07.2024 2.322,90 Euro, Az.: 0262.0-3-0528
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO 2024 "Kommerz"!) am 14.09.2024 1.600,00 Euro, Az.: 0262.0-3-0504
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "unmöbiliert" Projekt "unmöbiliert" vom 22.06. - 19.07.2024 4.000,00 Euro, Az.: 0262.0-3-0527
+- TOP 2.3.: (E) Stadtbezirksbudget Kulturator Maria & Elisabeth Orgelkonzert mit Gesang und Tanz am 05.07.2024 2.100,00€; 0262.0-3-0523
+- TOP 2.4.: (E) Stadtbezirksbudget Stiftung Kulturator Unlock Graffiti Book Fair vom 17. - 21.05.2024 5.000,00 Euro, Az.: 0262.0-3-0522
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "84 GHz Raum für Gestaltung" Kunst im Karrée 2024 - offene Ateliers in Schwabing und Maxvorstadt vom 12.07. - 14.07.2024 3.000,00 Euro, Az.: 0262.0-3-0529
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Beschluss über die Fortsetzung 2. Beisitz Vorstand
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Oktoberfest 2024: Reservierung in der Ratsboxe (Wunschtermin und 2 Ersatztermine, Anzahl der Plätze, Zeitraum (12 bis 17 Uhr oder ab 17 Uhr)) I Frist: 30.06.2024
+- TOP 1.5.: Kinder- und Bürgerfest: Planungsstand und Aufgabenverteilung
+- TOP 1.8.: Alle BAs; Anhörung zu BA-Antrag Nr. 20-26 /B06273 BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes I Frist: 02.07.2024
+- TOP 1.9.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen - Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Anhörung zu Empfehlungen aus den Bürgerversammlungen Pasing-Obermenzing und Altstadt-Lehel) I Frist: 02.07.2024
+- TOP 1.10.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse (Anhörung zu Empfehlung Nr. 20-26 / E 01885 aus der Bürgerversammlung Berg am Laim)
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 6.6.: Budget für „Bürgerinnen und Bürger gestalten ihre Stadt“ aufstocken und Prozess beschleunigen
+- TOP 2.3.3.: Gaststätte: "Maharani", Rottmannstr. 24, 80333 München- FSF (baugenehmigungspflichtig)
+- TOP 2.4.6.: Bez. 03, Schellingstr., zwischen Schleißheimer Str. und Augustenstr. | Anhörung § 29 StVO für "Kinder- und Bürgerfest BA3" am 20.07.2024 | Anhörungsfrist: 28.06.2024
+- TOP 3.2.4.: Fällungsantrag vom 25.05.2024 auf dem Grundstück bzw. Antrag auf genehmigungspflichtige Baumveränderung Von-der-Tann-Str. 7 I Frist: 12.06.2024
+- TOP 2.2.: (E) Stadtbezirksbudget Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V. Erzieherin für die ELKI Spielgruppe vom 01.05.2024 - 30.04.2025 3.600,00 Euro, Az.: 0262.0-3-0525
+- TOP 1.2.1.: „RosaParkt“ in die Maxvorstadt holen
+- TOP 1.7.: Finanzierung des Kinder- und Bürger*innenfestes 2024 aus dem Budget für eigene Veranstaltungen des BAs
+- TOP 1.2.1.: Antrag Die Grünen vom 31.05.2024: Mehr Bäume für die Maxvorstadt auf Flächen des Freistaates Bayern
+- TOP 2.1.7.: Brienner Straße Aufhebung eines Behindertenparkplatzes
+- TOP 1.2.2.: Antrag Die Grünen vom 29.05.2024: Transparente und gemeinwohlorientierte Entwicklung des Funkhaus Areals voranbringen – Verkauf stoppen!
+- TOP 1.2.6.: Antrag SPD vom 01.06.2024: Provisorische Toiletten am Josephsplatz
+- TOP 2.4.7.: Königsplatz | Anhörung für "TUNIX 2024" am 01. - 05.07.2024 | Frist: 20.06.24
+- TOP 1.6.: Kinder- und Bürgerfest: Planungsstand und Aufgabenverteilung
