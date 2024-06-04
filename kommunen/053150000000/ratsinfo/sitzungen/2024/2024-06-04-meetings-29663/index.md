@@ -1,0 +1,59 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-04T15:00:00+02:00
+- Ende: 2024-06-04T17:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29663
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29663
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 2.1: Bodies of Cologne - Kölner Körper - Kenntnis genommen
+- TOP 2.2: WIN WIN – Frauen treffen Unternehmen: Veranstaltung zum beruflichen Wiedereinstieg - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der Liste GOL aus der Sitzung des Integrationsrats vom 16.01.2024 (AN/0032/2024) betreffend ,,Besetzung Co-Direktion Rautenstrauch-Joest-Museum (RJM)/Museum für Ostasiatische Kunst (MOK)" - Kenntnis genommen
+- TOP -: Anfrage der GOL zum Thema "Besetzung der Co-Direktion im Rautenstrauch-Joest-Museum (RJM)"
+- TOP 3.2: Beantwortung einer mündlichen Anfrage von IRM Carine Weber aus der Sitzung des Integrationsrates vom 16.04.2024 betreffend "TOP 5.12 Jahresbericht des Auszugsmanagements 2023 (1268/2024)" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage des FachAK5 betreffend "Bilanz der Einbürgerungen" (AN/0556/2024) - Kenntnis genommen
+- TOP -: Anfrage zur Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Bilanz der Einbürgerungen"
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage der Liste GOL aus der Sitzung des Integrationsrates am 16.04.2024 (AN/0558/2024) betreffend "Job-Turbo" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage der GOL zum Thema "Jobturbo" - Sache ist erledigt
+- TOP 4.2: Anfrage zur Beantwortung einer schriftlichen Anfrage des FachAk 3 vom 14.11.2023 (AN 1968/2023) - zurückgestellt
+- TOP 4.3: Anfrage zur Erteilung von Visa - zurückgestellt
+- TOP 4.4: Anfrage der GOL zum Thema Koloniales Erbe der Stadt Köln - zurückgestellt
+- TOP 4.5: Anfrage der GOL zum Thema Einbürgerungen - zurückgestellt
+- TOP 4.6: Anfrage der SPD-Liste und SPD-Fraktion zur Überlastung der Ausländerbehörde in Köln - Fast Lane für dringliche Aufgaben? - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Arbeitsergebnisse der Interkulturellen Zentren zum Positionspapier des Integrationsrates - Kenntnis genommen
+- TOP 5.2: Bevölkerung in Köln 2023 - zurückgestellt
+- TOP 5.3: Arbeitsmarkt Köln - Rückblick 2023, bisherige Entwicklung und Ausblick 2024: Trotz Konjunkturflaute neuer Beschäftigungsrekord am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 5.4: Sonderausstellungsprogramm des Kölnischene Stadtmuseums (KSM), hier: Ankündigung einer Intervention in der Open Space - Area zum Thema "Migrantischer Fußball" - Kenntnis genommen
+- TOP 5.5: Mitteilung zum aktuellen Sachstand des Netzwerkes für Mitarbeitende mit internationaler Familiengeschichte - Kenntnis genommen
+- TOP 5.6: Zusatzerklärung für unter das Gaststättengesetz fallende Betriebe - Kenntnis genommen
+- TOP 5.7: Jahresbericht "Willkommen und Ankommen in Köln" 2023 - Kenntnis genommen
+- TOP 5.8: Veröffentlichung des ZMI Magazins 2024 und Durchführung des Sprachfestes 2024 - Kenntnis genommen
+- TOP 5.9: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2023 - Kenntnis genommen
+- TOP 5.10: 41. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 5.11: 42. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 5.12: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 5.13: Halbjahresbericht zur Einführung eines Anonymen Krankenscheins in der Stadt Köln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig - endgültig zurückgezogen
+- TOP -: Änderungsantrag zum Antrag auf Erweiterung des Schuleinzugsgebietes von Schulen mit bilingualem Zweig (AN1927/2023) nach Stellungnahme der Verwaltung (0176/2024) - geändert beschlossen
+- TOP 6.2: Antrag auf Erneuerung der Gedenktafel zur Einreise des millionsten sog. Gastarbeiters - endgültig zurückgezogen
+- TOP -: Änderungsantrag zum Antrag auf Erneuerung der Gedenktafel zur Einreise des einmillionsten sogenannten Gastarbeiters (AN/0517/2024) - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete in Köln - Mittelvergabe - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
