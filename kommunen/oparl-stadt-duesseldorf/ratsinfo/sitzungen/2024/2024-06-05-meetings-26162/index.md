@@ -1,0 +1,54 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-05T16:00:00+02:00
+- Ende: 2024-06-05T19:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26162
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26162
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522518.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522518.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522518.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung des Ordnungs- und Verkehrsausschusses vom 22.11.2023 - zur Kenntnis genommen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung des Ordnungs- und Verkehrsausschusses vom 28.02.2024 - zur Kenntnis genommen
+- TOP 3.3: Genehmigung der Niederschrift der öffentlichen Sitzung des Ordnungs- und Verkehrsausschusses vom 17.04.2024 - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Abbiegeassistenten bei städtischen Fahrzeugen -Anfrage der Ratsfraktionen CDU und BÜNDNIS 90/DIE GRÜNEN- - zur Kenntnis genommen
+- TOP 4.2: Fachpersonalmangel im ÖPNV -Anfrage der Ratsfraktion DIE LINKE- - zur Kenntnis genommen
+- TOP 4.3: Ergebnisse der wissenschaftlichen Begleitung des 9 Euro-Tickets durch die Rheinbahn AG -Anfrage der Ratsfraktion DIE LINKE- - zur Kenntnis genommen
+- TOP 4.4: Fuß- und Radtunnel am S-Bahnhof Gerresheim -Anfrage der FDP-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.5: Parksensoren - Tauglich als Erfolgsmodell? -Anfrage der Ratsfraktion die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.6: Fahrradwegbenutzungspflicht - Wenn ja, wo und und warum eigentlich? -Anfrage der Ratsfraktion die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.7: Fahrzeugausleihe U79 -Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/ DIE GRÜNEN- - zur Kenntnis genommen
+- TOP 4.8: Bertastraße -Anfrage der SPD-Ratsfration- - zur Kenntnis genommen
+- TOP 4.9: Quartiersgaragen -Anfrage der SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Baumscheiben- und Grünstreifenschutz zeitnah umsetzen -Antrag der Ratsfraktion DIE LINKE- - mehrheitlich abgelehnt
+- TOP 5.2: Mehr Fahrradbügel braucht die Stadt! -Antrag der Ratsfraktion die PARTEI-Klima- - mehrheitlich abgelehnt
+- TOP 5.3: Rheinbahn Echtzeitdaten in Google/Apple Maps - einstimmig beschlossen
+- TOP 6: Aktuelles
+- TOP 6.1: Bericht Japantag/ Parallel Drupa
+- TOP 6.2: Bericht zur EURO 2024
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Entwicklung Zentrum Hellerhof - Empfehlung einstimmig beschlossen
+- TOP 9: Bebauungsplan-Entwurf Nr. 03/007 - Westlich Hinter der Böck - Empfehlung mehrheitlich beschlossen
+- TOP 10: Jahresbericht der Geschäftsstelle der Kunstkommission 2022/2023 - zur Kenntnis genommen
+- TOP 11: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 12: Verkehrsbericht 2023 - Jährliche Verkehrsunfallbilanz des Polizeipräsidiums Düsseldorf - zur Kenntnis genommen
+- TOP 13: Testphase Luegallee – Vorstellung der Ergebnisse und weiteres Vorgehen - einstimmig beschlossen
+- TOP 14: RadLeitRoute 2, West-Ost, Teil 1 von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim. - Empfehlung abweichend beschlossen
+- TOP 15: Festlegung des Trassenverlaufs des Radschnellwegs Neuss, Düsseldorf, Langengeld im Rahmen des Linienbestimmungsverfahrens - Empfehlung einstimmig beschlossen
+- TOP 16: Fahrradstraßen Limburg- und Gutenbergstraße - mehrheitlich beschlossen
+- TOP 16.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 16: Fahrradstraße Limburgstraße / Gutenbergstraße - mehrheitlich beschlossen
+- TOP 17: Ergänzung und Vervollständigung der Fahrbahnmarkierungen auf der Grafenberger Allee, zwischen den Haltestellen Uhlandstraße und Staufenplatz, zur Verbesserung des ÖPNV-Betriebsablaufs - einstimmig beschlossen
+- TOP 18: Neuaufstellung der Bedarfspläne für Landesstraßen und ÖPNV des Landes NRW, Beteiligungsverfahren - zur Kenntnis genommen
