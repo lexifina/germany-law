@@ -1,0 +1,51 @@
+# 14. Sitzung in der IX. Wahlperiode des Ausschusses Haushalt und Personal
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2024-06-05T19:00:00+02:00
+- Ende: 2024-06-05T22:00:00+02:00
+- Ort: Möllendorffstraße 6, 10367 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5640
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=5640
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=398041
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Protokollbestätigung - erledigt
+- TOP 3: Fragestunde und Bürger:innenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Schwerpunktthema: Ergebnis Kosten-Leistungs-Rechnung - erledigt
+- TOP 6: Überwiesene Drucksachen - (offen)
+- TOP 6.1: Skateanlage an der Kiezspinne noch in diesem Jahr - mit Änderungen im Ausschuss beschlossen
+- TOP 6.2: Calisthenics Park an der Rummelsburger Bucht einrichten - im Ausschuss abgelehnt
+- TOP 6.3: Nachhaltiges Müllmanagement in Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 6.4: Hundefreilauffläche im Hinkelpark / Nöldnerpark - im Ausschuss abgelehnt
+- TOP 6.5: Hundefreilauffläche in der Parkaue - im Ausschuss abgelehnt
+- TOP 6.6: Regenrückhaltebecken in Alt-Hohenschönhausen neu aktivieren - mit Änderungen im Ausschuss beschlossen
+- TOP 6.7: Reparatur der Infotafeln im Stadion- Friedrichsfelde - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.8: Regierungsvorhaben eines Hauses des Engagements in Lichtenberg umsetzen - vertagt
+- TOP 6.9: Boulebahnen für Karlshorst - mit Änderungen im Ausschuss beschlossen
+- TOP 6.10: Werbefilm für mehr Lehrer:innen in Lichtenberg! - zurückgezogen
+- TOP 6.11: Klimaziele einhalten - Heizkosten in Schulen und öffentlichen Gebäuden senken - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.12: Das Kunsthaus 360° in Hohenschönhausen bewahren! - vertagt
+- TOP 6.13: Fahrradbarometer in Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 6.14: Wasserfest in der Rummelsburger Bucht ermöglichen - mit Änderungen im Ausschuss beschlossen
+- TOP 6.15: Besserer Bolzplatz für den Grünen Campus Malchow - vertagt
+- TOP 6.16: Familiengutscheine für alle Lichtenberger Familien - mit Änderungen im Ausschuss beschlossen
+- TOP 6.17: Die grüne Revolution: Fassadenbegrünungen und Gründächer in Lichtenberg - mit Änderungen im Ausschuss beschlossen
+- TOP 6.18: 40 Jahre Neu-Hohenschönhausen – 4 x 40 neue Bäume für Neu-Hohenschönhausen - vertagt
+- TOP 6.19: Schnelle Nutzung des Grundstücks Gotlindestraße/Siegfriedstraße ermöglichen - vertagt
+- TOP 6.20: Instandsetzung des Ballspielplatzes an der Landsberger Allee 225/227 - vertagt
+- TOP 6.21: Ophiostoma novo-ulmi und Ulmus parvifolia – kurz: Neue Chancen für die Ulme als Straßenbegleitgrün - vertagt
+- TOP 6.22: Vandalismus zeitnah beseitigen - vertagt
+- TOP 6.23: Beleuchtung für den Rudolf-Seiffert-Park - vertagt
+- TOP 6.24: Operation Prozessoptimierung: Bürger*innen auf Mission zur Verwaltungsverbesserung! - vertagt
+- TOP 6.25: Einfach Klick, alles schick: elektronische Übermittlung von Anträgen - vertagt
+- TOP 6.26: Zuwegung zum U-Bahnhof Biesdorf Süd - vertagt
+- TOP 6.27: Quartierspark Neubrandenburger Straße in seiner städtebaulichen Funktion als klimarelevante Naherholungsfläche sichern - vertagt
+- TOP 6.28: Spielplatzpatenschaften auch in Lichtenberg - vertagt
+- TOP 6.29: Lichtenberg als leuchtendes Vorbild – Drohnenshow an Silvester - vertagt
+- TOP 7: Sonstiges - erledigt
