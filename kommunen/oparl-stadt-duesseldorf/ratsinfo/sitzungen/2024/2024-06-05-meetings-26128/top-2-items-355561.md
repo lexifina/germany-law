@@ -1,0 +1,7 @@
+# TOP 2: Zulassung von Sachverständigen zu TOP 10.1
+
+- Sitzung: Jugendhilfeausschuss (2024-06-05)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/355561
+- Ergebnis: einstimmig beschlossen
