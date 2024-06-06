@@ -1,0 +1,76 @@
+# 25. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-06T15:32:00+02:00
+- Ende: 2024-06-06T17:58:00+02:00
+- Ort: Geänderter Sitzungsort: Großer Saal, Bürgerhaus Stollwerck, Dreikönigenstr. 23, 50678 Köln Es steht nur eine begrenzte Anzahl von Besucherplätzen bereit. Bitte melden Sie sich bei der Geschäftsführung an: Sozialamt.ausschuss@stadt-koeln.de an.
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29664
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29664
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: WIN WIN – Frauen treffen Unternehmen: Veranstaltung zum beruflichen Wiedereinstieg - Kenntnis genommen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Bericht der Behindertenbeauftragten - Kenntnis genommen
+- TOP 2.3: Arbeitsergebnisse der Interkulturellen Zentren zum Positionspapier des Integrationsrates - Kenntnis genommen
+- TOP 2.4: Jahresbericht "Willkommen und Ankommen in Köln" 2023 - Kenntnis genommen
+- TOP 2.5: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Gesundheitsausschusses vom 23.04.2024 (AN/0479/2024) betreffend "Barrierefreie Arztpraxen" - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Dringender Handlungsbedarf: Mieterinnen und Mieter im Kölner Norden benötigen sofortige Lösungen - zurückgestellt
+- TOP 3.2: Köln prüft die Einführung der YouCard – Mehr Bildung und Teilhabe für Kinder und Jugendliche in Köln - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderprogramm für Projekte zur Gewaltprävention und Stärkung von integrativen Angeboten für in städtischen Unterbringungseinrichtungen lebende Geflüchtete in Köln - Mittelvergabe - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - mit Änderungen empfohlen
+- TOP -: Regelwerk zur Anordnung und Gestaltung der Außengastronomie - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1 „Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: Verbindliche Vorgaben“ - endgültig abgelehnt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: 2. Sachstandsmitteilung zur Situation in der Wohngeldstelle nach der Reform der Wohngeldgesetzgebung zum 01.01.2023 - Kenntnis genommen
+- TOP 7.2: Auswertung der Kölner Bautätigkeitsstatistik 2023 - Kenntnis genommen
+- TOP 7.3: Sanierungspläne zum Wohnungsbestand der ZBI/ZBVV in Köln-Chorweiler - Kenntnis genommen
+- TOP 7.4: Abschlussbericht Evaluation des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.5: Erster Halbjahresbericht 2024 zur Wohnungs- und Obdachlosigkeit in Köln - zurückgestellt
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Beantwortung einer schriftlichen Anfrage der Liste GOL aus der Sitzung des Integrationsrates am 16.04.2024 (AN/0558/2024) betreffend "Job-Turbo" - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Jahresbericht des Auszugsmanagements 2023 - Kenntnis genommen
+- TOP 9.2: Beantwortung einer mündlichen Anfrage von IRM Carine Weber aus der Sitzung des Integrationsrates vom 16.04.2024 betreffend "TOP 5.12 Jahresbericht des Auszugsmanagements 2023 (1268/2024)" - zurückgestellt
+- TOP 9.3: Jahresbericht 2023 zur Gewaltschutzkoordination in den Unterkünften für Geflüchtete in Köln - Kenntnis genommen
+- TOP 9.4: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2023 - Kenntnis genommen
+- TOP 9.5: 41. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 9.6: 42. Bericht zur Situation Geflüchteter in Köln - zurückgestellt
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Umgang mit Nutzungsgebührenrückständen von städtisch untergebrachten Geflüchteten - Kenntnis genommen
+- TOP 10.1.2: Armut in Köln: Wohnungs- und Obdachlosigkeit 2023 - zurückgestellt
+- TOP 10.1.3: Armut in Köln: Welche sozialen Maßnahmen plant die Stadt in den Stadtteilen mit akutem sozia-lem Handlungsbedarf? - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD Fraktion AN/0291/2024 im Ausschuss für Soziales, Seniorinnen und Senioren vom 29.02.2024 zum Thema „Armut in Köln: Welche sozialen Maßnahmen plant die Stadt in den Stadtteilen mit akutem sozialem Handlun - Kenntnis genommen
+- TOP 10.1.4: Neue Drogenpolitik im Bund – Chancen für die Kölner Plätze mit besonderem Handlungsbedarf und weiteren Hotspots nutzen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD aus der Sitzung des Sozialausschusses vom 18.04.2024 (AN/0569/2024) betreffend "Neue Drogenpolitik im Bund - Chancen für die Kölner Plätze mit besonderem Handlungsbedarf und weiteren Hotspots nutzen" - Kenntnis genommen
+- TOP 10.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der schriftlichen Nachfrage AN/0762/2024 der SE Dr. Köhler zur Vorlage 1109/2024 betreffend "Barrierearmut Altbaubestand - Fahrstühle und Parterrewohnungen" - zurückgestellt
+- TOP 10.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der schriftlichen Nachfrage der SE Dr. Köhler (AN/0763/2024) zur Vorlage 1107/2024 betreffend "Wohnungs-Misere für Senior*innen in Köln" - zurückgestellt
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Razzia im Pascha – Wurden die Eigentümer*innen jemals überprüft? - zurückgestellt
+- TOP 10.2.2: Plätze mit besonderem Handlungsbedarf, hier: Ebertplatz - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 12.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Änderung der Hauptsatzung der Stadt Köln - § 23, Aktenzeichen 08/24 B - Kenntnis genommen
+- TOP 12.3: Arbeitsmarkt Köln - Rückblick 2023, bisherige Entwicklung und Ausblick 2024: Trotz Konjunkturflaute neuer Beschäftigungsrekord am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 12.4: Bericht zur Winterhilfe-Saison 2023/2024 - Kenntnis genommen
+- TOP 12.5: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 12.6: Halbjahresbericht zur Einführung eines Anonymen Krankenscheins in der Stadt Köln - zurückgestellt
+- TOP 12.7: Sachstandsbericht Köln-Pass - zurückgestellt
