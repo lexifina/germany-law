@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-06-06T16:00:00+02:00
+- Ende: 2024-06-06T18:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/244
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22128
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22128
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00331650.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00332690.pdf
+
+## Tagesordnung
+
+- TOP 1: Informationen zur gemeinsamen Baumaßnahme der WSW und der Stadt - Elberfeld 2030
+- TOP 2: Anfragen
+- TOP 3: Anträge der Fraktionen und Anregungen nach § 24 GemO NRW
+- TOP 3.1: Keine Bebauung im Bereich Böhler Hof - abgelehnt
+- TOP 3.1.1: Bürgerantrag nach § 24 GO NRW zur Baulandentwicklung Am Freudenberg „Böhler Hof“ - Entgegennahme ohne Beschluss
+- TOP 3.2: Anregung nach § 24 GO NRW - Bebauungsplan 1294 - BUGA 2 / Hängebrücke - ungeändert beschlossen
+- TOP 3.3: Bürgerantrag gem. § 24 GO NRW: Einführung eines jährlichen Freiraum-/ Grünflächenentwicklungsmonitorings für Wuppertal - ungeändert beschlossen
+- TOP 4: Einrichtung der Stelle eines Citymanagers/ einer Citymanagerin - Entgegennahme ohne Beschluss
+- TOP 5: Döppersberg: Aufstellung von Trinkwasserspender unterer Platz - ungeändert beschlossen
+- TOP 6: Erweiterung Färberei - Ankauf Immobilie Berliner Straße 112 - Entgegennahme ohne Beschluss
+- TOP 7: Quartalsbericht I/2024 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 8: Handlungsprogramm Gewerbeflächen - Fortschreibung 2024 - ungeändert beschlossen
+- TOP 9: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen - vertagen
+- TOP 10: Neue Gewerbeflächenpotenziale: Strukturkonzepte zu den Standorten Jägerhaus / Linde und Lichtscheid - Entgegennahme ohne Beschluss
+- TOP 11: Landesprogramm „Zukunftsfähige Innenstädte und Ortszentren“ Konzentrationsbereich Vohwinkel: Temporäre Möblierung und Begrünung der Kaiserstraße (Parklets) - ungeändert beschlossen
+- TOP 12: Outletcenter Remscheid: Stellungnahme der Stadt Wuppertal zur frühzeitigen Beteiligung - Entgegennahme ohne Beschluss
+- TOP 13: Bericht zum Antrag Flächenpotenziale entwickeln (VO/0534/23) - Entgegennahme ohne Beschluss
+- TOP 14: Sachstand Stellplatz-Satzung
+- TOP 15: Bebauungsplan 989 - Klippe - - ungeändert beschlossen
+- TOP 16: Bebauungsplan 1296 - Hatzfelder Büsche - - vertagen
+- TOP 17: Bebauungsplan 1280 - Holthauser Straße - - ungeändert beschlossen
+- TOP 18: 164. Flächennutzungsplanänderung - Hipkendahl - - vertagen
+- TOP 19: Bebauungsplan 1295 - Hipkendahl - - vertagen
+- TOP 20: Flächennutzungsplanänderung 166 - ungeändert beschlossen
+- TOP 21: Bebauungsplan 1294 - BUGA 2 / Hängebrücke - - ungeändert beschlossen
+- TOP 22: Bebauungsplan 1241/2A - Bahnhof Heubruch-Süd - - ungeändert beschlossen
+- TOP 23: Bebauungsplan 1234 - Rädchen Süd - - vertagen
+- TOP 24: Bebauungsplan 243 - Kohlstr. / Dr. Heinrich Feuchter-Stiftung - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 272 - Im Hölken - - ungeändert beschlossen
+- TOP 26: Bebauungsplan 398 - Erbschlöer Straße - 4. Änderung - ungeändert beschlossen
+- TOP 27: 142. Flächennutzungsplanänderung - Hauptstraße/ Amboßstraße - - ungeändert beschlossen
+- TOP 28: Vorhabenbezogener Bebauungsplan 1274V - Hauptstraße/ Amboßstraße - - ungeändert beschlossen
+- TOP 29: Gestaltungs- und Erhaltungssatzung - Kaiserstraße / Vohwinkeler Straße - - ungeändert beschlossen
+- TOP 30: Bebauungsplan 827A -Hofaue / Morianstraße- 1. Änderung des Bebauungsplanes Satzungsbeschluss - ungeändert beschlossen
+- TOP 31: Obsoleszenzverfahren Baumeisterstraße (Fluchtlinienplan 474) - ungeändert beschlossen
+- TOP 32: Sachstandsbericht Bebauungsplan 1281 - Barmer Bogen Siegesstraße - Entgegennahme ohne Beschluss
