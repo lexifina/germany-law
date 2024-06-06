@@ -1,0 +1,7 @@
+# TOP 12: Mitteilungen und Anfragen
+
+- Sitzung: Sitzung des Verbandsgemeinderates der Verbandsgemeinde Hunsrück-Mittelrhein (2024-06-06)
+- Körperschaft: Verbandsgemeinde Hunsrück-Mittelrhein
+- Öffentlich: ja
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/ni_2024-VG_Rat_HM-33%7CMAoe%7C1
+- Beschluss (Datei): Beschluss - Top 12 https://emmelshausen.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2024-VG_Rat_HM-33%7CMAoe%7C1
