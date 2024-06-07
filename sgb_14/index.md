@@ -1,4 +1,4 @@
-# Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
+# Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
