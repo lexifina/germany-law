@@ -11,4 +11,5 @@
 - [§ 8 Zuständige Stelle](0008.md)
 - [§ 9 Tierische Fette und Öle](0009.md)
 - [§ 10 Zugänglichkeit der DIN-Normen](0010.md)
+- [§ 11 Anpassung der Treibhausgasminderungs-Quote](0011.md)
 - [Anlage (zu § 4)Nachweis der Einhaltung der Normen](anlage.md)

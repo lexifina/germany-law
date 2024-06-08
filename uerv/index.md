@@ -43,7 +43,7 @@
 
 - [§ 19 Ausstellung von UER-Nachweisen](0019.md)
 - [§ 20 Inhalt von UER-Nachweisen](0020.md)
-- [§ 21 UER-Nachweise für Kyoto-Projekttätigkeiten](0021.md)
+- [§ 21 (weggefallen)](0021.md)
 - [§ 22 Stückelung und Verbindung von UER-Nachweisen](0022.md)
 - [§ 23 Übertragung von UER-Nachweisen](0023.md)
 - [§ 24 Unrichtige UER-Nachweise](0024.md)
@@ -55,21 +55,21 @@
 - [§ 27 Nutzungsbedingungen](0027.md)
 - [§ 28 Entwertungskonto](0028.md)
 - [§ 29 Ausbuchungskonto](0029.md)
-- [§ 30 Kontobevollmächtigte](0030.md)
+- [§ 30 Kontobevollmächtigte Personen](0030.md)
 - [§ 31 Kontosperrung](0031.md)
 
-### Abschnitt 4 Validierungs- und Verifizierungsstellen
+### Abschnitt 4 Validierungsstellen und Verifizierungsstellen
 
 
 #### Unterabschnitt 1 Registrierung
 
-- [§ 32 Registrierung von Validierungs- und Verifizierungsstellen](0032.md)
+- [§ 32 Registrierung von Validierungsstellen und Verifizierungsstellen](0032.md)
 - [(XXXX) §§ 33 bis 35 (weggefallen)](xxxx-33-bis-35.md)
 - [§ 36 Widerruf und Rücknahme der Registrierung](0036.md)
 
 #### Unterabschnitt 2 Aufgaben
 
-- [§ 37 Allgemeine Anforderungen an Validierungs- und Verifizierungsstellen](0037.md)
+- [§ 37 Allgemeine Anforderungen an Validierungsstellen und an Verifizierungsstellen](0037.md)
 - [§ 38 Spezifische Aufgaben der Validierungsstellen](0038.md)
 - [§ 39 Spezifische Aufgaben der Verifizierungsstellen](0039.md)
 - [§ 40 Validierungsbericht](0040.md)
@@ -90,8 +90,9 @@
 - [§ 49 Aufbewahrung von Unterlagen, Umgang mit Informationen](0049.md)
 - [§ 50 Datenübermittlung](0050.md)
 - [§ 51 Bericht](0051.md)
+- [§ 52 Übergangsregelung](0052.md)
 
 ## Teil 5 Schlussbestimmungen
 
-- [§ 52 Inkrafttreten](0052.md)
-- [Anlage 1 (weggefallen)](anlage-1.md)
+- [§ 52 Inkrafttreten](0052-2.md)
+- [Anlage Voraussetzungen für die Zusätzlichkeit von Projekttätigkeiten unter dem Übereinkommen von Paris sowie für den Ausschluss der Doppelzählung von Minderungserfolgen](anlage.md)
