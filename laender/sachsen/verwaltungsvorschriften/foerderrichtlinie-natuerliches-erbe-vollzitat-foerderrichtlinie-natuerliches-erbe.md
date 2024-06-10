@@ -1,8 +1,8 @@
 # Förderrichtlinie Natürliches Erbe Vollzitat: Förderrichtlinie Natürliches Erbe
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-14 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/20072.1
+- Datum: 2024-06-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/20072.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-14.07.2023
+10.06.2024
 bis
-09.06.2024
+16.07.2026
 
 Förderrichtlinie Natürliches Erbe
 
@@ -162,7 +162,7 @@ dass gegen die Begünstigten eine rechtskräftige Verurteilung, Strafbefehl oder
 
 c)
 
-dass gegen die Begünstigten eine Untersagung nach § 35 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 6 des Gesetzes vom 31. Mai 2023 (BGBl. 2023 I Nr. 140) geändert worden ist, in der jeweils geltenden Fassung, vorliegt.
+dass gegen die Begünstigten eine Untersagung nach § 35 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 5 des Gesetzes vom 17. Januar 2024 (BGBl. 2024 I Nr. 12) geändert worden ist, in der jeweils geltenden Fassung, vorliegt.
 
 
 d)
@@ -172,7 +172,7 @@ sofern die Begünstigten Träger eines Unternehmens sind, das Unternehmen nicht 
 
 e)
 
-dass gegen die Begünstigten oder eine juristische Person, an der sie beteiligt sind, ein Antrag auf Durchführung eines Verfahrens nach der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 11 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1166) geändert worden ist, in der jeweils geltenden Fassung, gestellt wurde oder ein solches Verfahren stattfindet.
+dass gegen die Begünstigten oder eine juristische Person, an der sie beteiligt sind, ein Antrag auf Durchführung eines Verfahrens nach der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 34 Absatz 13 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 411) geändert worden ist, in der jeweils geltenden Fassung, gestellt wurde oder ein solches Verfahren stattfindet.
 
 
 f)
@@ -260,12 +260,12 @@ Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 1
 
 –
 
-Verordnung (EU) Nr. 1407/2013 oder
+Verordnung (EU) 2023/2831 oder
 
 
 –
 
-Verordnung (EU) Nr. 360/2012.
+Verordnung (EU) 2023/2832.
 
 
 b)
@@ -280,12 +280,12 @@ Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 1
 
 –
 
-Verordnung (EU) Nr. 1407/2013 oder
+Verordnung (EU) 2023/2831 oder
 
 
 –
 
-Verordnung (EU) Nr. 360/2012.
+Verordnung (EU) 2023/2832.
 
 
 c)
@@ -305,12 +305,12 @@ Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 1
 
 –
 
-Verordnung (EU) Nr. 1407/2013 oder
+Verordnung (EU) 2023/2831 oder
 
 
 –
 
-Verordnung (EU) Nr. 360/2012.
+Verordnung (EU) 2023/2832.
 
 
 Vorhaben, die auf der Grundlage der Rahmenregelung gewährt werden sollen, können erst bewilligt werden, nachdem diese Regelung der Richtlinie durch die Europäische Kommission für zulässig erklärt worden ist. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
@@ -328,16 +328,16 @@ Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 1
 
 –
 
-Verordnung (EU) Nr. 1407/2013 oder
+Verordnung (EU) 2023/2831 oder
 
 
 –
 
-Verordnung (EU) Nr. 360/2012.
+Verordnung (EU) 2023/2832.
 
 10.2
 
-Soweit Zuwendungen auf der Grundlage der Agrarfreistellungsverordnung, der Rahmenregelung oder der Verordnung (EU) Nr. 360/2012 gewährt werden sollen, sind Unternehmen in Schwierigkeiten von einer Förderung ausgeschlossen.
+Soweit Zuwendungen auf der Grundlage der Agrarfreistellungsverordnung oder der Rahmenregelung gewährt werden sollen, sind Unternehmen in Schwierigkeiten von einer Förderung ausgeschlossen.
 
 10.3
 
@@ -449,7 +449,7 @@ Trockenmauern, die kein gesetzlich geschütztes Biotop sind oder die nicht über
 
 b)
 
-Vorhaben, die Gegenstand der Förderung gemäß der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), der Förderrichtlinie Landesprogramm Stadtgrün und Lärmminderung vom 15. Juni 2022 (SächsABl. S. 769) beziehungsweise deren Nachfolgerichtlinie, der Förderrichtlinie Aquakultur und Fischerei vom 20. Juni 2023 (SächsABl. S. 800), der Förderrichtlinie Teichwirtschaft und Naturschutz vom 4. Oktober 2022 (SächsABl. 2023 S. 342) oder der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369) und der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in den jeweils geltenden Fassungen, sind.
+Vorhaben, die Gegenstand der Förderung gemäß der Förderrichtlinie Wald und Forstwirtschaft 2023 vom 20. Juni 2023 (SächsABl. S. 854), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Stadtgrün, Lärm, Radon/2023 vom 28. August 2023 (SächsABl. S. 1288), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Aquakultur und Fischerei vom 20. Juni 2023 (SächsABl. S. 800), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Teichwirtschaft und Naturschutz vom 4. Oktober 2022 (SächsABl. 2023 S. 342), die durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1421) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315) oder der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 12. März 2024 (SächsABl. S. 364) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315) und der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), zuletzt enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in den jeweils geltenden Fassungen, sind.
 
 
 c)
@@ -569,7 +569,7 @@ Bestimmte Vorhaben zu Gehölzsanierung und -schnitt, Gehölzpflanzungen sowie Au
 
 e)
 
-Die Anteilfinanzierung erfolgt mit einem Fördersatz von 80 Prozent der förderfähigen Gesamtausgaben. Bei Vorhaben, die sich auf Schutzgüter der Stufe 2 der Bedeutung für den Biotop- und Artenschutz im Freistaat Sachsen beziehen, erhöht sich der Fördersatz auf 90 Prozent. Bei Vorhaben, die sich auf Schutzgüter der Stufe 1 beziehen, erhöht sich der Fördersatz auf 100 Prozent. Die Liste der Schutzgüter mit der Einstufung der Bedeutung für den Biotop- und Artenschutz im Freistaat Sachsen wird im Internet unter der Adresse https://www.lsnq.de/ne2023 öffentlich bekannt gemacht.
+Die Anteilfinanzierung erfolgt mit einem Fördersatz von 80 Prozent der förderfähigen Gesamtausgaben. Bei Vorhaben, die sich auf Schutzgüter der Stufe 2 der Bedeutung für den Biotop- und Artenschutz im Freistaat Sachsen beziehen, erhöht sich der Fördersatz auf 90 Prozent. Bei Vorhaben, die sich auf Schutzgüter der Stufe 1 der Bedeutung für den Biotop- und Artenschutz im Freistaat Sachsen beziehen, erhöht sich der Fördersatz auf 100 Prozent. Die Liste der Schutzgüter mit der Einstufung der Bedeutung für den Biotop- und Artenschutz im Freistaat Sachsen wird im Internet unter der Adresse https://www.lsnq.de/ne2023 öffentlich bekannt gemacht.
 
 
 f)
@@ -760,7 +760,7 @@ Studien zu Vorkommen von geschützten und gefährdeten Tier- und Pflanzenarten, 
 
 b)
 
-Studien zur Erfassung des Zustands, von Beeinträchtigungen und Handlungsbedarfen der wertbestimmenden Vorkommen von Arten und Lebensraumtypen in Natura 2000-Gebieten (Gebietsbetreuung), zur gebietsgebundenen Artenbetreuung sowie die Dokumentation der Erfassungsergebnisse
+Studien zur Erfassung des Zustands, von Beeinträchtigungen und Handlungsbedarfen der wertbestimmenden Vorkommen von Arten und Lebensraumtypen in Natura 2000-Gebieten (Gebietsbetreuung), zum gebietsbezogenen Artenmanagement sowie die Dokumentation der Erfassungsergebnisse
 
 
 einschließlich begleitender Arbeiten in direktem Zusammenhang mit dem konkreten Einzelvorhaben, insbesondere Planungsarbeiten, Projektmanagement, Öffentlichkeitsarbeit sowie Tätigkeiten zur Sensibilisierung für Arten und Lebensraumtypen sowie zur Verbesserung der Eigenschaften der Arthabitate und Lebensraumtypenvorkommen.
@@ -828,10 +828,14 @@ b)
 Bei Anteilfinanzierung werden Pauschalsätze für indirekte Kosten gewährt
 
 
-aa) in Höhe von 7 Prozent der förderfähigen direkten Kosten oder
+aa)
+
+in Höhe von 7 Prozent der förderfähigen direkten Kosten oder
 
 
-bb) in Höhe von 15 Prozent der förderfähigen direkten Personalkosten.
+bb)
+
+in Höhe von 15 Prozent der förderfähigen direkten Personalkosten.
 
 
 c)
@@ -918,7 +922,7 @@ Förderfähige Ausgaben
 Auf Basis eines Gebotes gemäß Teil C Ziffer II Nummer 3 dieser Richtlinie sind folgende Ausgaben förderfähig:
 
 
-Ausgaben und Aufwendungen der Organisation (einschließlich Vor- und Nachbereitung der Naturschutzberatung) sowie Teilnahme der Anbieter der Naturschutzberatung an Schulungen und der Umsetzung/Bereitstellung der Naturschutzberatung.
+Ausgaben und Aufwendungen der Organisation (einschließlich Vor- und Nachbereitung der Naturschutzberatung) sowie Teilnahme der Anbieter der Naturschutzberatung an Schulungen und der Umsetzung/Bereitstellung der Naturschutzberatung. Die an die Anbietenden der Naturschutzberatung gezahlte Mehrwertsteuer zählt zu den förderfähigen Ausgaben.
 
 5.5
 
@@ -1121,7 +1125,7 @@ Von der Förderung ausgeschlossen sind:
 
 a)
 
-Vorhaben, die Gegenstand der Förderung gemäß der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), der Förderrichtlinie Landesprogramm Stadtgrün und Lärmminderung vom 15. Juni 2022 (SächsABl. S. 769) beziehungsweise deren Nachfolgerichtlinie, der Förderrichtlinie Aquakultur und Fischerei vom 20. Juni 2023 (SächsABl. S. 800), der  Förderrichtlinie Teichwirtschaft und Naturschutz vom 4. Oktober 2022 (SächsABl. 2023 S. 342) oder der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369) und der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in den jeweils geltenden Fassungen, sind,
+Vorhaben, die Gegenstand der Förderung gemäß der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Stadtgrün, Lärm, Radon/2023 vom 28. August 2023 (SächsABl. S. 1288), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Aquakultur und Fischerei vom 20. Juni 2023 (SächsABl. S. 800), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), der Förderrichtlinie Teichwirtschaft und Naturschutz vom 4. Oktober 2022 (SächsABl. 2023 S. 342), die durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1421) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315) oder der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 12. März 2024 (SächsABl. S. 364) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315) und der Förderrichtlinie Insektenschutz und Artenvielfalt vom 10. Februar 2021 (SächsABl. S. 167), zuletzt enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in den jeweils geltenden Fassungen, sind,
 
 
 b)
@@ -1471,7 +1475,7 @@ Die Bewilligungsbehörde berücksichtigt die Art, Schwere, Häufigkeit und Dauer
 
 5.
 
-Der Bewilligungsbescheid kann widerrufen werden, wenn mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Zuwendungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten haben.
+Der Bewilligungsbescheid kann widerrufen werden, wenn mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Bewilligungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten haben.
 
 6.
 
@@ -1482,7 +1486,7 @@ Der Bewilligungsbescheid kann ganz oder zum Teil widerrufen werden, wenn die Beg
 Zu Unrecht gezahlte Beträge sind zurückzuerstatten und zu verzinsen.
 
 
-Das Verfahren richtet sich nach den Regelungen des § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit §§ 48 ff. des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, in den jeweils geltenden Fassungen.
+Das Verfahren richtet sich nach den Regelungen des § 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das zuletzt durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit §§ 48 ff. des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist, in den jeweils geltenden Fassungen.
 
 IX.
 Umgehungsklausel
@@ -1492,7 +1496,7 @@ Die Zuwendung wird nicht gewährt oder widerrufen und zurückgefordert, wenn fes
 X.
 Höhere Gewalt und außergewöhnliche Umstände
 
-In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde im Einzelfall auf den Widerruf des Zuwendungsbescheides verzichten. Die Fälle sind der Bewilligungsbehörde schriftlich und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen. Unbeschadet besonderer Umstände des Einzelfalls ist höhere Gewalt insbesondere in folgenden Fällen anzunehmen:
+In Fällen höherer Gewalt oder außergewöhnlicher Umstände kann die Bewilligungsbehörde im Einzelfall auf den Widerruf des Bewilligungsbescheides verzichten. Die Fälle sind der Bewilligungsbehörde schriftlich und mit entsprechenden Nachweisen innerhalb von 15 Arbeitstagen ab dem Zeitpunkt, ab dem die Begünstigten hierzu in der Lage sind, mitzuteilen. Unbeschadet besonderer Umstände des Einzelfalls ist höhere Gewalt insbesondere in folgenden Fällen anzunehmen:
 
 a)
 
@@ -1557,18 +1561,18 @@ Der Freistaat Sachsen gewährt finanzielle Unterstützung unter Berücksichtigun
 a)
 
 
-Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 
 b)
 
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23 und 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23, 44  und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes, insbesondere §§ 35 bis 50.
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das zuletzt durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist, insbesondere §§ 35 bis 50.
 
 d)
 
@@ -1591,10 +1595,7 @@ Zuwendungen nach D.2 (Einzelvorhaben des Naturschutzes mit besonderer fachpoliti
 
 c)
 
-Soweit es sich bei den Zuwendungen nach E (Vorhaben zur Prävention von Schäden durch Wolf, Biber, Luchs) um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt, werden diese auf Grundlage des Teil II Abschnitt 1.1.1.1 der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor in ländlichen Gebieten (Rahmenregelung; ABl. C 485 vom 21.12.2022, S. 1) und Teil I Abschnitt 2.3 der Leitlinien für staatliche Beihilfen im Fischerei- und Aquakultursektor (Leitlinien im Fischerei- und Aquakultursektor -ABl. C 107 vom 23.3.2023, S. 1) sowie deren Nachfolgeregelungen gewährt. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
-
-
-Zuwendungen als Beihilfen im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union für Vorhaben nach E dürfen erst nach Genehmigung dieser Regelung der Richtlinie durch die Europäische Kommission gewährt werden.
+Soweit es sich bei den Zuwendungen nach E (Vorhaben zur Prävention von Schäden durch Wolf, Biber, Luchs) um staatliche Beihilfen im Sinne des Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt, werden diese auf Grundlage des Teil II Abschnitt 1.1.1.1 der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor in ländlichen Gebieten (Rahmenregelung; ABl. C 485 vom 21.12.2022, S. 1), die zuletzt durch die Mitteilung der Kommission vom 5. März 2024 (ABl. C. C/2024/1902, 05.03.2024) geändert worden ist, und Teil I Abschnitt 2.3 der Leitlinien für staatliche Beihilfen im Fischerei- und Aquakultursektor (Leitlinien im Fischerei- und Aquakultursektor – ABl. C 107 vom 23.3.2023, S. 1) sowie deren Nachfolgeregelungen gewährt. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben. Außerhalb des Anwendungsbereiches der Rahmenregelung sowie der Leitlinien im Fischerei- und Aquakultursektor können Beihilfen auf der Grundlage der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L, 2023/2831, 15.12.2023) gewährt werden.
 
 
 d)
@@ -1604,7 +1605,7 @@ Soweit es sich bei den Zuwendungen nach G (Biotop- und artenangepasste Pflege) u
 
 –
 
-Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen, die zuletzt durch die Verordnung (EU) 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist,
+Verordnung (EU) 2023/2831,
 
 
 –
@@ -1619,7 +1620,7 @@ Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendun
 
 –
 
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen, die zuletzt durch die Verordnung (EU) 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 14.10.2020, S. 1) verlängert worden ist.
+Verordnung (EU) 2023/2832 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L, 2023/2832, 15.12.2023).
 
 
 e)
@@ -1727,7 +1728,7 @@ Begünstigte
 
 3.1
 
-Begünstigte bei Vorhaben nach D, E und H können juristische Personen des privaten und öffentlichen Rechts sowie natürliche Personen sein.
+Begünstigte bei Vorhaben nach D, E und H können juristische Personen des privaten und öffentlichen Rechts sowie natürliche Personen und Personengesellschaften sein.
 
 3.2
 
@@ -1735,7 +1736,7 @@ Begünstigte bei Vorhaben nach G können Landkreise und kreisfreie Städte sein.
 
 3.3
 
-Soweit es sich bei Zuwendungen um staatliche Beihilfen im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt und die Förderung auf der Grundlage der Rahmenregelung, der Leitlinien im Fischerei- und Aquakultursektor oder der Verordnung (EU) Nr. 360/2012 gewährt werden sollen, sind Unternehmen in Schwierigkeiten von einer Förderung ausgeschlossen.
+Soweit es sich bei Zuwendungen um staatliche Beihilfen im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt und die Förderung auf der Grundlage der Rahmenregelung oder der Leitlinien im Fischerei- und Aquakultursektor gewährt werden sollen, sind Unternehmen in Schwierigkeiten von einer Förderung ausgeschlossen.
 Wird die Zuwendung auf der Grundlage der Rahmenregelung oder der Leitlinien im Fischerei- und Aquakultursektor gewährt, ist eine Förderung auch ausgeschlossen, solange ein Unternehmen, einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen ist.
 
 3.4
@@ -1864,7 +1865,7 @@ Sonstige Zuwendungsbestimmungen
 
 6.1
 
-Die Höhe der Zuwendung bemisst sich an der Höhe der zuwendungsfähigen Ausgaben. Die Zuwendung und die zuwendungsfähigen Ausgaben werden mit dem Zuwendungsbescheid dem Grunde nach bewilligt und auf einen Höchstbetrag begrenzt.
+Die Höhe der Zuwendung bemisst sich an der Höhe der zuwendungsfähigen Ausgaben. Die Zuwendung und die zuwendungsfähigen Ausgaben werden mit dem Bewilligungsbescheid dem Grunde nach bewilligt und auf einen Höchstbetrag begrenzt.
 
 6.2
 
@@ -2035,7 +2036,7 @@ Bei Vorhaben nach E sind die Vorgaben zur Transparenz gemäß Randnummer 112 der
 
 7.9
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Bewilligungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
 
 
 Teil 3
@@ -2067,18 +2068,19 @@ Der Freistaat Sachsen gewährt finanzielle Unterstützung unter Berücksichtigun
 a)
 
 
-Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+Sächsische Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 
 b)
 
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23 und 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung zu §§ 23 und 44 und 44a der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist – insbesondere §§ 35 bis 50,
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit den einschlägigen Bestimmungen des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist – insbesondere §§ 35 bis 50,
+
 
 d)
 
@@ -2096,10 +2098,7 @@ Beihilferechtliche Grundlagen
 
 a)
 
-Die Zuwendungen werden auf der Grundlage des Teil II Abschnitt 1.1.1.1 der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (Rahmenregelung; ABl. C 485 vom 21.12.2022, S. 1) gewährt. Bewilligungen dürfen erst nach der Genehmigung dieser Regelung durch die Europäische Kommission erfolgen. Im Bewilligungsbescheid ist die beihilferechtliche Identifikationsnummer anzugeben.
-
-
-Bis zum Vorliegen der Entscheidung der Europäischen Kommission kann die Zuwendung auch auf der Grundlage der Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor, die zuletzt durch die Verordnung (EU) 2022/2046 der Kommission vom 24.10.2022 (ABl. L 275 vom 25.10.2022, S. 55) geändert worden ist, in der jeweiligen Fassung gewährt werden.
+Die Zuwendungen werden auf der Grundlage des Teil II Abschnitt 1.1.1.1 der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (Rahmenregelung; ABl. C 485 vom 21.12.2022, S. 1, die zuletzt durch die Mitteilung der Kommission vom 5. März 2024 (ABl. C. C/2024/1902, 05.03.2024) geändert worden ist) gewährt. Im Bewilligungsbescheid ist die beihilferechtliche Identifikationsnummer anzugeben.
 
 
 b)
@@ -2166,7 +2165,7 @@ andere Landbewirtschafter.
 
 3.2
 
-Als Begünstigte kommen nur Kleinstunternehmen sowie kleine und mittlere Unternehmen im Sinne der Randnummer 33 Ziffer 56 der Rahmenregelung in Betracht.
+Als Begünstigte ausgeschlossen sind große Unternehmen im Sinne der Randnummer 33 Ziffer 36 der Rahmenregelung.
 
 3.3
 
@@ -2288,24 +2287,16 @@ Die Anträge zur Auszahlung und die zur Verwendungsnachweisprüfung vorgesehenen
 
 b)
 
-Falls Teilauszahlungen zugelassen sind:
-
-
-Teilauszahlungen können auf Basis tatsächlich entstandener und nachgewiesener Ausgaben geleistet werden.
-
-
-c)
-
 Die Auszahlung kann nur bei Nachweis entsprechender im Bewilligungsbescheid festgelegter Einheiten, Zwischenziele oder Meilensteine geleistet werden.
 
 
-d)
+c)
 
 Die Bewilligungsbehörde setzt mit Festsetzungsbescheid die Zuwendung fest und veranlasst die Auszahlung.
 
 7.4
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Bewilligungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
 
 
 Teil 4
@@ -2384,15 +2375,15 @@ die Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Un
 
 9.
 
-Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1),
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1), die zuletzt durch die Verordnung (EU) 2023/2607 der Kommission vom 22. November 2023 (ABl. L, 2023/2607, 23.11.2023) geändert worden ist,
 
 10.
 
-die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/972 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist,
+Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L, 2023/2831, 15.12.2023),
 
 11.
 
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch Verordnung (EU) 2020/1474 (ABl. L 337 vom 14.10.2020, S. 1) geändert worden ist,
+Verordnung (EU) 2023/2832 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L, 2023/2832, 15.12.2023),
 
 12.
 
@@ -2400,7 +2391,7 @@ Beschluss der Kommission vom 20. Dezember 2011 über die Anwendung von Artikel 1
 
 13.
 
-Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (ABl. C 485 vom 21.12.2022, S. 1).
+Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten (ABl. C 485 vom 21.12.2022, S. 1), die zuletzt durch die Mitteilung der Kommission vom 5. März 2024 (ABl. C. C/2024/1902, 05.03.2024) geändert worden ist.
 
 
 Anlage 2
@@ -2445,7 +2436,7 @@ Vergabe von Aufträgen
 Vergabedokumentation
 
 
-(1) Sind die Begünstigten als öffentliche Auftraggeber verpflichtet, die Vergabeverordnung (VgV) vom 12. April 2016 (BGBl. I S. 624), die zuletzt durch Artikel 2 des Gesetzes vom 9. Juni 2021 (BGBl. I S. 1691) geändert worden ist, in der jeweils geltenden Fassung, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so haben sie die Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen vorzulegen. Die Verpflichtung zur Einhaltung der Vergabevorschriften ergibt sich aus den §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 2 des Gesetzes vom 19. Juli 2022 (BGBl. I S. 1214) geändert worden ist, sowie aus § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), das durch Artikel 2 Absatz 18 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in den jeweils geltenden Fassungen.
+(1) Sind die Begünstigten als öffentliche Auftraggeber verpflichtet, die Vergabeverordnung (VgV) vom 12. April 2016 (BGBl. I S. 624), die zuletzt durch Artikel 1 der Verordnung vom 7. Februar 2024 (BGBl. 2024 I Nr. 39) geändert worden ist, in der jeweils geltenden Fassung, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so haben sie die Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen vorzulegen. Die Verpflichtung zur Einhaltung der Vergabevorschriften ergibt sich aus den §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, sowie aus § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), das durch Artikel 2 Absatz 18 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in den jeweils geltenden Fassungen.
 
 (2) Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.
 
@@ -2534,7 +2525,7 @@ der Zuwendungszweck oder eine mit der Zuwendung verbundene Auflage nicht oder ni
 
 c)
 
-mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Zuwendungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten haben.
+mit dem Vorhaben nicht spätestens innerhalb eines Jahres nach Zugang des Bewilligungsbescheides begonnen wurde. Von einem Widerruf ist abzusehen, wenn die Begünstigten die Verzögerung nicht zu vertreten haben.
 
 
 (4) Die Bewilligungsbehörde berücksichtigt die Art, Schwere, Häufigkeit und Dauer des festgestellten Verstoßes gegen die Bedingungen und Auflagen sowie die Höhe des finanziellen Schadens.
@@ -2652,7 +2643,7 @@ sie innerhalb der Zweckbindungsfrist beabsichtigen, die geförderten Grundstück
 Subventionsbetrug
 
 
-(1) Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 4 des Gesetzes vom 4. Dezember 2022 (BGBl. I S. 2146) geändert worden ist, in der jeweils geltenden Fassung, von denen die Bewilligung, Auszahlung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 des Strafgesetzbuches, in der jeweils geltenden Fassung. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
+(1) Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im Sinne von § 264 des Strafgesetzbuches in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 1 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 203) geändert worden ist, in der jeweils geltenden Fassung, von denen die Bewilligung, Auszahlung oder Rückforderung der beantragten Zuwendung abhängig ist. Unrichtige, unvollständige oder unterlassene Angaben über subventionserhebliche Tatsachen fallen unter den Tatbestand des Subventionsbetruges nach § 264 des Strafgesetzbuches, in der jeweils geltenden Fassung. Subventionserheblich sind insbesondere alle Tatsachen, von denen nach Verwaltungsverfahrensrecht, nach Haushaltsrecht oder anderen Rechtsvorschriften die Rückzahlung der Zuwendung abhängig ist sowie solche, die durch Scheingeschäfte und Scheinhandlungen verdeckt werden.
 
 (2) Stellt die Bewilligungsbehörde fest, dass tatsächliche Anhaltspunkte vorliegen, die den Verdacht eines Subventionsbetruges rechtfertigen oder dass die Begünstigten vorsätzlich falsche Angaben gemacht haben, hat sie diesen Vorgang gemäß Artikel 325 des Vertrags über die Arbeitsweise der Europäischen Union, § 1 des Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037), in den jeweils geltenden Fassungen, der zuständigen Strafverfolgungsbehörde zu übergeben.
 
@@ -2697,7 +2688,7 @@ Arbeitnehmer-Brutto ohne Sonderzahlungen,
 
 –
 
-Pauschalsatz Arbeitgeber- SV- Anteil,
+Pauschalsatz Arbeitgeber-SV-Anteil,
 
 
 –
@@ -2983,7 +2974,7 @@ Investitionen in Anlagen, deren Hauptzweck die Energiegewinnung ist,
 p)
 
 
-Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 4. Januar 2023 (BGBl. I Nr. 5) geändert worden ist, in der jeweils geltenden Fassung, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsischen Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 [SächsGVBl. S. 705] geändert worden ist, in der jeweils geltenden Fassung) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt,
+Errichtung oder Erweiterung baulicher Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten nach § 76 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 7 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der jeweils geltenden Fassung, liegen. Im besonderen Ausnahmefall kann eine Förderung im Einzelfall erfolgen, wenn das Vorhaben von der zuständigen unteren Wasserbehörde (zum Beispiel nach § 74 Absatz 2 des Sächsischen Wassergesetzes vom 12. Juli 2013 [SächsGVBl. S. 503], das zuletzt durch Artikel 12 des Gesetzes vom 20. Dezember 2022 [SächsGVBl. S. 705] geändert worden ist, in der jeweils geltenden Fassung) genehmigt wurde oder diese bei durch andere Behörden genehmigten Vorhaben der Förderung zustimmt,
 
 
 q)
@@ -3008,7 +2999,7 @@ Personalkostenanteile, die durch Personalkostenzuschüsse der Bundesagentur für
 
 c)
 
-Ausgaben für pauschale Aufwandserstattungen oder den Ersatz entstandener Reisekosten für im Naturschutzdienst als Naturschutzbeauftragte tätige Personen nach § 43 des Sächsischen Naturschutzgesetzes sowie Ausgaben für den Ersatz entstandener Reisekosten für im Naturschutzdienst als Naturschutzhelfer tätige Personen nach § 43 des Sächsischen Naturschutzgesetzes,
+Ausgaben für pauschale Aufwandserstattungen oder den Ersatz entstandener Reisekosten für im Naturschutzdienst als Naturschutzbeauftragte tätige Personen nach § 43 des Sächsischen Naturschutzgesetzes vom 6. Juni 2013 (SächsGVBl. S. 451), das zuletzt durch Artikel 6 des Gesetzes vom 20. Dezember 2022 (SächsGVBl. S. 705) geändert worden ist, in der jeweils geltenden Fassung, sowie Ausgaben für den Ersatz entstandener Reisekosten für im Naturschutzdienst als Naturschutzhelfer tätige Personen nach § 43 des Sächsischen Naturschutzgesetzes,
 
 
 d)
@@ -3026,9 +3017,9 @@ Fsn-Nr.: 5563-V23.8
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 14. Juli 2023
+Fassung gültig ab: 10. Juni 2024
 
-Fassung gültig bis:  9. Juni 2024
+Fassung gültig bis: 16. Juli 2026
 
 Drucken/Speichern
 
@@ -3053,7 +3044,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/20072.1
+https://www.revosax.sachsen.de/vorschrift/20072.2
 Stand vom
 18.11.2026
 
