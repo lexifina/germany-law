@@ -1,0 +1,84 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-10T15:15:00+02:00
+- Ende: 2024-06-10T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29665
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29665
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP -: A. Präsentation der Bezirksschüler*innenvertretung zu dem Thema "mentale Gesundheit von Schüler*innen" - Kenntnis genommen
+- TOP -: B. Präsentation zum Thema "Steigende Queerfeindlichkeit an Schulen" - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Steigende Queerfeindlichkeit an Schulen - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Zügigkeitserweiterung der Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil, Schulnr. 114832, zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 2.2: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Innenstadt in der Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - zurückgestellt
+- TOP 2.3: Schulrechtliche Errichtung einer neuen Gesamtschule im Stadtbezirk Kalk mit Start im Interimsgebäude Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - zurückgestellt
+- TOP 2.4: Zügigkeitserweiterung der Gemeinschaftsgrundschule Don-Bosco-Schule, Humboldtstr. 81-83, 51145 Köln-Porz, Schulnr. 114819, zum Schuljahr 2025/26 - ungeändert empfohlen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Interfraktioneller Antrag vom 23.05.2024 betreffend "Sport- oder Schulschwimmbecken bei der Errichtung einer Grundschule in Ehrenfeld mitplanen" - ungeändert beschlossen
+- TOP 3.2: Antrag der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 28.05.2024 betreffend "Fachvortrag RAUMBOX©" - ungeändert beschlossen
+- TOP 3.3: Antrag der Fraktion SPD vom 28.05.2024 betreffend "Kurt-Tucholsky-Schule in eine Gesamtschule umwandeln" - zurückgestellt
+- TOP 3.4: Antrag der Fraktionen Bündnis 90/Die Grünen, SPD, Die Linke/DIE PARTEI, Fr. Schroeder (Klima Freunde), Fr. Pöttgen (FDP), Hr. Scholz (GUT) vom 25.01.2024 betreffend "Beschluss über die Aufstellung eines Bebauungsplanes" - zurückgestellt
+- TOP 3.5: Antrag der Fraktion KLIMAFREUNDE & GUT vom 13.11.2023 betreffend "Bestandsschutz der Kleingartenanlage "Kölsche Kiwis" am Maarweg" - zurückgestellt
+- TOP -: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 23.11.2023 (AN1970/2023) - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 23.02.2024 - zurückgestellt
+- TOP 3.6: Antrag vom 22.02.2024 betreffend "PKW-Abstellmöglichkeiten für Senioren am Eingang Sporthalle der Schule Albert-Schweitzer-Str." - geändert beschlossen
+- TOP -: Stellungnahme der Verwaltung vom 04.06.2024 - Kenntnis genommen
+- TOP 3.7: Dringlichkeitsantrag der Fraktion KLIMAFREUNDE & GUT vom 10.06.2024 betreffend "Schulgemeinschaft schützen - Demokratie verteidigen!" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 24.04.2024 betreffend "Sachstand Einführung der Plattform schulbewerbung.de" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 05.06.2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 27.05.2024 "Auswirkungen des „Herrenberg“-Urteils des Bundessozialgerichts für Honorarkräfte" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - zurückgestellt
+- TOP 4.4: Anfrage der Fraktion DIE FRAKTION vom 05.06.2024 betreffend "Nutzung von Schulgebäuden durch politische Organisationen" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Stadtschulpflegschaft vom 17.04.2024 betreffend "Gebäudeklima" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktionen Bündnis 90 / Die Grünen und Volt vom 17.04.2024 betreffend "Professionelle Sprach- und Kulturmittlung in AO SF-Verfahren" - zurückgestellt
+- TOP 5.3: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 28.02.2024 betreffend "Verkehrssituation am Interim- Standort Gymnasium Rondorf" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 26.04.2024 - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktion Die Fraktion vom 13.01.2023 betreffend "Sponsoringvereinbarung Stadt Köln 2021-22" - Kenntnis genommen
+- TOP -: Anfrage der Fraktion Die Fraktion vom 15.11.2023 betreffend "Sachstand "Sponsoringvereinbarung Stadt Köln 2021-22" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 28.05.2024 - Kenntnis genommen
+- TOP 5.5: Anfrage der Fraktionen Bündnis 90 / Die Grünen, CDU und Volt vom 17.04.2024 betreffend "Broschüre Hitzeaktionsplan für Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 28.05.2024 - Kenntnis genommen
+- TOP 5.6: Anfrage der Fraktion SPD vom 15.04.2024 betreffend "Schulweg der neuen Montessori Grundschule Friedrich-Karl-Straße / Köln-Nippes" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 07.06.2024 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Bestätigung der Teilstandorte der Johann-Christoph-Winters-Schule, Lindenburger Allee 38, 50931 Köln, Schulnummer 154143 - ungeändert empfohlen
+- TOP 6.2: Bestätigung eines Teilstandortes der Paul-Maar-Schule, Marienplatz 2, 50676 Köln, Schulnummer 154246 in der Pfälzer Straße 30, 50677 Köln - ungeändert empfohlen
+- TOP 6.3: Sportmöglichkeiten für das neue Gymnasium Rondorf-Nordwest am Interimsstandort Eygelhovener Straße, 50996 Köln-Rodenkirchen - zurückgestellt
+- TOP 6.4: Einrichtung des Schulneubaus für die Gesamtschule Wasseramselweg, Wasseramselweg 2 in 50829 Köln, Kostenfortschreibungsbeschluss - ungeändert empfohlen
+- TOP 6.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück, für ein 3/5-zügiges Gymnasium mit 3-fach Sporthalle im Stadtbezirk Nippes - ungeändert empfohlen
+- TOP -: Änderungsantrag der Fraktion KLIMAFREUNDE & GUT betreffend "Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück, für ein 3/5-zügiges Gymnasium mit 3-fach Sporthalle im Stadtbezirk Nippes - endgültig abgelehnt
+- TOP 6.6: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück als Ersatz für das bestehende Berufskolleg Porz, Hauptstraße 426, 51143 Köln - ungeändert empfohlen
+- TOP -: Änderungsantrag der Fraktion KLIMAFREUNDE & GUT betreffend "Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück als Ersatz für das bestehende Berufskolleg Porz, Hauptstraße 426" - endgültig abgelehnt
+- TOP 6.7: Umwandlung von zwei Katholischen Grundschulen in Gemeinschaftsgrundschulen - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Aktionsprogramm Ankommen nach Corona; hier: Niedrigschwellige Versorgung der Kölner Kinder und Jugendlichen in psychischen Notlagen" - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündliche Anfrage der Stadtschulpflegschaft von Achim Schmitz aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 22.05.23 betreffend "Anmeldeverfahren der Sekundarstufe I (Überleiterverfahren) zum Schuljahr 2023/2024" - Kenntnis genommen
+- TOP 8.3: Gemeinsames Lernen - Kenntnis genommen
+- TOP 8.4: Jahresbericht 2023 des Amts für Weiterbildung / Volkshochschule liegt vor - Kenntnis genommen
+- TOP 8.5: Sportentwicklungsplanung - Öffnung der Bezirkssportanlage Weiden für den Individualsport - Kenntnis genommen
+- TOP 8.6: Bericht zur kommunalen Elternberatung Inklusion im Amt für Schulentwicklung - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von Nathalie Binz (Stadtschulpflegschaft) aus der Sitzung des Ausschuss Schule und Weiterbildung am 22.01.2024 betreffend "aktueller Sachstand des Medienentwicklungsplans" - Kenntnis genommen
+- TOP 8.8: Beantwortung einer mündlichen Anfrage von Oliver Seeck (SPD) aus der ASW-Sitzung vom 22.01.2024 betreffend "Schull- - Kenntnis genommen
+- TOP 8.9: Beantwortung einer mündlichen Anfrage von Heiner Kockerbeck (Fraktion DIE LINKE) aus der Sitzung des Ausschuss Schule und Weiterbildung vom 22.04.2024 betreffend "Auswirkungen des Schulsozialindex" - Kenntnis genommen
+- TOP 8.10: Beantwortung der schriftlichen Anfrage der SPD Fraktion AN/0291/2024 im Ausschuss für Soziales, Seniorinnen und Senioren vom 29.02.2024 zum Thema „Armut in Köln: Welche sozialen Maßnahmen plant die Stadt in den Stadtteilen mit akutem sozialem Handlun - Kenntnis genommen
+- TOP 8.11: Beantwortung einer Anfrage von RM Böll, Bündnis 90/Die Grünen, aus der Sitzung vom 22. April 2024 betreffend des Zustands der naturwissenschaftlichen Fachräume am Heinrich-Heine-Gymnasium am Hardtgenbuscher Kirchweg - Kenntnis genommen
+- TOP 8.12: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.13: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.14: Stellungnahme zum Beschluss der Bezirksvertretung Porz Vorlage 4033/2023 aus der Sitzung des SteA vom 14.03.2024 betreffend "Schulstandort Urbacher Weg in Köln-Porz" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.15: Anmeldeverfahren der weiterführenden Schulen in städtischer Trägerschaft für das Schuljahr 2024/2025 - zurückgestellt
+- TOP 8.16: Köln beteiligt sich am Startchancen-Programm für bessere Bildungschancen und mehr Bildungsgerechtigkeit - Kenntnis genommen
+- TOP 8.17: Beantwortung einer mündlichen Anfrage zu 8.19 "Tag der Jugend im Rathaus 2023 - Evaluation" aus der Sitzung am 22.01.2024 - Kenntnis genommen
+- TOP 8.18: Workshop über das "Abriss-Moratorium" (zum Antrag AN/1832/2022) - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
