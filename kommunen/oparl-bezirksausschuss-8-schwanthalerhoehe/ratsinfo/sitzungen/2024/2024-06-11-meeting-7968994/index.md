@@ -1,0 +1,106 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7968994
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7968994
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Nutzung der Circus-Wiese / Schrottfahrräder in der Westendstraße
+- TOP 4.2.: Pilotprojekt gelbe Wertstofftonnen im Westend
+- TOP 4.3.: Versammlung “München muss lauter werden“ auf der Theresienwiese am 25.05.2024
+- TOP 4.4.: Online-Anträge aus der Bürgerversammlung vom 18.04.2024
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Bergmannstraße 66
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Gollierstraße 72
+- TOP 6.2.2.: Bauvorhaben Fäustlestraße 8
+- TOP 6.2.3.: Bauvorhaben Ganghoferstraße 27a
+- TOP 6.2.4.: Bauvorhaben Garmischer Straße 2
+- TOP 6.2.5.: Bauvorhaben Gollierstraße 16
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Machbarkeitsuntersuchung Hitzeschutz Bahndeckel
+- TOP 6.3.3.: Anfrage zum ehemaligen KPMG-Gebäude in der Ganghoferstraße
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Bessere Gestaltung des Gollierplatzes Einrichtung Calisthenics Park
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Rauchverbot in Sichtweite von Kindern - stadtweite Abstimmung BV-Empfehlung Nr. E01956 / Sitzungsvorlage Nr. 20-26 / V 13539
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Erhaltungssatzungsgebiet - Erhalt bezahlbarer Wohnraum
+- TOP 7.3.2.: Einkaufsmöglichkeiten im Stadtbezirk Schwanthalerhöhe; Einführung eines zweiten Markttages
+- TOP 7.3.3.: Jugendzentrum in der Schrenkstraße - Fristverlängerung
+- TOP 7.3.4.: Situation an der Bushaltestelle in der Trappentreustraße (Edeka/Feneberg)
+- TOP 7.3.5.: Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätze
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Quartierspräsenz des RKU vom 17.07. bis 26.07.2024 auf der Fläche Am Bavariapark
+- TOP 8.2.2.: Abschiedsfest Leitung MKJZ auf dem Georg-Freundorfer-Platz am 21.06.2024
+- TOP 8.2.3.: Internationales Fest am Gollierplatz am 29.06.2024
+- TOP 8.2.4.: Klima.Dult auf der Fläche Am Bavariapark am 21.07.2024
+- TOP 8.2.5.: Fest am Forum Schwanthalerhöhe, Theresienhöhe 5 am 06.07.2024
+- TOP 8.2.6.: West and Hell e.V. Straßenfest Westendstraße 15-21 am 20.07.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Fahrradreparaturworkshops beim Projekt Umlenken; Kazmairstr. 75-77 ab 07.06.2024
+- TOP 8.3.2.: Werbung Erotikmesse Kultur Litfaßsäule
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Kreuzung Ridler- / Westendstraße: Fahrradfreundliche Anpassung der Ampelphasen
+- TOP 9.1.2.: (E) Nachpflanzung Bäume Schnaderböckstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Ridlerstraße 37-39; Wiederherstellung Geh- und Radweg nach Baumaßnahme
+- TOP 9.2.2.: Dauerhafte Fahrplanänderungen bei den Tramlinien 20 und 29
+- TOP 9.2.3.: Neues Radverkehrsnetz für München
+- TOP 9.2.4.: Mobilitätsstrategie 2035 - Nachbarschaftsviertel in München; Superblock für die Schwanthalerhöhe BA-Antrags-Nr. 20-26 / B 05085 vom 14.02.2023 Sitzungsvorlage Nr. 20-26 / V 11252
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sauberkeit des Viertels
+- TOP 9.3.2.: Umwidmung der Bergmannstraße in eine Fahrradstraße - Zwischennachricht / Fristverlängerung
+- TOP 9.3.3.: Nachpflanzung Bäume Trappentreustr.
+- TOP 9.3.4.: Umgestaltung der Fäustlestraße - Anliegerinformation
+- TOP 9.3.5.: Fernwärme-Projekt Guldeinstraße 45 - 47; Vollsperrung 21.05. - 01.08.2024
+- TOP 9.3.6.: Fällgenehmigung Westendstr. 135 - 137a
+- TOP 9.3.7.: Poller an der Straßenführung August-Kühn-Straße Ecke Carlamaria-Heim-Straße durch „feuerwehrgerechte“ Absperrungen ersetzen
+- TOP 9.3.8.: Sicherheitsbedenken bezüglich der kurzen Grünphase am Kreuzung Bavariaring und Schwanthalerstrasse
+- TOP 9.3.9.: Umgestaltung des Areals Kiliansplatz Ecke Kazmairstraße
+- TOP 9.3.9.1: Umgestaltung des Areals Kiliansplatz Ecke Kazmairstraße - Antwortschreiben
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Evang. -Luth. Dekanatsbezirk München, Migrationszentrum im Griechischen Haus Straßenfest des Griechischen Hauses am 22.06.2024 5.180,00€; 0262.0-8-0402
+- TOP 10.1.2.: (E) Stadtbezirksbudget J.E.W.S. Jews Engaged wir Society e.V. Begehbare Karte im Stadtbezirk 8 vom 01.06. -31.12.2024 2.700,00€; Az. 0262.0-8-0396
+- TOP 10.1.3.: (E) Stadtbezirksbudget D`Schwanthalerhöh&#039; Trägerverein Kultur- und Vereinskeller Westendstraße 76 e.V. Kunst- und Kulturtage 2024 Westend hat ein Gesicht - "Respekt & Akzeptanz" vom 15.06. - 10.08.2024 9.240,00 Euro / Az. 0262.0-8-0398
+- TOP 10.1.4.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. -31.07.2024 2.322,90€; Az. 0262.0-8-0404
+- TOP 10.1.5.: (E) Stadtbezirksbudget Auferstehungskirche München Westend Westend Vibes vom 18.06. -31.12.2024 9.930,00€; Az. 0262.0-8-0405
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Oktoberfest 2024 - Reservierung Ratsboxe
+- TOP 12.2.2.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 12.2.3.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen
+- TOP 12.2.4.: Änderung der BA-Satzung; Entscheidungsrecht bei bedeutenden Bauvorhaben
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der Sitzung vom 14.05.2024
+- TOP 8.2.7.: Mini-Ausstellungen des RKU am Bavariapark, 26.06.-03.07.2024
+- TOP 10.1.6.: (E) Stadtbezirksbudget Freunde der Parkstraße e.V. Parkstraßenfest am 07.09.2024 1.016,25€; Az. 0262.0-8-0408
+- TOP 7.3.6.: Rückfragen des Elternbeirates im Kinderhaus St. Rupert zum Defizitausgleichsmodell
+- TOP 8.2.8.: Pfarrarverband München Westend, Gottesdienst im Bavariapark am 21.07.24
+- TOP 8.3.3.: Schneckenmarkt und Flohmarkt am 07.06. und 08.06.2024 auf der Fläche Am Bavariapark
+- TOP 8.3.4.: „Das Fest der Nachbarn" auf dem Georg-Freundorfer-Platz am 15.06.24
+- TOP 9.2.5.: Novellierung der BaumSchV der Landeshauptstadt München
