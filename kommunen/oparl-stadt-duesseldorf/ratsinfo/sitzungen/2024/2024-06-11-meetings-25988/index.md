@@ -1,0 +1,56 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-11T17:00:00+02:00
+- Ende: 2024-06-11T20:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25988
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25988
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522465.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522465.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522465.pdf
+
+## Tagesordnung
+
+- TOP 1: Gedenken an Verstorbene
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 05.03.2024 - einstimmig beschlossen
+- TOP 3.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 23.04.2024 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Zusätzliche Förderung der internationalen tanzmesse nrw 2024 - Zuwendung und Raumüberlassung - zur Kenntnis genommen
+- TOP 6.2: Remscheider Straße - Baumscheibenvergrößerung sowie klimaangepasste Aufwertung der Pflanzflächen - zur Kenntnis genommen
+- TOP 6.3: Bilker Allee / Benzenbergstraße - optimierter Zwischenzustand östlich Bilker Kirche (wird zurückgezogen) - zurückgezogen
+- TOP 6.4: Graf-Adolf-Straße - Verkehrsversuch Radfahrstreifen und Gestaltung Seitenräume (wird zurückgezogen) - zurückgezogen
+- TOP 7: Bau- und Planungsangelegenheiten
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Flächennutzungsplanänderung Nr. 182 (Entwurf) - Westlich Hinter der Böck - einstimmig beschlossen
+- TOP 7.6: Bebauungsplan-Entwurf Nr. 03/007 - Westlich Hinter der Böck - mehrheitlich beschlossen
+- TOP 7.7: Flächennutzungsplanänderung Nr. 158 (Entwurf) - Weizenmühlenstraße/Kesselstraße - einstimmig beschlossen
+- TOP 7.8: Städtebauliche Entwicklung - Halbinsel Kesselstraße - einstimmig beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 8.1: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Fürstenwall 186a (Anfrage BÜNDNINS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Umgestaltung neuer Eingangsbereich GGS Kronprinzenstraße (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 9.2.2: Umsetzung Optimierung Platzfläche Gogreve-/Vlattenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - vertagt
+- TOP 9.2.3: Situation der öffentlichen Toiletten im Bezirk, insbesondere am Oberbilker Markt (Anfrage SPD - Fraktion) - vertagt
+- TOP 10: Anträge
+- TOP 10.1: Ersatzneubau der Fleher Brücke (Antrag CDU-Fraktion) - abweichend beschlossen
+- TOP 10.2: Städtische Brunnen sollen laufen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 10.3: Prüfauftrag Entwicklung eines Bürgersteiges auf der Straße Im Liefeld (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Geschwindigkeit auf der Aachener Straße zwischen Aachener Platz und Volmerswerther Straße auf Tempo 30 reduzieren. - zur Kenntnis genommen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
