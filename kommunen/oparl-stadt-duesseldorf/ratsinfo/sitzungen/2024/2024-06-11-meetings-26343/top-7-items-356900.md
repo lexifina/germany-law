@@ -1,0 +1,8 @@
+# TOP 7: Klärwerk-Süd, Personenrufanlage (I-8030612007) - Ausführungs- und Finanzierungsbeschluss -
+
+- Sitzung: Bauausschuss (2024-06-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/356900
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/128124
