@@ -1,0 +1,84 @@
+# 34. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-11T16:03:00+02:00
+- Ende: 2024-06-11T19:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29748
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29748
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Plan zur Gestaltung von Freiräumen durch die Verkehrswende - zurückgestellt
+- TOP 1.2: Trankgasse zur Europameisterschaft für den MIV freigeben - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Anregung der Bezirksvertretung Nippes, Ersatz-Fährverbindung von Alt-Niehl zu den Niehler Auen - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.1, Beschlussvorlage 4020/2023 - Anregung der Bezirksvertretung Nippes, Ersatz-Fährverbindung von Alt-Niehl zu den Niehler Auen - endgültig abgelehnt
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: 65. Anordnung der Kostenspaltung gemäß § 8 der Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages vom 29.06.2001 - ungeändert beschlossen
+- TOP 3.2: ÖPNV-Bedarfsplan NRW - Neuaufstellung - zurückgestellt
+- TOP 3.3: Machbarkeitsstudie für ein Expressbus-Netz - geändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 293. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - mit Änderungen empfohlen
+- TOP 4.3: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - mit Änderungen empfohlen
+- TOP 4.4: Satzung über die abweichende Herstellung der Erschließungsanlage Olpener Straße von Frankfurter Straße bis Olpener Straße 310 - ungeändert beschlossen
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Oktavianstraße von Tacitusstraße bis Grenze des Bebauungsplans Nr. 68423/02 - ungeändert beschlossen
+- TOP 4.6: Baubeschluss zur Aufzugsnachrüstung und Herstellung der Barrierefreiheit an der Stadtbahnhaltestelle Lohsestraße - ungeändert beschlossen
+- TOP 4.7: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 4.7, Beschlussvorlage 0609/2024 - Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 4.8: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Instandsetzung Hochbahn Linie 13 - ungeändert empfohlen
+- TOP 4.10: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ohne Votum in nachfolgende Gremien
+- TOP 4.11: Sanierung der Drehbrücke am Schokoladenmuseum - ungeändert empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Förderprogramm Nahmobilität - zurückgestellt
+- TOP 5.1.2: Quartiersgaragen im Betrieb - zurückgestellt
+- TOP 5.1.3: Personalsituation im Dezernat III-Mobilität - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses am 05.03.2024, AN/0273/2024, "Personalsituation im Dezernat III-Mobilität" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.1.4: Verkehrssicherheit Kempener Straße - zurückgestellt
+- TOP 5.1.5: Betrieb der 90m-Züge auf der Ost-West-Achse (OWA) - Sache ist erledigt
+- TOP -: Schriftliche Anfrage der Fraktion DIE LINKE (AN/0535/2024) betreffend der Kapazitätserweiterung auf der Ost West Achse und des Betriebes mit 90 Meter langen Zügen - Kenntnis genommen
+- TOP 5.1.6: Parken in Poll - zurückgestellt
+- TOP 5.1.7: Oh-Weh-Achse - Sache ist erledigt
+- TOP -: Schrifliche Anfrage der Ratsgruppe KLIMA FREUNDE & GUT aus der Sitzung des Verkehrsausschusses vom 23.04.2024 (AN/0618/2024) betreffend Oh-Weh-Achse - Kenntnis genommen
+- TOP 5.1.8: Neuaufstellung der verkehrlichen Bedarfspläne - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Verkehrsausschusses am 23.04.2024 betr. „Neuaufstellung der verkehrlichen Bedarfspläne", AN/0580/2024. - Kenntnis genommen
+- TOP 5.1.9: Rodenkirchener Brücke – was tut die Stadt Köln gegen Abriss und Neubau? - zurückgestellt
+- TOP 5.1.10: Sachstand Rückbau freilaufender Rechtsabbieger - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses am 23.04.2024 betr. "Sachstand Rückbau freilaufende Rechtsabbieger" (AN/0616/2024) - Kenntnis genommen
+- TOP 5.1.11: Beantwortung von Fragen der Fraktion SPD zur Lärmaktionsplanung der Eisenbahnen des Bundes - Kenntnis genommen
+- TOP 5.1.12: Beantwortung einer mündlichen Anfrage der Fraktion DIE LINKE aus dem Verkehrsausschuss vom 05.03.2024 betreffend der Beantwortung einer Anfrage zum Einsatz von 90-Meter-Bahnen auf der Ost-West-Achse (3976/2023) - Kenntnis genommen
+- TOP 5.1.13: Beantwortung einer mündlichen Anfrage von Herrn SE Vietzke aus der Sitzung des Verkehrsausschusses (VA) vom 23.04.2024 (zu TOP 4.6) betreffend „laufende Arbeiten am Perlengraben“ - Kenntnis genommen
+- TOP 5.1.14: Beantwortung einer mündlichen Anfrage des RM De Bellis-Olinger (CDU) aus der Sitzung des Verkehrsausschusses vom 23.04.2024 betreffend "Machbarkeitsstudie Linie 4" - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Ausbau der Ladeinfrastruktur e-Mobilität - zurückgestellt
+- TOP 5.2.2: Interne Controllingliste - zurückgestellt
+- TOP 5.2.3: Vario Tafeln im Kölner Stadtgebiet - zurückgestellt
+- TOP 5.2.4: Kostenstand Nord-Süd Stadtbahn Köln - zurückgestellt
+- TOP 5.2.5: Sauberkeit an der Haltestelle Hansaring - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Änderung der Verkehrsführung im Bereich Trankgasse/Komödienstraße - Kenntnis genommen
+- TOP 6.2.2: Gutachten zur Funktionsfähigkeit des Kölner Taxigewerbes - Kenntnis genommen
+- TOP 6.2.3: Zeitplanung der laufenden Regionalplanverfahren im Regierungsbezirk Köln - Kenntnis genommen
+- TOP 6.2.4: Zoobrücke / Stadtautobahn B55a - passive Schutzeinrichtungen - Kenntnis genommen
+- TOP 6.2.5: Kostenschätzung zum Bürgerbegehren des Bündnisses "Fahrrad-Entscheid Köln" - Kenntnis genommen
+- TOP 6.2.6: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Teilbauwerke - Kenntnis genommen
+- TOP 6.2.7: Linksrheinische Verlängerung der Stadtbahnlinie 13 bis zum Rhein - Kenntnis genommen
+- TOP 6.2.8: Beantwortung einer Anfrage von Werner Marx im Rechnungsprüfungsausschuss aus der Sitzung vom 05.09.2023 betr. "Einrichtung von Radfahrstreifen im Stadtbezirk Porz" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.2.9: Realisierung des Mikrodepots Deutz - Kenntnis genommen
+- TOP 6.2.10: Status quo- und Chancen- & Mängel-Analyse "Besser durch Köln. Der nachhaltige Mobilitätsplan" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Expressbus 172 - Sache ist erledigt
+- TOP 7.2: Sachstand zur Fähre Langel - Hitdorf - Sache ist erledigt
+- TOP 7.3: Baulicher Radweg zwischen Gürtel und Oskar-Jäger-Straße - Sache ist erledigt
+- TOP 7.4: Angstraum - KVB-Haltestellen
