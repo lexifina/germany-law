@@ -1,0 +1,73 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-11T16:00:00+02:00
+- Ende: 2024-06-11T20:23:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26426
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26426
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522137.pdf
+- Ergebnisprotokoll: NachtragsTO1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522137.pdf
+- Wortprotokoll: NachtragsTO1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00522137.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 2 gemäß §22 Geschäftsordmung des Rates für bis zum 28.05.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift SI-BV2/004/2024 vom 30.04.2024 - einstimmig beschlossen
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Umgestaltung Kinderspielplatz Hanielpark – Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 5.5: Wohngebiet Ahnfeldstraße- Einrichtung eines Bewohnerparkgebietes - Empfehlung mehrheitlich beschlossen
+- TOP 5.6: Wohngebiet Schillerplatz- Einrichtung eines Bewohnerparkgebietes - Empfehlung mehrheitlich beschlossen
+- TOP 5.7: öffentliche Grünanlage Schillerplatz 2. Bauabschnitt - Empfehlung einstimmig beschlossen
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anträge
+- TOP 6.1: Schutzraum - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 6.2: Instandsetzung und Eröffnung der öffentlichen Toilette im Zoopark neben dem Wasserspielplatz - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.3: Finanzierung einer FlingerPfad-Stele für den Kürtenhof - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.4: Bezirksbezogene Haushaltsmittel für eine Stele zur Geschichte des Kürten-Hofes - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.5: Zuwendung an die Bürgerinitiative Flingern e. V. zur Errichtung einer Stele aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6.6: Finanzielle Unterstützung für das Sommerfest 2024 des Netzwerks Hellweg/Märchenland - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.7: Bezirksbezogene Haushaltsmittel für das Nachbarschaftsfest am Dornröschenweg 4 - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.8: Finanzielle Unterstützung des Sommerfestes des Netzwerkes Hellweg/Märchenland aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6.9: Erneuerung der Hochbeete durch den Zweck e.V. an der Katholischen Grundschule Mettmanner Straße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.10: Bezirksbezogene Haushaltsmittel für die Erneuerung der Hochbeete im Garten der KGS Mettmanner Straße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 6.11: Finanzielle Unterstützung für die Erneuerung der Hochbeete im Garten der KGS Mettmanner Straße an den Verein Zweck e. V. aus bezirksbezogenen Haushaltsmitteln Bauunterhaltungsmitteln (Liste C) - Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 6.12: Rasengleise auf einem Teil des Lastrings - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Sonnenschutz für den Spielplatz auf dem Stadtnaturpark Flingern - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6.15: Evaluation der Mobilitätssationen im Stadtbezirk 2 - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 6.16: Bahnunterführung Wetterstraße - Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 7: Anfragen aus vorherigen Sitzungen
+- TOP 7.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 7.2: Kreuzung Acker/Birkenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.3: Rassistische Übergriffe im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Fahrradabstellanlagen - Anfrage der Fraktion Bündnis 90/Die Grünen - vertagt
+- TOP 7.6: Fahradweg Lindenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Mobilitätsstation Hermannplatz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 8: Anfragen zur aktuellen Sitzung
+- TOP 8.1: Radverkehr auf der Klopstockstraße in beide Fahrtrichtungen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 8.2: Verschönerung bzw. optische Aufwertung der Grundwassersanierungsanlage Albertstraße im Zusammenhang mit der Neuerrichtung des danebenliegenden Pocketparkes - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 8.3: Auswirkung des Starkregens im Juli 2021 auf das Starkregenpräventions-Konzept - Anfrage der CDU-Fraktion - vertagt
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Absenkung Straßenquerung Graf-Recke-Str./Ecke Simrockstr. - Beschluss der Bezirksvertretung 2, Vorlage BV2/181/2023 - zur Kenntnis genommen
+- TOP 9.2: Machbarkeitsprüfung und Finanzierung von Standorten für Trinkwasserbrunnen im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/077/2024 - zur Kenntnis genommen
+- TOP 9.3: Aufstellung von Fahrradständern in der Wülfrather Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/120/2023 - zur Kenntnis genommen
+- TOP 9.4: E-Ladestationen im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/186/2023 - zur Kenntnis genommen
+- TOP 9.5: Ampelschaltung Kreuzung Dorotheenstraße/Lindemannstraße/Grafenberger Allee - Beschluss der Bezirksvertretung 2, Vorlage BV2/128/2023 - zur Kenntnis genommen
+- TOP 9.6: Fahrradständer am Eingang Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/119/2023 - zur Kenntnis genommen
+- TOP 9.7: Querung der Erkrather Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/203/2023 - zur Kenntnis genommen
+- TOP 9.8: Parkplatzsituation in der Birkenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/169/2023 - zur Kenntnis genommen
+- TOP 9.9: Einführung Anwohnerparken östlich der Dorotheenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/251/2023 - zur Kenntnis genommen
+- TOP 9.10: Fußgängerquerung Lindenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/249/2023 - zur Kenntnis genommen
