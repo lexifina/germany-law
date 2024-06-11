@@ -1,0 +1,7 @@
+# TOP 3: Bericht aus der Verwaltung
+
+- Sitzung: 22. öffentliche Sitzung des Ausschusses für Sport (2024-06-11)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=72457
+- Ergebnis: erledigt
