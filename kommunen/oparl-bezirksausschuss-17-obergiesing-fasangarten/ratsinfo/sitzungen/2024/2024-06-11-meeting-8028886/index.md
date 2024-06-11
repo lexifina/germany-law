@@ -1,0 +1,160 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8028886
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8028886
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Radschutzstreifen Unterführung Chiemgaustr. (FF UA MuV)
+- TOP 2.1.2.2.: Bürgeranliegen; Hunde im AGFA Park (FSA UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Verkehrslage Herzogstand-/ Spixstr. (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen; Feldmüllersiedlung - Antrag auf Verkehrsuntersuchung (FF UA MuV)
+- TOP 2.1.2.5.: Bürgeranliegen; Verkehrsberuhigung Aignerstraße (FSA UA MuV)
+- TOP 2.1.2.6.: Bürgeranliegen; Ausweitung Parklizenzgebiet - Übergang Schwanseestr. (aus der BA- Sitzung vom 14.05.2024 FF UA MuV)
+- TOP 2.1.2.7.: Bürgeranliegen; (Provisorischer) Radweg Martin-Luther Str. (FF UA MuV)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.1.1.: Antrag der Kinderbeauftragten für "Sommer im Park"
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Kistlerstr. 11 (Gefahrenbaum zur Kenntnis: Frist 21.05.2024)
+- TOP 3.10.2.: Bantingstr. 2
+- TOP 3.10.3.: Pennstr. 38
+- TOP 3.10.4.: Cincinnatistr. 31
+- TOP 3.10.5.: Frasdorfer Str. 6 (Genehmigung der UNB)
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA FSA) Hafis e.V. Schulanaloger Unterricht für Sprachanfänger an der GS Weißensee vom 16.09.2024 -30.07.2025 8.547,00€; 0262.0-17-0442
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA FSA) Trägerverein für regionale soziale Arbeit e.V. -Geschäftsbereich REGSAM Aktualisierung/ Neuauflage der Informationsbroschüre "Familie in Giesing" vom 30.05. -31.08.2024 6.349,80€; Az. 0262.0-17-0446
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA FSA - Vertagung aus der Mai- Sitzung) AKitZ gGmbH Umwandlung GTP in Mini-Kita zur Sicherung von 10 Betreuungsplätzen im U3-Bereich vom 06. – 17.05.2024 11.553,00 Euro / Az. 0262.0-17-0441
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA FSA - Vertagung aus der Mai- Sitzung) Gesellschaft für Soziale Arbeit. München gGmbH (Familientreffpunkt Giesing) Deutschkurse (Anfänger:innen und Fortgeschrittene) vom 15.05. -31.12.2024 3.000,00€; Az. 0262.0-17-0440
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA Kultur) Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. -31.07.2024 2.322,90€; Az. 0262.0-17-0449
+- TOP 5.1.6.: (E) Stadtbezirksbudget (FF UA Kultur) animato münchner orchester e.V. Vorbereitung und Durchführung des Konzerts in Riem vom 14.06. -23.06.2024 2.030,00€; Az. 0262.0-17-0450
+- TOP 5.1.7.: (E) Stadtbezirksbudget (FF UA Kultur) 103er -Freizeittreff Obergiesing, KJR München Theatertage vom 13. -17.11.2024 4.700,00€; Az. 0262.0-17-0451
+- TOP 5.1.8.: (E) Stadtbezirksbudget (FF UA FSA) Foodsaving & More e.V. Beschaffung eines Kühlschranks und eines Gefrierschranks für den Jesajafairteiler 4.261,62€; Az. 0262.0-17-0455
+- TOP 5.1.9.: (E) Stadtbezirksbudget (FF UA FSA) Foodsaving & More e.V. Wiesn für alle am 28.09.2024 1.472,00€; Az. 0262.0-17-0456
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tegernseer Landstr. 161 - Nutzungsänderung von einer Poststelle zu Büro und Verwaltungsfläche für ein Konsulat
+- TOP 6.1.3.2.: Tegernseer Landstr. 10 - Neubau von Balkonen auf der Westseite eines denkmalgeschützten Wohn- und Geschäfthauses
+- TOP 6.1.3.3.: Chiemgaustr. 26 - Ersatzneubau "Die Brücke" Förderstätte und Wohnheim für Menschen mit Behinderung, sowie Wohnungen für Mitarbeiter und Auszubildende
+- TOP 6.1.3.4.: Zugspitzstr. 12 - Errichtung einer Balkonanlage
+- TOP 6.1.3.5.: Hohenschwangaustr. 15 - Neubau eines Mehrfamilienhauses mit (11 WE) und Tiefgarage - ÄNDERUNGSANTRAG zu 1.2-2022-14478-33 hier: Neubau eines Mehrfamilienhauses mit 10 Wohneinheiten und Tiefgarage
+- TOP 6.1.3.6.: Flossenbürger Str. 11 - Erdgeschossiger Anbau an ein Zweifamilienhaus
+- TOP 6.1.3.7.: Schwanseestr. 14 - Nutzungsänderung eines Plege- und Altenheims in ein Asylantenheim
+- TOP 6.1.3.8.: Anhörungsverfahren und Information zur Neuausschreibung der City-Light-Säulen (Vertagung aus der Mai Sitzung)
+- TOP 6.1.3.9.: (Sektoraler) Bebauungsplan Nr. 2173 Tegernseer Landstr. (östlich), Raintaler Str. (westlich), Perlacher Str. (nördlich), Kesselbergstr. (südlich) (Frist bis zum 03.07.2024)
+- TOP 6.1.3.10.: 21. Änderung des Flächennutzungsplanes der Gemeinde Neubiberg "Grundstücke zwischen der Trasse der S 3 und dem Hachinger Bach, nördlich und östlich von "Campeon" bis zum Gelände der Bundeswehruniversität, südlich der Gemeindegebietsgrenze zur Landeshauptstadt München bzw. südlich des alten Ortskrens Unterbiberg" Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 85 "Zukunftspark Neubiberg" östlich der Trasse S 3 und westlich der A 8 Bitte um Stellungnahme zu dem Bebauungsplanverfahren mit Änderung des Flächennutzungsplanes der Gemeinde Neubiberg bis 14.06.2024 (Bearbeitung bitte im UA BPW und UA Umwelt ) - Stellungnahme des BA bzw. Antrag
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Vollzug der Erhaltungssatzung "Tegernseer Landstr." Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der BA´s hier: Wirtstr.
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Bürgeranliegen; Spielplatz Obergiesing-Fasangarten (FF UA FSA - Vertagung aus der Mai Sitzung)
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Aktualisierung der Liste und Karte mit Unterkunftsstandorten für Geflüchtet und Wohnungslose ab 48 Bettplätzen
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Einführung einer Einbahnstraßenregelung in der Sachranger Straße von Nord nach Süd
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums; Anhörung des Mobilitätsreferats
+- TOP 6.3.3.2.: Verkehrsrechtliche Anordnung nach § 45 StVO hier Einrichten eines absoluten Haltverbots wegen Müllabfuhr mit Zeitzusatz - Simsseestr.
+- TOP 6.3.3.3.: Straßenbahnhauptwerkstätte Ständlerstraße, Bau eines Erdwalls zum Lärmschutz (Frist bis zum 24.06.2024)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Überprüfung der Grünphase; Ampelschaltung an der Kreuzung Werinherstr./Schlierseestr.
+- TOP 6.3.4.2.: Vollzug der Straßenverkehrsordnung§ 45 Abs. 1 i.V.m. Abs. 6 und 9, § 46 StVO und Art. 21 BayStrWg hier: Arbeitsstelle im Straßenraum, Änderung/Ergänzung des Bescheids vom 03.04.2024 Fischbachauerstr. 2-4
+- TOP 6.3.4.3.: Bürgeranliegen; Parkprobleme in der Simseestr.
+- TOP 6.3.4.4.: Anbringung Verkehrsspiegel in der Oberaudorfer Str. Antwort Baureferat auf ein Bürgeranliegen
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: 21. Änderung des Flächennutzungsplanes der Gemeinde Neubiberg "Grundstücke zwischen der Trasse der S 3 und dem Hachinger Bach, nördlich und östlich von "Campeon" bis zum Gelände der Bundeswehruniversität, südlich der Gemeindegebietsgrenze zur Landeshauptstadt München bzw. südlich des alten Ortskrens Unterbiberg" Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 85 "Zukunftspark Neubiberg" östlich der Trasse S 3 und westlich der A 8 Bitte um Stellungnahme zu dem Bebauungsplanverfahren mit Änderung des Flächennutzungsplanes der Gemeinde Neubiberg bis 14.06.2024 (Bearbeitung bitte im UA BPW und UA Umwelt ) - Stellungnahme des BA bzw. Antrag
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Ausnahmegenehmigung gem.§ 7 abs. 2 der 32. BImSchV; Nächtliches Mähen des Straßenbegleitgrüns
+- TOP 6.4.4.2.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung auf öffentlichen Verkehrsgrund - Schlierseestr. 25-29 hier: Internationalistisches Sommerfest - 13.07.2024 (Frist 17.06.2024)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStr.WG) und der Straßenverkehrs-Ordnung (StVO) Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis hier: Europa Mobil on Tour
+- TOP 6.5.4.2.: Vollzug des Bayerischen Straßen-und Wegegesetz (BayStr.WG)und der Straßenverkehrs-Ordnung (StVO) Erteilung einer öffentlichen-rechtlichen Sondernutzungserlaubnis hier Demokratie Mobil Kreisjugendring/ Schlierseestr.
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Bürgeranliegen; Gewerbe "Baumpflege in reinem Wohngebietet" Bitte um Beantwortung der Fragen
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 7.2.2.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 7.2.3.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen (Empfehlung Nr. 20-26 / E 01779 des Stadtbezirkes 21 - Pasing-Obermenzing); Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Empfehlung Nr. 20-26 / E 01928des Stadtbezirkes 01 - Altstadt-Lehel); Anhörung des Direktoriums
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: Sitzungstermine 2025
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.6.2.1.: TOP 6.6.2.1 Erweiterung einer Freischankfläche: "Tagescafe Poppi Farmer", St.-Bonifatius-Str. 1
+- TOP 1.2.1.: zu TOP 2.1.2.4 Ergänzung vom 06.06.2024: Weitere Messstelle an der Kreuzung Edelweißstraße und Tegernseer Landstraße
+- TOP 1.2.2.: TOP 6.3.5.1 Antrag des UA: Umsetzung des Stadtratsbeschlusses „Wegenetz Obergiesing“
+- TOP 1.2.3.: TOP 6.5.3.2 Veranstaltung auf öffentlichen Verkehrsgrund - Giesinger Bahnhof hier: Gleisgewitter am 23.06.2024 (Frist 19.06.2024)
