@@ -1,0 +1,7 @@
+# TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Sitzung des Ausschuss für Generationen, Inklusion und Diversität (2024-06-12)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2024-AGID-2%7Czt_3%7C1
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
