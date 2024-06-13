@@ -1,0 +1,58 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-13T18:00:00+02:00
+- Ende: 2024-06-13T20:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26282
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26282
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO Sitzung 13.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523799.pdf
+- Ergebnisprotokoll: NachtragsTO Sitzung 13.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523799.pdf
+- Wortprotokoll: NachtragsTO Sitzung 13.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523799.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 29.05.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 25.04.2024
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Landes NRW - einstimmig beschlossen
+- TOP 5: Eller Kamp- Erneuerung Öffentliche Beleuchtung, Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Veloroute zwischen Düsseldorf und Wuppertal - Abschluss einer Kooperationsvereinbarung zum Start der Planungsphase - Empfehlung abweichend beschlossen
+- TOP 9: Information zum Zentrenmanagement Gumbertstraße - mdl. Bericht
+- TOP 10: Spezialmarkt "Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller im Jahre 2024 - einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2024 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - einstimmig beschlossen
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Bürgerhaus Eller; Kultur- und Begegnungshäuser im Stadtbezirk 8 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Barrierefreier Umbau S-Bahnhof Eller Mitte (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Spielanlagen für Jugendliche (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 17: Einhundert-Meter-Brücke (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 18: Bauprojekt Gerresheimer Landstraße 144 (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 19: Rothenbergstraße / Vennhauser Allee / Glashüttenstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Friedhof Eller (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Ehemalige Stadtsparkasse Lierenfeld (Anfrage SPD-Fraktion) - beantwortet
+- TOP 22: Radverkehrssituation Kuthsweg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 23: Markierungen Weinheimer Straße und Darmstädter Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 24: Fußgängerbrücke Mündrathweg und Düssel-Brücke Reichenbacher Weg (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 25: Weg am Friedhof Unterbach (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 26: Ludwigstraße und Kissinger Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 27: Einschränkung von Rettungswegen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 28: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend (JHA/036/2024) (Änderungsantrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - abweichend beschlossen
+- TOP 29: Bedarfsampel Rothenbergstraße - zur Kenntnis genommen
+- TOP 30: Geschwindigkeitsmessung Erfurter Weg - zur Kenntnis genommen
+- TOP 31: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Radweg Reisholzer Straße stadteinwärts - zur Kenntnis genommen
+- TOP 33: Einbahnstraßenregelung Heimgarten - zur Kenntnis genommen
+- TOP 34: Ausbau Wendeanlage Rathelbeckstraße - zur Kenntnis genommen
+- TOP 35: Kinderspielplätze in Vennhausen - zur Kenntnis genommen
+- TOP 36: Regenrückhaltebecken Heidelberger Straße - zur Kenntnis genommen
+- TOP 37: Beschlusskontrolle der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 38: Lärmschutz an der A46 - zur Kenntnis genommen
+- TOP 39: Bürgerhaus Eller; Kultur- und Begegnungshäuser im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Radwegeplanung Vennhauser Allee im Abschnitt Krippstraße / Gumbertstraße - zur Kenntnis genommen
+- TOP 41: Wohnungsbau im Stadtbezirk 8 - zur Kenntnis genommen
