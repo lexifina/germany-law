@@ -1,0 +1,14 @@
+# Sportbeirat (2. Sitzung)
+
+- Körperschaft: Stadt Lahr
+- Beginn: 2024-06-13T17:30:00+02:00
+- Ende: 2024-06-13T18:30:00+02:00
+- Ort: Rathaus 2, Rathausplatz 7, 77933 Lahr, Großer Sitzungssaal
+- Status: 
+- Gremium: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-60
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeS6fZrwoivHS67BKnEZuLI
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3243
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
