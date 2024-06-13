@@ -1,0 +1,82 @@
+# 27. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-13T16:00:00+02:00
+- Ende: 2024-06-13T20:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29854
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29854
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Giebelhäuser in der Altstadt
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfragestunde - Fort I
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP 3.2: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zur Beschlussvorlage Stadtbahnanbindung Mülheimer Süden TOP 3.2 (2630/2023), gem. Änderungsantrag B90/Die Grünen, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 3.3: Raumbuch Mobilstationen - geändert beschlossen
+- TOP 3.3.1: Änderungsantrag zum Raumbuch TOP 3.3 (0910/2024), gem. Änderungsantrag Grüne, Die Linke und KlimaFreunde - geändert beschlossen
+- TOP 3.4: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - ungeändert beschlossen
+- TOP 3.5: Zweite Änderungsverordnung für die Jahre 2024-2026 über das Offenhalten von Verkaufsstellen an Sonntagen. - ungeändert beschlossen
+- TOP 3.6: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das 2. Halbjahr 2024 - geändert beschlossen
+- TOP 3.7: Baubeschluss für die Einrichtung eines Quartiersplatzes „Am Salzmagazin / Eintrachtstraße“ sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601-1201-1-1124, Umgestaltung Am Salzmagazin/Eintrachtstraße - ungeändert beschlossen
+- TOP 3.8: Dauerhafte Regelung zur Straßenmusik im Domumfeld - ungeändert beschlossen
+- TOP 3.9: Bestätigung eines Teilstandortes der Paul-Maar-Schule, Marienplatz 2, 50676 Köln, Schulnummer 154246 in der Pfälzer Straße 30, 50677 Köln - ungeändert beschlossen
+- TOP 3.10: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 3.10.1: Änderungsantrag zu TOP 3.10 Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz (2337/2023), Änderungsantrag Die Linke - zurückgestellt
+- TOP 3.10.2: Änderungsantrag zur Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz TOP 3.10 (2337/2024), gem. Änderungsantrag B90/Die Grünen, Die Linke, KlimaFreunde und Die Partei - zurückgestellt
+- TOP 3.11: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 3.11.1: Änderungsantrag zu TOP 3.11 (0609/2024) - Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 3.12: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP 3.13: Genehmigung DE - Fan Zone Heumarkt zur UEFA EURO 2024 - Platznutzungskonzept - ungeändert beschlossen
+- TOP 3.13.1: Fan Zone Heumarkt zur UEFA EURO 2024 - Platznutzungskonzept - Sache ist erledigt
+- TOP 3.14: Baubeschluss für die Aufstellung von zusätzlichen Standardbänken sowie Sonderbänken auf dem Neumarkt - ungeändert beschlossen
+- TOP 3.15: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ungeändert beschlossen
+- TOP 3.16: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Innenstadt in der Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - zurückgestellt
+- TOP 3.17: Schulrechtliche Errichtung einer neuen Gesamtschule im Stadtbezirk Kalk mit Start im Interimsgebäude Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, Verkehrssituation am Ottoplatz in Deutz (Az.: 26/24 B) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: eScooter Angebote im gesamten Innenstadtbereich auf stationsbasiertes Modell umstellen, Antrag CDU - geändert beschlossen
+- TOP 5.1.1.1: Änderungsantrag eScooter TOP 5.1.1 (AN/0244/2024), gem. Änderungsantrag B90/Die Grünen, CDU, Die Linke und Klimafreunde - ungeändert beschlossen
+- TOP 5.1.2: Änderungsantrag zur Umstellung des eScooter-Angebots in der Innenstadt, Antrag B90/Die Grünen - Sache ist erledigt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Prüfauftrag: Mehr Mülleimer für Deutz, Antrag CDU - geändert beschlossen
+- TOP 5.2.2: Absenkung der Bordsteinkante Innere Kanalstraße, gem. Antrag SPD, B90/Die Grünen und CDU - ungeändert beschlossen
+- TOP 5.2.3: Einrichtung einer Bienenweide auf dem Dach der Dreifach-Turnhalle, gem. Antrag Die Linke, B90/Die Grünen, SPD, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.4: Verkehrsplanung Rathenauplatz, gem. Antrag B90/Die Grünen, SPD, Die Linke, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.5: Kreuzungsbereich Venloer Str./Innere Kanalstr. neu strukturieren, Antrag Grüne - zurückgestellt
+- TOP 5.2.6: Dringlichkeitsantrag zur Einhausung des Jan-von-Werth-Brunnens auf dem Alter Markt, gem. Antrag B90/Die Grünen, SPD, CDU, Die Linke, FDP, KlimaFreunde und Die Partei - ungeändert beschlossen
+- TOP 5.2.7: Dringlichkeitsantrag zum Planfeststellungsverfahren S 11, gem. Dringlichkeitsantrag, B90/Die Grünen, Die Linke und KlimaFreunde - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Veedelsblöcke für Köln - Stand der Planungen, Anfrage Grüne - zurückgestellt
+- TOP 6.1.2: Tempo 30 wegen Lärm – Sachstand im Bezirk Innenstadt, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.3: Evaluation der Kosten Karneval / Rund um die Zülpicher Straße / Innerer Grüngürtel - zurückgestellt
+- TOP 6.1.4: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.1.5: Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024, Anfrag B90/Die Grünen - Sache ist erledigt
+- TOP 6.1.5.1: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS 90 DIE GRÜNEN aus der Sitzung der Bezirksvertretung Innenstadt am 19.10.2023 betreffend " Zukunft des Rheingartens nach Kragplatte und Fußball WM 2024" (AN/1772/2023) - Kenntnis genommen
+- TOP 6.1.6: Stand der Planungen Eierplätzchen, Anfrage B90/Die Grünen - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Veröffentlichung (ehem. Offenlage) nach § 3 Absatz 2 Baugesetzbuch (BauGB) des Bebauungsplanentwurfs Nr. 68459/02, Arbeitstitel: ICE-Terminal in Köln-Deutz, 3. Änderung (Teilaufhebung) - Kenntnis genommen
+- TOP 9.2: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms - Kenntnis genommen
+- TOP 9.3: Zoobrücke / Stadtautobahn B55a - passive Schutzeinrichtungen - Kenntnis genommen
+- TOP 9.4: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023 - Kenntnis genommen
+- TOP 9.5: Baubeschluss für die Generalinstandsetzung der Straßen Pantaleonsmühlengasse (im Abschnitt Neue Weyerstraße bis Pantaleonswall) und Michaelstraße (im Abschnitt Am Weidenbach bis Pantaleonsmühlengasse) - Kenntnis genommen
+- TOP 9.6: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 9.7: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.8: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.9: Sachstandsbericht - Kenntnis genommen
+- TOP 9.10: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 9.11: Beauftragung einer künstlerischen Intervention am Waidmarkt - Kenntnis genommen
