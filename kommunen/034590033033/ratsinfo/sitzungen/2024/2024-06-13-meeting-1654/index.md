@@ -1,0 +1,69 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2024-06-13T17:31:00+02:00
+- Ende: 2024-06-13T20:10:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZesZhDXwcHqE4tFxej3BQ2k
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1654
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLUiZ_8KEHCEQG0EGEOITEstiIZYn7ch9-KKv2CiREH/Bekanntmachung_Rat_13.06.2024.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQeLvU4m9Xa9kTOOhxTZl2oX8a5Uf2-9e4BHXy3kMQCt/Oeffentliches_Beschlussprotokoll_Rat_13.06.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 07.03.2024
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschlüsse
+- TOP 3.2: Einweihung der neugestalteten Rathausallee
+- TOP 3.3: Zuwendungsbescheid Kommunale Wärmeplanung
+- TOP 11.1: Vorstellung der Vorentwurfsplanung für den Neubau der Mensa der Katharinaschule - mehrheitlich mit 18 Ja-Stimme(n), 1 Gegenstimme(n), 9 Stimmenthaltung(en) gefasst:
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Antrag der CDU-Fraktion auf Neubildung der beschließenden Ausschüsse des Rates der Gemeinde Wallenhorst a) Ausschuss für Bauen, Planen, Straßen und Verkehr b) Ausschuss für Wirtschaft und Finanzen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Neubildung des Ausschusses für Kindergärten, Schulen und Bildung hier: Elternvertretung Sekundarbereich I - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Beschluss des Gleichstellungsplanes für die Jahre 2024 bis 2026 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Liegenschaften
+- TOP 6.1: Vermarktung ehemaliges Spielplatzgrundstück „Feuerbachstraße“ - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 6.2: Baugebiete „Westlich Stadtweg“ und „Zwischen Ziegeleistraße und Fiesteler Straße“ – Vermarktung Doppelhäuser - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Straßenbau
+- TOP 7.1: Neubau des auf der Westseite führenden Radwegs an der ´Osnabrücker Straße´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Umwelt- und Energieangelegenheiten
+- TOP 8.1: EU-Umgebungslärmrichtlinie – 4. Stufe hier: Beschluss über den Lärmaktionsplan (Stufe 4) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Antrag der SPD-Fraktion – Errichtung eines Spielplatzes „Gruthügel“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Neuaufstellung Regionales Raumordnungsprogramm des Landkreises Osnabrück (RROP) hier: Stellungnahme zur zweiten Beteiligung - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.3: Antrag der CDW/W-Fraktion zur Einführung eines Förderprogramms „Jung kauft Alt“ - mehrheitlich mit 23 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.4: Erstellung eines Fahrradstraßenkonzeptes - mehrheitlich mit 25 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.: Jugendangelegenheiten
+- TOP 10.1: Antrag der Kolpingfamilie Rulle auf Bezuschussung einer Baumaßnahme als jugendpflegerische Maßnahme - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Schulangelegenheiten
+- TOP 11.2: Erhöhung der Schulhaushaltsmittel ab dem Haushaltsjahr 2025 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sportangelegenheiten
+- TOP 12.1: Antrag des Vereins TSV Wallenhorst auf Errichtung eines Padel-Platzes auf der Tennisanlage in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Vereine und Bürgerengagement
+- TOP 13.1: Antrag des Bürgerbusvereins Wallenhorst-Wersen e.V. auf Gewährung eines weiteren Zuschusses zu den Betriebskosten 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Sicherheit und Ordnung
+- TOP 14.1: Überwachung des fließenden Verkehrs - mehrheitlich mit 6 Ja-Stimme(n), 21 Gegenstimme(n), 1 Stimmenthaltung(en) abgelehnt:
+- TOP 15.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 15.1: Stellvertretender Ortsbrandmeister der Ortsfeuerwehr Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.2: Richtlinien zur Ernennung von "Ehrengemeindebrandmeisterinnen" bzw. "Ehrengemeindebrandmeistern" und "Ehrenbrandmeisterinnen" bzw. "Ehrenbrandmeistern" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.3: Ernennung des ehemaligen Ortsbrandmeisters Georg Vennemann zum Ehrenbrandmeister - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.4: Ernennung des ehemaligen Gemeindebrandmeisters Ulrich Beimesche zum Ehrengemeindebrandmeister - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.5: Wahl einer Schiedsperson für den Schiedsamtsbezirk Wallenhorst für den Zeitraum 1. Januar 2025 bis 31. Dezember 2029 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.6: Wahl einer stellvertretenden Schiedsperson für den Schiedsamtsbezirk Wallenhorst für den Zeitraum 1. Januar 2025 bis 31. Dezember 2029 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.: Verkehrsangelegenheiten
+- TOP 16.1: Sperrung der Fahrradstraße Boerskamp / Wessels Straße für den Kraftfahrzeugverkehr - mehrheitlich mit 22 Ja-Stimme(n), 6 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 17.: Kämmereiangelegenheiten
+- TOP 17.1: Verzicht auf die Aufstellung von konsolidierten Gesamtabschlüssen für die Jahre 2022 und 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 17.2: Durchführung einer überörtlichen Prüfung gem. §§1 bis 4 NKPG hier: Schuldenmanagement bei selbständigen Gemeinden
+- TOP 18.: Anfragen und Anregungen
+- TOP 18.1: Igelfreundliche Gärten
+- TOP 18.2: Belastung von Grundstücken mit Grundsteuer C
+- TOP 18.3: Bushaltestelle "Am Haupthügel"
+- TOP 18.4: Datenschutz bei Verkehrszählungen
+- TOP 18.5: Unfallschwerpunkt
