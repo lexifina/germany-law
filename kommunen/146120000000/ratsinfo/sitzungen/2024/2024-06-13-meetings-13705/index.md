@@ -1,0 +1,91 @@
+# 63. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-06-13T16:00:00+02:00
+- Ende: 2024-06-13T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13705
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13705
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00761275.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Einwohnerfragestunde - erledigt
+- TOP 3.1: Stadtratsbeschluss 2019 - Kiessee Leuben zur sicheren Badestelle entwickeln - erledigt
+- TOP 3.2: Petition "Erhalt des Stausees Cossebaude" - erledigt
+- TOP 3.3: Feuerwerke werktags - erledigt
+- TOP 3.4: Steuergeldverschwendung Verkehrsversuch Blaues Wunder - erledigt
+- TOP 3.5: Saubere Stadt Dresden - erledigt
+- TOP 3.6: Einfluss der Stadt Dresden auf Preisgestaltung der SachsenEnergie - erledigt
+- TOP 3.7: Energiebedarf im Bereich Sportstätten - erledigt
+- TOP 3.8: Neubau Müllverbrennungsanlage - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - bei Bedarf - erledigt
+- TOP 5: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 6: Durchführungsvertrag zwischen der Landeshauptstadt Dresden und der Deutschen Bundesgartenschau-Gesellschaft mbH (DBG) sowie Gründung der BUGA Dresden 2033 gGmbH - Zustimmung
+- TOP 7: Fortschreibung der investiven Finanzplanung 2024 durch Umverteilung des Mittelabflusses ausgewählter Projekte auf die Jahre 2025 bis 2027 - Zustimmung
+- TOP 8: Sicherstellung der Finanzierung des Multisportevents „Die FINALS 2025" und Förderung der an den FINALS beteiligten Sportfachverbänden - Zustimmung
+- TOP 9: Betriebsbeihilfe für die Stadion Dresden Projektgesellschaft mbH & Co. KG - Zustimmung
+- TOP 10: Berufliches Schulzentrum für Agrarwirtschaft und Ernährung Dresden (BSZ AuE), Schulstandort Altroßthal, Altroßthal 1, 01169 Dresden - Neubau einer Einfeld-Sporthalle - punktweise Zustimmung mit Ergänzung
+- TOP 11: Neubau eines Gerätehauses für die Stadtteilfeuerwehr Reitzendorf, Meixstraße 4 in 01328 Dresden - Zustimmung
+- TOP 12: Regelung von Eintrittspreisen am Europäischen Zentrum der Künste Hellerau - Zustimmung
+- TOP 13: Sachstand und weiteres Verfahren für die Realisierung eines Gedenk- und Erinnerungsortes im Kontext des Messerangriffs am 4. Oktober 2020 in der Rosmaringasse/Schloßstraße – A0155/20 – „An die Opfer religiös motivierter Gewalt erinnern“ - Zustimmung mit Änderung
+- TOP 14: Fachkonzept sonstiger sozialer Angebote für Dresden - Sozialplanerisches Handlungskonzept - Zustimmung
+- TOP 15: Vorhabenbezogener Bebauungsplan Nr. 6024, Dresden-Neustadt, Albertstadt Ost/Jägerpark - Vertagung durch Einreicher
+- TOP 16: Bebauungsplan Nr. 244 z, Dresden-Weißig Nr. 1, Gewerbepark Weißig - Ablehnung
+- TOP 17: Änderung der Beschlussfassung V1888/22 vom 16. Juni 2023 im Beschlusspunkt 4 hinsichtlich der Neuterminierung des Konzessionszeitraumes für Kino- und Konzertveranstaltungen am Königsufer - Zustimmung mit Änderung
+- TOP 18: Ja zu den Filmnächten am Elbufer - Ablehnung mit Ergänzung
+- TOP 19: Schloss Albrechtsberg – Instandsetzung Römisches Bad: Grundsatz- und Baubeschluss - Zustimmung
+- TOP 20: Aufbau und Betrieb eines Energiemanagementsystems und Strategie für einen klimaneutralen und nachhaltigen Gebäudebestand der Landeshauptstadt Dresden unter Anwendung des Leitfadens „Nachhaltige kommunale Gebäude Dresden" - Zustimmung mit Änderung
+- TOP 21: Campuslinie, Straßenbahnneubaustrecke Löbtau – Südvorstadt – Strehlen, Teilstrecke 1.3: Nürnberger Straße – Zellescher Weg – Caspar-David-Friedrich-Straße, Änderung zur Vorplanung - Zustimmung mit Änderung
+- TOP 22: Bebauungsplan Nr. 203 z, DD-Klotzsche Nr. 20, Boltenhagener Straße/Flughafenstraße (Teilaufhebung), Bebauungsplan Nr. 203 a, DD-Klotzsche Nr. 21, Boltenhagener Straße/Flughafenstraße (Änderungssatzung) - Zustimmung
+- TOP 23: Bebauungsplan Nr. 31, Dresden-Leubnitz-Neuostra Nr. 2, Wilhelm-Franke-Straße - Vertagung durch Einreicher
+- TOP 24: Erwerb eines Grundstücks in der Gemarkung Neustadt - Verweisung
+- TOP 25: Änderungsverordnung zur Polizeiverordnung der Landeshauptstadt Dresden als Kreispolizeibehörde zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung in Dresden (PolVO Sicherheit und Ordnung) - Zustimmung
+- TOP 26: Politisches Ehrenamt absichern, gefahrloses und faires Plakatieren gewährleisten – Anpassung der Wahlwerbesatzung - punktweise Abstimmung
+- TOP 27: Vertagungen aus der Sitzung 16.05.2024 - erledigt
+- TOP 27.1: Neubenennungen einer Straße, zweier Wege und eines Platzes - Vertagung
+- TOP 27.2: Neubenennung von Straßen, hier Benennung einer Straße im Bebauungsplan Nr. 3027 A, Dres-den-Altstadt I Nr. 52, Ferdinandplatz/ Verwaltungszentrum in "Gebrüder-Arnhold-Platz" - Vertagung
+- TOP 27.3: Benennungskonzept für Straßen und Plätze rund um das neue Verwaltungszentrum - Vertagung
+- TOP 27.4: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Vertagung durch Einreicher
+- TOP 27.5: Für eine saubere Stadt! Graffiti-Schmierereien beseitigen - punktweise Abstimmung
+- TOP 27.6: Neue Multifunktionsarena für Spitzensport und Spitzenveranstaltungen - Margon Arena für Breitensport sanieren - punktweise Zustimmung mit Änderung
+- TOP 27.7: Einbürgerungsverfahren verbessern und beschleunigen - Ablehnung
+- TOP 27.8: Fortschreibung Bäderkonzept 2025/2030 - Zustimmung mit Änderung
+- TOP 27.9: Dresdner Straßen- und Stadtteilfeste erhalten - punktweise Abstimmung
+- TOP 27.10: Vonovia-Erwerb für kleingenossenschaftliche Mietmodelle nutzen! - punktweise Ablehnung
+- TOP 27.11: Für ein schönes Bahnhofsumfeld – Vorplatz Hauptbahnhof Ost neu gestalten - Zustimmung mit Änderung
+- TOP 27.12: Zustand der Dresdner Brücken - Ablehnung
+- TOP 27.13: Fortführung der Planung des Promenadenrings zwischen Dr.-Külz-Ring, Rathausplatz und Kreuzstraße (Promenadenring Süd-Ost) sowie zwischen Pirnaischem Platz, Akademiestraße und Elbe (Promenadenring Nord-Ost) - Zustimmung
+- TOP 27.14: Begrünung verstetigen und Aufenthaltsqualität vor dem Kulturpalast verbessern - Zustimmung mit Änderung
+- TOP 27.15: Entwicklung der Schulbibliotheken fortsetzen - Zustimmung mit Ergänzung
+- TOP 27.16: Satzung der Landeshauptstadt Dresden für den Integrations- und Ausländerbeirat - Zustimmung mit Änderung
+- TOP 27.17: Vorschlag zur Straßenbenennung einer neuen öffentlichen Verkehrsfläche zwischen Käthe-Kollwitz-Ufer und Florian-Geyer-Straße - Ersetzung
+- TOP 27.18: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 27.19: Freiflächen und nichtkommerzielle Open Air Veranstaltungen für Dresden - Ersetzung
+- TOP 27.20: Kulturentwicklungsplan 2020 umsetzen – Atelierräume für Künstlerinnen und Künstler in Dresden sichern - Vertagung durch Einreicher
+- TOP 27.21: Pilotprojekt zur Anpassung an verändernde klimatische Bedingungen im Stadtteil Pieschen - Zustimmung mit Änderung
+- TOP 27.22: Entkriminalisierung des Fahrens ohne Fahrschein bei den Dresdner Verkehrsbetrieben - Zustimmung
+- TOP 27.23: Insourcing der Speisenversorgung am Städtischen Klinikum Dresden - Vertagung nach 21 Uhr
+- TOP 27.24: Abmietung des Objektes Hermann-Mende-Straße 1 - Ablehnung
+- TOP 27.25: Für Naherholung, Lebensqualität und Gesundheit: Erlebnisbad Elbamare erhalten. - Vertagung nach 21 Uhr
+- TOP 27.26: Sozialen Wohnungsbau in Dresden in Schwung bringen und Erwerb von Vonovia-Grundstücken für gemeinwohlorientierte Wohnformen nutzen! - Vertagung nach 21 Uhr
+- TOP 27.27: Endgültige Stilllegung des Pumpspeicherwerkes Niederwartha rechtskonform? - Vertagung nach 21 Uhr
+- TOP 28: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2024/2025 - Zustimmung mit Ergänzung
+- TOP 29: "Prävention kooperativ gestalten" - Konzept zur Neuausrichtung der kommunalen Kriminalprävention der Landeshauptstadt Dresden - Zustimmung
+- TOP 30: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für die Benutzung von Sportstätten und die außerschulische Nutzung von Schulsportanlagen und Aufhebung des Entgeltkataloges des EB Sportstätten Dresden - Zustimmung
+- TOP 31: B0269 – Brücke über die Rohrtrasse des Pumpspeicherwerks Niederwartha im Zuge der Friedrich-August-Straße – Ersatzneubau des Überbaus und Generalinstandsetzung der Widerlager - Zustimmung
+- TOP 32: „Jugendhilfe“ im DDR-Regime – Gedenkorte sichtbar machen! - Verweisung und erneute Beratung
+- TOP 33: Neue Firmenansiedlungen im Dresdner Norden – gute Integration in Stadtteil und Verkehrsnetze sicherstellen - Vertagung nach 21 Uhr
+- TOP 34: Energiewende entschlossen unterstützen – Potenzial für Windkraftanlagen auf Dresdner Stadtgebiet evaluieren und nutzen - Verweisung
+- TOP 35: Verstetigung des Angebotes "Fit im Park" - Ablehnung
+- TOP 36: Sicheres Radfahren – Geschützte Radfahrstreifen für Dresden - Vertagung nach 21 Uhr
+- TOP 37: Interkulturelles Engagement würdigen – Dresdner Integrationspreis wiederbeleben - Vertagung nach 21 Uhr
+- TOP 38: Vorkaufsrechtssatzung für Kleingartenanlagen - Verweisung
+- TOP 39: Arbeitsgelegenheiten für alle Asylbewerber - was tut die Stadt Dresden - Vertagung nach 21 Uhr
+- TOP 40: Abbruch des Verkehrsversuchs an der Flügelwegbrücke - zurückgezogen
+- TOP 47: Gesamtkonzept Lebenslanges Lernen in Dresden - punktweise Zustimmung
