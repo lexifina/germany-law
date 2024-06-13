@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-13T16:15:00+02:00
+- Ende: 2024-06-13T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29766
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29766
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Einsatz von Pferden im Karneval" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 07.03.2024 betr.: "Einsatz von Pferden im Karneval" (AN/0376/2024) - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, Volt betr.: "Kontrolle der Mehrwegangebotspflicht" - zurückgestellt
+- TOP 1.3: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Wärmeversorgung des Neubaugebiets Deutzer Hafen" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen vom 22.04.2024, betreffend die Wärmeversorgung des Neubaugebiets Deutzer Hafen (AN/0646/2024) - Kenntnis genommen
+- TOP 1.4: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "St. Sebastianus & Afra Schützenbruderschaft Köln vom 2012 e.V." - zurückgestellt
+- TOP 1.5: Anfrage der FDP-Fraktion betr.: "Kölner Luftreinhalteplan heute und in Zukunft" - zurückgestellt
+- TOP 1.6: Anfrage der FDP-Fraktion betr.: "Sachstand Echtzeitmonitoring von Verkehrslage und Luftschadstoffen (Mobilitäts Cockpit Köln)" - zurückgestellt
+- TOP 1.7: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Umweltbelastungen während des Ost-West-Achsen-Ausbaus" - zurückgestellt
+- TOP 1.8: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Förderprogramme und Fördermittel, hier im Dezernat VIII" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Dringlichkeitsantrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Igelschutz jetzt!" - zurückgestellt
+- TOP 2.2: Antrag der FDP-Fraktion betr.: "Logistikkonzept der Klärschlammverbrennung überarbeiten" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Aufstellungsbeschluss zur 13. Änderung des Landschaftsplans Köln - ungeändert empfohlen
+- TOP 4.1.2: Dauerhafte Regelung zur Straßenmusik im Domumfeld - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Wasserversorgungskonzept der Stadt Köln 2024 - Aktualisierung - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Pflege- und Entwicklungsplan zum Naturschutzgebiet N22 "Baadenberger Senke, Stöckheimer See und Große Laache" - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Vergabe Stadtklima- und Stadtverschönerungsmittel 2024 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 7.2: Beendigung Mietvertrag Schützenbrüderschaft St. Sebastianus & Afra 2012 e.V. - zurückgestellt
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2024 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.4: Umsetzung einer Maßnahme der Kulturentwicklungsplanung: Materialkarussell der Kölner Kultur - Kenntnis genommen
+- TOP 7.5: Jahresbericht 2023 zum Hitzeaktionsplan Köln - Kenntnis genommen
+- TOP 7.6: Energetische Quartierssanierung: 1. KfW 432 Quartierskonzept - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.7: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 4. Juni 2024 - Kenntnis genommen
+- TOP 7.8: Mündliche Mitteilung der Verwaltung betr.: "Bahnhof Belvedere - Fällung der Platane"
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
