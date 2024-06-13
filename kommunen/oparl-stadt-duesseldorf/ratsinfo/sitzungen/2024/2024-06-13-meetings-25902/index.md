@@ -1,0 +1,58 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-13T15:07:00+02:00
+- Ende: 2024-06-13T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25902
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25902
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523153.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523153.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523153.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses am 07.03.2024 - einstimmig beschlossen
+- TOP 4: Mündliche Berichte
+- TOP 4.1: Vorstellung düsseldorf photo + Biennale for Visual and Sonic Media
+- TOP 4.2: Information über die aktualisierten Washingtoner Prinzipien
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage DIE LINKE: Ehemalige Klang- und Wasserspiele sowie Bespielung im Volksgarten/Südpark - zur Kenntnis genommen
+- TOP 6: Anträge
+- TOP 6.1: Antrag DIE PARTEI-Klima-Fraktion: Erhalt des Audimaxgebäudes der ehemaligen Fachhochschule Düsseldorf auf dem Campus Golzheim - zurückgezogen
+- TOP 6.2: Antrag DIE PARTEI-Klima-Fraktion: Konzept für die Nutzung des Audimax auf dem Campus Golzheim - zurückgezogen
+- TOP 6.3: Antrag DIE LINKE: Künstlerische Gestaltung von Strom- und Ablagekästen, Ampeln und Laternenmasten - mehrheitlich abgelehnt
+- TOP 7: Ausstellungsprogramme
+- TOP 7.1: Stadtmuseum - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.2: Heinrich-Heine-Institut und Schumann-Haus - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.3: Mahn- und Gedenkstätte - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.4: Theatermuseum und Dumont-Lindemann-Archiv - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.5: HETJENS Deutsches Keramikmuseum - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.6: Goethe-Museum / Anton-und-Katharina-Kippenberg-Stiftung - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.7: Filmmuseum - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.8: SchifffahrtMuseum - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 7.9: Aquazoo - Ausstellungsprogramm 2. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Lantz´scher Skulpturenpark - Kuratorisches Konzept 2025 - einstimmig beschlossen
+- TOP 8.2: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - passieren lassen
+- TOP 8.3: Förderung des 22. Filmfests Düsseldorf - einstimmig beschlossen
+- TOP 8.4: Atelierbeirat - Sitzung am 03.05.2024: Für die Förderung empfohlene Anträge auf Atelierumbaukostenzuschuss - einstimmig beschlossen
+- TOP 8.5: Beirat Tanz und Theater - Sitzung am 15.05.2024: Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 8.6: Beirat für kulturelle Bildung – Sitzung vom 10.04.2024. Für die Förderung empfohlene Projekte - einstimmig beschlossen
+- TOP 8.7: Zusätzliche Förderung der zakk gGmbH zur Aufrechterhaltung des Betriebes 2024 - einstimmig beschlossen
+- TOP 8.8: Zusätzliche Förderung an den Forum Freies Theater e.V. zur Aufrechterhaltung des Betriebes 2024 - einstimmig beschlossen
+- TOP 8.9: Zusätzliche Förderung an den tanzhaus nrw e.V. zur Aufrechterhaltung des Betriebes 2024 - einstimmig beschlossen
+- TOP 8.10: Änderung der Bestimmungen über die Verleihung des Heine-Preises der Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 8.11: Umbenennung historisch belasteter Straßennamen in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 8.12: Ehrenhof 5, Kunstpalast – Übertragung des Gebäudeunterhalts und der Instandhaltung für den Altbau: Bericht zur bestimmungsgemäßen Verwendung des Zuschusses - zur Kenntnis genommen
+- TOP 8.13: Benrather Schloßallee 100-108, Schloss und Park Benrath, Übertragung des Gebäudeunterhalts und der Instandhaltung für die Gebäude: Bericht zur bestimmungsgemäßen Verwendung des Zuschusses - zur Kenntnis genommen
+- TOP 8.14: Jahresbericht der Geschäftsstelle der Kunstkommission 2022/2023 - zur Kenntnis genommen
+- TOP 8.15: "Ausgezeichnet" Jahresbericht der Stadtbüchereien 2023 - zur Kenntnis genommen
+- TOP 8.16: Beschlusskontrolle Januar 2024 bis Mai 2024 - zur Kenntnis genommen
+- TOP 9: Verschiedenes
