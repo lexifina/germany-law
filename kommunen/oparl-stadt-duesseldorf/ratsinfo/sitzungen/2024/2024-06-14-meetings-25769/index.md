@@ -1,0 +1,64 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-14T16:00:00+02:00
+- Ende: 2024-06-14T17:55:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25769
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25769
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: BV9 Einladung 14.06.2024, Stand 14.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523809.pdf
+- Ergebnisprotokoll: BV9 Einladung 14.06.2024, Stand 14.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523809.pdf
+- Wortprotokoll: BV9 Einladung 14.06.2024, Stand 14.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523809.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 03.05.2024 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP 5: Vorstellung des Hochwasser-Arbeitsplanes - zur Kenntnis genommen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: ZUKUNFT QUARTIER.DÜSSELDORF - hier: Einführung eines Nachbarschaftsfonds im Handlungsraum 10 Wersten/Holthausen - einstimmig beschlossen
+- TOP 6.2: Benrather Märkte im Jahre 2024 - einstimmig beschlossen
+- TOP 6.3: Umgestaltung Kinderspielplatz Heiligenhauser Straße – Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 6.4: Umgestaltung Kinderspielplatz Nixenstraße – Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - einstimmig beschlossen
+- TOP 6.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Listen B+C - einstimmig beschlossen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Busliniennetzoptimierung Monheim (Projekt „BSM24“) und weitere Verbesserungen des Busangebots im Düsseldorfer Süden - Empfehlung einstimmig beschlossen
+- TOP 6.8: Neue Haltstelle: Himmelgeist, Schule - einstimmig beschlossen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Bonner Straße, Umleitungsbeschilderung/- maßnahmen für den Fuß- und Radverkehr - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Umgang mit Anwohnerparken auf Fahrbahnen mit Gegenverkehr und einer Breite von weniger als 5,2 Meter -Antrag der Ratsfraktion DIE LINKE- - mehrheitlich abgelehnt
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Verfügungsmittel
+- TOP 10.1: St.-Sebastianus-Schützenverein e.V. - Seniorenvormittag 2024 - einstimmig beschlossen
+- TOP 10.2: AWO Familienglobus gGmbH, Aktiv- und Stadtteiltreff Wersten - Künstlerische Gestaltung Stromhäuschen Immigrather- u. Manforter Straße - einstimmig beschlossen
+- TOP 10.3: Heimatgemeinschaft Groß-Benrath e.V. - Jubiläumsfeier zum 75-jährigen Bestehen - einstimmig beschlossen
+- TOP 10.4: Schloß Gymnasium Benrath - Veranstaltung "Bericht über Gewalt" - einstimmig beschlossen
+- TOP 10.5: GGS Südallee - Medienprojekt 2024 - einstimmig beschlossen
+- TOP 10.6: Märchenfieber - Theateraufführungen "Von Menschen und Ratten - der Rattenfänger von Hameln" - einstimmig beschlossen
+- TOP 10.7: Stadtbücherei Wersten - Abschlussfeier SommerLeseClub 2024 - einstimmig beschlossen
+- TOP 10.8: St.-Sebastianus-Schützenverein e. V. D.-Holthausen 1925 e.V - Schützenfest - Festzug 2024 - einstimmig beschlossen
+- TOP 10.9: ASB zentrum plus Holthausen - Platzkonzert Rockchor 60+ und Adventssingen Kamper Acker 2024 - einstimmig beschlossen
+- TOP 10.10: EinStein Ribif e.V. - Fest der Annäherung 2024 - einstimmig beschlossen
+- TOP 10.11: Heimatverein Werstener Jonges e. V. - Sommer- und Stadtteilfest 2024 - einstimmig beschlossen
+- TOP 10.12: Kleingärtner-Verein Benrath e.V. 1924 - 100-jähriges Vereinsjubiläum 2024 - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Beschlusskontrolle der Bezirksvertretung 9 - 1.Halbjahr 2024 - zur Kenntnis genommen
+- TOP 11.2: Mittelstreifen Hildener Straße, Vorlage BV9/046/2022 - Beschluss der Bezirksvertretung 9 vom 10.06.2022; BV9/128/2022 - zur Kenntnis genommen
+- TOP 11.3: Verkehrssicherheit auf der Kappeler Straße zwischen Brücke Münchener Straße und Marbacher Straße - Beschluss der Bezirksvertretung 9 vom 03.05.2024; BV9/079/2024 - zur Kenntnis genommen
+- TOP 11.4: Naturdenkmal Magnolienbäume auf der Hauptstraße - Beschluss der Bezirksvertretung 9 vom 03.05.2024; BV9/076/2024 - zur Kenntnis genommen
+- TOP 11.5: Spielplatz Paulsmühlen-/ Ecke Balckestraße - Beschluss der Bezirksvertretung 9 vom 03.05.2024; BV9/077/2024 - zur Kenntnis genommen
