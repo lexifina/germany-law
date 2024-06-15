@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 17. Juni 2016 (BGBl. I S. 1489), das zuletzt durch Artikel 337 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in Verbindung mit § 60 Abs. 3 der Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209;1999 I S. 193), die zuletzt durch Artikel 2 § 12 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, verordnet die Generaldirektion Wasserstraßen und Schifffahrt für ihren Zuständigkeitsbereich:
