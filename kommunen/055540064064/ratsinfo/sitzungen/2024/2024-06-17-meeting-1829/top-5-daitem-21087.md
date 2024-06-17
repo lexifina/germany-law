@@ -1,0 +1,9 @@
+# TOP 5.: Aufnahme neuer Gesellschafter in die "Kommunale Dienstleistungsgesellschaft mbH" und Anpassung des Gesellschaftervertrages
+
+- Sitzung: Haupt-, Finanz- und Digitalausschuss (3. Sitzung) (2024-06-17)
+- Körperschaft: Stadt Velen
+- Öffentlich: ja
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21087
+- Ergebnis: 16 Ja-Stimme(n), 1 Gegenstimme(n), 1 Stimmenthaltung(en)
+- Beratung: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/6994
+- Beschluss (Datei): Beschlußtext (Aufnahme neuer Gesellschafter in die "Kommunale Dienstleistungsgesellschaft mbH" und Anpassung des Gesellschaftervertrages) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQmrlAjUFvrypPwcugmxjpI0NDnXBOI5Ll3kKrpO_z8o/Beschlusstext_51-2024_-oeffentlich-_Haupt--_Finanz-_und_Digitalausschuss_17.06.2024.pdf
