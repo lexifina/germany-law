@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-17T17:00:00+02:00
+- Ende: 2024-06-17T17:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29668
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29668
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zu den zunehmenden Bedrohungen und verbalen Entgleisungen gegenüber Amtsträgern, Ehrenamtlichen sowie Einsatz- und Rettungskräften
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Girls`Day und Boys' Day 2024 - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer schriftlichen Anfrage der SPD aus der Sitzung des Sozialausschusses vom 18.04.2024 (AN/0569/2024) betreffend "Neue Drogenpolitik im Bund - Chancen für die Kölner Plätze mit besonderem Handlungsbedarf und weiteren Hotspots nutzen" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zum aktuellen Sachstand des Netzwerkes für Mitarbeitende mit internationaler Familiengeschichte - Kenntnis genommen
+- TOP 4.2: Vorstellung des Jahresberichts 2022-2023 des Zentrums für Kriminalprävention und Sicherheit (ZKS) der Stadt Köln - Kenntnis genommen
+- TOP 4.3: Bericht über die Entwicklung von Bleiberechten und Rückkehr ausreisepflichtiger Personen 2023 - Kenntnis genommen
+- TOP 4.4: Zwischenbericht "Masterplan Kommunale Sicherheit" - Kenntnis genommen
+- TOP 4.5: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 4.6: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 4.7: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 31. Mai 2024 - Kenntnis genommen
+- TOP 4.8: Ergebnis des Prüfauftrags zum Antrag der FDP-Fraktion betreffend „Schöner Heiraten in Köln“ (AN/2088/2023) - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der AfD-Fraktion betreffend "Aufstellung und Betrieb von „Tiny Houses“ in Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion (AN/0679/2024) betreffend "Aufstellung und Betrieb von „Tiny Houses“ in Köln" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Arbeitskräftemangel bei der Stadt: Aktuelle Personalsituation 2024" - zurückgestellt
+- TOP 6.3: Anfrage der FDP-Fraktion betreffend "Zentrales Silvester-Feuerwerk in Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion im Rat der Stadt Köln betreffend "Zentrales Silvesterfeuerwerk in Köln" (AN/0849/2024) - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion DIE Linke betreffend "Maßnahmen zur Aufwertung des Domumfelds und der Handelslagen" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke betreffend "Maßnahmen zur Aufwertung des Domumfelds und der Handelslagen" (AN/0905/2024) - Kenntnis genommen
+- TOP 6.5: Anfrage der FDP-Fraktion betreffend "Durch Bürgerinnen und Bürger gemeldete Parkverstöße in NRW nehmen zu. Ist die Rechtssicherheit gegeben?" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP Fraktion vom 10.06.2024 betreffend "Durch Bürgerinnen und Bürger gemeldete Parkverstöße in NRW nehmen zu. Ist die Rechtssicherheit gegeben?" (AN/0880/2024) - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betreffend "Unfallprävention im Straßenverkehr" - zurückgestellt
+- TOP 6.7: Anfrage der Fraktionen CDU und Volt betreffend "Barrierefreie Toiletten am Neumarkt" - zurückgestellt
+- TOP 6.8: Anfrage der SPD-Fraktion betreffend "Taxigewerbe als Teil des ÖPNV erhalten – Wie kann die Stadt Uber und Co. stärker kontrollieren?" - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Taxigewerbe als Teil des ÖPNV erhalten - Wie kann die Stadt Uber und Co. stärker kontrollieren?" (AN/0940/2024) - zurückgestellt
+- TOP 6.9: Anfrage der Fraktion Klima Freunde GUT betreffend "Keine Vergabe von städtischen Räumlichkeiten für extremistische Zwecke" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag eines Sachkundigen Einwohners betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion betreffend "Mehr Inklusion bei der Stadtverwaltung Köln: Fünf Prozent der Neueinstellungen sollen Menschen mit Behinderung, Einschränkung oder Lernbeeinträchtigung sein" - zurückgestellt
+- TOP -: Änderungsantrag zu TOP Ö 8.2 Antrag der SPD-Fraktion betreffend "Mehr Inklusion bei der Stadtverwaltung Köln: Fünf Prozent der Neueinstellungen sollen Menschen mit Behinderung, Einschränkung oder Lernbeeinträchtigung sein" (AN/0605/2024) - zurückgestellt
+- TOP 8.3: Antrag der Fraktion Klima-Gut betreffend "Karneval: Feste feiern auf festem Grund" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Plätzen der Kölner Innenstadt für das 2. Halbjahr 2024 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP 10.2: Dauerhafte Regelung zur Straßenmusik im Domumfeld - ungeändert beschlossen
+- TOP 10.3: Zweite Änderungsverordnung für die Jahre 2024-2026 über das Offenhalten von Verkaufsstellen an Sonntagen. - ungeändert beschlossen
+- TOP 10.4: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - zurückgestellt
+- TOP 10.5: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Mündliche Anfrage der Seniorenvertretung betreffend "Nutzungsordnung für Schulen"
