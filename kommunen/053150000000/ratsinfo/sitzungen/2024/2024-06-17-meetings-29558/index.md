@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-17T16:00:00+02:00
+- Ende: 2024-06-17T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29558
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29558
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit dem Beigeordneten Andree Haack (Stadtentwicklung, Wirtschaft, Digitalisierung und Regionales) -entfällt-
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohnerfragen
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.2: Bürgereingabe nach § 24 GO - Prüfergebnis zur Erweiterung der Benennung des Auerbachplatzes in Köln-Sülz AZ 06/24 B - Kenntnis genommen
+- TOP 5.1.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parken auf dem Gehweg Berrenrather Straße, Aktenzeichen 23/24 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 5.2.1: Bürgereingabe gem. § 24 GO - „Einrichtung Tempo 30 in Köln Lövenich – Moltkestraße; Geschwindigkeitsreduzierung / Fußgängerüberweg an der Kreuzung Saarstraße“, Aktenzeichen 220/23 S - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung 3 (Lindenthal) vom 11.03.2024 (AN/0385/2024) betreffend „Anfrage zur Haltestelle Bahnstraße“ - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Ergänzung X4 zur Machbarkeitsstudie Expressbus-Netz - ungeändert beschlossen
+- TOP 8.1.2: Bennenung eines Platzes nach Helga Schlapka - ungeändert beschlossen
+- TOP 8.1.3: Erhalt der Platane im Innenhof Redwitzstraße 62-66 - ungeändert beschlossen
+- TOP 8.1.4: Einführung eines Fahrrad-Piktogrammkette auf der Dürener Straße zwischen Universitätsstraße und Gürtel (beide Fahrtrichtungen) – erneuter Antrag - ungeändert beschlossen
+- TOP 8.1.5: Erweiterung der Anlage Minirampe im Stadtwald für Skate, Inline und Scooter - ungeändert beschlossen
+- TOP 8.1.6: Beschilderung des parallel zum Brauweiler Weg verlaufenden Radwegs für beide Fahrtrichtungen zwischen Lovis-Corinth-Straße und Aachener Straße - ungeändert beschlossen
+- TOP 8.1.7: Antrag zur Prüfung des baulichen Erhalts des Justizgebäudes Luxemburgerstr. - endgültig abgelehnt
+- TOP 8.1.8: Erhöhung der Erkennbarkeit der Verkehrsführung an der Einmündung der Oskar-Jäger-Straße in die Aachener Straße - ungeändert beschlossen
+- TOP 8.1.9: Umwandlung Parkplatz vor der Grundschule Lindenburger Allee - ungeändert beschlossen
+- TOP 8.1.10: Umbenennung des Lindenthaler Tierparks in: „Heribert Resch – Tierpark in Lindenthal“ - zurückgestellt
+- TOP 8.1.11: Errichtung von Fahrradnadeln an der Ecke Aachener Straße / Pfitznerstraße - ungeändert beschlossen
+- TOP 8.1.12: Baumpflege/Ersatz Straßenbäume Curt-Stenvert-Bogen, Lövenich - ungeändert beschlossen
+- TOP 8.1.13: Ertüchtigung der Bus-Linien 149/148 - ungeändert beschlossen
+- TOP 8.1.14: Antrag Bezirksorientierte Mittel BV 3 - ungeändert beschlossen
+- TOP 8.1.15: Dringlichkeitsantrag Klageauftrag Platane - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Handlungsempfehlung für die Ostlandstraße in Köln-Weiden - ungeändert beschlossen
+- TOP 9.1.2: Handlungsempfehlung für die Lerschstraße in Köln-Weiden - ungeändert beschlossen
+- TOP 9.1.3: Widmungserweiterung für ein Teilstück des Wirtschaftsweges westlich der Hofanlage Haus Rath in Köln-Widdersdorf (Gemarkung Lövenich, Flur 54, Teilfläche aus Flurstück 221) - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Regelwerk zur Anordnung und Gestaltung der Außengastronomie, hier: verbindliche Vorgaben - geändert beschlossen
+- TOP 9.2.2: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 9.2.3: Bestätigung der Teilstandorte der Johann-Christoph-Winters-Schule, Lindenburger Allee 38, 50931 Köln, Schulnummer 154143 - ungeändert beschlossen
+- TOP 9.2.4: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ungeändert beschlossen
+- TOP 9.2.5: Einrichtung des Schulneubaus für die Gesamtschule Wasseramselweg, Wasseramselweg 2 in 50829 Köln, Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023 - Kenntnis genommen
+- TOP 11.1.2: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.1.3: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 11.1.4: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms - Kenntnis genommen
+- TOP 11.3.2: Markierung eines Verkehrsübungsplatzes auf der Kinderspielfläche auf dem Auerbachplatz in Köln Sülz - Kenntnis genommen
+- TOP 11.3.3: Erweiterung Anwohnerschutzkonzept RheinEnergieSTADION - Kenntnis genommen
+- TOP 11.3.4: Linksrheinische Verlängerung der Stadtbahnlinie 13 bis zum Rhein - Kenntnis genommen
+- TOP 11.3.5: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 11.3.6: BV Vorlage Brauweilerstr. 16 - Kenntnis genommen
+- TOP 11.3.7: Ergebnis des hochbaulich-freiraumplanerischen Realisierungswettbewerbs zum Bebauungsplanverfahren "Neubau Justizzentrum Köln in Köln-Sülz" - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
