@@ -1,0 +1,78 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll-Entwurf der Sitzung am 13.05.2024
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Verkehrssituation um die Grundschule Emmy-Noether-Straße (Bring- und Abholverkehr) -> vertagt aus Sitzung am 13.05.2024; Ortstermin am 06.06.2024
+- TOP 2.2.: Belästigungen für Anwohner*innen der Templestraße nach Inbetriebnahme des Neubaus der Amphionschule
+- TOP 2.3.: 1. Absenkung der Geschwindigkeit auf Tempo30 auch im Bereich der Gärtnerstraße östlich der Hanauer Straße; 2. Einrichtung eines Parklizenzgebietes in der Verlängerung der Gärtnerstraße östlich der Hanauer Straße
+- TOP 2.4.: Geschwindigkeitsbegrenzung (Tempo 30) aus Lärmschutzgründen in der Lauinger - /Donauwörther Straße während der Bauarbeiten an der Bahnunterführung Dachauer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Vorstellung Planungen Untermenzinger Straße (-> vertagt aus der Sitzung am 13.05.2024)
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Gärtnerstraße (Änderungsantrag)
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Dieselstr. 3
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Bestellung einer städt. Leistung: Aufstellen eines Dialog-Displays am Standort Feldmochinger Str. 55-59 hier: notwendiger Beschluss 2 zur Kostenübernahme
+- TOP 4.1.2.: Lösung für Müllsituation durch Hundekotbeutel am Spielplatz Simmerleinplatz
+- TOP 4.1.3.: Bessere Erreichbarkeit des Parks am Oberwiesenfeld für Radfahrende - Versatz des Verkehrsschildes VZ 254 (Verbot für Radverkehr) mit Ausweisung eines Zweirichtungsradweges
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Barrierearmen Übergang in der Baubergerstraße in Höhe Bushaltestellen "Warschauer Straße" realisieren
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstraße e.V., Nachbarschaftstreff Karlingerstraße „Gartenfest für’s Viertel am 27.06.2024“ 600,00 € / AZ: 0262.0-10-0380
+- TOP 5.2.: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-10-0497
+- TOP 5.3.: (E) Stadtbezirksbudget G.T.E.V. D’Loisachthaler Stamm München e.V. „Förderung der Jugend und Familienarbeit vom 13.06.2024 – 31.12.2024“ 935,00 € / AZ: 0262.0-10-0382
+- TOP 5.4.: (E) Stadtbezirksbudget TSV Moosach - Hartmannshofen „Moosach Cup 2024, Sommerfest sowie eigene Turniere/ Veranstaltungen vom 07.09.2024 - 08.09.2024“ 1.597,80 € / AZ: 0262.0-10-0383
+- TOP 5.5.: (E) Stadtbezirksbudget Mieter- und Eigentümergemeinschaft Olympia-Pressestadt e.V. „Kinder- und Sommerfest 50 Jahre Mieter- und Eigentümergemeinschaft Olympia-Presse am 27.07.2024“ 2.381,54 € / AZ: 0262.0-10-0385
+- TOP 5.6.: (E) Mehr Ordnung und evtl. mehr Kontrollen für das Abstellen von E-Rollern und Fahrrädern und Schaffung von gesonderten Abstellplätzen für E-Roller
+- TOP 5.7.: (E) E-Scooterfreie Bahnhofszone, inklusive Ladezone bis Dachauer Straße und gleichzeitig Parkplatz für E-Scooter
+- TOP 5.8.: Entscheidung gem. OB-Vollmacht: Genehmigung einer Freischankfläche, Feldmochinger Str. 8
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung: Stärkung der Entscheidungsrechte der Bezirksausschüsse im Bereich von bedeutsamen Bauvorhaben
+- TOP 6.2.: Änderung der BA-Satzung: Mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen
+- TOP 6.3.: Änderung BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes
+- TOP 6.4.: Entwurf Sitzungsvorlage: Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-) Raums
+- TOP 6.5.: Abstimmung neues Radverkehrsnetz für München - IR III (Radvorrangrouten, RVR)
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 StPO: Dresdner Straße; Einrichtung eines absoluten Haltverbots (Schulwegsicherheit)
+- TOP 6.7.: Veranstaltung in städtischer Grünanlage: Franz-Mader-Str. 11 (PSV) Laufveranstaltung "Sri Chinmay Peace" am 14.09.2024
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund: Franz-Marc-Straße Sommerfest Borstei
+- TOP 6.9.: Menschenansammlung auf öffentlichem Verkehrsgrund und Privatgrund: Hanauer Str. 77, „Gedenken an das OEZ-Attentat“ am 22.07.2024
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Wiederherstellung bzw. Neuauftrag von Piktogrammen (Verkehrszeichen 244.1 StVO - Fahrradstraße) entlang des Fahrradstraßenzuges Karl-Lipp-Straße - Gleißmüllerstraße - Welzenbachstraße - Templestraße [BA-Antrag Nr. 20-26/B 06605; Vertragsfirmen sind bereits zur Erledigung beauftragt]
+- TOP 7.2.: Erhöhung der Verkehrssicherheit: Errichtung eines vorgezogenen Seitenraums (sog. "Gehwegnase") an der Feldmochinger Straße, Höhe Einmündung Gerastraße [BA-Antrag Nr. 20-26/B 06472; Ablehnung, da eine Gehwegnase an besagter Stelle weiterhin keine gesicherte Querungsmöglichkeit darstellt.]
+- TOP 7.3.: Einschränkung des beparkbaren Bereiches (Westseite) im Einmündungsbereich Dresdner Straße in die Pelkovenstraße [BA-Antrag Nr. 20-26/B 06607; gefordertes Haltverbot wird angeordnet.]
+- TOP 7.4.: Anfrage: Sanierung A 99 Allacher Tunnel - Verkehrliche Auswirkungen auf Moosach - Verkehrskonzept [BA-Antrag Nr. 20-26/B 02798; formale Einbindung der LHM erfolgte durch die Regierung von Oberbayern im Rahmen des Planfeststellungsverfahrens.]
+- TOP 7.5.: Umgestaltung Radweg Dachauer Straße (2-Richtungsradweg) zwischen Georg-Brauchle-Ring und Feldmochinger Straße stadtauswärts [BV-Empfehlung Nr. 14-20/E 02893; Hinweis auf SV Nr. 20-26/V 09792 des Mobilitätsausschusses. Ein 2-Richtungsradweg ist dort vorgesehen.]
+- TOP 7.6.: Müllsituation an der Bushaltestelle "Sapporobogen" [Schreiben BA10 vom 25.10.2023; Kontrollen wurden durchgeführt; Leerungsrate ausreichend dimensioniert, keine Änderung des Behälters.]
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Vorabstellungnahme Vorsitzender gemäß § 20 Abs. 1 BA-Satzung: Veranstaltung in städtischer Grünanlage: Sponsorenlauf der GS im Amphionpark am 08.07.2024
+- TOP 8.2.: Ludwigsfelder Straße/ gemeinsame Bezirkssportanlage für Moosach und Untermenzing hier: Schreiben RBS an Bürger zur Kenntnis für BA
+- TOP 8.3.: Fortschreibung Standortsicherung Bürgerbüros – Entwicklung künftiger Bürgerbüro-Standorte - Stadtbezirke 09, 10, 16, 19 -
+- TOP 8.4.: (U) Baumpflanzungen im öffentlichen Raum gemäß den Vorschlägen aus den Bezirksausschüssen Ergebnis der Machbarkeitsuntersuchung für die Standortvorschläge Sonderprogramm Klimaschutz 2021 Sitzungsvorlage Nr. 20-26 / V 03895 Maßnahme 7: Mehr Grün und mehr Biodiversität III - Baumpflanzungen im öffentlichen Raum
+- TOP 8.5.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 8.6.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 8.7.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 8.8.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 8.9.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 6.10.: Novellierung der BaumSchV der Landeshauptstadt München
+- TOP 2.5.: Hochwasser in der Trinkl-Siedlung
