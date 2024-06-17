@@ -1,0 +1,52 @@
+# 14. Sitzung der Stadtarbeitsgemeinschaft Queerpolitik
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-17T17:00:00+02:00
+- Ende: 2024-06-17T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/186
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30088
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30088
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung Fabian Stangier als Leiter der Abteilung Vielfalt und Laura Springorum als Leiterin des Büros für Diversity Management
+- TOP -: Solidaritätsbekundung der StadtAG Queerpolitik
+- TOP 1: Vorträge
+- TOP 1.1: Vorstellung des Fachbereichs Regenbogenfamilien bei rubicon e.V.
+- TOP 1.2: anyway-Befragung zu Queerfeindlichkeit in Kölner Schulen
+- TOP 2: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 3: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 3.1: Antrag zum Budget der StadtAG Queerpolitik - Vernetzungstreffen der StadtAG Queerpolitik mit Vertreter*innen weiterer queerer Organisationen sowie aus Politik und Stadtgesellschaft - ungeändert beschlossen
+- TOP 4: Trans
+- TOP 5: LSBTI Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 6.1: Kölner Lesbian Visibility Week 2024 - Kenntnis genommen
+- TOP 6.2: Verabschiedung von Carolina Brauckmann (rubicon e.V.)
+- TOP 7: Diversity
+- TOP 8: Bericht der Fachstelle LSBTI
+- TOP 8.1: Beratungsstrukturen zum Themenfeld Sexualität und Behinderung in Köln - Kenntnis genommen
+- TOP 8.2: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 8.3: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 8.4: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 8.5: Sister Cities Stand Together: Austausch 2024 - Kenntnis genommen
+- TOP 8.6: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Elternbefragung zur Corona-Pandemie - Kenntnis genommen
+- TOP 9.2: 3. Gleichstellungsaktionsplan - Kenntnis genommen
+- TOP 9.3: Leitbild "Kulturelle Teilhabe in Vielfalt": Aktualisierte Fassung nach Änderungsantrag - Kenntnis genommen
+- TOP 9.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Nächtliches Frauentaxi, Az.: 173/23 - Kenntnis genommen
+- TOP 9.5: Strukturförderfonds des Dezernates der Oberbürgermeisterin 2024 - Kenntnis genommen
+- TOP 9.6: Bodies of Cologne - Kölner Körper - Kenntnis genommen
+- TOP 9.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 10.1: Steigende Queerfeindlichkeit an Schulen - Kenntnis genommen
+- TOP 10.2: Bericht aus dem Gesundheitsausschuss
+- TOP 11: Neue Anfragen
+- TOP 11.1: LSBTI-Förderprogramm 2023: Mittelverteilung
+- TOP 11.2: Verfahren um das Vereinsheim des St. Sebastianus & Afra Köln e.V.
+- TOP 12: Themen der nächsten Stadtarbeitsgemeinschaft Queerpolitik
+- TOP 13: Verschiedenes
