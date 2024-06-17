@@ -1,0 +1,76 @@
+# 30. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-17T17:00:00+02:00
+- Ende: 2024-06-17T21:05:00+02:00
+- Ort: Bezirksrathaus Ehrenfeld, Sitzungssaal, Seiteneingang, Venloer Straße 419-421, 50825 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29524
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29524
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Resolution der Bezirksvertretung: Das Zentrum für Alte Musik (zamus) und das Studio für elektronische Musik (SEM) - ungeändert beschlossen
+- TOP -: Austausch mit Herrn Beigeordneten Stefan Charles
+- TOP -: Sachstand/Austausch zum Verkehrsversuch Venloer Straße
+- TOP -: Verkehrsversuch Venloer Straße Stufe II - Einrichtung Einbahnstraße, hier: Sachstandsbericht 03/2024 - Kenntnis genommen
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion BÜNDNIS 90 / Die Grünen: Fahrradabstellanlagen im Stadtbezirk - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion: Halteverbot Subbelrather Straße 211 - 217 - zurückgestellt
+- TOP 6.3: Anfrage von Marlis Pöttgen (FDP), betr.: Spielstraße Baumläuferweg in Vogelsang - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Verkehr und Beschilderung Vogelsangerstr. / Ecke Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Anfrage zu den akustischen Ampelelementen - zurückgestellt
+- TOP 6.6: Anfrage zum Beschluss 0957/2022 der FRAKTION BÜNDNIS 90/ DIE GRÜNEN: Erhöhung der Verkehrssicherheit für Radfahrende am Simarplatz - zurückgestellt
+- TOP 6.7: Anfrage der SPD-Fraktion, betr.: Bebauung Erlenwerg 33 - 37 - Sache ist erledigt
+- TOP 6.7.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung 4 vom 29.01.2024 (AN/0126/2024) betreffend "Bebauung Erlenweg 33 - 37" - Kenntnis genommen
+- TOP 6.8: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Gefahr durch Rahmenbrüche bei Lastenrädern - zurückgestellt
+- TOP 6.9: Anfrage der SPD-Fraktion, betr,; Sachstand inklusive Fahrradwerkstatt im Bahnbogen Hüttenstraße - zurückgestellt
+- TOP 6.10: Anfrage der Fraktion Die Linke/DIE PARTEI, betr.: Fußballplatz im Leo-Amann-Park - zurückgestellt
+- TOP 6.11: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Aktueller Stand B-Plan Heliosgelände - Sache ist erledigt
+- TOP 6.11.1: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Aktueller Stand B-Plan Heliosgelände - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Umbau Vogelsangerstr. Bereich Maarweg bis Wilhelm-Mauser-Str. - zurückgestellt
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Nutzung der Container Peter-Lustig-Schule - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Verkehrsbelastung Vogelsanger Straße - Sache ist erledigt
+- TOP 7.3.1: Beantwortung einer schriftlichen Anfrage gem. § 4 der Geschäftsordnung des Rates der SPD-Fraktion aus der Sitzung der Bezirksvertretung 4 (Ehrenfeld) am 13.05.2024 betr. "Verkehrsbelastung Vogelsanger Straße" (AN/0745/2024) - Kenntnis genommen
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Tiefgaragen auf Akazien-, Erlenweg bis Sandweg - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Piktogrammkette Venloer Straße stadtauswärts: Mehr Sicherheit für Radfahrende und mehr Platz für Fußverkehr - endgültig zurückgezogen
+- TOP -: Änderungsantrag der CDU-Fraktion zu TOP 8.1 - Sache ist erledigt
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Drehung der Einbahnstraße Piusstraße sofort umsetzen - geändert beschlossen
+- TOP 8.3: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Parkplätze in Parkplätze für Menschen mit Behinderung umwandeln - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Schulneubau Lindweiler Hof Bickendorf - zurückgestellt
+- TOP 8.5: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Kreuzungsbereich Venloer Str./Innere Kanalstr. neu strukturieren - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion, betr.: Generalsanierung Goldammerweg – Köln Vogelsang - geändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Sofortmaßnahmen zur Verbesserung der Rahmenbedingungen für den Fußballsport auf der Prälat Wolker Sportanlage in Ehrenfeld - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Gravenreuthstraße - weiteres Verfahren - ungeändert beschlossen
+- TOP 9.3: Wißmannstraße - weiteres Verfahren - ungeändert beschlossen
+- TOP 9.4: Baubeschluss für die provisorische Herstellung des Teichrohrsängerwegs zwischen Kreisverkehr „Am Wassermann“ und Sporthallenzugang - ungeändert beschlossen
+- TOP 9.5: Dritte Vergabe der bezirklichen Finanzmittel 2024 gem. § 37 GO - ungeändert beschlossen
+- TOP 9.6: Planungsbeschluss für die Errichtung einer Querungshilfe über die Hugo-Eckener-Straße zur Schulwegsicherung am Schulstandort Fitzmauricestraße in Köln-Ossendorf - geändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) Arbeitstitel: Subbelrather Straße 387-407 in Köln-Ehrenfeld - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 10.1 - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 10.1 - Sache ist erledigt
+- TOP 10.2: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 10.3: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms - Kenntnis genommen
+- TOP 12.2: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023 - Kenntnis genommen
+- TOP 12.3: Niederschrift der 8. Sitzung des Gestaltungsbeirates am 19.03.2024 - Kenntnis genommen
+- TOP 12.4: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 12.5: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 12.6: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.7: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 12.8: Temporärer Parkplatz auf dem Eckgrundstück Butzweilerstr./Butzweilerhofallee, Köln-Ossendorf - Kenntnis genommen
+- TOP 13: mündliche Anfragen
