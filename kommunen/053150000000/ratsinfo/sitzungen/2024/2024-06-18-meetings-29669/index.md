@@ -1,0 +1,68 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-18T14:00:00+02:00
+- Ende: 2024-06-18T15:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29669
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29669
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation: Familiengrundschulzentren und Gesundheitslotsendienst in Köln
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe; hier: "Niehlpferdchen e.V." - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "IN VIA Bildung gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Antrag der LIGA zur OGS - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Schulpsychologischer Dienst - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen und der CDU aus der Sitzung des Jugendhilfeausschusses vom 30.04.2024 (AN/0681/2024) - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sachstand Einrichtung eines Fachbeirats für Mädchenarbeit - zurückgestellt
+- TOP -: Sachstand Einrichtung eines Fachbeirates für Mädchenarbeit - zurückgestellt
+- TOP 6.2.2: Kita-Platzvergabe über das Vergabe- und Verwaltungsportal Little-Bird - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Beantwortung einer mündlichen Nachfrage von Faru Schmerbach (SPD-Fraktion) im Jugendhilfeausschuss am 30.01.2024 zur Vorlage 3338/2023 "Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen" - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Jugendhilfeausschuss: Änderung der stellvertretenden sachkundigen Einwohnerin der Stadt AG Behindertenpolitik - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Schreiben an das MKJFGFI zur Verbesserung der personellen Situation in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Kriminalitätsbericht 2023 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendforum NRW auf der gamescom 2024: Fachstelle Medienpädagogik und Partner*innen präsentieren barrierefreies Gaming, eSports und medienpädagogische Projekte - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Girls`Day und Boys' Day 2024 - Kenntnis genommen
+- TOP 8.5.2: Sportentwicklungsplanung - Öffnung der Bezirkssportanlage Weiden für den Individualsport - Kenntnis genommen
+- TOP 8.5.3: Beantwortung der schriftlichen Anfrage der SPD Fraktion AN/0291/2024 im Ausschuss für Soziales, Seniorinnen und Senioren vom 29.02.2024 zum Thema „Armut in Köln: Welche sozialen Maßnahmen plant die Stadt in den Stadtteilen mit akutem sozialem Handlun - Kenntnis genommen
+- TOP 8.5.4: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.5: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.6: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 8.5.7: Köln beteiligt sich am Startchancen-Programm für bessere Bildungschancen und mehr Bildungsgerechtigkeit - Kenntnis genommen
+- TOP 8.5.8: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 8.5.9: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 8.5.10: Sachstand zur Baumaßnahme an der KiTa Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven, Stand November 2023 - Kenntnis genommen
+- TOP 8.5.11: Sachstandbericht KölnBäder GmbH "Schwimmkurse" und "Sicher schwimmen" Geschäftsjahr 2023 - Kenntnis genommen
+- TOP 8.5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.13: Veröffentlichung des ZMI Magazins 2024 und Durchführung des Sprachfestes 2024 - Kenntnis genommen
+- TOP 8.5.14: Tagesordnungspunkt (betrifft Privatpersonen)
