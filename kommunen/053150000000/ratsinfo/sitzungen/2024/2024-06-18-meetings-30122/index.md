@@ -1,0 +1,51 @@
+# 14. Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-18T14:00:00+02:00
+- Ende: 2024-06-18T15:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/77
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30122
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30122
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gespräche und Vorträge
+- TOP 2: Anträge, Beschlüsse und Beschlussempfehlungen
+- TOP 2.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - ohne Votum in nachfolgende Gremien
+- TOP -: Ergänzungsantrag der Stadtarbeitsgemeinschaft Behindertenpolitik zum Politischen Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt; Vorlage 1037/2024 - ungeändert beschlossen
+- TOP 2.2: Nachteilsausgleich für Menschen mit Behinderung: Ermäßigungen bei Eintrittsgeldern in Kölner Kinos - zurückgestellt
+- TOP 2.3: Gemeinsame Veranstaltung der Oberbürgermeisterin und der Stadtarbeitsgemeinschaft Behindertenpolitik zum "Kölner Tag der Menschen mit Behinderung 2024“ - ungeändert empfohlen
+- TOP 2.4: Nachbesetzung stellvertretende*r sachkundige*r Einwohner*in für den Ausschuss Schule und Weiterbildung - ungeändert beschlossen
+- TOP 3: Teilhabe von Menschen mit Behinderung bei Bürgerbeteiligungen und Verwaltungsvorhaben
+- TOP 4: Mitteilungen, Sachstandsberichte und Rückfragen zu Beantwortungen von Anfragen und Mitteilungen aus früheren Sitzungen
+- TOP 4.1: Übernahme von Auszubildenden mit Behinderung - Kenntnis genommen
+- TOP 4.2: Zwischenbericht zum Kommunalen Kinder- und Jugendförderplan der Stadt Köln 2021-2025 und zur 3. Sitzung des Begleitgremiums zum Kommunalen Kinder- und Jugendförderplan - zurückgestellt
+- TOP 4.3: ÖPNV-Netzentwicklung - Sachstand 2023 - Kenntnis genommen
+- TOP 4.4: Inklusionsvereinbarungen auch bei Beteiligungsunternehmen der Stadt Köln
+- TOP -: Inklusionsvereinbarung bei Beteiligungsunternehmen der Stadt Köln - Kenntnis genommen
+- TOP 4.5: Elternbefragung zur Corona-Pandemie - Kenntnis genommen
+- TOP 4.6: 3. Gleichstellungsaktionsplan - Kenntnis genommen
+- TOP 4.7: Beratungsstrukturen zum Themenfeld Sexualität und Behinderung in Köln - Kenntnis genommen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Leitbild "Kulturelle Teilhabe in Vielfalt": Aktualisierte Fassung nach Änderungsantrag - Kenntnis genommen
+- TOP 4.10: Bericht zur kommunalen Elternberatung Inklusion im Amt für Schulentwicklung - Kenntnis genommen
+- TOP 4.11: Bodies of Cologne - Kölner Körper - Kenntnis genommen
+- TOP 4.12: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Gesundheitsausschusses vom 23.04.2024 (AN/0479/2024) betreffend "Barrierefreie Arztpraxen" - zurückgestellt
+- TOP 4.13: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 4.14: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 4.15: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 4.16: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 4.17: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 4.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen
+- TOP 5.1: Befreiung von der Hundesteuer für schwerbehinderte und ihnen gleichgestellte Menschen
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke betreffend die Befreiung von der Hundesteuer für schwerbehinderte und ihnen gleichgestellte Menschen (AN/0895/2024) - Kenntnis genommen
+- TOP 5.2: Angebote der Bürgerhäuser und Bürgerzentren für Menschen mit Behinderungen
+- TOP 6: Bericht der Behindertenbeauftragten
+- TOP 6.1: Bericht der Behindertenbeauftragten - Kenntnis genommen
+- TOP 7: Diversity
+- TOP 8: Berichte aus den Fachausschüssen des Rates
+- TOP 9: Verschiedenes
