@@ -1,0 +1,68 @@
+# öffentliche / nichtöffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-06-18T16:02:00+02:00
+- Ende: 2024-06-18T19:40:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22146
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22146
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand: 11.06.2024 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00332499.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00333803.pdf
+
+## Tagesordnung
+
+- TOP 1: Zwischenbericht zu den Ergebnissen der Organisationsuntersuchung beim Ressort Straßen und Verkehr
+- TOP 2: Planungs- und Verfahrensstand zum Bürgerradweg Dönberg
+- TOP 3: Planungs- und Verfahrensstand Hatzfeldtrasse
+- TOP 4: Erstellung Parkraumkonzepte – Verfahren und Festlegung des Pilotquartiers - ungeändert beschlossen
+- TOP 5: Baustellensituation WSW
+- TOP 5.1: Baustellensituation Stadt - Entgegennahme ohne Beschluss
+- TOP 6: Situation ÖPNV
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand
+- TOP 9: Sachstandsbericht „25 Mobilitätskonzepte bis 2025“ - Entgegennahme ohne Beschluss
+- TOP 10: Radverkehr Am Diek/Vor der Beule - ungeändert beschlossen
+- TOP 10.1: Änderungsantrag zur Drucksache VO/0777/24 - Radverkehr Am Diek/Vor der Beule - abgelehnt
+- TOP 11: Die in 2020 eingeführten Verkehrszeichen für mehr Sicherheit im Radverkehr nutzen - abgelehnt
+- TOP 12: Sachstand des Knotenpunktsystems im Bergischen Städtedreieck - Entgegennahme ohne Beschluss
+- TOP 12.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Sachstand des Knotenpunktsystems im Bergischen Städtedreieck" vom 11.06.2024 (VO/0780/24) - Entgegennahme ohne Beschluss
+- TOP 13: Freigaben von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich der Südstadt (hier: südwestlicher Teilbereich) - ungeändert beschlossen
+- TOP 14: Umsetzung Talachsenradweg: Abschnitt Hardtufer/Hünefeldstraße - Einrichtung einer Fahrradstraße - ungeändert beschlossen
+- TOP 15: Umsetzung Talachsenradweg: Fortführung der Maßnahmen zur Verbesserung der Nahmobilität in den Straßen Unterdörnen 3. Bauabschnitt Hier: Freigabe für den Radverkehr in Gegenrichtung - ungeändert beschlossen
+- TOP 16: Prüfung zur Verbesserung der Abbiegesituation von der B 7 bezüglich der Einbahnstraßenfreigabe der Straße Dahler Berg für den gegenläufigen Radverkehr - Entgegennahme ohne Beschluss
+- TOP 17: Maßnahmenkonzept gesamtstädtisches Mobilitätskonzept - vertagen
+- TOP 18: Erstellung eines Konzepts zur Fahrplanstabilität und Busbeschleunigung - Prüfauftrag aus dem Nahverkehrsplan Teil 2 - ungeändert beschlossen
+- TOP 19: Vorbereitung und Umsetzung Neuvergabe ÖPNV - ungeändert beschlossen
+- TOP 20: Stellungnahme der Stadt Wuppertal zum ÖPNV-Bedarfsplan des Landes Nordrhein-Westfalen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 20.1: Stellungnahme der Stadt Wuppertal zum ÖPNV-Bedarfsplan des Landes Nordrhein-Westfalen - geändert beschlossen
+- TOP 21: Veloroute Düsseldorf - Kreis Mettmann - Wuppertal - Weiteres Vorgehen - ungeändert beschlossen
+- TOP 22: Urteil Bundesverwaltungsgericht zum Gehwegparken - Entgegennahme ohne Beschluss
+- TOP 23: Informationen zum digitalisierten Straßenhierarchieplan - Entgegennahme ohne Beschluss
+- TOP 24: Ersatz-Neubau Brücke Waldeckstraße - ungeändert beschlossen
+- TOP 24.1: Ersatz-Neubau Brücke Waldeckstraße - Entgegennahme ohne Beschluss
+- TOP 25: Straßenbauliche Sanierungsmaßnahme Müggenburg - ungeändert beschlossen
+- TOP 26: CleanAir Asphalt Erbschlöer Straße - ungeändert beschlossen
+- TOP 27: Erweiteter Ergebnisbericht zum Prüfauftrag für den Einsatz eines Asphaltpatchers - Praxisanwendung - Entgegennahme ohne Beschluss
+- TOP 28: Abgesetzt. Von der Verwaltung zurückgezogen. Kostenerhöhung Jägerhofstraße (VO/0482/24/1-Neuf.)
+- TOP 28.1: Kostenerhöhung Jägerhofstraße - ungeändert beschlossen
+- TOP 29: Tempo 30-Strecke zwischen Westfalenweg und Hainstraße - abgelehnt
+- TOP 30: Antrag auf Prüfung zur Einrichtung einer Querungshilfe am Westfalenweg in unmittelbarer Nähe zu Haus Nr. 11 (Bäckerei Myska) - Antrag CDU-Fraktion - abgelehnt
+- TOP 31: Querungshilfe Carnaper Straße - ungeändert beschlossen
+- TOP 32: Leichteres und sicheres Überqueren der L 411 für Schulkinder ermöglichen - in der Sache erledigt
+- TOP 33: Antrag auf Erteilung einer Sondernutzungserlaubnis zur Nutzung öffentlicher Parkfläche für außengastronomische Zwecke - Vohwinkeler Str. 3 - ungeändert beschlossen
+- TOP 34: Grundschule Nützenberger Straße - Verbesserung der Schulwegsicherheit - ungeändert beschlossen
+- TOP 35: Landesprogramm „Zukunftsfähige Innenstädte und Ortszentren“ Konzentrationsbereich Vohwinkel: Temporäre Möblierung und Begrünung der Kaiserstraße (Parklets) - ungeändert beschlossen
+- TOP 36: InnenBandStadt: Reallabor Loher Straße Lebenswert - ungeändert beschlossen
+- TOP 37: Sachstand und Monitoring Lärmaktionsplan - ungeändert beschlossen
+- TOP 38: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal (VO/0799/23/1-Neuf.) - zur Beratung und Entscheidung verwiesen
+- TOP 38.1: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal (VO/0799/23/1-Neuf.) - abgelehnt
+- TOP 39: Aktuelle Anmeldezahlen Elektrofahrzeuge - Entgegennahme ohne Beschluss
+- TOP 40: Anregung gemäß § 24 GO NRW - Verkehrsversuch Pop Up Radweg auf der B 7 - ungeändert beschlossen
+- TOP 41: Anregung gemäß § 24 GO NRW - Parken von LKW in Wohngebieten - ungeändert beschlossen
+- TOP 42: Anregung gemäß § 24 GO NRW - - ungeändert beschlossen
+- TOP 43: Anregung gemäß § 24 GO NRW - Tempo 30 überall wo möglich - ungeändert beschlossen
+- TOP 44: Anregung gemäß § 24 GO NRW - Tempo 30 Rudolfstraße - ungeändert beschlossen
+- TOP 45: Anregung gemäß § 24 GO NRW – Harmonisierung der Freigaben für Radfahrer und Elektrokleinstfahrzeuge - ungeändert beschlossen
