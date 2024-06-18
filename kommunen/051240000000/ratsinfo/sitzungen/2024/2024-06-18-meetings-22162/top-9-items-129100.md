@@ -1,0 +1,8 @@
+# TOP 9: Unbefristete öffentliche Anerkennung der "Kindertagespflege Löwenherz gUG" als Träger der freien Jugendhilfe
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Jugendhilfeausschusses (2024-06-18)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/129100
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/60464
