@@ -1,0 +1,178 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-06-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7952139
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7952139
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Untergiesing „Sommerfest auf dem Kolumbusplatz mit umliegenden Einrichtungen und Nachbarn am 27.06.2024“ 1.747,65 € / AZ: 0262.0-18-0473
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Community Kitchen gGmbH „Tetrap-Act-on-foodwaste vom 27.06.2024 – 31.07.2024“ 2.322,90 € / AZ: 0262.0-18-0
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Iz Pertsem e.V. „Fahrt zum World Dance Contest 2024 vom 15.06.2024 – 16.06.2024“ AZ: 0262.0-18-0385 / 645,00 €
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget ZAB Zusammen aktiv bleiben e.V. „Sommerfest (mit Volleyballturnier) am 29.06.2024“ 215,00 € / AZ: 0262.0-18-0388
+- TOP 3.1.2.5.: Kosten für den Jahresempfang des BA 18 am 18.10.2024
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Neubau bzw. Sanierung eines öffentlich zugänglichen Fußballplatzes in Harlaching sowie Ergänzung um einen sog. Trainingspark; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Straßenfest in der Unteren Weidenstraße 12-15 am 20.07.2024
+- TOP 3.2.4.2.: Benefizlauf des Albert-Einstein Gymnasiums von der Marienklause an der Isar entlang am 25.07.2024
+- TOP 3.2.4.3.: Sommerfest der Rotbuchenschule am Hollerbusch bis Ecke Rotbuchenstraße am 28.06.2024
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Versammlungsanzeigen
+- TOP 3.2.6.2.: 1860 Fußball Fan Veranstaltung am Candidplatz - Ausnahmegenehmigung
+- TOP 3.2.6.3.: Megamarsch 2024 von München nach Mittenwald vom 18.05 - 19.05.2024 - Abdruck der Erlaubnis (Strecke)
+- TOP 3.2.6.4.: Isarinfomobil mit Pavillon vom Kommunikationsteam des KAD vom 02.06.2024 bis zum 25.08.2024 - Bescheid
+- TOP 3.2.6.5.: Straßenfest in der Freibadstraße 1 bis 21 - Erlaubnis
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Parksituation in der Wilhelm-Kuhnert-Straße; Bürgeranliegen
+- TOP 3.3.3.2.: Parken in der Mondstraße; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Anordnung eines zeitlich beschränkten absoluten Haltverbots vor dem Albert-Einstein-Gymnasium
+- TOP 3.3.4.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Benediktenwandstr. 9
+- TOP 3.3.4.3.: Gerhardstraße (Höhe Agilolfingerplatz 10): Erweiterung des Haltverbotes am Fußgängerüberweg zur Verbesserung der Sichtbeziehungen
+- TOP 3.3.4.4.: Agilolfingerstraße 13: Erweiterung des Haltverbotes am Fußgängerüberweg zur Verbesserung der Sichtbeziehungen
+- TOP 3.3.4.5.: Abstimmung über ein neues Radverkehrsnetz für München - IR III
+- TOP 3.3.4.6.: Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums Sitzungsvorlage Nr. 20-26 / V 11904
+- TOP 3.3.4.7.: Städtisches Stadion an der Grünwalder Straße 4 im 18. Stadtbezirk Untergiesing – Harlaching; Umgang mit dem verpflichtenden MVV-Kombiticket Sitzungsvorlage Nr. 20-26 / V 13214
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Zeitnahe Beseitigung der Frostaufbruchschäden auf Münchens Straßen
+- TOP 3.3.5.2.: Kurzzeitparkplätze, Fahrrad- und Lastenrad-Abstellplätze vor Naupliastr. 108 sowie Bodenmarkierung vor Naupliastraße 106
+- TOP 3.3.5.3.: Verkehrsberuhigung am Hollerbusch
+- TOP 3.3.5.4.: Ausbau von E-Lade-Stationen im Stadtbezirk
+- TOP 3.3.5.5.: Verkehrsführung in Untergiesing bei der Sanierung der Thalkirchner Brücke
+- TOP 3.3.5.6.: Errichtung eines Fahrradstellplatzes am Tierpark, Flamingoeingang - Auskunft zum Pachtvertrag mit dem Kiosk
+- TOP 3.3.5.7.: Wild geparkte E-Roller
+- TOP 3.3.5.8.: Update zum Forschungsprojekt "Autoreduzierte Quartiere für eine lebenswerte Stadt" (aqt)
+- TOP 3.3.5.9.: Ausführung der Straßenmarkierungen in der Grünwalder Straße, am Authari- und am Tiroler Platz
+- TOP 3.3.5.10.: Verkehrssituation in der Humboldtstraße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Grünwalder Straße: Grenzmarkierung (Z. 299 StVO) Höhe Friauler Straße
+- TOP 3.3.6.2.: Theodolindenplatz: Grenzmarkierung (Z. 299 StVO)
+- TOP 3.3.6.3.: Zwischennachrichten der Referate zu Anträgen aus dem Bereich Mobilität
+- TOP 3.3.6.4.: Vollsperre der Theodolindenstraße (Ecke Seybothstraße) im Zuge des Neubaus der dreizügigen Grundschule mit Tiefgarage und zweifacher Sporthalle
+- TOP 3.3.6.5.: Entscheidungsvorschlag über eine Machbarkeitsstudie zu der Petition „Den Giesinger Kirchplatz bauen: Leben statt Verkehr“
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Anschluss an kommunale Fernwärme; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Agatharieder Str. 16 - Hochkalterstr. 2 - Karneidplatz 4 - Lautererstr. 6 - Tierparkstr. 30
+- TOP 3.4.4.2.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen (Empfehlung Nr. 20-26 / E 01779 des Stadtbezirkes 21 - Pasing-Obermenzing); Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Empfehlung Nr. 20-26 / E 01928des Stadtbezirkes 01 - Altstadt-Lehel); Anhörung des Direktoriums
+- TOP 3.4.4.3.: Anhörung zur Novellierung der BaumSchV der Landeshauptstadt München
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Schnellstmögliche Entfernung von Misteln in zahlreich befallenen Bäumen im 18. Stadtbezirk
+- TOP 3.4.5.2.: Pflanzung eines Apfelbaumes als Ersatz für einen kürzlich gefällten Apfelbaum im Randstreifen der Menterschweigstraße
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Nächtliches Mähen des Straßenbegleitgrüns - Ausnahmezulassung
+- TOP 3.4.6.2.: Baumfällung in der Seybothstr. 44
+- TOP 3.4.6.3.: Baumfällung in der Aggensteinstr. 23-25
+- TOP 3.4.6.4.: Baumfällung in der Rotbuchenstr. 71
+- TOP 3.4.6.5.: Baumfällung in der Schönstr. 98-100
+- TOP 3.4.6.6.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 3.4.6.7.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 2.1.1.1.: Fragen zu den Planungen MüK - Standort Harlaching Vorstellung des Medizinkonzepts durch das Gesundheitsreferat und die München Klinik gGmbH
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Informationen zur Bestandserhaltungssatzung für die Gerhardstraße; Bürgeranliegen
+- TOP 3.5.3.2.: Tastgarten für Menschen mit Sehbehinderungen im Rosengarten
+- TOP 3.5.3.3.: Statut für Menschen mit Behinderungen des Bezirksausschusses 18
+- TOP 3.5.3.4.: Das Direktorium als neues Betreuungsreferat für den Seniorenbeirat
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Leistbarer Wohnungsbau in 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Neubau eines Profileistungszentrums für die FC Bayern München AG
+- TOP 3.6.4.1.2.: Thelemannstraße 7: Neubau eines Mehrfamilienhauses mit 3 Wohneinheiten und Tiefgarage
+- TOP 3.6.4.1.3.: Harthauser Straße 62: Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage
+- TOP 3.6.4.1.4.: Antrag des BA 11 zu Fragen des von OMG und SWM verwalteten Olympiageländes; Anhörung des Direktoriums
+- TOP 3.6.4.1.5.: Empfehlung Nr. 20 - 26 / E 01885 der Bürgerversammlung des Stadtbezirkes 14: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 3.6.4.1.6.: Neubau Medizinisches Versorgungszentrum am Authariplatz 8
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Bürgerinformation zur Kanalsanierung in der Hochederstraße
+- TOP 3.6.5.2.: Antwortschreiben des Planungsreferats zum Bauvorhaben in Grünwalder Straße 103 bis 105
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Zwischennachrichten der Referate zu Anträgen aus dem Bereich Bau/Planung
+- TOP 3.6.6.2.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 3.6.6.3.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 3.6.6.4.: Leistungsbilanzen des Baureferats - Tiefbau - Gartenbau
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.4.6.8.: Kommunale Wärmeplanung München: Hinweis auf die Beteiligungsmöglichkeit
+- TOP 3.3.6.6.: Erinnerungsschreiben zu Aktionen rund ums Rad im Stadtbezirk 18
+- TOP 3.4.5.3.: Antwortschreiben des RKU zur kommunalen Wärmeplanung für Harlaching
+- TOP 3.6.4.1.7.: Sanierung der festen Wehrschwelle am Wehr Großhesselohe: Unterhaltungsanzeige gem. § 39 WHG
+- TOP 3.3.3.3.: Kontrastreiche Markierung der Straßenlaternen im Gehwegraum in der Pilgersheimer Straße; Grünen-Antrag
+- TOP 3.5.4.1.: Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027", geplant für den 10.07.2024, zur Stellungnahme
