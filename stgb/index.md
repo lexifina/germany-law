@@ -329,6 +329,7 @@ Verfassungsorgans](0106.md)
 - [§ 108c Nebenfolgen](0108c.md)
 - [§ 108d Geltungsbereich](0108d.md)
 - [§ 108e Bestechlichkeit und Bestechung von Mandatsträgern](0108e.md)
+- [§ 108f Unzulässige Interessenwahrnehmung](0108f.md)
 
 ### Fünfter Abschnitt Straftaten gegen die
 Landesverteidigung

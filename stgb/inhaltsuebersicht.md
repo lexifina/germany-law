@@ -339,6 +339,7 @@
 |  | § 108c | Nebenfolgen |
 |  | § 108d | Geltungsbereich |
 |  | § 108e | Bestechlichkeit und Bestechung von Mandatsträgern |
+|  | § 108f | Unzulässige Interessenwahrnehmung |
 |  |  |
 | Fünfter Abschnitt |
 |  | Straftaten gegen die Landesverteidigung |
