@@ -1,0 +1,65 @@
+# 25. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-18T15:38:00+02:00
+- Ende: 2024-06-18T20:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29801
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29801
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Kulturelle Teilhabe - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der SPD-Fraktion: Aktualisierung der Broschüre „Keine Räume für Nazis“ und Erstellung eines Code of Conduct für die Veranstaltungs- und Kulturwirtschaft - geändert beschlossen
+- TOP -: Aktualisierung der Broschüre „Keine Räume für Nazis“ und Erstellung eines Code of Conduct für die Veranstaltung- und Kreativwirtschaft - endgültig zurückgezogen
+- TOP -: Änderungssantrag zu TOP 3.1 – Aktualisierung der Broschüre „Keine Räume für Nazis“ und Erstellung eines Code of Conduct für die Veranstaltungs- und Kulturwirtschaft - ungeändert beschlossen
+- TOP 3.2: Antrag der FDP-Fraktion: Transparenz bei Besucherstatistik der Kölner Philharmonie schaffen - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Umsetzung einer Maßnahme der Kulturentwicklungsplanung: Kulturschaffende vernetzen - Kooperationen fördern - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Sanierung der Drehbrücke am Schokoladenmuseum - ungeändert beschlossen
+- TOP 4.3: Erwerb einer Pergamenthandschrift - ungeändert beschlossen
+- TOP 4.4: Umsetzung von Maßnahmen der Kulturentwicklungsplanung: In Vielfalt durch Vielfalt - Nachhaltige Strukturentwicklung in den städtischen Kulturinstitutionen - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Sonderausstellungen in den städtischen Museen 2024 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung des Werks "5, Rue Saint-Benoît" der Künstlerin Haegue Yang an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Bericht der Behindertenbeauftragten - Kenntnis genommen
+- TOP 8.2: Verwendung von Finanzmitteln aus der Kulturförderabgabe 2023/2024 - „Darstellende Kunst (inkl. Tanz) Freie Szene": hier: Auflösung einer Tanzkompanie - Kenntnis genommen
+- TOP 8.3: Kulturentwicklungsplanung Sachstandsbericht 2023/24 - Kenntnis genommen
+- TOP 8.4: Tanztriennale 2026 - Bewerbung der Stadt Köln als Austragungsort - Kenntnis genommen
+- TOP 8.5: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 8.6: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 8.7: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftverbandes Rheinland für 2025 - Kenntnis genommen
+- TOP 8.8: Verlängerung Betreiber*in Kunsthafen - Kenntnis genommen
+- TOP 8.9: Beauftragung einer künstlerischen Intervention am Waidmarkt - Kenntnis genommen
+- TOP 8.10: Auszug der Zentralbibliothek und weitere Planungen - Kenntnis genommen
+- TOP 8.11: Bodies of Cologne - Kölner Körper - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 4. Juni 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 31. Mai 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 28. Mai 2024 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu den Hallen Kalk - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage von Frau von Bülow aus der Sitzung des Ausschusses Kunst und Kultur vom 12.03.2024 - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Rückfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 30.04.2024 (3016/2023) betreffend Werbemaßnahmen für (Sonder-) Ausstellungen - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 06.06.2023 betreffend „Kostenfreier Eintritt ins Römisch-Germanische Museum" - Kenntnis genommen
+- TOP 10.6: Beantwortung einer schriftlichen Anfrage der Liste GOL aus der Sitzung des Integrationsrats vom 16.01.2024 (AN/0032/2024) betreffend ,,Besetzung Co-Direktion Rautenstrauch-Joest-Museum (RJM)/Museum für Ostasiatische Kunst (MOK)" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der FDP-Fraktion: Sachstand Hallen Kalk 76 und 77 - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 04.06.2024 - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der SPD-Fraktion: Finanzierung des Germania Judaica e.V. - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 30.01.2024 betreffend Finanzierung des Germania Judaica e.V. (AN/0151/2024) - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der SPD-Fraktion: Museumsstandort MoK attraktiver machen – Leerstand im Museumscafé beenden - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 25.04.2024 betreffend „Museumsstandort MOK attraktiver machen – Leerstand im Museumscafé beenden." (AN/0683/2024) - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage der Fraktion Die Linke: Maßnahmenkatalog des Expertengremiums zum Umgang mit dem "Postkolonialen Erbes der Stadt Köln"
