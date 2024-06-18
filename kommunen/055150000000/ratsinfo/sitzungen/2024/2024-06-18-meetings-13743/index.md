@@ -1,0 +1,56 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-06-18T17:02:00+02:00
+- Ende: 2024-06-18T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13743
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13743
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00550726.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 23.04.2024
+- TOP 4: Eingänge/Mitteilungen
+- TOP 5: Liegenschaften
+- TOP 5.1: Pachtzinsanpassung für Kleingartenanlagen - einstimmig beschlossen
+- TOP 6: Finanzen
+- TOP 6.1: Betrauungsakt Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 6.2: Messe und Congress Centrum Halle Münsterland GmbH: Novellierung der Geschäftsordnung für den Aufsichtsrat - mehrheitlich beschlossen
+- TOP 6.3: Änderung des Tarifs für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.07.2024 - mehrheitlich beschlossen
+- TOP 6.4: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - von der Tagesordnung abgesetzt
+- TOP 6.5: Jahresabschluss 2023 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 6.6: Jahresabschluss 2023 der AirportPark FMO GmbH - einstimmig beschlossen
+- TOP 6.7: Jahresabschluss 2023 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 6.8: Westfälische Bauindustrie GmbH - Jahresabschluss 2023 und Bestellung des Abschlussprüfers für das Geschäftsjahr 2024 - einstimmig beschlossen
+- TOP 6.9: Jahresabschluss 2023 der Stadtwerke Münster GmbH und Bestellung des Abschlussprüfers für das Geschäftsjahr 2024 - einstimmig beschlossen
+- TOP 6.10: Jahresabschluss 2023 der Stadtnetze Münster GmbH - einstimmig beschlossen
+- TOP 6.11: Umsetzung der Grundsteuerreform - zur Kenntnis genommen
+- TOP 6.12: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2023 - einstimmig beschlossen
+- TOP 6.13: Bedarfsplan für den Brandschutz und die Hilfeleistung in der Stadt Münster (Brandschutzbedarfsplan) Fortschreibung - einstimmig geändert beschlossen
+- TOP 6.14: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster - einstimmig geändert beschlossen
+- TOP 6.14.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster
+- TOP 6.15: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - einstimmig geändert beschlossen
+- TOP 6.16: Musik-Campus - Auslobung des städtebaulich-freiräumlichen Wettbewerbs - von der Tagesordnung abgesetzt
+- TOP 6.17: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2023 - einstimmig beschlossen
+- TOP 6.18: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.08.2024 bis 30.09.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 6.19: Errichtungsbeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs sowie Umzug des Teilstandortes - einstimmig beschlossen
+- TOP 6.20: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde - mehrheitlich beschlossen
+- TOP 6.20.1: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde
+- TOP 6.21: Schulbau - Neubau Melanchthonschule und Sporthalle - mehrheitlich geändert beschlossen
+- TOP 6.21.1: Schulbau - Neubau Melanchthonschule und Sporthalle
+- TOP 6.22: Erweiterung Annette-von-Droste-Hülshoff-Gymnasium G8/G9 und Neubau Sporthalle - einstimmig beschlossen
+- TOP 6.23: Erweiterung des Pascal-Gymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der festgelegten Zügigkeit - einstimmig geändert beschlossen
+- TOP 6.24: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kita für die Regenbogenkinder e.V. am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 6.25: Neubau und Erweiterung der katholischen Kindertageseinrichtung St. Antonius am Antoniuskirchplatz - einstimmig beschlossen
+- TOP 6.26: Überleitung der außerunterrichtlichen Angebote (OGS) der Mauritzschule - einstimmig beschlossen
+- TOP 6.27: Mitgliedschaft im Bündnis "Kommunen für biologische Vielfalt" - einstimmig beschlossen
+- TOP 6.28: Erweiterung der Marienschule Roxel zur 4-Zügigkeit und Sanierung des Gebäudebestandes - Baubeschluss - - einstimmig beschlossen
+- TOP 6.29: "Global Nachhaltige Kommune in NRW (GNK)" – Nachhaltigkeitsstrategie Münster 2030 – Teil 4: Nachhaltigkeitsbericht 2019 – 2022, Stellungnahme des GNK-Beirats und nächste Meilensteine im Nachhaltigkeitsprozess - von der Tagesordnung abgesetzt
+- TOP 6.30: Änderung der Abfallgebührensatzung - einstimmig beschlossen
+- TOP 7: Verschiedenes
