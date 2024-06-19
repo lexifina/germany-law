@@ -1,0 +1,172 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2024-06-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7923583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7923583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des/der Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Anliegen von Bürger*innen an den Bezirksausschuss
+- TOP 2.1.1.: (N) - Parkraumüberwachung in der Papinstraße (4 Bürgeranliegen)
+- TOP 2.1.2.: Mehr Parkplätze in der Hans-Stützle-Straße und allgemein in Freiham
+- TOP 2.1.3.: Renovierung/Erweiterung des Spielplatzes Höhe Altostraße 110
+- TOP 2.1.4.: 30er-Zone in Aubing und Zebrastreifen in der Kunreuthstraße
+- TOP 2.1.5.: Errichtung einer Tempo-30-Zone in Neuaubing in der Wiesentfelserstraße von der Limesstraße bis zum Neubaugebiet Freiham
+- TOP 2.1.6.: Schlechte Beleuchtung an der S-Bahn-Haltestelle Neuaubing
+- TOP 2.1.7.: Lärmbelästigung bei Spielen des SV Aubing
+- TOP 2.1.8.: Verkehrssicherheitskonzept Freiham
+- TOP 2.1.9.: Dialogdisplays im Stadtbezirk 22
+- TOP 2.1.10.: Schulweg Fabrikstraße
+- TOP 2.1.11.: Diskussion zum Defizitausgleichsmodell
+- TOP 2.1.12.: Parksituation Lochhausen
+- TOP 2.1.13.: Baustelle neben der S-Bahn Lochhausen aus Richtung Aubing
+- TOP 2.1.14.: Defekte Schranke am Hörweg
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beirät*innen
+- TOP 3.1: Baumschutzbeauftragte*r
+- TOP 3.1.2.: Baumfällungsbescheide im 22. Stadtbezirk, hier: - Radolzeller Str. 17 - 25 - Hoheneckstr. 29 - Kräheneckstr. 16a (N) - Giggenbacherstr. 23
+- TOP 4.: Anträge
+- TOP 4.1.: Versorgung des Stadtbezirkes 22 mit Zweigstellen der Stadtsparkasse München (Brenner)
+- TOP 4.2.: Ampelanlage Bodenseestraße/Am Gleisdreieck – Füßgängerüberweg (westlich) fehlt (Bündnis 90/ Die Grünen)
+- TOP 4.3.: Barrierefreier Zugang zum Paul-Ottmann-Zentrum (Götz-Schubach, Bergmann, Schrott, Spannagl, Kriesel)
+- TOP 4.4.: Parkraummanagement in der Papinstraße (Kriesel, Spannagl, Stockmann)
+- TOP 4.5.: Abstellplätze für E-Scooter und E-Leihräder (Spannagl, Kriesel, Stockmann, Weber)
+- TOP 4.6.: Sanierung der Sulzemooserstraße (Kriesel, Weber, Zeilermeier)
+- TOP 4.7.: Sanierung der Sulzemooser Straße zwischen Schwemmstraße und der Kreuzung Industriestraße / Krautgartenweg (Ziegler, Kriesel, Weber, Zeilermeier)
+- TOP 4.8.: Naturnahe und artgerechte Bepflanzung der Hangseiten der Geothermieanlage Freiham (Roland Jung)
+- TOP 4.9.: Aufklärung über Brand- und Explosionsgefahren von Lithium-Ionen-Batterien und -Akkus sowie deren sachgerechte Entsorgung, Unterstützung der Kampagne: "Brennpunkt Batterie" (Roland Jung)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Alten- und Service-Zentrum Aubing Sommerfest am 04.07.2024 187,50 Euro, Az.: 0262.0-22-0256
+- TOP 5.2.: (E) Umwidmung Ortsverbindung beim Aubinger Bahnhof (Antrag 1)
+- TOP 5.3.: (E) Stadtbezirksbudget MediationsZentrale München e.V. MZM Schulmediation - Bildung in Frieden vom 12.09.2024 - 01.08.2025 6.000,00 Euro, Az.: 0262.0-22-0257
+- TOP 5.4.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. - 31.07.2024 2.322,90 Euro, Az.: 0262.0-22-0254
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Veranstaltung in einer städt. Grünanlage, hier: "10. Int. Sommerfest Neuaubing", zwischen Radolfzeller Str. und Altenburgstr., Anhörung KVR vom 27.05.24
+- TOP 6.1.1.2.: (N) - Antrag auf Genehmigung einer Veranstaltung im Freien in einer städtischen Grünanlage, hier: Grünband Freiham (Nähe Hörweg 11) am 11.07.2024, Anhörung KVR vom 05.06.24
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.1.2.1.: Bau einer Boulebahn am Sponeckplatz, Schr. Baureferat vom 03.06.24
+- TOP 6.2: UA Soziales, Bildung, Familie, Senior*innen, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Antrag auf Genehmigung einer Veranstaltung in einer städt. Grünanlage, hier: Wasserspielplatz Radolfzellerstraße, Kinderkrippe Wichtelakademie am 06.06.24, Anhörung KVR vom 17.05.24 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.2.1.2.: Antrag auf Genehmigung einer Veranstaltung in einer städt. Grünanlage, hier: Wasserspielplatz Radolfzellerstraße, Kindergarten Wichtelakademie am 19.06.24, Anhörung KVR vom 17.05.24 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Graffiti Grundschule Gustl-Bayrhammer-Str. 21, Schr. Baureferat vom 24.05.24
+- TOP 6.3: UA Verkehrsinfrastrukur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Abstimmung neues Radverkehrsnetz für München, Anhörung Mobilitätsreferat vom 17.05.24
+- TOP 6.3.1.2.: Beschlussvorlage des Mobilitätsausschusses vom 19.06.2024: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums, Anhörung Mobilitätsreferat vom 14.05.24
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung, hier: - Clarita-Bernhard-Straße, östlicher Wendehammer, Einrichtung eines absoluten Haltverbotes, Anhörung Mobilitätsreferat vom 17.05.24
+- TOP 6.3.1.4.: Estinger Straße, Provisorische Laternenmasten und weitere verkehrliche Anliegen, Anhörung Mobiliätsreferat vom 16.05.24
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnung, hier: - Zwernitzer Straße, Zeitänderung der Linie 267 an der "Betriebshaltestelle", Schr. Mobilitätsreferat vom 24.05.24 - Freiham, Autobahnzubringer zur BAB 99 westlich Aubinger Allee, Zeichen 625 StVO (Richtungstafel in Kurven), Schr. Mobilitätsreferat vom 14.05.24 - Centa-Hafenbrädl-Straße, Vorfahrtsregelung gegenüber Therese-Wagner-Straße, Schr. Mobilitätsreferat vom 04.06.24 (N) - Berglwiesenstraße, Anpassung der Beschilderung der Tempo-30-Zone an neue Bebauung, Schr. Mobilitätsreferat vom 05.06.24
+- TOP 6.3.2.2.: Anfrage: Radwegbreite Querung A99 Germering Nord, Schr. Mobilitätsreferat vom 24.05.24
+- TOP 6.3.2.3.: Verbesserung der Situation für Menschen mit Behinderung durch Abbau von Barrieren, Schr. Mobilitätsreferat vom 31.05.24
+- TOP 6.3.2.4.: Bescheid: Arbeiten im Straßenraum; Lochhausener Str. Kreuzung Mühlangerstr. bis Lochhausener Str. Kreuzung Purpurweidenweg vom 03.06. – 08.09.24, Schr. Mobilitätsreferat vom 27.05.24
+- TOP 6.3.2.5.: Modernisierung des Aufzugs am Bahnhof Langwied, Schr. DB vom 28.05.24
+- TOP 6.3.2.6.: Bescheid: Arbeiten im Straßenraum, hier: - Ebracher Str. 11-11a, Vollsperrung ab dem 10.06.24, Schr. Mobilitätsreferat vom 28.05.24
+- TOP 6.3.2.7.: Verbesserung der Situation für Menschen mit Behinderung durch Abbau von Barrieren im Stadtbezirk Aubing-Lochhausen-Langwied, Schr. Mobilitätsreferat vom 27.05.24
+- TOP 6.3.2.8.: Sicherheit in der Hildegard-Hamm-Brücher-Straße, Schr. Mobilitätsrefeart vom 21.05.24
+- TOP 6.3.2.9.: Pilotprojekt "Countdown-Ampeln", Schr. Mobilitätsreferat vom 07.05.24
+- TOP 6.3.2.10.: Abstimmung neues Radverkehrsnetz für München - IR III (Radvorrangrouten, RVR), Schr. Mobilitätsreferat vom 17.05.24
+- TOP 6.3.2.11.: Straßenplanung Freiham, Geschwindigkeitsbeschränkung Tempo 30 Zone während Baumaßnahme, Schr. Mobilitätsreferat vom 08.05.24
+- TOP 6.3.2.12.: Geschwindigkeitsbeschränkung auf 30 km/h Aubinger Allee, Schr. Mobilitätsreferat vom 29.05.24
+- TOP 6.3.2.13.: Bushaltestellendächer begrünen - Ausstattung mit elektronischen Anzeigern, Schr. MVG vom 29.05.24
+- TOP 6.3.2.14.: Schaffung von Unterstellmöglichkeiten (Wartehäuschen) für die Bushaltestelle Mariabrunner Straße, Schr. MVG vom 29.05.24
+- TOP 6.3.2.15.: Anliegerinformation Lochhausener Str., Fahrbahnsanierung zwischen Am Langwieder Bach und Mühlangerstr., Schr. Baureferat vom 21.05.24
+- TOP 6.3.2.16.: Beseitigung gefährlicher Stufen durch barrierefreien Zugang vom Radweg an der Eichenauer Str, in Höhe des Koch Hofladens, Schr. Baureferat vom 17.05.24
+- TOP 6.3.2.17.: Arbeiten im Straßenraum, Helmut-Schmidt-Allee 31 und Amelie-Nacken-Str. 7-10, Verlängerung vom 17.05.-28.06.24, Schr. Mobilitätsreferat vom 16.05.24
+- TOP 6.3.2.18.: Gesamtstädtische Stellungnahme; Planfeststellung 30. Planänderung PFA 1 2. S-Bahn-Stammstrecke mit Ökokontoflächen LK Dachau u. LK Landshut, Schr. Planungsreferat vom 13.05.24
+- TOP 6.3.2.19.: SWM-Baumaßnahme Strom-Projekt Streitbergstraße, Schr. SWM vom 10.05.24
+- TOP 6.3.2.20.: Missstände ich Lochhausen, Schr. Baureferat vom 10.05.24
+- TOP 6.3.2.21.: Baubeginn Henschelstraße: Barrierefreier Bushaltestellenumbau Haltestelle Lochhausen Bahnhof, Schr. Baureferat vom 14.05.24
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Landschaftsbezogene Wegekonzeption für den Grüngürtel – Vertiefung Münchner Westen, Vorstellung der Studienergebnisse und Beschluss über das weitere Vorgehen; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung, Anhörung Planungsreferat vom 22.05.24
+- TOP 6.4.1.2.: Brunhamstr., Fl.St. 251/4 Pasing, 1 digitale Stadtinformationsanlage, einseitig (9 m²), Anhörung Planungsreferat vom 13.05.24
+- TOP 6.4.1.3.: Ubostr. 11, Neubau für die Freiwillige Feuerwehr München - Vorbescheid, Anhörung Planungsreferat vom 03.06.24
+- TOP 6.4.1.4.: Anhörung zur Novellierung der BaumSchV der Landeshauptstadt München, Anhörung Planungsreferat vom 05.06.24
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Wertstoffcontainer Industriestraße 1, Schr. AWM vom 24.05.24
+- TOP 6.4.2.2.: Bauanträge im 22. Stadtbezirk: 29.04.-05.05.24, 13.05.-19.05.24, 20.05.-26.05.24, 27.05.-02.06.24, (N) - 03.06.-09.06.24
+- TOP 6.4.2.3.: Kindergarten Roggensteiner Weg, Spielplatz,Schr. Baureferat vom 28.05.24
+- TOP 6.4.2.4.: Müll rund um den Ravensburger Ring, Schr. Baureferat vom 27.05.24
+- TOP 6.4.2.5.: Toilette an der Aubinger Lohe beschädigt, Schr. Baureferat vom 27.05.24
+- TOP 6.4.2.6.: Mähen am Aubinger Friedhof, Schr. Friedhofsverwaltung vom 24.05.24
+- TOP 6.4.2.7.: Anfrage Standort Berufsfeuerwehr im 22. Stadtbezirk, Schr. KVR vom 02.05.24
+- TOP 6.4.2.8.: Aufstellung Truck am Sporpark Freiham, Schr. Mobilitätsreferat vom 31.05.24
+- TOP 6.4.2.9.: Anfragen zu Baumpflanzungen, Schr. Baureferat vom 21.05.24
+- TOP 6.4.2.10.: Aufstellung von Hundekotbeutelspendern im Grünzug an der Osterangerstraße in Lochhausen, Schr. Baureferat vom 06.05.24
+- TOP 6.4.2.11.: Grünstreifen Neubaugebiet Leienfelsstraße / Aubing-Ost-Straße, Hunde, Schr. Baureferat vom 14.05.24
+- TOP 6.4.2.12.: Nachfrage zum Abriss der Grundschule an der Limesstraße, Schr. Baureferat vom 26.04.24
+- TOP 6.4.2.13.: Anfrage: Stand Baumkataster, Schr. Baureferat vom 03.06.24
+- TOP 6.4.2.14.: Errichtung eines Briefkastens im Neubaugebiet an der Osterangerstraße in Lochhausen, Schr. Ref. f. Arbeit u. Wirtschaft vom 23.05.24
+- TOP 6.4.2.15.: Baumaßnahmen der Stadtwerke München, Stichtag: 07.05.-21.05.24
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes, Anhörung Direktorium vom 21.05.24
+- TOP 7.2.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen (Empfehlung Nr. 20-26 / E 01779 des Stadtbezirkes 21 - Pasing-Obermenzing); Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Empfehlung Nr. 20-26 / E 01928des Stadtbezirkes 01 - Altstadt-Lehel); Anhörung Direktorium vom 21.05.24
+- TOP 7.3.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse; Anhörung Direktorium vom 21.05.24
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Ausnahmegenehmigung: Foto-, Film- und/oder Tonaufnahmen für "Pumuckl", Aubinger Lohe, Teufelsberg v. 22.07.-26.07.24, Schr. Mobilitätsreferat vom 08.05.24
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Alprichstr., Schr. Sozialreferat vom 17.05.24 (N) - Giechstr., Schr. Sozialreferat vom 12.06.24
+- TOP 8.3.: Versammlungsanzeige "Für ein besseres Gesundheitswesen" am 13.07.24, Ludwig-Koch-Str., Schr. KVR vom 17.05.24
+- TOP 8.4.: Unveränderte Fortführung, hier: - Kiosk Lußsee, Kreuzkapellenstr. 89, Schr. KVR vom 13.05.24
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 30.04.24 - Städtebauliche Entwicklung an der Eichenauer Straße A)Vorstellung der Ergebnisse der „Machbarkeitsstudie zur verkehrlichen Anbindung zwischen Freiham und Aubing“ B) Städtebauliche Entwicklung an der Eichenauer Straße; Bebauungsplan mit Grünordnung Nr. 2193 Eichenauer Straße (südlich und nördlich), Ortskern Aubing (westlich), Freiham Nord (nördlich), Bundesautobahn A 99 West (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nrn. 965 und 2068) - Aufstellungs- und Eckdatenbeschluss C) Durchführung des städtebaulichen und landschaftsplanerischen Realisierungswettbewerbes D) Anträge und Empfehlungen, offener Brief
+- TOP 9.2.: Mobilitätsausschuss vom 08.05.24 - Entscheidungsvorschlag zur künftigen Raumaufteilung der Lochhausener Straße (Stadtbezirk 22) Grundsatzbeschluss Verkehrsführung und Raumaufteilung
+- TOP 9.3.: Bauausschuss vom 07.11.24 - Bebauungsplan mit Grünordnung Nr. 2068 Siedlungsschwerpunkt Freiham Freiham Nord - 1. Realisierungsabschnitt 4. Straßenendausbaupaket: Christel-Sembach-Krone-Straße, Marie-Luise-Jahn-Straße, Ute-Strittmatter-Straße, Ellis-Kaut-Straße und Aubinger Allee - provisorische Buswendeschleife im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 9.4.: Vollversammlung vom 15.05.24 Werkswohnungen für Beschäftigte der Daseinsvorsorge in München A) SoBoN-Modell Werkswohnungsbau-Daseinsvorsorge zur Stärkung der Daseinsvorsorge mit Wohnungsbau B) Programm "Werkswohnungsbau / Daseinsvorsorge"
+- TOP 9.4.1: Fortschreibung der Münchner Schulentwicklungsplanung für die öffentlichen Realschulen und Gymnasien
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 12.06.24 Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 9.5.1: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 9.5.2: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 9.5.3: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 9.6.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung und des Ausschusses für Klima- und Umweltschutz vom 12.06.24 Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 17.07.24 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 10.06.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 11.06.24 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 12.06.24, 19.00 Uhr, Radolfzeller Str. 11a, Bildungslokal - UA Stadtbezirksbudget, Kultur, Sport: Mittwoch, 12.06.24, 18.00 Uhr, Radolfzeller Str. 11a, Bildungslokal
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.15.: (N) - Erneute Beschädigung Schranke am Hörweg
+- TOP 2.1.16.: (N) - Grundwasserdrainage Estinger Straße
+- TOP 6.3.1.5.: (N) -Maßnahme Freiham Nord – 1. RA – 5. Straßenendausbaupaket, Anhörung Baureferat vom 10.06.24
+- TOP 6.4.1.5.: (N) - Sanierungsgebiet "Aubing-Neuaubing-Westkreuz", Altostr. 16 - Alte Dorfschule, Vorgezogene Umsetzung des Eckdatenbeschlusses 2025, Beschluss Kommunalausschuss vom 11.07.24, Anhörung Kommunalreferat vom 29.05.24 (Eilentscheidung des BA-Vorsitzenden)
+- TOP 2.1.17.: (N) - Themen und Fragen rund um die Limesstraße
+- TOP 2.1.18.: (N) - Wäldchen Wasserturmwiese
+- TOP 2.1.19.: (N) - Leid der Anwohner in Aubing, Bergson-Kunstkraftwerk
+- TOP 2.1.20.: (N) - Tempolimit 30 in der Aubinger Straße
+- TOP 2.1.21.: (N) - Identifizierung und Schutz von Kreuzkröten an der Ecke Schussenrieder Str. / Schubinweg
+- TOP 2.1.22.: (N) - Einbahnstraßenregelung in der Mathilde-Berghofer-Weichner-Straße
+- TOP 6.2.1.3.: (N) - Modell Präventionskette - Umsetzung in München, Beschluss des Gesundheitsausschusses gem. mit dem Sozialausschuss, dem Bildungsausschuss und dem Kinder- und Jugendausschuss vom 08.10.24, Anhörung Gesundheitsreferat vom 28.05.24
+- TOP 6.3.1.6.: (N) - Austausch einer Lichtsignalanlage Standort Aubinger Allee / Helmut-Schmidt-Allee, Anhörung Mobilitätsreferat vom 11.06.24
+- TOP 6.3.2.22.: (N) - Beginn Fahrbahnsanierung Lochhausener Straße Brücke A 99, Schr. Baureferat vom 11.06.24
+- TOP 9.7.: Wirtschaftsausschuss vom 18.06.24 (N) - Integration von Geflüchteten auch durch Firmen Empfehlung Nr. 20-26 / E 01358 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 29.06.2023
+- TOP 9.8.: Mobilitätsausschuss vom 19.06.24 (N) - Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2) Produkt 34511500 Geodaten Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 38511200 Stadtplanung Produkt 45561100 Umweltvorsorge Beschluss über die Finanzierung für die Jahre 2024 – 2027 Änderung des Mehrjahresinvestitionsprogrammes 2024 - 2028
+- TOP 9.8.1: (N) - Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 2.1.23.: (N) - Einbahnstraßenregelung in der Fritz-Bauer-Straße
+- TOP 2.1.24.: (N)- Straßenverhältnisse Ehrenbürgstr. 9
+- TOP 3.1.1.: Baumfällungsanträge im 22. Stadtbezirk: - Walter-Brecht-Str. 1c - Lidelstr. 25 - Ostermoosstr. 18 - Hoheneckstr. 31 - Papinstr. 33 (N) - Aubinger Str. 97 (N) - Kurt-Floericke-Str. 23
+- TOP 6.1.1.3.: (N) - Antrag auf Genehmigung einer Veranstaltung, hier: Stadtteilfest Freiham, Bildungscampus Freiham, Innenbereich öffentl. Grün, Vorplatz Skateanlage am 20.07.24, Anhörung KVR vom 13.06.24
+- TOP 6.3.2.23.: (N) - Tempo 30 in der Marianne-Hoppe-Straße, Schr. Mobilitätsreferat vom 12.06.24
+- TOP 6.4.1.6.: (N) - Beteiligung kommunale Wärmeplanung in München, Anhörung Ref. f. Klima- u. Umwelt vom 11.06.24
+- TOP 6.4.2.16.: (N) - Krähengeschrei im Bereich der Kunreuthstraße, Schr. Ref. f. Klima- u. Umweltschutz vom 11.06.24
+- TOP 2.1.25.: (N) - Konzessionen rund ums Bergson Kunstkraftwerk - Ruhestörung
+- TOP 6.1.1.4.: (N) - Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage am Aubinger Wasserturm - Sommerfest am 12.07.24, Anhörung KVR vom 13.06.24
+- TOP 6.2.1.4.: (N) - Beschlussvorlage "Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025-2027, Anhörung Ref. f. Bildung u. Sport vom 14.06.24
+- TOP 2.1.26.: (N) - Bau- und Verkehrsverdichtung durch geplanten Neubau Aubing-Ost-Str. 89
+- TOP 2.1.27.: (N) - Rutschenturm Spielplatz an der Gleisharfe "The Wave"
+- TOP 6.4.1.7.: (N) - Aubing-Ost-Str. 89, Neubau zweier Mehrfamilienhäuser (18 WE) mit einer TG (18 Stpl.), Anhörung Planungsreferat vom 18.06.24
+- TOP 4.10.: (N) - Dringlichkeitsantrag: Stärkung und mehr Entscheidungskompetenzen für die Bezirksausschüsse (FW/ÖDP-Fraktion)
