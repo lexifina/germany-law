@@ -1,0 +1,56 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-19T15:00:00+02:00
+- Ende: 2024-06-19T17:37:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26136
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26136
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 19.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523157.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 19.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523157.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 19.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00523157.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/003/2024 vom 20.03.2024 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 4: Unfall- und Kriminalitätsstatistik im Stadtbezirk 4 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5: Trinkbrunnen für das Linksrheinische - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 6: Sicherheit für Fußgänger im Stadtbezirk 4 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Sicherheit erhöhen – Ehemalige Abfahrt Heesenstraße endgültig schließen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 9: Grundstücksnutzung Büttgenbachstraße, Anfrage des Bezirksvertreters Marco Staack
+- TOP 10: Streichung von 240 Parkplätzen anlässlich des Ausbaus der Radleitroute 2 auf der Hansaallee ohne Ersatzlösung?, Anfrage der FDP-Fraktion
+- TOP 11: Verkehrssicherungspflicht für den Radweg zum Niederkasseler Deich?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 12: LKW-Verkehre auf der Rudolfstraße, Anfrage der SPD-Fraktion
+- TOP 13: Privater Parkraum im Umfeld der Hansaallee, Anfrage der SPD-Fraktion
+- TOP 14: Blühwiesen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard
+- TOP 15: Anmeldezahlen für das Schuljahr 2024/25 an den weiterführenden Schulen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard - zur Kenntnis genommen
+- TOP 16: Niederdonker Straße / Grevenbroicher Weg – Maßnahmen zur Schulwegsicherung - einstimmig beschlossen
+- TOP 17: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste A) Schulen SAP-Konten 2121101/52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 19: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 20: Deichradweg renovieren - Schäden beseitigen, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 21: Instandsetzung Belsenstraße, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 22: Naturnaher Grünzug an der Willstätterstraße, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 23: Tempo 30 auf der Heerdter Landstraße, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 24: Verbesserungen an Radleitroute 2 West-Ost mit aufnehmen, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 25: Fahrrad-Stellplätze in Lörick, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 26: Neuer Haupteingang des Comenius-Gymnasiums – Verkehrssicherheit für Schülerinnen und Schüler gewährleisten, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 27: Tödliche Badeunfälle im Rhein endlich verhindern – Mit Schildern vor dem Baden und Ertrinken warnen!, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 28: Baumscheibe Lanker Straße, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 29: Fahrspuren Brücke Heerdter Lohweg, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 30: Fußweg Gustorfer Straße, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 31: Barrierefreiheit: Bordsteinabsenkung Diesterwegstraße Ecke Pestalozzistraße - zur Kenntnis genommen
+- TOP 32: Radweg linksrheinische Nordseite der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 33: Zusätzliche Entsorgungsmöglichkeit von sperrigem Altpapier auf dem Simon-Gatzweiler-Platz - zur Kenntnis genommen
+- TOP 34: Benennung der Wegeverbindung, beginnend zwischen der Schiessstraße 27a /31 und endend an der Heerdter Landstraße, in Höhe des Einfahrtsbereichs zum Parkplatz des Heerdter Freizeitparks - zur Kenntnis genommen
+- TOP 35: Ausbau der Radleitroute West - Ost, Parkplätze auf der Hansaallee werden weiterhin benötigt - zur Kenntnis genommen
+- TOP 36: Spielcontainer für Spielplatz Belsenpark - zur Kenntnis genommen
+- TOP 37: Mehr Blüten und Artenschutz, keine Gülle mehr auf den Niederkasseler Rheinwiesen - zur Kenntnis genommen
+- TOP 38: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
