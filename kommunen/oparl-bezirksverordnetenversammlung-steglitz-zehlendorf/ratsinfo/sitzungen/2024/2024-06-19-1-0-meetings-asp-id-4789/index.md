@@ -1,0 +1,93 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-06-19T17:00:00+02:00
+- Ende: 2024-06-19T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4789
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4789
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Defekte Leuchten in Steglitz-Zehlendorf - beantwortet
+- TOP 3.2: Aktueller Stand Turm des Arndt-Gymnasiums - beantwortet
+- TOP 3.3: Zeitzeugenarbeit in Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Waffenverbotszone an Badeseen nach Messerattacke in Nikolassee? - beantwortet
+- TOP 3.5: Grünanlage Sundgauer Straße - beantwortet
+- TOP 3.6: Kulturelle Nutzung Boulevard - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Berufung eines beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für den Freundeskreis der Musikschule Steglitz-Zehlendorf e.V - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Bebauungsplan 6-30 Lichterfelde-Süd - Anpassung Anlage 8 des Städtebaulichen Ergänzungsvertrages vom 29.07.2022 [Bauablauf: Tabelle und Abbildung Bauabschnitte], notarielle Beurkundung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.8: Rumpelbasar retten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Ladiusmarkt im Breitensteinweg belassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Parlamentarische Ferien 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Kinderrechte im Fokus: Bewerbung um das Siegel "Kinderfreundliche Kommune" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Leo-Baeck-Straße – Sicherheit erhöhen für Grundschüler der Schweizerhof-Grundschule und Parkbesucher - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Sderot-Platz: Märchen-Brunnen herrichten als Friedens- und Freiheitssymbol - in der BVV abgelehnt
+- TOP 4.14: Straßensozialarbeit für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Schwerpunktkontrollen von Radfahrern - in der BVV abgelehnt
+- TOP 4.16: Lieferzonen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Buslinie X11 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Sensorgesteuerte Sektionsbeleuchtung Wannseebadweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Hedwig Wollmann (1892-1979) in die bezirkliche Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Den Widerstandskämpfer Dr. Franz Hering (1902–1990) in die bezirkliche Straßenbenennungsliste aufnehmen - in der BVV abgelehnt
+- TOP 4.21: Parkmöglichkeiten für Anhänger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Ladestationen für E-Bikes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Langer Tag des Gedenkens an Auschwitz-Deportierte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Buslinie 285 - in der BVV abgelehnt
+- TOP 4.25: Würdigung des Hitler-Attentäters Oberst Claus Schenk Graf von Stauffenberg zum 80. Jahrestag des Attentats am 20. Juli 2024 - in der BVV abgelehnt
+- TOP 4.26: Düppel-Süd bei U3-Verlängerung mitdenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Photovoltaikanlage für die Große Anna-Essinger-Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Chancen nutzen für ein Zusammenkommen am Breitenbachplatz – ein Nachbarschaftspicknick auf der gesperrten Brücke prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Erstellung einer Liste von bezirklich genutzten Gebäuden und Kunstwerken im öffentlichen Raum aus der NS-Zeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Säuberung des Stangenpfuhlteichs und Umfeld in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Dank den Schülern und Unternehmen, die aktiv die Umwelt durch Baumpflanzung schützen - in der BVV abgelehnt
+- TOP 4.32: Rhododendron vor dem Rathaus - in der BVV abgelehnt
+- TOP 4.33: Unterstützung des Weltalphabetisierungstages durch das Bezirksamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Aufklärung über HPV-Impfung in Schulen sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Abarbeitung offener Beschlüsse der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Bepflanzung in der Andréezeile - überwiesen
+- TOP 5.2: Öffnungszeiten des Spielplatzes im Ringelsteinweg - überwiesen
+- TOP 5.3: Parkbank in der Breisgauer Straße - überwiesen
+- TOP 5.4: Wiederherstellung der Teufelsbrücke als Originaldenkmal im Schlosspark Klein-Glienicke - überwiesen
+- TOP 5.5: Verbesserung der Verkehrssicherheit an der Einmündung Quantzstraße - überwiesen
+- TOP 5.6: Zeitlich befristetes Halteverbot in der Claszeile - überwiesen
+- TOP 5.7: Zusätzliche Mülleimer vor der Emil-Molt-Schule - überwiesen
+- TOP 5.8: Audioprotokolle der BVV Sitzungen veröffentlichen - überwiesen
+- TOP 5.9: Die BVV Steglitz-Zehlendorf fordert weiterhin eine Busvorrangspur auf dem Hindenburgdamm - überwiesen
+- TOP 5.10: Endlich ein Gehweg für die Goerzallee - überwiesen
+- TOP 5.11: Illegale Werbung im Bezirk konsequent unterbinden - überwiesen
+- TOP 5.12: Radweg statt Regenrinne - überwiesen
+- TOP 5.13: Anpassung der Geschäftsordnung: Reihenfolge der Kleinen Anfragen - überwiesen
+- TOP 5.14: Integration durch Sport - überwiesen
+- TOP 5.15: Mitglieder des Bezirksamtes auflisten - überwiesen
+- TOP 5.16: Aktualisierte Zusammensetzung der Ausschüsse - überwiesen
+- TOP 5.17: Verkehrssicherheit für Kinder in der Lorenzstraße - überwiesen
+- TOP 5.18: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - überwiesen
+- TOP 5.19: Änderung/Ergänzung der GO der BVV Steglitz-Zehlendorf § 9 Aufgaben des Ältestenrates - überwiesen
+- TOP 5.20: Barrierefreiheit in der Gottfried-Benn-Bibliothek - überwiesen
+- TOP 5.21: Entsorgung des Verpackungsmülls auf Friedhöfen - überwiesen
+- TOP 5.22: Entwicklung des Kranoldplatzes hinsichtlich seiner Aufenthaltsqualität bei Berücksichtigung der besonderen Bedarfe des Wochenmarkts - überwiesen
+- TOP 5.23: NS- und Berliner Verwaltungs-Unrecht überwinden: Rückkauf des Grundstücks am Stölpchensee Familie Wolffsohn ermöglichen - überwiesen
+- TOP 5.24: Trinkbrunnen am Kranoldplatz - überwiesen
+- TOP 5.25: Wochenmarkt rund um das McNair-Viertel - überwiesen
+- TOP 5.26: Ausbreitung Hybrid-Luzerne: Müssen jetzt dringend handeln - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Honorarkräfte - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Trinkbrunnen in Steglitz-Zehlendorf - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Symbole der Verbundenheit mit Israel und der Ukraine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
