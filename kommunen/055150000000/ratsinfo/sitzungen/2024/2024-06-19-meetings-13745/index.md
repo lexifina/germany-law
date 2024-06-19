@@ -1,0 +1,104 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-06-19T14:32:00+02:00
+- Ende: 2024-06-19T17:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13745
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13745
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00551747.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Umfrage der Initative FMO-Ausstieg.jetzt
+- TOP 1.2: Friedliches Zusammenleben in unserer Stadt
+- TOP 2: Anregung gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen Nr. 2024-00033
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: "Tag für das Ehrenamt" in Coerde - verwiesen
+- TOP 7.2: Autoarme Altstadt - Zeitnahe Umsetzung voranbringen - mehrheitlich beschlossen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Keine Einführung einer Bezahlkarte für Geflüchtete in Münster - von der Tagesordnung abgesetzt
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 10: Anregungen des Jugendrates
+- TOP 10.1: Überprüfung der aktuellen Situation der Fahrradständer an den münsteraner Schulen - verwiesen
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12.1: Busspur Schlossplatz - verwiesen
+- TOP 12.2: Bessere Schwimmbedingungen für alle: Sanierungskonzept für die städtischen Bäder erstellen - verwiesen
+- TOP 12.3: Bürgerschaftliches Engagement stärken, sichere Durchführung des Turniers der Sieger garantieren - verwiesen
+- TOP 12.4: Bildung ernst nehmen: Das Schlaun zieht nach Angelmodde, Schulzentren in Hiltrup und Wolbeck zeitnah sanieren - mehrheitlich geändert beschlossen
+- TOP 12.5: Kanalbäume bleiben! Für den Erhalt der Bäume am Dortmund-Ems-Kanal (DEK) - mehrheitlich beschlossen
+- TOP 12.6: Ökologische Flächenverpachtung - mehrheitlich geändert beschlossen
+- TOP 13: Gewalt gegen Frauen und häusliche Gewalt bekämpfen - Die Istanbul Konvention auf kommunaler Ebene umsetzen: Zwischenbericht - zur Kenntnis genommen
+- TOP 14: 5. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene für Münster 2024 - 2026 - mehrheitlich beschlossen
+- TOP 15: Bedarfsplan für den Brandschutz und die Hilfeleistung in der Stadt Münster (Brandschutzbedarfsplan) Fortschreibung - einstimmig geändert beschlossen
+- TOP 16: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 16.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster
+- TOP 17: Verordnung über die Beförderungsentgelte und –bedingungen für die von der Stadt Münster konzessionierten Taxen - einstimmig beschlossen
+- TOP 18: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2023 - einstimmig beschlossen
+- TOP 19: Betrauungsakt Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 20: Messe und Congress Centrum Halle Münsterland GmbH: Novellierung der Geschäftsordnung für den Aufsichtsrat - mehrheitlich beschlossen
+- TOP 21: Änderung des Tarifs für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.07.2024 - mehrheitlich beschlossen
+- TOP 22: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - von der Tagesordnung abgesetzt
+- TOP 23: Mitgestaltende Öffentlichkeitsbeteiligung stärken – digitale Beteiligungsinstrumente ausbauen: aktueller Stand und nächste Schritte - zur Kenntnis genommen
+- TOP 24: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - von der Tagesordnung abgesetzt
+- TOP 25: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - Vorlage eingebracht
+- TOP 26: Innenstadt stärken: Auswahl von Maßnahmen des Integrierten städtebaulichen Entwicklungskonzeptes Münster-Innenstadt (INSEK Münster-Innenstadt, 2023) für die Städtebauförderung 2025-2035 - einstimmig beschlossen
+- TOP 27: Musik-Campus - Auslobung des städtebaulich-freiräumlichen Wettbewerbs - von der Tagesordnung abgesetzt
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Integriertes Parkraumkonzept Münster - mehrheitlich geändert beschlossen
+- TOP 30: Ringlinie (Linie 33/34) und Linie 14 - einstimmig beschlossen
+- TOP 31: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.08.2024 bis 30.09.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 32: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - einstimmig geändert beschlossen
+- TOP 33: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2023 - einstimmig beschlossen
+- TOP 34: Errichtungsbeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs sowie Umzug des Teilstandortes - einstimmig beschlossen
+- TOP 35: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde - mehrheitlich beschlossen
+- TOP 35.1: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde
+- TOP 36: Schulbau - Neubau Melanchthonschule und Sporthalle - mehrheitlich geändert beschlossen
+- TOP 36.1: Schulbau - Neubau Melanchthonschule und Sporthalle
+- TOP 37: Erweiterung Annette-von-Droste-Hülshoff-Gymnasium G8/G9 und Neubau Sporthalle - einstimmig beschlossen
+- TOP 38: Erweiterung des Pascal-Gymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der festgelegten Zügigkeit - einstimmig geändert beschlossen
+- TOP 39: Erhöhung der Zügigkeit der Erich-Klausener-Schule, städtische Realschule, auf 4-Züge - einstimmig beschlossen
+- TOP 40: Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 41: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kita für die Regenbogenkinder e.V. am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - mehrheitlich beschlossen
+- TOP 42: Neubau und Erweiterung der katholischen Kindertageseinrichtung St. Antonius am Antoniuskirchplatz - mehrheitlich beschlossen
+- TOP 43: Überleitung der außerunterrichtlichen Angebote (OGS) der Mauritzschule - einstimmig beschlossen
+- TOP 44: Reduzierung des Sonderfonds "Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" - mehrheitlich geändert beschlossen
+- TOP 45: Aufnahme neuer Mitgliedsorganisationen in die Kommunale Gesundheitskonferenz (KGK) - einstimmig beschlossen
+- TOP 46: Erweiterung der Marienschule Roxel zur 4-Zügigkeit und Sanierung des Gebäudebestandes - Baubeschluss - - einstimmig beschlossen
+- TOP 47: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen - von der Tagesordnung abgesetzt
+- TOP 48: Mitgliedschaft im Bündnis "Kommunen für biologische Vielfalt" - mehrheitlich beschlossen
+- TOP 49: Lärmaktionsplan - 4. Runde - von der Tagesordnung abgesetzt
+- TOP 50: 1. Fortschreibung Wasserversorgungskonzept der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 51: Änderung der Abfallgebührensatzung - einstimmig beschlossen
+- TOP 52: Bauleitplanung
+- TOP 52.1: Stadtbezirk Münster-Mitte
+- TOP 52.1.1: Bebauungsplan Nr. 649 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 52.1.2: Vorhabenbezogener Bebauungsplan Nr. 614 - Beschluss zur Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 53: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 53.1: Feierabend? Ich geh dann mal auf den Markt - verwiesen
+- TOP 53.2: Cannabis-Verbotszonen einrichten - Kinder- und Jugendschutz gewährleisten - verwiesen
+- TOP 53.3: Pilotprojekt Zukunft - Künstliche Intelligenz als Chance begreifen! - verwiesen
+- TOP 53.4: Wohnraumtauschkonzept für Münster - verwiesen
+- TOP 53.5: Möglichst viel Platz für Bildung schaffen - Förderschulangebote stärken - verwiesen
+- TOP 53.6: Barrierefreie und inklusive gynäkologische Versorgung - Evaluation und Verbesserung der gynäkologischen Versorgung von Frauen mit Behinderung in Münster - verwiesen
+- TOP 53.7: Die Sportanlage Wienburgstraße endlich weiterentwickeln - mit konkreten Schritten Bewegung, Sport und Freizeit in Uppenberg und Kreuzviertel voranbringen! - verwiesen
+- TOP 53.8: Damit Kinder spielen können: Hitzeschutz für Spielplätze - verwiesen
+- TOP 53.9: Gewalt gegen Frauen und häusliche Gewalt bekämpfen - verwiesen
+- TOP 53.10: Münster, Stadt der Märkte - Stärkung der Stadtteilmärkte in unserer Stadt - verwiesen
+- TOP 53.11: Keine Macht den Drogen! – Verbotszonen für Alkohol-, Tabak- und sonstige Betäubungsmittel einrichten – Kinder- und Jugendschutz gewährleisten - verwiesen
+- TOP 53.12: Überarbeitung der Gebäudeleitlinien 2020 - Nachsteuern fürs Klima und den städtischen Haushalt - verwiesen
+- TOP 54: Besetzung des Verwaltungsrates der Sparkasse Münsterland Ost - mehrheitlich geändert beschlossen
+- TOP 55: Besetzung von frei werdenden Positionen im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 56: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 56.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 57: Verschiedenes
