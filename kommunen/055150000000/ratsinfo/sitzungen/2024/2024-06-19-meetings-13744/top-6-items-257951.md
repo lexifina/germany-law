@@ -1,0 +1,8 @@
+# TOP 6: Bedarfsplan für den Brandschutz und die Hilfeleistung in der Stadt Münster (Brandschutzbedarfsplan) Fortschreibung
+
+- Sitzung: 26. Sitzung (2024-06-19)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/257951
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/85204
