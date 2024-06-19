@@ -1,0 +1,64 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-19T15:30:00+02:00
+- Ende: 2024-06-19T16:50:00+02:00
+- Ort: Rather Markt 2, Aula der Joachim-Neander-Grundschule, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26171
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26171
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524106.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524106.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524106.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung einer Schriftführung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - der Sitzung der Bezirksvertretung 6 am 24. April 2024 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath, Änderung der Verfahrensart der Planungsleistung und Bereitstellung von finanziellen Mitteln - Empfehlung einstimmig beschlossen
+- TOP 9: Rahmenplan Einzelhandel 2016 5. Änderung - Zentrum Kalkumer Straße/Ulmenstraße & Sonderstandort Nahversorgung An der Piwipp - Entwurf - zur Kenntnis genommen
+- TOP 10: Flächennutzungsplanänderung Nr. 178 (Entwurf) - Südlich An der Piwipp - zur Kenntnis genommen
+- TOP 11: Bebauungsplan-Entwurf Nr. 01/009 - Südlich An der Piwipp - zur Kenntnis genommen
+- TOP 12: Anfrage der Fraktion BÜ90/Die Grünen: Länge der Grünphase der Ampelschaltung Oberrather Straße/Tevernstraße - beantwortet
+- TOP 13: Anfrage der SPD-Fraktion: Ahrensplatz - beantwortet
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Lösungen für die Wurzelaufbrüche auf dem Radweg zwischen der Bochumer Straße und der Theodorstraße - beantwortet
+- TOP 16: Anfrage der SPD-Fraktion: Bäume Matthiaskirchweg/Einbrunger Weg - vertagt
+- TOP 17: Anfrage der Fraktion BÜ90/Die Grünen: Fehlende SB-Servicestelle der Sparkasse in Lichtenbroich nach Sprengung - vertagt
+- TOP 18: Antrag der SPD-Fraktion: Bäume Fußgängerzone Matthiaskirchweg - einstimmig beschlossen
+- TOP 19: Antrag der SPD-Fraktion: Sanierung öffentlicher Weg beim KGV Volkardey e.V. - abweichend beschlossen
+- TOP 20: Antrag der SPD-Fraktion: Rotlichtblitzer Mörsenbroicher Weg - einstimmig beschlossen
+- TOP 21: Antrag der Fraktion BÜ90/Die Grünen: Einrichtung eines Grünen Pfeils für rechtsabbiegende Radfahrer an der Einmündung Stieglitzstraße/Münsterstraße - abweichend beschlossen
+- TOP 22: Bezirkssportanlage Lichtenbroich – Umbau Kunststoffspielfeld in Kunstrasen - abweichend beschlossen
+- TOP 23: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Gemeinschaft "Auf der Golzheimer Heide" - Nachbarschaftsfest auf dem Spielplatz Heinefeldplatz - einstimmig beschlossen
+- TOP 24: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Deutsche Bahn e. V. Landwirtschaft Kleingartenanlage Boskampweg Düsseldorf-Rath - Sommerfest zum 40jährigen Jubiläum der Kleingartenanlage Boskampweg - abweichend beschlossen
+- TOP 25: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des St. Sebastianus Schützenvereins Derendorf 1655 e. V. - Kindernachmittag im Rahmen des Schützenfestes 2024 - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Bürgerverein Mörsenbroich 1928 e. V. - Mörsenbroicher Sommerfest - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Städtischen Tageseinrichtung für Kinder Erwin-Rommel-Str. 17 - Emotionale Schulvorbereitung/Gewaltfrei in der Kita - vertagt
+- TOP 28: Bauunterhaltungsmittel 2024 Teil B „sonstige städtische Einrichtungen“ – Maßnahmenvorschläge vom Amt für Soziales und Jugend - einstimmig beschlossen
+- TOP 29: Bauunterhaltungsmittel 2024 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2024 Teil C "Förderung Dritter" - Aufarbeitung Radschlägerskulptur Münsterstraße - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2024 Teil C "Förderung Dritter" - Antrag des Bürger-Schützenvereins 1925 e. V. Düsseldorf Rath für die Beschaffung von Zaunelementen für Wohnwagenstellplätze - einstimmig abgelehnt
+- TOP 32: Anpassung des Umlaufgitters auf dem Tiefenbroicher Weg - Vorlage BV6/126/2022 - zur Kenntnis genommen
+- TOP 33: Parkverbot Einbrunger Weg - Vorlage BV6/136/2023 - zur Kenntnis genommen
+- TOP 34: OGS Krahnenburgstraße - Vorlage BV6/015/2024 - zur Kenntnis genommen
+- TOP 35: Verkehrsberuhigter Bereich Lichtenbroich - Spielen zwischen Volkardeyer Weg und Krahnenburgstraße - Vorlage BV6/007/2023 - zur Kenntnis genommen
+- TOP 36: Änderung der Parkraumzone von II auf III - Vorlage BV6/078/2023 - zur Kenntnis genommen
+- TOP 37: Gleisbauarbeiten Kalkumer Straße - Vorlage BV6/038/2024 - zur Kenntnis genommen
+- TOP 38: Fußweg zwischen Haselnussweg/Am Holunderbusch der in der Straße Zur Alten Kaserne mündet in Düsseldorf Mörsenbroich/Gartenstadt Reitzenstein (Vorlage BV6/025/2023) - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 6 ab der 21. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 40: Verbesserung des Zustands der Unterführung Rath S - Vorlage BV6/190/2023 - zur Kenntnis genommen
+- TOP 41: Sachstand des Projektes "Platz für Jugendliche" auf dem Unterrather Autobahndeckel - Vorlage BV6/042/2024 - zur Kenntnis genommen
+- TOP 42: Schulwegsicherung der Gemeinschaftsgrundschule Max-Halbe-Straße 14 - Vorlage BV6/068/2024 - zur Kenntnis genommen
+- TOP 43: Umsetzung stationsbasierter Sharing-Angebote im Umfeld der Westfalenstraße - zur Kenntnis genommen
+- TOP 44: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" - Umwidmung der Mittel für eine Pumptrackanlage "An der Golzheimer Heide" zugunsten einer Pumptrackanlage in der Bezirkssportanlage "Franz-Rennefeld-Weg" - einstimmig beschlossen
+- TOP 45: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Rather Familienzentrums - 11. Rather Kulturwoche - einstimmig beschlossen
+- TOP 46: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Realschule Borbecker Straße - Schülerplaner - einstimmig beschlossen
+- TOP 47: Standortprüfung und Kosten für einen urbanen Photo-Reaktor (Flüssige Bäume) am Mörsenbroicher Ei - Vorlage BV6/072/2024 - zur Kenntnis genommen
