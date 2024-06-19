@@ -1,0 +1,66 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-06-19T14:03:00+02:00
+- Ende: 2024-06-19T17:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13744
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13744
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00550825.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2024) - einstimmig beschlossen
+- TOP 3: KIB-Bericht 2019 bis 2023 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Gewalt gegen Frauen und häusliche Gewalt bekämpfen - Die Istanbul Konvention auf kommunaler Ebene umsetzen: Zwischenbericht - ohne Beschlussfassung geschoben
+- TOP 5: 5. Aktionsplan der Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene für Münster 2024 - 2026 - mehrheitlich beschlossen
+- TOP 6: Bedarfsplan für den Brandschutz und die Hilfeleistung in der Stadt Münster (Brandschutzbedarfsplan) Fortschreibung - ohne Beschlussfassung geschoben
+- TOP 7: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 7.1: Satzung zur Änderung der Anlage "Entgelttarif" der Satzung über die Wochenmärkte der Stadt Münster
+- TOP 8: Verordnung über die Beförderungsentgelte und –bedingungen für die von der Stadt Münster konzessionierten Taxen - einstimmig beschlossen
+- TOP 9: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2023 - einstimmig beschlossen
+- TOP 10: Betrauungsakt Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 11: Messe und Congress Centrum Halle Münsterland GmbH: Novellierung der Geschäftsordnung für den Aufsichtsrat - einstimmig beschlossen
+- TOP 12: Änderung des Tarifs für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.07.2024 - ohne Beschlussfassung geschoben
+- TOP 13: Kapitalerhöhung bei der Technologieförderung Münster GmbH (TFM) - von der Tagesordnung abgesetzt
+- TOP 14: Mitgestaltende Öffentlichkeitsbeteiligung stärken – digitale Beteiligungsinstrumente ausbauen: aktueller Stand und nächste Schritte - zur Kenntnis genommen
+- TOP 15: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - von der Tagesordnung abgesetzt
+- TOP 16: Innenstadt stärken: Auswahl von Maßnahmen des Integrierten städtebaulichen Entwicklungskonzeptes Münster-Innenstadt (INSEK Münster-Innenstadt, 2023) für die Städtebauförderung 2025-2035 - einstimmig beschlossen
+- TOP 17: Musik-Campus - Auslobung des städtebaulich-freiräumlichen Wettbewerbs - von der Tagesordnung abgesetzt
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Integriertes Parkraumkonzept Münster - ohne Beschlussfassung geschoben
+- TOP 20: Ringlinie (Linie 33/34) und Linie 14 - einstimmig beschlossen
+- TOP 21: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.08.2024 bis 30.09.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 22: Konzept der Stadt Münster für das Marktsegment Wohnmobiltourismus - ohne Beschlussfassung geschoben
+- TOP 23: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2023 - einstimmig beschlossen
+- TOP 24: Errichtungsbeschluss: Zusammenführung und bauliche Erweiterung des Anne-Frank-Berufskollegs sowie Umzug des Teilstandortes - ohne Beschlussfassung geschoben
+- TOP 25: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde - ohne Beschlussfassung geschoben
+- TOP 25.1: Einrichtung einer Videoüberwachung an der Melanchthonschule in Coerde
+- TOP 26: Schulbau - Neubau Melanchthonschule und Sporthalle - ohne Beschlussfassung geschoben
+- TOP 26.1: Schulbau - Neubau Melanchthonschule und Sporthalle
+- TOP 27: Erweiterung Annette-von-Droste-Hülshoff-Gymnasium G8/G9 und Neubau Sporthalle - einstimmig beschlossen
+- TOP 28: Erweiterung des Pascal-Gymnasiums zur Schaffung der räumlichen Voraussetzungen für die Umstellung auf G9 unter Beibehaltung der festgelegten Zügigkeit - ohne Beschlussfassung geschoben
+- TOP 29: Erhöhung der Zügigkeit der Erich-Klausener-Schule, städtische Realschule, auf 4-Züge - einstimmig beschlossen
+- TOP 30: Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 31: Errichtungsbeschluss: Errichtung einer 2-Gruppen-Kita für die Regenbogenkinder e.V. am Hoppengarten im Stadtteil Rumphorst, Bezirk Mitte - einstimmig beschlossen
+- TOP 32: Neubau und Erweiterung der katholischen Kindertageseinrichtung St. Antonius am Antoniuskirchplatz - einstimmig beschlossen
+- TOP 33: Überleitung der außerunterrichtlichen Angebote (OGS) der Mauritzschule - einstimmig beschlossen
+- TOP 34: Reduzierung des Sonderfonds "Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" - ohne Beschlussfassung geschoben
+- TOP 35: Aufnahme neuer Mitgliedsorganisationen in die Kommunale Gesundheitskonferenz (KGK) - einstimmig beschlossen
+- TOP 36: Erweiterung der Marienschule Roxel zur 4-Zügigkeit und Sanierung des Gebäudebestandes - Baubeschluss - - einstimmig beschlossen
+- TOP 37: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen - von der Tagesordnung abgesetzt
+- TOP 38: Mitgliedschaft im Bündnis "Kommunen für biologische Vielfalt" - einstimmig beschlossen
+- TOP 39: Lärmaktionsplan - 4. Runde - von der Tagesordnung abgesetzt
+- TOP 40: 1. Fortschreibung Wasserversorgungskonzept der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 41: Änderung der Abfallgebührensatzung - einstimmig beschlossen
+- TOP 42: Bauleitplanung
+- TOP 42.1: Stadtbezirk Mitte
+- TOP 42.1.1: Bebauungsplan Nr. 649 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 42.1.2: Vorhabenbezogener Bebauungsplan Nr. 614 - Beschluss zur Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 43: Verschiedenes
