@@ -1,0 +1,96 @@
+# 26. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-06-20T16:30:00+02:00
+- Ende: 2024-06-20T20:52:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6998
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6998
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=429919
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - erledigt
+- TOP 6.1: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten im Ausschuss für Wirtschaftsförderung, Tourismus und Bürgerdienste (B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl eines Bürgerdeputierten für den Ausschuss für Wirtschaftsförderung, Tourismus und Bürgerdienste (B) - gewählt
+- TOP 7: Vertagte Tagesordnungspunkte - (offen)
+- TOP 7.1: Personelles / Wahlen - (offen)
+- TOP 7.1.1: Wahl einer / eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Beschlussempfehlung - (offen)
+- TOP 7.2.1: Realisierung und Abschluss Landschaftsplan XVI-L-2 "Vollkropfwiesen" - mit Änderungen in der BVV beschlossen
+- TOP 7.3: Große Anfrage - (offen)
+- TOP 7.3.1: Gedenkstätte Köpenicker Blutwoche - beantwortet
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-23 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Entgeltfreies WLAN in öffentlichen Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Zügige Unterschutzstellung der Wuhlheide einleiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Tempolimit für die Tram in der Karl-Ziegler-Straße und der Hermann-Dorner-Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2022 und 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Hilfen bei Long-COVID- und Post-COVID-Syndrom - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Sondermittel für den Verein "TC Orange Weiß Friedrichshagen e. V." (SM 23-04) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Sondermittel für den DLRG Landesverband Berlin e. V. Bezirk Mitte (SM 23-05) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Sondermittel für den "Förderverein Wassersporthandicaps e. V." (SM 23-06) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Sondermittel für den Verein "SC Argo e. V." (SM 23-17) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Sondermittel für den Verein "Blau-Gelb Köpenick e. V." (SM 23-18) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Let' s do it - Teilnahme am Digital Clean Up Day 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Wochenmärkte in Treptow-Köpenick - überwiesen
+- TOP 8.2.10: Besetzung der Leitung des Fachbereiches 2 des Gesundheitsamtes unverzüglich vornehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Kinder- und Jugendgesundheitsdienst im Bürgerhaus Altglienicke vollumfänglich erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.12: BVV-Beschluss 0872/43/21 umsetzen – Gegen das Ausbluten des Kinder- und Jugendgesundheitsdienstes in Altglienicke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Mündliche Anfragen - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Sitzungsterminplanung 2025 und 2026 (IX. Wahlperiode) der BVV Treptow-Köpenick von Berlin - vertagt
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Aufwertung Don-Ugoletti-Platz Grünau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.2: Schaffung einer KV-Notdienstpraxis für Erwachsene und einer KV-Notdienstpraxis für Kinder auch in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: - Entwurf des Bebauungsplans 9-75 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-75 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Schulwegsicherheit in der Chaukenstraße und Verkehrssicherheit am Spielplatz Lugierring - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Keine Bebauung der Trabrennbahn Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Outdoorspielplätze finanzieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Bebauungsplan 9-71 G ("Fuststraße") • Entwurf des Bebauungsplans 9-71 G nebst Begründung • Entwurf der Rechtsverordnung zum Bebauungsplan 9-71 G im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - überwiesen
+- TOP 11.8: Hitzeschutzmaßnahmen in Treptow-Köpenick umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Ende mit dem Behördenpingpong – Umweltschutz vor Zuständigkeitsgerangel – Schrottboote von der Spree entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Service für Wassersportvereine - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Ersatzhaltestellen auf der Edisonstraße verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Aufhebung des Treptow-Kollegs (09AOS) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Nachhaltige Gestaltung von Bezirksfesten ohne Feuerwerke - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: "Der Mensch dahinter" – für mehr Respekt gegenüber Einsatzkräften - überwiesen
+- TOP 11.15: Sanierung der Sanitäranlagen auf dem Waldfriedhof Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Errichtung einer Urnengemeinschaftsanlage mit der Möglichkeit der Namensnennung in der Abt. V / 1 b auf dem landeseigenen Waldfriedhof Oberschöneweide, Verlängerte Rathenaustr. 131 a - 12459 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Gedenkstätte Köpenicker Blutwoche als zentralen bezirklichen Gedenkstättenort unterstützen und erhalten - überwiesen
+- TOP 13.2: Forschungsprojekt: Straßenbenennung nach Frauen - überwiesen
+- TOP 13.3: Gedenksteine für die Toten im Kampf gegen den Kapp-Putsch auf dem Friedhof Adlershof restaurieren und die Namen wieder lesbar machen - überwiesen
+- TOP 13.4: Islamismus in Treptow-Köpenick ächten und bekämpfen - in der BVV abgelehnt
+- TOP 13.5: Inklusion ernst nehmen und auf Protesttage aufmerksam machen - überwiesen
+- TOP 13.6: Vegane Hauptstadt Berlin - auch in Treptow Köpenick - überwiesen
+- TOP 13.7: Fußgängerüberweg für sicheren Schulweg an der Friedrichshagener Straße - überwiesen
+- TOP 13.8: Sportbox am Strand des Kleinen Müggelsees errichten - überwiesen
+- TOP 13.9: Attraktive und zuverlässige Jahreskarte für FEZ-Schwimmhalle - überwiesen
+- TOP 13.10: Ampelschaltungen am Glienicker Weg optimieren - überwiesen
+- TOP 13.11: Schwimmhalle für Schwimmunterricht für Kinder mit schwerer und mehrfacher Behinderung ermöglichen - überwiesen
+- TOP 13.12: Freie Notunterkünfte digital in Echtzeit anzeigen - überwiesen
+- TOP 13.13: Unfallrisiko an Straßenbahnhaltestelle Hirschgarten mindern - überwiesen
+- TOP 13.14: Parkplätze am Schmollerplatz erhalten - überwiesen
+- TOP 13.15: Jährlicher Gedenk- und Aktionstag für die afrikanische Geschichte und Gemeinschaft im Bezirk - überwiesen
+- TOP 13.16: Erhalt von Kleingartenanlagen in Plänterwald - überwiesen
+- TOP 13.17: Fit durch mehr Kneipp-Parcours - überwiesen
+- TOP 13.18: Beflaggung an Schulen - überwiesen
+- TOP 13.19: Berliner Müllentsorgung und -trennung verständlich machen für alle - überwiesen
+- TOP 13.20: Straßenbäume für die Puchanstraße - überwiesen
+- TOP 13.21: Schwimmen inklusiv - zurückgezogen
+- TOP 13.22: Besser als ihr Ruf: Waschbären-Image aufpolieren - überwiesen
+- TOP 13.23: Gebärdensprachdolmetschen bei öffentlichen Veranstaltungen gewährleisten - überwiesen
+- TOP 13.24: Förderung inklusiver Tanzveranstaltungen für alle Generationen und Bedürfnisse - überwiesen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Noch mehr Wohnungsbau in Plänterwald? - beantwortet
