@@ -1,0 +1,80 @@
+# 27. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-20T15:06:00+02:00
+- Ende: 2024-06-20T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29670
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29670
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Kurzpräsentation der Verwaltung - Kenntnis genommen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Schriftliche Anfrage der SPD-Fraktio betreffend "Geförderten Wohnungsbau in größren §34er-BauBG Projekten sicherstellen" - Kenntnis genommen
+- TOP 2.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion betreffend Geförderten Wohnungsbau - Kenntnis genommen
+- TOP 2.2: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2.1: Beantwortung einer Anfrage der FDP-Fraktion v. 29.01.2024 aus der Sitzung des Stadtentwicklungsausschusses v. 01.02.2024 zum Thema: Erhalt und Nutzung des Fort XI und anderer preußischen Festungsanlagen (AN/0164/2024) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.3: Erweiterung Hohenzollernbrücke: Stadtweiterentwicklung versus Urheberrechte - Kenntnis genommen
+- TOP 2.3.1: Beantwortung einer schriftlichen Anfrage von "Die Fraktion" vom 21.05.2024 (AN/0776/2024) betreffend Erweiterung Hohenzollernbrücke: Stadtweiterentwicklung versus Urheberrechte - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Anwendung der „Leitlinien zum Klimaschutz in der Umsetzung nicht-städtischer Neubauvorhaben in Köln“ bei dem Bauprojekt Deutzer Hafen - Sache ist erledigt
+- TOP 3.2: Geförderten Wohnungsbau in größeren §34er-BauGB Projekten sicherstellen - Sache ist erledigt
+- TOP -: Ersetzungsantrag zu TOP 3.2 - "Geförderten Wohnungsbau in größeren §34er-BauGB Projekten sicherstellen" (AN/0354/2024) - geändert beschlossen
+- TOP 3.2.1: Geförderten Wohnungsbau in größeren 34er-BauGB Projekten sicher stellen - Kenntnis genommen
+- TOP 4: Stadtplanung - Projekte - Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die Kapazitätserweiterung des DUSS-Terminals Eifeltor in Köln-Rondorf - ungeändert beschlossen
+- TOP 5.2: Bauförderung RSV Rath-Heumar 1920 e.V. - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP 6.2: Vermarktung eines Grundstücks östlich angrenzend an den Ottoplatz in Köln-Deutz - zurückgestellt
+- TOP 6.3: Wohnungsbau stärken – Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - zurückgestellt
+- TOP 6.3.1: Wohnungsbau stärken- Maßnahmenpaket zur Unterstützung und Stabilisierung des Wohnungsbaus - zurückgestellt
+- TOP 6.4: Dauerhafte Regelung zur Straßenmusik im Domumfeld - ungeändert beschlossen
+- TOP 6.5: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - geändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 237. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 7, Köln-Porz - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Otto-Langen-Quartier in Köln-Mülheim - geändert beschlossen
+- TOP 9.2: Vorgabenbeschluss zur Ausarbeitung des Bebauungsplan-Entwurfes [vorhabenbezogener Bebauungsplan] Nr. 74394/04 Arbeitstitel: Friedrichstraße in Köln-Porz - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplans - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: "Lyoner Passage" in Köln-Chorweiler - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 63482/02, Arbeitstitel: Rochusstraße in Köln-Ossendorf - ungeändert beschlossen
+- TOP 12.2: Beschluss über die Stellungnahmen sowie Satzungsbeschluss betreffend den Entwurf zur Änderung des Bebauungsplans Nr. 69370/02 Arbeitstitel: Kiesgrubenweg in Köln-Hahnwald, 1. Änderung - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Aufhebung des Einleitungsbeschlusses betreffend die Änderung des Bebauungsplanes 63549/04 Arbeitstitel: Florenzer Straße in Köln-Chorweiler, 4. Änderung - ungeändert beschlossen
+- TOP 13.2: Beschluss über die Aufhebung des Einleitungsbeschlusses zu dem Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) Arbeitstitel: Subbelrather Straße 387-407 in Köln-Ehrenfeld - geändert beschlossen
+- TOP 13.3: Aufhebung des Einleitungsbeschlusses zur Änderung des Bebauungsplanes 63549/03 Arbeitstitel: Stockholmer Allee in Köln-Chorweiler, 3. Änderung - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Offenlage von Bauleitplänen
+- TOP 17.1: Veröffentlichung (ehem. Offenlage) nach § 3 Absatz 2 Baugesetzbuch (BauGB) des Bebauungsplanentwurfs Nr. 68459/02, Arbeitstitel: ICE-Terminal in Köln-Deutz, 3. Änderung (Teilaufhebung) - Kenntnis genommen
+- TOP 17.2: 208. Änderung des Flächennutzungsplanes, Arbeitstitel: "Lindgens-Areal" in Köln-Mülheim - Mitteilung über die erneute Veröffentlichung (ehem. Offenlage) nach § 3 Abs. 2 BauGB in Verbindung mit § 4a Abs. 3 BauGB - Kenntnis genommen
+- TOP 17.3: 216. Änderung des Flächennutzungsplanes, Arbeitstitel "Mülheim-Süd und Mülheimer Hafen" in Köln-Mülheim - Mitteilung über die erneute Veröffentlichung (ehem. Offenlage) nach § 3 Abs. 2 BauGB in Verbindung mit § 4a Abs. 3 BauGB - Kenntnis genommen
+- TOP 18: Mitteilungen
+- TOP 18.1: Zwischenstand des Stadtentwicklungskonzeptes Wirtschaft - Kenntnis genommen
+- TOP 18.2: Niederschrift der 8. Sitzung des Gestaltungsbeirates am 19.03.2024 - Kenntnis genommen
+- TOP 18.3: Kooperation Köln & rechtsrheinische Nachbarn, hier: Stand der Umsetzung Arbeitsprogramm 07/2023 bis 12/2025 - Kenntnis genommen
+- TOP 18.4: Sachstand Stadtentwicklungskonzept Wohnen - Kenntnis genommen
+- TOP 18.5: Abschlussbericht Evaluation des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 18.6: Sofortprogramm zur Stärkung unserer Innenstädte und Zentren NRW - Kenntnis genommen
+- TOP 18.7: Planerische Vorstudie für ein Integriertes Stadtentwicklungskonzept im Stadtteil Kalk - Kenntnis genommen
+- TOP 18.8: Zwischenbericht "Masterplan Kommunale Sicherheit" - Kenntnis genommen
+- TOP 18.9: Realisierung des Mikrodepots Deutz - Kenntnis genommen
+- TOP 18.10: Beauftragung einer künstlerischen Intervention am Waidmarkt - Kenntnis genommen
+- TOP 18.11: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen sowie der CDU-Fraktion betreffend des Bebauungsplans Nr. 63482/02 mit Arbeitstitel „Rochusstraße in Köln-Ossendorf“ - Kenntnis genommen
+- TOP 18.12: Städtebaulicher Masterplan Innenstadt - Lupenraum Via Culturalis, Sachstand und Ausblick Bundesförderprojekt „Nationale Projekte des Städtebaus“ - Kenntnis genommen
+- TOP 18.13: Ergebnis des hochbaulich-freiraumplanerischen Realisierungswettbewerbs zum Bebauungsplanverfahren "Neubau Justizzentrum Köln in Köln-Sülz" - Kenntnis genommen
+- TOP 18.14: Baugenehmigungs- und Wohnungsfertigstellungsbericht - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 19: Mündliche Anfragen
+- TOP 20: Gleichstellungsrelevante Themen
