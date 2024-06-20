@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-20T17:00:00+02:00
+- Ende: 2024-06-20T19:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30083
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30083
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO NRW "Ausweitung der Parkplätze Elvira-Tuszik-Str. 17-25 und weitere" AZ 33/24 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Spielplatz Olof-Palme-Park in Chorweiler
+- TOP 7.1.2: Lärmbelästigung von der BAB 1 in Pesch
+- TOP 7.1.3: Aktualisierung des Kinderstadtplans für den Bezirk Chorweiler
+- TOP 7.1.4: S-Bahnsituation in Chorweiler
+- TOP 7.1.5: Nutzung Regattastrecke Fühlinger See
+- TOP 7.1.6: Beantwortung einer Anfrage betr. "Monitoring der Beweidungsmaßnahme in der Rheinaue Worringen" (AN/2072/2023)
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der SPD-Fraktion Anfrage bezüglich Rückschnitt von überwuchernden Pflanzen auf dem Grasnelkenweg
+- TOP 7.2.2: Anfrage der SPD-Fraktion Anfrage Maßnahmen zur Erhöhung der Sicherheit und Sauberkeit auf Spielplätzen und in Grünanlagen
+- TOP 7.2.3: Anfrage der CDU-Fraktion Wiederaufnahme und Fortführung des Fährdienstes zwischen Langel und Hitdorf
+- TOP 7.2.4: Anfrage der Grünen-Fraktion Neue Regeln für Schottergärten am Haus
+- TOP 7.2.5: Anfrage der Grünen-Fraktion Förderungen des Sozialen Wohnungsbau in Chorweiler
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: AN/1998/2023, Neue Kinderseilbahn auf dem Spielplatz Merkenicher Hauptstr.
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen, der Fraktion Die Linke und Lilo Heinrich Förderung durch die Bezirksvertretung Chorweiler - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Gemeinsamer Antrag der CDU-Fraktion und der SPD-Fraktion Durchführung eine Verkehrszählung an der Kreuzung Pescher Straße / Escher Straße und Begehung der Schulstraße und Mengenicher Straße - ungeändert beschlossen
+- TOP 8.3.2: Antrag der SPD-Fraktion Antrag auf Einrichtung eines Zebrastreifens zur sicheren Querung für Fußgänger und Fahrradfahrer auf der Bruchstraße / Senfweg - endgültig abgelehnt
+- TOP 8.3.3: Antrag der SPD-Fraktion Antrag Einrichtung eines Behindertenparkplatzes auf dem Turkuplatz (Parkplatz) - geändert beschlossen
+- TOP 8.3.4: Antrag der SPD-Fraktion Antrag auf Zusendung des Berichts und der Dokumentation zu den Ergebnissen des Monitorings der Beweidungsmaßnahme in der Rheinaue Worringen - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßenbaumkonzept Chorweiler - zurückgestellt
+- TOP 9.1.2: Betonsanierung der Kulturbrücke in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.3: Ernennung einer Schriftführerin gem. § 31 Absatz 1 Geschäftsordnung des Rates und der Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.1.4: Beschlussvorlage für das Fahrradstraßenkonzept Chorweiler - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 9.2.2: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 9.2.3: Aufhebung des Einleitungsbeschlusses betreffend die Änderung des Bebauungsplanes 63549/04 Arbeitstitel: Florenzer Straße in Köln-Chorweiler, 4. Änderung - ungeändert beschlossen
+- TOP 9.2.4: Aufhebung des Einleitungsbeschlusses zur Änderung des Bebauungsplanes 63549/03 Arbeitstitel: Stockholmer Allee in Köln-Chorweiler, 3. Änderung - ungeändert beschlossen
+- TOP 9.2.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: "Lyoner Passage" in Köln-Chorweiler - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Neubau Rettungswache Worringen
+- TOP 10.2.2: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023
+- TOP 10.2.3: Sachstand zur Baumaßnahme an der KiTa Berrischstraße 132-136 in Köln-Roggendorf/Thenhoven, Stand November 2023
+- TOP 10.2.4: Städtebauliche Potentialanalyse zur Nutzung von Windenergie in Köln
+- TOP 10.2.5: Einrichtung von Fahrbahnverengungen auf der Pescher Straße an der Ortseinfahrt Auweiler zur Drosselung der Geschwindigkeit
+- TOP 10.2.6: Jahresbericht "Willkommen und Ankommen in Köln" 2023
+- TOP 10.2.7: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms
+- TOP 10.2.8: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW)
+- TOP 10.2.9: 41. Bericht zur Situation Geflüchteter in Köln
+- TOP 10.2.10: 42. Bericht zur Situation Geflüchteter in Köln
+- TOP 10.2.11: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Verkehrswidriges Verhalten von Autofahrenden im Mutzerather Weg in Köln-Heimersdorf
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Mündliche Anfrage der CDU-Fraktion: Förderung des ÖPNV im Kölner Norden (AN/2620/2021) und ÖPNV-Verbindungen der KVB im SB-Chorweiler (AN/0674/2024)
+- TOP 11.3: Anfragen der Seniorenvertretung
