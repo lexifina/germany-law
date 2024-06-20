@@ -1,71 +1,67 @@
-# Anlage XVIII (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIII (zu § 57b Absatz 1 und 4)Prüfung der Fahrtenschreiber
 
-1 Voraussetzungen für die Prüfung von Fahrtschreibern und Kontrollgeräten
-1.1 Fahrtschreiber und Kontrollgeräte müssen nach Maßgabe des Herstellers eingebaut sein. Fahrtschreiber und Kontrollgeräte müssen im Kraftfahrzeug so angebracht sein, dass für den Fahrer alle notwendigen Funktionen vom Fahrersitz aus zugänglich sind.
-1.2 Zum Zwecke des Einbaus müssen Kontrollgeräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 in nicht aktiviertem Zustand geliefert worden sein, wobei alle in Kapitel III Abschnitt 20 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 aufgeführten Kalibrierungsparameter auf geeignete und gültige Standardwerte eingestellt sein müssen. Liegt kein bestimmter Wert vor, müssen Buchstaben-Parameter auf „?“ und numerische Parameter auf „0“ gesetzt sein. Das Kontrollgerät muss vor der Aktivierung kalibrierfähig sein.
-1.3 Während des Einbaus müssen alle bekannten Parameter voreingestellt worden sein.
-1.4 Das eingebaute Kontrollgerät muss spätestens am endgültigen Einbaustandort aktiviert worden sein.
-1.5 Gegebenenfalls erforderliche Koppelungen zwischen dem Weg- und/oder Geschwindigkeitsgeber und der Fahrzeugeinheit müssen automatisch während der Aktivierung des Kontrollgeräts stattfinden. Die Aktivierung des Kontrollgeräts wird durch das erstmalige Einstecken einer Werkstattkarte in eine der beiden Kartenschnittstellen automatisch ausgelöst.
-1.6 Nach dem Einbau muss eine Kalibrierung erfolgt sein. Bei der Erstkalibrierung, die innerhalb von zwei Wochen nach dem Einbau oder nach der Zuteilung des amtlichen Kennzeichens für das Kraftfahrzeug erfolgt sein muss, je nachdem, welches Ereignis zuletzt eintritt, muss das amtliche Kennzeichen des Kraftfahrzeugs eingegeben worden sein.
-2 Datensicherung bei Reparatur oder Austausch des Kontrollgeräts nach Anhang I B der Verordnung (EWG) Nr. 3821/85
-  Wird im Rahmen einer Prüfung ein defektes digitales Kontrollgerät repariert oder ausgetauscht, so hat das Unternehmen, das die Prüfung durchführt, die im Speicher des defekten Geräts befindlichen Daten auf einen Datenträger zu kopieren und hierüber eine Bescheinigung nach dem Muster im Anhang zu dieser Anlage auszustellen. Die kopierten Daten sind bis zur Weitergabe an den Berechtigten, längstens jedoch für die Dauer von zwei Jahren zu speichern und nach der Weitergabe oder nach Fristablauf unverzüglich zu löschen. Ist ein Kopieren der Daten nicht möglich, so ist hierüber ebenfalls eine Bescheinigung nach dem Muster im Anhang zu dieser Anlage auszustellen. Das Unternehmen hat eine Kopie der nach Satz 1 oder Satz 3 ausgestellten Bescheinigungen für die Dauer eines Jahres in Papierform aufzubewahren.
-3 Art und Gegenstand der Prüfung
-  Bei Kraftfahrzeugen, die mit Fahrtschreibern oder Kontrollgeräten nach § 57b Absatz 1 ausgerüstet sind, ist bei der Einbauprüfung und allen weiteren Prüfungen der Fahrtschreiber und Kontrollgeräte die Einhaltung der Bestimmungen der Verordnung (EWG) Nr. 3821/85 festzustellen.
-4 Durchführung der Prüfung, Nachweise
-4.1 Prüfungen nach § 57b Absatz 1 sind nach Maßgabe der Anlage XVIIIa durchzuführen.
-4.2 Das nach Abschluss der Prüfung anzubringende Einbauschild muss folgende Angaben enthalten:
-  a) Name, Anschrift oder Firmenzeichen des anerkannten Fahrtschreiber- oder Kontrollgeräteherstellers oder der von diesem beauftragten Kraftfahrzeugwerkstatt oder Name, Anschrift oder Firmenzeichen des anerkannten Fahrzeugherstellers, des anerkannten Fahrzeugimporteurs oder der anerkannten Kraftfahrzeugwerkstatt,
-  b) Wegimpulszahl des Kraftfahrzeugs in der Form „w = … Imp/km“ bei elektronischem Fahrtschreiber oder Kontrollgerät,
-    Wegdrehzahl des Kraftfahrzeugs in der Form „w = … U/km“ bei mechanischem Fahrtschreiber oder Kontrollgerät,
-  c) Konstante des Kontrollgeräts in der Form „k = … Imp/km“,
-  d) tatsächlicher Reifenumfang in der Form „L = … mm“,
-  e) Reifengröße,
-  f) Datum der Bestimmung der Wegimpulszahl des Kraftfahrzeugs und der Messung des tatsächlichen Reifenumfangs,
-  g) Fahrzeug-Identifizierungsnummer 17-stellig (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen), und bei Verwendung eines Adapters zusätzlich folgende Angaben:
-  h) Fahrzeugteil, in das der Adapter eingebaut wird,
-  i) Fahrzeugteil, in das der Weg- oder Geschwindigkeitsgeber eingebaut wird, wenn er nicht an das Getriebe angeschlossen ist,
-  j) Farbe des Kabels zwischen dem Adapter und dem Fahrzeugteil, das seine Eingangsimpulse bereitstellt, und
-  k) Seriennummer des eingebetteten Weg- oder Geschwindigkeitsgebers des Adapters.
-4.3 Über jede durchgeführte Prüfung ist ein Nachweis zu führen. In dem Nachweis sind anzugeben:
-  a) bei Prüfungen nach § 57b Absatz 1 Halter, Hersteller, Fahrzeug-Identifizierungsnummer (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen) sowie amtliches Kennzeichen des betreffenden Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds,
-  b) bei Einbauprüfungen im Sinne des § 57b Absatz 4 die Fahrzeug-Identifizierungsnummer (bei Kontrollgeräten nach Anhang I der Verordnung (EWG) Nr. 3821/85 genügen die letzten acht Zeichen) des betreffenden Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds.
-  Der Prüfnachweis ist von dem Unternehmen, das die Prüfung durchgeführt hat, drei Jahre lang aufzubewahren und zuständigen Personen auf Verlangen zur Prüfung vorzulegen.
-5 Plombierung
-5.1 Folgende Geräteteile müssen plombiert werden:
-  a) jeder Anschluss, sofern es bei einer Trennung der Verbindung zu nicht nachweisbaren Änderungen oder nicht feststellbaren Datenverlusten kommen würde, und
-  b) das Einbauschild, es sei denn, es ist so angebracht, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt.
-5.2 Die genannten Plombierungen dürfen entfernt werden:
-  a) in Notfällen,
-  b) um einen Geschwindigkeitsbegrenzer oder ein anderes der Sicherheit im Straßenverkehr dienendes Gerät einzubauen, zu justieren oder zu reparieren, sofern das Kontrollgerät auch dann noch zuverlässig und ordnungsgemäß arbeitet und von einem anerkannten Fahrtschreiber- oder Kontrollgerätehersteller, einer von diesem beauftragten Werkstatt oder von einer anerkannten Werkstatt unmittelbar nach dem Einbau des Geschwindigkeitsbegrenzers oder des anderen der Sicherheit im Straßenverkehr dienenden Geräts, spätestens jedoch sieben Tage nach der Entfernung, wieder plombiert wird,
-  c) zur Prüfung der Funktion des Geschwindigkeitsbegrenzers im Rahmen der Hauptuntersuchung nach § 29 durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur; die Plombierung ist durch den amtlich anerkannten Sachverständigen oder Prüfer oder Prüfingenieur unmittelbar nach Abschluss der Funktionsprüfung des Geschwindigkeitsbegrenzers wieder herzustellen.
-5.3 Jede Verletzung der Plombierung muss Gegenstand einer schriftlichen Begründung sein. Die Begründung ist für die Dauer von drei Jahren aufzubewahren und den zuständigen Personen auf Verlangen zur Prüfung vorzulegen.
-Anhang (zu Anlage XVIII)
-Muster
-für eine Bescheinigung über das Herunterladen von Daten/
-über die Unmöglichkeit des Herunterladens von Daten
-Vorbemerkung
-Wird bei einem Kraftfahrzeug das Kontrollgerät ausgetauscht oder besteht die Möglichkeit, dass nach einer Reparatur nicht mehr auf die im Massenspeicher gespeicherten Daten zugegriffen werden kann, ist das betroffene Transportunternehmen davon in Kenntnis zu setzen, dass die im Kontrollgerät gespeicherten Daten entweder heruntergeladen worden sind und diesem Unternehmen auf Verlangen zur Verfügung gestellt werden, oder dass die im Kontrollgerät gespeicherten Daten nicht heruntergeladen werden konnten. Dies hat durch die Ausstellung einer Bescheinigung nach dem beigefügten Muster zu erfolgen. Bescheinigungen können in „Heftform“ und nach Bedarf in zwei- oder dreifacher Ausfertigung erstellt werden. Sie sind in der Überschrift mit der Länderkennzahl 1 für Deutschland und einer fortlaufenden Nummerierung zu versehen, die durch Schrägstrich von der Länderkennzahl abzugrenzen ist. Das Original ist zusammen mit der Rechnung für die ausgeführten Arbeiten dem Fahrer auszuhändigen oder kann dem Transportunternehmen per Post zugeleitet werden. Eine Ausfertigung verbleibt im Heft und wird bei dem Unternehmen, das die Bescheinigung ausgestellt hat, zur Prüfung durch die zuständige Behörde verwahrt.
-Die Bescheinigung ist zu unterschreiben und mit einem Firmenstempel zu versehen.
-Muster
-Bescheinigung Nummer: 1/XXXX
-Kontrollgerät nach Anhang I B der Verordnung (EWG) Nr. 3821/85
-Bescheinigung über das Herunterladen von Daten/
-über die Unmöglichkeit des Herunterladens von Daten
-1 Das Kontrollgerät, das nachfolgend unter Nummer 2 beschrieben ist und im Fahrzeug mit dem amtlichen Kennzeichen: .......... eingebaut war/ist , wurde ausgetauscht/repariert am: (Datum) ..........
-  Angaben zum Kontrollgerät
-2 Hersteller: ..........
-  Modell: .......... Seriennummer: ..........
-3 Die im Kontrollgerät gespeicherten Daten
-  a) wurden heruntergeladen und können zur Verfügung gestellt werden (siehe nachfolgende Bemerkungen)
-  b) konnten nicht heruntergeladen werden und sind daher nicht verfügbar,
-    – weil ..........
-    – folgende Versuche zur Reparatur des Kontrollgeräts, die ein Herunterladen der Daten ermöglichen sollten, wurden unternommen: ..........
-Bemerkungen
-(a) Heruntergeladene Daten können nur dem betroffenen Transportunternehmen zur Verfügung gestellt werden, das heißt dem Unternehmen, das sich mittels einer Unternehmenskarte in das Kontrollgerät eingeloggt hat.
-(b) Nur Daten, die sich auf das betroffene Transportunternehmen beziehen, können diesem Unternehmen zur Verfügung gestellt werden.
-(c) Für den Zugriff auf die Daten ist ein Berechtigungsnachweis erforderlich.
-(d) Die Daten werden nur auf Antrag übermittelt. Der Antrag ist schriftlich an die unten genannte Adresse des Unternehmens zu richten, das die Daten zur Übermittlung bereithält. In dem Antrag ist anzugeben, wie die Daten übermittelt werden sollen (zum Beispiel per Einschreiben, E-Mail etc.).
-(e) Die Daten werden nur für einen Zeitraum von zwei Jahren ab dem unter Nummer 1 genannten Tag aufbewahrt und nach Ablauf dieses Zeitraums vernichtet.
-(f) Für die Übermittlung der Daten wird ein Entgelt in Höhe von Euro .......... erhoben.
-Unternehmen, das die Daten zur Übermittlung bereithält:
-Datum, Unterschrift, Firmenstempel
+1 Allgemeines
+  Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung.
+2 Voraussetzungen für die Prüfung der Fahrtenschreiber
+2.1 Analoge Fahrtenschreiber müssen gemäß den Vorgaben des Anhangs I Kapitel 5 Nummer 1 und 2 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
+2.2 Digitale Fahrtenschreiber der ersten Generation müssen gemäß den Vorgaben des Anhangs I B Kapitel V Nummer 1 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
+2.3 Digitale Fahrtenschreiber der zweiten Generation müssen gemäß den Vorgaben des Anhangs I C Nummer 5.1 der Durchführungsverordnung (EU) 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung eingebaut sein.
+3 Datensicherung bei Austausch des digitalen Fahrtenschreibers
+  Wird im Rahmen einer Prüfung ein defekter digitaler Fahrtenschreiber ausgetauscht, so hat die Werkstatt, die die Prüfung durchführt, die im Speicher des defekten Geräts befindlichen Daten des betroffenen Transportunternehmens herunterzuladen und ihm auf dessen Verlangen zu übermitteln und hierüber eine Bescheinigung nach dem Muster in Nummer 7 auszustellen. Ist ein Herunterladen der Daten nicht möglich, so ist hierüber ebenfalls eine Bescheinigung nach dem Muster in Nummer 7 auszustellen. Die Werkstatt hat eine Kopie der nach Satz 1 oder 3 ausgestellten Bescheinigungen für die Dauer von zwei Jahren ab dem Zeitpunkt der Ausstellung aufzubewahren.
+4 Art und Gegenstand der Prüfung der Fahrtenschreiber
+  Bei Kraftfahrzeugen, die mit Fahrtenschreibern ausgerüstet sein müssen, ist bei der Prüfung der Fahrtenschreiber die Einhaltung der jeweiligen Bestimmungen der Verordnung (EWG) Nr. 3821/85, der Verordnung (EU) Nr. 165/2014 und der Durchführungsverordnung (EU) Nr. 2016/799, jeweils in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung, festzustellen.
+5 Durchführung der Prüfung der Fahrtenschreiber, Nachweise
+5.1 Prüfungen sind nach Maßgabe der Anlage XVIIIa durchzuführen. Abweichende Prüfschritte aufgrund bauartbedingter Umstände müssen im Prüfnachweis begründet und dokumentiert werden. In diesen Fällen ist dem Fahrzeughalter eine lesbare Kopie des Prüfnachweises auszuhändigen. Eine Kopie des Prüfnachweises ist zuständigen Personen auf Verlangen vorzulegen.
+5.2 Das nach Abschluss der Prüfung anzubringende Einbauschild muss folgende Angaben enthalten:
+  a) Name, Anschrift oder Firmenzeichen des anerkannten Fahrtenschreiberherstellers oder der von diesem beauftragten Kraftfahrzeugwerkstatt oder Name, Anschrift oder Firmenzeichen des anerkannten Fahrzeugherstellers oder des anerkannten Fahrzeugimporteurs,
+  b) Wegimpulszahl des Kraftfahrzeugs in der Form „w = … Imp/km“ bei der Messung von Impulsen je Kilometer,
+  c) Wegdrehzahl des Kraftfahrzeugs in der Form „w = … U/km“ bei der Messung der Umdrehungen der Räder je Kilometer,
+  d) Konstante des Fahrtenschreibers in der Form „k = … Imp/km“,
+  e) tatsächlicher Reifenumfang in der Form „L = … mm“,
+  f) Reifengröße,
+  g) Datum der Bestimmung der Wegimpulszahl des Kraftfahrzeugs und der Messung des tatsächlichen Reifenumfangs,
+  h) Fahrzeug-Identifizierungsnummer 17-stellig; bei analogen Fahrtenschreibern genügen die letzten acht Zeichen,
+  i) bei Verwendung eines Adapters zusätzlich folgende Angaben:
+    aa) Fahrzeugteil, in das der Adapter eingebaut wird,
+    bb) Fahrzeugteil, in das der Weg- oder Geschwindigkeitsgeber eingebaut wird, wenn er nicht an das Getriebe angeschlossen ist,
+    cc) Farbe des Kabels zwischen dem Adapter und dem Fahrzeugteil, das seine Eingangsimpulse bereitstellt, und
+    dd) Seriennummer des eingebetteten Weg- oder Geschwindigkeitsgebers des Adapters,
+  j) bei digitalen Fahrtenschreibern zusätzlich folgende Angaben:
+    aa) Vorhandensein oder Nichtvorhandensein einer externen GNSS-Ausrüstung,
+    bb) Seriennummer der externen GNSS-Ausrüstung,
+    cc) Seriennummer der Fernkommunikationsausrüstung,
+    dd) Seriennummern aller vorhandenen Plombierungen.
+5.2.1 Bei Fahrzeugen der Klassen M1 und N1, die mit einem Adapter nach Anhang IC Nummer 1 Doppelbuchstabe yy der Durchführungsverordnung (EU) 2016/799 oder Anhang IB Kapitel I Doppelbuchstabe rr der Verordnung (EWG) Nr. 3821/85, jeweils in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung, ausgestattet sind und bei denen das Einbauschild nicht alle der in Nummer 4.2 genannten Angaben enthalten kann, kann ein zweites zusätzliches Einbauschild verwendet werden. In diesen Fällen muss das zusätzliche Einbauschild mindestens die Angaben nach Nummer 4.2 Buchstabe i enthalten, plombiert sein, falls es sich nicht ohne Vernichtung der Angaben entfernen lässt, und an oder neben dem ersten Einbauschild angebracht werden. Ein zweites Einbauschild muss zudem Name, Anschrift oder Firmenzeichen des anerkannten Einbaubetriebes oder der beauftragten Werkstatt, der oder die den Einbau vorgenommen hat, sowie das Einbaudatum tragen.
+5.3 Über jede durchgeführte Prüfung ist ein Nachweis zu führen. In dem Nachweis sind Halter, Hersteller, Fahrzeug-Identifizierungsnummer sowie amtliches Kennzeichen des Kraftfahrzeugs, das Ergebnis der Prüfung und das Datum der Anbringung des Einbauschilds anzugeben. Bei analogen Fahrtenschreibern genügt die Angabe der letzten acht Zeichen der Fahrzeug-Identifizierungsnummer.
+  Bei Einbauprüfungen nach § 57b Absatz 4 entfällt die Pflicht zur Angabe von Halter, Hersteller und amtlichem Kennzeichen des Kraftfahrzeugs. Der Prüfnachweis ist von dem Unternehmen, das die Prüfung durchgeführt hat, drei Jahre aufzubewahren und zuständigen Personen auf Verlangen zur Kontrolle vorzulegen.
+6 Plombierung
+  Die Plombierung der Geräteteile hat zu erfolgen:
+  a) für analoge Fahrtenschreiber nach Anhang I Kapitel V Nummer 4 der Verordnung (EU) Nr. 165/2014 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung,
+  b) für digitale Fahrtenschreiber der ersten Generation nach Anhang I B Kapitel V Nummer 3 der Verordnung (EWG) Nr. 3821/85 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung,
+  c) für digitale Fahrtenschreiber der zweiten Generation nach Anhang I C Kapitel 5.3 der Durchführungsverordnung (EU) Nr. 2016/799 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung.
+7 Muster für eine Bescheinigung über das Herunterladen von Daten/über die Unmöglichkeit des Herunterladens von Daten
+  Für eine Bescheinigung über das Herunterladen von Daten/über die Unmöglichkeit des Herunterladens von Daten ist das nachfolgende Muster zu verwenden:
+  | Muster |
+  | Bescheinigung Nummer: 1/XXXX |
+  | Digitale Fahrtenschreiber |
+  | Bescheinigung über das Herunterladen von Daten/ |
+  | über die Unmöglichkeit des Herunterladens von Daten |
+  |  |
+  1 | Der Fahrtenschreiber, der nachfolgend unter Nummer 2 beschrieben ist und im Fahrzeug mit dem amtlichen Kennzeichen: .......... eingebaut war/ist*, wurde ausgetauscht am: (Datum) .......... | |
+  | Angaben zum Fahrtenschreiber |
+  2 Hersteller: ..........
+    Modell: .......... Seriennummer: ..........
+  3 Die im Fahrtenschreiber gespeicherten Daten
+    a) wurden heruntergeladen und können zur Verfügung gestellt werden (siehe nachfolgende Bemerkungen)
+    b) konnten nicht heruntergeladen werden und sind daher nicht verfügbar,
+      – weil ..........
+      – folgende Versuche zur Reparatur des Fahrtenschreibers, die ein Herunterladen der Daten ermöglichen sollten, wurden unternommen: ..........
+  Bemerkungen
+  (a) Heruntergeladene Daten dürfen nur dem betroffenen Transportunternehmen zur Verfügung gestellt werden, das heißt dem Unternehmen, das sich mittels einer Unternehmenskarte in den Fahrtenschreiber eingeloggt hat.
+  (b) Nur Daten, die sich auf das betroffene Transportunternehmen beziehen, dürfen diesem Unternehmen zur Verfügung gestellt werden.
+  (c) Die Daten werden nur für einen Zeitraum von zwei Jahren ab dem unter Nummer 1 genannten Tag aufbewahrt und nach Ablauf dieses Zeitraums vernichtet.
+  (d) Für den Zugriff auf die gespeicherten Daten ist ein Berechtigungsnachweis erforderlich.
+  (e) Die gespeicherten Daten werden nur auf Antrag übermittelt. Der Antrag ist schriftlich an die unten genannte Adresse des Unternehmens zu richten, das die Daten zur Übermittlung bereithält. In dem Antrag ist anzugeben, wie die Daten übermittelt werden sollen (zum Beispiel per Einschreiben, E-Mail etc.).
+  Unternehmen, das die Daten zur Übermittlung bereithält:
+  Datum, Unterschrift, Firmenstempel
+__________

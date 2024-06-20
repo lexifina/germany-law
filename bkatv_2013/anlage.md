@@ -577,7 +577,10 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 199 | Als Halter die Inbetriebnahme eines Kraftfahrzeugs, eines Anhängers oder einer Fahrzeugkombination angeordnet oder zugelassen, obwohl die zulässige Achslast, das zulässige Gesamtgewicht oder die zulässige Anhängelast hinter einem Kraftfahrzeug überschritten war | § 31 Absatz 2 i. V. m. § 34 Absatz 3 Satz 3 § 42 Absatz 1, 2 Satz 2 § 31d Absatz 1 § 69a Absatz 5 Nummer 3 |  |
 | 199.1 |  | bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t oder Kraftfahrzeugen mit Anhängern, deren zulässiges Gesamtgewicht 2 t übersteigt |  | Tabelle 3 Buchstabe a |
 | 199.2 |  | bei anderen Kraftfahrzeugen bis 7,5 t zulässiges Gesamtgewicht |  | Tabelle 3 Buchstabe b |
-| (200) | (aufgehoben) |  |  |
+| 200 | Als Halter eine Flüssiggasanlage nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig prüfen lässt um | § 60 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1,§ 69a Absatz 2 Nummer 20 |  |
+| 200.1 | mehr als 2 bis zu 4 Monate |  | 15 € |
+| 200.2 | mehr als 4 bis zu 8 Monate |  | 25 € |
+| 200.3 | mehr als 8 Monate |  | 60 € |
 |  | Besetzung von Kraftomnibussen |  |  |
 | 201 | Kraftomnibus in Betrieb genommen und dabei mehr Personen oder Gepäck befördert, als in der Zulassungsbescheinigung Teil I Sitz- und Stehplätze eingetragen sind, und die Summe der im Fahrzeug angeschriebenen Fahrgastplätze sowie die Angaben für die Höchstmasse des Gepäcks ausweisen | § 34a Absatz 1 § 69a Absatz 3 Nummer 5 | 60 € |
 | 202 | Als Halter die Inbetriebnahme eines Kraftomnibusses angeordnet oder zugelassen, obwohl mehr Personen befördert wurden, als in der Zulassungsbescheinigung Teil I Plätze ausgewiesen waren | § 31 Absatz 2 i. V. m. § 34a Absatz 1 § 69a Absatz 5 Nummer 3 | 75 € |
@@ -622,7 +625,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 214a | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 214a.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 180 € |
 | 214a.2 | bei anderen als in Nummer 214a.1 genannten Fahrzeugen |  | 90 € |
-| 214b | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1a |  |
+| 214b | Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 214b.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 180 € |
 | 214b.2 | bei anderen als in Nummer 214b.1 genannten Fahrzeugen |  | 90 € |
 |  | Mitführen von Anhängern hinter Kraftrad oder Personenkraftwagen |  |  |
@@ -725,14 +728,16 @@ Vorsätzlich begangene Ordnungswidrigkeiten
 | 250 | Genehmigungs- oder Erlaubnisbescheid auf Verlangen nicht ausgehändigt | § 46 Absatz 3 Satz 3 § 49 Absatz 4 Nummer 5 | 10 € |
 |  | b) Fahrerlaubnis-Verordnung |  |  |
 |  | Verkehrseinrichtungen zum Schutz der Infrastruktur |  |  |
-| 250a | Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist. | § 41 Absatz 1 i.V.m. Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu 36 bis 40, lfd. Nr. 39 (Zeichen 265) § 43 Absatz 3 Satz 2 § 49 Absatz 3 Nummer 4, 6 | 500 €Fahrverbot 2 Monate |
-|  | Aushändigen von Führerscheinen und Bescheinigungen |  |  |
-| 251 | Führerschein, Bescheinigung oder die Übersetzung des ausländischen Führerscheins auf Verlangen nicht ausgehändigt | § 4 Absatz 2 Satz 2, 3 § 5 Absatz 4 Satz 2, 3 § 48 Absatz 3 Satz 2 § 48a Absatz 3 Satz 2 § 74 Absatz 4 Satz 2 § 75 Nummer 4 § 75 Nummer 13 | 10 € |
-| 251a | Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne Begleitung geführt | § 48a Absatz 2 Satz 1 § 75 Nummer 15 | 70 € |
+| 250a | Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3 StVO) gekennzeichnet ist. | § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu 36 bis 40, lfd. Nr. 39 (Zeichen 265) § 43 Absatz 3 Satz 2 § 49 Absatz 3 Nummer 4, 6 | 500 €Fahrverbot 2 Monate |
+|  | b) Fahrerlaubnis-VerordnungAushändigen von Führerscheinen und Bescheinigungen |  |  |
+| 251 | Führerschein, Bescheinigung oder die Übersetzung des ausländischen Führerscheins auf Verlangen nicht ausgehändigt | § 4 Absatz 2 Satz 2, 3 § 5 Absatz 4 Satz 2, 3 § 48 Absatz 3 Satz 2 § 48a Absatz 3 Satz 2 § 74 Absatz 4 Satz 5 § 75 Nummer 4 § 75 Nummer 13 | 10 € |
+| 251a | Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne Begleitung geführt | § 48a Absatz 2 Satz 1 § 75 Nummer 9 | 70 € |
 |  | c) Fahrzeug-Zulassungsverordnung |  |  |
 |  | Aushändigen von Fahrzeugpapieren |  |  |
-| 252 | Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie vorgeschrieben ausgelegt | § 4 Absatz 5 Satz 1 § 13 Absatz 6 Satz 1 § 28 Satz 2 § 31 Satz 3 § 32 Absatz 2 § 52 Absatz 1 Satz 6 § 77 Nummer 4 und Nummer 22 | 10 € |
-| 253 | Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet | § 5 Absatz 1 § 77 Nummer 6 | 70 € |
+| 252 | Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf Verlangen nicht ausgehändigt | § 4 Absatz 5 Satz 1 § 13 Absatz 6 Satz 1 § 28 Satz 2 § 31 Satz 3 § 52 Absatz 1 Satz 6 § 77 Nummer 4 | 10 € |
+|  | Betriebsverbot und Beschränkungen |  |  |
+| 253 | Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet | § 5 Absatz 1 Satz 1 § 77 Nummer 6 | 70 € |
+|  | d) Straßenverkehrs-Zulassungs-OrdnungErlöschen der Betriebserlaubnis |  |  |
 | 253a | Änderungen am Fahrzeug vorgenommen oder vornehmen lassen, die zum Erlöschen der Betriebserlaubnis führen | § 19 Absatz 2 Satz 3 § 69a Absatz 2 Nummer 1a |  |
 | 253a.1 | – als Hersteller oder Importeur |  | 800 € |
 | 253a.2 | – als Gewerbetreibender |  | 400 € |

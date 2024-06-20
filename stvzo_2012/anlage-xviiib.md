@@ -1,30 +1,32 @@
-# Anlage XVIIIb (zu § 57b Absatz 3 und 4)Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIIIb (zu § 57b Absatz 3 und 4 und § 57d Absatz 1a)Prüfstellen für die Durchführung von Prüfungen der Fahrtenschreiber und der Geschwindigkeitsbegrenzer
 
 1 Allgemeines
-1.1 Prüfungen der Fahrtschreiber und Kontrollgeräte sind unter gleichen Voraussetzungen und nach gleichen technischen Standards durchzuführen.
-1.2 Prüfungen der Fahrtschreiber und Kontrollgeräte dürfen nur an Stellen durchgeführt werden, an denen die in dieser Anlage beschriebenen Einrichtungen, Ausstattungen und Unterlagen für die Durchführung der Prüfungen vorhanden sind (Prüfstellen).
-1.3 Die Einhaltung der für die eingesetzten Mess-/Prüfgeräte geltenden Vorschriften ist von dem Betreiber der Prüfungsstelle sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte bis zur Wiederherstellung des ordnungsgemäßen Zustands unzulässig.
+1.1 Der Begriff Prüfung umfasst die Prüfung der Fahrtenschreiber sowie die Prüfung der Geschwindigkeitsbegrenzer. Der Begriff Prüfung der Fahrtenschreiber umfasst die Einbauprüfung und die Nachprüfung der Fahrtenschreiber.
+1.2 Prüfungen sind unter gleichen Voraussetzungen und nach gleichen technischen Standards durchzuführen.
+1.3 Prüfungen dürfen nur an Stellen durchgeführt werden, an denen die in dieser Anlage beschriebenen Einrichtungen, Ausstattungen und Unterlagen für die Durchführung der Prüfungen vorhanden sind (Prüfstellen).
+1.4 Die Einhaltung der für die eingesetzten Mess- oder Prüfgeräte geltenden Vorschriften ist von dem Betreiber der Prüfstelle sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von Prüfungen bis zur Wiederherstellung des ordnungsgemäßen Zustands unzulässig.
+1.5 Die gespeicherten Prüfungsdaten, die Plombiereinrichtungen, die Werkstattkarten sowie die Formulare zur Bestätigung über die Unmöglichkeit des Herunterladens der Daten sind durch geeignete Maßnahmen gegen unberechtigten Zugriff und Diebstahl zu schützen.
 2 Einrichtungen und Ausstattungen
-  In Abhängigkeit von den durchzuführenden Prüfungen der Fahrtschreiber und Kontrollgeräte müssen ständig vorhanden sein:
-2.1 Grundausstattung:
-  a) Grube, Hebebühne oder Rampe,
-  b) geeigneter Rollenprüfstand oder entsprechend genaue Messeinrichtung,
-  c) geeignete Prüfgeräte für Geschwindigkeits- und Wegstreckenmessungen sowie für den entsprechenden Aufschrieb,
-  d) geeignetes Wegdrehzahlmessgerät,
-  e) Auswertegerät mit Lupe für Schaublattprüfungen,
-  f) Uhrenprüfgerät,
-  g) Prüfschablonen,
-  h) Plombiereinrichtung und Plombierungszeichen,
-  i) Reifenfüllanlage mit geeichtem Reifenluftdruckmessgerät,
-  j) Werkzeuge und weitere Messgeräte nach Weisung des Fahrtschreiber- oder Kontrollgeräteherstellers.
-2.2 Zusatzausstattung für Prüfungen an Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85:
-  a) eine Werkstattkarte nach Anhang I B der Verordnung (EWG) Nr. 3821/85,
-  b) eine Einrichtung zum Herunterladen der Kontrollgerätedaten und beim Gerätetausch zur Weitergabe der Massenspeicherdaten an den Fahrzeughalter,
-  c) ein geeignetes Prüfgerät zur Programmierung der Geräteparameter nach Anhang I B der Verordnung (EWG) Nr. 3821/85,
+2.1 Für die Durchführung der Prüfungen muss folgende Grundausstattung ständig vorhanden sein:
+  a) eine ausreichend bemessene Halle oder ein überdachter Platz in Abhängigkeit von den zu prüfenden Fahrzeugen, mit Grube, Hebebühne oder Rampe,
+  b) ein geeigneter Rollenprüfstand oder eine ebene und befestigte 20 Meter lange Prüfstrecke mit homogenem Oberflächenbelag für Lichtschrankenmessung mit stationär fest montierten Reflexleisten oder Halterungen für die Reflexleisten,
+  c) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Prüfgerät zur Ermittlung der Fahrzeugwegimpulszahl,
+  d) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Prüf-Programmiergerät für Geschwindigkeits- und Wegstreckenmessungen sowie zur Einstellung oder Programmierung der jeweils erforderlichen Geräteparameter und zur Kopplung von externen Geräten,
+  e) ein 50 Meter langes Maßband der Genauigkeitsklasse II,
+  f) ein nach den Vorgaben des Prüfgeräteherstellers verifiziertes Uhrenprüfgerät,
+  g) eine Plombiereinrichtung und ein Plombierungszeichen,
+  h) eine Reifenfüllanlage mit Reifenluftdruckmessgerät,
+  i) Werkzeuge und weitere Messgeräte nach Weisung des anerkannten Fahrtenschreiberherstellers.
+2.2 Für Prüfungen der analogen Fahrtenschreiber muss folgende Zusatzausstattung ständig vorhanden sein:
+  ein Auswertgerät mit Prüfschablone für Schaublattprüfungen.
+2.3 Für Prüfungen der digitalen Fahrtenschreiber muss folgende Zusatzausstattung ständig vorhanden sein:
+  a) eine Werkstattkarte pro verantwortlicher Fachkraft,
+  b) eine Einrichtung zum Herunterladen der Fahrtenschreiberdaten und beim Gerätetausch zur Weitergabe der Massenspeicherdaten an den Fahrzeughalter,
+  c) ein geeignetes DSRC-Prüflesegerät zur Überprüfung der Kommunikation mit Fernabfragegeräten bei den digitalen Fahrtenschreibern der zweiten Generation,
   d) eine Einrichtung für die elektronische Archivierung und Sicherung der Prüfungsdaten zu den durchgeführten Prüfungen.
-  Die gespeicherten Prüfungsdaten, die Plombiereinrichtungen, die Werkstattkarten sowie die Formulare zur Bestätigung über die Unmöglichkeit des Herunterladens der Daten sind durch geeignete Maßnahmen gegen unberechtigten Zugriff und Diebstahl zu schützen.
-2.3 Zur laufenden Unterrichtung der für die Durchführung der Prüfung eingesetzten verantwortlichen Fachkräfte sind die nachfolgend aufgeführten Unterlagen bereit und auf dem aktuellen Stand zu halten:
-  a) die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte einschlägigen Vorschriften der Straßenverkehrs-Zulassungs-Ordnung in der jeweils aktuellen Fassung,
-  b) die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfung erforderlich sind,
-  c) Technische Daten und Prüfanleitungen der in Frage kommenden Fahrtschreiber und Kontrollgeräte und
+2.4 Zur laufenden Unterrichtung der für die Durchführung der Prüfungen eingesetzten verantwortlichen Fachkräfte sind die nachfolgend aufgeführten Unterlagen bereit und auf dem aktuellen Stand zu halten:
+  a) die für die Durchführung der Prüfungen einschlägigen Vorschriften dieser Verordnung in der jeweils geltenden Fassung,
+  b) die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Digitales und Verkehr der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfungen zu beachten sind,
+  c) Technische Daten und Prüfanleitungen der zu prüfenden Fahrtenschreiber oder Geschwindigkeitsbegrenzer und
   d) eine Übersicht über die erfolgte Schulung der zur Prüfung eingesetzten Fachkräfte unter Angabe der Art der Schulung und des Datums, bis zu dem die Schulung der jeweiligen Fachkraft spätestens erneut durchgeführt werden muss.
+2.5 Soweit nach den vorstehenden Nummern eine Verifizierung vorgeschrieben ist, muss die Verifizierung der Prüfgeräte mindestens alle zwei Jahre erfolgen. Die Vorgaben der Prüfgerätehersteller zur Verifizierung sind Dritten auf Anfrage zugänglich zu machen.

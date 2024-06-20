@@ -1,26 +1,29 @@
-# Anlage XVIIId (zu § 57b Absatz 3 und 4)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
+# Anlage XVIIId (zu § 57b Absatz 3 und § 57d Absatz 1a)Beauftragung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer
 
 1 Allgemeines
-1.1 Die Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen (Anerkennungsstelle). Diese können die Befugnis auf die örtlich und fachlich zuständigen Kraftfahrzeuginnungen übertragen. Die Anerkennungsstelle darf keine Werkstatt anerkennen, die bereits von einem anerkannten Fahrtschreiber- oder Kontrollgerätehersteller nach Anlage XVIIIc beauftragt ist oder deren Anerkennung wegen Missachtung einschlägiger Vorschriften dauerhaft entzogen wurde.
-1.2 Für die nach Nummer 2.5 vorgeschriebenen Schulungen und Wiederholungsschulungen und für das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten wird eine Richtlinie im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
-1.3 Die Anerkennung nach Nummer 1.1 und die Erfüllung der in Nummer 2 bestimmten persönlichen Voraussetzungen sind Grundlage für die Zuteilung der Werkstattkarten. Die Werkstattkarte wird jeweils mit den Daten der Kraftfahrzeugwerkstatt sowie der für die Durchführung der Prüfung verantwortlichen Fachkraft personalisiert. Bei Wegfall der Prüfberechtigung der Kraftfahrzeugwerkstatt oder einer verantwortlichen Fachkraft oder beim Ausscheiden einer verantwortlichen Fachkraft aus dem Unternehmen sowie bei Nichteinhaltung der in Nummer 2.5 festgelegten Nachschulungsfrist sind die betroffenen Werkstattkarten durch die Kraftfahrzeugwerkstatt an die ausgebende Stelle zurückzugeben.
-2 Persönliche Voraussetzungen für die Anerkennung von Kraftfahrzeugwerkstätten
-2.1 Der Antragsteller, bei juristischen Personen, die nach Gesetz oder Satzungen zur Vertretung berufenen Personen, sowie die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte müssen persönlich zuverlässig sein und ein Führungszeugnis und einen Auszug aus dem Fahreignungsregister vorlegen.
-2.2 Der Antragsteller muss durch die Vorlage einer Bescheinigung der örtlich zuständigen Handwerkskammer die Eintragung in die Handwerksrolle nachweisen, dass er selbst oder der Betriebsleiter somit die Voraussetzungen nach der Handwerksordnung zur selbstständigen gewerblichen Verrichtung solcher Arbeiten erfüllt, die zur Behebung der bei der Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte festgestellten Mängel erforderlich sind.
-2.3 Der Antragsteller muss nachweisen, dass er für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortliche Fachkräfte beschäftigt. Diese müssen vom Antragsteller namentlich benannt werden.
-2.4 Der Antragsteller muss nachweisen, dass die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte über eine entsprechende Vorbildung und ausreichende Erfahrungen auf dem Gebiet der Kraftfahrzeugtechnik verfügen, wobei die verantwortlichen Fachkräfte
+1.1 Die Beauftragung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer obliegt den nach Anlage XVIIIc Nummer 1.3 Buchstabe a anerkannten Fahrtenschreiberherstellern.
+  Die Beauftragung erfolgt auf Antrag und für jede Betriebsstätte einzeln, wenn die Betriebsstätte die in Anlage XVIIIb genannten Anforderungen an die Prüfstellen erfüllt.
+  Die nach Anlage XVIIIc anerkannten Fahrtenschreiberhersteller dürfen keine Kraftfahrzeugwerkstätten beauftragen, für die bereits eine Beauftragung nach dieser Anlage besteht oder deren Beauftragung wegen Missachtung einschlägiger Vorschriften entzogen oder versagt wurde.
+1.2 Das Bundesministerium für Digitales und Verkehr gibt die Richtlinien für die nach Nummer 2.6 vorgeschriebenen Schulungen und Fortbildungsschulungen und für das Verfahren der Beauftragung von Kraftfahrzeugwerkstätten im Verkehrsblatt – Amtsblatt des Bundesministeriums für Digitales und Verkehr der Bundesrepublik Deutschland – bekannt.
+1.3 Die Beauftragung nach Nummer 1.1 und die Erfüllung der in Nummer 2 bestimmten persönlichen Voraussetzungen sind Grundlage für die Zuteilung der Werkstattkarten. Die Werkstattkarte wird jeweils mit den Daten der Kraftfahrzeugwerkstatt sowie der für die Durchführung der Prüfung verantwortlichen Fachkraft personalisiert. Bei Wegfall der Prüfberechtigung der Kraftfahrzeugwerkstatt oder einer verantwortlichen Fachkraft oder beim Ausscheiden einer verantwortlichen Fachkraft aus dem Unternehmen sowie bei Nichteinhaltung der in Nummer 2.6 festgelegten Nachschulungsfrist sind die betroffenen Werkstattkarten durch die Kraftfahrzeugwerkstatt unverzüglich an die ausgebende Stelle zurückzugeben.
+2 Persönliche Voraussetzungen für die Beauftragung von Kraftfahrzeugwerkstätten
+2.1 Der Antragsteller, bei juristischen Personen die nach Gesetz oder Satzung zur Vertretung berufenen Personen, sowie die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte müssen ihre persönliche Zuverlässigkeit nachweisen. Zu diesem Zweck soll sich die örtlich und fachlich zuständige Kraftfahrzeuginnung ein Führungszeugnis nach § 30 Absatz 5 des Bundeszentralregistergesetzes und einen Auszug aus dem Fahreignungsregister vorlegen lassen. Die Auskünfte dürfen zum Zeitpunkt der Antragsstellung nicht älter als sechs Monate sein.
+2.2 Der Antragsteller muss durch die Vorlage einer Bescheinigung der örtlich zuständigen Handwerkskammer über die Eintragung in die Handwerksrolle nachweisen, dass er selbst oder eine in der Betriebsstätte angestellte Person die Voraussetzungen nach der Handwerksordnung zur selbstständigen gewerblichen Verrichtung solcher Arbeiten erfüllt, die zur Behebung der bei der Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer festgestellten Mängel erforderlich sind.
+2.3 Der Antragsteller muss nachweisen, dass er für die Durchführung der Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer mindestens eine verantwortliche Fachkraft beschäftigt. Die Fachkräfte müssen vom Antragsteller namentlich benannt werden.
+2.4 Der Antragsteller muss nachweisen, dass die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte über eine entsprechende Vorbildung und ausreichende Erfahrungen auf dem Gebiet der Kraftfahrzeugtechnik verfügen, wobei die verantwortlichen Fachkräfte
   a) eine erfolgreiche Abschlussprüfung in einem der folgenden Ausbildungsberufe nachweisen müssen:
     aa) Kraftfahrzeugmechaniker,
     bb) Kraftfahrzeugelektriker,
     cc) Automobilmechaniker,
-    dd) Kfz-Mechatroniker,
+    dd) Kraftfahrzeugmechatroniker,
     ee) Mechaniker für Karosserieinstandhaltungstechnik,
     ff) Karosserie- und Fahrzeugbauer,
     gg) Karosserie- und Fahrzeugbaumechaniker,
     hh) Metallbauer, Fachrichtung Fahrzeugbau,
     ii) Metallbauer, Fachrichtung Nutzfahrzeugbau,
     jj) Landmaschinenmechaniker,
-    kk) Land- und Baumaschinenmechaniker oder
+    kk) Land- und Baumaschinenmechaniker,
+    ll) Land- und Baumaschinenmechatroniker, oder
   b) eine erfolgreiche Meisterprüfung in einem der folgenden Berufe nachweisen müssen:
     aa) Kraftfahrzeugmechaniker-Handwerk,
     bb) Kraftfahrzeugelektriker-Handwerk,
@@ -28,43 +31,62 @@
     dd) Karosserie- und Fahrzeugbauer-Handwerk,
     ee) Metallbauer-Handwerk (Fachrichtung Fahrzeugbau),
     ff) Metallbauer-Handwerk (Schwerpunkt Nutzfahrzeugbau),
-    gg) Landmaschinenmechaniker-Handwerk oder
-  c) als Dipl.-Ing., Dipl.-Ing. (FH) oder Ing. (grad.) der Fachrichtung Maschinenbau, Fahrzeugtechnik, Elektrotechnik oder Luft- und Raumfahrttechnik/Luftfahrzeugtechnik nachweisen müssen:
+    gg) Landmaschinenmechaniker-Handwerk,
+    hh) Land- und Baumaschinenmechatroniker, oder
+  c) als Bachelor, Master, staatlich geprüfter Techniker, Dipl.-Ing., Dipl.-Ing. (FH) oder Ing. (grad.) der Fachrichtung Maschinenbau, Fahrzeugtechnik, Elektrotechnik oder Luft- und Raumfahrttechnik/Luftfahrzeugtechnik nachweisen müssen:
     aa) eine mindestens dreijährige Tätigkeit im Kraftfahrzeugbereich (Untersuchung, Prüfung, Wartung und Reparatur) oder
     bb) eine Abschlussprüfung in den vorgenannten Ausbildungsberufen.
-2.5 Die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte verantwortlichen Fachkräfte müssen darüber hinaus eine dem jeweiligen Stand der Technik der zu prüfenden Fahrtschreiber und Kontrollgeräte entsprechende Schulung nach Maßgabe der Nummer 8 erfolgreich abgeschlossen haben, wobei die Frist für die Wiederholungsschulungen maximal 36 Monate beträgt, beginnend mit dem Monat und Jahr, in dem erfolgreich eine Abschlussprüfung nach einer erstmaligen Schulung oder einer Wiederholungsschulung abgelegt wurde. Wird die Frist um mehr als zwei Monate überschritten, ist statt einer Wiederholungsschulung eine erstmalige Schulung durchzuführen.
-2.6 Der Antragsteller muss nachweisen, dass die von ihm benannte Prüfstelle den Anforderungen der Anlage XVIIIb entspricht.
-2.7 Die Anerkennung ist nicht übertragbar.
+  Über die Anerkennung der Gleichwertigkeit von ausländischen Zeugnissen entscheidet die nach § 8 des Berufsqualifikationsfeststellungsgesetzes zuständige Stelle. Die §§ 9 bis 17 des Berufsqualifizierungsfeststellungsgesetzes sind entsprechend anzuwenden. Personen, die als Angestellte eines nach der Anlage XVIIIc anerkannten Fahrtenschreiberherstellers praxisnahe Service- und Versuchstätigkeiten durchgeführt haben, eine erfolgreiche Abschlussprüfung in einem technischen Ausbildungsberuf, der nicht in Satz 1 Buchstabe a genannt ist, und eine mindestens dreijährige Tätigkeit in diesem Bereich nachweisen können, müssen nicht den Anforderungen nach Satz 1 genügen. Personen, die keinen Abschluss in einem der in Satz 1 Buchstabe a oder b genannten Ausbildungsberufe und keinen gleichgestellten Prüfungsabschluss nach Satz 1 Buchstabe c nachweisen können, jedoch in einer mindestens dreijährigen Tätigkeit im Kraftfahrzeugbereich einschlägige Fachkenntnisse in den Fachgebieten Antriebsstrang sowie Prüfen, Messen und Einstellen von Systemen erworben haben, müssen nicht den Anforderungen nach Satz 1 genügen. In den Fällen des Satzes 5 muss vor der Schulung nach Nummer 9 eine fahrzeugtechnische Prüfung bei dem Schulungsträger erfolgreich abgelegt werden. Diese fahrzeugtechnische Prüfung muss den Anforderungen der in Nummer 1.2 genannten Richtlinien entsprechen. Personen, die bereits vor dem 20. Juni 2024 als Fachkräfte für den Einbau und die Prüfung der Fahrtenschreiber oder Geschwindigkeitsbegrenzer eingesetzt wurden, müssen nicht erneut nachweisen, dass sie die persönlichen Voraussetzungen für die Beauftragung von Kraftfahrzeugwerkstätten nach Nummer 2 erfüllen.
+2.5 Die in den Nummern 2.1 bis 2.4 genannten Nachweise sind von der örtlich und fachlich zuständigen Kraftfahrzeuginnung zu bewerten. Das Ergebnis der Bewertung ist anschließend dem anerkannten Fahrtenschreiberhersteller mitzuteilen.
+2.6 Die für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer verantwortlichen Fachkräfte müssen darüber hinaus eine dem jeweiligen Stand der Technik der zu prüfenden Geräte entsprechende Schulung nach Nummer 9 erfolgreich abgeschlossen haben. Spätestens nach 36 Monaten, beginnend mit dem Monat und Jahr, in dem erfolgreich eine Abschlussprüfung nach einer erstmaligen Schulung oder einer Fortbildungsschulung abgelegt wurde, ist eine Fortbildungsschulung erfolgreich abzulegen. Wird diese Frist um mehr als zwei Monate überschritten, ist statt einer Fortbildungsschulung eine erstmalige Schulung durchzuführen.
+2.7 Der Antragsteller muss nachweisen, dass die von ihm benannte Prüfstelle den Anforderungen der Anlage XVIIIb entspricht.
+2.8 Die Beauftragung ist nicht übertragbar.
 3 Handhabung der Werkstattkarte
 3.1 Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person sind für die ordnungsgemäße Nutzung der Werkstattkarte verantwortlich. Sie hat die verantwortlichen Fachkräfte hierüber jährlich zu belehren. Die Belehrung ist schriftlich festzuhalten.
-3.2 Die Kraftfahrzeugwerkstatt hat sicherzustellen, dass die Werkstattkarte nicht missbräuchlich oder durch unbefugte Personen verwendet wird. Sie darf nur von der verantwortlichen Fachkraft, auf die sie ausgestellt ist, verwendet werden. Sie ist innerhalb der Werkstatt sicher und gegen unbefugte Zugriffe geschützt aufzubewahren und darf außerhalb der Werkstatt nur zum ordnungsgemäßen Gebrauch mitgeführt werden, soweit dies in konkreten Einzelfällen notwendig ist. Verlust oder Diebstahl der Werkstattkarte sind der ausgebenden Behörde oder Stelle unverzüglich anzuzeigen. Gleiches gilt, wenn die verantwortliche Fachkraft unter Mitnahme der Werkstattkarte ihr Arbeitsverhältnis auflöst und die Kraftfahrzeugwerkstatt die Karte nicht beschaffen kann. Die Kraftfahrzeugwerkstatt hat nachzuweisen, dass es ihr nicht möglich ist, die Werkstattkarte zurückzuerlangen.
-3.3 Die Kraftfahrzeugwerkstatt führt zu Kontrollzwecken einen kontinuierlichen Nachweis über die jeweilige Verwendung der ihren verantwortlichen Fachkräften erteilten Werkstattkarten. Zu diesem Zweck sind die im Speicherchip der Werkstattkarten vorhandenen Daten regelmäßig auf einen Datenträger zu kopieren. Die Daten sind mindestens drei Jahre zu speichern.
-4 Nebenbestimmungen
-  Die Anerkennung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen ordnungsgemäß durchgeführt werden und dass die Sicherheit nach Maßgabe der Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 gewährleistet ist.
-5 Rücknahme der Anerkennung
-  Die Anerkennung ist zurückzunehmen, wenn bei ihrer Erteilung eine der in Nummer 2 genannten Voraussetzungen nicht vorgelegen hat. Von der Rücknahme kann abgesehen werden, wenn der Mangel nicht mehr besteht.
-6 Widerruf der Anerkennung
-  Die Anerkennung ist zu widerrufen, wenn eine der in Nummer 2 genannten Voraussetzungen weggefallen ist. Sie ist auch dann zu widerrufen, wenn die Kraftfahrzeugwerkstatt vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen hat, wenn die Prüfungen nicht ordnungsgemäß durchgeführt wurden, die Sicherheit nach Anlage 10 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 nicht gewährleistet ist oder wenn die mit der Anerkennung verbundenen Auflagen nicht eingehalten worden sind. Die Anerkennung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist.
-7 Aufsicht
-7.1. Die Anerkennungsstelle übt die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
-  a) ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
-  b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
-  c) in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist und
-  d) ob die in Nummer 8 vorgeschriebenen Schulungen durchgeführt werden.
-  Bei mindestens 10 Prozent der anerkannten Kraftfahrzeugwerkstätten müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
-7.2 Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Er hat die Kosten der Prüfung zu tragen.
-8 Schulung der verantwortlichen Fachkräfte
-8.1 Die Schulung nach Nummer 2.5 kann durchgeführt werden durch
-  a) Hersteller für Fahrtschreiber oder Kontrollgeräte,
-  b) von einem Hersteller für Fahrtschreiber oder Kontrollgeräte autorisierte und für solche Schulungen geeignete Stellen oder
-  c) vom Bundesinnungsverband des Kraftfahrzeughandwerks autorisierte und für solche Schulungen geeignete Bildungsstätten des Handwerks.
-8.2 Schulungsstätten sind den örtlich zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen unaufgefordert zu melden; dies gilt auch für die Einstellung der Schulungstätigkeit.
-8.3 Die Schulungen, die vorgeschriebenen Wiederholungsschulungen, die Schulungsinhalte sowie die Schulung der Schulungsstätten müssen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen. Die Schulungen müssen geräte- und herstellerübergreifend durchgeführt werden.
-8.4 Die in den Schulungen für Geräte nach Anhang I B der Verordnung (EWG) Nr. 3821/85 verwendeten Kontrollgeräte und Karten sind mit speziellen Test-Keys auszurüsten, um Sicherheitsrisiken wie beispielsweise einen Diebstahl und eine damit verbundene unbefugte Weiterverwendung von Schulungskarten auszuschließen.
-9 Aufsicht über das Anerkennungsverfahren und die Schulungen
-9.1 Die Aufsicht über die Anerkennungsstellen und das Anerkennungsverfahren obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen. Nummer 7.2 ist entsprechend anzuwenden.
-9.2 Die Aufsicht über die Schulungen obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen.
-  Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume der Schulungsstätten während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber oder Leiter der Schulungsstätte hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Die Schulungsstätte hat die Kosten der Prüfung zu tragen.
-10 Schlussbestimmungen
-10.1 Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung beeinflussen können, sind von ihnen der Anerkennungsstelle unaufgefordert mitzuteilen.
-10.2 Veränderungen bei Schulungsstätten, die Einfluss auf die Durchführung der Schulungen haben können, sind den nach Nummer 8.2 zuständigen Stellen unaufgefordert zu melden.
+3.2 Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person haben sicherzustellen, dass die Werkstattkarte nicht missbräuchlich oder durch unbefugte Personen verwendet wird. Sie darf nur von der verantwortlichen Fachkraft, auf die sie ausgestellt ist, verwendet werden. Sie ist innerhalb der Werkstatt sicher und gegen unbefugte Zugriffe geschützt aufzubewahren und darf außerhalb der Werkstatt nur unter den Bedingungen der Richtlinie nach Nummer 1.2 verwendet werden. Verlust oder Diebstahl der Werkstattkarte sind der ausgebenden Behörde oder Stelle unverzüglich anzuzeigen. Gleiches gilt, wenn die verantwortliche Fachkraft unter Mitnahme der Werkstattkarte ihr Arbeitsverhältnis auflöst und die Kraftfahrzeugwerkstatt die Karte nicht beschaffen kann. Die Kraftfahrzeugwerkstatt hat nachzuweisen, dass es ihr nicht möglich ist, die Werkstattkarte zurückzuerlangen.
+3.3 Die Kraftfahrzeugwerkstatt und die zur Führung der Geschäfte bestimmte Person führen zu Kontrollzwecken einen kontinuierlichen Nachweis über die jeweilige Verwendung der ihren verantwortlichen Fachkräften erteilten Werkstattkarten. Zu diesem Zweck sind die im Speicherchip der Werkstattkarten vorhandenen Daten regelmäßig zu kopieren. Die Daten sind in geeigneter Form mindestens drei Jahre zu speichern.
+4 Beschränkung der Beauftragung
+  Die Beauftragung zur Prüfung von Fahrtenschreibern kann auf die Prüfung von digitalen Fahrtenschreibern eingeschränkt werden, sofern die Voraussetzungen nach Anlage XVIIIb, mit Ausnahme der in Nummer 2.2 genannten Ausstattung, nachgewiesen sind.
+5 Nebenbestimmungen
+  Die Beauftragung kann mit Auflagen verbunden werden, die erforderlich sind, um sicherzustellen, dass die Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer ordnungsgemäß durchgeführt werden.
+6 Rücknahme der Beauftragung
+  Die Beauftragung ist zurückzunehmen, wenn bei ihrer Erteilung eine der in Nummer 2 genannten Voraussetzungen nicht vorgelegen hat. Von der Rücknahme kann abgesehen werden, wenn der Mangel nicht mehr besteht.
+7 Widerruf der Beauftragung
+7.1 Die Beauftragung ist zu widerrufen, wenn eine der in Nummer 2 genannten Voraussetzungen nachträglich weggefallen ist.
+7.2 In Einzelfällen kann zunächst das Ruhen der Beauftragung für einen bestimmten Zeitraum angeordnet werden, wenn eine der in der Anlage XVIIIb oder Nummer 2 genannten Voraussetzungen absehbar nur in einem befristeten Zeitraum nicht besteht. Wird das Fehlen der Voraussetzung nicht innerhalb des Zeitraumes des Ruhens behoben, ist die Beauftragung zu widerrufen.
+7.3 Die Beauftragung ist teilweise oder ganz zu widerrufen, wenn
+  a) der Inhaber der Beauftragung oder eine seiner verantwortlichen Fachkräfte vorsätzlich oder grob fahrlässig gegen die Vorschriften zur Durchführung der Prüfungen verstoßen haben,
+  b) die Prüfungen nicht ordnungsgemäß durchgeführt wurden oder
+  c) die mit der Beauftragung verbundenen Auflagen nicht eingehalten worden sind.
+7.4 Die Beauftragung kann widerrufen werden, wenn von ihr innerhalb von sechs Monaten kein Gebrauch gemacht worden ist oder der Antragssteller auf die Beauftragung verzichtet.
+7.5 Im Falle des Widerrufs oder der Rücknahme der Beauftragung sind die bereitgestellten Prägezangeneinsätze an die beauftragende Stelle zurückzugeben. Weiterhin ist die Möglichkeit der Durchführung weiterer Prüfungen und deren Dokumentation durch geeignete Maßnahmen durch die beauftragende Stelle zu unterbinden.
+7.6 Die zuständige Ausgabestelle für Werkstattkarten und das Kraftfahrt-Bundesamt sind von dem Widerruf der Beauftragung, wie auch von der zeitlichen Untersagung und festgestellten schwerwiegenden Abweichungen von Prüftätigkeiten einer verantwortlichen Fachkraft unverzüglich zu unterrichten.
+8 Aufsicht
+8.1 Der nach Anlage XVIIIc Nummer 1.3 Buchstabe a anerkannte Fahrtenschreiberhersteller übt die Aufsicht über die von ihm beauftragten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft er in den von ihm beauftragten Kraftfahrzeugwerkstätten,
+  a) ob die sich aus der Beauftragung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
+  b) ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtenschreiber und der Geschwindigkeitsbegrenzer durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
+  c) in welchem Umfang von der Beauftragung Gebrauch gemacht worden ist,
+  d) ob die in Nummer 9 vorgeschriebenen Schulungen durchgeführt werden und
+  e) ob die erforderliche Ausstattung nach Anlage XVIIIb vorhanden und funktionsfähig ist.
+  Bei beauftragten Kraftfahrzeugwerkstätten, die eigene Fahrzeuge prüfen, die dem Anwendungsbereich der Verordnung (EG) Nr. 561/2006 in der aus dem Anhang zu dieser Anlage ersichtlichen Fassung unterliegen, hat diese Überprüfung jährlich zu erfolgen. Bei mindestens 10 Prozent der beauftragten Kraftfahrzeugwerkstätten müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
+8.2 Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Beauftragung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Beauftragung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen.
+8.3 Falls der anerkannte Fahrtenschreiberhersteller feststellt, dass Prüfungen nicht vorschriftsgemäß durchgeführt wurden, kann er
+  a) eine erneute Prüfung der betroffenen Fahrzeuge anordnen,
+  b) die Nachschulung verantwortlicher Fachkräfte anordnen,
+  c) die Ausübung der Prüftätigkeit der verantwortlichen Fachkräfte bis zu einem Zeitraum von sechs Monaten untersagen,
+  d) den Inhaber der Beauftragung oder eine verantwortliche Fachkraft schriftlich abmahnen oder
+  e) die Beauftragung mit weiteren Auflagen verbinden, beispielsweise einer jährlichen Überwachung.
+  Satz 1 gilt nicht, wenn die Beauftragung gemäß Nummer 7 widerrufen werden muss.
+9 Schulung der verantwortlichen Fachkräfte
+9.1 Die Schulung nach Nummer 2.6 kann durchgeführt werden durch
+  a) anerkannte Fahrtenschreiberhersteller,
+  b) von einem anerkannten Fahrtenschreiberhersteller autorisierte und für solche Schulungen geeignete Stellen oder
+  c) vom Bundesinnungsverband des Kraftfahrzeughandwerks autorisierte und für solche Schulungen geeignete Bildungsstätten des Kraftfahrzeughandwerks.
+9.2 Schulungsstätten sind dem Kraftfahrt-Bundesamt unaufgefordert zu melden; dies gilt auch für die Einstellung der Schulungstätigkeit.
+9.3 Die Schulungen, die vorgeschriebenen Fortbildungsschulungen, die Schulungsinhalte sowie die Schulung der Schulungsstätten müssen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen. Die Schulungen müssen geräte- und herstellerübergreifend durchgeführt werden.
+9.4 Die in den Schulungen für digitale Fahrtenschreiber verwendeten Fahrtenschreiber und Schulungskarten sind mit speziellen Test-Keys auszurüsten, um Sicherheitsrisiken wie beispielsweise einen Diebstahl und eine damit verbundene unbefugte Weiterverwendung von Schulungskarten auszuschließen.
+10 Aufsicht über das Beauftragungsverfahren und die Schulungen
+  Die Aufsicht über die beauftragenden Stellen, das Beauftragungsverfahren und die Schulungen obliegt dem Kraftfahrt-Bundesamt. Nummer 8.2 ist entsprechend anzuwenden.
+11 Schlussbestimmungen
+11.1 Veränderungen bei beauftragten Kraftfahrzeugwerkstätten, die ihre Beauftragung beeinflussen können, sind dem anerkannten Fahrtenschreiberhersteller unaufgefordert mitzuteilen.
+11.2 Veränderungen bei Schulungsstätten, die Einfluss auf die Durchführung der Schulungen haben können, sind dem Kraftfahrt-Bundesamt unaufgefordert zu melden.

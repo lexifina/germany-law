@@ -2,7 +2,7 @@
 
 1 Durchführung und Gegenstand der Hauptuntersuchung
   Bei der Durchführung der Hauptuntersuchung (HU) hat der amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr (im Folgenden als aaSoP bezeichnet) oder der von einer amtlich anerkannten Überwachungsorganisation betraute Prüfingenieur (im Folgenden als PI bezeichnet) die Einhaltung
-  1. der für diese Untersuchung geltenden Vorschriften des § 29 und der Anlage VIII sowie
+  1. der für diese Untersuchung geltenden Vorschriften des § 29 und der Anlage VIII dieser Verordnung sowie der Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr vom 21. Juni 1975 (BGBl. I S. 1573), die zuletzt durch Artikel 1 des Gesetzes vom 16. April 2021 (BGBl. I S. 822) geändert worden ist, sowie
   2. der dazu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien
   oder, soweit solche nicht vorliegen,
   3. diesbezüglicher Vorgaben nach Nummer 2 der Anlage VIIIe für die Pflicht- und Ergänzungsuntersuchungen
