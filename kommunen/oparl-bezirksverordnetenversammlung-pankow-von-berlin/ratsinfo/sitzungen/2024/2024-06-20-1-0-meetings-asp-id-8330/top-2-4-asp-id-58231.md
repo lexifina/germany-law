@@ -1,0 +1,7 @@
+# TOP 2.4: Sprechzeiten des Wohnungsamts und Auswertung der Wohngeldanträge und Leistungsberechtigten
+
+- Sitzung: gemeinsame Öffentliche/nichtöffentliche Sitzung des Ausschusses für Bürgerdienste und Geschäftsordnung und des Ausschusses Soziales, Senior*innen und Gesundheit (2024-06-20)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=58231
+- Ergebnis: erledigt
