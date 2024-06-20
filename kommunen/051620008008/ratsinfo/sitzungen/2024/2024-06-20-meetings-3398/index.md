@@ -1,0 +1,71 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-06-20T18:36:00+02:00
+- Ende: 2024-06-20T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3398
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3398
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 3.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im Jahr 2024 für den Jahresabschluss 2023 - Kenntnisnahme
+- TOP 3.2: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Januar bis Mai 2024 - Kenntnisnahme
+- TOP 4: Beratungspunkte Ausschüsse
+- TOP 4.1: Entscheidung über Beratungspunkte aus dem Schulausschuss
+- TOP 4.1.1: Anpassung der Satzung der Stadt Grevenbroich über die Erhebung von Elternbeiträgen für die Teilnahme an Ganztags- und Betreuungsangeboten in der Sekundarstufe I - einstimmig beschlossen
+- TOP 4.2: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 4.2.1: G 239 "Herkenbuscher Weg/Erftwerkstraße“ - Aufstellung § 13a - mehrheitlich beschlossen
+- TOP 4.3: Entscheidung über Beratungspunkte aus dem Ausschuss für Strukturwandel, Arbeit, Digitalisierung und Innovation
+- TOP 4.3.1: Internationale Gartenausstellung (IGA) 2037 - Haushalt - Beschlussvorlage für den Rat - mehrheitlich beschlossen
+- TOP 4.3.2: Projektskizzeneinreichung zum Energiepfad 2.0 - einstimmig beschlossen
+- TOP 4.4: Entscheidung über Beratungspunkte aus dem Rechnungsprüfungsausschuss
+- TOP 4.4.1: Prüfung des Jahresabschlusses der Stadt Grevenbroich zum 31.12.2022 - einstimmig beschlossen
+- TOP 4.5: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 4.5.1: Feststellung des Jahresabschlusses 2020 - einstimmig beschlossen
+- TOP 4.6: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 4.6.1: Rahmenvereinbarung zwischen dem Träger Alte Feuerwache Grevenbroich e.V. und der Stadt Grevenbroich. (Ergebnis der Mediation) - einstimmig beschlossen
+- TOP 4.6.2: Freiwillige Aufwandsentschädigung bei Betreuungsausfällen in Kindertageseinrichtungen - Antrag FDP vom 24.01.2024 - einstimmig beschlossen
+- TOP 5: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 5.1: Leerstandsmanagement und Immobilienplattform (Antrag Nr.:05/2023) - Kenntnisnahme
+- TOP 5.2: Flutlichtscheinwerfer auf dem Aschenplatz in der Südstadt (Anfrage Nr.:17/2024) - Kenntnisnahme
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Antrag Mein Grevenbroich Mülltonnen vom 12.01.2024 - vertagt
+- TOP 6: Schriftliche Anträge
+- TOP 6.1: Anträge der SPD-Fraktion
+- TOP 6.1.1: Alternativen zur Deponie im Windpark prüfen (Antrag Nr.:69/2024) - einstimmig beschlossen
+- TOP 6.2: Anträge der CDU-Fraktion
+- TOP 6.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 6.3.1: Informationsveranstaltung zur Bauschuttdeponie Königshovener Höhe (Antrag Nr.:70/2024) - einstimmig beschlossen
+- TOP 6.4: Anträge der FDP-Fraktion
+- TOP 6.4.1: Sachstand zur Einführung einer landesweit einheitlichen Bezahlkarte für Flüchtlinge - Haben sich Ministerpräsident Wüst oder die Landtagsabgeordnete Troles und Rock zurückgemeldet? - einstimmig beschlossen
+- TOP 6.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 6.5.1: Baustellenabfälle Ecke vom Rath-Straße/von Droste-Straße (Antrag Nr.:62/2024) - einstimmig beschlossen
+- TOP 6.5.2: Friedhof Elsen (Antrag Nr.:63/2024) - einstimmig beschlossen
+- TOP 6.5.3: Neugestaltung Straßenbegleitgrün im ISEK-Maßnahmenraum Innenstadt (Antrag Nr.:65/2024) - einstimmig beschlossen
+- TOP 6.5.4: Spielplatz Grönland, Matthias-Esser-Straße (Antrag Nr.:64/2024) - einstimmig beschlossen
+- TOP 6.5.5: Einrichtung eines Quartiersbüros "Integration" im Bahnhofsviertel (Antrag Nr.:66/2024) - einstimmig beschlossen
+- TOP 6.6: Anträge der UWG-Fraktion
+- TOP 7: Gemeinschaftsanträge
+- TOP 7.1: Schaffung eines Autohofes im Industriegebiet Ost (Antrag Nr.:68/2024) - einstimmig beschlossen
+- TOP 8: Schriftliche Anfragen
+- TOP 8.1: Anfragen der SPD-Fraktion
+- TOP 8.2: Anfragen der CDU-Fraktion
+- TOP 8.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 8.4: Anfragen der FDP-Fraktion
+- TOP 8.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 8.5.1: Anfrage Starkregenereignisse (Anfrage Nr.:67/2024) - Kenntnisnahme
+- TOP 8.6: Anfragen der UWG-Fraktion
+- TOP 8.7: Anfragen von Einzelratsmitgliedern
+- TOP 8.7.1: Anfrage zu Windrädern im Stadtgebiet Grevenbroich (Anfrage Nr.:57/2024) - Kenntnisnahme
+- TOP 8.7.2: Anfrage zur Jugendgewalt an Schulen im Stadtgebiet Grevenbroich im Jahr 2023 (Anfrage Nr.:58/2024) - Kenntnisnahme
+- TOP 8.7.3: Anfrage zum Bürokratieabbau bei Unternehmen (Anfrage Nr.:59/2024) - Kenntnisnahme
+- TOP 8.7.4: Anfrage zur Unterbringung von geflüchteten Frauen mit Kindern (Anfrage Nr.:60/2024) - Kenntnisnahme
+- TOP 9: Mitteilungen des Bürgermeisters
+- TOP 9.1: Gesetzentwurf zur Einführung differenzierter Hebesätze bei der Grundsteuer, hier: Schreiben der - Kenntnisnahme
