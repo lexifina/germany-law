@@ -1,0 +1,22 @@
+# Fortschreibung Wasserversorgungskonzept nach § 38 Absatz 3 LWG
+
+- Körperschaft: Gemeinde Aldenhoven
+- Drucksache/Vorlage: 67/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-06-20
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfPWDt2u7koiVBk4taJqYz8
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/paper/4917
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Fortschreibung Wasserversorgungskonzept nach § 38 Absatz 3 LWG) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgmQwEVQ-Ep8GxC_nyeHo9uJgWpxmVwXNaf-ElG8bD3/Beschlussvorlage_67-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage_1_Gliederung_WVK_NRW) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRTcEoMwFSgYfM_E65_GpQVxnyDQP61w_aWuBULmiVkJ/Anlage_1_Gliederung_WVK_NRW.pdf
+- Anlage: Beschlussvorlage (Anlage_2_Tabelle_Gemeinde (1)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe1GhS1cUD5zsZF7B212ZFKyshfQYCvM5jJcH8BEWTKg/Anlage_2_Tabelle_Gemeinde_-1-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_3a_Tabelle_Versorgungsgebiet ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZoSVi30hcNSWhQoUBq97Ghopdpb-OE69XoKUg5CDXGY/Anlage_3a_Tabelle_Versorgungsgebiet_ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_3b_Beiblatt_Versorgungsgebiet (6)) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf7m0N26JX2UT7Rb25oY45Nc4jnt_XLKK-PqxZ3KEbx-/Anlage_3b_Beiblatt_Versorgungsgebiet_-6-.pdf
+- Anlage: Beschlussvorlage (Anlage_4a_Tabelle_Aufbereitung (2)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTN91NXfzrhUPDeIh_cvWuZrRK50N7Jmiif_Wa4wgKJh/Anlage_4a_Tabelle_Aufbereitung_-2-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_4b_Beiblatt_Aufbereitung (1)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUcwORcrjXj4wipLhUHVop0PLcIl9aJ71OrwlGx5imKN/Anlage_4b_Beiblatt_Aufbereitung_-1-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_5a_Tabelle_Gewinnung (1)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYaHAZ8ZgtHWeuFQ8tnD_h6yX_O5r7X_NfQBXRM7rCIJ/Anlage_5a_Tabelle_Gewinnung_-1-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_5b_Beiblatt_Gewinnung (1)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZid_Dfcd2jeNU4T4yZt3JFCf5DcfXmJFCeH4LBv6L8U/Anlage_5b_Beiblatt_Gewinnung_-1-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_6_Tabelle_Betreiber (1)ALDENHOVEN) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcnrv9oHTqIuhuqt_XeMJS26LPZXLvFc6Y1aECNjfKHO/Anlage_6_Tabelle_Betreiber_-1-ALDENHOVEN.pdf
+- Anlage: Beschlussvorlage (Anlage_7_Tabelle_Kleinanlagen (Aldenhoven)) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYCIgirGeGEJxk2qTIFtYOGv6TgF4VBubGPt1eb0DZ-n/Anlage_7_Tabelle_Kleinanlagen_-Aldenhoven-.pdf
+- Anlage: Beschlussvorlage (Entnahmen_nach_WasEG_in_Gemeinden_2021) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZFspyoZT-jAKLZWrJi1EbRS9h6gjCkZ2UdFuJLMhzE/Entnahmen_nach_WasEG_in_Gemeinden_2021.pdf
+- Beratung:  https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2004 https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
