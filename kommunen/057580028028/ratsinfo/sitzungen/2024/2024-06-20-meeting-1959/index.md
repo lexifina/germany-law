@@ -1,0 +1,62 @@
+# Gemeinderat (23. Sitzung)
+
+- Körperschaft: Gemeinde Rödinghausen
+- Beginn: 2024-06-20T19:00:00+02:00
+- Ende: 2024-06-20T22:23:00+02:00
+- Ort: Haus des Gastes, Pemberville Platz 1, 32289 Rödinghausen, Raum 12 - Großer Saal
+- Status: 
+- Gremium: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://roedinghausen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWB7Ww0ZJON5PR4B3UHYzMY
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1959
+- Quelle: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR0UV8tGvU1DKymZUlPpGuavxiy73INSK_ywgCHWVNt1/Bekanntmachung_Gemeinderat_20.06.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR0VF8paguZAyxF0Hzf1tct0giStsfqPgASQSasMgPf6/Oeffentliche_Niederschrift_Gemeinderat_20.06.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Bericht des Bürgermeisters
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Klaus-Hermann Pörtner
+- TOP 2.2: Klaus-Hermann Pörtner
+- TOP 2.3: Klaus-Hermann Pörtner
+- TOP 2.4: Dr. Ernst-Friedrich Maschmann
+- TOP 2.5: Dr. Ernst-Friedrich Maschmann
+- TOP 2.6: Dr. Peter Doss
+- TOP 2.7: Petra Doss
+- TOP 2.8: Dr. Peter Doss
+- TOP 2.9: Dieter Vogtländer
+- TOP 2.10: Dieter Vogtländer
+- TOP 2.11: Marcel Vogtländer
+- TOP 2.12: Ulrike Hekke-Massow
+- TOP 2.13: Siegfried Springer
+- TOP 3.: Änderung des Gesellschaftsvertrages der Kommunalen Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis: ohne Abstimmung
+- TOP 3.1: Änderung des Gesellschaftsvertrages der Kommunalen Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis:Einstimmig
+- TOP 4.: Anpassungen im Konsortialvertrag zwischen den Gesellschaftern der Westfalen Weser Energie & Co. KG - Beratungsergebnis:18 Ja-Stimme(n), 0 Gegenstimme(n), 7 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU0077B90/Grüne6006FDP2002Bürgermeister1001Summe180725
+- TOP 5.: Erwerb einer Beteiligung in Höhe von rd. 10 % der Anteile an der Autostrom plus GmbH durch Westfalen Weser Ladeservice GmbH sowie die Übertragung sämtlicher Anteile der Westfalen Weser Ladeservice GmbH von Westfalen Weser Beteiligungen GmbH an EWW GmbH - Beratungsergebnis:18 Ja-Stimme(n), 0 Gegenstimme(n), 6 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU0066B90/Grüne6006FDP2002Bürgermeister1001Summe180624
+- TOP 6.: Aufstockung der Anteile an der GNR Gesellschaft zur energetischen Nutzung nachwachsender Rohstoffe mbH durch die Energieservice Westfalen Weser GmbH - Beratungsergebnis:18 Ja-Stimme(n), 0 Gegenstimme(n), 7 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU0077B90/Grüne6006FDP2002Bürgermeister1001Summe180725
+- TOP 7.: Neufassung der Betriebssatzung für das Sondervermögen Abwasserbeseitigung - Beratungsergebnis:24 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU6107B90/Grüne6006FDP2002Bürgermeister1001Summe241025
+- TOP 8.: Jahresabschluss 2023 der Kommunale Entwicklungsgesellschaft Rödinghausen mbH - Beratungsergebnis:Einstimmig
+- TOP 9.: Jahresabschluss 2023 des Sondervermögens Abwasserbeseitigung der Gemeinde Rödinghausen - Beratungsergebnis:Einstimmig
+- TOP 10.: Unterbringung schutzsuchender Personen – Konzeption der Gemeinde Rödinghausen zur Erweiterung der kommunalen Unterbringungskapazitäten - Beratungsergebnis:16 Ja-Stimme(n), 7 Gegenstimme(n), 2 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU0707B90/Grüne5016FDP1012Bürgermeister1001Summe167225
+- TOP 11.: Lärmaktionsplanung gem. EU-Umgebungslärmrichtlinie (4. Runde) - Beratungsergebnis:Einstimmig
+- TOP 12.: Erhöhung des Verpflegungsbeitrages an den Grundschulen in Rödinghausen - Beratungsergebnis:25 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU6107B90/Grüne6006FDP2002Bürgermeister1001Summe241025
+- TOP 13.: Förderrichtlinie „Sonnenenergie für die Sonnenseite“ der Gemeinde Rödinghausen über die Gewährung von Zuschüssen für die Errichtung von Solar- und Speicheranlagen - Beratungsergebnis:22 Ja-Stimme(n), 0 Gegenstimme(n), 4 Stimmenthaltung(en)FraktionJa-StimmenNein-StimmenEnt-haltungenSummeSPD9009CDU7007B90/Grüne3036FDP1012Bürgermeister1001Summe210425
+- TOP 14.: Antrag der FDP-Fraktion - Einführung einer Bezahlkarte für Bezieher und Bezieherinnen von Leistungen nach dem Asylbewerberleistungsgesetz und die Zusammenarbeit mit lokalen Geschäften für vorläufig ausgestellte Gutscheine - - Beratungsergebnis: ohne AbstimmungDie FDP Fraktion zieht den Antrag, mit der Maßgabe, dass das Thema Bezahlkarte auf die Tagesordnung der nächsten Sitzung des zuständigen Fachausschuss gesetzt wird, zurück.
+- TOP 15.: Mitteilungen der Verwaltung
+- TOP 15.1: Genehmigung der Haushaltssatzung 2024
+- TOP 15.2: Neuaufstellung des Regionalplanes OWL 2040
+- TOP 15.3: Fortschreibung des Wasserversorgungskonzeptes
+- TOP 16.: Anfragen von Ratsmitgliedern
+- TOP 16.1: Ratsmitglied Bernd Sacher
+- TOP 16.2: Ratsmitglied Sebastian Hoffmann
+- TOP 16.3: Ratsmitglied Andrea Haack
+- TOP 16.4: Ratsmitglied Jens U. Garlichs
+- TOP 16.5: Ratsmitglied Tanja Maron
+- TOP 16.6: Ratsmitglied Andrea Haack
+- TOP 16.7: Ratsmitglied Reinhard Uthoff
+- TOP 16.8: Ratsmitglied Andrea Marten
+- TOP 16.9: Ratsmitglied Dirk Blank
+- TOP 16.10: Ratsmitglied Jan Rollman
+- TOP 16.11: Ratsmitglied Andrea Marten
+- TOP 16.12: Ratsmitglied Diana Heinrich
