@@ -1,0 +1,93 @@
+# 29. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-20T17:30:00+02:00
+- Ende: 2024-06-20T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29457
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29457
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Präsentation der Ergebnisse „Fußverkehrscheck Nippes“
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Spielplatz im Johannes-Giesberts-Park - zurückgestellt
+- TOP 1.2: Hundefreilauffläche Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.3: Flächennutzung Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.4: Beantwortung von Einwohneranfragen zur Sitzung der BV 5 vom 25.01.2024 betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.5: Beantwortung der Einwohneranfrage zur Sitzung der BV 5 am 25.01.2024 (0474/2024) betreffend Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO betr.: "Tempo 30 Bergstraße" Aktenzeichen 87/23 und 153/20 - geändert beschlossen
+- TOP -: Bürgereingabe "Tempo 30 Bergstraße"
+- TOP 2.2: Bürgereingabe nach § 24 GO NRW - "Umwandlung eines Teilbereichs der Stammheimer Straße in eine Einbahnstraße / Vorlage 3203/2021 - Busse bitte weiter in beide Fahrtrichtungen fahren lassen!" AZ 60/22 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fahrradparken - zurückgestellt
+- TOP 7.1.2: Grethenstraße in Longerich - zurückgestellt
+- TOP 7.1.3: Umsetzung des Landschaftspflegerischen Begleitplan an der KVB-Abstellanlage in Weidenpesch - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/ Die Grünen aus der Sitzung der Bezirksvertretung 5 (Nippes) vom 31.08.2023 betr. Umsetzung des Landschaftspflegerischen Begleitplan an der KVB-Abstellanlage in Weidenpesch - Kenntnis genommen
+- TOP 7.1.4: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - zurückgestellt
+- TOP 7.1.5: Zweiter Zaun der Mathilde-von-Mevissen-Schule - zurückgestellt
+- TOP 7.1.6: Herstellung von Barrierefreiheit im Stadtbezirk - zurückgestellt
+- TOP 7.1.7: Lärmschutz im Stadtbezirk Nippes - zurückgestellt
+- TOP 7.1.8: Clouth-Quartier als Fahrradzone (Bezugnahme auf AN/1083/2020) - zurückgestellt
+- TOP 7.1.9: Anmeldesituation bei weiterführenden Schulen - zurückgestellt
+- TOP 7.1.10: Karnevalsumzüge - Verbesserungen beim Wurfmaterial und Sammelstellen - zurückgestellt
+- TOP 7.1.11: Parken auf Etzelstraße - Einschränkung "Nur für PKW" möglich? - zurückgestellt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Weiterer Zebrastreifen in der Nesselrodestraße - zurückgestellt
+- TOP 7.2.2: versiegelte Verkehrsfläche Theklastraße - zurückgestellt
+- TOP 7.2.3: Bauprojekt Appartementhaus „The Flag“, Neusser Straße 159 - zurückgestellt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Mülheimer Brücke: Zwei Spuren ausschließlich für den Radverkehr
+- TOP 8.1.2: Fahrradnadeln an der KVB-Haltestelle „Nesselrodestraße“ - ungeändert beschlossen
+- TOP 8.1.3: Kostenloses öffentliches Trinkwasser im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.1.4: Bolzplatz Blücherpark - endgültig abgelehnt
+- TOP 8.1.5: Namibiastraße - kein Parken gegenüber Einzelgaragen - ungeändert beschlossen
+- TOP 8.1.6: Öffnung des Parkplatzes Blücherpark - ungeändert beschlossen
+- TOP 8.1.7: Stadtverschönerungsmittel für Bäume - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Mülheimer Brücke: Zwei Fahrspuren ausschließlich für Radverkehr - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung von drei Planstraßen im Baugebiet Simonskaul in Köln-Weidenpesch - geändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an den Gesellschaftskreis St. Quirinus - geändert beschlossen
+- TOP 9.1.3: Vergabe bezirksorientierter Mittel an die OT Werkstattstraße - 1 - geändert beschlossen
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an die OT Werkstattstraße - 2 - geändert beschlossen
+- TOP 9.1.5: Vergabe bezirksorientierter Mittel an Humba e.V. - geändert beschlossen
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an Engel & Esel Produktionen - geändert beschlossen
+- TOP 9.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.9: Vergabe bezirksorientierter Mittel an die Kölner Spielewerkstatt e.V. - 1 - geändert beschlossen
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an die Kölner Spielewerkstatt e.V. - 2 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 9.2.2: Baubeschluss zur Aufzugsnachrüstung und Herstellung der Barrierefreiheit an der Stadtbahnhaltestelle Lohsestraße - ungeändert empfohlen
+- TOP 9.2.3: Bedarfsfeststellungs- und Planungsbeschluss zur Nachrechnung und Erstellung eines Instandsetzungskonzeptes für die Hochbahn Linie 13 - ungeändert empfohlen
+- TOP 9.2.4: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - ungeändert empfohlen
+- TOP 9.2.5: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück, für ein 3/5-zügiges Gymnasium mit 3-fach Sporthalle im Stadtbezirk Nippes - ungeändert empfohlen
+- TOP 9.2.6: Beschluss über die Aufstellung eines Bebauungsplans - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bezug eines neuen Gerätehauses für die Löschgruppe Longerich - Kenntnis genommen
+- TOP 10.2.2: Flächenbericht 2023 zu den Objekten im Portfolio der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2023 - Kenntnis genommen
+- TOP 10.2.3: Zoobrücke / Stadtautobahn B55a - passive Schutzeinrichtungen - Kenntnis genommen
+- TOP 10.2.4: Niederschrift der 8. Sitzung des Gestaltungsbeirates am 19.03.2024 - Kenntnis genommen
+- TOP 10.2.5: Sportentwicklungsplanung - Innovation durch öffentliche Sportangebote - Kenntnis genommen
+- TOP 10.2.6: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote „Kölle aktiv 2024„– Sundaach aktiv und Start des Sommerprogramms - Kenntnis genommen
+- TOP 10.2.7: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.8: Gesamtinstandsetzung Mülheimer Brücke – Sachstand Teilbauwerke - Kenntnis genommen
+- TOP 10.2.9: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.10: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.11: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 10.2.12: Energetische Quartierssanierung: 1. KfW 432 Quartierskonzept - Kenntnis genommen
