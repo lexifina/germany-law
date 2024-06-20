@@ -1,0 +1,51 @@
+# Rat der Gemeinde Schiffdorf (3. Sitzung)
+
+- Körperschaft: Gemeinde Schiffdorf
+- Beginn: 2024-06-20T19:07:00+02:00
+- Ende: 2024-06-20T20:44:00+02:00
+- Ort: Rathaus Schiffdorf, Brameler Straße 13, 27619 Schiffdorf, Ratssaal
+- Status: 
+- Gremium: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://schiffdorf.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWdgEjq3NTQ467EH9oFR6OU
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5692
+- Quelle: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Schiffdorf) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3M4Vx7d6kJ_FY-rpP8ML5VWOFiypWWcLbI4hTAMiaE/Bekanntmachung_Rat_der_Gemeinde_Schiffdorf_20.06.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Schiffdorf) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWwRF2FNHNU1N_WeKEutxJUOdwWW2Xll2PVMijIE2Rfc/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Schiffdorf_20.06.2024.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentliche Sitzung
+- TOP 1.: Eröffnung der Sitzung
+- TOP 2.: Feststellung der ordnungsgemäßen Ladung und der anwesenden Mitglieder
+- TOP 3.: Feststellung der Beschlussfähigkeit
+- TOP 4.: Feststellung der Tagesordnung und der dazu vorliegenden Anträge
+- TOP 5.: Genehmigung der öffentlichen Niederschrift über die Sitzung des Rates der Gemeinde Schiffdorf vom 14.03.2024
+- TOP 6.: Genehmigung der öffentlichen Niederschrift über die Sitzung des Rates der Gemeinde Schiffdorf vom 08.04.2024
+- TOP 7.: Mitteilungen des Bürgermeisters zu wichtigen Angelegenheiten der Gemeinde
+- TOP 8.: Einwohnerfragestunde
+- TOP 9.: Umbesetzung des Verwaltungsausschusses und weiterer Fachausschüsse - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Antrag CDU Sachstand "Am Oesterling" - (kein Text vorhanden)
+- TOP 11.: Antrag CDU Baugebot - 21 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Veräußerung der gemeindeeigenen Waldfläche Flurstück 2 der Flur 124, Gemarkung Sellstedt, 6.094 m² - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 13.: Veräußerung des gemeindeeigenen Grundstücks Flurstück 151 der Flur 109, Gemarkung Bramel (Erbbaugrundstück, Amselweg 3) - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Annahme von Spenden, Schenkungen und ähnlichen Zuwendungen im Haushaltsjahr 2024 - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 15.: Entlassung des Ortsbrandmeisters der Freiwilligen Feuerwehr Schiffdorf, Ortsfeuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 16.: Ernennung des Gemeindebrandmeisters der Freiwilligen Feuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 17.: Entlassung des stellvertretenden Gemeindebrandmeisters der Freiwilligen Feuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18.: Ernennung eines stellvertretenden Gemeindebrandmeisters der Freiwilligen Feuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 19.: Ernennung des stellvertretenden Gemeindebrandmeisters der Freiwilligen Feuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Ernennung des stellvertretenden Ortsbrandmeisters der Freiwilligen Feuerwehr Schiffdorf, Ortsfeuerwehr Wehden - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 21.: Ernennung des Ortsbrandmeisters der Freiwilligen Feuerwehr Schiffdorf, Ortsfeuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 22.: Ernennung des stellvertretenden Ortsbrandmeisters der Freiwilligen Feuerwehr Schiffdorf, Ortsfeuerwehr Schiffdorf - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23.: Auflösung der Löschgruppe Laven, Ortsfeuerwehr Spaden - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 24.: Sechste Änderungssatzung der Gemeinde Schiffdorf über die Erhebung von Gebühren und Auslagen für Dienst- und Sachleistungen der Feuerwehren der Gemeinde Schiffdorf außerhalb der unentgeltlich zu erfüllenden Pflichtaufgaben - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 25.: Erhöhung der Hortgebühren zum Kindergartenjahr 2024/25 - 21 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 26.: Erhöhung der Krippengebühren zum Kindergartengartenjahr 2024/25 - 12 Ja-Stimme(n), 2 Gegenstimme(n), 8 Stimmenthaltung(en)
+- TOP 27.: Änderung der Benutzungs- und Gebührenordnung für die Kitas - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 28.: Einführung eines Benutzungsentgelts für die außerschulische Nutzung - 0 Ja-Stimme(n), 22 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 29.: Änderung der Richtlinie für die außerschulische Nutzung - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 30.: Änderung der Richtlinie der Musikschule - (kein Text vorhanden)
+- TOP 31.: Bebauungsplan Nr. 116 "Im Breden", Ortschaft Bramel (Ergebnis reguläre Beteiligung; Satzungsbeschluss) - 22 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 32.: Behandlung von Anfragen und Anregungen
+- TOP 33.: Einwohnerfragestunde
+- TOP 34.: Schließung der Sitzung
