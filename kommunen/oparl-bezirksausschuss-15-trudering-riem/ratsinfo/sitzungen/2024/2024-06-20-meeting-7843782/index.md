@@ -1,0 +1,204 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2024-06-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7843782
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7843782
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.2.1.: Protokollentwürfe der Sitzung am 16.05.2024
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Budget und Allgemeines
+- TOP 2.1.1.: (E) Stadtbezirksbudget Truderinger Musikverein e.V. Neubeschaffung von 20 Trachtenhüten, 01.06.2024 1.553,31€; AZ 0262.0-15-0551
+- TOP 2.1.2.: (E) Stadtbezirksbudget FabLab München e.V. MINT -hands-on für Grund- und Mittelschüler aus Trudering-Riem vom 16.09.2024 -31.03.2025 7.532,00€; Az. 0262.0-15-0559
+- TOP 2.1.3.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering von 1874 e.V. Zelt und Pavillion für Veranstaltungen ab 15.06.2024 1.216,96€; Az. 0262.0-15-0558
+- TOP 2.1.4.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. -31.07.2024 2.322,90€; Az. 0262.0-15-0560
+- TOP 2.1.5.: (E) Stadtbezirksbudget Initiative KopfbauT e.V. MITeinander MITmensch MIThelfen MITmachen vom 27.06. -23.07.2024 4.500,00€; Az. 0262.0-15-0553
+- TOP 2.1.6.: (E) Stadtbezirksbudget animato münchner orchester e.V. Vorbereitung und Durchführung des Konzerts in Riem vom 14.06. -23.06.2024 2.090,00€; Az. 0262.0-15-0561
+- TOP 2.1.7.: (E) Stadtbezirksbudget Init. "Wunderbuch" "Wunderbuch + ein Wunderbuch für jedes Kind" vom 01.10.2024 -30.09.2025 3.200,00€; Az. 0262.0-15-0562
+- TOP 2.1.8.: (E) Stadtbezirksbudget Jugendsozialarbeit frei.raum Trudering, KJR Boxtraining vom 10.06. -27.07.2024 1.000,00€; Az. 0262.0-15-0557
+- TOP 2.1.9.: (E) Stadtbezirksbudget TSV Trudering e.V. Erwerb neuer Basketbälle ab 28.06.2024 629,58€; Az. 0262.0-15-0566
+- TOP 2.1.10.: (E) Stadtbezirksbudget Bürgerzentrum Trudering e.V. Truderinger Lesebühne vom 24.06. -16.12.2024 3.178,00€; Az. 0262.0-15-0565
+- TOP 2.1.11.: (E) Stadtbezirksbudget Chorgemeinschaft St. Peter und Paul Trudering Festliches Orgelkonzert zur Truderinger Festwoche am 23.06.2024 225,00€; 0262.0-15-0564
+- TOP 2.1.12.: (E) Stadtbezirksbudget Echo e.V. Neugestaltung des Jugendcafes im Quax für niederschwellige, regelmäßige Öffnung ab 31.05.2024 3.000,00€; Az. 0262.0-15-0556
+- TOP 2.1.13.: (E) Stadtbezirksbudget Imfff e.V. Vortrag/Fortbildung: Neue Autorität -Stärkung von Eltern und Lehrer vom 30.05. -15.07.2024 200,00€; Az. 0262.0-15-0554
+- TOP 2.1.14.: (E) Stadtbezirksbudget Imfff e.V. JUMPA (Jungen und Männerpädagogische Angebote) vom 30.05. -30.11.2024 7.500,00€; Az. 0262.0-15-0555
+- TOP 2.1.15.: (E) Stadtbezirksbudget SOS-Kinderdorf e.V. Sommerfest zum 10 jährigen Jubiläum am 11.07.2024 896,00€; Az. 0262.0-15-0567
+- TOP 2.2: UA Bau und Mobilität
+- TOP 2.3: UA Stadtteilentwicklung
+- TOP 2.4: UA Planung
+- TOP 2.5: UA Schule, Soziales und Kultur
+- TOP 2.6: UA Umwelt, Energie und Klimaschutz
+- TOP 2.7: ohne Vorbereitung im UA
+- TOP 3: Anliegen von Bürger*innen
+- TOP 3.1: UA Budget und Allgemeines
+- TOP 3.2: UA Bau und Mobilität
+- TOP 3.2.1.: Karlsburger Straße: Aufstellung von Verkehrsleitpfosten
+- TOP 3.2.2.: Trudering: Verhinderung des Gehwegparkens durch einseitige Parkverbote
+- TOP 3.2.3.: Friedrich-Creuzer-Straße: Errichtung einer Haltverbotszone und Schaffung von Parkbuchten und eines Radweges
+- TOP 3.3: UA Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Erhalt der Geburtshilfe in Neuperlach
+- TOP 3.6: UA Umwelt, Energie und Klimaschutz
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1: UA Budget und Allgemeines
+- TOP 4.2: UA Bau und Mobilität
+- TOP 4.2.1.: Projekt „Ottobahn“ für eine Verbindung zwischen den neuen Wohngebieten am Rappenweg, dem 5. Bauabschnitt, mit Anschluss der Riem ARCADEN und der Messe München
+- TOP 4.3: UA Stadtteilentwicklung
+- TOP 4.4: UA Planung
+- TOP 4.5: UA Schule, Soziales und Kultur
+- TOP 4.6: UA Umwelt, Energie und Klimaschutz
+- TOP 4.6.1.: Baum statt Pflaster
+- TOP 4.7: ohne Vorberatung im UA
+- TOP 4.7.1.: Pilotprojekt im Straßenbegleitgrün
+- TOP 4.7.2.: Trinkwasserbrunnen für KITAs und Schulen
+- TOP 4.7.3.: Austausch von Bäumen auf zwei Plätzen in der Messestadt
+- TOP 4.7.4.: Klinikum Neuperlach sozial gestalten
+- TOP 4.7.5.: „Frischzellenkur“? Und deshalb wird der Aufzug an der S-Bahnstation Gronsdorf für ein halbes Jahr außer Betrieb gesetzt?
+- TOP 4.7.6.: 25 Jahre U-Bahn nach Trudering-Riem: Wie hoch ist die Nutzung?
+- TOP 4.7.7.: Abgeschlossene Wohnraummindestgrößen festschreiben – prekäre Wohnverhältnisse vermeiden
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1: UA Budget und Allgemeines
+- TOP 5.1.1.: Ein wachsender Stadtbezirk - macht einen weiteren Standort für ein Einsatzfahrzeug für einen Notarzt erforderlich
+- TOP 5.1.2.: Hilfsfrist für Rettungsdienste im gesamten Stadtbezirk einhalten
+- TOP 5.1.3.: BA-Rechte ernst nehmen – Anhörungsrecht des BA zu verkehrsordnenden Maßnahmen
+- TOP 5.2: UA Bau und Mobilität
+- TOP 5.2.1.: Friedenspromenade - Anpassen an den Bedürfnissen der hohen Nutzungsfrequenz durch einen Zweirichtungs - Fuß- und Radweg
+- TOP 5.2.2.: Schranke zum Schutz des öffentlichen Raums zwischen Förderschule und Berufsschule
+- TOP 5.2.3.: Am Hochacker: Bau eines Bürgersteiges für Schulkinder und Parkbeschränkungen für Nicht-Anlieger - Übernahme Antrag BV als Bürgeranliegen -
+- TOP 5.2.4.: Maßnahmen zur Erhöhung der Verkehrssicherheit auf dem Schulweg zum Gymnasium Messestadt-Riem
+- TOP 5.2.5.: Waldtrudering: Zustand der Fahrbahnen, Gehwegparken und fehlendes Carsharing-Angebot
+- TOP 5.2.6.: Schwablhofstraße: Einrichtung einer Querungshilfe
+- TOP 5.2.7.: Selma-Lagerlöf-Straße: Erhebliche Gefahr sowie Lärmbelästigung durch Raser
+- TOP 5.2.8.: Ladestationen im Stadtbezirk erweitern
+- TOP 5.2.9.: Wann und Wie geht es weiter mit dem Ausbau der Ladeinfrastruktur?
+- TOP 5.2.10.: Wasserburger Landstraße: Situation für Radfahrende verbessern, ohne „das Kind mit dem Bade auszuschütten“
+- TOP 5.2.11.: Gemeinsames Rad(vorrang)-Netz-Hearing mit den BA 13, 14, 15 und 16
+- TOP 5.2.12.: Ausbau der Bundesautobahn A94 auf 6 Spuren im Münchner Stadtgebiet nicht mehr zeitgemäß – Streichung der Pläne im Bundesverkehrswegeplan (BVWP)
+- TOP 5.2.13.: Bauliche Veränderungen am Bahnhof Riem
+- TOP 5.2.14.: Solalindenstraße: Einrichtung eines einseitigen Parkverbots
+- TOP 5.2.15.: Sulzweg / Kästlenstraße: Einrichtung eines einseitigen Haltverbots
+- TOP 5.2.16.: Heilwigstraße: Einrichtung eines einseitigen Haltverbots zwischen Marthastraße und Friedenspromenade
+- TOP 5.2.17.: BSA Feldbergstraße: Neugestaltung der Verkehrssituation
+- TOP 5.2.18.: Wasserburger Landstraße / Rotkehlchenweg: Neugestaltung des Knotenpunkts stadteinwärts, Rückbau der ampelfreien Abbiegespur
+- TOP 5.2.19.: Einladung des BA 15 zu Bereisungen der Bereisungskommission
+- TOP 5.2.20.: 9 bzw. 7 Jahre später: Was hat die Stadt München in puncto barrierefreie Waldwege seit 2013/2015 zu Wege gebracht?
+- TOP 5.2.21.: Pfad zwischen Haffstraße und Horst-Salzmann-Weg dauerhaft herrichten
+- TOP 5.3: UA Stadtteilentwicklung
+- TOP 5.4: UA Planung
+- TOP 5.4.1.: Baugenehmigungen an Nachbarn wirklich zustellen!
+- TOP 5.5: UA Schule, Soziales und Kultur
+- TOP 5.5.1.: Experimente-Busse
+- TOP 5.5.2.: Messestadt: Errichtung eines zusätzlichen Bolzplatzes
+- TOP 5.5.3.: Ausstellung von Kunstwerken von Künstler*innen aus dem Stadtbezirk im Impfzentrum
+- TOP 5.6: UA Umwelt, Energie und Klimaschutz
+- TOP 5.6.1.: Nachrüstung der Gebäudeleitsysteme in der Messestadt Riem und Darstellung der Rücklauftemperatur beim neuen Schulcampus
+- TOP 5.6.2.: Restmüll reduzieren – Anreize schaffen
+- TOP 5.6.3.: KFZ-Verkehr in Grünstreifen
+- TOP 5.7: ohne Vorberatung im UA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Budget und Allgemeines
+- TOP 7.1.1.: Veranstaltung auf öffentlichem Verkehrsgrund: KunstSpielOrteRiem Projekt "Wheel of Riem" am 19. / 20.07.2024 am Willy-Brandt-Platz
+- TOP 7.1.2.: Änderung der BA-Satzung: Beteiligung des BA bei Maßnahmen im Bereich des von der OMG GmbH und SWM verwalteten Olympiageländes Antrag des BA 11 Milbertshofen - Am Hart
+- TOP 7.1.3.: Änderung der BA-Satzung: Mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen Empfehlung Nr. 20-26 / E 01779 des Stadtbezirkes 21 - Pasing-Obermenzing
+- TOP 7.1.4.: Änderung der BA-Satzung: Stärkung der Entscheidungsrechte der Bezirksausschüsse Empfehlung Nr. 20-26 / E 01885 des Stadtbezirkes 14 - Berg am Laim
+- TOP 7.2: UA Bau und Mobilität
+- TOP 7.2.1.: Mobilitätsstrategie 2035; Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 7.2.2.: Abstimmung zum neuen Radverkehrsnetz für München - IR III (Radvorrangrouten, RVR)
+- TOP 7.2.3.: Geplante Durchführung des Lauf- und Suchspiels "kreuz & quer" vom 25.09 - 06.11.2024 in Riem
+- TOP 7.2.4.: Astrid-Lindgren-Straße: Änderung des Zusatzzeichens bei Halteverbot
+- TOP 7.2.5.: Schmuckerweg: Ermöglichung des Erwerbs von MVV Fahrkarten im Schreibwarengeschäft Anhörung des BA vor OB-Entscheidung
+- TOP 7.3: UA Stadtteilentwicklung
+- TOP 7.3.1.: Münchner Nordosten: Beschlussentwurf zur Behandlung von Anträgen und Empfehlungen
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Bajuwarenstr. 46 - Neubau eines Studentenwohnheimes mit 30 Studentenapartments und 3 Duplexgaragen mit 6 Stp.
+- TOP 7.4.2.: Unnützstr. 12 - Neubau eines Mehrfamilienhauses mit Duplexgaragen
+- TOP 7.4.3.: Riemer Str. 362 - Neubau von 4 Mehrfamilienhäusern mit 37 Wohnungen und einer Tiefgarage mit 37 Stellplätzen
+- TOP 7.4.4.: Zeisigweg 17 - Neubau von zwei Mehrfamilienhäusern und einem Einfamilienhaus mit Tiefgarage - Änderungsantrag zu 1.2-2023-24143-32
+- TOP 7.4.5.: Königseestr. 44 - Neubau eines Vierfamilienhauses mit Garage - Änderungsantrag zu 1.2-2022-3423-32 - hier: Nachtrag KG - Wohnraum im Sinne Art. 45 BayBO
+- TOP 7.4.6.: Xaver-Weismor-Str. 77 - Um/Neubau eines Wohngebäudes mit 4 Wohneinheiten
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Neubau einer Einrichtung der offenen Kinder- und Jugendarbeit im 5. Bauabschnitt
+- TOP 7.5.2.: Geburtshilfe Neuperlach: Beschlussentwurf zur Verlegung an den Standort der München Klinik Harlaching
+- TOP 7.6: UA Umwelt, Energie und Klimaschutz
+- TOP 7.6.1.: Bajuwarenpark: Standortbeurteilung zur Errichtung einer WC-Anlage
+- TOP 7.6.2.: Novellierung der Baumschutzverordnung der Landeshauptstadt München
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Birkhahnweg 50a Elisabeth-zu-Guttenberg-Str. 20 Leonhardiweg 19 Sansibarstr. 7
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: Askaripfad 14 Bartholomäer Str. 1 Dachsteinstr. 12a Damaschkestr. 14a Florastr. 46 Riemer Str. 362 Sansibarstr. 8b Schwanenweg 8 Sulzer-Belchen-Weg 19a Talerweg 3 Von-Erckert-Str. 92 Weißpfennigweg 24 Xaver-Weismor-Str.77 Zehntfeldstr. 124
+- TOP 9: Berichte des/der Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1: Berichte des/der Vorsitzenden
+- TOP 9.1.1.: Terminankündigungen
+- TOP 9.1.2.: Gemeinde Haar: 45. Änderung des Flächennutzungplanes Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.3.: Veranstaltung in einer städtischen Grünanlage: Sommerfest mit Hüpfburg am 21.06.2024 im Riemer Park neben dem Kindertageszentrum Haus am See Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.4.: Einsatz von AKIM in der Messestadt
+- TOP 9.1.5.: Veranstaltung auf öffentlichem Verkehrsgrund: Public Viewing Veranstaltung EURO 2024 auf dem Willy-Brandt-Platz im Zeitraum 14.06.2024 – 14.07.2024 Vorabstellungnahme nach § 20 Abs. 1 BA-Satzung
+- TOP 9.1.6.: Riemer Park: Verlegung des Gesundheitstags vom Platz der Menschenrechte in den Riemer Park Vorabstellungnahme nach § 20 Abs.1 BA-Satzung
+- TOP 9.2: Berichte der UA-Vorsitzenden und Beauftragten
+- TOP 9.2.1.: Sperberstraße / Turnerstraße: Überprüfung der Kreuzung auf Sichtbeeinträchtigungen im Hinblick auf die Schulwegsicherheit
+- TOP 9.2.2.: Rundgang mit dem 2. Bürgermeister zum Thema Kinder- und Jugendkriminalität in der Messestadt Riem
+- TOP 9.2.3.: Prüfung des Denkmalschutzes: a) Unnützstr. 12 b) Wasserburger Landstr. 272
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Budget und Allgemeines
+- TOP 10.1.1.: Drehgenehmigungen und Versammlungsanzeigen
+- TOP 10.1.2.: Veranstaltung in einer städtischen Grünanlage: Kunstaktion "TetrapAct-on-foodwaste" im Riemer Park vom 26.07.2024 bis 31.07.2024
+- TOP 10.1.3.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 10.1.4.: Verwendungsnachweise des Stadtbezirksbudgets
+- TOP 10.2: UA Bau und Mobilität
+- TOP 10.2.1.: Truderinger Ortskern: Verhinderung des Gehwegparkens
+- TOP 10.2.2.: Baumaßnahme der Stadtwerke München: a) Waldschulstraße b) Erich-Giese-Straße
+- TOP 10.2.3.: Platz der Menschenrechte: Beginn der Sanierungsmaßnahmen
+- TOP 10.2.4.: Verkehrsrechtliche Anordnungen nach §45 StVO: a) Ilse-von-Twardowski-Platz
+- TOP 10.2.5.: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2) Produkt 34511500 Geodaten Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 38511200 Stadtplanung Produkt 45561100 Umweltvorsorge Beschluss über die Finanzierung für die Jahre 2024 – 2027 Änderung des Mehrjahresinvestitionsprogrammes 2024 - 2028
+- TOP 10.2.6.: (U) Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 10.3: UA Stadtteilentwicklung
+- TOP 10.3.1.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Stellungnahmen der Lokalbaukommission zu behandelten Bauvorhaben: a) Königsseestr. 35
+- TOP 10.4.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: a) Friedenspromenade 92
+- TOP 10.4.3.: Aktueller Sachstand zur Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens an der Wasserburger Landstraße 7
+- TOP 10.4.4.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Aktualisierte Übersicht über Unterkunftsstandorte für Geflüchtete und Obdachlose
+- TOP 10.5.2.: Kreuzerweg 28: Dienststellenverständigung zur Übergabe des fertiggestellten Horts
+- TOP 10.5.3.: Jahresbericht Allparteiliches Konfliktmanagement in München (AKIM)
+- TOP 10.6: UA Umwelt, Energie und Klimaschutz
+- TOP 10.6.1.: Landshamer Straße: Unterrichtung über das Abbrennen eines Feuerwerks (Isle of Summer Festival)
+- TOP 10.6.2.: Aktueller Sachstand zur Errichtung eines Mobilfunkmasten in der Waldstraße
+- TOP 10.6.3.: Imissionsschutzrechtliche Ausnahmezulassung zur Herstellung von Reinigungsöffnungen: a) Bajuwarenstraße 98 b) Truderinger Straße 265
+- TOP 10.6.4.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 10.6.5.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 10.6.6.: Informationsabend des Baureferats zu den Themen Trinkbrunnen und Mandumstellung im Straßenbegleitgrün
+- TOP 10.6.7.: Florastraße: Immissionsschutzrechtliche Ausnahmezulassungen zur Montage eines Baukrans
+- TOP 10.6.8.: Lehrer-Götz-Weg 23: Unterrichtung über das Abbrennen eines Feuerwerks (Pfarrei Peter und Paul)
+- TOP 1.3.1.: (N 7.1.5) Veranstaltung in städtischen Grünanlagen: KIKU Live Spielfest des Quax im Riemer Park (hinter dem Quax, Höhe Helsinkistr.100, Skatepark) am 26.07.2024
+- TOP 7.1.5.: (N) Veranstaltung in städtischen Grünanlagen: KIKU Live Spielfest des Quax im Riemer Park (hinter dem Quax, Höhe Helsinkistr.100, Skatepark) am 26.07.2024
+- TOP 1.3.4.: (N 7.2.6) Bauliche Erinnerungsverfahren: a) Schwablhofstraße - Sanierung Geh- und Radweg b) Postweg - Sanierung Bushaltestelle, Fahrbahn und Gehweg
+- TOP 1.3.6.: (N 7.5.3) Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027 Beschlussentwurf des Referats für Bildung und Sport
+- TOP 1.3.7.: (N 9.1.7) Nachlese zur Stadtteilwoche 2024
+- TOP 1.3.8.: (N 9.2.4) Bericht zur Sonderunterausschusssitzung zur Kommunalen Wärmeplanung am 13.06.2024
+- TOP 7.2.6.: (N) Bauliche Erinnerungsverfahren: a) Schwablhofstraße - Sanierung Geh- und Radweg b) Postweg - Sanierung Bushaltestelle, Fahrbahn und Gehweg
+- TOP 7.5.3.: (N) Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027 Beschlussentwurf des Referats für Bildung und Sport
+- TOP 9.1.7.: (N) Nachlese zur Stadtteilwoche 2024
+- TOP 9.2.4.: (N) Bericht zur Sonderunterausschusssitzung zur Kommunalen Wärmeplanung am 13.06.2024
+- TOP 1.3.2.: (N 7.1.6) Veranstaltung in städtischen Grünanlagen: Taufgottesdienst der Ev.-Luth. Sophienkirche im Riemer Park am See am 20.07.2024
+- TOP 1.3.5.: (N 7.4.7) Königsseestr. 44 - Neubau eines Vierfamilienhauses mit Garage - ÄNDERUNGSANTRAG zu 1.2-2022-3423-32 - hier: Terrassenerweiterung EG
+- TOP 7.1.6.: (N) Veranstaltung in städtischen Grünanlagen: Taufgottesdienst der Ev.-Luth. Sophienkirche im Riemer Park am See am 20.07.2024
+- TOP 7.4.7.: (N) Königsseestr. 44 - Neubau eines Vierfamilienhauses mit Garage - ÄNDERUNGSANTRAG zu 1.2-2022-3423-32 - hier: Terrassenerweiterung EG
+- TOP 1.3.3.: (N 7.1.7) Veranstaltung auf stadteigenem Grund: Festival des Circus Sorento in der Stolzhofstraße 25 vom 24.06. - 21.07.2024
+- TOP 7.1.7.: (N) Veranstaltung auf stadteigenem Grund: Festival des Circus Sorento in der Stolzhofstraße 25 vom 24.06. - 21.07.2024
