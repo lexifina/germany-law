@@ -1,0 +1,51 @@
+# Gemeinderat (38. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2024-06-20T18:00:00+02:00
+- Ende: 2024-06-20T21:11:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeikXALcAmwQc32XOTE2BMQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/2004
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR4cphHTzyQP-IIp_Y8LG-UlJSuBKUw0mC44X9qUA9W0/Bekanntmachung_Gemeinderat_20.06.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXzWCyukDCYF15oCdc5Uf9Q8VorEle5xl5ug8h7g3bi6/Oeffentliche_Niederschrift_Gemeinderat_20.06.2024.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Schulausschusses
+- TOP 3.1: Schulentwicklungsplanung bis 2028/2029 - Vertagt
+- TOP 3.2: Schulsozialarbeit an den beiden Aldenhovener Grundschulen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Wahl eines neuen Ortsbürgermeisters bzw. einer neuen Ortsbürgermeisterin für die Ortschaft Niedermerz - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Neubesetzung des Bauverwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Zuschussgewährung
+- TOP 6.1: Antrag auf Erhöhung des jährlichen Vereinszuschusses durch vier Fußballvereine in der Gemeinde Aldenhoven - Ohne Abstimmung
+- TOP 6.1.1: Antrag auf Erhöhung des jährlichen Vereinszuschusses durch vier Fußballvereine in der Gemeinde Aldenhoven - 13 Ja-Stimme(n), 1 Nein-Stimme(n), 9 Stimmenthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Unterjährige Stellenplanergänzung Hier: Einrichtung einer Stelle - Abteilungsleitung Finanzen, Zahlungsabwicklung und Beteiligungen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Anträge von Fraktionen
+- TOP 8.1: Antrag der CDU-Fraktion: hier: Förderprogramm „Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder“ - Zur Kenntnis genommen
+- TOP 9.: Lärmaktionsplanung der Stufe 4 der Gemeinde Aldenhoven - 21 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Fortschreibung Wasserversorgungskonzept nach § 38 Absatz 3 LWG - Ohne Abstimmung
+- TOP 10.1: Fortschreibung Wasserversorgungskonzept nach § 38 Absatz 3 LWG - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Ausschreibung und Beauftragung von externer Beratungsleistung im Rahmen der Weiterentwicklung des interkommunalen Gewerbegebiets Future Mobility Park - 18 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse aus der letzten Sitzung -nichtöffentlicher Teil-
+- TOP 2.: Beschluss über die Empfehlungen des Schulausschusses
+- TOP 2.1: Bezuschussung privater Schulträger - Einstimmig, 1 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Vergabe der Reinigungsleistungen für die Unterhalts- und Grundreinigung sowie die Glasreinigung an Gebäuden. - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Vertragsangelegenheiten
+- TOP 5.1: Fortführung des Verfahrens zur Aufstellung des Bebauungsplans 85 S - Businesspark Alsdorf – Norderweiterung hier: Umsiedlung der Feldlerche - 18 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
