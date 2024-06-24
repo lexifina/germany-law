@@ -1,0 +1,52 @@
+# Haupt-, Finanz- und Steuerungsausschuss (131. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2024-06-24T18:00:00+02:00
+- Ende: 2024-06-24T21:27:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSP6gF9gur9Okv_qSKOKX9Q
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18209
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa4bI2C1w7fBrRqCyUgR4OJQSyYOBEQWiCIn1JfmaUHF/Bekanntmachung_Haupt--_Finanz-_und_Steuerungsausschuss_24.06.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXvN1rSuOdCug4atBJkO7r7bzIP45iFSvkB0CkVMTg3A/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_24.06.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 07.03.2024
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Managementbericht zum 30.04.2024 - Zur Kenntnis genommen
+- TOP 4.: Bevölkerungsprognose für die Stadt Emsdetten für die Jahre 2024 bis 2038 - Zur Kenntnis genommen
+- TOP 5.: Stellenplan
+- TOP 5.1: Bewirtschaftung des Stellenplans - Zur Kenntnis genommen
+- TOP 6.: Bestellung eines weiteren stellvertretenden Leiters der Freiwilligen Feuerwehr Emsdetten - Einstimmig
+- TOP 7.: Maßnahmen zur IT-Sicherheit bei der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 8.: Einführung einer Grundsteuer C in der Stadt Emsdetten - Einstimmig
+- TOP 9.: Stadtwerke Emsdetten GmbH
+- TOP 9.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2023 und Gewinnverwendung - Einstimmig
+- TOP 10.: Gebührenhaushalt/Betriebsabrechnung
+- TOP 10.1: Betriebsabrechnung Straßenreinigung und Winterdienst 2023 - Zur Kenntnis genommen
+- TOP 10.2: Betriebsabrechnung Abfallwirtschaft 2023 - Zur Kenntnis genommen
+- TOP 11.: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung 2023 - Zur Kenntnis genommen
+- TOP 12.: Fortschreibung des Wasserversorgungskonzeptes der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 13.: Bebauungsplan
+- TOP 13.1: Bebauungsplan Nr. 31 "Gemeindezentrum Hollingen", 8. Änderung - Satzungsbeschluss - Mehrheitlich dafür, 6 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Durchführung von Ausgleichsmaßnahmen - Einstimmig
+- TOP 15.: Durchführung von Ausgleichsmaßnahmen für eine Bebauungsplanänderung - Einstimmig
+- TOP 16.: Gewerbeflächenmanagement in Emsdetten - Einstimmig
+- TOP 17.: Allgemeine Stadtentwicklungsplanung
+- TOP 17.1: Fortsetzung des I. Maßnahmenprogramms 2024 bis 2027 zum Integrierten Mobilitätskonzept - Einstimmig
+- TOP 18.: Widmung Albert-Lüke-Straße - Einstimmig
+- TOP 19.: Masterplan Sportstätten Stauffenbergstraße - Einstimmig
+- TOP 20.: Entwässerung der Erschließungsfläche zwischen Galerie Münsterland und Hof Deitmar hier: Anpassung an zukünftige Starkregenereignisse - Einstimmig
+- TOP 21.: Planung von Tiefbauvorhaben
+- TOP 21.1: Verkehrsversuch am Fußgängerüberweg In der Lauge/Diekstraße - Mehrheitlich dafür, 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 21.2: Straßenschäden und Vollausbau Grünring zwischen Vennweg und Neuenkirchener Straße - Einstimmig
+- TOP 22.: Allgemeine Umweltangelegenheiten
+- TOP 22.1: Neuaufstellung des Freiflächenentwicklungskonzeptes – Beschluss des Endberichts - Einstimmig
+- TOP 23.: Verkehrsangelegenheiten
+- TOP 23.1: Beschluss der Lärmaktionsplanung der Stadt Emsdetten - Einstimmig
+- TOP 23.2: Standort der Schnellladepunkte in Emsdetten im Rahmen des Deutschlandnetzes - Einstimmig
+- TOP 24.: Verschiedenes
