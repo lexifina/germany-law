@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 4.1 „Satzung über die Durchführung von Bürgerentscheiden und Ratsbürgerentscheiden“
+
+- Sitzung: 25. Sitzung des Ausschusses für Bürgerbeteiligung, Anregungen und Beschwerden (2024-06-24)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/401584
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/185684
