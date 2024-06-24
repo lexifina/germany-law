@@ -1,0 +1,81 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-06-24T14:35:00+02:00
+- Ende: 2024-06-24T16:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29672
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29672
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.3: Kostenschätzung zum Bürgerbegehren "Fahrrad-Entscheid Köln" - Kenntnis genommen
+- TOP 2.4: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand 30.04.2024 - Kenntnis genommen
+- TOP 2.6: Grundsteuer - aktueller Gesetzentwurf zur Umsetzung einer Hebesatzdifferenzierung bei der reformierten Grundsteuer - Kenntnis genommen
+- TOP 2.7: Übersicht über die Erstellung von Jahresabschlüssen und Wirtschaftsplänen der eigenbetriebsähnlichen Einrichtungen - Kenntnis genommen
+- TOP 2.8: Grundsteuerreform: Musterhebesätze des Finanzministeriums NRW - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Kosten von Schenkungen - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Finanzausschusses vom 06.05.2024 betr. Kosten von Schenkungen an städtische Kultureinrichtungen (AN/0538/2024) - Kenntnis genommen
+- TOP 4.2: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt, hier: Finanzierung - zurückgestellt
+- TOP 4.3: Förderprogramme und Fördermittelakquise in den Dezernaten der Stadt - Kenntnis genommen
+- TOP 4.3.1: Beantwortung einer Anfrage zur Sitzung des Finanzausschusses am 24.06.2024 betreffend "Förderprogramme und Fördermittelakquise in den Dezernaten der Stadt Köln" (AN/0984/2024) - Kenntnis genommen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2023/2024 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Neubau Rettungswache Worringen - Kenntnis genommen
+- TOP 6.3: Ermächtigungsübertragungen in das Haushaltsjahr 2024 - Kenntnis genommen
+- TOP 6.4: Unterrichtung des Rates gem. § 25 der Kommunalhaushaltsverordnung Nordrhein-Westfalen - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Einrichtung eines Quartiersplatzes „Am Salzmagazin / Eintrachtstraße“ sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6601-1201-1-1124, Umgestaltung Am Salzmagazin/Eintrachtstraße - ungeändert beschlossen
+- TOP 7.2: Erwerb einer Pergamenthandschrift - ungeändert beschlossen
+- TOP 7.3: Verschoben in den nicht-öffentlichen Teil - siehe TOP 10.13
+- TOP 7.4: Bauförderung RSV Rath-Heumar 1920 e.V. - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neubau Bezirksrathaus Rodenkirchen, Hauptstraße 85, 50996 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 10.2: Stadtbahnanbindung Mülheimer Süden Fortschreibung des Bedarfsfeststellungsbeschlusses vom 31.05.2021 (Vorlagen-Nr.1218/2021) und erweiterter Planungsbeschluss - geändert beschlossen
+- TOP 10.3: Baubeschluss zur Aufzugsnachrüstung und Herstellung der Barrierefreiheit an der Stadtbahnhaltestelle Lohsestraße - ungeändert beschlossen
+- TOP 10.4: Zügigkeitserweiterung der Gemeinschaftsgrundschule Unter Birken, Schulstraße 23, 51145 Köln-Eil, Schulnr. 114832, zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 10.5: Instandsetzung des Rad- und Gehweges Alter Deutzer Postweg als Verbindungsweg zwischen der Waldbadsiedlung und dem Vingster Ring - ungeändert beschlossen
+- TOP 10.6: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.7: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 10.8: Stadtklima-/Stadtverschönerungsprogramm 2024 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 10.9: Haushaltsplan- Entwurf 2025/2026 - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Wirtschaftsplan 2024 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.11: Umsetzung einer Maßnahme der Kulturentwicklungsplanung: Kulturschaffende vernetzen-Kooperationen fördern - ohne Votum in nachfolgende Gremien
+- TOP 10.12: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP 10.13: Einrichtung des Schulneubaus für die Gesamtschule Wasseramselweg, Wasseramselweg 2 in 50829 Köln, Kostenfortschreibungsbeschluss - ungeändert beschlossen
+- TOP 10.14: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück, für ein 3/5-zügiges Gymnasium mit 3-fach Sporthalle im Stadtbezirk Nippes - geändert beschlossen
+- TOP 10.15: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück als Ersatz für das bestehende Berufskolleg Porz, Hauptstraße 426, 51143 Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.16: Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung -BWP GebO) - geändert beschlossen
+- TOP 10.16.1: Änderungsantrag zu TOP 10.16 - Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) - ungeändert beschlossen
+- TOP 10.17: Sanierung der Drehbrücke am Schokoladenmuseum - ungeändert beschlossen
+- TOP 10.18: Bedarfsfeststellungs- und Planungsbeschluss zur Nachrechnung und Erstellung eines Instandsetzungskonzeptes für die Hochbahn Linie 13 - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Wirtschaftsplan 2024 für die eigenbetriebsähnliche Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 10.20: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtbezirk Innenstadt in der Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - ohne Votum in nachfolgende Gremien
+- TOP 10.21: Schulrechtliche Errichtung einer neuen Gesamtschule im Stadtbezirk Kalk mit Start im Interimsgebäude Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Zügigkeitserweiterung der Gemeinschaftsgrundschule Don-Bosco-Schule, Humboldtstr. 81-83, 51145 Köln-Porz, Schulnr. 114819, zum Schuljahr 2025/26 - geändert beschlossen
+- TOP 10.23: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln); Jahresabschluss 2023 - ungeändert beschlossen
+- TOP 10.24: Wirtschaftsplan des Gürzenich-Orchester Köln - Wirtschaftsjahr 2024/25 - ungeändert beschlossen
+- TOP 10.25: Beschaffungsplan Maschinen und Geräte - Fortschreibung des Maschinen- und Gerätekonzeptes des Sportamtes für die Jahre 2024-2028 - ohne Votum in nachfolgende Gremien
+- TOP 10.26: Umsetzung von Maßnahmen der Kulturentwicklungsplanung: In Vielfalt durch Vielfalt - Nachhaltige Strukturentwicklung in den städtischen Kulturinstitutionen - zurückgestellt
+- TOP 10.27: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2023 - ungeändert beschlossen
+- TOP 10.28: Schulrechtliche Errichtung eines neuen Gymnasiums im Stadtteil Neustadt/Nord am Interimsstandort Ubierring 45, 50678 Köln gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - ohne Votum in nachfolgende Gremien
+- TOP 10.29: Landesförderprogramm NRWeltoffen, hier: Fortführung der Beteiligung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.30: Schulrechtliche Errichtung einer Gesamtschule am Standort Helene-Weber-Platz im Stadtteil Neubrück zum Schuljahr 2026/27 bei auslaufender Schließung der Kurt-Tucholsky-Schule, Hauptschule Helene-Weber-Platz zum Schuljahr 2025/26 - ohne Votum in nachfolgende Gremien
+- TOP 10.31: Liquidation der GbR Historische Mitte - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
