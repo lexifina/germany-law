@@ -1,0 +1,63 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-25T17:00:00+02:00
+- Ende: 2024-06-25T19:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26183
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26183
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524018.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524018.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524018.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 1.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 2: Demokratie - Lernen, Angebote zur politischen Bildung - mündlicher Bericht - zur Kenntnis genommen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Umsetzung stationsbasierter Sharing-Angebote im Rahmen des Sofortprogramms im Umfeld der Merkur Spiel-Arena, der Messe Düsseldorf und des Klemensplatzes - einstimmig beschlossen
+- TOP 7: Haushaltsmittel 2024 - Zuschüsse und Zuwendungen (Liste D) - abweichend beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 (Liste B), Instandsetzung Blumenkästen Rathaustreppe des Kaiserswerther Rathauses - einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 9: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 10: Verkehrssicherheit für Fußgänger*innen und Radfahrende auf der Kalkumer Schlossallee – ergänzende Anfrage zum Antrag BV5/124/2023 - beantwortet
+- TOP 11: Planungsstand RRX zum S-Bahnhof Angermund (Parkplätze) - beantwortet
+- TOP 12: Kaiserswerther Markt: Warum antwortet die Verwaltung innerhalb eines Jahres nicht auf Fragen der BV5? - vertagt
+- TOP 13: Graf-Engelbert-Straße: Gehweg nutzbar machen! - vertagt
+- TOP 14: Ausbau des Fahrradweges auf der Kalkumer Schlossallee - vertagt
+- TOP 15: Sicherheit für alle Verkehrsteilnehmer auf dem Fuß- und Radweg an der Straße "Am Roten Haus" - beantwortet
+- TOP 16: Radweg Kalkumer Schlossallee - Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - 3.0 - vertagt
+- TOP 17: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP 18: Fahrrad-Pendlerverkehr zwischen Duisburg und Düsseldorf - vertagt
+- TOP 19: Notwendige Erhöhung der Unkrautbeseitigung am Kaiserswerther Markt ab dem Jahre 2024 - beantwortet
+- TOP -: Neue Anfragen
+- TOP 20: Auswirkungen des Urteils vom Bundesverwaltungsgericht vom 06. Juni 2024 (Az. BVerwG 3 C 5.23) auf die Graf-Engelbert-Straße in Düsseldorf-Angermund - vertagt
+- TOP 21: Classic Days 2024 abgesagt - beantwortet
+- TOP 22: Warum dürfen gewerbliche Firmen Fahrräder zum Verleih auf den Fahrradständer am Klemens Platz in unbegrenzter Menge abstellen, ohne Platz für Fahrrädern von normalen Bürgern zu lassen? - vertagt
+- TOP 23: Die Einbahnstraße Sankt-Göres muss im Bereich zwischen der Straße Kaiserswerther Markt und der Niederrheinstraße Fahrrad frei bleiben - vertagt
+- TOP 24: Ist Geothermie möglich im Düsseldorfer Norden und Vorstellung des Geothermie Gutachtens - beantwortet
+- TOP 25: Wann erfolgen endlich Maßnahmen zur Schulwegsicherung im Kreuzungsbereich Wittgatt/ Fritz-Köhler-Weg? - vertagt
+- TOP 26: Park & Ride Parkplatz Froschenteich (siehe BV5/099/2023) - vertagt
+- TOP 27: Geschwindigkeitsüberschreitungen auf der Arnheimer Straße - vertagt
+- TOP 28: Verkehrskonzept Düsseldorf Nord - hier: Kreisverkehre an den Kreuzungen Einbrunger Straße – Gerichtsschreiber Weg und Kalkumer Schlossallee – Ober-/Unterdorfstraße - beantwortet
+- TOP 29: Sanierung des Rheindeiches entlang der Burgallee bis zur Straße An Sankt Swidbert - vertagt
+- TOP 30: Ersatzneubau Brücke Annostraße - beantwortet
+- TOP 31: Verkehrskonzept Düsseldorf Nord - hier: Rampe zwischen Burgallee und Herbert-Eulenberg-Weg - vertagt
+- TOP -: Anträge
+- TOP 32: Sicherheit an der Kreuzung Alte Kalkumer Straße/Zeppenheimer Straße verbessern! - einstimmig beschlossen
+- TOP 33: Umkleide- und Sanitärräume des TVKs sanieren – Endlich Taten statt Worten - einstimmig beschlossen
+- TOP 34: Solarbetriebene Mülleimer im Stadtbezirk 5 sowohl stadtbild- als auch funktionsgerecht aufstellen! - mehrheitlich beschlossen
+- TOP 35: Den Fuß- und Radweg auf der Kalkumer Schloßallee zwischen Unterdorfstraße und Theodor-Fliedner-Gymnasium vom Wildwuchs befreien und Erstellung eines Konzeptes für eine sichere, gefahrlosere Nutzung des Weges für Fußgänger und Fahrradfahrer - einstimmig beschlossen
+- TOP 36: Bezahlbaren Wohnraum für Feuerwehrleute in Kaiserswerth ernst nehmen – seriöse Politik statt Augenwischerei. Konzepte dort angehen, wo es tatsächlich möglich ist! - mehrheitlich beschlossen
+- TOP -: Informationsvorlagen
+- TOP 37: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes
+- TOP 39: Trödelmärkte auf dem Messeparkplatz P1 im 2. Halbjahr 2024 - einstimmig beschlossen
+- TOP 40: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 vom 28. Mai 2024 - öffentlicher Teil - einstimmig beschlossen
