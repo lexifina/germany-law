@@ -1,0 +1,51 @@
+# Verwaltungsrat
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-06-25T18:00:00+02:00
+- Ende: 2024-06-25T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3370
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3370
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Änderung der Geschäftsordnung für den Verwaltungsrat und die Beiräte der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 4: Jahresabschluss 2020 der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 5: Lärmaktionsplan für die Stadt Grevenbroich gemäß EU-Umgebungslärmrichtlinie - Kenntnisnahme
+- TOP 6: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 06.06.2024
+- TOP 6.1: Pflasterung des Gehwegs „Bedburdycker Straße“ in Hemmerden - einstimmig beschlossen
+- TOP 6.2: Strukturelle Maßnahmen und ganzheitliche Lösung zur Verbesserung der Verkehrssituation Jülicher Str. - einstimmig beschlossen
+- TOP 6.3: Konzept "Attraktive Stadtmöblierung jetzt" - einstimmig beschlossen
+- TOP 7: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 04.06.2024
+- TOP 7.1: Unterzeichnung der Musterresolution „2030 - Agenda für nachhaltige Entwicklung: Nachhaltigkeit auf lokaler Ebene gestalten - einstimmig beschlossen
+- TOP 8: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 8.1: Schülerhaltestellen-Elterntaxi - einstimmig beschlossen
+- TOP 8.2: Antrag zur Erneuerung der Beleuchtungsanlage im Museum - einstimmig beschlossen
+- TOP 9: Schriftliche Anträge
+- TOP 9.1: Anträge der SPD-Fraktion
+- TOP 9.1.1: Beleuchtungskonzept Allrather Platz - einstimmig beschlossen
+- TOP 9.2: Anträge der CDU-Fraktion
+- TOP 9.2.1: Errichtung eines Verkehrsspiegels an der Kreuzung Langwadener Straße/St.-Bernhard-Straße in Langwaden - einstimmig beschlossen
+- TOP 9.2.2: Ersatzaufstellung einer Rutsche auf dem Gelände der Kita „Kleine Strolche“ in Frimmersdorf - einstimmig beschlossen
+- TOP 9.2.3: Maßnahmen zur Verkehrssicherung „Am Glockenstrauch“ in Frimmersdorf - einstimmig beschlossen
+- TOP 9.2.4: Gefahrenstelle des Gehwegs Ecke Frankenstraße / „An St. Martin“ in Frimmersdorf dauerhaft beseitigen - einstimmig beschlossen
+- TOP 9.2.5: Schulwegsicherung zur Viktoria-Grundschule in Frimmersdorf - einstimmig beschlossen
+- TOP 9.2.6: Ersatz einer „Seillandschaft“ auf dem Gelände der Kita „Kleine Strolche“ in Frimmersdorf - einstimmig beschlossen
+- TOP 9.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 9.4: Anträge der FDP-Fraktion
+- TOP 9.4.1: Otmar Alts Turmkater säubern bzw. restaurieren - einstimmig beschlossen
+- TOP 9.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 9.6: Anträge der UWG-Fraktion
+- TOP 9.7: Gemeinschaftsanträge
+- TOP 10: Schriftliche Anfragen
+- TOP 10.1: Anfragen der Fraktion Mein Grevenbroich
+- TOP 10.1.1: Zustand / Instandsetzung von Fußgängerbrücken im Stadtpark - Kenntnisnahme
+- TOP 10.1.2: Neugestaltung der Bushaltestellen Allrath (insbesondere Allrather Platz) - Kenntnisnahme
+- TOP 11: Anfragen von Verwaltungsratsmitgliedern
+- TOP 12: Mitteilungen des Vorstandes
+- TOP 13: Mitteilungen des Verwaltungsratsvorsitzenden
