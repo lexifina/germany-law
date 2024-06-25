@@ -1,0 +1,57 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-25T17:00:00+02:00
+- Ende: 2024-06-25T18:50:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25683
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25683
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524086.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524086.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524086.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Bezirkssportanlage Koblenzer Straße – Bau des New England Patriots Flag Football-Feldes und des Flag Football-Spielfeldes Süd - Empfehlung einstimmig beschlossen
+- TOP 4.3: Busliniennetzoptimierung Monheim (Projekt „BSM24“) und weitere Verbesserungen des Busangebots im Düsseldorfer Süden - Empfehlung einstimmig beschlossen
+- TOP 4.4: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2024 - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Adam-Stegerwald-Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Sonstige Gebäude, Haushalt 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Reinigung und Pflege der Überdachung des Innenhofes des Kulturhauses Süd - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Reinigung und Pflege des Innenhofes des Kulturhauses Süd - Anfrage der SPD-Fraktion - - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Sportunterricht an der Willi-Fährmann-Grundschule - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.8: Raumnot an der Willi-Fährmann- Grundschule im Stadtbezirk10 - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Instandsetzung der Uhr am Kulturhaus Süd- Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.2: Aktualisierung des Schriftzuges am Kulturhaus Süd - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.3: Generalüberholung des Sonnenrades - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.4: Nutzung von 3 Bolzplätzen im Stadtbezirk 10 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.5: Fahrbahnerneuerung Hellerhofweg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Gefährdung von Schulkindern - Herrichtung eines sicheren Schulweges in der Ingeborg-Bachmann-Straße - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Kurzbericht über die Pflegebedarfsplanung im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.2: Aktive Partizipation von Kindern im Alter von 12 bis 14 Jahren am politischen Leben - Informationsvorlage zum Beschluss BV10/051/2024 vom 30,04.2024 - - zur Kenntnis genommen
+- TOP 8.3: Am Kapeller Feld – Weitergehende Maßnahmen zur Minimierung von Gefahrensituationen auf der Fahrbahn - Informationsvorlage zum Beschluss BV10/067/2024 vom 28.05.2024 - - zur Kenntnis genommen
+- TOP 8.4: Chancen für Kinder und Jugendliche im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/056/2024 vom 30.04.2024 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
