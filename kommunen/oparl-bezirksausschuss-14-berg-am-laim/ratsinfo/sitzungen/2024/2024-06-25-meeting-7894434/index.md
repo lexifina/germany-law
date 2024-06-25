@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-06-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894434
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894434
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 28.05.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 28.05.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Wochenmarkt am Grünen Markt - Verlängerung der Öffnungszeiten (auch nachmittags bzw. ein zweiter Tag) Empfehlung Nr. 20-26 / E 01875 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 10.04.2024
+- TOP 2.2.: (E) Umbenennung der Feuerwache 5 Ramersdorf in Feuerwache 5 Berg am Laim
+- TOP 2.3.: (E) Anträge und Empfehlung zur Hachinger-Bach-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Hochfellnstr. 9 - Neubau eines Einfamilienhauses
+- TOP 3.1.2.: Annabrunner Str. 7 - Neubau eines Mehrfamilienhauses mit 6 Wohneinheiten und Tiefgarage
+- TOP 3.1.3.: Annabrunner Str. 7 - ÄNDERUNGSANTRAG zu 1.23-2024-6745-32 - Neubau eines Mehrfamilienhauses mit 6 Wohneinheiten und Tiefgarage
+- TOP 3.1.4.: Technisches Rathaus: Aussichtspunkt für Berg am Laim wieder für die Öffentlichkeit zugänglich machen; Antrag der CSU-Fraktion
+- TOP 3.1.5.: Unterkunft Hachinger-Bach-Straße 19: Lärm durch Heiz-und Belüftungsanlagen reduzieren; Antrag der CSU-Fraktion
+- TOP 3.1.6.: Information zu den örtlichen Gegebenheiten am Schwanhildenweg; Anhörung des Kommunalreferats
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Mobilitätsstrategie 2035, Teilstrategie: Management des öffentlichen (Straßen-)Raums; Anhörung des Mobilitätsreferats - vertagt aus der Plenumssitzung vom 28.05.2024 -
+- TOP 3.2.2.: Abstimmung neues Radverkehrsnetz für München - IR III (Radvorrangrouten, RVR); Anhörung des Mobilitätsreferats, Frist bis zum 28.06.2024
+- TOP 3.2.3.: zeitliche Ausdehnung der Hol- und Bringzone an der Kita St. Pius; Anhörung Mobilitätsreferat
+- TOP 3.2.4.: Änderung der Parkbereiche an der Abfahrt Innsbrucker Ring zur Ampfingstr.; Anhörung des Mobilitätsreferats
+- TOP 3.2.5.: Fahrradfreundliche Querung der Kreillerstr. auf Höhe Sonnwendjochstr./Permoserplatz; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.6.: Die Sonnwendjochstr. wird zur Fahrradstraße; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.7.: Umsetzung der Machbarkeitsstudie: Aufzug U-Bahn Michaelibad; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Errichtung einer „Schaukelanlage“ im Michaelianger; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Serenade im Behrpark am 28.06.2024 355,00 Euro; Az. 0262.0-14-0407
+- TOP 3.5.2.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes - Stellungnahmeersuchen des DIR -
+- TOP 3.5.3.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse (insbesondere für den BA 21) u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen (Empfehlung Nr. 20-26 / E 01779 des Stadtbezirkes 21 - Pasing-Obermenzing); Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Empfehlung Nr. 20-26 / E 01928des Stadtbezirkes 01 - Altstadt-Lehel); Anhörung des Direktoriums
+- TOP 3.5.4.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Annabrunner Str. 7 - Genehmigungsverfahren
+- TOP 3.6.2.: Annabrunner Str. 7 - Änderungsantrag
+- TOP 3.6.3.: Novellierung der BaumSchV der Landeshauptstadt München; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 17.07.2024
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Mai 2024
+- TOP 4.1.2.: Errichtung einer Wertstoffinsel im Bereich St.-Veit-Straße/Kreillerstraße/Josephsburgstraße
+- TOP 4.1.3.: Sachstand zur Prüfung der Denkmaleigenschaft für das Waßnerhaus/Josephshäusl und das Benifiziatenhaus
+- TOP 4.1.4.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 4.1.5.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 4.1.6.: Grundstück Berg-am-Laim-Straße 38 (ehem. Landwirtschaftsschule): Bezirksausschuss einbeziehen, soziale Bedarfe berücksichtigen!
+- TOP 4.1.7.: Ablehnung der Stellungnahme zur Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses
+- TOP 4.1.8.: Prüfung des westlichen Areals der Branntweinmonopolverwaltung in der Neumarkter Str. 1 auf Denkmalwürdigkeit
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Ladesäulen-Infrastruktur für E-Autos in Berg am Laim
+- TOP 4.2.2.: Radschnellweg zum Ostbahnhof
+- TOP 4.2.3.: Gemeinsames Rad(vorrang)-Netz-Hearing mit den BA 13, 14, 15 und 16
+- TOP 4.2.4.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 4.2.5.: Vorstellung Digitaler Zwilling im UA Städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.6.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Ampfingstr. 8
+- TOP 4.2.7.: Umsetzung von zeitlich begrenzten Ladezonen an der Neumarkter Str. 21/23
+- TOP 4.2.8.: Einrichtung eines Verkehrshelferübergangs in der Josephsburgstr., Einmündung St.-Veit-Str.
+- TOP 4.2.9.: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2) Produkt 34511500 Geodaten Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 38511200 Stadtplanung Produkt 45561100 Umweltvorsorge Beschluss über die Finanzierung für die Jahre 2024 – 2027 Änderung des Mehrjahresinvestitionsprogrammes 2024 - 2028
+- TOP 4.2.10.: Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 4.2.11.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 4.2.12.: Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Fahrbahnsanierung des Innsbrucker Rings
+- TOP 4.2.13.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: temporäre Kunstaktion "TetrapAct-on-foodwaste/TPAL" vom 17.06.24-08.08.24, Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ „Welche Farbe hat mein Tag?“ – Gefühle wahrnehmen und miteinander teilen von September 2024 bis Juli 2025 5.719,00 Euro; Az. 0262.0-14-0406
+- TOP 3.5.5.: (E) Stadtbezirksbudget Elterninitiative „Die Bunten Knöpfe e.V.“ „Welche Farbe hat mein Tag?“ – Gefühle wahrnehmen und miteinander teilen von September 2024 bis Juli 2025 5.719,00 Euro; Az. 0262.0-14-0406
+- TOP 1.1.2.: Nachtrag TOP 3.3.2: Schul- und Kitabauoffensive – Sachstandsbericht 2024 Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027; Anhörung des Referats für Bildung und Sport
+- TOP 3.3.2.: Schul- und Kitabauoffensive – Sachstandsbericht 2024 Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027; Anhörung des Referats für Bildung und Sport
