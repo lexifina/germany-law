@@ -1,0 +1,137 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8098028
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8098028
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V., Mittagsbetreuung FarinelliKids Ferienbetreuung im Stadtviertel vom 29.07. - 02.08.2024 2.100,00 Euro, Az.: 0262.0-4-0514
+- TOP 2.2.: (E) Stadtbezirksbudget Modellprojekt 27 e.V. / MOP Integrativer Jugendtreff Anschaffung einer Tischtennisplatte 1.227,00 Euro, Az.: 0262.0-4-0517
+- TOP 2.3.: (E) Stadtbezirksbudget Verein für Internationale Jugendarbeit, Ortsverein München e.V., ClubIn Teamwochenende für ehrenamtliche Mitarbeiter*innen (Jugendteam) des ClubIn vom 05. - 07.07.2024 949,20 Euro, Az.: 0262.0-4-0516
+- TOP 2.4.: (E) Stadtbezirksbudget Haus am Schuttberg e.V. Hood Training vom 01.07.2024 - 30.06.2025 5.000,00 Euro, Az.: 0262.0-4-0519
+- TOP 2.5.: München Klinik gGmbH (MüK): Zielbild „MüK 20++“ und Medizinkonzept incl. diverser BV-Empfehlungen und BA-Anträge
+- TOP 2.6.: Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027 im Mehrjahresinvestitionsprogramm 2024 – 2028 (Anhörung zum Beschlussentwurf)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise und Sachberichte) a) CultureClouds e.V.: „Rampenlichter – Dein Festival“ mit Jugendlichen vom 07. bis 20.07.2023 b) Elternbeirat Grundschule Infanteriestraße: Selbstbehauptungstraining
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Schließung des Altenheims St. Willibrord (Schreiben der Caritas vom 05.06.2024)
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Fragen zur Baustelle Schleißheimer Str. 93
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ainmillerstr. 32: Ausbau des Dachspitzes zu einer Wohnung in einem Mehrfamilienhaus und Umbau der Dachgauben zu zwei Dachloggien in der 1. Dachebene, Errichtung der hofseitigen Dachterrasse, Errichtung der Notleiteranlage, Errichtung der 2 Dachgauben mit Austritt auf die Dachterrasse
+- TOP 2.2.: Belgradstr. 22: Umbau 2er Wohneinheiten im DG zu einer Wohneinheit im 1.DG und 2.DG unter Erhalt des historischen Dachstuhls, Anbau eines hofseitigen Balkons sowie Neuerrichtung eines hofseitigen Dachflächenfensters mit Dacheinschnitt, Erhöhung des Treppenhausdaches (Aufdachdämmung) und Neuerrichtung einer Terrasse auf dem Treppenhausdach
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 3.2.2.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 3.2.3.: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 3.2.4.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Erstanträge KW 18, 21 - 24; Abbruchanzeige KW 19; Vorbescheid KW 23 sowie Tektur KW 23
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Einbahnregelung in der Viktoriastraße zw. Karl-Theodor- u. Unertlstraße ändern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Mobilitätsstrategie 2035: Teilstrategie Management des öffentlichen (Straßen-)Raums (Anhörung zum Beschlussentwurf für den Stadtrat)
+- TOP 2.2.: (E) Ausweisen von Abstellplätzen für E-Scooter im gesamten Bezirk
+- TOP 2.3.: (E) Ausbesserung und farbliche Markierung des Rad- und Gehwegs an der Einmündung der Jakob-Klar-Straße in die Elisabethstraße
+- TOP 2.4.: (E) Düsseldorfer Straße asphaltieren und als Fahrradstraße ausweisen
+- TOP 2.5.: (E) Ampelanlagen Belgrad-/Bummstraße und Belgrad-/Parzivalstraße
+- TOP 2.6.: Neues Radverkehrsnetz für München – IR III (Radvorrangrouten, RVR)
+- TOP 2.7.: Radverkehrsführung in der Winzererstraße nördlich der Hohenzollernstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Konzept für geteilte Mobilität im Stadtbezirk 4 – Rückmeldung des Mobilitätsreferats zu den Änderungsvorschläge des BA (s. TOP D 2.1 04/24)
+- TOP 3.1.2.: Lärmbelästigung durch Hot Rods in der Hohenzollernstraße (Antwort der Veranstalter auf weitergeleitetes Bürgeranliegen, TOP D 1.3 05/24)
+- TOP 3.1.3.: Gehwegparken in der Mottlstraße (Bilanz des Mobilitätsreferats zu BA-Antrag Nr. 20-26 / B 03385 vom 08.12.2021)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Aufhebung der personenbezogenen Behindertenparkplätze in der Agnesstr. 54 und 59
+- TOP 3.2.2.: Anordnung eines absoluten Haltverbotes auf der Nordseite der Bamberger Straße
+- TOP 3.2.3.: Parklizenzgebiet Lerchenauer Straße: Anpassung der Parkregelung in der Bamberger sowie Gernot- und Giselherstraße
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Lothstraße zwischen Heß- und Infanteriestraße: Einbau einer Gasleitung
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Antrag CSU: Karl-Theodor- und Rheinstraße. Klimaschutz konkret. Grüne Infrastruktur stärken (vertagt aus 05/24)
+- TOP 1.2.: Antrag CSU: Karl-Theodor- und Rheinstraße. Klimaschutz konkret. Blaue Infrastruktur stärken
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Anhörung zur Novellierung der Baumschutzverordnung der LHM
+- TOP 2.2.: Öffentlicher Raum
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bonner Platz: Entsiegelung, Stärkung blaue und grüne Infrastruktur
+- TOP 3.1.2.: Toxische Emissionen am Ackermannbogen? (Antwort des Referats für Klima- und Umweltschutz auf weitergeleitetes Bürger*innenanliegen, TOP E 1.5 02/24)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Präsentationen aus dem BA-Jahrestreffen am 04.06.2024 im Baureferat a) Mahdumstellung im Straßenbegleitgrün b) Trinkbrunnen
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget ArtSchnitzel e.V. ArtSchnitzel Festival 2024 - Kunst für Alle vom 20. - 30.06.2024 3.000,00 Euro, Az.: 0262.0-4-0513
+- TOP 2.1.2.: (E) Stadtbezirksbudget Community Kitchen gGmbH Tetrap-Act-on-foodwaste vom 27.06. - 31.07.2024 2.322,90 Euro, Az.: 0262.0-4-0517
+- TOP 2.1.3.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung Ackermannbogen "We do it in the road" vom 18.07. - 18.08.2024 930,00 Euro, Az.: 0262.0-4-0520
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative "84 GHz Raum für Gestaltung" Kunst im Karrée 2024 - offene Ateliers in Schwabing und Maxvorstadt vom 12.07. - 14.07.2024 3.000,00 Euro, Az.: 0262.0-4-0521
+- TOP 2.1.5.: (E) Stadtbezirksbudget govar GmbH Frequencies & Dance Extended Reality Art Experience vom 23. - 31.07.2024 4.000,00 Euro, Az.: 0262.0-4-0523
+- TOP 2.1.6.: (E) Stadtbezirksbudget MORGEN e.V, Netzwerk Münchner Migrantenorganisationen MORGEN Kulturfestival im Import Export - Kreativquartier am 30.06.2024 4.200,00 Euro, Az.: 0262.0-4-0522
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: „Royeem Imbiss“, Schleißheimer Str. 127: Erweiterung der bestehenden Kleinstfreischankfläche
+- TOP 2.2.2.: „Schwabylon Lotto“, Belgradstr. 15 a: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.3.: „Studio Azzuro“, Tengstr, 17: Antrag auf Warenauslagen
+- TOP 2.2.4.: „Call Shop Center“, Schleißheimer Str. 127: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.5.: „Olympia Späti“, Sailerstr. 1: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.6.: „Tante Emma“, Destouchesstr. 63: Erweiterung der bestehenden Freischankfläche
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: SwingTanz im Rahmen des Kulturwochenendes Ackermannbogen am 21.07.2024
+- TOP 2.3.2.: Kunst im Karrée am 19.07.2024 in der Isabellastraße zwischen Georgen- und Agnesstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise, Sachberichte) a) Isarlust e.V.: Kulturlieferdienst 06.02. bis 31.12.2023 b) Initiative „Offene Bühne“: Veranstaltung am 24.06.2023 c) Wannda e.V.: Kostenfreies Kulturprogramm Märchenbazar 2023 d) Svapinga Consort: Konzerte „Tanzmusik in den Sälen der Könige“
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: Kinowerbung „Avalon Premium Cars“ am 29.05.2024 an der Fußgängerbrücke Ackermannstraße (Gehwegbereiche)
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Tawuus“ (ehem. „Zaza Meze Bar“), Georgenstr. 48
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Via Aurelia“ (ehem. „Ro e Buni“), Kaiserstr. 55
+- TOP 3.4.3.: Schank- und Speisewirtschaft „Salta“ (ehem. „Primo“), Erich-Kästner-Str. 14
+- TOP 3.4.4.: Schank- und Speisewirtschaft „Rohan“ (ehem. „Oda“), Schleißheimer Str. 188
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: BA-Sitzung am 27.08.2024: Ferienausschuss anstelle des Vollgremiums? Falls Ferienausschuss: 1.1 Benennung der Mitglieder 1.2 Wahl der/des Ferienausschussvorsitzenden 1.3 Vertretungsregelung
+- TOP G.2.: Oktoberfest 2024: Reservierung in der Ratsboxe (Wunsch- und 2 Ersatztermine, Anzahl der Plätze, Zeitraum (12 bis 17 Uhr oder ab 17 Uhr))
+- TOP G.3.: BA-Satzung: BA-Anhörung in Fragen des von OMG und SWM verwalteten Olympiageländes (Anhörung zu Antrag Nr. 20.26 / B 06273 des BA 11 Milbertshofen-Am Hart vom 20.12.2023)
+- TOP G.4.: Änderung der BA-Satzung wegen mehr Mitentscheidungsbefugnissen der Bezirksausschüsse u.a. beim Baumschutz, Schutz von Grünflächen, Frischluftschneisen - Mehr Mitentscheidung der Bezirksausschüsse beim Klimaschutz (Anhörung zu Empfehlungen aus den Bürgerversammlungen Pasing-Obermenzing und Altstadt-Lehel)
+- TOP G.5.: Änderung der BA-Satzung zur Stärkung der Entscheidungsrechte der Bezirksausschüsse (Anhörung zu Empfehlung Nr. 20-26 / E 01885 aus der Bürgerversammlung Berg am Laim)
+- TOP H: Termine
+- TOP 2.3.3.: Public Picnic auf der großen Wiese Ackermannbogen am 20.07.2024
+- TOP 1.1.: Bürgerin: Geplante Raumüberlassung Sophie-Scholl- an Willi-Graf-Gymnasium
