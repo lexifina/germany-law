@@ -1,0 +1,103 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-06-26T17:00:00+02:00
+- Ende: 2024-06-26T22:05:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5232
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5232
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Telekommunikation-Tiefbauarbeiten - schriftlich beantwortet
+- TOP 1.2: Einzug der Jugendkunstschule in die Eduard-Mörike-Grundschule - beantwortet
+- TOP 1.3: Nutzung der Liegenschaft Donaustraße 120 durch Rixdorfer Grundschule und Volkshochschule Neukölln - beantwortet
+- TOP 1.4: Nachfragen Investitionsplanung für die Fritz-Karsen-Schule - beantwortet
+- TOP 1.5: Einsatz für Beantragung und Bereitstellung der nötigen Gelder für notwendige Räume an der Fritz-Karsen-Schule - beantwortet
+- TOP 1.6: Asphaltierung Teilstück Harzer Straße Ecke Lohmühlenstraße - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Verbesserte Kommunikation zwischen Landes- und Bezirksebene" - erledigt
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Der U-Bahnhof Grenzallee soll schöner werden - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Die öffentlichen Musikschulen aufrechterhalten – Lehrkräfte nicht im Stich lassen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Grünflächen, Umweltschutz, Naturschutz und Klimaanpassung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Bürgerdienste, Gleichstellung, Antidiskriminierung und Queerpolitik - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Vorzeitige Beendigung eines Mandats als stellvertretendes, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Verlängerung der Veränderungssperre XIV-185cbb/36, nunmehr Veränderungssperre 8-111/36, für das Grundstück Juliusstraße 58 / Britzkestraße 10 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-111 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Wahl - erledigt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Fête de la musique - beantwortet
+- TOP 10.2: Grundwassersituation im Brunnenviertel - beantwortet
+- TOP 10.3: Hitzeaktionsplan für Neukölln - beantwortet
+- TOP 10.4: Neuer Standort für die Tannenhof-Schule? - beantwortet
+- TOP 10.5: Es blüht so schön - beantwortet
+- TOP 10.6: Tee- und Wärmestube - beantwortet
+- TOP 10.7: Zukunft Tee- und Wärmestube Plus - beantwortet
+- TOP 10.8: Jelbi-Punkte in Neukölln - beantwortet
+- TOP 10.9: Politische Repression durch Gewerbekontrollen? - schriftlich beantwortet
+- TOP 10.10: Aktueller (Zu-)Stand Alt-Buckow 37 - schriftlich beantwortet
+- TOP 10.11: Pflege des Rathausvorplatzes - schriftlich beantwortet
+- TOP 10.12: Villa Alt-Buckow 37 - schriftlich beantwortet
+- TOP 10.13: Zehntausende Euro für die Förderung von Mietsteigerung und Verdrängung? - schriftlich beantwortet
+- TOP 10.14: Verbundeinsatz in der Reuterstraße - schriftlich beantwortet
+- TOP 10.15: Sicherheit für die Amtsmitarbeiter im Bezirk Neukölln - schriftlich beantwortet
+- TOP 10.16: Nachhaltige Beleuchtung - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Taxistand am Rathaus Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Kreuzung Treptower Straße/Weserstraße für Fußgänger*innen sicherer machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Einwohner*innenantrag: Kranoldkiez Neukölln - für Menschen statt für Durchgangsverkehr Für einen lebenswerteren Kiez für alle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.3: Kleinfahrzeuge gehören nicht auf den Gehweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Supermarkt - Mehrgeschossiger Wiederaufbau Marienfelder Chaussee 144 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Unabhängige Sozialberatung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 13.1: Verschleppt das Bezirksamt den Klimaschutz in Neukölln? - beantwortet
+- TOP 13.2: Neuköllner Freibäder im Sommer - beantwortet
+- TOP 13.3: (K)Eine Zukunft für die Jugendkunstschule Young Arts in der Donaustraße? - beantwortet
+- TOP 13.4: Hat das Bezirksamt einen Plan, um den massiven Raummangel an der Fritz-Karsen-Schule anzugehen? - beantwortet
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Baudenkmal Walter-Gropius-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Barrierefreiheit in allen Neuköllner Schulen - in der BVV abgelehnt
+- TOP 14.3: Weiße Siedlung: Mängel beseitigen, Eigentümerin in die Pflicht nehmen, Mieter:innen entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Ersatzfläche für Nutzer*innen BVG Werk-Erweiterung - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Menschenwürdige Unterbringung von Geflüchteten sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Angebote für Kinder und Jugendliche mit palästinensischem Hintergrund schaffen - in der BVV abgelehnt
+- TOP 14.7: Angebot für Kinder und Jugendliche aus Krisen- und Kriegsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Feierlichkeiten 650 Jahre Britz - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Austausch Hinweisschild „Oyoun“ Kreuzung Hermannplatz/Hasenheide - in der BVV abgelehnt
+- TOP 14.10: Mobilitätspunkt U Parchimer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Standesamtliche Trauung im SchwuZ - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Kameraüberwachung der kriminalitätsbelasteten Orte (kbO) in Neukölln - in der BVV abgelehnt
+- TOP 14.13: Rollkunstlauf soll weiterhin in der Oderhalle angeboten werden - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Umsetzung des Jugendprojekts SpOrt 365 in der Gropiusstadt - beantwortet
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Alt-Buckow 37 für soziale Zwecke nutzen - überwiesen
+- TOP 17.2: Ladezonen Karl-Marx-Straße - überwiesen
+- TOP 17.3: Am Gender-Budgeting-Wettbewerb teilnehmen - Bolzplatz für Mädchenfußball mit Lichtflutern ausstatten - überwiesen
+- TOP 17.4: Installation von Ladesäulen für Elektrofahrzeuge im Frauenviertel - überwiesen
+- TOP 17.5: Umbenennung "Straße 645" - überwiesen
+- TOP 17.6: Ehrendes Gedenken an Jutta Limbach - überwiesen
+- TOP 17.7: Sicheres Einbiegen in die Straße im Rosengrund - überwiesen
+- TOP 17.8: Müllkontrollen des Ordnungsamtes & Müllentsorgung entlang der Straßen am S-Bahn-Ring verstärken - überwiesen
+- TOP 17.9: E-Ladestation statt Carsharing-Parkplatz - überwiesen
+- TOP 17.10: Philip Morris Gelände im Sinne Neuköllns weiterentwickeln - überwiesen
+- TOP 17.11: Aufenthaltsqualität rund um U Johannisthaler Chaussee - überwiesen
+- TOP 17.12: Verkehrssicherheit Alt-Buckow - Johannisthaler Chaussee - überwiesen
+- TOP 17.13: Sanierung Stadion Britz-Süd - Wünsche der Vereine berücksichtigen - überwiesen
+- TOP 17.14: Funktionsgebäude und Flutlichtanlage Stadion Britz-Süd - überwiesen
