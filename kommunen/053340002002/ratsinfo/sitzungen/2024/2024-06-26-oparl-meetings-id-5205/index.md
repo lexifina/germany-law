@@ -1,0 +1,69 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2024-06-26T17:00:00+02:00
+- Ende: 2024-06-26T23:32:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=5205
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=5205
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung von Niederschriften:
+- TOP 3.1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 24.04.2024 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3.2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 15.05.2024 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Bürgerbegehren "Mobile Vernunft" - Zulässigkeitsprüfung im Rahmen des Antrags auf Vorprüfung gemäß § 26 Abs. 2 Satz. 7 ff. Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 5: Integriertes Klimaschutzkonzept (2023) „Aachen: Der Weg klimaneutral 2030“Umsetzung des Ratsbeschlusses vom 13.03.2024, Priorisierung der Maßnahmen aus dem Gutachten „Der Beitrag zum Klimastadtvertrag – Die Aktivitäten“
+- TOP 5.1: Integriertes Klimaschutzkonzept (2023) „Aachen: Der Weg klimaneutral 2030“Umsetzung des Ratsbeschlusses vom 13.03.2024, Priorisierung der Maßnahmen aus dem Gutachten „Der Beitrag zum Klimastadtvertrag – Die Aktivitäten“ - geändert beschlossen
+- TOP 6: Anpassung der Gebühren für die Erteilung von Bewohnerparkausweisen;hier: Gebührenordnung - ungeändert beschlossen
+- TOP 7: 8. Nachtrag zur Gebührenordnung für Parkscheinautomaten im Gebiet der Stadt Aachen (Parkgebührenordnung) - ungeändert beschlossen
+- TOP 8: Abschlussbericht der Sportentwicklungsplanung der Stadt Aachen – Verabschiedung von Zielen und Handlungsempfehlungen - ungeändert beschlossen
+- TOP 9: Honorarkräfte an Musikschulen- neue Rechtsprechung BSG - geändert beschlossen
+- TOP 10: Öffentlich-rechtliche Vereinbarung zur Regelung grenzüberschreitender Hilfe im Brandschutz zwischen der Stadt Aachen und der Hilfeleistungszone deutschsprachige Gemeinschaft - ungeändert beschlossen
+- TOP 11: Einrichtung von zwei halben Stellen für Alltagshelfer*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 12: Jahresabschluss für den Kulturbetrieb für das Jahr 2023 - ungeändert beschlossen
+- TOP 13: Nachwahl eines Mitglieds für den Beirat bei der unteren Naturschutzbehörde der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Sachstandsbericht Spielplätze Raerener Straße und Holunderweg in Aachen - Lichtenbusch - Ratsantrag der Grün-Rote Koalition im Rat der Stadt Nr. 425/18 vom 05.03.2024 "Spielplätze in Lichtenbusch ertüchtigen" - ungeändert beschlossen
+- TOP 15: Schenkungen:
+- TOP 15.1: Schenkung des Projektes „m3 Medien – Message – Massage“ von Uwe Appold / Stephan Richter - ungeändert beschlossen
+- TOP 15.2: Annahme einer Schenkung des Fördervereins der GGS Brander Feld; hier: Seilpyramide - ungeändert beschlossen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 16.1: Umbesetzungsantrag der SPD-Fraktion vom 13.06.2024 - ungeändert beschlossen
+- TOP 16.2: Umbesetzungsantrag der FDP-Fraktion vom 19.06.2024 - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 25.06.2024 - ungeändert beschlossen
+- TOP 16.4: Umbesetzungsantrag der GRÜNE-Fraktion vom 25.06.2024 - ungeändert beschlossen
+- TOP 16.5: Umbesetzungsantrag der CDU-Fraktion vom 26.06.2024 - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen
+- TOP 18: Ratsanträge - ungeändert beschlossen
+- TOP 19: Mitteilungen der Verwaltung
+- TOP 20: Kirchenumfeld St. Germanushier: Bereitstellung überplanmäßiger Haushaltsmittel - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
+- TOP 17: nicht öffentlicher Tagesordnungspunkt
+- TOP 18: nicht öffentlicher Tagesordnungspunkt
