@@ -1,0 +1,109 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-06-27T14:10:00+02:00
+- Ende: 2024-06-27T20:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26040
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26040
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 27.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524499.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 27.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524499.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 27.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00524499.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 21.03.2024 (SI-RAT/002/2024) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Ordnungswidrigkeiten bzw. Ordnungswidrigkeitenverfahren in den Jahren 2016 bis 2023 - beantwortet
+- TOP 4.2: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Anstieg von Notfallrettungen, Notfalltransporten, Notarzteinsätzen durch die Feuerwehr, auch in Folge von COVID 19 - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion DIE LINKE: Auflistung der Sanierungsausgaben städtischer Kultureinrichtungen der letzten zehn Jahre - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion DIE LINKE: Fragen zum Sponsoring-Deal Sportstadt Düsseldorf/Rheinmetall - beantwortet
+- TOP 4.5: Anfrage der SPD-Ratsfraktion: Ist die Wohnungsbauoffensive bei den städtischen Töchtern angekommen? - beantwortet
+- TOP 4.6: Anfrage der SPD-Ratsfraktion: Worringer Platz - beantwortet
+- TOP 4.7: Anfrage der AfD-Ratsfraktion: Politische Neutralitätspflicht des stellvertretenden Bezirksbürgermeisters Marko Siegesmund
+- TOP 4.8: Anfrage der AfD-Ratsfraktion: Sicherheitslage städtischer Ämter/Mitarbeiterschutz - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Zukunft des Gasverteilungsnetzes - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Wasserstoff und die kommunale Wärmeplanung - schriftlich beantwortet
+- TOP 4.11: Anfrage der Ratsfrau Lehmann: Vergabe von Räumen für rassistische Veranstaltungen - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Lemmer: Brandschutz in Düsseldorfer U-Bahnhöfen - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Lemmer: Graffitis auf den Lärmschutzwänden der U81 Brücke am Nordstern/Lilienthalstraße - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Krüger: Begrünung rund um die U 81, Lilienthalstraße, Nordstern und weiter Richtung Flughafen - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau Krüger: Be- /Übergrünung von Parkplätzen - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau Opelt: EM in Düsseldorf - Einigkeit und Recht und Freiheit und Vielfalt - schriftlich beantwortet
+- TOP 4.17: Anfrage des Ratsherrn Jörres: Situation am Worringer Platz - schriftlich beantwortet
+- TOP 4.18: Anfrage des Ratsherrn Jörres: Mögliche Umgehungstatbestände bei der Registrierung von Vielehen im Zusammenhang mit der Aufnahme von muslimischen Flüchtlingsfamilien - schriftlich beantwortet
+- TOP 4.19: Anfrage der Ratsfrau Opelt: Herausforderungen des Cannabisgesetzes in Düsseldorf - schriftlich beantwortet
+- TOP 4.20: Anfrage der Ratsfrau Kraljic: Nutzung von öffentlichen Räumen durch Parteien in Düsseldorf seit 2020 - schriftlich beantwortet
+- TOP 4.21: Anfrage der Ratsfrau Kraljic: Aktueller Sachstand Schaustellergelände Rath - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission "Neuzuschnitt der Kommunalwahlbezirke" - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 9: Bericht aus dem Nachhaltigkeits-Beirat - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Klimahilfe - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 12: öffentliche Grünanlage Schillerplatz 2. Bauabschnitt - einstimmig beschlossen
+- TOP 13: Beauftragung der IPM mit Erschließungs- und Steuerungsleistungen sowie präqualifizierendes Auswahlverfahren im Bereich des nördlichen Planbereichs Auf‘m Tetelberg - einstimmig beschlossen
+- TOP 14: Umbenennung historisch belasteter Straßennamen in Düsseldorf - mehrheitlich beschlossen
+- TOP 15: Rheinbahn AG PV-Anlage Straßenbahn-Abstellhalle Lierenfeld - einstimmig beschlossen
+- TOP 16: Handlungsfelder Nachhaltigkeit – strategische Säulen und konkrete Umsetzung in Düsseldorf - zur Kenntnis genommen
+- TOP 17: Impulsprogramme zur Förderung des Neubaus von Wohnungen - mehrheitlich beschlossen
+- TOP 17.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage AWM/021/2024 - mehrheitlich abgelehnt
+- TOP 17.2: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage AWM/021/2024
+- TOP 17.3: Änderungsantrag der SPD-Ratsfraktion zur Vorlage AWM/021/2024 - mehrheitlich beschlossen
+- TOP 18: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2023 - zur Kenntnis genommen
+- TOP 19: Gleichstellungsplan 2024 bis 2029 - mehrheitlich beschlossen
+- TOP 20: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - mehrheitlich beschlossen
+- TOP 20.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage JHA/036/2024
+- TOP 20.2: Antrag der Bezirksvertretung 8 zur Vorlage JHA/036/2024 (Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend)
+- TOP 20.3: Antrag der Bezirksvertretung 7 zur Vorlage JHA/036/2024 (Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend)
+- TOP 21: Jahresbericht der Geschäftsstelle der Kunstkommission 2022/2023 - zur Kenntnis genommen
+- TOP 22: Änderung der Bestimmungen über die Verleihung des Heine-Preises der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 23: Deutsche Oper am Rhein - Opernhaus der Zukunft: Auslobungsbeschluss - zurückgezogen
+- TOP 24: Deutsche Oper am Rhein - Opernhaus der Zukunft: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für die Standortentscheidung auf dem Gelände der Messe GmbH Düsseldorf und Errichtung einer Interimsspielstätte - zurückgezogen
+- TOP 25: Herbeiführung eines Bedarfsbeschlusses für die Errichtung eines Hochregallagers als Lagerstätte des Opernfundus der Deutschen Oper am Rhein - zurückgezogen
+- TOP 26: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - mehrheitlich beschlossen
+- TOP 26.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage KUA/104/2024
+- TOP 26.2: Antrag der Bezirksvertretung 7 zur Vorlage KUA/104/2024 (Weiterentwicklung von öffentllichen Kulturorten und Stadtteilbüchereien))
+- TOP 27: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 28: RadLeitRoute 2, West-Ost, Teil 1 von Hansaallee/Böhlerstraße bis Neusser Tor, Gerresheim. - mehrheitlich beschlossen
+- TOP 29: Festlegung des Trassenverlaufs des Radschnellweg Neuss, Düsseldorf, Langenfeld im Rahmen des Linienbestimmungsverfahrens - mehrheitlich beschlossen
+- TOP 30: Abberufung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 31: Öffnung der Schulhöfe als Spielhöfe - einstimmig beschlossen
+- TOP 32: Kittelbach-Renaturierung Niederrheinstraße - Mündung (W-0002000000) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 33: Klärwerk-Süd, Belebung, Erneuerung Maschinentechnik (I-8030614003) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 34: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Unterrath, Änderung der Verfahrensart der Planungsleistung und Bereitstellung von finanziellen Mitteln - einstimmig beschlossen
+- TOP 35: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs. 1 Satz 2 GO NRW - mehrheitlich beschlossen
+- TOP 36: Wiederbestellung von stellvertretenden Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 37: Kuratorium der Stiftung Museum Kunstpalast - Ersatzwahl - mehrheitlich beschlossen
+- TOP 38: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 39: 65. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 40: Anträge
+- TOP 40.1: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Kostenlimit für den Neubau des Opernhauses - zurückgezogen
+- TOP 40.2: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Hochhausrahmenplan beachten: Die Schutzzone Altstadt und Königsallee gilt auch für ein neues Opernhaus - zurückgezogen
+- TOP 40.3: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Gartendenkmal Hofgarten schützen - zurückgezogen
+- TOP 40.4: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Preisgericht des Architekturwettbewerbs für den Neubau des Opernhauses demokratisch besetzen - zurückgezogen
+- TOP 40.5: Antrag der Ratsfraktion DIE LINKE: Planung für “Opernhaus der Zukunft” stoppen - zurückgezogen
+- TOP 40.6: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ein Abenteuerspielplatz für den Stadtbezirk 3 - abweichend beschlossen
+- TOP 40.7: Antrag der Ratsfraktion DIE LINKE: Rollstuhlplätze in der Merkur Spiel-Arena erhalten - zurückgezogen
+- TOP 40.8: Antrag der SPD-Ratsfraktion: Istanbul Konvention in Städtepartnerschaften stärken
+- TOP 40.9: Antrag der SPD-Ratsfraktion: Schul-Radeln
+- TOP 40.10: Antrag der Ratsfraktionen von FDP, SPD und BÜNDNIS 90/DIE GRÜNEN: Installation von Ampelpärchen der Vielfalt und Radschlägern an Fußgängerampelanlagen im Bereich der Heinrich-Heine-Allee und Königsallee
+- TOP 40.10.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/214/2024
+- TOP 40.11: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Regenbogenbänke für die Stadt der Toleranz und Vielfalt
+- TOP 40.12: Antrag der Ratsfraktionen von DIE LINKE und Die PARTEI-Klima-Fraktion: Hilfe für Kriegsopfer in Israel und Palästina
+- TOP 40.12.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, FDP zur Vorlage RAT/230/2024
+- TOP 40.13: Antrag der AfD-Ratsfraktion: Neue Wege bei der Oper gehen - Private Publik Partnership und Sponsoring - mehrheitlich abgelehnt
+- TOP 40.14: Antrag der AfD-Ratsfraktion: Einführung Migrations-Dashboard
+- TOP 40.15: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Mehr Platz für den Japantag
+- TOP 40.16: Antrag der Ratsfraktionen von SPD und FDP: Kulturstandort Düsseldorf: Mehr Planungssicherheit für die freie Szene - mehrheitlich beschlossen
+- TOP 40.17: Antrag der FDP-Ratsfraktion: E-Laden ohne optische Beeinträchtigung
+- TOP 41: Deutsche Oper am Rhein - Opernhaus der Zukunft - Aufhebung des Ratsbeschlusses KUA/041/2023 und neue Standortentscheidung, sowie nächste Verfahrensschritte - mehrheitlich beschlossen
+- TOP 41.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/244/2024
+- TOP 42: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 43: Information zur Umsetzung der Grundsteuerreform - zur Kenntnis genommen
