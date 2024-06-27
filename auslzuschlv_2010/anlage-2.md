@@ -14,7 +14,7 @@
 | 9 | Betera | 3 |
 | 10 | Moron | 3 |
 | 11 | Rota | 3 |
-| 12 | Saragossa | 3 |
+| 12 |  | Saragossa | 3 |
 | 13 | Sevilla | 3 |
 | 14 | Valencia | 3 |
 | 15 | Tschechische Republik | Vyškov | 7 |
@@ -37,7 +37,7 @@
 | 32 | Portsmouth | 5 |
 | 33 | Preston | 5 |
 | 34 | Salisbury | 6 |
-| 35 |  | Shawbury/Shrewsbury | 6 |
+| 35 | Shawbury/Shrewsbury | 6 |
 | 36 | Shrivenham/Swindon | 5 |
 | 37 | Warminster | 6 |
 | 38 | Warton | 5 |
@@ -53,19 +53,20 @@
 | 47 | Charleston AFB (South Carolina) | 7 |
 | 48 | Dallas (Texas) | 9 |
 | 49 | Dayton (Ohio)/Wright Patterson AFB | 8 |
-| 50 | Fort Huachuca (Arizona) | 10 |
-| 51 | Fort Leavenworth (Kansas) | 9 |
-| 52 | Fort Leonard Wood (Missouri) | 9 |
-| 53 | Fort Sill (Oklahoma) | 9 |
-| 54 | Goodyear/Phoenix (Arizona) | 9 |
-| 55 | Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia) | 6 |
-| 56 | Honolulu (Hawaii) | 10 |
-| 57 | Jacksonville/Maryport (Florida) | 9 |
-| 58 | Kirtland AFB (New Mexico) | 8 |
-| 59 | Monterey (Kalifornien) | 8 |
-| 60 | Panama City/Tyndall AFB (Florida) | 9 |
-| 61 | Pensacola/Eglin AFB (Florida) | 9 |
-| 62 | Reston/Dulles AFB (Virginia) | 8 |
-| 63 | Sheppard AFB/Wichita Falls (Texas) | 9 |
-| 64 | Tucson (Arizona) | 9 |
-| 65 | Yuma (Arizona) | 10 |
+| 50 | El Paso | 8 |
+| 51 | Fort Huachuca (Arizona) | 10 |
+| 52 |  | Fort Leavenworth (Kansas) | 9 |
+| 53 | Fort Leonard Wood (Missouri) | 9 |
+| 54 | Fort Sill (Oklahoma) | 9 |
+| 55 | Goodyear/Phoenix (Arizona) | 9 |
+| 56 | Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia) | 6 |
+| 57 | Honolulu (Hawaii) | 10 |
+| 58 | Großraum Jacksonville/Mayport/Starke (Florida) | 9 |
+| 59 | Kirtland AFB (New Mexico) | 8 |
+| 60 | Monterey (Kalifornien) | 8 |
+| 61 | Panama City/Tyndall AFB (Florida) | 9 |
+| 62 | Pensacola/Eglin AFB (Florida) | 9 |
+| 63 | Reston/Dulles AFB (Virginia) | 8 |
+| 64 | Sheppard AFB/Wichita Falls (Texas) | 9 |
+| 65 | Tucson (Arizona) | 9 |
+| 66 | Yuma (Arizona) | 10 |
