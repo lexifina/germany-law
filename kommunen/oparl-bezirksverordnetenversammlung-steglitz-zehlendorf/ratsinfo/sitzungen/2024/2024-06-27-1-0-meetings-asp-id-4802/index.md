@@ -1,0 +1,60 @@
+# 21. öffentliche Sitzung des Ausschusses für Mobilität, Verkehr, Ordnung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-06-27T17:30:00+02:00
+- Ende: 2024-06-27T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4802
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4802
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Lebendiger Kranold-Markt-Platz - im Ausschuss abgelehnt
+- TOP 2.2: Kranoldmarkt erhalten - im Ausschuss abgelehnt
+- TOP 3: Genehmigung des Protokolls vom 30.05.2024 - erledigt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Anträge - erledigt
+- TOP 5.1: Baustellenkoordinierung - Störungen für Verkehr, Radfahrer und Fußgänger minimieren - vertagt
+- TOP 5.2: Gesellschaftliches Klima retten - Bürgerinnen und Bürger einbeziehen! - vertagt
+- TOP 5.3: Verkehrssicherung Wannseebadweg - mit Änderungen im Ausschuss beschlossen
+- TOP 5.4: Bezirkliche Straßenbenennungsliste fortlaufend aktualisieren - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.5: Illegalen Werbekärtchen an Pkw den Kampf ansagen! - im Ausschuss abgelehnt
+- TOP 5.6: Ein Radweg für die Thielallee statt (leerer) Autoparkplätze - vertagt
+- TOP 5.7: Kunst statt grauer Betonsäulen am Breitenbachplatz - erledigt
+- TOP 5.8: Baustellenchaos am Steglitzer Kreisel nicht länger zu Lasten von Nutzer*innen des ÖPNV sowie Radfahrer*innen und Fußgänger*innen - im Ausschuss abgelehnt
+- TOP 5.9: Für die Vision Zero und gegen die Wiedereinführung von Tempo 50 in der Albrechtstraße und Leonorenstraße - vertagt
+- TOP 5.10: Ohne Elterntaxis gibt's ein Gutti – Augsburg macht es vor - im Ausschuss abgelehnt
+- TOP 5.11: Friedvolles miteinander: Fahrradverkehrskontrollen an Bushaltestellen durchführen - im Ausschuss abgelehnt
+- TOP 5.12: Fußgängerschutz in der Clayallee - vertagt
+- TOP 5.13: Bezeichnung des U-Bahnhofes Oskar-Helene-Heim mit dem Zusatz Clayallee ergänzen - im Ausschuss abgelehnt
+- TOP 5.14: Haltelinien für die Ampelanlage Albrechtstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.15: Zweigleisiger Ausbau der S-Bahn nach Teltow - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.16: Erheblicher „Parkdruck“: Mehr Fahrradbügel für Lichterfelde-Süd - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.17: Sicherere Überquerung der Haydnstraße entlang der Bäke sicherstellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.18: Sicherer Schulweg zur Athene-Grundschule – auch für Kinder, die die Jägerndorfer Zeile überqueren müssen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.19: Parken am Teltower Damm wieder ermöglichen - vertagt
+- TOP 5.20: Weiterhin Partnerschaftsschilder des Bezirkes auch auf dem neu gestalteten Hermann-Ehlers-Platz - mit Änderungen im Ausschuss beschlossen
+- TOP 5.21: Sicherheit an Bushaltestellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.22: Unfallgefährdende Situation am Lerbacher Weg beenden - vertagt
+- TOP 5.23: Radwege Kohlhasenbrücker Straße zwischen Alsenbrücke und Stadtgrenze - vertagt
+- TOP 5.24: Wappen des Bezirkes auf dem neu gestalteten Hermann-Ehlers-Platz - vertagt
+- TOP 5.25: LKW-Verbot durchsetzen - vertagt
+- TOP 5.26: Parkplatzsituation an der Seniorenfreizeitstätte Süd - vertagt
+- TOP 5.27: Verkehrszählung für Hauptpendler-Routen - vertagt
+- TOP 5.28: Radverkehr am U-Bahnhof Podbielskiallee - vertagt
+- TOP 5.29: Kreuzungsbereiche sicherer gestalten - vertagt
+- TOP 5.30: Verbesserung der Verkehrssicherheit an der Einmündung Quantzstraße - vertagt
+- TOP 5.31: Zeitlich befristetes Halteverbot in der Claszeile - vertagt
+- TOP 5.32: Endlich ein Gehweg für die Goerzallee - vertagt
+- TOP 5.33: Illegale Werbung im Bezirk konsequent unterbinden - vertagt
+- TOP 5.34: Radweg statt Regenrinne - vertagt
+- TOP 5.35: Verkehrssicherheit für Kinder in der Lorenzstraße - vertagt
+- TOP 5.36: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - vertagt
+- TOP 5.37: Entwicklung des Kranoldplatzes hinsichtlich seiner Aufenthaltsqualität bei Berücksichtigung der besonderen Bedarfe des Wochenmarkts - vertagt
+- TOP 5.38: Trinkbrunnen am Kranoldplatz - vertagt
+- TOP 6: Verschiedenes - erledigt
