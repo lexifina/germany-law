@@ -10,7 +10,7 @@
 - [§ 7 Datenübermittlung an das Bundeszentralregister](0007.md)
 - [§ 8 Datenübermittlung an das Kraftfahrt-Bundesamt](0008.md)
 - [§ 9 Datenübermittlung an das Bundeszentralamt für Steuern](0009.md)
-- [§ 10 Datenübermittlung an das Bundesverwaltungsamt](0010.md)
+- [§ 10 (weggefallen)](0010.md)
 - [§ 11 Datenübermittlung an das Ausländerzentralregister](0011.md)
 - [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
 - [Schlussformel](schlussformel.md)
