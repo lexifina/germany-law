@@ -1,8 +1,8 @@
 # Förderrichtlinie Regionales Wachstum Vollzitat: Förderrichtlinie Regionales Wachstum
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-21 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/20083.1
+- Datum: 2024-06-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/20083.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-21.07.2023
+28.06.2024
 bis
-27.06.2024
+18.05.2026
 
 Förderrichtlinie Regionales Wachstum
 
@@ -48,17 +48,17 @@ dieser Richtlinie,
 
 b)
 
-den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere nach §§ 23, 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und der dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178), in der jeweils geltenden Fassung, 
+den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere nach §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, und der dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253), in der jeweils geltenden Fassung, 
 
 
 c)
 
-der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist, in der jeweils geltenden Fassung sowie
+der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2023/1315 der Kommission vom 23. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung sowie
 
 
 d)
 
-der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des AEUV Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt geändert worden ist durch die Verordnung (EU) 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3), in der jeweils geltenden Fassung
+der Verordnung (EU) Nr. 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des AEUV Union auf De-minimis-Beihilfen (ABl. L 2023/2831 vom 15.12.2023), in der jeweils geltenden Fassung,
 
 
 Zuwendungen für Investitionsvorhaben der gewerblichen Wirtschaft und der Freien Berufe. 
@@ -126,7 +126,7 @@ Zuwendungsempfänger sind für Zuwendungen
 
 a)
 
-im Rahmen des JTF in den Landkreisen Bautzen, Görlitz, Leipzig und Nordsachsen kleine und mittlere Unternehmen im Sinne von Anhang I der Verordnung (EU) Nr. 651/2014 sowie
+im Rahmen des JTF in den Landkreisen Bautzen, Görlitz, Leipzig und Nordsachsen sowie in der Stadt Chemnitz kleine und mittlere Unternehmen im Sinne von Anhang I der Verordnung (EU) Nr. 651/2014 sowie
 
 
 b)
@@ -137,16 +137,9 @@ im Rahmen der Landesförderung in den übrigen Landkreisen kleine Unternehmen
 der gewerblichen Wirtschaft und der Freien Berufe, die einer der in den Anlagen 1 und 2 aufgeführten Branchen angehören. 
 
 
-Das Vorhaben muss auf dem Gebiet des jeweiligen Landkreises durchgeführt werden. 
+Das Vorhaben muss auf dem Gebiet des jeweiligen Landkreises oder auf dem Gebiet Stadt Chemnitz durchgeführt werden. 
 
 2.
-
-Für Zuwendungen im Rahmen des JTF sind zudem Zuwendungsempfänger kleine und mittlere Unternehmen der gewerblichen Wirtschaft und der Freien Berufe in der Stadt Chemnitz, die einer der in den Anlagen 3 und 4 aufgeführten Branchen angehören. 
-
-
-Das Vorhaben muss auf dem Gebiet der Stadt Chemnitz durchgeführt werden.
-
-3.
 
 Von der Förderung ausgeschlossen sind: 
 
@@ -175,7 +168,7 @@ Sächsischen Kulturraumgesetzes in der Fassung der Bekanntmachung vom 4. Dezembe
 
 e)
 
-Unternehmen, die einer in den Anlagen 2 und 4 aufgeführten Branchen zugeordnet werden, die bereits eine Zuwendung aus der einzelbetrieblichen Investitionsförderung der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ (Richtlinie GRW RIGA) erhalten haben.
+Unternehmen, die einer in der Anlage 2 aufgeführten Branchen zugeordnet werden und die zum Zeitpunkt der Antragstellung ein Vorhaben durchführen, für das sie eine Zuwendung aus der einzelbetrieblichen Investitionsförderung der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ (Richtlinie GRW RIGA) erhalten haben, oder sich mit einem solchen Vorhaben noch in der Mittelbindefrist befinden.
 
 
 Von Buchstabe b bleiben Beteiligungen von Regionalen Beteiligungsgesellschaften, die der Wirtschaftsförderung dienen (zum Beispiel Mittelständische Beteiligungsgesellschaft Sachsen (MBG), Sächsische Beteiligungsgesellschaft (SBG), SIB Innovations- und Beteiligungsgesellschaft mbH), unberührt.
@@ -220,26 +213,9 @@ Der Investitionsbetrag muss mindestens 20 000 Euro umfassen.
 
 3.
 
-Zusätzlich muss der Investitionsbetrag entweder
-
-
-a)
-
-bezogen auf ein Jahr zum Zeitpunkt der Antragstellung die durchschnittlich verdienten Abschreibungen der letzten drei Jahre – ohne Berücksichtigung von Sonderabschreibungen – um mindestens 50 Prozent übersteigen oder
-
-
-b)
-
-mindestens zehn Prozent des jahresdurchschnittlichen Umsatzes (ohne Umsatzsteuer) der letzten drei Jahre betragen. 
-
-
-Die Erfüllung dieser Voraussetzung ist durch eine Steuerberaterin oder einen Steuerberater zu bestätigen. Bei Errichtungsinvestitionen gelten die genannten Fördervoraussetzungen als erfüllt.
+Bei Unternehmen, die einer in der Anlage 2 aufgeführten Branchen zugeordnet werden, muss der Investitionsbetrag unterhalb einer Höhe von 50 000 Euro liegen. 
 
 4.
-
-Bei Unternehmen, die einer in den Anlagen 2 und 4 aufgeführten Branchen zugeordnet werden, muss der Investitionsbetrag unterhalb einer Höhe von 50 000 Euro liegen. 
-
-5.
 
 Eine Förderung kann grundsätzlich nur erfolgen, wenn das Unternehmen beziehungsweise das beantragte Vorhaben einen Beitrag sowohl zur ökologischen als auch zur sozialen Nachhaltigkeit leistet.
 
@@ -318,15 +294,15 @@ gg)
 
 das Unternehmen Investitionen in die Barrierefreiheit von Produkten, Dienstleistungen oder der Betriebsstätte tätigt.
 
+5.
+
+Die Gesamtfinanzierung des Vorhabens muss gesichert sein und den Grundsätzen einer soliden Finanzierung entsprechen. Der Beitrag des Zuwendungsempfängers aus Eigen- oder Fremdmitteln zur Finanzierung des Investitionsvorhabens muss mindestens 25 Prozent der beihilfefähigen Kosten betragen. Dieser Mindestbeitrag darf keine Beihilfeelemente enthalten.
+
 6.
-
-Die Gesamtfinanzierung des Vorhabens muss gesichert sein und den Grundsätzen einer soliden Finanzierung entsprechen. Dies ist durch geeignete Unterlagen nachzuweisen. Der Beitrag des Zuwendungsempfängers aus Eigen- oder Fremdmitteln zur Finanzierung des Investitionsvorhabens muss mindestens 25 Prozent der Gesamtfinanzierung betragen. Dieser Mindestbeitrag darf keine Beihilfeelemente enthalten. Darin enthalten sein muss grundsätzlich ein Eigenmittelanteil des Zuwendungsempfängers von mindestens zehn Prozent der Gesamtfinanzierung.
-
-7.
 
 Von der Förderung ausgeschlossen sind Vorhaben in Ladengeschäften mit einer Nettoverkaufsfläche von mehr als 1 200 Quadratmetern.
 
-8.
+7.
 
 Sofern nichts anderes bestimmt erfolgt der Nachweis der Zuwendungsvoraussetzungen durch Eigenerklärungen im Antrag. 
 
@@ -343,7 +319,7 @@ Die Zuwendungen werden im Rahmen einer Projektförderung als Anteilfinanzierung 
 
 2.
 
-Kosten im Sinne dieser Richtlinie sind Ausgaben im Sinne von Nummer 2.2.2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+Kosten im Sinne dieser Richtlinie sind Ausgaben im Sinne der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
 
 3.
 
@@ -472,10 +448,10 @@ außerhalb der Regionalfördergebiete der Landkreise bis zu 20 Prozent,
 
 c)
 
-außerhalb der Regionalfördergebiete der Landkreise bis zu 30 Prozent, wenn das Investitionsvorhaben als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 1407/2013 gewährt wird.
+außerhalb der Regionalfördergebiete der Landkreise bis zu 30 Prozent, wenn das Investitionsvorhaben als De-minimis-Beihilfe nach der Verordnung (EU) Nr. 2023/2831 gewährt wird.
 
 
-Im Falle einer Unternehmensnachfolge kann die Höhe der Zuwendung unabhängig von der Zuordnung zu einem Fördergebiet auf Grundlage der Verordnung (EU) 1407/2013 als De-minimis-Beihilfe bis zu 50 Prozent der zuwendungsfähigen Kosten betragen. Dies gilt für Vorhaben nach Ziffer II innerhalb von zwei Jahren ab dem Zeitpunkt der Übernahme.
+Im Falle einer Unternehmensnachfolge kann die Höhe der Zuwendung unabhängig von der Zuordnung zu einem Fördergebiet auf Grundlage der Verordnung (EU) 2023/2831 als De-minimis-Beihilfe bis zu 50 Prozent der zuwendungsfähigen Kosten betragen. Dies gilt für Vorhaben nach Ziffer II innerhalb von zwei Jahren ab dem Zeitpunkt der Übernahme.
 
 
 Die Höhe der Zuwendung darf 500 000 Euro nicht übersteigen.
@@ -513,7 +489,7 @@ e)
 außerhalb der Regionalfördergebiete der Kreisfreien Stadt Chemnitz bis zu 30 Prozent für kleine Unternehmen und bis zu 20 Prozent für mittlere Unternehmen, wenn das Investitionsvorhaben als De-minimis-Beihilfe gewährt wird.
 
 
-Unabhängig von der Zuordnung zu einem Fördergebiet beträgt die Höhe der Zuwendung in den Landkreisen Bautzen, Görlitz, Leipzig und Nordsachsen bis zu 70 Prozent der zuwendungsfähigen Kosten, wenn die Förderung auf Grundlage der Verordnung (EU) Nr. 1407/2013 als De-minimis-Beihilfe gewährt wird.
+Unabhängig von der Zuordnung zu einem Fördergebiet beträgt die Höhe der Zuwendung in den Landkreisen Bautzen, Görlitz, Leipzig und Nordsachsen bis zu 70 Prozent der zuwendungsfähigen Kosten, wenn die Förderung auf Grundlage der Verordnung (EU) Nr. 2023/2831 als De-minimis-Beihilfe gewährt wird.
 
 
 Im Falle einer Unternehmensnachfolge kann die Höhe der Zuwendung in der Stadt Chemnitz unabhängig von der Zuordnung zu einem Fördergebiet als De-minimis-Beihilfe von bis zu 50 Prozent der zuwendungsfähigen Kosten betragen. Dies gilt für Vorhaben nach Ziffer II innerhalb von zwei Jahren ab dem Zeitpunkt der Übernahme.
@@ -524,7 +500,7 @@ Sonstige Zuwendungsbestimmungen
 
 1.
 
-Das Vorhaben soll nach einer Bewilligung kurzfristig begonnen und grundsätzlich innerhalb von 24 Monaten nach Beginn beendet werden. 
+Das Vorhaben soll nach einer Bewilligung kurzfristig begonnen und grundsätzlich innerhalb von 36 Monaten nach Beginn beendet werden. 
 
 2.
 
@@ -616,7 +592,7 @@ dass Nummer 3 Satz 2 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Proj
 Auszahlung der Zuwendung
 
 
-Die Auszahlung von aus JTF-Mitteln bewilligten Zuwendungen erfolgt nach den Vorhaben von Nummer 6.3 der EU-Rahmenrichtlinie.
+Die Auszahlung von aus JTF-Mitteln bewilligten Zuwendungen erfolgt nach den Vorgaben von Nummer 6.3 der EU-Rahmenrichtlinie.
 
 
 Zuwendungen der Landesförderung werden auf Antrag und nur für bereits bezahlte Rechnungen ausgezahlt (Erstattungsprinzip).
@@ -1171,287 +1147,7 @@ Förderfähige Branchen B
 
 Anlage 3
 
-Förderfähige Branchen in Chemnitz A
-
-Klassifikation der Wirtschaftszweige, Ausgabe 2008 (WZ 2008)
-gegliedert nach Abschnitten, Abteilungen, Gruppen, Klassen oder Unterklassen
-
-Förderfähige Branchen in Chemnitz A
-
-
-| Kode
-
-| Bezeichnung
-
-
-| Kode 
-
-| Bezeichnung
-
-
-| 43.31
-
-| Anbringen von Stuckaturen, Gipserei und Verputzerei
-
-
-| 47.59.3 
-
-| Einzelhandel mit Musikinstrumenten und Musikalien
-
-
-| 47.61 
-
-| Einzelhandel mit Büchern
-
-
-| 47.62
-
-| Einzelhandel mit Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf
-
-
-| 47.63 
-
-| Einzelhandel mit bespielten Ton- und Bildträgern
-
-
-| 47.78.3 
-
-| Einzelhandel mit Kunstgegenständen, Bildern, kunstgewerblichen Erzeugnissen, Briefmarken, Münzen und Geschenkartikeln
-
-
-| 47.79.1 
-
-| Einzelhandel mit Antiquitäten und antiken Teppichen
-
-
-| 47.79.2 
-
-| Antiquariate
-
-
-| 58.1
-
-| Verlegen von Büchern und Zeitschriften; sonstiges Verlagswesen (ohne Software)
-
-
-| 60
-
-| Rundfunkveranstalter
-
-
-| 71.11
-
-| Architekturbüros
-
-
-| 74.1 
-
-| Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design
-
-
-| 74.2
-
-| Fotografie und Fotolabors
-
-
-| 74.3
-
-| Übersetzen und Dolmetschen
-
-
-| 77.22 
-
-| Videotheken
-
-
-| 85.52 
-
-| Kulturunterricht
-
-
-| 90 
-
-| Kreative, künstlerische und unterhaltende Tätigkeiten
-
-
-| 95.25
-
-| Reparatur von Uhren und Schmuck
-
-
-Anlage 4
-
-Förderfähige Branchen in Chemnitz B
-
-Klassifikation der Wirtschaftszweige, Ausgabe 2008 (WZ 2008)
-gegliedert nach Abschnitten, Abteilungen, Gruppen, Klassen oder Unterklassen
-
-Förderfähige Branchen in Chemnitz B
-
-
-| Kode
-
-| Bezeichnung
-
-
-| Kode 
-
-| Bezeichnung
-
-
-| 14.13
-
-| Herstellung von sonstiger Oberbekleidung
-
-
-| 14.19
-
-| Herstellung von sonstiger Bekleidung und Bekleidungszubehör a. n. g.
-
-
-| 16.29
-
-| Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel)
-
-
-| 18.14
-
-| Binden von Druckerzeugnissen und damit verbundene Dienstleistungen
-
-
-| 20
-
-| Herstellung von chemischen Erzeugnissen
-
-
-| 23.12
-
-| Veredlung und Bearbeitung von Flachglas
-
-
-| 23.41
-
-| Herstellung von keramischen Haushaltswaren und Ziergegenständen
-
-
-| 23.7
-
-| Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.
-
-
-| 24
-
-| Metallerzeugung und -bearbeitung, soweit „Stahlindustrie“ nicht nach Artikel 13 Buchstabe a i. V. m. Arikel 2 Nummer 43 AGVO ausgeschlossen
-
-
-| 25.1
-
-| Stahl- und Leichtmetallbau
-
-
-| 25.2
-
-| Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen
-
-
-| 25.3
-
-| Herstellung von Dampfkesseln (ohne Zentralheizungskessel)
-
-
-| 25.5
-
-| Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen
-
-
-| 25.6
-
-| Oberflächenveredlung und Wärmebehandlung; Mechanik a. n. g.
-
-
-| 25.7
-
-| Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen
-
-
-| 25.9
-
-| Herstellung von sonstigen Metallwaren
-
-
-| 28
-
-| Maschinenbau
-
-
-| 32.1
-
-| Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen
-
-
-| 32.2 
-
-| Herstellung von Musikinstrumenten
-
-
-| 32.4
-
-| Herstellung von Spielwaren
-
-
-| 33
-
-| Reparatur und Installation von Maschinen und Ausrüstungen
-
-
-| 59.11
-
-| Herstellung von Filmen, Videofilmen und Fernsehprogrammen
-
-
-| 59.12
-
-| Nachbearbeitung und sonstige Filmtechnik
-
-
-| 59.13
-
-| Filmverleih und -vertrieb (ohne Videotheken)
-
-
-| 59.2
-
-| Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien
-
-
-| 62.01
-
-| Programmierungstätigkeiten
-
-
-| 63.12 
-
-| Webportale
-
-
-| 63.91 
-
-| Korrespondenz- und Nachrichtenbüros
-
-
-| 72
-
-| Forschung und Entwicklung, wenn überwiegend FuE-Dienstleistungen für die Wirtschaft erbracht werden
-
-
-| 73.1
-
-| Werbung
-
-
-Anlage 5
-
-Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 (AGVO) gefördert werden, sind ergänzend zu den Vorgaben dieser Richtlinie die nachfolgenden Punkte zu beachten.
+Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 (AGVO)1 gefördert werden, sind ergänzend zu den Vorgaben dieser Richtlinie die nachfolgenden Punkte zu beachten.
 
 1.
 
@@ -1572,10 +1268,18 @@ Bei der Förderung sind die Beihilfehöchstintensitäten gemäß Artikel 17 Absa
 
 13.
 
+Veröffentlichung und Information nach Art. 9 AGVO
+
+
+Es wird darauf hingewiesen, dass Informationen über jede Einzelbeihilfe von über 100 000 Euro in der Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Beihilfentransparenzdatenbank der Europäischen Kommission veröffentlicht werden.
+
+
+14.
+
 Geltungsdauer der AGVO (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 AGVO)
 
 
-Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024. Sollte die AGVO nicht verlängert oder durch eine neue AGVO ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen AGVO vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
+Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31. Dezember 2026 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2027. Sollte die AGVO nicht verlängert oder durch eine neue AGVO ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen AGVO vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet werden.
 
 
 Verweis auf Bundesgesetze
@@ -1588,9 +1292,9 @@ Fsn-Nr.: 552-V23.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 21. Juli 2023
+Fassung gültig ab: 28. Juni 2024
 
-Fassung gültig bis: 27. Juni 2024
+Fassung gültig bis: 18. Mai 2026
 
 Drucken/Speichern
 
@@ -1615,7 +1319,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/20083.1
+https://www.revosax.sachsen.de/vorschrift/20083.2
 Stand vom
 18.11.2026
 
