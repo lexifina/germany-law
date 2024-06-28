@@ -1703,7 +1703,7 @@ Fragen für das Bundesland Brandenburg
   ⃞ Rhein-Sieg-Kreis
   ⃞ Vogtlandkreis
   ⃞ Amberg-Sulzbach
-2. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+3. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
   ⃞ 3
   ⃞ 4
   ⃞ 5
