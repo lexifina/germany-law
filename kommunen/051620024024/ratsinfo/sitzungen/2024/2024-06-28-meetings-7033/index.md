@@ -1,0 +1,72 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-06-28T16:00:00+02:00
+- Ende: 2024-06-28T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7033
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7033
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 28.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210040.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 28.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210040.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 28.06.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210040.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 5: Bahnhofstraße, Bushaltestelle "Lövelinger Straße" (stadtauswärts): Barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 6: LAGA: Eingang Süd-Ost, überarbeiteter Entwurf der Querung Stresemannallee (Hammfeld) - mehrheitlich zugestimmt
+- TOP 7: Ergänzung des Flächennutzungsplans, Beschluss über die Stellungnahmen und die Planergänzung sowie Einholung der Genehmigung - einstimmig zugestimmt
+- TOP 8: Wendersplatz - mehrheitlich zugestimmt
+- TOP 9: LAGA: Querung B1, Zugang Rheinvorland - einstimmig zugestimmt
+- TOP 10: Nachtverkehr U75 - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 11: Neuausrichtung des Integrierten Klimaschutzkonzeptes (IKK) der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 12: Aktualisierung des bestehenden Lärmaktionsplans im Rahmen der vierten Stufe der EU-Umgebungslärm-Richtlinie - einstimmig zugestimmt
+- TOP 13: Fortschreibung des Wasserversorgungskonzepts der Stadt Neuss gem. § 38 Abs. 3 Landeswassergesetz NRW - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 14: Genehmigung der Dringlichkeitsentscheidung Nr. 100 betr.: Fortführung des Deutschlandtickets als Schülerticket - einstimmig zugestimmt
+- TOP -: Bezirksausschuss V- Norf
+- TOP 15: Ulmenallee, Endhaltestelle Ulmenallee: barrierefreier Umbau - einstimmig zugestimmt
+- TOP -: Ausschuss für Soziales, Inklusion und demografische Entwicklung
+- TOP 16: Mietspiegel für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 17: Zuschussantrag der St. Augustinus-Gruppe für die Hilfe für wohnungslose Frauen in sozialer Notlage im Jahr 2024 hier: Beantwortung der Fragen aus der Sitzung des AfSIE 30.11.2023 - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 18: Zusätzliche kommunale Förderung der Kita-Träger - einstimmig zugestimmt
+- TOP -: Bezirksausschuss I - Innenstadt
+- TOP 19: Nordkanalallee zwischen Friedrich-Ebert-Platz und Knotenpunkt Nordkanalallee / An der Obererft / Selikumer Straße sowie Hebbelstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP 20: Stresemannallee, Knotenpunkt Augustinusstraße: Umbau zur verbesserten Anbindung des LAGA-Ausganges "Süd" - einstimmig zugestimmt
+- TOP 21: Anlage einer barrierefreien Rampe zwischen Stauffenbergstraße und Rheydter Straße - einstimmig zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 22: Evaluierung kostenfreies Straßenbahnfahren in der Neusser Innenstadt - mehrheitlich abgelehnt
+- TOP 23: Erlass einer Ordnungsbehördlichen Verordnung zum Verbot des Konsums von Cannabis im Hauptstraßenzug der Neusser Innenstadt sowie auf Volksfesten, Kirmessen und anderen von der Stadt Neuss durchgeführten Veranstaltungen - mehrheitlich zugestimmt
+- TOP 24: Bildung des Eigenbetriebes Stadtgrün - mehrheitlich abgelehnt
+- TOP 25: Änderung der Anlage zur Satzung über die Erhebung von Elternbeiträgen im Rahmen außerunterrichtlicher Betreuungsangebote außerhalb der OGS an städtischen Neusser Schulen - einstimmig zugestimmt
+- TOP 26: Genehmigung der Dringlichkeitsentscheidung Nr. 99 - Bereitstellung außerplanmäßiger Mittel für die Errichtung von insgesamt 89 PV-Anlagen mit Batteriespeichern auf städtischen Immobilien - einstimmig zugestimmt
+- TOP 27: Genehmigung der Dringlichkeitsentscheidung Nr. 101 betr.: Teilnahme von Stadtverordneten am 44. Int. Hansetag in Gdansk/Danzig (PL) 13.-16.06.2024 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 28: Antrag der CDU-Fraktion betr.: Keine Preiserhöhung für das Anwohnerparken in Parkhäusern - einstimmig zugestimmt
+- TOP 29: Antrag der SPD-Fraktion betr.: Sportpolitische Weichenstellungen für die städtischen Sportanlagen - verwiesen
+- TOP -: Anfragen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 32: Bezahlbarer Wohnraum - Städtische Grundstücke und Konzeptvergabe - zur Kenntnis genommen
+- TOP 33: Sachbericht zum Integrierten Klimaschutzkonzept (IKK), Stichtag 12.03.2024 - zur Kenntnis genommen
+- TOP 34: Handlungskonzept bezahlbarer Wohnraum - Sachstand - zur Kenntnis genommen
+- TOP 35: Bürgerbeteiligung in der Stadt Neuss - zur Kenntnis genommen
+- TOP 36: Unterbringung von Geflüchteten/ Einführung einer Bezahlkarte - zur Kenntnis genommen
+- TOP 37: Ganzheitliches energetisches Quartierskonzept "Furth-Süd" - zur Kenntnis genommen
+- TOP 38: Mitteilung der Verwaltung zur Grundsteuerreform - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
