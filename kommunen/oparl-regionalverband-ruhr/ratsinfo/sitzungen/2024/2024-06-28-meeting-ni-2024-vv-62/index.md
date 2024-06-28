@@ -1,0 +1,82 @@
+# 14. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-06-28T10:00:00+02:00
+- Ende: 2024-06-28T11:45:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-VV-62
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-VV-62
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2024-VV-62
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VV-62
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-VV-62
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP -: Vereidigung neuer Mandatsträger*innen
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.2.1: Benennung von sachkundigen Bürgern
+- TOP 1.2.1.1: 
+- TOP 1.2.2: Antrag der SPD im Ruhrparlament auf Umbesetzung im Aufsichtsrat der BMR
+- TOP 1.2.3: Antrag der SPD im Ruhrparlament auf Umbesetzung in der interfraktionellen Arbeitsgruppe Europa
+- TOP 1.2.4: Benennung von sachkundigen Bürgern
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.1.1: Anfrage Die Grünen Windenergie auf der Halde Schöttelheide
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH (TER) - Bürgschaftsübernahme für den Anteil der Bundesmittel des Eisenbahn-Bundesamtes - EBA (50 % der förderfähigen Kosten) für die Ersatzinvestition der Gleiserneuerung zwischen km 64,07 und 66,0 der Strecke Hattingen - Wengern-Ost
+- TOP 8.2: Angelegenheiten der Business Metropole Ruhr GmbH - Überplanmäßige Mittelbereitstellung im Jahr 2024 zur Erhöhung des Betriebskostenzuschusses an die Business Metropole Ruhr GmbH (BMR) aufgrund der Übernahme der zusätzlichen Aufgabe 'Etablierung einer internationalen Gesundheitsmarke Ruhr (International Accelerator Health.RUHR - IAH.R)' und Fortführung dieser Aufgabe sowie der Aufgabe der Wirtschaftskonferenz Ruhr in den Jahren 2025 und 2026
+- TOP 8.2.1: Ersetzungsvorlage Angelegenheiten der Business Metropole Ruhr GmbH Überplanmäßige Mittelbereitstellung im Jahr 2024 zur Erhöhung des Betriebskostenzuschusses an die Business Metropole Ruhr GmbH (BMR) aufgrund der Übernahme der zusätzlichen Aufgabe 'Etablierung einer internationalen Gesundheitsmarke Ruhr (International Accelerator Health.RUHR - IAH.R)' sowie Fortführung dieser Aufgabe in den Jahren 2025 und 2026
+- TOP 8.3: Angelegenheiten der Ruhrwind Herten GmbH - Verkauf der vom RVR gehaltenen Anteile an die Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 8.4: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Erweiterung der Einstandspflichterklärung für die Zentraldeponie Emscherbruch (ZDE)
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH - Sanierung des Solebades im Revierpark Vonderort
+- TOP 8.6: 3. NKF-Weiterentwicklungsgesetz
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 10.1: Regionales Radwegenetz für die Metropole Ruhr Hier: Integration des Freizeitnetzes in das Regionale Radwegenetz
+- TOP 10.2: Regionales Aktionsprogramm Parkraum in der Metropole Ruhr
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Benennung eines Mitgliedes des Artistic Board der Manifesat 16 Ruhr gGmbH
+- TOP 16.2: URBANE34
+- TOP 16.2.1: URBANE34
+- TOP 16.3: Bekanntgabe der in der Zeit vom 01.10.2023 - 31.12.2023 für das Haushaltsjahr 2023 genehmigten Haushaltsüberschreitungen
+- TOP 16.4: Bekanntgabe der in der Zeit vom 01.01.2024 - 31.03.2024 für das Haushaltsjahr 2024 genehmigten Haushaltsüberschreitungen
+- TOP 16.5: Ermächtigungsübertragungen gem. § 22 KomHVO NRW (2023 nach 2024)
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 17.1: Präsenz der Metropole Ruhr in Brüssel stärken
+- TOP 17.1.1: Präsenz der Metropole Ruhr in Brüssel stärken
+- TOP 17.1.2: Resolution der Verbandsversammlung im Regionalverband Ruhr: Stahlstandorte erhalten, Flächen sichern
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Anfrage Die Grünen Sperrung der S6-Strecke zwischen Essen und Ratingen
+- TOP 18.1.2: Anfrage Die Grünen Aktueller Sachstand Wischlingen
+- TOP 18.1.3: Antwort zur Anfrage der AfD-Fraktion: Fragen zur Strategie Grüne Infrastruktur Metropole Ruhr
+- TOP 18.1.4: Anfrage Die Grünen 'Colourful Art of Football'
+- TOP 18.1.4.1: Antwort zur Anfrage der Fraktion Die Grünen 'Colourful Art of Football'
+- TOP 18.1.5: Anfrage Die Grünen Ankauf des Wasserwerks Volmarstein von der AVU
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 20.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
