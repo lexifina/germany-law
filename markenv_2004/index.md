@@ -98,7 +98,7 @@ und Eintragungen
 - [§ 45 (weggefallen)](0045.md)
 - [§ 46 Schutzverweigerung](0046.md)
 
-## Teil 6 Verfahren nach der Verordnung (EU) Nr. 1151/2012
+## Teil 6 Verfahren nach der Verordnung (EU) 2024/1143
 
 
 ### Abschnitt 1 Eintragungsverfahren
@@ -123,4 +123,5 @@ und Eintragungen
 
 - [§ 56 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung](0056.md)
 - [§ 57 Übergangsregelung für künftige Änderungen](0057.md)
+- [§ 57a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143](0057a.md)
 - [§ 58 Inkrafttreten, Außerkrafttreten](0058.md)

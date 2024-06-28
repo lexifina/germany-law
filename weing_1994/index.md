@@ -54,7 +54,7 @@
 ## 5. Abschnitt Geografische Bezeichnungen und Kennzeichnung
 
 - [§ 22b Schutz geografischer Bezeichnungen](0022b.md)
-- [§ 22c Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) Nr. 1308/2013](0022c.md)
+- [§ 22c Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) 2024/1143 in Verbindung mit der Verordnung (EU) Nr. 1308/2013](0022c.md)
 - [§ 22d Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe](0022d.md)
 - [§ 22e Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014](0022e.md)
 - [§ 22f Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe](0022f.md)

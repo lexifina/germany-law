@@ -39,5 +39,6 @@
 ## Abschnitt 9 Schlussbestimmungen
 
 - [§ 11 Verweisungen auf Vorschriften in Rechtsakten derEuropäischen Gemeinschaft oder der Europäischen Union](0011.md)
+- [§ 11a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143](0011a.md)
 - [§ 12 Inkrafttreten](0012.md)
 - [Anlage (zu § 11)Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union](anlage.md)

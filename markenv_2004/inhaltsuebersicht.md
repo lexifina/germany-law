@@ -81,7 +81,7 @@
 | § 45 | (weggefallen) |
 | § 46 | Schutzverweigerung |
 | Teil 6 |
-|  | Verfahren nach der Verordnung (EU) Nr. 1151/2012 |
+|  | Verfahren nach der Verordnung (EU) 2024/1143 |
 |  |  | Abschnitt 1 |
 |  |  |  | Eintragungsverfahren |
 | § 47 | Eintragungsantrag |

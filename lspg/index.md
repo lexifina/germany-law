@@ -12,4 +12,5 @@
 - [§ 8 Bußgeldvorschriften](0008.md)
 - [§ 9 Einziehung](0009.md)
 - [§ 9a Geändertes Unionsrecht](0009a.md)
+- [§ 9b Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143](0009b.md)
 - [§ 10 Inkrafttreten](0010.md)

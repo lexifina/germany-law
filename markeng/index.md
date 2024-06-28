@@ -228,7 +228,7 @@ Angaben oder Zeichen](0126.md)
 - [§ 128 Ansprüche wegen Verletzung](0128.md)
 - [§ 129 Verjährung](0129.md)
 
-### Abschnitt 2 Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012
+### Abschnitt 2 Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143
 
 - [§ 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren](0130.md)
 - [§ 131 Zwischenstaatliches Einspruchsverfahren](0131.md)
@@ -241,8 +241,8 @@ Angaben oder Zeichen](0126.md)
 ### Abschnitt 3 Ermächtigungen zum Erlaß von Rechtsverordnungen
 
 - [§ 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben](0137.md)
-- [§ 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012](0138.md)
-- [§ 139 Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung](0139.md)
+- [§ 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143](0138.md)
+- [§ 139 Durchführungsbestimmungen zur Verordnung (EU) 2024/1143; Verordnungsermächtigung](0139.md)
 
 ## Teil 8 Verfahren in Kennzeichenstreitsachen
 

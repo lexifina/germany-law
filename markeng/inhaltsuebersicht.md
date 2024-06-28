@@ -197,7 +197,7 @@
 | § 128 | Ansprüche wegen Verletzung |
 | § 129 | Verjährung |
 |  |  | Abschnitt 2 |
-|  |  |  | Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012 |
+|  |  |  | Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143 |
 | § 130 | Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren |
 | § 131 | Zwischenstaatliches Einspruchsverfahren |
 | § 132 | Antrag auf Änderung der Spezifikation, Löschungsverfahren |
@@ -208,8 +208,8 @@
 |  |  | Abschnitt 3 |
 |  |  |  | Ermächtigungen zum Erlaß von Rechtsverordnungen |
 | § 137 | Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben |
-| § 138 | Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012 |
-| § 139 | Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung |
+| § 138 | Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143 |
+| § 139 | Durchführungsbestimmungen zur Verordnung (EU) 2024/1143 |
 | Teil 8 |
 |  | Verfahren in Kennzeichenstreitsachen |
 | § 140 | Kennzeichenstreitsachen |

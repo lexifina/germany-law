@@ -8,5 +8,5 @@
 - [§ 5 Markenstellen und Markenabteilungen](0005.md)
 - [§ 6 (weggefallen)](0006.md)
 - [§ 7 Gemeinsame Vorschriften](0007.md)
-- [§ 8](0008.md)
+- [§ 8 Übergangsregelung](0008.md)
 - [§ 9 Inkrafttreten](0009.md)
