@@ -1,0 +1,14 @@
+# § 18a Zuweisungen an kreisangehörige Städte und Gemeinden
+(1) Zuweisungen nach § 69a Absatz 1 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz werden gewährt, soweit die Einsatzkosten 10 Euro je Einwohner, Einwohnerin und Großschadensereignis überschreiten. Die Zuweisungen werden zur Hälfte nach § 22a Nummer 2 des Sächsischen Finanzausgleichsgesetzes gewährt, die andere Hälfte dieser Kosten erstattet der Freistaat Sachsen. Soweit Kosten entstehen, die den Betrag von 40 Euro je Einwohner, Einwohnerin und Großschadensereignis übersteigen, kann der Freistaat Sachsen diese abweichend von Satz 2 erstatten. Maßgebliche Einwohnerzahl im Sinne
+1. des Satzes 1 ist die Einwohnerzahl der kreisangehörigen Stadt oder Gemeinde,
+2. des Satzes 3 ist die Einwohnerzahl des Landkreises, in dem die betroffene kreisangehörige Stadt oder Gemeinde liegt,
+zum 31. Dezember des dem Großschadensereignis vorangegangenen Jahres.
+(2) Zuweisungen nach § 69a Absatz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz werden gewährt, soweit die Kosten des Einsatzes 10 Euro je Einwohner, Einwohnerin und Einsatzfall überschreiten. Es sind folgende Nachweise zu erbringen:
+1. die Bestätigung der Rechtsaufsichtsbehörde, dass eine kritische oder instabile Haushaltslage im Sinne des Frühwarnsystems des Staatsministeriums des Innern für kommunale Haushalte besteht oder durch die der kreisangehörigen Stadt oder Gemeinde verbleibenden Einsatzkosten entsteht,
+2. die Bestätigung der kreisangehörigen Stadt oder Gemeinde über die Zuordnung des Einsatzes mindestens für die Dauer von acht Stunden zu der Führungsstufe C,
+3. die Bestätigung der kreisangehörigen Stadt oder Gemeinde über die fachliche Erforderlichkeit des Einsatzes der taktischen Einheiten,
+4. Einsatzberichte der beteiligten Gemeindefeuerwehren,
+5. Rechnungen, auch von einbezogenen Dritten, zum Nachweis der Einsatzkosten,
+6. Dokumente, insbesondere Bescheide, aus denen sich ergibt, dass durch das Kostenerstattungsverfahren kein vollständiger Kostenersatz erlangt wurde und mit hinreichender Wahrscheinlichkeit nicht mehr erlangt werden kann, sowie
+7. die Bestätigung, dass einsatzbedingte Schäden an Feuerwehrtechnik nicht durch die Vollkaskoversicherung nach den Grundsätzen des kommunalen Schadensausgleichs abgedeckt werden können.
+Die Bewilligungsbehörde kann auf die Nachweise zu Satz 2 Nummer 2 und 3 verzichten, wenn eine Führungsunterstützung oder Übernahme der Einsatzleitung nach § 49 Absatz 7 Satz 2 des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz erfolgt ist. Die Zuweisungen werden zur Hälfte nach § 22a Nummer 2 des Sächsischen Finanzausgleichsgesetzes gewährt, die andere Hälfte dieser Kosten erstattet der Freistaat Sachsen. Maßgebliche Einwohnerzahl im Sinne von Satz 1 ist die Einwohnerzahl der kreisangehörigen Stadt oder Gemeinde zum 31. Dezember des dem Einsatzfall vorangegangenen Jahres.
