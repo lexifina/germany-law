@@ -11,12 +11,13 @@
 § 10 Mindeststärke der Werkfeuerwehr
 § 11 Anforderungen an Angehörige einer Werkfeuerwehr
 § 12 Änderung betrieblicher Verhältnisse
-§ 13 Höchstsätze für Aufwandsentschädigungen
+§ 13 Höchstsätze für Aufwandsentschädigungen für ehrenamtlich tätige Mitglieder der Freiwilligen Feuerwehren
 § 14 Verdienstausfall bei ehrenamtlichen Angehörigen der Freiwilligen Feuerwehr
 § 15 Fachliche Voraussetzungen für die Durchführung der Brandverhütungsschau
 § 16 Mitwirkung anderer Behörden
 § 17 Kostenerstattung an die Gemeinde
 § 18 Kostenerstattung an den Landkreis
+§ 18a Zuweisungen an kreisangehörige Städte und Gemeinden
 § 19 Zuständigkeit
-§ 20 Übergangsvorschriften
-§ 21 In-Kraft-Treten und Außer-Kraft-Treten
+§ 20 Stundensätze für Feuerwehrfahrzeuge
+§ 21 Feuerwehrstatistik
