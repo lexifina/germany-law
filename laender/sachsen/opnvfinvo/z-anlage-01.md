@@ -2,75 +2,45 @@
 Den Zusammenschlüssen in den Jahren 2017 bis 2031 nach § 1 Absatz 1 Satz 1 für den öffentlichen Personennahverkehr zuzuweisende Festbeträge in Euro
 1. Zweckverband für den Nahverkehrsraum Leipzig
 Zweckverband für den Nahverkehrsraum Leipzig
-Jahr | Festbetrag in Euro
-2017 | 130 388 116
-2018 | 133 661 560
-2019 | 137 010 600
-2020 | 140 482 606
-2021 | 143 011 292
-2022 | 145 585 496
+Jahr | Betrag
 2023 | 148 206 035
-2024 | 150 873 743
-2025 | 153 589 471
-2026 | 156 354 081
-2027 | 159 168 455
+2024 | 174 527 434
+2025 | 179 743 238
+2026 | 179 865 682
+2027 | 184 867 516
 2. Zweckverband Verkehrsverbund Mittelsachsen
 Zweckverband Verkehrsverbund Mittelsachsen
-Jahr | Festbetrag in Euro
-2017 | 110 996 761
-2018 | 114 053 508
-2019 | 117 139 422
-2020 | 120 345 186
-2021 | 122 511 399
-2022 | 124 716 604
+Jahr | Betrag
 2023 | 126 961 503
-2024 | 129 246 810
-2025 | 131 573 253
-2026 | 133 941 571
-2027 | 136 352 519
+2024 | 149 509 872
+2025 | 153 978 019
+2026 | 154 082 911
+2027 | 158 367 760
 3. Zweckverband Verkehrsverbund Oberelbe
 Zweckverband Verkehrsverbund Oberelbe
-Jahr | Festbetrag in Euro
-2017 | 117 906 910
-2018 | 119 543 963
-2019 | 121 156 835
-2020 | 122 834 746
-2021 | 125 137 772
-2022 | 128 891 596
+Jahr | Betrag
 2023 | 131 210 934
-2024 | 133 572 517
-2025 | 135 977 086
-2026 | 138 424 398
-2027 | 140 948 221
+2024 | 154 513 755
+2025 | 159 131 709
+2026 | 159 239 839
+2027 | 163 705 476
 2028 | 1 775 000
 2029 | 1 807 000
 2030 | 1 839 000
 2031 | 1 872 000
 4. Zweckverband Verkehrsverbund Oberlausitz-Niederschlesien
 Zweckverband Verkehrsverbund Oberlausitz-Niederschlesien
-Jahr | Festbetrag in Euro
-2017 | 49 982 714
-2018 | 50 882 403
-2019 | 51 798 286
-2020 | 52 730 656
-2021 | 53 679 807
-2022 | 54 646 044
+Jahr | Betrag
 2023 | 55 629 673
-2024 | 56 631 007
-2025 | 57 650 365
-2026 | 58 688 071
-2027 | 59 744 457
+2024 | 65 509 505
+2025 | 67 467 276
+2026 | 67 513 236
+2027 | 69 390 692
 5. Zweckverband Öffentlicher Personennahverkehr Vogtland
 Zweckverband Öffentlicher Personennahverkehr Vogtland
-Jahr | Festbetrag in Euro
-2017 | 38 648 991
-2018 | 39 344 673
-2019 | 40 052 877
-2020 | 40 773 828
-2021 | 41 507 757
-2022 | 42 254 897
+Jahr | Betrag
 2023 | 43 015 485
-2024 | 43 789 764
-2025 | 44 577 980
-2026 | 45 380 383
-2027 | 46 197 230
+2024 | 50 655 037
+2025 | 52 168 878
+2026 | 52 204 416
+2027 | 53 656 154
