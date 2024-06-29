@@ -1,7 +1,7 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 1. Januar 2023
+Rechtsbereinigt mit Stand vom 29. Juni 2024
 Inhaltsübersicht
-Erster Abschnitt Träger der öffentlichen Jugendhilfe
+Abschnitt 1 Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
 § 2 Satzung des Jugendamtes
 § 3 Jugendhilfeausschuss
@@ -16,21 +16,22 @@ Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 12 Mitglieder des Landesjugendhilfeausschusses
 § 13 Amtsperiode des Landesjugendhilfeausschusses, Dauer der Mitgliedschaft
 § 14 Widerspruchs- und Beanstandungsrecht
-Zweiter Abschnitt Oberste Landesjugendbehörden, Unterrichtung des Landtags
+Abschnitt 2 Oberste Landesjugendbehörden, Unterrichtung des Landtags
 § 15 Oberste Landesjugendbehörden
 § 16 Unterrichtung des Landtages
-Dritter Abschnitt Träger der freien Jugendhilfe
+Abschnitt 3 Träger der freien Jugendhilfe
 § 17 Leistungen freier Träger
 § 18 Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
 § 19 Anerkennung als Träger der freien Jugendhilfe
-Vierter Abschnitt Jugendhilfeplanung
-§ 20 Planungsverantwortung
-§ 21 Beteiligung an der Planung
-Fünfter Abschnitt Frühförderung, Schutz von Kindern und Jugendlichen in Pflegestellen und Einrichtungen
+Abschnitt 4 Jugendhilfeplanung
+§ 20 Beteiligung an der Planung
+Abschnitt 5 Schulsozialarbeit
+§ 21 Schulsozialarbeit
+Abschnitt 6 Frühförderung, Schutz von Kindern und Jugendlichen in Pflegestellen und Einrichtungen
 § 22 Frühförderung
 § 23 Erlaubnis zur Kindertagespflege und zur Vollzeitpflege
 § 24 Erteilung, Versagung der Erlaubnis
-§ 25 Mitteilungspflichten der Tagespflege- und Pflegepersonen
+§ 25 Mitteilungspflichten der Kindertagespflege- und Pflegepersonen
 § 26 Rechte des Jugendamtes
 § 27 Aufsicht für den Betrieb von Einrichtungen
 § 28 Mitwirkung des Jugendamtes
@@ -38,21 +39,21 @@ Fünfter Abschnitt Frühförderung, Schutz von Kindern und Jugendlichen in Pfleg
 § 30 Mitteilungspflichten der Einrichtungsträger und Jugendämter
 § 31 Zusammenwirken aufsichtsführender Stellen
 § 32 Sicherstellung des Schulunterrichts bei Gewährung von Hilfe zur Erziehung in einer Einrichtung
-Sechster Abschnitt Unbegleitete ausländische Kinder und Jugendliche
+Abschnitt 7 Unbegleitete ausländische Kinder und Jugendliche
 § 32a Verteilung
 § 32b Medizinische Untersuchung
 § 32c Verwaltungskostenpauschale
 § 32d Ausschluss des Vorverfahrens
-Siebenter Abschnitt Sonstige Vorschriften
+Abschnitt 8 Sonstige Vorschriften
 § 33 Zuständigkeiten
 § 34 Befreiung von familiengerichtlicher Aufsicht
 § 35 Verwaltung des Mündelvermögens
 § 36 Zusammenarbeit
 § 37 Zuständigkeit nach dem Jugendschutzgesetz
-§ 38 Erlaubnis zur Übernahme von Vormundschaften, Pflegschaften und Beistandschaften durch Vereine
+§ 38 Anerkennung als Vormundschaftsverein
 § 39 Vereinsbeistandschaften
 § 39a Vereinbarungen über Leistungsangebote, Entgelte und Qualitätsentwicklung
-Achter Abschnitt Übergangs-, Durchführungs- und Verwaltungsvorschriften
+Abschnitt 9 Übergangs-, Durchführungs- und Verwaltungsvorschriften
 § 40 Anwendung des Zehnten Buches Sozialgesetzbuch
 § 41 Verwaltungsvorschriften
 § 42 (Inkrafttreten)
