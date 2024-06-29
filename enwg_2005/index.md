@@ -160,10 +160,10 @@
 - [§ 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz](0028n.md)
 - [§ 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung](0028o.md)
 - [§ 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen](0028p.md)
-- [§ 28q Wasserstoff-Kernnetz](0028q.md)
 
 ### Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz
 
+- [§ 28q Wasserstoff-Kernnetz](0028q.md)
 - [§ 28r Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz](0028r.md)
 - [§ 28s Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber](0028s.md)
 
