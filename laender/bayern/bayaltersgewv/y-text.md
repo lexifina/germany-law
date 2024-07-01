@@ -1,0 +1,1 @@
+Auf Grund des Art. 80d Abs. 5 Satz 3 des Bayerischen Beamtengesetzes (BayBG) in der Fassung der Bekanntmachung vom 27. August 1998 (GVBl S. 702, BayRS 2030-1-1-F), zuletzt geändert durch § 1 des Gesetzes vom 7. Dezember 2004 (GVBl S. 489), erlässt die Bayerische Staatsregierung folgende Verordnung:
