@@ -1,0 +1,1 @@
+Auf Grund von Art. 8 Abs. 1 Satz 1, Abs.4 und Art. 45 Abs. 1 Nr. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG) und Art. 77 Abs. 1 Satz2 der Verfassung erläßt die Bayerische Staatsregierung, bezüglich der §§ 1 bis 3 mit Zustimmung des Bayerischen Landtags, folgende Verordnung:
