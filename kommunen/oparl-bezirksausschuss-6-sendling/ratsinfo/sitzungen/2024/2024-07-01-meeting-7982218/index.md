@@ -1,0 +1,144 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-07-01T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982218
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982218
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Optimierung des Bahnsteigs der S-Bahn-Haltestelle "Harras"
+- TOP 2.2.: Erhalt der Gaststätte „Zum blauen Stern“ auf der Bezirkssportanlage an der Demleitnerstraße
+- TOP 2.3.: Toilettencontainer an der Südseite des Bahnhofes am Harras
+- TOP 2.4.: Fahrradwegausbau Lindwurmstraße
+- TOP 2.5.: Baumaschinenlärm an der Großmarkthalle / Lenggrieser Straße
+- TOP 2.6.: Wasserstand im Sendlinger Loch
+- TOP 2.7.: Mittagsbetreuung Grundschule Gotzinger Platz
+- TOP 2.8.: Spielplatz Dietramszeller Platz – Befüllen des Sandkastens
+- TOP 2.9.: Parksituation in der Thalkirchner Straße 280
+- TOP 2.10.: Parksituation am Greinerberg / Emil-Geis-Straße
+- TOP 2.11.: Wildes Parken im Bereich Mittersendling
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.1.1.: (E) + (U) Lärmbelästigung durch spielende Kinder
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Anhörung zur Novellierung der BaumSchV der Landeshauptstadt München
+- TOP 4.2.2.: Kommunale Wärmeplanung München, Hinweis auf die Beteiligungsmöglichkeit
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 4.3.2.: Sendlinger Loch – Gegenmaßnahmen zu Mückenplage
+- TOP 4.3.3.: Sachstand zum Sendlinger Loch
+- TOP 4.3.4.: Obst- und Gemüsestand - Sendlinger Loch
+- TOP 4.3.5.: Sendlinger Loch - bezahlbares Wohnen und Badespaß jetzt; Erwerb des Grundstücks zum bezahlbaren Wohnungsbau in kommunaler oder genossenschaftlicher Hand – Zwischennachricht
+- TOP 4.3.6.: Abriss der Häuser Dietramszeller Straße 2-6
+- TOP 4.3.7.: Fällung einer Vogelkirsche auf dem Grundstück der Thalkirchner Str. 141
+- TOP 4.3.8.: Erhaltungssatzung Schmied-Kochel-Str. 12; Keine Vernichtung preiswerten Wohnraums im Erhaltungssatzungsgebiet „Sendling“
+- TOP 4.3.9.: Sendlinger Pfarrgarten unter Denkmalschutz stellen
+- TOP 4.3.10.: Denkmalgeschützte Wohnanlage an der Fall-/Zechstraße
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Kreuzung Leipartstraße / Schöttlstraße sicher machen
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund für das Straßenfest „Ein Platz für die Alramstraße!"
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Arbeiten im Straßenraum im Bereich der Lindwurmstraße 88
+- TOP 5.3.2.: Straßeninstandsetzung Karwendelstraße 41 - 43
+- TOP 5.3.3.: Lenggrieser Str. Einmündung von Brudermühlstraße - Zickzacklinie
+- TOP 5.3.4.: Abstimmung neues Radverkehrsnetz für München
+- TOP 5.3.5.: Versammlungsanzeige - 7 VS - "Speakers Corner" vom 07.06.2024 - 06.12.2024
+- TOP 5.3.6.: Ausnahmegenehmigung - Veranstaltung in einer städtischen Grünanlage; Sommerfest KiGa Flaucherfüchse Am Isarkanal / Ecke Hans-Preißinger-Str. am 13.07.2024 (Ersatztermin: 19.07.)
+- TOP 5.3.7.: Sondernutzung auf öffentl. Verkehrsgrund – Erste-Hilfe-Tag des GSR Am Harras (nördliche Platzfläche) am 20.07.2024
+- TOP 5.3.8.: Ausnahmezulassung gem. § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) – vorgezogene Mülleinsammlung im Bereich Lindwurmstraße/Eisenbahnüberführung
+- TOP 5.3.9.: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2)
+- TOP 5.3.10.: Tauben am U-Bahnhof und S-Bahnhof Harras
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Verkürzung des linken Parkstreifens auf der Brudermühlstraße Nr 48/50 (Antrag des Seniorenbeirats)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. „Kinder- und Jugendfonds „Lasst uns mal ran!“ im BA 6 vom 01.07.2024 – 31.12.2024“ 5.000,00 € / AZ: 0262.0-6-0502
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative „Schöttlstraße“ „Hattori Hanzi“ Konzert in der Schöttlstraße ab 07.07.2024 1.500,00 € / AZ: 0262.0-6-0503
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweis – Ferienprogramm für Kinder vom 18.03.2024 der ALTE UTTING GmbH
+- TOP 6.3.2.: Verwendungsnachweis – Geräuschminimierung Hockeytore vom 04.01.2024 des HC Wacker München
+- TOP 6.3.3.: Verwendungsnachweis – Parklett in der Schöttlstr. 1 (Elterninitiative Igelchen e.V.)
+- TOP 6.3.4.: Verwendungsnachweis – Wanderbaumallee in der Oberländerstr vom 21.06.2023 bis 31.12.2023 des Green City e.V.
+- TOP 6.3.5.: Verwendungsnachweis – Bach Weihnachtsoratorium (Konzerte am 09.12.2023 und 10.12.2023) des Kantorat an der Himmelfahrtskirche
+- TOP 6.3.6.: Verwendungsnachweis – Stark wie ein Löwe (Mobbingpräventionskurse an der städt. Maria-Probst-Realschule)
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Beschlussvorlage "Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027"
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Region ist Solidarität. Gerechter Ausgleich von Lasten und Nutzen im kommunalen Dialog; Bekanntgabe der Projektergebnisse
+- TOP 7.3.2.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.3.: Antrag für einen Schanigarten in der Aberlestr. 14
+- TOP 8.1.4.: Antrag für ein Parklet in der Meindlstr. 6
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Generalsanierung der Schulsportanlage Wackersbergerstraße - Unterstützung der Vereine bei der Suche nach Ersatzplätzen BA-Antrags-Nr. 20-26 / B 06544 vom 08.04.2024
+- TOP 8.3.2.: Geschätfsbericht 2023 des Kreisjugendring München-Stadt
+- TOP 8.3.3.: Anfrage zum KloHäuschen; Unterstützung bei der Graffitiwand nahe der Königsdorfer Str. 13
+- TOP 8.3.4.: Fortführung einer Kleingaststätte in der Lindwurmstr. 185
+- TOP 8.3.5.: Beschwerden zum „Giesinger Stehausschank“ in der Oberländerstr. 31
+- TOP 8.3.6.: Genehmigungsbescheid - Veranstaltung auf öffentlichem Verkehrsgrund; Konzert Sommerabend am Sendlinger Kirchplatz, Sendlinger Kulturschmiede am 29.06.2024
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Homeoffice – Konzept für die Stadt der Zukunft entwickeln
+- TOP 9.3.2.: Bayerischer Kommunaler Prüfungsverband Bericht über die überörtliche Prüfung der Jahresrechnungen 2006 bis 2008, der &#039;Eröffnungsbilanz zum 01.01.2009 und der Jahresabschlüsse 2009 bis 2011 der Landeshauptstadt München
+- TOP 9.3.3.: Geschenkkisten sind kein Müll
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.12.: Problematik um den Quartiersplatz
+- TOP 4.3.11.: Antrag auf Baumveränderung oder Fällung vom 23.04.2024 auf dem Grundstück Maronstr. 2, Kraelerstr. 3
+- TOP 5.3.11.: Nutzung des Fahrradwegs unter der Brücke an der Poccistraße durch Motorradfahrer
+- TOP 2.13.: Lärmbelästigung auf dem Kirchplatz der Kirche St. Margaret
+- TOP 4.4.1.: Offensive Denkmalschutz III Ensemble Sendlinger Ortskern hier : Lindwurmstrasse 130 Bretterzaun am Daumillerweg Fortführung des Antrags: 14-20 / B 01486
+- TOP 6.2.1.: Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen BA-Antrags-Nr. 20-26 / B 06628 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 30.04.2024
+- TOP 4.2.3.: Sitzungsvorlage Nr. 20-26 / V 10047 – Lärm und Umweltverschmutzung am Flaucher und an den Isarauen; Empfehlung Nr. 20-26 / E 00858
+- TOP 4.3.12.: Verlängerung der Fußgängergrünphase am Übergang über die Plinganserstraße
+- TOP 4.2.4.: Fällungsantrag vom 19.06.2024 auf dem Grundstück Paul-Meisel-Weg 3
+- TOP 5.3.12.: Neue Radwege in der Lindwurmstraße noch in der laufenden Legislaturperiode umsetzen: Für eine sichere Teilnahme am Verkehr für alle! - Zwischennachricht -
+- TOP 2.14.: Verkehrsmessung an der Lindwurmstraße
+- TOP 5.3.13.: Oberländerstraße 5-19 - Sanierung des Fahrbahnbelages – Vollsperre vom 01.07.2024 bis 30.09.2024
+- TOP 2.15.: Verkehrsmessung an der Bavariastraße
+- TOP 2.16.: Anliegen zur Verkehrssicherheit im Bereich Kreuzung Lindenschmitstraße / Kidlerstraße
+- TOP 5.2.2.: Erhöhung der Verkehrssicherheit und Aufenthaltsqualität im Straßenraum – Umsetzung des Radentscheidprojekts Lindwurmstraße (Stadtbezirke 2 und 6) Bedarfs- und Konzeptgenehmigung Verkehrsführung und Raumaufteilung
+- TOP 5.3.14.: Anzeige einer Versammlung unter freiem Himmel im Bereich des Harras am 06.07.2024
+- TOP 5.3.15.: SWM Baumaßnahme in der Reutberger Straße – Strom-Projekt (28. KW bis 40. KW)
+- TOP 8.1.1.: Antrag über eine Freischankfläche in der Lindenschmitstraße 18
+- TOP 8.3.7.: Anfrage zur Platznutzung Margaretenplatz
+- TOP 8.1.2.: Planungskonzept über die Einrichtung einer Sommerstraße gemäß Sitzungsvorlagen Nr. 20-26 / V 00438 und Nr. 20-26 / V 05706 in der Schöttlstraße im Bereich zwischen Leipartstraße und Fallstraße – Kennzeichnung eines temporären verkehrsberuhigten Bereichs vom 03.07.2024 bis 15.10.2024
+- TOP 2.17.: Neugestaltung des Herzog-Ernst-Platz
+- TOP 2.18.: Betreuungssituation in Sendling
+- TOP 2.19.: Geschwindigkeitsbegrenzung in der Implerstraße
+- TOP 4.4.2.: Dringlichkeitsantrag: Die Postbank-Filiale am Harras muss erhalten bleiben! (SPD-Fraktion)
+- TOP 2.20.: Antrag für ein Parklet in der Schöttlstraße als Sommerstraße
+- TOP 2.21.: Mückenplage am Sendlinger Loch und Umgebung
+- TOP 2.22.: Taubenfütterung am Sendlinger Loch und drohende/bestehende Rattenplage
+- TOP 2.23.: Geplante Schließung der Postfiliale am Harras (siehe Antrag zu 4.4.2)
+- TOP 2.24.: Anhaltende Hochwasserproblematik in der Kleingartenanlage SW 24 (Schäftlarnstraße 124/Dietramszellerstraße)
+- TOP 2.25.: Schäden in der Wohnung Schäftlarnstraße 92
+- TOP 5.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.4.: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2)
