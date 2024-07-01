@@ -1,0 +1,1 @@
+Auf Grund von § 70a Abs. 1 und 2 des Personenstandsgesetzes in Verbindung mit § 1 der Verordnung über die Zuständigkeit zum Erlaß von Rechtsverordnungen nach dem Personenstandsgesetz erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
