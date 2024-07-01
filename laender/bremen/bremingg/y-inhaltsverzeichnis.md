@@ -21,7 +21,11 @@ Teil 3: | Ingenieurkammer
 § 11 | Rechtsstellung der Ingenieurkammer
 § 12 | Aufgaben der Ingenieurkammer
 § 13 | Bauvorlageberechtigte
-§ 13a | Tragwerksplanerinnen und Tragwerksplaner
+§ 13a | Voraussetzungen für die Eintragung in die Liste nach § 65 Absatz 2 Nummer 2 und Absatz 3 Nummer 1 der Bremischen Landesbauordnung
+§ 13b | Eintragungsverfahren für Antragstellende nach § 13a Absatz 3
+§ 13c | Ausgleichsmaßnahmen
+§ 13d | Vorübergehende und gelegentliche Dienstleistungserbringung von Bauvorlageberechtigten, Anzeigeverfahren
+§ 13e | Tragwerksplanerinnen und Tragwerksplaner
 § 14 | Versorgungswerk
 § 15 | Kammermitgliedschaft
 § 16 | Organe der Ingenieurkammer
@@ -44,4 +48,5 @@ Teil 5: | Ordnungswidrigkeiten, Übergangsvorschriften und Schlussbestimmungen
 § 30 | Ordnungswidrigkeiten
 § 31 | Übergangsvorschrift
 § 32 | In-Kraft-Treten, Außer-Kraft-Treten
-Anlage (zu § 20 Absatz 4 Satz 2)
+Anlage 1 (zu § 20 Absatz 4 Satz 2)
+Anlage 2 (zu § 13a Absatz 1 Nummer 1)
