@@ -1,0 +1,2 @@
+# Art. 23a Rechnungsprüfung
+Der Oberste Rechnungshof ist berechtigt, beim Landtagsamt die Ordnungsmäßigkeit des Haushaltsvollzugs hinsichtlich der vom Landtag im Zusammenhang mit dem Abgeordnetenmandat festgelegten Leistungen zu prüfen. Die Art. 89, 90, 94 bis 99 der Bayerischen Haushaltsordnung finden Anwendung. Die Erforderlichkeit der Mittelverwendung durch die Abgeordneten zur Wahrnehmung des parlamentarischen Mandats ist nicht Gegenstand der Prüfung.
