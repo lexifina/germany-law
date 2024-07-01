@@ -72,6 +72,7 @@ Abschnitt 6 Aufwendungen bei dauernder Pflegebedürftigkeit
 § 50 Teilstationäre Pflege
 § 51 Verhinderungspflege
 § 52 Kurzzeitpflege
+§ 52a Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
 § 53 Angebote zur Unterstützung im Alltag und Entlastungsbetrag
 § 54 Pflegehilfsmittel und Maßnahmen zur Verbesserung des individuellen oder gemeinsamen Wohnumfeldes
 § 55 Vollstationäre Pflege
