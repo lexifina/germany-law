@@ -52,7 +52,7 @@
 |  |  |  |  |  | Zweiter Unterabschnitt |
 |  |  |  |  |  |  | Heilbehandlung |
 | § 27 | Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur |
-| § 27a | Nutzung der Telematikinfrastruktur |
+| §27a | Nutzung der Telematikinfrastruktur |
 | § 28 | Ärztliche und zahnärztliche Behandlung |
 | § 29 | Arznei- und Verbandmittel |
 | § 30 | Heilmittel |
@@ -398,7 +398,7 @@
 | § 213 | Versicherungsschutz |
 | § 214 | Geltung auch für frühere Versicherungsfälle |
 | § 215 | Sondervorschriften für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrages genannten Gebiet |
-| § 216 | Bezugsgröße (Ost) und aktueller Rentenwert (Ost) |
+| § 216 | Bezugsgröße (Ost) |
 | § 217 | Bestandsschutz |
 | § 218 | (weggefallen) |
 | § 218a | Leistungen an Hinterbliebene |

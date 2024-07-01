@@ -81,11 +81,11 @@ Allgemeine Fragen
   ⃞ die Fraktion mit den meisten Abgeordneten.
   ⃞ alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen konnten.
   ⃞ alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.
-14. Meinungsfreiheit in Deutschland heißt, dass ich …
-  ⃞ auf Flugblättern falsche Tatsachen behaupten darf.
-  ⃞ meine Meinung in Leserbriefen äußern kann.
-  ⃞ Nazi-Symbole tragen darf.
-  ⃞ Meine Meinung sagen darf, solange ich der Regierung nicht widerspreche.
+14. Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich
+  ☐ Passanten auf der Straße beschimpfen darf
+  ☐ meine Meinung im Internet äußern kann
+  ☐ Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf
+  ☐ meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche
 15. Was verbietet das deutsche Grundgesetz?
   ⃞ Militärdienst
   ⃞ Zwangsarbeit
@@ -308,11 +308,11 @@ Allgemeine Fragen
   ⃞ der Bundespräsident / die Bundespräsidentin
   ⃞ der Bundesratspräsident / die Bundesratspräsidentin
   ⃞ der Bundestagspräsident / die Bundestagspräsidentin
-59. Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke“?
-  ⃞ CDU und SSW
-  ⃞ PDS und WASG
-  ⃞ CSU und FDP
-  ⃞ Bündnis 90/Die Grünen und SPD
+59. Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?
+  ☐ vor etwa 300 Jahren
+  ☐ vor etwa 700 Jahren
+  ☐ vor etwa 1150 Jahren
+  ☐ vor etwa 1700 Jahren
 60. In Deutschland gehören der Bundestag und der Bundesrat zur …
   ⃞ Exekutive.
   ⃞ Legislative.
@@ -343,11 +343,11 @@ Allgemeine Fragen
   ⃞ die Bundesregierung zu kontrollieren.
   ⃞ den Bundeskanzler / die Bundeskanzlerin zu wählen.
   ⃞ das Bundeskabinett zu bilden.
-66. Wer schrieb den Text zur deutschen Nationalhymne?
-  ⃞ Friedrich von Schiller
-  ⃞ Clemens Brentano
-  ⃞ Johann Wolfgang von Goethe
-  ⃞ Heinrich Hoffmann von Fallersleben
+66. Welche Städte haben die größten jüdischen Gemeinden in Deutschland?
+  ☐ Berlin und München
+  ☐ Hamburg und Essen
+  ☐ Nürnberg und Stuttgart
+  ☐ Worms und Speyer
 67. Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?
   ⃞ Verteidigungspolitik
   ⃞ Außenpolitik
@@ -374,11 +374,11 @@ Allgemeine Fragen
   ⃞ auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.
   ⃞ auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten/der Bundespräsidentin, um Staatsgäste zu empfangen.
   ⃞ in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
-72. Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?
-  ⃞ Gerhard Schröder
-  ⃞ Jürgen Rüttgers
-  ⃞ Klaus Wowereit
-  ⃞ Angela Merkel
+72. Wie heißt der jetzige Bundeskanzler/die jetzige Bundeskanzlerin von Deutschland?
+  ☐ Gerhard Schröder
+  ☐ Angela Merkel
+  ☐ Franziska Giffey
+  ☐ Olaf Scholz
 73. Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …
   ⃞ CDU/CSU und SPD.
   ⃞ Die Linke und Bündnis 90/Die Grünen.
@@ -390,10 +390,10 @@ Allgemeine Fragen
   ⃞ Bundestag
   ⃞ Bundesgerichtshof
 75. Wie heißt Deutschlands heutiges Staatsoberhaupt?
-  ⃞ Joachim Gauck
-  ⃞ Norbert Lammert
-  ⃞ Wolfgang Thierse
-  ⃞ Edmund Stoiber
+  ☐ Frank-Walter Steinmeier
+  ☐ Bärbel Bas
+  ☐ Bodo Ramelow
+  ☐ Joachim Gauck
 76. Was bedeutet die Abkürzung CDU in Deutschland?
   ⃞ Christliche Deutsche Union
   ⃞ Club Deutscher Unternehmer
@@ -494,11 +494,11 @@ Allgemeine Fragen
   ⃞ Schulpflicht
   ⃞ Schweigepflicht
   ⃞ Religionspflicht
-96. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?
-  ⃞ einen Reisepass
-  ⃞ einen Personalausweis
-  ⃞ einen Sozialversicherungsausweis
-  ⃞ einen Führerschein
+96. Wie kann jemand, der den Holocaust leugnet, bestraft werden?
+  ☐ Kürzung sozialer Leistungen
+  ☐ bis zu 100 Sozialstunden
+  ☐ gar nicht, Holocaustleugnung ist erlaubt
+  ☐ mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 97. Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?
   ⃞ Sozialversicherung
   ⃞ Sozialhilfe
@@ -569,11 +569,11 @@ Allgemeine Fragen
   ⃞ 3 Jahre
   ⃞ 4 Jahre
   ⃞ 5 Jahre
-111. In Deutschland darf man wählen. Was bedeutet das?
-  ⃞ Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.
-  ⃞ Nur verheiratete Personen dürfen wählen.
-  ⃞ Nur Personen mit einem festen Arbeitsplatz dürfen wählen.
-  ⃞ Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.
+111. Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?
+  ☐ die Politik Israels öffentlich kritisieren
+  ☐ das Aufhängen einer israelischen Flagge auf dem Privatgrundstück
+  ☐ eine Diskussion über die Politik Israels
+  ☐ der öffentliche Aufruf zur Vernichtung Israels
 112. Die Wahlen in Deutschland sind …
   ⃞ speziell.
   ⃞ geheim.
@@ -604,11 +604,11 @@ Allgemeine Fragen
   ⃞ 4 %
   ⃞ 5 %
   ⃞ 6 %
-118. Was regelt das Wahlrecht in Deutschland?
-  ⃞ Wer wählen darf, muss wählen.
-  ⃞ Alle die wollen, können wählen.
-  ⃞ Wer nicht wählt, verliert das Recht zu wählen.
-  ⃞ Wer wählen darf, kann wählen.
+118. Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?
+  ☐ nur Deutsche
+  ☐ nur Israelis
+  ☐ nur religiöse Menschen
+  ☐ alle Menschen
 119. Wahlen in Deutschland sind frei. Was bedeutet das?
   ⃞ Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.
   ⃞ Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.
@@ -760,11 +760,11 @@ Allgemeine Fragen
   ⃞ die Bürgerinnen und Bürger abzuhören
   ⃞ die Gesetze zu beschließen
   ⃞ die Einhaltung von Gesetzen zu überwachen
-149. Wer kann Gerichtsschöffe / Gerichtsschöffin in Deutschland werden?
-  ⃞ alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre
-  ⃞ alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre
-  ⃞ alle Personen, die seit mindestens 5 Jahren in Deutschland leben
-  ⃞ nur Personen mit einem abgeschlossenen Jurastudium
+149. Was ist ein Beispiel für antisemitisches Verhalten?
+  ☐ ein jüdisches Fest besuchen
+  ☐ die israelische Regierung kritisieren
+  ☐ den Holocaust leugnen
+  ☐ gegen Juden Fußball spielen
 150. Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …
   ⃞ der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.
   ⃞ ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.
@@ -927,21 +927,21 @@ Allgemeine Fragen
   ⃞ Er bat Polen und die polnischen Juden um Vergebung.
   ⃞ Er zeigte seine Demut vor dem Warschauer Pakt.
   ⃞ Er sprach ein Gebet am Grab des Unbekannten Soldaten.
-182. Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?
-  ⃞ KPD und SPD
-  ⃞ SPD und CDU
-  ⃞ CDU und FDP
-  ⃞ KPD und CSU
+182. Wie heißt das jüdische Gebetshaus?
+  ☐ Basilika
+  ☐ Moschee
+  ☐ Synagoge
+  ☐ Kirche
 183. Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?
   ⃞ 40er Jahre
   ⃞ 50er Jahre
   ⃞ 70er Jahre
   ⃞ 80er Jahre
-184. Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“?
-  ⃞ Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.
-  ⃞ Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.
-  ⃞ Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.
-  ⃞ Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.
+184. Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?
+  ☐ eine Resolution der Vereinten Nationen
+  ☐ ein Beschluss des Zionistenkongresses
+  ☐ ein Vorschlag der Bundesregierung
+  ☐ ein Vorschlag der UdSSR
 185. Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …
   ⃞ des Warschauer Pakts gegen den Westen
   ⃞ Norddeutschlands gegen Süddeutschland
@@ -1048,11 +1048,11 @@ Allgemeine Fragen
   ⃞ zum Warschauer Pakt.
   ⃞ zur OPEC.
   ⃞ zur Europäischen Verteidigungsgemeinschaft.
-206. Was bedeutete im Jahr 1989 in Deutschland das Wort „Montagsdemonstration“?
-  ⃞ In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.
-  ⃞ Montags waren Demonstrationen gegen das DDR-Regime.
-  ⃞ Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.
-  ⃞ Montags demonstrierte man in der DDR gegen den Westen.
+206. Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?
+  ☐ an berühmte deutsche Politikerinnen und Politiker
+  ☐ an die Opfer des Nationalsozialismus
+  ☐ an Verkehrstote
+  ☐ an bekannte jüdische Musiker
 207. In welchem Militärbündnis war die DDR Mitglied?
   ⃞ in der NATO
   ⃞ im Rheinbund
@@ -1085,10 +1085,10 @@ Allgemeine Fragen
   ⃞ Bundesrepublik Deutschland
   ⃞ Bundesbezirk Deutschland
 213. Wie viele Einwohner hat Deutschland?
-  ⃞ 70 Millionen
-  ⃞ 78 Millionen
-  ⃞ 82 Millionen
-  ⃞ 90 Millionen
+  ☐ 70 Millionen
+  ☐ 78 Millionen
+  ☐ 84 Millionen
+  ☐ 90 Millionen
 214. Welche Farben hat die deutsche Flagge?
   ⃞ schwarz-rot-gold
   ⃞ rot-weiß-schwarz
@@ -1121,10 +1121,10 @@ Allgemeine Fragen
   ⃞ 1971.
   ⃞ 1990.
 220. Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
-  ⃞ an das Ende des Zweiten Weltkrieges
-  ⃞ an die Verabschiedung des Grundgesetzes
-  ⃞ an die Wiedervereinigung Deutschlands
-  ⃞ an die Opfer des Nationalsozialismus
+  ☐ an das Ende des Zweiten Weltkrieges
+  ☐ an die Verabschiedung des Grundgesetzes
+  ☐ an die Wiedervereinigung Deutschlands
+  ☐ an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
 221. Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
   ⃞ Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
   ⃞ Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.
@@ -1192,11 +1192,11 @@ Allgemeine Fragen
   ⃞ Bulgarien
   ⃞ Griechenland
   ⃞ Portugal
-234. Wo ist der Sitz des Europäischen Parlaments?
-  ⃞ London
-  ⃞ Paris
-  ⃞ Berlin
-  ⃞ Straßburg
+234. Wo ist ein Sitz des Europäischen Parlaments?
+  ☐ London
+  ☐ Paris
+  ☐ Berlin
+  ☐ Straßburg
 235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?
   [Bild: bgbl1_2008_j01649_0090.jpg]
   ⃞ Freundschaft zwischen England und Deutschland
@@ -1294,10 +1294,10 @@ Allgemeine Fragen
   ⃞ beim Ordnungsamt
   ⃞ beim Gewerbeamt
 254. In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
-  ⃞ Der Scheidungsprozess dauert ein Jahr.
-  ⃞ Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.
-  ⃞ Das Besuchsrecht für die Kinder gilt ein Jahr.
-  ⃞ Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
+  ☐ Der Scheidungsprozess dauert ein Jahr
+  ☐ Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich
+  ☐ Das Besuchsrecht für die Kinder gilt ein Jahr
+  ☐ Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich
 255. Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
   ⃞ Ordnungsamt.
   ⃞ Schulamt.
@@ -1463,11 +1463,11 @@ Allgemeine Fragen
   ⃞ die Arbeitszeit
   ⃞ die Kündigungsfrist
   ⃞ die Versicherungspflicht
-288. Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?
-  ⃞ beim Finanzamt
-  ⃞ beim Einwohnermeldeamt
-  ⃞ bei der Kommune (Stadt oder Gemeinde)
-  ⃞ beim Gesundheitsamt
+288. Woraus begründet sich Deutschlands besondere Verantwortung für Israel?
+  ☐ aus der Mitgliedschaft in der Europäischen Union (EU)
+  ☐ aus den nationalsozialistischen Verbrechen gegen Juden
+  ☐ aus dem Grundgesetz der Bundesrepublik Deutschland
+  ☐ aus der christlichen Tradition
 289. Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
   ⃞ seine Deutschkenntnisse zu gering sind.
   ⃞ er zu hohe Gehaltsvorstellungen hat.
@@ -1537,10 +1537,10 @@ Fragen für das Bundesland Baden-Württemberg
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Landkreis in Baden-Württemberg?
-  ⃞ Demmin
-  ⃞ Neckar-Odenwald-Kreis
-  ⃞ Nordfriesland
-  ⃞ Altötting
+  ☐ Mecklenburgische Seenplatte
+  ☐ Neckar-Odenwald-Kreis
+  ☐ Nordfriesland
+  ☐ Altötting
 3. Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?
   ⃞ 3
   ⃞ 4
@@ -1645,10 +1645,10 @@ Fragen für das Bundesland Berlin
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Bezirk von Berlin?
-  ⃞ Altona
-  ⃞ Prignitz
-  ⃞ Pankow
-  ⃞ Demmin
+  ☐ Altona
+  ☐ Prignitz
+  ☐ Pankow
+  ☐ Mecklenburgische Seenplatte
 3. Für wie viele Jahre wird das Landesparlament in Berlin gewählt?
   ⃞ 3
   ⃞ 4
@@ -1703,7 +1703,7 @@ Fragen für das Bundesland Brandenburg
   ⃞ Rhein-Sieg-Kreis
   ⃞ Vogtlandkreis
   ⃞ Amberg-Sulzbach
-3. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+2. Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
   ⃞ 3
   ⃞ 4
   ⃞ 5
@@ -1807,10 +1807,10 @@ Fragen für das Bundesland Hamburg
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Bezirk von Hamburg?
-  ⃞ Altona
-  ⃞ Hemelingen
-  ⃞ Pankow
-  ⃞ Demmin
+  ☐ Altona
+  ☐ Hemelingen
+  ☐ Pankow
+  ☐ Mecklenburgische Seenplatte
 3. Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
   ⃞ 3
   ⃞ 4
@@ -1916,10 +1916,10 @@ Fragen für das Bundesland Mecklenburg-Vorpommern
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Landkreis in Mecklenburg-Vorpommern?
-  ⃞ Prignitz
-  ⃞ Demmin
-  ⃞ Vogtlandkreis
-  ⃞ Rhein-Sieg-Kreis
+  ☐ Prignitz
+  ☐ Mecklenburgische Seenplatte
+  ☐ Vogtlandkreis
+  ☐ Rhein-Sieg-Kreis
 3. Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
   ⃞ 3
   ⃞ 4
@@ -1990,10 +1990,10 @@ Fragen für das Bundesland Niedersachsen
   ⃞ schwarz-gelb
   ⃞ blau-weiß-rot
 6. Wo können Sie sich in Niedersachsen über politische Themen informieren?
-  ⃞ beim Koordinator für politische Bildung im Kultusministerium
-  ⃞ beim Ordnungsamt der Gemeinde
-  ⃞ bei der Verbraucherzentrale
-  ⃞ bei den Kirchen
+  ☐ bei der Landeszentrale für politische Bildung
+  ☐ beim Ordnungsamt der Gemeinde
+  ☐ bei der Verbraucherzentrale
+  ☐ bei den Kirchen
 7. Die Landeshauptstadt von Niedersachsen heißt …
   ⃞ Hannover.
   ⃞ Braunschweig.
@@ -2132,10 +2132,10 @@ Fragen für das Bundesland Saarland
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Landkreis im Saarland?
-  ⃞ Demmin
-  ⃞ Altötting
-  ⃞ Neunkirchen
-  ⃞ Rhein-Sieg-Kreis
+  ☐ Mecklenburgische Seenplatte
+  ☐ Altötting
+  ☐ Neunkirchen
+  ☐ Rhein-Sieg-Kreis
 3. Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
   ⃞ 3
   ⃞ 4
@@ -2294,10 +2294,10 @@ Fragen für das Bundesland Schleswig-Holstein
   ⃞ 3
   ⃞ 4
 2. Welches ist ein Landkreis in Schleswig-Holstein?
-  ⃞ Ammerland
-  ⃞ Demmin
-  ⃞ Nordfriesland
-  ⃞ Rhein-Sieg-Kreis
+  ☐ Ammerland
+  ☐ Mecklenburgische Seenplatte
+  ☐ Nordfriesland
+  ☐ Rhein-Sieg-Kreis
 3. Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?
   ⃞ 3
   ⃞ 4
@@ -2314,10 +2314,10 @@ Fragen für das Bundesland Schleswig-Holstein
   ⃞ weiß-rot
   ⃞ grün-weiß-rot
 6. Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
-  ⃞ bei der Verbraucherzentrale
-  ⃞ beim Ordnungsamt der Gemeinde
-  ⃞ bei der Landeszentrale für politische Bildung
-  ⃞ bei den Kirchen
+  ☐ bei der Verbraucherzentrale
+  ☐ beim Ordnungsamt der Gemeinde
+  ☐ beim Landesbeauftragten für politische Bildung
+  ☐ bei den Kirchen
 7. Die Landeshauptstadt von Schleswig-Holstein heißt …
   ⃞ Husum.
   ⃞ Flensburg.

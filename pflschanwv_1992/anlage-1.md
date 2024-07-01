@@ -29,8 +29,6 @@
 | 25 | Endrin |
 | 26 | Ethylenoxid |
 | 27 | Fluoressigsäure und ihre Derivate |
-| 27a | Glyphosat |
-| 27b | Glyphosat-Trimesium |
 | 28 | HCH, technisch |
 | 29 | Heptachlor |
 | 30 | Hexachlorbenzol |

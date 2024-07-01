@@ -1,20 +1,21 @@
 # Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
 
-1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
-  a) mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
-  b) mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
-  c) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
-  d) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 beträgt für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+  a) mit einer technisch zulässigen Gesamtmasse von mehr als 3,5 Tonnen bis weniger als 7,5 Tonnen unabhängig von der Anzahl der Achsen 0,052 Euro,
+  b) mit einer technisch zulässigen Gesamtmasse ab 7,5 Tonnen bis weniger als 12 Tonnen unabhängig von der Anzahl der Achsen 0,066 Euro,
+  c) mit einer technisch zulässigen Gesamtmasse ab 12 Tonnen bis einschließlich 18 Tonnen unabhängig von der Anzahl der Achsen 0,107 Euro,
+  d) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und bis zu drei Achsen 0,141 Euro,
+  e) mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und mit vier oder mehr Achsen 0,155 Euro.
 2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2
   a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
-    | Kategorie | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 oder mehr Achsen |
-    | A | 0,015 | 0,015 | 0,022 | 0,023 |
-    | B | 0,043 | 0,052 | 0,062 | 0,062 |
-    | C | 0,059 | 0,063 | 0,080 | 0,087 |
-    | D | 0,088 | 0,101 | 0,134 | 0,149 |
-    | E | 0,113 | 0,121 | 0,164 | 0,182 |
-    | F | 0,114 | 0,123 | 0,169 | 0,187 |
-    | G | 0,001 | 0,001 | 0,001 | 0,001 |
+    | Kategorie | > 3,5 bis < 7,5 t | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit 4 oder mehr Achsen |
+    | A | 0,011 | 0,015 | 0,015 | 0,022 | 0,023 |
+    | B | 0,043 | 0,043 | 0,052 | 0,062 | 0,062 |
+    | C | 0,055 | 0,059 | 0,063 | 0,080 | 0,087 |
+    | D | 0,079 | 0,088 | 0,101 | 0,134 | 0,149 |
+    | E | 0,098 | 0,113 | 0,121 | 0,164 | 0,182 |
+    | F | 0,102 | 0,114 | 0,123 | 0,169 | 0,187 |
+    | G | 0,001 | 0,001 | 0,001 | 0,001 | 0,001 |
   b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien A bis F auf Grund ihrer Schadstoffklasse sowie zur Kategorie G:
     aa) Kategorie A Fahrzeuge der Schadstoffklasse EURO VI,
     bb) Kategorie B Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse EURO V,
@@ -24,17 +25,17 @@
     ff) Kategorie F Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner EURO-Schadstoffklasse oder EEV Klasse angehören,
     gg) Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
-  | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen oder mehr |
-  | 0,016 | 0,016 | 0,016 | 0,012 |
+  | > 3,5 bis < 7,5 t | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen oder mehr |
+  | 0,014 | 0,016 | 0,016 | 0,016 | 0,012 |
 4. Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
-  a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
-    | Kohlenstoffdioxid-Emissionsklasse | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu 3 Achsen | > 18 t mit4 Achsen | > 18 t mit5 oder mehr Achsen |
-    | 1 | EURO I und schlechter | 0,080 | 0,104 | 0,158 | 0,158 | 0,162 |
-    | EURO II EURO III | 0,080 | 0,104 | 0,138 | 0,138 | 0,162 |
-    | EURO IV EURO V EEV Klasse 1 | 0,080 | 0,100 | 0,134 | 0,134 | 0,160 |
-    | EURO VI | 0,080 | 0,100 | 0,124 | 0,134 | 0,158 |
-    | 2 | 0,076 | 0,096 | 0,118 | 0,128 | 0,150 |
-    | 3 | 0,072 | 0,090 | 0,111 | 0,120 | 0,142 |
-    | 4 | 0,040 | 0,050 | 0,063 | 0,068 | 0,079 |
-    | 5 | 0 | 0 | 0 | 0 | 0 |
-  b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
+  a) für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl je Kilometer nach § 3 Absatz 1 Nummer 4 in Euro:
+    | Kohlenstoffdioxid-Emissionsklasse | > 3,5 bis< 7,5 t | 7,5 bis < 12 t | 12 bis 18 t | > 18 t mitbis zu3 Achsen | > 18 t und4 Achsen | > 18 t mit5 oder mehr Achsen |
+    | 1 | EURO I und schlechter | 0,080 | 0,080 | 0,104 | 0,158 | 0,158 | 0,162 |
+    | EURO II EURO III | 0,080 | 0,080 | 0,104 | 0,138 | 0,138 | 0,162 |
+    | EURO IV EURO V EEV Klasse 1 | 0,080 | 0,080 | 0,100 | 0,134 | 0,134 | 0,160 |
+    | EURO VI | 0,074 | 0,080 | 0,100 | 0,124 | 0,134 | 0,158 |
+    | 2 | 0,070 | 0,076 | 0,096 | 0,118 | 0,128 | 0,150 |
+    | 3 | 0,067 | 0,072 | 0,090 | 0,111 | 0,120 | 0,142 |
+    | 4 | 0,037 | 0,040 | 0,050 | 0,063 | 0,068 | 0,079 |
+    | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+  b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 Satz 1 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.

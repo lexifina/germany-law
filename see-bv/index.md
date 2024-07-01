@@ -30,7 +30,7 @@
 - [§ 11 Qualitätsnormen für Ausbildung und Prüfungsleistungen](0011.md)
 - [§ 12 Qualitätssicherung](0012.md)
 - [§ 13 (weggefallen)](0013.md)
-- [§ 14 Aussetzen der Anerkennung als Berufseingangsprüfungen](0014.md)
+- [§ 14 Aufhebung der Anerkennung als Berufseingangsprüfungen](0014.md)
 
 #### Unterabschnitt 2 Zulassung von Lehrgängen
 

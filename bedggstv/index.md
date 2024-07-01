@@ -3,6 +3,7 @@
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Gleichstellung](0001.md)
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Anzeige](0002a.md)
 - [§ 3 Verbotene Stoffe](0003.md)
 - [§ 4 Zugelassene Stoffe](0004.md)
 - [§ 5 Verbotene Verfahren](0005.md)

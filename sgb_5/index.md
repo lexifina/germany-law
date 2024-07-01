@@ -1003,7 +1003,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 390 IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung](0390.md)
 - [§ 391 IT-Sicherheit in Krankenhäusern](0391.md)
 - [§ 392 IT-Sicherheit der gesetzlichen Krankenkassen](0392.md)
-- [§ 393 (weggefallen)](0393.md)
+- [§ 393 Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung](0393.md)
 - [§ 394 (weggefallen)](0394.md)
 - [§ 395 Nationales Gesundheitsportal](0395.md)
 
@@ -1046,5 +1046,6 @@ von Leistungsdaten, Datentransparenz
 - [§ 423 Rückwirkende Herabsetzung nach § 240 Absatz 4a Satz 4 festgesetzter Beiträge](0423.md)
 - [§ 424 Übergangsregelung aus Anlass des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes](0424.md)
 - [§ 425 Evaluierung des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes](0425.md)
+- [§ 426 Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches](0426.md)
 - [Anlage 1 (zu § 135d)Leistungsgruppen der Krankenhausbehandlung](anlage-1.md)
 - [Anlage 2 (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung](anlage-2.md)

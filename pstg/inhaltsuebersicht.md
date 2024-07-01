@@ -23,6 +23,7 @@
 |  | Zuständigkeit, Anmeldung und Eheschließung |
 | § 11 | Zuständigkeit und Standesamtsvorbehalt |
 | § 12 | Anmeldung der Eheschließung |
+| § 12a | Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs |
 | § 13 | Prüfung der Ehevoraussetzungen |
 | § 14 | Eheschließung |
 | § 15 | Eintragung in das Eheregister |

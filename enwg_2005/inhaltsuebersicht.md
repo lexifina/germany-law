@@ -252,7 +252,7 @@
 | § 50g | (weggefallen) |
 | § 50h | (weggefallen) |
 | § 50i | (weggefallen) |
-| § 50j | Evaluierung der Maßnahmen nach den §§ 50a bis 50h |
+| § 50j | (weggefallen) |
 | § 51 | Monitoring der Versorgungssicherheit |
 | § 51a | Monitoring des Lastmanagements |
 | § 52 | Meldepflichten bei Versorgungsstörungen |

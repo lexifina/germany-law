@@ -2176,7 +2176,7 @@ und an Rechten
 
 - [§ 1303 Ehemündigkeit](1303.md)
 - [§ 1304 Geschäftsunfähigkeit](1304.md)
-- [§ 1305](1305.md)
+- [§ 1305 Folgen und Heilung unwirksamer Minderjährigenehen](1305.md)
 
 ##### Untertitel 2 Eheverbote
 

@@ -34,11 +34,7 @@ A. Zu den Rechtsakten der Europäischen Gemeinschaften und der Europäischen Uni
     Das Bundesamt für Seeschifffahrt und Hydrographie stellt die Seegebiete für Inlandfahrten im Sinne des Artikels 2 Buchstabe p und des Artikels 4 der Richtlinie, in denen Fahrgastschiffe der Klassen B, C und D von Deutschland aus eingesetzt werden dürfen, jeweils kartographisch und in Koordinatenform dar und veröffentlicht diese Darstellungen im Internet. Es macht die Internet-Adresse in den Nachrichten für Seefahrer und dem Verkehrsblatt bekannt.
   3. Lecksicherheit im Helgolandverkehr
     Die im Verkehr nach und von der Insel Helgoland eingesetzten Fahrgastschiffe müssen - vorbehaltlich des Verfahrens nach Artikel 9 der Richtlinie - einen Unterteilungsfaktor F <- 0,5 aufweisen.
-  A.III. Zur Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe
-    Liste der Seegebiete
-    Das Bundesamt für Seeschifffahrt und Hydrographie erstellt im Sinne des Artikels 5 der Richtlinie eine Liste der Seegebiete, die von Ro-Ro-Fahrgastschiffen im Linienverkehr von oder nach ihren Häfen durchfahren werden, und der entsprechenden Werte für die signifikanten Wellenhöhen in diesen Gebieten.
-    Es veröffentlicht die Liste auf ihrer Internetseite und macht die Fundstelle in den Nachrichten für Seefahrer und im Verkehrsblatt bekannt.
-  A.III.a. Zur Richtlinie 98/41/EG des Rates über die Registrierung der an Bord bestimmter Schiffe befindlichen Personen
+  A.III. Zur Richtlinie 98/41/EG des Rates über die Registrierung der an Bord bestimmter Schiffe befindlichen Personen
   1. Zuständige Stellen
   1.1 Die Deutsche Gesellschaft zur Rettung Schiffbrüchiger ist mit Ausnahme von Fällen einer komplexen Schadenslage im Sinne von § 1 Abs. 4 der Bund/Küstenländer-Vereinbarung über die Errichtung des Havariekommandos (VkBl. 2003 S. 31) zuständige Stelle im Sinne des Artikels 2, die für Such- und Rettungsmaßnahmen verantwortlich ist oder mit der Aufarbeitung eines Unfalls befasst wird. In Fällen einer komplexen Schadenslage ist zuständige Stelle im Sinne des Artikels 2 das Havariekommando.
   1.2 Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig für

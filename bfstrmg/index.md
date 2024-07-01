@@ -40,3 +40,4 @@
 - [Anlage 8 (zu § 14 Absatz 7)Mautsätze im Zeitraum vom 28. Oktober 2020 bis zum Ablauf des 30. September 2021](anlage-8.md)
 - [Anlage 9 (zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022](anlage-9.md)
 - [Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023](anlage-10.md)
+- [Anlage 11 (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024](anlage-11.md)

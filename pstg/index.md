@@ -25,6 +25,7 @@
 
 - [§ 11 Zuständigkeit und Standesamtsvorbehalt](0011.md)
 - [§ 12 Anmeldung der Eheschließung](0012.md)
+- [§ 12a Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs](0012a.md)
 - [§ 13 Prüfung der Ehevoraussetzungen](0013.md)
 - [§ 14 Eheschließung](0014.md)
 - [§ 15 Eintragung in das Eheregister](0015.md)

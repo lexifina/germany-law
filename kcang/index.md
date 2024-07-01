@@ -12,7 +12,7 @@
 ## Kapitel 2 Gesundheitsschutz, Kinder- und Jugendschutz, Prävention
 
 - [§ 5 Konsumverbot](0005.md)
-- [§ 6 (zukünftig in Kraft)](0006.md)
+- [§ 6 Allgemeines Werbe- und Sponsoringverbot](0006.md)
 - [§ 7 Frühintervention](0007.md)
 - [§ 8 Suchtprävention](0008.md)
 
@@ -24,38 +24,42 @@
 ## Kapitel 4 Gemeinschaftlicher Eigenanbau und kontrollierte Weitergabe von Cannabis und Vermehrungsmaterial in Anbauvereinigungen zum Eigenkonsum
 
 
-### Abschnitt 1 (zukünftig in Kraft)
+### Abschnitt 1 Erlaubnis für den gemeinschaftlichen Eigenanbau und die Weitergabe von Cannabis in Anbauvereinigungen
 
-- [(XXXX) §§ 11 bis 15 (zukünftig in Kraft)](xxxx-11-bis-15.md)
+- [§ 11 Erlaubnispflicht](0011.md)
+- [§ 12 Versagung der Erlaubnis](0012.md)
+- [§ 13 Inhalt der Erlaubnis](0013.md)
+- [§ 14 Dauer der Erlaubnis](0014.md)
+- [§ 15 Widerruf und Rücknahme der Erlaubnis](0015.md)
 
 ### Abschnitt 2 Gemeinschaftlicher Eigenanbau in Anbauvereinigungen
 
-- [§ 16 (zukünftig in Kraft)](0016.md)
+- [§ 16 Mitgliedschaft](0016.md)
 - [§ 17 Anforderungen an den gemeinschaftlichen Eigenanbau von Cannabis; Verordnungsermächtigung](0017.md)
-- [§ 18 (zukünftig in Kraft)](0018.md)
+- [§ 18 Maßnahmen zur Qualitätssicherung durch Anbauvereinigungen](0018.md)
 
 ### Abschnitt 3 Kontrollierte Weitergabe und Sicherung von Cannabis und Vermehrungsmaterial in Anbauvereinigungen
 
-- [§ 19 (zukünftig in Kraft)](0019.md)
-- [§ 20 (zukünftig in Kraft)](0020.md)
+- [§ 19 Kontrollierte Weitergabe von Cannabis](0019.md)
+- [§ 20 Kontrollierte Weitergabe von Vermehrungsmaterial](0020.md)
 - [§ 21 Maßnahmen des Gesundheitsschutzes bei der Weitergabe von Cannabis und Vermehrungsmaterial, Verordnungsermächtigung](0021.md)
-- [§ 22 (zukünftig in Kraft)](0022.md)
+- [§ 22 Sicherung und Transport von Cannabis und Vermehrungsmaterial](0022.md)
 
-### Abschnitt 4 (zukünftig in Kraft)
+### Abschnitt 4 Kinder- und Jugendschutz, Suchtprävention in Anbauvereinigungen
 
-- [§ 23 (zukünftig in Kraft)](0023.md)
+- [§ 23 Kinder- und Jugendschutz sowie Suchtprävention in Anbauvereinigungen](0023.md)
 
-### Abschnitt 5 (zukünftig in Kraft)
+### Abschnitt 5 Mitgliedsbeiträge und Selbstkostendeckung in Anbauvereinigungen
 
-- [§ 24 (zukünftig in Kraft)](0024.md)
-- [§ 25 (zukünftig in Kraft)](0025.md)
+- [§ 24 Mitgliedsbeiträge; laufende Beiträge](0024.md)
+- [§ 25 Selbstkostendeckung](0025.md)
 
 ### Abschnitt 6 Behördliche Überwachung von Anbauvereinigungen
 
-- [§ 26 (zukünftig in Kraft)](0026.md)
+- [§ 26 Dokumentations- und Berichtspflichten von Anbauvereinigungen](0026.md)
 - [§ 27 Maßnahmen der behördlichen Überwachung, Verordnungsermächtigung](0027.md)
-- [§ 28 (zunftig in Kraft)](0028.md)
-- [§ 29 (zunftig in Kraft)](0029.md)
+- [§ 28 Befugnisse der Behörden zur Überwachung](0028.md)
+- [§ 29 Duldungs- und Mitwirkungspflichten](0029.md)
 - [§ 30 Verordnungsermächtigung](0030.md)
 
 ## Kapitel 5 Anbau von Nutzhanf

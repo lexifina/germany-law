@@ -254,7 +254,7 @@ Bundes
 #### Erster Unterabschnitt Grundsatz
 
 - [§ 82 Grundsatz](0082.md)
-- [§ 83 Besonderheiten für das Beitrittsgebiet](0083.md)
+- [§ 83 (weggefallen)](0083.md)
 
 #### Zweiter Unterabschnitt Versicherter
 Personenkreis
@@ -329,6 +329,7 @@ für einzelne Renten
 - [§ 97 Zuschlag bei Zugangsrenten](0097.md)
 - [§ 98 Höhe von Bestandsrenten](0098.md)
 - [§ 99 Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten](0099.md)
+- [§ 99a Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes](0099a.md)
 - [§ 100 Begrenzung der Steigerungszahl](0100.md)
 - [§ 101 Auswirkungen eines Versorgungsausgleichs](0101.md)
 - [§ 102 Allgemeiner Rentenwert (Ost)](0102.md)
@@ -338,7 +339,7 @@ für einzelne Renten
 - [§ 104 Höhe der Rente für frühere Ehegatten](0104.md)
 - [§ 104a Rentenartfaktor](0104a.md)
 - [§ 104b Zuschlag bei Witwenrenten und Witwerrenten](0104b.md)
-- [§ 105 Verordnungsermächtigung](0105.md)
+- [§ 105 (weggefallen)](0105.md)
 - [§ 105a (weggefallen)](0105a.md)
 
 #### Fünfter Unterabschnitt Zusammentreffen von
@@ -378,15 +379,15 @@ Datenschutz
 #### Elfter Unterabschnitt Finanzierung
 
 - [§ 113 (weggefallen)](0113.md)
-- [§ 114 Beitragshöhe](0114.md)
+- [§ 114 (weggefallen)](0114.md)
 - [§ 115 Beitragstragung](0115.md)
-- [§ 116 Wiederauffüllung geminderter angleichungsdynamischer Anrechte](0116.md)
+- [§ 116 (weggefallen)](0116.md)
 - [§ 117 Beitragserstattung](0117.md)
 - [§ 117a (weggefallen)](0117a.md)
 - [§ 118 Aufrechnung mit Beitragsentlastungen](0118.md)
 - [§ 119 (weggefallen)](0119.md)
 - [§ 119a (weggefallen)](0119a.md)
-- [§ 120 Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet](0120.md)
+- [§ 120 (weggefallen)](0120.md)
 
 ### Dritter Abschnitt Landabgaberente
 
