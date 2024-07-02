@@ -1,4 +1,4 @@
-# Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung
+# Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
