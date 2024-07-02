@@ -1,0 +1,51 @@
+# Stadtverordnetenversammlung der Stadt Homberg (Ohm) (41. Sitzung)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Beginn: 2024-07-02T20:00:00+02:00
+- Ende: 2024-07-02T22:40:00+02:00
+- Ort: Walter-Seitz-Halle Homberg (Ohm), Stadthallenweg 12, 35315 Homberg (Ohm), Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/tops/?__=UGhVM0hpd2NXNFdFcExjZQxiiLiJwIB7L49p48I8DFU
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1236
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS39vz8qvBgS7pWld5eOrSsxQfUj0vzM7TgNuLtwo5g1/Bekanntmachung_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_02.07.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Stadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQRRw4gVlOurgkH-zyx4lx4GtJd4O8lUvNAYYdvacwQx/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Stadt_Homberg_-Ohm-_02.07.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Eröffnung und Begrüßung
+- TOP 2.: Feststellung der Ordnungsmäßigkeit der Ladung und der Beschlussfähigkeit, Einwendungen gegen die Tagesordnung
+- TOP 3.: Bericht der Bürgermeisterin aus der Arbeit des Magistrats
+- TOP 4.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen Niederschriften
+- TOP 4.1: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 21.03.2024 - (kein Text vorhanden)
+- TOP 4.2: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 21.03.2024 - (kein Text vorhanden)
+- TOP 4.3: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 17.04.2024
+- TOP 4.4: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 13.05.2024
+- TOP 5.: Bauleitplanung der Stadt Homberg (Ohm), Stadtteil Nieder-Ofleiden Bebauungsplan „Auf den Hohläckern“ Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB - (kein Text vorhanden)
+- TOP 6.: Projekt Bebauung Hohläcker, Kindertagesstätte - (kein Text vorhanden)
+- TOP 7.: Anfrage Fraktion BÜRGERFORUM betreffend Veränderung der Belegungsrechte durch die Veräußerung von Wohneinheiten der GWH Immobilien Holding GmbH bzw. Unternehmen der GWH-Gruppe
+- TOP 8.: Anfrage Fraktion BÜRGERFORUM betreffend Neugestaltung Friedhof Homberg (Ohm)
+- TOP 9.: Anfrage Fraktion BÜRGERFORUM betreffend Fördermittel aus dem LEADER-Budget
+- TOP 10.: Anfrage Fraktion BÜRGERFORUM betreffend Personalfluktuation bei der Stadt Homberg (Ohm)
+- TOP 11.: Anfrage BÜRGERFORUM betreffend Verkehrssituation im Bereich Mühltal, Kernstadt Homberg (Ohm)
+- TOP 12.: Anfrage Fraktion BÜRGERFORUM betreffend Grundstücksgeschäfte der Stadt Homberg (Ohm) vom 01.01.2024 bis 31.03.2024
+- TOP 13.: Anfrage Fraktion BÜRGERFORUM betreffen Kostenaufstellung für Aufwendungen hinsichtlich des nicht erfolgten Ankaufs der Grundstücke Marktstraße 60, Frankfurter Str. 16 und Friedrichstraße 4
+- TOP 14.: Anfrage Fraktion BÜRGERFORUM betreffend Gewährung einer Zuwendung an die Bürgerstiftung Homberg (Ohm)
+- TOP 15.: Anfrage Fraktion BÜRGERFORUM betreffend Information des hessischen Finanzministers zu Grundsteuerhebesätzen ab 01.01.2025
+- TOP 16.: Anfrage Fraktion Ökologische Liste Homberg (Ohm) zur Empfehlung des hessischen Finanzministers zur Senkung der Grundsteuer-Hebesätze für Homberg (Ohm)
+- TOP 17.: Anfrage Fraktion BÜRGERFORUM betreffend Einzelprojekten im Rahmen in ISEK
+- TOP 18.: Anfrage Fraktion BÜRGERFORUM betreffend Abwicklung von Auftragsvergaben im Rahmen von ISEK
+- TOP 19.: Anfrage Fraktion BÜRGERFORUM betreffend Fertigstellung der Straßenbaumaßnahme im Burghain
+- TOP 20.: Unterbringung von Flüchtlingen - (kein Text vorhanden)
+- TOP 21.: Antrag Fraktion BÜRGERFORUM betreffend Kooperationen von Sportvereinen und Kitas - (kein Text vorhanden)
+- TOP 22.: Antrag Fraktion BÜRGERFORUM betreffend Senkung der Hebesätze für die Grundsteuer
+- TOP 23.: Antrag Fraktion BÜRGERFORUM betreffend Durchführung und Förderung von Märkten als freiwillige Aufgabe der Stadt Homberg (Ohm)
+- TOP 24.: Antrag Fraktion BÜRGERFORUM betreffend Abschaffung der Gebühren für Grünabfall durch den ZAV
+- TOP 25.: Antrag Fraktion BÜRGERFORUM betreffend Besichtigung des Anwesens Frankfurter Str. 3
+- TOP 26.: Antrag Fraktion BÜRGERFORUM betr. Rentenberatung in der Stadt Homberg (Ohm) nach § 51 Nr. 19 HGO
+- TOP 27.: Antrag Fraktion BÜRGERFORUM betreffend Tausch von Waldflächen zwischen dem Land Hessen und der Stadt Homberg (Ohm)
+- TOP 28.: Antrag Fraktion BÜRGERFORUM betreffend Regelung der baulichen Voraussetzungen für die Aufstellung von Tiny-Houses
+- TOP 29.: Antrag Fraktion Ökologische Liste zum Erhalt des Büros Homberg / Ohm der Diakoniestation Ohm-Felda im Familienzentrum Homberg (Ohm)
+- TOP 30.: Antrag Fraktion BÜRGERFORUM betreffend Kaufangebote nach der Projektrahmenvereinbarung der Stadt Homberg (Ohm) mit der Hessischen Landgesellschaft mbH zum Landerwerb im künftigen Gewerbegebiet "Am Roten Berg"
