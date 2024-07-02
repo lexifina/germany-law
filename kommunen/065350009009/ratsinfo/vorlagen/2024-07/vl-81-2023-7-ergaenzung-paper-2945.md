@@ -1,0 +1,22 @@
+# Projekt Bebauung Hohläcker, Kindertagesstätte
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-81/2023 7. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-07-02
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcQmMlXhiyrImPaO6ORoc_8
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2945
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Projekt Bebauung Hohläcker, Kindertagesstätte ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSCaVLHk3e3X_D9wCsBqhNtd0MHZ7m2btKKHZCL3CV5m/Beschlussvorlage_VL-81-2023_7._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - 240228_GN-0497_Axonometrie Wohnquartier_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd6IeC4JU1HuoaMF2vIhoIfQxTBn-nHvduvc5PgtR9C5/2024-06-29_-_240228_GN-0497_Axonometrie_Wohnquartier_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN0497 MTS_VIS_Fußgängerperspektive_1_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfGcS4TM2L14tIwKM-EfhmuoPckrFO3sdx-IkrNoharJ/2024-06-29_-_GN0497_MTS_VIS_Fussgaengerperspektive_1_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN0497 MTS_VIS_Fußgängerperspektive_2_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQvDpFyUIw_mBB9VXaOE61kOt1zbds6COwhcSt_kEsXw/2024-06-29_-_GN0497_MTS_VIS_Fussgaengerperspektive_2_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN0497 MTS_VIS_Kita_Fußgängerperspektive_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbSWjzZbEoSvKwfKAb3rtGUDN3iMpDpJnVurm3GE-zoe/2024-06-29_-_GN0497_MTS_VIS_Kita_Fussgaengerperspektive_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN-0497_Visu Pflege_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe-vhGUwrbZ0hPDdimIRxzgnvyUuxcw-CZbNuUQyy681/2024-06-29_-_GN-0497_Visu_Pflege_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN-0497_Visu Wohnen V2_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZScWTF-PJx_xQ60S7x-VqOecyqSn00FBDMldKo3iRhBT/2024-06-29_-_GN-0497_Visu_Wohnen_V2_OQ.pdf
+- Anlage: Beschlussvorlage (2024-06-29 - GN-0497_Visu Wohnen_OQ) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXauyasTaUjzorVVc8ODm6i31pgoTmTROf9SlM55BVoz/2024-06-29_-_GN-0497_Visu_Wohnen_OQ.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1116 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1231 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-31
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1234 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1236 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-7
