@@ -1,0 +1,81 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-07-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951183
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951183
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 04.06.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Forstenrieder Tintenkleckse e.V.: Umwidmung und Erhöhung des Zuschusses
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelischer Sozialdienst e.V. Rikschadienst für mobilitätseingeschränkte Personen in Fürstenried vom 03.07.2024 -30.06.2025 6.937,50€; Az. 0262.0-19-0523
+- TOP 3.4.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried „Aufbau eines MakerSpace vom 05.07.2027 – 31.05.2025“ 5.287,50 € / AZ: 0262.0-19-0524
+- TOP 3.5.: (Antrag) Vorschlag zur Bestellung einer städtischen Leistung: Beachvolleyballnetz
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Novellierung der Baumschutzverordnung der Landeshauptstadt München
+- TOP 4.4.: (A) Mobilfunk-Suchkreismeldung M-Solln Nordost
+- TOP 4.5.: (A) Kommunale Wärmeplanung München
+- TOP 4.6.: (Antrag) Aufklärung über Brand- und Explosionsgefahren von Lithium-Ionen-Batterien und -Akkus sowie deren sachgerechte Entsorgung, Unterstützung der Kampagne: "Brennpunkt Batterie“
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Fahrzeuganhänger Hermann-Hahn-Platz
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Beschränkung des Parkens auf PKW vor der TG-Zufahrt zum Thomas-Mann-Gymnasium
+- TOP 5.4.: (A) Teilstrategie Shared Mobility - Konzept für den Stadtbezirk 19
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Gefahrenbeschilderung Radverkehr Maria-Einsiedel-Berg
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Beschränkung des Parkens auf PKW nördlich Wolfratshauser Straße 96
+- TOP 5.7.: (A) Satzungsänderung: Anhörungsrecht bei Einrichtung von Parkplätzen für Carsharing-Fahrzeuge
+- TOP 5.8.: (Antrag) Sicherheit Fußgängerübergang Baierbrunner Straße
+- TOP 5.9.: Verkehrssicherheit in der Maxhofstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Karl-Haider-Straße 12 (VB)
+- TOP 6.2.2: Karl-Haider-Straße 14 (VB)
+- TOP 6.2.3: Traubinger Straße Flurnummer 448/281 (VB)
+- TOP 6.2.4: Herterichstraße 45
+- TOP 6.2.5: Zielstattstraße 73
+- TOP 6.2.6: Königswieser Straße 106
+- TOP 6.2.7: -abgesetzt-
+- TOP 6.2.8: Wolfratshauser Straße 195
+- TOP 6.2.9: Rohrauerstraße 28
+- TOP 6.2.10: Fürstenackerstraße 3
+- TOP 6.2.11: Heilmaierstraße 42
+- TOP 6.2.12: Forst-Kasten-Allee 121
+- TOP 6.2.13: Aidenbachstraße Flurnummer 287/2 (VB)
+- TOP 6.2.14: Steinkirchner Straße 1 (T)
+- TOP 6.3.: (A) Rahmenplanungen Gartenstadt 2.0
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 – 2027 im Mehrjahresinvestitionsprogramm 2024 – 2028, Teilhaushalt des Referates für Bildung und Sport
+- TOP 7.3.: (Antrag) Verwendung für die Ausstattung der städtischen Berufsschule für Farbe und Gestaltung sichern
+- TOP 7.4.: (A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/35 und Bebauungsplan mit Grünordnung Siemensallee (südlich), Garatshausener Straße (östlich), Bahnlinie München-Lenggries (westlich) (Teiländerung des Bebauungsplans Nr. 161) - Aufstellungsbeschluss –
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Benefiz-Lauf - Living Free with HIV Thalkirchner Platz am 21.07.2024
+- TOP 8.3.: Neuerrichtung Gaststättenbetrieb: Tölzer Straße
+- TOP 8.4.: Gaststättenfortführung: Kistlerhofstraße
+- TOP 9: Verschiedenes
+- TOP 3.6.: (E) Stadtbezirksbudget Klima Cafe im Bürgertreff treff+tee Fairteiler in Fürstenried ab 01.06.2024 7.680,44€; Az. 0262.0-19-0516
+- TOP 7.1.1: Antwort des Referats für Bildung und Sport zum Fragenkatalog des Bezirksausschusses zum Thema „Erstellung der Außenanlagen des TMG“
+- TOP 4.7.: (A) Mobilfunk-Suchkreismeldung M-Großhesselohe
+- TOP 6.4.: (A) Gemeinde Pullach i. Isartal: BP Nr. 44 „Energiezentrale Nord der IEP“ und 2. Änderung des FNP
+- TOP 4.8.: (A) Baumpflanzungen Rohrauersraße
+- TOP 8.5.: (A) Veranstaltung: Deutsche Meisterschaft im Hardcourt Bikepolo 2024 Zentralländstraße vom 15.08.2024 bis 18.08.2024
