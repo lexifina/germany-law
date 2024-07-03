@@ -1,0 +1,56 @@
+# Gemeindevertretung (26. Sitzung)
+
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Beginn: 2024-07-03T19:04:00+02:00
+- Ende: 2024-07-03T22:58:00+02:00
+- Ort: Dorfgemeinschaftshaus Arnoldshain, Taunusstraße 42, 61389 Schmitten im Taunus, Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/schmitten/tops/?__=UGhVM0hpd2NXNFdFcExjZcbNI56zpddMWXgMZtvH2ls
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/meeting/952
+- Quelle: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaQK3_WfJL9dhHKHUEFvetGZd5kZRwLCpDL1kIMzTU33/Bekanntmachung_Gemeindevertretung_03.07.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU32mNESmYUOOJfT-mnydqVJXo2c9CL4HTtu0B2uYlLU/Oeffentliche_Niederschrift_Gemeindevertretung_03.07.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Mitteilungen
+- TOP 1.1: der Vorsitzenden der Gemeindevertretung
+- TOP 1.2: des Gemeindevorstandes
+- TOP 1.2.1: Vermietung des Schmittener Freibades nach Saisonende
+- TOP 1.2.2: Sachstandsbericht über die Situation der Wasserversorgung Stand 01.07.2024
+- TOP 1.2.3: Statusbericht über die Verweisungsanträge an den Gemeindevorstand der Legislaturperiode 2021 - 2026; Stand 01.07.2024
+- TOP 1.2.4: Sachstandsbericht bezüglich einer Agri-PV-Anlage im OT Brombach
+- TOP 1.2.5: Sachstandsbericht zum Thema Klimaschutz- und Klimaanpassung
+- TOP 1.3: zu schriftlich vorliegenden Anfragen
+- TOP 1.3.1: Anfrage der FWG-Fraktion betr. "Feuerwehrgerätehaus Hunoldstal"
+- TOP 1.4: der Ausschüsse
+- TOP 1.4.1: Bau-, Planungs- und Verkehrsausschuss
+- TOP 1.4.2: Haupt-, Finanz- und Digitalisierungsausschuss
+- TOP 1.4.3: Umwelt-, Klima- und Wirtschaftsausschuss
+- TOP 1.4.4: Sozialausschuss
+- TOP 1.5: aus den Verbänden
+- TOP 2.: Genehmigung des letzten Protokolls
+- TOP -: Teil A (Ohne Aussprache)
+- TOP 3.: Stilllegungsflächen für die KLAWAM-Förderung - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschlussfassung über den direkten Verweis der Neufestsetzung der Steuersätze bei der Grundsteuer A und B aufgrund der neuen Grundsteuerbescheide sowie sämtliche Satzungsthemen in den Haupt-, Finanz- und Digitalisierungsausschuss - 23 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 5.: Beschluss über den vom Rechnungsprüfungsamt geprüften Jahresabschluss 2017 und Entscheidung über die Entlastung des Gemeindevorstands - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Bericht über den Zeitraum 01.01.2024 bis 30.04.2024 gemäß § 28 Abs. I GemHVO über den Stand des Haushaltsvollzugs - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Sonnenschutz Kinderspielplätze" - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Antrag der FWG-Fraktion betr. "Beratung zum Thema Kindertagespflege in der Gemeinde Schmitten" - Einstimmig, 0 Enthaltung(en)
+- TOP -: Teil B (Mit Aussprache)
+- TOP 9.: Planungsidee zur dauerhaften Sicherstellung der vorhandenen Kitaplätze in Nieder- und Oberreifenberg der Katholischen Kirchengemeinde St. Franziskus und Klara - Usinger Land - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsbericht zum Grundstückskauf/-tausch zwischen der HLG und der Gemeinde Schmitten im Taunus für die Errichtung einer Kindertagesstätte auf dem Pfarrheckenfeld in Oberreifenberg - 16 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Beratung und Beschlussfassung über das Ergebnis der Ausschreibung mit Teilnahmewettbewerb und Verhandlungsverfahren für den Neubau und Betrieb eines Kindergartens in Oberreifenberg Dieser Tagesordnungspunkt wird Nicht-Öffentlich behandelt
+- TOP 11.1: Beratung und Beschlussfassung über den Neubau des Kindergartens Los 1
+- TOP 11.2: Beratung und Beschlussfassung über den Betrieb eines Kindergartens Los 2
+- TOP 12.: Beratung und Beschlussfassung über das Integrierte Klimaschutzkonzept der Gemeinde Schmitten im Taunus - 22 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 13.: Bauleitplanung der Gemeinde Schmitten, Ortsteil Schmitten Bebauungsplan „Im Grund“ 3. Änderung Beschluss über die Abwägung der eingegangenen Stellungnahmen mit Anregungen und Hinweisen im Rahmen der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie der Beteiligung Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB Beschluss der Offenlage und Beteiligung Träger öffentlicher Belange der geänderten Fassung gemäß § 3 Abs. 2 BauGB (Siehe hierzu GVE-Beschluss vom 27.09.2023, TOP 10) - 14 Ja-Stimme(n), 6 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 14.: Bauleitplanung der Gemeinde Schmitten; Bebauungsplan „Westlich Limesstraße“ im Ortsteil Oberreifenberg 1. Kenntnisnahme des Ergebnisses der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) 2. Behandlung der eingegangenen Stellungnahmen aus der frühzeitigen Beteiligung der betroffenen Behörden und sonstigen Träger öffentlicher Belange (TöB) gemäß § 4 Abs. 1 BauGB 3. Beschlussfassung des Bebauungsplanes als Entwurf zur Durchführung der förmlichen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 2 BauGB sowie der förmlichen Beteiligung der betroffenen Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Forderungen und Anregungen zum neu aufzustellenden Nahverkehrsplan des Verkehrsverbandes Hochtaunus (VHT) - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Sachstandsbericht zum Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen vom 12.07.2023 "L3025 - Brücke Hunoldstal“
+- TOP 17.: Sachstandsbericht über die Einrichtung von Schülerlotsen an der Grundschule Arnoldshain (Jürgen-Schumann-Schule)
+- TOP 18.: Antrag der FWG-Fraktion betr. "Fremdwassersituation im Abwassersystem" - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Einführung eines Jugendtaxis in Schmitten" - 21 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 20.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Initiative zur Stärkung von Tourismus, Naturpark und Gemeinschaft in Schmitten: Verkehrsfreie Sonntage - Einstimmig, 0 Enthaltung(en)
