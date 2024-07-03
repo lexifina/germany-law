@@ -1,0 +1,51 @@
+# Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-07-03T17:00:00+02:00
+- Ende: 2024-07-03T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/233
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7043
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7043
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210291.pdf
+- Ergebnisprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210291.pdf
+- Wortprotokoll: Sitzungspaket http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00210291.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 1.1: Verpflichtung sachkundiger Bürger*innen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Einwohner*innenfragestunde
+- TOP -: Empfehlungen an Rat unter Beteiligungen der Bezirksausschüsse
+- TOP 4: Ortsmittelpunktkonzept - Zustimmung zum Gestaltungskonzept für den Ortsmittelpunkt Erfttal und zum weiteren Vorgehen - einstimmig zugestimmt
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 5: Beschluss über den Einsatz von Dialog-Displays im Bezirk - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 6: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Einführung einer möglichen Tempo-20-Zone auf der Cyriakusstraße - einstimmig zugestimmt
+- TOP 7: Antrag der Mitglieder der CDU betr.: Verkehrsberuhigung Berghäuschensweg - Parallelspur - einstimmig zugestimmt
+- TOP 8: Antrag der Mitglieder der CDU betr.: Zusatzbeschilderung Ampelsteuerung Nixhütter Weg - Claudiusstraße - einstimmig zugestimmt
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Antrag der Mitglieder der CDU betr.: Sachstandsbericht Konradquartier - beraten ohne Abstimmung
+- TOP 11: Antrag der Mitglieder der CDU betr.: Verlegung der Hundeauslauffläche - Kirmesplatz Gnadental - - einstimmig zugestimmt
+- TOP 12: Antrag der Mitglieder der CDU betr.: Verkehrsspiegel bei Ausfahrten vom Werresweg - einstimmig zugestimmt
+- TOP 13: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Verbesserung der Sicherheit und Sauberkeit auf dem Spielplatz Haselweg - einstimmig zugestimmt
+- TOP 14: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Alternativ-Standort für Wertstoffcontainer Gnadentaler Allee 14 - beraten ohne Abstimmung
+- TOP 15: Antrag der Mitglieder von SPD und B90/Die Grünen betr.: Zugang zur Rita-Süssmuth-Realschule verbessern - einstimmig zugestimmt
+- TOP 16: Anregung zur Tagesordnung betr.: Brückenerneuerungen in Erfttal - beraten ohne Abstimmung
+- TOP -: Anfragen
+- TOP -: Informationen der Verwaltung und Austausch zu Angelegenheiten des Bezirks
+- TOP -: Mitteilungen der Verwaltung
+- TOP 17: Vorstellung Konzept "Landesgartenschau 2026" unter Einbeziehung des Bezirks - zur Kenntnis genommen
+- TOP 18: Ortsmittelpunktkonzept - Ortsteilwerkstatt II Erfttal am 16.01.2024 - zur Kenntnis genommen
+- TOP 19: Umsetzung des Brandschutzbedarfsplanes 2022-2026 – hier: Feuerkrebsprävention an den Standorten Grimlinghausen, Rosellen und Holzheim - zur Kenntnis genommen
+- TOP 20: Glasfaserausbau - wird nachgereicht - - zur Kenntnis genommen
+- TOP 21: Dialog-Displays (Bericht über die statistische Auswertung der Daten) - zur Kenntnis genommen
+- TOP 22: Bericht über die Bürgerversammlung vom 30.10.2023 - zur Kenntnis genommen
+- TOP 23: Sachstand Kirmesplatz Grimlinghausen - zur Kenntnis genommen
+- TOP 24: Bericht aus Rat und Fachausschüssen zu Angelegenheiten des Bezirks - zur Kenntnis genommen
+- TOP 25: Ergebnisse zu Vorschlägen und Anregungen des Bezirksausschusses - wird nachgereicht - - zur Kenntnis genommen
+- TOP 26: Einwohner*innenfragestunde
