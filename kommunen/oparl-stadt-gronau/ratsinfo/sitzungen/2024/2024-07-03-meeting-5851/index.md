@@ -1,0 +1,57 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-07-03T18:00:00+02:00
+- Ende: 2024-07-03T22:10:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfHHSlR6Elxf5rd1SB27sCo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5851
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-S7gRHx0U3pAPsveXQIauRMKogqOtHxGB5rwAOXdoU/Bekanntmachung_Rat_03.07.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXiKHjFBDggQIL4OXOyTvcEYwyukIEITJ9Jk-s_hTF_d/Oeffentliche_Niederschrift_Rat_03.07.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Beschlusskontrolle
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Antrag der Fraktion pro:Bürgerschaft vom 10.06.2024; "Haushaltsverabschiedung im Frühherbst"
+- TOP 3.2: Antrag der Fraktion pro:Bürgerschaft vom 17.06.2024; "Stellenplan/Personal"
+- TOP 3.2.1: Antrag der Fraktion pro:Bürgerschaft vom 17.06.2024; "Stellenplan/Personal"
+- TOP III.: Öffentlicher Teil
+- TOP 6.: Jahresabschluss für das Abwasserwerk der Stadt Gronau Wirtschaftsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Notunterkünfte der Stadt Gronau: 2. Änderung der Gebührenordnung - 31 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 8.: Benutzungsordnung der Einrichtungen für obdachlose Menschen, Übergangswohnheime für Aussiedler und ausländische Flüchtlinge (Unterkünfte) der Stadt Gronau (Westf.) - 31 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Benutzungs- und Entgeltordnung für Versammlungsstätten in städt. Gebäuden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Benutzungs- und Gebührenordnung öffentlicher WC-Anlagen in der Stadt Gronau - 1 Jastimmen, 23 Neinstimmen, 12 Enthaltungen
+- TOP 11.: Zukünftige Ausrichtung der Gebäudereinigung in Gebäuden der Stadt Gronau
+- TOP 11.1: Zukünftige Ausrichtung der Gebäudereinigung in Gebäuden der Stadt Gronau - 2 Jastimmen, 32 Neinstimmen, 5 Enthaltungen
+- TOP 12.: Weiterentwicklung der Richtlinien zur Förderung von Kindern in Kindertagespflege zum 01.08.2024 Hier: freiwillige Investitionskostenförderung für Ü3-Plätze und Erhalt von Plätzen - Einstimmig, 3 Enthaltungen
+- TOP 13.: Verminderung der Zahl der bei der Wahl des Rates der Stadt Gronau zu wählenden Vertreter/innen für die Kommunalwahlen 2025 und die darauf folgenden; Bestätigung der Satzung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Änderung des Ortsrechts für den Seniorenbeirat der Stadt Gronau - 2 Jastimmen, 33 Neinstimmen, 2 Enthaltungen
+- TOP 15.: Ermächtigungsübertragung von 2023 nach 2024 gemäß § 22 Kommunalhaushaltsverordnung NRW (KomHVO NRW)
+- TOP 16.: Budgetbericht für das I. Quartal 2024
+- TOP 17.: Entwurf des Jahresabschluss 2023 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Vorbereitung des Budgetentwurfs 2025; möglicher Einbringungstermin, Gremienabfolge - 34 Jastimmen, 3 Neinstimmen, 3 Enthaltungen
+- TOP 19.: Vorstellung der Kostenrechnung der Stadt Gronau; Fortentwicklung des Bauinvestitionscontrollings sowie Einhaltung der Vorgaben nach § 13 KomHVO (Folgekostenberechnungen etc.) - 36 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 20.: Verlängerung des Betrauungsaktes mit der WFG des Kreises Borken - Einstimmig, 1 Enthaltungen
+- TOP 21.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreterinnen und Vertretern in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 22.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 23.: Mitteilungen der Verwaltung
+- TOP 23.1: Bürgerentscheid am 14.07.2024
+- TOP 24.: Anfragen
+- TOP 24.1: Bürgerentscheid (Anfrage von RM Stenau-van Wüllen)
+- TOP 24.2: Radwegeverbindung Stadtpark (Anfrage von RM Drees)
+- TOP 24.3: Bahnhof Epe (Anfrage von RM Bohn)
+- TOP 24.4: Bahnhof Gronau (Anfrage von RM Hüsing-Hackfort)
+- TOP 24.5: Regenabfluss Heuweide (Anfrage von RM Hüsing-Hackfort)
+- TOP 24.6: Grünanlagen Rektor-Bremer-Straße (Anfrage von 1. Stellv. d. BM Tegetmeyer)
+- TOP 24.7: Glasfaserausbau Rektor-Bremer-Straße (Anfrage von 1. Stellv. d. BM Tegetmeyer)
+- TOP 24.8: Picknick-Sitzecke im Tierpark (Anfrage von RM Kernebeck)
+- TOP 24.9: Parken auf dem Schützenplatz Epe (Anfrage von RM Kernebeck)
+- TOP 24.10: Krankenhausversorgung in der Region (Anfrage von RM Wagner)
+- TOP 24.11: Waldflächen an der Schiefestraße (Anfrage von RM Buchholz)
+- TOP 24.12: Zustand des Aufgangs zum Kurt-Schumacher-Platz (Anfrage vom 2. Stellv. d. BM Bajorath)
