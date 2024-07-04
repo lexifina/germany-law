@@ -1,0 +1,27 @@
+# Nachhaltiges Mobilitätskonzept
+
+- Körperschaft: Stadt Kronberg im Taunus
+- Drucksache/Vorlage: 5243/2024 1. Ergänzung
+- Art: Stadtverordnetenvorlage
+- Datum: 2024-07-04
+- Ratsinformationssystem: https://kronberg.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZW7lTmhRkid3gsgwqY1m4JA
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/9346
+- Quelle: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Stadtverordnetenvorlage (Nachhaltiges Mobilitätskonzept) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehEOomhM1BzJENOEIkYS-6N1HHjTG7PAJGmNOiC0OXT/Stadtverordnetenvorlage_5243-2024_1._Ergaenzung.pdf
+- Anlage: Stadtverordnetenvorlage (1_Nachhaltiges Mobilitätskonzept) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdGLN7pFsW-c2xZehMayGsK51rsmGYTh1nYHaoXGuD6e/1_Nachhaltiges_Mobilitaetskonzept.pdf
+- Anlage: Stadtverordnetenvorlage (2_Leitziele) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXIGZZ9WHmphPO4cJjwHyM8pFxUCRjfEa80bH7jd8A24/2_Leitziele.pdf
+- Anlage: Stadtverordnetenvorlage (3a_Konzeptplan_Fussverkehr) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSCK851RQCjZK7M8fF9catuN2fRwMYaCyEwnCILqSblv/3a_Konzeptplan_Fussverkehr.pdf
+- Anlage: Stadtverordnetenvorlage (3b_Konzeptplan_Radverkehr) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRssXiNQv3NtezwpzabR7EjLmqnJrqh5dD--D32xEVwn/3b_Konzeptplan_Radverkehr.pdf
+- Anlage: Stadtverordnetenvorlage (3c_Konzeptplan_Kfz) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaggQwYJuGnNgyRjMCKvCTZt-i9anq6ywPyjvTJsoy0L/3c_Konzeptplan_Kfz.pdf
+- Anlage: Stadtverordnetenvorlage (3d_Konzeptplan_ÖPNV) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZclIW2_1EM4sk2YOmPF1cKCu1foMyCenYowffn7MxB7i/3d_Konzeptplan_OePNV.pdf
+- Anlage: Stadtverordnetenvorlage (4a_Planungsprozess-Mobilitätsbefragung) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZecQvDTRQ4wl4yAg0ufVllbUAKyqkzih0gAtEfySjcgq/4a_Planungsprozess-Mobilitaetsbefragung.pdf
+- Anlage: Stadtverordnetenvorlage (4b_Planungsprozess-Mobilitätserhebung) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3T9Su0gEhmm5ZO2vR3Ou_xHSBh-2nnNJV4ZHxV75Tu/4b_Planungsprozess-Mobilitaetserhebung.pdf
+- Anlage: Stadtverordnetenvorlage (4c_Planungsprozess-Verkehrsnetzanalyse_Mängelliste) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWP7WE9X8tKRxyDARMdJI89gwdFBzvc6FuHPsOotrxs/4c_Planungsprozess-Verkehrsnetzanalyse_Maengelliste.pdf
+- Anlage: Stadtverordnetenvorlage (4d_Planungsprozess-Verkehrsnetzanalyse_Mängelplan) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ0sKS-_QaOkxN0yWejeW68nleVkR34gcDo1FSQksW9l/4d_Planungsprozess-Verkehrsnetzanalyse_Maengelplan.pdf
+- Anlage: Stadtverordnetenvorlage (4e_Planungsprozess-Leitbildentwicklung) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXcBHV4kds-4AnQ95avx67v9vuMGp0l6QMUFr_6GIXWv/4e_Planungsprozess-Leitbildentwicklung.pdf
+- Anlage: Stadtverordnetenvorlage (4f_Planungsprozess-Maßnahmendiskussion Bürger) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVaYkQ_klO3yJoPTTZdk26XcO-NEffCypBPN2MQe6nFL/4f_Planungsprozess-Massnahmendiskussion_Buerger.pdf
+- Anlage: Stadtverordnetenvorlage (4g_Planungsprozess-Maßnahmendiskussion Runder Tisch Verkehr) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVfGpFSZ0y0YwKbvpOKRezLxf9uz76ZGcFXn4SAna2HF/4g_Planungsprozess-Massnahmendiskussion_Runder_Tisch_Verkehr.pdf
+- Anlage: Stadtverordnetenvorlage (5243 - 2024 - 2024-07-04 ÄA KfB 1. Ergänzung nachh. Mobilitätskonzept) https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZct_97VKCGdqZT5AiBk4cqdJz7aJH3nFUcGAuz5m_ike/5243_-_2024_-_2024-07-04_AeA_KfB_1._Ergaenzung_nachh._Mobilitaetskonzept.pdf
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/7911 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-16
+- Beratung:  https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/7941 https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-221
