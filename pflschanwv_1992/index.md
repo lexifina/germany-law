@@ -11,7 +11,6 @@
 - [§ 6 Verunreinigungen](0006.md)
 - [§ 7 Ausnahmen](0007.md)
 - [§ 8 Straftaten und Ordnungswidrigkeiten](0008.md)
-- [§ 9 (weggefallen)](0009.md)
 - [Anlage 1 (zu den §§ 1 und 5 Abs. 1)Vollständiges Anwendungsverbot](anlage-1.md)
 - [Anlage 2 (zu den §§ 2, 4 und 5 Abs. 2)
 
