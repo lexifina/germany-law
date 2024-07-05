@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.7
+- Datum: 2024-07-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2023
+05.07.2024
 bis
-04.07.2024
+18.12.2025
 
 RL Landes-Technologieförderung
 
@@ -46,7 +46,7 @@ Die Förderung soll insbesondere dazu beitragen, die Aussichten auf eine erfolgr
 
 2.
 
-Der Freistaat Sachsen fördert Projekte auf der Grundlage der §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, und der hierzu ergangenen
+Der Freistaat Sachsen fördert Projekte auf der Grundlage der §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, und der hierzu ergangenen
 
 Verwaltungsvorschriften, in den jeweils geltenden Fassungen, nach Maßgabe dieser Richtlinie.
 
@@ -60,17 +60,17 @@ a)
 
 Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt
 
-in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
+in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1) in der Fassung der Verordnung (EU) Nr. 2023/1315 der Kommission vom 23. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
 
 
 b)
 
-Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2020/972 der Kommission vom 2. Juli 2020 (ABl. L 215 vom 7.7.2020, S. 3) geändert worden ist,
+Verordnung (EU) Nr. 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L, 2023/2831 vom 15.12.2023, S. 1 ff.),
 
 
 c)
 
-Verordnung (EU) Nr. 360/2012 der Kommission vom 25. April 2012 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L 114 vom 26.4.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 2020/1474 der Kommission vom 13. Oktober 2020 (ABl. L 337 vom 14.10.2020, S. 1) geändert worden ist,
+Verordnung (EU) Nr. 2023/2832 der Kommission vom 23. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABl. L, 2023/2832 vom 15.12.2023, S. 1 ff.),
 
 
 d)
@@ -80,7 +80,7 @@ Beschluss 2012/21/EU der Kommission vom 20. Dezember 2011 über die Anwendung vo
 
 4.
 
-Auf die Zuwendung besteht kein Rechtsanspruch. Die Antrags- und Bewilligungsstelle entscheidet nach pflichtgemäßem Ermessen im Rahmen verfügbarer Haushaltsmittel.
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 
 
 5.
@@ -416,7 +416,7 @@ Zuwendungsempfänger ist der Konsortialführer. Dieser leitet die Zuwendung an d
 Beihilferechtliche Bestimmungen
 
 
-Zuwendungen für diesen Förderbaustein werden als Beihilfen gemäß der Verordnung (EU) Nr. 360/2012 oder dem Beschluss 2012/21/EU gewährt.
+Zuwendungen für diesen Förderbaustein werden als Beihilfen gemäß der Verordnung (EU) Nr. 2023/2832 oder dem Beschluss 2012/21/EU gewährt.
 
 
 C.
@@ -533,7 +533,7 @@ Für die Auszahlung der Zuwendung gelten die Regelungen von Nummer 7.5 der Verwa
 Beihilferechtliche Bestimmungen
 
 
-Zuwendungen für diesen Förderbaustein werden als Beihilfen gemäß der Verordnung (EU) Nr. 360/2012 oder dem Beschluss 2012/21/EU gewährt.
+Zuwendungen für diesen Förderbaustein werden als Beihilfen gemäß der Verordnung (EU) Nr. 2023/2832 oder dem Beschluss 2012/21/EU gewährt.
 
 
 D.
@@ -546,138 +546,143 @@ Patentverwertung durch Hochschulen und Forschungseinrichtungen
 Zuwendungszweck
 
 
-Das Bundesministerium für Wirtschaft und Energie (BMWi) unterstützt Hochschulen und öffentlich finanzierte Forschungseinrichtungen bei der Intensivierung des Wissens- und Technologietransfers durch die wirtschaftliche Verwertung von vertraglich nicht gebundenem Know-how auf der Grundlage von Nummer 2.1.1 und 2.1.2 der Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Hochschulen und Unternehmen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 16. Dezember 2019 (BAnz AT 17.01.2020 B1).
+Die Förderung soll die Durchführung von Maßnahmen zur Bewertung, schutzrechtlichen Sicherung und wirtschaftlichen Verwertung von Forschungsergebnissen (vertraglich nicht gebundenes Know-how) aus sächsischen Wissenschaftseinrichtungen ermöglichen. Auf diese Weise werden Hochschulen und öffentlich finanzierte Forschungseinrichtungen bei der Intensivierung des Wissens- und Technologietransfers unterstützt.
 
 
-Die Förderung erstreckt sich von der Identifizierung über die schutzrechtliche Sicherung bis zur Verwertung geeigneter Forschungsergebnisse. Adressat der Förderung ist der Verbund SachsenPatent, zu dem sich sächsische Hochschulen und Forschungseinrichtungen zusammengeschlossen haben. Der Verbund ermöglicht Synergieeffekte bei der Erschließung von Verwertungswegen. Fördervoraussetzung ist die Erarbeitung und Implementierung einer spezifischen Strategie zur Behandlung und Verwertung von geistigem Eigentum durch jedes Verbundmitglied. Ziele der Förderung sind die Erhöhung der Transparenz von Wissensressourcen und die Verbesserung des Transfers in die Wirtschaft. Die Förderbeiträge des BMWi sind in Nummer 2.1.2.3 der Richtlinie WIPANO festgelegt. Die Förderung durch den Freistaat Sachsen dient der Sicherung der Gesamtfinanzierung der Aktivitäten im Verbund.
+Adressat der Förderung ist der Verbund SachsenPatent, zu dem sich sächsische Hochschulen und Forschungseinrichtungen zusammengeschlossen haben. Der Verbund ermöglicht Synergieeffekte bei der Erschließung von Verwertungswegen.
 
+
+Ziele der Förderung sind die Erhöhung der Transparenz von Wissensressourcen und die Verbesserung des Transfers in die Wirtschaft.
 
 2.
 
 Gegenstand der Förderung
 
 
-Fördergegenstand sind die Leistungspakete (LP) 1 bis 6 gemäß Nummer 2.1.1 der Richtlinie WIPANO. Schutzrechte im Sinne der Richtlinie sind Patente und Gebrauchsmuster.
+Der Freistaat Sachsen unterstützt Hochschulen und Forschungseinrichtungen bei der Bewertung, der schutzrechtlichen Sicherung sowie der Vermarktung von Forschungsergebnissen. Gegenstand der Förderung ist der gesamte Prozess der Schutzrechtsanmeldung, von der Überprüfung bis zur Verwertung der Idee. Schutzrechte im Sinne dieser Richtlinie sind Patente und Gebrauchsmuster. Die Förderung ist in vier Leistungspakete (LP) unterteilt:
 
+
+a)
+
+Leistungspaket 1: Bewertung von Forschungsergebnissen
+
+
+Ausführliche Prüfung der Erfindung gegenüber dem Stand der Technik, Prüfung auf wirtschaftliche Verwertbarkeit (beispielsweise Wirtschaftsrecherchen, Marktanalyse, Kosten-Nutzen-Analyse) und Beratung und Unterstützung bei der Entwicklung einer Schutzrechtsstrategie,
+
+
+b)
+
+Leistungspaket 2: Schutzrechtsanmeldungen und Schutzrechtsnachanmeldungen (Amtsgebühren und Ausgaben für Patentanwalt), zusätzlich optional Patentanwaltsleistungen für Marken- und Designanmeldung,
+
+
+c)
+
+Leistungspaket 3: Aktivitäten zur Verwertung
+
+
+Beratung und Prüfung der Verwertungsmöglichkeiten, Erarbeitung einer schutzrechtsbezogenen Verwertungsstrategie, Vorbereitung, Begleitung und Abschluss einer Geheimhaltungsvereinbarung und Verwertungsvereinbarung, Exposé-Erstellung für Veröffentlichung, Unterstützung bei der Identifikation und Ansprache potenzieller Verwerter, Unterstützung bei Vertragsverhandlungen, Durchführung von ersten Verwertungs- und Marketingmaßnahmen, aktive Messeteilnahmen zur Verwertung,
+
+
+d)
+
+Leistungspaket 4: Portfolioverwaltung und weitere Verwertung
+
+
+Unterstützung bei der Pflege des Schutzrechtsportfolios, Weiterführung der Verwertungsaktivitäten.
+
+
+Leistungspaket 1 kann nur gefördert werden, wenn alle hier aufgeführten Leistungsbestandteile realisiert wurden.
 
 3.
 
 Zuwendungsempfänger
 
 
-Zuwendungsempfänger ist der jeweilige Koordinator des Verbunds SachsenPatent. Rechte und Pflichten des Koordinators sowie der Verbundmitglieder bestimmt der Zuwendungsbescheid des vom BMWi12 beauftragten Projektträgers.
-
+Zuwendungsempfänger ist der jeweilige Koordinator des Verbunds SachsenPatent. Koordinator kann eine Universität, Hochschule für angewandte Wissenschaften oder außeruniversitäre Forschungseinrichtung mit Sitz in Sachsen sein.
 
 4.
 
 Zuwendungsvoraussetzungen
 
 
-Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Abweichend von Ziffer I Nummer 2 erfolgt die Förderung durch den Freistaat auf der Grundlage der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 3 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) geändert worden ist, einschließlich der zugehörigen Verwaltungsvorschrift.  
-
+Jedes Verbundmitglied (Hochschulen gemäß § 1 Absatz 1 Satz 1 des Sächsischen Hochschulgesetzes vom 31. Mai 2023 (SächsGVBl. S. 329), das zuletzt durch Artikel 2 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, oder Forschungszentren gemäß § 101 des Sächsischen Hochschulgesetzes oder durch Bund und/oder Land institutionell geförderte außeruniversitäre Forschungseinrichtungen mit einer Forschungsstätte im Freistaat Sachsen) muss zum Zeitpunkt der Antragstellung über den Verbundkoordinator SachsenPatent über eine intern implementierte Strategie zum Umgang mit und zur Verwertung von seinem geistigen Eigentum verfügen und zu deren Umsetzung mit einem oder mehreren qualifizierten Dienstleistern zusammenarbeiten.
 
 5.
 
-Art, Umfang und Höhe der Zuwendung
-
-
-Der Freistaat gewährt im Rahmen einer Projektförderung eine Zuwendung in Form eines Zuschusses für durch das BMWi als zuwendungsfähig anerkannte Ausgaben
+Art und Umfang, Höhe der Zuwendung
 
 
 a)
 
-für LP 4 Schutzrechtsanmeldung (Amtsgebühren und Ausgaben für Patentanwalt) als Anteilfinanzierung in Höhe von 25 Prozent,
+Der Freistaat gewährt im Rahmen einer Projektförderung eine Zuwendung als Zuschuss in Form einer Festbetragsfinanzierung für die Leistungspakete 1, 3 und 4 sowie in Form einer Anteilfinanzierung für das Leistungspaket 2.
+
+
+Für das Leistungspaket 1 wird eine Festbetragsfinanzierung in Höhe von 1 800 Euro pro Erfindungsmeldung gewährt. Für das Leistungspaket 2 wird ein Zuschuss als Anteilsfinanzierung in Höhe von 40 Prozent bezogen auf die zuwendungsfähigen Ausgaben gewährt, die im Förderzeitraum anfallen. Für das Leistungspaket 3 wird eine Festbetragsfinanzierung in Höhe von 2 500 Euro pro Erfindungsmeldung gewährt. Für das Leistungspaket 4 wird ab dem dritten Jahr nach Einreichung der prioritätsbegründenden Erstanmeldung eine Festbetragsfinanzierung in Höhe von 400 Euro pro Bewertungsfall und Jahr für die zuwendungsfähigen Ausgaben gewährt, die im Förderzeitraum anfallen. Bewertungsfall ist ein Erfindungsgegenstand, der im Rahmen des Leistungspakets 1 bewertet wurde und für den Schutzrechte angemeldet wurden. Die Förderung in Leistungspaket 4 bezieht sich auf erteilte Schutzrechte, deren Anmeldung auf der Grundlage der Richtlinie „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ des BMWK vom 27. November 2015 sowie vom 16. Dezember 2019 im Zeitraum 1. Januar 2016 bis 31. Dezember 2023 gefördert wurde. Im Rahmen der vorliegenden Neufassung des Vorhabenbereichs D. Patentverwertung durch Hochschulen und Forschungseinrichtungen wird aufgrund der Begrenztheit der zur Verfügung stehenden Haushaltsmittel die maximal mögliche Gesamthöhe aller Zuwendungen für den Patentverbund SachsenPatent auf 900 000 Euro pro Jahr beschränkt.
 
 
 b)
 
-für die übrigen LP wie folgt als Festbetrags­finanzierung bei Durchführung des LP durch qualifizierte externe Dienstleister:
+Zuwendungsfähig sind in allen Leistungspaketen nur Ausgaben für Leistungen, die von einem qualifizierten externen Dienstleister durchgeführt werden. Wenn die antragstellende Einrichtung über qualifizierte Kapazitäten (zum Beispiel ein Patentinformationszentrum) verfügt, muss für die Durchführung von Leistungspaket 1 nicht zwingend ein externer Dienstleister beauftragt werden. Sofern die Durchführung von einzelnen Bewertungsgegenständen in Leistungspaket 1 durch die intern qualifizierte Stelle erfolgt, sind die Ausgaben nicht zuwendungsfähig. Zuwendungsfähig in Leistungspaket 2 sind Ausgaben nur für die Leistungen, die von einem Patentanwalt durchgeführt werden.
+
+6.
+
+Sonstige Zuwendungsbestimmungen
 
 
-LP 1
+a)
 
-Beratung und Detailprüfung hinsichtlich Neuheit 355 Euro,
-
-
-LP 2
-
-Detailprüfung hinsichtlich wirtschaftlicher Verwertung 355 Euro,
+Rechte und Pflichten des Koordinators sowie der Verbundmitglieder werden im Zuwendungsbescheid unter Zugrundelegung der Kooperationsvereinbarung des Patentverbunds festgelegt.
 
 
-LP 3
+b)
 
-(Strategie-)Beratung und Unterstützung bei der Schutzrechtsanmeldung Erstanmeldung 355 Euro und Nachanmeldung 210 Euro,
-
-
-LP 5
-
-Aktivitäten zur Verwertung 1 140 Euro,
-
-
-LP 6
-
-Portfolioverwaltung und weitere Verwertung, ab dem zweiten Jahr bis maximal zehn Jahre jährlich 285 Euro.
-
-
-Die Festbeträge entsprechen grundsätzlich fünf Siebteln der jeweils durch das BMWi gewährten Beträge.
+Das Verfahren muss grundsätzlich mit Leistungspaket 1 beginnen und kann im Fall guter Erfolgsaussichten mit dem jeweils folgenden Leistungspaket fortgeführt werden. Ein Beginn des Verfahrens mit Leistungspaket 2 oder Leistungspaket 3 oder Leistungspaket 4 ist auch dann möglich, wenn die vorgelagerten Schritte im Rahmen eines durch die Förderrichtlinie „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ des BMWK vom 27. November 2015 sowie vom 16. Dezember 2019 (Förderschwerpunkt Nummer 2.1.2 „Öffentliche Forschung – Verwertungsförderung“) geförderten Vorhabens durchgeführt wurden.
 
 
 c)
 
-Der Förderzeitraum richtet sich nach dem im Zuwendungsbescheid des BMWi festgelegten Zeitraum.
+Der Förderzeitraum beträgt maximal 24 Monate.
 
-
-6.
+7.
 
 Verfahren
 
 
 a)
 
-Der Zuwendungsempfänger hat den Förderantrag an den Freistaat Sachsen zeitnah mit dem Antrag an das BMWi zu stellen. Der Antrag an das BMWi ist in Kopie beizufügen.
+Für die Leistungspakete 1, 3 und 4 (Festbetragsfinanzierung) und Leistungspaket 2 (Anteilfinanzierung) ist jeweils ein gesonderter Antrag zu stellen. Dem Förderantrag für den Verbund SachsenPatent sind grundsätzlich für jeden Verbundpartner beizufügen:
+
+
+–
+
+Vorlage der in der Hochschule oder Forschungseinrichtung implementierten Strategie zum Umgang mit und Verwertung von geistigem Eigentum,
+
+
+–
+
+Konzept zur Erfolgskontrolle und weiteren Optimierung der Verwertung von Erfindungen aus der jeweiligen Hochschule bzw. Forschungseinrichtung aufgrund der in den letzten Jahren gemachten Erfahrungen (Anzahl der verwerteten Patente, Höhe der Einnahmen aus Lizenzierung, Anzahl an Forschungskooperationen, Anzahl an Ausgründungen) und
+
+
+–
+
+Erklärung, dass die beantragende Hochschule oder Forschungseinrichtung die in Nummer 2.1.1 im Unionsrahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation (2022/C 414/01) vom 28. Oktober 2022 (ABl. C 414 S. 1) festgelegten Kriterien erfüllt,
 
 
 b)
 
-Der Zuwendungsempfänger übermittelt der SAB Kopien des Zuwendungsbescheids des BMWi, der Verwendungsnachweise für das BMWi sowie der Ergebnisse der Verwendungsnachweisprüfung durch das BMWi gemäß Nummer 7 dieser Richtlinie.
+Der Verbundkoordinator erfasst die erfahrungsbasiert prognostizierte Anzahl der Leistungspakete der Verbundpartner für den Förderzeitraum, übermittelt diese Zahlen an die SAB und beantragt die Zuwendung für den gesamten Patentverbund auf dieser Basis.
 
 
 c)
 
-Bei der Anteilfinanzierung für LP 4 reduziert sich im Falle von Rückforderungen oder Kürzungen der Bundeszuwendung die Zuwendung des Freistaates Sachsen entsprechend.
-
-
-d)
-
-Sollte die Gesamtsumme der für die LP 1 bis 3 sowie LP 5 und 6 der durch das BMWi und den Freistaat Sachsen gewährten Festbeträge deren Gesamtausgaben übersteigen, erfolgt nach Abstimmung der Zuwendungsgeber eine entsprechende Kürzung der Zuwendung des Freistaates Sachsen.
-
-
-7.
-
-Sonstige Zuwendungsvoraussetzungen
-
-
-a)
-
-Für alle Finanzierungsanteile gelten einheitlich die Bestimmungen gemäß Nummer 2.1.1 und 2.1.2 der Richtlinie WIPANO vom 16. Dezember 2019.
-
-
-b)
-
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendungen und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids sowie die Rückforderung der gewährten Zuwendung gelten die Feststellungen und Regelungen des BMWi und des von diesem beauftragten Projektträgers. Der Zuwendungsempfänger ist verpflichtet, binnen vier Wochen nach Erhalt des Ergebnisses der Verwendungsnachweisprüfung durch das BMWi beziehungsweise dessen Projektträger die SAB zu informieren und die entsprechenden Festlegungen des BMWi beziehungsweise des Projektträgers zur Prüfung vorzulegen.
-
-
-c)
-
-Das uneingeschränkte Recht des Sächsischen Rechnungshofs zur Prüfung bleibt unberührt. Insbesondere hat der Sächsische Rechnungshof das Recht, beim Zuwendungsempfänger Prüfungen durchzuführen.
-
+Die Auszahlung der Zuwendung erfolgt bei Vorlage von Teilverwendungsnachweisen in mehreren Teilbeträgen im Erstattungsverfahren gemäß Nummer 7.6 der VwV zu § 44 der Sächsischen Haushaltsordnung abweichend von den Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) quartalsweise nachschüssig auf Basis einer durch den Verbundkoordinator vorgelegten formalen Zahlungsanforderung, die als Anlage eine Übersicht aller in den vergangenen drei Monaten realisierten Leistungspakete der Verbundpartner enthält. Vor der Auszahlung prüft die Bewilligungsbehörde den Teilverwendungsnachweis auf Vollständigkeit der Unterlagen und Plausibilität der Angaben und überprüft ihn darauf, dass Hindernisse gegen die Auszahlung offensichtlich nicht bestehen. Der Verbundkoordinator leitet die Zuwendung gemäß Nummer 12 der VwV zu § 44 der Sächsischen Haushaltsordnung unverzüglich an die Verbundpartner weiter.
 
 8.
 
 Beihilferechtliche Bestimmungen
 
 
-Der Koordinator stellt sicher, dass er und die Verbundmitglieder die Voraussetzungen der Mitteilung der Kommission – Unionsrahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation (ABl. C 198 vom 27.6.2014, S. 1) im Hinblick darauf erfüllen, dass die Zuwendung nicht als Beihilfe im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union13  zu qualifizieren ist. Nach Nummer 2.1.1 Rz 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation gelten Tätigkeiten des Wissenstransfers nicht als wirtschaftliche Tätigkeiten und sind damit keine Beihilfe, soweit sie entweder durch die Forschungseinrichtung oder in deren Auftrag durchgeführt werden und die Gewinne aus diesen Tätigkeiten in die primären Tätigkeiten der Forschungseinrichtung reinvestiert werden. Der nichtwirtschaftliche Charakter bleibt durch die im Wege einer öffentlichen Ausschreibung erfolgende Vergabe entsprechender Dienstleistungen an Dritte unberührt.
+Der Koordinator stellt sicher, dass er und die Verbundmitglieder die Voraussetzungen der Mitteilung der Kommission – Unionsrahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation (2022/C 414/01) vom 28. Oktober 2022 (ABl. C 414 S. 1) im Hinblick darauf erfüllen, dass die Zuwendung nicht als Beihilfe im Sinne von Artikel 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union zu qualifizieren ist. Nach Nummer 2.1.1 Rz 20 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation gelten Tätigkeiten des Wissenstransfers nicht als wirtschaftliche Tätigkeiten und sind damit keine Beihilfe, soweit sie entweder durch die Forschungseinrichtung oder in deren Auftrag durchgeführt werden und die Gewinne aus diesen Tätigkeiten in die primären Tätigkeiten der Forschungseinrichtung reinvestiert werden. Der nichtwirtschaftliche Charakter bleibt durch die im Wege einer öffentlichen Ausschreibung erfolgende Vergabe entsprechender Dienstleistungen an Dritte unberührt.
 
 
 E.
@@ -798,7 +803,7 @@ Die Auszahlung der Zuwendung erfolgt nach Rechnungslegung und nach Prüfung des 
 Beihilferechtliche Bestimmungen
 
 
-Grundsätzlich erfolgt die Förderung nach Maßgabe und unter Einhaltung der Bestimmungen der Verordnung (EU) Nr. 1407/2013. Die Bewilligungsstelle kann in Abhängigkeit vom konkreten Einzelfall auch eine andere Entscheidung im Rahmen von Ziffer I Nummer 3 treffen und sich bei Bedarf hierzu mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr abstimmen.
+Grundsätzlich erfolgt die Förderung nach Maßgabe und unter Einhaltung der Bestimmungen der Verordnung (EU) Nr. 2023/2831. Die Bewilligungsstelle kann in Abhängigkeit vom konkreten Einzelfall auch eine andere Entscheidung im Rahmen von Ziffer I Nummer 3 treffen und sich bei Bedarf hierzu mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr abstimmen.
 
 
 F.
@@ -1218,7 +1223,7 @@ III.
 Inkrafttreten
 
 
-Diese Richtlinie tritt am 1. Juli 2017 in Kraft und gilt bis zum 31. Dezember 2024. Gleichzeitig mit dem Inkrafttreten dieser Richtlinie tritt die Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Gewährung einer Prämie zur Unterstützung der Beteiligung kleiner und mittlerer Unternehmen am Rahmenprogramm der Europäischen Union für Forschung und Innovation HORIZON 2020 (HORIZON-Prämie) vom 20. Januar 2015 (SächsABl. S. 188), enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400), außer Kraft.
+Diese Richtlinie tritt am 1. Juli 2017 in Kraft und gilt bis zum 31. Dezember 2025. Gleichzeitig mit dem Inkrafttreten dieser Richtlinie tritt die Richtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Gewährung einer Prämie zur Unterstützung der Beteiligung kleiner und mittlerer Unternehmen am Rahmenprogramm der Europäischen Union für Forschung und Innovation HORIZON 2020 (HORIZON-Prämie) vom 20. Januar 2015 (SächsABl. S. 188), enthalten in der Verwaltungsvorschrift vom 25. November 2015 (SächsABl. SDr. S. S 400), außer Kraft.
 
 
 Dresden, den 27. Juni 2017
@@ -1231,7 +1236,7 @@ Martin Dulig
 
 Anlage
 
-Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 2021/1237 der Kommission vom 23. Juli 2021 (ABl. L 270 vom 29.7.2021, S. 39) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten.
+Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), in der Fassung der Verordnung (EU) Nr. 2023/1315 der Kommission vom 23. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1), im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten.
 
 
 1.
@@ -1239,7 +1244,7 @@ Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU)
 
 Anwendbare Freistellungstatbestände
 
-Eine Förderung kann auf der Grundlage der Artikel 18, 20, 25 und 26 bis 29 der AGVO gewährt werden.
+Eine Förderung kann auf der Grundlage der Artikel 18, 20, 25, 26 und 27 bis 29 der AGVO gewährt werden.
 
 
 2.
@@ -1558,7 +1563,7 @@ Beihilfehöchstintensitäten bei Artikel 28 der AGVO
 Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
 
 
-Bei Beihilfen für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen kann die Beihilfeintensität auf bis zu 100 Prozent der beihilfefähigen Kosten erhöht werden, sofern der Gesamtbetrag der Beihilfe für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen innerhalb von drei Jahren nicht mehr als 200 000 Euro pro Unternehmen beträgt.
+Bei Beihilfen für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen kann die Beihilfeintensität auf bis zu 100 Prozent der beihilfefähigen Kosten erhöht werden, sofern der Gesamtbetrag der Beihilfe für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen innerhalb von drei Jahren nicht mehr als 220 000 Euro pro Unternehmen beträgt.
 
 
 20.
@@ -1602,13 +1607,9 @@ Die Beihilfeintensität darf bei großen Unternehmen höchstens 15 Prozent und b
 22.
 
 
-Geltungsdauer der AGVO (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 der AGVO)
+Veröffentlichung und Information (Artikel 9 AGVO)
 
-
-Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31. Dezember 2023 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024.
-
-
-Sollte die AGVO nicht verlängert oder durch eine neue AGVO ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen AGVO vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet.
+Informationen über jede Einzelbeihilfe von über 100 000 Euro werden in der Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Beihilfentransparenzdatenbank der Europäischen Kommission oder auf einer umfassenden nationalen oder regionalen Beihilfe-Website veröffentlicht.
 
 
 Verweis auf Bundesgesetze
@@ -1621,9 +1622,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2023
+Fassung gültig ab:  5. Juli 2024
 
-Fassung gültig bis:  4. Juli 2024
+Fassung gültig bis: 18. Dezember 2025
 
 Drucken/Speichern
 
@@ -1648,7 +1649,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.7
+https://www.revosax.sachsen.de/vorschrift/17309.8
 Stand vom
 18.11.2026
 
