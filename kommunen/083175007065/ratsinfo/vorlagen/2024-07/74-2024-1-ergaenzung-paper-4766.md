@@ -1,0 +1,21 @@
+# Bebauungsplan KLINIKUM - Aufstellungsbeschluss - Frühzeitige Beteiligung
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 74/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-07-08
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdVoe98vayQj5JgRs8dMBz8
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/4766
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan KLINIKUM
+- Aufstellungsbeschluss
+- Frühzeitige Beteiligung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcwyoRvlMCkpAAuN-_2iws5Z9SwrqZE7Y21lsQQ-NgpI/Beschlussvorlage_74-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Bestandsplan mit Geltungsbereich) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSTSBqmjGjHWgOdMM2Nj-ToSDCa4yfb1zfjT7s2Iup1W/-_Bestandsplan_mit_Geltungsbereich.pdf
+- Anlage: Beschlussvorlage (- Geltungsbereich mit Flächenkategorien) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdS-kOexdK4d3nvuJtDKkWRv0SoqhY37XxuWy6rf5Azu/-_Geltungsbereich_mit_Flaechenkategorien.pdf
+- Anlage: Beschlussvorlage (- Baufeld mit städtebaulichem Entwurf) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmykCpeDjXRC6ZMQuo5I2pwnUF0VDkzlW9hvYEOe3OP/-_Baufeld_mit_staedtebaulichem_Entwurf.pdf
+- Anlage: Beschlussvorlage (- Städtebauliches Konzept) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYQhpEzzQH-wN6mpgrOrIICbIGWifFEp20LHkfqiUAzV/-_Staedtebauliches_Konzept.pdf
+- Anlage: Beschlussvorlage (- Begründung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUNK2uvtgohK2GVbASozMD1lqQqSVmdphmGLN_F6iyG5/-_Begruendung.pdf
+- Anlage: Beschlussvorlage (- Anlage 0) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUw6U15_BrqfpFFISU7yc1fhxB2wAHukAyLNfnz4Plc3/-_Anlage_0.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3209 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3177 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-66
