@@ -1,0 +1,22 @@
+# Antrag Fraktion BÜRGERFORUM betreffend Ortsbegehung des Friedhofs mit Kapellchen in der Kernstadt Homberg (Ohm)
+
+- Körperschaft: Stadt Homberg (Ohm)
+- Drucksache/Vorlage: VL-153/2023 6. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-07-08
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-ohm/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdoSOgAMUEyXsW8gOiGjFVE
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/paper/2953
+- Quelle: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Antrag Fraktion BÜRGERFORUM betreffend Ortsbegehung des Friedhofs mit Kapellchen in der Kernstadt Homberg (Ohm)) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQkREp3wHF6HEEkVsmVE9CEKvZx2nBfpOn_BCZArrsOK/Beschlussvorlage_VL-153-2023_6._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Antrag Fraktion Bürgerforum - Ortsbegehung Friedhof mit Kapellchen in Homberg) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa41gnpM2IZGJ_qnzB_Gbh7r07DNSK4NtTKCdMYynNb4/Antrag_Fraktion_Buergerforum_-_Ortsbegehung_Friedhof_mit_Kapellchen_in_Homberg.pdf
+- Anlage: Beschlussvorlage (VL-153-2023 - Beschluss Stadtverordnetenversammlung 21.09.2023) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWZ7X-FXv-h8s3k_VxsHUOdDbd1ViDnHmNN4a2Nsm16V/VL-153-2023_-_Beschluss_Stadtverordnetenversammlung_21.09.2023.pdf
+- Anlage: Beschlussvorlage (240313 Protokoll BuUA 01.12.2023) https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbhaUOQYFzj7Vgm507WdvpjiK31HDTol-J9yNvzXqGOJ/240313_Protokoll_BuUA_01.12.2023.pdf
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1112 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1116 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1124 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1133 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1147 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1195 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1208 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/meeting/1240 https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/1-10
+- underDirectionOf: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/organization/3-17
