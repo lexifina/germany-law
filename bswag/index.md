@@ -12,5 +12,8 @@
 - [§ 9a Rückzahlung von Investitionsmitteln des Bundes](0009a.md)
 - [§ 10 Mitfinanzierung durch die Eisenbahn](0010.md)
 - [§ 11 Ersatzinvestitionen](0011.md)
+- [§ 11a Optionale Finanzierung durch den Bund](0011a.md)
+- [§ 11b Finanzierungsvorbehalte; Ablösung einer Vorfinanzierung](0011b.md)
+- [§ 11c Generalsanierung Hochleistungskorridore](0011c.md)
 - [§ 12 Inkrafttreten](0012.md)
 - [Anlage (zu § 1 Absatz 1)Bedarfsplan für die Bundesschienenwege](anlage.md)
