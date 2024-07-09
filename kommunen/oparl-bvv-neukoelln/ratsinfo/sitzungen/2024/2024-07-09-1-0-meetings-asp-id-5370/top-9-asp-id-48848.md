@@ -1,0 +1,7 @@
+# TOP 9: Nächste Sitzung am 10. September 2024
+
+- Sitzung: 24. öffentliche Sitzung des Ausschusses für Wirtschaft und Arbeit (2024-07-09)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=48848
+- Ergebnis: erledigt
