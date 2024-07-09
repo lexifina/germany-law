@@ -1,0 +1,83 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969048
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969048
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Schutz des Bavariaparks
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: (E) Umgestaltung der Fläche unterhalb der Donnersbergerbrücke
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Planfeststellung für das Vorhaben „Sendlinger Spange München, Ausbau Bf Heimeranplatz West mit Ausgleichsmaßnahmen in Garching b.München und den Gemeinden Grünwald, Unterhaching und Sauerlach“, Bahn-km 0,173 bis 3,890 der Strecke 5530 München Laim - Mittersendling in den Gemeinden München, Grünwald, Sauerlach
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Mobile Heizung Hinterhof Westendstraße 76
+- TOP 6.3.3.: Baustelle Ligsalzstr 25
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Einführung eines zweiten Markttages im Stadtviertel Empfehlung Nr. 20-26 / E 01961 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 18.04.2024
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Schul- und Kitabauoffensive – Sachstandsbericht 2024
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Jugendzentrum in der Schrenkstraße
+- TOP 7.3.2.: Vorstellung Fitnessparcour Georg-Freundorfer-Platz
+- TOP 7.3.3.: Defizitausgleichsmodell
+- TOP 7.3.4.: Beteiligungsprojekt "Ran an die Stadtteil-Koffer!" - Entscheidung für die Stadtteile Fürstenried und Obersendling des 19. Stadtbezirks für den Einsatz 2025
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Gollierstraßenfest am 10.08.2024
+- TOP 8.2.2.: Spendenlauf Bavariapark am 24.07.24
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung "Wanderbaumallee" Parkstraße am 18.06.2024
+- TOP 8.3.2.: Versammlung Bavariapark 5 am 03.07.2024
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Bauliche Veränderung für mehr Verkehrssicherheit
+- TOP 9.1.2.: (E) Verbesserung der Beleuchtung an der Straßen- kreuzung Tulbeckstraße/Trappentreustraße
+- TOP 9.1.3.: (E) Verbesserung und Verschönerung der Baumscheiben In der Parkstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Verkehrsrechtliche Anordnung; PKW-Parken an der Nordseite der Ridlerstraße im Bereich Heimeranplatz
+- TOP 9.2.2.: Neues Radverkehrsnetz für München - Rad-Vorrangrouten
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einrichtung einer Schranke zur zuverlässigen Sicherstellung des Durchfahrtverbots an der Trappentreustraße
+- TOP 9.3.2.: Fahrradfreundliche Anpassung der Ampelphasen an der Ridlerstr. / Westendstr. - Umsetzungszeitpunkt
+- TOP 9.3.3.: Einrichtung von temporären Spielstraßen in der Schwanthalerhöhe - Fristverlängerung bis 30.06.2025
+- TOP 9.3.4.: Meldeliste Bauvorhaben SWM; Fernwärmebauprojekt Landsberger Straße / Stromprojekt Landsberger Straße
+- TOP 9.3.5.: Asphaltierungsarbeiten Theresienwiese
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Midnightbazar UG für die Alte Westend Apotheke „Kulturtage Staffel 2: Arbeitstitel WESTENDStories vom 19.07.2024 – 28.07.2024“ 5.860,00 € / AZ: 0262.0-8-0406
+- TOP 10.1.2.: (E) Stadtbezirksbudget Die Blaue Giraffe e.V. Umbau "Garten" hinter dem Haus ab 09.07.2024 4.111,49€; Az. 0262.0-8-0409
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 11.1.: Prüfung von Möglichkeiten zur Einrichtung einer Beleuchtung auf dem Bolzplatz am Georg-Freundorfer-Platz
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen BA-Antrags-Nr. 20-26 / B 06628 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 30.04.2024
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Aus „Markthallen München“ wird „Märkte München“
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 8.2.3.: Veranstaltung "Festival Barrio Latino" am Georg-Freundorfer-Platz vom 10.08.2024 bis 11.08.2024
+- TOP 6.2.2.: Bauvorhaben Hans-Fischer-Straße 9a
+- TOP 6.3.4.: Biergartenbetrieb Circus-Wiese
+- TOP 4.2.: Graffitifläche am Anwesen Ganghoferstraße 47
+- TOP 9.3.6.: Vorstellung des integrierten Quartierskonzeptes Parkstraße
+- TOP 9.2.3.: Haltverbot Schießstättstraße an der Gehwegvorstreckung auf Höhe des Eingangs zum Forum Schwanthalerhöhe
