@@ -3,11 +3,12 @@
 | Erster Teil |
 |  | Allgemeine Vorschriften |
 | Erster Abschnitt |
-|  | Anwendungsbereich, Antrag und Unterlagen |
+|  | Anwendungsbereich, Antrag, Unterlagen und Projektmanager |
 | § 1 | Anwendungsbereich |
 | § 1a | Gegenstand der Prüfung der Umweltverträglichkeit |
 | § 2 | Antragstellung |
 | § 2a | Unterrichtung über den Untersuchungsrahmen bei UVP-pflichtigen Vorhaben |
+| § 2b | Projektmanager |
 | § 3 | Antragsinhalt |
 | § 4 | Antragsunterlagen |
 | § 4a | Angaben zur Anlage und zum Anlagenbetrieb |
@@ -15,7 +16,7 @@
 | § 4c | Plan zur Behandlung der Abfälle |
 | § 4d | Angaben zur Energieeffizienz |
 | § 4e | Zusätzliche Angaben zur Prüfung der Umweltverträglichkeit; UVP-Bericht |
-| § 5 | Vordrucke |
+| § 5 | Vordrucke und elektronische Dateiformate |
 | § 6 | Eingangsbestätigung |
 | § 7 | Prüfung der Vollständigkeit, Verfahrensablauf |
 | Zweiter Abschnitt |

@@ -29,7 +29,7 @@
 - [§ 15 Änderung genehmigungsbedürftiger Anlagen](0015.md)
 - [§ 16 Wesentliche Änderung genehmigungsbedürftiger Anlagen](0016.md)
 - [§ 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen](0016a.md)
-- [§ 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen](0016b.md)
+- [§ 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien](0016b.md)
 - [§ 17 Nachträgliche Anordnungen](0017.md)
 - [§ 18 Erlöschen der Genehmigung](0018.md)
 - [§ 19 Vereinfachtes Verfahren](0019.md)
@@ -105,7 +105,7 @@
 - [§ 42 Entschädigung für Schallschutzmaßnahmen](0042.md)
 - [§ 43 Rechtsverordnung der Bundesregierung](0043.md)
 
-## Fünfter Teil Überwachung und Verbesserung der Luftqualität, Luftreinhalteplanung, Lärmminderungspläne
+## Fünfter Teil Überwachung und Verbesserung der Luftqualität, Luftreinhalteplanung
 
 - [§ 44 Überwachung der Luftqualität](0044.md)
 - [§ 45 Verbesserung der Luftqualität](0045.md)
@@ -150,7 +150,7 @@
 - [§ 60 Ausnahmen für Anlagen der Landesverteidigung](0060.md)
 - [§ 61 Berichterstattung an die Europäische Kommission](0061.md)
 - [§ 62 Ordnungswidrigkeiten](0062.md)
-- [§ 63 Entfall der aufschiebenden Wirkung](0063.md)
+- [§ 63 Rechtsbehelfe und Entfall der aufschiebenden Wirkung](0063.md)
 - [(XXXX) §§ 64 bis 65 (weggefallen)](xxxx-64-bis-65.md)
 
 ## Achter Teil Schlussvorschriften

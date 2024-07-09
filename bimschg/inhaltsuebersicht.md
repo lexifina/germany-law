@@ -25,7 +25,7 @@ Genehmigungsbedürftige Anlagen
 | § 15 | Änderung genehmigungsbedürftiger Anlagen |
 | § 16 | Wesentliche Änderung genehmigungsbedürftiger Anlagen |
 | § 16a | Störfallrelevante Änderung genehmigungsbedürftiger Anlagen |
-| § 16b | Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Sondervorschriften für Windenergieanlagen |
+| § 16b | Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien |
 | § 17 | Nachträgliche Anordnungen |
 | § 18 | Erlöschen der Genehmigung |
 | § 19 | Vereinfachtes Verfahren |
@@ -145,7 +145,7 @@ Gemeinsame Vorschriften
 | § 60 | Ausnahmen für Anlagen der Landesverteidigung |
 | § 61 | Berichterstattung an die Europäische Kommission |
 | § 62 | Ordnungswidrigkeiten |
-| § 63 | Entfall der aufschiebenden Wirkung |
+| § 63 | Rechtsbehelfe und Entfall der aufschiebenden Wirkung |
 | §§ 64 bis 65 | (weggefallen) |
 Achter Teil
 Schlussvorschriften
