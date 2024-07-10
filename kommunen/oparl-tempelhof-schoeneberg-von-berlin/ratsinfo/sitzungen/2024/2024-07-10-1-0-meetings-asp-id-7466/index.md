@@ -1,0 +1,106 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2024-07-10T17:00:00+02:00
+- Ende: 2024-07-10T21:45:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7466
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7466
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - im Ausschuss abgelehnt
+- TOP 4: je eine Priorität pro Fraktion - im Ausschuss abgelehnt
+- TOP 4.1: Was macht die Wirtschaftsförderung, um die Struktur des Regenbogen-Kiezes rund um den Nollendorfplatz zu erhalten? - beantwortet
+- TOP 4.2: Nutzung des ehemaligen Straßenbahndepots durch die Polizei – wie lange noch? - beantwortet
+- TOP 4.3: Wärmeinseleffekte lindern, Wassernebelprojekte starten! - mit Änderungen in der BVV beschlossen
+- TOP 4.4: Wie geregelt sind die Nutzung von E-Scootern und Jelbi-Stationen in Tempelhof-Schöneberg - beantwortet
+- TOP 4.5: Radverkehrskontrollen in Tempelhof-Schöneberg ausweiten - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - (offen)
+- TOP 5.1: (nichtöffentlich)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Teilfortschreibung des Einzelhandels- und Zentrenkonzeptes für den Bereich "Marienhöfe" - überwiesen
+- TOP 6.2: Fortschreibung des Soziale Infrastruktur-Konzeptes (SIKo) für den Bezirk Tempelhof-Schöneberg 2021/22 - überwiesen
+- TOP 7: Protokollgenehmigung - (offen)
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Koalitionsversprechen einhalten: Gesundheitscampus als zentralen Ausbildungscampus realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Fußwegeverbindung zwischen der Schöneberger Linse über den Werdauer Weg zur Rubensstraße verwirklichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Schaffung von Infrastruktur für vulnerable Gruppen im Kurfürstenkiez - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Barbarossaplatz: Umplanen bevor es zu spät ist - überwiesen
+- TOP 9.5: Anpassung des Bebauungsplans für die Immobilie des Karstadt-Warenhauses am Tempelhofer Damm - überwiesen
+- TOP 9.6: BVV in die Kieze bringen - in der BVV abgelehnt
+- TOP 9.7: Obdachlosigkeit in Tempelhof-Schöneberg: Mehr Angebote für Menschen aus dem slawischen Sprachraum - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Regenbogenkiez bei der BVG sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Grauwasserrecycling im Bezirk einführen - überwiesen
+- TOP 9.10: Rad- und Fußverkehr konsequenter voneinander trennen - überwiesen
+- TOP 9.11: Theater Morgenstern – Planungssicherheit bieten - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Hausbäume für Tempelhof-Schöneberg - überwiesen
+- TOP 9.13: Schulbescheide in einfacher Sprache - überwiesen
+- TOP 9.14: Auch am Stadtrand sollten die Menschen eine Busanbindung haben - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Kinderbetreuung bei Deutschkursen - überwiesen
+- TOP 9.16: Lorenzweg 5 – Erinnerung an einen geschichtsträchtigen Ort wachhalten - überwiesen
+- TOP 9.17: Website für Raumvergabe im Bezirk schnellstmöglich wieder freischalten - vertagt
+- TOP 9.18: Tempelhof-Schöneberg aktiv gegen Einsamkeit - überwiesen
+- TOP 9.19: Uhr am Ullsteinhaus reparieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Initiative des Bezirks gegen explodierende Zahl Wohnungs- und Obdachloser - überwiesen
+- TOP 9.21: Frauen ins Ehrenamt - überwiesen
+- TOP 9.22: Anlaufstelle „Queere Diversität im Arbeitsleben“ - überwiesen
+- TOP 9.23: B-Plan 7-76 umsetzen und städtebauliche Entwicklung im Sinne der BVV-Beschlüsse einleiten - überwiesen
+- TOP 9.24: Abstandssicherheitskampagne zum Schutze von Radfahrer*innen – bezirkliche Fahrzeugflotte mit Aufklebern und Informationen zu den Regeln der StVO ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: City West – Eingang Ost: Leerstand Bayreuther Str. 42 - überwiesen
+- TOP 9.26: Gedenktafel für Elly Heuss - Knapp - überwiesen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Girls Day 2024 - schriftlich beantwortet
+- TOP 10.2: Was unternimmt der Bezirk gegen Antisemitismus? - vertagt
+- TOP 10.3: Gesundheit queerer Menschen fördern - schriftlich beantwortet
+- TOP 10.4: Straßenbeleuchtung im Bezirk – Störungen und Ausbau - vertagt
+- TOP 10.5: Tagesreinigung als Beitrag für Gute Arbeit - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Eine Zukunft für schützende Wohnprojekte in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Website des Gesundheitsamtes als Serviceseite neu konzipieren - vertagt
+- TOP 11.3: Mehr jüdisches Leben und jüdische Geschichte in die Besuchsprogramme unserer Städtepartnerschaften integrieren - vertagt
+- TOP 11.4: Die Sonne soll auf das Rathaus Schöneberg scheinen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Straßenbäume erhalten – unser Stadtklima schützen - vertagt
+- TOP 11.6: Anteil von energieeffizienten Leuchtmitteln in öffentlichen Gebäuden schnell erhöhen - vertagt
+- TOP 11.7: Bezahlkarte für Geflüchtete diskriminierungsfrei ausgestalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Lichtenrader Graben aufwerten und begehbar machen - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Wohnungsanmeldungen für alle ermöglichen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Alt-Mariendorf städtebaulich weiterentwickeln – Wohnungsbau voranbringen, Ortszentrum und Nahverkehrsknoten stärken, öffentlichen Raum, Fuß- und Radverkehr verbessern - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Hinweisschild Innsbrucker Platz - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Beschilderung der bezirklichen Radrouten - vertagt
+- TOP 11.13: Ampelschaltung an der Marienfelder Allee/An der Heilandsweide in den Nachtstunden überprüfen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Unterbrochene SIGNA-Baustellen umsteuern zu Wohnnutzung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Schulweg zur Grundschule am Dielingsgrund sicherer gestalten - mit Änderungen in der BVV beschlossen
+- TOP 11.16: Weiterhin Möglichkeiten für Inklusions-Spielplätze anbieten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Kiezparkhäuser für Tempelhof-Schöneberg - vertagt
+- TOP 11.18: Obdachlose am Friedrich-Wilhelm-Platz und am Bahnhof Südkreuz – Betreuung ermöglichen - vertagt
+- TOP 11.19: Grillverbot stärker kontrollieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Housing First: Versprechungen gegenüber den Bezirken müssen mehr als leere Worte sein - mit Änderungen in der BVV beschlossen
+- TOP 11.21: Innsbrucker Straße: Parkscheinautomaten sind keine Poller, um das Parken zu verhindern - vertagt
+- TOP 11.22: Gute Arbeit der pädagogischen Fachkräfte in den Kita-Eigenbetrieben nach einem Tarifvertrag „Pädagogische Qualität und Entlastung“ unterstützen - vertagt
+- TOP 11.23: „KJHG-Therapie“ sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.24: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 08 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.25: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 14 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.26: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 15 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.27: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 16 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.28: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 17 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 12.1: „Hilfe bei Gewalt“ Hilfezeichen & Weiterbildung verbreiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Migrantische Geschichten und Orte sichtbar machen – der türkische Basar im Hochbahnhof Bülowstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Migrantische Geschichten und Orte feiern – ein Musikfest in Tradition des türkischen „Gazino“ im ehemaligen türkischen Basar auf dem Hochbahnhof Bülowstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Ein Geschichtsparcours für das Fliegerviertel - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Bürger*innenräte in Tempelhof-Schöneberg - überwiesen
+- TOP 12.6: Saal der Bezirksverordnetenversammlung Frauen-Portraits widmen - überwiesen
+- TOP 12.7: Praktikumswoche(n) Berlin - Unkompliziert junge Talente kennenlernen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.8: Beauftragung der Verwaltung mit der Fortschreibung des Zentren- und Einzelhandelskonzepts für den Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 12.9: Verfahrensumstellung des vorhabenbezogenen Bebauungsplans 7-94 VE gem. § 12 Baugesetzbuch für die Grundstücke Hildburghauser Straße 17/19 A-C und Luckeweg 35/43, 38 sowie eine Teilfläche des Grundstücks Luckeweg 31/33 im Bezirk Tempelhof-Schöneberg,Ortsteil Marienfelde auf einen Angebotsbebauungsplan gem. § 30 Absatz 1 Baugesetzbuch - überwiesen
+- TOP 12.10: Zielvereinbarung „Auf dem Weg zu sauberen Schulen – Qualitätsverbesserung Schulreinigung“ - überwiesen
+- TOP 12.11: Verkehrsanbindung für das Gewerbegebiet am Hossauerweg verbessern - überwiesen
+- TOP 12.12: Dringend benötigte Schulplätze schaffen und temporäre Schulergänzungsbauten zügig realisieren - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
