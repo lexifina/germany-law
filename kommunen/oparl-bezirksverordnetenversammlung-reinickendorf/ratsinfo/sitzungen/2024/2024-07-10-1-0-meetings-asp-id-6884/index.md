@@ -1,0 +1,134 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-07-10T17:00:00+02:00
+- Ende: 2024-07-10T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6884
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6884
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=502723
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - erledigt
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Gelände der ehemaligen Karl-Bonhoeffer-Nervenklinik" - in der BVV abgelehnt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Umbau und Sperrung der Schildower Straße in Hermsdorf - gegenstandslos
+- TOP 3.2: Öffnung des Waldparkplatzes an der Straße zur Bundesnetzagentur - beantwortet
+- TOP 3.3: Kosten-Nutzen-Effekt des neuen Tempo-30-Zeichens auf der Schildower Straße - beantwortet
+- TOP 3.4: Verkehrsführung im Bereich Stegeweg - beantwortet
+- TOP 3.5: Fällung von über 70 Bäumen in der Senheimer Straße - beantwortet
+- TOP 3.6: Senheimer Straße: geplante Bumfällungen im Rahmen des Neubaus der Straße - beantwortet
+- TOP 3.7: Neubau der Senheimer Straße in Frohnau: Planungsvarianten 2017 und deren Gründe - beantwortet
+- TOP 3.8: Bettina von Arnim Oberschule, Senftenberger Ring, Sporthallen defekt bzw. komplett für die Nutzung gesperrt - beantwortet
+- TOP 3.9: Neubau Senheimer Straße: Zahlen zur Baumgesundheit und Gutachten - beantwortet
+- TOP 3.10: Neubau der Senheimer Straße in Frohnau: Planungsvarianten 2017 und deren Gründe - beantwortet
+- TOP 3.11: Wohnungen aus dem sozialen Marktsegment für Psychiatrie Betroffene - schriftlich beantwortet
+- TOP 3.12: Verbotswidriges Parken auf dem Gehwegunterstreifen der Nimrodstraße - schriftlich beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 33. Sitzung der BVV am 10.07.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Ertüchtigung der Grünanlagen im Frohnauer Zentrum - beantwortet
+- TOP 5.2: Märkisches Zentrum - beantwortet
+- TOP 5.3: Sanierung von Sportstätten - beantwortet
+- TOP 5.4: Neue Aufgaben für das Ordnungsamt? - beantwortet
+- TOP 5.5: RHighnickendorf - beantwortet
+- TOP 5.6: Hitzeschutz 2024 - beantwortet
+- TOP 5.7: Durchfahrtsverbote in Wohngebieten für bessere Schulwegsicherheit, Verkehrssicherheit und Lebensqualität - beantwortet
+- TOP 5.8: Kiezläufer in der "Rollbergesiedlung" - beantwortet
+- TOP 5.9: Grillplätze an der Alten Fasanerie - beantwortet
+- TOP 5.10: Schulessen - Vergabe - beantwortet
+- TOP 5.11: Ausrüstung von Mitarbeitern des Ordnungsamtes zum Eigenschutz - schriftlich beantwortet
+- TOP 5.12: Starkregen 2024 - schriftlich beantwortet
+- TOP 5.13: Planungen Neubau Senheimer Straße - schriftlich beantwortet
+- TOP 5.14: Bernhard-Lichtenberg-Platz - schriftlich beantwortet
+- TOP 5.15: Einschulungen Ellef-Ringnes-Grundschule - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Angebote an Musik- und Volkshochschulen in Gefahr? (Große Anfrage) - beantwortet
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Errichtung von Parkbänken Klötzesteig/Ecke Wittenauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Rettungsringe am Schäfersee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Einbeziehung einer weiblichen Sicht auf die Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Feste Plätze für E-Roller und Leihräder - Berliner Straßengesetz umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.5: Wasserkran am Güterbahnhof Reinickendorf als technisches Denkmal bewahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Straße Alt-Tegel umgestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Sicherung der Kolonie Seebad in Berlin Heiligensee - überwiesen
+- TOP 8.8: Halteverbot Regenwalder Weg/Stolpmünder Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Steganlagenkonzeption veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Barrierefreiheit im Märkischen Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Barrierefreiheit in Konradshöhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Notrufsäule am Flughafensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.13: Parken an abgesenkten Bordsteinen konsequent kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Neubau der Ollenhauerstraße mit regelkonformen Fuß- und Radwegen zügig vorantreiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.15: Fußgängerfreundliche Ampelschaltung Hermsdorfer Damm an der Martin-Luther-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Zebrastreifen für Waldseespielplatz einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: Reinickendorf blüht auf! Mitmach-Kampagne für einen liebenswerten Bezirk starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Linienführung der Buslinie 326 in der Heinsestrasse ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.19: Polizeipräsenz vor der Koca-Sinan-Moschee erhöhen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.20: Jahresbericht der Patientenfürsprecherin des Krankenhauses des Maßregelvollzugs für das Jahr 2023 - überwiesen
+- TOP 8.21: Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 Baugesetzbuch (BauGB) zum vorhabenbezogenen Bebauungsplan mit der Bezeichnung 12-70VE für die Grundstücke Hennigsdorfer Straße 159, 165 und 167 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 8.22: Erlass der Verordnung über die Festsetzung des vorhabenbezogenen Bebauungsplans 12-VE1 für das Grundstück Schloßstraße 9 im Bezirk Reinickendorf, Ortsteil Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.23: Jahresbericht der Patientenfürsprecherin des Vivantes Humboldt-Klinikums für den Bereich Somatik - überwiesen
+- TOP 8.24: Bericht über die geplanten, eingewilligten und eingegangenen Verpflichtungen sowie über die daraus resultierenden Vorbindungen gemäß Auflagenbeschluss Nr. 1 zum Haushalt 2024/2025 - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Neues Therapie-und Bewegungsbad im Humboldt Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Parkraumbewirtschaftung in Frohnau und Hermsdorf - in der BVV abgelehnt
+- TOP 11.3: Zaun zum S-Bahn Damm instand setzen - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Fahrradweg Heiligenseestraße - erledigt
+- TOP 11.5: Radverkehrszählstellen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bodenbelag in der Schramberger Straße sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sicherer Gehweg in der Zeltinger Straße - in der BVV abgelehnt
+- TOP 11.8: Zufahrt Koca-Sinan-Moschee sanieren und barrierefrei gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Nutzung öffentlicher Räume für soziale Arbeit - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Beseitigung von Angst-Orten - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Respekt und Wertschätzung müssen gelernt sein- Schulpräsenz der Sicherheits- und Rettungskräfte! - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Verkehrssicherheit in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Städtebauliche Integration und Erhöhung der Verkehrssicherheit im Kreuzungsbereich Habicht-/Specht-/Dohlenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: ParkYourBike in Reinickendorf nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: BVG-Auslastungsinfo BETA auf neuen Stand bringen - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Versickerungsmulden für den Maximiliankorso - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Beschilderung der bezirklichen Radrouten - in der BVV abgelehnt
+- TOP 11.18: Eingeschränktes Halteverbot in der Horber Straße - erledigt
+- TOP 11.19: Beschlussfassung über die Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Mülltonnen im Eingangsbereich der Max-Beckmann-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Internetanschluss für das Friedrich-Engels-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Hauptstadtzulage anpassen - in der BVV abgelehnt
+- TOP 11.23: Investitionsplanung - in der BVV abgelehnt
+- TOP 11.24: Basketballplatz auf dem Schulhof der Max-Beckmann-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.25: Wahl eines Patientenfürsprechenden für die Caritas-Klinik Dominikus - ohne Änderungen in der BVV beschlossen
+- TOP 11.26: Automatisierung von Prozessen in der Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 11.27: Zulassung weiterer freier Träger und Einrichtung einer Beratungsstelle auf dem Gelände der Flüchtlingsunterkunft TXL - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Resolution zur Gewalt gegen Gastronomiebetriebe - in der BVV abgelehnt
+- TOP 12.2: Pädagogische Fachkräfte in den Kitas unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Solidarität mit den Mitarbeiterinnen und Mitarbeitern der Justizvollzugsanstalt Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Drogenszene am Kiosk am Schäfersee verhindern - überwiesen
+- TOP 13.2: Seniorenbänke mit ausreichend Sitzfläche aufstellen - überwiesen
+- TOP 13.3: Aufklärung und Beratungsangebot zu Vaping (E-Zigaretten und E-Shishas) - überwiesen
+- TOP 13.4: Mehr Barrierefreiheit in Reinickendorf - überwiesen
+- TOP 13.5: Neue Beschilderung im Senftenberger Ring - überwiesen
+- TOP 13.6: Tempo 30 vor der Hermann-Schulz-Grundschule - überwiesen
+- TOP 13.7: Lebensgefahr für Fahrradfahrer und Fußgänger beseitigen - überwiesen
+- TOP 13.8: Emmentaler Str. in Reinickendorf-Ost - Teilabschnitt zwischen Residenzstraße und Reginhardstraße - überwiesen
+- TOP 13.9: Durchsetzung der Verkehrsberuhigung im Luisenweg - überwiesen
+- TOP 13.10: Verkehrssicherheit am Öschelbronner Weg / Ecke Wittenauer Straße erhöhen - überwiesen
+- TOP 13.11: Hinweisschild auf Fahrbahnverengung - überwiesen
+- TOP 13.12: Mobilitätskonzept Cité Foch: Parkplätze Jean-Jaurès-Straße - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Drittes Katheterlabor im Humboldt-Krankenhaus - überwiesen
+- TOP 14.2: Ausweisung eines Landschaftsschutzgebietes für das KaBoN-Gelände - überwiesen
+- TOP 14.3: Verkehrssicherheit in der Friedrich-Wilhelm-Straße erhöhen - überwiesen
+- TOP 14.4: X26 dauerhaft in Reinickendorf etablieren - überwiesen
+- TOP 14.5: Durchsetzung des nächtlichen LKW-Durchfahrtsverbotes in der Straße Alt-Reinickendorf - überwiesen
+- TOP 14.6: Bauprojekt Cité Foch (I): Parkplätze - überwiesen
+- TOP 14.7: Bauprojekt Cité Foch (II): Sperrung Avenue Charles de Gaulle - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - erledigt
