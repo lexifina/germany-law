@@ -1,0 +1,51 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze) (29. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2024-07-11T19:02:00+02:00
+- Ende: 2024-07-11T22:20:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-69
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZR-6lFxjvXmYt3uvIoI5Vsg
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/2384
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV1XDcHwaBthHJ25yc6fTe-TZks7gFFF_9dFEDDQ4How/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_11.07.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd4s7ULATHT3qLs13jeFpvHZ1YtL_-q4PWGphyFRfUXj/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze-_11.07.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Verabschiedung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze)
+- TOP 1.1: Verabschiedung der Bedarfs- und Entwicklungsplanung für den Brandschutz und die Allgemeine Hilfe der Kreisstadt Homberg (Efze) - 28 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 2.: Widmung des Weges entlang der Stadtmauer zwischen Hessenallee und Hersfelder Straße
+- TOP 2.1: Widmung des Weges entlang der Stadtmauer zwischen Hessenallee und Hersfelder Straße - 30 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 3.: Wahl eines Schiedsmanns für den Schiedsmannbezirk Homberg (Efze) - 29 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Interkommunale Kooperation Schwalm-Eder-Mitte – Städtebauförderprogramm Stadtumbau in Hessen (Stadtumbau West) hier: Ablösung der verbleibenden Verbindlichkeiten bei der HLG als Träger des Projekts nach Genehmigung der Schlussabrechnung durch den Vorstand des Zweckverbandes Schwalm-Eder-Mitte - 30 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: 3050112201 Sanierung Stadion A-Platz hier: Erhöhung des Eigenanteils im Haushalt 2025 - 20 Ja-Stimme(n), 6 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 6.: 1050232001 Neubau Kita Wernswig Hier: Entscheidung über Entwurfsvariante und Finanzierungsstruktur
+- TOP 6.1: 1050232001 Neubau Kita Wernswig Hier: Entscheidung über Entwurfsvariante und Finanzierungstruktur
+- TOP 6.2: 1050232001 Neubau Kita Wernswig Hier: Entscheidung über Entwurfsvariante und Finanzierungstruktur - 3 Ja-Stimme(n), 21 Gegenstimme(n), 6 Stimmenthaltung(en)
+- TOP 7.: Immobilie Untergasse 15 "Zaubergarten" hier: Entwicklung des Microquartiers und Genehmigung des notariellen Kaufvertrages
+- TOP 7.1: Immobilie Untergasse 15 "Zaubergarten" hier: Entwicklung des Microquartiers und Genehmigung des notariellen Kaufvertrages - 16 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 8.: Offene Werkstatt/ „MachWerk“ hier: Beratung und Beschlussfassung über die Verlängerung des Projekts und Abschluss eines 3. Nachtrags zum Mietvertrag
+- TOP 8.1: Offene Werkstatt/ „MachWerk“ hier: Beratung und Beschlussfassung über die Verlängerung des Projekts und Abschluss eines 3. Nachtrags zum Mietvertrag - 21 Ja-Stimme(n), 0 Gegenstimme(n), 8 Stimmenthaltung(en)
+- TOP 9.: Rahmenplanung süd- und westliche Innenstadt; Umsetzung der Rahmenplanung im Wohnquartier „An der Mauer / Hospitalstraße“ hier: Beratung und Beschlussfassung zum weiteren Vorgehen und Zustimmung zur Beurkundung eines notariellen Kaufvertrages - 26 Ja-Stimme(n), 1 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 10.: UBZ Licherode hier: Beteiligung der Stadt Homberg an einer gGmbH - 7 Ja-Stimme(n), 18 Gegenstimme(n), 5 Stimmenthaltung(en)
+- TOP 11.: Künftige Stadtentwicklung - Aufbau einer Stadtentwicklungsgesellschaft hier: Einbringung des Entwurfs einer Betriebssatzung
+- TOP 11.1: Künftige Stadtentwicklung - Aufbau einer Stadtentwicklungsgesellschaft hier: Einbringung des Entwurfs einer Betriebssatzung
+- TOP 12.: Künftige Stadtmarketing-Gesellschaft hier: Einbringung des Entwurfs eines Gesellschaftsvertrags
+- TOP 12.1: Künftige Stadtmarketing-Gesellschaft hier: Einbringung des Entwurfs eines Gesellschaftsvertrags
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Nachnutzung Löwenapotheke Marktplatz Hier: Kaufvertragsverhandlungen
+- TOP 15.: 244. Vergleichende Prüfung „Finanzmanagement“ nach dem Gesetz zur Regelung der überörtlichen Prüfung kommunaler Körperschaften in Hessen (ÜPKKG) Hier: Schlussbericht Stadt Homberg (Efze)
+- TOP 16.: Sachstandsberichte und sonstige Informationen
+- TOP 16.1: Entwicklung ehemaliges Klinikareal an der Melsunger Straße Hier: Sachstandsbericht
+- TOP 16.2: Aufwertung Freibad „Erleborn“ Hier: Sachstandsbericht
+- TOP 16.3: Dorfentwicklung Homberg (Efze) hier: Sachstandsbericht
+- TOP 16.4: Städtebauförderprogramm Wachstum und nachhaltige Erneuerung (vorher „Zukunft Stadtgrün“) für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: Sachstandsbericht zur Umsetzung der Projekte aus dem ISEK
+- TOP 16.5: Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier“, Projekt „Kulturzentrum Krone“ hier: Sachstandsbericht
+- TOP 16.6: Grundsteuerreform in Hessen Hier: Mitteilung der Hebesatzempfehlung für das Kalenderjahr 2025 betreffend die Grundsteuer A und Grundsteuer B
+- TOP 17.: Anfragen
+- TOP 17.1: Anfrage der SPD-Fraktion vom 02.07.2024 bezüglich der Umsetzung des Beschlusses der Stadtverordnetenversammlung vom 06.07.2023 betr. Anbringung von Fahrradanlehnbügeln
+- TOP 18.: Anregungen
