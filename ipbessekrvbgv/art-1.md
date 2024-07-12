@@ -1,0 +1,3 @@
+# Art 1
+
+Die durch Notenwechsel vom 6. Dezember 2023 und 18. April 2024 geschlossene Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines durch das Umweltprogramm der Vereinten Nationen gestellten Sekretariats für die Zwischenstaatliche Plattform Wissenschaft-Politik für Biodiversität und Ökosystemdienstleistungen (IPBES) in Bonn (IPBES-Sekretariat) wird hiermit in Kraft gesetzt. Der Notenwechsel wird nachstehend veröffentlicht.

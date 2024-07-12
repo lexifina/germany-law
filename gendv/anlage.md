@@ -1,0 +1,176 @@
+# Anlage Art und Umfang der Daten
+
+I. Technische Daten der Meldungen (zur Übermittlung an ein Genomrechenzentrum und einen klinischen Datenknoten)
+  1. Datum der Meldung
+  2. Typ der Meldungen
+    a) Erstmeldungen
+    b) Verlaufsmeldungen
+    c) Nachmeldungen
+    d) Korrekturen
+II. Daten der Genomsequenzierung (zur Übermittlung an ein Genomrechenzentrum, für alle Leistungserbringer)
+  1. Rohdatenäquivalente
+    a) Ganzgenomsequenzierungen
+    b) Exomsequenzierungen
+    c) Sequenzierungen großer Gengruppen mit einem spezifischen Krankheitsbezug
+  2. ergänzende Sequenzierungsdaten
+    a) Hersteller und Modell des Sequenziergeräts
+    b) Hersteller und Bezeichnung der Flow Cell und des Sequenzierungskits
+    c) Laufinformationen (Tiefe der Sequenzierung, Definitionen der Barcodes, Leselänge und Leserichtung (Single- oder Paired-End-Sequenzierung)), Hersteller und Bezeichnung des Sequenzierbibliothek-Präparationskits
+    d) Datum der Probe
+    e) Probentyp (u. a. Tumor-Desoxyribonukleinsäure (DNS) und/oder Keimbahn), Ursprungsmaterial (z. B. Blut, Gewebe) und Konservierungsart (z. B. frisch oder frisch gefroren oder in Paraffin eingebettet (FFPE))
+    f) Zielregion falls Anreicherung von genomischen Regionen (Angabe der Zielregion und Kit/Hersteller der Anreicherungsmethode), Referenzgenom (z. B. hg19), im Falle der Tumorsequenzierung zusätzlich der Gehalt an Tumorzellen in der Probe
+  3. Angaben zur Auswertungsmethodik (z. B. Varianten innerhalb der kodierenden DNS bei Ganzgenomsequenzierungen gefunden)
+III. Daten der Einwilligung und Teilnahmeerklärung (zur Übermittlung an ein Genomrechenzentrum und einen klinischen Datenknoten)
+  1. Teilnahme Modellvorhaben
+    a) Versicherter (Patienten-Identifikationsnummer bzw. Pseudonym)
+    b) Leistungserbringer (einholende Einrichtung)
+    c) Datum der Teilnahmeerklärung
+    d) Version der Teilnahmeerklärung
+    e) Umfang der Teilnahmeerklärung
+      aa) Erklärung zur Teilnahme am Modellvorhaben und Einwilligung zur Genomsequenzierung
+      bb) Einwilligung zur Fallidentifizierung zum fachlichen Austausch unter Behandlern
+      cc) Einwilligung zur Re-Identifizierung der Versichertendaten und zur Kontaktaufnahme bei einem neuen Befund in der Forschung
+    f) Datum der Kündigung der Teilnahmeerklärung
+    g) Umfang der Kündigung der Teilnahmeerklärung
+      aa) Erklärung zur Teilnahme am Modellvorhaben und Einwilligung zur Genomsequenzierung
+      bb) Einwilligung zur Fallidentifizierung zum fachlichen Austausch unter Behandlern
+      cc) Einwilligung zur Re-Identifizierung der Versichertendaten und zur Kontaktaufnahme bei einem neuen Befund in der Forschung
+  2. Forschungseinwilligung
+    a) Datum des Widerrufs der Einwilligung
+    b) Umfang des Widerrufs der Einwilligung
+IV. Allgemeine Daten zum Modellvorhaben (zur Übermittlung an einen klinischen Datenknoten)
+  1. Geschlecht
+  2. Monat und Jahr der Geburt
+  3. die ersten fünf Ziffern des amtlichen Gemeindeschlüssels des Wohnortes zum Zeitpunkt der Erstmeldung zum Modellvorhaben
+  4. Vorstellung des Versicherten zur Teilnahme am Modellvorhaben
+    a) Entscheidung der multidisziplinären Fallkonferenz im Bereich der Diagnostik zur Aufnahme des Versicherten in das Modellvorhaben
+    b) Datum der multidisziplinären Fallkonferenz
+V. Klinische Daten mit Bezug zur Teilnahme am Modellvorhaben (zur Übermittlung an einen klinischen Datenknoten)
+  1. für onkologische Erkrankungen
+    a) Diagnose
+      aa) Tumordiagnose nach International Statistical Classification of Diseases and Related Health Problems (ICD)
+      bb) Datum der Erstdiagnose (bezogen auf vorgenannte Diagnose)
+      cc) Perfomance Status der Eastern Cooperative Oncology Group (ECOG)
+      dd) ergänzend für erbliche Tumorerkrankungen: Phänotypisierung auf der Grundlage der Human Phenotype Ontology (HPO)
+    b) Pathologiebefund
+      aa) Histologiebefund ICD-O-3
+      bb) Differenzierungsgrad
+    c) Tumorstadium
+      aa) nach der aktuellen Klassifikation maligner Tumore nach dem Tumor, Nodus und Metastasen (TNM)-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades des Tumors einschließlich der nach dem TNM-Schlüssel vorgesehenen Kennzeichen
+      bb) nach der diagnosespezifischen Klassifikation für Tumorformen, für die der TNM-Schlüssel keine Anwendung findet
+    d) Entscheidung der multidisziplinären Fallkonferenz
+      aa) Datum der Fallkonferenz
+      bb) Empfehlung zu der Teilnahme an einer klinischen Studie
+      cc) Empfehlung einer systemischen Therapie (außerhalb klinischer Studie)
+        aaa) Empfehlung zu einem In-Label Use
+        bbb) Empfehlung zu einem Off-Label Use
+        ccc) Empfehlung zu einem Arzneimittel-Härtefallprogramm (Compassionate Use)
+      dd) Empfehlung Humangenetische Beratung
+      ee) Empfehlung diagnostische Re-Evaluation
+      ff) Art der empfohlenen Therapie (einschließlich der präventiven Maßnahmen bei erblichen Tumorerkrankungen)
+      gg) Wirkstoff
+      hh) Evidenzgrad
+      ii) stützende molekulare Alteration nach Standard (z. B. Online Mendelian Inheritance in Man (OMIM) oder HUGO Gene Nomenclature Committee (HGNC))
+        aaa) innerhalb der kodierenden DNS
+        bbb) in Steuerungselementen
+        ccc) außerhalb von kodierender DNS und Steuerungselementen
+      jj) Empfehlung für eine Operation
+  2. für seltene Erkrankungen
+    a) Phänotypisierung
+      aa) Phänotypisierung auf der Grundlage der HPO
+      bb) Monat und Jahr des Beginns des ersten aufgetretenen HPO-kodierten Symptoms
+    b) Entscheidung der multidisziplinären Fallkonferenz
+      aa) Datum der Fallkonferenz
+      bb) der Empfehlung zugrundeliegende Genomdiagnostik
+        aaa) Einzelgenom
+        bbb) Duogenom
+        ccc) Triogenom
+      cc) Bewertung der genetischen Diagnostik
+        aaa) keine genetische Diagnosestellung
+        bbb) Genetische Verdachtsdiagnose
+        ccc) weiterführende genetische Diagnostik empfohlen
+        ddd) genetische Diagnose gesichert
+        eee) klinischer Phänotyp nur partiell gelöst
+      dd) Diagnose
+        aaa) nach dem Schlüssel der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung
+        bbb) nach der Klassifikation seltener Erkrankungen (Orpha-Kennnummer)
+        ccc) weitere internationale Klassifikationen nach Bekanntmachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
+        ddd) Angaben zu möglichen gesundheitlichen Einschränkungen nach dem Gross Motor Function Classification System (GMFCS)
+      ee) Empfehlung zu der Teilnahme an einer klinischen Studie
+      ff) Empfehlung zur humangenetischen Beratung
+      gg) Empfehlung zur diagnostischen Re-Evaluation
+      hh) Empfehlung einer Therapie, Art der Therapie, zugrundeliegende genetische Variante(n)
+      ii) stützende molekulare Alteration nach Standard (z. B. OMIM oder HGNC)
+        aaa) innerhalb der kodierenden DNS
+        bbb) in Steuerungselementen
+        ccc) außerhalb von kodierender DNS und Steuerungselementen
+      jj) weitere Empfehlung zum klinischen Management
+VI. Klinische Daten zu Vorbefunden (zur Übermittlung an einen klinischen Datenknoten)
+  1. für onkologische Erkrankungen
+    a) fallrelevante, genetische Vorbefunde
+      aa) Art der Diagnostik
+        aaa) Ganzgenomsequenzierungen
+        bbb) Exomsequenzierungen
+        ccc) Sequenzierungen großer Gengruppen mit einem spezifischen Krankheitsbezug
+        ddd) Sequenzierungen kleiner Gengruppen mit einem spezifischen Krankheitsbezug
+        eee) Einzelgentestung
+      bb) Datum der Diagnostik
+      cc) Ergebnis der Diagnostik
+    b) ergänzend für nicht-erbliche Tumorerkrankungen: fallrelevante Vortherapie
+      aa) Art der Behandlung
+      bb) Wirkstoff
+      cc) Startdatum
+      dd) Enddatum
+      ee) Datum Progress
+      ff) Therapieansprechen (best response)
+        aaa) Progression
+        bbb) Stabile Erkrankung
+        ccc) Partielle Remission
+        ddd) Komplette Remission
+  2. für seltene Erkrankungen
+    a) fallrelevante, genetische Vorbefunde
+      aa) Art der Diagnostik
+        aaa) Array
+        bbb) Einzelgentestung
+        ccc) Sequenzierungen kleiner Gengruppen mit einem spezifischen Krankheitsbezug
+        ddd) Chromosomenanalyse
+        eee) Sequenzierungen großer Gengruppen mit einem spezifischen Krankheitsbezug
+        fff) Exomanalyse
+        ggg) andere
+      bb) Datum der Diagnostik
+      cc) Ergebnis der Diagnostik
+    b) fallrelevante Vortherapie
+      aa) Anzahl der stationären Behandlungen in den letzten fünf Jahren und geschätzte Dauer in Tagen
+      bb) Monat und Jahr des ersten Kontakts mit einem spezialisierten Zentrum für Seltene Erkrankungen
+VII. Klinische Daten zur Nachverfolgung (zur Übermittlung an einen klinischen Datenknoten)
+  1. für onkologische Erkrankungen
+    a) Umsetzung einer Therapieempfehlung der Fallkonferenz (einschließlich der präventiven Maßnahmen bei erblichen Tumorerkrankungen)
+    b) Therapie
+      aa) Datum Start der Therapie
+      bb) Datum Ende der Therapie
+      cc) Art der Therapie
+      dd) Wirkstoff
+    c) Therapieansprechen (best response)
+      aa) Erhebungsdatum
+      bb) Datenquelle Therapieansprechen
+      cc) Progression
+      dd) Stabile Erkrankung
+      ee) Partielle Remission
+      ff) Komplette Remission
+      gg) ergänzend für erbliche Tumorerkrankungen: Auftreten metachroner Tumorerkrankungen mit Diagnoseschlüssel
+    d) ECOG Performance Status
+    e) Allgemeiner Status zur klinischen Nachverfolgung
+      aa) Vitalstatus
+      bb) Datum des letzten Kontakts
+      cc) Sterbetag, Sterbemonat und Sterbejahr
+  2. für seltene Erkrankungen
+    a) Dokumentation Wiedervorstellung
+      aa) Datum
+      bb) Angaben zu Änderungen im Phänotyp auf der Grundlage der HPO
+      cc) Angaben zu Änderungen von gesundheitlichen Einschränkungen nach dem GMFCS
+      dd) Diagnosestellung erfolgt
+      ee) Ergänzende Daten zum Verlauf der Erkrankung
+    b) Allgemeiner Status zur klinischen Nachverfolgung
+      aa) Vitalstatus
+      bb) Datum des letzten Kontakts
+      cc) Sterbemonat und Sterbejahr
