@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 14 Absatz 1 Nummer 1, auch in Verbindung mit Absatz 2, und Nummer 5 sowie des § 6 Absatz 1 Nummer 15 Buchstabe a, jeweils in Verbindung mit § 72 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281) von denen § 6 Absatz 1 zuletzt durch Artikel 375 Nummer 2 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474), § 14 Absatz 1 Nummer 1 zuletzt durch Artikel 2 Nummer 6 des Gesetzes vom 13. Juli 2021 (BGBl. I S. 2354) und § 72 Absatz 1 zuletzt durch Artikel 2 Nummer 11 des Gesetzes vom 5. Juli 2021 (BGBl. I S. 2354) geändert worden sind, verordnet das Bundesministerium für Ernährung und Landwirtschaft:
