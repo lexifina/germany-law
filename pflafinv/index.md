@@ -1,4 +1,4 @@
-# Verordnung über die Finanzierung der beruflichen Ausbildung nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
+# Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
