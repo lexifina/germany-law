@@ -198,6 +198,7 @@
 | § 130b | Gerichtliches elektronisches Dokument |
 | § 130c | Formulare; Verordnungsermächtigung |
 | § 130d | Nutzungspflicht für Rechtsanwälte und Behörden |
+| § 130e | Formfiktion |
 | § 131 | Beifügung von Urkunden |
 | § 132 | Fristen für Schriftsätze |
 | § 133 | Abschriften |

@@ -1,7 +1,7 @@
-# Anlage 1 (zu den §§ 4 und 5)Sektoren
+# Anlage 1 (zu § 5)Sektoren
 
-Die Abgrenzung der Sektoren erfolgt entsprechend der Quellkategorien des gemeinsamen Berichtsformats (Common Reporting Format – CRF) nach der Europäischen Klimaberichterstattungsverordnung oder entsprechend einer auf der Grundlage von Artikel 26 Absatz 7 der Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.
-| Sektoren | Beschreibung der Quellkategorien des gemeinsamen Berichtsformats (Common Reporting Formats – CRF) | Quellkategorie CRF |
+Die Abgrenzung der Sektoren erfolgt entsprechend der Kategorien nach den einheitlichen Berichtstabellen (Common Reporting Tables – CRT) nach der Europäischen Klimaberichterstattungsverordnung oder entsprechend einer auf der Grundlage von Artikel 26 Absatz 7 der Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.
+| Sektoren | Beschreibung der Kategorien nach den einheitlichen Berichtstabellen (Common Reporting Tables – CRT) | CRT-Kategorie |
 | 1. | Energiewirtschaft | Verbrennung von Brennstoffen in der Energiewirtschaft; | 1.A.1 |
 | Pipelinetransport (übriger Transport); | 1.A.3.e |
 | Flüchtige Emissionen aus Brennstoffen | 1.B |

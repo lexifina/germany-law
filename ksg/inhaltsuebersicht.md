@@ -8,11 +8,13 @@ Abschnitt 2
 Klimaschutzziele und Jahresemissionsmengen
 | § 3 | Nationale Klimaschutzziele |
 | § 3a | Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft |
-| § 4 | Zulässige Jahresemissionsmengen und jährliche Minderungsziele, Verordnungsermächtigung |
-| § 5 | Emissionsdaten, Verordnungsermächtigung |
+| § 3b | Beitrag technischer Senken, Verordnungsermächtigung |
+| § 4 | Jahresemissionsgesamtmengen, Verordnungsermächtigungen |
+| § 5 | Monitoring, Jahresemissionsmengen, Verordnungsermächtigungen |
+| § 5a | Projektionsdaten |
 | § 6 | Bußgeldvorschriften |
 | § 7 | Durchführungsvorschriften zur Europäischen Klimaschutzverordnung |
-| § 8 | Sofortprogramm bei Überschreitung der Jahresemissionsmengen |
+| § 8 | Vorgehen bei Überschreitung der Jahresemissionsgesamtmengen |
 Abschnitt 3
 Klimaschutzplanung
 | § 9 | Klimaschutzprogramme |
@@ -26,6 +28,8 @@ Vorbildfunktion der öffentlichen Hand
 | § 13 | Berücksichtigungsgebot |
 | § 14 | Bund-Länder-Zusammenarbeit |
 | § 15 | Klimaneutrale Bundesverwaltung |
-| Anlage 1 (zu den §§ 4 und 5) | Sektoren |
-| Anlage 2 (zu § 4) | Zulässige Jahresemissionsmengen für die Jahre 2020 bis 2030 |
-| Anlage 3 (zu § 4) | Jährliche Minderungsziele für die Jahre 2031 bis 2040 |
+| § 16 | Übergangsvorschriften |
+| Anlage 1 (zu § 5) | Sektoren |
+| Anlage 2(zu § 4 Absatz 1 Satz 2 und 3) | Jahresemissionsgesamtmengen für die Jahre 2020 bis 2030 |
+| Anlage 2a (zu § 5 Absatz 1 Satz 2) | Jahresemissionsmengen für die Jahre 2020 bis 2030 |
+| Anlage 3(zu § 4 Absatz 1 Satz 4) |  |
