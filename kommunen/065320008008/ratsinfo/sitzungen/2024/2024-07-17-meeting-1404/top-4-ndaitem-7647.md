@@ -1,0 +1,6 @@
+# TOP 4.: Wartung Spielgeräte Spielplatz
+
+- Sitzung: Ortsbeirat Daubhausen (14. Sitzung/18.WP) (2024-07-17)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/7647
