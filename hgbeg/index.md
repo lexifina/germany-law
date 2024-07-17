@@ -274,3 +274,7 @@ Transparenzrichtlinie-Umsetzungsgesetz
 ## Vierundfünfzigster Abschnitt Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
 
 - [Art 93](art-93.md)
+
+## Fünfundfünfzigster Abschnitt Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
+
+- [Art 94](art-94.md)
