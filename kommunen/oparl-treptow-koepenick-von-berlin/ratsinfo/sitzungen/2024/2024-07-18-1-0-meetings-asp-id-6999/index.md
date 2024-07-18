@@ -1,0 +1,81 @@
+# 27. (ordentliche, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2024-07-18T16:30:00+02:00
+- Ende: 2024-07-18T20:38:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6999
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6999
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=431337
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Bezirksverordnetenvorsteher - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 5: Bürgerfragestunde - beantwortet
+- TOP 6: Personelles / Wahlen - (offen)
+- TOP 6.1: Nachwahl eines Mitglieds des Widerspruchsbeirates nach dem SGB IX und SGB XII - vertagt
+- TOP 6.2: Wahl eines Mitgliedes zur Vertretung des Bezirks Treptow-Köpenick im Netzwerk "Europa fängt in der Gemeinde an" - gewählt
+- TOP 7: Vertagte Tagesordnungspunkte - (offen)
+- TOP 7.1: Sitzungsterminplanung 2025 und 2026 (IX. Wahlperiode) der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-24 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Flächenentsiegelung bei Bauvorhaben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Gemeinbedarfsflächen im Entwicklungsgebiet Adlershof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.2: Vorkaufsrecht wahrnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Ämterübergreifende Zusammenarbeit beim Bebauungsplan 9-48 "Mellowpark" intensivieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Dammweg begrünen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2.5: Kreuzung Schulzendorfer Straße / Dahmestraße sicherer gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Gegen Mietpreisüberhöhung (§ 5 WiStG) wirksam vorgehen - überwiesen
+- TOP 8.2.7: Bedarfsermittlung von Schulplätzen für autistische Kinder - überwiesen
+- TOP 8.2.8: Kostenlose Mieterberatung evaluieren und bedarfsgerecht ausbauen - überwiesen
+- TOP 8.2.9: Bewegungs- und Sportangebote online leichter zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Mündliche Anfragen - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Kindertagesstättenentwicklungsplanung 2023-2027 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Sondermittel für "Ökumene Netzwerk im Nachhaltigkeitsprozess Treptow-Köpenick" e. V. (SM 24-21) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für den Verein "Ruderclub Turbine Grünau" e. V. (SM 24-22) - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sondermittel für den Verein "Bürger für Rahnsdorf" e. V. (SM 24-20) - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Sondermittel für den "Förderverein KIEZKLUB Bohnsdorf" e. V. (SM 24-18) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Gefährliche Ampelschaltung - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: KiTa-Stärkung durch mehr Personal - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Vielfalt Treptow-Köpenicks auf Fußgängerampeln - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Öffentliche Toiletten für den Spielplatz am Kaisersteg - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Inklusive Rollstuhlballsportarten für Menschen mit und ohne Handicap im Bezirk anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: "Der Mensch dahinter" – für mehr Respekt gegenüber Einsatzkräften - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Blitzersäule für die Johannisthaler Chaussee in Späthsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Straßenzusatzschilder für Karl Kunger im Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Informationstafeln im Landschaftspark Johannisthal / Adlershof erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Schöner sitzen in der Puchanstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Verkehrssicherheit an der Kreuzung Brigittenweg, Siriusstraße, Ortolfstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Forschungsprojekt: Straßenbenennung nach Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Gedenksteine für die Toten im Kampf gegen den Kapp-Putsch auf dem Friedhof Adlershof restaurieren und die Namen wieder lesbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Inklusion ernst nehmen und auf Protesttage aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Attraktive und zuverlässige Jahreskarte für FEZ-Schwimmhalle - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Freie Notunterkünfte digital in Echtzeit anzeigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Unfallrisiko an Straßenbahnhaltestelle Hirschgarten mindern - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Erhalt von Kleingartenanlagen in Plänterwald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Reinigung von Spielplätzen und Sportanlagen an Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: Bebauungsplan XV-25-1, Ortsteil Altglienicke hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Gewässer- und Naturschutz am Faulen See in Müggelheim erhalten - überwiesen
+- TOP 13.2: Längsparken in der Karlstraße ermöglichen - überwiesen
+- TOP 13.3: Ortsteilkonferenz für Köpenick-Süd - überwiesen
+- TOP 13.4: Katastrophenschutz stärken - überwiesen
+- TOP 13.5: Name ist Programm: Baumpflanzungen in der Chris-Gueffroy-Allee - überwiesen
+- TOP 13.6: Verwahrlosung stoppen - Dorfkern Bohnsdorf nachhaltig entwickeln - überwiesen
+- TOP 13.7: Historische Mosaike aus dem Fußgängertunnel Schöneweide sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Ordnungsamt-App durch Meldefunktion für Barrierefreiheit erweitern - überwiesen
+- TOP 13.9: Nahverkehrstangente nicht vergessen - überwiesen
+- TOP 13.10: Einzigartiges Baudenkmal zwischen Spree und Wuhlheide retten! - überwiesen
+- TOP 13.11: Freifläche am Kaisersteg - überwiesen
+- TOP 14: Große Anfragen - (offen)
+- TOP 14.1: Erlass von Straßensondernutzungsgebühren für das Jahr 2023 - beantwortet
