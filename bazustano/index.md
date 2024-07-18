@@ -3,4 +3,5 @@
 - [Eingangsformel](eingangsformel.md)
 - [I. Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit](i.md)
 - [II. Vorbehalt](ii.md)
-- [III. Schlussvorschriften](iii.md)
+- [III. Übergangsregelungen](iii.md)
+- [IV. Schlussvorschriften](iv.md)
