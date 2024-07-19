@@ -553,7 +553,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 189a | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 189a.1 |  | bei Lastkraftwagen oder Kraftomnibussen |  | 270 € |
 | 189a.2 |  | bei anderen als in Nummer 189a.1 genannten Fahrzeugen |  | 135 € |
-| 189b | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt |  |  |
+| 189b | Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt | § 19 Absatz 5 Satz 1 § 69a Absatz 2 Nummer 1b |  |
 | 189b.1 | bei Lastkraftwagen oder Kraftomnibussen |  | 270 € |
 | 189b.2 | bei anderen als in Nummer 189b.1 genannten Fahrzeugen |  | 135 € |
 |  | Führung eines Fahrtenbuches |  |  |
