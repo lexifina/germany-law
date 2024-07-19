@@ -251,5 +251,4 @@ Auslagen
 | 2013 | An den Verfahrensbeistand zu zahlende Beträge .......... | in voller Höhe |
 |  | Die Beträge werden von dem Minderjährigen nur nach Maßgabe des § 1808 Abs. 2 Satz 1 und des § 1880 Abs. 2 BGB erhoben. |  |
 | 2014 | An den Umgangspfleger sowie an Verfahrenspfleger nach § 9 Abs. 5 FamFG, § 57 ZPO zu zahlende Beträge .......... | in voller Höhe |
-| 2015 | Pauschale für die Inanspruchnahme von Videokonferenzverbindung:je Verfahren für jede angefangene halbe Stunde .......... | 15,00 € |
-| 2016 | Umsatzsteuer auf die KostenDies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt. | in voller Höhe |
+| 2015 | Umsatzsteuer auf die KostenDies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt. | in voller Höhe |
