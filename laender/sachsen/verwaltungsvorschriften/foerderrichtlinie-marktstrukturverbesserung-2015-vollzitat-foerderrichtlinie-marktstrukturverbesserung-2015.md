@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-02-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.9
+- Datum: 2024-07-19 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.10
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-02.02.2024
+19.07.2024
 bis
-18.07.2024
+10.07.2025
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -69,7 +69,7 @@ a)
 
 Sächsische Haushaltsordnung
 
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 
 b)
@@ -77,14 +77,13 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 23. November 2022 (SächsABl. S. 1423) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2021 (SächsABl. SDr. S. S 178),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. Dezember 2023 (SächsABl. 2024 S. 97) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 253),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S.2154) geändert worden ist,  
-
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das zuletzt durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 d)
 
@@ -133,6 +132,25 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 4.
 
 Qualitätsprodukte sind solche landwirtschaftlichen Erzeugnisse und Produkte, die nach Qualitätsregelungen gemäß Artikel 20 Absatz 2 der Verordnung (EU) 2022/2472 hergestellt werden.
+
+
+5.
+
+Regionale Wertschöpfungsketten sind zusammenhängende Unternehmensaktivitäten der Stufen Erzeugung, Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten,
+
+
+–
+
+die innerhalb einer nach Ziffer II Nummer 6 definierten Region angesiedelt sind und
+
+
+–
+
+an denen zwischen der Stufe der Erzeugung und der Vermarktung an Endverbraucherinnen und -verbraucher maximal zwei Unternehmen beteiligt sind (einschließlich in Dienstleistung beauftragte Unternehmen).
+
+6.
+
+Eine Region ist ein geografisch abgegrenzter, zusammenhängender Raum, der in Abhängigkeit der lokalen Gegebenheiten für einzelne Vorhaben im Rahmen dieser Förderrichtlinie durch die Begünstigten transparent und eindeutig nachvollziehbar festgelegt wird. Die Region kann länderübergreifend definiert werden, darf eine Größe von maximal insgesamt 80.000 km² jedoch nicht überschreiten.
 
 
 III.
@@ -284,7 +302,7 @@ e)
 
 Der dem Erzeugerzusammenschluss zugrunde liegende Vertrag muss die Mitglieder verpflichten, die für die Vermarktung bestimmten Produkte entsprechend den von dem Erzeugerzusammenschluss erstellten Anlieferungs- und Vermarktungsregeln im Markt anzubieten. 
 
-Die einschlägigen Wettbewerbsregeln nach den Artikeln 206 bis 210 der Verordnung (EU) Nr. 1308/2013, in der jeweils geltenden Fassung, sind einzuhalten. 
+Die einschlägigen Wettbewerbsregeln nach den Artikeln 206 bis 210 der Verordnung (EU) Nr. 1308/2013, in der jeweils geltenden Fassung, sind einzuhalten.
 
 Spätestens nach Ablauf des Förderzeitraums wird überprüft, ob die Ziele des Geschäftsplans des Erzeugerzusammenschlusses verwirklicht worden sind.
 
@@ -342,7 +360,7 @@ Art und Höhe der Zuwendungen
 
 a)
 
-Die Zuwendung erfolgt als Projektförderung mit Anteilfinanzierung und wird in Form eines Zuschusses gewährt. Die Zuwendung wird als Pauschalbeihilfe in jährlichen Tranchen für die ersten fünf Jahre nach der förmlichen Anerkennung des Erzeugerzusammenschlusses gezahlt.
+Die Zuwendung wird als Projektförderung in Form eines Zuschusses als Anteilfinanzierung gewährt. Die Zuwendung wird als Pauschalbeihilfe in jährlichen Tranchen für die ersten fünf Jahre nach der förmlichen Anerkennung des Erzeugerzusammenschlusses gezahlt.
 
 
 b)
@@ -461,7 +479,7 @@ Die Aufwendungen können auf den Neu- und Ausbau von Kapazitäten einschließlic
 
 c)
 
-Zu den zuschussfähigen Kosten zählen die Ausgaben für allgemeine Aufwendungen wie Architekten- und Ingenieurleistungen, Baugenehmigungen, Beratungsgebühren, Durchführbarkeitsstudien, Kosten der Vorplanung, Projektdurchführung und -begleitung, die im direkten Zusammenhang mit der Durchführung der Maßnahme stehen.
+Zu den zuschussfähigen Kosten zählen die Ausgaben für allgemeine Aufwendungen wie Architekten- und Ingenieurleistungen, Baugenehmigungen, Beratungskosten, Durchführbarkeitsstudien, Kosten der Vorplanung, Projektdurchführung und -begleitung, die im direkten Zusammenhang mit der Durchführung der Maßnahme stehen.
 
 3.
 
@@ -533,7 +551,7 @@ Investitionen im Zusammenhang mit der Erzeugung von Biokraftstoffen aus Nahrungs
 
 m)
 
-anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 202) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
+anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 5. Februar 2024 (BGBl. 2024 I Nr. 33) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
 
 
 n)
@@ -741,17 +759,29 @@ Art und Höhe der Zuwendungen
 
 a)
 
-Die Zuwendung erfolgt als Projektförderung mit Anteilfinanzierung und wird in Form eines Zuschusses gewährt.
+Die Zuwendung wird als Projektförderung in Form eines Zuschusses als Anteilfinanzierung gewährt.
 
 
 b)
 
-Begünstigten nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe a, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 35 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 40 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 50 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 c)
 
-Begünstigten nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Begünstigten nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittlere Unternehmen im Sinne des Anhanges I der Verordnung (EU) Nr. 2022/2472 sind, werden Zuwendungen in Höhe von 25 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt. Sofern diese Unternehmen mehr als 50 Prozent Qualitätsprodukte im Sinne von Ziffer II Nummer 4 erfassen und vermarkten, werden Zuwendungen in Höhe von 30 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe von 40 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.  Bei Unternehmen, die mehr als 50 Prozent ihrer Produkte in regionalen Wertschöpfungsketten im Sinne von Ziffer II Nummer 5 erfassen, verarbeiten und vermarkten, erhöht sich die Zuwendung um weitere 10 Prozentpunkte. Der Zuschlag für regionale Wertschöpfungsketten ist bis zum 31. Dezember 2026 befristet.
+
+Der Zuschlag kann nur gewährt werden, wenn
+
+
+–
+
+die Erzeugerzusammenschlüsse oder einzelnen Erzeuger, mit denen Liefer- oder Dienstleistungsverträge abgeschlossen werden müssen, in der definierten Region ansässig sind oder ihre Erzeugnisse dort produzieren und
+
+
+–
+
+die Geschäftsbeziehungen mit beteiligten regionalen Verarbeitungs- und Vermarktungsunternehmen für mindestens fünf Jahre durch Kooperationsvereinbarungen, Lieferverträge oder Dienstleistungsverträge nachgewiesen werden, soweit das Vermarktungskonzept keine relevante Eigenvermarktung an Endverbraucherinnen und -verbraucher vorsieht.
 
 
 d)
@@ -766,7 +796,7 @@ Für Investitionen zur Verarbeitung von landwirtschaftlichen Erzeugnissen zu Nic
 
 f)
 
-Der Gesamtwert aller Beihilfen aus zulässigen Förderprogrammen (unter anderem Zuschüsse, Zinsverbilligung für Darlehen, öffentliche Bürgschaften und Beteiligungen) für ein Vorhaben ist bei Zuwendungen nach Ziffer IV Nummer 6 Buchstaben b, c und d auf maximal 40 Prozent der zuwendungsfähigen Aufwendungen sowie bei Zuwendungen nach Ziffer IV Nummer 6 Buchstabe e für kleine Unternehmen auf maximal 20 Prozent und für mittlere Unternehmen auf maximal 10 Prozent der zuwendungsfähigen Aufwendungen begrenzt.
+Der Gesamtwert aller Beihilfen aus zulässigen Förderprogrammen (unter anderem Zuschüsse, Zinsverbilligung für Darlehen, öffentliche Bürgschaften und Beteiligungen) für ein Vorhaben ist bei Zuwendungen nach Ziffer IV Nummer 6 Buchstaben b, c und d auf maximal 65 Prozent der zuwendungsfähigen Aufwendungen sowie bei Zuwendungen nach Ziffer IV Nummer 6 Buchstabe e für kleine Unternehmen auf maximal 20 Prozent und für mittlere Unternehmen auf maximal 10 Prozent der zuwendungsfähigen Aufwendungen begrenzt.
 
 
 g)
@@ -787,7 +817,7 @@ Zuständig für die Durchführung der Förderung ist die Sächsische Aufbaubank 
 Antragsverfahren
 
 
-Die Zuwendung darf nur nach dem vom Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft gebilligten Formularmuster gewährt werden. Die Zuwendungsvoraussetzungen sind durch geeignete Unterlagen oder durch Eigenerklärungen nachzuweisen. Dem Antrag müssen die im Antragsformular bezeichneten Unterlagen beigefügt sein.
+Die Beantragung der Zuwendung erfolgt unter Verwendung des durch die Bewilligungsstelle zur Verfügung gestellten Antragsverfahrens. Dafür stehen die entsprechenden Formulare und Informationen zu den Förderkonditionen online bei der SAB unter www.sab.sachsen.de zur Verfügung.
 
 
 Bei Investitionsvorhaben nach Ziffer IV, die auch im Rahmen der Förderprogrammatik des Staatsministeriums für Wirtschaft, Arbeit und Verkehr bezuschusst werden können, ist von den Antragstellenden bei Antragstellung auf Förderung nach dieser Förderrichtlinie zu versichern, dass die Antragstellenden die alternative Möglichkeit geprüft, jedoch nicht beantragt haben.
@@ -800,7 +830,7 @@ Die Antragstellenden haben gegenüber der Sächsischen Aufbaubank mit Antragstel
 Bewilligungsverfahren
 
 
-Es erfolgt eine Bewilligung auf Ausgabenbasis. Die Sächsische Aufbaubank entscheidet durch Bescheid.
+Es erfolgt eine Bewilligung auf Ausgabenbasis.
 
 
 Bei der Förderung nach Ziffer IV erfolgt eine Bewilligung nach Abstimmung und im Benehmen mit dem Staatsministerium für Energie, Klimaschutz, Umwelt und Landwirtschaft.
@@ -824,20 +854,12 @@ Die Auszahlung erfolgt auf der Grundlage der Allgemeinen Nebenbestimmungen für 
 Anlage 2 zu den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung), sofern nachfolgend nichts anderes bestimmt ist.
 
 
-Abweichend von Nummer 1.4 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung wird die gewährte Zuwendung nur insoweit und nicht eher ausgezahlt, als sie für bezahlte Rechnungen im Rahmen des Zuwendungszweckes benötigt wird.
-
 4.
 
 Verwendungsnachweisverfahren
 
 
 Der Verwendungsnachweis ist auf den vorgesehenen Formularen bei der zuständigen Stelle einzureichen.
-
-
-Entsprechende Auflagen sind im Zuwendungsbescheid aufzunehmen.
-
-
-Die Sächsische Aufbaubank prüft die sachliche und rechnerische Richtigkeit und die ordnungsgemäße Durchführung der Fördermaßnahme.
 
 5.
 
@@ -903,9 +925,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  2. Februar 2024
+Fassung gültig ab: 19. Juli 2024
 
-Fassung gültig bis: 18. Juli 2024
+Fassung gültig bis: 10. Juli 2025
 
 Drucken/Speichern
 
@@ -930,7 +952,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.9
+https://www.revosax.sachsen.de/vorschrift/16242.10
 Stand vom
 18.11.2026
 
