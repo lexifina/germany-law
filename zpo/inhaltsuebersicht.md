@@ -171,7 +171,7 @@
 | § 114 | Voraussetzungen |
 | § 115 | Einsatz von Einkommen und Vermögen |
 | § 116 | Partei kraft Amtes; juristische Person; parteifähige Vereinigung |
-| § 117 | Antrag |
+| § 117 | Antrag; Verordnungsermächtigung |
 | § 118 | Bewilligungsverfahren |
 | § 119 | Bewilligung |
 | § 120 | Festsetzung von Zahlungen |
@@ -190,7 +190,7 @@
 |  | Titel 1 |
 |  | Mündliche Verhandlung |
 | § 128 | Grundsatz der Mündlichkeit; schriftliches Verfahren |
-| § 128a | Verhandlung im Wege der Bild- und Tonübertragung |
+| § 128a | Videoverhandlung |
 | § 129 | Vorbereitende Schriftsätze |
 | § 129a | Anträge und Erklärungen zu Protokoll |
 | § 130 | Inhalt der Schriftsätze |
@@ -915,7 +915,7 @@
 | § 802c | Vermögensauskunft des Schuldners |
 | § 802d | Weitere Vermögensauskunft |
 | § 802e | Zuständigkeit |
-| § 802f | Verfahren zur Abnahme der Vermögensauskunft |
+| § 802f | Abnahme der Vermögensauskunft |
 | § 802g | Erzwingungshaft |
 | § 802h | Unzulässigkeit der Haftvollstreckung |
 | § 802i | Vermögensauskunft des verhafteten Schuldners |

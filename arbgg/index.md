@@ -90,6 +90,7 @@ Arbeitssachen
 - [§ 48a](0048a.md)
 - [§ 49 Ablehnung von Gerichtspersonen](0049.md)
 - [§ 50 Zustellung](0050.md)
+- [§ 50a Videoverhandlung](0050a.md)
 - [§ 51 Persönliches Erscheinen der Parteien](0051.md)
 - [§ 52 Öffentlichkeit](0052.md)
 - [§ 53 Befugnisse des Vorsitzenden und der ehrenamtlichen Richter](0053.md)
