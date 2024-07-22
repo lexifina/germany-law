@@ -1,0 +1,76 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-07-22T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973636
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973636
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 17.06.2024
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Deklarierung von Feuerwehranfahrtszonen im Straßenbereich in der Andernacher Str.
+- TOP 2.2.: Straßenverkehr in der Ehrenbreitsteiner Str.
+- TOP 2.3.: Tempo 30 im Bereich der Hanauer Str. 1-12
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Seydlitzstr. 3
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Erhöhung der Verkehrssicherheit - Antrag zur Errichtung eines Vorgezogenen Seitenraums (sog. „Gehwegnase“) an der Baubergerstraße gegenüber der Einmündung Röthstraße
+- TOP 4.1.2.: Begrünung des Seitenstreifens entlang der Dachauer Straße 527 - 511
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Caritas München-Freising e.V., Caritas München West, Caritas Moosach „Aktion MVV / MVG – Fahrkarten für Moosacher Bürgerinnen und Bürger in einer Notlage vom 01.07.2024 – 30.06.2025“ 999,00 € / AZ: 0262.0-10-0384
+- TOP 5.2.: (E) Stadtbezirksbudget Leocor gGmbH „CO² - Bilanzierung und Nachhaltigkeitsaktion in Sportvereinen vom 11.07.2024 – 31.03.2025“ 5.400,00 € / AZ: 0262.0-10-0386
+- TOP 6.: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung: Einrichtung von Parkplätzen für Carsharing-Fahrzeuge
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Moosacher Bahnhof; Einrichtung einer Tempo30-Zone (Breslauer - /Bunzlauer Straße, Bunzlauer Platz, Großbeerenstraße)
+- TOP 6.3.: Entwurf Sitzungsvorlage: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogrumm 2024 - 2028...
+- TOP 6.4.: Abstimmung neues Radverkehrsnetz für München - IR III (Radvorrangrouten, RVR) (-> vertagt aus Sitzung am 17.06.2024)
+- TOP 6.5.: Novellierung der BaumSchV der Landeshauptstadt München (-> vertagt aus Sitzung am 17.06.2024)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Verlängerung der Fußgängergrünphase der Bedarfsampel an der Baubergerstraße Ecke Großbeerenstraße [BA-Antrag Nr. 20-26/B 05693; Grünzeit wird zur schulrelevanten Zeit am Morgen und Mittag verlängert.]
+- TOP 7.2.: Aufstellung einer Mobiltoilette in der Grünanlage "Amphionpark" [BA-Antrag Nr. 20-26/B 06608; dem BAUR stehen keine Mittel zur Verfügung -> evtl. kann BA10 eine "Bestellung städt. Leistungen" beschließen.]
+- TOP 7.3.: Ertüchtigung der nächtlichen Beleuchtung entlang des baustellenbedingten provisorischen Geh- und Radweges zwischen Riesengebirgstraße und Eisenbahnunterführung Dachauer Straße
+- TOP 7.4.: Baldmögliche Ersatzpflanzungen in der Grünanlage Kreuzung Bingener Straße/ Feldmochinger Straße
+- TOP 7.5.: Erhaltung der Erbpachtflächen "Hartmannshofener Siedlungsgebiet" (Stb. 10 - Moosach)
+- TOP 7.6.: Tiefgaragennutzung der Schule in der Welzenbachstr. 12
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes: Triebstr. 11e
+- TOP 8.2.: Verkehrsrechtliche Anordnung gemäß § 45 StVO: Anordnung eines eingeschränkten Halteverbotes an der Westseite der Feldmochinger Str. 13b
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 und 9 StVO: Anordnung des Zeichens 136 StVO "Kinder" in beide Fahrtrichtungen in der Postillonstr.
+- TOP 8.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Ausweisung der Moosburger Straße zwischen der Dachauer Straße und der Holledauer Straße zur Fahrradstraße
+- TOP 8.5.: Genehmigung der Zweckentfremdung von Wohnraum zur Unterbringung wohnungsloser Frauen und ihren Kindern Neubau Flexi-Heim, Variante 1; Betrieb und Betreuung durch HORIZONT e. V. -> Zustimmung BA10 in Sitzung am 18.12.23 erfolgt (A)
+- TOP 8.6.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 8.7.: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2) Produkt 34511500 Geodaten Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 38511200 Stadtplanung Produkt 45561100 Umweltvorsorge Beschluss über die Finanzierung für die Jahre 2024 – 2027 Änderung des Mehrjahresinvestitionsprogrammes 2024 - 2028
+- TOP 8.8.: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 8.9.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 8.10.: 2. Stammstrecke München - Station Ostbahnhof 1. Realisierung und Finanzierung eines zusätzlichen barrierefreien Zugangsbauwerkes im Bereich Friedenstraße 2. Anträge und Empfehlung
+- TOP 8.11.: (U) Erste Programmanpassung von "Wohnen in München VII" Anpassung der Erstvermietungsmieten und der Grundstückswerte für den geförderten Wohnungsbau Verlängerung des KMB Teuerungsausgleichs
+- TOP 8.12.: (U) Wohnen in München VII Vergabe städtischer Wohnbaugrundstücke Temporäre Wiedereinführung des Wahlrechtes zwischen Erbbaurechtsnahme und Kauf für Baugenossenschaften
+- TOP 8.13.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 8.14.: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP 8.15.: Leistungsprogramm der MVG für die Fahrplanperiode 2025
+- TOP 8.16.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. § 46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Naumburger Str. - nicht-öffentlich -
+- TOP 8.17.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. § 46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Feldmochinger Str. Ostseite nördlich Gärtnerstraße - nicht-öffentlich -
+- TOP 8.18.: Genehmigung Zweckentfremdung von Wohnraum: Käthe-Kruse-Str. - nicht-öffentlich -
+- TOP 8.19.: Genehmigung Zweckentfremdung von Wohnraum: Simmerleinpl. - nicht-öffentlich -
+- TOP 5.3.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen „Moosach Talente 2024 am 20.09.2024“ 1.871,00 € / AZ: 0262.0-10-0389
+- TOP 5.4.: (E) Stadtbezirksbudget Evangelisches Hilfswerk gemeinnützige GmbH „Sommerfest Teestube „komm“ am 09.08.2024“ 157,54 € / AZ: 0262.0-10-0387
+- TOP 2.4.: Antrag auf Weiterleitung unserer Anliegen zum Mieterschutz an die zuständigen Stellen
+- TOP 2.5.: Antrag auf ausreichende Baustellencontainer für die Baumaßnahme in der Karlingerstraße aufgrund unzulässiger Verknüpfung mit den Belangen des Mieterschutzes
+- TOP 2.6.: Antrag auf Verbesserung der Bauüberwachung aufgrund Abweichungen der Bauausführung von den Planungsvorgaben bei den Bauten der GWG in Moosach
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Karlingerstraße - nicht-öffentlich -
