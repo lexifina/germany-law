@@ -1,0 +1,6 @@
+# TOP 3: Anfragen (§ 4 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+
+- Sitzung: 27. Sitzung des Hauptausschusses (2024-07-22)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/401997
