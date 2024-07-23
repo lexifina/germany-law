@@ -1,0 +1,205 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-07-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966530
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966530
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-06
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Glasfaserausbau Chaos Sendling Westpark
+- TOP 6.2.: Wiese am Pfrontner Platz
+- TOP 6.3.: Grünflächennutzung nach Abbau des provisorischenKindergartens zwischen Grünstraße und Sappelstraße
+- TOP 6.4.: Grünflächenpflege
+- TOP 6.5.: Öffentliche Sicherheit im Straßenverkehr
+- TOP 6.6.: Partnachplatz neuer Park
+- TOP 6.7.: Flüchtlingsunterkünfte in der Albert-Roßhaupter-Str.
+- TOP 6.8.: Zustände Parkharfe Westpark, Friedrich Brugger Weg, Westendstraße, Gerty Spieß Straße, Stegener Weg Autobahnbrücke
+- TOP 6.9.: Beschwerde Lärmemissionen aufgrund von Veranstaltungen_Luise-Kiesselbach-Platz
+- TOP 6.10.: Situation Drachenseestr., Oetztale Str-Ortler Str.
+- TOP 6.11.: Flüchtlingsunterkunft Albert-Roßhaupter-Straße 22
+- TOP 6.12.: Grünflächennutzung nach Abbau des provisorischen Kindergartens zwischen Grünstraße und Sappelstraße
+- TOP 6.13.: Weilheimer Straße Zustand nach Bauarbeiten
+- TOP 6.14.: Umbau Hotel zur Unterkunft Flüchtlinge
+- TOP 6.15.: Westpark Rasenmähen
+- TOP 6.16.: Vermüllung Spielplatz Brunecker Straße
+- TOP 6.17.: Westpark Waserspielplatz.
+- TOP 7.: Weitere Punkte
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Neubesetzung von Unterausschüssen und „Benennung der/des Internetbeauftragten
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Leocor gGmbH „CO² - Bilanzierung und Nachhaltigkeitsaktion in Sportvereinen vom 11.07.2024 – 31.03.2025“ 5.400,00 € / AZ: 0262.0-7-0488
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat des Ludwigsgymnasiums München „Gesunde Schule vom 11.06.2024 – 10.06.2025“ 1.541,16 € / AZ: 0262.0-7-0481
+- TOP 10.3.: (E) Stadtbezirksbudget Initiative "Geschichte vom ohrlosen Hoichi" „Die Geschichte vom ohrlosen Hoichi vom 17.07.2024 – 27.07.2024“ 2.357,00 € / AZ: 0262.0-7-0489
+- TOP 10.4.: (E) Stadtbezirksbudget Pfarrverbandsjugend St. Philippus „Zeltlager der Pfarrverbandsjugend St. Philippus vom 27.07.2024 – 01.08.2024“ 2.700,00 € / AZ: 0262.0-7-0486
+- TOP 11.: Anträge
+- TOP 11.1.: Antag Hochbeet
+- TOP 11.2.: An der südwestlichen Ecke Pfrontener Platz / Nebelhornstraße wird die Bordsteinkante längerstreckig abgesenkt
+- TOP 11.3.: Sicherung der Querungsmöglichkeit an der Heiterwanger Straße
+- TOP 11.4.: Sicherung der Einmündung des Taubenhofwegs in den Hasenthalweg
+- TOP 11.5.: Ein Tauschschrank für unseren Stadtbezirk
+- TOP 11.6.: Verbesserung der Wasserqualität der Westparkseen
+- TOP 11.7.: An der Ecke Zillertalstraße / Ortlerstraße wird auf der Nordseite der Ortlerstraße zwischen Radweg und Zillertalstraße ein absolutes Halteverbot ausgeschildert
+- TOP 11.8.: Pilotprojekt inklusive Wasserspielplatz im Westpark
+- TOP 11.9.: Anordnung eines Tempolimits auf 30 km/h in der Westendstraße in nordöstliche Fahrtrichtung
+- TOP 11.10.: Anwohnerbefragung wegen Umgestaltung der Grünfläche an der Wessobrunner Straße
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Bericht des Vorsitzenden 2024-07
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Aichacherstr.
+- TOP 15.2.: Bauvorhaben Eukenstr.
+- TOP 15.3.: Bauvorhaben Lenaustr.
+- TOP 15.4.: Bauvorhaben Ludwigshafenerstr.
+- TOP 15.5.: Bauvorhaben Passauerstr.
+- TOP 15.6.: Bauvorhaben Ehrwalder Str.
+- TOP 15.7.: Bauvorhaben Albert-Roßhaupter-Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Anhörung, Sommerfest Kita Infanterix, Grünanlage Trautmannstraße
+- TOP 16.2.: Anhörung, Grünanlage Krüner Platz, TauschTour
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Westpark, Rondell Pressburger Straße, Nachbarschaftsfest
+- TOP 17.2.: Anhörung, Westpark, Theatron, Konzert der städtischen Sing- und Musikschule
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen BA-Antrags-Nr. 20-26 / B 06628 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 30.04.2024
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Halteverbot Distlhofweg
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Planfeststellung für das Vorhaben„Sendlinger Spange
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Wessobrunner Straße
+- TOP 33.2.: Ersatzneubau Kreuzhofbrücken
+- TOP 33.3.: Findlinge Wessobrunner Straße
+- TOP 33.4.: Gehweg verlängerte Gilmstraße: Gefahrenstellen
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 35.1.: Fristverlängerung Carsharing-Fahrzeuge wird Anhörungsfall
+- TOP 35.2.: Übermittlung von ungeschwärzten Antwortschreiben an BA-Mitglieder / Umsetzung der datenschutzrechtlichen Vorgaben
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 38.1.: Ostmarkstraße belasteter Straßenname
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Fristverlängerung Vollständige Beschilderung Radwegroute Baderseestraße zum Patnachplatz
+- TOP 40.2.: Fristverlängerung Murnauer Straße_Tempo 30 aus Lärmschutzgründen
+- TOP 40.3.: Fristverlängerung Busspuren auf Autobahnen
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Postfiliale Partnachstraße
+- TOP 42.: Referat für Bildung und Sport
+- TOP 42.1.: Fristverlängerung Snackautomaten Container Gilmschule
+- TOP 42.2.: Snackautomat in den Containern der Grundschule an der Gilmstraße (Gilmstraße 2)
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Frsitverlängerung Stellplätze E-Lastenfahrräder
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Zwischenstand Interims-Jugendtreff
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Anfrage Bürgerinformationsveranstaltung Sachstand Bau TWT
+- TOP 47.2.: Historischer AK zu Ostmarkstraße
+- TOP 47.3.: Kriminalitätsrate im Bereich Partnachplatz und Albert-Roßhaupter-Str.
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweis
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Temporäre Kunstaktion Kunstkreislauf im Sendlinger Wald
+- TOP 53.2.: Bescheid, Sommerfest des BA 7 mit Spielplatzeinweihung am Pfrontner Platz.
+- TOP 53.3.: Bescheid, Westpark, Theatron, Theatervorstellung Geschichte vom ohrlosen Hoichi
+- TOP 53.4.: Bescheid, Straßenfest, Schondorferstraße
+- TOP 53.5.: Bescheid, Westpark, große Wiese West, Fest der Kulturen
+- TOP 53.6.: Bescheid Sommerfest Hinterbärenbadstr.
+- TOP 53.7.: Bescheid, Grünanlage Bodenehrstraße, Sommerfest Kita Infanterix
+- TOP 53.8.: Bescheid, Westpark, Nepalpagode, Buddhistische Mantrarezitation für Weltfrieden
+- TOP 53.9.: Bescheid, Südpark, Tanzprojekt Naturkreislauf
+- TOP 53.10.: Bescheid, Westpark, Seebühne, Gottesdienst Hillsong Church
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 55.1.: Baumfällungen Wessobrunner St.
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Arbeiten im Straßenraum Pollingerstr
+- TOP 56.2.: Sperrung Hundertpfundweg
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Erhaltungssatzung Kriegersiedlung
+- TOP 62.2.: Erhaltungssatzung Mainburger Str.
+- TOP 62.3.: Beteiligungsprojekt Ran an die Stadtteil-Koffer
+- TOP 62.4.: Mieterbeiratswahl 2024
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Fernwärme-Projekt Am Westpark
+- TOP 63.2.: AKIM Bericht 1. Jahreshälfte 2024
+- TOP 63.3.: Flyer Strom-Projekt Pollinger Straße 13
+- TOP 63.4.: Flyer Fernwärme-Projekt Hansastraße 75
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Vorkaufsrecht Euckenstraße
+- TOP 12.6.1.: Protokoll UA PuG
+- TOP 12.6.2.: UA PuG Antrag Kneippanlage
+- TOP 12.2.1.: Einladung_UA_BuS
+- TOP 16.3.: Anhörung, Luise-Kiesselbach-Platz, Circus Roberto
+- TOP 17.3.: Anhörung, Westpark, Seebühne, Schwarzmeerkulturverein, Folkloretänze
+- TOP 12.5.1.: Protokoll MuW
+- TOP 12.3.1.: Protokoll HHA
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für die Juli Sitzung
