@@ -172,7 +172,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 | 3205 | Terminsgebühr in Verfahren vor den Landessozialgerichten, in denen Betragsrahmengebühren entstehen (§ 3 RVG) .......... | 60,00 bis 610,00 € |
 | Satz 1 Nr. 1 und 3 der Anmerkung zu Nummer 3106 gilt entsprechend. In den Fällen des Satzes 1 beträgt die Gebühr 75 % der in derselben Angelegenheit dem Rechtsanwalt zustehenden Verfahrensgebühr ohne Berücksichtigung einer Erhöhung nach Nummer 1008. |  |
 | Unterabschnitt 2 Revision, bestimmte Beschwerden und Rechtsbeschwerden |
-| Vorbemerkung 3.2.2: Dieser Unterabschnitt ist auch anzuwenden in Verfahren 1.über Rechtsbeschwerden a)in den in der Vorbemerkung 3.2.1 Nr. 2 genannten Fällen,b)nach § 20 KapMuG undc)nach § 1065 ZPO,2.vor dem Bundesgerichtshof über Berufungen, Beschwerden oder Rechtsbeschwerden gegen Entscheidungen des Bundespatentgerichts und3.vor dem Bundesfinanzhof über Beschwerden nach § 128 Abs. 3 FGO. |
+| Vorbemerkung 3.2.2: Dieser Unterabschnitt ist auch anzuwenden in Verfahren 1.über Rechtsbeschwerden a)in den in der Vorbemerkung 3.2.1 Nr. 2 genannten Fällen,b)nach § 23 KapMuG undc)nach § 1065 ZPO,2.vor dem Bundesgerichtshof über Berufungen, Beschwerden oder Rechtsbeschwerden gegen Entscheidungen des Bundespatentgerichts und3.vor dem Bundesfinanzhof über Beschwerden nach § 128 Abs. 3 FGO. |
 | 3206 | Verfahrensgebühr, soweit in Nummer 3212 nichts anderes bestimmt ist .......... | 1,6 |
 | 3207 | Vorzeitige Beendigung des Auftrags oder eingeschränkte Tätigkeit des Anwalts:Die Gebühr 3206 beträgt .......... | 1,1 |
 | Die Anmerkung zu Nummer 3201 gilt entsprechend. |  |
@@ -251,7 +251,7 @@ Zivilsachen, Verfahren der öffentlich-rechtlichen Gerichtsbarkeiten, Verfahren 
 | 3336 | (weggefallen) |  |
 | 3337 | Vorzeitige Beendigung des Auftrags im Fall der Nummern 3324 bis 3327, 3334 und 3335: Die Gebühren 3324 bis 3327, 3334 und 3335 betragen höchstens .......... | 0,5 |
 |  | Eine vorzeitige Beendigung liegt vor, 1.wenn der Auftrag endigt, bevor der Rechtsanwalt den das Verfahren einleitenden Antrag oder einen Schriftsatz, der Sachanträge, Sachvortrag oder die Zurücknahme des Antrags enthält, eingereicht oder bevor er einen gerichtlichen Termin wahrgenommen hat, oder2.soweit lediglich beantragt ist, eine Einigung der Parteien oder der Beteiligten zu Protokoll zu nehmen oder soweit lediglich Verhandlungen vor Gericht zur Einigung geführt werden. |  |
-| 3338 | Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) .......... | 0,8 |
+| 3338 | Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 13 KapMuG) .......... | 0,8 |
 | 3339 | Verfahrensgebühr für das Umsetzungsverfahren nach dem VDuG ..........Bei der Vertretung mehrerer Verbraucher, die verschiedene Ansprüche geltend machen, entsteht die Gebühr jeweils besonders. | 0,5 |
 | Abschnitt 4 Einzeltätigkeiten |
 | Vorbemerkung 3.4: Für in diesem Abschnitt genannte Tätigkeiten entsteht eine Terminsgebühr nur, wenn dies ausdrücklich bestimmt ist. |

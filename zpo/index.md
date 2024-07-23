@@ -53,7 +53,7 @@ Gerichte und Wertvorschriften
 - [§ 31 Besonderer Gerichtsstand der Vermögensverwaltung](0031.md)
 - [§ 32 Besonderer Gerichtsstand der unerlaubten Handlung](0032.md)
 - [§ 32a Ausschließlicher Gerichtsstand der Umwelteinwirkung](0032a.md)
-- [§ 32b Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen](0032b.md)
+- [§ 32b Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen](0032b.md)
 - [§ 33 Besonderer Gerichtsstand der Widerklage](0033.md)
 - [§ 34 Besonderer Gerichtsstand des Hauptprozesses](0034.md)
 - [§ 35 Wahl unter mehreren Gerichtsständen](0035.md)

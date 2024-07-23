@@ -50,7 +50,7 @@
 | § 31 | Besonderer Gerichtsstand der Vermögensverwaltung |
 | § 32 | Besonderer Gerichtsstand der unerlaubten Handlung |
 | § 32a | Ausschließlicher Gerichtsstand der Umwelteinwirkung |
-| § 32b | Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen |
+| § 32b | Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen |
 | § 33 | Besonderer Gerichtsstand der Widerklage |
 | § 34 | Besonderer Gerichtsstand des Hauptprozesses |
 | § 35 | Wahl unter mehreren Gerichtsständen |
