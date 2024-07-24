@@ -105,6 +105,7 @@
 | § 67c | Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken |
 | § 67d | Übermittlungsgrundsätze |
 | § 67e | Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung |
+| § 67f | Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung |
 | § 68 | Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr |
 | § 69 | Übermittlung für die Erfüllung sozialer Aufgaben |
 | § 70 | Übermittlung für die Durchführung des Arbeitsschutzes |
@@ -116,6 +117,7 @@
 | § 75 | Übermittlung von Sozialdaten für die Forschung und Planung |
 | § 76 | Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten |
 | § 77 | Übermittlung ins Ausland und an internationale Organisationen |
+| § 77a | Grenzüberschreitende Nachweisabrufe |
 | § 78 | Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden |
 |  |  | Dritter Abschnitt |
 |  |  |  | Besondere Datenverarbeitungsarten |

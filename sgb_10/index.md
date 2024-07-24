@@ -127,6 +127,7 @@ Vollstreckung
 - [§ 67c Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken](0067c.md)
 - [§ 67d Übermittlungsgrundsätze](0067d.md)
 - [§ 67e Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung](0067e.md)
+- [§ 67f Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung](0067f.md)
 - [§ 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr](0068.md)
 - [§ 69 Übermittlung für die Erfüllung sozialer Aufgaben](0069.md)
 - [§ 70 Übermittlung für die Durchführung des Arbeitsschutzes](0070.md)
@@ -138,6 +139,7 @@ Vollstreckung
 - [§ 75 Übermittlung von Sozialdaten für die Forschung und Planung](0075.md)
 - [§ 76 Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten](0076.md)
 - [§ 77 Übermittlung ins Ausland und an internationale Organisationen](0077.md)
+- [§ 77a Grenzüberschreitende Nachweisabrufe](0077a.md)
 - [§ 78 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden](0078.md)
 
 ### Dritter Abschnitt Besondere Datenverarbeitungsarten
