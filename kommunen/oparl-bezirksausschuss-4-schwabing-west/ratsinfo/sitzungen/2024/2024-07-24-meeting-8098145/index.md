@@ -1,0 +1,136 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8098145
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8098145
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Geplante Neubelegung der Münchner Schulsporthallen – FTM Schwabing
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Förderverein Hermann-Frieb-Realschule e.V. Mediatorenseminar vom 30.09. - 02.10.2024 984,00 Euro, Az.: 0262.0-4-0526
+- TOP 2.2.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V., Regionalverband München Spielprogramm "Umsonst & Draußen" vom 03.08. - 06.09.2024 3.567,00 Euro, Az.: 0262.0-4-0525
+- TOP 2.3.: (E) Stadtbezirksbudget Mittagsbetreuung 5 am Ackermannbogen, Gertrud-Bäumer-Schule e.V. Friedliches Miteinander vom 01. - 30.11.2024 1.500,00 Euro, Az.: 0262.0-4-0527
+- TOP 2.4.: Gestaltung und Ausstattung eines Aufenthaltsbereichs für Jugendliche im Luitpoldpark (vgl. TOP E 2.2.1)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Raumnot am Willi-Graf-Gymnasium: Geplante Übernahme von Räumen des Sophie-Scholl-Gymnasiums (Antwort des Stadtschulrats auf BA-Schreiben, TOP B 1.1 05/24 sowie neues Schreiben des Elternbeirats an RBS)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: a) Kindergarten Arbeitskreis Neue Erziehung: Sonnenschutz für Innen und Außen b) MobilSpiel e.V.: „Kicklusion – Der Anstoß zum Miteinander“
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Lärm- und Luftqualitätsmessungen an der Kreuzung Hohenzollern-/ Schleißheimer Straße – Einstufung der Wohnlage im Mietspiegel ändern (vgl. TOP D 3.1.2 12/23)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Vorbescheid James-Loeb-Straße: Umbau des denkmalgeschützten Bettenhauses 3 am Klinikstandort Schwabing zu Wohnen für Pflegekräfte der Münchenstift und der München Klinik
+- TOP 2.2.: Tektur Elisabethstr. 87: Neubau eines Wohn- und Geschäftshauses mit dreigeschossiger Tiefgarage (Elisabethstr. 87 / Kathi-Kobus-Str. 23)
+- TOP 2.3.: Farinellistr. 8: Aufstockung eines bestehenden Wohnhauses mit einem Vollgeschoss und Dachgeschoss sowie Anbau einer Balkonanlage (Farinellistr. 8 - 12 / Friedrich-Loy-Str. 1)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Baustelle und Baugrubensicherheit Schleißheimer Str. 93 (Antwort der LBK auf weitergeleitetes Bürgerinnenanliegen, TOP C 1.1 06/24)
+- TOP 3.1.2.: Anfrage der Mietergemeinschaft Bauerstr. 9 zum Vorkaufsrecht (Antwort der Kommunalreferentin auf TOP A 4.2 06/24)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: (U) Satzung über die Veränderungssperre Nr. 662 Flurstücke Nrn. 472/620 und 472/619 der Gemarkung Schwabing Stadtbezirk 4 Schwabing-West Erlass nach § 14 Baugesetzbuch (BauGB) (Aufstellungsbeschluss für den sektoralen Bebauungsplan Nr. 2191)
+- TOP 3.2.2.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 3.2.3.: (U) Erste Programmanpassung von "Wohnen in München VII" Anpassung der Erstvermietungsmieten und der Grundstückswerte für den geförderten Wohnungsbau Verlängerung des KMB Teuerungsausgleichs
+- TOP 3.2.4.: (U) Wohnen in München VII Vergabe städtischer Wohnbaugrundstücke Temporäre Wiedereinführung des Wahlrechtes zwischen Erbbaurechtsnahme und Kauf für Baugenossenschaften
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Erstantrag KW 25, Abbruchanzeige KW 25,Tektur KW 26, Erstantrag KW 27, Tektur KW 27
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Anfragen zum Bauvorhaben Farinelli-/Friedrich-Loy-Straße
+- TOP 3.4.2.: Bauvorhaben Friedrich-Loy/Farinellistraße
+- TOP 3.4.3.: Ablehnung des Bauvorbescheides Theo-Prosel-Weg 1-3
+- TOP 3.4.4.: Zukunft der Baustelle Schleißheimer Str. 93
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Eigenständige Festlegung der Bewohnerparkgebühren durch die Stadt München (Online-Wortmeldung aus der Bürgerversammlung am 18.06.2024)
+- TOP 1.2.: Bürgerin: Durchgehende Einführung von Tempo 30 in Schwabing West (Online-Wortmeldung aus der Bürgerversammlung am 18.06.2024)
+- TOP 1.3.: Bürger: Parkraumnot im Viertel – Wiedereinrichtung von Parkplätzen in der Borschtallee (Online-Wortmeldung aus der Bürgerversammlung am 18.06.2024)
+- TOP 1.4.: Bürger: Clemensstraße als Einbahnstraße und nur für Anlieger frei ausweisen (Online-Wortmeldung aus der Bürgerversammlung am 18.06.2024)
+- TOP 1.5.: Bürgerin: Fahrradabstellplätze in der Düsseldorfer / Prinz-Eugen-Straße
+- TOP 1.6.: Bürger: Kritik am Umbau Scheidplatz
+- TOP 1.7.: Bürger: Beantragung einer Lade- und Lieferzone in der Georgenstraße 144
+- TOP 1.8.: Bürger: Rückbau Haltebucht Luitpoldpark (Borschtallee)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Neues Radverkehrsnetz für München – IR III (Radvorrangrouten, RVR)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Stadtplatz Ackermannbogen: Ständig missachtetes Durchfahrtsverbot endlich durchsetzen (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen TOP D 1.7 02/24)
+- TOP 3.1.2.: Fahrradstellplätze in der Habsburger-/Ecke Hohenstaufenstraße sowie in der Tengstraße (Antwort des Baureferats auf weitergeleitetes Bürger*innenanliegen TOP D 1.6 a 03/24)
+- TOP 3.1.3.: Fahrradstraße Borschtallee sicherer und funktionaler gestalten
+- TOP 3.1.4.: Rückverlegung der Haltlinie auf der Linksabbiegespur aus der Elisabeth- in die Schleißheimer Straße (Antwort des Mobilitätsreferats auf weitergeleitetes Bürger*innenanliegen, TOP D 1.5 04/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Römerstr. 10
+- TOP 3.2.2.: Vollsperre der Ansbacher Straße zwischen Hohenzollern- und Bauerstraße vom 18.07. bis maximal 02.08.2024 wegen Aufbau eines Portalkrans
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: 2. Stammstrecke München - Station Ostbahnhof 1. Realisierung und Finanzierung eines zusätzlichen barrierefreien Zugangsbauwerkes im Bereich Friedenstraße 2. Anträge und Empfehlung
+- TOP 3.4.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2025
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Präsentation zur Informationsveranstaltung für BA-Mitglieder zum Aufbau von Normalladeinfrastruktur am 10.07.2024
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Antrag CSU: Karl-Theodor- und Rheinstraße. Klimaschutz konkret. Grüne Infrastruktur stärken (vertagt aus 05 u. 06/24)
+- TOP 1.2.: Antrag CSU: Karl-Theodor- und Rheinstraße. Klimaschutz konkret. Blaue Infrastruktur stärken (vertagt aus 05 u. 06/24)
+- TOP 1.3.: Bürgerin: Lärmbelästigung durch Tollwood und Drachenbootrennen im Olympiapark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Winzererstr. 87: Antrag auf Fällung einer Kiefer
+- TOP 2.1.2.: Winzererstr. 69: Antrag auf Fällung einer Birke
+- TOP 2.1.3.: Schleißheimer Str. 229 a: Antrag auf Fällung einer Thuje
+- TOP 2.1.4.: Winzererstr. 68: Antrag auf Fällung von drei mehrstämmigen Eiben
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: Gestaltung und Ausstattung eines Aufenthaltsbereichs für Jugendliche im Luitpoldpark (vgl. TOP B 2.1)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.3.1.: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 3.3.2.: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmezulassung für den nächtlichen Betrieb eines Kraftstromerzeugers für Grundwassermessungen am Hauptsammelkanal Oberwiesenfeld für eine Nacht im Zeitraum 01.07. bis 30.08.2024
+- TOP 3.4.2.: Maßnahmen gegen die Taubenplage
+- TOP 3.4.3.: Sicherheit und Gesundheit in der Silvesternacht 2024
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative Kreativlabor OPEN Kreativlabor OPEN am 13./14.07.2024 7.150,00 Euro, Az.: 0262.0-4-0524
+- TOP 2.2: Wirtschaft
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Schwabinger Präventionstag der Polizei und Sommerfest von Blaulicht e.V. am 03.08.2024 auf dem Bonner Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: a) Chorgemeinschaft Ackermannbogen: „Stabat Mater“ am 17.03.2024 b) Initiative „Kinderoper“: Rahmen- und Vermittlungsprogramm für „Bösemann“ c) Chorprobenphase der Chorbande Schwabing e.V.
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft „L‘Osteria“, Elisabethstr. 52
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Genehmigungsbescheid für „Kunst im Karree 2024“ am 19.07.2024
+- TOP 3.5.2.: Versammlungsanzeige für das „Public Picnic“ des Ackermannbogen e.V. am 20.07.2024
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.6.1.: Filmstandort München stärken
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Eilentscheidung der BA-Vorsitzenden: Zustimmung zum Sportfest des Willi-Graf-Gymnasiums am 25.07.2024 im Luitpoldpark
+- TOP G: BA-Angelegenheiten
+- TOP G.1.: Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen BA-Antrags-Nr. 20-26 / B 06628 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 30.04.2024
+- TOP G.2.: Antrag FDP/FW: Bezirksausschüsse übernehmen Verantwortung – Haushaltslage ernstnehmen; Aufforderung an die Landeshauptstadt München, die Bezirksausschussbudgets stadtweit für das Jahr 2025 zu halbieren
+- TOP H: Termine
