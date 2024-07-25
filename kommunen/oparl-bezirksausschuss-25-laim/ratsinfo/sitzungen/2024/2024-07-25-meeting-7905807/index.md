@@ -1,0 +1,106 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 1.2.1.: Westtangente - Verkehrssicherheit an der Kreuzung Fürstenrieder-/Agnes-Bernauer-Straße
+- TOP 1.2.2.: Gefahrenstellen am Fahrradweg Fürstenriederstr Höhe HsNr 32 u 58
+- TOP 1.2.3.: Problem mit Mülltonnen
+- TOP 2: Anträge
+- TOP 2.1.: Die Laimer Röhre endlich verkehrssicher für Fussgänger
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Tempo 30 für die Fürstenrieder Straße
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Beschluss des Bezirksausschusses des Stadtbezirkes 25 Laim vom 25.07.2024 Hier: Antrag auf zwei Schanigärten für die Landsberger Str. 331, Gaststätte "Via Bella Italia"
+- TOP 3.3.: (E) Stadtbezirksbudget Musicians for a better Life e.V. Chor- und Instrumentalunterricht für Kinder in der Gemeinschaftsunterkunft Laim vom 01.09.2024 - 31.07.2025 3.720,00 Euro, Az.: 0262.0-25-0337
+- TOP 3.4.: (E) Stadtbezirksbudget FabLab München e.V. MINT-hands-on für Grund- und Mittelschüler aus Laim vom 16.09.2024 – 31.03.2025 5.962,76 Euro, Az.: 0262.0-25-0335
+- TOP 3.5.: (E) Stadtbezirksbudget ESV München e.V. Turngala "The Phantom House", 03.-06.10.24 7.875,00€ ; AZ 0262.0-25-0338
+- TOP 3.6.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 5. Interkulturelles Tanz- und Musikfest „Hayat yolliri… Die Wege des Lebens…“ am 24.11.2024 1.845,00 Euro; Az. 0262.0-25-0339
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.06.24: Planfeststellungsverfahren Sendlinger Spange, Bahnhof Heimeranplatz
+- TOP 4.3.: Schreiben Mobilitätsreferat vom 01.07.24 Parksituation auf Gehwegen und Ausfahrten (Ziffer 1, 2, 3, und 4)
+- TOP 4.4.: (E) + (U) Parksituation auf Gehwegen und Ausfahrten (Ziffer 1, 2, 3, und 4) Hier: Schreiben Mobilitätsreferat vom 01.07.24
+- TOP 4.5.: Dialog-Displays - Agricolastraße, Ostseite (Fahrtrichtung von Süd nach Nord) direkt nach Einmündung der Rechpacherstraße. - Guido-Schneble-Straße Westseite (Fahrtrichtung von Nord nach Süd) zwischen Högerstraße und Inderstorferstraße im Bereich der Hausnummern 60-54.
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 09.07.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Bez. 25, Spielplatz Valpichlerstr./Von-der-Pfordten-Str. – Kinder- und Babyflohmarkt der Klötzchen am 05.10.2024 (Ersatztermin 12.10.2024)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 10.07.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Bez. 25, Grünanlage Hogenbergplatz, Herbstflohmarkt der Laimer Schlümpfe e. V. am 21.09.2024
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Byecherstr. 29, Grundstück 174/33-Laim Anbau an best. Wohngebäude
+- TOP 5.2.: Ofener Str. 8, Grundstück 127/193-Laim Neubau von zwei Reihenmittelhäusern
+- TOP 5.3.: Lutzstr. 27, Grundstück 27/39-Laim Dachaufstockung eines bestehenden Wohnhauses - VORBESCHEID
+- TOP 5.4.: Agnes-Bernauer-Str. 51, Grundstück 331/22-Laim Neubau eines Wohngebäudes mit 76 Einheiten, 2 Gewerbeeinheiten und Tiefgarage - mit Mobilitätskonzept
+- TOP 5.5.: Stadtlohner Str. 16, Grundstück 27/28-Laim Antrag auf Nutzungsänderung für WE 9 von Büro zu Mischnutzung Wohnen und Büro Sanierung des historischen Laden/Büros: Rückbau jüngerer Einbauten ( Trockenbau, Teeküche), Einbau eines Bads. Wiederherstellen des Zugangs zum zugehörigen, unterm Laden befindlichen Keller vom Ladenraum aus. Austausch der Fenster und Schaufenster in den Zimmern und dem Ladenraum
+- TOP 5.6.: Landsberger Str. 338, Grundstück 239/4-Laim Erhöhung der Bettenanzahl von 552 Betten auf 878 Betten sowie Errichtung von barrierefreien Zimmern im bestehenden A & O Hostel und Hotel
+- TOP 6: Sonstiges
+- TOP 6.1.: Informationsveranstaltung zum Planungsstand Neubaugebiet Zschokke-/Westendstraße
+- TOP 6.2.: Wahlplakatierung in der Landeshauptstadt München
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 06.06.24
+- TOP 7.2.: Protokoll UA Umwelt, Klima und Baumschutz vom 01.07.24
+- TOP 7.3.: Protokoll UA Bau und Mobilität vom 25.06.24
+- TOP 7.4.: Protokoll UA Mobilität vom 25.06.24
+- TOP 7.5.: Protokoll BA-Sitzung vom 04.07.24
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Sozialreferat vom 27.06.24: Information über Entscheidung Ran an die Stadtteil-Koffer-Einsatz 2025
+- TOP 8.2.: Schreiben Sozialreferat vom 04.07.24: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2023
+- TOP 8.3.: Schreiben Sozialreferat vom 05.07.24: Familien- und Ferienpässen für Einrichtungen im Stadtbezirk Laim
+- TOP 8.4.: Schreiben Sozialreferat vom 08.07.24: Info-Veranstaltung der Sozialreferentin für die Bezirksausschüsse am 27.06.2024
+- TOP 8.5.: Antwortschreiben PI 41 vom 24.06.24: Unzumutbare Zustände rund um den Laimer Platz
+- TOP 8.6.: Antwortschreiben PI 41 vom 24.06.24: Wilhelm-Riehl-Straße
+- TOP 8.7.: Antwortschreiben Mobilitätsreferat vom 25.06.24 und PI 41 vom 05.07.24: Anwohnerparken Camerloherstraße
+- TOP 8.8.: Antwortschreiben Mobilitätsreferat vom 26.06.24 und PI 41 vom 24.06.24: Untragbare Verkehrssituation und Fehlnutzung der Vosslerstr./Joergstr. als Umgehung für die Fürstenrieder Str.
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 25.06.24: Austausch Schachtabdeckungen vom 01.07.-26.07.24
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 19.06.24: Fürstenrieder Str. Bph. 3.2 Änderungen Gotthardstr. und Agnes-Bernauer-Str.
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 21.06.24: Fürstenrieder Straße/Perhamerstr. Bph. 4.1
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 28.06.24: VAO Fürstenrieder Str. zwischen Gotthard- und Agnes-Bernauer-Str.
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 03.07.24: VA Gotthardstr. vom 09.07.2024 bis 31.12.2024 (U 01487/24; Hauptbaumaßnahme; BPh300)
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 03.07.24: VAO Stadtlohner Str. 16 mit Helmpertstr. - Neubau Fernwärme
+- TOP 8.15.: Antwortschreiben LBK vom 24.06.24: Verfallene Häuser
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.06.24: Baumfällung Stöberlstr. 53
+- TOP 8.17.: Bautenliste 17.06.-23.06.24: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Lutzstr. 29
+- TOP 8.18.: Bautenliste 24.06.-30.06.24 A) Erstantragsverfahren 1. Stadtlohner Str. 16
+- TOP 8.19.: Bautenliste 01.07.-07.07.24: A) Erstantragsverfahren 1. Landsberger Str. 338
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.07.24: Gutachten zu Verpflanzung Bäume bzgl. Tram-Westtangente
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.07.24: Fällungsantrag Fischartstr. 15
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.07.24: Fällungsantrag Landsberger Str. 196-198
+- TOP 8.23.: Schreiben Stadtwerke München vom 19.06.24: Baumaßnahmen
+- TOP 8.24.: Schreiben SWM vom 01.07.24: Neue SW//M-MVG Anweisung: V 2024-047 B Veranst. (BladeNight West) 06.05.-16.09.24
+- TOP 8.25.: Antwortschreiben SWM vom 08.07.24: TWT Bereich Valpichlerstr. / Gotthardstr.
+- TOP 8.26.: Schreiben Kreisverwaltungsreferat vom 09.07.24: Veranstaltung im Freien in städtischer Grünanlage; hier: Laimer Platz - Tavolata – Gemeinschaftsessen in der Nachbarschaft – Gemeinsames Sushi rollen am 20.07.2024 erwartete Besucherzahl: max. 80 Besucher gleichzeitig
+- TOP 8.27.: Schreiben Direktorium Juli 2024: Verwendungsnachweis
+- TOP 8.28.: Beschluss des Bauausschussses vom 05.12.23: (U) Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing im 21. Stadtbezirk Pasing - Obermenzing und im 25. Stadtbezirk Laim Rohbauarbeiten Baulos 2 Ausführungsgenehmigung Eröffnung U-Bahnhof an der Willibaldstraße BA-Antrag Nr. 20-26 / B 05985 des Bezirksausschusses des Stadtbezirkes 25 Laim vom 12.10.2023
+- TOP 8.29.: Beschluss des Bauausschussses vom 05.12.23: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 8.30.: Beschluss der Vollversammlung vom 03.07.24: Mobilitätsstrategie 2035 – Teilstrategie Innovation M Cube (Münchner Cluster für die Zukunft der Mobilität in Metropolregionen): Weitere Projekte (Förderphase 2) Produkt 34511500 Geodaten Produkt 43512300 Strategie, Bezirksmanagement und Projektentwicklung Produkt 38511200 Stadtplanung Produkt 45561100 Umweltvorsorge Beschluss über die Finanzierung für die Jahre 2024 – 2027 Änderung des Mehrjahresinvestitionsprogrammes 2024 - 2028
+- TOP 8.31.: Beschluss der Vollversammlung vom 03.07.24: Regionaler Planungsverband München (RPV); Ausweisung von Vorranggebieten für die Errichtung von Windenergieanlagen; Informelle Vorabbeteiligung der Landeshauptstadt München
+- TOP 8.32.: Beschluss des Mobilitätsausschusses vom 17.07.24: Mobilitätsstrategie 2035 Nachbarschaftsviertel in München Produkt 43512300 Strategie, Bezirksmanagement und Produktentwicklung Beschluss über die Finanzierung für das Jahr 2024 aus der Nahmobilitätspauschale
+- TOP 8.33.: Beschlussentwurf ist für den Ausschuss für Arbeit und Wirtschaft gemeinsamen mit dem Mobilitätsausschuss am 16.07.2024 Leistungsprogramm der MVG für die Fahrplanperiode 2025
+- TOP 8.34.: Bekanntgabe in der Sitzung des Bauausschusses vom 09.07.24: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP 8.35.: Beschluss des Bildungsausschusses, des Sportausschusses und des Bauausschusses des Stadtrates in der gemeinsamen Sitzung vom 10.07.24: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 8.36.: Hinweis/Ergänzung zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Klima- und Umweltschutz vom 12.06.24: Projekt "Grüne Stadt der Zukunft II", gefördert durch das Bundesministerium für Bildung und Forschung Projektabschluss, Ergebnisse 2022/2023 und Ausblick
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.24: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2022-2023
+- TOP 8.38.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: (U) Erste Programmanpassung von "Wohnen in München VII" Anpassung der Erstvermietungsmieten und der Grundstückswerte für den geförderten Wohnungsbau Verlängerung des KMB Teuerungsausgleichs
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: 2. Stammstrecke München - Station Ostbahnhof 1. Realisierung und Finanzierung eines zusätzlichen barrierefreien Zugangsbauwerkes im Bereich Friedenstraße 2. Anträge und Empfehlung
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 8.43.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: (U) Wohnen in München VII Vergabe städtischer Wohnbaugrundstücke Temporäre Wiedereinführung des Wahlrechtes zwischen Erbbaurechtsnahme und Kauf für Baugenossenschaften
+- TOP 8.44.: Beschluss des Ausschuss für Arbeit und Wirtschaft vom 16.07.24.: Filmstandort München stärken
+- TOP 8.45.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Aufgesetztes Parken Walter-Scott-Straße (Weiterleitung an Mobilitätsreferat)
+- TOP 9.2.: Aufgesetztes Parken im Viertel (Weiterleitung an Mobilitätsreferat)
+- TOP 9.3.: Abriss Gebäude Agnes-Bernauer-Straße (Vorstand antwortet Bürger*in)
+- TOP 9.4.: Belegungskonzept Schulsporthallen (Weiterleitung an Referat für Bildung und Sport)
+- TOP 9.5.: Kommunale Wärmeplanung München (Aktuell mit RKU wegen Termin in Kontakt, Bürger*in wird informiert)
+- TOP 9.6.: Verkehrsblockade im Münchner Westen (Vorstand antwortet Bürger*in)
+- TOP 4.8.: Schreiben Baureferat vom 23.07.24 Errichtung einer festen Toilettenanlage am Hogenbergplatz - finale Standortabstimmung
