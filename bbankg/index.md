@@ -55,7 +55,7 @@ Gewinnverteilung
 
 - [§ 29 Sonderstellung der Deutschen Bundesbank](0029.md)
 - [§ 30 Urkundsbeamte](0030.md)
-- [§ 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank](0031.md)
+- [§ 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank; Verordnungsermächtigungen](0031.md)
 - [§ 32 Schweigepflicht](0032.md)
 - [§ 33 Veröffentlichungen](0033.md)
 - [§ 34](0034.md)
