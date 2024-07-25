@@ -93,13 +93,18 @@
 - [§ 54 Rechtsweg](0054.md)
 - [§ 55 Statistik](0055.md)
 
-## Abschnitt X
+## Abschnitt X Studienstarthilfe
 
-- [§ 56 Aufbringung der Mittel](0056.md)
+- [§ 56 Leistungsberechtigte, Verfahren, Zuständigkeit; Verordnungsermächtigung](0056.md)
+- [§ 56a Förderungsart und Umfang; Datenabgleich](0056a.md)
+- [§ 56b Nichtanrechnung](0056b.md)
 
-## Abschnitt XI Bußgeldvorschriften, Übergangs- und Schlussvorschriften
+## Abschnitt XI
 
-- [§ 57 (weggefallen)](0057.md)
+- [§ 57 Aufbringung der Mittel](0057.md)
+
+## Abschnitt XII Bußgeldvorschriften, Übergangs- und Schlussvorschriften
+
 - [§ 58 Ordnungswidrigkeiten](0058.md)
 - [§ 59 Verordnungsermächtigung für Fälle bundesweiter Notlagen](0059.md)
 - [§ 60 Opfer politischer Verfolgung durch SED-Unrecht](0060.md)

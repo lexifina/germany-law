@@ -4,7 +4,7 @@ Vorbemerkungen
 I. Allgemeine Vorbemerkungen
 1. Amtsbezeichnungen
 (1)
-Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form.
+Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung soweit möglich in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 (2)
 Die in den Bundesbesoldungsordnungen A und B gesperrt gedruckten Amtsbezeichnungen sind Grundamtsbezeichnungen. Den Grundamtsbezeichnungen können Zusätze beigefügt werden, die hinweisen auf
 1. den Dienstherrn oder den Verwaltungsbereich,
@@ -291,6 +291,7 @@ Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verte
 19. Zulage für Beamte der Zentrale der Bundesagentur für Arbeit
 Beamte, die in der Zentrale der Bundesagentur für Arbeit verwendet werden, erhalten eine Zulage nach Anlage IX. Mit der Zulage werden auch die mit der Tätigkeit allgemein verbundenen Aufwendungen abgegolten.
 Bundesbesoldungsordnung A
+Aufsteigende Gehälter
 Besoldungsgruppe A 2
 (weggefallen)
 Besoldungsgruppe A 3
@@ -503,7 +504,9 @@ Oberstarzt
 Flottenarzt
 Oberstveterinär
 Bundesbesoldungsordnung B
+Feste Gehälter
 Besoldungsgruppe B 1
+Direktor
 Direktor und Professor
 Besoldungsgruppe B 2
 Abteilungsdirektor, Abteilungspräsident
@@ -536,6 +539,7 @@ Abteilungsdirektor bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
 Abteilungspräsident beim Bundesamt für Soziale Sicherung
 – als Leiter einer besonders großen und besonders bedeutenden Abteilung –
 Botschafter
+Botschaftsrat Erster Klasse
 Bundesbankdirektor
 Direktor
 Direktor und Professor
@@ -549,7 +553,7 @@ Leitender Postdirektor
 – bei der Deutschen Telekom AG –
 Ministerialrat
 – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –,
-– als Mitglied des Bundesrechnungshofes –
+– Ministerialrat als Mitglied des Bundesrechnungshofes –
 Vizepräsident
 – bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 6 eingestuft ist –
 Vortragender Legationsrat Erster Klasse
@@ -562,9 +566,11 @@ Flottenarzt
 Oberstveterinär
 Besoldungsgruppe B 4
 Direktor
+Direktor und Professor
 Erster Direktor
 Leitender Direktor des Marinearsenals
 Präsident
+Präsident und Professor
 Vizepräsident
 – bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 7 eingestuft ist –
 Besoldungsgruppe B 5

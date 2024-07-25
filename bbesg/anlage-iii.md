@@ -2,7 +2,7 @@
 
 Vorbemerkungen
 1. Amtsbezeichnungen
-Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form.
+Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 2. Zulage für Richter und Staatsanwälte bei obersten Gerichtshöfen des Bundes sowie bei obersten Behörden
 (1)
 Richter und Staatsanwälte erhalten, wenn sie bei obersten Gerichtshöfen des Bundes oder obersten Bundesbehörden verwendet werden, eine Stellenzulage nach Anlage IX.

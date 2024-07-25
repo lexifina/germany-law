@@ -9,7 +9,7 @@ Professoren der Besoldungsgruppe W 1 erhalten, wenn sie sich als Hochschullehrer
 2. Dienstbezüge für Professoren als Richter
 Professoren an einer Hochschule, die zugleich das Amt eines Richters der Besoldungsgruppen R 1 oder R 2 ausüben, erhalten, solange sie beide Ämter bekleiden, die Dienstbezüge aus ihrem Amt als Professor und eine nicht ruhegehaltfähige Zulage. Die Zulage beträgt, wenn der Professor ein Amt der Besoldungsgruppe R 1 ausübt, monatlich 205,54 Euro, wenn er ein Amt der Besoldungsgruppe R 2 ausübt, monatlich 230,08 Euro.
 3. Amtsbezeichnungen
-Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form.
+Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 Besoldungsgruppe W 1
 Professor als Juniorprofessor
 Besoldungsgruppe W 2

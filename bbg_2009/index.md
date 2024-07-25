@@ -192,6 +192,7 @@
 - [§ 130 Wissenschaftliches und leitendes Personal der Hochschulen des Bundes](0130.md)
 - [§ 131 Einstellungsvoraussetzungen für Hochschullehrerinnen und Hochschullehrer sowie wissenschaftliche Mitarbeiterinnen und wissenschaftliche Mitarbeiter](0131.md)
 - [§ 132 Dienstrechtliche Stellung des hauptberuflichen wissenschaftlichen und leitenden Personals der Hochschulen](0132.md)
+- [§ 132a Ermächtigungen zum Erlass von Verordnungen zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschulen](0132a.md)
 - [§ 133 Ehrenbeamtinnen und Ehrenbeamte](0133.md)
 
 ## Abschnitt 11 Umbildung von Körperschaften
