@@ -495,8 +495,9 @@ VI. Verwendung und Betrieb von Luftfahrtgerät
   |  | a) | Erteilung der Genehmigung einschließlich Überprüfung zur fortlaufenden Einhaltung der Genehmigungsvoraussetzungen | 2 000 EUR |
   |  | b) | Änderung oder Erweiterung der Genehmigung | 50 bis 400 EUR |
   | 41. | Registrierung eines Betreibers eines unbemannten Fluggerätes für den Betrieb in den Betriebskategorien „offen“ und „speziell“ nach § 66a LuftVG |  |
-  |  | a) | natürliche und juristische Personen nach Absatz 3 | 20 bis 50 EUR |
-  |  | b) | Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband registriertem Mitglied | 5 EUR |
+  |  | a) | natürliche Personen nach Absatz 3 | 20 EUR |
+  |  | b) | juristische Personen nach Absatz 3 | 50 EUR |
+  |  | c) | Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband registriertem Mitglied | 5 EUR |
   | 42. | Registrierung eines unbemannten Fluggerätes für den Betrieb in der Betriebskategorie „zulassungspflichtig“ nach § 66b LuftVG | 100 EUR |
 VII. Sonstige Amtshandlungen der Luftfahrtverwaltungen
   | Gebührentatbestand | Gebühr |

@@ -33,7 +33,7 @@ Nutzung des Luftraums
 | § 21 | Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle |
 Abschnitt 5a
 Betrieb von unbemannten Fluggeräten
-| § 21a | Zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947 |
+| § 21a | Verfahren und zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947 |
 | § 21b | Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947 |
 | § 21c | Zuständige Behörde für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „zulassungspflichtig“ nach der Durchführungsverordnung (EU) 2019/947; Verkehrsvorschriften |
 | § 21d | Zuständige Behörde für den Betrieb von unbemannten Fluggeräten nach der Durchführungsverordnung (EU) 2019/947 durch Betreiber aus Drittländern |
