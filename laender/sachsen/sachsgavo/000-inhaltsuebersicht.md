@@ -1,12 +1,12 @@
 # Inhaltsübersicht
 Abschnitt 1 Gutachterausschüsse
 § 1 Bildung und Zuständigkeit der Gutachterausschüsse
-§ 2 Bestellung der Gutachter
-§ 3 Pflichten der Gutachter
+§ 2 Bestellung der Gutachterinnen und Gutachter
+§ 3 Pflichten der Gutachterinnen und Gutachter
 § 4 Abberufung und vorzeitige Beendigung
 § 5 Besetzung des Gutachterausschusses im Einzelfall, Beschlussfassung
 § 6 Verfahren
-§ 7 Aufgaben des Vorsitzenden
+§ 7 Aufgaben der oder des Vorsitzenden
 § 8 Geschäftsstelle
 § 9 Kaufpreissammlung
 § 10 Auskünfte aus der Kaufpreissammlung
