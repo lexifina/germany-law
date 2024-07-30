@@ -1,0 +1,113 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-07-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 25.06.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 25.06.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Erneuerung des Radwegs Neumarkter Str. stadtauswärts
+- TOP 2.2.: (E) Umwandlung der Bad-Kreuther-Str. in eine Fahrradstraße
+- TOP 2.3.: (E) Beschilderung Parkanlage Michaelianger
+- TOP 2.4.: (E) Radwegmarkierung am Ende der Hansjakobstraße
+- TOP 2.5.: (E) Freilegung Hachinger Bach – Änderung Planfeststellungsbeschlusses
+- TOP 2.6.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche)
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Blombergstr. 33 - Neubau von zwei Hausgruppen, best. aus zwei durch eine doppelschalige Kommunwand getrennte Häuser mit dazugehörigen 4 Carports
+- TOP 3.1.2.: Annabrunner Str. 7 - ÄNDERUNGSANTRAG zu 1.23-2024-6745-32 - Neubau eines Mehrfamilienhauses mit 6 Wohneinheiten und Tiefgarage - jetzt: Anpassung Abstandsflächen, Befreingsanträge, Bemaßung Stellplätze, Tiefgaragen-Überdeckung, Freiflächengestaltungsplan, Anpassung Bauzeichnungen, Kosten Tiefgarage
+- TOP 3.1.3.: Buchbacher Str. 1 - Nachverdichtung 2-geschossige Aufstockung einer Wohnanlage (67 WE) (Buchbacher Str. 1 - 6 / Gotteszeller Str. 1 - 23 / Mühldorfstr. 29 - 33) - VORBESCHEID
+- TOP 3.1.4.: Dingolfinger Str. 1 - Umbau und Erweiterung einer Gewerbeimmobilie
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Umsetzung der Überquerung Baumkirchner Str. am Grünen Markt; Anhörung des Mobilitätsreferats
+- TOP 3.2.2.: Eine Fahrspur in der Ampfingstraße in nördlicher Richtung zum Mittleren Ring; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.2.3.: Kreuzung Schatzbogen/Halfinger Str. – Sicherheit für Fußgänger verbessern, Barrierefreiheit herstellen; Antrag der CSU-Fraktion
+- TOP 3.2.4.: Sicherer Radverkehr zu und aus den Parks; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.5.: Möglicher Rad- oder Gehweg am Kindergarten St. Pius in der Anzingerstr. 35; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Querungsmöglichkeiten in der Friedenstr. und an der Piuskirche; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: „Theateraufführungen im Behrpark“ am 14./15.09.; 21./22.09. und 28./29.09.2023, Frist bis zum 19.08.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.2.: Straßenfest Berg am Laim in der Baumkirchner Straße + Grüner Markt am 08.09.2024, Frist bis zum 19.08.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.3.3.: 100 Jahre Trambahn Berg am Laim angemessen feiern; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget AKA e.V. Aktiv für interKulturellen Austausch Wochenendfahrt nach Berlin (politische Bildung, Freizeit) vom 19.07. bis 22.07.2024 3.236,00 Euro; Az. 0262.0-14-0408
+- TOP 3.5.2.: (E) Stadtbezirksbudget C.O.N. Sonanza e.V. Chor-Orchester-Netzwerk in Deutschland Vorbereitung für zwei wichtige Konzerte vom 03.08.2024 bis 22.10.2024 3.400,00 Euro; Az. 0262.0-14-0411
+- TOP 3.5.3.: (E) Stadtbezirksbudget Condrobs e.V. Therapeutische Ferienfreizeit für suchtmittelkranke Erwachsene im Oktober 2024 1.640,00 Euro; Az. 0262.0-14-0409
+- TOP 3.5.4.: (E) Stadtbezirksbudget Förderverein Papahelfer e.V. Lesewettbewerb der Schule vom 01.07. bis 15.07.2024 59,88 Euro; Az. 0262.0-14-0410
+- TOP 3.5.5.: (E) Stadtbezirksbudget Verein zur Förderung des Michaeli-Gymnasiums München Mentoring für alle Lernthemen; Oktober 2024 bis Juli 2025 6.150,00€; AZ 0262.0-14-0413
+- TOP 3.5.6.: (E) Stadtbezirksbudget Gemeinschaftsraum Netzwerk am Isareck vertreten durch Münchner Wohnen Service GmbH Straßen-Kunst-Feriencamp, 05.08.2024-08.08.2024 3.260,00€; AZ: 0262.0-14-0412
+- TOP 3.5.7.: Die Einrichtung von Parkplätzen für Carsharing-Fahrzeuge wird als Anhörungsfall in den BA-Katalog aufgenommen BA-Antrags-Nr. 20-26 / B 06628 des Bezirksausschusses des Stadtbezirkes 07 - Sendling-Westpark vom 30.04.2024
+- TOP 3.5.8.: Schlechte Haushaltslage: Bezirksausschuss bei Streichung von investiven Projekten mit einbeziehen; Antrag der CSU-Fraktion
+- TOP 3.5.9.: BSL: Aufstellen von senior*innengerechten Bänken am Piusplatz; Antrag der Fraktion DIE GRÜNEN
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Blombergstr. 33
+- TOP 3.6.2.: Hachinger-Bach-Str. 30
+- TOP 3.6.3.: Buchbacher Str. 1
+- TOP 3.6.4.: Risserkogelstr. 8
+- TOP 3.6.5.: Mutschellestr. 29
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Juni 2024
+- TOP 4.1.2.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 4.1.3.: Tiny Forest bzw. Microforest für Berg am Laim
+- TOP 4.1.4.: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 4.1.5.: 2. Stammstrecke München - Station Ostbahnhof 1. Realisierung und Finanzierung eines zusätzlichen barrierefreien Zugangsbauwerkes im Bereich Friedenstraße 2. Anträge und Empfehlung
+- TOP 4.1.6.: Fassadenbegrünung bei der Umsetzung des Bebauungsplans 2127
+- TOP 4.1.7.: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP 4.1.8.: Abdruck des Bescheids für die Truderinger Str.
+- TOP 4.1.9.: Vogelnistkästen in den Grünflächen von „Münchner Wohnen“
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 4.2.2.: (U) Wohnen in München VII Vergabe städtischer Wohnbaugrundstücke Temporäre Wiedereinführung des Wahlrechtes zwischen Erbbaurechtsnahme und Kauf für Baugenossenschaften
+- TOP 4.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.4.: Gemeinsamer Prüfantrag der BAs 14, 05; Rosenheimer Straße
+- TOP 4.2.5.: Gemeinsamer Prüfantrag der BAs 14 und 05: Verkehrsprobleme im Unterführungsbereich Rosenheimer Straße: Gefahren eliminieren, Gehweg verbreitern, Busse beschleunigen, Verkehrsfluss optimieren
+- TOP 4.2.6.: Mobilitätsstrategie 2035 Nachbarschaftsviertel in München Produkt 43512300 Strategie, Bezirksmanagement und Produktentwicklung Beschluss über die Finanzierung für das Jahr 2024 aus der Nahmobilitätspauschale
+- TOP 4.2.7.: Leistungsprogramm der MVG für die Fahrplanperiode 2025
+- TOP 4.2.8.: Einrichtung eines Haltverbots für den Hol- und Bringverkehr am Michaeligymnasium in der Großvenedigerstr.
+- TOP 4.2.9.: Maßnahmen an der Hermann-Weinhauser-Str.
+- TOP 4.2.10.: Ganzheitliches Fahrradabstellkonzept für den Ostbahnhof erarbeiten!, Antwortschreiben an den BA 5
+- TOP 4.2.11.: Suchkreismitteilung zu Mobilfunkanlagen: Kreillerstraße / Bajuwarenstraße / Zehntfeldstraße
+- TOP 4.2.12.: Verbesserungen am Grünen Markt
+- TOP 4.2.13.: Rückmeldung zur Umsetzung einer 30 km/h Zone in der St.-Veit-Str. zwischen der Waldstr. und der Heinrich-Wieland-Str., Sitzungsvorlage Nr. 20-26 / V 12005
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Fahrradständer in der Grundschule in der Berg-am-Laim Str.
+- TOP 4.3.2.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 4.3.3.: Kinderbetreuung in Baumkirchen Mitte sicherstellen
+- TOP 4.3.4.: Filmstandort München stärken
+- TOP 4.3.5.: Ergebnis der Jurysitzung zum Kunst am Bau-Wettbewerb für das Begegnungszentrum mit Haus für Kinder in der Haager Str.
+- TOP 4.3.6.: Sperrung Kinderspielbereich Achentalstr. 17 und Westerhammerstr. 26
+- TOP 4.3.7.: „Familien- und Nachbarschaftsfest“ vom 22.06 – 23.06.2024, Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Geburtshilfe Neuperlach
+- TOP 4.4.2.: München Klinik gGmbH (MüK) Zielbild "MüK 20++" und Medizinkonzept Sicherstellung der Notfallversorgung und der Altersmedizin Antrag des Seniorenbeirates vom 21.10.2019, eingegangen am 22.10.2019
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Übermittlung von ungeschwärzten Antwortschreiben an BA-Mitglieder/Umsetzung der datenschutzrechtlichen Vorgaben
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
