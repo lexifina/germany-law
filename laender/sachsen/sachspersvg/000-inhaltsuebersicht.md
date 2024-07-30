@@ -6,12 +6,13 @@ Teil 1 Allgemeine Vorschriften
 § 4 Beschäftigte
 § 5 Gruppen
 § 6 Dienststellen
-§ 7 Dienststellenleiter
+§ 7 Dienststellenleitung
 § 8 Behinderungsverbot
-§ 9 Weiterbeschäftigung Auszubildender
+§ 9 Datenschutz
 § 10 Schweigepflicht
 § 11 Unfallvorschriften
 Teil 2 Personalvertretungen
+Abschnitt 1 Wahl, Zusammensetzung und Amtszeit der Personalvertretung
 § 12 Bildung von Personalräten
 § 13 Wahlberechtigung
 § 14 Wählbarkeit
@@ -22,7 +23,7 @@ Teil 2 Personalvertretungen
 § 19 Wahlverfahren
 § 20 Bestellung des Wahlvorstands durch den Personalrat
 § 21 Wahl des Wahlvorstands durch die Personalversammlung
-§ 22 Bestellung des Wahlvorstands durch den Dienststellenleiter
+§ 22 Bestellung des Wahlvorstands durch die Dienststellenleitung
 § 23 Wahleinleitung
 § 24 Schutz der Wahl – Kostenregelung
 § 25 Anfechtung der Wahl
@@ -33,7 +34,7 @@ Teil 2 Personalvertretungen
 § 30 Ruhen der Mitgliedschaft
 § 31 Ersatzmitglieder
 § 32 Neuwahl bei Neubildung und Eingliederung von Dienststellen und Körperschaften
-Teil 3 Geschäftsführung
+Abschnitt 2 Geschäftsführung
 § 33 Vorstand des Personalrats
 § 34 Aufgaben des Vorstands
 § 35 Sitzungen
@@ -48,23 +49,24 @@ Teil 3 Geschäftsführung
 § 43a Ausschüsse des Personalrats
 § 44 Sprechstunden
 § 45 Kosten
-Teil 4 Rechtsstellung
+Abschnitt 3 Rechtsstellung
 § 46 Freistellung vom Dienst
 § 47 Schulungs- und Bildungsveranstaltungen
 § 48 Schutzvorschriften
-Teil 5 Personalversammlung
+Teil 3 Personalversammlung
 § 49 Zusammensetzung und Leitung
 § 50 Einberufung – Tätigkeitsbericht
 § 51 Zeitpunkt
 § 52 Gegenstand
 § 53 Teilnahmerecht
-Teil 6 Stufenvertretungen und Gesamtpersonalrat
+Teil 4 Stufenvertretungen und Gesamtpersonalrat
 § 54 Stufenvertretungen
 § 55 Entsprechende Anwendung der Personalvertretungsvorschriften
 § 56 Gesamtpersonalrat
 § 57 Wahl, Amtszeit und Geschäftsführung
-Teil 7 Besondere Vertretungen
-§ 58 Jugend- und Auszubildendenvertretung
+Teil 5 Besondere Vertretungen
+Abschnitt 1 Jugend- und Auszubildendenvertretungen
+§ 58 Jugend- und Auszubildendenvertretungen
 § 59 Aktives und passives Wahlrecht
 § 60 Zusammensetzung
 § 61 Wahlvorstand – Amtszeit
@@ -73,11 +75,12 @@ Teil 7 Besondere Vertretungen
 § 64 Stufenvertretungen und Gesamt-Jugend- und Auszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
 § 66 (weggefallen)
+Abschnitt 2 Sonstige besondere Vertretungen
 § 67 Schulen und Lehrkräfte
 § 68 Polizeivollzugsdienst
 § 69 Arbeitsgemeinschaft der Hauptpersonalräte
-§ 70 Staatsbetrieb Sachsenforst
-Teil 8 Beteiligung der Personalvertretungen
+§ 70 (weggefallen)
+Teil 6 Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
 § 72 Gleichmäßige Behandlung – Verbot parteipolitischer Betätigung
 § 73 Allgemeine Aufgaben – Anhörungen
@@ -95,13 +98,13 @@ Teil 8 Beteiligung der Personalvertretungen
 § 85 Einigungsstelle
 § 86 Durchführung von Entscheidungen
 § 87 Beteiligung der Stufenvertretungen und des Gesamtpersonalrats
-Teil 9 Gerichtliche Entscheidung
+Teil 7 Gerichtliche Entscheidung
 § 88 Zuständigkeit und Entscheidungen der Verwaltungsgerichte
 § 89 Bildung von Fachkammern
-Teil 10 Verschlusssachen und Verfassungsschutz
+Teil 8 Verschlusssachen und Verfassungsschutz
 § 90 Ausschuss für geheime Verschlusssachen
 § 91 Abweichungen für das Landesamt für Verfassungsschutz
-Teil 11 Übergangs- und Schlussvorschriften
+Teil 9 Übergangs- und Schlussvorschriften
 § 92 Rechtsverordnung über Wahlvorschriften
-§ 93 Übergangsvorschrift (zu § 67 Absatz 1 Satz 1)
+§ 93 Übergangsvorschrift
 § 94 In-Kraft-Treten – Außer-Kraft-Treten
