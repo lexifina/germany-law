@@ -1,0 +1,104 @@
+---
+ecli: "ECLI:DE:BVerfG:2024:rk20240730.2bvr036124"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 361/24"
+decided: "2024-07-30"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 30. Juli 2024 - 2 BvR 361/24,\n                    https://www.bverfg.de/e/rk20240730_2bvr036124"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/07/rk20240730_2bvr036124.html"
+corpus_doc_id: "BVerfG_2024-07-30_K_2_BvR_0361_24_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 361/24 vom 2024-07-30
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 361/24 -
+
+
+
+
+                                     In dem VVer
+                                              erfahr
+                                                 fahren
+                                                     en
+                                            über
+                               die V
+                                   Ver
+                                    erfassungsbesch
+                                       fassungsbeschwer
+                                                      werde
+                                                         de
+
+des Herrn (…),
+
+gegen    §§ 4 und 5 des Bundeswahlgesetzes in Verbindung mit der übrigen Ausgestaltung des Wahlverfahrens
+
+hat die 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                    den Richter Maidowski,
+
+                                    die Richterin Wallrabenstein
+
+                                    und den Richter Frank
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung
+vom 11. August 1993 (BGBl I S. 1473)
+am 30. Juli 2024 einstimmig beschlossen:
+
+        Die V
+            Ver
+              erfassungsbesch
+                fassungsbeschwer werde
+                                     de wir
+                                        wird d nicht zur Entscheidung angenommen, da
+        sie den Begründungsanf
+                 Begründungsanfor   orderungen
+                                      derungen (§ 23 Abs. 1 Satz 2 Halbsatz 1, § 92
+        BVer
+           erfGG
+             fGG,, vvgl.
+                     gl. Beschluss der 3. K
+                                          Kammer
+                                            ammer des Er Ersten
+                                                           sten Senats vvom
+                                                                         om 4. April 2024 -
+        1 BvR 2281/22 - Rn. 4 m.wm.w.N.,
+                                      .N., stRspr) nicht genügt.
+
+        Diese Entscheidung ist unanf
+                               unanfechtbar
+                                     echtbar..
+
+                   Maidowski                  Wallrabenstein                      Frank
+
+
+
+
+                                            1/2
+
+Bundesv
+Bundesvererfassungsgericht,
+           fassungsgericht, Beschluss der 2. Kammer des ZZweiten
+                                                          weiten Senats vvom
+                                                                          om 30. Juli 2024
+- 2 BvR 361/24
+
+Zitier
+Zitiervvor
+        orschlag
+           schlag BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 30. Juli 2024 -
+                  2 BvR 361/24 - Rn. (1 - ), http://www.bverfg.de/e/
+                  rk20240730_2bvr036124.html
+
+ECLI            ECLI:DE:BVerfG:2024:rk20240730.2bvr036124
+
+
+
+
+                                          2/2
