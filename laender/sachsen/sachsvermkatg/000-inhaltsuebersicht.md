@@ -12,7 +12,7 @@ Abschnitt 2 Daten
 § 9 Landesvermessung
 § 10 Liegenschaftskataster
 § 11 Bereitstellung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Vermessungsbehörden
-§ 12 Übermittlung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Gemeinden und Öffentlich bestellte Vermessungsingenieure
+§ 12 Übermittlung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Gemeinden sowie Öffentlich bestellte Vermessungsingenieurinnen und -ingenieure
 § 13 Nutzung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens
 § 14 Fortführung, Berichtigung und Erneuerung des Liegenschaftskatasters
 § 15 Datenerhebung und Datenübermittlung für das Liegenschaftskataster
@@ -20,14 +20,14 @@ Abschnitt 2 Daten
 § 17 Abmarkung
 § 18 Beglaubigungs- und Beurkundungsbefugnis
 § 19 Katastervermessung und Abmarkung in besonderen Fällen
-Abschnitt 3 Öffentlich bestellte Vermessungsingenieure
-§ 20 Beliehener
+Abschnitt 3 Öffentlich bestellte Vermessungsingenieurinnen und -ingenieure
+§ 20 Beliehene
 § 21 Bestellung, Erlöschen des Amtes
-§ 22 Amtssitz, Amtsbezirk, Wahrnehmung von Aufgaben innerhalb und außerhalb des Amtsbezirks
+§ 22 Amtssitz, Amtsbezirk, Wahrnehmung von Aufgaben innerhalb und außerhalb des Amtsbezirks, Zweigstellen
 § 23 Haftung, Versicherung
 § 24 Kosten, Vollstreckung
 § 25 Amtsverwalter
-§ 26 Umfang der Aufsicht über Öffentlich bestellte Vermessungsingenieure
+§ 26 Umfang der Aufsicht über Öffentlich bestellte Vermessungsingenieurinnen und -ingenieure
 Abschnitt 4 Ordnungswidrigkeiten, Rechtsverordnungen
 § 27 Ordnungswidrigkeiten
 § 28 Einschränkung von Grundrechten
