@@ -55,7 +55,7 @@ Abschnitt 4 Entschädigung
 § 48 Art, Inhalt und Umfang der Entschädigungsleistung
 § 49 Ansprüche mittelbar Geschädigter
 § 50 Entschädigungspflichtiger
-§ 51 Rückgriff gegen den Verantwortlichen
+§ 51 Rückgriff gegen verantwortliche Personen
 § 52 Rechtsweg für Entschädigungsansprüche
 Teil 3 Befugnisse zur Datenverarbeitung
 Abschnitt 1 Allgemeine Grundsätze
@@ -73,7 +73,7 @@ Unterabschnitt 2 Besondere Befugnisse zur Datenerhebung und besondere Maßnahmen
 § 61 Elektronische Aufenthaltsüberwachung
 § 62 Rasterfahndung
 § 63 Längerfristige Observation und Einsatz besonderer technischer Mittel
-§ 64 Einsatz Verdeckter Ermittler und V-Personen
+§ 64 Einsatz Verdeckter Ermittlerinnen, Verdeckter Ermittler und von V-Personen
 § 65 Einsatz technischer Mittel zur Datenerhebung in oder aus Wohnungen
 § 66 Überwachung der Telekommunikation
 § 67 Erhebung von Verkehrs- und Nutzungsdaten
@@ -104,11 +104,11 @@ Unterabschnitt 2 Datenübermittlung, sonstige Datenverarbeitung
 § 88 Datenübermittlung zum Zweck einer Zuverlässigkeitsüberprüfung zum Schutz besonders gefährdeter Veranstaltungen
 § 89 Datenübermittlung an Mitgliedstaaten der Europäischen Union
 § 90 Datenübermittlung im internationalen Bereich
-Unterabschnitt 3 Datenschutzpflichten des Verantwortlichen, Kontrolle
+Unterabschnitt 3 Datenschutzpflichten der verantwortlichen Stellen, Kontrolle
 § 91 Berichtigung, Löschung und Einschränkung der Verarbeitung
 § 92 Allgemeine Information zu Datenverarbeitungen, Auskunft
 § 93 Errichtungsanordnung
-§ 94 Kontrolle durch den Sächsischen Datenschutzbeauftragten
+§ 94 Kontrolle durch die Sächsische Datenschutz- und Transparenzbeauftragte oder den Sächsischen Datenschutz- und Transparenzbeauftragten
 Abschnitt 4 Datenverarbeitung zur Erfüllung von Aufgaben, die der Verordnung (EU) 2016/679 unterfallen
 § 95 Befugnis zur Verarbeitung besonderer Kategorien personenbezogener Daten
 § 96 Beschränkung der Informationspflicht bei der Erhebung personenbezogener Daten bei der betroffenen Person
