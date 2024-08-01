@@ -7,24 +7,32 @@
 
 - [§ 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes](0001.md)
 - [§ 2 Arten des Vorbereitungsdienstes](0002.md)
-- [§ 3 Schwerbehinderte und diesen gleichgestellte behinderte Menschen](0003.md)
+- [§ 3 Dauer des Vorbereitungsdienstes](0003.md)
+- [§ 4 Nachteilsausgleich](0004.md)
 
-## Kapitel 2 Zulassung und Einstellung
+## Kapitel 2 Auswahlverfahren und Einstellung
 
-- [§ 4 Einstellungsbehörde](0004.md)
-- [§ 5 Einstellungsvoraussetzungen](0005.md)
-- [§ 6 Ausschreibung, Bewerbung](0006.md)
-- [§ 7 Auswahlverfahren](0007.md)
-- [§ 8 Einstellung in den Vorbereitungsdienst](0008.md)
-- [§ 9 Dauer des Vorbereitungsdienstes](0009.md)
+- [§ 5 Einstellungsbehörde und personalbearbeitende Dienststelle](0005.md)
+- [§ 6 Beschäftigungsdienststelle](0006.md)
+- [§ 7 Auswahlverfahren und Zulassung zum Auswahlverfahren](0007.md)
+- [§ 8 Anforderungen im Auswahlverfahren](0008.md)
+- [§ 9 Auswahlkommission](0009.md)
+- [§ 9a Ergänzende Festlegungen](0009a.md)
+- [§ 9b Bestandteile des Auswahlverfahrens](0009b.md)
+- [§ 9c Schriftlicher Teil des Auswahlverfahrens](0009c.md)
+- [§ 9d Zulassung zum mündlichen Teil des Auswahlverfahrens](0009d.md)
+- [§ 9e Mündlicher Teil des Auswahlverfahrens](0009e.md)
+- [§ 9f Bewertung der Eignungsmerkmale](0009f.md)
+- [§ 9g Gesamtergebnis und Rangfolge](0009g.md)
+- [§ 9h Einstellung in den Vorbereitungsdienst](0009h.md)
 
 ## Kapitel 3 Berufspraktische Studienzeit
 
 - [§ 10 Gliederung der berufspraktischen Studienzeit](0010.md)
 - [§ 11 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“](0011.md)
 - [§ 12 Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes](0012.md)
-- [§ 13 Lehrgänge „Allgemeine Wehrtechnik“, „Technisches Projektmanagement“ und „Wirtschaftlichkeit im Projektmanagement“](0013.md)
-- [§ 14 Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“](0014.md)
+- [§ 13 Lehrgänge „Allgemeine Wehrtechnik“, „Wirtschaftlichkeit im Projektmanagement“ und „Technisches Projektmanagement“](0013.md)
+- [§ 14 Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“](0014.md)
 - [§ 15 Lehrgang „Rechtsgrundlagen in der Praxis“](0015.md)
 - [§ 16 Praktische Ausbildung](0016.md)
 - [§ 17 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder](0017.md)
@@ -60,5 +68,5 @@
 
 ## Kapitel 7 Sonstige Vorschriften
 
-- [§ 38 Übergangsregelung](0038.md)
+- [§ 38 Übergangsvorschrift](0038.md)
 - [§ 39 Inkrafttreten, Außerkrafttreten](0039.md)

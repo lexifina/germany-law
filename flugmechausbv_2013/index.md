@@ -16,5 +16,5 @@
 - [§ 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Triebwerkstechnik](0013.md)
 - [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
 - [Anlage 1 (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –](anlage-1.md)
-- [Anlage 2 (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Zeitliche Gliederung –](anlage-2.md)
-- [Anlage 3 (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)](anlage-3.md)
+- [Anlage 2 (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin - Zeitliche Gliederung –](anlage-2.md)
+- [Anlage 3 (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)](anlage-3.md)

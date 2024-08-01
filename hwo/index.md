@@ -80,6 +80,7 @@ Berufsausbildungsverhältnisse
 - [§ 34](0034.md)
 - [§ 35](0035.md)
 - [§ 35a](0035a.md)
+- [§ 35b](0035b.md)
 - [§ 36](0036.md)
 - [§ 36a](0036a.md)
 - [§ 37](0037.md)
@@ -96,8 +97,14 @@ Berufsausbildung
 - [§ 41](0041.md)
 - [§ 41a](0041a.md)
 
-### Sechster Abschnitt Berufliche Fortbildung, berufliche
-Umschulung
+### Sechster Abschnitt Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs
+
+- [§ 41b](0041b.md)
+- [§ 41c](0041c.md)
+- [§ 41d](0041d.md)
+- [§ 41e](0041e.md)
+
+### Siebenter Abschnitt Berufliche Fortbildung, berufliche Umschulung
 
 - [§ 42](0042.md)
 - [§ 42a](0042a.md)
@@ -116,7 +123,7 @@ Umschulung
 - [§ 42n](0042n.md)
 - [§ 42o](0042o.md)
 
-### Siebenter Abschnitt Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
+### Achter Abschnitt Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
 
 - [§ 42p](0042p.md)
 - [§ 42q](0042q.md)
@@ -126,7 +133,7 @@ Umschulung
 - [§ 42u](0042u.md)
 - [§ 42v](0042v.md)
 
-### Achter Abschnitt Berufsbildungsausschuß
+### Neunter Abschnitt Berufsbildungsausschuß
 
 - [§ 43](0043.md)
 - [§ 44](0044.md)
@@ -259,6 +266,7 @@ zulassungspflichtigen Handwerk
 - [§ 122](0122.md)
 - [§ 122a](0122a.md)
 - [§ 123](0123.md)
+- [§ 123a](0123a.md)
 - [§ 124](0124.md)
 - [§ 124a](0124a.md)
 - [§ 124b](0124b.md)

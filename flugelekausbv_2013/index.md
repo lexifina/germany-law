@@ -9,5 +9,5 @@
 - [§ 7 Teil 2 der Abschlussprüfung](0007.md)
 - [§ 8 Gewichtungs- und Bestehensregelung](0008.md)
 - [Anlage 1 (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –](anlage-1.md)
-- [Anlage 2 (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Zeitliche Gliederung –](anlage-2.md)
-- [Anlage 3 (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)](anlage-3.md)
+- [Anlage 2 (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin - Zeitliche Gliederung –](anlage-2.md)
+- [Anlage 3 (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)](anlage-3.md)

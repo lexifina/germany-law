@@ -272,7 +272,7 @@
 | Grundsatz |
 |  |
 | § 82 | Grundsatz |
-| § 83 | (weggefallen) |
+| § 83 | Besonderheiten für das Beitrittsgebiet |
 |  |
 | Zweiter Unterabschnitt |
 | Versicherter Personenkreis |
@@ -353,14 +353,14 @@
 | § 99a | Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes |
 | § 100 | Begrenzung der Steigerungszahl |
 | § 101 | Auswirkungen eines Versorgungsausgleichs |
-| § 102 | Allgemeiner Rentenwert (Ost) |
+| § 102 | (weggefallen) |
 | § 102a | Allgemeiner Rentenwert für die Zeit vom 1. Januar bis 30. Juni 2002 |
 | § 102b | Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten |
 | § 103 | Höhe der Rente wegen Erwerbsminderung |
 | § 104 | Höhe der Rente für frühere Ehegatten |
 | § 104a | Rentenartfaktor |
 | § 104b | Zuschlag bei Witwenrenten und Witwerrenten |
-| § 105 | (weggefallen) |
+| § 105 | Verordnungsermächtigung |
 | § 105a | (weggefallen) |
 |  |
 | Fünfter Unterabschnitt |
@@ -400,15 +400,15 @@
 | Finanzierung |
 |  |
 | § 113 | (weggefallen) |
-| § 114 | (weggefallen) |
+| § 114 | Beitragshöhe |
 | § 115 | Beitragstragung |
-| § 116 | (weggefallen) |
+| § 116 | Wiederauffüllung geminderter angleichungsdynamischer Anrechte |
 | § 117 | Beitragserstattung |
 | § 117a | (weggefallen) |
 | § 118 | Aufrechnung mit Beitragsentlastungen |
 | § 119 | (weggefallen) |
 | § 119a | (weggefallen) |
-| § 120 | (weggefallen) |
+| § 120 | Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet |
 |  |
 | Dritter Abschnitt |
 | Landabgaberente |

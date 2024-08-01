@@ -725,6 +725,7 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze](0453.md)
 - [§ 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung](0454.md)
 - [§ 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0455.md)
+- [§ 455a Neunundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0455a.md)
 - [§ 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes](0456.md)
 - [§ 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze](0457.md)
 - [§ 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung](0458.md)

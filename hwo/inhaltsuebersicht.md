@@ -10,9 +10,10 @@
 | Dritter Abschnitt: | Verzeichnis der Berufsausbildungs- verhältnisse | §§ 28 – 30 |
 | Vierter Abschnitt: | Prüfungswesen | §§ 31 – 40a |
 | Fünfter Abschnitt: | Regelung und Über- wachung der Berufs- ausbildung | §§ 41 – 41a |
-| Sechster Abschnitt: | Berufliche Fort- bildung, berufliche Umschulung | §§ 42 – 42o |
-| Siebenter Abschnitt: | Berufliche Bildung behinderter Menschen, Berufsausbildungs- vorbereitung | §§ 42p – 42v |
-| Achter Abschnitt: | Berufsbildungs- ausschuss | §§ 43 – 44b |
+| Sechster Abschnitt: | Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs | §§ 41b – 41e |
+| Siebenter Abschnitt: | Berufliche Fort- bildung, berufliche Umschulung | §§ 42 – 42o |
+| Achter Abschnitt: | Berufliche Bildung behinderter Menschen, Berufsausbildungs- vorbereitung | §§ 42p – 42v |
+| Neunter Abschnitt: | Berufsbildungs- ausschuss | §§ 43 – 44b |
 | Dritter Teil: Meisterprüfung, Meistertitel |
 | Erster Abschnitt: | Meisterprüfung in einem zulassungs- pflichtigen Handwerk | §§ 45 – 51 |
 | Zweiter Abschnitt: | Meisterprüfung in einem zulassungs- freien Handwerk oder in einem handwerksähnlichen Gewerbe | §§ 51a – 51g |

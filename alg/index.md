@@ -332,7 +332,7 @@ für einzelne Renten
 - [§ 99a Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes](0099a.md)
 - [§ 100 Begrenzung der Steigerungszahl](0100.md)
 - [§ 101 Auswirkungen eines Versorgungsausgleichs](0101.md)
-- [§ 102 Allgemeiner Rentenwert (Ost)](0102.md)
+- [§ 102 (weggefallen)](0102.md)
 - [§ 102a (weggefallen)](0102a.md)
 - [§ 102b Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten](0102b.md)
 - [§ 103 Höhe der Rente wegen Erwerbsminderung](0103.md)
