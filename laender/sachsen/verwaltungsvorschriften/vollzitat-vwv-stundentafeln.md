@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2021-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.4
+- Datum: 2024-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2021
+01.08.2024
 bis
-31.07.2024
+01.08.2024
 
 VwV Stundentafeln
 
@@ -84,7 +84,7 @@ Für Grundschulen, an denen nach der Klassenstufe 2 eine LRS-Klasse gebildet wir
 
 Grundschule mit dem Angebot des Faches Jüdische Religion
 
-An den von der Schulaufsichtsbehörde festgelegten Grundschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der VwV Religion und Ethik vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2019 (SächsABl. SDr. S. S 385) entsprechend.
+An den von der Schulaufsichtsbehörde festgelegten Grundschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der VwV Religion und Ethik vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 287) entsprechend.
 
 
 IV.
@@ -120,7 +120,7 @@ An Schulen mit dem Förderschwerpunkt Hören gelten die als Anlagen 2e bis 2h be
 Schule mit dem Förderschwerpunkt geistige Entwicklung
 
 
-An Schulen mit dem Förderschwerpunkt geistige Entwicklung und in Klassen für Schüler mit gleichzeitigem Förderbedarf im Förderschwerpunkt geistige Entwicklung an anderen Förderschultypen gilt die als Anlage 2i beigefügte Stundentafel.
+An Schulen mit dem Förderschwerpunkt geistige Entwicklung und in Klassen für Schülerinnen und Schüler mit gleichzeitigem Förderbedarf im Förderschwerpunkt geistige Entwicklung an anderen Förderschultypen gilt die als Anlage 2i beigefügte Stundentafel.
 
 
 5.
@@ -128,7 +128,7 @@ An Schulen mit dem Förderschwerpunkt geistige Entwicklung und in Klassen für S
 Schule mit dem Förderschwerpunkt körperliche und motorische Entwicklung
 
 
-An Schulen mit dem Förderschwerpunkt körperliche und motorische Entwicklung gelten die als Anlagen 2j und 2k beigefügten Stundentafeln. Für die Unterrichtung von Schülern mit gleichzeitigem Förderbedarf in den Förderschwerpunkten Lernen sowie körperliche und motorische Entwicklung gelten die Anlagen 2l und 2m.
+An Schulen mit dem Förderschwerpunkt körperliche und motorische Entwicklung gelten die als Anlagen 2j und 2k beigefügten Stundentafeln. Für die Unterrichtung von Schülerinnen und Schülern mit gleichzeitigem Förderbedarf in den Förderschwerpunkten Lernen sowie körperliche und motorische Entwicklung gelten die Anlagen 2l und 2m.
 
 
 6.
@@ -136,7 +136,7 @@ An Schulen mit dem Förderschwerpunkt körperliche und motorische Entwicklung ge
 Schule mit dem Förderschwerpunkt Lernen
 
 
-An Schulen mit dem Förderschwerpunkt Lernen gelten die als Anlagen 2l und 2m beigefügten Stundentafeln. Schüler an der Schule mit dem Förderschwerpunkt Lernen, die Klassen zur Erlangung des Hauptschulabschlusses oder eines dem Hauptschulabschluss gleichgestellten Abschlusses besuchen, werden entsprechend der Anlage 2n unterrichtet.
+An Schulen mit dem Förderschwerpunkt Lernen gelten die als Anlagen 2l und 2m beigefügten Stundentafeln. Schülerinnen und Schüler an der Schule mit dem Förderschwerpunkt Lernen, die Klassen zur Erlangung der Berufsreife besuchen, werden entsprechend der Anlage 2n unterrichtet. Schülerinnen und Schüler an der Schule mit dem Förderschwerpunkt Lernen, die Klassen zur Erlangung des Hauptschulabschlusses oder eines dem Hauptschulabschluss gleichgestellten Abschlusses besuchen, werden entsprechend der Anlage 2o unterrichtet.
 
 
 7.
@@ -144,7 +144,7 @@ An Schulen mit dem Förderschwerpunkt Lernen gelten die als Anlagen 2l und 2m be
 Schule mit dem Förderschwerpunkt Sprache
 
 
-An Schulen mit dem Förderschwerpunkt Sprache gelten die als Anlagen 2o und 2p beigefügten Stundentafeln.
+An Schulen mit dem Förderschwerpunkt Sprache gelten die als Anlagen 2p und 2q beigefügten Stundentafeln.
 
 
 8.
@@ -152,7 +152,7 @@ An Schulen mit dem Förderschwerpunkt Sprache gelten die als Anlagen 2o und 2p b
 Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung
 
 
-An Schulen mit dem Förderschwerpunkt emotionale und soziale Entwicklung gelten die als Anlagen 2q und 2r beigefügten Stundentafeln. Für die Unterrichtung von Schülern mit gleichzeitigem Förderbedarf in den Förderschwerpunkten Lernen sowie emotionale und soziale Entwicklung gelten die Anlagen 2l und 2m.
+An Schulen mit dem Förderschwerpunkt emotionale und soziale Entwicklung gelten die als Anlagen 2r und 2s beigefügten Stundentafeln. Für die Unterrichtung von Schülerinnen und Schülern mit gleichzeitigem Förderbedarf in den Förderschwerpunkten Lernen sowie emotionale und soziale Entwicklung gelten die Anlagen 2l und 2m.
 
 
 V.
@@ -252,7 +252,7 @@ An Gemeinschaftsschulen gilt in der Primarstufe Ziffer III Nummer 1 bis 3 entspr
 
 Sekundarstufe I
 
-An Gemeinschaftsschulen gelten entsprechend dem jeweiligen Anforderungsniveau, in dem die Schüler unterrichtet werden, Ziffer V Nummer 1 und 2 sowie Ziffer VI Nummer 1 und 3 entsprechend, soweit das genehmigte Schulprogramm keine Abweichungen enthält. Abweichend von Satz 1 gilt für die zweite Fremdsprache Ziffer VI Nummer 1 und 3 entsprechend. Für Schüler, die die allgemeine Hochschulreife anstreben, ist ein Gesamtstundenvolumen von mindestens 265 Jahreswochenstunden ab der Klassenstufe 5 bis zur Jahrgangsstufe 12 zu gewährleisten.
+An Gemeinschaftsschulen gelten entsprechend dem jeweiligen Anforderungsniveau, in dem die Schülerinnen und Schüler unterrichtet werden, Ziffer V Nummer 1 und 2 sowie Ziffer VI Nummer 1 und 3 entsprechend, soweit das genehmigte Schulprogramm keine Abweichungen enthält. Abweichend von Satz 1 gilt für die zweite Fremdsprache Ziffer VI Nummer 1 und 3 entsprechend. Für Schülerinnen und Schüler, die die allgemeine Hochschulreife anstreben, ist ein Gesamtstundenvolumen von mindestens 265 Jahreswochenstunden ab der Klassenstufe 5 bis zur Jahrgangsstufe 12 zu gewährleisten.
 
 
 VIII.
@@ -291,11 +291,11 @@ der allgemeinbildenden Schulen
 
 1.
 
-An Grundschulen, Oberschulen einschließlich Oberschulen+ und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe die   Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
+An Grundschulen, Oberschulen einschließlich Oberschulen+ und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe die Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
 
-Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten   Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in den Fremdsprachen am Gymnasium darf nicht verringert werden.
+Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in den Fremdsprachen am Gymnasium darf nicht verringert werden.
 
-Im Rahmen der Eigenverantwortung entscheidet der Schulleiter über die Abweichung von der jeweiligen Stundentafel.
+Im Rahmen der Eigenverantwortung entscheidet die Schulleiterin oder der Schulleiter über die Abweichung von der jeweiligen Stundentafel.
 
 
 2.
@@ -405,20 +405,23 @@ Anlage 2m
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Lernen – gilt auch für die Schulen mit dem Förderschwerpunkt körperliche und motorische Entwicklung sowie mit dem Förderschwerpunkt emotionale und soziale Entwicklung in Klassen mit gleichzeitigem Förderbedarf im Förderschwerpunkt Lernen – Klassenstufen 5 bis 9
 
 Anlage 2n
+Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Lernen – Klassen zur Erlangung des Hauptschulabschlusses und des dem Hauptschulabschluss gleichgestellten Abschlusses –
+
+Anlage 2o
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Lernen
 
 – Klassen zur Erlangung des Hauptschulabschlusses und des dem Hauptschulabschluss gleichgestellten Abschlusses –
 
-Anlage 2o
+Anlage 2p
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Sprache Primarstufe
 
-Anlage 2p
+Anlage 2q
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Sprache Sekundarstufe I
 
-Anlage 2q
+Anlage 2r
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung Primarstufe
 
-Anlage 2r
+Anlage 2s
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung Sekundarstufe I
 
 Anlage 3a
@@ -473,9 +476,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2021
+Fassung gültig ab:  1. August 2024
 
-Fassung gültig bis: 31. Juli 2024
+Fassung gültig bis:  1. August 2024
 
 Drucken/Speichern
 
@@ -502,7 +505,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.4
+https://www.revosax.sachsen.de/vorschrift/17744.5
 Stand vom
 18.11.2026
 
