@@ -84,8 +84,11 @@ Abschnitt 10 Abiturprüfung für Schulfremde
 § 73 Ziel, Gegenstand, Ablauf der Prüfung
 § 74 Gliederung der Prüfung
 § 75 Ergebnis der Prüfung, Gesamtqualifikation, Wiederholung
-Abschnitt 11 Schlussbestimmungen
-§ 76 Übergangsregelungen
+Abschnitt 11 Erhebungen
+§ 76 Zustimmung
+§ 77 Zuständigkeit
+Abschnitt 12 Schlussbestimmungen
+§ 78 Übergangsregelungen
 Anlage 1 Punktesystem
 Anlage 2 Tabelle zur Ermittlung eines vierfach gewerteten Prüfungsergebnisses
 Anlage 3 Tabelle zur Errechnung der Durchschnittsnote N aus der Punktzahl der Gesamtqualifikation P
