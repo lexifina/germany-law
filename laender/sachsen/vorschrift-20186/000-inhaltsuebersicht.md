@@ -75,6 +75,7 @@ Unterabschnitt 1 Allgemeine Bestimmungen
 § 60 Leistungsnachweise und Beurteilungen
 § 61 Vornote für die berufspraktische Ausbildung
 § 62 Zulassung zum berufspraktischen Teil der Abschlussprüfung
+§ 62a Fachausschuss für die berufspraktische Prüfung
 § 63 Berufspraktische Prüfung und Wiederholung
 Unterabschnitt 2 Fachrichtung Heilerziehungspflege
 § 64 Dauer und Gliederung der Ausbildung
@@ -82,7 +83,7 @@ Unterabschnitt 2 Fachrichtung Heilerziehungspflege
 § 66 Aufnahmevoraussetzungen
 § 67 Schriftliche Prüfung
 § 68 Berufspraktische Prüfung
-§ 69 Schuldfremdenprüfung
+§ 69 Schulfremdenprüfung
 § 70 Berufsbezeichnung
 Unterabschnitt 3 Fachrichtung Sozialpädagogik
 § 71 Dauer und Gliederung der Ausbildung
