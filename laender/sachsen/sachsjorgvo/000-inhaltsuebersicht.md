@@ -7,13 +7,14 @@ Teil 1 Gerichtsverfassung, Bereitschaftsdienst und Aufhebung von Richtervorbehal
 § 5 Bereitschaftsdienst
 § 5a Aufhebung von Richtervorbehalten
 § 5b Zuständigkeit in Verfahren über die Bewilligung von Prozess- und Verfahrenskostenhilfe
+§ 5c Übertragung von Rechtspflegeraufgaben
 Teil 2 Sonderzuständigkeiten
 Abschnitt 1 Zivilrecht
 Unterabschnitt 1 Prozesskostenhilfe
 § 6 Grenzüberschreitende Prozesskostenhilfe
-Unterabschnitt 2 Bürgerlich-rechtliche Angelegenheiten
-§ 7 Unterlassungsklageverfahren
-§ 8 Führung des Güterrechtsregisters
+Unterabschnitt 2 (weggefallen)
+§ 7 (weggefallen)
+§ 8 (weggefallen)
 Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
 § 9 Führung des Vereins-, Handels-, Partnerschafts-, Gesellschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
 § 10 Gesellschaftsrechtliche Angelegenheiten
@@ -33,7 +34,7 @@ Unterabschnitt 6 Besondere Sachgebiete
 § 19 Landwirtschaftssachen
 § 20 Baulandsachen
 § 21 Berggrundbuch
-§ 21a Abschiebungshaft, Ausreisegewahrsam und Überstellungshaft
+§ 21a Abschiebehaft, Ausreisegewahrsam, Überstellungshaft und Durchsuchungsanordnungen nach dem Aufenthaltsgesetz
 § 21b Familiensachen
 Abschnitt 2 Straf- und Bußgeldsachen
 § 22 Zuständigkeit in Haftsachen
@@ -41,6 +42,7 @@ Abschnitt 2 Straf- und Bußgeldsachen
 § 24 Kollision und Mehrheit von Sonderzuständigkeiten
 § 24a Rechtshilfe in Strafsachen
 § 24b Zollfahndungssachen
+§ 24c Audiovisuelle Vernehmungen
 § 25 Bußgeldverfahren
 Abschnitt 3 Fachgerichtsbarkeiten
 § 26 Fachkammern bei den Sozialgerichten
