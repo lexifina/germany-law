@@ -1,8 +1,8 @@
 # ESF Plus-Richtlinie Zukunft berufliche Bildung Vollzitat: ESF Plus-Richtlinie Zukunft berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19642.2
+- Datum: 2024-08-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19642.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2023
+02.08.2024
 bis
-01.08.2024
+12.03.2026
 
 ESF Plus-Richtlinie Zukunft berufliche Bildung
 
@@ -42,7 +42,7 @@ Zuwendungszweck, Rechtsgrundlagen
 
 2.
 
-Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Dezember 2021 (SächsABl. S. 1723) in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
+Es gelten die Bestimmungen der EU-Rahmenrichtlinie vom 9. Mai 2023 (SächsABl. S. 576) in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
 
 3.
 
@@ -245,7 +245,7 @@ Der Inhalt der Zusatzqualifikation darf nicht Bestandteil der jeweils geltenden 
 
 
 V.
-Art, Umfang und Höhe der Zuwendungen
+Art und Umfang, Höhe der Zuwendung
 
 1.
 
@@ -254,7 +254,7 @@ Für Vorhaben nach Ziffer II Nummer 1 Buchstabe a und b sowie Ziffer II Nummer 2
 
 a)
 
-Die Zuwendung wird als Projektförderung in Form eines Zuschusses als Anteilsfinanzierung gewährt.
+Die Zuwendung wird als Projektförderung in Form eines Zuschusses als Anteilfinanzierung gewährt.
 
 
 b)
@@ -282,7 +282,7 @@ Aufwandsentschädigung für Teilnehmende je Anwesenheitstag entsprechend den auf
 
 –
 
-Restkosten (alle übrigen förderfähigen Ausgaben und Kosten) mit einem Pauschalsatz in Höhe von 20 Prozent der direkten förderfähigen Personalkosten bei Gutachten, Studien, wissenschaftlicher Begleitung und Koordinierung und bei allen verbleibenden Vorhaben in Höhe von 30 Prozent der direkten förderfähigen Personalkosten als Pauschalfinanzierung.
+Restkosten (alle übrigen förderfähigen Ausgaben und Kosten) mit einem Pauschalsatz in Höhe von 20 Prozent der direkten förderfähigen Personalkosten bei Gutachten, Studien, wissenschaftlicher Begleitung und Koordinierung und bei allen verbleibenden Vorhaben in Höhe von 40 Prozent der direkten förderfähigen Personalkosten als Pauschalfinanzierung.
 
 
 c)
@@ -405,6 +405,7 @@ Eine fachliche Stellungnahme und Auswahl der Projektvorschläge erfolgt durch di
 –
 
 Projektvorschläge, die keine positive Auswahlentscheidung erhalten, können im weiteren Förderverfahren nicht berücksichtigt werden. Die Antragssteller werden schriftlich darüber durch die Bewilligungsstelle informiert.1
+
 
 –
 
@@ -657,7 +658,7 @@ Informationen über jede Einzelbeihilfe von über
 100 000 Euro bei Beihilfeempfängern, die in der Verarbeitung oder der Vermarktung landwirtschaftlicher Erzeugnisse oder in der Forstwirtschaft tätig sind oder Tätigkeiten ausüben, die nicht unter Artikel 42 AEUV fallen,
 
 
-werden gemäß Artikel 9 Absatz 2 Buchstabe c in Verbindung mit Anhang III der AgrarFVO auf einer ausführlichen Beihilfe-Website veröffentlicht
+werden gemäß Artikel 9 Absatz 1 Buchstabe c in Verbindung mit Anhang III der AgrarFVO auf einer ausführlichen Beihilfe-Website veröffentlicht
 
 
 c)
@@ -685,9 +686,9 @@ Fsn-Nr.: 5573-V22.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2023
+Fassung gültig ab:  2. August 2024
 
-Fassung gültig bis:  1. August 2024
+Fassung gültig bis: 12. März 2026
 
 Drucken/Speichern
 
@@ -712,7 +713,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19642.2
+https://www.revosax.sachsen.de/vorschrift/19642.3
 Stand vom
 18.11.2026
 
