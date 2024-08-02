@@ -30,7 +30,7 @@
 ##### Unterabschnitt 1 Begründung des Ausbildungsverhältnisses
 
 - [§ 10 Vertrag](0010.md)
-- [§ 11 Vertragsniederschrift](0011.md)
+- [§ 11 Vertragsabfassung](0011.md)
 - [§ 12 Nichtige Vereinbarungen](0012.md)
 
 ##### Unterabschnitt 2 Pflichten der Auszubildenden
@@ -87,6 +87,7 @@
 - [§ 40 Zusammensetzung, Berufung](0040.md)
 - [§ 41 Vorsitz, Beschlussfähigkeit, Abstimmung](0041.md)
 - [§ 42 Beschlussfassung, Bewertung der Abschlussprüfung](0042.md)
+- [§ 42a Virtuelle Teilnahme von Prüfenden](0042a.md)
 - [§ 43 Zulassung zur Abschlussprüfung](0043.md)
 - [§ 44 Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen](0044.md)
 - [§ 45 Zulassung in besonderen Fällen](0045.md)
@@ -97,7 +98,14 @@
 - [§ 50 Gleichstellung von Prüfungszeugnissen](0050.md)
 - [§ 50a Gleichwertigkeit ausländischer Berufsqualifikationen](0050a.md)
 
-#### Abschnitt 6 Interessenvertretung
+#### Abschnitt 6 Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs
+
+- [§ 50b Antragstellung und Zulassung](0050b.md)
+- [§ 50c Durchführung des Verfahrens](0050c.md)
+- [§ 50d Besondere Regelungen für Menschen mit Behinderungen](0050d.md)
+- [§ 50e Verordnungsermächtigung](0050e.md)
+
+#### Abschnitt 7 Interessenvertretung
 
 - [§ 51 Interessenvertretung](0051.md)
 - [§ 52 Verordnungsermächtigung](0052.md)
@@ -162,6 +170,8 @@
 - [§ 73 Zuständige Stellen im Bereich des öffentlichen Dienstes](0073.md)
 - [§ 74 Erweiterte Zuständigkeit](0074.md)
 - [§ 75 Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts](0075.md)
+- [§ 75a Zuständige Stellen bei mehreren betroffenen Berufsbereichen und Bereichen](0075a.md)
+- [§ 75b Zuständige Stelle bei der Feststellung nach § 1 Absatz 6](0075b.md)
 
 #### Abschnitt 2 Überwachung der Berufsbildung
 

@@ -25,7 +25,7 @@ Berufsausbildungsverhältnis
 Unterabschnitt 1
 Begründung des Ausbildungsverhältnisses
 | § 10 | Vertrag |
-| § 11 | Vertragsniederschrift |
+| § 11 | Vertragsabfassung |
 | § 12 | Nichtige Vereinbarungen |
 |  |  |
 Unterabschnitt 2
@@ -72,7 +72,7 @@ Abschnitt 4
 Verzeichnis der Berufsausbildungsverhältnisse
 | § 34 | Einrichten, Führen |
 | § 35 | Eintragen, Ändern, Löschen |
-| § 36 | Antrag |
+| § 36 | Antrag und Mitteilungspflichten |
 |  |  |
 Abschnitt 5
 Prüfungswesen
@@ -82,6 +82,7 @@ Prüfungswesen
 | § 40 | Zusammensetzung, Berufung |
 | § 41 | Vorsitz, Beschlussfähigkeit, Abstimmung |
 | § 42 | Beschlussfassung, Bewertung der Abschlussprüfung |
+| § 42a | Virtuelle Teilnahme von Prüfenden |
 | § 43 | Zulassung zur Abschlussprüfung |
 | § 44 | Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen |
 | § 45 | Zulassung in besonderen Fällen |
@@ -93,6 +94,13 @@ Prüfungswesen
 | § 50a | Gleichwertigkeit ausländischer Berufsqualifikationen |
 |  |  |
 Abschnitt 6
+Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs
+| § 50b | Antragstellung und Zulassung |
+| § 50c | Durchführung des Verfahrens |
+| § 50d | Besondere Regelungen für Menschen mit Behinderungen |
+| § 50e | Verordnungsermächtigung |
+|  |  |
+Abschnitt 7
 Interessenvertretung
 | § 51 | Interessenvertretung |
 | § 52 | Verordnungsermächtigung |
@@ -153,6 +161,8 @@ Bestimmung der zuständigen Stelle
 | § 73 | Zuständige Stellen im Bereich des öffentlichen Dienstes |
 | § 74 | Erweiterte Zuständigkeit |
 | § 75 | Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts |
+| § 75a | Zuständige Stellen bei mehreren betroffenen Berufsbereichen und Bereichen |
+| § 75b | Zuständige Stelle bei der Feststellung nach § 1 Absatz 6 |
 |  |  |
 Abschnitt 2
 Überwachung der Berufsbildung
