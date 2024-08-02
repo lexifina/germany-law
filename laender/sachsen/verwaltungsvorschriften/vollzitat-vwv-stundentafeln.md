@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.5
+- Datum: 2024-08-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2024
+02.08.2024
 bis
-01.08.2024
+31.07.2026
 
 VwV Stundentafeln
 
@@ -281,7 +281,7 @@ X.
 Deutsch als Zweitsprache
 
 
-Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15 Wochenstunden, für die Oberschulen 25 Wochenstunden und für Kollegs 32 Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der Unterricht in der Vorbereitungsklasse mit vertiefter zweiter Etappe an Oberschulen umfasst zusätzlich 10 Wochenstunden. Der Umfang des in der dritten Etappe begleitenden Unterrichts im Fach Deutsch als Zweitsprache in den in Ziffer I genannten Schulen richtet sich nach den Festlegungen in der für das jeweilige Schuljahr geltenden VwV Bedarf und Schuljahresablauf. Für Oberschulen+ und Gemeinschaftsschulen gelten die Sätze 1 bis 3 entsprechend mit der Maßgabe, dass in der Primarstufe die Regelung für Grundschulen und in der Sekundarstufe I die Regelung für Oberschulen gilt.
+Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15 Wochenstunden, für die Oberschulen und Gymnasien 25 Wochenstunden sowie für Kollegs 32 Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der Unterricht in der Vorbereitungsklasse mit vertiefter zweiter Etappe an Oberschulen umfasst zusätzlich 10 Wochenstunden. Der Umfang des in der dritten Etappe begleitenden Unterrichts im Fach Deutsch als Zweitsprache in den in Ziffer I genannten Schulen richtet sich nach den Festlegungen in der für das jeweilige Schuljahr geltenden VwV Bedarf und Schuljahresablauf. Für Oberschulen+ und Gemeinschaftsschulen gelten die Sätze 1 bis 3 entsprechend mit der Maßgabe, dass in der Primarstufe die Regelung für Grundschulen und in der Sekundarstufe I die Regelung für Oberschulen gilt.
 
 
 XI.
@@ -476,9 +476,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2024
+Fassung gültig ab:  2. August 2024
 
-Fassung gültig bis:  1. August 2024
+Fassung gültig bis: 31. Juli 2026
 
 Drucken/Speichern
 
@@ -505,7 +505,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.5
+https://www.revosax.sachsen.de/vorschrift/17744.6
 Stand vom
 18.11.2026
 
