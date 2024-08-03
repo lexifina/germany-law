@@ -576,6 +576,7 @@
 |  | § 233b | Führungsaufsicht |
 |  | § 234 | Menschenraub |
 |  | § 234a | Verschleppung |
+|  | § 234b | Verschwindenlassen von Personen |
 |  | § 235 | Entziehung Minderjähriger |
 |  | § 236 | Kinderhandel |
 |  | § 237 | Zwangsheirat |

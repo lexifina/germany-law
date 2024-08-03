@@ -565,6 +565,7 @@ persönliche Freiheit
 - [§ 233b Führungsaufsicht](0233b.md)
 - [§ 234 Menschenraub](0234.md)
 - [§ 234a Verschleppung](0234a.md)
+- [§ 234b Verschwindenlassen von Personen](0234b.md)
 - [§ 235 Entziehung Minderjähriger](0235.md)
 - [§ 236 Kinderhandel](0236.md)
 - [§ 237 Zwangsheirat](0237.md)
