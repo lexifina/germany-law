@@ -6,5 +6,6 @@
 - [§ 3 Auslagen](0003.md)
 - [§ 4 Gebührenbefreiung und -ermäßigung](0004.md)
 - [§ 5 Zeitgebühr](0005.md)
-- [§ 6 Inkrafttreten](0006.md)
+- [§ 6 Übergangsvorschrift](0006.md)
+- [§ 7 Inkrafttreten](0007.md)
 - [Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis](anlage.md)

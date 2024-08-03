@@ -11,7 +11,7 @@ Abschnitt 1 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Eur
   Unterabschnitt 8 Netzneutralität
   Unterabschnitt 9 Intra-EU-Kommunikation
   Unterabschnitt 10 Roaming
-Abschnitt 2 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
+Abschnitt 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 Abschnitt 3 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
 Abschnitt 4 Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 Abschnitt 1
@@ -109,9 +109,9 @@ Beschlusskammerentscheidungen nach TKG
 | 5.5 | Festlegung eines Standardangebots nach § 29 Absatz 4 oder nach Absatz 4 und 5 TKG | 4 500 bis 85 500 |
 | 5.6 | Verfahren nach § 34 TKG im Zusammenhang mit der Migration von herkömmlichen Infrastrukturen | 1 000 bis 14 000 |
 | 5.7 | Anordnung im Rahmen der Zugangsregulierung nach § 35 TKG | 3 500 bis 38 500 |
-| 5.8 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 1 TKG anhand der Maßstäbe des § 37 TKG | 7 000 bis 277 500 |
-| 5.9 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 2 TKG auf der Grundlage der auf die einzelnen Dienste entfallenden Kosten der effizienten Leistungsbereitstellung nach § 42 TKG | 7 000 bis 277 500 |
-| 5.10 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 3 TKG auf der Grundlage einer anderen Vorgehensweise | 5 500 bis 218 500 |
+| 5.8 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 1 TKG anhand der Maßstäbe des § 37 TKG | 7 000 bis 184 500 |
+| 5.9 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 2 TKG auf der Grundlage der auf die einzelnen Dienste entfallenden Kosten der effizienten Leistungsbereitstellung nach § 42 TKG | 7 000 bis 184 500 |
+| 5.10 | Entgeltgenehmigung nach § 39 Absatz 1 Nummer 3 TKG auf der Grundlage einer anderen Vorgehensweise | 5 500 bis 145 500 |
 | 5.11 | Entscheidungen im Verfahren der Entgeltanzeige nach § 45 TKG | 4 000 bis 45 500 |
 | 5.12 | Nachträgliche Missbrauchsprüfung von Entgelten nach § 46 TKG | 3 500 bis 40 500 |
 | 5.13 | Anordnungen im Rahmen der Entgeltregulierung nach § 47 TKG | 3 500 bis 38 500 |
@@ -149,12 +149,12 @@ Roaming
 | 10 | Maßnahme wegen eines Verstoßes gegen Verordnung (EU) 2022/612 vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union |  |
 | 10.1 | Maßnahme nach § 202 TKG wegen eines Verstoßes gegen die Verordnung (EU) 2022/612 vom 6. April 2022 über das Roaming in öffentlichen Mobilfunknetzen in der Union | 2 500 bis 32 400 |
 Abschnitt 2
-Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
+Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
-| 1 | Nachträgliche Missbrauchsprüfung des Entgelts nach § 18 Absatz 2 Satz 2 TTDSG | 500 bis 20 000 |
-| 2 | Entgeltgenehmigung nach § 18 Absatz 2 Satz 3 TTDSG | 500 bis 20 000 |
-| 3 | Maßnahme nach § 30 Absatz 2 TTDSG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TTDSG | nach Zeitaufwand |
-| 4 | Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TTDSG | nach Zeitaufwand |
+| 1 | Nachträgliche Missbrauchsprüfung des Entgelts nach § 18 Absatz 2 Satz 2 TDDDG | 500 bis 20 000 |
+| 2 | Entgeltgenehmigung nach § 18 Absatz 2 Satz 3 TDDDG | 500 bis 20 000 |
+| 3 | Maßnahme nach § 30 Absatz 2 TDDDG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TDDDG | nach Zeitaufwand |
+| 4 | Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TDDDG | nach Zeitaufwand |
 Abschnitt 3
 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
@@ -167,13 +167,17 @@ Abschnitt 4
 Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
 | 1 | Maßnahmen im Rahmen der Prüfung |  |
-| 1.1 | Durchführung einer Erstprüfung für die Klasse A im Rahmen der §§ 3 bis 7 AFuV | 71,50 |
-| 1.2 | Durchführung einer Erstprüfung für die Klasse E im Rahmen der §§ 3 bis 7 AFuV | 56,00 |
-| 1.3 | Durchführung einer Wiederholungsprüfung für Klasse A oder E im Rahmen der §§ 3 bis 7 AFuV | 46,00 |
-| 1.4 | Durchführung einer Zusatzprüfung für Inhaber der Zeugnisklasse E zum Erwerb einer Prüfungsbescheinigung oder eines Amateurfunkzeugnisses der Klasse A im Rahmen der §§ 3 bis 7 AFuV | 41,00 |
-| 1.5 | Durchführung einer Zusatzprüfung Morsen im Rahmen der §§ 3 bis 7 AFuV | 84,00 |
-| 1.6 | Ausstellung einer Amateurfunk-Prüfungsbescheinigung oder Amateurfunk-Zeugnisurkunde als Zweitschrift oder im Rahmen der Regelungen nach § 8 Absatz 1 Satz 2 AFuV | 16,00 |
-| 1.7 | Prüfen und Anerkennen einer Amateurfunk-Genehmigung anderer Verwaltungen oder einer nicht CEPT-konformen Prüfungsbescheinigung nach § 8 Absatz 2 AFuV | 35,00 |
+| 1.1 | Durchführung einer Erstprüfung für die Klasse N im Rahmen der §§ 3 bis 7 AFuV | 68,00 |
+| 1.2 | Durchführung einer Erstprüfung für die Klasse E im Rahmen der §§ 3 bis 7 AFuV | 73,50 |
+| 1.3 | Durchführung einer Erstprüfung für die Klasse A im Rahmen der §§ 3 bis 7 AFuV | 81,00 |
+| 1.4 | Durchführung einer Wiederholungsprüfung im Rahmen der §§ 3 bis 7 AFuV | 42,50 |
+| 1.4.1 | Die Gebühr erhöht sich für jeden wiederholten Prüfungsteil um | 5,50 |
+| 1.5 | Durchführung einer Zusatzprüfung zum Erwerb einer Prüfungsbescheinigung für die Amateurfunkklasse E oder A im Rahmen der §§ 3 bis 7 AFuV |  |
+| 1.5.1 | Zusatzprüfung Klasse N nach E | 48,00 |
+| 1.5.2 | Zusatzprüfung Klasse N nach A | 57,00 |
+| 1.5.3 | Zusatzprüfung Klasse E nach A | 50,50 |
+| 1.6 | Durchführung einer Zusatzprüfung Morsen im Rahmen der §§ 3 bis 7 AFuV | 84,00 |
+| 1.7 | Prüfen und Anerkennen einer Amateurfunk-Genehmigung anderer Verwaltungen oder einer nicht CEPT-konformen Prüfungsbescheinigung nach § 8 Absatz 2 AFuV | 31,50 |
 | 2 | Maßnahmen für Zulassungen und Zuteilungen |  |
 | 2.1 | Erteilung der Zulassung zur Teilnahme am Amateurfunkdienst und Zuteilung eines personengebundenen Rufzeichens nach § 9 Absatz 1 AFuV | 20,00 |
 | 2.2 | Zuteilung eines Ausbildungsrufzeichens nach § 12 Absatz 1 AFuV | 22,00 |
