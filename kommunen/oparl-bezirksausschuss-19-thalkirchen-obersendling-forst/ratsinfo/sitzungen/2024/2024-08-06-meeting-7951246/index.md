@@ -1,0 +1,81 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-08-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951246
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951246
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 04.06.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Regionalmanagement München Südwest e.V. - Bericht
+- TOP 2.4.: (A) Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kinder- und Familienzentrum Am Südpark, Caritas München Süd Kindertheaterfest 2024/25 Obersendling vom 10.12.2024 -15.06.2025 2.904,5€; Az. 0262.0-19-0525
+- TOP 3.3.: (E) Stadtbezirksbudget ergon e.V. Anschaffung eines Bosch Akku-Rasenmähers für den Sonnengarten Solln 254,25€; Az. 0262.0-19-0526
+- TOP 3.4.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Theater in der Passionskirche in München vom 01.10. -30.12.2024 4.740,00€; Az. 0262.0-19-0529
+- TOP 3.5.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. Forstenrieder Dorffest vom 07.09. -08.09.2024 4.395,00€; Az. 0262.0-19-0528
+- TOP 3.6.: (E) Stadtbezirksbudget Heimat- und Trachtenverein D&#039;Elbachtaler Solln e.V. 105 Jahre D&#039;Elbachtaler Solln am 22.09. und 13.10.2024 3.750,00€; Az. 0262.0-19-0527
+- TOP 3.7.: (A) Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024; Erfahrungen der Bezirksausschüsse
+- TOP 3.8.: (Antrag) Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Mehr Wertschätzung für den öffentlichen Raum: Änderung und Anwendung des bayerischen Bußgeldkatalogs
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Aufklärung über Brand- und Explosionsgefahren von Lithium-Ionen-Batterien und -Akkus sowie deren sachgerechte Entsorgung, Unterstützung der Kampagne: "Brennpunkt Batterie“
+- TOP 4.4.: (Antrag) Einrichtung kostenlosen halbjährlichen Abholservice für Sperrmüll
+- TOP 4.5.: (A) Mobilfunk-Suchkreismeldung M-Solln
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Thomas-Mann-Gymnasium: Schulweg sichern
+- TOP 5.1.2: Taktverdichtung auf den Buslinien 132 und 134 während der Teilsperrung der U3
+- TOP 5.1.3: Die Erledigung des BA-Antrag Nr. 20-26 / B 05412 vom 16.05.2023 „Taktverdichtung bei der Buslinie 166“ im Rahmen der (Stadtrats-)Sitzungsvorlage 20-26 / V 13837
+- TOP 5.1.4: Die Erledigung des BA-Antrag Nr. 20-26 / B 06547 vom 09.04.2024 „Bisherige Linienführung des Busses 132 erhalten“ im Rahmen der (Stadtrats-)Sitzungsvorlage 20-26 / V 13837
+- TOP 5.2.: (A) Teilstrategie Shared Mobility - Konzept für den Stadtbezirk 19
+- TOP 5.3.: (Antrag) Zebrastreifen Kreuzung Rupert-Mayer-Straße/Colmarer (bzw Tölzer) Straße
+- TOP 5.4.: Baumaßnahme Wolfratshauser Straße: Information über Zeitplan und Verkehrsplanung
+- TOP 5.5.: (Antrag) Verbesserung der Fuß- und Radunterführung Bahnhof Siemenswerke Südseite
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: -abgesetzt-
+- TOP 6.2.2: Forst-Kasten-Allee 121
+- TOP 6.2.3: Aidenbachstraße Flurnummer 287/2 (VB)
+- TOP 6.2.4: Moraltstraße Flurnummer 555/8 und 555/26-28
+- TOP 6.2.5: Stöhrstraße 6 (VB)
+- TOP 6.2.6: Kerschlacher Straße 30 (T)
+- TOP 6.2.7: Parkmeisterstraße 4
+- TOP 6.2.8: Herterichstraße Flurnummer 350/3
+- TOP 6.2.9: Forst-Kasten-Allee 125
+- TOP 6.2.10: Badstraße 16
+- TOP 6.2.11: Spitzelbergstr. 3a
+- TOP 6.2.12: Engadiner Straße 1 (T)
+- TOP 6.2.13: Wilhelm-Leibl-Str. 11
+- TOP 6.2.14: Fürstenackerstr. 9
+- TOP 6.2.15: Hanfelder Straße 36
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (E) Unterbringung der Tischtennisabteilung...
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: 68. Münchner Kanuslalom und 23. Internationaler Wildwassersprint und Classicrennen am 14., 15. und 21.09.2023
+- TOP 9: Verschiedenes
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Allgemeiner Schwerbehindertenparkplatz in der Koppstraße
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes Königswieser Straße
+- TOP 5.8.: (A) Änderung einer Verkehrsrechtlichen Anordnung: Einrichtung eines absoluten Halteverbotes vor der TG-Zufahrt zum Thomas-Mann-Gymnasium
+- TOP 8.3.: (A) Veranstaltung: Flohmarkt Christel-Küpper-Platz am 14.09.2024
+- TOP 5.9.: (Antrag) Errichtung von Kurzzeitparkplätzen Kindergarten Munckerstraße
