@@ -1,0 +1,81 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969338
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969338
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Toilettenanlage am Bahndeckel
+- TOP 6.2.2.: Bauvorhaben Gollierstraße 4
+- TOP 6.2.3.: Ausnahmegenehmigung nach Sondernutzungsrichtlinien – Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen Sitzungsvorlage Nr. 20-26 / V 13921
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Benennung Spiel- und Freizeitflächen nach Freiraum Empfehlung Nr. 20-26 / E 01947 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 18.04.2024
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: (U) Rauchverbot in Sichtweite von Kindern
+- TOP 7.3.2.: Protokoll der BA-Informationsveranstaltung im Sozialreferat am 27.06.2024
+- TOP 7.3.3.: Angebot „Nachtspaziergänge 2024“
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Sommerfest DIE LINKE auf dem Georg-Freundorfer-Platz am 31.08.2024
+- TOP 8.2.2.: Parkstraßenfest am 07.09.2024
+- TOP 8.2.3.: Oldtimer-Schau Am Bavariapark am 08.09.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Fahrradreparaturworkshops beim Projekt Umlenken ab 19.07.2024
+- TOP 8.3.2.: Versammlung Parkstraße / Gollierstraße am 25.07.2024
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Ganghoferstraße 15
+- TOP 9.2.2.: Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums Sitzungsvorlagen Nr. 20-26 / V 11904
+- TOP 9.2.3.: Baumfällung Ligsalzstr. 34
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Präsentation der Informationsveranstaltung "Neues Verfahren zum Aufbau von Ladeinfrastruktur" vom 10.07.2024
+- TOP 9.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.3.: Umgestaltung Fäustlestraße
+- TOP 9.3.4.: Einladung zur Fachtagung Spielstraßen am 27.09.2024
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: Budgetantrag Green City e.V.; Durchführung und Weiterentwicklung des Gemeinschaftsgartens MK2
+- TOP 10.2: Anhörungen
+- TOP 10.2.1.: Evaluierung Stadtbezirksbudget 2021-2024
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Budgetantrag Midnightbazar UG Alte Westend Apotheke; Verschiebung Projektzeitraum
+- TOP 11: Anträge
+- TOP 11.1.: Grün statt grau: Überdimensionierte Asphaltierungen auf der der Theresienwiese rückgängig machen und dauerhaft Flächen entsiegeln
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Informationsschreiben – Anhörungsrechte der Bezirksausschüsse
+- TOP 12.3.2.: Reservierung Ratsboxe Oktoberfest 2024 am 03.10.2024, 12:00 Uhr
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 9.3.5.: Überfahrtschwellen zur Verringerung der Fahrtgeschwindigkeit in der Schnaderböckstraße
+- TOP 4.1.: Lärmbeschwerde Kulturfestival Georg-Freundorfer-Platz
+- TOP 9.1.1.: (E) Neugestaltung der Schnaderböckstraße
+- TOP 10.1.2.: (E) Stadtbezirksbudget FabLab München e.V. MINT-hands-on für Grund-, Mittel- und RealschülerInnen -Schwanthalerhöhe vom 16.09.2024 -31.03.2025 11.204,14€; Az. 0262.0-8-0410
+- TOP 9.3.6.: Ausstattung der Bushaltestelle an der Westseite der Trappentreustraße / Kazmairstraße (Linie 53) mit einer Wartehalle oder zumindest mit einer Sitzgelegenheiten
+- TOP 9.3.7.: Querungsmöglichkeit für Radfahrer*innen über die Theresienwiese während des Oktoberfestaufbaus
+- TOP 12.3.3.: Benennung von Straßen und Plätzen; Empfehlung Nr. 20-26 / E 01970 vom 18.04.2024 Sitzungsvorlagen Nr. 20-26 / V 13980
+- TOP 8.2.4.: Open Air Party / Pineapple Express auf der Fläche Am Bavariapark am 24.08.2024
