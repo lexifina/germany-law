@@ -1,0 +1,127 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8222607
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8222607
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Stand der Dinge: Gestaltung der Fassade des Heizkraftwerks Theresienstraße 36
+- TOP 6.2.: Antrag auf Grüne Welle für den Fahrradverkehr in der Gabelsbergerstraße
+- TOP 6.3.: Anbringen eines Blinklichts „Achtung Radverkehr“ an der Kreuzung Schelling-/Ludwigstr.
+- TOP 6.4.: Keine Zufahrtszonen für Elterntaxis an Schulen und KITAS
+- TOP 6.5.: Nachfrage zum Antrag „Grüner Pfeil für Radfahrer“ vom Dezember 2023
+- TOP 6.6.: Transparente und gemeinwohlorientierte Entwicklung des Funkhaus Areals voranbringen – Verkauf stoppen!
+- TOP 6.7.: Spielplatz am Alten Nordfriedhof-Schach
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM-Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste der LBK KW 26-27
+- TOP 2.1.2.: WEB-Listen der LBK: KW 25-26
+- TOP 2.1.3.: Kaulbachstr. 47, Neubau einer Mitwohnanlage mit Tiefgarage für 45 Wohneinheiten und freie Berufe – VORBESCHEID
+- TOP 2.1.4.: Augustenstr. 16, Antrag auf Nutzugsänderung Vordergebäude Laden Erdgeschoss rechts in eine Gaststätte
+- TOP 2.1.5.: Königinstraße 11: Ablehnung der Umwandlung von Wohnen in Verwaltung – es bleibt bei der bisherigen Ablehnung-ohne Unterlagen
+- TOP 2.1.6.: Karlstraße 43 – Genehmigungsverlängerung wird abgelehnt, da Mietwohnraum geschaffen werden soll-ohne Unterlagen
+- TOP 2.1.7.: Von – der Tann – Straße 14: Abbruch Wintergarten-ohne Unterlagen
+- TOP 2.1.8.: Ottostraße 3 – Umbau Laden in Gaststätte-ohne Unterlagen
+- TOP 2.1.9.: Sandstraße 37 – Errichtung 2. Rettungsweg-ohne Unterlagen
+- TOP 2.1.10.: Nymphenburger Str. 48 – Flüchtlingsunterkunft Sicherheitsänderungen-ohne Unterlagen
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Baumaßnahmen der SWM
+- TOP 5.2.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 5.3.: (U) Erste Programmanpassung von "Wohnen in München VII" Anpassung der Erstvermietungsmieten und der Grundstückswerte für den geförderten Wohnungsbau Verlängerung des KMB Teuerungsausgleichs
+- TOP 5.4.: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 5.5.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Grundsatzbeschluss 1. Ursachen des Instandsetzungsbedarfes 2. Bauwerkserhaltungsprogramm Brücken mit Maßnahmenpaketen
+- TOP 5.6.: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Täglicher Stau, Hupen und Abgasbelastung an der Gabelsbergerstraße zwischen Türkenstraße und Barerstraße
+- TOP 1.1.2.: Fehlende Mülltonnen Barerstr. 2
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) Verbesserung der Parksituation in Kardinal-Döpfner-Straße und Finkenstraße
+- TOP 2.1.2.: Seidlstraße Zeichen 209 StVO entfernen
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: (E) Lärmbelästigung durch Gaststätten und Straßenpartys
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstraße 32, Bar, Neuantrag Schanigarten
+- TOP 2.3.2.: Gabelsberger Str. 22, Antrag FSF
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Erhöhung PAX | Anhörung | Bez. 1 und 3 - „Bauernmarktmeile“ am 08.09.2024 auf dem Odeonsplatz und in der Ludwigstraße | Frist: 14.08.2024
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Unveränderte Gaststättenfortführungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: 2. Stammstrecke München - Station Ostbahnhof 1. Realisierung und Finanzierung eines zusätzlichen barrierefreien Zugangsbauwerkes im Bereich Friedenstraße 2. Anträge und Empfehlung
+- TOP 3.6.: Information - Maßmannpark Baubeginn
+- TOP 3.7.: Verkehrsregelungen in der Linprunstraße zwischen Sandstraße und Erzgießereistraße; Orts-termin 05.07.2024- Zustimmung zum Protokoll per Eilentscheid
+- TOP 3.8.: Wiederherstellung der Einbahnregelung und Anwohner-Parkmöglichkeit in der Linprunstraße zwischen Erzgießereistraße und Sandstraße
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Handballcampus München gGmbH Kinder in der Grundschule für Bewegung begeistern vom 10.09.2024 - 31.07.2025 9.900,00 Euro, Az.: 0262.0-3-0541
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Schul- und Kitabauoffensive - Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Stiftung Kulturator Die Lückenfüller X MoveMunich vom 28.06. - 31.08.2024 3.700,00 Euro, Az.: 0262.0-3-0538
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Oktoberfest 2024 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.1.11.: Arnulfstr. 52, Errichtung einer bewirtschafteten Holzhütte für den Winterbetrieb (Biergartenausgabe befristet bis 2034, 96 Gastplätze) - Aufbau und Nutzung jährlich saisonal von 01.11. - 15.03.
+- TOP 2.1.12.: Rambergstr. 2, Änderung Mansardenknick, Änderung OKF 1. Und 2. DG, Änderung Dachform Gauben, Änderung Ladestation für E-Fahrzeuge zu einem dritten KFZ-Stellplatz
+- TOP 2.1.13.: Rottmannstr.24, Erweiterung einer Freischankfläche
+- TOP 2.2.2.: Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen
+- TOP 2.3.3.: entfällt
+- TOP 2.4.2.: Bez. 3 , Geschwister-Scholl-Pl. | Anhörung für LMU Erstsemesterbegrüßung 2024 am 14.10.24 | Frist: 29.08.24
+- TOP 1.1.3.: E-Scooter in der Maxvorstadt
+- TOP 1.1.4.: Alter Botanischer Garten München
+- TOP 2.4.3.: Anhörung VA öffentlicher Verkehrsgrund (Stadtbezirke 1,3,12); Zamanand / Corso Leopold am 14./15.09.24 (Aufbau in Fußgängerbereichen ab 13.09.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 05.09.24
+- TOP 2.1.14.: Bauliste der LBK KW 28-30
+- TOP 1.1.5.: Fehlende Sitzgelegenheit an Trambahnhaltestelle Hochschule München/Lothstrasse stadtauswärts
+- TOP 1.2.1.: Antrag SPD vom 03.08.2024 Eröffnung der und Einweisung in die neuen Sportmöglichkeiten im Maßmannpark
