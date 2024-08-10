@@ -205,9 +205,9 @@ Die Einstufung eines L3e-Fahrzeugs als Unterklasse je nachdem, ob seine bauartbe
 Abschnitt 3
 Land- oder forstwirtschaftliche Zugmaschinen,
 Anhänger und gezogene auswechselbare Geräte
-| 1 | Klasse T: | alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
-|  |  | a) | a für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
-|  |  | b) | b für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+| 1 | Klasse T: | alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt: |
+|  |  | a) | „a” für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | „b” für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
 |  | Klasse T1: | Zugmaschinen auf Rädern mit einer Spurweite der dem Fahrer am nächsten liegenden Achse von mindestens 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 1 000 mm. |
 |  | Klasse T2: | Zugmaschinen auf Rädern mit einer Mindestspurweite von weniger als 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg, einer Bodenfreiheit bis 600 mm; wenn der Quotient aus der Höhe des Schwerpunkts der Zugmaschine über dem Boden und der mittleren Mindestspurweite der Achsen mehr als 0,90 beträgt, ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt. |
 |  | Klasse T3: | Zugmaschinen auf Rädern mit einer Leermasse in fahrbereitem Zustand bis 600 kg. |
@@ -216,17 +216,17 @@ Anhänger und gezogene auswechselbare Geräte
 |  | Klasse T4.2: | (überbreite Zugmaschinen):Zugmaschinen, die durch ihre großen Abmessungen gekennzeichnet und speziell zur Bearbeitung großer landwirtschaftlicher Flächen bestimmt sind. |
 |  | Klasse T4.3: | (Zugmaschinen mit geringer Bodenfreiheit):Zugmaschinen mit Vierradantrieb, deren auswechselbare Geräte für den Einsatz in der Land- und Forstwirtschaft bestimmt sind, mit einem Tragrahmen, einer oder mehreren Zapfwellen, einer technisch zulässigen Masse von höchstens 10 t und einem Verhältnis technisch zulässige Masse/maximale Leermasse in fahrbereitem Zustand unter 2,5 sowie mit einem Schwerpunkt (bei normaler Bereifung) von weniger als 850 mm über dem Boden. |
 | 2 | Klasse C: | Zugmaschinen auf Gleisketten, die über die Gleisketten oder über eine Kombination von Rädern und Gleisketten angetrieben werden (Definition der Unterklassen analog zu der Klasse T). |
-| 3 | Klasse R: | Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
-|  |  | a) | a für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
-|  |  | b) | b für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+| 3 | Klasse R: | Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt: |
+|  |  | a) | „a” für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | „b” für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
 |  | Klasse R1: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 1 500 kg beträgt. |
 |  | Klasse R2: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 1 500 kg und bis zu 3 500 kg beträgt. |
 |  | Klasse R3: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg beträgt. |
 |  | Klasse R4: | Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 21 000 kg beträgt. |
 | 4 | Klasse S: | gezogene auswechselbare Geräte. |
-|  |  | Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt: |
-|  |  | a) | a für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
-|  |  | b) | b für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+|  |  | Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index „a” oder „b” hinzugefügt: |
+|  |  | a) | „a” für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h, |
+|  |  | b) | „b” für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
 |  | Klasse S1: | gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt. |
 |  | Klasse S2: | gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse über 3 500 kg beträgt. |
 |  |  | Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001 und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden. |
