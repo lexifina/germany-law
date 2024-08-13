@@ -1,0 +1,15 @@
+# Sitzung des Ortsbeirates Dellhofen der Stadt Oberwesel
+
+- Körperschaft: Stadt Oberwesel
+- Beginn: 2024-08-13T18:30:00+02:00
+- Ende: 2024-08-13T00:00:00+02:00
+- Ort: Oberwesel-Dellhofen, Rheinhöhenhalle, Schulweg 18, 55430 Oberwesel-Dellhofen
+- Status: eingeladen
+- Gremium: https://emmelshausen.gremien.info/oparl/organization/Obe_OBD
+- Ratsinformationssystem: https://emmelshausen.gremien.info/oparl/meeting/2024-Obe_OBD-9
+- OParl: https://emmelshausen.gremien.info/oparl/meeting/2024-Obe_OBD-9
+- Quelle: https://emmelshausen.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://emmelshausen.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=2024-Obe_OBD-9
+
+## Tagesordnung
+
