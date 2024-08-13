@@ -1,0 +1,122 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8029272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8029272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Landrichterstr. 16
+- TOP 3.10.2.: Winlandstr. 24
+- TOP 3.10.3.: Fasangartenstr. 116
+- TOP 3.10.4.: Balanstr. 332 - 334
+- TOP 3.10.5.: Marklandstr. 33 (Fällungsbescheid liegt bereits vor)
+- TOP 3.10.6.: Tirschenreuther Str. 20
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur/Vereine/Initiativen/Sport) Ensemble la Vie e.V. Hier verweile ich gern -mein Lieblingsort in Giesing vom 20.08. -30.11.2024 6.000,00€; Az. 0262.0-17-0459
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Familie/Soziales/Ausbildung) Sozialstation Berg am Laim und Trudering gGmbH Bei jedem Wetter und trotz Behinderungen unterwegs ab Mitte September 2024 1.000,00€; Az. 0262.0-17-0457
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Familie/Soziales/Ausbildung) Evangelisches Hilfswerk gGmbH Sommerfest Teestube "komm" am 09.08.2024 157,54€; Az. 0262.0-17-0461
+- TOP 5.1.4.: (E) Stadtbezirksbudget (FF UA Kultur/Vereine/Initiativen/Sport) Frauenakademie München e.V. Feminismen der Zukunft -Wir feiern 40 Jahre Frauenakademie München (FAM) e.V. am 12.09.2024 1.500,00€; Az. 0262.0-17-0462
+- TOP 5.1.5.: (E) Stadtbezirksbudget (FF UA Kultur) Freunde Giesings e.V. Sommer im Park am 28.06.2024 7.750,96€; Az. 0262.0-17-0463
+- TOP 5.1.6.: (E) Stadtbezirksbudget (FF MuV) HealthForFuture / KLUG e.V. Ein Parklet für Giesing vom 17.06. -22.10.2024 1.060,00€; Az. 0262.0-17-0448
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Fasangartenstr. 98b - Erweiterung EFH (DHH) - VORBESCHEID
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Ausnahmegenehmigung nach Sondernutzungsrichtlinien Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen Sitzungsvorlage Nr. 20-26_V 13921 (Frist bis zum 06.09.2024)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung auf öffentlichen Grund - verschiedene Veranstaltungsorte in Giesing hier: Ois Giasing - 07.09.2024
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Antrag einer Freischankfläche: Ristorante Pizziamo, Tegernseer Landstraße 27
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: evtl. Nachtrag TOP 6.5.3.2 Veranstaltung auf öffentlichen Grund hier: Weißenseepark am 06.09.2024 POP UP STAGE (Frist bis 20.08.2024)
+- TOP 6.5.3.2.: Veranstaltung auf öffentlichen Grund hier: Weißenseepark am 06.09.2024 POP UP STAGE (Frist bis 20.08.2024)
+- TOP 1.2.2.: evtl. Nachtrag zu TOP 6.5.3.3 Antrag auf Marktfestsetzung hier: Ois Giasing am 07.09.2024/ Alpenplatz (Frist bis 23.08.2024)
+- TOP 6.5.3.3.: Antrag auf Marktfestsetzung hier: Ois Giasing am 07.09.2024/ Alpenplatz (Frist bis 23.08.2024)
