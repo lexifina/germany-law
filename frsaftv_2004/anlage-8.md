@@ -9,4 +9,4 @@ Teil B: Energydrinks
 | Stoff | Höchstmenge im verzehrfertigen Lebensmittel [mg/l] |
 | Taurin | 4 000 |
 | Inosit | 200 |
-| Glucuronolacton | 2 400. |
+| Glucuronolacton | 2 400 |

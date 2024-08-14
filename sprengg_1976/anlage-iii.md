@@ -36,4 +36,4 @@
   | Treibladungshülsen, verbrennlich, leer, ohne Treibladungsanzünder | 0446, 0447 |
   | Zünder, sprengkräftig | 0106, 0107, 0257, 0367 |
   | Zünder, sprengkräftig, mit Sicherungsvorrichtungen | 0408, 0409, 0410 |
-  | sonstige sprengkräftige Kriegswaffen nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung. |  |
+  | sonstige sprengkräftige Kriegswaffen nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung |  |
