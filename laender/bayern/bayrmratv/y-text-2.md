@@ -1,0 +1,2 @@
+– des Art. 6 Abs. 2 Satz 3 des Bayerischen Rundfunkgesetzes (BayRG) in der Fassung der Bekanntmachung vom 22. Oktober 2003 (GVBl. S. 792, BayRS 2251-1-S), das zuletzt durch § 1 des Gesetzes vom 20. Dezember 2016 (GVBl. S. 427) geändert worden ist, und
+– des Art. 13 Abs. 2 Satz 2 des Bayerischen Mediengesetzes (BayMG) in der Fassung der Bekanntmachung vom 22. Oktober 2003 (GVBl. S. 799, BayRS 2251-4-S/W), das zuletzt durch § 2 des Gesetzes vom 20. Dezember 2016 (GVBl. S. 427) geändert worden ist,
