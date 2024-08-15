@@ -1,0 +1,1 @@
+Auf Grund von § 43 Abs. 8 Sätze 1, 4 und 5 des Gesetzes über Naturschutz und Landschaftspflege (Bundesnaturschutzgesetz – BNatSchG) vom 25. März 2002 (BGBl I S. 1193), zuletzt geändert durch Art. 2 des Gesetzes vom 8. April 2008 (BGBl I S. 686), erlässt die Bayerische Staatsregierung folgende Verordnung:
