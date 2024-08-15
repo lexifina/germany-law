@@ -1355,7 +1355,7 @@ bisherigen Nutzung](0590.md)
 - [§ 683 Ersatz von Aufwendungen](0683.md)
 - [§ 684 Herausgabe der Bereicherung](0684.md)
 - [§ 685 Schenkungsabsicht](0685.md)
-- [§ 686 Irrtum über Person des Geschäftsherrn](0686.md)
+- [§ 686 Irrtum über die Person des Geschäftsherrn](0686.md)
 - [§ 687 Unechte Geschäftsführung](0687.md)
 
 #### Titel 14 Verwahrung
