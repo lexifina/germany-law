@@ -1,4 +1,4 @@
 # Sächsisches Beamtengesetz (SächsBG)
 erlassen als Artikel 1 des Gesetzes zur Neuordnung des Dienst-, Besoldungs- und Versorgungsrechts im Freistaat Sachsen (Sächsisches Dienstrechtsneuordnungsgesetz)
 Vom 18. Dezember 2013
-Rechtsbereinigt mit Stand vom 1. Mai 2024
+Rechtsbereinigt mit Stand vom 17. August 2024
