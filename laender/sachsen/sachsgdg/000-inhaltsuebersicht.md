@@ -1,22 +1,26 @@
+## Gesetz über den öffentlichen Gesundheitsdienst im Freistaat Sachsen (Sächsisches Gesundheitsdienstgesetz – SächsGDG)
 # Inhaltsübersicht
-Abschnitt I Allgemeine Vorschriften
-§ 1 Öffentlicher Gesundheitsdienst
-§ 2 Behörden des öffentlichen Gesundheitsdienstes
-§ 2a Amtsarztkurs
-§ 3 Landesuntersuchungsanstalt
-§ 4 Kommunale Behörden des öffentlichen Gesundheitsdienstes
-§ 5 Gutachten, Zeugnisse, Bescheinigungen
-§ 6 Verwertungsverbot, Geheimhaltungspflichten
-§ 7 Zusammenwirken
-Abschnitt II Aufgaben und Befugnisse des öffentlichen Gesundheitsdienstes
-§ 8 Überwachungsaufgaben
-§ 9 Befugnisse
-§ 10 Anzeigepflicht, Berufsaufsicht
-§ 10a Gesundheitsfachberufe
-§ 11 Gesundheitliche Aufklärung und Beratung
-§ 12 Gerichts- und vollzugsärztlicher Dienst
-Abschnitt III Übergangs- und Schlußvorschriften
-§ 13 Kosten und Benutzungsgebühren
-§ 14 Ordnungswidrigkeiten
-§ 15 Übergangsregelung
-§ 16 Inkrafttreten
+Abschnitt 1 Allgemeine Vorschriften
+§ 1 Ziel und Aufgaben des öffentlichen Gesundheitsdienstes
+§ 2 Behördenstruktur, Zuständigkeiten, fachliche Eignung
+§ 3 Amtsarztkurs
+§ 4 Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen
+§ 5 Kommunale Behörden des öffentlichen Gesundheitsdienstes
+§ 6 Gutachten, Zeugnisse, Bescheinigungen
+§ 7 Verwertungsverbot, Geheimhaltungspflichten
+§ 8 Zusammenwirken
+Abschnitt 2 Aufgaben und Befugnisse des öffentlichen Gesundheitsdienstes
+§ 9 Hygieneüberwachung, Infektionsschutz
+§ 10 Lebensmittelüberwachung und Veterinärwesen
+§ 11 Befugnisse
+§ 12 Apothekenüberwachung
+§ 13 Umweltbezogener Gesundheitsschutz
+§ 14 Anzeigepflicht, Berufsaufsicht
+§ 15 Gesundheitsfachberufe
+§ 16 Ärztliche und zahnärztliche Untersuchungen, Gesundheitsberichterstattung
+§ 17 Gesundheitsförderung, Prävention, weitere Dienste
+§ 18 Gerichts- und vollzugsärztlicher Dienst
+§ 19 Datenschutz
+Abschnitt 3 Schlussvorschriften
+§ 20 Kosten
+§ 21 Ordnungswidrigkeiten
