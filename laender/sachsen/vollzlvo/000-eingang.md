@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz über die Anordnung von Vollzugslockerungen im Maßregelvollzug (Vollzugslockerungsverordnung – VollzLVO)
 Vom 27. Januar 2016
+Rechtsbereinigt mit Stand vom 17. August 2024
 Auf Grund des § 42 Absatz 1 des Sächsischen Gesetzes über die Hilfen und die Unterbringung bei psychischen Krankheiten in der Fassung der Bekanntmachung vom 10. Oktober 2007 (SächsGVBl. S. 422), das durch Artikel 1 des Gesetzes vom 7. August 2014 (SächsGVBl. S. 446) geändert worden ist, verordnet das Staatsministerium für Soziales und Verbraucherschutz im Einvernehmen mit dem Staatsministerium des Innern und dem Staatsministerium der Justiz:
