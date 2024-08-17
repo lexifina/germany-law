@@ -1,0 +1,2 @@
+# § 12f Elektronische Zulassung von Abweichungen, Ausnahmen und Befreiungen
+Abweichend von § 70 Absatz 2 der Sächsischen Bauordnung kann die Unterschrift der Nachbarin oder des Nachbarn auf den Lageplänen und Bauzeichnungen sowie ihre oder seine schriftliche Zustimmung zur Erteilung von Abweichungen und Befreiungen als elektronisches Abbild des unterschriebenen Originals eingereicht werden. Die Bauaufsichtsbehörde kann die Vorlage des unterschriebenen Originals verlangen.

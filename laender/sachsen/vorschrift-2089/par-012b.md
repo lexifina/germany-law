@@ -1,0 +1,8 @@
+# § 12b Nutzerkonto
+(1) Wer elektronische Verwaltungsleistungen nach § 12a Absatz 1 in Anspruch nehmen will, muss ein Nutzerkonto nach § 2 Absatz 5 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138), das zuletzt durch Artikel 16 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250; 2023 I Nr. 230) geändert worden ist, in der jeweils geltenden Fassung, beim Bundesportal im Internet unter der Adresse „https:\id.bund.de“ einrichten.
+(2) Die Identifizierung beim Einrichten des Nutzerkontos hat mindestens das Sicherheitsniveau „substantiell“ nach Artikel 8 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73, L 23 vom 29.1.2015, S. 19, L 155 vom 14.6.2016, S. 44), in der jeweils geltenden Fassung, zu erfüllen. Sie kann erfolgen durch:
+1. den elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes,
+2. den elektronischen Identitätsnachweis nach § 12 des eID-Karte-Gesetzes vom 21. Juni 2019 (BGBl. I S. 846), das durch Artikel 3 des Gesetzes vom 5. Juli 2021 (BGBl. I S. 2281) geändert worden ist, in der jeweils geltenden Fassung,
+3. den elektronischen Identitätsnachweis nach § 78 Absatz 5 des Aufenthaltsgesetzes,
+4. den elektronischen Identitätsnachweis eines Mitgliedstaates der Europäischen Union oder eines diesen durch Abkommen gleichgestellten Staates oder
+5. durch ein ELSTER-Zertifikat, das von der Finanzverwaltung bei der Registrierung im Dienstleistungsportal der Finanzverwaltung nach § 87a Absatz 6 Satz 1 der Abgabenordnung erteilt wurde.

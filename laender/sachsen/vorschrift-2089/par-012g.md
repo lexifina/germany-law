@@ -1,0 +1,3 @@
+# § 12g Formerfordernisse für Behörden, Bekanntgabe von Verwaltungsakten
+(1) Für eine durch Rechtsvorschrift angeordnete Schriftform bei elektronischen Verwaltungsakten in Verfahren nach § 12a Absatz 1 gilt § 1 Satz 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen in Verbindung mit § 3a Absatz 3 Nummer 3 des Verwaltungsverfahrensgesetzes.
+(2) Für die Bekanntgabe von Verwaltungsakten in Verfahren nach § 12a Absatz 1 gilt § 2a des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen.
