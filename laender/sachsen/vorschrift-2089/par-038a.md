@@ -1,9 +1,9 @@
 # § 38a Beurteilung von Baugrundgutachten
-(1) Der Bewerber hat dem Beirat (§ 37 Absatz 1 Satz 2) ein Verzeichnis aller innerhalb eines Zeitraums von zwei Jahren vor Antragstellung erstellten Baugrundgutachten vorzulegen. Aus dem Verzeichnis müssen mindestens zehn Gutachten die Bewältigung überdurchschnittlicher Aufgaben darlegen; zwei von diesen zehn Gutachten sind gesondert vorzulegen. Die Gutachten nach Satz 2 Halbsatz 1 müssen folgende erd- und grundbauspezifischen Themen behandeln:
+(1) Die Bewerberin oder der Bewerber hat dem Beirat (§ 37 Absatz 1 Satz 2) ein Verzeichnis aller innerhalb eines Zeitraums von zwei Jahren vor Antragstellung erstellten Baugrundgutachten vorzulegen. Aus dem Verzeichnis müssen mindestens zehn Gutachten die Bewältigung überdurchschnittlicher Aufgaben darlegen; zwei von diesen zehn Gutachten sind gesondert vorzulegen. Die Gutachten nach Satz 2 Halbsatz 1 müssen folgende erd- und grundbauspezifischen Themen behandeln:
 1. Baugrundverformungen und ihre Wirkung auf bauliche Anlagen (Boden-Bauwerk-Wechselwirkung),
 2. Sicherheit der Gründung der baulichen Anlage,
 3. boden- und felsmechanische Annahmen zum Tragverhalten und zum Berechnungsmodell,
 4. boden- und felsmechanische Kenngrößen.
 Die Gutachten nach Satz 2 Halbsatz 1 sollen im Falle von Gründungsvorschlägen die Einsatzbereiche mit den erforderlichen Randbedingungen festlegen.
-(2) Der Beirat beurteilt das Verzeichnis und die beiden vorgelegten Gutachten nach Absatz 1 im Hinblick auf die Eignung des Bewerbers. Ein Bewerber, der bereits danach die Anforderungen des § 37 Absatz 1 Satz 1 Nummer 3 nicht erfüllt, wird nicht zum schriftlichen Kenntnisnachweis zugelassen.
-(3) Wiederholt der Bewerber den schriftlichen Kenntnisnachweis, ist eine erneute Vorlage des Verzeichnisses und der Gutachten nach Absatz 1 und der Beurteilung nach Absatz 2 nur erforderlich, wenn seit der letzten Beurteilung mehr als fünf Jahre vergangen sind.
+(2) Der Beirat beurteilt das Verzeichnis und die beiden vorgelegten Gutachten nach Absatz 1 im Hinblick auf die Eignung der Bewerberin oder des Bewerbers. Eine Bewerberin oder ein Bewerber, die oder der bereits danach die Anforderungen des § 37 Absatz 1 Satz 1 Nummer 3 nicht erfüllt, wird nicht zum schriftlichen Kenntnisnachweis zugelassen.
+(3) Wiederholt die Bewerberin oder der Bewerber den schriftlichen Kenntnisnachweis, ist eine erneute Vorlage des Verzeichnisses und der Gutachten nach Absatz 1 und der Beurteilung nach Absatz 2 nur erforderlich, wenn seit der letzten Beurteilung mehr als fünf Jahre vergangen sind.

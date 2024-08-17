@@ -1,5 +1,5 @@
 # § 35a Fachgutachten
-(1) Das Fachgutachten dient der Feststellung, ob der Bewerber die für einen Prüfsachverständigen erforderliche besondere Sachkunde in der beantragten Fachrichtung besitzt und anwenden kann. Der Nachweis der besonderen Sachkunde besteht aus einem schriftlichen und einem mündlich-praktischen Teil.
+(1) Das Fachgutachten dient der Feststellung, ob die Bewerberin oder der Bewerber die für einen Prüfsachverständigen erforderliche besondere Sachkunde in der beantragten Fachrichtung besitzt und anwenden kann. Der Nachweis der besonderen Sachkunde besteht aus einem schriftlichen und einem mündlich-praktischen Teil.
 (2) Nachzuweisen sind
 1. umfassende Kenntnisse auf dem Gebiet der beantragten Fachrichtung hinsichtlich
 a)

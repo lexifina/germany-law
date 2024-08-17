@@ -1,5 +1,5 @@
 # § 38b Schriftlicher Kenntnisnachweis
-(1) Der Bewerber hat schriftlich vertiefte Kenntnisse nachzuweisen bei der
+(1) Die Bewerberin oder der Bewerber hat schriftlich vertiefte Kenntnisse nachzuweisen bei der
 1. Bewältigung überdurchschnittlich schwieriger geotechnischer Aufgaben, insbesondere bei Baumaßnahmen der Geotechnischen Kategorie 3,
 2. Erfassung der Wechselwirkung von Baugrund und baulicher Anlage durch geeignete Berechnungsverfahren,
 3. Ableitung und Beurteilung von Angaben zur Sicherheit der Gründung baulicher Anlagen,
