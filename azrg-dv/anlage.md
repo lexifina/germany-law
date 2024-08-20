@@ -815,7 +815,7 @@ Allgemeiner Datenbestand
 |  |
 | § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 |  |  |  | § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes |
 | Aufenthaltsrechte nach dem FreizügG/EU |  |  |  |  |
-| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürgererteilt am | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
+| Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürgerausgestellt amgültig bis | (3) | – wie vorstehend – | – wie vorstehend – | –nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen |
 * In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 | A | A1*) | B**) | C | D |
 | 13 | Perso- nen- kreis | Zeitpunkt der Über- mittlung | Übermittlung durch folgende öffentliche Stellen (§ 6 des AZR-Gesetzes) | Übermittlung/Weitergabe an folgende Stellen |
