@@ -12,12 +12,11 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
   1. In Abschnitt 3.3.6 werden in Bild 3.2 die Wörter „oberhalb der Kurve Anforderungen P = Pn” durch die Wörter „oberhalb der Kurve Anforderungen P = Pvb” ersetzt.
   2. Abschnitt 3.3.7.1 ist nicht anzuwenden.
   3. Vor dem Abschnitt 3.3.8.1 werden folgende Absätze eingefügt:
-    (1)
-    Die Blindleistung bezieht sich auf die Mitsystemkomponente der Strom-/Spannungs-Grundschwingung gemäß IEC 61400-21 Ed. 2 Annex C.
+    „(1) Die Blindleistung bezieht sich auf die Mitsystemkomponente der Strom-/Spannungs-Grundschwingung gemäß IEC 61400-21 Ed. 2 Annex C.
     (2)
-    Die Anforderung an die netzseitige Blindleistungsbereitstellung entspricht einer langsamen Blindleistungsregelung im Minutenbereich.
+    Die Anforderung an die netzseitige Blindleistungsbereitstellung entspricht einer langsamen Blindleistungsregelung im Minutenbereich.“
   4. Abschnitt 3.3.8.1 wird wie folgt gefasst:
-    3.3.8.1. Blindleistungsbereitstellung bei Nennwirkleistung
+    „3.3.8.1. Blindleistungsbereitstellung bei Nennwirkleistung
     (1)
     Jede anzuschließende neue Windenergie-Erzeugungsanlage muss im Nennbetriebspunkt (Pmom = Pbb inst ) die Anforderungen am Netzverknüpfungspunkt nach einer Variante von Bild 3.3 (3.3a, 3.3b oder 3.3c) erfüllen.
     (2)
@@ -27,8 +26,9 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
     Bild 3.3a: Mindestanforderung an die netzseitige Blindleistungsbereitstellung von Windenergie-Erzeugungsanlagen für das Netz (Variante 1)
     Bild 3.3b: Mindestanforderung an die netzseitige Blindleistungsbereitstellung von Windenergie-Erzeugungsanlagen für das Netz (Variante 2)
     Bild 3.3c: Mindestanforderung an die netzseitige Blindleistungsbereitstellung von Windenergie-Erzeugungsanlagen für das Netz (Variante 3)
+    “
   5. Abschnitt 3.3.8.2 wird wie folgt gefasst:
-    Abschnitt 3.3.8.2. Blindleistungsbereitstellung im Teillastbetrieb
+    „Abschnitt 3.3.8.2. Blindleistungsbereitstellung im Teillastbetrieb
     (1)
     Neben den Anforderungen für die Blindleistungsbereitstellung im Nennbetriebspunkt der Windenergie-Erzeugungsanlage (Pmom = Pbb inst ) bestehen auch Anforderungen an den Betrieb mit einer Momentanen Wirkleistung Pmom, die kleiner als die Betriebsbereite installierte Wirkleistung Pbb inst (Pvb < Pbb inst) ist.
     (2)
@@ -38,10 +38,11 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
     Bild 3.3d: PQ-Diagramm der Windenergie-Erzeugungsanlage am Netzverknüpfungspunkt im Verbraucherzählpfeilsystem (VZS) für Bild 3.3a (Variante 1)
     Bild 3.3e: PQ-Diagramm der Windenergie-Erzeugungsanlage am Netzverknüpfungspunkt im Verbraucherzählpfeilsystem (VZS) für Bild 3.3b (Variante 2)
     Bild 3.3f: PQ-Diagramm der Windenergie-Erzeugungsanlage am Netzverknüpfungspunkt im Verbraucherzählpfeilsystem (VZS) für Bild 3.3c (Variante 3)
+    “
   6. Abschnitt 3.3.9 wird wie folgt gefasst:
-    3.3.9 Überspannungskonzept der Maschinentransformatoren
+    „3.3.9 Überspannungskonzept der Maschinentransformatoren
     (1)
-    Das Überspannungskonzept des Maschinentransformators ist mit dem Übertragungsnetzbetreiber abzustimmen.
+    Das Überspannungskonzept des Maschinentransformators ist mit dem Übertragungsnetzbetreiber abzustimmen.“
   7. Abschnitt 3.3.10 ist auf Windenergie-Erzeugungsanlagen nicht anzuwenden.
   8. Abschnitt 3.3.12 gilt mit folgenden Maßgaben:
     a. Absatz 1 ist auf Windenergie-Erzeugungsanlagen nicht anzuwenden.
@@ -52,28 +53,24 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
     a. In Bild 3.4 entsprechen die Wörter „Pm Momentane verfügbare Leistung” den Wörtern „Momentane Wirkleistung Pmom ohne Wirkleistungsreduktion bei Überfrequenz” .
     b. In Absatz 3 wird der Satz „Diese Regelung wird dezentral (an jedem einzelnen Generator) ausgeführt” gestrichen.
     c. Absatz 4 wird durch die folgenden Absätze 4 und 5 ersetzt:
-      (4)
-      Die Regelung nach Bild 3.4 und die Regelung zur Wiederkehr von Wirkleistung nach Rückkehr der Frequenz auf einen Wert f ≤ 50,05 Hz können im ungestörten Betrieb wahlweise dezentral oder zentral ausgeführt werden. Für den Fall von Störungen innerhalb der übergeordneten Regelung der Windenergie-Erzeugungsanlage sind bei Überfrequenz geeignete Maßnahmen zur Wirkleistungsreduktion von Windenergie-Erzeugungseinheiten dezentral bereitzuhalten.
+      „(4) Die Regelung nach Bild 3.4 und die Regelung zur Wiederkehr von Wirkleistung nach Rückkehr der Frequenz auf einen Wert f ≤ 50,05 Hz können im ungestörten Betrieb wahlweise dezentral oder zentral ausgeführt werden. Für den Fall von Störungen innerhalb der übergeordneten Regelung der Windenergie-Erzeugungsanlage sind bei Überfrequenz geeignete Maßnahmen zur Wirkleistungsreduktion von Windenergie-Erzeugungseinheiten dezentral bereitzuhalten.
       (5)
-      Auf Anforderung des Netzbetreibers (zum Beispiel per Funkrundsteuerung oder Ähnlichem) ist die Funktion zum automatischen Wiederankoppeln an das Netz zu blockieren.
+      Auf Anforderung des Netzbetreibers (zum Beispiel per Funkrundsteuerung oder Ähnlichem) ist die Funktion zum automatischen Wiederankoppeln an das Netz zu blockieren.“
   11. Abschnitt 3.3.13.4 gilt mit folgenden Maßgaben:
     a. Die Vorgaben gelten für alle Windenergie-Erzeugungsanlagen.
     b. Die Blindleistungsabgabe muss innerhalb von vier Minuten dem vom Netzbetreiber vorgegebenen Sollwert entsprechen.
     c. Im Fall einer Online-Sollwertvorgabe sind die jeweils neuen Vorgaben für den Arbeitspunkt des Blindleistungsaustausches spätestens nach vier Minuten am Netzverknüpfungspunkt zu realisieren.
   12. Der Abschnitt 3.3.13.5 gilt mit folgenden Maßgaben:
     a. Vor Absatz 1 werden folgende Absätze eingefügt:
-      (i) Die Blindleistung bezieht sich auf die Mitsystemkomponente der Strom-/Spannungs-Grundschwingung gemäß IEC 61400-21 Ed. 2*) Annex C.
+      „(i) Die Blindleistung bezieht sich auf die Mitsystemkomponente der Strom-/Spannungs-Grundschwingung gemäß IEC 61400-21 Ed. 2*) Annex C.
       (ii) Die Mindestanforderung entspricht der Erfüllung der nach den Absätzen 2, 7, 8, 11 und 17 festgelegten Anforderungen an der Unterspannungsseite des Maschinentransformators.
-      (iii) Es ist zulässig, diese Anforderungen unter Verwendung eines anderen Bezugspunkts (zum Beispiel der Oberspannungsseite des Maschinentransformators) zu erfüllen, wenn das gleiche Betriebsverhalten am Netzanschlusspunkt nachgewiesen wird.
+      (iii) Es ist zulässig, diese Anforderungen unter Verwendung eines anderen Bezugspunkts (zum Beispiel der Oberspannungsseite des Maschinentransformators) zu erfüllen, wenn das gleiche Betriebsverhalten am Netzanschlusspunkt nachgewiesen wird.“
     b. Absatz 8 wird Absatz 8a. Nach Absatz 8a wird folgender Absatz 8b eingefügt:
-      (8b)
-      Die Bildunterschrift zu Bild 3.1, nach der Spannungsgradienten von kleiner/gleich 5 Prozent pro Minute innerhalb der im Bild 3.1 angegebenen Spannungsbänder zulässig sind und nicht zur Trennung der Windenergie-Erzeugungsanlagen führen dürfen, gilt auch hier.
+      „(8b) Die Bildunterschrift zu Bild 3.1, nach der Spannungsgradienten von kleiner/gleich 5 Prozent pro Minute innerhalb der im Bild 3.1 angegebenen Spannungsbänder zulässig sind und nicht zur Trennung der Windenergie-Erzeugungsanlagen führen dürfen, gilt auch hier.“
     c. Absatz 13 wird wie folgt gefasst:
-      (13)
-      Einpolige, zweipolige und dreipolige Kurzschlüsse (jeweils mit und ohne Erdberührung) oder störungsbedingte symmetrische und unsymmetrische Spannungseinbrüche dürfen oberhalb der Grenzlinie 1 in Bild 3.5 nicht zur Instabilität der Windenergie-Erzeugungsanlage oder zu ihrer Trennung vom Netz führen. Der Spannungswert bezieht sich, wie in Bild 3.5 dargestellt, auf den größten Wert der drei verketteten Netzspannungen.
+      „(13) Einpolige, zweipolige und dreipolige Kurzschlüsse (jeweils mit und ohne Erdberührung) oder störungsbedingte symmetrische und unsymmetrische Spannungseinbrüche dürfen oberhalb der Grenzlinie 1 in Bild 3.5 nicht zur Instabilität der Windenergie-Erzeugungsanlage oder zu ihrer Trennung vom Netz führen. Der Spannungswert bezieht sich, wie in Bild 3.5 dargestellt, auf den größten Wert der drei verketteten Netzspannungen.“
     d. Absatz 17 wird wie folgt gefasst:
-      (17)
-      Spannungsstützung bei Netzfehlern durch Blindstromeinspeisung
+      „(17) Spannungsstützung bei Netzfehlern durch Blindstromeinspeisung
       a) Geltungsbereich
         i) Bei einem Verlauf des größten Wertes der drei verketteten Netzspannungen oberhalb der Grenzlinie 1 in Bild 3.5 müssen von allen Windenergie-Erzeugungseinheiten die Anforderungen an die Spannungsstützung bei Netzfehlern durch Blindstromeinspeisung nach den folgenden Buchstaben b und c erbracht werden.
         ii) Bei einem Verlauf des größten Wertes der drei verketteten Netzspannungen unterhalb der Grenzlinie 1 und oberhalb der Grenzlinie 2 in Bild 3.5 darf von den Anforderungen an die Spannungsstützung bei Netzfehlern nach den folgenden Buchstaben b und c in folgender Weise abgewichen werden:
@@ -96,6 +93,7 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
           b) Einschwingzeit: 60 ms
         iii) Bei stetigem Spannungsverlauf darf der Blindstrom keine Unstetigkeiten aufweisen, die nicht durch die Blindstrom-Spannungscharakteristik nach Bild 3.6 vorgesehen sind und die die Netzqualität in negativer Weise beeinflussen können. Dies gilt insbesondere auch für den Übergang zwischen dem Betrieb bei Spannungsabweichungen ΔU innerhalb des Spannungstotbands Ut und dem Betrieb bei Signifikanter Spannungsabweichung Us.
       Bild 3.6: Prinzip der Spannungsstützung bei Netzfehlern bei Windenergie-Erzeugungseinheiten
+      “
     e. Absatz 18 ist nicht anzuwenden.
     f. Absatz 19 ist nicht anzuwenden.
     g. Absatz 20 wird wie folgt gefasst:
@@ -103,6 +101,7 @@ II) Kapitel 3 des TransmissionCodes 2007 gilt mit folgenden Maßgaben:
     h. Abschnitt 3.3.13.6 ist nicht anzuwenden.
     i. Abschnitt 3.3.13.7 ist nicht anzuwenden.
 III) An Kapitel 9.2 werden folgende Definitionen angefügt:
+  „
   1. „Anschwingzeit“ ist die charakteristische Größe der Sprungantwort. Es handelt sich um die Zeit zwischen sprunghaftem Eintritt einer Signifikanten Spannungsabweichung Us und erstmaligem Erreichen des Toleranzbandes um den Stationären Endwert des Blindstroms IB. Die Anschwingzeit umfasst die Zeit des Erkennens einer Signifikanten Spannungsabweichung sowie die Anregelzeit der Blindstrom-Regelung.
   2. „Betriebsbereite installierte Wirkleistung Pbb inst“, auch als „Nennwirkleistung“ bezeichnet, ist die Summe der Nennwirkleistungen der betriebsbereiten Windenergie-Erzeugungseinheiten innerhalb einer Windenergie-Erzeugungsanlage. Ausgenommen sind Windenergie-Erzeugungseinheiten, die sich in Revision befinden oder defekt sind.
   3. „Blindstrom IB“ ist der gesamte Blindstrom, der aus den Mitsystemkomponenten (Indizierung mit „1”) des Grundschwingungsanteils von Strom und Spannung auf der Niederspannungsseite des Maschinentransformators ermittelt wird: mit unterstrichen: komplexe Größe; „*“: konjugiert komplexe Größe.
@@ -135,4 +134,4 @@ III) An Kapitel 9.2 werden folgende Definitionen angefügt:
   27. „Windenergie-Anschlussanlage“ ist die Gesamtheit aller Betriebsmittel, die erforderlich sind, um eine oder mehrere Einheiten zur Erzeugung elektrischer Energie aus Windenergie an das Netz eines Netzbetreibers anzuschließen.
   28. „Windenergie-Erzeugungsanlage“ ist eine Anlage, in der sich eine oder mehrere Einheiten zur Erzeugung elektrischer Energie aus Windenergie (Windenergie-Erzeugungseinheit ) befinden. Dies umfasst auch die Anschlussanlage und alle zum Betrieb erforderlichen elektrischen Einrichtungen.Windenergie-Erzeugungsanlagen sind Einheiten zur Erzeugung elektrischer Energie aus Windenergie. Diese können entweder einzeln oder über eine interne Windparkverkabelung verbunden an ein Netz angeschlossen werden. Eine Windenergie-Erzeugungsanlage kann aus unterschiedlichen Typen von Windenergie-Erzeugungseinheiten bestehen.
   29. „Windenergie-Erzeugungseinheit “ ist eine einzelne Anlage zur Erzeugung elektrischer Energie aus Windenergie. Eine Windenergie-Erzeugungseinheit vom Typ 1 liegt vor, wenn ein Synchrongenerator direkt mit dem Netz gekoppelt ist. Eine Windenergie-Erzeugungseinheit vom Typ 2 liegt vor, wenn diese Bedingung nicht erfüllt ist.
-  30. „Wirkstrom IW“ ist der gesamte Wirkstrom, der aus den Mitsystemkomponenten (Indizierung mit „1“) des Grundschwingungsanteils von Strom und Spannung ermittelt wird: mit unterstrichen: komplexe Größe; „*“: konjugiert komplexe Größe.
+  30. „Wirkstrom IW“ ist der gesamte Wirkstrom, der aus den Mitsystemkomponenten (Indizierung mit „1“) des Grundschwingungsanteils von Strom und Spannung ermittelt wird: mit unterstrichen: komplexe Größe; „*“: konjugiert komplexe Größe.“

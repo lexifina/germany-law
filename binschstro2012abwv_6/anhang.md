@@ -7,9 +7,8 @@ II. Vorübergehende Regelungen
   1. Das Inhaltsverzeichnis der Binnenschifffahrtsstraßen-Ordnung ist in der um die nachstehende Angabe zu § 1.28 ergänzten Fassung anzuwenden:
     „1.28 Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Navigation ferngesteuert wahrgenommen werden”.
   2. Das Kapitel 1 der Binnenschifffahrtsstraßen-Ordnung ist in der um den nachstehenden § 1.28 ergänzten Fassung anzuwenden:
-    „§ 1.28
-    Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Navigation
-    ferngesteuert wahrgenommen werden
+    | „§ 1.28 |
+    | Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Navigation ferngesteuert wahrgenommen werden |
     1. Zu Versuchszwecken kann die zuständige Behörde auf Antrag für ein Fahrzeug, bei dem Aufgaben der Navigation ferngesteuert wahrgenommen werden sollen, Ausnahmen von Anforderungen dieser Verordnung für einen bestimmten Zeitraum für einen bestimmten Streckenabschnitt widerruflich genehmigen. Die Genehmigung darf nur auf der Grundlage einer Begutachtung der für die technische Zulassung von Fahrzeugen zuständigen Stelle nach Maßgabe der Nummer 2 erfolgen. Die Genehmigung ist – auch nachträglich – mit den für die Sicherheit und Leichtigkeit des Verkehrs sowie dem Schutz von Personen und Ladung erforderlichen Nebenbestimmungen zu versehen; dies gilt auch hinsichtlich Anforderungen an die Einrichtung, die Ausrüstung und den Betrieb des Fahrzeugs sowie die Einrichtung und die Ausrüstung der Fernsteuerungszentrale und den Betrieb des Fahrzeugs durch die Fernsteuerungszentrale.
     2. Die Begutachtung nach Nummer 1 Satz 2 muss Aussagen zu den Mindestanforderungen an die Besatzung, an die Einrichtung, die Ausrüstung und den Betrieb des Fahrzeugs sowie an die Einrichtung und die Ausrüstung der Fernsteuerungszentrale und den Betrieb des Fahrzeugs durch die Fernsteuerungszentrale enthalten, mittels derer gewährleistet werden kann, dass das Fahrzeug bei der ferngesteuerten Wahrnehmung der Aufgaben der Navigation
       a) die Sicherheit und Leichtigkeit des Verkehrs und den sicheren Schiffsbetrieb nicht beeinträchtigt und
