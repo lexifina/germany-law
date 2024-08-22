@@ -82,7 +82,7 @@ Vorbemerkung
 | Krankheiten, Mängel | Eignung oder bedingte Eignung | Beschränkungen/Auflagen bei bedingter Eignung |
 | Klassen A, A1, A2,B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1,DE, D1E, FzF | Klassen A, A1, A2,B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF |
 | 9.2 | Einnahme von Cannabis |  |  |  |  |
-| 9.2.1 | Missbrauch (Das Führen von Fahrzeugen und ein die Fahrsicherheit beeinträchtigender Cannabiskonsum können nicht hinreichend sicher getrennt werden.) | nein | nein | – | – |
+| 9.2.1 | Missbrauch(Das Führen von Fahrzeugen undein Cannabiskonsum mit nichtfernliegender verkehrssicherheitsrelevanter Wirkung beim Führeneines Fahrzeugs können nichthinreichend sicher getrennt werden.) | nein | nein | – | – |
 | 9.2.2 | nach Beendigung des Missbrauchs | ja wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist | ja wenn die Änderung des Cannabiskonsumverhaltens gefestigt ist | – | – |
 | 9.2.3 | Abhängigkeit | nein | nein | – | – |
 | 9.2.4 | nach Abhängigkeit (Entwöhnungsbehandlung) | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | ja wenn Abhängigkeit nicht mehr besteht und in der Regel ein Jahr Abstinenz nachgewiesen ist | – | – |

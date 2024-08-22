@@ -34,7 +34,7 @@ A. Schwerwiegende Zuwiderhandlungen
   | das Verhalten an Wechsellichtzeichen, Dauerlichtzeichen und Zeichen 206 (Halt! Vorfahrt gewähren!) sowie gegenüber Haltzeichen von Polizeibeamten | (§ 36, § 37 Absatz 2, 3, Anlage 2 zu § 41 Absatz 1) |
   | das Verhalten bei blauem Blinklicht zusammen mit dem Einsatzhorn | (§ 38 Absatz 1 Satz 2) |
 2.2 Verstöße gegen die Vorschriften der Fahrzeug-Zulassungsverordnung über den Gebrauch oder das Gestatten des Gebrauchs von Fahrzeugen ohne die erforderliche Zulassung (§ 3 Absatz 1) oder ohne dass sie einem genehmigten Typ entsprechen oder eine Einzelgenehmigung erteilt ist (§ 4 Absatz 1)
-2.3 Verstöße gegen § 24a oder § 24c des Straßenverkehrsgesetzes (Alkohol, berauschende Mittel)
+2.3 Verstöße gegen § 24a oder § 24c des Straßenverkehrsgesetzes (Alkohol, Cannabis, andere berauschende Mittel)
 2.4 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Befördern von Fahrgästen ohne die erforderliche Fahrerlaubnis zur Fahrgastbeförderung oder das Anordnen oder Zulassen solcher Beförderungen (§ 48 Absatz 1 oder 7)
 2.5 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Führen von Kraftfahrzeugen in Begleitung, wenn der Fahrerlaubnisinhaber entgegen einer vollziehbaren Auflage ein Kraftfahrzeug ohne Begleitung führt (Begleitetes Fahren ab 17 Jahre – § 48a Absatz 2)
 B. Weniger schwerwiegende Zuwiderhandlungen

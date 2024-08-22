@@ -697,15 +697,23 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | Lfd. Nr. | Tatbestand | Straßenverkehrsgesetz (StVG) | Regelsatz in Euro (€), Fahrverbot in Monaten |
 |  | B. Zuwiderhandlungen gegen §§ 24a, 24c StVG |  |  |
 |  | 0,5-Promille-Grenze |  |  |
-| 241 | Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt | § 24a Absatz 1 | 500 €Fahrverbot 1 Monat |
-| 241.1 |  | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 000 €Fahrverbot 3 Monate |
-| 241.2 |  | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot 3 Monate |
+| 241 | Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt | § 24a Absatz 1 | 500 €Fahrverbot1 Monat |
+| 241.1 | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 000 €Fahrverbot3 Monate |
+| 241.2 | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot3 Monate |
+|  | 3,5-ng/ml-Tetrahydrocannabinol-Grenze |  |  |
+| 242 | Kraftfahrzeug geführt mit 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum | § 24a Absatz 1a | 500 €Fahrverbot1 Monat |
+| 242.1 | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 000 €Fahrverbot3 Monate |
+| 242.2 | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot3 Monate |
 |  | Berauschende Mittel |  |  |
-| 242 | Kraftfahrzeug unter Wirkung eines in der Anlage zu § 24a Absatz 2 StVG genannten berauschenden Mittels geführt | § 24a Absatz 2 Satz 1 i. V. m. Absatz 3 | 500 €Fahrverbot 1 Monat |
-| 242.1 |  | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 000 €Fahrverbot 3 Monate |
-| 242.2 |  | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot 3 Monate |
-|  | Alkoholverbot für Fahranfänger und Fahranfängerinnen |  |  |
-| 243 | In der Probezeit nach § 2a StVG oder vor Vollendung des 21. Lebensjahres als Führer eines Kraftfahrzeugs alkoholische Getränke zu sich genommen oder die Fahrt unter der Wirkung eines solchen Getränks angetreten | § 24c Absatz 1, 2 | 250 € |
+| 243 | Kraftfahrzeug unter Wirkung eines in der Anlage zu§ 24a Absatz 2 StVG genannten berauschenden Mittels geführt | § 24a Absatz 2 Satz 1 | 500 €Fahrverbot1 Monat |
+| 243.1 | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 000 €Fahrverbot3 Monate |
+| 243.2 | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot3 Monate |
+|  | Alkoholverbot für Cannabiskonsumenten und Cannabiskonsumentinnen |  |  |
+| 243a | Als Führer eines Kraftfahrzeugs im Straßenverkehr 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum und 1.ein alkoholisches Getränk zu sich genommen oder2.die Fahrt unter der Wirkung eines alkoholischen Getränks angetreten | § 24a Absatz 2a | 1 000 €Fahrverbot1 Monat |
+| 243a.1 | bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 1 500 €Fahrverbot3 Monate |
+| 243a.2 | bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister |  | 2 000 €Fahrverbot3 Monate |
+|  | Alkohol- und Cannabisverbot für Fahranfänger und Fahranfängerinnen |  |  |
+| 243b | In der Probezeit nach § 2a StVG oder vor Vollendung des 21. Lebensjahres als Führer eines Kraftfahrzeugs im Straßenverkehr ein alkoholisches Getränk oder die Substanz Tetrahydrocannabinol zu sich genommen oder die Fahrt unter der Wirkung eines alkoholischen Getränks oder der Substanz Tetrahydrocannabinol angetreten | § 24c Absatz 1 | 250 € |
 Abschnitt II
 Vorsätzlich begangene Ordnungswidrigkeiten
 | Lfd. Nr. | Tatbestand | StVO | Regelsatz in Euro (€), Fahrverbot in Monaten |

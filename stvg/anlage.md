@@ -3,7 +3,6 @@
 (Fundstelle: BGBl. I 2007, 1045)
 Liste der berauschenden Mittel und Substanzen
 | Berauschende Mittel | Substanzen |
-| Cannabis | Tetrahydrocannabinol (THC) |
 | Heroin | Morphin |
 | Morphin | Morphin |
 | Cocain | Cocain |

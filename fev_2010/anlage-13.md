@@ -35,7 +35,8 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 2.2 folgende besonders verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeiten:
   | laufende Nummer | Ordnungswidrigkeit | laufende Nummer der Anlage zur Bußgeldkatalog-Verordnung (BKat) |
   | 2.2.1 | Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt | 241, 241.1, 241.2 |
-  | 2.2.2 | Kraftfahrzeug unter der Wirkung eines in der Anlage zu § 24a Absatz 2 des Straßenverkehrsgesetzes genannten berauschenden Mittels geführt | 242, 242.1, 242.2 |
+  | 2.2.1a | Kraftfahrzeug geführt mit 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum | 242, 242.1, 242.2, 243a, 243a.1, 243a.2 |
+  | 2.2.2 | Kraftfahrzeug unter der Wirkung eines in der Anlage zu § 24a Absatz 2 des Straßenverkehrsgesetzes genannten berauschendenMittels geführt | 243, 243.1, 243.2 |
   | 2.2.3 | Zulässige Höchstgeschwindigkeit überschritten | 9.1 bis 9.3, 11.1 bis 11.3 jeweils in Verbindung mit 11.1.6 bis 11.1.10 der Tabelle 1 des Anhangs (11.1.6 nur innerhalb geschlossener Ortschaften), 11.2.5 bis 11.2.10 der Tabelle 1 des Anhangs (11.2.5 nur innerhalb geschlossener Ortschaften) oder 11.3.6 bis 11.3.10 der Tabelle 1 des Anhangs (11.3.6 nur innerhalb geschlossener Ortschaften) |
   | 2.2.4 | Erforderlichen Abstand von einem vorausfahrenden Fahrzeug nicht eingehalten | 12.6 in Verbindung mit 12.6.3, 12.6.4 oder 12.6.5 der Tabelle 2 des Anhangs sowie 12.7 in Verbindung mit 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs |
   | 2.2.5 | Überholvorschriften nicht eingehalten | 19.1.1, 19.1.2, 21.1, 21.2 |
@@ -49,7 +50,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 3. mit einem Punkt folgende verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeiten:
 3.1 folgende Verstöße gegen die Vorschriften des Straßenverkehrsgesetzes:
   | laufende Nummer | Verstöße gegen die Vorschriften | laufende Nummer des BKat* |
-  | 3.1.1 | des § 24c des Straßenverkehrsgesetzes | 243 |
+  | 3.1.1 | des § 24c des Straßenverkehrsgesetzes | 243b |
 3.2 folgende Verstöße gegen die Vorschriften der Straßenverkehrs-Ordnung:
   | laufende Nummer | Verstöße gegen die Vorschriften über | laufende Nummer des BKat |
   | 3.2.1 | die Straßenbenutzung durch Fahrzeuge | 4.1, 4.2, 5a, 5a.1, 6 |
