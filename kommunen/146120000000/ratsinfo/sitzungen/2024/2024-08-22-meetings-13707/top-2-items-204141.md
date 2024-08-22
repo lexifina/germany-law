@@ -1,0 +1,6 @@
+# TOP 2: Verpflichtung der Mitglieder des Stadtrates
+
+- Sitzung: 1. Sitzung des Stadtrates (2024-08-22)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/204141
