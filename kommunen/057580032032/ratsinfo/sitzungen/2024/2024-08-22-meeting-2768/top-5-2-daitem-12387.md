@@ -1,0 +1,6 @@
+# TOP 5.2: Instandsetzung und Herausforderungen bei Wasserschäden in der Infrastruktur
+
+- Sitzung: Betriebs- und Verkehrsinfrastrukturausschuss (17. Sitzung) (2024-08-22)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/12387
