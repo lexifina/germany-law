@@ -1,4 +1,4 @@
-# Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung
+# Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
