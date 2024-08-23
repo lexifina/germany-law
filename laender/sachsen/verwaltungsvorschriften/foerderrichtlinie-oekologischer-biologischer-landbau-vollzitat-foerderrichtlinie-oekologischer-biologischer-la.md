@@ -1,8 +1,8 @@
 # Förderrichtlinie Ökologischer/Biologischer Landbau Vollzitat: Förderrichtlinie Ökologischer/Biologischer Landbau
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.2
+- Datum: 2024-08-23 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19908.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.10.2023
+23.08.2024
 bis
-22.08.2024
+05.03.2025
 
 Förderrichtlinie Ökologischer/Biologischer Landbau
 
@@ -230,7 +230,7 @@ Die erhöhte Zuwendung bei der Einführung des ökologischen/biologischen Landba
 Die erhöhte Zuwendung kann auch Betrieben gewährt werden, die bereits antragstellende Person nach dieser Förderrichtlinie sind und einen Flächenzugang innerhalb eines Verpflichtungsjahres von mehr als 50 Prozent landwirtschaftlich genutzter Flächen haben, die noch nicht auf ökologischen Landbau umgestellt sind und auch nicht Teil eines nach der Verordnung (EU) 2018/848 kontrollierten und zertifizierten Betriebes waren.
 
 
-Für den zusätzlichen Arbeitszeitbedarf für die Betriebsführung, beschränkt auf die Bereiche Aufzeichnungen, Antragswesen, Information und Weiterbildung, zur Erfüllung der Vorgaben aus der Verordnung (EU) Nr. 2018/848 und den zugehörigen Durchführungsregelungen in der jeweils geltenden Fassung, kann sich die Zuwendung um 40 Euro je Hektar, jedoch höchstens um 550 Euro je Betrieb zum Ausgleich der erforderlichen betrieblichen Transaktionskosten nach Artikel 70 Absatz 4 der EU-GAP-Strategieplan-Verordnung erhöhen.
+Für den zusätzlichen Arbeitszeitbedarf für die Betriebsführung, beschränkt auf die Bereiche Aufzeichnungen, Antragswesen, Information und Weiterbildung, zur Erfüllung der Vorgaben aus der Verordnung (EU) Nr. 2018/848 und den zugehörigen Durchführungsregelungen in der jeweils geltenden Fassung, kann sich die Zuwendung um 40 Euro je Hektar, jedoch höchstens um 550 Euro je Betrieb, wenn der Betriebssitz im Freistaat Sachsen liegt, zum Ausgleich der erforderlichen betrieblichen Transaktionskosten nach Artikel 70 Absatz 4 der EU-GAP-Strategieplan-Verordnung erhöhen.
 
 5.
 
@@ -255,14 +255,14 @@ Zulässige Kombinationen von Maßnahmen dieser Förderrichtlinie mit Öko-Regelu
 Kombination mit Förderrichtlinie AUK/2023
 
 
-Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 (SächsABl. 2023 S. 369), in der jeweils geltenden Fassung, förderfähig.
+Geförderte Flächen nach dieser Förderrichtlinie sind nach den Maßgaben der Förderrichtlinie Agrarumwelt- und Klimamaßnahmen (Förderrichtlinie AUK/2023) vom 4. Oktober 2022 (SächsABl. 2023 S. 369), die zuletzt durch die Richtlinie vom 12. März 2024 (SächsABl. S. 364) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, förderfähig.
 
 5.1.3
 
 Kombination mit Förderrichtlinie ISA/2021
 
 
-Eine Kombination von Maßnahmen dieser Förderrichtlinie mit Maßnahmen nach der Förderrichtlinie Insektenschutz und Artenvielfalt (Förderrichtlinie ISA/2021) vom 10. Februar 2021 (SächsABl. S. 167), enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, sind wie folgt möglich:
+Eine Kombination von Maßnahmen dieser Förderrichtlinie mit Maßnahmen nach der Förderrichtlinie Insektenschutz und Artenvielfalt (Förderrichtlinie ISA/2021) vom 10. Februar 2021 (SächsABl. S. 167), zuletzt enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, sind wie folgt möglich:
 
 
 a)
@@ -279,7 +279,7 @@ die Ackerlandmaßnahmen der Förderrichtlinie ISA/2021 I_AL 1 und I_AL 2 können
 Kombination mit Förderrichtlinie AZL/2015
 
 
-Die Ausgleichszulage für benachteiligte Gebiete nach der Förderrichtlinie Ausgleichszulage (Förderrichtlinie AZL/2015)  vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 17. März 2023 (SächsABl. S. 458) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 7. Dezember 2021 (SächsABl. SDr. S. S 239), in der jeweils geltenden Fassung, kann zusätzlich in Anspruch genommen werden.
+Die Ausgleichszulage für benachteiligte Gebiete nach der Förderrichtlinie Ausgleichszulage (Förderrichtlinie AZL/2015)  vom 22. Juni 2015 (SächsABl. SDr. S. S 308), die zuletzt durch die Richtlinie vom 16. Oktober 2023 (SächsABl. S. 1419) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, kann zusätzlich in Anspruch genommen werden.
 
 5.2
 
@@ -289,14 +289,14 @@ Verpflichtungszeitraum
 Der Verpflichtungszeitraum beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres.
 
 
-Bei den Maßnahmen nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre.
+Bei den Maßnahmen nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum grundsätzlich fünf Jahre, bei Beginn ab dem 1. Januar 2025 vier Jahre.
 
 5.2.1
 
-Nichteinhaltung des fünfjährigen Verpflichtungszeitraums
+Nichteinhaltung des Verpflichtungszeitraums
 
 
-Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des Integrierten Verwaltungs- und Kontrollsystems zum Antragsendtermin und zur Fristversäumnis. Wird ein Auszahlungsantrag nicht oder so verspätet eingereicht, dass er nach diesen Vorschriften als unzulässig anzusehen ist, gilt der fünfjährige Verpflichtungszeitraum als nicht eingehalten und es ist keine Zuwendung für das betroffene Verpflichtungsjahr auszubezahlen. Bereits gewährte Zuwendungen sind zurückzufordern, soweit eine Anhörung keine andere Entscheidung rechtfertigt.
+Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des Integrierten Verwaltungs- und Kontrollsystems zum Antragsendtermin und zur Fristversäumnis. Wird ein Auszahlungsantrag nicht oder so verspätet eingereicht, dass er nach diesen Vorschriften als unzulässig anzusehen ist, gilt der jeweils gültige Verpflichtungszeitraum als nicht eingehalten und es ist keine Zuwendung für das betroffene Verpflichtungsjahr auszubezahlen. Bereits gewährte Zuwendungen sind zurückzufordern, soweit eine Anhörung keine andere Entscheidung rechtfertigt.
 
 5.3
 
@@ -752,7 +752,7 @@ das GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) vom 10
 
 15.
 
-die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 3 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 204) geändert worden ist,
+die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 1 der Verordnung vom 10. Mai 2024 (BGBl. 2024 I Nr. 156) geändert worden ist,
 
 16.
 
@@ -760,7 +760,7 @@ das GAP-Direktzahlungen-Gesetz (GAPDZG) vom 16. Juli 2021 (BGBl. I S. 3003; 2022
 
 17.
 
-die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 29. August 2023 (BGBl. 2023 I Nr. 238) geändert worden ist,
+die GAP-Direktzahlungen-Verordnung (GAPDZV) vom 24. Januar 2022 (BGBl. I S. 139; 2022 I S. 2287), die durch Artikel 1 der Verordnung vom 4. Dezember 2023 (BGBl. 2023 I Nr. 343) geändert worden ist,
 
 18.
 
@@ -784,8 +784,7 @@ das Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und 
 
 23.
 
-§ 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist.
-
+§ 1 des Gesetzes zur Regelung des Verwaltungs- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist.
 
 Verweis auf Bundesgesetze
 
@@ -797,9 +796,9 @@ Fsn-Nr.: 5563-V23.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. Oktober 2023
+Fassung gültig ab: 23. August 2024
 
-Fassung gültig bis: 22. August 2024
+Fassung gültig bis:  5. März 2025
 
 Drucken/Speichern
 
@@ -824,7 +823,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19908.2
+https://www.revosax.sachsen.de/vorschrift/19908.3
 Stand vom
 18.11.2026
 
