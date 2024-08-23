@@ -12,13 +12,13 @@ Abschnitt 3 Laufbahnabschnitt II - Laufbahngruppe 2, erstes Einstiegssamt -
 § 7 | Vorbereitungsdienst, Laufbahnprüfung
 § 8 | Probezeit
 § 9 | Regelaufstieg
-§ 10 | Praxisaufstieg
+§ 10 | Gestufter Aufstieg
 Abschnitt 4 Laufbahnabschnitt III - Laufbahngruppe 2, zweites Einstiegsamt -
 § 11 | Einstellungsvoraussetzungen
 § 12 | Vorbereitungsdienst, Laufbahnprüfung
 § 13 | Sonstiger Zugang zur Laufbahngruppe 2, zweites Einstiegsamt
+§ 14 | Fachkarriere
 Abschnitt 5 Übergangsvorschriften
-§ 14 | Übergangsbestimmung
+§ 15 | Übergangsbestimmung
 Abschnitt 6 Schlussvorschriften
-§ 15 | Ausführungsbestimmung
-§ 16 | Inkrafttreten, Außerkrafttreten
+§ 16 | Ausführungsbestimmung
