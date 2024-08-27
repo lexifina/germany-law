@@ -1,0 +1,71 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-08-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894559
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894559
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 30.07.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 30.07.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Änderung der Straßenführung an der Kreuzung Baumkirchner Straße/Herrmann-Weinhauser-Straße/Truderinger Straße
+- TOP 2.2.: (E) Radwegmarkierung am Ende der Hansjakobstraße
+- TOP 2.3.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse: Antrag des Erzb. Ordinariat München; Beschluss des Bezirksauschusses 14
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Anzinger Str. 19 - LOVT VIBE - Neubau einer Großgarage mit zusätzlichen Flächen für Mobilitätsangebote, Gastronomie, Einzelhandel und Büro - mit Mobilitätskonzept
+- TOP 3.1.2.: Ampfingstr. - WH 2329 - Umrüstung 1 digitale Werbevitrine - innen digital - außen statisch (Ampfingstr. / Mühldorfstr.)
+- TOP 3.1.3.: St.-Veit-Str. 87 - Neubau von zwei Mehrfamilienhäusern (10 WE) mit Tiefgarage (10 Stpl.) - ÄNDERUNGSANTRAG zu 1.23-2022-13712-32 jetzt: mit insgesamt 7 Wohneinheiten und 7 Stellplätzen
+- TOP 3.1.4.: Berg-am-Laim-Str. 91 - Erweiterung Shishabar
+- TOP 3.1.5.: Rofanstr. 28 - Neubau dreier Reihenhäuser mit Garagen - VORBESCHEID
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Ausnahmegenehmigung nach Sondernutzungsrichtlinien – Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen (Sitzungsvorlage Nr. 20-26 / V 13921); Anhörung des Kreisverwaltungsreferats
+- TOP 3.2.2.: personenbezogener Behindertenparkplatz in der Streitfeldstr. 22; Anhörung des Mobilitätsreferats
+- TOP 3.2.3.: Lärmaktionsplan für München - Runde 4, Beteiligung der Bezirksausschüsse, Frist bis zum 30.09.2024; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 3.2.4.: Sicht auf Bestands-Zebrastreifen mit Gefahrzeichen kennzeichnen an der Mühldorfstr. 15; Anhörung des Mobilitätsreferats
+- TOP 3.2.5.: Perspektive München, Handlungsräume der Stadtentwicklung - Sachstand und Weiterentwicklung; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: „Abschlussevent“ am 27.09.2024, Frist bis zum 02.09.2024; Anhörung des Kreisverwaltungsreferats
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Initiative „Umgestaltung Stützwand“ Umgestaltung Stützwand Schatzbogen/Truderinger Straße vom 25.08. bis 01.10.2024 3.000,00 Euro; Az. 0262.0-14-0414
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Grafinger Straße 71 KUKS(Kinder, Kunst und Schule)-Projekt der Bürgerstiftung München vom 01.10.2024 bis 31.07.2025 4.072,00 Euro; Az. 0262.0-14-0415
+- TOP 3.5.3.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e. V. Straßenfest Baumkirchner Straße am 08.09.2024 2.760,00€;Az. 0262.0-14-0416
+- TOP 3.5.4.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024, Erfahrungen der Bezirksausschüsse; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Truderinger Str. 124
+- TOP 3.6.2.: Heilbrunner Str. 4
+- TOP 3.6.3.: Gratlspitzstr. 4
+- TOP 3.6.4.: Kreillerstr. 112
+- TOP 3.6.5.: Hansjakobstr. 47
+- TOP 3.6.6.: Blombergstr. 40
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
