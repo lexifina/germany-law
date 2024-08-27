@@ -1,0 +1,7 @@
+# TOP 2: Eingänge und Mitteilungen
+
+- Sitzung: 30. Sitzung (2024-08-27)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/259514
+- Ergebnis: zur Kenntnis genommen
