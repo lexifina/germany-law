@@ -1,8 +1,8 @@
 # Förderrichtlinie Agrarumwelt- und Klimamaßnahmen Vollzitat: Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-03-12 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.3
+- Datum: 2024-08-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/19912.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-12.03.2024
+27.08.2024
 bis
-26.08.2024
+05.03.2025
 
 Förderrichtlinie Agrarumwelt- und Klimamaßnahmen
 
@@ -1148,7 +1148,7 @@ Mindestschlaggröße: 0,3000 ha,
 
 b)
 
-geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Erstaufforstung nach der Förderrichtlinie Wald und Forstwirtschaft vom 20. Juni 2023 (SächsABl. S. 854), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
@@ -1386,7 +1386,7 @@ Mindestschlaggröße: 0,1000 ha,
 
 b)
 
-geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) vom 20. Juni 2023 (SächsABl. S. 878) in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
+geförderte Umwandlung von Ackerland in Dauergrünland über die Förderrichtlinie Natürliches Erbe (FRL NE/2023) vom 20. Juni 2023 (SächsABl. S. 878), enthalten in der Verwaltungsvorschrift vom 4. Dezember 2023 (SächsABl. SDr. S. S 315), in der jeweils geltenden Fassung, auf vormals als Ackerland genutzter Fläche, welche sich innerhalb eines bereits vorhandenen Feldblockes der Bodennutzungskategorie Ackerland (AL) befand,
 
 
 c)
@@ -2674,7 +2674,7 @@ Maßgabe dieser Förderrichtlinie,
 
 b)
 
-der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 
 c)
@@ -2694,7 +2694,7 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 g)
 
@@ -2705,7 +2705,7 @@ in den jeweils geltenden Fassungen.
 
 3.
 
-Die Zuwendungen werden auf der Grundlage des Teils II 1.1.4 des Agrarrahmens erbracht. Die Europäische Kommission hat die Zuwendungen per Beschluss vom 21. Juli 2023 in dem Verfahren SA.104506 (2022/N) zum Betreff „Saxony: Promotion of biotope maintenance/care mowing with difficulty (Biotopflegemahd mit Erschwernis)“ genehmigt. Die beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
+Die Zuwendungen werden auf der Grundlage des Teils II 1.1.4 des Agrarrahmens erbracht. Die Europäische Kommission hat die Zuwendungen per Beschluss vom 21. Juli 2023 in dem Verfahren SA.104506 (2022/N) zum Betreff „Saxony: Promotion of biotope maintenance/care mowing with difficulty (Biotopflegemahd mit Erschwernis)“ genehmigt. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben. Neuantragstellungen mit einem Verpflichtungsbeginn ab dem 1. Januar 2025 und einer Verpflichtungsdauer von 4 Jahren können erst bewilligt werden, wenn die erforderliche beihilferechtliche Genehmigung der EU-Kommission zur Verkürzung des Verpflichtungszeitraumes vorliegt.
 
 4.
 
@@ -3271,7 +3271,7 @@ Maßgabe dieser Förderrichtlinie,
 
 b)
 
-der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23 und 44,
+der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, insbesondere §§ 23, 44 und 44a,
 
 
 c)
@@ -3291,7 +3291,7 @@ dem Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und de
 
 f)
 
-dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
+dem Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist,
 
 g)
 
@@ -3302,7 +3302,7 @@ in den jeweils geltenden Fassungen.
 
 3.
 
-Der Erschwernisausgleich wird für Flächen in Natura-2000-Gebieten auf der Grundlage des Beschlusses der Europäischen Kommission vom 16. Dezember 2022 im Verfahren SA.102118 (2022/N) unter dem Betreff „Bund: Förderung besonders nachhaltiger Verfahren im Zusammenhang mit der Umsetzung der FFH und der Vogelschutzrichtlinie“ gewährt. Für Flächen außerhalb der Natura-2000-Kulisse kommt eine Bewilligung erst in Betracht, wenn die Europäische Kommission auch für diese Flächen eine beihilferechtliche Genehmigung erteilt hat. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
+Der Erschwernisausgleich wird auf der Grundlage des Beschlusses der Europäischen Kommission vom 5. Februar 2024 im Verfahren SA.111131 (2023/N) unter dem Betreff „Bund: Förderung besonders nachhaltiger Verfahren im Zusammenhang mit der Umsetzung der FFH- und der Vogelschutzrichtlinie (Änderung von SA.102118 (2022/N))“ gewährt. Die jeweils einschlägige beihilferechtliche Identifikationsnummer ist im Bewilligungsbescheid anzugeben.
 
 4.
 
@@ -3312,7 +3312,7 @@ Ein Anspruch der Begünstigten auf Gewährung des Erschwernisausgleichs besteht 
 II.
 Gegenstand der Förderung/des Erschwernisausgleichs
 
-Förder-/ausgleichsfähig ist der in § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), die zuletzt durch Artikel 2 der Verordnung vom 1. Juni 2022 (BGBl. I S. 867) geändert worden ist, in der jeweils geltenden Fassung festgelegte Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel in Naturschutzgebieten, Nationalparks, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 3 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2240) geändert worden ist.
+Förder-/ausgleichsfähig ist der in § 4 Absatz 1 der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), die zuletzt durch Artikel 2 der Verordnung vom 1. Juni 2022 (BGBl. I S. 867) geändert worden ist, in der jeweils geltenden Fassung festgelegte Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel in Naturschutzgebieten, Nationalparks, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 5 des Gesetzes vom 8. Mai 2024 (BGBl. 2024 I Nr. 153) geändert worden ist.
 
 III.
 Begünstigte
@@ -3429,17 +3429,20 @@ Eine Kombination der Förderung des Erschwernisausgleichs ist mit der Öko-Regel
 
 Kombination mit Förderrichtlinie ÖBL/2023
 
+
 Die Förderung des Erschwernisausgleichs und nach der Förderrichtlinie ÖBL/2023 für die selbe Fläche ist ausgeschlossen.
 
 4.
 
 Kombination mit Förderrichtlinie ISA/2021
 
+
 Eine Kombination der Förderung des Erschwernisausgleichs mit Maßnahmen der Förderrichtlinie ISA/2021 ist ausgeschlossen.
 
 5.
 
 Kombination mit Förderrichtlinie AZL/2015
+
 
 Eine Kombination der Förderung des Erschwernisausgleichs mit Maßnahmen der Förderrichtlinie AZL/2015 ist zulässig.
 
@@ -3699,21 +3702,24 @@ Verpflichtungszeitraum
 Der Verpflichtungszeitraum für eine beantragte Maßnahme beginnt unabhängig vom Tag des Einganges des Teilnahmeantrages stets am 1. Januar des ersten Kalenderjahres, welches unmittelbar auf einen gültigen Teilnahmeantrag folgt (erstes Verpflichtungsjahr), und endet zum 31. Dezember des letzten Verpflichtungsjahres. Für Flächen, die auf Grund eines Erweiterungsantrages im Rahmen des Auszahlungsantrages neu in die Verpflichtung genommen werden, müssen alle Förderverpflichtungen der betroffenen Maßnahme ab 1. Januar des aktuellen Antragsjahres eingehalten werden.
 
 
-Bei den Maßnahmen nach Teil A und B nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum fünf Jahre, in den sonstigen Fällen ein Jahr.
+Bei den Maßnahmen nach Teil A und B nach dieser Förderrichtlinie umfasst der Verpflichtungszeitraum grundsätzlich fünf Jahre. Bei einem Beginn des Verpflichtungszeitraumes ab dem 1. Januar 2025 gilt für Maßnahmen nach Teil A und B ein abweichender Verpflichtungszeitraum von vier Jahren. Für Maßnahmen nach Teil B steht diese Reduzierung des Verpflichtungszeitraumes auf 4 Jahre unter dem Vorbehalt der beihilferechtlichen Genehmigung.
+
+
+Der Verpflichtungszeitraum für Maßnahmen nach Teil C dieser Förderrichtlinie beträgt ein Jahr.
 
 1.1
 
-Nichteinhaltung des fünfjährigen Verpflichtungszeitraums (gilt nicht für Teil C)
+Nichteinhaltung des Verpflichtungszeitraums (gilt nicht für Teil C)
 
 
-Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des Integrierten Verwaltungs- und Kontrollsystems zum Antragsendtermin und zur Fristversäumnis. Wird ein Auszahlungsantrag nicht oder so verspätet eingereicht, dass er nach diesen Vorschriften als unzulässig anzusehen ist, gilt der fünfjährige Verpflichtungszeitraum als nicht eingehalten und es ist keine Zuwendung für das betroffene Verpflichtungsjahr auszubezahlen. Bereits gewährte Zuwendungen sind zurückzufordern, soweit aufgrund der Umstände keine andere Entscheidung gerechtfertigt ist.
+Für den jährlichen Auszahlungsantrag gelten die entsprechenden Vorgaben des Integrierten Verwaltungs- und Kontrollsystems zum Antragsendtermin und zur Fristversäumnis. Wird ein Auszahlungsantrag nicht oder so verspätet eingereicht, dass er nach diesen Vorschriften als unzulässig anzusehen ist, gilt der jeweils gültige Verpflichtungszeitraum als nicht eingehalten und es ist keine Zuwendung für das betroffene Verpflichtungsjahr auszubezahlen. Bereits gewährte Zuwendungen sind zurückzufordern, soweit aufgrund der Umstände keine andere Entscheidung gerechtfertigt ist.
 
 1.2
 
 Anpassung/Verlängerung des Verpflichtungszeitraums (gilt nicht für Teil C)
 
 
-Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahme beantragt, beginnt ein neuer fünfjähriger Verpflichtungszeitraum, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den erstmaligen Bewilligungsumfang in Hektar, beträgt. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
+Werden im Verpflichtungszeitraum Flächenerweiterungen für die gleiche Maßnahme beantragt, beginnt ein neuer Verpflichtungszeitraum, wenn der Umfang der Flächenerweiterung mehr als 50 Prozent, bezogen auf den erstmaligen Bewilligungsumfang in Hektar, beträgt. Der neue Verpflichtungszeitraum beträgt bei derartigen Flächenerweiterungen bis 2024 fünf Jahre und ab 1. Januar 2025 vier Jahre. Bei Flächenerweiterungen unter 50 Prozent ist keine Verlängerung des Verpflichtungszeitraums für die betroffene Maßnahme notwendig. Dies gilt aber nur, wenn der festgesetzte Verpflichtungszeitraum noch eine Laufzeit von mindestens zwei Jahren hat. Anderenfalls ist der Verpflichtungszeitraum für den gesamten Bewilligungsumfang um weitere fünf Jahre zu verlängern.
 
 2.
 
@@ -3903,7 +3909,7 @@ die Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom
 
 12.
 
-die Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21. Dezember 2022, S.1),
+die Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21. Dezember 2022, S.1), die zuletzt durch die Verordnung (EU) 2023/2607 der Kommission vom 22. November 2023 (ABl. L, 2023/2607, 23.11.2023) geändert worden ist,
 
 13.
 
@@ -3912,7 +3918,7 @@ das GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) vom 10
 14.
 
 
-die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 1a der Verordnung vom 17. Oktober 2023 (BGBl. 2023 I Nr. 281) geändert worden ist,
+die Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAP-InVeKoS-Verordnung) vom 19. Dezember 2022 (BAnz AT 19.12.2022 V1), die durch Artikel 1 der Verordnung vom 10. Mai 2024 (BGBl. 2024 I Nr. 156) geändert worden ist,
 
 15.
 
@@ -3936,7 +3942,7 @@ die Sächsische GAP-Umsetzungsverordnung vom 2. Januar 2023 (SächsGVBl. S. 8),
 
 20.
 
-das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 13. Dezember 2023 (SächsGVBl. S. 876) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist.
+das Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 8 des Gesetzes vom 31. Januar 2024 (SächsGVBl. S. 83) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 1 des Gesetzes vom 4. Dezember 2023 (BGBl. 2023 I Nr. 344) geändert worden ist.
 
 Verweis auf Bundesgesetze
 
@@ -3948,9 +3954,9 @@ Fsn-Nr.: 5563-V23.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 12. März 2024
+Fassung gültig ab: 27. August 2024
 
-Fassung gültig bis: 26. August 2024
+Fassung gültig bis:  5. März 2025
 
 Drucken/Speichern
 
@@ -3975,7 +3981,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/19912.3
+https://www.revosax.sachsen.de/vorschrift/19912.4
 Stand vom
 18.11.2026
 
