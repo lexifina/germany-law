@@ -1,0 +1,59 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-08-27T17:00:00+02:00
+- Ende: 2024-08-27T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26184
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26184
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 4: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 25. Juni 2024 - öffentlicher Teil - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Städtebaulicher Wettbewerb Nr. 05/015 - Nördlich Kalkumer Schlossallee - Empfehlung mehrheitlich beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2024 - Liste A) Schulen 21 211 01 / 52415500 - einstimmig beschlossen
+- TOP 9: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 10: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 11: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - vertagt
+- TOP 12: Kaiserswerther Markt: Warum antwortet die Verwaltung innerhalb eines Jahres nicht auf Fragen der BV5? - vertagt
+- TOP 13: Graf-Engelbert-Straße: Gehweg nutzbar machen! - beantwortet
+- TOP 14: Ausbau des Fahrradweges auf der Kalkumer Schlossallee - beantwortet
+- TOP 15: Radweg Kalkumer Schlossallee - Verbreiterung der südlichen Brückenrampen Bahnüberführung Forst Kalkum - 3.0 - beantwortet
+- TOP 16: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP 17: Fahrrad-Pendlerverkehr zwischen Duisburg und Düsseldorf - beantwortet
+- TOP 18: Auswirkungen des Urteils vom Bundesverwaltungsgericht vom 06. Juni 2024 (Az. BVerwG 3 C 5.23) auf die Graf-Engelbert-Straße in Düsseldorf-Angermund - vertagt
+- TOP 19: Warum dürfen gewerbliche Firmen Fahrräder zum Verleih auf den Fahrradständer am Klemens Platz in unbegrenzter Menge abstellen, ohne Platz für Fahrrädern von normalen Bürgern zu lassen? - beantwortet
+- TOP 20: Die Einbahnstraße Sankt-Göres muss im Bereich zwischen der Straße Kaiserswerther Markt und der Niederrheinstraße Fahrrad frei bleiben - vertagt
+- TOP 21: Wann erfolgen endlich Maßnahmen zur Schulwegsicherung im Kreuzungsbereich Wittgatt/ Fritz-Köhler-Weg? - beantwortet
+- TOP 22: Park & Ride Parkplatz Froschenteich (siehe BV5/099/2023) - beantwortet
+- TOP 23: Geschwindigkeitsüberschreitungen auf der Arnheimer Straße - vertagt
+- TOP 24: Sanierung des Rheindeiches entlang der Burgallee bis zur Straße An Sankt Swidbert - beantwortet
+- TOP 25: Verkehrskonzept Düsseldorf Nord - hier: Rampe zwischen Burgallee und Herbert-Eulenberg-Weg - beantwortet
+- TOP -: Neue Anfragen
+- TOP 26: Parkmöglichkeiten am S-Bahnhof Angermund - beantwortet
+- TOP 27: Tempo 40 auf der Angermunder Straße - beantwortet
+- TOP 28: Wann werden die Ruinen Am Ritterskamp 11 und Am Ritterskamp 7 beseitigt und die vor Jahren geplante Grünfläche gestaltet? - vertagt
+- TOP 29: Starkregenvorsorge im Zentrum Kaiserswerths - Ist ein neuer Kanal notwendig? - beantwortet
+- TOP 30: Landschaftsgerechte Gestaltung und Baumpflanzungen auf dem Parkplatz Niederrheinstraße/An Sankt Swidbert - vertagt
+- TOP 31: Werden in den Schulferien vor den Kindergärten und Schulen im Bezirk der BV 5 die Autos geblitzt in einer 30 km Zone? - beantwortet
+- TOP 32: Grüne Welle von der Niederrheinstraße kommend und auf der Kaiserswerther Straße von Freiligrath Platz bis zum Aqua Zoo - vertagt
+- TOP -: Anträge
+- TOP 33: Dringend notwendige Reparatur der schadhaften Pflastersteine des Kaiserswerther Marktes - einstimmig beschlossen
+- TOP 34: Beseitigung der Stufe an dem Bürgersteig vor dem Haus am Kaiserswerther Markt 2, 40489 Düsseldorf Kaiserswerth - mehrheitlich beschlossen
+- TOP 35: Kreuzungsbereich in Kalkum sicherer machen - einstimmig beschlossen
+- TOP 36: Sauberkeit im Öffentlichen Raum umsetzen - Pilotprojekt "Graffiti-Guard", Anti-Graffiti System für den Düsseldorfer Norden starten! - mehrheitlich beschlossen
+- TOP 37: Hitzeschutzmaßnahmen für einen Spielplatz im Düsseldorfer Norden! Errichtung eines Wasserspielplatzes! - mehrheitlich beschlossen
+- TOP -: Informationsvorlagen
+- TOP 38: Sitzungstermine der Bezirksvertretung 5 im Jahr 2025 - zur Kenntnis genommen
+- TOP 39: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 40: Verschiedenes
