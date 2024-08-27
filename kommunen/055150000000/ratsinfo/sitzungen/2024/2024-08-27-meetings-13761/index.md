@@ -1,0 +1,51 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-08-27T17:00:00+02:00
+- Ende: 2024-08-27T19:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13761
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13761
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00553725.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder der Bezirksvertretung
+- TOP 2: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 3: Anregungen gem. § 24 GO NRW
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: P+R-Ausbau/Mobilstation an der Steinfurter Straße/Wilkinghege - zur Kenntnis genommen
+- TOP 4.2: aktueller Planungsstand Stadtteilhaus Coerde - zur Kenntnis genommen
+- TOP 4.3: Immobilienbestand der ZBI (Zentral Boden Immobilien Gruppe) - aktueller Sachstand - von der Tagesordnung abgesetzt
+- TOP 4.4: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Kenntnisnahme des Entwurfs zur Veröffentlichung - zur Kenntnis genommen
+- TOP 4.5: Radverkehrsförderung in Münster – Ein Überblick - zur Kenntnis genommen
+- TOP 4.6: Kindertagesbetreuungsbericht 2024 - zur Kenntnis genommen
+- TOP 4.7: Anhörungsbeschlüsse der letzten Sitzung/en - zur Kenntnis genommen
+- TOP 5: Anhörungen
+- TOP 5.1: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - einstimmig geändert beschlossen
+- TOP 5.2: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - einstimmig beschlossen
+- TOP 5.3: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Grevener Straße (Yorkring bis Kristiansandstraße) - einstimmig beschlossen
+- TOP 5.6: Veloroute 1 Greven – Münster, Abschnitt 9 Ashölter Weg / Im Aatal: Umgestaltung zur Fahrradstraße Basis - einstimmig geändert beschlossen
+- TOP 5.7: Sachstand und priorisiertes Umsetzungskonzept zum Fahrradnetz 2.0 - einstimmig geändert beschlossen
+- TOP 5.8: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung - einstimmig geändert beschlossen
+- TOP 5.9: Gewährung städtischer Betriebs-, Miet- und Pachtkostenzuschüsse für Sportvereine mit vereinseigenen Sportstätten - einstimmig beschlossen
+- TOP 5.10: Bikepark Steinfurter Straße - Planungs- und Baubeschluss - - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und andere Vereinigungen und Initiativen im Stadtbezirk Münster-Nord - einstimmig geändert beschlossen
+- TOP 6.2: Sanierung von Spielplätzen im Stadtbezirk Münster-Nord -Festlegung der Reihenfolge für die Haushaltsjahre 2024/2025 -Planungs- und Baubeschluss für den Spielplatz Sprickmannplatz und den Spielplatz Tömmersweg - einstimmig geändert beschlossen
+- TOP 7: Anregungen/Anträge
+- TOP 7.1: Weiterer Zebrastreifen auf der Sprakeler Straße - einstimmig beschlossen
+- TOP 7.2: Zebrastreifen auf dem Parkplatz Idenbrockplatz - einstimmig beschlossen
+- TOP 7.3: Geschwindigkeitsreduzierung auf der Coerheide zwischen Hessenweg und Coerder Liekweg - einstimmig beschlossen
+- TOP 7.4: große Müllbehälter am Spielplatz Hamannplatz - einstimmig beschlossen
+- TOP 7.5: Einrichtung einer "Taskforce Müll" - einstimmig beschlossen
+- TOP 8: Stellungnahmen der Verwaltung zu Anträgen und Anregungen der Bezirksvertretung
+- TOP 8.1: Laternen am Lehrerparkplatz des Schulzentrums Kinderhaus erneuern und die Beleuchtungssituation verbessern (A-N/0012/2024) - Stellungnahme zur Kenntnis genommen
+- TOP 8.2: Fehlende Sporthallenzeiten für die Zeit des Neubaus der Melanchthonschule in Coerde sicherstellen (A-N/0014/2024) - Stellungnahme zur Kenntnis genommen
+- TOP 9: Verschiedenes
