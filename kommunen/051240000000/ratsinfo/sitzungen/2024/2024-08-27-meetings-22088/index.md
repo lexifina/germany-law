@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-08-27T18:00:00+02:00
+- Ende: 2024-08-27T19:35:00+02:00
+- Ort: Rathaus Barmen, 1. Sitzungszimmer, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22088
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22088
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00335562.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00336659.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Bericht aus dem Beirat der Menschen mit Behinderung
+- TOP 4: Bürgerantrag nach § 24 GO NRW - Tempo 30 auf der Wittensteinstraße - zurückgestellt
+- TOP 4.1: Änderungsantrag zu TOP 4 und 5, Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 5: Änderungsantrag zu VO/1240/23 Tempo 30 Regelung für die Leimbacher Straße - zurückgestellt
+- TOP 6: Einrichtung einer Carsharing-Station Martin-Luther-Straße - ungeändert beschlossen
+- TOP 7: Errichtung einer Carsharing-Station Ulmenstr. - abgelehnt
+- TOP 8: Straßenbauprogramm im Stadtbezirk Barmen - Operatives Bauprogramm - ungeändert beschlossen
+- TOP 9: Verbesserung der Barrierefreiheit in der Waisenstraße - ungeändert beschlossen
+- TOP 10: Veranstaltung "Familienfest" der Kirche im Tal am 21.09.2024 auf dem Johannes-Rau-Platz - ungeändert beschlossen
+- TOP 11: Veranstaltung " Gläsernes Jugendzentrum" am 26.09.2024 auf dem Geschwister-Scholl-Platz - ungeändert beschlossen
+- TOP 12: Verantaltung "Schuchi Fest 50" am 28.09.2024 in der Schuchardstraße - ungeändert beschlossen
+- TOP 13: Paracelsusstraße - Fahrbahn- und Gehwegerneuerung - ungeändert beschlossen
+- TOP 14: Neugestaltung des Spielplatzes Münzstraße - ungeändert beschlossen
+- TOP 15: Sanierungsmaßnahme Oberbergische Str. - ungeändert beschlossen
+- TOP 16: Anträge
+- TOP 16.1: Verwendung freier Mittel
+- TOP 16.1.1: Antrag ISG Barmen
+- TOP 16.2: Verwendung der GFG-Mittel - gemeinsamer Antrag SPD, CDU - ungeändert beschlossen
+- TOP 16.3: Barmen – Ausweisung von Abstellzonen für Elektromietscooter und Einrichtung von Fahrradbügelflächen im Bezirk - Antrag Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 16.4: Tempo 30 für Hesselnberg und Bendahler Straße - Antrag Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 17: Auswahlverfahren für die Veranstalter der Weihnachtsmärkte in Wuppertal-Elberfeld und Wuppertal-Barmen für die Jahre 2025-2029 - ungeändert beschlossen
+- TOP 18: Fördermaßnahmen für das OGS-Investitionsprogramm - Schwerpunkt Ausstattung - ungeändert beschlossen
+- TOP 19: Bereitstellung außerplanmäßiger Haushaltsmittel zur Deckung entstandener Mehrkosten bei der Sanierung des Bibliotheksstandortes am Rott, Rödiger Str. 69 - geändert beschlossen
+- TOP 20: Bebauungsplan 1273/1 - Christbusch/Am Unterbarmer Friedhof - ungeändert beschlossen
+- TOP 21: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Hof- und Hausflächen in ausgewählten Stadtteilen ("Hof- und Fassadenprogramm") - ungeändert beschlossen
+- TOP 22: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4 - ungeändert beschlossen
+- TOP 23: 4. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 23.1: Reallabor Googletree am Haspel - Ergänzung für den 4. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 24: Fällung von Einzelbäumen - Auslichtung von Grünanlagen 2024/2025 - Entgegennahme ohne Beschluss
+- TOP 25: Umleitungen wg. der Sperrungen Loher Brücke und Schönebecker Straße - Entgegennahme ohne Beschluss
+- TOP 26: Fahrplanwechsel Herbst 2024 (06.10.2024) - Entgegennahme ohne Beschluss
+- TOP 27: Jahresbericht des Inklusionsbüros 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 28: Sachstandsbericht „25 Mobilitätskonzepte bis 2025“ - Entgegennahme ohne Beschluss
+- TOP 29: Trinkwasserbrunnen im Bezirk-Antrag Bündnis 90/Die Grünen - Entgegennahme ohne Beschluss
+- TOP 30: Standortsuche Zentralbibliothek - Entgegennahme ohne Beschluss
+- TOP 31: Anmietung von Räumlichkeiten in der Stresemannstr. 15 zur Unterbringung Geflüchteter - ungeändert beschlossen
