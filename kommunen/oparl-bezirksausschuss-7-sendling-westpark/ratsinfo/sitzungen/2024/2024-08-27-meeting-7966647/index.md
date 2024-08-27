@@ -1,0 +1,207 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-08-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966647
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966647
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 3.1.: Protokoll 2024-07
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Erhalt der Postfiliale am Harras
+- TOP 6.2.: Westpark
+- TOP 6.3.: Parkplatz Westpark Rosengarten
+- TOP 6.4.: Abstellunarten von Escootern
+- TOP 6.5.: Missstand und Ratte bei der Wertstoffinsel Luise Kiesselbach-Platz Johann Clanze Straße
+- TOP 6.6.: Situation Drachensee-/Oetztaler Straße
+- TOP 6.7.: Baustelle Drachenseestraße zwischen Ötztaler und Ortlerstraße
+- TOP 6.8.: Antrag - dringend zusätzl. Geschwindigkeitswarnung - Zone 30 - Arnimstraße
+- TOP 6.9.: Eine Bitte und eine Frage
+- TOP 6.10.: Kinder- und Jugendbeteiligung
+- TOP 6.11.: Müllcontainer Schochenbergstraße / Pfrontener Platz
+- TOP 6.12.: Marmorbecken im Westpark
+- TOP 6.13.: Nachpflanzung der Bäume Fuggerstraße
+- TOP 6.14.: Geplante Flüchtlingsunterkunft Albert-Roßhaupter-Str.
+- TOP 6.15.: Schließung der Postfilialen in Sendling und Sendling-Westpark
+- TOP 6.16.: Sichtbehinderung Faberstraße Ausfahrt auf die Straße Am Westpark
+- TOP 6.17.: Anwohnerparkausweis Südliche Hansastraße
+- TOP 6.18.: Wertstoff-Sammelstelle am Distlholweg
+- TOP 6.19.: Sichtbehinderung auf Höhe der Ettalstraße
+- TOP 6.20.: Carsharing - Verwirrung in der Infosäule
+- TOP 6.21.: Verkehrsprobleme in der Siegesburger Straße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Caritas CV München / Erziehungsberatungsstelle Sendling / Westpark „70 Jahre Caritas Erziehungsberatung Sendling am 18.09.2024“ 1.000,00 € / AZ: 0262.0-7-0490
+- TOP 10.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße „Robotik-Workshop für die 4. Klassen vom 01.01.2025 – 31.07.2025“ 600,00 € / AZ: 0262.0-7-0497
+- TOP 10.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße „Workshop Sprach- und Kommunikationsförderung im Rahmen eines Erzähltheaterprojekts vom 01.10.2024 – 31.07.2025“ 1.200,00 € / AZ: 0262.0-7-0495
+- TOP 10.4.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße „Zuschuss zum Floßbau – Workshop für 2 von 5 dritten Klassen vom 01.03.2025 – 31.10.2025“ 1.000,00 € / AZ: 0262.0-7-0496
+- TOP 10.5.: (E) Stadtbezirksbudget Maibaumverein Sendling – Westpark e.V. „15 – Jahre Maibaumverein vom 18.10.2024 – 20.10.2024“ 3.000,00 € / AZ: 0262.0-7-0491
+- TOP 11.: Anträge
+- TOP 11.1.: Interims-Jugendzentrum für Sendling-Westpark zügig eröffnen
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderungen und Inklusionsbeauftragte
+- TOP 13.4: Delegierter aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.9.1.: Protokoll der öffentlichen Sitzung des Mieterbereits am 22.07.2024
+- TOP 13.10: Migrations und Integrationsbeauftragter
+- TOP 13.11: REGSAM Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 13.13: Weitere Berichte
+- TOP 13.13.1.: Ortstermin Trautmannstraße
+- TOP 13.13.2.: Geplante Umfrage Grünfläche / Gehweg Wessobrunner Straße und Antrag auf Gehwegerstellung
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Pilsenseestr.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.1.: Anhörung, 15-Jähriges Vereinsjubiläum, Grünanlage Luise-Kiesselbach-Platz
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, Ostteil, Spendenlauf Grundschule Fernpaßstraße
+- TOP 17.2.: Anhörung, Westpark, kleine Zirkuswiese, Marionetten Theater Maatz
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.1.: Evaluierung Stadtbezirksbudget -Abfrage Erfahrungen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.1.: Pilotphase für Foodtrucks auf dezentralen öffentlichen Plätzen
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 29.1.: Lärmaktionsplan 2024
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Perspektive München - Handlungsräume der Stadtentwicklung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Fristverlängerung Radabstellanlage Hansastraße
+- TOP 33.2.: Unerlaubte Fotos
+- TOP 33.3.: Entsiegelung des Parkstreifens in der Inninger Straße, von der Höglwörther bis zur Holzhausener Straße
+- TOP 33.4.: Das Baureferat Abteilung Straßenunterhalt informiert den Bezirksausschuss über mittelfristig grundhaft zu erneuernde Straßen im Stadtbezirk.
+- TOP 33.5.: Fürstenrieder-Straße: Anhörung bzw. Unterrichtung der betroffenen BAs bei baustellenbedingten Änderungen der Verkehrsführung
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Planung der Ausschreibung für August 2024
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 38.1.: Namens-Erläuterungsschild Ostmarkstraße
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Informationsveranstaltung für BA-Mitglieder zum Aufbau von Normalladeinfrastruktur
+- TOP 40.2.: Auswirkungen der Verkehrsmaßnahmen - Dieselfahrverbot, Tempo 30 - auf Umweltqualität und Verkehrssicherheit (Unfallzahlen)
+- TOP 40.3.: Behindertenparkplatz und Halteverbot Gethsemane-Kirche Wessobrunner Straße
+- TOP 40.4.: Fürstenrieder Straße: Erhebliche Gefährdung von Schülerinnen und Schülern am Fußgängerübergang vor den Gymnasien
+- TOP 40.5.: Verkehrslenkende Maßnahmen bei Sperrungen des Luise-Kiesselbachoder Heckenstaller Tunnels
+- TOP 40.6.: Fürstenrieder Straße: Verlängerung der Bushaltestelle Andreas-Vöst- Straße auf der Ostseite
+- TOP 40.7.: Antrag auf Taktverdichtung der Buslinie 63er und dem Schienenersatzverkehr für die U3 und U6 zwischen dem 12. Juni und 30. Juli 2023
+- TOP 40.8.: Fristverlängerung Parkplatzsituation in der Martin-Behaim-Straße
+- TOP 40.9.: Fürstenrieder Straße: Temporäre Busspur Richtung Norden zwischen Meier-Helmbrecht-Straße und nördlich Andrea-Vöst-Straße
+- TOP 40.10.: Begleiterscheinungen des Oktoberfests / Bus-Parken in der Tübinger Straße
+- TOP 40.11.: Erweiterung der Parklizenzgebiete Sendling-Westpark
+- TOP 40.12.: Antwortschreiben BA 7-MIP-Beschluss
+- TOP 40.13.: Fristverlängerung Konzept zur Priorisierung des ÖPNV während des Baus der TWT
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Zwischenmitteilung Mit Seniorenbriefen die gesellschaftliche Teilhabe der älteren Generation verbessern
+- TOP 46.2.: Interims-Jugendtreff Sendling-Westpark
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 47.1.: Angebot Nachtspaziergänge 2024
+- TOP 47.2.: Aufkleber auf Müllcontainer
+- TOP 47.3.: Wertstoff-Sammelstelle am Distlhofweg
+- TOP 47.4.: MVHS und Stadtbibliothek am Harars
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 50.1.: Infoschreiben Anhörungsfristen
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweis Elternbeirat Grundschule Fernpasstrasse
+- TOP 51.2.: Verwendungsnachweis Leocor
+- TOP 51.3.: Verwendungsnachweis SV 1880
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Gaststättenübernahme Siegenburger Str.
+- TOP 53.2.: Gaststättenübernahme Ehrwalder Str.
+- TOP 53.3.: Bescheid, Westpark, Holzrundhütten, Märchenerzählungen im Westpark
+- TOP 53.4.: Bescheid, Westpark, Seebühne, Meskel-Kreuzfindungstag
+- TOP 53.5.: Bescheid, Krüner Platz, Tausch Tour
+- TOP 53.6.: Bescheid, Westpark, Theatron, Konzert der städtischen Sing- und Musikschule
+- TOP 53.7.: Bescheid, Westpark, Eingangsrondell Preßburger Straße, Nachbarschaftsfest
+- TOP 53.8.: Anzeige, Am Rosengarten, Westendstraße; Abrennen eines Feuerwerks
+- TOP 53.9.: Verlängerung Bescheid, am Heckenstaller, Mädchenbus
+- TOP 53.10.: Bescheid, Westpark Seebühne, Vereinsfest und Präsentation Volkstänze Schwarzmeerkulturverein
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Landaubogen Entfernung Behindertenparkplatz
+- TOP 56.2.: Sanierung der Gehbahn auf der nördlichen Fahrbahnseite Nebelhornstr.
+- TOP 56.3.: Sichthaltverbot für den Radverkehr Johann-Clanze-Straße
+- TOP 56.4.: Halteverbot gegenüber der TG-Zufahrt Distlhofweg
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 58.1.: Inbetriebnahmen von Bildungseinrichtungen 2024
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Erhaltungssatzung „Sendling-Westpark“ Euckenstr.
+- TOP 62.2.: Erhaltungssatzung „Sendling-Westpark“ Ohlstadter Str.
+- TOP 62.3.: Zweckentfremdung Ohlstadter Str.
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Adi-Maislinger-Straße
+- TOP 63.2.: Sachbericht Dschungelpalast Sommerfest_2024
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Erweiterung des Mobilfunkstandortes
+- TOP 12.6.1.: Einladung Parks und Grünanlagen
+- TOP 12.1.1.: Einladung UA BSU
+- TOP 12.3.1.: Einladung UA Haushalt
+- TOP 12.6.2.: Protokoll PuG
+- TOP 12.4.1.: Protokoll SuK
+- TOP 10.6.: (E) Stadtbezirksbudget Binario 11 Brechts meets ... vom 13.09. -01.11.2024 3.600,00€; Az. 0262.0-7-0493
+- TOP 12.2.1.: Protokoll UA-BuS
+- TOP 12.5.1.: Protokoll MuW
+- TOP 13.12.1.: Bericht des Seniorenbeauftragten für August
+- TOP 13.13.3.: Belegungsdichte A-R-Str 22
+- TOP 13.13.4.: Schreiben Anwohner A-R-Str 22
+- TOP 12.1.2.: Prokokoll UA BSU
+- TOP 12.3.2.: Protokoll HHA
