@@ -1,0 +1,129 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2024-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8098261
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8098261
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürger*innenanliegen
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales und Bildung
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Finanzierung des Jahresempfangs für die sozialen Einrichtungen aus dem Budget für eigene Veranstaltungen
+- TOP 2.2.: (E) Stadtbezirksbudget Mittagsbetreuung 5 am Ackermannbogen, Gertrud-Bäumer-Schule e.V. Friedliches Miteinander vom 01. - 30.11.2024 1.500,00 Euro, Az.: 0262.0-4-0527
+- TOP 2.3.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Stadtpiraten e.V. Anschaffung eines Wärmepumpentrockners und eines Staubsaugers 859,98 Euro, Az.: 0262.0-4-0528
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: a) MobilSpiel-Fest 2024 b) Frühlingsfest für Senior*innen am 16.05.2024 im ASZ Schwabing West c) AktivFerien am Ackermannbogen vom 21. bis 24.05.2024
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP C: Bauen und Wohnen
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Lärm- und Luftqualitätsmessungen an der Kreuzung Hohenzollern-/ Schleißheimer Straße – Einstufung der Wohnlage im Mietspiegel ändern (Antwort des Sozialreferats auf weitergeleitetes Bürgerinnenanliegen, TOP C 1.1 07/24)
+- TOP 3.2: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.2.1.: Perspektive München – Handlungsräume der Stadtentwicklung; Sachstand und Weiterentwicklung
+- TOP 3.3: Aktuelle Bauanträge - Meldelisten der LBK
+- TOP 3.3.1.: Erstanträge KW 28 – 33 sowie Tektur KW 30; Vorbescheide KW 32
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP D: Mobilität und Verkehr
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürgerin: Fußgängerampel Belgrad-/Ecke Rümannstraße
+- TOP 1.2.: Bürgerin: Geh- und Radwege beim Schneeräumen priorisieren
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Änderungen im Parklizenzgebiet West-Schwabing: a) Hiltenspergerstraße: Bewohnerparken zwischen Krumbacher- und Georgenstraße b) Absolute Haltverbote in der Keuslinstraße zur Erleichterung der Müllabfuhr
+- TOP 2.2.: Beschilderung an der Grundschule Infanteriestraße: Gefahrenzeichen / 136 StVO und Zusatzzeichen „Schule“
+- TOP 2.2.1: Grundschule Infanteriestraße: Mehr Verkehrssicherheit am Fußgängerüberweg
+- TOP 2.3.: Verbreiterung der Geh- und Radwege in der Franz-Joseph-Straße (Bitte des Baureferats um nochmalige Beschlussfassung zu einer BV-Empfehlung aus dem Jahr 2019 – damalige Nachfrage des BA durch Beschlussvorlage zur Tramnordtangente erledigt)
+- TOP 2.3.1: (E) Verbreiterung der Geh- und Radwege in der Franz-Joseph-Straße (Antrag 3) Empfehlung Nr. 14-20 / E 02843 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 10.10.2019
+- TOP 2.4.: „Benyou Bikes“, Elisabethstr. 39: Antrag auf eine Fahrradabstellfläche
+- TOP 2.5.: (E) Erneuerung der Radwege in der Elisabeth- und Franz-Joseph-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Eigenständige Festlegung der Bewohnerparkgebühren durch die Stadt München (Antwort des Mobilitätsreferats auf weitergeleitetes Bürgerinnenanliegen, TOP D 1.1 07/24)
+- TOP 3.2: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Vollsperrung der Agnesstraße wegen Fernwärmearbeiten (22.07. bis 29.11.2024)
+- TOP 3.2.2.: Vollsperrung der James-Loeb-Straße vom 29.07. bis 09.09.2024 (Verlegen einer Gasleitung)
+- TOP 3.2.3.: Parkraummanagement: Nächtliches Bewohnerparken in der Deidesheimer Straße
+- TOP 3.2.4.: Arbeiten im Straßenraum: Scheidplatz (Ecke Belgradstraße/Parzivalstraße) und James-Loeb-Straße (Verlegung einer Gasleitung) - ÄNDERUNG
+- TOP 3.3: Arbeiten im Straßenraum
+- TOP 3.3.1.: Karl-Theodor-Straße Ecke Belgradstraße bei Haus Nr. 71: Anschluss von Fernwärmeleitungen
+- TOP 3.3.2.: Clemensstraße bei Haus Nr. 116: Einbau von Fernwärmeleitungen
+- TOP 3.3.3.: Angererstraße bei Haus Nr. 6: Anschluss von Fernwärmeleitungen
+- TOP 3.3.4.: Vorankündigung Kanalsanierungsarbeiten 2025 in der Winzerer-, Görres- und Infanteriestraße
+- TOP 3.4: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4.1.: (U) Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 3.4.2.: Mobilitätsstrategie 2035 Nachbarschaftsviertel in München Produkt 43512300 Strategie, Bezirksmanagement und Produktentwicklung Beschluss über die Finanzierung für das Jahr 2024 aus der Nahmobilitätspauschale
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Parkbuchten in der Winzererstraße unter Wasser
+- TOP 3.5.2.: Auswirkungen der Cannabislegalisierung
+- TOP 3.5.3.: Ausnahmegenehmigung Grünanlage am Scheidplatz
+- TOP 3.5.4.: Umgestaltung und Begrünung der Hohenzollernstraße
+- TOP E: Ökologie, Klimaschutz und öffentlicher Raum
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger: Verschmutzung des Gehwegs in der Gernoth-/Ecke Brunnerstraße durch Obstbaum
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Ökologie und Klimaschutz
+- TOP 2.1.1.: Karl-Theodor-Str. 92: Antrag auf Fällung eines Spitzahorns
+- TOP 2.1.2.: Belgradstr. 5-5a: Antrag auf Fällung eines Bergahorns
+- TOP 2.1.3.: Herzogstr. 48: Antrag auf Fällung einer Robinie
+- TOP 2.1.4.: Burgunderstr. 11-13: Antrag auf Fällung zweier Hainbuchen
+- TOP 2.2.: Öffentlicher Raum
+- TOP 2.2.1.: (E) Aufstellung einer Sitzbank an der Ecke Kurfürsten-/ Hohenstaufenstraße
+- TOP 2.2.2.: Temporäre Beleuchtung des Basketballplatzes im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Efeubewuchs an Bäumen in Wohnanlagen Bonner Str. 35 und Düsseldorfer Str. 18-18 b (Antwort der Unteren Naturschutzbehörde auf weitergeleitetes Bürgerinnenanliegen, TOP E 1.6 02/24)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällung einer serbischen Fichte Götzstr. 14
+- TOP 3.3: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Suchkreismitteilungen zu Mobilfunkanlagen: a) Versorgungsziel Luitpoldpark b) Versorgungsziel Nordendstraße
+- TOP F: Kultur und Wirtschaft
+- TOP 1.: Anträge und Bürger*innenanliegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Kultur
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Fast Fashion" Fast-Fashion Tanztheater vom 28.09. - 09.10.2024 2.000,00 Euro, Az.: 0262.0-4-0530
+- TOP 2.2: Wirtschaft
+- TOP 2.2.1.: Pilotphase für Foodtrucks auf dezentralen öffentlichen Plätzen
+- TOP 2.2.2.: „VALLONE GmbH“, Belgradstr. 19: Antrag auf Aufstellung einer Sitzgelegenheit
+- TOP 2.2.3.: (E) Eröffnung Elisabethmarkt: Auch Gegner der Modernisierung zu Wort kommen lassen
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Elisabethplatz: Eröffnung des neuen Marktes am 13.09.2024
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget: Informationen zu bereits bewilligten Zuschüssen
+- TOP 3.2.1.: BA-Budget: Informationen zu bereits bewilligten Zuschüssen (Verwendungsnachweise, Sachberichte) a) „see the music – and dance!“ vom 01.-30.06.2024 b) „Walpurgisnacht“ am 30.04.2024
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.3.1.: „Ello Rollator Campagne“ in der Lothstr. 29 zwischen 19.08.2024 und 21.08.2024
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 3.4.1.: Schank- und Speisewirtschaft "Bravo Grande" (ehemalig "Heimwerk"), Friedrichstr. 27
+- TOP 3.5: Veranstaltungsgenehmigungen und Versammlungsanzeigen
+- TOP 3.5.1.: Genehmigungsbescheid für das Sportfest im Luitpoldpark am 25.07.2024
+- TOP 3.5.2.: Genehmigungsbescheid für den Schwabinger Präventionstag und Sommerfest des Münchner Blaulicht e. V. am 03.08.2024
+- TOP 3.5.3.: Genehmigungsbescheid für das Straßenfest „Agnes 9“ am 07.09.2023
+- TOP 3.6: Stadtratsbeschlüsse und Beschlussvorlagen
+- TOP 3.7: Sonstige Unterrichtungen
+- TOP 3.7.1.: Übermäßig viele Kioske im Viertel
+- TOP G: BA-Angelegenheiten
+- TOP 3.5.5.: Änderung des stellvertretenden zuständigen BA-Ansprechpartners bei der MVG
+- TOP H: Termine
+- TOP 2.3.2.: München Marathon am 13.10.2024 im gesamten Münchner Stadtgebiet
+- TOP 1.1.: Bürgerin: Eröffnung Elisabethmarkt (zu TOP F 2.2.3 und F 2.3.1)
+- TOP 3.1.1.: Raumüberlassung Sophie-Scholl-Gymnasium an Willi-Graf-Gymnasium (Antworten von Bürgermeisterin Dietl zu weitergeleitetem Schreiben einer Bürgerin, TOP B 1.1 06/24 sowie des Referats für Bildung und Sport zum Fragenkatalog des Elternbeirats, TOP B 3.1.1 07/24)
