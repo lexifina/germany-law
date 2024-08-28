@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-08-28T19:03:00+02:00
+- Ende: 2024-08-28T20:22:00+02:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22103
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22103
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00335677.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil/1-Neuf. http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00336203.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht aus dem Jugendrat
+- TOP 2: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 3: Bürgerantrag gemäß § 24 GO NRW: Beschilderung Luisenviertel - geändert beschlossen
+- TOP 4: Bürgerantrag gemäß § 24 GO NRW: Ausweisung eines Radfahrstreifens auf der Neumarkstraße in West-Ost-Richtung - ungeändert beschlossen
+- TOP 5: Bürgerantrag gemäß § 24 GO NRW: Freigabe der Wülfrather Str. für den Radverkehr in beide Richtungen - ungeändert beschlossen
+- TOP 6: Beanstandung eines Beschlusses der Bezirksvertretung
+- TOP 6.1: Bau und den Betrieb eines Taubenhauses an der Nordbahntrasse - Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 7: Einbahnstraßenfreigaben für den gegenläufigen Radverkehr - Elberfeld Bereich Ostersbaum - vertagen
+- TOP 8: Freigaben von Einbahnstraßen für den gegenläufigen Radverkehr im Bereich des Luisenviertels und des Islandufers - ungeändert beschlossen
+- TOP 9: Antrag auf Erteilung einer Sondernutzungserlaubnis für die Veranstaltung "Tag der offenen Tür" der Diakonie - ungeändert beschlossen
+- TOP 10: Veranstaltung "Eröffnungsfeier der mobilen Beratungsstelle" am 04.09.2024 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 11: Neue Friedrichstr. 43 - Antrag auf Erteilung einer Sondernutzungserlaubnis für außengastronomische Zwecke auf öffentlicher Parkfläche - ungeändert beschlossen
+- TOP 12: Straßenbauprogramm im Stadtbezirk Elberfeld - Operatives Bauprogramm - ungeändert beschlossen
+- TOP 13: Auswahlverfahren für die Veranstalter der Weihnachtsmärkte in Wuppertal-Elberfeld und Wuppertal-Barmen für die Jahre 2025-2029 - ungeändert beschlossen
+- TOP 13.1: Änderungsantrag der SPD Fraktion zu VO/0863/24 - Auswahlverfahren für die Veranstaltung der Weihnachtsmärkte in Wuppertal-Elberfeld und Wuppertal-Barmen für die Jahre 2025 - 2029 - abgelehnt
+- TOP 14: Neugestaltung der Friedrich-Engels-Allee zwischen Brücke Kluse und Einmündung Bendahler Straße - ungeändert beschlossen
+- TOP 15: Fördermaßnahmen für das OGS-Investitionsprogramm - Schwerpunkt Ausstattung - ungeändert beschlossen
+- TOP 16: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4 - ungeändert beschlossen
+- TOP 17: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Hof- und Hausflächen in ausgewählten Stadtteilen ("Hof- und Fassadenprogramm") - ungeändert beschlossen
+- TOP 18: St. Anna Gymnasium - Einrichtung einer Schulstraße - Entgegennahme ohne Beschluss
+- TOP 19: Sachstandsbericht zur Baumaßnahme Elberfeld 2030 - Entgegennahme ohne Beschluss
+- TOP 20: Fällung von Einzelbäumen - Auslichtung von Grünanlagen 2024/2025 - Entgegennahme ohne Beschluss
+- TOP 21: Fahrplanwechsel Herbst 2024 (06.10.2024) - Entgegennahme ohne Beschluss
+- TOP 22: 4. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 23: Standortsuche Zentralbibliothek - Entgegennahme ohne Beschluss
+- TOP 24: Jahresbericht des Inklusionsbüros 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 25: Anträge
+- TOP 25.1: Verbesserte Nutzung des Laurentiusplatzes - Antrag der SPD Fraktion
+- TOP 25.1.1: Verbesserte Nutzung des Laurentiusplatzes - Ergänzungsantrag - ungeändert beschlossen
+- TOP 25.2: Stelen der Forschung - Antrag der CDU Fraktion - geändert beschlossen
+- TOP 26: Freie Mittel
+- TOP 26.1: Antrag des Vereins Wuppertaler Kinder- und Jugendtheater e.V.
+- TOP 26.2: Antrag des Vereins Wupperfrauen e.V.
+- TOP 26.3: Antrag der Katholischen Jugendagentur Wuppertal gGmbH
+- TOP 26.4: Antrag des Kunst- und Kulturzentrums LOCH gUG
+- TOP 26.5: Antrag des Stadtbetriebs Stadtbibliothek
+- TOP 27: GFG Mittel
+- TOP 27.1: Spielgeräte für den Schulhof der Grundschule Reichsgrafenstr. 26 (Angelo-Roncalli-Schule), Wuppertal - ungeändert beschlossen
