@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss (40. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-08-28T18:00:00+02:00
+- Ende: 2024-08-28T22:35:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQoVPBa2VqeAWQOkjtQGKiQ
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5854
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXuMproO5zpdTJsJbE-Z4zIHAFzrZt0381TMcNVtOlBp/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_28.08.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.06.2024
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 3.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 7/2024; Bürgerantrag vom 28.06.2024 "Neustart des Beirates für Menschen mit Behinderungen (früher Behindertenbeirat) Stadt Gronau" - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 8/2024; Bürgerantrag vom 12.08.2024 "Verkehrliche Maßnahmen im Kreuzungsbereich Heerweg / An der Eßseite sowie auf dem Heerweg in Höhe der Pater-Diekmann-Straße" - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der CDU-Fraktion im Rat der Stadt Gronau Antrag zur Prüfung der Voraussetzungen eines Ausschreibungsverfahrens für das Germania-Gebäude und das Germania-Areal - Einstimmig, 0 Enthaltungen
+- TOP 5.: Antrag der Fraktion GAL/LINKE vom 01.02.2023; Probemöglichkeiten für Chöre und Kapellen - Unterstützung von lokalen Musikschaffenden - Einstimmig, 0 Enthaltungen
+- TOP 5.1: Antrag der Fraktion GAL/LINKE vom 01.02.2023; Probemöglichkeiten für Chöre und Kapellen - Unterstützung von lokalen Musikschaffenden
+- TOP 6.: Digitale Lichtbilderstellung für den Antragsprozess elektronischer Dokumente (Personalausweise und Reisepässe) ab dem 01.05.2025; Anschaffung zweier Aufnahmesysteme für den Rathaus-Service in Gronau und Epe - 16 Jastimmen, 1 Neinstimme, 0 Enthaltungen
+- TOP 7.: Sachstandsbericht Projektentwicklung Hertieareal und Kurt-Schumacher-Platz
+- TOP 8.: Bewirtschaftung des Parkplatzes im Hertieareal - 15 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Historisches Rathaus an der Bahnhofstrasse - 13 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 10.: Neubau und Sanierung der Bernhard-Overbergschule - 14 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 10.1: Neubau und Sanierung der Bernhard-Overbergschule Hier: Schreiben des Heimatverein Epe e.V. vom 06.08.2024
+- TOP 11.: Sachstandsbericht Martin-Luther-Schule - Einstimmig, 0 Enthaltungen
+- TOP 12.: Sachstandsbericht zum Planungsstand Neubau/Umbau von Schulbaumaßnahmen - 13 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 12.1: Sachstandsbericht zum Planungsstand Neubau/Umbau von Schulbaumaßnahmen
+- TOP 13.: Vorbereitung der Erarbeitung eines integrierten städtebaulichen Entwicklungskonzepts für die Innenstadt von Gronau als Grundlage für die Städtebauförderung - Einstimmig, 2 Enthaltungen
+- TOP 14.: Änderung des Gesellschaftsvertrages der Wirtschaftsförderungsgesellschaft für den Kreis Borken mbH - Einstimmig, 1 Enthaltung
+- TOP 15.: Erlass eines Betrauungsaktes für die Stadtwerke Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass eines Betrauungsaktes für die Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 0 Enthaltungen
+- TOP 17.: Erlass eines Betrauungsaktes für die Kulturbüro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 18.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 19.: Beteiligungsbericht 2022 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 20.: Budgetbericht für das II. Quartal 2024
+- TOP 21.: Kündigung von Mietverträgen von als Notunterkünften genutztem Wohnraum im Rahmen der Haushaltskonsolidierung
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Veränderung der Standards bei Besprechungen
+- TOP 23.: Anfragen
+- TOP 23.1: Geldautomaten der Sparkasse Westmünsterland an der Enscheder Str. / Königstr. (Anfrage von RM Krause)
+- TOP 23.2: Wertstoffhofzufahrt und ZBU-Gärtnerei (Anfrage von RM Stenau-van Wüllen)
+- TOP 23.3: Rückschnitt und Reinigung von Pflanzbeeten, Bahnübergängen und Gehwegen (Anfrage von RM Buchholz)
+- TOP 23.4: Brötchen bei Ratssitzungen (Anfrage von RM Drees)
+- TOP 23.5: Beschilderung an der Sparkasse (Anfrage von RM Gabbe)
+- TOP 23.6: Verkehrszählung in Epe (Anfrage von RM von Borczyskowski)
+- TOP 23.7: Markt in Gronau und Epe (Anfrage von RM Buskase)
+- TOP 23.8: Nutria an der Hörster Str. / LAGA-Gelände (Anfrage von RM Dzietko)
