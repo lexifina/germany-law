@@ -1,0 +1,21 @@
+# Neubau und Sanierung der Bernhard-Overbergschule
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 287/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-08-28
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQ91bhnWjXUK11ppCiWrkEg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17500
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Neubau und Sanierung der Bernhard-Overbergschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZKUYxvsjRCT6qmOr-43__vQxg6epp0avGNi_s6ucpO0/Beschlussvorlage_287-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1: Präsentation B. Overbergschule Ausschuss 26.08.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWyPohbxBdyiK2R0QPZH8bUNXv3h-COW8nRMqwt7s53D/Anlage_1-_Praesentation_B._Overbergschule_Ausschuss_26.08.2024.pdf
+- Anlage: Beschlussvorlage (Anlage 2: Präsentation Fassade) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTfr5Fwzhjct6syZ4vBCseEU1stfy6TqwW13ygzzxTxl/Anlage_2-_Praesentation_Fassade.pdf
+- Anlage: Beschlussvorlage (Anlage 3: Protokoll Raumluftmessung Stand Juli 2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWhEb1e0BYvbvUfGNovYMya23ZckVHlboKAQQrYJ3Fah/Anlage_3-_Protokoll_Raumluftmessung_Stand_Juli_2024.pdf
+- Anlage: Beschlussvorlage (Anlage 4: Präsentation Einsparvorschlag) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRk7oFYtR3ZvaL0nJyYduKOrFhjSCDg6WfHw2FBajJes/Anlage_4-_Praesentation_Einsparvorschlag.pdf
+- Anlage: Beschlussvorlage (Anlage 5: Präsentation Zertifizierung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYcQw4YwIsmHjdsfhqks9gDpiXtyDmRD8z1sk9fR3GPb/Anlage_5-_Praesentation_Zertifizierung.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 4 PBD v. 26.08.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaePxnPjCJ1R2KhDXPFZwFUQ-IESwR6x-hHLUv3Yrl-7/Auszug_TOP_4_PBD_v._26.08.2024.pdf
+- Anlage: Beschlussvorlage (Auszug TOP 4 SBK v. 26.08.2024) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZafAMAuPCqnfqHdxeaAD3J1Q2Rarz9ADi2-m9VeHuzO8/Auszug_TOP_4_SBK_v._26.08.2024.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5852 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6138 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-147
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5854 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-65
