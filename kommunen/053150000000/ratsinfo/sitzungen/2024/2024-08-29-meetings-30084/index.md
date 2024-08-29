@@ -1,0 +1,86 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-08-29T17:00:00+02:00
+- Ende: 2024-08-29T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30084
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/30084
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Antrag gem. § 5 der Geschäftsordnung des Rates auf Durchführung einer aktuellen Stunde Aussetzung der weiteren Planung des neuen Stadtteils Kreuzfeld bis zur erfolgten verkehrlichen Erschließung Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP -: 0 Antrag gem. § 5 der Geschäftsordnung des Rates auf Durchführung einer aktuellen Stunde Asbestfund im Heinrich-Mann-Gymnasium Antrag der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage bezüglich Rückschnitt von überwuchernden Pflanzen auf dem Grasnelkenweg - Kenntnis genommen
+- TOP 7.1.2: Genehmigungsauflagen für Straßenfeste und ähnliche Feiern im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.3: Sachstandsanfrage für die Errichtung eines Zebrastreifens bzw. einer Lichtsignalanlage im Bereich Johannesstraße/ Mengenicherstraße - Kenntnis genommen
+- TOP 7.1.4: Schließung des Chorweilerbads aufgrund Personalmangel - Kenntnis genommen
+- TOP 7.1.5: Dauerlärm in Merkenich durch den Abriss der alten Leverkusener Autobahnbrücke - Kenntnis genommen
+- TOP 7.1.6: ÖPNV-Verbindungen der KVB im SB-Chorweiler - Kenntnis genommen
+- TOP 7.1.7: Fährboot-Ersatz für die Rheinfähre zwischen Köln-Langel und Leverkusen-Hitdorf - Kenntnis genommen
+- TOP 7.1.8: Wiederaufnahme und Fortführung des Fährdienstes zwischen Langel und Hitdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zur Verbesserung der Sauberkeit und Instandhaltung im Bereich der Einkaufs-Passage und des Busbahnhofs in Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Probleme mit S-Bahnlinie S11 in Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Anfrage zur aktuellen Situation und Zukunft des Strandbads Escher See / Monkey's Island Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Die Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.4: Marode Sitzbänke Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Asbestfund im Heinrich-Mann-Gymnasium Anfrage der AfD-Fraktion - zurückgestellt
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Einrichtung eines Runden Tisches Mobilität/ÖPNV im Stadtbezirk Chorweiler Interfraktioneller Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis90/Die Grünen und der Fraktion Die Linke und Lilo Heinrich - ungeändert beschlossen
+- TOP 8.3.2: Umsetzung des Schulwegssicherungskonzeptes in Köln Worringen Antrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 8.3.3: Einrichtung einer Geschwindigkeitsbegrenzung BAB1 Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.4: Einrichtung eines runden Tisches "Runder Tisch Müllproblematik" Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßenbaumkonzept Chorweiler - zurückgestellt
+- TOP 9.1.2: Beschlussvorlage für das Fahrradstraßenkonzept Chorweiler - ungeändert beschlossen
+- TOP 9.1.3: Widmung der Brombeergasse von Alte Neusser Landstraße bis Schmaler Wall in Köln-Worringen - ungeändert beschlossen
+- TOP 9.1.4: Öffentlichkeitsbeteiligung zur Erstellung einer Bewegungsstation in Lindweiler - ungeändert beschlossen
+- TOP 9.1.5: Öffentlichkeitsbeteiligung zur Erstellung einer Bewegungsstation in Esch - ungeändert beschlossen
+- TOP 9.1.6: Entwurf der Bewegungsstation in Merkenich - geändert beschlossen
+- TOP 9.1.7: Neue Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) für den Zeitraum 01.10.2024 bis 28.02.2025 - ungeändert beschlossen
+- TOP 9.1.8: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 9.2.2: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 9.2.3: Entwicklung des neuen Stadtteils Kreuzfeld - hier: Bedarfsfeststellungsbeschluss für Planungsphase Technische Masterplanung - ungeändert beschlossen
+- TOP 9.2.4: Nutzungs- und Entgeltordnung für die Nutzung von Schulraum für nichtschulische Zwecke einschließlich der Allgemeinen Nutzungsbedingungen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Beantwortung einer Anfrage der FDP-Fraktion betreffend "Sachstand Maßnahmenpaket für die Sanierung und Neubau von Schulsporthallen - aus der Sitzung vom 11.03.2024 (AN/0174/2024) - Kenntnis genommen
+- TOP 10.2.2: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - Kenntnis genommen
+- TOP 10.2.3: (Neu-)Aufstellung der verkehrlichen Bedarfspläne des Landes NRW - Kenntnis genommen
+- TOP 10.2.4: Unfallhäufungen des Jahres 2023 und tödliche Verkehrsunfälle im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.5: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 10.2.6: Status quo- und Chancen- & Mängel-Analyse "Besser durch Köln. Der nachhaltige Mobilitätsplan" - Kenntnis genommen
+- TOP 10.2.7: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.8: Ämterübergreifende Zusammenarbeit bei Projekten im öffentlichen Raum - Stadtplanungsamt (61) / Amt für Straßen und Radwegebau (66) - Kenntnis genommen
+- TOP 10.2.9: Qualitätsbericht 2023 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.10: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.11: Mitteilung Kreuzfeld - Sachstand Technische Masterplanung, weiteres Vorgehen und Zeitplanung - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Sperrung des Fußweges seitlich des Hauses Haselnussweg 5 - Kenntnis genommen
+- TOP 11.1.2: Sanierung des Schwimmbads in Chorweiler - Kenntnis genommen
+- TOP 11.1.3: Weiterbetrieb des blauen Containergebäudes an der KGS Lebensbaumweg in Köln-Heimersdorf - Kenntnis genommen
+- TOP 11.1.4: Fühlinger See Veranstaltungsübersicht 2023 - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
