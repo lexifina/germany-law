@@ -1,0 +1,60 @@
+# 29. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-08-29T17:00:00+02:00
+- Ende: 2024-08-29T19:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/92
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13753
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13753
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00554435.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3: Berichte
+- TOP 3.1: Kindertagesbetreuungsbericht 2024 - zur Kenntnis genommen
+- TOP 3.2: Bebauungsplan Nr. 619 - Entwurf zur Veröffentlichung - zur Kenntnis genommen
+- TOP 3.3: Radverkehrsförderung in Münster – Ein Überblick - zur Kenntnis genommen
+- TOP 4: Anhörungen
+- TOP 4.1: Sachstand und priorisiertes Umsetzungskonzept zum Fahrradnetz 2.0 - mehrheitlich beschlossen
+- TOP 4.2: Veloroute 12 Telgte - Münster, Abschnitt 11 Kötterstraße: Umgestaltung zur Fahrradstraße Basis - einstimmig geändert beschlossen
+- TOP 4.3: Veloroute 12 Telgte – Münster, Abschnitt 7 Dingstiege zwischen Schleuse und Wilhelmshavenufer: Umgestaltung zur Fahrradstraße Basis - einstimmig beschlossen
+- TOP 4.4: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - mehrheitlich beschlossen
+- TOP 4.5: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - einstimmig beschlossen
+- TOP 4.6: Baugebiet "Handorf - Hobbbeltstraße / Kirschgarten / Heriburgstraße - Quartierskonzept der Wohn- und Stadtbau - einstimmig beschlossen
+- TOP 4.7: Schulentwicklungsplanung Primarstufe, geänderte bzw. neue Beschlussfassung - einstimmig geändert beschlossen
+- TOP 4.8: Gewährung städtischer Betriebs-, Miet- und Pachtkostenzuschüsse für Sportvereine mit vereinseigenen Sportstätten - einstimmig beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Sanierung von Spielplätzen im Stadtbezirk Münster-Ost-Festlegung der Reihenfolge für das Haushaltsjahr 2024 und 2025 - Planungs- und Baubeschluss für den Spielplatz Gelmerheide - einstimmig beschlossen
+- TOP 6: Fristgerecht eingegangene Anträge
+- TOP 6.1: Verbesserung vorhandener Radweg von Handorf nach Wolbeck - einstimmig beschlossen
+- TOP 6.2: Dialogdisplays in Mauritz Ost - einstimmig beschlossen
+- TOP 6.3: Kein absolutes Halteverbot am Kirschgarten - mehrheitlich beschlossen
+- TOP 7: Fristgerecht eingegangene Anregungen und Anfragen
+- TOP 7.1: Sammelbehälter für Hundekotbeutel am Birkenweg - eingebracht
+- TOP 7.2: Verkehrssicherheit auf dem Weg am Spielplatz Hans-Bredow-Weg erhöhen - eingebracht
+- TOP 7.3: Wohnmobilstellplatz Wilhelmshafenufer - eingebracht
+- TOP 7.4: Untersuchung Verkehrsknotenpunkt B 51 Kreuzung Gartencenter Handorf - eingebracht
+- TOP 7.5: Einsatz von Regenwasserzisternen im Baugebiet Kirschgarten einplanen - eingebracht
+- TOP 7.6: Anfrage zu kritischen Straßennamen im Stadtteil Münster-Ost - eingebracht
+- TOP 7.7: Umgestaltung der Ortsfahrbahn Wolbecker Straße zwischen Mühlhäuser Straße und Hegerskamp - eingebracht
+- TOP 7.8: Leerstand von Wohngebäuden - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anträgen, Anregungen und Anfragen
+- TOP 8.1: Bebauungsplan 562, Pflanzung einer Obstwiese im Neubaugebiet Kirschgarten - zur Kenntnis genommen
+- TOP 8.2: Alter Mühlenweg zwischen Handorf und Wolbeck als Fahrradstraße ""BASIS" klassifizieren - zur Kenntnis genommen
+- TOP 8.3: Durchfahrverbot für LKW (Anlieger frei) für Stichstraße Hobbeltstraße zur neuen Kita - zur Kenntnis genommen
+- TOP 8.4: Prüfauftrag zur Verkehrsberuhigung im Stadtteilzentrum Handorf - zur Kenntnis genommen
+- TOP 8.5: Seniorengerechter Wohnraum in Gelmer - zur Kenntnis genommen
+- TOP 8.6: Tempo 30 auf der August-Schepers-Straße prüfen - zur Kenntnis genommen
+- TOP 8.7: Sicherheit für RadfahrerInnen und FußgängerInnen bei der Querung der Warendorfer Straße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.8: Radwegebenutzungspflicht Schmittingheide aufheben - zur Kenntnis genommen
+- TOP 8.9: Umgestaltung des Straßenraumes der Handorfer Straße - zur Kenntnis genommen
+- TOP 8.10: Glasfaserausbau in Münster-Ost - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anträge, Anregungen und Anfragen
+- TOP 10: Verschiedenes
