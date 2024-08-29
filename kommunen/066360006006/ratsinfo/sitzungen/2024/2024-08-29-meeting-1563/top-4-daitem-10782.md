@@ -1,0 +1,6 @@
+# TOP 4.: Freiwilligentag am 14.09.2024
+
+- Sitzung: Ortsbeirat Hirschhagen (13. Sitzung) (2024-08-29)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/10782
