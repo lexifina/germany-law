@@ -1,0 +1,64 @@
+# 29.Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-08-29T17:02:00+02:00
+- Ende: 2024-08-29T20:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13768
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13768
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00553594.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW - entfällt
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Umsetzung der Baumaßnahme aus V/0633/2020, Antrag A-W/0050/2015 (Neugestaltung des zentralen Bereiches der Sentruper Höhe (Waldeyerstraße) - beantwortet
+- TOP 4.2: Anfrage zum Prüfauftrag vom 14.05.2023 - A-W/0015/2023 - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Radverkehrsförderung in Münster – Ein Überblick - zur Kenntnis genommen
+- TOP 5.2: Kindertagesbetreuungsbericht 2024 - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung einer Trägervertretung für die städt. Kindertageseinrichtung Gievenbeck, Weitkampweg 1 - einstimmig geändert beschlossen
+- TOP 6.2: Gescherweg - Ausbau der Nebenanlagen im Bereich der Häuser 75-89 (Bebauungsplan Nr. 375) - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - einstimmig geändert beschlossen
+- TOP 7.2: 125. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 638 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.3: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - einstimmig beschlossen
+- TOP 7.4: Entwicklung Modellquartier südwestlich Steinfurter Straße - einstimmig beschlossen
+- TOP 7.5: Rüschhausweg/Von-Esmarch-Straße - Gievenbeck Mitte, Umgestaltung des öffentlichen Raumes - einstimmig beschlossen
+- TOP 7.5.1: Verkehrslenkende Maßnahmen auf dem Rüschhausweg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.6: Veloroute 6 Senden – Münster, Abschnitt 12 Tweehues / Niederort: Umgestaltung zur Fahrradstraße Basis - einstimmig beschlossen
+- TOP 7.7: Sachstand und priorisiertes Umsetzungskonzept zum Fahrradnetz 2.0 - einstimmig geändert beschlossen
+- TOP 7.8: Bredeheide - Ersatzneubau der Brücke über die A 1 durch die Autobahn GmbH - einstimmig beschlossen
+- TOP 7.9: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung - einstimmig geändert beschlossen
+- TOP 7.10: Trägerwechsel für die außerunterrichtlichen offenen Angebote an der Peter-Wust-Schule (OGS und BMB) - einstimmig beschlossen
+- TOP 7.11: Gewährung städtischer Betriebs-, Miet- und Pachtkostenzuschüsse für Sportvereine mit vereinseigenen Sportstätten - einstimmig beschlossen
+- TOP 7.12: Baubeschlussvorlage FWH Albachten - einstimmig beschlossen
+- TOP 7.13: Bikepark Steinfurter Straße - Planungs- und Baubeschluss - - einstimmig geändert beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Antrag Untersuchung Frischluftströme Kinderbachtal - Stellungnahme zur Kenntnis genommen
+- TOP 8.2: Neuer Farbanstrich für die Brücke "Schlautbogen" in Mecklenbeck - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.3: Fahrrad-Reparaturstationen für Mecklenbecker Fahrrad-Hotspots - eingebracht
+- TOP 8.4: Sukzessiver Prozess der Ortskerngestaltung in Nienberge - eingebracht
+- TOP 8.5: Erneuerung der Sitzbank an der Flamenstraße vor der Grundschulturnhalle in Nienberge - eingebracht
+- TOP 8.6: Verschmutzung und Gefahrensituationen am Bahnhaltepunkt Nienberge-Häger - Verkehrswegesicherheitspflicht wird seit Jahren vernachlässigt - eingebracht
+- TOP 8.7: Ausweitung der Halteverbotszone am Rüschhausweg - eingebracht
+- TOP 8.8: Sicherer Übergang auf der Hülshoffstraße in Nienberge - eingebracht
+- TOP 8.9: Geschwindigkeitsbegrenzung auf dem Rüschhausweg: - eingebracht
+- TOP 8.10: Pflegeeinrichtungen in Nienberge - vertagt
+- TOP 8.11: Rad- und Fußwegeverbindung zwischen Philippistraße und Gasselstiege - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Spielplätze inklusiv und barrierefrei gestalten - gemeinsames Spielen für Kinder mit und ohne Behinderungen ermöglichen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.2: Erhöhung der Verkehrssicherheit im Wohnquartier Goldenbergstraße / Schwarzer Kamp - Stellungnahme zur Kenntnis genommen
+- TOP 9.3: Prüfung der Verkehrssicherheit am Ortseingang Albachten / Oberort - Stellungnahme zur Kenntnis genommen
+- TOP 9.4: Ertüchtigung / Sanierung der Wegeverbindung zwischen Roxeler Straße und Sentruper Straße - vertagt
+- TOP 9.5: Kreuzung Schmeddingstraße/Waldeyerstraße verkehrssicherer gestalten - Stellungnahme zur Kenntnis genommen
+- TOP 9.6: Ein sicherer Schulweg an der Boeselagerstraße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.7: Endlich auf der sicheren Seite - Tempo 30 für die Sendener Stiege - Stellungnahme zur Kenntnis genommen
+- TOP 9.8: Verlegung der Baustelle in der Ortsmitte von Sentrup - Stellungnahme zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
