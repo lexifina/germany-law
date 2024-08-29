@@ -1,0 +1,7 @@
+# TOP 5.1: Einrichtung einer Schulstraße / Schulwegsicherheit Grundschule Enger-Mitte
+
+- Sitzung: Ausschuss für öffentliche Sicherheit, Ordnung und Soziales (4. Sitzung) (2024-08-29)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/35556
+- Beratung: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/3724
