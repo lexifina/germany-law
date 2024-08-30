@@ -1,0 +1,58 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-08-30T16:00:00+02:00
+- Ende: 2024-08-30T18:30:00+02:00
+- Ort: Bürgerhaus Reisholz - Kappeler Straße 231
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25770
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25770
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 14.06.2024 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Unfallstatistik und Kriminalitätsentwicklung 2023 im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 6.4: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 6.5: Hoxbach - Hochwasserschutz Einbecker Straße (W-0006000000) - Bedarfsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 6.6: Errichtung einer Dependance der GGS Urdenbach an der Urdenbacher Allee 91 - Empfehlung einstimmig beschlossen
+- TOP 6.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A - einstimmig beschlossen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Bonner Straße, Umleitungsbeschilderung/- maßnahmen für den Fuß- und Radverkehr - Anfrage der Fraktion Bündnis 90/ Die Grünen - vertagt
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Aktuelle Anfragen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Nutzung der Dreifachsporthalle Brucknerstraße für Vereine - Anfrage der SPD-Fraktion - vertagt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6: Bäume in der Fußgängerzone Benrath - Interfraktioneller Antrag - einstimmig beschlossen
+- TOP 10: Verfügungsmittel
+- TOP 10.1: St Hubertus Kompanie im St. Sebastianus Schützenverein D.-Wersten 1925 - 100-jähriges Jubiläum 2025 - einstimmig beschlossen
+- TOP 10.2: Wir in Wersten e.V. - Rock am Bach 2024 - einstimmig beschlossen
+- TOP 10.3: Diakonie Düsseldorf, Ernst-Lange-Haus - Stadtteilfest "Kumm eruss" 2024 - einstimmig beschlossen
+- TOP 10.4: KGS Einsiedelstraße - Martinsfest - einstimmig beschlossen
+- TOP 10.5: St. Sebastianus Reiterkorps D-Wersten e.V. - Werstener Reitertag 2024 - einstimmig beschlossen
+- TOP 10.6: Benrather Schlossnarren - Karnevalskostüme für die Session 2024/25 - einstimmig beschlossen
+- TOP 10.7: Martinsfreunde Benrath Mitte e.V. - Martinszug 2024 - einstimmig beschlossen
+- TOP 10.8: KG "Reisholzer Quatschköpp e.V." - Sommerfest 2024 - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Installation eines Spiegels auf der Einsteinstraße - Beschluss der Bezirksvertretung 9 vom 14.06.2024; BV9/106/2024 - zur Kenntnis genommen
+- TOP 11.2: Denkmalbereichssatzung „Rathausviertel Benrath“ Vorlage 61/37/2017 - Nachtrag zur Beantwortung in der BV9 Sitzung am 02.02.2024; BV9/253/2023 - zur Kenntnis genommen
+- TOP 11.3: Humperdinckstraße - Beschluss der Bezirksvertretung 9 vom 14.06.2024; BV9/104/2024 - zur Kenntnis genommen
