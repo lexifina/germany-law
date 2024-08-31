@@ -51,3 +51,6 @@ Nummer | Gericht, Staatsanwaltschaft oder Bußgeldbehörde
 47. | Landratsamt des Vogtlandkreises
 48. | Sächsisches Oberverwaltungsgericht
 49. | Verwaltungsgericht Dresden
+50. | Staatsanwaltschaft Chemnitz
+51. | Jobcenter Chemnitz, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
+52. | Jobcenter Mittelsachsen, soweit es Aufgaben nach § 6 Absatz 1 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch wahrnimmt
