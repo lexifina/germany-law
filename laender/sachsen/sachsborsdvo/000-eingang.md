@@ -1,5 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Durchführung des Börsenrechts (Sächsische Börsenrechtsdurchführungsverordnung – SächsBörsDVO)
 Vom 6. November 2020
+Rechtsbereinigt mit Stand vom 31. August 2024
 Auf Grund
 – des § 4 Absatz 6 Satz 1 des Börsengesetzes vom 16. Juli 2007 (BGBl. I S. 1330, 1351) in Verbindung mit § 1 Nummer 1 der Zuständigkeitsübertragungsverordnung Börsenrecht vom 5. Januar 2009 (SächsGVBl. S. 2),
 – des § 6 Absatz 7 Satz 1 des Börsengesetzes vom 16. Juli 2007 (BGBl. I S. 1330, 1351) in Verbindung mit § 1 Nummer 2 der Zuständigkeitsübertragungsverordnung Börsenrecht vom 5. Januar 2009 (SächsGVBl. S. 2),

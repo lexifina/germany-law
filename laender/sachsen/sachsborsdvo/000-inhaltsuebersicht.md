@@ -26,7 +26,7 @@ Unterabschnitt 1 Wahl des Börsenrats
 § 22 Wahlergebnis
 § 23 Feststellung und Veröffentlichung des Wahlergebnisses
 § 24 Wahlanfechtung
-§ 25 Wegfall eines Bewerbers
+§ 25 Wegfall von Bewerbenden
 Unterabschnitt 2 Wegfall und Nachfolge eines Mitglieds des Börsenrats
 § 26 Wegfall und Nachfolge eines Börsenratsmitglieds
 Abschnitt 3 Sanktionsausschuss
@@ -46,7 +46,7 @@ Unterabschnitt 3 Verfahrensablauf
 § 37 Grundsatz des schriftlichen Verfahrens
 § 38 Mündliche Erörterung
 § 39 Beweismittel und Anhörung der Beteiligten
-§ 40 Mitwirkung von Zeugen und Sachverständigen
+§ 40 Mitwirkung von Zeuginnen, Zeugen und Sachverständigen
 § 41 Niederschrift
 § 42 Entscheidung
 Abschnitt 4 Kosten der Börsenaufsicht
