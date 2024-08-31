@@ -4,12 +4,12 @@ Abschnitt 1 Allgemeine Vorschriften
 § 2 Begriffsbestimmungen
 § 3 Zuständigkeit
 Abschnitt 2 Urlaub
-§ 4 Dauer des Urlaubes
+§ 4 Dauer des Erholungsurlaubes
 § 5 Wartezeit
 § 6 Anrechnung und Kürzung
 § 7 Antrag, Antritt und Verfall, Ansparung von Erholungsurlaub
-§ 8 Widerruf und Verlegung
-§ 9 Erkrankung während des Erholungsurlaubes
+§ 8 Finanzielle Abgeltung von Erholungsurlaub
+§ 9 Widerruf und Verlegung, Erkrankung
 § 10 Zusatzurlaub für Nachtdienst
 § 11 Dienstjubiläum
 § 12 Urlaub aus verschiedenen Anlässen
@@ -21,7 +21,7 @@ Abschnitt 3 Mutterschutz
 § 17 Mitteilungspflicht
 § 18 Weiterer arbeitszeitlicher Gesundheitsschutz, Ruheräume
 § 19 Weitere Gesundheitsschutzbestimmungen
-§ 20 Fortzahlung der Dienstbezüge
+§ 20 Fortzahlung der Besoldung
 § 21 Zuschuss bei Schwangerschaft und Entbindung während der Elternzeit
 § 22 Entlassung während Schwangerschaft und nach Entbindung
 § 23 Zuschuss bei Beendigung des Beamtenverhältnisses

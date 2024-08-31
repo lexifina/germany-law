@@ -1,2 +1,2 @@
-# Verordnung der Sächsischen Staatsregierung über den Urlaub, den Mutterschutz und die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Urlaubs-, Mutterschutz- und Elternzeitverordnung – Sächs-UrlMuEltVO)
-Rechtsbereinigt mit Stand vom 13. Mai 2021
+# Verordnung der Sächsischen Staatsregierung über den Urlaub, den Mutterschutz und die Elternzeit der Beamtinnen und Beamten sowie Richterinnen und Richter im Freistaat Sachsen (Sächsische Urlaubs-, Mutterschutz- und Elternzeitverordnung – SächsUrlMuEltVO)
+Rechtsbereinigt mit Stand vom 31. August 2024
