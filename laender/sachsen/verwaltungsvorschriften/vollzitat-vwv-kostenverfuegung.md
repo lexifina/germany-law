@@ -1,8 +1,8 @@
 # Vollzitat: VwV Kostenverfügung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.5
+- Datum: 2024-09-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14004.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.10.2023
+01.09.2024
 bis
-31.08.2024
+28.02.2025
 
 VwV Kostenverfügung
 
@@ -118,7 +118,7 @@ aa)
 bb)
 
 
-Der nach vollständiger Erfassung der Daten im Datensatz des automatisierten Kostenbearbeitungsprogramms und nach Freigabe dieses Datensatzes zu fertigende Aktenausdruck des Kostenansatzes gilt als Urschrift der Kostenrechnung nach § 24 Absatz 9 der Kostenverfügung. Er verbleibt bei den Sachakten der Anordnungsstelle.
+Der nach vollständiger Erfassung der Daten im Datensatz des automatisierten Kostenbearbeitungsprogramms und nach Freigabe dieses Datensatzes zu fertigende Aktenausdruck des Kostenansatzes gilt als Original der Kostenrechnung nach § 24 Absatz 9 der Kostenverfügung. Er verbleibt bei den Sachakten der Anordnungsstelle.
 
 
 cc)
@@ -190,19 +190,13 @@ Bei elektronischer Aktenführung wird ergänzend Folgendes bestimmt:
 a)
 
 
-Die elektronisch erzeugte Datei der Kostenrechnung im PDF-Format gilt als Urschrift der Kostenrechnung. Diese ist in der elektronischen Akte abzulegen.
+Die elektronisch erzeugte Datei der Kostenrechnung im PDF-Format gilt als Original der Kostenrechnung. Diese ist in der elektronischen Akte abzulegen.
 
 
 b)
 
 
-Anstelle der Unterschrift tritt bei in der elektronischen Akte aufzubewahrenden Dateien die qualifizierte elektronische Signatur.
-
-
-c)
-
-
-Soweit Vermerke oder Unterstreichungen auf Urschriften von Kostenrechnungen, Zahlungsanzeigen oder anderen zahlungsbegründenden Unterlagen anzubringen sind, ist ein Dokument zu erstellen und zur Sachakte zu nehmen, aus dem sich der zu verdeutlichende Sachverhalt ergibt.
+Soweit Vermerke oder Unterstreichungen auf Originalen von Kostenrechnungen, Zahlungsanzeigen oder anderen zahlungsbegründenden Unterlagen anzubringen sind, ist ein Dokument im PDF-Format zu erstellen und in der elektronischen Akte abzulegen, aus dem sich der zu verdeutlichende Sachverhalt ergibt, sofern ein entsprechender Vermerk oder eine entsprechende Unterstreichung nicht bereits auf den Originalen angebracht worden ist.
 
 
 II.
@@ -1216,9 +1210,9 @@ Fsn-Nr.: 32-V14.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Oktober 2023
+Fassung gültig ab:  1. September 2024
 
-Fassung gültig bis: 31. August 2024
+Fassung gültig bis: 28. Februar 2025
 
 Drucken/Speichern
 
@@ -1243,7 +1237,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14004.5
+https://www.revosax.sachsen.de/vorschrift/14004.6
 Stand vom
 18.11.2026
 
