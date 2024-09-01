@@ -34,6 +34,7 @@ Unterabschnitt 2 Einzelmaßnahmen, Videoüberwachung
 § 29 Zurückbehaltungsbefugnis, Ermächtigung Dritter zum Empfang von Zahlungen
 § 30 Datenerhebung durch den Einsatz technischer Mittel zur Bildaufnahme und -aufzeichnung
 § 31 Zuwiderhandeln gegen Einzelanordnungen
+§ 31a Waffen-, Schutzausrüstungs- und Vermummungsverbot
 Abschnitt 3 Polizeiverordnungen
 § 32 Verordnungsrecht
 § 33 Ermächtigung zum Erlass örtlich und zeitlich begrenzter Alkoholkonsumverbote
