@@ -154,7 +154,7 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 2135 | Jede Änderung einer Fahrtauglichkeitsbescheinigung | § 15 BinSchUO, § 96 Absatz 1 BinSchPersV | 32,20 |
 | 2136 | Jeder Vermerk über Abweichungen und Zulässigkeiten in der Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder Änderung der Bescheinigung über die Besatzung | §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. § 96 Absatz 1 BinSchPersV ES-TRIN Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5 | 32,20 |
 | 2137 | Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne vorausgehende Untersuchung | § 19 Absatz 5 BinSchUO | 32,20 |
-| 2138 | Prüfung und Siegelung einer Metalltafel | § 1.10 Nummer 2 BinSchStrO § 1.10a Nummer 1 RheinSchPV § 1.10a Nummer 1MoselSchPV § 1.10 Nummer 5 der Anlage A zur DonauSchPV Artikel 32.06 und 33.04 ES-TRIN | 14,85 |
+| 2138 | Prüfung und Siegelung einer Metalltafel | § 1.10 Nummer 2 BinSchStrO § 1.10a Nummer 1 RheinSchPV § 1.10a Nummer 1MoselSchPV Artikel 32.06 und 33.04 ES-TRIN | 14,85 |
 | 2139 | Sonstige Bescheinigungen auf Grund von nationalen Regelungen sowie von bilateralen oder internationalen Verträgen (z. B.: Bescheinigung zur Vorlage beim Schiffsregister, Ausrüsterbescheinigung, RZU) |  | 32,20 |
 | 214 | Flüssiggasanlage |  |  |
 | 2141 | Ausstellung, Änderung oder Erneuerung der Flüssiggas-Bescheinigung | BinSchUO Anhang II § 7.02 Nummer 5, § 7.03 Nummer 4 ES-TRIN Artikel 17.15 | 29,70 |
@@ -205,36 +205,36 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 40321 | Erstantrag |  | 171 |
 | 40322 | Neuantrag |  | 85,50 |
 | 5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit dem sonstigen Verhalten im Verkehr |
-| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2 BinSchStrO§ 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV§ 8.01 MoselSchPV§ 8.01 MoselSchPV |  |
+| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2, § 28.02 Nummer 5 BinSchStrO § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV § 8.01 MoselSchPV |  |
 | 5011 | für eine Reise |  | 74,40 |
 | 5012 | für ein Jahr oder mehrere Reisen |  | 148 |
 | 5013 | für mehrere Jahre |  | 297 |
 | 5014 | Zusatzgebühr bei erforderlicher Probefahrt |  | nach Zeitaufwand |
-| 502 | Erlaubnis eines Sondertransports | § 1.21 Nummer 2 Satz 1 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV § 1.21 Nummer 2 Anlage A zur DonauSchPV | 104 – 282 |
-| 503 | Erlaubnis von Veranstaltungen | § 1.23 Satz 1 BinSchStrO § 1.23 RheinSchPV § 1.23 MoselSchPV § 1.23 Anlage A zur DonauSchPV § 16 Absatz 1 TspV |  |
+| 502 | Erlaubnis eines Sondertransports | § 1.21 Nummer 2 Satz 1 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV | 104 – 282 |
+| 503 | Erlaubnis von Veranstaltungen | § 1.23 Satz 1 BinSchStrO § 1.23 RheinSchPV § 1.23 MoselSchPV § 16 Absatz 1 TspV |  |
 | 5031 | Sportliche |  | 104 – 330 |
 | 5032 | Sonstige |  | 78 – 252 |
 | 504 | Umladegenehmigung | § 1.25 Nummer 2 BinSchStrO | 120 – 240 |
 | 505 | Befreiung von |  |  |
-| 5051 | der Lichterführung beim Stillliegen | § 3.20 Nummer 4, § 3.23 Satz 3 BinSchStrO § 3.20 Nummer 4 RheinSchPV § 3.20 Nummer 4 MoselSchPV § 8.10 Anlage A zur DonauSchPV | 66,90 |
+| 5051 | der Lichterführung beim Stillliegen | § 3.20 Nummer 4, § 3.23 Satz 3 BinSchStrO § 3.20 Nummer 4 RheinSchPV § 3.20 Nummer 4 MoselSchPV | 66,90 |
 | 5052 | der Bezeichnung bestimmter stillliegender Fischereifahrzeuge und -geräte, Netze oder Ausleger | § 3.24 Nummer 3 BinSchStrO | 66,90 |
-| 5053 | der Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge | § 3.25 Nummer 3 BinSchStrO § 3.25 Nummer 3 RheinSchPV § 3.25 Nummer 3 MoselSchPV § 3.27 Nummer 3, § 3.41 Nummer 5 DonauSchPV | 66,90 |
-| 5054 | einer einsatzfähigen Wache | § 7.08 BinSchStrO § 7.08 RheinSchPV § 7.08 MoselSchPV § 8.14 DonauSchPV | 66,90 |
+| 5053 | der Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge | § 3.25 Nummer 3 BinSchStrO § 3.25 Nummer 3 RheinSchPV § 3.25 Nummer 3 MoselSchPV | 66,90 |
+| 5054 | einer einsatzfähigen Wache | § 7.08 BinSchStrO § 7.08 RheinSchPV § 7.08 MoselSchPV | 66,90 |
 | 5055 | der Bezeichnung bestimmter Großfanggeräte | § 8.11 Nummer 4 BinSchStrO | 66,90 |
 | 5056 | Befahrensverboten oder -beschränkungen; Erlaubnis zur Fahrt | § 1.25 RheinSchPV § 1.27 MoselSchPV | 66,90 |
 | 5057 | der vorgeschriebenen Geschwindigkeitsbegrenzung | § 1.26 Nummer 3 BinSchStrO § 1.25 RheinSchPV § 1.27 MoselSchPV | 66,90 |
-| 506 | Erlaubnis zur zusätzlichen Bezeichnung eines Sondertransports, sofern nicht als Auflagen bei 502 | § 1.21 Nummer 2 Satz 1 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV § 1.21 Nummer 2 Anlage A zur DonauSchPV | 66,90 |
-| 507 | Erlaubnis zum Gebrauchmachen von bestimmten Lichtern, Flaggen und Tafeln zum Schutz gegen Wellenschlag als Ausnahme | § 3.29 Nummer 2 Buchstabe b BinSchStrO § 3.29 Nummer 2 Buchstabe b RheinSchPV § 3.29 Nummer 2 Buchstabe b MoselSchPV § 3.48 Nummer 2 Buchstabe b DonauSchPV | 66,90 |
+| 506 | Erlaubnis zur zusätzlichen Bezeichnung eines Sondertransports, sofern nicht als Auflagen bei 502 | § 1.21 Nummer 2 Satz 1 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV | 66,90 |
+| 507 | Erlaubnis zum Gebrauchmachen von bestimmten Lichtern, Flaggen und Tafeln zum Schutz gegen Wellenschlag als Ausnahme | § 3.29 Nummer 2 Buchstabe b BinSchStrO § 3.29 Nummer 2 Buchstabe b RheinSchPV § 3.29 Nummer 2 Buchstabe b MoselSchPV | 66,90 |
 | 508 | Erlaubnis zur Schifffahrt durch Treibenlassen | § 1.25 RheinSchPV § 1.27 MoselSchPV | 66,90 |
-| 509 | Vorrecht auf Schleusung, soweit nicht durch Abgabentarife Vorschleusungsgebühren erhoben werden (Mosel) | § 6.29 Nummer 5 Satz 1 Buchstabe b BinSchStrO § 6.29 Buchstabe b RheinSchPV § 6.29 Nummer 2 Buchstabe b MoselSchPV § 6.29 Satz 1 Buchstabe b Anlage A zur DonauSchPV |  |
+| 509 | Vorrecht auf Schleusung, soweit nicht durch Abgabentarife Vorschleusungsgebühren erhoben werden (Mosel) | § 6.29 Nummer 5 Satz 1 Buchstabe b BinSchStrO § 6.29 Buchstabe b RheinSchPV § 6.29 Nummer 2 Buchstabe b MoselSchPV |  |
 | 5091 | für eine Reise |  | 48,30 |
 | 5092 | für ein Jahr |  | 193 |
 | 5093 | nach Fahrplanänderung |  | 48,30 |
 | 510 | Zuweisung eines beantragten, besonderen Liegeplatzes | § 1.25 Nummer 2 BinSchStrO | 55,80 |
 | 511 | Ausnahmen von |  |  |
-| 5111 | den Mindestabständen | § 7.07 Nummer 3 BinSchStrO, § 7.07 Nummer 3 RheinSchPV § 7.07 Nummer 3 MoselSchPV § 7.07 Nummer 3 DonauSchPV | 55,80 |
-| 5112 | den Bestimmungen über den Einsatz von Trägerschiffsleichtern und Verbänden | § 8.04, § 10.14, § 11.03 Nummer 2, § 12.03, § 13.03 Nummer 2, § 14.03 Nummer 1, § 16.03, § 18.03, § 19.03, § 20.14, § 21.03, § 22.03, § 23.03, § 24.03, § 25.03, BinSchStrO § 8.03 RheinSchPV § 8.04 MoselSchPV | 74,40 |
-| 5113 | den Bestimmungen über die Schifffahrt bei Hochwasser | § 10.11 Nummer 3, § 11.11 Nummer 3, § 12.11 Nummer 3, § 13.11 Nummer 1, § 16.11 Nummer 3, § 17.11 Nummer 3 und § 20.11 Nummer 3 BinSchStrO § 10.01 Nummer 5 RheinSchPV § 10.02 Nummer 1 MoselSchPV § 10.01 Nummer 2 DonauSchPV | 104 |
+| 5111 | den Mindestabständen | § 7.07 Nummer 3 BinSchStrO, § 7.07 Nummer 3 RheinSchPV § 7.07 Nummer 3 MoselSchPV | 55,80 |
+| 5112 | den Bestimmungen über den Einsatz von Trägerschiffsleichtern und Verbänden | § 8.04, § 10.14, § 11.03 Nummer 3, § 12.03 Nummer 3, § 13.03 Nummer 2, § 14.03 Nummer 1, § 16.03 Satz 1, § 18.03 Nummer 2, § 19.03 Nummer 2, § 20.14 Satz 2, § 21.03 Nummer 4, § 22.03 Nummer 3, § 23.03 Nummer 4, § 24.03 Nummer 3, § 25.03 Nummer 3, § 28.03 Nummer 1 Satz 2 BinSchStrO § 8.03 Nummer 3 RheinSchPV § 8.04 Satz 2 MoselSchPV | 74,40 |
+| 5113 | den Bestimmungen über die Schifffahrt bei Hochwasser | § 10.11 Nummer 3, § 11.11 Nummer 6, § 12.11 Nummer 3, § 13.11 Nummer 1 Satz 2, § 16.11 Nummer 3, § 20.11 Nummer 3, § 28.11 Nummer 2 BinSchStrO § 10.01 Nummer 5 Satz 2 RheinSchPV § 10.02 Nummer 1 Buchstabe a Satz 2 MoselSchPV | 104 |
 | 512 | Erlaubnis der Zusammenstellung oder Auflösung eines Schubverbandes auf kurzen Strecken | § 8.05 Nummer 2 BinSchStrO § 8.04 Buchstabe b RheinSchPV § 8.05 MoselSchPV | 55,80 |
 | 513 | Erlaubnis der Nachtschifffahrt auf der Stecke Bingen – St. Goar | § 9.08 Nummer 5 RheinSchPV | 74,40 |
 | 514 | Benutzung der Schleuse außerhalb der Schleusenbetriebszeiten, d. h. mehr als 30 Minuten vor/nach offiziell ausgewiesener Betriebszeit |  | 55,80 |
