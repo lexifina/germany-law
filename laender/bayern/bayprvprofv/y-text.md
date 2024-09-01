@@ -1,0 +1,1 @@
+Auf Grund von Art. 29 und 32 Abs. 7 des Bayerischen Besoldungsgesetzes (BayBesG) in der Fassung der Bekanntmachung vom 30. August 2001 (GVBl S. 458, BayRS 2032-1-1-F), zuletzt geändert durch § 6 des Gesetzes vom 23. April 2008 (GVBl S. 139), erlässt das Bayerische Staatsministerium der Justiz im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
