@@ -1,0 +1,1 @@
+Auf Grund des Art. 40 Abs. 3 Satz 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) in der Fassung der Bekanntmachung vom 18. August 1998 (GVBl S. 593, BayRS 791-1-U), geändert durch § 5 des Gesetzes vom 27. Dezember 1999 (GVBl S. 532), erlässt die Bayerische Staatsregierung folgende Verordnung:
