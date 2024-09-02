@@ -1,0 +1,6 @@
+# TOP 7: Sonstiges (z.B. Informationen z.B. Management Entwicklungsachse Ostbahn)
+
+- Sitzung: 1. Sitzung des Ausschusses für Wirtschaft (2024-09-02)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=23579
