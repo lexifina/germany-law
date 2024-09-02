@@ -1,0 +1,8 @@
+# TOP -: Dringlichkeitsvorlage zur Beschlussvorlage 0968/2024
+
+- Sitzung: 30.Sitzung der Bezirksvertretung Mülheim (2024-09-02)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/401473
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/185458
