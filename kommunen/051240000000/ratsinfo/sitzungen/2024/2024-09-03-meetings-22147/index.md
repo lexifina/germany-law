@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-09-03T16:07:00+02:00
+- Ende: 2024-09-03T19:36:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22147
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22147
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Geschäftsführung des Ausschusses für Verkehr - ungeändert beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Baustellensituation - Stadt - Entgegennahme ohne Beschluss
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Freigabe von Einbahnstraßen für den Radverkehr - Aktueller Sachstand - Mündlicher Bericht -
+- TOP 6: Fahrplanwechsel Herbst 2024 (06.10.2024) - Entgegennahme ohne Beschluss
+- TOP 7: Appell an den Verkehrsausschuss und Rat zur Revidierung der Beschlussfassung Nahverkehrsplan Stadt Wuppertal -Teil 3- Flexible Bedienformen und Nachtverkehr - abgelehnt
+- TOP 8: Stellungnahme der Stadt Wuppertal zum Entwurf des VRR-Nahverkehrsplans 2025 - ungeändert beschlossen
+- TOP 9: Entwicklung eines Qualitätsmanagementsystems für den ÖPNV in Wuppertal - Auftrag aus dem Nahverkehrsplan Teil 2 - ungeändert beschlossen
+- TOP 10: Sachstand E-Scooter und Pedelecs
+- TOP 10.1: - Mündlicher Sachstandsbericht der Verwaltung
+- TOP 10.2: Bericht zu Anträgen der Fraktionen zum gewerblichen E-Scooter/Pedelec Verleihsystem - zurückgestellt
+- TOP 10.3: Kurzfristige Verbesserung der Situation von Pedelec- und Elektrokleinstfahrzeugen im Verleihsystem - Gemeinsamer Antrag der Fraktionen von CDU und FDP vom 24.06.2024 - zurückgestellt
+- TOP 10.4: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal (VO/0799/23/1-Neuf.) - zurückgestellt
+- TOP 10.5: Genehmigung von Pedelec- und Elektrokleinstfahrzeug-Verleihsystemen in Wuppertal - zurückgestellt
+- TOP 11: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 12: Straßenbauprogramme der überbezirklichen Straßen in den Stadtbezirken - ungeändert beschlossen
+- TOP 13: Neugestaltung der Friedrich-Engels-Allee zwischen Brücke Kluse und Einmündung Bendahler Straße - ungeändert beschlossen
+- TOP 14: Straßenbauliche Sanierungsmaßnahme Katernberger Straße - ungeändert beschlossen
+- TOP 15: Antrag zum Haushalt 2024/2025: Sanierung Lönsstraße/Schubertstraße - ungeändert beschlossen
+- TOP 16: Einrichtung einer Ladezone auf der Kaiserstraße - ungeändert beschlossen
+- TOP 17: Bericht zu den Unfallkommissionsitzungen vom 03.11.23, 04.03.24 und 12.07.24 - Entgegennahme ohne Beschluss
+- TOP 18: Freie Fahrt für Rettungsfahrzeuge - Entgegennahme ohne Beschluss
+- TOP 19: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal vom 20.12.2001 - vertagen
+- TOP 20: Prüfauftrag zu abgelehnten möglichen Tempo-30-Abschnitten in Wuppertal-Ronsdorf - zurückgestellt
+- TOP 21: Antrag Parkgebührenordnung - abgelehnt
+- TOP 22: Jahresbericht des Inklusionsbüros 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 23: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4 - zur Beratung und Entscheidung verwiesen
+- TOP 24: Anregung nach § 24 GO NRW - Tempo 30 im Wuppertaler Stadtgebiet - im Besonderen Katernberger Straße - zurückgestellt
+- TOP 25: Anregung nach § 24 GO NRW - Einführung von Tempo 30 auf der Straße Zur Waldkampfbahn - zurückgestellt
+- TOP 26: Anregung nach § 24 GO NRW vom 25.03.2024 Einhaltung der ausgewiesenen Stellplätze für E-Scooter in der Innenstadt (Elberfeld und Barmen) - ungeändert beschlossen
+- TOP 27: Anregung nach § 24 GO NRW-Identitätsfeststellung beim Verleih von E-Scootern - zurückgestellt
+- TOP 28: Anregung nach § 24 GO NRW zur Klärung u. Beseitigung von Widersprüchen zwischen Sondernutzungserlaubnis und ausgewiesenen Stellflächen bei E- - ungeändert beschlossen
+- TOP 29: Anregung nach § 24 GO NRW vom 23.07.2024 "Parkzonenverbot Roller Sudhoffstraße" - ungeändert beschlossen
+- TOP 30: Anregung nach § 24 GO NRW - Gleiche Rechte für Elektrokleinstfahrzeugfahrer (eKFF) wie für Radfahrer - ungeändert beschlossen
+- TOP 31: Anregung nach § 24 GO NRW - Baumkäfer reduzieren - ungeändert beschlossen
+- TOP 32: Anregung nach § 24 GO NRW: Genehmigungen von Außengastronomien an öffentlichen Straßen und Wegen nur mit retroreflektierenden gelben Rückstrahlenern. - geändert beschlossen
