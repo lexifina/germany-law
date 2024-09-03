@@ -1,0 +1,3 @@
+# III. Inkrafttreten
+
+Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft.
