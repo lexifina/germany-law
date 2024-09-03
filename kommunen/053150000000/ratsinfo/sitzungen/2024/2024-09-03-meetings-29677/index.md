@@ -1,0 +1,65 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-03T15:00:00+02:00
+- Ende: 2024-09-03T16:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29677
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29677
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage zur städtischen Antidiskriminierungsrichtlinie - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage der Liste GOL vom 27.05.2024 (AN/0816/2024) betreffend "Koloniales Erbe der Stadt Köln" - zurückgestellt
+- TOP -: Anfrage der GOL zum Thema Koloniales Erbe der Stadt Köln - zurückgestellt
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage der Liste GOL zum Thema Einbürgerung (AN/0817/2024) - zurückgestellt
+- TOP -: Anfrage der GOL zum Thema Einbürgerungen - zurückgestellt
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage des Facharbeitskreises 5 des Integrationsrates zu "Erteilung von Visa"(AN/0809/2024) - zurückgestellt
+- TOP -: Anfrage zur Erteilung von Visa - zurückgestellt
+- TOP 3.5: Beantwortung einer Anfrage zum Herkunftssprachlichen Unterricht - Kenntnis genommen
+- TOP -: Anfrage zur Beantwortung einer schriftlichen Anfrage des FachAk 3 vom 14.11.2023 (AN 1968/2023)
+- TOP 3.6: Beantwortung einer Anfrage der SPD-Fraktion und SPD-Liste zu "Überlastung der Ausländerbehörde in Köln- Fast Lane für dringliche Aufgaben" (AN/0825/2024) - Kenntnis genommen
+- TOP -: Anfrage zur Überlastung der Ausländerbehörde in Köln - Fast Lane für dringliche Aufgaben?
+- TOP 3.7: Beantwortung einer schriftl. Anfrage des Facharbeitskreises 5 Integrationsrat für die Sitzung des Integrationsrates am 03.09.2024 (AN/1078/2024) "Anfrage zum Verfahren der städt. Beschwerdestelle zum Schutz vor Diskriminierung AGG" - Kenntnis genommen
+- TOP -: Anfrage zum Verfahren der städtischen Beschwerdestelle zum Schutz vor Diskriminierung nach dem Allgemeinen Gleichbehandlungsgesetz (AGG)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten“ um 63 Prozent – Auswirkungen auf Köln - zurückgestellt
+- TOP 4.2: Anfrage zum Thema: Theodor Wonja Michael Bibliothek erhalten - zurückgestellt
+- TOP 4.3: Anfrage von Integrationsratsmitglied Babaoglu-Marx zum Thema "Corona-Maßnahmen" - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Bevölkerung in Köln 2023 - Kenntnis genommen
+- TOP 5.2: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - Kenntnis genommen
+- TOP 5.3: Zwischenbericht "Masterplan Kommunale Sicherheit" - Kenntnis genommen
+- TOP 5.4: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 5.5: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.6: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.7: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 5.8: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 5.9: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 5.10: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 5.11: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Kenntnis genommen
+- TOP 5.12: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 5.13: Aktualisierte Bedarfsfeststellung Unterbringungsplätze für Geflüchtete - Mitteilung über Eilentscheidung Hauptausschuss - Kenntnis genommen
+- TOP 5.14: Bericht der Behindertenbeauftragten der Stadt Köln - 02/2024 - Kenntnis genommen
+- TOP 5.15: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.16: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2023 - Kenntnis genommen
+- TOP 5.17: Anonymer Krankenschein in der Stadt Köln - Kenntnis genommen
+- TOP 5.18: Jahresbericht der Ombudsstelle für Flüchtlinge in Köln 2023 und 1. Quartalsbericht 2024 - Kenntnis genommen
+- TOP 5.19: Mitteilung zum Änderungsantrag des Integrationsrats zu TOP 6.2 in der Sitzung des Integrationsrats am 16.04.2024 Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz. AN/0583/2024 - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag auf Berücksichtigung der Studie Grenzen der Gleichheit: Rassismus und Armutsgefährdung beim Kölner Lebenslagenbericht - ungeändert beschlossen
+- TOP 6.2: Antrag zu einer Resolution an den Rat der Stadt Köln hinsichtlich dergeplanten Kürzungen der Infrastruktur für Menschen mit Fluchterfahrung in Köln - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Nachbewilligung von Mitteln zur Förderung von Afina - Assoziation für Interkulturelle und Nachbarschaftliche Arbeit e.V - als mittleres Zentrum für das Jahr 2024 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
