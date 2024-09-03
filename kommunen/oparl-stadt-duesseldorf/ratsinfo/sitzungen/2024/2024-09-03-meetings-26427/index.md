@@ -1,0 +1,69 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-03T16:00:00+02:00
+- Ende: 2024-09-03T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26427
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26427
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528048.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528048.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528048.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/005/2024 vom 11.06.2024 Ö/NÖ
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung der amtlichen Kriminalstatistik und Unfallstatistik 2023 für den Stadtbezirk 2 - Mündlicher Bericht zu dem Beschluss der Bezirksvertretung; Vorlage BV2/035/2024 - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Graffitientfernung Unterführung Wetterstraße - einstimmig beschlossen
+- TOP 4.5: Zielkonzept Stadtbahn/Straßenbahn - vertagt
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 (ListeB) - einstimmig beschlossen
+- TOP 4.7: Radschlägermarkt an der Metro - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Trainingsstätte für den Düsseldorfer Schachklub 1914/25 e.V. - Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 5.2: Fahrradständer vor dem Haus Flurstraße 57 („Kloster“) - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.3: Quartiersmanagerin/Quartiersmanager für den Karl-Wagner-Platz - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.4: Schilder wegen Verbot der Fütterung von Enten und Gänsen - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Bänke für die Wiese vor dem Seniorenzentrum Grafental - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.7: Mobilitätssation auf dem Hermannplatz verträglich umgestalten - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 5.8: Zusätzliches Piktogramm Uhrenturm Grafenberger-Allee - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Fahrradabstellanlagen - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6.4: Fahradweg Lindenstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Auswirkung des Starkregens im Juli 2021 auf das Starkregenpräventions-Konzept - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.8: Radverkehr auf der Klopstockstraße in beide Fahrtrichtungen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - vertagt
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Verkehrslärm auf der Flurstraße - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.2: Gänsemanagement im Zoopark - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.3: Lärmbelästigung der Anwohner durch den Kinderspielplatz an der Sohnstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Regenbogenbank Hanielpark - Beschluss der Bezirksvertretung 2, Vorlage BV2/116/2024 - zur Kenntnis genommen
+- TOP 8.2: Einziger Parkplatz mit barrierefreier E-Ladesäule im Stadtbezirk - Beschluss der Bezirksvertretung 2; Vorlage BV2/078/2024 - zur Kenntnis genommen
+- TOP 8.3: Sonnenschutz für den Spielplatz auf dem Stadtnaturpark Flingerm - Beschluss der Bezirksvertretung 2; Vorlage BV2/144/2024 - zur Kenntnis genommen
+- TOP 8.4: Sanierung des verwahrlosten Abschnitts des Bürgersteigs am Anfang der Birkenstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/084/2024 - zur Kenntnis genommen
+- TOP 8.5: Ertüchtigung der Hundeauslauffläche Hanielpark - Beschluss der Bezirksvertretung 2; Vorlage BV2/109/2024 - zur Kenntnis genommen
+- TOP 8.6: Bunte Bank am Hermannplatz - Beschluss der Bezirksvertretung 2; Vorlage BV2/097//2024 - zur Kenntnis genommen
+- TOP 8.7: Zeitnahe Aufstellung von Fahrradbügeln zum Schutz von Baumscheiben - Beschluss der Bezirksvertretung 2; Vorlage BV2/100/2024 - zur Kenntnis genommen
+- TOP 8.8: Sitzungstermine bis Juli 2025 - zur Kenntnis genommen
+- TOP 8.9: Schutzraum - Beschluss der Bezirksvertretung 2; Vorlage BV2/128/2024 - zur Kenntnis genommen
+- TOP 8.10: Reduzierung der Fahrbahn Einmündung Vennhauser Straße in die Behrenstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/004/2024 - zur Kenntnis genommen
+- TOP 8.11: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 8.12: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - vertagt
+- TOP 8.13: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
+- TOP 8.14: Querung Grafenberger Allee in Höhe Lindenstraße - Beschluss der Bezirksvertretung 2; Vorlage BV2/143/2024 - zur Kenntnis genommen
+- TOP 8.15: Übergang - Beschluss der Bezirksvertretung 2; Vorlage BV2/103/2024 - zur Kenntnis genommen
+- TOP 8.16: Rasengleise auf einem Teil des Lastrings - Beschluss der Bezirksvertretung 2, Vorlage BV2/139/2024 - zur Kenntnis genommen
