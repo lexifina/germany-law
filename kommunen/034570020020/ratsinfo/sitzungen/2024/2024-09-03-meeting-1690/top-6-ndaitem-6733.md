@@ -1,0 +1,9 @@
+# TOP 6.: Investitionen 2025 für die Kita Jübberde
+
+- Sitzung: Ausschuss für Jugend, Senioren, Soziales, Sport und Ehrenamt (4. Sitzung) (2024-09-03)
+- Körperschaft: Gemeinde Uplengen
+- Öffentlich: ja
+- OParl: https://uplengen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6733
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://uplengen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2128
+- Beschluss (Datei): Beschlusstext (Investitionen 2025 für die Kita Jübberde) https://uplengen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSnQeODCE9WY36JuDyzUidyzsEA6-2dJ7KROvSL1rt4T/Beschlusstext_92-2024_-oeffentlich-_Ausschuss_fuer_Jugend-_Senioren-_Soziales-_Sport_und_Ehrenamt_03.09.2024.pdf
