@@ -1,0 +1,56 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2024-09-04T17:00:00+02:00
+- Ende: 2024-09-04T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000019
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000019
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1419605&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Modellprojekt "Quereinstieg in die Kinderbetreuung" ("Qik") des Landes NRW - ungeändert beschlossen
+- TOP 4: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie, 4. Runde – Fortschreibung des Lärmaktionsplans Aachen (LAP) in 2024 hier: Sachstandsbericht und weiteres Vorgehen Vorlage der endgültigen Fassung des LAP Aachen, 4. Runde (2024) - geändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5.1: Sportpark Soers; Sachstand Gesamtprojekt (August 2024), Grundsatzbeschluss Multifunktionssporthalle - Außerplanmäßige Mittelbereitstellung - geändert beschlossen
+- TOP 5.2: Überplanmäßige Mittelbereitstellung Erweiterung Verwaltungsgebäude Forstamt Monschauerstraße - ungeändert beschlossen
+- TOP 6: Beschluss des Ausschusses für Soziales, Integration und Demographie vom 27. Juni 2024; hier: TOP 4ö “Tagesordnungsantrag der Fraktion Die Linke ‘Sachstandsbericht zur Bezahlkarte für Geflüchtete’ vom 06. Juni 2024” - vertagt
+- TOP 7: 4. Änderungssatzung der Friedhofssatzung der Stadt Aachen vom 01.01.2011 - ungeändert beschlossen
+- TOP 8: Abschluss einer öffentlich-rechtlichen Vereinbarung über die grenzüberschreitende Zusammenarbeit im öffentlichen Rettungsdienst - ungeändert beschlossen
+- TOP 9: Bebauungsplan Nr. 1009 - Haaren Ortsmitte / Stadthäuser - hier: - Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - vertagt
+- TOP 10: Einteilung der Wahlbezirke für die Kommunalwahl 2025 - zur Kenntnis genommen
+- TOP 11: Festakt und Rahmenprogramm "Aachen 1944 und der Weg in die Demokratie"; Ratsantrag der Fraktionen GRÜNE, CDU. SPD, ZUKUNFT, FDP und LINKE vom 08.05.2024 - ungeändert beschlossen
+- TOP 12: Annahme einer Schenkung des Fördervereins der KGS Höfchensweg; hier Schenkung eines Außenspielgerätes - ungeändert beschlossen
+- TOP 13: Annahme einer Schenkung des Fördervereins der GGS Brühlstraße; hier: Erstellen einer Pflasterfläche für eine Fahrradabstellanlage - ungeändert beschlossen
+- TOP 14: Anfragen
+- TOP 14.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 14.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 15: Ratsanträge - ungeändert beschlossen
+- TOP 16: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 16.1: Umbesetzungsantrag der AfD-Ratsgruppe vom 20.08.2024 - ungeändert beschlossen
+- TOP 16.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 02.09.2024 - ungeändert beschlossen
+- TOP 16.3: Umbesetzungsantrag der Fraktion DIE Zukunft vom 04.09.2024 - ungeändert beschlossen
+- TOP 17: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
