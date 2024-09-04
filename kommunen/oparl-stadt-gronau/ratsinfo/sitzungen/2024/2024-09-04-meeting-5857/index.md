@@ -1,0 +1,74 @@
+# Rat (43. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-09-04T18:00:00+02:00
+- Ende: 2024-09-04T22:00:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfh-BZb1yObZr0SLsZr5VlQ
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5857
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSh_E_OWxSkRxQeu1p4he6VDgfgz7zXDHKRF7As0DKvk/Bekanntmachung_Rat_04.09.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYPSdpv4v-4m2MvevxFssoNyGUC_4CwEW4hFD1mUzHE4/Oeffentliche_Niederschrift_Rat_04.09.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Erhalt der Buslinie 886/887 (Frage der Einwohnerin Andrea Oing)
+- TOP 2.2: Erhalt der Buslinie 886/887 (Frage des Einwohners Markus Gebhardt)
+- TOP 2.3: Erhalt der Buslinie 886/887 (Frage des Einwohners Jan Schulze Dinkelborg)
+- TOP 2.4: Verschiedene Fragestellungen zum Bereich Bögehold (Frage des Einwohners Ralf Wemmers)
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der CDU-Fraktion im Rat der Stadt Gronau Antrag zur Prüfung der Voraussetzungen eines Ausschreibungsverfahrens für das Germania-Gebäude und das Germania-Areal - Einstimmig, 0 Enthaltungen
+- TOP 5.: Feststellung des Ergebnisses des Bürgerentscheides vom 14.07.2024 - Einstimmig, 0 Enthaltungen
+- TOP 6.: ÖPNV in Gronau ab 2025 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Historisches Rathaus an der Bahnhofstrasse - 42 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 7.1: Historisches Rathaus an der Bahnhofstrasse
+- TOP 8.: Vorbereitung der Erarbeitung eines integrierten städtebaulichen Entwicklungskonzepts für die Innenstadt von Gronau als Grundlage für die Städtebauförderung - Einstimmig, 4 Enthaltungen
+- TOP 9.: Sachstandsbericht zum Planungsstand Neubau/Umbau von Schulbaumaßnahmen - 35 Jastimmen, 7 Neinstimmen, 3 Enthaltungen
+- TOP 9.1: Sachstandsbericht zum Planungsstand Neubau/Umbau von Schulbaumaßnahmen
+- TOP 10.: Außenbereichssatzung Kottigweg gem. § 35 Abs. 6 BauGB (vereinfachtes Verfahren nach § 13 BauGB) Aufstellungsbeschluss Billigung eines Satzungsentwurfs für die Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB und der Behörden gem. § 4 Abs. 2 BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Änderung des Gesellschaftsvertrages der Wirtschaftsförderungsgesellschaft für den Kreis Borken mbH - Einstimmig, 0 Enthaltungen
+- TOP 12.: Erlass eines Betrauungsaktes für die Stadtwerke Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 13.: Erlass eines Betrauungsaktes für die Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 0 Enthaltungen
+- TOP 14.: Erlass eines Betrauungsaktes für die Kulturbüro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 15.: Leitbild und Markenprozess für die Stadt Gronau - 16 Jastimmen, 17 Neinstimmen, 12 Enthaltungen
+- TOP 16.: Budgetbericht für das II. Quartal 2024
+- TOP 17.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2023 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Beteiligungsbericht 2022 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bericht Umsetzungsstand zum Letter of Intent (LOI) mit Enschede Sachstand 1. Halbjahr 2024
+- TOP 21.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreter/innen in Organe, Beiräte juristischer Personen und Personenvereinigungen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 22.1: Architektenwettbewerb zur Errichtung eines Ärztehauses (Bericht aus dem AR QEG durch RM Dr. Kuhlmann-Eckel)
+- TOP 23.: Mitteilungen der Verwaltung
+- TOP 23.1: Gronauerin Anna-Lena Niehues gewinnt Bronze bei den Paralympics
+- TOP 23.2: Einbahnstraße auf der Enscheder Straße von der Königstraße bis zur Schiefestraße aufgrund Baustelle der SWG
+- TOP 23.3: Verpflegung in Gremiensitzungen
+- TOP 24.: Anfragen
+- TOP 24.1: Mülleimer am Dreilandersee (Anfrage von RM Doetkotte)
+- TOP 24.2: Verkehrsversuch Epe - Parkverstöße (Anfrage von RM Doetkotte)
+- TOP 24.3: Reinigung der Containerstandorte (Anfrage von RM Krause)
+- TOP 24.4: Baustelle Gildehauser Straße (Anfrage von RM Gabbe)
+- TOP 24.5: Synagoge Epe (Anfrage von RM Bröker)
+- TOP 24.6: Vermessungsarbeiten im Bereich Heerweg / Gildehauer Straße (Anfrage von RM Reinhoffer)
+- TOP 24.7: Hundefreilaufflächen (Anfrage von RM Reinhoffer)
+- TOP 24.8: Piktogramme für Radfahrer (Anfrage von RM Dr. Kuhlmann-Eckel)
+- TOP 24.9: Verkehrszählung Alstätter Straße (Anfrage von RM Dr. Kuhlmann-Eckel)
+- TOP 24.10: Schuttablagerungen im Bereich Walbrinkweg (Anfrage von RM Buchholz)
+- TOP 24.11: Euregio-Gesamtschule - Aufenthalt in den Pausen (Anfrage von RM von Borczyskowski)
+- TOP 24.12: Rollsplitt auf der Königstraße (Anfrage von RM Dzietko)
+- TOP 24.13: Freigabe der Klosterstiege (Anfrage von RM Greitenevert)
+- TOP 24.14: Grünschnitte an Ampelanlagen und Fußgängerüberwegen (Anfrage von RM Bajorath)
+- TOP 24.15: Beschnitt von Pflanzbeeten im Stadtosten (Anfrage von RM Bajorath)
+- TOP 24.16: Social Club (Anfrage von RM Meyer-Kernebeck)
+- TOP 24.17: Kreuzungsbereich B54 bei Bösing (Anfrage von RM Bügener)
+- TOP 24.18: Shisha-Rauchen am Dreiländersee (Anfrage von RM Hüsing-Hackfort)
+- TOP 24.19: Verkehrskontrollen am Damaschkering (Anfrage von RM von Borczyskowski)
+- TOP 24.20: Projekt Notinsel (Anfrage von RM Kernebeck)
+- TOP 24.21: Anmietung von Veranstaltungsflächen durch die Stadt Gronau (Anfrage von RM Kernebeck)
+- TOP 24.22: Gruppenfoto der Ratsmitglieder (Anfrage von RM Hüsing-Hackfort)
