@@ -1,0 +1,59 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-04T15:00:00+02:00
+- Ende: 2024-09-04T17:55:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26377
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26377
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2024 vom 24.04.2024 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/005/2024 vom 19.06.2024 - einstimmig beschlossen
+- TOP 4: Flächennutzungsplanänderung Nr. 55, Bebauungsplan-Vorentwurf Nr. 04/003 - Südlich Oberlöricker Straße - Wettbewerbsergebnis, Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 5: Öffentliche Beleuchtung - Straßenplanung Erneuerung gasbetriebene Beleuchtung in Heerdt und Lörick (Sektion 7 der Marktraumumstellung zu Mai 2025) - mehrheitlich beschlossen
+- TOP 6: Grundstücksnutzung Büttgenbachstraße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 7: Streichung von 240 Parkplätzen anlässlich des Ausbaus der Radleitroute 2 auf der Hansaallee ohne Ersatzlösung?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 8: Verkehrssicherungspflicht für den Radweg zum Niederkasseler Deich?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 9: LKW-Verkehre auf der Rudolfstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 10: Privater Parkraum im Umfeld der Hansaallee, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 11: Blühwiesen im Stadtbezirk 4, Anfrage des Bezirksvertreters Georg Blanchard - zur Kenntnis genommen
+- TOP 12: Bauvorhaben St. Anna - Stillstand oder Fortgang des Verfahrens?, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 13: D.C.f.R Linksrh. 1919 e.V. / WC-Anlage und Geruchsbildung in den Kabinen, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 14: Rückschnitt von überwuchernden Pflanzen und Sträuchern, Anfrage des Bezirksvertreters Georg Blanchard
+- TOP 15: Einsatz von Fahrradpolizist*innen, Anfrage des Bezirksvertreters Georg Blanchard - zur Kenntnis genommen
+- TOP 16: Ersatzneubau Hochstraße Benediktusstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 17: Rundweg am Albertussee, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 18: Schulhöfe verschönern und zukunftsfest machen – Unsere Schulen attraktiver machen, Anfrage der CDU-Fraktion
+- TOP 19: Zustand der linksrheinischen Straßen verbessern – Aktueller Stand der Straßeninstandsetzung, Anfrage der CDU-Fraktion
+- TOP 20: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 21: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 22: Benennung der Wegeverbindung zwischen Schiessstraße und Heerdter Landstraße, in Alte Heerdter Bahntrasse - einstimmig beschlossen
+- TOP 23: Spezialmarkt "Paw Looza" Hunde-Festival auf dem Gelände des Strandbades Lörick vom 21.09.2024 bis 22.09.2024 - einstimmig beschlossen
+- TOP 24: Weihnachtsmarkt in Oberkassel im Jahre 2024 - mehrheitlich beschlossen
+- TOP 25: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2024 - einstimmig beschlossen
+- TOP 26: Eine Streuobstwiese für den Feldmühlepark, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 27: Teutonenplatz nicht vernachlässigen und richtig pflegen, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 28: Kreuzung für Alle verkehrssicher umbauen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 29: Parksituation in der Saarwerdenstraße in Düsseldorf-Oberkassel, Antrag der FPD-Fraktion - mehrheitlich beschlossen
+- TOP 30: Kontinuierlicher Ausbau von Sitzplätzen für die Haltestellen entlang der Stadtbahnlinien der Rheinbahn im Stadtbezirk 4, Antrag des Bezirksvertreters Georg Blanchard - abweichend beschlossen
+- TOP 31: Baumpflanzungen Heerdter Landstraße, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 32: Radschutzstreifen Krefelder Straße, Antrag der SPD-Fraktion - abweichend beschlossen
+- TOP 33: Umstieg leicht machen – ÖPNV-Geschwindigkeit erhöhen, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 34: Fußweg Gustorfer Straße - zur Kenntnis genommen
+- TOP 35: Schulwege sicher gestalten - Maßnahmen zur Optimierung des Verkehrs rund um die linksrheinischen Schulen prüfen - zur Kenntnis genommen
+- TOP 36: Beschädigungen auf dem Grünstreifen Rheinallee - zur Kenntnis genommen
+- TOP 37: Naturnaher Grünzug an der Willstätterstraße - zur Kenntnis genommen
+- TOP 38: Ratsherr a.D. Anton Ulrich ehren - Platzbenennung vor dem Heerdter Wegekreuz - zur Kenntnis genommen
+- TOP 39: Instandsetzung Belsenstraße - zur Kenntnis genommen
+- TOP 40: Wassersprühanlagen für den nächsten Sommer - zur Kenntnis genommen
+- TOP 41: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 42: Tödliche Badeunfälle im Rhein endlich verhindern - Mit Sicherheit vor dem Baden und Ertrinken warnen! - zur Kenntnis genommen
+- TOP 43: Nutzungskonzept Am Mühlenberg - zur Kenntnis genommen
+- TOP 44: Hansaallee: Baumschutz - zur Kenntnis genommen
+- TOP 45: Mehrkosten Bücherschrank auf dem Nikolaus-Knopp-Platz - einstimmig beschlossen
