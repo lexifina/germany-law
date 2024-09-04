@@ -1,0 +1,6 @@
+# TOP 3.: Vorbereitung der Tagesordnung der Stadtverordnetenversammlung am 12.09.2024
+
+- Sitzung: Ausschuss für Kinder, Jugend, Soziales und Integration (28. Sitzung) (2024-09-04)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/13724
