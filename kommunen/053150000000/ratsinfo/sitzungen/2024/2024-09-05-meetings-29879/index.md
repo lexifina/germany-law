@@ -1,0 +1,93 @@
+# 26. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-05T17:00:00+02:00
+- Ende: 2024-09-05T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29879
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29879
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Besuch des Beigeordneten William Wolfgramm (Dezernat VIII - Klima, Umwelt, Grün und Liegenschaften) - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Antrag der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk am 05.09.2024 (AN/1088/2024): "Einrichtung eines Verkehrsberuhigten Bereichs (VZ 325) auf der Trimbornstraße" - geändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 05.09.2024 (AN/0781/2024) : "Schulcontainer des Bistums nur als Interim - Antrag zur Mitteilung 1269/2024 Neubau einer Containeranlage" - zurückgestellt
+- TOP 7.3: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 05.09.2024 (AN/1082/2024) : "Eigentum verpflichtet – Kalker Geschichtsrelikte schützen und erhalten" - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 05.09.2024 (AN/1083/2024) : "Wippen, warten, witzeln - Kinderfreundliches Warten in und am Kundenzentrum Kalk - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 7.4 "Wippen, warten, witzeln - Kinderfreundliches Warten in und am Kundenzentrum Kalk" - ungeändert beschlossen
+- TOP 7.5: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 05.09.2024 (AN/1082/2024) : "Antrag nach § 3 Durchwegung Vietorstrasse offen lassen" - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Instandsetzung des Rad- und Gehweges Alter Deutzer Postweg als Verbindungsweg zwischen der Waldbadsiedlung und dem Vingster Ring - ungeändert beschlossen
+- TOP 8.1.2: Schulrechtliche Errichtung einer neuen Gesamtschule im Stadtbezirk Kalk mit Start im Interimsgebäude Brügelmannstraße 10, 50679 Köln-Deutz gemäß § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen zum Schuljahr 2025/26 - ungeändert beschlossen
+- TOP 8.1.3: Bauförderung RSV Rath-Heumar 1920 e.V. - ungeändert beschlossen
+- TOP 8.1.4: Teileinziehung einer Teilfläche der Diesterwegstraße und Teileinziehung der Fritz-Schu-Straße in Köln-Brück - ungeändert beschlossen
+- TOP 8.1.5: Öffentlichkeitsbeteiligung zum Projekt Kalker Höfe - ungeändert beschlossen
+- TOP 8.1.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LINKE. "Streichung zur Entlastung der Kalker Kleingärtnerinnen" - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - ungeändert beschlossen
+- TOP 8.2.2: Planfeststellungsverfahren für das Vorhaben "Ausbau S 11/S-Bahn Stammstrecke Köln - PFA 2.1" in Köln-Kalk/Mülheim - ungeändert beschlossen
+- TOP 8.2.3: Anhörung der Bezirksvertretung 8 (Kalk) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 75458/02 Arbeitstitel: Astrid-Lindgren-Allee in Köln-Kalk-Brück - zurückgestellt
+- TOP 8.2.4: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 8.2.5: Neue Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) für den Zeitraum 01.10.2024 bis 28.02.2025 - Sache ist erledigt
+- TOP 8.2.6: Satzung über die abweichende Herstellung der Erschließungsanlage Hans-Schulten-Straße von Dattenfelder Straße bis Wendekreis in Köln-Brück - ungeändert beschlossen
+- TOP 8.2.7: Nutzungs- und Entgeltordnung für die Nutzung von Schulraum für nichtschulische Zwecke einschließlich der Allgemeinen Nutzungsbedingungen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand Maßnahmenpaket für die Sanierung und Neubau von Schulsporthallen - Anfrage AN/0174/2024 der FDP-Fraktion zur Sitzung vom 11.03.2024 - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der Bezirksvertretung Kalk vom 07.03.2024 (AN/0346/2024) betreffend "Einschränkungen durch Verlängerung der Straßenbahnen" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk vom 25.04.2024 - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage AN/2008/2023 der SPD-Fraktion zur schadhaften Tribüne in der Sporthalle am Hardtgenbuscher Kirchweg - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Bezirksvertretung Kalk vom 25.01.2024 betreffend der Beantwortung einer Anfrage zu "Auswirkungen der temporären Angebotsreduzierungen im Stadtbezirk Kalk" (1507/2023) - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Kalk vom 06.06.2024 (AN/0812/2024) betreffend "Neue Bäume für die Merheimer Heide" - Kenntnis genommen
+- TOP 9.1.7: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion Betreff "Ausfall der Aufzüge Kalk Post" vom 25.04.2024 - Kenntnis genommen
+- TOP 9.1.8: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk am 06.06.2024 - Kenntnis genommen
+- TOP 9.1.9: Beantwortung einer Anfrage der SPD-Fraktion in der BV Kalk zu Parkverstößen - Kenntnis genommen
+- TOP 9.1.10: Beantwortung einer mündl. Anfrage aus aktuellem Anlass der Fraktion Bündnis 90/Die Grünen in der Sitzung vom 06.06.2024: "Bautätigkeiten im hinteren Gartenbereich des Objektes Kalker Hauptstr. 233" - Kenntnis genommen
+- TOP 9.1.11: Beantwortung der mündlichen Anfrage der Fraktion Die LINKE. zur Mitteilung 1683/2024 in der Sitzung der BV 8 vom 06.06.2024 "Planerische Vorstudie für ein Integriertes Stadtentwicklungskonzept" - Kenntnis genommen
+- TOP 9.1.12: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der BV8 vom 23.11.2023 "GAG Grünflächenanteilvernichtung in der Remscheiderstraße" - Kenntnis genommen
+- TOP 9.1.13: Beantwortung der Anfrage der SPD-Fraktion vom 06.06.2024: " Parksituation in der Wikingerstraße in Rath/Heumar "(AN/0815/2024) - Kenntnis genommen
+- TOP 9.1.14: Beantwortung einer mündlichen Anfrage von Bezirksvertreter Müller CDU-Fraktion aus der Sitzung der BV Kalk vom 06.06.2024 ( Mitteilung 1177/2024) "Sachstand Hallen Kalk" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Baumfällungen Christian-Sünner-Straße" (AN/1131/2024) - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Denkmalschutz Kulturhallen 75-77 am Ottmar-Pohl-Platz" (AN1086/2024) - Kenntnis genommen
+- TOP 9.2.3: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Sachstand Kauf Haus 30 vom Klinikum Merheim und eventuelle Hinderungsgründe für Neubau einer Grundschule in Merheim" (AN/1134/2024) - Kenntnis genommen
+- TOP 9.2.4: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Klimaveedel und Fernwärme" (AN/1124/2024) - Kenntnis genommen
+- TOP 9.2.5: Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Vingster Freibad" (AN/1132/2024) - Kenntnis genommen
+- TOP 9.2.6: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Neuverlegung des gerade fertiggestellten Straßenbelags in der Astrid-Lindgren Allee und Sperrung des Spielplatzes" (AN/1135/2024) - Kenntnis genommen
+- TOP 9.2.7: Anfrage der Fraktion Die LINKE. in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "(Nicht-) Umsetzung des Aktionsplans Essbare Stadt" (AN/1127/2024) - Kenntnis genommen
+- TOP 9.2.8: Anfrage der CDU-Fraktion in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Behandlung der Mitteilung „Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten“ (TOP Ö 10.2.11) (AN/1136/2024) - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 9.4: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht "Willkommen und Ankommen in Köln" 2023 - Kenntnis genommen
+- TOP 10.2.2: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.3: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 10.2.4: (Neu-)Aufstellung der verkehrlichen Bedarfspläne des Landes NRW - Kenntnis genommen
+- TOP 10.2.5: Sachstand Hallen Kalk - Teilprojekt Osthof - Kenntnis genommen
+- TOP 10.2.6: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - zurückgestellt
+- TOP 10.2.7: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - zurückgestellt
+- TOP 10.2.8: Status quo- und Chancen- & Mängel-Analyse "Besser durch Köln. Der nachhaltige Mobilitätsplan" - Kenntnis genommen
+- TOP 10.2.9: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Geh- und Radweg parallel zur Istanbulstraße, Aktenzeichen 199/23 - Kenntnis genommen
+- TOP 10.2.10: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Kreuzung Olpener Str./Ostmerheimer Str. in Merheim, Aktenzeichen 145/23 - Kenntnis genommen
+- TOP 10.2.11: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.12: „Gärtnern in der Stadt“ am Pohlstadtsweg – Vorbereitung für Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.13: Ämterübergreifende Zusammenarbeit bei Projekten im öffentlichen Raum - Stadtplanungsamt (61) und Amt für Straßen und Radwegebau (66) - Kenntnis genommen
+- TOP 10.2.14: Fußverkehrs-Checks in den Stadtteilen Kalk, Ostheim und Nippes - Kenntnis genommen
+- TOP 10.2.15: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.16: Qualitätsbericht 2023 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.17: SeniorenNetzwerke Köln: Aktuelle Übersichtskarte - Kenntnis genommen
+- TOP -: Übersicht Offene Anfrage Stand 05.09.2024 - Kenntnis genommen
