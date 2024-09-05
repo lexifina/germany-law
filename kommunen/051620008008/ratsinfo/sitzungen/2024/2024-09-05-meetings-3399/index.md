@@ -1,0 +1,84 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-09-05T18:30:00+02:00
+- Ende: 2024-09-05T20:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3399
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3399
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Bestellung Kämmerer - Kenntnisnahme
+- TOP 5: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter; hier: Gesellschafterversammlung der Segelflugplatzgesellschaft Grevenbroich mbH - einstimmig beschlossen
+- TOP 6: Unterzeichnung der Musterresolution „2030 - Agenda für nachhaltige Entwicklung: Nachhaltigkeit auf lokaler Ebene gestalten“ - einstimmig beschlossen
+- TOP 7: Wasserversorgungskonzept nach § 38 Abs. 3 Landeswassergesetz NRW für die Stadt Grevenbroich - Kenntnisnahme
+- TOP 8: Aufhebungsverordnung zur Ordnungsbehördlichen Verordnung der Stadt Grevenbroich über die Kastrations- und Kennzeichnungspflicht von freilaufenden Katzen - einstimmig beschlossen
+- TOP 9: Neuwahl der Schiedsperson für den Schiedsamtsbezirk V (Frimmersdorf / Neurath) - einstimmig beschlossen
+- TOP 10: Finanzzwischenbericht zum 30.06.2024 - Kenntnisnahme
+- TOP 11: Aufstellung über die von der Stadt Grevenbroich im Zeitraum 2019-2023 erhaltenen Spenden u. Sponsoring ohne Namen - Kenntnisnahme
+- TOP 12: Satzung über die Verleihung des Ehrenringes der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 13: Vorkaufsrechtssatzungen
+- TOP 13.1: Erlass einer Vorkaufsrechtssatzung für das "Bahnhofsquartier" - mehrheitlich beschlossen
+- TOP 13.2: Erlass einer Vorkaufsrechtsatzung für das Bahnhofsquartier - Teilbereich Nord - mehrheitlich beschlossen
+- TOP 14: Beratungspunkte Ausschüsse
+- TOP 14.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 14.1.1: Aufstellung des Bebauungsplanes Nr. G 230 "Erftlofts" - Ortsteil Stadtmitte - mehrheitlich beschlossen
+- TOP 14.1.2: G 230 Erft-Lofts - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 14.1.3: 16. FNP Änd. Einstellung - einstimmig beschlossen
+- TOP 14.1.4: 26. FNP Änd. Einstellung - einstimmig beschlossen
+- TOP 14.1.5: G 218 Einstellung - einstimmig beschlossen
+- TOP 14.1.6: 33. FNP Änd. Lohweg - Beschluss nach § 6 BauGB - einstimmig beschlossen
+- TOP 14.1.7: Strukturkonzept für den Kraftwerksstandort Frimmersdorf - mehrheitlich beschlossen
+- TOP 14.2: Ausschuss für Soziales, Inklusion, Integration, Gleichstellung und Demografie
+- TOP 14.2.1: Erstellung Inklusionskonzept - einstimmig beschlossen
+- TOP 14.3: Beratungspunkte aus dem Ausschuss für Kultur, Volkshochschule, Freizeit und Ehrenamt
+- TOP 14.3.1: Antrag der UWG Fraktion Gebührenermäßigung von VHS-Kursen für Schwerbehinderte - einstimmig beschlossen
+- TOP 15: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 15.1: Förderung des Ehrenamts - mehrheitlich beschlossen
+- TOP 15.2: Anfrage zur Jugendgewalt an Schulen im Stadtgebiet Grevenbroich im Jahr 2023 (Anfrage Nr.:58/2024) - Kenntnisnahme
+- TOP 15.3: Anfrage zur Unterbringung von geflüchteten Frauen mit Kindern (Anfrage Nr.:60/2024) - Kenntnisnahme
+- TOP 15.4: NRW-Europa-Scheck Mittel in und für Grevenbroich nutzen (Antrag Nr.:81/2023) - Kenntnisnahme
+- TOP 15.5: Antrags- und Anfragenverfolgung - Kenntnisnahme
+- TOP 15.6: Ergänzende Erläuterungen zur Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung im Jahr 2024 für den Jahresabschluss 2023 - Kenntnisnahme
+- TOP 15.7: Verzicht auf Steuereinnahmen, bei denen der Verwaltungsaufwand höher ist als die Summe der zu erzielenden Einnahmen (Antrag Nr.:19/2024) - Kenntnisnahme
+- TOP 16: Schriftliche Anträge
+- TOP 16.1: Anträge der SPD-Fraktion
+- TOP 16.1.1: Wiedereinführung eines Ehrenamtpreises (Antrag Nr.:78/2024) - einstimmig beschlossen
+- TOP 16.1.2: Ausschussumbesetzung (Antrag Nr.:74/2024) - einstimmig beschlossen
+- TOP 16.1.3: Spielplatz Vogelviertel (Antrag Nr.:80/2024) - einstimmig beschlossen
+- TOP 16.1.4: Basketballkorb Neurath (Antrag Nr.:81/2024) - einstimmig beschlossen
+- TOP 16.1.5: Maßnahmen Starkregen (Antrag Nr.:82/2024) - einstimmig beschlossen
+- TOP 16.1.6: OGS-Ersatzangebote (Antrag Nr.:83/2024) - einstimmig beschlossen
+- TOP 16.1.7: Stärkung der Schulinfrastruktur (Antrag Nr.:85/2024) - einstimmig beschlossen
+- TOP 16.2: Anträge der CDU-Fraktion
+- TOP 16.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 16.4: Anträge der FDP-Fraktion
+- TOP 16.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 16.6: Anträge der UWG-Fraktion
+- TOP 17: Gemeinschaftsanträge
+- TOP 18: Schriftliche Anfragen
+- TOP 18.1: Anfragen der SPD-Fraktion
+- TOP 18.1.1: Instandhaltung und Reinigung von Sportanlagen (Anfrage Nr.:84/2024) - Kenntnisnahme
+- TOP 18.2: Anfragen der CDU-Fraktion
+- TOP 18.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 18.4: Anfragen der FDP-Fraktion
+- TOP 18.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 18.6: Anfragen der UWG-Fraktion
+- TOP 18.6.1: Pflege von öffentlichen Grünflächen/Spielplätzen/Straßenbegleitgrün durch die Stadtbetriebe Grevenbroich (Anfrage Nr.:71/2024) - Kenntnisnahme
+- TOP 18.7: Anfragen von Einzelratsmitgliedern
+- TOP 18.7.1: Anfrage zu Starkregenereignisse "Überflutung Elsbach Tunnel" (Anfrage Nr.:72/2024) - Kenntnisnahme
+- TOP 18.7.2: Anfrage Elsbachtunnel (Anfrage Nr.:73/2024) - Kenntnisnahme
+- TOP 18.7.3: Anfrage nach Benennung einer neuen Straße mit dem Namen - Rouven Laur Straße (Anfrage Nr.:75/2024) - Kenntnisnahme
+- TOP 18.7.4: Anfrage zu "Cannabis Social Clubs" (Anfrage Nr.:76/2024) - Kenntnisnahme
+- TOP 18.7.5: Anfrage zur Sicherheit im Bahnhof Grevenbroich (Anfrage Nr.:77/2024) - Kenntnisnahme
+- TOP 18.7.6: Anfragen zu Sporthallenkapazitäten (Anfrage Nr.:79/2024) - Kenntnisnahme
+- TOP 18.7.7: Anfragen zu Lärmschutz für die Kita Merkatorstraße (Anfrage Nr.:86/2024) - Kenntnisnahme
+- TOP 19: Mitteilungen des Bürgermeisters
+- TOP 19.1: Information der GFWS: Digital X (Messe in Köln) - Kenntnisnahme
