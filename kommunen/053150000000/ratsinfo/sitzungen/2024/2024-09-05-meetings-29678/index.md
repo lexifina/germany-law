@@ -1,0 +1,99 @@
+# 26. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-05T15:35:00+02:00
+- Ende: 2024-09-05T18:46:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29678
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29678
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.1.1: Mitteilung zur Bürgereingabe - Änderung §23 Hauptsatzung, Az.: 08/24 - Kenntnis genommen
+- TOP 2.1.2: Mitteilung zu den Beschlüssen der Stadtarbeitsgemeinschaften Behindertenpolitik und Queerpolitik zu Ergänzung der Hauptsatzung, und der Geschäftsordnungen der Stadtarbeitsgemeinschaften Behindertenpolitik und Queerpolitik - Kenntnis genommen
+- TOP 2.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.2.1: Bericht der Behindertenbeauftragten der Stadt Köln - 02/2024 - Kenntnis genommen
+- TOP 2.3: Start des Pilotprojekts „INSGES*AMT – Inklusive Service-Gestaltung im AMT“ - Kenntnis genommen
+- TOP 2.4: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 2.5: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 2.6: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 2.7: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 2.8: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Dringender Handlungsbedarf: Mieterinnen und Mieter im Kölner Norden benötigen sofortige Lösungen - zurückgestellt
+- TOP 3.2: Pilotprojekt Job-Turbo für Köln - Städtische Töchter gehen voran - geändert beschlossen
+- TOP -: TOP 3.2: Pilotprojekt Job-Turbo für Köln - Städtische Töchter gehen voran - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.1.8 Pilotprojekt Jobturbo für Köln - Städtische Töchter gehen voran - Sache ist erledigt
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Gemeinsame Veranstaltung der Oberbürgermeisterin und der Stadtarbeitsgemeinschaft Behindertenpolitik zum "Kölner Tag der Menschen mit Behinderung 2024“ - ungeändert beschlossen
+- TOP 4.2: Förderung von Selbsthilfegruppen im Sozialbereich 2024 - geändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 5.1: Städtische Katastrophenschutzeinrichtung Boltensternstr. 2-4, 50735 Köln-Riehl, Gemarkung Nippes, Flur 086, Flurstücke 399 und 468; hier Baubeschluss für eine Dachsanierung - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Verlängerung des Belegungsrechtsvertrags mit der GAG - ungeändert empfohlen
+- TOP 5.3: Ombudspersonen nach § 16 Absatz 2 Wohn- und Teilhabegesetz NRW - ungeändert empfohlen
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Erster Halbjahresbericht 2024 zur Wohnungs- und Obdachlosigkeit in Köln - Kenntnis genommen
+- TOP 7.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg 11, 50737 Köln-Longerich - Kenntnis genommen
+- TOP 7.3: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - zurückgestellt
+- TOP 7.4: Anpassung der Wohnraumförderung - Kenntnis genommen
+- TOP 7.5: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 7.6: Das Mietwohnungsangebot in Köln 2023 - Kenntnis genommen
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Beantwortung einer mündlichen Anfrage von IRM Carine Weber aus der Sitzung des Integrationsrates vom 16.04.2024 betreffend "TOP 5.12 Jahresbericht des Auszugsmanagements 2023 (1268/2024)" - zurückgestellt
+- TOP 9.2: 41. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.3: 42. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.4: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.5: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 9.6: Aktualisierte Bedarfsfeststellung Unterbringungplätze für Geflüchtete - Mitteilung über Eilentscheidung Hauptausschuss - Kenntnis genommen
+- TOP 9.7: Jahresbericht der Ombudsstelle für Flüchtlinge in Köln 2023 und 1. Quartalsbericht 2024 - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der schriftlichen Nachfrage AN/0762/2024 der SE Dr. Köhler zur Vorlage 1109/2024 betreffend "Barrierearmut Altbaubestand - Fahrstühle und Parterrewohnungen" - Kenntnis genommen
+- TOP 10.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der schriftlichen Nachfrage der SE Dr. Köhler (AN/0763/2024) zur Vorlage 1107/2024 betreffend "Wohnungs-Misere für Senior*innen in Köln" - Kenntnis genommen
+- TOP 10.1.3: Armut in Köln: Wohnungs- und Obdachlosigkeit 2023 - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses für Seniorinnen und Senioren vom 29.02.2024 (AN/0288/2024) betreffend "Armut in Köln: Wohnungs- und Obdachlosigkeit 2023 - Kenntnis genommen
+- TOP 10.1.4: Razzia im Pascha – Wurden die Eigentümer*innen jemals überprüft? - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Razzia im Pascha" (AN/0835/2024) - Kenntnis genommen
+- TOP 10.1.5: Plätze mit besonderem Handlungsbedarf, hier: Ebertplatz - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktionen Grüne, CDU und Volt betreffend Plätze mit besonderem Handlungsbedarf, hier: Ebertplatz AN/0838/2024 - Kenntnis genommen
+- TOP 10.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.7: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 (2292/2024) betreffend "Wohngemeinschaften für Demenzkranke in Köln" - Kenntnis genommen
+- TOP 10.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.10: Beantwortung der mündlichen Nachfragen aus der Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren vom 06.06.2024 betreffend „Jahresbericht "Willkommen und Ankommen in Köln" (1525/2024) - Kenntnis genommen
+- TOP 10.1.11: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 (AN/0881/2024) betreffend "Personal in der Kümmerei Chorweiler" - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Gehörlose Geflüchtete - zurückgestellt
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.2: Sachstandsbericht Köln-Pass - Kenntnis genommen
+- TOP 12.3: Broschüre "Selbsthilfegruppen in Köln von A-Z" Ausgabe 2024 - Kenntnis genommen
+- TOP 12.4: Verbraucherberatung im Quartier: Jahresbericht 2023 - Kenntnis genommen
+- TOP 12.5: Verbraucherberatungsstelle Köln: Jahresbericht 2023 - Kenntnis genommen
+- TOP 12.6: Jahresbericht 2023 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 12.7: Sachbericht für das Jahr 2023 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 12.8: Stärkungspakt NRW - vorläufiger Schlussbericht zum 30.06.2024 - Kenntnis genommen
+- TOP 12.9: Halbjahresbericht zur Einführung eines Anonymen Krankenscheins in der Stadt Köln - Kenntnis genommen
+- TOP 12.10: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2023 - Kenntnis genommen
+- TOP 12.11: Zwischenbericht "Masterplan Kommunale Sicherheit" - Kenntnis genommen
+- TOP 12.12: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - Kenntnis genommen
+- TOP 12.13: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 12.14: Zufriedenheit mit Köln: Größte Probleme und erreichte Verbesserungen – Befragungsergebnisse aus der Strukturdatenerhebung in Köln 2023 - Kenntnis genommen
+- TOP 12.15: Anonymer Krankenschein in der Stadt Köln - Kenntnis genommen
+- TOP 12.16: Evaluation Kooperatives Baulandmodell 2024 - zurückgestellt
+- TOP 12.17: SeniorenNetzwerke Köln: Aktuelle Übersichtskarte - zurückgestellt
+- TOP 12.18: „Aktionstag Mobilität“ am 28. September 2024 - zurückgestellt
