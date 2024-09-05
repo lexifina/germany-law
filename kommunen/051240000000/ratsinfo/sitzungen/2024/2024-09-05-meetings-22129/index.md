@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-09-05T16:02:00+02:00
+- Ende: 2024-09-05T19:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/244
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22129
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22129
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00336091.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00336925.pdf
+
+## Tagesordnung
+
+- TOP 1: Smart Tec Campus
+- TOP 2: Information zur gemeinsamen Baumaßnahme WSW und Stadt - Elberfeld 2030
+- TOP 2.1: Sachstandsbericht zur Baumaßnahme Elberfeld 2030 - Entgegennahme ohne Beschluss
+- TOP 3: Anfragen
+- TOP 3.1: Musterpflasterung auf der Poststraße - Entgegennahme ohne Beschluss
+- TOP 3.1.1: Antwort auf die Große Anfrage "Musterpflasterung auf der Poststraße" VO/0975/24 - Entgegennahme ohne Beschluss
+- TOP 3.2: Einschätzung der Wuppertaler Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 3.2.1: Einschätzung der Wuppertaler Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 3.3: Sachstand Wasserspeicher Linderhauser Straße sowie Bestandsanalyse zum Rahmenplan Linderhauser Straße / Wittener Straße - - Entgegennahme ohne Beschluss
+- TOP 4: Anträge und Anregungen nach § 24 GO NRW
+- TOP 4.1: Problem – und Schrottimmobilen in Wuppertal - zurückgezogen
+- TOP 4.2: Anregung nach § 24 GO NRW - Beteiligung der Öffentlichkeit nach dem BauGB und VwVfG - ungeändert beschlossen
+- TOP 4.3: Anregung nach § 24 GO NRW - Erweiterung eines Landschaftsschutzgebietes im Bereich Marpe/Adolf-Vorwerk-Straße - ungeändert beschlossen
+- TOP 4.4: Petition zum Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen: Standort Jägerhaus / Linde - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen - geändert beschlossen
+- TOP 5.1: Änderungsantrag zur Drucksache "Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen" (VO/0523/24) - ungeändert beschlossen
+- TOP 6: Sachstandsbericht Döppersberg - Entgegennahme ohne Beschluss
+- TOP 7: Standortsuche Zentralbibliothek - Entgegennahme ohne Beschluss
+- TOP 8: Jahresbericht des Inklusionsbüros 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 9: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Hof- und Hausflächen in ausgewählten Stadtteilen ("Hof- und Fassadenprogramm") - ungeändert beschlossen
+- TOP 10: Aktuell praktizierte Handlungsansätze und potentielle Handlungsmöglichkeiten zur Reduzierung der Leerstände - Entgegennahme ohne Beschluss
+- TOP 11: 18. Änderung des Regionalplanes Düsseldorf "Änderung der Festlegungen zu Windenergieanlagen" - ungeändert beschlossen
+- TOP 12: Quartalsbericht II/2024 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 13: 4. Zwischenbericht InnenBandStadt - Entgegennahme ohne Beschluss
+- TOP 14: Quartalsbericht II/2024 zur Wohnraumentwicklung - Entgegennahme ohne Beschluss
+- TOP 15: 164. Flächennutzungsplanänderung - Hipkendahl - - abgelehnt
+- TOP 16: Bebauungsplan 1295 - Hipkendahl - - abgelehnt
+- TOP 17: Bebauungsplan 1296 - Hatzfelder Büsche - - ungeändert beschlossen
+- TOP 18: Bebauungsplan 1253 - Porta Westfalica / Kurvenstraße - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 1203 - An den Friedhöfen - - ungeändert beschlossen
+- TOP 20: Bebauungsplan 1246 Süd - Langerfelder Straße / ehemalige Henkels Fabrik - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 1137 - Hans-Böckler-Straße / Am Deckershäuschen - Aufstellungs- und Offenlegungsbeschluss- Bebauungsplan 1137V Hans-Böckler-Straße / Am Deckershäuschen - Aufstellungs- und Offenlegungsbeschluss zur Teilaufhebung- - ungeändert beschlossen
+- TOP 22: Bebauungsplan 1234 - Rädchen Süd - - ungeändert beschlossen
+- TOP 23: Bebauungsplan 278 - In der Lohrenbeck - - ungeändert beschlossen
+- TOP 24: Bebauungsplan 782 - Gustav-Heinemann-Straße/Westfalenweg - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 1273/1 - Christbusch/Am Unterbarmer Friedhof - ungeändert beschlossen
+- TOP 26: Bebauungsplan 272 - Im Hölken - - ungeändert beschlossen
+- TOP 27: Obsoleszensverfahren Rauental (Durchführungsplan 75) - ungeändert beschlossen
+- TOP 28: Bebauungsplan 199 - Lohsiepen - 1. Änderung - Entgegennahme ohne Beschluss
