@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.9
+- Datum: 2024-09-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.10
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2023
+06.09.2024
 bis
-05.09.2024
+31.07.2025
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -58,7 +58,7 @@ Werden neue Stunden- oder Rahmenstundentafeln in Kraft gesetzt, sind diese erstm
 
 d)
 
-Die Stundentafeln für die einjährige Fachoberschule, die Rahmenstundentafel für die Fachschule und die Stundentafeln für die Fachschule gelten bei Unterricht in Teilzeitform entsprechend.
+Die Stundentafeln für die einjährige Fachoberschule und die Stundentafeln für die Fachschule gelten bei Unterricht in Teilzeitform entsprechend.
 
 
 e)
@@ -759,9 +759,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2023
+Fassung gültig ab:  6. September 2024
 
-Fassung gültig bis:  5. September 2024
+Fassung gültig bis: 31. Juli 2025
 
 Drucken/Speichern
 
@@ -788,7 +788,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.9
+https://www.revosax.sachsen.de/vorschrift/17348.10
 Stand vom
 18.11.2026
 
