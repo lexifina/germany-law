@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-10-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.8
+- Datum: 2024-09-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-06.10.2023
+06.09.2024
 bis
-05.09.2024
+03.04.2025
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -254,12 +254,17 @@ Zeugnis (Berufsschulpflichterfüllerklasse)
 
 A.02.07
 
-Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 1 der Schulordnung Berufsschule vom 24. Juli 2018 (SächsGVBl. S. 531), die durch Artikel 1 der Verordnung vom 9. September 2020 (SächsGVBl. S. 531) geändert worden ist, in der jeweils geltenden Fassung
+Zeugnis über den mittleren Schulabschluss gemäß § 30 Absatz 1 Nummer 2 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92)
 
 
 A.02.08
 
-Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 2 der Schulordnung Berufsschule, in der jeweils geltenden Fassung
+Zeugnis über den mittleren Schulabschluss gemäß § 30 Absatz 1 Nummer 1 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92)
+
+
+A.02.09
+
+Zeugnis über den mittleren Schulabschluss gemäß § 30 der Schulordnung Berufsschule vom 14. März 2023 (SächsGVBl. S. 92), die durch Artikel 2 der Verordnung vom 31. Juli 2024 (SächsGVBl. S. 783) geändert worden ist, in der jeweils geltenden Fassung
 
 
 B)
@@ -314,12 +319,12 @@ Halbjahresinformation
 
 B.02.02
 
-Jahreszeugnis (außer Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenz und Berufsfachschule für Operationstechnische Assistenz)
+Jahreszeugnis
 
 
 B.02.02a
 
-Jahreszeugnis Berufsfachschule für Pflegeberufe, Berufsfachschule für Anästhesietechnische Assistenz und Berufsfachschule für Operationstechnische Assistenz
+Jahreszeugnis Berufsfachschule für Anästhesietechnische Assistenz, Berufsfachschule für Medizinische Technologie, Berufsfachschule für Operationstechnische Assistenz und Berufsfachschule für Pflegeberufe
 
 
 B.02.02b
@@ -651,9 +656,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. Oktober 2023
+Fassung gültig ab:  6. September 2024
 
-Fassung gültig bis:  5. September 2024
+Fassung gültig bis:  3. April 2025
 
 Drucken/Speichern
 
@@ -680,7 +685,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.8
+https://www.revosax.sachsen.de/vorschrift/17513.9
 Stand vom
 18.11.2026
 
