@@ -1,0 +1,147 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-09-09T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982365
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982365
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Lärmschutz in der Schäftlarnstraße
+- TOP 2.2.: Wohnen in der Kyreinstraße 5
+- TOP 2.3.: Neugestaltung des Herzog-Ernst-Platz – Anbringen von Taubenschlägen
+- TOP 2.4.: Schließung der Postfilialen in Sendling und Sendling-Westpark
+- TOP 2.5.: Situation um den Quartiersplatz
+- TOP 2.6.: Wertstoffinsel "Am Isarkanal" umstellen
+- TOP 2.7.: Neue Wertstoffinsel Lipowskystraße 4
+- TOP 2.8.: Freizeiteinrichtungen Sport Sendling (Maxi Pitch)
+- TOP 2.9.: Parkplatzsituation an der Kreuzung Fallstraße zur Georg-Hallmaier-Straße
+- TOP 2.10.: Fahrzeuge von MILES-Mobility rund um den Wertstoffhof
+- TOP 2.11.: Geruchs- und Insektenbelastung Lindwurmstraße Ecke Aberlestraße
+- TOP 2.12.: Nächtliche Lärmsituation an der Großmarkthalle
+- TOP 2.13.: Behinderung des Fußwegs an der Lindwurmstraße Ecke Bavariastraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag auf Baumfällung auf dem Grundstück Demleitnerstraße 1
+- TOP 4.2.2.: Neubau von drei Stadthäuser-Reihenbebauung (3 WE) im Rückteil eines Innenhofes auf dem Grundstück der Lindenschmitstr. 25 und damit einhergehende Baumfällung
+- TOP 4.2.3.: Neubau von drei Stadthäuser-Reihenbebauung (3 WE) im Rückteil eines Innenhofes auf dem Grundstück der Lindenschmitstr. 25
+- TOP 4.2.4.: Antrag auf Baumfällung auf dem Grundstück Leipartstraße 10
+- TOP 4.2.5.: Energetische Sanierung und Dachaufstockung von fünf Mehrfamilienhäusern, Anbau von Aufzügen, Balkonsanierung sowie statische Ertüchtigung der Garagen und Freiflächenneugestaltung auf dem Grundstück Esswurmstr. 7
+- TOP 4.2.6.: Ersatz des eingeschossigen Anbaus durch die Erstellung eines sechsgeschossigen Wohngebäudes mit 22 Wohneinheiten und Tiefgarage auf dem Grundstück Gaißacher Str. 17
+- TOP 4.2.7.: Lärmaktionsplan 2024 – Schreiben des RKU zur Beteiligung der Bezirksausschüsse
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Baumaschinenlärm an der Großmarkthalle / Lenggrieser Straße
+- TOP 4.3.2.: Denkmalgeschützte Wohnanlage an der Fall-/Zechstraße - Schriftverkehr mit dem Denkmalnetz Bayern
+- TOP 4.3.3.: Denkmalgeschütze Wohnanlage an der Fall-/Zechstraße – Beurteilung einer möglichen Zweckentfremdung durch das Wohnungsamt des Sozialreferates
+- TOP 4.3.4.: Mückenplage am Sendlinger Loch und Umgebung
+- TOP 4.3.5.: Perspektive München - Handlungsräume der Stadtentwicklung, SV Nr. 20-26 / V 12346
+- TOP 4.3.6.: Sendlinger Pfarrgarten unter Denkmalschutz stellen BA-Antrag 20-23 / B 02363 des Bezirksausschusses des Stadtbezirkes 6 – Sendling vom 12.04.2021
+- TOP 4.3.7.: Bebauungsplan Nr. 2177 Kapellenweg (südlich) Gleisanlage (südwestlich und westlich) Flurstücke Nr. 10436 (Teilfläche) und Nr. 10436/3 (Teilfläche), Gemarkung München, Sektion VI (nördlich) Implerstraße (östlich) -Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss-
+- TOP 4.3.8.: Anhaltende Hochwasserproblematik in der Kleingartenanlage SW 24
+- TOP 4.4.: Anträge
+- TOP 4.5.: Sonstiges
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: Park- und Verkehrssituation im Stadtbezirk
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO, öffentlich-rechtliche Sondernutzung gem. Art. 18 BayStrWG für Märkte und Festsetzung einer Marktveranstaltung gem. § 69 GewO; Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 25.11. bis 23.12.2024
+- TOP 5.2.2.: Stadtplätze beleben: Kioske auf dezentral gelegenen öffentlichen Flächen ermöglichen Stadtratsantrag der Fraktion DIE Grünen - Rosa Liste Nr. 20-26 / A 04064 vom 03.08.2023 und des Antrags Nr. 20-26 / B 02383 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 18.05.2021
+- TOP 5.2.3.: 2. Stammstrecke - 1. Planänderung zum Planfeststellungsbeschluss PFA 3 Ost
+- TOP 5.2.4.: Anhörung zum Parkraummanagement in Sendling Änderungen im Parklizenzgebiet Karwendelstraße hier: Karwendelstraße
+- TOP 5.2.5.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA) – Standort Albert-Roßhaupterstraße/ Meindlstraße
+- TOP 5.2.6.: Antrag auf eine Sitzgelegenheit vor der Aberlestraße 10
+- TOP 5.2.7.: Errichtung einer festen Toilettenanlage am Bahndeckel - finale Standortabstimmung
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Oberländerstr. 20 Seite Danklstr. und Danklstr. 11 - Vollsperre, Verlegung Fernwärme
+- TOP 5.3.2.: SWM Fernwärmeprojekt Oberländerstraße – Information zu Baustellen
+- TOP 5.3.3.: Lindwurmunterführung Bauphase III
+- TOP 5.3.4.: Fußgängerquerung an der Implerstraße - BA-Antrag Nr. 20-26 / B 01149 des Bezirksausschusses des Stadtbezirkes 06 – Sendling vom 02.11.2020
+- TOP 5.3.5.: Parkplatzsituation in der Karwendelstraße bis zur Dudenstraße
+- TOP 5.3.6.: Einzelantrag Radabstellplatz – Brudermühlstraße/Lenggrieser Straße
+- TOP 5.3.7.: Lindenschmitstraße – Verkehrsberuhigung
+- TOP 5.3.8.: Parkraummanagement Flößergasse, Tölzer Straße, Zechstraße, Heißstraße, Fallstraße BV-Empfehlung-Nr.: 20-26 / E 00434 - Zwischennachricht -
+- TOP 5.3.9.: Fußgängerquerung an der Implerstraße
+- TOP 5.3.10.: Ampelanlage Plinganser-/Brudermühl-/Sylvensteinstraße
+- TOP 5.3.11.: Versammlungsanzeige zu einer Versammlung am 14.09.2024 am Harras
+- TOP 5.3.12.: Tauben am Bahnhof Harras
+- TOP 5.3.13.: Genehmigung Parklet - Schöttlstraße 14
+- TOP 5.3.14.: Antrag auf einen Fahrrad-Abstellplatz in der Daiserstraße
+- TOP 5.3.15.: Verkehr in der Plinganser Straße und der Jägerwirtstraße
+- TOP 5.3.16.: Parksituation im Bereich der Zechstraße und der Fallstraße
+- TOP 5.3.17.: Umgestaltung der Leipartstraße
+- TOP 5.3.18.: Arbeiten im Straßenraum; Hans-Klein-Str. 7-17 zwischen Johannes-Timm-Str. und Radlkoferstr. Umbau der Straßenabschnitte Vollsperre BA-Antrag 20-26 / B 06143 des Bezirksausschusses des Stadtbezirkes 6 – Sendling vom 22.11.2023 Umwandlung der falsch gebauten Parkplätze vor dem Neubau der GWG in der Hans-Klein-Straße in eine breitere Grünfläche BA-Antrag 20-26 / B 06190 des Bezirksausschusses des Stadtbezirkes 6 – Sendling vom 04.12.2023
+- TOP 5.3.20.: Bauarbeiten Plinganserstraße Haltestelle Steinerstraße
+- TOP 5.3.21.: Informationsschreiben Sommerstraße und Aufruf für Saison 2025
+- TOP 5.3.22.: Optimierung der Ampelschaltung an der Kreuzung Plinganser- und Lindwurmstraße
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Langfristige Entsiegelung und Umbau der Schöttlstraße Antrag des Sendlinger Bezirksausschusses am 09. September 2024 an das Mobilitätsreferat (Antrag B 90 / Die Grünen)
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative Impro-Theatergruppe "southbound" „Southbound: Improtheater für und mit Ludwigsvorstadt, Isarvorstadt, Sendling vom 10.09.2024 – 16.05.2025“ 900,00 € / AZ: 0262.0-6-0513
+- TOP 6.1.2.: (E) Stadtbezirksbudget Caritas CV München / Erziehungsberatungsstelle Sendling / Westpark „70 Jahre Caritas Erziehungsberatung Sendling am 18.09.2024“ 1.000,00 € / AZ: 0262.0-6-0514
+- TOP 6.1.3.: (E) Stadtbezirksbudget Init. "Theater" „Theaterstück Tohuwabohu vom 16.12.2024 – 10.01.2025“ 4.146,03 € / AZ: 0262.0-6-0515
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative Orgateam PopUp Galerie der Künstler*innen im Stemmerhof „PopUp Galerie der Künstler*innen vom 01.10.2024 – 30.09.2025“ 3.987,86 € / AZ: 0262.0-6-0517
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Evaluierung Stadtbezirksbudget - Abfrage Erfahrungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweis Pop-Up Galerie Stemmerhof vom 01.05.2023 bis 30.04.2024
+- TOP 6.3.2.: Verwendungsnachweis Initiative Impro-Theatergruppe "southbound" „Southbound: Improtheater für und mit Ludwigsvorstadt, Isarvorstadt, Sendling vom 10.09.2024 – 16.05.2025“
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.3.1.: Betreuungssituation in Sendling
+- TOP 7.3.2.: Informationsschreiben zu den Inbetriebnahmen von Bildungseinrichtungen 2024
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Genehmigung einer Freischankfläche – Brudermühlstraße 3
+- TOP 8.1.2.: Genehmigung über die Erweiterung einer Freischankfläche – Brudermühlstraße 3
+- TOP 8.1.3.: Genehmigung über die Aufstellung einer Verkaufseinrichtung – Brudermühlstraße 3
+- TOP 8.1.4.: Genehmigung einer Freischankfläche – Plinganserstraße 37
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.3.1.: Spielplatz Dietramszeller Platz – Befüllen des Sandkastens
+- TOP 8.3.2.: FFC Wacker – gemeinsames Kunstprojekt in Sendling
+- TOP 8.3.3.: Vorab-Info zu geplanter Jugendparty am Neuhofener Berg
+- TOP 8.4.: Anträge
+- TOP 8.4.1.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling (Antrag Bündnis 90 / Die Grünen und SPD-Fraktion)
+- TOP 8.5.: Sonstiges
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.3.1.: Lärmbelästigung auf dem Kirchplatz der Kirche St. Margaret, aktueller Sachstand der Bearbeitung durch AKIM
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 5.1.2.: (E) Park- und Verkehrssituation im Stadtbezirk
+- TOP 2.14.: Akute Vermüllung der Wertstoff-Insel an der Gaißacher Straße Ecke Esswurmstraße
+- TOP 6.1.5.: (E) Stadtbezirksbudget Studio D40 „Ausstellung Synchronizität vom 19.09.2024 – 22.09.2024“ 570,00 € / AZ: 0262.0-6-0516
+- TOP 2.15.: Mögliche erneute Baumfällung am Sendlinger Friedhof
+- TOP 4.3.9.: § 176 BauGB – eine mögliche Anwendung für das „Sendlinger Loch“?
+- TOP 4.3.10.: Baumgraben an der Ecke Danklstraße-/Valleystraße
+- TOP 4.3.11.: Neugestaltung des Herzog-Ernst-Platz – Anbringung eines Taubenschlags
+- TOP 5.3.23.: Pflasterarbeiten in der Oberländerstraße
+- TOP 5.3.19.: Arbeiten im Straßenraum; Hans-Klein-Str. 7-17 zwischen Johannes-Timm-Str. und Radlkoferstr. Umbau der Straßenabschnitte Vollsperre BA-Antrag 20-26 / B 06143 des Bezirksausschusses des Stadtbezirkes 6 – Sendling vom 22.11.2023 Umwandlung der falsch gebauten Parkplätze vor dem Neubau der GWG in der Hans-Klein-Straße in eine breitere Grünfläche BA-Antrag 20-26 / B 06190 des Bezirksausschusses des Stadtbezirkes 6 – Sendling vom 04.12.2023
+- TOP 5.3.24.: Oberländerstraße 12 und 12 auf gegenüber; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze
+- TOP 5.3.25.: Kreuzung Esswurmstraße / Roter-Turm-Platz
+- TOP 5.3.26.: Fahrradstellplätze in der Lipowskystraße 15 und der Lipowskystraße 21
+- TOP 5.3.27.: Fahrradstellplätze in der Spitzwegstraße 13
+- TOP 5.3.28.: Maßnahmen zur Geschwindigkeitseinhaltung im verkehrsberuhigten Bereich Ludwig-Krafft-Str/Heinrich-Stieglitz-Kehre/Josef-Lutz-Weg
+- TOP 8.2.1.: Anhörung VA Grünanlage: MUCs nicht-kommerzielle Jugendparty "Kollektiv Bushbash - Gemeinsam Miteinander die Stadt beleben", Grünanlage Neuhofener Berg (Alois-Johannes-Lippl-Weg) am 14.09.2024; TERMIN: 10.09.2024
+- TOP 3.1.: Bericht und Ergebnisse „Ein Platz für die Alramstraße“ / Green City e. V.
+- TOP 7.4.1.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferienpässen für Einrichtungen im Stadtbezirk Sendling (Fraktion B 90 / Die Grünen und SPD-Fraktion)
+- TOP 2.16.: Abstellen von Motorrädern und Motorrollern im Stadtbezirk
