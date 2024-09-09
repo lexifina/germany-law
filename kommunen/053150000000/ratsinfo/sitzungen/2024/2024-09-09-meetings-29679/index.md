@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-09T15:10:00+02:00
+- Ende: 2024-09-09T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29679
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29679
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Vorstellung der Schulbaugesellschaft mbH - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück als Interim für den Ersatz für das bestehende Berufskolleg Porz, Hauptstraße 426, 51143 Köln - endgültig zurückgezogen
+- TOP 2.2: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch des Bebauungsplan-Entwurfes 76380/03, Blatt 3, Arbeitstitel: Südlich Friedensstraße - Ostteil in Köln-Porz-Elsdorf - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktion KLIMAFREUNDE & GUT vom 10.06.2024 betreffend "Schulgemeinschaft schützen - Demokratie verteidigen!" - endgültig zurückgezogen
+- TOP 3.2: Antrag der Fraktion SPD vom 27.08.2024 betreffend "Zukünftiger Schulstandort Urbacher Weg in Porz-Ensen" - zurückgestellt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 04.07.2024 betreffend "Fälschungssichere Schulbescheinigungen - Teilnahme am Pilotprojekt "Missimo"" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 05.08.2024 - Kenntnis genommen
+- TOP 4.2: Anfrage der Fraktion FDP vom 19.08.2024 betreffend "Zunehmende Gewalt an Kölner Schulen" - zurückgestellt
+- TOP 4.3: Anfrage der Fraktion SPD vom 02.09.2024 betreffend "Abschulungen und Anmeldezahlen Kurt-Tucholsky-Hauptschule" - zurückgestellt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Stadtschulpflegschaft vom 17.04.2024 betreffend "Gebäudeklima" - zurückgestellt
+- TOP 5.2: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - zurückgestellt
+- TOP 5.3: Anfrage der Fraktion DIE FRAKTION vom 05.06.2024 betreffend "Nutzung von Schulgebäuden durch politische Organisationen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 02.09.2024 - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Anregung der Bezirksvertretung Nippes, Dritte Gesamtschule für den Stadtbezirk Nippes - zurückgestellt
+- TOP 6.2: Nutzungs- und Entgeltordnung für die Nutzung von Schulraum für nichtschulische Zwecke einschließlich der Allgemeinen Nutzungsbedingungen - ungeändert empfohlen
+- TOP 6.3: Einrichtung des Bestandsgebäudes des Königin-Luise-Gymnasiums nach erfolgter Generalinstandsetzung in der Alten Wallgasse 10 in 50672 Köln und entsprechende Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 0301, Schulträgeraufgaben - ungeändert empfohlen
+- TOP 6.4: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Zusestraße 47, 50859 Köln zum Schuljahr 2024/25. - ungeändert empfohlen
+- TOP 6.5: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2024/2025 und Ausblick auf den Rechtsanspruch ab dem Schuljahr 2026/2027 - ohne Votum in nachfolgende Gremien
+- TOP 7: Entscheidungen
+- TOP 7.1: Entwicklung eines EDV-Tools für die Schulentwicklungsplanung unter wissenschaftlicher Begleitung – Bedarfsfeststellung für die Beauftragung einer freiberuflichen Tätigkeit gemäß § 5 Abs. 1 Buchstabe b) der Zuständigkeitsordnung der Stadt Köln - endgültig zurückgezogen
+- TOP 7.2: Anmeldung und Aufnahmeverfahren zu den weiterführenden Schulen der Sekundarstufe I in Köln zum Schuljahr 2025/26 - geändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Veröffentlichung des ZMI Magazins 2024 und Durchführung des Sprachfestes 2024 - Kenntnis genommen
+- TOP 8.2: Beantwortung einer Anfrage von Die Linke in der BV 8 (AN/0614/2024) - Kenntnis genommen
+- TOP 8.3: Sachstandbericht KölnBäder GmbH "Schwimmkurse" und "Sicher schwimmen" Geschäftsjahr 2023 - Kenntnis genommen
+- TOP 8.4: Umsetzung der Kampagne zur Erhöhung der Anzeigenbereitschaft bei queerfeindlicher Gewalt in Köln - Kenntnis genommen
+- TOP 8.5: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 8.6: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 8.7: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 8.8: Start Medienscouts NRW Grundschule im KOMEZ Köln - Kenntnis genommen
+- TOP 8.9: VHS erhält Projektzusage im Rahmen des ESF-Bundesprogramms „Akti(F) Plus“ - Kenntnis genommen
+- TOP 8.10: Stellungnahme zum Beschluss der Bezirksvertretung Porz Vorlage 4033/2023 aus der Sitzung des SteA vom 14.03.2024 betreffend "Schulstandort Urbacher Weg in Köln-Porz" - zurückgestellt
+- TOP 8.11: Halbjahresprogramm des KOMEZ Köln für das erste Halbjahr des Schuljahres 24/25 - Kenntnis genommen
+- TOP 8.12: Bericht der Behindertenbeauftragten der Stadt Köln - 02/2024 - Kenntnis genommen
+- TOP 8.13: Wiederherstellung der Sanitäranlagen für die Bezirkssportanlage Ehrenfeld, Everhardstraße 60, 50823 Köln - Kenntnis genommen
+- TOP 8.14: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.15: Monitoring Berufskollegs (Stand: Juni 2024) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.16: Beantwortung einer mündlichen Anfrage von Oliver Seeck, SPD, aus der Sitzung des Ausschusses Schule und Weiterbildung vom 10.06.2024 betreffend „niederschwellige Angebote Schull- und Veedelszöch“ - Kenntnis genommen
+- TOP 8.17: Beantwortung einer mündl. Anfrage von Christer Cremer (AfD-Fraktion) aus der Sitzung des Ausschuss für Schule und Weiterbildung vom 22.05.2023 betreffend "Anmeldeverfahren der Grundschulen" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
