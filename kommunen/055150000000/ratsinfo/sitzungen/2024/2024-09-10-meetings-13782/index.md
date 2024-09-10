@@ -1,0 +1,55 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-09-10T17:00:00+02:00
+- Ende: 2024-09-10T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/521
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13782
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13782
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00554480.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Erfordernis von Verwaltungspräsenz
+- TOP 3: Hinweise und Anmerkungen zu der öffentlichen Niederschrift der Sitzung am 18.06.2024
+- TOP 4: Eingänge und Eingaben
+- TOP 5: Mitteilungen und Berichte der Verwaltung
+- TOP 6: Wohnen
+- TOP 6.1: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - mehrheitlich geändert beschlossen
+- TOP 7: Liegenschaften
+- TOP 7.1: Baugebiet "Handorf - Hobbbeltstraße / Kirschgarten / Heriburgstraße - Quartierskonzept der Wohn- und Stadtbau - von der Tagesordnung abgesetzt
+- TOP 8: Finanzen
+- TOP 8.1: Musik-Campus - Auslobung des städtebaulich-freiräumlichen Wettbewerbs - mehrheitlich geändert beschlossen
+- TOP 8.2: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - mehrheitlich geändert beschlossen
+- TOP 8.3: Entwicklung Modellquartier südwestlich Steinfurter Straße - mehrheitlich geändert beschlossen
+- TOP 8.4: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.10.2024 bis 31.12.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 8.5: Anmietung und Aufstellen von Fertigbauklassen als Interimslösung während der Baumaßnahmen zur Sanierung des Gymnasiums Paulinum und Erweiterung des Annette-von-Droste-Hülshoff-Gymnasiums hier: Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 8.6: Schulentwicklungsplanung Primarstufe, geänderte bzw. neue Beschlussfassung - einstimmig geändert beschlossen
+- TOP 8.7: Errichtung der 4-zügigen Grundschule "Städtische Grundschule York" im Sinne des § 81 Absatz 2 SchulG - einstimmig beschlossen
+- TOP 8.8: Trägervergabe für die fünfgruppige Kindertageseinrichtung an der Hammer Straße/ Städtisches Stadion Bezirk Hiltrup - einstimmig beschlossen
+- TOP 8.9: Trägerwechsel für die außerunterrichtlichen offenen Angebote an der Peter-Wust-Schule (OGS und BMB) - einstimmig beschlossen
+- TOP 8.10: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik - mehrheitlich beschlossen
+- TOP 8.10.1: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik
+- TOP 8.11: Theater Münster - mehrheitlich geändert beschlossen
+- TOP 8.12: Schillergymnasium - Baubeschluss - einstimmig beschlossen
+- TOP 8.13: Energetische Sanierung und statische Ertüchtigung des Turnhallendaches am Ludwig-Erhard-Berufskolleg - einstimmig beschlossen
+- TOP 8.14: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 8.15: "Global Nachhaltige Kommune in NRW (GNK)" – Nachhaltigkeitsstrategie Münster 2030 – Teil 4: Nachhaltigkeitsbericht 2019 – 2022, Stellungnahme des GNK-Beirats und nächste Meilensteine im Nachhaltigkeitsprozess - einstimmig geändert beschlossen
+- TOP 8.16: Feststellung der Jahresabschlüsse 2023 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 8.17: Verkauf von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Verkehrsgesellschaft der Stadt Rheine mbH (VRS) und Anpassung des Gesellschaftsvertrags der RVM - einstimmig beschlossen
+- TOP 8.18: Jahresabschluss 2023 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 8.19: Jahresabschluss 2023 der Wohn + Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 8.20: Jahresabschluss 2023 der Wirtschaftsförderung Münster GmbH (WFM) - einstimmig beschlossen
+- TOP 8.21: Jahresabschluss 2023 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 8.22: Jahresabschluss 2023 der GML Gewerbepark Münster-Loddenheide GmbH - einstimmig beschlossen
+- TOP 8.23: Jahresabschluss 2023 der Theaterhaus Pumpenhaus GmbH - einstimmig beschlossen
+- TOP 8.24: Jahresabschluss 2023 der Klärschlammverwertung Buchenhofen GmbH (KVB GmbH) - einstimmig beschlossen
+- TOP 8.25: Post EEG-Anlagen und Fracking-Gas: Bericht der Stadtwerke Münster GmbH zum Status Quo im 3. Quartal 2024 - zur Kenntnis genommen
+- TOP 8.26: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 9: Anfragen und Anträge von Mitgliedern des Ausschusses
+- TOP 9.1: Antrag der CDU-Ratsfraktion "Maßnahmen zu Verbesserung des Wohnumfeldes in Coerde"
+- TOP 10: Verschiedenes
