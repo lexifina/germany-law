@@ -1,0 +1,67 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-09-10T16:00:00+02:00
+- Ende: 2024-09-10T17:45:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22052
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22052
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00336350.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00337112.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2021 des Eigenbetriebs Gebäudemanagement Wuppertal (GMW) - ungeändert beschlossen
+- TOP 1.1.1: Jahresabschluss 2021 - Entlastung des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2023 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.2.1: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2023 - ungeändert beschlossen
+- TOP 1.5: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2023 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Strategische Weiterentwicklung der Grundstückswirtschaft - Entgegennahme ohne Beschluss
+- TOP 5.1.1: Änderungsantrag zur Drucksache VO/0994/24 "Strategische Weiterentwicklung der Grundstückswirtschaft" - vertagen
+- TOP 5.2: QUARTALSREPORT für Q2/2024 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP 5.3: Jahresbericht des Inklusionsbüros 2022/2023 - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Anmietung von Räumlichkeiten in der Stresemannstr. 15 zur Unterbringung Geflüchteter - ungeändert beschlossen
+- TOP 6.2: Überplanmäßige Mittelbereitstellung für die Bereiche Hilfe zur Pflege, Hilfen zur Gesundheit, Hilfe zum Lebensunterhalt und Wohnungslosenhilfe - ungeändert beschlossen
+- TOP 6.3: Fortführung Förderprogramm Energieeffizientes Zuhause - ungeändert beschlossen
+- TOP 6.4: Förderantrag Natürlicher Klimaschutz – Modul B Pflanzung von Bäumen - ungeändert beschlossen
+- TOP 6.5: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Hof- und Hausflächen in ausgewählten Stadtteilen ("Hof- und Fassadenprogramm") - ungeändert beschlossen
+- TOP 6.6: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen im Rettungsdienst und außerplanmäßige Mittelbereitstellung zur Betriebsaufnahme des Telenotarztsystems - ungeändert beschlossen
+- TOP 6.7: Bereitstellung überplanmäßiger Haushaltsmittel zur Deckung entstandener Mehrkosten bei der Sanierung des Bibliotheksstandortes am Rott, Rödiger Str. 69 - ungeändert beschlossen
+- TOP 6.8: Außerplanmäßige Mittelbereitstellung für die Bergische Kooperation - ungeändert beschlossen
+- TOP 6.9: Außerplanmäßige Mittelbereitstellung für die Beauftragung von Partnerschaft Deutschland mit der Durchführung von priorisierten Ausschreibungsverfahren - zur Beratung und Entscheidung verwiesen
+- TOP 6.9.1: Änderungsantrag zur Drucksache VO/1042/24 "Außerplanmäßige Mittelbereitstellung für die Beauftragung von Partnerschaft Deutschland mit der Durchführung von priorisierten Ausschreibungsverfahren - zur Beratung und Entscheidung verwiesen
+- TOP 6.10: Führerschein gegen kostenloses Deutschland-Ticket eintauschen - zur Vorberatung verwiesen
+- TOP 6.11: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal vom 20.12.2001 - zur Vorberatung verwiesen
+- TOP 6.12: Änderung der Entgeltordnung für das Von der Heydt-Museum - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Eckpunkte des Gemeindefinanzierungsgesetz 2025 und die Arbeitskreisrechnung 2025 - Entgegennahme ohne Beschluss
+- TOP 8.2: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 01.06.2024-23.08.2024 - Entgegennahme ohne Beschluss
+- TOP 8.3: Bericht Zins- und Schuldenmanagement zum 30.06.2024 - Entgegennahme ohne Beschluss
+- TOP 8.4: Bericht zur finanziellen Lage der Stadt Wuppertal (Finco) - Entgegennahme ohne Beschluss
+- TOP 8.5: Anschlussfragen zum Sachstandsbericht Grundsteuerreform v. 30.05.2024 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Übertragung der Entscheidungsbefugnis für überplanmäßige und außerplanmäßige Aufwendungen und Auszahlungen - ungeändert beschlossen
+- TOP 9.2: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2024 wegen Verfassungswidrigkeit der differenzierten fiktiven Realsteuerhebesätze - ungeändert beschlossen
+- TOP 9.3: Dienstanweisung Ermächtigungsübertragungen - vertagen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Quartalsbericht WAW II.Quartal 2024 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
