@@ -1,0 +1,53 @@
+# 16. Sitzung des Ausschusses für Wirtschaft und Beteiligungen
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-09-10T10:00:00+02:00
+- Ende: 2024-09-10T11:30:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-AWB-15
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-AWB-15
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AWB-15
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2024-AWB-15
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 04.06.2024
+- TOP 3: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 3.1: Angelegenheiten der Ruhr Tourismus GmbH - Key Facts aus dem Tourismusbarometer 2023
+- TOP 3.2: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2023
+- TOP 4: Kommunalfinanzbericht Metropole Ruhr 2023 - Sonderbericht Altschuldenlösung
+- TOP 5: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2023
+- TOP 6: Angelegenheiten des Bereiches Planung
+- TOP 6.1: Masterplan Mittelstand und Handwerk; hier: Sachstand
+- TOP 7: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 7.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2023
+- TOP 7.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2023
+- TOP 8: Angelegenheiten der Umweltzentrum Westfalen GmbH
+- TOP 8.1: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.2: Angelegenheiten der Umweltzentrum Westfalen GmbH - Aktualisierung der Nebenabrede für die Jahre 2025 und 2026
+- TOP 9: Angelegenheiten der Freizeitgesellschaften
+- TOP 9.1: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2024
+- TOP 9.2: Jahresabschlüsse zum 31.12.2023
+- TOP 9.2.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 9.2.2: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Revierpark Gysenberg Herne GmbH
+- TOP 9.2.3: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitzentrum Xanten GmbH
+- TOP 9.2.4: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Maximilianpark Hamm GmbH
+- TOP 9.2.5: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 9.2.6: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Seegesellschaft Haltern mbH
+- TOP 10: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Jahresabschluss zum 31.12.2023
+- TOP 11: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2023
+- TOP 12: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2023
+- TOP 13: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2023
+- TOP 14: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2023. Beschluss über die Zuführung des Jahresüberschusses 2023 in die Ausgleichsrücklage. Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 15: Standortmarketingkampagne - Bericht zur Jurysitzung im Rahmen der Vergabe der 3. Phase der Standortmarketingkampagne und weiteres Vorgehen
+- TOP 16: Anträge
+- TOP 17: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
