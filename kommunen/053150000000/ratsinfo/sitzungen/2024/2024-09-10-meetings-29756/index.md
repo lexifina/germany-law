@@ -1,0 +1,53 @@
+# 26. Sitzung des Gesundheitsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-10T17:00:00+02:00
+- Ende: 2024-09-10T18:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/72
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29756
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29756
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01005717.pdf
+- Ergebnisprotokoll: 1. Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01005717.pdf
+- Wortprotokoll: 1. Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01005717.pdf
+
+## Tagesordnung
+
+- TOP -: Antrag der SPD-Fraktion auf Aktuelle Stunde betreffend "Anonymer Krankenschein in Gefahr – Fortführung über den 31.12.2024 hinaus sicherstellen!" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Fazit zum LSBTI-Förderprogramm Förderphase 2022 - Kenntnis genommen
+- TOP 1.2: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 1.3: LSBTI-Förderprogramm 2024: Beginn der Antragsphase - Kenntnis genommen
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Beantwortung einer schriftlichen Anfrage der SPD- Fraktion aus der Sitzung des Gleichstellungsausschusses vom 24.06.2024 betreffend "Informationslage zu Schwangerschaftsabbrüchen" AN/0981/2024 - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Personal in der Kümmerei Chorweiler
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 (AN/0881/2024) betreffend "Personal in der Kümmerei Chorweiler" - Kenntnis genommen
+- TOP 3.2: Schwangerschaftsabbrüche in Köln – Aktuelle Versorgungslage
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 (AN/0883/2024) betreffend "Schwangerschaftsabbrüche in Köln - Aktuelle Versorgungslage" - Kenntnis genommen
+- TOP 3.3: Förderung der Organspendeerklärungen im Rahmen von Behördengängen von Kölner*innen - zurückgestellt
+- TOP 3.4: Wohngemeinschaften für Demenzkranke in Köln
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 (2292/2024) betreffend "Wohngemeinschaften für Demenzkranke in Köln" - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Körperliche Selbstbestimmung von Frauen ermöglichen – bedarfsgerechter Ausbau von Plätzen zum Schwangerschaftsabbruch in einem Medizinischen Versorgungszentrum der Städtischen Kliniken - endgültig abgelehnt
+- TOP 5: Beschlussvorlagen
+- TOP 5.1: Anmietung der neuen Containeranlage für die Besatzung des RTH auf dem Gelände des Flughafen KölnBonn - ungeändert beschlossen
+- TOP 5.2: Förderung von Selbsthilfegruppen im Gesundheitsbereich, Haushaltsjahr 2024 - ungeändert beschlossen
+- TOP 5.3: Benennung von (stellvertretenden) Mitgliedern für die Kommunale Gesundheitskonferenz Köln durch den Rat der Stadt Köln - ungeändert empfohlen
+- TOP 6: Mitteilungen
+- TOP 6.1: Stärkungspakt NRW - vorläufiger Schlussbericht zum 30.06.2024 - Kenntnis genommen
+- TOP 6.2: Vorstellung des dritten Berichts zur Kommunalen Pflegeplanung der Stadt Köln nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 6.3: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - zurückgestellt
+- TOP 6.4: Broschüre "Selbsthilfegruppen in Köln von A-Z" Ausgabe 2024 - Kenntnis genommen
+- TOP 6.5: Medizinische Versorgung wohnungsloser Menschen in Köln - Jahresbericht 2023 - Kenntnis genommen
+- TOP 6.6: Jahresbericht 2023 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 6.7: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 6.8: Sechster Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 6.9: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - Kenntnis genommen
+- TOP 6.10: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 6.11: Anonymer Krankenschein in der Stadt Köln - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
