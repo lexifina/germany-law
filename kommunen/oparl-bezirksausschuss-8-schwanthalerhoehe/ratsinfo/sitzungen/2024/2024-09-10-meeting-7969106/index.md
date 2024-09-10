@@ -1,0 +1,100 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Nachbenennung der Unterausschussbesetzung durch die Fraktion DIE LINKE & ÖDP
+- TOP 2.3.: Wahl der / des neuen Vorsitzenden des Unterausschusses Soziales, Bildung, Wohnungspolitik
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Neubeschilderung der Nutzungszeiten am Sportplatz Kazmairstr. / Astallerstr
+- TOP 4.2.: Absperrung in der Trappentreustraße am Gewerbehof
+- TOP 4.3.: Lärmbeschwerde Kulturveranstaltungen Georg-Freundorfer-Platz
+- TOP 4.4.: Verlängerung der Aufbauzeit für das Oktoberfest und Überquerungsmöglichkeit über die Theresienwiese
+- TOP 4.5.: Sichtbehinderung Zebrastreifen Anglerstraße / Ganghoferstraße
+- TOP 4.6.: Lärmbeschwerde Jugend-Open-Air-Party Pineapple Express vom 24.08.2024
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Westendstraße 140
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Planfeststellung für das Vorhaben „Sendlinger Spange München, Ausbau Bf Heimeranplatz West mit Ausgleichsmaßnahmen in Garching b.München und den Gemeinden Grünwald, Unterhaching und Sauerlach“, Bahn-km 0,173 bis 3,890 der Strecke 5530 München Laim - Mittersendling in den Gemeinden München, Grünwald, Sauerlach
+- TOP 6.2.2.: Bauvorhaben Grasserstraße 5 - 7
+- TOP 6.2.3.: Bauvorhaben Guldeinstraße 40a
+- TOP 6.2.4.: Bauvorhaben Landsberger Straße 1
+- TOP 6.2.5.: Bauvorhaben Bergmannstraße 47 - 49
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Perspektive München - Handlungsräume der Stadtentwicklung; SV Nr. 20-26 / V 12346
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Einladung "Fortschreibung Leitlinie Gesundheit" am 09.10.2024
+- TOP 7.3.2.: Ergebnisse Stadtteil-Check Barrierefreiheit im Westend am 04.07.2024
+- TOP 7.3.3.: Protokoll der Sitzung des Mieterbeirats am 22.07.2024
+- TOP 7.3.4.: Inbetriebnahmen von Bildungseinrichtungen im Jahr 2024
+- TOP 7.3.5.: Errichtung von mehr Tischtennisplatten im Stadtbezirk 8 Schwanthalerhöhe
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Oldtimer Shuttle zur Langen Nacht der Museen 2024; Platz am Bavariapark am 19.10.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung am Georg-Freundorfer-Platz am 19.09.2024
+- TOP 8.3.2.: Sportveranstaltung "Random Play Dance"; Platz am Bavariapark am 14.09.24
+- TOP 8.3.3.: ABSAGE Westend-Straßenfest Ligsalzstraße /Schwanthalerstraße vom 13.09. bis 14.09.2024
+- TOP 8.3.4.: Open Air Party / Pineapple Express auf der Fläche Am Bavariapark am 24.08.2024; Antwort Kreisverwaltungsreferat
+- TOP 8.3.5.: Feuerwerk im Bavariapark zur Eröffnung des Oktoberfestes am 21.09.2024
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) + (U) Anordnung von Tempo 30 auf der Ganghoferstraße Empfehlung Nr. 20-26 / E 00235 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 21.07.2021
+- TOP 9.1.1.1: Anordnung von Tempo 30 auf der Ganghoferstraße; Entscheidung des Oberbürgermeisters
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Generalinstandsetzung der Hackerbrücke mit Vorlandbrücken
+- TOP 9.2.2.: Lärmaktionsplan für München
+- TOP 9.2.3.: Verbleib des Großsteinpflasters in der Fahrbahn und den Parkbuchten der Fäustlestraße
+- TOP 9.2.4.: Aufruf Sommerstraßen 2025
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einladung zur Fachtagung Spielstraßen am 27.09.2024
+- TOP 9.3.2.: Winterdienst im Bavariapark
+- TOP 9.3.3.: Austauschtreffen des Baureferates mit den BAs am 28.11.24
+- TOP 9.3.4.: Änderung des stellvertretenden Ansprechpartners bei der MVG
+- TOP 9.3.5.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.6.: Mobilitätsstrategie 2035 - Nachbarschaftsviertel in München; Stellungnahme des Behindertenbeirates BV Nr. 20-26 / V 11252
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: Budgetantrag Green City e.V.; Durchführung und Weiterentwicklung des Gemeinschaftsgartens MK2
+- TOP 10.1.2.: (E) Stadtbezirksbudget FabLab München e.V. MINT-hands-on für Grund-, Mittel- und RealschülerInnen -Schwanthalerhöhe vom 16.09.2024 -31.03.2025 11.204,14€; Az. 0262.0-8-0410
+- TOP 10.1.2.1: Antwortmail FabLab München e.V.
+- TOP 10.1.3.: (E) Auferstehungsgemeinde München Westend Westend Vibes vom 19.09. -05.12.2024 11.180,00€; Az. 0262.0-8-0411
+- TOP 10.1.4.: (E) Stadtbezirksbudget Vamuki e.V. Familienkonzertreihe des Familienzentrums im Pfarrsaal des Pfarrheims St. Rupert vom 15.09.2024 -15.07.2025 1.275,00€; Az. 0262.0-8-0412
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 9.3.7.: Schaffung von Fahrradstellplätzen durch Stellplatzumwandlung im Bereich der Schießstättstraße 16
+- TOP 4.7.: Einrichtung einer Tempo-30-Zone zwischen der Kreuzung Gollierstraße / Theresienhöhe und der Kreuzung Alter Messeplatz und Theresienhöhe
+- TOP 6.2.6.: Bauvorhaben Parkstraße 12
+- TOP 6.2.7.: Bauvorhaben Parkstraße 31
+- TOP 7.3.6.: Einladung zum Regionalforum "Meine Stadt, meine Gesundheit" am 09.10.2024
+- TOP 2.4.: Neubenennung der / des Inklusionsbeauftragten
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.2.1.: Standort Jugendcontainer
+- TOP 4.8.: Anfrage zu TOP 10.1.1 Budgetantrag Green City e.V.; "Durchführung und Weiterentwicklung des Gemeinschaftsgartens"
