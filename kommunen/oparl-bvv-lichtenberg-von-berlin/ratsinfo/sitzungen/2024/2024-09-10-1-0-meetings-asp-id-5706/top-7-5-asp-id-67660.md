@@ -1,0 +1,8 @@
+# TOP 7.5: Zwischennutzung Fläche Galeria Kaufhof Berlin Ring-Center Frankfurter Allee 115-117 in 10365 Berlin
+
+- Sitzung: 28. Sitzung in der IX. Wahlperiode des Ausschusses Europa, Wirtschaftsförderung und Sozialraumsteuerung (2024-09-10)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=67660
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=67660
