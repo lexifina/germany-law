@@ -1,0 +1,62 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-10T17:00:00+02:00
+- Ende: 2024-09-10T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25990
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25990
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528535.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528535.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00528535.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 11.06.2024 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 02.07.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 5: Verwaltungsvorlagen und -berichte
+- TOP 5.1: Bilker Allee / Benzenbergstraße - optimierter Zwischenstand östlich Bilker Kirche (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5.2: Kronprinzenstraße - Schulwegsicherung - einstimmig beschlossen
+- TOP 5.3: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 5.4: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 5.5: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Erweiterungsbau Geschwister-Scholl-Gymnasium zur Beibehaltung der Fünfzügigkeit im Rahmen von G9, Redinghovenstr. 41, 40225 Düsseldorf“ - einstimmig beschlossen
+- TOP 5.6: Zuschuss an den Düsseldorfer Segler-Verein e.V. - einstimmig beschlossen
+- TOP 5.7: Errichtung von Stadtradstationen im Stadtbezirk 3 für das kommunale Düsseldorfer Mietradsystem - einstimmig beschlossen
+- TOP 6: Bau- und Planungsangelegenheiten
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Errichtung von drei Ateliers für Studierende der Kunstakademie Düsseldorf - einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Bezirklicher Bauunterhalt – Haushaltsjahr 2024 Stadtbezirk 3 – Liste A Schulen - einstimmig beschlossen
+- TOP 7.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 7.3: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 7.4: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 7.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - einstimmig beschlossen
+- TOP 8: Anfragen
+- TOP 8.1: Anfragen aus vorherigen Sitzungen
+- TOP 8.1.1: Umsetzung Optimierung Platzfläche Gogreve-/Vlattenstr. (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2: Aktuelle Anfragen
+- TOP 8.2.1: Umgang mit E-Scootern im Stadtgebiet 3 (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 8.2.2: Telefonzellen (Anfrage der SPD-Fraktion) - zur Kenntnis genommen
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anträge
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Bunte Bänke für Toleranz und Sichtbarkeit - zur Kenntnis genommen
+- TOP 10.2: Bilker Allee - Optimierung der Einmündungsbereiche Konkordiastraße und Friedenstraße - zur Kenntnis genommen
+- TOP 10.3: Fährstraße -Völklinger Straße - Optimierung Linksabbiegespur im Zuge Errichtung E-Ladepark - zur Kenntnis genommen
+- TOP 10.4: Einrichtung weiterer Tempo-30-Zonen auf der Ulenbergstraße - zur Kenntnis genommen
+- TOP 10.5: Städtische Brunnen sollen laufen - zur Kenntnis genommen
+- TOP 10.6: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 10.7: Begrünung und Entsiegelung Stadtteilzentrum Bilk - zur Kenntnis genommen
+- TOP 10.8: Sitzungstermine 2025 - zur Kenntnis genommen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
