@@ -1,0 +1,7 @@
+# TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+
+- Sitzung: BA 17 - Vollgremium (2024-09-10)
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1104585
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1104585
