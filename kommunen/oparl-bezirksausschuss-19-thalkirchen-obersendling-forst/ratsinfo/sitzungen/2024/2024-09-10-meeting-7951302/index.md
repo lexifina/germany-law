@@ -1,0 +1,67 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2024-09-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7951302
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7951302
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 06.08.2024
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Information
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: Bestellung der/des stellvertretenden Unterausschussvorsitzenden Mobilität
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024; Erfahrungen der Bezirksausschüsse
+- TOP 3.3.: (E) Stadtbezirksbudget Familienzentrum Friedenskapelle des Ev. Sozialdienstes e.V. Zusammen in Neuforstenried am 05.10.2024 1.950,00€; Az. 0262.0-19-0532
+- TOP 3.4.: (E) Stadtbezirksbudget Förderverein der Grundschule Herterichstraße e.V. Workshop KörperWunderWerkstatt vom 26.09. -11.10.2024 1.645,10€; Az. 0262.0-19-0533
+- TOP 3.5.: (E) Stadtbezirksbudget Pianistenclub e.V. KLA-VIER-HÄNDIG Klavierabend mit vier Klavierduos am 10.11.2024 1.260,52€; 0262.0-19-0534
+- TOP 3.6.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Jugendunterstand am Pumptrack, Forstenrieder Park -Workshop zur Gestaltung am 07./08.09.2024 2.822,38€; Az. 0262.0-19-0535
+- TOP 3.7.: (E) Stadtbezirksbudget Elternbeirat des städt. Haus für Kinder Kistlerhofstraße 127 Tanzprojekt vom 07.09.2024 -31.07.2025 7.350,00€; Az. 0262.0-19-0531
+- TOP 3.8.: (E) Stadtbezirksbudget Evangelischer Verein München-Solln e.V. Weiterführung der Hausaufgabenhilfe für Kinder an der Samberger Grundschule vom 16.09.2024 -31.07.2025 12.803,00€; Az. 0262.0-19-0536
+- TOP 3.9.: (E) Stadtbezirksbudget Feierwerk e.V. Brot- und Pizzaofen im Feierwerk Trafixx & personelle Unterstützung Jugendtreff vom 15.09. -31.12.2024 4.791,35€; Az. 0262.0-19-0537
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Lärmaktionsplan 2024
+- TOP 4.4.: (Antrag) Wertschätzung und Dank für den CBA
+- TOP 4.5.: (E) Feststellung des öffentlichen Interesses an der Wassernutzung im (Floß-)Ländkanal durch den Wassersport
+- TOP 4.6.: (E) Erweiterung der Jahres-Durchfluss-Wassermenge auf der Floßgasse im öffentlichen Interesse des Wassersports
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Verbesserung der Fuß- und Radunterführung Bahnhof Siemenswerke Südseite
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Verlängerung Geschwindigkeitsbeschränkung auf 30km/h Forstenrieder Allee 182
+- TOP 5.4.: (U) Fortführung Freischankfläche: Boschetsrieder Straße
+- TOP 5.5.: (Antrag) Beschilderung für Tempo 30 in der Tölzer Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Hofbrunnstraße 5 (VB)
+- TOP 6.2.2: Machtlfinger Straße 28 (VB)
+- TOP 6.2.3: Allescherstraße 44 (VB)
+- TOP 6.2.4: Forstenrieder Allee 144b
+- TOP 6.2.5: Hatzelweg 21
+- TOP 6.2.6: -abgesetzt-
+- TOP 6.3.: (A) Perspektive München - Handlungsräume der Stadtentwicklung
+- TOP 7: Unterausschuss Soziales, Bildung und Sport
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Drygalski-Allee
+- TOP 9: Verschiedenes
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Verlängerung Haltverbot in der Melchiorstraße zur Verbesserung des Linienbusverkehrs der Buslinie 270
+- TOP 2.5.: (A) Bedarfsabfrage Hybridsitzungen 2025
+- TOP 5.7.: (Antrag) Wiederholung 30er -Zone am Vogelanger
