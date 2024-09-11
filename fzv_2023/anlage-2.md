@@ -27,6 +27,6 @@
   | THL | Thüringen Landesregierung und Landtag (Zulassungsbehörde Erfurt, Stadt) |
 3. Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
   | 0, B oder BN | Diplomatische Vertretungen oder internationale Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person (Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt) |
-  | Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats | Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person (Zulassungsbehörde am Sitz des Konsulats |
+  | Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats | Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person(Zulassungsbehörde am Sitz des Konsulats) |
 4. Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
   | 1-1 | Dienstkraftwagen des Präsidenten des Deutschen Bundestages (Zulassungsbehörde Berlin) |
