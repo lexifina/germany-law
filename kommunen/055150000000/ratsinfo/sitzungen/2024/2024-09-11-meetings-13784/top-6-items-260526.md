@@ -1,0 +1,8 @@
+# TOP 6: Verkauf von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Verkehrsgesellschaft der Stadt Rheine mbH (VRS) und Anpassung des Gesellschaftsvertrags der RVM
+
+- Sitzung: 27. Sitzung (2024-09-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/260526
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/86641
