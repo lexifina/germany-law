@@ -1,0 +1,6 @@
+# TOP 4.: Freiwilligentag 2024
+
+- Sitzung: Ortsbeirat Quentel (16. Sitzung) (2024-09-11)
+- Körperschaft: Stadt Hessisch Lichtenau
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/body/1/agendaitem/10856
