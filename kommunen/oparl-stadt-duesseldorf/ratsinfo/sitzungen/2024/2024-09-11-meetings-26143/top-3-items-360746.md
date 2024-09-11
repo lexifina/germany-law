@@ -1,0 +1,8 @@
+# TOP 3: Entwurf - Kommunales Handlungskonzept gegen Rassismus und Rechtsextremismus
+
+- Sitzung: Gemeinsame Sitzung Ausschuss für Gleichstellung und Integrationsrat (2024-09-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/360746
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/130299
