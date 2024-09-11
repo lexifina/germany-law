@@ -1,0 +1,68 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-09-11T16:02:00+02:00
+- Ende: 2024-09-11T20:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13784
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13784
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00555015.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bestellung eines Schriftführers für die Sitzungen des Hauptausschusses - einstimmig beschlossen
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2024) - einstimmig beschlossen
+- TOP 4: Rüschhausweg/Von-Esmarch-Straße - Gievenbeck Mitte, Umgestaltung des öffentlichen Raumes - einstimmig beschlossen
+- TOP 4.1: Rüschhausweg/Von-Esmarch-Straße - Gievenbeck Mitte, Umgestaltung des öffentlichen Raumes
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Beitritt der Stadt Münster zum Rainbow Cities Network - Antrag an den Rat Nr. A-R/0005/2022 - einstimmig beschlossen
+- TOP 6: Verkauf von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Verkehrsgesellschaft der Stadt Rheine mbH (VRS) und Anpassung des Gesellschaftsvertrags der RVM - einstimmig beschlossen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 8: Feststellung der Jahresabschlüsse 2023 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 9: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - ohne Beschlussfassung geschoben
+- TOP 10: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - ohne Beschlussfassung geschoben
+- TOP 11: Entwicklung Modellquartier südwestlich Steinfurter Straße - ohne Beschlussfassung geschoben
+- TOP 12: Innenstadt stärken: Beantragung von Städtebaufördermitteln für INSEK Münster-Innenstadt-Maßnahmen 2025-2029 - ohne Beschlussfassung geschoben
+- TOP 13: Neugestaltung Hamburger Tunnel - Ergebnis der Mehrfachbeauftragung - ohne Beschlussfassung geschoben
+- TOP 13.1: Neugestaltung Hamburger Tunnel - Ergebnis der Mehrfachbeauftragung
+- TOP 14: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.10.2024 bis 31.12.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 17: Anmietung und Aufstellen von Fertigbauklassen als Interimslösung während der Baumaßnahmen zur Sanierung des Gymnasiums Paulinum und Erweiterung des Annette-von-Droste-Hülshoff-Gymnasiums hier: Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 18: Errichtung der 4-zügigen Grundschule "Städtische Grundschule York" im Sinne des § 81 Absatz 2 SchulG - einstimmig beschlossen
+- TOP 19: Ergebnisse der Neuausrichtung "Medienentwicklungsplanung" - einstimmig beschlossen
+- TOP 20: Schulentwicklungsplanung Primarstufe, geänderte bzw. neue Beschlussfassung - ohne Beschlussfassung geschoben
+- TOP 21: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung - ohne Beschlussfassung geschoben
+- TOP 21.1: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung
+- TOP 22: Mobile Luftfilter in Schulen / Bedarfsfeststellung zur Rücknahme - ohne Beschlussfassung geschoben
+- TOP 22.1: Mobile Luftfilter in Schulen / Bedarfsfeststellung zur Rücknahme
+- TOP 23: Kindertagesbetreuungsbericht 2024 - zur Kenntnis genommen
+- TOP 24: Trägervergabe für die fünfgruppige Kindertageseinrichtung an der Hammer Straße/ Städtisches Stadion Bezirk Hiltrup - einstimmig beschlossen
+- TOP 25: Trägerwechsel für die außerunterrichtlichen offenen Angebote an der Peter-Wust-Schule (OGS und BMB) - einstimmig beschlossen
+- TOP 26: "Bürgerschaftliches Engagement stärken, sichere Durchführung des Turniers der Sieger garantieren“ - einstimmig beschlossen
+- TOP 27: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 27.1: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik
+- TOP 28: Theater Münster - ohne Beschlussfassung geschoben
+- TOP 29: Schillergymnasium - Baubeschluss - einstimmig beschlossen
+- TOP 30: Energetische Sanierung und statische Ertüchtigung des Turnhallendaches am Ludwig-Erhard-Berufskolleg - einstimmig beschlossen
+- TOP 31: Baubeschlussvorlage FWH Albachten - einstimmig beschlossen
+- TOP 32: Baugebiet "Handorf - Hobbbeltstraße / Kirschgarten / Heriburgstraße - Quartierskonzept der Wohn- und Stadtbau - von der Tagesordnung abgesetzt
+- TOP 33: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen - einstimmig beschlossen
+- TOP 33.1: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen
+- TOP 33.1.1: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen
+- TOP 34: Bikepark Steinfurter Straße - Planungs- und Baubeschluss - - ohne Beschlussfassung geschoben
+- TOP 35: "Global Nachhaltige Kommune in NRW (GNK)" – Nachhaltigkeitsstrategie Münster 2030 – Teil 4: Nachhaltigkeitsbericht 2019 – 2022, Stellungnahme des GNK-Beirats und nächste Meilensteine im Nachhaltigkeitsprozess - ohne Beschlussfassung geschoben
+- TOP 36: Lärmaktionsplan - 4. Runde - ohne Beschlussfassung geschoben
+- TOP 37: 1. Fortschreibung Wasserversorgungskonzept der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 38: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 39: Bauleitplanung
+- TOP 39.1: Stadtbezirk West
+- TOP 39.1.1: 125. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 638 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 39.2: Stadtbezirk Nord
+- TOP 39.2.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 40: Verschiedenes
