@@ -1,0 +1,140 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-09-11T17:00:00+02:00
+- Ende: 2024-09-11T19:16:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6886
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6886
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=509945
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 2.1: Konsensliste zur Abstimmung über die Dringlichkeiten der 34. Sitzung der BVV am 11.09.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Konsensliste zur Beschlussfassung der Dringlichkeiten der 34. Sitzung der BVV am 11.09.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Erhalt der Parkplätze und Schutz des natürlichen Ufers am Bärbelweg - beantwortet
+- TOP 3.2: Einrichtung einer verkehrsberuhigten Zone im Wohngebiet "Waldidyll" - beantwortet
+- TOP 3.3: Keine Fällung von über 70 Bäumen in der Senheimer Straße! - beantwortet
+- TOP 3.4: Baumaßnahme Einzäunung Uferböschung Flughafensee - gegenstandslos
+- TOP 3.5: Feste im Resikiez - beantwortet
+- TOP 3.6: Bauvorhaben Senheimer Straße - beantwortet
+- TOP 3.7: Bauvorhaben Senheimer Str. - beantwortet
+- TOP 3.8: Bauvorhaben Senheimer Straße - beantwortet
+- TOP 3.9: Beleuchtete Grundstücknummerierung in der Nimrodstr. - beantwortet
+- TOP 3.10: Akute Gefährdung im Waldseeviertel - gegenstandslos
+- TOP 3.11: TAG DES OFFENEN RATHAUSES REINICKENDORF 2024 // BVV RDF --Möglichkeiten für Einzel- und Gruppen-Verordnete sowie für eine neue, noch nicht in der BVV vertretene politische Gruppierung, sich auf der Veranstaltung darzustellen - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 34. Sitzung der BVV am 11.09.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Gutachten Heinsestraße - beantwortet
+- TOP 5.2: Essensversorgung an Reinickendorfer Schulen - beantwortet
+- TOP 5.3: Schulschwimmen - beantwortet
+- TOP 5.4: Baseler Straße - beantwortet
+- TOP 5.5: Wann kann Reinickendorf wieder grillen? - beantwortet
+- TOP 5.6: Hafenfest: Beseitigung der Schäden an den Grünflächen - beantwortet
+- TOP 5.7: Waidmannsluster Damm / Ecke Titusweg - in der BVV zurückgezogen
+- TOP 5.8: Entwicklung der Arbeitsverhältnisse an den Musik-, Kunst- und Volkshochschulen in Reinickendorf - beantwortet
+- TOP 5.9: Radverkehrsanlagen Oraniendamm/Oranienburger Str. zwischen Wittenauer Straße und Waidmannsluster Damm/Zabel-Krüger-Damm - beantwortet
+- TOP 5.10: Schulessen - in der BVV zurückgezogen
+- TOP 5.11: Verwaltungsreform: Veto-Recht für den Rat der Bürgermeister? - beantwortet
+- TOP 5.12: Planungsstopp der Radschnellverbindung RSV 10 - beantwortet
+- TOP 5.13: Hafenfest und Grünflächen Greenwichpromenade - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: "Grünfläche" an der Greenwichpromenade in Tegel wieder zu einer Grünfläche machen - überwiesen
+- TOP 8.2: Radverkehrsanlagen Heiligenseestr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Mehr Aufenthaltsqualität für den Borsigplatz in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Urbane Plätze für Jugendliche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule - vertagt
+- TOP 8.6: Schildower Weg in seinen historischen Zustand wieder herrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Bänke in Frohnau wieder aufstellen - vertagt
+- TOP 8.8: Trinkwasserbrunnen schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Toilette für Menschen mit komplexer Behinderung in Reinickendorf einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Reinigung der Finsterwalder Brücke im Märkischen Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Digitalkompetenz unserer Senioren stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Erhöhung der Verkehrssicherheit für Radfahrende in Kreuzungsbereichen - vertagt
+- TOP 8.13: Straßenüberflutungen beim Platenhofer Weg entgegenwirken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: A111-Sanierung: Keine Umleitungen durch Heiligensee! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.15: Zusätzliche Fahrradständer an der Bushaltestelle Heiligenseestraße in Höhe Konradshöher Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Verpflichtende Exkursion nach Sachsenhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: Mobilitätskonzept für die Cité Foch auf mein.berlin.de und mein-reinickendorf.de veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Arbeitsfähigkeit der Kommunalverwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.19: Trauungen an Samstagen und an besonderen Orten weiter ermöglichen - vertagt
+- TOP 8.20: BVV-Sondermittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.21: Antrag zur besseren Kontrolle über dauerhaft abgestellte Bootsanhänger in der Sandhauser Straße und anliegenden Straßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.22: Parkverbote konsequenter durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.23: - Die Einstellung des Bebauungsplans mit der Bezeichnung XX-257 ... - die Aufstellung des Bebauungsplans 12-72 "GE-Förderzentrum" ... - die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit ... - überwiesen
+- TOP 8.24: Die Auswertung der eingegangenen Stellungnahmen aus der Beteiligung der Öffentlichkeit, der Benachrichtigung der Behörden u. Träger öffentlicher Belange gem. § 3 Abs. 2 des Baugesetzbuchs (BauGB), der erneuten Beteiligung der Wasserbehörde gem. § 4a Abs. 3 BauGB sowie die Anzeige gem. § 6 Abs. 2 AGBauGB Bln z. Bebauungsplanverfahren 12-63a ... - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: UN-Kinderrechtskonventionen - Umsetzung im Bezirk gewährleistet? - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2025 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Sportplatz Borsigwalder Grundschule - vertagt
+- TOP 11.2: Ausweisung von Parkplätzen für Schwerbehinderte (Verkehrszeichen 314) - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Planung Tramführung - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: "Der Mensch dahinter" - Für mehr Respekt gegenüber Einsatzkräften - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Querung der Ziekowstr. für Radfahrende sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sichere Querungsmöglichkeit in der Hennigsdorfer Straße - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Mehr Fahrradabstellmöglichkeiten am S-Bhf. Tegel schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: "Waldparkplatz" an der Seidelstraße ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Schulwegsicherung in Heiligensee/Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Die Schwächsten auf der Frohnauer Brücke mitdenken - vertagt
+- TOP 11.11: Entlastung des Humboldt-Klinikums - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Cybergrooming und Cybermobbing vorbeugen - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Ersatzkleidung und Reinigungsstellen in der Geflüchtetenunterkunft TXL - mit Änderungen in der BVV beschlossen
+- TOP 11.14: Entwicklung eines Schutzkonzeptes für FINTA Personen in TXL - mit Änderungen in der BVV beschlossen
+- TOP 11.15: Erarbeitung einer Exit-Strategie zwischen Senat und Bezirk zur Geflüchtetenunterkunft TXL - vertagt
+- TOP 11.16: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - OhGee Academy Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Sondermittelantrag an die BVV für das Jahr 2024 - Grupo Chile Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Wassersport-Club Havel e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Zeltlagerplatz e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Sondermittelantrag an die BVV für das Jahr 2024 - Joersfelder Segel-Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Kitas im Erzbistum Berlin - Zweckverband der katholischen Kirchengemeinden - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Beratung + Leben GmbH - Stadtteilzentrum Borsigwalde - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Bewilligung von Sondermitteln der BVV für das Jahr 2024 - Ev. Andreas-Kirchengemeinde - ohne Änderungen in der BVV beschlossen
+- TOP 11.24: Sondermittelantrag an die BVV für das Jahr 2024 - Tegeler Segel-Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Resolution: Die Bezirksverordnetenversammlung stellt sich entschieden gegen Gewalt an Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Sichere Abstellmöglichkeiten für Fahrräder auf dem Schulhof des Thomas-Mann-Gymnasiums - überwiesen
+- TOP 13.2: Einfriedung der Ringelnatz-Grundschule instand setzen - überwiesen
+- TOP 13.3: Finanzierung der Familienzentren sicherstellen - überwiesen
+- TOP 13.4: Unsere Senioren verdienen Unterstützung - Einsamkeitsbeauftragtenstelle wieder neu besetzen - überwiesen
+- TOP 13.5: Errichtung weiterer Fahrradständer vor dem Thomas-Mann-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Bereitstellung von Abstellmöglichkeiten für Container für Vereine - überwiesen
+- TOP 13.7: Wasserspiel am Poppele-Platz - überwiesen
+- TOP 13.8: Fuchs-Skulptur für Bad Steben - überwiesen
+- TOP 13.9: 00-Toleranz für Toiletten-Vandalismus - überwiesen
+- TOP 13.10: Fuchs-Skulptur für Melle - überwiesen
+- TOP 13.11: Kein LKW Verkehr in der Schildower Straße - überwiesen
+- TOP 13.12: Reinickendorfer Läden entdecken und erleben - überwiesen
+- TOP 13.13: Orts-Hinweisschild Konradshöhe - überwiesen
+- TOP 13.14: Mobilitätskonzept für das TetraPak-Gelände aktualisieren - überwiesen
+- TOP 13.15: Runder Tisch zur Sanierung der Senheimer Straße starten - überwiesen
+- TOP 13.16: Einen öffentlichen Spielplatz für das ehemalige TetraPak-Gelände - überwiesen
+- TOP 13.17: Ausstattung der Fahrzeuge des OA mit Dashcams - überwiesen
+- TOP 13.18: Parkplatzangebot in der Cité Foch der Realität anpassen - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Maßregelvollzug nur unter ärztlicher Leitung - überwiesen
+- TOP 14.2: Neugestaltung Knotenpunkt "Ruppiner Chaussee/Hennigsdorfer Straße" - überwiesen
+- TOP 14.3: Maßnahmen zur Sicherung von Fußgängerüberwegen am Zeltinger Platz - überwiesen
+- TOP 14.4: Lichtmast erneuern - überwiesen
+- TOP 14.5: Turmuhr am Frohnauer Kasinoturm wieder in Betrieb nehmen - überwiesen
+- TOP 14.6: Einsatz für die Freigabe der Mittel für die Mäckeritzwiesen - überwiesen
+- TOP 14.7: Wir machen Reinickendorfer Schüler fit für das Leben - überwiesen
+- TOP 14.8: Schutz vor Raben und Waschbären: öffentliche Mülleimer mit Deckel ausstatten - überwiesen
+- TOP 14.9: Fußgängerüberweg Falkenplatz - überwiesen
+- TOP 14.10: BSR-Kieztag in Frohnau jährlich durchführen - überwiesen
+- TOP 14.11: S-Bahnpause auf der Nordbahn im S-Bahnhof Wittenau und nicht in Waidmannslust - überwiesen
+- TOP 14.12: Barrierefreiheit am S-Bahnhof Wittenau (Eingang Göschenplatz) herstellen - überwiesen
+- TOP 14.13: Altglasentsorgung in Frohnau - überwiesen
+- TOP 14.14: Einrichtung von Abstellflächen für E-Scooter und Mieträder am U-Bahnhof Kurt-Schumacher-Platz - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
