@@ -1,0 +1,89 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-09-11T16:18:00+02:00
+- Ende: 2024-09-11T20:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13785
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13785
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00554556.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Frieden durch Dialog
+- TOP 2.2: Klimaschonende und artenschützende Landwirtschaft
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Keine Einführung einer Bezahlkarte für Geflüchtete in Münster - verwiesen
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9.1: Verlängerung der Amtszeit der Kommunalen Seniorenvertretung Münster - verwiesen
+- TOP 10: Anregungen des Jugendrates
+- TOP 11: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 12: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 13: Wiederwahl des Beigeordneten Robin Denstorff - mehrheitlich beschlossen
+- TOP 14: Beitritt der Stadt Münster zum Rainbow Cities Network - Antrag an den Rat Nr. A-R/0005/2022 - mehrheitlich beschlossen
+- TOP 15: Anregung Nr. 2024-00033 "Frieden in Nahost und in Münster" - mehrheitlich abgelehnt
+- TOP 16: Verkauf von Geschäftsanteilen des Kreises Steinfurt an der Regionalverkehr Münsterland GmbH (RVM) an die Verkehrsgesellschaft der Stadt Rheine mbH (VRS) und Anpassung des Gesellschaftsvertrags der RVM - einstimmig beschlossen
+- TOP 17: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 18: Feststellung der Jahresabschlüsse 2023 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 19: Integriertes Flächenkonzept Münster (IFM) – Abschluss und Dokumentation - mehrheitlich geändert beschlossen
+- TOP 20: Bericht zur Wohnbaulandentwicklung 2023 und Fortschreibung des Baulandprogramms 2024 - 2032 - mehrheitlich geändert beschlossen
+- TOP 21: Entwicklung Modellquartier südwestlich Steinfurter Straße - mehrheitlich geändert beschlossen
+- TOP 22: Innenstadt stärken: Beantragung von Städtebaufördermitteln für INSEK Münster-Innenstadt-Maßnahmen 2025-2029 - mehrheitlich beschlossen
+- TOP 23: Neugestaltung Hamburger Tunnel - Ergebnis der Mehrfachbeauftragung - mehrheitlich beschlossen
+- TOP 23.1: Neugestaltung Hamburger Tunnel - Ergebnis der Mehrfachbeauftragung
+- TOP 24: Münster gemeinsam machen – mit dem „Leitfaden Inklusive Beteiligung“ die mitgestaltende Öffentlichkeitsbeteiligung in Münster stärken - einstimmig beschlossen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Beschluss über eine zunächst zeitlich befristete Fortsetzung des Deutschlandtickets (01.10.2024 bis 31.12.2024) und Änderung der „Allgemeinen Vorschrift zur Festlegung des Deutschlandtickets als Höchsttarif“ - einstimmig beschlossen
+- TOP 27: Anmietung und Aufstellen von Fertigbauklassen als Interimslösung während der Baumaßnahmen zur Sanierung des Gymnasiums Paulinum und Erweiterung des Annette-von-Droste-Hülshoff-Gymnasiums hier: Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 28: Errichtung der 4-zügigen Grundschule "Städtische Grundschule York" im Sinne des § 81 Absatz 2 SchulG - einstimmig beschlossen
+- TOP 29: Ergebnisse der Neuausrichtung "Medienentwicklungsplanung" - mehrheitlich beschlossen
+- TOP 30: Schulentwicklungsplanung Primarstufe, geänderte bzw. neue Beschlussfassung - einstimmig geändert beschlossen
+- TOP 31: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung - einstimmig beschlossen
+- TOP 31.1: Inklusion an Schulen – Modellprojekt zur intensivpädagogischen Betreuung an Regelschulen; aktuelle Entwicklungen in der schulischen Inklusion im Förderschwerpunkt Geistige Entwicklung
+- TOP 32: Mobile Luftfilter in Schulen / Bedarfsfeststellung zur Rücknahme - mehrheitlich geändert beschlossen
+- TOP 32.1: Mobile Luftfilter in Schulen / Bedarfsfeststellung zur Rücknahme
+- TOP 33: Kindertagesbetreuungsbericht 2024 - zur Kenntnis genommen
+- TOP 34: Trägervergabe für die fünfgruppige Kindertageseinrichtung an der Hammer Straße/ Städtisches Stadion Bezirk Hiltrup - mehrheitlich beschlossen
+- TOP 35: Trägerwechsel für die außerunterrichtlichen offenen Angebote an der Peter-Wust-Schule (OGS und BMB) - einstimmig beschlossen
+- TOP 36: "Bürgerschaftliches Engagement stärken, sichere Durchführung des Turniers der Sieger garantieren“ - mehrheitlich beschlossen
+- TOP 37: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik - mehrheitlich beschlossen
+- TOP 37.1: Satzung zur Änderung der Schulordnung und Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik
+- TOP 38: Theater Münster - mehrheitlich geändert beschlossen
+- TOP 39: Schillergymnasium - Baubeschluss - einstimmig beschlossen
+- TOP 40: Energetische Sanierung und statische Ertüchtigung des Turnhallendaches am Ludwig-Erhard-Berufskolleg - einstimmig beschlossen
+- TOP 41: Baubeschlussvorlage FWH Albachten - einstimmig beschlossen
+- TOP 42: Baugebiet "Handorf - Hobbbeltstraße / Kirschgarten / Heriburgstraße - Quartierskonzept der Wohn- und Stadtbau - von der Tagesordnung abgesetzt
+- TOP 43: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen - mehrheitlich beschlossen
+- TOP 43.1: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen
+- TOP 43.1.1: Integriertes Freiraumentwicklungskonzept Kinderbachtal (IFEK Kinderbachtal) sowie zukünftige Umsetzung von Einzelmaßnahmen
+- TOP 44: Bikepark Steinfurter Straße - Planungs- und Baubeschluss - - mehrheitlich beschlossen
+- TOP 45: "Global Nachhaltige Kommune in NRW (GNK)" – Nachhaltigkeitsstrategie Münster 2030 – Teil 4: Nachhaltigkeitsbericht 2019 – 2022, Stellungnahme des GNK-Beirats und nächste Meilensteine im Nachhaltigkeitsprozess - mehrheitlich geändert beschlossen
+- TOP 46: Lärmaktionsplan - 4. Runde - mehrheitlich geändert beschlossen
+- TOP 47: 1. Fortschreibung Wasserversorgungskonzept der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 48: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 49: Bauleitplanung
+- TOP 49.1: Stadtbezirk Münster-West
+- TOP 49.1.1: 125. FNP-Änderung - Beschluss zur Änderung / Vorhabenbezogener Bebauungsplan Nr. 638 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 49.2: Stadtbezirk Münster-Nord
+- TOP 49.2.1: Vorhabenbezogene 3. Änderung des Bebauungsplans Nr. 134 II (Neufassung) - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 50: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 50.1: Ladebordsteine - smarte Lösungen für smartes Tanken! - verwiesen
+- TOP 50.2: Filmservice einstellen - verwiesen
+- TOP 50.3: Austritt aus dem Münsterland e. V. - verwiesen
+- TOP 50.4: Mehr Verkaufsautomaten aufstellen - verwiesen
+- TOP 50.5: Gremien abschaffen - verwiesen
+- TOP 50.6: Chancen nutzen - Verkehrs- und Nahversorgungsinfrastruktur in Angelmodde verbessern - verwiesen
+- TOP 51: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 51.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 52: Verschiedenes
