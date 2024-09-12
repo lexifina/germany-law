@@ -1,0 +1,77 @@
+# Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-12T16:00:00+02:00
+- Ende: 2024-09-12T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29768
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29768
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Präsentation "Energiebericht 2021 - 2023"
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktionen Bündnis 90/Die Grünen betr.: "Kontrolle der Mehrwegangebotspflicht" - Kenntnis genommen
+- TOP 1.1.1: Beantwortung einer Anfrage aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 25.04.2024 betr.: "Kontrolle der Mehrwegangebotspflicht" (AN/0628/2024) - Kenntnis genommen
+- TOP 1.2: Anfrage der Ratsgruppe KLIMA FREUNDE & GUT betr.: "St.Sebastianus & Afra Schützenbruderschaft Köln von 2012 e.V" - zurückgestellt
+- TOP 1.3: Anfrage der FDP-Fraktion betr.: "Kölner Luftreinhalteplan heute und in Zukunft" - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 13.06.2024 betr.: "Kölner Luftreinhalteplan heute und in Zukunft" (AN/0798/2024) - Kenntnis genommen
+- TOP 1.4: Anfrage der FDP-Fraktion betr.: "Sachstand Echtzeitmonitoring von Verkehrslage und Luftschadstoffen (Mobilitäts Cockpit Köln)" - Kenntnis genommen
+- TOP 1.4.1: Beantwortung einer schriftlichen Anfrage gem. §4 der Geschäftsordnung des Rates der FDP-Fraktion im Ausschuss Klima, Umweltund Grünzum 13.06.2024 betreffend Sachstand Echtzeitmonitoring von Verkehrslage und Luftschadstoffen (Mobilitäts Cockpit Köln) - Kenntnis genommen
+- TOP 1.5: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Umweltbelastungen während des Ost-West-Achsen-Ausbaus" - Kenntnis genommen
+- TOP 1.5.1: Beantwortung der schriftlichen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 13.06.2024 (AN/0927/2024) betreffend "Umweltbelastungen während des Ost-West-Achsen-Ausbaus" - Kenntnis genommen
+- TOP 1.6: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Förderprogramme und Fördermittel, hier im Dezernat VIII" - zurückgestellt
+- TOP 1.6.1: Beantwortung der Anfrage der Fraktionen BÜNDNIS 90/ DIE GRÜNEN gem.§ 4 der Geschäftsordnung des Rates AN /0924/2024 zu Förderprogramme und Fördermittel im Dezernat VIII vom 10.06.2024 - zurückgestellt
+- TOP 1.7: Anfrage der FDP-Fraktion betr.: "Photovoltaik auf Kölner Rheinbrücken" - zurückgestellt
+- TOP 1.8: Anfrage der Fraktionen Bündnis 90/Die Grünen und Volt betr.: "Gremberger Wäldchen – Ausbau der A4" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Igelschutz jetzt!" - Sache ist erledigt
+- TOP 2.1.1: Stellungnahme der Verwaltung zum Antrag der Ratsgruppe KLIMA FREUNDE & GUT betreffend "Igelschutz jetzt!" (AN/0686/2024) - Kenntnis genommen
+- TOP 2.2: Antrag der FDP-Fraktion betr.: "Logistikkonzept der Klärschlammverbrennung überarbeiten" - zurückgestellt
+- TOP 2.2.1: Stellungnahme der Verwaltung zum Antrag der FDP-Fraktion aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 13.06.2024 betr.: "Logistikkonzept der Klärschlammverbrennung überarbeiten" (AN/0829/2024) - zurückgestellt
+- TOP 2.3: Antrag der Ratsgruppe KLIMA FREUNDE & GUT betr.: "Kölner Grüngürtelsystem: Weltkulturerbe jetzt!" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: ISEK Porz-Mitte - Umgestaltung Rheinboulevard Porz - ungeändert empfohlen
+- TOP 4.1.2: Baubeschluss für die klimarobuste Umgestaltung der Kasemattenstraße in Köln-Deutz sowie Freigabe von investiven Auszahlungsermächtigungen, hier: Finanzstelle 6601-1201-1-1148, Umgestaltung Kasemattenstraße - ungeändert empfohlen
+- TOP 4.1.3: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Förderprogramm Lebensmittelrettung zur Vermeidung und Umnutzung von Lebensmittelüberschüssen - ungeändert beschlossen
+- TOP 4.2.2: Livestream der Sitzungen des Ausschusses Klima, Umwelt und Grün sowie des Betriebsausschusses Abfallwirtschaftsbetrieb - ungeändert beschlossen
+- TOP 4.2.3: Zuschuss an die KlubKomm, Verband Kölner Clubs und Veranstalter*innen e.V. für Klimastipendien, um ökologische Nachhaltigkeit in Kölner Clubs und Event-Locations - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Energetische Quartierssanierung: 1. KfW 432 Quartierskonzept - Kenntnis genommen
+- TOP 7.2: Beendigung Mietvertrag Schützenbrüderschaft St. Sebastianus & Afra 2012 e.V. - Kenntnis genommen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.4: Stadtklima-/Stadtverschönerungsprogramm 2024 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.5: Ausrichtung der internationalen Jahreskonferenz des Städtenetzwerks Klima-Bündnis „Climate Alliance International Conference (CAIC)“ 2025 in Köln - Kenntnis genommen
+- TOP 7.6: Verbraucherberatungsstelle Köln: Jahresbericht 2023 - Kenntnis genommen
+- TOP 7.7: Verbraucherberatung im Quartier: Jahresbericht 2023 - Kenntnis genommen
+- TOP 7.8: Regionalplan Köln, Sachlicher Teilplan Nichtenergetische Rohstoffe – Stellungnahme Stadt Köln zum zweiten Planentwurf eingereicht - Kenntnis genommen
+- TOP 7.9: Bewegungskonzept im Kölner Grün - Stellungnahme zum Ratsbeschluss vom 27.06.2024 (0968/2024) - Kenntnis genommen
+- TOP 7.10: Evaluation Kooperatives Baulandmodell 2024 - Kenntnis genommen
+- TOP 7.11: Interne Evaluierung zur Novelle Baumschutzsatzung gemäß Ratsbeschluss vom 15.06.2023 - Kenntnis genommen
+- TOP 7.12: Bericht zur Kampagne NULL future 2035 und Klimawoche 2024 - Kenntnis genommen
+- TOP 7.13: Grundwasserproblematik in Porz-Lind (AN/1037/2024) - Kenntnis genommen
+- TOP 7.14: Energiebericht 2023: Energieverbrauchs- und Kostenstatistik 2022/Sachstand Energiemanagementkonzept 2023 - zurückgestellt
+- TOP 7.15: Klimaschutz-Monitoring - zurückgestellt
+- TOP 7.16: Klimataler-App - Kenntnis genommen
+- TOP 7.17: Sachstandsbericht zum Schaugewächshaus und Orangerie im Botanischen Garten - Stand 30. August 2024 - Kenntnis genommen
+- TOP 7.18: Entwicklung eines "Kölner Programms" für energetische Quartierskonzepte - zurückgestellt
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Beantwortung einer mündlichen Anfrage der Stadtarbeitsgemeinschaft Queerpolitik - Ausschuss Klima, Umwelt und Grün vom 13.06.2024 betr.: "Aktueller Sachstand zum Thema Klimaschutz und Klimabilanz" - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betr.: „Sachstand Baumkataster“
+- TOP 9.2: Mündliche Anfrage der Fraktion Die Linke. betr.: „Sachstand Entsiegelungskataster“
+- TOP 9.3: Mündliche Anfrage der Ratsgruppe KLIMAFREUNDE & GUT betr.: "Sachstand Fördergelder für die Müllfalle der Rheinkrake“
+- TOP 9.4: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betr.: „Sachstand der Fördermittelbereitstellung für Photovoltaik-Anlagen“
+- TOP 9.5: Mündliche Anfrage der Fraktion Bündnis 90/Die Grünen betr.: „Sachstand der Handlungsempfehlungen für Photovoltaik-Freiflächenanlagen“
