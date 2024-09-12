@@ -1,0 +1,84 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-09-12T16:00:00+02:00
+- Ende: 2024-09-12T16:30:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22034
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/22034
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00335825.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Aktueller Stand der BuGa-Kosten
+- TOP 2.1.1: Aktueller Stand der BuGa-Kosten
+- TOP 2.2: Sachstand zu dem Thema Tierheim/Tierschutzzentrum Pechpfoten e.V.
+- TOP 2.2.1: Sachstand zu dem Thema Tierheim / Tierschutzzentrum Pechpfoten e.V.
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Petition in Sachen Gewerbegebiet Schöller-West
+- TOP 4: Anträge
+- TOP 4.1: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Wuppertal vom 20.12.2001
+- TOP 4.2: Gründung einer stadteigenen Schul- und Sonderbau Gesellschaft
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Antrag Parkgebührenordnung
+- TOP 5.2: Anpassung der Schulsekretariatsstellen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif)
+- TOP 6.2: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Hof- und Hausflächen in ausgewählten Stadtteilen ("Hof- und Fassadenprogramm")
+- TOP 6.3: Änderung der Entgeltordnung für das Von der Heydt-Museum
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 01.06.2024-23.08.2024
+- TOP 7.2: Bereitstellung außerplanmäßiger Haushaltsmittel zur Deckung entstandener Mehrkosten bei der Sanierung des Bibliotheksstandortes am Rott, Rödiger Str. 69
+- TOP 7.3: Überplanmäßige Mittelbereitstellung zur Deckung von Mehrkosten bei den Sach- und Dienstleistungen im Rettungsdienst
+- TOP 7.4: Außerplanmäßige Mittelbereitstellung für die Bergische Kooperation
+- TOP 7.5: Überplanmäßige Mittelbereitstellung für die Bereiche Hilfe zur Pflege, Hilfen zur Gesundheit, Hilfe zum Lebensunterhalt und Wohnungslosenhilfe
+- TOP 7.6: Genehmigung einer überplanmäßigen Ausgabe in Höhe von 380.000,- € für die Beauftragung von Partnerschaft Deutschland
+- TOP 7.6.1: Änderungsantrag zur Drucksache VO/1042/24 "Außerplanmäßige Mittelbereitstellung für die Beauftragung von Partnerschaft Deutschland mit der Durchführung von priorisierten Ausschreibungsverfahren
+- TOP 7.7: Dienstanweisung Ermächtigungsübertragungen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2021 des Eigenbetriebs Gebäudemanagement Wuppertal (GMW)
+- TOP 8.2: Jahresabschluss 2021 - Entlastung des Betriebsausschusses GMW
+- TOP 8.3: Jahresabschluss 2023 der Stadtsparkasse Wuppertal
+- TOP 8.4: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2023
+- TOP 8.5: Übertragung der Entscheidungsbefugnis für überplanmäßige und außerplanmäßige Aufwendungen und Auszahlungen
+- TOP 8.6: Auflösung der Delphin Vermögensverwaltung GmbH & Co. KG und der Delphin Verwaltungs GmbH
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 278 - In der Lohrenbeck -
+- TOP 9.2: Bebauungsplan 782 - Gustav-Heinemann-Straße/Westfalenweg -
+- TOP 9.3: 18. Änderung des Regionalplanes Düsseldorf - Änderung der Festlegungen zu Windenergieanlagen
+- TOP 9.4: Bebauungsplan 272 - Im Hölken -
+- TOP 9.5: Bebauungsplan 1273/1 - Christbusch/Am Unterbarmer Friedhof
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen
+- TOP 11.1.1: Änderungsantrag zur Drucksache "Handlungsprogramm Gewerbeflächen - Neue Potenzialflächen" (VO/0523/24)
+- TOP 11.2: Anmietung von Räumlichkeiten in der Stresemannstr. 15 zur Unterbringung Geflüchteter
+- TOP 11.3: Jahresbericht des Inklusionsbüros 2022/2023
+- TOP 11.4: Auswahlverfahren für die Veranstalter der Weihnachtsmärkte in Wuppertal-Elberfeld und Wuppertal-Barmen für die Jahre 2025-2029
+- TOP 11.5: Fördermaßnahmen für das OGS-Investitionsprogramm - Schwerpunkt Ausstattung
+- TOP 11.6: Quartalsbericht II/2024 zum Handlungsprogramm Gewerbeflächen
+- TOP 11.7: Beitritt zur Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2024 wegen Verfassungswidrigkeit der differenzierten fiktiven Realsteuerhebesätze
+- TOP 11.8: Ersteinrichtung des offenen Ganztags an der Gemeinschaftsgrundschule Hammesberger Weg zum Schuljahr 2025/26
+- TOP 11.9: Ergebnisse der 1. Wuppertaler Weiterqualifizierungskonferenz
+- TOP 11.10: Stellungnahme der Stadt Wuppertal zum Entwurf des VRR-Nahverkehrsplans 2025
+- TOP 11.11: Fortführung Förderprogramm Energieeffizientes Zuhause
+- TOP 11.12: 4. Zwischenbericht InnenBandStadt
+- TOP 11.13: Förderantrag Natürlicher Klimaschutz – Modul B Pflanzung von Bäumen
+- TOP 11.14: Evaluation der Leitlinien Bürgerbeteiligung - Ergebnisbericht
+- TOP 11.15: Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4
+- TOP 11.15.1: Änderungsantrag zur Fortschreibung des Lärmaktionsplanes für den Ballungsraum Wuppertal – Lärmkartierung und Lärmaktionsplanung der Runde 4, VO/0946/24
+- TOP 11.16: Standortsuche Zentralbibliothek - Bericht
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Besetzung des Beirats Bürgerbeteiligung
+- TOP 12.2: Umbesetzung im Aufsichtsrat der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal
+- TOP 12.3: Bildung der Einigungsstelle für die Gesamtstadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW)
+- TOP 12.4: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Verwaltungsgericht Düsseldorf
+- TOP 12.5: Gremienumbesetzung Jugendhilfeausschuss
+- TOP 12.6: Bestellung der Vertretung der Stadt Wuppertal in der Gesellschafterversammlung der BUGA gGmbH und im Aufsichtsrat der Helios Klinikum Wuppertal GmbH
+- TOP 12.7: Gremienbesetzungen
+- TOP 12.8: Gremienbesetzung/Benennung
