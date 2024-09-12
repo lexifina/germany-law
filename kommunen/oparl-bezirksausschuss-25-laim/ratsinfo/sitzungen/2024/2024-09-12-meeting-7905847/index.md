@@ -1,0 +1,138 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2024-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7905847
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7905847
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger*innen haben das Wort
+- TOP 1.2: Post von Bürger*innen an den BA
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Stadtbezirksbudget ESV München e.V. Turngala "The Phantom House", 03.-06.10.24 7.875,00€ ; AZ 0262.0-25-0338
+- TOP 3.2.: (E) Stadtbezirksbudget Quat Fata e.V. / Frauenpower e.V. 5. Interkulturelles Tanz- und Musikfest „Hayat yolliri… Die Wege des Lebens…“ am 24.11.2024 1.845,00 Euro; Az. 0262.0-25-0339
+- TOP 3.3.: (E) Stadtbezirksbudget Diakonie - Jugendhilfe Oberbayern, Schulsozialarbeit an der Georg-Büchner-Realschule Kennenlerntage vom 23.09. - 06.10.2024 1.200,00 Euro, Az.: 0262.0-25-0341
+- TOP 3.4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 Beschluss des Bezirksausschusses des Stadtbezirkes 25 - Laim vom 12.09.2024 Öffentliche Sitzung Freischankfläche: Inderstorferstr. 15, 80689 München (mit Antwortschreiben Kreisverwaltungsreferat vom 28.08.24)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Einzelfällungsanträge
+- TOP 4.2.: Schreiben Direktorium vom 16.07.24: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024; Erfahrungen der Bezirksausschüsse
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 25.07.24: Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen
+- TOP 4.4.: Erinnerungsverfahren Projekt: Elsenheimerstr. 60, Sanierung Fahrbahn vor den Bushaltestellen
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 12.08.24: Veranstaltung in einer städtischen Grünanlage Hier: Bez. 25, Spielplatz Valpichlerstr./Von-der-Pfordten-Str., Spielplatz vorm Jugendzentrum, Herbstflohmarkt Am 19.10.2024, Ersatztermin: 26.10.2024
+- TOP 4.6.: Schreiben Referat für Klima und Umweltschutz vom 08.08.24: Lärmaktionsplan 2024
+- TOP 4.7.: Schreiben Sozialreferat vom 28.08.24: Perspektiven der Beratungsstruktur, Stadtweites Verfahren
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Oktoberfest 2024 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 6.2.: Nachtspaziergänge 2024
+- TOP 6.3.: BA 25 Sitzungstermine 2025
+- TOP 6.4.: Schreiben Gesundheitsreferat vom 25.07.24: Fortschreibung Leitlinie Gesundheit, Einladung Regionalforen "Meine Stadt, meine Gesundheit" am 12.09., 09.10., 22.10. und 13.11.2024
+- TOP 6.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.08.24: Konzeptfortschreibung Masterplan Landschaftspark Pasing-Laim-Blumenau-Hadern/ West - Information Projektstart
+- TOP 7: Protokolle
+- TOP 7.1.: Protokoll UA Kultur vom 03.07.24
+- TOP 7.2.: Protokoll UA Kultur vom 05.07.24
+- TOP 7.3.: Protokoll UA Soziales und Bildung/Gesundheit vom 11.07.24
+- TOP 7.4.: Protokoll UA Bau vom 18.07.24
+- TOP 7.5.: Protokoll UA Umwelt, Klima und Baumschutz vom 22.07.24
+- TOP 7.6.: Protokoll UA Mobilität vom 16.07.24
+- TOP 7.7.: Protokoll BA-Sitzung vom 25.07.24
+- TOP 7.8.: Protokoll UA Kultur vom 23.07.24
+- TOP 7.9.: Protokoll UA Kultur vom 25.07.24
+- TOP 8: Umlauf
+- TOP 8.1.: Antwortschreiben Mobilitätsreferat vom 24.07.24: Ampelschaltung Fürstenrieder/Agnes-Bernauer-Str. (Weiterleitung an Mobilitätsreferat)
+- TOP 8.2.: Schreiben Mobilitätsreferat vom 16.07.24: Sauberkeit am U-Bahnhof Laimer Platz
+- TOP 8.3.: Schreiben Mobilitätsreferat vom 12.07.24: Bauphase 4.1 zwischen Gotthardstr. und Aindorferstr.
+- TOP 8.4.: Schreiben Mobilitätsreferat vom 11.07.24: VAO Kleinmaßnahme Ammerseestr.
+- TOP 8.5.: Schreiben Mobilitätsreferat vom 12.07.24: VAO Kleinmaßnahme AMM rechte Spur
+- TOP 8.6.: Schreiben Mobilitätsreferat vom 24.07.24: VAO Kleinmaßnahmen Ammerseestr.
+- TOP 8.7.: Schreiben Mobilitätsreferat vom 26.07.24: VAO Fürstenrieder Str./Ammerseestr. - Sperrug Schulmeierweg
+- TOP 8.8.: Schreiben Mobilitätsreferat vom 23.07.24: Verlängerung VA Stroblstr. vom 27.07.2024 bis 06.09.2024 (U 01747/24; Sperre Stroblstr. Süd)
+- TOP 8.9.: Schreiben Mobilitätsreferat vom 11.07.24: Informationsveranstaltung für BA-Mitglieder zum Aufbau von Normalladeinfrastruktur am 10.07.2024 um 18h
+- TOP 8.10.: Schreiben Mobilitätsreferat vom 24.07.24: Konzept für geteilte Mobilität im Stadtbezirk 25
+- TOP 8.11.: Schreiben Mobilitätsreferat vom 26.07.24: Westtangente - Verkehrssicherheit an der Kreuzung Fürstenrieder / Agnes-Bernauer-Straße
+- TOP 8.12.: Schreiben Mobilitätsreferat vom 26.07.24: VAO Fürstenriederstr. Kreuzungsbereich Agnes-Bernauer-Str
+- TOP 8.13.: Schreiben Mobilitätsreferat vom 29.07.24: Anfrage des Elternbeirats der Grundschule an der Schrobenhausener Straße, Laim
+- TOP 8.14.: Schreiben Mobilitätsreferat vom 30.07.24: Parksituation Laim
+- TOP 8.15.: Schreiben Mobilitätsreferat vom 09.08.24: Fürstenrieder Str./Ammerseestr. 3.2.4
+- TOP 8.16.: Schreiben Mobilitätsreferat vom 14.08.24: VAO Fürstenrieder Str. zw. Saherr und Aindorfer BPH 5.1 und AMM 3.2/5.1
+- TOP 8.17.: Schreiben Mobilitätsreferat vom 16.08.24: VAO Fürstenrieder Str. Bereich Hogenbergunterführung
+- TOP 8.18.: Schreiben Mobilitätsreferat vom 12.08.24: Begrünung der Wartehäuschen entlang der Tram-Westtangente
+- TOP 8.19.: Schreiben Mobilitätsreferat vom 21.08.24: Fürstenriederstraße - SAH-AIN 5.1 Änderung und Verlängerung
+- TOP 8.20.: Schreiben Mobilitätsreferat vom 22.08.24: Fürstenrieder Str., SAH-AIN 5.1 T3, 2. Änderung
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.07.24: Agnes-Bernauer-Str. 92-94, Flnr. 33/2, Gemarkung Laim
+- TOP 8.22.: Bautenliste 08.07.24-14.07.24: A) Änderungsverfahren zu genehmigten Bauvorhaben 1. Landsberger Str. 287b B) Erstantragsverfahren 1. Fröbelpl. 5
+- TOP 8.23.: Bautenliste 22.07.-28.07.24: A) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Hans-Thonauer-Str. 3d
+- TOP 8.24.: Bautenliste 05.08.-11.08.24 A) Erstantragsverfahren 1. Landsberger Str. 302 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Sandrartstr. 22
+- TOP 8.25.: Bautenliste 12.08.24-18.08.24: A) Erstantragsverfahren 1. Zschokkestr. 73 2. Stroblstr. 25 B) Änderungsverfahren zu genehmigten Bauvorhaben 1. Dichtlstr. 8 C) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten 1. Agnes-Bernauer-Str. 51
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.08.24: Perspektive München - Handlungsräume der Stadtentwicklung, SV Nr. 20-26 / V 12346 - BA-Unterrichtung
+- TOP 8.27.: Schreiben Kreisverwaltungsreferat vom 02.08.24: Beschwerde über Lärm im Außenbereich Schanigarten Laimer Platz
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 09.07.24: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Class Bar", Burgkmairstr. 60
+- TOP 8.29.: Schreiben Kreisverwaltungsreferat vom 22.07.24: Antrag auf unveränderte Fortführung des Gaststäätenbetriebes "Torbogenstüberl", Stöberlstr. 33
+- TOP 8.30.: Schreiben Kreisverwaltungsreferat vom 20.06.24: Taubenturm auf der Grünfläche im Laimer Kreisel
+- TOP 8.31.: Schreiben Kreisverwaltungsreferat vom 24.07.24: Anhörung | Bez. 25, Laimer Anger | Jubiläum Royal Rangers Stamm am 19.10.24 | Frist: 03.09.24 Hier: Eilentscheidung
+- TOP 8.32.: Schreiben Kreisverwaltungsreferat vom 23.07.24: Am Laimer Anger Figurenzelttheater Wunder von 24.10.-03.11.24, Frist: 26.08.24 Hier: Eilentscheidung
+- TOP 8.33.: Schreiben Kreisverwaltungsreferat vom 12.08.24: Veranstaltung des Familienzentrum im Freien in städtischer Grünanlage; hier: Hogenbergplatz, 16.09-18.09.24 Basteltage; jeweils max.30 Besucher gleichzeitig Hier: Eilentscheidung
+- TOP 8.34.: Schreiben Kreisverwaltungsreferat vom 26.08.24: Café Lilly, Burgkmairstr.
+- TOP 8.35.: Schreiben Referat für Klima und Umweltschutz vom 09.08.24: BURGER. BAR. Landsberger Str.
+- TOP 8.36.: Schreiben Referat für Klima- und Umweltschutz vom 14.08.24: Ausnahmezulassung (Verlängerung) gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 8.37.: Schreiben AWM vom 06.08.24: Entsorgungssituation in Laim
+- TOP 8.38.: Schreiben Baureferat vom 02.08.24: Antrag aus Kinder- und Jugendforum - barrierefreie Spielgeräte für Spielplatz an der Willibaldstraße / Senftenauerstraße: Protokoll zum Ortstermin am 10.06.2024
+- TOP 8.39.: Schreiben Baureferat vom 12.07.2024: Neugestaltung Hönigschmidplatz
+- TOP 8.40.: Schreiben Baureferat vom 07.08.24: Fahrradwegsanierung in der Agnes-Bernauer-Straße
+- TOP 8.41.: Schreiben Mieterbeirat vom 07.08.24: Protokoll des Mieterbeirates d. LHM vom 22.07.2024
+- TOP 8.42.: Schreiben Sozialreferat vom 08.07.24 und 08.08.24: Verfallene Häuser
+- TOP 8.43.: Schreiben Sozialreferat vom 12.08.24: Grünfläche Agnes-Bernauer-Str./ Friedenheimer Str. 80687 München
+- TOP 8.44.: Schreiben Sozialreferat vom 30.07.24: Ruhestörung in Wohnanlage Reindlstraße und Stürzerstraße
+- TOP 8.45.: Schreiben SWM vom 16.07.24: SWM Baumaßnahme Fernwärme-Projekt Stadtlohner Straße
+- TOP 8.46.: Schreiben SWM vom 23.07.24: SEV Gleisbau,19West,PBF-WIP,29.07.-06.10.24
+- TOP 8.47.: Schreiben SWM vom 30.07.24: VERLÄNGERUNG SEV Tram 18 West ab 11.03.24
+- TOP 8.48.: Schreiben SWM vom 29.07.24: Baumaßnahmen
+- TOP 8.49.: Schreiben SWM vom 13.08.24: Baumaßnahmen
+- TOP 8.50.: Schreiben vom 28.07.24: Hilfegesuch zum Sachverhalt Kostenfreiheit des Schulwegs
+- TOP 8.51.: Schreiben Direktorium vom Juli 2024: Verwendungsnachweise
+- TOP 8.52.: Hinweis/Ergänzung zum Beschluss des Mobilitätsausschusses vom 17.07.24: Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 8.53.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: Landschaftsbezogene Wegekonzeption für den Grüngürtel - Vertiefung Münchner Westen Vorstellung der Studienergebnisse und Beschluss über das weitere Vorgehen
+- TOP 8.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.07.24: (U) Änderung der Einfriedungssatzung Satzung zur Änderung der Satzung der Landeshauptstadt München über Einfriedungen
+- TOP 8.55.: Beschluss der Vollversammlung des Stadtrates vom 24.07.24: Filmstandort München stärken
+- TOP 8.56.: Beschluss des Bauausschusses vom 05.12.2023: (U) Mehrjahresinvestitionsprogramm für die Jahre 2023 - 2027 mit verbindlicher Planung für 2028 für das Baureferat
+- TOP 8.57.: Bekanntgabe in der Sitzung des Bauausschusses vom 09.07.24: (U) Bekanntgabe zu den Ergebnissen der Projektgruppe Energiemangel / Energieeinsparung 2022 und 2023 und dem Sofortprogramm infolge der verschärften Energiesituation - Bekanntgabe -
+- TOP 8.58.: Beschluss der Vollversammlung des Stadtrates vom 24.07.24: Mobilitätsstrategie 2035 Nachbarschaftsviertel in München Produkt 43512300 Strategie, Bezirksmanagement und Produktentwicklung Beschluss über die Finanzierung für das Jahr 2024 aus der Nahmobilitätspauschale
+- TOP 9: Weitergegebene Angelegenheiten, bereits in Bearbeitung
+- TOP 9.1.: Gewerbliches Parken Rushaimerstraße/Camerloherstraße/Von-der-Pfordten-Straße (Weiterleitung an PI 41)
+- TOP 9.2.: Belegung von Parkplätzen durch Gewerbebetrieb (Weiterleitung an Kreisverwaltungsreferat und Mobilitätsreferat)
+- TOP 9.3.: Rad- und Fußweg Tuttlinger Straße (Weiterleitung an das Baureferat und das Mobilitätsreferat)
+- TOP 9.4.: Sperre der Sportstätte an der Schrobenhausener Str. 15-17 (Antwort an Bürgerin)
+- TOP 9.5.: Dialog-Display Guido-Schneble-Straße (Antwort an Bürgerin)
+- TOP 9.6.: Verkehrszeichen Baustelle Elsenheimerstr. 31 (Weitergabe an Mobilitätsreferat und Polizeiinspktion 41)
+- TOP 9.7.: Baustelle Tram-Westtangente Fürstenrieder Straße (Weiterleitung an Baureferat und Mobilitätsreferat)
+- TOP 9.8.: Anhänger Willibaldstraße / Ecke Senftenauerstraße (Antwort an Bürger*in)
+- TOP 9.9.: Verkehrssicherheit (Weiterleitung an Mobilitätsreferat)
+- TOP 9.10.: Leerstand Agnes-Bernauer-Str. 53 und 53a (Weiterleitung an Sozialreferat)
+- TOP 9.11.: Boule- oder Boccia geeignete Sandfläche am Agricolaplatz oder Willibaldplatz (Weiterleitung an Baureferat -Gartenbau)
+- TOP 9.12.: Dialog-Display Friedenheimerstraße (Vertagung in UA Mobilität)
+- TOP 9.13.: Anwohnerparken Camerloherstraße (Antwort an Bürger*in)
+- TOP 9.14.: Mietreduzierung Kiem-Pauli-Weg (Kenntnisnahme)
+- TOP 9.15.: Kitaförderung Laim (Kenntnisnahme und Antwort an Bürger*in)
+- TOP 9.16.: Fluglärm über der Stadt (Weiterleitung an Referat für Klima und Umweltschutz)
+- TOP 9.17.: Plätze zum Verweilen (Kenntnisnahme und Antwort an Bürger*in)
+- TOP 9.18.: Tonnenleerung in Laim (Weiterleitung an AWM)
+- TOP 9.19.: Anfrage wegen Liefertätigkeit (Weiterleitung an Kreisverwaltungsreferat-Bezirksinspektion)
+- TOP 9.20.: Tram Westtangente aktuell (Weiterleitung an MVG)
+- TOP 9.21.: Stöberlstr. / aufgesetztes Parken (Vertagung in UA Mobilität)
+- TOP 9.22.: Parken auf dem Gehweg (Weiterleitung an PI 41)
+- TOP 9.23.: Bezüglich Fahrradfahrverbot Laimer Unterführung (Weiterleitung an Mobilitätsreferat)
+- TOP 9.24.: Hönigschmidplatz: Bushaltestelle und Zebrastreifen (Antwort an Bürger*in)
+- TOP 9.25.: Tempo 30 Landsberger Straße (Antwort an Bürger*in)
+- TOP 9.26.: Parklizentgebiet Laim (Antwort an Bürger*in)
+- TOP 9.27.: Bücherschrank Laim (Antwort an Bürger*in bzgl Antragstellung Budgetantrag)
+- TOP 9.28.: Wartehäuschen für Ersatzhaltestelle Tram 18 Westendstraße (Weiterleitung an MVG, wann Haltestellen wieder fertig gestellt werden.)
+- TOP 9.29.: Baustelle Friedenheimer Brücke (Weiterleitung an Mobilitätsreferat und PI 41)
+- TOP 4.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.09.24: Tram-Westtangente, Tektur E, Teil 2
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 10.09.24: Veranstaltung in einer städtischen Grünanlage; Hier: Am Laimer Anger, Alt-Laimer Frühschoppen am 28.09.2024
