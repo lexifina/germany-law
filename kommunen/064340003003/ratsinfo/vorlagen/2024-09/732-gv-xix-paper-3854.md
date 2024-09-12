@@ -1,0 +1,24 @@
+# Neufassung der Gebührenordnung zur Friedhofsordnung
+
+- Körperschaft: Gemeinde Glashütten
+- Drucksache/Vorlage: 732/GV/XIX
+- Art: Beschluss-Vorlage
+- Datum: 2024-09-12
+- Ratsinformationssystem: https://rim.ekom21.de/glashuetten/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfah28z295MuZfgyOxZGuiw
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/paper/3854
+- Quelle: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschluss-Vorlage (Neufassung der Gebührenordnung zur Friedhofsordnung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf_RFIsUUy7nW5Hnt8oyzpf4W6hx8KgBOBgFyYnLeU97/Beschluss-Vorlage_732-GV-XIX.pdf
+- Anlage: Beschluss-Vorlage (Zusammenstellung der aktuelle Unterlagen zur Gebührenordnung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcfYTJsyHVr1ZDb2CODB97MiKWhecH5yTHMU3eSye9aG/Zusammenstellung_der_aktuelle_Unterlagen_zur_Gebuehrenordnung.pdf
+- Anlage: Beschluss-Vorlage (Beantwortung der Frage des Gemeindevorstandes vom 15.02.2024) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXXe1_MJSpS9KirBMfmftBeS083GuNhlJ0YHehqLptaX/Beantwortung_der_Frage_des_Gemeindevorstandes_vom_15.02.2024.pdf
+- Anlage: Beschluss-Vorlage (Entwurf neue Friedhofsgebührenordnung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZahYbJXNS1ZTwhZzEsizF-79k54iT5VhOygWvIdpRFwo/Entwurf_neue_Friedhofsgebuehrenordnung.pdf
+- Anlage: Beschluss-Vorlage (1. Änderung Friedhofsgebührenordnung) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYApqhMIxXT2r172RrVZ95Nho6uRdySBgar2AsULAnmr/1._Aenderung_Friedhofsgebuehrenordnung.pdf
+- Anlage: Beschluss-Vorlage (Gegenüberstellung Friedhofsgebühren) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZauPI_MGqdTQyAhvl_q2bYql4hO0qX-Z8Gu4eb4iKNrb/Gegenueberstellung_Friedhofsgebuehren.pdf
+- Anlage: Beschluss-Vorlage (Zusammenstellung Bestattungskosten alt - neu) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJeq3YKapYYbAk8unL3XO3Be1VwzoD2ddXVnNO-dV1h/Zusammenstellung_Bestattungskosten_alt_-_neu.pdf
+- Anlage: Beschluss-Vorlage (Gebührenkalkulation Friedhöfe Glashütten) https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQCP6Db3j9FtAlwIhyf7TrSQr7kf0CC0Aka017LZyLGG/Gebuehrenkalkulation_Friedhoefe_Glashuetten.pdf
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2385 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2402 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2387 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2404 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2388 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/meeting/2405 https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/organization/3-22
