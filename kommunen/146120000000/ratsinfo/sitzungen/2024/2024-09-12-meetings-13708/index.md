@@ -1,0 +1,64 @@
+# 2. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-09-12T16:00:00+02:00
+- Ende: 2024-09-12T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13708
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13708
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00773788.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Mitglieder des Stadtrates (1. Runde)
+- TOP 2.1: Finanzierung Verkehrsversuche
+- TOP 2.2: Masterplan Rinne
+- TOP 2.3: Freigabe Mittel Quartiersmanagement
+- TOP 2.4: Carolabrücke
+- TOP 2.5: Umsetzung von Stadtratsbeschlüssen zu Brücken
+- TOP 2.6: Doppelhaushalt 2025/26
+- TOP 2.7: Konzertgelände Rinne
+- TOP 2.8: Fristverlängerung für den Käufer des Sachsenbads
+- TOP 2.9: Kesselsdorfer Straße
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (2. Runde)
+- TOP 3.1: Umsetzung Toilettenkonzept
+- TOP 3.2: Digitalisierung der Wohngeldbeantragung
+- TOP 3.3: Höhergruppierung von Schulsachbearbeiterinnen und -Sachbearbeitern
+- TOP 3.4: Zustand wichtiger Brückenbauwerke in Dresden
+- TOP 3.5: Kürzungen im Bereich Soziales
+- TOP 3.6: Lautstärkebeschränkung von Demonstrationen
+- TOP 3.7: Wiederherstellung des tadellosen Rufs des Oberbürgermeister
+- TOP 3.8: Aus- und Nachwirkungen von Corona
+- TOP 3.9: Einsturz der Carolabrücke
+- TOP 4: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Loschwitz der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 8: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Zustimmung
+- TOP 9: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 11: Besetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) - gewählt
+- TOP 12: Besetzung des Kleingartenbeirates gemäß Paragraf 25 Absatz 7 Hauptsatzung der Landeshauptstadt Dresden - gewählt
+- TOP 13: Tagesordnungspunkte ohne Debatte
+- TOP 14: Inflationsausgleichszulage für Studierende der Landeshauptstadt Dresden an der Hochschule Meißen und an Berufsakademien - Zustimmung
+- TOP 15: Mehrbedarfe für Soziale Leistungen im Jahr 2024 - punktweise Abstimmung
+- TOP 16: Vorhabenbezogener Bebauungsplan Nr. 6024, Dresden-Neustadt, Albertstadt Ost/Jägerpark - Zustimmung
+- TOP 17: Neubenennung eines Platzes - Zustimmung
+- TOP 18: Neubenennung einer Straße - Zustimmung
+- TOP 19: Corona Impfschäden – Aufklärung, Aufarbeitung und Hilfe für Betroffene - Ablehnung
+- TOP 20: Neue Firmenansiedlungen im Dresdner Norden – gute Integration in Stadtteil und Verkehrsnetze sicherstellen - Zustimmung
+- TOP 21: Kulturentwicklungsplan 2020 umsetzen – Atelierräume für Künstlerinnen und Künstler in Dresden sichern - Vertagung durch Einreicher
+- TOP 22: Mehr Sicherheit, Ordnung und Sauberkeit in Dresden - Vertagung nach 22 Uhr
+- TOP 23: Möglichkeit zur Schaffung einer temporären Fußgängerzone auf der Augustusbrücke prüfen - mehr Verweilqualität und Komfort für Fußgänger und die kulturelle Nutzung schaffen - Vertagung durch Einreicher
+- TOP 24: Insourcing der Speisenversorgung am Städtischen Klinikum Dresden - zurückgestellt
+- TOP 25: Für Naherholung, Lebensqualität und Gesundheit: Erlebnisbad Elbamare erhalten. - Vertagung durch Einreicher
+- TOP 26: Sozialen Wohnungsbau in Dresden in Schwung bringen und Erwerb von Vonovia-Grundstücken für gemeinwohlorientierte Wohnformen nutzen! - Vertagung nach 22 Uhr
+- TOP 27: Sicheres Radfahren – Geschützte Radfahrstreifen für Dresden - Vertagung durch Einreicher
+- TOP 28: Interkulturelles Engagement würdigen – Dresdner Integrationspreis wiederbeleben - Vertagung nach 22 Uhr
+- TOP 29: Vorkaufsrechtssatzung für Kleingartenanlagen - Zustimmung
+- TOP 33: Haushaltsvollzug 2024 - Finanzzwischenbericht/Zwischenberichte der Eigenbetriebe 2024 - zur Kenntnis genommen
+- TOP 34: Information zu Konsequenzen des sog. Herrenberg-Urteils des Bundessozialgerichtes auf kommunale Kultureinrichtungen, insbesondere die Jugendkunstschule (JKS) Dresden - zur Kenntnis genommen
