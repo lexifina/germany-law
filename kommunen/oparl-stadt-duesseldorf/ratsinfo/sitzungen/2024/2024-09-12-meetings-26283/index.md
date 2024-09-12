@@ -1,0 +1,73 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-12T18:00:00+02:00
+- Ende: 2024-09-12T21:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26283
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26283
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö Stand 12.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529190.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö Stand 12.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529190.pdf
+- Wortprotokoll: Sitzungspaket Ö Stand 12.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529190.pdf
+
+## Tagesordnung
+
+- TOP 1: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner gemäß § 22 Geschäftsordnung des Rates für bis zum 29.08.2024 eingegangene Fragen
+- TOP 3: Anerkennung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift vom 13.06.2024 - einstimmig beschlossen
+- TOP 5: Kriminalitäts- und Unfallstatistik im Stadtbezirk 8 - Bericht
+- TOP 6: Heidelberger Straße 42a - Kiosk am Schlosspark Eller - Bericht
+- TOP 7: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Neubau einer Kindertageseinrichtung am Kuthsweg 43" - Empfehlung einstimmig beschlossen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterung der Kita Offenbacher Weg 43" - Empfehlung einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 11: Weiterentwicklung der Wochenendöffnungen von Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 12: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zurückgezogen
+- TOP 13: Zuschuss an den Düsseldorfer Sportverein 04 Lierenfeld e.V. - einstimmig beschlossen
+- TOP 14: Unterhaltung von Schulen im Stadtbezirk 8, Liste A - einstimmig beschlossen
+- TOP 15: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - beschlossen
+- TOP 16: Neubau GHS Vennhauser Allee (Anfrage SPD-Fraktion) - beantwortet
+- TOP 17: Beendigung der Sanierung des Mischwasserkanals auf der Amselstraße (Anfrage SPD-Fraktion) - beantwortet
+- TOP 18: Beleuchtung auf der Gubener Straße in Vennhausen (Anfrage SPD-Fraktion) - beantwortet
+- TOP 19: Baustellen im Stadtbezirk 8 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 20: Gelände Am Hackenbruch (Anfrage SPD-Fraktion) - beantwortet
+- TOP 21: Kanalbaumaßnahmen in Eller/Vennhausen (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 22: Jägerstraße / Cruthovener Straße (alte Tankstelle) (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 23: Baumaßnahmen GGS Gumbertstraße (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 24: Baumaßnahmen Alt-Eller (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 25: Nutzung von Supermarktparkplätzen für das Parken von Anwohnenden (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 26: Sanierung des kleinen Weges am Bahnübergang Eller Kamp zum Nachbarschaftspark Schlesische Straße (Antrag SPD-Fraktion) - vertagt
+- TOP 27: Umrüstung von Laternen auf LED in der Karl-Frech-Straße (Antrag SPD-Fraktion) - vertagt
+- TOP 28: Anwohnerparken Schlesische Straße (Antrag SPD-Fraktion) - vertagt
+- TOP 29: Roßbachstraße - Müllkörbe (Antrag SPD-Fraktion) - vertagt
+- TOP 30: Altpapiercontainer Dillenburger Weg und Darmstädter Straße (Antrag SPD-Fraktion) - vertagt
+- TOP 31: Einfassung von Baumscheiben (Antrag SPD-Fraktion) - vertagt
+- TOP 32: Abzug von zwei Altkleidercontainern in Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 33: Radverkehrsmaßnahmen bis Herbst 2025 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 34: Tempo-30-Zone Darmstädter Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 35: Krippstraße: Halbhüftiges Parken zwischen Minigolf-Platz und Ende Düssel-Brücke (FR West) (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 36: Querung Kreuzung Vennhauser Allee / In den Kötten (Antrag SPD-Fraktion) - vertagt
+- TOP 37: Markierung Fahrradbereiche vor Ampeln (Antrag SPD-Fraktion) - vertagt
+- TOP 38: Einmündungsbereich für Fahrradfahrer an der Weinheimer Straße (Antrag SPD-Fraktion) - vertagt
+- TOP 39: Zebrastreifen Alt-Eller (Antrag SPD-Fraktion) - vertagt
+- TOP 40: Hinweisschilder Eller Forst (Antrag SPD-Fraktion) - vertagt
+- TOP 41: Kinderspielplätze Coburger Weg und Dillenburger Weg – Sicherung zur Straße - vertagt
+- TOP 42: Einschränkung von Rettungswegen im Stadtbezirk 8 - vertagt
+- TOP 43: Kissinger Straße - Piktogramm - vertagt
+- TOP 44: Einhundert-Meter-Brücke - vertagt
+- TOP 45: Rothenbergstraße / Vennhauser Allee / Glashüttenstraße - vertagt
+- TOP 46: Baumfällungen im Stadtbezirk 8 - vertagt
+- TOP 47: Friedhof Eller - vertagt
+- TOP 48: Akustische Querungshilfen für Blinde und Sehbehinderte - vertagt
+- TOP 49: Optimierung der Schaltung von Bedarfsampeln - vertagt
+- TOP 50: Radverkehrssituation Kuthsweg - vertagt
+- TOP 51: Ehemalige Stadtsparkasse Lierenfeld - vertagt
+- TOP 52: Ludwigstraße und Kissinger Straße - vertagt
+- TOP 53: Spielanlagen für Jugendliche - vertagt
+- TOP 54: Weg am Friedhof Unterbach - vertagt
+- TOP 55: Sicherheit für Fahrradfahrer im Bereich Vennhauser Allee - vertagt
+- TOP 56: Markierungen Weinheimer Straße und Darmstädter Straße - vertagt
