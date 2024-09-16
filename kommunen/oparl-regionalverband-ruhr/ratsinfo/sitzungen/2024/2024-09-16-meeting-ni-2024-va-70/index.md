@@ -1,0 +1,86 @@
+# 15. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2024-09-16T10:00:00+02:00
+- Ende: 2024-09-16T10:50:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-70
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2024-VA-70
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Fortschreibung des Landesstraßenbedarfsplans Hier: Anmeldung von Maßnahmen zur fachlichen Bewertung
+- TOP 3.2: Fortschreibung des ÖPNV-Bedarfsplans Hier: Anmeldung von Maßnahmen zur fachlichen Bewertung
+- TOP 3.2.1: Fortschreibung des ÖPNV-Bedarfsplans Hier: Anmeldung von Maßnahmen zur fachlichen Bewertung
+- TOP 4: Vorlagen aus dem Planungsausschuss
+- TOP 5: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 6: Fraktionsanträge
+- TOP 7: Anfragen und Mitteilungen
+- TOP 7.1: Anfragen
+- TOP 7.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 8: Vorlagen aus dem Ausschuss für Wirtschaft und Beteiligungen
+- TOP 8.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2023
+- TOP 8.2: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Maximilianpark Hamm GmbH
+- TOP 8.4: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.5: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.6: Angelegenheiten der IGA Metropole Ruhr 2027 gGmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.7: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.8: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2023
+- TOP 8.9: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Seegesellschaft Haltern mbH
+- TOP 8.10: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 8.11: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 8.12: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Freizeitzentrum Xanten GmbH
+- TOP 8.13: Angelegenheiten der Umweltzentrum Westfalen GmbH - Aktualisierung der Nebenabrede für die Jahre 2025 und 2026
+- TOP 8.14: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2023 - Revierpark Gysenberg Herne GmbH
+- TOP 8.15: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2023
+- TOP 9: Vorlagen aus dem Planungsausschuss
+- TOP 10: Vorlagen aus dem Ausschuss für Mobilität
+- TOP 11: Vorlagen aus dem Ausschuss für Klima, Umwelt und Ressourceneffizienz
+- TOP 11.1: Regionales Handlungsprogramm Klimaanpassung des RVR
+- TOP 11.1.1: Regionales Handlungsprogramm Klimaanpassung des RVR
+- TOP 12: Vorlagen aus dem Ausschuss für Kultur, Sport und Vielfalt
+- TOP 13: Vorlagen aus dem Ausschuss für Digitalisierung, Bildung und Innovation
+- TOP 14: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 14.1: Abberufung der Betriebsleitung von RVR - Ruhr Grün
+- TOP 14.2: Neufassung der Betriebssatzung der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün
+- TOP 14.3: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2023. Beschluss über die Zuführung des Jahresüberschusses 2023 in die Ausgleichsrücklage. Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 15: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 16: Vorlagen ohne Fachausschussbeteiligung
+- TOP 16.1: Stelle des Beigeordneten des Bereiches II - Wirtschaftsführung -
+- TOP 16.2: Stelle der Beigeordneten des Bereiches IV - Umwelt und Grüne Infrastruktur -
+- TOP 16.3: Einbringung des Entwurfs zum Haushaltsplan 2025/2026
+- TOP 16.4: Herstellung des Benehmens mit den Mitgliedskörperschaften für die Haushaltsjahre 2025/2026
+- TOP 16.5: Einbringung des Entwurfs zur Fortschreibung des Haushaltskonsolidierungsplanes
+- TOP 16.6: Bericht zur Umsetzung des Haushaltskonsolidierungsplans zum 31.12.2023 und 30.05.2024
+- TOP 16.7: Bekanntgabe der in der Zeit vom 01.04. - 30.06.2024 für das Haushaltsjahr 2024 genehmigten Haushaltsüberschreitungen
+- TOP 16.8: Entwurf des Jahresabschlusses zum 31.12.2023 des Regionalverbandes Ruhr
+- TOP 16.9: Angelegenheiten der Freizeitgesellschaften - Vertretungsregelung für Mitglieder des RVR im Verwaltungsrat der Freizeitzentrum Xanten GmbH
+- TOP 16.10: Projekt- und Finanzberichtswesen zum 30.05.2024
+- TOP 16.11: Überplanmäßige Mittelbereitstellung für das Projekt "Wegebau/Wegeinstandsetzungen" (IRG-022 / KTR 0500037)
+- TOP 17: Fraktionsanträge/Resolutionen
+- TOP 18: Anfragen und Mitteilungen
+- TOP 18.1: Anfragen
+- TOP 18.1.1: Antwort auf die Anfrage der Fraktion Bündnis 90 / Die Grünen: Aktueller Sachstand Wischlingen
+- TOP 18.1.2: Grüne Infrastrukur - Folgekosten in den Revierparks
+- TOP 18.1.2.1: Antwort auf die Anfrage der CDU-Fraktion: Grüne Infrastrukur - Folgekosten in den Revierparks
+- TOP 18.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.2: nicht öffentlicher Tagesordnungspunkt
