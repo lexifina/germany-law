@@ -1,0 +1,73 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-16T17:00:00+02:00
+- Ende: 2024-09-16T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29682
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29682
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführung für den Ausschuss Allgemeine Verwaltung und Rechtsfragen/ Vergabe/ Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Mit den „Dnipro Days“ startet Köln in eine neue Städtepartnerschaft - Kenntnis genommen
+- TOP 3: Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend "Taxigewerbe als Teil des ÖPNV erhalten – Wie kann die Stadt Uber und Co. stärker kontrollieren?" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Taxigewerbe als Teil des ÖPNV erhalten - Wie kann die Stadt Uber und Co. stärker kontrollieren?" (AN/0940/2024) - Kenntnis genommen
+- TOP 3.2: Anfrage der Fraktionen CDU und Volt betreffend "Barrierefreie Toiletten am Neumarkt" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage "Barrierefreie Toiletten am Neumarkt" (AN/0943/2024) - Kenntnis genommen
+- TOP 3.3: Anfrage der SPD-Fraktion betreffend "Arbeitskräftemangel bei der Stadt: Aktuelle Personalsituation 2024" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion (AN/0680/2024) betreffend - Kenntnis genommen
+- TOP 3.4: Anfrage der Fraktion Bündnis 90/Die Grünen und Volt betreffend "Unfallprävention im Straßenverkehr" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage (AN/0944/2024) der Fraktionen Bündnis 90/Die Grünen und Volt betreffend "Unfallprävention im Straßenverkehr" - Kenntnis genommen
+- TOP 3.5: Anfrage der Fraktion Klima-Gut betreffend "Keine Vergabe von städtischen Räumlichkeiten für extremistische Zwecke" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Klima-Gut (AN/0946/2024) betreffend "Vergabe städtischer Räumlichkeiten für extremistische Zwecke" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Erfahrungsbericht Pilotprojekt Bodycams bei Kölner Verkehrs-Betrieben AG (KVB) - Kenntnis genommen
+- TOP 4.2: Erfahrungsbericht zur Pilotphase der Einführung der Bodycams im Ordnungsdienst - Kenntnis genommen
+- TOP 4.3: Ergebnis des Prüfauftrags zum Antrag der FDP-Fraktion betreffend „Schöner Heiraten in Köln“ (AN/2088/2023) - Kenntnis genommen
+- TOP 4.4: Bericht über Sponsoringleistungen an die Stadt Köln im Jahr 2023 Berichtszeitraum 01.01.2023 – 31.12.2023 - Kenntnis genommen
+- TOP 4.5: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 4.6: Mitteilung zur Bürgereingabe - Änderung §23 Hauptsatzung, Az.: 08/24 - Kenntnis genommen
+- TOP 4.7: Halbjahresbericht zur Zweckentfremdung von Wohnraum in Köln - Kenntnis genommen
+- TOP 4.8: Bilanz des Sportamtes zur UEFA EURO 2024 - Kenntnis genommen
+- TOP 4.9: Sechster Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.10: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 4.11: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 4.12: „Aktionstag Mobilität“ am 28. September 2024 - Kenntnis genommen
+- TOP 4.13: Aus der Sitzung des Hauptausschusses die Beantwortung einer schriftlichen Anfrage der SPD Fraktion vom 17.07.2024 (AN/1035/2024) betreffend "Kommerzielle Fitness- und Sportkurse auf Grünflächen und Parks" - Kenntnis genommen
+- TOP 4.14: Aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 25.04.2024 Beantwortung betreffend "Kontrolle der Mehrwegangebotspflicht" (AN/0628/2024) - Kenntnis genommen
+- TOP 4.15: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: August 2024 - Kenntnis genommen
+- TOP 4.16: Personalbericht 2023 - Kenntnis genommen
+- TOP 4.17: Klimaschutz-Monitoring - Kenntnis genommen
+- TOP 4.18: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - zurückgestellt
+- TOP 4.19: Aus der Sitzung des Gesundheitsausschusses vom 11.06.2024 eine Beantwortung zu einer schriftlichen Anfrage der Fraktion Volt zur „Förderung der Organspendeerklärungen im Rahmen von Behördengängen von Kölner*innen“ - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Illegaler Handel mit Behördenterminen für Einbürgerungsverfahren" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP Fraktion zu "Illegaler Handel mit Behördenterminen für Einbürgerungsverfahren" (AN/0793/2024) - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Unterstützung des Verkehrsdienstes durch DSGVO-konforme Kameraautos" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion und Volt-Fraktion zu "Unterstützung des Verkehrsdienstes durch DSGVO konforme Kameraautos" (AN/1039/2024) - Kenntnis genommen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage der SPD-Fraktion betreffend "weitere Planung zur Außengastronomie"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion betreffend "Mehr Inklusion bei der Stadtverwaltung Köln: Fünf Prozent der Neueinstellungen sollen Menschen mit Behinderung, Einschränkung oder Lernbeeinträchtigung sein" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und Volt betreffend "Mehr Inklusion bei der Stadtverwaltung Köln: Fünf Prozent der Neueinstellungen sollen Menschen mit Behinderung, Einschränkung oder Lernbeeinträchtigung sein" - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion betreffend "Prüfung einer Partnerschaft mit einer Stadt in Schottland" - endgültig abgelehnt
+- TOP 8.4: Antrag der Fraktion KLIMA GUT betreffend "Stadt Köln unterzeichnet Appell zur gesetzlichen Verankerung für nachhaltige Beschaffung" - endgültig abgelehnt
+- TOP 8.5: Antrag der Fraktionen SPD und FDP betreffend "Sport- und Fitnesskurse auf städtischen Grünflächen ermöglichen" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Beitritt zur "Cities Coalition for Digital Rights" - ungeändert beschlossen
+- TOP 10.2: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2023 - ungeändert beschlossen
+- TOP 10.3: Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz NRW 2024 - ungeändert beschlossen
+- TOP 10.4: Änderungsverordnung zum Kölner Taxitarif - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
