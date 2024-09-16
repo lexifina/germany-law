@@ -1,0 +1,76 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973685
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973685
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 22.07.2024
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Zweirichtungsradweg nördlich des Georg-Brauchle-Rings
+- TOP 2.2.: Gefährliche Stelle im Straßenverkehr in der Baubergerstr.
+- TOP 2.3.: Parksituation in der Dresdnerstr., Merseburgerstr. und der Unteren Krautstr.
+- TOP 2.4.: Fahrradwege an der Emmy-Noether-Grundschule: Antrag auf eine kindgerechte Regelung
+- TOP 2.5.: Verwildertes Grundstück in der Quedlinburger Str.
+- TOP 2.6.: Kunst an Abrissgebäuden in der Karlingerstr.: Anträge auf mehr Wertschätzung für Kunst am Bau - Antrag 1: Verzicht von Kunst an Abrissgebäuden - Antrag 2: Prüfen der Verwendung der bisherigen Gelder beim Bund der Steuerzahler - Antrag 3: Optimieren der Kunst am Bau durch künstlerische und gestalterische Aufwertung der aktuellen Neubauten (siehe Erläuterung)
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Triebstr. 48
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Bitte um Überprüfung des Bauvorhabens an der Pelkovenstr. 47
+- TOP 4.1.2.: Anfrage: Leerstand von städtischem Wohnraum
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Mitundo Kinderhäuser GmbH, Haus für Kinder „Inklusives Streetart- Projekt vom 19.08.2024 – 30.09.2024“ 1.875,00 € / AZ: 0262.0-10-0390
+- TOP 5.2.: (E) Stadtbezirksbudget Diakonie München-Moosach e.V. „Engagiert für Moosach vom 27.09.2024 – 05.12.2024“ 1.222,50 € / AZ: 0262.0-18-0388
+- TOP 5.3.: (E) Stadtbezirksbudget Moosacher Faschingsclub - München e.V. „Faschingssaison 2024/ 2025 vom 01.09.2024 – 31.03.2025“ 9.150,00 € / AZ: 0262.0-10-0391
+- TOP 5.4.: (E) Stadtbezirksbudget Init. Wolpertinger „The Wolpertinger Project (grande Finale) Oktober 2024“ 800,00 € / AZ: 0262.0-10-0393
+- TOP 5.5.: (E) Schaffung von Parkplätzen auf Gehweg der Sigmund-Schacky-Straße
+- TOP 5.6.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: hier: Antrag für den mobilen Kreislaufschrank "Rüdiger" am Bunzlauer Platz
+- TOP 6.: Anhörungen
+- TOP 6.1.: Bestellungen städtischer Leistungen durch die Bezirksausschüsse Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024
+- TOP 6.2.: Tempo 30 auf der Dachauer Str. aufgrund der stark frequentierten Schulwege
+- TOP 6.3.: Lärmaktionsplan für München - Runde 4 Beteiligung der Bezirksausschüsse - Stellungnahmeersuchen des RKU bis zum 30.09.2024 -
+- TOP 6.4.: BA-Anhörung: Beschlussentwurf zum Stadtratsantrag der Fraktion Die Grünen / Rosa Liste Nr. 20-26 / A 04064 vom 03.08.2023 und des Antrags Nr. 20-26 / B 02383 des Bezirksausschusses 18 Untergiesing-Harlaching vom 18.05.2021 (Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen) - Stellungnahmeersuchen des KVR mit Frist bis zum 26.09.2024 -
+- TOP 6.5.: Perspektive München Handlungsräume der Stadtentwicklung Sachstand und Weiterentwicklung
+- TOP 6.6.: Anhörung Veranstaltung auf öffentlichem Verkehrsgrund gemäß § 29 StVO, in städtischen Grünanlagen und auf Privatgrund hier: München Marathon (und div. Neben-Wettbewerbe) am 13.10.2024 im gesamten Münchner Stadtgebiet --> Antragsunterlagen via Download abrufbar - Stellungnahmeersuchen des KVR bis zum 26.09.2024 -
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Prüfung der Möglichkeit Bus-Wartehäuschen in Moosach zu begrünen (z.B. durch Versuch in der Hanauer Straße)
+- TOP 7.2.: Anfrage: Ampelanlage Dachauer Straße/ Pelkovenstraße - Zeiten Grünphasen
+- TOP 7.3.: Verbesserung der Ampelanlage bzw. Markierungen an der Kreuzung Feldmochinger Straße / Pelkovenstraße
+- TOP 7.4.: Bestellung einer städt. Leistung: Aufstellen eines Dialog-Displays am Standort Feldmochinger Str. 55-59
+- TOP 7.5.: Lösung für Müllsituation durch Hundekotbeutel am Spielplatz Simmerleinplatz
+- TOP 7.6.: Benenung aktueller Planungsstand bezüglich eines Radweges in der Pelkovenstraße
+- TOP 7.7.: Sperrung der Bahnunterführung Dachauer Straße
+- TOP 7.8.: Parksituation Borstei bei Veranstaltungen im Olympiapark
+- TOP 7.9.: Straßenverkehr in der Ehrenbreitsteiner Straße
+- TOP 7.10.: Absenkung der Geschwindigkeit auf Tempo 30 auch im Bereich der Gärtnerstraße östlich der Hanauer Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: EInrichtung eines absoluten Halteverbots in der Dresdner Str.
+- TOP 8.2.: Antwortschreiben des MOR zur Stellungnahme des BA 10: Mehrjahresinvestitionsprogramm 2024-2028 Anhörung der Bezirksausschüsse
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: Mobilitätsstrategie 2035 Nachbarschaftsviertel in München Produkt 43512300 Strategie, Bezirksmanagement und Produktentwicklung Beschluss über die Finanzierung für das Jahr 2024 aus der Nahmobilitätspauschale
+- TOP 8.5.: Filmstandort München stärken
+- TOP 8.6.: (U) Fahrradstraßen – Pilotrouten Ergebnisse der Evaluation der Pilotrouten und Empfehlung zum weiteren Vorgehen bezüglich Fahrradstraßen
+- TOP 8.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Irma-Wenke-Straße - nicht-öffentlich -
+- TOP 8.8.: Genehmigung Zweckentfremdung von Wohnraum: Bielefelder Str. - nicht-öffentlich -
+- TOP 8.9.: Modernisierungsmaßnahme im Erhaltungssatzungsgebiet Moosach: Ehrenbreitsteiner Str. - nicht-öffentlich -
+- TOP 8.10.: Realisierung eines Mobilfunkstandortes in der Postillonstr - nicht-öffentlich -
+- TOP 8.11.: Erweiterung eines Mobilfunkstandortes Gemarkung Moosach - nicht-öffentlich -
+- TOP 8.12.: Mobilfunksuchkreis in der Treitschkestr. - nicht-öffentlich -
