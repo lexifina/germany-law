@@ -1,0 +1,207 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7952497
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7952497
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 3.4.5.5.: Stellungnahme des Baureferats zum Thema Wiederöffnung des Hangwegs vom Biergarten Menterschwaige hinunter zur Isar
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Familienbaum e.V. "Erneuerung des Spielturms für Kinder vom 01.08.2024 – 30.09.2024“ 3.700,00 € / AZ: 0262.0-18-0
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Luma e.V. „Kulturprogramm Adventszeit Gans Woanders 2024 vom 23.11.2024 – 31.12.2024“ 6.615,00 € / AZ: 0262.0-18-0393
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: Bezirksausschüsse übernehmen Verantwortung – Haushaltslage ernst nehmen; Antrag FDP/Freie Wähler
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Evaluierung des Stadtbezirksbudgets - Abfrage der Erfahrungen aller Bezirksausschüsse
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für Budgetanträge im Stadtbezirk
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Eintrittspreise im Bad Giesing-Harlaching; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Flohmarkt des Kirschbaumkindergarten e.V. am 13.10.2024 am Hans-Mielich-Platz
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Sommerfest der Siedler - und Eigenheimervereinigung e.V. am Mangfallplatz am 26.07.2024 - Abdruck Bescheid und Gestattung
+- TOP 3.2.6.2.: Benefizlauf des Albert-Einstein Gymnasiums am 25.07.2024 von der Marienklause an der Isar entlang - Ausnahmegenehmigung
+- TOP 3.2.6.3.: Versammlungsanzeigen im Stadtbezirk
+- TOP 3.2.6.4.: Erste Giesinger Schachwanderung - Bestätigung des Gemeingebrauchs für den Hans-Mielich Platz, den Halt 58 und den Giesinger Bahnhof
+- TOP 3.2.6.5.: 1860-Fan-Treffen vor den jeweiligen Spielen am Candidplatz ab 08/2024 - Abdruck der Ausnahmegenehmigung
+- TOP 3.2.6.6.: Kinder-Ferienprogramme des Zirkus Simsala in der Oberbiberger Straße (Ecke Eichthalstraße) vom 11.08. - 24.08.2024 und gegenüber den Tennisplätzen vom 13.08. - 24.08.2024
+- TOP 3.2.6.7.: Anwohner-Straßenfest in der Aggensteinstraße am 14.09.2024 - Stellungnahme des BA 18 im Eilverfahren
+- TOP 3.2.6.8.: Temporäre Kunstaktion "Kreativmeile mit integrierter S-Bahn Installation", Giesinger Berg (Hebenstreitstr.an der ehem. Bushaltestelle Halt 58)
+- TOP 3.2.6.9.: Drehgenehmigungen im Stadtbezirk
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Straßenausbesserungsarbeiten zur Beseitigung der Schlaglöcher in der Geiselgasteig- und Reinekestraße
+- TOP 3.3.2.2.: (E) Erhöhung der Verkehrssicherheit für Fußgänger in der Oefelestraße
+- TOP 3.3.2.3.: (E) Erhöhung der Verkehrssicherheit für Fahrradfahrende in der Schyrenstraße
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Verkehrssituation am Tierparkberg und an der Thalkirchner Brücke; Bürgeranliegen
+- TOP 3.3.3.2.: Verkehrs- und Park Situation beim Bau der neuen Grundschule in Harlaching; Bürgeranliegen
+- TOP 3.3.3.3.: Erhöhung der Anzahl der Anwohnerparkplätze in Untergiesing; Bürgeranliegen
+- TOP 3.3.3.4.: Fuß- und Radübergang in der Karolingerallee; Bürgeranliegen
+- TOP 3.3.3.5.: Zebrastreifen vor dem Turnerbund München; Bürgeranliegen
+- TOP 3.3.3.6.: Stiftung einer E-Rikscha für Harlaching; Bürgeranliegen
+- TOP 3.3.3.7.: Sitzgelegenheit/Häuschen an der Haltestelle Menterschwaige; Bürgeranliegen
+- TOP 3.3.3.8.: Parken in Harlaching; Bürgeranliegen
+- TOP 3.3.3.9.: Vorschlag einer Bus-Linie von Neuperlach zum Klinikum Harlaching; Bürgeranliegen
+- TOP 3.3.3.10.: Neugestaltung des Algilolfingerplatzes mit Fuß- und Radwegen; Bürgeranliegen
+- TOP 3.3.3.11.: Regulierung des Verkehrs zur Luftreinhaltung auf dem Mittlerem Ring in Untergiesing; Bürgeranliegen
+- TOP 3.3.3.12.: Vollsperrung der Theodolindenstraße im Zuge des Neubaus der Grundschule Harlaching; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO für die Pilgersheimerstraße (Ecke Freibadstraße)
+- TOP 3.3.4.2.: Konzept für geteilte Mobilität im Stadtbezirk 18
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Unregelmäßigkeiten und Unzuverlässigkeit der MVG-Buslinie 52
+- TOP 3.3.5.2.: Teilstrategie geteilte Mobilität - Antwortschreiben des Mobilitätsreferats
+- TOP 3.3.5.3.: Erhöhung der Verkehrssicherheit vor dem Pflegeheim an den Isarauen
+- TOP 3.3.5.4.: Fahrradstraßen im Stadtbezirk 18
+- TOP 3.3.5.5.: "Wildes Camping" auf dem Parkplatz Harlachinger Straße
+- TOP 3.3.5.6.: Unfallauswertung für den Kreuzungsbereich Candidplatz
+- TOP 3.3.5.7.: Parkplatz-Situation Brennerpass-Straße/Veroneser Straße
+- TOP 3.3.5.8.: Parksituation in der Wilhelm-Kuhnert-Straße
+- TOP 3.3.5.9.: Radverkehrsführung in der Säbener Straße
+- TOP 3.3.5.10.: Markierung des Fahrradwegs an der Kreuzung beim 60er Stadion
+- TOP 3.3.5.11.: Zwischennachrichten der Referate zu Anträgen aus dem Bereich Mobilität
+- TOP 3.3.5.12.: Ausbau der Ladeinfrastruktur für E-Autos im Bezirk
+- TOP 3.3.5.13.: Lautsprecheranlage an der Tramhaltestelle Menterschwaige
+- TOP 3.3.5.14.: Häufigkeit der Buslinie 52 werktags
+- TOP 3.3.5.15.: Erhöhung der Verkehrssicherheit vor der Schule am Agilolfingerplatz
+- TOP 3.3.5.16.: Nachfrage zum Antrag Optimierung der Radwege
+- TOP 3.3.5.17.: Dichtere Taktung der Buslinie 139 während der Bauarbeiten der Tramlinie 25 ermöglichen
+- TOP 3.3.5.18.: Parkraumüberwachung Mangfallplatz
+- TOP 3.3.5.19.: Kontrastreiche Markierung der Straßenlaternen im Gehwegraum in der Pilgersheimer Straße
+- TOP 3.3.5.20.: Tramübergänge zwischen Wettersteinplatz und Isenschmidstraße sowie am Klinikum Harlaching dringend barrierefrei gestalten
+- TOP 3.3.5.21.: Ist es möglich, dass man das Parken in der Teutoburgerstraße für PKWs über 2,5 Tonnen verbietet?
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: St.-Magnus-Straße / Tiroler Platz, Ecke Grünwalder Straße; Nächtliche Asphaltarbeiten im Bereich der Fahrbahn und der Parkbucht vom 18.07.2024 bis 20.07.2024
+- TOP 3.3.6.2.: Umsetzung der verkehrsrechtlichen Anordnung (Beschilderung, Piktogramme) in der Candidstraße, Ecke Gerhardstraße
+- TOP 3.3.6.3.: Infoveranstaltung Fahrradstraßen am 12.09.2024 am Mangfallplatz - Eilentscheidung der BA-Vorsitzenden
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Mehr Mülleimer im Viertel
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Mähinseln im Landschaftsschutzgebiet Harlachinger Schlittenberg; Bürgeranliegen
+- TOP 3.4.3.2.: Bepflanzung am Hans-Mielich-Platz; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Ersatzstandort für die Wertstoffinsel in der Gerhardstraße
+- TOP 3.4.4.2.: Einrichtung einer Wertstoffinsel in der Algilolfingerstraße/Teutoburger Straße
+- TOP 3.4.4.3.: Lärmaktionsplan für München - Runde 4
+- TOP 3.4.4.4.: Baumfällungen (Anhörungen): - Agilofingerstr. 10 - Athener Str. 18 - Haselburgstr. 8 - Hochederstr. 3b - Füllstr. 1 - Konradinstr. 7 - Reichenhaller Str. 25 - Theodolindenstr. 7
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Hintergrundinformationen zur Baumfällung in der Gabriel-Max-Str. 18
+- TOP 3.4.5.2.: Zwischennachrichten der Referate zu Anträgen aus dem Bereich Umwelt
+- TOP 3.4.5.3.: Wann werden die gesperrten Wege an der Isar-Hochuferseite wieder geöffnet?
+- TOP 3.4.5.4.: Schnellstmögliche Aufstellung einer sogenannten „Infotafel Eiszeitlicher Hang Harlaching“
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Traminer Str. 16
+- TOP 3.4.6.2.: Baumfällung in der Grünwalder Str. 14a-d
+- TOP 3.4.6.3.: Baumfällung in der Wunderhornstr. 8
+- TOP 3.4.6.4.: Baumfällung in der Aretinstr. 8
+- TOP 3.4.6.5.: Baumfällung in der Lautererstr. 6
+- TOP 3.4.6.6.: Baumfällung in der Elilandstr. 7
+- TOP 3.4.6.7.: Regionaler Planungsverband München; Ausweisung von Vorranggebieten für Windenergie; Information zum Sachstand und weiteres Vorgehen
+- TOP 3.4.6.8.: Baumfällungen (Stellungnahmen des BA 18 im Eilverfahren): - Latemarstr. 5 - Mailänder Str. 6 - Menterschwaigstr. 18 - Noldinstr. 8 - Reinekestr. 26b - Schlierachstr. 6 - Stresemannstr. 1 - Tegernseer Landstr. 164 - Thelemannstr. 14 - Tierparkstr. 30 - Waldeckstr. 40 - Willroiderstr. 11
+- TOP 3.4.6.9.: Baumfällung in der Agatharieder Str. 16
+- TOP 3.4.6.10.: Baumfällung in der Schlierachstr. 6
+- TOP 3.4.6.11.: Baumfällung in der Theodolindenstr. 7
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Neuantrag für eine Freischankfläche in der Humboldtstraße 42
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Ausnahmegenehmigung nach Sondernutzungsrichtlinien - Pilotphase für Foodtrucks auf dezentralen, öffentlichen Plätzen
+- TOP 3.5.4.2.: Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige, stadtweites Verfahren - Beschlussentwurf
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Zwischennachrichten der Referate zu Anträgen und Anfragen aus dem Bereich Soziales
+- TOP 3.5.5.2.: Das Direktorium als neues Betreuungsreferat für den Seniorenbeirat
+- TOP 3.5.5.3.: Inwieweit ist soziale Teilhabe noch ohne Smartphone möglich?
+- TOP 3.5.5.4.: Instandsetzung des bestehenden Tastgartens für Menschen mit Sehbehinderungen im Rosengarten
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Ergänzte Beschlussvorlage: Schul- und Kitabauoffensive – Sachstandsbericht 2024; Umsetzungskonzept zur Reduzierung der investiven Ansätze in den Jahren 2025 - 2027 im Mehrjahresinvestitionsprogramm 2024 - 2028 Teilhaushalt des Referates für Bildung und Sport
+- TOP 3.5.6.2.: Information über die Sperrung eines Spielgerätes auf dem Spielplatz Klausener Platz (Bad-Wiessee-Str.) ab dem 19.08.24
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.3.1.: Bauvorhaben in der Winterstraße respektive Baumschutz; Bürgeranliegen
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Grünwalder Straße 248a: Neubau eines Mehrfamilienhauses mit 3 Wohneinheiten mit einer Garage sowie einer Duplexgarage
+- TOP 3.6.4.1.2.: Reinekestraße 28: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.1.3.: Harthauser Str. 62: Änderungsantrag zum Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage
+- TOP 3.6.4.1.4.: Stresemannstr. 1: Umbau eines bestehenden Mehrfamilienhauses und Dachsanierung mit Errichtung von 4 Gauben Umnutzung der Ladenfläche in 2 Wohneinheiten, Anbau von 2 Balkonen, Abbruch der bestehenden Doppelgarage und Errichtung eines Multiparksystems für 4 Stellplätze und 3 Stellplätze auf dem Grundstück
+- TOP 3.6.4.1.5.: Holzkirchner Str. 3: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.4.1.6.: Sommerstr. 54: Umbau und Sanierung eines denkmalgeschützten Vordergebäudes zu einer Wohneinheit mit neuer Unterkellerung, Veränderung der Fassaden nach historischen Vorbild sowie Ausbau eines Dachspeichers und Grundrissänderungen im Erdgeschoss und Obergeschoss
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Grunddienstbarkeiten bei Baugenehmigungen berücksichtigen
+- TOP 3.6.5.2.: Dauer der Beantwortung der Anträge zum Candid-Tor
+- TOP 3.6.5.3.: Baustelle in der Harthauser Straße 62: Bericht der Polizei zur Verkehrssituation
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Bebauungsplanverfahren der Gemeinde Pullach im Rahmen der frühzeitigen Beteiligung nach §4.1 BauGB - Eilentscheidung der BA-Vorsitzenden
+- TOP 3.6.6.2.: Autharistr. 6 - Neubau eines Doppelhauses mit zwei Garagen (Stellungnahme des BA 18 im Eilverfahren)
+- TOP 3.6.6.3.: Perspektive München - Handlungsräume der Stadtentwicklung Sitzungsvorlage Nr. 20-26 / V 12346
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: Terminabfrage zu Hybridsitzungen im Kalenderjahr 2025
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Informationsschreiben BA: Anhörungsrechte der Bezirksausschüsse nach 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.3.13.: Barrierefreier Zugang zur Ladenzeile am Mangfallplatz; Grünen-Antrag
