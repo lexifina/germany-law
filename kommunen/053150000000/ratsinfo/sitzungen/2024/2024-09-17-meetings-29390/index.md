@@ -1,0 +1,99 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-17T17:02:00+02:00
+- Ende: 2024-09-17T18:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29390
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29390
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Sachstand Porz Mitte
+- TOP -: B Sachstand Schulbau in Porz
+- TOP 1: Einwohner*innen Anfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO– „Verkehrssituation Sandbergstraße, Köln-Porz“ Aktenzeichen 90/24 B - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Genehmigung einer Dringlichkeitsentscheidung: Planungsaufnahme und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und eines Modulbaus für eine Einfachturnhalle für das Maximilian-Kolbe-Gymnasium - ungeändert beschlossen
+- TOP 6.2: Errichtung einer interimsmäßigen Kaltlufthalle für das Maximilian-Kolbe Gymnasium, Nachtigallenstr. 19-21, 51147 Köln - ungeändert beschlossen
+- TOP 6.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte, hier: Ernennung von Mitgliedern des Beirates Porz Mitte - ungeändert beschlossen
+- TOP 6.4: ISEK Porz-Mitte - Umgestaltung Rheinboulevard Porz - ungeändert beschlossen
+- TOP 6.5: Genehmigung einer Dringlichkeitsentscheidung: Neue Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) für den Zeitraum 01.10.2024 bis 28.02.2025 - ungeändert beschlossen
+- TOP 6.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 6.7: Projektanträge im Rahmen des Bürgerorientierten Verfügungsfonds für das Soziale-Stadt-Gebiet „Porz-Mitte“ - ungeändert beschlossen
+- TOP 6.8: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlung des Beirates Porz Mitte vom 18.04.2024 zu TOP 5.5 Schulareal" - endgültig abgelehnt
+- TOP 6.9: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlung des Beirates Porz Mitte vom 18.04.2024 zu TOP 5.8 Neugestaltung der Hauptstraße" - endgültig abgelehnt
+- TOP 6.10: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlung des Beirates Porz Mitte vom 18.04.2024 zu TOP 5.6 Sachstand ehem. Busbahnhof" - endgültig abgelehnt
+- TOP 6.11: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP 6.12: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlung des Beirates Porz Mitte vom 18.04.2024 zu TOP 5.1 Klima" - endgültig abgelehnt
+- TOP 6.13: Integriertes Stadtentwicklungskonzept Porz-Mitte - endgültig abgelehnt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlung des Beirates Porz Mitte vom 18.04.2024 zu TOP 5.2 Stadtmarketing" - endgültig abgelehnt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Beschlussvorlage 0609/2024 MIV-Grundnetz" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen "MIV Grundnetz, DRS 0609/2024" - ungeändert beschlossen
+- TOP 7.2: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 7.3: Beauftragung der Kölner Schulbaugesellschaft mbH mit der Suche eines Investors oder einer Investorin mit Grundstück als Interim für den Ersatz für das bestehende Berufskolleg Porz, Hauptstraße 426, 51143 Köln - endgültig zurückgezogen
+- TOP 7.4: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 7.5: Nutzungs- und Entgeltordnung für die Nutzung von Schulraum für nichtschulische Zwecke einschließlich der Allgemeinen Nutzungsbedingungen - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Zwischenwerk IXa in Westhoven sichern" - endgültig zurückgezogen
+- TOP 8.2: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Errichtung eines Baumwipfelpfades im Erholungsgebiet Leidenhausen" - endgültig zurückgezogen
+- TOP 8.3: Antrag der SPD-Fraktion "Open Air Location Südbrücke in Poll" - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen "Schranke an der Zufahrtstraße zum Gut Leidenhausen" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion "Schranke an der Zufahrtstraße zum Gut Leidenhausen" - endgültig abgelehnt
+- TOP 8.5: Antrag der SPD-Fraktion "Mitteilung 2116/2024, Einstellung On-Demand-Angebot Isi in Porz" - endgültig abgelehnt
+- TOP 8.6: Antrag der SPD-Fraktion "Einfahrt von zu großen LKW in die Heumarer Str. bei unübersichtlicher Beschilderung und fehlenden Wendemöglichkeiten" - endgültig abgelehnt
+- TOP 8.7: Antrag der SPD-Fraktion "Erläuterung zur Einführung von reduzierten Geschwindigkeiten" - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion "Vorgehen der GAG mit dem „Sonnenhaus“ in Porz" - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion "Barrierefreie Fahrbahn-Überquerungsstellen für Fußgänger im Kreuzungsbereich Bielefelder Str. und Altenberger Str." - endgültig abgelehnt
+- TOP 8.10: Antrag der SPD-Fraktion "Hansestraße" - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 07.06.2021 (AN/1362/2021) betreffend Sachstand zur Umsetzung des Beschlusses AN/0382/2021 vom 04.03.2021 - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Sachstand zur Umsetzung des Beschlusses AN/0382/2021 vom 04.03.2021" - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der Fraktion DIE LINKE/Die PARTEI in der Bezirksvertretung Porz aus der Sitzung vom 02.09.2021 (AN/1639/2021) betreffend "Barrierefreie Nachrüstung von Treppen und Rampen zum Leinpfad im Bezirk Porz" - Kenntnis genommen
+- TOP -: Anfrage der Fraktion DIE LINKE/Die PARTEI "Barrierefreie Nachrüstung von Treppen und Rampen zum Leinpfad im Bezirk Porz" - Sache ist erledigt
+- TOP 9.1.3: Spielplatz An den Maien, Köln-Poll - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen "Nutzung Parkplätze in Finkenberg" - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion "Platzausbau Forensik Porz" - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Abriss des Brückenbauwerks Gilgaustraße" - zurückgestellt
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Lärm- und Sicherheitsprobleme durch die Raser- und Poserszene an der Alfred-Schütte-Allee sowie die verkehrliche Belastung durch Veranstaltungenauf dem Festivalgelände" - zurückgestellt
+- TOP 9.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen "AN 0920/2024 alternierendes Parken auf der Lülsdorfer Str" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Porz am 17.09.2024 (AN/1230/2024) betreffend "alternierendes Parken auf der Lülsdorfer Str." - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - Kenntnis genommen
+- TOP 10.2.2: (Neu-)Aufstellung der verkehrlichen Bedarfspläne des Landes NRW - Kenntnis genommen
+- TOP 10.2.3: Stellungnahme zum Antrag AN/0782/2024 Antrag JBV "Tauschbox in Porz Mitte" - Kenntnis genommen
+- TOP 10.2.4: Status quo- und Chancen- & Mängel-Analyse "Besser durch Köln. Der nachhaltige Mobilitätsplan" - Kenntnis genommen
+- TOP 10.2.5: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 10.2.6: Unfallhäufungsstellen des Jahres 2022 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.7: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 10.2.8: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 10.2.9: Grundwasserproblematik in Köln-Lind (AN/0994/2024) - Kenntnis genommen
+- TOP 10.2.10: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch des Bebauungsplan-Entwurfes 76380/03, Blatt 3, Arbeitstitel: Südlich Friedensstraße - Ostteil in Köln-Porz-Elsdorf - Kenntnis genommen
+- TOP 10.2.11: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.12: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 10.2.13: Ämterübergreifende Zusammenarbeit bei Projekten im öffentlichen Raum - Stadtplanungsamt (61) und Amt für Straßen und Radwegebau (66) - Kenntnis genommen
+- TOP 10.2.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrsführung Heumarer Mauspfad, Az. 87/24 - Kenntnis genommen
+- TOP 10.2.15: Machbarkeitsstudie zur Kölner Südbahn S16 - Kenntnis genommen
+- TOP 10.2.16: Niederschrift 20. Runder Tisch Radverkehr Porz - Kenntnis genommen
+- TOP 10.2.17: Verunreinigungen durch "wilde Müll" im Leonorenweg stoppen - Kenntnis genommen
+- TOP 10.2.18: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 10.2.19: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 10.2.20: Grundwasserproblematik in Porz-Lind (AN/1037/2024) - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
