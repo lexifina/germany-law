@@ -1,0 +1,79 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-17T14:05:00+02:00
+- Ende: 2024-09-17T16:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29683
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29683
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2024/25 - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Ergänzender Beschluss zur Kostenanpassung - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitgliederwechsel im Jugendhilfeausschuss: Caritasverband für die Stadt Köln e.V., Computerprojekt Köln e.V., Lobby für Mädchen - Mädchenhaus Köln e.V. - ungeändert beschlossen
+- TOP 4.2: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2024/2025 und Ausblick auf den Rechtsanspruch ab dem Schuljahr 2026/2027 - geändert beschlossen
+- TOP 4.3: Haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs.1 Nr.2 KomHVO i.V.m. §12 der Haushaltssatzung 2023/2024 Jugendzentrum "Alte Schule Widdersdorf" - Erneuerung des Bewegungsraum Pavillon - ungeändert beschlossen
+- TOP 4.4: Anpassung Verpflegungspauschale für die Mahlzeiten in städtischen Kindertageseinrichtungen einschließlich Neufassung des Betreuungsvertrages und Konzipierung einer Entgeltordnung - ohne Votum in nachfolgende Gremien
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Sachstand Einrichtung eines Fachbeirats für Mädchenarbeit - Kenntnis genommen
+- TOP -: Sachstand Einrichtung eines Fachbeirates für Mädchenarbeit - Kenntnis genommen
+- TOP 6.1.2: Kita-Platzvergabe über das Vergabe- und Verwaltungsportal Little-Bird - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion AN/0950/2024 aus der Sitzung des JHA vom 18.06.24 zu Kitaplatz-Vergabe über Little Bird - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sachstand zu den angekündigten Handreichungen für die freien Träger im Rahmen der vorläufigen Haushaltsführung - zurückgestellt
+- TOP 6.2.2: Anfrage Suizidprävention - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Beantwortung einer mündlichen Nachfrage von Faru Schmerbach (SPD-Fraktion) im Jugendhilfeausschuss am 30.01.2024 zur Vorlage 3338/2023 "Bildungsmonitoring: Inklusionsentwicklung an Kölner Schulen" - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Beantwortung der mündlichen Anfragen aus der JHA-Sitzung vom 18.06.2024 zu Vorlage 1401/2024 "Kriminalitätsbericht 2023" - Kenntnis genommen
+- TOP 7.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Weiteres Vorgehen Kita Pfälzer Straße - Innenstadt - Kenntnis genommen
+- TOP 8.2.2: plusKITA-Einrichtungen nach §§ 44 und 45 KiBiz - Halbjährliche Mitteilung - Kenntnis genommen
+- TOP 8.2.3: Trägerwechsel von 3 Kindertageseinrichtungen auf PME Familienservice gGmbH - Kenntnis genommen
+- TOP 8.2.4: Elternbrief des Amtes für Kinder, Jugend und Familie an alle Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.5: Evaluation zum Thema Mehrsprachigkeit in städtischen Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.6: Sachstandsbericht zur Umsetzung der in Vorlage 2882/2023 beschlossenen Lösungsansätze zur Verbesserung der Personalsituation in der Kindertagesbetreuung - zurückgestellt
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2024 - Kenntnis genommen
+- TOP 8.3.2: Jahresbericht 2023 Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Halbzeitbericht zum „Aktionsplan kinder- und jugendfreundliches Köln 2022-2025“ - Kenntnis genommen
+- TOP 8.4.2: Zwischenstand zum bezirklichen Kinder- und Jugendbeteiligungsformat Veedels-Check unter dem Titel: „HEY Nippes- Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 8.4.3: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 8.4.4: Update aus dem Kooperativen Kinder- und Jugendbüro: Rückblick 1. Halbjahr 2024 und Ausblick 2. Halbjahr 2024 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Stärkungspakt NRW - vorläufiger Schlussbericht zum 30.06.2024 - Kenntnis genommen
+- TOP 8.5.2: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - Kenntnis genommen
+- TOP 8.5.3: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 8.5.4: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - Kenntnis genommen
+- TOP 8.5.5: Else-Falk-Preisverleihung am 23.05.2024 im Rathaus - Kenntnis genommen
+- TOP 8.5.6: Bericht der Behindertenbeauftragten der Stadt Köln - 02/2024 - Kenntnis genommen
+- TOP 8.5.7: LSBTI-Aktionsplan: zweite Zwischenbilanz - Kenntnis genommen
+- TOP 8.5.8: VHS erhält Projektzusage im Rahmen des ESF-Bundesprogramms „Akti(F) Plus“ - Kenntnis genommen
+- TOP 8.5.9: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.10: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - Kenntnis genommen
