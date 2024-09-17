@@ -1,0 +1,22 @@
+# Stadtteilperspektive Zukunft Forst
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/1019/WP18
+- Art: Entscheidungsvorlage
+- Datum: 2024-09-17
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=1000111
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=1000111
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1001787&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000030 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000032 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000031 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000038 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=90
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000041 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000040 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=16
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000041 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=107
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000044 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000047 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1000055 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=31
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1000056 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=12, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=17, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=31, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=32, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=76, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=6, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=1000006, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=5
