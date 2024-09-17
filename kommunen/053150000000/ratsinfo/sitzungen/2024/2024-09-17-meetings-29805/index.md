@@ -1,0 +1,62 @@
+# 26. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-17T17:52:00+02:00
+- Ende: 2024-09-17T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29805
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29805
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Literatur - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der SPD-Fraktion: Portal zur Antragstellung für Kulturförderung mehrsprachig gestalten - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Umsetzung von Maßnahmen der Kulturentwicklungsplanung: In Vielfalt durch Vielfalt - Nachhaltige Strukturentwicklung in den städtischen Kulturinstitutionen - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Betriebskostenzuschuss für ON – Neue Musik e.V. sowie Finanzierung der Lagerung des Studio für elektronische Musik des WDR im Jahr 2024 - zurückgestellt
+- TOP 4.3: Neuverteilung der Mittel aus "ehemals Volkhovener Weg - Konzeptvergabe" - ungeändert beschlossen
+- TOP 4.4: Mittelerhöhung bei Landesförderprogrammen NRW "Kulturrucksack" und "Kulturstrolche" - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung Amelie von Wulffen "Untitled (Sunset/Fax Machine/Schiele)" - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Renovierungsprogramm für die städtischen Museen im Jahr 2024 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Absage zur Bewerbung der Stadt Köln als Austragungsort der Tanztriennale 2026 - Kenntnis genommen
+- TOP 8.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Schaffung eines Zugangs zum Römischen Hafentor am Kurt-Hackenberg-Platz Aktenzeichen 136/23 - Kenntnis genommen
+- TOP 8.3: Sukzessiver Ausstieg aus dem Belegrecht im Quartier am Hafen - Kenntnis genommen
+- TOP 8.4: Sonderausstellung des Museums für Angewandte Kunst zu Ehren des bedeutenden Stifters, Dr. Richard G. Winkler - Kenntnis genommen
+- TOP 8.5: Kulturbaumaßnahmenliste - Kenntnis genommen
+- TOP 8.6: Sachstandsbericht Kulturraummanagement (KRM) - 04/2024 - Kenntnis genommen
+- TOP 8.7: Sonderausstellungsprogramm des Kölnischen Stadtmuseums (KSM), hier: Ankündigung einer Session in der Open-Space-Area zum Thema "Sammel-Leidenschaft – Wallraf für Köln" - Kenntnis genommen
+- TOP 8.8: Bericht kommunaler Fonds Kulturelle Bildung 2022-2024 - Kenntnis genommen
+- TOP 8.9: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Mitteilung über die Kostenfortschreibung gemäß § 25 Absatz 1 Nummer 2 der Kommunalen Haushaltsverordnung (KomHVO) in Verbindung mit § 12 der Haushaltssatzung der Stadt Köln - Kenntnis genommen
+- TOP 8.10: Klimataler-App - Kenntnis genommen
+- TOP 8.11: KölnMusik GmbH - Besucherstatistik der Kölner Philharmonie für den Zeitraum 01.01.-30.06.2024 - Kenntnis genommen
+- TOP 8.12: Tag des offenen Denkmals 2024 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand August 2024 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 21. August 2024 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 29. August 2024 - Kenntnis genommen
+- TOP 9.4: Sachstand Hallen Kalk - Teilprojekt Osthof - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses Kunst und Kultur vom 12.03.2024 betr. Sachstandsbericht Skulptur "Standortmitte" von Lutz Fritsch - Kenntnis genommen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Beantwortung von mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses Kunst und Kultur vom 18.06.2024 betreffend "Sonderausstellungen der städtischen Museen für 2024" - Kenntnis genommen
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung des Ausschusses für Kunst und Kultur vom 18.06.2024 betreffend "Organigramm Dezernat VII" - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Anfrage der Fraktion Die Linke im Aussschuss Kunst und Kultur am 18.06.2024 zum Maßnahmenkatalog des Expertengremiums zum Umgang mit dem "Postkolonialen Erbes der Stadt Köln" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der Fraktionen Bündnis90/Die Grünen und Volt: Ausschreibung geschäftsführende Direktion MOK und RJM - Kenntnis genommen
+- TOP 11.2: Schriftliche Anfrage der Fraktion Bündnis90/Die Grünen: Klimaneutralität im Kulturbereich - Kenntnis genommen
+- TOP 11.3: Schriftliche Anfrage der Fraktion Volt: Übersicht Förderprogramme im Kulturbereich - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Mündliche Anfrage der Fraktion Bündnis90/Die Grünen, Frau von Bülow: Kulturfördermöglichkeiten durch die EU
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
