@@ -1,0 +1,129 @@
+# 25. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2024-09-18T17:30:00+02:00
+- Ende: 2024-09-18T21:55:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7872
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=7872
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=313718
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.1.1: Nachwahl von Beisitzende für die Dauer der Sitzung nach § 14 (2) GO - gewählt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Neue Parkordnung Mauerpark - vertagt
+- TOP 1.4.2: Mauerpark an Grün Berlin – Nur mit Zustimmung der BVV - vertagt
+- TOP 1.4.3: Ersatzneubau MAXIM sichern! - vertagt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Geplante Baumfällarbeiten zur Baugrundvorbereitung in der Ossietzkystraße/Kavalierstraße - beantwortet
+- TOP 1.5.2: Hilfe statt Verdrängung – Perspektiven für wohnungslose Menschen in Pankow - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachweis der im Haushaltsjahr 2023 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen (VE) - überwiesen
+- TOP 1.9: Besetzung von Ausschüssen durch Bürgerdeputierte und deren Stellvertreter auf Vorschlag der AfD-Fraktion - in der BVV abgelehnt
+- TOP 1.10: Nachwahl von zwei Mitgliedern des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.11: Nachwahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Soziales, Senior*innen und Gesundheit für die Fraktion Bündnis 90/ Die Grünen - gewählt
+- TOP 1.12: Pankow soll Modellregion für Cannabis-Legalisierung werden - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bei der Umsetzung der Mehrwegsangebotspflicht unterstützen – kleine Betriebe in Pankow erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Panke-Radweg fit für den Sommer machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Modellprojekt zur Förderung des Fußverkehrs in Pankow – mit dem Tiroler Viertel fangen wir an - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Kiezblock Light für eine rasche und flächendeckende Verkehrsberuhigung - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: S-Bahnhof Schönerlinder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Straßenbahn zur Alten Schäferei - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Verkehrssicherheit auf der Brücke der Bucher Straße in Richtung Französisch Buchholz erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Verkehrsberuhigung und Schulwegsicherheit in der Straße 42 zwischen der Straße 52 und der Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Sichere Überquerung der Hauptstraße vor der Kinderfreizeitstätte Landhaus Rosenthal - zurückgezogen
+- TOP 1.22: Hinterlandsmauer im Mauerpark für Graffitikunst offenhalten - überwiesen
+- TOP 1.23: Endlich Barrierefreiheit für die Seniorenstiftung in der Stavanger Straße! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: „Lerne wie, rette Leben": Schulung zum Thema Wiederbelebung bekannt machen - in der BVV abgelehnt
+- TOP 1.25: Abreißzettel „Hilfetelefon Gewalt gegen Frauen“ in Toiletten in bezirklichen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Fahrradfahren auf Wilhelmsruher Nebenstraßen ermöglichen: Pilotstrecke in der Schillerstraße - in der BVV abgelehnt
+- TOP 1.27: Allen Kindern ein selbstbestimmtes Leben ermöglichen - Keine Kürzungen bei den Hilfen zur Erziehung! - überwiesen
+- TOP 1.28: Veranstaltungsräume für die bezirklichen Konferenzen wie z. B. die Kinderschutzkonferenz - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Projekt „Baum sucht Grundstück zum Altwerden“ in Pankow - überwiesen
+- TOP 1.30: Ermäßigungen und Hilfen beim Musikschulangebot transparent machen - überwiesen
+- TOP 1.31: Gelder für neue Trinkwasserbrunnen in Pankow - überwiesen
+- TOP 1.32: Spenden für die Musikschule erleichtern - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: vertagte Drucksachen 24. BVV - (offen)
+- TOP 2.1.1: Pankow ermöglicht Parklets für die Pankower Zivilgesellschaft - vertagt
+- TOP 2.1.2: Familienfreundliche BVV ermöglichen! - vertagt
+- TOP 2.1.3: Maßnahmen zur Reduzierung des Haushaltsdefizits im Bezirksamt Pankow - vertagt
+- TOP 2.2: Verkehrssicherheit im Thule-Viertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Errichtung von Velorouten in der Bötzowstraße und Hufelandstraße - vertagt
+- TOP 2.4: Kultur inklusiv machen - Inklusionsplan für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Konzept für die Einrichtung eines Gedenk - und Informationsortes auf dem Bezirksamtsgelände (Kellerräume Haus 3) - vertagt
+- TOP 2.6: Wegweiser einrichten und Pankows Städtepartnerschaften bekannter machen - vertagt
+- TOP 2.7: Negative Auswirkungen der Baumaßnahmen in der Anton-Saefkow-Siedlung reduzieren! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Parken auf Rad- und Gehweg am Rathaus-Center (Breite Straße) wirksam unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Berufung einer/s Beauftragten für „Gute Arbeit“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Durchgangsverkehre in der Siedlung vor Schönholz (Stegesiedlung) reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Zertifizierung als „Fahrradfreundlicher Arbeitgeber“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Rahmenplan für Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Machbarkeitsstudie für die Klimastraße Hagenauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: »Ball der Vielfalt« nach der Pandemie weiterführen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Kostenlose Bereitstellung von Menstruationsartikeln in Behörden, Schulen und öffentlichen Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Digitale Spendensäule für Pankow - vertagt
+- TOP 2.17: Zufluchtswohnungen in Pankow – Mehr Schutzplätze für Frauen schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Free Open Air Spaces – Pilotprojekt verstetigen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Sportplatz- und Hallenzeiten online einsehen und buchen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Erfolgreiches Berichtswesen zu Schulbauoffensive, Schulentwicklungsplanung und Sportentwicklungsplanung fortsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Kurzfristige Maßnahmen in der Wackenbergstraße endlich umsetzen! - vertagt
+- TOP 2.22: Orientierung für Menschen mit Sehbehinderungen im Bezirksamt verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Lesbare Schilder im Thälmannpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Schulentwicklung in räumlichen Grenzen – Ermöglichungskultur entwickeln - vertagt
+- TOP 2.25: Grundstücksspekulation zulasten der Berliner zukünftig verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Erinnern an den Aufstand am 17. Juni! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Sichtbarkeit der Vielfalt in der Öffentlichkeitsarbeit des Bezirksamtes ausbauen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Köpfchen statt Kohle (und Gas!) – die Zweite - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Mehr Sicherheit an der Kreuzung Karower Chaussee und Robert-Rössle-Straße/Wolfgang-Heinz-Straße II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Einführung und Nutzung des DiFü (DsiN-Digitalführerschein) für alle Beschäftigten des Bezirksamtes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Ortsteil-Gemeinschaftshaus für Rosenthal - Fläche gesucht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Konzept des Peter-Panther Sportparks umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Gedenken an die „Aktion wider den undeutschen Geist“ und Bücherverbrennungen 1933 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Freie Fahrt für die Freiwillige Feuerwehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Demokratie stärken: Pankow lädt zum Planspiel Kommunalpolitik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Oberschule auf der Elisabethaue - BVV-Beschluss ernst nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Information zur Nutzungsmöglichkeit der Tools für den DiFü DsiN-Digitalführerschein an alle freien Träger des Bezirksamtes Pankow weiterleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Gleisbette der Straßenbahnen an Weißenseer Haltestellen vor Autos besser schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.39: Bedarfsermittlung von Schulplätzen für autistische Kinder - Kleinklassen Autismus in Pankow ermöglichen - vertagt
+- TOP 2.40: Schulaußenfläche der Tesla-Schule schnellstmöglich aufwerten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Kulturorte für Menschen mit Migrationsgeschichte - Vielfalt in Pankow fördern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Mehr Schutzplätze für Frauen und Kinder - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.43: Grüne Stadt für Menschen statt Durchgangsverkehr - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.44: Barrierefreie Räume für den Teilhabefachbereich Jugend - vertagt
+- TOP 2.45: Bötzowviertel verkehrsberuhigt und lebenswert - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.46: Vinetakiez für Menschen statt Kfz-Durchgangsverkehr! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.47: Mitarbeiterinnen und Mitarbeiter des Bezirksamtes nicht allein lassen: Anleitung zum Kampf gegen Antisemitismus in Deutschland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Eine Europaschule endlich auch für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.49: Bänke in Pankow mit der Botschaft „Hier ist kein Platz für Gewalt an Frauen“ versehen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.50: Besserer Bürgerservice auf dem Gelände Fröbelstraße 17 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.51: Öffentliche Sportmöglichkeiten transparent machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.52: Schule auf dem Gelände des ehemaligen Säuglings- und Kinderkrankenhauses Weißensee zügig umsetzen - vertagt
+- TOP 2.53: Bezirkliches Vorkaufsrecht für die Kastanienallee 86 ausüben - Verdrängung des „Tuntenhauses“ durch Immobilienspekulation abwenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.54: Kulturelle Teilhabe für Pankower*innen mit wenig Einkommen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.55: Kommunale Galerie Parterre uneingeschränkt nutzbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.56: Wechselstelle Masurenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.57: Kastanienallee: Neuplanung statt Stillstand! - vertagt
+- TOP 2.58: Regenbogen-Zebrastreifen 2025 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.59: Ein sicherer Fußgängerübergang an der Gustav-Adolf-Straße - gegenstandslos
+- TOP 2.60: Jährlicher Bericht zum Flächenverbrauch und zu Optimierungskonzepten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.61: Mehrkosten Investitionsmaßnahme - Neubau der Schönstraße von Mirbachplatz bis Rennbahnstraße (Kapitel 3800, Titel 73815) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.62: Konkretisierung der ökologischen Sanierungsziele für das Sanierungsgebiet Pankow - Langhansstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.63: Benennungsabsicht für eine öffentliche Grünanlage im Ortsteil Prenzlauer Berg in „Emmi-und Wilhelm-Blank-Platz“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.64: Umbenennungsabsicht der Mittelstraße im Ortsteil Rosenthal in „Maud-von-Ossietzky-Straße“ - zurückgezogen
+- TOP 2.65: Benennungsabsicht eines öffentlichen Platzes im Ortsteil Prenzlauer Berg in „Marion-Seelig-Platz“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.66: Benennungsabsicht für eine öffentliche Grünanlage im Ortsteil Niederschönhausen in „Rapoport Park“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.67: Stellungnahme des Bezirksamtes Pankow von Berlin zum Flächennutzungsplan-Änderungsverfahren „Windenergie in Berlin - Vorabstimmung zur Identifizierung geeigneter Flächen in einem FNP-Verfahren (Nr. 01/24)“ - vertagt
+- TOP 2.68: Umbenennungsabsicht der Stichstraße Eberswalder Straße im Ortsteil Prenzlauer Berg in „Emilie-Mosse-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.69: Bebauungsplan 3-53 für das Grundstück Hansastraße 173 und eine Teilfläche des Flurstücks 199 der Gemarkung Weißensee, Flur 253, im Bezirk Pankow, Ortsteil Weißensee (KGA Hansastraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.70: Information über die dem Bezirk Pankow zusätzlich zur Verfügung gestellten Mittel (Auftragswirtschaft) im 1. Halbjahr 2024 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.71: Fortschreibung der Globalsumme 2025 - vertagt
