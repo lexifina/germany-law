@@ -1,0 +1,85 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-09-18T17:00:00+02:00
+- Ende: 2024-09-18T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4815
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4815
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Einwohneranträge - erledigt
+- TOP 2.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 2.1.1: Lebendiger Kranold-Markt-Platz - in der BVV abgelehnt
+- TOP 2.1.2: Kranoldmarkt erhalten - in der BVV abgelehnt
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Havellauf auch noch im Jahr 2025? - beantwortet
+- TOP 4.2: Baulicher Zustand „Pop Inn“ - beantwortet
+- TOP 4.3: Kein Schulessen wegen Mängeln? - beantwortet
+- TOP 4.4: Bezahlkarte für Flüchtlinge - beantwortet
+- TOP 4.5: Containerdorf Thielallee in Dahlem mit welchen Folgen? - beantwortet
+- TOP 4.6: Entwicklung der Ordnungswidrigkeiten im ruhenden Verkehr in der Schloßstraße - beantwortet
+- TOP 4.7: „Radleichen" und Schrotträder im Bezirk - schriftlich beantwortet
+- TOP 4.8: Baustellen im Bezirk - Aktualisierung Herbst 2024 - schriftlich beantwortet
+- TOP 4.9: Prävention von Wohnraumverlust - schriftlich beantwortet
+- TOP 4.10: Kastanien wie im Herbst? - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Sondermittel der BVV für das Sinfonieorchester Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Fünf weitere Worte für die Inklusion - in der BVV abgelehnt
+- TOP 5.4: Baustellenkoordinierung - Störungen für Verkehr, Radfahrer und Fußgänger minimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Gesellschaftliches Klima retten - Bürgerinnen und Bürger einbeziehen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Schulwegsicherheit Dreilinden-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Einstiges Grundstück der Familie Wolffsohn: Aufarbeitung ermöglichen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Für die Vision Zero und gegen die Wiedereinführung von Tempo 50 in der Albrechtstraße und Leonorenstraße - in der BVV abgelehnt
+- TOP 5.9: Fußgängerschutz in der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Erheblicher „Parkdruck“: Mehr Fahrradbügel für Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Für Baumschutz und mehr Verkehrssicherheit: Autoparkplätze auf Baumscheiben an der Athene-Grundschule abordnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Weiterhin Partnerschaftsschilder des Bezirkes auch auf dem neu gestalteten Hermann-Ehlers-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Unfallgefährdende Situation am Lerbacher Weg beenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Radwege Kohlhasenbrücker Straße zwischen Alsenbrücke und Stadtgrenze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Wappen des Bezirkes auf dem neu gestalteten Hermann-Ehlers-Platz - in der BVV abgelehnt
+- TOP 5.16: LKW-Verbot durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Parkplatzsituation an der Seniorenfreizeitstätte Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Verkehrszählung für Hauptpendler-Routen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: Radverkehr am U-Bahnhof Podbielskiallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Kreuzungsbereiche sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.21: Verbesserung der Verkehrssicherheit an der Einmündung Quantzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.22: Trinkbrunnen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Illegale Werbung im Bezirk konsequent unterbinden - in der BVV abgelehnt
+- TOP 5.24: Radweg statt Regenrinne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.25: Aktualisierte Zusammensetzung der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.26: Verkehrssicherheit für Kinder in der Lorenzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.27: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.28: Trinkbrunnen am Kranoldplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Ein neuer Name für die Eduard-Spranger-Promenade - überwiesen
+- TOP 6.2: Stadtplanerische Konzepte, die die Mieten- und Klimakrise anerkennen statt Deals mit Investor*innen zu Lasten von günstigen Mietwohnungen und Naturflächen! - überwiesen
+- TOP 6.3: Mehr sichere Radabstellanlagen rund um das Rathaus Lankwitz - überwiesen
+- TOP 6.4: Öffentliche Toilette Spanische Allee - überwiesen
+- TOP 6.5: Geländer am Buschgraben - überwiesen
+- TOP 6.6: Sitzbank auch für die südliche Seite der Haltestelle Bogenstraße in Lichterfelde endlich einrichten - überwiesen
+- TOP 6.7: Wartehäuschen für die Bushaltestelle Charité - Campus B. Franklin – jetzt aber richtig - überwiesen
+- TOP 6.8: Verkehr flüssiger gestalten - Fußgängerbedarfsampel Birkbusch-/ Sedanstraße jetzt! - überwiesen
+- TOP 6.9: Beteiligung von Kindern und Jugendlichen - überwiesen
+- TOP 6.10: Barrierefreiheit für die Hochzeitsvilla - überwiesen
+- TOP 6.11: Hildegard-Hamm-Brücher-Park - überwiesen
+- TOP 6.12: Platz nach Elise Taube benennen - überwiesen
+- TOP 6.13: Ein Frauen(kompetenz)zentrum für Steglitz-Zehlendorf - überwiesen
+- TOP 6.14: WLAN auf der Dorfaue Zehlendorf - überwiesen
+- TOP 6.15: Freie Raumkapazitäten für Musikschulkurse in bezirklichen Freizeiteinrichtungen - überwiesen
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Mehr Sauberkeit am S-Bahnhof Wannsee gegen Verwahrlosung öffentlicher Plätze - überwiesen
+- TOP 7.2: Vorplatz Bahnhof Wannsee endlich aufwerten - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: 1933 abgesetzte und verfolgte Kommunalpolitiker*innen namentlich sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Barrierefreier Livestream für Gehörlose - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Ein Radweg für die Thielallee statt (leerer) Autoparkplätze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Keine Großwindanlagen in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 8.5: Audioprotokolle der BVV-Sitzungen den Fraktionen zur Verfügung stellen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
