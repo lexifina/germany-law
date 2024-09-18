@@ -1,0 +1,3 @@
+# Gemeinsame Verordnung des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über Zuständigkeiten zur Ausführung chemikalienrechtlicher Vorschriften (Sächsische Chemikalienrecht-Zuständigkeitsverordnung – SächsChemRZuVO)
+erlassen als Artikel 2 der Gemeinsame Verordnung der Sächsischen Staatsregierung, des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr sowie des Sächsischen Staatsministeriums für Energie, Klimaschutz, Umwelt und Landwirtschaft zur Regelung von Zuständigkeiten im Arbeits- und Umweltschutz sowie der Marktüberwachung technischer Produkte
+Vom 2. September 2024
