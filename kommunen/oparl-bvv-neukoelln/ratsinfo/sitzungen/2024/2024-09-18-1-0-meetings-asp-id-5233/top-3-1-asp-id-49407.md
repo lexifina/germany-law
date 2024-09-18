@@ -1,0 +1,7 @@
+# TOP 3.1: 1465/XXI - Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte
+
+- Sitzung: 33. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2024-09-18)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=49407
+- Ergebnis: ohne Änderungen in der BVV beschlossen
