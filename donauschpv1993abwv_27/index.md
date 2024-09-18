@@ -1,1 +1,0 @@
-# Siebenundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
