@@ -1,0 +1,151 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-09-18T17:00:00+02:00
+- Ende: 2024-09-18T22:43:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5233
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5233
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Städtepartnerschaft - beantwortet
+- TOP 1.2: Verkehrssituation ÖPNV - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Räume für wohnungs- und obdachlose Frauen dringend finden, erhalten, absichern" - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 1465/XXI - Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - ohne Änderungen in der BVV beschlossen
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Bibliotheken an Neuköllner Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Sicherung der Freizeiteinrichtungen in Neukölln - überwiesen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Genug ist genug: Kein Containerdorf für Flüchtlinge im Sangerhauser Weg - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Vorzeitige Beendigung eines Mandats als stellvertretendes Mitglied des Widerspruchsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Vorzeitige Beendigung eines Mandats als Bezirksverordneter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.6: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Ordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.7: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.8: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.9: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Haushalt, Verwaltung, Klimaschutz und Nachhaltigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.10: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Ordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.11: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.12: Aufrücken eines Nachrückers zum stellvertretenden Bürgerdeputierten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.13: Änderung zum Schulverzeichnis, Umbenennung der Peter-Petersen-Schule (08G12), Jonasstraße 15, 12053 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.14: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.15: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.16: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.17: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Wirtschaft und Arbeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.18: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der im Haushaltsjahr 2023 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Nachwahl eines ordentlichen Mitgliedes des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 9.2: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Wirtschaft und Arbeit - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Sachstand Neubau Tee- und Wärmestube - beantwortet
+- TOP 10.2: Freie Kita-Plätze im Kita-Eigenbetrieb Süd-Ost - beantwortet
+- TOP 10.3: Warum befindet sich noch immer das Wappen der Stadt Puschkin im Rathaus? - beantwortet
+- TOP 10.4: Endlich eine Lösung für die Honorarkräfte? - beantwortet
+- TOP 10.5: Dramatisch schlechte Hygienebedingungen an Neuköllner Schulen - beantwortet
+- TOP 10.6: War die Feuerwehr doch nicht rechtzeitig eingebunden? - beantwortet
+- TOP 10.7: Hitzeschutzplan Maßnahme M I-4 - beantwortet
+- TOP 10.8: Ein Jahr nach Fertigstellung immer noch Leerstand? - beantwortet
+- TOP 10.9: Denkmalschutz vs. Kiezblock - schriftlich beantwortet
+- TOP 10.10: Negative Veränderungen im August-Goedeke-Haus? - schriftlich beantwortet
+- TOP 10.11: Denkmalschutz und Pollerwald am Richardplatz - schriftlich beantwortet
+- TOP 10.12: Bekommt Neukoelln endlich ein Unordnungsamt? - schriftlich beantwortet
+- TOP 10.13: Schließung aller Bürgerämter in Neukölln - schriftlich beantwortet
+- TOP 10.14: Rechtswidrige Verkehrseinrichtungen - schriftlich beantwortet
+- TOP 10.15: Halten die Reinigungsfirmen ihre Verträge ein? - schriftlich beantwortet
+- TOP 10.16: Kiezblock – Verkehrsaufkommen nach 2021 - schriftlich beantwortet
+- TOP 10.17: Änderung der Sportanlagen-Nutzungsvorschriften - schriftlich beantwortet
+- TOP 10.18: Sanierung der Kepler-Schule - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Sportplatz Britz-Süd Bewässerungssysteme prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Schließfächer für obdachlose Menschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Schließfächer für das Hab und Gut von obdachlosen Menschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Sicherheit auf dem Bat-Yam-Platz und Lipschitzplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.5: Familienzentrum Alt-Buckow 37 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.6: Aufenthaltsqualität rund um U Johannisthaler Chaussee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Bearbeitung bzw. Neufassung des „Leitfadens Obdachlosigkeit“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.2: Baumstümpfe ersetzen, Grünfläche schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12.3: Grundschule am Fliederbusch unterstützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Sportbad Britz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Zero-emissions-Sportfelder und -hallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Bordsteinabsenkung und sichere Querung in der Britzkestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.7: Sperrung Boddinplatz (Umfahrung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.8: Mehr Flächengerechtigkeit: „Kiezblocks“ für Neukölln planen und umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.9: Erinnerungstafel an Zwangsarbeiterlager in der Hufeisensiedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.10: Katretter – jede Sekunde zählt bei medizinischen Notfällen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.11: Fahrradbügel für das Stadion Britz-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.12: Verbesserung der Kennzeichnung der Neckar-/Isarstraße als "Verkehrsberuhigter Bereich" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.13: Kein Parken am Übergang für Fußgänger in der Fritz-Erler-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.14: Hof der Alten Dorfschule Rudow Instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.15: Tempo 30 auf der Waltersdorfer Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.16: Zugang zum Carl-Weder-Park gegen Unfälle absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.17: Sitzgelegenheiten in BVG-Warteanlage am U-Bhf Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.18: Aufwertung des Platzes rund um den Goldenen Esel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.19: Gesundheitskollektiv weiterhin fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.20: Neukölln als Modellregion für die Cannabis-Legalisierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.21: Safe Places in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.22: Mythos#Israel1948 in Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.23: Tarifmittelsteigerungen bei Volkshochschulen und Musikschulen in den Haushaltsberatungen auf Landesebene berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.24: Verbesserung der Schaltung der Lichtsignalanlage U-Bhf. Grenzallee Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.25: Menschenwürdige Unterbringung von Geflüchteten sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.26: Mondiale am Dammweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.27: Durchblick für die Senioren in der Freizeitstätte Bruno Taut - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.28: Einstellung B-Plan-Verfahren ehem. Bahnhof Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.29: Grünschutz auf der Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.30: Neue Wege zur Energieeinsparung in der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.31: Mobilitätspunkt U Parchimer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.32: Verlängerung der Veränderungssperre XIV-185cbb/36, nunmehr Veränderungssperre 8-111/36, für das Grundstück Juliusstraße 58 / Britzkestraße 10 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-111 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Austausch der maroden Bänke auf dem Sportplatz Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Die Hasenheide: heute entscheiden - an morgen denken - in der BVV abgelehnt
+- TOP 14.3: Schließfächer für das Hab und Gut von obdachlosen Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: 70 Jahre Jumelage - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Verkehrssicherheit auf dem Wildmeisterdamm - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: E-Ladestation statt Carsharing-Parkplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Verkehrssicherheit Alt-Buckow - Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Sanierung Stadion Britz-Süd - Wünsche der Vereine berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Funktionsgebäude und Flutlichtanlage Stadion Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Mensa-Ausbau bedarfsorientiert beschleunigen: Mensaentwicklungsplan für Neukölln - ohne Änderungen im Ausschuss beschlossen
+- TOP 14.11: Ladezonen Karl-Marx-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Müllkontrollen des Ordnungsamtes & Müllentsorgung entlang der Straßen am S-Bahn-Ring verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Spielplatztage "Raum für Kinderträume" in Neukölln - in der BVV abgelehnt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Vergessen? - beantwortet
+- TOP 15.2: Geflüchtetenunterkunft Sangerhauser Weg - beantwortet
+- TOP 15.3: Städtebauliche Entwicklung und Sicherung bezahlbaren Wohnraums - beantwortet
+- TOP 15.4: Schulstart mit leerem Magen? - beantwortet
+- TOP 15.5: Planungen für ein Containerdorf für Flüchtlinge im Sangerhauser Weg - beantwortet
+- TOP 15.6: Aktuelle Situation des Caterings an Neuköllner Schulen - beantwortet
+- TOP 15.7: Was läuft schief beim Schulmittagessen? - beantwortet
+- TOP 16: Große Anfragen - schriftlich - (offen)
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Parkverbot für LKW und Anhänger - überwiesen
+- TOP 17.2: Ringbahnhöfe in öffentlicher Hand und im Sinne Neuköllns entwickeln - überwiesen
+- TOP 17.3: Reform der Kosten-Leistungs-Rechnung für den Schulbereich - überwiesen
+- TOP 17.4: Neukölln und der Parkplatzmangel - überwiesen
+- TOP 17.5: GO-Antrag Berücksichtigung weiterer Ausschüsse an der B-Plan Erstellung - überwiesen
+- TOP 17.6: Trinkbrunnen funktionsfähig machen – Hitzeschutzplan M I-5 - überwiesen
+- TOP 17.7: Film "Ich KRIEG die Krise" in Neukölln als Ressource für die Jugendarbeit nutzen - überwiesen
+- TOP 17.8: Modellprojekt zum „Gesetz zum Umgang mit Konsumcannabis (KCanG)“ - überwiesen
+- TOP 17.9: Fahrradbügel für die VHS Kurt-Löwenstein-Haus - überwiesen
+- TOP 17.10: Soziale Infrastruktur immer mitdenken! - überwiesen
+- TOP 17.11: Umbenennung des Puschkin-Zimmers im Rathaus Neukölln - überwiesen
+- TOP 17.12: Lastenfahrradparken auf der Kienitzer Straße - überwiesen
+- TOP 17.13: Transparenz bei Kiezblocks - überwiesen
+- TOP 17.14: Neukölln sagt NEIN zu Flüchtlingen im Sangerhauser Weg - in der BVV abgelehnt
+- TOP 17.15: Jahresbericht antisemitische Aktivitäten in Neukölln - überwiesen
+- TOP 17.16: Halteverbot Kurve Rhodeländerweg - überwiesen
