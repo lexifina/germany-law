@@ -1,0 +1,115 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-19T14:08:00+02:00
+- Ende: 2024-09-19T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26041
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26041
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 19.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529640.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 19.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529640.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 19.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00529640.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 08.05.2024 (SI-RAT/003/2024) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Die PARTEI-Klima-Fraktion: Taxi-Halt am Corneliusplatz - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Rheinterrasse - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Baulicher Zustand der Düsseldorfer Rheinbrücken, insbesondere der Theodor-Heuss-Brücke - zurückgewiesen
+- TOP 4.4: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Sicherheitspersonal in städtischen Obdachlosenunterkünften - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Wettbewerb Opernhaus der Zukunft – Besetzung der Jury - beantwortet
+- TOP 5.2: Anfrage der Ratsfraktion DIE LINKE: Kosten der Opernplanung Heinrich-Heine-Allee - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion DIE LINKE: Kosten der Invictus Germany - beantwortet
+- TOP 5.4: Anfrage der SPD-Ratsfraktion: Für welche Wohnbauflächen wurde das Ankaufsbudget bis jetzt verwendet? - beantwortet
+- TOP 5.5: Anfrage der FDP-Ratsfraktion: Musterstrecken der historischen Beleuchtung im Stadtteil Eller - beantwortet
+- TOP 5.6: Anfrage der SPD-Ratsfraktion: Keine Umsetzung von Verkehrsbeschlüssen - schriftlich beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Die PARTEI-Klima-Fraktion: Effizienz der Fernwärmenetze in Düsseldorf - zurückgewiesen
+- TOP 5.8: Anfrage der AfD-Ratsfraktion: Waffenkontrolle in städtischen Flüchtlingsunterkünften - schriftlich beantwortet
+- TOP 5.9: Anfrage der AfD-Ratsfraktion: Islamistische Gefährder in Düsseldorf - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsgruppe Tierschutz/FREIE WÄHLER: Handlungsfähigkeit der Stadt Düsseldorf im Zusammenhang mit dem Anstieg von Parteien bzw. Wählergemeinschaften im Rat der Stadt seit 1999 - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Lehmann: Kosten der Männer-Fußball-EM 2024 für die Stadt Düsseldorf - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Fix: Maßnahmen zur Reduktion von Lebensmittelverschwendung und Überproduktion in Kantinen der Stadt und deren Tochtergesellschaften - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Marmulla: Finanziell nachteiliger Ankauf von Signa-Immobilien für die Milliardenoper? - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Fix: Gaslaternen, Gasnetz und der Denkmalschutz - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Born: Abrissgenehmigung für die Mauerstraße 32 - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Vorspel: Drohende Schließung des Bürgerhauses in Reisholz - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau Mirus: Einsparungen durch die Nachtabschaltung der Gaslaternen - schriftlich beantwortet
+- TOP 5.18: Anfrage der Ratsfrau Mirus: Folgen der Nachtabschaltung der Gaslaternen - schriftlich beantwortet
+- TOP 5.19: Anfrage des Ratsherrn Jörres: Finanzierung Regenbogenbänke zur EM - schriftlich beantwortet
+- TOP 5.20: Anfrage des Ratsherrn Jörres: Straßenüberfälle in Düsseldorf - schriftlich beantwortet
+- TOP 5.21: Anfrage der Ratsfrau Kraljic: Einsatz von Volunteers zur UEFA-Euro 2024 - schriftlich beantwortet
+- TOP 5.22: Anfrage der Ratsfrau Opelt: Personalnot in Kitas - schriftlich beantwortet
+- TOP 5.23: Anfrage des Ratsherrn Lemmer: Mobilitätsplan D - schriftlich beantwortet
+- TOP 5.24: Anfrage des Ratsherrn Lemmer: Beschwerden über mangelnde Grünpflege und Verschmutzungen - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen & KAP - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Opernhaus der Zukunft - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Neubau TVG - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Notunterkunft für aus der Ukraine geflüchtete Menschen durch den Caritasverband e.V. im Klara-Gase-Haus – Sprockhöveler Straße 36, 40591 Düsseldorf: Verlängerung der Nutzung um drei Jahre - einstimmig beschlossen
+- TOP 11: Bekanntgabe der bisher genehmigten über- und außerplanmäßigen Mittelbereitstellungen des Haushaltsjahres 2024 - zur Kenntnis genommen
+- TOP 12: Beteiligungsbericht 2022 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 13: Kenntnisnahme des Jahresabschlusses 2023 der Stadtsparkasse Düsseldorf, Gewinnverwendung sowie Entlastung der Sparkassenorgane für das Jahr 2023 - mehrheitlich beschlossen
+- TOP 14: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses für das Projekt "Neubau einer Kindertageseinrichtung am Kuthsweg 43" - einstimmig beschlossen
+- TOP 15: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt „Erweiterung der Kita Offenbacher Weg 43" - einstimmig beschlossen
+- TOP 16: Ehrenhof 1, Tonhalle – Sanierung Verwaltungstrakt und zugehörige Erneuerung von Wasser- und Abwassernetzen sowie die Sanierung der Westfassade - einstimmig beschlossen
+- TOP 17: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshauptstadt Düsseldorf 2024 - zur Kenntnis genommen
+- TOP 18: Bestellung der Mitglieder und Stellvertretungen der Kunstkommission 2024 - mehrheitlich beschlossen
+- TOP 19: Restitution und Rückkauf eines Gemäldes (Kunstpalast, Inv. mkp M4539) - einstimmig beschlossen
+- TOP 20: Weiterentwicklung der Wochenendöffnungen von Stadtteilbüchereien - einstimmig beschlossen
+- TOP 21: Verlängerung des Verzichts auf die Erhebung von Sondernutzungsgebühren für E-Ladesäulen - mehrheitlich beschlossen
+- TOP 21.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage OVA/060/2024
+- TOP 22: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 23: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 24: Bestellung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 25: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31. Dezember 2020 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 26: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungs-beschlusses für das Projekt „Erweiterungsbau Geschwister-Scholl-Gymnasium zur Beibehaltung der Fünfzügigkeit im Rahmen von G9, Redinghovenstr. 41, 40225 Düsseldorf“ - einstimmig beschlossen
+- TOP 27: Errichtung einer Dependance der GGS Urdenbach an der Urdenbacher Allee 91 - einstimmig beschlossen
+- TOP 28: Förderung von Grundschulen in Quartieren mit besonderen Herausforderungen - zur Kenntnis genommen
+- TOP 29: Einrichtung zweier befristeter Teilstandorte des Berufskollegs Bachstraße - einstimmig beschlossen
+- TOP 30: Hoxbach - Hochwasserschutz Einbecker Straße (W-0006000000) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 31: Klärwerk-Süd, Prüfung und Erneuerung der Betriebswasseranlage (I-8030614005) - Berdarfsbeschluss - - einstimmig beschlossen
+- TOP 32: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See -Ersatzbestellung- - einstimmig beschlossen
+- TOP 33: Bestimmung der Reihenfolge, in der die Beigeordneten bei Verhinderung des allgemeinen Vertreters des Oberbürgermeisters zur allgemeinen Vertretung berufen sind - einstimmig beschlossen
+- TOP 34: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - mehrheitlich beschlossen
+- TOP 35: Nachhaltigkeits-Beirat – Bestätigung neuer Mitglieder der Zivilgesellschaft - mehrheitlich beschlossen
+- TOP 36: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 37: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 38: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze sowie Bestimmung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - einstimmig beschlossen
+- TOP 39: Kuratorium der Stiftung „Kunstsammlung Nordrhein-Westfalen“ - Vorschlag zur Wiederbestellung eines stellvertretenden Mitgliedes - - einstimmig beschlossen
+- TOP 40: Nachwahl zum Beirat bei der Unteren Naturschutzbehörde - einstimmig beschlossen
+- TOP 41: Anträge
+- TOP 41.1: Antrag der SPD-Ratsfraktion: Istanbul Konvention in Städtepartnerschaften stärken - mehrheitlich abgelehnt
+- TOP 41.2: Antrag der SPD-Ratsfraktion: Schul-Radeln - abweichend beschlossen
+- TOP 41.3: Antrag der Ratsfraktionen von FDP, SPD und BÜNDNIS 90/DIE GRÜNEN: Installation von Ampelpärchen der Vielfalt und Radschlägern an Fußgängerampelanlagen im Bereich der Heinrich-Heine-Allee und Königsallee - mehrheitlich beschlossen
+- TOP 41.3.1: Änderungsantrag der Ratsfraktion DIE LINKE zur Vorlage RAT/214/2024 - abweichend beschlossen
+- TOP 41.4: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Regenbogenbänke für die Stadt der Toleranz und Vielfalt - zurückgezogen
+- TOP 41.5: Antrag der Ratsfraktionen von DIE LINKE und Die PARTEI-Klima-Fraktion: Hilfe für Kriegsopfer in Israel und Palästina - mehrheitlich abgelehnt
+- TOP 41.5.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, SPD, FDP zur Vorlage RAT/230/2024 - mehrheitlich beschlossen
+- TOP 41.6: Antrag der AfD-Ratsfraktion: Einführung Migrations-Dashboard - zurückgezogen
+- TOP 41.7: Antrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Mehr Platz für den Japantag - abweichend beschlossen
+- TOP 41.8: Antrag der FDP-Ratsfraktion: E-Laden ohne optische Beeinträchtigung - zurückgezogen
+- TOP 41.9: Antrag der Ratsfraktion DIE LINKE: Entwurf der Sponsoringrichtlinie zur Beratung vorlegen - mehrheitlich abgelehnt
+- TOP 41.10: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Treibhausgasbilanzen für Kantinenessen
+- TOP 41.11: Antrag der Ratsfraktionen von Die PARTEI-Klima-Fraktion, SPD und DIE LINKE: Corneliusplatz autofrei
+- TOP 41.11.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/292/2024
+- TOP 41.11.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/292/2024
+- TOP 41.12: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Audimax mit Fruhtrunk-Fassade retten!
+- TOP 41.13: Antrag der SPD-Ratsfraktion: Sektoraler Bebauungsplan – Preisregulierter Wohnungsbau auch im unbeplanten Innenbereich
+- TOP 41.13.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/314/2024
+- TOP 41.13.2: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS90/ DIE GRÜNEN und SPD zur Vorlage RAT/314/2024
+- TOP 41.14: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN: Planungsgewinne und Kosten bei Angebotsbebauungsplänen
+- TOP 41.15: Antrag der SPD-Ratsfraktion: Unterstützung für das vielfältige ehrenamtliche Engagement in unserer Stadt durch Installation von Stromanschlüssen
+- TOP 41.15.1: Änderungsantrag der Ratsfraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN und SPD zur Vorlage RAT/315/2024
+- TOP 41.16: Antrag der AfD-Ratsfraktion: Aufgabe des Worringer Platzes als Kunststandort
+- TOP 41.17: Antrag der AfD-Ratsfraktion: Änderungen der Fahrpläne, Fahrtstrecken und der Fahrzeugbereitstellung der Rheinbahn
+- TOP 41.18: Antrag der Ratsfraktion Die PARTEI-Klima-Fraktion: Vielfalt beim Angebot pflanzenbasierter Gerichte sicherstellen
+- TOP 41.18.1: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zur Vorlage RAT/268/2024
+- TOP 42: Wechsel von stimmberechtigten Mitgliedern der Fraktionen für den Behindertenrat - mehrheitlich beschlossen
+- TOP 43: Bericht aus der Kleinen Kommission Radverkehr - zurückgezogen
