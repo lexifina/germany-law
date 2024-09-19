@@ -1,0 +1,6 @@
+# TOP 6: Aktuelles aus dem Integrationsrat Mündlicher Bericht
+
+- Sitzung: Ausschuss für Soziales, Migration und Sport (17. Sitzung) (2024-09-19)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/27642
