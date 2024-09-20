@@ -1,8 +1,8 @@
 # Vollzitat: FRL Tierschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2023-12-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/20294.1
+- Datum: 2024-09-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/20294.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.12.2023
+20.09.2024
 bis
-19.09.2024
+31.12.2024
 
 FRL Tierschutz
 
@@ -300,11 +300,6 @@ Für die Auszahlung der Zuwendung findet abweichend von Nummer 7.1 der Verwaltun
 
 
 C.
-Übergangsbestimmungen
-
-Die bis zum 15. März 2023 eingegangenen Anträge auf Impfungen gegen Zoonosen nach Großbuchstabe B Teil 2 Ziffer II Nummer 5 der Richtlinie des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Gewährung von Zuwendungen im Bereich des Tierschutzes vom 14. Juli 2022 (SächsABl. S. 906) werden auch für Heimtiere gewährt.
-
-D.
 Inkrafttreten und Außerkrafttreten
 
 1.
@@ -313,7 +308,7 @@ Die Richtlinie tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tr
 
 2.
 
-Die Regelungen nach Großbuchstabe B Teil 1 treten mit Ablauf des 31. Dezember 2024 außer Kraft.
+Diese Richtlinie tritt mit Ablauf des 20. September 2031 außer Kraft.
 
 
 Dresden, den 14. November 2023
@@ -331,9 +326,9 @@ Fsn-Nr.: 5585-V23.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Dezember 2023
+Fassung gültig ab: 20. September 2024
 
-Fassung gültig bis: 19. September 2024
+Fassung gültig bis: 31. Dezember 2024
 
 Drucken/Speichern
 
@@ -358,7 +353,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/20294.1
+https://www.revosax.sachsen.de/vorschrift/20294.2
 Stand vom
 18.11.2026
 
