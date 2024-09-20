@@ -117,11 +117,11 @@
 | § 81 | Überprüfung der Wahl durch die Landeswahlleiterund den Bundeswahlleiter |
 |  |
 | Fünfter Abschnitt |
-| Nachwahl, Wiederholungswahl,Berufung von Listennachfolgern (§§ 82 bis 84) |
+| Nachwahl, Wiederholungswahl, Berufung von Nachfolgern (§§ 82 bis 84) |
 |  |
 | § 82 | Nachwahl |
 | § 83 | Wiederholungswahl |
-| § 84 | Berufung von Listennachfolgern |
+| § 84 | Berufung von Nachfolgern |
 |  |
 | Sechster Abschnitt |
 | Übergangs- und Schlussbestimmungen (§§ 85 bis 93) |
@@ -140,33 +140,37 @@
 |  |
 | Anlage 1 |
 | (zu § 18 Absatz 6) |
-| Antrag auf Eintragung in das Wählerverzeichnis von Wahlberechtigten nach § 12 Absatz 2 Bundeswahlgesetz, die in die Bundesrepublik Deutschland zurückkehren, sowie Versicherung an Eides statt – Erst- und Zweitausfertigung – und Merkblatt zum Antrag |
+| Antrag auf Eintragung in das Wählerverzeichnis von Wahlberechtigten nach § 12 Absatz 2 Bundeswahlgesetz, die in die Bundesrepublik Deutschland zurückkehren, sowie Versicherung an Eides statt – und Merkblatt zum Antrag |
 |  |
 | Anlage 2 |
-| (zu § 18 Abs. 5) |
-| Antrag auf Eintragung in das Wählerverzeichnis vonWahlberechtigten, die außerhalb der Bundesrepublik Deutschlandleben, sowie Versicherung an Eides statt - Erst- und Zweitausfertigung -und Merkblatt zum Antrag |
+| (zu § 18 Absatz 4) |
+| Antrag auf Eintragung in das Wählerverzeichnis und Wahlscheinantrag für im Ausland lebende Deutsche (§ 12 Absatz 2 Satz 1 Nummer 1 des Bundeswahlgesetzes) (frühere Wohnung / früherer gewöhnlicher Aufenthalt in Deutschland)– Antrag und Merkblatt zum Antrag |
+|  |
+| Anlage 2a |
+| (zu § 18 Absatz 5) |
+| Antrag auf Eintragung in das Wählerverzeichnis und Wahlscheinantrag für im Ausland lebende Deutsche (§ 12 Absatz 2 Satz 1 Nummer 2 des Bundeswahlgesetzes) (Vertrautheit mit den politischen Verhältnissen)– Antrag und Merkblatt zum Antrag |
 |  |
 | Anlage 3 |
-| (zu § 19 Abs. 1) |
+| (zu § 19 Absatz 1) |
 | Wahlbenachrichtigung |
 |  |
 | Anlage 4 |
-| (zu § 19 Abs. 2) |
+| (zu § 19 Absatz 2) |
 | Wahlscheinantrag |
 |  |
 | Anlage 5 |
-| (zu § 20 Abs. 1) |
+| (zu § 20 Absatz 1) |
 | Bekanntmachung der Gemeindebehörde über das Recht auf Einsichtin das Wählerverzeichnis und die Erteilung von Wahlscheinen |
 |  |
 | Anlage 6 |
-| (zu § 20 Abs. 2) |
+| (zu § 20 Absatz 2) |
 | Bekanntmachung der Vertretungen der Bundesrepublik Deutschlandim Ausland für Deutsche zur Wahl zum Deutschen Bundestag |
 |  |
 | Anlage 7 |
 | (weggefallen) |
 |  |
 | Anlage 8 |
-| (zu § 24 Abs. 1) |
+| (zu § 24 Absatz 1) |
 | Beurkundung des Abschlusses des Wählerverzeichnissesdurch die Gemeindebehörde |
 |  |
 | Anlage 9 |
@@ -174,70 +178,74 @@
 | Wahlschein |
 |  |
 | Anlage 10 |
-| (zu § 28 Abs. 3 und § 45 Abs. 3) |
+| (zu § 28 Absatz 3 und § 45 Absatz 3) |
 | Stimmzettelumschlag für die Briefwahl - Vorder- und Rückseite - |
 |  |
 | Anlage 11 |
-| (zu § 28 Abs. 3 und § 45 Abs. 4) |
+| (zu § 28 Absatz 3 und § 45 Absatz 4) |
 | Wahlbriefumschlag - Vorder- und Rückseite - |
 |  |
 | Anlage 12 |
-| (zu § 28 Abs. 3) |
+| (zu § 28 Absatz 3) |
 | Merkblatt zur Briefwahl - Vorder- und Rückseite - |
 |  |
 | Anlage 13 |
-| (zu § 34 Abs. 1) |
+| (zu § 34 Absatz 1) |
 | Kreiswahlvorschlag |
 |  |
 | Anlage 14 |
-| (zu § 34 Abs. 4) |
+| (zu § 34 Absatz 4) |
 | Unterstützungsunterschrift und Bescheinigung desWahlrechts (Kreiswahlvorschlag) |
 |  |
 | Anlage 15 |
-| (zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b) |
+| (zu § 34 Absatz 5 Nummer 1 und 3 Buchstabe b) |
 | Zustimmungserklärung für Bewerber eines Kreiswahlvorschlagesmit der Versicherung an Eides stattzur Parteimitgliedschaft für Bewerber eines Kreiswahlvorschlages einer Partei |
 |  |
 | Anlage 16 |
-| (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2) |
+| (zu § 34 Absatz 5 Nummer 2 und § 39 Absatz 4 Nummer 2) |
 | Bescheinigung der Wählbarkeit |
 |  |
 | Anlage 17 |
-| (zu § 34 Abs. 5 Nr. 3 Buchstabe a) |
+| (zu § 34 Absatz 5 Nummer 3 Buchstabe a) |
 | Niederschrift über die Mitglieder-/Vertreterversammlungzur Aufstellung des Bewerbers für den Wahlkreis |
 |  |
 | Anlage 18 |
-| (zu § 34 Abs. 5 Nr. 3 Buchstabe a) |
+| (zu § 34 Absatz 5 Nummer 3 Buchstabe a) |
 | Versicherung an Eides statt zur Bewerberaufstellung im Wahlkreis |
 |  |
 | Anlage 19 |
-| (zu § 36 Abs. 6) |
+| (zu § 36 Absatz 6) |
 | Niederschrift über die Sitzung des Kreiswahlausschusseszur Entscheidung über die Zulassung der eingereichtenKreiswahlvorschläge |
 |  |
+| Anlage 19a |
+| (zu § 38 Satz 1) |
+| Feststellung des Bedingungseintritts gemäß § 26 Absatz 3 Satz 1 des Bundeswahlgesetzes |
+|  |
 | Anlage 20 |
-| (zu § 39 Abs. 1) |
+| (zu § 39 Absatz 1) |
 | Landesliste |
 |  |
 | Anlage 21 |
-| (zu § 39 Abs. 3) |
+| (zu § 39 Absatz 3) |
 | Unterstützungsunterschrift und Bescheinigung desWahlrechts (Landesliste) |
 |  |
 | Anlage 22 |
-| (zu § 39 Abs. 4 Nr. 1) |
+| (zu § 39 Absatz 4 Nummer 1) |
 | Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerbereiner Landesliste |
 |  |
 | Anlage 23 |
-| (zu § 39 Abs. 4 Nr. 3) |
+| (zu § 39 Absatz 4 Nummer 3) |
 | Niederschrift über die Mitglieder-/Vertreterversammlungzur Aufstellung der Bewerber für die Landesliste |
 |  |
 | Anlage 24 |
-| (zu § 39 Abs. 4 Nr. 3) |
+| (zu § 39 Absatz 4 Nummer 3) |
 | Versicherung an Eides statt zur Aufstellung der Landeslistenbewerber |
 |  |
 | Anlage 25 |
 | (weggefallen) |
 |  |
 | Anlage 26 |
-| (zu § 28 Abs. 3 und § 45 Abs. 1) |
+| (zu § 28 Absatz 3 und § 45 Absatz 1) |
 | Stimmzettel |
 |  |
 | Anlage 27 |
@@ -245,25 +253,25 @@
 | Wahlbekanntmachung der Gemeindebehörde |
 |  |
 | Anlage 28 |
-| (zu § 71 Abs. 7 und § 75 Abs. 4) |
+| (zu § 71 Absatz 7 und § 75 Absatz 4) |
 | Schnellmeldung über das Ergebnis der Wahl |
 |  |
 | Anlage 29 |
-| (zu § 72 Abs. 1) |
+| (zu § 72 Absatz 1) |
 | Wahlniederschrift (Urnenwahl) |
 |  |
 | Anlage 30 |
-| (zu § 72 Abs. 3, § 75 Abs. 6, § 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4) |
+| (zu § 72 Absatz 3, § 75 Absatz 6, § 76 Absatz 1 und 6, § 77 Absatz 1, § 78 Absatz 4) |
 | Zusammenstellung der endgültigen Ergebnisse der Wahl |
 |  |
 | Anlage 31 |
-| (zu § 75 Abs. 5) |
+| (zu § 75 Absatz 5) |
 | Wahlniederschrift (Briefwahl) |
 |  |
 | Anlage 32 |
-| (zu § 76 Abs. 6) |
+| (zu § 76 Absatz 6) |
 | Niederschrift über die Sitzung des Kreiswahlausschusseszur Ermittlung und Feststellung des Wahlergebnisses imWahlkreis |
 |  |
 | Anlage 33 |
-| (zu § 77 Abs. 4) |
+| (zu § 77 Absatz 4) |
 | Niederschrift über die Sitzung des Landeswahlausschusseszur Ermittlung und Feststellung des Wahlergebnisses imLand |

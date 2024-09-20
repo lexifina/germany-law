@@ -20,7 +20,7 @@ an Eides statt,
 | 3. | dass die Bewerber Gelegenheit hatten, sich und ihr Programm der Versammlung in angemessener Zeit vorzustellen. |
 |  | ....................................................., den ................................. |
 |  |  |
-| Die Leiter der Versammlung | Die von der Versammlungbestimmten 2 Teilnehmer |
+| Die Leiter der Versammlung | Die von der Versammlung bestimmten weiteren Teilnehmer für die Abgabe der Versicherung an Eides statt |
 | ................................................................................................ | ................................................................................................ |
 | ................................................................................................(Vor- und Familienname des Unterzeichners in Maschinen- oder Druckschrift und handschriftliche Unterschrift) | ................................................................................................ |
 |  |  |

@@ -30,14 +30,16 @@ am ......................................................
 | 2. | Dem Landeswahlausschuss lagen die insgesamt ................. Wahlniederschriften der Kreiswahlausschüsse und die als Anlage beigefügte Zusammenstellung der (Zahl) |  |
 |  | Ergebnisse nach Wahlkreisen zur Einsichtnahme vor. |  |
 |  |  |  |  |
-| 2.1 | Der Landeswahlausschuss ermittelte, dass die Niederschriften der Kreiswahlausschüsse zu folgenden - keinen Beanstandungen oder Bedenken Anlass gaben: |  |
+| 2.1 | Nach den Wahlniederschriften waren besondere Vorkommnisse zu verzeichnen, die der Anlage zu entnehmen sind. |  |
+|  |  |  |  |
+| 2.2 | Der Landeswahlausschuss ermittelte, dass die Niederschriften der Kreiswahlausschüsse zu folgenden - keinen Beanstandungen oder Bedenken Anlass gaben: |  |
 |  | ..................................................................................................................................................................................................................................................................................................... |  |
 |  | ..................................................................................................................................................................................................................................................................................................... |  |
 |  | Der Landeswahlausschuss traf dazu folgende Entscheidungen: |  |
 |  | ..................................................................................................................................................................................................................................................................................................... |  |
 |  | ..................................................................................................................................................................................................................................................................................................... |  |
 |  |  |  |  |
-| 2.2 | Der Landeswahlausschuss nahm rechnerische Berichtigungen in der Wahlniederschrift |  |
+| 2.3 | Der Landeswahlausschuss nahm rechnerische Berichtigungen in der Wahlniederschrift |  |
 |  | - des Wahlvorstandes .............................................................................................................................................................................................................................................................. (nähere Bezeichnung) |  |
 |  | - des Briefwahlvorstandes ...................................................................................................................................................................................................................................................... (nähere Bezeichnung) |  |
 |  | - des Kreiswahlausschusses .................................................................................................................................................................................................................................................. (nähere Bezeichnung) |  |
@@ -55,9 +57,15 @@ am ......................................................
 |  | F3 | F3 | ........................................................................................................................................................ | .................................................... |  |
 |  | F4 | F4 | ........................................................................................................................................................ (Name der Partei und ihre Kurzbezeichnung) | .................................................... |  |
 |  |  | usw. |  |  |  |
-| 4. | Nach der Feststellung des Gesamtergebnisses wurde die als Anlage zu dieser Niederschrift beigefügte Zusammenstellung nach Wahlkreisen vom Landeswahlleiter, von den Beisitzern und vom Schriftführer unterschrieben. |  |
+| 4. | Vorläufig als gewählt werden folgende Bewerber festgestellt: Vorläufig gewählte Wahlkreisbewerber: |  |
+|  |  | ........................................................................................................................................................ |  |  |  |
+|  |  | (Familienname, Vornamen des Bewerbers sowie Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort)usw.Vorläufig gewählte Landeslistenbewerber: |  |  |  |
+|  |  | ........................................................................................................................................................ |  |  |  |
+|  |  | (Familienname, Vornamen des Bewerbers sowie Name der Partei und ihre Kurzbezeichnung) |  |  |  |
 |  |  |  |  |  |  |
-| 5. | Der Landeswahlleiter gab das Wahlergebnis des Landes mündlich bekannt. |  |
+| 5. | Nach der Feststellung des Gesamtergebnisses wurde die als Anlage zu dieser Niederschrift beigefügte Zusammenstellung nach Wahlkreisen vom Landeswahlleiter, von den Beisitzern und vom Schriftführer unterschrieben. |  |
+|  |  |  |  |  |  |
+| 6. | Der Landeswahlleiter gab das Wahlergebnis des Landes mündlich bekannt. |  |
 |  | Die Sitzung war öffentlich. |  |
 |  | Vorstehende Niederschrift wurde vom Landeswahlleiter, den Beisitzern und dem Schriftführer genehmigt und wie folgt unterschrieben: |  |
 |  |  |  |  |  |  |

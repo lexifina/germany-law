@@ -1,7 +1,7 @@
 # Anlage 9 (zu § 26)
 
 Wahlschein
-| Verlorene Wahlscheine werden nicht ersetzt | Verlorene Wahlscheine werden nicht ersetzt |
+|  |
 |  |  |  |  |
 | Wahlschein für die Wahl zum Deutschen Bundestag am ..................................................................................................................................................................... |
 | (Zu den Ziffern bis finden Sie Hinweise in den Erläuterungen) |

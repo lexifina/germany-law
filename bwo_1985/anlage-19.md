@@ -59,14 +59,12 @@ am .............................................................
 |  |  |  |  |
 | VII. | Die Namen/Die Kurzbezeichnung der Parteien ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................ |
 |  | ..................................................................................................................................................................................................................................................................................................... |
-|  | gaben zu Verwechslungen Anlass. |
-|  | Bei dem anderen Kreiswahlvorschlag (§ 20 Abs. 3 des Bundeswahlgesetzes) .................................................... fehlte das Kennwort/war das Kennwort geeignet, Verwechslungen hervorzurufen/erweckte das Kennwort den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei. |
+|  | gaben zu Verwechslungen Anlass. Der Bundeswahlausschuss hat in der Sitzung vom … eine Unterscheidungsbezeichnung beigefügt. |
+|  |  |
 |  | Die Vertrauensperson(en) des/der betroffenen Wahlvorschlages/Wahlvorschläge wurde(n) dazu gehört. |
 |  |  |  |  |
-| VIII. | Zur Vermeidung von Verwechslungen beschloss der Wahlausschuss, |
-|  | - | dem Wahlvorschlag ...................................................................................................................................................................................... folgende Unterscheidungsbezeichnung |
-|  |  | beizufügen: ..................................................................................................................................................................................................................................................................... |
-|  | - | dem Wahlvorschlag .......................................................................................................................................................................... den Bewerbernamen als Kennwort zu geben. |
+| VIII. | Bei dem anderen Kreiswahlvorschlag (§ 20 Absatz 3 des Bundeswahlgesetzes) ……………………………… fehlte das Kennwort/war das Kennwort geeignet, Verwechslungen hervorzurufen/erweckte das Kennwort den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei. Zur Vermeidung von Verwechslungen beschloss der Wahlausschuss, dem anderen Kreiswahlvorschlag (§ 20 Absatz 3 des Bundeswahlgesetzes) … den Bewerbernamen als Kennwort zu geben. |
+|  |  |  |
 | IX. | Der Kreiswahlausschuss beschloss sodann, folgende Kreiswahlvorschläge zuzulassen: |
 |  | 1. | Kreiswahlvorschlag der | ...................................................................................................................................................................................................................................................... |
 |  |  |  | (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort) |
@@ -99,7 +97,7 @@ am .............................................................
 |  |  |  |  |
 | X. | Die Entscheidung des Kreiswahlausschusses erfolgte einstimmig./Der Kreiswahlausschuss beschloss mit Stimmenmehrheit./Bei Stimmengleichheit gab die Stimme des Vorsitzenden den Ausschlag.Die Sitzung war öffentlich. |
 |  |  |  |  |  |
-| XI. | Der Kreiswahlleiter gab die Entscheidung des Kreiswahlausschusses in der Sitzung im Anschluss an die Beschlussfassung unter kurzer Angabe der Gründe bekannt und wies auf den zulässigen Rechtsbehelf hin. |
+| XI. | Der Kreiswahlleiter gab die Entscheidung des Kreiswahlausschusses unter der Bedingung, dass die Landesliste der einreichenden Partei nach § 28 des Bundeswahlgesetzes zugelassen wird, in der Sitzung im Anschluss an die Beschlussfassung unter kurzer Angabe der Gründe bekannt und wies auf den zulässigen Rechtsbehelf hin. |
 |  |  |  |  |  |
 | XII. | Vorstehende Niederschrift wurde vorgelesen, von dem Kreiswahlleiter, den Beisitzern und dem Schriftführer genehmigt und wie folgt unterschrieben: |
 |  |  |  |  |  |

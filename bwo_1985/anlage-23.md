@@ -63,7 +63,7 @@ usw.
 | □ | erhoben, aber von der Versammlung zurückgewiesen. Über die Einzelheiten wurden Niederschriften gefertigt,die als Anlage(n) Nr. ........................................................... bis Nr. ........................................... beigefügt sind. |
 |  |  |  |
 | Die Versammlung beauftragte | ............................................................................................................................................................... |
-|  |  | ...............................................................................................................................................................(Familiennamen und Vornamen von 2 Teilnehmern) |
+|  |  | ...............................................................................................................................................................(Familiennamen und Vornamen von mindestens zwei Teilnehmern) |
 |  |  |  |
 | neben dem Leiter die Versicherung an Eides statt darüber abzugeben, dass die Anforderungen gemäß § 27 Abs. 5 in Verbindung mit § 21 Abs. 3 Satz 1 bis 3 des Bundeswahlgesetzes beachtet worden sind. |
 |  |  |  |

@@ -20,7 +20,7 @@ Versicherung an Eides statt
 |  |  | ....................................., den ................................ |
 |  |  |  |
 |  |  |  |
-|  | Der Leiter der Versammlung | Die von der Versammlungbestimmten 2 Teilnehmer |
+|  | Der Leiter der Versammlung | Die von der Versammlung bestimmten weiteren Teilnehmer für die Abgabe der Versicherung an Eides statt |
 |  | ........................................................................................ | ........................................................................................ |
 |  | .........................................................................................(Vor- und Familienname des Unterzeichners in Maschinen- oder Druckschrift und handschriftliche Unterschrift) | ........................................................................................ |
 |  |  |  |

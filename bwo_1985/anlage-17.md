@@ -86,7 +86,7 @@
 | □ | Einwendungen gegen das Wahlergebnis wurden erhoben, aber von der Versammlung zurückgewiesen. Über die Einzelheiten wurden erläuternde Niederschriften gefertigt, die als Anlage(n) Nr. ................... bis Nr. ..................... beigefügt sind. |
 |  |
 | Die Versammlung beauftragte | .......................................................................................................................................................................................................................... |
-|  |  |  | .......................................................................................................................................................................................................................... (Familiennamen und Vornamen von 2 Teilnehmern) |
+|  |  |  | .......................................................................................................................................................................................................................... (Familiennamen und Vornamen von mindestens zwei Teilnehmern) |
 |  |  |  |  |  |
 | neben dem Leiter die Versicherung an Eides statt darüber abzugeben, dass die Anforderungen gemäß § 21 Abs. 3 Satz 1 bis 3 des Bundeswahlgesetzes beachtet worden sind. |
 | Der Leiter der Versammlung | Der Schriftführer |

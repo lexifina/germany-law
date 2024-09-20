@@ -116,18 +116,17 @@ des Briefwahlergebnisses](0074.md)
 - [§ 75 Zulassung der Wahlbriefe, Ermittlung und Feststellung des Briefwahlergebnisses](0075.md)
 - [§ 76 Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis](0076.md)
 - [§ 77 Ermittlung und Feststellung des Zweitstimmenergebnisses im Land](0077.md)
-- [§ 78 Abschließende Ermittlung und Feststellung des Ergebnisses der Landeslistenwahl](0078.md)
+- [§ 78 Abschließende Ermittlung und Feststellung des Ergebnisses](0078.md)
 - [§ 79 Bekanntmachung der endgültigen Wahlergebnisse](0079.md)
-- [§ 80 Benachrichtigung der gewählten Landeslistenbewerber](0080.md)
+- [§ 80 Benachrichtigung der gewählten Bewerber](0080.md)
 - [§ 81 Überprüfung der Wahl durch die Landeswahlleiter und
 den Bundeswahlleiter](0081.md)
 
-## Fünfter Abschnitt Nachwahl, Wiederholungswahl,
-Berufung von Listennachfolgern
+## Fünfter Abschnitt Nachwahl, Wiederholungswahl, Berufung von Nachfolgern
 
 - [§ 82 Nachwahl](0082.md)
 - [§ 83 Wiederholungswahl](0083.md)
-- [§ 84 Berufung von Listennachfolgern](0084.md)
+- [§ 84 Berufung von Nachfolgern](0084.md)
 
 ## Sechster Abschnitt Übergangs- und Schlussbestimmungen
 
@@ -141,7 +140,8 @@ Berufung von Listennachfolgern
 - [§ 92](0092.md)
 - [§ 93](0093.md)
 - [Anlage 1 (zu § 18 Absatz 6)](anlage-1.md)
-- [Anlage 2 (zu § 18 Abs. 5)](anlage-2.md)
+- [Anlage 2 (zu § 18 Absatz 4)](anlage-2.md)
+- [Anlage 2a (zu § 18 Absatz 5)](anlage-2a.md)
 - [Anlage 3 (zu § 19 Absatz 1)](anlage-3.md)
 - [Anlage 4 (zu § 19 Absatz 2)](anlage-4.md)
 - [Anlage 5 (zu § 20 Abs. 1)](anlage-5.md)
@@ -159,18 +159,18 @@ Berufung von Listennachfolgern
 - [Anlage 17 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)](anlage-17.md)
 - [Anlage 18 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)](anlage-18.md)
 - [Anlage 19 (zu § 36 Abs. 6)](anlage-19.md)
+- [Anlage 19a zu § 38 Satz 1)](anlage-19a.md)
 - [Anlage 20 (zu § 39 Abs. 1)](anlage-20.md)
 - [Anlage 21 (zu § 39 Abs. 3)](anlage-21.md)
 - [Anlage 22 (zu § 39 Abs. 4 Nr. 1)](anlage-22.md)
 - [Anlage 23 (zu § 39 Abs. 4 Nr. 3)](anlage-23.md)
 - [Anlage 24 (zu § 39 Abs. 4 Nr. 3)](anlage-24.md)
 - [Anlage 25 (weggefallen)](anlage-25.md)
-- [Anlage 26 (zu § 28 Abs. 3 und § 45 Abs. 1)](anlage-26.md)
+- [Anlage 26 (zu § 28 Absatz 3 und § 45 Absatz 1)](anlage-26.md)
 - [Anlage 27 (zu § 48 Abs. 1)](anlage-27.md)
 - [Anlage 28 (zu § 71 Abs. 7 und § 75 Abs. 4)](anlage-28.md)
 - [Anlage 29 (zu § 72 Absatz 1)](anlage-29.md)
-- [Anlage 30 (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1,
-§ 78 Abs. 4)](anlage-30.md)
+- [Anlage 30 (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)](anlage-30.md)
 - [Anlage 31 (zu § 75 Absatz 5)](anlage-31.md)
-- [Anlage 32 (zu § 76 Abs. 6)](anlage-32.md)
+- [Anlage 32 (zu § 76 Absatz 6)](anlage-32.md)
 - [Anlage 33 (zu § 77 Abs. 4)](anlage-33.md)

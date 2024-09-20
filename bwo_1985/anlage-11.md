@@ -1,10 +1,10 @@
 # Anlage 11 (zu § 28 Abs. 3 und § 45 Abs. 4)
 
 Vorderseite des Wahlbriefumschlags
-(etwa 12,0 x 17,6 cm) hellrot (maschinenlesbar)
+hellrot (maschinenlesbar)
 |  |  |  |  |  |  |  |
 |  | Ausgabestelle: ............................................................................................ (Gemeindebehörde, Ort) |  |  |  |  |  |
-|  | Wahlschein-Nr.: |  |  | unentgeltlichaußschließlichinnerhalb derBundesrepublikDeutschlandbei Versendungdurch .. | unentgeltlichaußschließlichinnerhalb derBundesrepublikDeutschlandbei Versendungdurch .. |  |  |
+|  | Wahlschein-Nr.: |  |  | Unentgeltliche Beförderung in Deutschland durch | Unentgeltliche Beförderung in Deutschland durch |  |  |
 |  | ______________________________________________________ |  |  |  |  |
 |  | Wahlbezirk: .................................................................................................. |  |  |  |  |
 |  |  |  | Wahlbrief |  |  |
@@ -21,7 +21,7 @@ Rückseite des Wahlbriefumschlags
 |  | In diesen Wahlbriefumschlagmüssen Sie einlegen |  |
 |  |  | 1. | den Wahlschein |  |  |  |  |  |
 |  |  |  | und |  |  |  |  |  |
-|  |  | 2. | den verschlossenen blauen Stimmzettelumschlag |  |  |  |  |  |
+|  |  | 2. | den verschlossenen weißen Stimmzettelumschlag |  |  |  |  |  |
 |  |  |  | mit dem darin befindlichen Stimmzettel. |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  | Sodann den Wahlbriefumschlag zukleben. |  |  |
