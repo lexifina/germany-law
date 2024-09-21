@@ -39,11 +39,12 @@ Tarifziffer | Rechtsgebiet
 60 | Bundes-Bodenschutzgesetz
 7 | Umweltinformationsrecht
 70 | Umweltinformationsgesetz
-8 | Energieaufsicht, Strompreise
+8 | Klimaschutz- und Energierecht
 80 | Energiewirtschaftsgesetz
 81 | Bremisches Energiegesetz
 82 | Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme
 9 | Umweltverträglichkeit
+90 | Gesetz über die Umweltverträglichkeitsprüfung
 1 | Abfallrecht |  |  |  | 
 10 | Maßnahmen aufgrund des Kreislaufwirtschafts- und Abfallgesetz - KrW-/AbfG |  |  |  | 
 10.1 | Maßnahmen im Zusammenhang mit Deponien |  |  |  | 
@@ -556,82 +557,53 @@ Tarifziffer | Rechtsgebiet
  | - | Herstellung von Kopien auf sonstigen Datenträgern oder Filmkopie | in Höhe der entstandenen Kosten |  | 
  | - | Aufwand für besondere Verpackung und besondere Beförderung | in Höhe der entstandenen Kosten |  | 
  | Auslagen werden nicht erhoben in den Fällen der Amtshandlungen, für die nach § 7 Absatz 1 Satz 2 Nummer 3 BremUIG Kostenfreiheit besteht. |  |  |  | 
-8 | Energieaufsicht, Strompreise |  |  |  | 
+8 | Klimaschutz- und Energierecht |  |  |  | 
 80 | Maßnahmen aufgrund des Energiewirtschaftsgesetzes - EnWG |  |  |  | 
-80.1 | Genehmigung nach § 4 Absatz 1 | 110 bis 8 250 |  |  | 
-80.2 | Genehmigung der Entgelte für den Netzzugang nach § 23 a | 1 000 bis 50 000 |  |  | 
-80.3 | Festlegungen oder Genehmigungen nach § 29 Absatz 1 i.V.m. |  |  |  | 
-80.3.1 | § 27 Absatz 1 StromVZV | 1 500 bis 150 000 |  |  | 
-80.3.2 | § 27 Absatz 2 StromVZV | 2 500 bis 70 000 |  |  | 
-80.3.3 | § 27 Absatz 3 StromVZV | 8 000 bis 80 000 |  |  | 
-80.3.4 | § 28 Absatz 1 bis 4 StromNZV | 20 000 bis 150 000 |  |  | 
-80.3.5 | § 50 Absatz 1 GasNZV | 10 000 bis 180 000 |  |  | 
-80.3.6 | § 50 Absatz 2 GasNZV | 10 000 bis 175 000 |  |  | 
-80.3.7 | § 50 Absatz 3 Satz 1 oder 2 GasNZV | 10 000 bis 90 000 |  |  | 
-80.3.8 | § 50 Absatz 4 GasNZV | 25 000 bis 160 000 |  |  | 
-80.3.9 | § 50 Absatz 5 GasNZV | 8 000 bis 80 000 |  |  | 
-80.3.10 | § 19 Absatz 2 StromNEV | 500 bis 15 000 |  |  | 
-80.3.11 | § 29 StromNEV | 500 bis 5 000 |  |  | 
-80.3.12 | § 30 Absatz 1, 2 oder 3 StromNEV | 1 000 bis 15 000 |  |  | 
-80.3.13 | § 29 GasNEV | 500 bis 5 000 |  |  | 
-80.3.14 | § 30 Absatz 1, 2 oder 3 GasNEV | 1 000 bis 20 000 |  |  | 
-80.3.15 | § 32 Absatz 1 Nummer 1 ARegV | 500 bis 100 000 |  |  | 
-80.3.16 | § 32 Absatz 1 Nummer 1 und § 4 Absatz 2 ARegV | 1 000 bis 80 000 |  |  | 
-80.3.17 | § 32 Absatz 1 Nummer 1 und § 4 Absatz 4 ARegV | 500 bis 40 000 |  |  | 
-80.3.18 | § 32 Absatz 1 Nummer 1 und § 26 Absatz 2 ARegV | 500 bis 50 000 |  |  | 
-80.3.19 | § 32 Absatz 1 Nummer 2 ARegV | 500 bis 50 000 |  |  | 
-80.3.20 | § 32 Absatz 1 Nummer 3 ARegV | 500 bis 50 000 |  |  | 
-80.3.21 | § 32 Absatz 1 Nummer 4 ARegV | 1 000 bis 100 000 |  |  | 
-80.3.22 | § 32 Absatz 1 Nummer 4a ARegV | 500 bis 50 000 |  |  | 
-80.3.23 | § 32 Absatz 1 Nummer 5 ARegV | 500 bis 100 000 |  |  | 
-80.3.24 | § 32 Absatz 1 Nummer 6 ARegV | 500 bis 50 000 |  |  | 
-80.3.25 | § 32 Absatz 1 Nummer 7 ARegV | 500 bis 80 000 |  |  | 
-80.3.26 | § 32 Absatz 1 Nummer 8 und § 23 ARegV | 500 bis 80 000 |  |  | 
-80.3.27 | § 32 Absatz 1 Nummer 8 ARegV | 500 bis 100 000 |  |  | 
-80.3.28 | § 32 Absatz 1 Nummer 8a ARegV | 1 000 bis 100 000 |  |  | 
-80.3.29 | § 32 Absatz 1 Nummer 9 und § 24 Absatz 4 S. 3 ARegV | 500 bis 10 000 |  |  | 
-80.3.30 | § 32 Absatz 1 Nummer 9 ARegV | 1 000 bis 50 000 |  |  | 
-80.3.31 | § 32 Absatz 1 Nummer 10 ARegV | 500 bis 100 000 |  |  | 
-80.3.32 | § 32 Absatz 1 Nummer 11 ARegV | 500 bis 100 000 |  |  | 
-80.3.33 | § 32 Absatz 2 ARegV | 500 bis 100 000 |  |  | 
-80.4 | Änderung einer Festlegung oder Genehmigung nach § 29 Absatz 2 | 1 000 bis 180 000 |  |  | 
-80.5 | Anordnung der Abschöpfung des wirtschaftlichen Vorteils und Auferlegung der Zahlung des entsprechenden Geldbetrages gegenüber dem Unternehmen nach § 33 Absatz 1 | 2 500 bis 75 000 |  |  | 
-80.6 | Entscheidung über Einwände gegen Feststellungen nach § 36 Absatz 2 Satz 2 nach § 36 Absatz 2 Satz 3 | 110 bis 4 000 |  |  | 
-80.7 | Verpflichtung, eine Zuwiderhandlung gegen § 30 Absatz 1 abzustellen nach § 30 Absatz 2 | 2 500 bis 180 000 |  |  | 
-80.8 | Ablehnung eines Antrages nach § 31 Absatz 2 | 50 bis 5 000 |  |  | 
-80.9 | Entscheidungen nach § 31 Absatz 3 | 500 bis 180 000 |  |  | 
-80.10 | Aufsichtsmaßnahmen nach § 65 | 500 bis 180 000 |  |  | 
-80.11 | Entscheidungen nach § 110 Absatz 2 | 500 bis 30 000 |  |  | 
-80.12 | Entscheidungen nach § 110 Absatz 4 | 500 bis 30 000 |  |  | 
-80.13 | Erteilung von beglaubigten Abschriften nach § 91 Absatz 1 Satz 1 Nummer 4 | 15 |  |  | 
-80.14 | Planfeststellungsverfahren für Energieanlagen nach § 43 Absatz 1 Satz 1 einschließlich Umweltverträglichkeitsprüfung |  |  |  | 
+80.1 | Genehmigung nach § 4 Absatz 1 | 470 bis 8 670 |  |  | 
+80.2 | Für Amtshandlungen der Landesregulierungsbehörde bei der Wahrnehmung ihrer Aufgaben nach § 54 Absatz 2 werden Gebühren und Auslagen nach der Energiewirtschaftskostenverordnung in der jeweils gültigen Fassung erhoben |  |  |  | 
+80.3 | Entscheidung über Einwände gegen Feststellungen nach § 36 Absatz 2 Satz 2 nach § 36 Absatz 2 Satz 4 | 270 bis 4 230 |  |  | 
+80.4 | Planfeststellungsverfahren für Energieanlagen nach § 43 Absatz 1 oder 2 Satz 1 Nummer 2, 3, 4, 5, 7 oder 8, auch in Verbindung mit Satz 2 oder § 43l Absatz 2 einschließlich Umweltverträglichkeitsprüfung |  |  |  | 
  | bei Herstellungskosten von bis zu 500 000 Euro | 8 800 |  |  | 
  | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 800 zuzüglich 0,8 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro | 26 400 zuzüglich 0,4 v. H, der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro | 48 400 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 20 Mio. Euro | 75 900 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten |  |  | 
-80.15 | Plangenehmigung von Energieanlagen nach § 43 Absatz 1 Satz 2 | 50 v.H. der Gebühr nach 80.14 |  |  | 
- | Anmerkung zu 80.14 und 80.15: |  |  |  | 
- | Schließt das Planverfahren andere die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  |  | 
-80.16 | Feststellung der Behörde nach § 43 Absatz 1 Satz 3 | 220 bis 2 200 |  |  | 
-80.17 | Festsetzung der Entschädigung für unmittelbare Vermögensnachteile |  |  |  | 
- | nach § 44 Absatz 3 Satz 2 | 44 bis 440 |  |  | 
-80.18 | Feststellung nach § 45 Absatz 2 Satz 2 | 275 bis 8 470 |  |  | 
-80.19 | Verlangen und Prüfung des Nachweises nach § 49 Absatz 3 | 143 bis 2 860 |  |  | 
-80.20 | Anordnung von Maßnahmen nach § 49 Absatz 5 | 143 bis 4 290 |  |  | 
-81 | Maßnahmen aufgrund des Bremischen Energiegesetzes |  |  |  | 
-81.1 | Genehmigung nach § 19 BremEG | 110 bis 550 |  |  | 
+ | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro | 24 800 zuzüglich 0,4 v. H, der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro | 44 800 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 20 Mio. Euro | 69 800 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+80.5 | Planfeststellung durch Planergänzung nach § 43 Absatz 2 Satz 1 Nummer 1 Halbsatz 2 |  |  |  | 
+ | bei Herstellungskosten von bis zu 125 000 Euro | 2 600 |  |  | 
+ | mehr als 125 000 Euro bis zu 250 000 Euro | 5 300 |  |  | 
+ | mehr als 250 000 Euro bis zu 500 000 Euro | 5 300 zuzüglich 0,6 v. H. der 250 000 Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 6 800 zuzüglich 0,5 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 2,5 Mio. Euro bis zu 50 Mio. Euro | 16 800 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 50 Mio Euro bis zu 100 Mio. Euro | 206 800 zuzüglich 0,3 v. H. der 50 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 100 Mio. Euro | 356 800 zuzüglich 0,2 v.H. der 100 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+80.6 | Plangenehmigung von Energieanlagen nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes in Verbindung mit § 43 Absatz 4 | 50 v.H. der Gebühr nach 80.4 oder 80.5 |  |  | 
+ | Anmerkungen zu 80.4 bis 80.6: |  |  |  | 
+ | Schließt das Planverfahren andere das Vorhaben betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  |  | 
+ | Wird in dem Planverfahren ein Projektmanager nach § 43g Absatz 1 beauftragt, so vermindert sich die Gebühr ohne die Gebühren für die eingeschlossenen Genehmigungen um jeweils 5 Prozent, sofern die Aufgaben nach § 43g Absatz 1 Nummer 1 bis 5 und 7 bis 9 beauftragt werden sowie um 10 Prozent, sofern die Aufgabe nach § 43g Absatz 1 Nummer 10 beauftragt wird. Wird ein Projektmanager mit Aufgaben beauftragt, die nicht in § 43g Absatz 1 aufgeführt sind, wird die Gebühr angemessen vermindert, einschließlich der Verminderungen nach Satz 1 jedoch maximal um 50 Prozent. |  |  |  | 
+80.7 | Verlängerung der Geltungsdauer einer Planfeststellung oder Plangenehmigung nach § 43c Nummer 1 | 25 v.H. der Gebühr nach 80.4 bis 80.6 |  |  | 
+80.8 | Entscheidung über die Freistellung von einem förmlichen Verfahren nach § 43f Absatz 4 Satz 4 | 10 v.H. der Gebühr nach 80.4 |  |  | 
+80.9 | Entscheidung über einen Antrag auf Erlass einer Duldungsanordnung nach § 44 Absatz 2 Satz 2 | 110 bis 1 090 |  |  | 
+80.10 | Entscheidung über einen Antrag auf Festsetzung einer Entschädigung nach § 44 Absatz 3 Satz 2 | 90 bis 1 090 |  |  | 
+80.11 | Entscheidung über einen Antrag auf vorzeitige Besitzeinweisung nach § 44b Absatz 1 oder 1a | 220 bis 1 090 |  |  | 
+80.12 | Aufhebung einer vorzeitigen Besitzeinweisung nach § 44b Absatz 6 Satz 1 | 90 bis 530 |  |  | 
+80.13 | Festsetzung einer Entschädigung nach § 44b Absatz 5 Satz 2 oder Absatz 6 Satz 2 | 90 bis 530 |  |  | 
+80.14 | Feststellung der Zulässigkeit einer Enteignung nach § 45 Absatz 2 Satz 3 | 470 bis 8 230 |  |  | 
+80.15 | Verlangen und Prüfung des Nachweises nach § 49 Absatz 3 Satz 2 | 360 bis 3 120 |  |  | 
+80.16 | Anordnung von Maßnahmen nach § 49 Absatz 5 | 450 bis 3 560 |  |  | 
+81 | Maßnahmen aufgrund des Bremischen Klimaschutz- und Energiegesetzes |  |  |  | 
+81.1 | Befreiungen nach § 15 Absatz 2 Satz 1 | 90 bis 710 |  |  | 
 82 | Maßnahmen aufgrund der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme |  |  |  | 
-82.1 | Entscheidung über die Anzeige nach § 17 Absatz 2 | 550 bis 1 100 |  |  | 
+82.1 | Entscheidung über die Anzeige nach § 17 Absatz 2 | 530 bis 1 340 |  |  | 
 9 | Umweltverträglichkeit |  |  |  | 
-90 | Gesetz über die Umweltverträglichkeitsprüfung - UVPG und Verordnung über Rohrfernleitungsanlagen (Rohrfernleitungsverordnung) |  |  |  | 
-90.1 | Planfeststellungs- und Plangenehmigungsverfahren nach § 20 UVPG für Rohrleitungen nach Nummern 19.3 bis 19.9 der Anlage 1 zum UVPG sowie Planfeststellungsverfahren nach § 20 Satz 1 UVPG einschließlich Umweltverträglichkeitsprüfung für Vorhaben, die in der Anlage 1 zum UVPG unter den Nummern 19.3 bis 19.9 aufgeführt sind, sowie deren Änderung |  |  |  | 
- | bei Herstellungskosten von bis zu 500 000 Euro | 8 000 |  |  | 
- | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 000 zuzüglich 0,8 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro | 24 000 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro | 44 000 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
- | mehr als 20 Mio. Euro | 69 000 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten |  |  | 
-90.2 | Plangenehmigung nach § 20 Satz 2 UVPG für Vorhaben, die in der Anlage 1 zum UVPG unter den Nummern 19.3 bis 19.9 aufgeführt sind | 50 v. H. der Gebühr nach 90.1 |  |  | 
+90 | Gesetz über die Umweltverträglichkeitsprüfung - UVPG |  |  |  | 
+90.1 | Planfeststellungsverfahren nach § 65 Absatz 1 für Rohrleitungen nach den Nummern 19.3 bis 19.9 der Anlage 1 zum UVPG |  |  |  | 
+ | bei Herstellungskosten von bis zu 500 000 Euro | 8 800 |  |  | 
+ | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 800 zuzüglich 0,8 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 500 000 Euro bis zu 2,5 Mio. Euro | 8 800 zuzüglich 0,8 v. H. der 500 000 Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro | 24 800 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro | 44 800 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten |  |  | 
+ | mehr als 20 Mio. Euro | 69 800 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten | xxx |  | 
+90.2 | Plangenehmigung nach § 65 Absatz 2 für Vorhaben, die in der Anlage 1 zum UVPG unter den Nummern 19.3 bis 19.9 aufgeführt sind | 50 v. H. der Gebühr nach 90.1 |  |  | 
  | Anmerkung zu 90.1 und 90.2: |  |  |  | 
- | Schließt das Planfeststellungs- und das Plangenehmigungsverfahren andere, die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  |  | 
-90.3 | Entscheidung über das Entfallen einer Plangenehmigung nach § 20 Absatz 2 Satz 2 UVPG | nach Zeitaufwand |  |  | 
+ | Schließt das Planfeststellungs- oder das Plangenehmigungsverfahren andere, die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  |  | 
+90.3 | Entscheidung über das Entfallen einer Plangenehmigung nach § 65 Absatz 2 Satz 2 UVPG | nach Zeitaufwand |  |  | 
