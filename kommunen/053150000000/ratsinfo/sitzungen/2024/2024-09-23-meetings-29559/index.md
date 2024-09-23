@@ -1,0 +1,100 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-23T16:00:00+02:00
+- Ende: 2024-09-23T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29559
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29559
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zu Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach 24 GO NRW - Beseitigung von Schlaglöchern, Az.: 55/24 - Kenntnis genommen
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW – Verkehrssituation in Köln-Braunsfeld, Baumeisterviertel, AZ 93/24 - Kenntnis genommen
+- TOP 5.2: Bürgereingaben
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage: Bauvorhaben Kirchenhof, Wendelinstr. 48 - zurückgestellt
+- TOP 7.2.2: Anfrage Split im Landschaftsschutzgebiet - zurückgestellt
+- TOP 7.2.3: Anfrage zur studiobühneköln - zurückgestellt
+- TOP 7.2.4: Parkplatzgebühren am Decksteiner Weiher - zurückgestellt
+- TOP 7.2.5: Grundstück der Firma Lidl an der Widdersdorfer Straße 254 - zurückgestellt
+- TOP 7.2.6: Anfrage Bewohnerparken Baumeisterviertel - zurückgestellt
+- TOP 7.2.7: Anfrage Fahrradstraße - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Konzeption für Störungen auf der Schiene im Kölner Westen - ungeändert beschlossen
+- TOP 8.1.2: Erhalt der Rotbuche im Mönchshof in Hohenlind - ungeändert beschlossen
+- TOP 8.1.3: Spielstraße in Köln Weiden - ungeändert beschlossen
+- TOP 8.1.4: Abstellzonen für E-Scooter und Leihräder - ungeändert beschlossen
+- TOP 8.1.5: Ausschilderung Bushaltestellen am Bf Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.6: Fort Deckstein/SC Blau-Weiß Köln: Qualitative und quantitative Optimierung der provisorischen Sanitäranlagen und Schaffung von Umkleidekabinen - ungeändert beschlossen
+- TOP 8.1.7: Einrichtung einer Stadtteilbibliothek in Müngersdorf - ungeändert beschlossen
+- TOP 8.1.8: Aufstellen zweier Bänke in Lövenich auf dem sog. ,LESEWURMPLATZ’ - ungeändert beschlossen
+- TOP 8.1.9: Antrag Kleinkinderschaukel - ungeändert beschlossen
+- TOP 8.1.10: Tierpark Lindenthal – Ersetzungsantrag zu AN/0848/2024 - ungeändert beschlossen
+- TOP 8.1.11: Personal für den Stadtbahnausbau Gürtel - ungeändert beschlossen
+- TOP 8.1.12: Errichtung von Fahrradabstellplätzen vor der Förderschule in der Zülpicher Straße - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Neue Gebührenordnung für das Ausstellen von Bewohnerparkausweisen der Stadt Köln (Bewohnerparkgebührenordnung) für den Zeitraum 01.10.2024 bis 28.02.2025 - ungeändert beschlossen
+- TOP 9.1.2: Widmung verschiedener Flurstücke der Stichstraße Jungbluthgasse zu Haus-Nr. 8-32 in Köln-Junkersdorf - ungeändert beschlossen
+- TOP 9.1.3: Errichtung eines "Offenen Bücherschrankes" - ungeändert beschlossen
+- TOP 9.1.4: Öffentlichkeitsbeteiligung zu einer möglichen Umbenennung der Ostlandstraße - ungeändert beschlossen
+- TOP 9.1.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 9.1.6: Einrichtung eines Schutzstreifens für Radfahrende auf der Gleueler Straße im Abschnitt zwischen der Freiligrathstraße und der Decksteiner Straße - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 9.2.2: Umstufung der Kreisstraße 6 - Leonhardsgasse - in Köln-Widdersdorf von freie Strecke in Ortsdurchfahrt - ungeändert beschlossen
+- TOP 9.2.3: 247. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Lindenthal und im Stadtbezirk 4, Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 9.2.4: Städtebauliches Planungskonzept "Green Campus" Oskar-Jäger-Straße/Melatengürtel in Köln-Braunsfeld und Ehrenfeld - geändert beschlossen
+- TOP 9.2.5: Nutzungs- und Entgeltordnung für die Nutzung von Schulraum für nichtschulische Zwecke einschließlich der Allgemeinen Nutzungsbedingungen - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über die Einleitung der 1. Änderung (Teilaufhebung) des Bebauungsplanes 65439/04 (6442 Nb/04), Arbeitstitel: Greinstraße in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.7: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplanverfahren Nr. 65430/10 Nördlich Weißhausstraße in Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.8: Planfeststellungsverfahren für das Vorhaben "Ultranet - Höchstspannungsleitung Osterath-Philippsburg, Abschnitt E1" - geändert beschlossen
+- TOP 9.2.9: "Modernes Frischezentrum bzw. Food Hub", hier: Nutzungskonzept - geändert beschlossen
+- TOP 9.2.10: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 9.2.11: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - zurückgestellt
+- TOP 9.2.12: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch die Bildung eines Teilstandortes am Standort Zusestraße 47, 50859 Köln zum Schuljahr 2024/25. - ungeändert beschlossen
+- TOP 9.2.13: Haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs.1 Nr.2 KomHVO i.V.m. §12 der Haushaltssatzung 2023/2024 Jugendzentrum "Alte Schule Widdersdorf" - Erneuerung des Bewegungsraum Pavillon - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Fünfter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.1.2: Niederschrift zur 8. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 19.03.2024 - Kenntnis genommen
+- TOP 11.1.3: 43. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 11.1.4: Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2023 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.1.5: Qualitätsbericht 2023 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Bilanz des Sportamtes zur UEFA EURO 2024 - Kenntnis genommen
+- TOP 11.3.2: Status quo- und Chancen- & Mängel-Analyse "Besser durch Köln. Der nachhaltige Mobilitätsplan" - Kenntnis genommen
+- TOP 11.3.3: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 11.3.4: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 11.3.5: Pilotanwendung der Piktogrammkette für den Radverkehr - Kenntnis genommen
+- TOP 11.3.6: Sachstand Maßnahmenpaket für die Sanierung und Neubau von Schulsporthallen - Anfrage AN/0174/2024 der FDP-Fraktion zur Sitzung vom 11.03.2024 - Kenntnis genommen
+- TOP 11.3.7: Ämterübergreifende Zusammenarbeit bei Projekten im öffentlichen Raum - Stadtplanungsamt (61) und Amt für Straßen und Radwegebau (66) - Kenntnis genommen
+- TOP 11.3.8: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 11.3.9: (Neu-)Aufstellung der verkehrlichen Bedarfspläne des Landes NRW - Kenntnis genommen
+- TOP 11.3.10: Entwicklungsplanung Weststadt; hier: Start Öffentlichkeitsbeteiligung und Beteiligungsprozess - Kenntnis genommen
+- TOP 11.3.11: Sportentwicklungsplanung - Sportlabor im Sportpark Müngersdorf - Kenntnis genommen
+- TOP 11.3.12: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 11.3.13: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
+- TOP 11.3.14: Niederschrift zur 10. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 25.06.2024 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 16.2.2: neuer TOP 11.3.14 - Kenntnis genommen
