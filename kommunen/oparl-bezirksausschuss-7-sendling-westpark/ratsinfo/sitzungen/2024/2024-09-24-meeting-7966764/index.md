@@ -1,0 +1,173 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966764
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966764
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-08
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Umgestaltung Luise-Kiesselbach-Platz
+- TOP 6.2.: Dauerparker Luise Kiesselbach Platz
+- TOP 6.3.: Umbau Hotel-Unterkünfte für Geflüchtete
+- TOP 6.4.: Bauarbeiten ehemaliges Aigner-Gelände
+- TOP 6.5.: Westpark
+- TOP 6.6.: Vorschlag bezüglich Baumpflanzung
+- TOP 6.7.: Petition Luise-Kiesselbach-Platz
+- TOP 6.8.: Müllablagerung an Containerinseln
+- TOP 6.9.: Unbrauchbare Fahrradständer an U-Bahn-Haltestellen
+- TOP 6.10.: Äste und Astbruch in der Rüdesheimer Straße
+- TOP 6.11.: Beleuchtung Westendstraße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 8.1.: Beleuchtung Westpark
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget Init. „11 Länder“ „3410km / 70 Tage/ 11 Länder vom 13.09.2024 – 21.09.2024“ 1.100,00 € / AZ: 0262.0-7-0494
+- TOP 10.2.: (E) Stadtbezirksbudget Feierwerk e.V. „Kulturfestival „Dschungel“ vom 26.10.2024 – 03.11.2024“ 3.500,00 € / AZ: 0262.0-7-0499
+- TOP 10.3.: (E) Stadtbezirksbudget Förderverein Erasmus Grasser Gymnasium „Kennenlernfrühstück für die neuen 5. Klassen – Eltern vom 25.09.2024 – 27.09.2024“ 750,00 € / AZ: 0262.0-7-0492
+- TOP 11.: Anträge
+- TOP 11.1.: Lochhammer Schlag
+- TOP 11.2.: Bessere Auslastung und Nutzung von TATZ für Jugendliche
+- TOP 11.3.: Scharnitzstraße vor der Hausnummer 12 Antrag auf absolutes Halteverbot von Montag bis Freitag
+- TOP 11.4.: Verkehrszahlen Mobilitätsreferat für LKP und Garmischer Straß
+- TOP 11.5.: Machbarkeitsstudie Bildungscampus Westpark
+- TOP 11.6.: Betrieb der Wasseranlagen im Westpark
+- TOP 11.7.: Bestellung einer städtischen Leistung: Neue Standorte für TOPO-Box-Messungen
+- TOP 11.8.: Teilnahme an der Münchner Tafel auch für Stadtteilbewohner*innen mit Mobilitätseinschränken
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.1.1.: Bericht des Vorsitzenden 2024-09
+- TOP 13.1.2.: Fragebogen Wessobrunner Str.
+- TOP 13.1.3.: BA-Empfang 2024 - Abrechnung
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.1.: Bauvorhaben Westendstr.
+- TOP 15.2.: Bauvorhaben Ehrwalder Str.
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 17.1.: Anhörung, Westpark, Laternenumzug Montessori Kinderhaus
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 29.1.: Anhörung Lärmaktionsplan 2024
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 30.1.: Perspektive München - Handlungsräume der Stadtentwicklung
+- TOP 30.2.: Tram-Westtangente
+- TOP 31.: Sozialreferat
+- TOP 31.1.: Bestellung einer städtischen Leistung: Ferienpässe für Sendling-Westpark
+- TOP 31.2.: Verlängerung 5 Standorte
+- TOP 32.: Weitere Anhörungen
+- TOP 33.: Baureferat
+- TOP 33.1.: Straßenzustand Weilheimer Straße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 36.1.: Fristverlängerung Neuer Standort für den BA-Schaukasten Hansa/Ortlerstraße
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Bauvorhaben
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Haltverbot Zillertal- Ortlerstraße
+- TOP 40.2.: Weitere Kurzzeitparkplätze vor dem Haus St. Josef (Luise Kiesselbach Pl.)
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Nutzungsänderung Albert-Roßhaupter-Str. 22
+- TOP 46.: Sozialreferat
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 49.1.: Sanierung Spielturm in der Spielzone Ost - Information
+- TOP 49.2.: Baumentfernungen
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Protokoll BA-Vorsitzende-Treffen
+- TOP 51.2.: Verwendungsnachweis Kinderfest Baugenossenschaft.
+- TOP 51.3.: VerwendungsnachweisKulturraum Binario
+- TOP 52.: Kommunalreferat
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Gastsättenübernahme
+- TOP 53.2.: Bescheid, Westpark, kleine Wiese Ostseite, Spendenlauf
+- TOP 53.3.: Bescheid, Westpark, kleine Zirkuswiese, Puppentheater Maatz
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Containerburg Hansastr.
+- TOP 56.2.: Fahrbahnsanierung Krüner Str.
+- TOP 56.3.: Informationsschreiben Sommerstraße und Aufruf für Saison 2025
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 60.1.: Kanalsanierungen in der Hinterbärenbadstraße und Erzgießereistraße
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 61.1.: Baumfällung Konrad-Celtis-Str.
+- TOP 62.: Sozialreferat
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Sachbericht Dschungelpalast Sommerferienprogramm am Wasserspielplatz
+- TOP 63.2.: Flyer Fernwärme Hansastraße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 65.1.: Erhaltungssatzung Johann-Houis-Straße
+- TOP 65.2.: Erhaltungssatzung Albert-Roßhaupter-Straße
+- TOP 65.3.: Vorkaufsrecht Euckenstraße
+- TOP 15.3.: Bauvorhaben Albert-Roßhaupter-Str.
+- TOP 17.2.: Anhörung, Luise-Kiesselbach-Platz, Christkindlmarkt
+- TOP 12.6.1.: Einladung P+G
+- TOP 17.3.: Anhörung, Westpark, Clematiswiese, Spielenachmittage des RBS - Freitzeitsport, ganzjährig
+- TOP 12.1.1.: Einladadung UA Bau,Stadtplanung und Umwelt
+- TOP 12.3.1.: Einladung UA Haushalt
+- TOP 12.4.1.: Einladung SuK
+- TOP 12.5.1.: Protokoll MuW
+- TOP 62.1.: Information des Bezirksausschusses 7 zur Erweiterung der Unterkunft für Geflüchtete in der Gerty-Spies-Str.
+- TOP 12.1.2.: Protokoll BSU
+- TOP 12.4.2.: Protokoll SuK
+- TOP 12.4.3.: Präsentation der Projektvorstellung Gesund vor Ort
+- TOP 12.6.2.: Protokoll UA PuG
+- TOP 25.1.: Parkraummanagement in München - Umsetzung Sektor VI, Teil 2
+- TOP 12.2.1.: Protokoll UA-BuS
+- TOP 12.3.2.: Protokoll UA Haushalt
+- TOP 8.2.: (E) Beleuchtung für Fußweg vom Westpark zur Straße Am Westpark Parkbeleuchtung am Westpark
