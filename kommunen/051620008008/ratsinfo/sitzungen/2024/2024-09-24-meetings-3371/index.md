@@ -1,0 +1,54 @@
+# Verwaltungsrat
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-09-24T18:05:00+02:00
+- Ende: 2024-09-24T19:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/78
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3371
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3371
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Benennung einer Zweitunterzeichnerin / eines Zweitunterzeichners - einstimmig beschlossen
+- TOP 3: Jahresabschluss 2021 der Stadtbetriebe Grevenbroich AöR - einstimmig beschlossen
+- TOP 4: Lärmaktionsplan für die Stadt Grevenbroich gemäß EU-Umgebungslärmrichtlinie - Kenntnisnahme
+- TOP 5: Energiebericht 2023 - Kenntnisnahme
+- TOP 6: Mängelmelder - Auswertung Stand August 2024 - Kenntnisnahme
+- TOP 7: Entscheidung über Beratungspunkte aus der Sitzung des Beirats Bauen vom 21.08.2024
+- TOP 7.1: Geländer Stützmauer an der Erft - einstimmig beschlossen
+- TOP 7.2: Verkehrsmaßnahme (Geschwindigkeitsbegrenzung) in Neukirchen von Bilderstöckchen L142 bis zur Wehler Straße (Ortsausgang) - einstimmig beschlossen
+- TOP 7.3: Verkehrssicherheit in Frimmersdorf und Neurath - einstimmig beschlossen
+- TOP 7.4: Maßnahmen zur Verkehrssicherung „Am Glockenstrauch“ in Frimmersdorf - einstimmig beschlossen
+- TOP 7.5: Schulwegsicherung zur Viktoria-Grundschule in Frimmersdorf - einstimmig beschlossen
+- TOP 7.6: Mittelbereitstellungen für Radfurten-Markierungsarbeiten und Anpassungsmaßnahmen nach der Verkehrsschau im Oktober 2024 - mehrheitlich beschlossen
+- TOP 8: Entscheidung über Beratungspunkte aus der Sitzung des Beirats für Umwelt, Klimaschutz, Natur und Landschaftspflege vom 27.08.2024
+- TOP 8.1: Gestaltung der Grünflächen durch Zwiebelpflanzungen - einstimmig beschlossen
+- TOP 8.2: 2.Änderung der Baumschutzsatzung - mehrheitlich beschlossen
+- TOP 9: Beantwortung von schriftlichen Anträgen und Anfragen aus den letzten Sitzungen
+- TOP 9.1: Otmar Alts Turmkater säubern bzw. restaurieren - Kenntnisnahme
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: Anträge der SPD-Fraktion
+- TOP 10.1.1: Zigarettenkippen kreativ bekämpfen - einstimmig beschlossen
+- TOP 10.2: Anträge der CDU-Fraktion
+- TOP 10.2.1: Antrag zur Aufhebung des Linksabbiegeverbotes von der Bahnstraße (2.BA ISEK) / Ecke Ostwall in Richtung Ostwall (Lindenstraße) - einstimmig beschlossen
+- TOP 10.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 10.3.1: Fahrradständer am Synagogenplatz - einstimmig beschlossen
+- TOP 10.4: Anträge der FDP-Fraktion
+- TOP 10.4.1: Mensch-Tier-Bestattungen in Grevenbroich ermöglichen - Friedhofssatzung anpassen - einstimmig beschlossen
+- TOP 10.4.2: Schaffung einer Sitzgelegenheit am neuen Urnenwahlgrabfeld Wevelinghoven - einstimmig beschlossen
+- TOP 10.4.3: Erstellung und Kommunikation von Zielbildern für die Friedhöfe im Stadtgebiet - einstimmig beschlossen
+- TOP 10.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 10.6: Anträge der UWG-Fraktion
+- TOP 11: Gemeinschaftsanträge
+- TOP 11.1: Neues Straßenverkehrsgesetz: Umsetzung neuer Tempo-30-Zonen - einstimmig beschlossen
+- TOP 11.2: Geschwindigkeitsbegrenzungen und LKW Durchfahrverbote für innerörtliche Teile der L361 - einstimmig beschlossen
+- TOP 12: Schriftliche Anfragen
+- TOP 12.1: Anfragen der FDP-Fraktion
+- TOP 12.1.1: Die unendliche Geschichte: Zustand der Gindorfer Gassen - Kenntnisnahme
+- TOP 13: Anfragen von Verwaltungsratsmitgliedern
+- TOP 14: Mitteilungen des Vorstandes
+- TOP 15: Mitteilungen des Verwaltungsratsvorsitzenden
