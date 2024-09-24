@@ -1,0 +1,65 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2024-09-24T18:00:00+02:00
+- Ende: 2024-09-24T21:42:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUE1PkxqdD1KYbRGEv6qbcM
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21383
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU_sRmxQBHh9GC0H6MDppp0-x2YZP7k9laGAv04HI22I/Bekanntmachung_Rat_24.09.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZda-ZpGmdwLRNhI5NvV6vzwcE9CCKXxMdvzT2LcB1gHq/Oeffentliche_Niederschrift_Rat_24.09.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 02.07.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Kindergartensituation im Höhengebiet; hier: Grundsatzbeschluss für die Bereiche Mutscheid, Effelsberg und Houverath - Beschluss siehe RD-NR. 1426-XI/Z-2.
+- TOP -: Kindergartensituation im Höhengebiet; hier: Grundsatzbeschluss für die Bereiche Mutscheid, Effelsberg und Houverath - Beschluss siehe RD-Nr. 1426-XI/Z-2.
+- TOP -: Kindergartensituation im Höhengebiet; hier: Grundsatzbeschluss für die Bereiche Mutscheid, Effelsberg und Houverath – Sachstandsbericht zur weiteren Prüfung sowie Schreiben des Elternbeirats der KiTa Lethert - Einstimmiger Beschluss:
+- TOP 5.: Beschaffung von Feuerwehrfahrzeugen hier: außerplanmäßige Ausgabe - Einstimmiger Beschluss bei 5 Enthaltungen:
+- TOP 6.: Vorstellung Hochwasserfrühwarnsystem durch das Unternehmen Okeanos sowie Beschaffung erster Komponenten zum Aufbau eines Frühwarnsystems - Einstimmiger Beschluss:
+- TOP 7.: Sachstand und Zukunft "Alter Kurpark" hier: Antrag nach § 24 GO NRW vom 07.08.2024 - Beschluss siehe 1445-X/Z-1.
+- TOP -: Sachstand und Zukunft "Alter Kurpark" Antrag nach § 24 GO NRW vom 07.08.2024 hier: Ausführung der Verwaltung - Einstimmiger Beschluss:
+- TOP -: Sachstand und Zukunft "Alter Kurpark" Antrag nach § 24 GO NRW vom 07.08.2024 hier: Weitere eingereichte Unterlagen - Beschluss siehe RD-Nr. 1445-XI/Z-1.
+- TOP -: Sachstand und Zukunft "Alter Kurpark" Antrag nach § 24 GO NRW vom 07.08.2024 hier: Mail einer weiteren Bürgerin vom 14.09.2024 - Beschluss siehe RD-Nr. 1445-XI/Z-1.
+- TOP 8.: 4. Änderungssatzung zur Satzung über die Erhebung eines Kurbeitrages in Bad Münstereifel vom 31.05.1991 - Einstimmiger Beschluss:
+- TOP 9.: Satzung zur Erhebung von Benutzungsentgelten für die Inanspruchnahme städtischer Einrichtungen - Beschluss siehe RD-Nr. 1451-XI/Z-1.
+- TOP -: Satzung zur Erhebung von Benutzungsentgelten für die Inanspruchnahme städtischer Einrichtungen - Einstimmiger Beschluss:
+- TOP 10.: Artikelsatzung zur Anpassung örtlicher Satzungen an § 2b UStG - Einstimmiger Beschluss:
+- TOP 11.: 2. Satzung zur Änderung der Betriebssatzung der Stadt Bad Münstereifel für die Stadtwerke Bad Münstereifel vom 17.11.2005 Hier: Rechtliche Anpassung des § 14 der Betriebssatzung Stadtwerke - Beschluss siehe RD-Nr. 1440-XI/Z-1.
+- TOP -: 2. Satzung zur Änderung der Betriebssatzung der Stadt Bad Münstereifel für die Stadtwerke Bad Münstereifel vom 17.11.2005 Hier: Rechtliche Anpassung des § 14 der Betriebssatzung Stadtwerke - Einstimmiger Beschluss:
+- TOP 12.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Beschluss der Fortschreibung und Förderantrag Stadterneuerungsprogramm 2025 - Mehrheitlicher Beschluss bei 7 Nein-Stimmen und 1 Enthaltung:
+- TOP 13.: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Einstimmiger Beschluss:
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss siehe RD-Nr. 1427-XI.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss siehe RD-Nr. 1427-XI.
+- TOP 14.: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss siehe RD-Nr. 1428-XI.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss siehe RD-Nr. 1428-XI.
+- TOP 15.: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Kernstadt Bad Münstereifel hier: Bekanntmachung der Absicht der Teileinziehung - Einstimmiger Beschluss bei 8 Enthaltungen:
+- TOP 16.: Kommunale Wärmeplanung für die Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 17.: Errichtung eines neuen Außenbeckens im eifelbad hier: Anmeldung von Mehrkosten, Ausschreibung und Auftragsvergabe weiterer Gewerke - Mehrheitlicher Beschluss mit 4 Nein-Stimmen und 4 Enthaltungen:
+- TOP 18.: Erlass des Wirtschaftsplanes 2025 des Forstbetriebes der Stadt Bad Münstereifel hier: Einbringung des Entwurfes - Einstimmiger Beschluss:
+- TOP 19.: Genehmigung einer außerplanmäßigen Leistung Hier: Kapitalertragsteuer im Rahmen des BgA Abfallwirtschaft - Einstimmiger Beschluss:
+- TOP 20.: Jahresabschluss 2023 hier: Zuleitung des Entwurfs gem. § 95 Abs. 5 GO NRW - Einstimmiger Beschluss:
+- TOP 21.: 2. Verordnung vom _______ zur Änderung der Gebührenordnung für die Benutzung von Parkeinrichtungen im Gebiet der Stadt Bad Münstereifel vom 12.01.2015 (Parkgebührenordnung) - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 22.: Vergabe Rechtsberatungsleistungen im Rahmen der Vergabeverfahren des Wiederaufbaus - Einstimmiger Beschluss:
+- TOP 23.: Werbevertrag für die Vermietung von Werbeflächen - Einstimmiger Beschluss:
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Sachstandsbericht Gewässerübertragung an den Erftverband
+- TOP 24.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 24.3: Bericht zum 30.06.2024 im Rahmen des Finanzcontrollings
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Spielwiese in Iversheim; hier: Abschluss einer Vereinbarung zur Übertragung der Spiel-/Sportgeräte durch den DVI an die Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 2.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der e-regio GmbH & Co. KG an der Sun Park Weilerswist GmbH & Co. KG - Kapitalerhöhung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 3.: Beteiligung der e-regio GmbH & Co. KG an der Sun Park Scheven-Kalenberg GmbH & Co. KG – Gründung einer Projektgesellschaft - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 4.: Beteiligung der e-regio GmbH & Co. KG an der e-regio Energiekonzepte GmbH – Anteilserwerb von Mitgesellschafter - Beschluss s. RD-Nr. 1434-XI/Z-1.
+- TOP -: Beteiligung der e-regio GmbH & Co. KG an der e-regio Energiekonzepte GmbH – Anteilserwerb von Mitgesellschafter - Einstimmiger Beschluss:
+- TOP 5.: Vorlage Nutzungsvertrag Sportanlage / Kunstrasenplatz Arloff nach Wiederaufbau - Beschluss siehe RD-Nr. 1414-XI/Z-1.
+- TOP -: Vorlage Nutzungsvertrag Sportanlage / Kunstrasenplatz Arloff nach Wiederaufbau Hier: Finalisierter Nutzungsvertrag - Einstimmiger Beschluss bei 2 Enthaltungen:
+- TOP 6.: Kauf eines Hausgrundstücks in Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 7.: Anfragen und Mitteilungen
