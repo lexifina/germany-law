@@ -1,0 +1,110 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-09-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894617
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894617
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 27.08.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 27.08.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Straßenbenennung im 14. Stadtbezirk Berg am Laim Eisenbahnerweg
+- TOP 2.2.: (E) Parkverbot für Wohnwagen in der Hansjakobstr.
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Dingolfinger Str. 1- Nutzungsänderung Baukörper 7 und 8 als Hotel / Ten Towers im Leuchtenberg Park - VORBESCHEID
+- TOP 3.1.2.: Hachinger-Bach-Str. 19 - Unterbringung von Flüchtlingen - Vorhaben zur vorrübergehenden Unterbringung von 430 Flüchtlingen in Leichtbauhallen - befristet bis 31.12.2026
+- TOP 3.1.3.: Grafinger Str. 31 - Abbruch von Bestandsgebäuden und Neubau eines Büro- und Hotelgebäudes mit gewerblichen Nutzungen sowie Gastronomie im Erdgeschoss mit Tiefgarage - VORBESCHEID
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.7.: Abschnitt PFA 3 Ost (2. Stammstrecke): Planänderung - Vorprüfung; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 3.2.1.: Verkehrssituation in der Hansjakobstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Verkehrssituation in der Gustav-Schwab-Str.; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Lärmaktionsplan für München - Runde 4 Beteiligung der Bezirksausschüsse; Frist bis zum 30.09.2024 - vertagt aus dem Ferienausschuss vom 27.08.2024 -
+- TOP 3.2.4.: Neuer Spielplatz im Echardinger Anger: Radfahrer bitte absteigen!; Antrag der CSU-Fraktion
+- TOP 3.2.5.: Bitte um Herstellung und Instandhaltung öffentlicher Flächen am Gleispark Baumkirchen Mitte und Rosenheimer Bahndamm; Anliegen aus der Bürgerschaft
+- TOP 3.2.6.: Zustand des Gehwegbelags am Böcklerweg zwischen Damaschkestraßee und Kreuzerweg; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Informationsschreiben Sommerstraße und Aufruf für Saison 2025, Frist bis zum 31.10.2024
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.4.1.: Verlängerung von Unterkünften zur Unterbringung Geflüchteter am Standort Hachinger-Bach-Str. 19 - Beschlussentwurf; Anhörung des Sozialreferats
+- TOP 3.4.2.: Zeitgemäße Wohnformen Älterer, Bericht zum Stand der Umsetzung, Frist bis zum 07.10.2024; Anhörung des Sozialreferats
+- TOP 3.4.3.: Perspektiven der Beratungsstruktur für ältere Menschen und Angehörige in München, Frist bis zum 26.09.2024; Anhörung des Sozialreferats
+- TOP 3.4.4.: Standortbeschluss zur Unterbringung wohnungsloser Haushalte Neubau eines Flexi-Heims Variante 1 für Familien Kreillerstraße 129, Frist bis zum 26.09.2024; Anhörung des Sozialreferats
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Initiative Kinderyoga Kinderyoga vom 04.11 - 23.12.2024 640,00 €, Az. 0262.0-14-0417
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative „Umgestaltung Stützwand“ Umgestaltung Stützwand Schatzbogen/Truderinger Straße vom 25.08. bis 01.10.2024 3.000,00 Euro; Az. 0262.0-14-0414 - vertagt aus dem Ferienausschuss vom 27.08.2024 -
+- TOP 3.5.3.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e. V. 37. Herbstausstellung der Künstlergilde Berg am Laim vom 08. - 17.11.2024 918,75 €; Az. 0262.0-14-0418
+- TOP 3.5.4.: (E) Stadtbezirksbudget BIKU e. V. - Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01. - 31.12.2025 7980,00 €; Az. 0262.0-14-0420
+- TOP 3.5.5.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse: Antrag des C.O.N. Sonanza e.V. für die Maßnahme: "Das große Tor von Kiev"; Beschluss des Bezirksauschusses 14
+- TOP 3.5.6.: Zuwendung aus dem Stadtbezirksbudget der Bezirksausschüsse: Antrag von Condrobs e. V., Therapeutische Ferienfreizeit für suchtmittelkranke Erwachsene im Oktober 2024; Beschluss des Bezirksauschusses 14
+- TOP 3.5.7.: Antrag für die Reservierung aus der Verwaltungskostenpauschale für die Gedenkveranstaltung "Sammellager Berg am Laim" und die Veranstaltung "Stunde Null: Signaturen jener Jahre - über das Zusammentreffen von Opfer und Tätern"
+- TOP 3.5.8.: Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024, Erfahrungen der Bezirksausschüsse; Anhörung des Direktoriums - vertagt aus dem Ferienausschuss vom 27.08.2024 -
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Baumfällungen am Leuchtenbergring; Anliegen aus der Bürgerschaft
+- TOP 3.6.2.: Grafinger Str. 31
+- TOP 3.6.3.: Josef-Ritz-Weg 62
+- TOP 3.6.4.: Praschlerstr. 35
+- TOP 3.6.5.: Mutschellestr. 1
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten Juli und August 2024
+- TOP 4.1.2.: Umwandlung von Parkplätzen in eine Grüninsel mit Baumbepflanzung auf der Nordseite der Kreillerstr.
+- TOP 4.1.3.: Errichtung von barrierefreien Senior*innenwohnungen an der Baumkirchnerstr.
+- TOP 4.1.4.: Antrag: Leerstand Hinterhof Baumkirchner Straße
+- TOP 4.1.5.: Mehr Rückmeldungen an den BA 14 von der Unteren Naturschutzbehörde und der Lokalbaukommission
+- TOP 4.1.6.: Abdruck des Bescheids für die August-Everding-Str. - Neubau Haus für Kinder und Begegnungszentrum
+- TOP 4.1.7.: Zweckentfremdung von Wohnraum
+- TOP 4.1.8.: Aufstellen von senior*innengerechten Bänken am Piusplatz
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Die Sonnwendjochstr. wird zur Fahrradstraße
+- TOP 4.2.2.: Durchgehender Betrieb der Trambahn auf der Berg-am-Laim-/Kreillerstraße während der Bauarbeiten zur 2. S-Bahn-Stammstrecke – Prüfung auch alternativer Lösungen
+- TOP 4.2.3.: Umgebungsplan an den Bus-, und Tramhaltestellen wieder aushängen
+- TOP 4.2.4.: Meldung Pächterwechsel
+- TOP 4.2.5.: Arbeiten im Straßenraum; 110 kV Verlegung im Leuchtenbergringtunnel
+- TOP 4.2.6.: Einrichtung eines absoluten Haltverbots (Anfahrtszone Förderschulbusse) in der August-Everding-Str.
+- TOP 4.2.7.: Schreiben vom BA 5: 2. Stammstrecke München – Station Ostbahnhof
+- TOP 4.2.8.: Planänderungsbescheid des Eisenbahn-Bundesamts zur 2. Änderung der Plangenehmigung für das Vorhaben "2. Planänderung zum Vorhaben Neubau ESTW München Ost Phf, Teil 1: S-Bahn" in der Landeshauptstadt München, Bahn-km 3,053 bis 3,936 der Strecke 5550 München Hbf - Ost
+- TOP 4.2.9.: Suchkreismitteilung zu Mobilfunkanlage: Berg am Laim
+- TOP 4.2.10.: Einrichtung einer Fahrradstraße in der Hachinger-Bach-Str. im Abschnitt Großvenediger- bis Langkofelstr.
+- TOP 4.2.11.: (U) Siedlungsentwicklung und Infrastrukturversorgung 2023-2027
+- TOP 4.2.12.: Eine Fahrspur in der Ampfingstraße in nördlicher Richtung zum Mittleren Ring
+- TOP 4.2.13.: Baustelleneinrichtung in der Grünanlage nördlich der Hansjakobstraße und westlich der Roßsteinstraße vom 02.09.2024 - 30.07.2025
+- TOP 4.2.14.: (U) Satzung zur Änderung der Satzung über die Straßenreinigung der Landeshauptstadt München (Straßenreinigungssatzung)
+- TOP 4.2.15.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 4.2.16.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 4.2.17.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Hier: Eisenbahnüberführung über die Rosenheimer Straße im 5. Stadtbezirk Au - Haidhausen, im 14. Stadtbezirk Berg am Laim und im 16. Stadtbezirk Ramersdorf - Perlach Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführung Rosenheimer Straße durch die DB AG
+- TOP 4.2.18.: Fußgängerbrücke über den Hachinger Bach an der Kampenwandstr.
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Errichtung einer „Schaukelanlage“ im Michaelianger
+- TOP 4.3.2.: (U) Errichtung eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen in der Truderinger Straße WA1 14. Stadtbezirk Berg am Laim Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.4.1.: Mobiles ukrainisches Passzentrum Ecke Heinrich-Wieland-Straße und S.t-Michael-Straße ab 02.09.2024
+- TOP 4.4.2.: (U) Errichtung eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen in der Truderinger Straße WA2 14. Stadtbezirk Berg am Laim Genehmigung des Nutzer*innenbedarfsprogramms
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Hachinger-Bach-Str. 30
+- TOP 4.6.2.: Heilbrunner Str. 4
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
