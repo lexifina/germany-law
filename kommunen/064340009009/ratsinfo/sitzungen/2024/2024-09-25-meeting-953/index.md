@@ -1,0 +1,56 @@
+# Gemeindevertretung (28. Sitzung)
+
+- Körperschaft: Gemeinde Schmitten im Taunus
+- Beginn: 2024-09-25T19:32:00+02:00
+- Ende: 2024-09-25T22:43:00+02:00
+- Ort: Dorfgemeinschaftshaus Arnoldshain, Taunusstraße 42, 61389 Schmitten im Taunus, Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/schmitten/tops/?__=UGhVM0hpd2NXNFdFcExjZVpYPbQ7XgsXba8eF4VuWkI
+- OParl: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/meeting/953
+- Quelle: https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaUJrTbMapiHi2LTQ5ezLey_S9x4N4MUk19APGZ--Q4x/Bekanntmachung_Gemeindevertretung_25.09.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung) https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS-wj20kzpKx29Ej0Wn639CWYAbPdx3q1gDjRJ4vpVca/Oeffentliche_Niederschrift_Gemeindevertretung_25.09.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Mitteilungen
+- TOP 1.1: der Vorsitzenden der Gemeindevertretung
+- TOP 1.2: des Gemeindevorstandes
+- TOP 1.2.1: Dorfentwicklung Schmitten im Taunus Verfahrensstand 09/2024 - Projekte 2024
+- TOP 1.2.2: LEADER-Projekt Umsetzung Urbane Freizeitanlage Schmitten
+- TOP 1.2.3: „Forderungen und Anregungen zum neu aufzustellenden Nahverkehrsplan des Verkehrsverbands Hochtaunus“
+- TOP 1.2.4: Gründung eines Jugendrats für den Hochtaunuskreis Beteiligung von Kindern und Jugendlichen im Hochtaunuskreis
+- TOP 1.2.5: Neuverpachtung des Bürgerhauses "Haus Wilina" in Dorfweil
+- TOP 1.2.6: Einladung zur Stolpersteinverlegung am 09. November 2024
+- TOP 1.2.7: Sanierungskosten der Verbindungstreppe zwischen Niederreifenberg nach Oberreifenberg
+- TOP 1.2.8: Erfolgreicher Warntag am 12. September 2024 nach Umstellung auf die digitalen Sirenensteuergeräte
+- TOP 1.2.9: Die Seite "Das digitale Rathaus" ist online
+- TOP 1.2.10: Sachstandsbericht der Wasserversorgung vom 24.09.2024
+- TOP 1.2.11: Statusbericht über die Verweisungsanträge an den Gemeindevorstand der Legislaturperiode 2021 - 2026; Stand 25.09.2024
+- TOP 1.3: zu schriftlich vorliegenden Anfragen
+- TOP 1.3.1: Ergänzende Stellungnahme zu der Anfrage der FWG-Fraktion betr. "Fragen und Anmerkungen zum Thema Feuerwehrstützpunkt Schmitten Nord"; TOP 1.3.2 der Sitzung der Gemeindevertretung vom 13.12.2023
+- TOP 1.3.2: Beantwortung der Anfrage der FWG - Fraktion vom 11.09.2024 - "Anfrage zu Bau- und Betriebskosten für den geplanten Kindergartenneubau auf dem Pfarrheckenfeld in Oberreifenberg"
+- TOP 1.4: der Ausschüsse
+- TOP 1.4.1: Bau-, Planungs- und Verkehrsausschuss
+- TOP 1.4.2: Haupt-, Finanz- und Digitalisierungsausschuss
+- TOP 1.4.3: Umwelt-, Klima- und Wirtschaftsausschuss
+- TOP 1.4.4: Sozialausschuss
+- TOP 1.4.5: Integrationskommission
+- TOP 1.5: aus den Verbänden
+- TOP 2.: Genehmigung der letzten Protokolle
+- TOP -: Teil A (Ohne Aussprache)
+- TOP 3.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Einführung eines Jugendtaxis in Schmitten" - Einstimmig, 0 Enthaltung(en)
+- TOP -: Teil B (Mit Aussprache)
+- TOP 4.: Ankauf einer Fläche für den geplanten Feuerwehrstandort „Nord“ in Dorfweil; Zustimmende Kenntnisnahme über die Nachzahlungsverpflichtung - 22 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 5.: Bauleitplanung der Gemeinde Schmitten Bebauungsplan "FFW Nord" Aufstellungsbeschluss gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) sowie Beschluss zur frühzeitigen Beteiligung der Öffentlichkeit und der Behörden gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beratung und Beschlussfassung über die Lösungsvarianten zur weiteren Nutzung der Räumlichkeiten (Versammlungsraum) der Feuerwehr Oberreifenberg, Schulstraße 4 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Beschlussfassung der Konzeptvariante für einen zukünftig sicheren und uneingeschränkten Badebetrieb des Freibades der Gemeinde Schmitten im Taunus - 13 Ja-Stimme(n), 10 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Bisheriges Ergebnis der Befahrungen im Rahmen der Eigenkontrolle von Abwasseranlagen (EKVO) und erforderliche Sanierungsmaßnahmen
+- TOP 9.: Sanierung der Stützmauer "Zum Feldberg 51" OT Schmitten Halbseitige Straßensperrung in Höhe der Firma Karl Schmidt - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Vorschlagsliste der Steuerungsgruppe Dorfentwicklung für die durchzuführenden Projekte in 2025 - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Tätigkeitsbericht des Ordnungsamtes für das Jahr 2023 - 22 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Festsetzung der Gebühren für die Parkraumbewirtschaftung der Gemeinde Schmitten im Taunus auf dem Feldbergplateau - 13 Ja-Stimme(n), 9 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 13.: Antrag der FWG-Fraktion betr. "Finanzielle Auswirkungen von Bau und Betrieb der neuen Kindertagesstätte in Oberreifenberg auf dem Pfarrheckenfeld" - 11 Ja-Stimme(n), 12 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Antrag der Koalition aus CDU, b-now und Bündnis 90 / Die Grünen betr. "Installation von Wasserspendern an öffentlichen Plätzen in Schmitten" - 20 Ja-Stimme(n), 1 Gegenstimme(n), 2 Stimmenthaltung(en)
