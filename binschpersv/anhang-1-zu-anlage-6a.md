@@ -50,13 +50,12 @@ Antrag auf Zulassung nach § 24 Abs. 2 der Binnenschiffspersonalverordnung (BinS
 |  | • Farbtafeln nach ISHIHARA vorhanden? Anzahl der prüfbaren Tafeln: |  |  |
 |  | • Velhagen-Test vorhanden? |  |  |
 |  | • Alternativ: anderer Farbtest vorhanden? Falls ja, welcher? |  |  |
-| Nr. | Angaben/Nachweise gem. Abschnitt 1 der Anlage 6a zu § 24 Abs. 2 BinSchPersV | Angaben | Beleg; Seitenzahl der Anlage |
 |  | Gehöruntersuchung |  |  |
-| Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1 |  |  |
-| Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010 erfüllt, verfügen Sie? |  |  |
-| • Fabrikat/Hersteller |  |  |
-| • Typ |  |  |
-| • Baujahr |  |  |
+|  | Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1 |  |  |
+|  | Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010 erfüllt, verfügen Sie? |  |  |
+|  | • Fabrikat/Hersteller |  |  |
+|  | • Typ |  |  |
+|  | • Baujahr |  |  |
 | Nr. | Angaben/Nachweise gem. Abschnitt 2 der Anlage 6a zu § 24 Abs. 2 BinSchPersV | Angaben | Beleg; Seitenzahl der Anlage |
 | 1 bis 2.1.3 | Erklärung über das Fortbestehen der formalen und technischen Voraussetzungen zur Zulassungs- Verlängerung nach § 24 Abs. 2 i. V. m. Anlage 6a der BinSchPersV |
 | Ich erkläre, dass meine Approbation weiter uneingeschränkte Gültigkeit hat, ich zum Führen der Facharztbezeichnung Arbeitsmedizin/der Zusatzbezeichnung Betriebsmedizin weiterhin berechtigt bin und sich im Vergleich zum ersten Antrag der Zulassung nach § 24 Abs. 2 BinSchPersV und § 5 Abs. 1 RheinSchPersEV keine Änderungen meiner apparativen, personellen oder räumlichen Ausstattung ergeben haben. Der nach §§ 21, 22 BinSchPersV und §§ 4.01, 4.02 RheinSchPersV erforderliche Untersuchungsumfang kann von mir weiterhin uneingeschränkt geleistet werden. |
