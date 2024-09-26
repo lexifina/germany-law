@@ -1,7 +1,7 @@
 # Anhang 2 zu Anlage 21 Lernziele
 
 Lernziele
-| Lfd. Nummer | Unterrichts- einheit in Stunden Theorie | Unterrichts- einheit in Stunden Praxis | Unterrichtseinheit |
+| Lfd. Nummer | Unterrichtseinheit in Stunden Theorie ca. | Unterrichtseinheit in Stunden Praxis ca. | Unterrichtseinheit |
 | 1 |  | Verwendung der Rettungsmittel gegen das Ertrinken |
 | a | 1 | 1,5 | Rettungsmittel an Bord Inhalte: Zusammenfassende Darstellung möglicher Rettungsmittel an Bord und ihrer Funktion |
 | b | 1,5 |  | Gefahren nach einem Sturz ins Wasser Inhalte: Gefahren der Strömung, der Wassertemperatur und des Schiffs-verkehrs beim Überbordgehen; Gefahr der Unterkühlung; Gefahr des Kälteschocks; Probleme bei der Rettung aus dem Wasser; Erste-Hilfe-Maßnahmen bei Unterkühlung |

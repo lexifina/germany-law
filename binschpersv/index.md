@@ -212,6 +212,7 @@
 - [§ 140 Anrechnung und Nachweis von Fahrzeiten](0140.md)
 - [§ 141 Umtausch von Radarbescheinigungen](0141.md)
 - [§ 142 Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren](0142.md)
+- [§ 143 Umschreibung von Fahrerlaubnissen der Klassen D1 und D2](0143.md)
 - [Anlage 1 (zu § 12 Absatz 1 Satz 1 Nummer 2)Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist](anlage-1.md)
 - [Anlage 2 (zu § 16 Absatz 1 Satz 1 Nummer 2)Binnenwasserstraßenabschnitte mit besonderen Risiken](anlage-2.md)
 - [Anlage 3 (zu § 17 Absatz 6 Nummer 1)Bescheinigung Lehrgang atemschutzgerättragende Person](anlage-3.md)
