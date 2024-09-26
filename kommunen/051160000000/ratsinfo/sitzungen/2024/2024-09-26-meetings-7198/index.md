@@ -1,0 +1,57 @@
+# Ausschuss für Finanzen, Beteiligungen und Wirtschaft
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-09-26T17:00:00+02:00
+- Ende: 2024-09-26T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00239256.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00239256.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00239256.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Ausschusses für Finanzen, Beteiligungen und Wirtschaft vom 20.06.2024 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: Vorstellung und Bericht über die WICMG GmbH - Kenntnisnahme
+- TOP 3: Kommunalisierung des Quartiersmanagements außerhalb städtebaulicher Förderkulissen unter Einbeziehung der Stadtteilkoordination III/SK - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Änderungsantrag zur Vorlage-Nr. 3446/X - Mit Stimmenmehrheit abgelehnt
+- TOP 4: 50 Jahre Stadt Mönchengladbach – Finanzierung Jubiläumsjahr - Mit Stimmenmehrheit beschlossen
+- TOP 5: Mündlicher Finanzbericht des Kämmerers - Kenntnisnahme
+- TOP 6: Änderung des Paragraph 4 der Satzung des Seniorenrates - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Beteiligung der NEW AG über die ENNI an der Bad Laaspher-Energie GmbH - Einstimmiger Beschluss
+- TOP 8: Beteiligung an der ENNI Energie & Umwelt Niederrhein GmbH über die NEW AG und die NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 9: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Gründung der Projektgesellschaft "NHTZ - Nationales Hockeytrainingszentrum Mönchengladbach GmbH" - Mit Stimmenmehrheit beschlossen
+- TOP 10: Anpassung der Gesellschaftsverträge und Satzungen städtsicher Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) - Einstimmiger Beschluss
+- TOP 11: Beteiligung der Stadt Mönchengladbach an der Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG - Einstimmiger Beschluss
+- TOP 12: Beteiligung der Stadt Mönchengladbach an der Theater Krefeld Mönchengladbach gGmbH - Einstimmiger Beschluss
+- TOP 13: Gewährung eines zweckgebundenen Investitionszuschusses für die Errichtung einer Quartiersgarage in den Maria-Hilf-Terrassen an die EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (3. Nachweisung) - Kenntnisnahme
+- TOP 15: Bereitstellung überplanmäßiger Haushaltsmittel 2024 im Bereich - Einstimmiger Beschluss
+- TOP 16: Bereitstellung überplanmäßiger Haushaltsmittel 2024 für die Schülerbeförderung - Einstimmiger Beschluss
+- TOP 17: Öffentlich-rechtliche Vereinbarung zum Betrieb eines Telenotarztsystems - Einstimmiger Beschluss
+- TOP 18: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 19: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 20: Errichtung der 7. Gesamtschule; Vorstellung des Prüfergebnisses - Mit Stimmenmehrheit beschlossen
+- TOP 21: Bauliche Herrichtung des alten Schulgebäudes BT 2 der Förderschule Herman van Veen am Schulstandort Voigtshofer Allee 27 zum Schuljahr 2025/26 - Einstimmiger Beschluss
+- TOP 22: Zuschuss für Café Pflaster MG & RY an die Diakonie - Einstimmiger Beschluss
+- TOP 23: Zuschuss für Suchtberatung an das Diakonische Werk MG e.V. - Einstimmiger Beschluss
+- TOP 24: Zuschuss an AIDS-Hilfe MG/RY e.V. - Einstimmiger Beschluss
+- TOP 25: Zuschuss für Selbsthilfe-Kontakstelle an den PariSozial - Einstimmiger Beschluss
+- TOP 26: Zuschuss für SPZ an den RehaVerein - Einstimmiger Beschluss
+- TOP 27: Gewährung einer Zuwendung an die Frauenberatungsstelle Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 28: Gewährung einer Zuwendung an den Caritasverband Region Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 29: Gewährung einer Zuwendung an das Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 30: Zuwendung an den Sozialdienst katholischer Frauen e.V. – Ortsverein Mönchengladbach zur Erbringung von Leistungen im Aufgabenbereich der Werbung und Begleitung von Familienpaten im Rahmen des Angebotes der Frühen Hilfen - Einstimmiger Beschluss
+- TOP 31: Zuwendungen an 11 Träger der freien Jugendhilfe zu offener Kinder- und Jugendarbeit - Einstimmiger Beschluss
+- TOP 32: Zuwendung für den Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an der Skateanlage am Platz der Republik - Mit Stimmenmehrheit beschlossen
+- TOP 33: Gewährung einer Zuwendung für den Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 34: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 35: Brandschutzsanierung, Sanierung schadhafter und veralteter Bausubstanz und energetische Sanierung der Gesamtschule Volksgarten - Einstimmiger Beschluss
+- TOP 36: Jahresabschluss 2023 der eigenbetriebsähnlichen Einrichtung RdZ mg+ (jetzt: Neue Verwaltungsgebäude Rheydt) - Einstimmiger Beschluss
+- TOP 37: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2025 - Einstimmiger Beschluss
+- TOP 38: Zuwendungen für offene Kinder- und Jugendarbeit ab 2025; hier: - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Anfragen und Mitteilungen - Es liegen keine Wortmeldungen vor.
