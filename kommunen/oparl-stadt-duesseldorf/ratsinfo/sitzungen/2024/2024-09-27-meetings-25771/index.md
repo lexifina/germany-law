@@ -1,0 +1,58 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-09-27T16:00:00+02:00
+- Ende: 2024-09-27T17:55:00+02:00
+- Ort: Bürgerhaus Benrath, Telleringstraße 56
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25771
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25771
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verleihung einer Ehrenauszeichnung der Bezirksvertretung
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 13.09.2024 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 30.08.2024 - vertagt
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 5.3: Zuschuss an den Tennisclub Holthausen e.V. - einstimmig beschlossen
+- TOP 5.4: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2024 - einstimmig beschlossen
+- TOP 5.5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Bonner Straße, Umleitungsbeschilderung/- maßnahmen für den Fuß- und Radverkehr - Anfrage der Fraktion Bündnis 90/ Die Grünen - schriftlich beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Nutzung der Dreifachsporthalle Brucknerstraße für Vereine - Anfrage der SPD-Fraktion - vertagt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Bürgerhaus Reisholz - Überfraktioneller Antrag der CDU-Fraktion, Fraktion Bündnis 90/ DIe Grünen, SPD-Fraktion, FDP, Die Linke - einstimmig beschlossen
+- TOP 8.4: Schulwegsicherung an der Wiesdorfer Straße für die Henri-Dunant und Marienschule - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Kirchengemeinde St. Hubertus - Itter - Veedelszoch 2025 - einstimmig beschlossen
+- TOP 9.2: Jugendfreizeiteinrichtung Z4 - Ausflüge für Kinder und Jugendliche in der "ZUE Am Schönenkamp" - mehrheitlich beschlossen
+- TOP 9.3: Christophorus-Schule - Präventionstheater "Mein Körper gehört mir" 2025 - einstimmig beschlossen
+- TOP 9.4: Christ Ambassadors Gospel Ministry e.V. - Kühlschränke und Gefriertruhe 2024 - einstimmig beschlossen
+- TOP 9.5: Martinsfreunde Wersten e.V. - 4 Martinszüge Wersten 2024 - einstimmig beschlossen
+- TOP 9.6: Heimatverein Holthausen-Itter-Himmelgeist e.V. - Martinszug in Holthausen 2024 - einstimmig beschlossen
+- TOP 9.7: Martinsfreunde Hassels - Martinszug 2024 - einstimmig beschlossen
+- TOP 9.8: St. Elisabeth-Schule, Buchenstraße - Martinszug 2024 - einstimmig beschlossen
+- TOP 9.9: Ev. Anbetungskirche Hassels - Hüpfburg zum 60-jährigen Jubiläum - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Fahrradstraße Himmelgeist - Beschluss der Bezirksvertretung 9 vom 08.12.2023; BV9/230/2023 - zur Kenntnis genommen
+- TOP 10.2: Neupflanzung von 2 Bäumen, Bahlenstraße - Beschluss der Bezirksvertretung 9 vom 30.08.2024; BV9/127/2024 - zur Kenntnis genommen
+- TOP 10.3: Sitzungstermine der Bezirksvertretung 9 im 1. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 10.4: Bänke in Hassels - Beschluss der Bezirksvertretung 9 vom 30.08.2024; BV9/125/2024 - zur Kenntnis genommen
+- TOP 11: Haushaltsberatung
+- TOP 11.1: Barrierefreier Ausbau der Stadtbahnhaltestelle „Benrath S" - Haushaltsbegleitantrag der SPD-Fraktion - mehrheitlich beschlossen
