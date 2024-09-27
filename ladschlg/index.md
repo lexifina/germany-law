@@ -1,4 +1,4 @@
-# Gesetz über den Ladenschluß
+# Gesetz über den Ladenschluss
 
 
 ## Erster Abschnitt Begriffsbestimmungen
