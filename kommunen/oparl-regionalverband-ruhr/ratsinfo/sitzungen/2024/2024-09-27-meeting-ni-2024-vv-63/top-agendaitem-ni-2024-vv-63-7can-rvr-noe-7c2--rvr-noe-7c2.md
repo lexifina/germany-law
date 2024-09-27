@@ -1,0 +1,6 @@
+# TOP -: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 15. Sitzung der Verbandsversammlung (2024-09-27)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2024-VV-63%7CAn-rvr-noe%7C2
