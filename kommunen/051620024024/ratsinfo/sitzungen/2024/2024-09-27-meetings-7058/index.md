@@ -1,0 +1,72 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2024-09-27T16:00:00+02:00
+- Ende: 2024-09-27T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7058
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/7058
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich RAT 27.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00213725.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich RAT 27.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00213725.pdf
+- Wortprotokoll: Sitzungspaket öffentlich RAT 27.09.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00213725.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde
+- TOP -: Einbringung Entwurf Haushalt 2025
+- TOP 5: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2025 - einstimmig zugestimmt
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Bezirksausschuss IV - Holzheim
+- TOP 6: Roisdorfer Straße: Sanierung Stichweg im Bereich der Häuser Nr. 29 und 29a - einstimmig zugestimmt
+- TOP 7: Bahnhofstraße, Lückenschluss im Bereich der Bushaltestellen Lövelinger Straße - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Mobilität
+- TOP 8: Bebauungsplan Nr. 495 - Furth-Süd, Further Straße/ Josefstraße - - mehrheitlich zugestimmt
+- TOP 9: Ortsmittelpunktkonzept I Gestaltungskonzept für die Ortsmittelpunkte - Erfttal, Grefrath und Barbaraviertel - einstimmig zugestimmt
+- TOP -: Ausschuss für Umwelt, Grünflächen und Klimaschutz
+- TOP 10: Klimaanpassungskonzept der Stadt Neuss - verwiesen
+- TOP 11: Lärmaktionsplan der Stadt Neuss - einstimmig zugestimmt
+- TOP 12: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2023 - einstimmig zugestimmt
+- TOP -: Haupt- und Sicherheitsausschuss
+- TOP 13: Bildung des Eigenbetriebes Stadtgrün Neuss - mehrheitlich zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 14: Offene Kinder- und Jugendarbeit in Holzheim - einstimmig zugestimmt
+- TOP 15: Bedarfsplan Kindertagesbetreuung 24/25 ff - einstimmig zugestimmt
+- TOP 16: Öffentlich-rechtliche Vereinbarung über die Zusammenarbeit im Bereich der Hilfen und Maßnahmen bei Prävention, Konsum und Abhängigkeit von illegalen bzw. neuen psychoaktiven Substanzen - einstimmig zugestimmt
+- TOP -: Bauausschuss
+- TOP 17: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2023 - einstimmig zugestimmt
+- TOP 18: 1. Änderungssatzung zur Winterdienstsatzung - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 19: - entfällt -
+- TOP 20: Änderung der Sondernutzungssatzung und Standortkonzept bezüglich der Aufstellung von Altkleidersammelcontainern auf öffentlichen Verkehrsflächen - zurückgezogen
+- TOP 21: Delegationsreise nach St. Paul vom 12. bis 17.10.2024 - einstimmig zugestimmt
+- TOP 22: Heimat-Preis 2024 - einstimmig zugestimmt
+- TOP 23: 19. Konferenz der Ratsmitglieder beim Städtetag Nordrhein- Westfalen am 11.12.2024 in Köln - einstimmig zugestimmt
+- TOP 24: Genehmigung der Dringlichkeitsentscheidung Nr. 104a betr.: Bewilligung von Zuschüssen für die außerunterrichtlichen Betreuungsangebote außerhalb der OGS im Primarbereich der Grundschulen sowie der Übermittagsbetreuung im Sek.I-Bereich - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 25: Antrag der Fraktionen von SPD und Bündnis90/Die Grünen betr.: Bericht über geplante Schutzmaßnahmen für Bäume während Baumaßnahme Nordkanalallee - einstimmig zugestimmt
+- TOP 26: Antrag der Fraktion DIE LINKE/Tierschutz betr.: Mieter vor Leistungssperren schützen, die vom Vermieter zu verantworten sind - verwiesen
+- TOP 27: Antrag der Fraktionen von CDU, SPD und Bündnis 90/Die Grünen betr.: Heimatstube für Landsmannschaften erhalten - mehrheitlich zugestimmt
+- TOP 28: Antrag der Fraktion UWG/Freie Wähler betr.: Resolution gegen das neue Kommunalwahlgesetz NRW - beraten ohne Abstimmung
+- TOP 29: Antrag der Fraktion Die PARTEI/Linke betr.: Schüleraustausch und Städtepartnerschaften fördern - verwiesen
+- TOP 30: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Bäderkonzept 2030 - Prüfung des Standortes Wendersplatz - verwiesen
+- TOP -: Anfragen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 35: Umsetzung und Zeitplan der Sanierung städtischer Kunstrasenplätze - zur Kenntnis genommen
+- TOP 36: Straßenbahnbedienung Neuss - zur Kenntnis genommen
+- TOP 37: Sitzungskalender des Rates und der Ausschüsse für das Jahr 2025 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
