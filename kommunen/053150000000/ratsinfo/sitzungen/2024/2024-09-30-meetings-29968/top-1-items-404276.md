@@ -1,0 +1,6 @@
+# TOP 1: Einwohnerfragestunde
+
+- Sitzung: 31.Sitzung der Bezirksvertretung Mülheim (2024-09-30)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/404276
