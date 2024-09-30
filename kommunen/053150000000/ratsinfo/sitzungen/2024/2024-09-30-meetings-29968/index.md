@@ -1,0 +1,72 @@
+# 31.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-09-30T17:00:00+02:00
+- Ende: 2024-09-30T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29968
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29968
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Querungshilfe Elisabeth-Breuer-Straße
+- TOP 1.2: Buchholzstraße in Köln-Mülheim
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: "Parkverbot Einmündungsbereich Andersenstraße/Bechsteinstraße" AZ 157/23 - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: "Parken auf der Schönrather Straße" AZ 28/24 - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: "Eckbereich Voltastraße / Herschelstraße in Köln Buchforst" AZ 223-23 - geändert beschlossen
+- TOP 2.4: Bürgereingabe „Holweider Brache – Renaturierungsmaßnahmen durchführen“ (44/2024) - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe nach § 24 GO– „Fort XI in Mülheim“, Aktenzeichen 221/23 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der SPD- und CDU-Fraktion sowie der FDP aus der Sitzung der Bezirksvertretung Mülheim vom 25.08.2024 betreffend "Sachstand des Antrags Aufzug an der Haltestelle Dellbrück S-Bahn, AN/2040/2022" (AN/1116/2024) - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der SPD- und CDU-Fraktion sowie der FDP zur Sitzung der Bezirksvertretung Mülheim vom 22.04.2024 betreffend "Die Buchholzstraße als Gewerbeschwerpunkt, AN/0587/2024" - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer mündlichen Nachfrage der Fraktion DIE LINKE zur Beantwortung der Anfrage "Absolutes Halteverbot im Bereich der Rechtskurve der Arnsberger Str. hinter Unterführung Sonderburger Str."(2300/2024) - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der AFD in der Bezirksvertretung Mülheim vom 17.04.2023 (AN/0618/2023) betreffend Beleuchtung Katzenbuckel - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Welche Strategie verfolgt die Stadt gegen illegales Gehwegparken? - Kenntnis genommen
+- TOP 7.2.2: Gehwegparken auf dem westlichen Teil der Von-Quadt-Straße - Kenntnis genommen
+- TOP 7.2.3: Rolltreppen am Wiener Platz – ein Quell des Unmutes und ewige Baustelle - Kenntnis genommen
+- TOP 7.2.4: E-Scooter und Leihfahrräder stellen in Köln-Mülheim weiterhin eine Unfallgefahr dar - Kenntnis genommen
+- TOP 7.2.5: Umweltschutz und Naherholung im Naturschutzgebiet Flittarder Rheinaue besser in Einklang bringen - Kenntnis genommen
+- TOP 7.2.6: LEG Grundstücke - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sicheres Abstellen von Wohnmobilen - ungeändert beschlossen
+- TOP 8.1.2: Wanderbäume - Sache ist erledigt
+- TOP 8.1.3: Einrichtung eines Zebrastreifens im Bereich der Realschulen in der Jan-Wellem-Straße - ungeändert beschlossen
+- TOP 8.1.4: Verbesserte Sicherheit für Passant*Innen sowie Radfahrende und E-Roller-Benutzer*innen am Stammheimer Ufer - ungeändert beschlossen
+- TOP 8.1.5: Zeitnahe Einberufung des „Runden Tischs Radverkehr für den Bezirk Mülheim“ - ungeändert beschlossen
+- TOP 8.1.6: Prüfung von Tempo 30 für LKW auf dem Stammheimer Ring - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Ergänzender Beschluss zur Kostenanpassung - ungeändert beschlossen
+- TOP 9.1.2: Vergabe der bezirksorientierten Mittel für das Haushaltsjahr 2024; Vergabe von Restmitteln nach Übertragung aus dem Vorjahr - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Vermietung von Flächen der ehemaligen KHD Hauptverwaltung (Deutz-Mülheimer Str. 137 - 139, Gebäude 1-3 sowie 147 – 149 Innenhof, Gebäude 22 und Teilfläche von Gebäude 23) zur Zwischennutzung - endgültig abgelehnt
+- TOP 9.2.2: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke - Verzögerte Inbetriebnahme Stadtbahn - Kenntnis genommen
+- TOP 10.2.4: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 10.2.5: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 10.2.6: Qualitätsbericht 2023 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.7: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 10.2.8: Anregung zum Nachpflanzen von Straßenbäumen und zum Schutz der bestehenden Bäume in der Waldecker Straße in Köln Buchforst durch die Nachbarschaftsinitiative Buchforst Mobil vom 10.09.2021 - zurückgestellt
+- TOP 10.2.9: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 10.2.10: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 10.2.11: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
