@@ -5,7 +5,7 @@ Abschnitt 1 Allgemeine Vorschriften
 § 3 Begriffsbestimmungen
 § 4 Grundsätze der Informationssicherheit
 Abschnitt 2 Organisation der Informationssicherheit
-§ 5 Beauftragter für Informationssicherheit des Landes
+§ 5 Beauftragte oder Beauftragter für Informationssicherheit des Landes
 § 6 Sicherheitsnotfallteam
 § 7 Beauftragte für Informationssicherheit der staatlichen Stellen
 § 8 Beauftragte für Informationssicherheit der nicht-staatlichen Stellen
