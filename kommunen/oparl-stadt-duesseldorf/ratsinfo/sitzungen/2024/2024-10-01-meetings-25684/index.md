@@ -1,0 +1,82 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-01T17:00:00+02:00
+- Ende: 2024-10-01T19:50:00+02:00
+- Ort: Sitzungssaal im Kulturhaus Süd/Freizeitstätte Garath, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25684
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25684
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531165.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531165.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531165.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Austausch mit Herrn Oberbürgermeister Dr. Stephan Keller
+- TOP 4: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 6: Verwaltungsvorlagen und mündliche Berichte
+- TOP 6.1: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 6.2: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 6.3: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 6.4: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.5: Übertragung der zum Jahresende 2024 nicht verausgabten Verfügungsmittel in das Jahr 2025 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den SKFM Düsseldorf e.V.– Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 6.7: Verfügungsmittel der Bezirksvertretung 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.8: Verfügungsmittel der BV 10, Zuschuss an die Städtische Montessori Grundschule - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an die GGS Neustrelitzer Straße - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - zurückgestellt
+- TOP 6.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.12: Verfügungsmittel der BV 10, Zuschuss an die Städtische Montessori Grundschule - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - zurückgestellt
+- TOP 6.13: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des Garather Weihnachtsmarktes - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.14: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Garather Schützenverein 1967 e.V. für die Durchführung des großen Martinsumzuges 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 6.15: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Chor „Joyful Voices e.V." - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - mehrheitlich beschlossen
+- TOP 6.16: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des großen Martinsumzuges 2024 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 7: Haushalt
+- TOP 7.1: Reinigung der Überdachung im Innenhof des Kulturhauses-Süd - Haushaltsantrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Funkfähige Datenlogger für Grundwassermessstellen - Haushaltsantrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 8: Anfragen aus vorherigen Sitzungen
+- TOP 8.1: Nachfrage zur Nutzung des Lehrschwimmbeckens an der Stettiner Straße - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Reinigung und Pflege der Überdachung des Innenhofes des Kulturhauses Süd - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Gefahren durch Zustand des S-Bahnhofs in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 9: Aktuelle Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Fahrradabstellanlage Einkaufszentrum Hellerhof - Anfrage der Fraktion BÜ90/DIE GRÜNEN) - - schriftlich beantwortet
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Sach- und Planungsstand von Potenzialflächen in Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Grünfläche zwischen Frankfurter Straße und Rostocker Straße klima- und bewohnerfreundlich gestalten - Antrag der Fraktion BÜ90/DIE GRÜNEN) - - einstimmig beschlossen
+- TOP 10.5: Hinweisschild beidseitig der Frankfurter Straße zu Kin-Top e.V. Frankfurter Straße 239 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 10.6: Spielstraßen-Piktogramm auf der Ringstraße Elsa-Brandström-Straße von und zur Graf-von-Stauffenberg-Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 10.7: Zufahrt Schützenplatz Schrankeneinrichtung und defekte Fahrbahndecke Frankfurter Str. 261 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 10.8: Ehemaliges Busbüdchen und Pizzagebäude Emil-Barth-Straße - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 10.9: Schraffierungen an den Hauszugängen der Wilhelm-Kreis-Straße 10- 12 und 14- 16 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 10.10: Waldzugang in die Urdenbacher Kämpe auf Höhe der Emil-Barth-Straße zwischen 109 und 111 und den dahinterliegenden Grundstücken 104- 109 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 10.11: Bus-Sperrfläche Grundschule Ricarda-Huch-Straße - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 10.12: Hinweisschild „JFE - St. Matthäus" in Hellerhof auf der Bertha-von-Suttner-Straße - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 10.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Gefährdung von Schulkindern – Herrichtung eines sicheren Schulweges in der Ingeborg-Bachmann-Straße - Informationsvorlage zum Beschluss BV10/091/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 11.2: Am Kapeller Feld – Weitergehende Maßnahmen zur Minimierung von Gefahrensituationen auf der Fahrbahn - 2.Informationsvorlage zum Beschluss BV10/067/2024 vom 28.05.2024 - - zur Kenntnis genommen
+- TOP 11.3: Ampelschaltung Kreuzung Matthias-Erzberger-Straße / Frankfurter Straße / Koblenzer Straße in Düsseldorf-Garath - Informationsvorlage zum Beschluss BV10/055/2024 vom 30.04.2024 - - zur Kenntnis genommen
+- TOP 11.4: Entschärfung Unfallhäufungsstelle Emil-Barth-Straße/ Koblenzer Straße - Informationsvorlage zum Beschluss BV10/058/2024 vom 30.04.2024 - - zur Kenntnis genommen
+- TOP 11.5: Neubau einer Hausmeisterdienstwohnung am Schulstandort Stettiner Straße 98 - Informationsvorlage zum Beschluss BV10/066/2024 vom 28.05.2024 - - zur Kenntnis genommen
+- TOP 11.6: Busliniennetzoptimierung Monheim (Projekt "BSM24") und weitere Verbesserungen des Busangebots im Düsseldorfer Süden - Informationsvorlage zur Beschlussvorlage OVA/088/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 11.7: Nutzung von Bolzplätzen im Stadtbezirk 10 - Informationsvorlage zum Beschluss BV10/078/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 11.8: Fahrbahnerneuerung Hellerhofweg - Informationsvorlage zum Beschluss BV10/079/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 11.9: Instandsetzung der Uhr am Kulturhaus Süd - Informationsvorlage zum Beschluss BV10/074/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 11.10: Aktualisierung des Schriftzuges am Kulturhaus Süd- Informationsvorlage zum Beschluss BV10/075/2024 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 12: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 13: Verschiedenes
