@@ -1,34 +1,34 @@
-# Anlage 1
+# Anlage 1 - Tabelle der aktuellen anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt gültig ab 1. Oktober 2024
 Anlage 1
 (zu § 38 Absatz 1 Satz 4 BremPPV)
-Tabelle der aktuellen anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt gültig ab 1. Oktober 2023 Bezugsjahr 2010 = Indexzahl 100
+Tabelle der aktuellen anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt gültig ab 1. Oktober 2024
 Gebäudeart | aktuelle anrechenbare Bauwerte in € / m3 | 
-1. | Wohngebäude | 188
-2. | Wochenendhäuser | 165
-3. | Büro- und Verwaltungsgebäude, Banken und Arztpraxen | 253
-4. | Schulen | 239
-5. | Kindertageseinrichtungen | 214
-6. | Hotels, Pensionen und Heime bis jeweils 60 Betten, Gaststätten | 214
-7. | Hotels, Heime und Sanatorien mit jeweils mehr als 60 Betten | 249
-8. | Krankenhäuser | 279
-9. | Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 12, Theater, Kinos | 214
-10. | Hallenbäder | 231
-11. | eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel-Konstruktionen sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19 | 
-11.1 | bis 2 500 m3 Brutto-Rauminhalt | 91
-11.2 | der 2 500 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 | 76
-11.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3 | 63
-11.4 | der 50 000 m3 übersteigende Brutto-Rauminhalt | 32
-12. | konstruktiv andere eingeschossige Verkaufsstätten, Sportstätten | 141
-13. | konstruktiv andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude | 126
-14. | mehrgeschossige Verkaufsstätten und Lagergebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 191
-15. | mehrgeschossige Fabrik- und Werkstattgebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt | 166
-16. | eingeschossige Garagen, ausgenommen offene Kleingaragen | 138
-17. | mehrgeschossige Mittel- und Großgaragen | 166
-18. | Tiefgaragen | 256
-19. | Schuppen, Kaltställe, offene Feldscheunen, offene Kleingaragen und ähnliche Gebäude | 66
+1. | Wohngebäude | 204
+2. | Wochenendhäuser | 178
+3. | Büro- und Verwaltungsgebäude, Banken und Arztpraxen | 274
+4. | Schulen | 260
+5. | Kindertageseinrichtungen | 233
+6. | Hotels, Pensionen und Heime bis jeweils 60 Betten, Gaststätten | 233
+7. | Hotels, Heime und Sanatorien mit jeweils mehr als 60 Betten | 270
+8. | Krankenhäuser | 303
+9. | Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 12, Theater, Kinos | 233
+10. | Hallenbäder | 251
+11. | eingeschossige, hallenartige Gebäude, wie Verkaufsstätten, Fabrik-, Werkstatt- und Lagergebäude in einfachen Rahmen- oder Stiel-Riegel - Konstruktionen und mit nicht mehr als 50.000 m3 Brutto-Rauminhalt sowie einfache Sporthallen und landwirtschaftliche Betriebsgebäude, soweit nicht nach Nummer 19 | 
+11.1 | bis 2 500 m3 Brutto-Rauminhalt | 99
+11.2 | der 2 500 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 | 83
+11.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3 | 68
+11.4 | der 50 000 m3 übersteigende Brutto-Rauminhalt | 34
+12. | konstruktiv andere eingeschossige Verkaufsstätten, Sportstätten | 153
+13. | konstruktiv andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude | 137
+14. | mehrgeschossige Verkaufsstätten mit nicht mehr als 50 000 m3 Brutto-Rauminhalt2) | 207
+15. | mehrgeschossige Fabrik-, Werkstatt- und Lagergebäude mit nicht mehr als 50 000 m3 Brutto-Rauminhalt2) | 180
+16. | eingeschossige Garagen, ausgenommen offene Kleingaragen | 150
+17. | mehrgeschossige Mittel- und Großgaragen | 180
+18. | Tiefgaragen | 278
+19. | Schuppen, Kaltställe, offene Feldscheunen, offene Kleingaragen und ähnliche Gebäude | 72
 20. | Gewächshäuser | 
-20.1 | bis 1 500 m3 Brutto-Rauminhalt | 50
-20.2 | der 1 500 m3 übersteigende Brutto-Rauminhalt | 28
+20.1 | bis 1 500 m3 Brutto-Rauminhalt | 54
+20.2 | der 1 500 m3 übersteigende Brutto-Rauminhalt | 31
 Zuschläge auf die anrechenbaren Bauwerte:
 bei Gebäuden mit mehr als fünf Geschossen | 5 v. H.
 Hochhäuser und vergleichbar hohe Gebäude | 10 v. H.
