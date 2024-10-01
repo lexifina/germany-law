@@ -1,0 +1,73 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-01T17:00:00+02:00
+- Ende: 2024-10-01T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26259
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26259
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531013.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531013.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531013.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 17.09.2024 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 25.06.2024 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Barrierefreier Umbau des DB-Bahnhofs Düsseldorf Gerresheim - Variantenentscheidung - abweichend beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 4.5: Haushaltsentwurf 2025 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2025 für den Stadtbezirk 7 - - einstimmig beschlossen
+- TOP 4.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Zuschuss an den Düsseldorfer Sport-Club 1899 e.V. - einstimmig beschlossen
+- TOP 4.7: Zuschuss an den Tennisclub Rot-Weiss Düsseldorf e.V. - einstimmig beschlossen
+- TOP 4.8: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 4.9: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 4.10: Weihnachtsmarkt auf dem Gerricusplatz im Jahre 2024 - einstimmig beschlossen
+- TOP 4.11: Verwendung von Haushaltsmitteln - abweichend beschlossen
+- TOP 4.12: Machbarkeitsstudie zur Errichtung einer natur- und sozialverträglichen Mountainbike-Trailanlage im Düsseldorfer Stadtwald - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Bürgerhaus Aloys-Odenthal-Platz, Sachstand und Eröffnungstermin - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.2: Halteverbot an Schultagen an der Luckemeyerstraße 5 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.3: Krisen- und Notfallzufahrt zur Siedlung Ludenberg (Blanckertzstraße/Schellbergweg) - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 5.4: Verbesserung der Sicherheit des Schulweges an der Diepenstraße - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Denkmalschutz Bergische Kaserne - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Verkehrsplanung zum Dernbuschweg - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Bedarfsampel an der Glashüttenstraße - Anfrage der CDU-Fraktion - - vertagt
+- TOP 7.4: Wartehäuschen an der Luckemeyerstraße - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Aktueller Stand des Baugenehmigungsverfahrens und der aktuelle Zustand des Gartendenkmals Villa Sohl - Anfrage der Fraktion Bündnis 90/Die Grünen - - vertagt
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sitzungstermine der Bezirksvertretung 7 im 1. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 8.2: Zustand Fahrbahn Dornaper Straße, Gerresheim - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2024 - - zur Kenntnis genommen
+- TOP 8.3: Parkraumbewirtschaftung Glasmacherviertel bei Großveranstaltungen - Informationsvorlage zum Beschluss der BV 7 vom 30.04.2024 - - zur Kenntnis genommen
+- TOP 8.4: Reparaturmaßnahmen auf der Benderstraße - Informationsvorlage zum Beschluss der BV 7 vom 30.04.2024 - - zur Kenntnis genommen
+- TOP 8.5: Rotschaltung der Ampelanlage Heyestr./Dörpfeldstr. - Informationsvorlage zum Beschluss der BV 7 vom 23.05.2023 - - zur Kenntnis genommen
+- TOP 8.6: Stadtbildpflege im Stadtbezirk 7 - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.7: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.8: Marie-Curie-Straße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.9: Beschilderung des Fußwegs an der Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2024 - - zur Kenntnis genommen
+- TOP 8.10: Verbesserung der Verkehrssituation für den Fuß- und Radverkehr auf der Bertastraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.11: Beschilderung und Parkordnung auf dem Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.12: Benutzungspflicht Radweg Mauresköthen aufheben - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2021 - - zur Kenntnis genommen
+- TOP 8.13: Weitere Fahrradständer Am Wallgraben - Informationsvorlage zum Beschluss der BV 7 vom 29.08.2023 - - zur Kenntnis genommen
+- TOP 8.14: Fahrradständer Geibelstraße/Ecke Grafenberger Allee - Informationsvorlage zum Beschluss der BV 7 vom 24.05.2022 - - zur Kenntnis genommen
+- TOP 8.15: Sichere Querung der Straße: Nach den Mauresköthen/Zamenhofweg - Informationsvorlage zum Beschluss der BV 7 vom 27.09.2022 - - zur Kenntnis genommen
+- TOP 8.16: Einrichtung von weiteren Lastenrad-Abstellplätzen - Informationsvorlage zum Beschluss der BV 7 vom 26.09.2023 - - zur Kenntnis genommen
+- TOP 8.17: Geschwindigkeitskontrolle auf der Torfbruchstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.18: Parkplätze für das Templum an der Bergischen Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2024 - - zur Kenntnis genommen
+- TOP 8.19: Zufahrtsberechtigung Neusser Tor - zur Kenntnis genommen
+- TOP 8.20: Unterbringung von obdachlosen Menschen in der Karlsbader Straße 11 - zur Kenntnis genommen
