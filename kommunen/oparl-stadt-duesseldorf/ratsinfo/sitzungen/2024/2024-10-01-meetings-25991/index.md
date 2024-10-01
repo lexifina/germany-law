@@ -1,0 +1,58 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-01T16:00:00+02:00
+- Ende: 2024-10-01T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25991
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/25991
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00530408.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00530408.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00530408.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 4: Eingabe nach § 24 Gemeindeordnung NRW
+- TOP 4.1: Grimlinghauser Straße – Petition zur Einführung von Maßnahmen zur Geschwindigkeitsreduktion von Kraftfahrzeugen (§24 GO NRW) - abweichend beschlossen
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Bebauungsplan - Entwurf Nr. 03/034 - Südlich Haroldstraße - einstimmig beschlossen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwaltungsvorlagen und -berichte
+- TOP 6.1: Weiterentwicklung der Wochenendöffnungen von Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 6.2: Wohngebiet Feuerbachstraße- Einrichtung eines Bewohnerparkgebietes - zur Kenntnis genommen
+- TOP 6.3: Bilker Allee / Benzenbergstraße – optimierter Zwischenzustand östlich Bilker Kirche - abweichend beschlossen
+- TOP 6.4: Zielkonzept Stadtbahn/Straßenbahn - abweichend beschlossen
+- TOP 6.5: Haroldstraße – Erschließung Haroldstr. 5, Ministerium der Finanzen und NRW.BANK - zur Kenntnis genommen
+- TOP 6.6: Umbenennung des "Jürgensplatz" im Stadtbezirk 3 in "Platz der Polizei" - vertagt
+- TOP 6.7: Benennung Sankt-Martin-Platz - einstimmig beschlossen
+- TOP 6.8: Weihnachtsmarkt vor den Düsseldorf Arcaden - einstimmig beschlossen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschussanträge
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2024 - abweichend beschlossen
+- TOP 7.2: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 8: Beratung Haushaltsentwurf 2025 mit Anlagen - Entwurf des bezirksbezogenen Haushaltsansatz 2025 für den Stadtbezirk 3 - einstimmig beschlossen
+- TOP 8.1: Haushalt 2025: Aufwertung Platz Bachstraße/Bilker Allee (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.2: Haushalt 2025: Mintropplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.3: Haushalt 2025: Haushaltsmittel der BV3 - Mittelübertragung (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.4: Haushalt 2025: Kirchfeldstraße als Fahrradstraße (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - abweichend beschlossen
+- TOP 8.5: Haushalt 2025: Überplanung Ortsumgehung Oberbilk (Antrag BÜNDNINS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.6: Haushalt 2025: Umbau Karolingerplatz (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.7: Haushalt 2025: Abenteuerspielplatz im Stadtbezirk 3 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 8.8: Haushalt 2025: Hitzeschutz an öffentlichen Plätzen und Spielplätzen (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - abweichend beschlossen
+- TOP 8.9: Haushalt 2025: Verwendung der bezirksbezogenen Haushaltsmittel 2025 (Antrag BÜNDNIS 90/DIE GRÜNEN, CDU, SPD) - einstimmig beschlossen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Barrierefreie Erreichbarkeit des Technischen Berufskollegs Färberstraße mit dem ÖPNV (Anfrage BÜNDNIS 90/DIE GRÜNEN) - zur Kenntnis genommen
+- TOP 10: Anträge
+- TOP 10.1: Vorstellung Einrichtung einer Sozialen Erhaltungssatzung im Stadtbezirk 3 (Antrag BÜNDNIS 90/DIE GRÜNEN) - zurückgezogen
+- TOP 10.2: Gestaltung Unterführung Bachstraße (Antrag BÜNDNIS 90/DIE GRÜNEN) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
