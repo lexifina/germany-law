@@ -1,0 +1,1 @@
+# § 1a (außer Kraft)

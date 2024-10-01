@@ -1,0 +1,1 @@
+– das Bayerische Staatsministerium für Umwelt und Verbraucherschutz auf Grund des Art. 25 Abs. 2 des Bayerischen Abfallwirtschaftsgesetzes (BayAbfG) in der Fassung der Bekanntmachung vom 9. August 1996 (GVBl. S. 396, 449, BayRS 2129-2-1-U), das zuletzt durch § 2 des Gesetzes vom 25. Mai 2021 (GVBl. S. 286) geändert worden ist:
