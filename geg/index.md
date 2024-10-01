@@ -109,6 +109,8 @@
 - [§ 59 Sachgerechte Bedienung](0059.md)
 - [§ 60 Wartung und Instandhaltung](0060.md)
 - [§ 60a Prüfung und Optimierung von Wärmepumpen](0060a.md)
+- [§ 60b Prüfung und Optimierung älterer Heizungsanlagen](0060b.md)
+- [§ 60c Hydraulischer Abgleich und weitere Maßnahmen zur Heizungsoptimierung](0060c.md)
 
 ### Abschnitt 2 Einbau und Ersatz
 

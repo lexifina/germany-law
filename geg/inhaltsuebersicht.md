@@ -98,6 +98,8 @@ Betreiberpflichten
 | § 59 | Sachgerechte Bedienung |
 | § 60 | Wartung und Instandhaltung |
 | § 60a | Prüfung und Optimierung von Wärmepumpen |
+| § 60b | Prüfung und Optimierung älterer Heizungsanlagen |
+| § 60c | Hydraulischer Abgleich und weitere Maßnahmen zur Heizungsoptimierung |
 Abschnitt 2
 Einbau und Ersatz
 Unterabschnitt 1

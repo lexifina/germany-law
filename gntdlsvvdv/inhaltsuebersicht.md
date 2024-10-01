@@ -10,19 +10,19 @@ Allgemeines
 | § 6 | Erholungsurlaub |
 | § 7 | Nachteilsausgleich |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 8 | (zukünftig in Kraft) |
-| § 9 | (zukünftig in Kraft) |
-| § 10 | (zukünftig in Kraft) |
-| § 11 | (zukünftig in Kraft) |
-| § 12 | (zukünftig in Kraft) |
-| § 13 | (zukünftig in Kraft) |
-| § 14 | (zukünftig in Kraft) |
-| § 15 | (zukünftig in Kraft) |
-| § 16 | (zukünftig in Kraft) |
-| § 17 | (zukünftig in Kraft) |
-| § 18 | (zukünftig in Kraft) |
-| § 19 | (zukünftig in Kraft) |
+Auswahlverfahren
+| § 8 | Zweck des Auswahlverfahrens |
+| § 9 | Zulassung zum Auswahlverfahren |
+| § 10 | Auswahlkommission |
+| § 11 | Teile des Auswahlverfahrens |
+| § 12 | Festlegungen zum Auswahlverfahren |
+| § 13 | Schriftlicher Teil des Auswahlverfahrens |
+| § 14 | Zulassung zum mündlichen Teil des Auswahlverfahrens |
+| § 15 | Mündlicher Teil des Auswahlverfahrens |
+| § 16 | Gesamtergebnis und Rangfolge |
+| § 17 | Ausnahmeregelung zur Rangfolge |
+| § 18 | Täuschung |
+| § 19 | Einstellung und gesundheitliche Eignung |
 Abschnitt 3
 Studienordnung
 | § 20 | Dauer und Gliederung des Studiums |

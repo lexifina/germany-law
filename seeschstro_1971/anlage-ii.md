@@ -18,13 +18,13 @@ Erläuterung zur Anlage II
     Funkellicht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
     Gleichtaktlicht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
     auf und nieder bewegtes Licht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
-    Leuchtkugel mit Sternen in der angegebenen Farbe. ... (Abb.)
+    Leuchtkugel mit Sternen in der angegebenen Farbe.... (Abb.)
   3. Zu den Schallsignalen
     Darstellung der Schallsignale
     1 langer Ton ... (Abb.)
     1 kurzer Ton ... (Abb.
     Glockenschlag ... (Abb.)
-    rasches Läuten der Glocke. ... (Abb.)
+    rasches Läuten der Glocke.... (Abb.)
 II.1 Sichtzeichen der Fahrzeuge
 1. Fahrzeuge des öffentlichen Dienstes bei Erfüllung polizeilicher Aufgaben
     (§ 7)
@@ -53,7 +53,7 @@ II.1 Sichtzeichen der Fahrzeuge
     Bei Nacht:
     je ein gelbes Gleichtaktlicht im Topp sowie vorn und hinten an jeder Seite (bei den Ecklichtern nur sichtbar im fahrzeugabgewandten Sichtwinkel).
     ... (Abb.)
-  6. Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des § 30 Abs. 1 Nr. 2 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
+  6. Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des § 30 Abs. 1 Nr. 3 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
     Bei Nacht:
     ein rotes Rundumlicht.
     ... (Abb.)
@@ -174,17 +174,17 @@ II.2 Schallsignale der Fahrzeuge
     auf dem Nord-Ostsee-Kanal bei der Annäherung an schwimmende Geräte und an Stellen, die durch ein Sichtzeichen A.4 (Anlage I) gekennzeichnet sind, sowie beim Ablegen von der Bunkerstation Projensdorf, wenn das Fahrzeug westwärts fahren will.
     Ein Maschinenfahrzeug, das Schießscheiben schleppt, hat das Schallsignal zu geben, wenn sich bei Nacht ein Fahrzeug in Gefahr drohender Weise nähert.
   1.1 Auf allen Seeschiffahrtsstraßen mit Ausnahme auf dem Nord-Ostsee-Kanal:
-    ein langer Ton. ... (Abb.)
+    ein langer Ton.... (Abb.)
   1.2 Auf dem Nord-Ostsee-Kanal:
   1.2.1 Westwärts fahrende Fahrzeuge:
-    ein langer Ton. ... (Abb.)
+    ein langer Ton.... (Abb.)
   1.2.2 Ostwärts fahrende Fahrzeuge:
-    zwei lange Töne. ... (Abb.)
+    zwei lange Töne.... (Abb.)
   2. Gefahr- und Warnsignal
   2.1 Allgemeines Gefahr- und Warnsignal
     Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es soweit möglich rechtzeitig das Schallsignal zu geben:
     ein langer Ton, vier kurze Töne, ... (Abb.)
-    ein langer Ton, vier kurze Töne. ... (Abb.)
+    ein langer Ton, vier kurze Töne.... (Abb.)
   2.2 Bleib-weg-Signal
     Werden auf Fahrzeugen oder Schub- und Schleppverbänden bestimmte gefährliche Güter oder radioaktive Stoffe im Sinne von § 2 Abs. 1 Nr. 16 frei oder drohen freizuwerden oder besteht Explosionsgefahr, ist das folgende Schallsignal so lange zu geben, wie die Verkehrslage es erfordert:
     ein kurzer Ton, ein langer Ton; das Signal ist in jeder Minute mindestens 5mal hintereinander mit jeweils 2 Sekunden Zwischenpause zu geben; sofern entsprechende Einrichtungen an Bord sind, ist das Schallsignal gleichzeitig als Lichtsignal mit einem weißen Rundumlicht zu geben.
@@ -194,10 +194,10 @@ II.2 Schallsignale der Fahrzeuge
   2.3 Warnsignal auf dem Nord-Ostsee-Kanal "ich vermindere meine Geschwindigkeit"
     Vermindert ein Fahrzeug seine Geschwindigkeit, während sich ein anderes Fahrzeug nähert, hat es rechtzeitig das Schallsignal zu geben:
     ein langer Ton, drei kurze Töne, ... (Abb.)
-    ein langer Ton, drei kurze Töne. ... (Abb.)
+    ein langer Ton, drei kurze Töne.... (Abb.)
   2.4 Warnsignal auf dem Nord-Ostsee-Kanal "ich will anlegen"
     Will ein Fahrzeug in einem Hafen oder an einer Umschlagsstelle festmachen, während sich ein anderes Fahrzeug nähert, hat es rechtzeitig das Schallsignal zu geben:
-    ein langer Ton, drei kurze Töne. ... (Abb.)
+    ein langer Ton, drei kurze Töne.... (Abb.)
   3. Schallsignale bei verminderter Sicht
   3.1 Auf dem Nord-Ostsee-Kanal haben in Fahrt befindliche Fahrzeuge mit Ausnahme der Fähren an Stellen, die durch Sichtzeichen B.1 (Anlage 1) gekennzeichnet sind, das Schallsignal zu geben:
   3.1.1 westwärts fahrende Fahrzeuge:
@@ -207,50 +207,50 @@ II.2 Schallsignale der Fahrzeuge
     Im übrigen ist das Schallsignal bei Erfordernis zu geben.
   3.2 Bugsierte Maschinenfahrzeuge in Fahrt
     Abweichend von Regel 35 Buchstabe a und b der Kollisionsverhütungsregeln ist das Schallsignal mindestens alle 2 Minuten zu geben:
-    ein langer Ton, ein kurzer Ton, zwei lange Töne. ... (Abb.)
+    ein langer Ton, ein kurzer Ton, zwei lange Töne.... (Abb.)
     Die bugsierenden Schlepper dürfen das Schallsignal nach Regel 35 Buchstabe c der Kollisionsverhütungsregeln nicht geben.
   3.3 Fähren während der ganzen Fahrt
   3.3.1 Nicht freifahrende Fähren:
-    dauernde Einzelschläge der Glocke. ... (Abb.)
+    dauernde Einzelschläge der Glocke.... (Abb.)
   3.3.2 Freifahrende Fähren:
-    ein kurzer Ton, zwei lange Töne. ... (Abb.)
+    ein kurzer Ton, zwei lange Töne.... (Abb.)
   4. (aufgehoben)
   5. Ausweichsignal
     (§ 24 Abs. 3)
   5.1 Hinweissignal "Ich will links ausweichen" sowie auf dem Nord-Ostsee-Kanal das Antwortsignal des Gegenkommers:
-    ein langer Ton mit zwei Gruppen von zwei kurzen Tönen. ... (Abb.)
+    ein langer Ton mit zwei Gruppen von zwei kurzen Tönen.... (Abb.)
   5.2 (aufgehoben)
   6. Anforderungssignal
     "Brücke/Sperrtor/Schleuse öffnen"
   6.1 Auf allen Seeschiffahrtsstraßen mit Ausnahme auf der Trave (bei Hubbrücken mit zwei Hubstufen "öffnen bis zur 1. Hubstufe"):
-    zwei lange Töne. ... (Abb.)
+    zwei lange Töne.... (Abb.)
   6.2 Auf der Trave
   6.2.1 Seewärts fahrende Fahrzeuge:
-    zwei lange Töne. ... (Abb.)
+    zwei lange Töne.... (Abb.)
   6.2.2 Binnenwärts fahrende Fahrzeuge:
-    zwei Gruppen von zwei langen Tönen. ... (Abb.)
+    zwei Gruppen von zwei langen Tönen.... (Abb.)
   6.3 Bei Hubbrücken mit zwei Hubstufen "öffnen bis zur letzten Hubstufe":
-    zwei lange Töne, ein kurzer Ton. ... (Abb.)
+    zwei lange Töne, ein kurzer Ton.... (Abb.)
   7. Schleppersignale
   7.1 Hinweissignal "Ich möchte einen Schlepper":
-    ein kurzer Ton, ein langer Ton, ein kurzer Ton, ein langer Ton. ... (Abb.)
+    ein kurzer Ton, ein langer Ton, ein kurzer Ton, ein langer Ton.... (Abb.)
   7.2 Manövriersignale beim Schleppen
   7.2.1 Hinweissignal "Bugschlepper Schleppleine nehmen, anschleppen (antauen) oder loswerfen":
-    ein langer Ton, zwei kurze Töne, ein langer Ton. ... (Abb.)
+    ein langer Ton, zwei kurze Töne, ein langer Ton.... (Abb.)
   7.2.2 Hinweissignal "Heckschlepper Schleppleine nehmen, anschleppen (antauen) oder loswerfen":
-    ein langer Ton, zwei kurze Töne, zwei lange Töne. ... (Abb.)
+    ein langer Ton, zwei kurze Töne, zwei lange Töne.... (Abb.)
   7.2.3 Hinweissignal "Bugschlepper nach Steuerbord schleppen (austauen)":
-    ein kurzer Ton. ... (Abb.)
+    ein kurzer Ton.... (Abb.)
   7.2.4 Hinweissignal "Bugschlepper nach Backbord schleppen (austauen)":
-    zwei kurze Töne. ... (Abb.)
+    zwei kurze Töne.... (Abb.)
   7.2.5 Hinweissignal "Heckschlepper zurückschleppen (zurücktauen)":
-    drei kurze Töne. ... (Abb.)
+    drei kurze Töne.... (Abb.)
   7.2.6 Hinweissignal "Heckschlepper nach Steuerbord schleppen (austauen)":
-    drei kurze Töne und nach einer Pause ein weiterer kurzer Ton. ... (Abb.)
+    drei kurze Töne und nach einer Pause ein weiterer kurzer Ton.... (Abb.)
   7.2.7 Hinweissignal "Heckschlepper nach Backbord schleppen (austauen)":
-    drei kurze Töne und nach einer Pause zwei weitere kurze Töne. ... (Abb.)
+    drei kurze Töne und nach einer Pause zwei weitere kurze Töne.... (Abb.)
   7.2.8 Hinweissignal "Manöver verlangsamen oder einstellen":
-    ein langer Ton. ... (Abb.)
+    ein langer Ton.... (Abb.)
   7.2.9 Hinweissignal "Gefahr":
-    fünf kurze Töne oder mehr. ... (Abb.)
+    fünf kurze Töne oder mehr.... (Abb.)
   8. (aufgehoben)

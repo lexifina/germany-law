@@ -1,13 +1,12 @@
-# Anlage (zu § 3 Absatz 4)Benennung berauschender Mittel
+# Anlage (zu § 3 Absatz 4)Liste der berauschenden Mittel und Substanzen
 
 | Mittel | Substanz |
-| Cannabis | Tetrahydrocannabinol (THC) |
 | Heroin | Morphin |
 | Morphin | Morphin |
 | Kokain | Benzoylecgonin |
-| Amphetamine | Amphetamin |
-| Designer Amphetamine | Methylendioxyamphetamin (MDA) |
-|  | Methylendioxyethylamphetamin (MDE) |
-|  | Methylendioxymetamphetamin (MDAE) |
-| Metamphetamin | Metamphetamin |
+| Amfetamine | Amfetamin |
+| Designer Amfetamine | Methylendioxyamfetamin (MDA) |
+| Methylendioxyethylamfetamin (MDE) |
+| Methylendioxymetamfetamin (MDAE) |
+| Metamfetamin | Metamfetamin |
 Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Digitales und Verkehr für den Bereich des Straßenverkehrs.

@@ -97,7 +97,7 @@ und Schub- und Schleppverbände](0050.md)
 - [Anlage III Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
 
 (zu § 1 Abs. 5)](anlage-iii.md)
-- [Anlage IV Benennung berauschender Mittel](anlage-iv.md)
+- [Anlage IV Liste der berauschenden Mittel und Substanzen](anlage-iv.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 (BGBl. II 1990, 889, 1108)](anhang-ev.md)

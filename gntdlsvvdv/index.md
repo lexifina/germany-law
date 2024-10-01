@@ -13,9 +13,20 @@
 - [§ 6 Erholungsurlaub](0006.md)
 - [§ 7 Nachteilsausgleich](0007.md)
 
-## Abschnitt 2 (zukünftig in Kraft)
+## Abschnitt 2 Auswahlverfahren
 
-- [(XXXX) §§ 8 bis 19 (zukünftig in Kraft)](xxxx-8-bis-19.md)
+- [§ 8 Zweck des Auswahlverfahrens](0008.md)
+- [§ 9 Zulassung zum Auswahlverfahren](0009.md)
+- [§ 10 Auswahlkommission](0010.md)
+- [§ 11 Teile des Auswahlverfahrens](0011.md)
+- [§ 12 Festlegungen zum Auswahlverfahren](0012.md)
+- [§ 13 Schriftlicher Teil des Auswahlverfahrens](0013.md)
+- [§ 14 Zulassung zum mündlichen Teil des Auswahlverfahrens](0014.md)
+- [§ 15 Mündlicher Teil des Auswahlverfahrens](0015.md)
+- [§ 16 Gesamtergebnis und Rangfolge](0016.md)
+- [§ 17 Ausnahmeregelung zur Rangfolge](0017.md)
+- [§ 18 Täuschung](0018.md)
+- [§ 19 Einstellung und gesundheitliche Eignung](0019.md)
 
 ## Abschnitt 3 Studienordnung
 
