@@ -3,14 +3,15 @@
 Abschnitt 1
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebührenpflichtige
 Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der Strompolizei
-Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
+1. Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
+2. Die Gebühren nach den Nummern 1, 2 und 5 dieses Abschnitts richten sich nach dem für die Verfahren jeweils zu betreibenden Aufwand. Maßgeblich für die Einordnung sind die Kriterien: Politische Bedeutung des Vorhabens (Haltung von Gebietskörperschaften, Behörden oder Verbänden zum Vorhaben), räumliche Auswirkungen, Gefährdungspotential, Intensität des Eingriffs in Natur und Umwelt, Anzahl der Vorhabensträger, Strecken- oder Punktvorhaben (z. B. Errichtung einer Schleuse), Lage der Bauwerke, rechtliche oder tatsächliche Schwierigkeiten, Anzahl der Betroffenen, der Behörden und Verbände sowie die Anzahl und der Umfang der Einwendungen und Stellungnahmen.
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
 | Gegenstand | Abgekürzte Rechtsgrundlage |  |
-| 1 | Planfeststellung für den Ausbau oder Neubau | § 14 Absatz 1 Satz 1 WaStrG i. V. m. § 74 VwVfG |  | 91 891 – 741 162 |
-| 2 | Plangenehmigung | § 14 Absatz 1 Satz 4 WaStrG i. V. m. § 74 Absatz 6 VwVfG |  | 17 909 – 68 726 |
+| 1 | Planfeststellung für den Ausbau oder Neubau von Bundeswasserstraßen | § 14 Absatz 1 Satz 1 WaStrG i. V. m. § 74 des Verwaltungsverfahrensgesetzes (VwVfG) |  | 741 163 (Verfahren mit einem weit überdurchschnittlichen Aufwand) 331 490 (Verfahren mit einem überdurchschnittlichen Aufwand) 147 787 (Verfahren mit einem durchschnittlichen Aufwand) 91 891 (Verfahren mit einem unterdurchschnittlichen Aufwand). |
+| 2 | Plangenehmigung für den Ausbau oder Neubau von Bundeswasserstraßen | § 14 Absatz 1 Satz 4 WaStrG i. V. m. § 74 Absatz 6 VwVfG |  | 68 727 (Verfahren mit einem überdurchschnittlichen Aufwand) 17 909 (Verfahren mit einem durchschnittlichen Aufwand) |
 | 3 | Planänderung | § 14d WaStrG i. V. m. § 76 Absatz 2 VwVfG |  | 2 527 |
 | 4 | Entfallen von Planfeststellung und Plangenehmigung in Fällen von unwesentlicher Bedeutung | § 14 Absatz 1 Satz 3 WaStrG i. V. m. § 74 Absatz 7 VwVfG |  | 748 |
-| 5 | Vorläufige Anordnung für Teilmaßnahmen zum Ausbau oder Neubau | § 14 Absatz 2 Satz 1 WaStrG |  | 2 781 – 13 909 |
+| 5 | Vorläufige Anordnung für Teilmaßnahmen zum Ausbau oder Neubau | § 14 Absatz 2 Satz 1 WaStrG |  | 13 910 (Verfahren mit einem überdurchschnittlichen Aufwand) 4 815 (Verfahren mit einem durchschnittlichen Aufwand) 2 782 (Verfahren mit einem unterdurchschnittlichen Aufwand) |
 | 6 | Vorbehaltene Entscheidung nach Abschluss der Planfeststellung | § 74 Absatz 3 VwVfG |  | 2 527 |
 | 7 | Entscheidungen bei nicht voraussehbaren Wirkungen des Vorhabens nach Unanfechtbarkeit des Planes | § 75 Absatz 2 Satz 2 und 4 VwVfG |  | 2 527 |
 | 8 | Aufhebung des Planfeststellungsbeschlusses | § 77 VwVfG |  | 7 196 |
@@ -21,17 +22,41 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 |  |  |  | Schäden auf Grundlage einer vorläufigen Anordnung bzw. Vermögensnachteile durch Veränderungssperre (mehr als 4 Jahre) | 14 977 |
 |  |  |  | nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werden können | 15 258 |
 | 11 | Schriftliche strompolizeiliche Verfügung | § 28 Absatz 2 Satz 1 WaStrG |  | 208 – 21 083 |
-| 12 | Strom- und schifffahrtspolizeiliche Genehmigung für Benutzungen | § 31 Absatz 1 Nummer 1 WaStrG |  | 120 – 19 637 |
-| 13 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Anlagen | § 31 Absatz 1 Nummer 2 WaStrG |  | 314 – 23 024 |
-| 14 | Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens | § 34 Absatz 2 Satz 2 WaStrG |  | 133 – 11 905 |
-| 15 | Nachträgliche Entscheidung zu Verwaltungsakten nach den Nummern 12, 13 und 14 (z. B. Verlängerung, Übertragung, nachträgliche Auflagen) | §§ 31, 34 WaStrG |  | 133 – 22 261 |
-| 16 | Schriftliche Einzelgenehmigung | § 3 Absatz 1 Nummer 1 WaStrBAV |  | 78 – 11 905 |
-| 17 | Allgemeine Genehmigung | § 3 Absatz 1 Nummer 2 WaStrBAV |  | 78 – 11 905 |
-| 18 | Schriftliche Befreiung von der Vorschrift über die Grenzen und die Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau | § 12 Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen und Schifffahrt |  | 405 – 1 232 |
-| 19 | Schriftliche Einzelgenehmigung Borkum | § 2 Absatz 1 StrandschutzwerkSicherungsV |  | 118 |
-| 20 | Schriftliche Einzelgenehmigung Wangerooge | § 2 Absatz 1 DünenSchV |  | 156 |
-| 21 | Verfügung eines Durchfahrtsverbots | § 4 Absatz 3 Satz 1 NOK-GefAbwV |  | 111 |
-| 22 | Anordnung einer Nutzungsbeschränkung | § 4 Absatz 3 Satz 1 NOK-GefAbwV |  | 74,40 – 223 |
+| 12 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme von Wasser | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 844 |
+| 13 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 1 055 |
+| 14 | Strom- und schifffahrtspolizeiliche Genehmigung für das Einbringen fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 211 – 2 110 |
+| 15 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme und das anschließende Einbringen fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 1 055 – 2 813 |
+| 16 | Strom- und schifffahrtspolizeiliche Genehmigung für eine Wasserinjektionsbaggerung | § 31 Absatz 1 Nummer 1 WaStrG |  | 351 – 2 110 |
+| 17 | Strom- und schifffahrtspolizeiliche Genehmigung für das Einleiten von Wasser | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 703 |
+| 18 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Freizeitschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 351 – 2 110 |
+| 19 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Binnenschifffahrtsstraßen | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 4 220 |
+| 20 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Seeschifffahrtsstraßen | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 11 253 |
+| 21 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Freizeitschifffahrt | § 31 Absatz 2 Nummer 2 WaStrG |  | 316 – 2 813 |
+| 22 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Berufsschifffahrt | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 4 220 |
+| 23 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootseinsatzstelle | § 31 Absatz 2 Nummer 2 WaStrG |  | 703 – 4 220 |
+| 24 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 055 – 5 626 |
+| 25 | Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 3 516 – 14 066 |
+| 26 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 703 – 5 626 |
+| 27 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an bestehenden Anlagen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 2 813 |
+| 28 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Rohrbrücke | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 5 626 |
+| 29 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Dalbens | § 31 Absatz 2 Nummer 2 WaStrG |  | 422 – 2 813 |
+| 30 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer unterirdischen Leitungskreuzung | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 125 – 7 033 |
+| 31 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer oberirdischen Leitungskreuzung | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 4 220 |
+| 32 | Strom- und schifffahrtspolizeiliche Genehmigung für die Verlegung einer Leitung | § 31 Absatz 2 Nummer 2 WaStrG |  | bei einer Länge von weniger als 1 km 562 – 2 813 bei einer Länge von 1 km bis 5 km 1 758 – 7 033 bei einer Länge über 5 km 1 758 – 10 550 |
+| 33 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Einleitungs- oder Entnahmebauwerks | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 8 440 |
+| 34 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße | § 31 Absatz 2 Nummer 2 WaStrG |  | 844 – 2 813 |
+| 35 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb temporärer Bauwerke mit Blendwirkung | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 844 |
+| 36 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Messstationen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 2 110 |
+| 37 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Lichtinstallationen an Bundeswasserstraßen | § 31 Absatz 2 Nummer 2 WaStrG |  | 281 – 844 |
+| 38 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Uferbefestigung | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 5 626 |
+| 39 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Wasserbauwerken | § 31 Absatz 2 Nummer 2 WaStrG |  | 562 – 5 626 |
+| 40 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Tunnels | § 31 Absatz 2 Nummer 2 WaStrG |  | 3 516 – 14 066 |
+| 41 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Seilbahn | § 31 Absatz 2 Nummer 2 WaStrG |  | 1 688 – 5 626 |
+| 42 | Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens | § 34 Absatz 2 Satz 2 WaStrG |  | 246 – 844 |
+| 43 | Nachträgliche Entscheidungen zu Genehmigungen | § 31 Absatz 2 Nummer 1, Absatz 2 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG |  | 140 – 2 813 |
+| 44 | Schriftliche Einzelgenehmigung für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | § 3 Absatz 1 Nummer 1 WaStrBAV § 2 Absatz 1 StrandSchutzwerkSicherungsV § 2 Absatz 1 DünenSchV § 12 Schleusenbetriebsverordnung |  | 70,30 – 562 |
+| 45 | Allgemeine Genehmigung für bestimmte Personengruppen für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | § 3 Absatz 1 Nummer 2 WaStrBAV |  | 457 – 1 055 |
+| 46 | Fertigung eines feststellenden Verwaltungsaktes |  |  | nach Zeitaufwand |
 Abschnitt 2
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
@@ -190,8 +215,8 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 4013 | Eintragung einer Änderung | § 4 Absatz 1 Satz 1 BinSch-SportbootVermV | 69,90 |
 | 4014 | Ersatz eines Bootszeugnisses |  | 69,90 |
 | 402 | Nicht motorisierte Sportboote oder Sportboote mit einer elektrischen Antriebsmaschine von weniger als 1 KW | § 5 Absatz 2 BinSch-SportbootVermV |  |
-| 4021 | Untersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung |  | 96,60 |
-| 4022 | Sonder- oder Nachuntersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung |  | 1/6 bis 6/6 der Gebühr nach Nummer 4021 je nach Aufwand |
+| 4021 | Untersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung oder eines Abnahmeprotokolls |  | 96,60 |
+| 4022 | Sonder- oder Nachuntersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung oder eines Abnahmeprotokolls |  | 1/6 bis 6/6 der Gebühr nach Nummer 4021 je nach Aufwand |
 | 4023 | Untersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung als Prototypenabnahme |  | 133 |
 | 40231 | Serie bis einschließlich 10 Fahrzeuge |  | 535 |
 | 40232 | Serie bis einschließlich 25 Fahrzeuge |  | 1 338 |
@@ -205,12 +230,12 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 40321 | Erstantrag |  | 171 |
 | 40322 | Neuantrag |  | 85,50 |
 | 5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit dem sonstigen Verhalten im Verkehr |
-| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2, § 28.02 Nummer 5 BinSchStrO § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV § 8.01 MoselSchPV |  |
+| 501 | Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten | § 1.06 Nummer 2, § 17.03 Nummer 1 Satz 3 BinSchStrO, § 28.02 Nummer 5 BinSchStrO § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV § 8.01 MoselSchPV |  |
 | 5011 | für eine Reise |  | 74,40 |
 | 5012 | für ein Jahr oder mehrere Reisen |  | 148 |
 | 5013 | für mehrere Jahre |  | 297 |
 | 5014 | Zusatzgebühr bei erforderlicher Probefahrt |  | nach Zeitaufwand |
-| 502 | Erlaubnis eines Sondertransports | § 1.21 Nummer 2 Satz 1 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV | 104 – 282 |
+| 502 | Erlaubnis eines Sondertransports | §§ 1.21 Nummer 2 Satz 1, 1.28 BinSchStrO § 1.21 Nummer 1 Satz 2 RheinSchPV § 1.21 Nummer 1 Satz 2 MoselSchPV | 104 – 282 |
 | 503 | Erlaubnis von Veranstaltungen | § 1.23 Satz 1 BinSchStrO § 1.23 RheinSchPV § 1.23 MoselSchPV § 16 Absatz 1 TspV |  |
 | 5031 | Sportliche |  | 104 – 330 |
 | 5032 | Sonstige |  | 78 – 252 |
@@ -266,7 +291,9 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 | 7011 | nach einer Prüfung | §§ 2, 5 und 6 Absatz 1 BinSchZV | 74,40 |
 | 7012 | mit Nachweis der praktischen Tätigkeit oder eines Hochschulabschlusses oder einer Abschlussprüfung in einem anerkannten Ausbildungsberuf | § 6 Absatz 1 und 2, §§ 7, 8, 12 BinSchZV | 104 |
 | 7013 | Berichtigung einer Erlaubnisurkunde | § 2 Absatz 5 BinSchZV | 37,20 |
-| 702 | Fertigung eines zurückweisenden Widerspruchs oder Fertigung eines sonstigen schriftlichen Verwaltungsaktes, denen kein antragsgebundenes Verfahren der Abschnitte 1 – 6 zu Grunde liegt | § 1 Absatz 2 S. 2 BinSchAufgG § 80 Absatz 1 S. 3 VwVfG § 43 Absatz 1 VwGO analog | 29 – 739 |
+| 702 | Erteilung einer Befreiung von der Verpflichtung zum Ausfüllen und Mitführen einer Entladebescheinigung für einen Zeitraum von weniger als einem Jahr | Artikel 6.03 Absatz 7 Satz 4 der Anlage 2 (Teil B) des Straßburger Abfallübereinkommens für die Binnenschifffahrt i. V. m. § 14 Absatz 4 BinSchAbfÜbkAG | 121 |
+| 7021 | Erteilung einer Befreiung von der Verpflichtung zum Ausfüllen und Mitführen einer Entladebescheinigung für einen Zeitraum von einem Jahr oder länger | Artikel 6.03 Absatz 7 Satz 4 der Anlage 2 (Teil B) des Straßburger Abfallübereinkommens für die Binnenschifffahrt i. V. m. § 14 Absatz 4 BinSchAbfÜbkAG | 207 |
+| 703 | Fertigung eines feststellenden Verwaltungsaktes |  | nach Zeitaufwand |
 Abschnitt 3
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenommen die Schiffssicherheit
@@ -277,15 +304,19 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenomm
 2. Gebührenreduzierung gemäß § 9 Absatz 4 BGebG:
   Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
 | Nummer | Gegenstand | Rechtsgrundlage | Gebühr in Euro |
-| 1 | Schriftlich erlassene schifffahrtspolizeiliche Verfügungen | § 56 Absatz 1 SeeSchStrO § 11 Absatz 1 EmsSchEV§ 4 Absatz 1 SperrWarnGebV§ 3 SeeAufgG | 208 – 676 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Verfügungen |
+| 1 | Schriftlich erlassene schifffahrtspolizeiliche Verfügungen mit durchschnittlichem Aufwand (Schiffsabmessungen, Auflagen und Sachlage bekannt) | § 56 Absatz 1 SeeSchStrO § 4 Absatz 1 SperrWarngebV § 3 SeeAufgG § 11 Absatz 1 EmsSchEV | 238 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Verfügungen |
+| 1a | Schriftlich erlassene schifffahrtspolizeiliche Verfügungen mit überdurchschnittlichem Aufwand (Schiffsabmessungen unbekannt, Auflagen müssen erarbeitet werden, Abstimmung mit anderen Ämtern/GDWS, Befahrung von mehr als zwei Revieren) | § 56 Absatz 1 SeeSchStrO § 4 Absatz 1 SperrWarngebV § 3 SeeAufgG § 11 Absatz 1 EmsSchEV | 422 – 649 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Verfügungen |
 | 2 | Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge, Luftkissen-, Tragflächen-, Bodeneffekt- und Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und Flugbooten mit durchschnittlichem Aufwand (z. B. Überschreitung der Genehmigungsgrenzen um weniger als 50%, Wiederholung bei typgleichem Schiff, Schleppverband mit nicht genehmigungspflichtigem Anhang) | § 57 Absatz 1 Nummer 1 SeeSchStrO Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO | 131zuzüglich Zulagenach § 4Erschwerniszulagenverordnungbei außerhalbder DienstzeiterlassenenGenehmigungen |
 | 2a | Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge, Luftkissen-, Tragflächen-, Bodeneffekt- und Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und Flugbooten mit außergewöhnlichem Aufwand (z. B. Erforderlichkeit besonderer Maßnahmen der Wasserstraßen- und Schifffahrtsverwaltung, Spezialtransporte mit Überbreite, Überhöhe oder außergewöhnlichem Anhang) | § 57 Absatz 1 Nummer 1 SeeSchStrO Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO | 206 – 666zuzüglich Zulagenach § 4Erschwerniszulagenverordnungbei außerhalbder DienstzeiterlassenenGenehmigungen |
-| 3 | Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie des Schleppens außergewöhnlicher Schwimmkörper | § 57 Absatz 1 Nummer 2 SeeSchStrO Artikel 28 Absatz 1 Nummer 2 EmsSchO | 254 – 669 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
+| 3 | Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie des Schleppens außergewöhnlicher Schwimmkörper mit durchschnittlichem Aufwand (Schiffsabmessungen und Auflagen bekannt, kein genehmigungspflichtiger Anhang bei Schleppverbänden, wiederkehrende SpG) | § 57 Absatz 1 Nummer 2 SeeSchStrO | 150 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
+| 3a | Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie des Schleppens außergewöhnlicher Schwimmkörper mit außergewöhnlichem Aufwand (Schiffsabmessungen unbekannt, Auflagen müssen erarbeitet werden, Abstimmung mit anderen Ämtern/GDWS, Befahrung von mehr als zwei Revieren) | § 57 Absatz 1 Nummer 2 SeeSchStrO | 206 – 356 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
+| 3b | Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie des Schleppens außergewöhnlicher Schwimmkörper im Geltungsbereich der EmsSchO | Artikel 28 Absatz 1 Nummer 2 EmsSchO | nach Zeitaufwand |
 | 4 | Genehmigung von Stapelläufen | § 57 Absatz 1 Nummer 3 SeeSchStrO | 167 – 314 |
 | 5 | Genehmigung der Bergung von Fahrzeugen, außergewöhnlichen Schwimmkörpern und Gegenständen, soweit dadurch Sicherheit und Leichtigkeit des Verkehrs beeinträchtigt werden oder eine Gefahr für die Meeresumwelt entstehen kann | § 57 Absatz 1 Nummer 4 SeeSchStrO Artikel 28 Absatz 1 Nummer 3 EmsSchO | 630 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
 | 6 | Genehmigung der Erprobung und der Prüfung der Zugkraft von Fahrzeugen sowie Standproben, die die Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen können | § 57 Absatz 1 Nummer 5 SeeSchStrO Artikel 28 Absatz 2 Nummer 4 EmsSchO | 258 |
 | 7 | Genehmigung wassersportlicher Veranstaltungen | § 57 Absatz 1 Nummer 6 SeeSchStrO Artikel 28 Absatz 1 Nummer 6 EmsSchO | 213 – 435 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
-| 8 | Genehmigung des Parasailing | § 57 Absatz 1 Nummer 6a SeeSchStrO Artikel 28 Absatz 1 Nummer 5 EmsSchO | 262 – 1 620 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
+| 8 | Genehmigung des Parasailing in einem einfachen Fall (Fahrstrecken und Auflagen sind bekannt) | § 57 Absatz 1 Nummer 6a SeeSchStrO Artikel 28 Absatz 1 Nummer 5 EmsSchO | 148 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
+| 8a | Genehmigung des Parasailing in einem komplexen Fall (Fahrstrecken neu, Auflagen müssen erarbeitet werden, Abstimmung mit mehreren WSÄ/GDWS) | § 57 Absatz 1 Nummer 6a SeeSchStrO Artikel 28 Absatz 1 Nummer 5 EmsSchO | 178 – 208 zuzüglich Zulage nach § 4 Erschwernis- zulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
 | 9 | Genehmigung sonstiger Veranstaltungen auf oder an Seeschifffahrtsstraßen, die die Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen oder eine Gefahr für die Meeresumwelt darstellen können | § 57 Absatz 1 Nummer 7 SeeSchStrO Artikel 28 Absatz 1 Nummer 7 EmsSchO | 213 – 351 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Genehmigungen |
 | 10 | Gestattung der Durchfahrt durch den Nord-Ostsee-Kanal unter Auflagen für Fahrzeuge, die die Voraussetzungen für die Durchfahrt nicht erfüllen | § 42 Absatz 6 SeeSchStrO | 111 – 148 zuzüglich Zulage nach § 4 Erschwerniszulagenverordnung bei außerhalb der Dienstzeit erlassenen Gestattungen |
 | 11 | Erteilung eines Fahrtausweises für Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren Lagerplatz unmittelbar am beziehungsweise im Nord-Ostsee-Kanal zwischen den Schleusen haben, sowohl für muskelbetriebene Sportfahrzeuge als auch für sonstige Sportfahrzeuge | § 51 Absatz 2 SeeSchStrO | 19,80 |
@@ -294,15 +325,16 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenomm
 | 14 | Ersatz eines Kanalsteureranwärter- oder Kanalsteurerausweises | § 14 Absatz 1 SeeAufgG § 42 Absatz 5 SeeSchStrO | 38,35 |
 | 15 | Befreiung von den Vorschriften der Seeschifffahrtsstraßenordnung und der Verordnung zur Einführung der Schifffahrtsordnung Emsmündung im Einzelfall | § 59 SeeSchStrO oder § 12 EmsSchEV§ 4 Absatz 2 SperrWarnGebV | 217 – 431 |
 | 16 | Befreiung von den Vorschriften der Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See | § 8 Absatz 2 Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See | 315 – 420 |
-| 17 | Zuteilung des Kennzeichens einschließlich Ausstellung des Ausweises oder dessen Verlängerung oder Ausstellung eines Ersatzausweises | § 4 Absatz 2 SeeSpbootV | 68 – 116 |
+| 17 | Zuteilung des Kennzeichens einschließlich Ausstellung des Ausweises oder dessen Verlängerung oder Ausstellung eines Ersatzausweises | § 4 Absatz 2 SeeSpbootV | 29,70 |
 | 18 | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines Sportbootes oder Wassermotorrades, das für Fahrten binnenwärts der Basislinie oder in Strandnähe geeignet und bestimmt ist, kleine Sportboote, Wassermotorräder | §§ 5, 6 Absatz 1 und § 18 Absatz 1 und 2 SeeSpbootV | 118 – 162 |
+| 18a | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines muskelbetriebenen Sportbootes, das für Fahrten binnenwärts der Basislinie oder in Strandnähe geeignet oder bestimmt ist | §§ 5, 6 Absatz 1, § 18 Absatz 1 und 2 SeeSpBootV | 51,50 |
 | 19 | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines Sportbootes, das für Fahrten seewärts der Basislinie geeignet und bestimmt ist, große Sportboote | §§ 5, 6 Absatz 1 und § 18 Absatz 1 und 2 SeeSpbootV | 102 – 563 |
 | 20 | Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses für Sportboote, die durch die BG Verkehr oder eine anerkannte Klassifikationsgesellschaft untersucht wurden | § 6 Absatz 1, 2 und 3 SeeSpbootV | 95 – 144 |
 | 21 | Bescheinigung der Fahrtüchtigkeit eines Sportbootes nach Veränderungen an dem Fahrzeug | § 9 Absatz 2 SeeSpbootV | 124 – 207 |
 | 22 | Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils im Einzelfall | § 13 oder § 15 Absatz 1a SeeSpbootV | 297 – 595 |
 | 23 | Beendigung der Gültigkeit eines Bootszeugnisses aus triftigem Grund im Anschluss an eine von der Zulassungsbehörde in Auftrag gegebene und von der BG Verkehr oder einer anerkannten Klassifikationsgesellschaft durchgeführte Nachbesichtigung | § 18 Absatz 1 Satz 2 i. V. m. § 5 Absatz 4 SeeSpbootV | 446 |
-| 24 | Ersatz eines Bootszeugnisses bei Verlust |  | 38,40 – 234 |
-| 25 | Übertragung der Bootszeugnisse bei Veräußerung beziehungsweise Umschreibung des Bootszeugnisses |  | 38,40 – 234 |
+| 24 | Ersatz eines Bootszeugnisses bei Verlust |  | 38,15 – 102 |
+| 25 | Übertragung eines Bootszeugnisses bei Veräußerung oder Umschreibung |  | 49,50 – 117 |
 | 26 | Zulassung eines Seelotsenanwärters und Ausstellung eines Seelotsenanwärterausweises | § 8 Absatz 2 Satz 1 SeeLG § 15 Absatz 1 SeeLAuFV | 38,35 |
 | 27 | Erstprüfung eines Seelotsenanwärters für die Seelotsreviere | § 10 SeeLG | 193 |
 | 28 | Wiederholungsprüfung eines Seelotsanwärters für die Seelotsreviere | § 10 SeeLG | 181 |
@@ -314,27 +346,206 @@ für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenomm
 | 34 | Ersatz einer Bescheinigung über die Befreiung von der Lotsenannahmepflicht | § 12 Ems LV § 12 Weser/Jade-LV § 12 Elbe-LV § 16 NOK-LV § 14 WIROST-LV | 83,60 |
 | 35 | Anordnung der Lotsenannahme im Einzelfall | § 14 Ems LV § 14 Weser/Jade-LV § 14 Elbe-LV § 18 NOK-LV § 15 WIROST-LV | 130 |
 | 36 | Prüfung des Schiffsführers |  |  |
-|  | Theoretische Prüfung | a)§ 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Ems LV § 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Weser/Jade-LV § 10 Absatz 3 Nummer 2 Ems LV § 10 Absatz 3 Nummer 2 Weser/Jade-LV § 9 Absatz 1 Satz 1 Nummer 2, § 10 Absatz 3 Nummer 2 Elbe-LV § 11 Absatz 1 Nummer 1 und 2, § 12 Absatz 1 Nummer 1, 2 und 3, § 13 Absatz 1 und § 14 Absatz 3 NOK-LV | a) 720 |
+|  | Theoretische Prüfung | a)§ 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Ems LV § 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Weser/Jade-LV § 10 Absatz 3 Nummer 2 Ems LV § 10 Absatz 3 Nummer 2 Weser/Jade-LV § 9 Absatz 1 Satz 1 Nummer 2, § 10 Absatz 3 Nummer 2 Elbe-LV § 11 Absatz 1 Nummer 1 und 2, § 12 Absatz 1 Nummer 1, 2 und 3, § 13 Absatz 1 und § 14 Absatz 3 NOK-LV§ 9 Absatz 1 Nummer 2, § 10 Absatz 1 Nummer 4, § 11 Absatz 1 Nummer 4 und § 12 Absatz 3 Nummer 2 WIROST-LV | a) 720 |
 |  | Praktische Prüfung | b)§ 12 Absatz 1 Nummer 3 NOK-LV § 13 Absatz 1 Nummer 3 und Absatz 2 NOK-LV | b) 1 784 |
 | 37 | Befreiung von der Lotsenannahmepflicht mit der Ausstellung einer entsprechenden Bescheinigung | § 9 Absatz 1 bis 4 Ems LV § 9 Absatz 1 bis 4 Weser/Jade-LV § 10 Absatz 1 bis 5 Ems LV § 10 Absatz 1 bis 5 Weser/Jade-LV § 9 Absatz 3, § 10 Absatz 5 Elbe-LV § 12 Absatz 2, § 14 Absatz 4 NOK-LV § 9 Absatz 5, § 10 Absatz 5, § 11 Absatz 5 und § 12 Absatz 5 WIROST-LV | 210 |
-| 38 | Verlängerung der Befreiung von der Lotsenannahmepflicht | § 9 Absatz 5 Ems LV § 9 Absatz 5 Weser/Jade-LV § 10 Absatz 6 Ems LV § 10 Absatz 6 Weser/Jade-LV § 9 Absatz 4, § 10 Absatz 6 Elbe-LV § 11 Absatz 3, § 12 Absatz 3, § 13 Absatz 4 und § 14 Absatz 5 NOK-LV | 110 |
+| 38 | Verlängerung der Befreiung von der Lotsenannahmepflicht | § 9 Absatz 5 Ems LV § 9 Absatz 5 Weser/Jade-LV § 10 Absatz 6 Ems LV § 10 Absatz 6 Weser/Jade-LV § 9 Absatz 4, § 10 Absatz 6 Elbe-LV § 11 Absatz 3, § 12 Absatz 3, § 13 Absatz 4 und § 14 Absatz 5 NOK-LV§ 9 Absatz 6, § 10 Absatz 6, § 11 Absatz 6 und § 12 Absatz 6 WIROST-LV | 110 |
 | 39 | Übertragung der Befreiung von der Lotsenannahmepflicht auf ein typgleiches Schiff | § 8 Absatz 5 und § 9 Absatz 6 Ems LV § 8 Absatz 5 und § 9 Absatz 6 Weser/Jade-LV § 10 Absatz 8 Ems-LV § 10 Absatz 8 Weser/Jade-LV § 9 Absatz 5, § 10 Absatz 7, 8 und 9 Elbe-LV § 11 Absatz 4, § 12 Absatz 4, § 13 Absatz 5 und § 14 Absatz 6, 7 und 8 NOK-LV § 9 Absatz 7, § 10 Absatz 7, § 11 Absatz 7 und § 12 Absatz 7, 8 und 9 WIROST-LV | 110 |
-| 40 | Befreiung von Befahrensverboten | § 2 Absatz 2 der Verordnung über das Befahren des Naturschutzgebietes „Helgoländer Felssockel“ | 178 – 645 |
-| 41 | Befreiung von Befahrensverboten | § 2 Absatz 2 OstseeSHNSG-BefV | nach Zeitaufwand |
-| 42 | Befreiung von Befahrensverboten | § 5 Absatz 1 und 2 NPNordSBefV | 212 – 600 |
-| 43 | Befreiung von Befahrensverboten | § 5 Absatz 3 NPNordSBefV | 223 – 600 |
-| 44 | Befreiung von Befahrensverboten | § 7 Absatz 1 Nummer 1 und 2 NPBef-VMVK | 242 – 645 |
-| 45 | Erlaubnis eines Umpumpvorganges | § 5 Absatz 2 Satz 2 SeeUmwVerhV | 316 |
-| 46 | Übermittlung schiffsbezogener Daten | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 331 |
-| 47 | Übermittlung schiffsbezogener Daten in besonderen Fällen | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 293 |
-| 48 | Laufende Systemüberwachung für die regelmäßige Übermittlung schiffsbezogener Daten und schiffsbezogener Daten in besonderen Fällen | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 133 |
-| 49 | Entzug der Fahrerlaubnis oder des Befähigungsnachweises (See und Binnen) | § 13 Absatz 1 SpFV | 768 |
-| 50 | Anordnung des Ruhens der Fahrerlaubnis (See und Binnen) | § 14 Absatz 1 Satz 1 Absatz 3 SpFV | 768 |
-| 51 | Vorläufige Sicherstellung des Sportbootführerscheins beziehungsweise des Befähigungszeugnisses (See und Binnen) | § 15 Absatz 1 SpFV | 768 |
-| 52 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge | § 2 Absatz 2 KüSchV | 69,30 |
-| 53 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei Erteilung einer Jahresgenehmigung | § 2 Absatz 2 KüSchV | 831 |
-| 54 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots | § 50 Absatz 1 bis 4 SUG | 924 – 5 468 |
+| 40 | Befreiung von Befahrensverboten | § 2 Absatz 2 HgFSNatSchV | 118 – 178 |
+| 41 | Befreiung von Befahrensverboten | § 2 Absatz 4 OstseeSHNSG-BefV | nach Zeitaufwand |
+| 42 | Befreiung von Befahrensverboten | § 5 Absatz 1, 2 und 3 NordSBefV | 74,40 – 297 |
+| 43 | Befreiung von Befahrensverboten | § 7 Absatz 1 Nummer 1 und 2 NPBefVMVK | 177 – 297 |
+| 44 | Erlaubnis eines Umpumpvorganges | § 5 Absatz 2 Satz 2 SeeUmwVerhV | 316 |
+| 45 | Übermittlung schiffsbezogener Daten | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 331 |
+| 46 | Übermittlung schiffsbezogener Daten in besonderen Fällen | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 293 |
+| 47 | Laufende Systemüberwachung für die regelmäßige Übermittlung schiffsbezogener Daten und schiffsbezogener Daten in besonderen Fällen | § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG | 133 |
+| 48 | Entzug der Fahrerlaubnis oder des Befähigungsnachweises (See und Binnen) | § 13 Absatz 1 SpFV | 768 |
+| 49 | Anordnung des Ruhens der Fahrerlaubnis (See und Binnen) | § 14 Absatz 1 Satz 1 Absatz 3 SpFV | 768 |
+| 50 | Vorläufige Sicherstellung des Sportbootführerscheins beziehungsweise des Befähigungszeugnisses (See und Binnen) | § 15 Absatz 1 SpFV | 768 |
+| 51 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge | § 2 Absatz 2 KüSchV | 69,30 |
+| 52 | Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei Erteilung einer Jahresgenehmigung | § 2 Absatz 2 KüSchV | 831 |
+| 53 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots mit einfacher Feststellung des Verschuldens | § 50 Absatz 1 bis 4 SUG | 923 |
+| 54 | Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots nach einem Unfall mit aufwändiger Feststellung des Verschuldens (z. B. bei mehreren Beteiligten) | § 50 Absatz 1 bis 4 SUG | 2 241 – 4 836 |
+| 55 | Fertigung eines feststellenden Verwaltungsakts |  | nach Zeitaufwand |
 Abschnitt 4
+Gebühren des Bundesamtes für Seeschifffahrt und Hydrographie
+Vorbemerkungen
+1. Bei den Gebühren für die Genehmigung zur Führung einer anderen Nationalflagge wird die Gebühr einer zuvor erteilten Genehmigung, deren Bewilligungszeitraum noch nicht abgelaufen ist, anteilig berücksichtigt.
+2. Bei den Gebührennummern 20-22, 24-30 sowie 32-33 werden die Reisekosten gesondert als Auslagen erhoben.
+3. Bei den Gebührennummern 34-43 werden die Kosten für Auslandsdienstreisen gesondert als Auslagen erhoben.
+4. Bei der Gebührennummer 147 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
+5. Bei den Gebührennummern 145-148 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
+| Nummer | Gegenstand | Abgekürzte Rechtsgrundlage | Gebühr in Euro |
+| 1 | Ausstellung von Flaggenzertifikaten einschließlich Verlängerung, Ersatzausstellung und Änderung | § 3 Buchstabe d FlaggRG i. V. m. §§ 14ff. FlRV | 107 |
+| 2 | Ausstellung von Flaggenscheinen für Probe- und Überführungsfahrten inklusive erneuter Ausstellung | § 10 FlaggRG | 123 |
+| 3 | Ausstellung von Flaggenscheinen für Eigentümer oder Ausrüster | § 11 FlaggRG | 272 |
+| 4 | Ausstellung von Bescheinigungen für beauftragte Personen | § 2 Absatz 1 Nummer 3 FlaggRG§ 5b Absatz 1 FlRV | 96 |
+| 5 | Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer Bruttoraumzahl (BRZ) bis einschließlich 10 000 oder bis einschließlich 10 000 Bruttoregistertonnen (BRT) für mehr als ein Jahr | § 7 FlaggRG, §§ 20, 20a FlRV | 1 722 |
+| 6 | Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT und für mehr als ein Jahr | § 7 FlaggRG, §§ 20, 20a FlRV | 12 282 |
+| 7 | Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ bis einschließlich 10 000 oder bis einschließlich 10 000 BRT für höchstens ein Jahr | § 7 FlaggRG, §§ 20, 20a FlRV | 1 002 |
+| 8 | Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT für höchstens ein Jahr | § 7 FlaggRG, §§ 20, 20a FlRV | 6 282 |
+| 9 | Bescheinigung über die Erledigung der Genehmigung zum Führen einer anderen Nationalflagge | § 7 FlaggRG, §§ 20, 20a FlRV | 59 |
+| 10 | Eintragung in das internationale Seeschifffahrtsregister | § 12 FlaggRG, §§ 23, 27 FlRV | 128 |
+| 11 | Genehmigung zur Führung einer anderen Nationalflagge im Zusammenhang mit dem Widerruf oder der Rücknahme einer bestehenden Ausflaggungsgenehmigung ohne Änderung des Zeitraums | § 7 FlaggRG, §§ 20, 20a FlRV | 252 |
+| 12 | Erteilung einer Bescheinigung für Seeleute Erteilung des Bescheids über die Voraussetzungen | §§ 24, 25 oder den Teilen 2 bis 7 See-BV § 30 Absatz 3 See-BV | 25 – 298 |
+| 13 | Abnahme einer Prüfung | § 31 Absatz 1 Satz 3 SeeBV § 40 Absatz 1 Satz 3, § 53 Absatz 2 Satz 1 Nummer 3 See-BV | 39 – 119 |
+| 14 | Zulassung eines Lehrgangs | § 20 Absatz 3 Satz 1 See-BV § 31 Absatz 1 Satz 1 Nummer 1b See-BV § 36 Satz 2 i. V. m. § 53 Absatz 2 Nummer 2 See-BV § 40 Absatz 1 Satz 1 Nummer 1b See-BV § 42 Absatz 3 Satz 2 See-BV § 48 Absatz 2 See-BV § 49 Absatz 2, § 50 Absatz 2, § 50a Absatz 2 Nummer 1 erster Halbsatz See-BV § 49 Absatz 2 Nummer 2, Absatz 4 Nummer 2, Absatz 6 Nummer 2 i. V. m. § 54 Absatz 3 Nummer 1 See-BV § 50 Absatz 2 Nummer 2, Absatz 4 Nummer 2 i. V. m. § 50a Absatz 2 Nummer 1 zweiter Halbsatz, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 4 Nummer 1 See-BV § 50b Absatz 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 5 Nummer 1 See-BV § 51 Absatz 6 Satz 1 See-BV § 53 Absatz 1 Satz 1 Nummer 3 See-BV § 53 Absatz 6 Satz 1 See-BV § 53 Absatz 7 Satz 1 See-BV § 54 Absatz 3 Nummer 1 See-BV § 47 Satz 2 Nummer 3 i. V. m. § 5 Absatz 1 Satz 1 SeeEigensichV | 1 698 – 5 494 |
+| 15 | Verlängerung der Zulassung eines Lehrgangs | § 49 Absatz 2 Nummer 2, Absatz 4 Nummer 2, Absatz 6 Nummer 2 i. V. m. § 54 Absatz 3 See-BV § 50 Absatz 2 Nummer 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 3 See-BV § 50a Absatz 2 Nummer 1, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 4 See-BV § 50b Absatz 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 5 See-BV § 53 Absatz 1 Satz 1 Nummer 3, Absatz 2 Satz 1 Nummer 2 See-BV | 499 – 3 995 |
+| 16 | Erteilung eines Seeleute-Ausweises | § 62 See-BV | 14 – 39 |
+| 17 | Gleichwertigkeitsbescheinigung | § 9 Absatz 5 Satz 1 SeeLG | 140 – 998 |
+| 18 | Anordnung des Ruhens von Bescheinigungen | § 57 Absatz 1 See-BV | 913 – 4 569 |
+| 19 | Entzug von Bescheinigungen | § 56 See-BV | 459 – 3 046 |
+| 20 | Schiffsvermessung nach den London-Regeln (entsprechend Internationalem Schiffsvermessungs-Übereinkommen von 1969) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | nach Zeitaufwand |
+| 21 | Sondervermessung nach spezifischen Regeln (Panama- und Suezkanal, Laderaumvermessung, Fischereifahrzeuge usw.) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | nach Zeitaufwand |
+| 22 | Vermessung nach vereinfachten Verfahren (z. B. Sportfahrzeuge, Fischereifahrzeuge < 15 m) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | 121 – 219 |
+| 23 | Ausstellung eines Schiffsmessbriefes oder einer Bescheinigung | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | 61 – 219 |
+| 24 | Einfache Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie A) | § 6 SchAusrV, § 8b SeeStrOV | 499 – 999 |
+| 25 | Prüfung von Ausrüstungsgeräten mit geringem Aufwand (Gerätekategorie B) | § 6 SchAusrV, § 8b SeeStrOV | 1 299 – 2 798 |
+| 26 | Einfache Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie C) | § 6 SchAusrV, § 8b SeeStrOV | 2 996 – 6 493 |
+| 27 | Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie D) | § 6 SchAusrV, § 8b SeeStrOV | 5 993 – 11 988 |
+| 28 | Prüfung von Ausrüstungsgeräten mit hohem Aufwand (Gerätekategorie E) | § 6 SchAusrV, § 8b SeeStrOV | 8 990 – 18 981 |
+| 29 | Prüfung von Ausrüstungsgeräten mit sehr hohem Aufwand (Gerätekategorie F) | § 6 SchAusrV, § 8b SeeStrOV | 14 984 – 29 970 |
+| 30 | Gesonderte Ausstellung von Urkunden und Bescheinigungen | § 3 Absatz 3 Satz 2 SchSV | 386 |
+| 31 | Planprüfung der Aufstellung/Anbringung der Navigations- und Funkausrüstung Erteilung einer Ausnahmegenehmigung oder Befreiung | § 7 Absatz 1 SchSV | nach Zeitaufwand |
+| 32 | Prüfung der Aufstellung/Anbringung und Funktion der Navigations- und Funkausrüstung Erteilung einer Ausnahmegenehmigung oder Befreiung | § 7 Absatz 1 SchSV | nach Zeitaufwand |
+| 33 | Anerkennung von Betrieben sowie Erneuerung der Anerkennung, Überprüfung und Überwachung vom BSH anerkannter Einrichtungen | § 1 Nummer 4 i. V. m. § 5 Absatz 1 und 2 SeeAufgG | nach Zeitaufwand |
+| 34 | Zulassung eines Ballastwasser- Behandlungssystems oder eines Prototyps mit aktiven Substanzen mit Beteiligung anderer Behörden | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 130 047 |
+| 35 | Zulassung eines Ballastwasser-Behandlungssystems oder eines Prototyps mit aktiven Substanzen mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
+| 36 | Zulassung eines sonstigen Ballastwasser-Behandlungssystems oder eines Prototyps mit Beteiligung anderer Behörden | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 85 690 |
+| 37 | Zulassung eines sonstigen Ballastwasser-Behandlungssystems mit Beteiligung anerkannter Einrichtungen oder akkreditierter Labore | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
+| 38 | Zulassung eines Ballastwasser- Behandlungssystems mit veränderter Durchflussrate aufgrund von Erprobungen an Bord und an Land | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | 68 552 |
+| 39 | Zulassung eines Ballastwasser-Behandlungssystems mit veränderter Durchflussrate aufgrund der Überprüfung von Dokumenten | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | nach Zeitaufwand |
+| 40 | Zulassung technischer Änderungen an zugelassenen Ballastwasser- Behandlungssystemen | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG | nach Zeitaufwand |
+| 41 | Anerkennung einer alternativen Ballastwasser-Behandlungsmethode | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | nach Zeitaufwand |
+| 42 | Änderung oder Übertragung eines Zulassungszeugnisses für ein Ballastwasser-Behandlungssystem | § 19 Absatz 3 SeeUmwVerhV | 223 |
+| 43 | Baumusterzulassung auf Basis einer ausländischen Baumusterzulassung sowie mindestens der Überprüfung der Prüfberichte der Erprobungen an Land | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 2 571 |
+| 44 | Baumusterzulassung auf Basis einer ausländischen Baumusterzulassung sowie der Überprüfung aller übriger zulassungsrelevanter Unterlagen | § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG | 3 856 |
+| 45 | Genehmigung einer Forschungshandlung mit erhöhtem Abstimmungsaufwand | § 132 Absatz 1 BBergG | 1 520 – 6 011 |
+| 46 | Genehmigung einer Forschungshandlung oder Genehmigung mehrerer Forschungshandlungen im räumlichen und zeitlichen Zusammenhang | § 132 Absatz 1 BBergG | 855 – 1 674 |
+| 47 | Änderung der Genehmigung nach Nummern 44 und 45 | § 132 Absatz 1 BBergG | 217 |
+| 48 | Genehmigung der Errichtung und des Betriebs einer Transit-Rohrleitung | § 133 Absatz 1 BBergG | 117 502 – 236 398 |
+| 49 | Freigabe der Verlegung einer Transit-Rohrleitung | § 133 BBergG | 12 214 – 25 287 |
+| 50 | Untersagung von Tätigkeiten | § 132 Absatz 4, § 133 Absatz 3,§ 72 Absatz 1, § 133 Absatz 3,§ 73, § 133 Absatz 3 und 4,§ 72 Absatz 1, § 133 Absatz 3und 4, § 73 BBergG | 660 – 1 476 |
+| 51 | Genehmigung der Verlegung und des Betriebs eines Unterwasserkabels | § 133 Absatz 1 und 4 BBergG | 105 288 – 210 961 |
+| 52 | Freigabe der Verlegung eines Unterwasserkabels | § 133 Absatz 1 und 4 BBergG | 12 808 – 26 175 |
+| 53 | Änderung einzelner oder mehrerer Nebenbestimmungen der Genehmigung einer Transit-Rohrleitung oder eines Unterwasserkabels | § 133 Absatz 1 und 4 BBergG | 1 620 – 2 785 |
+| 54 | Änderungsgenehmigung für eine Transit-Rohrleitung oder ein Unterwasserkabel | § 133 Absatz 1 und 4 BBergG | 105 288 – 210 961 |
+| 55 | Anordnungen nach erhöhtem Prüfungsaufwand im Vollzugsverfahren von Vorhaben von Transit-Rohrleitungen und Unterwasserkabeln | § 133 Absatz 3, §§ 69 – 74 BBergG | 2 416 – 5 139 |
+| 56 | Anordnung oder Genehmigung des Rückbaus einer Transit-Rohrleitung oder eines Unterwasserkabels | § 133 Absatz 3, § 72 Absatz 1 Satz 2 BBergG | 12 773 – 26 175 |
+| 57 | Planfeststellungsbeschluss oder Plangenehmigung für die Errichtung und den Betrieb von Anlagen | § 2 SeeAnlG | 260 387 – 573 592 |
+| 58 | Planfeststellungsbeschluss oder Plangenehmigung für eine wesentliche Änderung einer Anlage | § 2 SeeAnlG | 36 593 – 94 459 |
+| 59 | Feststellung über eine unwesentliche Änderung einer Anlage | § 2 Absatz 1 und 3 SeeAnlG § 76 Absatz 2 VwVfG § 14 Absatz 2 SeeAnlG | 7 201 – 39 197 |
+| 60 | Aufhebung eines Planfeststellungsbeschlusses oder einer Plangenehmigung | § 2 Absatz 1 und 3 SeeAnlG§ 77 VwVfG§ 14 Absatz 2 SeeAnlG | 11 713 – 16 844 |
+| 61 | Freigabe für die Errichtung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 1 SeeAnlG | § 5 Absatz 2 SeeAnlG | 487 569 + (W x T x 0,035 x 0,002), höchstens 5 392 340 |
+| W =Durchschnittlich pro Jahr voraussichtlich gewonnene Energie (brutto) in kWhT =Lebensdauer in Jahren, mindestens die Gültigkeitsdauer des Planfeststellungsbeschlusses/der Plangenehmigung |
+| 0,035 =Euro/kWh Strompreis0,002 =davon 0,2 Prozent Äquivalenzzuschlag |
+| 62 | Freigabe für die Errichtung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 2 SeeAnlG | § 5 Absatz 2 SeeAnlG | 255 984 + (I x Z x 0,02), höchstens 2 196 126 |
+| I =Investitionssumme des ÜbertragungssystemsZ =geltender Eigenkapitalzinssatz für eine Neuanlage gemäß Festlegung BNetzA, mindestens5 Prozent |
+| 0,02 =davon 2 Prozent Äquivalenzzuschlag |
+| 63 | Freigabe für die Errichtung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 3 SeeAnlG | § 5 Absatz 2 SeeAnlG | 162 167 – 321 517 |
+| 64 | Freigabe für den Betrieb von Anlagen nach § 1 Absatz 2 Satz 1 Nummern 1, 2 oder 3 SeeAnlG | § 5 Absatz 2 SeeAnlG | 32 001 – 77 706 |
+| 65 | Anordnungen anlässlich der Plausibilisierung der Ergebnisse der wiederkehrenden Prüfungen nach BSH Standard Konstruktion bzw. nach den jeweils geltenden luftverkehrsrechtlichen Regelungen bei Anlagen nach § 1 Absatz 2 Satz 1 Nummern 1, 2 oder 3 SeeAnlG | § 14 SeeAnlG | 7 752 |
+| 66 | Anordnungen anlässlich der Plausibilisierung von Nachweisen zur Vereinbarkeit von Anlagen mit den jeweils geltenden luftverkehrsrechtlichen Regelungen bei Anlagen nach § 1 Absatz 2 Satz 1 Nummern 1, 2 oder 3 SeeAnlG | § 14 SeeAnlG | 2 306 |
+| 67 | Gestattung der Betriebsaufnahme eines Hubschrauberlandedecks als Nebeneinrichtung nach § 1 Absatz 2 SeeAnlG | § 5 Absatz 2, § 14 SeeAnlG | 6 424 |
+| 68 | Gestattung der Inbetriebnahme von Windenbetriebsflächen als Nebeneinrichtungen nach § 1 Absatz 2 SeeAnlG | § 5 Absatz 2, § 14 SeeAnlG | 995 |
+| 69 | Gestattung der Durchführung des Probebetriebs bedarfsgesteuerter Nachtkennzeichnung | § 14 Absatz 2 SeeAnlG § 9 Absatz 8 des Erneuerbare-Energien-Gesetzes (EEG) | 808 |
+| 70 | Gestattung der Inbetriebnahme bedarfsgesteuerter Nachtkennzeichnung | § 14 Absatz 2 SeeAnlG § 9 Absatz 8 EEG | 808 |
+| 71 | Anordnungen nach erhöhtem Prüfungsaufwand im Vollzugsverfahren | § 14 SeeAnlG | 22 789 – 69 041 |
+| 72 | Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen zur Durchsetzung der in § 12 SeeAnlG genannten Pflichten | § 14 Absatz 2 SeeAnlG | 1 974 – 15 073 |
+| 73 | Untersagung der Errichtung, des Betriebs oder der wesentlichen Änderung einer Anlage | § 14 Absatz 3, 4 und 5 SeeAnlG | 1 089 |
+| 74 | Anordnung der Beseitigung einer Anlage nach § 1 Absatz 2 Satz 1 Nummern 1, 2 oder 3 SeeAnlG | § 14 Absatz 3 Satz 2, § 14 Absatz 4 Satz 2, § 3 SeeAnlG | 11 713 – 21 602 |
+| 75 | Erteilung der Erlaubnis, die Anlage durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet | § 14 Absatz 5 Satz 2 SeeAnlG | 310 |
+| 76 | Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines Planfeststellungsbeschlusses, einer Plangenehmigung, einer Anordnung oder eines sonstigen Bescheides für Anlagen nach § 1 Absatz 2 Satz 1 Nummern 1, 2 oder 3 SeeAnlG | § 2 Absatz 3 SeeAnlG § 36 VwVfG | 6 488 – 14 752 |
+| 77 | Freigabe der Beseitigung von Anlagen | § 5 Absatz 2, § 15 SeeAnlG § 5 Absatz 2, § 2 Absatz 3 SeeAnlG, § 77 VwVfG § 5 Absatz 2 und 4, § 15 SeeAnlG | 11 713 – 21 602 |
+| 78 | Feststellung über das Vorliegen der Anforderungen an neue verantwortliche Personen im Rahmen von deren Bestellung | § 13 Absatz 4 SeeAnlG | 433 |
+| 79 | Vollziehung der Übertragung des Planfeststellungsbeschlusses oder der Plangenehmigung auf einen anderen Inhaber/Betreiber | § 13 Absatz 5 SeeAnlG | 123 |
+| 80 | Genehmigung zur Errichtung und zum Betrieb oder zur wesentlichen Änderung einer Anlage, die meereskundlichen Untersuchungen dient | § 6 SeeAnlG | 854 – 3 695 |
+| 81 | Feststellung über eine unwesentliche Änderung der Genehmigung einer Anlage, die meereskundlichen Untersuchungen dient | § 6 Absatz 4 Satz 2 SeeAnlG | 687 |
+| 82 | Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen einer Genehmigung für eine Anlage, die meereskundlichen Untersuchungen dient | § 6 Absatz 4 Satz 2 SeeAnlG | 123 |
+| 83 | Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen zur Durchsetzung der in § 12 SeeAnlG genannten Pflichten bei einer Anlage, die meereskundlichen Untersuchungen dient | § 14 Absatz 2 SeeAnlG | 123 |
+| 84 | Untersagung der Errichtung, des Betriebs oder der wesentlichen Änderung einer Anlage, die meereskundliche Untersuchungen dient | § 14 Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Satz 1 SeeAnlG, § 16 Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Satz 1 SeeAnlV | 687 |
+| 85 | Anordnung der Beseitigung einer Anlage, die meereskundlichen Untersuchungen dient | § 14 Absatz 3 Satz 2, Absatz 4 Satz 2 und 3 SeeAnlG | 687 |
+| 86 | Erteilung der Erlaubnis, die Anlage durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet | § 14 Absatz 5 Satz 2 SeeAnlG | 123 |
+| 87 | Vollziehung der Übertragung der erteilten Genehmigung für eine Anlage, die meereskundlichen Untersuchungen dient, auf einen anderen Inhaber/Betreiber | § 13 Absatz 5 SeeAnlG | 123 |
+| 88 | Feststellung über eine unwesentliche Änderung von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 2 Absatz 1 und 3, § 16 Absatz 2 SeeAnlV | 7 201 – 39 197 |
+| 89 | Aufhebung des Planfeststellungsbeschlusses, der Plangenehmigung oder der Genehmigung von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 2 Absatz 3 SeeAnlV § 77 VwVfG § 5 Absatz 4 SeeAnlV | 11 713 – 16 844 |
+| 90 | Nachträgliche Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines Planfeststellungsbeschlusses, einer Plangenehmigung, einer Genehmigung, einer Anordnung oder eines sonstigen Bescheides von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 2 Absatz 3 SeeAnlV § 36 VwVfG | 6 488 – 14 752 |
+| 91 | Feststellung über das Vorliegen der Anforderungen an (neue) verantwortlicher Personen im Rahmen von deren Bestellung | § 15 Absatz 4 SeeAnlV | 433 |
+| 92 | Freigabe des Betriebs von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 5 Absatz 2 SeeAnlV | 31 138 – 63 692 |
+| 93 | Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen zur Durchsetzung der in § 14 SeeAnlV genannten Pflichten | § 16 Absatz 2 SeeAnlV | 1 974 – 15 073 |
+| 94 | Anordnungen anlässlich der Prüfung der Ergebnisse aus den Untersuchungen zu den bau- und betriebsbedingten Auswirkungen der Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind auf die Meeresumwelt | § 16 SeeAnlV | 8 452 |
+| 95 | Anordnungen anlässlich der Plausibilisierung der Ergebnisse der wiederkehrenden Prüfungen nach BSH Standardkonstruktion bzw. nach den jeweils geltenden luftverkehrsrechtlichen Regelwerken | § 16 SeeAnlV | 7 752 |
+| 96 | Anordnungen anlässlich der Plausibilisierung von Nachweisen zur Vereinbarkeit von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind mit den jeweils geltenden luftverkehrsrechtlichen Regelungen | § 16 SeeAnlV | 2 306 |
+| 97 | Gestattung der Betriebsaufnahme eines Hubschrauberlandedecks als Nebeneinrichtung nach § 1 Absatz 2 SeeAnlV | § 5 Absatz 2, § 16 SeeAnlV | 6 424 |
+| 98 | Gestattung der Durchführung des Probebetriebs bedarfsgesteuerter Nachtkennzeichnung | § 16 Absatz 2 SeeAnlV § 9 Absatz 8 EEG | 808 |
+| 99 | Gestattung der Inbetriebnahme bedarfsgesteuerter Nachtkennzeichnung | § 16 Absatz 2 SeeAnlV § 9 Absatz 8 EEG | 808 |
+| 100 | Anordnungen nach erhöhtem Prüfungsaufwand im Vollzugsverfahren | § 16 SeeAnlV | 22 789 – 69 041 |
+| 101 | Freigabe der Beseitigung von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 5 Absatz 2, § 13 SeeAnlV § 5 Absatz 2, § 2 Absatz 3 SeeAnlV, § 77 VwVfG | 11 713 – 21 602 |
+| 102 | Untersagung des Betriebs oder der wesentlichen Änderung einer Anlage zur Erzeugung bzw. Übertragung von Energie aus Wind | § 16 Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Satz 1 SeeAnlV | 11 713 – 21 602 |
+| 103 | Anordnung der Beseitigung von Anlagen zur Erzeugung bzw. Übertragung von Energie aus Wind | § 16 Absatz 3 Satz 2, Absatz 4 Satz 2 und 3 SeeAnlV | 11 713 – 21 602 |
+| 104 | Erteilung der Erlaubnis, die Anlage zur Erzeugung bzw. Übertragung von Energie aus Wind durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet | § 16 Absatz 5 Satz 2 SeeAnlV | 310 |
+| 105 | Vollziehung der Übertragung des Planfeststellungsbeschlusses, der Plangenehmigung oder der erteilten Genehmigung auf einen anderen Inhaber/Betreiber | § 15 Absatz 5 SeeAnlV | 123 |
+| 106 | Zielabweichung bei Raumordnungsplänen des Bundes | § 19 ROG | 15 404 – 34 951 |
+| 107 | Planfeststellungsbeschluss oder Plangenehmigung von Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 45 Absatz 1 WindSeeG | 164 060 – 345 817 |
+| 108 | Planfeststellung oder Plangenehmigung einer wesentlichen Änderung einer Einrichtung nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 45 Absatz 1 WindSeeG | 36 593 – 94 459 |
+| 109 | Feststellung über eine unwesentliche Änderung der Planfeststellung oder Plangenehmigung einer Einrichtung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 45 Absatz 3 WindSeeG i. V. m. § 76 Absatz 2 VwVfG, § 57 Absatz 2 WindSeeG | 7 201 – 39 197 |
+| 110 | Aufhebung eines Planfeststellungsbeschlusses oder einer Plangenehmigung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 48 Absatz 5 Nummer 1 und 2, Absatz 3 Wind SeeG i. V. m. § 77 VwVfG § 57 Absatz 3 WindSeeG | 11 713 – 16 844 |
+| 111 | Verlängerung oder Nichtverlängerung der Befristung eines Planfeststellungsbeschlusses oder einer Plangenehmigung für die Errichtung und den Betrieb von Windenergieanlagen auf See nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 48 Absatz 7 WindSeeG | 36 593 – 79 166 |
+| 112 | Freigabe der Errichtung von Windenergieanlagen auf See nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 48 Absatz 2 Satz 2 WindSeeG | 487 570 + (L x 4 300 x 25 x 0,035 x 0,002) Insgesamt höchstens 5 192 970 |
+| L =Wert aus dem Kapazitätszuweisungsbeschluss der BNetzA in Kilowatt (Zahl ohne Einheit auf ganze Kilowatt gerundet) |
+| 4 300 =Stunden Jahreslaufleistung25 =Jahre Gesamtlaufzeit0,035 =Cent pro Kilowattstunde Strompreis0,002 =davon 0,2 Prozent Äquivalenzaufschlag |
+| 113 | Freigabe für die Errichtung von Anlagen zur Übertragung von Strom aus Windenergieanlagen auf See (Offshore-Anbindungsleitungen) nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 48 Absatz 2 Satz 2 WindSeeG | 255 984 +(I x Z x 0,002) insgesamt höchstens 1 697 970 |
+| I =Investitionssumme des Netzanbindungssystems, sollte kein ausreichender Nachweis der Investtitionssumme erfolgen, kann das BSH diese schätzenZ =geltenderEigenkapitalzinssatz für eine Neuanlage gemäß Festlegung BNetzA, |
+| mindestens aber (etwa im Falle einer nicht erfolgten Festsetzung) 5 Prozent |
+| 0,002 =davon 0,2 Prozent Äquivalenzaufschlag |
+| 114 | Freigabe des Betriebs von Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 48 Absatz 2 Satz 2 WindSeeG | 31 138 – 63 692 |
+| 115 | Anordnungen anlässlich der Plausibilisierung des Erfahrungsberichtes über die Erprobung der Innovation und die gewonnen Erkenntnisse bei der Errichtung von Pilotwindenergieanlagen auf See nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 70 Absatz 4 WindSeeG | 7 234 |
+| 116 | Anordnungen anlässlich der Plausibilisierung der Ergebnisse der wiederkehrenden Prüfungen nach BSH Standard Konstruktion bzw. nach den jeweils geltenden luftverkehrsrechtlichen Regelungen nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 7 752 |
+| 117 | Anordnungen anlässlich der Plausibilisierung von Nachweisen zur Vereinbarkeit von Einrichtungen mit den jeweils geltenden luftverkehrsrechtlichen Regelungen nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 2 306 |
+| 118 | Gestattung der Betriebsaufnahme eines Hubschrauberlandedecks als Nebeneinrichtung nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 6 424 |
+| 119 | Gestattung der Inbetriebnahme von Windenbetriebsflächen als Nebeneinrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 995 |
+| 120 | Gestattung der Durchführung des Probebetriebs bedarfsgesteuerter Nachtkennzeichnung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 55 Nummer 2 Buchstabe a WindSeeG i. V. m. § 9 Absatz 8 EEG | 808 |
+| 121 | Gestattung der Inbetriebnahme bedarfsgesteuerter Nachtkennzeichnung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 55 Nummer 2 Buchstabe a WindSeeG i. V. m. § 9 Absatz 8 EEG | 808 |
+| 122 | Festlegung des Untersuchungsrahmens für die Durchführung des Monitorings zu den bau- und betriebsbedingten Auswirkungen der Anlagen auf die Meeresumwelt nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 2 163 |
+| 123 | Anordnungen anlässlich der Prüfung der gewonnenen Daten aus der Durchführung des Monitorings zu den bau- und betriebsbedingten Auswirkungen der Anlagen auf die Meeresumwelt nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 8 452 |
+| 124 | Anordnungen nach erhöhtem Prüfungsaufwand im Vollzugsverfahren nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 22 789 – 69 041 |
+| 125 | Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen zur Durchsetzung der in § 55 WindSeeG genannten Pflichten nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 2 WindSeeG | 1 974 – 15 073 |
+| 126 | Untersagung der Errichtung, des Betriebs, der wesentlichen Änderung oder der Beseitigung der Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 3 bis 5 WindSeeG | 11 713 – 21 602 |
+| 127 | Anordnung der Beseitigung von Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 3 und 4 WindSeeG | 11 713 – 21 602 |
+| 128 | Erteilung der Erlaubnis, die Anlage durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 57 Absatz 5, § 56 WindSeeG | 310 |
+| 129 | Freigabe der Beseitigung einer Einrichtung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 58 Absatz 1 WindSeeG | 11 713 – 21 602 |
+| 130 | Feststellung über das Vorliegen der Anforderungen an (neue) verantwortliche Personen im Rahmen von deren Bestellung nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 56 Absatz 4 WindSeeG | 433 |
+| 131 | Vollziehung der Übertragung des Planfeststellungsbeschlusses oder der Plangenehmigung auf einen anderen Inhaber/Betreiber nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 56 Absatz 5 WindSeeG | 123 |
+| 132 | Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines Planfeststellungsbeschlusses, einer Plangenehmigung, einer Anordnung oder eines sonstigen Bescheides nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | §§ 35, 36 VwVfG i. V. m. § 74 Absatz 2 VwVfG | 6 488 – 14 752 |
+| 133 | Ausstellung einer Haftungsbescheinigung | § 2 Absatz 2 und 4 ÖlSG § 5 Absatz 2, 6, § 8 Absatz 2 SeeVersNachwG § 4 Absatz 1 ÖlPflichtVersBeschV § 4 Absatz 1 und 2 SeeVersnachwV | 118 |
+| 134 | Genehmigung von Plänen zur Gefahrenabwehr auf dem Schiff | § 7 Absatz 2 SeeEigensichV | 218 – 1 042 |
+| 135 | Genehmigung von Änderungen von Plänen zur Gefahrenabwehr auf dem Schiff | § 7 Absatz 4 Satz 2 SeeEigensichV | 50 – 999 |
+| 136 | Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff im Hinblick auf den Einsatz von privatem Wachpersonal | § 7 Absatz 2a SeeEigensichV | 322 |
+| 137 | Ausstellung des internationalen oder vorläufigen internationalen Zeugnisses über die Gefahrenabwehr an Bord (ISSC) | § 8 Absatz 1 SeeEigensichV | 176 |
+| 138 | Durchführung von Zwischen- oder zusätzlichen Überprüfungen für das ISSC | § 8 Absatz 3 SeeEigensichV | 123 |
+| 139 | Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation | § 13 Absatz 2 FlaggRG | 120 |
+| 140 | Befreiung von der Meldepflicht | § 10 Absatz 6 SeeEigensichV i. V. m. Artikel 7 Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und Hafenanlagen, die zuletzt durch die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden ist. | 395 |
+| 141 | Anerkennung eines Unternehmens als anerkannte Stelle zur Gefahrenabwehr | § 3 Absatz 2 SeeEigensichV | 5 103 |
+| 142 | Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | § 4 Anlage A.I.11.1, 11.2 SchSG i. V. m. Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS | 132 |
+| 143 | Anlassbezogene Sonderbescheinigungen | § 4 Anlage A.I.11.1, 11.2 SchSG i. V. m. SOLAS Kapitel XI-1, XI-2 | 149 – 329 |
+| 144 | Zustimmung zu einer Sicherheitserklärung, bei der Beteiligte über einen längeren Zeitraum unter unveränderten Bedingungen zusammenwirken | § 9 Absatz 3 Satz 2 SeeEigensichV | 250 |
+| 145 | Besichtigungen an Bord für das ISSC | § 8 SeeEigensichV | 750 – 2 198 |
+| 146 | Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle | § 3 Absatz 3a Satz 1 SchAusrV | 4 195 – 14 985 |
+| 147 | Prüfung der Erfüllung der Anforderungen an eine Konformitätsbewertungsstelle | § 4 Absatz 1 SchAusrV | 1 998 – 6 993 |
+| 148 | Prüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung | § 6 Absatz 2 SchAusrV | 85,35 – 449 |
+| 149 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung | § 6 Absatz 2 SchAusrV | 899 – 1 898 |
+| 150 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung und der Inanspruchnahme externer Prüflaboratorien, Sachverständiger oder Gutachter | § 6 Absatz 2 SchAusrV | 1 298 – 2 697 |
+| 151 | Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung mit Laborleistungen des BSH | § 6 Absatz 2 SchAusrV | 900 – 1 900 |
+| 152 | Anordnung von Maßnahmen bei Nichtkonformitäten | § 7 Absatz 1 und 2 SchAusrV | 85 – 600 |
+| 153 | Änderung des Eignungsumfanges der Konformitätsbewertungsstelle | § 3 Absatz 3a Satz 3 SchAusrV | 200 – 3 000 |
+| 154 | Befreiung vom Befahrungsverbot | § 9 Absatz 2 Satz 3 SeeUmwVerhV | 578 |
+| 155 | Zulassung einer Ausnahme von der Verpflichtung des Ziehens einer Probe | § 15 Absatz 3 SeeUmwVerhV | 446 |
+| 156 | Gestattung eines nicht technischen emissionsmindernden Verfahrens | § 13 Absatz 5 SeeUmwVerhV | nach Zeitaufwand |
+| 157 | Erlaubnis zur Einleitung von Ballastwasser | § 18 Absatz 1 Satz 1 Nummer 3 SeeUmwVerhV | 137 – 515 |
+| 158 | Erteilung einer Ausnahme vom Verbot der Einleitung von Ballastwasser | § 18 Absatz 2 SeeUmwVerhV | nach Zeitaufwand |
+| 159 | Befreiung von der Ballastwasser-Behandlung | § 18 Absatz 3 SeeUmwVerhV | 6 450 – 13 410 |
+| 160 | Fertigung eines feststellenden Verwaltungsakts |  | nach Zeitaufwand |
+Abschnitt 5
 Gebühren der Berufsgenossenschaft Verkehr Post-Logistik Telekommunikation
 für gebührenpflichtige Leistungen auf dem Gebiet der Schiffssicherheit
 Gebühren und Auslagen
@@ -478,13 +689,14 @@ Gebühren und Auslagen
 | 5001 | Durchführung von Besichtigungen und Überprüfungen für die Erteilung der in den Abschnitten I, II und III Buchstabe B genannten Zeugnisse | § 9 Absatz 1 und 3 SchSV | nach Zeitaufwand |
 | 5002 | Durchführung von außerordentlichen Besichtigungen an Bord zur Überprüfung der Sicherheit des Schiffes, soweit hierbei festgestellt wird, dass Anforderungen, die nach dem schiffsbezogenen Sicherheitsstandard vorgeschrieben sind, im Wesentlichen nicht erfüllt sind und dies eine Gefahr für Schiffe, Schifffahrt oder Schifffahrtseinrichtungen, Gesundheit, Küste oder die Umwelt darstellt | § 8 Absatz 1 Nummer 1 und 3 SeeAufgG i. V. m. § 6 Absatz 1 und 3 i. V. m. § 1 Nummer 4 und 6 SeeAufgG i. V. m. § 11 Absatz 1 und 2 SchSV | nach Zeitaufwand |
 | 5003 | Anerkennung eines Sachverständigen für die gutachterliche Prüfung der Voraussetzungen der Anerkennung eines Schiffes als historisches Wasserfahrzeug in den verfahrensrechtlich vorgeschriebenen Fällen | § 6 Absatz 1 Satz 2 Nummer 3 SchSV i. V. m. Teil 3 Kapitel 1 Nummer 7 der Anlage 1a zur SchSV | 200 – 1 000 |
-Abschnitt 5
+| 5004 | Fertigung eines feststellenden Verwaltungsakts |  | nach Zeitaufwand |
+Abschnitt 6
 Gebühren des Eisenbahn-Bundesamtes
 für gebührenpflichtige Leistungen auf dem Gebiet der Fahrgastrechte in der Schifffahrt
 | Nummer | Gegenstand | Rechtsgrundlage | Gebühr |
 | 1 | Individuell zurechenbare öffentliche Leistungen gegenüber dem Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber zur Feststellung eines Verstoßes gegen die Verordnung (EU) Nr. 1177/2010 auf Grund eines Verdachtes, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst und ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde | § 4 Absatz 1 Satz 2 Nummer 2 und 3 und Absatz 2 EU-FahrgRSchG | 270 |
 | 2 | Individuell zurechenbare öffentliche Leistungen gegenüber dem Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber zur Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU) Nr. 1177/2010 | § 4 Absatz 1 Satz 1 und 2 Nummer 1 und Absatz 2 EU-FahrgRSchG | 380 |
-Abschnitt 6
+Abschnitt 7
 Gebühren für gebührenpflichtige Leistungen
 auf dem Gebiet der Befähigungen in der Sportschifffahrt
 1. Zuständige Stellen
