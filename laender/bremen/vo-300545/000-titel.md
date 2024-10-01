@@ -1,1 +1,1 @@
-# Verordnung über die Ermittlungspersonen der Staatsanwaltschaft vom 8. September 2020
+# Verordnung über die Ermittlungspersonen der Staatsanwaltschaft vom 17. September 2024
