@@ -1,19 +1,19 @@
-# Anlage 2 - Tabelle der durchschnittlichen Baukostenwerte je m 3 Brutto-Rauminhalt - Bezugsjahr 2015 = 100 - - Preisindexzahl = 147,8 - - gültig ab 1. Oktober 2023 -
+# Anlage 2 - Tabelle der durchschnittlichen Baukostenwerte je m 3 Brutto-Rauminhalt - Bezugsjahr 2015 = 100 - - Preisindexzahl = 160,2 - - gültig ab 1. Oktober 2024 -
 Anlage 2
 (zu § 2 Absatz 1 BauKostV)
-Tabelle der durchschnittlichen Baukostenwerte je m3 Brutto-Rauminhalt - Bezugsjahr 2015 = 100 - - Preisindexzahl = 147,8 - - gültig ab 1. Oktober 2023 -
+Tabelle der durchschnittlichen Baukostenwerte je m3 Brutto-Rauminhalt - Bezugsjahr 2015 = 100 - - Preisindexzahl = 160,2 - - gültig ab 1. Oktober 2024 -
 Gebäudeart1) | Baukostenwert EURO/ m3 | 
-1. | Wohngebäude (ohne Wohnheime) | 464
-2. | Bürogebäude | 658
-3. | Landwirtschaftliche Betriebsgebäude | 185
+1. | Wohngebäude (ohne Wohnheime) | 503
+2. | Bürogebäude | 713
+3. | Landwirtschaftliche Betriebsgebäude | 202
 4. | Gewerbliche Betriebsgebäude | 
-4.1 | Gewerbliche Betriebsgebäude2) (soweit nicht nach 4.2) | 254
+4.1 | Gewerbliche Betriebsgebäude2) (soweit nicht nach 4.2) | 276
 4.2 | Fabrik-, Werkstatt- und Lagergebäude, Tennishallen, einfache Sporthallen, soweit sie eingeschossig sind, bis zu 50 000 m3 Brutto-Rauminhalt3) | 
-4.2.1 | mit nicht geringen Einbauten | 204
+4.2.1 | mit nicht geringen Einbauten | 221
 4.2.2 | ohne oder mit geringen Einbauten | 
-4.2.2.1 | bis zu 2 000 m3 Brutto-Rauminhalt Bauart schwer4) sonstige Bauart | 144 121
-4.2.2.2 | der 2 000 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 Bauart schwer4) sonstige Bauart | 121 99
-4.2.2.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3 Bauart schwer4) sonstige Bauart | 99 80
+4.2.2.1 | bis zu 2 000 m3 Brutto-Rauminhalt Bauart schwer4) sonstige Bauart | 155 133
+4.2.2.2 | der 2 000 m3 übersteigende Brutto-Rauminhalt bis 5 000 m3 Bauart schwer4) sonstige Bauart | 133 107
+4.2.2.3 | der 5 000 m3 übersteigende Brutto-Rauminhalt bis 50 000 m3 Bauart schwer4) sonstige Bauart | 107 87
 Fußnoten
 1) Bei Gebäuden mit gemischter Nutzung sind für die Gebäudeteile mit verschiedenen Nutzungen die Baukosten anteilig unter Zugrundelegung des jeweils maßgeblichen Baukostenwertes zu ermitteln, soweit Nutzungsarten nicht nur Nebenzwecken dienen.
 2) Die unter 4.1 angegebenen Werte berücksichtigen nur Flachgründungen mit Streifen- oder Einzelfundamenten. Mehrkosten für andere Gründungen sind gesondert zu ermitteln. Dies gilt auch für Außenwandverkleidungen, für die ein Standsicherheitsnachweis geführt werden muss.
