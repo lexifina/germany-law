@@ -1,0 +1,69 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2024-10-02T18:32:00+02:00
+- Ende: 2024-10-02T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3400
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3400
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Fragestunde der Einwohnerinnen und Einwohner
+- TOP 3: Verabschiedung des Ersten Beigeordneten Michael Heesch
+- TOP 4: Beschluss über die Verleihung des Ehrenringes der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 6.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Juni bis Mitte September 2024 - Kenntnisnahme
+- TOP 7: Einbringung Haushalt 2025
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1: Verzicht Stellenausschreibung Beigeordneter/Beigeordnete - einstimmig beschlossen
+- TOP 8.2: Stellenausschreibung Beigeordneter/Beigeordnete - einstimmig beschlossen
+- TOP 9: Beratungspunkte Ausschüsse
+- TOP 9.1: Entscheidung über Beratungspunkte aus der Sitzung des Ausschusses für Planung und Mobilität
+- TOP 9.1.1: Beschluss ISEK Flutgrabenquartier - einstimmig beschlossen
+- TOP 9.1.2: VKR Satzung ISEK Flutgrabenquartier - einstimmig beschlossen
+- TOP 9.1.3: Vorkaufsrechtsatzung Innenstadt - einstimmig beschlossen
+- TOP 9.1.4: Aufstellung des Bebauungsplanes Nr. F 29 "Gewerbegebiet Buchholzer Straße" - Ortsteil Neurath - einstimmig beschlossen
+- TOP 9.1.5: F 29 Gewerbegebiet Buchholzer Straße - ern. Aufstellung und Satzungsbeschluss - einstimmig beschlossen
+- TOP 9.2: Entscheidung über Beratungspunkte aus dem Betriebsausschuss Abwasseranlagen
+- TOP 9.2.1: Weiterleitung Zinserträge - einstimmig beschlossen
+- TOP 10: Digitale Lichtbildübermittlung im Pass- und Ausweiswesen - Kenntnisnahme
+- TOP 11: Umsetzungsantrag JHA durch die Caritas Sozialdienste - einstimmig beschlossen
+- TOP 12: Öffentlich-rechtliche Vereinbarung über die Zusammenarbeit im Bereich der Hilfen und Maßnahmen bei Prävention, Konsum und Abhängigkeit von illegalen bzw. neuen psychoaktiven Substanzen - einstimmig beschlossen
+- TOP 13: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 13.1: Trinkwasserversorgung in Grevenbroich (Anfrage Nr.: 43/2023) hier: Beantwortung durch RWE Power AG - Kenntnisnahme
+- TOP 13.2: Benennung der Turnhalle der Realschule an der Bergheimer Straße in "Hans-Weßig-Turnhalle" (Antrag Nr.:78/2023) - einstimmig beschlossen
+- TOP 13.3: Aufnahme von Geflüchteten (Anfrage Nr.:87/2023) - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: Anträge der SPD-Fraktion
+- TOP 14.1.1: Beginn des Planungsprozesses für Soccer-Court am Jugendpark-Standort Allrath (Antrag Nr. 90/2024) - einstimmig beschlossen
+- TOP 14.2: Anträge der CDU-Fraktion
+- TOP 14.3: Anträge der Fraktion Bündnis 90/Die Grünen
+- TOP 14.3.1: Terminbuchungen für das Bürgerbüro in englischer Sprache ermöglichen (Antrag Nr.:95/2024) - einstimmig beschlossen
+- TOP 14.3.2: Fahrradboxen am Bahnhof (Antrag Nr.:94/2024) - einstimmig beschlossen
+- TOP 14.3.3: Umbesetzung (Antrag Nr.:93/2024) - einstimmig beschlossen
+- TOP 14.4: Anträge der FDP-Fraktion
+- TOP 14.4.1: Einführung von Windelsäcken prüfen und Entsorgung erleichtern (Antrag Nr.:89/2024) - einstimmig beschlossen
+- TOP 14.5: Anträge der Fraktion Mein Grevenbroich
+- TOP 14.5.1: Prüfauftrag Jugendbeteiligung (Antrag Nr. 87/2024) - einstimmig beschlossen
+- TOP 14.6: Anträge der UWG-Fraktion
+- TOP 14.6.1: Spielplatz Richard-Strauss-Straße (Antrag Nr.:88/2024) - einstimmig beschlossen
+- TOP 15: Gemeinschaftsanträge
+- TOP 15.1: Zielvorgabe für den Ausbau von Photovoltaik auf Dächern von öffentlichen Gebäuden (Antrag Nr.:92/2024) - einstimmig beschlossen
+- TOP 16: Schriftliche Anfragen
+- TOP 16.1: Anfragen der SPD-Fraktion
+- TOP 16.2: Anfragen der CDU-Fraktion
+- TOP 16.3: Anfragen der Fraktion Bündnis 90/Die Grünen
+- TOP 16.4: Anfragen der FDP-Fraktion
+- TOP 16.5: Anfragen der Fraktion Mein Grevenbroich
+- TOP 16.6: Anfragen der UWG-Fraktion
+- TOP 17: Anfragen von Einzelratsmitgliedern
+- TOP 17.1: Anfrage zum Datenschutz in der Smart City (Anfrage Nr.:91/2024) - Kenntnisnahme
+- TOP 18: Mitteilungen des Bürgermeisters
+- TOP 18.1: Petition: "Stop Hyperscale-Rechenzentrum und Digitalpark in Grevenbroich im Rheinischen Revier" - Kenntnisnahme
+- TOP 18.2: Aktuelle Flüchtlingssituation in den Kommunen - Kenntnisnahme
