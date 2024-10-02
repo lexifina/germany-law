@@ -1,0 +1,73 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-10-02T17:00:00+02:00
+- Ende: 2024-10-02T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7203
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7203
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240003.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240003.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240003.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptausschusses vom 26.06.2024 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: 50 Jahre Miteinander Stadt sein - Mit Stimmenmehrheit beschlossen
+- TOP 3: Konzept - Zusammenleben in Vielfalt - Mit Stimmenmehrheit beschlossen
+- TOP 4: Gleichstellungsplan 2025 - 2029 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 5: Beitritt zur Entwicklungsgemeinschaft Civicon Connect e.V. - Einstimmiger Beschluss
+- TOP 6: Kommunalisierung des Quartiersmanagements außerhalb städtebaulicher Förderkulissen unter Einbeziehung der Stadtteilkoordination III/SK - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Änderungsantrag zur Vorlage-Nr. 3446/X - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Solidaritätspartnerschaft mit der Ukraine - Stadt Poltawa - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 8: Beteiligung der NEW AG über die ENNI an der Bad Laaspher-Energie GmbH - Einstimmiger Beschluss
+- TOP 9: Beteiligung an der ENNI Energie & Umwelt Niederrhein GmbH über die NEW AG und die NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Gründung der Projektgesellschaft "NHTZ - Nationales Hockeytrainingszentrum Mönchengladbach GmbH" - Mit Stimmenmehrheit beschlossen
+- TOP 11: Anpassung der Gesellschaftsverträge und Satzungen städtischer Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) - Einstimmiger Beschluss
+- TOP 12: Beteiligung der Stadt Mönchengladbach an der Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG - Einstimmiger Beschluss
+- TOP 13: Beteiligung der Stadt Mönchengladbach an der Theater Krefeld Mönchengladbach gGmbH - Einstimmiger Beschluss
+- TOP 14: Gewährung eines zweckgebundenen Investitionszuschusses für die Errichtung einer Quartiersgarage in den Maria-Hilf-Terrassen an die EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (3. Nachweisung) - Kenntnisnahme
+- TOP 16: Bereitstellung überplanmäßiger Haushaltsmittel 2024 im Bereich - Einstimmiger Beschluss
+- TOP 17: Bereitstellung überplanmäßiger Haushaltsmittel 2024 für die Schülerbeförderung - Einstimmiger Beschluss
+- TOP 18: Wirtschaftsplan 2025 der mags AöR - Kenntnisnahme
+- TOP 19: Öffentlich-rechtliche Vereinbarung zum Betrieb eines Telenotarztsystems - Einstimmiger Beschluss
+- TOP 20: Bildung eines Wahlausschusses für die Kommunalwahlen 2025 - Einstimmiger Beschluss
+- TOP 21: Bildung eines Wahlausschusses für die Integrationsratswahl 2025 - Einstimmiger Beschluss
+- TOP 22: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 23: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 24: Errichtung der 7. Gesamtschule; Vorstellung des Prüfergebnisses - Mit Stimmenmehrheit beschlossen
+- TOP 25: Bauliche Herrichtung des alten Schulgebäudes BT 2 der Förderschule Herman van Veen am Schulstandort Voigtshofer Allee 27 zum Schuljahr 2025/26 - Einstimmiger Beschluss
+- TOP 26: Zuschuss für Café Pflaster MG & RY an die Diakonie - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: Zuschuss für Suchtberatung an das Diakonische Werk MG e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Zuschuss an AIDS-Hilfe MG/RY e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Zuschuss für Selbsthilfe-Kontaktstelle an den PariSozial - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Zuschuss für SPZ an den RehaVerein - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 31: Gewährung einer Zuwendung an die Frauenberatungsstelle Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 32: Gewährung einer Zuwendung an den Caritasverband Region Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 33: Gewährung einer Zuwendung an das Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Zuwendung an den Sozialdienst katholischer Frauen e.V. – Ortsverein Mönchengladbach zur Erbringung von Leistungen im Aufgabenbereich der Werbung und Begleitung von Familienpaten im Rahmen des Angebotes der Frühen Hilfen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 35: Zuwendungen an 11 Träger der freien Jugendhilfe zu offener Kinder- und Jugendarbeit - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 36: Zuwendung für den Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an der Skateanlage am Platz der Republik - Mit Stimmenmehrheit beschlossen
+- TOP 37: Gewährung einer Zuwendung für den Betrieb von Begegnungsstätten - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 38: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 39: Brandschutzsanierung, Sanierung schadhafter und veralteter Bausubstanz und energetische Sanierung der Gesamtschule Volksgarten - Einstimmiger Beschluss
+- TOP 40: Jahresabschluss 2023 der eigenbetriebsähnlichen Einrichtung RdZ mg+ (jetzt: Neue Verwaltungsgebäude Rheydt) - Einstimmiger Beschluss
+- TOP 41: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2025 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 42: Einziehung der Lilienthalstraße von der Einmündung Belgrader Straße bis zum Ausbauende - Einstimmiger Beschluss
+- TOP 43: Straßenumbenennung eines Teilstücks der Blücherstraße - Mit Stimmenmehrheit beschlossen
+- TOP 44: 18. Änderung des Regionalplans Düsseldorf (RPDÄ) (Änderung der Festlegungen zu Windenergieanlagen) – Stellungnahme der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 45: Abwasserbeseitigungskonzept 2025-2031 - Einstimmiger Beschluss
+- TOP 46: Änderung des Paragraph 4 der Satzung des Seniorenrates - An den Rat verwiesen
+- TOP 47: Beseitigung des Seecontainers am Standort Tippweg/Wickrather Straße und dauerhafte Entfernung aus dem Stadtgebiet sowie Neukonzeption für die Bereiche Obdachlosigkeit und Drogenabhängigkeit - An den Rat verwiesen
+- TOP 47.1: Ergänzungsantrag zu Fraktionsantrag Nr. 3435.X - An den Rat verwiesen
+- TOP 48: Umbenennung des Werner-Lüderitz-Weges in "Am Finkenberg" - Abweichende Beschlussempfehlung
+- TOP 49: Benennung Pilates-Platz - Einstimmiger Beschluss
+- TOP 50: Zuwendungen für offene Kinder- und Jugendarbeit ab 2025; hier: - Mit Stimmenmehrheit beschlossen
+- TOP 51: Optimierung der Ampelschaltungen - Mit Stimmenmehrheit beschlossen
+- TOP 52: Fahrradcodierungen; Hier: Fraktionsantrag DIE LINKE vom 19.09.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 53: Bericht über die Situationen in den Meldestellen - Kenntnisnahme
+- TOP 54: Anfragen und Mitteilungen
