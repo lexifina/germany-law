@@ -1,0 +1,90 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-02T17:00:00+02:00
+- Ende: 2024-10-02T19:02:00+02:00
+- Ort: Rather Markt 2, Aula der Joachim-Neander-Grundschule, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26172
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26172
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung zur Sitzung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531254.pdf
+- Ergebnisprotokoll: 1. Nachlieferung zur Sitzung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531254.pdf
+- Wortprotokoll: 1. Nachlieferung zur Sitzung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531254.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Bestellung einer neuen Schriftführung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher und nicht öffentlicher Teil - der Sitzung der Bezirksvertretung 6 am 19. Juni 2024 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 5: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übersandt)
+- TOP 8: Anfrage der SPD-Fraktion: Bäume Matthiaskirchweg/Einbrunger Weg - schriftlich beantwortet
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Fehlende SB-Servicestelle der Sparkasse in Lichtenbroich nach Sprengung - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 11: Interfraktioneller Antrag: Sachstand der Renaturierung des Kittelbachs - Retentionsraum schaffen und Artenschutz fördern - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 12: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 13: Angebot für Jugendliche auf der Fläche des Opernfundus - zur Kenntnis genommen
+- TOP 14: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 15: An der Piwipp – Erneuerung Öffentliche Beleuchtung; Rückbau Gaslichtpunkte und Neubau Stromlichtpunkte - einstimmig beschlossen
+- TOP 16: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Städtischen Tageseinrichtung für Kinder Erwin-Rommel-Str. 17 - Emotionale Schulvorbereitung/Gewaltfrei in der Kita (wurde bereits übersandt) - einstimmig abgelehnt
+- TOP 17: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des St. Sebastianus Schützenbruderschaft e. V. Düsseldorf-Unterrath - Jung und Alt miteinander - einstimmig beschlossen
+- TOP 18: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Katholischen Grundschule Rather Kreuzweg - St. Martin (Umzug und Feier) - einstimmig beschlossen
+- TOP 19: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Tennisclub Kartause 1974 e. V. - 50-jähriges Vereinsjubiläum - abweichend beschlossen
+- TOP 20: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Selbstverwaltetes Wohnprojekt Theodorstraße e.V. - Sommer- und Kinderfest - einstimmig beschlossen
+- TOP 21: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der Grenadiere Unterrath 1924 - Schützenfest und Weihnachtsfeier - einstimmig beschlossen
+- TOP 22: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Amtes für Soziales und Jugend, Kinder- und Jugendfreizeiteinrichtung Ammerweg - Trikots für die Fußballmannschaft - einstimmig beschlossen
+- TOP 23: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der GGS Max-Halbe-Straße - St. Martinsfeier u. Laternenausstellung / Adventszeit u. Weihnachtsfeier - einstimmig beschlossen
+- TOP 24: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Fest- und Fördervereins "Leetebrok" e. V. - St. Martin 2024 - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Fest- und Fördervereins "Leetebrok" e. V. - Unterstützung für den Weihnachtsmarkt - einstimmig beschlossen
+- TOP 26: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Bürgervereins Mörsenbroich 1928 e.V. - Weihnachtsbaum am Kreitenplatz - einstimmig beschlossen
+- TOP 27: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag des Bürgervereins Mörsenbroich 1928 e.V. - Kreitenplatz - nachbarschaftliche Verschönerung - einstimmig beschlossen
+- TOP 28: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der St. Bruno Schule - Projekt Gewaltfreies Lernen - einstimmig beschlossen
+- TOP 29: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag von Rath & Tat - Rather Adventskalender - einstimmig beschlossen
+- TOP 30: Verfügungsmittel 2024 - Zuschussvergabe 2024 Antrag der St. Franziskus-Schule - St. Martins Umzug Mörsenbroich - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2024 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" Weihnachtsbaum auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" Tafel Denkmal Gut Heiligendonk - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2024 Teil C "Förderung Dritter" - Antrag des St. Sebastianus Schützenbruderschaft e. V, Düsseldorf-Unterrath - Ersatzbeschaffung Rasenmäher - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: Beratung des doppischen Entwurfes - des doppischen Produkthaushalts für das Haushaltsjahr 2025 - des Vorberichts und der Anlagen für das Haushaltsjahr 2025 - der bezirksbezogenen Haushaltsansätze 2025 - zur Kenntnis genommen
+- TOP 35.1: Antrag der SPD-Fraktion: Haushalt 2025 - Verkehrskonzept Hülsmeyerplatz - mehrheitlich abgelehnt
+- TOP 35.2: Antrag der SPD-Fraktion: Haushalt 2025 - Instandsetzung Radweg Münsterstr. in Mörsenbroich - einstimmig beschlossen
+- TOP 35.3: Antrag der SPD-Fraktion: Haushalt 2025 - Aufstellung von fünf Geschwindigskeitstafelanzeigern - abweichend beschlossen
+- TOP 35.4: Antrag der SPD-Fraktion: Haushalt 2025 - Verkehrskonzept "An der Piwipp" - mehrheitlich abgelehnt
+- TOP 35.5: Antrag der SPD-Fraktion: Haushalt 2025 - Barrierefreier Umbau der Haltestelle "Am Röttchen" - einstimmig beschlossen
+- TOP 35.6: Antrag der CDU-Fraktion: Haushalt 2025 - Sauberkeit in den Stadtteilen: Verkürzung der Pflegeintervalle bei den städtischen Grünflächen, des Straßenbegleitgrüns und der Spontanvegetation im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 35.7: Antrag der CDU-Fraktion: Haushalt 2025 - Sicherheit im Stadtbezirk 6 - abweichend beschlossen
+- TOP 35.8: Antrag der CDU-Fraktion: Haushalt 2025 - Sofortmaßnahmen bei Straßenschäden: Einrichtung eines Budgets für die Bezirksvertretung 6 um Sofortmaßnahmen durchführen zu können - abweichend beschlossen
+- TOP 35.9: Antrag der BÜ90/Die Grünen-Fraktion: Haushalt 2025 - Fahrradschutzstreifen auf Eckener Straße und Am Roten Haus - zurückgezogen
+- TOP 35.10: Antrag der BÜ90/Die Grünen-Fraktion: Haushalt 2025 - Beidseitiger Fahrradschutzstreifen auf dem Thewissenweg - mehrheitlich abgelehnt
+- TOP 35.11: Antrag der BÜ90/Die Grünen-Fraktion: Haushalt 2025 - Schaffung einer sicheren Radverkehrsanlage auf der Unterrather Straße - einstimmig beschlossen
+- TOP 35.12: Antrag der BÜ90/Die Grünen-Fraktion: Haushalt 2025 - Ertüchtigung des Fußgängerweges A44-Autobahndeckel - einstimmig beschlossen
+- TOP 36: Syltstraße - Einbahnstraße für den Radverkehr in Gegenrichtung öffnen - Vorlage BV6/179/2023 - zur Kenntnis genommen
+- TOP 37: Änderungsantrag der CDU-Fraktion zur Vorlage BV6/092/2022 - Errichtung eines in beide Fahrtrichtungen befahrbaren Fahrradweges auf dem Thewissenweg - Vorlage BV6/156/2022 - zur Kenntnis genommen
+- TOP 38: Verkehrssicherheit der Haltestelle "An der Piwipp" - Vorlage BV6/068/2023 - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 6 ab der 31. Kalenderwoche 2024 - zur Kenntnis genommen
+- TOP 40: Anbindung des Unterrather S-Bahnhofs ans Radhauptnetz - Vorlage BV6/075/2024 - zur Kenntnis genommen
+- TOP 41: Einrichtung einer sicheren Einfädelung für Radfahrer vom Radweg, entlang der Unterrather Straße, in Fahrtrichtung Eckenerstraße, über die Wangeroogestraße hinaus - Vorlage BV6/178/2023 - zur Kenntnis genommen
+- TOP 42: Fahrradschutzstreifen Eckenerstraße - Vorlage BV6/210/2022 - zur Kenntnis genommen
+- TOP 43: Radweg zwischen Vogelsanger Weg und Grashofstraße ertüchtigen - Vorlage BV6/040/2024 - zur Kenntnis genommen
+- TOP 44: Rotlichtblitzer Mörsenbroicher Weg - Vorlage BV6/105/2024 - zur Kenntnis genommen
+- TOP 45: Ahrensplatz - Vorlage BV6/039/2024 - zur Kenntnis genommen
+- TOP 46: Neupflanzungen von Bäumen im öffentlichen Raum und auf Sportanlagen sowie Schaffung von Pocket-Parks im Stadtbezirk 6 - Vorlage BV6/067/2024 - zur Kenntnis genommen
+- TOP 47: Sankt-Franziskus-Straße, Wartehäuschen an der Haltestelle "Wrangelstraße" Linie 776 - Vorlage 176/128/2014 - zur Kenntnis genommen
+- TOP 48: Umwandlung der Ampel am Rather Kreuzweg Höhe Vallourec in eine Bedarfsampel - Vorlage BV6/069/2024 - zur Kenntnis genommen
+- TOP 49: Einrichtung eines Grünen Pfleils für rechtsabbiegende Radfahrer an der Einmündung Stieglitzstraße/Münsterstraße - Vorlage BV6/107/2024 - zur Kenntnis genommen
+- TOP 50: Blühwiesenstrategie - Vorlage AÖE/008/2024 - zur Kenntnis genommen
+- TOP 51: Eingangs- und Parkbereich der Grundschulen "An der Golzheimer Heide" - Vorlage BV6/004/2023 - zur Kenntnis genommen
+- TOP 52: Kein Stückwerk: Umsetzung des gesamten verkehrsberuhigten Bereiches Lichtenbroich - Vorlage BV6/192/2023 - zur Kenntnis genommen
+- TOP 53: Sitzungstermine der Bezirksvertretung 6 im Jahr 2025 - 1. Halbjahr - zur Kenntnis genommen
+- TOP 54: Ersatzhaltestellen - Vorlage BV6/037/2024 - zur Kenntnis genommen
+- TOP 55: Bauunterhaltungsmittel 2024 Teil B "sonstige städtische Einrichtungen" Einrichtung eines Zebrastreifens auf der Straße Zur Alten Kaserne - einstimmig beschlossen
