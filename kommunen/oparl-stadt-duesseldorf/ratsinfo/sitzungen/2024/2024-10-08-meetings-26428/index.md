@@ -1,0 +1,60 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-08T16:00:00+02:00
+- Ende: 2024-10-08T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/006/2024 vom 03.09.2024 - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Sicherheit im Bahnhofsumfeld – SiBu - mündlicher Bericht - zur Kenntnis genommen
+- TOP 4.2: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 4.3: Workshopverfahren Nr. 02/023 - Schützenplatz Flingern - mehrheitlich beschlossen
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 4.6: Haushaltsplanentwurf 2025/2026 - Bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 4.6.1: Fahrbahnerneuerung Eythstraße - Haushaltsbegleitantrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 4.6.2: Quartiersmanagerin/Quartiersmanager für den Karl-Wagner-Platz -Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - zurückgezogen
+- TOP 4.6.3: Barrierefreier Ausbau der Haltestelle Lindemannstraße - Haushaltsbegleitantrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 4.6.4: Konflikt- und Beschwerdemanagement im Umfeld des Suchthilfezentrums auf der Flurstraße - Haushaltsbegleitantrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 4.6.5: Erster Pocket-Park in Düsseltal auf dem Schotterparkplatz Ecke Heinrichstraße/Graf-Recke-Straße - Haushaltsbegleitantrag der SPD-Fraktion - abweichend beschlossen
+- TOP 4.6.6: Suchthilfezentrum Flurstraße - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5: Anträge
+- TOP 5.1: neue Kreisverkehre im Stadtbezirk 2 - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 5.2: Weihnachtsmarkt Schillerplatz - Antrag der FDP-Fraktion - mehrheitlich beschlossen
+- TOP 5.3: Finanzielle Förderung des Kunst- und Musikfestivals Loft of Art Weekend für und in Flingern im Whiteloft auf der Ackerstraße 19 von 03. bis 04. November aus bezirksbezogenen Haushaltsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.4: “Loft of Art Weekend” - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.5: Bezirksbezogene Haushaltsmittel für ein Kunst- und Musikfestival für und in Flingern - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.6: Finanzielle Unterstützung des Kleingartenvereins Düsseldorf e. V. am Flinger Broich 80 für die Umrüstung der Wegebeleuchtung von Glühlamepen auf eine LED-Beleuchtung aus bezirksbezogenen Bauunterhaltungsmitteln - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.7: Umbau der Wegebeleuchtung auf dem Gelände des KGV Düsseldorf e.V. am Flinger Broich von Glühlampen auf LED - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.8: Bezirksbezogene Haushaltsmittel für den Kleingartenverein Düsseldorf e. V. - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.9: Künstlerische Gestaltung der Stromkästen auf der Rethelstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.10: Bezirksbezogene Haushaltsmittel für die künstlerische Gestaltung von 10 Stromkästen auf der Rethelstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.11: Kauf & Plausch” auf der Rethelstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.12: Erster Pocket-Park in Düsseltal auf dem Schotterparkplatz Ecke Heinrichstraße/Graf-Recke-Straße - Antrag der SPD-Fraktion - zurückgezogen
+- TOP 5.13: Beseitigung von Schrotträdern - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.14: Geschwindigkeitsanzeigetafel Hohenzollernallee - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 5.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Anwachsen der Taubenpopulation um die Düssel an der Kühlwetterstr./Innenhof an der Boltensternstraße, Gengerstraße, Weselerstraße und Mühlheimerstraße - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - vertagt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Radverkehr auf der Klopstockstraße in beide Fahrtrichtungen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.5: Auswirkung des Starkregens im Juli 2021 auf das Starkregenpräventions-Konzept - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.6: Gänsemanagement im Zoopark - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Papiercontainer im Stadtbezirk 2 - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.3: Finanzierung der Vermietungsverluste aus der Kiefernstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
