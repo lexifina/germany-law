@@ -1,0 +1,84 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2024-10-08T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7969167
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7969167
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Informationen zum geplanten Nachbarschaftsviertel und integrierten Quartierskonzept
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Situation um den Schulsportplatz an der Kazmaier Straße / Astaller Straße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Schießstättstr. 6
+- TOP 6.2.2.: Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Auflistung Freischankflächen und Schanigärten sowie die dadurch entfallenden Kfz-Stellplätze
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Standort Jugendcontainer
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Einrichtung einer Beleuchtung auf dem Bolzplatz am Georg-Freundorfer-Platz
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Mini-Ausstellung des RKU am Georg-Freundorfer-Platz vom 15.11. bis 23.11.2024
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Heimeranstraße
+- TOP 8.3.2.: Gaststättenfortführung Landsberger Straße
+- TOP 8.3.3.: "Wiesngarten" auf der Alten Circuswiese vom 21.09. bis 06.10.2024
+- TOP 8.3.4.: Mosaik Jugendpreis – Mit Vielfalt gegen Rassismus - Bewerbungsschluss: 24.10.2024
+- TOP 8.3.5.: Mahn-Denkmal am Sinti-Roma-Platz
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Fußgängerquerung an der Ecke Heimeranplatz/Ridlerstraße sicherer machen
+- TOP 9.1.2.: (E) Verstärkte Kontrolle der Falschparker beim Bücherbus in der Parkbucht an der Guldeinschule
+- TOP 9.1.3.: (E) Nachtruhe Kreuzung Parkstr./Gollierstr.
+- TOP 9.1.4.: (E) Genehmigung Freischankflächen nur mit Durchgang gemäß UN-Behindertenrechtskonvention
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Ergebnisse Stadtteil-Check Barrierefreiheit im Westend am 04.07.2024
+- TOP 9.2.2.: Parkraummanagement in München – Umsetzung Sektor VI, Teil 2
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Einladung der Baureferentin zum 2. Austauschtreffen mit den BAs am 28.11.2024; Themenschwerpunkt: Licht an: LED-Umrüstung, Nachtspaziergänge und Dialog-Displays
+- TOP 9.3.2.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze im Bereich Guldeinstraße 30 Ecke Schnaderböckstraße
+- TOP 9.3.3.: Baumfällung Ligsalzstraße
+- TOP 9.3.4.: Einsatz eines Müllsammelfahrzeugs in den Wohngebieten um die Theresienwiese
+- TOP 9.3.5.: Arbeiten im Straßenraum - Astallerstraße 30; Verlegung Fernwärmeleitung
+- TOP 9.3.6.: (U) Benennung von Straßen und Plätzen
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "israelisches Konzert" Crossing Lines // Konzert // Hebräische, türkische und arabische Lieder am 16.11.2024 2.300,00€; Az. 0262.0-8-0414
+- TOP 10.1.2.: (E) Stadtbezirksbudget Grantler Records Grantler Gig -Malo Moray und Deux Femmes am 26.10.2024 620,00€; Az. 0262.0-8-0413
+- TOP 10.2: Anhörungen
+- TOP 10.2.1.: Evaluierung Stadtbezirksbudget 2021-2024
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Verwendungsnachweis Migration mach Gesellschaft e.V.; Kulturveranstaltung World Refugee Day 2024 - Vielfalt feiern am 21.06.2024
+- TOP 11: Anträge
+- TOP 11.1.: U-Bahn(hof)sanierungen transparent und verständlich für alle darstellen
+- TOP 11.2.: Eigenmittel für BA-Jahresempfang am 14. November 2024
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 6.3.3.: Rückerstattung von Heizkosten
+- TOP 8.2.2.: Marktveranstaltung auf öffentlichem Verkehrsgrund - „Weihnachtszauber am Bavariapark“ auf dem Platz am Bavariapark vom 25.11.2024 bis 22.12.2024
+- TOP 12.3.1.: Digitale Schaukästen für die Bezirksausschüsse – Antrag des BA 17 Obergiesing-Fasangarten vom 10.09.2024
+- TOP 11.3.: U-Bahn(hof)sanierungen transparent und verständlich für alle darstellen
+- TOP 4.2.: Verkehrssituation Baucontainer Schrenkstraße 7
+- TOP 11.4.: Das Panzerfahrerdenkmal vor der Bavaria dem kontrollierten Verfall überlassen und auch zum Volkstrauertrag zum 17. November nicht mehr bekranzen und ausschneiden
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
