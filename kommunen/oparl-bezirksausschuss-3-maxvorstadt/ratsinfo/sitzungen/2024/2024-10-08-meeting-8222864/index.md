@@ -1,0 +1,117 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2024-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8222864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8222864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Nachfrage und Bitte um Beantwortung des Antrages „Begrünung der Akademiestraße“ vom 12.02.2019
+- TOP 6.2.: Mülleimer im Maßmannpark am Wochenende leeren
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Petition: Bäume in der Kreittmayrstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Schaffung weiterer Flächen für Baumpflanzungen an der Marsstraße
+- TOP 1.2.2.: Nachfrage Leerstand Mehrfamilienhaus Theresienstraße 150
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste LBK KW37, KW38, KW39
+- TOP 2.1.2.: WEB-Listen
+- TOP 2.1.3.: Amalienstr. 25, Neubau eines Rückgebäudes eines Hotels - VORBESCHEID
+- TOP 2.1.4.: Schellingstraße 108, Abbruch und Neubau des Vorder- und des Rückgebäudes – VORBESCHEID
+- TOP 2.1.5.: Schellingstr. 18, Energetische Sanierung mit Nutzungsänderung von Gewerbe zu Wohnen sowie Neuaufteilung der Wohneinheiten im best. Rückgebäude mit Errichtung von Balkonen und einer Terrasse
+- TOP 2.2: Budget
+- TOP 2.2.1.: (E) Stadtbezirksbudget Init. "Garten" Gartenwerkzeuge für das Viertel vom 12.10. -30.11.2024 219,36€; Az. 0262.0-3-0550
+- TOP 2.2.2.: (E) Stadtbezirksbudget Init. "klimafit" Schleißheimer klimafit vom 12.10. 2024 -30.07.2025 1.860,00€; Az. 0262.0-3-0551
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 5.2.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP 5.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 5.4.: (U) Siedlungsentwicklung und Infrastrukturversorgung 2023-2027
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Antrag Stellplätze Mopeds und Mofas Marlene-Dietrich-Straße
+- TOP 1.1.2.: Anträge an den Bezirksausschuss 3 Maxvorstadt von der Initiative Benno-Viertel und Anwohner der Pappenheimstraße Gestaltung von Pappenheimstraße und Kreuzung Pappen heimstraße / Karlstraße / Blutenburgstraße (Pappenheimplatz)
+- TOP 1.1.3.: Antrag Fahrradabstellplätze Karlstr. 23 / Katharina-von-Bora-Str. südlich Karlstr
+- TOP 1.1.4.: Vorschlag Anschaffungen Mülleimer
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Abbau Palästina-Camp
+- TOP 1.2.2.: Professor-Huber-Platz nach Umzug des Protestcamps umgehend sanieren – Kosten dem Veranstalter auferlegen – Keine Rückkehr
+- TOP 1.2.3.: Königsplatz statt Königsparkplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Wanderbaumallee Katharina-von-Bora-Straße/Karlstraße
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Bez. 3, Wittelsbacherplatz | Anhörungsverfahren Marktfestsetzung und VA auf öff. Verkehrsgrund: "Mittelalterlicher Weihnachtsmarkt" vom 25.11. - 23.12.2024 (Aufbau ab 12.11.2024)| Anhörungsfrist: 24.10.2024
+- TOP 2.4.2.: Vorabinformation: VA öffentlicher Verkehrsgrund (Stadtbezirke 1,3,12): Zamanand / Corso Leopold im Jahr 2025
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: (U) Neubau Hauptbahnhof - Finanzierungsbedarf für den Bau der beiden Anlagen Fahrradgarage im Neubau Empfangsgebäude, Fahrradgarage im U1/U2-Bauwerk
+- TOP 3.4.: Unveränderte Gaststättenfortführungen
+- TOP 3.5.: Antwort Bezirksinspektion zu Nachtkiosken
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget BIKU e.V. -Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 3 Maxvorstadt vom 01.01. -31.12.2025 6.960,00€; Az. 0262.0-3-0549
+- TOP 2.2.: Seniorenstadtteilplan für die Maxvorstadt
+- TOP 2.3.: Beschlussvorlage "Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024", geplant für den 06.11.2024, zur Stellungnahme
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Begehbare Karte im Wittelsbacher Gymnasium am 29. Januar
+- TOP 4.2.: Nichtinanspruchnahme Zuschuss, young caritas
+- TOP 4.3.: Einladung Symposium "Schulen als offene Räume"
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Alle BAs: Evaluierung Stadtbezirksbudget - Abfrage Erfahrungen
+- TOP 1.2.: BA 17; Digitale Schaukästen für die Bezirksausschüsse
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 2.4.3.: Bez. 3, Wittelsbacherplatz | Anhörungsverfahren Veranstaltung auf öff. Verkehrsgrund: "Carolina Panthers Fan Fest" vom 08.11. - 10.12.2024 (Aufbau ab 12.11.2024)| Anhörungsfrist: 25.10.2024
+- TOP 2.1.6.: WEB-Liste der LBK: KW 38-40
+- TOP 2.4.4.: Bez. 3, Neptunbrunnen | Anhörung für öffentlicher Workshop "SWIPS - SOUND WORKSHOPS" am 27.10.2024 (Ersatztermin: 28.10.2024) | Frist: 18.10.2024
+- TOP 2.4.: Stadtweites Verfahren BA 3: IBeS Nr. 155/24, Verlängerung von drei Standorten / Sitzungsvorlage Nr. 20-26 / V 14545 | Frist bis zum 24.10.24
+- TOP 2.1.1.: Heßstraße 84, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung
+- TOP 2.4.5.: Bez. 3 , Geschwister-Scholl-Pl. | Neue Anhörung mit neuen Plan für LMU Erstsemesterbegrüßung 2024 am 14.10.24 | Frist: 09.10.24
+- TOP 2.2.2.: Antrag für 7 Sitzgelegenheiten (max. 4 Stühle und max. 3 Hocker) vor dem Anwesen Amalienstr. 41
+- TOP 1.2.4.: Keine weitere IAA in der Maxvorstadt
