@@ -1,0 +1,56 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2024-10-08T18:00:00+02:00
+- Ende: 2024-10-08T19:30:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWngLRPITxQNKLzLv3UHV4M
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6185
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQItwbVJfcuFmqfzOSYUPPXQ8ZIueGrx9PGbbwsO0su2/Einladung_Rat_08.10.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf7qEJf-20jgbqa-U-Rf9cMjXT2mJYcKTycnDHqIpuhF/Oeffentliche_Niederschrift_Rat_08.10.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Einführung und Verpflichtung eines Ratsmitglieds
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Satzung der Stadt Wesseling zum Erhalt und Schutz von Wohnraum (Wohnraumschutzsatzung) - Einstimmig, 1 Enthaltung
+- TOP 8.: Stellplatzsatzung der Stadt Wesseling - 34 Ja-Stimmen, 3 Nein-Stimmen, 0 Enthaltungen
+- TOP 9.: 1. Änderungssatzung über die Erhebung der Vergnügungssteuer in der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 10.: 1. Änderungssatzung über die Abfallentsorgung in der Stadt Wesseling (Abfallentsorgungssatzung) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Haushaltswirtschaft im Haushaltsjahr 2023 Bereitstellung einer überplanmäßigen Ausgabe - Einstimmig, 6 Enthaltungen
+- TOP 12.: Haushaltswirtschaft im Haushaltsjahr 2024 Zustimmung zum Eingang von Verpflichtungen - Einstimmig, 0 Enthaltungen
+- TOP 13.: Genehmigung einer Dringlichkeitsentscheidung hier: Entnahme von Wertpapieren aus dem Sondervermögen Kindertageseinrichtungen der Stadt Wesseling - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 14.: Entsorgungsbetriebe Wesseling hier: Feststellung des Jahresabschlusses 2023 und Entscheidung über die Gewinnverwendung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Genehmigung einer Dringlichkeitsentscheidung: Ausschreibung / Besetzung der Stelle einer/eines Beigeordneten - 35 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 16.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Bestellung eines Beigeordneten zum Ersten Beigeordneten - Einstimmig, 0 EnthaltungenHerr Erster Beigeordneter Neeser nimmt wieder an der Sitzung teil und bedankt sich für die Bestellung und das entgegengebrachte Vertrauen.
+- TOP 16.1.: Bestellung eines Beigeordneten zum allgemeinen Vertreter des Bürgermeisters - Einstimmig, 0 EnthaltungenHerr Erster Beigeordneter Neeser nimmt wieder an der Sitzung teil und bedankt sich für das Vertrauen.
+- TOP 17.: Bildungspark Urfeld Errichtung der Interimsschule als dauerhaftes Gebäude - Einstimmig, 0 Enthaltungen
+- TOP 18.: Zustandsbericht Sportstätten - Einstimmig, 0 Enthaltungen
+- TOP 19.: 74. Änderung des Flächennutzungsplans „Hubertusstraße“ hier: Feststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 20.: Aufhebung des Ratsbeschlusses vom 09.07.2019 zur Versagung von Sondernutzungserlaubnissen für die Aufstellung von Altkleidersammelcontainern im öffentlichen Raum der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 21.: Masterplan Gewerbeflächen: Ergebnisse der Soll/Ist-Analyse und Umsetzung erster Handlungsempfehlungen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Genehmigung einer Dienstreise Hier: Dienstreise zur Jahrestagung für Mitglieder von Jugendhilfeausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 23.: Antrag der Fraktionen CDU und Bündnis90/Die Grünen: Präsentation des Bürgerfeedbacks vom Langen Tisch der Ideen am 10.08.24
+- TOP 23.1.: Auflistung Feedback vom Langen Tisch der Ideen am 10.08.24
+- TOP 24.: Antrag der Fraktion Bündnis90/Die Grünen: Ausschussumbesetzung - Einstimmig, 0 Enthaltungen
+- TOP 25.: Antrag der Fraktion WIR/FWW: Ausschussumbesetzung - Einstimmig, 0 Enthaltungen
+- TOP 26.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 27.: Antrag der SPD-Fraktion: Umbesetzung in externen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 28.: Bestellung und Entsendung eines Vertreters der Stadt Wesseling in externe Gremien - Einstimmig, 0 Enthaltungen
+- TOP 29.: Antrag der CDU-Fraktion: Nachbesetzung im Jugendhilfeausschuss - Einstimmig, 0 Enthaltungen
+- TOP 30.: Mitteilungen und Anfragen
+- TOP 30.1.: Haushaltswirtschaft der Stadt; Übertragung von Ermächtigungen in das Haushaltsjahr 2024
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Gesellschafterversammlung der Stadtentwicklungsgesellschaft Wesseling mbH – Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin hier: Abberufung eines Geschäftsführers der Stadtentwicklungsgesellschaft Wesseling mbH (SEG) - Einstimmig, 0 Enthaltungen
+- TOP 2.: Grundstückserwerb im Bereich Hubertusstraße in Wesseling
+- TOP 2.1.: Änderungsantrag der Fraktionen CDU und Bündnis90/Die Grünen: Grundstückserwerb im Bereich Hubertusstraße in Wesseling - 34 Ja-Stimmen, 1 Nein-Stimme, 1 Enthaltung
+- TOP 3.: Mitteilungen und Anfragen
+- TOP 4.: Presseveröffentlichungen
