@@ -1,0 +1,51 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-10-08T15:00:00+02:00
+- Ende: 2024-10-08T17:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29688
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29688
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 2.1: Förderprogramm Gleichstellung von Männern und Frauen 2023 - Förderung des Projekts „Jubiläumsbroschüre - Gastarbeiterinnen schreiben Geschichte für Köln und das Rheinland" - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage der Liste GOL vom 27.05.2024 (AN/0816/2024) betreffend "Koloniales Erbe der Stadt Köln" - Kenntnis genommen
+- TOP -: Anfrage der GOL zum Thema Koloniales Erbe der Stadt Köln
+- TOP 3.2: Beantwortung einer schriftlichen Anfrage der Liste GOL zum Thema Einbürgerung (AN/0817/2024) - Kenntnis genommen
+- TOP -: Anfrage der GOL zum Thema Einbürgerungen
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage des Facharbeitskreises 5 des Integrationsrates zu "Erteilung von Visa"(AN/0809/2024) - Kenntnis genommen
+- TOP -: Anfrage zur Erteilung von Visa
+- TOP 3.4: Beantwortung einer Anfrage von Bündnis 90/Die Grünen, CDU und Volt zum Theme "Tierhaltung in Unterbringungsunterkünften für Geflüchtete" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage AN/1123/2024 "NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten„ um 63 Prozent – Auswirkungen auf Köln" - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Thema: Theodor Wonja Michael Bibliothek erhalten - zurückgestellt
+- TOP 4.2: Anfrage von Integrationsratsmitglied Babaoglu-Marx zum Thema "Corona-Maßnahmen" - zurückgestellt
+- TOP 4.3: NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten“ um 63 Prozent – Auswirkungen auf Köln - zurückgestellt
+- TOP 5: Mitteilungen
+- TOP 5.1: Evaluation zum Thema Mehrsprachigkeit in städtischen Kindertageseinrichtungen - Kenntnis genommen
+- TOP 5.2: Mitteilung zum Änderungsantrag des Integrationsrats zu TOP 6.2 in der Sitzung des Integrationsrats am 16.04.2024 Änderung der Richtlinie zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz. AN/0583/2024 - Kenntnis genommen
+- TOP 5.3: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - Kenntnis genommen
+- TOP 5.4: Bevölkerungsbewegungen in Köln 2023 – Wanderungsplus trotz Rückgang der Zuzüge - Kenntnis genommen
+- TOP 5.5: Evaluierungbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 5.6: Konzept zur Stärkung der integrativen Stadtgesellschaft - Kenntnis genommen
+- TOP 5.7: Aktualisierung zur Internetanbindung der Unterkünfte für Geflüchtete - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag des FachAK 4 zur Verbesserung der interkulturellen Öffnung des Senior*innenbereichs in Köln - zurückgestellt
+- TOP 6.2: Antrag des FachAK 4 auf Prüfung der Weiterführung des Projektes „Anonymer Krankenschein in der Stadt Köln“ - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Freigabe und Verteilung rassismuskritischer Projektmittel 2024- 2. Schritt - ungeändert beschlossen
+- TOP 8.2: Unterkunft für Geflüchtete Boltensternstr. 10a, 50735 Köln-Riehl hier: Einbau von Etagenküchen und Erhöhung der Waschkapazitäten - ungeändert beschlossen
+- TOP 8.3: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Mosaik Köln Mülheim e.V. - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
