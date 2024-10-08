@@ -1,0 +1,143 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2024-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8029522
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8029522
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Vandalismus am Giesinger Bahnhof (FF UA FSA)
+- TOP 2.1.2.2.: Bürgeranliegen; Fehlende Mülleimer und Verschmutzung in der Bayrischzeller Str. (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen; Hundehaufen in Obergiesing ( FF UA Umwelt)
+- TOP 2.1.2.4.: Bürgeranliegen; Lärmbelästigung durch Veranstaltungen am Giesinger Bahnhof (FF UA Kultur)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Seniorenbeauftragte*r
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Scharfreiterstr. 1e
+- TOP 3.10.2.: Stadelheimer Str. 12
+- TOP 3.10.3.: Schwanseestr. 17
+- TOP 3.10.4.: Warngauer Str. 47
+- TOP 3.10.5.: St.-Martin-Str. 34 -
+- TOP 3.10.6.: Weinbauernstr. 9 - Neubau eines sechsgeschossigen Hospizgebäudes mit einem Untergeschoss und Tiefgarage - VORBESCHEID (Hinweis: Zusammenhang mit Martin-Luther-Str. 1) - (FF UA BPW)
+- TOP 3.10.7.: Bescheid zur Genehmigung von Baumfällungen - Tirschenreutherstr.
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Antrag Bündnis 90 / Die Grünen Dauerhafte Sicherung von Baustellen
+- TOP 4.2.: Antrag CSU - Fraktion S-Bahnstation Fasangarten: Zwei weitere Fahrkartenautomaten und mehr überdachte Sitzgelegenheiten
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) Init. "Tanzprojekt" Tanz mal drüber nach: "Meine Träume" vom 02.10.2024 -26.04.2025 1.675,00€; Az. 0262.0-17-0467
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Terminverschiebung einer Veranstaltung; Hier verweile ich gerne - La Vie e.V
+- TOP 5.4.2.: Terminverschiebung - SommerHofKonzerte in Giesing
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: St.-Bonifatius-Str. 2a - Nutzungsänderung einer Ladenfläche zur Erweiterung eine best. Gaststätte
+- TOP 6.1.3.2.: Weinbauernstr. 9 - Neubau eines sechsgeschossigen Hospizgebäudes mit einem Untergeschoss und Tiefgarage - VORBESCHEID (Hinweis: Zusammenhang mit Martin-Luther-Str. 1) - (betrifft auch Baumschutz)
+- TOP 6.1.3.3.: Bürgeranliegen aus der Sitzung vom 10.09.2024 - Verweisung an den UA BPW Nachverdichtung Siedlung am Perlacher Forst
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 6.1.4.2.: (U) Siedlungsentwicklung und Infrastrukturversorgung 2023-2027
+- TOP 6.1.4.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 6.1.4.4.: Bürgeranliegen; Baustelle Auguste Kent Platz
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Beschlussvorlage "Schul-und Kitabauoffensive - 6. Schulbauprogramm, Kita-Bauprogramm 2024 geplant für den 06.11.2024 (Frist bis zum 06.11.2024)
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Antwort auf ein Bürgeranliegen; Barrierefreier Zugang zu Arztpraxen und Apotheken
+- TOP 6.2.4.2.: Infoblatt RBS Schul- und Kindertagesstätten für den 17. Stadtbezirk
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Ampelschaltungsdauer Untersbergstraße / Werinherstraße
+- TOP 6.3.2.2.: (E) Anpassung der Ampelschaltung für mehr Sicherheit Im Schulumfeld an der St. Martin Schule
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anhörung; Parkraummanagement in München - Umsetzung Sektor VI Sitzungsvorlage Nr. 20-26 / V 13538 (Fristverlängerung wurde genehmigt bis 09.10.24)
+- TOP 6.3.3.2.: Beteiligungsverfahren - Radwegsanierung St. Bonifatius Str.
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Vollzug nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs 9 und § 46 StVO - Arbeiten im Straßenraum; Sachranger Str. 21-39 und gegenüber
+- TOP 6.3.4.1.1: - Arbeiten im Straßenraum; St.Martin-Str. 18 (mit Einmündungsbereich mit Zugspitzstr.; Herzogstandstr.)
+- TOP 6.3.4.2.: Verengung der Fahrbahnen und Begrünung in der Deisenhofener- Heimgarten- und Werinherstr. Empfehlung Nr. 20-26 / E 01498 der BV vom 24.1023 Beschluss des BA vom 20.02.24/ Sitzungsvorlage Nr. 20-26 / V 12033 Stellungnahme des BA vom 21.02.24
+- TOP 6.3.4.3.: Vollzug der Grünanlagensatzung; hier: Baustelleneinrichtung und Zufahrt zur Grünanlage Walchenseeplatz für Bohrungen
+- TOP 6.3.4.4.: Vollzug der § 34 Abs. 1 i.V.m. Abs. 6 und Abs. 9, § 46 StVO und Art. 21 BayStrWG Arbeitsstelle im Straßenraum - Kistlerstr. 6 - Vollsperre - Seite Sägstr. vom 16.09 - 11.10.24
+- TOP 6.3.4.5.: Verkehrsrechtliche Anordnung - Arbeiten im Straßenraum hier: Werinherstr. zwischen Ungsteiner und Schlierseestr. Bauphase 7 + 8
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Veranstaltung auf öffentlichen Verkehrsgrund - Genehmigung hier: Echokammer 100 am 20.09.24
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 6.5.6.1.: Veranstaltung Georg Elser
+- TOP 6.6.: Unterausschuss lokale Wirtschaft und Arbeit (UA Wirtschaft)
+- TOP 6.6.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5.: Anträge
+- TOP 6.6.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.2.: Evtl. Nachtrag siehe Top 6.5.3.1 Veranstaltung in städtischen Grünanlagen hier: Spielaktion BiLok am 30./31.10.2024 (Frist bis 20.10.2024)
+- TOP 6.5.3.1.: Veranstaltung in städtischen Grünanlagen hier: Spielaktion BiLok am 30./31.10.2024 (Frist bis 20.10.2024)
