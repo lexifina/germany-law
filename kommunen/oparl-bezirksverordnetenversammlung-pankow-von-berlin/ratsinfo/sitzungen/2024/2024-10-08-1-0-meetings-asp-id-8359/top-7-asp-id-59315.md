@@ -1,0 +1,7 @@
+# TOP 7: Ergänzungsplan 2025 für den Bezirk Pankow von Berlin - Drucksache: IX-1026
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Gleichstellung, Beteiligung und Wirtschaftsförderung (2024-10-08)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=59315
+- Ergebnis: erledigt
