@@ -1,0 +1,53 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-08T17:00:00+02:00
+- Ende: 2024-10-08T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26185
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26185
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Errichtung von Stadtradstationen im Stadtbezirk 5 für das kommunale Düsseldorfer Mietradsystem - vertagt
+- TOP 8: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP -: Informationsvorlagen mit Berichterstattung
+- TOP 9: Umgestaltung Kaiserswerther Markt – Weiteres Vorgehen - zur Kenntnis genommen
+- TOP -: Anfragen aus vorherigen Sitzungen*
+- TOP 10: Kaiserswerther Markt - Nunmehr Taten statt Worte?! - beantwortet
+- TOP 11: Kaiserswerther Markt: Warum antwortet die Verwaltung innerhalb eines Jahres nicht auf Fragen der BV5? - beantwortet
+- TOP 12: Anträge der BV5 zu Radwegen im Düsseldorfer Norden (Sankt-Göres-Straße und Kalkumer Schlossallee) - vertagt
+- TOP 13: Auswirkungen des Urteils vom Bundesverwaltungsgericht vom 06. Juni 2024 (Az. BVerwG 3 C 5.23) auf die Graf-Engelbert-Straße in Düsseldorf-Angermund - beantwortet
+- TOP 14: Die Einbahnstraße Sankt-Göres muss im Bereich zwischen der Straße Kaiserswerther Markt und der Niederrheinstraße Fahrrad frei bleiben - vertagt
+- TOP 15: Geschwindigkeitsüberschreitungen auf der Arnheimer Straße - beantwortet
+- TOP 16: Wann werden die Ruinen Am Ritterskamp 11 und Am Ritterskamp 7 beseitigt und die vor Jahren geplante Grünfläche gestaltet? - beantwortet
+- TOP 17: Landschaftsgerechte Gestaltung und Baumpflanzungen auf dem Parkplatz Niederrheinstraße/An Sankt Swidbert - vertagt
+- TOP 18: Grüne Welle von der Niederrheinstraße kommend und auf der Kaiserswerther Straße von Freiligrath Platz bis zum Aqua Zoo - vertagt
+- TOP -: Neue Anfragen
+- TOP 19: ÖPNV-Anbindung des Stadtteils Angermund - beantwortet
+- TOP 20: Nutzung von E-Ladesäulen im Düsseldorfer Norden - beantwortet
+- TOP 21: ÖPNV-Anbindung Stadtbahn U81 - vertagt
+- TOP 22: Wie viele Wohnungen und Häuser werden im BV 5 Gebiet an Airbnb und andere Firmen für Übernachtungen und an Gewerbetreibende als Büros/Massagesalons usw. vermietet und stehen damit nicht mehr dem Wohnungsmarkt im Düsseldorfer Norden zur Verfügung? - vertagt
+- TOP 23: Schutz vor Hochwasser der Häuser am Kaiserswerther Markt - vertagt
+- TOP 24: Kapazitäten Friedrich-von-Spee-Gemeinschaftsgrundschule Angermund - vertagt
+- TOP 25: Weltkindertag - vertagt
+- TOP 26: Welche Belastungen mit Feinstaub, Ultrafeinstaub und Stickoxid durch den Düsseldorfer Flughafen sind der Verwaltung bekannt und wie geht die Verwaltung mit diesem Wissen um? - vertagt
+- TOP 27: Müllbehälter Klemensplatz und Umgebung - beantwortet
+- TOP 28: Bahnhof(-vorplatz) goes Kaiserswerth!? Welche rechtlichen Rahmenbedingungen gelten für das Aufstellen sog. Vending Machines (Warenautomaten) und mobiler Verkaufsstellen (Imbisswagen)? - beantwortet
+- TOP -: Anträge
+- TOP 29: Wittlaer-Einbrungen - Zufahrt zu Stichstraßen sicherstellen und Verkehrssicherheit herstellen - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 30: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 31: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2024 - zur Kenntnis genommen
+- TOP 32: Einbringung des Haushaltsplans für das Haushaltsjahr 2025 (Entwurf), Vorbericht und Anlagen sowie bezirksbezogene Ansätze** - einstimmig beschlossen
+- TOP 33: Verschiedenes
