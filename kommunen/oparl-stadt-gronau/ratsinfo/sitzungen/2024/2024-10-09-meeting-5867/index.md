@@ -1,0 +1,52 @@
+# Rat (44. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2024-10-09T18:00:00+02:00
+- Ende: 2024-10-09T20:19:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeAYjdAgOZ7jw4wrXVYnUFI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5867
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcuPRE9g59bz8RNI8-HxFYZEv8Qz_f8bJ9uEm-xJ5N9r/Bekanntmachung_Rat_09.10.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUCS6aNsxK1A_h2IKYqYaeYCom-JF7GX4by0KeDY1otI/Oeffentliche_Niederschrift_Rat_09.10.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 29.05.2024
+- TOP 3.: Niederschrift vom 03.07.2024
+- TOP 4.: Niederschrift vom 04.09.2024
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Vorprüfung der Gültigkeit der Wahl des Beirates für Seniorinnen und Senioren der Stadt Gronau (Westf.) am 29.08.2024 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Projektentwicklung Hertieareal - 28 Jastimmen, 1 Neinstimmen, 11 Enthaltungen
+- TOP 8.: Kommunale Finanzierung des Trägeranteils zu den Betriebskosten der Tageseinrichtung für Kinder hier: Anpassung des Vertrages der Kita Märchenschloss - Einstimmig, 0 Enthaltungen
+- TOP 9.: Jugendhilfeplanung: Betreuungsplätze für Kinder in Kindertageseinrichtungen und Kindertagespflege, Teil I Bedarfsplanung 2024 bis 2027 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beschaffung von Tablets für Jahrgang 7 und die gemeinsame Oberstufe - Einstimmig, 3 Enthaltungen
+- TOP 11.: 4. Änderungssatzung zur Satzung über die Erhebung einer Vergnügungssteuer in der Stadt Gronau (Westf.) vom 30.10.2013 (i.d.F. vom 16.09.2022) - Einstimmig, 0 Enthaltungen
+- TOP 12.: Kenntnisnahme zur Verlängerung der Optionsfrist nach § 2b Umsatzsteuergesetz (UStG) i. V. m. § 27 Abs. 22 S. 3 UStG i. V. m. § 27 Abs. 22a UStG i. V. m. Jahressteuergesetz 2024
+- TOP 13.: Liquidationsabschluss 2023 der Forstdienstleistungen Gronau GbR - Einstimmig, 1 Enthaltungen
+- TOP 14.: Gewinnausschüttung mit anschließender Kapitalrückführung zwischen dem Abwasserwerk und der Stadt Gronau für die Jahre 2026 – 2030, Anhörung des Betriebsausschusses gem. § 10 Abs 4 EigVO NRW - Einstimmig, 0 Enthaltungen
+- TOP 15.: Vorhabenbezogener Bebauungsplan "Wohnangebot für Menschen mit Beeinträchtigungen an der Enscheder Straße", Stadtteil Gronau (beschleunigtes Verfahren gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Wasserversorgungskonzept der Stadt Gronau (Westf.) gem. § 38 Absatz 3 LWG (Fortschreibung 2024) - Einstimmig, 0 Enthaltungen
+- TOP 17.: Änderung der Gesellschaftsverträge der städtischen Beteiligungsgesellschaften - Einstimmig, 1 Enthaltung
+- TOP 18.: Aufhebung der Pflicht zur Teilnahme an Gesellschaftsversammlungen und Aufsichtsratssitzungen - Einstimmig, 3 Enthaltungen
+- TOP 19.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW sowie Bestellung von Vertreter/innen in Organe städtischer Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 20.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 20.1: Ausschreibung der Stelle der Geschäftsführung (Bericht aus der WGG)
+- TOP 20.2: Auslosung (Bericht aus der QEG)
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Einladung für die Verleihung des Heimatpreises
+- TOP 21.2: Informationsbroschüre über die Stadt Gronau
+- TOP 21.3: Fertigstellung des Parkplatzes auf dem Hertieareal
+- TOP 22.: Anfragen
+- TOP 22.1: Schülerverkehr im Außenbereich (Anfrage v. RM Buchholz)
+- TOP 22.2: Sachstand Wertstoffhof und Sportanlage Eper Bülten (Anfrage v. RM von Borczyskowski)
+- TOP 22.3: Eschweg-Erweiterung (Anfrage v. RM Drees)
+- TOP 22.4: Grundstücksnutzung durch einen Zirkus (Anfrage v. RM Wagner)
+- TOP 22.5: Schülerverkehr im Außenbereich (Anfrage v. RM Krefter)
+- TOP 22.6: Sachstand Wertstoffhof (Anfrage v. RM Stenau-van Wüllen)
+- TOP 22.7: Abschaltung v. Ampelanlagen im Stadtgebiet (Anfrage v. RM Buchholz)
+- TOP 22.8: Schaffung einer Sitzgelegenheit (Anfrage v. RM Tegetmeyer)
