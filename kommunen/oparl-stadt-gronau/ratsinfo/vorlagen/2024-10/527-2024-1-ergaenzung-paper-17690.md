@@ -1,0 +1,32 @@
+# Beschaffung von Tablets für Jahrgang 7 und die gemeinsame Oberstufe
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 527/2024 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2024-10-09
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdLXsJe6K_kOtTEDpFjiCi8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/17690
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschaffung von Tablets für Jahrgang 7 und die gemeinsame Oberstufe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-64sXh5AiLPZ0R5l06Z9JnutA6WVIaYViaDPYoyXe1/Beschlussvorlage_527-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (UWG_Begruendung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaDP5eH17sOS0bSYNrbrD0RjYyz0fI11CszF4wGr564U/UWG_Begruendung.pdf
+- Anlage: Beschlussvorlage (Antrag_der_Fraktion_Pro-Buergerschaft-Piraten_vom_07.05.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS7u4cUbBmbNzQHa96SnG8LW48EexINh9joHf_gpPtiv/Antrag_der_Fraktion_Pro-Buergerschaft-Piraten_vom_07.05.2020.pdf
+- Anlage: Beschlussvorlage (Antrag_der_UWG-Fraktion_vom_08.05.2020_-Ziffer_03-) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4UamKItSopwKeZzqHRGzdyf2CCeAA6wQEahhvgAjQn/Antrag_der_UWG-Fraktion_vom_08.05.2020_-Ziffer_03-.pdf
+- Anlage: Beschlussvorlage (Beschlusstext_231-2020_-oeffentlich-_ASK_25.05.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZajcvq07uc3YlBvgFDXwFzK2SvynSXhhFqOgmk-3QcNR/Beschlusstext_231-2020_-oeffentlich-_ASK_25.05.2020.pdf
+- Anlage: Beschlussvorlage (Beschlusstext_33-2020_1._Ergaenzung_-oeffentlich-_Rat_04.03.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdLw4Kg7p5-uci00F9oA43zs3bO0UaB-MKR27ZbdbBwV/Beschlusstext_33-2020_1._Ergaenzung_-oeffentlich-_Rat_04.03.2020.pdf
+- Anlage: Beschlussvorlage (Beschlusstext_33-2020_-oeffentlich-_HFA_12.02.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaVP1MA_WYxCUBL_teKkFouOpuj0p93lsMwh3K7aO7C7/Beschlusstext_33-2020_-oeffentlich-_HFA_12.02.2020.pdf
+- Anlage: Beschlussvorlage (Beschlusstext_4-2022_-oeffentlich-_Rat_09.03.2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaZa8WHx7jVNNnB8NUGjmZ-bCBWHwykR9Y4uHPxSOtlR/Beschlusstext_4-2022_-oeffentlich-_Rat_09.03.2022.pdf
+- Anlage: Beschlussvorlage (Beschlusstext_TOP_5._-oeffentlich-_HFA_22.04.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRSMYK_kGcSCr63Lb4swnKl2ZM6KPcn53uBwD3NO4Pzz/Beschlusstext_TOP_5._-oeffentlich-_HFA_22.04.2020.pdf
+- Anlage: Beschlussvorlage (Beschlussvorlage_11-2024_1._Ergaenzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXhGptM7MMpdRq8oj0ZiNEC7DW31sc4KyFbSZJ_sK2yu/Beschlussvorlage_11-2024_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Beschlussvorlage_112-2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSbEhRq51UQQUQxrgBmDHt_iek2iMSZknrt_mU5Nv9rn/Beschlussvorlage_112-2022.pdf
+- Anlage: Beschlussvorlage (Beschlussvorlage_231-2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa-L2pdWCo4hdhZac-lzQCrV-4K9fdIvsePhA_vARgN3/Beschlussvorlage_231-2020.pdf
+- Anlage: Beschlussvorlage (Beschlussvorlage_4-2022) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRsaI8dXqewJacax77s54kIropwnEJTFDF4Az1ZSr3ha/Beschlussvorlage_4-2022.pdf
+- Anlage: Beschlussvorlage (Protokollauszug_Rat_vom_04.03.2020) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSb12dO1xiR3FH8anfeSSdvqEtB_RVw4aIy3kz_ZzXI-/Protokollauszug_Rat_vom_04.03.2020.pdf
+- Anlage: Beschlussvorlage (Protokollunterlagen_05.05.2022_ASK) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe5TT5hXO2jsrjm_Il2X1gLquXTekHVjeYbtBndbKYUh/Protokollunterlagen_05.05.2022_ASK.pdf
+- Anlage: Beschlussvorlage (Protokollunterlagen_09.03.2022_Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBQboShG8ppFnmt9-tk2esABlJJM1_RjeMpa1XJW-T9/Protokollunterlagen_09.03.2022_Rat.pdf
+- Anlage: Beschlussvorlage (Protokollunterlagen_10.02.2021_Rat_30-2022-Tablets) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXhOudEMUOo5vraZsNItyBQdQNSsuAB_5oHlv5hb2Atp/Protokollunterlagen_10.02.2021_Rat_30-2022-Tablets.pdf
+- Anlage: Beschlussvorlage (Protokollunterlagen_25.05.2020_Ausschuss_für_Schule_und_Kultur) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZanqTA-eqSdEpEdHXBWfcw2ksLco_I480RJUo7uKs8O/Protokollunterlagen_25.05.2020_Ausschuss_fuer_Schule_und_Kultur.pdf
+- Anlage: Beschlussvorlage (Vorlage 247-2021-Anlage-MEP) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeQj0eFZnBwlvpOP6qqnU683uEZ0iVjPDM1fFvH9gjku/Vorlage_247-2021-Anlage-MEP.pdf
+- Anlage: Beschlussvorlage (Vorlage 247-2021-Kenntnisnahme) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSuIdYd_C_EGqQ4Z9Ut_Aq1GAQazVBXcuFF7M1hV4NIs/Vorlage_247-2021-Kenntnisnahme.pdf
+- Anlage: Beschlussvorlage (Beschlussvorlage_30-2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQtS-3O2GNhappXPMdfri2-gBUyMFAQsUCtXbZJNNfAm/Beschlussvorlage_30-2021.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5867 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-39
