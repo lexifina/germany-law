@@ -1,0 +1,56 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-09T15:00:00+02:00
+- Ende: 2024-10-09T18:05:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26378
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26378
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 09.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531156.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 09.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531156.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 09.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531156.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/006/2024 vom 04.09.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 15 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 4: Parkraumerhebung 2023 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung mehrheitlich beschlossen
+- TOP 6: Errichtung von Stadtradstationen im Stadtbezirk 4 für das kommunale Düsseldorfer Mietradsystem - vertagt
+- TOP 7: Bebauungsplan-Entwurf Nr. 04/028 - Hansaallee/Schwalmstraße - Empfehlung einstimmig beschlossen
+- TOP 8: Rückschnitt von überwuchernden Pflanzen und Sträuchern, Anfrage des Bezirksvertreters Georg Blanchard - zur Kenntnis genommen
+- TOP 9: Zustand der linksrheinischen Straßen verbessern – Aktueller Stand der Straßeninstandsetzung, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 10: Förderung des Erwerbs von Wohneigentum in Düsseldorf, Anfrage der FDP-Fraktion - zur Kenntnis genommen
+- TOP 11: Denkmalschutz für die Philippuskirche, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 12: Behelfslaternen Cimbernstraße, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 13: Sachstand zur geplanten Weinbar an der Sonderburgstraße 2, Anfrage der SPD-Fraktion
+- TOP 14: Baumaßnahmen in der Siedlung Grünau, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 15: Nutria Monitoring am linksrheinischen Rheinufer, Anfrage des Bezirksvertreters Alexander Schmitt
+- TOP 16: Sicherer Überweg am Kaiser-Wilhelm-Ring 40, Anfrage des Bezirksvertreters Alexander Schmitt - zur Kenntnis genommen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2024 Liste A) Schulen SAP-Konten 2121101/1000/52415400 Bauunterhaltungsmittel 2024 - einstimmig beschlossen
+- TOP 18: Beratungen des Haushaltsplan-Entwurfs 2025 inklusive Anlagen; Bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 19: Bauvorhaben St. Anna - ein zentraler Dorfplatz für Niederkassel, Antrag der FDP-Fraktion - abweichend beschlossen
+- TOP 20: Fahrradstraße auf der Schorlemerstraße zwischen Quirinstraße und Niederkasseler Kirchweg, Antrag der Fraktion Bündnis 90/ - mehrheitlich abgelehnt
+- TOP 21: Barrierefreiheit schaffen - Verkehrssicherheit für Anwohner erhöhen, Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 22: Freigabe Radverkehr Drakestraße 22-32, Antrag der SPD-Fraktion - mehrheitlich beschlossen
+- TOP 23: Fußgängerüberweg Aldekerkstraße, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 24: Parksituation in der Saarwerdenstraße in Düsseldorf-Oberkassel - zur Kenntnis genommen
+- TOP 25: Baumpflanzungen Heerdter Landstraße - zur Kenntnis genommen
+- TOP 26: Kreuzung für Alle verkehrssicher umbauen - zur Kenntnis genommen
+- TOP 27: Neuer Fußgänger*innen - Übergang Hansaallee - zur Kenntnis genommen
+- TOP 28: Teutonenplatz nicht vernachlässigen und richtig pflegen - zur Kenntnis genommen
+- TOP 29: Kontinuierlicher Ausbau von Sitzplätzen für die Haltestelle entlang der Stadtbahnlinien der Rheinbahn AG im Stadtbezirk 4 - zur Kenntnis genommen
+- TOP 30: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 31: Geländerertüchtigung Oberkasseler Brücke - zur Kenntnis genommen
+- TOP 32: Neuer Haupteingang des Comenius-Gymnasiums – Verkehrssicherheit für Schülerinnen und Schüler gewährleisten - zur Kenntnis genommen
+- TOP 33: Konzept für neue Straßenbahnhaltestelle westliche Luegallee; Vortrag in einer der Sitzungen - zur Kenntnis genommen
+- TOP 34: Fahrradweg Pariser Straße - zur Kenntnis genommen
+- TOP 35: Radschutzstreifen Krefelder Straße - zur Kenntnis genommen
+- TOP 36: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 37: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2024 - einstimmig beschlossen
+- TOP 38: Schulhöfe verschönern und zukunftsfest machen – Unsere Schulen attraktiver machen, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 39: Baurechtliche Prüfungsergebnisse zum Verteillager Luegallee, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
