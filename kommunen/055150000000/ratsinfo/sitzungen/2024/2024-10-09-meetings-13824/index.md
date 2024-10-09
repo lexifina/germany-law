@@ -1,0 +1,59 @@
+# 26. Sitzung (Einbringung Haushalt 2025)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2024-10-09T16:15:00+02:00
+- Ende: 2024-10-09T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/13824
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/13824
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00557186.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Corona-Todesfälle in Münster
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 12: Entwurf der Haushaltssatzung 2025 - einstimmig beschlossen
+- TOP 13: Finanzstabilität als Voraussetzung für eine zukunftsfähige Stadt – Sofortmaßnahmen im Haushaltsplan 2025 - Vorlage eingebracht
+- TOP 14: Erlass einer Hebesatzsatzung für die Jahre 2025 ff. - Vorlage eingebracht
+- TOP 15: Rechnungslegung und Nachhaltigkeitsberichterstattung städtischer Beteiligungen; Münsteraner Kodex für gute Unternehmensführung - Vorlage eingebracht
+- TOP 16: Kommunales Klimaschutzcontrolling - Vorlage eingebracht
+- TOP 17: Selbstbestimmt und diskriminierungsfrei in unserer Stadt leben können – ein „Aktionsplan LSBTIQ*" für Münster - Zwischenbericht - zur Kenntnis genommen
+- TOP 18: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetriebe Münster (awm) - einstimmig beschlossen
+- TOP 19: Bericht über die Beteiligungen der Stadt Münster im Jahr 2023 (Beteiligungsbericht 2023) - zur Kenntnis genommen
+- TOP 20: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2022 - einstimmig beschlossen
+- TOP 21: Entwurf des Jahresabschlusses zum 31.12.2023 der Stadt Münster - einstimmig beschlossen
+- TOP 22: Entwurf der Stellungnahme der Stadt Münster zur Planfeststellung für den Ausbau der Landesstraße (L) 793 mit Anlage einer Busspur und eines Geh- und Radweges zwischen Münster und Wolbeck von Bau-km 0+150,08 bis Bau-km 2+114,07 - mehrheitlich geändert beschlossen
+- TOP 23: Anmeldeverfahren zu den weiterführenden städtischen Schulen - mehrheitlich beschlossen
+- TOP 24: Aktuelle finanzielle Situation in den Offenen Ganztagsschulen (OGS) und Trägervergabe der außerunterrichtlichen Angebote in der städtischen Grundschule York - einstimmig geändert beschlossen
+- TOP 25: Änderung der Entgeltordnungen für das Stadtteilkulturzentrum Kap.8 im Bürgerhaus Kinderhaus und das Begegnungszentrum/Theater in der Meerwiese in Coerde - mehrheitlich beschlossen
+- TOP 26: Verbesserung der Situation rund um den Hauptbahnhof - Vorlage eingebracht
+- TOP 27: Wirtschaftsplan 2024/2025 für das Theater Münster - einstimmig beschlossen
+- TOP 28: Baugebiet "Handorf - Hobbbeltstraße / Kirschgarten / Heriburgstraße - Quartierskonzept der Wohn- und Stadtbau - einstimmig geändert beschlossen
+- TOP 29: Erweiterung des Ratsgymnasiums für die Umstellung auf G9 -Baubeschluss- - einstimmig beschlossen
+- TOP 30: Bauliche Erweiterung des Freiherr-vom-Stein-Gymnasiums für die Umstellung auf G9, Dieckmannstraße 141, 48161 Münster - einstimmig beschlossen
+- TOP 31: Entwicklung des ehem. Offizierskasino der York-Kaserne und seiner Außenanlagen zu einem offenen Begegnungsort für alle Bürger:innen - mehrheitlich geändert beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Münster-Ost
+- TOP 32.1.1: Vorhabenbezogener Bebauungsplan Nr. 641: Sankt Mauritz - Pleistermühlenweg / Östlich Mondstraße [Wohnen, Einzelhandel und Dienstleistungen] Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Engagement, Motivation, Gesundheit und Kompetenz der städtischen Mitarbeitenden fördern - verwiesen
+- TOP 33.2: Förderung von Schüleraustauschprogrammen im Rahmen der Städtepartnerschaften zur Stärkung der internationalen Beziehungen und interkulturellen Kompetenz verstärken - verwiesen
+- TOP 33.3: Vermüllung und Vandalismus in Münster endlich wirkungsvoll begegnen - verwiesen
+- TOP 34: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 35: Umbesetzung im Beirat nach dem Landesnaturschutzgesetz - einstimmig geändert beschlossen
+- TOP 36: Verschiedenes
