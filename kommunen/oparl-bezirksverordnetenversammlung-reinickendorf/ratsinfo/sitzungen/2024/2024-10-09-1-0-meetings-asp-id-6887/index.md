@@ -1,0 +1,132 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2024-10-09T17:00:00+02:00
+- Ende: 2024-10-09T21:11:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6887
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=6887
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=519292
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles - (offen)
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung - (offen)
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Flüchtlingsunterkunft - Waldhotel Frohnau, Schönfließer Str. 85, 13465 Berlin - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 35. Sitzung der BVV am 09.10.2024 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Nachbesetzung ärztlicher Direktor Krankenhaus Maßregelvollzug - beantwortet
+- TOP 5.2: Handlungsbedarf für die Urban Tech Republic - beantwortet
+- TOP 5.3: Haushaltssperre 2025 - beantwortet
+- TOP 5.4: Sicherungsmaßnahmen am Flughafensee - beantwortet
+- TOP 5.5: Dauerbaustellen Roedernallee - beantwortet
+- TOP 5.6: Milieuschutzgebiet in Reinickendorf-Ost zügig ausweiten? - beantwortet
+- TOP 5.7: Schulschwimmen an der Kolumbus-Grundschule - beantwortet
+- TOP 5.8: Beleuchtung an den neuen Bezirksamtsgebäuden Eichborndamm 240 - beantwortet
+- TOP 5.9: Einbürgerungsanträge - beantwortet
+- TOP 5.10: Sparpolitik des CDU-SPD-Senats - beantwortet
+- TOP 5.11: Barrierefreier Zugang im Rathaus Reinickendorf - beantwortet
+- TOP 5.12: Möglichkeiten von Stadtentwicklung und Städtebauförderung - beantwortet
+- TOP 5.13: Infopoint am Schäferseee - beantwortet
+- TOP 5.14: Stand der Prüfung des Gehwegparkens in der Veitstr. - schriftlich beantwortet
+- TOP 5.15: Stand der Dinge der Umwandlung der Mittelinsel in einen Fußgängerüberweg an der Finsterwalder Brücke - schriftlich beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Mehr Schulwegsicherheit für die Schülerinnen und Schüler der Gustav-Dreyer-Schule (Vorlage zur Kenntnisnahme) - überwiesen
+- TOP 6.2: Bänke in Frohnau wieder aufstellen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Erhöhung der Verkehrssicherheit für Radfahrende in Kreuzungsbereichen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Trauungen an Samstagen und an besonderen Orten weiter ermöglichen (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: UN-Kinderrechtskonventionen - Umsetzung im Bezirk gewährleistet? (Große Anfrage) - beantwortet
+- TOP 6.5.1: UN-Kinderrechtskonventionen - Umsetzung im Bezirk gewährleistet? - überwiesen
+- TOP 6.6: Sportplatz Borsigwalder Grundschule (Beschlussempfehlung) - überwiesen
+- TOP 6.7: Die Schwächsten auf der Frohnauer Brücke mitdenken (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 6.8: Erarbeitung einer Exit-Strategie zwischen Senat und Bezirk zur Geflüchtetenunterkunft TXL (Beschlussempfehlung) - überwiesen
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Maßnahmen gegen Unfallgefahr im Lesser-Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Parkanlage in Reinickendorf-Ost zwischen S-Bahnhof Schönholz und der Kreuzung Seebeckstraße/Sommerstraße besser ausleuchten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Poller für Versickerungsbecken vervollständigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Barrierefreiheit am S-Bhf. Hermsdorf (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Errichtung eines Schutzgitters an der Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: BVG-Haltestelle "Marthastraße" aufwerten II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: BVG-Haltestelle "Marthastraße" aufwerten I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Verkehrssicherheit in der Schulzendorfer Straße wieder herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Standorte für Fahrradparkhäuser vorschlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Buslinie 322 - Fahrzeiten anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.11: Dialog Display Schulzendorfer Straße in Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Überprüfung und Instandsetzung Beleuchtungsanlage Beyschlagtunnel A111 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Wartehäuschen auch am S-Bahnhof Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Bodenbelag in der Schramberger Straße sanieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.15: Beseitigung von Angst-Orten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Hinweis auf Durchfahrtshöhenbegrenzung an der S-Bahnbrücke in Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.17: BVG-Auslastungsinfo BETA auf neuen Stand bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Versickerungsmulden für den Maximiliankorso - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.19: Bodenbelag in der Sittestraße sanieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.20: Annahme von Belohnungen, Geschenken und sonstigen Vorteilen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Den Flughafensee als Naherholungsgebiet stärken, Anwohner der Siedlung Waldidyll schützen II - in der BVV abgelehnt
+- TOP 11.2: Übersicht über Sachbeschädigung und Vandalismus an den Reinickendorfer Schulen - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Begrünung von Baumscheiben - in der BVV abgelehnt
+- TOP 11.4: PFAS-Kontamination im Grundwassereinzugsgebiet - Wasserwerk Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Beleuchtung zwischen Mittelfeldbecken und Skaterpark im MV verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.6: Lichtanlage auf der Wegeverbindung nahe der "Klixarena" - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Ersetzung von fehlenden Spielplatz-Elementen auf dem Spielplatz am Paddenpuhl - erledigt
+- TOP 11.8: Smarte Schließanlagen für die Reinickendorfer Schulen - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Hausbäume auch für Reinickendorf - in der BVV abgelehnt
+- TOP 11.10: Efeu in der Sporthalle der Hermann-Schulz-Grundschule entfernen - erledigt
+- TOP 11.11: Fördermittel für die energetische Sanierung des Vereinsheims des BSC Reinickendorf e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Verkehrssicherheit, speziell für Schüler und Kita-Kinder - in der BVV abgelehnt
+- TOP 11.13: Trinkwasserbrunnen an der Sportanlage Hatzfeldallee - in der BVV abgelehnt
+- TOP 11.14: Seniorenbänke mit ausreichend Sitzfläche aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Maßnahmen zur Erhöhung von Sauberkeit und Sicherheit in der geschützten Grünanlage am Breitkopfbecken "Paddenpuhl" - überwiesen
+- TOP 13.2: Über Sondernutzungsgebührenpflicht für Anlieger informieren - überwiesen
+- TOP 13.3: Gehweg für die Kinder und Jugendlichen der Carl-Bosch-Schule Hermsdorf - überwiesen
+- TOP 13.4: Sicherheit für die Reinickendorfer Schulen stärken - überwiesen
+- TOP 13.5: Schlaglochmelder einrichten - überwiesen
+- TOP 13.6: Granatenstraße: ruhenden und rollenden Verkehr neu ordnen - überwiesen
+- TOP 13.7: Schließfächer/Schränke für Sportler Sportanlage Reginhardstraße - überwiesen
+- TOP 13.8: Liga- und Pokalspiele auch in der Finsterwalder Straße - überwiesen
+- TOP 13.9: Erschütterungstest beenden: Radroute 4 in Frohnau ertüchtigen - überwiesen
+- TOP 13.10: Aufstellung von Informationstafeln in der Invalidensiedlung - überwiesen
+- TOP 13.11: Gedenkstele für Alfred Döblin errichten - überwiesen
+- TOP 13.12: Runder Tisch zum Thema Drogenkriminalität, Drogenprävention und Alkoholismus im Schäferseepark - überwiesen
+- TOP 13.13: Begrünte Sitzgruppe für den Borsigwalder Kiez - überwiesen
+- TOP 13.14: Radstreifen für die Kinder der Carl-Bosch-Schule Hermsdorf - überwiesen
+- TOP 13.15: Maßnahmen zur Verbesserung der Situation am Schäfersee - überwiesen
+- TOP 13.16: Radweg am Hermsdorfer Damm erneuern - überwiesen
+- TOP 13.17: Spielplatz Mittelbruchzeile - überwiesen
+- TOP 13.18: Elektromotoren auch im Wassersport - überwiesen
+- TOP 13.19: Sicher durch die Elsenbruchstraße kurven - überwiesen
+- TOP 13.20: Grillplätze erhalten - überwiesen
+- TOP 13.21: Stärkung der Spiel- und Sportangebote auf dem Schulhof des Thomas-Mann-Gymnasiums - überwiesen
+- TOP 13.22: Stadion Finsterwalder Straße für Kinder- und Jugendfußball nutzbar machen - überwiesen
+- TOP 13.23: Tartanbahnen im Herbst - überwiesen
+- TOP 13.24: Spielplatz am Schäfersee - überwiesen
+- TOP 13.25: Instandsetzung Gehweg / Radweg am Seggeluchbecken - überwiesen
+- TOP 13.26: Prüfung der Einrichtung eines Busparkplatzes am Hermsdorfer Damm in Höhe Dohnensteig - überwiesen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Sicherer Schulüberweg in der Avenue Charles de Gaulle / Rue Lamartine - überwiesen
+- TOP 14.2: Halteordnung für BVG-Linienbusse am U-Bahnhof Alt-Tegel Richtung Norden einhalten - überwiesen
+- TOP 14.3: Mauerweg verbinden - überwiesen
+- TOP 14.4: Cité Foch: Bessere Erreichbarkeit des Parkhauses - überwiesen
+- TOP 14.5: Optimierung der Straßenbeleuchtung in der Cité Foch - überwiesen
+- TOP 14.6: Cité Foch: Anlage von Kfz-Stellplätzen in der Jean-Jaurès-Straße - überwiesen
+- TOP 14.7: Barrierefreier Ausbau des quartiersinternen Weges von der Rue Montesquieu zur Nimrodstraße - überwiesen
+- TOP 14.8: Cité Foch: Avenue Charles de Gaulle für den MIV offen lassen und die Hochjagdstraße in Waidmannslust "anpassen" - überwiesen
+- TOP 14.9: BVG-Wartehäuschen für die Haltestelle Maienwerder Weg - überwiesen
+- TOP 14.10: Cité Foch besser an den S-Bahnhof Waidmannslust anschließen - überwiesen
+- TOP 14.11: Mehr Sicherheit für die Kommunalpolitik - überwiesen
+- TOP 14.12: Cité Foch: Anmietungen von Kfz-Stellplätzen in Tiefgaragen und auf Grundstücksparkplätzen für alle ermöglichen - überwiesen
+- TOP 14.13: Maßnahmen zur Reduzierung des Drogen- und Alkoholkonsums sowie Eindämmung der illegalen Prostitution in der geschützten Grünanlage am "Paddenpuhl" (Breitkopfbecken) - überwiesen
+- TOP 14.14: Aroser Allee: Einhaltung der Tempolimits, Verhinderung von illegalen Auto- und Motorradrennen - überwiesen
+- TOP 14.15: Ansiedlung der Berliner Hochschule für Technik in der Urban Tech Republic - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Cité Foch mit der Buslinie 322 gut erschließen - überwiesen
+- TOP 15: Wahl eines Schriftführers/einer Schriftführerin in den Vorstand der BVV - vertagt
