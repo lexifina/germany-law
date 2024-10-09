@@ -1,0 +1,62 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2024-10-09T17:00:00+02:00
+- Ende: 2024-10-09T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000042
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000042
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1419609&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 26.06.2024 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 4: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen in der Stadt Aachen (Aachener Straßenverordnung) vom 19.03.2004 in der Fassung der Änderung vom 17.07.2019 - ungeändert beschlossen
+- TOP 5: Integriertes Konzept für Attraktivität und Sicherheit - geändert beschlossen
+- TOP 6: Neufassung der Gebührenordnung der Stadtbibliothek Aachen - ungeändert beschlossen
+- TOP 7: Bericht über die Prüfung des Gesamtabschlusses 2020 - ungeändert beschlossen
+- TOP 8: Geprüfter Jahresabschluss 2021/2022 von Stadttheater und Musikdirektion Aachen per 31.07.2022 - ungeändert beschlossen
+- TOP 9: Einrichtung von vier halben Stellen für Erzieher*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 10: Öffentlich-rechtliche Vereinbarung zur Zusammenarbeit bei der Wahrnehmung von Aufgaben nach dem Rettungsgesetz NRW zum Betrieb eines gemeinsamen Telenotarztsystems ("Telenotarzt West") - ungeändert beschlossen
+- TOP 11: Öffentlich-rechtliche Vereinbarung über die Durchführung von gemeinsamen Beschaffungen im Rettungsdienst - ungeändert beschlossen
+- TOP 12: Anpassung von Gesellschaftsverträgen an Änderungen der Gemeindeordnung für das Land Nordrhein-Westfalen (Sammelbeschluss) - ungeändert beschlossen
+- TOP 13: Beschluss des Ausschusses für Soziales, Integration und Demographie vom 27. Juni 2024; hier: TOP 4ö “Tagesordnungsantrag der Fraktion Die Linke ‘Sachstandsbericht zur Bezahlkarte für Geflüchtete’ vom 06. Juni 2024” - ungeändert beschlossen
+- TOP 14: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Büchel, Kleinkölnstraße, Großkölnstraße und Mefferdatisstraße einschließlich Antoniusstraße - vertagt
+- TOP 15: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für die östliche Innenstadt - vertagt
+- TOP 16: Beschluss über eine Veränderungssperre für das Grundstück Martelenberger Weg 8, Gemarkung Aachen, Flur 74, Flurstück 2242 im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 17: Sachstandsbericht Gemeinwohlökonomie - zur Kenntnis genommen
+- TOP 18: Verlegung von Stolpersteinen – Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 19: Benennung von Ratsmitgliedern zur Teilnahme an der 19. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen am 11.12.2024 - ungeändert beschlossen
+- TOP 20: Anfragen
+- TOP 20.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 22.1: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 22.2: Umbesetzungsantrag der SPD-Fraktion vom 07.10.2024 - ungeändert beschlossen
+- TOP 22.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 07.10.2024 - ungeändert beschlossen
+- TOP 22.4: Umsetzungsantrag der Fraktion DIE Zukunft vom 09.10.2024 - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
