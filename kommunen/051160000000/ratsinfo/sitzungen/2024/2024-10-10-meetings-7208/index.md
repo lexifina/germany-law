@@ -1,0 +1,91 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2024-10-10T15:00:00+02:00
+- Ende: 2024-10-10T20:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7208
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/7208
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240329.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240329.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00240329.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 03.07.2024 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: Niederschrift über die Sondersitzung des Rates vom 28.08.2024 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 3: Einbringung des Entwurfs des Haushaltes 2025/2026; Haushaltssatzung einschließlich Anlagen - Kenntnisnahme
+- TOP 4: Einbringung des Entwurfs der Beratungsvorlage zum Stellenplan 2025/2026 einschließlich Anlagen - Kenntnisnahme
+- TOP 5: Wirtschaftsplan 2025 der mags AöR - Kenntnisnahme
+- TOP 6: Wahl einer*eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 7: Bestellung einer/s Beigeordneten zum allgemeinen Vertreter des Oberbürgermeisters - Mit Stimmenmehrheit beschlossen
+- TOP 8: Straßenumbenennung eines Teilstücks der Blücherstraße - Mit Stimmenmehrheit beschlossen
+- TOP 9: Umbenennung des Werner-Lüderitz-Weges in "Am Finkenberg" - Einstimmiger Beschluss
+- TOP 10: Benennung Pilates-Platz - Einstimmiger Beschluss
+- TOP 11: Beseitigung des Seecontainers am Standort Tippweg/Wickrather Straße und dauerhafte Entfernung aus dem Stadtgebiet sowie Neukonzeption für die Bereiche Obdachlosigkeit und Drogenabhängigkeit - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 11.1: Ergänzungsantrag zu Fraktionsantrag Nr. 3435.X - Mit Stimmenmehrheit abgelehnt
+- TOP 11.2: Bürgerantrag gem. § 24 GO NRW Seecontainer an der Wickrather Straße - Mit Stimmenmehrheit abgelehnt
+- TOP 12: Änderung des Paragraph 4 der Satzung des Seniorenrates - In den nächsten Ratszug geschoben
+- TOP 13: Gleichstellungsplan 2025 - 2029 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 14: Konzept - Zusammenleben in Vielfalt - Mit Stimmenmehrheit beschlossen
+- TOP 15: 50 Jahre Miteinander Stadt sein - Mit Stimmenmehrheit beschlossen
+- TOP 16: Solidaritätspartnerschaft mit der Ukraine - Stadt Poltawa - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beitritt zur Entwicklungsgemeinschaft Civicon Connect e.V. - Einstimmiger Beschluss
+- TOP 18: Kommunalisierung des Quartiersmanagements außerhalb städtebaulicher Förderkulissen unter Einbeziehung der Stadtteilkoordination III/SK - Mit Stimmenmehrheit beschlossen
+- TOP 18.1: Änderungsantrag zur Vorlage-Nr. 3446/X - Mit Stimmenmehrheit abgelehnt
+- TOP 19: 19. Konferenz der Ratsmitglieder des Städtetages NRW am 11. Dezember 2024 in Köln - Einstimmiger Beschluss
+- TOP 20: Beteiligung der NEW AG über die ENNI an der Bad Laaspher-Energie GmbH - Einstimmiger Beschluss
+- TOP 21: Beteiligung an der ENNI Energie & Umwelt Niederrhein GmbH über die NEW AG und die NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 22: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Gründung der Projektgesellschaft "NHTZ - Nationales Hockeytrainingszentrum Mönchengladbach GmbH" - Mit Stimmenmehrheit beschlossen
+- TOP 23: Anpassung der Gesellschaftsverträge und Satzungen städtischer Beteiligungen an die geänderten Vorschriften der Gemeindeordnung NRW (GO NRW) - Einstimmiger Beschluss
+- TOP 24: Beteiligung der Stadt Mönchengladbach an der Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG - Einstimmiger Beschluss
+- TOP 25: Beteiligung der Stadt Mönchengladbach an der Theater Krefeld Mönchengladbach gGmbH - Einstimmiger Beschluss
+- TOP 26: Gewährung eines zweckgebundenen Investitionszuschusses für die Errichtung einer Quartiersgarage in den Maria-Hilf-Terrassen an die EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 27: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2024 (3. Nachweisung) - Kenntnisnahme
+- TOP 28: Bereitstellung überplanmäßiger Haushaltsmittel 2024 im Bereich - Einstimmiger Beschluss
+- TOP 29: Bereitstellung überplanmäßiger Haushaltsmittel 2024 für die Schülerbeförderung - Einstimmiger Beschluss
+- TOP 30: Öffentlich-rechtliche Vereinbarung zum Betrieb eines Telenotarztsystems - Einstimmiger Beschluss
+- TOP 31: Bildung eines Wahlausschusses für die Kommunalwahlen 2025 - Einstimmiger Beschluss
+- TOP 32: Bildung eines Wahlausschusses für die Integrationsratswahl 2025 - Einstimmiger Beschluss
+- TOP 33: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 34: Zum Fraktionsantrag BV 3127/X: Erstellung eines Maßnahmenpapiers samt zeitlichem Ablauf zur Sicherstellung der benötigten Schulplätze in den Schuljahren ab 2025/26 - Einstimmiger Beschluss
+- TOP 35: Errichtung der 7. Gesamtschule; Vorstellung des Prüfergebnisses - Mit Stimmenmehrheit beschlossen
+- TOP 36: Bauliche Herrichtung des alten Schulgebäudes BT 2 der Förderschule Herman van Veen am Schulstandort Voigtshofer Allee 27 zum Schuljahr 2025/26 - Einstimmiger Beschluss
+- TOP 37: Zuschuss für Café Pflaster MG & RY an die Diakonie - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 37.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Zuschuss für Suchtberatung an das Diakonische Werk MG e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 38.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Zuschuss an AIDS-Hilfe MG/RY e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 39.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Zuschuss für Selbsthilfe-Kontakstelle an den PariSozial - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 40.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Zuschuss für SPZ an den RehaVerein - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 41.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Gewährung einer Zuwendung an die Frauenberatungsstelle Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 42.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Gewährung einer Zuwendung an den Caritasverband Region Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 43.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 44: Gewährung einer Zuwendung an das Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 44.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Zuwendung an den Sozialdienst katholischer Frauen e.V. – Ortsverein Mönchengladbach zur Erbringung von Leistungen im Aufgabenbereich der Werbung und Begleitung von Familienpaten im Rahmen des Angebotes der Frühen Hilfen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 45.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Zuwendungen an 11 Träger der freien Jugendhilfe zu offener Kinder- und Jugendarbeit - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 46.1: Zuwendungen für offene Kinder- und Jugendarbeit ab 2025; hier: - Vom Antragsteller zurückgezogen
+- TOP 47: Zuwendung für den Verein Rollbrett Union e.V. zum Betrieb einer Skatehalle und zu Angeboten an der Skateanlage am Platz der Republik - Mit Stimmenmehrheit beschlossen
+- TOP 48: Gewährung einer Zuwendung für den Betrieb von Begegnungsstätten - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 48.1: 10 prozentige Kürzung bei Zuwendungen/Zuschüssen; Hier: Fraktionsantrag CDU vom 10.10.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 49: Jahresabschluss des gmmg für das Wirtschaftsjahr 2023 - Einstimmiger Beschluss
+- TOP 50: Jahresabschluss 2023 der eigenbetriebsähnlichen Einrichtung RdZ mg+ (jetzt: Neue Verwaltungsgebäude Rheydt) - Einstimmiger Beschluss
+- TOP 51: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2025 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 52: Brandschutzsanierung, Sanierung schadhafter und veralteter Bausubstanz und energetische Sanierung der Gesamtschule Volksgarten - Einstimmiger Beschluss
+- TOP 53: Einziehung der Lilienthalstraße von der Einmündung Belgrader Straße bis zum Ausbauende - Einstimmiger Beschluss
+- TOP 54: 18. Änderung des Regionalplans Düsseldorf (RPDÄ) (Änderung der Festlegungen zu Windenergieanlagen) – Stellungnahme der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 55: Abwasserbeseitigungskonzept 2025-2031 - Einstimmiger Beschluss
+- TOP 56: Optimierung der Ampelschaltungen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 57: Fahrradcodierungen; Hier: Fraktionsantrag DIE LINKE vom 19.09.2024 - Mit Stimmenmehrheit abgelehnt
+- TOP 58: Umbesetzung von Gremien; hier: Fraktionsantrag FDP vom 24.09.2024 - Einstimmiger Beschluss
+- TOP 59: Nachbesetzung von Gremien; hier: Fraktionsantrag CDU vom 30.09.2024 - Einstimmiger Beschluss
+- TOP 60: Anfragen und Mitteilungen
