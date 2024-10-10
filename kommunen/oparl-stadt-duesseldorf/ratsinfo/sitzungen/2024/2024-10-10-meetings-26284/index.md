@@ -1,0 +1,65 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-10T18:00:00+02:00
+- Ende: 2024-10-10T19:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26284
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26284
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 10.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531936.pdf
+- Ergebnisprotokoll: NachtragsTO 10.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531936.pdf
+- Wortprotokoll: NachtragsTO 10.10.2024 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531936.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Verpflichtung eines Mitgliedes der Bezirksvertretung 8
+- TOP 3: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 4: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Radwegeplanung Vennhauser Allee im Abschnitt Krippstraße / Gumbertstraße - Empfehlung mehrheitlich beschlossen
+- TOP 6: Weihnachtsmarkt in Unterbach am 07. und 08. Dezember 2024 - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 – Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2024 - einstimmig beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 im Jahre 2024 - einstimmig beschlossen
+- TOP 9: Doppischer Produkthaushalt und bezirksbezogene Haushaltsansätze 2025 (Entwurf) - mehrheitlich beschlossen
+- TOP 10: Sanierung des kleinen Weges am Bahnübergang Eller Kamp zum Nachbarschaftspark Schlesische Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 11: Umrüstung von Laternen auf LED in der Karl-Frech-Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 12: Anwohnerparken Schlesische Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 13: Roßbachstraße - Müllkörbe (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 14: Altpapiercontainer Dillenburger Weg und Darmstädter Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 15: Einfassung von Baumscheiben (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 16: Abzug von zwei Altkleidercontainern in Eller (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 17: Radverkehrsmaßnahmen bis Herbst 2025 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 18: Tempo-30-Zone Darmstädter Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 19: Krippstraße: Halbhüftiges Parken zwischen Minigolf-Platz und Ende Düssel-Brücke (FR West) (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Querung Kreuzung Vennhauser Allee / In den Kötten (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 21: Markierung Fahrradbereiche vor Ampeln (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 22: Einmündungsbereich für Fahrradfahrer an der Weinheimer Straße (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Zebrastreifen Alt-Eller (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Hinweisschilder Eller Forst (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 25: Kinderspielplätze Coburger Weg und Dillenburger Weg – Sicherung zur Straße - zur Kenntnis genommen
+- TOP 26: Einschränkung von Rettungswegen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Kissinger Straße - Piktogramm - zur Kenntnis genommen
+- TOP 28: Einhundert-Meter-Brücke - zur Kenntnis genommen
+- TOP 29: Rothenbergstraße / Vennhauser Allee / Glashüttenstraße - zur Kenntnis genommen
+- TOP 30: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Friedhof Eller - zur Kenntnis genommen
+- TOP 32: Akustische Querungshilfen für Blinde und Sehbehinderte - zur Kenntnis genommen
+- TOP 33: Optimierung der Schaltung von Bedarfsampeln - zur Kenntnis genommen
+- TOP 34: Radverkehrssituation Kuthsweg - zur Kenntnis genommen
+- TOP 35: Ehemalige Stadtsparkasse Lierenfeld - zur Kenntnis genommen
+- TOP 36: Ludwigstraße und Kissinger Straße - zur Kenntnis genommen
+- TOP 37: Spielanlagen für Jugendliche - zur Kenntnis genommen
+- TOP 38: Weg am Friedhof Unterbach - zur Kenntnis genommen
+- TOP 39: Sicherheit für Fahrradfahrer im Bereich Vennhauser Allee - zur Kenntnis genommen
+- TOP 40: Markierungen Weinheimer Straße und Darmstädter Straße - zur Kenntnis genommen
+- TOP 41: Sitzungstermine der Bezirksvertretung 8 im ersten Halbjahr 2025 - zur Kenntnis genommen
+- TOP 42: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 43: Barrierefreier Umbau S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 44: Jägerstraße / Cruthovener Straße (alte Tankstelle) - zur Kenntnis genommen
+- TOP 45: Parken an der Vennhauser Allee - zur Kenntnis genommen
+- TOP 46: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Verschiedenes
