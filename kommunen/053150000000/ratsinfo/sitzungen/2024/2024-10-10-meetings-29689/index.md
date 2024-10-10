@@ -1,0 +1,63 @@
+# 27. Sitzung des Ausschusses für Soziales, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-10-10T15:43:00+02:00
+- Ende: 2024-10-10T17:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29689
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29689
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: 0 Verpflichtung neuer Mitglieder des Ausschusses - Sache ist erledigt
+- TOP -: A Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Sache ist erledigt
+- TOP -: B Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtpflege in Köln - Liga Wohlfahrt Köln - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Integration und Vielfalt
+- TOP 2.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - Kenntnis genommen
+- TOP 2.2: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 2.3: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 2.3.1: Bericht der Behindertenbeauftragten der Stadt Köln 03/2024 - Kenntnis genommen
+- TOP 2.4: Konzept zur Stärkung der integrativen Stadtgesellschaft - Kenntnis genommen
+- TOP 2.5: Evaluierungsbericht des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3.1: Dringender Handlungsbedarf: Mieterinnen und Mieter im Kölner Norden benötigen sofortige Lösungen - zurückgestellt
+- TOP 3.2: Umgang mit wohnungslosen und kranken Menschen - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 3.1.6 - zurückgestellt
+- TOP 3.3: Ombudsstelle - ungeändert beschlossen
+- TOP 4: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Förderprogramm "Dritte Orte" - Erste Genehmigung für die Förderphase 2024 ff. - ungeändert beschlossen
+- TOP 4.2: Anerkennung eines neuen Interkulturellen Zentrums in Köln, hier: Mosaik Köln Mülheim e.V. - ungeändert beschlossen
+- TOP 4.3: Förderung einer Selbsthilfegruppe im Sozialbereich 2024 - geändert beschlossen
+- TOP 4.4: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel 2024 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an den Rat
+- TOP 6: Ausschussempfehlungen an andere Ausschüsse
+- TOP 7: Wohnen
+- TOP 7.1: Bericht über die Lebenslage obdachloser und wohnungsloser Menschen in Köln - zurückgestellt
+- TOP 7.2: Geschäftsbericht Wohnen in Köln - Fakten, Zahlen und Ergebnisse 2023, Ausblick - zurückgestellt
+- TOP 8: Jobcenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Geflüchteten in Köln
+- TOP 9.1: Beantwortung einer mündlichen Anfrage von IRM Carine Weber aus der Sitzung des Integrationsrates vom 16.04.2024 betreffend "TOP 5.12 Jahresbericht des Auszugsmanagements 2023 (1268/2024)" - Kenntnis genommen
+- TOP 10: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 10.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 10.1.1: Gehörlose Geflüchtete - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion für den Ausschuss für Soziales, Seniorinnen und Senioren (AN/1138/2024) zu gehörlosen Geflüchteten - Kenntnis genommen
+- TOP 10.2: Aktuelle Anfragen und Beantwortungen
+- TOP 10.2.1: Geplante Sanierung und Wiederinbetriebnahme der Flüchtlingsunterkunft in Köln-Ostheim - zurückgestellt
+- TOP 10.2.2: Tierhaltung in Unterbringungsunterkünften für Geflüchtete - Sache ist erledigt
+- TOP -: Tierhaltung in Unterbringungsunterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.2.3: Einführung eines Gebärdensprach-Avatars in Köln - zurückgestellt
+- TOP 10.2.4: Armut in Köln: Steigende Bestattungskosten und deren Auswirkungen auf Armutsbetroffene in Köln - zurückgestellt
+- TOP 10.2.5: Beantwortung einer Anfrage AN/1123/2024 "NRW-Landesregierung plant Kürzungen im Programm „Soziale Beratung von Geflüchteten„ um 63 Prozent – Auswirkungen auf Köln" - Kenntnis genommen
+- TOP 11: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Evaluation Kooperatives Baulandmodell 2024 - Kenntnis genommen
+- TOP 12.2: SeniorenNetzwerke Köln: Aktuelle Übersichtskarte - Kenntnis genommen
+- TOP 12.3: „Aktionstag Mobilität“ am 28. September 2024 - Kenntnis genommen
+- TOP 12.4: Bevölkerungsbewegungen in Köln 2023 – Wanderungsplus trotz Rückgang der Zuzüge - Kenntnis genommen
+- TOP 12.5: Aktualisierung zur Internetanbindung der Unterkünfte für Geflüchtete - Kenntnis genommen
+- TOP 12.6: Information zum 10-Punkte-Plan - zurückgestellt
