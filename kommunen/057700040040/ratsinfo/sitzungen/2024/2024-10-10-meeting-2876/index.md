@@ -1,0 +1,54 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2024-10-10T17:00:00+02:00
+- Ende: 2024-10-10T20:56:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXfRo5R3-mk_ejK7S2SzygY
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2876
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd0oDLVfmO-UJF8owN4Nlm7WZW2ekxi-qUkWI75sQuX1/Bekanntmachung_Rat_10.10.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSSwr_nzJfSxxZKuR78LHiBqDh2SYMC6Z8ppvlG-QvH1/Oeffentliche_Niederschrift_Rat_10.10.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Bekanntgabe der Petition der Bürgerinitiative Rahden gegen Positivplanung Nuttelner Bruch „Keine Windräder im Nuttelner Bruch“ vom 10.9.2024 - Ohne Abstimmung
+- TOP 5.: Planerische Steuerung der Windkraftnutzung - Ohne Abstimmung
+- TOP 6.: Überörtliche Prüfung der Stadt Rahden für die Haushaltsjahre 2019 bis 2023 durch die Gemeindeprüfungsanstalt Nordrhein-Westfalen - Einstimmig, 0 Enthaltungen
+- TOP 7.: Dienstanweisung zur Regelung von Ermächtigungsübertragungen im Sinne von § 22 Kommunalhaushaltsverordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 8.: Dienstanweisung für das Kredit- und Anlagemanagement der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2023 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2023 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen zum Stichtag 26.09.2024 - Ohne Abstimmung
+- TOP 12.: Beteiligungsbericht der Stadt Rahden zum 31.12.2023 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Rahden (Hebesatzsatzung) - Ohne Abstimmung
+- TOP 14.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Änderung der Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Verwendung von Fördermitteln aus der Förderrichtlinie Ganztagsausbau zur Gewährung von Zuwendungen zum Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter - Einstimmig, 0 Enthaltungen
+- TOP 17.: Änderung der Satzung zur Regelung der Teilnahme von Schüler*innen am Offenen Ganztag an den Grundschulen der Stadt Rahden - Beratungsergebnis: Das Abstimmungsverhalten ist unter „Wortmeldungen“ protokolliert.
+- TOP 18.: Änderung der Satzung zur Regelung der Teilnahme von Schüler*innen an alternativen Betreuungsformen in den Offenen Ganztagsgrundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Raumbedarf des Gymnasiums (G9) und der Sekundarschule Rahden - 25 Stimmen dafür, 2 dagegen, 2 Enthaltungen
+- TOP 20.: Antrag auf Städtebauförderung für das Programmjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2023; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 22.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2023; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 23.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2023; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 24.: Anfrage der FDP-Fraktion zum Stand der Friedhofskapellen im Stadtgebiet Rahden und einem Konzept zur Bestattungskultur am dem 01.01.2025 - Ohne Abstimmung
+- TOP 25.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 26.: Vertragsangelegenheit DGH Sielhorst - 22 Stimmen dafür, 5 dagegen, 2 Enthaltungen
+- TOP 27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.1: Stellenbesetzung der Fachbereichsleitung "Zentrale Dienste" zum 01.05.2025 - Ohne Abstimmung
+- TOP 28.: Grundstücksangelegenheiten
+- TOP 29.: Vergabe von Planungsdienstleistungen - Ohne Abstimmung
+- TOP 30.: Beratung und Beschlussfassung über die Vergabe des Heckenschnittes ab 2025 auf den Friedhöfen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 31.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 32.: Vertragsangelegenheiten; hier: Sachstandsbericht Kirchring - 28 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 33.: Grundstücksangelegenheit - 28 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 34.: Antrag auf Förderung der Ausbildung von Fachärztinnen und Fachärzten in der Stadt Rahden - 28 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 35.: Bekanntgaben und Anfragen
