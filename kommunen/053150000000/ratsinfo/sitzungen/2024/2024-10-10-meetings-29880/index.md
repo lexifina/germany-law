@@ -1,0 +1,71 @@
+# 27. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-10-10T17:00:00+02:00
+- Ende: 2024-10-10T19:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29880
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29880
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Beantwortung einer Einwohneranfrage der Bürgerverein Kalk e.V. zu den Baumfällungen Christian-Sünner-Straße vom 02.07.2024 und 26.08.2024 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: "Netzwerkelement 4 - Landschaftspark Kalkberge", Bürgereingabe nach § 24 GO - Aktenzeichen 120/23 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gem. Antrag der SPD-Fraktion, CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreff: "Verbesserung der Verkehrssituation am Fockerweg in Köln-Rath/Heumar" - ungeändert beschlossen
+- TOP 7.2: Antrag der Fraktion Bündnis 90/Die Grünen: nach § 3 Durchwegung Vietorstrasse offen lassen - endgültig zurückgezogen
+- TOP -: Änderungsantrag der SPD-Fraktion zu "Antrag AN/1084/2024 in der Sitzung der Bezirksvertretung Kalk" - Sache ist erledigt
+- TOP 7.3: Gem. Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen und CDU-Fraktion: "Für einen Haltepunkt an der Eiler Str – S15 in Rath/Heumar halten lassen!" - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion Bündnis90/Die Grünen: "Weg mit dem Müll - "Dump Ground"-Container einrichten" - endgültig abgelehnt
+- TOP 7.5: Antrag der Fraktion Bündnis 90/Die Grünen: "Schulcontainer des Bistums nur als Interim - Antrag zur Mitteilung 1269/2024 Neubau einer Containeranlage" - zurückgestellt
+- TOP 7.6: Antrag der SPD-Fraktion: "Neuordnung des Verkehrs am Höhenberger Sportpark" - zurückgestellt
+- TOP -: Ersetzungsantrag der CDU-Fraktion: "Neuordnung des Verkehrs am Höhenberger Sportpark" - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sanierung der Dachfläche des Kinderhauses im Bürgerhaus Kalk, Kalk-Mülheimer-Straße 68, 51103 Köln - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Familiendienst LR gUG" - ungeändert beschlossen
+- TOP 8.2.2: Anhörung der Bezirksvertretung 8 (Kalk) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung und Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes Nr. 75458/02 Arbeitstitel: Astrid-Lindgren-Allee in Köln-Kalk-Brück - ungeändert beschlossen
+- TOP 8.2.3: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 8.2.4: Weiteres Vorgehen Hallen Kalk (Hallen 75-77) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zur Beschlussvorlage 2208/2024: "Kulturhallen bewahren - Gegen Verfall und Abriss" - endgültig abgelehnt
+- TOP 8.2.5: Verfahrensleitender Beschluss zur städtebaulichen Entwicklung, Arbeitstitel: Brück-Rather Steinweg in Köln-Rath/Heumar (frühzeitige Öffentlichkeitsbeteiligung, Nutzungsprogramm und Leitlinien Qualifizierungsverfahren) - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer mündlichen Anfrage des Bezirksvertreters Müller (CDU-Fraktion) in der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 "Fünfter Sachstandsbericht zur Unterbringung von Geflüchteten" - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 05.09.2024 (AN/1131/2024) betreffend Baumfällungen Christian-Sünner-Straße - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer mündlichen Anfrage der Bezirksvertreterin Topp-Burghardt in der Sitzung der Bezirksvertretung Kalk vom 19.05.2022 TOP 9.3.1 "Bürgersteig Ecke Olpener Str./ Am Schildchen" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer Anfrage der Fraktion Bündnis90/Die Grünen aus der Sitzung der Bezirksvertretung Kalk vom 25.01.2024 (AN/0025/2024) betreffend "Entwicklung der Grünflächen im Stadtteil Kalk" - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Kalk vom 18.11.2021 (AN/2456/2021) betreffend "Wendemöglichkeit an der Merheimer Heide" - Kenntnis genommen
+- TOP 9.1.6: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion der Bezirksvertretung Kalk vom 26.08.2021 (AN/1772/2021) betreffend „Baumersatzpflanzungen„ im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.7: Beantwortung einer schriftlichen Anfrage der Fraktion DIE LINKE aus der Sitzung der Bezirksvertretung Kalk vom 21.05.2021 (AN/1098/2021) betreffend Baumbestand im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.8: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Kalk vom 25.01.2024 (AN/0087/2024) betreffend "Optimale Nutzung der Flächen im Kalker Stadtgarten" - Kenntnis genommen
+- TOP 9.1.9: Beantwortung einer mündlichen Anfrage der Fraktion DIE LINKE von Bezirksvertreter Fischer aus der Sitzung der Bezirksvertretung Kalk am 05.09.2024 betreffend Förderprogramm "Dritte Orte" - Kenntnis genommen
+- TOP 9.1.10: Beantwortung einer Anfrage der Fraktion Die LINKE in der Bezirksvertretung Kalk in der Sitzung vom 05.09.2024 (AN/1124/2024) "Klimaveedel und Fernwärme" - Kenntnis genommen
+- TOP 9.1.11: Beantwortung einer Anfrage der SPD-Fraktion aus der Bezirksvertretung Kalk in der Sitzung vom 24.08.2023 (AN/1424/2023): " Weiterentwicklung des Fernwärmenetzes im Stadtbezirk Kalk / Kommunale Wärmeplanung Stadtbezirk Kalk" - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk vom 10.10.2024: "Räumliche Perspektiven in der Usinger Straße" - Kenntnis genommen
+- TOP 9.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk vom 10.10.2024: "Barrierefreiheit auf Kalker Gehwegen" - Kenntnis genommen
+- TOP 9.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Kalk vom 10.10.2024:: "Sachstand bzgl. Immobilie Kalker Hauptstraße 86" - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Kommunal geförderte bezirkliche Kinder- und Jugendforen - Kenntnis genommen
+- TOP 10.2.2: "Lebenswerte Veedel - Bürger*innen und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms im Jahr 2023 und Entwicklung der Lebenslagen (2022) - Kenntnis genommen
+- TOP 10.2.3: On-Demand-Angebot KVB-Isi - Kenntnis genommen
+- TOP 10.2.4: Verbraucherberatung im Quartier: Jahresbericht 2023 - Kenntnis genommen
+- TOP 10.2.5: Passierbare Umlaufsperren - Kenntnis genommen
+- TOP 10.2.6: Lebenswerte Veedel - Bürger*innen- und Sozialraumorientierung in Köln - Schwerpunktthema "Kinder- und Jugendgesundheit" - Kenntnis genommen
+- TOP 10.2.7: Verbesserte Sicherheit auf Schulwegen bei Grundschulen und weiterführenden Schulen im Kölner Stadtgebiet/Pilotprojekt Schulstraßen in Köln - Kenntnis genommen
+- TOP 10.2.8: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 BauGB des vorhabenbezogenen Bebauungsplanentwurfs Nr. 72453/02 Arbeitstitel "Olpener Straße 248-252 in Köln-Höhenberg" - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung: Modellprojekt Innovation durch öffentliche Sportangebote – Rückblick „Kölle aktiv„ 2024 - Kenntnis genommen
