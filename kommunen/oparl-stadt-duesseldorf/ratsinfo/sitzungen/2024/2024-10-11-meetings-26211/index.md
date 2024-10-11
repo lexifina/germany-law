@@ -1,0 +1,104 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-11T14:00:00+02:00
+- Ende: 2024-10-11T17:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26211
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26211
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531383.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531383.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00531383.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 21.06.2024 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW (GO NRW) - einstimmig beschlossen
+- TOP 4.2: Projektvorstellung Sicherheit im Bahnhofsumfeld - zur Kenntnis genommen
+- TOP 4.3: Einbringung des Haushaltsplans 2025 (Entwurf) - Doppischer Produkthaushalt, Vorbericht und Anlagen sowie bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 4.4: Bebauungsplan - Entwurf Nr. 03/034 - Südlich Haroldstraße - Empfehlung einstimmig beschlossen
+- TOP 4.5: Haroldstraße – Erschließung Haroldstr. 5, Ministerium der Finanzen und NRW.BANK - zur Kenntnis genommen
+- TOP 4.6: Bebauungsplan-Entwurf Nr. 01/022 - Uerdinger Straße 67 - Empfehlung mehrheitlich beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Geländerertüchtigung Oberkasseler Brücke - zur Kenntnis genommen
+- TOP 4.10: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung einstimmig beschlossen
+- TOP 4.11: Umbau Deportationsmahnmal im Maurice-Ravel-Park - einstimmig beschlossen
+- TOP 4.12: Weiterentwicklung von öffentlichen Kulturorten und Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 4.13: Weiterentwicklung der Wochenendöffnungen von Stadtteilbüchereien - zur Kenntnis genommen
+- TOP 4.14: Handlungsfeldübergreifende Betrachtung sozialer Infrastruktur im Amt für Soziales und Jugend - zur Kenntnis genommen
+- TOP 4.15: Weihnachtsmarkt auf der Nordstraße vom 21.11.2024 bis 23.12.2024 - einstimmig beschlossen
+- TOP 4.16: Weihnachtsmarkt auf dem Münsterplatz vom 21.11. - 30.12.2024 - einstimmig beschlossen
+- TOP 4.17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2024 - einstimmig beschlossen
+- TOP 4.18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2024 Liste A Schulen 2121101/52415100 - einstimmig beschlossen
+- TOP 4.19: Sitzungstermine der Bezirksvertretung 1 für das 1. Halbjahr 2025 - zur Kenntnis genommen
+- TOP 4.20: Stadtbaumkonzept für Düsseldorf (6. Pflanzperiode) - zur Kenntnis genommen
+- TOP 4.21: Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2024 - einstimmig beschlossen
+- TOP 4.22: Bereitstellung von Mitteln für die Stadtteilkonferenz 2024 - einstimmig beschlossen
+- TOP 4.23: Bereitstellung von Mitteln für den Jahresempfang der Bezirksvertretung 1 2025 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Baufertigstellung der Hinterhofbebauung Am Wehrhahn 71 - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.2: Wohnungsleerstand Bismarckstraße 52 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 5.3: Austausch des Wassers im Alten Hafenbecken - Anfrage der CDU-Fraktion - beantwortet
+- TOP 5.4: Aktueller Planungsstand auf dem Gelände des ehemaligen Schlösser Areals, WA 5 - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 5.5: Aktuelle Planungen auf dem Gelände des ehemaligen Großmarktes, südlicher Teil - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - beantwortet
+- TOP 5.6: Baumfällungen Rolandstraße 40 - Anfrage der SPD-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Rechtmäßigkeit des Parkplatzes zwischen Toulouser Allee und Am Wehrhahn - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6.2: Unterflur-Container Schwerinstraße - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Zustand des Clubhauses BV 04 - Anfrage der CDU-Fraktion
+- TOP 6.5: Ergebnisse Ortstermin Worringer Platz, Mail vom 25.07.2023 - Anfrage der SPD-Fraktion
+- TOP 7: Anträge
+- TOP 7.1: Glashaus am Worringer Platz - überfraktioneller Antrag - zurückgezogen
+- TOP 7.2: Anschluss des Radweges von der Jülicher Straße in die Eulerstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.3: Alt-Pempelfort – Freigabe für den Radverkehr in Gegenrichtung - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.4: Benennung von zwei Plätzen im Bereich der Hochschule Düsseldorf - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.5: Tempo 30 auf der Worringer Straße von 22:00-6:00 Uhr - überfraktioneller Antrag - abweichend beschlossen
+- TOP 7.6: Parkscheinregelung im Bewohnerparkgebiet B (Daimler) - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.7: Baumpflanzungen auf der Kaiserswerther Straße 5-47 - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.8: Gefahrenstelle Baustelle Am Wehrhahn, Fußweg vom S-Bahnhof Wehrhahn zur Worringer Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.9: Einrichtung von Rechtsabbiegepfeilen - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.10: Erhaltung des Schulstandortes Luisengymnasium - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 7.11: Informationen zum Citymanagement - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.12: Information über den Leerstand Mühlenstraße 11, 13 und Mertensgasse 2a -Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.13: „Grüne Welle“ für Kölner Straße und in Verlängerung Pempelforter Straße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.14: Beseitigung von Wildwuchs am Tritonenbrunnen - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 7.15: Barrierefreier Ausbau von Straßenbahn-Haltestellen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 7.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Installation einer Linksabbiegersignalanlage auf der Toulouser Allee an der nördlichen Ecke der Marc-Chagall-Straße; Beschlluss der Bezirksvertretung 1 vom 26.04.2024; BV1/092/2024 - zur Kenntnis genommen
+- TOP 8.2: Gedenk-Litfaßsäulen auf der Königsallee zur Geschichte der Straße im Nationalsozialismus; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/059/2024 - abweichend beschlossen
+- TOP 8.3: Darstellung der rechtlichen Lage nach dem aktuellen Urteil des OLG Düsseldorf (Az.: 12 O 70/22) zum Worringer Platz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/149/2024 - zur Kenntnis genommen
+- TOP 8.4: Spielplatz Kölner Straße 44 (Innenhof); Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/141/2024 - zur Kenntnis genommen
+- TOP 8.5: Trinkbrunnen auf dem Frankenplatz und Spichernplatz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/135/2024 - zur Kenntnis genommen
+- TOP 8.6: Bouleplatz auf dem Spichernplatz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/128/2024 - zur Kenntnis genommen
+- TOP 8.7: Darlegung der Maßnahmen am Worringer Platz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/148/2024 - zur Kenntnis genommen
+- TOP 8.8: Aufwertung Parkhaus Bendemannstraße; Beschluss der Bezirksvertretung 1 vom 24.05.2024; BV1/110/2024 - zur Kenntnis genommen
+- TOP 8.9: Parkhaus Hohestraße / Siegfried-Klein-Straße; Beschluss der Bezirksvertretung 1 vom 26.04.2024; BV1/079/2024 - zur Kenntnis genommen
+- TOP 8.10: Errichtung von Fahrradabstellanlagen auf den Flächen, die für die Verschwenkung der ehemaligen Radfahrspur an der Eulerstraße stadtauswärts gepflastert wurden; Beschluss der Bezirksvertretung 1 vom 01.03.2024; BV1/04/2024 - zur Kenntnis genommen
+- TOP 8.11: Errichtung von Fahrradabstellanlagen an der Ecke Augustastraße / Moltkestraße anstelle der Waschbetonpoller; Beschluss der Bezirksvertretung 1 vom 26.04.2024; BV1/090/2024 - zur Kenntnis genommen
+- TOP 8.12: Sonnensegel und Hochbeete für den Frankenplatz; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/134/2024 - zur Kenntnis genommen
+- TOP 8.13: Zebrastreifen Wielandstraße/ Ecke Am Wehrhahn; Beschluss der Bezirksvertretung 1 vom 26.04.2024; BV1/089/2024 - zur Kenntnis genommen
+- TOP 8.14: Aufzug an der Marc-Chagall-Straße zur Franklinbrücke; Beschluss der Bezirksvertretung 1 vom 21.06.2024; BV1/143/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Förderverein Paul-Klee-Grundschule - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für das Spielplatzfest Klosterstraße/Stephanienstraße - einstimmig beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KG Düssel-Narren e.V. - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule - einstimmig beschlossen
+- TOP 9.6: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an New Fall Festival GmbH - mehrheitlich beschlossen
+- TOP 9.7: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Heimatverein Derendorfer Jonges 1956 e.V. - einstimmig beschlossen
+- TOP 9.8: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für die Gruppenausstellung "Keine Akten Nirgends" von raum+ - mehrheitlich beschlossen
+- TOP 9.9: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Matthias-Claudius-Grundschule - einstimmig beschlossen
+- TOP 9.10: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Gemeinschaftsgrundschule Lennéstraße - einstimmig beschlossen
+- TOP 9.11: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Friederike Felbeck für ein Konzert im Palais Wittgenstein - mehrheitlich beschlossen
+- TOP 9.12: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss für die Ausrichtung der Veranstaltung Dia de Muertos 2024 an die Initiative Trazos de Tradicion - abweichend beschlossen
+- TOP 9.13: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Gemeinschaftsgrundschule Lennéstraße für die Erweiterung der Fahrrad-AG - einstimmig beschlossen
