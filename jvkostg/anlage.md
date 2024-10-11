@@ -120,8 +120,8 @@ Gebühren
 |  |  |  |
 | Abschnitt 4Sonstige Gebühren |
 | 1440 | Übermittlung zur Einsichtnahme von Unterlagen, die nach § 326 Abs. 2 Satz 1 oder § 325 Abs. 2b Nr. 3 HGB zur dauerhaften Hinterlegung eingestellt wurden:für jede übermittelte Unterlage .......... | 1,00 € |
-| 1441 | Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die Identitätsprüfung erfolgt anhand |  |
-|  | a)eines elektronischen Identitätsnachweises oder elektronischen Identifizierungsmittels nach § 3 Abs. 3 Satz 3 Nr. 1 oder Nr. 2 URV ..........b)einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode nach § 3 Abs. 3 Satz 3 Nr. 3 URV .......... | 12,00 € 22,00 € |
+| 1441 | Verfahren zur Registrierung nach § 3 Abs. 2, § 3a URV; die Identitätsprüfung erfolgt unter Verwendung |  |
+|  | a)eines elektronischen Identitätsnachweises oder elektronischen Identifizierungsmittels nach § 3a Abs. 1 Satz 3 Nr. 1 oder Nr. 2 URV ..........b)einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode nach § 3a Abs. 1 Satz 3 Nr. 3 URV ..........c)einer bereits über die Steuerberaterplattform (§ 86c StBerG) erfolgten Identifizierung des Nutzers nach § 3a Abs. 4 URV .......... | 12,00 € 22,00 €7,60 € |
 | Hauptabschnitt 5 Sonstige Gebühren |
 | 1500 | Beglaubigung von Kopien, Ausdrucken, Auszügen und Dateien .......... Die Gebühr wird nur erhoben, wenn die Beglaubigung beantragt ist; dies gilt nicht für Ausdrucke aus dem Unternehmensregister und für an deren Stelle tretende Dateien. Wird die Kopie oder der Ausdruck von der Justizbehörde selbst hergestellt, so kommt die Dokumentenpauschale (Nummer 2000) hinzu. | 0,50 € für jede angefangeneSeite – mindestens: 5,00 € |
 | 1501 | Bescheinigungen und schriftliche Auskünfte aus Akten und Büchern .......... Die Gebühr wird auch für eine Bescheinigung erhoben, aus der sich ergibt, dass entsprechende Akten nicht geführt werden oder ein entsprechendes Verfahren nicht anhängig ist. | 15,00 € |
