@@ -4,6 +4,7 @@
 - [§ 1 Allgemeines](0001.md)
 - [§ 2 Sicherheit](0002.md)
 - [§ 3 Registrierung der Nutzer](0003.md)
+- [§ 3a Identifikation der Nutzer](0003a.md)
 - [§ 4 Art der Datenübermittlung](0004.md)
 - [§ 5 Datenübermittlung durch die Landesjustizverwaltungen](0005.md)
 - [§ 6 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister](0006.md)
