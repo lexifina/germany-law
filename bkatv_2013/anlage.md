@@ -313,7 +313,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 107.4.1 |  | – mit Gefährdung | § 23 Absatz 1 Satz 4 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, 22 | 25 € |
 | 107.4.2 |  | – mit Sachbeschädigung |  | 35 € |
 | 108 | Beim Führen eines Fahrzeugs nicht dafür gesorgt, dass das Fahrzeug, der Zug, das Gespann, die Ladung oder die Besetzung vorschriftsmäßig waren, wenn dadurch die Verkehrssicherheit wesentlich beeinträchtigt war oder die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung wesentlich litt | § 23 Absatz 1 Satz 2 § 49 Absatz 1 Nummer 22 | 80 € |
-| (109) | (aufgehoben) |  |  |
+| 109 | Nicht sichergestellt, dass ein vorgeschriebenes Notbremsassistenzsystem eingeschaltet ist | § 23 Absatz 1d § 49 Absatz 1 Nummer 22 | 100 € |
 | (109a) | (aufgehoben) |  |  |
 | 110 | Fahrzeug, Zug oder Gespann nicht auf dem kürzesten Weg aus dem Verkehr gezogen, obwohl unterwegs die Verkehrssicherheit wesentlich beeinträchtigende Mängel aufgetreten waren, die nicht alsbald beseitigt werden konnten | § 23 Absatz 2 Halbsatz 1 § 49 Absatz 1 Nummer 22 | 10 € |
 |  | Fußgänger |  |  |

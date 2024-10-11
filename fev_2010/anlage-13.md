@@ -71,7 +71,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
   | 3.2.12 | das Verhalten an öffentlichen Verkehrsmitteln und Schulbussen | 92.1, 92.2, 93, 95.1, 95.2 |
   | 3.2.13 | die Personenbeförderung, die Sicherungspflichten | 99.1, 99.2 |
   | 3.2.14 | die Ladung | 102.1, 102.1.1, 102.2.1, 104 |
-  | 3.2.15 | die sonstigen Pflichten des Fahrzeugführers | 108, 246.1, 247 |
+  | 3.2.15 | die sonstigen Pflichten des Fahrzeugführers | 108, 109, 246.1, 247 |
   | 3.2.16 | das Verhalten am Fußgängerüberweg | 113 |
   | 3.2.17 | die übermäßige Straßenbenutzung | 116 |
   | 3.2.18 | Verkehrshindernisse | 123 |
