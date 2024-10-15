@@ -1,0 +1,181 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2024-10-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7952616
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7952616
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Behördenvertreter*innen
+- TOP 2.1.1: Vortrag städtischer Referate
+- TOP 2.1.1.1.: Vetreter*innen des RKU und der SWM zur kommunalen Wärmeplanung in Untergiesing-Harlaching
+- TOP 2.2: Anliegen von Bürger*innen
+- TOP 2.2.1: Anwesende Bürger*innen
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht des/der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budget
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Wurzelkinder Harlaching e.V. „Heizungssanierung am 27.09.2024“ 2.364,49 € / AZ: 0262.0-18-0394
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget BIKU e.V. – Verein für Bildung und Kultur „Mädchen an den Ball! Mädchenfußball im Bezirk 18 Untergiesing - Harlaching vom 01.01.2025 – 31.12.2025“ 7.910,00 € / AZ: 0262.0-18-0395
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget TSV Turnerbund München e.V. „Anschaffung MCA Safety Floor im Dezember 2024“ 12.339,44 € / AZ: 0262.0-18-0396
+- TOP 3.1.3: Bürger*innenschreiben / Anträge
+- TOP 3.1.3.1.: BA-Budget für Pflichtaufgaben der Stadt; Antrag FW/FDP
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.4.1.: Evaluierung des Stadtbezirksbudgets - Abfrage der Erfahrungen aller Bezirksausschüsse
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Kultur, Sport und Vereine
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Bürger*innenschreiben / Anträge
+- TOP 3.2.3.1.: Ausstattung der Flutlichtanlage auf der städtischen Sportanlage an der Säbener Straße mit einer LED-Beleuchtung; SPD-Antrag
+- TOP 3.2.3.2.: Tiroler Platz: Anbringung eines Erläuterungsschildes zur politischen Genese der Platzbezeichnung; Bürgeranliegen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Reparatur des Beckenlifts im Schyrenbad
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Versammlungsanzeigen im Stadtbezirk
+- TOP 3.2.6.2.: Bescheid zur Infoveranstaltung Fahrradstraßen am Mangfallplatz am 12.09.2024
+- TOP 3.2.6.3.: Bescheid zum Anwohner-Straßenfest in der Aggensteinstr. am 21.09.2024 und 22.09.2024
+- TOP 3.2.6.4.: Ausnahmegenehmigung für den Trampolin Wettkampf des TSV Turnerbund München e. V. am 19.10.2024 auf dem Vorplatz der Säbener Halle
+- TOP 3.2.6.5.: Ausnahmegenehmigung für die St. Martinsfeier des Biene Maja Kindergartens am 11.11.2024 auf der Grünanlage der Karolinger Allee
+- TOP 3.2.6.6.: Bescheid für den Flohmarkt des Kirschbaumkindergarten e.V. am 13.10.2024 am Hans-Mielich-Platz
+- TOP 3.2.6.7.: Eilentscheidung der BA-Vorsitzenden im Anhörungsverfahren für den Circus Roberto vom 11.10 - 20.10.2024 in der Oberbiberger Straße
+- TOP 3.2.6.8.: Eilentscheidung der BA-Vorsitzenden im Anhörungsverfahren für die Veranstaltung Erinnerungszeichen am 16.10.2024 auf der Grünanlage am Schmorellplatz
+- TOP 3.2.6.9.: Drehgenehmigungen im 18. Stadtbezirk
+- TOP 3.2.7: Sonstiges
+- TOP 3.2.7.1.: Bitte um Unterstützung des Antrags des BA 17: Digitale Schaukästen für die Bezirksausschüsse
+- TOP 3.3: UA Mobilität
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Auffüllung des Verbindungsweges Tiroler Platz - Klobensteiner Straße
+- TOP 3.3.2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching Verkehrsberuhigung am Hollerbusch BA-Antrags-Nr. 20-26 / B 06053 des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 17.10.2023 Teilweise Umwidmung der Straße am Hollerbusch in eine Schulstraße Empfehlung Nr. 20-26 / E 02131 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 04.07.2024
+- TOP 3.3.2.3.: (E) Fahrradweg auf der Thalkirchner Brücke
+- TOP 3.3.3: Bürger*innenschreiben / Anträge
+- TOP 3.3.3.1.: Verkehrs- und Parkplatzproblematik am Theodolinden-Gymnasium; Bürgeranliegen
+- TOP 3.3.3.2.: Anliegen zur Straßenbahnlinie 25 und zur Buslinie 139; Bürgeranliegen
+- TOP 3.3.3.3.: Verkehrsregelungen im Viertel Schyrenbad; Bürgeranliegen
+- TOP 3.3.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.5.: Humboldtstraße als Quartierszentrum stärken: Gehwegbreite dem Bedarf anpassen; Grünen-Antrag
+- TOP 3.3.3.6.: Radanlehnbügel für die Kita in der Mondstraße; Bürgeranliegen
+- TOP 3.3.3.7.: Lärmbelästigung auf öffentlichen Straßen durch Hot Rod Fahrzeuge; Bürgeranliegen
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: BA-Anhörung zum Parkraummanagement in München - Umsetzung Sektor VI, Teil 2 Sitzungsvorlage Nr. 20-26 V 13538
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Die Sachsenstraße soll von der Nummer 25 bis zur Gabelung Teutoburger-/Agilolfingerstraße in eine Fahrradstraße umgewandelt werden
+- TOP 3.3.5.2.: Zebrastreifen vor dem TSV Turnerbund München e. V. in der Säbener Straße
+- TOP 3.3.5.3.: Tempo 30 zur Luftreinhaltung am Mittleren Ring
+- TOP 3.3.5.4.: Konzept für die Verbesserung der Tierparkroute
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Verkehrsrechtliche Anordnung zur Stellplatzumwandlung in der Birkenau 10
+- TOP 3.3.6.2.: Verkehrsrechtliche Anordnung zur Stellplatzumwandlung in der Schyrenstraße 5
+- TOP 3.3.6.3.: Säbener Straße 140-142: Anordnung eines absoluten Haltverbots als Hol- und Bringzone für die Grundschule Rotbuchenstraße
+- TOP 3.3.6.4.: Säbener Straße 140-146: Erweiterung des absoluten Haltverbots als Hol- und Bringzone für die Grundschule Rotbuchenstraße
+- TOP 3.3.6.5.: Vollsperre in der Willroiderstraße 8-8a von 30.09.2024 bis 13.12.2024
+- TOP 3.3.6.6.: Anordnung eines zeitlich beschränkten absoluten Haltverbots vor dem Albert-Einstein-Gymnasium
+- TOP 3.3.6.7.: Informationsschreiben zu den geplanten Lizenzgebieten "Mangfallplatz" und "Scharfreiterplatz" - Parkausweise
+- TOP 3.3.6.8.: Verlängerung der Vollsperre in der Sommerstraße 43
+- TOP 3.3.6.9.: Vollsperre in der Lindenstraße vom 4.10.2024 - 27.11.2024
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Umwelt und Klimaschutz
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Prüfung, ob in Untergiesing mehr Bäume gepflanzt werden können
+- TOP 3.4.3: Bürger*innenschreiben / Anträge
+- TOP 3.4.3.1.: Vermüllung einer öffentlichen Bank in der Fromundstraße (Ecke Otkerstraße); Bürgeranliegen
+- TOP 3.4.3.2.: Bekanntgabe der Endpunkte der Fernwärmeleitungen; SPD-Antrag
+- TOP 3.4.3.3.: Zustand des von der Stadt temporär an den Bauträger vermieteten Grundstückes Tauernstraße 4; Bürgeranliegen
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Baumfällungen (Anhörungen): - Agatharieder Str. 13 - Alois-Wohlmuth-Str. 25 - Benediktenwandstr. 16 - Bezoldstr. 11 - Grünwalder Str. 184 - Isenschmidstr. 19 - Kastenseestr. 12 - Leonburgstr. 4 - Säckingenstr. 16 - Tauernstr. 11 - Tierparkstr. 30
+- TOP 3.4.4.2.: Einrichtung einer Wertstoffinsel in der Algilolfingerstraße/Teutoburger Straße
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Stellungnahme des Baureferats zum Thema Wiederöffnung des Hangwegs vom Biergarten Menterschwaige hinunter zur Isar
+- TOP 3.4.5.2.: Wann werden die gesperrten Wege an der Isar-Hochuferseite wieder geöffnet?
+- TOP 3.4.5.3.: Leerung der Flaschen-Container in Harlaching
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Baumfällung in der Stresemannstr. 1
+- TOP 3.4.6.2.: Baumfällung in der Candidstr. 18-30 und Agilofingerstr. 20-28
+- TOP 3.4.6.3.: Baumfällung in der Füllstr. 1
+- TOP 3.4.6.4.: Wehranlage Großhesselohe - Abdruck der wasserrechtlichen Anordnung zur Sanierung der festen Wehrschwelle
+- TOP 3.4.6.5.: Straßenbauarbeiten in den Nächten vom 23.09.2024 bis 27.09.2024 in der St.-Magnus-Straße / Tiroler Platz - Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 3.4.6.6.: Baumfällung in der Athener Str. 18
+- TOP 3.4.6.7.: Baumfällung in der Haselburgstr. 8
+- TOP 3.4.6.8.: Baumfällung in der Reichenhaller Str. 25-27
+- TOP 3.4.6.9.: Baumfällung in der Grünwalder Str. 14a-d
+- TOP 3.4.6.10.: SWM-Baumaßnahme: Erdgas-Projekt Seybothstraße
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Soziales, Bildung und Gesundheit
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Neuantrag für eine Freischankfläche in der Humboldtstraße 42
+- TOP 3.5.3: Bürger*innenschreiben / Anträge
+- TOP 3.5.3.1.: Verhinderung des Auslegens von Giftködern; Bürgeranliegen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Beschlussvorlage "Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024"
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Stadtteilwoche im Bezirk 18
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Rückerstattung von Heizkosten
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Bau und Planung
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Bürger*innenschreiben / Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.6.4.1.1.: Hermine-Bland-Str. 11: Wohnhaus mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.1.2.: Isenschmidstr. 14: Neubau einer Wohnanlage mit Tiefgarage - Vorbescheid
+- TOP 3.6.4.1.3.: Theodolindenstr. 2a: Neubau von 2 Mehrfamilienhäusern mit 12 Wohnungen und einer Tiefgarage mit 12 Stellplätzen
+- TOP 3.6.4.1.4.: Lindenstr. 28a: Umbau eines Zweifamilienhauses zu einem Doppelhaus durch einen Anbau und Aufstockung des Bestandes
+- TOP 3.6.4.2: Baumbestandspläne
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Antwortschreiben der Stadibau zum Bauvorhaben in der Harthauser Straße 46
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Stellungnahme des BA 18 im Eilverfahren zum Neubau eines "Hexenhauses" in der Pilgersheimer Str. 13 mit Aussenanlagen für Eventveranstaltungen und einem gastronomischen Betrieb (befristet auf 5 Jahre)
+- TOP 3.6.6.2.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 3.6.6.3.: (U) Siedlungsentwicklung und Infrastrukturversorgung 2023-2027
+- TOP 3.6.6.4.: (U) A.) Rahmenplanung Gartenstadt 2.0 - Endbericht und Evaluation der Steuerungsinstrumente B.) Anträge und Empfehlungen Stadtbezirk 16 Ramersdorf - Perlach Stadtbezirk 18 Untergiesing - Harlaching Stadtbezirk 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing - Obermenzing Stadtbezirk 24 Feldmocing - Hasenbergl Stadtbezirk 25 Laim
+- TOP 3.6.6.5.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder / Jugend
+- TOP 5.2: Senioren*innen
+- TOP 5.3: Regsam
+- TOP 5.4: Migration
+- TOP 5.5: Menschen mit Behinderung
+- TOP 5.6: Sport und Vereine
+- TOP 5.7: Baumschutz
+- TOP 5.8: Gleichstellung
+- TOP 5.9: Denkmal- und Ensembleschutzschutz
+- TOP 5.10: Gegen Rechtsextremismus
+- TOP 5.11: Mieterbeirat
+- TOP 5.12: Rad- und Fußverkehr
+- TOP 5.13: Corona
+- TOP 5.14: Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.1.3.2.: Budgetantrag für die gemeinsame Veranstaltung von BA 18 und Theodolinden-Gymnasium am 11.11.2024 anlässlich des 86. Jahrestages der Reichspogromnacht am 9. November 1938
