@@ -1,0 +1,60 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2024-10-16T17:00:00+02:00
+- Ende: 2024-10-16T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4828
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4828
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Grüner Umweltstadtrat verhindert weiteren traditionellen Volkslauf - beantwortet
+- TOP 3.2: Auswirkung des Kita-Streiks in Steglitz- Zehlendorf - beantwortet
+- TOP 3.3: Auswirkungen des Kita-Streiks auf die Kita-Eigenbetriebe - beantwortet
+- TOP 3.4: Wer verantwortet die geplante Flüchtlingsunterkunft am Standort Thielallee 63? - beantwortet
+- TOP 3.5: AVUS-Sanierung: Einschränkungen und Verbesserungen für den Bezirk? - schriftlich beantwortet
+- TOP 3.6: Radverkehr in Steglitz-Zehlendorf: Mangelnde Stellenbesetzungen durch externe Vergaben kompensieren? - schriftlich beantwortet
+- TOP 3.7: Platzbenennung nach Theodor Moldaenke - schriftlich beantwortet
+- TOP 3.8: Kältehilfe - schriftlich beantwortet
+- TOP 3.9: Parksituation am Bahnhof Wannsee - schriftlich beantwortet
+- TOP 3.10: Kranke Schafe im Bezirk? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sondermittel der BVV für das Sinfonieorchester Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Stolpersteine für zwischen 1933 und 1945 verfolgte, inhaftierte, zur Flucht und in den Freitod gezwungene Kommunalpolitiker*innen aus Steglitz und Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Kunst statt grauer Betonsäulen am Breitenbachplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Parken am Teltower Damm wieder ermöglichen - in der BVV abgelehnt
+- TOP 4.5: Öffnungszeiten des Bolzplatzes im Ringelsteinweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Wochenmarkt rund um das McNair-Viertel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Ausbreitung Hybrid-Luzerne: Müssen jetzt dringend handeln - in der BVV abgelehnt
+- TOP 4.8: Öffentliche Toilette S-Bahnhof Lichterfelde-Süd; Endhaltestelle M 85 - überwiesen
+- TOP 4.9: B-Plan Birkbuschstraße 40-42 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Sicherung des Kraftwerks Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Weitere Unterkünfte für obdachlose Menschen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Stadtplanerische Konzepte, die die Mieten- und Klimakrise anerkennen statt Deals mit Investor*innen zu Lasten von günstigen Mietwohnungen und Naturflächen! - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Naturschutz an Schlachtensee und Krumme Lanke - damit das schöne Ausflugsgebiet erhalten bleibt - überwiesen
+- TOP 5.2: Flexible Verkehrsflächen stärken - Verkehrsbeziehungen für Sicherheits- und Rettungskräfte sicherstellen - überwiesen
+- TOP 5.3: Parkregelung Holbeinstraße - überwiesen
+- TOP 5.4: Bezahlbaren Wohnraum bei Nachverdichtungsvorhaben sicherstellen – "Neuköllner Modell für kiezverträglichen Wohnungsbau" in Steglitz-Zehlendorf umsetzen - überwiesen
+- TOP 5.5: Bedarfsgerechten Wohnraum bei Nachverdichtungsvorhaben sicherstellen – "Neuköllner Modell für kiezverträglichen Wohnungsbau" in Steglitz-Zehlendorf umsetzen - überwiesen
+- TOP 5.6: Ein wenig mehr Platz für Radfahrer*innen, um den vorhandenen Radweg Unter den Eichen störungsfrei nutzen zu können - überwiesen
+- TOP 5.7: Platz vor der Schwartzschen Villa von der BSR reinigen lassen - überwiesen
+- TOP 5.8: Bewährte Verkehrsregelung im Schweizer Viertel beibehalten - überwiesen
+- TOP 5.9: Barrierefreiheit auch am Südkopf-Ausgang U-Bahnhof Mexikoplatz - überwiesen
+- TOP 5.10: Die Kältehilfe im Bezirk retten - überwiesen
+- TOP 5.11: Schulentwicklungsplan endlich aktualisieren - überwiesen
+- TOP 5.12: Schulsozialarbeit an der Biesalski-Schule dem Bedarf anpassen - überwiesen
+- TOP 5.13: Schulsozialstationen sichern - überwiesen
+- TOP 6: Große Anfragen - im Ausschuss abgelehnt
+- TOP 6.1: Heizanlage im Rathaus Zehlendorf - beantwortet
+- TOP 6.2: Berlin ist pleite – Folgen für den Bezirk? - beantwortet
+- TOP 6.3: Wird Steglitz-Zehlendorf 2025 eine Kältehilfeeinrichtung haben? - beantwortet
+- TOP 7: Anträge - (offen)
+- TOP 7.1: Schnellstmögliche Wiederöffnung des Spielplatzes „Zum Löwen“ - überwiesen
