@@ -1,0 +1,102 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2024-10-16T17:00:00+02:00
+- Ende: 2024-10-16T21:50:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7469
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=7469
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=454180
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - schriftlich beantwortet
+- TOP 3: Vorlagen des Kinder- und Jugendparlaments - erledigt
+- TOP 3.1: Neue Computerbildschirme für das Ulrich-von-Hutten Gymnasium - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Bücherei für die Schüler des Georg-Büchner-Gymnasiums - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.3: Eine bessere technische Ausstattung an Schulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.4: Tablets für die Schüler*innen an den Schulen in Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.5: Tabletklassen am Ulrich-von-Hutten-Gymnasium - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.6: Sicherer Schulweg für die Kinder der Nahariya-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: je eine Priorität pro Fraktion - erledigt
+- TOP 4.1: Hundeauslaufgebiete und Hundeplätze im Bezirk - schriftlich beantwortet
+- TOP 4.2: Stopp oder Aus bei Zuwendungen und Zuschüssen in 2025? - schriftlich beantwortet
+- TOP 4.3: Haushaltswirtschaft mit Augenmaß: Soziale Infrastruktur schützen und erhalten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.4: Auswirkungen der aktuellen Haushaltslage auf die Jobcenter - schriftlich beantwortet
+- TOP 4.5: Inwieweit war SIKo bisher ein Erfolg für Infrastrukturmaßnahmen im Bezirk - schriftlich beantwortet
+- TOP 4.6: Kein Ideenwettbewerb zur Randbebauung des Tempelhofer Feldes - in der BVV abgelehnt
+- TOP 5: Vorlagen des Vorstehers - erledigt
+- TOP 5.1: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2025 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Unerledigte Beschlüsse aus der XX. und XXI. WP der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XXI. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Mündliche Anfragen zur BVV - schriftlich beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Abstellzonen für Leih-Scooter im Bezirk - vertagt
+- TOP 9.2: Berichtigung der Rahmenbedingungen für das Wettbewerbsverfahren „Umbau des Barbarossaplatzes“ - im Ältestenrat zurückgezogen
+- TOP 9.3: Kein Parkplatzwegfall in Tempelhof durch Einführung von Parkraumbewirtschaftung - in der BVV abgelehnt
+- TOP 9.4: Schulweg- und Verkehrssicherheit Taunusstr. Richtung Straße 9 - in der BVV abgelehnt
+- TOP 9.5: Senat streicht Radschnellverbindungen - Teltow-Kanal-Route (RSV 6) weiterplanen und umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 9.6: Jüdische Geschichte in Mariendorf sichtbarer machen - mit Änderungen in der BVV beschlossen
+- TOP 9.7: Eine Gedenktafel für die Schöneberger Widerstandskämpferin Hedwig Neumann - mit Änderungen in der BVV beschlossen
+- TOP 9.8: Errichtung einer öffentlichen Toilette auf dem Breslauer Platz - überwiesen
+- TOP 9.9: Vorlage eines Konzeptes zur besseren touristischen Sichtbarmachung des Regenbogenkiezes - überwiesen
+- TOP 9.10: Nacht- und Sozialcafé Bülowstraße 91 - in der BVV abgelehnt
+- TOP 9.11: Fahrradbügel auf der Fahrbahn nur in Kreuzungsbereichen aufstellen - überwiesen
+- TOP 9.12: Rotlichtblitzer an der Ampel Goebenstraße / Steinmetzstraße - überwiesen
+- TOP 9.13: Ausstellung „Spurensuche Demokratie“ dauerhaft zeigen - überwiesen
+- TOP 9.14: Schlaglochmelder - überwiesen
+- TOP 9.15: Bürgeramt für zu Hause - überwiesen
+- TOP 9.16: Karstadt-Gebäude am Tempelhofer Damm mit Anrainern entwickeln - überwiesen
+- TOP 9.17: Städtepartnerschaft Mykolajiw - überwiesen
+- TOP 9.18: Förderung geschlechtlicher Vielfalt auch in der BVV sichtbar machen: Einführung geschlechtsneutraler Anredeformen auf BVV-Vordrucken - überwiesen
+- TOP 9.19: Nutzung Sitzungsräume 2112 und 2113 - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Öffentliche Orte für Tischtennis, Skateboard, Basketball und Bolzplätze übersichtlich darstellen - überwiesen
+- TOP 9.21: Fahrradanlage auf dem Lichtenrader Damm angehen - überwiesen
+- TOP 9.22: Toilettenaufstellung Nähe des noch zu errichtenden Spielplatzes im Volkspark Mariendorf - überwiesen
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Was unternimmt der Bezirk gegen Antisemitismus? - schriftlich beantwortet
+- TOP 10.2: Straßenbeleuchtung im Bezirk – Störungen und Ausbau - schriftlich beantwortet
+- TOP 10.3: Tagesreinigung als Beitrag für Gute Arbeit - schriftlich beantwortet
+- TOP 10.4: Handjerystraße - schriftlich beantwortet
+- TOP 10.5: Umsetzung Onlinezugangsgesetz (OZG) - vertagt
+- TOP 10.6: Umsetzung des „DigitalPakt Schule“ in Tempelhof-Schöneberg - schriftlich beantwortet
+- TOP 10.7: Solaranlagen auf Schuldächer: Fällt der Klimaschutz in Tempelhof-Schöneberg hinten runter? - vertagt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Straßenbäume erhalten – unser Stadtklima schützen - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Anteil von energieeffizienten Leuchtmitteln in öffentlichen Gebäuden schnell erhöhen - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Innsbrucker Straße: Parkscheinautomaten sind keine Poller, um das Parken zu verhindern - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Gute Arbeit der pädagogischen Fachkräfte in den Kita-Eigenbetrieben nach einem Tarifvertrag „Pädagogische Qualität und Entlastung“ unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Transfairkaufhaus eröffnen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Ergänzung der Geschäftsordnung der BVV Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Baustellenmanagement in Lichtenrade - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Rederecht für die Senioren-Vertretung bei eigenen Initiativen in der BVV II - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Gewässerrandstreifen und dazugehörige Bäume in Tempelhof-Schöneberg schützen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Anpassung des Bebauungsplans für die Immobilie des Karstadt-Warenhauses am Tempelhofer Damm - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Grauwasserrecycling im Bezirk einführen - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Schulbescheide in einfacher Sprache - mit Änderungen in der BVV beschlossen
+- TOP 11.13: Frauen ins Ehrenamt - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Transparenz bei Kita-Extrazahlungen - mit Änderungen in der BVV beschlossen
+- TOP 11.15: Tempelhof-Schöneberg zum Pflücken - Nachhaltig, gesund und für alle da - in der BVV abgelehnt
+- TOP 11.16: Abwenden des Erzwingungsstreiks in Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen
+- TOP 11.17: Einheitliche Bewirtschaftungszeiten in Tempelhof-Schöneberg für die Parkraumbewirtschaftungszonen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Technische Ausstattung der BVV-Sitzungsräume - mit Änderungen in der BVV beschlossen
+- TOP 11.19: Änderung der Geschäftsordnung der BVV, hier: § 28 Kinder- und Jugendparlament - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 20 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 21 / 2024 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 12.1: Training in den Jugendverkehrsschulen rettet Leben – JVS Friedenstraße öffnen, Beschlüsse vom 15.03.2017 (DS 0097/XX) und 20.06.2018 (DS 0746/XX) endlich umsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Sichere Fahrradabstellmöglichkeiten auch im Süden des Bezirks - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Schulwegsicherung für die Neumarkgrundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Bürgerversammlungen zu den Bauvorhaben der Bundesverwaltung in der Marienfelder Feldmark - überwiesen
+- TOP 12.5: Zukunft des Grundstücks Hauptstraße 162/Willmanndamm 22 kooperativ und gemeinbedarforientiert weiterentwickeln - überwiesen
+- TOP 12.6: Öffnungsangebot für Seniorenfreizeiteinrichtungen an Sonn- und Feiertagen - überwiesen
+- TOP 12.7: Obdachlosigkeit in Tempelhof-Schöneberg: Mehr Angebote für Menschen aus dem slawischen Sprachraum - überwiesen
+- TOP 12.8: Uhr am Ullsteinhaus reparieren - überwiesen
+- TOP 12.9: Änderung des Geltungsbereichs des im Verfahren befindlichen vorhabenbezogenen Bebauungsplans 7-100 VE für das Grundstück Gotenstraße 26-33/ Ella-Barowsky-Straße 48-61 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13: Termin der nächsten Sitzung - erledigt
