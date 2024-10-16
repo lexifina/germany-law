@@ -1,0 +1,101 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2024-10-16T17:00:00+02:00
+- Ende: 2024-10-16T22:35:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5234
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=5234
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Neues Parkverbot / zukünftige Parkplatzsituation - beantwortet
+- TOP 1.2: Umweltschutz - beantwortet
+- TOP 1.3: Planung Flüchtlingsheim Sangerhauser Weg - beantwortet
+- TOP 1.4: Sangerhauserweg - beantwortet
+- TOP 1.5: Auswirkungen von Flüchtlingscontainern auf dem Parkplatz Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.6: Container im Sangerhauser Weg - beantwortet
+- TOP 1.7: Bebauung Parkplatz Sangerhauser Weg - beantwortet
+- TOP 1.8: Flüchtlingsheim Sangerhauser Weg - beantwortet
+- TOP 1.9: Flüchtlingscontainer Sangerhauser Weg - beantwortet
+- TOP 1.10: Containerdorf Sangerhauserweg - schriftlich beantwortet
+- TOP 1.11: Containerunterkunft am Sangerhauser Weg - schriftlich beantwortet
+- TOP 1.12: Flüchtlingsheim Sangerhauser Weg - schriftlich beantwortet
+- TOP 2: Aktuelle halbe Stunde "Zukunftsinvestitionen statt Haushaltssperre" - erledigt
+- TOP 3: Dringlichkeiten - (offen)
+- TOP 3.1: 1533/XXI - Wahl zur Bezirksstadträtin auf Vorschlag der aus den Fraktionen der SPD und Grünen bestehenden Zählgemeinschaft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Keine Kürzungen an den Schulen - Senat muss Klassenfahrten ermöglichen - in der BVV abgelehnt
+- TOP 4: Geschäftliches - (offen)
+- TOP 4.1: Konsensliste - Überweisungsliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Anträge des Kinder- und Jugendparlaments Neukölln - (offen)
+- TOP 5.1: Der U-Bahnhof Grenzallee soll schöner werden - ohne Änderungen in der BVV beschlossen
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Gegen antisemitische Gewalt und für ein friedliches Miteinander in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Keine Kürzungen im Neuköllner Bezirkshaushalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Aufrücken einer Nachrückerin zur stellvertretenden Bürgerdeputierten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Integriertes Innenentwicklungskonzept (IEK) für den Bereich S- und U-Bahnhof Neukölln / „Neuköllner Tor“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Wahl - (offen)
+- TOP 9.1: Wahl zur Bezirksstadträtin auf Vorschlag der aus den Fraktionen der SPD und Grünen bestehenden Zählgemeinschaft - gewählt
+- TOP 9.2: Nachwahl eines stellvertretenden Mitgliedes des Widerspruchsbeirates nach dem SGB IX und SGB XII - gewählt
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Problemlösung für Schulwegbeförderung behinderter Kinder zu lange ignoriert? - beantwortet
+- TOP 10.2: Saisonstart Eisstadion Neukölln - beantwortet
+- TOP 10.3: Einsparungen bei der Jugendberufshilfe in Neukölln - beantwortet
+- TOP 10.4: Keine Kontrolle der Sozialwohnungen durch das Bezirksamt in der Donaustraße 68 bis 70B? - beantwortet
+- TOP 10.5: Flüchtlingsunterkunft Sangerhauser Weg I - beantwortet
+- TOP 10.6: Jugendfreizeiteinrichtung Alte Dorfschule Alt-Buckow - beantwortet
+- TOP 10.7: (ehemalige) Sozialwohnungen in der Donaustraße - beantwortet
+- TOP 10.8: Evas Obdach sichern! - beantwortet
+- TOP 10.9: Was hat das Bezirksamt getan, um das Chaos beim Schulmittagessen zum Schulstart zu verhindern? - beantwortet
+- TOP 10.10: Wildwuchs in der Johannisthaler Chaussee 441? - schriftlich beantwortet
+- TOP 10.11: Bau des Radfahrstreifens südliche Sonnenallee - schriftlich beantwortet
+- TOP 10.12: Wird Neukölln Mittel aus dem Investitionsprogramm Ganztagsausbau des BMFSFJ beantragen? - schriftlich beantwortet
+- TOP 10.13: Setzt sich das Bezirksamt für die weitere Unterstützung von Schulen in herausfordernder Lage durch das Programm „Teach First“ ein? - schriftlich beantwortet
+- TOP 10.14: Flüchtlingsunterkunft Sangerhauser Weg II - schriftlich beantwortet
+- TOP 10.15: In der Karlsgarten-Grundschule bleibt die Küche kalt - wie lange noch? - schriftlich beantwortet
+- TOP 10.16: Wann kommt die Rückführungsanordnung? - schriftlich beantwortet
+- TOP 10.17: Flüchtlingsunterkunft Sangerhauser Weg III - schriftlich beantwortet
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Antisemitismus in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - ZB/SB - (offen)
+- TOP 12.1: Sicher zu Fuß entlang des Landwehrkanals - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Sichtbeziehungen an der Tankstelle verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Gefährliche Parkhausausfahrt an der Christoph-Ruden-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Sicherheit am Europaspielplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 14: Beschlussempfehlungen - (offen)
+- TOP 14.1: Expressbusverbindung von Buckow bis zur Sonnenallee - in der BVV abgelehnt
+- TOP 14.2: Maientage in 2025 wiederbeleben - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Maientage 2025! Neukölln möchte Zuckerwatte und Geisterbahn - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Klimaschutz in Neukölln ernst nehmen – Beschlüsse einhalten! - in der BVV abgelehnt
+- TOP 14.5: Alt-Buckow 37 für soziale Zwecke nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Verkehrszeichen auf Mittelstreifen Karl-Marx-Straße - in der BVV abgelehnt
+- TOP 14.7: Fuß- und Fahrradfreundliche Silbersteinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Grünanlage am Denkmal von Burak Bektas aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Parkverbot für LKW und Anhänger - in der BVV abgelehnt
+- TOP 14.10: Milieuschutz für die Weiße Siedlung - in der BVV abgelehnt
+- TOP 14.11: Ringbahnhöfe in öffentlicher Hand und im Sinne Neuköllns entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Veranstaltung zur Unterkunft am Sangerhauser Weg - beantwortet
+- TOP 15.2: Auswirkung der Schwarz-Roten Haushaltssperre auf Neukölln - vertagt
+- TOP 15.3: Ausgrenzung statt Integration durch den Bürgermeister und die Integrationsbeauftragte - vertagt
+- TOP 15.4: Schuld war nur die Technik? Desaster Info-Veranstaltung zur Flüchtlingsunterkunft am Sangerhauser Weg - vertagt
+- TOP 15.5: Endlich Festanstellungen für die Lehrkräfte an Musikschule und VHS? - vertagt
+- TOP 16: Große Anfragen - schriftlich - erledigt
+- TOP 17: Anträge - (offen)
+- TOP 17.1: Verkehrssicherheit im Eichenauer Weg - überwiesen
+- TOP 17.2: Zweite Informationsveranstaltung zur Gemeinschaftsunterkunft am Sangerhauser Weg - ohne Änderungen in der BVV beschlossen
+- TOP 17.3: Neuköllner Schifffahrtskanal für den Kiez weiterentwickeln - überwiesen
+- TOP 17.4: Musikalische und kulturelle Bildung sichern - Lehrkräfte an Musikschule und Volkshochschule festanstellen - überwiesen
+- TOP 17.5: SPD-Stadträtin Blumenthal von der Reservebank holen – Steuergeld sinnvoll einsetzen - in der BVV zurückgezogen
+- TOP 17.6: Soziale Nutzung der Hobrechtstraße 67 ermöglichen - überwiesen
+- TOP 17.7: Integration erleichtern – Geflüchtete auf den Buckower Feldern dezentral unterbringen - ohne Änderungen in der BVV beschlossen
+- TOP 17.8: Teupitzer Str. Ecke Kiehlufer sicherer machen - überwiesen
+- TOP 17.9: Versammlungsfreiheit gilt auch in Neukölln - überwiesen
