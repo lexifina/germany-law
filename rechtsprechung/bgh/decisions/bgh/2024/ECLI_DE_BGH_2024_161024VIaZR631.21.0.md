@@ -1,0 +1,193 @@
+---
+ecli: "ECLI:DE:BGH:2024:161024VIaZR631.21.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-06a"
+aktenzeichen: "VIa ZR 631/21"
+decided: "2024-10-16"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2024&Sort=1&Seite=97&nr=139408&anz=3636&pos=2929&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-06a_NA_2024-10-16_VIa_ZR_631_21_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0031.md", "germany/bund/acts/bgb/0823.md", "germany/bund/acts/bgb/0826.md", "germany/bund/acts/zpo/0128.md", "germany/bund/acts/zpo/0561.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VIa ZR 631/21 vom 2024-10-16
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                IM NAMEN DES VOLKES
+
+                         URTEIL
+VIa ZR 631/21
+
+
+
+                      in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2024:161024UVIAZR631.21.0
+
+                                          -2-
+
+
+
+    Der VIa. Zivilsenat des Bundesgerichtshofs hat im schriftlichen Verfahren gemäß
+    § 128 Abs. 2 ZPO, in dem Schriftsätze bis zum 23. September 2024 eingereicht
+    werden konnten, durch die Richterin Möhring, die Richter Dr. Götz, Dr. Rensen,
+    die Richterinnen Wille und Dr. Vogt-Beheim
+
+
+    für Recht erkannt:
+
+
+          Auf die Revision des Klägers wird der Beschluss des 16a. Zivilsenats des Oberlandesgerichts Stuttgart vom 18. Oktober 2021 im
+          Kostenpunkt und insoweit aufgehoben, als die Berufungsanträge
+          - mit Ausnahme der mit dem Berufungsantrag zu 1 begehrten Zinsen - betreffend die deliktische Schädigung des Klägers durch das
+          Inverkehrbringen des Fahrzeugs zurückgewiesen worden sind.
+
+          Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung
+          und Entscheidung, auch über die Kosten des Revisionsverfahrens,
+          an das Berufungsgericht zurückverwiesen.
+
+          Der Streitwert für die Revision wird auf bis 40.000 € festgesetzt.
+
+
+                                  Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Der Kläger nimmt die Beklagte wegen der Verwendung unzulässiger
+    Abschalteinrichtungen in einem Kraftfahrzeug auf Schadensersatz in Anspruch.
+
+                                           -3-
+
+
+
+2         Er erwarb im Oktober 2016 von der Beklagten einen gebrauchten
+    Mercedes-Benz E 220d Cabriolet zum - teilweise darlehensfinanzierten -
+    Kaufpreis von 42.000 €. Das Fahrzeug ist mit einem Dieselmotor der Baureihe
+    OM 651 (Schadstoffklasse Euro 6) ausgestattet. In dem Fahrzeug wird die
+    Abgasrückführung unter Einsatz eines sogenannten Thermofensters temperaturabhängig gesteuert.
+
+
+3         Der Kläger hat die Beklagte unter den Gesichtspunkten des gewährleistungsrechtlich gerechtfertigten Rücktritts vom Kaufvertrag und seiner deliktischen
+    Schädigung durch das Inverkehrbringen des Fahrzeugs in Anspruch genommen.
+    Er hat zuletzt den Ersatz der geleisteten Anzahlung und der gezahlten Darlehensraten abzüglich einer Nutzungsentschädigung nebst Deliktszinsen sowie
+    Freistellung von bestehenden Darlehensverbindlichkeiten Zug um Zug gegen
+    Übergabe und Übereignung des Fahrzeugs (Berufungsantrag zu 1) begehrt. Ferner hat er die Feststellung des Annahmeverzugs der Beklagten (Berufungsantrag
+    zu 2) sowie die Erstattung von vorgerichtlichen Rechtsanwaltskosten nebst Prozesszinsen und die Freistellung von weiteren vorgerichtlichen Rechtsanwaltskosten (Berufungsantrag zu 3) verlangt.
+
+
+4         Das Landgericht hat die Klage abgewiesen. Die Berufung des Klägers ist
+    erfolglos geblieben. Mit seiner vom Senat insoweit zugelassenen Revision verfolgt der Kläger seine Berufungsanträge mit Ausnahme der mit dem Berufungsantrag zu 1 begehrten Zinsen weiter, soweit er die Anträge auf seine deliktische
+    Schädigung durch das Inverkehrbringen des Fahrzeugs stützt.
+
+
+                                 Entscheidungsgründe:
+
+5         Die Revision des Klägers hat Erfolg.
+
+                                           -4-
+
+
+
+                                            I.
+
+
+6          Das Berufungsgericht hat seine Entscheidung - soweit für das Revisionsverfahren von Bedeutung - im Wesentlichen wie folgt begründet:
+
+
+7          Ein Anspruch gemäß §§ 826, 31 BGB bestehe nicht. Jedenfalls die Behauptung des Klägers, Repräsentanten der Beklagten hätten vorsätzlich eine
+     manipulativ ausgestaltete Abschalteinrichtung im streitgegenständlichen Fahrzeug eingesetzt, sei mangels tatsächlicher Anhaltspunkte als Vortrag ins Blaue
+     hinein nicht zu berücksichtigen. Im Übrigen sei hinsichtlich der temperaturabhängigen Steuerung der Abgasrückführung weder eine Täuschung des Kraftfahrt-Bundesamts hierüber ersichtlich noch, dass die Beklagte insoweit vorsätzlich gehandelt habe. Ein Anspruch folge auch nicht aus § 823 Abs. 2 BGB in Verbindung
+     mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV, weil es sich bei den zuletzt genannten Normen nicht um Gesetze zum Schutz des Vermögensinteresses von Fahrzeugerwerbern handele.
+
+
+                                            II.
+
+
+8          Diese Erwägungen halten der Überprüfung im Revisionsverfahren nicht
+     in allen Punkten stand.
+
+
+9          1. Allerdings begegnet es keinen revisionsrechtlichen Bedenken, dass
+     das Berufungsgericht eine Haftung der Beklagten aus §§ 826, 31 BGB verneint
+     hat. Die Revision erhebt insoweit auch keine konkreten Einwände.
+
+
+10         2. Die Revision wendet sich jedoch mit Erfolg dagegen, dass das Berufungsgericht eine Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung
+
+                                            -5-
+
+
+
+     mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV abgelehnt hat. Wie der Senat nach Erlass
+     des angefochtenen Beschlusses entschieden hat, sind die Bestimmungen der
+     § 6 Abs. 1, § 27 Abs. 1 EG-FGV Schutzgesetze im Sinne des § 823 Abs. 2 BGB,
+     die das Interesse des Fahrzeugkäufers gegenüber dem Fahrzeughersteller wahren, nicht durch den Kaufvertragsabschluss eine Vermögenseinbuße im Sinne
+     der Differenzhypothese zu erleiden, weil das Fahrzeug entgegen der Übereinstimmungsbescheinigung eine unzulässige Abschalteinrichtung im Sinne des
+     Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 aufweist (vgl. BGH, Urteil
+     vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 29 bis 32).
+
+
+11         Das Berufungsgericht hat daher zwar zu Recht einen Anspruch des Klägers auf die Gewährung sogenannten "großen" Schadensersatzes verneint (vgl.
+     BGH, Urteil vom 26. Juni 2023 - VIa ZR 335/21, BGHZ 237, 245 Rn. 22 bis 27).
+     Es hat jedoch nicht berücksichtigt, dass dem Kläger nach § 823 Abs. 2 BGB in
+     Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV ein Anspruch auf Ersatz eines
+     erlittenen Differenzschadens zustehen kann (vgl. BGH, Urteil vom 26. Juni 2023,
+     aaO, Rn. 28 bis 32; ebenso BGH, Urteile vom 20. Juli 2023 - III ZR 267/20, WM
+     2023, 1839 Rn. 21 ff.; - III ZR 303/20, juris Rn. 16 f.; Urteil vom 12. Oktober 2023
+     - VII ZR 412/21, juris Rn. 20). Demzufolge hat das Berufungsgericht - von seinem Rechtsstandpunkt aus folgerichtig - weder dem Kläger Gelegenheit zur Darlegung eines solchen Schadens gegeben, noch hat es Feststellungen zu einer
+     deliktischen Haftung der Beklagten wegen des zumindest fahrlässigen Einbaus
+     einer unzulässigen Abschalteinrichtung getroffen.
+
+
+                                             III.
+
+
+12         Der angefochtene Beschluss ist in dem aus dem Tenor ersichtlichen Umfang aufzuheben, § 562 Abs. 1 ZPO, weil er sich insoweit nicht aus anderen
+
+                                           -6-
+
+
+
+     Gründen als richtig darstellt, § 561 ZPO. Der Senat kann im Umfang der Aufhebung nicht in der Sache selbst entscheiden, weil diese nicht zur Endentscheidung
+     reif ist, § 563 Abs. 3 ZPO. Sie ist daher insoweit zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen, § 563 Abs. 1 Satz 1
+     ZPO.
+
+
+13          Im wiedereröffneten Berufungsverfahren wird der Kläger Gelegenheit haben, einen Differenzschaden darzulegen. Das Berufungsgericht wird sodann
+     nach den näheren Maßgaben des Urteils des Senats vom 26. Juni 2023
+     (VIa ZR 335/21, BGHZ 237, 245) die erforderlichen Feststellungen zu der Verwendung einer unzulässigen Abschalteinrichtung sowie gegebenenfalls zu den
+     weiteren Voraussetzungen und zum Umfang einer Haftung der Beklagten nach
+     § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV zu treffen
+     haben.
+
+
+
+
+     Möhring                                 Götz                             Rensen
+
+
+                        Wille                                  Vogt-Beheim
+
+
+
+
+     Vorinstanzen:
+     LG Stuttgart, Entscheidung vom 23.05.2019 - 9 O 269/18 -
+     OLG Stuttgart, Entscheidung vom 18.10.2021 - 16a U 108/19 -
+
+                                    -7-
+
+
+
+Verkündet am:
+16. Oktober 2024
+Wendt, Justizangestellte
+als Urkundsbeamtin der Geschäftsstelle
