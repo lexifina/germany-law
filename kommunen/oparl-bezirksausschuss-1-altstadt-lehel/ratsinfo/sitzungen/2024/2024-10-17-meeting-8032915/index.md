@@ -1,0 +1,102 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2024-10-17T19:15:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8032915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8032915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Benennung neuer UA-Mitglieder
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Ortstermin "Heimwerk" Tal 15 vom 02.07.2024 um 14:00 Uhr: Vorstellung der Pläne, TOP 24.06 B 0.1, 24.09 B 0.1
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag FW/FDP-Fraktion: Prüfung und Ergänzung des Baumbestandes in der Obermaierstraße
+- TOP 1.2.: Antrag FW/FDP-Fraktion: Planungskosten Viktualienmarkt
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Damenstifterstr.16, Renovierung mit Modernisierung des Bestandshotels Münchner Kindl; Frist: 26.10.2024
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024, Anhörung zum Beschlussentwurf; Frist: 30.10.2024
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen Baumpflanzungen Herrnstr.
+- TOP 1.2.: Bürger*innenanliegen Duales Parken Müllerstraße
+- TOP 1.3.: Bürger*innenanliegen Blitz-Aktion
+- TOP 1.4.: Bürgerinnenanliegen Anwohnerbeschwerde Füßgängerzone Westenriederstr.
+- TOP 1.5.: Bürger*innenanliegen Fehlbelegung E-Ladesäulen / Öffentliche Ladestationen
+- TOP 1.6.: Antrag Die Grünen/SPD/ÖDP: Keine IAA in der Altstadt
+- TOP 2: Entscheidungen
+- TOP 2.1.: Taxistandplatz Max-Joseph-Platz: Verlegung Richtung Osten in die Maximilianstraße und Verlegung der allgemeinen Behindertenparkplätze am Nationaltheater
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung einer Teilstrecke des Sendlinger-Tor-Platzes
+- TOP 2.3.: (E) Straßenmusik Sendlinger Straße und Musik im Ladenzentrum Hofstatt
+- TOP 2.4.: (E) Feuerwerksverbot im Tal, in der Westenriederstraße und in den Nebenstraßen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Steinsdorfstraße Parklizenzgebiet Südliches Lehel
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Fahrradständer vor dem Theresia-Gerhardinger-Gymnasium
+- TOP 3.2.2.: Nachtspaziergang; Frist: 24.10.2024
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative Pop Up Konzept Show.up, 01.11. - 14.11.2024 1.400,00 €; AZ 0262.0-1-0379
+- TOP 2.1.2.: (E) Stadtbezirksbudget Glockenbachwerkstatt e. V. Hip Hop Open Mic Session, 07.01.2025 - 02.12.2025 1.306,25 €; AZ 0262.0-1-0380
+- TOP 2.2: Gaststättenangelegenheiten
+- TOP 2.2.1.: (E) Schanigärten nur für Lokale ohne Freischankfläche genehmigen
+- TOP 2.3: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Friedensgebet am 19.11.24 vom Frauenplatz; Termin: 04.11.2024
+- TOP 3.2.: Bestellungen städtischer Leistungen durch die Bezirksausschüsse; Evaluierung des Stadtbezirksbudgets für die Jahre 2021 bis 2024; Frist: 31.10.2024, TOP 24.09 D 3.8
+- TOP 3.3.: Prinzenpaarproklamation Würmesia am 11.11.2024; Termin: 04.11.2024
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Berichte der BA-Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Wohnungsbauoffensive: Erleichterungen für den Wohnungsbau und Optimierung Bebauungsplanverfahren A) Maßnahmen in der Bebauungsplanung, der Wohnungsbauförderung und in Baugenehmigungsverfahren B) Anträge
+- TOP B 4.4.: Rückerstattung von Heizkosten
+- TOP C 4: Unterrichtungen - Mobilität und öffentlicher Raum
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Sprengung von Brief- u. Päckchenbomben zu Demonstrationszwecken am 10.10.2024 im Innenhof der Max-Planck-Gesellschaft, Hofgartenstr. 8
+- TOP C 4.3.: Fahrradabstellflächen im nördlichen Lehel, weiteres Schreiben Baureferat
+- TOP C 4.4.: Abstellflächen Motorräder Lion-Feuchtwanger-Platz, Antwort Baureferat auf Bürger*innenanliegen
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Gastronomie und Budget
+- TOP D 4.1.: Stadtbezirksbudget Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Gaststättenfortführungen
+- TOP D 4.4.: Eilentscheidung Beschlussvorlage Fasching 2025 auf dem Viktualienmarkt
+- TOP D 4.5.: Zamanand / Corso Leopold: Reservierte Termine 2025
+- TOP 2.1.: Sendlinger-Tor-Platz 11, Genehmigung einer Freischankfläche
+- TOP 2.2.: Löwengrube 18, Genehmigung einer Freischankfläche
+- TOP 3.4.: Christkindlmarkt am Sendlinger Tor Platz 25.11.-22.12.2024; Termin: 05.11.2024
+- TOP 3.1.2.: Tal 38, Nutzungsänderung Möbel Ausstellung in eine Gaststätte mit 340 Gastplätzen; Frist:14.11.2025
+- TOP 1.3.: Bürger*innenanliegen Straßenbäume mit Wurzelverletzungen in der Steinsdorfstraße
+- TOP 1.7.: Bürger*innenanliegen Herzog-Rudolf-Straße
+- TOP 1.8.: Bürger*innenanliegen Erhöhung Leerungsfrequenz Container Knöbelstraße
+- TOP 1.9.: Bürger*innenanliegen Pilotprojekt Gelber Sack
+- TOP 1.10.: Bürger*innenanliegen Funkmast Liebigstraße
