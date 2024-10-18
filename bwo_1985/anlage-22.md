@@ -1,44 +1,38 @@
-# Anlage 22 (zu § 39 Abs. 4 Nr. 1)
+# Anlage 22 (zu § 39 Absatz 4 Nummer 1)
 
 Zustimmungserklärung und Versicherung an Eides statt
 zur Parteimitgliedschaft für Bewerber einer Landesliste
-| Ich |  |
-|  | Familienname: ................................................................................................................................................................................................................................................................ |
-|  | Vornamen: ....................................................................................................................................................................................................................................................................... |
-|  | Geburtsdatum: ................................................................................................................................................................................................................................................................. |
-|  | Geburtsort: ....................................................................................................................................................................................................................................................................... |
-|  | Beruf oder Stand: ............................................................................................................................................................................................................................................................ |
-|  | Anschrift (Hauptwohnung) |
-|  | Straße, Hausnummer: ..................................................................................................................................................................................................................................................... |
-|  | Postleitzahl, Wohnort: ...................................................................................................................................................................................................................................................... |
-| stimme meiner Benennung als Bewerber in der Landesliste |
-| der ........................................................................................................................................................................................................................................................................................... (Name der Partei und ihre Kurzbezeichnung) |
-|  |
-| für das Land ............................................................................................................................................................................................................................................................................ (Name des Landes) |
-| zur Wahl zum ....................... Deutschen Bundestag |
-| zu. |
-|  |
-| Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe. Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei und kein Bewerber nach § 20 Absatz 3 des Bundeswahlgesetzes bin. |
-|  |
-| Ich habe außerdem meiner Benennung als Bewerber in dem Kreiswahlvorschlag |
-| der ............................................................................................................................................................................................................................................................................................ (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort) |
-| für den Wahlkreis .................................................................................................................................................................................................................................................................... (Nummer und Name) |
-| zugestimmt. |
-|  |  | ................................................................., den ........................................ |
-|  |  |  |
-|  |  |  |
-|  |  | ....................................................................................................................(Persönliche und handschriftliche Unterschrift) |
-|  |  |  |
-| Datenschutzhinweise auf der Rückseite |
+| Ich |
+| Familienname: | .......... |
+| Vornamen: | .......... |
+| Geburtsdatum: | .......... |
+| Geburtsort: | .......... |
+| Beruf oder Stand: | .......... |
+| Anschrift (Hauptwohnung) |
+| Straße, Hausnummer: | .......... |
+| Postleitzahl, Wohnort: | .......... |
+| stimme meiner Benennung als Bewerber in der Landesliste der |
+|  | .......... (Name der Partei und ihre Kurzbezeichnung) |
+| für das Land .......... | (Name des Landes) |
+| zur Wahl zum .......... Deutschen Bundestag zu. | zur Wahl zum .......... | Deutschen Bundestag zu. |
+| Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe. |
+| Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei und kein Bewerber nach § 20 Absatz 3 des Bundeswahlgesetzes bin. |
+| Ich habe außerdem meiner Benennung als Bewerber in dem Kreiswahlvorschlag der .......... |
+| (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort) |
+| für den Wahlkreis .......... | zugestimmt. |
+| (Nummer und Name) |
+| .........., den .......... |  | .......... (Persönliche und handschriftliche Unterschrift) |
+__________
+Datenschutzhinweise auf der Rückseite
 Rückseite
 der Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber einer Landesliste
 Informationen zum Datenschutz
 Die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten sind notwendig, um Ihre Zustimmung zur Benennung als Bewerber einer Landesliste nach § 27 Absatz 4 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
 Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Zustimmungserklärung ist aber nur mit diesen Angaben gültig.
 Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist die den Wahlvorschlag einreichende Partei
-(..............................................................................................................................................................................................................................).
+(.......... ).
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
-..............................................................................................................................................................................................................................
+..........
 Die Partei reicht Ihre Zustimmungserklärung beim Landeswahlleiter ein. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 Im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Bundeswahlleiter und dem Bundeswahlausschuss übermittelt werden.
 Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, des sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
@@ -46,3 +40,4 @@ Sofern die Landesliste vom Landeswahlausschuss zugelassen wird, werden Ihre Date
 Diese Zustimmungserklärung kann 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 3 Bundeswahlordnung.
 Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß Artikel 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei zu beschweren.
+_________
