@@ -1,5 +1,6 @@
 # Anlage 12 (zu § 28 Absatz 3)
 
+Vorderseite des Merkblatts zur Briefwahl
 Sehr geehrte Wählerin!
 Sehr geehrter Wähler!
 Anbei erhalten Sie die Unterlagen für die Wahl zum ……………………………… Deutschen Bundestag in dem auf dem Wahlschein bezeichneten Wahlkreis:
