@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2024-10-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7973734
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7973734
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 16.09.2024
+- TOP 1.2.: Benennung neues Mitglied im Unterausschuss Verkehr
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Parksituation Baldurstr. / Homerstr., Dantebad
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau, Umwelt, Klima und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Sicher im Verkehr unterwegs: Pelkovenstraße - Ad-hoc-Maßnahmen zur Erhöhung der Verkehrssicherheit für den KFZ- und Radverkehr
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget BIKU e.V. -Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Moosach Olympia vom 01.01. -31.12.2025 6.500,00€; Az. 0262.0-10-0395
+- TOP 5.2.: (E) Stadtbezirksbudget BIKU e.V. -Verein für Bildung und Kultur Mädchen an den Ball! Mädchenfußball im Bezirk 10 Moosach PSV vom 01.01. -31.12.2025 6.500,00€; Az. 0262.0-10-0394
+- TOP 5.3.: (E) Stadtbezirksbudget DIE LINIE 1 - Kulturverein München-Moosach e.V. Theaterprojekt Gretchen 89 ff, 24.10.2024 - 31.03.2025 3.000,00 €; AZ 0262.0-10-0396
+- TOP 5.4.: (E) Stadtbezirksbudget Init. "Theaterstück Tito" Tito, mein Vater und ich vom 15. -17.11.2024 712,50€; 0262.0-10-0397
+- TOP 5.5.: (E) Stadtbezirksbudget Init. "fra le mura" Arbeitstitel: Pilgerreise nach Montserrat von September 2024 -Juli 2025 4.400,00€; Az. 0262.0-10-0398
+- TOP 5.6.: (E) Wieder-Öffnung des Zugangs zum S-Bahn-Bahnsteig "Bhf. Moosach" (Prüfung Zugangsrechte der DB) und Anbringung von Hinweisschildern
+- TOP 6.: Anhörungen
+- TOP 6.1.: BA-Anhörung: Der Bezirksausschuss 17 Obergiesing-Fasangarten bittet die Bezirksausschüsse um Unterstützung bezüglich seines BA-Antrages Nr. 20-26 / B 07002: "Digitale Schaukästen für die Bezirksausschüsse"
+- TOP 6.2.: Beschlussvorlage "Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024"
+- TOP 6.3.: Christbaumverkauf 2024 auf städt. Flst. 1426 Tlfl. Gemarkung Moosach, an der Allacher Str.
+- TOP 6.4.: Nikolausfeier in der Borstei am 06.12.2024
+- TOP 6.6.: Verkauf oder Erbbaurechtsvergabe einer städtischen Immobilie in der Dachauer Str. - nicht-öffentlich -
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen in der Hanauer Straße im Abschnitt zwischen Dachauer Straße und Georg-Brauchle-Ring
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Begrünung des Seitenstreifens entlang der Dachauer Straße 527 - 511
+- TOP 7.2.: Barrierearmen Übergang in der Baubergerstraße in Höhe Bushaltestellen "Warschauer Straße" realisieren
+- TOP 7.3.: Öffnung der Breslauer Straße für Fahrradverkehr in beiden Fahrtrichtungen ermöglichen
+- TOP 6.7.: Erhöhung der Verkehrssicherheit - Antrag zur Errichtung eines Vorgezogenen Seitenraums (sog. „Gehwegnase“) an der Baubergerstraße gegenüber der Einmündung Röthstraße
+- TOP 7.4.: Fußgängerüberweg über die Ehrenbreitsteiner Straße/Höhe des Fußweges südlich des Mediamarktes
+- TOP 7.5.: Antrag auf eine "Stadtteilkulturwoche" im 10. Stadtbezirk Moosach ("Stadtteilfestival")
+- TOP 7.6.: Hochwasser in der "Trinkl-Siedlung", 80997 München ab 31.05.2024 1. Reinigung der Drainagen in der Trinkl-Siedlung 2. Reinigung und Renaturierung des Hartmannshofer Bächl und Schwabenbächl
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 8.2.: (U) Siedlungsentwicklung und Infrastrukturversorgung 2023-2027
+- TOP 8.3.: (U) PERSPEKTIVE MÜNCHEN Entwurf des Stadtentwicklungsplans STEP 2040 „München – Stadt im Gleichgewicht“ Grundsatzbeschluss zur überarbeiteten Fassung des Stadtentwicklungsplanes nach Beteiligungsprozess Weiteres Vorgehen, Ressourcenbedarfe
+- TOP 8.4.: Mobilfunksuchkreismeldung am Georg-Brauchle-Ring - nicht-öffentlich -
+- TOP 8.5.: Genehmigung Zweckentfremdung von Wohnraum: Dresdner Str. - nicht-öffentlich -
+- TOP 8.6.: Einstellung Vorkaufsrecht in Erhaltungssatzungsgebieten - nicht-öffentlich -
+- TOP 4.1.2.: Winterfeste Gestaltung des Interims-Durchgangs der Eisenbahnüberführung Dachauer Str.
