@@ -1,0 +1,185 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2024-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7966880
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7966880
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Einwohner*innen haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Protokoll 2024-09
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Schreiben von Bürger*innen
+- TOP 6.1.: Erweiterung Parklizenzgebiet Sendling Westpark
+- TOP 6.2.: Gehweg Wessobrunner Straße
+- TOP 6.3.: Antrag auf Geschwindigkeitsbegrenzung auf der Sachsenkamstraße Lärmbelästigung und Verkehrssicherheit
+- TOP 6.4.: Westpark München allgemeiner Zustand
+- TOP 6.5.: Ampel Waldfriedhof
+- TOP 6.6.: Anfrage Umbau Albert-Roßhaupter Straße
+- TOP 6.7.: Geplantes vorgesehenes Parklizenzgebiet Fernpaß-Strasse bis Mittlerer Ring
+- TOP 6.8.: Ampelschaltung Fugger/Hansastraße
+- TOP 6.9.: Feuerwehrzufahrt-Gottfried-Böhm-Ring
+- TOP 6.10.: Parksituation Klingerstr.
+- TOP 6.11.: Amphibienschutz Westpark
+- TOP 6.12.: Anfrage hinsichtlich Baustelleneinrichtung und resultierender Parksituation für Anwohner
+- TOP 6.13.: Sanierung Fahrbahn Gehweg Ortlerstrasse sowie Drachenseestrasse
+- TOP 6.14.: Behindertenparkplatz Eichstätterstr.
+- TOP 6.15.: Lärmimmissionen aufgrund von Veranstaltungen Luise-Kiesselbach-Platz
+- TOP 6.16.: Flüchtlingsheim Albert-Rosshaupter-Straße
+- TOP 6.17.: Antrag Asphaltierung Krüner Straße
+- TOP 6.18.: Verkehrssituation Kreuzung Zielstatt/Passauerstr.
+- TOP 6.19.: Beschwerde/Eingabe - Erweiterung Parkzone Treffauerstraße
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Projektplangenehmigung Gilmstrasse
+- TOP 10.: Budget
+- TOP 10.1.: (E) Stadtbezirksbudget LUMA e.V. „Kulturelles Adventsprogramm von LUMA e.V. im Café Gans am Wasser vom 29.11.2024 – 01.01.2025“ 3.900,00 € / AZ: 0262.0-7-0498
+- TOP 10.2.: (E) Stadtbezirksbudget SV von 1880 München e.V. „Winterfreizeit vom 02.03.2025 – 08.03.2025“ 5.146,00 € / AZ: 0262.0-7-0474
+- TOP 10.3.: Zuschuss Kinderfasching 2025 im SV1880 München
+- TOP 11.: Anträge
+- TOP 11.1.: Sichere Überquerung des Fahrradwegs Konrad-Celtis-Schule
+- TOP 11.2.: Bestellung städtische Leistung Fahrradservicestation Gilmstraße
+- TOP 11.3.: Zusatzpflanzungen Heckenstaller Park
+- TOP 11.4.: Fahrradzonen in Sendling-Westpark
+- TOP 11.5.: T30 in der Westendstraße in nordöstliche Fahrtrichtung
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.1: Bau, Stadtplanung und Umwelt
+- TOP 12.2: Bildung und Sport
+- TOP 12.3: Haushalt
+- TOP 12.4: Soziales und Kultur
+- TOP 12.4.1.: Einladung SuK
+- TOP 12.5: Mobilität und Wirtschaft
+- TOP 12.6: Parks und Grünanlagen
+- TOP 12.6.1.: Einladung PuG
+- TOP 13.: Berichte der Beauftragten
+- TOP 13.1: Bericht des Vorsitzenden
+- TOP 13.2: Beauftragte gegen Rechtsextremismus
+- TOP 13.3: Beauftragte für Menschen mit Behinderung und Inklusionsbeauftragte
+- TOP 13.4: Delegierte aus dem Migrationsbeirat
+- TOP 13.5: Gleichstellungsbeauftragte
+- TOP 13.6: Internetbeauftragte
+- TOP 13.7: Jugendbeauftragte
+- TOP 13.8: Kinderbeauftragte
+- TOP 13.9: Mieterbeirat
+- TOP 13.10: Migrations- und Integrationsbeauftragter
+- TOP 13.11: REGSAM-Beauftragter
+- TOP 13.12: Seniorenbeauftragter
+- TOP 14.: Baumfällungen
+- TOP 14.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 18.: Baureferat
+- TOP 18.1.: Bestellung städtischer Leistungen_ Neue Parkbänke
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Mobilitätsreferat
+- TOP 25.1.: Wessobrunner Straße Gehtsemane Kirche
+- TOP 26.: Referat für Arbeit und Wirtschaft
+- TOP 27.: Referat für Bildung und Sport
+- TOP 27.1.: Schul- und Kitabauoffensive
+- TOP 28.: Referat für Gesundheit
+- TOP 29.: Referat für Klimaschutz und Umwelt
+- TOP 30.: Referat für Stadtplanung und Bauordnung
+- TOP 31.: Sozialreferat
+- TOP 32.: Weitere Anhörungen
+- TOP 32.1.: Unterstützung Antrag BA17 Digitale Schaukästen für die Bezirksausschüsse
+- TOP 33.: Baureferat
+- TOP 33.1.: Erhöhung der Artenvielfalt im Straßenbegleitgrün
+- TOP 33.2.: Errichtung von PV-Anlagen auf städtischen Dächern
+- TOP 33.3.: Umbau Johann-Clanze-Straße
+- TOP 34.: Büro des Oberbürgermeisters
+- TOP 35.: Direktorium
+- TOP 36.: Kommunalreferat
+- TOP 37.: Kreisverwaltungsreferat
+- TOP 38.: Kulturreferat
+- TOP 39.: Lokalbaukommission
+- TOP 39.1.: Baulisten
+- TOP 40.: Mobilitätsreferat
+- TOP 40.1.: Antwortschreiben MIP-Beschluss
+- TOP 40.2.: Ampel Garmischer-/ Hinterbärenbadstraße
+- TOP 40.3.: Anordnung eines Tempolimits auf 30 km/h in der Westendstraße in nordöstliche Fahrtrichtung
+- TOP 40.4.: Das Mobiltätsreferat der LHM erstellt ein umfassendes Konzept zur Priorisierung des ÖPNVs während der Baumaßnahme der Tram-Westtangente
+- TOP 40.5.: Haltverbot Scharnitzstraße
+- TOP 41.: Referat für Arbeit und Wirtschaft
+- TOP 41.1.: Geplante Schließung Postfillialen
+- TOP 42.: Referat für Bildung und Sport
+- TOP 43.: Referat für Gesundheit
+- TOP 44.: Referat für Klimaschutz und Umwelt
+- TOP 45.: Referat für Stadtplanung und Bauordnung
+- TOP 45.1.: Planfeststellungsverfahren Sendlinger Spange, Bahnhof Heimeranplatz
+- TOP 45.2.: Infoschreiben Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt
+- TOP 45.3.: Tram-Westtangente, Plangenehmigung
+- TOP 45.4.: Areal am Ende der A95
+- TOP 46.: Sozialreferat
+- TOP 46.1.: Zwischenmitteilung Mit Seniorenbriefen die gesellschaftliche Teilhabe der älteren Generation verbessern
+- TOP 47.: Weiterer Schriftverkehr
+- TOP 48.: Amtsblatt
+- TOP 49.: Baureferat
+- TOP 50.: Büro des Oberbürgermeisters
+- TOP 51.: Direktorium
+- TOP 51.1.: Verwendungsnachweise
+- TOP 52.: Kommunalreferat
+- TOP 52.1.: Information zur Erweiterung der Unterkunft für Geflüchtete in der Gerty-Spies-Str.
+- TOP 53.: Kreisverwaltungsreferat
+- TOP 53.1.: Bescheid, Luise-Kiesselbach-Platz, 15 jähriges Vereinsjubiläum, Maibaumverein Sendling-Westpark
+- TOP 53.2.: Bescheid, Westpark, Laternenumzug des Kinderhaus Montessori
+- TOP 53.3.: Bescheid, Westpark, Clematiswiese, Spielenachmittage des RBS
+- TOP 54.: Kulturreferat
+- TOP 55.: Lokalbaukommission
+- TOP 56.: Mobilitätsreferat
+- TOP 56.1.: Hinterbärenbadstr Stellplatzumwandlung mit Lastenrad
+- TOP 56.2.: Lermooser Weg/Alfred-Ludwig-Weg-Unterführung Ammerseestr
+- TOP 56.3.: Arbeitsstelle Straßenraum Höhe Farchanter Straße
+- TOP 56.4.: Verkehrsrechtliche Anordnung Unterführung Waldfriedhof
+- TOP 56.5.: VRA Schulenburgstr.
+- TOP 57.: Referat für Arbeit und Wirtschaft
+- TOP 58.: Referat für Bildung und Sport
+- TOP 59.: Referat für Gesundheit
+- TOP 60.: Referat für Klimaschutz und Umwelt
+- TOP 61.: Referat für Stadtplanung und Bauordnung
+- TOP 62.: Sozialreferat
+- TOP 62.1.: Unterrichtungen Erhaltungssatzung
+- TOP 63.: Weitere Unterrichtungen
+- TOP 63.1.: Flyer Martin-Behaim-Straße
+- TOP 64.: Verschiedenes
+- TOP 65.: nichtöffentliche Tagesordnungspunkte
+- TOP 31.1.: Neueröffnung von Unterkünften
+- TOP 13.1.1.: Bericht des Vorsitzenden 2024-10
+- TOP 13.12.2.: Bericht des Vorsitzenden
+- TOP 13.1.2.: Umfrage Wessobrunner Str
+- TOP 13.1.3.: Protokoll erweiterter Vorstand BA7
+- TOP 6.20.: Veranstaltung Luise Kiesselbachplatz kommendes Wochenende
+- TOP 12.1.1.: Einladung Bau,Stadtplanung und Umwelt
+- TOP 12.3.1.: Einladung UA-Haushalt
+- TOP 12.6.2.: Protokoll UA PuG
+- TOP 12.1.2.: Protokoll BSU
+- TOP 12.4.2.: Protokoll SuK
+- TOP 13.11.1.: Protokoll
+- TOP 13.12.1.: Bericht
+- TOP 31.2.: Verlängerung 5 Standorte
+- TOP 12.2.1.: Protokoll UA-BuS
+- TOP 12.3.2.: Protokoll HHA
+- TOP 16.1.: Anhörung, Luise-Kiesselbach-Platz, Winterdorf
+- TOP 6.21.: Gehwegparken im Umfeld Wessobrunnerstraße
+- TOP 6.22.: Gehwegparken Mittenwalder Straße
