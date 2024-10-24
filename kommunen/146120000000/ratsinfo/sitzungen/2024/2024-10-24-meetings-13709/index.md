@@ -1,0 +1,110 @@
+# 3. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2024-10-24T16:00:00+02:00
+- Ende: 2024-10-24T23:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/13709
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/13709
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00782035.pdf
+- Ergebnisprotokoll: Niederschrift_öffentlich http://oparl.dresden.de/bodies/0001/downloadfiles/a/00795414.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1. Runde)
+- TOP 3.1: Erhalt 10-Minuten Grundtakt von Bus und Bahn in Dresden
+- TOP 3.2: Kitaqualität
+- TOP 3.3: Richard-Wagner-Akademie
+- TOP 3.4: Streichung Schulsozialarbeit
+- TOP 3.5: Zukunft des Elbamare
+- TOP 3.6: Verstöße gegen die Grünflächensatzung
+- TOP 3.7: Zukunft der Dresdner Außengastronomie
+- TOP 3.8: Prüfberichte/Gutachten zur Carolabrücke
+- TOP 3.9: Themen um die Carolabrücke
+- TOP 4: Fragestunde der Mitglieder des Stadtrates (2. Runde)
+- TOP 4.1: Kürzungen Jugendhilfe
+- TOP 4.2: Instandsetzung der Carolabrücke
+- TOP 4.3: Kürzungen im Gesundheitsbereich
+- TOP 4.4: Verkehrssituation bei Veranstaltungen in der Messe
+- TOP 4.5: Härtefallregelung für Kita-Gebühren
+- TOP 4.6: Neubau einer Richard-Wagner-Akademie
+- TOP 4.7: Fahrradweg Bautzner Landstraße
+- TOP 4.8: Absicherung Schulsozialarbeit
+- TOP 4.9: "Carola-Uhren"
+- TOP 5: Einigungsverfahren Gremienbesetzung
+- TOP 5.1: Ausscheiden eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 5.2: Umbesetzung Stellvertretung Jugendhilfeausschuss - Zustimmung
+- TOP 5.3: Besetzung des Klimabeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt - Vertagung
+- TOP 5.4: Besetzung des Integrations- und Ausländerbeirates - gewählt
+- TOP 5.5: Wahl einer Stellvertreterin/eines Stellvertreters für den Oberbürgermeister in die Anteilseignerversammlung der Sachsen-Finanzgruppe - gewählt
+- TOP 5.6: Wahl der Vertreterinnen/Vertreter der Landeshauptstadt Dresden und ihrer Stellvertreterinnen/Stellvertreter in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - gewählt
+- TOP 5.7: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - gewählt
+- TOP 5.8: Besetzung des Aufsichtsrates der BUGA Dresden 2033 gGmbH - gewählt
+- TOP 5.9: Besetzung des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - gewählt
+- TOP 5.10: Besetzung des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - gewählt
+- TOP 5.11: Besetzung des Aufsichtsrates der Dresden Marketing GmbH - gewählt
+- TOP 5.12: Besetzung des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - Benennung
+- TOP 5.13: Besetzung des Aufsichtsrates der EnergieVerbund Dresden GmbH - Benennung
+- TOP 5.14: Besetzung des Aufsichtsrates der Flughafen Dresden GmbH - gewählt
+- TOP 5.15: Besetzung des Aufsichtsrates der Kommunale Immobilien Dresden GmbH & Co. KG - gewählt
+- TOP 5.16: Besetzung des Aufsichtsrates der Messe Dresden GmbH - gewählt
+- TOP 5.17: Besetzung des Aufsichtsrates der NanoelektronikZentrumDresden GmbH - gewählt
+- TOP 5.18: Besetzung des Aufsichtsrates der SachsenEnergie AG - gewählt
+- TOP 5.19: Besetzung des Aufsichtsrates der SachsenNetze HS.HD GmbH - Benennung
+- TOP 5.20: Besetzung des Aufsichtsrates der SachsenNetze GmbH - Benennung
+- TOP 5.21: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - Benennung
+- TOP 5.22: Besetzung des Aufsichtsrates der Stadtreinigung Dresden GmbH - Benennung
+- TOP 5.23: Besetzung des Aufsichtsrates der STESAD GmbH - Benennung
+- TOP 5.24: Besetzung des Aufsichtsrates der Technische Werke Dresden GmbH - Benennung
+- TOP 5.25: Besetzung des Aufsichtsrates der Verkehrsmuseum Dresden gGmbH - gewählt
+- TOP 5.26: Besetzung des Aufsichtsrates der WiD Wohnen in Dresden GmbH & Co. KG - Benennung
+- TOP 5.27: Besetzung des Aufsichtsrates der Zoo Dresden GmbH - Benennung
+- TOP 5.28: Besetzung des Aufsichtsrates der Dresdner Bäder GmbH - Benennung
+- TOP 5.29: Besetzung der Verbandsversammlung und des Hauptausschusses des Zweckverbandes Verkehrsverbund Oberelbe (ZVOE) - gewählt
+- TOP 5.30: Wahl der Vertreter für die Neubesetzung der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - erneute Beratung
+- TOP 5.31: Wahl der Mitglieder des Stiftungsgremiums der „Stadtstiftung Dresdner Kreuzchor" - gewählt
+- TOP 5.32: Wahl der Mitglieder des Stiftungsgremiums der „Sammelstiftung der Stadt Dresden“ - gewählt
+- TOP 5.33: Wahl der Mitglieder des Stiftungsgremiums der "Sozialstiftung der Stadt Dresden" - gewählt
+- TOP 5.34: Wahl der Mitglieder des Stiftungsgremiums der "Stadtwaisenhaus-Stiftung mit Eugenienstiftung" - gewählt
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Erhöhung des Kassenkreditrahmens für das Wirtschaftsjahr 2024 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 8: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Verweisung
+- TOP 9: Satzung zur Festsetzung der Grundsteuerhebesätze 2025 der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Anpassung der Eintrittspreise und Entgelte für Kurse, Raumnutzung und Veranstaltungen der Jugendkunstschule (JKS) Dresden und Erweiterung der Entgelte der JKS für die Nutzung des Bür-gerhauses Prohlis im Palitzschhof ab Januar 2025 - punktweise Zustimmung
+- TOP 11: Änderung des Wirtschaftsplanes 2024 des Eigenbetriebes Heinrich-Schütz-Konservatorium und Erhöhung der Verlustzuweisung 2024 an den Eigenbetrieb Heinrich-Schütz-Konservatorium - Zustimmung
+- TOP 12: Novellierung Statut Kunst- und Förderpreis der Landeshauptstadt Dresden und Besetzung der Jury für den Kunstpreis und die Förderpreise der Landeshauptstadt Dresden in dem Zeitraum 2024 - 2029. - punktweise Zustimmung
+- TOP 13: Budgetneutrale Veränderungen im Finanzhaushalt 2024 des Straßen- u. Tiefbauamtes zur finanziellen Absicherung der Kosten nach dem Teileinsturz der Carolabrücke zur Bewirtschaftung durch das Brand- u. Katastrophenschutzamt + Straßen- u. Tiefbauamt - Zustimmung
+- TOP 14: Neubenennungen einer Straße, zweier Wege und eines Platzes - Zustimmung mit Änderung
+- TOP 15: Bebauungsplan Nr. 389 C - Dresden-Altstadt II Nr. 27, Stadtquartier am Blüherpark-Ost - Zustimmung
+- TOP 16: Absicherung des Alphabetisierungsprojekts „mittendrin - mit Kopf und Ball“ der Volkshochschule ab Januar 2025 - Ablehnung
+- TOP 17: Vertagungen Stadtratssitzung vom 12.09.2024
+- TOP 17.1: Kulturentwicklungsplan 2020 umsetzen – Atelierräume für Künstlerinnen und Künstler in Dresden sichern - Ablehnung
+- TOP 17.2: Mehr Sicherheit, Ordnung und Sauberkeit in Dresden - Vertagung durch Einreicher
+- TOP 17.3: Für Naherholung, Lebensqualität und Gesundheit: Erlebnisbad Elbamare erhalten. - punktweise Abstimmung mit Ergänzung
+- TOP 17.4: Sozialen Wohnungsbau in Dresden in Schwung bringen und Erwerb von Vonovia-Grundstücken für gemeinwohlorientierte Wohnformen nutzen! - Ablehnung
+- TOP 17.5: Sicheres Radfahren – Geschützte Radfahrstreifen für Dresden - Ablehnung
+- TOP 17.6: Interkulturelles Engagement würdigen – Dresdner Integrationspreis wiederbeleben - Vertagung durch Einreicher
+- TOP 18: Jahresabschluss 2023 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 19: Jahresabschluss 2023 EB Kindertageseinrichtungen - Zustimmung
+- TOP 20: Jahresabschluss 2023 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 21: Jahresabschluss 2023 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 22: Jahresabschluss 2023 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 23: Jahresabschluss 2023 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 24: Jahresabschluss 2023 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 25: Absichtserklärung (LOI) über die langfristige interkommunale Zusammenarbeit zwischen der Gemeinde Ottendorf-Okrilla und der Landeshauptstadt Dresden - Zustimmung
+- TOP 26: Betrauung der Objektgesellschaft Kongresszentrum Neue Terrasse Dresden mbH und Zuwendung zur Umstellung auf LED-Beleuchtung - Zustimmung mit Änderung
+- TOP 27: Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben der Kinder- und Jugendhilfe im Bereich der Kindertagesbetreuung – Betriebskosten freier Träger 2024 - Zustimmung
+- TOP 28: Neubau eines Gerätehauses für die Stadtteilfeuerwehr Langebrück, Lessingstraße 11 a-c in 01465 Dresden - Zustimmung
+- TOP 29: Konzept Nachtleben in Dresden - Ablehnung
+- TOP 30: Fachkräfte frühzeitig binden, Zukunft sichern! - Zustimmung
+- TOP 31: Junges Wohnen in Dresden fördern - punktweise Abstimmung
+- TOP 32: Nachhaltige Vergabe in der Stadtverwaltung fördern - Vertagung durch Einreicher
+- TOP 33: Mehr Sicherheit für die Innenstadt! Einrichtung einer City-Wache auf der Prager Straße - punktweise Zustimmung
+- TOP 34: Verzicht auf die vorzeitige Abschaltung der Dresdner Brunnen - Vertagung durch Einreicher
+- TOP 35: Eilantrag: Dresdens neues Wahrzeichen: Carolabrücke in ihrem historischen Zustand erhalten! Abbrucharbeiten stoppen! - Ablehnung
+- TOP 38: Dresdner Straßennetz – Zustandsanalyse und Finanzbedarfsprognose zur nachhaltigen Erhaltung und Zustandsverbesserung - erledigt
