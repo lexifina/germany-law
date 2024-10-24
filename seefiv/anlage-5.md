@@ -1,110 +1,28 @@
 # Anlage 5 (zu § 16 Absatz 1)Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
 
 | 1 | 2 | 3 | 4 |
-| Lfd. Nr. | Schwerer Verstoß nach Anhang XXX der Durchführungsverordnung (EU) Nr. 404/2011 | Ordnungswidrigkeiten- und Strafvorschriften | Punkte |
-| 1 | Nichterfüllung der Verpflichtungen zur Aufzeichnung und Meldung von Fangdaten oder fangrelevanten Daten, einschließlich der über das satellitengestützte Schiffsüberwachungssystem (VMS) zu übermittelnden Daten | § 18 Absatz 3 Nummer 4 des Seefischereigesetzes, | 3 |
-| § 22 Absatz 2 Nummer 5 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 7 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 8 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 9 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 10 der Seefischereiverordnung, |
-| § 24 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 1 Nummer 11 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung, |
-| § 32 Nummer 2 der Seefischerei-Bußgeldverordnung |
-| 2 | Einsatz von verbotenem oder nicht vorschriftsmäßigem Fanggerät | § 18 Absatz 2 Nummer 10 zweite Alternative des Seefischereigesetzes, | 4 |
-| § 1 Nummer 1, 4, 5, 6, 8, 9 erste Alternative und Nummer 13 der Seefischerei-Bußgeldverordnung, |
-| § 2 der Seefischerei-Bußgeldverordnung, |
-| § 3 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 6 zweite Alternative der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 8 zweite Alternative der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 10 erste Alternative der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 13 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 27 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 32 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 44 Buchstabe a zweite Alternative der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 47 Buchstabe a der Seefischerei-Bußgeldverordnung, |
-| § 7 der Seefischerei-Bußgeldverordnung, |
-| § 9 Nummer 1 zweite Alternative der Seefischerei-Bußgeldverordnung, |
-| § 9 Nummer 2 der Seefischerei-Bußgeldverordnung, |
-| § 9 Nummer 3 zweite Alternative der Seefischerei-Bußgeldverordnung, |
-| § 9 Nummer 4 der Seefischerei-Bußgeldverordnung, |
-| § 9 Nummer 6 der Seefischerei-Bußgeldverordnung |
-| 3 | Fälschen oder Verbergen von Kennzeichnung, Identität oder Registrierung | § 28 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung | 5 |
+| Lfd. Nr. | Schwerer Verstoß nach Artikel 90 Absatz 1 der Verordnung (EG) Nr. 1224/2009 | Ordnungswidrigkeiten- und Strafvorschriften | Punkte |
+| 1 | Nichterfüllung der Verpflichtungen zur Aufzeichnung und Meldung von Fangdaten oder fangrelevanten Daten, einschließlich der über das satellitengestützte Schiffsüberwachungssystem (VMS) zu übermittelnden Daten | § 18 Absatz 3 Nummer 4 des Seefischereigesetzes, § 22 Absatz 2 Nummer 5 der Seefischereiverordnung, § 22 Absatz 2 Nummer 7 der Seefischereiverordnung, § 22 Absatz 2 Nummer 8 der Seefischereiverordnung, § 22 Absatz 2 Nummer 9 der Seefischereiverordnung, § 22 Absatz 2 Nummer 10 der Seefischereiverordnung, | 3 |
+|  |  | § 15 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung, § 15 Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung, § 15 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung, § 15 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung, § 18 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung, § 18 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung, § 18 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung, § 18 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 9 der Seefischerei-Bußgeldverordnung, § 21 Nummer 2 der Seefischerei-Bußgeldverordnung |  |
+| 2 | Einsatz von verbotenem oder nicht vorschriftsmäßigem Fanggerät | § 18 Absatz 2 Nummer 10 zweite Alternative des Seefischereigesetzes, § 1 Nummer 1 der Seefischerei-Bußgeldverordnung, § 1 Nummer 4 der Seefischerei-Bußgeldverordnung, § 1 Nummer 5 der Seefischerei-Bußgeldverordnung, § 1 Nummer 6 der Seefischerei-Bußgeldverordnung, § 1 Nummer 8 der Seefischerei-Bußgeldverordnung, § 1 Nummer 9 erste Alternative der Seefischerei-Bußgeldverordnung, § 1 Nummer 13 der Seefischerei-Bußgeldverordnung, § 2 der Seefischerei-Bußgeldverordnung, § 3 der Seefischerei-Bußgeldverordnung, § 6 Nummer 1 zweite Alternative der Seefischerei-Bußgeldverordnung, § 6 Nummer 2 der Seefischerei-Bußgeldverordnung, § 6 Nummer 3 zweite Alternative der Seefischerei-Bußgeldverordnung, § 6 Nummer 4 der Seefischerei-Bußgeldverordnung, § 7 Nummer 1 der Seefischerei-Bußgeldverordnung, § 7 Nummer 2 zweite Alternative der Seefischerei-Bußgeldverordnung, § 7 Nummer 3 der Seefischerei-Bußgeldverordnung, § 7 Nummer 4 der Seefischerei-Bußgeldverordnung, § 7 Nummer 5 der Seefischerei-Bußgeldverordnung, | 4 |
+|  |  | § 18 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 6 zweite Alternative der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 17 Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 18 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 20 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 21 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 25 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 26 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 32 zweite Alternative der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 33 der Seefischerei-Bußgeldverordnung |  |
+| 3 | Fälschen oder Verbergen von Kennzeichnung, Identität oder Registrierung | § 18 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung | 5 |
 | 4 | Verbergen, Manipulieren oder Vernichten von Beweismaterial für eine Untersuchung | § 22 Absatz 2 Nummer 1 der Seefischereiverordnung | 5 |
-| 5 | Anbordnehmen, Umladen oder Anlanden von untermaßigen Fischen unter Verstoß gegen die geltenden Rechtsvorschriften | § 6 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung, | 5 |
-| § 17 Nummer 13 der Seefischerei-Bußgeldverordnung |
-| 6 | Fischen im Gebiet einer regionalen Fischereiorganisation in einer Weise, die mit den Erhaltungs- und Bewirtschaftungsmaßnahmen dieser Organisation nicht vereinbar ist oder gegen diese verstößt | a) | Nordwestatlantische Fischereiorganisation (NAFO): | 5 |
-| § 18 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung, |
-| b) | Kommission für die Fischerei im Nordostatlantik (NEAFC): |
-| § 27 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung |
-| 7 | Fischen ohne ein vom Flaggenstaat oder dem betreffenden Küstenstaat erteilte gültige Lizenz, Genehmigung oder Erlaubnis | § 18 Absatz 2 Nummer 1 des Seefischereigesetzes, | 7 |
-| § 18 Absatz 2 Nummer 2 des Seefischereigesetzes, |
-| § 18 Absatz 2 Nummer 3 des Seefischereigesetzes, |
-| § 18 Absatz 3 Nummer 7 des Seefischereigesetzes, |
-| § 17 Nummer 20 der Seefischerei-Bußgeldverordnung, |
-| § 21 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung |
-| 8 | Fischen in einem Schongebiet, während einer Schonzeit, ohne Quote, nach Ausschöpfen der Quote oder in nicht zulässigen Tiefen | § 18 Absatz 2 Nummer 1 des Seefischereigesetzes, | 6 |
-| § 18 Absatz 2 Nummer 2 des Seefischereigesetzes, |
-| § 6 Absatz 1 Nummer 52 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 53 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 56 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 68 der Seefischerei-Bußgeldverordnung, |
-| § 6 Absatz 1 Nummer 69 der Seefischerei-Bußgeldverordnung, |
-| § 17 Nummer 15 der Seefischerei-Bußgeldverordnung, |
-| § 17 Nummer 21 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung |
+| 5 | Anbordnehmen, Umladen oder Anlanden von untermaßigen Fischen unter Verstoß gegen die geltenden Rechtsvorschriften | § 19 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung | 5 |
+| 6 | Fischen im Gebiet einer regionalen Fischereiorganisation in einer Weise, die mit den Erhaltungs- und Bewirtschaftungsmaßnahmen dieser Organisation nicht vereinbar ist oder gegen diese verstößt | a) | Nordwestatlantische Fischereiorganisation (NAFO) | 5 |
+|  | § 27 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung, § 27 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung, § 27 Absatz 1 Nummer 18 der Seefischerei-Bußgeldverordnung, § 27 Absatz 1 Nummer 19 der Seefischerei-Bußgeldverordnung, § 27 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung, § 27 Absatz 2 Nummer 19 der Seefischerei-Bußgeldverordnung, |  |
+|  |  |  | § 27 Absatz 2 Nummer 21 der Seefischerei-Bußgeldverordnung, |  |
+|  |  | b) | Kommission für die Fischerei im Nordostatlantik (NEAFC) |  |
+|  |  |  | § 17 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung, § 17 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung, § 17 Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung |  |
+| 7 | Fischen ohne eine vom Flaggenstaat oder von dem betreffenden Küstenstaat erteilte gültige Lizenz, Genehmigung oder Erlaubnis | § 18 Absatz 2 Nummer 1 des Seefischereigesetzes, § 18 Absatz 2 Nummer 2 des Seefischereigesetzes, § 18 Absatz 2 Nummer 3 des Seefischereigesetzes, § 18 Absatz 3 Nummer 7 des Seefischereigesetzes, § 15 Absatz 1 Nummer 6 der Seefischerei-Bußgeldverordnung, § 26 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung, § 26 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung | 7 |
+| 8 | Fischen in einem Schongebiet, während einer Schonzeit, ohne Quote, nach Ausschöpfen der Quote oder in nicht zulässigen Tiefen | § 18 Absatz 2 Nummer 1 des Seefischereigesetzes, § 18 Absatz 2 Nummer 2 des Seefischereigesetzes, § 28 Absatz 1 Nummer 22 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 24 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 27 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 29 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 30 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 31 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 34 der Seefischerei-Bußgeldverordnung, § 28 Absatz 1 Nummer 35 der Seefischerei-Bußgeldverordnung | 6 |
 | 9 | Gezielte Befischung eines Bestands, für den ein Moratorium oder ein Fangverbot gilt | § 18 Absatz 1 des Seefischereigesetzes | 7 |
-| 10 | Behinderung von Fischereiinspektoren bei der Wahrnehmung ihrer Aufgabe, die Einhaltung der geltenden Erhaltungs- und Bewirtschaftungsmaßnahmen zu überwachen, oder Behinderung von Beobachtern bei der Wahrnehmung ihrer Aufgabe, die Einhaltung der geltenden EU-Rechtsvorschriften zu beachten | § 18 Absatz 2 Nummer 5 des Seefischereigesetzes, | 7 |
-| § 18 Absatz 2 Nummer 6 des Seefischereigesetzes, |
-| § 22 Absatz 2 Nummer 2 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 3 der Seefischereiverordnung, |
-| § 22 Absatz 2 Nummer 4 der Seefischereiverordnung, |
-| § 18 Absatz 2 Nummer 9 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 10 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 11 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 12 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 13 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 14 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 15 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 18 der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 2 Nummer 19 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung, |
-| § 24 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung, |
-| § 27 Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 27 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 28 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 30 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 31 der Seefischerei-Bußgeldverordnung, |
-| § 28 Absatz 2 Nummer 32 der Seefischerei-Bußgeldverordnung |
-| 11 | Umladung von Fängen von Fischereifahrzeugen, die nachweislich an IUU-Fischerei im Sinne der Verordnung (EG) Nr. 1005/2008 beteiligt waren, insbesondere von Schiffen, die in der EU-Liste von IUU-Schiffen oder in der IUU-Liste einer regionalen Fischereiorganisation geführt sind, oder Durchführung gemeinsamer Fangeinsätze mit solchen Schiffen oder Unterstützung oder Versorgung solcher Schiffe | § 18 Absatz 3 Nummer 1 des Seefischereigesetzes, | 7 |
-| § 18 Absatz 1 Nummer 22 dritte Alternative der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 22 vierte Alternative der Seefischerei-Bußgeldverordnung, |
-| § 18 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung, |
-| § 20 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung, |
-| § 20 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung |
+| 10 | Behinderung von Fischereiinspektoren bei der Wahrnehmung ihrer Aufgabe, die Einhaltung der geltenden Erhaltungs- und Bewirtschaftungsmaßnahmen zu überwachen, oder Behinderung von Beobachtern bei der Wahrnehmung ihrer Aufgabe, die Einhaltung der geltenden EU-Rechtsvorschriften zu beachten | § 18 Absatz 2 Nummer 5 des Seefischereigesetzes, § 18 Absatz 2 Nummer 6 des Seefischereigesetzes, § 22 Absatz 2 Nummer 2 der Seefischereiverordnung, § 22 Absatz 2 Nummer 3 der Seefischereiverordnung, | 7 |
+|  |  | § 22 Absatz 2 Nummer 4 der Seefischereiverordnung, § 15 Absatz 2 Nummer 15 der Seefischerei-Bußgeldverordnung, § 15 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung, § 15 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung, § 17 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung, § 17 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung, § 17 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung, § 17 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung, § 17 Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 35 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 36 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 38 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 39 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 40 der Seefischerei-Bußgeldverordnung, § 18 Absatz 2 Nummer 43 der Seefischerei-Bußgeldverordnung, § 27 Absatz 1 Nummer 36 der Seefischerei-Bußgeldverordnung, § 27 Absatz 2 Nummer 19 bis 38 der Seefischerei-Bußgeldverordnung |  |
+| 11 | Umladung von Fängen von Fischereifahrzeugen, die nachweislich an IUU-Fischerei im Sinne der Verordnung (EG) Nr. 1005/2008 beteiligt waren, insbesondere von Schiffen, die in der EU-Liste von IUU-Schiffen oder in der IUU-Liste einer regionalen Fischereiorganisation geführt sind, oder Durchführung gemeinsamer Fangeinsätze mit solchen Schiffen oder Unterstützung oder Versorgung solcher Schiffe | § 18 Absatz 3 Nummer 1 des Seefischereigesetzes, § 13 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung | 7 |
 | 12 | Einsatz eines Fischereifahrzeugs ohne Staatszugehörigkeit, d. h. eines nach dem Völkerrecht staatenlosen Schiffes | § 18 Absatz 3 Nummer 2 des Seefischereigesetzes | 7 |
+| 13 | Durchführung von unmittelbar mit IUU-Fischerei im Sinne der Verordnung (EG) Nr. 1005/2008 zusammenhängenden Geschäften, einschließlich des Handels mit oder der Einfuhr von Fischereierzeugnissen | § 18 Absatz 3 Nummer 3 des Seefischereigesetzes, § 13 Absatz 1 Nummer 3 erste Alternative der Seefischerei-Bußgeldverordnung | 6 |
+| 14 | Fälschung von in der Verordnung (EG) Nr. 1005/2008 genannten Dokumenten oder die Verwendung solcher gefälschter oder ungültiger Dokumente | § 267 Absatz 1, 2 des Strafgesetzbuches, § 269 des Strafgesetzbuches, § 13 Absatz 2 Nummer 1 Variante 2, 3 der Seefischerei-Bußgeldverordnung, § 13 Absatz 2 Nummer 2 Variante 2, 3 der Seefischerei-Bußgeldverordnung, § 13 Absatz 2 Nummer 3 Variante 2 der Seefischerei-Bußgeldverordnung | 5 |
+| 15 | Nichtübermittlung einer Anlandeerklärung oder eines Verkaufsbelegs, wenn die Anlandung der Fänge in einem Drittlandshafen erfolgte | § 18 Absatz 3 Nummer 4 des Seefischereigesetzes, § 18 Absatz 3 Nummer 5 des Seefischereigesetzes | 3 |
+| 16 | Manipulation an Maschinen mit dem Ziel, deren Leistung über die im Maschinenzertifikat angegebene höchste Dauerleistung zu steigern | § 18 Absatz 3 Nummer 6 des Seefischereigesetzes | 6 |
+| 17 | Versäumnis, Fänge von Arten, die der Anlandeverpflichtung nach Artikel 15 der Verordnung (EU) Nr. 1380/2013 unterliegen, an Bord des Fischereifahrzeugs zu bringen und zu behalten und anzulanden, es sei denn, das Anbordbringen und Mitführen sowie die Anlandung würden – in Fischereien oder Fischereizonen, in denen entsprechende Verpflichtungen bestehen oder Regelungen gelten – gegen Verpflichtungen im Rahmen der Vorschriften der Gemeinsamen Fischereipolitik verstoßen oder in diesen Vorschriften vorgesehenen Ausnahmeregelungen unterliegen | § 19 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung | 5 |
