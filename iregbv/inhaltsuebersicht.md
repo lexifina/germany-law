@@ -3,6 +3,7 @@
 Abschnitt 1
 Beginn des Wirkbetriebs
 | § 1 | Brustimplantate |
+| § 1a | Endoprothesen an Hüfte und Knie sowie Aortenklappen-Implantate |
 | § 2 | Verpflichtungen der Kostenträger |
 Abschnitt 2
 Auswertungsgruppen

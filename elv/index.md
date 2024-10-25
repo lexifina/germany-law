@@ -11,3 +11,4 @@
 - [Anlage 2 (zu § 2 Absatz 2 Nummer 2 und § 3)Beschränkt verwendbare Extraktionslösungsmittel](anlage-2.md)
 - [Anlage 3 (zu § 2 Absatz 2 Nummer 3 und § 3)Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern](anlage-3.md)
 - [Anlage 4 (zu § 4 Satz 1 und 2)Reinheitskriterien für Extraktionslösungsmittel](anlage-4.md)
+- [Anlage 5 (weggefallen)](anlage-5.md)

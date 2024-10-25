@@ -6,6 +6,7 @@
 ## Abschnitt 1 Beginn des Wirkbetriebs
 
 - [§ 1 Brustimplantate](0001.md)
+- [§ 1a Endoprothesen an Hüfte und Knie sowie Aortenklappen-Implantate](0001a.md)
 - [§ 2 Verpflichtungen der Kostenträger](0002.md)
 
 ## Abschnitt 2 Auswertungsgruppen

@@ -1,30 +1,24 @@
 # Inhaltsübersicht
 
 Abschnitt 1
-Allgemein
-| § 1 | Anwendungsbereich und Zuständigkeiten |
+Allgemeines
+| § 1 | Anwendungsbereich und Gegenstand |
 Abschnitt 2
-Einzelne Maßnahmen
-Unterabschnitt 1
-Allgemeine Bestimmungen
+Förderung von Maßnahmen
 | § 2 | Begünstigte |
-| § 3 | Antragsverfahren |
-| § 4 | Antragsinhalt |
-| § 5 | Auswahlverfahren |
-| § 6 | Nicht förderfähige und förderfähige Kosten |
-| § 7 | Förderfähigkeit von Personalkosten |
-| § 8 | Förderfähigkeit von Verwaltungskosten |
-| § 9 | Förderfähigkeit der Umsatzsteuer |
-| § 10 | Zweckbindungsfrist |
-| § 11 | Dauer der Unterstützung |
-| § 12 | Änderung von Maßnahmen der Begünstigten |
-Unterabschnitt 2
-Maßnahmen der Bundesanstalt für Landwirtschaft und Ernährung
-| § 13 | Informations- und Absatzförderungsmaßnahmen |
-Unterabschnitt 3
-Maßnahmen der Länder
-| § 14 | Umstrukturierung und Umstellung |
-| § 15 | Vorschusszahlungen und Sicherheitsleistungen |
+| § 3 | Zuständige Stellen |
+| § 4 | Antragsverfahren |
+| § 5 | Antragsinhalt |
+| § 6 | Auswahlverfahren |
+| § 7 | Vorschusszahlungen und Sicherheitsleistungen |
+| § 8 | Förderfähigkeit von maßnahmenbezogenen Kosten |
+| § 9 | Förderfähigkeit von Personalkosten |
+| § 10 | Förderfähigkeit von Verwaltungskosten |
+| § 11 | Förderfähigkeit der Umsatzsteuer |
+| § 12 | Mindestparzellengröße bei der Umstrukturierung und Umstellung von Rebflächen |
+| § 13 | Zweckbindungsfrist |
+| § 14 | Dauer der Förderung |
+| § 15 | Änderungen von Maßnahmen |
 Abschnitt 3
 Pflichten
 | § 16 | Rechnungsführung |
@@ -32,7 +26,7 @@ Pflichten
 | § 18 | Mitteilungspflichten |
 Abschnitt 4
 Kontrollen
-| § 19 | Allgemein |
+| § 19 | Allgemeines |
 | § 20 | Verwaltungskontrollen |
 | § 21 | Inhalt der Vor-Ort-Kontrollen |
 | § 22 | Vor-Ort-Kontrollen |
@@ -44,8 +38,8 @@ Kontrollen
 | § 28 | Kontrollierte Personen |
 Abschnitt 5
 Sanktionen
-| § 29 | Kürzung von Zuwendungsbeträgen |
-| § 30 | Sanktionierung von Übererklärungen bei der Maßnahme nach § 2 Absatz 1 |
+| § 29 | Kürzung von Förderbeträgen |
+| § 30 | Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1 |
 | § 31 | Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten |
 | § 32 | Verzicht auf Sanktionen |
 | § 33 | Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen |

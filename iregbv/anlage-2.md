@@ -17,7 +17,7 @@ I. Allgemeine Angaben
     a) Datum
     b) bei mehreren implantatbezogenen Maßnahmen deren Reihenfolge
     c) Lokalisation
-    d) Zugang
+    d) OP-technische Aspekte wie Zugang und Technik
     e) Art der implantatbezogenen Maßnahme nach § 2 Nummer 4 des Implantateregistergesetzes
     f) Grund der implantatbezogenen Maßnahme
     g) Dringlichkeit der implantatbezogenen Maßnahme
@@ -26,7 +26,8 @@ I. Allgemeine Angaben
     j) simultane risikomodifizierende Prozeduren, die über eine alleinige Implantateinbringung oder -entfernung hinausgehen
     k) bei Revision und Explantation erhobene Befunde
     l) Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, unter Angabe der Version einschließlich möglicher Zusatzkennzeichen
-  5. Angaben zu Vorbehandlungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
+    m) intra- und postoperative Komplikationen
+  5. Angaben zu Vorbefunden, Vorbehandlungen und Vorerkrankungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
   6. Einzelangaben zu den Implantaten
     a) Implantattyp
     b) Hersteller
@@ -50,3 +51,7 @@ II. Besondere Angaben für Brustimplantate
       – Herstellungskennung nach dem UDI-System (UDI Production Identifier – UDI-PI) und herstellereigenen Identifikationsmerkmalen der Serie oder Charge
   3. Angaben zu den Implantaten (auch bei Explantation): Form, Oberfläche, Füllung und Volumen
   4. Bei Explantation gegebenenfalls Art der Weiterbehandlung
+III. Besondere Angaben für Aortenklappen-Implantate
+  1. prä- und postoperative hämodynamische und anatomische Parameter (z. B. Druckgradient über der Aortenklappe, Blutrückfluss, Öffnungsfläche)
+  2. Angaben zum postoperativen Gesundheitszustand einschließlich Medikation
+  3. Lage der Aortenklappe nach Implantation
