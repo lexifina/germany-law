@@ -190,8 +190,9 @@ Dienst- oder Amtsverhältnis](0059.md)
 - [§ 83 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen](0083.md)
 - [§ 84 Arbeitsgemeinschaft](0084.md)
 - [§ 85 Bundessteuerberaterkammer](0085.md)
-- [§ 86 Aufgaben der Bundessteuerberaterkammer](0086.md)
-- [§ 86a Zusammensetzung und Arbeitsweise der Satzungsversammlung](0086a.md)
+- [§ 85a Aufgaben der Bundessteuerberaterkammer](0085a.md)
+- [§ 86 Zusammensetzung und Arbeitsweise der Satzungsversammlung](0086.md)
+- [§ 86a Durchführung der Satzungsversammlung](0086a.md)
 - [§ 86b Steuerberaterverzeichnis](0086b.md)
 - [§ 86c Steuerberaterplattform](0086c.md)
 - [§ 86d Besonderes elektronisches Steuerberaterpostfach](0086d.md)
@@ -328,7 +329,7 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 - [§ 157b Anwendungsvorschrift](0157b.md)
 - [§ 157c Anwendungsvorschrift zu § 36 Absatz 2](0157c.md)
 - [§ 157d Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe](0157d.md)
-- [§ 157e Anwendungsvorschrift zur Steuerberaterplattform und zu den besonderen elektronischen Steuerberaterpostfächern](0157e.md)
+- [§ 157e (weggefallen)](0157e.md)
 
 ### Siebenter Abschnitt Verordnungsermächtigung
 

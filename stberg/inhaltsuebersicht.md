@@ -163,8 +163,9 @@ Organisation des Berufs
 | § 83 | Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen |
 | § 84 | Arbeitsgemeinschaft |
 | § 85 | Bundessteuerberaterkammer |
-| § 86 | Aufgaben der Bundessteuerberaterkammer |
-| § 86a | Zusammensetzung und Arbeitsweise der Satzungsversammlung |
+| § 85a | Aufgaben der Bundessteuerberaterkammer |
+| § 86 | Zusammensetzung und Arbeitsweise der Satzungsversammlung |
+| § 86a | Durchführung der Satzungsversammlung |
 | § 86b | Steuerberaterverzeichnis |
 | § 86c | Steuerberaterplattform |
 | § 86d | Besonderes elektronisches Steuerberaterpostfach |
@@ -287,7 +288,6 @@ Sechster Abschnitt
 | § 157a | Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes |
 | § 157b | Anwendungsvorschrift |
 | § 157d | Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe |
-| § 157e | Anwendungsvorschrift zur Steuerberaterplattform und zu den besonderen elektronischen Steuerberaterpostfächern |
 Siebenter Abschnitt
 Verordnungsermächtigung
 | § 158 | Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften |
