@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-10-28T15:05:00+01:00
+- Ende: 2024-10-28T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29691
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29691
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Vorstellung des Schulpsychologischen Dienstes - Kenntnis genommen
+- TOP -: B. Vorstellung Medienentwicklungsplan - zurückgestellt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktion SPD vom 27.08.2024 betreffend "Zukünftiger Schulstandort Urbacher Weg in Porz-Ensen" - zurückgestellt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP vom 18.09.2024 betreffend "Sprachstandsfeststellungen an Kölner Schulen" - zurückgestellt
+- TOP 4.2: Bewilligung von Lernförderung im Bildungs- und Teilhabepaket - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 25.10.2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktion SPD vom 04.06.2024 betreffend "Abriss und Neubau der Montessori-Grundschule Höhenberg - Standort Schulstr." - zurückgestellt
+- TOP 5.2: Anfrage der Stadtschulpflegschaft vom 17.04.2024 betreffend "Gebäudeklima" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 09.09.2024 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktion FDP vom 19.08.2024 betreffend "Zunehmende Gewalt an Kölner Schulen" - zurückgestellt
+- TOP 5.4: Anfrage der Fraktion SPD vom 02.09.2024 betreffend "Abschulungen und Anmeldezahlen Kurt-Tucholsky-Hauptschule" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Antwort der Verwaltung vom 24.10.2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.5: Anfrage der Stadtschulpflegschaft und des Jugendamtelternbeirats bzgl. "Entgelt für Mahlzeiten in Offenen Ganztagsschulen" - zurückgestellt
+- TOP 6: Empfehlungen
+- TOP 6.1: Anregung der Bezirksvertretung Nippes, Dritte Gesamtschule für den Stadtbezirk Nippes - Kenntnis genommen
+- TOP 6.2: 17 "Ausbildungs-Universitäten" für die Fachkräfte von morgen - Leitbild, Handlungsfelder und Maßnahmenideen für die Berufskolleglandschaft Köln 2035 - Schulentwicklungsplanung für die städtischen Berufskollegs Teil 1 - ungeändert empfohlen
+- TOP 6.3: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VFJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2025, 2026 und 2027 - ungeändert empfohlen
+- TOP 6.4: Beschaffung u. Aufstellung von Modulbauten für Schulen Beschluss zur Kostenfortschreibung u. haushaltsrechtliche Unterrichtung des Rates gem. §25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2023 und 2024 - ungeändert empfohlen
+- TOP 6.5: Planungsaufnahme und Baubeschluss zur Erstellung eines Modulbaus für Unterrichtszwecke und einer Einfachturnhalle in Modulbauweise für das Gymnasium Kartäuserwall 40, 50676 Köln (Altstadt-Süd) - ungeändert empfohlen
+- TOP 7: Entscheidungen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Stellungnahme zum Beschluss der Bezirksvertretung Porz Vorlage 4033/2023 aus der Sitzung des SteA vom 14.03.2024 betreffend "Schulstandort Urbacher Weg in Köln-Porz" - zurückgestellt
+- TOP 8.2: Monitoring Berufskollegs (Stand: Juni 2024) - zurückgestellt
+- TOP 8.3: Bericht kommunaler Fonds Kulturelle Bildung 2022-2024 - Kenntnis genommen
+- TOP 8.4: Beantwortung einer mündlichen Anfrage der CDU-Fraktion aus der Sitzung des Ausschusses für Schule und Weiterbildung am 22.04.2024 betreffend "Mensa katholische Grundschule Am Portzenacker 1b, 51069 Köln" - Kenntnis genommen
+- TOP 8.5: Nutzung des ehemaligen Schulgebäudes in der Stolzestraße als Interimslösung für Schulsanierungen - Kenntnis genommen
+- TOP 8.6: Evaluierungbericht des Sachstandsbericht der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 8.7: Beantwortung einer mündlichen Anfrage von RM Westphal aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 9. September 2024 bezüglich Parkersatz an der KiTa an der Antwerpener Stra0e - Kenntnis genommen
+- TOP 8.8: Beantwortung einer mündlichen Anfrage von RM Aengenvoort aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 9. September 2024 bezüglich der Toilettensituation an der Wilhelm-Busch-Realschule - Kenntnis genommen
+- TOP 8.9: Beantwortung einer Nachfrage aus der Sitzung des Ausschusses für Schule und Weiterbidung am 22. Januar 2024 bezüglich genderneutralen Toilettenanlagen - Kenntnis genommen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Beantwortung einer mündlichen Anfrage von Maria Westphal, FDP und Inga FeuserKLIMAFREUNDE & GUT, aus der Ausschusssitzung Schule und Weiterbildung vom 22.04.24 betreffend „Rechtsverbindlichkeit des gesetzlichen normierten Endes des Anmeldeverfahrens“ - Kenntnis genommen
+- TOP 8.12: Prüfauftrag zur Vorlage 3326/2023 - Standortentscheidung für den Schulneubau des Hölderlin-Gymnasiums in 51065 Köln-Mülheim aus der Ratssitzung vom 21. März 2024 - Kenntnis genommen
+- TOP 8.13: Beantwortung einer mündlichen Anfrage von RM Hölzing aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 9. September 2024 bezüglich eines Sachstands zum Bauvorhaben an der Heliosschule - Kenntnis genommen
+- TOP 8.14: Beantw. der mündl. Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung ASW vom 22.04.24 betr.: MIttelbewirtschaftung im Bildungs- und Teilhabepaket für das Jahr 2023 (0665/2024) - Kenntnis genommen
+- TOP 8.15: Beantwortung einer mündlichen Anfrage von RM Seeck und von sE Schallehn aus den Sitzungen vom 9. und 16. September 2024 bezüglich der Behebung der Klimaprobleme am Genoveva Gymnasium, Genovevastraße 58-62, 51063 Köln - Kenntnis genommen
+- TOP 8.16: Beantwortung einer mündlichen Anfrage von RM Westphal aus der Sitzung des Ausschusses für Schule und Weiterbildung vom 9. September 2024 bezüglich der Mäuseplage an der Gemeinschaftsgrundschule Kunterbunt - Kenntnis genommen
+- TOP 8.17: Bildungscampus Kreuzfeld - Kenntnis genommen
+- TOP 8.18: "Tag der Jugend im Rathaus" 2024 - Kenntnis genommen
+- TOP 8.19: Schülerfahrkostenverordnung NRW - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.20: Kurzbericht der Bildungsdelegationsreise nach China am 9.-14.09.24 - Kenntnis genommen
+- TOP 8.21: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch des Bebauungsplanentwurfes Nr. 76399/04 Arbeitstitel "Östlich Im Falkenhorst in Köln-Porz-Urbach" - Kenntnis genommen
+- TOP 8.22: Beförderung von Schüler*innen mit Bussen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
