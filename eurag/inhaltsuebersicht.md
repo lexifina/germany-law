@@ -72,4 +72,5 @@
 | Teil 8 |
 |  | Übergangs- und Schlussbestimmungen |
 |  |  | § 42 | Anwendung von Vorschriften des Strafgesetzbuches |
+|  |  | § 43 | Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union |
 |  |  | Anlage zu § 1 |

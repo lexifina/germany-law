@@ -42,3 +42,4 @@
 - [§ 27 Statistik](0027.md)
 - [§ 28 Gebühren und Auslagen](0028.md)
 - [§ 29 Anwendung von Vorschriften des Strafgesetzbuches](0029.md)
+- [§ 30 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union](0030.md)

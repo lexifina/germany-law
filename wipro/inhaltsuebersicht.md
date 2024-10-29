@@ -131,6 +131,7 @@ Berufsaufsicht
 | § 66b | Verschwiegenheit; Schutz von Privatgeheimnissen |
 | § 66c | Zusammenarbeit mit anderen Stellen und internationale Zusammenarbeit |
 | § 67 | Ahndung einer Pflichtverletzung |
+| § 67a | Absehen von der Verfolgung gegen Auflage |
 | § 68 | Berufsaufsichtliche Maßnahmen |
 | § 68a | Untersagungsverfügung |
 | § 68b | Vorläufige Untersagungsverfügung |
@@ -146,7 +147,7 @@ Berufsgerichtliche Entscheidung
 | § 71a | Antrag auf berufsgerichtliche Entscheidung |
 Zweiter Abschnitt
 Gerichte
-| § 72 | Kammer für Wirtschaftsprüfersachen |
+| § 72 | Kammer für Wirtschaftsprüfersachen; Verbindung berufsgerichtlicher Verfahren |
 | § 73 | Senat für Wirtschaftsprüfersachen beim Oberlandesgericht |
 | § 74 | Senat für Wirtschaftsprüfersachen beim Bundesgerichtshof |
 | § 75 | Berufsangehörige als Beisitzer |
@@ -172,7 +173,8 @@ Verfahren im ersten Rechtszug
 | § 84 | Mitwirkung der Staatsanwaltschaft |
 | § 85 | Einleitung des berufsgerichtlichen Verfahrens |
 | § 86 | Verfahren |
-| §§ 87bis 93 | (weggefallen) |
+| § 87 | Entscheidung zur Höhe der Geldbuße durch Beschluss |
+| §§ 88 bis 93 | (weggefallen) |
 | § 94 | Verlesung der berufsaufsichtlichen Entscheidung |
 | §§ 95bis 97 | (weggefallen) |
 | § 98 | Hauptverhandlung trotz Ausbleibens der Berufsangehörigen |

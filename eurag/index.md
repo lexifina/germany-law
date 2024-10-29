@@ -86,4 +86,5 @@
 ## Teil 8 Übergangs- und Schlussbestimmungen
 
 - [§ 42 Anwendung von Vorschriften des Strafgesetzbuches](0042.md)
+- [§ 43 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union](0043.md)
 - [Anlage zu § 1Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz](anlage.md)

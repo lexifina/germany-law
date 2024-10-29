@@ -20,7 +20,7 @@ Verfahren über den Antrag auf Aufhebung eines
 vorläufigen Tätigkeits- oder Berufsverbots nach § 120 WPO
 | Nr. | Gebührentatbestand | Gebührenbetrag oder Satz der jeweiligen Gebühr 110 bis 114 |
 | Vorbemerkung: |
-| (1) In Verfahren über Anträge auf berufsgerichtliche Entscheidung werden, soweit nichts anderes bestimmt ist, Gebühren nur erhoben, soweit auf Zurückweisung des Antrags auf berufsgerichtliche Entscheidung oder auf Verurteilung zu einer oder mehrerer der in § 68 Abs. 1 und § 68a WPO genannten Maßnahmen entschieden wird. Die Gebühren bemessen sich nach der rechtskräftig verhängten Maßnahme, die Gegenstand der Entscheidung im Sinne des Satzes 1 ist. Maßgeblich ist die Maßnahme, für die die höchste Gebühr bestimmt ist. |
+| (1) In Verfahren über Anträge auf berufsgerichtliche Entscheidung werden, soweit nichts anderes bestimmt ist, Gebühren nur erhoben, soweit auf Zurückweisung des Antrags auf berufsgerichtliche Entscheidung oder auf Verhängung einer oder mehrerer der in § 68 Abs. 1 und § 68a WPO genannten Maßnahmen entschieden wird. Die Gebühren bemessen sich nach der rechtskräftig verhängten Maßnahme, die Gegenstand der Entscheidung im Sinne des Satzes 1 ist. Maßgeblich ist die Maßnahme, für die die höchste Gebühr bestimmt ist. |
 | (2) Im Rechtsmittelverfahren ist Absatz 1 entsprechend anzuwenden. |
 | (3) Wird ein Antrag auf berufsgerichtliche Entscheidung, ein Antrag auf Entscheidung des Gerichts oder ein Rechtsmittel nur teilweise verworfen oder zurückgewiesen, so hat das Gericht die Gebühr zu ermäßigen, soweit es unbillig wäre, den Berufsangehörigen damit zu belasten. |
 | (4) Im Verfahren nach Wiederaufnahme werden die gleichen Gebühren wie für das wiederaufgenommene Verfahren erhoben. Wird jedoch nach Anordnung der Wiederaufnahme des Verfahrens das frühere Urteil aufgehoben, gilt für die Gebührenerhebung jeder Rechtszug des neuen Verfahrens mit dem jeweiligen Rechtszug des früheren Verfahrens zusammen als ein Rechtszug. Gebühren werden auch für Rechtszüge erhoben, die nur im früheren Verfahren stattgefunden haben. |
@@ -39,6 +39,7 @@ vorläufigen Tätigkeits- oder Berufsverbots nach § 120 WPO
 |  | Die Gebühr bemisst sich nach der Maßnahme, die Gegenstand des Verfahrens war. Maßgeblich ist die Maßnahme, für die die höchste Gebühr bestimmt ist. |  |
 | 117 | Zurücknahme des Antrags auf berufsgerichtliche Entscheidung nach Beginn der Hauptverhandlung .......... | 0,5 |
 |  | Die Gebühr bemisst sich nach der Maßnahme, die Gegenstand des Verfahrens war. Maßgeblich ist die Maßnahme, für die die höchste Gebühr bestimmt ist. |  |
+| 118 | Verfahren mit Beschluss nach § 87 Satz 1 WPO bei Verhängung einer Geldbuße nach § 68 Abs. 1 Satz 2 Nr. 2 WPO .......... | 120,00 € |
 | Unterabschnitt 2 |
 | Verfahren über Anträge auf Entscheidung des Gerichts |
 | Vorbemerkung 1.2: |

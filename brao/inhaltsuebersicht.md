@@ -140,6 +140,7 @@ Dritter Unterabschnitt
 Kammerversammlung
 | § 85 | Einberufung der Kammerversammlung |
 | § 86 | Einladung und Einberufungsfrist |
+| § 86a | Durchführung der Kammerversammlung |
 | § 87 | Ankündigung der Tagesordnung |
 | § 88 | Wahlen und Beschlüsse der Kammerversammlung |
 | § 89 | Aufgaben der Kammerversammlung |

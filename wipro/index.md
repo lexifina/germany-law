@@ -146,6 +146,7 @@
 - [§ 66b Verschwiegenheit; Schutz von Privatgeheimnissen](0066b.md)
 - [§ 66c Zusammenarbeit mit anderen Stellen und internationale Zusammenarbeit](0066c.md)
 - [§ 67 Ahndung einer Pflichtverletzung](0067.md)
+- [§ 67a Absehen von der Verfolgung gegen Auflage](0067a.md)
 - [§ 68 Berufsaufsichtliche Maßnahmen](0068.md)
 - [§ 68a Untersagungsverfügung](0068a.md)
 - [§ 68b Vorläufige Untersagungsverfügung](0068b.md)
@@ -164,7 +165,7 @@
 
 ### Zweiter Abschnitt Gerichte
 
-- [§ 72 Kammer für Wirtschaftsprüfersachen](0072.md)
+- [§ 72 Kammer für Wirtschaftsprüfersachen; Verbindung berufsgerichtlicher Verfahren](0072.md)
 - [§ 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht](0073.md)
 - [§ 74 Senat für Wirtschaftsprüfersachen beim Bundesgerichtshof](0074.md)
 - [§ 75 Berufsangehörige als Beisitzer](0075.md)
@@ -193,7 +194,7 @@
 - [§ 84 Mitwirkung der Staatsanwaltschaft](0084.md)
 - [§ 85 Einleitung des berufsgerichtlichen Verfahrens](0085.md)
 - [§ 86 Verfahren](0086.md)
-- [§ 87 (weggefallen)](0087.md)
+- [§ 87 Entscheidung zur Höhe der Geldbuße durch Beschluss](0087.md)
 - [(XXXX) §§ 88 bis 93 (weggefallen)](xxxx-88-bis-93.md)
 - [§ 94 Verlesung der berufsaufsichtlichen Entscheidung](0094.md)
 - [(XXXX) §§ 95 bis 97 (weggefallen)](xxxx-95-bis-97.md)

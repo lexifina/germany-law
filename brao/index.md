@@ -160,6 +160,7 @@
 
 - [§ 85 Einberufung der Kammerversammlung](0085.md)
 - [§ 86 Einladung und Einberufungsfrist](0086.md)
+- [§ 86a Durchführung der Kammerversammlung](0086a.md)
 - [§ 87 Ankündigung der Tagesordnung](0087.md)
 - [§ 88 Wahlen und Beschlüsse der Kammerversammlung](0088.md)
 - [§ 89 Aufgaben der Kammerversammlung](0089.md)
@@ -435,5 +436,6 @@
 - [§ 209a Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften](0209a.md)
 - [§ 210 Bestehenbleiben von Rechtsanwaltskammern](0210.md)
 - [§ 211 Befreiung von der Voraussetzung der Befähigung zum Richteramt](0211.md)
+- [§ 212 (weggefallen)](0212.md)
 - [Anlage 1 (zu § 59a Absatz 4 Satz 1) Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
 - [Anlage 2 (zu § 193 Satz 1 und § 195 Satz 1)Gebührenverzeichnis](anlage-2.md)

@@ -139,6 +139,7 @@ Zweiter Unterabschnitt
 Kammerversammlung
 | § 78 | Einberufung der Kammerversammlung |
 | § 79 | Einladung und Einberufungsfrist |
+| § 79a | Durchführung der Kammerversammlung |
 | § 80 | Ankündigung der Tagesordnung |
 | § 81 | Wahlen und Beschlüsse der Kammerversammlung |
 | § 82 | Aufgaben der Kammerversammlung |

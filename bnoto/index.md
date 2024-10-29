@@ -137,6 +137,7 @@
 - [§ 69c Vorzeitiges Ausscheiden eines Vorstandsmitglieds](0069c.md)
 - [§ 70 Präsident](0070.md)
 - [§ 71 Kammerversammlung](0071.md)
+- [§ 71a Durchführung der Kammerversammlung](0071a.md)
 - [§ 72 Regelung durch Satzung](0072.md)
 - [§ 73 Erhebung von Beiträgen](0073.md)
 - [§ 74 Auskunfts-, Vorlage- und Vorladerecht](0074.md)

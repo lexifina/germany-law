@@ -128,6 +128,7 @@ Notarkammern
 | § 69c | Vorzeitiges Ausscheiden eines Vorstandsmitglieds |
 | § 70 | Präsident |
 | § 71 | Kammerversammlung |
+| § 71a | Durchführung der Kammerversammlung |
 | § 72 | Regelung durch Satzung |
 | § 73 | Erhebung von Beiträgen |
 | § 74 | Auskunfts-, Vorlage- und Vorladerecht |

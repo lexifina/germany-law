@@ -152,6 +152,7 @@
 
 - [§ 78 Einberufung der Kammerversammlung](0078.md)
 - [§ 79 Einladung und Einberufungsfrist](0079.md)
+- [§ 79a Durchführung der Kammerversammlung](0079a.md)
 - [§ 80 Ankündigung der Tagesordnung](0080.md)
 - [§ 81 Wahlen und Beschlüsse der Kammerversammlung](0081.md)
 - [§ 82 Aufgaben der Kammerversammlung](0082.md)
