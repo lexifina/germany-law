@@ -1,0 +1,99 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2024-10-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7894683
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7894683
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokolle der Sitzung vom 24.09.2024
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitungen der Sitzung vom 24.09.2024
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Gestaltungsmöglichkeiten des Hochbunkers Ecke Waldstr./Sonnwendjochstr.
+- TOP 2.2.: (E) Fußgängerfreundliche Ampelquerung Kreillerstraße (Höhe Permoserplatz)
+- TOP 2.3.: (E) Grüner Abbiegepfeil für Fahrräder St.-Veit-Straße / Hansjakobstraße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 3.1.1.: Neumarkter Str. 77 - Neubau eines gewerblich genutzten Gebäudes mit Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Blombergstr. 58 - Abbruch Bestand und Neubau eines Wohngruppenhauses mit Fahrradgarage für Jugendliche
+- TOP 3.1.3.: Rosenheimer Str. 139 - Neubau eines Büro- und Geschäftsgebäudes mit Tiefgarage als Ersatzbau für ein Verwaltungsgebäude
+- TOP 3.1.4.: Erika-Köth-Str. - Werksviertel WA2 (3) BA 1, Neubau einer Wohnanlage mit Tiefgarage und zwei Gewerbeeinheiten - mit Mobilitätskonzept
+- TOP 3.1.5.: Gratlspitzstr. 5 - Neubau eines Einfamilienhauses mit Garage
+- TOP 3.1.6.: Grafinger Str. 35 - Erweiterung der bestehenden Freischankfläche und Umnutzung der Kegelbahn für einen Gastraum
+- TOP 3.1.7.: Mülleimer mit Pfandring bzw. für Pizzakartons: Test auch in Berg am Laim; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 3.2.1.: Sicherer Radverkehr zu und aus dem Ostpark; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.2.: Hochbunker Sonnwendjochstraße: Telekom-Mobilfunksender trotz Denkmalschutz; Antrag der Fraktion Freie Wähler/ÖDP
+- TOP 3.2.3.: Zustand und Sanierung der Eisenbahnüberführung am S-Bahnhof Berg am Laim (Truderinger Straße); Antrag der CSU-Fraktion
+- TOP 3.2.4.: Verkehrliche Auswirkungen des Projekts „Daglfinger/Truderinger Kurve“; Antrag der CSU-Fraktion
+- TOP 3.2.5.: Aufruf des BA 6 - Sendling „Gebt München wieder ein Vorkaufsrecht und senkt endlich die Kappungsgrenze!"
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 3.3.1.: Informationsschreiben Sommerstraße und Aufruf für Saison 2025, Frist bis zum 31.10.2024 - vertagt aus der Plenumssitzung vom 24.09.2024 -
+- TOP 3.3.2.: Unterrichtung des Bezirksausschusses bei Änderungen der Trägerschaft von Kindertageseinrichtungen im Stadtbezirk; Antrag der CSU-Fraktion
+- TOP 3.3.3.: Schul- und Kitabauoffensive – 6. Schulbauprogramm, Kita-Bauprogramm 2024
+- TOP 3.3.4.: Fahrrad Codier-Aktion in Berg am Laim anbieten; Anliegen aus der Bürgerschaft
+- TOP 3.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 3.5.: Bereich Budget / Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget democraticArts gGmbH democraticArts-Ferienworkshop und democrArtsYouth-Team, 28.10.-30.10.2024 (Youth-Team bis Ende 2024) 7.600,00 €; AZ 0262.0-14-0425
+- TOP 3.5.2.: (E) Stadtbezirksbudget Initiative "KIKUS-Kinder-Sprachkurse" KIKUS-Kinder-Sprachkurse in Berg am Laim ab Herbst 2024, Donnerstag, 19.09.2024 - Donnerstag, 20.03.2025 1.500,00 €; AZ 0262.0-14-0424
+- TOP 3.5.3.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St.-Martins-Feier mit Umzug, 10.11.2024 731,25 €; AZ 0262.0-14-0426
+- TOP 3.5.4.: (E) Stadtbezirksbudget Verein der Freunde der Freiwilligen Feuerwehr Michaeliburg e. V. fahrbarer Kleiderständer zur Aufnahme der Dienst- bzw. Einsatzkleidung 824,64 €; Az. 0262.0-14-0423
+- TOP 3.5.5.: (E) Stadtbezirksbudget Schamrock e.V. Schamrock-Festival der Dichterinnen: „Conference of the Birds“ vom 25. bis 27.10.2024 4.500,00 Euro; Az. 0262.0-14-0422
+- TOP 3.5.6.: (E) Stadtbezirksbudget WEG Berg-am-Laim-Str. 131-141 Restaurierung Wegkreuz/Kruzifix denkmalgeschützt vom 01.11.2024 - 29.02.2025 3.836,75 Euro; Az. 0262.0-14-0427
+- TOP 3.5.7.: Ergänzung der Schaukästen für den Stadtbezirk 14 Berg am Laim um weitere Standorte
+- TOP 3.5.8.: Umsetzungsmöglichkeiten des BA 14 Antrags zum Aufstellen von senior*innen gerechten Bänken
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Neumarkter Str. 77
+- TOP 3.6.2.: Rosenheimer Str. 139
+- TOP 3.6.3.: Erika-Köth-Str.
+- TOP 3.6.4.: Grafinger Str. 35
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 4.1.1.: Baulisten September 2024
+- TOP 4.1.2.: Zweckentfremdung von Wohnraum
+- TOP 4.1.3.: Beschluss zur Blombergstr. 33
+- TOP 4.1.4.: Unterkunft Hachinger-Bach-Straße 19: Lärm durch Heiz-und Belüftungsanlagen reduzieren
+- TOP 4.1.5.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 4.1.6.: Informationen über die Planung der Freilegung Hachinger Bach und Hochwasser
+- TOP 4.1.7.: Tiny Forest bzw. Microforest für Berg am Laim
+- TOP 4.1.8.: Toilettenanlage am "Grünen Markt"
+- TOP 4.2.: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 4.2.1.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze an der Gisela-Stein-Str. 4 und der August-Everding-Str. 25
+- TOP 4.2.2.: Rückerstattung von Heizkosten
+- TOP 4.2.3.: Brenner-Nordzulauf in München /Transeuropäische Netze - Daglfinger Kurve, Truderinger Kurve sowie zweigleisiger Ausbau Trudering-Daglfing Kfz-Verwahrstelle und Einhausung
+- TOP 4.2.4.: Beschlussentwurf "Brenner-Nordzulauf in München /Transeuropäische Netze - Daglfinger Kurve, Truderinger Kurve sowie zweigleisiger Ausbau Trudering-Daglfing Kfz-Verwahrstelle und Einhausung", Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.2.5.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze und Lastenradstellplätze in der Hermann-Weinhauser-Str. 62
+- TOP 4.2.6.: Verkehrssituation an der Kreuzung Baumkirchner/Neumarkter/Hansjakobstr.
+- TOP 4.2.7.: Absolutes Haltverbot am Parkplatz gegenüber Hausnummer 30 in der Hermann-Weinhauser-Str.
+- TOP 4.2.8.: Kreuzung Schatzbogen / Halfinger Str. - Sicherheit für Fußgänger verbessern, Barrierefreiheit herstellen
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 4.3.1.: Spielaktion vom 28.-.29.10.2024 am Piusplatz, Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.3.2.: Piusplatz–„Abschlussevent“ am 27.09.2024; Stellungnahme nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung
+- TOP 4.4.: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 4.5.: Bereich Budget / Organisation
+- TOP 4.5.1.: Verwendungsnachweise
+- TOP 4.5.2.: Digitale Schaukästen für die Bezirksausschüsse
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Hansjakobstr.
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben und Baumschutz, Umweltschutz
+- TOP 5.1.2: Bereich städtebauliche Entwicklung, Mobilität, Wohnen und Gewerbe, Digitalisierung
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport, Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senior*innen, Familie
+- TOP 5.1.5: Bereich Budget / Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
