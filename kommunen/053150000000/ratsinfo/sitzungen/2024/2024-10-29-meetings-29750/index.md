@@ -1,0 +1,80 @@
+# 37. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-10-29T16:00:00+01:00
+- Ende: 2024-10-29T18:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29750
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29750
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Fahrplaneinschränkungen bei den Kölner Verkehrsbetrieben (KVB) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Plan zur Gestaltung von Freiräumen durch die Verkehrswende - Sache ist erledigt
+- TOP -: Stellungnahme zum Antrag AN/0765/2024: "Plan zur Gestaltung von Freiflächen durch die Verkehrswende" - Kenntnis genommen
+- TOP -: Änderungsantrag zu Top 1.1, Plan zur Gestaltung von Freiräumen durch die Verkehrswende - ungeändert beschlossen
+- TOP 1.2: Einrichtung weiterer TaxiBuslinien im Kölner Stadtgebiet und Vereinfachung der Buchung - zurückgestellt
+- TOP 1.3: Sichere Schulwege für neue Schulstandorte - zurückgestellt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Anregung der Bezirksvertretung Nippes betreffend "Mülheimer Brücke: Zwei Fahrspuren ausschließlich für Radverkehr" - Alternative beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Stadtbahn Bonn-Niederkassel-Köln - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 4.7, Beschlussvorlage 0609/2024 - Ein neu definiertes Grundnetz für den motorisierten Individualverkehr (MIV-Grundnetz) - zurückgestellt
+- TOP 4.2: Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West, Haltestellen Universitätsstraße, Aachener Straße/Gürtel, Maarweg, Clarenbachstift, Eupener Straße, Alter Militärring und Rheinenergiestadion - zurückgestellt
+- TOP 4.3: Politischer Variantenentscheid für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich Innenstadt - zurückgestellt
+- TOP -: Massiver Ausbau des ÖPNV-Netzes und Verzicht auf Langzüge auf der Ost-West-Achse, Taktverdichtung durch versetzte Doppel-Haltestellen - zurückgestellt
+- TOP 4.4: Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes und abschließender Beschluss zur Stufe 4 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - zurückgestellt
+- TOP 4.5: 294. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: Bedarfsfeststellungs- und Baubeschluss Deutzer Brücke zur grundhaften Erneuerung von Brückenbelägen auf der Südseite - ungeändert empfohlen
+- TOP 4.7: Übertragungsbeschluss K35 - ungeändert empfohlen
+- TOP 4.8: Zuständigkeitsübertragung der Linie SB 91 für die Streckenabschnitte auf Kölner Gebiet auf den Rhein-Erft-Kreis - ungeändert empfohlen
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses am 05.03.2024, AN/0273/2024, "Personalsituation im Dezernat III-Mobilität" - Kenntnis genommen
+- TOP 5.1.1.1: Beantwortung von mündlichen Zusatzfragen des RM Lorenz aus der Sitzung am 11.06.2024 betr. "Personalsituation" - Kenntnis genommen
+- TOP 5.1.2: Interne Controllingliste - zurückgestellt
+- TOP 5.1.3: Verkehrssicherheit Kempener Straße - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung der KLIMA Freunde & Gut "Verkehrssicherheit Kempener Straße" - Kenntnis genommen
+- TOP 5.1.4: Bau von E-Ladesäulen beschleunigen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion im Rat der Stadt Köln aus der Sitzung des Verkehrsausschusses vom 10.09.2024 betreffend „Bau von E-Ladesäulen beschleunigen“ (AN/1047/2024) - Kenntnis genommen
+- TOP 5.1.5: Sauberkeit an der Haltestelle Hansaring - zurückgestellt
+- TOP 5.1.6: Rodenkirchener Brücke – was tut die Stadt Köln gegen Abriss und Neubau? - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 23.04.2024 (AN/0617/2024) betr. "Rodenkirchener Brücke – was tut die Stadt Köln gegen Abriss und Neubau?" - zurückgestellt
+- TOP 5.1.7: Verkehrspolitische Beschlüsse kenntlich machen - zurückgestellt
+- TOP 5.1.8: Parken in Poll - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Verkehrsausschusses vom 23.04.2024 betr. "Parken in Poll" (AN/0602/2024) - Kenntnis genommen
+- TOP 5.1.9: Kostenstand Nord-Süd Stadtbahn Köln - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion "Die Linke" aus der Sitzung des Verkehrsausschusses vom 11.06.2024 (AN/0888/2024) betreffend den Kostenstand der Nord-Süd Stadtbahn - Kenntnis genommen
+- TOP 5.1.10: Verkehrskonzepte übereinander bringen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses vom 10.09.2024, betreffend "Verkehrskonzepte übereinander bringen - Kenntnis genommen
+- TOP 5.1.11: Beantwortung einer mündlichen Anfrage des RM Büschges in der Sitzung des Verkehrsausschusses am 11.06.2024 betr. - Kenntnis genommen
+- TOP 5.1.12: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der 36. Sitzung des Verkehrsausschusses vom 10.09.2023 betreffend TOP 4.9 Erweiterter Planungsbeschluss für die Kapazitätserweiterung auf der Ost-West-Achse, Bereich West - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Carsharing im öffentlichen Raum - zurückgestellt
+- TOP 5.2.2: Subnetzstraßen - zurückgestellt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Stra-ße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Pilotanwendung der Piktogrammkette für den Radverkehr - Kenntnis genommen
+- TOP 6.2.1.1: Nachfragen des RM De Bellis-Olinger aus der Sitzung des Verkehrsausschusses vom 10.09.2024 betreffend "Pilotanwendung der Piktogrammkette für den Radverkehr" (2234/2024) - Kenntnis genommen
+- TOP 6.2.2: Mitteilung zur alternativen Führung der RadPendlerRoute 4 im Teilabschnitt Nord - Kenntnis genommen
+- TOP 6.2.3: Klimataler-App - Kenntnis genommen
+- TOP 6.2.4: Gesamtinstandsetzung Mülheimer Brücke - Verzögerte Inbetriebnahme Stadtbahn - Kenntnis genommen
+- TOP 6.2.5: Beantwortung von mündlichen Anfragen der CDU-, SPD-, FDP-Fraktion und Fraktion Bündnis90/Die Grünen aus der 27. Sitzung des Stadtentwicklungsausschusses vom 20.06.2024 (TOP 18.9) betreffend "Realisierung des Mikrodepots Deutz" (1766/2024) - Kenntnis genommen
+- TOP 6.2.6: Verkehrsunfälle, Unfallhäufungen und tödliche Verkehrsunfälle des Jahres 2023 im Stadtgebiet Köln - Kenntnis genommen
+- TOP 6.2.7: Interkommunaler Radverkehr: Definition des landesweiten Radvorrangnetzes und Bedarfsplan Radschnellverbindungen - zurückgestellt
+- TOP 6.2.8: Aktueller Sachstand B+R Konzept der Stadt Köln: Baubeschluss für die Errichtung einer vollautomatischen Fahrradschließanlage „Bike Tower" mit 120 Fahr-radabstellplätzen an der Haltestelle Weiden West - Kenntnis genommen
+- TOP 6.2.9: Klimaschutz-Monitoring - Kenntnis genommen
+- TOP 6.2.10: Personalbedingte Angebotsreduzierungen ab 16. November 2024 bei der KVB sowie Verschiebung des KVB-Fahrplanwechsels in das Jahr 2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2.11: Stadtbahnvorhaben Köln - Niederaußem - hier: Aktueller Sachstand zur Vorbereitung der Machbarkeitsstudie zur Verlängerung der Linie 4 - Kenntnis genommen
+- TOP 6.2.12: Machbarkeitsstudie für ein Expressbusnetz - Kenntnis genommen
+- TOP 6.2.13: Neugestaltung der Vorgebirgstraße in Zollstock auf dem Abschnitt zwischen „Am Vorgebirgstor“ und Raderthalgürtel durch Umwandlung der rechten Fahrspuren in eine Radverkehrsanlage/Schutzstreifen - zurückgestellt
+- TOP 7: Mündliche Anfragen
