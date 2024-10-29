@@ -1,0 +1,52 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2024-10-29T18:00:00+01:00
+- Ende: 2024-10-29T20:07:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRawR84T8DWWBI-49PkGiSc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21194
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcIq8hrWeFNqG3o2_TIF8ExW2-a6Ab2q8Ce1ehuG8B66/Bekanntmachung_Rat_29.10.2024.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeiOCbiaubNBxnYRmzDPM9GZbxGvrlKABkn7GYvmBvZa/Oeffentliche_Niederschrift_Rat_29.10.2024.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 01.10.2024 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Sachstand Hochwasserschutz hier: Vortrag Erftverband zum Rückhaltebecken Möschemer Mühle -        
+- TOP 5.: Neubesetzung des Wahlausschusses hier: Antrag der SPD-Fraktion vom 06.10.2024 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 6.: Grundsteuerreform zum 01.01.2025; hier: Sachstandbericht und weiteres Vorgehen - Einstimmiger Beschluss:
+- TOP 7.: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss siehe RD-Nr. 1427-XI/Z-3.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss siehe RD-Nr. 1427-XI/Z-3.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Abwägungsbeschlüsse und abschließender Beschluss (Feststellungsbeschluss) - Beschluss siehe RD-Nr. 1427-XI/Z-3.
+- TOP -: 35. Änderung des Flächennutzungsplans "Zwischen den Kaulen und den Ohndorfer Gärten" im Ortsteil Kirspenich unter Berücksichtigung von Tauschflächen in Ohlerath, Arloff-Kirspenich, Langscheid, Schönau, Mutscheid und Bad Münstereifel hier: Aktueller Sachstand und weiteres Vorgehen vor der Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den abschließenden Beschluss (Feststellungsbeschluss) - Einstimmiger Beschluss:
+- TOP 8.: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss siehe RD-Nr. 1428-XI/Z-3.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss siehe RD-NR. 1428-XI/Z-3.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss RD-Nr. 1428-XI/Z-3.
+- TOP -: Bebauungsplan Nr. 101 "An den Ohndorfer Gärten" im Ortsteil Kirspenich hier: Aktueller Sachstand und weiteres Vorgehen vor der Beratung und Beschlussfassung über die Abwägungsbeschlüsse und den Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP 9.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) hier: Beschluss zur Festlegung des Programmgebietes der Fortschreibung und zugehörigem Förderantrag Stadterneuerungsprogramm 2025 - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 10.: Neuaufstellung des Regionalplans im Regierungsbezirk Köln - hier: Stellungnahme der Stadt Bad Münstereifel zum 2. Planentwurf im Rahmen der Offenlage - Einstimmiger Beschluss:
+- TOP 11.: Teileinziehung von Straßen und Straßenteilstücken im Bereich der Kernstadt Bad Münstereifel; Bekanntmachung der Absicht der Teileinziehung hier: Stellungnahme und Erläuterung der beteiligten Fachämter zum gefassten Ratsbeschluss vom 24.09.2024 - Mehrheitlicher Beschluss mit 7 Nein-Stimmen:
+- TOP 12.: Erlass des Wirtschaftsplanes 2025 des Forstbetriebes der Stadt Bad Münstereifel hier: Feststellung - Einstimmiger Beschluss:
+- TOP 13.: 3. Satzung zur Änderung der Betriebssatzung der Stadt Bad Münstereifel für den „Forstbetrieb der Stadt Bad Münstereifel“ vom 22.11.2006 Hier: Rechtliche Anpassung des § 14 der Betriebssatzung des Forstbetriebes - Beschluss siehe RD-Nr. 1448-XI/Z-1.
+- TOP -: 3. Satzung zur Änderung der Betriebssatzung der Stadt Bad Münstereifel für den „Forstbetrieb der Stadt Bad Münstereifel“ vom 22.11.2006 Hier: Rechtliche Anpassung des § 14 der Betriebssatzung des Forstbetriebes - Einstimmiger Beschluss:
+- TOP 14.: Unterbringungssituation Geflüchteter; hier: Sachstand Gutachten Liegenschaft Linnerijstraße - Mehrheitlicher Beschluss mit 1 Nein-Stimme und 2 Enthaltungen:
+- TOP 15.: Erweiterung der Dienstwagennutzung - Einstimmiger Beschluss:
+- TOP 16.: Einführung Kommunales Energiemanagementsystem - Mehrheitlicher Beschluss bei 2 Nein-Stimmen:
+- TOP 17.: Beschaffung einer Verwaltungssoftware Hier: Genehmigung einer überplanmäßigen Leistung - Einstimmiger Beschluss:
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Vertretung im Bildungs- und Sozialausschuss hier: Mitteilung der Evangelischen Kirchengemeinde Bad Münstereifel vom 06.09.2024
+- TOP 18.2: Sachstand Wiederaufbau hier: Stand 15.10.2024
+- TOP 18.3: Bericht zum 30.09.2024 im Rahmen des Finanzcontrollings
+- TOP 18.4: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 18.5: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2025
+- TOP 18.6: Mögliche Rückforderung von ggf. zu Unrecht erhaltener Wiederaufbauhilfe an Privathaushalte durch die zuständige Bezirksregierung; hier: Hinweisschreiben eines örtlichen Rechtsanwaltes an die Bürgermeisterin und den Rat
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages – Sachstand und weitere Umsetzung - Einstimmiger Beschluss bei 2 Entahltungen:
+- TOP 2.: Verkauf von Grundstücksflächen in Kirspenich; hier: Ausführung Ratsbeschluß – Verlängerung Rücktrittsrecht - Mehrheitlicher Beschluss bei 1 Nein-Stimme:
+- TOP 3.: Anfragen und Mitteilungen
