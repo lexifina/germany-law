@@ -1,4 +1,4 @@
-# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln
+# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln
 
 - [Eingangsformel](eingangsformel.md)
 

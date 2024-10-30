@@ -302,6 +302,9 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 | 10.6.2 | 100 MW bis 200 MW, |  | A |
 | 10.6.3 | weniger als 100 MW; |  | S |
 | 10.7 | Errichtung und Betrieb einer ständigen Renn- oder Teststrecke für Kraftfahrzeuge; |  | A |
+| 10.8 | Errichtung und Betrieb einer Anlage zur Wasserelektrolyse zur Erzeugung von Wasserstoff sowie Sauerstoff, ausgenommen integrierte chemische Anlagen nach Nummer 4.1, mit einer elektrischen Nennleistung von |  |  |
+| 10.8.1 | 50 MW oder mehr |  | A |
+| 10.8.2 | 5 MW bis weniger als 50 MW |  | S |
 | 11. | Kernenergie: |  |  |
 | 11.1 | Errichtung und Betrieb einer ortsfesten Anlage zur Erzeugung oder zur Bearbeitung oder Verarbeitung oder zur Spaltung von Kernbrennstoffen oder zur Aufarbeitung bestrahlter Kernbrennstoffe sowie bei ortsfesten Anlagen zur Spaltung von Kernbrennstoffen die insgesamt geplanten Maßnahmen zur Stilllegung, zum sicheren Einschluss oder zum Abbau der Anlage oder von Anlagenteilen; ausgenommen sind ortsfeste Anlagen zur Spaltung von Kernbrennstoffen, deren Höchstleistung 1 KW thermische Dauerleistung nicht überschreitet; einzelne Maßnahmen zur Stilllegung, zum sicheren Einschluss oder zum Abbau der in Halbsatz 1 bezeichneten Anlagen oder von Anlagenteilen gelten als Änderung im Sinne von § 9; | X |  |
 | 11.2 | Errichtung und Betrieb einer Anlage zur Sicherstellung oder zur Endlagerung radioaktiver Abfälle; | X |  |

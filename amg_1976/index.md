@@ -10,6 +10,7 @@
 - [§ 4 Sonstige Begriffsbestimmungen](0004.md)
 - [§ 4a Ausnahme vom Anwendungsbereich](0004a.md)
 - [§ 4b Sondervorschriften für Arzneimittel für neuartige Therapien](0004b.md)
+- [§ 4c Indikationsbezogenes Register für Arzneimittel für neuartige Therapien](0004c.md)
 
 ## Zweiter Abschnitt Anforderungen an die Arzneimittel
 
@@ -88,11 +89,14 @@ klinischen Prüfung
 - [§ 41 Stellungnahme der Ethik-Kommission](0041.md)
 - [§ 41a Registrierungsverfahren für Ethik-Kommissionen](0041a.md)
 - [§ 41b Verfahrensordnung und Geschäftsverteilungsplan](0041b.md)
-- [§ 41c Verordnungsermächtigung](0041c.md)
+- [§ 41c Spezialisierte Ethik-Kommission für besondere Verfahren](0041c.md)
+- [§ 41d Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen](0041d.md)
 - [§ 42 Korrekturmaßnahmen](0042.md)
 - [§ 42a Datenschutz](0042a.md)
 - [§ 42b Veröffentlichung der Ergebnisse klinischer Prüfungen](0042b.md)
 - [§ 42c Inspektionen](0042c.md)
+- [§ 42d Standardvertragsklauseln für die Durchführung klinischer Prüfungen](0042d.md)
+- [§ 42e Empfehlungen für von nichtkommerziellen Sponsoren durchgeführte klinische Prüfungen ohne wirtschaftliche Zwecksetzung](0042e.md)
 
 ## Siebter Abschnitt Abgabe von Arzneimitteln
 
@@ -178,7 +182,7 @@ Pharmaberater
 ## Fünfzehnter Abschnitt Bestimmung der zuständigen
 Bundesoberbehörden und sonstige Bestimmungen
 
-- [§ 77 Zuständige Bundesoberbehörde](0077.md)
+- [§ 77 Zuständige Bundesoberbehörde,Verordnungsermächtigung](0077.md)
 - [§ 77a Unabhängigkeit und Transparenz](0077a.md)
 - [§ 78 Preise](0078.md)
 - [§ 79 Ausnahmeermächtigungen für Krisenzeiten](0079.md)
