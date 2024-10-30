@@ -1,0 +1,57 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2024-10-30T16:00:00+01:00
+- Ende: 2024-10-30T19:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26165
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/26165
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533299.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533299.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00533299.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift vom 26.06.2024
+- TOP 4: Anfragen
+- TOP 4.1: Fahrgastbeirat Rheinbahn -Anfrage SPD-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.2: Entfernen von Umlaufsperren und Pollern auf Radwegen -Anfrage Ratsfraktion Die LINKE- - vertagt
+- TOP 4.3: Schmale Fahrbahnen und Parken oder Halten -Anfrage Ratsfraktion Die PARTEI-Klima- - zur Kenntnis genommen
+- TOP 4.4: Klimaschutz durch Werbefreiheit -Anfrage Ratsfraktion Die PARTEI-Klima- - vertagt
+- TOP 5: Anträge
+- TOP 5.1: Barrierefreier Umbau der Haltestelle St. Vinzenz-Krankenhaus in 2025 -Antrag des Behindertenrates- - einstimmig beschlossen
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Haroldstraße – Erschließung Haroldstr. 5, Ministerium der Finanzen und NRW.BANK - zur Kenntnis genommen
+- TOP 9: Bebauungsplan - Entwurf Nr. 03/034 - Südlich Haroldstraße - Empfehlung einstimmig beschlossen
+- TOP 10: Barrierefreier Umbau des DB-Bahnhofs Düsseldorf Gerresheim - Variantenentscheidung - Empfehlung abweichend beschlossen
+- TOP 11: Bilker Allee / Benzenbergstraße – optimierter Zwischenzustand östlich Bilker Kirche - abweichend beschlossen
+- TOP 12: Entwurf VRR-Nahverkehrsplan 2025; Beteiligungsverfahren - mehrheitlich beschlossen
+- TOP 12.1: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 12, OVA/114/2024/1: Entwurf VRR-Nahverkehrsplan 2025; Beteiligungsverfahren - einstimmig beschlossen
+- TOP 13: Zielkonzept Stadtbahn/Straßenbahn - Empfehlung abweichend beschlossen
+- TOP 13.1: Änderungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zu TOP 13, OVA/116/2024: Zielkonzept Stadtbahn/Straßenbahn - mehrheitlich beschlossen
+- TOP 13.2: Ergänzungsantrag der SPD-Ratsfraktion zur Vorlage OVA/116/2024: Zielkonzept Stadtbahn/ Straßenbahn - abweichend beschlossen
+- TOP 14: Radwegeplanung Vennhauser Allee im Abschnitt Krippstraße / Gumbertstraße - mehrheitlich beschlossen
+- TOP 15: Haushaltsanträge
+- TOP 15.1: Haushaltsantrag der Ratsfraktion Die LINKE: Kosten für den Fußverkehr im Haushalt sichtbar machen - mehrheitlich abgelehnt
+- TOP 15.2: Haushaltsantrag der Ratsfraktion Die LINKE: Mittel für die Ausstattung von Haltestellen erhöhen - mehrheitlich abgelehnt
+- TOP 15.3: Haushaltsantrag der FDP-Ratsfraktion: Einführung eines innovativen Parkplatzmanagementsystems für Düsseldorf - mehrheitlich abgelehnt
+- TOP 15.4: Haushaltsbegleitantrag der SPD-Ratsfraktion: Projektpriorisierung zur Erreichung der Klimaneutralität 2035 - mehrheitlich abgelehnt
+- TOP 16: Haushaltsplanentwurf des Ordnungsamtes für die Jahre 2025 - Empfehlung mehrheitlich beschlossen
+- TOP 17: Haushaltsplanentwurf des Amtes für Brücken-, Tunnel- und Stadtbahnbau für das Jahr 2025 - Empfehlung mehrheitlich beschlossen
+- TOP 18: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für das Jahr 2025 - Empfehlung mehrheitlich beschlossen
+- TOP 19: Controlling-Bericht über die Baumaßnahmen des Amtes für Brücken-, Tunnel- und Stadtbahnbau - 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 20: Controlling-Bericht über die Baumaßnahmen des Amtes für Verkehrsmanagement – 1. Halbjahr 2024 - zur Kenntnis genommen
+- TOP 21: Umgestaltung Kaiserswerther Markt – Weiteres Vorgehen - vertagt
+- TOP 22: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahre 2025 - vertagt
+- TOP 23: Wohngebiet Feuerbachstraße- Einrichtung eines Bewohnerparkgebietes - mehrheitlich beschlossen
+- TOP 24: Einführung Dachmarke "Wege für alle" - vertagt
+- TOP 25: Konzept Radverkehrsführung während der Weihnachtsmärkte - zur Kenntnis genommen
+- TOP 26: Beteiligungsverfahren zur Definition des landesweiten Radvorrangnetzes des Landes Nordrhein-Westfalen - vertagt
