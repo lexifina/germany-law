@@ -1,0 +1,6 @@
+# TOP 5: Hinweise und Anfragen der Stadtbezirksbeiräte
+
+- Sitzung: 3. Sitzung des Stadtbezirksbeirates Leuben (2024-10-30)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/209066
