@@ -62,7 +62,7 @@ Tragbare Gegenstände im Sinne des § 1 Abs. 2 Nr. 2 Buchstabe b nach den Nummer
 1.4.1
 Spring- und Fallmesser nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 2.1.1 und 2.1.2. Hiervon ausgenommen sind Springmesser, wenn die Klinge seitlich aus dem Griff herausspringt und der aus dem Griff herausragende Teil der Klinge
 - höchstens 8,5 cm lang ist und
-- nicht zweiseitig geschliffen ist;
+- nicht zweiseitig geschliffen ist, soweit ein berechtigtes Interesse besteht, das eine einhändige Nutzung erforderlich macht, oder der Umgang im Zusammenhang mit der Berufsausübung erfolgt;
 1.4.2
 Faustmesser nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 2.1.3,
 1.4.3

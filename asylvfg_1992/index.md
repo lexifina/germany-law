@@ -46,6 +46,7 @@
 - [§ 14a Familieneinheit](0014a.md)
 - [§ 15 Allgemeine Mitwirkungspflichten](0015.md)
 - [§ 15a Auslesen und Auswerten von Datenträgern](0015a.md)
+- [§ 15b Nachträglicher biometrischer Abgleich mit allgemein öffentlich zugänglichen Daten aus dem Internet; Verordnungsermächtigung](0015b.md)
 - [§ 16 Sicherung, Feststellung und Überprüfung der Identität](0016.md)
 - [§ 17 Sprachmittler](0017.md)
 

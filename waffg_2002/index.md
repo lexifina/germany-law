@@ -17,6 +17,8 @@ Waffen- und Munitionserlaubnisse
 - [§ 4 Voraussetzungen für eine Erlaubnis](0004.md)
 - [§ 5 Zuverlässigkeit](0005.md)
 - [§ 6 Persönliche Eignung](0006.md)
+- [§ 6a Nachbericht](0006a.md)
+- [§ 6b Mitteilungspflichten der Waffenbehörden an die Jagdbehörden](0006b.md)
 - [§ 7 Sachkunde](0007.md)
 - [§ 8 Bedürfnis, allgemeine Grundsätze](0008.md)
 - [§ 9 Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen](0009.md)
@@ -100,8 +102,10 @@ und Nachweispflichten
 
 - [§ 40 Verbotene Waffen](0040.md)
 - [§ 41 Waffenverbote für den Einzelfall](0041.md)
-- [§ 42 Verbot des Führens von Waffen bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen](0042.md)
+- [§ 42 Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen](0042.md)
 - [§ 42a Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen](0042a.md)
+- [§ 42b Verbot des Führens von Waffen und Messern im öffentlichen Personenfernverkehr; Verordnungsermächtigung für Verbotszonen](0042b.md)
+- [§ 42c Kontrollbefugnis zum Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen, im öffentlichen Personenfernverkehr und in Verbotszonen](0042c.md)
 
 ## Abschnitt 3 Sonstige waffenrechtliche Vorschriften
 

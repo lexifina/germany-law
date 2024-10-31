@@ -1,3 +1,3 @@
 # Eingangsformel
 
-Auf Grund des § 18a Absatz 8 Satz 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), der durch Artikel 1 des Gesetzes vom 9. März 2021 (BGBl. I S. 324) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
+Auf Grund des § 34 Absatz 8 Satz 2 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) verordnet das Bundesministerium für Wirtschaft und Energie:

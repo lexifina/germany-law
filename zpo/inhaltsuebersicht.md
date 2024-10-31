@@ -684,9 +684,10 @@
 | § 551 | Revisionsbegründung |
 | § 552 | Zulässigkeitsprüfung |
 | § 552a | Zurückweisungsbeschluss |
+| § 552b | Bestimmung zum Leitentscheidungsverfahren |
 | § 553 | Terminsbestimmung; Einlassungsfrist |
 | § 554 | Anschlussrevision |
-| § 555 | Allgemeine Verfahrensgrundsätze |
+| § 555 | Anwendbare Vorschriften |
 | § 556 | Verlust des Rügerechts |
 | § 557 | Umfang der Revisionsprüfung |
 | § 558 | Vorläufige Vollstreckbarkeit |
@@ -696,7 +697,7 @@
 | § 562 | Aufhebung des angefochtenen Urteils |
 | § 563 | Zurückverweisung; eigene Sachentscheidung |
 | § 564 | Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln |
-| § 565 | Anzuwendende Vorschriften des Berufungsverfahrens |
+| § 565 | Leitentscheidung |
 | § 566 | Sprungrevision |
 |  |
 | Abschnitt 3 |

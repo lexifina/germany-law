@@ -12,6 +12,8 @@
 | § 4 | Voraussetzungen für eine Erlaubnis |
 | § 5 | Zuverlässigkeit |
 | § 6 | Persönliche Eignung |
+| § 6a | Nachbericht |
+| § 6b | Mitteilungspflichten der Waffenbehörden an die Jagdbehörden |
 | § 7 | Sachkunde |
 | § 8 | Bedürfnis, allgemeine Grundsätze |
 | § 9 | Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen |
@@ -80,8 +82,10 @@
 | Verbote |
 | § 40 | Verbotene Waffen |
 | § 41 | Waffenverbote für den Einzelfall |
-| § 42 | Verbot des Führens von Waffen bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen |
+| § 42 | Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen |
 | § 42a | Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen |
+| § 42b | Verbot des Führens von Waffen und Messern im öffentlichen Personenfernverkehr; Verordnungsermächtigung für Verbotszonen |
+| § 42c | Kontrollbefugnis zum Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen, im öffentlichen Personenfernverkehr und in Verbotszonen |
 | Abschnitt 3 |
 | Sonstige waffenrechtliche Vorschriften |
 | § 43 | Erhebung und Übermittlung personenbezogener Daten |

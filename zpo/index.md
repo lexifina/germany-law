@@ -701,9 +701,10 @@ Amtsgerichten
 - [§ 551 Revisionsbegründung](0551.md)
 - [§ 552 Zulässigkeitsprüfung](0552.md)
 - [§ 552a Zurückweisungsbeschluss](0552a.md)
+- [§ 552b Bestimmung zum Leitentscheidungsverfahren](0552b.md)
 - [§ 553 Terminsbestimmung; Einlassungsfrist](0553.md)
 - [§ 554 Anschlussrevision](0554.md)
-- [§ 555 Allgemeine Verfahrensgrundsätze](0555.md)
+- [§ 555 Anwendbare Vorschriften](0555.md)
 - [§ 556 Verlust des Rügerechts](0556.md)
 - [§ 557 Umfang der Revisionsprüfung](0557.md)
 - [§ 558 Vorläufige Vollstreckbarkeit](0558.md)
@@ -713,7 +714,7 @@ Amtsgerichten
 - [§ 562 Aufhebung des angefochtenen Urteils](0562.md)
 - [§ 563 Zurückverweisung; eigene Sachentscheidung](0563.md)
 - [§ 564 Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln](0564.md)
-- [§ 565 Anzuwendende Vorschriften des Berufungsverfahrens](0565.md)
+- [§ 565 Leitentscheidung](0565.md)
 - [§ 566 Sprungrevision](0566.md)
 
 ### Abschnitt 3 Beschwerde

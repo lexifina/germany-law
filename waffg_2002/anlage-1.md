@@ -235,7 +235,7 @@ sind Jugendliche Personen, die mindestens 14, aber noch nicht 18 Jahre alt sind;
 12.
 ist eine Waffe schussbereit, wenn sie geladen ist, das heißt, dass Munition oder Geschosse in der Trommel, im in die Waffe eingefügten Magazin oder im Patronen- oder Geschosslager sind, auch wenn sie nicht gespannt ist;
 13.
-ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag gebracht werden kann; sie ist nicht zugriffsbereit, wenn sie in einem verschlossenen Behältnis mitgeführt wird;
+ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag gebracht werden kann; sie ist nicht zugriffsbereit, wenn sie in einem verschlossenen Behältnis mitgeführt wird, ein Messer ist nicht zugriffsbereit, wenn es nur mit mehr als drei Handgriffen erreicht werden kann;
 14.
 sind Mitgliedstaaten die Mitgliedstaaten der Europäischen Union und gelten als Mitgliedstaaten auch die Vertragsstaaten des Schengener Übereinkommens.
 Abschnitt 3:

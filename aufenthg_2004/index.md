@@ -123,6 +123,7 @@
 - [§ 46 Ordnungsverfügungen](0046.md)
 - [§ 47 Verbot und Beschränkung der politischen Betätigung](0047.md)
 - [§ 47a Mitwirkungspflichten; Lichtbildabgleich](0047a.md)
+- [§ 47b Reisen in den Herkunftsstaat](0047b.md)
 - [§ 48 Ausweisrechtliche Pflichten](0048.md)
 - [§ 48a Erhebung von Zugangsdaten](0048a.md)
 - [§ 49 Überprüfung, Feststellung und Sicherung der Identität](0049.md)
