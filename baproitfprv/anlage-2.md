@@ -1,0 +1,26 @@
+# Anlage 2 (zu § 31)Zeugnisinhalte
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+1. Bezeichnung der ausstellenden Behörde,
+2. Name und Geburtsdatum der geprüften Person,
+3. Datum des Bestehens der Prüfung,
+4. Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+5. Bezeichnung und Fundstelle dieser Fortbildungsprüfungsverordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
+6. Datum der Ausstellung des Zeugnisses samt Faksimile oder Unterschrift einer zeichnungsberechtigten Person der zuständigen Stelle.
+Teil B – Zeugnis mit Prüfungsergebnissen:
+Alle Angaben des Teils A sowie zusätzlich
+1. Benennung der Prüfungsteile,
+2. Bewertung des Prüfungsteils „Fachliche Spezialisierung“,
+3. Bewertung des Prüfungsteils „IT-spezifische Handlungsfelder“,
+4. Bewertung des Prüfungsteils „Mitarbeitendenführung und Personalmanagement“,
+5. Bewertung des Prüfungsteils „IT-Projekt“,
+6. Bewertungen der im Prüfungsteil „Fachliche Spezialisierung“ erbrachten Prüfungsleistungen nach den §§ 20 und 21,
+7. Bewertungen der im Prüfungsteil „IT-spezifische Handlungsfelder“ erbrachten Prüfungsleistungen nach § 22,
+8. Bewertungen der im Prüfungsteil „Mitarbeitendenführung und Personalmanagement“ erbrachten Prüfungsleistungen nach den §§ 23 und 24,
+9. Benennung des Themas der Projektarbeit nach § 25 Absatz 3,
+10. Bewertungen der im Prüfungsteil „IT-Projekt“ erbrachten Prüfungsleistungen nach den §§ 25 und 26,
+11. die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+12. die Gesamtnote als Dezimalzahl,
+13. die Gesamtnote in Worten,
+14. Befreiungen nach § 30 und
+15. Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung nach § 33.

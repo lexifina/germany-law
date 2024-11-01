@@ -1,0 +1,16 @@
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Softwareentwicklung oder Geprüfte Berufsspezialistin für Softwareentwicklung
+
+- [§ 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Inhalt der Prüfung](0003.md)
+- [§ 4 Prüfungsbereich „Softwarelösungen planen, entwickeln, implementieren und evaluieren“](0004.md)
+- [§ 5 Form und Ablauf der Prüfung](0005.md)
+- [§ 6 Schriftliche Prüfung](0006.md)
+- [§ 7 Mündliche Prüfung](0007.md)
+- [§ 8 Bewertung der Prüfungsleistungen](0008.md)
+- [§ 9 Bestehen der Prüfung, Gesamtnote](0009.md)
+- [§ 10 Befreiung von einzelnen Prüfungsbestandteilen](0010.md)
+- [§ 11 Zeugnisse](0011.md)
+- [§ 12 Wiederholung von Prüfungsleistungen](0012.md)
+- [Anlage 1 (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel](anlage-1.md)
+- [Anlage 2 (zu § 11)Zeugnisinhalte](anlage-2.md)
