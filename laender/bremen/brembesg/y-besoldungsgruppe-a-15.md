@@ -20,22 +20,18 @@ Rektorin, Rektor
 Studiendirektorin, Studiendirektor
 - an allgemeinbildenden und beruflichen Schulen -
 - als die ständige Vertretung der Leiterin oder des Leiters
-einer beruflichen Schule mit mehr als 80 bis zu 360 Schülerinnen und Schülern12),
-einer beruflichen Schule mit mehr als 360 Schülerinnen und Schülern4) 12),
-eines voll ausgebauten Gymnasiums oder einer Oberschule mit mehr als 360 Schülerinnen und Schülern4)
-eines Schulzentrums der Sekundarstufe II4) -
+einer beruflichen Schule oder eines Schulzentrums der Sekundarstufe II mit bis zu 360 Schülerinnen und Schülern 12),
+einer beruflichen Schule oder eines Schulzentrums der Sekundarstufe II mit mehr als 360 Schülerinnen und Schülern 4) 12),
+eines nicht voll ausgebauten Gymnasiums oder einer nicht voll ausgebauten Oberschule,
+eines voll ausgebauten Gymnasiums oder einer voll ausgebauten Oberschule 4)
 - als Leiterin oder als Leiter
-einer beruflichen Schule mit bis zu 80 Schülerinnen und Schülern12),
-einer beruflichen Schule mit mehr als 80 bis zu 360 Schülerinnen und Schülern 4) 12),
-eines nicht voll ausgebauten Gymnasiums oder einer nicht voll ausgebauten Oberschule4),
-eines voll ausgebauten Gymnasiums oder einer voll ausgebauten Oberschule mit bis zu 360 Schülerinnen und Schülern4) -
+einer beruflichen Schule oder eines Schulzentrums der Sekundarstufe II mit bis zu 360 Schülerinnen und Schülern 4) 12),
+eines nicht voll ausgebauten Gymnasiums oder einer nicht voll ausgebauten Oberschule 4)
 Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6.
 1) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält als ärztliche Referats- oder Dezernatsleitung einer zugeordneten Dienststelle einer obersten Landesbehörde eine Amtszulage nach Anlage 6.
 3) Erhält als ärztliche Abteilungsleitung im Gesundheitsamt Bremerhaven eine Amtszulage nach Anlage 6.
-4) Erhält eine Amtszulage nach Anlage 6.
-4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
@@ -49,7 +45,6 @@ Fußnoten
 9) Nach vollendetem 10. Dienstjahr. Erhält das Endgrundgehalt.
 9) Nach vollendetem 10. Dienstjahr. Erhält das Endgrundgehalt.
 10) Für die Berechnung der Schülerzahlen werden die Schülerinnen und Schüler, die im Förderzentrum und dessen etwaigen Außenstellen unterrichtet werden, voll gezählt. Zur Hälfte gezählt werden die Schülerinnen und Schüler, die in allgemeinbildenden Schulen unterrichtet und von Lehrkräften des Förderzentrums ergänzend gefördert werden sowie alle Schülerinnen und Schüler, die durch Lehrkräfte des Mobilen Dienstes unterstützt werden.
-12) Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
 12) Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
 12) Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
 12) Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.

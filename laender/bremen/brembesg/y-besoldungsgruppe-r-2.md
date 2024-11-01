@@ -6,7 +6,7 @@ Direktorin des Arbeitsgerichts1), Direktor des Arbeitsgerichts1)
 Direktorin des Sozialgerichts1), Direktor des Sozialgerichts1)
 Oberstaatsanwältin, Oberstaatsanwalt
 - als Abteilungsleiterin oder als Abteilungsleiter bei der Staatsanwaltschaft beim Landgericht2) -
-- als Dezernentin oder als Dezernent bei der Staatsanwaltschaft beim Hanseatischen Oberlandesgericht3) -
+- als Dezernentin oder als Dezernent bei der Staatsanwaltschaft beim Hanseatischen Oberlandesgericht -
 - als Leiterin der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen oder als Leiter der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen9) -
 - als ständige Vertreterin der Leitung der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen oder als ständiger Vertreter der Leitung der Zweigstelle Bremerhaven der Staatsanwaltschaft Bremen10) -
 Richterin am Amtsgericht, Richter am Amtsgericht
@@ -32,7 +32,6 @@ Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6, soweit acht und mehr Richterplanstellen ausgebracht sind.
 1) Erhält eine Amtszulage nach Anlage 6, soweit acht und mehr Richterplanstellen ausgebracht sind.
 2) Erhält als die ständige Vertretung der Leiterin oder des Leiters der Staatsanwaltschaft beim Landgericht eine Amtszulage nach Anlage 6.
-3) Erhält als ständige Vertretung der Generalstaatsanwältin oder des Generalstaatsanwalts eine Amtszulage nach Anlage 6.
 4) An einem Gericht mit 15 und mehr Richterplanstellen.
 4) An einem Gericht mit 15 und mehr Richterplanstellen.
 5) Soweit acht und mehr Richterplanstellen ausgebracht sind.

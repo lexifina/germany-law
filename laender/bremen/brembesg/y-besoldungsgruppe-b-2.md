@@ -12,6 +12,7 @@ Leitende Kriminaldirektorin, Leitender Kriminaldirektor
 - bei der Polizei Bremen -
 Leitende Polizeidirektorin, Leitender Polizeidirektor
 - bei der Polizei Bremen -
+Leiterin der Justizvollzugsanstalt Bremen, Leiter der Justizvollzugsanstalt Bremen
 Rektorin der Hochschule Bremerhaven2), Rektor der Hochschule Bremerhaven2)
 Rektorin der Hochschule für Künste2), Rektor der Hochschule für Künste2)
 Rektorin der Hochschule für Öffentliche Verwaltung2), Rektor der Hochschule für Öffentliche Verwaltung2)

@@ -10,7 +10,9 @@ Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Oberschulrätin4), Oberschulrat4)
 Oberstudiendirektorin, Oberstudiendirektor
 - an allgemeinbildenden und beruflichen Schulen -
-- als Leiterin oder als Leiter einer beruflichen Schule mit mehr als 360 Schülerinnen und Schülern5) -
+- als Leiterin oder als Leiter
+einer beruflichen Schule oder eines Schulzentrums der Sekundarstufe II mit mehr als 360 Schülerinnen und Schülern 5),
+eines voll ausgebauten Gymnasiums oder einer voll ausgebauten Oberschule
 Senatsrätin, Senatsrat
 - bei einer obersten Landesbehörde2) -
 Fußnoten

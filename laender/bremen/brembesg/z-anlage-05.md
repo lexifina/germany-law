@@ -1,16 +1,16 @@
 # Anlage 5 - 1. Familienzuschlag
 Anlage 5
-Gültig ab 1. Januar 2024
+Gültig ab 1. November 2024
 1. Familienzuschlag
 (Monatsbeträge in Euro)
  | Stufe 1 | Stufe 2
  | (§ 35 Abs. 1 BremBesG) | (§ 35 Abs. 2 BremBesG)
-Besoldungsgruppen A 5 bis A 8 | 145,00 | 377,02
-übrige Besoldungsgruppen | 152,30 | 384,32
+Besoldungsgruppen A 5 bis A 8 | 151,90 | 394,96
+übrige Besoldungsgruppen | 159,56 | 402,62
 Bei mehr als einem Kind erhöht sich der Familienzuschlag | 
-für das zweite zu berücksichtigende Kind um | 232,02
-für das dritte zu berücksichtigende Kind um | 532,91
-für das vierte und jedes weitere zu berücksichtigende Kind um | 512,54
+für das zweite zu berücksichtigende Kind um | 243,06
+für das dritte zu berücksichtigende Kind um | 558,28
+für das vierte und jedes weitere zu berücksichtigende Kind um | 536,94
 Erhöhungsbeträge für die Besoldungsgruppe A 5 | 
 Der Familienzuschlag der Stufe 2 erhöht sich | 
 für das erste zu berücksichtigende Kind um | 18,00

@@ -22,7 +22,6 @@ Oberrechnungsrätin, Oberrechnungsrat
 - als Prüfungsbeamtin oder als Prüfungsbeamter beim Rechnungshof -
 Rätin2), Rat2)
 Rätin im pädagogischen Verwaltungsdienst2), Rat im pädagogischen Verwaltungsdienst2)
-Sonderschullehrerin14) 15), Sonderschullehrer14) 15)
 Studienrätin2), Studienrat2)
 - an allgemeinbildenden und beruflichen Schulen sowie an Regionalen Beratungs- und Unterstützungszentren -
 Fußnoten
@@ -53,7 +52,3 @@ Fußnoten
 12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
-14) Bis zum 31. Januar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
-14) Bis zum 31. Januar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
-15) Ab 1. Februar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
-15) Ab 1. Februar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.

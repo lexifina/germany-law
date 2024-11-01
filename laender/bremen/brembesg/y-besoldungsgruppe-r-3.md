@@ -1,5 +1,7 @@
 # Besoldungsgruppe R 3
 Besoldungsgruppe R 3
+Leitende Oberstaatsanwältin, Leitender Oberstaatsanwalt
+- als ständige Vertretung der Generalstaatsanwältin oder des Generalstaatsanwalts -
 Präsidentin des Amtsgerichts, Präsident des Amtsgerichts
 - als Präsidentin oder als Präsident des Amtsgerichts Bremerhaven -
 Präsidentin des Verwaltungsgerichts, Präsident des Verwaltungsgerichts

@@ -24,6 +24,7 @@ Leiterin eines Zentrums für unterstützende Pädagogik4), Leiter eines Zentrums
 Oberlehrerin im Justizvollzugsdienst2) 11), Oberlehrer im Justizvollzugsdienst2) 11)
 Oberstufenleiterin4), Oberstufenleiter4)
 - an einer Oberschule -
+Sonderschullehrerin13)14), Sonderschullehrer13)14)
 Zweite Konrektorin, Zweiter Konrektor
 - einer Grundschule mit mehr als 360 Schülerinnen und Schülern12) -
 Besoldungsgruppe A 14
@@ -316,7 +317,11 @@ Fußnoten
 12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
+13) Bis zum 31. Januar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
+13) Bis zum 31. Januar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
+14) Ab 1. Februar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
+14) Ab 1. Februar 2010 ernannte Beamtinnen und Beamte erhalten eine Amtszulage nach Anlage 6.
 14) Soweit nicht in der Besoldungsgruppe A 16.
 14) Soweit nicht in der Besoldungsgruppe A 16.
