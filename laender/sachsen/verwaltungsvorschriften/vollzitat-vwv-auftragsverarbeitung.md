@@ -1,8 +1,8 @@
 # Vollzitat: VwV Auftragsverarbeitung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-05-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/18143.1
+- Datum: 2024-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18143.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.05.2019
+01.11.2024
 bis
-31.10.2024
+31.05.2026
 
 VwV Auftragsverarbeitung
 
@@ -40,7 +40,7 @@ Gegenstand der Verarbeitung
 
 1.
 
-Die Leitstelle für Informationstechnologie der sächsischen Justiz verarbeitet im Rahmen der Wahrnehmung ihrer Aufgaben die personenbezogenen Daten, die in den Geschäftsprozessen des Staatsministeriums der Justiz sowie der Gerichte, Staatsanwaltschaften und Justizvollzugsanstalten anfallen und dort mittels Informationstechnik verarbeitet werden. Dies erfolgt auf unbestimmte Zeit auf der Grundlage dieser Verwaltungsvorschrift durch die Leitstelle für Informationstechnologie der sächsischen Justiz (Auftragsverarbeiter) im Auftrag des Staatsministeriums der Justiz, der Gerichte, Staatsanwaltschaften und Justizvollzugsanstalten (Verantwortliche) gemäß
+Die Leitstelle für Informationstechnologie der sächsischen Justiz verarbeitet im Rahmen der Wahrnehmung ihrer Aufgaben die personenbezogenen Daten, die in den Geschäftsprozessen des Staatsministeriums der Justiz und des Ausbildungszentrums Bobritzsch sowie der Gerichte, Staatsanwaltschaften und Justizvollzugsanstalten anfallen und dort mittels Informationstechnik verarbeitet werden. Dies erfolgt auf unbestimmte Zeit auf der Grundlage dieser Verwaltungsvorschrift durch die Leitstelle für Informationstechnologie der sächsischen Justiz (Auftragsverarbeiter) im Auftrag des Staatsministeriums der Justiz, des Ausbildungszentrums Bobritzsch, der Gerichte, Staatsanwaltschaften und Justizvollzugsanstalten (Verantwortliche) gemäß
 
 
 a)
@@ -443,9 +443,9 @@ Fsn-Nr.: 300-V19.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Mai 2019
+Fassung gültig ab:  1. November 2024
 
-Fassung gültig bis: 31. Oktober 2024
+Fassung gültig bis: 31. Mai 2026
 
 Drucken/Speichern
 
@@ -470,7 +470,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/18143.1
+https://www.revosax.sachsen.de/vorschrift/18143.2
 Stand vom
 18.11.2026
 
