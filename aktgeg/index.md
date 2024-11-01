@@ -52,6 +52,7 @@ Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts](0026
 - [§ 26n Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften](0026n.md)
 - [§ 26o Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes](0026o.md)
 - [§ 26p Übergangsvorschrift zum Zukunftsfinanzierungsgesetz](0026p.md)
+- [§ 26q Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz](0026q.md)
 
 ## Zweiter Abschnitt Anwendung aktienrechtlicher
 Vorschriften auf Unternehmen mit anderer Rechtsform

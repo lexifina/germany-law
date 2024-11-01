@@ -94,7 +94,7 @@
 | § 44 | Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft |
 | § 45 | Erklärungen zur Namensführung des Kindes |
 | § 45a | Erklärung zur Reihenfolge der Vornamen |
-| § 45b | Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung |
+| § 45b | Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag |
 |  |
 | Kapitel 8 |
 | Berichtigungen und gerichtliches Verfahren |
@@ -155,5 +155,5 @@
 | § 75 | Übergangsbeurkundung |
 | § 76 | Fortführung, Benutzung und Aufbewahrung der Altregister |
 | § 77 | Fortführung, Aufbewahrung und Benutzung der Familienbücher |
-| § 78 | (weggefallen) |
+| § 78 | Übergangsregelung |
 | § 79 | Altfallregelung |

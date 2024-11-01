@@ -3,3 +3,5 @@
 1. BSI TR-03116 – Kryptographische Vorgaben für Projekte der Bundesregierung
 2. BSI TR-03137 – Optically Verifiable Cryptographic Protection of non-electronic Documents (Digital Seal)
 3. BSI TR-03121 – Biometrics for Public Sector Applications
+4. BSI-TR 03135 – Machine Authentication of MRTDs for Public Sector Applications
+5. BSI-TR 03156 – Hoheitliches Identitätsmanagement in Verbindung mit EU-Informationssystemen

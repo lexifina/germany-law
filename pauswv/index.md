@@ -30,9 +30,9 @@
 - [§ 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber](0016.md)
 - [§ 17 Erhalt der Geheimnummer und der Entsperrnummer](0017.md)
 
-## Kapitel 4 Aushändigung des Personalausweises; Braille-Aufkleber
+## Kapitel 4 Ausgabe und Versand des Personalausweises; Braille-Aufkleber
 
-- [§ 18 Aushändigung des Personalausweises](0018.md)
+- [§ 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts](0018.md)
 - [§ 18a Aufkleber mit Brailleschrift](0018a.md)
 
 ## Kapitel 5 Änderung von Daten des Personalausweises; nachträgliches Einschalten
@@ -78,7 +78,8 @@
 
 - [§ 36b Entsprechende Anwendung der Vorschriften über den Personalausweis](0036b.md)
 - [§ 36c Nicht auf die eID-Karte entsprechend anwendbare Vorschriften](0036c.md)
-- [§ 36d Muster der eID-Karte](0036d.md)
+- [§ 36d Abweichende Regelung für die eID-Karte](0036d.md)
+- [§ 36e Muster der eID-Karte](0036e.md)
 
 ## Kapitel 11 Schlussvorschriften
 

@@ -105,5 +105,4 @@ Teil 2
 |  | 18. | in Aufenthalts- oder Asylangelegenheiten, |  |
 |  | 19. | zur persönlichen Eignung nach § 6 des Waffengesetzes, |  |
 |  | 20. | zur Anerkennung von Berufskrankheiten, Arbeitsunfällen, zu den daraus folgenden Gesundheitsschäden und zur Minderung der Erwerbsfähigkeit nach dem Siebten Buch Sozialgesetzbuch, |  |
-|  | 21. | zu rechtsmedizinischen, toxikologischen oder spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer Beurteilung der Schuldfähigkeit, |  |
-|  | 22. | in Verfahren nach dem Transsexuellengesetz. |  |
+|  | 21. | zu rechtsmedizinischen, toxikologischen oder spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer Beurteilung der Schuldfähigkeit. |  |

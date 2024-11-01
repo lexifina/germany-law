@@ -109,6 +109,7 @@
 | § 59a | Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU |
 | § 59b | Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU |
 | § 60 | Lichtbild |
+| § 60a | Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts |
 | § 61 | Sicherheitsstandard, Ausstellungstechnik |
 | Abschnitt 2 |
 | Datenerfassung, Datenverarbeitung und Datenschutz |
@@ -139,14 +140,14 @@
 | § 72 | Mitteilungen der Meldebehörden |
 | § 72a | Mitteilungen der Pass- und Ausweisbehörden |
 | § 73 | Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes |
-| § 74 | Mitteilungen der Justizbehörden |
+| § 74 | Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen |
 | § 75 | (weggefallen) |
 | § 76 | Mitteilungen der Gewerbebehörden |
 | § 76a | Form und Verfahren der Datenübermittlung im Ausländerwesen |
 | Unterabschnitt 4 |
 | Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes |
 | § 76b | Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik |
-| § 76c | Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten |
+| § 76c | Nationale Sicherheits- und Qualitätsstatistik |
 | Kapitel 6 |
 | Ordnungswidrigkeiten |
 | § 77 | Ordnungswidrigkeiten |

@@ -37,6 +37,9 @@
 ##### Art 7 Rechts- und Geschäftsfähigkeit
 
 
+##### Art 7a Geschlechtszugehörigkeit
+
+
 ##### Art 8 Gewillkürte Stellvertretung
 
 

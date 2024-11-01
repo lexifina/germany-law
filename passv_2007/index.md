@@ -2,13 +2,13 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Kapitel 1 Passmuster
+## Kapitel 1 Passmuster; Ausgabe und Versand des Passes
 
 - [§ 1 Muster des Reisepasses; Änderung von Daten](0001.md)
 - [§ 2 Muster des vorläufigen Reisepasses; Änderung von Daten](0002.md)
 - [§ 3 Muster des amtlichen Passes; Änderung von Daten](0003.md)
 - [§ 4 Lichtbild](0004.md)
-- [§ 5 (weggefallen)](0005.md)
+- [§ 5 Ausgabe und Versand des Passes](0005.md)
 
 ## Kapitel 2 Befreiung von der Passpflicht und Passersatzpapiere
 

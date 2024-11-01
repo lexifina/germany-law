@@ -134,6 +134,7 @@ Ausweisersatz und sonstige Dokumente
 - [§ 59a Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU](0059a.md)
 - [§ 59b Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU](0059b.md)
 - [§ 60 Lichtbild](0060.md)
+- [§ 60a Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts](0060a.md)
 - [§ 61 Sicherheitsstandard, Ausstellungstechnik](0061.md)
 
 ### Abschnitt 2 Datenerfassung, Datenverarbeitung und Datenschutz
@@ -170,7 +171,7 @@ Ausweisersatz und sonstige Dokumente
 - [§ 73 Mitteilungen der
 Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15
 des Bundesvertriebenengesetzes](0073.md)
-- [§ 74 Mitteilungen der Justizbehörden](0074.md)
+- [§ 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen](0074.md)
 - [§ 75 (weggefallen)](0075.md)
 - [§ 76 Mitteilungen der Gewerbebehörden](0076.md)
 - [§ 76a Form und Verfahren der Datenübermittlung im Ausländerwesen](0076a.md)
@@ -178,7 +179,7 @@ des Bundesvertriebenengesetzes](0073.md)
 #### Unterabschnitt 4 Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes
 
 - [§ 76b Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](0076b.md)
-- [§ 76c Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten](0076c.md)
+- [§ 76c Nationale Sicherheits- und Qualitätsstatistik](0076c.md)
 
 ## Kapitel 6 Ordnungswidrigkeiten
 
@@ -229,3 +230,4 @@ nach § 60a Abs. 4 Aufenthaltsgesetz](anlage-d-2b.md)
 - [Anlage D15 Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)](anlage-d-15.md)
 - [Anlage D16 Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)](anlage-d-16.md)
 - [Anlage D17 Muster für den Aufkleber mit Brailleschrift](anlage-d-17.md)
+- [Anlage E Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](anlage-e.md)

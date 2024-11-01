@@ -99,7 +99,7 @@ Beurkundungsfälle
 - [§ 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft](0044.md)
 - [§ 45 Erklärungen zur Namensführung des Kindes](0045.md)
 - [§ 45a Erklärung zur Reihenfolge der Vornamen](0045a.md)
-- [§ 45b Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung](0045b.md)
+- [§ 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag](0045b.md)
 
 ## Kapitel 8 Berichtigungen und gerichtliches Verfahren
 
@@ -161,5 +161,5 @@ Personenstandsregister
 - [§ 75 Übergangsbeurkundung](0075.md)
 - [§ 76 Fortführung, Benutzung und Aufbewahrung der Altregister](0076.md)
 - [§ 77 Fortführung, Aufbewahrung und Benutzung der Familienbücher](0077.md)
-- [§ 78 (weggefallen)](0078.md)
+- [§ 78 Übergangsregelung](0078.md)
 - [§ 79 Altfallregelung](0079.md)
