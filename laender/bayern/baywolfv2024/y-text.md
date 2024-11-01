@@ -1,0 +1,1 @@
+Auf Grund des § 45 Abs. 7 Satz 4 und 5 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Art. 5 des Gesetzes vom 3. Juli 2024 (BGBl. 2024 I Nr. 225) geändert worden ist, verordnet die Bayerische Staatsregierung:
