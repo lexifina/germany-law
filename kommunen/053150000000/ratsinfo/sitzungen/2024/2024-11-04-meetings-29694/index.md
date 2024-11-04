@@ -1,0 +1,51 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2024-11-04T17:00:00+01:00
+- Ende: 2024-11-04T17:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29694
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/29694
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündl.Anfrage der AfD-Fraktion aus der Sitzung des AVR-Ausschusses betreffend die Auswirkung von Grenzkontrollen auf das Aufkommen an unterzubringenden Geflüchteten - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage der Volt-Fraktion zur Änderungsverordnung Kölner Taxitarif (2239/2024) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Die Stadt Köln tritt dem Unternehmensnetzwerks des BMFSFJ "Erfolgsfaktor Familie" bei! - Kenntnis genommen
+- TOP 4.2: Einführung SAP Business Warehouse (SAP BW) - Kenntnis genommen
+- TOP 4.3: Zensus 2022 - Kenntnis genommen
+- TOP 4.4: Aus der Sitzung des Verkehrsausschusses am 11.06.2024: Beantwortung einer mündlichen Anfrage der AfD Fraktion betreffend "Angstraum - KBV-Haltestelle". - Kenntnis genommen
+- TOP 4.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtlichen Menschen - 01/2024 - Kenntnis genommen
+- TOP 4.6: Bericht der Behindertenbeauftragten der Stadt Köln 03/2024 - Kenntnis genommen
+- TOP 4.7: Evaluierungsbericht des Sachstandsberichts der Stadt Köln zum 10-Punkte-Aktionsplan der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 4.8: Anpassung der "Gebührensatzung für die Rheinische Musikschule der Stadt Köln" - Kenntnis genommen
+- TOP 4.9: Information zum 10-Punkte-Plan - zurückgestellt
+- TOP 4.10: Sachstandsbericht Erweiterung des Wallraf-Richartz-Museums & Fondation Corboud, Stand: 30. September 2024 - Kenntnis genommen
+- TOP 4.11: Richtlinie Recht - Kenntnis genommen
+- TOP 4.12: Absage Silvester-Event auf dem Roncalliplatz 2024/2025 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Mögliche chinesische Einflussnahme im Kölner Rathaus" - zurückgestellt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion betreffend "Mögliche chinesische Einflussnahme im Kölner Rathaus" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Seniorenvertretung betreffend "Gewählten Seniorenvertretungen im Stadtbezirk das Recht vergeben, Anträge, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen" - zurückgestellt
+- TOP 8.2: Antrag der Fraktionen SPD und FDP betreffend "Sport- und Fitnesskurse auf städtischen Grünflächen ermöglichen" - geändert beschlossen
+- TOP 8.3: Antrag der FDP-Fraktion betreffend "Professionalisierung der Online-Terminvergabe in Kundenzentren der Stadt Köln" - endgültig abgelehnt
+- TOP -: Stellungnahme zum Antrag der FDP-Fraktion betreffend "Professionalisierung der Online-Terminvergabe in Kundenzentren der Stadt Köln" - Kenntnis genommen
+- TOP 8.4: Antrag der FDP-Fraktion betreffend "Mehrsprachiges Formular für Antrag auf Erteilung eines befristeten Aufenthaltstitels einführen" - endgültig abgelehnt
+- TOP 8.5: Antrag der Fraktion die Linke betreffend "Umgang mit wohnungslosen und kranken Menschen" - zurückgestellt
+- TOP -: Änderungsantrag der Volt Fraktion betreffend Umgang mit wohnungslosen und kranken Menschen“ - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: 4. Änderungsfassung der Kölner Stadtordnung (KSO) - geändert beschlossen
+- TOP 10.2: Grundsteuerreform: Festlegung der Hebesätze für die Erhebung der Grundsteuer ab dem 01.01.2025 und Beschluss über die Hebesatzsatzung - ohne Votum behandelt
+- TOP 10.3: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2025 - ohne Votum behandelt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
