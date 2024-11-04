@@ -1,0 +1,117 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2024-11-04T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/7982514
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/7982514
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Beschluss über das Protokoll der Sitzungen vom 09.09.2024 und 07.10.2024
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Fehlender Absperrpfosten beim Fuß- und Radweg Maronstraße
+- TOP 2.2.: Fahrradabstellplatz am Roter-Turm-Platz in Sendling
+- TOP 2.3.: Parklizenzgebiet für Sendling
+- TOP 2.4.: Schöttlstraße – Sommerstraße in Sendling
+- TOP 2.5.: Sicherheit der Baustelle am Sigi-Sommer-Haus
+- TOP 2.6.: Bäume und Sträucher in der Kidlerstraße
+- TOP 2.7.: Fahrradabstellflächen in der Senserstraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.2.1.: Antrag auf Baumfällung vom 30.09.2024 auf dem Grundstück der Lindenschmitstraße 41
+- TOP 4.2.2.: Antrag auf Baumfällung vom 17.10.2024 auf dem Grundstück der Brudermühlstraße 44
+- TOP 4.3.: Unterrichtungen
+- TOP 4.3.1.: Bestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Verlängerung um eine weitere Amtsperiode bis 31.12.2028
+- TOP 4.3.2.: Bauzaun am Sendlinger Loch
+- TOP 4.3.3.: Denkmalgeschützte Wohnanlage an der Fall-/Zechstraße, 81369 München – Antwort der Lokalbaukommission an das Denkmalnetz Bayern und konkreten Planungen
+- TOP 4.3.4.: Genehmigung zu Baumveränderung bzw. Baumfällung auf dem Grundstück Gaißacher Straße 23 - 29
+- TOP 4.3.5.: Erneuerung des Straßenbegleitgrüns am Resi-Huber-Platz
+- TOP 4.3.6.: Mögliche erneute Baumfällung am Sendlinger Friedhof (Baum Nr. 00637)
+- TOP 4.4.: Anträge
+- TOP 4.4.1.: Trinkbrunnen am Valley-Spielplatz (Antrag der SPD-Fraktion)
+- TOP 4.4.2.: Generalsanierung BSA Wackersbergerstraße 49 – aktueller Sachstand, Bauablauf-plan/Terminplan, Maßnahmen zur Kompensation des verspäteten Baubeginns (Antrag der CSU-Fraktion)
+- TOP 4.5.: Sonstiges
+- TOP 4.5.1.: Hochwassersituation Kleingartenanlage SW 24 (Dietramszeller-/Schäftlarnstraße)
+- TOP 5.: Unterausschuss Öffentlicher Raum, Mobilität und Gewerbe
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Dauer der Ampelschaltung für Fußgänger am Harras
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Ganghoferstraße zwischen Pfeuferstraße und Baumgartnerstraße – verkehrsrechtliche Anordnung
+- TOP 5.2.2.: Interfraktioneller Antrag: Stadtweite Lösung für das Abstellen von E-Scootern Antrag des Bezirksausschusses 20 - Hadern
+- TOP 5.3.: Unterrichtungen
+- TOP 5.3.1.: Park- und Verkehrssituation im Stadtbezirk
+- TOP 5.3.2.: Ausbau von Radwegen und ÖPNV in Sendling Anfrage Nr. 20-26 / Q 00075 aus der Bürgerversammlung des Stadtbezirkes 06 – Sendling am 12.10.2021
+- TOP 5.3.3.: Erlaubnisfreie Veranstaltung in einer städtischen Grünanlage; Martinszug städt. KiGa zur Grünanlage Sportanlage Wacker am 07.11.2024; Start: Roter-Turm-Platz 10
+- TOP 5.3.4.: Verfugung des Kopfsteinpflasters in der Oberländerstraße
+- TOP 5.3.5.: Diverse Themen zum Stadtbezirk (Verkehrsführung, Lärm durch getunte Fahrzeuge)
+- TOP 5.3.6.: Querung der Fallstraße Höhe Einmündung Georg-Hallmmaier-Straße
+- TOP 5.3.7.: Zebrastreifen & Baumersatz in der Hans-Klein-Straße
+- TOP 5.3.8.: Arbeiten im Straßenraum; Parkstraße 6 - Neuverlegung eines Mehrspartenhausanschlusses und Stilllegung eines Gas- und Wasserhausanschlusses
+- TOP 5.3.9.: Schienenbearbeitung auf diversen Abschnitten im U-Bahnnetz im 4. Quartal 2024
+- TOP 5.4.: Anträge
+- TOP 5.4.1.: Neu-Aufstellung einer Sitzbank an der Ecke Lindenschmitstraße / Danklstraße (Antrag des Seniorenbeirat)
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Demokratiemobil on Tour 2025 – Standortabstimmung
+- TOP 6.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kantorat der Himmelfahrtskirche München-Sendling „Brahms: Ein deutsches Requiem op. 45 am 16.11.2024“ 2.950,00 € / AZ: 0262.0-6-0524
+- TOP 6.1.2.: (E) Stadtbezirksbudget Kartoffelkombinat – der Verein e.V. „Kartoffel-Akademie: Vortrag „Rechte Ideologien in der Landwirtschaft“ am 21.11.2024“ 300,00 € / AZ: 0262.0-6-0525
+- TOP 6.1.3.: (E) Stadtbezirksbudget animato münchner Orchester e.V. Konzert in der Himmelfahrtskirche vom 01.10.2024 -15.02.2025 1.310,00€; Az. 0262.0-6-0526
+- TOP 6.1.4.: (E) Stadtbezirksbudget Fabi Thalkirchen e.V. „Renovierung der Kursräume und des Garderobenraums vom 21.12.2024 – 05.01.2025“ 4.041,26 € / AZ: 0262.0-6-0521
+- TOP 6.1.5.: (E) Stadtbezirksbudget Kollektiv Herzfeld 8.11.18 - Diese Revolution hat kein Lied vom 15.11.2024 - 20.11.2024 1.850,00 € / AZ: 0262.0-6-0527
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.3.1.: Verwendungsnachweise: - 15 Jahre Klohäuschen; Die 7 Klohäuschen Biennale - Grundschule Pfeuferstraße; Faiplay
+- TOP 6.4.: Anträge
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Bildung und Soziales
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.3.: Unterrichtungen
+- TOP 7.4.: Anträge
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Kultur und Freizeit
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
+- TOP 8.4.: Anträge
+- TOP 8.5.: Sonstiges
+- TOP 8.5.1.: Wahl zum Mitglied des Nutzerbeirats der LUISE
+- TOP 9.: Verschiedenes / Sonstiges
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Unterrichtungen
+- TOP 9.4.: Anträge
+- TOP 9.5.: Sonstiges
+- TOP 2.8.: Sendlinger Loch – gemeinsamer runder Tisch zur Lösungsfindung
+- TOP 2.9.: Bürgeranfrage zu TOP 5.4.1 – Standort der Sitzbank
+- TOP 4.3.7.: Zwischennachricht zu den Vorgängen: „Die Landeshauptstadt München nimmt die Bereiche südlich der Brudermühlstraße, zwischen der Thalkirchner Straße, der Schäftlarnstraße sowie der Dietramszeller Straße in die „Erhaltungssatzung Sendling“ auf BA-Antrags-Nr. 20-26 / B 05063 des Bezirksausschusses des Stadtbezirkes 06 – Sendling vom 06.02.2023 und „Erneute Prüfung für ein Erhaltungssatzungsgebiet im südlichen Brudermühlviertel!“ BA-Antrags-Nr. 20-26 / B 07077 des Bezirksausschusses des Stadtbezirkes 06 – Sendling vom 07.10.2024
+- TOP 5.3.10.: Änderung der Ausnahmegenehmigung zum Martinszug/Laternenfest des Kindergartens Singende Matschknödel durch Isarauen am 14.11.2024 (statt 15.11.2024)
+- TOP 5.3.11.: Anliegen zur Verkehrssicherheit
+- TOP 5.3.12.: Anpassung der Ampelschaltung für Fahrradfahrer*innen in der Lindwurmstraße BV-Empfehlung Nr. 20-26/ E 01666
+- TOP 5.3.13.: Grundschule Pfeuferstraße - Aufhebung nicht mehr benötigter Bücherbushaltestelle
+- TOP 6.3.2.: Verlängerung der vom BA 6 geförderten Maßnahme "Begrünung Implerschule"
+- TOP 8.2.1.: Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 25.11. bis 23.12.2024
+- TOP 8.5.2.: Erinnerungszeichen für Marjem und Chaim Both
+- TOP 2.10.: Anzeige einer Ordnungswidrigkeit in der Thalkirchner Straße
+- TOP 2.11.: Baumrückschnitt in der Kidlerstraße
+- TOP 2.12.: Möglichkeit zur Vorstellung des Sport- und Veranstaltungskonzepts "Padel Beach"
+- TOP 2.13.: Parkplätze vor dem Friedhof an der Karwendelstraße
+- TOP 2.14.: Schranke oder umklappbare Poller für den Fußgängerbereich beim Postgebäude
+- TOP 2.15.: Entsorgung der Fahrradständer an der Valleystraße 40
+- TOP 4.2.3.: Antrag auf Baumfällung vom 22.10.2024 auf dem Grundstück der Thalkirchner Straße 184
+- TOP 4.2.4.: Antrag auf Baumfällung vom 23.10.2024 auf dem Grundstück der Lindenschmitstraße
+- TOP 5.3.14.: Mobilitätsstrategie 2035 Teilstrategie: Management des öffentlichen (Straßen-)Raums
+- TOP 5.3.15.: Toilette S-/ U-Bahnhof Harras
+- TOP 5.3.16.: Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis Mini-Ausstellung RKU Kommunale Wärmeplanung am Resi-Huber-Platz vom 11.11.2024 - 15.11.2024
+- TOP 5.3.17.: Baumaßnahmen der MVG zu den U-Bahnlinien U3/U6
+- TOP 6.1.6.: (E) Stadtbezirksbudget Wasserwacht München Mitte Beschaffung neuer E-Bikes vom 01.12.2024 – 31.12.2024 3.838,67 € / AZ: 0262.0-6-0522
+- TOP 6.1.7.: (E) Stadtbezirksbudget Init. „Street Art“ “Street Art: Brudermühlbrücke "Wesen der Lüfte, Himmel der Freiheit vom 24.10.2024 - 31.05.2025“ 4.105,00 € / AZ: 0262.0-6-0520
